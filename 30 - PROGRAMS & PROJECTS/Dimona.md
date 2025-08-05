@@ -1,4 +1,4 @@
-The [[Dimona]] facility, officially known as the Negev Nuclear Research Center, stands as a deeply clandestine and pivotal complex within [[Israel]]'s national security apparatus, nestled in the arid [[Negev Desert]] south of [[Jerusalem]]. Its existence and operations are central to [[Israel]]'s undeclared nuclear weapons program, embodying the nation's commitment to [[The Samson Option]], a doctrine of last resort that envisions massive nuclear retaliation in the face of an existential threat. This facility is not merely a research center but a fully operational industrial complex dedicated to the production of weapons-grade plutonium and the development of advanced nuclear armaments.
+The [[Dimona]] facility, officially known as the Negev Nuclear Research Center, stands as a deeply clandestine and pivotal complex within [[Israel]]'s national security apparatus, nestled in the arid [[Negev Desert]] south of [[Jerusalem]]. Its existence and operations are central to [[Israel]]'s undeclared nuclear weapons program, embodying the nation's commitment to [[The Samson Option (GFE)]], a doctrine of last resort that envisions massive nuclear retaliation in the face of an existential threat. This facility is not merely a research center but a fully operational industrial complex dedicated to the production of weapons-grade plutonium and the development of advanced nuclear armaments.
 
 ### History and Construction
 
@@ -32,7 +32,7 @@ A significant event in [[Israel]]'s nuclear history occurred on September 22, 19
 
 ### Strategic Significance
 
-The existence and output of [[Dimona]] form the bedrock of [[Israel]]'s nuclear deterrent strategy. The facility's continuous production of plutonium and its capability to develop advanced warheads have enabled [[Israel]] to maintain a policy of "strategic ambiguity" regarding its nuclear capabilities. This deliberate lack of official confirmation, coupled with the implied threat of a nuclear arsenal, serves to enhance [[Israel]]'s perceived security in a volatile and often hostile region. The [[The Samson Option]], deeply intertwined with [[Dimona]]'s capabilities, represents [[Israel]]'s ultimate assurance against existential threats, a powerful and silent guarantor of its survival.
+The existence and output of [[Dimona]] form the bedrock of [[Israel]]'s nuclear deterrent strategy. The facility's continuous production of plutonium and its capability to develop advanced warheads have enabled [[Israel]] to maintain a policy of "strategic ambiguity" regarding its nuclear capabilities. This deliberate lack of official confirmation, coupled with the implied threat of a nuclear arsenal, serves to enhance [[Israel]]'s perceived security in a volatile and often hostile region. The [[The Samson Option (GFE)]], deeply intertwined with [[Dimona]]'s capabilities, represents [[Israel]]'s ultimate assurance against existential threats, a powerful and silent guarantor of its survival.
 
 ### Footnotes
 
