@@ -1,0 +1,14 @@
+D.I.G. (Decency in Government) was an organization formed by deputies and former grand jury members in Mariposa County, [[California]]. The group was established after numerous meetings where deputies and grand jurors corroborated stories of long-standing corruption, murder, threats, and harassment within the Mariposa Sheriff's Department.[^1]
+
+[[Ben Wagner]], a Jackson, [[California]], lawyer representing [[Dave Beavers]] and other deputies, played a key role in assembling the group and airing their stories. D.I.G. was later incorporated. Wagner, on behalf of D.I.G., filed two civil rights lawsuits with the [[United States District Court|U.S. District Court]] in Fresno, which were later revealed to be the largest civil rights lawsuits ever recorded in [[California]] history. He also filed a Writ of Mandamus against [[John Van de Kamp]], the State Attorney General; [[George Vinson]], regional director of the Fresno [[Federal Bureau Investigation|FBI]]; [[George Deukemejian]], then Governor of [[California]]; and [[David F. Levi]], [[United States Attorney|United States Attorney]], for refusing to investigate corruption in Mariposa County.[^1]
+
+The citizens of Mariposa became divided, with D.I.G. becoming a major topic of discussion. A *Capitol News Service* story by [[Jerry Goldberg]] noted that Attorney General staff members "stonewalled questions" about any investigation or willingness to meet with D.I.G. Goldberg's article also mentioned the "Queen's accident" and threats received by individuals who spoke out against the sheriff and district attorney.[^1]
+
+[[Vivian L. Wagner]], Ben Wagner's wife, sent an emotionally gripping letter to President [[Ronald Reagan]] at the [[White House]] on February 19, 1988, titled "Restoring Equal Rights to the Citizens of Mariposa County." The letter detailed the alleged corruption, the failure of state and federal agencies to investigate, and the threats and intimidation faced by residents. It listed numerous grievances, including violations of civil rights, obstruction of justice, bribery, intimidation of grand jury members, and homicides.[^1]
+
+Shortly before [[Ben Wagner]]'s first scheduled court appearance on behalf of D.I.G., he received an obscure response from "Chuck" at the [[Ronald Reagan|Reagan]] [[White House]]. The day after meeting with "Chuck," Wagner, along with [[Jerry Goldberg]], reportedly disappeared, unplugging his phone and leaving his law practice and home, never to be seen again. The remaining members of D.I.G. began to call themselves "The Loser's Club," feeling they were fighting an incomprehensible evil.[^1]
+
+---
+## Footnotes
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

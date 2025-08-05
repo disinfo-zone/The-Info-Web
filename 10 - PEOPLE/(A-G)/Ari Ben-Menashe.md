@@ -1,0 +1,66 @@
+---
+tags:
+  - Person
+  - Intelligence
+  - Israel
+  - Iran
+  - ArmsTrade
+  - PROMIS
+---
+[[Ari Ben-Menashe]] is a self-proclaimed [[Israel|Israeli]] military intelligence officer, born in Tehran, [[Iran]] in 1951 to affluent Iraqi Jewish parents. He is multilingual, speaking Arabic, English, French, Farsi, Hebrew, and Spanish. His father, Gourdji, was involved with [[LEHI]] (Stern Gang) and knew [[Yitzhak Shamir]].
+
+Ben-Menashe moved to Israel in 1966 at age 14. In 1969, while on [[Kibbutz Mishmar Hasharon]], he was involved in the [[Michael Dennis Rohan]]/[[El Aqsa Mosque]] arson incident. He was recruited by [[SHABAK]] in 1972 but refused to spy on his friends.
+
+He was drafted into military service in 1974, assigned to [[Unit 8200]] (Signals Intelligence) on the Iranian desk, where he claims to have broken the Iranian diplomatic code. In 1976, he was involved in uncovering a [[Lockheed Aircraft Company|Lockheed]] bribe scandal involving [[Shimon Peres]]. He refused an assignment to the Rome listening station in 1977, was court-martialed, and subsequently released from military service.
+
+In August 1977, he joined the External Relations Department of the [[Israel Defense Forces]]/Military Intelligence (IDF/MI/ERD) as a civilian. He became a Middle East commuter, serving as a liaison with Iranian intelligence ([[SAVAK]]) and exchanging technical information, such as [[Chobham armor]].
+
+In 1977, he met [[Mahmoud Amirian]] (Tudeh Party) and [[Sayeed Mehdi Kashani]] (Shi'ite opposition) at Tehran University, and warned Israeli intelligence of an impending Iranian Revolution in 1978. In March 1978, he undertook a mission to [[Nicaragua]] to establish communication with the [[Sandinista National Liberation Front|Sandinistas]], where he met [[Marie Fernanda]] (Freddie), who later became pregnant with their daughter, Herut. The [[Central Intelligence Agency|CIA]] dismissed his warnings about Iran in April 1978.
+
+In December 1978, he was involved in a plan to assassinate [[Ayatollah Ruhollah Khomeini]] (with [[Rafi Eitan]] and Col. Assaf Heftez). [[Ruth Ben-David]] acted as an emissary between [[Menachem Begin]] and Ayatollah Khomeini in December 1978. The Shah left Iran in January 1979, and F-14 jets were flown out by Israeli aircrews. [[Mehdi Bazargan]] became Prime Minister of Iran, facing a power struggle with extremists. Ben-Menashe noted the growing Iraqi threat to Iran under [[Saddam Hussein]] and Israeli concerns.
+
+He attended an Israel-[[USA|U.S.]] intelligence exchange conference in September 1979, where he criticized the U.S. attitude (including [[Jack Varona]], [[Robert Gates]], and [[Stansfield Turner]]). Following the [[USA|U.S.]] Embassy hostage crisis in November 1979, he observed [[Jimmy Carter]]'s handling of the situation and the involvement of the [[Hashemi brothers]] in arms sales for hostages.
+
+[[Miles Copeland]]'s group of CIA-connected officers, along with [[William Casey]], [[Robert McFarlane]], and [[Earl Brian]], became involved in secret negotiations with the Iranians. [[David Kimche]] (Mossad Tevel) initiated a secret arms supply to Iran via [[South Africa]] in September 1979. [[Rafi Eitan]] established a network with Senator [[John Tower]], [[Robert McFarlane]], and [[Earl Brian]].
+
+The first Madrid meeting (March 1980) involved [[Mehdi Karrubi]], [[Sayeed Mehdi Kashani]], [[Ahmed Omshei]], [[William Casey]], [[Robert McFarlane]], and [[Donald Gregg]]. [[Shimon Peres]] also secretly met with Karrubi. The sale of tires to Iran in April 1980 led to [[Jimmy Carter]]'s anger. The [[Operation Eagle Claw]] rescue mission failed in April 1980.
+
+A second Madrid meeting in May 1980 included [[Mehdi Karrubi]], [[Sayeed Mehdi Kashani]], [[Ahmed Omshei]], [[Khosro Fakhrieh]], [[William Casey]], [[Robert Gates]], [[Robert McFarlane]], and [[Earl Brian]], where Republicans were observed delaying hostage release for political gain. The [[KGB]] made inquiries about Israeli intelligence in 1980. The Israeli Cabinet issued a directive in August 1980 to cooperate with the Republican camp.
+
+An Amsterdam meeting in August 1980 involved [[Sayeed Mehdi Kashani]], Iranian officials, and [[Cyrus Husseinzadeh]] (SAVAMA), where an Iranian shopping list was presented. The Iraqi invasion of Iran occurred in September 1980. A fourth Madrid/Barcelona meeting involved [[George Bush]] and [[Mehdi Karrubi]].
+
+A Paris meeting in October 1980 included [[George Bush]], [[William Casey]], [[Mehdi Karrubi]], [[Robert Gates]], [[George Cave]], [[Donald Gregg]], [[David Kimche]], [[Shmuel Morieh]], [[Uri Simchoni]], [[Rafi Eitan]], [[Ari Ben-Menashe]], and [[Simon Gabbay]], where the hostage release deal was sealed.
+
+Ben-Menashe received $56 million in [[Guatemala]] in December 1980 from a Saudi ambassador ([[Faissal Ghows]]), with $4 million designated for [[Earl Brian]] and $52 million for [[Sayeed Mehdi Kashani]], indicating money laundering. He met [[Robert Gates]] at Miami airport for the money transfer. Profits from tire and wheelbase sales ($956,000) were used to initiate a slush fund. The hostages were released on [[Ronald Reagan]]'s inauguration day, January 20, 1981.
+
+In the fall of 1980, the [[Iran-Israel Joint Committee]] was formed to supply arms to Iran, with initial members including [[David Kimche]], [[Shmuel Morieh]], [[Uri Simchoni]], [[Moshe Hebroni]], [[Rafi Eitan]], and [[Ari Ben-Menashe]].
+
+In February 1981, at a Vienna arms supply conference, a $1 billion deal was struck for F-4 parts, artillery shells, mortars, AK-47s, air-to-surface missiles, Chieftain tank engines, and C-130s. Ben-Menashe made his first trip to post-revolutionary Tehran in February 1981 under the alias "William Grace," meeting Iranian Defense Ministry officials and the Air Force commander. Concerns about the Iraqi nuclear reactor ([[Tammuz 17]]) were raised, leading to Israeli intelligence gathering and a Mossad operation to plant a homing device.
+
+A meeting in southern France in March 1981 between [[Abol Hassan Bani-Sadr]] and [[Moshe Arens]] fixed June 7 for the reactor attack. The [[Israel Air Force]] attacked [[Tammuz 17]] on June 7, 1981, with pilots including Col. [[Yoram Eitan]] and [[Yair Shamir]]. Weapons flights from Ben-Gurion Airport to Tehran, via Argentinean charters, began in March 1981. A [[KGB]] inquiry about the flights led to a Soviet shootdown of a cargo plane in July 1981. Ben-Menashe's relationship with [[Marie Fernanda]] continued, and their daughter Herut was born.
+
+The [[Ora Group]] was formed as a flagship for the slush fund. A New York operation on John Street was established for electronic equipment, but it was compromised when a Swiss woman leaked information to [[Leslie M. Gelb]] of the New York Times. [[Rafi Eitan]] used South African intelligence to deal with the Swiss woman.
+
+A strategic [[USA|U.S.]]/Israeli agreement (involving [[Ariel Sharon]], [[Robert Gates]], and [[Robert McFarlane]]) allowed the resale of older [[USA|U.S.]] arms. Money from arms sales was routed through [[USA|U.S.]] banks (Chicago-Tokyo Bank, Chemical Bank, Bank One, Valley National Bank of Arizona). Smokescreen operations involved private arms brokers like [[John Hortrich]] (alias John de Laroque) and [[Bernard Velliot]]. [[Nicholas Davies]], foreign editor of the London Daily Mirror, was recruited by [[Mossad]].
+
+A [[TOW missile]] deal in 1983 involved [[Ali Akbar Hashemi Rafsanjani]] and [[Sayeed Mehdi Kashani]], with a deception campaign involving [[Arieh Jacobson]] and [[Abraham Bar David]]. A T-80 tank was acquired from Iran in 1985. The slush fund financed the [[Likud Party]] (under [[Yitzhak Shamir]] and [[Ehud Ulmart]]) and "black" operations.
+
+[[Mohammed Radi Abdullah]], a former Jordanian Army Colonel, was involved in "black" operations, selling arms to Palestinian groups like [[Abu Nidal]] for intelligence. The [[Achille Lauro]] attack in 1985 is described as an Israeli "black" propaganda operation. Contributions were made to [[AIPAC]] and the Jewish Reform Movement (Conservative Party in Britain). The [[Mossad]] European headquarters moved to London in 1982.
+
+During the [[Falklands War]], Israel froze arms sales to [[Argentina]], and the [[United Kingdom|UK]] reimbursed Israel. [[Australia]] was used for "parking purposes" for C-130s from [[Vietnam]], artillery shells from [[North Korea]], [[TOW missile]]s, and [[Silkworm missile]]s from [[China]].
+
+A contribution was made to the West Australian Labor Party in February 1987 from the [[Central Intelligence Agency|CIA]] (involving [[Richard Babayan]], [[Earl Brian]], [[Hadron]], [[Yosef Goldberg]], [[Alan Bond]], [[John Curtin Foundation]], [[Robert Maxwell]], and the Pergamon Press Trust Fund).
+
+After [[Danny Casolaro]]'s death, Ben-Menashe called [[Bill Hamilton]], the president of [[INSLAW]] Company. Hamilton had been in daily contact with Casolaro until about a week prior to his death. Ben-Menashe claimed that two [[Federal Bureau of Investigation|FBI]] agents from Lexington, Kentucky, had been en route to Martinsburg to meet Casolaro as part of their investigation into the sale of the [[PROMIS]] software to [[Israel]] and other intelligence agencies. He told Hamilton that one of the [[Federal Bureau of Investigation|FBI]] agents, [[E.B. Cartinhour]], was disaffected because his superiors had refused to indict high [[Ronald Reagan|Reagan]] officials for their role in the [[October Surprise]]. Ben-Menashe claimed the agents were prepared to give Casolaro proof that the [[Federal Bureau of Investigation|FBI]] was illegally using [[PROMIS]] software.[^1]
+
+In two affidavits dated February 17, 1991, and March 21, 1991, submitted to the Bankruptcy Court, Ben-Menashe claimed to have personal knowledge of Brian's involvement in the international distribution of PROMIS. He alleged that Brian made a presentation in 1987 to the External Relations Department of the [[Israel Defense Forces]] to facilitate the use of PROMIS, stating that Brian owned the rights and had been allowing the [[Central Intelligence Agency]], [[NSA]], DOJ, and [[Mossad|Israeli intelligence]] communities to use it since 1982. He also claimed Brian sold PROMIS to the Israeli government in 1987 and that he was told in 1989 of a sale of PROMIS by Brian to Iraqi Military Intelligence. His second affidavit described a 1982 meeting where [[Rafael Eitan]] allegedly received PROMIS from Brian and [[Robert McFarlane]] for the Israeli Defense Force's Signals Intelligence unit. The House Committee Report also indicated Ben-Menashe described the 1987 sale of "Enhanced PROMIS" to the Israeli intelligence community and the [[Singapore]] Armed Forces, and claimed knowledge of a "public domain" version of PROMIS being sold by the Israeli government to the [[Soviet Union]], and an "enhanced version" to [[Canada]].[^2]
+
+However, the Special Counsel's investigation found Ben-Menashe's claims to be largely incredible. In meetings with the Special Counsel, Ben-Menashe told a different story, stating he had no knowledge of the transfer of Inslaw's proprietary software by Brian or DOJ. He claimed the "PROMIS" he referred to in his affidavits was not Inslaw's PROMIS, but rather a program developed and enhanced by the [[NSA]] called "[[Milon]]" (phonetic), which he stated was a computer program used to compile dictionaries. He insisted this "other PROMIS" was developed by NSA independently of [[INSLAW|Inslaw's]] program and years before Inslaw's formation. He admitted that he allowed the Hamiltons and others to "assume" he was referring to Inslaw's PROMIS to promote his book, *Profits of War: Inside the secret U.S. - Israel Arms Network* (1992).[^2]
+
+The Special Counsel's investigation, as well as two congressional investigations (the October Surprise Task Force and the Senate Committee on Foreign Relations), extensively examined Ben-Menashe's credibility and found him to be "totally lacking in credibility," "fabricated," "demonstrably false from beginning to end," and "riddled with inconsistencies and factual misstatements." The October Surprise Task Force specifically found no evidence to substantiate his allegations regarding a trip to Iran by Robert McFarlane and Earl Brian. The NSA also confirmed that their PROMIS program (Product Related On-line Management Information System) was unrelated to Inslaw's PROMIS, written in a different language (M204 vs. COBOL), and served different purposes. The Special Counsel concluded that Ben-Menashe's testimony offered no support for the allegation that DOJ and Earl Brian conspired to steal and distribute Inslaw's software.[^2]
+
+---
+### Footnotes
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^3]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992. (Hereafter, "Profits of War")

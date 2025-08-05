@@ -1,0 +1,16 @@
+[[Roderick Sinclair]] was a Sergeant in the Mariposa County Sheriff's Department. He was involved in a head-on collision on March 5, 1983, with a Secret Service car while scouting Queen Elizabeth II's motorcade route in the Yosemite National Park foothills (this became known as the [[Queen's Accident]]). This became known as the [[Queen's Accident]]. Three Secret Service agents were killed in the accident: [[George P. LaBarge]], [[Donald Robinson]], and [[Donald A. Bejcek]]. Sinclair sustained broken ribs and a fractured knee.[^1]
+
+Nurses present when Sinclair was brought into Fremont Hospital confided that he had been drugged on the day of the accident, receiving huge daily shots of Demerol. Some former deputies corroborated this. Assistant [[United States Attorney|U.S. Attorney]] [[James White]] in Fresno ordered [[Dr. Arthur Dahlem]]'s files seized to prove Sinclair's alleged drug use, but [[United States District Court|U.S. District Court]] Judge [[Robert E. Coyle]] ordered White to drop the criminal investigation, stating Sinclair's drug problem was not relevant and drug records could not be used because no blood tests were taken at Fremont Hospital. However, the blood tests had been taken but later disappeared.[^1]
+
+In the civil trial that followed, Judge [[Robert E. Coyle]] ruled that both Sinclair and the deceased Secret Service agents were at fault, with Mariposa County ordered to pay 70 percent of the claim. Ironically, Sinclair was subsequently promoted to Commander of the Mariposa Sheriff's Department.[^1]
+
+[[James White]] revealed that the original [[California Highway Patrol|CHP]] report on the accident was sent to the State Attorney General's office ([[John Van de Kamp]]), who told his assistant to "discard" it. [[Bruce Eckerson]], the Mariposa County District Attorney who owned stock in [[Music Corporation of America|MCA]] Entertainment Corporation, was then appointed to submit a new report. All of the [[California Highway Patrol|CHP]] officers involved in the original investigation either resigned or were transferred or fired. [[James White]] himself resigned after the cover-up.[^1]
+
+Deputy [[Rod Cusic]] stated that he was "told by [[Roderick Sinclair]] to lie to a Grand Jury" about Sinclair's drug addiction and the accident. Cusic officially disclosed this to the Fresno [[Federal Bureau of Investigation|FBI]] on April 26, 1984, and again on October 9, 1987. Cusic also witnessed a booby-trapped incendiary device explode at Sinclair's home.[^1]
+
+[[Roderick Sinclair]]'s father was a military attaché to [[Douglas MacArthur]] during [[World War II]]. In [[Japan]], after the war, Colonel Sinclair (Sr.) supervised the training of selected Japanese in intelligence gathering operations. Rod Sinclair, Jr. attended school in [[Japan]] and later reportedly worked in the Army C.I.D. in a non-military or civilian capacity, allegedly receiving training at Fort Liggett in San Luis Obispo, a training center for military intelligence operations.[^1]
+
+---
+## Footnotes
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

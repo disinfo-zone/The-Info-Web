@@ -1,0 +1,12 @@
+---
+aliases: []
+tags:
+  - Person
+---
+Nicholas J. Bua was appointed Special Counsel by Attorney General [[William Barr]] on November 7, 1991, to investigate all allegations of wrongdoing in connection with the [[PROMIS Software Scandal|Inslaw matter]]. His mandate was to conduct a complete and thorough investigation to determine if there had been any misconduct by individuals inside or outside the [[United States Department of Justice|DOJ]]. Bua was assured of complete independence and full cooperation from all DOJ employees. He selected six Assistant United States Attorneys and two FBI agents to assist him, all of whom reported solely to him to maintain the investigation's independence. The investigation devoted considerable resources to the myriad allegations, which ranged from murder and international espionage to simple incompetence. Bua's report, submitted in March 1993 to newly appointed Attorney General [[Janet Reno]], concluded that there was no credible evidence of any criminal wrongdoing by any past or present DOJ employee.[^1]
+
+Bua's report concluded that there was no credible evidence to support the allegation of a conspiracy between DOJ members and [[Earl Brian]] to obtain or distribute [[PROMIS]] software, stating that the overwhelming evidence showed no connection between Brian and anything related to [[INSLAW]] or PROMIS. The report also found insufficient evidence to support the allegation that the DOJ obtained an enhanced version of PROMIS through fraud, trickery, and deceit, or that it wrongfully distributed PROMIS. Instead, it concluded that DOJ employees acted in what they genuinely believed were the best legitimate interests of the government. Furthermore, the report found no credible evidence that DOJ employees improperly influenced the selection process that resulted in Bankruptcy Judge Bason's non-reappointment, nor that DOJ employees attempted to improperly influence the U.S. Trustee to convert the Inslaw bankruptcy case or committed perjury to hide such obstruction. Finally, the report found no evidence that DOJ employees destroyed any documents related to Inslaw or otherwise acted improperly to obstruct Congressional investigations.[^1]
+
+### Footnotes
+
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")

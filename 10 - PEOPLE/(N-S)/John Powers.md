@@ -1,0 +1,16 @@
+[[John Powers]] is a Detective at the Riverside Sheriff's Department in [[California]], specifically in the Central Homicide Unit – Cold Case Division. He was assigned to the cold-case file of the [[Fred Alvarez]] triple-homicide in 2007, working with [[Rachel Begley]], the daughter of one of the victims.[^1]
+
+Powers' investigation into the 1981 murders of [[Fred Alvarez]], [[Ralph Boger]], and [[Patricia Castro]] uncovered a complex web of connections involving clandestine government agents and organized crime figures. He examined thousands of old documents, resurrected police reports from forgotten archives, and interviewed dozens of hostile witnesses who had feared coming forward earlier.[^1]
+
+Powers obtained copies of the "Paul Morasca Homicide Investigation File" from the San Francisco Police Department, which contained police reports from various agencies related to the Alvarez murders that were missing from the original Riverside files. He also obtained an audio tape from [[Peter Zokosky]] that contained a recorded conversation between [[Patrick Kenneally]] and [[Robert Booth Nichols]], which revealed that Kenneally had no idea he was being tape-recorded by Nichols.[^1]
+
+Powers sought an arrest warrant for [[Jimmy Hughes]] from the [[California Department of Justice|California DOJ]]. The [[United States Department of Justice|DOJ]] advised that they would approve the warrant but wanted Powers to arrest "all the suspects simultaneously." Powers was officially present at the arrest scene of [[Jimmy Hughes]] at Miami-Dade International Airport on September 26, 2009, to confirm Hughes' identity. He was not the arresting officer due to jurisdiction, but he was the only one who could identify Hughes on site.[^1]
+
+Powers was forced to obtain a Governor's Warrant to bring [[Jimmy Hughes]] back to [[California]]. The [[California State Attorney General]] is prosecuting the case because the current Riverside County district attorney, [[Rod Pacheco]], is a second cousin of the defendant. Powers still believes Hughes is guilty and hopes to someday resubmit the case with new evidence, despite the case being dismissed on July 1, 2010.[^1]
+
+Powers believes the motive for the triple-homicide was that [[Fred Alvarez]] was preparing to bring a case against the Nichols for embezzlement and/or mismanagement of funds, which would have been financially devastating to them. He stated that the Mafia was directly connected to the start-up capital in the [[Cabazon Casino]], and that [[Dr. John Philip Nichols]] and his [[La Cosa Nostra|LCN]] friends were involved in financial transactions. Powers also noted that the [[Lake Cahuilla]] Incident, a weapons demonstration attended by [[Wackenhut Corporation]], Cabazons, and [[Central Intelligence Agency|CIA]] officials with [[Iran-Contra Affair|Contra]] leaders, was completely legal at the time and not a motive for the murders.[^1]
+
+---
+## Footnotes
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

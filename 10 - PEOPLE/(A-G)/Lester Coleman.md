@@ -1,0 +1,18 @@
+[[Lester Coleman]] is a self-employed freelance writer, editor, and security consultant who also served as a [[Defense Intelligence Agency|DIA]] covert intelligence officer. He worked for six years with the secret unit [[Middle East Collection 10]] (MC-10) in [[Cyprus]], running a network of agents in Beirut with the mission to find American hostages held by extremists.[^1]
+
+Coleman was paid in travelers checks sent from the Luxembourg branch of the now-collapsed [[Bank of Credit and Commerce International|BCCI]]. Two senior MC-10 members, [[Matthew Kevin Gannon]] and Major [[Charles Dennis McKee]], were on [[Pan Am Flight 103]], having just returned from a mission in Beirut, when it exploded over Scotland.[^1]
+
+Coleman claimed that the [[Drug Enforcement Administration|DEA]], in collaboration with the Cypriot national police narcotics squad, the German BKA police, and British customs, ran a "drug sting operation" code-named "[[Khourah]]" through [[Cyprus]] and European airports, including Frankfurt. This operation involved delivering heroin from the Bekaa Valley in [[Lebanon]] to the [[United States]]. Coleman maintained that Pan Am Flight 103 was being used by the [[Drug Enforcement Administration|DEA]] as a "controlled delivery" flight.[^1]
+
+After the explosion of Pan Am Flight 103, the Beirut end of MC-10 was reportedly "blown." [[Werner Tony Asmar]], a German Lebanese member of MC-10, was killed in a bomb explosion in Beirut in May 1988. Another MC-10 member, [[Charlie Frezeli]], a Lebanese army officer, was shot dead in Beirut in November 1989. Following Asmar's death, the [[Defense Intelligence Agency|DIA]] ordered Coleman home.[^1]
+
+[[Danny Casolaro]] contacted Coleman in Sweden on August 3, 1991, seven days before Casolaro's death. They discussed the sale of the [[PROMIS]] software by the [[United States Government|U.S. Government]] to foreign governments, the [[Bank of Credit and Commerce International|BCCI]], and the [[Iran-Contra Affair]]. After learning of Casolaro's death, Coleman provided [[INSLAW]] president [[Bill Hamilton]] with an affidavit in October 1991. In this affidavit, Coleman stated that he became aware that the [[Drug Enforcement Administration|DEA]] was using its proprietary company, [[Euramae Trading Company]], to sell [[PROMIS]] software to drug abuse control agencies in various Middle Eastern countries, including [[Cyprus]], [[Pakistan]], [[Syria]], [[Kuwait]], and [[Turkey]].[^1]
+
+Coleman also stated that the [[Drug Enforcement Administration|DEA]]'s objective was to augment U.S. drug control resources by enabling the [[United States Government|U.S. Government]] to access sensitive drug control law enforcement and intelligence files of these Middle Eastern governments. He noted that third-party funds, including from the [[United Nations]] Fund for Drug Abuse Control in Vienna, [[Austria]], were generally made available for the purchase of these systems.[^1]
+
+Coleman found the reassignment of [[Michael T. Hurley]], the [[Drug Enforcement Administration|DEA]] Country Attache for [[Cyprus]], to a [[Drug Enforcement Administration|DEA]] intelligence position in Washington State prior to [[Michael Riconosciuto]]'s arrest suspicious. He believed Hurley's reassignment was intended to "manufacture a case" against Riconosciuto to prevent him from becoming a credible witness about the [[United States Government|U.S. Government]]'s covert sale of the [[PROMIS]] software to foreign governments.[^1]
+
+---
+## Footnotes
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

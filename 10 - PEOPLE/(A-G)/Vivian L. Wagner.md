@@ -1,0 +1,10 @@
+[[Vivian L. Wagner]] is the wife of attorney [[Ben Wagner]] and a legal secretary. On February 19, 1988, she sent an emotionally gripping letter to President [[Ronald Reagan]] at the [[White House]], titled "Restoring Equal Rights to the Citizens of Mariposa County."[^1]
+
+Her letter detailed the alleged corruption within the Mariposa County local government, including unlawful and corrupt activities by officials and departments, and the failure of the State Attorney General [[John Van de Kamp]] and federal agencies to investigate these allegations. She stated that residents had placed their lives and families in jeopardy by coming forward. The letter listed numerous grievances, including violations of individual civil rights, abuse of discretion in criminal prosecutions, obstruction of justice, malicious prosecution, bribery, intimidation of Grand Jury members and witnesses, deprivation of property, illegal land transactions, failure to prosecute illegal drug sales (including by county employees), property rights violations, conspiracy to impede criminal investigations, homicide, attempted homicide, rape, battery, and perjury.[^1]
+
+Vivian Wagner highlighted that her husband, [[Ben Wagner]], had to travel with an armed escort and conduct interviews during "midnight hours" due to the dangerous situation. She questioned why officials were not bound by the laws of the country and expressed her repulsion at the "shattering illusion" of government representation. She affirmed their dedication to restoring the [[United States Constitution|Constitution]] in Mariposa County and other foothill communities, vowing not to be discouraged until an answer was found, even if it meant presenting the problem to the President on the steps of the [[White House]].[^1]
+
+---
+## Footnotes
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

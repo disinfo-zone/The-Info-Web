@@ -1,0 +1,9 @@
+[[Eugene Giaquinto]] was the president of [[Music Corporation of America|MCA]] home entertainment division and a significant figure in the [[Federal Bureau of Investigation|FBI]]'s wiretap investigation into alleged organized crime penetration of [[Music Corporation of America|MCA]]. He was also a board member of [[Robert Booth Nichols]]' holding company, [[Meridian International Logistics|MIL]], which was under investigation as a source of funding for narcotics trafficking.[1]
+
+[[Federal Bureau of Investigation|FBI]] wiretaps recorded communications between Giaquinto and [[Robert Booth Nichols]]. These interceptions, along with the beliefs of [[United States Attorney|U.S. Attorney]] [[Marvin Rudnick]], [[Federal Bureau of Investigation|FBI]] agent [[Thomas Gates]], and Organized Crime Strike Force member [[Richard Stavin]], indicated that [[Music Corporation of America|MCA]] had been infiltrated by organized crime, specifically linking to members of the [[Gambino Crime Family]] and [[Bufalino Crime Family]]. Giaquinto reportedly enjoyed a special relationship with [[John Gotti]].[1]
+
+Both Giaquinto and [[Robert Booth Nichols]] were noted to have a close working relationship with the [[United States Department of Justice|Justice Department]], according to the wiretaps. Despite the evidence gathered, the wiretaps were subsequently sealed by the [[United States Department of Justice|DOJ]], and no prosecutions were pursued, leading to the disbandment of the Los Angeles Organized Crime Strike Force and the resignations of key investigators.[1]
+
+---
+## Footnotes
+[1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

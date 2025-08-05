@@ -1,0 +1,16 @@
+---
+aliases: []
+tags:
+  - Person
+---
+George Francis Bason, Jr. was a Bankruptcy Judge for the District of Columbia. He was appointed on February 8, 1984, to fill a vacancy, and his term was set to expire on February 8, 1988. His non-reappointment became a central point of contention in the [[PROMIS Software Scandal]], with allegations that the [[United States Department of Justice|DOJ]] improperly influenced the selection process in retaliation for his rulings in the [[Inslaw Corporation|Inslaw]] case.
+
+Judge Bason ruled orally on September 28, 1987, that the DOJ had stolen and converted Inslaw's [[PROMIS]] software. He subsequently issued a written opinion in favor of Inslaw, finding that the DOJ fraudulently converted [[INSLAW]]'s software and ordering damages of approximately $6.8 million. His judgment was affirmed by the district court but ultimately reversed on jurisdictional grounds by the Court of Appeals for the D.C. Circuit. Judge Bason found that [[C. Madison Brewer]] was "consumed by hatred for and an intense desire for revenge against INSLAW," and that Brewer's actions were part of a strategy to ruin Inslaw. He also concluded that [[Lowell Jensen]]'s biased attitude contributed to the situation where Inslaw's complaints about Brewer went unheeded. Furthermore, Judge Bason found that the DOJ, through its employees, unlawfully and intentionally sought to convert Inslaw's Chapter 11 reorganization to a Chapter 7 liquidation, and that [[Thomas Stanton]] struck a bargain with Brewer to achieve this.[^1]
+
+After his non-reappointment, Judge Bason suggested that the DOJ must have improperly influenced the selection process. He sent a 14-page letter to Chief Judge [[Patricia Wald]] on January 12, 1988, alleging that the DOJ may have obstructed his reappointment. He identified [[Nelson Deckelbaum]], [[Marcie Docter]], and [[Nelson Kline]] as individuals who speculated that his Inslaw ruling was the cause of his non-reappointment. The DOJ subsequently moved to recuse Bason from further proceedings in the Inslaw case, citing his letter to Chief Judge Wald as a basis for perceived bias. Judge Bason denied the motion, and the District Court and Court of Appeals upheld his decision. On February 1, 1988, seven days before his term expired, Bason filed a lawsuit seeking to enjoin [[S. Martin Teel, Jr.]] from being sworn in, but this was unsuccessful. Just prior to his departure, he issued a written opinion in favor of Inslaw and awarded damages and attorneys' fees against the DOJ.[^1]
+
+The Special Counsel's investigation found no evidence that anyone tried to influence the selection process improperly. It concluded that Judge Bason's allegations were not supported by credible evidence and that his claims were based on speculation and uncorroborated information. The report noted that while Judge Bason was understandably disappointed by his non-reappointment, the evidence did not support his claims of DOJ obstruction.[^1]
+
+### Footnotes
+
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")

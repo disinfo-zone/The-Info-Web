@@ -1,0 +1,12 @@
+---
+aliases: []
+tags:
+  - Person
+---
+Janis Sposato was an Administrative Officer at the [[United States Department of Justice|DOJ]]. [[Inslaw Corporation|Inslaw]] inferred from an alleged statement by Sposato that "My management upstairs is unwilling to allow me to make any more concessions" regarding a computer time-sharing billing dispute in 1985, that she was referring to [[Lowell Jensen]] and that he was conspiring to ruin Inslaw and steal [[PROMIS]] software. This inference was based on the floor plan of the main Justice Department building, where Sposato's office was on the first floor, making nearly all senior management "upstairs" from her location. Inslaw believed that Sposato was alluding to Deputy Attorney General Lowell Jensen's unwillingness to permit a resolution on the merits of the Fiscal Year 1983 computer time-sharing issue, seeing it as DOJ's main "fig leaf" for wrongfully withholding payments under the contract.[^1]
+
+However, when interviewed by the Special Counsel, Ms. Sposato stated that she does not recall ever making the statement [[INSLAW]] attributed to her and that it does not sound like something she would say. She further stated that she never received any direct instruction on the negotiations from Judge Jensen. She occasionally dealt with Associate Deputy Attorney General Jay Stephens, and it was her impression that every time Mr. Stephens contacted her regarding Inslaw, it was in response to a request from Inslaw. She believed that [[Bill Hamilton]] would get frustrated and ask his attorney, former Attorney General [[Elliot Richardson]], to contact Judge Jensen, and Mr. Stephens would then inform her of such contacts. Ms. Sposato stated that neither Mr. Stephens nor Judge Jensen ever tried to directly influence the negotiations; rather, it was her impression that they were trying to stay away from the discussions. The Special Counsel's investigation found no credible evidence to support Inslaw's inferences regarding Sposato's statement or Jensen's involvement in a conspiracy.[^1]
+
+### Footnotes
+
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")

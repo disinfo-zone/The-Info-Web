@@ -1,0 +1,12 @@
+[[Ian Stuart Spiro]] was a figure whose death was linked to a spy network and the [[Iran-Contra Affair]]. He was found dead of cyanide poisoning in the Anza-Borrego desert on November 8, 1992, one week after his wife and children were found shot to death in their Rancho Santa Fe home. His death was officially ruled a suicide, and the San Diego Sheriff's Department reportedly destroyed his files when the case was closed, stating he had no connection to the [[PROMIS]] software.[^1]
+
+However, news reports, specifically from the *Oceanside Blade-Citizen*, noted that documents and [[United States Government|U.S.]] intelligence sources implicated Spiro in the [[Iran-Contra Affair]] and an alleged [[United States Department of Justice|Justice Department]] conspiracy to pirate software from a private company and sell it to foreign intelligence agencies. Spiro's name also appeared in [[Oliver North]]'s personal notebooks documenting the [[Iran-Contra Affair]], according to the [[National Security Archives]] in Washington D.C.[^1]
+
+Former hostage [[David Jacobsen]] stated that Spiro helped negotiate the release of hostages in the Middle East. Spiro lived in Beirut, [[Lebanon]], during the 1970s and 1980s, where he made contacts with Lebanese religious leaders and the Islamic Jihad. His brother-in-law, [[Greg Quarton]], confirmed that Spiro maintained communication with Lebanese business associates until his death.[^1]
+
+[[Michael Riconosciuto]] claimed that [[Marshall Riconosciuto]] (Michael's father) shipped documents to [[Ian Stuart Spiro]] for safekeeping. The week of the Spiro family's death, [[Robert Corson]], a business associate of Spiro's indicted in a savings and loan scam and reportedly a [[Central Intelligence Agency|CIA]] operative, was found dead in an El Paso, Texas, motel room, with officials stating he died of a heart attack. Corson was also alleged to have associated with California investor [[Wayne Reeder]], who was seen at a [[Wackenhut Corporation]]/[[Contras|Contra]] meeting in Riverside County.[^1]
+
+---
+## Footnotes
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -1,0 +1,11 @@
+[[Thomas Gates]] was an [[Federal Bureau of Investigation|FBI]] agent in Los Angeles who played a significant role in the investigation of [[Music Corporation of America|MCA]] for organized crime penetration and was a key contact for investigative journalist [[Danny Casolaro]].[1]
+
+Gates conducted a wiretap of [[Music Corporation of America|MCA]] under the supervision of [[United States Attorney|U.S. Attorney]] [[Marvin Rudnick]] and later [[Richard Stavin]]. He, along with Rudnick and Stavin, believed that [[Music Corporation of America|MCA]] had been penetrated by organized crime, based on the wiretaps. These wiretaps recorded communications between [[Robert Booth Nichols]] and [[Eugene Giaquinto]], then president of [[Music Corporation of America|MCA]] home entertainment division, revealing connections to [[La Cosa Nostra]], including the [[Gambino Crime Family]] and [[Bufalino Crime Family]].[1]
+
+Gates had frequent conversations with [[Danny Casolaro]] until three days before Casolaro's death. Casolaro reportedly told Gates that [[Robert Booth Nichols]] had warned him to drop his investigation into "[[The Octopus]]." Gates was also involved in learning about [[Michael Riconosciuto]]'s statement to the [[Federal Bureau of Investigation|FBI]] in October 1992, which implicated Nichols, [[Glenn Shockley]], [[Jose Santacruz Londono|Jose Londono]], [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]], and [[Michael Abbell]] in illicit financial activities.[1]
+
+Despite the evidence gathered, the [[United States Department of Justice|DOJ]] sealed the wiretaps, and no prosecutions were pursued in the [[Music Corporation of America|MCA]] organized crime investigation. The Los Angeles Organized Crime Strike Force was disbanded, and Gates closed the [[Federal Bureau of Investigation|FBI]] investigation. He was one of the investigators who found themselves on a collision course with the [[United States Department of Justice|Justice Department]] when their inquiries led to high-level organized crime, drugs, and money laundering.[1]
+
+---
+## Footnotes
+[1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

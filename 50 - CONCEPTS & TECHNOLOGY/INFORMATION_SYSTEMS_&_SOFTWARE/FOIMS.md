@@ -1,0 +1,15 @@
+---
+aliases: []
+tags:
+  - Concept
+  - Technology
+---
+Field Office Information Management System (FOIMS) is a computer program developed by the [[Federal Bureau of Investigation|FBI]]. It became a subject of controversy in the [[PROMIS Software Scandal]] due to allegations by [[Inslaw Corporation|Inslaw]] that it was a pirated form of their [[PROMIS]] software.
+
+Inslaw first raised this prospect in early 1991, relying on a letter from Terry D. Miller, President of Government Sales Consultants, Inc., to FBI Director William Sessions, which charged that FOIMS was stolen. Inslaw argued that the FBI's response to Miller's letter, which did not outright reject the charge, implied an admission that FOIMS was stolen and was, in fact, PROMIS. However, the FBI's Deputy Assistant Director, Kier T. Boyd, later provided an affidavit stating that the FBI does not use, nor has it ever used, any version of PROMIS, and that FOIMS was developed entirely in-house by the FBI and is not based on or does not contain any portion of PROMIS. Miller himself later stated he did not know whether FOIMS contained stolen software and based his allegations on claims made by others. Inslaw, however, continued to claim that a senior career Justice Department official had admitted that FOIMS was PROMIS.[^1]
+
+The Special Counsel's investigation, recognizing the importance Inslaw attached to this issue, hired an expert consultant, Professor Dorothy Denning, Chair of the Computer Science Department at Georgetown University, to settle the issue of whether FOIMS was derived from PROMIS. The FBI cooperated fully, providing access to the FOIMS software. Professor Denning, after reviewing both the operation of FOIMS at FBI Headquarters and PROMIS at the [[United States Department of Justice|DOJ]], concluded that there could be no relation between the two programs. She stated that PROMIS, written in COBOL, is fundamentally different from FOIMS, which was written in the NATURAL/ADABASE programming/database management environment. She concluded that the two programs were so obviously different that further examination of the source code would be a waste of time and money. The Special Counsel expressed complete confidence in Professor Denning's conclusions and the representations of Gordon Zacrep, Section Chief of the FBI's System Development Section, who denied that FOIMS had any relation to PROMIS and stated the FBI had independently developed it. The report concluded that the FBI's FOIMS software is not PROMIS or any derivative of PROMIS. It also noted that Inslaw declined to participate in the review, and that any reasonable person seeing the operation of both systems would agree they are completely different.[^1]
+
+### Footnotes
+
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")

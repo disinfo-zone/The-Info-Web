@@ -1,0 +1,27 @@
+---
+created: 2025-07-22
+updated: 2025-07-22
+title: Pat Price
+tags:
+  - person
+  - psychic
+  - policecommissioner
+description: Pat Price was a retired police commissioner and one of the most gifted psychics in the SRI remote viewing program.
+---
+Pat Price was a retired police commissioner from Burbank, California, who joined the [[Stanford Research Institute]] (SRI) remote viewing program in 1973. He was a graying, semi-retired, somewhat grizzled-looking fellow in his fifties who lived at Lake Tahoe. He had a small building-contractor business and also raised Christmas trees to sell in the Bay Area. He met [[Hal Puthoff]] at a lecture and later while selling Christmas trees in Mountain View. Price considered himself a psychic, claiming to have developed important leads on difficult cases during his time as a police commissioner in Burbank, thanks to spontaneously received information. He would even sit in the police dispatcher's office, trying to get psychic impressions of criminals' hiding places.[^1]
+
+Price had a long history of psychic experiences, including using his abilities to help solve difficult cases when he was a police commissioner. He claimed to have psychic impressions about people and distant events almost every day. He also claimed the ancient shamanic power of being able to change the weather, creating or evaporating clouds at will, and believed he could make traffic lights change through psychokinesis. He also believed that his soul had once belonged to the American colonial orator Patrick Henry. He also believed that an alien civilization flew its silvery saucers into bases on the moon and Mars, and also here on Earth, under the oceans and beneath great mountains, including one under Mount Hayes in Alaska.[^1]
+
+Price was considered by many to be the most gifted psychic in the SRI program. He was extraordinarily accurate and consistent, and he was particularly good at picking up technical details of target sites. He was also able to pick up alphanumeric data, a feat that was considered nearly impossible by other remote viewers, who believed that attempting to recognize numbers or letters would short-circuit the psi process. Price, however, could often read numbers or words on pieces of paper or names on uniforms, even if not always perfectly.[^1]
+
+One of his most famous successes was the remote viewing of a secret Soviet military research facility at Semipalatinsk (URDF-3). He described a large gantry crane on rails, the construction of large metal spheres (estimated at 60 feet in diameter), and the use of a new "flux-welding" technique to assemble them. These details were later confirmed by satellite photography, making it a highly impressive demonstration of psychic spying. He also successfully remote-viewed a secret [[National Security Agency|NSA]] facility in Sugar Grove, West Virginia, a U.S. Navy communications base with subterranean facilities. His detailed descriptions of the site, including its underground areas and the presence of NSA cryptographers, were so accurate that they sparked a hostile security investigation, as the information was highly classified.[^1]
+
+Price also demonstrated precognitive abilities. In one instance, he accurately described the Redwood City Marina and the boats there five minutes *before* Puthoff and Cox arrived at the location, suggesting he had perceived the future. In another case, he described a water-treatment plant with two large elevated water tanks at Rinconada Park in Palo Alto, which was later confirmed to have existed at that site in 1913, twenty-one and a half years before his viewing, indicating a perception across time. He also accurately predicted the ceasefire date of the Yom Kippur War and seemed to detect President Nixon's Oval Office tape recorder, which he described as a device that would make Nixon suffer.[^1]
+
+Price was a cheerful and emotionally resilient man who charmed almost everyone he met. He had a friendly rivalry with [[Ingo Swann]], the other star psychic at SRI. He was involved in the [[Patty Hearst]] kidnapping case in 1974, where he accurately perceived that the kidnapping was a political, terroristic act rather than for money, and identified three members of the Symbionese Liberation Army (SLA) from mug shots, including William Wolfe, whose nickname was "Willie the Wolf." He also accurately described Wolfe's unusual dental surgery without anesthesia. Despite his efforts, he was unable to pinpoint Hearst's exact location, though he could vividly see her locked in a closet. He continued to work on the case, even after Hearst publicly aligned with the SLA, until the SLA members were cornered and killed in Los Angeles.[^1]
+
+In the autumn of 1974, Price left SRI to work for a coal company in Huntington, West Virginia, with the intention of using his psychic abilities to find rich veins of coal. He also began to work directly for the [[Central Intelligence Agency|CIA]], becoming involved in operations such as attempting to confirm the location of a Chinese Embassy communications office in a foreign capital. He successfully passed three tests for the CIA, demonstrating his ability to accurately describe embassy layouts and even a mural on a ceiling, though his ability to perceive across time sometimes led him to describe past states of a location. Despite his accuracy, the "giggle factor" prevented the CIA from fully relying on his psychic insights for high-stakes operations.[^1]
+
+---
+
+[^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

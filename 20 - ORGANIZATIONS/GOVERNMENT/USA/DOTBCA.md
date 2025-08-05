@@ -1,0 +1,12 @@
+---
+aliases: []
+tags:
+  - Organization
+---
+The Department of Transportation Board of Contract Appeals (DOTBCA) was the forum where various disputes and related claims arising under the implementation contract between [[Inslaw Corporation|Inslaw]] and the [[United States Department of Justice|DOJ]] were pending. These contract disputes were presented to DOTBCA pursuant to the provisions of the Contract Disputes Act, as the DOJ had not established its own board. The claims before DOTBCA included Inslaw's claims for allegedly reimbursable costs (computer center costs, other direct costs, overhead and fringe benefits), additional fees, and amounts due to the DOJ's termination for convenience of the word processing portion of the contract. The DOJ also filed counterclaims to recover certain overpayments allegedly made to Inslaw. Most of the issues before DOTBCA were not passed upon or decided by the Bankruptcy Court, which had specifically excluded them from its trial. Neither the Senate PSI's Staff Study nor the House Committee Report made findings on the merits of these claims.[^1]
+
+In October 1992, [[INSLAW]] unilaterally moved to withdraw its claims before DOTBCA, citing an inability to afford counsel. The bulk of Inslaw's brief, however, took exception to several adverse, pre-hearing rulings of DOTBCA and reargued the merits of some claims previously made before the Bankruptcy Court. DOTBCA, without DOJ objection, granted the motion, and Inslaw's appeals before the Board were dismissed with prejudice on November 9, 1992. This final disposition meant that, as a civil matter, Inslaw was almost certainly not entitled to retry the merits of its contract appeals. The Special Counsel's investigation noted that Inslaw's decision to withdraw was unfortunate, as it gave up its right to a full hearing and determination of its claims by a department presumably free of the influences Inslaw alleged against the DOJ. The investigation concluded that the DOJ's positions and actions leading up to these disputes were not baseless or without foundation, but rather arose from legitimate differences of opinion and concerns about potential cost overruns and overcharges, supported by audit staff reports and an independent audit by the Defense Contract Audit Agency (DCAA).[^1]
+
+### Footnotes
+
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")

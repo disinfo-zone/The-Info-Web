@@ -1,0 +1,14 @@
+[[Martin Bacow]] was a friend of [[Eugene Giaquinto]], then president of [[Music Corporation of America|MCA]] home entertainment division. He was a figure in the [[Federal Bureau of Investigation|FBI]] wiretap investigation into alleged organized crime penetration of [[Music Corporation of America|MCA]].[^1]
+
+Bacow was described in the wiretaps as "the back door liaison Teamsters connection to the movie industry." He was under investigation in 1987 for various suspected offenses, including extortion, insider trading (MCA/Universal), the purchase and sale of narcotics/controlled substances, and the allocation and use of the proceeds of its trafficking.[^1]
+
+Intercepted conversations revealed Bacow's discussions with Giaquinto about the internal situation at [[Music Corporation of America|MCA]] and plans to produce a film about [[Meyer Lansky]]. The intercepts indicated that [[La Cosa Nostra]] from either [[Florida]] or [[New York]] was attempting to get involved in the Lansky film. Bacow also informed Giaquinto that his "guy downtown" (Detective [[John St. John]] at the [[Los Angeles Police Department|Los Angeles Police Department]]'s Organized Crime Intelligence Division) was tied up with [[John Gotti]] and could obtain intelligence reports on organized crime figures.[^1]
+
+Bacow boasted to Giaquinto about [[John St. John]]'s status within [[OCID]], which allowed him to obtain intelligence reports on organized crime figures across the nation, and Bacow could then pass that information along to Giaquinto. A grand jury investigation into the mob's involvement in the motion picture industry was in the process of being opened at that time, which would have included a close look at Giaquinto, Bacow, and others. St. John called Bacow and told him he would listen and not give up too much, and try to find out what the investigators were looking at and let Bacow know. Bacow then called Giaquinto and related what St. John had said. Giaquinto responded that he would call [[Edwin Meese]] and get the investigation shut down.[^1]
+
+[[Richard Stavin]] confirmed that the [[Federal Bureau of Investigation|FBI]] wiretap revealed a conversation in which Giaquinto told Bacow that he would call [[Edwin Meese]] and have the [[Federal Bureau of Investigation|FBI]]'s investigation of [[Music Corporation of America|MCA]] stopped. No indictment was ever issued against Bacow for any criminal violations, with the prosecution of these suspects reportedly not going forward because no one at the [[United States Department of Justice|DOJ]] in Washington D.C. wanted all the wiretap affidavits in the case to be released.[^1]
+
+---
+## Footnotes
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
