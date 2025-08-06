@@ -3,6 +3,6 @@
 [[Michael Riconosciuto]] told Cannon that he had records proving the precursors Kalka used were provided by the [[United States Government|U.S. government]]. Riconosciuto also described the role of federal agents and their authorization for him to sell Kalka the final ingredient needed to make methamphetamine.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

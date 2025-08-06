@@ -13,7 +13,7 @@ Von Raab headed the agency during the Tampa money-laundering investigations invo
 
 After BCCI's Tampa conviction, von Raab thought the case was "enormously meaningful" and announced it publicly. He was told by his superiors to dampen his public enthusiasm.[^4] He later testified before the [[John Kerry|Kerry]] subcommittee that the [[Justice Department]] had denied knowledge of the [[Ali Mirza]] tapes, which contained crucial information about BCCI's activities.[^5]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.
 [^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.

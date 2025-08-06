@@ -19,7 +19,7 @@ Morgenthau, at seventy years old during the BCCI investigation, was described as
 
 Morgenthau's reputation as a crusader was built during his time as U.S. attorney for the Southern District of New York, a position he held after being appointed by [[John F. Kennedy|Kennedy]] in 1960.[^13] He was known for his independence and his willingness to pursue cases against powerful figures.[^14]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 48.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 48.

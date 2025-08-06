@@ -8,7 +8,7 @@ In January 1985, Regan received a [[CIA]] report on the [[Bank of Credit and Com
 
 Regan later refused to be interviewed by [[Jonathan Beaty]] in early 1992, stating that his memory about the BCCI affair was not good.[^2]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 364-366.

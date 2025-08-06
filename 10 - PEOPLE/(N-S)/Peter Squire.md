@@ -10,5 +10,5 @@ Peter Squire is a program officer in the [[Office of Naval Research]] (ONR)'s Ex
 
 Squire stated, "We have to understand what gives rise to this so-called ‘sixth sense,'" emphasizing that Navy scientists place less emphasis on trying to understand the phenomena theoretically and more on using technology to examine the mysterious process. The [[Pentagon]]'s focus is to maximize the power of the sixth sense for operational use[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

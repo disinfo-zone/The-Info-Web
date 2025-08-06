@@ -15,5 +15,5 @@ Schmeidler's work is referenced by skeptics like [[Martin Gardner]], who noted t
 
 [[Ingo Swann]] also conducted [[Psychokinesis|psychokinesis]] experiments for Gertrude Schmeidler at the [[City College of New York]], which he referenced when communicating with [[Hal Puthoff]] about investigating the boundary between the physics of the animate and inanimate[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

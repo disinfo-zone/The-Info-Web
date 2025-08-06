@@ -21,5 +21,5 @@ Towards the end of his life, Gardner experienced a religious epiphany, openly di
 ## Publications
 *   *Fads and Fallacies in the Name of Science* (1952)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -21,5 +21,5 @@ Vallée also commented on the mysterious death of [[Pat Price]], noting that whe
 ## Publications
 *   *Forbidden Science 2*
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

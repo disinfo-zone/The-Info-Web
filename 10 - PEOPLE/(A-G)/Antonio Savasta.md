@@ -10,5 +10,5 @@ Antonio Savasta was a member of the [[Red Brigades]], a Marxist-Leninist paramil
 
 Savasta was present in the apartment where Dozier was held captive. When Italian Special Forces stormed the apartment to rescue Dozier, Savasta was holding a gun to the General's head. However, before he could pull the trigger, a commando hit him from behind with the butt of a machine gun, knocking him to the floor. This action led to Dozier's successful rescue after 42 days in captivity[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

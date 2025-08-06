@@ -20,5 +20,5 @@ Houck's conclusion was that "everyone seems to be able to do PK." He noted that 
 
 In 1983, [[John B. Alexander]] worked with Houck on psychokinesis research, inviting [[Doug Henning]] to attend Houck's spoon-bending parties to provide an expert opinion on whether a group could collectively cheat. Henning was reportedly amazed by the spontaneous bending of a spoon in his manager's hand, indicating no physical force was involved[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -3,11 +3,11 @@ created: 2025-07-23
 updated: 2025-08-04
 title: State Department
 tags:
-  - organization
-  - intelligence
-  - government
+  - Organization
+  - Government
   - USA
-  - diplomatic
+  - Diplomatic
+  - Foreign Policy
 description: The United States Department of State is the federal executive department responsible for the nation's foreign policy and international relations.
 ---
 The [[State Department]] serves as the federal executive department responsible for the [[United States]]' foreign policy and international relations.
@@ -30,7 +30,7 @@ The State Department received additional CIA intelligence throughout this period
 
 Rather than pursuing these criminal allegations, the State Department took steps to protect BCCI's operations. The department silenced [[Paula Hawkins]], provided reassurances to Pakistani leader [[Zia ul-Haq|Zia]], and worked to appease BCCI founder [[Agha Hasan Abedi]] regarding the bank's money-laundering activities in the [[Cayman Islands]].[^6]
 
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. _The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal_. First Edition. TrineDay, 2010. 
 [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. 

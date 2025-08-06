@@ -11,5 +11,5 @@ Garrison Rapmund was a Major General and the Assistant Surgeon General of the [[
 
 His intention was to emphasize testing the physiology of the viewers. However, after several rounds of negotiations, the Office of the Surgeon General ultimately declined to take over the program[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

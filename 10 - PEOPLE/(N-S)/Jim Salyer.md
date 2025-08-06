@@ -12,5 +12,5 @@ In his "Secret Working Papers," Salyer outlined "existing problems" at Fort Mead
 
 Salyer's damning assessment led to a critical review of the program and eventually resulted in the DIA gaining control of the Fort Meade personnel. He also believed that his concerns about the lack of scientific rigor allowed problems such as [[Ed Dames]]'s anomaly targeting to exist[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

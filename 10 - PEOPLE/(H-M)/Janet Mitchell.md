@@ -11,5 +11,5 @@ In these experiments, Swann was wired to a Beckman Dynograph and instructed to "
 
 Mitchell and Osis were reportedly thrilled with the results, particularly when Swann, instead of trying to articulate what he saw, drew it. They planned to repeat these experiments under tightly controlled laboratory conditions and submit the results to the Psychology Board of America for review[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

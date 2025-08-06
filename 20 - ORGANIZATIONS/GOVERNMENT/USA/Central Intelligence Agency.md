@@ -3,9 +3,11 @@ created: 2025-07-22
 updated: 2025-08-04
 title: Central Intelligence Agency
 tags:
-  - organization
-  - intelligence
-  - government
+  - Organization
+  - Intelligence
+  - Government
+  - USA
+  - CIA
 description: The Central Intelligence Agency (CIA) is a civilian foreign intelligence service of the U.S. federal government, tasked with gathering, processing, and analyzing national security information from around the world.
 ---
 The [[Central Intelligence Agency]] (CIA) is a primary intelligence-gathering organization of the United States government. In the context of psychic research, the CIA played a significant, albeit often covert, role in funding and overseeing programs aimed at exploring and utilizing psychic phenomena for intelligence purposes.[^1]
@@ -50,7 +52,7 @@ The CIA sent the [[Inter-Services Intelligence|Inter-Services Intelligence (ISI)
 
 In 1980, [[Jimmy Carter]] signed a presidential "finding" authorizing the CIA to aid the Afghan rebels in "harassment" of the Soviet occupying forces through secret supplies of light weapons and limited funds.[^10] This became the largest covert-action program since [[World War Two]].[^10]
 
-## Footnotes
+### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.

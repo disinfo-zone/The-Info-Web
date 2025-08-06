@@ -2,8 +2,14 @@
 tags:
   - Person
   - Academic
-  - Government Official
+  - Government_Official
   - USA
+  - National_Security_Council
+  - Harvard
+  - Kennedy_Administration
+  - Nuclear_Proliferation
+  - Israel
+  - Princeton
 ---
 Carl Kaysen is a distinguished political economist who served as deputy assistant to the President for national security affairs. He moved from the Harvard faculty to the [[National Security Council]] in 1961. Kaysen recalled that President [[John F. Kennedy]] was intellectually and emotionally committed to a halt in the spread of nuclear weapons, and that nonproliferation was a topic Kennedy would discuss for hours.[^1]
 

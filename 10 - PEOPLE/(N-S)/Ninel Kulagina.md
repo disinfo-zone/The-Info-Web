@@ -21,5 +21,5 @@ Another experiment involved Kulagina attempting to increase the heart rate of a 
 
 Kulagina's alleged abilities contributed to the [[Pentagon]]'s decision to launch a joint intelligence assessment of the "Soviet psychoenergetic threat," a term coined to encompass Soviet research into anomalous mental phenomena and [[Electromagnetic Weapons|electromagnetic weapons]] programs[^1]. Her work, along with that of [[H. S. Tsien]] in [[China]], highlighted the perceived need for the U.S. to invest in its own psychic research programs.
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

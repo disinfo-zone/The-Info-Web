@@ -5,6 +5,6 @@ In October 1984, Mattheys recruited private investigator [[Raymond Jenkins]] and
 Shortly after a meeting with [[Leslie Van Meter]] at Lake McClure, Mattheys mysteriously resigned from his position. He later revealed to reporter Anthony Pirushki that he had been ordered by two county supervisors and the county's attorney "to stay away from the Van Meter investigation." While still in office, Mattheys and his internal affairs investigators learned that [[Ron Van Meter]] had reported drug dealing and corruption within the Mariposa Sheriff's Department to the [[California Attorney General's Office|Attorney General's office]] in Sacramento shortly before his death.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

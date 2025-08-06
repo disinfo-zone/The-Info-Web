@@ -5,6 +5,6 @@
 [[Michael Riconosciuto]] also stated that Maurice Ghanem was "agency," meaning [[Central Intelligence Agency|CIA]], in [[Lebanon]], and that he, Maurice, and [[George K. Pender]] worked together.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -13,5 +13,5 @@ Aharon Yariv was a Brigadier General and the head of military intelligence in [[
 
 This meeting highlights the interest of Israeli intelligence in Geller's capabilities, similar to how other nations' intelligence agencies, including the [[Central Intelligence Agency|CIA]], explored the potential military and intelligence applications of [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]][^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

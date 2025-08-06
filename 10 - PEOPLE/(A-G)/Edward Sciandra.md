@@ -5,6 +5,6 @@ Sciandra was mentioned in [[Federal Bureau of Investigation|FBI]] wiretaps, whic
 The intercept narration suggested that this stemmed from problems with the Northstar Graphics contract, and the [[La Cosa Nostra|LCN]] believed Sciandra was being irrational and should be "retired." If Sciandra threatened [[Music Corporation of America|MCA]] executives, it would cause trouble for his nephew, [[Eugene Giaquinto]], who worked for [[Music Corporation of America|MCA]]. Sciandra was also reportedly trying to get a piece of Giaquinto's share of the [[Meyer Lansky|Lansky]] film.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

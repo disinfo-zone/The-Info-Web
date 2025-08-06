@@ -9,7 +9,7 @@ Leigh-Pemberton, along with Deputy Governor [[Eddie George]], was aware of the d
 
 On June 28, 1991, Leigh-Pemberton and George decided to act, informing the [[Federal Reserve Bank]] of the impending seizure of BCCI in the [[United Kingdom]].[^5] The Bank of England had been reluctant to shut down BCCI, despite knowing of its insolvency, and had been trying to persuade [[Sheikh Zayed]] to inject more money.[^6]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 135.

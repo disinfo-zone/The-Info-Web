@@ -1,3 +1,16 @@
+---
+tags:
+  - Person
+  - FBI
+  - Law Enforcement
+  - Private Investigator
+  - The Octopus
+  - PROMIS
+  - Intelligence
+  - Corruption
+  - Drug Trafficking
+  - Afghanistan
+---
 [[Ted Gunderson]] was a former [[Federal Bureau of Investigation|FBI]] agent who transitioned into private investigation after his retirement from the Bureau. His distinguished career with the [[Federal Bureau of Investigation|FBI]] included serving as a Senior Special Agent in Charge (SAC) at headquarters in Los Angeles, Washington D.C., and Dallas, Texas. Following his tenure with the [[Federal Bureau of Investigation|FBI]], he worked for F. Lee Bailey, Esq., before establishing his own investigative agency in Los Angeles County.[1]
 
 Gunderson became deeply involved in the investigation of corruption and drug rings within Mariposa County, California, after being approached by the D.I.G. (Decency in Government) group. His prior work included compiling a comprehensive 700-page report for the Tulare City Council, which meticulously detailed instances of deputies receiving payoffs and distributing drugs in Tulare. His engagement in the Mariposa investigation marked a significant expansion of his efforts into the broader "[[The Octopus]]" inquiry.[1]
@@ -12,6 +25,5 @@ Despite their past collaboration, Gunderson faced limitations in disclosing nume
 
 Throughout his career, Gunderson encountered significant challenges and obstruction in his efforts to expose corruption. He observed a "turf battle problem" between [[Ralph Olberg]]'s group and certain factions within the [[Central Intelligence Agency|CIA]] and their group, MSH (Management Science For Health), concerning the legitimate representation of the Afghan rebel leadership. His attempts to facilitate [[Michael Riconosciuto]]'s entry into the Witness Protection Program ultimately proved unsuccessful, as federal agencies, including the [[Federal Bureau of Investigation|FBI]], demonstrated reluctance to fully cooperate or acknowledge Riconosciuto's claims.[1]
 
----
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

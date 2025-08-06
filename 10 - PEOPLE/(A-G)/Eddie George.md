@@ -1,5 +1,12 @@
 ---
-tags: ["Person", "Banker", "Government Official"]
+tags:
+  - Person
+  - Banker
+  - Government Official
+  - BCCI
+  - Banking
+  - UK
+  - Bank of England
 ---
 Eddie George was the Deputy Governor of the [[Bank of England]].[^1]
 
@@ -9,7 +16,7 @@ George, along with Governor [[Robin Leigh-Pemberton]], was aware of the disastro
 
 On June 28, 1991, George and Leigh-Pemberton decided to act, informing the [[Federal Reserve Bank]] of the impending seizure of BCCI in the [[United Kingdom]].[^5] This decision was influenced by the revelations in the Price Waterhouse audit and the certainty that [[Robert Morgenthau]] and the Fed would take action.[^6]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 135.

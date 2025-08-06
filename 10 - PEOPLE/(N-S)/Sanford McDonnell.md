@@ -5,7 +5,7 @@ Born in Little Rock, Arkansas,[^2] McDonnell attended [[Princeton University]], 
 In 1948, McDonnell joined [[McDonnell Aircraft Corporation]], a company founded by his uncle, [[James S. McDonnell]], as a stress engineer. He participated in the development of the F-101 Voodoo and the F-4 Phantom II jet fighters. In 1962, he was named vice president-general manager of all combat aircraft. He became the president of the company, by then [[McDonnell Douglas Corporation]], in 1971, and chief executive officer the following year. Upon the death of [[James S. McDonnell]] in 1980, Sanford McDonnell succeeded him as chairman of the board, a role he retained until 1988. He also served as chairman of the board of governors of the [[Aerospace Industries Association]].[^3]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
 [^2]: *World Who's who in Commerce and Industry*. 1968.

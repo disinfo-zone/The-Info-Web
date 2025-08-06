@@ -1,4 +1,4 @@
- ---
+---
 created: 2025-03-05
 updated: 2025-07-22
 title: Frederick Atwater

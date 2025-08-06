@@ -3,6 +3,14 @@ tags:
   - Person
   - Intelligence
   - USA
+  - CIA
+  - U-2_Spy_Plane
+  - Photographic_Intelligence
+  - Nuclear
+  - Israel
+  - Dimona
+  - Soviet_Union
+  - Eisenhower_Administration
 ---
 Arthur C. Lundahl was a key figure in U.S. aerial reconnaissance, directing the Photographic Intelligence Division of the [[Central Intelligence Agency|CIA]]. He had analyzed reconnaissance photos for the Navy during World War II and was tasked by President [[Dwight D. Eisenhower]] to address the lack of aerial intelligence on the [[Soviet Union]].[^1]
 

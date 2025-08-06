@@ -17,5 +17,5 @@ Nolan's lab is known for pioneering advances in large-scale mapping of cellular 
 
 Nolan speculates that some people may repeatedly attract these phenomena or experiences, acting like an "antenna" or "lighthouses in the dark." He and Green are essentially searching for a gene for paranormality, or what Green prefers to call "the genomics of supernormality"[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

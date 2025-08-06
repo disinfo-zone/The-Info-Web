@@ -1,5 +1,12 @@
 ---
-tags: ["Person", "Financier", "BCCI"]
+tags:
+  - Person
+  - Financier
+  - BCCI
+  - Banking
+  - Finance
+  - Pakistan
+  - Islam
 ---
 Agha Hasan Abedi was a Pakistani financier who founded the [[Bank of Credit and Commerce International|BCCI]] in 1972, with the intention of creating the Third World's first multinational bank. He is described as a diminutive man, the son of petty bureaucrats, who handcrafted BCCI into one of the most powerful private organizations globally by the early 1980s.[^1] Abedi was a visionary and a romantic, a Muslim who drifted into the secretive Sufi sect, which influenced his unique business style. He incorporated Islamic mysticism into the bank's driving force, emphasizing spiritual progress and a democratic theory of management, which eventually devolved into corruption. He was known for his ability to build relationships with ruling elites and for his philanthropic efforts in the Third World.[^2]
 
@@ -21,10 +28,10 @@ Abedi's influence grew through strategic alliances, including with [[Zia ul-Haq|
 
 BCCI's operations were deeply intertwined with intelligence agencies, including the [[Central Intelligence Agency]], and were involved in arms dealing, drug trafficking, and money laundering on a global scale.[^17] Abedi's ability to operate with apparent immunity from law enforcement in the United States was attributed to these high-level connections and a probable cover-up by government officials.[^18]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 18.
-[^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 18.
+[^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 16-19.
 [^3]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 19.
 [^4]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 155, 163.
 [^5]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 141, 143.
@@ -39,5 +46,5 @@ BCCI's operations were deeply intertwined with intelligence agencies, including 
 [^14]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 324.
 [^15]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 329.
 [^16]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 227-228.
-[^17]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 16.
+[^17]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 16-17.
 [^18]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 17.

@@ -1,3 +1,18 @@
+---
+tags:
+  - Person
+  - Government_Official
+  - FBI
+  - Law_Enforcement
+  - Director
+  - Joseph_McCarthy
+  - Richard_Nixon
+  - Clint_Murchison
+  - AEC
+  - CIA
+  - Israel
+  - Nuclear
+---
 [[J. Edgar Hoover]] served as the first Director of the [[Federal Bureau of Investigation|FBI]] (and its predecessor, the Bureau of Investigation) for 48 years, from 1924 until his death in 1972. His long tenure was marked by both his law enforcement activities and his connections to influential political and business figures.
 
 ### Hotel Del Charro Connections

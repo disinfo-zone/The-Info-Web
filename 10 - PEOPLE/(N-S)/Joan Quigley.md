@@ -14,5 +14,5 @@ In her memoir, *What Does Joan Say?*, Quigley wrote, "Not since the days of the 
 ## Publications
 *   *What Does Joan Say?* (1990)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

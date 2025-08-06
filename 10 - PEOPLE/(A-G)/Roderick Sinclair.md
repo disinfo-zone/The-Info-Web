@@ -11,6 +11,6 @@ Deputy [[Rod Cusic]] stated that he was "told by [[Roderick Sinclair]] to lie to
 [[Roderick Sinclair]]'s father was a military attaché to [[Douglas MacArthur]] during [[World War II]]. In [[Japan]], after the war, Colonel Sinclair (Sr.) supervised the training of selected Japanese in intelligence gathering operations. Rod Sinclair, Jr. attended school in [[Japan]] and later reportedly worked in the Army C.I.D. in a non-military or civilian capacity, allegedly receiving training at Fort Liggett in San Luis Obispo, a training center for military intelligence operations.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

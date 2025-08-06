@@ -7,6 +7,6 @@ John Paul Nichols was also involved in the [[Cabazon Casino]] and [[Indio Bingo 
 [[Tommy Marson]], a known [[Gambino Crime Family]] associate, reportedly lent [[Dr. John Philip Nichols]] $50,000 to start the Cabazon Casino, according to John Paul Nichols.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

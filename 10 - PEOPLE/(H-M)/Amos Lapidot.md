@@ -3,6 +3,10 @@ tags:
   - Person
   - Military
   - Israel
+  - Air_Force
+  - Intelligence
+  - Jonathan_Pollard
+  - Spy_Ring
 ---
 Amos Lapidot was the chief of staff of the Israeli Air Force. He assured [[Aviem Sella]] that [[Jonathan Pollard]] was not a rogue and that clearance for Sella's new assignment as Pollard's handler had been obtained from [[Yitzhak Rabin]], the minister of defense.[^1]
 

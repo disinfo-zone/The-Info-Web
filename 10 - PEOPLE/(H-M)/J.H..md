@@ -7,6 +7,6 @@ J.H. verified some of [[Michael Riconosciuto]]'s information, including Riconosc
 J.H. was also contacted by [[Cheri Seymour]] regarding [[Michael Riconosciuto]]'s request to connect with someone trustworthy at [[Financial Crimes Enforcement Network|FinCen]]. Riconosciuto advised that J.H. should have someone "totally uncoupled" from him make inquiries into Riconosciuto's files to avoid exposing an audit trail, as Riconosciuto claimed to know [[PROMIS]] and [[FOIMS]] (Field Office Information Management System) "inside out" and helped develop their internal tracking audit trail.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

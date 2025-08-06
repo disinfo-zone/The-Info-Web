@@ -5,9 +5,13 @@ tags:
   - Person
   - Astrologer
   - Propaganda
+  - World War II
+  - British Intelligence
+  - MI6
+  - Black Ops
+  - Germany
+  - Hungary
 ---
-# Louis de Wohl
-
 Louis de Wohl was a German-born Hungarian astrologer and British citizen who became a key figure in Allied black propaganda during [[World War II]]. He was one of the most high-profile astrologers in the Western world, with admirers including [[Lord Halifax]], Britain's Foreign Secretary, and the Duke of Alba, the ambassador from [[Spain]][^1].
 
 De Wohl's mission in America, in the summer of 1941, was to elevate astrology into the realm of "astro-philosophy" and, more importantly, to influence American public opinion in favor of aiding [[Great Britain]]. His syndicated American column, "Stars Foretell," consistently emphasized the Nazi threat. Starting in June 1941, shortly after the [[Rudolf Hess]] affair, de Wohl's predictions became unusually specific and appeared to come true, such as his foretelling of a "strong collaborator of Hitler who is neither German nor a Nazi will go violently insane," which was followed by reports of Admiral Georges Robert, the Vichy High Commissioner of the French West Indies, going mad[^1].
@@ -18,5 +22,5 @@ De Wohl's efforts were effective in swaying public opinion away from U.S. isolat
 
 For the next few years, de Wohl was used by the Allies as a countermeasure to [[Heinrich Himmler]]'s use of astrology and the occult. Under the direction of master propagandist [[Sefton Delmer]], de Wohl wrote seemingly authentic astrology charts that predicted the demise of certain Nazi admirals and generals, and stated that [[Adolf Hitler]] would be betrayed by his inner circle. These fake star charts and horoscopes were included in near-perfect replicas of a banned German astrological magazine called *Zenit*, intended for underground distribution in Germany. However, these counterfeit magazines were seized by the [[Gestapo]] in [[Stettin]], as detailed by [[Wilhelm Wulff]] in his memoir *Zodiac and Swastika*[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -16,7 +16,6 @@ By the early 1960s, Vasiliev was heading a well-funded parapsychology laboratory
 
 Vasiliev publicly stated in April 1960 that the Soviets had conducted extensive and unreported investigations into telepathy under the Stalin regime, and that they had successfully performed telepathy tests over a quarter-century prior to the alleged U.S. Nautilus tests. He urged Soviet scientists to overcome their prejudices against such research and to explore this vital field, which he believed had the potential to be as significant as the discovery of atomic energy.[^2]
 
----
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

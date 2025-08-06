@@ -1,4 +1,15 @@
-[[Robert Booth Nichols]] is a figure frequently mentioned in connection with [[Danny Casolaro]]'s "[[The Octopus]]" investigation, described as an international intelligence operative with extensive ties to government, organized crime, and illicit activities. He was born in 1943 or 1944.[1]
+---
+tags:
+  - Person
+  - Intelligence
+  - CIA
+  - Organized Crime
+  - PROMIS
+  - The Octopus
+  - USA
+---
+
+[[Robert Booth Nichols]] is a figure frequently mentioned in connection with [[Danny Casolaro]]'s "[[The Octopus]]" investigation, described as an international intelligence operative with extensive ties to government, organized crime, and illicit activities. He was born in 1943 or 1944.[^1]
 
 ### Key Roles and Affiliations
 
@@ -24,5 +35,5 @@ Nichols' activities spanned a wide range of illicit and covert operations, often
 Despite numerous allegations and investigations, [[Robert Booth Nichols]] reportedly had no arrest record. Investigations into his activities, including [[Federal Bureau of Investigation|FBI]] wiretaps, were often abruptly shut down by the [[United States Department of Justice|DOJ]] when they approached high-level organized crime and drug connections.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

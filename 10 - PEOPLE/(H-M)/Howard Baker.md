@@ -5,6 +5,6 @@ Baker was on the [[Music Corporation of America|MCA]] board from January 4, 1985
 [[Edwin Meese]], [[William F. Weld]], and [[Arnold Burns]] complained to Baker about Meese's conduct. Weld stated that his superiors often asked if he could not close pending investigations of Meese's friends. Baker urged Weld and Burns to remain on staff, but they, along with four top aides, resigned from the [[United States Department of Justice|Justice Department]] on March 30, 1988, in an unprecedented mass exit.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

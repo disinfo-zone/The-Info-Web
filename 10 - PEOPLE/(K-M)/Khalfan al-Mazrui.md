@@ -1,5 +1,14 @@
 ---
-tags: ["Person", "Government Official", "BCCI"]
+tags:
+  - Person
+  - Government Official
+  - BCCI
+  - Banking
+  - Karachi
+  - UAE
+  - Private Department
+  - Financial Crime
+  - Investigation
 ---
 Khalfan al-Mazrui was the Head of the [[Karachi]] office of [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]]'s Private Department.[^1] He was also the brother-in-law of [[Sami Masri]].[^2]
 
@@ -13,7 +22,7 @@ He was responsible for cleaning up the missing hundreds of millions of dollars t
 
 Al-Mazrui was in communication with [[Jonathan Beaty]] regarding Sami Masri and the BCCI investigation.[^6] He was cautious and wary, especially about discussing sensitive information over the phone.[^7] He was also involved in meetings with BCCI heads in [[London]].[^8]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 92.

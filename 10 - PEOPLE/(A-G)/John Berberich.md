@@ -10,5 +10,5 @@ John Berberich was a Division Chief at the [[Defense Intelligence Agency|DIA]]. 
 
 Berberich's decision to appoint Graff to this leadership role indicated a shift in the program's management, aiming for a more operationally effective approach. In May 1991, Berberich, along with Graff and three remote viewers (including [[Angela Dellafiora]]), traveled to [[England]], [[Germany]], and [[Israel]] as part of an annual intelligence exchange, further highlighting his involvement in the program's international engagements[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

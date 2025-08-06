@@ -12,5 +12,5 @@ In July 1945, after the defeat of [[Nazi Germany]], Goudsmit and his team sought
 
 Goudsmit emphasized the critical importance of preventing the Ahnenerbe's supernatural secrets from becoming part of the [[Cold War]] arms race. He ensured that the Ahnenerbe relics were crated up and sent to U.S. Army headquarters in Frankfurt[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -7,8 +7,6 @@ tags:
   - Spy
   - Author
 ---
-# Jacques Bergier
-
 Jacques Bergier was a journalist, former French resistance spy, and author with strong ties to the intelligence community and an interest in the supernatural. He is known for bringing secret government [[Extrasensory Perception|ESP]] programs to public attention[^1].
 
 In December 1959, Bergier published an article in the French magazine *Constellation* titled "Thought Transfer, Weapon of War." The article reported that ESP tests had been conducted aboard the [[USS Nautilus]], the world's first nuclear-powered submarine, in 1958. The purpose of the experiment was to determine if long-distance telepathic communication could be achieved through barriers like thousands of miles of seawater, thick polar ice, and the metal walls of a submarine[^1].
@@ -23,5 +21,5 @@ Whether Bergier's story was true or fabricated remains a debate, but it had real
 *   "Thought Transfer, Weapon of War" (*Constellation*, 1959)
 *   *Morning of the Magicians* (co-authored with Louis Pauwels)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

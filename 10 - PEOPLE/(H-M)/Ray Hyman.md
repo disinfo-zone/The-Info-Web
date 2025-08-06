@@ -14,5 +14,5 @@ In 1983, Hyman weighed in on the [[James Randi]] hoax against the McDonnell Labo
 
 In 1995, Hyman was one of the team leaders for the [[American Institutes for Research]]'s evaluation of the [[STARGATE PROJECT|Star Gate program]], which ultimately recommended its cancellation. However, this evaluation was criticized for its limited scope and the researchers' pre-existing skeptical biases[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

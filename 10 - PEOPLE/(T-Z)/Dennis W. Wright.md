@@ -1,3 +1,8 @@
+---
+tags:
+  - Person
+  - Incomplete Research
+---
 > [!WARNING] INCOMPLETE RESEARCH
 > This page is a placeholder and requires extensive additions. 
 
@@ -7,7 +12,6 @@ As of 1974, Dennis was working for [[INSLAW]][^2] directly.
 
 In 1990, Dennis was a Senior Research Computer Scientist working in the [[ICMS]] Re-engineering project within the [[Division of Innovations and Systems Development]][^1] of the [[U.S. Department of Justice]].
 
----
 #### Footnotes
 
 [^1]: [1990 Annual Report Federal Judicial Center](https://www.ojp.gov/pdffiles1/Digitization/132273NCJRS.pdf)

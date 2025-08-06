@@ -5,5 +5,5 @@ Rudnick subsequently lost his job when he refused to drop the investigation into
 After losing his job, Rudnick eventually had part of his story told in the 1993 book, *Stiffed: A True Story of MCA, The Music Business, and the Mafia* by William Knoedelseder.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

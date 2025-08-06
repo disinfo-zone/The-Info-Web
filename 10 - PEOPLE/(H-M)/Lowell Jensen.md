@@ -1,3 +1,14 @@
+---
+tags:
+  - Person
+  - Government_Official
+  - Deputy_Attorney_General
+  - DOJ
+  - PROMIS
+  - INSLAW
+  - Justice_Department
+  - Edwin_Meese
+---
 D. Lowell Jensen served as Deputy Attorney General of the [[United States Department of Justice|DOJ]]. He became a figure in the [[PROMIS Software Scandal]] due to allegations made by [[Inslaw Corporation]] and findings by Bankruptcy Judge Bason. Further, his secretary brought a letter to [[William Bradford Reynolds]] for signature because Jensen was out of the building, the letter needed to be sent that day, and it needed to be signed by someone in [[Edwin Meese]]'s inner circle. This letter advised that the [[PROMIS]] software was being provided to an Arab Sheik for resale and general distribution.[^1]
 
 [[Edwin Meese]] reportedly recused himself on [[PROMIS]] when he became [[United States Attorney General|Attorney General]] in February 1985, and Jensen therefore had to handle [[PROMIS]].[^1]

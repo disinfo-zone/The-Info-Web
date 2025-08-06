@@ -5,6 +5,6 @@ Hundley had recently joined Strauss's firm, Akin Gump Strauss Hauer & Feld. He c
 [[Marvin Rudnick]] pointed out that Hundley's picture was on the wall, along with [[Ronald Reagan]] and [[Edwin Meese]]'s, in Margolis's office, which Margolis pointed to when he threatened Rudnick.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -5,6 +5,6 @@ On July 24, phone conversations took place in which Azoff, [[Sal Pisello]], and 
 On July 12, Bacow asked Giaquinto if Azoff had something on [[Sidney Sheinberg]]. Giaquinto replied that it had been "bandied about" and he would know more when other documents came in. This was interpreted in the intercept as Giaquinto obtaining confidential government information from some government agency personnel in Washington D.C.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

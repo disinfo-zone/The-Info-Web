@@ -2,6 +2,10 @@
 tags:
   - Person
   - USA
+  - Real_Estate
+  - Intelligence
+  - Ari_Ben-Menashe
+  - Orthodox
 ---
 [[Ann Magori]] was an [[USA|American]]-born Orthodox woman and a real estate agent. She developed a close relationship with [[Ari Ben-Menashe]] and his wife [[Ora Ben-Shalom|Ora]].[^1]
 

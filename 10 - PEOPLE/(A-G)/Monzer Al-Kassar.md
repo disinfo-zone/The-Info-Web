@@ -7,6 +7,6 @@ Al-Kassar was also alleged to have provided [[Oliver North]] with drug profits t
 [[Barbara Honegger]], in her book *October Surprise*, alleged that Al-Kassar's heroin smuggling network in [[Italy]] was used to launder [[North Atlantic Treaty Organization|NATO]] arms stocks for diversion to [[Iran]] with the help of corrupt Italian intelligence officials linked to the secretive fascist Masonic lodge, [[P2]]. Al-Kassar was reported to hold large tracts of land in the Bekaa Valley in [[Lebanon]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

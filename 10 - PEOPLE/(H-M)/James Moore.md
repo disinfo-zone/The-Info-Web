@@ -19,5 +19,5 @@ The mission proved traumatic for Moore, who reportedly got sick and disliked the
 
 However, the CIA's desire to keep the drug a secret psychic weapon was undermined when Wasson published a twelve-page account of his experience in *Life* magazine, highlighting the mushroom's alleged ability to access and enhance [[Extrasensory Perception|ESP]]. This article caused a sensation and led to pleasure seekers flocking to Mexico to consume *God's flesh*[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

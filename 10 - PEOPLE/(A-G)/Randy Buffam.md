@@ -7,6 +7,6 @@ Buffam acknowledged that the [[Royal Canadian Mounted Police|RCMP]] had requeste
 After the [[Royal Canadian Mounted Police|RCMP]] probe was closed, Buffam mailed the Riconosciuto/PROMIS tapes back to the Hercules Police Department, according to [[Sue Todd]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

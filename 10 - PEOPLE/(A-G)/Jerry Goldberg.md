@@ -5,6 +5,6 @@ Goldberg's article mentioned the "[[Queen's Accident]]" and threats received by 
 Goldberg reportedly disappeared the day after [[Ben Wagner]]'s meeting with "Chuck" from the [[Ronald Reagan|Reagan]] [[White House]], leaving his law practice and home, never to be seen again.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

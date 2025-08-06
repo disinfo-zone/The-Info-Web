@@ -15,5 +15,5 @@ In this experiment, the baby rabbits were placed aboard the submarine, and elect
 
 This experiment was known to [[Stephan Schwartz]], a former U.S. naval officer, and contributed to the U.S. military's interest in exploring the relationship between ELF and ESP for potential communication in a post-nuclear strike environment[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

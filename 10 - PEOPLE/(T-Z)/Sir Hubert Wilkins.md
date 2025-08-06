@@ -14,6 +14,5 @@ description: Sir Hubert Wilkins was an Australian polar explorer, aviator, and d
 
 Wilkins conducted experiments in [[Mind-to-Mind Telepathy]], which he documented in his book *Thoughts Through Space: A Remarkable Adventure in the Realm of Mind*. His work influenced [[Edgar Mitchell]], the Apollo 14 astronaut, who was inspired to conduct his own telepathy experiments during his Moon voyage.[^1]
 
----
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

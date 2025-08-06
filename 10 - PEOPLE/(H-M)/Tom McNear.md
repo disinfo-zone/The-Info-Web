@@ -19,5 +19,5 @@ Despite his proficiency, McNear did not want to remain part of the viewer unit a
 
 In 1985, the [[Department of Defense]] published a forty-one-page how-to manual, "Coordinate Remote Viewing, Stages I–VI and Beyond." The author of this manual, declassified in 2000, was Tom McNear[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

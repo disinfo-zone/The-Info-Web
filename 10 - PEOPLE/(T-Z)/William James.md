@@ -13,6 +13,5 @@ description: William James was a pioneering American psychologist and philosophe
 
 James was also deeply interested in psychic phenomena and was one of the founders of the [[American Society for Psychical Research]] (ASPR) in 1885. He believed that the scientific study of such phenomena was crucial for a complete understanding of human consciousness and the nature of reality.[^1]
 
----
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

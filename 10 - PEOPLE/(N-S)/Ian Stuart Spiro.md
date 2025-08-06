@@ -7,6 +7,6 @@ Former hostage [[David Jacobsen]] stated that Spiro helped negotiate the release
 [[Michael Riconosciuto]] claimed that [[Marshall Riconosciuto]] (Michael's father) shipped documents to [[Ian Stuart Spiro]] for safekeeping. The week of the Spiro family's death, [[Robert Corson]], a business associate of Spiro's indicted in a savings and loan scam and reportedly a [[Central Intelligence Agency|CIA]] operative, was found dead in an El Paso, Texas, motel room, with officials stating he died of a heart attack. Corson was also alleged to have associated with California investor [[Wayne Reeder]], who was seen at a [[Wackenhut Corporation]]/[[Contras|Contra]] meeting in Riverside County.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

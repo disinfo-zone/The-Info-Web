@@ -1,3 +1,15 @@
+---
+tags:
+  - Person
+  - Computer
+  - Scientist
+  - CIA
+  - PROMIS
+  - Octopus
+  - Cabazon
+  - USA
+---
+
 [[Michael Riconosciuto]] is a computer scientist and self-proclaimed former [[Central Intelligence Agency|CIA]] asset, known for his involvement in various clandestine operations and his claims regarding the [[PROMIS Software Scandal]]. He was described as a child prodigy, wiring his parents' neighborhood with a private telephone system at age 10 and winning science fairs with laser technology, leading to a summer research assistantship at Stanford's Cooper Vaper Laser Laboratory.[^1]
 
 ### Involvement with Wackenhut and Cabazon Joint Venture

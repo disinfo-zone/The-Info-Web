@@ -5,5 +5,5 @@ Maheu's connections extended to organized crime figures, as he was involved in [
 His involvement with [[First Intercontinental Development Corporation|FIDCO]] placed him among a group of powerful individuals, including [[Michael A. McManus]], [[Robert Booth Nichols]], and [[Clint W. Murchison, Jr.]], who were described as intelligence people working for the [[National Security Council|NSC]]. [^1]
 
 ---
-## Footnotes
+### Footnotes
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

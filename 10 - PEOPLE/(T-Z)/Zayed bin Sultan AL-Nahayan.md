@@ -19,7 +19,7 @@ Zayed and his chief lieutenant, [[Ghanim Fan's al-Mazrui]], were infuriated by t
 
 He ordered audits of BCCI, which revealed billions of dollars missing.[^9] The [[Bank of England]] tried to persuade Zayed to inject more money into BCCI to cover losses.[^10]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 155-156.

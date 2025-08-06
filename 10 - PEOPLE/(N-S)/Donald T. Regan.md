@@ -12,5 +12,5 @@ Regan stated that "Virtually every major move and decision the Reagans made duri
 
 The astrologer in question was [[Joan Quigley]]. Regan's disclosure brought the association of divination with national security into the news, sparking public interest and debate[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

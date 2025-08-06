@@ -5,6 +5,6 @@ Wilcher was interviewed by [[Carl Stern]], Reno's public relations man, regardin
 [[Bill Hamilton]] also mentioned that a [[United States Department of Justice|Justice Department]] report commissioned by [[Janet Reno]] confirmed that a system called [[PROMIS]] was being used by [[Canada|Canadian]] agencies, but claimed it was totally different from [[INSLAW]]'s [[PROMIS]] software.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

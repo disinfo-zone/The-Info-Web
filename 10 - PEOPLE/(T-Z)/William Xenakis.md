@@ -11,5 +11,5 @@ William Xenakis was a Lieutenant Colonel who commanded Detachment G, the [[Remot
 
 Xenakis's intervention indicates an attempt to bring the unit back to its intended purpose of intelligence gathering and to curb the unconventional targeting practices that had become prevalent under Dames's management[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

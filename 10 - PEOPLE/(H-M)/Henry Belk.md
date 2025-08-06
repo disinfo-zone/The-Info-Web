@@ -16,5 +16,5 @@ In the spring of 1956, Belk happened upon a *Paris Match* magazine article profi
 
 In early 1963, Belk arrived at Puharich's Ossining estate with an enticing research proposition centered on [[Arigo]], a psychic healer in the jungles of Brazil who reportedly performed major surgeries with a pocketknife without anesthesia or pain. Puharich, eager to pursue this, left for Brazil with Belk, a decision that led to [[Bep Hermans]] and their children leaving him[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

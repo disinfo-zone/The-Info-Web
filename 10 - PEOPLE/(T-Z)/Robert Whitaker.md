@@ -1,3 +1,7 @@
+---
+tags:
+  - Person
+---
 > [!WARNING] INCOMPLETE RESEARCH
 > This page is a placeholder and requires extensive additions. Difficulties have arisen from how common the name Robert Whitaker is.
 
@@ -9,7 +13,6 @@ Further records of Robert Whitakers can be found working in the secret service (
 
 There was an issue of Corrections Magazine in 1974 that mentions a Robert Whitaker, who runs a correction center, used to be a marine[^5]. It’s possible this is the same Whitaker as the Corrections field is fairly small even with a relatively common name.
 
----
 #### Footnotes
 
 [^1]: [District of Columbia Appropriations for Fiscal Year 1970](https://www.google.com/books/edition/District_of_Columbia_Appropriations_for/4g1EAQAAMAAJ?hl=en&gbpv=1&dq=%22robert+whitaker%22&pg=PA605&printsec=frontcover)

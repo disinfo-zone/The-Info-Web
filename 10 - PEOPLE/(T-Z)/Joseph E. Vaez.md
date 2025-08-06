@@ -11,7 +11,7 @@ Vaez's report concluded that BCCI's practices were glaringly obvious as far back
 
 Despite the significance of his report, the OCC claimed to have "lost" the memo. When Vaez later agreed to provide a copy from his own files, the OCC refused to let investigators have it, only releasing it after a congressional subpoena.[^2]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 381-382

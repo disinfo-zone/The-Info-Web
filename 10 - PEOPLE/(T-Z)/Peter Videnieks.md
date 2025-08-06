@@ -1,3 +1,14 @@
+---
+tags:
+  - Person
+  - Government
+  - US Customs
+  - PROMIS
+  - Software Scandal
+  - DOJ
+  - Intelligence
+  - Corruption
+---
 [[Peter Videnieks]] was a [[United States Customs Service|U.S. Customs]] contract specialist who was detailed to the [[United States Department of Justice|DOJ]] in the early 1980s to develop the [[PROMIS]] software. He later became a central figure in the [[PROMIS Software Scandal]].[^1]
 
 ### Role in PROMIS Software Scandal
@@ -16,7 +27,6 @@ During [[Michael Riconosciuto]]'s trial in Tacoma, Washington, Videnieks testifi
 
 Despite the allegations and his central role in the [[PROMIS Software Scandal]], Videnieks was never charged with any wrongdoing. [[Scott Lawrence]]'s investigation into corruption within [[United States Customs Service|U.S. Customs]], which involved Videnieks, was abruptly shut down when Lawrence and his supervisor requested to impanel grand juries to depose [[Central Intelligence Agency|CIA]] officials.[^1]
 
----
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

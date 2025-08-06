@@ -9,5 +9,5 @@ Michael Edwards was one of two young magicians, along with [[Steven Shaw]], who 
 
 They spent a total of five weeks in the lab over a three-year period. The hoax was later exposed by Randi, generating significant negative press for the parapsychology community[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

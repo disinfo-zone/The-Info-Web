@@ -3,9 +3,10 @@ created: 2025-07-23
 updated: 2025-07-23
 title: Department of Defense
 tags:
-  - organization
-  - government
-  - military
+  - Organization
+  - Government
+  - Military
+  - Defense
   - USA
 description: The Department of Defense (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States Armed Forces.
 ---
@@ -16,6 +17,5 @@ In the context of psychic research, the DoD played a significant role, particula
 
 The DoD's interest in [[Psi|psi]] phenomena was often driven by concerns about perceived advancements in [[Soviet Union|Soviet]] and [[China|Chinese]] psychic research, leading to programs aimed at understanding and potentially weaponizing these abilities. This included research into [[Psychotronic Weapons]] and the biological effects of electromagnetic radiation, as seen in [[Project Pandora]] and the work of scientists like [[Allan H. Frey]] and [[Robert O. Becker]].[^1]
 
----
-
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

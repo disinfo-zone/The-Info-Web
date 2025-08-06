@@ -3,9 +3,12 @@ created: 2025-07-23
 updated: 2025-07-23
 title: Office of Strategic Services
 tags:
-  - organization
-  - intelligence
-  - historical
+  - Organization
+  - Intelligence
+  - Government
+  - USA
+  - Historical
+  - World War II
 description: The Office of Strategic Services (OSS) was a wartime intelligence agency of the United States during World War II, and a precursor to the CIA.
 ---
 
@@ -13,6 +16,5 @@ The [[Office of Strategic Services]] (OSS) was a wartime intelligence agency of 
 
 Figures like [[Oliver J. Caldwell]] were former OSS officers who later became involved in intelligence activities related to psychic research, highlighting the continuity of personnel and interests across different intelligence organizations.[^1]
 
----
-
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

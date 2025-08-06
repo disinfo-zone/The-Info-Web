@@ -1,5 +1,12 @@
 ---
-tags: ["Person", "Lawyer", "Banker", "BCCI"]
+tags:
+  - Person
+  - Lawyer
+  - Banker
+  - BCCI
+  - Banking
+  - USA
+  - Finance
 ---
 Robert Altman was a prominent American lawyer and banker, known for his close association with [[Clark Clifford]] and his involvement in the [[Bank of Credit and Commerce International|BCCI]] scandal. He served as the former president of [[First American Bank]] and was Clifford's law partner and protégé. Altman, along with Clifford, acted as BCCI's chief American counsel from 1978 to 1990.[^1]
 
@@ -19,7 +26,7 @@ In February 1988, Altman and Clifford sold a large portion of their stock in Fir
 
 Altman was indicted by a New York grand jury in July 1992, along with Clark Clifford, on charges related to bribery and fraud for their role in helping BCCI influence First American Bank's affairs.[^11]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 8.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 194.

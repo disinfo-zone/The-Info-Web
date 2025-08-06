@@ -18,6 +18,6 @@ Later, as the director of research at the [[American Society for Psychical Resea
 
 Osis also conducted a [[Psychokinesis|psychokinesis]] experiment with [[Pat Price]], where Price, from a distance, appeared to affect an infrared sensor in a sealed copper box[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

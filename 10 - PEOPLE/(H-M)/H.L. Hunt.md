@@ -3,6 +3,6 @@
 Hunt and [[Clint Murchison, Sr.]] were the chief organizers of the pro-[[Douglas MacArthur|MacArthur]] movement in Texas. Hunt went on to establish a MacArthur-for-president headquarters in Chicago, spending $150,000 of his own money on the general's reluctant 1952 presidential campaign. This campaign eventually faltered as MacArthur adopted the strident rhetoric of the right wing.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

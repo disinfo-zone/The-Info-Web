@@ -16,5 +16,5 @@ Elevated to the position of SS-Brigadeführer, Wiligut remained on Himmler's per
 
 Wiligut's influence on Himmler contributed to the promotion of quasi-science projects within the [[Nazi Germany|Third Reich]], particularly through organizations like [[Das Ahnenerbe]], which sought to prove the superiority of Nazi ideology through mystical and occult means[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

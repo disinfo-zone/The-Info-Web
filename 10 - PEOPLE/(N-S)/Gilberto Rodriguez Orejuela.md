@@ -11,5 +11,5 @@ His activities became a critical focus of investigative journalist [[Danny Casol
 Rodriguez Orejuela was prosecuted and served a prison term following an indictment unsealed in Miami on June 6, 1995, for laundering money for the Cali Cartel. Surveillance reports indicated his frequent visits to his home in Bogota, Colombia.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

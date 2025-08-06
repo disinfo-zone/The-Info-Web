@@ -10,5 +10,5 @@ William Perry served as the Undersecretary of Defense for Research and Engineeri
 
 Perry stated in a memo that it was "not appropriate for Army to fund technology programs aimed at scientific development of parapsychology."[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

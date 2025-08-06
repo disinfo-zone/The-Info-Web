@@ -14,8 +14,6 @@ Rose toured the remote viewing facilities at both [[Stanford Research Institute]
 
 In a revealing interview for *Omni* magazine in 1979, Rose condemned skeptics and "publicity-shy" intelligence officials, making a strong pitch for the program and citing remote viewing data he had seen on an unnamed Soviet target, stating, "What these people 'saw,' was confirmed by aerial photography. There's no way it could have been faked."[^1]
 
-In a revealing interview for *Omni* magazine in 1979, Rose condemned skeptics and "publicity-shy" intelligence officials, making a strong pitch for the program and citing remote viewing data he had seen on an unnamed Soviet target, stating, "What these people 'saw,' was confirmed by aerial photography. There's no way it could have been faked."[^1]
-
----
+### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

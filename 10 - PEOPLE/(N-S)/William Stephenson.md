@@ -14,5 +14,5 @@ Stephenson played a crucial role in influencing American public opinion to suppo
 
 Stephenson's efforts were highly effective, with one declassified memo noting that "An ever-growing audience [is] becoming convinced of his supernatural powers"[^1]. He coordinated with [[William Donovan]], who would later head the [[Office of Strategic Services]], the precursor to the [[Central Intelligence Agency]][^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

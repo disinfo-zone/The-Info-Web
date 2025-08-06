@@ -3,6 +3,6 @@
 Mayer's attorney/client files reportedly contained documentary evidence from his client, [[Ben Kalka]], regarding Kalka's business ties with [[Michael Riconosciuto]] at [[R & R Research]], at the laboratory facilities at Hercules, [[California]], and [[Dr. John Philip Nichols]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -9,5 +9,5 @@ Charlene Cavanaugh Shufelt was one of the five remote viewers from [[Intelligenc
 
 She also worked as a personnel specialist and processed paperwork for those who wanted to attend the [[RAPT]] seminar at the [[Monroe Institute]][^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

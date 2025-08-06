@@ -7,6 +7,6 @@ Frye suffered a heart attack in early April 1983 and was hospitalized. After thi
 [[Robert Chasen]], Executive Vice President of [[Wackenhut Corporation]] in Coral Gables, stated that Frye went behind his back in facilitating the biological warfare technology project at the Indio facility. Chasen believed Frye and [[Dick Wilson]] were "dazzled" with [[Robert Booth Nichols]], despite Chasen's own distrust of Nichols.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

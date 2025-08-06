@@ -1,3 +1,11 @@
+---
+tags:
+  - Organization
+  - Government
+  - Law Enforcement
+  - Canada
+  - Intelligence
+---
 The [[Royal Canadian Mounted Police|RCMP]] is [[Canada]]'s national police force, which became significantly involved in the investigation of the [[PROMIS Software Scandal]]. In February 2000, [[Sean McDade]], an [[Royal Canadian Mounted Police|RCMP]] national security investigator, secretly entered the [[United States]] to investigate evidence that the [[Canadian Government]] was using a modified version of the [[PROMIS]] computer software, which purportedly allowed the [[United States Government|U.S.]] to eavesdrop on [[Canada|Canadian]] intelligence secrets through a "back-door." His investigation was code-named Project Abbreviation, and his email handle, "simorp," was [[PROMIS]] spelled backward.[1]
 
 The [[Royal Canadian Mounted Police|RCMP]] probe, code-named Project Abbreviation, was authorized at the highest levels of the organization and was well-funded. The investigation was prompted by the discovery of an invoice for the purchase of [[PROMIS]] from Strategic Software Planning in Cambridge, Massachusetts, which contradicted earlier denials by [[Canada|Canadian]] authorities regarding the Hamiltons' claims about the pirated software. [[Sean McDade]]'s investigation reportedly traced banking transactions that supported the claim that high-ranking [[Canadian Government|Canadian]] officials might have unlawfully purchased the software from officials in the [[Ronald Reagan|Reagan]]-[[George Bush|Bush]] administration.[1]
@@ -10,6 +18,5 @@ The [[Royal Canadian Mounted Police|RCMP]]'s involvement in the [[PROMIS]] inves
 
 Despite the exposure of [[Sean McDade]]'s investigation in the *Toronto Star* in August 2000, he reportedly returned to police work in his hometown.[1]
 
----
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

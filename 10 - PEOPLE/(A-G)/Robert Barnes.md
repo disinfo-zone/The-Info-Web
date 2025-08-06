@@ -7,6 +7,6 @@ Barnes was involved in a "reverse sting" operation where methamphetamine precurs
 Barnes received three of [[Michael Riconosciuto]]'s computer coded cards from PAT, which he sent to Quantico. PAT, however, withheld one of the cards for himself. These cards were allegedly connected to the deaths of [[Paul Morasca]] and [[Mary Quick]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

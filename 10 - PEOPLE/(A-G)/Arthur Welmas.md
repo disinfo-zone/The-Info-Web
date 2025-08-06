@@ -3,6 +3,6 @@
 [[Robert Chasen]], Executive Vice President of [[Wackenhut Corporation]], felt an affinity with Welmas due to his wife being part Cherokee. Chasen sympathized with the Cabazons' situation and expressed a desire to protect them, suggesting he may have done so by shutting down the [[Wackenhut Corporation]]'s biological virus and vaccine development proposal to the Army on the Cabazon reservation.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -12,5 +12,5 @@ These tests, conducted at a laboratory adjacent to Livermore in an old wooden [[
 
 After the second day of tests, Robertson called [[Kit Green]] at [[CIA]] headquarters, reporting that several nuclear weapons engineers had seen inexplicable phenomena, including "items flying across the room. Lights flashing. A six-inch ball of light, rolling down the hallway. One scientist reported seeing a flying orb." These incidents, which Green privately thought sounded like "poltergeist events," caused concern at both the AEC and the [[CIA]], leading Green to investigate whether the scientists were experiencing hallucinations[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

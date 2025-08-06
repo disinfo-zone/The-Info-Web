@@ -12,5 +12,5 @@ Eyles, then twenty-seven years old, was at the instrument laboratory at [[MIT]] 
 
 [[Edgar Mitchell]] on Antares copied down these critical keystrokes and entered them into the computer, allowing the mission to proceed despite the malfunction[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

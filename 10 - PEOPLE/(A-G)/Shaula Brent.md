@@ -3,6 +3,6 @@
 Brent and her friend, [[Barbara Locke]], who also worked at the hospital, were suspicious about Sinclair's hospital records. They secretly took photostats of the records "before they were destroyed by the hospital." Brent stated that blood had been drawn on Sinclair on the day of the "Queen's accident," and he had been under the influence. She provided the names of six nurses who witnessed Sinclair's condition.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

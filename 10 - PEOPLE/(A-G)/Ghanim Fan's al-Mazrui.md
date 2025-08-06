@@ -1,5 +1,11 @@
 ---
-tags: ["Person", "Government Official", "BCCI"]
+tags:
+  - Person
+  - Government Official
+  - BCCI
+  - Banking
+  - UAE
+  - Abu Dhabi
 ---
 Ghanim Fan's al-Mazrui was the Head of [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]]'s Private Department and a [[Bank of Credit and Commerce International|BCCI]] board member.[^1] He was also the director general of His Highness's Private Department and a longtime director of BCCI, effectively running [[Abu Dhabi]] alongside Sheikh Zayed.[^2]
 
@@ -11,7 +17,7 @@ He was also connected to [[William Casey]], the former [[Central Intelligence Ag
 
 Al-Mazrui's involvement in the BCCI scandal was a matter of public knowledge, and his actions were closely scrutinized during the investigations into the bank's illicit activities.[^5]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 92.

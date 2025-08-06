@@ -9,5 +9,5 @@ R. S. Hawke was one of the scientists at [[Lawrence Livermore National Laborator
 
 Hawke documented the results of one of these tests, stating that "The magnetic pattern stored in the iron oxide layer of a magnetic program card was erased." He concluded that "Further experiments are warranted," indicating a measurable effect from Geller's alleged abilities[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

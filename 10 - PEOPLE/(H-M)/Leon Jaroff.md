@@ -12,5 +12,5 @@ Jaroff's article was influenced by [[George Lawrence]], an [[ARPA]] project mana
 
 Jaroff's reporting contributed to the public debate and skepticism surrounding Geller's abilities and the government's involvement in [[Extrasensory Perception|ESP]] research[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

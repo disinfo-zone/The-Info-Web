@@ -5,5 +5,5 @@ Lawrence's investigation quickly expanded beyond the software to follow a drug t
 Despite the obstruction, Lawrence is noted as one of only two investigators who remained in law enforcement after directly or peripherally investigating the alleged theft of the [[PROMIS]] software and its connections to high-level organized crime, drugs, and money laundering.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

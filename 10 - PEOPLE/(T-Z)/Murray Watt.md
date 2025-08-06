@@ -17,6 +17,5 @@ Watt was present during many key remote viewing sessions, including the initial 
 
 Despite his initial lack of interest in the paranormal, Watt was instrumental in the establishment and early operations of the Army's psychic spying program. He was promoted to lieutenant colonel during his tenure with the unit. He eventually transferred out of the unit, but not before helping to establish it on a firm footing.[^1]
 
----
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

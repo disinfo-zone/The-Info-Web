@@ -12,5 +12,5 @@ Andre was initially highly skeptical of [[Remote Viewing]], but he came to accep
 
 Andre found Dellafiora's ability to access such sensitive information astonishing. He observed that her talents continued to be applied throughout the 113 sessions dedicated to the search for Higgins[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

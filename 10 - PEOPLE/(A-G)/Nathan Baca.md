@@ -5,6 +5,6 @@ Baca interviewed [[Glen Heggstad]], who provided him with a book he had written,
 Baca's news report on July 2, 2010, aired a segment of a 25-year-old interview in which [[Jimmy Hughes]] said that the [[Fred Alvarez]] triple homicide in 1981 was an "ordered assassination," and that he was only the bagman. Hughes told the reporter, [[Patrick Healy]], in the 1985 news clip that the hit was an "authorized, backed, government covert action."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

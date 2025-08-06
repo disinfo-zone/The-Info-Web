@@ -9,7 +9,7 @@ Khalil was one of the nominees used by Abedi to secretly purchase shares in [[Cr
 
 His involvement in BCCI's operations highlights the bank's strategy of using influential figures to conceal its true ownership and illicit financial activities. Khalil, along with [[Kamal Adham]] and [[Ghaith Pharaon]], held significant shares in BCCI and its subsidiaries, often acquired through these fraudulent loans.[^4]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 193.

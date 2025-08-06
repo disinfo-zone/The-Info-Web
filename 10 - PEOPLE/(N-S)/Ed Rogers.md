@@ -14,6 +14,6 @@ Rogers was highly skeptical of incorporating psychic data into high-stakes opera
 
 Despite Price's impressive performance in three preliminary tests, accurately describing details of the Chinese Embassy in Africa and a consular building in Rome, Rogers ultimately decided against using psychic intelligence for the operation. He famously stated, "It may be the only opportunity we ever have to find something at ground level... I'm not going to screw it up by reading tea leaves." In the end, Rogers approved a risky operation using conventional technical means to check the targeted embassy's basement, which concluded it was only a wine cellar, not a communications office.[^1]
 
----
+### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

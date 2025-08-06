@@ -12,5 +12,5 @@ Randi sent two young magicians, [[Steven Shaw]] and [[Michael Edwards]], to Phil
 
 Phillips dismissed Shaw and Edwards from the lab at one point, but rehired them months later. When Randi exposed the hoax, Phillips stated that he had trusted the research subjects and that "there are ethical issues involved" in lying to scientists[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

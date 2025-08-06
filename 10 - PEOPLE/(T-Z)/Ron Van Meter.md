@@ -1,3 +1,7 @@
+---
+tags:
+  - Person
+---
 [[Ron Van Meter]] was a deputy in the Mariposa Sheriff's Department. His death on June 24, 1980, in an alleged boating accident on Lake McClure, became a central point of investigation into long-standing corruption, murder, threats, and harassment within the department. Those he confided in believed he was murdered after uncovering and reporting drug trafficking within the sheriff's department.[^1]
 
 Official reports listed his death as a drowning. The search party consisted mainly of three divers: deputies [[Dave Beavers]], [[Rod Cusic]], and [[Gary Estep]]. Sheriff [[Paul Paige]] refused outside help, including additional divers from adjacent counties and a mini-submarine offered by Beavers' associate.[^1]
@@ -12,7 +16,6 @@ A few weeks prior to his death in 1980, Van Meter had driven to the [[California
 
 On June 24, 1980, frustrated and angry at the Attorney General for betraying him, Van Meter borrowed a boat and was on his way to arrest the deputies at Lake McClure himself. He never returned. His body was finally recovered in September 1990 in the shallow waters of Lake McClure, wrapped in a fish net and weighted down by various objects.[^1]
 
----
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

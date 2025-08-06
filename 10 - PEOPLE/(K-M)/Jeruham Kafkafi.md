@@ -3,6 +3,11 @@ tags:
   - Person
   - Scientist
   - Israel
+  - Scientific Attaché
+  - FBI Investigation
+  - Nuclear Materials
+  - Pittsburgh
+  - Intelligence
 ---
 Jeruham Kafkafi was an Israeli scientific attaché. He had a highly suspicious meeting at the airport in [[Pittsburgh]] with [[Zalman Mordecai Shapiro]]. The [[Federal Bureau of Investigation|FBI]] reported that Kafkafi flew from [[Washington D.C.]] to Pittsburgh for the meeting and returned immediately to Washington. Shapiro later told congressional investigators that the meeting was arranged at his request because he had not been paid for antiterrorist equipment his company had shipped to [[Israel]].[^1]
 

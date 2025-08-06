@@ -23,5 +23,5 @@ After retiring from the military, Alexander joined [[PSI Tech]]'s corporate boar
 ## Publications
 *   "The New Mental Battlefield: Beam Me Up, Spock" (*Military Review*, 1980)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

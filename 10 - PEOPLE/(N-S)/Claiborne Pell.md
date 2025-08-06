@@ -15,5 +15,5 @@ In 1987, Pell asked [[Uri Geller]] to come to Washington for a classified meetin
 
 Pell also played a role in the 1987 Geneva disarmament talks. He was present at a reception where Geller was instructed to try and influence [[Yuli M. Vorontsov]], Russia's first deputy foreign minister and lead Soviet arms negotiator, to sign the [[Intermediate-Range Nuclear Forces Treaty|INF treaty]]. Seven days later, [[Ronald Reagan]] announced that the Soviet Union had offered to move ahead with an agreement to cut longer-range INF missiles[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

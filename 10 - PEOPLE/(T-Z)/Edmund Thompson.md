@@ -16,6 +16,5 @@ Thompson approved [[Frederick Atwater|Skip Atwater]]'s proposal to assemble a re
 
 Thompson even participated in a remote viewing session himself, attempting to remote-view Major Stone's location. Although he initially misidentified the target, he later realized he had accurately perceived a nearby Masonic Temple, which he had mistaken for the Lincoln Memorial. This experience further solidified his belief in the potential of remote viewing. He also briefed Congressman [[Charlie Rose]] on the program, contributing to Rose's staunch public support.[^1]
 
----
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

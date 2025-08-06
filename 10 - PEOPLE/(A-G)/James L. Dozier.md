@@ -22,5 +22,5 @@ After 42 days in captivity, Dozier was rescued on January 28, 1982, by ten men f
 
 Despite the remote viewers' involvement, Dozier later stated that he finally figured out where he was being held by listening to voices and realizing that groceries were being sold. He called psychic functioning "pure nonsense"[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

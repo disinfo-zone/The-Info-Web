@@ -19,5 +19,5 @@ Puharich became obsessed with Stump's channeling abilities and the hallucinogeni
 
 Stump's psychic powers began to wane, and the "Egyptian persona" rarely appeared. He became depressed as his trance powers vanished, and his traditional sculpture and painting work suffered[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -4,6 +4,13 @@ tags:
   - Diplomat
   - Politician
   - USA
+  - Secretary of State
+  - National Security Advisor
+  - Nuclear Policy
+  - Israel
+  - Nixon Administration
+  - Harvard University
+  - Cold War
 ---
 Henry A. Kissinger was an American diplomat and political scientist who served as the United States Secretary of State and National Security Advisor under Presidents [[Richard Nixon]] and [[Gerald R. Ford]]. In the fall of 1967, while a [[Harvard University]] professor and consultant on [[Vietnam]] to the [[Lyndon B. Johnson|Johnson]] administration, Kissinger visited [[Tel Aviv]] to teach for a week at the Israeli Defense College. At the end of his course, he went to [[William N. Dale]]'s office in the embassy and sent an urgent, top-secret message to the White House, warning about [[Dimona]] and concluding that [[Israel]] was making nuclear warheads.[^1]
 

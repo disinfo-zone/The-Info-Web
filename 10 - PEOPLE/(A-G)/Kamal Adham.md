@@ -1,5 +1,12 @@
 ---
-tags: ["Person", "Intelligence", "Saudi Arabia", "BCCI"]
+tags:
+  - Person
+  - Intelligence
+  - Saudi Arabia
+  - BCCI
+  - Banking
+  - Finance
+  - CIA
 ---
 Kamal Adham was the former head of [[Saudi Arabian intelligence]] and brother-in-law of the late [[King Faisal]]. He was a significant shareholder in [[Bank of Credit and Commerce International|BCCI]] and [[First American Bank]]. Adham was a shrewd and jovial figure who straddled the worlds of Middle Eastern business and politics for decades. He was considered one of the true inside power players of the Middle East.[^1]
 
@@ -23,7 +30,7 @@ Abedi met Adham in the early 1970s through [[Sheikh Zayed]]. Adham became a key 
 
 Adham publicly asserted that [[Pakistan]] possessed an atomic bomb and that Abedi and BCCI had financially supported its development. He viewed this as an achievement for the Third World, challenging Western powers' control over nuclear technology.[^11]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 197.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 199.

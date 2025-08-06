@@ -1,5 +1,12 @@
 ---
-tags: ["Person", "Arms Dealer", "Pakistan", "BCCI"]
+tags:
+  - Person
+  - Arms Dealer
+  - Pakistan
+  - BCCI
+  - Military
+  - Iran
+  - Banking
 ---
 Arif Durrani was a [[Pakistan|Pakistani]] arms dealer convicted of illegally providing HAWK antiaircraft missile parts to [[Iran]].[^1] He was the son of an army general.[^2]
 
@@ -13,7 +20,7 @@ He outlined BCCI's and [[Asaf Ali]]'s weapons deals across the globe, from [[Bul
 
 Until his arrest, Durrani was the managing director of Merex, a California arms firm that supplied the Israelis.[^12]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 321.

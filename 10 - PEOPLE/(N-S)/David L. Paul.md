@@ -15,7 +15,7 @@ Paul had extensive political contacts, giving $300,000 to Democratic politicians
 
 In 1992, Paul and Pharaon were indicted together by the [[Justice Department]] in Miami for the bond-swap conspiracy.[^10] His business practices and connections were scrutinized during the BCCI scandal, highlighting the intertwined nature of finance and politics.
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 218.

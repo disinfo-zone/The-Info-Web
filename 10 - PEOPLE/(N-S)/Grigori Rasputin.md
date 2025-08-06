@@ -15,5 +15,5 @@ In 1910, [[Czar Nicholas II]] brought Rasputin into his court after Rasputin all
 
 After the [[Communist Revolution of 1917]], healers and sorcerers were outlawed by the new ruling party, and research into [[Extrasensory Perception|extrasensory perception]] went underground. Marxist doctrine considered mysticism, like religion, an "opiate of the masses," favoring science and technology as productive forces[^1]. This historical context of suppressing mystical beliefs, exemplified by Rasputin's story, is important for understanding the later Soviet approach to [[Parapsychology]] research, which sought to frame it within a scientific and technological framework[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -10,5 +10,5 @@ Paul Kurtz (1925–2012) was an American philosopher and a prominent figure in t
 
 CSICOP was established to promote scientific inquiry and combat pseudoscience, superstition, and irrational beliefs. Kurtz, through his work with CSICOP, advocated for critical thinking and the application of the scientific method to claims of the paranormal[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

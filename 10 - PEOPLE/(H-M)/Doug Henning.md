@@ -13,5 +13,5 @@ In 1987, at the height of his popularity, Henning quit stage magic, stating he w
 
 His death in 1999 from liver cancer led [[James Randi]] to blame the Maharishi, claiming Henning abandoned regular medical treatment for his diet of nuts and berries[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

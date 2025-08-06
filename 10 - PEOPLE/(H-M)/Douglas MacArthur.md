@@ -5,6 +5,6 @@ MacArthur was the focus of a "MacArthur-for-president" campaign in 1952, organiz
 Connections were forged during this period, with figures like [[Charles Willoughby]] being a regular part of the MacArthur-Hunt entourage, likely acquainted with [[Clint Murchison, Sr.]]. Research has noted that some of the men who served under General Douglas MacArthur during [[World War II]] later became part of the "[[The Octopus]]" network.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

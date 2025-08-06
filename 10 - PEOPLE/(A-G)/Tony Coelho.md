@@ -3,6 +3,6 @@
 Coelho purchased property in partnership with one member of the Mariposa Board of Supervisors. Mariposa was one of the first places Coelho bid farewell to after resigning from Congress to avoid an investigation of his finances.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

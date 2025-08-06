@@ -5,6 +5,6 @@ Olmstead questioned [[Peter Videnieks]] during the trial about his knowledge of 
 [[Michael Riconosciuto]] communicated with [[Cheri Seymour]] and [[J.H.]] (an [[Federal Bureau of Investigation|FBI]] agent) to convey information that Olmstead could use in his defense, including details about "[[The Company]]" and Riconosciuto's attempts to enter the Witness Protection Program.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -7,6 +7,6 @@ Wagner was reportedly carrying a gun both inside and outside Mariposa for the fi
 Shortly before his first scheduled court appearance on behalf of D.I.G., Wagner received an obscure response from "Chuck" at the [[Ronald Reagan|Reagan]] [[White House]]. The day after meeting with "Chuck," Wagner, along with [[Jerry Goldberg]], reportedly disappeared, unplugging his phone and leaving his law practice and home, never to be seen again.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

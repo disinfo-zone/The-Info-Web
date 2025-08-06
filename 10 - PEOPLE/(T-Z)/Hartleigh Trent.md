@@ -17,6 +17,5 @@ As a remote viewer, Trent was noted for his unusual ability to take directions a
 
 Trent was one of the six most promising members of the team selected to travel to [[Stanford Research Institute]] (SRI) for further evaluation of their talents. He participated in the intense, round-the-clock remote viewing sessions during the Iran hostage crisis, and was present when [[Jackie Keith]] suffered a fatal heart attack.[^1]
 
----
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

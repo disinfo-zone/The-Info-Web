@@ -16,5 +16,5 @@ Geller confided in Shacham, claiming he could read his mind and knew he was an I
 
 Geller diligently followed Shacham's instructions, joining the Israeli army in 1965 and entering officer training school. However, his dream was shattered in November 1966 when a national newspaper reported that Major Yoav Shacham had been killed in action during a skirmish in a Jordanian border town[^1]. Geller's opportunity to do secret government work for Mossad seemingly died with his friend, though he would later have connections to Israeli intelligence[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -12,5 +12,5 @@ Herbert Pollack was a medical consultant for the [[State Department]]. He advoca
 
 Pollack stated that every lawsuit filed by U.S. embassy employees against the government for exposure to the Moscow Signal was eventually withdrawn, "without a penny being paid." This occurred despite concerns raised by some scientists, like [[Robert O. Becker]] and [[Allan H. Frey]], about the potential lethality of the microwave signals[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

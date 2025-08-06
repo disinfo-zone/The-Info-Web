@@ -17,6 +17,6 @@ Kalka was close to [[Al Holbert]], a former [[Israel|Israeli]] intelligence agen
 [[Michael Riconosciuto]] claimed that the precursors Kalka used were provided by the [[United States Government|U.S. government]] and that a chemical company was cooperating with the [[Federal Bureau of Investigation|FBI]] by reporting all chemicals Riconosciuto ordered for his companies, which he then provided to Kalka. The money from these operations was reportedly laundered through [[Liechtenstein]] and other countries.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

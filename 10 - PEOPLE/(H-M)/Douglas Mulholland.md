@@ -11,6 +11,6 @@ Mulholland was reportedly impressed by the report and hand-carried it to Secreta
 
 Despite the significance of the information, Mulholland later claimed he could not remember what he did after receiving the memo, and his memory on this point was classified by the CIA.[^1] A subsequent CIA memo described Mulholland's actions, noting that he reported to the CIA that he had carried the report directly to the Secretary for his further disposition.[^1]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 364-365.

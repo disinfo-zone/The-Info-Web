@@ -2,6 +2,13 @@
 tags:
   - Person
   - Victim
+  - Ireland
+  - Israel
+  - Terrorism
+  - El_Al
+  - Bombing_Plot
+  - Nezar_Hindawi
+  - Black_Operation
 ---
 Ann-Marie Murphy was the Irish girlfriend of [[Nezar Hindawi]]. She was unwittingly used in a 1986 plot to bomb an [[El Al]] plane. Hindawi, acting on instructions from [[Mohammed Radi Abdullah]] as part of an [[Rafi Eitan|Israeli]] "black" operation, intended for her to board the plane with explosives in her bag, leading to her death and the deaths of all other passengers.
 

@@ -5,6 +5,6 @@ Her nephew, [[Brian Weiss]], who had been living at her house in Fresno, was a b
 [[Michael Riconosciuto]] later admitted that he had not, in fact, given any cards to Mary Quick, but had kept them hidden. However, Morasca believed, and under torture revealed, that one of the cards was being held by Mary Quick and the rest were stored in a safe deposit box. Mary Quick died three days later. The computer cards that Morasca and Mary Quick allegedly died for belonged to the Tyme Shares on-line financial clearing house.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -5,6 +5,6 @@ On July 1, 2010, Murphy requested that the case against [[Jimmy Hughes]] be dism
 [[Rachel Begley]] expressed her disbelief in Murphy's claim of new information, stating that the evidence she found was more than sufficient. She also questioned how [[California Attorney General]] [[Jerry Brown]] could support the release of Hughes and criticized Murphy's handling of the case as "prosecutorial misconduct and a miscarriage of justice."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -5,6 +5,6 @@ Williams was the man who had tried to pull [[Roderick Sinclair]] out of the sher
 [[Don Thrasher]], a producer for ABC News 20/20, interviewed Williams, who corroborated the profile of [[Roderick Sinclair]]'s father as a military attaché to [[Douglas MacArthur]] during [[World War II]]. Williams also confirmed that Colonel Sinclair (Sr.) supervised the training of selected Japanese in intelligence gathering operations in [[Japan]] after the war, and that Rod Sinclair, Jr. attended school in [[Japan]] and later reportedly worked in the Army C.I.D.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

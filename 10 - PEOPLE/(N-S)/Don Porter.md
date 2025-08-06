@@ -14,6 +14,6 @@ In one notable instance, Porter asked [[Frederick Atwater|Skip Atwater]] to have
 
 Despite [[Joe McMoneagle]]'s theory that the random responses from the remote viewers indicated something was wrong with the target, and that the meeting might not occur, Porter proceeded with his scheduled flight to Korea. Shortly after his arrival, he was informed that the North Koreans had indeed canceled the meeting, confirming the remote viewers' collective, albeit indirect, precognition.[^1]
 
----
+### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

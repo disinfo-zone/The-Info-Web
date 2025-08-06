@@ -7,5 +7,5 @@ In early 1992, Cohen began communicating closely with [[Federal Bureau of Invest
 Cohen's investigation, like others into the [[PROMIS Software Scandal]], was reportedly shut down when it began to uncover high-level organized crime, drug, and money laundering connections.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

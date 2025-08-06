@@ -21,7 +21,6 @@ Turner was also a member of the board of directors for [[Wackenhut Corporation]]
 
 During [[Jimmy Carter]]'s presidency, Turner's leadership of the [[Central Intelligence Agency|CIA]] saw the agency distanced from death-squad interdiction due to Carter's human rights foreign policy in [[Latin America]].[^2]
 
----
 
 ### Footnotes
 

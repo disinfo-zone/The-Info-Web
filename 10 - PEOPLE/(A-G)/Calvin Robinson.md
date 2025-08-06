@@ -7,6 +7,6 @@ Robinson's affidavit for recusal also stated that he obtained the assistance of 
 [[Sean McDade]] interviewed Robinson in prison. Robinson reportedly had some connection to a former [[United States Customs Service|U.S. Customs]] official and the [[Cabazon Indian Reservation]], but McDade's investigation was closed before he could prove the connection.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

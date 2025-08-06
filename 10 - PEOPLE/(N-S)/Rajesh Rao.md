@@ -10,5 +10,5 @@ Rajesh Rao is a computational neuroscientist who collaborated with [[Andrea Stoc
 
 On August 12, 2013, Rao's laboratory, in collaboration with Stocco, demonstrated synthetic telepathy between two human test subjects for the first time in human history[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

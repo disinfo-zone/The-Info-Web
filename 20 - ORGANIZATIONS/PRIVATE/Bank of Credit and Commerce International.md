@@ -1,3 +1,11 @@
+---
+tags:
+  - Organization
+  - Private
+  - Banking
+  - International
+  - Scandal
+---
 The [[Bank of Credit and Commerce International|BCCI]] was a financial institution that became embroiled in a major scandal involving money laundering, drug trafficking, and covert operations. Its collapse had far-reaching implications and was a significant focus of [[Danny Casolaro]]'s "[[The Octopus]]" investigation.[^1]
 
 ### Involvement in Illicit Activities
@@ -40,9 +48,7 @@ The [[Bank of Credit and Commerce International|BCCI]] was a financial instituti
 
 **1992:** [[Khalid bin-Mahfouz]] is indicted by a Manhattan grand jury. [[Kamal Adham]] pleads guilty in New York and agrees to cooperate with Morgenthau and the Justice Department. Clifford and Altman are indicted by Manhattan District Attorney Robert Morgenthau and a federal grand jury.[^2]
 
----
-
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. _The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal_. First Edition. TrineDay, 2010. 
-^2]: Beaty, Jonathan and Gwynne, S. C. _The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI_. New York: Random House, 1993, pp. 11-14.
+[^2]: Beaty, Jonathan and Gwynne, S. C. _The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI_. New York: Random House, 1993, pp. 11-14.

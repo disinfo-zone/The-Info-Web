@@ -17,5 +17,5 @@ Abbell's activities became a significant focus of investigative journalist [[Dan
 [[Michael Riconosciuto]] claimed that Abbell, [[Robert Booth Nichols]], and [[Gilberto Rodriguez]] were "all in bed together." Riconosciuto also alleged that Nichols provided Abbell with $50,000 in cash to handle an internal affairs investigation within the [[United States Department of Justice|Justice Department]] that would have led to the extradition of Cali Cartel leaders [[Gilberto Rodriguez]] and [[Jose Londono]], whom Nichols reportedly considered "intelligence people."[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

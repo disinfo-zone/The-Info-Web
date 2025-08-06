@@ -3,6 +3,6 @@
 Corson was reported to have carried money to South America in a deal to deliver covert weapons. He was also alleged to have associated with California investor [[Wayne Reeder]], who was seen at a [[Wackenhut Corporation]]/[[Contras|Contra]] meeting in Riverside County.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

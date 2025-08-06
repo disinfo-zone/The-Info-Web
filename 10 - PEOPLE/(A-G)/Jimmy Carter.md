@@ -20,42 +20,34 @@ In March 1979, President Carter made the decision to provide [[Israel]] with acc
 
 ### VELA Satellite Incident
 
-On September 22, 1979, a [[VELA Satellite]] recorded two distinctive bright flashes of light over the South Indian Ocean, probable evidence of a nuclear explosion. This event, suspected to be a joint Israeli-South African nuclear test, created a horrible dilemma for President Carter, just months before the 1980 presidential campaign. Carter, who had emphasized nonproliferation, faced criticism for hypocrisy if he did not act, but political repercussions if he sought sanctions against [[Israel]] and [[South Africa]].[^3]
+On September 22, 1979, a [[VELA Satellite]] recorded two distinctive bright flashes of light over the South Indian Ocean, probable evidence of a nuclear explosion. This event, suspected to be a joint Israeli-South African nuclear test, created a horrible dilemma for President Carter, just months before the 1980 presidential campaign. Carter, who had emphasized nonproliferation, faced criticism for hypocrisy if he did not act, but political repercussions if he sought sanctions against [[Israel]] and [[South Africa]].[^1]
 
 ### Psychic Research Programs
 
-His presidency coincided with the early years of the [[STARGATE PROJECT|Grill Flame]] program, the U.S. government's secret psychic research effort. President Carter was reportedly aware of the [[STARGATE PROJECT|Grill Flame]] program, with Congressman [[Charlie Rose]] even discussing it with him. However, his administration's stance on the program was complex. While some officials, like [[William Perry]], sought to cut its funding, the program managed to continue.[^4]
+His presidency coincided with the early years of the [[STARGATE PROJECT|Grill Flame]] program, the U.S. government's secret psychic research effort. President Carter was reportedly aware of the [[STARGATE PROJECT|Grill Flame]] program, with Congressman [[Charlie Rose]] even discussing it with him. However, his administration's stance on the program was complex. While some officials, like [[William Perry]], sought to cut its funding, the program managed to continue.[^3]
 
 ### Iran Hostage Crisis
 
-The [[Iran Hostage Crisis]] (1979-1981) was a major challenge during his presidency. Remote viewers were extensively tasked by the [[United States Department of Defense|Pentagon]] and [[Central Intelligence Agency|CIA]] to gather intelligence on the hostages' whereabouts and conditions, though the administration's handling of the crisis, including the failed rescue attempt, ultimately led to the hostages' release on the day Carter's presidency ended.[^5]
+The [[Iran Hostage Crisis]] (1979-1981) was a major challenge during his presidency. Remote viewers were extensively tasked by the [[United States Department of Defense|Pentagon]] and [[Central Intelligence Agency|CIA]] to gather intelligence on the hostages' whereabouts and conditions, though the administration's handling of the crisis, including the failed rescue attempt, ultimately led to the hostages' release on the day Carter's presidency ended.[^3]
 
 ### Latin American Policy
 
-During his presidency, Carter's human rights foreign policy in [[Latin America]] reportedly distanced the [[Central Intelligence Agency|CIA]] under [[Stansfield Turner]] from any death-squad interdiction. His administration was also reportedly reluctant to pursue certain figures involved in the drug trade, such as General Torrijos of [[Panama]], due to ongoing negotiations for the [[Panama Canal]] treaty.[^6]
+During his presidency, Carter's human rights foreign policy in [[Latin America]] reportedly distanced the [[Central Intelligence Agency|CIA]] under [[Stansfield Turner]] from any death-squad interdiction. His administration was also reportedly reluctant to pursue certain figures involved in the drug trade, such as General Torrijos of [[Panama]], due to ongoing negotiations for the [[Panama Canal]] treaty.[^4]
 
 ### Connections to BCCI
 
-Jimmy Carter accepted millions from [[Agha Hasan Abedi]] and [[Bank of Credit and Commerce International|BCCI]] for charitable organizations.[^7] In August 1982, [[Bert Lance]] introduced Abedi to Carter.[^8] Abedi's National Bank of Georgia was the largest single lender to the Carter family's peanut farm in Plains, Georgia.[^9]
+Jimmy Carter accepted millions from [[Agha Hasan Abedi]] and [[Bank of Credit and Commerce International|BCCI]] for charitable organizations.[^5] In August 1982, [[Bert Lance]] introduced Abedi to Carter.[^6] Abedi's [[National Bank of Georgia]] was the largest single lender to the Carter family's peanut farm in Plains, Georgia.[^7]
 
-In the early 1980s, Abedi donated $500,000 to help establish the [[Carter Center]] at Emory University in Atlanta and contributed millions to Carter's Global 2000 Foundation, founded in 1985 for Third World healthcare.[^10] BCCI provided $8.1 million to Carter during the 1980s, and Abedi arranged an additional $2.5 million from [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] through the [[Abu Dhabi Investment Authority]].[^11] Carter also utilized BCCI's jet for his travels and Global 2000 Foundation used office space at BCCI's London headquarters.[^12]
+In the early 1980s, Abedi donated $500,000 to help establish the [[Carter Center]] at Emory University in Atlanta and contributed millions to Carter's Global 2000 Foundation, founded in 1985 for Third World healthcare.[^7] BCCI provided $8.1 million to Carter during the 1980s, and Abedi arranged an additional $2.5 million from [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] through the [[Abu Dhabi Investment Authority]].[^7] Carter also utilized BCCI's jet for his travels and Global 2000 Foundation used office space at BCCI's London headquarters.[^7]
 
-Carter and his second wife, Rosalynn, became friends with Abedi and his wife, Rabia, and spent holidays together in Switzerland. Carter introduced Abedi to acquaintances like [[James Callaghan]].[^13] Abedi's joint appearances with Carter in various countries, including [[Kenya]], [[Ghana]], [[Pakistan]], [[Bangladesh]], [[China]], [[Thailand]], and the [[Soviet Union]], served as key targets for BCCI's business development.[^14] Carter continued to accept at least $1.5 million from BCCI even after the bank was indicted and convicted in Florida.[^15]
+Carter and his second wife, Rosalynn, became friends with Abedi and his wife, Rabia, and spent holidays together in Switzerland. Carter introduced Abedi to acquaintances like [[James Callaghan]].[^7] Abedi's joint appearances with Carter in various countries, including [[Kenya]], [[Ghana]], [[Pakistan]], [[Bangladesh]], [[China]], [[Thailand]], and the [[Soviet Union]], served as key targets for BCCI's business development.[^7] Carter continued to accept at least $1.5 million from BCCI even after the bank was indicted and convicted in Florida.[^7]
 
-## Footnotes
+### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, Chapter 20.
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, Chapter 1.
-[^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, Chapter 20.
-[^4]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
-[^5]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
-[^6]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-[^7]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
-[^8]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.
-[^9]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 228.
-[^10]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 228.
-[^11]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 228.
-[^12]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 228.
-[^13]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 228.
-[^14]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 229.
-[^15]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 229.
+[^3]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+[^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^5]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
+[^6]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.
+[^7]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 228-229.

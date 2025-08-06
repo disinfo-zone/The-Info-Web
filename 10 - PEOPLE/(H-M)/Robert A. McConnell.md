@@ -9,5 +9,5 @@ Robert A. McConnell was a physicist who authored the paper "ESP—Fact or Fancy?
 
 Jung remarked on how some age-old mysteries never change, and that attempts to explain away seemingly miraculous results often fail against the facts. McConnell's paper contributed to the ongoing debate about the reality and nature of anomalous mental phenomena[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

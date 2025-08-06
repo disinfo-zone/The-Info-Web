@@ -12,5 +12,5 @@ In the context of the [[Moscow Signal]], Colby wrote to the U.S. ambassador, inf
 
 Colby's tenure was marked by his efforts to be more transparent with Congress and the public about past CIA activities, which led to the declassification of some documents related to controversial programs[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

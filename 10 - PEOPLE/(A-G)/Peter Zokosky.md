@@ -29,6 +29,6 @@ Zokosky claimed to have served in ONI ([[Office of Naval Intelligence]]) in subm
 He was an investor in the [[Cabazon Casino]] and a skeet range, though he stated that the Mob built the Casino for the Cabazons. He also testified on behalf of [[Patrick McGuire]] at the [[Montana Freeman trial]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

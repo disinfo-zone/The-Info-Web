@@ -9,8 +9,6 @@ tags:
   - Physicist
   - Engineer
 ---
-# Kenneth A. Kress
-
 Kenneth A. Kress was a physicist, engineer, and analyst with the [[Central Intelligence Agency|CIA]]. He is considered by some to be the "father of America's remote-viewing program" as he was responsible for giving [[Stanford Research Institute|SRI]] its first [[Psi]] research contract in 1972[^1]. Kress, then a young, dark-haired engineer, was instrumental in bringing [[Hal Puthoff]] and [[Ingo Swann]] into the [[CIA]]'s orbit for psychic research[^1].
 
 Kress was the lead analyst assigned to the operation involving [[Pat Price]]'s [[Remote Viewing]] of [[URDF-3]], a highly classified [[Soviet Union|Soviet]] research and development facility in [[Kazakhstan]][^1]. In July 1974, after Price remotely viewed URDF-3, Kress compared Price's descriptions to classified satellite imagery. He found that reconnaissance photographs confirmed the presence of rails for railroad cars and a huge crane, as described by Price. However, some details, like the spheres Price mentioned, were not locatable, which agitated the [[CIA]][^1].
@@ -25,5 +23,5 @@ He also worked closely with [[Norm Everheart]], encouraging him to explore how r
 
 At Kress's suggestion, the [[CIA]] contracted with an outside scientist to evaluate the psychic research program, who concluded that "a large body of reliable experimental evidence points to the inescapable conclusion that [[Extrasensory Perception|extrasensory perception]] does exist as a real phenomenon, albeit characterized by rarity and lack of reliability"[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

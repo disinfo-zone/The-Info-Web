@@ -7,6 +7,6 @@ Fair met with [[Michael Riconosciuto]] and [[Robert Frye]] (Vice President of [[
 [[Robert Booth Nichols]] also wrote a letter to [[Joseph F. Preloznik]] on April 13, 1983, recapitulating the same weapons proposal outlined by [[Dr. John Philip Nichols]] to Dr. Harry Fair. [[Robert Booth Nichols]] also mentioned Fair in a February 10, 1984, letter on [[Meridian Arms]] letterhead, referring to the [[Wackenhut Corporation]] visit to Picatinny Arsenal in May 1981 and Riconosciuto's demonstration of electrostatic heat transfer augmentation.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

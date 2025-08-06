@@ -1,3 +1,12 @@
+---
+tags:
+  - Person
+  - Programmer
+  - PROMIS
+  - INSLAW
+  - Software_Development
+  - Vice_President
+---
 > [!WARNING] INCOMPLETE RESEARCH
 > This page is a placeholder and requires extensive additions.
 
@@ -5,7 +14,6 @@ Worked on the original 1969 team that created [[PROMIS]] under [[Joan E. Jacoby]
 
 He eventually joined [[INSLAW]] as a programmer[^1].
 
----
-#### Footnotes
+### Footnotes
 
 [^1]: [Witness cooperation : with a handbook of witness management : Cannavale, Frank J](https://archive.org/details/witnesscooperati0000cann/page/n25/mode/2up?q=promis)

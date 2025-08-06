@@ -21,6 +21,6 @@ On November 28, 1995, Gates appeared on *Nightline* with [[Ted Koppel]] to discu
 ## Publications
 *   *From the Shadows* (1997)
 
-## Footnotes
+### Footnotes
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

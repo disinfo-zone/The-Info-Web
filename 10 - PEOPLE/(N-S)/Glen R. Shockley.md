@@ -5,6 +5,6 @@ Shockley's name appeared in [[Michael Riconosciuto]]'s statement to the [[Federa
 His involvement with [[First Intercontinental Development Corporation|FIDCO]] and [[Meridian International Logistics|MIL]] places him within the complex network investigated by [[Danny Casolaro]] as "[[The Octopus]]."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

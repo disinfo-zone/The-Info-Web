@@ -3,9 +3,17 @@ created: 2024-04-26
 updated: 2024-04-30
 title: Bill Hamilton
 tags:
+  - Person
   - NSA
   - PMMC
   - PROMIS
+  - INSLAW
+  - Software
+  - Intelligence
+  - DOJ
+  - Surveillance
+  - Danny_Casolaro
+  - USA
 description: William A. Hamilton worked as an NSA analyst and linguist, later joining PMMC. He led the creation of PROMIS software for prosecutors, funded by LEAA. In 1973, he and his wife founded INSLAW to manage PROMIS.
 ---
 > [!WARNING] INCOMPLETE RESEARCH
@@ -27,13 +35,7 @@ Hamilton also received a document in November 2004 from a reliable U.S. intellig
 
 Hamilton believed that the main role of the [[Wackenhut Corporation]]-[[Cabazon Indian Reservation]] Joint Venture was connected to government-sanctioned drug trafficking and money laundering by organized crime groups like the [[Gambino Crime Family]] and groups like the [[Contras]]. He speculated that [[Michael Riconosciuto]]'s job was to help these groups use [[National Security Agency|NSA]]'s bank surveillance version of [[PROMIS]] to launder drug proceeds, with some funds contributing to covert intelligence operations not authorized by Congress.[2]
 
----
-#### Footnotes
+### Footnotes
 
 [^1]: https://www.newspapers.com/newspage/139683581/
-[^2]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-
----
-#### Footnotes
-
-[^1]: https://www.newspapers.com/newspage/139683581/
+[^2]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

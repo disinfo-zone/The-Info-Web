@@ -1,3 +1,12 @@
+---
+tags:
+  - Person
+  - Doctorate
+  - PROMIS
+  - Crime Analysis
+  - Research
+  - Incomplete Research
+---
 > [!WARNING] INCOMPLETE RESEARCH
 > Need additional time to complete research.
 

@@ -9,7 +9,7 @@ Holley was convicted of bank fraud in 1980 and sentenced to ten years in jail.[^
 
 In October 1977, Holley arranged a meeting between Bert Lance and [[BCCI]] chieftains Abedi and [[Swaleh Naqvi]] at [[New York]]'s Waldorf-Astoria Hotel.[^5]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 179.

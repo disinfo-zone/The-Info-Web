@@ -1,5 +1,14 @@
 ---
-tags: ["Person", "Politician", "Banker", "BCCI"]
+tags:
+  - Person
+  - Politician
+  - Banker
+  - BCCI
+  - Jimmy_Carter
+  - National_Bank_of_Georgia
+  - First_American_Bank
+  - USA
+  - Financial_Crimes
 ---
 T. Bertram (Bert) Lance was President [[Jimmy Carter]]'s budget director and former chairman of [[National Bank of Georgia]].[^1]
 
@@ -13,7 +22,7 @@ Lance gained prominence as Jimmy Carter's budget director but later resigned due
 
 Lance played a key role in the acquisition of [[Financial General Bankshares]], which later became [[First American Bank]].[^8] He recruited his friend and attorney [[Clark Clifford]] to represent Abedi, BCCI, and the front men in the Financial General suit.[^9] BCCI also hired Lance as a consultant at a salary of $100,000.[^10]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 178.

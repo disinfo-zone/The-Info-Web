@@ -14,5 +14,5 @@ Pauli, along with psychiatrist [[Carl Jung]], had a lively conversation about [[
 
 Pauli wrote an article on the subject titled "Background Physics," in which he discussed the relationships between physics, the conscious, and the unconscious[^1]. His association with Jung and his interest in the unconscious aspects of reality highlight a unique intersection of physics and parapsychology.
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

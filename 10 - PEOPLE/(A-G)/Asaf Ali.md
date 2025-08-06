@@ -1,5 +1,12 @@
 ---
-tags: ["Person", "Arms Dealer", "Pakistan", "BCCI"]
+tags:
+  - Person
+  - Arms Dealer
+  - Pakistan
+  - BCCI
+  - Banking
+  - Military
+  - France
 ---
 Asaf Ali is a Pakistani multimillionaire and arms dealer, closely associated with [[Agha Hasan Abedi]] and the [[Bank of Credit and Commerce International|BCCI]]. He is described as a key figure in the Middle Eastern arms business, often brokering deals that involved governments and intelligence agencies.[^1]
 
@@ -17,7 +24,7 @@ Ali's connections were extensive, reaching high-level officials and intelligence
 
 He was also involved in meetings with [[William Casey]], the former [[CIA]] Director, and accompanied [[Zia ul-Haq|General Zia]] on a trip to Washington where they met with Casey.[^10] 
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 8.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 309.

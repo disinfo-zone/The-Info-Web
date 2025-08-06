@@ -22,5 +22,5 @@ In 2011, Randi was involved in a scandal when it was revealed that his Carlos-th
 ## Publications
 *   *The Magic of Uri Geller* (1975)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

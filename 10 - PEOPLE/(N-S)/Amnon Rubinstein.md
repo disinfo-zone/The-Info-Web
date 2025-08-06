@@ -7,8 +7,6 @@ tags:
   - Politician
   - Israel
 ---
-# Amnon Rubinstein
-
 Amnon Rubinstein was a prominent [[Israel|Israeli]] legal scholar, politician, and television talk show host. Known as the founding father of Israeli constitutional law, he served in various ministerial roles, including Minister of Communications, Minister of Science and Technology and Space, and Minister of Energy and Infrastructure[^1].
 
 Rubinstein became a notable supporter of [[Uri Geller]]'s [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]] abilities since 1969. He first encountered Geller at a party, where Geller allegedly demonstrated a remarkable ability to influence Rubinstein's thoughts, making him choose a specific number that Geller had already written down. Rubinstein, initially skeptical, was astonished by this demonstration[^1].
@@ -17,5 +15,5 @@ He conducted numerous informal tests with Geller in his own home, where Geller c
 
 Rubinstein advised Geller to go to America to be tested at a serious research institute like [[Stanford Research Institute|Stanford]], which ultimately led to Geller's testing by the CIA[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -9,6 +9,6 @@ It was understood that they were working on a legally sanctioned arms assistance
 When contacted by [[Ted Gunderson]] later, Olberg initially denied the meeting had taken place but then admitted to it and asked Gunderson not to discuss it.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

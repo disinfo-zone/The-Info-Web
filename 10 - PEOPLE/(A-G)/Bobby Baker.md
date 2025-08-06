@@ -5,6 +5,6 @@ On October 8, 1963, Baker was forced to resign as a Senate investigation into hi
 Baker conducted considerable business with the Mob in Las Vegas, Chicago, Louisiana, and the Caribbean. Through Baker, [[Edward Levinson]] also became acquainted with [[Clint Murchison, Sr.]]. [[Clint W. Murchison, Jr.]] attempted to persuade the Senate Rules Committee in 1964 that his real estate dealings with [[Jimmy Hoffa]] in Florida were " hardly relevant" to the Baker investigation.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

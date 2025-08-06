@@ -1,3 +1,12 @@
+---
+tags:
+  - Person
+  - Lawyer
+  - Attorney
+  - Government
+  - Washington DC
+  - Legal
+---
 Charles "Chuck" R. Work was born June 21, 1940, in Glendale, CA. He is married, has three children, and spent most of his life in Washington, DC[^1] (now retired and living in Naples, Florida).
 
 He graduated from Wesleyan University (B.A., 1962), the University of Chicago Law School (J.D., 1965), and the Georgetown University Law Center (LL.M., 1966). He passed the bar exam in 1965.
@@ -32,7 +41,6 @@ During [[Inslaw, Inc., et al. v. The United States]] Work was co-lead counsel.
 Was appointed by the United States District Court as guardian ad litem of the Vietnamese orphans who survived a plane crash in Saigon in 1975.
 
 
----
 #### Footnotes
 
 [^1]: [Appointment of Charles R. Work as a Member of the District of Columbia Commission on Judicial Disabilities and Tenure](https://www.presidency.ucsb.edu/documents/appointment-charles-r-work-member-the-district-columbia-commission-judicial-disabilities)

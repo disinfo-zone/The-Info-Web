@@ -2,8 +2,14 @@
 tags:
   - Person
   - Business
-  - ArmsDealer
+  - Arms_Dealer
   - USA
+  - Israel
+  - PROMIS
+  - Central_America
+  - Florida
+  - Guatemala
+  - Intelligence
 ---
 [[Baldur K. Kleine]] was a business partner of [[Manfred Herrmann]] and the representative in Maitland, [[Florida]], for [[Ora Group|Ora]], an [[Israel|Israeli]] arms-running company. He coordinated [[Israel|Israeli]] activities in [[Central America]].[^1]
 

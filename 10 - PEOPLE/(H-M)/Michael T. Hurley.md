@@ -7,6 +7,6 @@ Hurley was involved in a [[National Security Council|NSC]]-sanctioned drug/sting
 In 1990, the [[Drug Enforcement Administration|DEA]] reassigned Hurley to a [[Drug Enforcement Administration|DEA]] intelligence position in Washington State. [[Lester Coleman]] found this reassignment suspicious, believing it was done to "manufacture a case" against [[Michael Riconosciuto]] and prevent Riconosciuto from becoming a credible witness about the [[United States Government|U.S. government]]'s covert sale of the [[PROMIS]] software to foreign governments.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

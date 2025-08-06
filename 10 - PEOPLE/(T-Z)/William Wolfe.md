@@ -13,6 +13,5 @@ description: William Wolfe was a member of the Symbionese Liberation Army (SLA) 
 
 Wolfe became [[Patty Hearst]]'s lover within the SLA. He was among the group of SLA members who were cornered and killed by police in a building in Los Angeles in May 1974.[^1]
 
----
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

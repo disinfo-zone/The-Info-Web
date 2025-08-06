@@ -3,6 +3,6 @@
 Wilcher was working daily for Russbacher and wanted to ask [[Janet Reno]], the new [[United States Attorney General|Attorney General]], to grant immunity from prosecution to Russbacher so that he might testify to the [[United States Government|government]] about activities inside the [[Central Intelligence Agency|CIA]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -10,5 +10,5 @@ Llewellyn Thomas (1903–1972) was an American diplomat who served as the U.S. A
 
 Thomas died of cancer on February 6, 1972, at the age of sixty-seven. His death, along with that of [[Charles Bohlen]] and later [[Walter Stoessel Jr.]], raised concerns about the potential health effects of prolonged exposure to the Moscow Signal[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

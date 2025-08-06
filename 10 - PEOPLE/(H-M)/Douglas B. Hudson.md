@@ -11,5 +11,5 @@ Douglas B. Hudson was a Lieutenant Colonel and a commander at [[Intelligence and
 
 This commendation highlights the high regard in which Morehouse was held by his superiors, despite later controversies surrounding his conduct and the eventual downfall of the psychic research program[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

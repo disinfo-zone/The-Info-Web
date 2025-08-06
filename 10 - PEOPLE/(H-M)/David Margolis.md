@@ -1,3 +1,15 @@
+---
+tags:
+  - Person
+  - Government_Official
+  - Justice_Department
+  - Organized_Crime
+  - MCA
+  - FBI
+  - Prosecutor
+  - DOJ
+  - USA
+---
 [[David Margolis]] is a long-serving official within the [[United States Department of Justice|Justice Department]], described as its highest-ranking career official. He has served under 18 attorneys general and navigated sensitive cases throughout his tenure. His career history includes serving as Deputy Assistant Attorney General (1990-1993) and Senior official, Organized Crime Section, Criminal Division (1976-1990).[^1]
 
 ### Involvement in MCA Investigation

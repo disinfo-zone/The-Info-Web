@@ -11,6 +11,6 @@ Morasca's death occurred just six months after the execution-style triple homici
 Morasca was involved in a government drug-sting operation, and was close to [[Ben Kalka]] and [[Al Holbert]], a former [[Israel|Israeli]] intelligence agent. He was found murdered in San Francisco on January 14, 1982, during the time these sting operations were underway. [[Sue Todd]]'s notes indicated that the motive for Morasca's murder was that he was a trustee to several estates, including Riconosciuto's family, and had a computer disc identifying these estates and offshore banks/codes to access them. A copy of this disc was reportedly found at [[Cheri Seymour]]'s house.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

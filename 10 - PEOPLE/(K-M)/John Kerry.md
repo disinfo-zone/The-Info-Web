@@ -1,5 +1,15 @@
 ---
-tags: ["Person", "Politician", "Senator", "BCCI"]
+tags:
+  - Person
+  - Politician
+  - Senator
+  - BCCI
+  - Investigation
+  - Money Laundering
+  - Drug Trafficking
+  - Subcommittee
+  - Massachusetts
+  - CIA
 ---
 John Kerry is a former Democratic Senator from [[Massachusetts]] and was chairman of the Subcommittee on Terrorism, Narcotics, and International Operations.[^1]
 
@@ -11,7 +21,7 @@ He was a key figure in pushing for investigations into BCCI's activities, despit
 
 Kerry received money from [[Clark Clifford]] and [[Robert Altman]], members of their law firm, during the same month that [[Jack Blum]]'s contract with his subcommittee was terminated.[^6] He introduced a bill that would allow the government to revoke the license of any bank whose officials had been convicted of money laundering, known as the "death penalty bill," which was opposed by BCCI's lawyers.[^7]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 26.

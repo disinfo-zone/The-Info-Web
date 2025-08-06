@@ -12,5 +12,5 @@ Lawrence expressed concern that [[Hal Puthoff]] and [[Russell Targ]]'s "own expe
 
 Lawrence told *Time* editor [[Leon Jaroff]] that Geller was a "charlatan" and encouraged the magazine to write an exposé. This unauthorized communication with a reporter was a violation of his security clearance, leading to an investigation by the [[CIA]]. Despite Lawrence's denial of having talked to *Time*, Jaroff insisted otherwise[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -11,5 +11,5 @@ Richard G. Stilwell (1917–1991) was a retired [[U.S. Army]] four-star general 
 
 In January 1981, Stilwell took an interest in Lieutenant Colonel [[John B. Alexander]]'s controversial article, "The New Mental Battlefield: Beam Me Up, Spock." After an informal meeting with Alexander, Stilwell arranged for his transfer to the [[Intelligence and Security Command|INSCOM]] under Major General [[Albert Stubblebine]]. This move formally brought Alexander into the realm of psychic research within the military[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

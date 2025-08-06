@@ -9,6 +9,6 @@ According to the book *The Crimes of Patriots* by [[Jonathan Kwitny]], Michael H
 In 1991, Australian journalist [[Brian Toohey]] reported in his *The Eye* magazine that Michael Hand had a postal drop at a suite in NE Bellevue, Washington State, and his wife was reportedly living with him there. [[Michael Riconosciuto]], who was living near Tacoma, Washington State, when he was arrested in 1991, claimed to have been in direct communication with Michael Hand before and after Hand's disappearance, and that he had handled money transfers for Hand when he fled [[Australia]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -14,5 +14,5 @@ Hammid, along with Swann, was tasked with locating a previously unidentified shi
 
 For the classified [[U.S. Air Force]] project within Deep Quest, Hammid was placed inside the submerged *Taurus I*, 500 feet underwater and 375 miles away. She quickly identified which photograph, from a set of six sealed envelopes, was correct, indicating the location of Puthoff and Graff who were acting as a beacon on land. This demonstrated her ability to perform long-distance [[Remote Viewing]] in a challenging environment[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

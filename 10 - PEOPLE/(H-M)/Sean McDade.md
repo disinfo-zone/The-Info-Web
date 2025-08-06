@@ -11,5 +11,5 @@ McDade also described [[Scott Lawrence]]'s deep-cover drug investigation, code-n
 McDade found himself a target of [[ECHELON]] technology during his investigation in the [[United States]], forcing him to take extraordinary measures to communicate with [[Sue Todd]] and [[Cheri Seymour]]. He stated that the [[National Security Agency|NSA]] was spying on [[Canada|Canadian]] citizens while [[Canada]] spied on [[United States|American]] citizens, both using [[ECHELON]] and trading data. Although he reportedly left the [[Royal Canadian Mounted Police|RCMP]] after his investigation was exposed in the *Toronto Star* in August 2000, [[Sue Todd]] indicated he ultimately returned to police work in his hometown.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -1,5 +1,11 @@
 ---
-tags: ["Person", "Politician", "BCCI"]
+tags:
+  - Person
+  - Politician
+  - BCCI
+  - Banking
+  - Prime Minister
+  - UK
 ---
 James Callaghan, also known as Lord Callaghan, was a former [[Great Britain|British]] prime minister who served as a paid economic adviser to the [[Bank of Credit and Commerce International|BCCI]].[^1] His association with BCCI was part of [[Agha Hasan Abedi]]'s strategy to cultivate relationships with influential figures and enhance the bank's image.
 
@@ -9,10 +15,9 @@ Callaghan had a distinguished political career in the [[United Kingdom]], culmin
 
 ### Role with BCCI
 
-Callaghan's role as an economic adviser to BCCI provided the bank with a veneer of legitimacy and access to political networks. He was part of Abedi's global public relations efforts, which included using prominent figures to promote BCCI's image as a philanthropic institution dedicated to the Third World.[^2] He accompanied Abedi on visits to countries like [[Zambia]], where they presented themselves as champions of development and charity.[^3]
+Callaghan's role as an economic adviser to BCCI provided the bank with a veneer of legitimacy and access to political networks. He accompanied Abedi on visits to various countries, such as [[Zambia]], where they engaged in carefully stage-managed acts of philanthropy. For instance, in Zambia, Callaghan was present when Abedi announced a crucial loan and donated money to a charitable trust, actions that significantly boosted Abedi's reputation as a champion of the Third World. These joint appearances with Abedi in countries like Zambia, [[Kenya]], [[Ghana]], [[Pakistan]], [[Bangladesh]], [[China]], [[Thailand]], and the [[Soviet Union]] served to further BCCI's business development and image as a philanthropic institution.[^2]
 
 ## Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
-[^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 228.
-[^3]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 227.
+[^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 227-228.

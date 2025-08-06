@@ -3,9 +3,12 @@ created: 2025-07-22
 updated: 2025-07-22
 title: Defense Intelligence Agency
 tags:
-  - organization
-  - intelligence
-  - government
+  - Organization
+  - Intelligence
+  - Government
+  - USA
+  - Defense
+  - Military
 description: The Defense Intelligence Agency (DIA) is an intelligence agency of the United States federal government, specializing in defense and military intelligence.
 ---
 The [[Defense Intelligence Agency]] (DIA) is a major intelligence agency of the United States, specializing in defense and military intelligence. The DIA played a significant role in the oversight and funding of the [[STARGATE PROJECT]], particularly after the Army's initial involvement.[^1]
@@ -19,8 +22,6 @@ The DIA's interest in psi research was driven by concerns over perceived Soviet 
 
 #### Oversight of Stargate Project:
 [[Jack Vorona]], the head of the DIA's Scientific and Technical Intelligence Directorate, was the overall manager of the [[STARGATE PROJECT|Grill Flame]] program. He, along with General [[Ed Tompson]], briefed Congressman Charlie Rose on the program in the late 1970s. The DIA continued to oversee the program even after the Army's funding was initially terminated in 1985.[^1]
-
----
 
 ### Footnotes
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

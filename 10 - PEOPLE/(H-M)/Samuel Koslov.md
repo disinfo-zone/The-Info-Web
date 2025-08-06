@@ -17,5 +17,5 @@ As a lead scientist on [[Project Pandora]], a classified, multiservice effort to
 
 In 1977, when a *Washington Post* article by [[John L. Wilhelm]] exposed the [[U.S. Navy]]'s involvement in [[Extrasensory Perception|ESP]] research, Koslov publicly expressed outrage. He claimed he had demanded the [[Stanford Research Institute|SRI]] project stop at once and had canceled Navy funds for remote viewing work. He publicly stated, "If you ask me, ‘Do you think it’s a pile of crap?’ I do, and you can quote me," and assured Wilhelm that the Navy "is simply out of this business. I don’t believe it’s the function of the military to support [[Parapsychology|parapsychology]] research"[^1]. His public stance was seen by some as a semantic maneuver to conceal the truth and distance the Navy from controversial parapsychology research, especially given his direct involvement in related classified programs[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

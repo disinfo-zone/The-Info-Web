@@ -17,5 +17,5 @@ In the 1970s, [[John LaMothe]]'s report, *Controlled Offensive Behavior—USSR*,
 
 ---
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

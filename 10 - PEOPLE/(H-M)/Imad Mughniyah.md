@@ -12,5 +12,5 @@ Mughniyah had a history of involvement in significant terrorist attacks against 
 
 In the 1980s, Mughniyah was considered one of the leading terrorist masterminds in the world. The [[Defense Intelligence Agency|DIA]] feared he was holding Higgins captive and that he would torture Higgins to extract classified information[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

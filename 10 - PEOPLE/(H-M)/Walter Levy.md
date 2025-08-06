@@ -9,5 +9,5 @@ Walter Levy was an assistant to [[J. B. Rhine]] at the [[Duke University Parapsy
 
 Levy's research assistants discovered him tampering with the lab equipment and recorded him on videotape. When confronted with the evidence, Levy confessed and resigned. This scandal became fodder for skeptics of Rhine and his [[Parapsychology|parapsychology]] research[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -3,6 +3,6 @@
 Paige confronted [[Ron Van Meter]] after Van Meter reported drug dealing and corruption within the Mariposa Sheriff's Department to the [[California Attorney General's Office|Attorney General's office]] in Sacramento. Paige had received a call from the Attorney General informing him of Van Meter's visit and its contents, and was reportedly "livid" about Van Meter's actions.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -5,6 +5,6 @@ In 1981, Hercules Research Corporation developed a small electronic power supply
 [[Michael Riconosciuto]] claimed that Marshall shipped documents to [[Ian Stuart Spiro]] for safekeeping. At the time [[Bobby Riconosciuto]] intended to store Michael's original documents at Marshall's business in Southern California, Marshall was reportedly very ill.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

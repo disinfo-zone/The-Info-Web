@@ -11,5 +11,5 @@ Ernst Schulte-Strathaus was a German astrologer who, alongside [[Karl Krafft]], 
 
 Like other practitioners of the occult, Schulte-Strathaus would have been affected by "[[Special Action Hess]]" (Sonderaktion Heß), the mass arrest of astrologers and other occultists initiated by [[Adolf Hitler]] following Hess's flight[^1]. This crackdown aimed to suppress belief systems outside the official Nazi ideology, despite some high-ranking officials like [[Heinrich Himmler]] maintaining private interests in such fields[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

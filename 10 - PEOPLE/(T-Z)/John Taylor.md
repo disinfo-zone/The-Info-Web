@@ -10,5 +10,5 @@ John Taylor was a professor at King's College. He was one of two scientists, alo
 
 Professor Taylor expressed wonder at Geller's abilities, stating, "I believe this process... I believe that you actually broke the fork here and now." This public endorsement from a scientist contributed to the phenomenon of "conversion moments" occurring on live television, where individuals became convinced of Geller's powers[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

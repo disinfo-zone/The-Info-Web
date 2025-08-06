@@ -1,5 +1,11 @@
 ---
-tags: ["Person", "BCCI", "Pakistan"]
+tags:
+  - Person
+  - BCCI
+  - Pakistan
+  - Banking
+  - Finance
+  - USA
 ---
 Sani Ahmed was a key figure in the [[Bank of Credit and Commerce International|BCCI]], serving as the head of its protocol department in [[Pakistan]] before moving to [[Washington, D.C.]] to run BCCI's representative office.[^1] He was a confidant of [[Agha Hasan Abedi]], the founder of BCCI, and played a significant role in the bank's operations, particularly in cultivating relationships with wealthy clients and government officials.
 
@@ -15,7 +21,7 @@ According to [[Sami Masri]], protocol officers under Ahmed were responsible for 
 
 Ahmed's role extended to maintaining Pakistan's official diplomatic relations with [[Saudi Arabia]] and the [[Persian Gulf]] emirates, and expanding Pakistan's ties with [[China]].[^11] He was involved in communications with [[Robert Altman]] regarding BCCI matters.[^12]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 8.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 327.

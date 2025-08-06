@@ -3,6 +3,6 @@
 Three audio tapes of conversations between Rodriguez and Samper's campaign manager, Santiago Medina, were handed over to [[United States Department of State|U.S. State Department]] officials before the election, but no action was taken. [[Drug Enforcement Administration|DEA]] officials were reportedly furious, stating that the [[United States Department of State|State Department]] allowed this "travesty to take place" and that "Everybody, including the U.S. government, is participating in this cover-up." The [[United States Department of State|State Department]] responded by saying, "We can't interfere with elections."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

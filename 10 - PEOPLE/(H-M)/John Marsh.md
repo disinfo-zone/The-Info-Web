@@ -11,5 +11,5 @@ John Marsh was the Secretary of the [[U.S. Army]]. On August 24, 1984, he author
 
 Marsh's authorization was a crucial step in ensuring the continuation of the U.S. government's psychic research efforts, despite the ongoing debates and controversies surrounding them[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

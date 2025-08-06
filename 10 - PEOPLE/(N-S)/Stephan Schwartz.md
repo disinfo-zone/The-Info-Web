@@ -21,5 +21,5 @@ For the unclassified part of the project, Schwartz aimed to locate a previously 
 
 For the classified [[U.S. Air Force]] project, Schwartz, Puthoff, and Graff designed a remote-viewing experiment where psychics in the submerged *Taurus I* would attempt to identify images from sealed envelopes, with Puthoff and Graff acting as beacons at the target sites. This experiment aimed to test long-distance remote viewing inside a submersible and served as a fail-safe protocol for emergency military scenarios[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

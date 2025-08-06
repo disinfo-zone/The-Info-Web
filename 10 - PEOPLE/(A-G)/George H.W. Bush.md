@@ -3,10 +3,11 @@ tags:
   - Person
   - Government
   - Vice President
+  - President
+  - Politics
+  - USA
 ---
-George H.W. Bush served as the Vice President under President [[Ronald Reagan]]. He was present at a meeting of Reagan's high command following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak]] in June 1981, where he agreed that some sanctions against [[Israel]] were essential.[^1]
-
----
+George H.W. Bush served as the Vice President under President [[Ronald Reagan]] and later as the 41st President of the United States. He was present at a meeting of Reagan's high command following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak]] in June 1981, where he agreed that some sanctions against [[Israel]] were essential.[^1]
 
 ### Footnotes
 

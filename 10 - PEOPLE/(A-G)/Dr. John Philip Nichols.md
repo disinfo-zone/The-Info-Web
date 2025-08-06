@@ -25,6 +25,6 @@ Nichols was implicated in the [[Fred Alvarez]] triple murders. [[Peter Zokosky]]
 [[Michael Riconosciuto]] claimed that Nichols' office was broken into to retrieve [[Phyllis Riconosciuto]]'s diary, which contained passwords for [[Tyme Shares]] online financial clearing house, used for accessing bank accounts. Riconosciuto also stated that Nichols and [[Peter Zokosky]] claimed that Riconosciuto was responsible for the torture and murder of [[Paul Morasca]], and that Riconosciuto had discussed torture techniques with Nichols prior to Morasca's death.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

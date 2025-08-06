@@ -1,3 +1,14 @@
+---
+tags:
+  - Person
+  - Terrorist
+  - U.S._Army
+  - Afghanistan
+  - Deloitte
+  - New_Orleans_Attack
+  - ISIS
+  - Military_Veteran
+---
 Shamsud-Din Jabbar ([[act of terrorism|terrorist]]) was 42 when he died while performing the [[New Orleans Truck Attack]]. He was born in Beaumont, Texas[^2] and raised Muslim, but strayed and only recently returned. His last address was in Houston.[^1]
 
 Jabbar was a [[U.S. Army]] veteran (joined in 2007) and worked in human resources and IT. He deployed to [[Afghanistan War|Afghanistan]] from February 2009 to January 2010 (possibly 2015) and was stationed at [[Fort Bragg]] at one point. In 2015 he was discharged and attended [[Georgia State University]] where he graduated in 2017 with a degree in computer information systems. Prior to GSU, he attended Central Texas College from 2008-2010 and received an associate degree in Information technology.
@@ -11,7 +22,7 @@ Jabbar was married three times and had children from two relationships. His firs
 He had a minor criminal record including traffic offences (DWI)[^3] and theft.
 
 The FBI seized three mobile phones and two laptops. Jabbar uploaded a number of videos to Facebook in the hours preceding the attack. The videos allegedly claim he joined IS earlier in the year and contained a will and testament.
-# Footnotes
+### Footnotes
 
 [^1]: [What we know about the New Orleans attacker](https://archive.is/0FGjl)
 [^2]: [ Personal Introduction by Shamsud-Din Jabbar](https://archive.org/details/youtube-K-dqDlgQei0)

@@ -19,5 +19,5 @@ After the death of [[Alice Astor Bouverie]], Puharich and Hurkos traveled to Mex
 
 In the 1960s, Puharich and Hurkos traveled to the Sixth Naval District Personnel Conference in Charleston, South Carolina, to demonstrate [[Extrasensory Perception|ESP]] and psychometry to submariners[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

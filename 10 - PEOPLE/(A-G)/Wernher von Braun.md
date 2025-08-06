@@ -18,5 +18,5 @@ In 1972, von Braun met with [[Uri Geller]], a meeting arranged by [[Andrija Puha
 
 In a second incident, von Braun presented Geller with a non-working electronic pocket calculator. Geller held the machine and concentrated, and witnesses confirmed that the electronic panel inexplicably lit up. These incidents caught the attention of the [[Pentagon]], leading to a briefing on "Paranormal Phenomena—Briefing on a Net Assessment Study." The briefing noted the potential utility of [[Psychokinesis|psychokinesis]] (if feasible) in disrupting electrical systems, such as those associated with an [[Intercontinental Ballistic Missile|ICBM]]'s guidance program, as displayed by Geller[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

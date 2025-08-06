@@ -11,7 +11,7 @@ In December 1990, Ryback traveled to [[London]] and demanded to see the October 
 
 Ryback's findings led him to believe that BCCI had been lying to the Federal Reserve for years, and he sought to have [[Clark Clifford]] and [[Robert Altman]] investigated for withholding this vital information.[^2]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 132-133.

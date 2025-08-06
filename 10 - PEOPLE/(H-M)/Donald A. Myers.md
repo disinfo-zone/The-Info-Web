@@ -10,5 +10,5 @@ Donald A. Myers was a specialist with the [[Central Intelligence Agency|CIA]] on
 
 Myers's deployment came two years after a new and more powerful set of Soviet microwave beams (MUTS-2) were picked up by the [[CIA]] in Moscow. His presence indicated the growing concern within the U.S. government about the potential health hazards posed by these signals to embassy personnel[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

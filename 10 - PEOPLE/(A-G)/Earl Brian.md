@@ -15,6 +15,6 @@ Brian was also alleged to have been involved in a scheme to raise off-the-books 
 Brian owned [[Hadron Company]] at the time of [[Michael Riconosciuto]]'s trial. During the trial, [[Peter Videnieks]] testified that he did not know Brian, despite being questioned about his familiarity with Hadron Company and its ownership. Videnieks was evasive about his knowledge of Brian's connection to Hadron.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

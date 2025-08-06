@@ -11,7 +11,7 @@ After BCCI pleaded guilty to money laundering in January 1990, Rahman was placed
 
 Rahman was very nervous about discussing BCCI's affairs with the press due to threats to his family.[^8] He described a secret bank within the bank, International Credit and Investment Company Holdings (ICIC) in the [[Cayman Islands]], into which billions of dollars in deposits were improperly diverted.[^9]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 5.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 5.

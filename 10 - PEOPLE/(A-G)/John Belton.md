@@ -3,6 +3,6 @@
 Belton also made a statement regarding the trip to [[Canada]] by [[Dr. John Philip Nichols]] and [[Peter Zokosky]] in which they were involved in the purchase of [[Valleyfield Chemical Corporation]] in [[Canada]] in May 1981. Belton claimed that [[Dr. John Philip Nichols]] "used people in [[Canada]] to make sure he had an alibi when the Alvarez people were murdered on Bob Hope Drive."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

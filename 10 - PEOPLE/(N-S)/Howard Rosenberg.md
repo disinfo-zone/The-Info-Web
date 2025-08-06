@@ -11,5 +11,5 @@ Morehouse, a former member of the [[Remote Viewing]] unit, was preparing to do a
 
 However, *60 Minutes* ultimately decided not to air the show because the [[STARGATE PROJECT|DIA]] remote-viewing program was still classified, and Rosenberg could not find other sources to corroborate that the program even existed. Rosenberg later recalled that "No one would talk about it on the record... and the principal promoter of the story [David Morehouse], and of the program, was of questionable credibility and seemed to me to have multiple agendas"[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

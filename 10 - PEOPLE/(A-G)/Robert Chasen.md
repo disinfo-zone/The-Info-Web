@@ -11,6 +11,6 @@ Chasen was evasive on the subject of [[PROMIS]], despite his background suggesti
 Chasen felt an affinity with [[Arthur Welmas]], Chairman of the [[Cabazon Band of Mission Indians]], due to his wife being part Cherokee. He sympathized with their situation and expressed a desire to protect them, suggesting he may have protected them by shutting down the [[Wackenhut Corporation]]'s biological virus and vaccine development proposal to the Army on the Cabazon reservation.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

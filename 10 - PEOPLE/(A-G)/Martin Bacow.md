@@ -9,6 +9,6 @@ Bacow boasted to Giaquinto about [[John St. John]]'s status within [[OCID]], whi
 [[Richard Stavin]] confirmed that the [[Federal Bureau of Investigation|FBI]] wiretap revealed a conversation in which Giaquinto told Bacow that he would call [[Edwin Meese]] and have the [[Federal Bureau of Investigation|FBI]]'s investigation of [[Music Corporation of America|MCA]] stopped. No indictment was ever issued against Bacow for any criminal violations, with the prosecution of these suspects reportedly not going forward because no one at the [[United States Department of Justice|DOJ]] in Washington D.C. wanted all the wiretap affidavits in the case to be released.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

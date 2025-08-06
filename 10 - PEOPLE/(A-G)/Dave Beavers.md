@@ -7,6 +7,6 @@ He was present at the scene of the "Queen's accident" on March 5, 1983, when a M
 Beavers, along with [[Ben Wagner]] and others, stood in front of the Fresno [[Federal Bureau of Investigation|FBI]] building while being interviewed by Channel 3 Sacramento News. On camera, Beavers recalled observing deputies carrying packages of drugs from the Gold Coin Saloon and placing them in their patrol car.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

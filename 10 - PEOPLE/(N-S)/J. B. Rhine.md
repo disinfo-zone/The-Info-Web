@@ -18,5 +18,5 @@ Despite public skepticism, Rhine was involved in numerous classified ESP researc
 
 In 1974, one of Rhine's assistants, [[Walter Levy]], was caught cheating in an experiment involving rats, which became a scandal and fodder for skeptics[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

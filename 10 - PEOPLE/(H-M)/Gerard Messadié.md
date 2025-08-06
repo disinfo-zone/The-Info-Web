@@ -15,5 +15,5 @@ Messadié stated in an interview that his information for the article came from 
 
 Despite the [[U.S. Navy]]'s denial of the story as a hoax, Messadié's publication contributed to the widespread attention given to the alleged ESP experiments aboard the [[USS Nautilus]]. This, in turn, had significant real-world consequences, as the [[Soviet Union|Soviets]] used the news to stimulate their own [[Parapsychology|parapsychology]] research. [[Leonid L. Vasilev]], Russia's leading ESP researcher, claimed that Soviet parapsychology research was stimulated by the *Nautilus* reports[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -3,6 +3,12 @@ tags:
   - Person
   - Scientist
   - Israel
+  - Nuclear
+  - Weizmann_Institute
+  - Robotics
+  - Dimona
+  - Air_Force
+  - Chemistry
 ---
 Aharon Katchalsky, later known as Aharon Katzir, was a specialist in the electrolytic properties of chain molecules and a pioneer researcher in the related field of muscle-powered robotics. He directed the inorganic chemistry department at the [[Weizmann Institute of Science]]. Like [[Ernst David Bergmann]], Katzir had a secret life and was one of the driving forces in the flourishing Israeli nuclear weapons program until his death in 1972.[^1]
 

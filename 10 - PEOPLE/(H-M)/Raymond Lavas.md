@@ -3,6 +3,6 @@
 Lavas also turned some of [[Michael Riconosciuto]]'s disks over to the Jack Brooks investigative committee (House Judiciary Committee on [[INSLAW]]). Riconosciuto claimed there was no data on these disks, as they contained a sub-set of VAX VMS routines modified to activate a one-time pad encryption scheme, requiring specific hardware and instructions to unravel.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

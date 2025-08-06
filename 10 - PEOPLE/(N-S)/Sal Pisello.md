@@ -7,6 +7,6 @@ When a grand jury indicted Pisello on a second round of tax charges on July 9, 1
 [[Irving Azoff]] and Pisello were discussed in phone conversations captured by [[Federal Bureau of Investigation|FBI]] wiretaps. [[Eugene Giaquinto]] said he was considering sending the [[Music Corporation of America|MCA]] board of directors an incriminating letter prepared in 1985 on behalf of Pisello, sent to Azoff, which would conflict with Azoff's testimony at the trial.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

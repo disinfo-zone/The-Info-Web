@@ -15,5 +15,5 @@ Speer also noted [[Adolf Hitler]]'s reaction to [[Heinrich Himmler]]'s interest 
 ## Publications
 *   *Inside the Third Reich*
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

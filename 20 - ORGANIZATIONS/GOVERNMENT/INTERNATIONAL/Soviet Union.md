@@ -3,9 +3,12 @@ created: 2025-07-22
 updated: 2025-08-04
 title: Soviet Union
 tags:
-  - country
-  - ColdWar
+  - Organization
+  - Government
+  - Country
+  - Cold War
   - USSR
+  - Intelligence
 description: The Union of Soviet Socialist Republics (USSR), commonly known as the Soviet Union, was a socialist state in Eurasia that existed from 1922 to 1991. It was a key player in the Cold War and was perceived by the U.S. as a leader in psi research.
 ---
 The Union of Soviet Socialist Republics (USSR), commonly known as the Soviet Union, was a socialist state in Eurasia that existed from 1922 to 1991. During the Cold War, the [[Soviet Union]] was a primary geopolitical rival of the United States, leading to an arms race that extended into unconventional areas, including psychic research.[^1]
@@ -24,7 +27,7 @@ The Soviet Union and its military installations were frequent targets for U.S. r
 
 In December 1979, the Soviet Union invaded [[Afghanistan]], making [[Pakistan]] a key strategic priority for the [[United States]].[^2]
 
-## Footnotes
+### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.

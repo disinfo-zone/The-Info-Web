@@ -3,6 +3,10 @@ tags:
   - Person
   - Politics
   - Libya
+  - Military
+  - Iran
+  - Islamic Revolution
+  - Qaddafi
 ---
 Major [[Abdul Salam Jalloud]] was the right-hand man of [[Muammar Qaddafi|Col. Muammar Qaddafi]] of [[Libya]]. He visited [[Iran]] to present [[Muammar Qaddafi|Qaddafi's]] congratulations to the new regime after the [[Iranian Revolution]].[^1]
 

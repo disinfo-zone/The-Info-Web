@@ -1,5 +1,12 @@
 ---
-tags: ["Person", "Banker", "BCCI"]
+tags:
+  - Person
+  - Banker
+  - BCCI
+  - Banking
+  - Money Laundering
+  - Panama
+  - Criminal
 ---
 Amjad Awan was a manager of [[Bank of Credit and Commerce International|BCCI]] [[Panama]] and later the bank's marketing manager for Latin America and the Caribbean.[^1] He gained notoriety as [[Manuel Noriega]]'s personal banker, handling his accounts and facilitating illicit financial transactions.[^2]
 
@@ -15,7 +22,7 @@ Awan's connections extended to high-level figures within BCCI and beyond. He was
 
 His case was part of a larger investigation into BCCI's money laundering activities, which eventually led to the bank pleading guilty in Tampa in 1990.[^9]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 8.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 8.

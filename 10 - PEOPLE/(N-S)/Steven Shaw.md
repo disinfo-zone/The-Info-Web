@@ -9,5 +9,5 @@ Steven Shaw was one of two young magicians, along with [[Michael Edwards]], who 
 
 They spent a total of five weeks in the lab over a three-year period. When Randi held a press conference to expose the hoax, Steven Shaw famously walked up to the microphone and said, "I cheat," revealing the deception[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

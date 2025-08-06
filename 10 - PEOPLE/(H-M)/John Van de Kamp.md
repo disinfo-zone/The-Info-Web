@@ -5,6 +5,6 @@
 Three consecutive grand jury foremen and [[Ben Wagner]], an attorney representing deputies exposing corruption, sought help from Van de Kamp's office, but to no avail. Wagner learned that everything pertaining to Mariposa was automatically "trashed" when it crossed the Attorney General's desk. Wagner later filed a Writ of Mandamus against Van de Kamp for refusing to investigate corruption in Mariposa County.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

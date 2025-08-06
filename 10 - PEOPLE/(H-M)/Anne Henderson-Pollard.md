@@ -3,6 +3,11 @@ tags:
   - Person
   - Spy
   - USA
+  - Israel
+  - Navy
+  - Intelligence
+  - Jonathan_Pollard
+  - Espionage
 ---
 [[Anne Henderson-Pollard]] was the wife of [[Jonathan Pollard]], a junior civilian analyst with the [[USA|U.S.]] Navy who was a paid spy for [[Tel Aviv]]. She was also involved in her husband's espionage activities.[^1]
 

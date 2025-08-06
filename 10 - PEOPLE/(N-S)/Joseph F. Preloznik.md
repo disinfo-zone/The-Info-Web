@@ -3,6 +3,6 @@
 Nichols stated to Preloznik, "Should there be any questions with regard to my credibility, verification can be made through [[First Intercontinental Development Corporation|F.I.D.C.O.]]. I have enclosed a copy of that appointment."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

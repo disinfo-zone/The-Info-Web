@@ -5,6 +5,6 @@ Casolaro confided to friends that he was unnerved by this supposedly chance meet
 [[Bill Hamilton]], president of [[INSLAW]], stated that he had received an affidavit from [[Bill Turner]] on "highly classified computer printouts on off-shore accounts that he claimed Casolaro intended to use the night he died in a planned meeting with [[Peter Videnieks]] and [[Joseph Cuellar]] and others."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

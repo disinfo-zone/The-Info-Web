@@ -17,7 +17,7 @@ The bombing of the Iraqi nuclear reactor at [[Osirak]] in June 1981, which [[Ari
 
 ---
 
-## Footnotes
+### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.

@@ -11,7 +11,7 @@ During the [[Zia ul-Haq|Zia]] presidency, the U.S. deep-sixed information about 
 
 When [[Benazir Bhutto]] ordered Haq's arrest, she aimed to demonstrate action against the drug problem.[^8] However, the charges against him disappeared after the generals removed Bhutto from power.[^9]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 71.

@@ -20,5 +20,5 @@ Despite initial perceptions, Higgins was likely killed between four and six week
 
 Higgins's body was not recovered for another two and a half years, when his mummified remains were found in a bag left in a school parking lot in southern Beirut[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

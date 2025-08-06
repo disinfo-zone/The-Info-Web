@@ -15,5 +15,5 @@ During the experiment, Sergeyev monitored Kulagina's physiological responses, wh
 
 Sergeyev also oversaw an experiment where Kulagina attempted to increase the heart rate of a skeptical physician, which reportedly reached dangerous levels. While some U.S. analysts suspected these demonstrations were part of a Soviet disinformation campaign, others in the U.S. military, particularly the Medical Intelligence Office of the [[U.S. Army]], considered the potential military applications of such abilities to be highly significant[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

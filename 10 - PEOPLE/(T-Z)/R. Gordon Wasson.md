@@ -6,9 +6,12 @@ tags:
   - Person
   - Ethnomycologist
   - Banker
+  - CIA
+  - MK-Ultra
+  - Psychedelics
+  - Mushrooms
+  - Finance
 ---
-# R. Gordon Wasson
-
 R. Gordon Wasson was an American ethnomycologist and vice president at J.P. Morgan & Company bank, known for his pioneering research into the use of psychedelic mushrooms in shamanistic rituals. His work became central to the [[Central Intelligence Agency|CIA]]'s [[Project MKUltra|MKULTRA Subproject 58]]'s quest for the *teonanáctl* (God's flesh) mushroom[^1].
 
 Wasson and his wife, Valentina, a pediatrician, had been investigating a mushroom cult in Mexico. He had traveled to Mexico twice and was planning a third expedition when he was contacted by [[Andrija Puharich]] and [[Alice Astor Bouverie]]. Wasson explained that the Mexicans believed the mushroom was a pathway to the supernatural and possessed divinatory powers, allowing human consciousness to separate from the physical body[^1].
@@ -19,5 +22,5 @@ In June 1955, Wasson, accompanied by photographer Allan Richardson, arrived in H
 
 Wasson's work gained widespread public attention when he struck a publishing deal with *Life* magazine and authored a twelve-page account of his experience titled "Seeking the Magic Mushroom." While he omitted any mention of the [[Central Intelligence Agency|CIA]]'s involvement, he highlighted the mushroom's alleged ability to access and enhance [[Extrasensory Perception|ESP]]. The article caused a sensation, effectively undermining the [[Central Intelligence Agency|CIA]]'s desire to keep the drug a secret psychic weapon under military intelligence control, as pleasure seekers flocked to Mexico to consume *God's flesh*[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

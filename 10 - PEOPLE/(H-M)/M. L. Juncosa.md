@@ -14,5 +14,5 @@ Juncosa and Van Dyke also highlighted the challenge facing anyone working on suc
 ## Publications
 *   "Paranormal Phenomena—Briefing on a Net Assessment Study" (1973, co-authored with P. T. Van Dyke)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

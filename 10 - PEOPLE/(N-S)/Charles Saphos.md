@@ -9,7 +9,7 @@ Saphos wrote to [[Florida]] regulators after [[Bank of Credit and Commerce Inter
 
 Saphos clarified that the Justice Department was not requesting BCCI to be licensed, but rather that if it remained open, there might be occasions where the Justice Department would request banking relationships with customers under criminal investigation.[^3] He sent identical letters to banking commissioners in [[New York]] and Florida after meeting with former Justice Department attorneys for BCCI.[^3] Copies of these letters were sent to the attorneys but not to the U.S. attorney in Tampa, and the clarifying letter was not sent to New York or California commissioners.[^3]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 88.

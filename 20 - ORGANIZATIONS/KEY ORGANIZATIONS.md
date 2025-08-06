@@ -1,7 +1,8 @@
 ---
 tags:
   - MOC
-  - META
+  - Meta
+  - Organization
 ---
 This Map of Content (MOC) provides a curated guide to the key organizations involved in the story of The Info Web. It is not an exhaustive list, but a starting point for exploring the institutional players in the hidden history of paranormal research, intelligence, and advanced technology.
 

@@ -13,5 +13,5 @@ Hefer, who was in the audience, immediately went to a pay phone to call her cont
 
 This event significantly boosted Geller's reputation, with Prime Minister [[Golda Meir]] reportedly quipping, "Don’t ask me... Ask Uri Geller" when asked about [[Israel|Israel's]] future[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

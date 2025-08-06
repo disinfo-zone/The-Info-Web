@@ -44,5 +44,5 @@ Throughout his life, Puharich maintained a theory that extraterrestrials were tr
 
 Andrija Puharich died tragically in 1995, alone and impoverished, under threat of eviction from the estate of his last benefactor, [[R. J. Reynolds]]. He was 76 and suffering from dementia, kidney failure, and gangrene[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

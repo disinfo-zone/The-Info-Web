@@ -5,6 +5,6 @@ White revealed that the original [[California Highway Patrol|CHP]] report on the
 Before his resignation, White quietly filed the transcripts of the trial and an affidavit listing the "hallucinatory" drugs Sinclair had used prior to the accident with [[Stephan LaPalm]] of the [[United States Attorney|U.S. Attorney]]'s office in Sacramento.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

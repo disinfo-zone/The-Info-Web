@@ -5,5 +5,5 @@
 Both Giaquinto and [[Robert Booth Nichols]] were noted to have a close working relationship with the [[United States Department of Justice|Justice Department]], according to the wiretaps. Despite the evidence gathered, the wiretaps were subsequently sealed by the [[United States Department of Justice|DOJ]], and no prosecutions were pursued, leading to the disbandment of the Los Angeles Organized Crime Strike Force and the resignations of key investigators.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

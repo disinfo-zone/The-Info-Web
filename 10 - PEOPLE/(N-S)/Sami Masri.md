@@ -17,7 +17,7 @@ Masri was arrested by American Customs agents in Tampa, Florida, as part of a st
 
 His personal life was tumultuous; he was disinherited by his family after marrying an Australian airline stewardess named Pamela. He later sought to divorce Pamela, claiming she knew too much about his work with the Black Network.[^13]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 94.

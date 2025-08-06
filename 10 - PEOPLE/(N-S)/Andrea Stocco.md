@@ -13,5 +13,5 @@ Stocco explains that while evolution has found ways for humans to communicate in
 
 In collaboration with computational neuroscientist [[Rajesh Rao]], Stocco's laboratory conducted experiments on August 12, 2013, demonstrating [[Synthetic Telepathy]] between two human test subjects for the first time in human history[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

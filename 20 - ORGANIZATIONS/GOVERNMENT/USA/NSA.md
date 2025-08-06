@@ -3,9 +3,12 @@ created: 2025-03-05
 updated: 2025-07-22
 title: NSA
 tags:
-  - agency
-  - government
-  - intelligence
+  - Organization
+  - Government
+  - Intelligence
+  - USA
+  - NSA
+  - Signals Intelligence
 description: The National Security Agency (NSA) is a U.S. intelligence agency responsible for global monitoring, collection, and processing of information and data for foreign intelligence and counterintelligence purposes.
 ---
 > [!INFO] THIS IS NOT WIKIPEDIA

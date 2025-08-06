@@ -7,6 +7,6 @@ Frustrated by the slow progress of Michael's court defense and the lack of respo
 In January 1992, Bobby Riconosciuto disclosed that she had been present when [[Robert Booth Nichols]] met with [[Michael Abbell]] in Washington D.C. to discuss "crow-barring" the extradition of [[Cali Drug Cartel]] leaders [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]], [[Jose Santacruz Londono|Jose Londono]], and [[Jose Santacruz Londono|Miguel Rodriguez]], whom they considered "intelligence people."[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -5,6 +5,6 @@ In the civil trial that followed the "Queen's accident," Judge Coyle ruled that 
 Retired [[Federal Bureau of Investigation|FBI]] agent [[Tom Walsh]] provided information alleging that Judge Coyle was once the attorney of record for [[Curry Company]] (owned by [[Music Corporation of America|MCA]]) in Yosemite National Park.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

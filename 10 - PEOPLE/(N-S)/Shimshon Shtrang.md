@@ -18,5 +18,5 @@ As Geller's career progressed, Shtrang became his assistant, often participating
 
 Shtrang continues to live on the compound of Geller's home in Sonning-on-Thames, England, and later in Jaffa, Israel, along with Geller's wife, Hanna (who is Shipi's sister). He has been Geller's friend and assistant for forty-eight years[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

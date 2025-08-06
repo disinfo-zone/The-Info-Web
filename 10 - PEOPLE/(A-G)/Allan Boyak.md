@@ -1,3 +1,13 @@
+---
+tags:
+  - Person
+  - Lawyer
+  - Military
+  - Special Forces
+  - CIA
+  - DEA
+  - USA
+---
 [[Allan Boyak]] is an attorney from [[Utah]] who represented [[Michael Riconosciuto]] in his drug case. Boyak had a background in the [[United States Army Special Forces|U.S. Army Special Forces]] and reportedly did some contract work for the [[Central Intelligence Agency|CIA]] during the 1960s and early 1970s. He also worked briefly for the [[Drug Enforcement Administration|DEA]] (or its antecedent agency) in [[California]] before leaving government service to attend law school.[^1]
 
 After law school, Boyak joined a Hollywood law firm and became involved in criminal defense work, representing a number of "well placed West Coast drug traffickers." He later moved to [[Utah]], maintaining a part-time law practice in [[California]].[^1]
@@ -16,7 +26,6 @@ Over the next two years, after the Los Angeles [[Federal Bureau of Investigation
 
 Boyak received a telephone call from [[Michael Riconosciuto]] who identified himself as a former employee of [[Robert Booth Nichols]] and referenced [[Ted Gunderson]] as a "mutual friend." In April 1991, Boyak received another call from Gunderson, informing him that [[Michael Riconosciuto]] was "in trouble" and "caught in a government frame-up."[^1]
 
----
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

@@ -17,5 +17,5 @@ Customs agent William Green increased the local law enforcement effort, and a ra
 
 Jordan's capture, largely attributed to Dellafiora's remote viewing, became one of the most celebrated cases in the program's twenty-five-year history, demonstrating the practical application of psychic abilities in intelligence operations[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

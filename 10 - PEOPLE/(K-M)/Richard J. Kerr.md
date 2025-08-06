@@ -1,5 +1,14 @@
 ---
-tags: ["Person", "Government Official", "CIA", "BCCI"]
+tags:
+  - Person
+  - Government Official
+  - CIA
+  - BCCI
+  - Acting Director
+  - Intelligence
+  - Congressional Testimony
+  - Iran-Contra
+  - Banking
 ---
 Richard J. Kerr served as Acting [[Central Intelligence Agency]] Director. In 1991, he confirmed that the agency had used [[Bank of Credit and Commerce International|BCCI]] to move money around the world.[^1]
 
@@ -9,7 +18,7 @@ Kerr appeared before Senator [[John Kerry]]'s Subcommittee on Terrorism, Narcoti
 
 Despite these denials, Kerr admitted that the CIA did maintain accounts with BCCI, describing them as normal operational accounts.[^5] The Kerry subcommittee's report suggested that [[William Casey]]'s actions, including any role in the [[Iran-Contra Affair]], were undertaken in his position as an adviser to the President, rather than as Director of the CIA, allowing them to be undocumented and deniable.[^6]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 89.

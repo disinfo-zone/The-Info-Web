@@ -7,5 +7,5 @@ His name surfaced in connection with [[Michael Riconosciuto]]'s claims that [[Ro
 Londono's activities were also part of the broader "[[The Octopus]]" investigation conducted by [[Danny Casolaro]], which sought to expose the interconnectedness of organized crime, drug trafficking, and intelligence operations.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

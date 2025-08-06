@@ -13,7 +13,7 @@ Naqvi, along with Abedi, was indicted by [[Robert Morgenthau]], the Manhattan di
 
 Naqvi had close ties with Abedi and was involved in many of the bank's illicit activities, including the use of nominees and offshore networks to conceal ownership and financial transactions.[^6] He was also involved in the meeting where [[Eugene Holley]] introduced [[Bert Lance]] to Abedi.[^7]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 140.

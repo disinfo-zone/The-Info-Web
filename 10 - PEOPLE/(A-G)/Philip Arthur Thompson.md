@@ -11,6 +11,6 @@ Thompson was suspected of involvement in the murder of [[Paul Morasca]]. Detecti
 Thompson talked to Detective [[Sue Todd]] in prison about "kick-backs" to powerful people being handled by [[Michael Riconosciuto]] on his computer. He also told Todd that he had withheld one of [[Michael Riconosciuto]]'s computer coded cards for himself, which were allegedly connected to the deaths of [[Paul Morasca]] and [[Mary Quick]].[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

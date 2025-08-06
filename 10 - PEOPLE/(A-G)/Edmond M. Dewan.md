@@ -14,5 +14,5 @@ Dewan's first Morse code message, "I can talk," took twenty-five seconds per let
 
 His work laid the foundation for modern [[Brain-Computer Interface]] technology, which aims to enable soldiers to communicate by thought alone[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

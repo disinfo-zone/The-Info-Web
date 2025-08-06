@@ -3,10 +3,13 @@ created: 2025-07-23
 updated: 2025-07-23
 title: U.S. Embassy in Moscow
 tags:
-  - location
-  - diplomatic
-  - ColdWar
-  - intelligence
+  - Organization
+  - Government
+  - Diplomatic
+  - Cold War
+  - Intelligence
+  - USA
+  - Moscow
 description: The U.S. Embassy in Moscow was the target of the Moscow Signal, a microwave beam directed by the Soviet Union, suspected of being an electromagnetic weapon.
 ---
 
@@ -16,6 +19,5 @@ From 1956 to 1976, the embassy was subjected to the [[Moscow Signal]], a microwa
 
 In the early 1980s, the construction of a new U.S. Embassy building in Moscow became another intelligence concern. The [[Central Intelligence Agency|CIA]] received intelligence that the new embassy had been bugged at its core, with sensors embedded deep inside the structural framing materials. [[Joe McMoneagle]], a remote viewer from the [[STARGATE PROJECT|Stargate Project]], accurately remote-viewed the building, perceiving it to be riddled with thousands of bugs and metallic decoys, including girders welded into antennas. This was later confirmed by a CIA/[[NSA]] investigation, revealing a massive Soviet eavesdropping and surveillance program.[^1]
 
----
-
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

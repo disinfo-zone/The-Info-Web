@@ -10,5 +10,5 @@ Charles Bohlen (1904–1974) was a distinguished American diplomat who served as
 
 Bohlen died of pancreatic cancer on January 1, 1974, at the age of sixty-nine. His death, along with that of [[Llewellyn Thomas]] and later [[Walter Stoessel Jr.]], raised concerns about the potential health effects of prolonged exposure to the Moscow Signal[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

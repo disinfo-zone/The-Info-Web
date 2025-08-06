@@ -14,5 +14,5 @@ In the fall of 1976, Keach, along with fellow deep-sea explorer [[Don Walsh]], w
 
 They were able to provide Schwartz with rare access to the *Taurus I*, a state-of-the-art, five-man submersible, for three days of sea trials. This opportunity was crucial for Schwartz's [[Project Deep Quest]], which aimed to use [[Remote Viewing]] to locate a previously unknown shipwreck on the seafloor. Keach's involvement facilitated the use of the submersible for this unique psychic functioning experiment[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

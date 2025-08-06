@@ -5,9 +5,14 @@ tags:
   - Person
   - Author
   - Philosopher
+  - Psychedelics
+  - Consciousness
+  - Parapsychology
+  - Round_Table_Foundation
+  - UK
+  - Mescaline
+  - Counterculture
 ---
-# Aldous Huxley
-
 Aldous Huxley (1894–1963) was a renowned English writer and philosopher, best known for his dystopian novel *Brave New World*. He had a keen interest in the [[Consciousness|trance state]] and its potential as a means of gathering unseen information about the natural world, a fascination that led him to experiment with psychedelic substances and observe the work of [[Andrija Puharich]][^1].
 
 Huxley's personal experiences with mescaline, the principal hallucinogenic agent in peyote, were documented in his 1954 book, *The Doors of Perception*. This work explored the expansion of consciousness through drug use and met with both controversy and widespread readership, influencing counterculture movements[^1].
@@ -22,5 +27,5 @@ Huxley's interest in the sixth sense stemmed from a childhood eye infection that
 *   *Brave New World* (1932)
 *   *The Doors of Perception* (1954)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

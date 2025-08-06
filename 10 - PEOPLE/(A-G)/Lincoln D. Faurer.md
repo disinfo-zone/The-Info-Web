@@ -11,5 +11,5 @@ Lincoln D. Faurer was a Lieutenant General and the Director of the [[National Se
 
 Faurer's interest led him to assign the remote-viewing unit at [[Fort Meade]] a dozen new tasks in April 1982. His support was crucial for the program's survival, as it provided the necessary operational requests from the military and intelligence services[^1].
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

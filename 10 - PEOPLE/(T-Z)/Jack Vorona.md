@@ -24,6 +24,6 @@ Vorona, along with General [[Edmund Thompson]], briefed Congressman [[Charlie Ro
 
 Jack Vorona retired after twenty-five years of service at DIA and was inducted into the DIA's Torch Bearers Hall in 2011[^2].
 
-## Footnotes
+### Footnotes
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

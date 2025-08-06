@@ -16,6 +16,5 @@ As a monitor in remote viewing sessions, Targ would prompt psychics with questio
 
 Despite the personality conflicts and the controversial nature of the research, Targ was a key figure in the remote viewing program. He was the co-author, with Hal Puthoff, of a number of influential papers on remote viewing, including a 1974 article in *Nature* and a 1976 article in the *Proceedings of the IEEE*. He eventually became convinced of the reality of remote viewing, even conducting his own informal experiments. He was present during many of Price's most impressive remote viewing feats, including the glider experiment where Price accurately perceived the numbers Kennett was carrying and the "ankh" around his neck, and the precognitive viewing of the Redwood City Marina and the Rinconada Park water tanks.[^1]
 
----
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.

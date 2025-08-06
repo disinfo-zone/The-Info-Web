@@ -9,7 +9,7 @@ Mueller appeared on ABC's Nightline to refute *Time* magazine's charges regardin
 
 Mueller asserted that the Justice Department had provided information leading to the shutdown of BCCI's offices in [[Florida]].[^5] He maintained that all allegations or evidence provided to the Justice Department were being pursued.[^6]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 150.

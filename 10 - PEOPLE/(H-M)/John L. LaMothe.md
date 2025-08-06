@@ -30,5 +30,5 @@ Despite the controversy, LaMothe's report circulated through the military and in
 ## Publications
 *   *Controlled Offensive Behavior—USSR* (1972)
 
-## Footnotes
+### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

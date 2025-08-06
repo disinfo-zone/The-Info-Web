@@ -11,6 +11,6 @@ Powers was forced to obtain a Governor's Warrant to bring [[Jimmy Hughes]] back 
 Powers believes the motive for the triple-homicide was that [[Fred Alvarez]] was preparing to bring a case against the Nichols for embezzlement and/or mismanagement of funds, which would have been financially devastating to them. He stated that the Mafia was directly connected to the start-up capital in the [[Cabazon Casino]], and that [[Dr. John Philip Nichols]] and his [[La Cosa Nostra|LCN]] friends were involved in financial transactions. Powers also noted that the [[Lake Cahuilla]] Incident, a weapons demonstration attended by [[Wackenhut Corporation]], Cabazons, and [[Central Intelligence Agency|CIA]] officials with [[Iran-Contra Affair|Contra]] leaders, was completely legal at the time and not a motive for the murders.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

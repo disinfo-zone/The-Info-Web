@@ -7,6 +7,6 @@ During the process of opening a grand jury investigation into the mob's involvem
 Despite the wiretap information and related investigation reportedly gathering enough evidence to justify seeking an indictment against St. John, Giaquinto, and Bacow for obstruction of justice, no indictment was ever issued. The prosecution reportedly did not go forward because no one at the [[United States Department of Justice|DOJ]] in Washington D.C. wanted all the wiretap affidavits in the case to be released.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

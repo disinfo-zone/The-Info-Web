@@ -13,6 +13,6 @@ Coleman also stated that the [[Drug Enforcement Administration|DEA]]'s objective
 Coleman found the reassignment of [[Michael T. Hurley]], the [[Drug Enforcement Administration|DEA]] Country Attache for [[Cyprus]], to a [[Drug Enforcement Administration|DEA]] intelligence position in Washington State prior to [[Michael Riconosciuto]]'s arrest suspicious. He believed Hurley's reassignment was intended to "manufacture a case" against Riconosciuto to prevent him from becoming a credible witness about the [[United States Government|U.S. Government]]'s covert sale of the [[PROMIS]] software to foreign governments.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

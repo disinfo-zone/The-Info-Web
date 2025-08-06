@@ -7,5 +7,5 @@ Gates had frequent conversations with [[Danny Casolaro]] until three days before
 Despite the evidence gathered, the [[United States Department of Justice|DOJ]] sealed the wiretaps, and no prosecutions were pursued in the [[Music Corporation of America|MCA]] organized crime investigation. The Los Angeles Organized Crime Strike Force was disbanded, and Gates closed the [[Federal Bureau of Investigation|FBI]] investigation. He was one of the investigators who found themselves on a collision course with the [[United States Department of Justice|Justice Department]] when their inquiries led to high-level organized crime, drugs, and money laundering.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

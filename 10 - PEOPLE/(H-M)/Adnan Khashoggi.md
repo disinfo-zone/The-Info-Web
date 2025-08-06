@@ -1,8 +1,16 @@
 ---
 tags:
   - Person
-  - international arms merchant
-  - financier
+  - Intelligence
+  - Arms_Dealer
+  - BCCI
+  - Iran-Contra
+  - PROMIS
+  - Saudi_Arabia
+  - Switzerland
+  - Liechtenstein
+  - CIA
+  - Reagan_Administration
 ---
 [[Adnan Khashoggi]] was an international arms merchant and a factotum for the House of Saud. He was considered the richest man in the world in the 1980s. Khashoggi covered his financial tracks by establishing front companies in [[Switzerland]] and [[Liechtenstein]] to handle his commissions. He also developed contacts with notable figures such as [[Central Intelligence Agency|CIA]] officers [[James H. Critchfield]] and [[Kim Roosevelt]], and U.S. businessman [[Bebe Rebozo]], a close associate of former U.S. President [[Richard Nixon]].[^1]
 
@@ -22,8 +30,7 @@ In 1988, Khashoggi was arrested in [[Switzerland]], accused of concealing funds.
 
 His cousin, [[Hassan Yassin]], was described as a close business associate of [[Kamal Adham]].[^4]
 
----
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.

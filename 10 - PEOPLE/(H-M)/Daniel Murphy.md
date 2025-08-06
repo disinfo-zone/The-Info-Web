@@ -1,3 +1,18 @@
+---
+tags:
+  - Person
+  - Military
+  - Admiral
+  - CIA
+  - Intelligence
+  - PROMIS
+  - INSLAW
+  - NSA
+  - Defense_Department
+  - Gerald_Ford
+  - Jimmy_Carter
+  - Richard_Nixon
+---
 [[Daniel Murphy]] was a retired four-star Admiral who served as [[Elliot Richardson]]'s Military Advisor when Richardson was Secretary of Defense under [[Richard Nixon]]. He later held two of the top U.S. intelligence posts: Deputy Director of the [[Central Intelligence Agency|CIA]] under [[Gerald Ford]] and Undersecretary of Defense for Intelligence under [[Jimmy Carter]].[^1]
 
 In early 1991, [[INSLAW]] Counsel [[Elliot Richardson]] asked Murphy to review the plausibility of claims about the covert dissemination of [[PROMIS]] for intelligence-tracking applications and to give his opinion on whether the claimed intelligence uses could explain [[Richard Thornburgh]]'s inexplicable failure to enforce federal criminal laws in the [[INSLAW]] case. After reading the affidavits and the [[INSLAW]] lawsuit against Thornburgh, Murphy told Richardson and [[Bill Hamilton]] that there was nothing implausible about any of the claims, including [[Michael Riconosciuto]]'s claim that he had modified [[PROMIS]] for U.S. intelligence on an Indian reservation in Southern [[California]]. He also stated that the available evidence made it look like an [[National Security Agency|NSA]] operation, and if it were, it would explain Thornburgh's behavior.[^1]

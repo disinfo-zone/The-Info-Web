@@ -3,6 +3,6 @@
 Overoye's "procedure" of referring complaints directly back to local agencies was noted as a consistent practice, leading to threats, intimidation, and fear for complaining individuals in Mariposa County. This practice, along with the inaction of [[John Van de Kamp]] and federal agencies, reportedly extended to a number of foothill counties experiencing similar local corruption.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
