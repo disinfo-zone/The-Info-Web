@@ -23,6 +23,17 @@ The DIA's interest in psi research was driven by concerns over perceived Soviet 
 #### Oversight of Stargate Project:
 [[Jack Vorona]], the head of the DIA's Scientific and Technical Intelligence Directorate, was the overall manager of the [[STARGATE PROJECT|Grill Flame]] program. He, along with General [[Ed Tompson]], briefed Congressman Charlie Rose on the program in the late 1970s. The DIA continued to oversee the program even after the Army's funding was initially terminated in 1985.[^1]
 
+## Role in Modern UAP Investigation
+
+The DIA was the original home of the [[Advanced Aerospace Weapons System Applications Program]] (AAWSAP), the precursor to the [[Advanced Aerospace Threat Identification Program]] (AATIP). AAWSAP was established within the DIA in 2007 with a $22 million appropriation from Congress. The program was led by [[Dr. James Lacatski]], a DIA rocket scientist, and it was responsible for investigating the threat posed by [[Unidentified Anomalous Phenomena]] (UAP). The program initially enjoyed the support of DIA leadership, including Director Lieutenant General Michael D. Maples and Deputy Director Robert Cardillo.[^3]
+
+However, as new leadership took over at the DIA, the program began to face significant opposition. According to [[Luis Elizondo]], the new leadership, which included former [[Central Intelligence Agency|CIA]] officials, was hostile to the program's investigation of the paranormal and theological aspects of the UAP phenomenon. This internal resistance ultimately led to the program losing its official support and funding, and it was forced to operate in a more clandestine manner under the leadership of [[Luis Elizondo]].[^3]
+
+### The Wilson-Davis Memo
+
+The DIA is also central to the events described in the [[Wilson-Davis Memo]]. The memo details a 2002 conversation between [[Eric Davis]] and Vice Admiral Thomas R. Wilson, who was then the Director of the DIA. In the memo, Admiral Wilson describes his discovery of and subsequent denial of access to a secret UAP reverse-engineering program, highlighting the fact that even the Director of the DIA was not cleared to know about the so-called "Legacy Program."[^3]
+
 ### Footnotes
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.
+[^3]: Elizondo, Luis. *Imminent*. William Morrow, 2024.

@@ -12,7 +12,7 @@ tags:
   - CIA
   - Reagan_Administration
 ---
-[[Adnan Khashoggi]] was an international arms merchant and a factotum for the House of Saud. He was considered the richest man in the world in the 1980s. Khashoggi covered his financial tracks by establishing front companies in [[Switzerland]] and [[Liechtenstein]] to handle his commissions. He also developed contacts with notable figures such as [[Central Intelligence Agency|CIA]] officers [[James H. Critchfield]] and [[Kim Roosevelt]], and U.S. businessman [[Bebe Rebozo]], a close associate of former U.S. President [[Richard Nixon]].[^1]
+[[Adnan Khashoggi]] (25 July 1935 – 6 June 2017) was an international arms merchant and a factotum for the House of Saud. He was considered the richest man in the world in the 1980s. Khashoggi covered his financial tracks by establishing front companies in [[Switzerland]] and [[Liechtenstein]] to handle his commissions. He also developed contacts with notable figures such as [[Central Intelligence Agency|CIA]] officers [[James H. Critchfield]] and [[Kim Roosevelt]], and U.S. businessman [[Bebe Rebozo]], a close associate of former U.S. President [[Richard Nixon]].[^1]
 
 Khashoggi's sister, [[Samira Khashoggi Fayed]], was the mother of [[Dodi Fayed]], who was romantically involved with [[Diana, Princess of Wales]]. Khashoggi's yacht, *Nabila*, was the largest in the world at the time and was featured in the James Bond film *Never Say Never Again*.[^1]
 

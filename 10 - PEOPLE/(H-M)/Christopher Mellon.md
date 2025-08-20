@@ -1,0 +1,22 @@
+[[Christopher Mellon]] is a former Deputy Assistant Secretary of Defense for Intelligence and a key strategist in the modern [[Unidentified Anomalous Phenomena]] (UAP) disclosure movement. Coming from a prominent American family (Mellon banking and industrial dynasty), he has leveraged his extensive experience in intelligence and national security to bring the UAP issue to the forefront of the U.S. Congress and the public.[^1]
+
+### Government Career
+
+Christopher Mellon served for nearly two decades in the federal government, holding high-level positions in both the executive and legislative branches. He was the Deputy Assistant Secretary of Defense for Intelligence during the [[Bill Clinton|Clinton]] and [[George W. Bush]] administrations, a role that gave him oversight of the entire Department of Defense intelligence apparatus and its most sensitive [[Special Access Programs]] (SAPs). Prior to this, he served for over a decade on the staff of the Senate Intelligence Committee, eventually becoming the Minority Staff Director for Senator [[William S. Cohen]]. His deep understanding of the inner workings of the intelligence community and the legislative process would later prove invaluable to the UAP disclosure effort.[^1]
+
+### Involvement with AATIP and Luis Elizondo
+
+In early 2017, while serving as an unpaid consultant for the [[Office of Naval Intelligence]], Mellon was introduced to [[Luis Elizondo]] by a mutual friend from the [[Central Intelligence Agency|CIA]], [[Jim Semivan]]. Elizondo, who was then secretly running the [[Advanced Aerospace Threat Identification Program]] (AATIP), provided Mellon with a comprehensive briefing on the UAP issue. Mellon was shown incontrovertible evidence, including radar data and pilot testimony from the 2004 [[Tic Tac|Tic Tac Incident]], that demonstrated advanced, unidentified aircraft were routinely violating sensitive U.S. military airspace with impunity.[^1]
+
+Mellon was profoundly disturbed by these revelations, viewing the government's failure to address the issue as a catastrophic intelligence failure reminiscent of the lead-up to Pearl Harbor or 9/11. He was outraged that information of such magnitude was not reaching senior policymakers. He and Elizondo attempted to work through the chain of command to brief Secretary of Defense [[James Mattis]], but their efforts were stonewalled by the Pentagon bureaucracy. This failure was a critical factor in Elizondo's decision to resign in protest.[^1]
+
+### The Legislative Strategy for Disclosure
+
+Following Elizondo's resignation, Mellon became the primary architect of a multi-pronged strategy to force the UAP issue into the open. Recognizing that direct confrontation with the Pentagon was futile, he devised a plan to leverage Congress and the media. He personally facilitated the transfer of three declassified UAP videos—later known as "FLIR" ([[Tic Tac]]), "[[GIMBAL]]," and "[[GoFast]]"—to the New York Times, which resulted in a landmark front-page story in December 2017 that officially broke the news of AATIP's existence.[^1]
+
+Mellon then focused on a legislative approach, using his deep knowledge of Capitol Hill to engage with key staffers on the Senate Intelligence and Armed Services Committees. He and Elizondo worked to educate lawmakers and arrange for them to be briefed directly by credible military eyewitnesses like Commander [[Dave Fravor]] and Lieutenant [[Alex Dietrich]]. Mellon's key strategic insight was to draft specific legislative language that would compel the Director of National Intelligence to produce an unclassified report on UAP. This language, which he championed through op-eds and private meetings, was eventually included in the committee report accompanying the Intelligence Authorization Act for Fiscal Year 2021, signed into law in December 2020. This led to the landmark June 2021 "Preliminary Assessment: Unidentified Aerial Phenomena."[^1]
+
+His legislative efforts continued, culminating in the passage of even more robust UAP provisions in subsequent National Defense Authorization Acts (NDAAs). This included the creation of the [[All-domain Anomaly Resolution Office]] (AARO) and, most significantly, the establishment of a secure whistleblower process, allowing individuals with knowledge of secret UAP programs to testify to Congress without fear of reprisal. This legislative work has been the single most effective driver of the modern disclosure movement.[^1]
+
+### Footnotes
+[^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.

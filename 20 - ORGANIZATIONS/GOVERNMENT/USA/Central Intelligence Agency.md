@@ -18,7 +18,7 @@ The CIA, particularly through its Photographic Intelligence Division, was instru
 
 The CIA's interest in psi research dates back to the early 1970s, partly in response to rumors of extensive Soviet psi research. Following a number of scandals in the mid-1970s, including revelations of domestic spying, the CIA came under unprecedented scrutiny from Congress. This led to a preference for "clean" spying methods, making psychic intelligence an appealing, low-profile alternative to traditional human intelligence (HUMINT).[^1]
 
-In 1972, the CIA, through officials like [[Ken Kress]] from the Technical Services Division (TSD) (later the Office of Technical Service, OTS), provided the initial funding for [[Hal Puthoff]]'s psi research program at [[Stanford Research Institute]] (SRI). This funding, initially $50,000 for eight months, was contingent on the researchers demonstrating a repeatable psi phenomenon. The Office of Research and Development (ORD) also jointly managed the funding and contract.[^1]
+In 1972, the CIA, through officials like [[Ken Kress]] from the Technical Services Division (TSD) (later the Office of Technical Service, OTS), provided the initial funding for [[Hal Puthoff]]'s psi research program at [[Stanford Research Institute]] (SRI). This funding, initially $50,000 for eight months, was contingent on the researchers demonstrating a repeatable psi phenomenon. The Office of Research and Development (ORD) also jointly managed the funding and contract.[^1] In the late 1960s, the CIA had approached [[Harold "Hal" Puthoff]] and Russell Targ at Stanford University to develop a program to counter a similar effort in the Soviet Union, which led to the creation of the [[Stargate Project]], a program that trained individuals in [[Remote Viewing]] to spy on foreign targets. The program was reportedly highly successful, and Puthoff reported directly to the Director of the CIA and the White House.[^11]
 
 #### Notable Operations and Impact
 
@@ -52,6 +52,14 @@ The CIA sent the [[Inter-Services Intelligence|Inter-Services Intelligence (ISI)
 
 In 1980, [[Jimmy Carter]] signed a presidential "finding" authorizing the CIA to aid the Afghan rebels in "harassment" of the Soviet occupying forces through secret supplies of light weapons and limited funds.[^10] This became the largest covert-action program since [[World War Two]].[^10]
 
+### UAP Research and Secrecy
+
+The CIA has a long and complex history with the [[Unidentified Anomalous Phenomena]] (UAP) issue. The agency has been a key player in the government's long-standing policy of secrecy and denial on the UAP topic. The Robertson Panel, a CIA-sponsored committee in 1953, recommended a policy of debunking UAP reports and using the mass media to ridicule the topic. This policy was highly effective in creating the stigma that has surrounded the UAP issue for decades.[^11]
+
+The CIA is also said to have operated a little-known "weird desk," which was responsible for investigating unusual medical issues, implants, and abductions related to UAP encounters. [[Dr. William Livingston]], who served as a medical advisor to the [[Advanced Aerospace Threat Identification Program]] (AATIP), is described as having presided over this desk.[^11]
+
+In recent years, the CIA has been more involved in the official UAP investigation. The agency was a participant in the [[UAP Task Force]] and is a member of the current [[All-domain Anomaly Resolution Office]] (AARO). However, the agency's long history of secrecy and obfuscation on the UAP topic has led to a great deal of skepticism about its willingness to be fully transparent.[^11]
+
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
@@ -64,3 +72,4 @@ In 1980, [[Jimmy Carter]] signed a presidential "finding" authorizing the CIA to
 [^8]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 347.
 [^9]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 334.
 [^10]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 341.
+[^11]: Elizondo, Luis. *Imminent*. William Morrow, 2024.

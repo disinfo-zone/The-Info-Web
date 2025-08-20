@@ -16,6 +16,21 @@ Puthoff's involvement in psi research escalated after he was contacted by artist
 
 Puthoff became a central figure in the U.S. government's psychic spying program, which eventually became known as [[STARGATE PROJECT|Grill Flame]]. He and Targ published their findings in reputable scientific journals like *Nature* and *Proceedings of the IEEE*, despite significant controversy and skepticism from the scientific community. They also developed new terminology, such as "remote viewing," to describe the phenomena they were studying, aiming for a more scientific and sober approach. Puthoff was known for his calm demeanor, which helped him navigate the controversial field of parapsychology. He also conducted experiments with other psychics, including [[Pat Price]] and [[Uri Geller]], and explored various psi phenomena such as psychokinesis and telepathy. He was instrumental in developing and refining remote viewing protocols, including "outbound remote viewing" and "coordinate remote viewing" (CRV).[^1]
 
+### Later Career and Advanced Aerospace Research
+
+Puthoff's government work extended far beyond remote viewing research. For over fifty years, he served as a chief scientist and senior scientific advisor on highly classified projects for various government entities, including the [[Department of Defense]] (DoD), the [[National Security Agency]] (NSA), and the [[Central Intelligence Agency]] (CIA). His expertise eventually led him to serve as the chief scientist for the [[Advanced Aerospace Threat Identification Program]] (AATIP), where he played a crucial role in the scientific analysis of [[Unidentified Anomalous Phenomena]] (UAP).[^2]
+
+In his AATIP role, Puthoff was instrumental in commissioning 38 academic studies, known as the Defense Intelligence Research Documents (DIRDs), on advanced aerospace concepts such as invisibility cloaking, traversable wormholes, and warp drives. He was also responsible for briefing [[Luis Elizondo]] on the history of the U.S. government's involvement with UAP, including sensitive information about the [[Roswell Incident]] in 1947 and the recovery of nonhuman materials and bodies.[^2]
+
+### Unified Theory of UAP Observables
+
+Drawing on his decades of experience in both conventional and anomalous physics, Puthoff developed a comprehensive theoretical framework to explain UAP behavior. Based on the six key observables of UAP performance identified by AATIP—hypersonic velocity, instantaneous acceleration, low observability, transmedium travel, antigravity, and biological effects—he proposed a unifying theory that all of these characteristics could be the result of a single breakthrough technology: the ability to warp space-time in a localized "bubble" around a craft.[^2]
+
+This "warp bubble" would effectively insulate the craft from the normal laws of physics, allowing for seemingly impossible maneuvers and speeds without subjecting occupants to lethal g-forces. Puthoff theorized that the energy required for such a feat could be harnessed from the vacuum of space (zero-point energy) or potentially from the protons in hydrogen, which could explain why UAP are often observed near bodies of water—Earth's oceans representing a vast fuel source.[^2]
+
+He further postulated that the common shapes of UAP—saucers, cigars, and triangles—are a direct consequence of the physics of the warp bubble, as these geometric forms are the most efficient for containing a craft within the bubble's protective field. Additionally, he suggested that the unusual material recovered from the [[Roswell Incident]], consisting of layered composites of bismuth and magnesium, could be a key component of the craft's skin, designed to interact with the propulsion system to generate and maintain the warp bubble.[^2]
+
 ---
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+[^2]: Elizondo, Luis. *Imminent*. William Morrow, 2024.

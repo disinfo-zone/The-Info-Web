@@ -18,8 +18,15 @@ Vallée drew an analogy between long-distance [[Telepathy|telepathy]] and his wo
 
 Vallée also commented on the mysterious death of [[Pat Price]], noting that when the [[FBI]] learned Price was a Scientologist, the church became a suspect in his death[^1].
 
+### Involvement with AATIP-Related Research
+
+Dr. Vallée has continued his scientific investigation of [[Unidentified Anomalous Phenomena]] (UAP) into the modern era. He was involved in scientific research related to the [[Advanced Aerospace Threat Identification Program]] (AATIP), collaborating with [[Dr. Garry Nolan]] on the analysis of a metallic slag recovered from a 1977 UAP crash in Council Bluffs, Iowa. Their research, published in the peer-reviewed journal "Progress in Aerospace Sciences," revealed that the material contained isotopes of magnesium and iron that were arranged in a highly structured and deliberate manner, a feat that is beyond our current technological capabilities.[^2]
+
+His scientific background has informed his approach to UAP research, which has focused on data analysis and the development of a classification system for UAP sightings. He is the author of numerous books on the UAP topic, including "Anatomy of a Phenomenon" and "Passport to Magonia," in which he has explored the parallels between modern UAP encounters and historical folklore and mythology. He worked closely with Dr. J. Allen Hynek, the scientific consultant for the U.S. Air Force's [[Project Blue Book]], and was the inspiration for the character of the French scientist, Claude Lacombe, in the movie "Close Encounters of the Third Kind."[^2]
+
 ## Publications
 *   *Forbidden Science 2*
 
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
