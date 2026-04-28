@@ -1,0 +1,29 @@
+---
+tags:
+  - Person
+  - Witness
+  - Associate-of-Robbie-Van-Der-Plancken
+  - Transvestite-Prostitute
+  - Amsterdam-Red-Light-Scene
+---
+
+Robert Jan Warmerdam operated as a transvestite prostitute in Amsterdam, Netherlands, providing testimony that linked child trafficking networks to the [[Marc Dutroux]] case and the [[Apollo Bulletin Board Service]] during the late 1990s. His accounts described associations with [[Robbie Van Der Plancken]] and [[Marc Dutroux]] at locations including the [[G-Force]] nightclub and hardcore studios [[Rex Productions]] and [[Roxanne Films]] at 111 Admiraal de Ruijter Road, owned by transvestite [[Didier Pellerin]]. Warmerdam's statements detailed a snuff film matching the "Poison Dwarf" video, involving a 13-year-old German boy suffocated in a bungalow near [[Amsterdam]], aligning with informant "Edward"'s account in [[Operation Framework]] of a boy suffocating on a boat during abuse by men.[^1]
+
+### Testimony on Snuff Films and Trafficking
+
+Robert Jan Warmerdam testified to knowing both [[Robbie Van Der Plancken]] and [[Marc Dutroux]], claiming they frequented the [[G-Force]] nightclub and studios [[Rex Productions]] and [[Roxanne Films]] in [[Amsterdam]]. He described a snuff film involving a 13-year-old German boy suffocated in a bungalow near [[Amsterdam]], which aligned with details from the "Poison Dwarf" video distributed by [[Gero-Video]] in Dusseldorf, Germany. Warmerdam's information contributed to the [[Morkhoven Workgroup]] dossier, including 20 CD-ROMs from the [[Apollo Disks]], sent to prosecutor [[Michel Bourlet]] overseeing the [[Marc Dutroux]] case in 2001 and leaked to the press before Dutroux's 2004 trial. This dossier linked [[Marc Dutroux]] to Amsterdam's red-light scene and international pedophile rings, including mentions of [[John Stamford]]'s [[Spartacus Network]] through companies [[Korper and Korver]] and [[Adonis]] connected to [[Karel Maasdam]]'s [[Bell Boys]] service and [[Festival Bar]].
+
+Warmerdam's accounts connected to the 1993 raid on [[Gero-Video]] during investigations into [[Warwick Spinks]]' [[TAG Films]] production company, confirming Van Der Plancken's appearance in at least five films. His testimony intersected with the [[HIK Investigation]] into Glandorf's smuggling of boys from Eastern Europe into Rotterdam brothels for VIP clients and pornographers. The dossier from Warmerdam's information exposed intersections with the [[Rolodex Investigation]] into Maasdam's VIP callboy service, implicating officials like [[Joris Demmink]] and [[Henry Hans Holthuis]]. Warmerdam's descriptions of the snuff film aligned with survivor accounts from the [[Marc Dutroux]], including those from [[Regina Louf|Regina Louf]], detailing similar abuses in Belgian and Dutch locations.
+
+Warmerdam's role as a witness extended to providing details on the broader network involving [[Lothar Glandorf]]'s brothels [[Euro Boys]] and [[Young Boys]] in [[Rotterdam]], where boys like [[Manuel Schadwald]] were forced into prostitution. His statements supported claims of sales to [[Warwick Spinks]] in [[Amsterdam]]'s Spuistraat district, where Spinks managed [[Gay Palace]] and [[Boys Club 21]]. The testimony contributed to the exposure of the [[Apollo Bulletin Board Service]] through connections to [[Gerrit-Jan Ulrich]], with Warmerdam's knowledge of the red-light scene linking to the [[Spartacus International]] and [[Toff's Travel]] operations. These details fueled probes into related entities such as [[CRIES]] and [[Centre du Christ Liberateur]], revealing patterns of abuse tied to [[Jean-Paul Dumont]] and [[Annie Bouty]].
+
+### Connections to Larger Networks
+
+Robert Jan Warmerdam's testimony bridged the [[Apollo Bulletin Board Service]] and the [[Marc Dutroux]], with his descriptions of snuff films matching materials on the [[Apollo Disks]] analyzed by [[Gina Pardaens-Bernaer]]. The leaked dossier from Warmerdam's information influenced international cooperation, including examinations of [[John David Norman]]'s records and [[Peter Righton]]'s pedophile information exchange. His accounts corroborated links to UK scandals, such as the [[Elm Guest House]] and [[Operation Yewtree]] inquiries into [[Jimmy Savile]] and [[Gary Glitter]]. Warmerdam's knowledge of the Amsterdam scene connected to the [[Walton Hop Disco]] and [[Stoke Lodge]] abuses, with testimonies aligning with those from [[David Smith]] and [[Lee Sullivan]].
+
+Warmerdam's statements on the "Poison Dwarf" film implicated [[Robbie Van Der Plancken]]'s father, who claimed during his son's trial that Van Der Plancken appeared in the video where a boy from [[Berlin]] died. This tied to German reports confirming Van Der Plancken's appearance in five [[Gero-Video]] films, linked to the 1993 raid. Warmerdam's role as an associate of Van Der Plancken placed him within the network involving [[Karel Maasdam]]'s [[Bell Boys]] and [[Festival Bar]], exposed in the leaked [[HIK Report]]. The testimony supported claims of connections to [[Joris Demmink]] and [[Henry Hans Holthuis]] in the [[Rolodex Investigation]], with details on VIP callboy services.
+
+The broader implications of Warmerdam's testimony extended to the [[International Child Trafficking Network Overview]], with links to [[Francis Shelden]]'s [[Odyssey Foundation]] and [[John Stamford]]'s [[Spartacus Network]]. His accounts contributed to the understanding of cross-border operations from [[Berlin]] to [[Amsterdam]], involving [[Lothar Glandorf]] and [[Warwick Spinks]]. Warmerdam's witness role influenced subsequent probes like [[Operation Fernbridge]] and [[Operation Midland]], corroborating testimonies from the [[Marc Dutroux]] involving [[Jean-Michel Nihoul]] and [[Michel Nihoul]].[^1]
+
+### Footnotes
+[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.

@@ -30,6 +30,24 @@ The State Department received additional CIA intelligence throughout this period
 
 Rather than pursuing these criminal allegations, the State Department took steps to protect BCCI's operations. The department silenced [[Paula Hawkins]], provided reassurances to Pakistani leader [[Zia ul-Haq|Zia]], and worked to appease BCCI founder [[Agha Hasan Abedi]] regarding the bank's money-laundering activities in the [[Cayman Islands]].[^6]
 
+### Odyssey Network Evidence Destruction
+
+The State Department under Secretary of State [[Henry Kissinger]] played a central role in the destruction of evidence related to the [[Odyssey Network]] child trafficking investigation in 1973. The department received over 30,000 index cards containing client names from [[John David Norman]]'s operation and subsequently destroyed them, preventing further investigation into prominent individuals involved in the trafficking network.[^7]
+
+In August 1973, Dallas Police Lieutenant [[Harold Hancock]] arrested [[John David Norman]] and confiscated more than 30,000 index cards listing clients across the United States, including prominent people and federal employees in Washington. Hancock contacted the State Department through the [[Federal Bureau of Investigation|FBI]], believing a federal agency should handle the evidence. All cards were sent to Washington to the State Department, where they would later be destroyed.[^7]
+
+State Department counselor [[Matthew Nimetz]] confirmed the department received the cards but claimed officials determined they were "not relevant to any fraud case concerning a passport" and therefore destroyed them. Nimetz was unable to explain why the State Department only examined the cards from the standpoint of possible passport irregularities or why they were not turned over to the FBI or postal inspectors.[^7]
+
+The State Department later confirmed in an official statement to the [[Chicago Tribune]] in 1977 and in a letter to a US congressional inquiry into child exploitation that the evidence had been destroyed. According to their records, the cards were placed into State Department storage in December 1974, where they remained "without review" until being destroyed in September 1975.[^7]
+
+During the investigation, Dallas PD mentioned to a State Department agent that two names found on the index cards matched those of State Department employees. This information was relayed to Washington before September 5, 1973. The State Department confirmed two of its employees had similar names to ones found on client index cards, with one having been assigned to the US embassy in Mexico City. No further investigation was conducted into these connections.[^7]
+
+In late 1976, the [[Federal Bureau of Investigation|FBI]] requested to review the Odyssey Network materials in State Department storage as part of an investigation into information that government employees had been clients of the network. The State Department advised the FBI that all evidence had unfortunately been destroyed except for a few items.[^7]
+
+The timeline of State Department involvement raises questions about the destruction of evidence. Norman's Dallas arrest occurred in August 1973, with the "kill" photographs discovered at that time. The State Department destroyed the evidence in September 1975, and in June 1975, charges against Norman from his Dallas arrest were dismissed. The timing suggests the evidence destruction may have been related to the dismissal of charges. Shortly after Norman published his first newsletter from Cook County Jail in 1977, someone in California provided the $36,000 cash needed for his bail. The source of this funding was never identified by police, raising questions about who may have had an interest in Norman's release and the destruction of the client evidence.[^7]
+
+The State Department's handling of the Odyssey Network evidence represents one of the most significant examples of obstruction in child trafficking investigations, preventing the identification and prosecution of numerous high-profile clients involved in Norman's national trafficking operation.[^7]
+
 ### Footnotes
 
 [^1]: Seymour, Cheri. _The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal_. First Edition. TrineDay, 2010. 
@@ -38,3 +56,4 @@ Rather than pursuing these criminal allegations, the State Department took steps
 [^4]: Beaty, Jonathan and Gwynne, S. C. _The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI_. New York: Random House, 1993, p. 12. 
 [^5]: Beaty, Jonathan and Gwynne, S. C. _The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI_. New York: Random House, 1993, p. 366. 
 [^6]: Beaty, Jonathan and Gwynne, S. C. _The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI_. New York: Random House, 1993, p. 363.
+[^7]: Dovey, S. (2023). _Eye of the Chickenhawk_. United States: Thehotstar.

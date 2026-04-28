@@ -1,0 +1,38 @@
+---
+tags:
+  - Person
+  - Child_Pimp
+  - Criminal
+  - Illinois
+  - 1970s
+  - Delta_Project
+  - Child_Trafficking
+  - Odyssey_Foundation
+---
+Phillip R. Paske, a 25-year-old convicted murderer and thief, served as the closest associate of [[John David Norman]] in the [[Odyssey Network]], also known as the [[Odyssey Foundation]] and later rebranded as [[Delta Project]]. A tall, slimly built transvestite in his twenties with long blond hair, Paske met Norman while incarcerated in Cook County Jail, where he faced charges for accessory to murder, later pled down to theft. Paroled in January 1976 despite his probation status, Paske continued to manage Norman's child trafficking enterprise, operating out of a basement apartment on W. Wrightwood Avenue in [[Chicago, Illinois]], which functioned as a photography studio for producing child pornography.[^1]
+
+Paske acted as custodian of The Delta Project during periods when Norman was imprisoned, managing its activities which included recruiting local [[Chicago, Illinois]], boys for prostitution and pornography. After Norman's early release in May 1977, Paske and Norman blacked out the windows of their apartment to facilitate these operations. Paske's background as a child pimp extended to his employment as a children's supervisor at a public swimming pool in [[Chicago, Illinois]], a position he lost following Norman's arrest in June 1978.[^1]
+
+### Criminal Activities
+Paske played a key role in The Delta Project, a rebranded iteration of [[John David Norman]]'s [[Odyssey Foundation]], which operated as a nationwide male prostitution ring involving young boys and the distribution of child pornography through newsletters and advertisements. From inside Cook County Jail, Paske helped Norman use jail printing facilities to produce and mail three newsletters promoting The Delta Project to homosexual clients across the country. After his parole, Paske continued running the operation, including setting up a photography studio in their [[Chicago, Illinois]], apartment where they recruited and exploited local boys for sex and explicit materials.[^1]
+
+The Delta Project under Paske's involvement maintained operations in [[Chicago, Illinois]], [[New Orleans, Louisiana]], and [[California]], sending out newsletters detailing available boys and services while continuing child trafficking activities. In June 1978, police raided the apartment after a report from [[Michael Salcido]], seizing thousands of index cards with client details for an organization called The Creative Corps, which Paske and Norman used to sponsor boys for prostitution. Paske's criminal activities centered on child pimping, pornography production, and trafficking, directly linking to the exploitation of underage males for commercial purposes.[^1]
+
+Paske was implicated in the procurement of boys for sex and movies, as detailed in payroll records showing his employment at [[John Wayne Gacy]]'s PDM Construction company in September 1978, just months before Gacy's arrest. Receipts dated September 12, 19, and 25, 1978, confirm Paske's work there, during which he had keys to Gacy's house and allegedly used it for illicit activities when Gacy was absent. These actions tied Paske to a broader network of child exploitation, including potential involvement in snuff films as claimed by Gacy in 1992 interviews.[^1]
+
+### Connections
+Paske was a close associate of [[John David Norman]], meeting him in Cook County Jail where he assisted in launching The Delta Project and later cohabited with him in a [[Chicago, Illinois]], apartment for pornography production. [[Charles Rehling]], a client of Norman's Epic International service, leased his apartment to Norman under the alias Steven Gurwell, indirectly connecting Paske to the property used for Delta Project operations. [[Kenneth Hellstrom]], a boy who testified against Norman in 1976, was murdered in January 1977, with Paske emerging as a prime suspect due to his role in the network, though the case remained unsolved for decades until 2007.[^1]
+
+Paske connected to [[John Wayne Gacy]] through employment at Gacy's PDM Construction, with payslips confirming his work in September 1978 and Gacy later stating in 1992 that Paske was introduced via [[David Cram]] and served as a dangerous child pimp procuring boys for sex and films. [[Michael Salcido]], who reported Norman to police in June 1978 leading to the apartment raid where Paske lived, was murdered in February 1979 with his throat slit, positioning Paske as a suspect given Salcido's impending testimony against Norman. Gacy claimed Paske, along with Cram and [[Michael Rossi]], had access to his Norwood Park home and were involved in the murders of boys like [[Robert Piest]], [[John Butkovich]], and [[John Szyc]] during periods of Gacy's absence.[^1]
+
+Paske's ties extended to Norman's broader network, including links to operations in [[New Orleans, Louisiana]], via [[Troop 137]] and publications like Hermes, which advertised Delta Project services. Through Gacy, Paske connected to political figures in [[Chicago, Illinois]], as Gacy's home inventory listed files on payoffs to city inspectors and politicians, potentially overlapping with Paske's procurement activities. These connections formed a web of child trafficking involving pimping, pornography, and possible murders tied to silencing witnesses.[^1]
+
+### Legal Outcome
+Paske was arrested alongside [[John David Norman]] in November 1973 during a raid on [[Charles Rehling]]'s Homewood apartment, where police found [[Odyssey Foundation]] materials, but specific charges against Paske from this incident are not detailed beyond his incarceration for prior offenses. He was paroled in January 1976 despite ongoing involvement in The Delta Project, avoiding immediate charges for jail-based operations. In June 1978, following the raid on the Wrightwood Avenue apartment after [[Michael Salcido]]'s report, Paske was released without charge despite living there and being linked to the seized client cards for The Creative Corps.[^1]
+
+Paske became a prime suspect in [[Kenneth Hellstrom]]'s January 1977 murder due to Hellstrom's testimony against Norman, but no conviction resulted, and the case went cold until [[Fred Rogers]] confessed in 2007. Similarly, Paske was suspected in [[Michael Salcido]]'s February 1979 murder, as Salcido was set to testify against Norman, but the case was attributed to drug dealers with no charges against Paske. During [[John Wayne Gacy]]'s 1980 trial, Paske was listed as a potential witness for both prosecution and defense, but he was never charged in connection to Gacy's crimes despite payroll evidence and Gacy's 1992 claims of his involvement in procuring victims and snuff films.[^1]
+
+Paske's legal entanglements culminated in his loss of employment as a children's supervisor in 1978 following Norman's arrest, but he faced no further convictions for child trafficking or pimping documented in the records. Gacy's pre-execution statements in 1992 naming Paske as an accomplice prompted no new investigations or charges against him. Overall, Paske evaded conviction for his central role in The Delta Project and related activities, remaining free after 1978 without documented legal repercussions for child exploitation.[^1]
+
+### Footnotes
+[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.

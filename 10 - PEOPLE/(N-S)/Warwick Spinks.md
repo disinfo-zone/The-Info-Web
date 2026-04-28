@@ -1,0 +1,29 @@
+---
+tags:
+  - Person
+  - Child_Abuser
+  - UK
+  - Amsterdam
+  - 1980s
+  - 1990s
+  - Operation_Framework
+  - Snuff_Films
+---
+
+Warwick Spinks was a British child trafficker and pedophile who operated in [[Amsterdam]] during the 1980s and 1990s. He managed the Gay Palace, a boy brothel masquerading as a gay nightclub in Amsterdam's Spuistraat district. Spinks was involved in mail order boy prostitution and pornography, pioneering the trafficking of boys as young as 10 from [[London]] streets and later from Eastern Europe after the Soviet Union's collapse. He operated multiple criminal enterprises including a mail order pornography business originally run from [[Brighton]] before moving to Amsterdam, a boy trafficking operation bringing children from London and Eastern Europe to Amsterdam, a concierge service renting apartments to foreign pedophiles and acting as their facilitator, and canal boat operations using boats outside central Amsterdam as discreet locations for his escort service.[^1]
+
+### Criminal Operations and The Blue Boy Incident
+
+In August 1993, a British boy escaped from The Blue Boy nightclub in Amsterdam's Spuistraat district and sought help at the UK Embassy. The boy, a runaway from [[Hastings]], reported that Spinks had picked him up off the street in London, kept him drugged with LSD and raped him at knifepoint, transported him to Amsterdam in a drug-induced stupor, and sold him into prostitution. Spinks received a seven-year sentence that was reduced to five, of which he served only three and a half years. Upon release, he immediately violated parole and fled to the [[Czech Republic]], where he remained undisturbed for over a decade. In November 2012, he was briefly extradited back to the UK just weeks into [[Operation Yewtree]] and before [[Operation Fernbridge]] launched into the [[Elm Guest House]]. He was soon released and returned to [[Prague]].[^1]
+
+Spinks was named as an alleged visitor to the Elm Guest House, where VIP child abuse was investigated. Police reportedly re-examined his files amid claims he was a regular visitor and that a boy had died at the club while an MP was present. His business operations included [[TAG Films]], a production company linked to German distributor [[Gero-Video]] in [[Dusseldorf]]. The 1993 investigation into Spinks and [[TAG Films]] led to a German police raid of Gero-Video. Spinks was also implicated in the disappearance of 12-year-old German boy [[Manuel Schadwald]], as [[Robbie Van Der Plancken]] testified that Manuel Schadwald was sold to Spinks in Amsterdam. Multiple sources confirmed Spinks' connection to the case through the [[Zandvoort]] child pornography investigation, with evidence suggesting Manuel Schadwald was murdered in connection with this network.[^1]
+
+### Snuff Film Allegations and Criminal Network
+
+Spinks was the primary target of [[Operation Framework]] (1992-93), a joint Dutch/[[Metropolitan Police]] investigation into suspected [[snuff film]] pornography production. Multiple informants provided detailed testimony about Spinks' activities. An informant named "Frank" described a snuff film shown by Spinks featuring a boy being tortured with needles, then castrated and cut open with a knife in a barn. Another informant "Terry" described a similar snuff film with identical torture methods but filmed in an apartment. A third informant "Edward" claimed to have seen at least five snuff films produced by Spinks and associates at locations including a house in [[Hoofddorp]] and a houseboat. Scotland Yard informants reported seeing films at the [[Gay Palace]] showing boys aged 11-14 being raped by masked men.[^1]
+
+Spinks made a damning admission to an undercover officer, stating: "I know the person who made the film. I felt sorry for this boy, it was a German Boy. About 13, 15. He thought he was going to make 200 guilders and ended up being dead." Spinks described the snuff film business as producing "limited editions" with only 10 copies sold for $5,000 each to wealthy American customers. His key associates included [[Alan Williams]] ("The Welsh Witch") who managed [[Boys Club 21]], another boy brothel across from The Blue Boy, [[Lee Tucker]] and [[John Gay]] who were Welsh pedophiles that formed [[TAG Films]] production company with Williams, [[Lothar Glandorf]] who was a German child trafficker owning boy brothels in [[Rotterdam]], and [[Russell Tricker]] who was an associate of [[Spartacus International]]'s [[Peter Glencross]]. Spinks also linked up with [[Chris Denning]], the former [[BBC]] DJ, in Prague after his prison release, demonstrating the international connections between various pedophile networks operating across Europe.[^1]
+
+### Footnotes
+
+[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
