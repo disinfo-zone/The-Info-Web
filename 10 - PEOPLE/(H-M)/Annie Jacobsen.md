@@ -6,6 +6,8 @@ tags:
   - Person
   - RemoteViewer
 summary: "Annie Jacobsen is an American investigative journalist and author, known for her non-fiction books focusing on government secrecy, national security, and warfare."
+born: 1967-06-28
+location: "Middletown, Connecticut"
 ---
 
 Annie Jacobsen is an American investigative journalist and author, known for her non-fiction books focusing on government secrecy, national security, and warfare. She is a graduate of Princeton University.

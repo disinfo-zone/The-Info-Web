@@ -5,6 +5,9 @@ tags:
   - Military
   - Israel
 summary: "Amos Lapidot was the chief of staff of the Israeli Air Force."
+born: 1934
+died: 2019-11-20
+location: "Kfar Saba, Israel"
 ---
 
 Amos Lapidot was the chief of staff of the Israeli Air Force. He assured [[Aviem Sella]] that [[Jonathan Pollard]] was not a rogue and that clearance for Sella's new assignment as Pollard's handler had been obtained from [[Yitzhak Rabin]], the minister of defense.[^1]

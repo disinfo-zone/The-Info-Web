@@ -1,10 +1,13 @@
 ---
-category: "Key Figures"
+category: “Key Figures”
 tags:
   - Person
   - Stargate
   - CIA
-summary: "Henry Karel “Andrija” Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S."
+summary: “Henry Karel “Andrija” Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S.”
+born: 1918-02-19
+died: 1995-01-03
+location: “Chicago, Illinois, USA”
 ---
 
 
