@@ -4,6 +4,8 @@ tags:
   - Person
   - CIA
 summary: "Jonathan King was a former BBC Radio One DJ and associate of Chris Denning who became implicated in investigations into BBC pedophile rings."
+born: 1944-12-06
+location: "London, England"
 ---
 
 Jonathan King was a former BBC Radio One DJ and associate of [[Chris Denning]] who became implicated in investigations into [[BBC]] pedophile rings. The information which paved the way for King's downfall was first identified by the National Criminal Intelligence Service (NCIS). King first came to the attention of its Serious Sex Offenders Unit following a sex abuse case in the Czech Republic in 1997 involving Chris Denning.[^1]

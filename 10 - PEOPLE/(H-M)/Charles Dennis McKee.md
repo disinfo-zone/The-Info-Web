@@ -4,6 +4,9 @@ tags:
   - Person
   - PROMIS
 summary: "Major and senior member of the CIA's MC-10 intelligence cell killed on Pan Am Flight 103 over Scotland after returning from a Beirut mission."
+born: 1948-12-03
+died: 1988-12-21
+location: "Wilkinsburg, Pennsylvania"
 ---
 
 [[Charles Dennis McKee]] was a Major and a senior member of the [[Middle East Collection 10]] (MC-10) cell in [[Cyprus]] and Beirut. He was on Pan Am Flight 103, along with [[Matthew Kevin Gannon]], when it exploded over Scotland. They had just returned from a mission in Beirut.[^1]

@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Kennedy's presidency was marked by a struggle with Israel over its nuclear ambitions, particularly concerning the Dimona reactor."
+born: 1917-05-29
+died: 1963-11-22
+location: "Brookline, Massachusetts"
 ---
 
 John F. Kennedy was the 35th President of the [[United States]], serving from 1961 until his assassination in 1963. He was intellectually and emotionally committed to a halt in the spread of nuclear weapons, with nonproliferation being a topic he would discuss for hours.[^1]

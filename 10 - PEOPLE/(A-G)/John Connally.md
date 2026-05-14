@@ -7,6 +7,9 @@ tags:
   - October Surprise
   - Politician
 summary: "John Connally was Governor of Texas and Treasury Secretary who in July-August 1980, accompanied by Ben Barnes, allegedly toured the Middle East carrying a message from the Reagan campaign to Arab intermediaries: Iran would receive better terms for hostage release with Reagan than with Carter, so they should counsel the Iranians to wait."
+born: 1917-02-27
+died: 1993-06-15
+location: "Floresville, Texas"
 ---
 John Bowden Connally Jr. was born February 27, 1917, in Floresville, Texas. He served in the U.S. Navy during World War II, rising to lieutenant commander and serving as an aide at the time of the Battle of the Philippine Sea. He was elected Governor of Texas three times (1963-1969) as a Democrat and was riding in President [[John F. Kennedy]]'s motorcade in Dallas on November 22, 1963, when he was seriously wounded in the same attack that killed Kennedy. He served as Secretary of the Navy under President [[Lyndon B. Johnson]] and as Secretary of the Treasury under President [[Richard Nixon]] from 1971 to 1972. He switched to the Republican Party in 1973. He mounted a campaign for the 1980 Republican presidential nomination, spending more than $11 million but winning only a single delegate before withdrawing from the race. He supported [[Ronald Reagan]] in the general election. He died June 15, 1993, in Houston.[^1]
 

@@ -7,6 +7,9 @@ tags:
   - Israel
   - Military
 summary: "39th U.S. President who led nuclear nonproliferation efforts against South Africa, provided Israel KH-11 satellite access, and oversaw early psychic research funding."
+born: 1924-10-01
+died: 2024-12-29
+location: "Plains, Georgia"
 ---
 
 James Earl "Jimmy" Carter Jr. was the 39th President of the [[United States]], serving from 1977 to 1981. His presidency was marked by significant challenges in foreign policy, nuclear nonproliferation efforts, and involvement with unconventional intelligence programs.

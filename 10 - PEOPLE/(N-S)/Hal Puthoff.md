@@ -6,6 +6,8 @@ tags:
   - CIA
   - SRI
 summary: "American engineer and parapsychologist who led the SRI remote viewing program and later served as chief scientist for AATIP studying UAP."
+born: 1936-06-20
+location: "Chicago, Illinois, USA"
 ---
 
 Harold E. "Hal" Puthoff is an American engineer and parapsychologist. In the early 1950s, as a junior high school student in Miami, he was a shy and quiet kid who loved tinkering with electronics, building gadgets, and operating a ham radio. He played the electric steel Hawaiian guitar in a band and dreamed of becoming a radio deejay. His father had passed away, and he lived with his mother and aunt, with limited financial resources. He attended a vocational high school.[^1]

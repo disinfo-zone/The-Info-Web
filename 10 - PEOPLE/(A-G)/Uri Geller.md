@@ -5,6 +5,8 @@ tags:
   - Stargate
   - Military
 summary: "When Geller was ten, his parents separated, and he moved with his mother to Cyprus."
+born: 1946-12-20
+location: "Tel Aviv, British Mandate Palestine"
 ---
 
 

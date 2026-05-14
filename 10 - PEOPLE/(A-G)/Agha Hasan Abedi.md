@@ -6,6 +6,9 @@ tags:
   - Person
   - BCCI
 summary: "Agha Hasan Abedi was a Pakistani financier who founded the BCCI in 1972, with the intention of creating the Third World's first multinational bank."
+born: 1922-05-14
+died: 1995-08-05
+location: "Lucknow, India"
 ---
 
 Agha Hasan Abedi was a Pakistani financier who founded the [[Bank of Credit and Commerce International|BCCI]] in 1972, with the intention of creating the Third World's first multinational bank. He is described as a diminutive man, the son of petty bureaucrats, who handcrafted BCCI into one of the most powerful private organizations globally by the early 1980s.[^1] Abedi was a visionary and a romantic, a Muslim who drifted into the secretive Sufi sect, which influenced his unique business style. He incorporated Islamic mysticism into the bank's driving force, emphasizing spiritual progress and a democratic theory of management, which eventually devolved into corruption. He was known for his ability to build relationships with ruling elites and for his philanthropic efforts in the Third World.[^2]

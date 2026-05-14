@@ -5,6 +5,9 @@ tags:
   - Politician
   - Military
 summary: "Venezuelan President and ally of ousted Honduran president Manuel Zelaya who opposed the 2009 Honduras coup."
+born: 1954-07-28
+died: 2013-03-05
+location: "Sabaneta, Venezuela"
 ---
 [[Hugo Chavez]] was the [[Venezuelan President]]. He was a close ally of [[Manuel Zelaya]], the ousted president of [[Honduras]], and a "nemesis" of the [[United States]]. Chávez stated he would consider it an "act of war" if there were hostilities against his diplomats and put the armed forces of [[Venezuela]] on alert.[^1]
 

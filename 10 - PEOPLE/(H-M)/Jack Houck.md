@@ -6,6 +6,8 @@ tags:
   - Person
   - RemoteViewer
 summary: "Jack Houck was a systems engineer for Boeing Aerospace who became interested in psychokinesis (PK), particularly the phenomenon of metal bending."
+born: 1939
+died: 2013
 ---
 
 # Jack Houck

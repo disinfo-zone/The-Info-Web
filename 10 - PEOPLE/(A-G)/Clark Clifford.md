@@ -8,6 +8,9 @@ tags:
   - Banking
   - Lawyer
 summary: "Clark Clifford (1906-1997) was a Washington attorney who served as Special Counsel to President Truman, co-authored the National Security Act of 1947, served as Secretary of Defense under Lyndon Johnson, and became the central American figure in the BCCI scandal after he and his partner Robert Altman personally vouched to banking regulators that BCCI would not secretly own First American Bank -- a representation that proved false."
+born: 1906-12-25
+died: 1997-10-10
+location: "Fort Scott, Kansas"
 ---
 Clark McAdams Clifford was born December 25, 1906, in Fort Scott, Kansas. He earned a B.A. from Washington University in St. Louis in 1927 and an LL.B. from Washington University School of Law in 1928, after which he practiced law in St. Louis through World War II. He served in the Navy during the war, rising to captain, and arrived at the White House in 1946 as naval aide to President Harry S. Truman. He died October 10, 1997, in Bethesda, Maryland, at age 90.[^1]
 

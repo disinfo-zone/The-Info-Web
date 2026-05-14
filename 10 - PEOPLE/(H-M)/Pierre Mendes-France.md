@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Pierre Mendès-France was a French politician who served as Prime Minister of France from 1954 to 1955."
+born: 1907-01-11
+died: 1982-10-18
+location: "Paris, France"
 ---
 
 Pierre Mendès-France was a French politician who served as Prime Minister of [[France]] from 1954 to 1955. In late 1954, his coalition government granted authority for a nuclear weapons planning group to be formed inside the French Atomic Energy Commission, bringing senior officials of the ministry of defense into nuclear planning for the first time.[^1]

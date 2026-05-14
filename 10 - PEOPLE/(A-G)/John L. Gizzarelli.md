@@ -8,6 +8,9 @@ tags:
   - INSLAW
   - Navy
 summary: "John L. Gizzarelli, Jr., was a Navy cryptologic officer who worked on the 1969 PROMIS design team under Charles R. Work, Joan E. Jacoby, and Bill Hamilton, subsequently attended Georgetown Law School, served as an Assistant U.S. Attorney for DC, and served as general counsel at INSLAW in 1973."
+born: 1938
+died: 2021-02-18
+location: "Quincy, Massachusetts"
 ---
 John Laurence Gizzarelli, Jr., was born in Quincy, Massachusetts, in 1938. He graduated from Quincy High School in 1956 and from Boston University in 1961, and joined the Navy in November 1961. In 1962 he was a Lieutenant assigned to Cryptologic Warfare (MOS 1615 -- Information Warfare), stationed in Spain, Morocco, and Japan, and later was assigned to Naval Research. He remained in the Naval Reserve through at least 1977.[^1][^2]
 

@@ -10,6 +10,8 @@ tags:
   - INSLAW
   - October Surprise
 summary: "Ari Ben-Menashe is a self-proclaimed Israeli military intelligence officer who submitted affidavits to the House Judiciary Committee alleging Earl Brian sold PROMIS to Israeli intelligence and Singapore, then recanted to the Bua Report, admitting he had allowed investigators to assume he was referring to INSLAW's PROMIS to promote his book."
+born: 1951-12-04
+location: "Tehran, Iran"
 ---
 [[Ari Ben-Menashe]] is a self-proclaimed [[Israel|Israeli]] military intelligence officer, born in Tehran, [[Iran]] in 1951 to affluent Iraqi Jewish parents. He is multilingual, speaking Arabic, English, French, Farsi, Hebrew, and Spanish. His father, Gourdji, was involved with [[LEHI]] (Stern Gang) and knew [[Yitzhak Shamir]].[^3]
 

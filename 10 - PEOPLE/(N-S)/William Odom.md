@@ -6,6 +6,9 @@ tags:
   - Military
   - RemoteViewer
 summary: "U.S. Army Major General who succeeded Edmund Thompson as ACSI and was skeptical of the Grill Flame remote viewing program."
+born: 1932-06-23
+died: 2008-05-30
+location: "Cookeville, Tennessee"
 ---
 
 William Odom was a [[U.S. Army]] Major General who succeeded [[Edmund Thompson]] as the Army's Assistant Chief of Staff for Intelligence (ACSI) in 1981. Odom was generally skeptical of the [[STARGATE PROJECT|Grill Flame]] program, often expressing embarrassment that the Army was spending money on paranormal research.[^1]

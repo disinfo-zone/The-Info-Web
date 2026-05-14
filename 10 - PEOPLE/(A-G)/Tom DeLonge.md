@@ -4,6 +4,8 @@ tags:
   - Person
   - UFO
 summary: "DeLonge has had a lifelong interest in UAP and has used his celebrity to bring attention to the issue."
+born: 1975-12-13
+location: "Poway, California"
 ---
 [[Tom DeLonge]] is an American musician, singer, songwriter, author, record producer, actor, and filmmaker. He is the co-founder, co-lead vocalist, and guitarist of the rock band Blink-182. He is also the founder of [[To The Stars Academy of Arts & Science]] (TTSA), an organization dedicated to the investigation of [[Unidentified Anomalous Phenomena]] (UAP) and other fringe scientific topics.[^1]
 

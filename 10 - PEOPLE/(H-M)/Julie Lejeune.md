@@ -5,6 +5,9 @@ tags:
   - Belgium
   - Dutroux
 summary: "Julie Lejeune, an eight-year-old girl from Charleroi, Belgium, disappeared on July 9, 1995, alongside her friend Melissa Russo while riding bicycles near their neighborhood."
+born: 1986-11-29
+died: 1996
+location: "Charleroi, Belgium"
 ---
 
 

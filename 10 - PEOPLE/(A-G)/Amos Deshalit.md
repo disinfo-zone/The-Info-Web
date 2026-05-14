@@ -6,6 +6,9 @@ tags:
   - Physicist
   - Israel
 summary: "Amos Deshalit was a prominent Israeli physicist who headed the physics division at the Weizmann Institute of Science."
+born: 1926-09-29
+died: 1969-09-02
+location: "Jerusalem, British Mandate of Palestine"
 ---
 
 Amos Deshalit was a prominent Israeli physicist who headed the physics division at the [[Weizmann Institute of Science]]. He was considered a quantum researcher in the same class as [[J. Robert Oppenheimer]] and [[Niels Bohr]].[^1]

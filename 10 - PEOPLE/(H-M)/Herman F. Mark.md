@@ -5,6 +5,9 @@ tags:
   - WW2
   - Nazi
 summary: "Mark was driven out of Europe in 1938 by the Nazis and eventually became dean of faculty at the Polytechnic Institute of Brooklyn, turning it into a haven for Jewish refugees, including Chaim Weizmann."
+born: 1895-05-03
+died: 1992-04-06
+location: "Vienna, Austria"
 ---
 
 Herman F. Mark was an Austrian chemist who became an eminent figure in polymer science. He was a colleague of [[Ernst David Bergmann]] at the Emil Fischer Institute of the University of Berlin in the early 1920s, where they worked together and published joint papers on the chemical structure of rubber, paint, and adhesives.[^1]

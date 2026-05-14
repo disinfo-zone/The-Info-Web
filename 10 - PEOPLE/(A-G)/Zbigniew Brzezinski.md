@@ -7,6 +7,9 @@ tags:
   - Politician
   - Israel
 summary: "Brzezinski dismissed suggestions from Prime Minister Begin that the U.S."
+born: 1928-03-28
+died: 2017-05-26
+location: "Warsaw, Poland"
 ---
 
 [[Zbigniew Brzezinski]] was the [[United States|U.S.]] National Security Adviser during the [[Jimmy Carter|Carter]] administration, playing a key role in foreign policy decisions during a period of significant Middle Eastern upheaval.

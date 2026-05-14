@@ -7,6 +7,7 @@ tags:
   - Person
   - RemoteViewer
 summary: "Andrea Stocco is a co-director at the Institute for Learning and Brain Sciences (I-LABS) at the University of Washington in Seattle."
+location: "Palmanova, Friuli, Italy"
 ---
 
 Andrea Stocco is a co-director at the [[Institute for Learning and Brain Sciences]] (I-LABS) at the [[University of Washington]] in [[Seattle]]. He is involved in research on [[Synthetic Telepathy]], specifically focusing on direct brain-to-brain communication[^1].

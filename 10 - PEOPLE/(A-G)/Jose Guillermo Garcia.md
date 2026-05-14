@@ -9,6 +9,8 @@ tags:
   - Contra_War
   - Dark_Alliance_Investigation
 summary: Salvadoran defense minister linked to death squad activities who received Pyramid International's security proposal in 1982.
+born: 1933-06-25
+location: "El Salvador"
 ---
 General José Guillermo García was the Salvadoran defense minister who received a security proposal from [[Pyramid International Security Consultants]] in October 1982.[^1] García was linked by human rights organizations to death squad activities and the slaughter of hundreds of peasants at a village called El Mozote in December 1981.
 

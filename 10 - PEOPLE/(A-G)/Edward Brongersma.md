@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Edward Brongersma was a Dutch Senator and prominent advocate for the legalization of pedophilia in the Netherlands."
+born: 1911-08-31
+died: 1998-04-22
+location: "Haarlem, Netherlands"
 ---
 
 

@@ -6,6 +6,9 @@ tags:
   - CIA
   - RemoteViewer
 summary: "Sidney Gottlieb was a CIA chemist and spymaster, notorious for his involvement in controversial programs like Project MKUltra, which explored mind control and chemical interrogation."
+born: 1918-08-03
+died: 1999-03-07
+location: "Bronx, New York"
 ---
 
 Sidney Gottlieb was a [[Central Intelligence Agency|CIA]] chemist and spymaster, notorious for his involvement in controversial programs like [[Project MKUltra]], which explored mind control and chemical interrogation. In 1977, Gottlieb testified at a congressional hearing, revealing a strange complaint made by President [[Richard Nixon|Nixon]].[^1]

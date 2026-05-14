@@ -4,6 +4,9 @@ tags:
   - Person
   - BCCI
 summary: "Robin Leigh-Pemberton served as the Governor of the Bank of England."
+born: 1927-01-05
+died: 2013-11-24
+location: "Hollingbourne, Kent, England"
 ---
 
 Robin Leigh-Pemberton served as the Governor of the [[Bank of England]].[^1]

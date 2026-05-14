@@ -6,6 +6,9 @@ tags:
   - Israel
   - Military
 summary: "Charles de Gaulle was a French general and statesman who led the Free French Forces during World War II and later founded the Fifth Republic, serving as its first President from 1959 to 1969."
+born: 1890-11-22
+died: 1970-11-09
+location: "Lille, France"
 ---
 
 Charles de Gaulle was a French general and statesman who led the Free French Forces during World War II and later founded the Fifth Republic, serving as its first President from 1959 to 1969. He was emphatically in favor of an independent nuclear deterrent for [[France]].[^1]

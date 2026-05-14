@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - SRI
 summary: "Hella Hammid was a professional photographer and psychic who participated in Project Deep Quest, a unique psychic functioning experiment conducted in the summer of 1977."
+born: 1921-07-15
+died: 1992-05-01
+location: "Kronberg, Germany"
 ---
 
 # Hella Hammid

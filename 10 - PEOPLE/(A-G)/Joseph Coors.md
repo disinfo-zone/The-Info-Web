@@ -5,6 +5,9 @@ tags:
   - PROMIS
   - CIA
 summary: "Prominent right-wing activist, Heritage Foundation associate, and FGBMFI member connected to the PROMIS/Cabazon network."
+born: 1917-11-12
+died: 2003-03-15
+location: "Golden, Colorado"
 ---
 [[Joseph Coors]] was a prominent right-wing activist and a member of FGBMFI (Full Gospel Business Men's Fellowship International). He was associated with the [[Heritage Foundation]].[^1]
 

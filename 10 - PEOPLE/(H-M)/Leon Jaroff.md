@@ -7,6 +7,9 @@ tags:
   - Skeptic
   - Magician
 summary: "Leon Jaroff was a senior editor at *Time* magazine."
+born: 1927-02-27
+died: 2012-10-20
+location: "Detroit, Michigan"
 ---
 
 Leon Jaroff was a senior editor at *Time* magazine. He is known for his article, "The Magician and the Think Tank," published on March 12, 1973, which reported on [[Uri Geller]]'s testing at [[Stanford Research Institute|SRI]] and the controversy surrounding it[^1].

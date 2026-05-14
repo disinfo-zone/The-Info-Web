@@ -6,6 +6,9 @@ tags:
   - Military
   - Stargate
 summary: "American businessman who founded The Monroe Institute, known for Hemi-Sync audio technology and out-of-body experience research used by Stargate remote viewers."
+born: 1915-10-30
+died: 1995-03-17
+location: "Lexington, Kentucky, USA"
 ---
 
 

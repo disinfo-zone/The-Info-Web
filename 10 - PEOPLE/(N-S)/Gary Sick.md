@@ -9,6 +9,8 @@ tags:
   - NSC
   - Author
 summary: "Gary Sick was the principal White House aide for Iran on the Carter National Security Council during the 1979-1981 hostage crisis, and subsequently authored October Surprise (1991), the book that launched congressional investigations into allegations that Reagan's campaign secretly negotiated with Iran to delay the hostages' release."
+born: 1935-04-04
+location: "USA"
 ---
 Gary Sick is a retired U.S. Navy captain who served as the principal staff member of the National Security Council responsible for Iran during the administrations of Presidents Ford, Carter, and Reagan. He was the NSC's primary Iran analyst throughout the 444-day hostage crisis of 1979-1981, serving at the nexus of all diplomatic and intelligence information regarding the hostage situation as it developed.[^1]
 

@@ -6,6 +6,7 @@ tags:
   - Israel
   - Military
 summary: "After the deaths of Freddie and Herut (Ari Ben-Menashe's daughter), Ora and Ari Ben-Menashe began a relationship in late 1986, eventually living together in Jerusalem."
+location: "United States"
 ---
 
 [[Ora Ben-Shalom]] is the wife of [[Ari Ben-Menashe]]. She was born in the [[United States|United States]] to a [[Canada|Canadian]] Jewish mother and an [[Austria|Austrian]] Jewish father. Her family moved to [[Israel]] when she was 12, and they changed their family name from Friedman to Ben-Shalom. The family was religiously observant and ultra-rightwing politically.[^1]

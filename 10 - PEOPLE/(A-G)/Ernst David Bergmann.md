@@ -5,6 +5,9 @@ tags:
   - WW2
   - Nazi
 summary: "Ernst David Bergmann was a German-born Israeli organic chemist, widely considered the scientific father of the Israeli nuclear bomb."
+born: 1903
+died: 1975-04-06
+location: "Karlsruhe, Germany"
 ---
 
 Ernst David Bergmann was a German-born Israeli organic chemist, widely considered the scientific father of the Israeli nuclear bomb. A refugee from Nazi Germany, he became director of the chemistry division at the [[Weizmann Institute of Science]] after [[Israel]]'s War of Independence in 1948. He was also chairman of [[Israel]]'s Atomic Energy Commission, established in 1952, and publicly advocated for nuclear research for peaceful purposes.[^1]

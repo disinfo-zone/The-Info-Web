@@ -6,6 +6,9 @@ tags:
   - RemoteViewer
   - SRI
 summary: "Pat Price was a retired police commissioner from Burbank, California, who joined the Stanford Research Institute (SRI) remote viewing program in 1973."
+born: 1918-12-08
+died: 1975-07-14
+location: "Salt Lake City, Utah"
 ---
 
 Pat Price was a retired police commissioner from Burbank, California, who joined the [[Stanford Research Institute]] (SRI) remote viewing program in 1973. He was a graying, semi-retired, somewhat grizzled-looking fellow in his fifties who lived at Lake Tahoe. He had a small building-contractor business and also raised Christmas trees to sell in the Bay Area. He met [[Hal Puthoff]] at a lecture and later while selling Christmas trees in Mountain View. Price considered himself a psychic, claiming to have developed important leads on difficult cases during his time as a police commissioner in Burbank, thanks to spontaneously received information. He would even sit in the police dispatcher's office, trying to get psychic impressions of criminals' hiding places.[^1]

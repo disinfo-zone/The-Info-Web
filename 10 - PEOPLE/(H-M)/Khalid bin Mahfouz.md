@@ -9,6 +9,9 @@ tags:
   - PROMIS
   - OctopiNetwork
 summary: "Khalid bin Mahfouz (1949-2009) was a Saudi billionaire banker who owned approximately 20% of BCCI, was indicted by a Manhattan grand jury in July 1992 on charges of defrauding BCCI depositors of $300 million, settled all charges for $225 million in December 1993, and was named in a May 1985 Department of Justice document as the intended recipient of espionage-modified PROMIS software brokered by Manucher Ghorbanifar, Adnan Khashoggi, and Richard Armitage."
+born: 1949-12-26
+died: 2009-08-16
+location: "Jeddah, Saudi Arabia"
 ---
 Khalid Salim bin Mahfouz was born December 26, 1949, in Jeddah, Saudi Arabia. His father, Salem bin Mahfouz, was a Yemeni-born money-changer who founded the [[National Commercial Bank]] (NCB), the first and largest private bank in Saudi Arabia. Khalid succeeded his father in management of NCB and by the 1990s personally held a 75% stake in the institution, with his wife Naela Kaaki holding the remaining 25%. In 1999, following the collapse of [[Bank of Credit and Commerce International|BCCI]], the Saudi government purchased a controlling 50% stake in NCB for at least $1 billion -- partly used to retire Khalid's personal debts -- after which the Mahfouz family retained a 34% stake but Khalid surrendered all management positions. Khalid bin Mahfouz died August 16, 2009, in Jeddah.[^1]
 

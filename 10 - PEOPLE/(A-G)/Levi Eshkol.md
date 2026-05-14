@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Levi Eshkol was an Israeli politician who served as Prime Minister of Israel from 1963 to 1969."
+born: 1895-10-25
+died: 1969-02-26
+location: "Oratov, Kiev Governorate, Russian Empire (now Ukraine)"
 ---
 
 Levi Eshkol was an Israeli politician who served as Prime Minister of [[Israel]] from 1963 to 1969. He had spent eleven years as finance minister, much of it in a struggle against funding for [[Dimona]], and was far less committed emotionally than [[David Ben-Gurion]] to the concept of spending hundreds of millions of dollars annually on nuclear activity. Eshkol prioritized better weapons and training for the army and air force, which he and his supporters saw as [[Israel]]'s most immediate need.[^1]

@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "In 1970, Otis, along with Pat Boone, Shirley Boone, and Harold Bredesen, prayed with then-California Governor Ronald Reagan at his home in Sacramento."
+born: 1917-04-20
+died: 2007-07-22
+location: "Payne, Ohio, USA"
 ---
 [[George Otis]] (April 20, 1917 – July 22, 2007) was a former Lear executive and a member of [[Full Gospel Business Men's Fellowship International|FGBMFI]]. He was a significant figure in Christian broadcasting and evangelism, particularly in the Middle East, and had notable connections within political circles.[^1][^2]
 

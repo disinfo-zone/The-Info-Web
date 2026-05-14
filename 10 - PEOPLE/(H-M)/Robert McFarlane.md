@@ -6,6 +6,9 @@ tags:
   - 1980s
   - Contra_War
 summary: Robert McFarlane served as Ronald Reagan's national security adviser and in January 1985 advised FDN leader Adolfo Calero that it might be time to consider cutting losses on the Contra project.
+born: 1937-07-12
+died: 2022-05-12
+location: "Washington, D.C., USA"
 ---
 Robert "Bud" McFarlane served as President [[Ronald Reagan]]'s national security adviser during the period when the [[Contras]] reached their lowest ebb, both on the battlefield and in the battle for U.S. public opinion during the winter of 1984–85.[^1]
 

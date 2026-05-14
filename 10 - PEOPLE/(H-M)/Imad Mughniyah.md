@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Imad Mughniyah (1962–2008) was a prominent leader of Hezbollah's terrorist operations."
+born: 1962-12-07
+died: 2008-02-12
+location: "Tayr Dibba, Lebanon"
 ---
 
 Imad Mughniyah (1962–2008) was a prominent leader of [[Hezbollah]]'s terrorist operations. He was believed to have carefully orchestrated the abduction of Marine Lieutenant Colonel [[William Richard Higgins]] in [[Lebanon]] in 1988[^1].

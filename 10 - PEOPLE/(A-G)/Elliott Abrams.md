@@ -5,6 +5,8 @@ tags:
   - u.s.-government
   - contra-war
 summary: Elliott Abrams was the Assistant Secretary of State who oversaw Central American policy and pressured NHAO officials to hire Oliver North's associates for Contra supply operations.
+born: 1948-01-24
+location: "New York City, New York"
 ---
 Elliott Abrams was the Assistant Secretary of State who oversaw Central American policy and pressured [[NHAO]] officials to hire [[Oliver North]]'s associates for Contra supply operations. Abrams served as the political point man for the Reagan administration's [[Contras|Contra]] funding strategy.[^1]
 

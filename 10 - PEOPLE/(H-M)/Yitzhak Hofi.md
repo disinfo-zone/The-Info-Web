@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Yitzhak Hofi was the director of Mossad, Israel's primary foreign intelligence service."
+born: 1927-01-25
+died: 2014-09-15
+location: "Tel Aviv, Israel"
 ---
 
 Yitzhak Hofi was the director of [[Mossad]], [[Israel]]'s primary foreign intelligence service. He opposed the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981, primarily because there was no evidence that [[Iraq]] was yet capable of building a bomb. He was joined in this futile dissent by [[Yehoshua Saguy]], chief of military intelligence, and [[Yigael Yadin]], the deputy prime minister.[^1]

@@ -6,6 +6,8 @@ tags:
   - Military
   - SRI
 summary: "Patricia Campbell Hearst is an American newspaper heiress who was kidnapped in 1974 by the Symbionese Liberation Army (SLA), a radical left-wing organization."
+born: 1954-02-20
+location: "San Francisco, California, USA"
 ---
 
 

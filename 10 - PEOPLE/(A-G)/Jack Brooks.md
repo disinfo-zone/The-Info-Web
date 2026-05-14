@@ -10,6 +10,9 @@ tags:
   - Lawyer
   - IranContra
 summary: "Jack Brooks (1922-2012) was a Texas Democrat who represented the Beaumont area in Congress for 42 years, chaired the House Judiciary Committee from 1989 to 1995, and presided over the three-year INSLAW investigation that produced House Report 102-857 (September 1992), which found that the Department of Justice had stolen PROMIS software and named Edwin Meese and Richard Thornburgh as having obstructed the inquiry."
+born: 1922-12-18
+died: 2012-12-04
+location: "Crowley, Louisiana"
 ---
 Jack Bascom Brooks was born December 18, 1922, in Crowley, Louisiana. His family moved to Beaumont, Texas, in 1927. He enlisted in the U.S. Marine Corps in 1942 and served overseas for 23 months at Guadalcanal, Guam, Okinawa, and northern China before being discharged as a first lieutenant in 1946. He earned his law degree from the University of Texas School of Law in 1949 and was admitted to the Texas bar the same year. Brooks represented Texas's 2nd Congressional District from 1953 to 1967, then Texas's 9th Congressional District (Beaumont and Jefferson County) from 1967 to 1995. He died December 4, 2012, in Beaumont, at age 89.[^1]
 

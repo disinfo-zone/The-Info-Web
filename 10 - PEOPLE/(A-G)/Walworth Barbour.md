@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Walworth Barbour was the American ambassador to Israel from 1961 to 1973, serving longer in one post than all but three other American ambassadors."
+born: 1908-06-04
+died: 1982-07-21
+location: "Cambridge, Massachusetts"
 ---
 
 Walworth Barbour was the American ambassador to [[Israel]] from 1961 to 1973, serving longer in one post than all but three other American ambassadors. He was a compelling presence, described as a tall, shy, hugely overweight diplomat with a gluttonous appetite and acute emphysema. He constantly sprayed his throat with a vaporizer, wore yellowing white suits with brown-and-white shoes, and walked with a shambling gait. Barbour spoke no Hebrew and rarely attended educational, cultural, or social events, yet he was beloved by [[Israel]]'s leadership.[^1]

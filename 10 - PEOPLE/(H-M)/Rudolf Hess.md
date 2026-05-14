@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Rudolf Hess was a prominent figure in Nazi Germany, serving as Adolf Hitler's deputy."
+born: 1894-04-26
+died: 1987-08-17
+location: "Alexandria, Egypt"
 ---
 
 

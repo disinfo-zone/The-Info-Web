@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "In 1981, Bull approached Israel Military Industries in Israel hoping to sell his project, but they were more interested in missile technology."
+born: 1928-03-09
+died: 1990-03-22
+location: "North Bay, Ontario, Canada"
 ---
 
 [[Gerald Bull]] was a Canadian scientist and aeronautical engineer known for his work on long-range artillery, particularly the "supergun" project. He was involved in developing artillery that could shoot payloads over remarkable distances without the need for missiles.[^1]

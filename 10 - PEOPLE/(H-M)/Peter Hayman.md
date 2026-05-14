@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Sir Peter Hayman served as deputy-director of MI6 and was a known pedophile within Margaret Thatcher's inner circle."
+born: 1914-06-14
+died: 1992-04-06
+location: "United Kingdom"
 ---
 
 Sir Peter Hayman served as deputy-director of [[British Intelligence]] and was a known pedophile within [[Margaret Thatcher]]'s inner circle. He regularly attended civic functions at the Australian High Commissioner's residence at [[Stoke Lodge]] in Kensington alongside [[Margaret Thatcher]], her private secretary [[Peter Morrison]], and Home Secretary [[Leon Brittan]]. Hayman's position within [[British intelligence]] and his proximity to the highest levels of government placed him at the center of VIP pedophile networks operating in London during the 1970s and 1980s[^1].

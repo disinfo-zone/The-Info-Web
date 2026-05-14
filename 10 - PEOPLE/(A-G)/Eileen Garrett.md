@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Eileen Garrett was an Irish medium who was well-known in New York City parapsychology circles."
+born: 1893-03-17
+died: 1970-09-15
+location: "Beauparc, County Meath, Ireland"
 ---
 
 

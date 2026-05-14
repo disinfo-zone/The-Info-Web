@@ -6,6 +6,9 @@ tags:
   - Physicist
   - Israel
 summary: "Shalheveth Freier was an Israeli nuclear physicist with impeccable credentials."
+born: 1920-07-16
+died: 1994-11-27
+location: "Germany"
 ---
 
 Shalheveth Freier was an Israeli nuclear physicist with impeccable credentials. He served as scientific counselor to the Israeli embassy in [[Paris]] during the critical days of the 1950s, when the Israeli–French nuclear understanding was reached. Freier enjoyed high standing among international scientists and was particularly well known to American nuclear weapons designers.[^1]

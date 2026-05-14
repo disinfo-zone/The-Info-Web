@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "In 1956, Golda Meir replaced Moshe Sharett as Foreign Minister, bringing her distinctive approach to Israel's international relations."
+born: 1898-05-03
+died: 1978-12-08
+location: "Kyiv, Ukraine (then Russian Empire)"
 ---
 
 [[Golda Meir]] was a prominent [[Israel|Israeli]] politician who served as Foreign Minister and later as Prime Minister, playing crucial roles in [[Israel]]'s diplomatic relations, nuclear policy decisions, and regional strategic calculations during some of the most critical periods in the nation's history.

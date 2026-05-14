@@ -1,12 +1,14 @@
 ---
-category: "Key Figures"
+category: “Key Figures”
 tags:
   - Person
   - Stargate
   - CIA
   - Military
   - RemoteViewer
-summary: "Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey."
+summary: “Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey.”
+born: 1947
+location: “Glendale, California”
 ---
 
 

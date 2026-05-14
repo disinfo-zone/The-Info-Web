@@ -6,6 +6,9 @@ tags:
   - DEA
   - 1980s
 summary: DEA agent Enrique "Kiki" Camarena was tortured and murdered in Mexico in February 1985, an investigation that uncovered CIA collaboration with Mexican drug cartels providing support to the Contras.
+born: 1947-07-26
+died: 1985-02
+location: "Mexicali, Mexico"
 ---
 [[DEA]] agent Enrique "Kiki" Camarena was abducted, tortured, and murdered by Mexican drug traffickers in February 1985 in Guadalajara, [[Mexico]]. His death at the hands of Mexican traffickers made him a hero to many narcotics agents and triggered a massive investigation that exposed unexpected connections between drug trafficking and the [[Central Intelligence Agency]]'s [[Contras|Contra]] operations.[^1]
 

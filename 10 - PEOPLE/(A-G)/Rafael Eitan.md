@@ -9,6 +9,9 @@ tags:
   - Military
   - PROMIS
 summary: "Rafael Eitan, also known as 'Rafi the stinker,' was an ambitious Israeli clandestine operative and a crony of Ariel Sharon."
+born: 1926-11-23
+died: 2019-03-23
+location: "Kibbutz Ein Harod, British Mandate Palestine"
 ---
 Rafael Eitan, also known as "Rafi the stinker," was an ambitious Israeli clandestine operative and a crony of [[Ariel Sharon]]. He was appointed the new head of [[LAKAM]] (Science Liaison Bureau) and also served as [[Menachem Begin]]'s special assistant for counterterrorism. Eitan had participated in the 1960 kidnapping of [[Adolf Eichmann]] in [[Buenos Aires]] and was a veteran of many operations inside the Arab world. He had been forced to resign from [[Mossad]] years earlier and was bitter about his stunted career and the failure of [[Mossad]] and [[Israel]]'s other intelligence agencies to cooperate with his counterterrorism office.[^1]
 

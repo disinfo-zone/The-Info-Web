@@ -8,6 +8,8 @@ tags:
   - RemoteViewer
   - Military
 summary: "**Eugene 'Gene' Alden Lessman** was a U.S."
+died: 2019
+location: "Dundrum, County Down, Northern Ireland"
 ---
 
 **Eugene "Gene" Alden Lessman** was a U.S. Army intelligence officer and an important recruiter for "spooky" work according to [[Luis Elizondo]] in his 2024 book, _Imminent_. Known as Gene, he was also known by the name John James Kielty[^2] and passed away in 2019. Like his father before him, Gene spent much of his career in military intelligence and became a lead recruiter for the Army's "Great Skills" program.[^1]

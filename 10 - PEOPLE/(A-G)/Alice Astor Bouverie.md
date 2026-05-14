@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Alice Astor Bouverie was an American heiress, philanthropist, and the only daughter of John Jacob Astor IV, who died in the sinking of the RMS Titanic."
+born: 1902-07-07
+died: 1956-07-19
+location: "Manhattan, New York City"
 ---
 
 

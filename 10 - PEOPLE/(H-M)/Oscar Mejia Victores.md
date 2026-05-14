@@ -4,6 +4,9 @@ tags:
   - Person
   - PROMIS
 summary: "Guatemalan general who seized power in a 1983 coup during a period when Guatemala was a key node in Israeli arms-running and PROMIS software deployment."
+born: 1930-12-09
+died: 2016-02-01
+location: "Guatemala"
 ---
 [[Oscar Mejia Victores]] was a General who seized power in [[Guatemala]] in a coup in August 1983, ousting [[General Rios Montt]].[^1]
 

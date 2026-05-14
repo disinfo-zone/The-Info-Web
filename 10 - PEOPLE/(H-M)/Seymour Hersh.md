@@ -5,6 +5,8 @@ tags:
   - Nuclear
   - Israel
 summary: "Hersh conducted extensive research for *The Samson Option*, interviewing many senior American officials, most of whom spoke for the first time about their knowledge of Israel's nuclear arsenal."
+born: 1937-04-08
+location: "Chicago, Illinois, USA"
 ---
 
 [[Seymour Hersh]] is an [[United States|American]] investigative journalist and author. His book, *The [[Samson Option]]: Israel's Nuclear Arsenal and American Foreign Policy*, published in 1991, details how [[Israel]] secretly became a nuclear power and how this secret was largely ignored or sanctioned by top U.S. officials since the [[Dwight D. Eisenhower|Eisenhower]] years.[^1][^2]

@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - Military
 summary: "Jack Anderson (1922–2005) was a Pulitzer Prize-winning American investigative journalist and syndicated columnist for *The Washington Post*."
+born: 1922-10-19
+died: 2005-12-17
+location: "Long Beach, California"
 ---
 
 Jack Anderson (1922–2005) was a Pulitzer Prize-winning American investigative journalist and syndicated columnist for *The Washington Post*. He was known for his muckraking style and his ability to uncover classified government information[^1].

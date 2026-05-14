@@ -4,6 +4,9 @@ tags:
   - Person
   - Military
 summary: "Shamsud-Din Jabbar (terrorist) was 42 when he died while performing the New Orleans Truck Attack."
+born: 1982-10-26
+died: 2025-01-01
+location: "Beaumont, Texas, USA"
 ---
 
 Shamsud-Din Jabbar ([[act of terrorism|terrorist]]) was 42 when he died while performing the [[New Orleans Truck Attack]]. He was born in Beaumont, Texas[^2] and raised Muslim, but strayed and only recently returned. His last address was in Houston.[^1]

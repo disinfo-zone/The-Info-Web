@@ -9,6 +9,8 @@ tags:
   - CIA
   - RemoteViewer
 summary: "Robert Gates is an American government official who served as the Director of Central Intelligence (DCI) from 1991 to 1993."
+born: 1943-09-25
+location: "Wichita, Kansas"
 ---
 
 Robert Gates is an American government official who served as the Director of Central Intelligence (DCI) from 1991 to 1993. He was also an analyst on loan to the [[National Security Council|NSC]] from the [[Central Intelligence Agency|CIA]] during the [[Cold War]][^1][^2].

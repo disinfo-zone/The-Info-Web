@@ -6,6 +6,9 @@ tags:
   - Politician
   - Israel
 summary: "President of Peru who declared martial law in Ayacucho in 1980 due to the growing influence of the Shining Path Maoist terrorist group."
+born: 1949-05-23
+died: 2019-04-17
+location: "Lima, Peru"
 ---
 
 [[Alan Garcia]] was the President of [[Peru]]. In 1980, he declared the department of [[Ayacucho]] under martial law due to the growing influence of the [[Shining Path]], a Maoist terrorist group led by [[Abimael Guzman Reynoso]].[^1]

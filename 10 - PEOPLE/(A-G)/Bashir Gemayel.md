@@ -6,6 +6,9 @@ tags:
   - Politician
   - Israel
 summary: "Elected president of Lebanon after the 1982 Israeli invasion; reportedly on the CIA payroll and assassinated before taking office."
+born: 1947-11-10
+died: 1982-09-14
+location: "Bikfaya, Lebanon"
 ---
 [[Bashir Gemayel]] was elected president of [[Lebanon]] after the 1982 Israeli invasion. He was reportedly on the [[Central Intelligence Agency|CIA]] payroll. Before he could take office, Gemayel was killed by an assassin's bomb. His brother, [[Amin Gamayel]], was subsequently installed as president.[^1]
 

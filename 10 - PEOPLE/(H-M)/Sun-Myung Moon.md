@@ -5,6 +5,9 @@ tags:
   - religious
   - contra-war
 summary: Sun Myung Moon was the Korean religious leader whose Unification Church had connections to the Contra support network through its anti-Communist political activities.
+born: 1920-01-06
+died: 2012-09-03
+location: "Kwangju Sangsa Ri, North P'yongan, Korea (now North Korea)"
 ---
 Sun Myung Moon was the Korean religious leader whose [[Unification Church]] had connections to the [[Contras|Contra]] support network through its anti-Communist political activities. Moon's organization shared the Reagan administration's anti-Communist ideology and provided support to causes aligned with the Contra war.[^1]
 

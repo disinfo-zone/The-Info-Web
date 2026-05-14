@@ -10,6 +10,9 @@ tags:
   - Journalist
   - Dark_Alliance_Investigation
 summary: "Joseph Daniel Casolaro was an American freelance journalist investigating a sprawling criminal conspiracy he called 'The Octopus,' linking the PROMIS software theft to Iran-Contra, the October Surprise, and BCCI. He was found dead in a Martinsburg, West Virginia hotel room on August 10, 1991, his wrists slashed twelve times, in a death officially ruled suicide."
+born: 1947-06-16
+died: 1991-08-10
+location: "Fort Meade, Maryland"
 ---
 Joseph Daniel Casolaro (June 16, 1947 — August 10, 1991) was an American freelance journalist and former computer-trade magazine owner. Born in Fort Meade, Maryland, he grew up in McLean, Virginia, attended Providence College until 1968, and married Terrill Pace, a former Miss Virginia, with whom he had one son, Trey. He owned several computer-industry trade publications through the 1970s and 1980s, which he sold toward the end of the decade. In early 1990, he returned to investigative journalism, beginning the work that would consume the last eighteen months of his life.[^1]
 

@@ -9,6 +9,9 @@ tags:
   - Soviet
   - Military
 summary: "**Rise to Power and Pan-Arab Vision**"
+born: 1918-01-15
+died: 1970-09-28
+location: "Alexandria, Egypt"
 ---
 
 [[Gamal Abdel Nasser]] (1918–1970) was the second President of [[Egypt]], serving from 1956 until his death in 1970. He was a prominent figure in Arab nationalism and a key leader in the non-aligned movement during the [[Cold War]].[^1]

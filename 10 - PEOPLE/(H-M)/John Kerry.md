@@ -6,6 +6,8 @@ tags:
   - CIA
   - Dark_Alliance_Investigation
 summary: "Senator from Massachusetts who chaired the Subcommittee on Terrorism, Narcotics, and International Operations, investigating both BCCI and links between the Contras and cocaine trafficking with findings that were systematically suppressed."
+born: 1943-12-11
+location: "Aurora, Colorado"
 ---
 John Kerry is a former Democratic Senator from [[Massachusetts]] who chaired the Subcommittee on Terrorism, Narcotics, and International Operations of the Senate Foreign Relations Committee.[^1]
 

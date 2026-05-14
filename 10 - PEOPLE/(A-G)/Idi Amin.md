@@ -6,6 +6,9 @@ tags:
   - Israel
   - Military
 summary: "Relations between Israel and Uganda deteriorated after Col."
+born: 1925
+died: 2003-08-16
+location: "Koboko, Uganda"
 ---
 
 [[Idi Amin]] was the self-proclaimed president of [[Uganda]]. He was installed in a military coup planned and led by former [[Israel|Israeli]] military attaché Col. Baruch Bar Lev. Relations between [[Israel]] and [[Idi Amin|Amin]] were at their lowest at the time of the 1976 [[Entebbe hijacking]].[^1]

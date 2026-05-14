@@ -8,6 +8,8 @@ tags:
   - 1980s
   - Contra_War
 summary: Felix Rodriguez was a CIA agent and Bay of Pigs veteran who oversaw Oliver North's Contra resupply operation at Ilopango Air Force Base under the alias "Max Gomez."
+born: 1941-05-31
+location: "Havana, Cuba"
 ---
 Felix Rodriguez was a [[Cuba|Cuban]]-born [[Central Intelligence Agency]] paramilitary specialist and [[Bay of Pigs]] veteran who participated in the capture and execution of [[Che Guevara]]. In early 1985, Rodriguez appeared in [[El Salvador]] as an adviser to the Salvadoran Air Force, working on a helicopter-based counterinsurgency operation against the [[FMLN]] guerrillas. Though Rodriguez claimed to be retired from the CIA and merely a volunteer, former CIA official [[Alan Fiers]] testified that Rodriguez was sent to El Salvador as part of a CIA reorganization after Fiers took over the Central American Task Force, to fill "a void" in certain operations.[^1]
 

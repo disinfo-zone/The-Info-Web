@@ -7,6 +7,8 @@ tags:
   - Military
   - RemoteViewer
 summary: "Graff's interest in psi phenomena stemmed from a personal experience in 1968, where he had a profound out-of-body experience while caught in a rip current."
+born: 1934-12-13
+location: "Lynn Township, Lehigh County, Pennsylvania"
 ---
 
 

@@ -4,6 +4,9 @@ tags:
   - Person
   - Israel
 summary: "After the Shah's departure from Iran in January 1979, Bakhtiar proved unable to function effectively."
+born: 1914-06-26
+died: 1991-08-06
+location: "Shahr-e Kord, Iran"
 ---
 
 [[Shahpour Bakhtiar]] was the last prime minister appointed by [[Mohammad Reza Pahlavi|the Shah]] of [[Iran]], serving as a compromise with the opposition. He was a supporter of [[Mohammed Mossadegh]] and a member of the National Front.[^1]

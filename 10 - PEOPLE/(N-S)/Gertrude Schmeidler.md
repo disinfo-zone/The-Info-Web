@@ -7,6 +7,9 @@ tags:
   - Person
   - Skeptic
 summary: "Gertrude Schmeidler was an experimental psychologist with a PhD from Harvard University."
+born: 1912-06-15
+died: 2009-03-09
+location: "USA"
 ---
 
 Gertrude Schmeidler was an experimental psychologist with a PhD from [[Harvard University]]. In 1942, she conducted an experiment on anomalous mental phenomena with psychology students at [[City University of New York]]. Her analysis of the data led her to coin the terms "sheep" and "goats" to categorize individuals based on their beliefs about [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]][^1].

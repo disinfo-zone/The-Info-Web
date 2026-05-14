@@ -5,6 +5,9 @@ tags:
   - WW2
   - Nazi
 summary: "Fazle Haq was a Pakistani general who smuggled U.S."
+born: 1928-09-10
+died: 1991-10-03
+location: "Mardan, Northwest Frontier Province, British India"
 ---
 
 Fazle Haq was a Pakistani general who smuggled U.S. supplies through [[Pakistan]]'s North-West Frontier Province into [[Afghanistan]].[^1] He was appointed governor of Pakistan's North-West Frontier Province in 1978.[^2]

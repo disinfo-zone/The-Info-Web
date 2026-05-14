@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "Charles Bohlen (1904–1974) was a distinguished American diplomat who served as the U.S."
+born: 1904-08-30
+died: 1974-01-01
+location: "Clayton, New York"
 ---
 
 Charles Bohlen (1904–1974) was a distinguished American diplomat who served as the U.S. Ambassador to the [[Soviet Union]] from 1953 to 1957. He was one of the ambassadors who was subjected to the [[Moscow Signal]], a microwave beam aimed at the [[U.S. Embassy in Moscow]] by the Soviets[^1].

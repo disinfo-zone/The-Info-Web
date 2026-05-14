@@ -5,6 +5,9 @@ tags:
   - BCCI
   - CIA
 summary: "Swaleh Naqvi was the chief operating officer of BCCI, taking over after Agha Hasan Abedi's 1988 heart attack."
+born: 1933
+died: 2019-09-07
+location: "Agra, British India"
 ---
 
 Swaleh Naqvi was the chief operating officer of [[Bank of Credit and Commerce International|BCCI]], taking over after [[Agha Hasan Abedi]]'s 1988 heart attack.[^1]

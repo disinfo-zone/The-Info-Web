@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Yigal Allon was a 1948 war hero and a close adviser to Prime Minister Levi Eshkol."
+born: 1918-10-10
+died: 1980-02-29
+location: "Kfar Tavor, British Mandate Palestine"
 ---
 
 Yigal Allon was a 1948 war hero and a close adviser to Prime Minister [[Levi Eshkol]]. He was an advocate of [[West Bank]] resettlement. Allon, along with [[Yitzhak Rabin]] and [[Ariel Sharon]], believed that [[Israel]]'s essential advantage over the Arabs was the quality and training of its military personnel, and viewed nuclear weapons as nothing more than a great equalizer.[^1]

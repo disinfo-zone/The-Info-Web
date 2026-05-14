@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Flournoy attributed her abilities to Cryptomnesia and Glossolalia, arguing that the content she produced originated from forgotten memories and unconscious processes rather than genuine psychic phenomena."
+born: 1861-12-09
+died: 1929-06-10
+location: "Martigny, Switzerland"
 ---
 
 

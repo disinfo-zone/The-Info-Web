@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Daniel Ellsberg was an American activist and former military analyst who famously leaked the Pentagon Papers to the *New York Times* in 1971."
+born: 1931-04-07
+died: 2023-06-16
+location: "Chicago, Illinois"
 ---
 
 Daniel Ellsberg was an American activist and former military analyst who famously leaked the Pentagon Papers to the *New York Times* in 1971. In 1963, he was involved in high-level nuclear weapons issues as a deputy in the [[Pentagon]]'s Office of International Strategic Affairs. He recalled seeing a "Top Secret, Eyes Only" memorandum from [[McGeorge Bundy]] to President [[John F. Kennedy]] summarizing a change in policy toward the French, indicating that the [[United States]] would cooperate with [[France]] and allow them to use the [[Nevada]] test site for underground testing. This memorandum was dated November 22, 1963, the day of Kennedy's assassination.[^1]

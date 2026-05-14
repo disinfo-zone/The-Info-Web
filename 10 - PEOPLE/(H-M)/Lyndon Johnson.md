@@ -4,6 +4,9 @@ tags:
   - Person
   - Politician
 summary: "As Senate Majority Leader, Johnson made Bobby Baker his secretary of the Senate Democrats in 1955, referring to Baker as 'my strong right arm, the last man I see at night, the first I see in the morning.' A major scandal brewed around Baker in the autumn of 1963, involving numerous questionable deal"
+born: 1908-08-27
+died: 1973-01-22
+location: "Stonewall, Texas"
 ---
 [[Lyndon B. Johnson]] served as the 36th President of the [[United States]]. His rise to power emanated directly from his friends in Texas oil, including the [[Clint Murchison, Sr.|Murchison family]].[^1]
 

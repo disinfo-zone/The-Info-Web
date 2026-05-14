@@ -5,6 +5,8 @@ tags:
   - OrganizedCrime
   - Cartel
 summary: "Three audio tapes of conversations between Rodriguez and Samper's campaign manager, Santiago Medina, were handed over to U.S."
+born: 1950-08-03
+location: "Bogotá, Colombia"
 ---
 [[Ernesto Samper Pizano]] was the newly elected president of [[Colombia]]. He was accused of taking $3.7 million in campaign funds from [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]], a leader of the [[Cali Drug Cartel]]. This accusation effectively aligned Samper with [[Colombia]]'s drug lords.[^1]
 

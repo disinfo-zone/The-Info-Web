@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "John Wayne Gacy (March 17, 1942 – May 10, 1994) murdered at least 33 young men and boys in the Chicago, Illinois, area during the 1970s."
+born: 1942-03-17
+died: 1994-05-10
+location: "Chicago, Illinois"
 ---
 
 John Wayne Gacy (March 17, 1942 – May 10, 1994) murdered at least 33 young men and boys in the [[Chicago]], area during the 1970s. Gacy operated under the cover of a construction business and political involvement. Gacy owned [[Painting Decorating Maintenance]] (PDM) in [[Chicago]].[^1]

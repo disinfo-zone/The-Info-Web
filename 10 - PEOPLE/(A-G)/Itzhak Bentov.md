@@ -8,6 +8,9 @@ tags:
   - CIA
   - RemoteViewer
 summary: "Itzhak Bentov was an Israeli rocket scientist, biomedical engineer, and author known for his work on 'the mechanics of consciousness.' He designed Israel's first rocket for the War of Independence and invented the steerable cardiac catheter, which paved the way for many biomedical engineering invent"
+born: 1923-08-09
+died: 1979-05-25
+location: "Humenné, Czechoslovakia (now Slovakia)"
 ---
 
 Itzhak Bentov was an Israeli rocket scientist, biomedical engineer, and author known for his work on "the mechanics of consciousness." He designed [[Israel]]'s first rocket for the War of Independence and invented the steerable cardiac catheter, which paved the way for many biomedical engineering inventions[^1].

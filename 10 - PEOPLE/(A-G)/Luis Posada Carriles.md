@@ -9,6 +9,9 @@ tags:
   - 1980s
   - Contra_War
 summary: Veteran CIA agent and terrorist with a documented history of drug trafficking who ran day-to-day Contra resupply operations at Ilopango Air Force Base under the alias Ramon Medina.
+born: 1928-02-15
+died: 2018-05-23
+location: "Cienfuegos, Cuba"
 ---
 Luis Posada Carriles was a veteran [[Central Intelligence Agency]] agent with a history of involvement with drug traffickers, mobsters, and terrorists who ran day-to-day Contra resupply operations at [[Ilopango Airbase|Ilopango Air Force Base]] under the alias "Ramon Medina." He was recruited by [[Felix Rodriguez]] as his right-hand man after escaping from Venezuelan prison in 1985.[^1]
 

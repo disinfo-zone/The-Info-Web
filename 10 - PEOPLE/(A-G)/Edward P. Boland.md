@@ -4,6 +4,9 @@ tags:
   - person
   - contra-war
 summary: Edward P. Boland was the Massachusetts congressman who sponsored the Boland Amendments prohibiting U.S. military aid to the Contras.
+born: 1911-10-01
+died: 2001-11-04
+location: "Springfield, Massachusetts"
 ---
 Edward P. Boland was the Massachusetts Democratic congressman who sponsored the [[Boland Amendment|Boland Amendments]], the series of congressional provisions that prohibited the use of taxpayer funds for covert military operations against [[Nicaragua]]. The amendments, passed between 1982 and 1984, were named after Boland as chairman of the House Intelligence Committee.[^1]
 

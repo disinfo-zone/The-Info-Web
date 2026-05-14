@@ -6,6 +6,9 @@ tags:
   - Politician
   - Military
 summary: "After the coup, Rodriguez became the President of Paraguay and continued to rule the country with the blessing of the U.S."
+born: 1923-06-19
+died: 1997-04-21
+location: "San Salvador de Guairá, Paraguay"
 ---
 
 [[Andres Rodriguez]] was a General in [[Paraguay]] and the head of the military school. He was a powerful figure in the country, considered by some to be the second most powerful man after [[Alfredo Stroessner|President Stroessner]]. He was believed to be a [[Central Intelligence Agency|CIA]] agent and had an exclusive on importing [[United States|American]] cigarettes to [[Paraguay]].[^1]

@@ -5,6 +5,9 @@ tags:
   - Israel
   - Soviet
 summary: "In 1972, Brezhnev met with Golda Meir, then Prime Minister of Israel, in Finland."
+born: 1906-12-19
+died: 1982-11-10
+location: "Kamenskoye, Ukraine (Russian Empire)"
 ---
 
 [[Leonid Brezhnev]] was a prominent political figure in the [[Soviet Union]] who played a significant role in Middle Eastern affairs during the 1970s, particularly in relation to [[Israel]] and the Arab states.

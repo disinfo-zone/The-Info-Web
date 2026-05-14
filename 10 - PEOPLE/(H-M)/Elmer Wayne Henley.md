@@ -4,6 +4,8 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Elmer Wayne Henley (born May 9, 1956) served as a teenage accomplice to serial killer Dean Corll in the Dean Corll Murders from 1970 to 1973."
+born: 1956-05-09
+location: "Houston, Texas"
 ---
 
 Elmer Wayne Henley (born May 9, 1956) served as a teenage accomplice to serial killer [[Dean Corll]] in the [[Dean Corll Murders]] from 1970 to 1973. Henley played a crucial role in facilitating Corll's crimes by luring victims and participating in their torture and murder. He ultimately ended the killing spree by shooting and killing Corll on August 8, 1973.[^1]

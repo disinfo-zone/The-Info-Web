@@ -7,6 +7,8 @@ tags:
   - 1970s
   - Dark_Alliance_Investigation
 summary: Former Nicaraguan ambassador to Guatemala, National Guard general, and Managua police chief who was Norwin Meneses's brother and primary protector, and a probable CIA asset assassinated in Guatemala in 1978.
+died: 1978
+location: "Nicaragua"
 ---
 Brigadier General Edmundo Meneses Cantarero was a senior officer in the [[Nicaraguan National Guard]] under [[Anastasio Somoza]], serving as chief of police in [[Managua]] and later as [[Nicaragua]]'s ambassador to [[Guatemala]]. He was the older brother of drug kingpin [[Norwin Meneses]] and a key protector of the Meneses criminal empire.[^1][^2]
 

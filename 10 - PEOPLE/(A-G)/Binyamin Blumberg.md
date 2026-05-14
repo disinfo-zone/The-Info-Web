@@ -5,6 +5,8 @@ tags:
   - Nuclear
   - Israel
 summary: "Binyamin Blumberg was a former military intelligence officer handpicked by Shimon Peres to direct the Office of Special Tasks, a new intelligence agency created to provide security for Israel's burgeoning nuclear operation at Dimona."
+died: 2018
+location: "Israel"
 ---
 
 Binyamin Blumberg was a former military intelligence officer handpicked by [[Shimon Peres]] to direct the Office of Special Tasks, a new intelligence agency created to provide security for [[Israel]]'s burgeoning nuclear operation at [[Dimona]]. This office, bureaucratically placed inside the defense ministry, would later become known as LAKAM (Science Liaison Bureau) and was responsible for one of [[Israel]]'s worst mistakes, the recruitment of [[Jonathan Pollard]].[^1]

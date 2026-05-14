@@ -7,6 +7,7 @@ tags:
   - Belgium
   - Dutroux
 summary: "Regina Louf, born in Ghent, Belgium, testified as witness Regina Louf in the Marc Dutroux investigation, providing accounts of child prostitution from the 1970s onward."
+location: "Ghent, Belgium"
 ---
 
 Regina Louf, born in Ghent, Belgium, testified as witness [[Regina Louf]] in the [[Marc Dutroux]] investigation, providing accounts of child prostitution from the 1970s onward. Raised by her grandmother [[Cecile Beernaert]], Louf claimed Beernaert operated a brothel at a hotel-villa in Knokke-Heist, using Louf and other girls for sexual acts with clients including politicians and businessmen. Beernaert, a former police commissioner's widow, ran the brothel at Elizabetlaan 83, [[Knokke-Heist]], behind Golfpad 4, near the [[Royal Zoute Golf Club]], where Louf was forced into services from age two, performing with other children under threat of beatings with a metal ruler or gun. Louf stated her grandmother filmed acts and used the basement studio for pornography production. At age 12, Louf was sold to pimp [[Tony Van den Boggaert]], a family acquaintance, who leased her to [[Jean-Michel Nihoul]]'s parties in Brussels, where Dutroux supplied girls and drugs. Louf's memories surfaced during therapy in the 1990s, leading her to contact authorities after Dutroux's arrest in 1996, under pseudonym to protect her identity.[^1]

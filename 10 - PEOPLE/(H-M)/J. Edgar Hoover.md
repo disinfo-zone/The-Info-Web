@@ -4,6 +4,9 @@ tags:
   - Person
   - Nuclear
 summary: "Hoover was a frequent visitor to the Hotel Del Charro in La Jolla, California, an exclusive hotel opened by Clint Murchison, Sr."
+born: 1895-01-01
+died: 1972-05-02
+location: "Washington, D.C."
 ---
 
 [[J. Edgar Hoover]] served as the first Director of the [[Federal Bureau of Investigation|FBI]] (and its predecessor, the Bureau of Investigation) for 48 years, from 1924 until his death in 1972. His long tenure was marked by both his law enforcement activities and his connections to influential political and business figures.

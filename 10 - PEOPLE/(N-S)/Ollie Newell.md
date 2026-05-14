@@ -8,6 +8,7 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Childhood friend and original business partner of Ricky Ross who helped launch their cocaine dealing operation in 1981.
+location: "South Central Los Angeles, California"
 ---
 Ollie Newell, known as "Big Loc," was the childhood friend and original business partner of [[Ricky Ross|"Freeway" Ricky Ross]].[^1] Newell and Ross grew up together in [[South Central Los Angeles|South Central L.A.]] and entered the cocaine business as partners in 1981. Some people thought Newell acted crazy, which earned him his nickname.
 

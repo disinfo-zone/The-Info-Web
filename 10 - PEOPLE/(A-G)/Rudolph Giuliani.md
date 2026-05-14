@@ -5,6 +5,8 @@ tags:
   - Lawyer
   - LawEnforcement
 summary: "U.S. Attorney for the Southern District of New York involved in the Hashemi sting operation targeting Israeli intelligence arms sales to Iran."
+born: 1944-05-28
+location: "Brooklyn, New York"
 ---
 
 [[Rudolph Giuliani]] was the [[United States|U.S.]] Attorney for the Southern District of [[New York City]]. He was involved in the [[Hashemi sting]] operation, which was designed to entrap individuals connected with [[Israel|Israeli]] intelligence arms sales to [[Iran]].[^1]

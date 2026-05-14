@@ -7,6 +7,8 @@ tags:
   - Military
   - RemoteViewer
 summary: "Joe McMoneagle was a U.S."
+born: 1946-01-10
+location: "Miami, Florida"
 ---
 
 ---

@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Peter Hurkos was a Dutch psychic who gained international fame for his purported abilities, particularly psychometry—the act of divining information from an object through touch."
+born: 1911-05-21
+died: 1988-06-01
+location: "Dordrecht, Netherlands"
 ---
 
 # Peter Hurkos

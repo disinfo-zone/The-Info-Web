@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Geoffrey Dickens was a Conservative (Tory) MP in Margaret Thatcher's government who became known for his campaigns against child pornography and his efforts to expose VIP pedophile networks within British institutions."
+born: 1931-08-26
+died: 1995-05-17
+location: "London, England"
 ---
 
 

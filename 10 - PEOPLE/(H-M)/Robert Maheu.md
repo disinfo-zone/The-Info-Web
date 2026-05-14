@@ -5,6 +5,9 @@ tags:
   - CIA
   - Politician
 summary: "Maheu's connections extended to organized crime figures, as he was involved in CIA operations to assassinate Fidel Castro in 1960."
+born: 1917-10-30
+died: 2008-08-04
+location: "Waterville, Maine, USA"
 ---
 [[Robert Maheu]] was a former [[Federal Bureau of Investigation|FBI]] agent who became a prominent figure in the business and intelligence worlds, notably serving as the CEO of [[Howard Hughes]] operations in Las Vegas. He was also a Senior Vice President and Director of [[First Intercontinental Development Corporation|FIDCO]].[^1]
 

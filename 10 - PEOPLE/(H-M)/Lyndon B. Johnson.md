@@ -5,6 +5,9 @@ tags:
   - WW2
   - Nazi
 summary: "Johnson's ties to Israel were strong, influenced by his close advisers like Abe Fortas and Edwin L."
+born: 1908-08-27
+died: 1973-01-22
+location: "Stonewall, Texas"
 ---
 
 Lyndon B. Johnson was the 36th President of the [[United States]], serving from 1963 to 1969. He was initially left in the dark on sensitive national security issues by President [[John F. Kennedy]] and his top aides, and reportedly went "berserk" upon being briefed in by the [[Central Intelligence Agency|CIA]] after Kennedy's assassination.[^1]

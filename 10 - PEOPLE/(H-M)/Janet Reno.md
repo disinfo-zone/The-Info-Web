@@ -7,6 +7,9 @@ tags:
   - Lawyer
   - INSLAW
 summary: "Wilcher was interviewed by Carl Stern, Reno's public relations man, regarding the contents of the letter."
+born: 1938-07-21
+died: 2016-11-07
+location: "Miami, Florida"
 ---
 [[Janet Reno]] served as the [[United States Attorney General|Attorney General]] of the [[United States]]. She is included here in connection with the death of [[Paul Wilcher]], a Washington D.C. attorney who had been investigating the [[October Surprise]] incident and the [[INSLAW]] case. Wilcher hand-delivered a 100-page letter to Reno on May 21, 1993, claiming that holdover [[Department of Justice|DOJ]] employees from the [[Ronald Reagan|Reagan]]-[[George H.W. Bush|Bush]] era were responsible for government cover-ups.[^1]
 

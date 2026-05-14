@@ -8,6 +8,9 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Longtime CIA agent and former Coca-Cola bottling plant manager in Managua who was selected by the CIA in 1983 to lead the political wing of the FDN and worked closely with Oliver North.
+born: 1931-12-22
+died: 2012-06-02
+location: "Managua, Nicaragua"
 ---
 Adolfo Calero was a longtime [[Central Intelligence Agency]] agent and former manager of the Coca-Cola bottling plant in [[Managua]].[^1] Selected by the CIA in 1983 to lead the political wing of the [[FDN]], Calero worked closely with [[Oliver North]] and met with [[Norwin Meneses]] several times during the years Meneses was selling drugs for the Contras.[^1] He later became a member of the [[Nicaragua|Nicaraguan]] Assembly.
 

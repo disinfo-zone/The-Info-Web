@@ -9,6 +9,9 @@ tags:
   - Dark_Alliance_Investigation
   - OctoberSurprise
 summary: "Vice President under Reagan and 41st U.S. President who dealt with Israel's nuclear program, the VELA incident, and sanctions discussions after Osirak bombing, while simultaneously overseeing anti-drug efforts as Contra-connected drug traffickers operated with impunity."
+born: 1924-06-12
+died: 2018-11-30
+location: "Milton, Massachusetts"
 ---
 George H.W. Bush served as the Vice President under President [[Ronald Reagan]] and later as the 41st President of the United States. He was present at a meeting of Reagan's high command following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981, where he agreed that some sanctions against [[Israel]] were essential.[^1]
 

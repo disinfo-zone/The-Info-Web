@@ -6,6 +6,9 @@ tags:
   - Military
   - Soviet
 summary: "Himmler had a deep and abiding interest in the occult and the supernatural."
+born: 1900-10-07
+died: 1945-05-23
+location: "Munich, Germany"
 ---
 
 

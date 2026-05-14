@@ -4,6 +4,9 @@ tags:
   - Person
   - CIA
 summary: "Carlucci's connections extended into the intelligence community, with Harold Okimoto reportedly working under his auspices for years."
+born: 1930-10-18
+died: 2018-06-03
+location: "Scranton, Pennsylvania"
 ---
 [[Frank Carlucci]] was a prominent American government official who held several high-level positions, including former [[Central Intelligence Agency|CIA]] deputy director and later [[United States Secretary of Defense|Defense Secretary]]. He was also a member of the board of directors for [[Wackenhut Corporation]].[1]
 

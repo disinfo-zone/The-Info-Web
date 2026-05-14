@@ -6,6 +6,9 @@ tags:
   - Politician
   - Military
 summary: "In September 1988, Ari Ben-Menashe met with Stange in Chile to discuss Cardoen's chemical trade with Iraq."
+born: 1925-09-30
+died: 2023-11-26
+location: "Puerto Montt, Chile"
 ---
 
 [[Rodolfo Stange]] was a General and chief of the Chilean Carabineros (paramilitary police). He was a significant figure in the Chilean government during the period of [[Augusto Pinochet|Pinochet's]] rule and was involved in the country's arms trade and intelligence operations.[^1]

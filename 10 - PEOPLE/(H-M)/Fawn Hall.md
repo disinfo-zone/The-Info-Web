@@ -5,6 +5,8 @@ tags:
   - IranContra
   - Israel
 summary: "Secretary to Oliver North during the Iran-Contra Affair and daughter of Robert McFarlane's secretary Wilma Hall."
+born: 1959-09-04
+location: "Annandale, Virginia"
 ---
 
 [[Fawn Hall]] was the secretary to [[Oliver North]] during the [[Iran-Contra Affair]]. She is the daughter of [[Wilma Hall]], who was the secretary to [[Robert McFarlane]] at the [[National Security Council]].[^1]

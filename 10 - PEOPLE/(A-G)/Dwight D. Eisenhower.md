@@ -8,6 +8,9 @@ tags:
   - Soviet
   - Military
 summary: "Eisenhower authorized a daring reconnaissance program, primarily targeting the Soviet Union, and assigned the development of the revolutionary U-2 Spy Plane jointly to the CIA and the Air Force."
+born: 1890-10-14
+died: 1969-03-28
+location: "Denison, Texas"
 ---
 
 Dwight D. Eisenhower was the 34th President of the [[United States]], serving from 1953 to 1961. His reliance on aerial photography as Allied Commander in Chief in World War II was reaffirmed by postwar bombing surveys, which concluded that a significant portion of useful intelligence came from overhead reconnaissance. Upon becoming president, he was concerned about the lack of aerial intelligence on the [[Soviet Union]] and ordered the [[Central Intelligence Agency|CIA]] to address this.[^1]

@@ -5,6 +5,9 @@ tags:
   - honduran
   - contra-war
 summary: Juan Matta Ballesteros was Honduras's biggest drug trafficker whose air cargo company SETCO was the principal transportation provider for the Contra army.
+born: 1945
+died: 2025
+location: "Tegucigalpa, Honduras"
 ---
 Juan Matta Ballesteros was [[Honduras]]'s biggest drug trafficker whose air cargo company [[SETCO]] was the principal transportation provider for the [[Contras|Contra]] army. The [[U.S. Customs]] Service had known about Matta's drug trafficking since 1983, but his company continued to receive U.S. government contracts for Contra supply missions.[^1]
 

@@ -4,6 +4,8 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Gary Glitter was a British glam rock artist whose career was helped to success by Chris Denning, who catapulted him to the Top of the Pops in the 1970s."
+born: 1944-05-08
+location: "Banbury, Oxfordshire, England"
 ---
 
 Gary Glitter was a British glam rock artist whose career was helped to success by [[Chris Denning]], who catapulted him to the Top of the Pops in the 1970s. In November 1997, a week after Denning's arrest, Glitter was arrested by British authorities after child pornography was discovered on a computer he had taken into a repair store.[^1]

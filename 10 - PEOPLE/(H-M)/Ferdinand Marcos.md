@@ -4,6 +4,9 @@ tags:
   - Person
   - PROMIS
 summary: "Exiled President of the Philippines whose stolen fortune was reportedly laundered through Robert Booth Nichols via networks connected to the PROMIS scandal."
+born: 1917-09-11
+died: 1989-09-28
+location: "Sarrat, Ilocos Norte, Philippines"
 ---
 [[Ferdinand Marcos]] was the exiled President of the [[Philippines]]. His widow, [[Imelda Marcos]], was acquitted of racketeering and fraud alongside [[Adnan Khashoggi]] in 1990.[^1]
 

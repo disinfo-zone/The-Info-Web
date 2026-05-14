@@ -5,6 +5,9 @@ tags:
   - OrganizedCrime
   - Cartel
 summary: "Rodriguez Orejuela's influence extended beyond drug trafficking into financial and political spheres."
+born: 1939-01-31
+died: 2022
+location: "Mariquita, Tolima, Colombia"
 ---
 [[Gilberto Rodriguez Orejuela]] was a prominent leader of the [[Cali Drug Cartel]], a powerful Colombian drug trafficking organization that, by 1994, was estimated to control 80% of the world's cocaine trade. He was often referred to simply as "Gilberto" in the context of investigations into the cartel's activities.[1]
 

@@ -4,6 +4,9 @@ tags:
   - Person
   - Politician
 summary: "Baker was on the MCA board from January 4, 1985, to March 2, 1987, when he resigned to accept the position of chief of staff to President Ronald Reagan."
+born: 1925-11-15
+died: 2014-06-26
+location: "Huntsville, Tennessee"
 ---
 [[Howard Baker]] was a former [[United States Senator|U.S. Senator]] and a member of the Board of Directors of [[Music Corporation of America|MCA]] Corporation. He later served as [[Ronald Reagan]]'s chief of staff.[^1]
 

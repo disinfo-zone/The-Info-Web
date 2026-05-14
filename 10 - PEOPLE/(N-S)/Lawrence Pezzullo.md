@@ -4,6 +4,7 @@ tags:
   - person
   - contra-war
 summary: Lawrence Pezzullo was the U.S. ambassador to Nicaragua who negotiated with Anastasio Somoza during the final days of his regime, assuring him the United States was willing to preserve the National Guard.
+location: "Nicaragua"
 ---
 Lawrence Pezzullo was the U.S. ambassador to [[Nicaragua]] who negotiated with [[Anastasio Somoza]] during the final days of his regime, assuring him the [[United States]] was willing to preserve the National Guard. Pezzullo's conversations with Somoza revealed the depth of the U.S. investment in the Guardia that would later form the core of the [[Contras|Contra]] army.[^1]
 

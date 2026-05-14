@@ -7,6 +7,9 @@ tags:
   - Diplomat
   - Military
 summary: "In late 1976, at the end of his tenure as President, Henry A."
+born: 1913-07-14
+died: 2006-12-26
+location: "Omaha, Nebraska"
 ---
 
 Gerald R. Ford was the 38th President of the [[United States]], serving from 1974 to 1977. His administration, along with that of [[Richard Nixon|Richard Nixon]], maintained a warm relationship with [[Israel]], a stark contrast to the later approach of the [[Jimmy Carter|Carter]] administration. Ford's precedent was to tightly restrict access to high-quality [[KH-11]] imagery, even to close allies like [[Great Britain]].[^1]

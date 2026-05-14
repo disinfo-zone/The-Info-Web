@@ -8,6 +8,9 @@ tags:
   - Lawyer
   - Banking
 summary: "Robert Altman was a Washington attorney and partner to Clark Clifford who served as president of First American Bankshares and was indicted by Manhattan DA Robert Morgenthau in July 1992 on charges of bribery and fraud related to BCCI's secret ownership of the bank; he was acquitted by a Manhattan jury in September 1993."
+born: 1947-02-23
+died: 2021-02-03
+location: "Washington, D.C."
 ---
 Robert Altman was a prominent American lawyer and banker, known for his close association with [[Clark Clifford]] and his involvement in the [[Bank of Credit and Commerce International|BCCI]] scandal. He served as the former president of [[First American Bank]] and was Clifford's law partner and protégé. Altman, along with Clifford, acted as BCCI's chief American counsel from 1978 to 1990.[^1]
 

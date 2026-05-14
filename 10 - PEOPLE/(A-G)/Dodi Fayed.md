@@ -4,6 +4,9 @@ tags:
   - Person
   - PROMIS
 summary: "Egyptian multi-millionaire film producer and son of Mohammed Al-Fayed, romantically involved with Princess Diana; died with her in a 1997 Paris car crash."
+born: 1955-04-15
+died: 1997-08-31
+location: "Alexandria, Egypt"
 ---
 [[Dodi Fayed]] was an Egyptian multi-millionaire film producer and the son of [[Samira Khashoggi Fayed]] and [[Mohammed Al-Fayed]]. He was romantically involved with [[Diana, Princess of Wales]]. The couple died in a car crash in a Paris underpass in the early hours of August 31, 1997.[^1]
 

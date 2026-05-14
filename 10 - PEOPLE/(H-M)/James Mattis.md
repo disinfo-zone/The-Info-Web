@@ -4,6 +4,8 @@ tags:
   - Person
   - UFO
 summary: "Elizondo first met General Mattis in 2001 in Kandahar, Afghanistan, where Elizondo was serving as the counterintelligence coordinating authority."
+born: 1950-09-08
+location: "Pullman, Washington"
 ---
 [[James Mattis]], also known by his nickname "Mad Dog," is a retired United States Marine Corps general who served as the 26th Secretary of Defense. During his tenure, [[Luis Elizondo]] and [[Christopher Mellon]] made a concerted effort to brief him on the findings of the [[Advanced Aerospace Threat Identification Program]] (AATIP) and the national security implications of [[Unidentified Anomalous Phenomena]] (UAP).[^1]
 

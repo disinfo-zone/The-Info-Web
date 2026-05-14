@@ -5,6 +5,9 @@ tags:
   - WW2
   - Nazi
 summary: "Junio Valerio Borghese, known as the Black Prince of Borghese, was an Italian aristocrat descended from the Borghese family of the Italian black nobility."
+born: 1906-06-06
+died: 1974-08-26
+location: "Artena, Province of Rome, Italy"
 ---
 
 Junio Valerio Borghese, known as the Black Prince of Borghese, was an Italian aristocrat descended from the Borghese family of the Italian black nobility. Borghese commanded the Decima Flottiglia MAS, a former regiment of the Italian Navy, which fought as a prominent piece of the army under the Nazi puppet state known as the [[Republic of Salo]] in Northern Italy during World War II. The regiment continued to fight the Allies in the northern territories under the Republic's administration right up until the end of the war.[^1]

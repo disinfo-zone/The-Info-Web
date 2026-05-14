@@ -12,6 +12,9 @@ tags:
   - Politician
   - Media
 summary: "Robert Maxwell was a British media proprietor, Labour MP, and alleged intelligence asset for Mossad, MI6, and the KGB, whose alleged role as the primary international distributor of backdoored PROMIS software to foreign governments became central to the INSLAW scandal narrative; he was found dead in the Atlantic Ocean on November 5, 1991, three months after Danny Casolaro's death."
+born: 1923-01-10
+died: 1991-11-05
+location: "Slatinské Doly, Czechoslovakia (now Solotvyno, Ukraine)"
 ---
 Robert Maxwell was born Ján Ludvík Hyman Binyamin Hoch on January 10, 1923, in Slatinské Doly, Czechoslovakia (now Solotvyno, Ukraine), the son of a poor Yiddish-speaking Jewish family. His parents and most of his siblings were killed in the Holocaust. He fled through Romania and France, eventually joining the Czech Army in exile in the United Kingdom, then serving in the British Army, where he was awarded the Military Cross by Field Marshal Bernard Montgomery. He died on November 5, 1991, under disputed circumstances in the Atlantic Ocean near the Canary Islands. He was 68.[^3]
 

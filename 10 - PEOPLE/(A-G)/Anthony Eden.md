@@ -5,6 +5,9 @@ tags:
   - Israel
   - Soviet
 summary: "Anthony Eden was the Prime Minister of the United Kingdom from 1955 to 1957."
+born: 1897-06-12
+died: 1977-01-14
+location: "Windlestone Hall, County Durham, England"
 ---
 
 Anthony Eden was the Prime Minister of the [[United Kingdom]] from 1955 to 1957. He was involved in the secret planning for the [[Suez Crisis]] in 1956, alongside [[Israel]] and [[France]]. The battle plan called for [[Israel]] to initiate the attack, followed by demands from [[France]] and [[Britain]] for a halt to hostilities and withdrawal from the [[Suez Canal]]. When [[Egypt]] refused, [[France]] and [[England]] would launch assaults to occupy the canal.[^1]

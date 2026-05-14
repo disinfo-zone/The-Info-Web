@@ -5,6 +5,9 @@ tags:
   - Journalist
   - Author
 summary: "Investigative journalist and author of The Crimes of Patriots, which documented Michael Hand's escape from Australia after Nugan Hand Bank collapsed."
+born: 1941-03-23
+died: 1998-11-26
+location: "Indianapolis, Indiana"
 ---
 [[Jonathan Kwitny]] was the author of the book *The Crimes of Patriots*. In his book, Kwitny reported that [[Michael Hand]] reportedly fled [[Australia]] under a false identity on June 14, 1980, on a flight to [[Fiji]]. He also identified an American code-named "Charlie" as a former member of the [[United States Army Special Forces|U.S. Special Forces]] and ex-[[Central Intelligence Agency|CIA]] operative who allegedly helped Hand escape.[^1]
 

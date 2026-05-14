@@ -7,6 +7,9 @@ tags:
   - BCCI
   - Lawyer
 summary: "Robert Morgenthau (1919-2019) was the longest-serving Manhattan District Attorney in history, serving from 1975 to 2009, and initiated the prosecution of BCCI, Clark Clifford, and Robert Altman after Senate investigator Jack Blum brought him evidence in March 1989."
+born: 1919-07-31
+died: 2019-07-21
+location: "New York City, New York, USA"
 ---
 
 Robert Morgenthau was the Manhattan district attorney known for his integrity and persistence in exposing government and business corruption.[^1]

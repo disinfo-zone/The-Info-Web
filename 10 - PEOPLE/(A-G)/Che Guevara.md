@@ -5,6 +5,9 @@ tags:
   - revolutionary
   - contra-war
 summary: Che Guevara was the Argentine revolutionary executed in Bolivia with the participation of CIA agent Felix Rodriguez, a Bay of Pigs veteran who later managed the Contra resupply operation.
+born: 1928-05-14
+died: 1967-10-09
+location: "Rosario, Argentina"
 ---
 Che Guevara was the Argentine revolutionary executed in [[Bolivia]] in 1967 with the participation of [[Central Intelligence Agency]] agent [[Felix Rodriguez]], a [[Bay of Pigs|Bay of Pigs]] veteran who later managed the Contra resupply operation at Ilopango Air Base. Rodriguez had been present at Guevara's capture and execution, an experience that burnished his credentials as a counterinsurgency specialist.[^1]
 

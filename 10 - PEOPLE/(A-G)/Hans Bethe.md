@@ -6,6 +6,9 @@ tags:
   - Physicist
   - Israel
 summary: "Hans Bethe was a German-American theoretical physicist who won the Nobel Prize in Physics in 1967."
+born: 1906-07-02
+died: 2005-03-06
+location: "Strasbourg, Alsace-Lorraine (now France)"
 ---
 
 Hans Bethe was a German-American theoretical physicist who won the Nobel Prize in Physics in 1967. He helped design the first American nuclear and thermonuclear weapons. Bethe recalled three visits to the [[Weizmann Institute of Science]] where his hosts would "take me anywhere and discuss anything with me." However, they never offered to take him to [[Dimona]], which Bethe found significant, as he was interested in nuclear power reactors.[^1]

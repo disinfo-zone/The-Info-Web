@@ -5,6 +5,8 @@ tags:
   - UFO
   - Politician
 summary: "Bigelow has had a lifelong obsession with UAP and paranormal occurrences, and he has used his personal fortune to fund research into these mysteries."
+born: 1944-05-12
+location: "Las Vegas, Nevada"
 ---
 [[Robert Bigelow]] is a billionaire hotelier, developer, and aerospace magnate known for his long-standing interest in [[Unidentified Anomalous Phenomena]] (UAP) and paranormal research. His company, [[Bigelow Aerospace Advanced Space Studies]] (BAASS), was the primary contractor for the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to the [[Advanced Aerospace Threat Identification Program]] (AATIP).[^1]
 

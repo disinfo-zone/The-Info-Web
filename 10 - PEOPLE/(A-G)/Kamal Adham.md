@@ -5,6 +5,9 @@ tags:
   - BCCI
   - CIA
 summary: "Kamal Adham was the former head of Saudi Arabian intelligence and brother-in-law of the late King Faisal."
+born: 1929
+died: 1999-10-29
+location: "Istanbul, Turkey"
 ---
 
 Kamal Adham was the former head of [[Saudi Arabian intelligence]] and brother-in-law of the late [[King Faisal]]. He was a significant shareholder in [[Bank of Credit and Commerce International|BCCI]] and [[First American Bank]]. Adham was a shrewd and jovial figure who straddled the worlds of Middle Eastern business and politics for decades. He was considered one of the true inside power players of the Middle East.[^1]

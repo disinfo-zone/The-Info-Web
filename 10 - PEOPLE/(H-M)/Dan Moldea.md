@@ -5,6 +5,7 @@ tags:
   - Journalist
   - Author
 summary: "In *Dark Victory*, Moldea famously labeled MCA as 'The Octopus' due to its extensive and often illicit connections."
+born: 1950-02-27
 ---
 
 [[Dan Moldea]] is an American author known for his investigative work into organized crime and political corruption. He is the author of the 1986 book, *Dark Victory: Ronald Reagan, MCA, and the Mob*.[^1]

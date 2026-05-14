@@ -3,6 +3,8 @@ category: "Other"
 tags:
   - Person
 summary: "David Owen Brooks (born February 14, 1955) functioned as a teenage accomplice to serial killer Dean Corll in the Dean Corll Murders from 1970 to 1973."
+born: 1955-02-14
+location: "Houston, Texas"
 ---
 
 David Owen Brooks (born February 14, 1955) functioned as a teenage accomplice to serial killer [[Dean Corll]] in the [[Dean Corll Murders]] from 1970 to 1973. Brooks played a key role in procuring victims and participating in their torture and murder. He introduced [[Elmer Wayne Henley]] to Corll and provided crucial testimony connecting the crimes to broader trafficking networks.[^1]

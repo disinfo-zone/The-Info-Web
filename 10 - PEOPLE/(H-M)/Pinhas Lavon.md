@@ -7,6 +7,9 @@ tags:
   - Israel
   - Military
 summary: "Pinhas Lavon was an Israeli politician who served as Defense Minister."
+born: 1904-07-12
+died: 1976-01-24
+location: "Kopyczynce, Eastern Galicia, Austria-Hungary (now Ukraine)"
 ---
 
 Pinhas Lavon was an Israeli politician who served as Defense Minister. He was a more hard-line figure than [[Moshe Sharett]] on the Arab question. The [[Lavon Affair]] in mid-1954, involving an Israeli spy ring bombing American, British, and Egyptian targets, led to Lavon's resignation, which was accepted by Sharett, who had not known of the operation.[^1]

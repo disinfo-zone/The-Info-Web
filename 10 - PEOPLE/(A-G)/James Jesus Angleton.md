@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "James Jesus Angleton was the CIA's director of counterintelligence and was also responsible for liaison with Israel."
+born: 1917-12-09
+died: 1987-05-11
+location: "Boise, Idaho"
 ---
 
 James Jesus Angleton was the [[Central Intelligence Agency|CIA]]'s director of counterintelligence and was also responsible for liaison with [[Israel]]. He was known for his insistence on secrecy and his paranoia about Soviet penetration of the Agency. Angleton's increasing inability to deal with the real world eventually led to his firing in late 1974. He had worked closely with members of the Jewish resistance in [[Italy]] at the end of World War II, during a period when thousands of Jewish refugees and concentration camp survivors were being illicitly funneled from [[Europe]] into [[Palestine]].[^1]

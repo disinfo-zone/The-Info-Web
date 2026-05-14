@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Karl Krafft was a Swiss astrologer known for his influence on high-ranking Nazi officials."
+born: 1900-05-10
+died: 1945-01-08
+location: "Basel, Switzerland"
 ---
 
 Karl Krafft was a Swiss astrologer known for his influence on high-ranking Nazi officials. He is particularly noted for constructing star charts that allegedly influenced [[Rudolf Hess]]'s decision to undertake his rogue flight to Scotland in May 1941. Hess, the Deputy Führer of [[Nazi Germany]], reportedly chose this date based on astrological advice, as the star chart allegedly indicated that the six planets were in Taurus and the moon would be full[^1].

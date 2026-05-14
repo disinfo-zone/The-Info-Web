@@ -5,6 +5,9 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "Sybil Leek, known as 'Britain's most famous witch,' was an astrologer and author who was reportedly recruited by British Intelligence during World War II."
+born: 1917-02-22
+died: 1982-10-26
+location: "Normacot, Stoke-on-Trent, Staffordshire, England"
 ---
 
 Sybil Leek, known as "Britain's most famous witch," was an astrologer and author who was reportedly recruited by [[British Intelligence]] during [[World War II]]. She was involved in a black propaganda effort, where she provided phony horoscopes for the Germans who believed in astrology[^1]. Her work allegedly included writing a chart that convinced [[Rudolf Hess]], the Deputy Führer of [[Nazi Germany]], to fly to England, leading to his capture[^1]. Her son, Julian Leek, confirmed that the details of her involvement in the Hess affair remained officially classified[^1].

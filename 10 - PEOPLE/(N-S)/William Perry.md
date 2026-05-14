@@ -8,6 +8,8 @@ tags:
   - Military
   - RemoteViewer
 summary: "William Perry served as the Undersecretary of Defense for Research and Engineering."
+born: 1927-10-11
+location: "Vandergrift, Pennsylvania"
 ---
 
 William Perry served as the Undersecretary of Defense for Research and Engineering. He was involved in the debate surrounding the [[U.S. Army]]'s involvement in [[Remote Viewing]] and [[Parapsychology|psychic research]][^1].

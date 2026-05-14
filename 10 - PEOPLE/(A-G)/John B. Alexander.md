@@ -9,6 +9,8 @@ tags:
   - CIA
   - Military
 summary: "Lieutenant Colonel John B."
+born: 1937
+location: "New York, New York"
 ---
 
 Lieutenant Colonel John B. Alexander is a former Green Beret and Special Forces commander in [[Vietnam|Vietnam]] and [[Thailand]], earning the moniker Assassin Six. He holds a PhD in thanatology, the study of death. Alexander became a prominent figure in the [[U.S. Army]]'s exploration of anomalous mental phenomena and human potential[^1].

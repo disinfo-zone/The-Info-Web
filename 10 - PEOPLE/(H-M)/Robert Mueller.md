@@ -5,6 +5,9 @@ tags:
   - BCCI
   - Banker
 summary: "Robert Mueller was the head of the Justice Department's criminal division."
+born: 1944-08-07
+died: 2026-03-21
+location: "New York City, New York, USA"
 ---
 
 Robert Mueller was the head of the [[Department of Justice]]'s criminal division.[^1]

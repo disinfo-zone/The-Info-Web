@@ -5,6 +5,8 @@ tags:
   - CIA
   - Military
 summary: "Joris Demmink was a senior Dutch justice official who served as Secretary General of the Ministry of Justice of the Netherlands from 2002 until his resignation in 2012."
+born: 1947-12-11
+location: "Laren, North Holland, Netherlands"
 ---
 
 

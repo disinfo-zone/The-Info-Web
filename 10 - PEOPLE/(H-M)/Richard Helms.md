@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - SRI
 summary: "Helms personally approved the continuation and expansion of the CIA's psychic research program, initially known as the Biofield Measurements Program and later as the Paranormal Perception Research Project."
+born: 1913-03-30
+died: 2002-10-22
+location: "St. Davids, Pennsylvania, USA"
 ---
 
 

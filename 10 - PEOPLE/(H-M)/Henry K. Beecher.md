@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Beecher's work contributed to the understanding of how perception of an event or a situation—real or imagined, rational or irrational—can cause consequential actions to occur."
+born: 1904-02-04
+died: 1976-07-25
+location: "Peck, Kansas"
 ---
 
 Henry K. Beecher (1904–1976) was a controversial anesthesiologist who, for the [[Central Intelligence Agency]] in the 1950s, studied the [[Placebo Effect]]. The placebo effect is a remarkable phenomenon whereby a harmless pill or simulated treatment produces real-world physiological effects in humans[^1].

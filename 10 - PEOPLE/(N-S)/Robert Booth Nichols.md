@@ -8,6 +8,8 @@ tags:
   - CIA
   - Organized Crime
 summary: "Robert Booth Nichols was an international intelligence operative and central figure in Danny Casolaro's Octopus investigation, with documented ties to NSC covert operations, organized crime networks including the Gambino and Bufalino families and the Yakuza, and arms development programs at the Wackenhut-Cabazon joint venture."
+born: 1943
+location: "Loma Linda, California"
 ---
 Robert Booth Nichols was born in 1943 or 1944. He appeared repeatedly in the investigative threads pursued by journalist [[Danny Casolaro]] and in FBI and DOJ records as an individual straddling the boundaries of U.S. intelligence operations and international organized crime. Despite extensive FBI investigation and wiretap surveillance, Nichols reportedly had no arrest record as of the time of Casolaro's death in 1991.[^1]
 

@@ -6,6 +6,8 @@ tags:
   - Person
   - Skeptic
 summary: "Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement."
+born: 1928-06-23
+location: "Chelsea, Massachusetts, USA"
 ---
 
 Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement. He was contracted by [[DARPA]] in 1973 to evaluate [[Uri Geller]]'s purported psychic abilities at [[Stanford Research Institute|SRI]]. Along with [[George Lawrence]] and [[Robert Van de Castle]], Hyman concluded that anyone who believed in Geller's powers was falling for the "ridiculous"[^1].

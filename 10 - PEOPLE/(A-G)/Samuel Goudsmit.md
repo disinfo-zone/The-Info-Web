@@ -7,6 +7,9 @@ tags:
   - WW2
   - Nazi
 summary: "Samuel Goudsmit was a Dutch-American nuclear physicist who served as the scientific head of Operation Alsos, an elite U.S."
+born: 1902-07-11
+died: 1978-12-04
+location: "The Hague, Netherlands"
 ---
 
 Samuel Goudsmit was a Dutch-American nuclear physicist who served as the scientific head of [[Operation Alsos]], an elite U.S. scientific intelligence effort during [[World War II]]. The mission of Operation Alsos was to investigate the German nuclear energy project and to prevent German scientific and technological knowledge from falling into Soviet hands[^1].

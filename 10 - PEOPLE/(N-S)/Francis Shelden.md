@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Francis Duffield Shelden, born September 5, 1928, in Wayne County, Michigan, was a member of an old money establishment family; his great-grandfather on his father's side was Michigan governor and U.S."
+born: 1928-09-05
+died: 1996-07-09
+location: "Wayne County, Michigan, USA"
 ---
 
 Francis Duffield Shelden, born September 5, 1928, in Wayne County, Michigan, was a member of an old money establishment family; his great-grandfather on his father's side was Michigan governor and U.S. Senator [[Russell A. Alger]], who served as Secretary of War from 1897-1899, and on his mother's side were the Duffields, an industrial dynasty. As such, Shelden was endowed with a trust fund that supported a leisurely life of philanthropy focused on youth charities. He worked part-time as a geology professor at Wayne State University, served on the board of the private Cranbrook Institute arts academy and boarding school, and volunteered with Big Brother programs. He owned commercial properties and had a net worth allowing him to pursue interests in sea-steading and offshore banking. Shelden fled Michigan in late 1976 amid investigations into his child pornography operations and was granted Dutch citizenship, protecting him from extradition. He died on July 9, 1996, in Amsterdam, at age 67.[^1]

@@ -6,6 +6,7 @@ tags:
   - 1980s
   - Contra_War
 summary: Joseph Russoniello was the U.S. attorney in San Francisco whose cozy relationship with the CIA coincided with the decision not to prosecute Norwin Meneses for drug trafficking in spring 1985.
+location: "San Francisco, California"
 ---
 Joseph Russoniello served as U.S. attorney in [[San Francisco]] during the period when [[Norwin Meneses]] could have been indicted on federal cocaine trafficking charges in the spring of 1985. One of Meneses's top lieutenants had already pleaded guilty to cocaine charges and publicly implicated Meneses as a major trafficker.[^1]
 

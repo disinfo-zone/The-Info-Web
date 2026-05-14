@@ -4,6 +4,9 @@ tags:
   - Person
   - LawEnforcement
 summary: "On December 21, 1978, Joseph R."
+born: 1940-03-20
+died: 2015-05-13
+location: "Des Plaines, Illinois"
 ---
 
 Joseph R. Kozenczak served as a police captain with the Des Plaines Police Department and later advanced to become the detective chief overseeing the investigation into the murders committed by [[John Wayne Gacy]]. His son attended Maine West High School as a classmate of [[Robert Piest]], the 15-year-old victim whose disappearance on December 11, 1978, prompted Kozenczak to take personal charge of the case when it reached his desk. Kozenczak authored a book titled *The Chicago Killer* detailing his experiences leading the probe into Gacy's crimes. He passed away at age 75 on June 25, 2016, with his funeral held at the Maryville Academy.[^1]

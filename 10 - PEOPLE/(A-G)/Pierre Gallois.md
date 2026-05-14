@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Pierre Gallois was a retired French general and the intellectual spokesman for the French nuclear program."
+born: 1911-06-29
+died: 2010-08-24
+location: "Turin, Italy"
 ---
 
 Pierre Gallois was a retired French general and the intellectual spokesman for the French nuclear program. His argument, as eventually published, was that when two nations are armed with nuclear weapons, even if unequally, the status quo is unavoidable. He believed that a nuclear-armed [[France]] would no longer need to wonder if the [[United States]] would come to its defense in a nuclear crisis.[^1]

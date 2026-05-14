@@ -9,6 +9,8 @@ tags:
   - Lawyer
   - INSLAW
 summary: "D. Lowell Jensen served as Alameda County District Attorney, then as Associate Attorney General and Deputy Attorney General under Edwin Meese, and was named by INSLAW and the House Judiciary Committee as a key figure in the alleged conspiracy to steal and suppress the PROMIS software."
+born: 1928-06-03
+location: "Brigham City, Utah"
 ---
 Delwen Lowell Jensen was born June 3, 1928, in Brigham City, Utah. He earned a BA from UC Berkeley in 1949 and a JD from UC Berkeley School of Law in 1952, then served as an Army Corporal from 1952 to 1954. He entered the Alameda County District Attorney's office in 1955 as a deputy, rising to Assistant District Attorney by 1966 and District Attorney by 1969, a position he held until 1981. Among his significant prosecutions as Alameda County DA were members of the Black Panthers and the Patty Hearst case.[^1]
 

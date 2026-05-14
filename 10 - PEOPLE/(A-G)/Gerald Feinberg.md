@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Gerald Feinberg was a physics professor at Columbia University."
+born: 1933-05-27
+died: 1992-04-21
+location: "New York City, New York"
 ---
 
 Gerald Feinberg was a physics professor at [[Columbia University]]. He was working on hypotheses involving a subatomic particle called a [[Tachyon]], which is proposed to be superluminal, or faster-than-light[^1].

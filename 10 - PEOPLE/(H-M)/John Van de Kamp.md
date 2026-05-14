@@ -5,6 +5,9 @@ tags:
   - Lawyer
   - LawEnforcement
 summary: "Three consecutive grand jury foremen and Ben Wagner, an attorney representing deputies exposing corruption, sought help from Van de Kamp's office, but to no avail."
+born: 1936-02-07
+died: 2017-03-14
+location: "Pasadena, California"
 ---
 [[John Van de Kamp]] was the State Attorney General of [[California]]. He is mentioned in connection with the "Queen's accident" investigation and the broader corruption in Mariposa County.[^1]
 

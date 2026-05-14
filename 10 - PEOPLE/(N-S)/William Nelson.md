@@ -8,6 +8,7 @@ tags:
   - 1970s
   - 1980s
 summary: William Nelson was the CIA's deputy director of operations from 1973 to 1976, overseeing all covert operations worldwide, and later became vice president for security at Fluor Corporation where he met with Ronald Lister during the early 1980s.
+died: 1995
 ---
 William Earl Nelson served as a [[Central Intelligence Agency]] officer from 1948, operating under military and [[State Department]] covers, primarily in the Far East. Japanese newspapers exposed his intelligence identity after discovering he was asking travelers to the Soviet Union to collect soil samples near Russian missile bases.[^1]
 

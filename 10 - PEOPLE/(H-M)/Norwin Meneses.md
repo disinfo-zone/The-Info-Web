@@ -10,6 +10,8 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: Norwin Meneses Cantarero, known as "El Rey de la Droga," was Nicaragua's most prolific drug trafficker who simultaneously served as a DEA informant while running a cocaine distribution network spanning from Central America to California in support of the Contra movement.
+born: 1943-06-21
+location: "Nicaragua"
 ---
 Norwin Meneses Cantarero, known as "El Rey de la Droga" (The King of Drugs) and "El Perico," was the leader of the Meneses drug organization and is believed to have been the [[Cali Drug Cartel|Cali cartel]]'s representative in [[Nicaragua]]. A drug trafficker since the early 1970s, Meneses lived in the [[United States]] from 1979 to 1985 and worked for the [[Contras]] as a recruiter, arms supplier, and benefactor throughout the entire Contra war.[^2] He simultaneously worked as a [[DEA]] informant from 1985 to 1991.[^2]
 

@@ -9,6 +9,8 @@ tags:
   - Contra_War
   - Dark_Alliance_Investigation
 summary: "Former Air America cargo handler who survived the shootdown of a CIA-contracted C-123K over Nicaragua, exposing the Ilopango Contra supply operation and CIA involvement."
+born: 1941-01-22
+location: "Marinette, Wisconsin"
 ---
 Eugene Hasenfus was a former [[Central Intelligence Agency]] [[Air America]] cargo handler who survived the shootdown of a Contra supply plane over [[Nicaragua]] on October 5, 1986, becoming living proof that the CIA and White House had been lying about U.S. involvement with the [[Contras]].[^1]
 

@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - Military
 summary: "Arigo was a Brazilian psychic healer who gained widespread notoriety for reportedly performing major surgeries with a pocketknife, without anesthesia, stitches, or antibiotics, and without causing any pain."
+born: 1921-10-18
+died: 1971-01-11
+location: "Congonhas do Campo, Minas Gerais, Brazil"
 ---
 
 Arigo was a Brazilian psychic healer who gained widespread notoriety for reportedly performing major surgeries with a pocketknife, without anesthesia, stitches, or antibiotics, and without causing any pain. His extraordinary abilities attracted the attention of [[Andrija Puharich]], who became obsessed with documenting his work[^1].

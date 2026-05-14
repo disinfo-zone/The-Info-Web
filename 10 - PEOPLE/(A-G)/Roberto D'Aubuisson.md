@@ -9,6 +9,9 @@ tags:
   - Contra_War
   - Dark_Alliance_Investigation
 summary: Salvadoran army major and ARENA party leader who ran death squads during El Salvador's civil war, linked to weapons deals with Ronald Lister's operations.
+born: 1943-08-23
+died: 1992-02-20
+location: "Santa Tecla, El Salvador"
 ---
 Roberto D'Aubuisson was a former Salvadoran army major and leader of the ultraright [[ARENA]] party who ran death squads during [[El Salvador]]'s civil war in the early 1980s.[^1] D'Aubuisson was reportedly running one of the death squads linked to the assassination of [[San Salvador]]'s Archbishop Oscar Romero - allegedly by hit men from the [[FDN]]'s predecessor, the [[Legion of September 15]].
 

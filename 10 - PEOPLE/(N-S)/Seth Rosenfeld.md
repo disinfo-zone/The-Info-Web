@@ -7,6 +7,7 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: San Francisco Examiner reporter whose 1986 investigative stories exposed the Frogman Case Contra drug connections and Norwin Meneses's cocaine trafficking network.
+born: 1956
 ---
 Seth Rosenfeld was an investigative reporter for the San Francisco Examiner whose 1986 stories provided the first hard evidence of a Contra drug ring operating in the United States.[^1]
 

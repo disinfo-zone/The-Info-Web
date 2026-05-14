@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Bertrand Goldschmidt was a French nuclear chemist who served during World War II with American nuclear researchers, becoming an expert in the chemistry of plutonium and plutonium extraction."
+born: 1912-11-02
+died: 2002-06-11
+location: "Paris, France"
 ---
 
 Bertrand Goldschmidt was a French nuclear chemist who served during World War II with American nuclear researchers, becoming an expert in the chemistry of plutonium and plutonium extraction. He chose to return to [[France]] after the war and joined its [[Atomic Energy Commission]]. Goldschmidt was among the few outsiders permitted to visit the completed reactor at [[Dimona]] in the 1960s.[^1]

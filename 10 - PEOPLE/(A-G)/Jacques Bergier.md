@@ -7,6 +7,9 @@ tags:
   - Journalist
   - Author
 summary: "Jacques Bergier was a journalist, former French resistance spy, and author with strong ties to the intelligence community and an interest in the supernatural."
+born: 1912-08-21
+died: 1978-11-23
+location: "Odessa, Ukraine"
 ---
 
 Jacques Bergier was a journalist, former French resistance spy, and author with strong ties to the intelligence community and an interest in the supernatural. He is known for bringing secret government [[Extrasensory Perception|ESP]] programs to public attention[^1].

@@ -7,6 +7,8 @@ tags:
   - Lawyer
   - INSLAW
 summary: "William Barr served as the Attorney General of the United States."
+born: 1950-05-23
+location: "New York City, New York"
 ---
 
 William Barr served as the Attorney General of the United States. He is noted for his involvement in the [[PROMIS Software Scandal]] investigation.

@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Dean Arnold Corll (December 24, 1939 – August 8, 1973), known as the Candyman Killer, was an American serial killer who murdered at least 28 teenage boys and young men in Houston, Texas, between 1970 and 1973."
+born: 1939-12-24
+died: 1973-08-08
+location: "Fort Wayne, Indiana"
 ---
 
 Dean Arnold Corll (December 24, 1939 – August 8, 1973), known as the Candyman Killer, was an American serial killer who murdered at least 28 teenage boys and young men in [[Houston]], between 1970 and 1973. Corll earned his nickname from his family's candy business, which provided access to neighborhood children. His case revealed connections to larger child trafficking and pornography networks across the United States.[^1]

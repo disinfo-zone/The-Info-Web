@@ -4,6 +4,8 @@ tags:
   - Person
   - Politician
 summary: "During his time in the Senate, Christopher Mellon served as a key advisor to Cohen."
+born: 1940-08-28
+location: "Bangor, Maine"
 ---
 [[William S. Cohen]] served as the 20th United States Secretary of Defense from 1997 to 2001, during the Clinton Administration. Prior to his role as Secretary of Defense, he was a United States Senator from Maine.[^1]
 

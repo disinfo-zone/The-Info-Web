@@ -4,6 +4,9 @@ tags:
   - Person
   - Military
 summary: "He worked as a classroom teacher, operated an independent real estate and insurance business, and held an administrative position with the Port of New York Authority."
+born: 1927-04-19
+died: 2001
+location: "Charlotte, North Carolina"
 ---
 
 Fred L. Lander III was born on April 19, 1927, in Charlotte, North Carolina. He served in the U.S. Army during the Korean Conflict before pursuing his education in law. In 1952, he earned his Juris Doctorate Degree from Howard University School of Law in Washington, D.C.

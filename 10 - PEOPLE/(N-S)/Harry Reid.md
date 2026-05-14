@@ -6,6 +6,9 @@ tags:
   - Military
   - Politician
 summary: "Senator Reid's interest in the UAP topic was sparked by his position as the senator for Nevada, the home of the highly classified Area 51 military installation."
+born: 1939-12-02
+died: 2021-12-28
+location: "Searchlight, Nevada, USA"
 ---
 [[Harry Reid]] was a United States Senator from Nevada who served as the Senate Majority Leader. He was a pivotal figure in the establishment and funding of the [[Advanced Aerospace Threat Identification Program]] (AATIP) and a staunch supporter of the [[Unidentified Anomalous Phenomena]] (UAP) disclosure movement until his death in 2021.[^1]
 

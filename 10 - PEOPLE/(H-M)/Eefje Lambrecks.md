@@ -5,6 +5,9 @@ tags:
   - Belgium
   - Dutroux
 summary: "Eefje Lambrecks, aged 19, disappeared from Ostend, Belgium, on August 22, 1995, while on a coastal vacation with friends including An Marchal."
+born: 1976-01-30
+died: 1995
+location: "Hasselt, Belgium"
 ---
 
 Eefje Lambrecks, aged 19, disappeared from Ostend, Belgium, on August 22, 1995, while on a coastal vacation with friends including [[An Marchal]]. The pair vanished after attending a stage hypnosis performance by entertainer [[Rasti Rostelli]] at the Blankenberge casino, where they spent nearly two hours under hypnosis, emerging disoriented as friends later testified it took hours to recover fully. Eefje, known for her cautious nature around strangers, exhibited confusion post-show, wandering with An before their abduction by [[Marc Dutroux]] in his white van. Dutroux transported them to his Marcinelle home, where the basement dungeon held [[Julie Lejeune]] and [[Melissa Russo]], so he confined Eefje and An upstairs in a bedroom for two weeks of captivity and abuse, undetected despite ongoing surveillance by the Othello team under Inspector [[Rene Michaux]]. Dutroux then moved them to a remote location for murder, burying their bodies under concrete at a Sars-la-Buissière property beside accomplice [[Bernard Weinstein]]'s remains, exhumed September 16, 1996, revealing evidence of prolonged torment linked to Dutroux's trafficking operations coordinated with [[Jean-Michel Nihoul]] via [[ASCO]] vehicles.[^1]

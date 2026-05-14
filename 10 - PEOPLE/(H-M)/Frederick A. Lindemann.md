@@ -4,6 +4,9 @@ tags:
   - Person
   - Researcher
 summary: "Oxford scientist and Lord Cherwell who served as Churchill's chief science adviser and formed early connections with figures central to Israel's nuclear program origins."
+born: 1886-04-05
+died: 1957-07-03
+location: "Baden-Baden, Germany"
 ---
 
 Frederick A. Lindemann, later Lord Cherwell, was a German-born Oxford scientist who became [[Winston Churchill]]'s chief science adviser in the years before World War II. He came to know [[Ernst David Bergmann]] and [[Chaim Weizmann]] during this period.[^1]

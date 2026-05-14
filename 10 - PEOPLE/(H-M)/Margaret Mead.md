@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Margaret Mead was a renowned American cultural anthropologist."
+born: 1901-12-16
+died: 1978-11-15
+location: "Philadelphia, Pennsylvania"
 ---
 
 

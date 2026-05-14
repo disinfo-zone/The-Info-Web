@@ -6,6 +6,9 @@ tags:
   - Physicist
   - Israel
 summary: "Frank Barnaby was a nuclear physicist and former employee of Britain's nuclear weapons installation at Aldermaston."
+born: 1928-09-27
+died: 2020-08-01
+location: "Andover, Hampshire, England"
 ---
 
 Frank Barnaby was a nuclear physicist and former employee of [[Britain]]'s nuclear weapons installation at Aldermaston. He spent two days with [[Mordecai Vanunu]] at the request of the *Sunday Times* to verify Vanunu's account of [[Israel]]'s nuclear program. Barnaby concluded that Vanunu's account was "totally convincing." After leaving government service, Barnaby became director of the Stockholm International Peace Research Institute (SIPRI), an arms control study group funded by the Swedish government.[^1]

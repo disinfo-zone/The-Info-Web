@@ -10,6 +10,9 @@ tags:
   - PROMIS
   - INSLAW
 summary: "Robert Philip Hanssen was an FBI supervisory special agent who spied for Soviet and Russian intelligence across three periods from 1979 to 2001, betraying approximately 50 human assets and thousands of pages of classified material before pleading guilty to 15 espionage counts. Post-arrest reporting alleged that the FBI case management system he exploited was a derivative of INSLAW's PROMIS software, a claim absent from the official charging documents and the 2003 DOJ Inspector General report."
+born: 1944-04-18
+died: 2023-06-05
+location: "Chicago, Illinois, USA"
 ---
 Robert Philip Hanssen was born April 18, 1944, in Chicago, Illinois. He attended Knox College and received an M.B.A. from Northwestern University, then joined the Chicago Police Department briefly before entering the FBI as a Special Agent in 1976. During a 25-year career he served primarily in Soviet counterintelligence assignments in New York City and Washington, D.C., attaining the rank of GS-15 supervisory special agent. He was a devout Roman Catholic and a member of Opus Dei.
 

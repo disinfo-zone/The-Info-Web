@@ -4,6 +4,9 @@ tags:
   - Person
   - BCCI
 summary: "Pharaon launched himself into the construction business in Saudi Arabia in 1965, founding Saudi Arabian Research and Development Corporation (REDEC)."
+born: 1940-09-07
+died: 2017-01-06
+location: "Riyadh, Saudi Arabia"
 ---
 
 Ghaith R. Pharaon was a flamboyant [[Bank of Credit and Commerce International|BCCI]] front man and a [[Saudia Arabia|Saudi]] financier.[^1] He acquired [[Georgia National Bank]] and [[Independence Bank of Encino]], and was a shareholder in [[Attock Oil]], BCCI, and [[CenTrust Savings Bank]].[^2]

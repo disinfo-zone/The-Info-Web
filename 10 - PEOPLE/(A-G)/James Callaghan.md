@@ -5,6 +5,9 @@ tags:
   - BCCI
   - CIA
 summary: "James Callaghan, also known as Lord Callaghan, was a former British prime minister who served as a paid economic adviser to the BCCI."
+born: 1912-03-27
+died: 2005-03-26
+location: "Portsmouth, England"
 ---
 
 James Callaghan, also known as Lord Callaghan, was a former [[Great Britain|British]] prime minister who served as a paid economic adviser to the [[Bank of Credit and Commerce International|BCCI]].[^1] His association with BCCI was part of [[Agha Hasan Abedi]]'s strategy to cultivate relationships with influential figures and enhance the bank's image.

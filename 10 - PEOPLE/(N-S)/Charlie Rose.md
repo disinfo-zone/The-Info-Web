@@ -9,6 +9,9 @@ tags:
   - SRI
   - DIA
 summary: "U.S. Congressman from North Carolina who chaired the House Intelligence Evaluation Subcommittee and was a staunch advocate of the Grill Flame remote viewing program."
+born: 1939-08-10
+died: 2012-09-03
+location: "Fayetteville, North Carolina, USA"
 ---
 
 Charlie Rose was a U.S. Congressman from North Carolina and a Democrat who chaired the House Intelligence Committee's Evaluation Subcommittee. He became a staunch supporter of the [[STARGATE PROJECT|Grill Flame]] program after being briefed on it in the late 1970s by General [[Edmund Thompson]] and [[Jack Vorona]], the head of the [[Defense Intelligence Agency|DIA]]'s Scientific and Technical Intelligence Directorate.[^1]

@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "During the Gulf War in 1991, Arafat publicly supported Iraq against the United States, which led to him losing his standing and money sources from Saudi Arabia and other Gulf states."
+born: 1929
+died: 2004-11-11
+location: "Cairo, Egypt"
 ---
 
 [[Yasser Arafat]] was a prominent Palestinian leader. He was aligned with [[Syria]] at one point and attempted to negotiate with the [[Iran|Iranians]] to secure the release of [[United States|American]] hostages in April 1980, but was rebuffed as he could not guarantee arms sales to [[Iran]].[^1]

@@ -8,6 +8,9 @@ tags:
   - INSLAW
   - Military
 summary: "Alvin Wilson Ash (1921-2019) was a retired U.S. Army Lieutenant Colonel who, as a civilian programmer and systems analyst at Computer Usage Company, helped develop PROMIS for the DC U.S. Attorney's Office, subsequently worked at the LEAA within the Department of Justice, sat on the INSLAW advisory board, and was a close personal friend of Bill Hamilton."
+born: 1921-07-30
+died: 2019-07-07
+location: "New York City, New York"
 ---
 Alvin Wilson Ash was born July 30, 1921, in New York City. He attended Nicholas Senn High School in Chicago, where he became an Eagle Scout and ROTC Cadet Lieutenant Colonel, graduating in 1939. He enrolled at the University of Illinois in the ROTC program and enlisted in the U.S. Army in July 1940. He attended the preparatory school at Fort Sheridan hoping for a West Point appointment, and in 1943 received that appointment. He graduated from West Point in 1946.
 

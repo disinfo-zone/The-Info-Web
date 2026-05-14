@@ -5,6 +5,9 @@ tags:
   - RemoteViewer
   - Stargate
 summary: "In 1966, Backster conducted an experiment where he attached polygraph electrodes to a plant and observed its responses to his thoughts, including the intention to harm it."
+born: 1924-02-27
+died: 2013-06-24
+location: "Lafayette Township, New Jersey"
 ---
 
 

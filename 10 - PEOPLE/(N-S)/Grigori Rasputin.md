@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Grigori Rasputin was a Russian mystic and self-proclaimed holy man who exerted significant influence over the late Russian Imperial family."
+born: 1869-01-22
+died: 1916-12-30
+location: "Pokrovskoye, Siberia, Russian Empire"
 ---
 
 

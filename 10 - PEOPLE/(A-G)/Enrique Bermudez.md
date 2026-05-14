@@ -8,6 +8,9 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Supreme military commander of the FDN and former Somoza military attache in Washington who was hired by the CIA in 1980 to reassemble the National Guard into a Contra fighting force, and was murdered in Managua in 1991.
+born: 1932-12-11
+died: 1991-02-16
+location: "León, Nicaragua"
 ---
 Enrique Bermúdez "Commandante 380" was the supreme military commander of the [[FDN]], the largest [[Contras|Contra]] faction.[^3] A former military attaché for the [[Anastasio Somoza|Somoza]] regime in [[Washington, D.C.|Washington]], he was hired by the [[Central Intelligence Agency]] in 1980 to reassemble Somoza's scattered [[Nicaraguan National Guard|National Guard]] brigades into a fighting force.
 
