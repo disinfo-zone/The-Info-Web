@@ -5,6 +5,8 @@ tags:
   - Belgium
   - Dutroux
 summary: "Sabine Dardenne, aged 12, disappeared from her hometown of Farciennes, Belgium, on May 26, 1996, while riding her bicycle to school."
+born: 1983-10-28
+location: "Tournai, Belgium"
 ---
 
 Sabine Dardenne, aged 12, disappeared from her hometown of Farciennes, Belgium, on May 26, 1996, while riding her bicycle to school. She was abducted by [[Marc Dutroux]] with assistance from accomplice [[Michel Lelievre]], who positioned himself to block her path near a local factory, allowing Dutroux to seize her and force her into a white van registered to [[Jean-Michel Nihoul]]'s [[ASCO]] company using chloroform for sedation. The van, used for photographing potential victims near schools for client catalogues, transported Sabine to Dutroux's Marcinelle residence, where she was confined in a soundproofed basement dungeon constructed in 1993 with labor from [[Claude Thirault]] and disguised behind plywood shelving. Held for nearly three months alongside earlier captive [[Laetitia Delhez]] after her August abduction, Sabine endured starvation, abuse, and conditioning through hypnosis and drugs, emerging so dependent on Dutroux that she resisted rescuers and embraced him during the August 15, 1996, liberation.[^1]

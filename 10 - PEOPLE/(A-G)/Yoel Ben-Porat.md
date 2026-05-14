@@ -6,6 +6,8 @@ tags:
   - Israel
   - General
 summary: "Colonel Yoel Ben-Porat, known as Buffy, was the unit commander of Unit 8200, an Israeli Signals Intelligence (Sigint) unit."
+born: 1931
+died: 2007
 ---
 
 Colonel [[Yoel Ben-Porat]], known as Buffy, was the unit commander of [[Unit 8200]], an [[Israel|Israeli]] Signals Intelligence (Sigint) unit. He later became a brigadier general and was appointed official spokesman of the [[Israel|Israeli Defense Forces]].[^1]

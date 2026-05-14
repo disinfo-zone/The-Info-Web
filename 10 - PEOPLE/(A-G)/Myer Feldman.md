@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Myer Feldman, also known as Mike Feldman, served as President John F."
+born: 1914-06-22
+died: 2007-03-01
+location: "Philadelphia, Pennsylvania"
 ---
 
 Myer Feldman, also known as Mike Feldman, served as President [[John F. Kennedy]]'s presidential point man for Jewish and Israeli affairs. Kennedy viewed Feldman, whose strong support for [[Israel]] was widely known, as a necessary evil and a political debt that had to be paid. Feldman was authorized to monitor all [[State Department]] and White House cable traffic on the [[Middle East]], which created bureaucratic chaos due to his strong bias towards [[Israel]].[^1]

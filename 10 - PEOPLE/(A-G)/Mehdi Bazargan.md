@@ -6,6 +6,9 @@ tags:
   - Israel
   - Military
 summary: "First prime minister of revolutionary Iran under Khomeini who sought to normalize relations with the U.S. before being ousted by extremists."
+born: 1907-09-01
+died: 1995-01-20
+location: "Tehran, Iran"
 ---
 
 [[Mehdi Bazargan]] was the first prime minister appointed by the revolutionary government of [[Ayatollah Ruhollah Khomeini]] in [[Iran]]. He was a member of the National Front and a supporter of [[Mohammed Mossadegh]], representing [[Ayatollah Ruhollah Khomeini|Khomeini's]] compromise between the fundamentalists and the middle class.[^1]

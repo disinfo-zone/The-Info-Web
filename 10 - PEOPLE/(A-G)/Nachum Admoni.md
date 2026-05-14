@@ -7,6 +7,8 @@ tags:
   - Israel
   - Military
 summary: "Acting and later full Director of Mossad who served on the Iran-Israel Joint Committee for supplying arms to Iran during the Iran-Iraq War."
+born: 1929-11-21
+location: "Jerusalem, Mandatory Palestine"
 ---
 
 [[Nachum Admoni]] was the acting Director of [[Mossad]] and later its full Director. He was the first [[Mossad]] chief to be appointed from the bureaucracy rather than the military. He was appointed after [[Yekutiel Adam]], who was in line for the position, was assassinated.[^1]

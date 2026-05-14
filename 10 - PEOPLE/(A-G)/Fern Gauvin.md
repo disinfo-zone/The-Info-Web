@@ -7,6 +7,7 @@ tags:
   - Stargate
   - SRI
 summary: "Fernand 'Fern' Gauvin was a civilian counterintelligence specialist working at Arlington Hall, a military/civilian intelligence complex."
+location: "Rhode Island"
 ---
 
 Fernand "Fern" Gauvin was a civilian counterintelligence specialist working at Arlington Hall, a military/civilian intelligence complex. He was one of the original six soldier psychics selected for the [[STARGATE PROJECT|Gondola Wish]] program in 1977.[^1]

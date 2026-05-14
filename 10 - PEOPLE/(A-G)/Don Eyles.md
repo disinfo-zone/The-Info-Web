@@ -6,6 +6,7 @@ tags:
   - Person
   - RemoteViewer
 summary: "Don Eyles was a computer scientist who designed the guidance system on the Antares lunar lander, part of the Apollo Program."
+born: 1943
 ---
 
 Don Eyles was a computer scientist who designed the guidance system on the Antares lunar lander, part of the [[Apollo Program]]. In January 1971, during the [[Apollo 14]] mission, the Antares's computer guidance system malfunctioned, flashing an "Abort" signal[^1].

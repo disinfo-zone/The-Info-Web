@@ -11,6 +11,9 @@ tags:
   - RemoteViewer
   - NSA
 summary: "Faurer's interest led him to assign the remote-viewing unit at Fort Meade a dozen new tasks in April 1982."
+born: 1928-02-07
+died: 2014-11-07
+location: "Medford, Massachusetts"
 ---
 
 Lincoln D. Faurer was a Lieutenant General and the Director of the [[NSA]] (NSA). In the spring of 1982, he was given a briefing on the [[U.S. Army]]'s [[Remote Viewing]] program, and he saw [[Extrasensory Perception|extrasensory perception]] as a form of [[Signals Intelligence|signals intelligence]] with potential operational value[^1].

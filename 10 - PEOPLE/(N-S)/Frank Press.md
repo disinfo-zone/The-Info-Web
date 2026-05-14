@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Frank Press was the presidential science adviser during the Carter administration."
+born: 1924-12-04
+died: 2020-01-29
+location: "Brooklyn, New York, USA"
 ---
 
 Frank Press was the presidential science adviser during the [[Jimmy Carter|Carter]] administration. He was a seismologist who had worked for years on classified nuclear detection issues and knew the [[VELA Satellite]] program well. After a VELA satellite recorded probable evidence of a nuclear explosion on September 22, 1979, Press suggested convening an unbiased outside study to determine if it was a test. He was concerned about the political implications if it leaked that the administration had concluded there had been a nuclear explosion.[^1]

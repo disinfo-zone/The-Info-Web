@@ -5,6 +5,8 @@ tags:
   - Nuclear
   - Israel
 summary: "Culler's team spent days at Dimona, climbing through various excavations, but found nothing suspicious, despite the elaborate Israeli deception, which included a false control room and practice sessions for Israeli technicians."
+born: 1923
+died: 2004
 ---
 
 Floyd L. Culler, Jr. was a leading expert in the science of nuclear reprocessing. He served as deputy director of the Chemical Technology Division at the Oak Ridge National Laboratory in [[Tennessee]], where the first uranium for American nuclear weapons had been enriched. Culler led the American inspection team sent to [[Dimona]] by the [[John F. Kennedy|Kennedy]] administration, following a pattern that would be repeated until the inspections ended in 1969.[^1]

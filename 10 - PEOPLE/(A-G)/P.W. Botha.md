@@ -6,6 +6,9 @@ tags:
   - Israel
   - Military
 summary: "In 1978, Prime Minister Begin dispatched Ezer Weizman, then Israeli Defense Minister, to Pretoria to meet Botha to discuss Israeli-South African relations."
+born: 1916-01-12
+died: 2006-10-31
+location: "Paul Roux, Orange Free State, South Africa"
 ---
 
 [[P.W. Botha]] was the Prime Minister and later President of [[South Africa]]. He also served as Defense Minister. He played a key role in developing [[South Africa|South Africa's]] military and nuclear capabilities.[^1]

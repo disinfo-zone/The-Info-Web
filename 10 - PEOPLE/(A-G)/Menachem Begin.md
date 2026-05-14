@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Menachem Begin was the 6th Prime Minister of Israel, serving from 1977 to 1983."
+born: 1913-08-16
+died: 1992-03-09
+location: "Brest-Litovsk, Russian Empire (now Brest, Belarus)"
 ---
 
 Menachem Begin was the 6th Prime Minister of [[Israel]], serving from 1977 to 1983. His surprising victory in the May 1977 national elections ended twenty-nine years of [[Mapai Party|Mapai]] and [[Labor Party]] domination of the political process in [[Israel]]. This brought to power a government even more committed than Labor to the [[Samson Option]] and the necessity of an Israeli nuclear arsenal. Begin and his political followers represented a populist-nationalist view of a greater [[Israel]] with a right to permanent control of the [[West Bank]].[^1]

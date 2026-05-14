@@ -10,6 +10,9 @@ tags:
   - Military
   - Stargate
 summary: "William Richard Higgins was a Marine Lieutenant Colonel who served as chief of the United Nations Military Observer Group Lebanon."
+born: 1945-01-15
+died: 1989-07-31
+location: "Danville, Kentucky, USA"
 ---
 
 William Richard Higgins was a [[U.S. Marine Corps|Marine]] Lieutenant Colonel who served as chief of the [[United Nations Military Observer Group Lebanon]]. On February 17, 1988, he was abducted in [[Lebanon]] after meeting with the [[Amal Militia]] in the coastal city of Tyre[^1].

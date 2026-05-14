@@ -5,6 +5,9 @@ tags:
   - PROMIS
   - CIA
 summary: "Co-founder of Nugan Hand Bank in Australia, linked to CIA-connected Air America officials and international money laundering."
+born: 1942-12-30
+died: 1980-01-27
+location: "Griffith, New South Wales, Australia"
 ---
 
 

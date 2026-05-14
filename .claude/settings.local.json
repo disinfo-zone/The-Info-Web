@@ -56,7 +56,8 @@
       "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\David\\\\Documents\\\\SpiderOak Hive\\\\The_Info_Web\\\\The_Info_Web\\\\10 - PEOPLE\" -Recurse -File)",
       "Bash(Select-Object -ExpandProperty Name)",
       "Bash(Sort-Object)",
-      "PowerShell($content = Get-Content \"C:\\\\Users\\\\David\\\\Documents\\\\SpiderOak Hive\\\\The_Info_Web\\\\The_Info_Web\\\\40 - EVENTS\\\\INTELLIGENCE_SCANDALS\\\\October Surprise.md\" -Raw; [regex]::Matches\\($content, '\\\\[\\\\[\\([^\\\\[\\\\]|]+\\)\\(?:\\\\|[^\\\\[\\\\]]+\\)?\\\\]\\\\]'\\) | ForEach-Object { $_.Groups[1].Value } | Sort-Object -Unique)"
+      "PowerShell($content = Get-Content \"C:\\\\Users\\\\David\\\\Documents\\\\SpiderOak Hive\\\\The_Info_Web\\\\The_Info_Web\\\\40 - EVENTS\\\\INTELLIGENCE_SCANDALS\\\\October Surprise.md\" -Raw; [regex]::Matches\\($content, '\\\\[\\\\[\\([^\\\\[\\\\]|]+\\)\\(?:\\\\|[^\\\\[\\\\]]+\\)?\\\\]\\\\]'\\) | ForEach-Object { $_.Groups[1].Value } | Sort-Object -Unique)",
+      "Bash(Get-Date *)"
     ]
   }
 }

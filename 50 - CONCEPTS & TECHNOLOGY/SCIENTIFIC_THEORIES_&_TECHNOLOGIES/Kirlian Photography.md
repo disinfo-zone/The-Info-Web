@@ -9,6 +9,8 @@ tags:
 description: Kirlian photography is a technique for capturing images of objects placed on a photographic plate connected to a high-voltage source, producing a glow or aura around the object.
 category: "Scientific Theory & Technology"
 summary: "Kirlian Photography is a technique for capturing images of objects placed on a photographic plate connected to a high-voltage source, producing a glow or aura around the object."
+start: 1939
+location: Soviet Union
 ---
 
 [[Kirlian Photography]] is a technique for capturing images of objects placed on a photographic plate connected to a high-voltage source, producing a glow or aura around the object. It is named after Semyon Kirlian, a Russian electrician who discovered the effect in 1939.[^1]

@@ -7,6 +7,8 @@ tags:
   - Researcher
   - Physicist
 summary: "Motivated by a desire to gain philosophical insight into the nature of Consciousness, Dewan trained himself and members of his research staff to modulate the brain's alpha rhythms."
+born: 1931
+died: 2009
 ---
 
 Edmond M. Dewan was a physicist at the [[Air Force Cambridge Research Laboratories]] in Bedford, [[Massachusetts]]. In the early 1960s, he pioneered the work on [[Synthetic Telepathy]], a technology that allows the brain to receive a message that it perceives to be a voice transmission, but is actually a microwave beam[^1].

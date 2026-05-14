@@ -8,6 +8,8 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: CIA Inspector General whose 1998 investigation and congressional testimony revealed the agency's secret 1982 agreement with the Justice Department exempting CIA assets from drug crimes reporting.
+born: 1939-10-14
+location: "Washington, D.C."
 ---
 Fred P. Hitz was the [[Central Intelligence Agency]] Inspector General who conducted the agency's internal investigation into Contra drug trafficking and testified before Congress in March 1998 about his findings.[^1]
 

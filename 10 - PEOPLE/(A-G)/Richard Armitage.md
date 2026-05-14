@@ -9,6 +9,9 @@ tags:
   - DoD
   - Politician
 summary: "Richard Armitage served as Assistant Secretary of Defense for International Security Affairs from 1983 to 1989 and as Deputy Secretary of State from 2001 to 2005, was named in the May 1985 Reynolds-Weld letter as a broker for the covert PROMIS software distribution, and was later identified as the source who inadvertently disclosed Valerie Plame's CIA identity to Robert Novak in 2003."
+born: 1945-04-26
+died: 2021-12-18
+location: "Boston, Massachusetts"
 ---
 Richard Lee Armitage was born April 26, 1945, in Boston, Massachusetts. He graduated from the U.S. Naval Academy in 1967 and served multiple combat tours in Vietnam, attaining the rank of lieutenant commander before leaving the Navy in 1973. After Vietnam, he worked in various Defense Department capacities in Southeast Asia through the mid-1970s. He died December 18, 2021, at age 76.[^5]
 

@@ -5,6 +5,8 @@ tags:
   - Reconnaissance
 category: "Military Technology"
 summary: "The U-2 Spy Plane is a high-altitude reconnaissance aircraft developed by the United States. It was jointly developed by the Central Intelligence Agency and the Air Force under cover by the Lockheed Aircraft Company."
+start: 1956-07-04
+location: West Germany
 ---
 The U-2 Spy Plane is a high-altitude reconnaissance aircraft developed by the [[United States]]. It was jointly developed by the [[Central Intelligence Agency|CIA]] and the Air Force under cover by the [[Lockheed Aircraft Company]]. The U-2 was capable of flying and gliding for almost eleven hours at heights greater than 65,000 feet, covering more than five thousand miles, while utilizing only one thousand gallons of fuel. Special lenses, cameras, and thin film were developed for it, enabling the spy plane to photograph a path from [[Moscow]] to [[Tashkent]] in one take.[^1]
 

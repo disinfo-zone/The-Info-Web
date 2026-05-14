@@ -7,6 +7,9 @@ tags:
   - Israel
   - Military
 summary: "Retired CIA officer who helped restore the Shah in 1953 and later gathered anti-Carter CIA veterans during the Iranian hostage crisis."
+born: 1916-07-16
+died: 1991-01-14
+location: "Birmingham, Alabama"
 ---
 
 [[Miles Copeland]] was a well-known retired [[Central Intelligence Agency|CIA]] officer. In December 1979, he gathered a group of [[Central Intelligence Agency|CIA]]-connected officers and associates who were unhappy with the [[Jimmy Carter|Carter]] administration and the [[Central Intelligence Agency|CIA]] leadership.[^1]

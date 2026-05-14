@@ -6,6 +6,9 @@ tags:
   - Judge
   - LawEnforcement
 summary: "Harry Connick was the district attorney of Orleans Parish in New Orleans during the mid-1970s."
+born: 1926-03-27
+died: 2024-01-25
+location: "Mobile, Alabama"
 ---
 
 Harry Connick was the district attorney of Orleans Parish in New Orleans during the mid-1970s. He prosecuted cases involving child prostitution rings connected to Boy Scout [[Troop 137]]. Connick's office handled the arrests of scout leaders including [[Richard Halvorsen]], [[Raymond Woodall]], and [[Robert Lang]] in September 1976. He later became a judge and his son Harry Connick Jr. is a known actor and singer.[^1]

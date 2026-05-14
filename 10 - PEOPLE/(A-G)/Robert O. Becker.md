@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "Becker's work convinced him that a microwave signal, such as the Moscow Signal, 'could affect the central nervous system, put people to sleep, interfere with decision making capacity and induce chronic stress'."
+born: 1923-05-31
+died: 2008-05-14
+location: "River Edge, New Jersey"
 ---
 
 Robert O. Becker was a physician and researcher who worked on microwave weapons for the [[Department of Defense]]. He was a colleague of [[Samuel Koslov]] and [[Allan H. Frey]], and was twice nominated for the Nobel Prize[^1].

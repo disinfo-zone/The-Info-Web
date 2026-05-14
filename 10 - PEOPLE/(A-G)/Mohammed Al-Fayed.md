@@ -4,6 +4,9 @@ tags:
   - Person
   - PROMIS
 summary: "Father of Dodi Fayed and husband of Samira Khashoggi Fayed, connected to the PROMIS investigation through his son's death."
+born: 1929-01-27
+died: 2023-08-30
+location: "Alexandria, Egypt"
 ---
 [[Mohammed Al-Fayed]] was the father of [[Dodi Fayed]] and the husband of [[Samira Khashoggi Fayed]].[^1]
 

@@ -4,6 +4,8 @@ tags:
   - Person
   - Belgium
 summary: "Baron Benoit de Bonvoisin served as a director of Societe Generale de Banque (also referred to as 'Society General'), which was described as 'the largest financial firm in the country' (Belgium)."
+born: 1939-03-14
+location: "Etterbeek, Brussels, Belgium"
 ---
 
 Baron Benoit de Bonvoisin served as a director of [[Societe Generale de Banque]] (also referred to as "Society General"), which was described as "the largest financial firm in the country" ([[Belgium]]). This banking institution was controlled by "a fraternity of families who provided most of the funding for CSP political campaigns." The CSP (Parti Social Chretien/[[Christian Social Party]]) was described as a political faction that "at its fringes aligned with Belgium's neofascist movement and [[Operation Gladio]]." Operation Gladio was characterized as "a post-WW2 effort by NATO bloc spy agencies to tamper the dialectic swing away from fascism towards left-leaning political movements."[^1]

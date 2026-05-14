@@ -8,6 +8,9 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Yale University cocaine expert who warned Congress in 1979 about an impending freebase cocaine epidemic, was ignored, and returned in 1986 to criticize the government's failure to act.
+born: 1933
+died: 1999-08-09
+location: "Newark, New Jersey"
 ---
 Dr. Robert Byck was a Yale University cocaine expert who testified before Congress in 1979 to warn of an impending drug epidemic from smokable cocaine, seven years before the 1986 crack panic. His warnings were completely ignored.[^1]
 

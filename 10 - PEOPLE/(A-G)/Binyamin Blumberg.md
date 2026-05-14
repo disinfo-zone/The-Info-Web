@@ -5,6 +5,7 @@ tags:
   - Nuclear
   - Israel
 summary: "Binyamin Blumberg was a former military intelligence officer handpicked by Shimon Peres to direct the Office of Special Tasks, a new intelligence agency created to provide security for Israel's burgeoning nuclear operation at Dimona."
+born: 1923
 died: 2018
 location: "Israel"
 ---

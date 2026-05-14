@@ -10,6 +10,9 @@ tags:
   - INSLAW
   - Nixon
 summary: "Leonard Garment was a prominent Washington attorney, former Nixon White House Counsel, and partner at Dickstein, Shapiro & Morin, whose meeting with Deputy Attorney General Arnold Burns preceded the dismissal of INSLAW's lead litigation counsel from that firm."
+born: 1924-05-11
+died: 2013-07-13
+location: "Brooklyn, New York"
 ---
 
 Leonard Garment was a prominent Washington attorney and former aide to [[Richard Nixon]]. He was hired by [[Israel]] in June 1986 to represent Colonel [[Aviem Sella]], the Israeli handler of [[Jonathan Pollard]], after Pollard gave up Sella's name. Garment's goal was to find common ground between [[Washington, D.C.]] and the government of [[Israel]] and settle the matter before it led to more damaging press.[^1]

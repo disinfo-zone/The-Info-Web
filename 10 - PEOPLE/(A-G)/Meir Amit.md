@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Meir Amit was the former chief of the Mossad, Israel's national intelligence agency."
+born: 1921-03-17
+died: 2009-07-17
+location: "Tiberias, Mandatory Palestine"
 ---
 
 Meir Amit was the former chief of the [[Mossad]], [[Israel]]'s national intelligence agency. He was one of the high-profile Israeli figures who met with [[Uri Geller]], with reports indicating that Geller bent a spoon for him[^1].

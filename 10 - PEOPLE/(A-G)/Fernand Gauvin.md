@@ -6,6 +6,7 @@ tags:
   - Stargate
   - SRI
 summary: "Gauvin worked at Arlington Hall, home to some of the more 'James Bond-ish' elements of the U.S."
+location: "Rhode Island"
 ---
 
 

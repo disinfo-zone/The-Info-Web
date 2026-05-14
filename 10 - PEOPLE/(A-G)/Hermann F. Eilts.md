@@ -6,6 +6,9 @@ tags:
   - Diplomat
   - Military
 summary: "In a conversation with Kissinger in early November 1973, Eilts was told that the Israelis had 'panicked' on the fourth day of the war (October 9), leading to the decision to assist them."
+born: 1922-03-23
+died: 2006-10-12
+location: "Weissenfels, Germany"
 ---
 
 Hermann F. Eilts was the American ambassador to [[Egypt]]. He worked closely with [[Henry A. Kissinger]] during the intense [[Middle East]] shuttle diplomacy of the mid-1970s. Eilts was handpicked by Kissinger for the assignment to [[Cairo]] in October 1973, arriving at the end of the [[Yom Kippur War]].[^1]

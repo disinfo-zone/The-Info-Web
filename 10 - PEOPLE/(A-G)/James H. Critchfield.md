@@ -5,6 +5,9 @@ tags:
   - PROMIS
   - CIA
 summary: "CIA officer who developed contacts with international arms merchant Adnan Khashoggi, factotum for the House of Saud."
+born: 1917-01-30
+died: 2003-04-22
+location: "Hunter, North Dakota"
 ---
 [[James H. Critchfield]] was a [[Central Intelligence Agency|CIA]] officer who developed contacts with [[Adnan Khashoggi]], an international arms merchant and factotum for the House of Saud.[^1]
 

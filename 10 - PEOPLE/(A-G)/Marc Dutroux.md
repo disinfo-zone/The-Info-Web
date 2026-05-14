@@ -5,6 +5,8 @@ tags:
   - Belgium
   - Dutroux
 summary: "Marc Dutroux, born November 6 1956, operated as a Belgian child trafficker and serial killer whose 1996 arrest exposed connections to international pedophile networks."
+born: 1956-11-06
+location: "Ixelles, Brussels, Belgium"
 ---
 
 

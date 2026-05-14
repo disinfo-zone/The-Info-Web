@@ -5,6 +5,8 @@ tags:
   - Politician
   - Military
 summary: "McManus played a role in FIDCO's activities in Lebanon."
+born: 1943-03-11
+location: "Boston, Massachusetts, USA"
 ---
 [[Michael A. McManus]] served as Assistant to President [[Ronald Reagan]] at the [[White House]] in Washington D.C. He was also a Director, Vice President, and General Counsel to [[First Intercontinental Development Corporation|FIDCO]]. [^1]
 

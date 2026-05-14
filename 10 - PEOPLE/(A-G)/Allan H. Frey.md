@@ -6,6 +6,7 @@ tags:
   - Person
   - Researcher
 summary: "In 1961, Frey discovered a radical new technology, later termed Synthetic Telepathy, where a microwave input signal allowed the brain to perceive a message as a voice transmission, even though it was a microwave beam."
+born: 1935
 ---
 
 Allan H. Frey is a biologist known for his research into the effects of microwave radiation on the human body. Since 1960, he has worked on both classified and unclassified [[Department of Defense]] contracts, including those with the [[Office of Naval Research]] and the [[U.S. Army]][^1].

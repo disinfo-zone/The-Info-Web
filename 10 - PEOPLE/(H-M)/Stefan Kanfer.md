@@ -6,6 +6,9 @@ tags:
   - Person
   - Skeptic
 summary: "Stefan Kanfer was a reporter for *Time* magazine."
+born: 1933-05-17
+died: 2018-06-19
+location: "New York City, New York, USA"
 ---
 
 Stefan Kanfer was a reporter for *Time* magazine. He was a vocal critic of the [[Stanford Research Institute|SRI]]'s involvement in [[Extrasensory Perception|ESP]] research, particularly its work with [[Uri Geller]]. Kanfer targeted SRI for blame, stating, "SRI should be destroyed" for carrying out this kind of research, and that "That’s the way fascism began"[^1].

@@ -6,6 +6,9 @@ tags:
   - Person
   - Skeptic
 summary: "Martin Gardner (1914–2010) was an American science writer and a key figure in jump-starting the modern scientific skepticism movement."
+born: 1914-10-21
+died: 2010-05-22
+location: "Tulsa, Oklahoma"
 ---
 
 Martin Gardner (1914–2010) was an American science writer and a key figure in jump-starting the modern scientific skepticism movement. His 1952 book, *Fads and Fallacies in the Name of Science*, aimed to expose cranks, crackpots, and charlatans in the modern age[^1].

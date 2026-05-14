@@ -5,6 +5,8 @@ tags:
   - RemoteViewer
   - SRI
 summary: "Elgin demonstrated strong psychic abilities, performing well in remote viewing tests and even trying his hand at psychokinesis."
+born: 1943-02-07
+location: "Nampa, Idaho"
 ---
 
 

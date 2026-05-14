@@ -1,6 +1,8 @@
 ---
 category: "Military Technology"
 summary: "The USS Nimitz (CVN-68) is a nuclear-powered aircraft carrier of the United States Navy. It was the lead vessel of the USS Nimitz Carrier Strike Group that was involved in the 2004 Tic Tac Incident, one of the most well-documented and significant..."
+date: 2004-11-14
+location: Pacific Ocean, off the coast of San Diego
 ---
 The [[USS Nimitz]] (CVN-68) is a nuclear-powered aircraft carrier of the United States Navy. It was the lead vessel of the [[USS Nimitz]] Carrier Strike Group that was involved in the 2004 [[Tic Tac]], one of the most well-documented and significant [[Unidentified Anomalous Phenomena|UAP]] encounters in modern history.[^1]
 

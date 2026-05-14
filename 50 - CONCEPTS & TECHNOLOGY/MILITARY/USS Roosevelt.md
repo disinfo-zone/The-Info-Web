@@ -1,6 +1,9 @@
 ---
 category: "Military Technology"
 summary: "The USS Roosevelt (CVN-71) is a nuclear-powered aircraft carrier of the United States Navy. In 2014 and 2015, the USS Roosevelt Carrier Strike Group was at the center of a series of prolonged and deeply concerning encounters with Unidentified..."
+start: 2014
+end: 2015
+location: Atlantic Ocean, off the Southeastern United States
 ---
 The [[USS Roosevelt]] (CVN-71) is a nuclear-powered aircraft carrier of the United States Navy. In 2014 and 2015, the [[USS Roosevelt]] Carrier Strike Group was at the center of a series of prolonged and deeply concerning encounters with [[Unidentified Anomalous Phenomena]] (UAP) off the coast of the Southeastern United States, from Virginia to Florida.[^1]
 

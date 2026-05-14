@@ -5,6 +5,9 @@ tags:
   - u.s.-government
   - contra-war
 summary: William Colby was a former CIA director who was William Nelson's mentor and oversaw earlier CIA covert operations that set precedents for the Contra war.
+born: 1920-01-04
+died: 1996-04-27
+location: "Saint Paul, Minnesota"
 ---
 
 William Colby was a former [[Central Intelligence Agency]] director who was [[William Nelson]]'s mentor and oversaw earlier CIA covert operations that set precedents for the Contra war. Colby led the CIA from 1973 to 1976, a period that included controversial operations in [[Chile]], Angola, and elsewhere.[^1]

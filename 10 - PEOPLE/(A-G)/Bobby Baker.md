@@ -5,6 +5,9 @@ tags:
   - JFK
   - OrganizedCrime
 summary: "On October 8, 1963, Baker was forced to resign as a Senate investigation into his outside business activities began to reveal numerous questionable deals."
+born: 1928-11-12
+died: 2017-11-12
+location: "Easley, South Carolina"
 ---
 [[Bobby Baker]] was a key figure in a major scandal that emerged in the autumn of 1963. He was made secretary of the Senate Democrats in 1955 by then-Vice President [[Lyndon Johnson]], who referred to Baker as "my strong right arm, the last man I see at night, the first I see in the morning."[^1]
 

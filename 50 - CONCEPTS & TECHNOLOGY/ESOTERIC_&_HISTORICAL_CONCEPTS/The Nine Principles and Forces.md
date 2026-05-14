@@ -9,6 +9,8 @@ tags:
 description: The Nine Principles and Forces were a group of entities that Dr. D. G. Vinod allegedly channeled during a séance at the Round Table Foundation.
 category: "Esoteric & Historical Concept"
 summary: "'The Nine Principles and Forces' was the name given to a group of entities that the Hindu mystic Dr. D. G. Vinod allegedly channeled during a séance at Andrija Puharich's Round Table Foundation on New Year's Eve, 1952.[^1]"
+date: 1952-12-31
+location: Round Table Foundation, Maine
 ---
 
 "[[The Nine Principles and Forces]]" was the name given to a group of entities that the Hindu mystic [[Dr. D. G. Vinod]] allegedly channeled during a séance at [[Andrija Puharich]]'s [[Round Table Foundation]] on New Year's Eve, 1952.[^1]

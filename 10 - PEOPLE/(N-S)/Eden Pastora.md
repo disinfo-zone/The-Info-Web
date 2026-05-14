@@ -9,6 +9,9 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Former Sandinista war hero known as Commandante Zero who became commander of the ARDE Southern Front Contra army in Costa Rica, was put on the CIA payroll, and eventually broke with the agency over drug trafficking.
+born: 1937-01-22
+died: 2020-06-16
+location: "Ciudad Darío, Nicaragua"
 ---
 Eden Pastora, known as "Commandante Zero," was a former [[Sandinistas|Sandinista]] war hero who became commander of [[ARDE]], the Southern Front [[Contras|Contra]] army based in [[Costa Rica]].[^1]
 

@@ -11,6 +11,8 @@ tags:
   - SAVAK
   - ArmsDealer
 summary: "Manucher Ghorbanifar was a former SAVAK officer and Iranian exile arms dealer whom the CIA formally burned as a 'fabricator' in 1984, yet who became the primary Iranian intermediary in the 1985-1986 Iran-Contra arms deals brokered through the NSC, and who was named in the May 1985 Reynolds-Weld letter as a broker for the covert distribution of PROMIS software."
+born: 1945
+location: "Iran"
 ---
 Manucher Ghorbanifar was born approximately 1945 in Iran. He served as an operative for SAVAK, the Shah's secret police and intelligence service, before the 1979 Iranian Revolution. Following the Revolution he relocated to Paris, France, where he established himself as an arms dealer and intelligence intermediary operating within the Iranian exile community and European intelligence networks.[^1]
 

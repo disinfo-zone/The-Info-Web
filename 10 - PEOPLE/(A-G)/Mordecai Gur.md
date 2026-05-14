@@ -6,6 +6,9 @@ tags:
   - Diplomat
   - Military
 summary: "Mordecai Gur was the Israeli military attaché."
+born: 1930-05-06
+died: 1995-07-16
+location: "Jerusalem, Mandatory Palestine"
 ---
 
 Mordecai Gur was the Israeli military attaché. He was present during a meeting between [[Henry A. Kissinger]] and [[Simcha Dinitz]], the Israeli ambassador, during the 1973 [[Yom Kippur War]], where Dinitz emphasized the desperate situation of the Israeli military and the need for more tanks and aircraft. Gur, who could be trusted with sensitive information, was dismissed from the meeting when Dinitz insisted on speaking with Kissinger alone.[^1]

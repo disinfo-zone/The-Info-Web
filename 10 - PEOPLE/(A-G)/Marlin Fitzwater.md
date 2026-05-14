@@ -6,6 +6,8 @@ tags:
   - Person
   - RemoteViewer
 summary: "Marlin Fitzwater was the White House press secretary under President Ronald Reagan."
+born: 1942-11-24
+location: "Salina, Kansas"
 ---
 
 Marlin Fitzwater was the [[White House]] press secretary under President [[Ronald Reagan]]. In May 1988, he confirmed the revelation made by [[Donald T. Regan]], former White House chief of staff, that President Reagan had sought the advice of a private astrologer during his tenure[^1].

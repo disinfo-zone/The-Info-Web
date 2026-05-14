@@ -5,6 +5,8 @@ tags:
   - colombian
   - contra-war
 summary: Juan Rafael Bustillo was the Salvadoran Air Force commander who provided hangar space at Ilopango Air Base for Felix Rodriguez's Contra resupply operation.
+born: 1935-01-31
+location: "El Salvador"
 ---
 
 Juan Rafael Bustillo was the Salvadoran Air Force commander who provided hangar space at Ilopango Air Base for [[Felix Rodriguez]]'s Contra resupply operation. Rodriguez "greased the skids" with Bustillo, using his influence to secure the facilities needed for the covert weapons and [[cocaine]] trafficking operation at the base in [[San Salvador|El Salvador]].[^1]

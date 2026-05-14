@@ -5,6 +5,8 @@ tags:
   - IranContra
   - Israel
 summary: "Cardoen later resigned and became a private contractor, securing a deal to supply all blasting equipment to the Chilean Mining Corporation."
+born: 1942-05-01
+location: "Santa Cruz, Chile"
 ---
 
 [[Carlos Cardoen]] is a Chilean businessman and arms producer, owner of [[Cardoen Industries]]. He comes from an upper-class Chilean family of Italian descent. After attending university in the [[United States|U.S.]] and receiving a degree as a mining engineer, he returned to [[Santiago]], [[Chile]], after [[Augusto Pinochet|General Augusto Pinochet's]] 1973 coup d'état to work for the government-owned [[Chilean Mining Corporation]]. His job involved procuring explosives for mining, which became a lucrative business for him personally due to kickbacks.[^1]

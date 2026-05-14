@@ -5,6 +5,9 @@ tags:
   - colombian
   - contra-war
 summary: Pablo Escobar was the leader of the Medellín Cartel who allegedly made a deal with Vice President George Bush's administration and whose cocaine empire supplied Contra-connected trafficking networks.
+born: 1949-12-01
+died: 1993-12-02
+location: "Rionegro, Colombia"
 ---
 Pablo Escobar was the leader of the [[Medellin Cartel|Medellín Cartel]] who allegedly made a deal with Vice President [[George H.W. Bush]]'s administration and whose cocaine empire supplied [[Contras|Contra]]-connected trafficking networks. An informant told federal officials that Escobar began ranting about Bush and his South Florida Drug Task Force, describing "an agreement or relationship between Bush and the American government and members of the Medellín cartel which resulted in planes flying guns to the cartel in [[Colombia]]." Escobar claimed to have a picture of Bush posing with Medellín cartel leader Jorge Ochoa in front of suitcases full of money.[^1]
 

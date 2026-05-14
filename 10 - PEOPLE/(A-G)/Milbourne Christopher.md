@@ -5,6 +5,9 @@ tags:
   - Skeptic
   - Magician
 summary: "Milbourne Christopher was a renowned American stage magician and author."
+born: 1914-03-23
+died: 1984-06-17
+location: "Baltimore, Maryland"
 ---
 
 Milbourne Christopher was a renowned American stage magician and author. He was known for his expertise in exposing fraudulent psychic claims and was occasionally brought into the [[Stanford Research Institute]] (SRI) laboratory during experiments with [[Uri Geller]].[^1]

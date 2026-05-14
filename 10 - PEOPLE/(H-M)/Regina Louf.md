@@ -7,6 +7,7 @@ tags:
   - Belgium
   - Dutroux
 summary: "Regina Louf, born in Ghent, Belgium, testified as witness Regina Louf in the Marc Dutroux investigation, providing accounts of child prostitution from the 1970s onward."
+born: 1969
 location: "Ghent, Belgium"
 ---
 

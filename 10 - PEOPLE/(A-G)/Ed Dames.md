@@ -6,6 +6,8 @@ tags:
   - Military
   - Stargate
 summary: "U.S. Army officer who served as remote viewing session monitor and analyst in the Stargate Project, later a controversial public figure in the field."
+born: 1946-03-22
+location: "San Francisco, California"
 ---
 
 

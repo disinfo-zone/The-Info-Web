@@ -4,6 +4,8 @@ tags:
   - Person
   - PROMIS
 summary: "Coleman was paid in travelers checks sent from the Luxembourg branch of the now-collapsed BCCI."
+born: 1943-09-25
+died: 2021-08-15
 ---
 [[Lester Coleman]] is a self-employed freelance writer, editor, and security consultant who also served as a [[Defense Intelligence Agency|DIA]] covert intelligence officer. He worked for six years with the secret unit [[Middle East Collection 10]] (MC-10) in [[Cyprus]], running a network of agents in Beirut with the mission to find American hostages held by extremists.[^1]
 

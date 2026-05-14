@@ -5,6 +5,8 @@ tags:
   - RemoteViewer
   - Stargate
 summary: "Lieutenant General James Clapper was a U.S."
+born: 1941-03-14
+location: "Fort Wayne, Indiana"
 ---
 
 

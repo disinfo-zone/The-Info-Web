@@ -5,6 +5,9 @@ tags:
   - Military
   - General
 summary: "Montt's military regime (1982–1983) was involved in some of the worst atrocities of Guatemala's 36-year civil war."
+born: 1926-06-16
+died: 2018-04-01
+location: "Huehuetenango, Guatemala"
 ---
 [[General Rios Montt]] was a Pentecostal "true believer" who became president of [[Guatemala]] in an army coup in March 1982. He was supported by the [[Ronald Reagan]] administration and aided by Full Gospel businessman [[John Carrette]], a former Army Ranger in [[Vietnam]].[^1]
 

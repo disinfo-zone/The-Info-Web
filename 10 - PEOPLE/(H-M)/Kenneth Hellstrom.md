@@ -4,6 +4,7 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Kenneth Hellstrom was as a victim of child sexual abuse perpetrated by John David Norman in the early 1970s within Norman's network of operations in Chicago, Illinois."
+died: 1977
 ---
 
 Kenneth Hellstrom was as a victim of child sexual abuse perpetrated by [[John David Norman]] in the early 1970s within Norman's network of operations in [[Chicago]]. Hellstrom encountered the exploitation activities tied to the apartment used for producing child pornography and sexual acts involving underage boys. This background positioned him as a key witness exposing the broader child trafficking and abuse ring led by Norman and his associates.[^1]

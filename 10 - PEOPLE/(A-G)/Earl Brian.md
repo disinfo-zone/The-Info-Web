@@ -8,6 +8,8 @@ tags:
   - CIA
   - DoJ
 summary: "Earl Brian was a California physician and businessman who served in Ronald Reagan's California cabinet alongside Edwin Meese and was named by INSLAW, Michael Riconosciuto, and the House Judiciary Committee as the central figure in the alleged conspiracy to steal and distribute the PROMIS software."
+born: 1942-02-26
+died: 2020-11-02
 ---
 Earl W. Brian was a physician, businessman, and California government official who served in Governor [[Ronald Reagan|Ronald Reagan's]] state cabinet alongside [[Edwin Meese]]. Brian co-founded Biotech Capital Corporation and held a controlling interest in [[Hadron]], a technology and information services company. He later founded Infotechnology, Inc. He had served in Vietnam, where his background in the Phoenix Program reportedly brought him into contact with intelligence networks that would intersect with his later activities.[^1]
 

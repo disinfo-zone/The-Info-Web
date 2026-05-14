@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Jung remarked on how some age-old mysteries never change, and that attempts to explain away seemingly miraculous results often fail against the facts."
+born: 1914-04-06
+died: 2006-07-31
+location: "Pennsylvania, USA"
 ---
 
 Robert A. McConnell was a physicist who authored the paper "ESP—Fact or Fancy?" His work was discussed by Nobel Laureate [[Wolfgang Pauli]] and psychiatrist [[Carl Jung]], who had a lively conversation about [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]] in the early 1950s[^1].

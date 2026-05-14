@@ -5,6 +5,9 @@ tags:
   - PROMIS
   - CIA
 summary: "Powerful West Virginia Democratic Senator whose executive assistant was Barbara Videnieks, wife of PROMIS figure Peter Videnieks."
+born: 1917-11-20
+died: 2010-06-28
+location: "North Wilkesboro, North Carolina"
 ---
 [[Robert Byrd]] was a powerful West Virginia Democratic Senator. His executive assistant was Barbara Videnieks, wife of [[Peter Videnieks]]. Byrd played a major role in the effort to have the [[Central Intelligence Agency|CIA]] move some of its administrative offices to Charlestown, 20 miles from Martinsburg, on the Virginia border.[^1]
 

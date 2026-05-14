@@ -8,6 +8,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Danilo BlandÃ³n Reyes was a Nicaraguan cocaine trafficker who operated a multimillion-dollar distribution ring in Los Angeles from 1981 to 1991, serving as the primary supplier to Freeway Ricky Ross while maintaining connections to the Contra movement and receiving U.S. political asylum despite known drug involvement.
+born: 1951-07-29
+location: "Managua, Nicaragua"
 ---
 "Oscar" Danilo BlandÃ³n Reyes was a [[Nicaragua|Nicaraguan]] cocaine trafficker who operated a multiton distribution ring in [[Los Angeles]] from 1981 to 1991.[^2] BlandÃ³n was the first major trafficker to establish a direct connection between [[South Central Los Angeles|South Central L.A.]] street gangs and the [[Colombia|Colombian]] cocaine cartels. He was the longtime primary supplier to [[Ricky Ross|"Freeway" Ricky Ross]], the leader of South Central L.A.'s largest [[Crack Cocaine|crack]] distribution network.
 

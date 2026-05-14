@@ -4,6 +4,7 @@ tags:
   - Military
   - Israel
   - SouthAfrica
+start: 1978
 ---
 [[SIMWA]] (SADF-IDF Mutual Wartime Agreement) was a military cooperation agreement drawn up between the [[South African Defense Force]] (SADF) and the [[Israel]] (IDF). It was created in 1978-1979, after [[Ezer Weizman]], then [[Israel|Israeli]] Defense Minister, agreed with [[P.W. Botha]], Prime Minister of [[South Africa]], on a wartime alliance as the price for continuing nuclear tests.[^1]
 

@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Maurice Bourges-Maunoury was a French politician who served as Prime Minister of France in 1957."
+born: 1914-08-19
+died: 1993-02-10
+location: "Luisant, Eure-et-Loir, France"
 ---
 
 Maurice Bourges-Maunoury was a French politician who served as Prime Minister of [[France]] in 1957. His government replaced [[Guy Mollet]]'s, and it was during his administration that the formal authorization for the [[Dimona]] reactor was signed by [[Christian Pineau]], then Foreign Minister, just as the government was being voted out of office.[^1]

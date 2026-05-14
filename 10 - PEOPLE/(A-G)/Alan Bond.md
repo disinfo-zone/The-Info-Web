@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "In 1987, a contribution was made to the West Australian Labor Party from the CIA, involving Richard Babayan and Earl Brian acting on behalf of Hadron."
+born: 1938-04-22
+died: 2015-06-05
+location: "Hammersmith, London, England"
 ---
 
 [[Alan Bond]] was a wealthy [[Australia|Australian]] businessman. He was involved in joint ventures with [[Carlos Cardoen]] and had connections to the [[Central Intelligence Agency|CIA]]'s operations.[^1]

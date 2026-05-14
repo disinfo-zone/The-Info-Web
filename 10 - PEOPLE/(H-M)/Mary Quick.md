@@ -5,6 +5,7 @@ tags:
   - CIA
   - Politician
 summary: "Her nephew, Brian Weiss, who had been living at her house in Fresno, was a business associate of Michael Riconosciuto."
+died: 1982-01-14
 ---
 [[Mary Quick]] was a 63-year-old school teacher and president of the Woman's Auxiliary at Fresno's American Legion Post 509. She was shot in the face and her purse stolen on January 14, 1982. Her death, along with that of [[Paul Morasca]], was traced to looted [[Central Intelligence Agency|CIA]] money from the Sydney-based [[Nugan Hand Bank]].[^1]
 

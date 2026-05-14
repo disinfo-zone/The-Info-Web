@@ -6,6 +6,8 @@ tags:
   - CIA
   - Israel
 summary: "In February 1989, Cave was spotted in Paraguay with Earl Brian, visiting Gen."
+born: 1929-08-06
+location: "New Jersey"
 ---
 
 [[George Cave]] was a longtime [[Central Intelligence Agency|CIA]] official and an [[Iran|Iranian]] expert, fluent in Farsi. He was officially purged from the [[Central Intelligence Agency|CIA]] in 1977 but remained active until 1989. His career was somewhat parallel to [[Ari Ben-Menashe|Ben-Menashe's]].[^1]

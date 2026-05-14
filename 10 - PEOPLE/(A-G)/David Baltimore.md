@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "David Baltimore is a Nobel Prize-winning biologist."
+born: 1938-03-07
+died: 2025-09-06
+location: "New York City, New York"
 ---
 
 David Baltimore is a Nobel Prize-winning biologist. He was the mentor of [[Garry Nolan]], a leading research scientist at [[Stanford University]] specializing in genetics, immunology, and bioinformatics[^1].

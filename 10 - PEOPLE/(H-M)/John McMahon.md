@@ -6,6 +6,8 @@ tags:
   - Stargate
   - SRI
 summary: "McMahon, along with Norm Everheart, had been involved in psychic spying experiments since the early days of the CIA-sponsored work at SRI."
+born: 1929-07-03
+location: "East Norwalk, Connecticut"
 ---
 
 

@@ -3,6 +3,7 @@ category: "Other"
 tags:
   - Person
 summary: "In September 1988, Ari Ben-Menashe visited the plant and met Mayers, who attempted to conceal the true purpose of the facility."
+died: 1988
 ---
 
 [[Hans Mayers]] was a German national who served as the director of [[Carlos Cardoen|Cardoen Industries]]' chemical plant in [[Paraguay]]. He presented the facility as an "agricultural project" producing insecticide, despite its true nature as a chemical weapons plant.[^1]

@@ -9,6 +9,8 @@ tags:
   - Apollo_Network
 category: "Esoteric & Historical Concept"
 summary: "In the mid-1990s, a private investigator named Marcel Vervloesem was investigating the disappearance of Manuel Schadwald for an NGO called the Morkhoven Workgroup when he came across Lothar Glandorf's name in a 1992 police report detailing a raid on..."
+date: 1998-06-20
+location: Zandvoort, Netherlands
 ---
 
 ### The Zandvoort Discovery

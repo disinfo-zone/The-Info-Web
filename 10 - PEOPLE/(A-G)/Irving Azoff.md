@@ -4,6 +4,8 @@ tags:
   - Person
   - OrganizedCrime
 summary: "On July 24, phone conversations took place in which Azoff, Sal Pisello, and the investigation of the record division of MCA were discussed."
+born: 1947-12-12
+location: "Danville, Illinois"
 ---
 [[Irving Azoff]] was in charge of the record division of [[Music Corporation of America|MCA]]. He was mentioned in [[Federal Bureau of Investigation|FBI]] wiretaps, which captured conversations between [[Eugene Giaquinto]] and [[Martin Bacow]]. On June 30, 1987, Giaquinto told Bacow that Azoff was "planning to take over the whole thing."[^1]
 

@@ -8,6 +8,7 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: Prominent criminal defense attorney who represented Deputy Daniel Garner in the Operation Big Spender corruption trial and attempted to introduce evidence of CIA drug money laundering, resulting in a judicial gag order.
+born: 1942-09-21
 ---
 Harland Braun was a prominent Los Angeles criminal defense attorney who represented LASD Deputy [[Daniel Garner]] during the [[Operation Big Spender]] corruption trial. He had previously defended actor Lee Marvin in his famous "palimony" suit and would later successfully represent one of the officers in the Rodney King beating case.[^1]
 

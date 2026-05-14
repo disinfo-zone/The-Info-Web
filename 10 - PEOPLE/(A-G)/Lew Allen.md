@@ -9,6 +9,9 @@ tags:
   - Military
   - Soviet
 summary: "U.S. Air Force chief of staff and Joint Chiefs member who influenced Pentagon psychic research programs and strategic defense initiatives."
+born: 1925-09-30
+died: 2010-01-04
+location: "Miami, Florida"
 ---
 
 Lew Allen was a powerful [[U.S. Air Force]] chief of staff and a member of the [[Joint Chiefs of Staff]]. He played a significant role in the [[Pentagon]]'s strategic defense initiatives, including the [[MX Missile Basing System]], and had direct influence over the direction of psychic research programs within the military[^1].

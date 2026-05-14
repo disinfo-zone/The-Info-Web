@@ -9,6 +9,8 @@ tags:
 description: Coordinate Remote Viewing (CRV) is a specific methodology of remote viewing that uses geographical coordinates to direct a psychic's perception to a target.
 category: "Research Methodology"
 summary: "Coordinate Remote Viewing (CRV) is a specific methodology of Remote Viewing that uses geographical coordinates (latitude and longitude) to direct a psychic's perception to a target."
+start: 1973
+location: Stanford Research Institute, Menlo Park, California
 ---
 
 [[Coordinate Remote Viewing]] (CRV) is a specific methodology of [[Remote Viewing]] that uses geographical coordinates (latitude and longitude) to direct a psychic's perception to a target. This technique was proposed by [[Ingo Swann]] to [[Hal Puthoff]] and [[Russell Targ]] at [[Stanford Research Institute|SRI]] in April 1973. Swann believed that using coordinates would allow psychics to be directed to a target precisely and economically, without actually being told what the target was, thus preventing conscious imagination from interfering with the psychic impressions.[^1]

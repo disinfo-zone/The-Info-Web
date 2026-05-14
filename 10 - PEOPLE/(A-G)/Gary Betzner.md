@@ -8,6 +8,7 @@ tags:
   - Contra_War
   - Congressional_Testimony
 summary: Gary Wayne "Hippie" Betzner was a copilot who flew CIA-protected drug and weapons flights for the Contras and testified under oath as a Justice Department witness.
+location: "Akron, Ohio"
 ---
 
 ### Drug Flights for the Contras

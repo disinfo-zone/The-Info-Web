@@ -8,6 +8,8 @@ tags:
   - 1980s
   - Contra_War
 summary: Joseph Fernandez was the CIA's Costa Rican station chief who oversaw Contra operations on the Southern Front, was heavily involved in illegal activities, and was later fired and indicted.
+born: 1937-02-01
+location: "New York City, New York"
 ---
 
 ### Costa Rican Station Chief

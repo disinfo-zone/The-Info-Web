@@ -1,5 +1,6 @@
 ---
 aliases: ["DOJ-OIP-INSLAW_1993"]
+date: 1993
 ---
 # DOJ-OIP-INSLAW_1993.pdf
 

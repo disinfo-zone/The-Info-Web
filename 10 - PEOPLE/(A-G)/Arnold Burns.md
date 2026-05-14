@@ -9,6 +9,9 @@ tags:
   - INSLAW
   - DoJ
 summary: "Arnold Burns served as Deputy Attorney General under Edwin Meese and was the senior DOJ official whose private admission to investigators that INSLAW's proprietary rights claim was legitimate became a central finding of the House Judiciary Committee's 1992 INSLAW investigation."
+born: 1930-04-14
+died: 2013-10-01
+location: "Brooklyn, New York"
 ---
 Arnold Burns served as Deputy [[United States Attorney General|Attorney General]] and [[Edwin Meese]]'s second in command at the [[Department of Justice|DOJ]] during the Reagan administration. He became a significant figure in two distinct controversies: his admission to DOJ investigators regarding INSLAW's legitimate ownership claims, and his public break with Meese over DOJ's broader conduct.
 

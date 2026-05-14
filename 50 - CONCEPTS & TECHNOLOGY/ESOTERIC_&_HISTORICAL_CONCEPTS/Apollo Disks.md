@@ -9,6 +9,8 @@ tags:
   - Snuff_Films
 category: "Esoteric & Historical Concept"
 summary: "The Apollo Disks were a collection of encoded digital disks containing evidence of the international child pornography network operated through the Apollo Bulletin Board Service by Gerrit-Jan Ulrich from Zandvoort, Netherlands."
+date: 1998-06
+location: Zandvoort, Netherlands
 ---
 The Apollo Disks were a collection of encoded digital disks containing evidence of the international child pornography network operated through the [[Apollo Bulletin Board Service]] by [[Gerrit-Jan Ulrich]] from Zandvoort, Netherlands. Ulrich handed the disks to private investigator [[Marcel Vervloesem]] during their meeting in June 1998, before fleeing to Italy where he was murdered. Ulrich also hid a cache of additional disks beneath a floorboard in his apartment, which contained information on his network of associates and clients.[^1]
 

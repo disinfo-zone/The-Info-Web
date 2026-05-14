@@ -6,6 +6,9 @@ tags:
   - CIA
   - Military
 summary: "Dayan's rise to prominence began when David Ben-Gurion appointed him as the new army chief of staff in late 1953, with the strategic aim of ensuring that Moshe Sharett's dovish views on the Arab question would not go unchallenged."
+born: 1915-05-20
+died: 1981-10-16
+location: "Deganya Alef, Ottoman Palestine"
 ---
 
 [[Moshe Dayan]] (1915–1981) was a highly prominent [[Israel|Israeli]] military leader and politician, famous for his signature black eye-patch and his pivotal role in shaping [[Israel]]'s military doctrine and nuclear policy. Throughout his career, he served in various high-level positions including army chief of staff, Defense Minister, and Foreign Minister, while also developing an unusual passion for archaeological treasure hunting.[^1][^2][^3]

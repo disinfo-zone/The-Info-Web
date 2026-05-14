@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - Stargate
 summary: "Richard DeLauer was the Undersecretary of Defense for Research and Engineering."
+born: 1918-09-26
+died: 1990-04-22
+location: "Oakland, California"
 ---
 
 Richard DeLauer was the Undersecretary of Defense for Research and Engineering. He was an alumnus of [[California Institute of Technology|Caltech]], the same institution where [[H. S. Tsien]] had studied and co-founded the Jet Propulsion Laboratory[^1].

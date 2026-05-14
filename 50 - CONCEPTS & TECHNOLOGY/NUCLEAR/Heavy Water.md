@@ -5,6 +5,7 @@ tags:
   - Technology
 category: "Nuclear Concept"
 summary: "Heavy water (deuterium oxide, D2O) is a form of water that contains a higher than normal concentration of the isotope deuterium, rather than the common hydrogen-1 isotope."
+location: Weizmann Institute of Science, Rehovot, Israel
 ---
 Heavy water (deuterium oxide, D2O) is a form of water that contains a higher than normal concentration of the isotope deuterium, rather than the common hydrogen-1 isotope. It is used in certain types of nuclear reactors, known as heavy-water reactors, as a neutron moderator to slow down neutrons and increase the probability of nuclear fission.[^1]
 

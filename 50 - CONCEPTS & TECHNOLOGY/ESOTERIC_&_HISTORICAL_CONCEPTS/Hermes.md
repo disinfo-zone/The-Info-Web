@@ -11,6 +11,8 @@ tags:
   - Odyssey_Network
 category: "Esoteric & Historical Concept"
 summary: "Hermes was an underground boylover newsletter printed in Chicago during the 1970s that served as a communications hub for a nationwide child trafficking and pornography network."
+start: 1970
+location: Chicago, Illinois
 ---
 Hermes was an underground boylover newsletter printed in Chicago during the 1970s that served as a communications hub for a nationwide child trafficking and pornography network. The publication used coded classified ads to propagate [[John David Norman]]'s [[Delta Project]] and [[Odyssey Network]], and advertised mail-order hardcore child pornography. It catered to a readership of predatory pedophiles who between themselves used the pronoun "chickenhawk," a reference to a hawk that hunts little chickens. Hermes also published advertisements for clandestine groups providing support and instructions on how to infiltrate community groups such as the boy scouts, big brother programs, and church affiliated youth groups, including guides on how to groom children.[^1]
 

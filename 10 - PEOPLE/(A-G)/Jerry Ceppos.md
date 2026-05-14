@@ -7,6 +7,9 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: Executive editor of the San Jose Mercury News who initially championed the Dark Alliance series before publishing a column describing shortcomings in the reporting, effectively ending the investigation.
+born: 1946-10-14
+died: 2022-07-29
+location: "Washington, D.C."
 ---
 Jerry Ceppos was the executive editor of the [[San Jose Mercury News]] who oversaw the publication of the [[Dark Alliance]] series in August 1996 and later published a controversial column describing "shortcomings" in the reporting.[^1]
 

@@ -5,6 +5,8 @@ tags:
   - Belgium
   - Dutroux
 summary: "Jean-Marc Connerotte, a magistrate in Neufchâteau, Belgium, served as the initial investigating judge in the Marc Dutroux case following Dutroux's August 13, 1996, arrest for the abduction of Laetitia Delhez."
+born: 1948
+location: "Neufchâteau, Belgium"
 ---
 
 Jean-Marc Connerotte, a magistrate in Neufchâteau, Belgium, served as the initial investigating judge in the [[Marc Dutroux]] case following Dutroux's August 13, 1996, arrest for the abduction of [[Laetitia Delhez]]. Assigned to oversee the probe into Dutroux's network, Connerotte authorized searches uncovering the Marcinelle basement dungeon holding Laetitia and [[Sabine Dardenne]], as well as exhumations at Sars-la-Buissière revealing bodies of [[An Marchal]], [[Eefje Lambrecks]], [[Julie Lejeune]], [[Melissa Russo]], and accomplice [[Bernard Weinstein]]. In September 1996, Connerotte appealed publicly for victims of suspected child sex rings to come forward, prompting eight X-witnesses to provide testimonies alleging elite abuses, leading to the compilation of the classified [[X-Dossier]] under Prosecutor [[Michel Bourlet]]. The dossier examined claims of orgies and murders at Knokke-Heist villas near [[Royal Zoute Golf Club]] and estates of [[Baron Benoit de Bonvoisin]] and Counts [[Count Leopold Lippens]] and [[Count Maurice Auguste Lippens]]. Connerotte's team verified X1's ([[Regina Louf]]) accounts of [[Christine Van Hees]]' 1984 murder at a mushroom farm, matching unpublished details like ligatures and burns.[^1]

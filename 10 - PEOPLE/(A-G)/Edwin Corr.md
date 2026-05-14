@@ -5,6 +5,9 @@ tags:
   - u.s.-government
   - contra-war
 summary: Edwin Corr was the U.S. Ambassador to El Salvador who received Celerino Castillo's reports about Contra drug trafficking at Ilopango and sent a secret cable to Washington.
+born: 1934-08-06
+died: 2026-02-11
+location: "Edmond, Oklahoma"
 ---
 Edwin Corr was the U.S. Ambassador to [[El Salvador]] who received [[Celerino Castillo|Celerino Castillo III]]'s reports about Contra drug trafficking at Ilopango Air Base and sent a secret "back channel" message to [[Washington, D.C.|Washington]]. Corr occupied a key position in the chain of information about the Contra-drug connection.[^1]
 

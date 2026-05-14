@@ -8,6 +8,8 @@ tags:
   - 1980s
   - Contra_War
 summary: Celerino Castillo III was a DEA agent who discovered Contra drug trafficking operations at Ilopango Air Force Base in El Salvador and had his investigation repeatedly shut down by the CIA and State Department.
+born: 1949
+location: "Edinburg, Texas"
 ---
 [[DEA]] agent Celerino Castillo III was assigned to the DEA's regional office in [[Guatemala City]] in October 1985, covering both [[Guatemala]] and [[El Salvador]]. Two days into his new job, agent-in-charge Robert Stia warned him that the U.S. government was running a covert operation at [[Ilopango Airbase|Ilopango Air Force Base]] and Castillo should not interfere with it. At the time, El Salvador produced no drugs and had no major drug rings; the DEA had never opened an office in the country.[^1]
 

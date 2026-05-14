@@ -1,6 +1,7 @@
 ---
 tags:
   - Source
+date: 1992
 ---
 
 **Author:** [[Ari Ben-Menashe]]

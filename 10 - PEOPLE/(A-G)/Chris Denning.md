@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Chris Denning was a former BBC Radio One DJ who was good friends with Jimmy Savile and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment."
+born: 1941-05-10
+died: 2022-06-24
+location: "Hayes, Middlesex, England"
 ---
 
 Chris Denning was a former BBC Radio One DJ who was good friends with [[Jimmy Savile]] and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment. The investigation into Denning served as the genesis to ongoing probes into a suspected child abuse ring linked to the [[BBC]], which eventually culminated in the infamous [[Operation Yewtree]] investigation after Jimmy Savile's death.[^1]

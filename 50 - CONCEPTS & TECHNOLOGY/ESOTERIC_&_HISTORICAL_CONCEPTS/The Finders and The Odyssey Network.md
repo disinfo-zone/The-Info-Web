@@ -12,6 +12,8 @@ tags:
   - 1987
 category: "Esoteric & Historical Concept"
 summary: "On February 4, 1987, police in Tallahassee, Florida received a call about six dishevelled children in a park under the supervision of two well-dressed men."
+date: 1987-02-04
+location: Tallahassee, Florida
 ---
 
 ### The Tallahassee Discovery

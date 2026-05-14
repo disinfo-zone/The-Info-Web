@@ -5,6 +5,9 @@ tags:
   - PROMIS
   - INSLAW
 summary: "Individual asked to represent INSLAW in the PROMIS software case after the September 11, 2001 terrorist attacks."
+born: 1943-02-06
+died: 2023-05-21
+location: "Winston-Salem, North Carolina"
 ---
 
 [[C. Boyden Gray]] was an individual whom [[Daniel Murphy]] asked to "become the [[John Adams]] of the [[INSLAW]] case" and represent [[INSLAW]] after the September 11, 2001, terrorist attacks. Murphy asked Gray to represent [[INSLAW]] "simply because it was the right thing to do."[^1]

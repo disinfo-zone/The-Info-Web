@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Harry Stump was a Dutch sculptor and channeler who gained the attention of Andrija Puharich and his wealthy benefactors due to his purported psychic abilities, particularly his capacity to enter trance states and produce automatic writings and drawings."
+born: 1923
+died: 1998
+location: "Netherlands"
 ---
 
 # Harry Stump

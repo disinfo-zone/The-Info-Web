@@ -4,6 +4,9 @@ tags:
   - Person
   - Skeptic
 summary: "He eventually conducted some of his own informal remote viewing experiments and became convinced of its reality, stating, 'Psychic stuff is really not much more far-fetched than some of the physics behind the laser.' His decision to publish the paper in a respected scientific journal contributed to"
+born: 1936-01-09
+died: 2022-03-10
+location: "Pittsburgh, Pennsylvania, USA"
 ---
 
 

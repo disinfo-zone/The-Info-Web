@@ -9,6 +9,8 @@ tags:
   - RemoteViewer
   - Military
 summary: "Brigadier General James L."
+born: 1931-04-10
+location: "Arcadia, Florida"
 ---
 
 Brigadier General James L. Dozier was a senior [[U.S. Army]] official and deputy chief of staff in the [[NATO]] Southern Command. On December 17, 1981, he was kidnapped from his penthouse apartment in Verona, [[Italy]], by the [[Red Brigades]], a Marxist-Leninist paramilitary group[^1].

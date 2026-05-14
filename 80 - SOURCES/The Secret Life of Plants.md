@@ -7,6 +7,7 @@ tags:
   - parapsychology
   - plantconsciousness
 description: The Secret Life of Plants is a 1973 book by Peter Tompkins and Christopher O. Bird that explores the concept of plant sentience and their alleged psychic abilities.
+date: 1973
 ---
 
 *[[The Secret Life of Plants]]* is a 1973 book by [[Peter Tompkins]] and [[Christopher O. Bird]] that explores the concept of plant sentience and their alleged psychic abilities. The book popularized the controversial experiments of [[Cleve Backster]], who claimed that plants exhibit a form of consciousness and can respond to human thoughts and emotions.[^1]

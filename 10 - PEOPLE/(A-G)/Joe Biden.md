@@ -5,6 +5,8 @@ tags:
   - WW2
   - Nazi
 summary: "Joe Biden was a United States President and Senator from Delaware whose political career was closely tied to the DuPont family."
+born: 1942-11-20
+location: "Scranton, Pennsylvania"
 ---
 
 Joe Biden was a United States President and Senator from Delaware whose political career was closely tied to the [[DuPont]] family. Biden's first senatorial campaign was fully funded and staffed by DuPont employees in the early 1970s. His victory party was held and celebrated in a DuPont ballroom, and soon after his family moved into an old DuPont family mansion. As Biden put it himself in the 1980s, he prostituted himself to these people. When a member of the DuPont family raped his three-year-old daughter, Biden's son Beau as district attorney decided not to prosecute the case.[^1]

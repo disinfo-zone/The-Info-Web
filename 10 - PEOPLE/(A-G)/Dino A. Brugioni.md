@@ -4,6 +4,9 @@ tags:
   - Person
   - Belgium
 summary: "Brugioni recalled seeing the first signs of what would become the Israeli nuclear reactor at Dimona."
+born: 1921-12-16
+died: 2015-09-25
+location: "Bevier, Missouri"
 ---
 
 Dino A. Brugioni was a World War II veteran who served as an aerial photographer and later joined the [[Central Intelligence Agency|CIA]] in 1948. He was enticed by [[Arthur C. Lundahl]] to join his staff in the Photographic Intelligence Division, where he played a key role in analyzing reconnaissance photos, particularly from the [[U-2 Spy Plane]].[^1]

@@ -4,6 +4,9 @@ tags:
   - Person
   - PROMIS
 summary: "Chief lieutenant to the Genovese Crime Family who owned almost 20 percent of the Murchison Oil Lease Company in Oklahoma."
+born: 1902-01-08
+died: 2000-04-23
+location: "South Orange, New Jersey"
 ---
 [[Gerardo Catena]] was a chief lieutenant to the [[Genovese Crime Family]]. He owned almost 20 percent of the Murchison Oil Lease Company in Oklahoma.[^1]
 

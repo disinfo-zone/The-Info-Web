@@ -7,6 +7,8 @@ tags:
   - RemoteViewer
   - Stargate
 summary: "During the broadcast, Koppel interviewed Dale Graff of the DIA and Robert Gates of the CIA."
+born: 1940-02-08
+location: "Nelson, Lancashire, England"
 ---
 
 #Ted Koppel is an American broadcast journalist, best known as the anchor and managing editor of *Nightline* from 1980 to 2005. On November 28, 1995, Koppel hosted a *Nightline* exposé that made the [[STARGATE PROJECT|Star Gate program]] public[^1].

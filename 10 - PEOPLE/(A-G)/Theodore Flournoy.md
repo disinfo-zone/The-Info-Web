@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Flournoy believed that the content produced by mediums during trances, including foreign languages and detailed historical accounts, originated from their 'subliminal imagination' and forgotten sources, rather than from supernatural channeling."
+born: 1854-08-15
+died: 1920-11-05
+location: "Geneva, Switzerland"
 ---
 
 

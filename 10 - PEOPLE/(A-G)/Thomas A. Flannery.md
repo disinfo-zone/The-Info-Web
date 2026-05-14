@@ -9,6 +9,9 @@ tags:
   - Lawyer
   - Judge
 summary: "Thomas A. Flannery was U.S. Attorney for the District of Columbia from 1967 to 1970 who, in 1969, directed the commissioning of the computer-based case management system that became PROMIS, and subsequently served as a U.S. District Court Judge for the District of Columbia from 1970 until his death in 1993, including as Chief Judge from 1977."
+born: 1918-01-05
+died: 1993-06-25
+location: "Washington, D.C."
 ---
 Thomas A. Flannery was born January 5, 1918, in Washington, D.C. He served as U.S. Attorney for the District of Columbia from 1967 to March 1970, appointed under President [[Lyndon B. Johnson]]. In that capacity, he directed the formation of the team that designed the [[PROMIS|Prosecutor's Management Information System (PROMIS)]] -- the case management software that became the center of the [[PROMIS Software Scandal|INSLAW affair]] a decade later.[^1]
 

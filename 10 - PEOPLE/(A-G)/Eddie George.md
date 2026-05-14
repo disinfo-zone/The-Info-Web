@@ -4,6 +4,9 @@ tags:
   - Person
   - BCCI
 summary: "Eddie George was the Deputy Governor of the Bank of England."
+born: 1938-09-16
+died: 2009-04-18
+location: "Carshalton, Surrey, England"
 ---
 
 Eddie George was the Deputy Governor of the [[Bank of England]].[^1]

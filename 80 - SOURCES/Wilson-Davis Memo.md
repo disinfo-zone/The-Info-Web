@@ -1,3 +1,9 @@
+---
+tags:
+  - Source
+date: 2002
+---
+
 The [[Wilson-Davis Memo]], also known as the "Wilson/Davis document," is a 13-page document that purports to be a summary of a 2002 conversation between astrophysicist [[Eric Davis]] and Vice Admiral Thomas R. Wilson, who was then the Director of the [[Defense Intelligence Agency]] (DIA). The memo details Admiral Wilson's alleged discovery of and subsequent denial of access to a deeply hidden U.S. government program that was reverse-engineering technology recovered from crashed [[Unidentified Anomalous Phenomena]] (UAP).[^1]
 
 ### The Memo's Content

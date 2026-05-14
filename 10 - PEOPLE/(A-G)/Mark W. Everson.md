@@ -8,6 +8,8 @@ tags:
   - Politician
   - DoJ
 summary: "Mark W. Everson served in the Reagan DOJ from 1982 to 1988 as deputy commissioner of INS, later became IRS Commissioner from 2003 to 2007, and is associated with a restricted PROMIS-related file in the National Archives whose connection to his DOJ tenure has not been publicly explained."
+born: 1954-09-10
+location: "New York City, New York"
 ---
 Mark Whitty Everson was born September 10, 1954, in New York City. He received a B.A. in history from Yale and an M.S. in accounting from NYU Stern School of Business.
 

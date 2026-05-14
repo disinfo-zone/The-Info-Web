@@ -7,6 +7,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Crack is a smokable, mass-producible form of cocaine that transformed the drug from an expensive luxury into a cheap commodity devastating American inner cities throughout the 1980s.
+start: 1974
+location: United States
 ---
 Crack is a smokable form of [[cocaine]] created by converting cocaine hydrochloride powder back into its freebase form.[^1] The invention of crack transformed cocaine from an expensive luxury drug into a mass-market commodity that devastated [[South Central Los Angeles]] and other American inner cities in the 1980s.
 

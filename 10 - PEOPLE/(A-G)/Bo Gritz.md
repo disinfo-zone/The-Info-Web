@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Gritz was indicted in May 1987 for using a false passport in the name of Patrick Richard Clark from Vancouver, Canada."
+born: 1939-01-18
+died: 2026-02-27
+location: "Enid, Oklahoma"
 ---
 [[Bo Gritz]] was a highly decorated Special Forces Green Beret soldier in [[Vietnam]]. He became known for his expeditions to [[Laos]] in search of missing POWs, during which he reportedly uncovered a "massive drug network in Southeast Asia" intertwined with American POWs.[^1]
 

@@ -10,6 +10,8 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: Arkansas lawyer and associate attorney general under Clinton with connections to weapons manufacturing for the Contras and the Mena, Arkansas drug investigation.
+born: 1948-01-18
+location: "Little Rock, Arkansas, USA"
 ---
 Webb Hubbell was a former Arkansas lawyer who served as associate attorney general in the Clinton administration and had connections to both the [[Mena, Arkansas]] drug trafficking investigation and weapons manufacturing for the [[Contras]].[^1]
 
