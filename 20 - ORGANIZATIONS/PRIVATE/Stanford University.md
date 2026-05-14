@@ -3,6 +3,8 @@ tags:
   - Organization
   - Academic
   - USA
+category: "Private Organization"
+summary: "Stanford University is a private research university in Stanford, California. Its Linear Accelerator Center was home to Wolfgang K. H. Panofsky, a physicist who was a key colleague of Jack P."
 ---
 Stanford University is a private research university in [[Stanford]], [[California]]. Its Linear Accelerator Center was home to [[Wolfgang K. H. Panofsky]], a physicist who was a key colleague of [[Jack P. Ruina]] on an ad hoc panel of distinguished scientists tasked with studying the [[VELA Satellite]] data related to a probable nuclear explosion in the South Indian Ocean in 1979.[^1]
 

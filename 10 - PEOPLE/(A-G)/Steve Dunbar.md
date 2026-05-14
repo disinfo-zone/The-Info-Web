@@ -1,3 +1,12 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+  - Lawyer
+summary: "County Assessor in Mariposa County, closely associated with Curry Company's Ed Hardy, DA Bruce Eckerson, and Congressman Tony Coelho."
+---
 [[Steve Dunbar]] was the County Assessor in Mariposa County. He was closely associated with [[Ed Hardy]], president of Curry Company, and Mariposa District Attorney [[Bruce Eckerson]], and Congressman [[Tony Coelho]]. These men were known for their annual camping trips together.[^1]
 
 ---

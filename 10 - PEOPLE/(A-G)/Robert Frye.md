@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Frye met with Michael Riconosciuto and Dr."
+---
 [[Robert Frye]] was the Executive Vice President of [[Wackenhut Corporation]] in Indio, [[California]]. He was involved in the [[Cabazon Indian Reservation|Cabazon]]/[[Wackenhut Corporation]] Joint Venture, which aimed to develop and manufacture arms on the reservation.[^1]
 
 Frye met with [[Michael Riconosciuto]] and [[Dr. John Philip Nichols]] at Picatinny Arsenal in May 1981, where Riconosciuto conducted a theoretical blackboard exercise on a Railgun for [[Dr. Harry Fair]]. Frye was present when Dr. Fair commented on Riconosciuto's scientific and technical knowledge, terming him a "potential national resource."[^1]

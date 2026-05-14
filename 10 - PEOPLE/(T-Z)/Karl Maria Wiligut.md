@@ -1,13 +1,16 @@
 ---
 aliases:
-  - Karl Maria Wiligut
+- Karl Maria Wiligut
   - Wiligut
+category: "World War II & Nazi Era"
 tags:
   - Person
-  - Nazi Germany
-  - SS
-  - Occultist
+  - WW2
+  - Nazi
+  - Occult
+summary: "Karl Maria Wiligut (1866–1946) was an Austrian occultist and SS-Brigadeführer who advised Heinrich Himmler on esoteric matters within Nazi Germany."
 ---
+
 Karl Maria Wiligut (1866–1946) was an Austrian occultist and SS-Brigadeführer who advised [[Heinrich Himmler]] on esoteric matters within [[Nazi Germany]]. Himmler, fascinated with the occult since his college days, hired Wiligut in 1925 to advise him on these subjects[^1].
 
 Wiligut was an expert in runes and Teutonic symbols, and he designed the SS death's-head ring, *Totenkopfring*. He claimed to be a seer, or medium, who could channel a tribe of ancient Aryans from AD 1200[^1].

@@ -1,6 +1,12 @@
 ---
-tags: ["Person", "Government Official", "Intelligence"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+  - CIA
+summary: "Douglas Mulholland was the intelligence liaison at the Treasury Department."
 ---
+
 Douglas Mulholland was the intelligence liaison at the [[Treasury Department]].[^1]
 
 ### Role in BCCI Investigation

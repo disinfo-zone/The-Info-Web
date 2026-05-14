@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Governor of California named in a Writ of Mandamus for refusing to investigate corruption in Mariposa County."
+---
 [[George Deukemejian]] was the Governor of [[California]]. He was named in a Writ of Mandamus filed by [[Ben Wagner]] for refusing to investigate corruption in Mariposa County.[^1]
 
 ---

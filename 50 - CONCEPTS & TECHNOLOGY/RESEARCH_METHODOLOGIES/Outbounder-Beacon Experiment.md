@@ -7,6 +7,8 @@ tags:
   - remoteviewing
   - methodology
 description: The outbounder-beacon experiment was a remote viewing protocol developed at SRI where an experimenter would visit a target site while the psychic attempted to perceive their surroundings.
+category: "Research Methodology"
+summary: "The Outbounder-Beacon Experiment was a Remote Viewing protocol developed by Hal Puthoff and Russell Targ at Stanford Research Institute for the Central Intelligence Agency's psychic research program."
 ---
 
 The [[Outbounder-Beacon Experiment]] was a [[Remote Viewing]] protocol developed by [[Hal Puthoff]] and [[Russell Targ]] at [[Stanford Research Institute|SRI]] for the [[Central Intelligence Agency|CIA]]'s psychic research program. In this experiment, two scientists or researchers, designated as the "outbounder team," would travel to a randomly selected target site. At a predetermined time, one of them would mentally survey the site, acting as a "beacon" for the psychic back at SRI.[^1]

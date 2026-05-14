@@ -1,13 +1,11 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Eduard Naumov
+category: "Skeptics & Critics"
 tags:
-  - person
-  - parapsychologist
-  - SovietUnion
-description: Eduard Naumov was a Soviet parapsychologist known for his claims regarding the replication of the Nautilus experiment and the development of methods for telepathically tapping into psychic communications.
+  - Person
+  - Skeptic
+summary: "Naumov's claims, along with other 'wild stories' from Soviet psi research, were later featured in the 1970 book *Psychic Discoveries Behind the Iron Curtain* by Sheila Ostrander and Lynn Schroeder."
 ---
+
 
 [[Eduard Naumov]] was a [[Soviet Union|Soviet]] parapsychologist. At a conference in Moscow in 1968, Naumov announced to Western researchers that the Red Navy had successfully replicated the entire [[The Nautilus (Telepathy Project)|Nautilus experiment]] using one of its own submarines. He further claimed that Soviet military researchers had developed a method for telepathically tapping into other people's psychic communications.[^1]
 

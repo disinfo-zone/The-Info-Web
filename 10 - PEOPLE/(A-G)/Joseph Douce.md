@@ -1,13 +1,11 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Priest
   - Belgium
-  - 1980s-1990s
-  - Dutroux-Affair
-  - X-Dossier
-  - Centre-du-Christ-Liberateur
+summary: "Joseph Douce, a Belgian priest, founded the Centre du Christ Liberateur (CCL), a support group for pedophiles active in the 1980s and 1990s."
 ---
+
 Joseph Douce, a Belgian priest, founded the [[Centre du Christ Liberateur]] (CCL), a support group for pedophiles active in the 1980s and 1990s. Douce's organization provided a front for individuals involved in child abuse, offering counseling while facilitating the exchange of child pornography materials. The CCL operated as a network for pedophiles, with Douce as its leader, hosting meetings and distributing materials among members. Police investigations in the 1990s uncovered Douce's role in producing and sharing child abuse images, leading to his arrest. Douce was convicted for possession and distribution of child pornography, with the CCL linked to broader rings investigated in the [[X-Dossier]]. His organization used religious cover to mask its activities, with members from various professions. Douce denied allegations of direct abuse but was found with extensive collections of materials.[^1]
 
 Douce's CCL attracted individuals seeking support, but it served as a hub for exchanging child abuse materials, with Douce coordinating distribution. The group was raided in the 1990s, uncovering a network of members including officials and professionals. The X-Dossier, compiled by Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]], linked Douce to the Dutroux affair through shared contacts in the pedophile rings. Douce's conviction resulted from evidence of materials found during raids, with his role as founder central to the organization's operations. The CCL's activities included counseling sessions that masked the exchange of pornography and discussions of abuse.[^1]

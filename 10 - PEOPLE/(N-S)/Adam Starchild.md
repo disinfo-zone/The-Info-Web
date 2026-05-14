@@ -1,12 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Criminal_Associate
-  - Michigan
-  - 1970s
-  - North_Fox_Island
-  - Child_Pornography
+  - OrganizedCrime
+summary: "Adam Starchild, alias of Malcolm Willis McConahy, served as an offshore tax attorney involved in incorporating entities for child exploitation networks."
 ---
+
 Adam Starchild, alias of Malcolm Willis McConahy, served as an offshore tax attorney involved in incorporating entities for child exploitation networks. He worked with [[Francis Shelden]] in structuring financial arrangements to support illegal operations. Starchild handled incorporations for fronts like [[Brother Paul's Children's Mission]] and The [[Ocean Living Institute]]. He faked his death in 1975 to evade authorities. Starchild was charged with child pornography possession in Wisconsin prior to his association with Shelden.[^1]
 
 ### Role in Operations

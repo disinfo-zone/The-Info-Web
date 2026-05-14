@@ -1,13 +1,12 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Walter Stoessel Jr.
+category: "Intelligence & Government"
 tags:
-  - person
-  - diplomat
-  - government
-  - Ambassador
+  - Person
+  - Soviet
+  - Diplomat
+summary: "U.S. Ambassador to Moscow exposed to the Soviet microwave Moscow Signal at the American embassy, later dying of leukemia along with two predecessors."
 ---
+
 Walter Stoessel Jr. (1920–1986) was a distinguished American diplomat who served as the U.S. Ambassador to [[Moscow]] from 1974 to 1976. During his tenure, he was exposed to the [[Moscow Signal]], a microwave beam directed at the [[U.S. Embassy in Moscow]] by the [[Soviet Union]][^1].
 
 In January 1976, Stoessel was briefed on the Moscow Signal and filed a formal protest with the Soviets. He minimally informed embassy personnel about their exposure to high-powered microwave beam radiation. *The Los Angeles Times* reported that Stoessel had told his staff that the Russians were using microwave beams to listen in on conversations and that such radiation could be harmful to their health[^1].

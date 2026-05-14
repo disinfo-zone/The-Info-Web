@@ -1,18 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Business
-  - Sports
-  - Dallas_Cowboys
-  - FIDCO
-  - Texas
-  - Organized_Crime
-  - Oil_Industry
-  - J_Edgar_Hoover
-  - Richard_Nixon
-  - Lyndon_Johnson
-  - Jimmy_Hoffa
+  - OrganizedCrime
+summary: "His family cultivated relationships not only with powerful figures on the far right but also with individuals such as J."
 ---
+
 [[Clint W. Murchison, Jr.]] was a Director of [[First Intercontinental Development Corporation|FIDCO]] and the owner of the Dallas Cowboys NFL football team. He was the son of [[Clint Murchison, Sr.]], a figure described as being cut from the same political cloth as [[H.L. Hunt]], both known for their significant influence and connections.[^1]
 
 His family cultivated relationships not only with powerful figures on the far right but also with individuals such as [[J. Edgar Hoover]], [[Richard Nixon]], organized crime figures, and [[Lyndon Johnson]]. The Murchison family's rise to power was closely tied to their connections in Texas oil.[^1]

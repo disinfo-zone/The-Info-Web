@@ -7,6 +7,8 @@ tags:
   - psi
   - China
 description: Extraordinary Human Body Function (EHBF) is a term used in China to describe a range of paranormal abilities, including ESP and psychokinesis.
+category: "Advanced Human Technology"
+summary: "Extraordinary Human Body Function (EHBF) is a term used in China to describe a range of paranormal abilities, including ESP and Psychokinesis."
 ---
 
 [[Extraordinary Human Body Function]] (EHBF) is a term used in [[China]] to describe a range of paranormal abilities, including [[ESP]] and [[Psychokinesis]]. The term gained prominence in the late 1970s and early 1980s during the "Extraordinary Powers Craze," which was sparked by reports of a young boy named Tang Yu who could allegedly read with his ears.[^1]

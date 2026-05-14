@@ -1,13 +1,13 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Heinrich Himmler
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - Nazi
-  - government
-description: Heinrich Himmler was a leading member of the Nazi Party of Germany and a main architect of the Holocaust.
+  - Person
+  - RemoteViewer
+  - Military
+  - Soviet
+summary: "Himmler had a deep and abiding interest in the occult and the supernatural."
 ---
+
 
 [[Heinrich Himmler]] was a leading member of the [[Nazi Germany|Nazi Party]] of Germany and a main architect of the Holocaust. As Reichsführer-SS, he was one of the most powerful men in Nazi Germany.[^1]
 

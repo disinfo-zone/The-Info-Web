@@ -1,14 +1,15 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Edmund Thompson
+category: "Key Figures"
 tags:
-  - person
-  - military
-  - general
-  - intelligence
-description: Major General Edmund R. Thompson was the U.S. Army Assistant Chief of Staff for Intelligence (ACSI) and a key supporter of the Stargate Project.
+  - Person
+  - Stargate
+  - CIA
+  - Military
+  - RemoteViewer
+  - SRI
+summary: "Major General Edmund Thompson was the U.S."
 ---
+
 
 Major General [[Edmund Thompson]] was the [[U.S. Army]] Assistant Chief of Staff for Intelligence (ACSI) from 1977 to 1981. He was a key figure in the establishment and early support of the [[STARGATE PROJECT|Stargate Project]], then codenamed [[STARGATE PROJECT|Gondola Wish]] and later [[STARGATE PROJECT|Grill Flame]]. Thompson had a personal interest in [[Psi|psi]] phenomena, having read [[Arthur Koestler]]'s pro-paranormal book *The Roots of Coincidence*.[^1]
 

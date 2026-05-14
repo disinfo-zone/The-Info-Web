@@ -5,6 +5,8 @@ tags:
   - Afghanistan
   - Islamic
   - Guerrilla
+category: "Paramilitary"
+summary: "The Mujahideen refers to various groups of Muslim guerrilla fighters, particularly those who resisted the Soviet Union invasion of Afghanistan."
 ---
 The [[Mujahideen]] refers to various groups of Muslim guerrilla fighters, particularly those who resisted the [[Soviet Union|Soviet]] invasion of [[Afghanistan]]. They were supported by a worldwide network that included figures like [[Ralph Olberg]] and [[Tim Osman]], who were involved in procuring [[United States|U.S.]] weapons and technology for them.[^1]
 

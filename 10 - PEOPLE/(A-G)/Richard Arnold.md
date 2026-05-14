@@ -1,13 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Military
-  - Navy
-  - Scientist
-  - Doctor
-  - USA
-  - Aviation
+summary: "His Navy research career began in 1999 when he was commissioned as a US Naval Aerospace Experimental Psychologist."
 ---
+
 Dr. Richard Arnold serves as the Director, Naval Aerospace Medical Research Laboratory ([[NAMRL]]) at Naval Medical Research Unit Dayton ([[NAMRU-D]]). 
 
 His [[United States Navy|Navy]] research career began in 1999 when he was commissioned as a US Naval Aerospace Experimental Psychologist. After completing Officer Indoctrination School at Newport, RI and the aeromedical officer course and flight training at Naval Air Station (NAS) Pensacola and NAS Whiting Field, FL he was assigned to Naval Aerospace Medical Institute (NAMI), Pensacola, FL, where among other duties he administered the Navy’s aviation personnel selection testing program. 

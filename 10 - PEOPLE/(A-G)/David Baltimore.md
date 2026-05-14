@@ -1,11 +1,13 @@
 ---
 aliases:
-  - David Baltimore
+- David Baltimore
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Biologist
-  - Nobel Laureate
+  - RemoteViewer
+summary: "David Baltimore is a Nobel Prize-winning biologist."
 ---
+
 David Baltimore is a Nobel Prize-winning biologist. He was the mentor of [[Garry Nolan]], a leading research scientist at [[Stanford University]] specializing in genetics, immunology, and bioinformatics[^1].
 
 ### Footnotes

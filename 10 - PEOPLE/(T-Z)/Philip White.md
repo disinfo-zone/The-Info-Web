@@ -1,9 +1,12 @@
 ---
-aliases: []
+category: "Belgium Scandals"
 tags:
   - Person
+  - Belgium
+summary: "Philip White was the Director of International Affairs for the Criminal Division of the DOJ."
 ---
-Philip White was the Director of International Affairs for the Criminal Division of the [[United States Department of Justice|DOJ]]. He was implicated in allegations surrounding the [[PROMIS Software Scandal]] and the attempted conversion of [[Inslaw Corporation|Inslaw]]'s bankruptcy case.
+
+Philip White was the Director of International Affairs for the Criminal Division of the [[Department of Justice|DOJ]]. He was implicated in allegations surrounding the [[PROMIS Software Scandal]] and the attempted conversion of [[INSLAW|Inslaw]]'s bankruptcy case.
 
 According to a source of [[Ronald LeGrand]], White, along with [[John Keeney]] and [[Mark Richards]], knew "all about" [[Lowell Jensen]]'s alleged malfeasance in the Inslaw matter. The source believed that while Richards and White were "pretty upset" about it, they would not disclose what they knew except under subpoena and oath, and that they would not commit perjury.[^1]
 
@@ -12,4 +15,4 @@ White was also the U.S. Trustee assigned to the [[INSLAW]] bankruptcy case. [[An
 The Special Counsel's investigation found no credible evidence to support the allegations against White. When interviewed, White denied any wrongdoing or pressure from Stanton to convert the Inslaw case. The investigation concluded that White's testimony was consistent with that of most other witnesses, and that his explanation for the confidentiality order language was credible. The report also noted that White, being no longer in government, was less susceptible to pressure to tailor his testimony to suit the DOJ's position. The investigation found insufficient evidence to support a finding that the DOJ pressured the U.S. Trustee to convert the U.S. Trustee to convert the Inslaw Bankruptcy case or otherwise improperly interfere with it, or that the DOJ attempted a cover-up.[^1]
 
 ### Footnotes
-[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

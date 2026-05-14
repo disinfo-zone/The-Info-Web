@@ -1,12 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Child_Trafficker
-  - Florida
-  - 1970s
-  - Adelphi_Academies
-  - Child_Trafficking
+summary: "Peter Bradford was a wealthy individual who owned Adelphi Academies, a private children’s school in Florida."
 ---
+
 Peter Bradford was a wealthy individual who owned [[Adelphi Academies]], a private children’s school in Florida. [[Richard Halvorsen]] and [[Raymond Woodall]] previously worked at the academy under Bradford's ownership before moving to New Orleans in the early 1970s. The academy served as a base for operations involving juvenile recruitment through scholarship offers.[^1]
 
 ### Criminal Activities

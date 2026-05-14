@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - Lawyer
+summary: "U.S. Attorney named in a Writ of Mandamus for refusing to investigate corruption in Mariposa County tied to the Queen's Accident case."
+---
 [[David F. Levi]] was a [[United States Attorney|United States Attorney]]. He was named in a Writ of Mandamus filed by [[Ben Wagner]] for refusing to investigate corruption in Mariposa County.[^1]
 
 ---

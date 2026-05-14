@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Jackie Keith
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - intelligence
-  - specialops
-description: Jackie Keith was an INSCOM civilian involved in special operations and an early member of the Stargate Project's remote viewing unit.
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+summary: "Keith dropped out of the original Gondola Wish team not long after being selected, but he continued to task the remote viewers with targets related to his own operations."
 ---
+
 
 [[Jackie Keith]] was an [[United States Army Intelligence and Security Command|INSCOM]] civilian who worked in special operations at Arlington Hall, home to some of the more "James Bond-ish" elements of the U.S. espionage community. He was selected for the original [[STARGATE PROJECT|Gondola Wish]] team. Keith was known for being involved in numerous "cloak-and-dagger schemes."[^1]
 

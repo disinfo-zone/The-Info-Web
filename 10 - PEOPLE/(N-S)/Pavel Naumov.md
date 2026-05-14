@@ -1,12 +1,15 @@
 ---
 aliases:
-  - Pavel Naumov
+- Pavel Naumov
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Scientist
+  - RemoteViewer
   - Military
-  - Soviet Union
+  - Soviet
+summary: "Pavel Naumov was a Soviet military scientist who reportedly conducted a notable ESP experiment around 1956."
 ---
+
 # Pavel Naumov
 
 Pavel Naumov was a [[Soviet Union|Soviet]] military scientist who reportedly conducted a notable [[Extrasensory Perception|ESP]] experiment around 1956. This experiment involved a mother rabbit, her newborn litter, a submerged Soviet submarine, and a research station on shore[^1].

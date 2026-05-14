@@ -1,11 +1,14 @@
 ---
 aliases:
-  - W. Ross Adey
+- W. Ross Adey
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Scientist
-  - Physician
+  - RemoteViewer
+  - Stargate
+summary: "Chief of staff at Veterans Hospital in Loma Linda and member of the Sun Streak science panel for the Stargate remote viewing program."
 ---
+
 W. Ross Adey was the chief of staff of the Research Division at Veterans Hospital in Loma Linda, California. He was a member of the new science panel for the [[STARGATE PROJECT|Sun Streak]] program, which was established on January 31, 1986[^1].
 
 ### Footnotes

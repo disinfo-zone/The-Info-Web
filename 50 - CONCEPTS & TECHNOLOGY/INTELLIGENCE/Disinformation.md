@@ -7,6 +7,8 @@ tags:
   - intelligence
   - propaganda
 description: Disinformation is false information deliberately and often covertly spread in order to influence public opinion or obscure the truth.
+category: "Intelligence Concept"
+summary: "Disinformation is false information deliberately and often covertly spread in order to influence public opinion or obscure the truth."
 ---
 
 [[Disinformation]] is false information deliberately and often covertly spread in order to influence public opinion or obscure the truth. In the context of the *Remote Viewers* narrative, disinformation plays a significant role, particularly concerning the origins of the [[Soviet Union|Soviet]] [[Parapsychology|psi]] research program.[^1]

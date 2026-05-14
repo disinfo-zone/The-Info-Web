@@ -1,16 +1,12 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Criminal
-  - Child_Trafficker
   - Belgium
-  - 1980s
-  - 1990s
-  - Marc_Dutroux_Network
-  - Political_Fixer
-  - Political_Blackmail
-  - Sex_Party_Organizer
+  - Dutroux
+summary: "Jean-Michel Nihoul (born 1941) was a Belgian businessman, political fixer, and organized crime figure described as a 'quasi-underworld figure' who operated at the intersection of organized crime, politics, and child trafficking networks during the 1980s and 1990s."
 ---
+
 
 Jean-Michel Nihoul (born 1941) was a Belgian businessman, political fixer, and organized crime figure described as a "quasi-underworld figure" who operated at the intersection of organized crime, politics, and child trafficking networks during the 1980s and 1990s. He served as the ringleader of a sophisticated child trafficking network connected to [[Marc Dutroux]], operating under the cover of legitimate businesses while creating a system of sexual blackmail that extended to the highest levels of Belgian society.[^1]
 

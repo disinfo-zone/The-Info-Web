@@ -1,3 +1,7 @@
+---
+category: "Scientific Theory & Technology"
+summary: "Unidentified Anomalous Phenomena (UAP) is the official designation used by the U.S. government to refer to objects or phenomena in the atmosphere, in space, or underwater that cannot be immediately identified."
+---
 [[Unidentified Anomalous Phenomena]] (UAP) is the official designation used by the U.S. government to refer to objects or phenomena in the atmosphere, in space, or underwater that cannot be immediately identified. The term has largely replaced the more colloquial term "Unidentified Flying Object" (UFO) in official government and military discourse.[^1]
 
 ### Characteristics and The Five Observables

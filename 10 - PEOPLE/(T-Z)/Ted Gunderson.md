@@ -1,18 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - FBI
-  - Law Enforcement
-  - Private Investigator
-  - The Octopus
-  - PROMIS
-  - Intelligence
-  - Corruption
-  - Drug Trafficking
-  - Afghanistan
-  - Investigator
-  - United_States
+summary: "Gunderson became deeply involved in the investigation of corruption and drug rings within Mariposa County, California, after being approached by the D.I.G."
 ---
+
 
 [[Ted Gunderson]] was a former [[Federal Bureau of Investigation|FBI]] agent who transitioned into private investigation after his retirement from the Bureau. His distinguished career with the [[Federal Bureau of Investigation|FBI]] included serving as a Senior Special Agent in Charge (SAC) at headquarters in Los Angeles, Washington D.C., and Dallas, Texas. Following his tenure with the [[Federal Bureau of Investigation|FBI]], he worked for F. Lee Bailey, Esq., before establishing his own investigative agency in Los Angeles County.[^1]
 
@@ -32,13 +24,13 @@ Throughout his career, Gunderson encountered significant challenges and obstruct
 
 ### Child Abuse Network Investigations
 
-Gunderson later became involved in investigating organized child abuse networks and related conspiracy cases. His work intersected with the release of government documents concerning [[The Finders]] case. In 2019 the [[FBI]] began dumping heavily redacted case files from their investigation into [[The Finders]], including a follow-up inquiry into a suspected coverup in 1993. Buried among these releases, sprinkled with red herrings such as Gunderson's diagrams of the [[McMartin pre-school tunnels]] near the beginning of the first batch, were three documents of instantaneous interest. It turned out a list of names and addresses had been found on [[The Finders]] men caught transporting children through [[Florida]].[^2]
+Gunderson later became involved in investigating organized child abuse networks and related conspiracy cases. His work intersected with the release of government documents concerning [[The Finders]] case. In 2019 the [[Federal Bureau of Investigation]] began dumping heavily redacted case files from their investigation into [[The Finders]], including a follow-up inquiry into a suspected coverup in 1993. Buried among these releases, sprinkled with red herrings such as Gunderson's diagrams of the [[McMartin pre-school tunnels]] near the beginning of the first batch, were three documents of instantaneous interest. It turned out a list of names and addresses had been found on [[The Finders]] men caught transporting children through [[Florida]].[^2]
 
-Gunderson's diagrams of the McMartin pre-school tunnels were included among the [[FBI]] release materials, though their placement near the beginning of the document batch raised questions about whether they functioned as deliberate distractions from more substantive evidence. The McMartin pre-school case had become a focal point for debates about satanic ritual abuse and recovered memories, with tunnel allegations becoming a controversial element that was used to discredit survivor testimony. Gunderson's involvement in documenting these claims placed him within a network of investigators who pursued connections between institutional child abuse and intelligence operations.[^2]
+Gunderson's diagrams of the McMartin pre-school tunnels were included among the [[Federal Bureau of Investigation]] release materials, though their placement near the beginning of the document batch raised questions about whether they functioned as deliberate distractions from more substantive evidence. The McMartin pre-school case had become a focal point for debates about satanic ritual abuse and recovered memories, with tunnel allegations becoming a controversial element that was used to discredit survivor testimony. Gunderson's involvement in documenting these claims placed him within a network of investigators who pursued connections between institutional child abuse and intelligence operations.[^2]
 
-The release of [[The Finders]] files in 2019 revealed that the [[FBI]] had maintained extensive documentation on the group's activities, including surveillance reports and internal communications. Gunderson's materials, while included in the release, appeared alongside documents of more direct relevance to the case, such as the [[U.S. Customs]] memo compiled by [[Ramon J. Martinez]] and [[Metropolitan Police]] reports on [[CIA]] involvement. The juxtaposition of his tunnel diagrams with these substantive documents raised questions about the [[FBI]]'s organizational strategy in releasing the files.[^2]
+The release of [[The Finders]] files in 2019 revealed that the [[Federal Bureau of Investigation]] had maintained extensive documentation on the group's activities, including surveillance reports and internal communications. Gunderson's materials, while included in the release, appeared alongside documents of more direct relevance to the case, such as the [[U.S. Customs]] memo compiled by [[Ramon J. Martinez]] and [[Metropolitan Police]] reports on [[Central Intelligence Agency]] involvement. The juxtaposition of his tunnel diagrams with these substantive documents raised questions about the [[Federal Bureau of Investigation]]'s organizational strategy in releasing the files.[^2]
 
-Gunderson's career trajectory exemplified a pattern among law enforcement personnel who moved from official agency work to independent investigation of organized abuse networks. His [[FBI]] background provided him with access to sources and documents unavailable to civilian researchers, while his independence from institutional constraints allowed him to pursue lines of inquiry that official investigations had abandoned or suppressed. The inclusion of his materials in the 2019 release suggested that the [[FBI]] had tracked his activities and considered his findings relevant to their own investigations.[^2]
+Gunderson's career trajectory exemplified a pattern among law enforcement personnel who moved from official agency work to independent investigation of organized abuse networks. His [[Federal Bureau of Investigation]] background provided him with access to sources and documents unavailable to civilian researchers, while his independence from institutional constraints allowed him to pursue lines of inquiry that official investigations had abandoned or suppressed. The inclusion of his materials in the 2019 release suggested that the [[Federal Bureau of Investigation]] had tracked his activities and considered his findings relevant to their own investigations.[^2]
 
 ### Footnotes
 

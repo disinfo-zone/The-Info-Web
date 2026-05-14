@@ -1,10 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Government Official
-  - USA
+  - Nuclear
+  - Israel
+summary: "Aide to Assistant Secretary of Defense Paul Warnke who witnessed Warnke directly confronting Israeli Ambassador Rabin about Israel's nuclear weapons program."
 ---
-Harry H. Schwartz was an aide to [[Paul C. Warnke]], the assistant secretary of defense for international security affairs. He was present at a meeting where Warnke directly questioned [[Yitzhak Rabin]], then [[Israel]]'s ambassador to [[Washington D.C.]], about [[Israel]]'s nuclear capabilities. Schwartz recalled Warnke stating, "Mr. Ambassador, we are shocked at the manner in which you are dealing with us.… You, our close ally, are building nuclear bombs in [[Israel]] behind our back."[^1]
+
+Harry H. Schwartz was an aide to [[Paul C. Warnke]], the assistant secretary of defense for international security affairs. He was present at a meeting where Warnke directly questioned [[Yitzhak Rabin]], then [[Israel]]'s ambassador to [[Washington, D.C.]], about [[Israel]]'s nuclear capabilities. Schwartz recalled Warnke stating, "Mr. Ambassador, we are shocked at the manner in which you are dealing with us.… You, our close ally, are building nuclear bombs in [[Israel]] behind our back."[^1]
 
 ### Footnotes
 

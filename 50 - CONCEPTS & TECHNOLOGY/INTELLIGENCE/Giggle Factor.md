@@ -7,6 +7,8 @@ tags:
   - intelligence
   - skepticism
 description: The "giggle factor" is a term used in intelligence communities to describe the skepticism and ridicule associated with paranormal research and its potential operational use.
+category: "Intelligence Concept"
+summary: "The 'Giggle Factor' is a term used in intelligence communities to describe the skepticism and ridicule associated with Parapsychology research and its potential operational use."
 ---
 
 The "[[Giggle Factor]]" is a term used in intelligence communities to describe the skepticism and ridicule associated with [[Parapsychology|paranormal]] research and its potential operational use. It represents the fear of embarrassment and professional compromise if it became widely known that an intelligence agency was consulting psychics or relying on psychic data.[^1]

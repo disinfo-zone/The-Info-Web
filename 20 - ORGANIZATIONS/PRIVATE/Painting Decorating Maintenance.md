@@ -6,6 +6,8 @@ tags:
   - Illinois
   - 1970s
   - John_Wayne_Gacy
+category: "Private Organization"
+summary: "Painting Decorating Maintenance (PDM) was a construction company owned by John Wayne Gacy in Norwood Park, Chicago."
 ---
 Painting Decorating Maintenance (PDM) was a construction company owned by [[John Wayne Gacy]] in Norwood Park, [[Chicago|Chicago, Illinois]]. PDM served as both a legitimate contracting business and the site of one of the worst serial murder investigations in American history. After [[John David Norman]] went back to prison in June 1978, [[Phillip Paske]] lost his job as a children's supervisor at a public swimming pool and went to work at PDM. Receipts for three payslips made out to [[Phillip Paske]] from PDM, dated 12 September 1978, 19 September 1978, and 25 September 1978, were found in the archives of the company's financial records from that period.[^1]
 

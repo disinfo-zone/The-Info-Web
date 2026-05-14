@@ -1,11 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child-Pornographer
-  - TAG-Films
-  - Welsh-Pedophile
-  - Operation-Framework
+  - OrganizedCrime
+summary: "Lee Tucker functioned as a central child pornographer in the TAG Films enterprise during the 1980s and 1990s, partnering with Alan Williams and John Gay to fabricate and propagate explicit recordings of underage boys conveyed from the United Kingdom to exploitation venues in Amsterdam."
 ---
+
 
 Lee Tucker functioned as a central child pornographer in the [[TAG Films]] enterprise during the 1980s and 1990s, partnering with [[Alan Williams]] and [[John Gay]] to fabricate and propagate explicit recordings of underage boys conveyed from the [[United Kingdom]] to exploitation venues in [[Amsterdam]]. Headquartered in [[Cardiff, Wales]], Tucker aided in documenting compelled interactions with adolescents procured from institutional care and metropolitan environments, chronicling episodes of debasement and ferocity for underground propagation linked to [[Gero-Video]] in [[Dusseldorf]]. 
 

@@ -1,11 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - District_Attorney
-  - Michigan
-  - 1970s
-  - Troop_137
+  - OrganizedCrime
+summary: "Peter Deegan was the district attorney for St."
 ---
+
 Peter Deegan was the district attorney for St. Clair County, Michigan, during the 1970s. He prosecuted cases in the area, including those connected to child abuse rings. Deegan's office handled investigations that intersected with broader child trafficking networks.[^1]
 
 ### Role in Prosecutions

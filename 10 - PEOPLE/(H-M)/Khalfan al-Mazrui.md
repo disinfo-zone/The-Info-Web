@@ -1,15 +1,13 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Government Official
   - BCCI
-  - Banking
-  - Karachi
-  - UAE
-  - Private Department
-  - Financial Crime
-  - Investigation
+  - Banker
+  - CIA
+summary: "Khalfan al-Mazrui was the Head of the Karachi office of Sheikh Zayed's Private Department."
 ---
+
 Khalfan al-Mazrui was the Head of the [[Karachi]] office of [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]]'s Private Department.[^1] He was also the brother-in-law of [[Sami Masri]].[^2]
 
 ### Role in BCCI Operations

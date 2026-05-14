@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - Lawyer
+summary: "Attorney for Red Devil fireworks magnate Patrick Moriarty who stated Moriarty paid Bo Gritz for business trips to Asia."
+---
 [[Jan Lawrence Handzlik]] was the lawyer for [[Patrick Moriarty]], the Red Devil fireworks magnate. Handzlik stated that Moriarty had paid [[Bo Gritz]] to make business trips to [[China]], [[Singapore]], and other parts of [[Asia]].[^1]
 
 ---

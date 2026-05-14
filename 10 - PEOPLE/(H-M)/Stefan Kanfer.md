@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Stefan Kanfer
+- Stefan Kanfer
+category: "Skeptics & Critics"
 tags:
   - Person
-  - Journalist
+  - Skeptic
+summary: "Stefan Kanfer was a reporter for *Time* magazine."
 ---
+
 Stefan Kanfer was a reporter for *Time* magazine. He was a vocal critic of the [[Stanford Research Institute|SRI]]'s involvement in [[Extrasensory Perception|ESP]] research, particularly its work with [[Uri Geller]]. Kanfer targeted SRI for blame, stating, "SRI should be destroyed" for carrying out this kind of research, and that "That’s the way fascism began"[^1].
 
 ### Footnotes

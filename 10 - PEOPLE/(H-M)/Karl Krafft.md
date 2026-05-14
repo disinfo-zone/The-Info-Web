@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Karl Krafft
+- Karl Krafft
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Astrologer
+  - RemoteViewer
+summary: "Karl Krafft was a Swiss astrologer known for his influence on high-ranking Nazi officials."
 ---
+
 Karl Krafft was a Swiss astrologer known for his influence on high-ranking Nazi officials. He is particularly noted for constructing star charts that allegedly influenced [[Rudolf Hess]]'s decision to undertake his rogue flight to Scotland in May 1941. Hess, the Deputy Führer of [[Nazi Germany]], reportedly chose this date based on astrological advice, as the star chart allegedly indicated that the six planets were in Taurus and the moon would be full[^1].
 
 Following Hess's flight, [[Adolf Hitler]] declared Hess legally insane and responded with "[[Special Action Hess]]", a mass arrest of more than 600 astrologers, fortune-tellers, clairvoyants, faith healers, and other German practitioners of the supernatural or occult. Krafft was among those ensnared in this crackdown[^1]. [[Wilhelm Wulff]], another astrologer who became [[Heinrich Himmler]]'s personal astrologer, noted that a decree was issued making it illegal to "predict future events, the divination of the present or the past, and all other forms of revelation not based on natural processes of perception"[^1].

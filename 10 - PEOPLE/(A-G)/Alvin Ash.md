@@ -1,36 +1,26 @@
 ---
-created: 2024-04-26
-updated: 2024-08-21
-title: Alvin Ash
+category: "PROMIS Scandal"
+created: 2024-04-25
+updated: 2026-05-01
 tags:
-  - Military Service
-  - Vietnam War
-  - Retired Life
-description: Alvin Wilson Ash, a retired U.S. Army Lt. Colonel, served in WWII, Korea, and Vietnam, earning commendations. Post-military, he worked in IT and raised a family, leaving a legacy of service and dedication.
+  - Person
+  - PROMIS
+  - INSLAW
+  - Military
+summary: "Alvin Wilson Ash (1921-2019) was a retired U.S. Army Lieutenant Colonel who, as a civilian programmer and systems analyst at Computer Usage Company, helped develop PROMIS for the DC U.S. Attorney's Office, subsequently worked at the LEAA within the Department of Justice, sat on the INSLAW advisory board, and was a close personal friend of Bill Hamilton."
 ---
-Alvin Wilson Ash, Lt. Colonel, U.S. Army Retired, 97, of Charlottesville, Virginia, died peacefully at sunrise on Sunday, July 7, 2019, at Westminster Canterbury of the Blue Ridge, Charlottesville, Va. 
+Alvin Wilson Ash was born July 30, 1921, in New York City. He attended Nicholas Senn High School in Chicago, where he became an Eagle Scout and ROTC Cadet Lieutenant Colonel, graduating in 1939. He enrolled at the University of Illinois in the ROTC program and enlisted in the U.S. Army in July 1940. He attended the preparatory school at Fort Sheridan hoping for a West Point appointment, and in 1943 received that appointment. He graduated from West Point in 1946.
 
-Alvin Wilson Ash was born July 30, 1921, in New York, New York. He was the son of Mary Gladys Wilson Ash and Saul Ash and lived in the Bronx. In 1926, his family moved to Chicago, where Alvin attended elementary and Nicholas Senn HS. His accomplishments in high school included becoming an Eagle Scout and an ROTC Cadet Lt. Colonel. 
+After graduation, Ash was assigned to the Field Artillery School at Fort Sill, Oklahoma, and then sent on a first tour of duty to Yokohama, Japan, where he served as a second lieutenant of artillery and came to know Prince and Princess Mikasa personally. He subsequently attended parachute jump school at Fort Benning and was assigned to the 11th Airborne Division. In 1951, he jumped behind Communist lines with the 187th Airborne Regimental Combat Team as Public Information Officer during the Korean War, managing embedded correspondents and controlling published messaging; his unit was among the first to jump into North Korea.[^1]
 
-After graduating high school in 1939, he went to the University of Illinois, Champaign-Urbana in the ROTC program. In July, 1940, Alvin enlisted in the [[U.S. Army]] and attended the Preparatory School at Fort Sheridan, Ill. hoping to receive an appointment to the United States Military Academy at West Point. In 1941, he was assigned to the 12th Bombardment Group of the Army Air Corps at McChord Field, Wash. where he was first sergeant of a B17 Squadron. In June 1943, he received appointment to West Point.
+After Korea, Ash served in the 504th Field Artillery Battalion in the Panama Canal Zone, as Assistant Professor of Military Science and Tactics at Louisiana State University, and following Air Ground Operations School was stationed at Fort Bragg for Special Warfare School training. He attended the U.S. Army Command and General Staff College and Civil Affairs School, then deployed to [[Vietnam]] in 1962, where he was attached to the U.S. Embassy in Saigon's Special Warfare Branch and received a Medal of Commendation for Meritorious Service. After Vietnam, he was stationed at Fort Belvoir, Virginia, assigned to the Advanced Tactics Projects (Intelligence Division). In December 1964, Ash retired as a Lieutenant Colonel after 24 years of service.
 
-After graduation in 1946, Alvin was assigned to the Field Artillery School at Fort Sill, Okla. for anti-aircraft gun training. Shortly after, he was sent on his first tour of duty to Yokohama, Japan as a second lieutenant of artillery. Alvin grew to appreciate the culture and people of Japan and even came to know Prince and Princess Mikasa personally. While in Japan, Alvin decided to become a paratrooper and upon returning to the U.S. attended parachute jump school in Fort Benning, Ga., where he was assigned to the 11th Airborne Division. 
+### Role in PROMIS Development
 
-In 1951, Alvin jumped behind Communist Lines with the 187th Airborne Regimental Combat Team as the Public Information Officer (PIO). His role was to manage embedded correspondents and control the messaging that was published.[^1] His unit was one of the first to jump into North Korea.
+In civilian life, Ash worked as a programmer and systems analyst at Computer Usage Company, one of the early commercial computer services firms, and through that work helped develop [[PROMIS]] for the [[U.S. Attorney's office|DC U.S. Attorney's Office]]. He subsequently worked at the [[LEAA|Law Enforcement Assistance Administration]] in the [[Department of Justice]], and in that capacity sat on the advisory board for [[INSLAW]]. He was a close personal friend of [[Bill Hamilton]].
 
-After a year in Korea, Alvin returned to the United States and married his first wife, Kay Smith Sexton. Together they had two children, Scottie Karen Ash Nicholson and Robert Wilson Ash. 
+Ash married his first wife Kay Smith Sexton after returning from Korea; they had two children. After her death, he married Elfie Hornung Lucarelli in 1967; they had a daughter. Alvin Wilson Ash died July 7, 2019, at age 97, at Westminster Canterbury of the Blue Ridge in Charlottesville, Virginia.
 
-Other military duties included serving for three years in the 504th Field Artillery Battalion in the Panama Canal Zone and assigned as an Asst. Professor of Military Science and Tactics at Louisiana State University. After completing Air Ground Operations School (Combat Operations) he and his family were stationed at Fort Bragg, N.C. where he received training at Special Warfare School. He also attended the U.S. Army Command and General Staff College and Civil Affairs School, which prepared him for deployment to Vietnam in 1962. While in Saigon, Al was attached to the U.S. Embassy in the Special Warfare Branch. In Vietnam, he received a Medal of Commendation for Meritorious Service. 
+### Footnotes
 
-After returning from Vietnam, Alvin was stationed at Ft. Belvoir, Va. and assigned to the [[Advanced Tactics Projects]] (Intelligence Division). In December of 1964, Al retired as a Lt. Colonel after serving 24 years in the military. Transitioning to civilian life involved working at Woodward and Lothrop and taking night classes at George Washington University. 
-
-At GWU, he met Elfie Hornung Lucarelli, who eventually became his second wife. Alvin and Elfie married in 1967, and lived in Great Falls, Va. Together they raised a daughter, Nina Lucarelli Ash Donohoe. 
-
-Other jobs as a civilian included working as a programmer and system analyst for [[Computer Usage Company]] and helped develop [[PROMIS]] for the [[U.S. Attorney's office]] DC. Al also worked for [[LEAA]] in the Dept. of Justice. In this role, Alvin sat on the advisory board for [[INSLAW]].
-
-Alvin was a close personal friend of [[Bill Hamilton]].
-
----
-#### Footnotes
-
-[^1]: https://www.google.com/books/edition/Striking_Back/VkpyN7bViV0C?hl=en&gbpv=1&bsq=alvin%20ash
+[^1]: Langley, Michael. *Inchon Landing: MacArthur's Last Triumph*. Times Books, 1979; Google Books ID: VkpyN7bViV0C ("Striking Back").

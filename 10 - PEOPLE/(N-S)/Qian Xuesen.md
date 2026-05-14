@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Qian Xuesen
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - scientist
-  - China
-description: Qian Xuesen was a Chinese rocket scientist who played a key role in the development of China's missile and space programs, and was a vocal advocate for research into Extraordinary Human Body Function.
+  - Person
+  - RemoteViewer
+summary: "Chinese rocket scientist who contributed to U.S. missile programs before deportation, later advocating paranormal research as the father of China's rocket program."
 ---
+
 
 Qian Xuesen, also known as H. S. Tsien, was a brilliant Chinese rocket scientist who made significant contributions to the U.S. missile and space programs before being deported to [[China]] during the McCarthy era. He is considered the father of the Chinese rocket program.[^1]
 

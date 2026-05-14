@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - Lawyer
+summary: "Technical wizard and Mormon approached by Robert Booth Nichols to manufacture a prototype laser rifle sight under suspicious terms."
+---
 [[Cap Kressop]] was a "technical wizard" and a Mormon. He was a client of attorney [[Allan Boyak]]. Kressop was approached by [[Robert Booth Nichols]] and asked to manufacture a prototype laser site for a rifle. He was offered a $200,000 contract for the job but became suspicious when Nichols wanted to pay him in cash.[^1]
 
 ---

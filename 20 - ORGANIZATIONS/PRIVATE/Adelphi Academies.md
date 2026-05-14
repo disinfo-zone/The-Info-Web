@@ -8,6 +8,8 @@ tags:
   - New_Orleans
   - 1970s
   - Troop_137
+category: "Private Organization"
+summary: "Adelphi Academies was a private children's school in Florida owned by a wealthy individual named Peter Bradford."
 ---
 Adelphi Academies was a private children's school in Florida owned by a wealthy individual named [[Peter Bradford]]. The school functioned as a conduit for trafficking boys from [[New Orleans|New Orleans, Louisiana]] to Florida for sexual exploitation and child pornography production. [[Richard Halvorsen]] and [[Raymond Woodall]], who had previously worked at Adelphi Academies, moved to [[New Orleans]] in the early 1970s and were approved as juvenile probationary officers. They used these positions to access and in some instances reactivate case files on juvenile offenders to leverage against their families in scholarship offers for their boys to attend the Adelphi Academy in Florida. At least six boys from [[New Orleans]] were trafficked to Florida in this way, where they were used for sex and pornography.[^1]
 

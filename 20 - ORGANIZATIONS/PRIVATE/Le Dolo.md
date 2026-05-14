@@ -7,6 +7,8 @@ tags:
   - 1980s
   - 1990s
   - Marc_Dutroux
+category: "Private Organization"
+summary: "Le Dolo was a nightclub in Brussels managed by Michel Forgeot, where Jean-Michel Nihoul connected with figures from what were described as the 'clean professions."
 ---
 Le Dolo was a nightclub in [[Brussels|Brussels, Belgium]] managed by [[Michel Forgeot]], where [[Jean-Michel Nihoul]] connected with figures from what were described as the "clean professions." [[Jean-Michel Nihoul]] was a quasi-underworld figure who brushed shoulders with prominent politicians and officials at Le Dolo. The venue served as a hub for [[Jean-Michel Nihoul|Nihoul]]'s network, where group sex parties were held and attended by influential politicians and officials. [[Jean-Michel Nihoul|Nihoul]] claimed to have the government in his hands and boasted about his guest list. Photographs and film recordings were made of these gatherings, providing material for blackmail.[^1]
 

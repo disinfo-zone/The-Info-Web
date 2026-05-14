@@ -3,6 +3,8 @@ tags:
   - Concept
   - Nuclear
   - Physics
+category: "Scientific Theory & Technology"
+summary: "Nuclear fission is a nuclear reaction in which the nucleus of an atom splits into two or more smaller, lighter nuclei, often producing gamma photons, and releasing a very large amount of energy."
 ---
 Nuclear fission is a nuclear reaction in which the nucleus of an atom splits into two or more smaller, lighter nuclei, often producing gamma photons, and releasing a very large amount of energy. This process is the basis for nuclear power reactors and nuclear weapons.[^1]
 

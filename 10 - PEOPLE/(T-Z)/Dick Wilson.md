@@ -1,3 +1,11 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+  - CIA
+  - Politician
+summary: "Associated with Wackenhut Corporation who worked alongside Robert Frye on ventures connected to Robert Booth Nichols."
+---
 [[Dick Wilson]] was associated with [[Wackenhut Corporation]]. [[Robert Chasen]], Executive Vice President of [[Wackenhut Corporation]], believed that Wilson and [[Robert Frye]] were "dazzled" with [[Robert Booth Nichols]], despite Chasen's own distrust of Nichols. [[George Wackenhut]] reportedly liked Frye and Wilson, but did not trust [[Michael Riconosciuto]] or Nichols.[^1]
 
 ---

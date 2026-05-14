@@ -1,18 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Adolf Hitler
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Nazi
-  - Government
-  - Germany
-  - World_War_II
-  - Holocaust
-  - Occult
-  - Mysticism
-description: Adolf Hitler was the leader of the Nazi Party and the dictator of Nazi Germany from 1934 to 1945.
+  - RemoteViewer
+summary: "Adolf Hitler was the leader of the Nazi Party and the dictator of Nazi Germany from 1934 to 1945."
 ---
+
 
 Adolf Hitler was the leader of the [[Nazi Germany|Nazi Party]] and the dictator of [[Nazi Germany]] from 1934 to 1945. He was the central figure in the rise of Nazism, the Holocaust, and World War II.[^1]
 

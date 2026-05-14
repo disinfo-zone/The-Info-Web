@@ -1,6 +1,11 @@
 ---
-tags: ["Person", "Banker", "BCCI"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+summary: "Zafar Iqbal took over as head of BCCI in late 1990, after the firing of Agha Hasan Abedi and Swaleh Naqvi."
 ---
+
 Zafar Iqbal took over as head of [[Bank of Credit and Commerce International|BCCI]] in late 1990, after the firing of [[Agha Hasan Abedi]] and [[Swaleh Naqvi]].[^1] He was also responsible for inspecting the "dancing girls" for clients.[^2]
 
 ### Role at BCCI

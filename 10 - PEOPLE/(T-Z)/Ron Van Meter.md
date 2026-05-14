@@ -1,7 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
+summary: "Official reports listed his death as a drowning."
 ---
+
 [[Ron Van Meter]] was a deputy in the Mariposa Sheriff's Department. His death on June 24, 1980, in an alleged boating accident on Lake McClure, became a central point of investigation into long-standing corruption, murder, threats, and harassment within the department. Those he confided in believed he was murdered after uncovering and reporting drug trafficking within the sheriff's department.[^1]
 
 Official reports listed his death as a drowning. The search party consisted mainly of three divers: deputies [[Dave Beavers]], [[Rod Cusic]], and [[Gary Estep]]. Sheriff [[Paul Paige]] refused outside help, including additional divers from adjacent counties and a mini-submarine offered by Beavers' associate.[^1]

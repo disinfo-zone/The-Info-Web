@@ -1,3 +1,7 @@
+---
+category: "Private Organization"
+summary: "'The Company' was a drug and arms organization consisting of approximately 300 members, many of whom were former military men, ex-police officers, or ex-intelligence personnel."
+---
 "The Company" was a drug and arms organization consisting of approximately 300 members, many of whom were former military men, ex-police officers, or ex-intelligence personnel. It was involved in large-scale illegal drug trafficking, gunrunning, and mercenary operations, with assets estimated at nearly $30 million, including planes, ships, and real estate.[^1]
 
 ### Activities and Operations
@@ -15,6 +19,6 @@ The organization imported billions of dollars worth of narcotics from [[Latin Am
 [[Michael Riconosciuto]] also claimed that "The Company" was still active and that [[Brian Leighton]]'s prosecutions had only served to "vaccinate" the group against further penetration. Riconosciuto sought to hand "The Company" and [[Robert Booth Nichols]] over to [[Financial Crimes Enforcement Network|FinCen]] in exchange for entry into the Witness Protection Program, but his efforts were unsuccessful.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

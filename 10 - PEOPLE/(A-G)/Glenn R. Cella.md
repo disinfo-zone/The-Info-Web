@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Diplomat
-  - USA
+  - Nuclear
+  - Israel
+summary: "Cella was dismayed that a study of the military balance in the region, ordered by the State Department's Bureau of Intelligence and Research (INR), made no mention of Israeli nuclear capability."
 ---
+
 Glenn R. Cella was a foreign service officer who, in the summer of 1971, was assigned to handle political-military affairs on the [[State Department]]'s Israeli desk. He also became the department's representative on the [[Middle East]] Task Force, an interagency group monitoring American arms transfer policies. Cella quickly learned about [[Carl E. Duckett]]'s suppressed [[Central Intelligence Agency|CIA]] estimate on [[Israel]]'s nuclear arsenal and realized that any pressure on [[Israel]] to stop its nuclear weapons program would not come from the task force or the [[State Department]].[^1]
 
 Cella was dismayed that a study of the military balance in the region, ordered by the [[State Department]]'s Bureau of Intelligence and Research (INR), made no mention of Israeli nuclear capability. He believed the U.S. ought to "face up to the fact that they had it," but acknowledged that "nobody was allowed to talk about it."[^1]

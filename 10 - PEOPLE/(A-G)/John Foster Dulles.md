@@ -1,10 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Politics
-  - Diplomat
-  - USA
+  - Nuclear
+  - Israel
+summary: "John Foster Dulles served as the Secretary of State under President Dwight D."
 ---
+
 John Foster Dulles served as the Secretary of State under President [[Dwight D. Eisenhower]]. He, along with his brother [[Allen Dulles]], the [[Central Intelligence Agency|CIA]] director, were infuriated by [[Israel]]'s attempt to mask the extent of its military buildup prior to the 1956 [[Suez Crisis]]. He was regularly present at White House briefings where intelligence from [[U-2 Spy Plane|U-2]] flights, including early information on [[Dimona]], was presented.[^1]
 
 ### Footnotes

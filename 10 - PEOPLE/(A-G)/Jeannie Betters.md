@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Jeannie Betters
+- Jeannie Betters
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Secretary
+  - RemoteViewer
+summary: "Jeannie Betters was the unit secretary for the DIA's Remote Viewing program at Fort Meade."
 ---
+
 Jeannie Betters was the unit secretary for the [[Defense Intelligence Agency|DIA]]'s [[Remote Viewing]] program at [[Fort Meade]]. She took notes during remote viewing sessions, including those conducted by [[Angela Dellafiora]][^1].
 
 In one notable session concerning the fugitive [[Charles Frank Jordan]], Betters recorded the exchange between [[Fern Gauvin]], the operations manager, and Dellafiora. When Dellafiora stated Jordan was in "Lowell, Wyoming," and Gauvin questioned if she meant Lowell, Massachusetts, Betters interjected, "She said Wyoming, Fern," confirming Dellafiora's specific location[^1].

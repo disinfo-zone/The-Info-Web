@@ -1,12 +1,14 @@
 ---
 aliases:
-  - Henry K. Beecher
+- Henry K. Beecher
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Scientist
-  - Physician
+  - RemoteViewer
+summary: "Beecher's work contributed to the understanding of how perception of an event or a situation—real or imagined, rational or irrational—can cause consequential actions to occur."
 ---
-Henry K. Beecher (1904–1976) was a controversial anesthesiologist who, for the [[CIA]] in the 1950s, studied the [[Placebo Effect]]. The placebo effect is a remarkable phenomenon whereby a harmless pill or simulated treatment produces real-world physiological effects in humans[^1].
+
+Henry K. Beecher (1904–1976) was a controversial anesthesiologist who, for the [[Central Intelligence Agency]] in the 1950s, studied the [[Placebo Effect]]. The placebo effect is a remarkable phenomenon whereby a harmless pill or simulated treatment produces real-world physiological effects in humans[^1].
 
 Beecher's work contributed to the understanding of how perception of an event or a situation—real or imagined, rational or irrational—can cause consequential actions to occur. This concept is also related to the [[Thomas Theorem]], which states that "if men define situations as real, they are real in their consequences"[^1].
 

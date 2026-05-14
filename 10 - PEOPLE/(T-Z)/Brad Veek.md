@@ -1,16 +1,14 @@
 ---
 aliases:
-  - Brad Veek
+- Brad Veek
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Cartographer
-  - Submariner
-  - Navy
-  - Military
-  - Remote Viewing
-  - Project Deep Quest
+  - RemoteViewer
+summary: "Brad Veek was a cartographer and career submariner who played a role in Project Deep Quest."
 ---
-Brad Veek was a cartographer and career submariner who played a role in [[Project Deep Quest]]. He was responsible for creating a composite map from the individual maps marked up by psychics [[Ingo Swann]] and [[Hella Hammid]] during their [[Map Dowsing]] efforts to locate a shipwreck[^1].
+
+Brad Veek was a cartographer and career submariner who played a role in [[Project Deep Quest]]. He was responsible for creating a composite map from the individual maps marked up by psychics [[Ingo Swann]] and [[Hella Hammid]] during their [[Dowsing]] efforts to locate a shipwreck[^1].
 
 This composite map was then taken by [[Stephan Schwartz]] to the Bureau of Marine Sites of the [[U.S. Coast and Geodetic Survey]] for official opinion and verification, helping to narrow down the search area for the *Taurus I* submersible[^1].
 

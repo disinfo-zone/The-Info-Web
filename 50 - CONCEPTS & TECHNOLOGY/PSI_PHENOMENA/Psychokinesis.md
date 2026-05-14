@@ -7,6 +7,8 @@ tags:
   - psi
   - parapsychology
 description: Psychokinesis (PK) is a claimed psychic ability allowing a person to influence a physical system without physical interaction.
+category: "Psi Phenomenon"
+summary: "Psychokinesis (PK), also known as telekinesis, is a claimed Psi ability allowing a person to influence a physical system without physical interaction."
 ---
 
 [[Psychokinesis]] (PK), also known as telekinesis, is a claimed [[Psi|psychic]] ability allowing a person to influence a physical system without physical interaction. This can include phenomena such as bending metal, moving objects, or affecting electronic equipment with the mind. PK is one of the core phenomena studied within [[Parapsychology]].[^1]

@@ -1,13 +1,12 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Pavel Stepanek
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - psychic
-  - Czechoslovakia
-description: Pavel Stepanek was a Czech psychic known for his participation in experiments demonstrating the transmission of psi data with error-correcting protocols.
+  - Person
+  - RemoteViewer
+  - Soviet
+summary: "While the effective bit rate for this experiment was very low (about one word per day), it was considered an impressive proof-of-concept, suggesting that the claims made in the Nautilus story might not have been entirely farfetched."
 ---
+
 
 [[Pavel Stepanek]] was a Czech psychic who participated in experiments conducted by researcher Milan Ryzl in the mid-1960s. These experiments aimed to demonstrate the transmission of [[Parapsychology|psi]] data using error-correcting protocols, similar to those used in telecommunications. In one notable experiment, Stepanek repeatedly guessed bits in a randomly generated 50-bit sequence of ones and zeros. After several days and twenty thousand guesses, Ryzl, using a majority-vote error-correcting protocol, successfully reconstructed the entire 50-bit sequence.[^1]
 

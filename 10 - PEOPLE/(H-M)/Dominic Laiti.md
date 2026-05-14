@@ -1,9 +1,13 @@
 ---
-aliases: []
+category: "PROMIS Scandal"
 tags:
   - Person
+  - PROMIS
+  - INSLAW
+summary: "Dominic Laiti was the Chairman of Hadron, Inc., a company that became central to Inslaw's allegations of a conspiracy to steal its PROMIS software."
 ---
-Dominic Laiti was the Chairman of [[Hadron]], Inc., a company that became central to [[Inslaw Corporation|Inslaw]]'s allegations of a conspiracy to steal its [[PROMIS]] software.
+
+Dominic Laiti was the Chairman of [[Hadron]], Inc., a company that became central to [[INSLAW|Inslaw]]'s allegations of a conspiracy to steal its [[PROMIS]] software.
 
 [[Bill Hamilton]], president of Inslaw, claimed that on April 20, 1983, Laiti telephoned him, stating that Hadron needed the PROMIS software for federal government contracts it expected to receive due to its political contacts, including with [[Edwin Meese]]. Hamilton alleged that Laiti expressed Hadron's intention to become a leading vendor of law enforcement and court software, and that Hadron was seeking to purchase [[INSLAW|Inslaw]]. When Hamilton declined to meet, Laiti allegedly threatened, "We have ways of making you sell."[^1]
 
@@ -13,4 +17,4 @@ The Special Counsel's investigation found that Laiti denied making the statement
 
 ### Footnotes
 
-[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

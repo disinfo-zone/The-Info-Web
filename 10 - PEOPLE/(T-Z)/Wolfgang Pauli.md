@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Wolfgang Pauli
+- Wolfgang Pauli
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Physicist
-  - Nobel Laureate
+  - RemoteViewer
+summary: "Wolfgang Pauli (1900–1958) was an Austrian-American theoretical physicist and Nobel Laureate, known for his pioneering work on quantum mechanics, particularly the Pauli exclusion principle."
 ---
+
 Wolfgang Pauli (1900–1958) was an Austrian-American theoretical physicist and Nobel Laureate, known for his pioneering work on quantum mechanics, particularly the Pauli exclusion principle. He is also famously associated with the "Pauli effect," a phenomenon where technical equipment inexplicably malfunctions or breaks in his presence[^1].
 
 The Pauli effect was coined after numerous instances were noted where Pauli was present and technical equipment malfunctioned, fell, broke, or sustained unusual damage. For example, in February 1950, during a visit to Princeton University, the cyclotron Pauli had come to observe inexplicably caught fire[^1].

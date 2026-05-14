@@ -1,13 +1,11 @@
 ---
-created: 2025-07-22
-updated: 2025-07-23
-title: Karlis Osis
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - parapsychologist
-  - researcher
-  - Scientist
+  - Person
+  - RemoteViewer
+summary: "Karlis Osis was a Latvian-born parapsychologist with a PhD, known for his research into deathbed visions and his work with the U.S."
 ---
+
 Karlis Osis was a Latvian-born parapsychologist with a PhD, known for his research into deathbed visions and his work with the U.S. government on [[Extrasensory Perception|ESP]] experiments with animals[^1][^2].
 
 In the 1940s, Osis conducted a four-year study on deathbed visions, interviewing thousands of doctors and nurses in America and northern [[India]]. He hypothesized that Indian patients, whose belief system allows for reincarnation, were far more likely to experience visions before death than American patients[^2].

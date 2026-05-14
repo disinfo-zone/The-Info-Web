@@ -9,6 +9,8 @@ tags:
   - Israel
   - Security
 description: Shin Bet is Israel's internal security service.
+category: "Foreign Government"
+summary: "Shin Bet is Israel's internal security service. In the context of the *Remote Viewers* narrative, Uri Geller claimed to have worked with Shin Bet officials, along with Israeli military intelligence and Mossad."
 ---
 
 [[Shin Bet]] is [[Israel]]'s internal security service. In the context of the *Remote Viewers* narrative, [[Uri Geller]] claimed to have worked with Shin Bet officials, along with Israeli military intelligence and [[Mossad]]. He stated that he was tested by these agencies and began to work for them, performing tasks such as clairvoyantly viewing intelligence targets and predicting troop deployments.[^1]

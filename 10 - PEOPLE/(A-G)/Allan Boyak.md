@@ -1,14 +1,13 @@
 ---
+category: "Law Enforcement & Legal"
 tags:
   - Person
   - Lawyer
-  - Military
-  - Special Forces
-  - CIA
-  - DEA
-  - USA
+  - LawEnforcement
+summary: "After law school, Boyak joined a Hollywood law firm and became involved in criminal defense work, representing a number of 'well placed West Coast drug traffickers.' He later moved to Utah, maintaining a part-time law practice in California."
 ---
-[[Allan Boyak]] is an attorney from [[Utah]] who represented [[Michael Riconosciuto]] in his drug case. Boyak had a background in the [[United States Army Special Forces|U.S. Army Special Forces]] and reportedly did some contract work for the [[Central Intelligence Agency|CIA]] during the 1960s and early 1970s. He also worked briefly for the [[Drug Enforcement Administration|DEA]] (or its antecedent agency) in [[California]] before leaving government service to attend law school.[^1]
+
+[[Allan Boyak]] is an attorney from [[Utah]] who represented [[Michael Riconosciuto]] in his drug case. Boyak had a background in the [[United States Army Special Forces|U.S. Army Special Forces]] and reportedly did some contract work for the [[Central Intelligence Agency|CIA]] during the 1960s and early 1970s. He also worked briefly for the [[DEA|DEA]] (or its antecedent agency) in [[California]] before leaving government service to attend law school.[^1]
 
 After law school, Boyak joined a Hollywood law firm and became involved in criminal defense work, representing a number of "well placed West Coast drug traffickers." He later moved to [[Utah]], maintaining a part-time law practice in [[California]].[^1]
 

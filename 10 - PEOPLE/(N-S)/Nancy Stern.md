@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Nancy Stern
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - photointerpreter
-  - psychic
-description: Nancy Stern was an Army civilian photo-interpreter and one of the original members of the Stargate Project's remote viewing unit.
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+summary: "Stern was present during the intense and monotonous remote viewing taskings related to the Iran hostage crisis (1979-1981)."
 ---
+
 
 [[Nancy Stern]] was an Army civilian photo-interpreter and one of the original members of the [[STARGATE PROJECT|Gondola Wish]] (later [[STARGATE PROJECT|Grill Flame]]) remote viewing unit. She was among the initial group of ten or eleven candidates selected by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]] for the experimental program, with a heavy emphasis on photo-interpreters due to their visual skills.[^1]
 

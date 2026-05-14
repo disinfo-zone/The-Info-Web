@@ -1,9 +1,13 @@
 ---
-aliases: []
+category: "PROMIS Scandal"
 tags:
   - Person
+  - PROMIS
+  - INSLAW
+summary: "Cornelius Blackshear was a U.S."
 ---
-Cornelius Blackshear was a U.S. Trustee in the Southern District of New York who later became a U.S. Bankruptcy Court Judge for the Southern District of New York. He became a key figure in the allegations surrounding the attempted conversion of [[Inslaw Corporation|Inslaw]]'s bankruptcy case and a subsequent alleged cover-up.
+
+Cornelius Blackshear was a U.S. Trustee in the Southern District of New York who later became a U.S. Bankruptcy Court Judge for the Southern District of New York. He became a key figure in the allegations surrounding the attempted conversion of [[INSLAW|Inslaw]]'s bankruptcy case and a subsequent alleged cover-up.
 
 Blackshear initially testified in a deposition on March 25, 1987, that [[Philip White]], the U.S. Trustee for the District of Columbia, had told him that [[Thomas Stanton]], Director of the Executive Office of U.S. Trustees (EOUST), had tried to pressure White to convert [[INSLAW]]'s Chapter 11 reorganization to a Chapter 7 liquidation and to have [[Harry Jones]] assigned to White to effect the conversion. Blackshear also stated that Stanton had never contacted him about detailing Jones, but he thought Stanton might have approached Jones directly. This testimony supported Inslaw's primary allegation of a plot to liquidate the company. However, after speaking with White, Blackshear realized he was mistaken and had confused Inslaw with the UPI case, about which White had told him the IRS had pressured him to join a motion to convert. Blackshear then prepared and signed an affidavit recanting his deposition testimony, stating that he had confused the cases. He also gave a second deposition repeating his new recollections. During the Office of Professional Responsibility (OPR) investigation, Blackshear essentially repeated his recanting statements, maintaining that White had not told him Stanton pressured him to convert Inslaw, and that he had confused Inslaw with UPI. He did, however, disagree with White regarding a conversation about the possible assignment of Harry Jones to Washington, believing White had told him Stanton planned to bring Jones to Washington, while White maintained Blackshear told this to White. Blackshear also denied discussing with [[Anthony Pasciuto]] at a social gathering that he was sorry for his conduct or had given false testimony in his recantation to avoid hurting people.[^1]
 
@@ -11,4 +15,4 @@ Bankruptcy Judge Bason, in his findings, chose to believe Blackshear's original 
 
 ### Footnotes
 
-[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

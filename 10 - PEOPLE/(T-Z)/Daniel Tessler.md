@@ -1,9 +1,14 @@
 ---
-aliases: []
+category: "PROMIS Scandal"
 tags:
   - Person
+  - PROMIS
+  - CIA
+  - INSLAW
+summary: "Daniel Tessler managed a venture capital fund called 53rd Street Ventures, Inc., which was formed around 1976 as an investment company."
 ---
-Daniel Tessler managed a venture capital fund called [[53rd Street Ventures]], Inc., which was formed around 1976 as an investment company. In about 1984, Tessler and his wife, [[Patricia Cloherty]], assumed management of 53rd Street Ventures through their investment management company, [[Tessler & Cloherty]], Inc. At that time, 53rd Street Ventures had a $100,000 investment in [[Inslaw Corporation|Inslaw]], representing less than 1% of the fund's total portfolio. This investment was made around 1982 under the supervision of [[Patricof and Company]], the previous managers, with [[Jonathan Ben Cnaan]] arranging the investment. The investment resulted in 53rd Street Ventures owning about 1.2% of [[INSLAW]].
+
+Daniel Tessler managed a venture capital fund called [[53rd Street Ventures]], Inc., which was formed around 1976 as an investment company. In about 1984, Tessler and his wife, [[Patricia Cloherty]], assumed management of 53rd Street Ventures through their investment management company, [[Tessler & Cloherty]], Inc. At that time, 53rd Street Ventures had a $100,000 investment in [[INSLAW|Inslaw]], representing less than 1% of the fund's total portfolio. This investment was made around 1982 under the supervision of [[Patricof and Company]], the previous managers, with [[Jonathan Ben Cnaan]] arranging the investment. The investment resulted in 53rd Street Ventures owning about 1.2% of [[INSLAW]].
 
 [[Bill Hamilton]]'s affidavit claimed that in December 1984, shortly before Inslaw's Chapter 11 filing, Tessler came to Inslaw and attempted to induce the Hamiltons to turn over the voting rights of their controlling interest in Inslaw common stock. Hamilton alleged that Tessler stated neither 53rd Street Ventures nor [[Hambro Venture Capital]] would help Inslaw raise capital unless the Hamiltons surrendered their voting rights by the end of the business day. Hamilton's affidavit also suggested a relationship between [[Daniel Tessler]] and [[Alan Tessler]], a partner in a law firm representing [[Earl Brian]] and [[Hadron]], and that Daniel Tessler helped organize Hadron's efforts to "get" Inslaw.[^1]
 
@@ -11,4 +16,4 @@ Daniel Tessler denied these allegations. He stated that he and Cloherty looked i
 
 ### Footnotes
 
-[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

@@ -8,6 +8,8 @@ tags:
   - SovietUnion
   - psi
 description: Paraphysics R&D - Warsaw Pact was a 1977 Defense Intelligence Agency report authored by Dale Graff, assessing Soviet and Warsaw Pact research into psi phenomena.
+category: "Psi Research Program"
+summary: "'Paraphysics R&D - Warsaw Pact' was a 1977 Defense Intelligence Agency report authored by Dale Graff. The report assessed Soviet Union and Warsaw Pact research into Psi phenomena, including electromagnetic fields, quantum physics, holography, and..."
 ---
 
 "[[Paraphysics R&D - Warsaw Pact]]" was a 1977 [[Defense Intelligence Agency|DIA]] report authored by [[Dale Graff]]. The report assessed [[Soviet Union|Soviet]] and Warsaw Pact research into [[Psi|psi]] phenomena, including electromagnetic fields, quantum physics, holography, and gravitation. Graff coined the term "paraphysics" to describe this field, aiming to pivot the nomenclature away from psychology towards physics to gain more traction within the [[Department of Defense|DoD]].[^1]

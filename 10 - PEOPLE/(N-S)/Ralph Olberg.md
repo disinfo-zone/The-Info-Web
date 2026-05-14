@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Discussions included the Mujahideen's willingness to field test new and esoteric weapons and return research reports with photos."
+---
 [[Ralph Olberg]] was a prominent American businessman involved in spearheading the procurement of [[United States|U.S.]] weapons and technology for the [[Mujahideen]] in [[Afghanistan]]. He met with [[Ted Gunderson]], [[Tim Osman]], and [[Michael Riconosciuto]] in early 1986 to discuss his role with the worldwide support network for the Mujahideen, the Afghanistan Resistance Movement against the [[Soviet Union|Soviets]].[^1]
 
 Discussions included the Mujahideen's willingness to field test new and esoteric weapons and return research reports with photos. They also discussed the capture and/or defection of high-ranking Soviet military personnel with sensitive compartmentalized information, and the availability of their briefings, including a Soviet defector who was a communications officer with detailed information on Soviet military C-3I ([[Command Control Intelligence and Communications]]).[^1]

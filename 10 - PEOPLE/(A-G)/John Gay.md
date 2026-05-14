@@ -1,14 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child-Pornographer
-  - TAG-Films
-  - United-Kingdom
-  - 1980s-1990s
-  - International-Child-Trafficking
-  - Operation-Framework
-  - Alan-Williams-Associate
+  - OrganizedCrime
+summary: "John Gay served as a principal child pornographer in the TAG Films operation throughout the 1980s and 1990s, working in tandem with Alan Williams and Lee Tucker to generate and circulate explicit content involving underage boys transported from the United Kingdom to sex districts in Amsterdam."
 ---
+
 John Gay served as a principal child pornographer in the [[TAG Films]] operation throughout the 1980s and 1990s, working in tandem with [[Alan Williams]] and [[Lee Tucker]] to generate and circulate explicit content involving underage boys transported from the United Kingdom to sex districts in [[Amsterdam]]. 
 
 ### Involvement in the Production of CSAM

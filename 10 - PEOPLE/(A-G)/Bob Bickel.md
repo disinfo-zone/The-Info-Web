@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - Journalist
+summary: "Bickel was a key source for Casolaro's 'The Octopus' investigation."
+---
 [[Bob Bickel]] was a Texas oil engineer who once worked as an informant for the Customs Bureau. He was a friend and confidante of investigative journalist [[Danny Casolaro]].[^1]
 
 Bickel was a key source for Casolaro's "[[The Octopus]]" investigation. Casolaro obtained papers related to [[Iran-Contra Affair|Iran-Contra]] arms deals, including photocopies of checks drawn on [[Bank of Credit and Commerce International|BCCI]] accounts for [[Adnan Khashoggi]] and [[Manucher Ghorbanifar]], from Bickel. Bickel, in turn, obtained these documents from [[October Surprise]] source [[Richard Brenneke]].[^1]

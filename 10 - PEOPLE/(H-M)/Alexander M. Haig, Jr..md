@@ -1,16 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Government
-  - Secretary_of_State
-  - Reagan_Administration
-  - State_Department
-  - Israel
-  - Iraq
-  - Osirak
   - Nuclear
+  - Israel
+summary: "Secretary of State under President Reagan who was present at high-command meetings following Israel's 1981 bombing of the Iraqi Osirak nuclear reactor."
 ---
-Alexander M. Haig, Jr. served as the Secretary of State under President [[Ronald Reagan]]. He was present at a meeting of Reagan's high command following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak]] in June 1981. While the [[State Department]] formally condemned the bombing, Haig was privately forbearing.[^1]
+
+Alexander M. Haig, Jr. served as the Secretary of State under President [[Ronald Reagan]]. He was present at a meeting of Reagan's high command following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981. While the [[State Department]] formally condemned the bombing, Haig was privately forbearing.[^1]
 
 ### Footnotes
 

@@ -1,5 +1,7 @@
 ---
 tags: ["Organization", "Financial Institution", "BCCI"]
+category: "Private Organization"
+summary: "ICIC (International Credit and Investment Company Holdings) was a Cayman Islands subsidiary of the Bank of Credit and Commerce International.[^1] It served as BCCI's repository for loans to privileged insiders.[^1]"
 ---
 ICIC (International Credit and Investment Company Holdings) was a [[Cayman Islands]] subsidiary of the [[Bank of Credit and Commerce International|BCCI]].[^1] It served as BCCI's repository for loans to privileged insiders.[^1]
 
@@ -9,7 +11,7 @@ ICIC was incorporated in 1976 and became the primary entity through which much o
 
 ICIC was used to conceal the bank's true ownership and financial manipulations. Billions of dollars in deposits were improperly diverted through ICIC, and it was a key mechanism for creating fictitious loans and rerouting deposits to cover losses.[^3] The worst of BCCI's account manipulation, particularly related to bad loans, was booked through ICIC.[^2]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 143.

@@ -1,11 +1,12 @@
 ---
+category: "PROMIS Scandal"
 tags:
   - Person
+  - PROMIS
   - Journalist
-  - Investigative Reporter
-  - Author
-  - USA
+summary: "Cheri Seymour is an investigative journalist and author."
 ---
+
 
 Cheri Seymour is an investigative journalist and author. She is the author of "The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal." Seymour was a reporter for a small newspaper in a remote community near Yosemite Valley. Her work on "The Last Circle" involved extensive investigation into organized crime, drug trafficking, money laundering, and pirated software, following the trail of Danny Casolaro's investigation into what he termed "The Octopus."[^1]
 

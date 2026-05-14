@@ -8,6 +8,8 @@ tags:
   - SovietUnion
   - psi
 description: Controlled Offensive Behavior - USSR was a 1972 Defense Intelligence Agency (DIA) report that assessed Soviet research into psi phenomena and its potential military applications.
+category: "Psi Research Program"
+summary: "Controlled Offensive Behavior - USSR was a 1972 Defense Intelligence Agency report that assessed Soviet Union research into Parapsychology phenomena and its potential military applications."
 ---
 [[Controlled Offensive Behavior - USSR]] was a 1972 [[Defense Intelligence Agency|DIA]] report that assessed [[Soviet Union|Soviet]] research into [[Parapsychology|psi]] phenomena and its potential military applications. The report noted that "the major impetus behind the Soviet drive to harness the possible capabilities of telepathic communication, telekinetics, and bionics are said to come from the Soviet military and the [[KGB]]."[^1]
 

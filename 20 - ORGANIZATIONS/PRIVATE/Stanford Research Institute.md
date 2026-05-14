@@ -10,6 +10,8 @@ tags:
   - USA
   - California
 description: The Stanford Research Institute (SRI) was a key institution in the history of remote viewing, conducting research for the CIA and other intelligence agencies.
+category: "Private Organization"
+summary: "The Stanford Research Institute (SRI) is a scientific research institute based in Menlo Park, California. In the early 1970s, SRI became the center of the U.S."
 ---
 
 The [[Stanford Research Institute]] (SRI) is a scientific research institute based in Menlo Park, California. In the early 1970s, SRI became the center of the U.S. government's secret psychic research program, which would eventually become known as the [[STARGATE PROJECT]].[^1]

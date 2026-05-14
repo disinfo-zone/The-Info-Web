@@ -1,11 +1,16 @@
 ---
 aliases:
-  - Gamal Abdel Nasser
+- Gamal Abdel Nasser
+category: "Intelligence & Government"
 tags:
   - Person
-  - Head of State
-  - Egypt
+  - Politician
+  - Israel
+  - Soviet
+  - Military
+summary: "**Rise to Power and Pan-Arab Vision**"
 ---
+
 [[Gamal Abdel Nasser]] (1918–1970) was the second President of [[Egypt]], serving from 1956 until his death in 1970. He was a prominent figure in Arab nationalism and a key leader in the non-aligned movement during the [[Cold War]].[^1]
 
 **Rise to Power and Pan-Arab Vision**
@@ -24,7 +29,7 @@ Building on his growing confidence and Soviet backing, Nasser made his most auda
 
 **American Intelligence Connections**
 
-Throughout these tumultuous events, Nasser maintained complex relationships with Western intelligence figures. [[Miles Copeland]], a retired [[Central Intelligence Agency|CIA]] officer, was a good friend of [[Gamal Abdel Nasser|Nasser]]. [[Miles Copeland|Copeland]] was believed by [[Israel|Israeli]] intelligence to be responsible for [[USA|U.S.]] pressure on [[Israel]], [[Britain]], and [[France]] to withdraw from the [[Suez Canal]] area in 1956, and for pushing [[Israel|Israelis]] to withdraw from the [[Sinai Desert|Sinai]].[^2]
+Throughout these tumultuous events, Nasser maintained complex relationships with Western intelligence figures. [[Miles Copeland]], a retired [[Central Intelligence Agency|CIA]] officer, was a good friend of [[Gamal Abdel Nasser|Nasser]]. [[Miles Copeland|Copeland]] was believed by [[Israel|Israeli]] intelligence to be responsible for [[United States|U.S.]] pressure on [[Israel]], [[Britain]], and [[France]] to withdraw from the [[Suez Canal]] area in 1956, and for pushing [[Israel|Israelis]] to withdraw from the [[Sinai Desert|Sinai]].[^2]
 
 **Death and Unusual Predictions**
 

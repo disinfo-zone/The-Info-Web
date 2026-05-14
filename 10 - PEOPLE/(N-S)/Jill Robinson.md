@@ -1,11 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Victim
-  - Michigan
-  - 1970s
-  - Oakland_County_Child_Killer
+summary: "Jill Robinson was a 12-year-old girl abducted in Oakland County, Michigan."
 ---
+
 Jill Robinson was a 12-year-old girl abducted in Oakland County, Michigan. She was one of four victims attributed to the [[Oakland County Child Killer]] between February 1976 and March 1977. All victims, including Jill Robinson, shared physical characteristics such as shoulder-length hair and fair complexions, which investigators noted as potential selection criteria by the perpetrator.[^1]
 
 Jill Robinson resided in the Birmingham, Michigan area of Oakland County, Michigan, during the mid-1970s. She was identified as the second victim in a series of child murders that prompted the formation of a special task force known as Operation Burial Ritual. Unlike the male victims [[Mark Stebbins]] and [[Timothy King]], who were bound, sexually assaulted with foreign objects, and suffocated, Jill Robinson's case differed in method, with no evidence of sexual assault reported.[^1]

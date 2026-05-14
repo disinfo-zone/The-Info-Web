@@ -1,4 +1,14 @@
-[[William Bryant, Jr.]] was a Senior [[United States District Court|U.S. District Court]] Judge. He affirmed the bankruptcy court's findings in November 1989, in a separate opinion of almost 50 pages, following a de novo trial in the [[INSLAW]] case. His ruling stated that "There was unending contention about payments under this contract and the rights of the respective parties – what is strikingly apparent from the testimony and depositions of key witnesses and many documents is that [[INSLAW]] performed its contract in a hostile environment that extended from the higher echelons of the [[United States Department of Justice|Justice Department]] to the officials who had the day-to-day responsibility for supervising its work."[^1]
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+  - DoJ
+  - INSLAW
+summary: "Senior U.S. District Court Judge who affirmed the bankruptcy court's findings in the INSLAW case, ruling DOJ performed its contract in a hostile environment."
+---
+[[William Bryant, Jr.]] was a Senior [[United States District Court|U.S. District Court]] Judge. He affirmed the bankruptcy court's findings in November 1989, in a separate opinion of almost 50 pages, following a de novo trial in the [[INSLAW]] case. His ruling stated that "There was unending contention about payments under this contract and the rights of the respective parties – what is strikingly apparent from the testimony and depositions of key witnesses and many documents is that [[INSLAW]] performed its contract in a hostile environment that extended from the higher echelons of the [[Department of Justice|Justice Department]] to the officials who had the day-to-day responsibility for supervising its work."[^1]
 
 ---
 ### Footnotes

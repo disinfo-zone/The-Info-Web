@@ -1,3 +1,7 @@
+---
+category: "Private Organization"
+summary: "The Music Corporation of America was a major entertainment corporation that became entangled in investigations related to organized crime and the broader network that Danny Casolaro termed 'The Octopus.'"
+---
 The [[Music Corporation of America|MCA]] was a major entertainment corporation that became entangled in investigations related to organized crime and the broader network that [[Danny Casolaro]] termed "[[The Octopus]]."
 
 ### Organized Crime Allegations
@@ -8,7 +12,7 @@ The intercepted conversations reportedly revealed connections to [[La Cosa Nostr
 
 ### Leveraged Buyout and Investigation Shutdown
 
-At the time of these investigations, [[Music Corporation of America|MCA]] was being offered in a leveraged buyout to Japanese interests. An [[Federal Bureau of Investigation|FBI]] investigation could have jeopardized this sale. Consequently, the wiretaps were sealed by the [[United States Department of Justice|DOJ]], and no prosecutions were pursued. The Los Angeles Organized Crime Strike Force was disbanded, [[Richard Stavin]] resigned, and [[Thomas Gates]] closed the [[Federal Bureau of Investigation|FBI]] investigation. The Japanese ultimately purchased [[Music Corporation of America|MCA]] in what was reported as the largest corporate sale in U.S. history at the time.[1]
+At the time of these investigations, [[Music Corporation of America|MCA]] was being offered in a leveraged buyout to Japanese interests. An [[Federal Bureau of Investigation|FBI]] investigation could have jeopardized this sale. Consequently, the wiretaps were sealed by the [[Department of Justice|DOJ]], and no prosecutions were pursued. The Los Angeles Organized Crime Strike Force was disbanded, [[Richard Stavin]] resigned, and [[Thomas Gates]] closed the [[Federal Bureau of Investigation|FBI]] investigation. The Japanese ultimately purchased [[Music Corporation of America|MCA]] in what was reported as the largest corporate sale in U.S. history at the time.[1]
 
 [[Marvin Rudnick]], who lost his job for refusing to drop the investigation, later had part of his story told in the 1993 book *Stiffed: A True Story of MCA, The Music Business, and the Mafia* by William Knoedelseder.[1]
 
@@ -17,5 +21,5 @@ At the time of these investigations, [[Music Corporation of America|MCA]] was be
 [[Danny Casolaro]]'s investigation into "[[The Octopus]]" included [[Music Corporation of America|MCA]], and he was reportedly told by [[Robert Booth Nichols]] about the leveraged buyout. [[Dan Moldea]], in his 1986 book *Dark Victory: Ronald Reagan, MCA, and the Mob*, had previously labeled [[Music Corporation of America|MCA]] as "[[The Octopus]]," a term that likely inspired Casolaro's own use of the phrase.[1]
 
 ---
-## Footnotes
+### Footnotes
 [1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

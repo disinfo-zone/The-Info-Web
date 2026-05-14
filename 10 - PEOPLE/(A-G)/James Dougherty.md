@@ -1,13 +1,11 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Lawyer
-  - Investigator
   - BCCI
-  - Banking
-  - USA
-  - Florida
+summary: "James Dougherty was a Florida lawyer for Lloyd's of London who investigated Munther Ismael Bilheisi and the BCCI."
 ---
+
 James Dougherty was a Florida lawyer for [[Lloyd's of London]] who investigated [[Munther Ismael Bilheisi]] and the [[Bank of Credit and Commerce International|BCCI]].[^1] He was known for his zealous pursuit of cases and his comprehensive database on BCCI activities.
 
 ### Investigations and Discoveries

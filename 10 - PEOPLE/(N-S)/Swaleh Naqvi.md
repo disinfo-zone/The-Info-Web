@@ -1,13 +1,19 @@
 ---
-tags: ["Person", "Banker", "BCCI"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+  - CIA
+summary: "Swaleh Naqvi was the chief operating officer of BCCI, taking over after Agha Hasan Abedi's 1988 heart attack."
 ---
+
 Swaleh Naqvi was the chief operating officer of [[Bank of Credit and Commerce International|BCCI]], taking over after [[Agha Hasan Abedi]]'s 1988 heart attack.[^1]
 
 ### Role at BCCI
 
 Naqvi was instrumental in the day-to-day operations and manipulations within BCCI. He personally maintained some six thousand secret accounts, which were at the core of the bank's deception.[^2] He was responsible for orchestrating the sale of [[Clark Clifford]] and [[Robert Altman]]'s stock in [[First American Bank]] to a BCCI front man.[^3]
 
-Naqvi, along with Abedi, was indicted by [[Robert Morgenthau]], the Manhattan district attorney, in July 1991 for fraud, bribery, grand larceny, and money laundering.[^4] He was also indicted by the [[Justice Department]] in November 1991 for his role in the bond manipulation at [[CenTrust Savings Bank]] and the secret ownership of [[Independence Bank of Encino]].[^5]
+Naqvi, along with Abedi, was indicted by [[Robert Morgenthau]], the Manhattan district attorney, in July 1991 for fraud, bribery, grand larceny, and money laundering.[^4] He was also indicted by the [[Department of Justice]] in November 1991 for his role in the bond manipulation at [[CenTrust Savings Bank]] and the secret ownership of [[Independence Bank of Encino]].[^5]
 
 ### Connections and Influence
 

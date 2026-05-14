@@ -1,13 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Pedophile
-  - Australia
-  - Queensland
-  - 1970s
-  - 1980s
-  - Spartacus_Network
+  - OrganizedCrime
+summary: "Clarence Henry Osborne was a retired stenographer and civil servant in the Australian state of Queensland, Australia, who for years had transcribed government hansards and supreme court proceedings."
 ---
+
 Clarence Henry Osborne was a retired stenographer and civil servant in the Australian state of [[Queensland|Queensland, Australia]], who for years had transcribed government hansards and supreme court proceedings. In 1979 a Brisbane woman reported a man to police for photographing her son naked. The man arrested was Osborne, age 61. At his home police discovered thousands of pictures of naked children, hundreds of hours of tape-recorded conversations with boys, and a meticulously organised filing cabinet filled with index cards bearing the details of his victims, from their names, ages, and addresses, to their physical measurements. It was later estimated that Osborne had been involved with more than 2,500 underage males over a 20-year period.[^1]
 
 Osborne was taken into police custody and interviewed by detectives, who decided not to charge him and instead drove him home. Later that night, Osborne committed suicide using the exhaust pipe of his car. The materials seized from his home were forgotten in storage until a year later, when a detective stumbled upon all twelve boxes of them. Among the files a detective from the juvenile division who inspected Osborne's records commented there had been enough evidence to bring down the [[Queensland|Queensland]] government overnight. The detective stated, "Within those boxes were all these index cards... I recognised names... it was quite obvious there were members of the judiciary, the legal fraternity, there were politicians, it was the top end... there were no bloody truck drivers and bricklayers amongst them."[^1]

@@ -1,12 +1,12 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
   - BCCI
-  - Pakistan
-  - Banking
-  - Finance
-  - USA
+  - CIA
+summary: "Sani Ahmed was a key figure in the BCCI, serving as the head of its protocol department in Pakistan before moving to Washington, D.C."
 ---
+
 Sani Ahmed was a key figure in the [[Bank of Credit and Commerce International|BCCI]], serving as the head of its protocol department in [[Pakistan]] before moving to [[Washington, D.C.]] to run BCCI's representative office.[^1] He was a confidant of [[Agha Hasan Abedi]], the founder of BCCI, and played a significant role in the bank's operations, particularly in cultivating relationships with wealthy clients and government officials.
 
 ### Role in BCCI's Protocol Department

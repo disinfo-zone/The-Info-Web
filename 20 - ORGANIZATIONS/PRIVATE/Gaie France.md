@@ -7,6 +7,8 @@ tags:
   - 1990s
   - Michel_Caignet
   - Neo-Nazi
+category: "Private Organization"
+summary: "Gaie France was a pedophile magazine published by Michel Caignet, a neo-Nazi child pornographer and former member of the Fane and FNE (European Nationalist Groups)."
 ---
 Gaie France was a pedophile magazine published by [[Michel Caignet]], a neo-Nazi child pornographer and former member of the Fane and FNE (European Nationalist Groups). The magazine combined photographs of male adolescents with Nazi nostalgia, featuring children at times scantily dressed in the attire of Hitler Youth. Gaie France mostly dealt in softcore child pornography, with photographs of naked children posed artistically. The magazine and others like it published by [[Michel Caignet]] formed part of the distribution infrastructure for child exploitation materials linked to the [[Toro Bravo]] production network.[^1]
 

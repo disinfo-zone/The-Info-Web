@@ -9,6 +9,8 @@ tags:
   - intelligence
   - remoteviewing
 description: The Stargate Project was a secret U.S. Army unit established in 1977, which investigated psychic phenomena like remote viewing for military and intelligence purposes. Operating under various code names including Gondola Wish and Grill Flame, it involved psychics who claimed successes in locating targets and detecting foreign surveillance until its declassification in 1995.
+category: "Psi Research Program"
+summary: "The STARGATE PROJECT was a secret U.S. Army unit established in 1977 at Fort Meade, Maryland. Its purpose was to investigate Psi phenomena, particularly Remote Viewing, for military and intelligence applications."
 ---
 
 The [[STARGATE PROJECT]] was a secret [[U.S. Army]] unit established in 1977 at [[Fort Meade]], Maryland. Its purpose was to investigate [[Psi|psychic]] phenomena, particularly [[Remote Viewing|remote viewing]], for military and intelligence applications. The project operated under various code names throughout its lifespan, including **Gondola Wish**, **Grill Flame**, **Center Lane**, **Sun Streak**, and **Scanate**. These names were used at different times and for different aspects of the project, but all fell under the umbrella of psychic research for military and intelligence purposes. The project sought to harness these abilities for intelligence gathering and military operations, eventually being declassified in 1995.

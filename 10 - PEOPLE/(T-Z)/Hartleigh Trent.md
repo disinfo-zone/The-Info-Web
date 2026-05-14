@@ -1,14 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Hartleigh Trent
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - military
-  - psychic
-  - remoteviewer
-description: Hartleigh Trent was a former Navy petty officer and one of the original remote viewers in the Stargate Project, known for his ability to take directions at a target.
+  - Person
+  - RemoteViewer
+  - Stargate
+  - SRI
+  - Soviet
+summary: "Hartleigh Trent was a former Navy petty officer and one of the original six remote viewers in the STARGATE PROJECT."
 ---
+
 Hartleigh Trent was a former Navy petty officer and one of the original six remote viewers in the [[STARGATE PROJECT]]. He was recruited into the program, then codenamed [[STARGATE PROJECT|Gondola Wish]], in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 
 Trent was the oldest of the initial group of remote viewers, in his fifties, and had a background as a photo-interpreter. He was described as a "restless tinkerer and inventor," having built a large solar-powered hot-water heater at his home. He was also a close friend of [[Mel Riley]] and [[Joe McMoneagle]].[^1]

@@ -7,6 +7,8 @@ tags:
   - paranormal
   - energy
 description: An aura is a supposed emanation of energy or light surrounding a person or object, believed by some to be a manifestation of their life force or spiritual essence.
+category: "Esoteric & Historical Concept"
+summary: "An Aura is a supposed emanation of energy or light surrounding a person or object, believed by some to be a manifestation of their life force or spiritual essence."
 ---
 
 An [[Aura]] is a supposed emanation of energy or light surrounding a person or object, believed by some to be a manifestation of their life force or spiritual essence. The concept of auras is often associated with spiritual and metaphysical traditions, and has been explored in the context of [[Parapsychology]].[^1]

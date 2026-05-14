@@ -1,3 +1,7 @@
+---
+category: "U.S. Government"
+summary: "The Collins Elite is the name given by Luis Elizondo to a powerful, shadowy group of religious fundamentalists within the Department of Defense (DoD) who allegedly worked to sabotage the Advanced Aerospace Threat Identification Program (AATIP) and..."
+---
 The [[Collins Elite]] is the name given by [[Luis Elizondo]] to a powerful, shadowy group of religious fundamentalists within the [[Department of Defense]] (DoD) who allegedly worked to sabotage the [[Advanced Aerospace Threat Identification Program]] (AATIP) and other efforts to investigate [[Unidentified Anomalous Phenomena]] (UAP).[^1]
 
 ### Beliefs and Opposition to UAP Investigation

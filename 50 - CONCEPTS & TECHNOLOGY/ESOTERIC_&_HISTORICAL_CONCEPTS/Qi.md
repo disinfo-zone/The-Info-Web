@@ -7,6 +7,8 @@ tags:
   - energy
   - China
 description: Qi, also known as chi, is a fundamental concept in traditional Chinese culture, referring to the vital life force that flows through all living things.
+category: "Esoteric & Historical Concept"
+summary: "Qi, also known as chi, is a fundamental concept in traditional Chinese culture, referring to the vital life force that flows through all living things. It is a central principle in traditional Chinese medicine and martial arts.[^1]"
 ---
 
 [[Qi]], also known as chi, is a fundamental concept in traditional Chinese culture, referring to the vital life force that flows through all living things. It is a central principle in traditional Chinese medicine and martial arts.[^1]

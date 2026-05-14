@@ -7,6 +7,8 @@ tags:
   - consciousness
   - psi
 description: An out-of-body experience (OBE) is a sensation of consciousness leaving the physical body.
+category: "Psi Phenomenon"
+summary: "An Out-of-Body Experience (OBE) is a sensation of consciousness leaving the physical body. It is a phenomenon often reported by individuals with Psi abilities or those undergoing Near-Death Experience."
 ---
 
 An [[Out-of-Body Experience]] (OBE) is a sensation of consciousness leaving the physical body. It is a phenomenon often reported by individuals with [[Psi|psychic]] abilities or those undergoing [[Near-Death Experience|near-death experiences]]. OBEs are a subject of study within [[Parapsychology]].[^1]

@@ -1,17 +1,15 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Judge
-  - Investigator
   - Belgium
-  - 1990s
-  - Marc-Dutroux-Case
-  - Dutroux-Affair
-  - X-Dossier
+  - Dutroux
+summary: "Jean-Marc Connerotte, a magistrate in Neufchâteau, Belgium, served as the initial investigating judge in the Marc Dutroux case following Dutroux's August 13, 1996, arrest for the abduction of Laetitia Delhez."
 ---
+
 Jean-Marc Connerotte, a magistrate in Neufchâteau, Belgium, served as the initial investigating judge in the [[Marc Dutroux]] case following Dutroux's August 13, 1996, arrest for the abduction of [[Laetitia Delhez]]. Assigned to oversee the probe into Dutroux's network, Connerotte authorized searches uncovering the Marcinelle basement dungeon holding Laetitia and [[Sabine Dardenne]], as well as exhumations at Sars-la-Buissière revealing bodies of [[An Marchal]], [[Eefje Lambrecks]], [[Julie Lejeune]], [[Melissa Russo]], and accomplice [[Bernard Weinstein]]. In September 1996, Connerotte appealed publicly for victims of suspected child sex rings to come forward, prompting eight X-witnesses to provide testimonies alleging elite abuses, leading to the compilation of the classified [[X-Dossier]] under Prosecutor [[Michel Bourlet]]. The dossier examined claims of orgies and murders at Knokke-Heist villas near [[Royal Zoute Golf Club]] and estates of [[Baron Benoit de Bonvoisin]] and Counts [[Count Leopold Lippens]] and [[Count Maurice Auguste Lippens]]. Connerotte's team verified X1's ([[Regina Louf]]) accounts of [[Christine Van Hees]]' 1984 murder at a mushroom farm, matching unpublished details like ligatures and burns.[^1]
 
-Connerotte investigated ties to [[Michel Nihoul]]'s blackmail parties, with phone records showing twenty calls to Dutroux around Laetitia's abduction and financial trails to European accounts. The probe linked [[ASCO]] vans to victim transport and photography for client catalogues, uncovering 300 violent child pornography tapes from Nihoul's home. Connerotte's oversight included reopening Carine Dellaert's 1983 case, aligning X1's childbirth description with autopsy findings of laminaria sticks and gauze. Witnesses like X2 named de Bonvoisin, [[Jean-Paul Dumont]], and Lippens at sadomasochist events near Chimay castle, with X4 identifying porn films featuring X1's friends.[^1]
+Connerotte investigated ties to [[Jean-Michel Nihoul]]'s blackmail parties, with phone records showing twenty calls to Dutroux around Laetitia's abduction and financial trails to European accounts. The probe linked [[ASCO]] vans to victim transport and photography for client catalogues, uncovering 300 violent child pornography tapes from Nihoul's home. Connerotte's oversight included reopening Carine Dellaert's 1983 case, aligning X1's childbirth description with autopsy findings of laminaria sticks and gauze. Witnesses like X2 named de Bonvoisin, [[Jean-Paul Dumont]], and Lippens at sadomasochist events near Chimay castle, with X4 identifying porn films featuring X1's friends.[^1]
 
 Removed from the case on October 15, 1996, after attending a victims' fundraiser where he ate spaghetti, Connerotte was replaced amid accusations of bias, sparking White Marches protests by 300,000 Belgians decrying cover-ups. During his tenure, the team raided the [[Abrasax Institute]] after Weinstein's "Anubis" note, discovering police members, and examined Serge Heylens' list including [[Beat Meier]], [[Edward Brongersma]], and [[Philippe Carpentier]] of [[CRIES]]. Over twenty witness deaths, including [[Gina Pardaens-Bernaer]]'s 1998 demise after identifying Dutroux-linked snuff on [[Apollo Disks]], marked the period.[^1]
 

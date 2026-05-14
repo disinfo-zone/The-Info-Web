@@ -1,17 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - BBC_Personality
-  - Child_Abuser
-  - UK
-  - 1970s
-  - 1980s
-  - 1990s
-  - 2000s
-  - Operation_Yewtree
-  - VIP_Network
-  - Prague
+  - OrganizedCrime
+summary: "Chris Denning was a former BBC Radio One DJ who was good friends with Jimmy Savile and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment."
 ---
+
 Chris Denning was a former BBC Radio One DJ who was good friends with [[Jimmy Savile]] and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment. The investigation into Denning served as the genesis to ongoing probes into a suspected child abuse ring linked to the [[BBC]], which eventually culminated in the infamous [[Operation Yewtree]] investigation after Jimmy Savile's death.[^1]
 
 Denning had been arrested in November 1997 based on information Czech police received from Scotland Yard after [[Warwick Spinks]] went into exile there. Denning was arrested by detectives investigating an international child pornography ring. Police alleged he was the leader of the child sex ring and said he was arrested after cocaine had been fed to young boys in preparation for filming a pornographic video. The arrest came after a two-month surveillance operation in which Scotland Yard supplied vital information about Denning's movements to colleagues on the continent. Denning, who had a flat in Prague and ran a music and video production company from his home in Britain, had been jailed for 10 weeks in February 1996 for possessing child pornography.[^1]

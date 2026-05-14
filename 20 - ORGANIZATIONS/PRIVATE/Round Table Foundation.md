@@ -7,6 +7,8 @@ tags:
   - research
   - private
 description: The Round Table Foundation was a research facility founded by Andrija Puharich in Maine, dedicated to the study of psychic phenomena.
+category: "Private Organization"
+summary: "The Round Table Foundation was a research facility founded by Andrija Puharich in Glen Cove, Maine, in the late 1940s."
 ---
 
 The [[Round Table Foundation]] was a research facility founded by [[Andrija Puharich]] in Glen Cove, Maine, in the late 1940s. It was dedicated to the study of [[Parapsychology|psi]] phenomena, particularly [[ESP]] and [[Psychokinesis]], and was funded by a group of wealthy patrons interested in the paranormal, including [[Alice Astor Bouverie]] and [[Marcella Miller du Pont]].[^1]

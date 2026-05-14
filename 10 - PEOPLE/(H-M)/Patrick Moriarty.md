@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "In 1981, Moriarty and Marshall Riconosciuto had funded 15 years of research, investing approximately $1 million of their own money, into developing a small electronic power supply for a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in food"
+---
 [[Patrick Moriarty]] was a "fireworks magnate" and a long-time business partner (40 years) of [[Marshall Riconosciuto]]. Together, they owned several California businesses, including [[Hercules Research Corporation]] and [[Pyrotronics Corporation]].[^1]
 
 In 1981, Moriarty and [[Marshall Riconosciuto]] had funded 15 years of research, investing approximately $1 million of their own money, into developing a small electronic power supply for a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in food processing and other industries.[^1]

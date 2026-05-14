@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Wilhelm Wulff
+- Wilhelm Wulff
+category: "World War II & Nazi Era"
 tags:
   - Person
-  - Astrologer
-  - Nazi Germany
-  - Heinrich Himmler
+  - WW2
+  - Nazi
   - Occult
-  - World War II
-  - Germany
+summary: "Wilhelm Wulff was a German astrologer who became a personal astrologer to Heinrich Himmler, the Reichsführer-SS."
 ---
+
 Wilhelm Wulff was a German astrologer who became a personal astrologer to [[Heinrich Himmler]], the Reichsführer-SS. He was ensnared in "[[Special Action Hess]]" (Sonderaktion Heß), the mass arrest of astrologers and other occult practitioners initiated by [[Adolf Hitler]] following [[Rudolf Hess]]'s flight in 1941[^1].
 
 Wulff's postwar account, *Zodiac and Swastika*, provides insights into the Nazi regime's complex relationship with the occult. He noted that while the circulation of occult literature was forbidden and decrees were issued against predicting future events, astrology was considered "privilegium singulorum"—not for the broad masses[^1].

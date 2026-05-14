@@ -7,6 +7,8 @@ tags:
   - parapsychology
   - research
 description: The Society for Psychical Research (SPR) is the oldest psychical research organization in the world, founded in London in 1882.
+category: "Private Organization"
+summary: "The Society for Psychical Research (SPR) is the oldest psychical research organization in the world, founded in London in 1882."
 ---
 
 The [[Society for Psychical Research]] (SPR) is the oldest psychical research organization in the world, founded in London in 1882. Its members included prominent figures such as the psychologist Frederic Myers, the philosopher Henry Sidgwick, the physiologist Charles Richet, the physicists Sir William Crookes and Sir Oliver Lodge, the poet William Butler Yeats, and the writer Sir Arthur Conan Doyle.[^1]

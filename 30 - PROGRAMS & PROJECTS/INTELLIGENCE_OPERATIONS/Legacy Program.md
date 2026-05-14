@@ -1,3 +1,7 @@
+---
+category: "Intelligence Operation"
+summary: "The Legacy Program is the name given to a deeply hidden, decades-long U.S. government and private contractor effort to retrieve and reverse-engineer technology from crashed or landed Unidentified Anomalous Phenomena (UAP) of non-human origin."
+---
 The [[Legacy Program]] is the name given to a deeply hidden, decades-long U.S. government and private contractor effort to retrieve and reverse-engineer technology from crashed or landed [[Unidentified Anomalous Phenomena]] (UAP) of non-human origin. The existence of this program has been a central claim of numerous whistleblowers and a primary focus of recent congressional inquiry into the UAP topic.[^1]
 
 ### Alleged Activities and Secrecy

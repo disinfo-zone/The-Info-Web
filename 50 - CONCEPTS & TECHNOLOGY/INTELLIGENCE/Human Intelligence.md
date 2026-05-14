@@ -6,6 +6,8 @@ tags:
   - intelligence
   - HUMINT
 description: Human Intelligence (HUMINT) is intelligence gathered by means of interpersonal contact, as opposed to the more technical intelligence disciplines.
+category: "Intelligence Concept"
+summary: "Human Intelligence (HUMINT) refers to intelligence gathered by means of interpersonal contact, such as through foreign agents and their case officers. It is often considered the 'second-oldest profession' in the world of espionage.[^1]"
 ---
 Human Intelligence (HUMINT) refers to intelligence gathered by means of interpersonal contact, such as through foreign agents and their case officers. It is often considered the "second-oldest profession" in the world of espionage.[^1]
 

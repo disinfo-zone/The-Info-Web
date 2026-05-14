@@ -1,5 +1,7 @@
 ---
 tags: ["Organization", "Financial Institution"]
+category: "Private Organization"
+summary: "Financial General Bankshares was a bank holding company that became a target of acquisition by the Bank of Credit and Commerce International.[^1]"
 ---
 Financial General Bankshares was a bank holding company that became a target of acquisition by the [[Bank of Credit and Commerce International|BCCI]].[^1]
 
@@ -15,7 +17,7 @@ BCCI secretly acquired control of Financial General Bankshares through nominees,
 
 The acquisition attempts led to lawsuits and regulatory scrutiny, highlighting BCCI's use of front men and illicit financial practices to gain control of American banking institutions.[^3] The [[Federal Reserve Board]] later fined BCCI $200 million for illegally acquiring control of three prominent U.S. banking institutions, including Financial General Bankshares.[^1]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12-14.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 191.

@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Walter Schellenberg
+- Walter Schellenberg
   - SS-Brigadeführer Walter Schellenberg
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Nazi Germany
-  - SS
-  - Intelligence
+  - RemoteViewer
+summary: "Walter Schellenberg (1910–1952) was an SS-Brigadeführer and the head of foreign intelligence for Nazi Germany during World War II."
 ---
+
 Walter Schellenberg (1910–1952) was an SS-Brigadeführer and the head of foreign intelligence for [[Nazi Germany]] during [[World War II]][^1].
 
 Schellenberg conveyed to astrologer [[Wilhelm Wulff]] that mystical belief systems were "a suitable vehicle for the propagation of political concepts and for the political control of a nation"[^1].

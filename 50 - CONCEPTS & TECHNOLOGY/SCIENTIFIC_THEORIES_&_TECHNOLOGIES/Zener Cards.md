@@ -7,6 +7,8 @@ tags:
   - parapsychology
   - research
 description: Zener cards are a deck of five cards, each bearing a distinct symbol, used in early parapsychological experiments to test for extrasensory perception (ESP).
+category: "Scientific Theory & Technology"
+summary: "Zener Cards are a deck of five cards, each bearing a distinct symbol (a circle, square, wavy lines, cross, and star)."
 ---
 
 [[Zener Cards]] are a deck of five cards, each bearing a distinct symbol (a circle, square, wavy lines, cross, and star). They were developed by parapsychologist [[Karl Zener]] in the early 1930s and are primarily used in [[Parapsychology|parapsychological]] experiments to test for [[ESP]] (extrasensory perception).[^1]

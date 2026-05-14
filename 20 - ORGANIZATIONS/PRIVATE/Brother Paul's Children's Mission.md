@@ -6,6 +6,8 @@ tags:
   - 1970s
   - North_Fox_Island
   - Child_Pornography
+category: "Private Organization"
+summary: "Brother Paul's Children's Mission was a summer camp on North Fox Island in Lake Michigan that served as a front for child pornography and prostitution."
 ---
 Brother Paul's Children's Mission was a summer camp on [[North Fox Island]] in Lake Michigan that served as a front for child pornography and prostitution. The mission was incorporated through [[Adam Starchild]] and linked to [[The Church of New Revelation]] in New Jersey. According to its mission statement, the mission provided temporary lodging and mentorship programs for juvenile delinquents sent by court order. In practice, the program solicited donations from sponsors by mail who received pornography produced using boys in the program, and sponsors could pay to visit the boys at the island.[^1]
 

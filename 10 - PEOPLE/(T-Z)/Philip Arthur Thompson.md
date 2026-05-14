@@ -1,3 +1,10 @@
+---
+category: "Organized Crime"
+tags:
+  - Person
+  - OrganizedCrime
+summary: "Thompson was originally hired by Patrick Moriarty at $10,000 per month to bodyguard Michael Riconosciuto."
+---
 [[Philip Arthur Thompson]], also known as PAT or Jason Smith, was an individual involved in government drug-sting operations and had connections to [[Michael Riconosciuto]] and [[Patrick Moriarty]]. He worked as an undercover informant for [[Federal Bureau of Investigation|FBI]] agent [[Robert Barnes]] at the San Francisco Bureau.[^1]
 
 Thompson was originally hired by [[Patrick Moriarty]] at $10,000 per month to bodyguard [[Michael Riconosciuto]]. Moriarty was unaware that Thompson was an undercover informant for [[Robert Barnes]]. Thompson was arrested on June 16, 1983, for an unrelated murder and is incarcerated for life in a [[California]] prison.[^1]

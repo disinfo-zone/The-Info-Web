@@ -7,6 +7,8 @@ tags:
   - psi
   - psychokinesis
 description: Remote perturbation is a term used in parapsychology to describe the act of disturbing or altering a physical system through mental influence.
+category: "Psi Phenomenon"
+summary: "Remote Perturbation (RP) is a term used in Parapsychology to describe the specific act of disturbing or altering a physical system through mental influence. It is a form of Psychokinesis (PK) and was used in the context of the U.S."
 ---
 
 [[Remote Perturbation]] (RP) is a term used in [[Parapsychology]] to describe the specific act of disturbing or altering a physical system through mental influence. It is a form of [[Psychokinesis]] (PK) and was used in the context of the U.S. government's psychic research programs to describe the potential for individuals to affect physical objects or systems from a distance.[^1]

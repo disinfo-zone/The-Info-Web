@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Law school classmate of Allan Boyak and estranged brother of intelligence operative Robert Booth Nichols."
+---
 [[Jim Nichols]] was a classmate of [[Allan Boyak]] in law school. He told Boyak that he had a brother, [[Robert Booth Nichols]], who was heavily involved in organized crime and had been disowned by his family. Information about [[Robert Booth Nichols]]' background profile was reportedly provided by his estranged brother, Jim Nichols.[^1]
 
 ---

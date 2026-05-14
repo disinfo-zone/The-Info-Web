@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "In 1981, Hercules Research Corporation developed a small electronic power supply designed to feed 30,000 volts of electricity to a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in various industrial processes."
+---
 [[Marshall Riconosciuto]] was the father of [[Michael Riconosciuto]] and a business partner of [[Patrick Moriarty]] for 40 years. Together, they owned several California businesses, including [[Hercules Research Corporation]] and [[Pyrotronics Corporation]].[^1]
 
 In 1981, Hercules Research Corporation developed a small electronic power supply designed to feed 30,000 volts of electricity to a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in various industrial processes. Marshall Riconosciuto and [[Patrick Moriarty]] had funded research for 15 years, investing approximately $1 million of their own money into the project.[^1]

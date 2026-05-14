@@ -1,18 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Business
-  - Oil_Industry
-  - Texas
-  - Politics
-  - Joseph_McCarthy
-  - Douglas_MacArthur
-  - J_Edgar_Hoover
-  - Richard_Nixon
-  - Lyndon_Johnson
-  - Organized_Crime
-  - FIDCO
+  - OrganizedCrime
+summary: "Powerful Texas oilman who cultivated relationships with Hoover, Nixon, and Johnson, with business dealings intersecting organized crime figures including the Genovese Crime Family."
 ---
+
 [[Clint Murchison, Sr.]] was a powerful Texas oilman and a significant political figure, described as being cut from the same cloth as [[H.L. Hunt]]. He was the father of [[Clint W. Murchison, Jr.]], a director of [[First Intercontinental Development Corporation|FIDCO]]. Murchison, Sr. was a key organizer of pro-[[Douglas MacArthur|MacArthur]] forces in Texas and an ardent supporter of Senator [[Joseph McCarthy]]'s anti-communist crusade.[^1]
 
 Murchison, Sr. cultivated relationships with influential figures across the political spectrum, including [[J. Edgar Hoover]], [[Richard Nixon]], and [[Lyndon Johnson]]. The Murchison family's rise to power was closely tied to their connections in Texas oil. He was known for his hospitality, often hosting [[J. Edgar Hoover]] at his exclusive Hotel Del Charro in La Jolla, California, and covering Hoover's expenses, which amounted to approximately $19,000 in free vacations between 1953 and 1959.[^1]

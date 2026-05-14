@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Steve Hanson
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - photointerpreter
-  - psychic
-description: Steve Hanson was an Army civilian photo-interpreter and an early member of the Stargate Project's remote viewing unit.
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+summary: "Hanson was known to 'cool down' before a remote viewing session by reading Bible verses."
 ---
+
 
 [[Steve Hanson]] was an Army civilian photo-interpreter and an early member of the [[STARGATE PROJECT|Gondola Wish]] (later [[STARGATE PROJECT|Grill Flame]]) remote viewing unit. He was a devout Christian and one of the four Army civilians in the initial group of candidates selected by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 

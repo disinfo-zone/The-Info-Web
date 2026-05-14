@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+summary: "Friend of Fred Alvarez and victim of the 1981 execution-style triple homicide at Cabazon linked to the PROMIS scandal."
+---
 [[Ralph Boger]] was a friend of [[Fred Alvarez]] and a victim of an execution-style triple homicide on June 29, 1981, in Rancho Mirage, [[California]]. He was murdered along with [[Fred Alvarez]] and [[Patricia Castro]].[^1]
 
 ---

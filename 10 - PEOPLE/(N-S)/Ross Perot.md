@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+summary: "American businessman connected to intelligence operative Robert Booth Nichols through activities in Vietnam linked to the intelligence underworld."
+---
 [[Ross Perot]] was an American businessman and politician. [[Peter Zokosky]] stated that [[Robert Booth Nichols]] was currently in [[Vietnam]], working for Ross Perot. When asked what Nichols was doing, Zokosky laughed and said, "What Ross Perot does best," presumably referring to making money.[^1]
 
 ---

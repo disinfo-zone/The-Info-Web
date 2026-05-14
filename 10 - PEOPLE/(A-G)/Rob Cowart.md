@@ -1,12 +1,16 @@
 ---
 aliases:
-  - Rob Cowart
+- Rob Cowart
   - Captain Rob Cowart
+category: "Psychics & Remote Viewers"
 tags:
   - Person
+  - RemoteViewer
   - Military
-  - Remote Viewer
+  - Stargate
+summary: "Rob Cowart was a Captain in military intelligence and one of the two military intelligence officers personally trained by Ingo Swann in CRV techniques."
 ---
+
 Rob Cowart was a Captain in military intelligence and one of the two military intelligence officers personally trained by [[Ingo Swann]] in [[Coordinate Remote Viewing|CRV]] techniques. In 1982, he was read onto the classified [[STARGATE PROJECT|Grill Flame]] program[^1].
 
 The plan was for Cowart and [[Tom McNear]], the other trainee, to become the program's CRV trainers. However, McNear later noted that Cowart was medically retired due to cancer, which contributed to McNear's decision to leave the unit[^1].

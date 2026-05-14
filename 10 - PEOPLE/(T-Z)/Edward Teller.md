@@ -1,10 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Scientist
-  - Nuclear Physicist
-  - USA
+  - Nuclear
+  - Physicist
+  - Israel
+summary: "Edward Teller was a Hungarian-American theoretical physicist who is widely known as the 'father of the hydrogen bomb.' He and other American nuclear weapons designers understood well before the end of World War II that a far more powerful nuclear device, with fission as merely a first step, was theo"
 ---
+
 Edward Teller was a Hungarian-American theoretical physicist who is widely known as the "father of the hydrogen bomb." He and other American nuclear weapons designers understood well before the end of World War II that a far more powerful nuclear device, with fission as merely a first step, was theoretically possible. This new weapon, code-named "Super," was the hydrogen bomb, or fusion device.[^1]
 
 ### Footnotes

@@ -1,6 +1,12 @@
 ---
-tags: ["Person", "Military", "Pakistan", "Drug Trafficking"]
+category: "World War II & Nazi Era"
+tags:
+  - Person
+  - WW2
+  - Nazi
+summary: "Fazle Haq was a Pakistani general who smuggled U.S."
 ---
+
 Fazle Haq was a Pakistani general who smuggled U.S. supplies through [[Pakistan]]'s North-West Frontier Province into [[Afghanistan]].[^1] He was appointed governor of Pakistan's North-West Frontier Province in 1978.[^2]
 
 ### Role in Drug Trafficking and Afghan War

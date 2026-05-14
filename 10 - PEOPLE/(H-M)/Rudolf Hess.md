@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Rudolf Hess
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - Nazi
-  - government
-description: Rudolf Hess was a prominent figure in Nazi Germany, serving as Adolf Hitler's deputy.
+  - Person
+  - RemoteViewer
+summary: "Rudolf Hess was a prominent figure in Nazi Germany, serving as Adolf Hitler's deputy."
 ---
+
 
 Rudolf Hess was a prominent figure in [[Nazi Germany]], serving as Adolf Hitler's deputy. He is known for his mysterious solo flight to Scotland in 1941, an event that has been linked to the use of astrology and the occult in psychological warfare.[^1]
 

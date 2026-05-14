@@ -1,14 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - UK
-  - Politician
-  - 1980s
-  - VIP_Pedophile_Ring
-  - Child_Protection_Advocate
-  - Geoffrey_Dickens_Dossier
-  - PIE
+  - OrganizedCrime
+summary: "Geoffrey Dickens was a Conservative (Tory) MP in Margaret Thatcher's government who became known for his campaigns against child pornography and his efforts to expose VIP pedophile networks within British institutions."
 ---
+
 
 Geoffrey Dickens was a Conservative (Tory) MP in [[Margaret Thatcher]]'s government who became known for his campaigns against child pornography and his efforts to expose VIP pedophile networks within British institutions. In 1983, Dickens handed a dossier to Home Secretary [[Leon Brittan]] containing allegations about members of parliament and the Queen's royal staff being part of a VIP pedophile ring with ties to the [[Pedophile Information Exchange]] (PIE). The dossier was handed over in August 1983, after which Dickens began receiving death threats and his home was burglarized multiple times. His name and personal details were found in a notebook belonging to [[Arthur Hutchinson]], a fugitive wanted for triple homicide, leading to security protection for Dickens for a number of weeks until Hutchinson was apprehended.[^1]
 

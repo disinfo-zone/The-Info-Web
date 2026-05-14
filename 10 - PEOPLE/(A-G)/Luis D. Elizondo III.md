@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Cuban exile and father of Luis Elizondo whose revolutionary past and unconventional influence shaped his son's intelligence career."
+---
 [[Luis D. Elizondo III]] was the father of [[Luis Elizondo]]. He was a Cuban exile with a revolutionary past who had a profound and unconventional influence on his son's upbringing.[^1]
 
 ### Revolutionary Past and Imprisonment

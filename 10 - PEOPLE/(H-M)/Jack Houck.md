@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Jack Houck
+- Jack Houck
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Engineer
-  - Psychic Researcher
+  - RemoteViewer
+summary: "Jack Houck was a systems engineer for Boeing Aerospace who became interested in psychokinesis (PK), particularly the phenomenon of metal bending."
 ---
+
 # Jack Houck
 
 Jack Houck was a systems engineer for Boeing Aerospace who became interested in [[Psychokinesis|psychokinesis]] (PK), particularly the phenomenon of metal bending. He observed that people often felt energy coming from their hands during the process and noted that martial arts practitioners spoke of an internal energy, or *[[Qi]]*, that could be summoned with the mind and felt as heat in their hands[^1].

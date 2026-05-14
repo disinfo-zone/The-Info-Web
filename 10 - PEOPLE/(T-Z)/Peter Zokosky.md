@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+summary: "Zokosky was a key participant in the Cabazon/Wackenhut Corporation Joint Venture, which aimed to develop and manufacture arms on the reservation."
+---
 [[Peter Zokosky]] was an arms manufacturer and a key figure in various covert operations and business ventures, often associated with [[Robert Booth Nichols]] and [[Michael Riconosciuto]]. He was a former president of [[Armtec]], a company that produced combustible cartridge cases for the Army, and was under a non-compete agreement with them until August 1981. Zokosky also served as a consultant to the [[Great Britain|British Government]] on shell casings.[^1]
 
 ### Involvement in Cabazon/Wackenhut Joint Venture
@@ -10,7 +18,7 @@ Zokosky was involved in the proposed development of biological warfare "viruses"
 
 ### Connections to Robert Booth Nichols and Meridian International Logistics
 
-Zokosky was a board member of [[Meridian International Logistics|MIL]], a holding company headed by [[Robert Booth Nichols]]. He stated that [[Meridian International Logistics|MIL]] was a "front company" used to funnel money to its board of directors, with funds allegedly coming from the [[National Security Agency|NSA]], partly from drug profits. He believed that [[Robert Booth Nichols]] worked for the [[National Security Council|NSC]] and [[National Security Agency|NSA]], doing "contract work" for various government agencies, and that Nichols handled "corporate and government" transactions related to narcotics at a higher level.[^1]
+Zokosky was a board member of [[Meridian International Logistics|MIL]], a holding company headed by [[Robert Booth Nichols]]. He stated that [[Meridian International Logistics|MIL]] was a "front company" used to funnel money to its board of directors, with funds allegedly coming from the [[NSA|NSA]], partly from drug profits. He believed that [[Robert Booth Nichols]] worked for the [[National Security Council|NSC]] and [[NSA|NSA]], doing "contract work" for various government agencies, and that Nichols handled "corporate and government" transactions related to narcotics at a higher level.[^1]
 
 Zokosky and Nichols were involved in a proposed joint venture with FMC Corporation, where [[Michael Riconosciuto]] was Vice President of [[Meridian Arms]]. Zokosky also discussed [[Robert Booth Nichols]] and [[Michael Riconosciuto]] conducting business in [[Australia]], which he thought had something to do with the [[Nugan Hand Bank]].[^1]
 
@@ -26,7 +34,7 @@ He also provided [[Cheri Seymour]] with a handwritten "Time Line" outlining a ch
 
 Zokosky claimed to have served in ONI ([[Office of Naval Intelligence]]) in submarines during [[World War II]] and performed "[[remote viewing]]" for the military between the 1950s and 1970s at [[Hewlett Packard Corporation]]. He also identified himself as a psychic and a member of the [[Psychic Association of London]], using Tarot Cards for readings.[^1]
 
-He was an investor in the [[Cabazon Casino]] and a skeet range, though he stated that the Mob built the Casino for the Cabazons. He also testified on behalf of [[Patrick McGuire]] at the [[Montana Freeman trial]].[^1]
+He was an investor in the [[Cabazon Indian Reservation]] and a skeet range, though he stated that the Mob built the Casino for the Cabazons. He also testified on behalf of [[Patrick McGuire]] at the [[Montana Freeman trial]].[^1]
 
 ---
 ### Footnotes

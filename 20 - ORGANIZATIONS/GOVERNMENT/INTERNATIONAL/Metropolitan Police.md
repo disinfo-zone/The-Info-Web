@@ -6,6 +6,8 @@ tags:
   - London
   - Elm_Guest_House
   - Sidney_Cooke
+category: "Foreign Government"
+summary: "The Metropolitan Police (Met), also known as Scotland Yard, was the police force for London and the primary investigative body in multiple child abuse and trafficking cases documented across the network."
 ---
 The Metropolitan Police (Met), also known as Scotland Yard, was the police force for London and the primary investigative body in multiple child abuse and trafficking cases documented across the network. The Metropolitan Police raided the [[Elm Guest House]] in June 1982 after the suburban terrace townhouse was suspected of operating an illegal brothel. After the premises were raided, 23 men were detained among bedroom suites containing whips, chains, and ropes, and communal areas including a lounge bar, spa, sauna facility, and screening room for pornography. According to police sources, three of the guests were parliamentary ministers and a fourth was a member of the Queen's royal staff. Scotland Yard was expected to reopen files on the murder of one boy and the disappearance of another in connection with the investigation, but a Scotland Yard official described it as a routine investigation into a brothel. A source close to the investigation stated that top brass had ordered everything to be played down and that every attempt was being made to ensure the names of VIPs did not leak out.[^1]
 

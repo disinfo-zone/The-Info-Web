@@ -5,6 +5,13 @@ tags:
   - Banking
   - International
   - Scandal
+  - BCCI
+  - IranContra
+  - OctopiNetwork
+category: "BCCI Scandal"
+created: 2024-04-25
+updated: 2026-05-01
+summary: "The Bank of Credit and Commerce International (BCCI) was a Pakistani-founded offshore bank that operated across 78 countries before its 1991 collapse exposed a decade-long conspiracy involving money laundering for drug cartels and intelligence agencies, illegal acquisition of U.S. banks, bribery, fraud, and arms trafficking, in what regulators called the largest bank fraud in history."
 ---
 The [[Bank of Credit and Commerce International|BCCI]] was a financial institution that became embroiled in a major scandal involving money laundering, drug trafficking, and covert operations. Its collapse had far-reaching implications and was a significant focus of [[Danny Casolaro]]'s "[[The Octopus]]" investigation.[^1]
 
@@ -20,13 +27,13 @@ The [[Bank of Credit and Commerce International|BCCI]] was a financial instituti
 
 **1972:** [[Agha Hasan Abedi]] organizes BCCI with the intention of forming the Third World's first multinational bank.[^2]
 
-**1975:** Using [[Abbas Gokal]] as a front, BCCI attempts to acquire Chelsea National Bank in [[New York]]. Regulators reject the bid due to concerns about BCCI's involvement.[^2]
+**1975:** Using [[Abbas Gokal]] as a front, BCCI attempts to acquire Chelsea National Bank in [[New York City]]. Regulators reject the bid due to concerns about BCCI's involvement.[^2]
 
 **1976:** BCCI opens its [[Cayman Islands]] subsidiary ICIC, which becomes BCCI's repository for loans to privileged insiders.[^2]
 
 **1977:** [[Eugene Holley]] introduces [[Bert Lance]] to Abedi.[^2]
 
-**1978:** [[Ghaith Pharaon]] finalizes his acquisition of [[National Bank of Georgia]] from Bert Lance with Abedi's help. Abedi pays off Lance's $3.5-million bank loan. BCCI orchestrates a hostile bid for [[Financial General Bankshares]] of [[Washington, D.C.]] with Lance's help. [[Joseph E. Vaez]] submits a report on BCCI characterizing it as dangerously out of control. The [[Securities and Exchange Commission]] files suit against BCCI, Abedi, Lance, and others in connection with the purchase of Financial General Bankshares stock.[^2]
+**1978:** [[Ghaith R. Pharaon]] finalizes his acquisition of [[National Bank of Georgia]] from Bert Lance with Abedi's help. Abedi pays off Lance's $3.5-million bank loan. BCCI orchestrates a hostile bid for [[Financial General Bankshares]] of [[Washington, D.C.]] with Lance's help. [[Joseph E. Vaez]] submits a report on BCCI characterizing it as dangerously out of control. The [[Securities and Exchange Commission]] files suit against BCCI, Abedi, Lance, and others in connection with the purchase of Financial General Bankshares stock.[^2]
 
 **1979:** The [[Soviet Union]] invades [[Afghanistan]], making [[Pakistan]] a key strategic priority for the [[United States]].[^2]
 
@@ -34,7 +41,7 @@ The [[Bank of Credit and Commerce International|BCCI]] was a financial instituti
 
 **1982:** Lance introduces Abedi to [[Jimmy Carter]]. BCCI illegally acquires [[Independence Bank of Encino]] using Ghaith Pharaon as a front man. BCCI helps [[Adnan Khashoggi]] finance arms sales to [[Iran]] as part of the [[Reagan Administration]]'s [[Iran-Contra Affair]]. BCCI suffers over $440 million in losses from options trading through its subsidiary Capcom.[^2]
 
-**1986:** The [[CIA]] issues a report stating that BCCI has owned [[First American Bank]] since 1982.[^2]
+**1986:** The [[Central Intelligence Agency]] issues a report stating that BCCI has owned [[First American Bank]] since 1982.[^2]
 
 **1987:** Pharaon becomes a partner in [[David L. Paul]]'s [[CenTrust Savings Bank]] of [[Miami]]. First American Bank buys the National Bank of Georgia from Ghaith Pharaon for $227 million.[^2]
 
@@ -44,9 +51,9 @@ The [[Bank of Credit and Commerce International|BCCI]] was a financial instituti
 
 **1990:** BCCI pleads guilty to money laundering in Tampa, Florida, forfeiting $14 million. The first Price Waterhouse audit reveals a $1.7 billion black hole in the bank's accounts. A second Price Waterhouse audit details thousands of irregular transactions and confirms BCCI's control of First American.[^2]
 
-**1991:** [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] acquires 77 percent control of BCCI. A Florida jury convicts five Tampa BCCI officers of conspiring to launder cocaine profits. The [[Federal Reserve]] orders BCCI to sell illegally acquired shares in First American Bank. Regulators worldwide seize BCCI offices, placing over 75 percent of the bank's assets in government hands. A [[New York]] State grand jury indicts BCCI, Abedi, and Naqvi for fraud, bribery, grand larceny, and money laundering. The Federal Reserve Board fines BCCI $200 million for illegally acquiring control of First American Bank, National Bank of Georgia, and CenTrust Savings. Clifford and Altman resign from First American. BCCI's liquidators plead guilty and agree to forfeit $550 million.[^2]
+**1991:** [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] acquires 77 percent control of BCCI. A Florida jury convicts five Tampa BCCI officers of conspiring to launder cocaine profits. The [[Federal Reserve]] orders BCCI to sell illegally acquired shares in First American Bank. Regulators worldwide seize BCCI offices, placing over 75 percent of the bank's assets in government hands. A [[New York City]] State grand jury indicts BCCI, Abedi, and Naqvi for fraud, bribery, grand larceny, and money laundering. The Federal Reserve Board fines BCCI $200 million for illegally acquiring control of First American Bank, National Bank of Georgia, and CenTrust Savings. Clifford and Altman resign from First American. BCCI's liquidators plead guilty and agree to forfeit $550 million.[^2]
 
-**1992:** [[Khalid bin-Mahfouz]] is indicted by a Manhattan grand jury. [[Kamal Adham]] pleads guilty in New York and agrees to cooperate with Morgenthau and the Justice Department. Clifford and Altman are indicted by Manhattan District Attorney Robert Morgenthau and a federal grand jury.[^2]
+**1992:** [[Khalid bin Mahfouz]] is indicted by a Manhattan grand jury. [[Kamal Adham]] pleads guilty in New York and agrees to cooperate with Morgenthau and the Justice Department. Clifford and Altman are indicted by Manhattan District Attorney Robert Morgenthau and a federal grand jury.[^2]
 
 ### Footnotes
 

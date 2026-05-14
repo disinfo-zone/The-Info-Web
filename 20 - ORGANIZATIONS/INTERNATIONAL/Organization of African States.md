@@ -3,6 +3,8 @@ tags:
   - Organization
   - International
   - Africa
+category: "International Body"
+summary: "The Organization of African States (OAS) is a continental organization consisting of the countries of Africa."
 ---
 The Organization of African States (OAS) is a continental organization consisting of the countries of [[Africa]]. In April 1976, the OAS denounced the visit of South African Prime Minister [[John Vorster]] to [[Israel]], along with the [[Arab League]], the [[Soviet Union]], and the [[Netherlands]].[^1]
 

@@ -1,20 +1,32 @@
 ---
 created: 2024-04-26
-updated: 2024-04-27
+updated: 2026-05-01
 title: LEAA
 tags:
-  - Law Enforcement Assistance Administration
+  - Organization
   - PROMIS
   - INSLAW
-description: The Law Enforcement Assistance Administration (LEAA) funded PROMIS, a case management software, and supported its expansion. LEAA was shut down in 1982, leading to funding issues for INSLAW, which later faced bankruptcy after a contract with the U.S. Department of Justice.
+description: The Law Enforcement Assistance Administration funded PROMIS and its national expansion through grants to INSLAW and adopting jurisdictions. Its abolition in 1982 forced INSLAW into the DOJ contract that led to the company's bankruptcy and the PROMIS Software Scandal.
+category: U.S. Government
+summary: The Law Enforcement Assistance Administration was a federal agency created by the Omnibus Crime Control and Safe Streets Act of 1968 that provided hundreds of millions of dollars in grants for law enforcement and judicial assistance programs, including the original PROMIS case management software.
 ---
-> [!WARNING] INCOMPLETE RESEARCH
-> This page is a placeholder and requires extensive additions.
+The **Law Enforcement Assistance Administration** (LEAA) was a federal agency created by the Omnibus Crime Control and Safe Streets Act of 1968, signed by President [[Lyndon B. Johnson]]. It provided grants for programs to further law enforcement and judicial assistance across the United States, disbursing hundreds of millions of dollars to state and local criminal justice agencies, research organizations, and technology projects over its operational life.[^1]
 
-The Law Enforcement Assistance Administration was funded by a 1968 omnibus crime bill from [[Lyndon B. Johnson]] and provided hundreds of millions of dollars of grants for programs to further law enforcement and judicial assistance within the United States.
+### PROMIS and INSLAW Funding
 
-[[PROMIS]] was started with an exploratory grant by the LEAA to the [[U.S. Attorney's office]] DC to create a case management software system. The program was considered "examplary" and the LEAA invested heavily in expanding PROMIS both funding [[INSLAW]] (as up to 80% of their income) and providing grants for municipalities who would transfer to PROMIS. In August 1971, LEAA head [[Jerris Leonard]] wrote 1,300 letters to most of the prosecutors in the country telling them about PROMIS and encouraging them to adopt a similar system. Later LEAA head [[Charles R. Work]] (who was head of the program that created PROMIS along with [[Joan E. Jacoby]] and [[Bill Hamilton]]) would also extensively promote the program through funding of the [[National Center for Prosecution Management]] as well as direct grants to INSLAW and municipalities who would transfer into the PROMIS software.
+LEAA funded the original [[PROMIS]] software development, beginning with an exploratory grant to the [[U.S. Attorney's office|DC U.S. Attorney's Office]] in 1969 to create a case management system. After PROMIS was declared an "exemplary project," LEAA invested heavily in expanding the system, funding [[INSLAW]] (the [[Institute for Law and Social Research]]) for enhancements and providing transfer grants to municipalities adopting the software. At peak, LEAA grants accounted for up to 80 percent of INSLAW's operating income. In August 1971, LEAA Administrator [[Jerris Leonard]] wrote to approximately 1,300 prosecutors nationwide encouraging adoption of PROMIS-style systems.[^1]
 
-In 1981, [[Jimmy Carter]] slashed the government budget and the LEAA's grants were in trouble. The election of [[Reagan administration|Ronald Reagan]] provided hope that the LEAA would be resurrected with Reagan's tough on crime stance, but instead the organization was fully shut down in 1982 with some parts reorganized into other areas of the [[U.S. Department of Justice]].
+[[Charles R. Work]] — who had served as a co-director of the original PROMIS development project alongside [[Joan E. Jacoby]] and [[Bill Hamilton]] — later became a senior LEAA official and promoted PROMIS adoption through both the [[National Center for Prosecution Management]] and direct grants to INSLAW and adopting municipalities.[^1]
 
-This caused a crisis of funding for [[INSLAW]] who soon after entered into the contract with the [[U.S. Department of Justice]] that would eventually bankrupt the company.
+LEAA also funded the PROMIS Research Project, a multi-year empirical criminal justice research initiative through three successive grants (74-NI-99-0008, 75-NI-99-0111, 76-NI-99-0118) that produced 17 published research reports analyzing approximately 100,000 cases processed through the District of Columbia court system.[^2]
+
+### Reorganization and Abolition
+
+By the late 1970s, Congress had begun reassessing LEAA's effectiveness and cost. The Justice System Improvement Act of 1979 (Public Law 96-157) restructured LEAA's functions and created successor entities. LEAA was formally abolished and its programs were transferred to the Bureau of Justice Assistance (BJA), the National Institute of Justice (NIJ), and the Bureau of Justice Statistics (BJS), all under the [[Department of Justice]], in 1982.[^1]
+
+The loss of LEAA funding created a crisis for [[INSLAW]]. Without the grants that had sustained the company's operations, [[Bill Hamilton]] incorporated INSLAW as a for-profit Delaware corporation in January 1981 and sought to commercialize PROMIS. The company's search for replacement revenue led directly to the March 1982 implementation contract with the DOJ's [[Executive Office for United States Attorneys]] — the contract whose execution became the central dispute in the [[PROMIS Software Scandal]].[^2]
+
+### Footnotes
+
+[^1]: Justice System Improvement Act of 1979, Public Law 96-157, 93 Stat. 1167 (December 27, 1979); Office of Justice Programs, National Criminal Justice Reference Service, historical records.
+[^2]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.

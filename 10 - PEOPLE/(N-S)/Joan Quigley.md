@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Joan Quigley
+- Joan Quigley
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Astrologer
+  - RemoteViewer
+summary: "Joan Quigley was a San Francisco socialite and astrologer who advised President Ronald Reagan during his tenure at the White House."
 ---
+
 Joan Quigley was a San Francisco socialite and astrologer who advised President [[Ronald Reagan]] during his tenure at the [[White House]]. Her role was revealed in May 1988 by [[Donald T. Regan]], former White House chief of staff, and confirmed by press secretary [[Marlin Fitzwater]][^1].
 
 Regan stated that "Virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared by a woman in San Francisco who drew up horoscopes to make certain that the planets were in favorable alignment for the enterprise." Quigley became the subject of considerable public interest following this revelation[^1].

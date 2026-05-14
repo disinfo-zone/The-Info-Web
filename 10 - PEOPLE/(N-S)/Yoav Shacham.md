@@ -1,11 +1,12 @@
 ---
 aliases:
-  - Yoav Shacham
+- Yoav Shacham
+category: "Other"
 tags:
   - Person
-  - Spy
-  - Israel
+summary: "Yoav Shacham was an Israeli grain trader and alleged spy who significantly influenced Uri Geller's early life and aspirations."
 ---
+
 # Yoav Shacham
 
 Yoav Shacham was an [[Israel|Israeli]] grain trader and alleged spy who significantly influenced [[Uri Geller]]'s early life and aspirations. Shacham was a resident at the hotel in Nicosia, [[Cyprus]], run by Geller's stepfather, Ladislas Gero[^1].

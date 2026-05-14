@@ -7,6 +7,8 @@ tags:
   - 1970s
   - North_Fox_Island
   - Adam_Starchild
+category: "Private Organization"
+summary: "The Ocean Living Institute was a sea-steading foundation incorporated in New Jersey by Adam Starchild, who also served as the incorporating agent for Brother Paul's Children's Mission on North Fox Island."
 ---
 The Ocean Living Institute was a sea-steading foundation incorporated in New Jersey by [[Adam Starchild]], who also served as the incorporating agent for [[Brother Paul's Children's Mission]] on [[North Fox Island]]. In August 1976, [[Gerald Richards]] handed over a letter he received from [[Dyer Grossman]] postmarked 19 July 1976, which had a return address for the Ocean Living Institute. In the letter, [[Dyer Grossman|Grossman]] detailed plans to set up a series of foster homes in Michigan, citing the profitability in receiving monthly payments from the government for taking in runaways and problem kids. The letter also mentioned a twelve-year-old boy [[Dyer Grossman|Grossman]] said he had procured through a Big Brother program who he described as innocent but that some camping trips may change that.[^1]
 

@@ -1,14 +1,12 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: I. M. Kogan
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - scientist
-  - engineer
+  - Person
+  - RemoteViewer
   - Soviet
-description: I. M. Kogan was a Soviet electrical engineer and parapsychologist who researched psi phenomena from a communications perspective.
+summary: "Kogan, like many Soviet researchers, hypothesized that psi was a low-frequency radio system built into human brains."
 ---
+
 I. M. Kogan was a [[Soviet Union|Soviet]] electrical engineer and parapsychologist who approached psi research from a communications perspective. Unlike some other Soviet researchers, his work was considered relatively serious by Western intelligence agencies.[^1]
 
 Kogan, like many [[Soviet Union|Soviet]] researchers, hypothesized that psi was a low-frequency radio system built into human brains. He conducted experiments to characterize psi data transmission, concluding that it could transmit about 0.1 "bit" of information per second within a laboratory, decreasing to 0.005 bits per second over six hundred miles.[^1]

@@ -1,9 +1,12 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Politics
-  - SovietUnion
+  - Israel
+  - Soviet
+summary: "In 1972, Brezhnev met with Golda Meir, then Prime Minister of Israel, in Finland."
 ---
+
 [[Leonid Brezhnev]] was a prominent political figure in the [[Soviet Union]] who played a significant role in Middle Eastern affairs during the 1970s, particularly in relation to [[Israel]] and the Arab states.
 
 ### 1972 Meeting with Golda Meir
@@ -20,4 +23,4 @@ During the 1973 [[Yom Kippur War]], as the continued encirclement of the Egyptia
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. (Hereafter, "Profits of War") [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 17.
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 17.

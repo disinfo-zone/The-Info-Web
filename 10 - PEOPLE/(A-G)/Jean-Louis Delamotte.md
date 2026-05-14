@@ -1,14 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Manager
-  - Businessman
   - Belgium
-  - 1990s
-  - Dutroux-Affair
-  - ASCO
+  - Dutroux
+summary: "Jean-Louis Delamotte, a Belgian businessman, served as the manager of Achats Services Commerces (ASCO), a company owned by Michel Nihoul and involved in fraud and vehicle supply during the 1990s."
 ---
-Jean-Louis Delamotte, a Belgian businessman, served as the manager of [[Achats Services Commerces]] (ASCO), a company owned by [[Michel Nihoul]] and involved in fraud and vehicle supply during the 1990s. ASCO provided white Mercedes vans used by Nihoul and [[Marc Dutroux]] for photographing schoolgirls and transporting victims in the child trafficking network. Delamotte's management role included overseeing ASCO's operations in Charleroi, where the company was registered, and facilitating the use of vehicles for abductions. Police investigations post-Dutroux's August 1996 arrest linked ASCO vans to the kidnappings of [[Laetitia Delhez]] and [[Sabine Dardenne]], with partial license plates matching those used in the crimes. Delamotte was arrested in connection with ASCO's fraudulent activities, which included money laundering and business dealings tied to Nihoul's fraud convictions. During interrogations, Delamotte provided information on Nihoul's operations, confirming the company's role in providing vehicles for the network.[^1]
+
+Jean-Louis Delamotte, a Belgian businessman, served as the manager of [[Achats Services Commerces]] (ASCO), a company owned by [[Jean-Michel Nihoul]] and involved in fraud and vehicle supply during the 1990s. ASCO provided white Mercedes vans used by Nihoul and [[Marc Dutroux]] for photographing schoolgirls and transporting victims in the child trafficking network. Delamotte's management role included overseeing ASCO's operations in Charleroi, where the company was registered, and facilitating the use of vehicles for abductions. Police investigations post-Dutroux's August 1996 arrest linked ASCO vans to the kidnappings of [[Laetitia Delhez]] and [[Sabine Dardenne]], with partial license plates matching those used in the crimes. Delamotte was arrested in connection with ASCO's fraudulent activities, which included money laundering and business dealings tied to Nihoul's fraud convictions. During interrogations, Delamotte provided information on Nihoul's operations, confirming the company's role in providing vehicles for the network.[^1]
 
 Delamotte's involvement came under scrutiny during the Dutroux affair, with ASCO's vans identified as key in the abduction logistics. The company, a front for Nihoul's schemes, supplied the white van used in Laetitia Delhez's August 9 abduction, with the witness's plate PBX 688 matching ASCO registrations. Delamotte's management included leasing or providing these vehicles to Dutroux, who used them for surveillance and kidnappings, including circling areas near schools to select victims. ASCO's fraud involved inflated invoices and money laundering, with Delamotte handling administrative aspects. He was detained in August 1996 alongside Nihoul, with police seizing documents showing financial flows to Dutroux's accounts. Delamotte's testimony detailed Nihoul's instructions for vehicle use in operations, linking to payments for child supplies.[^1]
 

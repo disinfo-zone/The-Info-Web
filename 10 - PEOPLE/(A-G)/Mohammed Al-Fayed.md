@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Father of Dodi Fayed and husband of Samira Khashoggi Fayed, connected to the PROMIS investigation through his son's death."
+---
 [[Mohammed Al-Fayed]] was the father of [[Dodi Fayed]] and the husband of [[Samira Khashoggi Fayed]].[^1]
 
 ---

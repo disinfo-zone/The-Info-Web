@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Morasca's death occurred just six months after the execution-style triple homicide of former Cabazon Tribal Council vice-chairman Fred Alvarez and his friends, Ralph Boger and Patricia Castro, in Rancho Mirage, California."
+---
 [[Paul Morasca]] was a San Francisco entrepreneur who was found murdered in January 1982. His death, along with that of [[Mary Quick]], was traced to looted [[Central Intelligence Agency|CIA]] money from the Sydney-based [[Nugan Hand Bank]]. Morasca was suspected of being a money launderer involved in a major Northern California drug ring.[^1]
 
 [[Michael Riconosciuto]], Morasca's partner, claimed that Morasca was tortured by his murderer to obtain secret bank code cards containing account numbers where [[Central Intelligence Agency|CIA]] monies, including funds from [[Nugan Hand Bank]], had been hidden. Riconosciuto also claimed that he and Morasca had transferred millions of dollars for [[Michael Hand]] when Hand fled [[Australia]].[^1]

@@ -1,13 +1,11 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Witness
-  - Victim
-  - Texas
-  - 1970s
-  - Dean_Corll_Case
+summary: "Timothy Cordell Kerley was a 20-year-old resident of the Pasadena, Texas, area in 1973."
 ---
-Timothy Cordell Kerley was a 20-year-old resident of the [[Pasadena, Texas]], area in 1973. He was acquainted with [[Elmer Wayne Henley]] socially through local circles in [[Houston, Texas]]. Kerley knew [[Rhonda Louise Williams]], a 15-year-old who was also part of Henley's friend group.[^1]
+
+Timothy Cordell Kerley was a 20-year-old resident of the [[Pasadena, Texas]], area in 1973. He was acquainted with [[Elmer Wayne Henley]] socially through local circles in [[Houston]]. Kerley knew [[Rhonda Louise Williams]], a 15-year-old who was also part of Henley's friend group.[^1]
 
 ### Role in Events
 On August 8, 1973, Kerley attended a paint sniffing party at [[Dean Corll]]'s bungalow in [[Pasadena, Texas]], invited by Henley along with Williams. The group passed out during the party, after which Corll bound all three and began raping Kerley. Henley convinced Corll to untie him under the pretense of assaulting Williams, then freed himself, grabbed a .22 pistol, and shot Corll multiple times, killing him; Henley subsequently untied Kerley and Williams.[^1]

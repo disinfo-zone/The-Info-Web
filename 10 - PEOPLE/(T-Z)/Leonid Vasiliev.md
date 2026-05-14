@@ -1,14 +1,12 @@
 ---
-created: 2025-07-22
-updated: 2025-07-23
-title: Leonid Vasiliev
+category: "Scientists & Researchers"
 tags:
-  - person
-  - scientist
-  - parapsychologist
-  - SovietUnion
-description: Leonid Vasiliev was a prominent Soviet parapsychologist and chairman of the physiology department at the University of Leningrad, known for his research into remote influencing.
+  - Person
+  - Researcher
+  - Parapsychology
+summary: "By the early 1960s, Vasiliev was heading a well-funded parapsychology laboratory, and his work soon concentrated on 'remote-influencing' experiments, such as attempting to telepathically induce sleep in a distant receiver."
 ---
+
 
 [[Leonid Vasiliev]] was a prominent [[Soviet Union|Soviet]] parapsychologist and chairman of the physiology department at the University of Leningrad. A past winner of the Lenin Prize, Vasiliev was a key figure in the resurgence of Soviet [[Parapsychology|psi]] research following the publication of [[The Nautilus (Telepathy Project)|"The Secret of the Nautilus"]] article in 1960. He argued that "the discovery of the energy underlying ESP will be equivalent to the discovery of atomic energy."[^1]
 

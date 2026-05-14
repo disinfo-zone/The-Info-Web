@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Government Official
-  - USA
+  - Nuclear
+  - Israel
+summary: "Secretary of State under Eisenhower who confronted Israel and France over the Dimona nuclear reactor after being shown photographic evidence."
 ---
+
 Christian A. Herter served as the Secretary of State under President [[Dwight D. Eisenhower]] from 1959 to 1961. In early December 1960, he was reportedly upset upon being shown a photograph of [[Dimona]] taken from a highway, and called in [[Avraham Harman]], the Israeli ambassador, for an explanation. Herter also conducted his own independent checking, asking an aide to approach the French about their involvement with [[Israel]]'s nuclear program.[^1]
 
 Herter was instructed by the White House to give a formal diplomatic protest (demarche) to the French. He approached [[Maurice Couve de Murville]], the French foreign minister, who assured the [[State Department]] that the Israeli reactor was benign and any plutonium generated would be returned to [[France]] for safekeeping, a statement later revealed to be a lie.[^1]

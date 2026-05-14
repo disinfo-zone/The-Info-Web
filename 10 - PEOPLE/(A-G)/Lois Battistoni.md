@@ -1,9 +1,16 @@
 ---
-aliases: []
+category: "PROMIS Scandal"
 tags:
   - Person
+  - PROMIS
+  - CIA
+  - DoJ
+  - Lawyer
+  - INSLAW
+summary: "Lois Battistoni was a former administrative employee of the DOJ Criminal Division."
 ---
-Lois Battistoni was a former administrative employee of the [[United States Department of Justice|DOJ]] Criminal Division. She became a source of allegations for [[Inslaw Corporation|Inslaw]] regarding the [[PROMIS Software Scandal]].
+
+Lois Battistoni was a former administrative employee of the [[Department of Justice|DOJ]] Criminal Division. She became a source of allegations for [[INSLAW|Inslaw]] regarding the [[PROMIS Software Scandal]].
 
 [[Bill Hamilton]]'s affidavit attributed information to Battistoni, claiming that an employee of the Criminal Division disclosed to her in 1988 that the company chosen to take over [[INSLAW|Inslaw]]'s business with the DOJ was connected to one of the top DOJ officials through a California relationship, and that Hadron, Inc., fit this description because both [[Earl Brian]] and [[Edwin Meese]] served together in Governor Reagan's administration in California. Battistoni also allegedly learned from another Criminal Division employee in July 1989 that the DOJ intended "to bury INSLAW," meaning to cover up what it had done to Inslaw.[^1]
 
@@ -11,4 +18,4 @@ The Special Counsel's investigation interviewed Battistoni, who admitted she had
 
 ### Footnotes
 
-[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

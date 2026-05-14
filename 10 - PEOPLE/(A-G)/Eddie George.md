@@ -1,13 +1,11 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Banker
-  - Government Official
   - BCCI
-  - Banking
-  - UK
-  - Bank of England
+summary: "Eddie George was the Deputy Governor of the Bank of England."
 ---
+
 Eddie George was the Deputy Governor of the [[Bank of England]].[^1]
 
 ### Role in BCCI Scandal

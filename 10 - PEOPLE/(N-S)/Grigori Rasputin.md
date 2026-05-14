@@ -1,13 +1,10 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Grigori Rasputin
+category: "Other"
 tags:
-  - person
-  - historical
-  - mystic
-  - Russia
+  - Person
+summary: "Grigori Rasputin was a Russian mystic and self-proclaimed holy man who exerted significant influence over the late Russian Imperial family."
 ---
+
 
 Grigori Rasputin was a Russian mystic and self-proclaimed holy man who exerted significant influence over the late Russian Imperial family. In the context of [[Soviet Union|Soviet Russia]], his story served as a cautionary tale, framing all twentieth-century forays into the mystical, magical, or supernatural[^1].
 

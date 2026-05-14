@@ -1,3 +1,12 @@
+---
+category: "Law Enforcement & Legal"
+tags:
+  - Person
+  - Lawyer
+  - FBI
+  - LawEnforcement
+summary: "Reserve deputy who reported corruption to the FBI on the same day Ron Van Meter reported to the California Attorney General's office."
+---
 [[Lucky Jordan]] was a reserve deputy who, on the same day [[Ron Van Meter]] reported corruption to the [[California Attorney General's Office|Attorney General's office]], drove to the Fresno office of the [[Federal Bureau of Investigation|FBI]] to report similar information. According to Jordan, they had split up and reported to separate agencies in case "something" happened to one of them.[^1]
 
 ---

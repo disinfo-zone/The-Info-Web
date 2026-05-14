@@ -1,14 +1,17 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Whistleblower
+  - Nuclear
   - Israel
+summary: "Vanunu began working as a technician at Dimona in August 1977 and spent much of the next eight years assigned to various tasks inside the reprocessing plant, formally known as Machon 2 and informally as the Tunnel."
 ---
+
 [[Mordecai Vanunu]] was a former technician at a nuclear facility near [[Dimona]], [[Israel]], who became a whistleblower, exposing details of [[Israel|Israel's]] nuclear program to the _London Sunday Times_ in 1986.[^1][^2]
 
 ### Background and Early Career
 
-[[Mordecai Vanunu|Vanunu]] was born in [[Morocco]] to a right-wing Jewish family that migrated to [[Israel]] in the early 1960s. He grew up in [[Beersheba]] and was drafted into the military, where he was trained as a technician at the [[Dimona reactor]]. After his military service, he continued to work there as a civilian. He began sympathizing with the Palestinian cause and was horrified by [[Israel|Israel's]] nuclear capabilities.[^1]
+[[Mordecai Vanunu|Vanunu]] was born in [[Morocco]] to a right-wing Jewish family that migrated to [[Israel]] in the early 1960s. He grew up in [[Beersheba]] and was drafted into the military, where he was trained as a technician at the [[Dimona]]. After his military service, he continued to work there as a civilian. He began sympathizing with the Palestinian cause and was horrified by [[Israel|Israel's]] nuclear capabilities.[^1]
 
 ### Work at Dimona and Security Breach
 
@@ -46,4 +49,4 @@ The Tunnel (Machon 2) remained in operation around the clock for thirty-four wee
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. (Hereafter, "Profits of War") [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 15.
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 15.

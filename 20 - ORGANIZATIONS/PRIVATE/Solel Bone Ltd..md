@@ -3,6 +3,8 @@ tags:
   - Organization
   - Private
   - Israel
+category: "Private Organization"
+summary: "Solel Bone Ltd., of Haifa, was the largest Israeli engineering company involved in the construction of Dimona."
 ---
 Solel Bone Ltd., of Haifa, was the largest Israeli engineering company involved in the construction of [[Dimona]]. It was closely associated with the [[Mapai Party]], and Israelis involved in the early stages of construction acknowledged an extensive, and traditional, system of diverting contract funds to the party.[^1]
 

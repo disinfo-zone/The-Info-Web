@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Government Official
-  - USA
+  - Nuclear
+  - Israel
+summary: "Special assistant to John Foster Dulles for arms control who quietly investigated the French connection to Israel's nuclear program."
 ---
+
 Philip J. Farley was an aide to [[Christian A. Herter]], serving as a special assistant to [[John Foster Dulles]] for arms control since 1956. When asked by Herter to approach the French about their involvement with [[Israel]]'s nuclear program, Farley knew that a direct approach would be "pointless." He quietly raised the issue with a deputy to the French ambassador and came away convinced that the fears about a French connection were warranted.[^1]
 
 ### Footnotes

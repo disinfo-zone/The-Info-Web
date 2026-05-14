@@ -1,11 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - District_Attorney
-  - Michigan
-  - 1970s
-  - Troop_137
+  - OrganizedCrime
+summary: "Don Berlage was the district attorney for Charlevoix County, Michigan, during the 1970s."
 ---
+
 Don Berlage was the district attorney for Charlevoix County, Michigan, during the 1970s. He prosecuted cases in the area, including those connected to child abuse rings. Berlage's office handled investigations that intersected with broader child trafficking networks.[^1]
 
 ### Role in Prosecutions

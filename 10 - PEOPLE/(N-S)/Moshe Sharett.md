@@ -1,9 +1,12 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Politics
   - Israel
+  - Military
+summary: "Moshe Sharett was the second Prime Minister of Israel, serving from 1954 to 1955."
 ---
+
 Moshe Sharett was the second Prime Minister of [[Israel]], serving from 1954 to 1955. He differed significantly from [[David Ben-Gurion]] in his approach to the Arab question, believing that peace with the Arab world was possible through military restraint and potential [[United Nations]] intervention. As prime minister, he initiated secret peace negotiations with [[Gamal Abdel Nasser|Nasser]].[^1]
 
 Sharett's voluminous personal diaries indicate his ambition for [[Israel]]'s nuclear program, referred to as the "Enterprise," though he lacked confidence in [[Ernst David Bergmann]]'s administrative skills. He believed Bergmann's shortcomings would "limit and disrupt the horizons of the ‘Enterprise’ and sabotage its development."[^1]

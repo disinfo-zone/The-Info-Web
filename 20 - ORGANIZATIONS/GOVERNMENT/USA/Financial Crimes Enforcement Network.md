@@ -1,3 +1,7 @@
+---
+category: "U.S. Government"
+summary: "The Financial Crimes Enforcement Network is a bureau of the United States Department of the Treasury that collects and analyzes information about financial transactions to combat domestic and international money laundering, terrorist financing, and..."
+---
 The [[Financial Crimes Enforcement Network|FinCen]] is a bureau of the [[United States Department of the Treasury|U.S. Department of the Treasury]] that collects and analyzes information about financial transactions to combat domestic and international money laundering, terrorist financing, and other financial crimes.[^1]
 
 [[Michael Riconosciuto]] expressed a strong desire to communicate with someone from [[Financial Crimes Enforcement Network|FinCen]], believing they had the necessary expertise to understand his claims about high-level financial illicit activities. He requested that [[J.H.]], an [[Federal Bureau of Investigation|FBI]] agent, connect him with a "technical guy that speaks my language" from [[Financial Crimes Enforcement Network|FinCen]]. Riconosciuto claimed he could "unmask the whole operation" of how illicit cash flow was handled daily, including details about the [[Wackenhut Corporation|Wackenhut]] people, the [[Workers Bank]] in [[Colombia]], and "virtual dead-drops" used to circumvent ACH reconciliations.[^1]
@@ -7,6 +11,6 @@ Riconosciuto offered to reconstruct his files and provide [[Financial Crimes Enf
 Despite Riconosciuto's repeated requests and offers, nothing was forthcoming from [[J.H.]] regarding a connection to [[Financial Crimes Enforcement Network|FinCen]] or entry into the Witness Protection Program.[^1]
 
 ---
-## Footnotes
+### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

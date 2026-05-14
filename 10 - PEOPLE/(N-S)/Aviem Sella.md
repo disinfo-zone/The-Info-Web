@@ -1,10 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Military
+  - Nuclear
   - Israel
+summary: "Colonel Aviem Sella was an Israeli Air Force officer and a nuclear targeting expert who was implicated in the Jonathan Pollard espionage case, where he worked with Pollard to obtain intelligence from the U.S."
 ---
-Colonel [[Aviem Sella]] was an [[Israel|Israeli]] Air Force officer and a nuclear targeting expert who was implicated in the [[Jonathan Pollard]] espionage case, where he worked with [[Jonathan Pollard|Pollard]] to obtain intelligence from the [[USA|U.S.]] Navy.[^1]
+
+Colonel [[Aviem Sella]] was an [[Israel|Israeli]] Air Force officer and a nuclear targeting expert who was implicated in the [[Jonathan Pollard]] espionage case, where he worked with [[Jonathan Pollard|Pollard]] to obtain intelligence from the [[United States|U.S.]] Navy.[^1]
 
 ### Nuclear Targeting Expertise
 
@@ -20,5 +23,5 @@ Sella, who retired from the air force in disillusionment and disappointment, rem
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. (Hereafter, "Profits of War") 
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. 
 [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 21.

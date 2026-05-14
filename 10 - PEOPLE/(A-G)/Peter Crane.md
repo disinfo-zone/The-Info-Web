@@ -1,13 +1,11 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Peter Crane
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - scientist
-  - physicist
-description: Peter Crane was a physicist at Lawrence Livermore National Laboratory who conducted experiments with Uri Geller and experienced unusual phenomena.
+  - Person
+  - RemoteViewer
+summary: "Peter Crane was a physicist at Lawrence Livermore National Laboratory (LLNL)."
 ---
+
 Peter Crane was a physicist at [[Lawrence Livermore National Laboratory]] (LLNL). In late 1974, concerned about the potential security threat posed by psychic abilities, Crane, along with security officer [[Ron Robertson]] and others, began conducting their own experiments with [[Uri Geller]] outside of work hours.[^1]
 
 Crane and his group tested Geller's psychokinetic abilities, including metal-bending and attempts to deflect laser beams. While their tests concluded that Geller's abilities were not effective over long distances, Crane was one of the Livermore personnel who experienced a series of bizarre, hallucination-inducing phenomena after their involvement with Geller. These included visions of hovering, monochrome flying saucers and strange animals.[^1]

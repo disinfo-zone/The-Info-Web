@@ -1,11 +1,12 @@
 ---
+category: "PROMIS Scandal"
 tags:
   - Person
-  - Banking
-  - Business
-  - Australia
+  - PROMIS
   - CIA
+summary: "Co-founder of Nugan Hand Bank in Australia, linked to CIA-connected Air America officials and international money laundering."
 ---
+
 
 [[Frank Nugan]] was a co-founder of [[Nugan Hand Bank]] in [[Australia]], along with [[Michael Hand]] and officials of the [[Central Intelligence Agency|CIA]]-owned [[Air America]].[^1]
 

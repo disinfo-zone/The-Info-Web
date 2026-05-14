@@ -1,13 +1,21 @@
 ---
-tags: ["Person", "Lawyer", "Government Official", "BCCI"]
+category: "BCCI Scandal"
+created: 2024-04-25
+updated: 2026-05-01
+tags:
+  - Person
+  - BCCI
+  - Lawyer
+summary: "Robert Morgenthau (1919-2019) was the longest-serving Manhattan District Attorney in history, serving from 1975 to 2009, and initiated the prosecution of BCCI, Clark Clifford, and Robert Altman after Senate investigator Jack Blum brought him evidence in March 1989."
 ---
+
 Robert Morgenthau was the Manhattan district attorney known for his integrity and persistence in exposing government and business corruption.[^1]
 
 ### Role in BCCI Investigation
 
-Morgenthau became involved in the [[Bank of Credit and Commerce International|BCCI]] investigation after [[Jack Blum]] brought the case to his attention in March 1989.[^2] Blum described BCCI as the "biggest bank fraud in the history of the world."[^3] Morgenthau decided to pursue the case, stating that if [[New York]] was the banking center where money was laundered, then it was within his jurisdiction.[^4]
+Morgenthau became involved in the [[Bank of Credit and Commerce International|BCCI]] investigation after [[Jack Blum]] brought the case to his attention in March 1989.[^2] Blum described BCCI as the "biggest bank fraud in the history of the world."[^3] Morgenthau decided to pursue the case, stating that if [[New York City]] was the banking center where money was laundered, then it was within his jurisdiction.[^4]
 
-His office, particularly through his chief of investigations [[Michael Cherkasky]] and top investigator [[John Moscow]], spearheaded a comprehensive investigation into BCCI's activities.[^5] Morgenthau's efforts were met with resistance from federal authorities, including the [[Justice Department]], who he accused of hindering his investigation.[^6]
+His office, particularly through his chief of investigations [[Michael Cherkasky]] and top investigator [[John Moscow]], spearheaded a comprehensive investigation into BCCI's activities.[^5] Morgenthau's efforts were met with resistance from federal authorities, including the [[Department of Justice]], who he accused of hindering his investigation.[^6]
 
 In July 1991, Morgenthau announced indictments against BCCI and its former top officers, [[Agha Hasan Abedi]] and [[Swaleh Naqvi]], describing the case as "the largest bank fraud in world financial history."[^7] He also indicted [[Clark Clifford]] and [[Robert Altman]] in July 1992 on charges of bribery and fraud related to their involvement with BCCI.[^8]
 

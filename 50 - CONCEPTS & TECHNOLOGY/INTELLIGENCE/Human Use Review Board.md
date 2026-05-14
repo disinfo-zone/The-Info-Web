@@ -7,6 +7,8 @@ tags:
   - ethics
   - research
 description: A Human Use Review Board is a committee responsible for reviewing and approving research involving human subjects to ensure ethical standards and participant safety.
+category: "Intelligence Concept"
+summary: "A Human Use Review Board (also known as an Institutional Review Board or IRB) is a committee responsible for reviewing and approving research involving human subjects to ensure ethical standards and participant safety."
 ---
 
 A [[Human Use Review Board]] (also known as an Institutional Review Board or IRB) is a committee responsible for reviewing and approving research involving human subjects to ensure ethical standards and participant safety. These boards are a direct consequence of past abuses in human experimentation, such as those seen in [[Project MKUltra]] and Nazi medical experiments.[^1]

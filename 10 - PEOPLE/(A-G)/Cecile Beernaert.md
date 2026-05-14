@@ -1,14 +1,13 @@
 ---
+category: "World War II & Nazi Era"
 tags:
   - Person
-  - Brothel-Madam
-  - Criminal
-  - Belgium
-  - 1970s-1990s
-  - Dutroux-Affair
-  - X-Dossier
+  - WW2
+  - Nazi
+summary: "Cecile Beernaert, grandmother of witness Regina Louf (X1), operated a brothel at a hotel-villa in Knokke-Heist, Belgium, during World War II, catering to Nazi officers stationed in the area."
 ---
-Cecile Beernaert, grandmother of witness [[Regina Louf]] (X1), operated a brothel at a hotel-villa in Knokke-Heist, Belgium, during World War II, catering to Nazi officers stationed in the area. Widowed after the war, Beernaert continued running establishments in the region, including a house at Golfpad 4, 8300 Knokke, tucked behind Elizabetlaan 83, on the northwestern boundary of the [[Royal Zoute Golf Club]]. Louf claimed Beernaert prostituted her from age two at these locations, using the properties for sexual exploitation of young girls provided to clients including politicians and businessmen. Beernaert, known as Madame Cecile, managed the girls with threats of violence, including beatings with a metal ruler and gun pointed at temples for non-compliance. The brothel operated from the 1970s, with Louf describing two rooms: one for mutual acts between children, the other for quick encounters where men undressed minimally. Beernaert filmed some sessions and used a basement studio for pornography production, distributing materials through networks linked to [[Michel Nihoul]]. Louf's testimony in the [[X-Dossier]] identified the site as a venue for elite abusers, with clients arriving from the golf club.[^1]
+
+Cecile Beernaert, grandmother of witness [[Regina Louf]] (X1), operated a brothel at a hotel-villa in Knokke-Heist, Belgium, during World War II, catering to Nazi officers stationed in the area. Widowed after the war, Beernaert continued running establishments in the region, including a house at Golfpad 4, 8300 Knokke, tucked behind Elizabetlaan 83, on the northwestern boundary of the [[Royal Zoute Golf Club]]. Louf claimed Beernaert prostituted her from age two at these locations, using the properties for sexual exploitation of young girls provided to clients including politicians and businessmen. Beernaert, known as Madame Cecile, managed the girls with threats of violence, including beatings with a metal ruler and gun pointed at temples for non-compliance. The brothel operated from the 1970s, with Louf describing two rooms: one for mutual acts between children, the other for quick encounters where men undressed minimally. Beernaert filmed some sessions and used a basement studio for pornography production, distributing materials through networks linked to [[Jean-Michel Nihoul]]. Louf's testimony in the [[X-Dossier]] identified the site as a venue for elite abusers, with clients arriving from the golf club.[^1]
 
 Beernaert's operations involved grooming Louf and other children, including friend [[Chantal Storme]], forcing them into sexual acts with each other and clients. Louf stated Beernaert consoled them post-abuse but enforced participation with physical punishment. The house at Golfpad 4 served as a primary location, with Beernaert controlling access and ensuring silence. Louf recalled being branded and forced into acts with dogs during this period. Beernaert's husband, a former police commissioner in Knokke-Heist, provided cover, allowing the brothel to function near the Royal Zoute Golf Club, patronized by nobles and elites including the [[Count Leopold Lippens]] family, who owned the club through Count Maurice Auguste Lippens. Beernaert's activities extended to the 1980s, where Louf was sold to pimp [[Tony Van den Boggaert]] around age 12, transitioning her to Nihoul's parties.[^1]
 

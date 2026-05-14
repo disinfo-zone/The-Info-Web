@@ -6,6 +6,8 @@ tags:
   - intelligence
   - signals
 description: SIGINT (Signals Intelligence) and COMINT (Communications Intelligence) refer to intelligence gathered by intercepting electronic signals and communications.
+category: "Intelligence Concept"
+summary: "SIGINT (Signals Intelligence) covers the interception of virtually all electronic signals, while COMINT (Communications Intelligence) generally refers to signals from telephone or radio conversations."
 ---
 
 SIGINT (Signals Intelligence) covers the interception of virtually all electronic signals, while COMINT (Communications Intelligence) generally refers to signals from telephone or radio conversations. Led by the [[NSA]] SIGINT/COMINT rapidly became one of the most important intelligence-gathering technologies during the Cold War.[^1]

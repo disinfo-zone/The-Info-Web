@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Samuel Koslov
+category: "Scientists & Researchers"
 tags:
-  - person
-  - scientist
-  - military
-  - government
+  - Person
+  - Researcher
+summary: "Samuel Koslov was a top scientist for the U.S."
 ---
+
 
 Samuel Koslov was a top scientist for the [[U.S. Navy]] and the scientific assistant to the Secretary of the Navy. He became a central figure in the debate surrounding the [[Moscow Signal]] and its potential health effects, often publicly downplaying its dangers despite his involvement in classified research related to it[^1].
 

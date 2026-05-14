@@ -1,10 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Scientist
-  - Mathematician
-  - USA
+  - Nuclear
+  - Physicist
+  - Israel
+summary: "John von Neumann was a Hungarian-American mathematician and physicist who made significant contributions to quantum physics, functional analysis, set theory, economics, computer science, and nuclear physics."
 ---
+
 John von Neumann was a Hungarian-American mathematician and physicist who made significant contributions to quantum physics, functional analysis, set theory, economics, computer science, and nuclear physics. He was a key figure in the [[Manhattan Project]], working alongside [[J. Robert Oppenheimer]]. As early as 1947, he was courted by [[Chaim Weizmann]] to spend time doing research in [[Israel]].[^1]
 
 ### Footnotes

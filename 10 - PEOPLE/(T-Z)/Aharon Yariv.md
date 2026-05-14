@@ -1,13 +1,12 @@
 ---
-created: 2025-07-22
-updated: 2025-07-23
-title: Aharon Yariv
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - military
-  - intelligence
-  - Israel
+  - Person
+  - RemoteViewer
+  - Military
+summary: "Aharon Yariv was a Brigadier General and the head of military intelligence in Israel."
 ---
+
 
 Aharon Yariv was a Brigadier General and the head of military intelligence in [[Israel]]. He was one of the high-profile Israeli figures who took an interest in [[Uri Geller]]'s purported psychic abilities. Newspapers in Israel reported that Geller had met privately with Yariv[^1].
 

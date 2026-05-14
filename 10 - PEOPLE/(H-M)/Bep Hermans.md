@@ -1,16 +1,12 @@
 ---
 aliases:
-  - Bep Hermans
+- Bep Hermans
+category: "Other"
 tags:
   - Person
-  - Netherlands
-  - Round_Table_Foundation
-  - CIA
-  - Parapsychology
-  - Peter_Hurkos
-  - Psychedelics
-  - Andrija_Puharich
+summary: "Bep Hermans was a Dutch au pair who came to work for Andrija Puharich in 1956, taking care of his three young children after his wife, Jinny, was sent for psychiatric treatment."
 ---
+
 Bep Hermans was a Dutch au pair who came to work for [[Andrija Puharich]] in 1956, taking care of his three young children after his wife, Jinny, was sent for psychiatric treatment. Hermans later became Puharich's wife[^1].
 
 She arrived at the Warrenton Estate, the home of the [[Round Table Foundation]], in late March 1956. Hermans observed the dynamics within the foundation, including the relationship between Puharich and [[Peter Hurkos]]. She recalled that Hurkos's presence gave [[Harry Stump]] a confidence he had not had before, and that despite their conflicting natures, Peter and Harry "got along famously and forged a great telepathic team"[^1]. Hermans also witnessed Hurkos's psychometric talents, noting that he could provide detailed information about a person by touching an object belonging to them[^1].

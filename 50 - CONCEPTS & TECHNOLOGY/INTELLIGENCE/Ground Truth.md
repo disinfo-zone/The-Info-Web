@@ -7,6 +7,8 @@ tags:
   - intelligence
   - verification
 description: Ground truth refers to information that is known to be true or accurate through direct observation or measurement, used to verify or calibrate other forms of data.
+category: "Intelligence Concept"
+summary: "Ground Truth refers to information that is known to be true or accurate through direct observation or measurement."
 ---
 
 [[Ground Truth]] refers to information that is known to be true or accurate through direct observation or measurement. In the context of intelligence and scientific research, it is used to verify or calibrate other forms of data, particularly those obtained through less conventional means.[^1]

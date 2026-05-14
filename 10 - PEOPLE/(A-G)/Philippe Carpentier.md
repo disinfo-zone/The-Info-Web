@@ -1,13 +1,12 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Official
   - Belgium
-  - 1980s-1990s
-  - Dutroux-Affair
-  - X-Dossier
-  - CRIES
+  - Dutroux
+summary: "Philippe Carpentier, a former Belgian justice ministry official, served as a director in the Ministry of Justice during the 1980s and 1990s, including roles in prison administration."
 ---
+
 Philippe Carpentier, a former Belgian justice ministry official, served as a director in the Ministry of Justice during the 1980s and 1990s, including roles in prison administration. As a high-ranking official, Carpentier was linked to the [[Christian Social Party]] (CSP) and had oversight of justice matters, including parole decisions. In the [[X-Dossier]], investigations revealed his connections to the [[CRIES]] group, a pedophile organization accused of child pornography production and distribution. Carpentier was identified as a member of CRIES, which used the basement of [[UNICEF]] headquarters in Brussels for filming child abuse materials. The group, founded in the 1980s, involved Carpentier in its activities, with police raids uncovering his name on membership lists. Carpentier was arrested in 1996 as part of the broader probe into child abuse networks connected to the [[Marc Dutroux]] case, facing charges for possession and distribution of child pornography. His role in the justice ministry positioned him to potentially influence investigations, but he denied all allegations of personal involvement in abuse.[^1]
 
 Carpentier's tenure in the justice ministry included administrative positions, with his CRIES membership documented in police records seized during the 1996 raids. The group, comprising professionals and officials, produced and distributed materials through international contacts, including links to [[Spartacus International]]. Carpentier's name surfaced in the X-Dossier compiled by Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]], where he was accused of participating in the network's operations. The investigation revealed CRIES's use of UNICEF premises for filming, with Carpentier as a key figure due to his ministry role. Carpentier was convicted in 1997 for child pornography offenses, receiving a prison sentence. His connections to the network highlighted conflicts of interest in the justice system during the Dutroux affair.[^1]

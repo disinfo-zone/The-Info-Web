@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Sister of Adnan Khashoggi and mother of Dodi Fayed, connected to the Khashoggi family's arms dealing network."
+---
 [[Samira Khashoggi Fayed]] was the sister of [[Adnan Khashoggi]] and the mother of [[Dodi Fayed]].[^1]
 
 ---

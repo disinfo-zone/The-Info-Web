@@ -1,13 +1,12 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Arms Dealer
-  - Pakistan
   - BCCI
-  - Military
-  - Iran
-  - Banking
+  - CIA
+summary: "Arif Durrani was a Pakistani arms dealer convicted of illegally providing HAWK antiaircraft missile parts to Iran."
 ---
+
 Arif Durrani was a [[Pakistan|Pakistani]] arms dealer convicted of illegally providing HAWK antiaircraft missile parts to [[Iran]].[^1] He was the son of an army general.[^2]
 
 ### Arms Dealing and BCCI Connections
@@ -16,7 +15,7 @@ Durrani was described as a wealthy arms merchant who traveled the world in luxur
 
 Durrani had close connections to the [[Bank of Credit and Commerce International|BCCI]], knowing [[Agha Hasan Abedi]] personally and having his operations financed by the bank.[^7] He grew up in [[Karachi]] with many of the men who became BCCI executives and worked with them from the beginning of his career as an arms dealer.[^8] He stated that BCCI basically funded operations on instructions from the government of [[Pakistan]], including the construction of a Mirage factory.[^9]
 
-He outlined BCCI's and [[Asaf Ali]]'s weapons deals across the globe, from [[Bulgaria]] to [[Nigeria]].[^10] Durrani also stated that BCCI steered some of his business to [[First American Bank]] in [[New York]], considering BCCI and First American Bank interchangeable for financial transactions.[^11]
+He outlined BCCI's and [[Asaf Ali]]'s weapons deals across the globe, from [[Bulgaria]] to [[Nigeria]].[^10] Durrani also stated that BCCI steered some of his business to [[First American Bank]] in [[New York City]], considering BCCI and First American Bank interchangeable for financial transactions.[^11]
 
 Until his arrest, Durrani was the managing director of Merex, a California arms firm that supplied the Israelis.[^12]
 

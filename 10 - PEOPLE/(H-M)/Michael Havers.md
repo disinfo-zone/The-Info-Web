@@ -1,13 +1,12 @@
 ---
+category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Attorney_General
-  - UK
-  - Government_Official
-  - 1980s
-  - Elm_Guest_House
-  - Legal_Cover-up
+  - Lawyer
+  - LawEnforcement
+summary: "Sir Michael Havers served as Attorney General of the United Kingdom during the early 1980s."
 ---
+
 Sir Michael Havers served as Attorney General of the United Kingdom during the early 1980s. In June 1982, following a police raid on the [[Elm Guest House]], all twenty-three men detained were released without charge, and reporting on the matter soon ceased, "possibly upon intervention by Attorney General Sir Michael Havers." The investigation involved allegations that three parliamentary ministers and a member of the Queen's royal staff were among the VIP clients of a brothel providing access to boys as young as ten years old[^1].
 
 As Attorney General, Havers held responsibility for overseeing legal matters and prosecutions in the UK government. The [[Elm Guest House]] raid occurred during a highly sensitive investigation into connections between [[Margaret Thatcher]]'s political circle and child trafficking networks. The brothel's location in Barnes Common placed it near the residences of several VIPs, including the family of [[Martin Allen]], who disappeared in 1979[^1].

@@ -3,6 +3,8 @@ tags:
   - Organization
   - Government
   - Israel
+category: "Foreign Government"
+summary: "LAKAM (Hebrew acronym for Science Liaison Bureau) was an Israeli Ministry of Defense intelligence agency, previously known as the Office of Special Tasks."
 ---
 [[LAKAM]] (Hebrew acronym for Science Liaison Bureau) was an Israeli Ministry of Defense intelligence agency, previously known as the Office of Special Tasks. It was set up to gather and exchange technology and intelligence with foreign military industries.[^1][^2]
 
@@ -12,13 +14,23 @@ In the early 1980s, LAKAM was widely known by its Hebrew acronym. [[Rafael Eitan
 
 ### U.S. Spy Network Operations
 
-[[Rafi Eitan]]'s operation to build a spy network in the [[USA|United States]] to obtain information about Palestinian terrorists was funded from [[LAKAM|LAKAM's]] budget. [[Iris]], a [[LAKAM]] representative in [[Washington D.C.]], served as a conduit for intelligence reports between [[Robert McFarlane]], [[Jonathan Pollard]], and [[Rafi Eitan]].[^1]
+[[Rafi]]'s operation to build a spy network in the [[United States|United States]] to obtain information about Palestinian terrorists was funded from [[LAKAM|LAKAM's]] budget. [[Iris]], a [[LAKAM]] representative in [[Washington, D.C.]], served as a conduit for intelligence reports between [[Robert McFarlane]], [[Jonathan Pollard]], and [[Rafi]].[^1]
 
 ### Political Control and Funding
 
-[[LAKAM]] was later controlled by [[Rafi Eitan]] after [[Shimon Peres]] became prime minister in 1984, and its huge slush fund, which had once financed [[Labor Party|Labor]] projects, was then controlled by [[Rafi Eitan|Eitan]].[^1]
+[[LAKAM]] was later controlled by [[Rafi]] after [[Shimon Peres]] became prime minister in 1984, and its huge slush fund, which had once financed [[Labor Party|Labor]] projects, was then controlled by [[Rafi|Eitan]].[^1]
+
+### PROMIS Software Operation
+
+According to Gordon Thomas's account in *Gideon's Spies* (1999), drawing on Israeli intelligence sources, LAKAM's director [[Rafael Eitan]] personally arranged to obtain a copy of the [[PROMIS]] software from the [[Department of Justice|U.S. Department of Justice]] through back-channel contacts in the early 1980s. Eitan reportedly met with [[INSLAW]] founder [[Bill Hamilton]] while posing as a representative of the Israeli Ministry of Justice interested in PROMIS as a case management tool. After obtaining the software, Eitan assembled a team of former LAKAM programmers who reconstructed PROMIS and embedded a surveillance trapdoor — described as a $5,000 microchip — that allowed covert remote monitoring of database queries made by any user of the modified software. Eitan's reported statement on receiving PROMIS was: "We can use that program...it could be the most important intelligence tool that Israel has ever had."[^3]
+
+The modified software was then distributed internationally for use by foreign law enforcement and intelligence agencies, channeled through [[Robert Maxwell]] and his Israeli computer company [[Degem]]. Total sales through this network were alleged to exceed $500 million. The [[Nicholas J. Bua|Bua Report]] (1993) found no credible evidence to support any of these allegations, concluding that only public-domain versions of PROMIS had ever been distributed to foreign entities.[^4]
+
+LAKAM was formally dissolved following the 1985 exposure of the [[Jonathan Pollard]] espionage case, after which its functions were redistributed to other Israeli intelligence services. Eitan, who had also run Pollard as an asset, left Israeli government service.[^2]
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. (Hereafter, "Profits of War") 
-[^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 21.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992.
+[^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991.
+[^3]: Thomas, Gordon. *Gideon's Spies: The Secret History of the Mossad.* St. Martin's Press, 1999.
+[^4]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

@@ -1,9 +1,11 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Intelligence
-  - USA
+  - Belgium
+summary: "Brugioni recalled seeing the first signs of what would become the Israeli nuclear reactor at Dimona."
 ---
+
 Dino A. Brugioni was a World War II veteran who served as an aerial photographer and later joined the [[Central Intelligence Agency|CIA]] in 1948. He was enticed by [[Arthur C. Lundahl]] to join his staff in the Photographic Intelligence Division, where he played a key role in analyzing reconnaissance photos, particularly from the [[U-2 Spy Plane]].[^1]
 
 Brugioni recalled seeing the first signs of what would become the Israeli nuclear reactor at [[Dimona]]. He and other photo interpreters observed the fencing off of a large, barren area, the construction of a new road, and significant subterranean digging and concrete pouring. They immediately suspected something unusual was happening, given the scale of the construction in the middle of the desert.[^1]

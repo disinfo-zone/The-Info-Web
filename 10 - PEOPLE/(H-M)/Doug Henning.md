@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Doug Henning
+- Doug Henning
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Magician
+  - RemoteViewer
+summary: "Doug Henning (1947–2000) was a renowned Canadian magician and illusionist."
 ---
+
 Doug Henning (1947–2000) was a renowned Canadian magician and illusionist. In 1983, he was one of the most famous magicians in the world, with his *Doug Henning's World of Magic* show holding the record as the most-watched magic show in television history[^1].
 
 Henning worked with [[John B. Alexander]] on [[Psychokinesis|psychokinesis]] research, particularly in the context of [[Jack Houck]]'s spoon-bending parties. Alexander invited Henning to attend these parties to provide an expert opinion on whether a group of guests could collectively cheat. Henning was reportedly amazed by the spontaneous bending of a spoon in his manager's hand, which indicated that no physical force was involved[^1].

@@ -8,6 +8,8 @@ tags:
   - CIA
   - SIGINT
 description: Staff D was a cryptically named office within the CIA specializing in small-scale signals intelligence collection, later known as the Office of SIGINT Operations.
+category: "U.S. Government"
+summary: "Staff D was a cryptically named office within the Central Intelligence Agency specializing in small-scale SIGINT collection. It often worked closely with the Office of Technical Service (OTS)."
 ---
 
 [[Staff D]] was a cryptically named office within the [[Central Intelligence Agency|CIA]] specializing in small-scale [[SIGINT|signals intelligence]] collection. It often worked closely with the Office of Technical Service (OTS). The chief of Staff D was [[Ed Rogers]], who was initially skeptical of incorporating psychic intelligence into operations due to the "giggle factor."[^1]

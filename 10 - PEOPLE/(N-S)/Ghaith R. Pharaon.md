@@ -1,6 +1,11 @@
 ---
-tags: ["Person", "Financier", "BCCI"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+summary: "Pharaon launched himself into the construction business in Saudi Arabia in 1965, founding Saudi Arabian Research and Development Corporation (REDEC)."
 ---
+
 Ghaith R. Pharaon was a flamboyant [[Bank of Credit and Commerce International|BCCI]] front man and a [[Saudia Arabia|Saudi]] financier.[^1] He acquired [[Georgia National Bank]] and [[Independence Bank of Encino]], and was a shareholder in [[Attock Oil]], BCCI, and [[CenTrust Savings Bank]].[^2]
 
 ### Business Ventures and BCCI Involvement
@@ -15,9 +20,9 @@ He was involved in the sham purchase of CenTrust debentures, acting as a front f
 
 Pharaon had extensive political connections, including with [[Jimmy Carter]], to whose charitable organizations he made donations.[^9] He was involved in lobbying efforts to keep CenTrust afloat, meeting with figures like [[M. Danny Wall]], then the nation's top thrift regulator.[^10]
 
-Pharaon was indicted by the [[Justice Department]] in 1992 for his role in the bond-swap conspiracy related to CenTrust and the secret ownership of [[Independence Bank of Encino]].[^11] He is described as fleeing from several indictments in the United States and is under investigation in [[Argentina]].[^12]
+Pharaon was indicted by the [[Department of Justice]] in 1992 for his role in the bond-swap conspiracy related to CenTrust and the secret ownership of [[Independence Bank of Encino]].[^11] He is described as fleeing from several indictments in the United States and is under investigation in [[Argentina]].[^12]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.

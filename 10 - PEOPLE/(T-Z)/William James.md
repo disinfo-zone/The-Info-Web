@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: William James
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - philosopher
-  - psychologist
-description: William James was a pioneering American psychologist and philosopher, and one of the founders of the American Society for Psychical Research.
+  - Person
+  - RemoteViewer
+summary: "James was also deeply interested in psychic phenomena and was one of the founders of the American Society for Psychical Research (ASPR) in 1885."
 ---
+
 
 [[William James]] was a pioneering American psychologist and philosopher, often referred to as the "Father of American psychology." He was a leading thinker of the late 19th century and a key figure in the development of pragmatism.[^1]
 

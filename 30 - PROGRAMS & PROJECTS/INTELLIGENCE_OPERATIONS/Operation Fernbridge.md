@@ -8,6 +8,8 @@ tags:
   - Elm_Guest_House
   - Operation_Fairbank
   - Operation_Midland
+category: "Intelligence Operation"
+summary: "Operation Fernbridge was launched by the Metropolitan Police in February 2013 as a full criminal investigation into allegations that prominent people, including politicians, abused boys at the Elm Guest House in Barnes, south-west London during the..."
 ---
 
 Operation Fernbridge was launched by the Metropolitan Police in February 2013 as a full criminal investigation into allegations that prominent people, including politicians, abused boys at the [[Elm Guest House]] in Barnes, south-west London during the early 1980s. The investigation was prompted by Labour MP [[Tom Watson]]'s October 2012 parliamentary question to Prime Minister [[David Cameron]] about "a powerful paedophile network linked to parliament and No 10" based on the [[Peter Righton]] dossier, as well as specific accusations against [[Cyril Smith]] by MP [[Simon Danczuk]] in November 2012 and media revelations about the Elm Guest House by Exaro News and other outlets. Operation Fernbridge specifically investigated the Elm Guest House, a suburban townhouse in Barnes, southwest London, that operated as a brothel providing boys as young as ten for sexual exploitation, and its connections to [[Grafton Close Children's Home]], which supplied boys under 14 to the guest house.[^1]

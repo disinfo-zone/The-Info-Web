@@ -1,10 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Scientist
+  - Nuclear
   - Physicist
   - Israel
+summary: "Amos Deshalit was a prominent Israeli physicist who headed the physics division at the Weizmann Institute of Science."
 ---
+
 Amos Deshalit was a prominent Israeli physicist who headed the physics division at the [[Weizmann Institute of Science]]. He was considered a quantum researcher in the same class as [[J. Robert Oppenheimer]] and [[Niels Bohr]].[^1]
 
 Deshalit was closely involved with [[Dimona]], [[Israel]]'s nuclear facility. He was one of the former commissioners of the Israeli Atomic Energy Commission who, despite initial departures due to funding issues, ended up being closely involved with the nuclear programs.[^1]

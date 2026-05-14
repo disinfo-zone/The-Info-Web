@@ -1,13 +1,14 @@
 ---
 aliases:
-  - Richard S. Cesaro
+- Richard S. Cesaro
   - R. S. Cesaro
+category: "Scientists & Researchers"
 tags:
   - Person
-  - Scientist
-  - Military
-  - ARPA
+  - Researcher
+summary: "Under Cesaro's direction, scientists with Johns Hopkins University's Applied Physics Laboratory constructed an elaborate facility inside the Walter Reed Army Institute of Research."
 ---
+
 Richard S. Cesaro was a scientist at the [[Advanced Research Projects Agency]] (ARPA) and was in charge of [[Project Pandora]], a classified program initiated by the [[Pentagon]] to duplicate the effects of the [[Moscow Signal]]. The Moscow Signal was a series of microwave beams aimed at the [[U.S. Embassy in Moscow]] by the [[Soviet Union]], believed to be an [[Electromagnetic Weapons|electromagnetic weapon]] designed to adversely affect the behavior of embassy personnel[^1].
 
 Under Cesaro's direction, scientists with [[Johns Hopkins University]]'s Applied Physics Laboratory constructed an elaborate facility inside the [[Walter Reed Army Institute of Research]]. There, in an anechoic chamber, primates were irradiated with microwave beams with a power density similar to that of the Moscow Signal[^1].

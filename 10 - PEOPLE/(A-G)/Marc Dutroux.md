@@ -1,23 +1,21 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Serial-Killer
-  - Child-Trafficker
   - Belgium
-  - 1990s
-  - Dutroux-Affair
-  - X-Dossier
-  - Marc-Dutroux-Case
+  - Dutroux
+summary: "Marc Dutroux, born November 6 1956, operated as a Belgian child trafficker and serial killer whose 1996 arrest exposed connections to international pedophile networks."
 ---
 
-Marc Dutroux, born November 6 1956, operated as a Belgian child trafficker and serial killer whose 1996 arrest exposed connections to international pedophile networks. His case revealed links to [[Amsterdam]], Netherlands child brothels, [[Berlin]], [[Germany]] trafficking rings, and Belgian elite circles through the [[X-Dossier]] investigation. Dutroux kidnapped girls on orders from clients, selling them via catalogues produced by [[Michel Nihoul]]'s company [[ASCO]], which supplied white Mercedes vehicles for photographing victims.
+
+Marc Dutroux, born November 6 1956, operated as a Belgian child trafficker and serial killer whose 1996 arrest exposed connections to international pedophile networks. His case revealed links to [[Amsterdam]], Netherlands child brothels, [[Berlin]], [[Germany]] trafficking rings, and Belgian elite circles through the [[X-Dossier]] investigation. Dutroux kidnapped girls on orders from clients, selling them via catalogues produced by [[Jean-Michel Nihoul]]'s company [[ASCO]], which supplied white Mercedes vehicles for photographing victims.
 
 He produced rape videos sold to wealthy buyers, using hidden cameras in his basement dungeon to film assaults. Dutroux admitted during his 2004 trial that he kidnapped victims based on Nihoul's specifications, receiving payments traced to his accounts. He drugged and buried accomplice [[Bernard Weinstein]] in November 1995 after Weinstein witnessed the abuse of [[An Marchal]] and [[Eefje Lambrecks]], whom Dutroux held for two weeks before murdering them.
 
 Dutroux's properties yielded videos of him raping minors and constructing his basement cells, with police seizing hypnosis equipment and chloroform linked to conditioning victims. His early release in 1992 by Justice Minister [[Melchior Wathelet]], later implicated in the X-Dossier, fueled suspicions of protection. Dutroux's network overlapped with the [[Spartacus International]] child sex tourism operation via [[John Stamford]], whose death in 1995
 halted related trials.
 
-Witnesses like [[Regina Louf|Regina Louf]] detailed Dutroux attending Nihoul's blackmail parties in the 1980s, supplying drugs and girls. Dutroux frequented Amsterdam's [[G-Force]] nightclub and [[Roxanne Films]] studio, owned by [[Didier Pellerin]], where Nihoul's partner [[Marleen De Cokere]] worked. Phone records showed over 20 calls between Dutroux and Nihoul around [[Laetitia Delhez]]'s 1996 abduction.
+Witnesses like [[Regina Louf|Regina Louf]] detailed Dutroux attending Nihoul's blackmail parties in the 1980s, supplying drugs and girls. Dutroux frequented Amsterdam's [[G-Force nightclub]] nightclub and [[Roxanne Films]] studio, owned by [[Didier Pellerin]], where Nihoul's partner [[Marleen De Cokere]] worked. Phone records showed over 20 calls between Dutroux and Nihoul around [[Laetitia Delhez]]'s 1996 abduction.
 
 Dutroux's wife [[Michelle Martin]] and accomplice [[Michel Lelievre]] confirmed he acted on Nihoul's orders, kidnapping girls for delivery to clients. X-witnesses, including X1, accused Dutroux of participating in the 1984 murder of [[Christine Van Hees]] at a mushroom farm, matching crime scene details unavailable publicly. X1 also linked him to [[Carine Dellaert]]'s 1983 death, describing her childbirth and subsequent murder.
 

@@ -7,6 +7,8 @@ tags:
   - 1990s
   - Warwick_Spinks
   - Boy_Brothel
+category: "Private Organization"
+summary: "The Blue Boy was a nightclub in the Spuistraat district of Amsterdam that operated as a boy brothel. In August 1993 a distressed British boy showed up at the UK Embassy in Amsterdam after escaping through the bathroom window of the Blue Boy and told..."
 ---
 The Blue Boy was a nightclub in the Spuistraat district of [[Amsterdam]] that operated as a boy brothel. In August 1993 a distressed British boy showed up at the UK Embassy in [[Amsterdam]] after escaping through the bathroom window of the Blue Boy and told embassy officials he had been sold into prostitution by [[Warwick Spinks]]. The boy's escape and report to embassy authorities directly implicated Spinks in the trafficking of children through the club.[^1]
 

@@ -1,15 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child_Trafficker
-  - British
-  - Netherlands
-  - 1980s
-  - 1990s
-  - Operation_Framework
-  - Warwick_Spinks
-  - Amsterdam
+  - OrganizedCrime
+summary: "Alan Williams, known as 'The Welsh Witch,' was a British child trafficker who operated in Amsterdam during the 1980s and 1990s."
 ---
+
 Alan Williams, known as "The Welsh Witch," was a British child trafficker who operated in [[Amsterdam]] during the 1980s and 1990s. Williams managed [[Boys Club 21]], a venue in [[Amsterdam]]'s Spuistraat district that served as a front for child prostitution and pornography production. He worked closely with [[Warwick Spinks]], who managed the [[Gay Palace]] nightclub in the same district, forming a partnership that facilitated extensive child trafficking operations across Europe.[^1]
 
 Williams earned his nickname "The Welsh Witch" due to his reputation for brutality and his ability to manipulate both victims and associates within the trafficking network. His operation in Amsterdam exploited the city's relatively permissive attitude toward the adult sex industry, using legitimate business fronts as cover for illegal activities involving minors. The Spuistraat district, where Williams operated, became a hub for international child trafficking under his influence and that of his associates.[^1]

@@ -7,6 +7,8 @@ tags:
   - psi
   - telepathy
 description: Mind projection is a claimed psychic ability where an individual can influence or implant thoughts into another person's mind.
+category: "Advanced Human Technology"
+summary: "Mind Projection is a claimed Psi ability where an individual can influence or implant thoughts into another person's mind."
 ---
 
 [[Mind Projection]] is a claimed [[Psi|psychic]] ability where an individual can influence or implant thoughts into another person's mind. In the context of the *Phenomena* text, [[Uri Geller]] was believed by [[Central Intelligence Agency|CIA]] analysts to possess this unique ability, whereby he could "force" researchers to name a city he had previously written down with a high degree of accuracy.[^1]

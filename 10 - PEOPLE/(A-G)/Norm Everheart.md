@@ -1,13 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Norm Everheart
+category: "Key Figures"
 tags:
-  - person
+  - Person
+  - Stargate
   - CIA
-  - intelligence
-description: Norm Everheart was a CIA technical operations specialist who became a chief coordinator for the agency's remote viewing taskings.
+  - RemoteViewer
+  - SRI
+summary: "Norm Everheart was a CIA technical operations specialist with nearly a quarter-century of service by the mid-1970s."
 ---
+
 
 Norm Everheart was a [[Central Intelligence Agency|CIA]] technical operations specialist with nearly a quarter-century of service by the mid-1970s. He had a background as a clandestine radio operator and had worked in the Agency's Office of Communications and Technical Services Division (OTS).[^1]
 

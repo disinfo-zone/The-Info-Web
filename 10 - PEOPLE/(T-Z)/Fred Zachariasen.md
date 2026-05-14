@@ -1,11 +1,14 @@
 ---
 aliases:
-  - Fred Zachariasen
+- Fred Zachariasen
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Scientist
-  - Professor
+  - RemoteViewer
+  - Stargate
+summary: "Fred Zachariasen was a physics professor at Caltech and a ranking member of the Department of Defense's elite JASON Committee."
 ---
+
 Fred Zachariasen was a physics professor at [[California Institute of Technology|Caltech]] and a ranking member of the [[Department of Defense]]'s elite [[JASON Committee]]. He was a member of the new science panel for the [[STARGATE PROJECT|Sun Streak]] program, which was established on January 31, 1986[^1].
 
 ### Footnotes

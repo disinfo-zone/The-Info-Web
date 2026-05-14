@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Janet Mitchell
+- Janet Mitchell
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Researcher
+  - RemoteViewer
+summary: "Janet Mitchell was an assistant to Karlis Osis, the director of research at the American Society for Psychical Research (ASPR)."
 ---
+
 Janet Mitchell was an assistant to [[Karlis Osis]], the director of research at the [[American Society for Psychical Research]] (ASPR). She worked with Osis on a series of experiments involving [[Ingo Swann]] and purported [[Out-of-Body Experience|out-of-body experiences]] (OBEs), also known as traveling [[Clairvoyance|clairvoyance]][^1].
 
 In these experiments, Swann was wired to a Beckman Dynograph and instructed to "practice floating up out-of-the-body to the ceiling and utilize my out-of-body ‘eyes’ to spy down on the targets hidden on the suspended trays." Mitchell would enter the room with a box containing a hidden object, place it on the tray, and then indicate to Swann that the experiment had begun[^1].

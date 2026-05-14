@@ -5,6 +5,8 @@ tags:
   - Law_Enforcement
   - 1970s
   - 1980s
+category: "Esoteric & Historical Concept"
+summary: "Homosexuality was frequently conflated with pedophilia by news and law enforcement agencies during the 1970s and 1980s."
 ---
 
 Homosexuality was frequently conflated with pedophilia by news and law enforcement agencies during the 1970s and 1980s. The sources used in the text, including police reports and newspaper articles, characterized crimes such as the rape, torture, and murder of children as homosexual ones. The men involved in such crimes, in many instances, did not have sex with other men at the peer level. Some were married to women. The homophobic slant given in police reports and news articles at the time these crimes were committed does not preclude them as evidence of the crimes themselves, as they remain the only pieces of evidence available.[^1]

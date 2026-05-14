@@ -1,12 +1,12 @@
 ---
+category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Dutch_Official
-  - District_Attorney
-  - 1990s
-  - Rolodex_Affair
-  - Child_Prostitution
+  - Lawyer
+  - LawEnforcement
+summary: "Henry Hans Holthuis served as a Dutch district attorney during the 1990s, holding a position of significant authority within the Netherlands' judicial system."
 ---
+
 Henry Hans Holthuis served as a Dutch district attorney during the 1990s, holding a position of significant authority within the Netherlands' judicial system. As a district attorney, Holthuis possessed substantial legal power and responsibility for prosecuting criminal cases, making his involvement in illicit activities particularly concerning given his role in upholding and enforcing Dutch law. His position placed him within the upper echelons of the Dutch legal establishment, where he would have had access to sensitive information, influence over legal proceedings, and the ability to shape investigative priorities within his jurisdiction.[^1]
 
 ### Rolodex Affair and Bell Boys Investigation

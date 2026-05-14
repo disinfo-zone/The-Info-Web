@@ -1,14 +1,12 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Cleve Backster
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - CIA
-  - polygraph
-  - researcher
-description: Cleve Backster was a former CIA polygraph expert known for his experiments on plant sentience and his theory of "primary perception."
+  - Person
+  - RemoteViewer
+  - Stargate
+summary: "In 1966, Backster conducted an experiment where he attached polygraph electrodes to a plant and observed its responses to his thoughts, including the intention to harm it."
 ---
+
 
 [[Cleve Backster]] was a former [[Central Intelligence Agency|CIA]] polygraph expert and interrogation specialist. He is known for his controversial experiments on plant sentience and his theory of "primary perception," which suggested that plants have consciousness and can respond to human thoughts and intentions.[^1]
 

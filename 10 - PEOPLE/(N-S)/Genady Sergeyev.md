@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Genady Sergeyev
+- Genady Sergeyev
+category: "Skeptics & Critics"
 tags:
   - Person
-  - Scientist
-  - Military
-  - Soviet Union
+  - Skeptic
+summary: "Genady Sergeyev was a Soviet military doctor who oversaw experiments with the renowned psychic Ninel Kulagina."
 ---
+
 # Genady Sergeyev
 
 Genady Sergeyev was a Soviet military doctor who oversaw experiments with the renowned psychic [[Ninel Kulagina]]. He is prominently featured in a classified film from March 10, 1970, at the Ukhtomskii Military Institute in Leningrad, which depicted Kulagina allegedly stopping a frog's heart with her mind[^1].

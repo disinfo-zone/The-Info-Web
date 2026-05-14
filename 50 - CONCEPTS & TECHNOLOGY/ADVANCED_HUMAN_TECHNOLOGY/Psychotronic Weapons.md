@@ -8,6 +8,8 @@ tags:
   - military
   - SovietUnion
 description: Psychotronic weapons are a theoretical class of electromagnetic weapons, described in Soviet science journals, designed to influence or degrade human behavior and cognition.
+category: "Advanced Human Technology"
+summary: "Psychotronic Weapons are a theoretical class of electromagnetic weapons, described in Soviet Union science journals, designed to influence or degrade human behavior and cognition."
 ---
 
 [[Psychotronic Weapons]] are a theoretical class of electromagnetic weapons, described in [[Soviet Union|Soviet]] science journals, designed to influence or degrade human behavior and cognition. The term emerged from the Soviet nomenclature around [[ESP]] and [[Psychokinesis]], which was rewritten to sound technical and sever ties with the occult past of [[Parapsychology]].[^1]

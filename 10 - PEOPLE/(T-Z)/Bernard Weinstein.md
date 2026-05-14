@@ -1,16 +1,15 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Accomplice
-  - Criminal
   - Belgium
-  - 1990s
-  - Marc-Dutroux-Case
-  - Dutroux-Affair
+  - Dutroux
+summary: "Bernard Weinstein, born in France, relocated to Belgium in the early 1990s and became a close associate of Marc Dutroux in criminal activities centered on auto theft and child trafficking."
 ---
+
 Bernard Weinstein, born in France, relocated to Belgium in the early 1990s and became a close associate of [[Marc Dutroux]] in criminal activities centered on auto theft and child trafficking. A drifter with a record for petty crimes, Weinstein collaborated with Dutroux in late 1995 on a scheme involving the kidnapping of three teenagers who had stolen a truck for them, leading to Dutroux's December arrest when one victim escaped and reported the incident. Prior to this, in November 1995, Weinstein witnessed abuses of captives [[An Marchal]] and [[Eefje Lambrecks]] held upstairs at Dutroux's Marcinelle home, as their basement dungeon contained [[Julie Lejeune]] and [[Melissa Russo]]. Dutroux drugged Weinstein with a sedative during a fishing trip, bound him, and buried him alive at a Sars-la-Buissière property, where his body was exhumed on September 16, 1996, alongside those of An and Eefje, showing signs of asphyxiation from the shallow grave.[^1]
 
-Weinstein worked as a video copier at SPRL Video Promotion in Charleroi, processing tapes that potentially included child pornography produced by Dutroux, aligning with seized materials like rape videos and equipment returned to [[Michelle Martin]]. A note addressed to Weinstein, signed "Anubis," was found in his cabin, referencing a "feast" and "high priestess present," linking to the [[Abrasax Institute]] raided in December 1996, though Weinstein's connection remained unclarified before his death. His murder eliminated a witness to the network's operations coordinated with [[Michel Nihoul]] via [[ASCO]] vehicles for abductions.[^1]
+Weinstein worked as a video copier at SPRL Video Promotion in Charleroi, processing tapes that potentially included child pornography produced by Dutroux, aligning with seized materials like rape videos and equipment returned to [[Michelle Martin]]. A note addressed to Weinstein, signed "Anubis," was found in his cabin, referencing a "feast" and "high priestess present," linking to the [[Abrasax Institute]] raided in December 1996, though Weinstein's connection remained unclarified before his death. His murder eliminated a witness to the network's operations coordinated with [[Jean-Michel Nihoul]] via [[ASCO]] vehicles for abductions.[^1]
 
 The Sars-la-Buissière site, owned by Dutroux, served as a burial ground for victims and accomplices, with Weinstein's shallow grave covered in concrete, discovered post-arrest on August 13, 1996, triggered by [[Laetitia Delhez]]'s witness plate. Autopsy confirmed drugging and suffocation, consistent with Dutroux's method to silence threats, as Martin later testified Weinstein knew of the captives during his visits.[^1]
 

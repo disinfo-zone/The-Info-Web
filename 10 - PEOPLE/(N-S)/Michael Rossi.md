@@ -1,13 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Accomplice
-  - Criminal
-  - Illinois
-  - 1970s
-  - John_Wayne_Gacy_Case
-  - Odyssey_Network
+  - OrganizedCrime
+summary: "Michael Rossi was an employee of John Wayne Gacy who lived with him at his Norwood Park home and was named by Gacy as an accomplice in the rape, torture, and murder of young men during the 1970s."
 ---
+
 Michael Rossi was an employee of [[John Wayne Gacy]] who lived with him at his [[Norwood Park]] home and was named by Gacy as an accomplice in the rape, torture, and murder of young men during the 1970s. Rossi worked for Gacy's construction company [[Painting Decorating Maintenance|PDM]] and was in possession of [[John Szyc]]'s car at the time Szyc disappeared in January 1977, telling detectives Gacy had given it to him. Rossi had lived with Gacy on and off at the Norwood Park house along with another employee named [[David Cram]].[^1]
 
 During Gacy's interrogation following his arrest in December 1978, he named Rossi and [[David Cram]] as accomplices who had buried bodies in the crawlspace beneath his home. Gacy claimed to have multiple personalities and confessed in the third person to the murders of [[Robert Piest]], [[John Butkovich]], and John Szyc, stating that Rossi and Cram were involved and had dug graves in the crawlspace. Both Cram and Rossi would later admit to digging trenches during Gacy's trial but denied knowing their purpose. Rossi and Cram testified that Gacy claimed to work for a crime syndicate involved in "setting people up," with Cram stating Gacy told him victims' identification cards were "from some kind of deceased people" and "had something to do with setting people up for the crime syndicate."[^1]

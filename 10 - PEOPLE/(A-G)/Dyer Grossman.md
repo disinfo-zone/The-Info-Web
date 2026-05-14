@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Key figure in 1970s child exploitation networks who co-drafted the charter for Brother Paul's Children's Mission enabling transport of boys to North Fox Island."
+---
 ﻿---
 tags:
   - Person

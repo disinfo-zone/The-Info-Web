@@ -1,10 +1,18 @@
-[[Dr. John Philip Nichols]] was the administrator of the [[Cabazon Band of Mission Indians|Cabazon Indian tribe]] and a former [[Central Intelligence Agency|CIA]] agent. He played a central role in the [[Cabazon Indian Reservation|Cabazon]]/[[Wackenhut Corporation]] Joint Venture and was deeply involved in various covert operations, arms dealing, and alleged criminal activities.[^1]
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+summary: "Nichols formalized a joint venture with Wackenhut Corporation on April 1, 1981, to establish 'Cabazon Arms' on the reservation."
+---
+[[Dr. John Philip Nichols]] was the administrator of the [[Cabazon Indian Reservation|Cabazon Indian tribe]] and a former [[Central Intelligence Agency|CIA]] agent. He played a central role in the [[Cabazon Indian Reservation|Cabazon]]/[[Wackenhut Corporation]] Joint Venture and was deeply involved in various covert operations, arms dealing, and alleged criminal activities.[^1]
 
 ### Cabazon/Wackenhut Joint Venture
 
-Nichols formalized a joint venture with [[Wackenhut Corporation]] on April 1, 1981, to establish "Cabazon Arms" on the reservation. This venture aimed to manufacture high-tech arms and explosives for export, leveraging the reservation's sovereign status to bypass federal regulations. Nichols obtained a [[United States Department of Defense|Department of Defense]] secret facility clearance for the reservation and proposed the manufacture of various weapons systems, including 120mm combustible cartridge cases, 9mm machine pistols, laser-sighted assault weapons, sniper rifles, and portable rocket systems. He also sought to develop biological weapons.[^1]
+Nichols formalized a joint venture with [[Wackenhut Corporation]] on April 1, 1981, to establish "Cabazon Arms" on the reservation. This venture aimed to manufacture high-tech arms and explosives for export, leveraging the reservation's sovereign status to bypass federal regulations. Nichols obtained a [[Department of Defense|Department of Defense]] secret facility clearance for the reservation and proposed the manufacture of various weapons systems, including 120mm combustible cartridge cases, 9mm machine pistols, laser-sighted assault weapons, sniper rifles, and portable rocket systems. He also sought to develop biological weapons.[^1]
 
-Nichols introduced [[Michael Riconosciuto]] to [[Robert Frye]], Vice President of [[Wackenhut Corporation]], and Riconosciuto conducted a theoretical blackboard exercise on a Railgun for [[Dr. Harry Fair]] at Picatinny Arsenal. Nichols was aware of Riconosciuto's past conviction for stabbing a [[Drug Enforcement Administration|DEA]] agent but still sought his expertise.[^1]
+Nichols introduced [[Michael Riconosciuto]] to [[Robert Frye]], Vice President of [[Wackenhut Corporation]], and Riconosciuto conducted a theoretical blackboard exercise on a Railgun for [[Dr. Harry Fair]] at Picatinny Arsenal. Nichols was aware of Riconosciuto's past conviction for stabbing a [[DEA|DEA]] agent but still sought his expertise.[^1]
 
 ### Alleged Criminal Activities and Connections
 

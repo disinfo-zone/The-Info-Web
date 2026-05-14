@@ -1,11 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Victim
-  - Michigan
-  - 1970s
-  - Oakland_County_Child_Killer
+summary: "Kristine Mihelich was a 10-year-old girl identified as the third victim in the series of murders attributed to the Oakland County Child Killer."
 ---
+
 Kristine Mihelich was a 10-year-old girl identified as the third victim in the series of murders attributed to the [[Oakland County Child Killer]]. She was abducted during a period spanning February 1976 to March 1977 that claimed four children, including two boys and two girls aged between ten and twelve. Her case formed part of the broader investigation into these killings, which involved bodies dumped in public locations following abduction.[^1]
 
 ### Abduction and Discovery

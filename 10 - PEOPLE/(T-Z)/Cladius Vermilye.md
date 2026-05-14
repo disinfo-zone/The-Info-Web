@@ -1,13 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Child_Abuser
-  - Priest
-  - Tennessee
-  - 1970s
-  - Father_Buds_Boys_Farm
-  - Child_Pornography
+summary: "Cladius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey."
 ---
+
 Rev. Cladius Vermilye was an ordained Episcopal priest known by the alias Father Bud. He owned and operated [[Father Bud's Boys Farm]] in Monteagle, Tennessee, as a foster home for boys. Juvenile delinquents were sent to the farm by youth corrections and welfare agencies in Tennessee.[^1]
 
 Cladius Vermilye established [[Father Bud's Boys Farm]] as a rural foster home incorporated under [[The Church of New Revelation]] in New Jersey. The farm served as a placement for troubled boys from state agencies, providing a supposed rehabilitative environment on his property. Vermilye, as the ordained Episcopal priest and owner, positioned the operation as a legitimate youth welfare program.[^1]

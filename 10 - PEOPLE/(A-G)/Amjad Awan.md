@@ -1,13 +1,13 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Banker
   - BCCI
-  - Banking
-  - Money Laundering
-  - Panama
-  - Criminal
+  - Banker
+  - CIA
+summary: "Amjad Awan was a manager of BCCI Panama and later the bank's marketing manager for Latin America and the Caribbean."
 ---
+
 Amjad Awan was a manager of [[Bank of Credit and Commerce International|BCCI]] [[Panama]] and later the bank's marketing manager for Latin America and the Caribbean.[^1] He gained notoriety as [[Manuel Noriega]]'s personal banker, handling his accounts and facilitating illicit financial transactions.[^2]
 
 ### Role in BCCI's Operations

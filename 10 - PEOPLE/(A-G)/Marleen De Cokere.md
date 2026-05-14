@@ -1,13 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Girlfriend-of-Michel-Nihoul
   - Belgium
-  - 1980s-1990s
-  - Dutroux-Affair
-  - X-Dossier
+  - Dutroux
+summary: "Marleen De Cokere, girlfriend of Michel Nihoul, lived with Nihoul in Brussels during the 1980s and 1990s, sharing a residence and business interests."
 ---
-Marleen De Cokere, girlfriend of [[Michel Nihoul]], lived with Nihoul in Brussels during the 1980s and 1990s, sharing a residence and business interests. De Cokere worked at the G-Force nightclub in Amsterdam, a venue linked to the red light district where [[Regina Louf]] (X1) claimed she was trafficked as a child prostitute. Louf testified that De Cokere was present at Nihoul's parties, where Louf was supplied for sexual acts. The X-Dossier, compiled by Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]], included Louf's accounts of De Cokere's involvement in the network's operations, with De Cokere driving Louf to events. De Cokere was not charged in the main Dutroux trial but was questioned during Nihoul's fraud investigations. She denied all allegations of involvement in abuse or trafficking.[^1]
+
+Marleen De Cokere, girlfriend of [[Jean-Michel Nihoul]], lived with Nihoul in Brussels during the 1980s and 1990s, sharing a residence and business interests. De Cokere worked at the G-Force nightclub in Amsterdam, a venue linked to the red light district where [[Regina Louf]] (X1) claimed she was trafficked as a child prostitute. Louf testified that De Cokere was present at Nihoul's parties, where Louf was supplied for sexual acts. The X-Dossier, compiled by Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]], included Louf's accounts of De Cokere's involvement in the network's operations, with De Cokere driving Louf to events. De Cokere was not charged in the main Dutroux trial but was questioned during Nihoul's fraud investigations. She denied all allegations of involvement in abuse or trafficking.[^1]
 
 De Cokere's relationship with Nihoul placed her at the center of his activities, including parties at the Faulx-les-Tombes chateau and Avenue Louise mansion, where hidden cameras captured blackmail material. Louf described De Cokere as part of the group that used her for services, with Nihoul organizing events for elite clients. De Cokere's role at G-Force nightclub tied to Amsterdam's prostitution scene, where Louf claimed she was sent. The X-Dossier noted De Cokere's presence in photos identified by Louf as attendees at these gatherings. De Cokere's business ties included handling administrative tasks for Nihoul's companies like [[ASCO]], providing vehicles for abductions. Her involvement remained testimonial, with no direct evidence leading to charges.[^1]
 

@@ -1,18 +1,17 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Banker
   - BCCI
-  - Banking
-  - Bank of America
   - CIA
-  - USA
+summary: "Carlson was a key figure in the early relationship between Bank of America and BCCI."
 ---
-Roy P. M. Carlson was a [[Bank of America]] executive who orchestrated Bank of America's original investment in [[Bank of Credit and Commerce International|BCCI]].[^1] He later became the head of [[National Bank of Georgia]] at the request of [[Ghaith Pharaon]].[^1]
+
+Roy P. M. Carlson was a [[Bank of America]] executive who orchestrated Bank of America's original investment in [[Bank of Credit and Commerce International|BCCI]].[^1] He later became the head of [[National Bank of Georgia]] at the request of [[Ghaith R. Pharaon]].[^1]
 
 ### Early Career and BCCI Involvement
 
-Carlson was a key figure in the early relationship between Bank of America and BCCI. He had entertained [[Agha Hasan Abedi]] when Abedi came to the United States to negotiate Bank of America's 30-percent share in the new bank in 1972, and the two became friends.[^2] Carlson later left Bank of America in 1975 to become president of [[Rahim Irvani]]'s Melli Group in [[Iran]].[^2] He was also a partner in former [[CIA]] Director [[Richard Helms]]'s consulting firm, Safeer.[^2]
+Carlson was a key figure in the early relationship between Bank of America and BCCI. He had entertained [[Agha Hasan Abedi]] when Abedi came to the United States to negotiate Bank of America's 30-percent share in the new bank in 1972, and the two became friends.[^2] Carlson later left Bank of America in 1975 to become president of [[Rahim Irvani]]'s Melli Group in [[Iran]].[^2] He was also a partner in former [[Central Intelligence Agency]] Director [[Richard Helms]]'s consulting firm, Safeer.[^2]
 
 ### Role at National Bank of Georgia
 
@@ -20,7 +19,7 @@ Carlson was appointed head of the [[National Bank of Georgia]] by Abedi and Phar
 
 Carlson played a role in the acquisition of [[Financial General Bankshares]], negotiating the purchase for First American Bank.[^2]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 210-14.

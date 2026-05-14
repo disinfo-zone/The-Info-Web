@@ -7,6 +7,8 @@ tags:
   - psi
   - parapsychology
 description: Precognition is the claimed psychic ability to perceive or predict future events.
+category: "Psi Phenomenon"
+summary: "Precognition is the claimed Psi ability to perceive or predict future events. It is a form of Psi ability and a subject of study within Parapsychology."
 ---
 
 [[Precognition]] is the claimed [[Psi|psychic]] ability to perceive or predict future events. It is a form of [[Psi|psi]] ability and a subject of study within [[Parapsychology]]. While the future is often described as opaque and confused in remote viewing, there were instances where precognition appeared to work with remarkable accuracy.[^1]

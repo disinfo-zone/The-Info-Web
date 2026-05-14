@@ -1,14 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Accomplice
-  - Criminal
   - Belgium
-  - 1990s
-  - Marc-Dutroux-Case
-  - Dutroux-Affair
+  - Dutroux
+summary: "Michel Lelievre, born 1967, met Marc Dutroux in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network."
 ---
-Michel Lelievre, born 1967, met [[Marc Dutroux]] in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network. A 28-year-old unemployed man with a minor criminal record, Lelievre assisted in the May 26, 1996, kidnapping of 12-year-old [[Sabine Dardenne]] by positioning himself near her school in a white van registered to [[Michel Nihoul]]'s [[ASCO]] company, while Dutroux seized the girl with chloroform. On August 9, 1996, Lelievre waited in the getaway vehicle during the abduction of 14-year-old [[Laetitia Delhez]] from a bus stop in Bertrix, where a witness noted the van's partial license plate, leading to Dutroux's arrest on August 13. Lelievre was detained shortly after, confessing to participation in exchange for leniency, and present during the rescue of Sabine and Laetitia from the Marcinelle basement dungeon, where the girls clung to Dutroux due to conditioning.[^1]
+
+Michel Lelievre, born 1967, met [[Marc Dutroux]] in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network. A 28-year-old unemployed man with a minor criminal record, Lelievre assisted in the May 26, 1996, kidnapping of 12-year-old [[Sabine Dardenne]] by positioning himself near her school in a white van registered to [[Jean-Michel Nihoul]]'s [[ASCO]] company, while Dutroux seized the girl with chloroform. On August 9, 1996, Lelievre waited in the getaway vehicle during the abduction of 14-year-old [[Laetitia Delhez]] from a bus stop in Bertrix, where a witness noted the van's partial license plate, leading to Dutroux's arrest on August 13. Lelievre was detained shortly after, confessing to participation in exchange for leniency, and present during the rescue of Sabine and Laetitia from the Marcinelle basement dungeon, where the girls clung to Dutroux due to conditioning.[^1]
 
 Lelievre described Dutroux's methods of preparing victims for clients, including drugging and hypnosis to ensure submission, and witnessed [[An Marchal]] and [[Eefje Lambrecks]] naked and cleaning tiles during their August 1995 captivity upstairs, noting potential buyers' disinterest. He confirmed Dutroux abducted girls per Nihoul's specifications for sale, with payments funding operations across seven properties. Lelievre's involvement began after Dutroux's March 1996 release from auto theft jail time, during which [[Michelle Martin]] fed basement captives [[Julie Lejeune]] and [[Melissa Russo]], whose bodies were later exhumed from Sars-la-Buissière showing mutilation.[^1]
 

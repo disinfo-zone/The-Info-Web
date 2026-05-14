@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Barnes was involved in a 'reverse sting' operation where methamphetamine precursors were reportedly supplied to Ben Kalka."
+---
 [[Robert Barnes]] was an [[Federal Bureau of Investigation|FBI]] agent at the San Francisco Bureau. He worked with [[Philip Arthur Thompson]] (PAT), who served as an undercover informant for him. Barnes admitted to Detective [[Sue Todd]] in June 2000 that PAT had worked for him.[^1]
 
 Barnes was involved in a "reverse sting" operation where methamphetamine precursors were reportedly supplied to [[Ben Kalka]]. He was also the agent who cleared the laundering of millions of dollars through a principality in [[Liechtenstein]].[^1]

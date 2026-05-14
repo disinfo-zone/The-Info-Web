@@ -7,6 +7,8 @@ tags:
   - China
   - psi
 description: The Extraordinary Powers Craze was a period of intense interest in paranormal phenomena in China during the late 1970s and early 1980s.
+category: "Historical Phenomenon"
+summary: "Period of intense interest in paranormal phenomena in China during the late 1970s and early 1980s, sparked by reports of children with psychic abilities."
 ---
 
 The [[Extraordinary Powers Craze]] was a period of intense interest in paranormal phenomena in [[China]] during the late 1970s and early 1980s. It was sparked by a 1979 newspaper article about a twelve-year-old boy named Tang Yu who could allegedly read with his ears.[^1]

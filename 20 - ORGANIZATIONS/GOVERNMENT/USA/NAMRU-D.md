@@ -1,3 +1,7 @@
+---
+category: "U.S. Government"
+summary: "The United States Navy Medical Research Unit Dayton is one of the eight laboratories within the Department of Defense's Navy Medicine Research & Development Enterprise."
+---
 The [[United States Navy|Naval]] Medical Research Unit Dayton is one of the eight laboratories within the Department of Defense's Navy Medicine Research & Development Enterprise. As a subordinate command to Naval Medical Research Command (NMRC), NAMRU DAYTON is home of the Environmental Health Effects Laboratory (EHEL) and the Naval Aerospace Medical Research Laboratory (NAMRL). They are located at [[Wright-Patterson Air Force Base]], Ohio.[^1]
  
 Mission:

@@ -7,6 +7,8 @@ tags:
   - Dutroux_Affair
   - Armand_Van_Ghysegham
   - Francis_Desmedt
+category: "Private Organization"
+summary: "The Abrasax Institute was a Satanic cult, described as a gnostic sect, which briefly became the center of attention during the Marc Dutroux investigation around December 1996."
 ---
 The Abrasax Institute was a Satanic cult, described as a gnostic sect, which briefly became the center of attention during the [[Marc Dutroux|Dutroux]] investigation around December 1996. The institute was officially described as being involved in the study and experimental research of human psychological and psychotronic faculties, as well as the development of alternative techniques in psychotherapy. The institute was led by Francis Desmedt, who used the cult name "Anubis." A note found in a cabin belonging to [[Bernard Weinstein]] was used as the basis for a police raid on the Abrasax Institute. The note, signed "Anubis" and addressed to [[Bernard Weinstein]], read: "Bernard, don't forget that the feast is nearing and that the high priestess expects her present, Anubis."[^1]
 

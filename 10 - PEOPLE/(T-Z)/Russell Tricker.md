@@ -1,15 +1,12 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child_Trafficker
-  - UK
-  - 1980s
-  - Amsterdam
-  - Spartacus_International
-  - Warwick_Spinks
-  - Peter_Glencross
+  - OrganizedCrime
+summary: "Russell Tricker operated a coach service called 'Toff's Travel' across the English Channel in the 1980s, smuggling boys into Amsterdam for sexual exploitation."
 ---
-Russell Tricker operated a coach service called "[[Toff's Travel]]" across the English Channel in the 1980s, smuggling boys into Amsterdam for sexual exploitation. In 1982, customs officer [[Maganlal Solanki]] confiscated 8mm films and videotapes from Tricker at the port of Dover (one film labeled 'LB'). The confiscated materials featured child abuse. Senior managers at Customs and Excise took over the case and took no further action against Tricker. The material was passed to [[MI5]], and no one was prosecuted in connection with the incident[^1].
+
+Russell Tricker operated a coach service called "[[Toff's Travel]]" across the English Channel in the 1980s, smuggling boys into Amsterdam for sexual exploitation. In 1982, customs officer [[Maganlal Solanki]] confiscated 8mm films and videotapes from Tricker at the port of Dover (one film labeled 'LB'). The confiscated materials featured child abuse. Senior managers at Customs and Excise took over the case and took no further action against Tricker. The material was passed to [[British Intelligence]], and no one was prosecuted in connection with the incident[^1].
 
 ### Criminal Operations
 
@@ -21,7 +18,7 @@ Tricker also admitted having links with [[Warwick Spinks]], a British paedophile
 
 ### Customs Investigation and Cover-up
 
-The 1982 customs investigation into Russell Tricker was abruptly taken over by senior managers at Customs and Excise. This intervention prevented normal legal proceedings from taking place. The confiscated materials were passed to [[MI5]] rather than being processed through standard criminal justice channels.[^1]
+The 1982 customs investigation into Russell Tricker was abruptly taken over by senior managers at Customs and Excise. This intervention prevented normal legal proceedings from taking place. The confiscated materials were passed to [[British Intelligence]] rather than being processed through standard criminal justice channels.[^1]
 
 Customs officer [[Maganlal Solanki]] was reportedly bound by the Official Secrets Act and unable to comment on the Tricker incident. However, Solanki did confirm a separate incident involving [[Leon Brittan]] to [[Operation Fernbridge]] detectives.[^1]
 

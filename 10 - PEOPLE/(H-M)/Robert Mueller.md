@@ -1,7 +1,13 @@
 ---
-tags: ["Person", "Government Official", "Justice Department"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+  - Banker
+summary: "Robert Mueller was the head of the Justice Department's criminal division."
 ---
-Robert Mueller was the head of the [[Justice Department]]'s criminal division.[^1]
+
+Robert Mueller was the head of the [[Department of Justice]]'s criminal division.[^1]
 
 ### Role in BCCI Scandal
 

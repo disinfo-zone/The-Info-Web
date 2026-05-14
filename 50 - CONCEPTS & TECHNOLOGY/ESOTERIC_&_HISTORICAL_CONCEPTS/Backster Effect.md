@@ -7,6 +7,8 @@ tags:
   - parapsychology
   - plantconsciousness
 description: The Backster Effect is a controversial theory proposing that plants exhibit a form of consciousness and can respond to human thoughts and emotions.
+category: "Esoteric & Historical Concept"
+summary: "The Backster Effect is a controversial theory proposed by Cleve Backster, a former Central Intelligence Agency polygraph expert."
 ---
 
 The [[Backster Effect]] is a controversial theory proposed by [[Cleve Backster]], a former [[Central Intelligence Agency|CIA]] polygraph expert. It suggests that plants exhibit a form of consciousness and can respond to human thoughts and emotions, as well as to events occurring in their environment, even at a distance.[^1]

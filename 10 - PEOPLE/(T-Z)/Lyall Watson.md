@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Lyall Watson
+- Lyall Watson
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Zoologist
-  - Anthropologist
+  - RemoteViewer
+summary: "Lyall Watson was a South African zoologist and anthropologist."
 ---
+
 Lyall Watson was a South African zoologist and anthropologist. He was one of two scientists, along with King's College professor [[John Taylor]], who witnessed [[Uri Geller]]'s demonstrations live on [[BBC]] television's *Dimbleby Talk-In* show. During the broadcast, Geller bent and broke a fork, started a broken watch, and reproduced a drawing hidden in a sealed envelope[^1].
 
 ### Footnotes

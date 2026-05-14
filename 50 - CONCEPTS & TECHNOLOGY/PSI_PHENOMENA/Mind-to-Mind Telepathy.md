@@ -7,6 +7,8 @@ tags:
   - psi
   - telepathy
 description: Mind-to-mind telepathy refers to the direct mental communication of thoughts, feelings, or ideas between individuals.
+category: "Psi Phenomenon"
+summary: "Mind-to-Mind Telepathy refers to the direct mental communication of thoughts, feelings, or ideas between individuals without the use of conventional sensory channels. It is a form of Telepathy and a subject of study within Parapsychology.[^1]"
 ---
 
 [[Mind-to-Mind Telepathy]] refers to the direct mental communication of thoughts, feelings, or ideas between individuals without the use of conventional sensory channels. It is a form of [[Telepathy]] and a subject of study within [[Parapsychology]].[^1]

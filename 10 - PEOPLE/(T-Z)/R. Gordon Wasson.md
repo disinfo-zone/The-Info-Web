@@ -1,17 +1,14 @@
 ---
 aliases:
-  - R. Gordon Wasson
+- R. Gordon Wasson
   - Gordon Wasson
+category: "Scientists & Researchers"
 tags:
   - Person
-  - Ethnomycologist
-  - Banker
-  - CIA
-  - MK-Ultra
-  - Psychedelics
-  - Mushrooms
-  - Finance
+  - Researcher
+summary: "Wasson and his wife, Valentina, a pediatrician, had been investigating a mushroom cult in Mexico."
 ---
+
 R. Gordon Wasson was an American ethnomycologist and vice president at J.P. Morgan & Company bank, known for his pioneering research into the use of psychedelic mushrooms in shamanistic rituals. His work became central to the [[Central Intelligence Agency|CIA]]'s [[Project MKUltra|MKULTRA Subproject 58]]'s quest for the *teonanáctl* (God's flesh) mushroom[^1].
 
 Wasson and his wife, Valentina, a pediatrician, had been investigating a mushroom cult in Mexico. He had traveled to Mexico twice and was planning a third expedition when he was contacted by [[Andrija Puharich]] and [[Alice Astor Bouverie]]. Wasson explained that the Mexicans believed the mushroom was a pathway to the supernatural and possessed divinatory powers, allowing human consciousness to separate from the physical body[^1].

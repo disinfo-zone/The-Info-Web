@@ -1,13 +1,12 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Duane Elgin
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - futurologist
-  - psychic
-description: Duane Elgin was a futurologist at Stanford Research Institute (SRI) who demonstrated strong psychic abilities and experienced profound personal transformation through his involvement in psi research.
+  - Person
+  - RemoteViewer
+  - SRI
+summary: "Elgin demonstrated strong psychic abilities, performing well in remote viewing tests and even trying his hand at psychokinesis."
 ---
+
 
 [[Duane Elgin]] was a futurologist at [[Stanford Research Institute|SRI]], known for his work as an economic and cultural trend watcher. He was considered creative and levelheaded, and his reports were respected by policy makers. In late 1973 and early 1974, [[Hal Puthoff]] and [[Russell Targ]] focused their research on Elgin and three other individuals, exploring their psychic abilities.[^1]
 

@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Peter R. Phillips
+- Peter R. Phillips
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Scientist
-  - Researcher
+  - RemoteViewer
+summary: "Randi sent two young magicians, Steven Shaw and Michael Edwards, to Phillips's lab, where they pretended to possess psychokinetic abilities and simulated feats like spoon bending using sleight of hand."
 ---
+
 Peter R. Phillips was the director of the [[McDonnell Laboratory for Psychical Research]] at Washington University. His laboratory became the target of a hoax orchestrated by magician [[James Randi]] in 1983[^1].
 
 Randi sent two young magicians, [[Steven Shaw]] and [[Michael Edwards]], to Phillips's lab, where they pretended to possess [[Psychokinesis|psychokinetic]] abilities and simulated feats like spoon bending using sleight of hand. Randi sent twenty-two letters to Phillips, warning him that spoon bending could easily be faked by skilled magicians and offering methods to catch those who were cheating, but Phillips never took him up on his offer[^1].

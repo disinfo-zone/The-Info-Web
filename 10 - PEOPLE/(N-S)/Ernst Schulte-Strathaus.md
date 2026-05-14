@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Ernst Schulte-Strathaus
+- Ernst Schulte-Strathaus
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Astrologer
+  - RemoteViewer
+summary: "Ernst Schulte-Strathaus was a German astrologer who, alongside Karl Krafft, was reported to have constructed star charts that influenced Rudolf Hess's decision to undertake his rogue flight to Scotland in May 1941."
 ---
+
 # Ernst Schulte-Strathaus
 
 Ernst Schulte-Strathaus was a German astrologer who, alongside [[Karl Krafft]], was reported to have constructed star charts that influenced [[Rudolf Hess]]'s decision to undertake his rogue flight to Scotland in May 1941. Hess, the Deputy Führer of [[Nazi Germany]], reportedly chose this date based on astrological advice, believing it to be cosmically suited for his secret mission[^1].

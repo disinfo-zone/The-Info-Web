@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Politics
-  - South Africa
+  - Nuclear
+  - Israel
+summary: "John Vorster was the Prime Minister of South Africa."
 ---
+
 John Vorster was the Prime Minister of [[South Africa]]. He had sided with [[Germany]] during World War II. In 1976, he visited [[Israel]], marking the first official state visit by a South African prime minister to [[Israel]]. This visit resulted in a renewal of full diplomatic relations, as well as secret arms transfer agreements that would enable the two countries to work together in defiance of international opinion and [[United Nations]] sanctions.[^1]
 
 [[Shimon Peres]] made at least one private trip to [[Pretoria]] before the Vorster visit to arrange for arms and nuclear cooperation. His agenda included nuclear testing, and he won a commitment in principle from John Vorster for a series of joint Israeli–South African tests in [[South Africa]].[^1]

@@ -1,11 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Child_Trafficker
-  - Germany
-  - 1990s
-  - Child_Prostitution
+summary: "Lothar Glandorf was a German child trafficker operating boy brothels in Rotterdam and Berlin during the early 1990s."
 ---
+
 Lothar Glandorf was a German child trafficker operating boy brothels in Rotterdam and Berlin during the early 1990s. He owned establishments named Euro Boys and Young Boys in Rotterdam, which served as fronts for systematic child prostitution and pornography production catering to local and international pedophiles. Glandorf's enterprise formed a key node in an international child exploitation network connecting German, Dutch, and British operations, with his escort service providing boys to wealthy clients including influential figures.[^1]
 
 ### Criminal Activities

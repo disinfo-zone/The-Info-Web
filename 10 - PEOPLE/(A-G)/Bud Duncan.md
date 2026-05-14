@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Bud Duncan
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - photointerpreter
-  - psychic
-description: Bud Duncan was an Army civilian photo-interpreter and an early member of the Stargate Project's remote viewing unit.
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+summary: "Army civilian photo-interpreter and early member of the Gondola Wish (later Grill Flame) remote viewing unit."
 ---
+
 
 [[Bud Duncan]] was an Army civilian photo-interpreter and an early member of the [[STARGATE PROJECT|Gondola Wish]] (later [[STARGATE PROJECT|Grill Flame]]) remote viewing unit. He was one of the four Army civilians in the initial group of candidates selected by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 

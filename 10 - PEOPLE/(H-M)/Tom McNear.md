@@ -1,12 +1,15 @@
 ---
 aliases:
-  - Tom McNear
+- Tom McNear
   - Captain Tom McNear
+category: "Psychics & Remote Viewers"
 tags:
   - Person
+  - RemoteViewer
   - Military
-  - Remote Viewer
+summary: "Tom McNear was a Captain in military intelligence and one of the two original Ingo Swann trainees in CRV, starting in 1981."
 ---
+
 # Tom McNear
 
 Tom McNear was a Captain in military intelligence and one of the two original [[Ingo Swann]] trainees in [[Coordinate Remote Viewing|CRV]], starting in 1981. He immediately showed considerable talent in remote viewing, though his training progressed slowly[^1].

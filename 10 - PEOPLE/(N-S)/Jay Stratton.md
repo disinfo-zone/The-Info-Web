@@ -1,3 +1,10 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "In early 2009, Jay Stratton, along with a colleague, approached Luis Elizondo to recruit him for a highly classified program at the Defense Intelligence Agency (DIA)."
+---
 [[Jay Stratton]] is a former US Navy intelligence officer who played a crucial role in the [[Advanced Aerospace Threat Identification Program]] (AATIP) and later became the first director of the [[UAP Task Force]]. He was instrumental in recruiting [[Luis Elizondo]] into the UAP investigation effort and was a key investigator and strategist throughout the process.[^1]
 
 ### Recruitment of Luis Elizondo
@@ -6,7 +13,7 @@ In early 2009, Jay Stratton, along with a colleague, approached [[Luis Elizondo]
 
 ### Role in AATIP
 
-Stratton was a core member of the AATIP team and a key investigator. He was the lead investigator of the 2004 [[Tic Tac Incident]] involving the [[USS Nimitz]] Carrier Strike Group, writing a detailed report on the event that became a cornerstone of the program's research. He was also responsible for drafting OPLAN Interloper, an ambitious plan to use a carrier strike group as bait to lure UAP for observation and data collection.[^1]
+Stratton was a core member of the AATIP team and a key investigator. He was the lead investigator of the 2004 [[Tic Tac]] involving the [[USS Nimitz]] Carrier Strike Group, writing a detailed report on the event that became a cornerstone of the program's research. He was also responsible for drafting OPLAN Interloper, an ambitious plan to use a carrier strike group as bait to lure UAP for observation and data collection.[^1]
 
 When AATIP faced internal opposition and lost its funding, Stratton worked with Elizondo to move the remnants of the program under Elizondo's portfolio of national programs to ensure its survival. He also successfully secured an additional $10 million in funding from Senator [[Harry Reid]], though the funds were later absconded by another DoD program.[^1]
 

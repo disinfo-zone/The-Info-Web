@@ -1,9 +1,13 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Politics
-  - France
+  - Politician
+  - Israel
+  - Military
+summary: "Charles de Gaulle was a French general and statesman who led the Free French Forces during World War II and later founded the Fifth Republic, serving as its first President from 1959 to 1969."
 ---
+
 Charles de Gaulle was a French general and statesman who led the Free French Forces during World War II and later founded the Fifth Republic, serving as its first President from 1959 to 1969. He was emphatically in favor of an independent nuclear deterrent for [[France]].[^1]
 
 De Gaulle won a seven-year term as president of [[France]]'s newly constituted Fifth Republic in December 1958 by promising to find an acceptable compromise for ending the war in [[Algeria]]. The war sharply divided the nation, and other issues, such as continued support for [[Israel]], seemed secondary.[^1]

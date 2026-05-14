@@ -6,6 +6,8 @@ tags:
   - intelligence
   - imagery
 description: PHOTINT (Photographic Intelligence) or IMINT (Imagery Intelligence) refers to intelligence gathered through photographic and other imagery, typically from satellites or spy planes.
+category: "Intelligence Concept"
+summary: "PHOTINT (Photographic Intelligence), also known as IMINT (Imagery Intelligence), is a form of intelligence gathering that relies on photographic and other imagery, typically obtained from reconnaissance satellites or spy planes."
 ---
 
 PHOTINT (Photographic Intelligence), also known as IMINT (Imagery Intelligence), is a form of intelligence gathering that relies on photographic and other imagery, typically obtained from reconnaissance satellites or spy planes. This includes visible-light images, thermal infrared images, gamma-ray images, and even wall- and ground-penetrating radar images.[^1]

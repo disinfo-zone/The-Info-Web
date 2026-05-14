@@ -1,3 +1,7 @@
+---
+category: "Scientific Theory & Technology"
+summary: "The Five Observables are a set of key performance characteristics identified by the Advanced Aerospace Threat Identification Program (AATIP) to categorize and analyze the behavior of Unidentified Anomalous Phenomena (UAP)."
+---
 [[The Five Observables]] are a set of key performance characteristics identified by the [[Advanced Aerospace Threat Identification Program]] (AATIP) to categorize and analyze the behavior of [[Unidentified Anomalous Phenomena]] (UAP). These observables represent capabilities that are far beyond any known conventional aircraft or technology.[^1]
 
 ### The Observables

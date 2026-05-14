@@ -8,6 +8,8 @@ tags:
   - intelligence
   - USA
 description: The U.S. Army Intelligence Agency (USAINTA) was a component of the United States Army's intelligence apparatus.
+category: "U.S. Government"
+summary: "The Army Intelligence Agency (USAINTA) was a component of the U.S. Army's intelligence apparatus. In the context of the *Remote Viewers* narrative, it is mentioned as merging with the Army Security Agency (ASA) to form the all-in-one United States..."
 ---
 
 The [[Army Intelligence Agency]] (USAINTA) was a component of the [[U.S. Army]]'s intelligence apparatus. In the context of the *Remote Viewers* narrative, it is mentioned as merging with the Army Security Agency (ASA) to form the all-in-one [[United States Army Intelligence and Security Command|INSCOM]].[^1]

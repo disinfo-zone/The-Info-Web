@@ -3,6 +3,8 @@ tags:
   - Concept
   - Israel
   - Nuclear
+category: "Nuclear Concept"
+summary: "The Samson Option is a concept deeply ingrained in Israel's national security doctrine, referring to the idea that Israel possesses a nuclear arsenal that it would use as a last resort to prevent its destruction, even if it means causing massive..."
 ---
 The [[Samson Option]] is a concept deeply ingrained in [[Israel]]'s national security doctrine, referring to the idea that [[Israel]] possesses a nuclear arsenal that it would use as a last resort to prevent its destruction, even if it means causing massive destruction to its enemies. The name derives from the biblical figure Samson, who, captured by the Philistines, pulled down the pillars of Dagon's Temple, killing himself and his enemies. For [[Israel]]'s nuclear advocates, the Samson Option became another way of saying "Never again," echoing the sentiment of survivors of the Holocaust.[^1]
 

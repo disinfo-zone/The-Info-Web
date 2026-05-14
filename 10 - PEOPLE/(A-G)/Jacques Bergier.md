@@ -1,12 +1,14 @@
 ---
 aliases:
-  - Jacques Bergier
+- Jacques Bergier
+category: "Authors & Journalists"
 tags:
   - Person
   - Journalist
-  - Spy
   - Author
+summary: "Jacques Bergier was a journalist, former French resistance spy, and author with strong ties to the intelligence community and an interest in the supernatural."
 ---
+
 Jacques Bergier was a journalist, former French resistance spy, and author with strong ties to the intelligence community and an interest in the supernatural. He is known for bringing secret government [[Extrasensory Perception|ESP]] programs to public attention[^1].
 
 In December 1959, Bergier published an article in the French magazine *Constellation* titled "Thought Transfer, Weapon of War." The article reported that ESP tests had been conducted aboard the [[USS Nautilus]], the world's first nuclear-powered submarine, in 1958. The purpose of the experiment was to determine if long-distance telepathic communication could be achieved through barriers like thousands of miles of seawater, thick polar ice, and the metal walls of a submarine[^1].

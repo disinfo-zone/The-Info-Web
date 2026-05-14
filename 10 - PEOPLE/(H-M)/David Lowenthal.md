@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Businessman
-  - USA
+  - Nuclear
+  - Israel
+summary: "David Lowenthal was one of the initial stockholders in the Nuclear Materials and Equipment Corporation (NUMEC)."
 ---
+
 David Lowenthal was one of the initial stockholders in the Nuclear Materials and Equipment Corporation (NUMEC). He had helped bring illegal immigrants into [[Israel]] before 1948. His involvement, along with [[Zalman Mordecai Shapiro]]'s ties to [[Israel]], fueled suspicions within the [[Central Intelligence Agency|CIA]] that NUMEC was part of a long-range Israeli intelligence scheme to divert uranium.[^1]
 
 ### Footnotes

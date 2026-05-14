@@ -1,19 +1,21 @@
 ---
 created: 2024-04-25
-updated: 2025-01-03
+updated: 2026-05-01
 title: PROMIS
 tags:
   - PROMIS
   - INSLAW
   - Conspiracy
 description: PROMIS, a case management software developed by INSLAW in the 1970s, faced controversy after being allegedly stolen by the U.S. Justice Department. It became central to conspiracy theories involving espionage, backdoors, and international proliferation, with ties to intelligence agencies and global criminal activities.
+category: "Software Project"
+summary: "In 1969, US Attorney Thomas A. Flannery perceived an urgent need for new techniques for dealing with the overwhelming amount of cases going through the U.S. Attorney's office."
 ---
 **PROMIS** (**Prosecutor's Management Information System**) was a pioneering case management software system developed in the 1970s and 80s by [[INSLAW|The Institute for Law and Social Research]] (INSLAW). The software was originally designed to help the [[U.S. Attorney's office]] in DC automate and streamline their case management processes. This expanded across the country and internationally. However, it later became embroiled in controversy, theft, and conspiracy theories.
-## Origins and Development
+### Origins and Development
 
 In 1969, US Attorney [[Thomas A. Flannery]] perceived an urgent need for new techniques for dealing with the overwhelming amount of cases going through the [[U.S. Attorney's office|DC U.S. Attorney's Office]]. The [[Office of Crime Analysis of the District of Columbia]] (funded by the [[LEAA|Law Enforcement Assistance Administration]] (LEAA)) gave a $60,000 grant (70-DF-047) to [[Peat, Marwick, Mitchell & Co]] that put together a team of lawyers, management analysts, criminologists, statisticians, and computer science specialists to development a computer-based information system for the prosecutor.
 
-This team was headed by [[Joan E. Jacoby]] (then Director of the [[Office of Crime Analysis of the District of Columbia]]) and [[Charles R. Work]] (then Deputy Chief of the Superior Court Division of the [[U.S. Attorney's office]]) with project manager [[Bill Hamilton]] (senior consultant at [[Peat, Marwick, Mitchell & Co]], formerly [[NSA]] analyst). Other team members included [[Sidney H. Brounstein]], [[Robert H. Cain]], [[Joyce H. Deroy]], [[James M. Etheridge]], [[John L. Gizzarelli]], [[Fred L. Lander III]], [[Soo Lee]], [[Dean C. Merrill]], [[John M. Middleton]], [[Stanley H. Turner]], [[Frederick G. Watts]], [[Dennis W. Wright]], and [[Robert Whitaker]]. 14 months were spent designing the system (NOTE: this timeline doesn’t work out properly).
+This team was headed by [[Joan E. Jacoby]] (then Director of the [[Office of Crime Analysis of the District of Columbia]]) and [[Charles R. Work]] (then Deputy Chief of the Superior Court Division of the [[U.S. Attorney's office]]) with project manager [[Bill Hamilton]] (senior consultant at [[Peat, Marwick, Mitchell & Co]], formerly [[NSA]] analyst). Other team members included [[Sidney H. Brounstein]], [[Robert H. Cain]], [[Joyce H. Deroy]], [[James M. Etheridge]], [[John L. Gizzarelli]], [[Fred L. Lander III]], [[Soo Lee]], [[Dean C. Merrill]], [[John M. Middleton]], [[Stanley H. Turner]], [[Frederick G. Watts]], [[Dennis W. Wright]], and [[Robert Whitaker]]. The design work occupied approximately 14 months.
 
 The system came to be known as the Prosecutor's Management Information System (PROMIS) and deployed on January 1, 1971 in Washington D.C. for the District Attorney's Office. 
 
@@ -51,58 +53,48 @@ In February 1973, US Attorney for DC [[Harold H. Titus Jr]] made the decision to
 - Supported privacy segmentation for example Portland, Oregon implemented NEW-PROMIS on the county's mainframe, but partitioned it to be accessible only by the prosecutor's office.
 
 Both MINI-PROMIS and MAXI-PROMIS continued to produce the traditional batch reports for management analysis, in addition to their online capabilities. The "tailoring" facility was a key feature that made these versions attractive for wider adoption, as jurisdictions could avoid much of the custom programming that was typically required to modify a transferred system to fit their local needs and terminology. However, implementing a PROMIS system still required some level of data processing expertise to set up the files, load the data, and customize the tables that drove the tailored features. INSLAW was usually hired to complete this process.
-### PROMIS 82
-> [!TODO] TODO
-> Still determining the difference between PROMIS 82, VAX PROMIS, and DOJ lawsuit PROMIS
-## Theft and Misappropriation by the U.S. Justice Department 
+### PROMIS 82 / Enhanced PROMIS
 
-- In 1982, Inslaw signed a $10 million [[INSLAW contract|contract]] with the [[U.S. Department of Justice]] to install PROMIS in 42 U.S. Attorneys' offices as part of a pilot program
-- The contract had vague and contradictory language in terms of deliverables, software ownership, and licensing rights
-- The Justice Dept later tried to claim ownership of PROMIS, insisting its development was funded under the original contract
-- High-level Justice Dept officials, including [[Lowell Jensen]], were allegedly involved in a scheme to bankrupt INSLAW by withholding payments and contractual disputes
-- Under financial duress and legal pressure, INSLAW was forced to hand over the PROMIS source code to the Justice Dept to end the contract dispute 
-- However, this gave the Justice Dept the ability to surreptitiously modify and distribute PROMIS both domestically and to foreign governments without INSLAW's knowledge or consent
-- Key individuals within the Justice Dept who were allegedly involved in the theft and distribution of PROMIS later left to private sector positions where they continued to profit from the stolen software
-- Ultimately concluded in [[Inslaw, Inc., et al. v. The United States]]
+"PROMIS 82" refers to the proprietary enhanced version of PROMIS that INSLAW claimed to have developed using private funds after May 1981, distinct from the public-domain versions developed under LEAA and BJS grants. The enhancements introduced a relational database structure, replaced the flat-file system of earlier versions, and added capabilities including the ability to integrate data across case types and generate probabilistic assessments of recidivism risk.
 
-## Danny Casolaro and "The Octopus"
-- Freelance reporter [[Danny Casolaro]] began investigating the [[PROMIS Software Scandal]] in 1990 after being contacted by [[INSLAW]] founder [[Bill Hamilton]].[1]
-- Casolaro believed the theft of [[PROMIS]] was connected to a sprawling criminal conspiracy he termed "[[The Octopus]]", involving:
-    - U.S. intelligence agencies, especially the [[Central Intelligence Agency|CIA]] and [[National Security Agency|NSA]][1]
-    - International espionage and arms dealing[1]
-    - Organized crime and drug cartels, especially those involved in the [[Iran-Contra Affair]][1]
-    - Money laundering through [[Bank of Credit and Commerce International|BCCI]][1]
-    - Covert operations to manipulate foreign governments[1]
-- Casolaro was working on a book entitled "Behold, A Pale Horse," which encompassed these interconnected events.[1]
-- Casolaro [[Death of Danny Casolaro|died under suspicious circumstances]] in August 1991 while investigating leads related to [[The Octopus]] and [[PROMIS]].[1]
-- His death was ruled a suicide, but family and friends suspect foul play and a cover-up, noting that his research files on [[PROMIS]] and [[The Octopus]] were missing from his hotel room.[1]
+The critical legal distinction in the [[PROMIS Software Scandal]] turned on whether the 1982 DOJ implementation contract required delivery of only the public-domain version or also incorporated these privately-funded enhancements. INSLAW argued that the enhancements were inseparably integrated into the delivered system; DOJ argued the contract entitled it only to the public-domain base, and any proprietary enhancements had to be separately identified and could be removed.
 
-## The "Backdoor" Theory and International Proliferation
-- Numerous sources allege that U.S. intelligence agencies modified PROMIS with a secret [[backdoor]] before selling it to foreign governments and banks
-- The backdoor allegedly allowed U.S. intelligence to surreptitiously access the databases of international PROMIS users and monitor their data in real-time 
-- [[Michael Riconosciuto]], a self-proclaimed computer expert with ties to U.S. intelligence agencies, claims he was tasked with modifying PROMIS with the backdoor and [[artificial intelligence]] capabilities 
-- Alleged international users of the backdoored PROMIS include:
-    - [[Israel]]
-    - [[Canada]] 
-    - [[United Kingdom]] 
-    - [[Australia]]
-    - [[South Korea]]
-    - [[Iraq]]
-    - [[Libya]]
-    - The [[Soviet Union]] and later [[Russia]]  
--  International banks alleged to have used the backdoored PROMIS include:
-    - [[Bank of Credit and Commerce International|BCCI]] 
-    - [[Banco Nazionale del Lavoro]]
-    - [[HSBC|Hong Kong and Shanghai Banking Corporation (HSBC)]]
-    - [[UBS|Union Bank of Switzerland (UBS)]]
-    - [[Bank of America]]
--  [[Mossad]], Israel's intelligence service, is alleged to have played a key role in the international distribution of PROMIS as a favor to the [[Reagan administration]] 
-- The backdoor would have essentially given U.S. intelligence agencies a window into the activities of foreign governments, banks, and international criminal and terrorist organizations
-- The international proliferation of PROMIS, if true, represents an unprecedented breach of national sovereignty and privacy on a global scale
+The specific version delivered under Modification 12 on April 20, 1983, ran on a VAX minicomputer and is sometimes referred to as "VAX PROMIS." A Prime computer port was completed in August 1983 and installed across 20 U.S. Attorneys' offices. These VAX and Prime implementations were the versions at issue in the bankruptcy court litigation and in allegations that DOJ distributed enhanced PROMIS beyond the authorized 94 U.S. Attorneys' offices.[^1]
+### Theft and Misappropriation by the U.S. Justice Department
 
-## Later Developments and Continuing Mysteries
-- In 1987, a federal bankruptcy court ruled that the [[U.S. Department of Justice]] had indeed "stolen" PROMIS from [[INSLAW]], but that ruling was later overturned on appeal
--  Inslaw founder [[Bill Hamilton]] continues to maintain that PROMIS was fraudulently stolen from his company and distributed internationally, but has not been able to conclusively prove the [[backdoor]] theory in court
-- In 1991, the U.S. House Judiciary Committee launched an investigation into the PROMIS affair, but its final report in 1992 was classified and its contents have never been fully revealed 
-- In 1995, the [[NSA]] filed an affidavit in the PROMIS bankruptcy case claiming that some unspecified "national security" interests would be at risk if the case were allowed to proceed
-- Alleged [[PROMIS]] derivatives and successors continue to be sold and used internationally for intelligence and data mining, but their connection to the original stolen version remains unclear
+In March 1982, INSLAW signed a $10 million, three-year contract with the [[Department of Justice|DOJ's]] Executive Office for United States Attorneys to install PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. From the outset, disputes arose over proprietary rights: INSLAW claimed the delivered software incorporated enhancements developed at private expense after May 1981, while DOJ insisted the contract entitled it to unlimited rights over everything delivered. Contract administrator [[Peter Videnieks]] and project manager [[C. Madison Brewer]] — the latter a former general counsel of INSLAW's predecessor organization — took consistently adversarial positions on INSLAW's proprietary claims.[^1]
+
+DOJ withheld advance payments citing an unauthorized pledge of government invoices to a bank, a dispute INSLAW characterized as pretextual. Under financial duress, INSLAW filed for Chapter 11 bankruptcy protection in February 1985. The bankruptcy proceedings became a second front of litigation: INSLAW alleged that senior DOJ officials, including [[Lowell Jensen]] and acting under direction ultimately traceable to [[Edwin Meese]] and [[Earl Brian]], engineered the advance payment disputes specifically to drive the company into insolvency and enable the acquisition of its software at bankruptcy auction prices.
+
+Bankruptcy Judge [[George Francis Bason, Jr.]] ruled in September 1987 that DOJ had "taken, converted, stole, INSLAW's enhanced PROMIS by trickery, fraud, and deceit." The D.C. Circuit Court affirmed this ruling in 1989. The Court of Appeals reversed it in 1991 on jurisdictional grounds; the Supreme Court declined review. Full legal history is documented at [[INSLAW]] and [[PROMIS Software Scandal]].[^1][^2]
+
+### Danny Casolaro and "The Octopus"
+
+Freelance journalist [[Danny Casolaro]] began investigating the [[PROMIS Software Scandal]] in 1990 after being contacted by [[INSLAW]] founder [[Bill Hamilton]].[^1] Casolaro believed the theft of PROMIS was one tentacle of a sprawling criminal conspiracy he called "[[The Octopus]]," which he believed linked U.S. intelligence agencies, international espionage and arms dealing, organized crime, drug cartels involved in the [[Iran-Contra Affair]], money laundering through [[Bank of Credit and Commerce International|BCCI]], and covert operations to manipulate foreign governments. He was working on a book titled "Behold, A Pale Horse" (later "The Octopus") encompassing these connected events.[^1]
+
+Casolaro was found dead on August 10, 1991, in his hotel room in [[Martinsburg, West Virginia]], his wrists slashed twelve times. His death was ruled a suicide. His research files on PROMIS and the Octopus were missing from the hotel room. The House Judiciary Committee recommended further investigation into the circumstances of his death. Full details are at [[Danny Casolaro]].[^2]
+
+### The Backdoor Theory and International Proliferation
+
+Multiple sources allege that U.S. and Israeli intelligence agencies modified PROMIS with a hidden surveillance backdoor before distributing it to foreign governments, banks, and international organizations. The backdoor allegedly allowed intelligence services to remotely access the databases of PROMIS users and monitor their queries in real time.
+
+[[Michael Riconosciuto]] claimed he was tasked with installing the backdoor at the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation|Cabazon]] joint venture in Indio, California, working from software obtained through [[Earl Brian]] and [[Peter Videnieks]]. A separate account, drawn from Israeli intelligence sources and reported in Gordon Thomas's *Gideon's Spies* (1999), holds that [[Rafael Eitan]] of [[LAKAM]] directed Israeli technicians to embed a "trapdoor" microchip in PROMIS after acquiring the software through back channels from the [[Department of Justice|DOJ]], with the modified software then distributed internationally through British media proprietor [[Robert Maxwell]] and his Israeli computer firm [[Degem]].[^3]
+
+Alleged foreign intelligence and law enforcement users of the backdoored PROMIS include agencies in [[Israel]], [[Canada]] (the [[Royal Canadian Mounted Police|RCMP]] and [[Canadian Security Intelligence Service|CSIS]]), the [[United Kingdom]], [[Australia]], [[South Korea]], [[Iraq]], [[Jordan]], [[Libya]], [[Poland]], [[South Africa]], and the [[Soviet Union]]. International financial institutions alleged to have received PROMIS-derived systems include [[Bank of Credit and Commerce International|BCCI]], [[Banco Nazionale del Lavoro]], the [[HSBC|Hong Kong and Shanghai Banking Corporation]], [[UBS|Union Bank of Switzerland]], and [[Bank of America]]. Total sales through the Maxwell network were alleged to exceed $500 million.[^3][^4]
+
+The [[Bua Report]] (1993) and a subsequent DOJ review (1994) found no credible evidence that enhanced PROMIS was distributed internationally, concluding that only public-domain versions of the software had been shared with foreign entities.[^1]
+
+### Later Developments
+
+In September 1987, Bankruptcy Judge [[George Francis Bason, Jr.]] ruled that DOJ had "taken, converted, stole" INSLAW's enhanced PROMIS. That ruling was affirmed by the D.C. Circuit Court in November 1989 but reversed on jurisdictional grounds by the Court of Appeals in May 1991.
+
+The House Judiciary Committee launched a three-year investigation from 1989 to 1992, producing House Report 102-857 on September 10, 1992, which found "strong evidence" of DOJ theft and raised "serious concerns" about a high-level conspiracy. The report was unclassified and publicly available. Special Counsel [[Nicholas J. Bua]], appointed in November 1991, issued a 267-page report in March 1993 finding no credible evidence of criminal wrongdoing by any DOJ official. The Senate referred INSLAW's remaining claims to the Court of Federal Claims, which ruled in 1997-1998 that all PROMIS versions were in the public domain.
+
+[[Bill Hamilton]] maintained INSLAW's claims publicly for decades after the formal proceedings concluded. The international backdoor distribution allegations — particularly those concerning [[Rafael Eitan]], [[Robert Maxwell]], and [[Degem]] — were never formally adjudicated. A 2001 report alleged that FBI double agent [[Robert Hanssen]] provided PROMIS-derived software to his Soviet KGB handlers.[^1][^2]
+
+### Footnotes
+
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
+[^2]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
+[^3]: Thomas, Gordon. *Gideon's Spies: The Secret History of the Mossad.* St. Martin's Press, 1999.
+[^4]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992.

@@ -7,6 +7,8 @@ tags:
   - Computer_Training
   - Washington_DC
   - 1980s
+category: "Private Organization"
+summary: "Future Enterprises was a company linked to The Finders that provided software training for CIA employees."
 ---
 
 Future Enterprises was a company linked to [[The Finders]] that provided software training for CIA employees. The connection between Future Enterprises and the intelligence community emerged during the 1993 Department of Justice inquiry into CIA involvement with The Finders and a potential FBI coverup of the group's operations.[^1]

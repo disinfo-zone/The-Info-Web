@@ -1,3 +1,11 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+  - Politician
+summary: "Senator Gillibrand has been a key ally in the bipartisan effort to pass UAP-related legislation."
+---
 [[Kirsten Gillibrand]] is a United States Senator from New York who has been a leading voice in the recent legislative efforts to increase transparency and oversight of the [[Unidentified Anomalous Phenomena]] (UAP) issue. As a member of the Senate Armed Services Committee, she has worked to destigmatize the topic and to ensure that the U.S. government takes the potential national security threat posed by UAP seriously.[^1]
 
 ### Support for UAP Legislation

@@ -1,12 +1,19 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "Astrophysicist and AATIP contractor with high-level security clearances, alleged author of the Wilson-Davis Memo on UAP crash retrieval programs."
+---
 [[Eric Davis]] is an astrophysicist with high-level national security clearances who has worked as a contractor and consultant for the [[Advanced Aerospace Threat Identification Program]] (AATIP) and other government programs. He is known for his expertise in advanced propulsion physics and is the alleged author of the [[Wilson-Davis Memo]].[^1]
 
 ### Scientific Career and Government Work
 
-Dr. Davis has a long history of consulting for aerospace and defense contractors, including EarthTech, the company founded by [[Harold "Hal" Puthoff]]. He is known for his brilliant and maverick approach to science, and he has an eidetic memory. He has provided the Presidential Daily Briefing (PDB) and has briefed numerous DoD agencies and congressional committees on the UAP issue.[^1]
+Dr. Davis has a long history of consulting for aerospace and defense contractors, including EarthTech, the company founded by [[Hal Puthoff]]. He is known for his brilliant and maverick approach to science, and he has an eidetic memory. He has provided the Presidential Daily Briefing (PDB) and has briefed numerous DoD agencies and congressional committees on the UAP issue.[^1]
 
 ### Involvement with AATIP
 
-Dr. Davis was a key scientific contractor for AATIP, working closely with [[Harold "Hal" Puthoff]] and [[Luis Elizondo]]. He was instrumental in analyzing the physics of UAP and exploring theoretical concepts such as warp drives and traversable wormholes. His expertise was crucial in helping the AATIP team to understand the advanced capabilities of the craft they were investigating.[^1]
+Dr. Davis was a key scientific contractor for AATIP, working closely with [[Hal Puthoff]] and [[Luis Elizondo]]. He was instrumental in analyzing the physics of UAP and exploring theoretical concepts such as warp drives and traversable wormholes. His expertise was crucial in helping the AATIP team to understand the advanced capabilities of the craft they were investigating.[^1]
 
 ### The Wilson-Davis Memo
 

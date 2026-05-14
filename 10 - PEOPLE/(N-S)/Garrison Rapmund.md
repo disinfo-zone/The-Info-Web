@@ -1,12 +1,16 @@
 ---
 aliases:
-  - Garrison Rapmund
+- Garrison Rapmund
   - Major General Garrison Rapmund
+category: "Key Figures"
 tags:
   - Person
+  - Stargate
   - Military
-  - US Army
+  - RemoteViewer
+summary: "Garrison Rapmund was a Major General and the Assistant Surgeon General of the U.S."
 ---
+
 Garrison Rapmund was a Major General and the Assistant Surgeon General of the [[U.S. Army]]. In July 1984, after [[Albert Stubblebine]] was forced into early retirement and the [[Remote Viewing]] program was up for grabs, Rapmund engaged in discussions to move the program under his command within the [[Army Medical Research and Development Command]] at [[Fort Detrick]], Maryland[^1].
 
 His intention was to emphasize testing the physiology of the viewers. However, after several rounds of negotiations, the Office of the Surgeon General ultimately declined to take over the program[^1].

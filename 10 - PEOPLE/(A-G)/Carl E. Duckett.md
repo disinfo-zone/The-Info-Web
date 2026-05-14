@@ -1,9 +1,13 @@
 ---
+category: "Key Figures"
 tags:
   - Person
-  - Intelligence
+  - Stargate
   - CIA
+  - Military
+summary: "Duckett became the recipient of intelligence on Israel's nuclear program, which was routed to his office from sources like Lawrence Livermore National Laboratory and Los Alamos through the CIA's Office of Science and Technology."
 ---
+
 Carl E. Duckett was an American intelligence official who headed the [[Central Intelligence Agency|CIA]]'s Office of Science and Technology and later served as Deputy Director for Science and Technology. He was recruited to the Agency in 1963 from the Army's Missile Command headquarters and became a key figure in both nuclear intelligence and unconventional research programs.[^1][^2]
 
 ### Nuclear Intelligence Operations

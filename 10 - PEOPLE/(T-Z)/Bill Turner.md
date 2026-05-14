@@ -1,13 +1,11 @@
 ---
+category: "Authors & Journalists"
 tags:
   - Person
-  - Whistleblower
-  - Hughes Aircraft
-  - Danny Casolaro
-  - PROMIS
-  - The Octopus
-  - Investigation
+  - Journalist
+summary: "Turner later admitted to police that he met with Casolaro but initially refused to specify the time or describe the contents of the papers."
 ---
+
 [[Bill Turner]] was a friend and confidante of investigative journalist [[Danny Casolaro]]. He met with Casolaro in the parking lot of the Sheraton Hotel in Martinsburg, Virginia, on August 9, 1991, the day before Casolaro's death, to deliver some papers. These papers allegedly included two sealed packages that Turner had been keeping in his safe for Casolaro, and a packet of Hughes Aircraft papers belonging to Turner, who had been let go from Hughes for whistleblowing.[^1]
 
 Turner later admitted to police that he met with Casolaro but initially refused to specify the time or describe the contents of the papers. He claimed not to know what was in the sealed documents, which had Casolaro's name written across the seal. It was suggested that Turner might have known who Casolaro was preparing to meet that evening and wanted Casolaro to show the Hughes Aircraft documents to that individual.[^1]

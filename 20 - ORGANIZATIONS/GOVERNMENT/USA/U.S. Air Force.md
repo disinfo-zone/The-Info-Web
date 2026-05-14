@@ -7,9 +7,11 @@ tags:
   - military
   - USA
 description: The U.S. Air Force is the aerial warfare service branch of the United States Armed Forces.
+category: "U.S. Government"
+summary: "The U.S. Air Force is the aerial warfare service branch of the United States Armed Forces. In the context of the *Remote Viewers* narrative, the Air Force was a key customer for the STARGATE PROJECT program, tasking remote viewers with sensitive..."
 ---
 
-The [[U.S. Air Force]] is the aerial warfare service branch of the [[United States Armed Forces]]. In the context of the *Remote Viewers* narrative, the Air Force was a key customer for the [[STARGATE PROJECT|Grill Flame]] program, tasking remote viewers with sensitive intelligence problems.[^1]
+The [[U.S. Air Force]] is the aerial warfare service branch of the [[United States]]. In the context of the *Remote Viewers* narrative, the Air Force was a key customer for the [[STARGATE PROJECT|Grill Flame]] program, tasking remote viewers with sensitive intelligence problems.[^1]
 
 One notable instance involved the tasking of [[Mel Riley]] and [[Joe McMoneagle]] to remote-view a new Chinese nuclear device at Lop Nor. Air Force officials, anxious to supplement their conventional intelligence efforts, sought details about the device's design and whether it had been tested. The remote viewers' descriptions, particularly of an "hourglass-shaped device," were of significant interest to Air Force analysts. The Air Force also tasked remote viewers to locate a crashed U.S. Navy A-6 aircraft, which [[Ken Bell]] successfully did.[^1]
 

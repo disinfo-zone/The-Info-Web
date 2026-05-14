@@ -1,13 +1,14 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Richard Helms
+category: "Key Figures"
 tags:
-  - person
+  - Person
+  - Stargate
   - CIA
-  - director
-description: Richard Helms was the Director of Central Intelligence (DCI) from 1966 to 1973, and played a key role in the CIA's early involvement in psychic research.
+  - RemoteViewer
+  - SRI
+summary: "Helms personally approved the continuation and expansion of the CIA's psychic research program, initially known as the Biofield Measurements Program and later as the Paranormal Perception Research Project."
 ---
+
 
 [[Richard Helms]] was the [[Director of Central Intelligence|Director of Central Intelligence]] (DCI) from 1966 to 1973. He played a key role in the [[Central Intelligence Agency|CIA]]'s early involvement in psychic research, including the decision to test [[Uri Geller]] at [[Stanford Research Institute|SRI]].[^1]
 

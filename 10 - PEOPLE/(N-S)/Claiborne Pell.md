@@ -1,12 +1,17 @@
 ---
 aliases:
-  - Claiborne Pell
+- Claiborne Pell
   - Senator Claiborne Pell
+category: "Key Figures"
 tags:
   - Person
-  - Politician
-  - US Senate
+  - Stargate
+  - CIA
+  - Military
+  - RemoteViewer
+summary: "Claiborne Pell (1918–2009) was a powerful Democratic Senator from Rhode Island and a ranking member of the Senate Foreign Relations Committee."
 ---
+
 Claiborne Pell (1918–2009) was a powerful Democratic Senator from Rhode Island and a ranking member of the Senate Foreign Relations Committee. A former [[Foreign Service]] officer who had worked behind enemy lines in Nazi-occupied Hungary, Pell was a firm supporter and proponent of [[Extrasensory Perception|extrasensory perception]] and the [[Remote Viewing]] program[^1].
 
 Pell actively lobbied for the program's survival, reaching out personally to [[Dale Graff]] to offer his support. His interest stemmed from a belief in the potential operational value of psychic abilities for military intelligence[^1].

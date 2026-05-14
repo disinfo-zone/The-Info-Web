@@ -1,6 +1,11 @@
 ---
-tags: ["Person", "Banker", "Government Official"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+summary: "William Ryback was the Deputy Director of Banking Supervision at the Federal Reserve."
 ---
+
 William Ryback was the Deputy Director of Banking Supervision at the [[Federal Reserve]].[^1]
 
 ### Role in BCCI Investigation

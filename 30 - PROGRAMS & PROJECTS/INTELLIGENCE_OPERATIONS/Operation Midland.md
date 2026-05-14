@@ -8,6 +8,8 @@ tags:
   - Elm_Guest_House
   - Operation_Fernbridge
   - Child_Murder_Investigation
+category: "Intelligence Operation"
+summary: "Operation Midland was a Scotland Yard investigation launched in November 2014 focusing on cold case files related to two child murders from 1979 and 1981 with potential connections to the Elm Guest House."
 ---
 Operation Midland was a Scotland Yard investigation launched in November 2014 focusing on cold case files related to two child murders from 1979 and 1981 with potential connections to the [[Elm Guest House]]. The operation closed in March 2015 after key witness Carl Beech (known as "Nick") was exposed as providing false information. Beech claimed to have witnessed children murdered at the [[Elm Guest House]] by politicians[^1].
 

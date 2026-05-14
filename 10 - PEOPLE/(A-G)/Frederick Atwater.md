@@ -1,17 +1,18 @@
 ---
-created: 2025-03-05
-updated: 2025-07-22
-title: Frederick Atwater
+category: "Key Figures"
 tags:
-  - person
-  - military
-  - researcher
-description: Frederick "Skip" Atwater was a U.S. Army officer who was instrumental in the creation of the Stargate Project. He later became the president of the Monroe Institute, an organization focused on the study of human consciousness.
+  - Person
+  - Stargate
+  - CIA
+  - Military
+  - RemoteViewer
+summary: "Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey."
 ---
+
 
 Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey. His father was a dentist, and his mother, a homemaker, held a strong belief in the paranormal. Atwater himself had out-of-body experiences as a teenager, sometimes using this ability to "float" to distant locations. He was intrigued by the possibilities of the paranormal and had heard rumors of Soviet and CIA psi research, including successful outcomes.[^1]
 
-He joined the [[U.S. Army]] and after officer candidate training and espionage school at [[Fort Huachuca]], Arizona, he arrived at [[Fort Meade]] in the summer of 1977. This was a period of significant reorganization within Army intelligence, with the formation of the [[Intelligence and Security Command]] (INSCOM). Atwater was assigned to an operations security (opsec) team that became part of the [[Systems Exploitation Detachment]] (SED).[^1]
+He joined the [[U.S. Army]] and after officer candidate training and espionage school at [[Fort Huachuca]], Arizona, he arrived at [[Fort Meade]] in the summer of 1977. This was a period of significant reorganization within Army intelligence, with the formation of the [[United States Army Intelligence and Security Command]] (INSCOM). Atwater was assigned to an operations security (opsec) team that became part of the [[Systems Exploitation Detachment]] (SED).[^1]
 
 Atwater had a strong interest in psychic phenomena and, after discovering documents left by a predecessor, Colonel Kowalski, he began to argue that remote viewing represented a potential security threat that the Army's opsec teams should study. He proposed to the head of SED, Colonel [[Robert Keenan]], that a small remote-viewing team be assembled, screening Army intelligence personnel for psychic abilities. The proposal was approved by Major General [[Edmund Thompson]], the Army's assistant chief of staff for intelligence (ACSI), who had his own interest in psi and wanted a secret unit of experimental psychic spies.[^1]
 

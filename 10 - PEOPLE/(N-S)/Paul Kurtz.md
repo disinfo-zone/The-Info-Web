@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Paul Kurtz
+- Paul Kurtz
+category: "Skeptics & Critics"
 tags:
   - Person
-  - Philosopher
   - Skeptic
+summary: "Paul Kurtz (1925–2012) was an American philosopher and a prominent figure in the skeptical movement."
 ---
+
 Paul Kurtz (1925–2012) was an American philosopher and a prominent figure in the skeptical movement. He was a co-founder of the [[Committee for the Scientific Investigation of Claims of the Paranormal]] (CSICOP), along with [[Carl Sagan]], [[Martin Gardner]], [[Ray Hyman]], and [[James Randi]][^1].
 
 CSICOP was established to promote scientific inquiry and combat pseudoscience, superstition, and irrational beliefs. Kurtz, through his work with CSICOP, advocated for critical thinking and the application of the scientific method to claims of the paranormal[^1].

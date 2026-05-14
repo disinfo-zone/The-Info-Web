@@ -5,7 +5,7 @@ tags:
 ---
 # DOJ Report on Bua's Report (1994)
 
-U.S. Department of Justice. *Report of the United States Department of Justice On the Review of Special Counsel Nicholas J. Bua's Report on the Allegations of INSLAW, Inc.* September 27, 1994. (Hereafter, "DOJ 1994 Report")
+U.S. Department of Justice. *Report of the United States Department of Justice On the Review of Special Counsel Nicholas J. Bua's Report on the Allegations of INSLAW, Inc.* September 27, 1994.
 
 This report summarizes the analysis and investigation undertaken by the Department of Justice following Attorney General Janet Reno's mandate to review Special Counsel Nicholas J. Bua's report and Inslaw's analysis of that report. It primarily reflects the independent conclusions reached after a detailed review of Bua's investigation and report, as well as documentation and testimony accumulated in several other investigations. The report also includes findings from new investigations into allegations raised by Inslaw after Bua's report was completed.
 

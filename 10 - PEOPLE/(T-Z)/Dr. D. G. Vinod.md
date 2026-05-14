@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Dr. D. G. Vinod
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - mystic
-  - scholar
-description: Dr. D. G. Vinod was a Hindu scholar and mystic who Andrija Puharich believed channeled a group of entities called "the Nine Principles and Forces."
+  - Person
+  - RemoteViewer
+summary: "Puharich brought Vinod to the Round Table Foundation, where Vinod allegedly went into a trance and channeled a group of entities called 'the Nine Principles and Forces.' This event had a profound impact on Puharich, solidifying his belief in an external, possibly extraterrestrial, source for psychic"
 ---
+
 
 Dr. D. G. Vinod was a Hindu scholar and mystic who [[Andrija Puharich]] met in New York City in 1952. Puharich was deeply impressed by Vinod's apparent ability to divine his past and future with remarkable accuracy.[^1]
 

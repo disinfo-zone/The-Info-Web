@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Government Official
-  - USA
+  - Nuclear
+  - Israel
+summary: "Director of international affairs for the AEC in 1958 who believed U.S. officials could have learned about Israel's Dimona reactor earlier."
 ---
+
 Algie A. Wells was the director of international affairs for the [[Atomic Energy Commission|AEC]] in mid-1958. He suggested that [[Lewis L. Strauss]] might have ignored his statutory responsibility as AEC chairman for trivial reasons, rather than his Jewishness, when it came to informing [[John A. McCone]] about [[Dimona]]. Wells believed that if McCone was surprised to learn about the reactor in late 1960, "he shouldn't have been," as any government official who chose to do so could have learned about [[Israel]]'s nuclear reactor.[^1]
 
 ### Footnotes

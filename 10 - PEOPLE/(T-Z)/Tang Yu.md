@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Tang Yu
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - psychic
-  - China
-description: Tang Yu was a twelve-year-old boy in China who, in 1979, was reported to be able to read with his ears, sparking the Extraordinary Powers Craze.
+  - Person
+  - RemoteViewer
+summary: "Tang Yu was a twelve-year-old boy in China who, in 1979, was reported to be able to read with his ears."
 ---
+
 
 Tang Yu was a twelve-year-old boy in [[China]] who, in 1979, was reported to be able to read with his ears. His case, which was publicized in the *Sichuan Daily*, sparked the [[Extraordinary Powers Craze]], a period of intense interest in paranormal phenomena in China.[^1]
 

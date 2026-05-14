@@ -1,3 +1,10 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "In his testimony, Moultrie acknowledged the reality of UAP and the potential threat they pose to national security."
+---
 [[Ronald Moultrie]] is the Under Secretary of Defense for Intelligence & Security. He testified before Congress in May 2022 at a historic public hearing on [[Unidentified Anomalous Phenomena]] (UAP).[^1]
 
 ### Congressional Testimony on UAP

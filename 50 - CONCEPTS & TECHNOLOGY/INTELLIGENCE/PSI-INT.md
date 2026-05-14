@@ -6,6 +6,8 @@ tags:
   - intelligence
   - psychic
 description: PSI-INT, or psi-derived intelligence, refers to information gathered through psychic phenomena such as remote viewing, used for intelligence purposes.
+category: "Intelligence Concept"
+summary: "PSI-INT, or psi-derived intelligence, refers to information gathered through psychic phenomena such as remote viewing, used for intelligence purposes."
 ---
 PSI-INT, or psi-derived intelligence, refers to information gathered through psychic phenomena such as [[remote viewing]], used for intelligence purposes. It is a term coined to categorize psychic intelligence alongside other traditional intelligence disciplines like [[Human Intelligence|HUMINT]], PHOTINT (photographic intelligence), SIGINT (signals intelligence), and ELINT (electronic intelligence).[^1]
 

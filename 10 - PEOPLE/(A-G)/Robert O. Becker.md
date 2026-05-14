@@ -1,11 +1,14 @@
 ---
 aliases:
-  - Robert O. Becker
+- Robert O. Becker
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Scientist
-  - Physician
+  - RemoteViewer
+  - Soviet
+summary: "Becker's work convinced him that a microwave signal, such as the Moscow Signal, 'could affect the central nervous system, put people to sleep, interfere with decision making capacity and induce chronic stress'."
 ---
+
 Robert O. Becker was a physician and researcher who worked on microwave weapons for the [[Department of Defense]]. He was a colleague of [[Samuel Koslov]] and [[Allan H. Frey]], and was twice nominated for the Nobel Prize[^1].
 
 Becker's work convinced him that a microwave signal, such as the [[Moscow Signal]], "could affect the central nervous system, put people to sleep, interfere with decision making capacity and induce chronic stress"[^1]. He noted that the [[Soviet Union|Soviets]] had been "using embassy employees as test subjects for low-level [[Electromagnetic Radiation|EMR]] experiments"[^1].

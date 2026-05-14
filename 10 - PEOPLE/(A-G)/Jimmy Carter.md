@@ -1,13 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-08-04
-title: Jimmy Carter
+category: "Intelligence & Government"
 tags:
-  - person
-  - president
-  - government
-description: Jimmy Carter was the 39th President of the United States, serving from 1977 to 1981. His presidency coincided with the early years of the Stargate Project.
+  - Person
+  - CIA
+  - Politician
+  - Israel
+  - Military
+summary: "39th U.S. President who led nuclear nonproliferation efforts against South Africa, provided Israel KH-11 satellite access, and oversaw early psychic research funding."
 ---
+
 James Earl "Jimmy" Carter Jr. was the 39th President of the [[United States]], serving from 1977 to 1981. His presidency was marked by significant challenges in foreign policy, nuclear nonproliferation efforts, and involvement with unconventional intelligence programs.
 
 ### Nuclear Nonproliferation and South African Tests
@@ -28,7 +29,7 @@ His presidency coincided with the early years of the [[STARGATE PROJECT|Grill Fl
 
 ### Iran Hostage Crisis
 
-The [[Iran Hostage Crisis]] (1979-1981) was a major challenge during his presidency. Remote viewers were extensively tasked by the [[United States Department of Defense|Pentagon]] and [[Central Intelligence Agency|CIA]] to gather intelligence on the hostages' whereabouts and conditions, though the administration's handling of the crisis, including the failed rescue attempt, ultimately led to the hostages' release on the day Carter's presidency ended.[^3]
+The [[Iran Hostage Crisis]] (1979-1981) was a major challenge during his presidency. Remote viewers were extensively tasked by the [[Department of Defense|Pentagon]] and [[Central Intelligence Agency|CIA]] to gather intelligence on the hostages' whereabouts and conditions, though the administration's handling of the crisis, including the failed rescue attempt, ultimately led to the hostages' release on the day Carter's presidency ended.[^3]
 
 ### Latin American Policy
 

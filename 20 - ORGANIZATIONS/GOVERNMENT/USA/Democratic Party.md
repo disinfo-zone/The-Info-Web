@@ -3,6 +3,8 @@ tags:
   - Organization
   - Political Party
   - USA
+category: "U.S. Government"
+summary: "The Democratic Party is one of the two major contemporary political parties in the United States. Abraham Feinberg was perhaps the most important Jewish fundraiser for the Democratic Party by the presidential campaign of 1960, with the dollars he..."
 ---
 The Democratic Party is one of the two major contemporary political parties in the [[United States]]. [[Abraham Feinberg]] was perhaps the most important Jewish fundraiser for the Democratic Party by the presidential campaign of 1960, with the dollars he collected meant to ensure continued Democratic Party support for [[Israel]].[^1]
 

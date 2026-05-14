@@ -1,4 +1,10 @@
-[[John Paul Vukasin, Jr.]] was a [[United States District Court|U.S. District Court]] Judge. He was a long-time associate and political ally of [[Edwin Meese III]]. [[Calvin Robinson]] filed a "Pro Per" affidavit requesting that Judge Vukasin be recused from his case, believing that Vukasin was appointed to the district court bench as a "damage control agent" for Meese and the [[United States Department of Justice|U.S. Department of Justice]].[^1]
+---
+category: "Other"
+tags:
+  - Person
+summary: "U.S. District Court Judge and political ally of Edwin Meese III accused of acting as a damage control agent for the DOJ in PROMIS scandal cases."
+---
+[[John Paul Vukasin, Jr.]] was a [[United States District Court|U.S. District Court]] Judge. He was a long-time associate and political ally of [[Edwin Meese III]]. [[Calvin Robinson]] filed a "Pro Per" affidavit requesting that Judge Vukasin be recused from his case, believing that Vukasin was appointed to the district court bench as a "damage control agent" for Meese and the [[Department of Justice|U.S. Department of Justice]].[^1]
 
 ---
 ### Footnotes

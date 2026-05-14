@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Deputy in the Mariposa Sheriff's Department and part of the search party for Ron Van Meter after his alleged boating accident."
+---
 [[Gary Estep]] was a deputy in the Mariposa Sheriff's Department and part of the search party for [[Ron Van Meter]] after his alleged boating accident on Lake McClure.[^1]
 
 ---

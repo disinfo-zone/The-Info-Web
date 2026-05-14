@@ -1,6 +1,11 @@
 ---
-tags: ["Person", "Royalty", "Government Official", "BCCI"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+summary: "Zayed bin Sultan AL-Nahayan was the Head of Abu Dhabi's ruling family and president of the United Arab Emirates."
 ---
+
 Zayed bin Sultan AL-Nahayan was the Head of [[Abu Dhabi]]'s ruling family and president of the [[United Arab Emirates]].[^1]
 
 ### Early Life and Ascension

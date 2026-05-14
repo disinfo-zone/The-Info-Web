@@ -7,6 +7,8 @@ tags:
   - psi
   - clairvoyance
 description: Eyeless sight is a claimed psychic ability to perceive visual information without the use of the eyes.
+category: "Psi Phenomenon"
+summary: "Eyeless Sight is a claimed Psi ability to perceive visual information without the use of the eyes. It is a form of Clairvoyance and was demonstrated by Uri Geller in his stage performances, where he would, while blindfolded, accurately describe..."
 ---
 
 [[Eyeless Sight]] is a claimed [[Psi|psychic]] ability to perceive visual information without the use of the eyes. It is a form of [[Clairvoyance]] and was demonstrated by [[Uri Geller]] in his stage performances, where he would, while blindfolded, accurately describe three-digit numbers or capital cities written on a blackboard.[^1]

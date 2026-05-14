@@ -6,6 +6,8 @@ tags:
   - concept
   - parapsychology
 description: The sheep-goat effect is a term coined by parapsychologist Gertrude Schmeidler to describe the correlation between a person's belief in psi and their performance in psi experiments.
+category: "Esoteric & Historical Concept"
+summary: "The **sheep-goat effect** is a term coined by parapsychologist Gertrude Schmeidler in 1942 to describe the tendency for individuals who believe in Psi phenomena (sheep) to score better in ESP and Psychokinesis experiments than those who are..."
 ---
 
 The **sheep-goat effect** is a term coined by parapsychologist [[Gertrude Schmeidler]] in 1942 to describe the tendency for individuals who believe in [[Psi|psychic]] phenomena (sheep) to score better in [[ESP]] and [[Psychokinesis|PK]] experiments than those who are skeptical (goats).[^1]

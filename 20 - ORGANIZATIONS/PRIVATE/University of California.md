@@ -3,6 +3,8 @@ tags:
   - Organization
   - Academic
   - USA
+category: "Private Organization"
+summary: "The University of California is a public university system in California. The physics department at the University of California was home to Luis Alvarez, a Nobel laureate who was a key colleague of Jack P."
 ---
 The University of California is a public university system in [[California]]. The physics department at the [[University of California]] was home to [[Luis Alvarez]], a Nobel laureate who was a key colleague of [[Jack P. Ruina]] on an ad hoc panel of distinguished scientists tasked with studying the [[VELA Satellite]] data related to a probable nuclear explosion in the South Indian Ocean in 1979.[^1]
 

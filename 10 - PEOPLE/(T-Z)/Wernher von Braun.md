@@ -1,14 +1,12 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Wernher von Braun
+category: "World War II & Nazi Era"
 tags:
-  - person
-  - scientist
-  - aerospace
-  - Engineer
-  - NASA
+  - Person
+  - WW2
+  - Nazi
+summary: "Wernher von Braun (1912–1977) was a German-American aerospace engineer and space architect, widely regarded as one of the fathers of rocket technology and space science in both Nazi Germany and the United States."
 ---
+
 
 Wernher von Braun (1912–1977) was a German-American aerospace engineer and space architect, widely regarded as one of the fathers of rocket technology and space science in both [[Nazi Germany]] and the [[United States]]. He was the former chief scientist of the [[Apollo Program]] Moon program[^1].
 

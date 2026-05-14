@@ -1,9 +1,12 @@
 ---
+category: "World War II & Nazi Era"
 tags:
   - Person
-  - Financier
-  - USA
+  - WW2
+  - Nazi
+summary: "Bernard Baruch was an American financier and statesman."
 ---
+
 Bernard Baruch was an American financier and statesman. In the late summer of 1939, he collaborated with [[Lewis L. Strauss]] on a proposal to convince the British government to cede a large tract of colonial [[Africa]] for resettlement by European refugees, both Jewish and non-Jewish. They believed that as much as $300 million could be raised for this purpose, but it was ultimately too late to prevent the impending Nazi blitzkrieg.[^1]
 
 ### Footnotes

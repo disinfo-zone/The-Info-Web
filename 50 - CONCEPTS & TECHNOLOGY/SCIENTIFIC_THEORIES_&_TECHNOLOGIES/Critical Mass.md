@@ -3,6 +3,8 @@ tags:
   - Concept
   - Nuclear
   - Physics
+category: "Scientific Theory & Technology"
+summary: "Critical mass refers to the smallest amount of fissile material needed for a sustained nuclear chain reaction. Francis Perrin, a French scientist, was the first to publish a formula for calculating the critical mass of uranium in 1939.[^1]"
 ---
 Critical mass refers to the smallest amount of fissile material needed for a sustained nuclear chain reaction. [[Francis Perrin]], a French scientist, was the first to publish a formula for calculating the critical mass of uranium in 1939.[^1]
 

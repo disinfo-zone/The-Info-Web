@@ -8,6 +8,8 @@ tags:
   - Washington_DC
   - International_Network
   - Computer_Operations
+category: "Private Organization"
+summary: "The Finders was a 60s-style commune/cult group operating in Washington D.C. that came to public attention in February 1987 when two of its members were arrested in Tallahassee, Florida for transporting six disheveled children in a white van."
 ---
 
 The Finders was a 60s-style commune/cult group operating in Washington D.C. that came to public attention in February 1987 when two of its members were arrested in Tallahassee, Florida for transporting six disheveled children in a white van. The group, led by former Air Force Master Sergeant [[Marion Pettie]], was discovered to be engaged in international child trafficking operations with connections to intelligence agencies.[^1]

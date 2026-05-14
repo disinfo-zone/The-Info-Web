@@ -7,6 +7,8 @@ tags:
   - Fascism
   - Operation_Gladio
   - Stay-Behind
+category: "Intelligence Operation"
+summary: "Operation Gladio was a post-World War II effort by NATO bloc spy agencies to suppress the dialectic swing away from fascism towards left-leaning political movements in Europe."
 ---
 Operation Gladio was a post-World War II effort by NATO bloc spy agencies to suppress the dialectic swing away from fascism towards left-leaning political movements in Europe. The Italian branch of the stay-behind network was established using [[Junio Valerio Borghese]] as the primary OSS and later CIA asset. Unlike some fascist collaborators executed alongside Mussolini, Borghese was chaperoned to [[Vatican City]] by OSS spook James Angleton and became the figurehead of Italy's post-war fascist movement through his role in Gladio operations.[^1]
 

@@ -1,16 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - BBC_Personality
-  - Child_Abuser
-  - UK
-  - 1970s
-  - 1980s
-  - 1990s
-  - 2000s
-  - Operation_Yewtree
-  - VIP_Network
+  - OrganizedCrime
+summary: "Gary Glitter was a British glam rock artist whose career was helped to success by Chris Denning, who catapulted him to the Top of the Pops in the 1970s."
 ---
+
 Gary Glitter was a British glam rock artist whose career was helped to success by [[Chris Denning]], who catapulted him to the Top of the Pops in the 1970s. In November 1997, a week after Denning's arrest, Glitter was arrested by British authorities after child pornography was discovered on a computer he had taken into a repair store.[^1]
 
 ### Child Pornography Conviction

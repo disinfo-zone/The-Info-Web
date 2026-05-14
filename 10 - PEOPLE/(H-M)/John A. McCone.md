@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Government Official
-  - USA
+  - Nuclear
+  - Israel
+summary: "McCone's leak was his parting shot as AEC commissioner, as he announced his resignation shortly after."
 ---
+
 John A. McCone was a wealthy Republican businessman from [[California]] who served as chairman of the [[Atomic Energy Commission]] (AEC) and later as Director of the [[Central Intelligence Agency|CIA]]. In December 1960, he leaked information to *New York Times* reporter [[John W. Finney]] about [[Israel]]'s secret nuclear reactor at [[Dimona]], expressing anger that [[Israel]] and [[France]] had "lied to us" about its purpose.[^1]
 
 McCone's leak was his parting shot as AEC commissioner, as he announced his resignation shortly after. He was committed to nuclear nonproliferation and was aware that the [[Dwight D. Eisenhower|Eisenhower]] administration was nearing its end, making it an opportune time to act. He was also frustrated by the constant Israeli lying about [[Dimona]].[^1]

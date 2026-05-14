@@ -3,6 +3,8 @@ tags:
   - Organization
   - Political Party
   - Israel
+category: "Foreign Government"
+summary: "Mapai (Israel Workers') Party was the dominant political party in Israel for many years. Its political control under David Ben-Gurion was total, akin to that of a Mafia don."
 ---
 Mapai (Israel Workers') Party was the dominant political party in [[Israel]] for many years. Its political control under [[David Ben-Gurion]] was total, akin to that of a Mafia don. Ben-Gurion's influence ensured that the government left behind after his retirement in late 1953 was of his own creation, with his jointly held positions of prime minister and defense minister being separated and filled by his chosen successors, [[Moshe Sharett]] and [[Pinhas Lavon]].[^1]
 

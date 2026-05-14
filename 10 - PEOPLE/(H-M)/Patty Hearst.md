@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Patty Hearst
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - victim
-  - heiress
-description: Patty Hearst is an American newspaper heiress who was kidnapped by the Symbionese Liberation Army (SLA) in 1974.
+  - Person
+  - RemoteViewer
+  - Military
+  - SRI
+summary: "Patricia Campbell Hearst is an American newspaper heiress who was kidnapped in 1974 by the Symbionese Liberation Army (SLA), a radical left-wing organization."
 ---
+
 
 Patricia Campbell Hearst is an American newspaper heiress who was kidnapped in 1974 by the [[Symbionese Liberation Army]] (SLA), a radical left-wing organization.[^1]
 

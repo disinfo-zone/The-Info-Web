@@ -1,15 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Prosecutor
-  - Investigator
   - Belgium
-  - 1990s
-  - Marc-Dutroux-Case
-  - Dutroux-Affair
-  - X-Dossier
+  - Dutroux
+summary: "Michel Bourlet, a prosecutor in Neufchâteau, Belgium, oversaw key aspects of the investigation into Marc Dutroux's child trafficking network following Dutroux's August 13, 1996, arrest."
 ---
-Michel Bourlet, a prosecutor in Neufchâteau, Belgium, oversaw key aspects of the investigation into [[Marc Dutroux]]'s child trafficking network following Dutroux's August 13, 1996, arrest. Assigned by Judge [[Jean-Marc Connerotte]] in September 1996, Bourlet led a team examining testimonies from eight X-witnesses who came forward alleging elite involvement in abuse rings after Connerotte's public appeal for victims. The group compiled a classified dossier known as the [[X-Dossier]], containing witness statements and corroborating evidence from cold cases, over several months. Bourlet's efforts focused on validating claims of orgies, hunts, and murders at locations like Knokke-Heist villas near [[Royal Zoute Golf Club]] and estates of figures such as [[Baron Benoit de Bonvoisin]] and Counts [[Count Leopold Lippens]] and [[Count Maurice Auguste Lippens]]. The dossier detailed connections to Dutroux's abductions of [[Julie Lejeune]], [[Melissa Russo]], [[An Marchal]], [[Eefje Lambrecks]], [[Sabine Dardenne]], and [[Laetitia Delhez]], linking them to [[Michel Nihoul]]'s operations via [[ASCO]] vehicles and blackmail parties.[^1]
+
+Michel Bourlet, a prosecutor in Neufchâteau, Belgium, oversaw key aspects of the investigation into [[Marc Dutroux]]'s child trafficking network following Dutroux's August 13, 1996, arrest. Assigned by Judge [[Jean-Marc Connerotte]] in September 1996, Bourlet led a team examining testimonies from eight X-witnesses who came forward alleging elite involvement in abuse rings after Connerotte's public appeal for victims. The group compiled a classified dossier known as the [[X-Dossier]], containing witness statements and corroborating evidence from cold cases, over several months. Bourlet's efforts focused on validating claims of orgies, hunts, and murders at locations like Knokke-Heist villas near [[Royal Zoute Golf Club]] and estates of figures such as [[Baron Benoit de Bonvoisin]] and Counts [[Count Leopold Lippens]] and [[Count Maurice Auguste Lippens]]. The dossier detailed connections to Dutroux's abductions of [[Julie Lejeune]], [[Melissa Russo]], [[An Marchal]], [[Eefje Lambrecks]], [[Sabine Dardenne]], and [[Laetitia Delhez]], linking them to [[Jean-Michel Nihoul]]'s operations via [[ASCO]] vehicles and blackmail parties.[^1]
 
 Bourlet's team investigated X1's ([[Regina Louf]]) accounts of childhood prostitution by her grandmother [[Cecile Beernaert]] at a brothel near the golf club, identifying venues and attendees including [[Paul Vanden Boeynants]] and Nihoul. They reopened cold cases like the 1984 murder of [[Christine Van Hees]] at a mushroom farm, where X1's unreleased details matched ligatures, burns, and a nail wound. Similarly, the 1983 death of Carine Dellaert, exhumed from a septic tank, aligned with X1's description of childbirth and gang rape involving Nihoul, [[Jean-Paul Dumont]], and Leopold Lippens. Bourlet's probe uncovered phone records of twenty calls between Dutroux and Nihoul around Laetitia's abduction, financial trails to European accounts, and violent child pornography tapes from Nihoul's home featuring elites.[^1]
 

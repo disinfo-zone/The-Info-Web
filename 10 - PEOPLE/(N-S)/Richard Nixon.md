@@ -1,13 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Richard Nixon
+category: "Intelligence & Government"
 tags:
-  - person
-  - president
-  - government
-description: Richard Nixon was the 37th President of the United States, serving from 1969 to 1974. His presidency was marked by significant foreign policy initiatives and the Watergate scandal.
+  - Person
+  - CIA
+  - NSA
+  - Politician
+  - Soviet
+summary: "Richard Milhous Nixon was the 37th President of the United States, serving from 1969 to 1974."
 ---
+
 Richard Milhous Nixon was the 37th President of the [[United States]], serving from 1969 to 1974. His presidency was marked by significant foreign policy initiatives, including opening relations with [[China]] and pursuing détente with the [[Soviet Union]].[^1]
 
 ### Pre-Presidential Activities

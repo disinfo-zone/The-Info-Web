@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Martin Gardner
+- Martin Gardner
+category: "Skeptics & Critics"
 tags:
   - Person
-  - Author
   - Skeptic
+summary: "Martin Gardner (1914–2010) was an American science writer and a key figure in jump-starting the modern scientific skepticism movement."
 ---
+
 Martin Gardner (1914–2010) was an American science writer and a key figure in jump-starting the modern scientific skepticism movement. His 1952 book, *Fads and Fallacies in the Name of Science*, aimed to expose cranks, crackpots, and charlatans in the modern age[^1].
 
 Gardner praised science, noting that after the atomic bomb, its prestige had "mushroomed like an atomic cloud." However, he lamented that the "less informed general public" was falling for pseudoscience, drawing a parallel to "German quasi science paralleled the rise of Hitler"[^1].

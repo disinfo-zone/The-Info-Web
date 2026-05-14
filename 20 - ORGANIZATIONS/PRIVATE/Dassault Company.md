@@ -3,6 +3,8 @@ tags:
   - Organization
   - Private
   - France
+category: "Private Organization"
+summary: "Dassault Company is a French aerospace company. In 1963, Israel paid $100 million to Dassault for the joint development and manufacture of twenty-five medium-range Israeli missiles, which would become known as the Jericho I."
 ---
 Dassault Company is a French aerospace company. In 1963, [[Israel]] paid $100 million to Dassault for the joint development and manufacture of twenty-five medium-range Israeli missiles, which would become known as the Jericho I. These missiles were anticipated to be capable of delivering a miniaturized nuclear warhead to targets three hundred miles away.[^1]
 

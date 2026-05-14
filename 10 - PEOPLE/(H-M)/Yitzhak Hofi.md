@@ -1,10 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Intelligence
+  - Nuclear
   - Israel
+summary: "Yitzhak Hofi was the director of Mossad, Israel's primary foreign intelligence service."
 ---
-Yitzhak Hofi was the director of [[Mossad]], [[Israel]]'s primary foreign intelligence service. He opposed the Israeli bombing of the Iraqi nuclear reactor at [[Osirak]] in June 1981, primarily because there was no evidence that [[Iraq]] was yet capable of building a bomb. He was joined in this futile dissent by [[Yehoshua Saguy]], chief of military intelligence, and [[Yigael Yadin]], the deputy prime minister.[^1]
+
+Yitzhak Hofi was the director of [[Mossad]], [[Israel]]'s primary foreign intelligence service. He opposed the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981, primarily because there was no evidence that [[Iraq]] was yet capable of building a bomb. He was joined in this futile dissent by [[Yehoshua Saguy]], chief of military intelligence, and [[Yigael Yadin]], the deputy prime minister.[^1]
 
 Two weeks after the Osirak bombing, Hofi gave an unprecedented newspaper interview, criticizing politicians who were compromising secret intelligence. This was widely understood within the Israeli intelligence community as a criticism of Prime Minister [[Menachem Begin]]'s public remarks about a secret underground facility.[^1]
 

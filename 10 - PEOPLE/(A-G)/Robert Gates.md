@@ -1,13 +1,16 @@
 ---
 aliases:
-  - Robert Gates
+- Robert Gates
   - Bob Gates
+category: "Key Figures"
 tags:
   - Person
+  - Stargate
   - CIA
-  - Government Official
-  - Analyst
+  - RemoteViewer
+summary: "Robert Gates is an American government official who served as the Director of Central Intelligence (DCI) from 1991 to 1993."
 ---
+
 Robert Gates is an American government official who served as the Director of Central Intelligence (DCI) from 1991 to 1993. He was also an analyst on loan to the [[National Security Council|NSC]] from the [[Central Intelligence Agency|CIA]] during the [[Cold War]][^1][^2].
 
 Gates was known to be a vocal adversary of the [[Psychoenergetics|psychoenergetic phenomena]] programs within the [[Pentagon]]. He expressed skepticism about the [[Remote Viewing]] program, particularly after [[Joe McMoneagle]]'s remote viewing of the [[Typhoon Submarine|Typhoon]] class submarine, which Gates initially dismissed as defying logic[^2].

@@ -1,14 +1,11 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Activist
-  - Victim
-  - Belgian
-  - 1990s
-  - Apollo_Network
-  - Morkhoven_Workgroup
-  - Murder_Victim
+  - Belgium
+summary: "Gina Pardaens-Bernaer was a Belgian activist and member of the Morkhoven Workgroup who played a crucial role in exposing international child trafficking networks in the 1990s."
 ---
+
 Gina Pardaens-Bernaer was a Belgian activist and member of the [[Morkhoven Workgroup]] who played a crucial role in exposing international child trafficking networks in the 1990s. She worked alongside [[Marcel Vervloesem]] to investigate the disappearance of [[Manuel Schadwald]] and helped uncover the [[Apollo Bulletin Board Service]], one of the largest child pornography distribution operations of its time. Her activism ultimately cost her life when she was murdered in November 1998.[^1]
 
 Pardaens-Bernaer became involved in the investigation when Vervloesem, distrusting Dutch authorities, passed the Apollo disks to her for safekeeping. She made copies of the disks before providing them to police, demonstrating her commitment to ensuring that the evidence would be preserved even if something happened to the original materials. This decision would prove fatal, as her possession of the incriminating evidence made her a target for those seeking to protect the trafficking network.[^1]
@@ -17,7 +14,7 @@ Pardaens-Bernaer became involved in the investigation when Vervloesem, distrusti
 
 After taking possession of the Apollo disks from Vervloesem, Pardaens-Bernaer began to analyze their contents. The disks contained encoded materials that, when decrypted, revealed thousands of images and videos of child abuse, including extremely violent content. Her examination of the materials provided crucial evidence about the nature and scope of the Apollo Network and its connections to other trafficking operations across Europe.[^2]
 
-Pardaens-Bernaer told friends and colleagues about a snuff film found on the disks that showed a girl being murdered by an associate of the child trafficking network exposed during the [[Marc Dutroux]] investigation in Belgium. She believed one of the perpetrators to be an acquaintance of [[Michel Nihoul]], a key figure in the Dutroux case. This connection suggested that the Apollo Network served as a distribution platform for materials produced by some of Europe's most notorious trafficking operations.[^2]
+Pardaens-Bernaer told friends and colleagues about a snuff film found on the disks that showed a girl being murdered by an associate of the child trafficking network exposed during the [[Marc Dutroux]] investigation in Belgium. She believed one of the perpetrators to be an acquaintance of [[Jean-Michel Nihoul]], a key figure in the Dutroux case. This connection suggested that the Apollo Network served as a distribution platform for materials produced by some of Europe's most notorious trafficking operations.[^2]
 
 ### Death and Circumstances
 

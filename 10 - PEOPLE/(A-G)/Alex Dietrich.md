@@ -1,4 +1,11 @@
-Lieutenant Commander [[Alex Dietrich]] is a U.S. Navy pilot who was one of the key eyewitnesses to the 2004 [[Tic Tac Incident]] involving the [[USS Nimitz]] Carrier Strike Group. Her testimony, along with that of her commanding officer, Commander [[Dave Fravor]], has been crucial in validating the incident and bringing the issue of [[Unidentified Anomalous Phenomena]] (UAP) to the forefront.[^1]
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "Lieutenant Commander Alex Dietrich is a U.S."
+---
+Lieutenant Commander [[Alex Dietrich]] is a U.S. Navy pilot who was one of the key eyewitnesses to the 2004 [[Tic Tac]] involving the [[USS Nimitz]] Carrier Strike Group. Her testimony, along with that of her commanding officer, Commander [[Dave Fravor]], has been crucial in validating the incident and bringing the issue of [[Unidentified Anomalous Phenomena]] (UAP) to the forefront.[^1]
 
 ### The Tic Tac Encounter
 

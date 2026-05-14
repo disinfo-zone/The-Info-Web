@@ -1,11 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Client
-  - Louisiana
-  - 1970s
-  - Troop_137
+  - OrganizedCrime
+summary: "Hugh Mellor was a client of the boy prostitution ring involving Troop 137 in New Orleans during the mid-1970s."
 ---
+
 Hugh Mellor was a client of the boy prostitution ring involving [[Troop 137]] in New Orleans during the mid-1970s. He participated in the exploitation of boys through the scout troop network. Mellor was connected to the operations led by [[Richard Halvorsen]] and others.[^1]
 
 ### Role in Operations

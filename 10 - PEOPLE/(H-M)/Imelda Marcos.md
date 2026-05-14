@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Widow of Philippine President Ferdinand Marcos who was acquitted with Adnan Khashoggi of racketeering and fraud charges in 1990."
+---
 [[Imelda Marcos]] was the widow of the exiled Philippine President [[Ferdinand Marcos]]. In 1990, a [[United States|U.S.]] federal jury in Manhattan acquitted her and [[Adnan Khashoggi]] of racketeering and fraud.[^1]
 
 ---

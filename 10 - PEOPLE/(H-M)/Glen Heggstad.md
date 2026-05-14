@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - Lawyer
+summary: "According to the State Attorney General's office, Jimmy Hughes offered to hire Heggstad to murder Alvarez, who was going to 'blow the whistle' on illegal weapons manufacturing deals signed off by Cabazon tribal leadership."
+---
 [[Glen Heggstad]] is a local businessman who founded Coachella Valley Judo and Jiu-Jitsu in Palm Desert. He is also a self-proclaimed former [[Hells Angels]] biker. Heggstad was accused by the [[California Attorney General's Office|California Attorney General's Office]] of conspiring to murder [[Fred Alvarez]], the Cabazon Indian vice chairman.[^1]
 
 According to the State Attorney General's office, [[Jimmy Hughes]] offered to hire Heggstad to murder Alvarez, who was going to "blow the whistle" on illegal weapons manufacturing deals signed off by Cabazon tribal leadership. Heggstad claimed he cooperated with detectives, telling them Hughes told him that he had murdered Alvarez, but Heggstad denied any involvement in the plot to kill three people.[^1]

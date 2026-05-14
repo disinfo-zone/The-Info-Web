@@ -1,3 +1,10 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+  - Politician
+summary: "Pender played a significant role in FIDCO's activities in Lebanon."
+---
 [[George K. Pender]] was a Director of [[First Intercontinental Development Corporation|FIDCO]] and a former Director of the Pacific Ocean area for Burns & Roe, Inc., an international engineering and construction corporation. He also served as a Senior Engineer Consultant to Burns & Roe, Inc.[^1]
 
 Pender played a significant role in [[First Intercontinental Development Corporation|FIDCO]]'s activities in [[Lebanon]]. A letter dated July 12, 1983, from Pender to [[Amin Gamayel]], the president of [[Lebanon]], indicated [[First Intercontinental Development Corporation|FIDCO]]'s interest in arranging financing for the redevelopment of [[Lebanon]], specifically mentioning the rebuilding of Damour and Alkhyam. This letter also noted that Pender had previously visited Beirut in February and May 1983 to discuss [[First Intercontinental Development Corporation|FIDCO]]'s participation, with meetings held with the Chamouns, [[Maurice Ghanem]], and Mourad Baroudy.[^1]

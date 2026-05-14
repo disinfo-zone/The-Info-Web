@@ -8,6 +8,8 @@ tags:
   - research
   - USA
 description: The Office of Naval Research (ONR) is an agency within the U.S. Department of the Navy responsible for the science and technology programs of the U.S. Navy and Marine Corps.
+category: "U.S. Government"
+summary: "The Office of Naval Research (ONR) is an agency within the U.S. Navy responsible for the science and technology programs of the U.S. Navy and Marine Corps."
 ---
 
 The [[Office of Naval Research]] (ONR) is an agency within the [[U.S. Navy]] responsible for the science and technology programs of the [[U.S. Navy]] and Marine Corps. It funds basic and applied research to develop new technologies and capabilities for naval operations.[^1]

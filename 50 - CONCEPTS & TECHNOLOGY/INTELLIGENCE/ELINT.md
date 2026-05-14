@@ -6,6 +6,8 @@ tags:
   - intelligence
   - electronic
 description: ELINT (Electronic Intelligence) refers to intelligence gathered from the interception and analysis of electronic signals, excluding communications intelligence.
+category: "Intelligence Concept"
+summary: "ELINT (Electronic Intelligence) is a category of intelligence gathering that involves the interception and analysis of electronic signals, excluding communications intelligence (COMINT)."
 ---
 
 ELINT (Electronic Intelligence) is a category of intelligence gathering that involves the interception and analysis of electronic signals, excluding communications intelligence (COMINT). This often includes things like the radar signatures of enemy air defense systems and telemetry signals for missiles and satellites.[^1]

@@ -1,11 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Accomplice
-  - Illinois
-  - 1970s
-  - John_Wayne_Gacy_Case
+summary: "David Cram was a 20-year-old employee of John Wayne Gacy's construction company, PDM, and began living with Gacy at his Norwood Park house in May 1976."
 ---
+
 David Cram was a 20-year-old employee of [[John Wayne Gacy]]'s construction company, [[Painting Decorating Maintenance|PDM]], and began living with Gacy at his [[Norwood Park]] house in May 1976. The house served as both a residence and a home office for the business, where Cram resided on and off alongside another employee, [[Michael Rossi]]. Cram worked for Gacy during a period when multiple young men associated with the company went missing.[^1]
 
 ### Role in Gacy Operations

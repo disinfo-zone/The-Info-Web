@@ -1,13 +1,16 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Charlie Rose
+category: "Key Figures"
 tags:
-  - person
-  - politician
-  - government
-description: Charlie Rose was a U.S. Congressman from North Carolina who chaired the House Intelligence Committee's Evaluation Subcommittee and was a staunch supporter of the Grill Flame program.
+  - Person
+  - Stargate
+  - CIA
+  - Military
+  - RemoteViewer
+  - SRI
+  - DIA
+summary: "U.S. Congressman from North Carolina who chaired the House Intelligence Evaluation Subcommittee and was a staunch advocate of the Grill Flame remote viewing program."
 ---
+
 Charlie Rose was a U.S. Congressman from North Carolina and a Democrat who chaired the House Intelligence Committee's Evaluation Subcommittee. He became a staunch supporter of the [[STARGATE PROJECT|Grill Flame]] program after being briefed on it in the late 1970s by General [[Edmund Thompson]] and [[Jack Vorona]], the head of the [[Defense Intelligence Agency|DIA]]'s Scientific and Technical Intelligence Directorate.[^1]
 
 Rose toured the remote viewing facilities at both [[Stanford Research Institute]] (SRI) and [[Fort Meade]], chatting with remote viewers and witnessing practice sessions. He even discussed the program with President [[Jimmy Carter]]. Despite the fact that his constituents were in the Bible Belt, where dabbling in the paranormal was often viewed with suspicion, Rose publicly advocated for the program, believing it to be a "hell of a cheap radar system."[^1]

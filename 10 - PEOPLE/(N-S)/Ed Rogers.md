@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Ed Rogers
+category: "Key Figures"
 tags:
-  - person
+  - Person
+  - Stargate
   - CIA
-  - intelligence
-description: Ed Rogers was the chief of Staff D at the CIA, an office specializing in small-scale signals intelligence collection. He was skeptical of psychic intelligence, citing the "giggle factor."
+  - RemoteViewer
+summary: "Ed Rogers was the chief of Staff D (later known as the Office of SIGINT Operations) at the CIA, an office specializing in small-scale signals intelligence (SIGINT) collection."
 ---
+
 Ed Rogers was the chief of Staff D (later known as the Office of SIGINT Operations) at the [[Central Intelligence Agency|CIA]], an office specializing in small-scale signals intelligence (SIGINT) collection. He was a key figure in the internal debates within the CIA regarding the use of psychic intelligence, or [[PSI-INT]].[^1]
 
 Rogers was highly skeptical of incorporating psychic data into high-stakes operations, primarily due to what he termed the "giggle factor"—the fear of ridicule and operational compromise if it became widely known that his office was consulting psychics. This skepticism was evident when [[Norm Everheart]] proposed using [[Pat Price]]'s remote viewing abilities to confirm the layout of a Chinese Embassy basement.[^1]

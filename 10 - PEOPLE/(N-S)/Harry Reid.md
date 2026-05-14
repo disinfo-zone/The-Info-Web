@@ -1,3 +1,12 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+  - Military
+  - Politician
+summary: "Senator Reid's interest in the UAP topic was sparked by his position as the senator for Nevada, the home of the highly classified Area 51 military installation."
+---
 [[Harry Reid]] was a United States Senator from Nevada who served as the Senate Majority Leader. He was a pivotal figure in the establishment and funding of the [[Advanced Aerospace Threat Identification Program]] (AATIP) and a staunch supporter of the [[Unidentified Anomalous Phenomena]] (UAP) disclosure movement until his death in 2021.[^1]
 
 ### Interest in UAP
@@ -6,7 +15,7 @@ Senator Reid's interest in the UAP topic was sparked by his position as the sena
 
 ### Funding for AATIP
 
-In 2007, Senator Reid, along with Senators [[Ted Stevens]] of Alaska and [[Daniel Inouye]] of Hawaii, secured $22 million in funding for the [[Advanced Aerospace Weapons System Applications Program]] (AAWSAP), the precursor to AATIP. These three men controlled congressional spending for "black budget" Pentagon programs, and their bipartisan support was essential for the program's creation. Reid continued to be a champion for the program, later securing an additional $10 million in funding for AATIP, though the funds were ultimately diverted to another program.[^1]
+In 2007, Senator Reid, along with Senators [[Ted Stevens]] of Alaska and [[Daniel Inouye]] of Hawaii, secured $22 million in funding for the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to AATIP. These three men controlled congressional spending for "black budget" Pentagon programs, and their bipartisan support was essential for the program's creation. Reid continued to be a champion for the program, later securing an additional $10 million in funding for AATIP, though the funds were ultimately diverted to another program.[^1]
 
 ### Support for Disclosure
 

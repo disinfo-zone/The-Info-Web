@@ -1,13 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Child_Abuser
-  - Informant
-  - Michigan
-  - 1970s
-  - North_Fox_Island
-  - Child_Pornography
+summary: "Gerald Richards, full name Gerald Stewart Richards, was a high school gym teacher in Port Huron, Michigan, who also worked as a masseuse, magician, hypnotist, and Republican candidate for local government."
 ---
+
 Gerald Richards, full name Gerald Stewart Richards, was a high school gym teacher in Port Huron, Michigan, who also worked as a masseuse, magician, hypnotist, and Republican candidate for local government. He operated a naturopathy clinic in a commercial basement where he molested boys during massage therapy sessions, including a 12-year-old neighbor he used as an assistant in his magic shows. Richards drove an orange Pinto marked "Jerry the Magician" and had previously set up Brother Paul’s Educational Entertainment Missions in 1970 as a non-profit for safety instruction and religious education through magic and arts. In 1975, he placed an advertisement for his magic show in the pedophile newsletter Better Life Monthly, leading to his contact with [[Francis Shelden]]. Richards described himself as peripheral to a nationwide child pornography operation but confessed to extensive involvement after his arrest.[^1]
 
 ### Criminal Activities

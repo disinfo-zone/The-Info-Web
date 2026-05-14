@@ -4,12 +4,28 @@ tags:
   - Private
   - Technology
   - Israel
+  - PROMIS
+category: "Private Organization"
+created: 2024-04-25
+updated: 2026-05-01
+summary: "Degem was an Israeli-controlled computer company with operations in Israel, Guatemala, and Transkei, alleged to have been the primary vehicle through which Robert Maxwell distributed backdoored PROMIS software to foreign governments worldwide."
 ---
-[[Degem]] was an [[Israel|Israeli]]-owned computer business with operations in [[Israel]], [[Guatemala]], and [[Transkei]] (a Bantustan "homeland" controlled by [[South Africa]]). It was initially controlled by [[Israel|Israel]]'s military intelligence and provided computer services to the [[South Africa|South Africans]] and to [[Guatemala]].[^1]
+[[Degem]] was an Israeli-controlled computer company with operations in [[Israel]], [[Guatemala]], and [[Transkei]] (a Bantustan homeland controlled by [[South Africa]]). It was originally controlled by Israeli military intelligence and provided computer services to South Africa and Guatemala before passing into the hands of [[Robert Maxwell]].[^1]
 
-[[Robert Maxwell]] took over [[Degem]] after its previous owner, [[Yaacov Meridor]], faced a scandal. Maxwell acquired [[Degem]] with the intention of using it to market the [[PROMIS]] software, distancing himself personally from the spy project. Through [[Degem]], Maxwell sold [[PROMIS]] to the [[East Bloc]] and other countries, including [[Brazil]], [[Chile]], [[Colombia]], and [[Nicaragua]]. An abridged version of [[PROMIS]], including the trap door, was also sold by [[Degem]] to [[Credit Suisse]] in 1985. [[Degem]] even sold [[PROMIS]] to the [[Soviet Union]] in the late 1980s, with [[Robert Gates]] lifting export barriers for [[IBM]] computers to the Soviets, which were then fitted with the trap-doored [[PROMIS]] by [[Degem]] technicians.[^1]
+### Ownership and PROMIS Distribution
 
-In [[Guatemala]], [[Degem]], through [[Manfred Herrmann|Herrmann's]] [[Sedra]] company, moved into offices, railway stations, and airports, and set up terminals at remote roadblocks, contributing to a system that tracked suspected dissidents. In [[Transkei]], [[Degem]] was instrumental in implementing [[PROMIS]] as a "killing machine" against black revolutionary groups, including the [[African National Congress]], by providing information that led to the disappearance or maiming of activists.[^1]
+Maxwell acquired Degem after its previous owner, [[Yaacov Meridor]], faced a scandal. According to Gordon Thomas's account in *Gideon's Spies* (1999), drawing on Israeli intelligence sources, Maxwell used Degem as his principal commercial vehicle for distributing a surveillance-modified version of [[PROMIS]] software to foreign governments and institutions, with the operation coordinated through [[Rafael Eitan]] and [[LAKAM]]. The modified PROMIS contained a covert trapdoor enabling remote monitoring of database queries.[^2]
+
+Through Degem, Maxwell sold PROMIS-derived software to agencies in the United Kingdom, Australia, Canada, South Korea, Poland, Brazil, Chile, Colombia, and Nicaragua. In 1985, an abridged version was sold to [[Credit Suisse]], providing intelligence access to Israeli accounts held there. In the late 1980s, Degem technicians installed the trapdoor-equipped software on IBM computers delivered to the Soviet Union, an arrangement facilitated by the lifting of IBM export restrictions.[^1]
+
+In Guatemala, Degem worked through [[Manfred Herrmann]]'s Sedra company to deploy PROMIS terminals at offices, railway stations, airports, and remote roadblocks, contributing to a surveillance system tracking suspected dissidents. In Transkei, Degem's implementation of PROMIS was alleged to have been used as a tool against black revolutionary groups including the [[African National Congress]], providing information that led to the detention, disappearance, or death of activists.[^1]
+
+### Official Findings
+
+The [[Nicholas J. Bua|Bua Report]] (1993) found no credible evidence that enhanced PROMIS had been distributed to any foreign entity, concluding that only public-domain versions of the software had been shared internationally. The report found the allegations of a Maxwell-Degem distribution network to rest on unsupported claims from sources it characterized as unreliable.[^3]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992. (Hereafter, "Profits of War")
+
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992.
+[^2]: Thomas, Gordon. *Gideon's Spies: The Secret History of the Mossad.* St. Martin's Press, 1999.
+[^3]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

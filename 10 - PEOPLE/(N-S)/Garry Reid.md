@@ -1,3 +1,10 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "According to Elizondo, Garry Reid was part of a hostile leadership environment within the OUSD(I) that was determined to undermine and dismantle AATIP."
+---
 [[Garry Reid]] is a former [[Department of Defense]] (DoD) official who served as the Director of Operations for the [[Defense Intelligence Agency]] (DIA) and later as a senior leader in the Office of the Undersecretary of Defense for Intelligence (OUSD(I)). He is described by [[Luis Elizondo]] as a significant antagonist who actively worked to obstruct the [[Advanced Aerospace Threat Identification Program]] (AATIP) and later launched a campaign of reprisal against Elizondo after his resignation.[^1]
 
 ### Opposition to AATIP and Luis Elizondo

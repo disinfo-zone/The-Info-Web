@@ -3,6 +3,8 @@ tags:
   - Event
   - Conflict
   - Cold War
+category: "Major Conflict"
+summary: "1950-1953 conflict between North and South Korea that involved U.S. intelligence programs and connections to later covert operations in Southeast Asia."
 ---
 The Korean War was a conflict that began in 1950, involving North Korea (supported by China and the Soviet Union) and South Korea (supported by the United Nations, primarily the United States). During this period, the [[United States]] was preoccupied with the war, as well as economic and social conditions in Europe, and the political battle with the [[Soviet Union]].[^1]
 

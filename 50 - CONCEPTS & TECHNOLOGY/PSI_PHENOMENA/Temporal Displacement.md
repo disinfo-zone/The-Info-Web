@@ -7,6 +7,8 @@ tags:
   - psi
   - remoteviewing
 description: Temporal displacement in remote viewing refers to the phenomenon where a psychic perceives a target in a different time period (past or future) than the present moment.
+category: "Psi Phenomenon"
+summary: "Temporal Displacement in Remote Viewing refers to the phenomenon where a psychic perceives a target in a different time period (past or future) than the present moment."
 ---
 
 [[Temporal Displacement]] in [[Remote Viewing]] refers to the phenomenon where a psychic perceives a target in a different time period (past or future) than the present moment. This can manifest as a remote viewer describing a location as it existed years ago, or even as it might exist in the future ([[Precognition]]).[^1]

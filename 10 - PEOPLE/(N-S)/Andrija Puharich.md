@@ -1,16 +1,12 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Andrija Puharich
+category: "Key Figures"
 tags:
-  - person
-  - researcher
-  - parapsychologist
-  - Physician
-  - Scientist
+  - Person
+  - Stargate
   - CIA
-  - Military
+summary: "Henry Karel “Andrija” Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S."
 ---
+
 
 Henry Karel “Andrija” Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S. government's investigations into [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]] during the [[Cold War]]. His lifelong quest to understand the nature of consciousness and anomalous mental phenomena led him to explore the intersection of science, mysticism, and the supernatural[^1].
 
@@ -24,7 +20,7 @@ The Warrenton Estate, Puharich's home and laboratory, became the center of his r
 
 Puharich also investigated audio aberrations, collaborating with [[Warren S. McCulloch]], a cybernetics founder and [[Central Intelligence Agency]] asset. They discovered that a machinist hearing voices was actually picking up radio signals due to carborundum dust on his dental fillings, a finding that garnered attention from *The New York Times* and the [[U.S. Navy]][^1].
 
-Puharich's work caught the attention of the [[Pentagon]]. In 1952, Lieutenant Colonel [[John B. Stanley]] of the [[U.S. Army]]'s Office of the Chief of Psychological Warfare, who also served as an Army liaison to the CIA, met with Puharich. This led to Puharich delivering classified briefings and being recalled to military service in March 1953, where he worked at the [[U.S. Army Chemical Center]] in Edgewood, Maryland[^1]. His task was to find a drug that could enhance ESP, mirroring the [[CIA]]'s quest for a truth serum[^1].
+Puharich's work caught the attention of the [[Pentagon]]. In 1952, Lieutenant Colonel [[John B. Stanley]] of the [[U.S. Army]]'s Office of the Chief of Psychological Warfare, who also served as an Army liaison to the CIA, met with Puharich. This led to Puharich delivering classified briefings and being recalled to military service in March 1953, where he worked at the [[U.S. Army Chemical Center]] in Edgewood, Maryland[^1]. His task was to find a drug that could enhance ESP, mirroring the [[Central Intelligence Agency]]'s quest for a truth serum[^1].
 
 During this period, Puharich became obsessed with the hallucinogenic mushroom *teonanáctl* (God's flesh), after [[Alice Astor Bouverie]] informed him of [[Harry Stump]]'s channeling of an "Egyptian persona" that spoke of such a drug. Puharich learned of [[R. Gordon Wasson]]'s expeditions to Mexico in search of the mushroom and briefed his Army superiors on it[^1]. However, the CIA, through [[James Moore]], bypassed Puharich and approached Wasson directly, leading to Puharich being sidelined from the [[Project MKUltra|MKULTRA Subproject 58]][^1].
 
@@ -38,7 +34,7 @@ Puharich continued to work on secret government contracts, including for [[NASA]
 
 His interests also extended to psychic healing, leading him to Brazil to study [[Arigo]], a healer who reportedly performed surgeries with a pocketknife. Puharich documented Arigo's work, hoping to secure military interest in "psychic healing on the battlefield," though without success[^1].
 
-In 1970, Puharich met [[Itzhak Bentov]], who introduced him to [[Uri Geller]], an Israeli with extraordinary psychokinetic and telepathic abilities. Puharich became obsessed with Geller, believing he could secure a government research contract if he could test him under laboratory conditions. His efforts led to Geller being tested by the [[CIA]] at [[Stanford Research Institute]] (SRI), though the CIA viewed Puharich as a "potential liability"[^1]. Puharich acted as Geller's official manager, often involving the press, which complicated the CIA's desire for secrecy[^1].
+In 1970, Puharich met [[Itzhak Bentov]], who introduced him to [[Uri Geller]], an Israeli with extraordinary psychokinetic and telepathic abilities. Puharich became obsessed with Geller, believing he could secure a government research contract if he could test him under laboratory conditions. His efforts led to Geller being tested by the [[Central Intelligence Agency]] at [[Stanford Research Institute]] (SRI), though the CIA viewed Puharich as a "potential liability"[^1]. Puharich acted as Geller's official manager, often involving the press, which complicated the CIA's desire for secrecy[^1].
 
 Throughout his life, Puharich maintained a theory that extraterrestrials were trying to send messages to humans through psychic people, and that [[Extremely Low Frequency (ELF) Waves|ELF waves]] were responsible for the sicknesses of the age[^1].
 

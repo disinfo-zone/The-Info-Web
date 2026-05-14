@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Don Keach
+- Don Keach
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Explorer
-  - Naval Officer
+  - RemoteViewer
+summary: "Don Keach was a renowned deep-sea explorer and former naval officer."
 ---
+
 # Don Keach
 
 Don Keach was a renowned deep-sea explorer and former naval officer. He is famous for his role as the submarine pilot who, in 1966, located a lost hydrogen bomb lying on the ocean floor off the coast of Palomares, Spain, after it was jettisoned from a B-52 bomber during a midair collision[^1].

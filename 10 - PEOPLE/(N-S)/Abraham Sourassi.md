@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Engineer
+  - Nuclear
   - Israel
+summary: "Abraham Sourassi was a senior Israeli engineer at Dimona, responsible for building the reprocessing plant."
 ---
+
 Abraham Sourassi was a senior Israeli engineer at [[Dimona]], responsible for building the reprocessing plant. He endeared himself to his countrymen by declaring, "Good riddance," upon hearing of [[Charles de Gaulle]]'s disenchantment with [[Dimona]], reflecting the typical Israeli attitude of self-reliance.[^1]
 
 ### Footnotes

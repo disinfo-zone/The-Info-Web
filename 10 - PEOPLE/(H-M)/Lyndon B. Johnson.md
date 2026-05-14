@@ -1,9 +1,12 @@
 ---
+category: "World War II & Nazi Era"
 tags:
   - Person
-  - President
-  - USA
+  - WW2
+  - Nazi
+summary: "Johnson's ties to Israel were strong, influenced by his close advisers like Abe Fortas and Edwin L."
 ---
+
 Lyndon B. Johnson was the 36th President of the [[United States]], serving from 1963 to 1969. He was initially left in the dark on sensitive national security issues by President [[John F. Kennedy]] and his top aides, and reportedly went "berserk" upon being briefed in by the [[Central Intelligence Agency|CIA]] after Kennedy's assassination.[^1]
 
 Johnson's ties to [[Israel]] were strong, influenced by his close advisers like [[Abe Fortas]] and [[Edwin L. Weisl, Sr.]], and his knowledge of [[Abraham Feinberg]]'s fundraising skills. A deeper link stemmed from his visit to the Nazi concentration camp at [[Dachau]] at the end of World War II, which left him profoundly shaken. His sensitivity to the plight of European Jews began even before the war, when as a young congressman, he helped German refugees gain asylum in [[America]], circumventing red tape and preventing deportations.[^1]

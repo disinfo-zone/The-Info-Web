@@ -10,6 +10,8 @@ tags:
   - cult
   - washington-dc
   - 1987
+category: "Esoteric & Historical Concept"
+summary: "On February 4, 1987, police in Tallahassee, Florida received a call about six dishevelled children in a park under the supervision of two well-dressed men."
 ---
 
 ### The Tallahassee Discovery

@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Henry Belk
+- Henry Belk
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Benefactor
-  - Businessman
+  - RemoteViewer
+summary: "Henry Belk was a department store tycoon and a wealthy benefactor of Andrija Puharich's research into ESP and other anomalous mental phenomena."
 ---
+
 # Henry Belk
 
 Henry Belk was a department store tycoon and a wealthy benefactor of [[Andrija Puharich]]'s research into [[Extrasensory Perception|ESP]] and other anomalous mental phenomena. He was part of the elite circle of individuals who supported the [[Round Table Foundation]] in Maine[^1].

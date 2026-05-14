@@ -1,11 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Informant
-  - Louisiana
-  - 1970s
-  - Troop_137
+  - OrganizedCrime
+summary: "Lewis Sialle served as an associate of Troop 137 in New Orleans during the mid-1970s."
 ---
+
 Lewis Sialle served as an associate of [[Troop 137]] in New Orleans during the mid-1970s. He was involved in the boy prostitution ring connected to the scout troop. Sialle provided testimony in court proceedings related to the case.[^1]
 
 ### Testimony

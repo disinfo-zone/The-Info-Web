@@ -1,17 +1,20 @@
 ---
 aliases:
-  - Eugene Lessman
+- Eugene Lessman
   - Gene Lessman
+category: "Psychics & Remote Viewers"
 tags:
   - Person
+  - RemoteViewer
   - Military
-  - Operations Officer
+summary: "**Eugene 'Gene' Alden Lessman** was a U.S."
 ---
+
 **Eugene "Gene" Alden Lessman** was a U.S. Army intelligence officer and an important recruiter for "spooky" work according to [[Luis Elizondo]] in his 2024 book, _Imminent_. Known as Gene, he was also known by the name John James Kielty[^2] and passed away in 2019. Like his father before him, Gene spent much of his career in military intelligence and became a lead recruiter for the Army's "Great Skills" program.[^1]
 
 ## Military Service
 
-Gene served three tours in [[Vietnam War|Vietnam]] from December 1966 to 1973[^5], where he served as a [[Green Beret]] in the elite [[Special Operations Group]] (SOG) and was part of the infamous [[Project Phoenix]].[^1] For his service in Vietnam, he received a Purple Heart, Bronze Star, and Air Medal with Valor.[^3]
+Gene served three tours in [[Vietnam|Vietnam]] from December 1966 to 1973[^5], where he served as a [[Green Berets]] in the elite [[Special Operations Group]] (SOG) and was part of the infamous [[Project Phoenix]].[^1] For his service in Vietnam, he received a Purple Heart, Bronze Star, and Air Medal with Valor.[^3]
 
 Following his tours in Vietnam, Gene was posted in Berlin where he ran counter intelligence operations.[^3] After 20 years of distinguished military service, Gene retired from the army and subsequently spent another 20 years in civil service.[^4]
 

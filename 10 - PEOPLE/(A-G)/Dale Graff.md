@@ -1,14 +1,14 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Dale Graff
+category: "Key Figures"
 tags:
-  - person
-  - scientist
-  - military
-  - intelligence
-description: Dale Graff is a U.S. Air Force civilian scientist who played a significant role in the Stargate Project, serving as a project manager and later as the overall manager of the program.
+  - Person
+  - Stargate
+  - CIA
+  - Military
+  - RemoteViewer
+summary: "Graff's interest in psi phenomena stemmed from a personal experience in 1968, where he had a profound out-of-body experience while caught in a rip current."
 ---
+
 
 [[Dale Graff]] is a [[U.S. Air Force]] civilian scientist who played a significant role in the [[STARGATE PROJECT|Stargate Project]]. He worked in the Foreign Technology Division at [[Wright-Patterson Air Force Base]] in Ohio, where he was responsible for keeping the Air Force and [[Department of Defense|DoD]] planners aware of cutting-edge military research in the [[Soviet Union]] and [[China]].[^1]
 

@@ -1,14 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Mel Riley
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - military
-  - psychic
-  - remoteviewer
-description: Mel Riley was a U.S. Army staff sergeant and one of the first remote viewers in the Stargate Project. He was known for his artistic ability and his accuracy in remote viewing sessions.
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+summary: "U.S. Army staff sergeant and one of the original remote viewers in the Stargate Project, known for his artistic rendering of psychic impressions."
 ---
+
 Mel Riley was a U.S. Army staff sergeant and one of the original six remote viewers in the [[STARGATE PROJECT]]. He was recruited into the program, then codenamed [[STARGATE PROJECT|Gondola Wish]], in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 
 Riley was five feet eight, slim and fit, with wavy blond hair and an Irish, vaguely leprechaunish face. He had tattoos of an eagle, a rabbit, and a large winged dragon across his chest. His eyes were often described as wide and intense, as if he were staring inward. He was a morning person, enjoying the quiet calm of the predawn hours.[^1]

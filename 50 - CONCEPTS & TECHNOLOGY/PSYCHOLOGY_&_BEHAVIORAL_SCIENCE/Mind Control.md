@@ -6,9 +6,11 @@ tags:
   - Cold_War
   - Intelligence
   - Behavioral_Modification
+category: "Psychology & Behavioral Science"
+summary: "Mind control as a field of intelligence research emerged from the CIA program MKUltra, which sought to discover effective methods of modifying human behavior to create brainwashed operatives."
 ---
 
-Mind control as a field of intelligence research emerged from the [[CIA]] program [[MKUltra]], which sought to discover effective methods of modifying human behavior to create brainwashed operatives. The objective was to produce agents capable of carrying out their missions unwittingly, thereby obtaining perfect operational security in human intelligence assets, with particular emphasis on assassins. The program operated during the 1950s and 1960s, exploring various techniques to achieve behavioral control.[^1]
+Mind control as a field of intelligence research emerged from the [[Central Intelligence Agency]] program [[Project MKUltra]], which sought to discover effective methods of modifying human behavior to create brainwashed operatives. The objective was to produce agents capable of carrying out their missions unwittingly, thereby obtaining perfect operational security in human intelligence assets, with particular emphasis on assassins. The program operated during the 1950s and 1960s, exploring various techniques to achieve behavioral control.[^1]
 
 The theoretical framework underlying mind control research posited that dissociative states could be induced in subjects through a combination of drugs and hypnosis, leading to the creation of multiple personalities. Researchers understood that trauma could produce similar dissociative states in children, resulting in the development of alternative personalities that could be compartmentalized and activated independently. This understanding formed the basis for experiments that applied both chemical and psychological methods to achieve behavioral modification.[^1]
 

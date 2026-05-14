@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Murray Watt
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - military
-  - officer
-description: Murray "Scotty" Watt was a U.S. Army Major and the commanding officer of the remote viewing unit in the Stargate Project.
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+summary: "Watt, along with Atwater, was responsible for selecting and training the initial remote viewers for the program."
 ---
+
 
 Murray B. "Scotty" Watt was a U.S. Army Lieutenant Colonel and the first commander of the [[STARGATE PROJECT|Gondola Wish]] (later [[STARGATE PROJECT|Grill Flame]]) remote viewing unit. He was two decades older than [[Frederick Atwater|Skip Atwater]], described as a tall and husky man with a bulbous nose and a Boston accent. Watt had a reputation for a volcanic temper, which was said to have hindered his career progression after an incident in Panama where he struck a fellow officer. He was chosen for this obscure and potentially controversial assignment because it was felt he had "little to lose."[^1]
 

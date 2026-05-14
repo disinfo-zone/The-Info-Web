@@ -1,10 +1,18 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+  - Military
+summary: "Elizondo's upbringing was unconventional and deeply shaped by his father, Luis D."
+---
 [[Luis Elizondo]] is a former U.S. Army Counterintelligence Special Agent and former employee of the Office of the Undersecretary of Defense for Intelligence. He is a central figure in the effort to disclose information about [[Unidentified Anomalous Phenomena]] (UAP), due to his role leading the [[Advanced Aerospace Threat Identification Program]] (AATIP), a clandestine [[Pentagon]] program that studied the phenomenon.[^1]
 
 ### Early Life and Paternal Influence
 
 Elizondo's upbringing was unconventional and deeply shaped by his father, [[Luis D. Elizondo III]], a Cuban exile with a revolutionary past. His father had initially fought alongside Fidel Castro against the Batista regime, but turned against Castro after his alignment with the Soviet Union. This led to his participation in the [[Bay of Pigs]] invasion and a subsequent two-year imprisonment in Cuba, an experience that left him volatile and deeply anti-authoritarian. This background led him to provide his son with an intense and unusual education in paramilitary skills from the age of seven. Elizondo was taught to assemble and disassemble firearms like the AR-15 and AK-47, build rocket launchers from PVC pipes, read topographical maps, and even how to hot-wire a car. This was all part of his father's preparation for a planned, but never realized, second invasion of Cuba under an operation known as "Alpha 66."[^1]
 
-Struggling with dyslexia and bullying at school, Elizondo found structure and camaraderie in his high school's Junior ROTC program, which he credits with saving him from a self-destructive path. Despite his academic challenges, he enrolled in the pre-medical program at the University of Miami, double majoring in microbiology and immunology, before enlisting in the [[United States Army|US Army]] in 1995.[^1]
+Struggling with dyslexia and bullying at school, Elizondo found structure and camaraderie in his high school's Junior ROTC program, which he credits with saving him from a self-destructive path. Despite his academic challenges, he enrolled in the pre-medical program at the University of Miami, double majoring in microbiology and immunology, before enlisting in the [[U.S. Army|US Army]] in 1995.[^1]
 
 ### Military and Intelligence Career
 
@@ -14,9 +22,9 @@ His career as an intelligence officer was extensive, involving missions across t
 
 ### Advanced Aerospace Threat Identification Program (AATIP)
 
-In early 2009, Elizondo was approached by [[Jay Stratton]] and a colleague, "[[Rosemary Caine]]," for a role in a highly classified [[Defense Intelligence Agency]] (DIA) program. He was introduced to [[Dr. James Lacatski]], a rocket scientist who revealed the program's true purpose: the investigation of UAP. The program was initially called the [[Advanced Aerospace Weapons System Applications Program]] (AAWSAP) and was funded by a bipartisan group of senators: [[Harry Reid]], [[Ted Stevens]], and [[Daniel Inouye]]. The primary contractor was [[Bigelow Aerospace Advanced Space Studies]] (BAASS), owned by [[Robert Bigelow]], with [[Harold "Hal" Puthoff]] serving as chief scientist.[^1]
+In early 2009, Elizondo was approached by [[Jay Stratton]] and a colleague, "[[Rosemary Caine]]," for a role in a highly classified [[Defense Intelligence Agency]] (DIA) program. He was introduced to [[James Lacatski]], a rocket scientist who revealed the program's true purpose: the investigation of UAP. The program was initially called the [[Advanced Aerospace Threat Identification Program]] (AAWSAP) and was funded by a bipartisan group of senators: [[Harry Reid]], [[Ted Stevens]], and [[Daniel Inouye]]. The primary contractor was [[Bigelow Aerospace Advanced Space Studies]] (BAASS), owned by [[Robert Bigelow]], with [[Hal Puthoff]] serving as chief scientist.[^1]
 
-AATIP investigated numerous UAP cases, developing a framework of five key "observables" to analyze their behavior: hypersonic velocity, instantaneous acceleration, low observability, transmedium travel, and antigravity. A sixth observable, biological effects, was also noted. The program explored a wide range of phenomena, from the 2004 [[Tic Tac Incident]] to the [[Colares Incidents]] in Brazil and the strange occurrences at [[Skinwalker Ranch]].[^1]
+AATIP investigated numerous UAP cases, developing a framework of five key "observables" to analyze their behavior: hypersonic velocity, instantaneous acceleration, low observability, transmedium travel, and antigravity. A sixth observable, biological effects, was also noted. The program explored a wide range of phenomena, from the 2004 [[Tic Tac]] to the [[Colares Incidents]] in Brazil and the strange occurrences at [[Skinwalker Ranch]].[^1]
 
 The program faced intense internal opposition. Elizondo recounts the existence of a powerful, shadowy group of religious fundamentalists within the DoD he calls the "[[Collins Elite]]." This group, he claims, believed the UAP phenomenon was demonic in nature and actively worked to sabotage the investigation. This, coupled with the existence of a deeply entrenched "Legacy Program" within the military-industrial complex that allegedly controlled recovered UAP materials and non-human biologics, created a nearly impossible working environment for AATIP.[^1]
 

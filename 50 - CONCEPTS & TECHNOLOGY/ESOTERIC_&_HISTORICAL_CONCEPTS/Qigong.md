@@ -7,6 +7,8 @@ tags:
   - practice
   - China
 description: Qigong is a traditional Chinese practice of coordinated body posture and movement, breathing, and meditation used for health, spirituality, and martial arts training.
+category: "Esoteric & Historical Concept"
+summary: "Qigong is a traditional Chinese practice of coordinated body posture and movement, breathing, and meditation used for health, spirituality, and martial arts training."
 ---
 
 [[Qigong]] is a traditional Chinese practice of coordinated body posture and movement, breathing, and meditation used for health, spirituality, and martial arts training. It is based on the concept of [[qi]], or vital energy, which is believed to flow through the body.[^1]

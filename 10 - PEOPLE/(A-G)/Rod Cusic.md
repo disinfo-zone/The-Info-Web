@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Cusic, a seventeen-year veteran, was ultimately forced out of the department and retired on stress leave."
+---
 [[Rod Cusic]] was a deputy in the Mariposa Sheriff's Department and a friend of [[Ron Van Meter]]. He was part of the search party for Van Meter after his alleged boating accident on Lake McClure. Cusic was one of the deputies who believed Van Meter was murdered after uncovering drug trafficking within the sheriff's department.[^1]
 
 Cusic, a seventeen-year veteran, was ultimately forced out of the department and retired on stress leave. He later became involved with [[D.I.G. (Decency in Government)]], an organization formed by deputies and grand jurors to expose corruption in Mariposa County.[^1]

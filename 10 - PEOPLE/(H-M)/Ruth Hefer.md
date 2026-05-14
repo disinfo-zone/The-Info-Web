@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Ruth Hefer
+- Ruth Hefer
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Journalist
+  - RemoteViewer
+summary: "Ruth Hefer was a journalist who reported on Uri Geller's purported psychic abilities."
 ---
+
 # Ruth Hefer
 
 Ruth Hefer was a journalist who reported on [[Uri Geller]]'s purported psychic abilities. In the fall of 1970, while Geller was giving a [[Telepathy|telepathy]] demonstration at the Tzavta Theater in Tel Aviv, he became physically ill and claimed that [[Gamal Abdel Nasser]], the president of [[Egypt]], "had just died or is about to die"[^1].

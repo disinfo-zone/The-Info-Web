@@ -10,6 +10,8 @@ tags:
   - international-network
   - pedophile-information-exchange
   - child-sex-tourism
+category: "Esoteric & Historical Concept"
+summary: "Francis Duffield Shelden belonged to an old-money establishment family in Michigan, with lineage tracing back to a governor, senator, and United States Secretary of War."
 ---
 
 ### The North Fox Island Operation

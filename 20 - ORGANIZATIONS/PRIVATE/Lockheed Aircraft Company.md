@@ -4,8 +4,10 @@ tags:
   - Private
   - Aerospace
   - USA
+category: "Private Organization"
+summary: "The Lockheed Aircraft Company is an USA aerospace manufacturer that developed advanced military aircraft and became involved in a bribe scandal affecting Israel politics."
 ---
-The [[Lockheed Aircraft Company]] is an [[USA|American]] aerospace manufacturer that developed advanced military aircraft and became involved in a bribe scandal affecting [[Israel|Israeli]] politics.
+The [[Lockheed Aircraft Company]] is an [[United States|American]] aerospace manufacturer that developed advanced military aircraft and became involved in a bribe scandal affecting [[Israel|Israeli]] politics.
 
 ### U-2 Spy Plane Development
 
@@ -17,5 +19,5 @@ In 1976, a telegram intercepted by [[Unit 8200]] revealed details of bribes paid
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. (Hereafter, "Profits of War") 
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. 
 [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 4.

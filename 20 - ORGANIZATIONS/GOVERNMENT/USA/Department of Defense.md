@@ -9,9 +9,11 @@ tags:
   - Defense
   - USA
 description: The Department of Defense (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States Armed Forces.
+category: "U.S. Government"
+summary: "The Department of Defense (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States..."
 ---
 
-The [[Department of Defense]] (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the [[United States Armed Forces]].[^1]
+The [[Department of Defense]] (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the [[United States]].[^1]
 
 In the context of psychic research, the DoD played a significant role, particularly after the [[Central Intelligence Agency|CIA]]'s initial involvement. The DoD became the primary sponsor of the [[STARGATE PROJECT|Stargate Project]], overseeing its various phases and applications for military and intelligence purposes. Figures like [[William Perry]] and [[Richard DeLauer]] were involved in funding decisions for these programs.[^1]
 

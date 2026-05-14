@@ -3,6 +3,8 @@ tags:
   - Organization
   - Military
   - USA
+category: "U.S. Government"
+summary: "The Strategic Air Command (SAC) was a United States Air Force command responsible for the nation's strategic nuclear deterrence."
 ---
 The Strategic Air Command (SAC) was a United States Air Force command responsible for the nation's strategic nuclear deterrence. In the mid-1950s, SAC's American missiles and bombers were used to target and map Soviet sites, utilizing intelligence gathered by the [[U-2 Spy Plane]].[^1]
 

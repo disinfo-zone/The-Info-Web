@@ -6,6 +6,8 @@ tags:
   - Brussels
   - X-Dossier
   - CSP
+category: "Private Organization"
+summary: "Societe Generale de Banque (Society General) was the largest financial firm in Belgium, controlled by a fraternity of families who provided most of the funding for Parti Social Chretien (Christian Social Party, CSP) political campaigns."
 ---
 Societe Generale de Banque (Society General) was the largest financial firm in Belgium, controlled by a fraternity of families who provided most of the funding for Parti Social Chretien (Christian Social Party, CSP) political campaigns. A bulk of Belgian industrial firms were controlled by the holding company. A group of prominent figures involved with the CSP and this financial firm were identified in the [[X-Dossier]] as powerful figures in a network of child abusers linked to [[Jean-Michel Nihoul]]. The bank's interconnected web of political and financial power placed it at the center of the Belgian establishment implicated in the [[X-Dossier]] allegations.[^1]
 

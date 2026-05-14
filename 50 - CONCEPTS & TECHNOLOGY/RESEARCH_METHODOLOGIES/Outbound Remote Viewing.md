@@ -7,6 +7,8 @@ tags:
   - remoteviewing
   - methodology
 description: Outbound Remote Viewing is a remote viewing methodology where an experimenter visits a target site while the psychic attempts to perceive their surroundings.
+category: "Research Methodology"
+summary: "Outbound Remote Viewing is a Remote Viewing methodology where an 'outbound' experimenter visits a target site while the psychic, typically back at a laboratory, attempts to perceive and describe the experimenter's surroundings."
 ---
 
 [[Outbound Remote Viewing]] is a [[Remote Viewing]] methodology where an "outbound" experimenter visits a target site while the psychic, typically back at a laboratory, attempts to perceive and describe the experimenter's surroundings. This method allows for richer feedback, as the psychic can later visit the actual site to compare their impressions with reality.[^1]

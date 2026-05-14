@@ -1,11 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Client
-  - Louisiana
-  - 1970s
-  - Troop_137
+  - OrganizedCrime
+summary: "Client of the Troop 137 boy prostitution ring in New Orleans during the mid-1970s, connected to a broader child exploitation network."
 ---
+
 Richard C. Jacobs was a client of the boy prostitution ring involving [[Troop 137]] in New Orleans during the mid-1970s. He participated in the exploitation of boys through the scout troop network. Jacobs was connected to the operations led by [[Richard Halvorsen]] and others.[^1]
 
 ### Role in Operations

@@ -7,6 +7,8 @@ tags:
   - psi
   - psychokinesis
 description: The Geller effect refers to the apparent ability of individuals to bend metal or influence electronic devices after witnessing Uri Geller perform such feats.
+category: "Esoteric & Historical Concept"
+summary: "The 'Geller Effect' refers to the phenomenon where individuals, particularly children and teenagers, reportedly become able to bend metal or influence electronic devices after witnessing Uri Geller perform such feats."
 ---
 
 The "[[Geller Effect]]" refers to the phenomenon where individuals, particularly children and teenagers, reportedly become able to bend metal or influence electronic devices after witnessing [[Uri Geller]] perform such feats. This secondary effect of Geller's demonstrations was of interest to the [[Central Intelligence Agency|CIA]] and the Army Research Institute for the Behavioral and Social Sciences, as it suggested a potential for widespread psychokinetic influence.[^1]

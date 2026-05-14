@@ -1,6 +1,11 @@
 ---
-tags: ["Person", "Bank Examiner", "Government Official"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+summary: "In February 1978, Vaez submitted a report on the BCCI that characterized it as a bank dangerously out of control."
 ---
+
 Joseph E. Vaez was an officer in the [[Office of the Comptroller of the Currency|Office of the Comptroller of the Currency (OCC)]].[^1]
 
 ### Role in BCCI Investigation

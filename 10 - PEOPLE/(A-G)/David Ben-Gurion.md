@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Politics
+  - Nuclear
   - Israel
+summary: "David Ben-Gurion, often referred to as the 'Old Man,' was a central figure in the establishment of Israel and served as its first Prime Minister and Defense Minister from 1948 to 1963, with one brief interlude."
 ---
+
 David Ben-Gurion, often referred to as the "Old Man," was a central figure in the establishment of [[Israel]] and served as its first Prime Minister and Defense Minister from 1948 to 1963, with one brief interlude. He was a strong advocate for [[Israel]]'s self-defense and self-reliance, driven by a private nightmare of a second Holocaust at the hands of the Arabs. He believed that [[Israel]]'s security would come through its own capabilities, repeatedly linking the nation's security to its progress in science.[^1]
 
 Ben-Gurion was a key proponent of [[Israel]] developing its own atomic reactor, utilizing indigenous natural uranium and locally manufactured heavy water. He publicly stated that nuclear energy would soon produce electricity and desalinated water to make the [[Negev]] desert bloom. However, his primary goal was the development of a nuclear bomb, with the public statements serving as a cover. He oversaw this effort with the aid of his protégé, [[Shimon Peres]], and [[Ernst David Bergmann]], who headed the Israeli Atomic Energy Commission under the direct jurisdiction of the defense ministry.[^1]

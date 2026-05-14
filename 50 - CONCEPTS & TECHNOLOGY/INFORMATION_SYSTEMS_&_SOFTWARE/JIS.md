@@ -1,4 +1,8 @@
-The Jail Information System (JIS) was developed through a grant to the [[AJI|American Justice Institute]] (AJI) from the [[U.S. Department of Justice]], [[LEAA|Law Enforcement Assistance Administration]] (LEAA), Office of Criminal Justice Programs" The development of JIS was an outgrowth of the need perceived during AJI's LEAA-funded Jail Overcrowding/Pretrial Detainee Program for an
+---
+category: "Information System"
+summary: "The Jail Information System (JIS) was developed through a grant to the AJI (AJI) from the U.S. Department of Justice, LEAA (LEAA), Office of Criminal Justice Programs' The development of JIS was an outgrowth of the need perceived during AJI's..."
+---
+The Jail Information System (JIS) was developed through a grant to the [[AJI|American Justice Institute]] (AJI) from the [[Department of Justice]], [[LEAA|Law Enforcement Assistance Administration]] (LEAA), Office of Criminal Justice Programs" The development of JIS was an outgrowth of the need perceived during AJI's LEAA-funded Jail Overcrowding/Pretrial Detainee Program for an
 automated booking, inmate accounting, and jail population management information system that would store in a single data base all offender transactions from booking through inmate custody and pretrial release management. 
 
 As such, the system was designed to meet the information needs of jails (and pretrial release units) for a defendant-based, "subject-in-process" system that would track individuals from booking at the jail through pre- and post-trial incarceration (or pretrial release). It is a computer-based inmate/defendant record system designed to replace current manual inmate accounting procedures that have proven to be totally inadequate to handle (1) the volume and complexity

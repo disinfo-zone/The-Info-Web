@@ -1,9 +1,11 @@
 ---
+category: "Authors & Journalists"
 tags:
   - Person
   - Journalist
-  - USA
+summary: "American newspaper columnist and close friend of JFK who recounted Kennedy's meetings with Jewish leaders regarding Middle East policy."
 ---
+
 Charles L. Bartlett was an American newspaper columnist and a close friend of [[John F. Kennedy]]. Kennedy recounted to Bartlett a much different version of his meeting with Jewish leaders at [[Abraham Feinberg]]'s apartment, expressing outrage at the suggestion of controlling U.S. Middle East policy in exchange for campaign funds. Bartlett also recalled Kennedy making cynical remarks about [[Myer Feldman]], his presidential point man for Jewish and Israeli affairs.[^1]
 
 ### Footnotes

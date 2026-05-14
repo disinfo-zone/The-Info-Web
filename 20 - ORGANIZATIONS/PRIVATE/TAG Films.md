@@ -8,6 +8,8 @@ tags:
   - 1990s
   - Child_Pornography
   - Snuff_Films
+category: "Private Organization"
+summary: "TAG Films was a video production company established in Amsterdam by three Welsh pedophiles: Alan Williams, John Gay, and Lee Tucker."
 ---
 TAG Films was a video production company established in Amsterdam by three Welsh pedophiles: [[Alan Williams]], [[John Gay]], and [[Lee Tucker]]. Williams managed [[Boys Club 21]] in Amsterdam's Spuistraat district and worked closely with [[Warwick Spinks]], who managed the [[Gay Palace]] nightclub across the street. A Scotland Yard informant named "Frank" described how the group produced a snuff film inside a barn belonging to a German man who frequented the boy brothels managed by Williams and Spinks. The investigation into TAG Films was part of [[Operation Framework]], the joint Scotland Yard and Dutch authorities inquiry conducted between 1992 and 1993 targeting suspected snuff pornography produced by British nationals in Amsterdam.[^1]
 

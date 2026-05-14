@@ -1,9 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Business
-  - Australia
+summary: "In 1987, a contribution was made to the West Australian Labor Party from the CIA, involving Richard Babayan and Earl Brian acting on behalf of Hadron."
 ---
+
 [[Alan Bond]] was a wealthy [[Australia|Australian]] businessman. He was involved in joint ventures with [[Carlos Cardoen]] and had connections to the [[Central Intelligence Agency|CIA]]'s operations.[^1]
 
 In 1987, a contribution was made to the West Australian Labor Party from the [[Central Intelligence Agency|CIA]], involving [[Richard Babayan]] and [[Earl Brian]] acting on behalf of [[Hadron]]. This money was passed on by one of [[Robert Maxwell|Maxwell's]] companies in [[Australia]] to be held by the [[Pergamon Press Trust Fund]] in [[Moscow]]. [[Richard Babayan|Babayan]] handed the check to [[Yosef Goldberg]], who in turn gave it to [[Alan Bond|Bond]] in his role as the guardian of the [[John Curtin Foundation]] funds.[^1]
@@ -15,4 +16,4 @@ In late September 1988, an [[Israel|Israeli]] intelligence officer briefed the h
 [[Alan Bond|Bond]] was convicted of bank fraud in May 1992 and sentenced to two and a half years in prison. He later went bankrupt and became involved in African mining investments.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992. (Hereafter, "Profits of War")
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.

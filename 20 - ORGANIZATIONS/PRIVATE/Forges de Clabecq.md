@@ -6,6 +6,8 @@ tags:
   - Dessy_Family
   - X-Dossier
   - Jean-Paul_Dumont
+category: "Private Organization"
+summary: "Forges de Clabecq was a steel production plant in Belgium owned by the Dessy industrialist family, which held a controlling interest in the factory."
 ---
 Forges de Clabecq was a steel production plant in Belgium owned by the Dessy industrialist family, which held a controlling interest in the factory. The Dessy family's connections to the child abuse networks documented in the [[X-Dossier]] emerged through multiple witnesses. [[Forges de Clabecq]], identified as a member of the family, was named as the mistress and wealthy benefactor of [[Armand Van Ghysegham]], the book publisher and [[Abrasax Institute]] member who was the primary focus of the Abrasax investigation. Two of Ghysegham's former employees stated that [[Forges de Clabecq|Dessy]] financed his activities.[^1]
 

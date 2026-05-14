@@ -1,13 +1,12 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Politician
   - Belgium
-  - 1970s-1990s
-  - Dutroux-Affair
-  - X-Dossier
+summary: "Paul Vanden Boeynants, born 1919 in Brussels, Belgium, served as Prime Minister from 1978 to 1981 and held earlier roles including Minister of the Interior."
 ---
-Paul Vanden Boeynants, born 1919 in Brussels, Belgium, served as Prime Minister from 1978 to 1981 and held earlier roles including Minister of the Interior. A key figure in the Christian Social Party (CSP), Vanden Boeynants focused on security and anti-communist efforts during the Cold War. In the [[X-Dossier]], witness [[Regina Louf]] (X1) accused him of raping her as a child at her grandmother [[Cecile Beernaert]]'s brothel in Knokke-Heist, near the [[Royal Zoute Golf Club]]. Louf described Vanden Boeynants arriving from golf rounds for private sessions where he engaged in sexual acts with her. X1 claimed he attended orgies at the Dolo nightclub and Faulx-les-Tombes chateau organized by [[Michel Nihoul]], where he sodomized her and participated in violent acts. Vanden Boeynants denied the accusations, calling them political fabrications.[^1]
+
+Paul Vanden Boeynants, born 1919 in Brussels, Belgium, served as Prime Minister from 1978 to 1981 and held earlier roles including Minister of the Interior. A key figure in the Christian Social Party (CSP), Vanden Boeynants focused on security and anti-communist efforts during the Cold War. In the [[X-Dossier]], witness [[Regina Louf]] (X1) accused him of raping her as a child at her grandmother [[Cecile Beernaert]]'s brothel in Knokke-Heist, near the [[Royal Zoute Golf Club]]. Louf described Vanden Boeynants arriving from golf rounds for private sessions where he engaged in sexual acts with her. X1 claimed he attended orgies at the Dolo nightclub and Faulx-les-Tombes chateau organized by [[Jean-Michel Nihoul]], where he sodomized her and participated in violent acts. Vanden Boeynants denied the accusations, calling them political fabrications.[^1]
 
 Vanden Boeynants survived a 1974 kidnapping attempt linked to his anti-communist work, released after ransom payment. The X-Dossier, compiled under Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]], included Louf's identification of him from photos as an abuser at Beernaert's brothel, where she was prostituted from age two. Louf detailed him raping her in a bedroom with Beernaert watching. She claimed he participated in orgies with Nihoul, [[Count Leopold Lippens]], and [[Baron Benoit de Bonvoisin]], escalating to violence for blackmail in business and politics. Vanden Boeynants, a CSP leader, had ties to financial institutions like [[Societe Generale de Banque]], backing the party, with family estates in the Ardennes used for hunts alleged by Louf.[^1]
 

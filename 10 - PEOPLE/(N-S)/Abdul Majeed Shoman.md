@@ -1,12 +1,13 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Banking
-  - Business
-  - Jordan
-  - Lebanon
-  - Finance
+  - CIA
+  - NSA
+  - Military
+summary: "Chairman of Arab Bank Limited in Amman who communicated with FIDCO regarding a multi-billion-dollar fund to reconstruct Lebanon, connecting Middle Eastern finance to the PROMIS network."
 ---
+
 
 [[Abdul Majeed Shoman]] was the Chairman and General Manager of [[Arab Bank Limited]] in Amman, [[Jordan]]. He wrote a letter to [[George K. Pender]] of [[First Intercontinental Development Corporation|FIDCO]] on November 23, 1983, stating that Arab Bank, along with a group of other banks, would be glad to cooperate concerning a fund to reconstruct [[Lebanon]]. Shoman confirmed that there would be "no problem to take care of" a financial transaction amounting to "US$ three billion or more," provided the condition in [[Lebanon]] was clear and subject to the approval and counter guarantees of the Lebanese Authority.[^1]
 

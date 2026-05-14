@@ -1,13 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - BBC_Employee
-  - Child_Abuser
-  - UK
-  - 1980s
-  - Operation_Yewtree
-  - VIP_Network
+summary: "David Smith was a former BBC chauffeur and convicted pedophile with 22 prior convictions against young boys, the earliest of which dated back to 1966."
 ---
+
 
 David Smith was a former [[BBC]] chauffeur and convicted pedophile with 22 prior convictions against young boys, the earliest of which dated back to 1966. He was the first person to face charges under [[Operation Yewtree]], the police investigation set up after the revelations of sexual abuse by BBC presenter [[Jimmy Savile]].[^1]
 

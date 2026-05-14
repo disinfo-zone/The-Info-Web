@@ -1,14 +1,15 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Kit Green
+category: "Key Figures"
 tags:
-  - person
+  - Person
+  - Stargate
   - CIA
-  - scientist
-  - neurophysiologist
-description: Christopher "Kit" Green was a CIA analyst and neurophysiologist who oversaw the medical and scientific aspects of the agency's psychic research programs.
+  - RemoteViewer
+  - SRI
+  - NSA
+summary: "Christopher 'Kit Green' was a CIA analyst and neurophysiologist in the Life Sciences Division."
 ---
+
 
 Christopher "[[Kit Green]]" was a [[Central Intelligence Agency|CIA]] analyst and neurophysiologist in the Life Sciences Division. He played a crucial role in the CIA's oversight of the [[STARGATE PROJECT|Stargate Project]], particularly in overseeing the medical and scientific aspects of the program.[^1]
 

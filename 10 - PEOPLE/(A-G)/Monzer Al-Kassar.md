@@ -1,3 +1,13 @@
+---
+category: "Iran-Contra"
+tags:
+  - Person
+  - IranContra
+  - ArmsDealer
+  - CIA
+  - Israel
+summary: "Allegations suggest that the CIA was protecting Al-Kassar's operation because he was cooperating with efforts to free U.S."
+---
 [[Monzer Al-Kassar]] was a Syrian kingpin and arms dealer, often referred to as the world's biggest arms dealer. He was implicated by the private investigative firm [[Interfor]] as being behind the bombing of Pan Am Flight 103. Interfor claimed he oversaw a heroin smuggling ring connected to the Syrian regime.[^1]
 
 Allegations suggest that the [[Central Intelligence Agency|CIA]] was protecting Al-Kassar's operation because he was cooperating with efforts to free U.S. hostages in [[Lebanon]]. It was further alleged that a suitcase intended for heroin was covertly substituted with explosives by the [[Popular Front for the Liberation of Palestine-General Command|PFLP-GC]] and Al-Kassar, unbeknownst to others involved in the alleged drug smuggling operation.[^1]

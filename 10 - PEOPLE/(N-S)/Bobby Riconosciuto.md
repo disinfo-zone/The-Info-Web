@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Patrick Moriarty, Marshall Riconosciuto's business partner, paid for Bobby's stay in an exclusive suite at the Embassy Suites Hotel in Orange County, California."
+---
 [[Bobby Riconosciuto]] is the wife of [[Michael Riconosciuto]]. She lived with him at the time of his arrest in Washington State. Immediately after his arrest, she fled to California with their four children, including their youngest daughter, Elizabeth, fathered by Michael.[^1]
 
 Patrick Moriarty, [[Marshall Riconosciuto]]'s business partner, paid for Bobby's stay in an exclusive suite at the Embassy Suites Hotel in Orange County, California. While there, she had access to office equipment and other amenities. Bobby was instrumental in retrieving [[Michael Riconosciuto]]'s sensitive files and computer equipment from his hidden trailer in Trona, California, near Death Valley. She was instructed by Michael to keep away from the trailer in case she was being surveilled, as these files were considered Michael's "last ace in the hole."[^1]

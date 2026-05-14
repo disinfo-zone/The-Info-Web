@@ -1,4 +1,14 @@
-Ronald LeGrand was the Chief Investigator for the Senate Judiciary Committee. In late April 1988, he telephoned [[Bill Hamilton]], president of [[INSLAW]], to request a full briefing on the disputes between Inslaw and the [[United States Department of Justice|DOJ]]. Hamilton and his [[Nancy Hamilton|wife]] subsequently briefed LeGrand at Inslaw on the morning of May 11. Two days later, LeGrand telephoned Hamilton with information from a trusted senior [[United States Department of Justice|Justice Department]] career official. This source, who had been in the Criminal Division of the [[United States Department of Justice|Justice Department]] since the [[Watergate scandal]] under President [[Richard Nixon]], told LeGrand to convey to the Hamiltons that "What you think happened, did happen. You are not crazy. But you do not know squat about how dirty the [[INSLAW]] case really is. If you ever learn even half of it, you will be sickened. [[INSLAW]] is a lot dirtier for the [[United States Department of Justice|Department of Justice]], in its breadth and depth, than [[Watergate]]. The [[United States Department of Justice|Justice Department]] has been compromised at every level on the [[INSLAW]] case."[^1] 
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+  - DoJ
+  - INSLAW
+summary: "Ronald LeGrand was the Chief Investigator for the Senate Judiciary Committee."
+---
+Ronald LeGrand was the Chief Investigator for the Senate Judiciary Committee. In late April 1988, he telephoned [[Bill Hamilton]], president of [[INSLAW]], to request a full briefing on the disputes between Inslaw and the [[Department of Justice|DOJ]]. Hamilton and his [[Nancy Hamilton|wife]] subsequently briefed LeGrand at Inslaw on the morning of May 11. Two days later, LeGrand telephoned Hamilton with information from a trusted senior [[Department of Justice|Justice Department]] career official. This source, who had been in the Criminal Division of the [[Department of Justice|Justice Department]] since the [[Watergate scandal]] under President [[Richard Nixon]], told LeGrand to convey to the Hamiltons that "What you think happened, did happen. You are not crazy. But you do not know squat about how dirty the [[INSLAW]] case really is. If you ever learn even half of it, you will be sickened. [[INSLAW]] is a lot dirtier for the [[Department of Justice|Department of Justice]], in its breadth and depth, than [[Watergate]]. The [[Department of Justice|Justice Department]] has been compromised at every level on the [[INSLAW]] case."[^1] 
 
 The source also stated that [[Lowell Jensen]] engineered Inslaw's problems and relied on [[Miles Matthews]], [[James Knapp]], and [[James Johnston]]. Miles Matthews allegedly stated in the presence of LeGrand's source that "Lowell [Jensen] wants to get INSLAW out of the way and give the business to friends." The source further indicated that [[John Keeney]], [[Mark Richards]], and [[Philip White]] knew "all about" Jensen's malfeasance, and that while Richards and White were "pretty upset," they would not disclose what they knew except under subpoena and oath. The source also believed that documents related to Project Eagle were shredded inside the DOJ, but suggested Inslaw should subpoena paperwork prepared by a Jensen subordinate regarding the purchase of large quantities of computer hardware for which senior DOJ career staff saw no justification.[^2]
 
@@ -10,4 +20,4 @@ LeGrand informed House investigators and the Special Counsel that, as far as he 
 ### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-[^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

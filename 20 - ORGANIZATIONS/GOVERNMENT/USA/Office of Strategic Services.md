@@ -10,6 +10,8 @@ tags:
   - Historical
   - World War II
 description: The Office of Strategic Services (OSS) was a wartime intelligence agency of the United States during World War II, and a precursor to the CIA.
+category: "U.S. Government"
+summary: "The Office of Strategic Services (OSS) was a wartime intelligence agency of the United States during World War II."
 ---
 
 The [[Office of Strategic Services]] (OSS) was a wartime intelligence agency of the [[United States]] during World War II. It was formed in 1942 to collect and analyze strategic information required by the Joint Chiefs of Staff and to conduct special operations not assigned to other agencies. The OSS was a precursor to the [[Central Intelligence Agency|CIA]], which was established in 1947.[^1]

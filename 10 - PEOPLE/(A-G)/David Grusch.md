@@ -1,3 +1,10 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "In 2023, Grusch went public with his allegations, testifying under oath before the House Oversight Committee's National Security Subcommittee."
+---
 [[David Grusch]] is a former intelligence officer from the [[National Reconnaissance Office]] (NRO) and the [[National Geospatial-Intelligence Agency]] (NGA) who served as the NRO's representative on the [[UAP Task Force]]. He is a key whistleblower who has provided Congress and the Intelligence Community Inspector General with extensive classified information about deeply covert programs that he says have retrieved intact and partially intact craft of non-human origin.[^1]
 
 ### Whistleblower Testimony

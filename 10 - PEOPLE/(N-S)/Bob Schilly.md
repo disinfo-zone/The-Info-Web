@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "California Highway Patrol Sergeant who reported on the Queen's Accident involving Mariposa Sheriff's personnel and Secret Service vehicles."
+---
 [[Bob Schilly]] was a Sergeant in the [[California Highway Patrol|CHP]]. He reported that Mariposa County Sheriff's Sergeant [[Roderick Sinclair]], who was driving with his partner, Deputy [[Rod McKean]], crossed the center line and hit the second of three Secret Service cars, causing it to tumble down a 10-foot embankment. This occurred during the "Queen's accident" on March 5, 1983.[^1]
 
 ---

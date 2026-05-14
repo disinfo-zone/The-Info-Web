@@ -1,14 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - BBC_Personality
-  - Child_Abuser
-  - UK
-  - 1970s
-  - 1980s
-  - Operation_Yewtree
-  - VIP_Network
+  - OrganizedCrime
+summary: "Jimmy Savile was a BBC Radio One DJ and prominent television personality whose death in October 2011 triggered a major police investigation into widespread child abuse at the BBC."
 ---
+
 
 Jimmy Savile was a BBC Radio One DJ and prominent television personality whose death in October 2011 triggered a major police investigation into widespread child abuse at the [[BBC]]. After his death, allegations of sexual abuse surfaced, with "first a few, then many, and finally too many to ignore." The investigation into Savile was launched by Metropolitan Police as [[Operation Yewtree]], which despite being framed as an investigation into Savile, was actually an investigation into the BBC and his associates who could still face prosecution since Savile himself was dead.[^1]
 

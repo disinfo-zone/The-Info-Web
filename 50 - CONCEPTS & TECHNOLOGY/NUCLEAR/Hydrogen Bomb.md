@@ -3,6 +3,8 @@ tags:
   - Concept
   - Nuclear Weapon
   - Physics
+category: "Nuclear Concept"
+summary: "A hydrogen bomb, also known as a fusion device, is a nuclear weapon that derives its explosive energy from nuclear fusion reactions. It is far more powerful than a fission weapon."
 ---
 A hydrogen bomb, also known as a fusion device, is a nuclear weapon that derives its explosive energy from nuclear fusion reactions. It is far more powerful than a fission weapon. The development of the hydrogen bomb, code-named "Super," involved solving two central problems: how to ignite the fusion material and how to make it burn efficiently. Scientists at [[Los Alamos]] developed a two-stage device, where a fission bomb is triggered (the first stage) inside the warhead, and the radiation from this fission device then compresses and ignites a special thermonuclear fuel (the second stage). Deuterium or lithium deuteride can be used as the thermonuclear fuel.[^1]
 

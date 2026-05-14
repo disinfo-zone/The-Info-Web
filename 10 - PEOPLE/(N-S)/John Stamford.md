@@ -1,15 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child_Trafficker
-  - British
-  - Netherlands
-  - 1970s
-  - 1980s
-  - 1990s
-  - Spartacus_Network
-  - Amsterdam
+  - OrganizedCrime
+summary: "John Stamford was a British former Anglican priest who became one of the most significant figures in international child trafficking networks during the 1970s through the 1990s."
 ---
+
 John Stamford was a British former Anglican priest who became one of the most significant figures in international child trafficking networks during the 1970s through the 1990s. Operating primarily from [[Amsterdam]], Stamford built a global criminal enterprise that combined legitimate publishing operations with extensive child trafficking and pornography distribution networks.[^1]
 
 ### Transition from Priesthood to Criminal Enterprise

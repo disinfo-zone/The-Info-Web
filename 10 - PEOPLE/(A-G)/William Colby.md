@@ -1,16 +1,19 @@
 ---
-aliases:
-  - William Colby
+category: "Iran-Contra"
 tags:
-  - Person
-  - CIA
-  - Government Official
+  - person
+  - u.s.-government
+  - contra-war
+summary: William Colby was a former CIA director who was William Nelson's mentor and oversaw earlier CIA covert operations that set precedents for the Contra war.
 ---
-William Colby (1920–1996) was an American intelligence officer who served as the Director of Central Intelligence (DCI) from 1973 to 1976. He was at the helm of the [[Central Intelligence Agency|CIA]] during a period of significant scrutiny and controversy, including revelations about [[Project MKUltra]][^1].
 
-In the context of the [[Moscow Signal]], Colby wrote to the U.S. ambassador, informing him that "The increased probability of health injuries to personnel at the U.S. Embassy in Moscow [redacted] warrant our immediate attention." This communication came after the [[Soviet Union]] installed a second microwave transmitter aimed at the embassy, indicating the signal was becoming more potent[^1].
+William Colby was a former [[Central Intelligence Agency]] director who was [[William Nelson]]'s mentor and oversaw earlier CIA covert operations that set precedents for the Contra war. Colby led the CIA from 1973 to 1976, a period that included controversial operations in [[Chile]], Angola, and elsewhere.[^1]
 
-Colby's tenure was marked by his efforts to be more transparent with Congress and the public about past CIA activities, which led to the declassification of some documents related to controversial programs[^1].
+### Legacy and the Contra War
+
+Colby's tenure as CIA director established patterns of covert operation and deniability that were later applied on a larger scale during the Contra war. His protégé Nelson went on to serve as deputy director of operations, the head of all CIA covert operations worldwide, before moving to [[Fluor Corporation]]. The chain of mentorship from Colby to Nelson to the Contra-era operatives illustrated the institutional continuity of the CIA's covert operations apparatus. The methods developed under Colby's leadership for managing deniable operations and protecting agents involved in questionable activities became standard practice during the Contra war.[^2]
 
 ### Footnotes
-[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+
+[^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 9.
+[^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 9.

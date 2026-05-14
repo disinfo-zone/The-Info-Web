@@ -1,19 +1,13 @@
 ---
 aliases:
-  - Annie M. Jacobsen
+- Annie M. Jacobsen
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Author
-  - Journalist
-  - Government_Secrecy
-  - National_Security
-  - Parapsychology
-  - Princeton_University
-  - USA
-  - Pentagon
-  - CIA
-  - Remote_Viewing
+  - RemoteViewer
+summary: "Annie Jacobsen is an American investigative journalist and author, known for her non-fiction books focusing on government secrecy, national security, and warfare."
 ---
+
 Annie Jacobsen is an American investigative journalist and author, known for her non-fiction books focusing on government secrecy, national security, and warfare. She is a graduate of Princeton University.
 
 ## Bibliography

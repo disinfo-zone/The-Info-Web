@@ -9,10 +9,9 @@ tags:
   - Snuff_Films
   - Warwick_Spinks
   - Operation_Framework
+category: "Intelligence Operation"
+summary: "Operation Framework was a joint investigation between Scotland Yard and Dutch authorities conducted between 1992 and 1993 into suspected snuff pornography produced by British nationals operating in Amsterdam."
 ---
-
-### Overview
-
 Operation Framework was a joint investigation between Scotland Yard and Dutch authorities conducted between 1992 and 1993 into suspected snuff pornography produced by British nationals operating in Amsterdam. The investigation targeted a group of foreign British pedophiles who were trafficking boys into Amsterdam boy brothels that masqueraded as gay nightclubs in the city's Spuistraat district.[^1]
 
 ### Background and Initiation

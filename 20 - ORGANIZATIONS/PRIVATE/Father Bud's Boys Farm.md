@@ -7,6 +7,8 @@ tags:
   - 1970s
   - Church_of_New_Revelation
   - North_Fox_Island
+category: "Private Organization"
+summary: "Father Bud's Boys Farm was a rural foster home located on a farm in Monteagle, Tennessee, owned and operated by the ordained Episcopal priest Cladius Vermilye, known by the alias Father Bud."
 ---
 Father Bud's Boys Farm was a rural foster home located on a farm in Monteagle, Tennessee, owned and operated by the ordained Episcopal priest [[Cladius Vermilye]], known by the alias Father Bud. Juvenile delinquents were sent to the farm by youth corrections and welfare agencies in Tennessee. Boys at the farm were supplied with drugs and alcohol to make them pliant for participation in orgies, which were filmed and photographed. Materials were distributed to a mailing list of sponsors who could pay additional fees to arrange personal visits to the farm for direct access to the boys. Film stocks were mailed from the farm to [[Gerald Richards]] in Michigan for development and distribution through networks including MAIL-O-MATIC in North Carolina and F&S Distributors in California.[^1]
 

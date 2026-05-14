@@ -8,6 +8,8 @@ tags:
   - Apollo_Network
   - Manuel_Schadwald_Case
   - Child_Pornography
+category: "Private Organization"
+summary: "The Apollo Bulletin Board Service, commonly known as Apollo BBS, operated as one of the world's largest online distributors of sadomasochistic child pornography during the mid-1990s."
 ---
 The Apollo Bulletin Board Service, commonly known as Apollo BBS, operated as one of the world's largest online distributors of sadomasochistic child pornography during the mid-1990s. Based in the Dutch seaside resort town of Zandvoort, the Apollo BBS distributed child pornography globally through dial-up connections and early internet protocols. The system employed encryption and access controls to limit entry to verified members, creating a platform for the distribution of illegal materials to paying customers around the world.[^1]
 
@@ -33,7 +35,7 @@ The list of 300 names discovered during the investigation was described by media
 
 The Apollo Network served as a crucial intersection point for multiple trafficking operations. It was connected to the [[Warwick Spinks]] network in Amsterdam, the [[Lothar Glandorf]] operation in Rotterdam, and the broader European child trafficking infrastructure.[^4]
 
-The connections extended to the Marc Dutroux case in Belgium. [[Gina Pardaens-Bernaer]] told friends and colleagues about a snuff film found on the disks that showed a girl being murdered by an associate of the child trafficking network exposed during the Dutroux investigation. She identified one of the perpetrators as an acquaintance of [[Michel Nihoul]], a key figure in the Dutroux case.[^5]
+The connections extended to the Marc Dutroux case in Belgium. [[Gina Pardaens-Bernaer]] told friends and colleagues about a snuff film found on the disks that showed a girl being murdered by an associate of the child trafficking network exposed during the Dutroux investigation. She identified one of the perpetrators as an acquaintance of [[Jean-Michel Nihoul]], a key figure in the Dutroux case.[^5]
 
 ### The Apollo Disks and Their Contents
 

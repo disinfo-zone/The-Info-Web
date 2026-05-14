@@ -1,5 +1,7 @@
 ---
 tags: ["Organization", "Bank", "BCCI"]
+category: "Private Organization"
+summary: "First American Bank was a bank based in Washington, D.C., which became secretly owned and controlled by the Bank of Credit and Commerce International.[^1]"
 ---
 First American Bank was a bank based in [[Washington, D.C.]], which became secretly owned and controlled by the [[Bank of Credit and Commerce International|BCCI]].[^1]
 
@@ -13,9 +15,9 @@ BCCI used nominees to secretly purchase shares in [[Credit and Commerce American
 
 The [[Central Intelligence Agency|CIA]] issued a report in 1986 stating that BCCI had owned First American Bank since 1982.[^1] The [[Federal Reserve Board]] later fined BCCI $200 million for illegally acquiring control of First American Bank, along with [[National Bank of Georgia]] and [[CenTrust Savings Bank]].[^1]
 
-In July 1992, Clifford and Altman were indicted by a [[New York]] grand jury on charges of bribery and fraud related to their involvement with BCCI and First American Bank.[^1]
+In July 1992, Clifford and Altman were indicted by a [[New York City]] grand jury on charges of bribery and fraud related to their involvement with BCCI and First American Bank.[^1]
 
-## Footnotes
+### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 8-14.
 [^2]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 192-194.

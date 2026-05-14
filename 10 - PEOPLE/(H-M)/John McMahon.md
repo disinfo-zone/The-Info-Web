@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: John McMahon
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - CIA
-  - intelligence
-description: John McMahon was the Deputy Director for Operations at the CIA, and head of the Office of Technical Service (OTS).
+  - Person
+  - RemoteViewer
+  - Stargate
+  - SRI
+summary: "McMahon, along with Norm Everheart, had been involved in psychic spying experiments since the early days of the CIA-sponsored work at SRI."
 ---
+
 
 [[John McMahon]] was the Deputy Director for Operations at the [[Central Intelligence Agency|CIA]]. He also served as the head of the [[Office of Technical Service|Office of Technical Service]] (OTS), indicating his significant role in technical and covert operations, including those involving psychic intelligence.[^1]
 

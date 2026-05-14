@@ -8,6 +8,8 @@ tags:
   - 1990s
   - Odyssey_Network
   - Amsterdam
+category: "Esoteric & Historical Concept"
+summary: "Boy prostitution emerged as a systematic commercial enterprise during the 1970s, operating through organized networks that trafficked male children across the United States and Europe."
 ---
 
 Boy prostitution emerged as a systematic commercial enterprise during the 1970s, operating through organized networks that trafficked male children across the United States and Europe. In Dallas, [[John David Norman]] ran a mail-order boy prostitution service out of his apartment, using an organization called [[Odyssey Foundation]] as a front. The foundation was structured as a non-profit mentorship program pairing adult sponsors with boy fellows for inter-state educational trips, with sponsors providing lodging and paying travel expenses. Police raids on the apartment seized thousands of index cards listing clients around the country, including prominent people and federal employees in Washington. Classified ads for Norman's callboy service were placed in both gay magazines and underground boylover newsletters circulated through the post, and the service was popular among child pornographers who sought fresh talent for photographs and films.[^1]

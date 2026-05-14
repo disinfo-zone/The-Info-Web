@@ -7,6 +7,8 @@ tags:
   - intelligence
   - government
 description: The Director of Central Intelligence (DCI) was the head of the U.S. intelligence community and the director of the Central Intelligence Agency (CIA) from 1946 to 2005.
+category: "U.S. Government"
+summary: "The Director of Central Intelligence (DCI) was a dual-hatted position that served as both the head of the U.S. intelligence community and the director of the Central Intelligence Agency from 1946 to 2005."
 ---
 The Director of Central Intelligence (DCI) was a dual-hatted position that served as both the head of the U.S. intelligence community and the director of the [[Central Intelligence Agency|CIA]] from 1946 to 2005. The DCI was responsible for coordinating intelligence activities across various U.S. government agencies.[^1]
 

@@ -1,11 +1,11 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
   - CIA
-  - Intelligence
-  - The_Finders
-  - Washington_DC
+summary: "Isabelle Pettie was a CIA employee and the late wife of Marion Pettie, the leader of The Finders."
 ---
+
 
 Isabelle Pettie was a CIA employee and the late wife of [[Marion Pettie]], the leader of [[The Finders]]. Her employment with the CIA established a direct connection between the intelligence community and the leadership of The Finders, a relationship that became central to investigations into the group's activities and potential intelligence links.[^1]
 

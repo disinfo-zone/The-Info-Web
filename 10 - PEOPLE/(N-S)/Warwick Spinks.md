@@ -1,15 +1,10 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child_Abuser
-  - UK
-  - Amsterdam
-  - 1980s
-  - 1990s
-  - Operation_Framework
-  - Snuff_Films
+  - OrganizedCrime
+summary: "Warwick Spinks was a British child trafficker and pedophile who operated in Amsterdam during the 1980s and 1990s."
 ---
-
 Warwick Spinks was a British child trafficker and pedophile who operated in [[Amsterdam]] during the 1980s and 1990s. He managed the Gay Palace, a boy brothel masquerading as a gay nightclub in Amsterdam's Spuistraat district. Spinks was involved in mail order boy prostitution and pornography, pioneering the trafficking of boys as young as 10 from [[London]] streets and later from Eastern Europe after the Soviet Union's collapse. He operated multiple criminal enterprises including a mail order pornography business originally run from [[Brighton]] before moving to Amsterdam, a boy trafficking operation bringing children from London and Eastern Europe to Amsterdam, a concierge service renting apartments to foreign pedophiles and acting as their facilitator, and canal boat operations using boats outside central Amsterdam as discreet locations for his escort service.[^1]
 
 ### Criminal Operations and The Blue Boy Incident

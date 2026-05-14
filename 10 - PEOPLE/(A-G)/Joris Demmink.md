@@ -1,15 +1,12 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Government_Official
-  - Netherlands
-  - 1990s
-  - 2000s
-  - 2010s
-  - Dutch_Justice_System
-  - Rolodex_Investigation
-  - Government_Corruption
+  - CIA
+  - Military
+summary: "Joris Demmink was a senior Dutch justice official who served as Secretary General of the Ministry of Justice of the Netherlands from 2002 until his resignation in 2012."
 ---
+
 
 ### Overview
 

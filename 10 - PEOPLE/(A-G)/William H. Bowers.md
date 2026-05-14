@@ -1,11 +1,14 @@
 ---
 aliases:
-  - William H. Bowers
+- William H. Bowers
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Military
-  - Air Force
+  - RemoteViewer
+  - Soviet
+summary: "According to Bergier's article, 'Thought Transfer, Weapon of War,' the experiment aimed to test long-distance telepathic communication through significant barriers."
 ---
+
 William H. Bowers was a [[U.S. Air Force]] Colonel and the director of the Biological Department of the [[Air Force Research Institute]]. He was identified by journalist [[Jacques Bergier]] as the man overseeing a joint-service [[Extrasensory Perception|ESP]] experiment conducted aboard the [[USS Nautilus]] in 1958[^1].
 
 According to Bergier's article, "Thought Transfer, Weapon of War," the experiment aimed to test long-distance telepathic communication through significant barriers. The experiment reportedly involved a sender onboard the *Nautilus* and a receiver on land, using [[Zener Cards]] for simple sender-receiver trials[^1].

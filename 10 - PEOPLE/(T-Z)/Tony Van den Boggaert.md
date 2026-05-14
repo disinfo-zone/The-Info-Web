@@ -1,14 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Pimp
-  - Criminal
   - Belgium
-  - 1980s-1990s
-  - Dutroux-Affair
-  - X-Dossier
+  - Dutroux
+summary: "Tony Van den Boggaert, a family acquaintance of Regina Louf (witness X1), operated as her pimp from her early teens during the 1970s and 1980s in Ghent, Belgium."
 ---
-Tony Van den Boggaert, a family acquaintance of [[Regina Louf]] (witness X1), operated as her pimp from her early teens during the 1970s and 1980s in Ghent, Belgium. Louf claimed Van den Boggaert, a friend of her family, took control of her prostitution at age 12, leasing her to parties organized by [[Michel Nihoul]]. Van den Boggaert transported Louf to locations including Amsterdam brothels and Brussels mansions equipped with hidden cameras for blackmail. He managed her schedule, ensuring she performed sexual acts with clients at these events, where she was used as entertainment for businessmen and politicians. Louf stated Van den Boggaert introduced her to Nihoul's circle, where she was sold for services at parties escalating to violence. He accompanied her to the 1984 murder of [[Christine Van Hees]] at a mushroom farm in Brussels, where she was forced to watch the torture and killing by Dutroux, Nihoul, [[Bernard Weinstein]], and lawyer Michel Vander Elst. Van den Boggaert's role extended to facilitating her participation in orgies at Nihoul's chateau in the Ardennes, where contracts were sealed with sexual acts involving children.[^1]
+
+Tony Van den Boggaert, a family acquaintance of [[Regina Louf]] (witness X1), operated as her pimp from her early teens during the 1970s and 1980s in Ghent, Belgium. Louf claimed Van den Boggaert, a friend of her family, took control of her prostitution at age 12, leasing her to parties organized by [[Jean-Michel Nihoul]]. Van den Boggaert transported Louf to locations including Amsterdam brothels and Brussels mansions equipped with hidden cameras for blackmail. He managed her schedule, ensuring she performed sexual acts with clients at these events, where she was used as entertainment for businessmen and politicians. Louf stated Van den Boggaert introduced her to Nihoul's circle, where she was sold for services at parties escalating to violence. He accompanied her to the 1984 murder of [[Christine Van Hees]] at a mushroom farm in Brussels, where she was forced to watch the torture and killing by Dutroux, Nihoul, [[Bernard Weinstein]], and lawyer Michel Vander Elst. Van den Boggaert's role extended to facilitating her participation in orgies at Nihoul's chateau in the Ardennes, where contracts were sealed with sexual acts involving children.[^1]
 
 Van den Boggaert's involvement in Louf's exploitation began after her grandmother [[Cecile Beernaert]] introduced her to the network through childhood prostitution at a Knokke-Heist brothel near [[Royal Zoute Golf Club]]. Louf described him as her "owner" after Beernaert, managing her as a child prostitute leased to Nihoul's parties. He drove her to these events, where she was trafficked to clients including [[Paul Vanden Boeynants]] at locations like the Dolo nightclub and Faulx-les-Tombes chateau. Van den Boggaert ensured compliance with threats and drugs, positioning her for filmed blackmail. Louf's testimony detailed a 1983 incident with Carine Dellaert, where Van den Boggaert delivered her to a house for rape after childbirth, involving Nihoul and Dumont. His activities aligned with the broader network documented in the [[X-Dossier]], where Louf identified him as a key figure in her grooming and transport.[^1]
 

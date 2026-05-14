@@ -1,13 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Intelligence
-  - Mujahideen
-  - Afghanistan
-  - CIA
-  - Middle East
-  - Cold War
+summary: "Discussions included the Mujahideen's willingness to field test new and esoteric weapons and return research reports with photos."
 ---
+
 [[Tim Osman]] was a figure involved in a worldwide support network for the [[Mujahideen]] in [[Afghanistan]]. He met with [[Ted Gunderson]], [[Ralph Olberg]], and [[Michael Riconosciuto]] in early 1986 to discuss this network, which focused on the Afghanistan Resistance Movement against the Soviets.[^1]
 
 Discussions included the Mujahideen's willingness to field test new and esoteric weapons and return research reports with photos. They also discussed the capture and/or defection of high-ranking Soviet military personnel with sensitive compartmentalized information, and the availability of their briefings. Other topics included a military joint venture in [[Turkey]] to produce specialized ammunition and a lobbying effort to legally obtain Stinger II missiles and their variants.[^1]

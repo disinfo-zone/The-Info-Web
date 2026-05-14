@@ -1,4 +1,12 @@
-[[Jerry Brown]] was the [[California Attorney General]]. He is mentioned in the context of the dismissal of the murder charges against [[Jimmy Hughes]]. [[Rachel Begley]] questioned how Brown could support the release of Hughes and criticized [[Mike Murphy]]'s handling of the case, implying that Brown, as Attorney General, was ultimately responsible for the actions of his staff.[^1]
+---
+category: "Law Enforcement & Legal"
+tags:
+  - Person
+  - Lawyer
+  - LawEnforcement
+summary: "California Attorney General who supported the dismissal of murder charges against Jimmy Hughes, questioned by Rachel Begley."
+---
+[[Jerry Brown]] was the [[California Attorney General's Office]]. He is mentioned in the context of the dismissal of the murder charges against [[Jimmy Hughes]]. [[Rachel Begley]] questioned how Brown could support the release of Hughes and criticized [[Mike Murphy]]'s handling of the case, implying that Brown, as Attorney General, was ultimately responsible for the actions of his staff.[^1]
 
 ---
 ### Footnotes

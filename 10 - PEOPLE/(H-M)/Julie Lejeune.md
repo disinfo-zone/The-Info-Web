@@ -1,13 +1,14 @@
 ---
+category: "Belgium Scandals"
 tags:
-  - Victim
-  - Dutroux-Network
-  - Child-Abduction
+  - Person
   - Belgium
-  - 1990s
+  - Dutroux
+summary: "Julie Lejeune, an eight-year-old girl from Charleroi, Belgium, disappeared on July 9, 1995, alongside her friend Melissa Russo while riding bicycles near their neighborhood."
 ---
 
-Julie Lejeune, an eight-year-old girl from Charleroi, [[Belgium]], disappeared on July 9, 1995, alongside her friend [[Melissa Russo]] while riding bicycles near their neighborhood. The abduction occurred in broad daylight, with the girls lured into a white van driven by [[Marc Dutroux]] and his accomplice [[Michel Lelievre]], who had been scouting potential victims under instructions from [[Michel Nihoul]]. Lejeune and Russo were immediately imprisoned in a hidden basement dungeon at Dutroux's residence in [[Marcinelle, Belgium]], a concealed cell constructed in 1993 with assistance from handyman [[Claude Thirault]], who later reported Dutroux's explicit plans to kidnap girls for profit. The dungeon featured soundproof walls, a rudimentary ventilation system, and a locked access point disguised as shelving, designed specifically to hold young victims for extended periods. Surveillance by police inspector [[Rene Michaux]]'s [[Operation Othello]] team began on August 10, 1995, but failed to detect the girls despite their presence in the house. On August 22, 1995, Dutroux kidnapped two more teenagers, [[An Marchal]] and [[Eefje Lambrecks]], temporarily housing them upstairs due to the occupied basement, before murdering them elsewhere; police monitoring overlooked these activities entirely.[^1]
+
+Julie Lejeune, an eight-year-old girl from Charleroi, [[Belgium]], disappeared on July 9, 1995, alongside her friend [[Melissa Russo]] while riding bicycles near their neighborhood. The abduction occurred in broad daylight, with the girls lured into a white van driven by [[Marc Dutroux]] and his accomplice [[Michel Lelievre]], who had been scouting potential victims under instructions from [[Jean-Michel Nihoul]]. Lejeune and Russo were immediately imprisoned in a hidden basement dungeon at Dutroux's residence in [[Marcinelle, Belgium]], a concealed cell constructed in 1993 with assistance from handyman [[Claude Thirault]], who later reported Dutroux's explicit plans to kidnap girls for profit. The dungeon featured soundproof walls, a rudimentary ventilation system, and a locked access point disguised as shelving, designed specifically to hold young victims for extended periods. Surveillance by police inspector [[Rene Michaux]]'s [[Operation Othello]] team began on August 10, 1995, but failed to detect the girls despite their presence in the house. On August 22, 1995, Dutroux kidnapped two more teenagers, [[An Marchal]] and [[Eefje Lambrecks]], temporarily housing them upstairs due to the occupied basement, before murdering them elsewhere; police monitoring overlooked these activities entirely.[^1]
 
 ### Abduction and Imprisonment
 

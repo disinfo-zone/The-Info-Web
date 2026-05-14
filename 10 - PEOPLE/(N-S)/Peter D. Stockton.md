@@ -1,9 +1,11 @@
 ---
+category: "Authors & Journalists"
 tags:
   - Person
-  - Investigator
-  - USA
+  - Journalist
+summary: "Chief investigator for congressional subcommittees who relayed intelligence community suspicions about Israel's nuclear program to journalists."
 ---
+
 Peter D. Stockton was a chief investigator for congressional subcommittees. He, along with [[Henry R. Myers]], spent nearly fifteen years relaying the suspicions of [[Carl E. Duckett]] and [[John L. Hadden]] to journalists as the views of knowledgeable intelligence sources, leading many reporters to publish these beliefs as "facts." Stockton had continuing doubts about the credibility of Hadden, noting that Hadden told different versions of events to subcommittee investigators and officials of the Government Accounting Office.[^1]
 
 ### Footnotes

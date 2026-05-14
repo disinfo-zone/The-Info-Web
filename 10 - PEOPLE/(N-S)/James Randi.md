@@ -1,15 +1,18 @@
 ---
 aliases:
-  - James Randi
+- James Randi
   - The Amazing Randi
+category: "Skeptics & Critics"
 tags:
   - Person
-  - Magician
   - Skeptic
+  - Magician
+summary: "James Randi (1928–2020), known as 'The Amazing Randi,' was a Canadian-American stage magician, escape artist, and a prominent scientific skeptic."
 ---
+
 James Randi (1928–2020), known as "The Amazing Randi," was a Canadian-American stage magician, escape artist, and a prominent scientific skeptic. He dedicated much of his life to investigating and debunking paranormal and pseudoscientific claims, often challenging individuals who claimed to possess supernatural abilities[^1].
 
-Randi became a vocal critic of [[Uri Geller]], stating, "Geller brings disgrace to the craft I practice... Worse than that, he warps the thinking of a young generation of forming minds. And that is unforgivable." He spent two years writing a 308-page exposé of Geller, arguing that Geller's actions had "done more to destroy what authority [[Andrija Puharich]] once held in the scientific community"[^1]. Randi speculated that Geller's assistant, [[Shimshon Shtrang]], helped him cheat, leading the [[CIA]] to deny Shtrang access to Geller during experiments[^1].
+Randi became a vocal critic of [[Uri Geller]], stating, "Geller brings disgrace to the craft I practice... Worse than that, he warps the thinking of a young generation of forming minds. And that is unforgivable." He spent two years writing a 308-page exposé of Geller, arguing that Geller's actions had "done more to destroy what authority [[Andrija Puharich]] once held in the scientific community"[^1]. Randi speculated that Geller's assistant, [[Shimshon Shtrang]], helped him cheat, leading the [[Central Intelligence Agency]] to deny Shtrang access to Geller during experiments[^1].
 
 Along with [[Martin Gardner]] and [[Ray Hyman]], Randi helped found the [[Committee for the Scientific Investigation of Claims of the Paranormal]] (CSICOP) to promote scientific inquiry and combat pseudoscience[^1].
 

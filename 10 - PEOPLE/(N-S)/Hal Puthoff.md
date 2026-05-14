@@ -1,13 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Hal Puthoff
+category: "Key Figures"
 tags:
-  - person
-  - scientist
-  - physicist
-description: Hal Puthoff is a physicist who led the remote viewing research program at SRI. He was a key figure in the scientific investigation of psychic phenomena.
+  - Person
+  - Stargate
+  - CIA
+  - SRI
+summary: "American engineer and parapsychologist who led the SRI remote viewing program and later served as chief scientist for AATIP studying UAP."
 ---
+
 Harold E. "Hal" Puthoff is an American engineer and parapsychologist. In the early 1950s, as a junior high school student in Miami, he was a shy and quiet kid who loved tinkering with electronics, building gadgets, and operating a ham radio. He played the electric steel Hawaiian guitar in a band and dreamed of becoming a radio deejay. His father had passed away, and he lived with his mother and aunt, with limited financial resources. He attended a vocational high school.[^1]
 
 Two decades later, Puthoff earned a Ph.D. from Stanford University and became a lecturer in its electrical engineering department. He held a patent for a tunable infrared laser and co-authored an influential textbook, *Fundamentals of Quantum Electronics*. By his early thirties, he was a recognized figure in laser physics and engineering. Despite his technical prowess, he had a creative and energetic reputation, but also a quiet concern for deeper meanings, having explored Gestalt psychology and visited the Esalen Institute. He became bored with academia and his first marriage was failing. In 1969, Puthoff left Stanford and joined [[Stanford Research Institute]] (SRI), a scientific think tank with close ties to Stanford and significant government contracts. Initially working on laser-related projects, he soon developed an interest in conducting psi experiments to explore quantum theory. He secured initial funding of ten thousand dollars from philanthropist Bill Church, co-owner of Church's Fried Chicken.[^1]
@@ -18,7 +18,7 @@ Puthoff became a central figure in the U.S. government's psychic spying program,
 
 ### Later Career and Advanced Aerospace Research
 
-Puthoff's government work extended far beyond remote viewing research. For over fifty years, he served as a chief scientist and senior scientific advisor on highly classified projects for various government entities, including the [[Department of Defense]] (DoD), the [[National Security Agency]] (NSA), and the [[Central Intelligence Agency]] (CIA). His expertise eventually led him to serve as the chief scientist for the [[Advanced Aerospace Threat Identification Program]] (AATIP), where he played a crucial role in the scientific analysis of [[Unidentified Anomalous Phenomena]] (UAP).[^2]
+Puthoff's government work extended far beyond remote viewing research. For over fifty years, he served as a chief scientist and senior scientific advisor on highly classified projects for various government entities, including the [[Department of Defense]] (DoD), the [[NSA]] (NSA), and the [[Central Intelligence Agency]] (CIA). His expertise eventually led him to serve as the chief scientist for the [[Advanced Aerospace Threat Identification Program]] (AATIP), where he played a crucial role in the scientific analysis of [[Unidentified Anomalous Phenomena]] (UAP).[^2]
 
 In his AATIP role, Puthoff was instrumental in commissioning 38 academic studies, known as the Defense Intelligence Research Documents (DIRDs), on advanced aerospace concepts such as invisibility cloaking, traversable wormholes, and warp drives. He was also responsible for briefing [[Luis Elizondo]] on the history of the U.S. government's involvement with UAP, including sensitive information about the [[Roswell Incident]] in 1947 and the recovery of nonhuman materials and bodies.[^2]
 

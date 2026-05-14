@@ -1,14 +1,12 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - UK
+  - CIA
   - Politician
-  - Home_Secretary
-  - 1980s
-  - VIP_Network
-  - Elm_Guest_House
-  - Operation_Fernbridge
+summary: "Leon Brittan was the Secretary of the Home Office under Margaret Thatcher who received a dossier from MP Geoffrey Dickens in 1983 containing allegations about members of parliament and the Queen's royal staff being part of a VIP pedophile ring with ties to the Pedophile Information Exchange (PIE)."
 ---
+
 Leon Brittan was the Secretary of the Home Office under Margaret Thatcher who received a dossier from MP [[Geoffrey Dickens]] in 1983 containing allegations about members of parliament and the Queen's royal staff being part of a VIP pedophile ring with ties to the [[Pedophile Information Exchange]] (PIE). Several public figures were named in a Scotland Yard dossier on child sex offences, with Dickens stating he had compiled a list of names and planned to disclose them in Parliament. The Office of the Director of Public Prosecutions confirmed it was studying a report on a police inquiry into PIE, and Interior Minister Leon Brittan ordered a copy of the report by Friday[^1].
 
 ### VIP Pedophile Ring Allegations

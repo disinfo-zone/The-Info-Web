@@ -1,14 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - UK
-  - Politician
-  - Labour_MP
-  - 2010s
-  - VIP_Pedophile_Ring
-  - Operation_Fernbridge
-  - Phone_Hacking_Scandal
+  - OrganizedCrime
+summary: "Tom Watson was a Labour MP who played a key role in exposing the phone-hacking scandal at the News of the World."
 ---
+
 Tom Watson was a Labour MP who played a key role in exposing the phone-hacking scandal at the News of the World. In October 2012, Watson asked Prime Minister [[David Cameron]] in parliament to investigate evidence of "a powerful paedophile network linked to parliament and No 10." Watson specifically referenced the [[Peter Righton]] dossier from 1992, believing it contained evidence of the VIP pedophile network. He stated that he believed the file, if it still existed, would provide some evidence of this powerful network connected to the highest levels of British government. Watson's parliamentary question represented a significant moment in bringing historical child abuse allegations back into public scrutiny and official investigation.[^1]
 
 ### Role in Launching Operation Fernbridge

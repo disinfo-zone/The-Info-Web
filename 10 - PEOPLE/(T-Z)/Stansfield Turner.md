@@ -1,14 +1,13 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Stansfield Turner
+category: "Key Figures"
 tags:
-  - person
+  - Person
+  - Stargate
   - CIA
-  - director
-  - admiral
-description: Stansfield Turner was an American admiral who served as the Director of Central Intelligence (DCI) under President Jimmy Carter.
+  - RemoteViewer
+summary: "Stansfield Turner (1923–2018) was an American admiral who served as the DCI under President Jimmy Carter from 1977 to 1981."
 ---
+
 Stansfield Turner (1923–2018) was an American admiral who served as the [[Director of Central Intelligence|DCI]] under President [[Jimmy Carter]] from 1977 to 1981. His tenure at the [[Central Intelligence Agency|CIA]] was marked by significant changes, including a reduction in [[Human Intelligence|HUMINT]] capabilities, which was seen as being on the wane following a number of scandals in the mid-1970s, including revelations of domestic spying.[^1]
 
 As Director of Central Intelligence, Turner abruptly cut back intelligence liaison with [[Israel]] and other friendly nations as part of a restructuring of the [[Central Intelligence Agency|CIA]]. This move was met with disquiet from the Israelis, who were accustomed to warmer treatment from previous administrations.[^3]

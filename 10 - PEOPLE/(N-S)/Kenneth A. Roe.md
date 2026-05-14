@@ -1,3 +1,10 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+  - Politician
+summary: "Under Roe's leadership, Burns & Roe, Inc."
+---
 [[Kenneth A. Roe]] was a Director of [[First Intercontinental Development Corporation|FIDCO]] and served as the Chairman and President of[[Burns & Roe, Inc]]., an international engineering and construction corporation. Burns & Roe, Inc. was a family corporation owned by Kenneth Roe and his family.[^1]
 
 Under Roe's leadership, Burns & Roe, Inc. was involved in major projects, including the engineering design and construction of the U.S.A. [[Fast Breeder Nuclear Reactor Plant]] in conjunction with [[Westinghouse Electric Corporation]], which was responsible for the nuclear system supply of steam. At the time, the construction value of Burns & Roe, Inc.'s business backlog exceeded six billion U.S. dollars.[^1]

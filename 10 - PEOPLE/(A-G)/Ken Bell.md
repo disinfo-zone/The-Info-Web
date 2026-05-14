@@ -1,14 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Ken Bell
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - military
-  - psychic
-  - remoteviewer
-description: Ken Bell was a U.S. Army captain and one of the original remote viewers in the Stargate Project. He was known for his ability to connect with human targets.
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+  - SRI
+summary: "U.S. Army captain and original remote viewer in the Stargate Project known for extraordinary ability to connect with distressed or missing human targets."
 ---
+
 Ken Bell was a U.S. Army captain and one of the original six remote viewers in the [[STARGATE PROJECT]]. He was recruited into the program, then codenamed [[STARGATE PROJECT|Gondola Wish]], in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 
 Bell had a background in counterintelligence and was known for his interest in meditation. He was described as short, wiry, and somewhat intense. He believed that psi could never be used to make money, as psychics who tried to get rich often failed, suggesting a connection between psi and human morality. He was among the six most promising members sent to [[Stanford Research Institute]] (SRI) for two weeks of outbound remote-viewing experiments, where SRI evaluated their talents and confirmed their suitability for operational remote viewing.[^1]

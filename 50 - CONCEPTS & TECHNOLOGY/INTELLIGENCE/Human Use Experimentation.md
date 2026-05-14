@@ -8,6 +8,8 @@ tags:
   - military
   - research
 description: Human Use Experimentation refers to the ethical and regulatory framework governing research involving human subjects, particularly in military and intelligence contexts.
+category: "Intelligence Concept"
+summary: "Human Use Experimentation refers to the ethical and regulatory framework governing research involving human subjects, particularly in military and intelligence contexts."
 ---
 
 [[Human Use Experimentation]] refers to the ethical and regulatory framework governing research involving human subjects, particularly in military and intelligence contexts. The dark history of such experimentation in the military, notably programs like [[Project MKUltra]], which involved controversial studies of LSD and other potential "mind control" drugs on servicemen, led to strict requirements for informed consent and oversight by human use review boards.[^1]

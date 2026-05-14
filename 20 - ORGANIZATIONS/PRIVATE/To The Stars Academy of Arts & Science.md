@@ -1,3 +1,7 @@
+---
+category: "Private Organization"
+summary: "To The Stars Academy of Arts & Science (TTSA) was a public benefit corporation founded by musician Tom DeLonge of the band Blink-182."
+---
 [[To The Stars Academy of Arts & Science]] (TTSA) was a public benefit corporation founded by musician Tom DeLonge of the band Blink-182. The organization's goal was to investigate [[Unidentified Anomalous Phenomena]] (UAP) and other fringe scientific topics, and to educate the public about these issues through a combination of scientific research, entertainment, and publishing.[^1]
 
 ### Founding and Mission

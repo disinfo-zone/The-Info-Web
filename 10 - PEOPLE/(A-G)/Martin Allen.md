@@ -1,14 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Missing_Child
-  - UK
-  - 1970s
-  - VIP_Pedophile_Network
-  - Australian_High_Commission
-  - Stoke_Lodge
-  - Sidney_Cooke_Gang
+  - OrganizedCrime
+summary: "Martin Allen was a 15-year-old boy who disappeared in 1979 while approaching Kings Cross station in London."
 ---
+
 Martin Allen was a 15-year-old boy who disappeared in 1979 while approaching Kings Cross station in London. His case became connected to investigations into VIP pedophile networks operating in London during the late 1970s and early 1980s. Allen was the son of the chief chauffeur to Australian High Commissioner Sir [[Gordon Freeth]], and his family lived in the caretaker's cottage on the grounds of the Australian High Commissioner's residence at [[Stoke Lodge]] in Kensington. His disappearance occurred not far from the [[Elm Guest House]], and police later believed he and [[Vishal Mehrotra]] (who disappeared in 1981) were abducted by the same gang of pedophiles[^1].
 
 ### Connections to VIP Networks

@@ -1,12 +1,15 @@
 ---
 aliases:
-  - Elmo Zumwalt
+- Elmo Zumwalt
   - Admiral Elmo Zumwalt
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Military
-  - US Navy
+  - RemoteViewer
+  - Soviet
+summary: "Elmo Zumwalt (1920–2000) was an American naval officer who served as the Chief of Naval Operations (CNO) from 1970 to 1974."
 ---
+
 Elmo Zumwalt (1920–2000) was an American naval officer who served as the Chief of Naval Operations (CNO) from 1970 to 1974. He was a key figure in modernizing the [[U.S. Navy]] during the [[Cold War]][^1].
 
 [[Stephan Schwartz]] served as a special assistant for research and analysis to Admiral Zumwalt. In this capacity, starting in 1971, Schwartz was briefed on the Navy's [[Telepathy|telepathy]] studies and [[Soviet Union|Soviet]] efforts in [[Extrasensory Perception|ESP]] research[^1].

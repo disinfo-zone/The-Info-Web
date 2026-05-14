@@ -1,7 +1,14 @@
 ---
-tags: ["Person", "Government Official", "USA"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+  - Banker
+  - CIA
+summary: "William von Raab was the U.S."
 ---
-William von Raab was the [[U.S. Customs Service]] Commissioner.[^1]
+
+William von Raab was the [[U.S. Customs]] Commissioner.[^1]
 
 He was involved in the [[Hashemi sting]] operation, which was designed to entrap individuals connected with [[Israel|Israeli]] intelligence arms sales to [[Iran]].[^2]
 
@@ -11,7 +18,7 @@ Von Raab, along with [[Rudolph Giuliani]], gave joint TV interviews on April 22,
 
 Von Raab headed the agency during the Tampa money-laundering investigations involving the [[Bank of Credit and Commerce International|BCCI]].[^1] He stated that the [[C-Chase]] sting operation, which led to the arrest of several BCCI bankers, was the most important money-laundering case in history.[^3]
 
-After BCCI's Tampa conviction, von Raab thought the case was "enormously meaningful" and announced it publicly. He was told by his superiors to dampen his public enthusiasm.[^4] He later testified before the [[John Kerry|Kerry]] subcommittee that the [[Justice Department]] had denied knowledge of the [[Ali Mirza]] tapes, which contained crucial information about BCCI's activities.[^5]
+After BCCI's Tampa conviction, von Raab thought the case was "enormously meaningful" and announced it publicly. He was told by his superiors to dampen his public enthusiasm.[^4] He later testified before the [[John Kerry|Kerry]] subcommittee that the [[Department of Justice]] had denied knowledge of the [[Ali Mirza]] tapes, which contained crucial information about BCCI's activities.[^5]
 
 ### Footnotes
 

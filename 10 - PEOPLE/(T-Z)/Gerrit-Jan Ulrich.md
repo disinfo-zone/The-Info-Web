@@ -1,14 +1,11 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Child_Trafficker
-  - Dutch
-  - Belgian
-  - 1990s
-  - Apollo_Network
-  - Manuel_Schadwald_Case
-  - Murder_Victim
+  - Belgium
+summary: "Gerrit-Jan Ulrich was a German computer technician and child trafficker who played a pivotal role in the international child pornography distribution network known as the Apollo Bulletin Board Service."
 ---
+
 Gerrit-Jan Ulrich was a German computer technician and child trafficker who played a pivotal role in the international child pornography distribution network known as the [[Apollo Bulletin Board Service]]. Operating from the Dutch seaside resort town of Zandvoort, Ulrich administered one of the world's largest online distributors of sadomasochistic child pornography during the mid-1990s, representing the intersection of traditional trafficking networks with emerging digital technology.[^1]
 
 Ulrich owned and operated a computer store called Cube Hardware, which served as a legitimate front for his criminal activities. His technical expertise allowed him to establish and maintain sophisticated computer systems that could distribute child pornography globally while maintaining relative security from law enforcement detection. This combination of technical knowledge and criminal enterprise made Ulrich a particularly dangerous figure in the evolution of child exploitation networks.[^2]

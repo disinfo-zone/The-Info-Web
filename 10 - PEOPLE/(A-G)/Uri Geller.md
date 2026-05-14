@@ -1,13 +1,12 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Uri Geller
+category: "Key Figures"
 tags:
-  - person
-  - psychic
-  - entertainer
-description: Uri Geller is an Israeli-British psychic, entertainer, and television personality, known for his spoon-bending and other psychokinetic abilities.
+  - Person
+  - Stargate
+  - Military
+summary: "When Geller was ten, his parents separated, and he moved with his mother to Cyprus."
 ---
+
 
 [[Uri Geller]] is a famous [[Israel|Israeli]]-British illusionist, mentalist, and spoon bender. He was born on the winter solstice of 1946, in Tel Aviv, to Hungarian emigré parents. According to the Geller legend, at the age of four, he was visited by a strange luminous apparition, after which he began to manifest paranormal talents. Unlike [[Ingo Swann]] and [[Pat Price]], he did not have out-of-body experiences or premonitions; instead, he claimed to be able to read minds, visualize hidden objects and drawings clairvoyantly, and bend small pieces of metal.[^1]
 

@@ -1,9 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Scientist
+  - Nuclear
   - Physicist
+  - Israel
+summary: "Niels Bohr was a Danish physicist who made foundational contributions to understanding atomic structure and quantum theory, for which he received the Nobel Prize in Physics in 1922."
 ---
+
 Niels Bohr was a Danish physicist who made foundational contributions to understanding atomic structure and quantum theory, for which he received the Nobel Prize in Physics in 1922. He was considered a quantum researcher in the same class as [[J. Robert Oppenheimer]] and [[Amos Deshalit]].[^1]
 
 ### Footnotes

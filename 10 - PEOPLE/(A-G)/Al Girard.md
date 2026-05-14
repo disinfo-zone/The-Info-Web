@@ -1,15 +1,13 @@
 ---
 aliases:
-  - Al Girard
+- Al Girard
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Government Official
-  - Remote Viewing
-  - Intelligence
-  - DIA
-  - USA
-  - Stargate Project
+  - RemoteViewer
+summary: "Al Girard was the replacement for Dale Graff as the head of the Remote Viewing unit after Graff's retirement in June 1993."
 ---
+
 Al Girard was the replacement for [[Dale Graff]] as the head of the [[Remote Viewing]] unit after Graff's retirement in June 1993. He took over leadership of the program during a period of significant turmoil and decline[^1].
 
 Girard reportedly "thought the unit was totally out of control" and seemed to have inherited a situation "way beyond his comfort level." He was described as the kind of government official who wore a three-piece suit to work, suggesting a more conventional approach to his role[^1].

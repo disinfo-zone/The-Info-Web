@@ -7,6 +7,8 @@ tags:
   - psychology
   - philosophy
 description: Human potential refers to the inherent capabilities and untapped resources believed to exist within all individuals, often explored through various self-improvement and consciousness-expanding practices.
+category: "Advanced Human Technology"
+summary: "Human Potential refers to the inherent capabilities and untapped resources believed to exist within all individuals."
 ---
 
 [[Human Potential]] refers to the inherent capabilities and untapped resources believed to exist within all individuals. This concept gained prominence in American counterculture since the early 1960s, with programs like EST (Erhard Seminars Training) and other practices ranging from Neuro-Linguistic Programming (NLP) to information-coded biofeedback.[^1]

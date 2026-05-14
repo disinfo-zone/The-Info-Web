@@ -1,10 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child-Pornographer
-  - Bovver-Boots
-  - Amsterdam
+  - OrganizedCrime
+summary: "Peter Howells conducted activities as a convicted pedophile integrated into the international child trafficking frameworks of the late 20th century, specifically within the exploitative environment of Amsterdam's red-light areas and canal networks."
 ---
+
 
 Peter Howells conducted activities as a convicted pedophile integrated into the international child trafficking frameworks of the late 20th century, specifically within the exploitative environment of [[Amsterdam]]'s red-light areas and canal networks. 
 

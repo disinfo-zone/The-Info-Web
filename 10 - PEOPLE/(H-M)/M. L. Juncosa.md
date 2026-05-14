@@ -1,10 +1,14 @@
 ---
 aliases:
-  - M. L. Juncosa
+- M. L. Juncosa
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Author
+  - RemoteViewer
+  - Military
+summary: "The study noted that it would not be conceptually difficult to imagine the utility of psychokinesis in disrupting electrical systems, such as those associated with an ICBM's guidance program, as displayed by Geller."
 ---
+
 M. L. Juncosa was a co-author of the Pentagon briefing, "Paranormal Phenomena—Briefing on a Net Assessment Study," published in January 1973. This report, co-authored with [[P. T. Van Dyke]], discussed the potential military utility of [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]], particularly in the context of [[Uri Geller]]'s alleged abilities[^1].
 
 The study noted that it would not be conceptually difficult to imagine the utility of psychokinesis in disrupting electrical systems, such as those associated with an [[Intercontinental Ballistic Missile|ICBM]]'s guidance program, as displayed by Geller. The report emphasized a serious need for detailed analytical studies of these phenomena by specialists in various scientific disciplines[^1].

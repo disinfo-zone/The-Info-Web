@@ -5,11 +5,13 @@ tags:
   - Trauma
   - MKUltra
   - DID
+category: "Psychology & Behavioral Science"
+summary: "Multiple personality disorder functioned as the clinical term for what later became known as dissociative identity disorder, describing a condition in which an individual develops distinct alternative personalities, often as a result of severe or..."
 ---
 
 Multiple personality disorder functioned as the clinical term for what later became known as dissociative identity disorder, describing a condition in which an individual develops distinct alternative personalities, often as a result of severe or prolonged trauma. The text examines this phenomenon in the context of intelligence research programs, organized abuse networks, and the Belgian investigation into the Dutroux affair. Survivors such as [[Regina Louf]], designated as witness X1, reported experiences consistent with multiple personality disorder, including the emergence of distinct personality states through systematic abuse.[^1]
 
-The creation of multiple personalities became an explicit objective of classified research programs. [[MKUltra|Project MKUltra's]] Subproject 136, approved in August 1961, sought to induce dissociative states in children through drugs and hypnosis for the purpose of creating multiple personalities. The program objective stated that researchers intended to develop methods for inducing dissociative states that would result in compartmentalized personality structures. This research aligned with MKUltra's broader mandate to discover effective methods of mind control to create brainwashed operatives capable of carrying out objectives unwittingly.[^1]
+The creation of multiple personalities became an explicit objective of classified research programs. [[Project MKUltra|Project MKUltra's]] Subproject 136, approved in August 1961, sought to induce dissociative states in children through drugs and hypnosis for the purpose of creating multiple personalities. The program objective stated that researchers intended to develop methods for inducing dissociative states that would result in compartmentalized personality structures. This research aligned with MKUltra's broader mandate to discover effective methods of mind control to create brainwashed operatives capable of carrying out objectives unwittingly.[^1]
 
 [[George H. Estabrooks]] claimed in a 1971 article published in Science Digest to have successfully created multiple personalities through hypnotic techniques in officers of the US Army's intelligence division during World War II. While his direct involvement with MKUltra remains unclear, his research established precedents for the military and intelligence applications of personality splitting. The theoretical framework posited that multiple personalities could be created and controlled through systematic intervention, with each personality compartmentalized to perform specific functions without the primary personality's awareness.[^1]
 

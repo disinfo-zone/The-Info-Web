@@ -1,4 +1,12 @@
-[[John Cohen]] was a [[United States House of Representatives Committee on the Judiciary|House Judiciary Committee]] investigator involved in the [[PROMIS Software Scandal]] investigation. Prior to this role, he served as a Los Angeles police officer, where he worked on international narcotics conspiracies with the [[Drug Enforcement Administration|DEA]] and [[Federal Bureau of Investigation|FBI]], gaining knowledge of Southeast Asian heroin and the rise of Latin American cartels.[1]
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+summary: "Cohen believed that the PROMIS software was stolen because it could be modified to track money laundering and could function as an active information-gathering and money-moving program within the international banking system, specifically mentioning CHIPS and SWIFT systems."
+---
+[[John Cohen]] was a [[United States House of Representatives Committee on the Judiciary|House Judiciary Committee]] investigator involved in the [[PROMIS Software Scandal]] investigation. Prior to this role, he served as a Los Angeles police officer, where he worked on international narcotics conspiracies with the [[DEA|DEA]] and [[Federal Bureau of Investigation|FBI]], gaining knowledge of Southeast Asian heroin and the rise of Latin American cartels.[1]
 
 Cohen believed that the [[PROMIS]] software was stolen because it could be modified to track money laundering and could function as an active information-gathering and money-moving program within the international banking system, specifically mentioning [[CHIPS]] and [[SWIFT]] systems. He suspected a narcotics connection to this capability, noting the irritation among law enforcement professionals regarding the intelligence agency-drug dealer connection.[1]
 

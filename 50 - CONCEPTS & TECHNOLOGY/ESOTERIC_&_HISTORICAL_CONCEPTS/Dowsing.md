@@ -7,6 +7,8 @@ tags:
   - divination
   - psi
 description: Dowsing is a divinatory practice used to locate water, minerals, or other hidden objects using a divining rod or pendulum.
+category: "Esoteric & Historical Concept"
+summary: "Dowsing is a divinatory practice used to locate water, minerals, or other hidden objects using a divining rod, usually a forked twig, but also a pendulum or one's hand."
 ---
 
 [[Dowsing]] is a divinatory practice used to locate water, minerals, or other hidden objects using a divining rod, usually a forked twig, but also a pendulum or one's hand. It is an ancient practice, with drawings of men with divining rods found in prehistoric cave paintings dating back to 6000 BC.[^1]

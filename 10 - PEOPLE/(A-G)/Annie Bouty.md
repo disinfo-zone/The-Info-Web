@@ -1,13 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Lawyer
   - Belgium
-  - 1980s-1990s
-  - Dutroux-Affair
-  - X-Dossier
+  - Dutroux
+summary: "Annie Bouty, a Belgian lawyer, was the partner of Michel Nihoul and assisted in his legal matters during the 1980s and 1990s, including fraud cases."
 ---
-Annie Bouty, a Belgian lawyer, was the partner of [[Michel Nihoul]] and assisted in his legal matters during the 1980s and 1990s, including fraud cases. As a lawyer, Bouty worked alongside Nihoul in Brussels, where they shared a residence and professional ties. In the [[X-Dossier]], witness [[Regina Louf]] (X1) accused Bouty of participating in events at Nihoul's parties, where Louf was supplied as a child prostitute. Louf described Bouty masturbating her with a dildo during these gatherings, which served blackmail purposes for contracts. Bouty's law practice overlapped with Nihoul's fraud operations, with the couple arrested in August 1996 alongside [[Marc Dutroux]] for related abductions. Bouty was charged with kidnapping, rape, and manslaughter in the deaths of [[Julie Lejeune]], [[Melissa Russo]], [[An Marchal]], and [[Eefje Lambrecks]], though she denied direct involvement in the murders. She testified that Dutroux abducted girls on Nihoul's orders for sale, with payments deposited into their joint accounts. Bouty was convicted in 2004 and sentenced to 30 years, released on parole in 2012 with conditions including residence in a convent and no contact with minors.[^1]
+
+Annie Bouty, a Belgian lawyer, was the partner of [[Jean-Michel Nihoul]] and assisted in his legal matters during the 1980s and 1990s, including fraud cases. As a lawyer, Bouty worked alongside Nihoul in Brussels, where they shared a residence and professional ties. In the [[X-Dossier]], witness [[Regina Louf]] (X1) accused Bouty of participating in events at Nihoul's parties, where Louf was supplied as a child prostitute. Louf described Bouty masturbating her with a dildo during these gatherings, which served blackmail purposes for contracts. Bouty's law practice overlapped with Nihoul's fraud operations, with the couple arrested in August 1996 alongside [[Marc Dutroux]] for related abductions. Bouty was charged with kidnapping, rape, and manslaughter in the deaths of [[Julie Lejeune]], [[Melissa Russo]], [[An Marchal]], and [[Eefje Lambrecks]], though she denied direct involvement in the murders. She testified that Dutroux abducted girls on Nihoul's orders for sale, with payments deposited into their joint accounts. Bouty was convicted in 2004 and sentenced to 30 years, released on parole in 2012 with conditions including residence in a convent and no contact with minors.[^1]
 
 Bouty's involvement in the case included her presence during Nihoul's interrogations and her own detention, where she admitted knowing of the basement captives in Dutroux's home but claimed fear prevented intervention. She described Nihoul's specifications for victims and the use of hidden cameras at parties for blackmail. Bouty's testimony confirmed the roles of accomplices [[Michelle Martin]] and [[Michel Lelievre]], and she implicated Nihoul in ordering abductions for elite clients. The X-Dossier, compiled by [[Jean-Marc Connerotte]] and [[Michel Bourlet]], included Louf's accusations against Bouty in orgies at locations like the Dolo nightclub and Faulx-les-Tombes chateau. Bouty denied these claims, attributing them to fabrication. Her partnership with Nihoul involved shared business interests, with financial trails linking to Dutroux's accounts.[^1]
 

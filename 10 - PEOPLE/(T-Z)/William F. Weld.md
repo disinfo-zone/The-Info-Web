@@ -1,15 +1,14 @@
 ---
+category: "PROMIS Scandal"
 tags:
   - Person
-  - Government
-  - US Attorney
-  - Law Enforcement
   - PROMIS
-  - Justice Department
-  - Boston
-  - Massachusetts
+  - CIA
+  - Lawyer
+summary: "This document advised Weld that the PROMIS software was being provided to an Arab Sheik for resale and general distribution in his region, contingent upon specific conditions, including a 'soft arrival' without paperwork or customs delays, and equipped with a special data retrieval unit."
 ---
-[[William F. Weld]] was the [[United States Attorney|U.S. Attorney]] in Boston, Massachusetts. He received a document dated May 16, 1985, signed by [[William Bradford Reynolds]], Assistant [[United States Attorney General|Attorney General]] in the Civil Rights Division of the [[United States Department of Justice|U.S. Department of Justice]].
+
+[[William F. Weld]] was the [[United States Attorney|U.S. Attorney]] in Boston, Massachusetts. He received a document dated May 16, 1985, signed by [[William Bradford Reynolds]], Assistant [[United States Attorney General|Attorney General]] in the Civil Rights Division of the [[Department of Justice|U.S. Department of Justice]].
 
 This document advised Weld that the [[PROMIS]] software was being provided to an Arab Sheik for resale and general distribution in his region, contingent upon specific conditions, including a "soft arrival" without paperwork or customs delays, and equipped with a special data retrieval unit. 
 

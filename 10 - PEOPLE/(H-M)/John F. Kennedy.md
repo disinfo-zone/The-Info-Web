@@ -1,17 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - President
-  - Government
-  - USA
-  - Nuclear Nonproliferation
+  - Nuclear
   - Israel
-  - Dimona
-  - Cold War
-  - CIA
-  - Assassination
-  - Foreign Policy
+summary: "Kennedy's presidency was marked by a struggle with Israel over its nuclear ambitions, particularly concerning the Dimona reactor."
 ---
+
 John F. Kennedy was the 35th President of the [[United States]], serving from 1961 until his assassination in 1963. He was intellectually and emotionally committed to a halt in the spread of nuclear weapons, with nonproliferation being a topic he would discuss for hours.[^1]
 
 Kennedy's presidency was marked by a struggle with [[Israel]] over its nuclear ambitions, particularly concerning the [[Dimona]] reactor. He established himself as firmly opposed to the Israeli bomb, and his administration insisted on American inspection teams being permitted full and unfettered access to [[Dimona]]. This stance was met with resistance from [[David Ben-Gurion]] and [[Shimon Peres]], who sought to protect the secret.[^1]

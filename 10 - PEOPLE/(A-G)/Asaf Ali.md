@@ -1,13 +1,12 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Arms Dealer
-  - Pakistan
   - BCCI
-  - Banking
-  - Military
-  - France
+  - CIA
+summary: "Asaf Ali is a Pakistani multimillionaire and arms dealer, closely associated with Agha Hasan Abedi and the BCCI."
 ---
+
 Asaf Ali is a Pakistani multimillionaire and arms dealer, closely associated with [[Agha Hasan Abedi]] and the [[Bank of Credit and Commerce International|BCCI]]. He is described as a key figure in the Middle Eastern arms business, often brokering deals that involved governments and intelligence agencies.[^1]
 
 Ali was known for his ability to make things happen in the arms trade, particularly when principals in a transaction preferred not to be seen doing business together. He was deeply involved in BCCI's operations, which facilitated arms sales, drug trafficking, and money laundering on a global scale.[^2]
@@ -22,7 +21,7 @@ He was also involved in the sale of Argentine TAM battle tanks to Iran in 1989, 
 
 Ali's connections were extensive, reaching high-level officials and intelligence agencies. He was a good friend of "Happy" [[Minwallah]], a close adviser to former Prime Minister [[Benazir Bhutto]], and was very close with the Pakistani air marshal.[^8] His ability to operate with apparent immunity was due to his deep ties within the Pakistani government and military.[^9]
 
-He was also involved in meetings with [[William Casey]], the former [[CIA]] Director, and accompanied [[Zia ul-Haq|General Zia]] on a trip to Washington where they met with Casey.[^10] 
+He was also involved in meetings with [[William J. Casey]], the former [[Central Intelligence Agency]] Director, and accompanied [[Zia ul-Haq|General Zia]] on a trip to Washington where they met with Casey.[^10] 
 
 ### Footnotes
 

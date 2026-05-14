@@ -1,12 +1,14 @@
 ---
 aliases:
-  - Stephan Schwartz
+- Stephan Schwartz
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Naval Officer
-  - Researcher
-  - Parapsychologist
+  - RemoteViewer
+  - Soviet
+summary: "Stephan Schwartz is a former naval officer and researcher who became deeply involved in psychic research, particularly in the area of Remote Viewing."
 ---
+
 # Stephan Schwartz
 
 Stephan Schwartz is a former naval officer and researcher who became deeply involved in [[Parapsychology|psychic research]], particularly in the area of [[Remote Viewing]]. He served as a special assistant for research and analysis to Chief of Naval Operations Admiral [[Elmo Zumwalt]], where he was briefed on the [[U.S. Navy]]'s [[Telepathy|telepathy]] studies and Soviet efforts in the field[^1].
@@ -17,7 +19,7 @@ In 1975, Schwartz left the Navy to pursue his enthusiasm for psychic research, a
 
 However, in the summer of 1977, Schwartz found an opportunity to conduct such an experiment. He teamed up with deep-sea explorers [[Don Keach]] and [[Don Walsh]], who had access to the *Taurus I*, a state-of-the-art, five-man submersible. Schwartz, along with [[Hal Puthoff]], [[Dale Graff]], the [[Stanford Research Institute|SRI]] team, and psychics [[Ingo Swann]] and [[Hella Hammid]], conducted [[Project Deep Quest]], one of the most unique psychic functioning experiments of the 1970s[^1].
 
-For the unclassified part of the project, Schwartz aimed to locate a previously unknown shipwreck on the seafloor. He provided Swann and Hammid with a nautical chart of Catalina Island and asked them to locate any sea wreck using [[Map Dowsing]]. Both psychics independently marked a single target on the composite map, which was later confirmed to be a previously unidentified shipwreck by the claw on *Taurus I*[^1].
+For the unclassified part of the project, Schwartz aimed to locate a previously unknown shipwreck on the seafloor. He provided Swann and Hammid with a nautical chart of Catalina Island and asked them to locate any sea wreck using [[Dowsing]]. Both psychics independently marked a single target on the composite map, which was later confirmed to be a previously unidentified shipwreck by the claw on *Taurus I*[^1].
 
 For the classified [[U.S. Air Force]] project, Schwartz, Puthoff, and Graff designed a remote-viewing experiment where psychics in the submerged *Taurus I* would attempt to identify images from sealed envelopes, with Puthoff and Graff acting as beacons at the target sites. This experiment aimed to test long-distance remote viewing inside a submersible and served as a fail-safe protocol for emergency military scenarios[^1].
 

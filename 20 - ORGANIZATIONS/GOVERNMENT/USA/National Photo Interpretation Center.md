@@ -3,6 +3,8 @@ tags:
   - Organization
   - Intelligence
   - USA
+category: "U.S. Government"
+summary: "The National Photo Interpretation Center (NPIC) was a U.S. intelligence agency established in December 1961, with Arthur C. Lundahl in charge."
 ---
 The National Photo Interpretation Center (NPIC) was a U.S. intelligence agency established in December 1961, with [[Arthur C. Lundahl]] in charge. Its mission was to provide more sophisticated photo intelligence, including huge photographic mosaics of areas like [[Israel]], capturing nuclear facilities such as [[Dimona]].[^1]
 

@@ -1,14 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Ingo Swann
+category: "Key Figures"
 tags:
-  - person
-  - psychic
-  - artist
-  - author
-description: Ingo Swann was a psychic, artist, and author who was instrumental in the development of remote viewing protocols at SRI. He is credited with coining the term "remote viewing."
+  - Person
+  - Stargate
+  - Military
+  - RemoteViewer
+  - SRI
+summary: "Ingo Douglas Swann—born with just one N—was not far from the stereotypical image of the psychic."
 ---
+
 Ingo Douglas Swann—born with just one N—was not far from the stereotypical image of the psychic. Growing up in Telluride, Colorado, he claimed to have out-of-body experiences and premonitions, to see people's auras, and to encounter supernatural beings. He was left-handed, intuitive, artistic, emotionally sensitive, curious about the unusual, and bored by the usual. He was considered odd and had few friends at school, later describing himself as "doubly, triply, quadruply freaky."[^1]
 
 After college, he joined the Army, serving in Korea and later at a Nike missile base outside Boston. After leaving the Army, Swann, then using the name "Douglas Swan," moved to Greenwich Village, New York City, to pursue a career as an artist. He worked for the UN for several years and wrote pulp fiction. By 1971, he had adopted his first name, Ingo, added a second 'n' to his surname on the advice of a numerologist, and discovered his unusual psychic talents. He began earning a living as a subject in parapsychology laboratories, including the City College of New York and the [[American Society for Psychical Research]].[^1]

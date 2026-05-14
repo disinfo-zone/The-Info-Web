@@ -1,20 +1,33 @@
 ---
+title: Department of Justice
 tags:
   - Organization
   - U.S._Government
   - Law_Enforcement
   - The_Finders
   - CIA
-  - 1993
+  - Dark_Alliance_Investigation
+category: "U.S. Government"
+summary: "The Department of Justice launched an internal inquiry in 1993 into CIA involvement with The Finders and a potential FBI coverup of the group's operations. The inquiry was initiated after the Department received a copy of the U.S."
 ---
 
 The Department of Justice launched an internal inquiry in 1993 into CIA involvement with [[The Finders]] and a potential FBI coverup of the group's operations. The inquiry was initiated after the Department received a copy of the U.S. Customs memo compiled by Special Agent [[Ramon J. Martinez]] on the raids of The Finders properties in February 1987.[^1]
 
-Details of the inquiry were leaked to the Washington Times, which published an article in December 1993 citing both the U.S. Customs memo and the Metropolitan Police Department report on CIA involvement. The article reported that a Metropolitan Police document dated February 19, 1987, quoted a CIA agent confirming that the agency was sending personnel to a Finders Corp., [[Future Enterprises]], for training in computer operations. The Department of Justice investigation examined whether the FBI had improperly classified or suppressed evidence related to The Finders' activities in 1987.[^1]
+The inquiry focused on multiple intelligence connections: [[Marion Pettie]]'s late wife [[Isabelle Pettie]] had been a CIA employee, one of his sons had worked for [[Air America]], and [[Future Enterprises]] had provided software training for CIA employees. The investigation's findings were not publicly released in full.[^1]
 
-The inquiry focused on multiple intelligence connections uncovered during the investigation. [[Marion Pettie]], the leader of The Finders, had a late wife named [[Isabelle Pettie]] who had been a CIA employee. One of his sons had worked for [[Air America]], a CIA cutout used to traffic heroin during the Vietnam War. [[Future Enterprises]] had provided software training for CIA employees, and an employee of the company named [[Robert Garder Terrell]] was a member of The Finders who had been let go in February 1987. The convergence of these connections suggested a pattern of overlap between The Finders and the intelligence community.[^1]
+### Dark Alliance Investigation
 
-The Department of Justice inquiry represented a rare instance of internal government examination of potential intelligence community involvement in organized child abuse networks. The investigation's findings were not publicly released in full, and the case was ultimately closed without prosecution of intelligence personnel. The 2019 FBI release of heavily redacted case files included documents related to the 1993 inquiry, though much of the material remained classified or redacted.[^1]
+In early 1982, CIA director [[William J. Casey]] and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted the [[Central Intelligence Agency]] from reporting drug crimes committed by its non-employees, including agents, assets, and non-staff employees. Drug offenses were specifically removed from the list of crimes the CIA was required to report. The agreement remained in effect from 1982 to 1995. CIA Inspector General [[Fred Hitz]] testified that "the period of 1982 to 1995 was one in which there was no official requirement to report on allegations of drug trafficking with respect to non-employees of the agency."[^2]
+
+### Protection of Danilo Blandón
+
+The Justice Department accorded [[Danilo Blandon|Danilo Blandón]] extraordinary treatment, reducing his sentence from life to approximately twenty-eight months, dropping charges against his wife [[Chepita Blandon|Chepita]], and releasing him as a full-time paid informant. Assistant U.S. Attorney [[LJ Oneale]] filed motions to have Blandón's sentence secretly reduced twice.[^3]
+
+O'Neale prosecuted [[Ricky Ross]] in [[San Diego]], filing a motion to prevent any mention of the CIA at trial, writing: "This matter, if true, would be classified." O'Neale admitted he had never checked with the CIA about Blandón's connections but insisted there was "absolutely no connection" between Blandón and the agency.[^4]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+
+[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
+[^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue: "The damage that has been done"
+[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 24: "They're gonna forget I was a drug dealer"
+[^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 26: "That matter, if true, would be classified"

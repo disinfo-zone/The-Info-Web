@@ -1,10 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Scientist
-  - Government Official
+  - Nuclear
+  - Physicist
   - Israel
+summary: "Yuval Neeman was an Israeli physicist and defense ministry intelligence officer."
 ---
+
 Yuval Neeman was an Israeli physicist and defense ministry intelligence officer. He was directly involved in [[Israel]]'s nuclear weapons program. Neeman was responsible for drafting [[David Ben-Gurion]]'s responses to [[John F. Kennedy]]'s increasingly sour correspondence regarding [[Dimona]]. Neeman described the exchange as "not a friendly exchange" and that Kennedy was "writing like a bully. It was brutal."[^1]
 
 ### Footnotes

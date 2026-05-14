@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Nurses present when Sinclair was brought into Fremont Hospital confided that he had been drugged on the day of the accident, receiving huge daily shots of Demerol."
+---
 [[Roderick Sinclair]] was a Sergeant in the Mariposa County Sheriff's Department. He was involved in a head-on collision on March 5, 1983, with a Secret Service car while scouting Queen Elizabeth II's motorcade route in the Yosemite National Park foothills (this became known as the [[Queen's Accident]]). This became known as the [[Queen's Accident]]. Three Secret Service agents were killed in the accident: [[George P. LaBarge]], [[Donald Robinson]], and [[Donald A. Bejcek]]. Sinclair sustained broken ribs and a fractured knee.[^1]
 
 Nurses present when Sinclair was brought into Fremont Hospital confided that he had been drugged on the day of the accident, receiving huge daily shots of Demerol. Some former deputies corroborated this. Assistant [[United States Attorney|U.S. Attorney]] [[James White]] in Fresno ordered [[Dr. Arthur Dahlem]]'s files seized to prove Sinclair's alleged drug use, but [[United States District Court|U.S. District Court]] Judge [[Robert E. Coyle]] ordered White to drop the criminal investigation, stating Sinclair's drug problem was not relevant and drug records could not be used because no blood tests were taken at Fremont Hospital. However, the blood tests had been taken but later disappeared.[^1]

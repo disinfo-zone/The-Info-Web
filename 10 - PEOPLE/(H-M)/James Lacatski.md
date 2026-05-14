@@ -1,4 +1,12 @@
-[[Dr. James Lacatski]], known as Jim, is a rocket scientist with a doctorate in engineering who is known for his role as the leader of the [[Advanced Aerospace Weapons System Applications Program]] (AAWSAP), the precursor to the [[Advanced Aerospace Threat Identification Program]] (AATIP).[^1]
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+  - Politician
+summary: "Rocket scientist and DIA program leader who headed AAWSAP, the precursor to the AATIP UFO investigation program."
+---
+[[James Lacatski]], known as Jim, is a rocket scientist with a doctorate in engineering who is known for his role as the leader of the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to the [[Advanced Aerospace Threat Identification Program]] (AATIP).[^1]
 
 ### Leadership of AAWSAP/AATIP
 

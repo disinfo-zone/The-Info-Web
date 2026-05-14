@@ -1,12 +1,12 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Cult_Leader
-  - Intelligence
-  - The_Finders
-  - Washington_DC
-  - 1980s
+  - CIA
+  - Military
+summary: "Marion Pettie was the leader of The Finders, a group that law enforcement and researchers have described as a commune or cult operating in the Washington D.C."
 ---
+
 
 Marion Pettie was the leader of [[The Finders]], a group that law enforcement and researchers have described as a commune or cult operating in the Washington D.C. area. The children in the group called him the game-caller. Pettie was a former Air Force Master Sergeant, a background that provided him with military training and connections that would later become relevant to investigations into the group's activities.[^1]
 

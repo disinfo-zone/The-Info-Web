@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Retired FBI agent in Fresno who served as a contact for Cheri Seymour and Michael Riconosciuto during investigations into drug trafficking and PROMIS."
+---
 [[J.H.]] was a retired [[Federal Bureau of Investigation|FBI]] agent in Fresno, California, who served as a contact for [[Cheri Seymour]] and [[Michael Riconosciuto]]. He was previously identified as "R.J." in the Internet version of *The Last Circle*.[^1]
 
 [[Michael Riconosciuto]] frequently communicated with J.H., attempting to negotiate entry into the Federal Witness Protection Program in exchange for information on high-level corruption, drug trafficking, and money laundering. Riconosciuto provided J.H. with details about "The Company," a drug/arms organization, and its activities, including the alleged involvement of [[Robert Booth Nichols]], [[Michael Abbell]], [[Gilberto Rodriguez Orejuela|Gilbert Rodriguez]], and [[Jose Santacruz Londono|Jose Londono]] in illicit financial transactions.[^1]

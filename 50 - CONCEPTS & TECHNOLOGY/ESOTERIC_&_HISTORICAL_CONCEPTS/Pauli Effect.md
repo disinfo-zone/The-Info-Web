@@ -7,6 +7,8 @@ tags:
   - physics
   - paranormal
 description: The Pauli effect is the anecdotal tendency of technical equipment to encounter critical failure in the presence of certain people.
+category: "Esoteric & Historical Concept"
+summary: "The Pauli Effect is the anecdotal tendency of technical equipment to encounter critical failure in the presence of certain people."
 ---
 
 The [[Pauli Effect]] is the anecdotal tendency of technical equipment to encounter critical failure in the presence of certain people. It is named after the Austrian theoretical physicist Wolfgang Pauli, who was known for his uncanny ability to cause experimental equipment to malfunction simply by being in its vicinity.[^1]

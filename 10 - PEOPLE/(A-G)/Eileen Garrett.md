@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Eileen Garrett
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - psychic
-  - medium
-description: Eileen Garrett was an Irish medium who was tested at Andrija Puharich's Round Table Foundation.
+  - Person
+  - RemoteViewer
+summary: "Eileen Garrett was an Irish medium who was well-known in New York City parapsychology circles."
 ---
+
 
 Eileen Garrett was an Irish medium who was well-known in New York City parapsychology circles. She was one of the psychics tested by [[Andrija Puharich]] at his [[Round Table Foundation]] in Maine.[^1]
 

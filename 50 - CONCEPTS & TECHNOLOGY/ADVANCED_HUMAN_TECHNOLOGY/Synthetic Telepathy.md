@@ -8,6 +8,8 @@ tags:
   - military
   - psi
 description: Synthetic telepathy, also known as the Frey effect, is a technology that allows the brain to receive messages perceived as voice transmissions through microwave input signals.
+category: "Advanced Human Technology"
+summary: "Synthetic Telepathy, also known as the Frey Effect, is a technology discovered by Allan H. Frey in 1961."
 ---
 
 [[Synthetic Telepathy]], also known as the [[Frey Effect]], is a technology discovered by [[Allan H. Frey]] in 1961. It involves using microwave input signals to allow the brain to receive messages that are perceived as voice transmissions, without any auditory input. This phenomenon suggests a direct interaction between electromagnetic energy and the human nervous system.[^1]

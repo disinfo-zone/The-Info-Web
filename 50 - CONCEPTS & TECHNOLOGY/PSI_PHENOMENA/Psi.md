@@ -6,6 +6,8 @@ tags:
   - concept
   - parapsychology
 description: Psi is a general term in parapsychology for psychic phenomena, encompassing abilities such as extrasensory perception (ESP) and psychokinesis (PK).
+category: "Psi Phenomenon"
+summary: "Psi is a general term in Parapsychology for psychic phenomena, encompassing abilities such as Extrasensory Perception (ESP) and Psychokinesis (PK)."
 ---
 
 [[Psi]] is a general term in [[Parapsychology]] for psychic phenomena, encompassing abilities such as [[Extrasensory Perception|extrasensory perception]] (ESP) and [[Psychokinesis|psychokinesis]] (PK). The concept of psi has been explored throughout history, from ancient shamans and prophets to modern scientific research. In the context of the *Remote Viewers* narrative, psi is the underlying phenomenon investigated by programs like the [[STARGATE PROJECT|Stargate Project]] for military and intelligence applications.[^1]

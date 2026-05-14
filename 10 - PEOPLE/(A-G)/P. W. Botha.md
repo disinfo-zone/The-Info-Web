@@ -1,9 +1,12 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Politics
-  - South Africa
+  - Israel
+  - Military
+summary: "Prime Minister of South Africa who hinted at nuclear weapons capability after the 1979 VELA Satellite detected a probable nuclear test."
 ---
+
 P. W. Botha was the Prime Minister of [[South Africa]]. On September 25, 1979, three days after a [[VELA Satellite]] recorded probable evidence of a nuclear explosion over the South Indian Ocean, Botha warned the Cape National Party congress that [[South Africa]] had and could produce sufficient arms to counter terrorism. He hinted that they might have military weapons that others did not know about, suggesting that [[South Africa]] and its Israeli partners had successfully conducted a secret nuclear test.[^1]
 
 ### Footnotes

@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "Former San Francisco Police inspector who investigated Paul Morasca's 1982 homicide and its connection to Philip Arthur Thompson."
+---
 [[Eddy Erdelatz]] was a former San Francisco Police inspector. In 2000, he provided a valuable lead about an obscure file, the "Paul Morasca Homicide Investigation File – Case No. 82-1052505," which had not been computerized and was essentially inaccessible without direct knowledge of its existence. Erdelatz had investigated suspected drug trafficking and money laundering in 1981, and then investigated [[Paul Morasca]]'s homicide in January 1982, placing a comprehensive report within the file relative to [[Philip Arthur Thompson]]'s suspected connections to the murder.[^1]
 
 ---

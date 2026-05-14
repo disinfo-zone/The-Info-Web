@@ -1,14 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Joe McMoneagle
+category: "Key Figures"
 tags:
-  - person
-  - military
-  - psychic
-  - remoteviewer
-description: Joe McMoneagle was a U.S. Army warrant officer and one of the most gifted remote viewers in the Stargate Project. He was known for his ability to perceive technical details and his accuracy in remote viewing sessions.
+  - Person
+  - Stargate
+  - CIA
+  - Military
+  - RemoteViewer
+summary: "Joe McMoneagle was a U.S."
 ---
+
 ---
 Joe McMoneagle was a U.S. Army warrant officer and one of the original six remote viewers in the [[STARGATE PROJECT]]. He was recruited into the program, then codenamed [[STARGATE PROJECT|Gondola Wish]], in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 

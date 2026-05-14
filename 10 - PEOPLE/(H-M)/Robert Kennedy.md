@@ -1,14 +1,12 @@
 ---
+category: "JFK Assassination"
 tags:
   - Person
-  - Politics
-  - USA
-  - Attorney General
-  - Kennedy Administration
-  - Justice Department
-  - Israel
-  - Government Official
+  - JFK
+  - OrganizedCrime
+summary: "Robert Kennedy was an American politician who served as Attorney General during his brother John F."
 ---
+
 Robert Kennedy was an American politician who served as Attorney General during his brother [[John F. Kennedy]]'s presidency. In an interview published in 1988 by the [[John F. Kennedy Library]], he expressed a cynical view of [[Myer Feldman]], noting that while his older brother valued Feldman's work, Feldman's major interest was [[Israel]] rather than the [[United States]].[^1]
 
 ### Footnotes

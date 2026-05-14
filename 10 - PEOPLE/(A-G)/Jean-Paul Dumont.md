@@ -1,15 +1,14 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Lawyer
   - Belgium
-  - 1980s-1990s
-  - Dutroux-Affair
-  - X-Dossier
+summary: "Jean-Paul Dumont, a Belgian lawyer, represented various figures in legal matters during the 1980s and 1990s, including connections to the X-Dossier investigation into child abuse networks."
 ---
+
 Jean-Paul Dumont, a Belgian lawyer, represented various figures in legal matters during the 1980s and 1990s, including connections to the [[X-Dossier]] investigation into child abuse networks. As a lawyer, Dumont represented clients linked to the [[Christian Social Party]] (CSP) and financial institutions like [[Bank Brussels Lambert]], where [[Forges de Clabecq]] served as a director. In the X-Dossier, witness [[Regina Louf]] (X1) accused Dumont of participating in the 1983 gang rape and murder of Carine Dellaert after Louf assisted in the birth of Dellaert's baby, which was taken away. Louf described the event involving Nihoul and Count [[Count Leopold Lippens]]. Dumont's law practice involved representing individuals associated with [[CRIES]], a group accused of child pornography production using [[UNICEF]] basements for filming. His professional network overlapped with the elite circles detailed in the dossier compiled by Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]]. Dumont denied all accusations of involvement in abuse.[^1]
 
-Dumont's law firm handled cases tied to CSP politicians, including those backed by [[Societe Generale de Banque]], a major financial institution with interests in the region. The X-Dossier included Louf's identification of Dumont from photos as one of the rapists in Dellaert's murder, describing him in acts with Nihoul. The dossier also linked him to [[Michel Nihoul]]'s parties and operations, with Dumont representing [[Roger Boas]] of [[ASCO Industries NV]], a company providing vehicles to Dutroux. Investigations under Connerotte verified some details but faced challenges in prosecution. Dumont's ties to the network remained testimonial from X1.[^1]
+Dumont's law firm handled cases tied to CSP politicians, including those backed by [[Societe Generale de Banque]], a major financial institution with interests in the region. The X-Dossier included Louf's identification of Dumont from photos as one of the rapists in Dellaert's murder, describing him in acts with Nihoul. The dossier also linked him to [[Jean-Michel Nihoul]]'s parties and operations, with Dumont representing [[Roger Boas]] of [[ASCO Industries NV]], a company providing vehicles to Dutroux. Investigations under Connerotte verified some details but faced challenges in prosecution. Dumont's ties to the network remained testimonial from X1.[^1]
 
 Dumont's professional role as a lawyer positioned him in legal circles overlapping with accused figures like [[Paul Vanden Boeynants]] and the Lippens family. His representation of CRIES members involved in pornography distribution through groups like [[Gaie France]] and [[Toro Bravo]] was documented in the dossier. The X-Dossier summary noted Dumont's involvement in sadomasochist events with X-witnesses. No direct evidence beyond testimony led to charges against Dumont.[^1]
 

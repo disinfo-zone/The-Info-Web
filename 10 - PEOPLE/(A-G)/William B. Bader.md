@@ -1,8 +1,11 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Government
+  - Israel
+summary: "Assistant deputy under secretary of defense for policy in 1979 who was frustrated by Israel's unauthorized access to KH-11 satellite intelligence."
 ---
+
 William B. Bader served as the assistant deputy under secretary of defense for policy in 1979. He recalled his frustration at knowing that the Israelis were "edging deeper into the overhead" regarding [[KH-11]] satellite intelligence and not knowing how to stop it. He noted the difficulty in complaining about such access, as it might jeopardize one's own position.[^1]
 
 ### Footnotes

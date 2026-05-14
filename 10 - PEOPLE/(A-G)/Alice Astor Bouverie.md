@@ -1,12 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Alice Astor Bouverie
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - philanthropist
-description: Alice Astor Bouverie was an American heiress, philanthropist, and a key financial backer of Andrija Puharich's Round Table Foundation.
+  - Person
+  - RemoteViewer
+summary: "Alice Astor Bouverie was an American heiress, philanthropist, and the only daughter of John Jacob Astor IV, who died in the sinking of the RMS Titanic."
 ---
+
 
 Alice Astor Bouverie was an American heiress, philanthropist, and the only daughter of John Jacob Astor IV, who died in the sinking of the RMS Titanic. She was a significant financial supporter of [[Andrija Puharich]]'s paranormal research.[^1]
 

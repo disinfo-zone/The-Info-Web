@@ -7,6 +7,8 @@ tags:
   - research
   - science
 description: The Institute of Noetic Sciences (IONS) is an American nonprofit parapsychological research institute.
+category: "Private Organization"
+summary: "The Institute of Noetic Science (IONS) is an American nonprofit parapsychological research institute. It was founded by former Apollo 14 astronaut Edgar Mitchell, a known psi enthusiast."
 ---
 
 The [[Institute of Noetic Science]] (IONS) is an American nonprofit parapsychological research institute. It was founded by former Apollo 14 astronaut [[Edgar Mitchell]], a known psi enthusiast. In the context of the *Remote Viewers* narrative, the Institute provided a grant that funded [[Andrija Puharich]]'s efforts to bring [[Uri Geller]] to America in 1972 for scientific testing at [[Stanford Research Institute|SRI]].[^1]

@@ -7,6 +7,8 @@ tags:
   - UK
   - 2000s
   - VIP_Network
+category: "Intelligence Operation"
+summary: "The investigation into Jonathan King and Chris Denning in the early 2000s led to Operation Arundel, into a suspected pedophile ring of BBC celebrities in the 1970s and 1980s who allegedly procured boys and girls from an underage nightclub called the..."
 ---
 
 The investigation into [[Jonathan King]] and [[Chris Denning]] in the early 2000s led to Operation Arundel, into a suspected pedophile ring of BBC celebrities in the 1970s and 1980s who allegedly procured boys and girls from an underage nightclub called the [[Walton Hop Disco]]. This investigation led to the arrest of another BBC personality in 2003, but the charges against them were subsequently dropped. One suspect in the Operation Arundel investigation who was never arrested or charged had been a good friend and colleague of both Denning and King, BBC Radio One DJ [[Jimmy Savile]]. Nothing came of this though. The case was closed and forgotten about for nearly a decade.[^1]

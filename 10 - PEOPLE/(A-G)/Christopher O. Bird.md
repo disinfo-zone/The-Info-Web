@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: Christopher O. Bird
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - author
-  - CIA
-description: Christopher O. Bird was an American author and alleged CIA operative, known for co-authoring "The Secret Life of Plants."
+  - Person
+  - RemoteViewer
+summary: "American author and alleged CIA operative who co-authored The Secret Life of Plants, popularizing Cleve Backster's plant sentience experiments."
 ---
+
 
 [[Christopher O. Bird]] was an American author and alleged [[Central Intelligence Agency|CIA]] operative. He is known for co-authoring the 1973 bestselling book, *[[The Secret Life of Plants]]*, which popularized the controversial experiments of [[Cleve Backster]] on plant sentience.[^1]
 

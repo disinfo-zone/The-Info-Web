@@ -1,3 +1,12 @@
+---
+category: "Law Enforcement & Legal"
+tags:
+  - Person
+  - Lawyer
+  - FBI
+  - LawEnforcement
+summary: "In October 1984, Mattheys recruited private investigator Raymond Jenkins and retired FBI agent Tom Walsh from Merced to investigate Van Meter's disappearance and help him clean up the Sheriff's Department."
+---
 [[Ken Mattheys]] was the newly elected Sheriff of Mariposa County who responded to [[Leslie Van Meter]]'s Citizen's Complaint by re-opening the investigation into her husband [[Ron Van Meter]]'s disappearance. He appointed deputies [[Frank McCoy]] and [[Lonnie Hammond]] to handle the internal affairs aspect.[^1]
 
 In October 1984, Mattheys recruited private investigator [[Raymond Jenkins]] and retired [[Federal Bureau of Investigation|FBI]] agent [[Tom Walsh]] from Merced to investigate Van Meter's disappearance and help him clean up the Sheriff's Department. These investigators subsequently concluded that [[Ron Van Meter]] was murdered after obtaining evidence of drug trafficking within the department.[^1]

@@ -1,6 +1,11 @@
 ---
-tags: ["Person", "Banker", "Government Official"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+summary: "Robin Leigh-Pemberton served as the Governor of the Bank of England."
 ---
+
 Robin Leigh-Pemberton served as the Governor of the [[Bank of England]].[^1]
 
 ### Role in BCCI Scandal

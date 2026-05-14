@@ -1,3 +1,10 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+summary: "Founder of MCA and longtime political supporter of Ronald Reagan who helped make Reagan a millionaire through inflated property deals."
+---
 [[Jules Stein]] was the founder of [[Music Corporation of America|MCA]]. He was a long-time political supporter of [[Ronald Reagan]]. Stein, along with [[Lew Wasserman]], negotiated the sale of Reagan's [[California]] properties at hugely inflated prices, which helped make Reagan a millionaire.[^1]
 
 ---

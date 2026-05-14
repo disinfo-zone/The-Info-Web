@@ -1,14 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Peter Maris
+category: "Psychics & Remote Viewers"
 tags:
-  - person
-  - CIA
-  - intelligence
-  - physicist
-description: Peter Maris was a CIA physicist who, along with Ken Kress, tasked Pat Price with remote viewing the Soviet military research facility at Semipalatinsk.
+  - Person
+  - RemoteViewer
+  - Military
+  - SRI
+  - Soviet
+summary: "Peter Maris was a CIA physicist who, along with Ken Kress, an engineer from the Office of Technical Service (OTS), tasked Pat Price with remote viewing the mysterious Soviet military research facility at Semipalatinsk (URDF-3)."
 ---
+
 
 Peter Maris was a [[Central Intelligence Agency|CIA]] physicist who, along with [[Ken Kress]], an engineer from the Office of Technical Service (OTS), tasked [[Pat Price]] with remote viewing the mysterious Soviet military research facility at Semipalatinsk (URDF-3). Maris and Kress were the CIA officials who brought in the coordinates for the site, which was also known as P-NUTS (probable nuclear underground test site) by Air Force intelligence. They knew little about the facility, only that it was a "research facility."[^1]
 

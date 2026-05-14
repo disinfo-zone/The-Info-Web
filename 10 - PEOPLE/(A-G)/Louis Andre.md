@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Louis Andre
+- Louis Andre
+category: "Skeptics & Critics"
 tags:
   - Person
-  - DIA
-  - Analyst
+  - Skeptic
+summary: "Louis Andre was an analyst with the DIA who worked on the case of William Richard Higgins, a Marine Lieutenant Colonel abducted in Lebanon in 1988."
 ---
+
 Louis Andre was an analyst with the [[Defense Intelligence Agency|DIA]] who worked on the case of [[William Richard Higgins]], a Marine Lieutenant Colonel abducted in [[Lebanon]] in 1988. Andre had never spoken to a reporter before, and noted that many aspects of the operation remained classified due to its sensitive nature[^1].
 
 Andre was initially highly skeptical of [[Remote Viewing]], but he came to accept that the information provided by [[Angela Dellafiora]], one of the DIA's remote viewers, was valuable to the overall mission. Dellafiora identified where she thought Higgins was being held and perceived him to be alive. She also produced phonetically the name of one of the Amal Militia commanders involved in the Higgins case, providing accurate details about his role and family members[^1].

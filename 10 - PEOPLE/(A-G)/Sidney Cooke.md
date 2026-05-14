@@ -1,12 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - Child_Abuser
-  - UK
-  - 1980s
-  - Operation_Orchid
-  - VIP_Network
+summary: "Sidney Cooke led a gang of murderous pedophiles known as the 'Dirty Dozen' who were convicted of the abduction, rape, and murder of three boys during the 1980s."
 ---
+
 
 Sidney Cooke led a gang of murderous pedophiles known as the "Dirty Dozen" who were convicted of the abduction, rape, and murder of three boys during the 1980s. They were suspected to have killed up to twenty more victims. Cooke and three others were specifically convicted for these crimes. One of Cooke's known victims was 14-year-old Jason Swift, who was murdered in Hackney, east London, in 1985. Swift was sexually abused and strangled during a male orgy. It was rumored that Jason's killing had been filmed, but no copies of a video were ever found.[^1]
 

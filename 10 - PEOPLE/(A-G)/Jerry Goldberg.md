@@ -1,3 +1,10 @@
+---
+category: "Authors & Journalists"
+tags:
+  - Person
+  - Journalist
+summary: "Goldberg's article mentioned the 'Queen's Accident' and threats received by individuals who spoke out against the sheriff and district attorney."
+---
 [[Jerry Goldberg]] was a reporter for *Capitol News Service* in Sacramento. He wrote a story on February 17, 1988, entitled, "Law & Order Failing on Hill County," which discussed the corruption in Mariposa County. Goldberg noted that *Capitol News Service* had discussions with several Attorney General staff members who "stonewalled questions" about any investigation or willingness to meet with [[D.I.G. (Decency in Government)|D.I.G.]].[^1]
 
 Goldberg's article mentioned the "[[Queen's Accident]]" and threats received by individuals who spoke out against the sheriff and district attorney. He also noted that a San Joaquin County official stated a key element to the problems in Mariposa County related to the fatal accident involving Queen Elizabeth's escort vehicle.[^1]

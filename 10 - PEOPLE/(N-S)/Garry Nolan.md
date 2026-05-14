@@ -1,12 +1,13 @@
 ---
 aliases:
-  - Garry Nolan
+- Garry Nolan
+category: "UFO & Anomalous Phenomena"
 tags:
   - Person
-  - Scientist
-  - Researcher
-  - Geneticist
+  - UFO
+summary: "Garry Nolan is a leading research scientist at Stanford University, specializing in genetics, immunology, and bioinformatics."
 ---
+
 Garry Nolan is a leading research scientist at [[Stanford University]], specializing in genetics, immunology, and bioinformatics. He trained under Nobel Prize-winning biologist [[David Baltimore]] and has published over 200 research papers and holds twenty biotechnology patents[^1].
 
 Nolan is collaborating with [[Kit Green]] on a research project to study individuals who have experienced enigmatic injuries, such as burns, skin lesions, and cancers, and who have also had face-to-face encounters with [[Unidentified Aerial Phenomena|UAPs]]. Nolan has met and worked with many of Green's patients and confirmed that they were injured, observing physiological consequences of the harm they endured[^1].
@@ -27,7 +28,7 @@ Further research revealed that many of the individuals in the study group had be
 
 ### Analysis of UAP Materials
 
-Dr. Nolan has also been involved in the analysis of alleged UAP materials. He and the French scientist [[Jacques Vallée]] collaborated on a paper analyzing a metallic slag recovered from a 1977 UAP crash in Council Bluffs, Iowa. Their analysis revealed that the material contained isotopes of magnesium and iron that were arranged in a highly structured and deliberate manner, a feat that is beyond our current technological capabilities.[^2]
+Dr. Nolan has also been involved in the analysis of alleged UAP materials. He and the French scientist [[Jacques Vallee]] collaborated on a paper analyzing a metallic slag recovered from a 1977 UAP crash in Council Bluffs, Iowa. Their analysis revealed that the material contained isotopes of magnesium and iron that were arranged in a highly structured and deliberate manner, a feat that is beyond our current technological capabilities.[^2]
 
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

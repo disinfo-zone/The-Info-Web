@@ -7,6 +7,8 @@ tags:
   - thinktank
   - research
 description: The Rand Corporation is an American nonprofit global policy think tank.
+category: "Private Organization"
+summary: "The Rand Corporation is an American nonprofit global policy think tank. In the context of the *Remote Viewers* narrative, it is mentioned as being larger and more prestigious than Stanford Research Institute among scientific think tanks in the early..."
 ---
 
 The [[Rand Corporation]] is an American nonprofit global policy think tank. In the context of the *Remote Viewers* narrative, it is mentioned as being larger and more prestigious than [[Stanford Research Institute|SRI]] among scientific think tanks in the early 1970s.[^1]

@@ -7,6 +7,8 @@ tags:
   - Explosives Cache
   - Extremism
 description: The FBI seized the largest explosives cache in its history from Brad Kenneth Spafford's Virginia farm, including 150+ pipe bombs, a rifle, and unstable chemicals. A confidential source revealed Spafford's extremist views and plans for violence, leading to his arrest after a year-long investigation.
+category: "Modern Incident"
+summary: "January 1, 2025 FBI announcement of the largest explosives cache seizure in bureau history."
 ---
 On January 1, 2025, the [[Federal Bureau of Investigation]] announced they seized the "largest explosives cache in FBI history."
 

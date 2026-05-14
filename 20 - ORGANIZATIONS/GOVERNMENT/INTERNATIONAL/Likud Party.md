@@ -3,6 +3,8 @@ tags:
   - Organization
   - Political Party
   - Israel
+category: "Foreign Government"
+summary: "The Likud Party is a major right-wing political party in Israel. Its surprising victory in the May 1977 national elections ended twenty-nine years of Mapai Party and Labor Party domination of the political process in Israel."
 ---
 The Likud Party is a major right-wing political party in [[Israel]]. Its surprising victory in the May 1977 national elections ended twenty-nine years of [[Mapai Party|Mapai]] and [[Labor Party]] domination of the political process in [[Israel]]. This brought to power a government that was even more committed than Labor to the [[Samson Option]] and the necessity of an Israeli nuclear arsenal. The Likud Party, led by [[Menachem Begin]], represented a populist-nationalist view of a greater [[Israel]] with a right to permanent control of the [[West Bank]].[^1]
 

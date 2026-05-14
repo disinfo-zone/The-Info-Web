@@ -6,6 +6,8 @@ tags:
   - 1970s
   - 1980s
   - Spartacus_Network
+category: "Private Organization"
+summary: "NAMBLA (North American Man/Boy Love Association) was a United States-based organization that advocated for the normalization of sexual relationships between men and boys."
 ---
 NAMBLA (North American Man/Boy Love Association) was a United States-based organization that advocated for the normalization of sexual relationships between men and boys. Several NAMBLA members also belonged to [[Spartacus Club]], the membership organization operated by [[John Stamford]] from [[Amsterdam]]. FBI and other federal law enforcement records identified [[John Stamford]] as a Club Spartacus official, and NAMBLA officials did not deny that several of the group's members belonged to [[Spartacus Club]]. Names of Westchester members of [[Spartacus Club]] were discovered along with thousands of other men and women in the London computers of [[John Stamford]]. Vital information on each member stored on computer and guarded with secret codes included their sexual preferences, the desired age of the children, and preferred country of origin. [[John Stamford]]'s operation, aided through his association with [[Francis Shelden]], extended all the way to the United States in affiliation with NAMBLA.[^1]
 

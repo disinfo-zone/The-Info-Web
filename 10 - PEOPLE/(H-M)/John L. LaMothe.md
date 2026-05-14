@@ -1,13 +1,15 @@
 ---
 aliases:
-  - John LaMothe
+- John LaMothe
   - Captain John LaMothe
+category: "Military"
 tags:
   - Person
   - Military
-  - Author
-  - Intelligence
+  - General
+summary: "U.S. Army intelligence officer who authored the 1972 DIA report on Soviet psi research, spurring U.S. concerns about a 'psi gap'."
 ---
+
 # John L. LaMothe
 
 Captain John L. LaMothe was an author and military intelligence officer with the Medical Intelligence Office of the [[U.S. Army]], Office of the Surgeon General. He was tasked with conducting a joint intelligence assessment of the "Soviet psychoenergetic threat," a term coined by the [[Pentagon]] to include all matters related to Soviet anomalous mental phenomena research and [[Electromagnetic Weapons|electromagnetic weapons]] programs[^1].
@@ -25,7 +27,7 @@ In essence, LaMothe argued that a Soviet agent could disrupt military technology
 
 Citing scientists and experts like [[Oliver J. Caldwell]] and [[Sybil Leek]], LaMothe saw an immediate need for the U.S. to create a program to mirror the Soviets' psychic warfare undertakings. However, the alarmist nature of his text limited its distribution, and those in the know considered LaMothe's sources biased in favor of ESP research programs[^1].
 
-Despite the controversy, LaMothe's report circulated through the military and intelligence communities, prompting the [[CIA]] to take action and escalate its own psychic research programs[^1].
+Despite the controversy, LaMothe's report circulated through the military and intelligence communities, prompting the [[Central Intelligence Agency]] to take action and escalate its own psychic research programs[^1].
 
 ## Publications
 *   *Controlled Offensive Behavior—USSR* (1972)

@@ -9,6 +9,8 @@ tags:
   - BBC
   - Historical_Abuse
   - Operation_Arundel
+category: "Intelligence Operation"
+summary: "Operation Ravine was a Surrey Police investigation launched in the mid-2010s following a review of previous inquiries into historical child sexual abuse at the Walton Hop Disco, a popular teenage nightclub in Walton-on-Thames that operated from 1958..."
 ---
 
 ### Origins and Context

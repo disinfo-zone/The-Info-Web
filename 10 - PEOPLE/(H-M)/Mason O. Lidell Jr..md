@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "After entering the apartment and getting a brief glance at the body and the apartment, Lidell was ordered to leave."
+---
 [[Mason O. Lidell Jr.]] was the superintendent of [[Paul Wilcher]]'s building. He provided information regarding the scene after Wilcher's death. Lidell stated that a Lieutenant and a Sergeant from the DC Police, with the help of firemen, entered Wilcher's apartment. They found Wilcher's computer turned on and, after reading what was on the screen, summoned the [[Federal Bureau of Investigation|FBI]].[^1]
 
 After entering the apartment and getting a brief glance at the body and the apartment, Lidell was ordered to leave. The apartment was sealed off for the rest of the day, except for official personnel. The body was removed around 12:30 p.m., though Lidell did not witness this. He noted that when he re-entered the apartment later, there was blood on the floor and commode that was not present earlier, which he was told was due to measures taken to move the body.[^1]

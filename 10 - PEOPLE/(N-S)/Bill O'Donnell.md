@@ -1,13 +1,15 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Bill O'Donnell
+category: "Key Figures"
 tags:
-  - person
+  - Person
+  - Stargate
   - CIA
-  - intelligence
-description: Bill O'Donnell was a CIA officer who inadvertently provided the coordinates for a secret NSA facility, leading to the Sugar Grove incident in early remote viewing research.
+  - Military
+  - RemoteViewer
+  - NSA
+summary: "This incident, where Ingo Swann and Pat Price accurately described the NSA facility despite being given coordinates for O'Donnell's cabin, became known as the Sugar Grove incident."
 ---
+
 
 [[Bill O'Donnell]] was a [[Central Intelligence Agency|CIA]] officer. In May 1973, he inadvertently provided the coordinates for a secret [[NSA]] facility near Sugar Grove, West Virginia, to [[Richard Kennett]]. Kennett had asked O'Donnell for coordinates of a place on the East Coast that, if a drawing or photograph were shown later, O'Donnell would be able to confirm. O'Donnell, unaware of the true purpose, provided the precise coordinates of his summer cabin, which happened to be near the highly classified NSA site.[^1]
 

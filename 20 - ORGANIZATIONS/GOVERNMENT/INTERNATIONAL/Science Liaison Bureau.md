@@ -3,6 +3,8 @@ tags:
   - Organization
   - Intelligence
   - Israel
+category: "Foreign Government"
+summary: "The Science Liaison Bureau, also known as LAKAM, was an Israeli intelligence agency. It was previously known as the Office of Special Tasks and was led by Binyamin Blumberg."
 ---
 The Science Liaison Bureau, also known as LAKAM, was an Israeli intelligence agency. It was previously known as the Office of Special Tasks and was led by [[Binyamin Blumberg]]. LAKAM's agents operated worldwide, collecting technical information and setting up front companies in [[Europe]] and [[Latin America]] to purchase high-tech equipment from the [[United States]] that would otherwise not be permitted for export to [[Israel]].[^1]
 

@@ -7,6 +7,8 @@ tags:
   - Human Intelligence
   - Special Access Programs
 description: The Great Skill Program (GSP) identifies and develops Army recruits into soldier spies for HUMINT, CI, and Technical Intelligence. Participants are removed from standard tracking systems, allowing flexible, secretive assignments to high-security Special Access Programs, often operating without traditional military identifiers.
+category: "Psi Research Program"
+summary: "Great Skill Program (GS or GSP) is a secretive internal U.S. Army program to identify promising recruits and help to develop them into soldier spies."
 ---
 Great Skill Program (GS or GSP) is a secretive internal [[U.S. Army]] program to identify promising recruits and help to develop them into soldier spies. The focus is on Human Intelligence (HUMINT), Counterintelligence (CI), and Technical Intelligence[^2].
 
@@ -17,7 +19,7 @@ The primary motivation is to allow these soldiers to be assigned to [[Special Ac
 While not always true, members operating in these roles are almost “in the army without being in the army” and can work without uniforms, ranks, etc to protect secrecy.
 
 The program was born out of the [[National Security Act of 1947]] and has changed names throughout time (for example, in 1977 it was referred to as The Military Intelligence Enlisted Case Officer Program[^4] and is now renamed Army Strategic Intelligence Recruiting[^3]). There are ways for members of other services to operate within this program, but it’s primarily intended for Army enlisted members.
-#### Footnotes
+### Footnotes
 
 [^1]: Imminent (2024), p32 - note, Elizondo calls this Great Skill**s** and Gr**e**y Fox, both of which are incorrect
 [^2]: [Army Enlistment overview](https://armyreenlistment.com/site/wp-content/uploads/2020/06/Special-Assignments-February-2019.pdf)

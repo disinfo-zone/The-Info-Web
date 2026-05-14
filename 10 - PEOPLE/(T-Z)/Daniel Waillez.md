@@ -1,12 +1,12 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Pornographer
   - Belgium
-  - 1990s
-  - Dutroux-Affair
-  - Toro-Bravo
+  - Dutroux
+summary: "Daniel Waillez, a Belgian pornographer, was involved in the production and distribution of child pornography through the Toro Bravo company during the 1990s."
 ---
+
 Daniel Waillez, a Belgian pornographer, was involved in the production and distribution of child pornography through the [[Toro Bravo]] company during the 1990s. Toro Bravo, a child porn production outfit, was linked to the broader networks investigated in the [[Marc Dutroux]] case. Waillez's role included producing and distributing explicit materials involving minors, with Toro Bravo operating as part of the underground child pornography trade in Belgium. Police raids in the 1990s uncovered Waillez's involvement, leading to his arrest as part of the crackdown on child abuse networks connected to the Dutroux affair. Waillez was convicted for possession and distribution of child pornography, with evidence showing his participation in the production and sale of videos and photos. His activities tied into the international rings exposed during the investigation, with Toro Bravo supplying materials to pedophile groups.[^1]
 
 Waillez's Toro Bravo company produced explicit content involving children, with materials distributed through mail order and private networks. The company's operations were raided in the 1990s, uncovering videos and photos that linked to the broader child abuse web in Belgium. Waillez's conviction stemmed from evidence of his direct involvement in filming and distributing these materials. The investigation under the Dutroux affair revealed connections to other groups, with Waillez's role in Toro Bravo highlighting the commercial aspect of the network. His arrest contributed to the exposure of the underground trade, with police seizing equipment and materials from his premises.[^1]

@@ -1,11 +1,13 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Businessman
-  - Philanthropist
-  - USA
+  - Nuclear
+  - Israel
+summary: "Abraham Feinberg was a wealthy New York businessman and ardent advocate of statehood for Israel."
 ---
-Abraham Feinberg was a wealthy New York businessman and ardent advocate of statehood for [[Israel]]. By 1947, he played a major and discreet role in fundraising and White House lobbying for [[Israel]] and the Democratic Party. He would operate at the highest levels between [[Washington D.C.]] and [[Jerusalem]] for two decades.[^1]
+
+Abraham Feinberg was a wealthy New York businessman and ardent advocate of statehood for [[Israel]]. By 1947, he played a major and discreet role in fundraising and White House lobbying for [[Israel]] and the Democratic Party. He would operate at the highest levels between [[Washington, D.C.]] and [[Jerusalem]] for two decades.[^1]
 
 Feinberg was a close friend of [[Ernst David Bergmann]], and in the fall of 1947, Bergmann indiscreetly revealed to Feinberg that there was uranium in the [[Negev]] desert, implying a path for [[Israel]] to develop the atomic bomb. Feinberg was astonished by this talk and "shushed him up."[^1]
 

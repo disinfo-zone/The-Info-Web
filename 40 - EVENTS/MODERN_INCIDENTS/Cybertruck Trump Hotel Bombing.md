@@ -7,6 +7,8 @@ tags:
   - " military"
   - " conspiracy"
 description: A U.S. Army Special Ops soldier detonated a Tesla Cybertruck filled with explosives near the Trump International Hotel in Las Vegas, injuring seven. The suspect left a manifesto alleging government cover-ups and war crimes, claiming the act was a 'wake-up call.' The FBI is investigating it as a potential terrorist act.
+category: "Modern Incident"
+summary: "January 1, 2025 explosion of a Tesla Cybertruck outside Trump International Hotel Las Vegas by active duty Army Special Ops soldier Matthew Livelsberger."
 ---
 On January 1, 2025, active duty [[U.S. Army]] [[Special Operations Group|Special Ops Soldier]] [[Matthew Livelsberger]] parked a Tesla Cybertruck in front of the Trump International Hotel Las Vegas in Paradise, Nevada. The truck was filled with firework mortars and gas canisters and was detonated at approximately 8:39am injuring seven bystanders.[^1] Livelsberger allegedly shot himself in the head seconds before the explosion. The [[Federal Bureau of Investigation|FBI]] is still deciding whether to classify this as an [[act of terrorism]].
 ## Detailed Timeline
@@ -32,7 +34,7 @@ A second note stated in part:
 
 The vehicle was allegedly never in self driving mode[^7]
 ## “Manifesto”
-Livelsberger allegedly sent a “manifesto” to [[Sam Shoemate]] (@samosaur) on December 31, 2024[^4] alleging, among other things, that the [[New Jersey Drones|NJ Drones]] are Chinese [[anti-gravitic]] devices, that the United States also possesses this technology, that he is aware of war crimes committed in 2019 by the United States, and that he has TSSCI with [[UAP]] [[Special Access Programs|USAP]] access.
+Livelsberger allegedly sent a “manifesto” to [[Sam Shoemate]] (@samosaur) on December 31, 2024[^4] alleging, among other things, that the [[New Jersey Drones|NJ Drones]] are Chinese [[anti-gravitic]] devices, that the United States also possesses this technology, that he is aware of war crimes committed in 2019 by the United States, and that he has TSSCI with [[UAP Task Force]] [[Special Access Programs|USAP]] access.
 ### “Manifesto” Text
 
 ^5630d3

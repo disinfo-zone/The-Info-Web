@@ -9,6 +9,8 @@ tags:
   - Nazi
   - Germany
 description: The Ahnenerbe was a Nazi German think tank that promoted itself as a research institute for the archaeological and cultural history of the Aryan race.
+category: "Foreign Government"
+summary: "The Ahnenerbe was a Nazi Germany think tank that operated as a research institute for the archaeological and cultural history of the Aryan race. It was founded by Heinrich Himmler, who served as its president and overlord.[^1]"
 ---
 
 The [[Ahnenerbe]] was a [[Nazi Germany|Nazi German]] think tank that operated as a research institute for the archaeological and cultural history of the Aryan race. It was founded by [[Heinrich Himmler]], who served as its president and overlord.[^1]

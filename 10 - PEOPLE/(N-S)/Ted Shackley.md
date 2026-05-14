@@ -1,3 +1,11 @@
+---
+category: "PROMIS Scandal"
+tags:
+  - Person
+  - PROMIS
+  - CIA
+summary: "Former CIA station chief in Indo-China connected to Michael Hand and the clandestine CIA war in Laos."
+---
 [[Ted Shackley]] was a former station chief in Indo-China. He is connected to [[Michael Hand]], stating that after Hand's first stint in [[Vietnam]], he moved to the clandestine [[Central Intelligence Agency|CIA]] war in [[Laos]].[^1]
 
 ---

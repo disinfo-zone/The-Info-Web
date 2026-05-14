@@ -1,10 +1,12 @@
 ---
+category: "World War II & Nazi Era"
 tags:
   - Person
-  - Scientist
-  - Israel
-  - Nuclear
+  - WW2
+  - Nazi
+summary: "Ernst David Bergmann was a German-born Israeli organic chemist, widely considered the scientific father of the Israeli nuclear bomb."
 ---
+
 Ernst David Bergmann was a German-born Israeli organic chemist, widely considered the scientific father of the Israeli nuclear bomb. A refugee from Nazi Germany, he became director of the chemistry division at the [[Weizmann Institute of Science]] after [[Israel]]'s War of Independence in 1948. He was also chairman of [[Israel]]'s Atomic Energy Commission, established in 1952, and publicly advocated for nuclear research for peaceful purposes.[^1]
 
 Bergmann's dream of nuclear power plants served as an effective cover for his drive to develop nuclear weapons. He worked closely with [[David Ben-Gurion]], then Prime Minister and Defense Minister, and [[Shimon Peres]], director general of the ministry of defense. Bergmann's Israeli Atomic Energy Commission was under the direct jurisdiction of Peres and the defense ministry, indicating its true purpose was not solely peaceful.[^1]

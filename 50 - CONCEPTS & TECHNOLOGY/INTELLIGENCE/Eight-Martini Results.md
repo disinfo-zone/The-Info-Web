@@ -7,6 +7,8 @@ tags:
   - intelligence
   - psi
 description: Eight-martini results refer to highly accurate and unsettling psychic intelligence that is so inexplicable it drives intelligence officers to drink.
+category: "Intelligence Concept"
+summary: "'Eight-Martini Results' is a term coined within the Central Intelligence Agency to describe highly accurate and unsettling PSI-INT that is so inexplicable it drives intelligence officers to drink."
 ---
 
 "[[Eight-Martini Results]]" is a term coined within the [[Central Intelligence Agency|CIA]] to describe highly accurate and unsettling [[PSI-INT|psychic intelligence]] that is so inexplicable it drives intelligence officers to drink. The term implies that the information received through [[Remote Viewing]] or other [[Psi|psi]] means is so precise and unexpected that it challenges conventional understanding and can be deeply unsettling for those who receive it.[^1]

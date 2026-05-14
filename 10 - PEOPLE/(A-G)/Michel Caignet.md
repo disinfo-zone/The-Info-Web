@@ -1,14 +1,12 @@
 ---
+category: "World War II & Nazi Era"
 tags:
   - Person
-  - Neo-Nazi
-  - Publisher
-  - Belgium
-  - 1980s-1990s
-  - Dutroux-Affair
-  - X-Dossier
-  - Gaie-France
+  - WW2
+  - Nazi
+summary: "Michel Caignet, a Belgian neo-Nazi, published the Gaie France magazine in the 1980s and 1990s, a pedophile publication that served as a front for distributing child abuse materials."
 ---
+
 Michel Caignet, a Belgian neo-Nazi, published the Gaie France magazine in the 1980s and 1990s, a pedophile publication that served as a front for distributing child abuse materials. Caignet, associated with far-right groups, used the magazine to connect pedophiles and share child pornography among subscribers. The publication, known for its explicit content, was investigated in the broader child abuse networks connected to the [[Marc Dutroux]] case. Caignet's activities included coordinating with other pedophile groups, with Gaie France linked to the [[CRIES]] organization, which used [[UNICEF]] basements for filming. Police raids in the 1990s uncovered Caignet's role in producing and distributing child abuse images, leading to his arrest. Caignet was convicted for possession and distribution of child pornography, with the magazine serving as a key outlet for the network. His neo-Nazi background aligned with extreme right-wing circles, overlapping with the networks documented in the [[X-Dossier]]. Caignet denied allegations of direct abuse but was found with extensive collections of materials.[^1]
 
 Caignet's Gaie France magazine was one of the main publications for the pedophile community in Belgium, with subscribers exchanging materials through the magazine's contacts. The publication featured advertisements and addresses for child prostitution, tying it to the broader ring investigated during the Dutroux affair. Caignet's role as publisher made him a central figure in distributing child abuse images, with police seizing copies and subscriber lists during raids. The magazine's connection to CRIES was highlighted in the X-Dossier, where it was alleged to have facilitated the exchange of materials among members. Caignet's conviction stemmed from evidence of his involvement in this network, with the magazine serving as a key outlet for the distribution.[^1]

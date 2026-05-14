@@ -1,14 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Victim
-  - Child-Trafficking
   - Belgium
-  - 1990s
-  - Marc-Dutroux-Case
-  - Dutroux-Affair
+  - Dutroux
+summary: "Laetitia Delhez, aged 14, disappeared from Bertrix, Belgium, on August 9, 1996, while waiting at a bus stop after visiting a local festival."
 ---
-Laetitia Delhez, aged 14, disappeared from Bertrix, Belgium, on August 9, 1996, while waiting at a bus stop after visiting a local festival. She vanished into a white van driven by [[Marc Dutroux]], with accomplice [[Michel Lelievre]] positioned nearby to assist in the abduction using chloroform to subdue her. The incident occurred amid Dutroux's ongoing operations, following the May 26 kidnapping of [[Sabine Dardenne]], with both girls held in a soundproofed basement dungeon at Dutroux's Marcinelle residence, constructed in 1993 with help from [[Claude Thirault]]. A witness observed the suspicious van circling the area twice before the seizure, noting the partial license plate PBX 688, which matched Dutroux's ASCO-registered vehicle linked to [[Michel Nihoul]]'s company. This clue prompted police action, leading to Dutroux's arrest on August 13, 1996, and the subsequent rescue of Laetitia and Sabine from the hidden cells behind disguised shelving.[^1]
+
+Laetitia Delhez, aged 14, disappeared from Bertrix, Belgium, on August 9, 1996, while waiting at a bus stop after visiting a local festival. She vanished into a white van driven by [[Marc Dutroux]], with accomplice [[Michel Lelievre]] positioned nearby to assist in the abduction using chloroform to subdue her. The incident occurred amid Dutroux's ongoing operations, following the May 26 kidnapping of [[Sabine Dardenne]], with both girls held in a soundproofed basement dungeon at Dutroux's Marcinelle residence, constructed in 1993 with help from [[Claude Thirault]]. A witness observed the suspicious van circling the area twice before the seizure, noting the partial license plate PBX 688, which matched Dutroux's ASCO-registered vehicle linked to [[Jean-Michel Nihoul]]'s company. This clue prompted police action, leading to Dutroux's arrest on August 13, 1996, and the subsequent rescue of Laetitia and Sabine from the hidden cells behind disguised shelving.[^1]
 
 During captivity, Laetitia endured starvation and abuse, conditioned through hypnosis and drugs to view Dutroux as a protector, resisting rescuers upon discovery and embracing him instead. The dungeon, overlooked in prior 1995 searches during Dutroux's auto theft incarceration—when screams from [[Julie Lejeune]] and [[Melissa Russo]] were ignored—featured ventilation and restraints for prolonged confinement. [[Michelle Martin]], Dutroux's wife, fed the girls minimally while he was free, confirming abductions on Nihoul's orders for client delivery. Laetitia's brief two-day hold contrasted with Sabine's months-long ordeal, both tied to video production evidenced by seized tapes of rapes and cell construction returned to Martin.[^1]
 

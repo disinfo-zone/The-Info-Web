@@ -10,6 +10,8 @@ tags:
   - USA
   - California
 description: The Symbionese Liberation Army (SLA) was a radical left-wing organization active in California in the mid-1970s, known for the kidnapping of Patty Hearst.
+category: "Paramilitary"
+summary: "The Symbionese Liberation Army (SLA) was a radical left-wing organization active in California in the mid-1970s. They are best known for the kidnapping of newspaper heiress Patty Hearst in 1974.[^1]"
 ---
 The Symbionese Liberation Army (SLA) was a radical left-wing organization active in California in the mid-1970s. They are best known for the kidnapping of newspaper heiress Patty Hearst in 1974.[^1]
 

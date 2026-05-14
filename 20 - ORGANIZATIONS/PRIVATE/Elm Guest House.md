@@ -8,6 +8,8 @@ tags:
   - VIP_Network
   - Political_Connections
   - Spartacus_Connection
+category: "Private Organization"
+summary: "The Elm Guest House was a suburban brothel operating near central London in the early 1980s that served as a front for an international child trafficking network connected to powerful political and business figures."
 ---
 
 The Elm Guest House was a suburban brothel operating near central London in the early 1980s that served as a front for an international child trafficking network connected to powerful political and business figures. The establishment, run by German couple [[Haroon Kasir]] and [[Carole Kasir]], displayed a sign reading "Spartacus, Club - Welcome" and was part of the broader [[Spartacus International]] network operated by [[John Stamford]].[^1]

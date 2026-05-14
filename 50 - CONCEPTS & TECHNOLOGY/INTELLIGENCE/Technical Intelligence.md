@@ -2,6 +2,8 @@
 tags:
   - Concept
   - Intelligence
+category: "Intelligence Concept"
+summary: "Technical Intelligence refers to intelligence gathered through technical means, such as satellite imagery and communications intercepts. This is in contrast to Human Intelligence (HUMINT)."
 ---
 Technical Intelligence refers to intelligence gathered through technical means, such as satellite imagery and communications intercepts. This is in contrast to [[Human Intelligence (HUMINT)]]. [[James Jesus Angleton]], the [[Central Intelligence Agency|CIA]]'s director of counterintelligence, was known for his forte in human intelligence, and not technical intelligence, such as the U-2 imagery.[^1]
 

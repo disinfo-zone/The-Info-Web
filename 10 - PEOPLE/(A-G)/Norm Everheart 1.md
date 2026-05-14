@@ -1,14 +1,14 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Norm Everheart
+category: "Key Figures"
 tags:
-  - person
+  - Person
+  - Stargate
   - CIA
-  - intelligence
-  - technical
-description: Norm Everheart was a CIA technical operations specialist who served as the chief coordinator for Grill Flame taskings from the CIA's Operations Directorate.
+  - RemoteViewer
+  - SRI
+summary: "Norm Everheart was a CIA technical operations specialist who served as the chief coordinator for Grill Flame taskings from the CIA's Operations Directorate."
 ---
+
 
 Norm Everheart was a [[Central Intelligence Agency|CIA]] technical operations specialist who served as the chief coordinator for [[STARGATE PROJECT|Grill Flame]] taskings from the CIA's Operations Directorate. In 1950, at the age of twenty, he was recruited by the fledgling intelligence agency as a television engineer, and was sent to Greece as a clandestine radio operator. Later, he worked for the Agency's Office of Communications and then the Technical Services Division (TSD), which later became the Office of Technical Service (OTS). His last posting before becoming a coordinator for Grill Flame was as the chief of OTS's regional "tech base" in Athens.[^1]
 

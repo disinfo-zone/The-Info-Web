@@ -9,6 +9,8 @@ tags:
   - 1990s
   - Amsterdam
   - John_Stamford
+category: "Private Organization"
+summary: "Spartacus International was founded by John Stamford, a British foreign-national and defrocked Anglican priest who fled to Amsterdam in 1972 after being charged with operating a child pornography service through the mail."
 ---
 Spartacus International was founded by [[John Stamford]], a British foreign-national and defrocked Anglican priest who fled to Amsterdam in 1972 after being charged with operating a child pornography service through the mail. From Amsterdam through the late 1970s, 80s, and early 90s, Stamford operated a child sex tourism business under the guise of an international homosexual travel guide, which also sponsored boy brothels under the franchise [[Spartacus Club]]. To skirt child sex trafficking laws, Stamford had inverted the process, delivering pedophiles to children in countries such as the Philippines and Thailand. Spartacus International functioned as both a publishing operation and international pedophile network, officially described as "general publishers of trade and business directories, periodicals, newspapers and journals," but in reality published homosexual literature including books for pederasts.[^1]
 

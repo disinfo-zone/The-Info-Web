@@ -3,6 +3,8 @@ tags:
   - Organization
   - Political Party
   - Israel
+category: "Foreign Government"
+summary: "Rafi (an acronym for the Israel Workers' List) was a new political party created by David Ben-Gurion in June 1965, after he dramatically resigned from the Mapai Party. He was joined by Shimon Peres, who became Rafi's power broker, and Moshe Dayan."
 ---
 Rafi (an acronym for the Israel Workers' List) was a new political party created by [[David Ben-Gurion]] in June 1965, after he dramatically resigned from the [[Mapai Party]]. He was joined by [[Shimon Peres]], who became Rafi's power broker, and [[Moshe Dayan]]. Ben-Gurion's hope was that Rafi could capture a significant number of seats in the Knesset and emerge as a major power broker in Israeli politics.[^1]
 

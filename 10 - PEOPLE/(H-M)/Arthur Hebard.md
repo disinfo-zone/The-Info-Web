@@ -1,19 +1,11 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
-title: Arthur Hebard
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Physicist
-  - Researcher
-  - Stanford_University
-  - Parapsychology
-  - Magnetometer
-  - Naval_Research
-  - Ingo_Swann
-  - Psi_Experiments
-description: Arthur Hebard is a physicist known for building an experimental magnetometer at Stanford University, which was used in early psi experiments with Ingo Swann.
+  - RemoteViewer
+summary: "In June 1972, Hal Puthoff brought Ingo Swann to Hebard's lab to test Swann's abilities."
 ---
+
 
 [[Arthur Hebard]] is a physicist who, as a Stanford postdoctoral physics student, built a special experimental magnetometer in the basement of Varian Hall at [[Stanford University]]. This magnetometer, funded by the Office of Naval Research, was designed to measure extremely small magnetic field perturbations from passing quarks. Its high sensitivity and heavy shielding made it an ideal challenge for psychic experiments.[^1]
 

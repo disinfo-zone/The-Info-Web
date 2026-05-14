@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Businessman
   - Nuclear
+  - Israel
+summary: "Zalman Mordecai Shapiro was an American Jew and owner of the Nuclear Materials and Equipment Corporation (NUMEC), a privately owned nuclear enriching plant in Apollo, Pennsylvania."
 ---
+
 Zalman Mordecai Shapiro was an American Jew and owner of the [[Nuclear Materials and Equipment Corporation]] (NUMEC), a privately owned nuclear enriching plant in [[Apollo]], [[Pennsylvania]]. He was suspected by the [[Central Intelligence Agency|CIA]] and others of having smuggled more than two hundred pounds of weapons-grade uranium to [[Israel]], enough for four bombs. This alleged diversion was a major factor in [[Carl E. Duckett]]'s [[Central Intelligence Agency|CIA]] estimates of [[Israel]]'s nuclear arsenal.[^1]
 
 Shapiro was hounded by these suspicions for twenty-five years, despite no significant evidence proving the diversion was ever found. The [[Central Intelligence Agency|CIA]] and [[Atomic Energy Commission|AEC]] never learned that Shapiro did have a secret life, meeting and befriending many of [[Israel]]'s senior nuclear scientists, including [[Ernst David Bergmann]], and conducting sensitive, legitimate missions for [[Israel]]. He was asked by [[Israel]] to devise a rapid and accurate method of determining whether water had been contaminated with toxic materials, and also advised on how to prevent water loss in the National Water Carrier.[^1]

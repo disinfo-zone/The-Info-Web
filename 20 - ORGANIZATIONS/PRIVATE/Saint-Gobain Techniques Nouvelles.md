@@ -3,6 +3,8 @@ tags:
   - Organization
   - Private
   - France
+category: "Private Organization"
+summary: "Saint-Gobain Techniques Nouvelles (SGN) is a large French chemical company. It was granted a contract to build a chemical reprocessing plant on the grounds at Marcoule, France."
 ---
 Saint-Gobain Techniques Nouvelles (SGN) is a large French chemical company. It was granted a contract to build a chemical reprocessing plant on the grounds at Marcoule, [[France]]. This plant was a critical element in the making of a nuclear bomb, as it separated weapons-grade plutonium from irradiated uranium fuel.[^1]
 

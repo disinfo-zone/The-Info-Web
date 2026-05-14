@@ -1,16 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - UK
-  - Politician
-  - Child_Abuser
-  - 1960s
-  - 1970s
-  - 1980s
-  - VIP_Network
-  - Elm_Guest_House
-  - Operation_Fernbridge
+  - OrganizedCrime
+summary: "Cyril Smith was a former Liberal MP for Rochdale who was posthumously exposed as a serial violent sexual abuser of boys in 2013."
 ---
+
 Cyril Smith was a former Liberal MP for Rochdale who was posthumously exposed as a serial violent sexual abuser of boys in 2013. Knighted as Sir Cyril Smith, he died approximately two years before November 2012, with his parliamentary seat later held by MP Simon Danczuk. Smith's exposure occurred after his death when multiple men came forward claiming they were abused by him in Rochdale during the 1960s, with allegations that had supposedly been covered up for almost 50 years. The scale and duration of his abuse activities, combined with his prominent political position, made him one of the most significant figures in the UK VIP pedophile network that operated across several decades.[^1]
 
 ### Elm Guest House Connections and VIP Network

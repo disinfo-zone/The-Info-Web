@@ -2,6 +2,8 @@
 tags:
   - Concept
   - Nuclear Weapon
+category: "Nuclear Concept"
+summary: "A neutron bomb is a type of thermonuclear weapon that utilizes enhanced radiation and minimal blast to kill living organisms within a limited range, with limited damage to property."
 ---
 A neutron bomb is a type of thermonuclear weapon that utilizes enhanced radiation and minimal blast to kill living organisms within a limited range, with limited damage to property. It is a two-stage thermonuclear device that uses tritium and deuterium to maximize the release of neutrons. These weapons first came into the American stockpile in the mid-1970s.[^1]
 

@@ -3,6 +3,8 @@ tags:
   - Concept
   - Israel
   - Philosophy
+category: "Esoteric & Historical Concept"
+summary: "Ein Brera, meaning 'no alternative' in Hebrew, is a doctrine deeply ingrained in Israeli strategic thought."
 ---
 Ein Brera, meaning "no alternative" in Hebrew, is a doctrine deeply ingrained in Israeli strategic thought. It reflects the belief that [[Israel]] is surrounded by implacable enemies and therefore has no choice but to take decisive action, often preemptively, to ensure its survival. This concept was particularly prevalent among Israelis who were survivors of the Holocaust, who saw parallels between historical persecution and the perceived threats from Arab nations.[^1]
 

@@ -3,6 +3,8 @@ tags:
   - Technology
   - Satellite
   - Intelligence
+category: "Intelligence Concept"
+summary: "VELA Satellite refers to a series of U.S. nuclear detection satellites. On September 22, 1979, a VELA satellite recorded two distinctive bright flashes of light over the South Indian Ocean, which was considered probable evidence of a nuclear..."
 ---
 VELA Satellite refers to a series of U.S. nuclear detection satellites. On September 22, 1979, a VELA satellite recorded two distinctive bright flashes of light over the South Indian Ocean, which was considered probable evidence of a nuclear explosion. VELA satellites had seen similar flashes on forty-one previous occasions, and in each case, it was subsequently determined that a nuclear explosion had taken place.[^1]
 

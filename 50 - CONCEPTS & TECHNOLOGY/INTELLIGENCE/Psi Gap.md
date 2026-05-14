@@ -8,6 +8,8 @@ tags:
   - intelligence
   - psi
 description: The "psi gap" was a perceived disparity in psychic research capabilities between the United States and the Soviet Union during the Cold War.
+category: "Intelligence Concept"
+summary: "The 'Psi Gap' was a perceived disparity in Psi research capabilities between the United States and the Soviet Union during the Cold War."
 ---
 
 The "[[Psi Gap]]" was a perceived disparity in [[Psi|psychic]] research capabilities between the [[United States|U.S.]] and the [[Soviet Union]] during the [[Cold War]]. This concept gained prominence following reports of extensive Soviet and Eastern European [[Parapsychology|psi]] research, particularly after the sensational 1960 article [[The Nautilus (Telepathy Project)|"The Secret of the Nautilus"]], which, despite being a fabrication, spurred significant Soviet investment in the field.[^1]

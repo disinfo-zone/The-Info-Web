@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Meir Amit
+- Meir Amit
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Intelligence
-  - Israel
+  - RemoteViewer
+summary: "Meir Amit was the former chief of the Mossad, Israel's national intelligence agency."
 ---
+
 Meir Amit was the former chief of the [[Mossad]], [[Israel]]'s national intelligence agency. He was one of the high-profile Israeli figures who met with [[Uri Geller]], with reports indicating that Geller bent a spoon for him[^1].
 
 ### Footnotes

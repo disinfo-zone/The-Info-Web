@@ -1,13 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Dutch_Senator
-  - Pedophile_Advocate
-  - Netherlands
-  - Francis_Shelden
-  - 1970s
-  - 1980s
+  - OrganizedCrime
+summary: "Edward Brongersma was a Dutch Senator and prominent advocate for the legalization of pedophilia in the Netherlands."
 ---
+
 
 Edward Brongersma was a Dutch Senator and prominent advocate for the legalization of pedophilia in the Netherlands. He served as a senior member of the Dutch Senate's Judiciary Committee, a position that provided him with significant influence over legislative matters related to child protection and sexual offenses. His political connections and legal expertise made him a valuable associate for international child exploitation networks operating in Europe.[^1]
 

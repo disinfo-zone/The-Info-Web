@@ -1,17 +1,15 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Criminal
-  - Accomplice
-  - Texas
-  - 1970s
-  - Dean_Corll_Case
-  - Murderer
+  - OrganizedCrime
+summary: "Elmer Wayne Henley (born May 9, 1956) served as a teenage accomplice to serial killer Dean Corll in the Dean Corll Murders from 1970 to 1973."
 ---
+
 Elmer Wayne Henley (born May 9, 1956) served as a teenage accomplice to serial killer [[Dean Corll]] in the [[Dean Corll Murders]] from 1970 to 1973. Henley played a crucial role in facilitating Corll's crimes by luring victims and participating in their torture and murder. He ultimately ended the killing spree by shooting and killing Corll on August 8, 1973.[^1]
 
 ### Background and Recruitment
-Elmer Wayne Henley, a 17-year-old resident of [[Houston, Texas]], was introduced to [[Dean Corll]] by fellow accomplice [[David Owen Brooks]] approximately two years before the crimes' exposure in 1973.  Brooks, who had known Corll since age 12, brought Henley into the fold after Henley expressed interest in earning money. Corll promised Henley at least $200 per boy procured, with higher payments for particularly attractive ones. 
+Elmer Wayne Henley, a 17-year-old resident of [[Houston]], was introduced to [[Dean Corll]] by fellow accomplice [[David Owen Brooks]] approximately two years before the crimes' exposure in 1973.  Brooks, who had known Corll since age 12, brought Henley into the fold after Henley expressed interest in earning money. Corll promised Henley at least $200 per boy procured, with higher payments for particularly attractive ones. 
 
 Henley and Brooks lived with Corll on and off for three years, gradually progressing from mere procurement to active involvement in the torture, rape, murder, and disposal of victims. Henley confessed to directly participating in at least six murders during this period.[^1]
 
@@ -30,7 +28,7 @@ He quoted Corll: "Dean told me that he belonged to an organisation out of Dallas
 ### Legal Proceedings and Outcome
 Henley was arrested immediately after his confession and tried for his role in the murders. In 1974, he was convicted of six counts of murder and sentenced to six concurrent life terms. Despite his actions in killing Corll and aiding the investigation, his prior participation in luring and murdering victims led to his conviction. Brooks received a similar outcome for four murders. 
 
-The [[Houston Police Department]] and [[Pasadena Police Department]] investigations, supported by Henley's testimony, exposed the scale of the crimes but faced criticism for abandoning leads on broader trafficking networks, including connections to [[Roy Ames]] and [[California]]-based pornography operations.[^1]
+The [[Houston]] and [[Pasadena Police Department]] investigations, supported by Henley's testimony, exposed the scale of the crimes but faced criticism for abandoning leads on broader trafficking networks, including connections to [[Roy Ames]] and [[California]]-based pornography operations.[^1]
 
 ### Footnotes
 [^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.

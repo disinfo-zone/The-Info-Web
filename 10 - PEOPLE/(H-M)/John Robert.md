@@ -1,3 +1,12 @@
+---
+category: "Psychics & Remote Viewers"
+tags:
+  - Person
+  - RemoteViewer
+  - Military
+  - Stargate
+summary: "John Robert and Luis Elizondo served together in the Army in Korea in the 1990s and developed a deep and lasting friendship."
+---
 [[John Robert]] is the pseudonym for a close friend and former U.S. Army colleague of [[Luis Elizondo]]. He is described as a trusted confidant who was aware of Elizondo's involvement in the [[Advanced Aerospace Threat Identification Program]] (AATIP) and provided him with support and advice throughout his journey.[^1]
 
 ### Relationship with Luis Elizondo

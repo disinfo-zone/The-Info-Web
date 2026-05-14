@@ -7,6 +7,8 @@ tags:
   - science
   - research
 description: Parapsychology is the scientific study of paranormal or psychic phenomena, including extrasensory perception (ESP) and psychokinesis (PK).
+category: "Esoteric & Historical Concept"
+summary: "Parapsychology is the scientific study of paranormal or psychic phenomena, including extrasensory perception (ESP) and psychokinesis (PK)."
 ---
 
 [[Parapsychology]] is the scientific study of paranormal or psychic phenomena, including extrasensory perception (ESP) and psychokinesis (PK). The field emerged from earlier psychical research, which began in the late 1700s with the study of "Mesmeric trance" (hypnosis) and the psi abilities observed in hypnotized individuals. The 19th century saw a craze over "spiritism" and "spiritualism," with mediums claiming to communicate with the supernatural, leading to considerable psychological and psychiatric research into these phenomena.[^1]

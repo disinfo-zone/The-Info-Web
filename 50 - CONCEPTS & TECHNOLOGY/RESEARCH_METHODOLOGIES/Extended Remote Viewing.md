@@ -7,6 +7,8 @@ tags:
   - remoteviewing
   - methodology
 description: Extended Remote Viewing (ERV) refers to deeper altered-state methods of psychic spying, often favored by the Stargate Project unit at Fort Meade.
+category: "Research Methodology"
+summary: "Extended Remote Viewing (ERV) refers to deeper altered-state methods of Remote Viewing, often favored by the STARGATE PROJECT unit at Fort Meade."
 ---
 
 [[Extended Remote Viewing]] (ERV) refers to deeper altered-state methods of [[Remote Viewing]], often favored by the [[STARGATE PROJECT|Stargate Project]] unit at [[Fort Meade]]. This methodology involves the remote viewer entering a profound trance-like state to perceive information about a distant or unseen target. Unlike [[Coordinate Remote Viewing|Coordinate Remote Viewing]] (CRV), which often involves more structured protocols, ERV emphasizes a deeper immersion into the psychic experience.[^1]

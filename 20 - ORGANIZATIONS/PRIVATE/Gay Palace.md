@@ -8,6 +8,8 @@ tags:
   - 1990s
   - Child_Prostitution
   - Warwick_Spinks
+category: "Private Organization"
+summary: "The Gay Palace was a boy brothel masquerading as a gay nightclub in Amsterdam's Spuistraat district, managed by Warwick Spinks during the 1980s and 1990s."
 ---
 The Gay Palace was a boy brothel masquerading as a gay nightclub in Amsterdam's Spuistraat district, managed by [[Warwick Spinks]] during the 1980s and 1990s. A Scotland Yard informant claimed to have seen films screened at the Gay Palace showing boys aged eleven to fourteen in bondage being raped by masked men, and stated that Spinks was selling copies of a "special videotape" for 4,000 pounds showing a boy being tortured. A different informant named "Frank" described another film Spinks had shown him of a boy being tortured with needles, castrated, and cut open with a knife inside a barn.[^1]
 

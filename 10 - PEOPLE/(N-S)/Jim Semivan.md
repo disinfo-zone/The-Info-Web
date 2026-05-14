@@ -1,3 +1,10 @@
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "Semivan joined the CIA in 1982 and served for twenty-five years, retiring in 2007 as a member of the Senior Intelligence Service."
+---
 [[Jim Semivan]] is a retired senior member of the [[Central Intelligence Agency]]'s (CIA) Senior Intelligence Service and a key figure in the modern [[Unidentified Anomalous Phenomena]] (UAP) disclosure movement. With a 25-year career in the CIA, he has leveraged his experience and connections to help bring the UAP issue to the forefront.[^1]
 
 ### CIA Career

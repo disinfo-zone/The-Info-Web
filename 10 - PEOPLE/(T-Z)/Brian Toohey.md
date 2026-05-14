@@ -1,12 +1,12 @@
 ---
+category: "PROMIS Scandal"
 tags:
   - Person
+  - PROMIS
   - Journalist
-  - Media
-  - Australia
-  - Investigation
-  - Michael Hand
+summary: "Top Australian journalist who reported on Michael Hand's whereabouts and connections to the Nugan Hand Bank."
 ---
+
 [[Brian Toohey]] was a top [[Australia|Australian]] journalist. In 1991, he reported in his *The Eye* magazine that [[Michael Hand]] had a postal drop at a suite in NE Bellevue, Washington State, and that Hand's wife was reportedly living with him there.[^1]
 
 ### Footnotes

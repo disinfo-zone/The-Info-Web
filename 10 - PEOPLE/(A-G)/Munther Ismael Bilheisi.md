@@ -1,19 +1,17 @@
 ---
+category: "BCCI Scandal"
 tags:
   - Person
-  - Arms Dealer
-  - Smuggler
   - BCCI
-  - Banking
-  - Criminal
-  - Jordan
-  - USA
+  - CIA
+summary: "Munther Ismael Bilheisi was an expatriate Jordanian involved in coffee smuggling, arms dealing, customs violations, money laundering, and paying bribes and kickbacks."
 ---
+
 Munther Ismael Bilheisi was an expatriate [[Jordan|Jordanian]] involved in coffee smuggling, arms dealing, customs violations, money laundering, and paying bribes and kickbacks.[^1] He maintained lavishly appointed residences in England, Spain, Jordan, and the United States.[^2] Bilheisi's activities were closely tied to the [[Bank of Credit and Commerce International|BCCI]], which facilitated his illicit operations.
 
 ### Business Operations
 
-Bilheisi ran a formidable smuggling operation out of Boca Raton from 1982 to 1986, with BCCI acting as a full partner in the fraud. The bank financed his purchases and helped falsify documents to deceive [[U.S. Customs Service]] officials.[^3] His business was so valuable to BCCI that the bank opened a Boca Raton branch in 1983 specifically to service his account.[^4] BCCI provided $105 million in financing and letters of credit to support his operations.[^5]
+Bilheisi ran a formidable smuggling operation out of Boca Raton from 1982 to 1986, with BCCI acting as a full partner in the fraud. The bank financed his purchases and helped falsify documents to deceive [[U.S. Customs]] officials.[^3] His business was so valuable to BCCI that the bank opened a Boca Raton branch in 1983 specifically to service his account.[^4] BCCI provided $105 million in financing and letters of credit to support his operations.[^5]
 
 He was involved in coffee smuggling, buying non-agreement coffee at cheap prices and selling it illegally to agreement countries like the United States, thereby pocketing a huge profit.[^6] BCCI provided services such as financing shipments and doctoring shipping documents for these operations.[^7]
 

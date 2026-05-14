@@ -1,14 +1,10 @@
 ---
+category: "Other"
 tags:
   - Person
-  - UK
-  - Netherlands
-  - 1970s
-  - 1980s
-  - Spartacus_International
-  - Elm_Guest_House
-  - Child_Trafficking
+summary: "Peter Glencross served as the commercial agent and commercial manager for Spartacus International, which was operated by John Stamford from Amsterdam."
 ---
+
 Peter Glencross served as the commercial agent and commercial manager for [[Spartacus International]], which was operated by [[John Stamford]] from Amsterdam. Glencross was a South African based in Holland, one of whose roles was to create a network of venues for Spartacus members. He was the key figure responsible for transforming the [[Elm Guest House]] into a pedophile brothel, having been introduced to [[Carole Kasir]], the co-manager of Elm Guest House, by two men named [[Terry Dwyer]] and [[John Rowe]] in 1979. Glencross persuaded Kasir to renovate her townhouse into a spa and sauna facility for members of Club Spartacus. The Elm Guest House displayed a sign reading "Club Spartacus - Welcome" and offered "10% Discount to Spartacus Club Members" in their advertisements. Letter correspondence from Spartacus International addressed to the Elm Guest House dating from 1981 exists as evidence of this business relationship.[^1]
 
 ### Criminal Operations and Network Building

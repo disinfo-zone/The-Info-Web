@@ -1,3 +1,9 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+summary: "Brad Kenneth Spafford was born in 1988."
+---
 Brad Kenneth Spafford was born in 1988. He is married to Jacqueline Spafford (born March 1989) and has two daughters.
 
 He attended Isle of Wight academy where he was on honor roll[^5] and won an award for craft arts in 2005.[^4]

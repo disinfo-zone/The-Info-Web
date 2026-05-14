@@ -1,9 +1,12 @@
 ---
+category: "Nuclear Scientists & Programs"
 tags:
   - Person
-  - Politics
+  - Nuclear
   - Israel
+summary: "Levi Eshkol was an Israeli politician who served as Prime Minister of Israel from 1963 to 1969."
 ---
+
 Levi Eshkol was an Israeli politician who served as Prime Minister of [[Israel]] from 1963 to 1969. He had spent eleven years as finance minister, much of it in a struggle against funding for [[Dimona]], and was far less committed emotionally than [[David Ben-Gurion]] to the concept of spending hundreds of millions of dollars annually on nuclear activity. Eshkol prioritized better weapons and training for the army and air force, which he and his supporters saw as [[Israel]]'s most immediate need.[^1]
 
 Eshkol was more democratic in his politics and personality than Ben-Gurion, and the notion of compromise returned to the leadership of the government and the [[Mapai Party]] under his tenure. He moved quickly to lighten government control of the press and set up an independent broadcasting authority, reforms that Ben-Gurion had resisted.[^1]

@@ -1,4 +1,11 @@
-"[[Rosemary Caine]]" is the pseudonym for a former intelligence case officer who, along with [[Jay Stratton]], recruited [[Luis Elizondo]] into the [[Advanced Aerospace Weapons System Applications Program]] (AAWSAP), the precursor to the [[Advanced Aerospace Threat Identification Program]] (AATIP).[^1]
+---
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
+summary: "'Rosemary Caine' is the pseudonym for a former intelligence case officer who, along with Jay Stratton, recruited Luis Elizondo into the Advanced Aerospace Weapons System Applications Program (AAWSAP), the precursor to the Advanced Aerospace Threat Identification Program (AATIP)."
+---
+"[[Rosemary Caine]]" is the pseudonym for a former intelligence case officer who, along with [[Jay Stratton]], recruited [[Luis Elizondo]] into the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to the [[Advanced Aerospace Threat Identification Program]] (AATIP).[^1]
 
 ### Recruitment of Luis Elizondo
 

@@ -1,14 +1,12 @@
 ---
+category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Nixon_Campaign
-  - Republican_Party
-  - Iran_Hostages
-  - Reagan_Administration
-  - Assassination
-  - PROMIS
-  - California
+  - Lawyer
+  - LawEnforcement
+summary: "Former Northern California field director for Nixon's presidential campaign found dead in 1991 after being linked to an alleged Republican plot to bribe Iranian officials to delay hostage release."
 ---
+
 
 [[Alan Michael May]] was a former Northern California field director in [[Richard Nixon]]'s presidential campaign and an attorney for Nixon's brothers, Donald and Edward. He was found dead in his San Francisco home on June 19, 1991, four days after a newspaper story in the *Napa Sentinel* outlined his alleged role in a plot by Republican Party officials to bribe Iranian officials to delay the release of U.S. hostages until after President [[Ronald Reagan]]'s inauguration.[^1]
 

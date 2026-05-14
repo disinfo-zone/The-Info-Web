@@ -8,6 +8,8 @@ tags:
   - disinformation
   - ColdWar
 description: The Nautilus (Telepathy Project) refers to a sensational 1960 French magazine article claiming successful telepathic communication with the USS Nautilus submarine, which spurred Soviet psi research.
+category: "Psi Research Program"
+summary: "The Nautilus (Telepathy Project) refers to a sensational 1960 article in the French magazine *Science et Vie* titled 'The Secret of the Nautilus.' The article claimed that the U.S."
 ---
 
 [[The Nautilus (Telepathy Project)]] refers to a sensational 1960 article in the French magazine *Science et Vie* titled "The Secret of the Nautilus." The article claimed that the [[U.S. Government|U.S. government]], in secret tests, had successfully employed telepathy to communicate with the crew of the USS Nautilus, its first nuclear submarine, while it was submerged beneath the Arctic ice cap. The story suggested the project had the special attention of President [[Dwight D. Eisenhower|Eisenhower]] and involved the [[U.S. Navy|Navy]], [[U.S. Air Force|Air Force]], Westinghouse, General Electric, [[Bell Labs]], and the [[Rand Corporation]].[^1]

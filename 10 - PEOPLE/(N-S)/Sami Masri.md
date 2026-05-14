@@ -1,6 +1,12 @@
 ---
-tags: ["Person", "BCCI Operative", "Intelligence"]
+category: "BCCI Scandal"
+tags:
+  - Person
+  - BCCI
+  - CIA
+summary: "Sami Masri was a BCCI operative."
 ---
+
 Sami Masri was a [[Bank of Credit and Commerce International|BCCI]] operative.[^1] He was a Palestinian with a [[Jordan|Jordanian]] passport, raised in [[Abu Dhabi]], and had connections to [[Sheikh Zayed]]'s Private Department.[^2]
 
 ### Role in BCCI's Black Network

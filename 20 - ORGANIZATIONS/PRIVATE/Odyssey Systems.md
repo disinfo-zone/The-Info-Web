@@ -1,3 +1,7 @@
+---
+category: "Private Organization"
+summary: "May 1997, Odyssey is founded in the Boston area by Michael Sweat and Michael Prisco to support the Air Force Electronic Systems Center (ESC)."
+---
 May 1997, Odyssey is founded in the Boston area by Michael Sweat and Michael Prisco to support the Air Force Electronic Systems Center (ESC).
 
 August 2015, Odyssey opens offices in Ft. Walton Beach, Florida, Dayton, Ohio, and Warner Robbins, Georgia.

@@ -1,3 +1,9 @@
+---
+category: "Other"
+tags:
+  - Person
+summary: "American engineer and CEO of McDonnell Douglas Corporation, member of FGBMFI connected to the PROMIS scandal network."
+---
 [[Sanford N. McDonnell]] (October 12, 1922 – March 19, 2012) was an American engineer, businessman, and philanthropist. He was a member of [[Full Gospel Business Men's Fellowship International|FGBMFI]] and was associated with [[McDonnell Douglas Corporation]].[^1]
 
 Born in Little Rock, Arkansas,[^2] McDonnell attended [[Princeton University]], the [[University of Colorado Boulder]], and [[Washington University in St. Louis]], earning bachelor's degrees in economics (1945) and mechanical engineering (1948), and a master's degree in applied mechanics (1954).[^3]

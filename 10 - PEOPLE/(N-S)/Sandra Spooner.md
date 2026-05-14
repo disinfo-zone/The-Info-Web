@@ -1,9 +1,15 @@
 ---
-aliases: []
+category: "PROMIS Scandal"
 tags:
   - Person
+  - PROMIS
+  - CIA
+  - DoJ
+  - INSLAW
+summary: "Sandra Spooner was the Deputy Director of the Commercial Litigation Branch, Civil Division, within the DOJ."
 ---
-Sandra Spooner was the Deputy Director of the Commercial Litigation Branch, Civil Division, within the [[United States Department of Justice|DOJ]]. She became a figure in the [[PROMIS Software Scandal]] due to allegations concerning missing documents related to the [[Inslaw Corporation|Inslaw]] case.
+
+Sandra Spooner was the Deputy Director of the Commercial Litigation Branch, Civil Division, within the [[Department of Justice|DOJ]]. She became a figure in the [[PROMIS Software Scandal]] due to allegations concerning missing documents related to the [[INSLAW|Inslaw]] case.
 
 During its investigation, the House Committee on the Judiciary learned from the DOJ that certain requested documents compiled by Sandra Spooner were missing. The Committee noted that, based on the DOJ's numbering system, numerous additional documents appeared to be missing, raising questions about whether they might have been destroyed, especially given the allegations of criminal conspiracy against high-level DOJ officials. The Committee also noted that the question of unauthorized document destruction arose in the context of a former DOJ employee who alleged that Department employees illegally destroyed Inslaw-related documents by shredding them.[^1]
 
@@ -11,4 +17,4 @@ The Special Counsel's investigation, however, found no evidence that anyone inte
 
 ### Footnotes
 
-[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993. (Hereafter, "Bua Report")
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

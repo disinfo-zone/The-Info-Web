@@ -7,6 +7,8 @@ tags:
   - technology
   - physics
 description: Extremely Low Frequency (ELF) waves are electromagnetic waves with frequencies between 3 and 300 Hz, known for their ability to penetrate water and earth.
+category: "Scientific Theory & Technology"
+summary: "Extremely Low Frequency (ELF) Waves are electromagnetic waves with frequencies between 3 and 300 Hz. They are known for their ability to penetrate water and earth, making them useful for communication with deeply submerged submarines.[^1]"
 ---
 
 [[Extremely Low Frequency (ELF) Waves]] are electromagnetic waves with frequencies between 3 and 300 Hz. They are known for their ability to penetrate water and earth, making them useful for communication with deeply submerged submarines.[^1]

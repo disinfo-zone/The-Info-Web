@@ -7,6 +7,8 @@ tags:
   - 1990s
   - Beat_Meier
   - Snuff_Film
+category: "Private Organization"
+summary: "The Swiss Paedophile Association was a Swiss organization that counted among its founding members Beat Meier and Karl Hobi. Beat Meier served as the honorary president of the association and published a pedophile magazine called LIBIDO from Zurich."
 ---
 The Swiss Paedophile Association was a Swiss organization that counted among its founding members [[Beat Meier]] and [[Karl Hobi]]. [[Beat Meier]] served as the honorary president of the association and published a pedophile magazine called LIBIDO from Zurich. The association formed part of the broader network of European pedophile organizations connected to the [[Spartacus Network]] through shared membership and publication distribution channels.[^1]
 

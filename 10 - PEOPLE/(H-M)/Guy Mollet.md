@@ -1,9 +1,14 @@
 ---
+category: "Intelligence & Government"
 tags:
   - Person
-  - Politics
-  - France
+  - CIA
+  - Politician
+  - Israel
+  - Soviet
+summary: "Guy Mollet was a French politician who served as Prime Minister of France from 1956 to 1957."
 ---
+
 Guy Mollet was a French politician who served as Prime Minister of [[France]] from 1956 to 1957. His socialist government took a harder line on the war in [[Algeria]] and against Arab leaders like [[Gamal Abdel Nasser]] who supported the revolutionaries. [[Israel]], which was intensively waging guerrilla war against [[Egypt]], was seen as one of [[France]]'s most dependable allies during his tenure.[^1]
 
 Mollet agreed in 1955 to begin secretly selling high-performance French bombers to [[Israel]], with sales arranged by [[Shimon Peres]] directly between defense ministries, bypassing diplomatic channels. Arms continued to flow from [[France]] to [[Israel]] for the next twelve years.[^1]

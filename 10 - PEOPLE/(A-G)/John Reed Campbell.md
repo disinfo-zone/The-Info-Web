@@ -1,13 +1,11 @@
 ---
+category: "Organized Crime"
 tags:
   - Person
-  - Child_Abuser
-  - Fugitive
-  - Louisiana
-  - 1970s
-  - Troop_137
-  - Child_Trafficking
+  - OrganizedCrime
+summary: "John Reed Campbell was an artist and child abuser who fled after his conviction in New Orleans."
 ---
+
 John Reed Campbell was an artist and child abuser who fled after his conviction in New Orleans. He was connected to the boy prostitution ring involving [[Troop 137]]. Campbell's activities included abusing boys and participating in the production of child pornography. His case highlighted corruption in the prosecution under [[Harry Connick]].[^1]
 
 ### Criminal Activities

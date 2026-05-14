@@ -1,12 +1,14 @@
 ---
 aliases:
-  - Ray Hyman
+- Ray Hyman
+category: "Skeptics & Critics"
 tags:
   - Person
-  - Psychologist
   - Skeptic
+summary: "Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement."
 ---
-Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement. He was contracted by [[ARPA]] in 1973 to evaluate [[Uri Geller]]'s purported psychic abilities at [[Stanford Research Institute|SRI]]. Along with [[George Lawrence]] and [[Robert Van de Castle]], Hyman concluded that anyone who believed in Geller's powers was falling for the "ridiculous"[^1].
+
+Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement. He was contracted by [[DARPA]] in 1973 to evaluate [[Uri Geller]]'s purported psychic abilities at [[Stanford Research Institute|SRI]]. Along with [[George Lawrence]] and [[Robert Van de Castle]], Hyman concluded that anyone who believed in Geller's powers was falling for the "ridiculous"[^1].
 
 Hyman, along with [[Martin Gardner]], joined forces in an anti-Geller crusade. He was critical of [[Hal Puthoff]] and [[Russell Targ]]'s methodology, echoing Gardner's criticisms of [[J. B. Rhine]]'s research, citing loose laboratory controls, skewing of data, and the influence of experimenter bias[^1].
 

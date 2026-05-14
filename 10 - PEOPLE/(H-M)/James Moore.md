@@ -1,12 +1,13 @@
 ---
 aliases:
-  - James Moore
+- James Moore
+category: "Scientists & Researchers"
 tags:
   - Person
-  - Chemist
-  - CIA
-  - MKULTRA
+  - Researcher
+summary: "James Moore was a chemist who worked for the Central Intelligence Agency on MKULTRA Subproject 58, a classified effort to locate and mass-produce the hallucinogenic mushroom *teonanáctl* (God's flesh) for intelligence use."
 ---
+
 # James Moore
 
 James Moore was a chemist who worked for the [[Central Intelligence Agency]] on [[Project MKUltra|MKULTRA Subproject 58]], a classified effort to locate and mass-produce the hallucinogenic mushroom *teonanáctl* (God's flesh) for intelligence use[^1].

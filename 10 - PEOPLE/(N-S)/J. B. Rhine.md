@@ -1,13 +1,11 @@
 ---
-created: 2025-07-23
-updated: 2025-07-23
-title: J. B. Rhine
+category: "Skeptics & Critics"
 tags:
-  - person
-  - parapsychologist
-  - researcher
-  - Scientist
+  - Person
+  - Skeptic
+summary: "American botanist who founded the parapsychology lab at Duke University and is considered a father of modern parapsychology."
 ---
+
 Joseph Banks Rhine, known as J. B. Rhine (1895–1980), was an American botanist who founded the parapsychology lab at [[Duke University]]. He is considered one of the fathers of modern [[Parapsychology|parapsychology]][^1].
 
 Rhine sought to bring scientific rigor to the study of psychic phenomena, moving away from the theatricality of séance mediums and focusing on controlled experiments with quantifiable results. His work at the [[Duke University Parapsychology Laboratory]] in the 1930s and 1940s, which involved card-guessing and dice-throwing tests, helped to establish parapsychology as an academic discipline[^1]. He first popularized [[Extrasensory Perception|ESP]] in the 1920s, and his work became so fashionable that by the 1940s, it was included in the Psychology 101 course at [[Harvard University]][^1].

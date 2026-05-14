@@ -1,13 +1,13 @@
 ---
+category: "Belgium Scandals"
 tags:
   - Person
-  - Businessman
   - Belgium
-  - 1990s
-  - Dutroux-Affair
-  - ASCO
+  - Dutroux
+summary: "Michel Forgeot founded Achats Services Commerces (ASCO), a company involved in fraud and vehicle supply during the 1990s."
 ---
-Michel Forgeot founded [[Achats Services Commerces]] (ASCO), a company involved in fraud and vehicle supply during the 1990s. ASCO, under Forgeot's founding, provided white Mercedes vans used by [[Michel Nihoul]] and [[Marc Dutroux]] for photographing schoolgirls and transporting victims in the child trafficking network. The company, registered in Charleroi, served as a front for Nihoul's schemes, with vans adapted for abductions, including the one used in [[Laetitia Delhez]]'s August 9, 1996, kidnapping, traced by partial license plate PBX 688. Forgeot's role as founder included overseeing early operations, with the company facilitating the use of vehicles for surveillance and transport. Police investigations post-Dutroux's August 1996 arrest linked ASCO vans to the kidnappings of Delhez and [[Sabine Dardenne]], leading to raids on ASCO premises uncovering financial records of payments to Dutroux. Forgeot was not directly charged in the Dutroux affair but was questioned during Nihoul's fraud probes, confirming the company's role in providing vehicles for non-business purposes.[^1]
+
+Michel Forgeot founded [[Achats Services Commerces]] (ASCO), a company involved in fraud and vehicle supply during the 1990s. ASCO, under Forgeot's founding, provided white Mercedes vans used by [[Jean-Michel Nihoul]] and [[Marc Dutroux]] for photographing schoolgirls and transporting victims in the child trafficking network. The company, registered in Charleroi, served as a front for Nihoul's schemes, with vans adapted for abductions, including the one used in [[Laetitia Delhez]]'s August 9, 1996, kidnapping, traced by partial license plate PBX 688. Forgeot's role as founder included overseeing early operations, with the company facilitating the use of vehicles for surveillance and transport. Police investigations post-Dutroux's August 1996 arrest linked ASCO vans to the kidnappings of Delhez and [[Sabine Dardenne]], leading to raids on ASCO premises uncovering financial records of payments to Dutroux. Forgeot was not directly charged in the Dutroux affair but was questioned during Nihoul's fraud probes, confirming the company's role in providing vehicles for non-business purposes.[^1]
 
 Forgeot's founding of ASCO positioned the company as a key logistical element in the network, with white vans loaned to Dutroux for tasks including circling schools to select victims. The vehicles were ordinary for business but equipped for kidnappings with tinted windows and sedatives. Forgeot's oversight included administrative aspects that masked the fraud, including inflated invoices for money laundering. His involvement came under scrutiny during the investigation, with ASCO's bankruptcy following arrests. Forgeot's testimony or statements, if any, were not central, but the company's vehicles were pivotal evidence in linking the business to the trafficking. The investigation revealed ASCO's role in funneling funds from child sales and pornography tapes through the company, with Forgeot as the founder bearing responsibility for its establishment.[^1]
 
