@@ -5,6 +5,8 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "While the effective bit rate for this experiment was very low (about one word per day), it was considered an impressive proof-of-concept, suggesting that the claims made in the Nautilus story might not have been entirely farfetched."
+born: 1931
+location: "Prague, Czechoslovakia"
 ---
 
 

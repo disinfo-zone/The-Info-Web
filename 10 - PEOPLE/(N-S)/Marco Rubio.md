@@ -5,6 +5,8 @@ tags:
   - UFO
   - Politician
 summary: "Senator Rubio was the chief sponsor of the bill that mandated the Director of National Intelligence to produce an unclassified report on UAP, which led to the landmark June 2021 'Preliminary Assessment: Unidentified Aerial Phenomena.' He has been a vocal advocate for taking the UAP issue seriously,"
+born: 1971-05-28
+location: "Miami, Florida"
 ---
 [[Marco Rubio]] is a United States Senator from Florida who has played a crucial role in the recent legislative efforts to increase transparency and oversight of the [[Unidentified Anomalous Phenomena]] (UAP) issue. As the acting chairman of the Senate Intelligence Committee, he was a key figure in the passage of the historic UAP legislation in the 2021 and 2022 National Defense Authorization Acts (NDAAs).[^1]
 

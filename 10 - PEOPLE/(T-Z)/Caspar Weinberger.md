@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Caspar Weinberger served as the Secretary of Defense under President Ronald Reagan."
+born: 1917-08-18
+died: 2006-03-28
+location: "San Francisco, California"
 ---
 
 Caspar Weinberger served as the Secretary of Defense under President [[Ronald Reagan]]. Following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981, Weinberger proposed canceling the F-16 aircraft sale to [[Israel]] as a sanction. However, President Reagan privately disagreed with this course of action.[^1]

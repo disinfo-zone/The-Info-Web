@@ -8,6 +8,8 @@ tags:
   - Military
 category: "U.S. Government"
 summary: "The Johns Hopkins University Applied Physics Laboratory (APL) is a not-for-profit university-affiliated research center that serves as a technical resource for the Department of Defense, NASA, and other government agencies."
+start: 1942
+location: "Laurel, Maryland"
 ---
 # Johns Hopkins University Applied Physics Laboratory
 

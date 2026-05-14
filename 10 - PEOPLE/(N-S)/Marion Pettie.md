@@ -5,6 +5,9 @@ tags:
   - CIA
   - Military
 summary: "Marion Pettie was the leader of The Finders, a group that law enforcement and researchers have described as a commune or cult operating in the Washington D.C."
+born: 1920
+died: 2003-10-24
+location: "Washington, D.C. area"
 ---
 
 

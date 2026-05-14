@@ -8,6 +8,8 @@ tags:
   - Military
   - SRI
 summary: "Jacques Vallée is a French-born computer scientist, astronomer, and UFOlogist."
+born: 1939-09-24
+location: "Pontoise, France"
 ---
 
 Jacques Vallée is a French-born computer scientist, astronomer, and [[UFOlogist]]. He worked at [[Stanford Research Institute|SRI]] and carried a top-secret security clearance, being assigned to the SRI psychic research program as a "de facto unpaid consultant"[^1].

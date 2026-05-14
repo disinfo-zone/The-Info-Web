@@ -5,6 +5,9 @@ tags:
   - Belgium
   - Dutroux
 summary: "Jean-Michel Nihoul (born 1941) was a Belgian businessman, political fixer, and organized crime figure described as a 'quasi-underworld figure' who operated at the intersection of organized crime, politics, and child trafficking networks during the 1980s and 1990s."
+born: 1941-04-23
+died: 2019-10-23
+location: "Belgium"
 ---
 
 

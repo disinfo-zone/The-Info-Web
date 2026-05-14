@@ -1,6 +1,9 @@
 ---
 category: "U.S. Government"
 summary: "The UAP Task Force (UAPTF) was a program within the United States Office of Naval Intelligence that was established to standardize the collection and reporting of sightings of Unidentified Anomalous Phenomena (UAP)."
+start: 2020
+end: 2022
+location: "Washington, D.C."
 ---
 The [[UAP Task Force]] (UAPTF) was a program within the United States Office of Naval Intelligence that was established to standardize the collection and reporting of sightings of [[Unidentified Anomalous Phenomena]] (UAP). It was the official successor to the [[Advanced Aerospace Threat Identification Program]] (AATIP) and was responsible for continuing the investigation into the UAP issue within the U.S. government.[^1]
 

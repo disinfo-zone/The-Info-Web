@@ -6,6 +6,8 @@ tags:
   - Intelligence
 category: "Foreign Government"
 summary: "The Royal Canadian Mounted Police is Canada's national police force, which became significantly involved in the investigation of the PROMIS Software Scandal."
+start: 1920
+location: "Ottawa, Canada"
 ---
 The [[Royal Canadian Mounted Police|RCMP]] is [[Canada]]'s national police force, which became significantly involved in the investigation of the [[PROMIS Software Scandal]]. In February 2000, [[Sean McDade]], an [[Royal Canadian Mounted Police|RCMP]] national security investigator, secretly entered the [[United States]] to investigate evidence that the [[Canadian Government]] was using a modified version of the [[PROMIS]] computer software, which purportedly allowed the [[United States|U.S.]] to eavesdrop on [[Canada|Canadian]] intelligence secrets through a "back-door." His investigation was code-named Project Abbreviation, and his email handle, "simorp," was [[PROMIS]] spelled backward.[1]
 

@@ -9,6 +9,7 @@ tags:
   - 1980s
   - Contra_War
 summary: Honduran general and CIA collaborator on the Contra project who was convicted of plotting a cocaine-financed assassination and coup, then received extraordinary leniency through Oliver North's intervention.
+location: "Honduras"
 ---
 Jose Bueso Rosa was a Honduran general and [[Central Intelligence Agency]] collaborator on the [[Contras|Contra]] project who was convicted in 1984 for plotting to assassinate Honduran president Roberto Suazo Cordova and stage a coup financed by a giant cocaine sale. Despite the severity of his crimes, he received extraordinary leniency through [[Oliver North]]'s intervention.[^1]
 

@@ -9,6 +9,8 @@ tags:
   - Contra_War
   - Dark_Alliance_Investigation
 summary: San Francisco Contra support group founded by Don Sinicco at the request of Adolfo Calero, infiltrated by drug trafficker Norwin Meneses.
+start: 1983
+location: "San Francisco, California"
 ---
 United Support Against Communism in the Americas (USACA) was a small [[San Francisco]] [[Contras|Contra]] support organization founded by [[Don Sinicco]] at the request of [[FDN]] political leader [[Adolfo Calero]].[^1]
 

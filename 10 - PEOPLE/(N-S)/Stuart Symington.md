@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Stuart Symington was a Democratic Senator from Missouri."
+born: 1901-06-26
+died: 1988-12-14
+location: "Amherst, Massachusetts"
 ---
 
 Stuart Symington was a Democratic Senator from [[Missouri]]. He was a strong backer of [[Adlai E. Stevenson]] for the Democratic presidential nomination. Paradoxically, Symington later emerged as an ardent supporter of a nuclear-armed [[Israel]] while also authoring key Senate legislation to limit the spread of such weapons.[^1]

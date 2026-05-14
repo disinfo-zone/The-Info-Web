@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Under the Shah, Iran maintained good relations with 'moderate pro-American Arab countries' such as Egypt, Jordan, and the Emirates."
+born: 1919-10-26
+died: 1980-07-27
+location: "Tehran, Iran"
 ---
 
 [[Mohammad Reza Pahlavi]], also known as the Shah of [[Iran]], ruled for nearly 40 years. His departure from [[Iran]] on January 16, 1979, marked a tumultuous upheaval in the [[Middle East]] and led to a new threat to [[Israel|Israel's]] existence.[^1]

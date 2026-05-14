@@ -8,6 +8,9 @@ tags:
   - Contra_War
   - Event_Murder
 summary: Dr. Hugo Spadafora was a Panamanian revolutionary doctor and Contra fighter who was tortured and decapitated in September 1985 while attempting to publicly expose Manuel Noriega's cocaine trafficking operations with the Contras.
+born: 1940-09-06
+died: 1985-09-13
+location: "Chitré, Herrera, Panama"
 ---
 Dr. Hugo Spadafora was a dashing young [[Panama|Panamanian]] doctor who became a hero to many Panamanians as an unusual mix of revolutionary warrior and middle-class professional. He fought alongside [[Eden Pastora]] against the Somoza dictatorship in the 1970s, leading an international brigade of jungle fighters, the Brigada Internacional Simón Bolívar, in support of Pastora's southern forces. The [[DEA]] called him "reportably the best known guerrilla fighter in Central America."[^1]
 

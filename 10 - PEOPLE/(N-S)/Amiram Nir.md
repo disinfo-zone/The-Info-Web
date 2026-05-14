@@ -7,6 +7,9 @@ tags:
   - Israel
   - Military
 summary: "Nir resigned from his TV job to work as a public relations adviser for Peres during the 1981 elections."
+born: 1950-12-08
+died: 1988-11-30
+location: "Israel"
 ---
 
 [[Amiram Nir]] was a former [[Israel|Israeli]] TV newsman and a counterterrorism adviser to [[Shimon Peres]]. He was originally a military officer in the tank corps and lost an eye in a training accident. He married [[Judy Moses]], the daughter of the owner of [[Yediot Ahronot]], a major [[Israel|Israeli]] newspaper chain.[^1]

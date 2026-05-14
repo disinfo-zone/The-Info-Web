@@ -5,6 +5,9 @@ tags:
   - Israel
 category: "Foreign Government"
 summary: "LAKAM (Hebrew acronym for Science Liaison Bureau) was an Israeli Ministry of Defense intelligence agency, previously known as the Office of Special Tasks."
+start: 1957
+end: 1985
+location: "Tel Aviv, Israel"
 ---
 [[LAKAM]] (Hebrew acronym for Science Liaison Bureau) was an Israeli Ministry of Defense intelligence agency, previously known as the Office of Special Tasks. It was set up to gather and exchange technology and intelligence with foreign military industries.[^1][^2]
 

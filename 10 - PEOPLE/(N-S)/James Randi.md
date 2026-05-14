@@ -8,6 +8,9 @@ tags:
   - Skeptic
   - Magician
 summary: "James Randi (1928–2020), known as 'The Amazing Randi,' was a Canadian-American stage magician, escape artist, and a prominent scientific skeptic."
+born: 1928-08-07
+died: 2020-10-20
+location: "Toronto, Ontario, Canada"
 ---
 
 James Randi (1928–2020), known as "The Amazing Randi," was a Canadian-American stage magician, escape artist, and a prominent scientific skeptic. He dedicated much of his life to investigating and debunking paranormal and pseudoscientific claims, often challenging individuals who claimed to possess supernatural abilities[^1].

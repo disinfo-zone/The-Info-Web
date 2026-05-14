@@ -10,6 +10,7 @@ tags:
   - Child_Pornography
 category: "Private Organization"
 summary: "The Apollo Bulletin Board Service, commonly known as Apollo BBS, operated as one of the world's largest online distributors of sadomasochistic child pornography during the mid-1990s."
+location: "Zandvoort, Netherlands"
 ---
 The Apollo Bulletin Board Service, commonly known as Apollo BBS, operated as one of the world's largest online distributors of sadomasochistic child pornography during the mid-1990s. Based in the Dutch seaside resort town of Zandvoort, the Apollo BBS distributed child pornography globally through dial-up connections and early internet protocols. The system employed encryption and access controls to limit entry to verified members, creating a platform for the distribution of illegal materials to paying customers around the world.[^1]
 

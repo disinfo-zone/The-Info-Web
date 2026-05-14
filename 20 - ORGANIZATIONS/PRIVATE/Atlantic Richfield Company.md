@@ -5,6 +5,9 @@ tags:
   - Energy
 category: "Private Organization"
 summary: "Atlantic Richfield Company (ARCO) was an American oil company. In 1967, Zalman Mordecai Shapiro and his partners were forced to merge their interest in the Nuclear Materials and Equipment Corporation into ARCO due to the continuing controversy over..."
+start: 1966
+end: 2000
+location: "Los Angeles, California"
 ---
 Atlantic Richfield Company (ARCO) was an American oil company. In 1967, [[Zalman Mordecai Shapiro]] and his partners were forced to merge their interest in the [[Nuclear Materials and Equipment Corporation|NUMEC]] into ARCO due to the continuing controversy over alleged uranium diversion. Shapiro, with his special Q clearance still intact, continued to run the plant.[^1]
 

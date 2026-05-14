@@ -1,6 +1,8 @@
 ---
 category: "U.S. Government"
 summary: "The California Attorney General's Office is the chief law enforcement agency for the state of California."
+start: 1850
+location: "Sacramento, California"
 ---
 The [[California Attorney General's Office]] is the chief law enforcement agency for the state of [[California]]. It is mentioned in the context of [[Ron Van Meter]] reporting drug dealing and other forms of corruption within the Mariposa Sheriff's Department to this office in Sacramento. Upon his return, Van Meter was confronted by Sheriff [[Paul Paige]], who had been informed by the Attorney General of Van Meter's visit and its contents.[^1]
 

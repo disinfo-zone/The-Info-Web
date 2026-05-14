@@ -1,5 +1,7 @@
 ---
 category: "Private Organization"
+start: 1881
+location: "Los Angeles, California, USA"
 tags:
   - Organization
   - Media

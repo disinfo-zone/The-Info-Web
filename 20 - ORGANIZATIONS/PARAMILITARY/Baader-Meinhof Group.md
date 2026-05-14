@@ -6,6 +6,9 @@ tags:
   - Terrorism
 category: "Paramilitary"
 summary: "The Baader-Meinhof Group, also known as the Red Army Faction (RAF), was a West German far-left militant organization."
+start: 1970
+end: 1998
+location: "West Germany"
 ---
 The [[Baader-Meinhof Group]], also known as the Red Army Faction (RAF), was a West German far-left militant organization. They were involved in the 1976 [[Entebbe hijacking]], where they boarded an [[Air France]] jet flying from [[Tel Aviv]] to [[Paris]] and diverted it to [[Entebbe Airport]] in [[Uganda]].[^1]
 

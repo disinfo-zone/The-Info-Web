@@ -1,5 +1,7 @@
 ---
 category: "Private Organization"
+start: 1903
+location: "Miami, Florida, USA"
 tags:
   - organization
   - media

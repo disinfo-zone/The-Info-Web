@@ -7,6 +7,8 @@ tags:
   - RemoteViewer
   - Military
 summary: "Secretary of Defense under Reagan whose military aide Lieutenant Colonel Higgins was abducted in Lebanon in 1988 with deep knowledge of classified matters."
+born: 1917-08-18
+location: "San Francisco, California"
 ---
 
 Caspar W. Weinberger (1917–1990) was an American politician and businessman who served as the Secretary of Defense under President [[Ronald Reagan]] from 1981 to 1987. He was a key figure in the Reagan administration's military buildup during the [[Cold War]][^1].

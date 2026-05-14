@@ -5,6 +5,8 @@ tags:
   - Nuclear
   - Israel
 summary: "Vanunu began working as a technician at Dimona in August 1977 and spent much of the next eight years assigned to various tasks inside the reprocessing plant, formally known as Machon 2 and informally as the Tunnel."
+born: 1954-10-14
+location: "Marrakech, Morocco"
 ---
 
 [[Mordecai Vanunu]] was a former technician at a nuclear facility near [[Dimona]], [[Israel]], who became a whistleblower, exposing details of [[Israel|Israel's]] nuclear program to the _London Sunday Times_ in 1986.[^1][^2]

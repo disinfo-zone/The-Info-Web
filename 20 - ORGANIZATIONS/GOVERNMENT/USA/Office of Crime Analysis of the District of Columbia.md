@@ -8,6 +8,7 @@ tags:
   - INSLAW
   - DC Government
 summary: "The Office of Crime Analysis of the District of Columbia was a DC government research unit whose Director, Joan E. Jacoby, co-led the 1969 team that commissioned and designed the PROMIS software under a $60,000 LEAA grant, and later administered the National Center for Prosecution Management."
+location: "Washington, D.C."
 ---
 The Office of Crime Analysis of the District of Columbia was a small governmental research and analysis unit operating within the DC government. It had no federal counterpart and appears to have operated primarily to support criminal justice planning and prosecution management for the District.
 

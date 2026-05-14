@@ -5,6 +5,8 @@ tags:
   - religious
   - contra-war
 summary: The Unification Church, led by Sun Myung Moon, supported anti-Communist causes including the Contra war through its political arm, the CAUSA Foundation.
+start: 1954
+location: "Seoul, South Korea"
 ---
 The Unification Church, led by [[Sun-Myung Moon|Sun Myung Moon]], supported anti-Communist causes including the [[Contras|Contra]] war through its political arm, the CAUSA Foundation. The church's anti-Communist ideology aligned with the Reagan administration's Central America policy.[^1]
 

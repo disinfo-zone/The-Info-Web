@@ -5,6 +5,7 @@ tags:
   - Israel
 category: "Private Organization"
 summary: "The Israel Bond Organization is a financial institution that raises funds for the State of Israel through the sale of Israel Bonds."
+location: "Israel"
 ---
 The Israel Bond Organization is a financial institution that raises funds for the State of [[Israel]] through the sale of Israel Bonds. [[Abraham Feinberg]] publicly served as its president, while privately helping to raise millions of dollars needed to build the controversial [[Dimona]] reactor and reprocessing plant. This allowed the expanding and expensive operations at [[Dimona]] to be financed outside of the normal Israeli budget process, circumventing critics of the nuclear program.[^1]
 

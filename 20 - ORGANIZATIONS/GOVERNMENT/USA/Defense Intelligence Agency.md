@@ -13,6 +13,8 @@ tags:
 description: The Defense Intelligence Agency (DIA) is an intelligence agency of the United States federal government, specializing in defense and military intelligence.
 category: "U.S. Government"
 summary: "The Defense Intelligence Agency (DIA) is a major intelligence agency of the United States, specializing in defense and military intelligence."
+start: 1961
+location: "Washington, D.C."
 ---
 The [[Defense Intelligence Agency]] (DIA) is a major intelligence agency of the United States, specializing in defense and military intelligence. The DIA played a significant role in the oversight and funding of the [[STARGATE PROJECT]], particularly after the Army's initial involvement.[^1]
 

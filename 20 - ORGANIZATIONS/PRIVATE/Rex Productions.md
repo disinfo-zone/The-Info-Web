@@ -9,6 +9,7 @@ tags:
   - Marleen_De_Cokere
 category: "Private Organization"
 summary: "Rex Productions was a hardcore pornography studio in Amsterdam linked to Jean-Michel Nihoul's trafficking network through Marleen De Cokere."
+location: "Amsterdam, Netherlands"
 ---
 Rex Productions was a hardcore pornography studio in [[Amsterdam]] linked to [[Jean-Michel Nihoul]]'s trafficking network through [[Marleen De Cokere]]. Rex Productions was operated by Didier Pellerin, a transvestite born in [[Paris|Paris, France]], who sold production through the Rex Product and Rox Film Product companies from the Netherlands. Pellerin had several charges for false documents and incentive to debauch. According to a police report, [[Jean-Michel Nihoul|Nihoul]] could have participated in sadomasochistic shoots at the studio. Pellerin hosted monthly buffet evenings at her premises for initiation to sadomasochism. The report noted that [[Marleen De Cokere]] had worked as a secretary at the studio, and an anonymous witness reported seeing photographs of children chained or in handcuffs at the premises, which appeared in a press book. Pellerin reportedly stated that the trade in pedophile videos was very lucrative in Belgium but dangerous.[^1]
 

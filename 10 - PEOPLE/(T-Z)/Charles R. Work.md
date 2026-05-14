@@ -9,6 +9,8 @@ tags:
   - Lawyer
   - DoJ
 summary: "Charles R. Work was Deputy Chief of the DC U.S. Attorney's Office Superior Court Division who co-directed the original PROMIS design team with Joan E. Jacoby and project manager Bill Hamilton in 1969, then served as Deputy Administrator of LEAA from 1973 to 1975 where he continued funding INSLAW and PROMIS expansion."
+born: 1940-06-21
+location: "Glendale, California"
 ---
 Charles "Chuck" R. Work was born June 21, 1940, in Glendale, California. He graduated from Wesleyan University (B.A., 1962), the University of Chicago Law School (J.D., 1965), and the Georgetown University Law Center (LL.M., 1966), passing the bar in 1965.[^1]
 

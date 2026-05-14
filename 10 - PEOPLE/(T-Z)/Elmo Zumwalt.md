@@ -8,6 +8,8 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "Elmo Zumwalt (1920–2000) was an American naval officer who served as the Chief of Naval Operations (CNO) from 1970 to 1974."
+born: 1920-11-29
+died: 2000-01-02
 ---
 
 Elmo Zumwalt (1920–2000) was an American naval officer who served as the Chief of Naval Operations (CNO) from 1970 to 1974. He was a key figure in modernizing the [[U.S. Navy]] during the [[Cold War]][^1].

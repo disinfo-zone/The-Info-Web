@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - SRI
 summary: "Robert Van de Castle was a civilian psychologist who, along with George Lawrence and Ray Hyman, traveled to SRI to test Uri Geller's purported psychic abilities for ARPA."
+born: 1927-11-16
+died: 2014
+location: "Rochester, New York"
 ---
 
 Robert Van de Castle was a civilian psychologist who, along with [[George Lawrence]] and [[Ray Hyman]], traveled to [[Stanford Research Institute|SRI]] to test [[Uri Geller]]'s purported psychic abilities for [[DARPA]]. Their conclusion, later reported in *Time* magazine, was that anyone who believed in Geller's powers was falling for the "ridiculous"[^1].

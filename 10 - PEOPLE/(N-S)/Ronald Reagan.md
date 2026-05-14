@@ -10,6 +10,9 @@ tags:
   - OctoberSurprise
   - IranContra
 summary: "40th President of the United States who authorized CIA operations in Nicaragua, oversaw the Contra war and the secret drug-crimes reporting exemption, while simultaneously prosecuting the War on Drugs."
+born: 1911-02-06
+died: 2004-06-05
+location: "Tampico, Illinois"
 ---
 Ronald Reagan was the 40th President of the [[United States]], serving from 1981 to 1989. His administration's first [[Middle East]] crisis involved the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981. Upon being informed of the bombing by his national security adviser, [[Richard V. Allen]], Reagan privately expressed delight, remarking, "Well. Boys will be boys."[^1] Despite public condemnation from the [[State Department]] and proposals from some of his high command, including [[Caspar Weinberger]], to sanction [[Israel]] by canceling F-16 aircraft sales, Reagan had no intention of taking such steps. The suspension of F-16 deliveries was lifted two months later.[^1]
 

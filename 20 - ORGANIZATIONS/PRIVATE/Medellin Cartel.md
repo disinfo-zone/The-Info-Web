@@ -1,5 +1,8 @@
 ---
 category: "Private Organization"
+start: 1976
+end: 1993
+location: "Medellín, Colombia"
 tags:
   - Organization
   - Organization/Drug_Cartel

@@ -1,6 +1,8 @@
 ---
 category: "U.S. Government"
 summary: "The Financial Crimes Enforcement Network is a bureau of the United States Department of the Treasury that collects and analyzes information about financial transactions to combat domestic and international money laundering, terrorist financing, and..."
+start: 1990
+location: "Vienna, Virginia"
 ---
 The [[Financial Crimes Enforcement Network|FinCen]] is a bureau of the [[United States Department of the Treasury|U.S. Department of the Treasury]] that collects and analyzes information about financial transactions to combat domestic and international money laundering, terrorist financing, and other financial crimes.[^1]
 

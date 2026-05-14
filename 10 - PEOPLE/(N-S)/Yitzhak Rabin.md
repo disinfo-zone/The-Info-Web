@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "As army chief of operations, Yitzhak Rabin was among the old-fashioned military men, including Yigal Allon and Ariel Sharon, who believed that Israel's essential advantage over the Arabs was the quality and training of its military personnel."
+born: 1922-03-01
+died: 1995-11-04
+location: "Jerusalem"
 ---
 
 [[Yitzhak Rabin]] was an [[Israel|Israeli]] politician and military leader who served as Prime Minister of [[Israel]] and Defense Minister. He was a rival of [[Shimon Peres]] within the [[Labor Party]].[^1]

@@ -9,6 +9,7 @@ tags:
   - X-Dossier
 category: "Private Organization"
 summary: "ASCO Industries NV was an aerospace company in Zaventem near Brussels owned by military industrialist Roger Boas, a close associate of politicians, lawyers, and financiers orbiting Belgium's Parti Social Chretien (CSP)."
+location: "Zaventem, Belgium"
 ---
 ASCO Industries NV was an aerospace company in Zaventem near Brussels owned by military industrialist [[Roger Boas]], a close associate of politicians, lawyers, and financiers orbiting Belgium's [[Parti Social Chretien]] (CSP). The CSP was a political faction aligned at its fringes with Belgium's neofascist movement and [[Operation Gladio]].[^1]
 

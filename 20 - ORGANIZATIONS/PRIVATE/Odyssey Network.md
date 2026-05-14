@@ -10,6 +10,7 @@ tags:
   - Odyssey_Network
 category: "Private Organization"
 summary: "The Odyssey Network was a sophisticated child trafficking and prostitution operation based in Dallas, Texas, during the 1970s."
+location: "Dallas, Texas, USA"
 ---
 
 ### Overview

@@ -5,6 +5,9 @@ tags:
   - Israel
 category: "Foreign Government"
 summary: "The Agranat Commission was a commission appointed by the Israel prime minister in 1974 to investigate the intelligence failures of the 1973 war, where Israel was surprised by the Syria-Egypt attack on Yom Kippur.[^1]"
+start: 1974
+end: 1975
+location: "Jerusalem, Israel"
 ---
 The [[Agranat Commission]] was a commission appointed by the [[Israel|Israeli]] prime minister in 1974 to investigate the intelligence failures of the 1973 war, where [[Israel]] was surprised by the [[Syria|Syrian]]-[[Egypt|Egyptian]] attack on [[Yom Kippur]].[^1]
 

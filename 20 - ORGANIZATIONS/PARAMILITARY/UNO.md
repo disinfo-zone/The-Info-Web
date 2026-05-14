@@ -5,6 +5,7 @@ tags:
   - nicaraguan
   - contra-war
 summary: UNO (United Nicaraguan Opposition) was a CIA-inspired merger of Contra factions created to improve the Contras' public image, existing mostly as a facade while the FDN retained real authority.
+start: 1987
 ---
 UNO (United Nicaraguan Opposition) was a [[Central Intelligence Agency]]-inspired merger of Contra factions created to improve the [[Contras|Contras]]' public image, existing mostly as a facade while the [[FDN]] retained real authority and did the bulk of the fighting. The merger was formalized in the Oval Office on August 5, 1987, at a gathering of Nicaraguan resistance leaders.[^1]
 

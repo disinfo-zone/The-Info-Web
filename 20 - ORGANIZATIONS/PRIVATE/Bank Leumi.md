@@ -5,6 +5,8 @@ tags:
   - Israel
 category: "Private Organization"
 summary: "Bank Leumi is an Israeli state bank. After his retirement in 1973, Walworth Barbour, the former American ambassador to Israel, agreed to become a board member of its American branch."
+start: 1902
+location: "Tel Aviv, Israel"
 ---
 Bank Leumi is an Israeli state bank. After his retirement in 1973, [[Walworth Barbour]], the former American ambassador to [[Israel]], agreed to become a board member of its American branch. This decision, while not illegal, was seen by many [[State Department]] officials as posing an obvious conflict of interest.[^1]
 

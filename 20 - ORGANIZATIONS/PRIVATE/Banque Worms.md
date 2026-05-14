@@ -6,6 +6,9 @@ tags:
   - Europe
 category: "Private Organization"
 summary: "Banque Worms was a bank in Geneva, Switzerland, that played a role in the financial transactions related to Israel arms sales to Iran and the release of USA hostages.[^1]"
+start: 1928
+end: 2004
+location: "Geneva, Switzerland"
 ---
 [[Banque Worms]] was a bank in [[Geneva]], [[Switzerland]], that played a role in the financial transactions related to [[Israel|Israeli]] arms sales to [[Iran]] and the release of [[United States|American]] hostages.[^1]
 

@@ -7,6 +7,9 @@ tags:
   - Israel
   - Soviet
 summary: "Israeli Prime Minister and former LEHI member who authorized intelligence sharing with the Soviet Union and oversaw covert arms deals with Iran and the Iran-Israel Joint Committee."
+born: 1915-10-22
+died: 2012-06-30
+location: "Ruzhany, Belarus"
 ---
 
 [[Yitzhak Shamir]] was a prominent [[Israel|Israeli]] politician who served as Prime Minister of [[Israel]]. He was a former member of [[LEHI]] (Stern Gang), a Jewish terrorist group, and later became a prominent figure in [[Mossad]], serving as operations chief for [[Europe]].[^1]

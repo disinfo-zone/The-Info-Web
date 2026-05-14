@@ -2,6 +2,7 @@
 tags: ["Organization", "Bank", "BCCI"]
 category: "Private Organization"
 summary: "First American Bank was a bank based in Washington, D.C., which became secretly owned and controlled by the Bank of Credit and Commerce International.[^1]"
+location: "Washington, DC"
 ---
 First American Bank was a bank based in [[Washington, D.C.]], which became secretly owned and controlled by the [[Bank of Credit and Commerce International|BCCI]].[^1]
 

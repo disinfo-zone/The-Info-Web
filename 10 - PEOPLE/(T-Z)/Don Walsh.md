@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Don Walsh is a renowned deep-sea explorer and former naval officer, known for achieving the deepest dive ever undertaken."
+born: 1931-11-02
+died: 2023-11-12
+location: "Berkeley, California"
 ---
 
 Don Walsh is a renowned deep-sea explorer and former naval officer, known for achieving the deepest dive ever undertaken. In 1960, along with a crewmate, he descended to the bottom of the Challenger Deep in the Mariana Trench in the western Pacific Ocean, a feat that would not be replicated for another fifty-two years[^1].

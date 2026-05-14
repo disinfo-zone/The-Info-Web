@@ -5,6 +5,9 @@ tags:
   - Israel
   - Military
 summary: "General Yekutiel Adam was an Israeli military leader who was in line to take over as Director of Mossad in 1981."
+born: 1927-11-03
+died: 1982-06-10
+location: "Tel Aviv, Israel"
 ---
 
 General [[Yekutiel Adam]] was an [[Israel|Israeli]] military leader who was in line to take over as Director of [[Mossad]] in 1981. However, he was assassinated by his own people, according to [[Rafi]], who claimed it was an inside job. The old guard in [[Mossad]] were reportedly afraid of him because he had told people in the [[Prime Minister's Office]] that he would make a clean sweep of the intelligence network.[^1]

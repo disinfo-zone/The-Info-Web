@@ -10,6 +10,8 @@ tags:
   - Odyssey_Network
 category: "Private Organization"
 summary: "Troop 137 was a Boy Scout troop chartered in eastern New Orleans in 1974 by three men: Richard Halvorsen, Raymond Woodall, and Robert Lang."
+start: 1974
+location: "New Orleans, Louisiana"
 ---
 Troop 137 was a Boy Scout troop chartered in eastern New Orleans in 1974 by three men: [[Richard Halvorsen]], [[Raymond Woodall]], and [[Robert Lang]]. Around forty boys from low income families were recruited into the troop, from which approximately ten boys aged between eight and twelve were groomed and supplied as boy prostitutes to a network of wealthy clients across the United States. The troop's exposure in September 1976 revealed a child pornography and prostitution operation linked to [[John David Norman]]'s [[Delta Project]] in Chicago and the [[Hermes]] newsletter.[^1]
 

@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Admiral Ahmad Madani was a significant figure in the Iranian military and politics."
+born: 1929
+died: 2006
+location: "Tehran, Iran"
 ---
 
 Admiral [[Ahmad Madani]] was a significant figure in the [[Iran|Iranian]] military and politics. In the 1960s, he was the youngest admiral in the [[Mohammad Reza Pahlavi|Shah's]] navy. He was forced to resign in 1970 due to alleged corruption, though in fact, it was because he was becoming too outspoken in his criticism of the [[Mohammad Reza Pahlavi|Shah's]] regime.[^1]

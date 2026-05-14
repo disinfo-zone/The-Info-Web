@@ -5,6 +5,7 @@ tags:
   - corporate
   - contra-war
 summary: DIACSA was a Miami aircraft company run by a Cuban Bay of Pigs veteran that served as a cover company for the Costa Rican Contras and a hub for plotting drug flights and laundering cocaine profits.
+location: "Miami, Florida"
 ---
 DIACSA was a [[Miami]] aircraft company run by Cuban [[Bay of Pigs]] veteran Alfredo Caballero that served as a cover company for the Costa Rican [[Contras]] and a hub for plotting drug flights and laundering [[cocaine]] profits. A 1985 [[Central Intelligence Agency]] cable described DIACSA as the "cover company" used by the Costa Rican Contras to secretly buy aircraft.[^1]
 

@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Jody Powell was President Jimmy Carter's press secretary."
+born: 1943-09-30
+died: 2009-09-14
+location: "Cordele, Georgia"
 ---
 
 Jody Powell was President [[Jimmy Carter]]'s press secretary. In October 1977, he publicly announced that "four years of continuing investigation" by the [[Atomic Energy Commission|AEC]], [[Federal Bureau of Investigation|FBI]], and General Accounting Office had "failed to reveal" a diversion of uranium to [[Israel]] from [[Nuclear Materials and Equipment Corporation|NUMEC]].[^1]

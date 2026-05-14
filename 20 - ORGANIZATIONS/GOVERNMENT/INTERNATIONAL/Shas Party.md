@@ -5,6 +5,8 @@ tags:
   - Israel
 category: "Foreign Government"
 summary: "The Shas Party is an orthodox political party in Israel, which emerged as a significant force in Israeli politics."
+start: 1984
+location: "Jerusalem, Israel"
 ---
 The [[Shas Party]] is an orthodox political party in [[Israel]], which emerged as a significant force in Israeli politics. It was at odds with [[Menachem Schneerson]], the Lubavitcher Rebbe, and gained influence within the [[Likud Party]]-controlled Israeli government.
 

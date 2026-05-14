@@ -1,6 +1,7 @@
 ---
 category: "Private Organization"
 summary: "D.I.G. (Decency in Government) was an organization formed by deputies and former grand jury members in Mariposa County, California."
+location: "Mariposa County, California"
 ---
 D.I.G. (Decency in Government) was an organization formed by deputies and former grand jury members in Mariposa County, [[California]]. The group was established after numerous meetings where deputies and grand jurors corroborated stories of long-standing corruption, murder, threats, and harassment within the Mariposa Sheriff's Department.[^1]
 

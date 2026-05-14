@@ -12,6 +12,9 @@ category: "BCCI Scandal"
 created: 2024-04-25
 updated: 2026-05-01
 summary: "The Bank of Credit and Commerce International (BCCI) was a Pakistani-founded offshore bank that operated across 78 countries before its 1991 collapse exposed a decade-long conspiracy involving money laundering for drug cartels and intelligence agencies, illegal acquisition of U.S. banks, bribery, fraud, and arms trafficking, in what regulators called the largest bank fraud in history."
+start: 1972
+end: 1991
+location: "Luxembourg"
 ---
 The [[Bank of Credit and Commerce International|BCCI]] was a financial institution that became embroiled in a major scandal involving money laundering, drug trafficking, and covert operations. Its collapse had far-reaching implications and was a significant focus of [[Danny Casolaro]]'s "[[The Octopus]]" investigation.[^1]
 

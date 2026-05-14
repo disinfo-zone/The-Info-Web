@@ -6,6 +6,9 @@ tags:
   - USA
 category: "Private Organization"
 summary: "The Lockheed Aircraft Company is an USA aerospace manufacturer that developed advanced military aircraft and became involved in a bribe scandal affecting Israel politics."
+start: 1926
+end: 1995
+location: "Burbank, California, USA"
 ---
 The [[Lockheed Aircraft Company]] is an [[United States|American]] aerospace manufacturer that developed advanced military aircraft and became involved in a bribe scandal affecting [[Israel|Israeli]] politics.
 

@@ -7,6 +7,9 @@ tags:
   - Politician
   - Soviet
 summary: "Richard Milhous Nixon was the 37th President of the United States, serving from 1969 to 1974."
+born: 1913-01-09
+died: 1994-04-22
+location: "Yorba Linda, California"
 ---
 
 Richard Milhous Nixon was the 37th President of the [[United States]], serving from 1969 to 1974. His presidency was marked by significant foreign policy initiatives, including opening relations with [[China]] and pursuing détente with the [[Soviet Union]].[^1]

@@ -4,6 +4,9 @@ tags:
   - Person
   - Skeptic
 summary: "American botanist who founded the parapsychology lab at Duke University and is considered a father of modern parapsychology."
+born: 1895-09-29
+died: 1980-02-20
+location: "Waterloo, Pennsylvania"
 ---
 
 Joseph Banks Rhine, known as J. B. Rhine (1895–1980), was an American botanist who founded the parapsychology lab at [[Duke University]]. He is considered one of the fathers of modern [[Parapsychology|parapsychology]][^1].

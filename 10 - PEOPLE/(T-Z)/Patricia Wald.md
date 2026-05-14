@@ -7,6 +7,9 @@ tags:
   - DoJ
   - INSLAW
 summary: "Patricia Wald was the Chief Judge of the U.S."
+born: 1928-09-16
+died: 2019-01-12
+location: "Torrington, Connecticut"
 ---
 
 Patricia Wald was the Chief Judge of the U.S. Court of Appeals for the D.C. Circuit. She played a direct role in the events surrounding the non-reappointment of [[George Francis Bason, Jr.|Judge Bason]], which became a central point of contention in the [[PROMIS Software Scandal]] due to allegations of improper influence by the [[Department of Justice|DOJ]].

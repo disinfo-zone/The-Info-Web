@@ -9,6 +9,8 @@ tags:
 description: The Parapsychological Association is an international professional organization of scientists and scholars engaged in the study of parapsychology.
 category: "Private Organization"
 summary: "The Parapsychological Association is an international professional organization of scientists and scholars engaged in the study of Parapsychology."
+start: 1957
+location: "Durham, North Carolina, USA"
 ---
 
 The [[Parapsychological Association]] is an international professional organization of scientists and scholars engaged in the study of [[Parapsychology]]. In 1969, after a rousing conference speech by the anthropologist [[Margaret Mead]], the American Association for the Advancement of Science voted to admit the Parapsychological Association to its ranks of approved disciplines. Her support helped lend a degree of legitimacy to the field of parapsychology, which had long struggled for scientific acceptance.[^1]

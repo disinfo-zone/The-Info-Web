@@ -6,6 +6,9 @@ tags:
   - Physicist
   - Israel
 summary: "Oppenheimer's personal papers indicate he visited Israel in May 1958 to participate in ceremonies marking the opening of the Institute of Nuclear Science in Rehovot."
+born: 1904-04-22
+died: 1967-02-18
+location: "New York City, New York"
 ---
 
 J. Robert Oppenheimer was a prominent American theoretical physicist, widely known as the "father of the atomic bomb" for his role as the scientific director of the [[Manhattan Project]] during World War II. He and his colleagues, including [[John von Neumann]], were actively courted by [[Chaim Weizmann]] as early as 1947 to spend time doing research in [[Israel]].[^1]

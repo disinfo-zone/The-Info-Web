@@ -9,6 +9,7 @@ category: "Private Organization"
 created: 2024-04-25
 updated: 2026-05-01
 summary: "Degem was an Israeli-controlled computer company with operations in Israel, Guatemala, and Transkei, alleged to have been the primary vehicle through which Robert Maxwell distributed backdoored PROMIS software to foreign governments worldwide."
+location: "Israel"
 ---
 [[Degem]] was an Israeli-controlled computer company with operations in [[Israel]], [[Guatemala]], and [[Transkei]] (a Bantustan homeland controlled by [[South Africa]]). It was originally controlled by Israeli military intelligence and provided computer services to South Africa and Guatemala before passing into the hands of [[Robert Maxwell]].[^1]
 

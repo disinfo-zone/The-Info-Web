@@ -10,6 +10,8 @@ tags:
 description: AiResearch Manufacturing Group was an American aerospace manufacturer and defense contractor known for its work on life support systems and classified research.
 category: "Private Organization"
 summary: "AiResearch Manufacturing Group was an American aerospace manufacturer and defense contractor based in Torrance, California."
+start: 1936
+location: "Torrance, California"
 ---
 
 [[AiResearch Manufacturing Group]] was an American aerospace manufacturer and defense contractor based in Torrance, California. The company held numerous classified [[Department of Defense|DoD]] contracts, including those in avionics, hydraulics, and microprocessors. Notably, AiResearch engineered the life support systems for the Mercury, Gemini, and Apollo astronauts, giving it unique expertise in human physiology under extreme conditions.[^1]

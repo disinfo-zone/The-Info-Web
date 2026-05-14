@@ -5,6 +5,9 @@ tags:
   - Israel
   - Military
 summary: "Moshe Sharett was the second Prime Minister of Israel, serving from 1954 to 1955."
+born: 1894-10-15
+died: 1965-07-07
+location: "Kherson, Russian Empire (now Ukraine)"
 ---
 
 Moshe Sharett was the second Prime Minister of [[Israel]], serving from 1954 to 1955. He differed significantly from [[David Ben-Gurion]] in his approach to the Arab question, believing that peace with the Arab world was possible through military restraint and potential [[United Nations]] intervention. As prime minister, he initiated secret peace negotiations with [[Gamal Abdel Nasser|Nasser]].[^1]

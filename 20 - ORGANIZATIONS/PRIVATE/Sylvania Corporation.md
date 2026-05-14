@@ -8,6 +8,8 @@ tags:
   - technology
 description: Sylvania Corporation was an American manufacturer of lighting products, televisions, and other electronic equipment.
 category: "Private Organization"
+start: 1901
+location: "Salem, Massachusetts"
 summary: "The Sylvania Corporation was an American manufacturer of lighting products, televisions, and other electronic equipment."
 ---
 

@@ -1,6 +1,8 @@
 ---
 category: "U.S. Government"
 summary: "The United States Army Criminal Investigation Division (CID) is the primary federal law enforcement agency of the United States Army. It is responsible for investigating felony crimes and other serious offenses within the Army.[^1]"
+start: 1971
+location: "Fort Belvoir, Virginia"
 ---
 The [[United States Army Criminal Investigation Division|U.S. Army Criminal Investigation Division]] (CID) is the primary federal law enforcement agency of the [[U.S. Army]]. It is responsible for investigating felony crimes and other serious offenses within the Army.[^1]
 

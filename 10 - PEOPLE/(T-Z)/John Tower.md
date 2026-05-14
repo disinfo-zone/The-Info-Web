@@ -6,6 +6,9 @@ tags:
   - CIA
   - Military
 summary: "After the Iran-Contra Affair scandal broke, Tower was appointed to head a presidential commission of inquiry into the affair."
+born: 1925-09-29
+died: 1991-04-05
+location: "Houston, Texas"
 ---
 
 [[John Tower]] was a [[United States|U.S.]] Senator and a prominent figure with connections to [[Central Intelligence Agency|CIA]] circles. He served as chairman of the Senate Armed Services Committee.[^1]

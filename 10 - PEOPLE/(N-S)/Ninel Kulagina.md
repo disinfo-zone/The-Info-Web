@@ -7,6 +7,9 @@ tags:
   - Person
   - Skeptic
 summary: "Ninel Kulagina (1926–1990), also known as Nina Kulagina, was a celebrated Soviet psychic and a decorated World War II hero, having served as a front-line soldier and tank radio operator for the Red Army."
+born: 1926-07-30
+died: 1990-04-11
+location: "Leningrad, Soviet Union"
 ---
 
 # Ninel Kulagina

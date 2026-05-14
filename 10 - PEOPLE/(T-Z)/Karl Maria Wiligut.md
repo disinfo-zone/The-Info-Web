@@ -9,6 +9,9 @@ tags:
   - Nazi
   - Occult
 summary: "Karl Maria Wiligut (1866–1946) was an Austrian occultist and SS-Brigadeführer who advised Heinrich Himmler on esoteric matters within Nazi Germany."
+born: 1866-12-10
+died: 1946-01-03
+location: "Vienna, Austria"
 ---
 
 Karl Maria Wiligut (1866–1946) was an Austrian occultist and SS-Brigadeführer who advised [[Heinrich Himmler]] on esoteric matters within [[Nazi Germany]]. Himmler, fascinated with the occult since his college days, hired Wiligut in 1925 to advise him on these subjects[^1].

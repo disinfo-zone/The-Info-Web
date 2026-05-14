@@ -5,6 +5,8 @@ tags:
   - u.s.-military
   - contra-war
 summary: The U.S. Army School of the Americas at Fort Benning trained hundreds of Nicaraguan National Guard officers who later formed the leadership of the Contra army.
+start: 1946
+location: "Fort Benning, Georgia"
 ---
 The U.S. Army School of the Americas at [[Fort Benning]] trained hundreds of [[Nicaraguan National Guard]] officers who later formed the leadership of the [[Contras|Contra]] army. The school was part of the U.S. military education program that produced the officers who served both the Somoza regime and the Contra war.[^1]
 

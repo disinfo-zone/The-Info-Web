@@ -1,6 +1,7 @@
 ---
 category: "Private Organization"
 summary: "'The Company' was a drug and arms organization consisting of approximately 300 members, many of whom were former military men, ex-police officers, or ex-intelligence personnel."
+location: "Lexington, Kentucky and Mena, Arkansas"
 ---
 "The Company" was a drug and arms organization consisting of approximately 300 members, many of whom were former military men, ex-police officers, or ex-intelligence personnel. It was involved in large-scale illegal drug trafficking, gunrunning, and mercenary operations, with assets estimated at nearly $30 million, including planes, ships, and real estate.[^1]
 

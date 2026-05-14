@@ -1,6 +1,8 @@
 ---
 category: "Private Organization"
 summary: "The Full Gospel Business Men's Fellowship International is an influential organization with a history of strong military connections and wide-ranging effects on foreign policy, particularly in Central America under the Ronald Reagan administration."
+start: 1952
+location: "Los Angeles, California"
 ---
 The [[Full Gospel Business Men's Fellowship International|FGBMFI]] is an influential organization with a history of strong military connections and wide-ranging effects on foreign policy, particularly in Central [[America]] under the [[Ronald Reagan]] administration. Prominent right-wing activists, such as [[Joseph Coors]] (Heritage Foundation) and [[Sanford McDonnell]] (McDonnell Douglas Corporation), were members of FGBMFI.[^1]
 

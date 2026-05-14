@@ -5,6 +5,8 @@ tags:
   - Military
   - Israel
 summary: "Pollard was an unhappy child in South Bend, Indiana, tormented and beaten in grade school for being Jewish."
+born: 1954-08-07
+location: "Galveston, Texas"
 ---
 
 [[Jonathan Pollard]] was a junior civilian analyst with the [[United States|U.S.]] Navy who became a paid spy for [[Israel]]. He began working in 1979 as a civilian employee of U.S. Navy intelligence and was recruited as an operative in the fall of 1981, three years earlier than he and the Israeli government have admitted. He was then working as an intelligence specialist with the Navy's Field Operations Intelligence Office.[^2]

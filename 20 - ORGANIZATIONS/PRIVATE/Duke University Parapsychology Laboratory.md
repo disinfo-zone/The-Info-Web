@@ -9,6 +9,8 @@ tags:
 description: The Duke University Parapsychology Laboratory was a research unit founded by J. B. Rhine, dedicated to the scientific study of psychic phenomena.
 category: "Private Organization"
 summary: "The Duke University Parapsychology Laboratory was a research unit founded in 1930 by J. B. Rhine, a botanist who sought to bring scientific rigor to the study of psychic phenomena."
+start: 1930
+location: "Durham, North Carolina"
 ---
 
 The [[Duke University Parapsychology Laboratory]] was a research unit founded in 1930 by [[J. B. Rhine]], a botanist who sought to bring scientific rigor to the study of psychic phenomena. Rhine, frustrated by the theatrical displays of séance mediums, aimed to banish "mediumistic monkeying-about" and instead focused on controlled experiments, such as card-guessing and dice-throwing, to generate statistical evidence for psi.[^1]

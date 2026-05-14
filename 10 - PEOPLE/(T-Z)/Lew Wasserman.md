@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Wasserman was a major contributor to and sat on the board of the Reagan presidential library, along with Edwin Meese and others."
+born: 1913-03-22
+died: 2002-06-03
+location: "Cleveland, Ohio"
 ---
 
 [[Lew Wasserman]] was the Chairman of [[Music Corporation of America|MCA]] Corporation. He was a powerful figure in Hollywood and a long-time political supporter of [[Ronald Reagan]]. Wasserman represented Reagan during the actor's early days in Hollywood, and along with [[Jules Stein]], [[Music Corporation of America|MCA]]'s founder, negotiated the sale of Reagan's [[California]] properties at hugely inflated prices, which helped make Reagan a millionaire.[^1]

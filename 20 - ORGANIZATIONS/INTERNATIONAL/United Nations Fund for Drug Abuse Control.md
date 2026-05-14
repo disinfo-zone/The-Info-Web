@@ -6,6 +6,8 @@ tags:
   - Drug Control
 category: "International Body"
 summary: "The United Nations Fund for Drug Abuse Control (UNFDAC) was a funding source for the purchase of computer software and hardware systems."
+start: 1971
+location: "Vienna, Austria"
 ---
 The [[United Nations Fund for Drug Abuse Control]] (UNFDAC) was a funding source for the purchase of computer software and hardware systems. [[Lester Coleman]]'s affidavit states that third-party funds, including from the [[United Nations Fund for Drug Abuse Control|UNFDAC]] in Vienna, [[Austria]], were generally made available for the purchase of [[PROMIS]] software and hardware systems by drug abuse control agencies in the Middle East.[^1]
 

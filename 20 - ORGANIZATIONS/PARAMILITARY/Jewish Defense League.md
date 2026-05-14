@@ -6,6 +6,8 @@ tags:
   - Israel
 category: "Paramilitary"
 summary: "The Jewish Defense League (JDL) is a New York-based extreme right-wing organization associated with Meir Kahane.[^1]"
+start: 1968
+location: "New York City, New York"
 ---
 The [[Jewish Defense League]] (JDL) is a [[New York City]]-based extreme right-wing organization associated with [[Meir Kahane|Rabbi Meir Kahane]].[^1]
 

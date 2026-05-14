@@ -8,6 +8,8 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: Washington Post national security reporter who led the newspaper's attack on the Dark Alliance series and had a documented history as a CIA operative and propagandist during the Cold War.
+born: 1932-12-24
+location: "Brooklyn, New York"
 ---
 Walter Pincus was a national security reporter for the [[Washington Post]] who wrote the first major newspaper attack on the [[Dark Alliance]] series and had a documented history as a [[Central Intelligence Agency]] operative.[^1]
 

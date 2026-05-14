@@ -9,6 +9,8 @@ tags:
   - Cold_War
   - Dark_Alliance_Investigation
 summary: Nicaraguan rebel groups organized and funded by the CIA to overthrow the Sandinista government, composed largely of former Somoza National Guard officers and implicated extensively in cocaine trafficking throughout the 1980s war.
+start: 1980
+location: "Honduras"
 ---
 The Contras were [[Nicaragua|Nicaraguan]] rebel groups organized and funded by the [[Central Intelligence Agency]] to overthrow the [[Sandinistas|Sandinista]] government of Nicaragua.[^3] Made up largely of former followers of deposed dictator [[Anastasio Somoza]] and his [[Nicaraguan National Guard|National Guard]], the Contras were the darlings of the [[Ronald Reagan|Reagan]] administration's anti-Communist foreign policy. Multiple Contra factions were implicated in [[cocaine]] trafficking during the 1980s war.[^1]
 

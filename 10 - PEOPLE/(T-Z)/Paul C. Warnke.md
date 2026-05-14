@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Assistant Secretary of Defense who pressured Israel to sign the Nuclear Nonproliferation Treaty and directly confronted Israel about its nuclear weapons program."
+born: 1920-01-31
+died: 2001-10-31
+location: "Webster, Massachusetts"
 ---
 
 Paul C. Warnke served as the assistant secretary of defense for international security affairs. He was involved in intense pressure on [[Israel]] to sign the [[Nuclear Nonproliferation Treaty|NPT]] in exchange for F-4 fighter jets. Warnke directly questioned [[Yitzhak Rabin]], then [[Israel]]'s ambassador to [[Washington, D.C.]], about [[Israel]]'s nuclear capabilities, stating, "we are shocked at the manner in which you are dealing with us.… You, our close ally, are building nuclear bombs in [[Israel]] behind our back."[^1]

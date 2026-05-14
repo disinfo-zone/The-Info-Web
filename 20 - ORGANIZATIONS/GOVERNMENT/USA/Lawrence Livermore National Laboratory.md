@@ -9,6 +9,8 @@ tags:
 description: Lawrence Livermore National Laboratory is a U.S. federal research facility responsible for nuclear weapons research and development, which also had a brief involvement with psychic phenomena.
 category: "U.S. Government"
 summary: "Lawrence Livermore National Laboratory (LLNL) is a U.S. federal research facility located in Livermore, California. It is one of the two primary institutions responsible for America's nuclear weapons research and development."
+start: 1952
+location: "Livermore, California"
 ---
 [[Lawrence Livermore National Laboratory]] (LLNL) is a U.S. federal research facility located in Livermore, California. It is one of the two primary institutions responsible for America's nuclear weapons research and development. The lab employs thousands of physicists and support personnel and maintains a high level of security.[^1]
 

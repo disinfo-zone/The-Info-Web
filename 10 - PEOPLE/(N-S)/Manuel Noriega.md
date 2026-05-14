@@ -8,6 +8,9 @@ tags:
   - 1980s
   - Drug_Trafficking
 summary: Military dictator of Panama who simultaneously served as a CIA asset and facilitated Colombian drug trafficking, was ousted by U.S. invasion in 1989, and had his 40-year sentence reduced to 10 years after former CIA officials testified on his behalf.
+born: 1934-02-11
+died: 2017-05-29
+location: "Panama City, Panama"
 ---
 Manuel Noriega was the military dictator of [[Panama]] who performed valuable work for the [[U.S. government]] in [[Central America]] during the 1980s while simultaneously facilitating Colombian [[cocaine]] trafficking.[^1]
 

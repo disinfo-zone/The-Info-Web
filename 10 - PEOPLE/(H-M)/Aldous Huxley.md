@@ -6,6 +6,9 @@ tags:
   - Person
   - Belgium
 summary: "Aldous Huxley (1894–1963) was a renowned English writer and philosopher, best known for his dystopian novel *Brave New World*."
+born: 1894-07-26
+died: 1963-11-22
+location: "Godalming, Surrey, England"
 ---
 
 Aldous Huxley (1894–1963) was a renowned English writer and philosopher, best known for his dystopian novel *Brave New World*. He had a keen interest in the [[Consciousness|trance state]] and its potential as a means of gathering unseen information about the natural world, a fascination that led him to experiment with psychedelic substances and observe the work of [[Andrija Puharich]][^1].

@@ -8,6 +8,9 @@ tags:
   - DoJ
   - Lawyer
 summary: "Richard Thornburgh (1932-2020) served as U.S. Attorney General from 1988 to 1991 under Presidents Reagan and Bush, succeeding Edwin Meese, and was named alongside Meese in the House Judiciary Committee's 1992 INSLAW report as having blocked or restricted congressional inquiries into the PROMIS software theft, ignored two court findings against the DOJ, and refused to seek appointment of an independent counsel."
+born: 1932-07-16
+died: 2020-12-31
+location: "Pittsburgh, Pennsylvania"
 ---
 Richard Lewis Thornburgh was born July 16, 1932, in Pittsburgh, Pennsylvania. He earned a B.S. in engineering from Yale University in 1954 and an LL.B. from the University of Pittsburgh School of Law in 1957. He served as United States Attorney for the Western District of Pennsylvania from 1969 to 1975, appointed by President Nixon, and as Assistant Attorney General for the Criminal Division under President Ford from 1975 to 1977. He was elected Governor of Pennsylvania in 1978, serving two successive terms from January 16, 1979 to January 20, 1987 -- the first Republican to serve consecutive terms as Pennsylvania governor -- managing the March 1979 [[Three Mile Island]] nuclear incident during his first term. Richard Thornburgh died December 31, 2020, in Oakmont, Pennsylvania, at age 88.[^1]
 

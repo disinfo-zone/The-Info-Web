@@ -6,6 +6,9 @@ tags:
   - USA
 category: "Private Organization"
 summary: "Drexel Burnham was a prominent brokerage house where Michael Milken built his junk-bond fortune. It was involved in the financial operations of the Iran-Israel Joint Committee's slush fund, which was used to finance various covert activities and..."
+start: 1935
+end: 1990
+location: "New York City"
 ---
 [[Drexel Burnham]] was a prominent brokerage house where [[Michael Milken]] built his junk-bond fortune. It was involved in the financial operations of the [[Iran-Israel Joint Committee]]'s slush fund, which was used to finance various covert activities and political initiatives.
 

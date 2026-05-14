@@ -4,6 +4,9 @@ tags:
   - Person
   - PROMIS
 summary: "Panamanian leader whose family members were reportedly involved in the cocaine trade, shielded from U.S. scrutiny during the Panama Canal treaty negotiations."
+born: 1929-02-13
+died: 1981-07-31
+location: "Santiago, Veraguas, Panama"
 ---
 
 [[General Torrijos]] was a figure in [[Panama]] whose family members were reportedly heavily involved at the highest levels of the world cocaine trade. During [[Jimmy Carter]]'s presidency, the Carter administration was reportedly reluctant to pursue Torrijos due to its determination in 1977 to sign a [[Panama Canal]] treaty with him.[^1]

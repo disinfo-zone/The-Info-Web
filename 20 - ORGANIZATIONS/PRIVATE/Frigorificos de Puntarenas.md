@@ -7,6 +7,7 @@ tags:
   - 1980s
   - Contra_War
 summary: Frigorificos de Puntarenas was a Costa Rican shrimp company created by the Medellín cartel as a money-laundering front that was later hired by the U.S. State Department to distribute "humanitarian" aid to the Contras.
+location: "Puntarenas, Costa Rica"
 ---
 Frigorificos de Puntarenas, S.A., was a small fleet of fishing boats based in the Pacific Coast village of [[Puntarenas]], [[Costa Rica]], with a sister import company in [[Miami]] called Ocean Hunter. The firm was created by [[Medellin Cartel|Medellín cartel]] money-laundering wizard [[Ramon Milian Rodriguez]] as part of an interlocking chain of companies to launder cocaine profits. Drug money would go into one company and emerge clean through intercompany transactions. In 1982, Frigorificos was taken over by a group of major Miami-based drug traffickers who began using it to help the [[Contras]].[^1]
 

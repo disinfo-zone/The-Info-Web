@@ -11,6 +11,7 @@ tags:
   - Dark_Alliance_Investigation
 category: "Private Organization"
 summary: "The Cabazon Indian Reservation is located near Indio, California, and is home to the Cabazon Band of Mission Indians."
+location: "Indio, California"
 ---
 
 The [[Cabazon Indian Reservation]] is located near Indio, [[California]], and is home to the [[Cabazon Indian Reservation]]. Its sovereign nation status played a crucial role in a joint venture with [[Wackenhut Corporation]], allowing the parties to operate outside typical federal jurisdiction and congressional prohibitions. During the 1980s, the reservation was used as a site for developing weapons for Third World armies, including the [[Contras]].[^1][^2]

@@ -1,6 +1,7 @@
 ---
 category: "Private Organization"
 summary: "Euramae Trading Company was a company operating throughout the Middle East, described by Michael Riconosciuto as a companion company to First Intercontinental Development Corporation and an National Security Council cutout."
+location: "Nicosia, Cyprus"
 ---
 [[Euramae Trading Company]] was a company operating throughout the Middle East, described by [[Michael Riconosciuto]] as a companion company to [[First Intercontinental Development Corporation|FIDCO]] and an [[National Security Council|NSC]] cutout. It was also identified as a [[DEA|DEA]]/[[Central Intelligence Agency|CIA]] "front" by [[Lester Coleman]], newly established by the Cypriot Police Narcotics Squad in Nicosia, [[Cyprus]].[^1]
 

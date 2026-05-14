@@ -9,6 +9,9 @@ tags:
 description: The KGB was the main security agency for the Soviet Union from 1954 until 1991, serving as its intelligence agency, secret police, and border guard.
 category: "Foreign Government"
 summary: "The KGB was the main security agency for the Soviet Union from 1954 until 1991, serving as its intelligence agency, secret police, and border guard."
+start: 1954
+end: 1991
+location: "Moscow, Soviet Union"
 ---
 
 The [[KGB]] was the main security agency for the [[Soviet Union]] from 1954 until 1991, serving as its intelligence agency, secret police, and border guard. In the context of the *Remote Viewers* narrative, the KGB was deeply interested in [[Parapsychology|psi]] phenomena and was reported to have funded and directed psi research laboratories, such as that of [[I. M. Kogan]].[^1]

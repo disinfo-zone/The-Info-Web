@@ -6,6 +6,9 @@ tags:
   - Military
   - RemoteViewer
 summary: "Major General Albert Stubblebine was a U.S."
+born: 1930-02-06
+died: 2017-02-06
+location: "New York, USA"
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 category: "Private Organization"
 summary: "The National Institute for Discovery Science (NIDS) was a privately funded research organization founded by billionaire Robert Bigelow in 1995."
+start: 1995
+end: 2004
+location: "Las Vegas, Nevada, USA"
 ---
 The [[National Institute for Discovery Science]] (NIDS) was a privately funded research organization founded by billionaire [[Robert Bigelow]] in 1995. The organization was dedicated to the scientific study of [[Unidentified Anomalous Phenomena]] (UAP) and other paranormal phenomena.[^1]
 

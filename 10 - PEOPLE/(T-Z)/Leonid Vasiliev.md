@@ -5,6 +5,9 @@ tags:
   - Researcher
   - Parapsychology
 summary: "By the early 1960s, Vasiliev was heading a well-funded parapsychology laboratory, and his work soon concentrated on 'remote-influencing' experiments, such as attempting to telepathically induce sleep in a distant receiver."
+born: 1891-04-12
+died: 1966-02-08
+location: "Russia"
 ---
 
 

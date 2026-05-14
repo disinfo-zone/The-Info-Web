@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Zalman Mordecai Shapiro was an American Jew and owner of the Nuclear Materials and Equipment Corporation (NUMEC), a privately owned nuclear enriching plant in Apollo, Pennsylvania."
+born: 1920-05-12
+died: 2016-07-16
+location: "Canton, Ohio"
 ---
 
 Zalman Mordecai Shapiro was an American Jew and owner of the [[Nuclear Materials and Equipment Corporation]] (NUMEC), a privately owned nuclear enriching plant in [[Apollo]], [[Pennsylvania]]. He was suspected by the [[Central Intelligence Agency|CIA]] and others of having smuggled more than two hundred pounds of weapons-grade uranium to [[Israel]], enough for four bombs. This alleged diversion was a major factor in [[Carl E. Duckett]]'s [[Central Intelligence Agency|CIA]] estimates of [[Israel]]'s nuclear arsenal.[^1]

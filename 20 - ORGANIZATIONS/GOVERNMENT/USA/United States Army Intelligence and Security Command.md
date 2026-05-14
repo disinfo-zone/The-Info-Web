@@ -9,6 +9,8 @@ tags:
 description: INSCOM was formed in 1977 by merging USAINTA and ASA, maintaining Army control while collaborating with the NSA. Headquartered at Fort Meade, it conducted remote viewing operations, including the STARGATE PROJECT, until at least 1981 under General Albert Stubblebine.
 category: "U.S. Government"
 summary: "The United States Army Intelligence and Security Command (INSCOM) was formed from the merger of the U.S."
+start: 1977
+location: "Fort Meade, Maryland"
 ---
 The United States Army Intelligence and Security Command (INSCOM) was formed from the merger of the [[U.S. Army Intelligence Agency]] (USAINTA) and the [[Army Security Agency]] (ASA) which in particular was being used by the [[NSA]] as a source of readily available labor. INSCOM continues to collaborate with the NSA, but maintains more [[U.S. Army]] control of the process. 
 

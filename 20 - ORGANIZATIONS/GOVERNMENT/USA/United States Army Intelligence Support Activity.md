@@ -9,6 +9,8 @@ tags:
 description: The Intelligence Support Activity (ISA) is a covert U.S. Army unit specializing in HUMINT and SIGINT for JSOC operations. It conducts clandestine intelligence gathering, operational support, and direct action missions globally. ISA operates under classified programs, collaborates with NSA and CIA, and has a history of involvement in high-profile missions.
 category: "U.S. Government"
 summary: "The following borrows or copies heavily from [greydynamics.com](https://greydynamics.com/isa-soldier-spies-of-the-intelligence-support-activity/) and their explainer of the ISA."
+start: 1981
+location: "Fort Belvoir, Virginia"
 ---
 The following borrows or copies heavily from [greydynamics.com](https://greydynamics.com/isa-soldier-spies-of-the-intelligence-support-activity/) and their explainer of the ISA.
 

@@ -9,6 +9,9 @@ tags:
   - ArmsDealer
   - BCCI
 summary: Adnan Khashoggi (1935-2017) was a Saudi billionaire arms dealer and key Iran-Contra middleman who bridged financing for the Reagan administration's arms sales to Iran through BCCI, and was named alongside Manucher Ghorbanifar and Richard Armitage in the May 1985 Reynolds letter as a broker for the covert distribution of PROMIS software.
+born: 1935-07-25
+died: 2017-06-06
+location: "Mecca, Saudi Arabia"
 ---
 [[Adnan Khashoggi]] (25 July 1935 – 6 June 2017) was an international arms merchant and a factotum for the House of Saud. He was considered the richest man in the world in the 1980s. Khashoggi covered his financial tracks by establishing front companies in [[Switzerland]] and [[Liechtenstein]] to handle his commissions. He also developed contacts with notable figures such as [[Central Intelligence Agency|CIA]] officers [[James H. Critchfield]] and [[Kim Roosevelt]], and U.S. businessman [[Bebe Rebozo]], a close associate of former U.S. President [[Richard Nixon]].[^1]
 

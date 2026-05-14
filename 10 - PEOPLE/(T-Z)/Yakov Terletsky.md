@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "Yakov Terletsky was the chairman of theoretical physics at Moscow University and a winner of the Laureate of the State Prize in the Soviet Union."
+born: 1912
+died: 1993
+location: "Soviet Union"
 ---
 
 Yakov Terletsky was the chairman of theoretical physics at [[Moscow University]] and a winner of the Laureate of the State Prize in the [[Soviet Union]]. He was working on hypotheses involving a subatomic particle called a [[Tachyon]], which is proposed to be superluminal, or faster-than-light[^1].

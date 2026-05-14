@@ -9,6 +9,8 @@ tags:
   - Spartacus_Network
 category: "Private Organization"
 summary: "PAN (Paedo Alert News), subtitled 'A Magazine about Boy-love,' was a pedophile newsletter started by Francis Shelden in Amsterdam under the pen name 'Frank Torey."
+start: 1979
+location: "Amsterdam, Netherlands"
 ---
 PAN (Paedo Alert News), subtitled "A Magazine about Boy-love," was a pedophile newsletter started by [[Francis Shelden]] in [[Amsterdam]] under the pen name "Frank Torey." The name PAN was a reference to the son of Hermes in Greek myth, signalling the publishing legacy Shelden continued abroad. Just as [[Hermes]] was used in North America to facilitate [[John David Norman]]'s [[Odyssey Network]], PAN was used to platform its European equivalent called [[Spartacus International]]. The first edition of PAN was published in 1979 through a publishing house owned by [[John Stamford]], a British foreign-national and defrocked Anglican priest who fled to [[Amsterdam]] in 1972 after being charged with operating a child pornography service through the mail.[^1]
 

@@ -2,6 +2,8 @@
 tags: ["Organization", "Bank", "BCCI"]
 category: "Private Organization"
 summary: "Independence Bank of Encino was a financial institution illegally acquired by the Bank of Credit and Commerce International.[^1]"
+end: 1992
+location: "Encino, California, USA"
 ---
 Independence Bank of Encino was a financial institution illegally acquired by the [[Bank of Credit and Commerce International|BCCI]].[^1]
 

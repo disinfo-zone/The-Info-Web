@@ -5,6 +5,9 @@ tags:
   - SouthAfrica
 category: "Foreign Government"
 summary: "The South African Defense Force (SADF) was the military of South Africa. It entered into a military cooperation agreement with the Israel Defense Forces (IDF) known as SIMWA (SADF-IDF Mutual Wartime Agreement).[^1]"
+start: 1957
+end: 1994
+location: "Pretoria, South Africa"
 ---
 The [[South African Defense Force]] (SADF) was the military of [[South Africa]]. It entered into a military cooperation agreement with the [[Israel]] (IDF) known as [[SIMWA]] (SADF-IDF Mutual Wartime Agreement).[^1]
 

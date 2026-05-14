@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Gunderson became deeply involved in the investigation of corruption and drug rings within Mariposa County, California, after being approached by the D.I.G."
+born: 1928-11-07
+died: 2011-07-31
+location: "Colorado Springs, Colorado"
 ---
 
 

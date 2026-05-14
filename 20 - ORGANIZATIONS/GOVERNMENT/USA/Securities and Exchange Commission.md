@@ -2,6 +2,8 @@
 tags: ["Organization", "Government", "USA"]
 category: "U.S. Government"
 summary: "The Securities and Exchange Commission (SEC) is a U.S. government agency responsible for regulating the securities markets and protecting investors.[^1]"
+start: 1934
+location: "Washington, D.C."
 ---
 The Securities and Exchange Commission (SEC) is a U.S. government agency responsible for regulating the securities markets and protecting investors.[^1]
 

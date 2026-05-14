@@ -7,6 +7,8 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "Llewellyn Thomas (1903–1972) was an American diplomat who served as the U.S."
+died: 1972-02-06
+location: "Las Animas, Colorado"
 ---
 
 Llewellyn Thomas (1903–1972) was an American diplomat who served as the U.S. Ambassador to the [[Soviet Union]] from 1957 to 1962 and again from 1967 to 1969. He was one of the ambassadors who was subjected to the [[Moscow Signal]], a microwave beam aimed at the [[U.S. Embassy in Moscow]] by the Soviets[^1].

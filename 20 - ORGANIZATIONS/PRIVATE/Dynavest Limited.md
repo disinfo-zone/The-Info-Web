@@ -6,6 +6,7 @@ tags:
   - UK
 category: "Private Organization"
 summary: "Dynavest Limited was an arms dealing company run by John Knight in London. It was involved in acquiring arms from Yugoslavia and selling them to Mohammed Radi Abdullah, who in turn sold them to Palestinian groups like Abu Nidal.[^1]"
+location: "London, United Kingdom"
 ---
 [[Dynavest Limited]] was an arms dealing company run by [[John Knight]] in [[London]]. It was involved in acquiring arms from [[Yugoslavia]] and selling them to [[Mohammed Radi Abdullah]], who in turn sold them to Palestinian groups like [[Abu Nidal]].[^1]
 

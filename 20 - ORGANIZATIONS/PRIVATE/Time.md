@@ -5,6 +5,8 @@ tags:
   - media
   - contra-war
 summary: Time magazine covered the Dark Alliance story, calling it the hottest topic in black America during the height of the public reaction in 1996.
+start: 1923
+location: "New York City, New York"
 ---
 Time magazine covered the [[Dark Alliance]] story, calling it "the hottest topic in black America" during the height of the public reaction in 1996. The magazine's coverage was part of the initial wave of media attention that preceded the establishment media counterattack.[^1]
 

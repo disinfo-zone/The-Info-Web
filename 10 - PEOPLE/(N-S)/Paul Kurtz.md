@@ -6,6 +6,9 @@ tags:
   - Person
   - Skeptic
 summary: "Paul Kurtz (1925–2012) was an American philosopher and a prominent figure in the skeptical movement."
+born: 1925-12-21
+died: 2012-10-20
+location: "Newark, New Jersey"
 ---
 
 Paul Kurtz (1925–2012) was an American philosopher and a prominent figure in the skeptical movement. He was a co-founder of the [[Committee for the Scientific Investigation of Claims of the Paranormal]] (CSICOP), along with [[Carl Sagan]], [[Martin Gardner]], [[Ray Hyman]], and [[James Randi]][^1].

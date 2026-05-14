@@ -8,6 +8,8 @@ tags:
   - research
 description: The Society for Psychical Research (SPR) is the oldest psychical research organization in the world, founded in London in 1882.
 category: "Private Organization"
+start: 1882
+location: "London, UK"
 summary: "The Society for Psychical Research (SPR) is the oldest psychical research organization in the world, founded in London in 1882."
 ---
 

@@ -2,6 +2,9 @@
 category: "Private Organization"
 created: 2024-04-26
 updated: 2026-05-01
+start: 1911
+end: 1986
+location: "New York City, USA"
 tags:
   - Organization
   - PROMIS

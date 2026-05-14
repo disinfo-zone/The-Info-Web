@@ -8,6 +8,8 @@ tags:
   - INSLAW
   - LEAA
 summary: "The National Center for Prosecution Management was a nonprofit corporation established by the Department of Justice with LEAA funding in December 1971 to provide technical and management assistance to prosecutors nationwide, promote adoption of the PROMIS software system, and conduct research on the prosecution function, with Joan E. Jacoby as its first Executive Director."
+start: 1971
+location: "Washington, D.C."
 ---
 The National Center for Prosecution Management (NCPM) was a nonprofit corporation established by the [[Department of Justice]] with [[LEAA]] funding in December 1971. Its mandate was to provide management and technical assistance to prosecutors nationwide, promote adoption of the [[PROMIS]] software system, and conduct research on prosecution practices and criminal justice administration.[^1]
 

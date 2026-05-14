@@ -9,6 +9,7 @@ tags:
   - Michel_Caignet
 category: "Private Organization"
 summary: "Toro Bravo was a child pornography production company based in Bogota, Bogota, headed by Jean Manuel Vuillaume."
+location: "Bogota, Colombia"
 ---
 Toro Bravo was a child pornography production company based in Bogota, [[Bogota|Colombia]], headed by [[Jean Manuel Vuillaume]]. The company produced films showing children gagged, tortured, and raped, which were distributed internationally through mail order networks. [[Michel Caignet]] served as the distribution link in France, duplicating and selling the Colombian-produced videos. Caignet was also director of [[Gaie France]], a neo-Nazi pedophile magazine. Caignet claimed the films were shot in Vuillaume's house in Bogota and then brought to France for duplication and sale by mail order. When Vuillaume was arrested at Roissy airport in 1995, prosecutors claimed 38 pornography videos, sadomasochistic material, and a child-sized toreador costume seen in one of the films were found in his house in Bogota.[^1]
 

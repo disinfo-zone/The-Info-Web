@@ -6,6 +6,8 @@ tags:
   - Transportation
 category: "Private Organization"
 summary: "El Al is the national airline of Israel. It played a role in various covert operations and financial transactions detailed by Ari Ben-Menashe."
+start: 1948
+location: "Tel Aviv, Israel"
 ---
 El Al is the national airline of [[Israel]]. It played a role in various covert operations and financial transactions detailed by [[Ari Ben-Menashe]].
 

@@ -8,6 +8,8 @@ tags:
   - Contra_War
   - Dark_Alliance_Investigation
 summary: Frente Revolucionario de Sandino (FRS), the leftist revolutionary guerrilla group that overthrew Somoza's U.S.-supported dictatorship in Nicaragua in 1979, triggering the Contra war.
+start: 1961
+location: "Managua, Nicaragua"
 ---
 Frente Revolucionario de Sandino (FRS) were the leftist revolutionary guerrilla group that overthrew [[Anastasio Somoza|Somoza]]'s [[United States|U.S.]]-supported dictatorship in [[Nicaragua]] in July 1979.[^2] Their victory triggered the [[Contras|Contra]] war and set in motion the events documented in the [[Dark Alliance]] investigation.[^1]
 

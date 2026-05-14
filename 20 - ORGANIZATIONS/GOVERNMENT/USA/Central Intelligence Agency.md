@@ -12,6 +12,8 @@ tags:
 description: The Central Intelligence Agency (CIA) is a civilian foreign intelligence service of the U.S. federal government, tasked with gathering, processing, and analyzing national security information from around the world.
 category: "U.S. Government"
 summary: "The Central Intelligence Agency (CIA) is a primary intelligence-gathering organization of the United States government."
+start: 1947
+location: "Langley, Virginia"
 ---
 The [[Central Intelligence Agency]] (CIA) is a primary intelligence-gathering organization of the United States government. In the context of psychic research, the CIA played a significant, albeit often covert, role in funding and overseeing programs aimed at exploring and utilizing psychic phenomena for intelligence purposes.[^1]
 

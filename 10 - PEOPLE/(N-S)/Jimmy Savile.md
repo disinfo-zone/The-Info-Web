@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Jimmy Savile was a BBC Radio One DJ and prominent television personality whose death in October 2011 triggered a major police investigation into widespread child abuse at the BBC."
+born: 1926-10-31
+died: 2011-10-29
+location: "Leeds, Yorkshire, England"
 ---
 
 

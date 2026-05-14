@@ -5,6 +5,8 @@ tags:
   - corporate
   - contra-war
 summary: Fluor Corporation employed former CIA Deputy Director of Operations Bill Nelson and was connected to Ron Lister's security business that supplied weapons and night vision equipment.
+start: 1912
+location: "Irvine, California"
 ---
 Fluor Corporation, a major engineering and construction firm, employed former [[Central Intelligence Agency]] Deputy Director of Operations Bill Nelson as its vice president for security and administration. Nelson had been the CIA's head of covert operations worldwide from 1973 to 1976. A Fluor spokeswoman initially denied Nelson had been affiliated with the company until confronted with documentary evidence.[^1]
 

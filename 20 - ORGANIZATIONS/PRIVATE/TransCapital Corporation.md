@@ -6,6 +6,7 @@ tags:
   - USA
 category: "Private Organization"
 summary: "TransCapital Corporation was a Connecticut firm licensed to sell computer hardware, particularly for the PROMIS program. It played a role in facilitating arms deals and technology transfers.[^1]"
+location: "Connecticut, USA"
 ---
 [[TransCapital Corporation]] was a [[Connecticut]] firm licensed to sell computer hardware, particularly for the [[PROMIS]] program. It played a role in facilitating arms deals and technology transfers.[^1]
 

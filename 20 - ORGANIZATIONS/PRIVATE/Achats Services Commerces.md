@@ -8,6 +8,8 @@ tags:
   - Michel_Nihoul
 category: "Private Organization"
 summary: "Achats Services Commerces, known by its acronym ASCO, was a secondhand car exporting business owned by Michel Nihoul that operated white Mercedes vehicles linked to child abduction attempts."
+end: 1995
+location: "Belgium"
 ---
 Achats Services Commerces, known by its acronym ASCO, was a secondhand car exporting business owned by [[Jean-Michel Nihoul]] that operated white Mercedes vehicles linked to child abduction attempts. The company's manager was [[Jean-Louis Delamotte]], an old acquaintance of Nihoul from the Brussels sex party scene. Other founders included [[Michel Forgeot]], manager of [[Le Dolo]] bar, and [[Marleen De Cokere]], Nihoul's life companion. After only four years, financial difficulties led to bankruptcy in October 1995.[^1]
 

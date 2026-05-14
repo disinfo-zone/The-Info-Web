@@ -11,6 +11,8 @@ tags:
 description: The Department of Defense (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States Armed Forces.
 category: "U.S. Government"
 summary: "The Department of Defense (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States..."
+start: 1947
+location: "Arlington, Virginia"
 ---
 
 The [[Department of Defense]] (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the [[United States]].[^1]

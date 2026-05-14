@@ -11,6 +11,8 @@ tags:
   - California
 description: The Stanford Research Institute (SRI) was a key institution in the history of remote viewing, conducting research for the CIA and other intelligence agencies.
 category: "Private Organization"
+start: 1946
+location: "Menlo Park, California"
 summary: "The Stanford Research Institute (SRI) is a scientific research institute based in Menlo Park, California. In the early 1970s, SRI became the center of the U.S."
 ---
 

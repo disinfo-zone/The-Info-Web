@@ -8,6 +8,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Early Contra faction based first in Honduras then Costa Rica, commanded by Fernando Chamorro, that shifted allegiances between the FDN, ARDE, and back during the Contra war.
+start: 1980
+location: "Costa Rica"
 ---
 Union Democrática Nicaragüense - Fuerzas Armadas Resistencia Nicaragüenses (UDN-FARN) was an early [[Contras|Contra]] faction based first in [[Honduras]] and then in [[Costa Rica]], commanded by the erratic former [[Sandinistas|Sandinista]] [[Fernando Chamorro|"El Negro" Chamorro]]. UDN-FARN was one of the two groups merged by the [[Central Intelligence Agency]] in August 1981 to form the [[FDN]].[^1]
 

@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - SRI
 summary: "Ingo Douglas Swann—born with just one N—was not far from the stereotypical image of the psychic."
+born: 1933-09-14
+died: 2013-01-31
+location: "Telluride, Colorado"
 ---
 
 Ingo Douglas Swann—born with just one N—was not far from the stereotypical image of the psychic. Growing up in Telluride, Colorado, he claimed to have out-of-body experiences and premonitions, to see people's auras, and to encounter supernatural beings. He was left-handed, intuitive, artistic, emotionally sensitive, curious about the unusual, and bored by the usual. He was considered odd and had few friends at school, later describing himself as "doubly, triply, quadruply freaky."[^1]

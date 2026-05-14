@@ -5,6 +5,8 @@ tags:
   - Israel
 category: "Foreign Government"
 summary: "The Labor Party is a major political party in Israel. It was formed through the merger of Mapai Party and Achdut Avodah in 1968, and later joined by Rafi. Pinhas Sapir was renowned as the economic boss of the newly formed Labor Party.[^1]"
+start: 1968
+location: "Tel Aviv, Israel"
 ---
 The Labor Party is a major political party in [[Israel]]. It was formed through the merger of [[Mapai Party]] and Achdut Avodah in 1968, and later joined by [[Rafi]]. [[Pinhas Sapir]] was renowned as the economic boss of the newly formed Labor Party.[^1]
 

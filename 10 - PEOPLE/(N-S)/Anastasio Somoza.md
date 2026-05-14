@@ -9,6 +9,9 @@ tags:
   - Contra_War
   - Dark_Alliance_Investigation
 summary: Anastasio Somoza Debayle was the dictator of Nicaragua whose family ruled the country for forty-six years until the Sandinista revolution in July 1979, after which his dispersed National Guard officers became the founding cadre of the Contras.
+born: 1925-12-05
+died: 1980-09-17
+location: "León, Nicaragua"
 ---
 Anastasio Somoza Debayle was the dictator of [[Nicaragua]] whose family ruled the country for forty-six years.[^1] His overthrow by the [[Sandinistas]] in July 1979 triggered the events that led to the Contra war and the [[Dark Alliance]] drug trafficking network.
 

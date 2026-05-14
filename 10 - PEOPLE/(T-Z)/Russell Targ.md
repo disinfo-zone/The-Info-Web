@@ -7,6 +7,8 @@ tags:
   - RemoteViewer
   - SRI
 summary: "Russell Targ is a physicist who, in the early 1970s, joined Hal Puthoff at Stanford Research Institute (SRI) to lead the remote viewing research program."
+born: 1934-04-11
+location: "Chicago, Illinois"
 ---
 
 Russell Targ is a physicist who, in the early 1970s, joined [[Hal Puthoff]] at [[Stanford Research Institute]] (SRI) to lead the remote viewing research program. He was a laser physicist who had previously worked at Sylvania Corporation, which manufactured televisions and lightbulbs. The ivory tower atmosphere of SRI seemed to suit him better, as he was described as the "very picture of the intense scientist, the thinker disengaged from prosaic reality." He had a "frizzy and wavy mass of red-brown hair" and a deep, monotonal voice that conveyed a sense of authority. He wore extraordinarily thick, eye-magnifying glasses. His sister had married the chess master Bobby Fischer, and it was easy to imagine some of Fischer's "neurotic cerebrality" had rubbed off on him. He had apparently been having spontaneous psychic experiences since he was a child, which contributed to his interest in the field.[^1]

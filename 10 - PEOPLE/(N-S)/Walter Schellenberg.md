@@ -7,6 +7,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Walter Schellenberg (1910–1952) was an SS-Brigadeführer and the head of foreign intelligence for Nazi Germany during World War II."
+born: 1910-01-16
+died: 1952-03-31
+location: "Saarbrücken, Germany"
 ---
 
 Walter Schellenberg (1910–1952) was an SS-Brigadeführer and the head of foreign intelligence for [[Nazi Germany]] during [[World War II]][^1].

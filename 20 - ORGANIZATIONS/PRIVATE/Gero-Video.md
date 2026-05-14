@@ -10,6 +10,7 @@ tags:
   - Operation_Framework
 category: "Private Organization"
 summary: "Gero-Video was a video distribution company based in Dusseldorf, Germany, identified as one of the largest distributors of homosexual pornography in Europe."
+location: "Dusseldorf, Germany"
 ---
 Gero-Video was a video distribution company based in Dusseldorf, Germany, identified as one of the largest distributors of homosexual pornography in Europe. The company was linked to [[TAG Films]], the Amsterdam-based video production company operated by Welsh pedophiles [[Alan Williams]], [[John Gay]], and [[Lee Tucker]]. A raid by German authorities on Gero-Video's premises followed the [[Operation Framework]] investigation into suspected snuff films produced by British nationals in Amsterdam. The raid was triggered by the discovery that TAG Films' productions were being distributed through Gero-Video to customers across Europe.[^1]
 

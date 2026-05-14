@@ -2,6 +2,7 @@
 tags: ["Organization", "Bank"]
 category: "Private Organization"
 summary: "Chelsea National Bank was a financial institution that Bank of Credit and Commerce International attempted to acquire in 1975, using Abbas Gokal as a front.[^1] Regulators rejected the bid due to concerns about BCCI's involvement.[^1]"
+location: "New York City"
 ---
 Chelsea National Bank was a financial institution that [[Bank of Credit and Commerce International|BCCI]] attempted to acquire in 1975, using [[Abbas Gokal]] as a front.[^1] Regulators rejected the bid due to concerns about BCCI's involvement.[^1]
 

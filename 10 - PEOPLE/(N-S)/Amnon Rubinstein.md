@@ -6,6 +6,9 @@ tags:
   - Person
   - Skeptic
 summary: "Amnon Rubinstein was a prominent Israeli legal scholar, politician, and television talk show host."
+born: 1931-09-05
+died: 2024-01-18
+location: "Tel Aviv, Israel"
 ---
 
 Amnon Rubinstein was a prominent [[Israel|Israeli]] legal scholar, politician, and television talk show host. Known as the founding father of Israeli constitutional law, he served in various ministerial roles, including Minister of Communications, Minister of Science and Technology and Space, and Minister of Energy and Infrastructure[^1].

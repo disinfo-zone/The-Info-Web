@@ -11,6 +11,7 @@ tags:
   - Amsterdam
 category: "Private Organization"
 summary: "The Spartacus Network was an international child trafficking and pornography distribution network that operated from the 1970s through the 1990s, primarily based in Amsterdam but with global reach."
+location: "Amsterdam, Netherlands"
 ---
 The Spartacus Network was an international child trafficking and pornography distribution network that operated from the 1970s through the 1990s, primarily based in [[Amsterdam]] but with global reach. Founded and operated by [[John Stamford]], a former British priest, the Spartacus Network became one of the most sophisticated and extensive child exploitation operations of its time, combining legitimate business operations with criminal activities on an unprecedented scale. The network's name derived from [[Spartacus International]], a publication that served as both a legitimate gay travel guide and a covert contact system for pedophiles worldwide.[^1]
 

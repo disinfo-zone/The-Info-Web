@@ -2,6 +2,7 @@
 tags: ["Organization", "Bank", "Financial Institution"]
 category: "Private Organization"
 summary: "CenTrust Savings Bank was a financial institution based in Miami, owned by David L. Paul.[^1]"
+location: "Miami, Florida"
 ---
 CenTrust Savings Bank was a financial institution based in [[Miami]], owned by [[David L. Paul]].[^1]
 

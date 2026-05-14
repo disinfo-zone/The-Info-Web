@@ -7,6 +7,8 @@ tags:
   - Los_Angeles
   - Crack_Cocaine
 summary: The Crips are a Los Angeles street gang that became the primary distribution network for crack cocaine across the United States, spreading from South Central L.A. to cities nationwide during the mid-1980s.
+start: 1969
+location: "Los Angeles, California"
 ---
 The Crips are a Los Angeles-based street gang composed of numerous semi-autonomous "sets" operating across the city. During the early 1980s, Crips sets from across Los Angeles became the primary retail distribution network for [[Crack Cocaine|crack cocaine]], a role that transformed them from traditional neighborhood gangs into what law enforcement would later describe as a coast-to-coast criminal enterprise.[^1]
 

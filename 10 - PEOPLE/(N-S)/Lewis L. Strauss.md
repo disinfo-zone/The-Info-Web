@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Strauss chose not to talk about the Israeli nuclear program because, as a Jew with deep feelings about the Holocaust, he privately approved of it."
+born: 1896-01-31
+died: 1974-01-21
+location: "Charleston, West Virginia"
 ---
 
 Lewis L. Strauss was an American businessman, public official, and naval officer who served as the chairman of the [[Atomic Energy Commission]] (AEC) from 1953 to 1958. He was a staunch Cold Warrior and adamantly opposed to the spread of nuclear weapons. Strauss was well-informed about [[Dimona]] and [[Israel]]'s nuclear program by the time he left the AEC, but there is no evidence he raised questions about it while in government or discussed it after leaving office.[^1]

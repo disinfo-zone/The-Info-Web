@@ -9,6 +9,8 @@ tags:
   - Dark_Alliance_Investigation
 category: "U.S. Government"
 summary: "The Department of Justice launched an internal inquiry in 1993 into CIA involvement with The Finders and a potential FBI coverup of the group's operations. The inquiry was initiated after the Department received a copy of the U.S."
+start: 1870
+location: "Washington, D.C."
 ---
 
 The Department of Justice launched an internal inquiry in 1993 into CIA involvement with [[The Finders]] and a potential FBI coverup of the group's operations. The inquiry was initiated after the Department received a copy of the U.S. Customs memo compiled by Special Agent [[Ramon J. Martinez]] on the raids of The Finders properties in February 1987.[^1]

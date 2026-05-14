@@ -10,6 +10,7 @@ tags:
   - Spartacus_Network
 category: "Private Organization"
 summary: "The Centre for Research and Information on Childhood and Sexuality, known by its acronym CRIES, was a Brussels-based front organization that claimed to help pedophiles deal with their sexuality while operating a VIP child prostitution ring."
+location: "Brussels, Belgium"
 ---
 The Centre for Research and Information on Childhood and Sexuality, known by its acronym CRIES, was a Brussels-based front organization that claimed to help pedophiles deal with their sexuality while operating a VIP child prostitution ring. CRIES was located within a diplomatic neighbourhood of Brussels. The organization was exposed in March 1987 following the arrest of its president, former justice ministry official [[Philippe Carpentier]], along with a close associate who was a translator at the Ministry of Justice's anti-terrorist division named Michel Decre. The Belgian government was highly embarrassed by the revelation that a former justice ministry official was among those arrested, together with a top government official working on highly sensitive anti-terrorist legislation.[^1]
 

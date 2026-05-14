@@ -2,6 +2,8 @@
 tags: ["Organization", "Government", "USA", "Financial Regulation"]
 category: "U.S. Government"
 summary: "The Office of the Comptroller of the Currency (OCC) is a U.S. government agency responsible for regulating and supervising all national banks and federal savings associations.[^1]"
+start: 1863
+location: "Washington, D.C."
 ---
 The Office of the Comptroller of the Currency (OCC) is a U.S. government agency responsible for regulating and supervising all national banks and federal savings associations.[^1]
 

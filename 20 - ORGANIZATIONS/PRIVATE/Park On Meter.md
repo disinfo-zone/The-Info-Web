@@ -1,5 +1,6 @@
 ---
 category: "Private Organization"
+location: "Russellville, Arkansas, USA"
 tags:
   - Organization
   - Organization/Military

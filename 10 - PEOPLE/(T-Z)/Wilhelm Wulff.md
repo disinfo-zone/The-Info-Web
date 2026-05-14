@@ -8,6 +8,9 @@ tags:
   - Nazi
   - Occult
 summary: "Wilhelm Wulff was a German astrologer who became a personal astrologer to Heinrich Himmler, the Reichsführer-SS."
+born: 1893-03-27
+died: 1979-06-09
+location: "Hamburg, Germany"
 ---
 
 Wilhelm Wulff was a German astrologer who became a personal astrologer to [[Heinrich Himmler]], the Reichsführer-SS. He was ensnared in "[[Special Action Hess]]" (Sonderaktion Heß), the mass arrest of astrologers and other occult practitioners initiated by [[Adolf Hitler]] following [[Rudolf Hess]]'s flight in 1941[^1].

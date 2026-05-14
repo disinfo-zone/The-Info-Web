@@ -5,6 +5,9 @@ tags:
   - RemoteViewer
   - Military
 summary: "Aharon Yariv was a Brigadier General and the head of military intelligence in Israel."
+born: 1920-12-20
+died: 1994-05-07
+location: "Moscow, Russia"
 ---
 
 

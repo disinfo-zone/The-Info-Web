@@ -12,6 +12,8 @@ tags:
 description: The National Security Council (NSC) is the principal forum used by the President for considering national security and foreign policy matters, which under the Reagan administration became an operational intelligence agency running Oliver North's illegal Contra supply network.
 category: "U.S. Government"
 summary: "The National Security Council (NSC) is the principal forum used by the President of the United States for considering national security and foreign policy matters with senior advisors and Cabinet officials.[^1]"
+start: 1947
+location: "Washington, D.C."
 ---
 
 The [[National Security Council]] (NSC) is the principal forum used by the President of the United States for considering national security and foreign policy matters with senior advisors and Cabinet officials.[^1]

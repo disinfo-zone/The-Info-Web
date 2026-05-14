@@ -4,6 +4,9 @@ tags:
   - Person
   - Belgium
 summary: "Paul Vanden Boeynants, born 1919 in Brussels, Belgium, served as Prime Minister from 1978 to 1981 and held earlier roles including Minister of the Interior."
+born: 1919-05-22
+died: 2001-01-09
+location: "Brussels, Belgium"
 ---
 
 Paul Vanden Boeynants, born 1919 in Brussels, Belgium, served as Prime Minister from 1978 to 1981 and held earlier roles including Minister of the Interior. A key figure in the Christian Social Party (CSP), Vanden Boeynants focused on security and anti-communist efforts during the Cold War. In the [[X-Dossier]], witness [[Regina Louf]] (X1) accused him of raping her as a child at her grandmother [[Cecile Beernaert]]'s brothel in Knokke-Heist, near the [[Royal Zoute Golf Club]]. Louf described Vanden Boeynants arriving from golf rounds for private sessions where he engaged in sexual acts with her. X1 claimed he attended orgies at the Dolo nightclub and Faulx-les-Tombes chateau organized by [[Jean-Michel Nihoul]], where he sodomized her and participated in violent acts. Vanden Boeynants denied the accusations, calling them political fabrications.[^1]

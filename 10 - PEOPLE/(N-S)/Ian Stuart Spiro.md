@@ -6,6 +6,9 @@ tags:
   - CIA
   - DoJ
 summary: "However, news reports, specifically from the *Oceanside Blade-Citizen*, noted that documents and U.S."
+born: 1946-12-14
+died: 1992-11-08
+location: "United Kingdom"
 ---
 [[Ian Stuart Spiro]] was a figure whose death was linked to a spy network and the [[Iran-Contra Affair]]. He was found dead of cyanide poisoning in the Anza-Borrego desert on November 8, 1992, one week after his wife and children were found shot to death in their Rancho Santa Fe home. His death was officially ruled a suicide, and the San Diego Sheriff's Department reportedly destroyed his files when the case was closed, stating he had no connection to the [[PROMIS]] software.[^1]
 

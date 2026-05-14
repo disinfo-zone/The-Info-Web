@@ -1,6 +1,8 @@
 ---
 category: "U.S. Government"
 summary: "The All-domain Anomaly Resolution Office (AARO) is the official office within the United States Department of Defense tasked with investigating Unidentified Anomalous Phenomena (UAP)."
+start: 2022
+location: "Arlington, Virginia"
 ---
 The [[All-domain Anomaly Resolution Office]] (AARO) is the official office within the United States [[Department of Defense]] tasked with investigating [[Unidentified Anomalous Phenomena]] (UAP). It was established by Congress in the 2022 National Defense Authorization Act (NDAA) and is the successor to the [[UAP Task Force]].[^1]
 

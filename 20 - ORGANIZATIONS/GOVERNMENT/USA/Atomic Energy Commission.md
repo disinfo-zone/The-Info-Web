@@ -5,6 +5,9 @@ tags:
   - Nuclear
 category: "U.S. Government"
 summary: "An Atomic Energy Commission (AEC) is a governmental body responsible for the oversight and regulation of nuclear energy and related activities within a country."
+start: 1947
+end: 1974
+location: "Washington, D.C."
 ---
 An Atomic Energy Commission (AEC) is a governmental body responsible for the oversight and regulation of nuclear energy and related activities within a country. These commissions typically manage nuclear research, development, and the production of nuclear materials, often with both civilian and military applications.
 

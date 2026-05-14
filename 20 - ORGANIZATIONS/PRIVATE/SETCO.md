@@ -5,6 +5,8 @@ tags:
   - corporate
   - contra-war
 summary: SETCO was a Honduran air freight company owned by drug kingpin Juan Matta Ballesteros that served as the principal transportation provider for the FDN Contra army.
+start: 1981
+location: "Tegucigalpa, Honduras"
 ---
 SETCO was a Honduran air freight company owned by drug kingpin [[Juan Matta Ballesteros]] that served as the principal transportation provider for the [[FDN]] Contra army. Despite the [[U.S. Customs]] Service knowing about Matta's drug trafficking since 1983, SETCO continued to receive contracts for Contra supply missions.[^1]
 

@@ -2,6 +2,7 @@
 tags: ["Organization", "Financial Institution"]
 category: "Private Organization"
 summary: "Financial General Bankshares was a bank holding company that became a target of acquisition by the Bank of Credit and Commerce International.[^1]"
+location: "Washington, DC"
 ---
 Financial General Bankshares was a bank holding company that became a target of acquisition by the [[Bank of Credit and Commerce International|BCCI]].[^1]
 

@@ -4,6 +4,8 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Manuel Schadwald was a 12-year-old German boy who disappeared from Berlin in July 1993, becoming one of Europe's most infamous missing child cases and a pivotal figure in exposing international child trafficking networks."
+born: 1981
+location: "Berlin, Germany"
 ---
 
 

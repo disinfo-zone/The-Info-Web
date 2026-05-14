@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Peres's rise to influence began in late 1953, when David Ben-Gurion appointed the then thirty-year-old Shimon Peres as director general of the ministry of defense."
+born: 1923-08-02
+died: 2016-09-28
+location: "Wiszniew, Poland"
 ---
 
 [[Shimon Peres]] was a prominent [[Israel|Israeli]] politician who served as Defense Minister and later as Prime Minister. He was a key figure in [[Israel|Israel's]] political and military landscape for decades, playing particularly significant roles in the country's nuclear program and various covert operations.[^1]

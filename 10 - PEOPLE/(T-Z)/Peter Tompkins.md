@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "American journalist, former OSS officer, and co-author of the 1973 bestseller The Secret Life of Plants on plant sentience."
+born: 1919-04-19
+died: 2007-01-23
+location: "Athens, Georgia"
 ---
 
 

@@ -7,6 +7,9 @@ tags:
   - RemoteViewer
   - Stargate
 summary: "Fred Zachariasen was a physics professor at Caltech and a ranking member of the Department of Defense's elite JASON Committee."
+born: 1931
+died: 1999
+location: "Chicago, Illinois"
 ---
 
 Fred Zachariasen was a physics professor at [[California Institute of Technology|Caltech]] and a ranking member of the [[Department of Defense]]'s elite [[JASON Committee]]. He was a member of the new science panel for the [[STARGATE PROJECT|Sun Streak]] program, which was established on January 31, 1986[^1].

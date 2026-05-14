@@ -8,6 +8,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Municipal police department that witnessed but failed to identify the emergence of crack cocaine in South Central L.A. in 1982.
+start: 1869
+location: "Los Angeles, California"
 ---
 The Los Angeles Police Department (LAPD) was the municipal law enforcement agency responsible for policing [[Los Angeles]] during the period when [[Ricky Ross|"Freeway" Ricky Ross]] built the city's first major [[Crack Cocaine]] distribution network.[^1] Street-level officers witnessed crack's emergence in South Central L.A. in 1982 but were unable to identify what they were seeing, and department leadership showed little interest in investigating.
 

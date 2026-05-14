@@ -5,6 +5,8 @@ tags:
   - salvadoran
   - contra-war
 summary: ARENA was the ultraright Salvadoran political party led by death squad commander Roberto D'Aubuisson that had connections to Contra funding and narcotics trafficking.
+start: 1981
+location: "San Salvador, El Salvador"
 ---
 ARENA (Alianza Republicana Nacionalista) was the ultraright Salvadoran political party led by death squad commander [[Roberto D'Aubuisson]] that had connections to [[Contras|Contra]] funding and narcotics trafficking. Records seized from D'Aubuisson revealed financial contributions to Nicaraguan Contra operatives.[^1]
 

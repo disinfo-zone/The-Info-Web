@@ -6,6 +6,9 @@ tags:
   - Physicist
   - Israel
 summary: "Eugene Wigner was a Hungarian-American theoretical physicist and Nobel laureate."
+born: 1902-11-17
+died: 1995-01-01
+location: "Budapest, Hungary"
 ---
 
 Eugene Wigner was a Hungarian-American theoretical physicist and Nobel laureate. He, along with [[I. I. Rabi]], was asked by the Israelis to visit the still-incomplete reactor at [[Dimona]] sometime early in 1961. They reported seeing no evidence of a weapons facility, and President [[John F. Kennedy]] expressed satisfaction with their conviction that the reactor was designed for peaceful purposes.[^1]

@@ -8,6 +8,8 @@ tags:
   - Department of Defense
 description: SAIC, founded in 1969, evolved from nuclear research to diverse projects like radiation therapy and missile development. Its unique structure supported classified DoD programs and later consciousness research, including the Stargate Project, which it managed until 1994 before its declassification in 1995.
 category: "Private Organization"
+start: 1969
+location: "La Jolla, California"
 summary: "The Science Applications International Corporation (SAIC) was founded in 1969 by J Robert Beyster as Science Applications Incorporated (SAI)."
 ---
 The Science Applications International Corporation (SAIC) was founded in 1969 by [[J Robert Beyster]] as Science Applications Incorporated (SAI). Beyster remained with the company, which was employee owned, until 2003 which paved the way to it’s 2006 initial public offering and 2012 split into two companies (SAIC and Leidos which is the core of the original SAIC).

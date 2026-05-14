@@ -9,6 +9,8 @@ tags:
 description: Headquarters of the U.S. Department of Defense, epicenter of UAP secrecy, and the location where Enrique Bermúdez was invited to discuss forming a Contra army.
 category: "U.S. Government"
 summary: "The Pentagon is the headquarters of the United States Department of Defense (DoD). It is the central location for the command and control of the U.S."
+start: 1943
+location: "Arlington, Virginia"
 ---
 
 The [[Pentagon]] is the headquarters of the United States [[Department of Defense]] (DoD). It is the central location for the command and control of the U.S. armed forces and has been the epicenter of the government's long and complex history with the [[Unidentified Anomalous Phenomena]] (UAP) issue.[^1]

@@ -5,6 +5,8 @@ tags:
   - Middle East
 category: "International Body"
 summary: "The Arab League is a regional organization of Arab states in North Africa, the Horn of Africa, and Western Asia."
+start: 1945
+location: "Cairo, Egypt"
 ---
 The Arab League is a regional organization of Arab states in [[North Africa]], the Horn of [[Africa]], and [[Western Asia]]. In April 1976, the Arab League denounced the visit of South African Prime Minister [[John Vorster]] to [[Israel]], along with the [[Organization of African States|OAS]], the [[Soviet Union]], and the [[Netherlands]].[^1]
 

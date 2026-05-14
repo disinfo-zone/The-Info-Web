@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Chinese rocket scientist who contributed to U.S. missile programs before deportation, later advocating paranormal research as the father of China's rocket program."
+born: 1911-12-11
+died: 2009-10-31
+location: "Shanghai, China"
 ---
 
 

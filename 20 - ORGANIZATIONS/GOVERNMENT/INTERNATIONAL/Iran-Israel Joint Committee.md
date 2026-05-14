@@ -6,6 +6,9 @@ tags:
   - Iran
 category: "Foreign Government"
 summary: "The Iran-Israel Joint Committee was established in the fall of 1980 by Menachem Begin 1, who ordered Yehoshua Sagi and Nachum Admoni to appoint it."
+start: 1980
+end: 1987
+location: "Tel Aviv, Israel"
 ---
 The [[Iran-Israel Joint Committee]] was established in the fall of 1980 by [[Menachem Begin|Prime Minister Begin]], who ordered [[Yehoshua Sagi|Director of Israel Defense Forces/Military Intelligence Yehoshua Sagi]] and [[Nachum Admoni|acting Director of Mossad Nachum Admoni]] to appoint it. This committee coordinated the efforts of both [[Israel|Israeli]] intelligence services and was assigned the task of supplying [[Iran]] with arms in its war with [[Saddam Hussein|Saddam Hussein's]] [[Iraq]].[^1]
 

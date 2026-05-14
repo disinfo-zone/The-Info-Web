@@ -1,6 +1,9 @@
 ---
 category: "Private Organization"
 summary: "Nugan Hand Bank was an Australia bank co-founded by Michael Hand and Frank Nugan, along with officials of the Central Intelligence Agency-owned Air America. It was described as a primary CIA operation in the Pacific area.[^1]"
+start: 1973
+end: 1980
+location: "Sydney, Australia"
 ---
 [[Nugan Hand Bank]] was an [[Australia|Australian]] bank co-founded by [[Michael Hand]] and [[Frank Nugan]], along with officials of the [[Central Intelligence Agency|CIA]]-owned Air America. It was described as a primary CIA operation in the Pacific area.[^1]
 

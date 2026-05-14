@@ -9,6 +9,7 @@ tags:
   - Pedophile
 category: "Private Organization"
 summary: "Centre du Christ Liberateur (CCL) was a progressive religious organization founded by Joseph Douce, a Belgian priest and former NATO corporal with a psychology degree."
+location: "Paris, France"
 ---
 Centre du Christ Liberateur (CCL) was a progressive religious organization founded by [[Joseph Douce]], a Belgian priest and former NATO corporal with a psychology degree. The CCL supported sexual minority groups including sadomasochists and pedophiles, and was headquartered in an old porn theatre in central [[Paris|Paris, France]]. The organization fell under investigation in 1987. The CCL was accessible only to adults and took care of the pastoral and psychological aspects of sexual minorities including homosexuals, transsexuals, and pedophiles, without having any commercial activity according to Douce.[^1]
 

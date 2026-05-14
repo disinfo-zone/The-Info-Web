@@ -8,6 +8,9 @@ tags:
   - Nazi
   - Occult
 summary: "Louis de Wohl was a German-born Hungarian astrologer and British citizen who became a key figure in Allied black propaganda during World War II."
+born: 1903-01-24
+died: 1961-06-02
+location: "Berlin, Germany"
 ---
 
 Louis de Wohl was a German-born Hungarian astrologer and British citizen who became a key figure in Allied black propaganda during [[World War II]]. He was one of the most high-profile astrologers in the Western world, with admirers including [[Lord Halifax]], Britain's Foreign Secretary, and the Duke of Alba, the ambassador from [[Spain]][^1].

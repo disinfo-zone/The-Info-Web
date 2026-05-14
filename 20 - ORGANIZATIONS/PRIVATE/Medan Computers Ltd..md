@@ -6,6 +6,7 @@ tags:
   - Israel
 category: "Private Organization"
 summary: "Medan Computers Ltd. was the Israel franchise of Honeywell. All its technicians were Israel Defense Forces reservists and computer experts. They were involved in the implementation of the PROMIS software in Guatemala.[^1]"
+location: "Israel"
 ---
 [[Medan Computers Ltd.]] was the [[Israel|Israeli]] franchise of [[Honeywell]]. All its technicians were [[Israel|military intelligence]] reservists and computer experts. They were involved in the implementation of the [[PROMIS]] software in [[Guatemala]].[^1]
 

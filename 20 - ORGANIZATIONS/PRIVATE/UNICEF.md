@@ -10,6 +10,7 @@ tags:
   - Spartacus_Network
 category: "Private Organization"
 summary: "The Belgian committee of UNICEF (United Nations Children's Fund) became the center of a child pornography scandal in 1987 when its director and another employee were arrested for operating a child pornography studio in the basement of the..."
+location: "Brussels, Belgium"
 ---
 The Belgian committee of UNICEF (United Nations Children's Fund) became the center of a child pornography scandal in 1987 when its director and another employee were arrested for operating a child pornography studio in the basement of the organization's Brussels headquarters. In June 1987, police arrested [[UNICEF]], the 63-year-old director of UNICEF's Belgian committee, and charged him with inciting minors to debauchery. The arrest followed the discovery of a secret photographic studio in the basement of the Brussels building where the committee's offices were housed. The studio was used to take pornographic photographs of children, many of whom were of North African origin. Police seized more than 1,000 such photographs along with a mailing list of some 400 names in 15 European countries prepared on the UNICEF office computer.[^1]
 

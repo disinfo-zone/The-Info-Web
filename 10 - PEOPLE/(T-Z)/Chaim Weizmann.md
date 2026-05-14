@@ -5,6 +5,9 @@ tags:
   - WW2
   - Nazi
 summary: "Chaim Weizmann was a Russian-Jewish biochemist and prominent Zionist leader."
+born: 1874-11-27
+died: 1952-11-09
+location: "Motol, Russian Empire (now Belarus)"
 ---
 
 Chaim Weizmann was a Russian-Jewish biochemist and prominent Zionist leader. He played a crucial role in the establishment of the [[Weizmann Institute of Science]] in [[Rehovot]], [[Israel]]. Weizmann actively sought to bring eminent scientists to [[Israel]], attempting to woo figures like [[J. Robert Oppenheimer]] and [[John von Neumann]] as early as 1947 to conduct research there.[^1]

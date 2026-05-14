@@ -8,6 +8,9 @@ tags:
   - United_States
   - Dark_Alliance_Investigation
 summary: "Investigative reporter for the San Jose Mercury News whose 1996 Dark Alliance series exposed links between CIA-backed Contras, Nicaraguan cocaine traffickers, and the crack explosion in Los Angeles."
+born: 1955-08-31
+died: 2004-12-10
+location: "Corona, California"
 ---
 [[Gary Webb]] was an investigative reporter for the [[San Jose Mercury News]] whose 1996 "Dark Alliance" series exposed the links between [[Central Intelligence Agency]]-backed [[Contras|Contra]] forces in [[Nicaragua]], Nicaraguan cocaine traffickers, and the explosion of [[Crack Cocaine]] in [[Los Angeles]] and other American cities.[^1] His reporting drew on federal court records, [[DEA]] and [[Federal Bureau of Investigation]] documents, grand jury testimony, and congressional hearing transcripts.
 

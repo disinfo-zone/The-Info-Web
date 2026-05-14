@@ -5,6 +5,8 @@ tags:
   - Algeria
 category: "Paramilitary"
 summary: "The National Liberation Front (FLN) was a nationalist political party and armed liberation movement in Algeria. By 1955, the French government was facing an insurrection from the FLN, which was strongly supported by Gamal Abdel Nasser."
+start: 1954
+location: "Algiers, Algeria"
 ---
 The National Liberation Front (FLN) was a nationalist political party and armed liberation movement in [[Algeria]]. By 1955, the French government was facing an insurrection from the FLN, which was strongly supported by [[Gamal Abdel Nasser]]. The bloody war for independence, which resulted in 250,000 deaths, came close to destroying [[France]] over five years and inspired Arab revolutionaries throughout the [[Middle East]].[^1]
 

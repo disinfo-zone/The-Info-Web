@@ -6,6 +6,8 @@ tags:
   - USA
 category: "U.S. Government"
 summary: "Sandia National Laboratories is a U.S. national laboratory that conducts research and development in nuclear weapons and other areas."
+start: 1945
+location: "Albuquerque, New Mexico"
 ---
 Sandia National Laboratories is a U.S. national laboratory that conducts research and development in nuclear weapons and other areas. By the late 1960s, much of the [[United States]]' primary analysis of nuclear intelligence had shifted to laboratories like Sandia and [[Los Alamos]], where intelligence units dealing with the [[Soviet Union]] and [[China]] had been set up after World War II. These units began monitoring the transfer of nuclear technology and countries viewed as "nth" nations, or near-nuclear countries.[^1]
 

@@ -4,6 +4,9 @@ tags:
   - Person
   - BCCI
 summary: "Zayed bin Sultan AL-Nahayan was the Head of Abu Dhabi's ruling family and president of the United Arab Emirates."
+born: 1918-05-06
+died: 2004-11-02
+location: "Abu Dhabi"
 ---
 
 Zayed bin Sultan AL-Nahayan was the Head of [[Abu Dhabi]]'s ruling family and president of the [[United Arab Emirates]].[^1]

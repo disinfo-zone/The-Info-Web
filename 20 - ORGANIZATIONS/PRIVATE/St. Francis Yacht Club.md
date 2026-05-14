@@ -5,6 +5,7 @@ tags:
   - san-francisco
   - contra-war
 summary: The St. Francis Yacht Club in San Francisco was where Norwin Meneses held meetings and conducted business for his Contra-connected cocaine trafficking operation.
+location: "San Francisco, California"
 ---
 The St. Francis Yacht Club in [[San Francisco]] was where [[Norwin Meneses]] held meetings and conducted business for his Contra-connected [[cocaine]] trafficking operation. The exclusive waterfront venue reflected Meneses's status as a wealthy and well-connected figure in the Nicaraguan exile community.[^1]
 

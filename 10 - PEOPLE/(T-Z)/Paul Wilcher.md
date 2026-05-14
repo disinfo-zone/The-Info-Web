@@ -7,6 +7,8 @@ tags:
   - Lawyer
   - INSLAW
 summary: "On or about May 21, 1993, Wilcher hand-delivered a 100-page letter to Janet Reno, the Attorney General, claiming that holdover DOJ employees from the Reagan-Bush era were responsible for a number of government cover-ups, unbeknownst to the Attorney General and President Bill Clinton."
+died: 1993-06-23
+location: "Washington, D.C."
 ---
 
 [[Paul Wilcher]] was a Washington D.C. attorney who investigated the [[October Surprise]] incident based on the claims of his client, [[Gunther Karl Russbacher]]. He was also investigating possible government involvement in a variety of questionable activities, including the [[INSLAW]] case, with his research leading him into areas that [[Danny Casolaro]] had covered earlier.[^1]

@@ -10,6 +10,8 @@ tags:
   - Contra_War
   - Dark_Alliance_Investigation
 summary: Newport Beach security company incorporated by Ronald Lister that served as a cover for CIA-connected weapons manufacturing in El Salvador during the Contra war.
+start: 1980
+location: "Newport Beach, California"
 ---
 Pyramid International Security Consultants Inc. was a [[Newport Beach, California|Newport Beach]]-based security consulting company incorporated by [[Ronald Lister]] in 1980, a few weeks before he resigned from the [[Laguna Beach Police Department]].[^1] The company served as the vehicle for Lister's weapons dealing and overseas security consulting operations in [[El Salvador]] during the Contra war, and was described by arms manufacturer [[Tim LaFrance|Timothy LaFrance]] as "a private vendor that the [[Central Intelligence Agency]] used to do things [the agency] couldn't do."
 

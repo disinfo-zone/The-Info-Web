@@ -9,6 +9,8 @@ tags:
 description: Mossad is the national intelligence agency of Israel.
 category: "Foreign Government"
 summary: "Mossad is the national intelligence agency of Israel. Its relationship with the Central Intelligence Agency was extensive, involving 28 formal cooperative ventures in strategic intelligence since the 1950s."
+start: 1949
+location: "Tel Aviv, Israel"
 ---
 
 [[Mossad]] is the national intelligence agency of [[Israel]]. Its relationship with the [[Central Intelligence Agency|CIA]] was extensive, involving 28 formal cooperative ventures in strategic intelligence since the 1950s. Many of these arrangements were financed off-the-books through a special contingency fund maintained by the Director of Central Intelligence. One such operation, code-named KK MOUNTAIN, provided millions in annual cash payments to Mossad, in return for which Mossad agents acted as American surrogates in North Africa and other regions. Other agreements financed Israeli operations in [[Syria]] and the [[Soviet Union]], where the CIA found it difficult to operate.[^2]

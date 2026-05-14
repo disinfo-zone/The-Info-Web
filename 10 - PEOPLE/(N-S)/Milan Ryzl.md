@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Milan Ryzl was a Czech parapsychologist active in psi research in the mid-1960s."
+born: 1928
+died: 2011
+location: "Prague, Czechoslovakia"
 ---
 
 Milan Ryzl was a [[Czech]] parapsychologist active in psi research in the mid-1960s. He conducted an experiment that seemed to confirm [[I. M. Kogan]]'s communications-oriented approach to psi phenomena.[^1]

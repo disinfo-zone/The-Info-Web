@@ -5,6 +5,9 @@ tags:
   - Israel
 category: "Paramilitary"
 summary: "The Hagannah was the military arm of the Zionist movement in Palestine. In 1936, it requested a chemist to help produce an effective high explosive for use in the underground war against the Arabs and the British."
+start: 1920
+end: 1948
+location: "Palestine"
 ---
 The Hagannah was the military arm of the Zionist movement in Palestine. In 1936, it requested a chemist to help produce an effective high explosive for use in the underground war against the Arabs and the British. [[Ernst David Bergmann]] was assigned this mission and subsequently joined the Hagannah's technical committee.[^1]
 

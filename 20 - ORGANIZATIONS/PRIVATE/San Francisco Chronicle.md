@@ -5,6 +5,8 @@ tags:
   - media
   - contra-war
 summary: The San Francisco Chronicle was a Bay Area newspaper that reported on aspects of the Contra-connected drug trafficking operations centered in San Francisco.
+start: 1865
+location: "San Francisco, California"
 ---
 The San Francisco Chronicle was a Bay Area newspaper that reported on aspects of the Contra-connected drug trafficking operations centered in [[San Francisco]]. The Chronicle covered elements of the story that included [[Rafael Cornejo]]'s cocaine trafficking network and its connection to the broader Contra drug pipeline.[^1]
 

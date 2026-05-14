@@ -9,6 +9,9 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Early Contra group of ex-Nicaraguan National Guardsmen based in Guatemala, co-commanded by Enrique Bermudez and Ricardo Lau, that formed the core of what became the FDN.
+start: 1979
+end: 1981
+location: "Guatemala City, Guatemala"
 ---
 The Legion of September 15 was an early [[Contras|Contra]] group made up primarily of ex-[[Nicaraguan National Guard|National Guardsmen]], based in [[Guatemala]] and later [[Honduras]]. It was commanded by [[Ricardo Lau|Ricardo "El Chino" Lau]] and [[Enrique Bermudez|Enrique Bermúdez]] and later became the core of the [[FDN]], the largest and most powerful Contra faction.[^2]
 

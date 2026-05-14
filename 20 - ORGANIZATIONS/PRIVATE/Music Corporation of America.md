@@ -1,6 +1,8 @@
 ---
 category: "Private Organization"
 summary: "The Music Corporation of America was a major entertainment corporation that became entangled in investigations related to organized crime and the broader network that Danny Casolaro termed 'The Octopus.'"
+start: 1924
+location: "Chicago, Illinois, USA"
 ---
 The [[Music Corporation of America|MCA]] was a major entertainment corporation that became entangled in investigations related to organized crime and the broader network that [[Danny Casolaro]] termed "[[The Octopus]]."
 

@@ -7,6 +7,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: The Drug Enforcement Administration was the principal federal anti-narcotics agency that possessed extensive knowledge of Danilo Blandón's cocaine trafficking as early as 1981 yet took no action while he received U.S. political asylum.
+start: 1973
+location: "Arlington, Virginia"
 ---
 Drug Enforcement Administration (DEA) is a branch of the [[Department of Justice|U.S. Department of Justice]] and the principal federal agency responsible for enforcement of anti-drug laws.[^3] It is the successor to the Bureau of Narcotics and Dangerous Drugs (BNDD). During the Contra war, multiple DEA agents and offices were involved in or aware of Contra-connected [[cocaine]] trafficking.
 

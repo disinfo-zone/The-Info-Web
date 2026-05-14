@@ -9,6 +9,8 @@ tags:
 description: The U.S. Air Force is the aerial warfare service branch of the United States Armed Forces.
 category: "U.S. Government"
 summary: "The U.S. Air Force is the aerial warfare service branch of the United States Armed Forces. In the context of the *Remote Viewers* narrative, the Air Force was a key customer for the STARGATE PROJECT program, tasking remote viewers with sensitive..."
+start: 1947
+location: "Arlington, Virginia"
 ---
 
 The [[U.S. Air Force]] is the aerial warfare service branch of the [[United States]]. In the context of the *Remote Viewers* narrative, the Air Force was a key customer for the [[STARGATE PROJECT|Grill Flame]] program, tasking remote viewers with sensitive intelligence problems.[^1]

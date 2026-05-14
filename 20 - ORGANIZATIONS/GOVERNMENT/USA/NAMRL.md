@@ -9,6 +9,7 @@ tags:
 description: The Naval Aerospace Medical Research Laboratory (NAMRL) conducts research to address health and performance challenges in aerospace environments, focusing on areas like spatial disorientation, fatigue, and aircrew physiology. Equipped with advanced facilities, it supports military readiness and safety under the leadership of Dr. Richard Arnold.
 category: "U.S. Government"
 summary: "The United States Navy Aerospace Medical Research Laboratory (NAMRL) at NAMRU-D conducts basic and applied research and development in the biomedical and allied sciences to better understand and mitigate challenges and threats aerospace operational..."
+location: "Wright-Patterson Air Force Base, Ohio"
 ---
 The [[United States Navy|Naval]] Aerospace Medical Research Laboratory (NAMRL) at [[NAMRU-D]] conducts basic and applied research and development in the biomedical and allied sciences to better understand and mitigate challenges and threats aerospace operational environments pose to service member health, safety, readiness, and performance. 
 

@@ -12,6 +12,9 @@ tags:
 description: The Army Security Agency (ASA) was a United States Army organization responsible for signals intelligence and communications security.
 category: "U.S. Government"
 summary: "The Army Security Agency (ASA) was a U.S. Army organization responsible for signals intelligence and communications security."
+start: 1945
+end: 1977
+location: "Arlington Hall Station, Virginia"
 ---
 
 The [[Army Security Agency]] (ASA) was a [[U.S. Army]] organization responsible for signals intelligence and communications security. In the context of the *Remote Viewers* narrative, ASA was often treated as a "low-wage workforce" by the [[NSA|NSA]], which used ASA and other service personnel to staff its global listening posts.[^1]

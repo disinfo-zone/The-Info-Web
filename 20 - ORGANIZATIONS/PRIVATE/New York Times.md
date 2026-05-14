@@ -1,5 +1,7 @@
 ---
 category: "Private Organization"
+start: 1851
+location: "New York City, USA"
 tags:
   - organization
   - media

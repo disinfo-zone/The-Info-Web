@@ -4,6 +4,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Wilkins conducted experiments in Mind-to-Mind Telepathy, which he documented in his book *Thoughts Through Space: A Remarkable Adventure in the Realm of Mind*."
+born: 1888-10-31
+died: 1958-11-30
+location: "Mount Bryan East, South Australia"
 ---
 
 

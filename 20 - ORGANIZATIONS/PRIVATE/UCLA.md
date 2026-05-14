@@ -5,6 +5,8 @@ tags:
   - university
   - contra-war
 summary: UCLA was where researcher Dr. Ronald K. Siegel traced the discovery of freebasing cocaine and studied the drug's effects, providing scientific context for the crack epidemic.
+start: 1919
+location: "Los Angeles, California"
 ---
 UCLA (University of California, Los Angeles) was where researcher Dr. Ronald K. Siegel traced the discovery of freebasing [[cocaine]] and studied the drug's effects, providing scientific context for the [[Crack Cocaine|crack]] epidemic. Siegel's research at UCLA documented the pharmacological mechanisms that made smokable cocaine so addictive.[^1]
 

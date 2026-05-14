@@ -5,6 +5,8 @@ tags:
   - USA
 category: "Private Organization"
 summary: "The Polytechnic Institute of Brooklyn is an educational institution in the United States. In 1940, Herman F."
+start: 1854
+location: "Brooklyn, New York, USA"
 ---
 The Polytechnic Institute of Brooklyn is an educational institution in the [[United States]]. In 1940, [[Herman F. Mark]] was running a laboratory there, and two years later he became dean of faculty, turning the institute into a haven for Jewish refugees, including [[Chaim Weizmann]] and [[Ernst David Bergmann]].[^1]
 

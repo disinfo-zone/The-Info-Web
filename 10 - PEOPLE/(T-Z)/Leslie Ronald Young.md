@@ -7,6 +7,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Leslie Ronald 'Jimmy' Young was a veteran British broadcaster for BBC Radio 2, known for his show *The Jimmy Young Show*, which had a wide audience across England, Ireland, and Scotland."
+born: 1921-09-21
+died: 2016-11-07
+location: "Cinderford, England"
 ---
 
 Leslie Ronald "Jimmy" Young was a veteran British broadcaster for [[BBC Radio 2]], known for his show *The Jimmy Young Show*, which had a wide audience across England, [[Ireland]], and [[Scotland]][^1].

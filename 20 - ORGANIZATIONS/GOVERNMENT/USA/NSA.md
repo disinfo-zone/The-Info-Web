@@ -12,6 +12,8 @@ tags:
 description: The National Security Agency (NSA) is a U.S. intelligence agency responsible for global monitoring, collection, and processing of information and data for foreign intelligence and counterintelligence purposes.
 category: "U.S. Government"
 summary: "The National Security Agency (NSA) is a U.S. intelligence agency primarily responsible for signals intelligence (SIGINT) and cybersecurity."
+start: 1952
+location: "Fort Meade, Maryland"
 ---
 > [!INFO] THIS IS NOT WIKIPEDIA
 > This page is not all encompassing. The organization is obviously much larger and more detailed than the scope of this page. Consequently, only general information and details relevant to other research thrusts are included.

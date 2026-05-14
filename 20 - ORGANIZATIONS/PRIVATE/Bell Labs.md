@@ -9,6 +9,8 @@ tags:
 description: Bell Labs is an American industrial research and scientific development company, historically known for its innovations in telecommunications and computing.
 category: "Private Organization"
 summary: "Bell Labs is an American industrial research and scientific development company, historically known for its innovations in telecommunications and computing."
+start: 1925
+location: "Murray Hill, New Jersey"
 ---
 
 [[Bell Labs]] is an American industrial research and scientific development company, historically known for its innovations in telecommunications and computing. In the context of the *Remote Viewers* narrative, Bell Labs is mentioned in relation to the early rumors of a telepathy project involving the USS Nautilus, though this was later debunked as a fabrication or disinformation ploy.[^1]

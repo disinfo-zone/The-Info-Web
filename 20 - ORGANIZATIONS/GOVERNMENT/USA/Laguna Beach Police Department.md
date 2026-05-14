@@ -5,6 +5,7 @@ tags:
   - law-enforcement
   - contra-war
 summary: The Laguna Beach Police Department employed Ron Lister, a former officer who became Danilo Blandón's partner in drug trafficking and weapons procurement with claimed CIA connections.
+location: "Laguna Beach, California"
 ---
 The Laguna Beach Police Department employed [[Ron Lister]], a former officer who became [[Danilo Blandon|Danilo Blandón]]'s partner in drug trafficking and weapons procurement with claimed [[Central Intelligence Agency]] connections. When investigators later sought Lister's personnel files, they discovered the records had been purged.[^1]
 

@@ -7,6 +7,8 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: The San Jose Mercury News published the Dark Alliance series in August 1996, using the Internet to share source documents with the public in an unprecedented act of journalistic transparency.
+start: 1851
+location: "San Jose, California"
 ---
 The San Jose Mercury News is a newspaper based in [[San Jose|San Jose, California]], where [[Gary Webb]] worked as an investigative reporter and published the [[Dark Alliance]] series in August 1996.[^1]
 

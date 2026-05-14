@@ -7,6 +7,9 @@ tags:
   - Lawyer
   - INSLAW
 summary: "William Sessions was the Director of the FBI."
+born: 1930-05-27
+died: 2020-06-12
+location: "Fort Smith, Arkansas"
 ---
 
 William Sessions was the Director of the [[Federal Bureau of Investigation|FBI]]. He became involved in the [[PROMIS Software Scandal]] due to allegations that the FBI's Field Office Information Management System ([[FOIMS]]) was a pirated version of [[INSLAW|Inslaw]]'s [[PROMIS]] software.

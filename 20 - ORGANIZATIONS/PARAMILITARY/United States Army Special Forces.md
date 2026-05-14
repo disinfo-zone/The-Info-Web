@@ -1,6 +1,8 @@
 ---
 category: "Paramilitary"
 summary: "The United States Army Special Forces, also known as the Green Berets, are a special operations force of the United States Army. They are mentioned in connection with several individuals involved in covert operations and intelligence activities.[^1]"
+start: 1952
+location: "Fort Bragg, North Carolina"
 ---
 The [[United States Army Special Forces|U.S. Army Special Forces]], also known as the Green Berets, are a special operations force of the [[U.S. Army]]. They are mentioned in connection with several individuals involved in covert operations and intelligence activities.[^1]
 

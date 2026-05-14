@@ -5,6 +5,9 @@ tags:
   - WW2
   - Nazi
 summary: "In September 1988, Ari Ben-Menashe met with Stroessner to persuade him to close down Cardoen Industries' chemical plant in Paraguay, which was producing chemical weapons for Iraq."
+born: 1912-11-03
+died: 2006-08-16
+location: "Encarnación, Paraguay"
 ---
 
 [[Alfredo Stroessner]] was the President of [[Paraguay]], having been put in power in 1954 by the [[Central Intelligence Agency|CIA]]. His regime was known for protecting [[Nazi Germany|Nazi]] intelligence officers and German scientists with whom the [[United States|U.S.]] government had made deals after [[World War II]]. Stroessner, with his German background and connections to the [[Nazi Party]] during the war, was considered an excellent candidate for the [[Central Intelligence Agency|CIA]] to install, indirectly serving [[United States|U.S.]] interests.[^1]

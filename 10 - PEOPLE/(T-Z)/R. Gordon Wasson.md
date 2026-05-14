@@ -7,6 +7,9 @@ tags:
   - Person
   - Researcher
 summary: "Wasson and his wife, Valentina, a pediatrician, had been investigating a mushroom cult in Mexico."
+born: 1898-09-22
+died: 1986-12-23
+location: "Great Falls, Montana"
 ---
 
 R. Gordon Wasson was an American ethnomycologist and vice president at J.P. Morgan & Company bank, known for his pioneering research into the use of psychedelic mushrooms in shamanistic rituals. His work became central to the [[Central Intelligence Agency|CIA]]'s [[Project MKUltra|MKULTRA Subproject 58]]'s quest for the *teonanáctl* (God's flesh) mushroom[^1].

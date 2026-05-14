@@ -5,6 +5,8 @@ tags:
   - Beverage
 category: "Private Organization"
 summary: "Coca-Cola is a multinational beverage corporation. By 1968, the government of Israel rewarded Abraham Feinberg for his services by permitting him to become the major owner of the nation's Coca-Cola franchise, which quickly became a..."
+start: 1892
+location: "Atlanta, Georgia"
 ---
 Coca-Cola is a multinational beverage corporation. By 1968, the government of [[Israel]] rewarded [[Abraham Feinberg]] for his services by permitting him to become the major owner of the nation's Coca-Cola franchise, which quickly became a multimillion-dollar profit center.[^1]
 

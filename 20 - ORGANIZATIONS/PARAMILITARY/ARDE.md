@@ -8,6 +8,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Alianza Revolucionaria Democratica (ARDE) was a Contra faction based in Costa Rica and commanded by former Sandinista war hero Eden Pastora, formed when UDN-FARN merged with Pastora's group in September 1982.
+start: 1982
+location: "Costa Rica"
 ---
 The Alianza Revolucionaria Democrática (ARDE) was a [[Contras|Contra]] faction based in [[Costa Rica]] and commanded by [[Eden Pastora]], a former [[Sandinistas|Sandinista]] war hero known as "Commandante Zero."[^1]
 

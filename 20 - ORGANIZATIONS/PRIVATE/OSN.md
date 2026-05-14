@@ -1,5 +1,6 @@
 ---
 category: "Private Organization"
+location: "Managua, Nicaragua"
 tags:
   - organization
   - nicaraguan

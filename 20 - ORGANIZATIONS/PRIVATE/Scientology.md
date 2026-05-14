@@ -8,6 +8,8 @@ tags:
   - philosophy
 description: Scientology is a body of beliefs and practices invented by American author L. Ron Hubbard, often described as a cult or a new religious movement.
 category: "Private Organization"
+start: 1954
+location: "Clearwater, Florida"
 summary: "Scientology is a body of beliefs and practices invented by American author L. Ron Hubbard. In the context of the STARGATE PROJECT, several key figures involved in the early remote viewing research at Stanford Research Institute were former members..."
 ---
 

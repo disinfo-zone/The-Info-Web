@@ -6,6 +6,8 @@ tags:
   - Terrorism
 category: "Paramilitary"
 summary: "The Shining Path (Sendero Luminoso) is a Maoist terrorist group in Peru. It was founded and led by Abimael Guzman Reynoso, a former philosophy professor at the University of San Cristobal in Ayacucho.[^1]"
+start: 1969
+location: "Ayacucho, Peru"
 ---
 The [[Shining Path]] (Sendero Luminoso) is a Maoist terrorist group in [[Peru]]. It was founded and led by [[Abimael Guzman Reynoso]], a former philosophy professor at the [[University of San Cristobal]] in [[Ayacucho]].[^1]
 

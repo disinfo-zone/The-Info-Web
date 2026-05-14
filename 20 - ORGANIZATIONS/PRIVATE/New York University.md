@@ -5,6 +5,8 @@ tags:
   - USA
 category: "Private Organization"
 summary: "New York University is a private research university in New York City. Aviem Sella had almost completed his requirement for a Ph.D. in computer science at New York University by 1984, when he was approached to handle Jonathan Pollard."
+start: 1831
+location: "New York City, USA"
 ---
 New York University is a private research university in [[New York City]]. [[Aviem Sella]] had almost completed his requirement for a Ph.D. in computer science at New York University by 1984, when he was approached to handle [[Jonathan Pollard]]. His technical training was seen as an asset in evaluating and winnowing down Pollard's materials.[^1]
 

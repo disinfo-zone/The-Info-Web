@@ -12,6 +12,8 @@ tags:
 description: The Defense Advanced Research Projects Agency (DARPA) is a research and development agency of the United States Department of Defense responsible for the development of emerging technologies for use by the military.
 category: "U.S. Government"
 summary: "The DARPA (DARPA) is the modern name for the Advanced Research Projects Agency (ARPA). It is a research and development agency of the United States Department of Defense responsible for the development of emerging technologies for use by the..."
+start: 1958
+location: "Arlington, Virginia"
 ---
 The [[DARPA|Defense Advanced Research Projects Agency]] (DARPA) is the modern name for the [[Advanced Research Projects Agency]] (ARPA). It is a research and development agency of the United States Department of Defense responsible for the development of emerging technologies for use by the military.[^1]
 

@@ -7,6 +7,7 @@ tags:
   - RemoteViewer
   - Soviet
 summary: "Stephan Schwartz is a former naval officer and researcher who became deeply involved in psychic research, particularly in the area of Remote Viewing."
+born: 1942-01-10
 ---
 
 # Stephan Schwartz

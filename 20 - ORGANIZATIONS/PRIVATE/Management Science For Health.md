@@ -1,6 +1,8 @@
 ---
 category: "Private Organization"
 summary: "Management Science For Health was a group associated with certain factions of the Central Intelligence Agency."
+start: 1971
+location: "Cambridge, Massachusetts, USA"
 ---
 [[Management Science For Health|MSH]] was a group associated with certain factions of the [[Central Intelligence Agency|CIA]]. They were involved in a "turf battle problem" with [[Ralph Olberg]] and [[Tim Osman]] regarding the representation of the [[Mujahideen]] leadership in [[Afghanistan]]. MSH argued that Olberg and Osman's group did not truly represent the full leadership of the Mujahideen.[^1]
 

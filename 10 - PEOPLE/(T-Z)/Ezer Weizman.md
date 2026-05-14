@@ -7,6 +7,9 @@ tags:
   - Israel
   - Military
 summary: "Israeli Defense Minister under Begin who negotiated the SIMWA wartime alliance with South Africa and later became President of Israel."
+born: 1924-06-15
+died: 2005-04-24
+location: "Tel Aviv, Mandatory Palestine"
 ---
 
 [[Ezer Weizman]] was an [[Israel|Israeli]] politician and military leader. He served as Defense Minister under [[Menachem Begin]] and later became President of [[Israel]].[^1]

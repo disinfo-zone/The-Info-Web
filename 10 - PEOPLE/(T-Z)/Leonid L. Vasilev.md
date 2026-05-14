@@ -8,6 +8,9 @@ tags:
   - Researcher
   - Parapsychology
 summary: "Vasilev asserted that the publication of articles like Jacques Bergier's 'Thought Transfer, Weapon of War' and 'The Secret of the Nautilus' in French journals stimulated Soviet parapsychology research."
+born: 1891-04-12
+died: 1966-02-08
+location: "Russia"
 ---
 
 Leonid L. Vasilev was a leading Russian [[Parapsychology|parapsychology]] researcher who played a significant role in the [[Soviet Union]]'s efforts to investigate [[Extrasensory Perception|ESP]]. He is noted for his statements in April 1960, where he claimed that Soviet scientists had conducted extensive, unreported investigations into telepathy under the Stalin regime, predating American efforts[^1].

@@ -9,6 +9,7 @@ tags:
   - Spartacus_Network
 category: "Private Organization"
 summary: "The G-Force was a nightclub in Amsterdam frequented by Marc Dutroux and Robbie Van Der Plancken, according to a dossier compiled by the Morkhoven Workgroup. The club was owned by an American identified as John Edward Mullaney."
+location: "Amsterdam, Netherlands"
 ---
 The G-Force was a nightclub in [[Amsterdam]] frequented by [[Marc Dutroux]] and [[Robbie Van Der Plancken]], according to a dossier compiled by the [[Morkhoven Workgroup]]. The club was owned by an American identified as John Edward Mullaney. Mullaney could be linked to [[John Stamford]]'s [[Spartacus Network]] through a company called Korper and Korver, as well as to [[Karel Maasdam]] through another company called Adonis. The bar at the G-Force was operated by an individual named Gerda Lamere.[^1]
 

@@ -11,6 +11,8 @@ tags:
 description: The American Society for Psychical Research (ASPR) is the oldest psychical research organization in the United States, dedicated to the scientific study of psychic phenomena.
 category: "Private Organization"
 summary: "The American Society for Psychical Research (ASPR) is the oldest psychical research organization in the United States, founded in 1885 by the philosopher and physician William James."
+start: 1885
+location: "New York City"
 ---
 
 The [[American Society for Psychical Research]] (ASPR) is the oldest psychical research organization in the [[United States]], founded in 1885 by the philosopher and physician [[William James]]. It is dedicated to the scientific study of [[Psi|psychic]] phenomena, including [[Telepathy]], [[Clairvoyance]], [[Precognition]], and [[Psychokinesis]].[^1]

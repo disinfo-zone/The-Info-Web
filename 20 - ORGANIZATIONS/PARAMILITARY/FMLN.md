@@ -5,6 +5,8 @@ tags:
   - nicaraguan
   - contra-war
 summary: The FMLN was the leftist guerrilla army in El Salvador that received arms from the Sandinista government, providing the Reagan administration's stated justification for the Contra war.
+start: 1980
+location: "San Salvador, El Salvador"
 ---
 The FMLN (Frente Farabundo Martí para la Liberación Nacional) was the leftist guerrilla army in [[El Salvador]] that received arms from the [[Sandinistas|Sandinista]] government, providing the Reagan administration's stated justification for the [[Contras|Contra]] war. Halting Sandinista arms shipments to the FMLN was the official reason [[Central Intelligence Agency]] director [[William J. Casey]] gave to Congress when informing lawmakers of the decision to launch covert operations against [[Nicaragua]].[^1]
 

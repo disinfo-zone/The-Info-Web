@@ -2,6 +2,8 @@
 tags: ["Organization", "Bank"]
 category: "Private Organization"
 summary: "National Bank of Georgia was a financial institution that became entangled in the Bank of Credit and Commerce International scandal.[^1]"
+end: 1987
+location: "Atlanta, Georgia, USA"
 ---
 National Bank of Georgia was a financial institution that became entangled in the [[Bank of Credit and Commerce International|BCCI]] scandal.[^1]
 

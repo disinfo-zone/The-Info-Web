@@ -10,6 +10,7 @@ tags:
   - Michel_Nihoul
 category: "Private Organization"
 summary: "Roxanne Films was a hardcore pornography studio located at 111 Admiraal de Ruijter Road in Amsterdam, in a building owned by a transvestite named Didier Pellerin."
+location: "Amsterdam, Netherlands"
 ---
 Roxanne Films was a hardcore pornography studio located at 111 Admiraal de Ruijter Road in Amsterdam, in a building owned by a transvestite named [[Didier Pellerin]]. The studio was linked to [[Jean-Michel Nihoul]]'s child trafficking network through his mistress [[Marleen De Cokere]], who worked at the premises. Pellerin was interviewed by investigators in 1996 regarding [[Marc Dutroux]] and confirmed that De Cokere had worked there. A companion operation called Rex Productions was also identified at the same location.[^1]
 

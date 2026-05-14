@@ -11,6 +11,9 @@ tags:
   - Iran-Contra
   - Dark_Alliance_Investigation
 summary: "William J. Casey was Reagan's 1980 campaign manager and CIA Director from 1981 to 1987 who, among other disputed roles, is alleged to have secretly negotiated with Iranian representatives in Madrid and Paris in 1980 to delay the release of American hostages past Election Day -- the core allegation of the October Surprise -- and who died of a brain tumor in May 1987 as the Iran-Contra scandal unfolded."
+born: 1913-03-13
+died: 1987-05-06
+location: "Elmhurst, Queens, New York"
 ---
 William Joseph Casey was born March 13, 1913, in Elmhurst, Queens, New York. He attended St. John's University and Fordham Law School, becoming a corporate and tax attorney. During World War II he served in the [[OSS|Office of Strategic Services]] (OSS) under William "Wild Bill" Donovan, rising to head the OSS's Secret Intelligence operations in Europe and coordinating the infiltration of agents into Nazi-controlled territory. After the war he became a wealthy lawyer and author of tax shelter guides. President Nixon appointed him Chairman of the Securities and Exchange Commission in 1971, a post he held through 1973. He managed [[Ronald Reagan]]'s 1980 presidential campaign. Reagan appointed him Director of Central Intelligence in January 1981, and he served as DCI until resigning due to illness in January 1987. He died May 6, 1987, at a hospital in Glen Cove, New York, having suffered a seizure in December 1986 and subsequently undergone brain surgery. He was subpoenaed to testify before the Senate Iran-Contra investigating committee but died before he could appear.[^5]
 

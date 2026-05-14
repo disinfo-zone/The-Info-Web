@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Wolfgang Pauli (1900–1958) was an Austrian-American theoretical physicist and Nobel Laureate, known for his pioneering work on quantum mechanics, particularly the Pauli exclusion principle."
+born: 1900-04-25
+died: 1958-12-15
+location: "Vienna, Austria"
 ---
 
 Wolfgang Pauli (1900–1958) was an Austrian-American theoretical physicist and Nobel Laureate, known for his pioneering work on quantum mechanics, particularly the Pauli exclusion principle. He is also famously associated with the "Pauli effect," a phenomenon where technical equipment inexplicably malfunctions or breaks in his presence[^1].

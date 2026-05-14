@@ -6,6 +6,9 @@ tags:
   - CIA
   - RemoteViewer
 summary: "Stansfield Turner (1923–2018) was an American admiral who served as the DCI under President Jimmy Carter from 1977 to 1981."
+born: 1923-12-01
+died: 2018-01-18
+location: "Highland Park, Illinois"
 ---
 
 Stansfield Turner (1923–2018) was an American admiral who served as the [[Director of Central Intelligence|DCI]] under President [[Jimmy Carter]] from 1977 to 1981. His tenure at the [[Central Intelligence Agency|CIA]] was marked by significant changes, including a reduction in [[Human Intelligence|HUMINT]] capabilities, which was seen as being on the wane following a number of scandals in the mid-1970s, including revelations of domestic spying.[^1]

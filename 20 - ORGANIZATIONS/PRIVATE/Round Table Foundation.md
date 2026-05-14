@@ -8,6 +8,8 @@ tags:
   - private
 description: The Round Table Foundation was a research facility founded by Andrija Puharich in Maine, dedicated to the study of psychic phenomena.
 category: "Private Organization"
+start: 1948
+location: "Glen Cove, Maine"
 summary: "The Round Table Foundation was a research facility founded by Andrija Puharich in Glen Cove, Maine, in the late 1940s."
 ---
 

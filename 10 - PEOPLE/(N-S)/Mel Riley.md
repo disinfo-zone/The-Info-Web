@@ -6,6 +6,9 @@ tags:
   - Military
   - Stargate
 summary: "U.S. Army staff sergeant and one of the original remote viewers in the Stargate Project, known for his artistic rendering of psychic impressions."
+born: 1946
+died: 2020-04-25
+location: "Racine, Wisconsin"
 ---
 
 Mel Riley was a U.S. Army staff sergeant and one of the original six remote viewers in the [[STARGATE PROJECT]]. He was recruited into the program, then codenamed [[STARGATE PROJECT|Gondola Wish]], in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]

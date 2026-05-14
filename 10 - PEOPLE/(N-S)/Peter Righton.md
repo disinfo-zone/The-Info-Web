@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Peter Righton was a social services director and the top UK government adviser on child protection services."
+born: 1926-04-14
+died: 2007-10-12
+location: "United Kingdom"
 ---
 
 Peter Righton was a social services director and the top UK government adviser on child protection services. He held a senior post with the National Children's Bureau and was described as "a respected figure in the child care field." Righton had been a member of the [[Pedophile Information Exchange]] (PIE), which was named in the VIP pedophile dossier from 1983 that [[Geoffrey Dickens]] handed to Home Secretary [[Leon Brittan]]. The dossier contained allegations about members of parliament and the Queen's royal staff being part of a VIP pedophile ring with ties to PIE. Righton's position as a government adviser on child protection services gave him unprecedented access to child protection policies and children's homes across the UK, allowing him to operate within the very system designed to protect vulnerable children.[^1]

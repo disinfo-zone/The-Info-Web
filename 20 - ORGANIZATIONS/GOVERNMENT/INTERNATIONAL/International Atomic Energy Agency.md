@@ -5,6 +5,8 @@ tags:
   - Nuclear
 category: "Foreign Government"
 summary: "International Atomic Energy Agency (IAEA) is an international organization that seeks to promote the peaceful use of nuclear energy and to inhibit its use for any military purpose, including nuclear weapons."
+start: 1957
+location: "Vienna, Austria"
 ---
 International Atomic Energy Agency (IAEA) is an international organization that seeks to promote the peaceful use of nuclear energy and to inhibit its use for any military purpose, including nuclear weapons. The IAEA inspected the Iraqi nuclear reactor at [[Osirak bombing]] in January 1981, under provisions of the 1968 Nuclear Nonproliferation Treaty, to which [[Iraq]] was a party.[^1]
 

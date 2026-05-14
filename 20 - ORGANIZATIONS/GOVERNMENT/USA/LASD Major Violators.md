@@ -8,6 +8,7 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Elite narcotics units of the Los Angeles County Sheriff's Department that investigated the Blandon-Ross cocaine network and were considered among the best drug detectives in the nation.
+location: "Los Angeles County, California"
 ---
 The [[Los Angeles]] County Sheriff's Department (LASD) Major Violators squads (Majors I, II, and III) were elite narcotics investigation units considered some of the best drug detectives in the nation during the 1980s. They investigated the [[Danilo Blandon|Blandón]]-[[Ricky Ross|Ross]] cocaine network, the largest crack distribution operation uncovered in Los Angeles up to that time.[^1]
 

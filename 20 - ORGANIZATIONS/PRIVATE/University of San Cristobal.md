@@ -5,6 +5,7 @@ tags:
   - Peru
 category: "Private Organization"
 summary: "The University of San Cristobal at Ayacucho, Peru, was where Abimael Guzman Reynoso, the founder of the Shining Path, was formerly a professor of philosophy. Many of its professors were members of the Shining Path or the Communist Party of Peru.[^1]"
+location: "Ayacucho, Peru"
 ---
 The [[University of San Cristobal]] at [[Ayacucho]], [[Peru]], was where [[Abimael Guzman Reynoso]], the founder of the [[Shining Path]], was formerly a professor of philosophy. Many of its professors were members of the [[Shining Path]] or the Communist Party of [[Peru]].[^1]
 

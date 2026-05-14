@@ -5,6 +5,7 @@ tags:
   - USA
 category: "Private Organization"
 summary: "ITICO (Integrated Technologies International Co.) was a company that served as a cover for Alan Sanders, who had links to the Central Intelligence Agency."
+location: "USA"
 ---
 [[ITICO]] (Integrated Technologies International Co.) was a company that served as a cover for [[Alan Sanders]], who had links to the [[Central Intelligence Agency|CIA]]. Through [[ITICO]], Sanders was involved in supplying technology for cluster bombs to [[Carlos Cardoen]] in the form of blueprints, despite a [[United Nations]] arms embargo against [[Chile]].[^1]
 

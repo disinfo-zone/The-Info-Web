@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "His panel's assignment was carefully weighted towards investigating the possibility that the VELA sighting had been a false alarm."
+born: 1923-08-19
+died: 2015-02-04
+location: "Massachusetts Institute of Technology, Cambridge, Massachusetts"
 ---
 
 Jack P. Ruina was a professor of electrical engineering at the [[Massachusetts Institute of Technology|MIT]] and a longtime consultant to the [[Pentagon]] on military and scientific issues. He was chosen by [[Frank Press]] to direct an outside panel to study the [[VELA Satellite]] data after a probable nuclear explosion was detected on September 22, 1979. Ruina held many sensitive clearances and was known for his discretion.[^1]

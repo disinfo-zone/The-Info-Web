@@ -2,6 +2,8 @@
 tags: ["Organization", "Financial Institution", "BCCI"]
 category: "Private Organization"
 summary: "ICIC (International Credit and Investment Company Holdings) was a Cayman Islands subsidiary of the Bank of Credit and Commerce International.[^1] It served as BCCI's repository for loans to privileged insiders.[^1]"
+start: 1976
+location: "Cayman Islands"
 ---
 ICIC (International Credit and Investment Company Holdings) was a [[Cayman Islands]] subsidiary of the [[Bank of Credit and Commerce International|BCCI]].[^1] It served as BCCI's repository for loans to privileged insiders.[^1]
 

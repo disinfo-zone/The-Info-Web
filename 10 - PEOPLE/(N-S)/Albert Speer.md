@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Albert Speer (1905–1981) was a German architect who served as the Reich's Minister of Armaments and War Production for Nazi Germany during World War II."
+born: 1905-03-19
+died: 1981-09-01
+location: "Mannheim, Germany"
 ---
 
 Albert Speer (1905–1981) was a German architect who served as the Reich's Minister of Armaments and War Production for [[Nazi Germany]] during [[World War II]]. He was a close confidant of [[Adolf Hitler]][^1].

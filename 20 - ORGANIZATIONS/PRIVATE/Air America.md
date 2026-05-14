@@ -10,6 +10,9 @@ tags:
   - Dark_Alliance_Investigation
 category: "Private Organization"
 summary: "Air America was a CIA proprietary airline that provided covert transportation services during the Vietnam War, trafficking heroin out of the Golden Triangle region."
+start: 1950
+end: 1976
+location: "Washington, DC"
 ---
 
 Air America was a CIA proprietary airline that provided covert transportation services during the Vietnam War, trafficking heroin out of the Golden Triangle region. Its personnel and aviation infrastructure later reappeared in the Contra supply chain during the 1980s, illustrating the continuity of CIA covert aviation from Southeast Asia to Central America.[^1][^2]
