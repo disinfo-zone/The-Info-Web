@@ -8,6 +8,8 @@ tags:
   - INSLAW
   - NSA
 summary: "William A. Hamilton is a former NSA analyst who developed the PROMIS case management software and, as founder of INSLAW, led a decade-long legal battle against the Department of Justice over its alleged theft and international distribution of the software."
+born: 1940
+location: "Laude, Indiana"
 ---
 
 William A. Hamilton was born around 1940 and grew up in Laude, Indiana, where he was one of seven brothers. He graduated from Notre Dame with an English degree in 1962 and married [[Nancy Hamilton]] in 1963.[^1]

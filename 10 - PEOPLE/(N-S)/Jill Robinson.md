@@ -3,7 +3,7 @@ category: "Other"
 tags:
   - Person
 summary: "Jill Robinson was a 12-year-old girl abducted in Oakland County, Michigan."
-died: 1976-12-22
+died: 1976
 location: "Birmingham, Michigan"
 ---
 

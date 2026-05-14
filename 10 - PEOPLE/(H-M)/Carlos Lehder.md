@@ -7,6 +7,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Colombian drug trafficker who revolutionized cocaine smuggling for the MedellÃ­n cartel in the early 1980s.
+born: 1949-09-07
+location: "Armenia, Colombia"
 ---
 Carlos Lehder was a Colombian drug trafficker and key figure in the [[Medellin Cartel|MedellÃ­n cartel]] who revolutionized the cocaine import/export business in the early 1980s.[^1]
 

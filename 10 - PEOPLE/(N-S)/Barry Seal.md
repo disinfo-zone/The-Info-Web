@@ -10,6 +10,9 @@ tags:
   - Contras
   - MedellinCartel
 summary: "Adler Berriman 'Barry' Seal (1939-1986) was a Baton Rouge, Louisiana pilot and the Medellín Cartel's chief U.S. cocaine distributor, who flew an estimated 56 tons of cocaine worth $3-5 billion before flipping as a DEA informant in 1984, providing photographic evidence of Sandinista officials loading cocaine at a Nicaraguan airfield; he was assassinated by cartel hitmen in February 1986, and his C-123K cargo plane was subsequently used in the Oliver North Contra supply network before being shot down over Nicaragua with Eugene Hasenfus aboard."
+born: 1939-07-16
+died: 1986-02-19
+location: "Baton Rouge, Louisiana, USA"
 ---
 Adler Berriman "Barry" Seal was born July 16, 1939, in Baton Rouge, Louisiana. He became a licensed pilot in his teens and joined [[Trans World Airlines|TWA]] in 1964 as a flight engineer, rising to one of the youngest Boeing 747 captains in the fleet. He was fired in July 1972 after being implicated in a conspiracy to smuggle plastic explosives to anti-Castro Cubans in Mexico using a DC-4. He was killed February 19, 1986, in Baton Rouge, Louisiana -- shot six times with a MAC-10 submachine gun by a contract killer while sitting in his Cadillac outside a Salvation Army rehabilitation center where he was required to report under the terms of a criminal sentence.[^1]
 

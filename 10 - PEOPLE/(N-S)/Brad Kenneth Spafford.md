@@ -3,6 +3,8 @@ category: "Intelligence & Government"
 tags:
   - Person
 summary: "Brad Kenneth Spafford was born in 1988."
+born: 1988
+location: "Isle of Wight County, Virginia, USA"
 ---
 Brad Kenneth Spafford was born in 1988. He is married to Jacqueline Spafford (born March 1989) and has two daughters.
 

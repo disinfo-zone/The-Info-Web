@@ -4,6 +4,8 @@ tags:
   - Person
   - Journalist
 summary: "Bill Moyers is an American journalist and former government official."
+born: 1934-06-05
+location: "Hugo, Oklahoma"
 ---
 
 Bill Moyers is an American journalist and former government official. He served as a trusted aide and sometime speechwriter for President [[Lyndon B. Johnson]]. In October 1964, Moyers was ordered by Johnson, along with [[Myer Feldman]], to clean out [[Walter W. Jenkins]]'s safe after Jenkins's arrest on homosexual solicitation charges. They discovered a private cache of money, including funds from [[Abraham Feinberg]].[^1]

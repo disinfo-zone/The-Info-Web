@@ -5,6 +5,9 @@ tags:
   - ArmsDealer
   - Israel
 summary: "Palestinian terrorist and target of Israeli intelligence operations, connected to the Achille Lauro attack and arms trafficking networks."
+born: 1937
+died: 2002
+location: "Jaffa, British Mandate Palestine"
 ---
 
 [[Abu Nidal]] was a Palestinian terrorist. He was a target of [[Israel|Israeli]] intelligence operations. Arms dealers like [[John Knight]] and [[Sidem International Limited]] acquired arms from [[Yugoslavia]] and sold them to [[Mohammed Radi Abdullah]], who in turn sold them to [[Abu Nidal|Nidal]] and other Palestinian groups. [[Mohammed Radi Abdullah|Radi]] was unaware of [[Anthony Pearson|Pearson's]] [[Israel|Israeli]] connection.[^1]

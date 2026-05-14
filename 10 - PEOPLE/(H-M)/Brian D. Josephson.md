@@ -8,6 +8,8 @@ tags:
   - RemoteViewer
   - SRI
 summary: "His work on the Josephson junction, a configuration of two layers of superconducting material sandwiching a thin layer of non-superconducting material, was part of the quark detector used in Hal Puthoff and Ingo Swann's psychokinesis experiment at SRI."
+born: 1940-01-04
+location: "Cardiff, Wales"
 ---
 
 Brian D. Josephson is a British theoretical physicist who won the Nobel Prize in Physics in 1973 for his prediction of the Josephson effect. He is also a vocal proponent of [[Extrasensory Perception|extrasensory perception]] (ESP) and has shown interest in [[Parapsychology|parapsychology]][^1].

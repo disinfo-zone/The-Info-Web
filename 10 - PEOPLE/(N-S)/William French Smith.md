@@ -8,6 +8,9 @@ tags:
   - IranContra
   - Dark_Alliance_Investigation
 summary: "William French Smith (1917-1990) served as U.S. Attorney General from 1981 to 1985 under President Reagan, and as the first Reagan AG signed the secret 1982 Memorandum of Understanding with CIA director William J. Casey that removed drug offenses from the list of crimes CIA assets were required to report to the Department of Justice."
+born: 1917-08-26
+died: 1990-10-29
+location: "Wilton, New Hampshire"
 ---
 
 William French Smith was the U.S. Attorney General under [[Ronald Reagan]] who signed the secret 1982 Memorandum of Understanding with [[Central Intelligence Agency]] director [[William J. Casey]] that exempted CIA assets from drug crimes reporting. The agreement, hammered out between the CIA and Justice Department, fundamentally altered the relationship between intelligence operations and law enforcement.[^1]

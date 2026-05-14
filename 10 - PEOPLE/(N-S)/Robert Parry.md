@@ -10,6 +10,9 @@ tags:
   - Iran-Contra
   - Dark_Alliance_Investigation
 summary: "Robert Parry (1949-2018) was an investigative journalist who broke early Iran-Contra and Contra drug stories at the AP and Newsweek, founded Consortium News in 1995 after being sidelined by mainstream outlets, and produced the most sustained documentary case for the October Surprise allegation, obtaining the withheld Madrid embassy cable reference and discovering the buried Russian intelligence report."
+born: 1949-06-24
+died: 2018-01-27
+location: "Hartford, Connecticut"
 ---
 Robert Parry was born June 24, 1949. He worked as a reporter at the Associated Press in the early 1980s, where he broke early stories on Contra drug trafficking and helped expose Iran-Contra, and subsequently at Newsweek. He founded Consortium News in 1995 after finding mainstream news organizations unwilling to continue investigating government secrecy, intelligence abuses, and the [[October Surprise]] allegation. He died January 27, 2018.[^1]
 

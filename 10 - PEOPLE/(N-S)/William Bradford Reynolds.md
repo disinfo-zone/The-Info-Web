@@ -9,6 +9,9 @@ tags:
   - Lawyer
   - DoJ
 summary: "William Bradford Reynolds served as Reagan's Assistant Attorney General for Civil Rights from 1981 to 1988 and in 2005 authenticated a May 16, 1985 letter he had signed directing U.S. Attorney William F. Weld that PROMIS software equipped with a surveillance back door was to be distributed to a Saudi sheikh via arms dealers Manucher Ghorbanifar, Adnan Khashoggi, and Richard Armitage, with funds routed through Credit Suisse and the National Commercial Bank."
+born: 1942-07-21
+died: 2019-09-14
+location: "Bridgeport, Connecticut"
 ---
 William Bradford "Brad" Reynolds was born in 1942. He received a B.A. from Yale University (1964) and an LL.B. from Vanderbilt University Law School (1967), where he was Order of the Coif and editor-in-chief of the Vanderbilt Law Review. After graduation he joined Sullivan & Cromwell in New York as an associate attorney (1967-1970), then served as an assistant to Solicitor General Erwin Griswold at the [[Department of Justice]] (1970-1973), and returned to private practice as a litigation partner at Shaw, Pittman, Potts & Trowbridge in Washington (1973-1981). After leaving government, Reynolds became senior counsel in the antitrust and competition practice at Baker Botts LLP in Washington and argued 19 cases before the U.S. Supreme Court. He died September 14, 2019.[^5]
 

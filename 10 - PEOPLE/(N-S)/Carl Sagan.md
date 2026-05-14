@@ -6,6 +6,9 @@ tags:
   - Person
   - Skeptic
 summary: "Carl Sagan (1934–1996) was a renowned American cosmologist, astronomer, planetary scientist, and author."
+born: 1934-11-09
+died: 1996-12-20
+location: "Brooklyn, New York, USA"
 ---
 
 Carl Sagan (1934–1996) was a renowned American cosmologist, astronomer, planetary scientist, and author. He was a prominent figure in the scientific skepticism movement and a vocal critic of paranormal claims, including those made by [[Uri Geller]][^1].

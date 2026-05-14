@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "American engineer and CEO of McDonnell Douglas Corporation, member of FGBMFI connected to the PROMIS scandal network."
+born: 1922-10-12
+died: 2012-03-19
+location: "Little Rock, Arkansas"
 ---
 [[Sanford N. McDonnell]] (October 12, 1922 – March 19, 2012) was an American engineer, businessman, and philanthropist. He was a member of [[Full Gospel Business Men's Fellowship International|FGBMFI]] and was associated with [[McDonnell Douglas Corporation]].[^1]
 
