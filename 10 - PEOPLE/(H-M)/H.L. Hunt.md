@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Hunt and Clint Murchison, Sr."
+born: 1889-02-17
+died: 1974-11-29
+location: "Carson Township, Illinois"
 ---
 [[H.L. Hunt]] was a prominent Texas oilman, described as being cut from the same political cloth as [[Clint Murchison, Sr.]]. He was a key organizer of the pro-[[Douglas MacArthur|MacArthur]] forces in Texas. Hunt accompanied [[Douglas MacArthur|MacArthur]] on a flight to Texas for a speaking tour after MacArthur was relieved of his Korean command by President [[Harry Truman]] in 1951.[^1]
 

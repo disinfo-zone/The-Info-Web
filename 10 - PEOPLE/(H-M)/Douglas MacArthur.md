@@ -5,6 +5,9 @@ tags:
   - Military
   - General
 summary: "MacArthur was the focus of a 'MacArthur-for-president' campaign in 1952, organized by H.L."
+born: 1880-01-26
+died: 1964-04-05
+location: "Little Rock, Arkansas"
 ---
 [[Douglas MacArthur]] was a highly decorated American five-star general who played a prominent role in [[World War II]] and the Korean War. After being relieved of his Korean command by President [[Harry Truman]] in 1951, he embarked on a speaking tour, during which he was accompanied by [[H.L. Hunt]] and supported by [[Clint Murchison, Sr.]].[^1]
 

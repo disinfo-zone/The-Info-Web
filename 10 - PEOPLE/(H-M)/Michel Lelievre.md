@@ -5,6 +5,8 @@ tags:
   - Belgium
   - Dutroux
 summary: "Michel Lelievre, born 1967, met Marc Dutroux in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network."
+born: 1967
+location: "Belgium"
 ---
 
 Michel Lelievre, born 1967, met [[Marc Dutroux]] in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network. A 28-year-old unemployed man with a minor criminal record, Lelievre assisted in the May 26, 1996, kidnapping of 12-year-old [[Sabine Dardenne]] by positioning himself near her school in a white van registered to [[Jean-Michel Nihoul]]'s [[ASCO]] company, while Dutroux seized the girl with chloroform. On August 9, 1996, Lelievre waited in the getaway vehicle during the abduction of 14-year-old [[Laetitia Delhez]] from a bus stop in Bertrix, where a witness noted the van's partial license plate, leading to Dutroux's arrest on August 13. Lelievre was detained shortly after, confessing to participation in exchange for leniency, and present during the rescue of Sabine and Laetitia from the Marcinelle basement dungeon, where the girls clung to Dutroux due to conditioning.[^1]

@@ -9,6 +9,7 @@ tags:
   - 1980s
   - Contra_War
 summary: Moises Nunez was a Cuban CIA agent who managed Frigorificos de Puntarenas while simultaneously dealing drugs and running covert maritime operations against the Sandinistas.
+location: "Cuba"
 ---
 Moises Núñez was a [[Cuba|Cuban]] [[Central Intelligence Agency]] agent and [[Bay of Pigs]] veteran who managed [[Frigorificos de Puntarenas]] in Costa Rica, the drug-front shrimp company hired by the U.S. State Department to distribute "humanitarian" aid to the Contras. CIA operative [[John Hull]] confirmed Núñez was working with the agency as an intelligence source, and a 1988 UPI story identified him as an Agency officer based on accounts from two senior Costa Rican government officials, a U.S. intelligence source, and American law enforcement authorities.[^1]
 

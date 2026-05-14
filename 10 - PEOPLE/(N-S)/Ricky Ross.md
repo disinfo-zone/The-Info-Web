@@ -9,6 +9,8 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: Freeway Ricky Donnell Ross led South Central Los Angeles's largest crack cocaine distribution network, expanding from local dealing to a coast-to-coast operation that moved over 150 kilos per week at its peak.
+born: 1960-01-26
+location: "Tyler, Texas"
 ---
 "Freeway" Ricky Donnell Ross was the leader of [[South Central Los Angeles|South Central L.A.]]'s first major [[Crack Cocaine|crack]] distribution network.[^2] In the space of four years, Ross went from selling fractions of an ounce of [[cocaine]] to shipping multimillion-dollar shipments across [[United States|America]].[^2] His primary supplier was [[Danilo Blandon|Danilo Blandón]], a [[Nicaragua|Nicaraguan]] trafficker who had sold cocaine to fund the [[Contras]] during the early 1980s.[^1]
 

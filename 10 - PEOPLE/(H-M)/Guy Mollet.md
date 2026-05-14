@@ -7,6 +7,9 @@ tags:
   - Israel
   - Soviet
 summary: "Guy Mollet was a French politician who served as Prime Minister of France from 1956 to 1957."
+born: 1905-12-31
+died: 1975-10-03
+location: "Flers-de-l'Orne, France"
 ---
 
 Guy Mollet was a French politician who served as Prime Minister of [[France]] from 1956 to 1957. His socialist government took a harder line on the war in [[Algeria]] and against Arab leaders like [[Gamal Abdel Nasser]] who supported the revolutionaries. [[Israel]], which was intensively waging guerrilla war against [[Egypt]], was seen as one of [[France]]'s most dependable allies during his tenure.[^1]

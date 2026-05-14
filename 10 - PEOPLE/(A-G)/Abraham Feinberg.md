@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Abraham Feinberg was a wealthy New York businessman and ardent advocate of statehood for Israel."
+born: 1908
+died: 1998
+location: "New York City, New York"
 ---
 
 Abraham Feinberg was a wealthy New York businessman and ardent advocate of statehood for [[Israel]]. By 1947, he played a major and discreet role in fundraising and White House lobbying for [[Israel]] and the Democratic Party. He would operate at the highest levels between [[Washington, D.C.]] and [[Jerusalem]] for two decades.[^1]

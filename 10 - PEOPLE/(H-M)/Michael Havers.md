@@ -5,6 +5,9 @@ tags:
   - Lawyer
   - LawEnforcement
 summary: "Sir Michael Havers served as Attorney General of the United Kingdom during the early 1980s."
+born: 1923-03-10
+died: 1992-04-01
+location: "Richmond, Surrey, England"
 ---
 
 Sir Michael Havers served as Attorney General of the United Kingdom during the early 1980s. In June 1982, following a police raid on the [[Elm Guest House]], all twenty-three men detained were released without charge, and reporting on the matter soon ceased, "possibly upon intervention by Attorney General Sir Michael Havers." The investigation involved allegations that three parliamentary ministers and a member of the Queen's royal staff were among the VIP clients of a brothel providing access to boys as young as ten years old[^1].

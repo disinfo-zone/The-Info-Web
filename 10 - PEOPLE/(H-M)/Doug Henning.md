@@ -6,6 +6,9 @@ tags:
   - Person
   - RemoteViewer
 summary: "Doug Henning (1947–2000) was a renowned Canadian magician and illusionist."
+born: 1947-05-03
+died: 2000-02-07
+location: "Winnipeg, Manitoba, Canada"
 ---
 
 Doug Henning (1947–2000) was a renowned Canadian magician and illusionist. In 1983, he was one of the most famous magicians in the world, with his *Doug Henning's World of Magic* show holding the record as the most-watched magic show in television history[^1].

@@ -4,6 +4,9 @@ tags:
   - Person
   - Israel
 summary: "Palestinian terrorist involved in the 1985 Achille Lauro attack, which was allegedly an Israeli black propaganda operation."
+born: 1948-12-10
+died: 2004-03-08
+location: "Yarmouk Camp, Syria"
 ---
 
 [[Abul Abbas]] was a Palestinian terrorist. He was involved in the 1985 [[Achille Lauro]] attack, which was an [[Israel|Israeli]] "black" propaganda operation designed to show the world the perceived brutality of Palestinians.[^1]

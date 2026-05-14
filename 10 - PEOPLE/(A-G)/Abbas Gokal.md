@@ -4,6 +4,8 @@ tags:
   - Person
   - BCCI
 summary: "Abbas Gokal was one of the Gokal brothers who ran the Gulf Group, a London-based shipping company."
+born: 1936
+location: "Karachi, Pakistan"
 ---
 
 Abbas Gokal was one of the [[Gokal brothers]] who ran the [[Gulf Group]], a London-based shipping company.[^1]

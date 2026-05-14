@@ -5,6 +5,8 @@ tags:
   - nicaraguan
   - contra-war
 summary: Daniel Ortega was the Sandinista president of Nicaragua whose government the Reagan administration sought to overthrow through the Contra war and covert operations.
+born: 1945-11-11
+location: "La Libertad, Chontales, Nicaragua"
 ---
 Daniel Ortega was the [[Sandinistas|Sandinista]] president of [[Nicaragua]] whose government the Reagan administration sought to overthrow through the [[Contras|Contra]] war and covert operations. Ortega led the Sandinista government that came to power after the 1979 revolution that ousted Anastasio Somoza.[^1]
 

@@ -5,6 +5,8 @@ tags:
   - CIA
   - Military
 summary: "After his first tour in Vietnam, Hand moved to the clandestine CIA war in Laos, according to Ted Shackley, a former station chief in Indo-China."
+born: 1941-12-08
+location: "New York City, New York, USA"
 ---
 [[Michael Hand]] was a highly decorated Special Forces Green Beret soldier in [[Vietnam]]. He later co-founded [[Nugan Hand Bank]] in [[Australia]] with [[Frank Nugan]] and officials of the [[Central Intelligence Agency|CIA]]-owned [[Air America]]. Hand had special knowledge of intelligence operations in the [[Golden Triangle]].[^1]
 

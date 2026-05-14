@@ -9,6 +9,8 @@ tags:
   - DoJ
   - Dark_Alliance_Investigation
 summary: "Edwin Meese served as Counselor to President Reagan and then as Attorney General from 1985 to 1988, and was named by INSLAW and the House Judiciary Committee as a central figure in the alleged conspiracy to steal the PROMIS software through his long association with Earl Brian and his recusal from PROMIS matters that left Lowell Jensen to administer the affair."
+born: 1931-12-02
+location: "Oakland, California"
 ---
 Edwin Meese III served as Counselor to President [[Ronald Reagan]] from 1981 to 1985 and as [[United States Attorney General|Attorney General]] from 1985 to 1988. Before his time in Washington, Meese served in Governor Reagan's California cabinet, where he worked alongside [[Earl Brian]] and [[Lowell Jensen]]. His personal and political associations with both men became central to allegations about his role in the [[PROMIS Software Scandal]].[^1]
 
