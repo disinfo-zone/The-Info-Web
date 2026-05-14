@@ -1,6 +1,8 @@
 ---
 category: "Historical Phenomenon"
 summary: "Wave of UAP encounters in 1977 on the island of Colares, Brazil, where residents reported being attacked by beams of radiation from unknown craft."
+date: 1977
+location: "Colares, Pará, Brazil"
 ---
 The [[Colares Incidents]] refer to a wave of [[Unidentified Anomalous Phenomena|UAP]] encounters that occurred in 1977 on the island of Colares, in the state of Pará, Brazil. These events are notable for their prolonged duration, the wide variety of craft observed, and the direct, harmful physical effects on the local population.[^1]
 

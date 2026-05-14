@@ -6,6 +6,9 @@ tags:
   - Israel
 category: "Major Conflict"
 summary: "September 1982 massacre of Palestinian refugees in Beirut by Lebanese Christian Phalangists, facilitated by Israeli forces under Defense Minister Ariel Sharon."
+start: 1982-09-16
+end: 1982-09-17
+location: "Beirut, Lebanon"
 ---
 The [[Sabra and Shatila massacres]] occurred on September 16 and 17, 1982, in the [[Sabra and Shatila refugee camps]] in [[Beirut]], [[Lebanon]]. The massacres were carried out by [[Lebanese Christian militias]] (Phalangists) while the camps were surrounded by [[Israel|Israeli]] troops.
 

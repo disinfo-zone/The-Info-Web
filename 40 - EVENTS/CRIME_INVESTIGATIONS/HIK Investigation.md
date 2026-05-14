@@ -10,6 +10,9 @@ tags:
   - Government_Corruption
 category: "Crime Investigation"
 summary: "Dutch police investigation launched in 1994 into child trafficking networks centered on Lothar Glandorf's boy brothels in Rotterdam, revealing connections to senior Dutch government officials."
+start: 1994
+end: 1995
+location: "Rotterdam, Netherlands"
 ---
 
 ### Overview

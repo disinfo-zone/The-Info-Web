@@ -6,6 +6,8 @@ tags:
   - Iraq
 category: "Major Conflict"
 summary: "1981 Israeli air strike on the Iraqi nuclear reactor at Osirak near Baghdad, carried out with U.S.-supplied F-16s and condemned internationally."
+date: 1981-06-07
+location: "Osirak, Iraq"
 ---
 Osirak bombing refers to the Israeli air strike on the Iraqi nuclear reactor at Osirak, twelve miles southeast of Baghdad, on June 7, 1981. The raid was carried out by Israeli F-16s, which had been authorized for purchase by [[Israel]] in 1975 for "defensive purposes only."[^1]
 

@@ -6,6 +6,8 @@ tags:
   - USA
 category: "Intelligence Scandal"
 summary: "1976 scandal involving bribes paid by Lockheed Aircraft Company to Israeli Defense Minister Shimon Peres and other international figures."
+date: 1976
+location: "Israel"
 ---
 The [[Lockheed bribe scandal]] refers to a series of bribery incidents involving the [[Lockheed Aircraft Company]]. In [[Israel]], a specific instance of this scandal came to light in 1976 through an intercepted telegram.[^1]
 

@@ -6,6 +6,8 @@ tags:
   - Israel
 category: "Terrorism"
 summary: "1976 hijacking of an Air France jet by the Baader-Meinhof Group, ended by a daring Israeli commando rescue raid at Entebbe Airport in Uganda."
+date: 1976-06-27
+location: "Entebbe Airport, Uganda"
 ---
 The [[Entebbe hijacking]] occurred on June 27, 1976, when an [[Air France]] jet flying from [[Tel Aviv]] to [[Paris]] was hijacked by members of the [[Baader-Meinhof Group]]. The plane was diverted to [[Athens]] and then landed at [[Entebbe Airport]] in [[Uganda]]. Non-[[Israel|Israeli]] passengers were released, but [[Israel|Israeli]] and other passengers remained captive.[^1]
 

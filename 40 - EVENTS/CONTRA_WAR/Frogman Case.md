@@ -10,6 +10,8 @@ tags:
   - 1980s
   - Dark_Alliance_Investigation
 summary: Largest cocaine bust in West Coast history at the time (January 1983), which exposed direct links between Contra drug traffickers in San Francisco and the CIA, connections suppressed through direct CIA intervention.
+date: 1983-01-17
+location: "San Francisco, California"
 ---
 The Frogman Case was the largest cocaine bust in the history of the [[United States]] West Coast at the time of its occurrence in January 1983. The case exposed direct links between cocaine traffickers in [[San Francisco]] and the [[Contras|Contra]] movement in [[Central America]], connections that were suppressed through [[Central Intelligence Agency]] intervention.[^1]
 

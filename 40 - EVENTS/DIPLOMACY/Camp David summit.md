@@ -4,6 +4,9 @@ tags:
   - Diplomacy
 category: Diplomacy
 summary: 1978 meetings between Egyptian President Sadat and Israeli Prime Minister Begin, facilitated by Jimmy Carter, leading to the Egypt-Israel peace treaty.
+start: 1978-09-05
+end: 1978-09-17
+location: "Camp David, Maryland"
 ---
 Camp David summit was a series of meetings between Egyptian President [[Anwar Sadat]] and Israeli Prime Minister [[Menachem Begin]], facilitated by U.S. President [[Jimmy Carter]], in September 1978. The summit led to the [[Camp David Accords]], which were seen as a significant step towards peace in the [[Middle East]]. Some American intelligence officials suspected that Carter's decision to provide [[Israel]] with KH-11 satellite photographs was a reward for Begin's success at this summit.[^1]
 

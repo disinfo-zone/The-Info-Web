@@ -5,6 +5,9 @@ tags:
   - Middle East
 category: "Major Conflict"
 summary: "1973 Arab-Israeli War that began with coordinated Egyptian and Syrian attacks, leading to a nuclear alert and reshaping regional power dynamics."
+start: 1973-10-06
+end: 1973-10-25
+location: ["Sinai Peninsula", "Golan Heights"]
 ---
 The Yom Kippur War, also known as the 1973 Arab–Israeli War, began on Saturday, October 6, 1973, when [[Egypt]] attacked across the [[Sinai]] and [[Syria]] invaded the [[Golan Heights]]. The initial days of the war were a stunning rout for [[Israel]], with significant losses in tanks and aircraft. Egyptian forces breached the Bar-Lev defense line in the [[Sinai]], and Syrian forces advanced to the edge of [[Galilee]].[^1]
 

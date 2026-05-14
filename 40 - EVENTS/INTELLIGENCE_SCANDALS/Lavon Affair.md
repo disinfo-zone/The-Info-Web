@@ -6,6 +6,8 @@ tags:
   - Scandal
 category: "Intelligence Scandal"
 summary: "Covert 1954 Israeli operation in Egypt involving bombings of American, British, and Egyptian targets designed to damage Western-Egyptian relations."
+date: 1954
+location: "Egypt"
 ---
 The Lavon Affair was a covert Israeli operation in [[Egypt]] in mid-1954, involving an Israeli spy ring that bombed and sabotaged American, British, and Egyptian targets. The goal of these bombings was to derail pending British and American negotiations and possible rapprochement with the [[Gamal Abdel Nasser|Nasser]] government, aiming to keep [[Egypt]] isolated from Western powers.[^1]
 

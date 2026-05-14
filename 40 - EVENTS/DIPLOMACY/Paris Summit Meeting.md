@@ -4,6 +4,8 @@ tags:
   - Diplomacy
 category: Diplomacy
 summary: 1960 summit between Eisenhower and Khrushchev that collapsed after the U-2 Incident, derailing a potential US-Soviet detente.
+date: 1960
+location: "Paris, France"
 ---
 The Paris Summit Meeting was scheduled for a few weeks after the [[U-2 Incident]] in May 1960, but was ruined by [[Nikita Khrushchev]]'s rage at the incident, which caught the White House in a series of lies. This event led [[Dwight D. Eisenhower|Eisenhower]] to order an end to all reconnaissance flights over [[Russia]].[^1]
 

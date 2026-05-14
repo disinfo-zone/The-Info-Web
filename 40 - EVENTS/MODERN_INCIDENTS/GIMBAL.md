@@ -1,6 +1,8 @@
 ---
 category: "Modern Incident"
 summary: "Declassified UAP video captured by an F/A-18 Super Hornet crew showing an object rotating against the wind, released by the Pentagon in 2017."
+date: 2015-01-21
+location: "Atlantic Ocean, off East Coast of the United States"
 ---
 The [[GIMBAL]] is one of the three declassified [[Unidentified Anomalous Phenomena|UAP]] videos released by the [[Pentagon]] in 2017. The video, which was captured by the crew of an F/A-18 Super Hornet from the [[USS Roosevelt]] Carrier Strike Group in 2015, shows a UAP exhibiting flight characteristics that are not possible with any known aircraft.[^1]
 

@@ -5,6 +5,9 @@ tags:
   - Middle East
 category: "Major Conflict"
 summary: "1967 conflict in which Israel launched a preemptive strike against Egypt, Syria, and Jordan, capturing the Sinai, Gaza, West Bank, and Golan Heights."
+start: 1967-06-05
+end: 1967-06-10
+location: "Middle East"
 ---
 The Six-Day War was a conflict fought between [[Israel]] and a coalition of Arab states (primarily [[Egypt]], [[Syria]], and [[Jordan]]) from June 5 to June 10, 1967. [[Israel]] launched a preemptive strike against the increasing Arab buildup in the [[Sinai]] and achieved a stunning victory, humiliating the Soviet-supplied Arabs and seizing [[Egypt]]'s [[Sinai Peninsula]], the [[Gaza Strip]], [[Jordan]]'s [[West Bank]], and [[Syria]]'s [[Golan Heights]]. The war also resulted in the Old City of [[Jerusalem]] coming under Jewish control.[^1]
 

@@ -6,6 +6,9 @@ tags:
   - Israel
 category: "Terrorism"
 summary: "1972 attack on Israeli Olympic athletes in Munich by Black September, leading to retaliatory assassinations by Israeli intelligence."
+start: 1972-09-05
+end: 1972-09-06
+location: "Munich, West Germany"
 ---
 The [[Munich Olympic Massacre]] refers to the attack that took place during the 1972 Summer Olympics in [[Munich]], [[West Germany]], where 11 [[Israel|Israeli]] Olympic team members were taken hostage and eventually killed by the Palestinian terrorist group [[Black September]].[^1]
 

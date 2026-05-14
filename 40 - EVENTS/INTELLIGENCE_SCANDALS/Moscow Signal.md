@@ -10,6 +10,9 @@ tags:
 description: The Moscow Signal was a microwave beam directed at the U.S. Embassy in Moscow by the Soviet Union, suspected of being an electromagnetic weapon.
 category: "Intelligence Scandal"
 summary: "Microwave beam directed at the U.S. Embassy in Moscow by the Soviet Union (1956-1976), suspected of being an electromagnetic weapon that spurred U.S. research into psychotronics."
+start: 1956
+end: 1976
+location: "Moscow, Soviet Union"
 ---
 
 The [[Moscow Signal]] refers to a microwave beam directed at the [[U.S. Embassy in Moscow]] by the [[Soviet Union]] from 1956 to 1976. Discovered in 1962 by American military engineers, the signal was aimed primarily at the upper floors of the embassy, where the ambassador and top intelligence officials had their offices.[^1]

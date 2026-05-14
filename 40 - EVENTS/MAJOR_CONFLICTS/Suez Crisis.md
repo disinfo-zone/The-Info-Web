@@ -5,6 +5,9 @@ tags:
   - Middle East
 category: "Major Conflict"
 summary: "1956 invasion of Egypt by Israel, France, and Britain to regain control of the Suez Canal, ended by Soviet nuclear ultimatum and U.S. pressure."
+start: 1956-10-29
+end: 1956-11-07
+location: "Egypt"
 ---
 The Suez Crisis, also known as the Second Arab–Israeli War or the Sinai War, was an invasion of [[Egypt]] in late 1956 by [[Israel]], followed by [[France]] and the [[United Kingdom]]. The invasion aimed to regain Western control of the [[Suez Canal]] and remove Egyptian President [[Gamal Abdel Nasser]] from power, who had nationalized the canal in July 1956.[^1]
 

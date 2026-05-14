@@ -12,6 +12,9 @@ tags:
   - PROMIS
   - INSLAW
 summary: "The October Surprise allegation holds that William J. Casey and other figures in Ronald Reagan's 1980 presidential campaign secretly negotiated with Iranian representatives to delay the release of 52 American hostages past Election Day in exchange for promises of arms and release of frozen Iranian assets, with the hostages released minutes after Reagan was sworn in on January 20, 1981."
+start: 1980
+end: 1981
+location: ["Madrid, Spain", "Paris, France"]
 ---
 The **October Surprise** refers to the allegation that senior figures in [[Ronald Reagan]]'s 1980 presidential campaign secretly negotiated with representatives of the Iranian government to delay the release of 52 American hostages held since November 4, 1979, until after Election Day, November 4, 1980. The goal was to deny President [[Jimmy Carter]] a diplomatic triumph -- the freeing of the hostages -- that could have swung the election in Carter's favor. In exchange, the Reagan camp allegedly promised [[Iran]] the release of its frozen assets (approximately $8 billion frozen by Carter) and arms sales via [[Israel]] once Reagan took office. The hostages were released January 20, 1981, minutes after Reagan was sworn in.[^1]
 

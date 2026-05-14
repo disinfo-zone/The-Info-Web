@@ -1,6 +1,8 @@
 ---
 category: "Historical Phenomenon"
 summary: "1983 head-on collision in Yosemite National Park foothills involving a Secret Service vehicle scouting Queen Elizabeth II's motorcade route, killing three agents and revealing allegations of cover-up and corruption."
+date: 1983-03-05
+location: "Mariposa County, California"
 ---
 The [[Queen's Accident]] refers to a head-on collision that occurred on March 5, 1983, in the Yosemite National Park foothills, involving a Mariposa County Sheriff's vehicle and a Secret Service car. The accident took place while scouting Queen Elizabeth II's motorcade route, approximately 25 minutes ahead of her motorcade. Three Secret Service agents, [[George P. LaBarge]], [[Donald Robinson]], and [[Donald A. Bejcek]], were killed in the collision. Mariposa County Sheriff's Sergeant [[Roderick Sinclair]], who was driving, sustained broken ribs and a fractured knee, while his partner, Deputy [[Rod McKean]], was also present.[^1]
 

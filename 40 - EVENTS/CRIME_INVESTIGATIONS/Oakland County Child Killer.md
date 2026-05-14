@@ -5,9 +5,11 @@ tags:
   - michigan
   - child-killer
   - 1970
-}
 category: "Crime Investigation"
 summary: "Unsolved murders of four children in Oakland County, Michigan (1976-1977) that investigators steered away from leads pointing to organized pedophile rings."
+start: 1976
+end: 1977
+location: "Oakland County, Michigan"
 ---
 
 ### Overview

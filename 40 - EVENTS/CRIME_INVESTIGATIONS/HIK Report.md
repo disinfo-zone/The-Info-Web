@@ -7,6 +7,9 @@ tags:
   - cover-up
 category: "Crime Investigation"
 summary: "Official report from the Dutch HIK investigation into the Manuel Schadwald disappearance and the Rotterdam child trafficking network, revealing a government cover-up."
+start: 1994
+end: 1995
+location: "Rotterdam, Netherlands"
 ---
 
 ### Origins of the Investigation

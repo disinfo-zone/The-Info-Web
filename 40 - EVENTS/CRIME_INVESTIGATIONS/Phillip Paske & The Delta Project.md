@@ -6,6 +6,9 @@ tags:
   - 1970s
 category: "Crime Investigation"
 summary: "Investigation into John David Norman's Delta Project, a boy trafficking scheme operated from inside Cook County Jail using jail printing facilities to distribute materials."
+start: 1976
+end: 1978
+location: "Chicago, Illinois"
 ---
 
 From inside Cook County jail, [[John David Norman]] was inexplicably granted access to the publishing, printing, and mailing facilities required to produce and distribute literature for his [[Odyssey Network]] under its new name The Delta Project. This was nothing but a fresh coat of paint given to the same boy trafficking scheme he had deployed through the mail for years. As reported by the Chicago Tribune in a retrospective article from 1977, the Cook County state's attorney's office and Chicago police stated that Norman's Delta Project was born in Cook County Jail while he was awaiting trial, and unknown to jail officials Norman used jail printing facilities to send out three newsletters about the project to homosexual clients throughout the country and to those who answered his advertisements in pornographic publications.

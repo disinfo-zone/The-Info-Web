@@ -8,6 +8,8 @@ tags:
   - CIA
 category: "Intelligence Scandal"
 summary: "Fascist coup attempt in Italy in 1970 orchestrated by Junio Valerio Borghese with links to Operation Gladio and intelligence services."
+date: 1970
+location: "Italy"
 ---
 The Golpe Borghese was a fascist coup attempt orchestrated in Italy in 1970 by [[Junio Valerio Borghese]], an aristocrat known as the Black Prince of the Borghese family. The plot represented a direct effort to overthrow the Italian Republic and install an authoritarian regime, carried out by a figure whose postwar career had been carefully nurtured by American intelligence. Its failure did not prevent the ideological and organizational currents behind it from resurfacing throughout the following decades, culminating in the exposure of the P2 Masonic lodge and infiltrating the networks of elite criminality later documented across Europe.
 

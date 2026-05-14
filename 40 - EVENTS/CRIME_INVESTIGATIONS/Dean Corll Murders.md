@@ -7,6 +7,9 @@ tags:
   - 1970s
 category: "Crime Investigation"
 summary: "Mass murder of 28 young men in Houston, Texas (1970-1973) that uncovered connections to organized child trafficking and pornography networks with apparent institutional protection."
+start: 1970
+end: 1973
+location: "Houston, Texas"
 ---
 
 ### Overview

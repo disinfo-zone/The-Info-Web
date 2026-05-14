@@ -8,6 +8,9 @@ tags:
   - DuPont
 category: "Historical Phenomenon"
 summary: "1933 alleged conspiracy by Wall Street financiers including the DuPont family to overthrow President Roosevelt and install a fascist dictatorship."
+start: 1933
+end: 1934
+location: "United States"
 ---
 
 In 1933 members of the DuPont family became involved in what has since been euphemistically termed the Business Plot, a conspiracy to replace the presidency of Franklin D. Roosevelt with a fascist dictatorship. The scheme represented an overt attempt by segments of American industrial and financial elites to impose an authoritarian regime upon the United States, drawing on the same reactionary currents then ascendant across Europe. [[Francis Shelden|Shelden]] and his [[North Fox Island]] operation intersected with this same nexus of old money and impunity.

@@ -9,6 +9,8 @@ tags:
   - Cover-up
 category: "Crime Investigation"
 summary: "Classified dossier compiled under Judge Connerotte containing testimonies from witnesses X1-X8 alleging elite child abuse networks in Belgium linked to Operation Gladio."
+date: 1996
+location: "Belgium"
 ---
 The X-Dossier was a classified investigative dossier compiled by a team led by Prosecutor [[Michel Bourlet]] under Judge [[Jean-Marc Connerotte]] in September 1996, containing testimonies from eight witnesses designated X1 through X8 alleging elite abuse networks in Belgium. The witnesses described systematic sexual violence against children committed by politicians, magistrates, barons, and royalty, many linked to Europe's neo-fascist movement and [[Operation Gladio]]. When the classified X-Dossier was leaked to Flemish journalists in 1997, its contents were published in a 1999 book entitled "The X-Files: What Belgium Was Not Supposed to Know About the Dutroux Affair."[^1]
 

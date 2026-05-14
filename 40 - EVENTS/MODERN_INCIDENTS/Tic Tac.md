@@ -1,6 +1,8 @@
 ---
 category: "Modern Incident"
 summary: "UAP encountered by the USS Nimitz Carrier Strike Group in November 2004, captured on video and designated 'Tic Tac' for its shape, released by the Pentagon in 2017."
+date: 2004-11-14
+location: "Pacific Ocean, off San Diego, California"
 ---
 The [[Tic Tac]] refers to a specific [[Unidentified Anomalous Phenomena|UAP]] encountered by the [[USS Nimitz]] Carrier Strike Group in November 2004. The object was designated the "Tic Tac" by the pilots and crew due to its resemblance to the white, oblong candy. The series of encounters is considered a cornerstone case in modern UAP investigation due to the high-fidelity data collected by multiple military sensor platforms and the corroborating testimony from numerous highly credible and trained observers.[^1]
 

@@ -1,6 +1,8 @@
 ---
 category: "Terrorism"
 summary: "1988 bombing of Pan Am Flight 103 over Lockerbie, Scotland, connecting international terrorism to drug trafficking and intelligence operations."
+date: 1988-12-21
+location: "Lockerbie, Scotland"
 ---
 Pan Am Flight 103 was a passenger flight that exploded over Lockerbie, Scotland, in 1988. The incident became a focal point for investigations into international terrorism, drug trafficking, and intelligence operations.[^1]
 

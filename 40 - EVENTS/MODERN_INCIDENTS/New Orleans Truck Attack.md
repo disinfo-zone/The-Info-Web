@@ -9,6 +9,8 @@ tags:
 description: On January 1, 2025, Shamsud-Din Jabbar drove a rented truck into a crowd on Bourbon Street, New Orleans, firing an AR-style rifle. He killed 15 people, injured 35, and was later killed by police. The FBI declared it an act of terrorism. Pipe bombs and ISIS ties were also discovered.
 category: "Modern Incident"
 summary: "January 1, 2025 terrorist attack in which Shamsud-Din Jabbar drove a truck into crowds on Bourbon Street in New Orleans, killing multiple people."
+date: 2025-01-01
+location: "New Orleans, Louisiana"
 ---
 On January 1, 2025 at approximately 3:15 am, [[Shamsud-Din Jabbar]] bypassed police barriers with a rented Ford F-150 Lightning (electric vehicle). He proceeded to drive for three blocks into dozens of people along Bourbon Street in New Orleans while firing with an AR style rifle. He eventually crashed into a boom lift and engaged law enforcement with fire striking two officers before being killed in return fire. 15 people, including Jabbar, were killed and ~35 others were injured (primarily via the truck, one person died from a gunshot wound).
 

@@ -6,6 +6,8 @@ tags:
   - Israel
 category: "Major Conflict"
 summary: "1967 attack on the U.S. Navy intelligence ship USS Liberty by Israeli forces during the Six-Day War, killing 34 crew members and sparking enduring controversy."
+date: 1967-06-08
+location: "Eastern Mediterranean Sea"
 ---
 The USS Liberty Incident refers to the attack on the U.S. Navy intelligence ship USS Liberty by Israeli forces on June 8, 1967, the third day of the [[Six-Day War]]. The Liberty, flying the American flag, had been monitoring [[Middle East]] communications traffic in international waters off the coast of [[Israel]] and had been identified as an American ship before the attack. The incident resulted in the deaths of thirty-four American servicemen and wounded 171 others.[^1]
 

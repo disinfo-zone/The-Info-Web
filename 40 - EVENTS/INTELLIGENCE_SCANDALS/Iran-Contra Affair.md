@@ -12,6 +12,9 @@ category: "Intelligence Scandal"
 created: 2024-04-25
 updated: 2026-05-01
 summary: "Political scandal involving the secret sale of arms to Iran to fund the Nicaraguan Contras in violation of the Boland Amendment, leading to indictments of multiple CIA and NSC officials."
+start: 1985
+end: 1987
+location: ["United States", "Iran", "Nicaragua"]
 ---
 The [[Iran-Contra Affair]] was a political scandal in the [[United States]] that came to light between 1985 and 1987, involving the secret sale of arms to [[Iran]] by the [[Ronald Reagan|Reagan]] administration in exchange for American hostages held in [[Lebanon]], with the profits illegally diverted to fund the [[Contras]] in [[Nicaragua]] in violation of congressional prohibitions. The scandal exposed the agency's direct management of the Contra war and the National Security Council's transformation into an operational intelligence agency based inside the White House.[^1][^2]
 

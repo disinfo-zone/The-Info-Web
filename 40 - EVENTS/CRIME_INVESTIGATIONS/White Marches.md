@@ -8,6 +8,8 @@ tags:
   - Cover-up
 category: "Crime Investigation"
 summary: "Mass demonstrations in Belgium (October 1996) sparked by the politically motivated removal of investigating magistrate Jean-Marc Connerotte from the Dutroux case."
+date: 1996
+location: "Belgium"
 ---
 
 The White Marches were a series of mass demonstrations held in Belgium during October 1996, sparked by the removal of investigating magistrate [[Jean-Marc Connerotte]] from the [[Marc Dutroux]] case. Connerotte had been replaced after attending a public function in support of Dutroux's victims, where he ate a plate of spaghetti, an act his superiors used as a pretext to remove him on the grounds that he had compromised his impartiality by socializing with victims' families. The transparently political nature of this decision ignited public fury, leading to the largest protests Belgium had seen in decades.

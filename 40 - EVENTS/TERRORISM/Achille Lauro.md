@@ -5,6 +5,8 @@ tags:
   - Italy
 category: "Terrorism"
 summary: "1985 cruise ship attack described as an Israeli black propaganda operation designed to portray Palestinians as terrorists."
+date: 1985-10-07
+location: "Mediterranean Sea"
 ---
 The [[Achille Lauro]] was a cruise ship that was attacked in 1985. This event is described as an [[Israel|Israeli]] "black" propaganda operation designed to portray Palestinians as deadly and cutthroat.[^1]
 

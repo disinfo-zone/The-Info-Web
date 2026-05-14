@@ -6,6 +6,8 @@ tags:
   - contra-war
   - Dark_Alliance_Investigation
 summary: The Bay of Pigs invasion was a failed 1961 CIA operation to overthrow Fidel Castro whose veterans became key operatives in Contra operations and drug trafficking networks during the 1980s.
+date: 1961-04-17
+location: "Cuba"
 ---
 The Bay of Pigs invasion was a failed 1961 [[Central Intelligence Agency]] operation to overthrow [[Fidel Castro]] in [[Cuba]] whose veterans became key operatives in Contra operations and drug trafficking networks during the 1980s. When the CIA needed a secret base to prepare for the invasion, Nicaraguan dictator [[Anastasio Somoza]] provided it. "The U.S. called me, and I agreed to have the bombers leave here and knock the hell out of the installations in Cuba, like a Pearl Harbor deal," Somoza said.[^1]
 

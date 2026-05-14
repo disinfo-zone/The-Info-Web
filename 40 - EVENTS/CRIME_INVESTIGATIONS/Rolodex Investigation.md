@@ -10,6 +10,9 @@ tags:
   - Joris_Demmink
 category: "Crime Investigation"
 summary: "Dutch police inquiry (1997-1998) into a callboy service catering to Dutch justice officials, exposing connections between child trafficking networks and senior government figures."
+start: 1997
+end: 1998
+location: "Amsterdam, Netherlands"
 ---
 
 ### Overview
