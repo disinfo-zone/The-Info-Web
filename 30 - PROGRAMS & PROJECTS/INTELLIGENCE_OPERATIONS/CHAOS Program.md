@@ -5,6 +5,7 @@ tags:
   - Intelligence
 category: "Intelligence Operation"
 summary: "The CHAOS Program was a highly secret Central Intelligence Agency operation. It involved the Agency's purchase of a Washington D.C."
+location: "Washington, D.C."
 ---
 The CHAOS Program was a highly secret [[Central Intelligence Agency|CIA]] operation. It involved the Agency's purchase of a [[Washington, D.C.]] trash collection company, which had contracts to pick up garbage at various Third World embassies, including the Israeli embassy. The trash was systematically sorted and analyzed for any possible intelligence. [[James Jesus Angleton]] was a sponsor of this program.[^1]
 

@@ -10,6 +10,9 @@ tags:
   - DoJ
   - Software
 summary: "The INSLAW Affair was a protracted legal and political scandal arising from allegations that the U.S. Department of Justice stole the PROMIS case management software from its developer, drove the company into bankruptcy, and distributed the software internationally, with intelligence agencies reportedly embedding a surveillance backdoor."
+start: 1982
+end: 1998
+location: "Washington, D.C."
 ---
 The INSLAW Affair centers on [[INSLAW]], a Washington, D.C. software company owned by [[Bill Hamilton]] and [[Nancy Hamilton]], and their claim that the [[Department of Justice]] deliberately stole their [[PROMIS]] (Prosecutor's Management Information System) software, drove the company into bankruptcy, and distributed the software to domestic and foreign intelligence agencies, some versions allegedly fitted with a hidden surveillance backdoor capable of tracking money flows through international banking systems including [[CHIPS]] and [[SWIFT]].[^4]
 

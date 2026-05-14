@@ -9,6 +9,8 @@ tags:
 description: The Great Skill Program (GSP) identifies and develops Army recruits into soldier spies for HUMINT, CI, and Technical Intelligence. Participants are removed from standard tracking systems, allowing flexible, secretive assignments to high-security Special Access Programs, often operating without traditional military identifiers.
 category: "Psi Research Program"
 summary: "Great Skill Program (GS or GSP) is a secretive internal U.S. Army program to identify promising recruits and help to develop them into soldier spies."
+start: 1947
+location: "U.S. Army"
 ---
 Great Skill Program (GS or GSP) is a secretive internal [[U.S. Army]] program to identify promising recruits and help to develop them into soldier spies. The focus is on Human Intelligence (HUMINT), Counterintelligence (CI), and Technical Intelligence[^2].
 

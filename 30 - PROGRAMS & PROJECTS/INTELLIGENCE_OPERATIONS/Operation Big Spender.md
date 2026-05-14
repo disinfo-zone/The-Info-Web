@@ -8,6 +8,8 @@ tags:
   - 1990s
   - Dark_Alliance_Investigation
 summary: FBI sting operation that exposed widespread corruption within the LASD Major Violators squads, resulting in the conviction of multiple narcotics detectives and nearly exposing the CIA-Contra drug connection.
+start: 1989
+location: "Los Angeles, California"
 ---
 Operation Big Spender was an [[Federal Bureau of Investigation]] sting operation launched in the fall of 1989 after L.A. County Sheriff Sherman Block received anonymous complaints that the [[LASD Major Violators|Majors]] squads were stealing from drug dealers. The investigation ultimately exposed widespread corruption within the narcotics units and nearly brought the [[Central Intelligence Agency]]-[[Contras|Contra]] drug connection into open court.[^1]
 

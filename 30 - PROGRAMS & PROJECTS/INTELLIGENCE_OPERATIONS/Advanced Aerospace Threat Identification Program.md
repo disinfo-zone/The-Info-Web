@@ -1,6 +1,9 @@
 ---
 category: "Intelligence Operation"
 summary: "The Advanced Aerospace Threat Identification Program (AATIP) was a clandestine Pentagon program that investigated Unidentified Anomalous Phenomena (UAP)."
+start: 2007
+end: 2012
+location: "Defense Intelligence Agency"
 ---
 The [[Advanced Aerospace Threat Identification Program]] (AATIP) was a clandestine [[Pentagon]] program that investigated [[Unidentified Anomalous Phenomena]] (UAP). The program, which ran from 2007 to 2012, was the successor to the [[Advanced Aerospace Threat Identification Program]] (AAWSAP).[^1]
 

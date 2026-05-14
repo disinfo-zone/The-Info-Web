@@ -10,6 +10,8 @@ tags:
   - VIP_Pedophile_Network
 category: "Intelligence Operation"
 summary: "Operation Yewtree was a Metropolitan Police investigation launched in early October 2012 following the death of BBC presenter Jimmy Savile."
+start: 2012
+location: "Metropolitan Police, London"
 ---
 Operation Yewtree was a Metropolitan Police investigation launched in early October 2012 following the death of [[BBC]] presenter [[Jimmy Savile]]. The investigation began after ITV aired allegations against Savile publicly, leading to what was officially called an investigation into Savile, but actually focused on the BBC and his associates who could still face prosecution. The operation culminated from ongoing probes into suspected child abuse rings linked to the BBC, with the investigation into [[Chris Denning]] serving as the genesis to these probes[^1].
 

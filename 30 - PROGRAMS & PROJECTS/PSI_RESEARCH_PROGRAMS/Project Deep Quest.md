@@ -10,6 +10,8 @@ tags:
 description: Project Deep Quest was a unique psychic functioning experiment conducted in 1977, involving remote viewing to locate an underwater shipwreck from a submersible.
 category: "Psi Research Program"
 summary: "Project Deep Quest was a unique psychic functioning experiment conducted in 1977, involving Remote Viewing to locate an underwater shipwreck from a submersible."
+date: 1977
+location: "Catalina Island, California"
 ---
 
 [[Project Deep Quest]] was a unique psychic functioning experiment conducted in 1977, involving [[Remote Viewing]] to locate an underwater shipwreck from a submersible. It was a collaborative effort between [[Stephan Schwartz]], [[Hal Puthoff]], [[Dale Graff]], and psychics [[Ingo Swann]] and [[Hella Hammid]].[^1]

@@ -9,6 +9,8 @@ tags:
 description: PROMIS, a case management software developed by INSLAW in the 1970s, faced controversy after being allegedly stolen by the U.S. Justice Department. It became central to conspiracy theories involving espionage, backdoors, and international proliferation, with ties to intelligence agencies and global criminal activities.
 category: "Software Project"
 summary: "In 1969, US Attorney Thomas A. Flannery perceived an urgent need for new techniques for dealing with the overwhelming amount of cases going through the U.S. Attorney's office."
+start: 1971
+location: "Washington, D.C."
 ---
 **PROMIS** (**Prosecutor's Management Information System**) was a pioneering case management software system developed in the 1970s and 80s by [[INSLAW|The Institute for Law and Social Research]] (INSLAW). The software was originally designed to help the [[U.S. Attorney's office]] in DC automate and streamline their case management processes. This expanded across the country and internationally. However, it later became embroiled in controversy, theft, and conspiracy theories.
 ### Origins and Development

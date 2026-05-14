@@ -1,6 +1,8 @@
 ---
 category: "Historical Program"
 summary: "The Dimona facility, officially known as the Negev Nuclear Research Center, stands as a deeply clandestine and pivotal complex within Israel's national security apparatus, nestled in the arid Negev Desert south of Jerusalem."
+start: 1958
+location: "Negev Desert, Israel"
 ---
 The [[Dimona]] facility, officially known as the Negev Nuclear Research Center, stands as a deeply clandestine and pivotal complex within [[Israel]]'s national security apparatus, nestled in the arid [[Negev Desert]] south of [[Jerusalem]]. Its existence and operations are central to [[Israel]]'s undeclared nuclear weapons program, embodying the nation's commitment to [[The Samson Option (GFE)]], a doctrine of last resort that envisions massive nuclear retaliation in the face of an existential threat. This facility is not merely a research center but a fully operational industrial complex dedicated to the production of weapons-grade plutonium and the development of advanced nuclear armaments.
 

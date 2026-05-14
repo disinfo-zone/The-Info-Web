@@ -10,6 +10,8 @@ tags:
 description: Project Pandora was a classified U.S. research program initiated by ARPA to duplicate the effects of the Moscow Signal and study the biological effects of microwave radiation.
 category: "Historical Program"
 summary: "Project Pandora was a classified U.S. research program initiated by the Advanced Research Projects Agency (now DARPA) in response to the Moscow Signal, a microwave beam directed at the U.S. Embassy in Moscow by the Soviet Union."
+start: 1965
+location: "Walter Reed Army Institute of Research"
 ---
 [[Project Pandora]] was a classified U.S. research program initiated by the [[Advanced Research Projects Agency|ARPA]] (now [[DARPA]]) in response to the [[Moscow Signal]], a microwave beam directed at the U.S. Embassy in Moscow by the [[Soviet Union]]. The project's primary goal was to duplicate the effects of the Moscow Signal and study the biological effects of microwave radiation.[^1]
 

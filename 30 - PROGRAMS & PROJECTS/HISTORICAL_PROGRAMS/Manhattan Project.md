@@ -5,6 +5,8 @@ tags:
   - World War II
 category: "Historical Program"
 summary: "The Manhattan Project was a top-secret research and development undertaking by the United States with the support of the United Kingdom and Canada during World War II. Its primary objective was to produce the first nuclear weapons. J."
+start: 1942
+end: 1947
 ---
 The [[Manhattan Project]] was a top-secret research and development undertaking by the [[United States]] with the support of the [[United Kingdom]] and [[Canada]] during World War II. Its primary objective was to produce the first nuclear weapons. [[J. Robert Oppenheimer]] was the scientific director of the project, and [[John von Neumann]] was also a key figure.[^1]
 

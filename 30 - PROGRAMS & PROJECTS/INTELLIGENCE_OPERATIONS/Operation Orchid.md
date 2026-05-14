@@ -8,6 +8,9 @@ tags:
   - Elm_Guest_House
 category: "Intelligence Operation"
 summary: "Operation Orchid was a Scotland Yard investigation into Sidney Cooke and his gang of pedophiles conducted during the 1980s."
+start: 1989
+end: 1992
+location: "Metropolitan Police, London"
 ---
 Operation Orchid was a Scotland Yard investigation into [[Sidney Cooke]] and his gang of pedophiles conducted during the 1980s. During the investigation it was learned that one of [[Sidney Cooke|Cooke]]'s accomplices named Lennie Smith had been a rent boy in the West End thought to have been linked to the [[Elm Guest House]]. When detectives checked the original case files in 2014 to see if any further links between [[Sidney Cooke|Cooke]]'s gang and the [[Elm Guest House]] had been discovered, they found the files pertaining to that aspect of the investigation were missing.[^1]
 

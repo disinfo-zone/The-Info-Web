@@ -16,6 +16,8 @@ tags:
 description: Project MKUltra was a top-secret, illegal human experimentation program designed and undertaken by the U.S. Central Intelligence Agency (CIA).
 category: "Historical Program"
 summary: "Project MKUltra was a top-secret, illegal human experimentation program designed and undertaken by the Central Intelligence Agency."
+start: 1953
+end: 1973
 ---
 [[Project MKUltra]] was a top-secret, illegal human experimentation program designed and undertaken by the [[Central Intelligence Agency|CIA]]. It involved the use of various methods, including drugs like LSD, hypnosis, and other psychological manipulation techniques, to develop mind-control capabilities. The program sought to discover effective methods of controlling human behavior to create brainwashed operatives capable of carrying out objectives unwittingly, thereby obtaining perfect operational security in human intelligence assets, particularly assassins.[^1][^2]
 
