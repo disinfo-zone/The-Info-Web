@@ -3,6 +3,9 @@ category: "Other"
 tags:
   - Person
 summary: "Avraham Shalom was the director of Shin Bet, Israel's internal security agency."
+born: 1928-07-07
+died: 2014-06-19
+location: "Vienna, Austria"
 ---
 
 Avraham Shalom was the director of [[Shin Bet]], [[Israel]]'s internal security agency. He was forced to resign his post in late June 1984 due to cover-up charges in connection with the Shin Bet killing in 1984 of two Palestinian hijackers while in custody. Shalom was part of a six-man Israeli delegation that arrived in [[Washington, D.C.]] in August 1986 to resolve the [[Jonathan Pollard]] affair. He, along with [[Ram Caspi]] and [[Hanan Bar-on]], had been appointed by [[Shimon Peres]] immediately after Pollard's arrest to conduct an internal investigation. They reported within a week that Pollard was part of a rogue intelligence-gathering unit that operated without any government awareness.[^1]

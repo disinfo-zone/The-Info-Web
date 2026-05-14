@@ -3,6 +3,8 @@ category: "Other"
 tags:
   - Person
 summary: "Jill Robinson was a 12-year-old girl abducted in Oakland County, Michigan."
+died: 1976-12-22
+location: "Birmingham, Michigan"
 ---
 
 Jill Robinson was a 12-year-old girl abducted in Oakland County, Michigan. She was one of four victims attributed to the [[Oakland County Child Killer]] between February 1976 and March 1977. All victims, including Jill Robinson, shared physical characteristics such as shoulder-length hair and fair complexions, which investigators noted as potential selection criteria by the perpetrator.[^1]

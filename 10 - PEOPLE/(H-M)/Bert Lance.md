@@ -7,6 +7,9 @@ tags:
   - BCCI
   - Banking
 summary: "T. Bertram 'Bert' Lance was Jimmy Carter's first Director of the Office of Management and Budget, who resigned in 1977 amid a congressional investigation into banking improprieties, and subsequently became the crucial intermediary who introduced Agha Hasan Abedi to Clark Clifford and facilitated BCCI's covert entry into the U.S. banking market."
+born: 1931-06-03
+died: 2013-08-15
+location: "Gainesville, Georgia"
 ---
 
 T. Bertram (Bert) Lance was President [[Jimmy Carter]]'s budget director and former chairman of [[National Bank of Georgia]].[^1]

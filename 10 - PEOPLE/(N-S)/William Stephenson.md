@@ -10,6 +10,9 @@ tags:
   - Nazi
   - Occult
 summary: "Sir William Stephenson (1896–1989), famously known as 'Intrepid' by Winston Churchill, was a Canadian intelligence officer who headed British Intelligence's operational arm in America, the British Security Coordination Office."
+born: 1897-01-23
+died: 1989-01-31
+location: "Winnipeg, Manitoba"
 ---
 
 Sir William Stephenson (1896–1989), famously known as "Intrepid" by [[Winston Churchill]], was a Canadian intelligence officer who headed [[British Intelligence]]'s operational arm in America, the [[British Security Coordination Office]]. This office was disguised as part of the British Passport Control Office in Rockefeller Center, [[New York City]][^1].

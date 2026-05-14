@@ -9,6 +9,9 @@ tags:
   - Israel
   - General
 summary: "Ariel Sharon was an Israeli General."
+born: 1928-02-26
+died: 2014-01-11
+location: "Kfar Malal, British Mandate Palestine"
 ---
 
 # Ariel Sharon

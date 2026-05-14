@@ -5,6 +5,7 @@ tags:
   - Belgium
   - Dutroux
 summary: "Bernard Weinstein, born in France, relocated to Belgium in the early 1990s and became a close associate of Marc Dutroux in criminal activities centered on auto theft and child trafficking."
+location: "France"
 ---
 
 Bernard Weinstein, born in France, relocated to Belgium in the early 1990s and became a close associate of [[Marc Dutroux]] in criminal activities centered on auto theft and child trafficking. A drifter with a record for petty crimes, Weinstein collaborated with Dutroux in late 1995 on a scheme involving the kidnapping of three teenagers who had stolen a truck for them, leading to Dutroux's December arrest when one victim escaped and reported the incident. Prior to this, in November 1995, Weinstein witnessed abuses of captives [[An Marchal]] and [[Eefje Lambrecks]] held upstairs at Dutroux's Marcinelle home, as their basement dungeon contained [[Julie Lejeune]] and [[Melissa Russo]]. Dutroux drugged Weinstein with a sedative during a fishing trip, bound him, and buried him alive at a Sars-la-Buissière property, where his body was exhumed on September 16, 1996, alongside those of An and Eefje, showing signs of asphyxiation from the shallow grave.[^1]

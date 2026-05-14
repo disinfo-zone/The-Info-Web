@@ -6,6 +6,9 @@ tags:
   - Military
   - Stargate
 summary: "Arthur Koestler was a Hungarian-born British novelist, journalist, and critic."
+born: 1905-09-05
+died: 1983-03-01
+location: "Budapest, Hungary"
 ---
 
 Arthur Koestler was a Hungarian-born British novelist, journalist, and critic. He was known for his writings on science, parapsychology, and political philosophy. His 1972 book, *The Roots of Coincidence*, explored the concept of synchronicity and other parapsychological phenomena.[^1]

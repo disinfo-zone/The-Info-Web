@@ -3,6 +3,8 @@ category: "Other"
 tags:
   - Person
 summary: "Mark Stebbins was a 12-year-old boy from Ferndale, Michigan, identified as the first victim in the series of murders attributed to the Oakland County Child Killer."
+died: 1976-02-15
+location: "Ferndale, Michigan"
 ---
 
 Mark Stebbins was a 12-year-old boy from Ferndale, Michigan, identified as the first victim in the series of murders attributed to the [[Oakland County Child Killer]]. His case drew significant attention due to the brutal nature of the crime and its connection to a broader pattern of child abductions in the region during the mid-1970s. Stebbins' murder was later linked to suspected pedophile [[Christopher Busch]], whose associate [[Gregory Greene]] confessed that Busch had killed him during a trip to a family cabin near Ess Lake. Evidence at Busch's residence included a handdrawn portrait of a boy in a parka coat screaming, resembling Stebbins, along with ropes cut to lengths matching binding marks on his body.[^1]

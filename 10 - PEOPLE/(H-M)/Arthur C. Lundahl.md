@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Lundahl played a crucial role in the U-2 Spy Plane program, becoming the American government's most listened-to briefing officer."
+born: 1915-04-01
+died: 1992-06-22
+location: "Chicago, Illinois"
 ---
 
 Arthur C. Lundahl was a key figure in U.S. aerial reconnaissance, directing the Photographic Intelligence Division of the [[Central Intelligence Agency|CIA]]. He had analyzed reconnaissance photos for the Navy during World War II and was tasked by President [[Dwight D. Eisenhower]] to address the lack of aerial intelligence on the [[Soviet Union]].[^1]

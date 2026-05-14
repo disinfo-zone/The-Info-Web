@@ -5,6 +5,8 @@ tags:
   - Nuclear
   - Israel
 summary: "Colonel Aviem Sella was an Israeli Air Force officer and a nuclear targeting expert who was implicated in the Jonathan Pollard espionage case, where he worked with Pollard to obtain intelligence from the U.S."
+born: 1946-01-07
+location: "Haifa, British Mandate Palestine"
 ---
 
 Colonel [[Aviem Sella]] was an [[Israel|Israeli]] Air Force officer and a nuclear targeting expert who was implicated in the [[Jonathan Pollard]] espionage case, where he worked with [[Jonathan Pollard|Pollard]] to obtain intelligence from the [[United States|U.S.]] Navy.[^1]

@@ -5,6 +5,9 @@ tags:
   - Belgium
   - Dutroux
 summary: "Melissa Russo, aged eight, disappeared from her hometown of Charleroi, Belgium, on July 22, 1995, alongside her friend Julie Lejeune, who was also eight years old."
+born: 1987
+died: 1996
+location: "Charleroi, Belgium"
 ---
 
 Melissa Russo, aged eight, disappeared from her hometown of Charleroi, Belgium, on July 22, 1995, alongside her friend [[Julie Lejeune]], who was also eight years old. The two girls vanished while riding bicycles near a local school, an incident that prompted immediate police involvement but yielded no leads until the broader investigation into [[Marc Dutroux]] intensified. Dutroux, an unemployed electrician with a history of child-related offenses, had kidnapped them on orders linked to his role in a child trafficking network, holding them captive in a hidden basement dungeon at his residence in Marcinelle, where they endured starvation and abuse for over a year.[^1]

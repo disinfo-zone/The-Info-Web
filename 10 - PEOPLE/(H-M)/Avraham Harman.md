@@ -5,6 +5,9 @@ tags:
   - Nuclear
   - Israel
 summary: "Avraham Harman was the Israeli ambassador to the United States."
+born: 1914-11-07
+died: 1992-02-23
+location: "London, England"
 ---
 
 Avraham Harman was the Israeli ambassador to the [[United States]]. In December 1960, he was called in by [[Christian A. Herter]], then Secretary of State, for an explanation regarding [[Israel]]'s secret nuclear reactor at [[Dimona]]. Harman was forewarned by [[Shimon Peres]] and possibly [[Mossad]] about the impending public discussion of [[Dimona]], and began working on the cover story that would become [[David Ben-Gurion]]'s public stance on the issue.[^1]
