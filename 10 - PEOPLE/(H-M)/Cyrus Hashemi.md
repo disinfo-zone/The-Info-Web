@@ -6,6 +6,9 @@ tags:
   - Israel
   - Military
 summary: "Iranian exile involved in secret arms sales and hostage negotiations during Iran-Contra who became a U.S. Customs informant before being found dead in London under suspicious circumstances."
+born: 1938-12-27
+died: 1986-07-21
+location: "Iran"
 ---
 
 [[Cyrus Hashemi]] was one of the [[Hashemi brothers]], an [[Iran|Iranian]] living in the [[United States|West]] who claimed connections to [[Ayatollah Ruhollah Khomeini|Khomeini's]] son, [[Ahmed Khomeini]]. He was involved in secret arms sales and negotiations concerning the [[United States|American]] hostages in [[Tehran]].[^1]

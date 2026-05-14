@@ -5,6 +5,8 @@ tags:
   - UFO
   - Politician
 summary: "Christopher Mellon served for nearly two decades in the federal government, holding high-level positions in both the executive and legislative branches."
+born: 1957-10-02
+location: "Topeka, Kansas"
 ---
 [[Christopher Mellon]] is a former Deputy Assistant Secretary of Defense for Intelligence and a key strategist in the modern [[Unidentified Anomalous Phenomena]] (UAP) disclosure movement. Coming from a prominent American family (Mellon banking and industrial dynasty), he has leveraged his extensive experience in intelligence and national security to bring the UAP issue to the forefront of the U.S. Congress and the public.[^1]
 

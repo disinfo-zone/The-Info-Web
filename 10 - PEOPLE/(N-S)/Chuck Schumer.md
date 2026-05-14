@@ -5,6 +5,8 @@ tags:
   - UFO
   - Politician
 summary: "In the summer of 2023, Senator Schumer, along with a bipartisan group of senators including Marco Rubio and Mike Rounds, sponsored the UAP Disclosure Act."
+born: 1950-11-23
+location: "Brooklyn, New York, USA"
 ---
 [[Chuck Schumer]] is a United States Senator from New York and the Senate Majority Leader. He has become a leading champion for [[Unidentified Anomalous Phenomena]] (UAP) transparency, sponsoring the historic UAP Disclosure Act of 2023.[^1]
 

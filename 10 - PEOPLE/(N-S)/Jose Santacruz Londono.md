@@ -5,6 +5,9 @@ tags:
   - OrganizedCrime
   - Cartel
 summary: "Londono was a target of a major DEA Centac investigation, which led to his indictment in Los Angeles and New York in 1978."
+born: 1943-10-01
+died: 1996-03-05
+location: "Cali, Colombia"
 ---
 [[Jose Santacruz Londono]] was a key figure in the [[Cali Drug Cartel]], a powerful Colombian drug trafficking organization that, by 1994, controlled a significant portion of the world's cocaine trade. He was often mentioned alongside [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] as a leader of the cartel.[1]
 

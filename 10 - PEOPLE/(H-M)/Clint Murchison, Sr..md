@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Powerful Texas oilman who cultivated relationships with Hoover, Nixon, and Johnson, with business dealings intersecting organized crime figures including the Genovese Crime Family."
+born: 1895-04-11
+died: 1969-06-20
+location: "Tyler, Texas"
 ---
 
 [[Clint Murchison, Sr.]] was a powerful Texas oilman and a significant political figure, described as being cut from the same cloth as [[H.L. Hunt]]. He was the father of [[Clint W. Murchison, Jr.]], a director of [[First Intercontinental Development Corporation|FIDCO]]. Murchison, Sr. was a key organizer of pro-[[Douglas MacArthur|MacArthur]] forces in Texas and an ardent supporter of Senator [[Joseph McCarthy]]'s anti-communist crusade.[^1]

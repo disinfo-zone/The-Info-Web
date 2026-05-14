@@ -3,6 +3,8 @@ category: "Other"
 tags:
   - Person
 summary: "Matthew Alan Livelsberger was born July 22, 1987 in Arizona."
+born: 1987-07-22
+location: "Arizona, USA"
 ---
 
 Matthew Alan Livelsberger was born July 22, 1987 in Arizona. He was raised in Bucyrus, Ohio where he attended Bucyrus High school and graduated in 2005.

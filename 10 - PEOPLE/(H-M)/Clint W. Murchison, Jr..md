@@ -4,6 +4,9 @@ tags:
   - Person
   - OrganizedCrime
 summary: "His family cultivated relationships not only with powerful figures on the far right but also with individuals such as J."
+born: 1923-09-12
+died: 1987-03-30
+location: "Dallas, Texas"
 ---
 
 [[Clint W. Murchison, Jr.]] was a Director of [[First Intercontinental Development Corporation|FIDCO]] and the owner of the Dallas Cowboys NFL football team. He was the son of [[Clint Murchison, Sr.]], a figure described as being cut from the same political cloth as [[H.L. Hunt]], both known for their significant influence and connections.[^1]

@@ -6,6 +6,8 @@ tags:
   - Person
   - RemoteViewer
 summary: "Rajesh Rao is a computational neuroscientist who collaborated with Andrea Stocco at the Institute for Learning and Brain Sciences (I-LABS) at the University of Washington in Seattle."
+born: 1970-07-02
+location: "Madras, India"
 ---
 
 Rajesh Rao is a computational neuroscientist who collaborated with [[Andrea Stocco]] at the [[Institute for Learning and Brain Sciences]] (I-LABS) at the [[University of Washington]] in [[Seattle]]. Their work focuses on [[Synthetic Telepathy]] and direct brain-to-brain communication[^1].

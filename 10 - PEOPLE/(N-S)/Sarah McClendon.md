@@ -5,6 +5,9 @@ tags:
   - Journalist
   - Author
 summary: "McClendon had alerted authorities that Wilcher was missing."
+born: 1910-07-08
+died: 2003-01-08
+location: "Tyler, Texas"
 ---
 [[Sarah McClendon]] was a [[White House]] correspondent and a close friend of [[Paul Wilcher]]. She wrote in her *Washington Report* on July 4, 1993, an article entitled "Death of a Friend," expressing her belief that Wilcher was a "casualty of good citizenship and patriotism."[^1]
 
