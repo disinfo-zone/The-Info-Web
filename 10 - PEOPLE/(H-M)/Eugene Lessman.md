@@ -14,13 +14,13 @@ location: "Dundrum, County Down, Northern Ireland"
 
 **Eugene "Gene" Alden Lessman** was a U.S. Army intelligence officer and an important recruiter for "spooky" work according to [[Luis Elizondo]] in his 2024 book, _Imminent_. Known as Gene, he was also known by the name John James Kielty[^2] and passed away in 2019. Like his father before him, Gene spent much of his career in military intelligence and became a lead recruiter for the Army's "Great Skills" program.[^1]
 
-## Military Service
+### Military Service
 
 Gene served three tours in [[Vietnam|Vietnam]] from December 1966 to 1973[^5], where he served as a [[Green Berets]] in the elite [[Special Operations Group]] (SOG) and was part of the infamous [[Project Phoenix]].[^1] For his service in Vietnam, he received a Purple Heart, Bronze Star, and Air Medal with Valor.[^3]
 
 Following his tours in Vietnam, Gene was posted in Berlin where he ran counter intelligence operations.[^3] After 20 years of distinguished military service, Gene retired from the army and subsequently spent another 20 years in civil service.[^4]
 
-## Intelligence Programs and Remote Viewing
+### Intelligence Programs and Remote Viewing
 
 Gene became deeply involved in the military's psychic espionage programs. He allegedly recruited [[Luis Elizondo]] to the [[Great Skill Program]] to practice [[Remote Viewing]]. According to Elizondo, Gene claimed that "Great Skills" was also called "Grey Fox," though this appears to reference the different [[GRAY FOX]] program within the [[United States Army Intelligence Support Activity]] (USAISA or ISA) under the [[Joint Special Operations Command]] (JSOC).[^1]
 
@@ -38,7 +38,7 @@ Lessman recruited Elizondo into the Great Skills program after identifying him a
 
 Lessman believed that Elizondo had a natural gift for [[Remote Viewing]] and encouraged him to develop his abilities. The skills that Elizondo learned from Lessman would prove to be valuable throughout his career as an intelligence officer.[^1]
 
-## Blog
+### Blog
 
 Gene kept a blog entitled [A Boy from Dundrum](https://boyfromdundrum.blogspot.com/), where he shared personal reflections and memories from his military service.
 

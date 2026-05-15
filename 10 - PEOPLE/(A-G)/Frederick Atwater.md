@@ -28,7 +28,7 @@ When the program became operational and was renamed [[STARGATE PROJECT|Grill Fla
 
 After retiring from the Army, Atwater became the director of research for the [[Monroe Institute]] and then acting director following the death of [[Laurie Monroe]] and finally President in 2006 until his retirement in 2012.
 
-## Publications
+### Publications
 Atwater published or contributed to numerous papers regarding [[Hemi-Sync]] for the [[Monroe Institute]].
 ### Books
 Atwater wrote a book of memoirs released 2001 entitled *Captain of My Ship, Master of My Soul: Living with Guidance* (ISBN-10 1571742476).

@@ -23,7 +23,7 @@ Gardner, along with [[Carl Sagan]], [[Ray Hyman]], [[Paul Kurtz]], and [[James R
 
 Towards the end of his life, Gardner experienced a religious epiphany, openly discussing his belief in a supernatural being or God. He asserted that this belief was not pseudoscience because it could neither be confirmed nor disproved by science or reason, calling it "philosophical theism"[^1].
 
-## Publications
+### Publications
 *   *Fads and Fallacies in the Name of Science* (1952)
 
 ### Footnotes

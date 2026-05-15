@@ -15,7 +15,7 @@ The study noted that it would not be conceptually difficult to imagine the utili
 
 Van Dyke and his co-author, [[M. L. Juncosa]], also highlighted the challenge facing anyone working on such studies, noting that the subject matter "tends to be polarized into uncritical acceptance or total rejection" of fact. They lamented that little progress was likely to be made as long as the research field remained a "childish battle between 'true believers' and 'the incredulous [who] dismiss the matter out of hand'"[^1].
 
-## Publications
+### Publications
 *   "Paranormal Phenomena—Briefing on a Net Assessment Study" (1973, co-authored with M. L. Juncosa)
 
 ### Footnotes

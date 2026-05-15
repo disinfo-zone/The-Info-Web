@@ -11,7 +11,7 @@ summary: "Venezuela is a country in South America whose president, Hugo Chavez, 
 
 [[Venezuela]] is a country in [[South America]] whose president, [[Hugo Chavez]], was a close ally of [[Manuel Zelaya]], the ousted president of [[Honduras]]. Chávez stated he would consider it an "act of war" if there were hostilities against his diplomats and put the armed forces of Venezuela on alert. Chávez reportedly had close ties to [[Iran]] and offered military support to Iran in the event of a war with the [[United States]].[^1]
 
-## Luis Posada Carriles
+### Luis Posada Carriles
 
 Venezuela was where [[Luis Posada Carriles]] was imprisoned for his involvement in the 1976 bombing of a Cuban airliner and from which he escaped before resurfacing at [[Ilopango Airbase|Ilopango Air Base]] in [[San Salvador]] as [[Felix Rodriguez]]'s right-hand man. Posada was sent to Venezuela and began working as an official of the Venezuelan intelligence service, DISIP, while maintaining his [[Central Intelligence Agency]] connections. He was arrested in Venezuela for the Cubana Airlines bombing that killed 73 people but escaped from prison in 1985.[^2]
 

@@ -22,7 +22,7 @@ An expanded version of his story, "The Secret of the Nautilus," was published in
 
 Whether Bergier's story was true or fabricated remains a debate, but it had real-world consequences. The Soviets used the news story to their strategic advantage, with [[Leonid L. Vasilev]], Russia's leading ESP researcher, claiming that Soviet parapsychology research was stimulated by the *Nautilus* reports[^1].
 
-## Publications
+### Publications
 *   "Thought Transfer, Weapon of War" (*Constellation*, 1959)
 *   *Morning of the Magicians* (co-authored with Louis Pauwels)
 

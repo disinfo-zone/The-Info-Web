@@ -18,6 +18,6 @@ accounting, and jail population management conducted by the six jurisdictions th
 - Orange County (Orlando), Florida
 - Middlesex County (New Brunswick), New Jersey
 
-## Operation
+### Operation
 
 This software has been run on a variety of mini and mainframe computers and is compatible with 74 ANS COBOL. In addition, JIS system users are not limited to the design described in this document. The software provides a procedure known as "tailoring". Using an interactive program, an agency can add, delete, or modify data elements or transactions without reprogramming. The model JIS system serves as the starting point for this tailoring.

@@ -25,7 +25,7 @@ He also played a role in the [[STARGATE PROJECT|Grill Flame]] program, particula
 
 After retiring from the military, Alexander joined [[Psi]]'s corporate board in 1990, though he later stated it was a mistake[^1].
 
-## Publications
+### Publications
 *   "The New Mental Battlefield: Beam Me Up, Spock" (*Military Review*, 1980)
 
 ### Footnotes

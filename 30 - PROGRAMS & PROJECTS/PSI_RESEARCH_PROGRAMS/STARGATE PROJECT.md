@@ -18,10 +18,10 @@ location: "Fort Meade, Maryland"
 
 The [[STARGATE PROJECT]] was a secret [[U.S. Army]] unit established in 1977 at [[Fort Meade]], Maryland. Its purpose was to investigate [[Psi|psychic]] phenomena, particularly [[Remote Viewing|remote viewing]], for military and intelligence applications. The project operated under various code names throughout its lifespan, including **Gondola Wish**, **Grill Flame**, **Center Lane**, **Sun Streak**, and **Scanate**. These names were used at different times and for different aspects of the project, but all fell under the umbrella of psychic research for military and intelligence purposes. The project sought to harness these abilities for intelligence gathering and military operations, eventually being declassified in 1995.
 
-## Overview
+### Overview
 [[Remote Viewing]] is the claimed ability to gather information about distant or unseen targets using extrasensory perception or other paranormal means. The Stargate Project sought to harness this ability for intelligence gathering and military operations.
 
-## The Project
+### The Project
 ### Foundations
 The program was initiated by [[Frederick Atwater|Skip Atwater]], who had heard rumors of extensive [[Soviet Union|Soviet]] [[Parapsychology|psi]] research and the [[Central Intelligence Agency|CIA]]'s own involvement with [[Stanford Research Institute|SRI]]. Atwater proposed to Colonel [[Robert Keenan]], then head of [[Systems Exploitation Detachment]] (SED), that they assemble a remote viewing team. This proposal was ultimately approved in 1977 by Major General [[Edmund Thompson]] and commanding officer Major [[Murray Watt|Murray “Scotty” Watt]], who were assigned with Atwater to lead the project. They were given a very small budget and initially operated from a room in building 4554 at [[Fort Meade]], later moving to buildings 2560 and 2561 on Llewellyn Street to escape noise and gain more space.
 
@@ -46,7 +46,7 @@ Initially codenamed **Gondola Wish**, the program began as an experimental, part
 
 - **Skylab Crash Zone (1979)**: [[Joe McMoneagle]] accurately predicted the crash zone of Skylab, which reentered Earth's atmosphere over eastern Australia, blazing a trail westward and raining hot metal debris on western Australia and the Indian Ocean.[^1]
 
-## Key Personnel and Connections
+### Key Personnel and Connections
 
 ### Military Figures
 - Lieutenant [[Frederick Atwater|Frederick Holmes “Skip” Atwater]] - Project overseer until 1987 or 1988, later president of the [[Monroe Institute]]
@@ -121,7 +121,7 @@ Initially codenamed **Gondola Wish**, the program began as an experimental, part
 - [[Parapsychological Association]] - Professional organization for parapsychologists
 - [[Sylvania Corporation]] - Russell Targ's former employer
 - [[Church's Fried Chicken]] - Early private funder of Hal Puthoff's research
-## Project Timeline and Notable Event
+### Project Timeline and Notable Event
 1. 1970: [[Central Intelligence Agency|CIA]] initiates [[SCANATE]] program in response to Soviet psychic research
 2. 1972: [[Stanford Research Institute]] (SRI) begins testing psychics, including [[Uri Geller]]
 3. 1976: Remote viewer [[Rosemary Smith]] allegedly locates a lost Soviet spy plane
@@ -133,7 +133,7 @@ Initially codenamed **Gondola Wish**, the program began as an experimental, part
 9. 1991: Most contracting transferred to SAIC under Edwin May
 10. 1995: CIA terminates and declassifies the project
 
-## Challenges and Controversies
+### Challenges and Controversies
 - **Scientific Skepticism**: The project faced significant skepticism from the mainstream scientific community, who often dismissed psi research as pseudoscience or fraud. Despite statistically significant results, the lack of tangible, repeatable real-world applications made it difficult to gain widespread scientific acceptance. The "[[Giggle Factor]]" within intelligence agencies also reflected this skepticism, hindering the program's operational integration.[^1]
 
 - **Human Use Experimentation Concerns**: Due to the controversial history of programs like [[Project MKUltra]], the Stargate Project was categorized as "[[Human Use Experimentation|human use experimentation]]." This required extensive informed consent and oversight, but also raised concerns about the psychological toll on remote viewers, who experienced mental fatigue, emotional fragility, and burnout from intense and monotonous taskings, particularly during the Iran hostage crisis.[^1]
@@ -144,7 +144,7 @@ Initially codenamed **Gondola Wish**, the program began as an experimental, part
 
 - **Security Concerns**: The accuracy of remote viewing, as demonstrated by incidents like the Sugar Grove viewing, raised significant security concerns within the Pentagon, leading to investigations into potential information leaks. The extreme secrecy surrounding the program was partly to protect it from Soviet eyes, but also to shield its supporters from public "mortification and embarrassment."[^1]
 
-## Related Concepts
+### Related Concepts
 - [[Psychotronic Research]] - Soviet studies into the interaction between human psychology and electronics
 - [[Out-of-Body Experience]] - Sensation of consciousness leaving the physical body
 - [[Precognition]] - Ability to see future events

@@ -16,13 +16,13 @@ On January 1, 2025 at approximately 3:15 am, [[Shamsud-Din Jabbar]] bypassed pol
 
 The [[Federal Bureau of Investigation|FBI]] declared the event an [[act of terrorism]].
 
-## Additional Details
+### Additional Details
 - Truck was rented on December 30, 2024 in Houston, Texas via [[Turo]]
 - Jabbar drove to New Orleans on the evening of December 31, 2024.
 - He stayed in an airbnb in St. Roch at 1329 Mandeville Street that caught on fire early Jan 1[^1]
 - New Orleans police had removed bollards which “were being repaired” in preparation for the Sugarbowl (scheduled for Jan 1).[^5]
 - Jabbar had an ISIS flag mounted on the back of his truck.[^5]
-## Weapons
+### Weapons
 Two pipe bombs were found in coolers in the French Quarter a few blocks from the attack (Bourbon St and Orleans St and Bourbon between Tolouse and St peter). Allgedly they were rigged for remote detonation with a wireless remote found in the truck.[^2]
 Jabbar used or had on him an AR style rifle with a homemade suppressor and a handgun.[^3]
 # Footnotes

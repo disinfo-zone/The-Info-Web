@@ -48,7 +48,7 @@ In his later political career, [[Moshe Dayan|Dayan]] transitioned to diplomatic 
 
 Despite his military prowess and diplomatic involvement, Dayan's perspective on the Palestinian problem remained notably limited. Along with [[Golda Meir]], he believed the Palestinian issue would eventually resolve itself, a view that reflected the thinking of many [[Israel|Israeli]] leaders of his generatzion but would prove overly optimistic in the decades that followed.[^2]
 
-## Publications
+### Publications
 
 - _Living with the Bible_ (1978)
 

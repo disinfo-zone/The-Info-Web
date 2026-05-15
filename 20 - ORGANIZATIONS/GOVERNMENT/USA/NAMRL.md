@@ -16,7 +16,7 @@ The [[United States Navy|Naval]] Aerospace Medical Research Laboratory (NAMRL) a
 The lab is equipped with capabilities in acceleration and sensory sciences, biomedical sciences, environmental physiology, and engineering and technical services, all of which are supported by a unique collection of state-of-the art science research devices. 
 
 Key areas of investigation include pilot spatial disorientation, situational awareness, motion sickness, vestibular function, unusual acceleration environments, effects of altitude, aircrew physiology, sustained operations and fatigue, personnel selection, back and neck pain and injury in aircrew, en route patient care, and visual and auditory sciences. 
-## Personnel
+### Personnel
 [[Richard Arnold |Dr. Richard Arnold]] is the director of NAMRL since the 2010 formation of [[NAMRU-D]] at [[Wright-Patterson Air Force Base]] in Dayton, Ohio (previously NAMRL was a standalone lab in Pensacola, Fl).[^1]
 # Footnotes
 

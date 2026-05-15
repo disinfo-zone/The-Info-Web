@@ -13,7 +13,7 @@ date: 2025-01-01
 location: "Las Vegas, Nevada"
 ---
 On January 1, 2025, active duty [[U.S. Army]] [[Special Operations Group|Special Ops Soldier]] [[Matthew Livelsberger]] parked a Tesla Cybertruck in front of the Trump International Hotel Las Vegas in Paradise, Nevada. The truck was filled with firework mortars and gas canisters and was detonated at approximately 8:39am injuring seven bystanders.[^1] Livelsberger allegedly shot himself in the head seconds before the explosion. The [[Federal Bureau of Investigation|FBI]] is still deciding whether to classify this as an [[act of terrorism]].
-## Detailed Timeline
+### Detailed Timeline
 - The truck was rented in Colorado using [[Turo]] on December 28[^2]. Livelsberger texted a girlfriend that he felt like batman or “halo.”
 - December 30, Livelsberger drove to Monument, Colorado and purchased two handguns
 - December 31, Livelsberger drove through and charged at Trinidad, CO; Las Vegas, NM; Albuquerque, NM; and Gallup, NM.
@@ -24,7 +24,7 @@ On January 1, 2025, active duty [[U.S. Army]] [[Special Operations Group|Special
 - 8:35 AM The Cybertruck is spotted pulling onto Las Vegas Boulevard from Sands Avenue.
 - 8:39 AM The Cybertruck again pulls into the valet area of Trump hotel. Within 17 seconds, the truck explodes. 
 - Livelsberger allegedly shot themselves in the head immediately before the detonation
-## Additional Details
+### Additional Details
 One rifle and one handgun (a Desert Eagle) were found in the vehicle.[^6]
 
 Authorities recovered two cellphones, a laptop, and notes[^3] from one of those devices. One note was titled “surveillance log” and detailed activity from Dec 21 to New Year’s.
@@ -35,7 +35,7 @@ A second note stated in part:
 > "We are the United States of America, the best country ... to ever exist, but right now, we are terminally ill and headed towards collapse," the letter said. "This was not a terrorist attack. It was a wake up call. Americans only pay attention to spectacles and violence. What better way to get my point across than a stunt with fireworks and explosives. ... I need to cleanse my mind of the brothers I’ve lost, and relieve myself of the burden of the lives I took." [^3]
 
 The vehicle was allegedly never in self driving mode[^7]
-## “Manifesto”
+### “Manifesto”
 Livelsberger allegedly sent a “manifesto” to [[Sam Shoemate]] (@samosaur) on December 31, 2024[^4] alleging, among other things, that the [[New Jersey Drones|NJ Drones]] are Chinese [[anti-gravitic]] devices, that the United States also possesses this technology, that he is aware of war crimes committed in 2019 by the United States, and that he has TSSCI with [[UAP Task Force]] [[Special Access Programs|USAP]] access.
 ### “Manifesto” Text
 

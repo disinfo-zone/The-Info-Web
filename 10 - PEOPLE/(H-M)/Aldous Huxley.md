@@ -21,7 +21,7 @@ Huxley was present when Puharich attempted to drug [[Harry Stump]] with the *teo
 
 Huxley's interest in the sixth sense stemmed from a childhood eye infection that left him partially blind for nearly three years, making him keenly aware of perception beyond the five known senses[^1].
 
-## Publications
+### Publications
 *   *Brave New World* (1932)
 *   *The Doors of Perception* (1954)
 

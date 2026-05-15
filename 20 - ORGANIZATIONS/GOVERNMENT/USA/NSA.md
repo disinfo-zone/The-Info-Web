@@ -20,7 +20,7 @@ location: "Fort Meade, Maryland"
 
 The National Security Agency (NSA) is a U.S. intelligence agency primarily responsible for signals intelligence (SIGINT) and cybersecurity. The NSA became involved in the [[STARGATE PROJECT|Grill Flame]] program, particularly in tasking remote viewers with sensitive intelligence collection.[^1]
 
-## Role in Satellite Intelligence
+### Role in Satellite Intelligence
 
 A former official of the NSA explained that the [[KH-11]] satellite, launched in December 1976, was considered the most important advance of its time in reconnaissance photography. Every military and civilian intelligence agency in the government had an urgent requirement for its imagery. The NSA was responsible for all communications intelligence and played a key role in managing the KH-11's schedule to maximize its intelligence collection and cost-efficiency.[^2]
 
@@ -28,7 +28,7 @@ However, [[Jimmy Carter]]'s decision in March 1979 to provide [[Israel]] with di
 
 Later, during the [[Ronald Reagan|Reagan]] administration, it was learned that Israeli military officers were permitted to attend Pentagon meetings where future missions and orbital flight paths for the KH-11 were discussed. This caused significant dismay among some NSA officials, who felt it compromised the security and integrity of the highly sensitive KH-11 system.[^2]
 
-## Involvement in Psi
+### Involvement in Psi
 
 #### Early Connections
 [[Hal Puthoff]], a key figure in the [[Stanford Research Institute|SRI]] remote viewing program, had previously fulfilled his military service as a Navy officer at the NSA at [[Fort Meade]] in the early 1960s. He earned a Pentagon commendation for his work towards a future generation of high-speed optical computers.[^1]

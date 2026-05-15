@@ -17,7 +17,7 @@ Regan stated that "Virtually every major move and decision the Reagans made duri
 
 In her memoir, *What Does Joan Say?*, Quigley wrote, "Not since the days of the Roman emperors—and never in the history of the [[United States]] Presidency—has an astrologer played such a significant role in the nation’s affairs of State"[^1].
 
-## Publications
+### Publications
 *   *What Does Joan Say?* (1990)
 
 ### Footnotes

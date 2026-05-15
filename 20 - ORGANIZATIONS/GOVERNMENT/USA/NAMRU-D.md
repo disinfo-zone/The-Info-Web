@@ -10,7 +10,7 @@ Mission:
  
 Vision:
 "To be the research lab of choice for enhancing human performance and protection in extreme environments."
-## Directorates
+### Directorates
 - Environmental Health Effects Laboratory (EHEL)
 - Naval Aerospace Medical Research Laboratory ([[NAMRL]])
 # Footnotes

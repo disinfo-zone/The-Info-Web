@@ -29,7 +29,7 @@ Citing scientists and experts like [[Oliver J. Caldwell]] and [[Sybil Leek]], La
 
 Despite the controversy, LaMothe's report circulated through the military and intelligence communities, prompting the [[Central Intelligence Agency]] to take action and escalate its own psychic research programs[^1].
 
-## Publications
+### Publications
 *   *Controlled Offensive Behavior—USSR* (1972)
 
 ### Footnotes

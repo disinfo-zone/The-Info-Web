@@ -16,7 +16,7 @@ While serving a life sentence in Spandau prison, Speer recounted [[Rudolf Hess]]
 
 Speer also noted [[Adolf Hitler]]'s reaction to [[Heinrich Himmler]]'s interest in the occult, quoting Hitler as saying, "What nonsense! Here we have at last reached an age that has left all mysticism behind it, and now he [Himmler] wants to start that all over again. We might just as well have stayed with the church"[^1].
 
-## Publications
+### Publications
 *   *Inside the Third Reich*
 
 ### Footnotes
