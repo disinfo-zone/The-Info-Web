@@ -16,7 +16,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "The Bundesamt für Verfassungsschutz (BfV, Federal Office for the Protection of the Constitution) is West Germany's domestic intelligence and counterintelligence service, established in 1950. Distinct from the BND's foreign intelligence role, the BfV is responsible for monitoring internal threats to the constitutional order including espionage, extremism, and foreign intelligence penetration. Its most significant Cold War success was the exposure of Günter Guillaume, whose arrest in April 1974 precipitated Chancellor Willy Brandt's resignation."
+summary: "The Bundesamt für Verfassungsschutz (BfV) is West Germany's domestic counterintelligence service, established September 7, 1950, whose most significant Cold War achievement was exposing Günter Guillaume as a Stasi agent in April 1974, precipitating Chancellor Willy Brandt's resignation."
 start: 1950-09-07
 location: "Cologne, West Germany (later Cologne and Berlin)"
 ---

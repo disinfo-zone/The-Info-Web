@@ -10,7 +10,7 @@ tags:
   - ColdWar
   - Diplomacy
   - 1970s
-summary: "Ostpolitik (Eastern Policy) was the foreign policy approach of West German Chancellor Willy Brandt from 1969 to 1974, fundamentally reorienting West German policy toward the Eastern bloc by accepting the post-World War II division of Europe as the political reality from which normalization had to proceed. Its key achievements included the 1970 Treaty of Moscow, the 1970 Treaty of Warsaw, and the 1972 Basic Treaty between the two Germanys. Brandt received the Nobel Peace Prize in 1971 for Ostpolitik. The policy was substantially damaged by the Guillaume espionage affair, which forced Brandt's resignation in 1974."
+summary: "Ostpolitik was West German Chancellor Willy Brandt's 1969-1974 policy of normalizing relations with East Germany and the Soviet bloc, producing the 1970 Treaty of Moscow, the Treaty of Warsaw, and the 1972 Basic Treaty recognizing East Germany, for which Brandt received the 1971 Nobel Peace Prize."
 ---
 
 Ostpolitik (Eastern Policy) was the foreign policy doctrine developed and implemented by [[West Germany|West German]] Chancellor [[Willy Brandt]] beginning in 1969, representing a fundamental shift from the stance of his predecessors - most notably [[Konrad Adenauer]] - who had refused to engage diplomatically with the Communist East German state or recognize its legitimacy.

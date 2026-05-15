@@ -10,7 +10,7 @@ tags:
   - 1950s
   - 1960s
   - 1970s
-summary: "Walter Ulbricht (1893-1973) was the dominant political figure of East Germany from the state's founding in 1949 until his removal in 1971. As First Secretary of the Socialist Unity Party (SED), he oversaw the construction of the Berlin Wall on August 13, 1961, to halt mass emigration from the GDR, and directed the Stalinist consolidation of Communist Party rule. He was a hardline Soviet loyalist who resisted de-Stalinization and was removed by Erich Honecker with Soviet support in 1971."
+summary: "Walter Ulbricht (1893-1973) was East Germany's dominant political figure from its 1949 founding until 1971, overseeing the Berlin Wall's 1961 construction to halt mass emigration, enforcing Stalinist party rule against de-Stalinization pressure, and being removed by Erich Honecker with Soviet backing."
 born: 1893-06-30
 died: 1973-08-01
 location: "Döllnsee, East Germany"

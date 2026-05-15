@@ -16,7 +16,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "The Ministerium für Staatssicherheit (MfS, Ministry for State Security), universally known as the Stasi, was East Germany's combined domestic security service and foreign intelligence agency, operating from 1950 to 1990. At its peak the Stasi maintained approximately 91,000 full-time employees and an estimated 189,000 unofficial informants (IMs, Inoffizielle Mitarbeiter) for a population of approximately 17 million, creating one of the most pervasive surveillance states in history. Its foreign intelligence directorate, the Hauptverwaltung Aufklärung (HVA), conducted extensive penetration of West German political, government, and intelligence circles, most notably placing Günter Guillaume in Chancellor Willy Brandt's personal staff."
+summary: "The Ministerium für Staatssicherheit (Stasi) was East Germany's combined domestic security and foreign intelligence agency (1950-1990), maintaining approximately 91,000 employees and 189,000 informants and operating the HVA foreign intelligence directorate that penetrated West German government through agents including Günter Guillaume in Chancellor Willy Brandt's personal staff."
 start: 1950-02-08
 end: 1990-12-31
 location: "East Berlin, East Germany"

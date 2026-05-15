@@ -14,7 +14,7 @@ tags:
   - ColdWar
   - 1940s
   - 1950s
-summary: "Operation Paperclip was a classified U.S. program, operated by the Joint Intelligence Objectives Agency (JIOA) under OSS and later CIA oversight, that recruited over 1,600 German and Austrian scientists, engineers, and technical specialists from the defeated Third Reich and brought them to the United States beginning in 1945. The program prioritized rocket, aerospace, chemical, and medical expertise regardless of Nazi party membership or wartime conduct. The records of scientists with disqualifying Nazi affiliations were systematically falsified to enable their employment. Key recruits included rocket scientists Wernher von Braun and Arthur Rudolph, who later directed major NASA programs."
+summary: "Operation Paperclip was the postwar U.S. program that recruited over 1,600 German and Austrian scientists from the defeated Third Reich, falsifying Nazi party records to enable their employment, with key recruits Wernher von Braun and Arthur Rudolph later directing major NASA programs."
 start: 1945-09-01
 end: 1959-01-01
 location: "United States"

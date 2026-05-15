@@ -10,7 +10,7 @@ tags:
   - Communist
   - 1950s
   - 1960s
-summary: "Nikita Khrushchev (1894-1971) led the Soviet Union as First Secretary of the Communist Party from 1953 to 1964, initiating de-Stalinization with his 1956 Secret Speech and managing the most dangerous crises of the Cold War. He authorized construction of the Berlin Wall in August 1961 to halt East German emigration and faced down the United States during the Cuban Missile Crisis of October 1962 before reaching a compromise. He was removed from power in October 1964 by a Politburo coup led by Leonid Brezhnev."
+summary: "Nikita Khrushchev (1894-1971) led the Soviet Union from 1953 to 1964, delivering the 1956 Secret Speech denouncing Stalin, authorizing the Berlin Wall's construction in 1961, navigating the Cuban Missile Crisis, and being removed in a 1964 Politburo coup."
 born: 1894-04-15
 died: 1971-09-11
 location: "Moscow, Soviet Union"

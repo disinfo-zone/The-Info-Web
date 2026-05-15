@@ -12,7 +12,7 @@ tags:
   - Stasi
   - 1960s
   - 1980s
-summary: "The Berlin Wall (Berliner Mauer) was a fortified barrier separating East and West Berlin constructed by East Germany beginning August 13, 1961, to halt mass emigration from the GDR to the West. At its completion it ran approximately 155 kilometers around West Berlin, consisting of concrete walls, watchtowers, death strips, and fortified checkpoints. An estimated 140 people were killed attempting to cross. The Wall fell on November 9, 1989, following a miscommunication at a Stasi press conference, and its demolition accelerated the reunification of Germany."
+summary: "The Berlin Wall (Berliner Mauer) was the fortified barrier erected by East Germany on August 13, 1961, to halt mass emigration, killing an estimated 140 people who attempted to cross before it fell on November 9, 1989, following a Stasi press conference miscommunication that accelerated German reunification."
 start: 1961-08-13
 end: 1989-11-09
 location: "Berlin, Germany"

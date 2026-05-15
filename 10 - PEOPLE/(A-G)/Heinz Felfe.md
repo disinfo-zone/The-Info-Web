@@ -14,7 +14,7 @@ tags:
   - SS
   - 1950s
   - 1960s
-summary: "Heinz Felfe was a former SS officer who became one of the most damaging Soviet penetration agents in Western intelligence history. Recruited by the KGB after World War II, he joined the CIA-funded Gehlen Organization in 1951 and rose to become chief of counterintelligence for the organization and its successor the BND - the office responsible for detecting precisely the kind of penetration he represented. Exposed in November 1961 after approximately a decade of service to the KGB, his operations compromised substantial CIA-BND joint programs."
+summary: "Heinz Felfe was a former SS officer and KGB double agent who joined the CIA-funded Gehlen Organization in 1951, rose to chief of counterintelligence for the BND, and was exposed in November 1961 after a decade compromising CIA-BND joint operations."
 born: 1918-03-18
 died: 2008-05-08
 location: "East Germany"

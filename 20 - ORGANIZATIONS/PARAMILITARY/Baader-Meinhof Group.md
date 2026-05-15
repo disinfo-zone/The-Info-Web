@@ -13,7 +13,7 @@ tags:
   - 1970s
   - 1980s
 category: "Paramilitary"
-summary: "The Red Army Faction (Rote Armee Fraktion, RAF), commonly called the Baader-Meinhof Group after its founders, was a West German far-left terrorist organization active from 1970 to 1998. Founded by Andreas Baader and Ulrike Meinhof, it conducted bombings, assassinations, and kidnappings targeting West German capitalism and the American military presence, with major operations including the 1972 bombing campaign, the 1977 German Autumn (Schleyer kidnapping, Lufthansa hijacking), and the 1989 assassination of Deutsche Bank chief Alfred Herrhausen."
+summary: "The Red Army Faction (RAF/Baader-Meinhof Group) was a West German far-left terrorist organization active 1970-1998, conducting major operations including the 1972 bombing campaign, the 1977 German Autumn Schleyer kidnapping and Lufthansa hijacking, and the 1989 assassination of Deutsche Bank chief Alfred Herrhausen."
 start: 1970
 end: 1998
 location: "West Germany"

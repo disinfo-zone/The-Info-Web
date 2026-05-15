@@ -12,7 +12,7 @@ tags:
   - USA
   - Nuclear
   - 1960s
-summary: "The Cuban Missile Crisis (October 16-28, 1962) was a thirteen-day nuclear confrontation between the United States and the Soviet Union triggered by the discovery of Soviet nuclear missile installations in Cuba. President John F. Kennedy imposed a naval quarantine of Cuba and demanded Soviet withdrawal. After back-channel negotiations, the Soviets agreed to remove the missiles in exchange for an American pledge not to invade Cuba and a secret commitment to remove American Jupiter missiles from Turkey. The crisis is widely considered the most dangerous moment of the Cold War."
+summary: "The Cuban Missile Crisis (October 16-28, 1962) was a thirteen-day nuclear confrontation resolved when the Soviet Union agreed to remove missiles from Cuba in exchange for an American non-invasion pledge and a secret commitment to remove Jupiter missiles from Turkey."
 start: 1962-10-16
 end: 1962-10-28
 location: "Cuba / Caribbean"

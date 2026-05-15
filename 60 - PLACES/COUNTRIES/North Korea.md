@@ -15,7 +15,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "The Democratic People's Republic of Korea (DPRK, North Korea) was established in 1948 in the Soviet occupation zone of the Korean peninsula following World War II and the division of Korea along the 38th parallel. North Korea's invasion of South Korea in June 1950 triggered the Korean War (1950-1953), which ended in armistice without a formal peace treaty. The country has been ruled continuously by the Kim family dynasty - Kim Il-sung from founding until 1994, Kim Jong-il 1994-2011, Kim Jong-un from 2011 - under a personality cult-based system. North Korea's imprisonment of MI6 officer George Blake during the Korean War led to his recruitment by Soviet intelligence."
+summary: "North Korea (DPRK), established in 1948 in the Soviet occupation zone of the Korean peninsula, launched the Korean War in 1950, has been ruled by the Kim dynasty since founding, and its capture of MI6 officer George Blake during the war enabled his KGB recruitment."
 start: 1948-09-09
 location: "Pyongyang, North Korea"
 ---
@@ -24,7 +24,7 @@ The Democratic People's Republic of Korea (DPRK), known in English as North Kore
 
 ### The Korean War
 
-On June 25, 1950, North Korean forces invaded [[South Korea]], rapidly overrunning most of the peninsula before a [[United Nations]] force led by the United States intervened. The war produced the largest American military campaign since [[World War II]], with [[China]] entering on the North Korean side in late 1950 when UN forces approached the Chinese border. The war ended in armistice on July 27, 1953, along a line roughly corresponding to the original 38th parallel division, leaving the Korean peninsula divided and the conflict technically unresolved without a formal peace treaty.
+On June 25, 1950, North Korean forces invaded South Korea, rapidly overrunning most of the peninsula before a [[United Nations]] force led by the United States intervened. The war produced the largest American military campaign since World War II, with [[China]] entering on the North Korean side in late 1950 when UN forces approached the Chinese border. The war ended in armistice on July 27, 1953, along a line roughly corresponding to the original 38th parallel division, leaving the Korean peninsula divided and the conflict technically unresolved without a formal peace treaty.
 
 During the war, British [[MI6]] officer [[George Blake]] was stationed in [[Seoul]] as head of station when North Korean forces invaded. Blake was captured and spent three years as a prisoner of war, during which he was converted to Communism and recruited by [[KGB]] predecessor [[MGB|Soviet intelligence]]. He went on to become one of the most damaging penetration agents in Western intelligence history.[^1]
 

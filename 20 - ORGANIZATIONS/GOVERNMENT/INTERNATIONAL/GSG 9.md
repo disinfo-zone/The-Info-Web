@@ -11,7 +11,7 @@ tags:
   - 1970s
   - 1980s
   - Munich
-summary: "Grenzschutzgruppe 9 (GSG 9, Border Guard Group 9) is West Germany's federal counterterrorism unit, established in 1972 following the catastrophic failure of West German security forces at the Munich Olympic massacre. Under founding commander Ulrich Wegener, GSG 9 became internationally recognized after its October 18, 1977, assault on the hijacked Lufthansa Flight 181 at Mogadishu Airport, Somalia, which freed all 86 hostages and killed three of four hijackers with no hostage deaths."
+summary: "Grenzschutzgruppe 9 (GSG 9) is West Germany's federal counterterrorism unit, established in 1972 after the Munich Olympic Massacre, best known for its October 18, 1977, assault on hijacked Lufthansa Flight 181 at Mogadishu Airport that freed all 86 hostages with no hostage deaths."
 start: 1972-04-17
 location: "Sankt Augustin, Germany"
 ---

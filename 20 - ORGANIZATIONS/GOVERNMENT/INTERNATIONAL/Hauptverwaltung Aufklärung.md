@@ -16,7 +16,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "The Hauptverwaltung Aufklärung (HVA, Main Directorate for Reconnaissance) was the foreign intelligence directorate of East Germany's Stasi. Directed by Markus Wolf from 1952 to 1986, it conducted extensive penetration of West German political, governmental, and intelligence structures through long-term agents, most notably placing Günter Guillaume as Chancellor Willy Brandt's personal aide. The HVA was widely regarded as one of the most effective intelligence services in the Cold War and was dissolved in 1990 following German reunification."
+summary: "The Hauptverwaltung Aufklärung (HVA) was East Germany's foreign intelligence directorate, directed by Markus Wolf from 1952 to 1986, renowned for penetrating West German government including placing Günter Guillaume as Chancellor Willy Brandt's personal aide, and dissolved following German reunification in 1990."
 start: 1952-01-01
 end: 1990-03-31
 location: "East Berlin, East Germany"

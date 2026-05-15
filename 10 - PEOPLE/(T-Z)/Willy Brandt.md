@@ -11,7 +11,7 @@ tags:
   - Intelligence
   - 1960s
   - 1970s
-summary: "Willy Brandt (1913-1992) was Chancellor of West Germany from 1969 to 1974 and architect of Ostpolitik, the policy of normalization with East Germany and the Eastern bloc that represented a fundamental shift from Konrad Adenauer's approach. He resigned in May 1974 after his personal aide Günter Guillaume was exposed as a Stasi agent - one of the most politically damaging espionage successes of the Cold War. He had previously won the Nobel Peace Prize in 1971 for Ostpolitik."
+summary: "Willy Brandt (1913-1992) was West German Chancellor from 1969 to 1974, architect of Ostpolitik and 1971 Nobel Peace Prize laureate, who resigned when his personal aide Günter Guillaume was exposed as a Stasi agent in one of the Cold War's most politically damaging espionage operations."
 born: 1913-12-18
 died: 1992-10-08
 location: "Unkel, Germany"

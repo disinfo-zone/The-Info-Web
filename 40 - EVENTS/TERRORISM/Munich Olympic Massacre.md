@@ -12,7 +12,7 @@ tags:
   - Palestine
   - ColdWar
   - 1970s
-summary: "The Munich Olympic Massacre of September 5-6, 1972, was a Palestinian terrorist attack during the 1972 Summer Olympics in which the Black September organization seized eleven Israeli Olympic team members as hostages at the Olympic Village. A failed rescue attempt by West German police at Fürstenfeldbruck airbase resulted in the deaths of all nine remaining hostages, one West German police officer, and five of eight Black September members. The massacre led directly to Israeli Operation Wrath of God, a years-long campaign of targeted assassinations against those responsible, and to the creation of West Germany's GSG 9 counterterrorism unit."
+summary: "The Munich Olympic Massacre (September 5-6, 1972) was the Black September seizure of eleven Israeli Olympic team members, all of whom died in a failed West German rescue at Fürstenfeldbruck, leading directly to Israeli Operation Wrath of God and the creation of West Germany's GSG 9."
 start: 1972-09-05
 end: 1972-09-06
 location: "Munich, West Germany"

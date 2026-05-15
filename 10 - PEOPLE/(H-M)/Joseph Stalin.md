@@ -13,7 +13,7 @@ tags:
   - 1930s
   - 1940s
   - 1950s
-summary: "Joseph Stalin (1878-1953) ruled the Soviet Union from the mid-1920s until his death, creating the totalitarian state apparatus that defined the USSR through World War II and the early Cold War. His purges killed millions, his collectivization policies caused mass famine, and his intelligence apparatus under the NKVD/MGB/KGB shaped the methods and culture of Soviet and Soviet-bloc intelligence services for decades. He established Soviet control over Eastern Europe after World War II, triggering the Cold War. His death in 1953 initiated the de-Stalinization process under Nikita Khrushchev."
+summary: "Joseph Stalin (1878-1953) ruled the Soviet Union from the mid-1920s until his death, building the totalitarian intelligence apparatus that shaped Soviet and Eastern bloc services for decades and establishing the Eastern European satellite system that triggered the Cold War."
 born: 1878-12-18
 died: 1953-03-05
 location: "Moscow, Soviet Union"
@@ -35,9 +35,9 @@ Following German defeat, the agreements at Yalta and Potsdam in 1945 formalized 
 
 ### Intelligence Legacy
 
-Stalin's intelligence apparatus, operating first as the NKVD and later the [[MGB]], penetrated Western governments and intelligence services at the highest levels during and after World War II. Soviet intelligence under Stalin recruited the Cambridge Five in [[United Kingdom|Britain]] - including [[Kim Philby]], who rose to head the anti-Soviet section of [[MI6]] - and obtained critical information about the American atomic bomb program through sources at Los Alamos.
+Stalin's intelligence apparatus, operating first as the NKVD and later the MGB, penetrated Western governments and intelligence services at the highest levels during and after World War II. Soviet intelligence under Stalin recruited the Cambridge Five in [[United Kingdom|Britain]] - including [[Kim Philby]], who rose to head the anti-Soviet section of [[MI6]] - and obtained critical information about the American atomic bomb program through sources at Los Alamos.
 
-The intelligence culture Stalin created - combining professional effectiveness with brutal internal discipline, ideological loyalty requirements, and willingness to conduct assassinations of enemies abroad - shaped the [[KGB]] that successor leaders inherited. [[Nikita Khrushchev]]'s 1956 denunciation of Stalin in the Secret Speech addressed political crimes but did not fundamentally dismantle the intelligence apparatus.[^1]
+The intelligence culture Stalin created - combining professional effectiveness with brutal internal discipline, ideological loyalty requirements, and willingness to conduct assassinations of enemies abroad - shaped the KGB that successor leaders inherited. [[Nikita Khrushchev]]'s 1956 denunciation of Stalin in the Secret Speech addressed political crimes but did not fundamentally dismantle the intelligence apparatus.[^1]
 
 ### Footnotes
 

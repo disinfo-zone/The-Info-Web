@@ -9,7 +9,7 @@ tags:
   - ColdWar
   - 1970s
   - 1980s
-summary: "Helmut Schmidt (1918-2015) served as Chancellor of West Germany from 1974 to 1982, succeeding Willy Brandt following the Guillaume espionage scandal. His chancellorship was defined by economic management during the oil crises, the 1977 German Autumn crisis in which he authorized the GSG 9 Mogadishu rescue operation, and the NATO double-track decision of 1979 on intermediate-range nuclear missiles. He was removed from office by a constructive vote of no confidence in 1982."
+summary: "Helmut Schmidt (1918-2015) served as West German Chancellor from 1974 to 1982, succeeding Willy Brandt after the Guillaume affair, authorizing the GSG 9 Mogadishu rescue during the 1977 German Autumn, and supporting NATO's 1979 double-track missile decision before losing a no-confidence vote to Helmut Kohl."
 born: 1918-12-23
 died: 2015-11-10
 location: "Hamburg, Germany"

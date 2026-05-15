@@ -11,7 +11,7 @@ tags:
   - Intelligence
   - WWII
   - Soviet
-summary: "Reinhard Gehlen was a Wehrmacht General who directed Eastern Front intelligence (Fremde Heere Ost) during World War II, surrendered to American forces in May 1945, and negotiated the transfer of his intelligence organization and records to CIA control. His organization operated as a CIA contractor from 1946 to 1956 before being reconstituted as West Germany's Bundesnachrichtendienst (BND), which Gehlen directed until 1968. The Gehlen Organization's extensive use of former SS and Nazi intelligence personnel remained a persistent controversy in postwar German intelligence history."
+summary: "Reinhard Gehlen was the Wehrmacht's Eastern Front intelligence chief who surrendered to American forces in 1945, negotiated CIA funding of his organization and its Soviet-bloc networks, and directed the resulting Bundesnachrichtendienst from its 1956 founding until 1968."
 born: 1902-04-03
 died: 1979-06-08
 location: "Berg am Starnberger See, Bavaria, West Germany"

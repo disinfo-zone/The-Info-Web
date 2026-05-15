@@ -17,7 +17,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "The German Democratic Republic (GDR, East Germany) existed from 1949 to 1990 as the Soviet-aligned German state established in the Soviet occupation zone after World War II. The GDR was defined by the pervasive surveillance apparatus of the Stasi (Ministerium für Staatssicherheit), the building of the Berlin Wall in 1961 to prevent mass emigration, and Soviet military occupation. Its foreign intelligence service, the Stasi's Hauptverwaltung Aufklärung (HVA) under Markus Wolf, conducted extensive penetration of West German political and intelligence structures, most notably placing Günter Guillaume in Chancellor Willy Brandt's personal staff. East Germany reunified with West Germany on October 3, 1990."
+summary: "The German Democratic Republic (GDR, East Germany, 1949-1990) was the Soviet-aligned German state defined by the Stasi's pervasive surveillance, the Berlin Wall's 1961 construction to halt emigration, and the HVA's penetration of West German government including placing Günter Guillaume in Chancellor Willy Brandt's personal staff."
 start: 1949-10-07
 end: 1990-10-03
 location: "East Berlin, Germany"

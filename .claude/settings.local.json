@@ -102,7 +102,10 @@
       "WebFetch(domain:annienormal.com)",
       "WebFetch(domain:charlessulka.com)",
       "WebFetch(domain:danurtnowski.substack.com)",
-      "Bash(Get-Content *)"
+      "Bash(Get-Content *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\David\\\\Documents\\\\SpiderOak Hive\\\\The_Info_Web\\\\The_Info_Web\\\\10 - PEOPLE\" -Recurse -Name)",
+      "Bash(Select-String -Pattern \"\\(Kim Philby|Peter Fechter|Checkpoint Charlie|Hans-Dietrich Genscher|Grossmann|Großmann\\)\")",
+      "Bash(Head -20)"
     ]
   }
 }

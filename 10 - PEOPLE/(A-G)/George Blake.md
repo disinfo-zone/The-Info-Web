@@ -13,7 +13,7 @@ tags:
   - Soviet
   - 1950s
   - 1960s
-summary: "George Blake (1922-2020) was a British MI6 officer and one of the most damaging Soviet penetration agents in Western intelligence history. Recruited by the KGB during his imprisonment in North Korea from 1950 to 1953, he subsequently betrayed an estimated 40 agents to Soviet intelligence (most of whom were executed) and revealed the existence of Operation Gold, the CIA-MI6 Berlin Tunnel, before its construction was even complete. Convicted of espionage in 1961 and sentenced to 42 years, he escaped from Wormwood Scrubs prison in 1966 and lived in Moscow until his death in 2020."
+summary: "George Blake (1922-2020) was a British MI6 officer and KGB double agent, recruited during Korean War captivity, who betrayed approximately 40 agents and revealed Operation Gold before its construction, before escaping a 42-year sentence to Moscow in 1966."
 born: 1922-11-11
 died: 2020-12-26
 location: "Moscow, Russia"

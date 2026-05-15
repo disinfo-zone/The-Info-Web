@@ -10,7 +10,7 @@ tags:
   - STARGATE
   - Intelligence
   - USA
-summary: "The American Institutes for Research (AIR) is a nonprofit behavioral and social science research organization that in 1995 conducted the definitive government-commissioned evaluation of the STAR GATE remote viewing program for the CIA. The AIR evaluation, led by psychologist Ray Hyman and statistician Jessica Utts and delivered September 29, 1995, reached split conclusions - Utts found the statistical evidence for remote viewing compelling while Hyman found methodological flaws - but the overall assessment recommended against continuing the program. The report resulted in the termination of STAR GATE."
+summary: "The American Institutes for Research (AIR) conducted the 1995 government-commissioned evaluation of the CIA's STAR GATE remote viewing program, whose split findings between evaluators Ray Hyman and Jessica Utts led to the program's termination."
 start: 1946
 location: "Washington, D.C."
 ---

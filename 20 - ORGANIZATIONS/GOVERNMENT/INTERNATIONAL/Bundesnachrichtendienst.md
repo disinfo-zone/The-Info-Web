@@ -17,7 +17,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "The Bundesnachrichtendienst (BND, Federal Intelligence Service) is West Germany's foreign intelligence service, formally established April 1, 1956, as the successor to the CIA-funded Gehlen Organization. Under its first president, Reinhard Gehlen, who directed it until 1968, the BND was staffed extensively with former Wehrmacht and SS intelligence personnel. The BND maintained close liaison with the CIA throughout the Cold War and was repeatedly penetrated by Soviet intelligence, most notably by Heinz Felfe, who rose to lead its counterintelligence division while working as a KGB agent."
+summary: "The Bundesnachrichtendienst (BND) is West Germany's foreign intelligence service, established April 1, 1956, as successor to the CIA-funded Gehlen Organization, staffed with former Wehrmacht and SS personnel under first president Reinhard Gehlen, and penetrated by KGB double agent Heinz Felfe who led its counterintelligence division."
 start: 1956-04-01
 location: "Pullach, Bavaria, West Germany (later Berlin)"
 ---

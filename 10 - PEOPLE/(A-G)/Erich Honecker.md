@@ -11,7 +11,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "Erich Honecker (1912-1994) ruled East Germany as General Secretary of the Socialist Unity Party from 1971 to 1989, succeeding Walter Ulbricht with Soviet backing. As a senior SED official, he managed the operational logistics of the Berlin Wall's construction in August 1961. His government was defined by the Stasi's pervasive surveillance and by Abgrenzung - the policy of ideological separation from West Germany. Removed by his own Politburo in October 1989 amid the collapse of the GDR, he eventually fled to Chile, where he died in 1994."
+summary: "Erich Honecker (1912-1994) ruled East Germany from 1971 to 1989, having supervised the Berlin Wall's 1961 construction as a senior SED official, leading the GDR through the Stasi's pervasive surveillance until he was removed amid the 1989 collapse and fled to Chile, where he died."
 born: 1912-08-25
 died: 1994-05-29
 location: "Santiago, Chile"

@@ -13,7 +13,7 @@ tags:
   - Espionage
   - 1960s
   - 1970s
-summary: "Günter Guillaume was an East German Stasi agent who emigrated to West Germany in 1956 posing as a refugee, built a career in the Social Democratic Party (SPD), and by 1972 had become a personal aide and close confidant to Chancellor Willy Brandt. His exposure in April 1974 and subsequent arrest produced one of the most politically damaging espionage successes of the Cold War, forcing Brandt's resignation as Chancellor in May 1974."
+summary: "Günter Guillaume was a Stasi agent who emigrated to West Germany in 1956, built a career in the SPD, became Chancellor Willy Brandt's personal aide, and whose exposure as a spy in April 1974 forced Brandt's resignation in one of the Cold War's most politically damaging intelligence operations."
 born: 1927-02-01
 died: 1995-04-10
 location: "East Berlin, East Germany"

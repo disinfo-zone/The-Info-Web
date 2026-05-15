@@ -12,7 +12,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "Erich Mielke (1907-2000) served as Minister for State Security of East Germany from 1957 to 1989, overseeing the Stasi at its peak of approximately 91,000 employees and 189,000 unofficial informants. A devoted Communist who joined the party in 1926 and spent years in Soviet exile, Mielke built the Stasi into one of the most comprehensive domestic surveillance systems in history. After the fall of the Berlin Wall he was arrested, convicted of a 1931 double murder of two police officers rather than for Stasi crimes, and served a brief sentence. He died in 2000."
+summary: "Erich Mielke (1907-2000) served as East Germany's Minister for State Security from 1957 to 1989, building the Stasi into one of history's most comprehensive surveillance systems with 91,000 employees and 189,000 informants, before being convicted after reunification for a 1931 double murder rather than for Stasi crimes."
 born: 1907-12-28
 died: 2000-05-21
 location: "East Berlin, East Germany"

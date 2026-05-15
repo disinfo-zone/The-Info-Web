@@ -16,7 +16,7 @@ tags:
   - Soviet
   - 1940s
   - 1950s
-summary: "The Gehlen Organization (Organisation Gehlen) was a CIA-funded intelligence network operating in West Germany from 1946 to 1956, built by Reinhard Gehlen from the remnants of his Wehrmacht Eastern Front intelligence directorate (Fremde Heere Ost). It provided the United States its primary human intelligence coverage of the Soviet bloc during the early Cold War, operating under CIA contract from its compound at Pullach near Munich. Its personnel included substantial numbers of former SS and Nazi intelligence officers. In April 1956 it was reconstituted as West Germany's Bundesnachrichtendienst (BND), with Gehlen as its first director."
+summary: "The Gehlen Organization was a CIA-funded intelligence network in West Germany from 1946 to 1956, built by Reinhard Gehlen from his Wehrmacht Eastern Front directorate to provide U.S. coverage of the Soviet bloc, before being reconstituted as the Bundesnachrichtendienst in April 1956."
 start: 1946-07-01
 end: 1956-04-01
 location: "Pullach, Bavaria, West Germany"

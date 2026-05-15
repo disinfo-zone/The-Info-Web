@@ -13,7 +13,7 @@ tags:
   - Cuba
   - 1950s
   - 1960s
-summary: "William King Harvey (1915-1976) was a CIA officer known for his aggressive Cold War operations in Berlin and his involvement in the Castro assassination plots. After a career as an FBI agent, he joined the CIA and built the agency's Berlin Base into one of its most important Cold War stations, managing Operation Gold, the CIA-MI6 Berlin Tunnel operation. He was involved in the CIA-Mafia plots against Fidel Castro (ZRRIFLE/Executive Action) and was considered by some colleagues as the CIA's archetypal Cold War operator."
+summary: "William King Harvey (1915-1976) was a CIA officer who built Berlin Base into a major Cold War station managing Operation Gold, then directed CIA-Mafia assassination plots against Fidel Castro before his marginalization following the Cuban Missile Crisis."
 born: 1915-09-13
 died: 1976-06-09
 location: "Indianapolis, Indiana"
