@@ -10,7 +10,7 @@ tags:
   - 1980s
   - CIA
   - Arms_Dealing
-summary: "The Enterprise was the private covert operations network assembled by Richard Secord and Albert Hakim, with Oliver North as the NSC liaison, to conduct the Iran-Contra operation's two sides: arms sales to Iran and resupply of the Nicaraguan Contras. Organized through two primary legal entities - Stanford Technology Trading Group International (STTGI) and Lake Resources S.A. - the Enterprise generated approximately $48 million in revenues between 1984 and 1986, of which only about $3.8 million was actually delivered to the Contras."
+summary: "The Enterprise was the private covert network assembled by Richard Secord and Albert Hakim to conduct both sides of Iran-Contra, generating approximately $48 million in revenues between 1984 and 1986 through arms sales to Iran and Contra resupply, of which only about $3.8 million reached the Contras."
 start: 1984-01-01
 end: 1986-11-01
 location: "United States / Switzerland / El Salvador / Iran"

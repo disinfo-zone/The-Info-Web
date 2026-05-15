@@ -11,7 +11,7 @@ tags:
   - DIA
   - ColdWar
 category: "Advanced Human Technology"
-summary: "Extraordinary Human Body Function (EHBF) was a Chinese government term used from 1979 onward for claimed paranormal abilities including clairvoyance, telepathy, and psychokinesis, investigated by state-funded research programs following physicist Qian Xuesen's endorsement of the field as scientifically legitimate. The DIA's discovery of the extent of Chinese EHBF research - documented in Hal Puthoff's 1982 classified report - provided one of the primary competitive justifications for continued American investment in the Psychoenergetics and STAR GATE programs."
+summary: "Extraordinary Human Body Function (EHBF) was the Chinese government term for claimed paranormal abilities investigated by state-funded programs after physicist Qian Xuesen's 1979 endorsement, with the DIA's discovery of its scale providing competitive justification for continued American Psychoenergetics and STAR GATE investment."
 start: 1979
 location: China
 ---

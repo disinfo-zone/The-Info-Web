@@ -12,7 +12,7 @@ tags:
   - 1980s
   - 1990s
   - 2000s
-summary: "Yasser Arafat (1929-2004) was the chairman of the Palestine Liberation Organization from 1969 until his death in 2004, and the first President of the Palestinian Authority from 1996. He built Fatah into the dominant Palestinian political-military faction, led the PLO through its exile periods in Jordan, Lebanon, and Tunisia, and negotiated the Oslo Accords (1993) with Israeli Prime Minister Yitzhak Rabin. He shared the 1994 Nobel Peace Prize with Rabin and Shimon Peres."
+summary: "Yasser Arafat (1929-2004) was PLO chairman from 1969 until his death, building Fatah into the dominant Palestinian political-military faction, leading the PLO through exile in Jordan, Lebanon, and Tunisia, and negotiating the 1993 Oslo Accords that earned him a share of the 1994 Nobel Peace Prize."
 born: 1929-08-24
 died: 2004-11-11
 location: "Cairo, Egypt"

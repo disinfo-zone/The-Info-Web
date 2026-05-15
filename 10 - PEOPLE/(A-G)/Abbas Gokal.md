@@ -9,7 +9,7 @@ tags:
   - London
   - 1980s
   - 1990s
-summary: "Abbas Gokal was the senior partner of the Gokal family's Gulf Shipping Group, which became BCCI's largest single debtor with unpaid loans of $831 million. The Gulf Group's relationship with BCCI was one of the primary mechanisms of the bank's lending fraud - fictitious trade transactions and circular credit arrangements created the appearance of commercial activity while concealing that the loans could never be repaid. After BCCI's 1991 collapse, Gokal fled to Germany, was arrested in 1994, and was convicted of fraud in German courts."
+summary: "Abbas Gokal was the senior partner of the Gulf Shipping Group, which became BCCI's largest single debtor at $831 million through fictitious trade transactions and circular credit, before fleeing Germany after BCCI's 1991 collapse and being convicted of fraud in German courts."
 born: 1936
 died: 2016
 location: "London, United Kingdom"

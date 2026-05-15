@@ -8,7 +8,7 @@ tags:
   - EHBF
   - Parapsychology
   - ColdWar
-summary: "Zhang Baosheng was a Chinese man from Liaoning province who became the most extensively tested practitioner of Extraordinary Human Body Function (EHBF) in China's 1980s state-sponsored parapsychology research programs. His demonstrations, primarily involving the claimed teleportation of small objects into and out of sealed containers, were conducted at military research institutes in Beijing and were among the most operationally significant results cited by Chinese researchers. His abilities were contested and later widely attributed to sleight of hand."
+summary: "Zhang Baosheng was the most extensively tested EHBF practitioner in China's 1980s military parapsychology programs, conducting demonstrations of claimed object teleportation at Beijing research institutes before his abilities were widely attributed to sleight of hand."
 born: 1955
 location: "Liaoning Province, China"
 ---

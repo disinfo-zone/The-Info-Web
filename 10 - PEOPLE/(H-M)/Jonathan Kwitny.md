@@ -8,7 +8,7 @@ tags:
   - NuganHand
   - WallStreetJournal
   - InvestigativeJournalism
-summary: "Jonathan Kwitny was a Wall Street Journal investigative journalist who spent two decades documenting the intersections of American foreign policy, intelligence operations, and organized crime. His book The Crimes of Patriots (W.W. Norton, 1987) remains the authoritative account of the Nugan Hand Bank, and his Endless Enemies (1984) documented how covert U.S. interventions generated anti-American backlash in the developing world."
+summary: "Jonathan Kwitny (1941-1998) was a Wall Street Journal investigative journalist whose The Crimes of Patriots (1987) is the authoritative account of Nugan Hand Bank and whose Endless Enemies (1984) documented covert U.S. interventions and their consequences."
 born: 1941-03-23
 died: 1998-11-26
 location: "Indianapolis, Indiana"
