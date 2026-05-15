@@ -63,7 +63,15 @@
       "Bash(python -c ' *)",
       "PowerShell(ls \"C:\\\\Users\\\\David\\\\Documents\\\\SpiderOak Hive\\\\The_Info_Web\\\\The_Info_Web\\\\10 - PEOPLE\\\\\\(T-Z\\)\\\\\" | Select-Object -First 30)",
       "PowerShell(head *)",
-      "PowerShell(ls \"C:\\\\Users\\\\David\\\\Documents\\\\SpiderOak Hive\\\\The_Info_Web\\\\The_Info_Web\\\\20 - ORGANIZATIONS\\\\GOVERNMENT\\\\\" | Select-Object Name)"
+      "PowerShell(ls \"C:\\\\Users\\\\David\\\\Documents\\\\SpiderOak Hive\\\\The_Info_Web\\\\The_Info_Web\\\\20 - ORGANIZATIONS\\\\GOVERNMENT\\\\\" | Select-Object Name)",
+      "WebFetch(domain:www.mintpressnews.com)",
+      "WebFetch(domain:washingtoncitypaper.com)",
+      "WebFetch(domain:vault.fbi.gov)",
+      "WebFetch(domain:thehotstar.net)",
+      "WebFetch(domain:nrgiseternal.com)",
+      "WebFetch(domain:finderscult.wordpress.com)",
+      "WebFetch(domain:www.mail-archive.com)",
+      "WebFetch(domain:skepticalinquirer.org)"
     ]
   }
 }

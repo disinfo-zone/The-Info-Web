@@ -27,5 +27,11 @@ Following the 1973 raid, [[Dallas Police Department]] Lieutenant Harold Hancock 
 
 After release, Norman continued crimes; by 1983, arrested in Pennsylvania for using boys in "Handy Andy" pornography, released on bail in 1985, then fled. In 1986, wanted in at least five states, he used jailhouse lawyer skills to reduce bail, posted $7,500, and skipped, apprehended in Illinois in July 1987. Norman died in 2011 after spending his later life in and out of prison and parole programs.[^1]
 
+### Connection to The Finders
+
+When [[Federal Bureau of Investigation|FBI]] investigators examined the address book carried by the two [[The Finders|Finders]] members arrested in Tallahassee, Florida on February 4, 1987 -- [[Douglas Ammerman]] and [[James Michael Holwell]], who were transporting six malnourished children -- names in that address book appeared in FBI files related to Norman's network. According to FBI file notes cited in secondary sources, two individuals named in the address book appeared in FBI Dallas field office file 145-0 relating to Norman's Odyssey Foundation child prostitution investigation. A third name appeared in an FBI Buffalo field office file concerning [[NAMBLA]] members suspected of murder connections.[^1]
+
+The address-book overlaps represent the primary documented connection between The Finders and Norman's network. The underlying FBI documents establishing this connection are cited in secondary sources including *Eye of the Chickenhawk* and the NAMBLA-related investigation files; they were also referenced in the FBI Vault's November 2019 Finders document release. No direct organizational relationship or personal contact between Norman and Finders leadership has been established in accessible primary sources.
+
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
