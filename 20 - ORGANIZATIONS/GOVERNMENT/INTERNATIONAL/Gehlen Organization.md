@@ -26,9 +26,9 @@ The Gehlen Organization (Organisation Gehlen), commonly called "the Org," was a 
 
 ### Origins: The Gehlen Deal
 
-In April-May 1945, anticipating German defeat, [[Reinhard Gehlen]] had the files of Fremde Heere Ost microfilmed and the film containers buried in the Austrian Alps. He surrendered to U.S. Army forces on May 22, 1945, and immediately proposed a bargain to his American captors: his organization, its accumulated records on the Soviet military and political structure, and its agent networks in Eastern Europe and the Soviet Union, in exchange for American protection, funding, and operational support.
+In April-May 1945, anticipating German defeat, Gehlen had the files of Fremde Heere Ost microfilmed and the film containers buried in the Austrian Alps. He surrendered to U.S. Army forces on May 22, 1945, and immediately proposed a bargain to his American captors: his organization, its accumulated records on the Soviet military and political structure, and its agent networks in Eastern Europe and the Soviet Union, in exchange for American protection, funding, and operational support.
 
-The offer was accepted by the Strategic Services Unit, successor to the Office of Strategic Services, and Gehlen was transported to the United States in August 1945 for debriefing at Fort Hunt, Virginia. He returned to Germany in 1946 to begin operations under American supervision. The [[Central Intelligence Agency]], formally established in 1947, inherited the arrangement from its predecessor organizations and took over direct management of the Gehlen network.[^1]
+The offer was accepted by the Strategic Services Unit, successor to the Office of Strategic Services, and Gehlen was transported to the United States in August 1945 for debriefing at Fort Hunt, Virginia. He returned to Germany in 1946 to begin operations under American supervision. The CIA, formally established in 1947, inherited the arrangement from its predecessor organizations and took over direct management of the Gehlen network.[^1]
 
 The "Gehlen deal" gave the United States what no other arrangement could provide at that moment: an existing intelligence network with deep files on the Soviet military and security apparatus, agents in place across Eastern Europe, and operational experience in the specific geographical and political environment where American intelligence was most blind. The cost - accepting an organization staffed substantially by former Wehrmacht and Nazi intelligence personnel and directed by a general who had served Hitler - was accepted as the price of operational capability during the emerging Cold War.[^1]
 
@@ -56,7 +56,7 @@ Additional penetrations were identified over the years, and the extent of Soviet
 
 ### Transition to the BND
 
-When [[West Germany]] recovered sovereignty in 1955 and joined [[NATO]], negotiations transferred the Gehlen Organization from American to West German government control. The [[Bundesnachrichtendienst]] was formally established on April 1, 1956, with Gehlen as its first president. The BND retained the Pullach compound, its personnel roster, and its operational assets. The CIA-BND liaison relationship that replaced the CIA-Org relationship maintained close cooperation on Soviet bloc intelligence through the remainder of the Cold War.[^1]
+When West Germany recovered sovereignty in 1955 and joined [[NATO]], negotiations transferred the Gehlen Organization from American to West German government control. The BND was formally established on April 1, 1956, with Gehlen as its first president. The BND retained the Pullach compound, its personnel roster, and its operational assets. The CIA-BND liaison relationship that replaced the CIA-Org relationship maintained close cooperation on Soviet bloc intelligence through the remainder of the Cold War.[^1]
 
 ### Footnotes
 

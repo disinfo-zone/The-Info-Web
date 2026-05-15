@@ -31,7 +31,7 @@ After returning to Germany following the war, Brandt rose through [[West Berlin]
 
 Brandt's chancellorship (1969-1974) was defined by Ostpolitik - a policy of engaging with and normalizing relations with East Germany and the broader Eastern bloc, reversing the [[West Germany|West German]] policy of refusing to recognize the legitimacy of the GDR or states that recognized it (the Hallstein Doctrine). The key instruments of Ostpolitik included:
 
-The 1970 [[Treaty of Moscow]], in which [[West Germany]] and the [[Soviet Union]] renounced the use of force and implicitly recognized existing European borders, including the Oder-Neisse line giving Polish territory that had been German before 1945; the 1970 Treaty of Warsaw, normalizing relations with Poland and formally renouncing claims to the eastern territories; and the 1972 Basic Treaty between the two German states, which established mutual recognition and the principle of two separate German states within one German nation.
+The 1970 [[Treaty of Moscow]], in which West Germany and the [[Soviet Union]] renounced the use of force and implicitly recognized existing European borders, including the Oder-Neisse line giving Polish territory that had been German before 1945; the 1970 Treaty of Warsaw, normalizing relations with Poland and formally renouncing claims to the eastern territories; and the 1972 Basic Treaty between the two German states, which established mutual recognition and the principle of two separate German states within one German nation.
 
 Ostpolitik represented a departure from the Adenauer position that reunification must precede normalization with the East. Brandt accepted instead that the division of Germany was the political reality from which improvement of relations had to begin. The policy generated significant domestic opposition from the Christian Democratic Union, which argued that Brandt was legitimizing the GDR and abandoning reunification. The 1972 Bundestag vote on the ratification of the Eastern treaties was extremely close, with the CDU attempting to pass a constructive vote of no confidence that fell short.[^1]
 
@@ -39,11 +39,11 @@ Brandt was awarded the Nobel Peace Prize in 1971 for Ostpolitik and its contribu
 
 ### Guillaume Affair and Resignation
 
-In April 1974, the [[Bundesamt für Verfassungsschutz]] (BfV, [[West Germany]]'s domestic counterintelligence service) informed Brandt that [[Günter Guillaume]], his personal aide and close confidant, was a [[Stasi]] agent. Guillaume had emigrated from East Germany to West Germany in 1956 posing as a refugee, built a career in the SPD, and by 1972 had become part of Brandt's innermost circle, accompanying him on official travel and handling sensitive communications.
+In April 1974, the [[Bundesamt für Verfassungsschutz]] (BfV, West Germany's domestic counterintelligence service) informed Brandt that [[Günter Guillaume]], his personal aide and close confidant, was a [[Stasi]] agent. Guillaume had emigrated from East Germany to West Germany in 1956 posing as a refugee, built a career in the SPD, and by 1972 had become part of Brandt's innermost circle, accompanying him on official travel and handling sensitive communications.
 
 Brandt initially continued to use Guillaume in his work while the BfV completed its investigation - a decision that was later criticized as having extended Guillaume's access. Guillaume was arrested on April 24, 1974. Brandt resigned as Chancellor on May 7, 1974, citing his personal responsibility for negligence in allowing the penetration to occur and the political damage the affair had caused.
 
-The Guillaume case was among the most significant [[Stasi]] intelligence successes of the Cold War, damaging not only Brandt personally but Ostpolitik's broader political momentum, since Brandt's resignation removed its principal architect from power.[^1]
+The Guillaume case was among the most significant Stasi intelligence successes of the Cold War, damaging not only Brandt personally but Ostpolitik's broader political momentum, since Brandt's resignation removed its principal architect from power.[^1]
 
 ### Later Career
 

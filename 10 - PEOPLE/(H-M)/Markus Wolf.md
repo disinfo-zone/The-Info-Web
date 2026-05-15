@@ -26,7 +26,7 @@ Markus Wolf was born January 19, 1923, in Hechingen, [[Germany]], into a left-wi
 
 ### Early Career
 
-Wolf returned to Germany in 1945 with the Soviet occupation forces and worked initially as a radio broadcaster and journalist, covering the Nuremberg trials. He was recruited into the [[Stasi]]'s foreign intelligence apparatus in its early years and rose rapidly. In 1952, at age twenty-nine, he was appointed to lead the HVA ([[Hauptverwaltung Aufklärung]]), the [[Stasi]]'s foreign intelligence directorate. He held the position until his retirement in 1986.[^1]
+Wolf returned to Germany in 1945 with the Soviet occupation forces and worked initially as a radio broadcaster and journalist, covering the Nuremberg trials. He was recruited into the [[Stasi]]'s foreign intelligence apparatus in its early years and rose rapidly. In 1952, at age twenty-nine, he was appointed to lead the HVA ([[Hauptverwaltung Aufklärung]]), the Stasi's foreign intelligence directorate. He held the position until his retirement in 1986.[^1]
 
 ### The HVA Under Wolf
 
@@ -40,7 +40,7 @@ The HVA's penetrations extended to the [[Bundesnachrichtendienst]] (BND), the Fe
 
 ### Guillaume Operation
 
-The placement of [[Günter Guillaume]] as a personal aide to Chancellor [[Willy Brandt]] was Wolf's most consequential operation. Guillaume, recruited before his emigration to [[West Germany]] in 1956, spent nearly two decades working his way through the Social Democratic Party's structures. By 1972 he had become a close aide to Brandt, with access to sensitive political communications and accompanying the Chancellor on foreign travel.
+The placement of Guillaume as a personal aide to Chancellor Brandt was Wolf's most consequential operation. Guillaume, recruited before his emigration to West Germany in 1956, spent nearly two decades working his way through the Social Democratic Party's structures. By 1972 he had become a close aide to Brandt, with access to sensitive political communications and accompanying the Chancellor on foreign travel.
 
 When the [[Bundesamt für Verfassungsschutz]] (BfV) exposed Guillaume in April 1974, and Brandt resigned in May 1974, it was one of the most spectacular results the HVA achieved. Wolf's memoir, published after the Cold War, discusses the operation with evident professional pride while acknowledging its political dimensions.[^1]
 
@@ -50,7 +50,7 @@ For much of his career, Western intelligence services lacked photographs of Wolf
 
 ### Retirement and Post-Cold War
 
-Wolf retired from the HVA in 1986, replaced by [[Werner Großmann]]. In his retirement he became critical of aspects of the SED's policies and, following East Germany's collapse in 1989, faced criminal proceedings in unified Germany. He was initially convicted of treason in 1993, but the Federal Constitutional Court ruled in 1995 that East German citizens who had spied exclusively against [[West Germany]] from East German soil could not be prosecuted under West German treason law. His conviction was overturned.
+Wolf retired from the HVA in 1986, replaced by [[Werner Großmann]]. In his retirement he became critical of aspects of the SED's policies and, following East Germany's collapse in 1989, faced criminal proceedings in unified Germany. He was initially convicted of treason in 1993, but the Federal Constitutional Court ruled in 1995 that East German citizens who had spied exclusively against West Germany from East German soil could not be prosecuted under West German treason law. His conviction was overturned.
 
 He published his memoir, *Man Without a Face: The Autobiography of Communism's Greatest Spymaster* (Times Books, 1997), which remains the primary source for HVA operations from the perspective of its director. He acknowledged the Guillaume operation and the Romeo operations in detail, while declining to identify some sources who were still alive.[^1]
 

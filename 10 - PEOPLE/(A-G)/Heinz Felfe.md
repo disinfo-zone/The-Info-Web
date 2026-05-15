@@ -43,7 +43,7 @@ The full extent of the damage was difficult to assess because Felfe had in his c
 
 Felfe was exposed in November 1961, following information provided to Western intelligence by a Soviet defector or through signals intelligence - the specific source of his exposure was officially described in general terms but not fully disclosed publicly. He was arrested along with two accomplices, Hans Clemens and Erwin Tiebel, who had also been working within the Gehlen/BND network.[^1]
 
-The timing was significant: his exposure came only months after the construction of the [[Berlin]] Wall in August 1961, a period of heightened tension in which the extent of Soviet penetration of Western intelligence was a matter of acute concern.
+The timing was significant: his exposure came only months after the construction of the [[Berlin Wall]] in August 1961, a period of heightened tension in which the extent of Soviet penetration of Western intelligence was a matter of acute concern.
 
 ### Trial and Conviction
 

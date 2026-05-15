@@ -18,7 +18,7 @@ died: 2000-05-21
 location: "East Berlin, East Germany"
 ---
 
-Erich Fritz Emil Mielke was born December 28, 1907, in Wedding, Berlin, then a working-class district of the German capital. He joined the Communist Party of Germany (KPD) in 1926 and became involved in the party's paramilitary wing, the Roter Frontkämpferbund. In August 1931, he and a companion shot and killed two police officers at a Berlin street demonstration - a crime for which he would ultimately be convicted six decades later. He fled Germany following the incident, spending years in the Soviet Union and fighting in the Spanish Civil War on the Republican side before returning to Germany with Soviet forces after World War II. He died May 21, 2000, in Berlin.[^1]
+Erich Fritz Emil Mielke was born December 28, 1907, in Wedding, [[Berlin]], then a working-class district of the German capital. He joined the [[Communist Party of Germany|KPD]] in 1926 and became involved in the party's paramilitary wing, the [[Roter Frontkämpferbund]]. In August 1931, he and a companion shot and killed two police officers at a Berlin street demonstration - a crime for which he would ultimately be convicted six decades later. He fled [[Germany]] following the incident, spending years in the [[Soviet Union]] and fighting in the [[Spanish Civil War]] on the Republican side before returning to Germany with Soviet forces after [[World War II]]. He died May 21, 2000, in Berlin.[^1]
 
 ### Rise in the Stasi
 
@@ -26,13 +26,13 @@ Mielke joined the nascent [[Stasi]] apparatus in [[East Germany]] and rose throu
 
 ### Building the Stasi
 
-Under Mielke's direction, the [[Stasi]] expanded from a substantial but bounded security service into the comprehensive surveillance apparatus it had become by the late 1980s. Key developments under his tenure included the systematic expansion of the unofficial informants (IM) network to an estimated 189,000 active informants by the late 1980s; the development of sophisticated "Zersetzung" (decomposition) psychological harassment techniques for neutralizing dissidents without overt prosecution; the expansion of the foreign intelligence directorate, the Hauptverwaltung Aufklärung (HVA), which under [[Markus Wolf]] penetrated [[West Germany|West German]] political and intelligence structures extensively; and the [[Stasi]]'s role in coordinating with the [[KGB]] and other Warsaw Pact intelligence services.
+Under Mielke's direction, the Stasi expanded from a substantial but bounded security service into the comprehensive surveillance apparatus it had become by the late 1980s. Key developments under his tenure included the systematic expansion of the unofficial informants (IM) network to an estimated 189,000 active informants by the late 1980s; the development of sophisticated "Zersetzung" (decomposition) psychological harassment techniques for neutralizing dissidents without overt prosecution; the expansion of the foreign intelligence directorate, the [[Hauptverwaltung Aufklärung]] (HVA), which under [[Markus Wolf]] penetrated [[West Germany|West German]] political and intelligence structures extensively; and the Stasi's role in coordinating with the [[KGB]] and other Warsaw Pact intelligence services.
 
-Mielke was a devoted Soviet-line Communist who reportedly admired the [[KGB]] and patterned the Stasi after it. His relationship with Markus Wolf, who ran the HVA, was occasionally tense - Wolf's more cosmopolitan background and international reputation contrasted with Mielke's ideologically rigid personality.[^1]
+Mielke was a devoted Soviet-line Communist who reportedly admired the KGB and patterned the Stasi after it. His relationship with Wolf, who ran the HVA, was occasionally tense - Wolf's more cosmopolitan background and international reputation contrasted with Mielke's ideologically rigid personality.[^1]
 
 ### Fall and Prosecution
 
-Following the fall of the [[Berlin]] Wall on November 9, 1989, Mielke was removed as Minister for State Security and the Stasi was dissolved. He was arrested and faced multiple criminal proceedings in unified Germany. Prosecutors found it difficult to prosecute him directly for Stasi crimes under the constitutional principles that had blocked prosecution of other East German operatives.
+Following the fall of the [[Berlin Wall]] on November 9, 1989, Mielke was removed as Minister for State Security and the Stasi was dissolved. He was arrested and faced multiple criminal proceedings in unified Germany. Prosecutors found it difficult to prosecute him directly for Stasi crimes under the constitutional principles that had blocked prosecution of other East German operatives.
 
 He was instead tried for the 1931 murders of the two police officers, for which warrants had existed since the Weimar Republic. He was convicted in 1993 and sentenced to six years, reduced on appeal, and released in 1994 having served approximately two years in pretrial detention. He lived in Berlin until his death in 2000.
 

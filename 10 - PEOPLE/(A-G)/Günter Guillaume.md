@@ -23,13 +23,13 @@ Günter Guillaume was born February 1, 1927, in [[Berlin]], [[Germany]]. He join
 
 ### The Cover Identity and Western Penetration
 
-In May 1956, Guillaume emigrated to [[West Germany|West Germany]] along with his wife Christel (also a Stasi agent) posing as refugees fleeing the GDR. They settled in Frankfurt and Guillaume joined the [[Social Democratic Party]] (SPD). The cover story was well-constructed: Guillaume presented himself as a disillusioned East German committed to West German democracy, and his apparent convictions allowed him to build genuine relationships within the SPD's political networks over the following years.
+In May 1956, Guillaume emigrated to West Germany along with his wife Christel (also a Stasi agent) posing as refugees fleeing the GDR. They settled in Frankfurt and Guillaume joined the [[Social Democratic Party]] (SPD). The cover story was well-constructed: Guillaume presented himself as a disillusioned East German committed to West German democracy, and his apparent convictions allowed him to build genuine relationships within the SPD's political networks over the following years.
 
 Guillaume worked in Frankfurt SPD party organization and eventually moved to the federal level. His competence, loyalty, and political reliability brought him to the attention of senior SPD figures. By 1970 he had been brought into the Chancellor's office as an administrator and in 1972 became a personal aide to Chancellor [[Willy Brandt]], with responsibility for party liaison and some administrative duties. He accompanied Brandt on official travel and had access to sensitive communications.[^1]
 
 ### Exposure and Arrest
 
-The [[Bundesamt für Verfassungsschutz]] (BfV), [[West Germany|West Germany's]] domestic counterintelligence service, had been investigating Guillaume since at least 1973 on the basis of intercepted signals intelligence that suggested his connection to East German intelligence. In April 1974, the BfV informed Chancellor Brandt of the evidence against his aide.
+The [[Bundesamt für Verfassungsschutz]] (BfV), West Germany's domestic counterintelligence service, had been investigating Guillaume since at least 1973 on the basis of intercepted signals intelligence that suggested his connection to East German intelligence. In April 1974, the BfV informed Chancellor Brandt of the evidence against his aide.
 
 Brandt continued to use Guillaume in his work while the investigation was completed - a decision subsequently criticized by the BfV and others as having prolonged Guillaume's access to sensitive material. Guillaume was arrested on April 24, 1974. His wife Christel was arrested simultaneously.
 
@@ -37,15 +37,15 @@ Guillaume reportedly told his arresting officers "I am a citizen of the GDR and 
 
 ### Political Consequences
 
-Brandt resigned as Chancellor on May 7, 1974, citing his personal responsibility for negligence in security. His decision was influenced both by the objective seriousness of the penetration and by the political atmosphere the affair had created. His successor as Chancellor was Helmut Schmidt.
+Brandt resigned as Chancellor on May 7, 1974, citing his personal responsibility for negligence in security. His decision was influenced both by the objective seriousness of the penetration and by the political atmosphere the affair had created. His successor as Chancellor was [[Helmut Schmidt]].
 
-The Guillaume affair damaged Ostpolitik by removing its principal architect at a critical moment. It also exposed the vulnerability of [[West Germany|West German]] political parties to long-term Stasi penetration operations and generated a reassessment of counterintelligence practices.[^1]
+The Guillaume affair damaged [[Ostpolitik]] by removing its principal architect at a critical moment. It also exposed the vulnerability of West German political parties to long-term Stasi penetration operations and generated a reassessment of counterintelligence practices.[^1]
 
 ### Trial and Exchange
 
-Guillaume was tried in [[West Germany]] on charges of espionage and treason. He was convicted in December 1975 and sentenced to thirteen years in prison. Christel Guillaume received an eight-year sentence. He was held in West German custody until October 1981, when he and his wife were exchanged for Western agents held in East Germany in a spy exchange negotiated between the two German states.
+Guillaume was tried in West Germany on charges of espionage and treason. He was convicted in December 1975 and sentenced to thirteen years in prison. Christel Guillaume received an eight-year sentence. He was held in West German custody until October 1981, when he and his wife were exchanged for Western agents held in East Germany in a spy exchange negotiated between the two German states.
 
-Guillaume returned to East Germany, where he worked for a time in the [[Stasi]]'s training programs before East Germany's collapse in 1989-1990. He published a memoir after reunification and died in East Berlin in 1995.[^1]
+Guillaume returned to East Germany, where he worked for a time in the Stasi's training programs before East Germany's collapse in 1989-1990. He published a memoir after reunification and died in East Berlin in 1995.[^1]
 
 ### Footnotes
 
