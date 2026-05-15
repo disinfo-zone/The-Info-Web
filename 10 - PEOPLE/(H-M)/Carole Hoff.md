@@ -10,12 +10,11 @@ created: 2026-05-15
 updated: 2026-05-15
 location: "Chicago, Illinois"
 ---
-
-Carole Hoff (née Sundby) was the second wife of [[John Wayne Gacy]], whom she married in 1972 and divorced in 1976. The couple had two daughters together. Carole Hoff had known Gacy previously and married him while he was establishing his construction company, PDM Contractors, in the Chicago suburb of Norwood Park, Illinois - the period during which Gacy began the murders that would eventually total at least 33 young men and boys.[^1]
+Carole Hoff (née Sundby) was the second wife of [[John Wayne Gacy]], whom she married in 1972 and divorced in 1976. The couple had two daughters together. Carole Hoff had known Gacy previously and married him while he was establishing his construction company, [[PDM Contractors]], in the Chicago suburb of Norwood Park, Illinois - the period during which Gacy began the murders that would eventually total at least 33 young men and boys.[^1]
 
 ### Observations During the Marriage
 
-Carole Hoff's significance in the Gacy case is primarily as a witness to the domestic environment in which Gacy concealed his crimes from a spouse and family. During the marriage, [[David Cram]] (aged 20) and [[Michael Rossi]] lived in the Gacy household and worked for PDM. Both later admitted during trial proceedings to awareness of aspects of Gacy's activities. Carole Hoff reported that Gacy changed significantly during the marriage - becoming increasingly remote, absent, and interested in the company of young men.
+During the marriage, [[David Cram]] (aged 20) and [[Michael Rossi]] lived in the Gacy household and worked for PDM. Both later admitted during trial proceedings to awareness of aspects of Gacy's activities. Carole Hoff reported that Gacy changed significantly during the marriage - becoming increasingly remote, absent, and interested in the company of young men.
 
 She later stated that she had discovered photographs she described as pornographic in the house and confronted Gacy, and that Gacy smelled strange on occasions she later understood in retrospect to be connected to the bodies buried under the crawl space of their home. The unpleasant smell she had noticed - which Gacy attributed to moisture and drainage problems - was discovered after the 1978 investigation to be the decomposition of victims buried in the crawl space.[^2]
 

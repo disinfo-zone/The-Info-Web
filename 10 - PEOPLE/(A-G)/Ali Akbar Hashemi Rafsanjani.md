@@ -13,8 +13,7 @@ born: 1934-08-25
 died: 2017-01-08
 location: "Bahreman, Kerman, Iran"
 ---
-
-Ali Akbar Hashemi Rafsanjani was born on August 25, 1934, in Bahreman, a village in Kerman Province, Iran. He studied Islamic law in [[Qom]] under [[Ayatollah Ruhollah Khomeini]] and became one of Khomeini's closest political disciples, playing an active role in the revolutionary movement. He died on January 8, 2017, of a heart attack while swimming in his villa in [[Tehran]], aged 82.[^1]
+Ali Akbar Hashemi Rafsanjani was born on August 25, 1934, in Bahreman, a village in Kerman Province, [[Iran]]. He studied Islamic law in [[Qom]] under [[Ayatollah Ruhollah Khomeini]] and became one of Khomeini's closest political disciples, playing an active role in the revolutionary movement. He died on January 8, 2017, of a heart attack while swimming in his villa in [[Tehran]], aged 82.[^1]
 
 ### Revolutionary Career
 

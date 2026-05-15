@@ -9,7 +9,6 @@ born: 1929
 died: 1999-10-29
 location: "Istanbul, Turkey"
 ---
-
 Kamal Adham was the former head of [[Saudi Arabian intelligence]] and brother-in-law of the late [[King Faisal]]. He was a significant shareholder in [[Bank of Credit and Commerce International|BCCI]] and [[First American Bank]]. Adham was a shrewd and jovial figure who straddled the worlds of Middle Eastern business and politics for decades. He was considered one of the true inside power players of the Middle East.[^1]
 
 Adham's influence stemmed from his royal connections, which he leveraged to facilitate business deals. He was the principal liaison between the [[Central Intelligence Agency]] and European intelligence agencies, operating under the code name "Tumbleweed."[^2] His role in Saudi intelligence involved assisting the royalists in [[Yemen]]'s civil war and later wielding wider influence through surveillance of Saudi citizens and political enemies of the king.[^3]

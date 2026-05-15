@@ -14,7 +14,7 @@ born: 1900-05-17
 died: 1989-06-03
 location: "Khomein, Iran"
 ---
-Ruhollah Mostafavi Musavi Khomeini was born on May 17, 1900 (some sources cite 1902), in Khomein, a town in central Iran. He was the grandson and son of Shia religious scholars. Following the deaths of his mother and aunt in childhood, he was raised by an elder brother. He settled in Qom, the center of Shia scholarship in Iran, around 1922, and spent decades teaching Islamic philosophy, law, and ethics there. He was acclaimed as an Ayatollah in the 1950s and received the higher title of Grand Ayatollah by the early 1960s.[^1]
+Ruhollah Mostafavi Musavi Khomeini was born on May 17, 1900 (some sources cite 1902), in Khomein, a town in central [[Iran]]. He was the grandson and son of Shia religious scholars. Following the deaths of his mother and aunt in childhood, he was raised by an elder brother. He settled in Qom, the center of Shia scholarship in Iran, around 1922, and spent decades teaching Islamic philosophy, law, and ethics there. He was acclaimed as an Ayatollah in the 1950s and received the higher title of Grand Ayatollah by the early 1960s.[^1]
 
 ### Opposition to the Shah and Exile
 

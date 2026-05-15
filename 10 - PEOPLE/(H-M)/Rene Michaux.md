@@ -10,8 +10,7 @@ created: 2026-05-14
 updated: 2026-05-14
 location: "Charleroi, Belgium"
 ---
-
-Rene Michaux was a Chief Guard (Adjudant) in the Belgian gendarmerie attached to the Charleroi brigade. In mid-1995 he was placed in charge of Operation Othello, a secret surveillance operation running from August 10, 1995, to January 1996, targeting [[Marc Dutroux]] on suspicion of involvement in child abductions.[^1]
+Rene Michaux was a Chief Guard (Adjudant) in the Belgian gendarmerie attached to the Charleroi brigade. In mid-1995 he was placed in charge of [[Operation Othello]], a secret surveillance operation running from August 10, 1995, to January 1996, targeting [[Marc Dutroux]] on suspicion of involvement in child abductions.[^1]
 
 ### The Failed December 1995 Search
 

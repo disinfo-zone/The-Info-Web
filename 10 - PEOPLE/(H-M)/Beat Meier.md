@@ -11,7 +11,6 @@ created: 2026-05-14
 updated: 2026-05-14
 location: "Switzerland"
 ---
-
 Beat Meier was a Swiss national with a documented record of child sexual abuse spanning multiple countries, including the United States, Australia, the United Kingdom, and Switzerland. He accumulated convictions across these jurisdictions for sexual offenses against minors.[^1]
 
 ### CRIES Network
@@ -20,7 +19,7 @@ Meier was a member of [[CRIES]] (Centre de Recherche et d'Information sur l'Enfa
 
 ### Arrest and Dutroux Connection
 
-In 1987, Meier was apprehended by British customs on the Ostend-Dover ferry in the company of Roger Lawrence, a British member of the Paedophile Information Exchange (PIE). The two were caught in the act of trafficking a three-year-old boy across the Channel.[^1]
+In 1987, Meier was apprehended by British customs on the Ostend-Dover ferry in the company of [[Roger Lawrence]], a British member of the [[Paedophile Information Exchange]] (PIE). The two were caught in the act of trafficking a three-year-old boy across the Channel.[^1]
 
 Meier's name subsequently appeared in the investigation into [[Marc Dutroux]]. He was denounced to Belgian investigators by a fellow pedophile, Serge Heylens, as someone with connections to the Belgian network. His name arose in the context of the broader European pedophile network that prosecutors were attempting to map during the Dutroux inquiry.[^2]
 

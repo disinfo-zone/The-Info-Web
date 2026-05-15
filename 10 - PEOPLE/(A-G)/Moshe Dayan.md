@@ -10,7 +10,6 @@ born: 1915-05-20
 died: 1981-10-16
 location: "Deganya Alef, Ottoman Palestine"
 ---
-
 [[Moshe Dayan]] (1915–1981) was a highly prominent [[Israel|Israeli]] military leader and politician, famous for his signature black eye-patch and his pivotal role in shaping [[Israel]]'s military doctrine and nuclear policy. Throughout his career, he served in various high-level positions including army chief of staff, Defense Minister, and Foreign Minister, while also developing an unusual passion for archaeological treasure hunting.[^1][^2][^3]
 
 ### Early Military Leadership

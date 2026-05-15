@@ -21,7 +21,7 @@ Kimche is consistently identified as the principal Israeli official who initiate
 
 In mid-1985, Kimche, serving as director-general of the Foreign Ministry, approached U.S. National Security Advisor [[Robert McFarlane]] and pressed him to authorize the transfer of American weapons to Iran via Israel in exchange for the release of American hostages held in Lebanon. Kimche framed the proposal as a potential opening to moderate Iranian factions; McFarlane presented it to President [[Ronald Reagan]], who agreed. The arrangement violated an international arms embargo on Iran.[^2]
 
-Kimche operated as part of what contemporaneous accounts called a "troika" of Israeli facilitators alongside [[Yaacov Nimrodi]], a former military attache, and Al Schwimmer, founder of Israel Aircraft Industries. The three managed the first three arms transfers to Iran in 1985, which consisted of TOW anti-tank missiles supplied from Israeli stocks in exchange for American replacement weapons.[^3]
+Kimche operated as part of what contemporaneous accounts called a "troika" of Israeli facilitators alongside [[Yaacov Nimrodi]], a former military attache, and [[Al Schwimmer]], founder of Israel Aircraft Industries. The three managed the first three arms transfers to Iran in 1985, which consisted of TOW anti-tank missiles supplied from Israeli stocks in exchange for American replacement weapons.[^3]
 
 Kimche stepped back from the operation by late 1985, reportedly concerned about the growing complexity of the arrangement and its departure from the original policy rationale. By that point, the channel had been handed off to figures including [[Manucher Ghorbanifar]], [[Oliver North]], and the network that would produce the scandal's subsequent stages.[^1]
 

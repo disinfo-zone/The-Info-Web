@@ -9,7 +9,6 @@ created: 2026-05-14
 updated: 2026-05-14
 location: "Belgium"
 ---
-
 Michelle Martin was the wife of [[Marc Dutroux]] and one of his principal accomplices in the abduction and imprisonment of children in the mid-1990s. She played a direct role in the deaths of [[Julie Lejeune]] and [[Melissa Russo]], two eight-year-old girls abducted by Dutroux on July 22, 1995. While Dutroux was serving a short prison sentence for car theft in late 1995, Martin was responsible for feeding the captives held in the basement dungeon at his Marcinelle home. She testified at trial that she was too frightened to go downstairs to feed them. The two girls starved to death during Dutroux's incarceration.[^1]
 
 Martin also assisted Dutroux in the abductions of [[Sabine Dardenne]] and [[Laetitia Delhez]] in 1996, the two victims who survived and whose rescue in August 1996 triggered the broader investigation.[^2]

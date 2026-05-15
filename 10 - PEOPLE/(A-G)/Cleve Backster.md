@@ -9,8 +9,6 @@ born: 1924-02-27
 died: 2013-06-24
 location: "Lafayette Township, New Jersey"
 ---
-
-
 [[Cleve Backster]] was a former [[Central Intelligence Agency|CIA]] polygraph expert and interrogation specialist. He is known for his controversial experiments on plant sentience and his theory of "primary perception," which suggested that plants have consciousness and can respond to human thoughts and intentions.[^1]
 
 In 1966, Backster conducted an experiment where he attached polygraph electrodes to a plant and observed its responses to his thoughts, including the intention to harm it. He claimed the plant showed a measurable reaction, leading him to believe in a form of [[Extrasensory Perception|ESP]] in plant life. He published his findings as "Evidence of a Primary Perception in Plant Life," which became the subject of the bestselling book *The Secret Life of Plants*.[^1]

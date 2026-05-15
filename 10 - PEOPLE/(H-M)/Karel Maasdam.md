@@ -11,12 +11,11 @@ created: 2026-05-14
 updated: 2026-05-14
 location: "Netherlands"
 ---
-
 Karel Maasdam, using the alias "Alex Privee," operated the [[Bell Boys]] callboy service in the [[Netherlands]] during the 1980s, a commercial sexual abuse enterprise that provided underage boys to clients drawn from the Dutch legal, judicial, and political establishment. Maasdam also operated the [[Festival Bar]], a venue connected to the networks documented in Dutch pedophile investigations of the period. His operations were connected to [[John Stamford]]'s [[Spartacus Network]] through companies including [[Korper and Korver]] and [[Adonis]].[^1]
 
 ### Bell Boys and Dutch Judicial Network
 
-The [[Rolodex Investigation]] - a Dutch police inquiry into organized boy prostitution - identified Maasdam as a central figure in the supply of minors to high-profile clients. A rolodex discovered during the investigation, kept by a professor who served as an intermediary, contained the private contact details of senior Dutch justice officials alongside Maasdam's operation. The presence of serving judicial and prosecutorial figures in the client records created the institutional dimension that gave the case its political sensitivity and has been cited as a reason the investigation stalled.[^1]
+The [[Rolodex Investigation]], a Dutch police inquiry into organized boy prostitution, identified Maasdam as a central figure in the supply of minors to high-profile clients. A rolodex discovered during the investigation, kept by a professor who served as an intermediary, contained the private contact details of senior Dutch justice officials alongside Maasdam's operation. The presence of serving judicial and prosecutorial figures in the client records created the institutional dimension that gave the case its political sensitivity and has been cited as a reason the investigation stalled.[^1]
 
 [[Henry Hans Holthuis]], who served as Chief Prosecutor of the [[International Criminal Court|International Criminal Tribunal for the Former Yugoslavia]] from 2003 to 2007, is among the prominent Dutch officials named in connection with the Bell Boys investigation. [[Robert Jan Warmerdam]], a witness in Dutch investigations, described attending events connected to Maasdam's network and provided testimony linking the Bell Boys service to the broader international pedophile infrastructure centered on [[Amsterdam]].[^1]
 

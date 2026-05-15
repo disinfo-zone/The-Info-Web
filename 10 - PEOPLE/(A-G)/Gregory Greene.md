@@ -10,14 +10,13 @@ created: 2026-05-14
 updated: 2026-05-14
 location: "Michigan, United States"
 ---
-
-Gregory Greene was an individual associated with [[Christopher Busch]] who was arrested with him in January 1977 in Michigan for sexually assaulting a boy who had been procured through a church-sponsored Big Brother program. Greene is significant in the [[Oakland County Child Killer]] (OCCK) investigation because of the confession he gave to police at the time of his arrest, which investigators subsequently failed to adequately pursue.[^1]
+Gregory Greene was an individual associated with [[Christopher Busch]] who was arrested with him in January 1977 in Michigan for sexually assaulting a boy who had been procured through a church-sponsored [[Big Brother]] program. Greene is significant in the [[Oakland County Child Killer]] (OCCK) investigation because of the confession he gave to police at the time of his arrest, which investigators subsequently failed to adequately pursue.[^1]
 
 ### 1977 Arrest and Confession
 
 In January 1977, Greene and [[Christopher Busch]] were arrested together for sexually assaulting a boy. During his police interview, Greene told detectives:
 - He had raped a boy together with Busch
-- Busch regularly took boys to a family cabin near Ess Lake in northern Michigan
+- Busch regularly took boys to a family cabin near [[Ess Lake]] in northern Michigan
 - On one trip to the cabin, a boy had been killed
 - Greene identified that boy as [[Mark Stebbins]], whose murder on February 15, 1976, was the first of the confirmed OCCK killings
 
