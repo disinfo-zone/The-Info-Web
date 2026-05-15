@@ -8,7 +8,7 @@ tags:
   - Child_Abuse
   - 1980s
   - 1990s
-summary: "Kenneth V. Lanning was a Supervisory Special Agent in the FBI's Behavioral Science Unit whose January 1992 monograph arguing against the credibility of organized satanic cult abuse allegations became a major institutional document shaping law enforcement responses to such claims, including the Finders case's broader context."
+summary: "Kenneth V. Lanning was an FBI Behavioral Science Unit supervisory agent whose 1992 monograph debunking organized satanic cult abuse allegations became the primary law enforcement document shaping institutional skepticism toward claims like those in the Franklin Credit Union and Finders investigations."
 location: "Quantico, Virginia"
 ---
 

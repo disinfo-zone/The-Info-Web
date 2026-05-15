@@ -6,7 +6,7 @@ tags:
   - Military
   - The_Finders
   - Washington_DC
-summary: "Marion David Pettie (1920-2003) was the founder and leader of The Finders, a Washington D.C.-based communal group investigated in 1987 for child trafficking connections. A retired U.S. Air Force Master Sergeant with family ties to the CIA and Air America, Pettie served as the group's 'Game Caller' for approximately three decades."
+summary: "Marion Pettie (1920-2003) was the founder and 'Game Caller' of The Finders communal group, a retired Air Force Master Sergeant with family CIA connections whose group was investigated for child trafficking in 1987 before the federal inquiry was closed after CIA acknowledged an interest."
 born: 1920
 died: 2003-10-24
 location: "Washington, D.C. / Culpeper, Virginia"

@@ -5,7 +5,7 @@ tags:
   - Finance
   - USA
 category: "Private Organization"
-summary: "Valley National Bank of Arizona was a bank in Phoenix, Arizona. It was used in financial transactions related to Israel arms sales and the release of USA hostages.[^1]"
+summary: "Valley National Bank of Arizona, based in Phoenix, was used as a financial conduit in transactions connected to Israeli arms sales and negotiations over the release of American hostages."
 location: "Phoenix, Arizona"
 ---
 [[Valley National Bank of Arizona]] was a bank in [[Phoenix]], [[Arizona]]. It was used in financial transactions related to [[Israel|Israeli]] arms sales and the release of [[United States|American]] hostages.[^1]

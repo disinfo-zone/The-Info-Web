@@ -8,7 +8,7 @@ tags:
   - philosophy
 description: Synchronicity is a concept, first introduced by Carl Jung, referring to meaningful coincidences that lack a causal relationship but are deeply connected in meaning.
 category: "Esoteric & Historical Concept"
-summary: "Synchronicity is a concept first introduced by the Swiss psychiatrist Carl Jung. It refers to meaningful coincidences that lack a causal relationship but are deeply connected in meaning."
+summary: "Synchronicity is Carl Jung's concept of meaningful coincidences that lack causal connection, invoked in parapsychology research as a potential framework for understanding psychic phenomena that defy normal probability."
 ---
 
 [[Synchronicity]] is a concept first introduced by the Swiss psychiatrist [[Carl Jung]]. It refers to meaningful coincidences that lack a causal relationship but are deeply connected in meaning. Jung believed that synchronicity was an acausal connecting principle, a phenomenon where events in the external world mirror an individual's internal psychological state, suggesting a deeper, underlying order to the universe.[^1]

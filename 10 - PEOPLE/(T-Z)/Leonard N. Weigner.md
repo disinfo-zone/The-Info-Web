@@ -6,7 +6,7 @@ tags:
   - Military
   - The_Finders
   - Cold_War
-summary: "Colonel Leonard N. Weigner was a U.S. military officer whose CIA career has been confirmed in contemporaneous press records. An unsigned investigative memo circulated among Finders researchers in the mid-1990s claims he was the senior officer who directed Marion Pettie to embed within Washington counterculture circles as an intelligence asset, an allegation that has not been corroborated in any primary source."
+summary: "Colonel Leonard N. Weigner was a confirmed CIA military officer identified in an unverified 1990s memo as the officer who directed Marion Pettie to embed within Washington counterculture circles as an intelligence asset, a claim with no corroboration in primary sources."
 location: "Washington, D.C."
 ---
 

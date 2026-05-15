@@ -4,7 +4,7 @@ tags:
   - MilitaryBase
   - USA
 category: "Military Installation"
-summary: "Marana is a Central Intelligence Agency airbase located near Tucson, Arizona. It served as a collection point for weapons purchased by the USA government for transfer to Israel and subsequently to Iran.[^1]"
+summary: "Marana is a CIA airbase near Tucson, Arizona, that served as a collection and staging point for U.S. government weapons transferred to Israel and subsequently to Iran, including 4,000 TOW missiles shipped through Guatemala and Australia in February 1987."
 ---
 [[Marana]] is a [[Central Intelligence Agency|CIA]] airbase located near [[Tucson]], [[Arizona]]. It served as a collection point for weapons purchased by the [[United States|U.S.]] government for transfer to [[Israel]] and subsequently to [[Iran]].[^1]
 

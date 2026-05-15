@@ -5,7 +5,7 @@ tags:
   - USA
   - IranContra
 category: "Intelligence Operation"
-summary: "The Tower Commission was a presidential commission of inquiry established to investigate the Iran-Contra Affair. It was headed by former Senator John Tower."
+summary: "The Tower Commission was the 1986-1987 presidential commission chaired by former Senator John Tower that investigated the Iran-Contra Affair and produced the first public account of NSC staff involvement in the arms-for-hostages scheme."
 start: 1986-12-01
 end: 1987-02-27
 location: "Washington, D.C."

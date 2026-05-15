@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Switzerland is a country in Europe known for its banking system. Adnan Khashoggi established front companies in Switzerland and Liechtenstein to handle his commissions."
+summary: "Switzerland is a European country whose banking secrecy laws made it the primary offshore jurisdiction for Iran-Contra arms dealer commissions, BCCI front operations, and Adnan Khashoggi's front companies, before Khashoggi was arrested there in 1988."
 ---
 [[Switzerland]] is a country in Europe known for its banking system. [[Adnan Khashoggi]] established front companies in [[Switzerland]] and [[Liechtenstein]] to handle his commissions. In 1988, Khashoggi was arrested in [[Switzerland]], accused of concealing funds, held for three months, and then extradited to the [[United States]].[^1]
 

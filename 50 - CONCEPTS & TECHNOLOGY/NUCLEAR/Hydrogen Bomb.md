@@ -4,7 +4,7 @@ tags:
   - Nuclear Weapon
   - Physics
 category: "Nuclear Concept"
-summary: "A hydrogen bomb, also known as a fusion device, is a nuclear weapon that derives its explosive energy from nuclear fusion reactions. It is far more powerful than a fission weapon."
+summary: "A hydrogen bomb is a thermonuclear weapon deriving its explosive force from nuclear fusion reactions triggered by a fission primary, making it orders of magnitude more powerful than a fission bomb alone."
 start: 1952
 location: Eniwetok Atoll
 ---

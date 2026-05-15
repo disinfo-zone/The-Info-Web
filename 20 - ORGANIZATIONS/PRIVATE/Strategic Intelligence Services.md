@@ -5,7 +5,7 @@ tags:
   - Intelligence
   - UK
 category: "Private Organization"
-summary: "Strategic Intelligence Services was a company run by Anthony Pearson, a former British Special Airborne Service (SAS) officer. Located in London, it provided espionage services to Israel, among others.[^1]"
+summary: "Strategic Intelligence Services was a London company run by former British SAS officer Anthony Pearson that provided espionage services to Israel and other clients."
 location: "London, UK"
 ---
 [[Strategic Intelligence Services]] was a company run by [[Anthony Pearson]], a former British Special Airborne Service (SAS) officer. Located in [[London]], it provided espionage services to [[Israel]], among others.[^1]

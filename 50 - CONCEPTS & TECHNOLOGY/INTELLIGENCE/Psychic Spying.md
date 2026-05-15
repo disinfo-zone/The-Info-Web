@@ -8,7 +8,7 @@ tags:
   - psi
 description: Psychic spying refers to the use of psychic abilities, such as remote viewing, for intelligence gathering and espionage.
 category: "Intelligence Concept"
-summary: "Psychic Spying refers to the use of Psi abilities, such as Remote Viewing, for intelligence gathering and espionage. This concept was a central focus of the STARGATE PROJECT, a U.S."
+summary: "Psychic Spying refers to the use of psi abilities such as remote viewing for intelligence collection, the operational premise of the U.S. Army's STARGATE program and the Soviet Union's parallel parapsychology programs."
 ---
 
 [[Psychic Spying]] refers to the use of [[Psi|psychic]] abilities, such as [[Remote Viewing]], for intelligence gathering and espionage. This concept was a central focus of the [[STARGATE PROJECT|Stargate Project]], a U.S. government-sponsored program that investigated the operational utility of psychic phenomena for military and intelligence applications.[^1]

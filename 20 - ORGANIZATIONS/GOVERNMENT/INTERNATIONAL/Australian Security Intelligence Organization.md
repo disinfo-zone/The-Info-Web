@@ -5,7 +5,7 @@ tags:
   - Australia
   - Intelligence
 category: "Foreign Government"
-summary: "The Australian Security Intelligence Organization (ASIO) is Australia internal intelligence service. It was informed by *The Sydney Morning Herald* about Oscar Guerrero attempt to sell photographs of Israel nuclear facility, provided by Mordecai..."
+summary: "The Australian Security Intelligence Organization (ASIO) is Australia's domestic intelligence service that, after The Sydney Morning Herald alerted it to Oscar Guerrero's attempt to sell Mordecai Vanunu's Dimona photographs, passed the information through ASIS to Israel."
 start: 1949
 location: "Canberra, Australia"
 ---

@@ -4,7 +4,7 @@ tags:
   - Academic
   - USA
 category: "Private Organization"
-summary: "The Massachusetts Institute of Technology (MIT) is a prestigious research university in Cambridge, Massachusetts. Jack P. Ruina was a professor of electrical engineering at MIT and a director of its Defense and Arms Control Studies Program."
+summary: "The Massachusetts Institute of Technology (MIT) is a prestigious research university in Cambridge, Massachusetts, whose professor Jack P. Ruina directed its Defense and Arms Control Studies Program and chaired the expert panel that analyzed the 1979 VELA satellite data from the suspected South Atlantic nuclear explosion."
 start: 1861
 location: "Cambridge, Massachusetts, USA"
 ---

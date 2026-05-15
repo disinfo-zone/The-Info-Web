@@ -8,7 +8,7 @@ tags:
   - Intelligence
   - The_Finders
   - Hughes_Aircraft
-summary: "General Ira Clarence Eaker (1896-1987) commanded the 8th Air Force's strategic bombing campaign over Europe and later the Mediterranean Allied Air Forces. After retirement he served as a Hughes Aircraft executive and defense policy figure in Washington. An anonymous 1990s memo claims Marion Pettie served as his chauffeur and received counterintelligence training through his connections, a claim unverified in primary sources."
+summary: "General Ira Eaker (1896-1987) commanded the 8th Air Force's strategic bombing over Europe and the Mediterranean Allied Air Forces, then served as a Hughes Aircraft executive, and appears in unverified Finders-related memos as a connection through whom Marion Pettie received intelligence training."
 born: 1896-04-13
 died: 1987-08-06
 location: "Washington, D.C."

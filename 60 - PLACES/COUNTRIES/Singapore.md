@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Singapore is a city-state and island country in Southeast Asia. It is mentioned in connection with Patrick Moriarty and Bo Gritz, as Moriarty paid Gritz to make business trips to China, Singapore, and other parts of Asia."
+summary: "Singapore is a Southeast Asian city-state that Patrick Moriarty paid Bo Gritz to visit as part of a cover business involving CIA-connected oil interests between China and Indonesia."
 ---
 [[Singapore]] is a city-state and island country in Southeast [[Asia]]. It is mentioned in connection with [[Patrick Moriarty]] and [[Bo Gritz]], as Moriarty paid Gritz to make business trips to [[China]], [[Singapore]], and other parts of [[Asia]]. Gritz claimed his July 1989 trip to [[Asia]] was to negotiate an oil interest he and Moriarty had set up between the [[People's Republic of China]] and [[Indonesia]].[^1]
 

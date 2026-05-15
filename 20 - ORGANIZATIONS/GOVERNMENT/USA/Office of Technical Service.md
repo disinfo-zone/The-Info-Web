@@ -9,7 +9,7 @@ tags:
   - technology
 description: The Office of Technical Service (OTS) was a division within the CIA responsible for technical assistance to spying and covert-action operations, often referred to as the "Q Branch" of the CIA.
 category: "U.S. Government"
-summary: "The Office of Technical Service (OTS) was a division within the Central Intelligence Agency responsible for technical assistance to spying and covert-action operations. It was previously known as the Technical Services Division (TSD)."
+summary: "The Office of Technical Service (OTS) was a CIA division responsible for technical support to covert-action operations, previously known as the Technical Services Division (TSD), often described as the agency's 'Q Branch' for developing spy tradecraft and surveillance tools."
 ---
 
 The [[Office of Technical Service]] (OTS) was a division within the [[Central Intelligence Agency|CIA]] responsible for technical assistance to spying and covert-action operations. It was previously known as the Technical Services Division (TSD). OTS was often referred to as the "Q Branch" of the CIA, akin to the gadget-strewn division in the James Bond films.[^1]

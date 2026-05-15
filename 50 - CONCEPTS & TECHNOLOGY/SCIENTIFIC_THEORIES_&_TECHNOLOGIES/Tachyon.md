@@ -8,7 +8,7 @@ tags:
   - theoretical
 description: A tachyon is a hypothetical subatomic particle that travels faster than the speed of light.
 category: "Scientific Theory & Technology"
-summary: "A Tachyon is a hypothetical subatomic particle that travels faster than the speed of light. In theoretical physics, tachyons are not forbidden by quantum physics, and their existence has been explored as a potential explanation for phenomena that..."
+summary: "A tachyon is a hypothetical subatomic particle that travels faster than light, not forbidden by quantum physics, and invoked in fringe physics contexts including some parapsychology research as a proposed mechanism for precognition."
 ---
 
 A [[Tachyon]] is a hypothetical subatomic particle that travels faster than the speed of light. In theoretical physics, tachyons are not forbidden by quantum physics, and their existence has been explored as a potential explanation for phenomena that seem to defy conventional understanding.[^1]

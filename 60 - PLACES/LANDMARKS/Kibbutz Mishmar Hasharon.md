@@ -3,7 +3,7 @@ tags:
   - Location
   - Israel
 category: "Landmark"
-summary: "Kibbutz Mishmar Hasharon is a kibbutz in Israel. In 1969, Ari Ben-Menashe joined this kibbutz after he could not be drafted into the Israel army due to his Iran passport. While there, he studied Hebrew and performed volunteer work.[^1]"
+summary: "Kibbutz Mishmar Hasharon is a kibbutz in Israel where Ari Ben-Menashe studied Hebrew in 1969 and where he first encountered Michael Dennis Rohan, the Australian who later carried out the arson attack on the Al-Aqsa Mosque."
 ---
 [[Kibbutz Mishmar Hasharon]] is a kibbutz in [[Israel]]. In 1969, [[Ari Ben-Menashe]] joined this kibbutz after he could not be drafted into the [[Israel|Israeli]] army due to his [[Iran|Iranian]] passport. While there, he studied Hebrew and performed volunteer work.[^1]
 

@@ -4,7 +4,7 @@ tags:
   - Nuclear Facility
   - Israel
 category: "Nuclear Scientists & Programs"
-summary: "Machons are the various buildings and facilities within the Dimona nuclear complex in Israel. As described by Mordecai Vanunu, the complex includes the reactor and at least eight other self-contained buildings, each with a specific function in the..."
+summary: "Machons are the numbered self-contained facility buildings within Israel's Dimona nuclear complex, whose functions including plutonium extraction and weapons component fabrication were publicly described by Mordechai Vanunu after his 1986 defection."
 location: Dimona, Negev Desert, Israel
 ---
 Machons are the various buildings and facilities within the [[Dimona]] nuclear complex in [[Israel]]. As described by [[Mordecai Vanunu]], the complex includes the reactor and at least eight other self-contained buildings, each with a specific function in the nuclear production process. The entire complex is a testament to Israeli ingenuity and secrecy, with significant portions constructed underground to conceal their true purpose.[^1]

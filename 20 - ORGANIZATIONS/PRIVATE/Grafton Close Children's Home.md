@@ -8,7 +8,7 @@ tags:
   - Elm_Guest_House
   - Operation_Fernbridge
 category: "Private Organization"
-summary: "Grafton Close Children's Home was run by Richmond Council in the Richmond area of London during the early 1980s. The home became infamous for its role in supplying children to the Elm Guest House VIP pedophile network."
+summary: "Grafton Close Children's Home was a Richmond Council-run facility in London during the early 1980s that became infamous for its alleged role in supplying children to the Elm Guest House VIP pedophile network."
 location: "Richmond, London, UK"
 ---
 Grafton Close Children's Home was run by [[Richmond Council]] in the Richmond area of London during the early 1980s. The home became infamous for its role in supplying children to the [[Elm Guest House]] VIP pedophile network. According to testimony from social worker [[Mary Moss]] during the 1990 inquest into the death of [[Carole Kasir]], the former owner of Elm Guest House, Kasir had approached her in 1989 with evidence that boys from Grafton Close Children's Home were supplied as prostitutes to VIP guests of the Elm Guest House back in the early 1980s. Mary Moss stated, "It was alleged the home, run by Richmond Council, supplied boys under the age of 14 to the gay guest house during the early 1980s said to be frequented often by top MPs and judges." According to Moss, Carole Kasir had been involved with a group of child pornographers linked to the foster home's management and was in fear for her life in the lead up to her death from an insulin overdose in July 1990.[^1]

@@ -8,7 +8,7 @@ tags:
   - Remote Viewing
 description: INSCOM was formed in 1977 by merging USAINTA and ASA, maintaining Army control while collaborating with the NSA. Headquartered at Fort Meade, it conducted remote viewing operations, including the STARGATE PROJECT, until at least 1981 under General Albert Stubblebine.
 category: "U.S. Government"
-summary: "The United States Army Intelligence and Security Command (INSCOM) was formed from the merger of the U.S."
+summary: "The United States Army Intelligence and Security Command (INSCOM) is the Army's primary intelligence and security command, formed in 1977 from the merger of the Army Security Agency and Army Intelligence Command, and parent organization to the STARGATE remote viewing unit at Fort Meade."
 start: 1977
 location: "Fort Meade, Maryland"
 ---

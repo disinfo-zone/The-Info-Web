@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Cyprus is an island nation in the Eastern Mediterranean, off the coast of Lebanon. Its capital, Nicosia, became a significant location for various intelligence and drug trafficking operations, particularly during the 1980s.[^1]"
+summary: "Cyprus is an Eastern Mediterranean island nation whose capital Nicosia, through the DEA/CIA front company Euramae Trading, served during the 1980s as a hub for Bekaa Valley heroin transit, PROMIS software sales to Middle Eastern countries, and CIA arms dealer communications."
 ---
 [[Cyprus]] is an island nation in the Eastern Mediterranean, off the coast of [[Lebanon]]. Its capital, Nicosia, became a significant location for various intelligence and drug trafficking operations, particularly during the 1980s.[^1]
 

@@ -9,7 +9,7 @@ tags:
   - Espionage
   - PROMIS
   - INSLAW
-summary: "Robert Philip Hanssen was an FBI supervisory special agent who spied for Soviet and Russian intelligence across three periods from 1979 to 2001, betraying approximately 50 human assets and thousands of pages of classified material before pleading guilty to 15 espionage counts. Post-arrest reporting alleged that the FBI case management system he exploited was a derivative of INSLAW's PROMIS software, a claim absent from the official charging documents and the 2003 DOJ Inspector General report."
+summary: "Robert Philip Hanssen (1944-2023) was an FBI supervisory agent who spied for Soviet and Russian intelligence from 1979 to 2001, betraying approximately 50 human assets and thousands of pages of classified material before pleading guilty to 15 espionage counts in 2001."
 born: 1944-04-18
 died: 2023-06-05
 location: "Chicago, Illinois, USA"

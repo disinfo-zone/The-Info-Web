@@ -9,7 +9,7 @@ tags:
   - DoJ
   - Journalist
   - Dark_Alliance_Investigation
-summary: "Joseph Daniel Casolaro was an American freelance journalist investigating a sprawling criminal conspiracy he called 'The Octopus,' linking the PROMIS software theft to Iran-Contra, the October Surprise, and BCCI. He was found dead in a Martinsburg, West Virginia hotel room on August 10, 1991, his wrists slashed twelve times, in a death officially ruled suicide."
+summary: "Joseph Daniel Casolaro (1947-1991) was a freelance journalist investigating the 'Octopus' conspiracy linking PROMIS, Iran-Contra, the October Surprise, and BCCI who was found dead in a Martinsburg, West Virginia hotel room on August 10, 1991, his wrists slashed twelve times in a death ruled suicide."
 born: 1947-06-16
 died: 1991-08-10
 location: "Fort Meade, Maryland"

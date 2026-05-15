@@ -5,7 +5,7 @@ tags:
   - Australia
   - Intelligence
 category: "Foreign Government"
-summary: "The Australian Security Intelligence Service (ASIS) is Australia external intelligence service. It was informed by the Australian Security Intelligence Organization (ASIO) about Oscar Guerrero attempt to sell photographs of Israel nuclear facility,..."
+summary: "The Australian Security Intelligence Service (ASIS) is Australia's external intelligence service that passed ASIO's warning about Oscar Guerrero's attempt to sell Mordecai Vanunu's Dimona photographs to Israel, enabling Mossad to begin surveillance of Vanunu."
 start: 1952
 location: "Canberra, Australia"
 ---

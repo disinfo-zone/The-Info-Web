@@ -10,7 +10,7 @@ tags:
   - Intelligence
 description: France is a country in Western Europe, known for its historical involvement in international affairs and its intelligence services.
 category: "Country"
-summary: "France is a country in Western Europe. Its intelligence services have been implicated in various international affairs, including alleged involvement in disinformation campaigns related to psychic research during the Cold War."
+summary: "France is a Western European country whose intelligence services (SDECE/DGSE) conducted covert operations including the fabrication of the 'Nautilus telepathy project' story and organization of the Safari Club anti-Soviet intelligence alliance under SDECE director Alexandre de Marenches."
 ---
 [[France]] is a country in Western Europe. Its intelligence services have been implicated in various international affairs, including alleged involvement in disinformation campaigns related to psychic research during the Cold War. For instance, [[Jacques Bergier]], a French consulting editor with alleged ties to [[French Intelligence]], played a role in disseminating the fabricated "[[The Nautilus]]" story, which had significant repercussions for Soviet psi research.[^1]
 

@@ -9,7 +9,7 @@ tags:
   - The_Finders
   - Attorney
   - Politician
-summary: "John W. DeCamp (1941-2017) was a Nebraska state senator, Vietnam veteran, and attorney who published 'The Franklin Cover-Up' in 1992 arguing that the Franklin Credit Union abuse allegations were genuine and suppressed. He served as legal aide to CIA Director William Colby in Vietnam and maintained a close personal relationship with Colby until Colby's death in 1996."
+summary: "John W. DeCamp (1941-2017) was a Nebraska state senator and attorney who published 'The Franklin Cover-Up' (1992) arguing the Franklin Credit Union abuse allegations were genuine and suppressed, drawing on his close personal relationship with former CIA Director William Colby who had been his superior in Vietnam."
 born: 1941-07-06
 died: 2017-07-27
 location: "Neligh, Nebraska / Norfolk, Nebraska"

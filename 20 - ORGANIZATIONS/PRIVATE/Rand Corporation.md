@@ -10,7 +10,7 @@ description: The Rand Corporation is an American nonprofit global policy think t
 category: "Private Organization"
 start: 1948
 location: "Santa Monica, California"
-summary: "The Rand Corporation is an American nonprofit global policy think tank. In the context of the *Remote Viewers* narrative, it is mentioned as being larger and more prestigious than Stanford Research Institute among scientific think tanks in the early..."
+summary: "The Rand Corporation is an American nonprofit global policy think tank in Santa Monica, California, noted in the remote viewing research context as larger and more prestigious than SRI, and in connection with early intelligence interest in the fabricated Nautilus telepathy story."
 ---
 
 The [[Rand Corporation]] is an American nonprofit global policy think tank. In the context of the *Remote Viewers* narrative, it is mentioned as being larger and more prestigious than [[Stanford Research Institute|SRI]] among scientific think tanks in the early 1970s.[^1]

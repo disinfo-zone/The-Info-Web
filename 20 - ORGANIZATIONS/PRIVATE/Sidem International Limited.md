@@ -5,7 +5,7 @@ tags:
   - ArmsDealer
   - UK
 category: "Private Organization"
-summary: "Sidem International Limited was an arms dealing company that operated out of London. It was involved in acquiring arms from Yugoslavia and selling them to Mohammed Radi Abdullah, who in turn sold them to Palestinian groups like Abu Nidal.[^1]"
+summary: "Sidem International Limited was a London arms dealing company involved in acquiring arms from Yugoslavia for resale to Mohammed Radi Abdullah, who distributed them to Palestinian groups including Abu Nidal."
 location: "London, UK"
 ---
 [[Sidem International Limited]] was an arms dealing company that operated out of [[London]]. It was involved in acquiring arms from [[Yugoslavia]] and selling them to [[Mohammed Radi Abdullah]], who in turn sold them to Palestinian groups like [[Abu Nidal]].[^1]

@@ -8,7 +8,7 @@ tags:
   - 1980s
   - Prostitution
   - White_House
-summary: "Craig Spence was a Washington D.C. lobbyist and social figure whose connections to a homosexual escort service and late-night White House tours were independently documented by the Washington Times and Washington Post in June-November 1989. He was found dead at the Boston Ritz Carlton on November 10, 1989, in a death ruled a suicide."
+summary: "Craig Spence was a Washington D.C. lobbyist whose connections to a homosexual escort service and unauthorized late-night White House tours were documented by the Washington Times and Washington Post in 1989, before his death on November 10, 1989, ruled a suicide, at the Boston Ritz Carlton."
 died: 1989-11-10
 location: "Washington, D.C."
 ---

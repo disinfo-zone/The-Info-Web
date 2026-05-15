@@ -6,7 +6,7 @@ tags:
   - CIA
   - The_Finders
   - Vietnam_War
-summary: "George Pettie is the son of Marion Pettie, founder of The Finders, and a confirmed former employee of Air America, the CIA proprietary airline that operated in Southeast Asia during the Vietnam War. His Air America employment was acknowledged by his father in a 1993 interview."
+summary: "George Pettie is the son of Marion Pettie, founder of The Finders, and a confirmed former employee of Air America, the CIA proprietary airline in Southeast Asia, as acknowledged by his father in a 1993 interview with U.S. News & World Report."
 location: "Northern Virginia"
 ---
 George Pettie is the son of [[Marion Pettie]], the founder and leader of [[The Finders]], and a confirmed former employee of [[Air America]], the CIA proprietary airline that operated in Southeast Asia during the Vietnam War. His employment at Air America was acknowledged by Marion Pettie himself in a 1993 interview with U.S. News & World Report.[^1]

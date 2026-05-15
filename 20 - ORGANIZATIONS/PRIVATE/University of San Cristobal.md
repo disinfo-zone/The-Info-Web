@@ -4,7 +4,7 @@ tags:
   - Education
   - Peru
 category: "Private Organization"
-summary: "The University of San Cristobal at Ayacucho, Peru, was where Abimael Guzman Reynoso, the founder of the Shining Path, was formerly a professor of philosophy. Many of its professors were members of the Shining Path or the Communist Party of Peru.[^1]"
+summary: "The University of San Cristobal de Huamanga in Ayacucho, Peru, was where Shining Path founder Abimael Guzman Reynoso taught philosophy and where Ari Ben-Menashe used a faculty appointment as cover for an Israeli intelligence mission."
 location: "Ayacucho, Peru"
 ---
 The [[University of San Cristobal]] at [[Ayacucho]], [[Peru]], was where [[Abimael Guzman Reynoso]], the founder of the [[Shining Path]], was formerly a professor of philosophy. Many of its professors were members of the [[Shining Path]] or the Communist Party of [[Peru]].[^1]

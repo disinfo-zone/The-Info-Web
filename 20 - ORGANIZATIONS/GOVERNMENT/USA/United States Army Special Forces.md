@@ -1,6 +1,6 @@
 ---
 category: "Paramilitary"
-summary: "The United States Army Special Forces, also known as the Green Berets, are a special operations force of the United States Army. They are mentioned in connection with several individuals involved in covert operations and intelligence activities.[^1]"
+summary: "The United States Army Special Forces (Green Berets) are a special operations force whose Vietnam veterans Michael Hand and Bo Gritz are central vault subjects through their respective roles in Nugan Hand Bank and CIA drug trafficking operations in the Golden Triangle."
 start: 1952
 location: "Fort Bragg, North Carolina"
 ---

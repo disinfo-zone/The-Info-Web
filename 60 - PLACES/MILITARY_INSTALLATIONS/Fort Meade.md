@@ -11,7 +11,7 @@ tags:
   - Maryland
 description: Fort George G. Meade is a United States Army installation in Maryland, serving as a key center for intelligence and security operations, and a primary location for the Stargate Project.
 category: "Military Installation"
-summary: "Fort Meade (officially Fort George G. Meade) is a United States Army installation located in Maryland, approximately twenty-five miles northeast of Washington, D.C. It is a sprawling, town-like base that houses, among other things, the NSA, the U.S."
+summary: "Fort Meade is a sprawling U.S. Army installation in Maryland that houses the NSA, INSCOM, and was the home base for the STARGATE remote viewing unit from 1977 to 1995."
 ---
 [[Fort Meade]] (officially Fort George G. Meade) is a United States Army installation located in Maryland, approximately twenty-five miles northeast of Washington, D.C. It is a sprawling, town-like base that houses, among other things, the [[NSA]], the U.S. First Army, and a part of the Army's [[United States Army Intelligence and Security Command|Intelligence and Security Command]] (INSCOM).[^1]
 

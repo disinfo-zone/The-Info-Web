@@ -1,6 +1,6 @@
 ---
 category: "Esoteric & Historical Concept"
-summary: "The phenomenon is a multi-thousand year old interaction between humanity and non human intelligence. Over this period, it has been discussed under a variety of names such as gods, angels, demons, spirits, various folklore creatures, flying ships,..."
+summary: "The phenomenon refers to the multi-thousand-year history of apparent interactions between humanity and non-human intelligence — recorded as gods, demons, and spirits in earlier eras and as UFOs and UAPs in the 20th and 21st centuries — which this vault approaches through government coverups and declassified sensor data."
 ---
 ### Editor’s Note
 

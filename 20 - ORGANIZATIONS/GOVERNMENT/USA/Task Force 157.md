@@ -4,7 +4,7 @@ tags:
   - Military
   - USA
 category: "U.S. Government"
-summary: "Task Force 157 was a small, undercover U.S. Navy intelligence unit. During the 1973 Yom Kippur War, operating in the waters of the Bosporus off Turkey, it relayed data to Washington D.C."
+summary: "Task Force 157 was a small covert U.S. Navy intelligence unit that operated in the Bosporus during the 1973 Yom Kippur War and was later managed by Edwin Wilson before he was convicted of illegal arms trafficking."
 start: 1966
 end: 1977
 ---

@@ -8,7 +8,7 @@ tags:
   - business
 description: Church's Fried Chicken is an American fast food restaurant chain specializing in fried chicken.
 category: "Private Organization"
-summary: "Church's Fried Chicken is an American fast food restaurant chain specializing in fried chicken. In the context of the *Remote Viewers* narrative, Bill Church, a part owner of the chain and an amateur scientist, provided Hal Puthoff with ten thousand..."
+summary: "Church's Fried Chicken is an American fast food chain whose part-owner Bill Church, an amateur scientist, provided Hal Puthoff with funding that helped initiate the SRI remote viewing research program."
 start: 1952
 location: "San Antonio, Texas"
 ---

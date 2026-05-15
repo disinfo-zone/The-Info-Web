@@ -4,7 +4,7 @@ tags:
   - Research
   - Israel
 category: "Private Organization"
-summary: "The Weizmann Institute of Science is a preeminent research facility in Israel. After Israel's successful War of Independence in 1948, Ernst David Bergmann became the director of its chemistry division."
+summary: "The Weizmann Institute of Science is Israel's preeminent research institution, whose chemistry and isotope research divisions, directed by Ernst David Bergmann after 1948, provided a scientific foundation for Israel's nuclear weapons program."
 start: 1934
 location: "Rehovot, Israel"
 ---

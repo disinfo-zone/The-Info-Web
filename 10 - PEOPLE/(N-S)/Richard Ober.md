@@ -10,7 +10,7 @@ tags:
   - Cold_War
   - 1960s
   - 1970s
-summary: "Richard Ober (c.1921-2001) was a CIA counterintelligence officer who served as director of Operation CHAOS (MHCHAOS) from its creation in August 1967 through its formal termination in March 1974. He reported to James Jesus Angleton, was given a covert White House office with access to Nixon administration principals, and was seconded to the National Security Council after CHAOS was exposed. His papers are held at the Hoover Institution at Stanford University."
+summary: "Richard Ober (c.1921-2001) was the CIA officer who directed Operation CHAOS (MHCHAOS) from its 1967 creation through its 1974 termination, reporting to James Angleton and maintaining a covert White House office with access to Nixon administration principals."
 born: 1921-01-01
 died: 2001-09-11
 location: "Fairfax Station, Virginia"

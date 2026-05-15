@@ -4,7 +4,7 @@ tags:
   - Nuclear
   - World War II
 category: "Historical Program"
-summary: "The Manhattan Project was a top-secret research and development undertaking by the United States with the support of the United Kingdom and Canada during World War II. Its primary objective was to produce the first nuclear weapons. J."
+summary: "The Manhattan Project was the top-secret U.S.-British-Canadian research program (1942-1946) that developed the first nuclear weapons under J. Robert Oppenheimer at Los Alamos and other facilities, culminating in the atomic bombings of Hiroshima and Nagasaki."
 start: 1942
 end: 1947
 ---

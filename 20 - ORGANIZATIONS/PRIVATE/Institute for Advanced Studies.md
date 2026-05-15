@@ -4,7 +4,7 @@ tags:
   - Academic
   - USA
 category: "Private Organization"
-summary: "The Institute for Advanced Studies is a prestigious academic institution in Princeton, New Jersey. Lewis L. Strauss was a major contributor and fundraiser for the institute, and served on its board of trustees during World War II."
+summary: "The Institute for Advanced Studies is a prestigious academic institution in Princeton, New Jersey, where trustee Lewis L. Strauss arranged a two-month visiting fellowship for Israeli nuclear program director Ernst David Bergmann in 1966."
 start: 1930
 location: "Princeton, New Jersey, USA"
 ---

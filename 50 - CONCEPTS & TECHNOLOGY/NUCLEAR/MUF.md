@@ -4,7 +4,7 @@ tags:
   - Nuclear
   - Accounting
 category: "Nuclear Concept"
-summary: "MUF, or 'material unaccounted for,' is a term commonly used in the nuclear processing industry. It refers to the difference between the amount of nuclear material that is supposed to be present in a facility and the amount that is actually measured."
+summary: "MUF ('material unaccounted for') is the nuclear industry term for the discrepancy between expected and measured quantities of nuclear material in a facility, whose large-scale irregular occurrence at the NUMEC plant is central evidence in allegations that Israel diverted enriched uranium for its nuclear weapons program."
 ---
 MUF, or "material unaccounted for," is a term commonly used in the nuclear processing industry. It refers to the difference between the amount of nuclear material that is supposed to be present in a facility and the amount that is actually measured. This discrepancy can arise from various factors, including inherent process losses, measurement uncertainties, and, in some cases, diversion of material.[^1]
 

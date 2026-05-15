@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Laos is a country in Southeast Asia. It is mentioned in connection with the clandestine Central Intelligence Agency war and drug trafficking activities in the Golden Triangle.[^1]"
+summary: "Laos is a Southeast Asian country that served as the theater for a secret CIA war and intelligence-connected drug trafficking operations in the Golden Triangle, where vault subjects Ted Shackley, Tom Clines, Michael Hand, and Bo Gritz all operated."
 ---
 [[Laos]] is a country in Southeast [[Asia]]. It is mentioned in connection with the clandestine [[Central Intelligence Agency|CIA]] war and drug trafficking activities in the [[Golden Triangle]].[^1]
 

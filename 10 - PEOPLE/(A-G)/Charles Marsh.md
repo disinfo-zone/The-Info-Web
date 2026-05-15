@@ -8,7 +8,7 @@ tags:
   - Washington_DC
   - World_War_II
   - Media
-summary: "Charles Edward Marsh (1887-1964) was a Texas newspaper publisher, the principal early patron of Lyndon Johnson, and a documented conduit for British Security Coordination intelligence operations in wartime Washington. An anonymous 1990s memo claims he arranged counterintelligence training for Marion Pettie, a claim unverified in primary sources."
+summary: "Charles Edward Marsh (1887-1964) was a Texas newspaper publisher and early patron of Lyndon Johnson who served as a documented conduit for British Security Coordination intelligence operations in wartime Washington D.C."
 born: 1887-01-07
 died: 1964-12-30
 location: "Austin, Texas / Washington, D.C."

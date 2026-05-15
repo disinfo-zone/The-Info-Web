@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Liechtenstein is a small, landlocked country in Central Europe, known for its financial services. Adnan Khashoggi established front companies in Switzerland and Liechtenstein to handle his commissions.[^1]"
+summary: "Liechtenstein is a small Central European principality known for banking secrecy, where arms dealer Adnan Khashoggi established front companies alongside Swiss entities to handle commissions from Iran-Contra arms deals."
 ---
 [[Liechtenstein]] is a small, landlocked country in Central Europe, known for its financial services. [[Adnan Khashoggi]] established front companies in [[Switzerland]] and [[Liechtenstein]] to handle his commissions.[^1]
 

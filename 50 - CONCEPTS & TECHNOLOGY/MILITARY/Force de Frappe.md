@@ -4,7 +4,7 @@ tags:
   - Military
   - France
 category: "Military Technology"
-summary: "Force de Frappe, meaning 'strike force' in French, refers to France's independent nuclear deterrent. Developed by the mid-1960s, its ambition was to independently target the Soviet Union with intercontinental missiles."
+summary: "Force de Frappe ('strike force') is France's independent nuclear deterrent, developed by the mid-1960s with the doctrine — articulated by theorist Pierre Gallois — that even limited nuclear capability creates deterrence by making any attack too costly for an aggressor."
 start: 1964
 location: France
 ---

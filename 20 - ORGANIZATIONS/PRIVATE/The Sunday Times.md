@@ -4,7 +4,7 @@ tags:
   - Media
   - UK
 category: "Private Organization"
-summary: "*The Sunday Times* is a British newspaper. It struck a deal with Oscar Guerrero to publish Mordecai Vanunu story and photographs of Israel nuclear facility."
+summary: "The Sunday Times is a British newspaper that struck a deal with Mordecai Vanunu's contact Oscar Guerrero to publish Vanunu's account and photographs of Israel's Dimona nuclear facility in exchange for a £250,000 advance."
 start: 1821
 location: "London, UK"
 ---

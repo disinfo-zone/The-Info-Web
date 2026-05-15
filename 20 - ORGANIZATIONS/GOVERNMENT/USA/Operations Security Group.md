@@ -9,7 +9,7 @@ tags:
   - USA
 description: The Operations Security Group (Opsec) was a U.S. Army unit focused on protecting sensitive operations from foreign espionage.
 category: "U.S. Government"
-summary: "The Operations Security Group (Opsec) was a U.S. Army unit based at Fort Meade, Maryland, whose primary task was to protect sensitive operations from foreign espionage. This involved acting as a 'Red-Team,' literally spying on U.S."
+summary: "The Operations Security Group (OPSEC) was a Fort Meade-based U.S. Army unit that red-teamed U.S. military and intelligence operations by spying on American facilities to identify vulnerabilities exploitable by foreign intelligence services."
 location: "Fort Meade, Maryland"
 ---
 

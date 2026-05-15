@@ -4,7 +4,7 @@ tags:
   - Government
   - USA
 category: "U.S. Government"
-summary: "The Arms Control and Disarmament Agency (ACDA) was a U.S. government agency responsible for arms control and disarmament policy. Charles N. Van Doren served as its deputy general counsel during the Richard M. Nixon administration."
+summary: "The Arms Control and Disarmament Agency (ACDA) was a U.S. government agency responsible for nuclear and conventional arms control policy, whose deputy general counsel Charles N. Van Doren contributed to proliferation discussions including the Gilpatric report."
 start: 1961
 end: 1999
 location: "Washington, D.C."

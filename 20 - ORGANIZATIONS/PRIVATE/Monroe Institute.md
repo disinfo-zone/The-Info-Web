@@ -8,7 +8,7 @@ tags:
   - consciousness
 description: The Monroe Institute is a non-profit organization dedicated to the exploration of human consciousness, known for its Hemi-Sync audio technology.
 category: "Private Organization"
-summary: "The Monroe Institute is a non-profit organization dedicated to the exploration of human consciousness, known for its Hemi-Sync audio technology. It was founded by Robert Monroe."
+summary: "The Monroe Institute is a non-profit consciousness research organization founded by Robert Monroe, known for its Hemi-Sync audio technology, which was used by U.S. Army remote viewers in the Stargate program."
 start: 1971
 location: "Faber, Virginia, USA"
 ---

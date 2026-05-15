@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Fiji is an island nation in Melanesia, part of Oceania in the Pacific Ocean. Michael Hand reportedly fled Australia under a false identity on June 14, 1980, on a flight to Fiji."
+summary: "Fiji is a Pacific island nation that served as the first destination for Michael Hand's June 14, 1980 flight out of Australia under a false identity after Nugan Hand Bank's collapse."
 ---
 [[Fiji]] is an island nation in Melanesia, part of Oceania in the Pacific Ocean. [[Michael Hand]] reportedly fled [[Australia]] under a false identity on June 14, 1980, on a flight to [[Fiji]]. He was allegedly helped to escape by an American code-named "Charlie," identified as a former member of the [[United States Army Special Forces|U.S. Special Forces]] and ex-[[Central Intelligence Agency|CIA]] operative.[^1]
 

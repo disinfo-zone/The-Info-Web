@@ -4,7 +4,7 @@ tags:
   - Finance
   - Israel
 category: "Private Organization"
-summary: "Bank Leumi is an Israeli state bank. After his retirement in 1973, Walworth Barbour, the former American ambassador to Israel, agreed to become a board member of its American branch."
+summary: "Bank Leumi is Israel's oldest and one of its largest banks, whose American branch board included Walworth Barbour, former U.S. Ambassador to Israel, after his 1973 retirement."
 start: 1902
 location: "Tel Aviv, Israel"
 ---

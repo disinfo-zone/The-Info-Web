@@ -9,7 +9,7 @@ tags:
   - Child_Abuse
   - 1980s
   - 1990s
-summary: "Paul Bonacci was the principal claimant in the Franklin Credit Union abuse allegations, alleging that Lawrence King Jr. transported him to Washington D.C. for abuse at parties arranged by lobbyist Craig Spence beginning approximately 1981. He was convicted on separate child sexual assault charges. A 1999 federal civil default judgment awarded him $1 million against King, who declined to contest the suit."
+summary: "Paul Bonacci was the principal claimant in the Franklin Credit Union abuse allegations, alleging Lawrence King Jr. transported him to Washington D.C. for abuse at Craig Spence-arranged parties from approximately 1981, and won a 1999 federal civil default judgment of $1 million against King."
 location: "Omaha, Nebraska"
 ---
 

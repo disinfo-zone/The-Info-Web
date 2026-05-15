@@ -5,7 +5,7 @@ tags:
   - The_Finders
   - Washington_DC
   - 1980s
-summary: "Douglas Edward Ammerman, age 27, was one of two Finders members arrested in Tallahassee, Florida on February 4, 1987 while transporting six malnourished children in a van. All charges against him were dropped in March 1987."
+summary: "Douglas Edward Ammerman was one of two Finders members arrested in Tallahassee on February 4, 1987 while transporting six malnourished children in a van, charged with misdemeanor child abuse and later released when all charges were dropped in March 1987."
 location: "Washington, D.C."
 ---
 

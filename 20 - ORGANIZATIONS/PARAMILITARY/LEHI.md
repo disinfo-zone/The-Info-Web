@@ -5,7 +5,7 @@ tags:
   - Israel
   - Terrorism
 category: "Paramilitary"
-summary: "LEHI (Lohamei Herut Israel, Hebrew for Fighters for the Liberation of Israel), also known as the Stern Gang, was a Jewish terrorist group. It was founded by David Stern and later led by Yitzhak Shamir.[^1]"
+summary: "LEHI (Lohamei Herut Israel), also known as the Stern Gang, was a Jewish paramilitary organization founded by Avraham Stern and later led by Yitzhak Shamir that conducted assassinations and bombings against British Mandate authorities and Arab targets in Palestine."
 start: 1940
 end: 1948
 location: "Palestine"

@@ -11,7 +11,7 @@ tags:
   - Nazi
 description: Nazi Germany is the common English name for Germany between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country.
 category: "Country"
-summary: "Nazi Germany is the common English name for Germany between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country. During this period, the Nazi regime was responsible for the Holocaust and was a major belligerent in World War II."
+summary: "Nazi Germany (1933-1945) was the Hitler-led totalitarian state responsible for the Holocaust and World War II, whose defeated scientific and intelligence personnel were subsequently recruited by both the U.S. and Soviet Union through programs including Operation Paperclip."
 ---
 
 [[Nazi Germany]] is the common English name for [[Germany]] between 1933 and 1945, when Adolf Hitler and the Nazi Party controlled the country. During this period, the Nazi regime was responsible for the Holocaust and was a major belligerent in World War II.[^1]

@@ -8,7 +8,7 @@ tags:
   - research
 description: The Advanced Research Projects Agency (ARPA) was a U.S. government agency responsible for funding and overseeing advanced technological research, including early investigations into psychic phenomena. It is now known as DARPA.
 category: "U.S. Government"
-summary: "The Advanced Research Projects Agency (ARPA) was a U.S. government agency responsible for funding and overseeing advanced technological research. It is now known as DARPA (Defense Advanced Research Projects Agency).[^1]"
+summary: "The Advanced Research Projects Agency (ARPA), now known as DARPA, was a U.S. government agency that funded advanced technological research including early classified investigations into psychic phenomena during the Cold War."
 start: 1958
 end: 1972
 location: "Arlington, Virginia"

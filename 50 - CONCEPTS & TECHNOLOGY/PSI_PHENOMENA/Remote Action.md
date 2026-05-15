@@ -8,7 +8,7 @@ tags:
   - psychokinesis
 description: Remote action is a term used in parapsychology to describe the influence of a person's mind on a physical system without direct interaction.
 category: "Psi Phenomenon"
-summary: "Remote Action (RA) is a term used in Parapsychology to describe the influence of a person's mind on a physical system without direct interaction. It is a broader term for Psychokinesis (PK) and was used in the context of the U.S."
+summary: "Remote Action (RA) is a parapsychology term for psychokinetic mental influence on physical systems without contact, used by U.S. government researchers as a formal operational category alongside remote viewing in STARGATE-era programs."
 ---
 
 [[Remote Action]] (RA) is a term used in [[Parapsychology]] to describe the influence of a person's mind on a physical system without direct interaction. It is a broader term for [[Psychokinesis]] (PK) and was used in the context of the U.S. government's psychic research programs to describe the potential for individuals to affect physical objects or systems from a distance.[^1]

@@ -7,7 +7,7 @@ tags:
   - Investigation
   - 1989
   - 1990
-summary: "Gary Caradori was a private investigator hired by the Nebraska Legislature's Franklin Committee in 1988-1989 to investigate abuse allegations connected to the Franklin Credit Union collapse. He died on July 11, 1990, when his aircraft suffered structural failure over Lee County, Illinois, shortly after he had collected what he described as significant new evidence. The NTSB determined structural failure as the probable cause; no evidence of sabotage was found."
+summary: "Gary Caradori was a private investigator hired by the Nebraska Legislature's Franklin Committee to investigate Franklin Credit Union abuse allegations who died July 11, 1990 when his aircraft broke apart over Lee County, Illinois, shortly after collecting what he described as significant new evidence."
 died: 1990-07-11
 location: "Omaha, Nebraska"
 ---

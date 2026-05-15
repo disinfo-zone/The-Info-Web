@@ -4,7 +4,7 @@ tags:
   - Paramilitary
   - Israel
 category: "Paramilitary"
-summary: "The Hagannah was the military arm of the Zionist movement in Palestine. In 1936, it requested a chemist to help produce an effective high explosive for use in the underground war against the Arabs and the British."
+summary: "The Haganah was the main Zionist paramilitary organization in British Mandate Palestine (1920-1948) that became the core of the Israel Defense Forces upon Israeli independence."
 start: 1920
 end: 1948
 location: "Palestine"

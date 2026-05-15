@@ -1,6 +1,6 @@
 ---
 category: "U.S. Government"
-summary: "The California Highway Patrol is the state police agency of California. It was involved in the investigation of the 'Queen's accident' on March 5, 1983, a head-on collision involving a Mariposa County Sheriff's vehicle and a Secret Service car."
+summary: "The California Highway Patrol is California's state police agency whose investigation of the 1983 'Queen's accident' — a collision involving a Mariposa County Sheriff's vehicle and a Secret Service car — was reportedly suppressed after the state Attorney General's office discarded its report."
 start: 1929
 location: "Sacramento, California"
 ---

@@ -1,6 +1,6 @@
 ---
 category: "Private Organization"
-summary: "The Genovese Crime Family is a prominent La Cosa Nostra crime family. Gerardo Catena, a chief lieutenant to the Genovese Crime Family, owned almost 20 percent of the Murchison Oil Lease Company in Oklahoma.[^1]"
+summary: "The Genovese Crime Family is a prominent New York La Cosa Nostra organization whose chief lieutenant Gerardo Catena owned nearly 20 percent of the Murchison Oil Lease Company in Oklahoma, connecting the family to Texas oil money and intelligence-linked networks."
 start: 1931
 location: "New York City, USA"
 ---

@@ -4,7 +4,7 @@ tags:
   - Satellite
   - Intelligence
 category: "Intelligence Concept"
-summary: "VELA Satellite refers to a series of U.S. nuclear detection satellites. On September 22, 1979, a VELA satellite recorded two distinctive bright flashes of light over the South Indian Ocean, which was considered probable evidence of a nuclear..."
+summary: "VELA was a U.S. nuclear detection satellite program whose September 22, 1979 detection of two bright flashes over the South Indian Ocean produced the 'Vela Incident,' widely believed to be an Israeli-South African nuclear test that the U.S. government never officially confirmed."
 date: 1979-09-22
 location: South Indian Ocean
 ---

@@ -4,7 +4,7 @@ tags:
   - Military
   - Israel
 category: "Paramilitary"
-summary: "The Golani infantry brigade is an elite infantry brigade of the Israel Defense Forces. Uri Simchoni, a member of the Iran-Israel Joint Committee, was formerly the chief of this brigade.[^1]"
+summary: "The Golani Brigade is an elite Israeli Army infantry unit whose former commander Uri Simchoni later served as a member of the Iran-Israel Joint Committee during the Iran-Contra arms transfers."
 start: 1948
 location: "Israel"
 ---

@@ -4,7 +4,7 @@ tags:
   - Government
   - Israel
 category: "Foreign Government"
-summary: "Tahal is the government-owned water planning corporation in Israel. It was responsible for building the expertly concealed shelters for Israel's first nuclear missile field at Hirbat Zachariah."
+summary: "Tahal is the Israeli government-owned water planning corporation that constructed the expertly concealed underground shelters for Israel's first nuclear missile field at Hirbat Zachariah, importing missile launch tubes marked as pipeline."
 start: 1952
 location: "Tel Aviv, Israel"
 ---

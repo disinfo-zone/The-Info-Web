@@ -8,7 +8,7 @@ tags:
   - USA
 description: Wright-Patterson Air Force Base is a United States Air Force base located in Ohio, and a key center for aerospace research and development.
 category: "Military Installation"
-summary: "Wright-Patterson Air Force Base is a U.S. Air Force base located in Ohio. It is a key center for aerospace research and development, and has been involved in various classified projects, including those related to psychic phenomena.[^1]"
+summary: "Wright-Patterson Air Force Base in Ohio is a major U.S. aerospace research and development center historically linked to classified UAP investigations and psychic phenomena research programs."
 ---
 
 [[Wright-Patterson Air Force Base]] is a [[U.S. Air Force]] base located in Ohio. It is a key center for aerospace research and development, and has been involved in various classified projects, including those related to psychic phenomena.[^1]

@@ -9,7 +9,7 @@ tags:
   - USA
 description: The U.S. Army Intelligence Agency (USAINTA) was a component of the United States Army's intelligence apparatus.
 category: "U.S. Government"
-summary: "The Army Intelligence Agency (USAINTA) was a component of the U.S. Army's intelligence apparatus. In the context of the *Remote Viewers* narrative, it is mentioned as merging with the Army Security Agency (ASA) to form the all-in-one United States..."
+summary: "The Army Intelligence Agency (USAINTA) was a component of the U.S. Army's intelligence apparatus that merged with the Army Security Agency in 1977 to form INSCOM, under whose structure Edmund Thompson oversaw the Grill Flame remote viewing program."
 end: 1977
 ---
 

@@ -7,7 +7,7 @@ tags:
   - The_Finders
   - Washington_DC
   - 1980s
-summary: "John H. Stitcher Jr. was a Metropolitan Police Department Intelligence Division sergeant who filed the key February 19, 1987 report documenting CIA acknowledgment of a 'vested interest' in The Finders. He died in May 1993, five months before the DOJ formally reopened its investigation, rendering him unavailable as a witness."
+summary: "John H. Stitcher Jr. was the MPD Intelligence Division sergeant who filed the February 19, 1987 report documenting CIA acknowledgment of a 'vested interest' in The Finders, and who died in May 1993 before the DOJ reopened its investigation in October of that year."
 born: 1945
 died: 1993-05-28
 location: "Washington, D.C."

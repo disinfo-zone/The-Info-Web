@@ -7,7 +7,7 @@ tags:
   - Texas
   - Reagan
   - 1980s
-summary: "Ben Barnes served as Texas Speaker of the House (1965-1969) and Lieutenant Governor (1969-1973). In March 2023, he publicly disclosed that in July-August 1980 he accompanied former Governor John Connally on a Middle East tour during which Connally carried a message to Arab leaders urging them to counsel Iran to delay the hostage release until after the election, in exchange for better treatment under a Reagan administration."
+summary: "Ben Barnes served as Texas Speaker of the House (1965-1969) and Lieutenant Governor (1969-1973) and in March 2023 publicly disclosed that he accompanied John Connally on a 1980 Middle East trip at which Connally urged Arab leaders to counsel Iran to delay the hostage release until after the election."
 born: 1938-04-17
 location: "De Leon, Texas"
 ---

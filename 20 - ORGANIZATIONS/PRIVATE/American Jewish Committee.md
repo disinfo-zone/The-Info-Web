@@ -4,7 +4,7 @@ tags:
   - Jewish
   - USA
 category: "Private Organization"
-summary: "The American Jewish Committee is a Jewish advocacy organization in the United States. In 1933, Lewis L."
+summary: "The American Jewish Committee is a major American Jewish advocacy organization founded in 1906 that appears in this vault through its connections to Israeli nuclear lobbying and U.S. government intelligence figures."
 start: 1906
 location: "New York City"
 ---

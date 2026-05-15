@@ -5,7 +5,7 @@ tags:
   - ArmsDealer
   - Israel
 category: "Private Organization"
-summary: "Eagle was an Israel arms-dealing company. Its representative, Pesach Ben-Or, was involved in helping the military regime in Guatemala set up a computer tracking system to fight the leftist insurgency."
+summary: "Eagle was an Israeli arms company whose representative Pesach Ben-Or assisted the Guatemalan military regime in establishing a computer tracking system against leftist insurgents, connecting Israeli military exports to Latin American authoritarian regimes."
 location: "Israel"
 ---
 [[Eagle]] was an [[Israel|Israeli]] arms-dealing company. Its representative, [[Pesach Ben-Or]], was involved in helping the military regime in [[Guatemala]] set up a computer tracking system to fight the leftist insurgency. The company's operations in [[Guatemala]] were overseen by [[Ariel Sharon]] and his associate [[Mike Harari]] in [[Panama]].[^1]

@@ -9,7 +9,7 @@ tags:
   - Reagan
   - 1980s
   - 1990s
-summary: "Lawrence 'Larry' King Jr. was the operator of the Franklin Community Federal Credit Union in Omaha, Nebraska, whose collapse in November 1988 revealed $39.4 million in embezzlement. King had a prominent profile within the Nebraska Republican Party and Reagan administration circles. He pleaded guilty to fraud in February 1991 and served approximately ten years of a fifteen-year federal sentence."
+summary: "Lawrence King Jr. was the operator of the Franklin Community Federal Credit Union in Omaha whose 1988 collapse revealed $39.4 million in embezzlement and triggered abuse allegations linking King's Republican Party connections to a Washington D.C. child prostitution ring."
 location: "Omaha, Nebraska"
 ---
 

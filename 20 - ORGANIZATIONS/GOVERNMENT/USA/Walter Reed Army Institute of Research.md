@@ -7,7 +7,7 @@ tags:
   - Military
   - Research Institution
 category: "U.S. Government"
-summary: "The Walter Reed Army Institute of Research (WRAIR) is a biomedical research laboratory of the U.S. Army. It was involved in classified research related to the Moscow Signal and Project Pandora during the Cold War[^1]."
+summary: "The Walter Reed Army Institute of Research (WRAIR) is the U.S. Army's principal biomedical research laboratory, involved during the Cold War in classified investigations into the Moscow Signal and the biological effects of microwave radiation under Project Pandora."
 start: 1893
 location: "Silver Spring, Maryland"
 ---

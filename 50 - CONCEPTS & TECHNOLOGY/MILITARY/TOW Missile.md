@@ -8,7 +8,7 @@ tags:
   - Israel
   - Iran
   - 1980s
-summary: "The BGM-71 TOW (Tube-launched, Optically-tracked, Wire-guided) is a crew-portable anti-tank guided missile system developed by Hughes Aircraft Company for the U.S. Army. It appears throughout this vault as the primary weapons system transferred to Iran through Israeli intermediaries in the August-September 1985 phase of the Iran-Contra arms-for-hostages scheme."
+summary: "The BGM-71 TOW is a U.S. Army crew-portable anti-tank guided missile system developed by Hughes Aircraft that was the primary weapons system transferred to Iran through Israeli intermediaries in the August-September 1985 phase of the Iran-Contra arms-for-hostages scheme."
 ---
 
 The BGM-71 TOW (Tube-launched, Optically-tracked, Wire-guided) is an American crew-portable, man-packable anti-tank guided missile system. It was developed by Hughes Aircraft Company for the U.S. Army beginning in the 1960s and entered service in 1970. The TOW has been continuously updated through multiple variants and remains one of the most widely used anti-armor guided missile systems in the world, having been exported to dozens of countries. Its appearance in this vault is primarily as the central weapons system in the [[Iran-Contra Affair|Iran-Contra]] arms-for-hostages transactions of 1985.[^1]

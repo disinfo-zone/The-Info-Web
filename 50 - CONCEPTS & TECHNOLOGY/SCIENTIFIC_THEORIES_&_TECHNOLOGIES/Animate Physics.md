@@ -8,7 +8,7 @@ tags:
   - biology
 description: Animate physics is a term used to describe the study of physical phenomena related to living organisms, particularly in the context of consciousness and psi abilities.
 category: "Scientific Theory & Technology"
-summary: "Animate Physics is a term used to describe the study of physical phenomena related to living organisms, particularly in the context of consciousness and Psi abilities. It contrasts with 'inanimate physics,' which focuses on non-living matter.[^1]"
+summary: "Animate physics is a term describing the study of physical phenomena in living organisms — particularly consciousness and psi abilities — contrasted with inanimate physics governing non-living matter, used in the Soviet and American parapsychology research context."
 ---
 
 [[Animate Physics]] is a term used to describe the study of physical phenomena related to living organisms, particularly in the context of consciousness and [[Psi|psi]] abilities. It contrasts with "inanimate physics," which focuses on non-living matter.[^1]

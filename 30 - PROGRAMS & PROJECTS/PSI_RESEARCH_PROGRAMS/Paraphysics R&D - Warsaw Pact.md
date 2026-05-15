@@ -9,7 +9,7 @@ tags:
   - psi
 description: Paraphysics R&D - Warsaw Pact was a 1977 Defense Intelligence Agency report authored by Dale Graff, assessing Soviet and Warsaw Pact research into psi phenomena.
 category: "Psi Research Program"
-summary: "'Paraphysics R&D - Warsaw Pact' was a 1977 Defense Intelligence Agency report authored by Dale Graff. The report assessed Soviet Union and Warsaw Pact research into Psi phenomena, including electromagnetic fields, quantum physics, holography, and..."
+summary: "'Paraphysics R&D - Warsaw Pact' was a 1977 DIA report by Dale Graff assessing Soviet and Warsaw Pact research into psi phenomena including electromagnetic fields, quantum physics, and holography, which provided competitive justification for continued American government parapsychology investment."
 date: 1977
 location: "Defense Intelligence Agency"
 ---

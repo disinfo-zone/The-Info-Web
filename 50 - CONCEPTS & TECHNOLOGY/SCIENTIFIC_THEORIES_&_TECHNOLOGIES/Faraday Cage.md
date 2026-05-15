@@ -8,7 +8,7 @@ tags:
   - physics
 description: A Faraday cage is an enclosure used to block electromagnetic fields.
 category: "Scientific Theory & Technology"
-summary: "A Faraday Cage is an enclosure used to block electromagnetic fields. It is named after the English scientist Michael Faraday, who invented it in 1836."
+summary: "A Faraday cage is an electromagnetic shielding enclosure invented by Michael Faraday in 1836, used in parapsychology research to test whether psychic phenomena could be blocked by shielding subjects from external electromagnetic signals."
 start: 1836
 ---
 

@@ -4,7 +4,7 @@ tags:
   - Political Party
   - Israel
 category: "Foreign Government"
-summary: "Mapai (Israel Workers') Party was the dominant political party in Israel for many years. Its political control under David Ben-Gurion was total, akin to that of a Mafia don."
+summary: "Mapai (Israel Workers' Party) was the dominant political party in Israel from the state's founding through 1968, whose total control under David Ben-Gurion shaped Israeli nuclear policy and whose internal disputes over the Lavon Affair permanently split the party."
 start: 1930
 end: 1968
 location: "Tel Aviv, Israel"

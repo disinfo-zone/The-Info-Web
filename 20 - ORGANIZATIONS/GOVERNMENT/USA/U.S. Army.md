@@ -8,7 +8,7 @@ tags:
   - Dark_Alliance_Investigation
 description: The U.S. Army trained hundreds of Nicaraguan National Guard officers who later formed the leadership of the FDN Contra army, and hosted the Stargate Project remote viewing unit at Fort Meade.
 category: "U.S. Government"
-summary: "Obviously this is an enormous organization within the larger umbrella of the Department of Defense and well beyond the scope of a single information page. With that said, the U.S."
+summary: "The U.S. Army is the primary ground combat branch of the U.S. military and the parent service for INSCOM, which administered the STARGATE remote viewing unit at Fort Meade."
 ---
 
 Obviously this is an enormous organization within the larger umbrella of the [[Department of Defense]] and well beyond the scope of a single information page. With that said, the U.S. Army is deeply ingrained as one of the locuses of power within the United States due in large part to its abilities to directly inflict violence globally as well as direct hundreds of billions of dollars in funding annually.

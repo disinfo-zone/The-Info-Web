@@ -4,7 +4,7 @@ tags:
   - Aircraft
   - Reconnaissance
 category: "Military Technology"
-summary: "The U-2 Spy Plane is a high-altitude reconnaissance aircraft developed by the United States. It was jointly developed by the Central Intelligence Agency and the Air Force under cover by the Lockheed Aircraft Company."
+summary: "The U-2 is a high-altitude reconnaissance aircraft jointly developed by the CIA and Air Force under Lockheed cover, operational from 1956, whose overflight missions gathered critical intelligence on Soviet nuclear facilities and the Dimona reactor before a U-2 was shot down over the USSR in May 1960."
 start: 1956-07-04
 location: West Germany
 ---

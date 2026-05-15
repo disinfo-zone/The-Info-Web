@@ -9,7 +9,7 @@ tags:
   - Russell_Tricker
   - Spartacus_International
 category: "Private Organization"
-summary: "Toff's Travel was a coach service operated by Russell Tricker that crossed the English Channel in the 1980s. The service was specifically used to smuggle boys into Amsterdam for sexual exploitation."
+summary: "Toff's Travel was a Channel-crossing coach service operated by Russell Tricker in the 1980s that was specifically used to smuggle boys from the United Kingdom into Amsterdam for sexual exploitation at Spartacus International venues."
 ---
 Toff's Travel was a coach service operated by [[Russell Tricker]] that crossed the English Channel in the 1980s. The service was specifically used to smuggle boys into Amsterdam for sexual exploitation. In 1982, customs officer [[Maganlal Solanki]] confiscated 8mm films and videotapes from Tricker at the port of Dover. The confiscated materials featured child abuse, with one film titled 'LB'. Senior managers at Customs and Excise took over the case and took no further action. The materials were passed to [[British Intelligence]][^1].
 

@@ -8,7 +8,7 @@ tags:
   - parapsychology
 description: Telepathy is the direct mental communication of thoughts, feelings, or ideas from one mind to another without the use of conventional sensory channels.
 category: "Psi Phenomenon"
-summary: "Telepathy is the direct mental communication of thoughts, feelings, or ideas from one mind to another without the use of conventional sensory channels. It is a form of Psi ability and a subject of study within Parapsychology.[^1]"
+summary: "Telepathy is the claimed direct mental communication of thoughts or feelings between minds without conventional sensory channels, one of the core phenomena studied in government parapsychology programs including the Stargate Project and Soviet psi research."
 ---
 
 [[Telepathy]] is the direct mental communication of thoughts, feelings, or ideas from one mind to another without the use of conventional sensory channels. It is a form of [[Psi|psychic]] ability and a subject of study within [[Parapsychology]].[^1]

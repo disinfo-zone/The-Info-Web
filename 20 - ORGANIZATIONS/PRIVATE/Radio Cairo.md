@@ -4,7 +4,7 @@ tags:
   - Media
   - Egypt
 category: "Private Organization"
-summary: "Radio Cairo is an Egypt radio station. It announced the death of Gamal Abdel Nasser from a heart attack, twenty minutes after Uri Geller purportedly predicted it during a Telepathy demonstration in Tel Aviv.[^1]"
+summary: "Radio Cairo is an Egyptian radio station whose announcement of Gamal Abdel Nasser's death came approximately twenty minutes after Uri Geller purportedly predicted it during a telepathy demonstration in Tel Aviv."
 start: 1934
 location: "Cairo, Egypt"
 ---

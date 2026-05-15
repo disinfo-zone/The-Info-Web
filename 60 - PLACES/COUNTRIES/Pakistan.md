@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Pakistan is a country in South Asia. It is mentioned in connection with the assembly of 107 MM rockets and their launchers at a facility known as the Pakistan Ordinance Works."
+summary: "Pakistan is a South Asian country that served as the primary logistical base for CIA-coordinated Mujahideen supply during the Soviet-Afghan War, including Michael Riconosciuto's rocket reconfiguration program at the Pakistan Ordnance Works."
 ---
 [[Pakistan]] is a country in South [[Asia]]. It is mentioned in connection with the assembly of 107 MM rockets and their launchers at a facility known as the Pakistan Ordinance Works. This was part of a plan formulated by [[Michael Riconosciuto]] to reconfigure Chinese 107 MM rockets into a backpack-portable effective artillery counter battery system for the [[Mujahideen]] in [[Afghanistan]].[^1]
 

@@ -5,7 +5,7 @@ tags:
   - Airline
   - France
 category: "Private Organization"
-summary: "Air France is a French airline. It was involved in the 1976 Entebbe hijacking, where an Air France jet flying from Tel Aviv to Paris was diverted to Entebbe Airport in Uganda by members of the Baader-Meinhof Group."
+summary: "Air France is the French national carrier whose Tel Aviv-to-Paris flight was hijacked by Baader-Meinhof Group members in June 1976 and diverted to Entebbe, Uganda, prompting the Israeli Operation Thunderbolt rescue."
 start: 1933
 location: "Paris, France"
 ---

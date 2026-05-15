@@ -1,6 +1,6 @@
 ---
 category: "Private Organization"
-summary: "Burns & Roe, Inc. was an international engineering and construction corporation. It was a family corporation owned by Kenneth A. Roe and his family. George K. Pender was a former Director of the Pacific Ocean area for Burns & Roe, Inc."
+summary: "Burns & Roe, Inc. was an international engineering and construction firm owned by the Roe family whose Pacific director George K. Pender appears in connections to nuclear facility construction and intelligence-adjacent contracting."
 ---
 Burns & Roe, Inc. was an international engineering and construction corporation. It was a family corporation owned by [[Kenneth A. Roe]] and his family. [[George K. Pender]] was a former Director of the Pacific Ocean area for Burns & Roe, Inc., and also served as a Senior Engineer Consultant to the company.[^1]
 

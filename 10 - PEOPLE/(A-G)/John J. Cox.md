@@ -7,7 +7,7 @@ tags:
   - Computer_Operations
   - 1970s
   - 1980s
-summary: "John J. Cox was a former member of The Finders associated with General Scientific Corporation, a Rockville, Maryland firm that appears in the group's FBI Vault documents. The precise nature of Cox's role - whether he founded the company and trained Finders members, or whether the Finders attempted to infiltrate the company - is disputed between a 1990s investigative memo and MPD Intelligence documents."
+summary: "John J. Cox was a former Finders member associated with General Scientific Corporation of Rockville, Maryland, whose precise role connecting the company to the group is disputed between a 1990s investigative memo and MPD Intelligence documents in the FBI Vault disclosure."
 location: "Washington, D.C. area"
 ---
 

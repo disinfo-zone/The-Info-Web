@@ -4,7 +4,7 @@ tags:
   - Private
   - Manufacturing
 category: "Private Organization"
-summary: "Babcock & Wilcox is a major American reactor designer and manufacturing company. It took over the Nuclear Materials and Equipment Corporation plant in the early 1970s."
+summary: "Babcock & Wilcox is an American nuclear reactor designer that acquired the Nuclear Materials and Equipment Corporation (NUMEC) plant in the early 1970s, inheriting its controversial history of highly-enriched uranium diversion to Israel."
 start: 1867
 location: "Akron, Ohio"
 ---

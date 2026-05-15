@@ -3,7 +3,7 @@ aliases: []
 tags:
   - Organization
 category: "Private Organization"
-summary: "Dickstein, Shapiro & Morin was a law firm that represented Inslaw Corporation in prosecuting its adversary complaint against the United States Department of Justice. Lee Ratiner was the partner in charge of the matter."
+summary: "Dickstein, Shapiro & Morin was the law firm that represented INSLAW Corporation in its adversary proceeding against the Justice Department over the PROMIS software theft, with partner Lee Ratiner leading the case."
 ---
 Dickstein, Shapiro & Morin was a law firm that represented [[INSLAW|Inslaw]] in prosecuting its adversary complaint against the [[Department of Justice|DOJ]]. [[Lee Ratiner]] was the partner in charge of the matter.
 

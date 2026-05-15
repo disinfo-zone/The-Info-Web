@@ -13,7 +13,7 @@ description: The Stanford Research Institute (SRI) was a key institution in the 
 category: "Private Organization"
 start: 1946
 location: "Menlo Park, California"
-summary: "The Stanford Research Institute (SRI) is a scientific research institute based in Menlo Park, California. In the early 1970s, SRI became the center of the U.S."
+summary: "The Stanford Research Institute (SRI) is a scientific research institute in Menlo Park, California, that became the center of the U.S. government's classified psychic research program in the early 1970s, where Hal Puthoff and Russell Targ conducted the foundational remote viewing experiments for the CIA."
 ---
 
 The [[Stanford Research Institute]] (SRI) is a scientific research institute based in Menlo Park, California. In the early 1970s, SRI became the center of the U.S. government's secret psychic research program, which would eventually become known as the [[STARGATE PROJECT]].[^1]

@@ -11,7 +11,7 @@ tags:
   - Nuclear
 description: China is a country in East Asia, a major global power, and a significant player in Cold War geopolitics, including nuclear and intelligence activities.
 category: "Country"
-summary: "China is a country in East Asia. During the Cold War, it was a significant player in global geopolitics, often viewed as a rival or potential ally by both the United States and the Soviet Union.[^1]"
+summary: "China is an East Asian country and major Cold War power whose nuclear weapons program, Lop Nor test site, Chinese state parapsychology research, and PROMIS software transfers are the primary contexts in which it appears in this vault."
 ---
 [[China]] is a country in East Asia. During the Cold War, it was a significant player in global geopolitics, often viewed as a rival or potential ally by both the [[United States]] and the [[Soviet Union]].[^1]
 ### Nuclear Program

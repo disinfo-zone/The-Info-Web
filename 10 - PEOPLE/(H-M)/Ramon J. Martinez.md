@@ -6,7 +6,7 @@ tags:
   - The_Finders
   - Washington_DC
   - 1980s
-summary: "Ramon J. Martinez was a U.S. Customs Special Agent based in Washington D.C. who conducted the primary federal investigation of The Finders' properties in February 1987 and authored the reports documenting the warehouse contents, the CIA interference claim, and the subsequent suppression of the investigation. He was later disciplined for disclosing case information."
+summary: "Ramon J. Martinez was the U.S. Customs Special Agent in Washington D.C. who conducted the February 1987 investigation of The Finders' properties and authored the reports documenting warehouse contents, CIA interference in the investigation, and the subsequent suppression of the case."
 location: "Washington, D.C."
 ---
 

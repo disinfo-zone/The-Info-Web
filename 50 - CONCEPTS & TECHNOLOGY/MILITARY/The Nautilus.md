@@ -8,7 +8,7 @@ tags:
   - ColdWar
 description: The USS Nautilus (SSN-571) was the world's first operational nuclear-powered submarine. It became the subject of a fabricated story about telepathy experiments that influenced Soviet psi research.
 category: "Esoteric & Historical Concept"
-summary: "The USS Nautilus (SSN-571) was the world's first operational nuclear-powered submarine, launched by the United States in 1954. It gained notoriety in the context of psychic research due to a fabricated story published in 1960.[^1]"
+summary: "The USS Nautilus (SSN-571) was the world's first operational nuclear-powered submarine, launched in 1954, whose name was attached to a fabricated 1960 French magazine story about telepathy experiments that inadvertently accelerated Soviet psi research funding."
 start: 1954
 location: United States
 ---

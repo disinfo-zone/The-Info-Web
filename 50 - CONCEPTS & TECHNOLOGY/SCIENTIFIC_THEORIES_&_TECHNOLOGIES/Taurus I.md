@@ -8,7 +8,7 @@ tags:
   - technology
 description: Taurus I was a state-of-the-art, five-man submersible used in Project Deep Quest to locate an underwater shipwreck.
 category: "Scientific Theory & Technology"
-summary: "*Taurus I* was a state-of-the-art, five-man submersible capable of traveling to a depth of 1,000 feet. It was 31 feet long and cost $3 million to build. It featured a large viewport and a claw to retrieve items from the ocean floor.[^1]"
+summary: "Taurus I was a five-man research submersible capable of 1,000-foot depths used in the 1977 Project Deep Quest psychic experiment to test whether remote viewing could locate an underwater shipwreck."
 date: 1977
 ---
 

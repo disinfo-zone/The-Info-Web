@@ -9,7 +9,7 @@ tags:
   - Child_Trafficking
   - Elm_Guest_House
 category: "Private Organization"
-summary: "The Spartacus Club was an underground paedophile network operated by John Stamford from Amsterdam. The club used Spartacus International as a legitimate front to attract members."
+summary: "The Spartacus Club was an underground pedophile network operated by John Stamford from Amsterdam that used Spartacus International as a legitimate front to recruit members internationally."
 location: "Amsterdam, Netherlands"
 ---
 The Spartacus Club was an underground paedophile network operated by [[John Stamford]] from Amsterdam. The club used [[Spartacus International]] as a legitimate front to attract members. Spartacus International was officially described as "general publishers of trade and business directories, periodicals, newspapers and journals" but actually published homosexual literature including books for pederasts and "Paedo Alert News" (a magazine about boy love)[^1].

@@ -4,7 +4,7 @@ tags:
   - Nuclear
   - Diplomacy
 category: "Nuclear Scientists & Programs"
-summary: "Atoms for Peace was a program initiated by U.S. President Dwight D. Eisenhower in 1953. It aimed to promote the peaceful use of atomic energy and to prevent the spread of nuclear weapons by providing nuclear technology and materials to other nations..."
+summary: "Atoms for Peace was Eisenhower's 1953 initiative to promote civilian nuclear energy by sharing technology and materials internationally, which inadvertently accelerated nuclear proliferation including Israel's Dimona program."
 start: 1953
 location: United States
 ---

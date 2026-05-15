@@ -4,7 +4,7 @@ tags:
   - Labor Union
   - Israel
 category: "Private Organization"
-summary: "Histadrut, also known as the General Organization of Workers in Israel, is a powerful federation of labor unions that historically controlled a large segment of Israeli industry. Pinhas Lavon served as its head."
+summary: "Histadrut (the General Organization of Workers in Israel) is a powerful labor union federation that historically controlled a large segment of Israeli industry, whose leadership by Pinhas Lavon placed it at the center of the political fallout from the Lavon Affair."
 start: 1920
 location: "Tel Aviv, Israel"
 ---

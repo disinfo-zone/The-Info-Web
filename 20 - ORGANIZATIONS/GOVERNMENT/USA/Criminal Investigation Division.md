@@ -1,6 +1,6 @@
 ---
 category: "U.S. Government"
-summary: "The Criminal Investigation Division typically refers to the Criminal Investigation Division or Department within military or police forces. It is responsible for investigating felony crimes and other serious offenses within its jurisdiction.[^1]"
+summary: "The Criminal Investigation Division (CID) is the investigative branch responsible for serious crimes within military and police jurisdictions, whose Army division is connected in this vault to figures in the Octopus network including Roderick Sinclair Jr."
 ---
 The [[Criminal Investigation Division|CID]] typically refers to the Criminal Investigation Division or Department within military or police forces. It is responsible for investigating felony crimes and other serious offenses within its jurisdiction.[^1]
 

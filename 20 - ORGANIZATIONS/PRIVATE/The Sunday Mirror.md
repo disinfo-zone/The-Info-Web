@@ -4,7 +4,7 @@ tags:
   - Media
   - UK
 category: "Private Organization"
-summary: "*The Sunday Mirror* is a British newspaper. Robert Maxwell publishing empire included *The Sunday Mirror*.[^1]"
+summary: "The Sunday Mirror is a British tabloid newspaper that was part of Robert Maxwell's publishing empire."
 start: 1915
 location: "London, UK"
 ---

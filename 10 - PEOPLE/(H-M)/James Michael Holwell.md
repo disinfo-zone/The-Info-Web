@@ -5,7 +5,7 @@ tags:
   - The_Finders
   - Washington_DC
   - 1980s
-summary: "James Michael Holwell, age 23, was one of two Finders members arrested in Tallahassee, Florida on February 4, 1987 while transporting six malnourished children in a van. He also faced a charge of resisting arrest without violence. All charges were dropped in March 1987."
+summary: "James Michael Holwell was one of two Finders members arrested in Tallahassee, Florida on February 4, 1987 while transporting six malnourished children, charged with child abuse and resisting arrest, with all charges subsequently dropped in March 1987."
 location: "Washington, D.C."
 ---
 

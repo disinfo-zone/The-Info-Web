@@ -22,7 +22,7 @@ Poindexter resigned on November 25, 1986, the same day North was fired, after At
 
 ### Congressional Testimony and Criminal Proceedings
 
-Poindexter testified before the joint congressional [[Iran-Contra Affair|Iran-Contra]] committees under a grant of immunity in July 1987. He stated that he had authorized the diversion of funds and had not told [[Ronald Reagan|Reagan]] about it. He said he made the decision himself because he did not want to place the President in the position of having approved an operation that violated the [[Boland Amendmen]]'s prohibition on Contra assistance. This testimony was the central account of executive branch knowledge and authorization in the entire Iran-Contra affair.[^1]
+Poindexter testified before the joint congressional [[Iran-Contra Affair|Iran-Contra]] committees under a grant of immunity in July 1987. He stated that he had authorized the diversion of funds and had not told [[Ronald Reagan|Reagan]] about it. He said he made the decision himself because he did not want to place the President in the position of having approved an operation that violated the [[Boland Amendment]]'s prohibition on Contra assistance. This testimony was the central account of executive branch knowledge and authorization in the entire Iran-Contra affair.[^1]
 
 Independent Counsel [[Lawrence Walsh]] indicted Poindexter in March 1988 on charges of conspiracy, obstruction of Congress, making false statements, and destroying documents. The case was tried in 1990 after North's conviction. Poindexter was convicted on five counts in April 1990 and sentenced to six months in prison.[^2]
 
@@ -30,7 +30,7 @@ The D.C. Circuit Court of Appeals reversed Poindexter's conviction in November 1
 
 ### Total Information Awareness
 
-In 2002, the [[George H.W. Bush|Bush]] administration appointed Poindexter to direct the Information Awareness Office at [[DARPA]], a research program focused on mining large-scale databases for intelligence indicators. The office developed the Total Information Awareness (TIA) system, which proposed aggregating commercial, government, and intelligence databases to identify patterns predictive of terrorist activity.
+In 2002, the [[George W. Bush|Bush]] administration appointed Poindexter to direct the Information Awareness Office at [[DARPA]], a research program focused on mining large-scale databases for intelligence indicators. The office developed the Total Information Awareness (TIA) system, which proposed aggregating commercial, government, and intelligence databases to identify patterns predictive of terrorist activity.
 
 When TIA became publicly known in late 2002, it generated intense opposition from civil liberties organizations and members of Congress, who argued that the system constituted a mass domestic surveillance infrastructure. Poindexter's own Iran-Contra history - including his conviction and its reversal - was cited repeatedly in the congressional debate over TIA. Poindexter resigned from DARPA in August 2003, and Congress terminated TIA funding.[^1]
 

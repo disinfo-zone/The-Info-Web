@@ -4,7 +4,7 @@ tags:
   - Missile
   - Israel
 category: "Military Technology"
-summary: "Jericho I is a medium-range ballistic missile developed jointly by Israel and the Dassault Company of France. In 1963, Israel paid $100 million for its joint development and manufacture."
+summary: "The Jericho I was a medium-range ballistic missile jointly developed by Israel and the French Dassault company beginning in 1963, designed to deliver nuclear warheads to targets 300 miles away."
 start: 1963
 location: Israel
 ---

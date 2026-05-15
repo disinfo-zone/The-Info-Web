@@ -3,7 +3,7 @@ tags:
   - Concept
   - Intelligence
 category: "Intelligence Concept"
-summary: "I&W, standing for intelligence and warning, refers to intelligence that depicts military activity or other potentially threatening actions. This type of intelligence carries the highest classification marking in the American intelligence community."
+summary: "I&W (Indications and Warning) is the highest-priority category of intelligence, covering military activity and threatening actions, and the failure of I&W mechanisms was a central finding in post-mortems of the 1973 Yom Kippur War intelligence failure."
 ---
 I&W, standing for intelligence and warning, refers to intelligence that depicts military activity or other potentially threatening actions. This type of intelligence carries the highest classification marking in the American intelligence community. For example, KH-11 imagery provided to [[Israel]] depicting military activity inside the border of [[Israel]]'s four neighbors was considered I&W.[^1]
 

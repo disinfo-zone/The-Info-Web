@@ -5,7 +5,7 @@ tags:
   - SouthAfrica
   - ArmsManufacturer
 category: "Private Organization"
-summary: "ARMSCOR (South African Arms Corporation) is the government weapons manufacturer of South Africa. It played a significant role in the international arms trade, particularly in its dealings with Carlos Cardoen and Gerald Bull, and its involvement in..."
+summary: "ARMSCOR (South African Arms Corporation) is South Africa's state weapons manufacturer that played a significant role in covert Cold War arms trafficking through its dealings with Carlos Cardoen, Gerald Bull, and Israeli defense contractors under apartheid-era sanctions evasion arrangements."
 start: 1968
 location: "Pretoria, South Africa"
 ---

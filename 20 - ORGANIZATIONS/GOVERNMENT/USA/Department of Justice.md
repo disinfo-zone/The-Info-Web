@@ -8,7 +8,7 @@ tags:
   - CIA
   - Dark_Alliance_Investigation
 category: "U.S. Government"
-summary: "The Department of Justice launched an internal inquiry in 1993 into CIA involvement with The Finders and a potential FBI coverup of the group's operations. The inquiry was initiated after the Department received a copy of the U.S."
+summary: "The Department of Justice is the U.S. federal law enforcement and legal agency whose prosecution of the INSLAW-PROMIS case, 1982 drug trafficking exemption for CIA assets, and 1993 internal inquiry into CIA involvement with The Finders make it a central subject of this vault."
 start: 1870
 location: "Washington, D.C."
 ---

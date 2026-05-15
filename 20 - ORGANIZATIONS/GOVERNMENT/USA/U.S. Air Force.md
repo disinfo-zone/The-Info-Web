@@ -8,7 +8,7 @@ tags:
   - USA
 description: The U.S. Air Force is the aerial warfare service branch of the United States Armed Forces.
 category: "U.S. Government"
-summary: "The U.S. Air Force is the aerial warfare service branch of the United States Armed Forces. In the context of the *Remote Viewers* narrative, the Air Force was a key customer for the STARGATE PROJECT program, tasking remote viewers with sensitive..."
+summary: "The U.S. Air Force is the aerial warfare branch of the U.S. military and a primary customer for the STARGATE remote viewing program, tasking viewers with sensitive targeting and strategic intelligence missions."
 start: 1947
 location: "Arlington, Virginia"
 ---

@@ -8,7 +8,7 @@ tags:
   - World_War_II
   - Washington_DC
   - Charles_Marsh
-summary: "Roald Dahl (1916-1990), best known as a children's author, served as a British Security Coordination (BSC) influence agent in Washington D.C. from approximately 1942 to 1944. He was assigned to penetrate senior American social and political circles, cultivated journalist and patron Charles Marsh as a primary access point, and was one of three men who assembled the official BSC history in 1945."
+summary: "Roald Dahl (1916-1990), best known as a children's author, served as a BSC influence agent in Washington D.C. from 1942 to 1944, penetrating senior American political circles through his relationship with journalist Charles Marsh and later contributing to the official BSC history."
 born: 1916-09-13
 died: 1990-11-23
 location: "Washington, D.C. / Buckinghamshire, England"

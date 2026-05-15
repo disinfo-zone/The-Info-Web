@@ -4,7 +4,7 @@ tags:
   - Academic
   - USA
 category: "Private Organization"
-summary: "New York University is a private research university in New York City. Aviem Sella had almost completed his requirement for a Ph.D. in computer science at New York University by 1984, when he was approached to handle Jonathan Pollard."
+summary: "New York University is a private research university in New York City where Israeli air force officer Aviem Sella was completing a Ph.D. in computer science when he was recruited in 1984 to serve as Jonathan Pollard's handler."
 start: 1831
 location: "New York City, USA"
 ---

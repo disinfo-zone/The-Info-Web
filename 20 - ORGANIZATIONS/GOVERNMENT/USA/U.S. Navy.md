@@ -8,7 +8,7 @@ tags:
   - USA
 description: The U.S. Navy is the maritime warfare service branch of the United States Armed Forces.
 category: "U.S. Government"
-summary: "The U.S. Navy is the maritime warfare service branch of the United States Armed Forces. In the context of the *Remote Viewers* narrative, the Navy was involved in early rumors of a telepathy project with the USS Nautilus submarine, though this was..."
+summary: "The U.S. Navy is the maritime warfare service branch of the United States Armed Forces, connected to this vault through its small SRI psi research contracts, the fabricated USS Nautilus telepathy story, and the Navy A-6 crash successfully remote-viewed by Ken Bell."
 ---
 
 The [[U.S. Navy]] is the maritime warfare service branch of the [[United States]]. In the context of the *Remote Viewers* narrative, the Navy was involved in early rumors of a telepathy project with the USS Nautilus submarine, though this was later debunked as a fabrication or disinformation ploy.[^1]

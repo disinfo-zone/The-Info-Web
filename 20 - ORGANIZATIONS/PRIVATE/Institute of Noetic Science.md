@@ -8,7 +8,7 @@ tags:
   - science
 description: The Institute of Noetic Sciences (IONS) is an American nonprofit parapsychological research institute.
 category: "Private Organization"
-summary: "The Institute of Noetic Science (IONS) is an American nonprofit parapsychological research institute. It was founded by former Apollo 14 astronaut Edgar Mitchell, a known psi enthusiast."
+summary: "The Institute of Noetic Sciences (IONS) is an American nonprofit parapsychological research institute founded in 1973 by former Apollo 14 astronaut Edgar Mitchell following a spontaneous consciousness experience during his return from the Moon."
 start: 1973
 location: "Petaluma, California, USA"
 ---

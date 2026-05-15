@@ -4,7 +4,7 @@ tags:
   - Treaty
   - Nuclear
 category: "Diplomacy"
-summary: "The Nuclear Test Ban Treaty refers to international agreements aimed at prohibiting nuclear weapons tests. By December 1960, Dwight D."
+summary: "The Partial Nuclear Test Ban Treaty (1963) was signed in Moscow by the United States, the Soviet Union, and the United Kingdom, prohibiting nuclear weapons tests in the atmosphere, in outer space, and underwater."
 date: 1963-08-05
 location: Moscow, Soviet Union
 ---

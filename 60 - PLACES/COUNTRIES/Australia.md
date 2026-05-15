@@ -1,6 +1,6 @@
 ---
 category: "Country"
-summary: "Australia is a country and continent in the Southern Hemisphere. It is mentioned in connection with Nugan Hand Bank, which was an Australia bank co-founded by Michael Hand and Frank Nugan."
+summary: "Australia is the country where Nugan Hand Bank, the CIA-connected financial institution co-founded by Michael Hand and Frank Nugan, operated until its 1980 collapse amid drug trafficking and intelligence connections, after which Hand disappeared with alleged CIA assistance."
 ---
 [[Australia]] is a country and continent in the Southern Hemisphere. It is mentioned in connection with [[Nugan Hand Bank]], which was an [[Australia|Australian]] bank co-founded by [[Michael Hand]] and [[Frank Nugan]]. This bank reportedly laundered profits from drug trafficking in the [[Golden Triangle]] and financed subversive paramilitary activities in Southeast [[Asia]]. The bank collapsed in 1980, $5 billion in debt, and [[Michael Hand]] disappeared from [[Australia]].[^1]
 

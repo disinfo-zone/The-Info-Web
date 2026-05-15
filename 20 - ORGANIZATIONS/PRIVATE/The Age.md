@@ -4,7 +4,7 @@ tags:
   - Media
   - Australia
 category: "Private Organization"
-summary: "*The Age* is an Australia newspaper based in Melbourne. Oscar Guerrero attempted to sell photographs of Israel nuclear facility, provided by Mordecai Vanunu, to *The Age*, but was rejected."
+summary: "The Age is an Australian newspaper based in Melbourne that rejected Oscar Guerrero's attempt to sell Mordecai Vanunu's photographs of Israel's Dimona nuclear facility, which were subsequently purchased by The Sunday Times."
 start: 1854
 location: "Melbourne, Australia"
 ---

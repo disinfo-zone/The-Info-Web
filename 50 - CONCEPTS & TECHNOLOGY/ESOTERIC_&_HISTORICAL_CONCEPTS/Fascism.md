@@ -7,7 +7,7 @@ tags:
   - 1930s
   - 1970s
 category: "Esoteric & Historical Concept"
-summary: "Fascism emerged as a political ideology that found expression in both American and European contexts examined in the text. In the United States, fascist sympathizers attempted to subvert democratic institutions during the 1930s."
+summary: "Fascism was the authoritarian nationalist ideology of interwar Europe that American sympathizers attempted to import in the 1930s via the Business Plot and other efforts, and whose remnants were recruited into U.S. intelligence via Operation Paperclip."
 ---
 
 Fascism emerged as a political ideology that found expression in both American and European contexts examined in the text. In the United States, fascist sympathizers attempted to subvert democratic institutions during the 1930s. In 1933 the DuPont family was involved in what became known as the [[Business Plot]], a conspiracy to replace the presidency of [[Franklin Roosevelt]] with a fascist dictatorship. The plot represented an attempt by industrial and financial elites to install an authoritarian regime responsive to corporate interests rather than electoral accountability.[^1]

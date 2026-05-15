@@ -8,7 +8,7 @@ tags:
   - 1950s
   - 1960s
 category: "Psychology & Behavioral Science"
-summary: "Hypnotism emerged as a significant area of research in the twentieth century, particularly in relation to mind control programs and the manipulation of memory. George H."
+summary: "Hypnotism was a significant area of government research in the twentieth century, particularly in CIA MKUltra experiments exploring induced amnesia, personality alteration, and the creation of unwitting operatives through hypnotic suggestion."
 ---
 
 Hypnotism emerged as a significant area of research in the twentieth century, particularly in relation to mind control programs and the manipulation of memory. George H. Estabrooks, a prominent figure in the evolving field of hypnotherapy, believed that hypnotism and emotional shock produced the same resultant state of dissociation. In 1959 he applied to the National Institute of Mental Health for funding of a proposed study titled Hypnotism in Juvenile Delinquency. This institute at the time functioned as a cutout used to fund MKUltra research into various prospective methods of mind control, some involving children.[^1]

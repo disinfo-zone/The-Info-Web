@@ -5,7 +5,7 @@ tags:
   - Business
   - USA
 category: "Private Organization"
-summary: "FXC International was a company that initially produced parachutes for civilian purposes. It was transformed by Frank Chevrier, who became its director and later owner."
+summary: "FXC International was a parachute manufacturer transformed by director Frank Chevrier into a company with covert connections to intelligence-linked arms and equipment trafficking networks."
 ---
 [[FXC International]] was a company that initially produced parachutes for civilian purposes. It was transformed by [[Frank Chevrier]], who became its director and later owner. After Chevrier took control, [[FXC International]] began manufacturing parachutes for military purposes with [[Israel|Israeli]] technology.[^1]
 

@@ -12,7 +12,7 @@ tags:
   - Moscow
 description: The U.S. Embassy in Moscow was the target of the Moscow Signal, a microwave beam directed by the Soviet Union, suspected of being an electromagnetic weapon.
 category: "Landmark"
-summary: "The U.S. Embassy in Moscow was the diplomatic mission of the United States to the Soviet Union (and later Russia). It became a focal point of Cold War espionage and a significant location in the history of U.S."
+summary: "The U.S. Embassy in Moscow was a central site of Cold War espionage, targeted by the Soviet Moscow Signal microwave beam for decades, and subject to repeated KGB penetration attempts that exposed the limits of CIA counterintelligence under James Angleton."
 ---
 
 The [[U.S. Embassy in Moscow]] was the diplomatic mission of the [[United States]] to the [[Soviet Union]] (and later [[Russia]]). It became a focal point of Cold War espionage and a significant location in the history of U.S. government investigations into psychic phenomena and electromagnetic warfare.[^1]

@@ -8,7 +8,7 @@ tags:
   - history
 description: IBM, founded in 1911, is a multinational tech company specializing in computers and computing technologies. Known for inventing the relational database in 1969, it provided mainframe and minicomputers during the 1960s-70s, used by organizations and governments worldwide.
 category: "Private Organization"
-summary: "International Business Machines, or IBM as it’s commonly known, is a multinational tech and research company headquartered in Armonk, New York. It was founded in 1911."
+summary: "International Business Machines (IBM) is a multinational technology company founded in 1911 and headquartered in Armonk, New York, whose mainframe and minicomputer systems were used by the government agencies that became targets of the PROMIS software distribution network."
 start: 1911
 location: "Armonk, New York, USA"
 ---

@@ -9,7 +9,7 @@ tags:
   - 1970s
   - Martin_Allen_Case
 category: "Landmark"
-summary: "Stoke Lodge was the Australian High Commissioner's residence in Kensington, London. Sir Gordon Freeth served as Australian High Commissioner while residing there. Martin Allen, aged 15, disappeared in November 1979."
+summary: "Stoke Lodge was the Australian High Commissioner's residence in Kensington, London, relevant to the UK historical child abuse investigations because 15-year-old Martin Allen disappeared in November 1979 after last being seen near the property."
 ---
 Stoke Lodge was the Australian High Commissioner's residence in Kensington, London. Sir [[Gordon Freeth]] served as Australian High Commissioner while residing there. [[Martin Allen]], aged 15, disappeared in November 1979. Allen was the son of the chief chauffeur to Sir Gordon Freeth, and Martin's family lived in the caretaker's cottage on the grounds of Stoke Lodge. The boy disappeared while traveling to Kings Cross station[^1].
 

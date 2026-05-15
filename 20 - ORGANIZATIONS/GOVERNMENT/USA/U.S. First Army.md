@@ -8,7 +8,7 @@ tags:
   - USA
 description: The U.S. First Army is a corps-level support formation of the United States Army.
 category: "U.S. Government"
-summary: "The U.S. First Army is a corps-level support formation of the U.S. Army. In the context of the *Remote Viewers* narrative, it is mentioned as being based at Fort Meade, Maryland, alongside other significant military and intelligence organizations..."
+summary: "The U.S. First Army is a corps-level Army support formation headquartered at Fort Meade, Maryland, co-located with the NSA and INSCOM units that administered the STARGATE remote viewing program."
 location: "Fort Meade, Maryland"
 ---
 

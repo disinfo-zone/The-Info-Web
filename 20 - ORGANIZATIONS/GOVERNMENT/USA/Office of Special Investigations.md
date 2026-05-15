@@ -3,7 +3,7 @@ aliases: []
 tags:
   - Organization
 category: "U.S. Government"
-summary: "The Office of Special Investigations (OSI) is an organizational unit within the Criminal Division of the United States Department of Justice. Its publicly declared mission is to locate and deport Nazi war criminals."
+summary: "The Office of Special Investigations (OSI) is a DOJ unit whose stated mission is to locate and deport Nazi war criminals, but which INSLAW alleged in 1994 was a covert DOJ intelligence agency involved in PROMIS software distribution and the death of Danny Casolaro."
 ---
 The Office of Special Investigations (OSI) is an organizational unit within the Criminal Division of the [[Department of Justice|DOJ]]. Its publicly declared mission is to locate and deport Nazi war criminals.
 

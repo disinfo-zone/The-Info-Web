@@ -8,7 +8,7 @@ tags:
   - Dark_Alliance_Investigation
 description: Headquarters of the U.S. Department of Defense, epicenter of UAP secrecy, and the location where Enrique Bermúdez was invited to discuss forming a Contra army.
 category: "U.S. Government"
-summary: "The Pentagon is the headquarters of the United States Department of Defense (DoD). It is the central location for the command and control of the U.S."
+summary: "The Pentagon is the headquarters of the U.S. Department of Defense, which administered the AATIP program and several classified research programs including STARGATE's successor activities and UAP investigation units."
 start: 1943
 location: "Arlington, Virginia"
 ---

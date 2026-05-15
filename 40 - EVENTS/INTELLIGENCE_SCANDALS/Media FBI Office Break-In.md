@@ -8,7 +8,7 @@ tags:
   - Hoover
   - 1971
 start: 1971-03-08
-summary: "On March 8, 1971, a group calling itself the Citizens' Commission to Investigate the FBI broke into the FBI's resident agency in Media, Pennsylvania, and removed approximately 1,000 documents. Distribution of the stolen files to the press revealed the existence of COINTELPRO and triggered the formal termination of that program by J. Edgar Hoover. Betty Medsger's 2014 book 'The Burglary' is the primary journalistic account, based on interviews with the participants who came forward after the statute of limitations expired."
+summary: "The Media, Pennsylvania FBI office break-in on March 8, 1971, by the Citizens' Commission to Investigate the FBI removed approximately 1,000 documents whose distribution to the press exposed COINTELPRO and triggered Hoover's formal termination of the program."
 location: "Media, Pennsylvania"
 ---
 

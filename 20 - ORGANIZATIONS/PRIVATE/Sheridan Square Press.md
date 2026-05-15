@@ -5,7 +5,7 @@ tags:
   - Publisher
   - USA
 category: "Private Organization"
-summary: "Sheridan Square Press was a publisher based in New York. It published Ari Ben-Menashe book, *Profits of War: Inside the Secret U.S.-Israeli Arms Network*."
+summary: "Sheridan Square Press was a New York publisher that published Ari Ben-Menashe's Profits of War: Inside the Secret U.S.-Israeli Arms Network after other publishers withdrew under pressure."
 start: 1980
 location: "New York City, New York"
 ---
