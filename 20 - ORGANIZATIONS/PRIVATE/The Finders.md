@@ -134,7 +134,7 @@ In 1994, the U.S. Customs Service proposed to remove Martinez from his position 
 
 The case was revived in 1993 when [[Henry "Skip" Clements]], a private consultant in Stuart, Florida, obtained copies of Martinez's customs reports. Clements, who had become involved in investigating child abuse networks following his child's victimization at the Glendale Montessori School in Stuart, provided the documents to U.S. Representatives [[Tom Lewis]] (R-FL) and [[Charlie Rose]] (D-NC). Lewis made public statements questioning whether the government had protected The Finders at the expense of the children: "Could our own government have something to do with this Finders organization and turned their backs on these children?"[^4]
 
-Congressional pressure, combined with the prospect of a CBS 48 Hours segment on the case, prompted the Department of Justice to reopen the matter. An October 26, 1993 memo from Acting Assistant Attorney General John C. Keeney tasked FBI Assistant Director Larry A. Potts with a preliminary inquiry into the CIA interference allegations.[^3]
+Congressional pressure, combined with the prospect of a CBS 48 Hours segment that was in active preparation on the case and which was ultimately never broadcast, prompted the Department of Justice to reopen the matter. No CBS staff member or producer has publicly explained why the segment was killed. An October 26, 1993 memo from Acting Assistant Attorney General John C. Keeney tasked FBI Assistant Director Larry A. Potts with a preliminary inquiry into the CIA interference allegations.[^3]
 
 The Washington Times published what became the key investigative piece in the reopening: reporter Paul M. Rodriguez, a four-time Pulitzer Prize nominee, published "CIA tied to cult accused of abuse; Justice probes links to Finders" on December 17, 1993.[^3] U.S. News & World Report followed on December 27, 1993 with "Through a glass, very darkly: Cops, spies and a very odd investigation" by Gordon Witkin, Peter Cary, and Angel Martinez, which contained the interview with Marion Pettie confirming his wife's CIA employment and his son's Air America service, as well as CIA spokesman Christian's formal statement.[^4]
 
@@ -148,6 +148,16 @@ The two men arrested in Tallahassee were found carrying an address book. Accordi
 
 [[John David Norman]] (October 13, 1927 - May 22, 2011) was convicted multiple times between 1960 and 1998 on child molestation and child pornography charges. He founded the [[Odyssey Foundation]] in Dallas in the mid-1960s as a front for procuring teenage boys for prostitution and distributing child pornography nationally. The address-book overlaps represent the primary documented connection between The Finders and Norman's network.[^9]
 
+### Intelligence Program Context
+
+The group's formation between 1969 and 1971 falls within the operational period of [[Operation CHAOS]] (codename MHCHAOS), the CIA domestic counterintelligence program run from August 1967 to March 1974 under the Counterintelligence Staff headed by [[James Angleton]]. CHAOS used civilian infiltrators through Project MERRIMAC to penetrate antiwar and counterculture organizations, and a separate mechanism to compile dossiers on tens of thousands of Americans connected to dissident groups. Most CHAOS records were destroyed under DCI Helms's orders in 1973. No surviving primary source directly names The Finders in CHAOS operational files.[^3][^14]
+
+The April 13, 1987 MPD Intelligence Division report's characterization of the group as a CIA "disinformation service" describes a function consistent with CHAOS-era methodology: a civilian group embedded within the counterculture milieu, gathering intelligence on private families through placement of tutor and babysitter advertisements, and maintaining a layer of separation from official CIA operations. The group's ideological profile placed it squarely within the demographic CHAOS targeted. Its formation timing coincides with CHAOS at its 1971 peak staffing of 52 personnel.[^3][^14]
+
+One element complicates a straightforward CHAOS attribution: the entity that classified the 1987 MPD investigation as Secret and directed MPD not to brief the FBI's Washington Field Office was the FBI's Foreign Counterintelligence Division, not a domestic surveillance unit. This suggests the CIA framed whatever relationship it had with the group as a foreign rather than domestic counterintelligence matter, which would place it in a different institutional compartment from CHAOS proper.[^3]
+
+The group also operated through the same years as [[Project MKUltra]] and its successor programs. The warehouse library's mind control literature, the communal behavioral conditioning structure the group called "projects," and the documented separation of children from their parents for months at a time have been noted by researchers examining the case in relation to documented CIA behavioral modification research. MKUltra Subproject 136, funded in August 1961, explicitly sought methods to induce dissociative states in children through drugs and hypnosis. No primary source links The Finders to any specific MKUltra subproject.[^15]
+
 ### Ted Gunderson's Investigation
 
 [[Ted Gunderson]], a former FBI Special Agent in Charge of the Los Angeles, Memphis, and Dallas field offices who retired from the bureau in 1979, obtained copies of the Martinez customs reports and made them widely available before any official release, hosting them on his website and distributing them to journalists and researchers. Gunderson authored a pamphlet titled "U.S. Customs Service Report on the Finders" and made public assertions regarding CIA orchestration of child trafficking networks.[^3] He died on July 31, 2011.
@@ -156,7 +166,7 @@ The two men arrested in Tallahassee were found carrying an address book. Accordi
 
 Initial coverage broke in the Washington Post on February 7, 1987, through a series of articles by Marc Fisher and John Mintz describing cult rituals and the warehouse contents.[^1] D.C. Police Chief Maurice T. Turner announced on February 10, 1987 that police had found no evidence of criminal wrongdoing.[^1]
 
-The case emerged during the height of what social scientists later termed the "satanic panic," a period characterized by widespread allegations of ritual abuse at daycare centers and by organized cults. Washington City Paper journalist Eddie Dean conducted the definitive long-form profile of Pettie in a May 24, 1996 piece titled "Finders' Keeper," based on direct interview with Pettie in Culpeper, Virginia. It remains the most substantial journalistic account based on primary access to the group's founder.[^5]
+The case emerged during the height of what social scientists later termed the "satanic panic," a period characterized by widespread allegations of ritual abuse at daycare centers and by organized cults. The FBI's own supervisory special agent Kenneth Lanning, who had written the bureau's primary analytical report on child sexual exploitation, published a 1992 monograph concluding that there was no credible evidence for organized satanic cult abuse as a phenomenon. This institutional position, circulated widely within law enforcement before the 1993 reopening of the Finders case, shaped how federal investigators framed the evidence.[^13] Washington City Paper journalist Eddie Dean conducted the definitive long-form profile of Pettie in a May 24, 1996 piece titled "Finders' Keeper," based on direct interview with Pettie in Culpeper, Virginia. It remains the most substantial journalistic account based on primary access to the group's founder.[^5]
 
 ### The 2019 FBI Document Release
 
@@ -176,27 +186,6 @@ Marion Pettie died on October 24, 2003, in Culpeper, Virginia.[^5]
 
 In 2018, [[Robert Gardner Terrell]] gave his first public interview in over twenty-five years to journalist Derrick Broze of The Conscious Resistance Network, followed by another in 2021. Both were incorporated into Broze's documentary "Who Will Find What The Finders Hide?" released in March 2019.[^10] Terrell denied all criminal allegations throughout.
 
-### Documented vs. Alleged
-
-The following are confirmed by primary sources:
-
-- [[Isabelle Pettie]] worked for the CIA, approximately 1950-1971 per the Stitcher report, approximately 1952-1961 per other FBI Vault documents
-- [[Isabelle Pettie]] held passports to North Korea, North Vietnam, and the Soviet Union
-- At least one Finders member traveled to Moscow, North Korea, and Vietnam during 1969-1971 with CIA awareness and facilitation, per the Stitcher report
-- [[George Pettie]] worked for [[Air America]] (Marion Pettie, U.S. News & World Report, 1993)
-- CIA sent employees to [[Future Enterprises]] for computer training (CIA spokesman David Christian, 1993)
-- [[Robert Gardner Terrell]] was associated with Future Enterprises
-- The FBI's Foreign Counterintelligence Division classified MPD reports Secret and barred the FBI's own Washington Field Office from being briefed
-- A CIA official told MPD investigators the case was a "CIA internal matter," had a "vested interest" in the group, and that the agency had "had someone working on the case since it first broke" (Stitcher report, February 19, 1987)
-- An MPD Intelligence Division report concluded the group "is and has been utilized by the Central Intelligence Agency as a disinformation service" (April 13, 1987)
-
-The following are alleged in investigative reports or secondary sources but not confirmed by independently accessible primary evidence:
-
-- That The Finders functioned as a CIA operational front or training program
-- That the CIA directed suppression of child abuse investigations
-- That the Hong Kong children telex represented a genuine trafficking order
-- The specific claims in the anonymous 1990s investigative memos regarding Colonel Weigner, Major Varga, Charles Marsh, and John Cox
-
 ### Footnotes
 
 [^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
@@ -211,3 +200,6 @@ The following are alleged in investigative reports or secondary sources but not 
 [^10]: Broze, Derrick, and Jeremy Martin. "Who Will Find What The Finders Hide?" Documentary. The Conscious Resistance Network, March 2019. https://theconsciousresistance.com/thefinders/.
 [^11]: Minnick, Wendell L. "The Finders: The CIA and the Cult of Marion David Pettie." Unclassified, No. 35, Winter 1995. Unsigned "Investigative Leads" memo, no author or date, circulated mid-1990s.
 [^12]: Rodriguez, Paul M. "CIA tied to cult accused of abuse; Justice probes links to Finders." Washington Times, December 17, 1993.
+[^13]: Lanning, Kenneth V. "Investigator's Guide to Allegations of 'Ritual' Child Abuse." National Center for Missing and Exploited Children / NCAVC, FBI Academy, January 1992. ojp.gov/pdffiles1/Digitization/136592NCJRS.pdf.
+[^14]: Church Committee. *Intelligence Activities and the Rights of Americans*, Book II. S. Rept. 94-755, 94th Congress, 2d Session, April 26, 1976.
+[^15]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar. Also: *Project MKULTRA, the CIA's Program of Research in Behavioral Modification*, Joint Senate Hearing, August 3, 1977.
