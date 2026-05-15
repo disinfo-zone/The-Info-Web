@@ -45,7 +45,7 @@ This controversial partnership came to an end in 1971 after a group of twenty [[
 
 ### Diplomatic Career and Political Philosophy
 
-In his later political career, [[Moshe Dayan|Dayan]] transitioned to diplomatic roles, serving as Foreign Minister and becoming a key figure who urged [[Menachem Begin]] to sign the [[Camp David Accords]]. [[Menachem Begin|Begin]] reluctantly agreed to the accords under significant pressure from [[Jimmy Carter|Carter]], with Dayan's advocacy playing a crucial role in this historic peace agreement.[^2]
+In his later political career, [[Moshe Dayan|Dayan]] transitioned to diplomatic roles, serving as Foreign Minister and becoming a key figure who urged [[Menachem Begin]] to sign the [[Camp David summit|Camp David Accords]]. [[Menachem Begin|Begin]] reluctantly agreed to the accords under significant pressure from [[Jimmy Carter|Carter]], with Dayan's advocacy playing a crucial role in this historic peace agreement.[^2]
 
 Despite his military prowess and diplomatic involvement, Dayan's perspective on the Palestinian problem remained notably limited. Along with [[Golda Meir]], he believed the Palestinian issue would eventually resolve itself, a view that reflected the thinking of many [[Israel|Israeli]] leaders of his generatzion but would prove overly optimistic in the decades that followed.[^2]
 

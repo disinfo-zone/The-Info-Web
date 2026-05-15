@@ -8,8 +8,6 @@ tags:
   - SRI
 summary: "Norm Everheart was a CIA technical operations specialist with nearly a quarter-century of service by the mid-1970s, who served as the chief coordinator for Grill Flame taskings from the CIA's Operations Directorate."
 ---
-
-
 Norm Everheart was a [[Central Intelligence Agency|CIA]] technical operations specialist with nearly a quarter-century of service by the mid-1970s. In 1950, at the age of twenty, he was recruited by the fledgling intelligence agency as a television engineer and sent to Greece as a clandestine radio operator. He subsequently worked in the Agency's Office of Communications and the Technical Services Division (TSD), which later became the Office of Technical Service (OTS). His last posting before becoming a coordinator for Grill Flame was chief of OTS's regional tech base in Athens.[^1]
 
 In late 1974 or early 1975, Everheart was appointed liaison to "Staff D" (later the Office of SIGINT Operations), an office specializing in small-scale signals intelligence collection. It was in this role that he was introduced to the remote viewing program by [[Ken Kress]], who had initiated [[Stanford Research Institute]] (SRI)'s first psi research contract. Everheart, initially unfamiliar with remote viewing, was urged to consider how it might benefit Staff D operations, particularly through the abilities of [[Pat Price]].[^1]

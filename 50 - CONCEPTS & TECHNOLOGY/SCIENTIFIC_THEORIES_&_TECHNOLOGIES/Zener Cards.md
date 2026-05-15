@@ -13,7 +13,7 @@ start: 1930
 location: Duke University, Durham, North Carolina
 ---
 
-[[Zener Cards]] are a deck of five cards, each bearing a distinct symbol (a circle, square, wavy lines, cross, and star). They were developed by parapsychologist [[Karl Zener]] in the early 1930s and are primarily used in [[Parapsychology|parapsychological]] experiments to test for [[ESP]] (extrasensory perception).[^1]
+[[Zener Cards]] are a deck of five cards, each bearing a distinct symbol (a circle, square, wavy lines, cross, and star). They were developed by parapsychologist [[Karl Zener]] in the early 1930s and are primarily used in [[Parapsychology|parapsychological]] experiments to test for [[Extrasensory Perception|ESP]] (extrasensory perception).[^1]
 
 In these experiments, a sender concentrates on a card, and a receiver attempts to identify the symbol without any sensory cues. The results are then statistically analyzed to determine if the number of correct guesses significantly exceeds what would be expected by chance. [[J. B. Rhine]] extensively used Zener cards in his experiments at the [[Duke University Parapsychology Laboratory]].[^1]
 

@@ -14,7 +14,7 @@ Kamal Adham was the former head of [[Saudi Arabian intelligence]] and brother-in
 
 Adham's influence stemmed from his royal connections, which he leveraged to facilitate business deals. He was the principal liaison between the [[Central Intelligence Agency]] and European intelligence agencies, operating under the code name "Tumbleweed."[^2] His role in Saudi intelligence involved assisting the royalists in [[Yemen]]'s civil war and later wielding wider influence through surveillance of Saudi citizens and political enemies of the king.[^3]
 
-He played a crucial role as a front man for [[Agha Hasan Abedi]] in BCCI's secret acquisitions, including the [[National Bank of Georgia]] and [[Financial General Bankshares]].[^4] Adham was instrumental in funneling money from [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] and the CIA to [[Anwar Sadat]] and is credited with pressuring Sadat to engage in the [[Camp David Accords]].[^5]
+He played a crucial role as a front man for [[Agha Hasan Abedi]] in BCCI's secret acquisitions, including the [[National Bank of Georgia]] and [[Financial General Bankshares]].[^4] Adham was instrumental in funneling money from [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] and the CIA to [[Anwar Sadat]] and is credited with pressuring Sadat to engage in the [[Camp David summit|Camp David Accords]].[^5]
 
 Adham was indicted in the United States for his involvement in BCCI's frauds and bribery, eventually pleading guilty in New York and agreeing to cooperate with prosecutors. He paid a $105 million fine.[^6]
 
