@@ -15,7 +15,7 @@ Mena, Arkansas is a small town in western Arkansas where [[Barry Seal]] based hi
 
 Seal moved from [[Baton Rouge, Louisiana|Baton Rouge]] to Mena in 1982 and began running drugs and weapons. In the early 1980s, Seal was one of the biggest cocaine and marijuana importers in the southern [[United States]], flying loads in directly for the [[Medellin Cartel|Medellín cartel]] and air-dropping them with pinpoint precision across [[Louisiana]], [[Arkansas]], and other southern states. IRS spokesman Henry Holms said Seal was involved in 50 drug-smuggling trips between 1981 and 1983, and a letter from Louisiana's attorney general to U.S. Attorney General Ed Meese said Seal "smuggled between $3 billion and $5 billion worth of drugs into the U.S."[^1]
 
-Seal's personal records showed him to be a contract [[Central Intelligence Agency]] operative both before and during his years of drug-running at Mena. Historian [[Roger Morris]], a former NSC staffer, wrote that Seal also worked for the [[DIA|Defense Intelligence Agency (DIA)]], "where coded records reportedly showed him on the payroll beginning in 1982."[^1]
+Seal's personal records showed him to be a contract [[Central Intelligence Agency]] operative both before and during his years of drug-running at Mena. Historian [[Roger Morris]], a former NSC staffer, wrote that Seal also worked for the [[Defense Intelligence Agency|Defense Intelligence Agency (DIA)]], "where coded records reportedly showed him on the payroll beginning in 1982."[^1]
 
 ### Terry Reed and Weapons Manufacturing
 

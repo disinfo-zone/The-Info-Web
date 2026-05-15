@@ -12,7 +12,7 @@ Eugene Holley was a former [[Georgia]] state senator who introduced [[Bert Lance
 
 Holley was convicted of bank fraud in 1980 and sentenced to ten years in jail.[^3] He had set up a [[Cayman Islands|Cayman]] oil company and accumulated a $17 million debt, from which Abedi bailed him out.[^4]
 
-In October 1977, Holley arranged a meeting between Bert Lance and [[BCCI]] chieftains Abedi and [[Swaleh Naqvi]] at [[New York City]]'s Waldorf-Astoria Hotel.[^5]
+In October 1977, Holley arranged a meeting between Bert Lance and [[Bank of Credit and Commerce International|BCCI]] chieftains Abedi and [[Swaleh Naqvi]] at [[New York City]]'s Waldorf-Astoria Hotel.[^5]
 
 ### Footnotes
 

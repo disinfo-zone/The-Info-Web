@@ -14,7 +14,7 @@ Roger Morris was a historian and former National Security Council staffer who wr
 
 ### Barry Seal and CIA Connections
 
-Morris wrote that Seal's "personal records showed him to be a contract CIA operative both before and during his years of drug-running in Mena in the 1980s." He also wrote that Seal worked for the [[DIA|Defense Intelligence Agency (DIA)]], "where coded records reportedly showed him on the payroll beginning in 1982."[^1]
+Morris wrote that Seal's "personal records showed him to be a contract CIA operative both before and during his years of drug-running in Mena in the 1980s." He also wrote that Seal worked for the [[Defense Intelligence Agency|Defense Intelligence Agency (DIA)]], "where coded records reportedly showed him on the payroll beginning in 1982."[^1]
 
 ### Danny Ray Lasater and Organized Crime
 

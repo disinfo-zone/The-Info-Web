@@ -25,7 +25,7 @@ At another meeting, Moore and D'Aubuisson were joined by Ray Prendes, the newly 
 
 ### Intelligence Connections
 
-Arms manufacturer [[Tim LaFrance]] told journalist Nick Schou that the [[DIA|Defense Intelligence Agency (DIA)]] was involved in Lister's weapons manufacturing plant in El Salvador, and that the meetings Lister and his associates had with D'Aubuisson "happened because the DIA wanted them to happen."[^1]
+Arms manufacturer [[Tim LaFrance]] told journalist Nick Schou that the [[Defense Intelligence Agency|Defense Intelligence Agency (DIA)]] was involved in Lister's weapons manufacturing plant in El Salvador, and that the meetings Lister and his associates had with D'Aubuisson "happened because the DIA wanted them to happen."[^1]
 
 D'Aubuisson's name appeared on a handwritten list of seven names that Lister prepared for his 1985 grand jury appearance, alongside [[William Nelson]] (the CIA's former deputy director of operations) and Ray Prendes (former head of the Salvadoran Christian Democratic party, which received substantial [[Central Intelligence Agency]] financial assistance during the 1980s). Lister told police the names "came up in his business" and described the people as "business people." The CIA later acknowledged D'Aubuisson was a drug and weapons trafficker.[^2]
 

@@ -22,7 +22,7 @@ According to LaFrance, the Pyramid team moved into a mass-transit center run by 
 
 ### Intelligence Connections
 
-LaFrance said the [[DIA|Defense Intelligence Agency (DIA)]] was involved in Lister's weapons manufacturing plant, and that the meetings Lister and his associates had with death squad commander [[Roberto D'Aubuisson]] "happened because the DIA wanted them to happen."[^1]
+LaFrance said the [[Defense Intelligence Agency|Defense Intelligence Agency (DIA)]] was involved in Lister's weapons manufacturing plant, and that the meetings Lister and his associates had with death squad commander [[Roberto D'Aubuisson]] "happened because the DIA wanted them to happen."[^1]
 
 LaFrance met Lister through [[Richard Wilker]], a former Laguna Beach resident LaFrance described as an ex-CIA agent. "Wilker had heard about my stuff from the Agency. He said he had a friend who wanted to talk about a deal. I called to check and Langley said he [Wilker] was still working for the Agency. So I started doing business with Lister and Wilker." LaFrance said Lister was not officially a CIA employee: "He wasn't getting a paycheck from them. He may have said he did but his connection was... with Wilker. Very few people ever work directly for the Agency."[^1]
 
