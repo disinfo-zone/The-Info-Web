@@ -33,6 +33,10 @@ Correspondence published in the British Journal of Psychiatry indicated that chi
 
 Estabrooks claimed in a 1971 article published in Science Digest to have successfully created multiple personalities through hypnotic techniques in officers of the US Army's intelligence division during World War II. While it remains unclear whether Estabrooks was directly involved with MKUltra, his research interests and claims aligned closely with the program's objectives.[^2]
 
+### Records Destruction and Congressional Investigation
+
+In 1973, DCI [[Richard Helms]] ordered the destruction of MKULTRA files before the Watergate-era congressional investigations could reach them. The destruction was extensive enough that the Church Committee's investigation was significantly hampered. A cache of approximately 20,000 documents survived only because they had been misfiled in a financial records annex rather than with the main program files; these were discovered during a 1977 FOIA search and formed the basis of the Senate Health Subcommittee hearings in August 1977 ("Project MKULTRA, the CIA's Program of Research in Behavioral Modification"), which are the primary published government record of the program. Helms was questioned about the records destruction during congressional proceedings.[^3]
+
 ### Aftermath and Legacy
 
 MKUltra officially ended in 1973. One theory suggests that when the program concluded, certain elements within the CIA continued this line of inquiry off the books, turning from academics to alternative lifestyle communities, pedophile rings, and cults as conduits to carry out trauma-based mind control research. Evidence of overlap between these elements appeared in the 1987 case of [[The Finders]].[^2]
@@ -43,3 +47,4 @@ The program's dark history, particularly its controversial studies on servicemen
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+[^3]: "Project MKULTRA, the CIA's Program of Research in Behavioral Modification." Joint Hearing before the Select Committee on Intelligence and the Subcommittee on Health and Scientific Research of the Committee on Human Resources, 95th Congress, 1st Session, August 3, 1977. U.S. Government Printing Office. Marks, John. *The Search for the Manchurian Candidate: The CIA and Mind Control*. Times Books, 1979.

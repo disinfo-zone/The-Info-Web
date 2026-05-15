@@ -12,8 +12,6 @@ died: 1992-05-01
 location: "Kronberg, Germany"
 ---
 
-# Hella Hammid
-
 Hella Hammid was a professional photographer and psychic who participated in [[Project Deep Quest]], a unique psychic functioning experiment conducted in the summer of 1977. She joined the [[Stanford Research Institute|SRI]] team, including [[Hal Puthoff]] and [[Dale Graff]], and worked alongside [[Ingo Swann]] and [[Stephan Schwartz]][^1].
 
 Hammid, along with Swann, was tasked with locating a previously unidentified shipwreck on the seafloor near Catalina Island using [[Dowsing]]. She would "sort of look at the map not as much with my eyes as sort of get the feeling of it," and mark locations where she sensed a wreck. Her marks, along with Swann's, were used to pinpoint a single target for the *Taurus I* submersible[^1].

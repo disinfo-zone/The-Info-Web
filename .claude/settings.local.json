@@ -101,7 +101,8 @@
       "WebFetch(domain:thelaststrawbook.wordpress.com)",
       "WebFetch(domain:annienormal.com)",
       "WebFetch(domain:charlessulka.com)",
-      "WebFetch(domain:danurtnowski.substack.com)"
+      "WebFetch(domain:danurtnowski.substack.com)",
+      "Bash(Get-Content *)"
     ]
   }
 }

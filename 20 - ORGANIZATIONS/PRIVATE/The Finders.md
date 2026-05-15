@@ -162,6 +162,12 @@ The group also operated through the same years as [[Project MKUltra]] and its su
 
 [[Ted Gunderson]], a former FBI Special Agent in Charge of the Los Angeles, Memphis, and Dallas field offices who retired from the bureau in 1979, obtained copies of the Martinez customs reports and made them widely available before any official release, hosting them on his website and distributing them to journalists and researchers. Gunderson authored a pamphlet titled "U.S. Customs Service Report on the Finders" and made public assertions regarding CIA orchestration of child trafficking networks.[^3] He died on July 31, 2011.
 
+### Connections Drawn in Secondary Literature
+
+Nebraska attorney and former state senator [[John DeCamp]], who published "The Franklin Cover-Up" (1992) about the [[Franklin Credit Union Scandal]] - a separate and contemporaneous case involving allegations of a child prostitution network connected to Omaha credit union operator [[Lawrence King Jr.]] - drew explicit connections between the Franklin case and The Finders in the second edition of his book (1996), characterizing both as CIA-connected child exploitation networks. Nick Bryant's "The Franklin Scandal" (Trine Day, 2009) similarly opens with a prologue titled "The Finders of Lost Children" and incorporates U.S. Customs documentation from the Finders investigation as supporting evidence.
+
+No publicly available government record establishes a documented operational or investigative link between the Franklin Credit Union investigation and the Finders investigation. The two were run as separate FBI matters. The "CIA internal matter" termination documented in the 1987 U.S. Customs Service report regarding The Finders has no documented equivalent in the Franklin investigation's public record. DeCamp's and Bryant's connections between the two cases are secondary-source assertions, not corroborated in the documentary evidence available from either case.[^16]
+
 ### Media Coverage and the Satanic Panic Context
 
 Initial coverage broke in the Washington Post on February 7, 1987, through a series of articles by Marc Fisher and John Mintz describing cult rituals and the warehouse contents.[^1] D.C. Police Chief Maurice T. Turner announced on February 10, 1987 that police had found no evidence of criminal wrongdoing.[^1]
@@ -203,3 +209,4 @@ In 2018, [[Robert Gardner Terrell]] gave his first public interview in over twen
 [^13]: Lanning, Kenneth V. "Investigator's Guide to Allegations of 'Ritual' Child Abuse." National Center for Missing and Exploited Children / NCAVC, FBI Academy, January 1992. ojp.gov/pdffiles1/Digitization/136592NCJRS.pdf.
 [^14]: Church Committee. *Intelligence Activities and the Rights of Americans*, Book II. S. Rept. 94-755, 94th Congress, 2d Session, April 26, 1976.
 [^15]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar. Also: *Project MKULTRA, the CIA's Program of Research in Behavioral Modification*, Joint Senate Hearing, August 3, 1977.
+[^16]: DeCamp, John W. *The Franklin Cover-Up*. AWT Inc., 1992. Second edition 1996. Bryant, Nick. *The Franklin Scandal*. Trine Day, 2009. FBI Vault, "The Finders," FOIA case number 1372462-0, vault.fbi.gov/the-finders (released November 2019).

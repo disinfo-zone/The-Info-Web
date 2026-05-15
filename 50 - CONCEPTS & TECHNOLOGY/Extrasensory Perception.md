@@ -20,7 +20,7 @@ Sustained government interest in ESP emerged during the Cold War, driven by conc
 
 The longest-running classified program was [[STARGATE PROJECT]], a joint DIA-CIA effort that ran under various designations (GONDOLA WISH, GRILL FLAME, CENTER LANE, SUN STREAK, STAR GATE) from the early 1970s until 1995. The program employed trained remote viewers at Fort Meade, Maryland, and contracted with [[Stanford Research Institute]] and later [[Science Applications International Corporation]] for evaluation. Key personnel included [[Hal Puthoff]], [[Russell Targ]], [[Ingo Swann]], [[Pat Price]], [[Joseph McMoneagle]], and [[Angela Dellafiora]].[^2]
 
-An independent evaluation of STAR GATE conducted by the American Institutes for Research and delivered to Congress in 1995 concluded that remote viewing had not been demonstrated to provide actionable intelligence and that the program should be terminated. The program was declassified and shut down that year.[^3]
+An independent evaluation of STAR GATE conducted by the [[American Institutes for Research]] and delivered to Congress in 1995 concluded that remote viewing had not been demonstrated to provide actionable intelligence and that the program should be terminated. The program was declassified and shut down that year.[^3]
 
 ### Scientific Status
 
