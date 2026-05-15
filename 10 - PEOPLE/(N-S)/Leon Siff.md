@@ -5,7 +5,6 @@ tags:
 summary: "In October 1989, Ari Ben-Menashe visited Siff in Los Angeles."
 location: "Los Angeles, California"
 ---
-
 [[Leon Siff]] was a retired probation officer from [[Los Angeles]], [[California]], who became involved in charitable work. He was the chief organizer of "One Universe," a non-profit alliance that included "National Food Relief," "Homes for the Homeless," and "Counseling Without Walls." His organization, also known as "Friends of the Universe," aimed to help the homeless living in and around [[Venice Beach]], [[Los Angeles]].[^1]
 
 [[Leon Siff|Siff]] was a Jewish man with a son who became a Buddhist monk in [[Sri Lanka]]. He met [[Ari Ben-Menashe]] in [[Colombo]], [[Sri Lanka]], in July 1989, where he was observed dancing alone in a hotel lobby. [[Leon Siff|Siff]] later invited [[Ari Ben-Menashe]] to visit his operations in [[Los Angeles]].[^1]

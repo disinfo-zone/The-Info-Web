@@ -5,7 +5,6 @@ tags:
   - BCCI
 summary: "Eugene Holley was a former Georgia state senator who introduced Bert Lance to Agha Hasan Abedi."
 ---
-
 Eugene Holley was a former [[Georgia]] state senator who introduced [[Bert Lance]] to [[Agha Hasan Abedi]].[^1] He was the first person prosecuted under the [[Foreign Corrupt Practices Act]] for paying bribes in [[Qatar]].[^2]
 
 ### Legal Issues and BCCI Connections

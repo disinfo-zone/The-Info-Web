@@ -9,7 +9,6 @@ born: 1912-11-03
 died: 2006-08-16
 location: "Encarnación, Paraguay"
 ---
-
 [[Alfredo Stroessner]] was the President of [[Paraguay]], having been put in power in 1954 by the [[Central Intelligence Agency|CIA]]. His regime was known for protecting [[Nazi Germany|Nazi]] intelligence officers and German scientists with whom the [[United States|U.S.]] government had made deals after [[World War II]]. Stroessner, with his German background and connections to the [[Nazi Party]] during the war, was considered an excellent candidate for the [[Central Intelligence Agency|CIA]] to install, indirectly serving [[United States|U.S.]] interests.[^1]
 
 [[Israel|Israel]]'s connection with [[Paraguay]] under Stroessner dates back to [[Golda Meir]]'s time as foreign minister, who was instrumental in opening diplomatic relations. Stroessner agreed to open [[Paraguay|Paraguay's]] embassy in [[Jerusalem]], even when the [[United States|U.S.]] did not recognize [[Jerusalem]] as the capital of [[Israel]]. This relationship, however, was not always consistent, with [[Mossad]] agents continuing to track [[Nazi Germany|Nazi]] groups in [[Paraguay]]. Stroessner attempted to improve his reputation by promising full cooperation with [[Israel]], though he did little to address the [[Nazi Germany|Nazi]] issue.[^1]

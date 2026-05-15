@@ -11,7 +11,6 @@ born: 1912-06-15
 died: 2009-03-09
 location: "USA"
 ---
-
 Gertrude Schmeidler was an experimental psychologist with a PhD from [[Harvard University]]. In 1942, she conducted an experiment on anomalous mental phenomena with psychology students at [[City University of New York]]. Her analysis of the data led her to coin the terms "sheep" and "goats" to categorize individuals based on their beliefs about [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]][^1].
 
 "Sheep" referred to individuals who were confident about the possible reality of ESP and PK, while "goats" referred to those who doubted the existence of any so-called anomalous mental phenomena. This explicit difference between believers and disbelievers has existed in the upper echelons of the U.S. military and intelligence communities since [[World War II]][^1].

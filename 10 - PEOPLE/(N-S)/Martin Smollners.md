@@ -5,7 +5,6 @@ tags:
   - OrganizedCrime
 summary: "Martin Smollners was a particularly sadistic pedophile and client of Lothar Glandorf's child trafficking operation who murdered a boy in 1986."
 ---
-
 Martin Smollners was a particularly sadistic pedophile and client of [[Lothar Glandorf]]'s child trafficking operation who murdered a boy in 1986. Smollners represented the most extreme and violent end of the child exploitation spectrum, engaging not only in child abuse but also in producing torture pornography. [^1]
 
 The investigation into Lothar Glandorf's operations revealed that Smollners had rented a boy from Glandorf's brothels specifically to use in the production of torture pornography. The specific torture method described involved wiring the boy's testicles to a generator and slowly increasing the electrical current. [^1]

@@ -7,7 +7,6 @@ tags:
   - UFO
 summary: "Garry Nolan is a leading research scientist at Stanford University, specializing in genetics, immunology, and bioinformatics."
 ---
-
 Garry Nolan is a leading research scientist at [[Stanford University]], specializing in genetics, immunology, and bioinformatics. He trained under Nobel Prize-winning biologist [[David Baltimore]] and has published over 200 research papers and holds twenty biotechnology patents[^1].
 
 Nolan is collaborating with [[Kit Green]] on a research project to study individuals who have experienced enigmatic injuries, such as burns, skin lesions, and cancers, and who have also had face-to-face encounters with [[Unidentified Aerial Phenomena|UAPs]]. Nolan has met and worked with many of Green's patients and confirmed that they were injured, observing physiological consequences of the harm they endured[^1].

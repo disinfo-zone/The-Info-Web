@@ -10,7 +10,6 @@ born: 1925-09-30
 died: 2023-11-26
 location: "Puerto Montt, Chile"
 ---
-
 [[Rodolfo Stange]] was a General and chief of the Chilean Carabineros (paramilitary police). He was a significant figure in the Chilean government during the period of [[Augusto Pinochet|Pinochet's]] rule and was involved in the country's arms trade and intelligence operations.[^1]
 
 [[Rodolfo Stange|Stange]] was present at a meeting in [[Santiago]], [[Chile]], in late 1986, with [[Carlos Cardoen]], [[Robert Gates]], Senator [[John Tower]], and [[Pieter Van Der Westhuizen|Gen. Pieter Van Der Westhuizen]] (South African Military Intelligence). At this meeting, [[United States|U.S.]] officials reaffirmed their intention to maintain arms channels to [[Iraq]] through [[South Africa]] and [[Chile]].[^1]

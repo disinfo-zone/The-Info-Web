@@ -9,7 +9,6 @@ summary: "Rajesh Rao is a computational neuroscientist who collaborated with And
 born: 1970-07-02
 location: "Madras, India"
 ---
-
 Rajesh Rao is a computational neuroscientist who collaborated with [[Andrea Stocco]] at the [[Institute for Learning and Brain Sciences]] (I-LABS) at the [[University of Washington]] in [[Seattle]]. Their work focuses on [[Synthetic Telepathy]] and direct brain-to-brain communication[^1].
 
 On August 12, 2013, Rao's laboratory, in collaboration with Stocco, demonstrated synthetic telepathy between two human test subjects for the first time in human history[^1].

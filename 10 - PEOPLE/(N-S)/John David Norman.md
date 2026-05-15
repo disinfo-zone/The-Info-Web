@@ -8,7 +8,6 @@ born: 1927-10-13
 died: 2011-05-22
 location: "Dallas, Texas"
 ---
-
 John David Norman (1927-2011) was the mastermind behind the [[Odyssey Network]], a sophisticated child trafficking and prostitution operation based in [[Dallas, Texas]], during the 1970s. Known under the alias Steven Gurwell, Norman led the [[Odyssey Foundation]], a front for pairing adult "sponsors" with boy "fellows" for educational trips that in reality facilitated sexual exploitation. His criminal enterprise, later rebranded as the Delta Project, represented one of the most extensive child trafficking networks uncovered in the United States, with connections to multiple high-profile murder cases including the [[Dean Corll]] and [[John Wayne Gacy]] investigations.[^1]
 
 Norman's operations involved recruiting vulnerable runaways, producing child pornography, and distributing materials via mail-order systems. He used coded advertisements in gay magazines and underground publications to attract clients, maintaining a database of thousands of index cards with names and addresses of nationwide clients, including prominent individuals and federal employees in [[Washington, D.C.]]. The network coordinated interstate trafficking, making boys dependent on traffickers, and distributed catalogs like "Fellows 1973" containing photos and descriptions of available boys.[^1]

@@ -10,7 +10,6 @@ born: 1923-06-19
 died: 1997-04-21
 location: "San Salvador de Guairá, Paraguay"
 ---
-
 [[Andres Rodriguez]] was a General in [[Paraguay]] and the head of the military school. He was a powerful figure in the country, considered by some to be the second most powerful man after [[Alfredo Stroessner|President Stroessner]]. He was believed to be a [[Central Intelligence Agency|CIA]] agent and had an exclusive on importing [[United States|American]] cigarettes to [[Paraguay]].[^1]
 
 [[Andres Rodriguez|Rodriguez]] had close connections with [[Rodolfo Stange|Gen. Rodolfo Stange]] of [[Chile]] and was believed to receive a retainer from [[Carlos Cardoen]]. He had presidential aspirations and was involved in a power struggle with [[Alfredo Stroessner|President Stroessner]]. His daughter, Marta, was married to Stroessner's second son, who was a cocaine addict, leading to strife over the presidential candidacy.[^1]

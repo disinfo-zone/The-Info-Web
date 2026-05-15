@@ -10,7 +10,6 @@ born: 1918-12-25
 died: 1981-10-06
 location: "Mit Abu al-Kawm, Al-Minufiyya, Egypt"
 ---
-
 [[Anwar Sadat]] was the President of [[Egypt]]. In 1978, he successfully concluded the [[Camp David Accords|Camp David summit]] with Israeli Prime Minister [[Menachem Begin]], a significant step towards peace in the [[Middle East]].[^2]
 
 He was informed by the [[Soviet Union|Soviets]] about [[Israel|Israel's]] attitude towards a comprehensive peace settlement in the [[Middle East]], following [[Golda Meir|Golda Meir's]] meeting with [[Leonid Brezhnev]] in 1972. This intelligence may have prompted [[Anwar Sadat|Sadat]] to launch a war against [[Israel]] in 1973 to force them to the peace table.[^1]

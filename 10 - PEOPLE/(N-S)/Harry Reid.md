@@ -18,7 +18,7 @@ Senator Reid's interest in the UAP topic was sparked by his position as the sena
 
 ### Funding for AATIP
 
-In 2007, Senator Reid, along with Senators [[Ted Stevens]] of Alaska and [[Daniel Inouye]] of Hawaii, secured $22 million in funding for the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to AATIP. These three men controlled congressional spending for "black budget" Pentagon programs, and their bipartisan support was essential for the program's creation. Reid continued to be a champion for the program, later securing an additional $10 million in funding for AATIP, though the funds were ultimately diverted to another program.[^1]
+In 2007, Senator Reid, along with Senators [[Ted Stevens]] of Alaska and [[Daniel Inouye]] of Hawaii, secured $22 million in funding for the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to [[AATIP]]. These three men controlled congressional spending for "black budget" Pentagon programs, and their bipartisan support was essential for the program's creation. Reid continued to be a champion for the program, later securing an additional $10 million in funding for AATIP, though the funds were ultimately diverted to another program.[^1]
 
 ### Support for Disclosure
 

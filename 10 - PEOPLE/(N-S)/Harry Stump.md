@@ -10,9 +10,6 @@ born: 1923
 died: 1998
 location: "Netherlands"
 ---
-
-# Harry Stump
-
 Harry Stump was a Dutch sculptor and channeler who gained the attention of [[Andrija Puharich]] and his wealthy benefactors due to his purported psychic abilities, particularly his capacity to enter trance states and produce automatic writings and drawings[^1].
 
 Stump was a [[World War II]] resistance fighter in his native Holland, honored by the Dutch government for his work against the [[Nazi Germany|Nazis]]. He was captured, beaten, and tortured by the [[Gestapo]] during the war[^1].

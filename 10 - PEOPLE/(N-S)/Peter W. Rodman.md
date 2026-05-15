@@ -10,7 +10,6 @@ born: 1943-11-24
 died: 2008-08-02
 location: "Boston, Massachusetts"
 ---
-
 Peter W. Rodman was a longtime assistant to [[Henry A. Kissinger]]. He was present during a meeting between Kissinger and [[Simcha Dinitz]], the Israeli ambassador, during the 1973 [[Yom Kippur War]], where Dinitz emphasized the desperate situation of the Israeli military and the need for more tanks and aircraft. Rodman, who could be trusted with sensitive information, was dismissed from the meeting when Dinitz insisted on speaking with Kissinger alone.[^1]
 
 ### Footnotes

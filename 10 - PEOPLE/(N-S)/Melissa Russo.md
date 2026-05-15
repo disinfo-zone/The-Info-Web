@@ -9,7 +9,6 @@ born: 1987
 died: 1996
 location: "Charleroi, Belgium"
 ---
-
 Melissa Russo, aged eight, disappeared from her hometown of Charleroi, Belgium, on July 22, 1995, alongside her friend [[Julie Lejeune]], who was also eight years old. The two girls vanished while riding bicycles near a local school, an incident that prompted immediate police involvement but yielded no leads until the broader investigation into [[Marc Dutroux]] intensified. Dutroux, an unemployed electrician with a history of child-related offenses, had kidnapped them on orders linked to his role in a child trafficking network, holding them captive in a hidden basement dungeon at his residence in Marcinelle, where they endured starvation and abuse for over a year.[^1]
 
 The basement, constructed with assistance from accomplice [[Claude Thirault]] in 1993 under the guise of drainage renovations, featured soundproofed cells disguised behind shelving. Surveillance began on August 10, 1995, under the Othello investigation led by Inspector [[Rene Michaux]], but officers failed to detect the girls despite screams heard during a December 1995 search while Dutroux was jailed for auto theft. Items seized included videotapes of rapes, a speculum, chains, and chloroform, all returned to Dutroux's wife [[Michelle Martin]], who later admitted feeding the captives sporadically during his incarceration.[^1]

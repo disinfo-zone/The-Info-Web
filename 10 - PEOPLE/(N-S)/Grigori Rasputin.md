@@ -7,8 +7,6 @@ born: 1869-01-22
 died: 1916-12-30
 location: "Pokrovskoye, Siberia, Russian Empire"
 ---
-
-
 Grigori Rasputin was a Russian mystic and self-proclaimed holy man who exerted significant influence over the late Russian Imperial family. In the context of [[Soviet Union|Soviet Russia]], his story served as a cautionary tale, framing all twentieth-century forays into the mystical, magical, or supernatural[^1].
 
 In 1910, [[Czar Nicholas II]] brought Rasputin into his court after Rasputin allegedly stopped the bleeding in the czar's hemophiliac son. From that point, Rasputin began advising the czar on matters of state, including battle plans during [[World War I]]. His ability to survive multiple assassination attempts contributed to his mythical status, but he was eventually killed by a group of conspirators who poisoned, shot, and drowned him in the icy Neva River[^1].

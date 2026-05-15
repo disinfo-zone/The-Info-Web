@@ -5,8 +5,6 @@ tags:
   - CIA
 summary: "Isabelle Pettie was a CIA employee and the late wife of Marion Pettie, the leader of The Finders."
 ---
-
-
 Isabelle Pettie was a CIA employee and the late wife of [[Marion Pettie]], the leader of [[The Finders]]. Her employment with the CIA established a direct connection between the intelligence community and the leadership of The Finders, a relationship that became central to investigations into the group's activities and potential intelligence links.[^1]
 
 The discovery of Isabelle Pettie's CIA employment occurred during the broader investigation into The Finders following the February 1987 arrests of group members in Florida. As investigators examined Marion Pettie's background, they learned that his wife had worked for the CIA, and that one of their sons had worked for Air America, a CIA cutout used to traffic heroin in the golden triangle region during the Vietnam War. These family connections to intelligence operations raised questions about whether The Finders maintained formal or informal links to the agency.[^1]

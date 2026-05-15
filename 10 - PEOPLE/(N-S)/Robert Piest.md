@@ -7,7 +7,6 @@ born: 1963-03-16
 died: 1978-12-11
 location: "Des Plaines, Illinois"
 ---
-
 Robert Piest was a 15-year-old student at Maine West High School and employee at a pharmacy in Des Plaines, Illinois. Piest lived with his family and worked part-time at the Nisson Pharmacy owned by [[Phil Torf]]. Piest's disappearance on December 11, 1978, triggered the investigation into [[John Wayne Gacy]]. Piest was a classmate of [[Joseph Kozenczak]]'s son at Maine West High School.[^1]
 
 ### Disappearance and Investigation

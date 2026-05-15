@@ -9,9 +9,6 @@ tags:
 summary: "Stephan Schwartz is a former naval officer and researcher who became deeply involved in psychic research, particularly in the area of Remote Viewing."
 born: 1942-01-10
 ---
-
-# Stephan Schwartz
-
 Stephan Schwartz is a former naval officer and researcher who became deeply involved in [[Parapsychology|psychic research]], particularly in the area of [[Remote Viewing]]. He served as a special assistant for research and analysis to Chief of Naval Operations Admiral [[Elmo Zumwalt]], where he was briefed on the [[U.S. Navy]]'s [[Telepathy|telepathy]] studies and Soviet efforts in the field[^1].
 
 Schwartz was aware of a notable Soviet [[Extrasensory Perception|ESP]] experiment from around 1956, which allegedly involved a mother rabbit, her newborn litter, a submerged Soviet submarine, and a research station on shore. In this experiment, the baby rabbits were placed aboard the submarine, and electrodes were implanted in the mother rabbit's brain on shore. When the baby rabbits were killed one by one, the mother rabbit's brain produced detectable and recordable reactions, suggesting that [[Extremely Low Frequency (ELF) Waves|ELF]] might be an ESP information carrier channel[^1].

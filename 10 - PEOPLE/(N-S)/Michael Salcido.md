@@ -6,7 +6,6 @@ summary: "Michael Salcido was as a victim of child sexual abuse by John David No
 died: 1979
 location: "Chicago, Illinois"
 ---
-
 Michael Salcido was as a victim of child sexual abuse by [[John David Norman]] in [[Chicago]]. Salcido experienced exploitation within Norman's network, which involved underage boys for prostitution and pornography production. The abuse occurred in the context of Norman's operations using apartments for recruitment and illicit activities.[^1]
 
 ### Report and Testimony

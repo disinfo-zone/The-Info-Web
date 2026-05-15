@@ -13,8 +13,7 @@ born: 1928
 died: 2016-07-02
 location: "Tel Aviv, Israel"
 ---
-
-Yaacov Nimrodi (also Yaakov Nimrodi) was an Israeli arms dealer, businessman, and former Israeli military intelligence officer who died on July 2, 2016. He served as Israeli military attache in [[Iran]] from 1955 to 1968, during which time he developed extensive contacts in the Iranian government and military establishment under [[Mohammad Reza Pahlavi|Shah Mohammad Reza Pahlavi]]. These contacts, maintained through the two decades following his return to Israel, made him a natural intermediary for the Iranian arms-for-hostages initiative that became the [[Iran-Contra Affair]].[^1]
+Yaacov Nimrodi (also Yaakov Nimrodi) was an [[Israeli|Israel]] arms dealer, businessman, and former Israeli military intelligence officer who died on July 2, 2016. He served as Israeli military attache in [[Iran]] from 1955 to 1968, during which time he developed extensive contacts in the Iranian government and military establishment under [[Mohammad Reza Pahlavi|Shah Mohammad Reza Pahlavi]]. These contacts, maintained through the two decades following his return to Israel, made him a natural intermediary for the Iranian arms-for-hostages initiative that became the [[Iran-Contra Affair]].[^1]
 
 ### Iran-Contra Role
 

@@ -9,9 +9,6 @@ tags:
   - Soviet
 summary: "Pavel Naumov was a Soviet military scientist who reportedly conducted a notable ESP experiment around 1956."
 ---
-
-# Pavel Naumov
-
 Pavel Naumov was a [[Soviet Union|Soviet]] military scientist who reportedly conducted a notable [[Extrasensory Perception|ESP]] experiment around 1956. This experiment involved a mother rabbit, her newborn litter, a submerged Soviet submarine, and a research station on shore[^1].
 
 In this experiment, the baby rabbits were placed aboard the submarine, and electrodes were implanted in the mother rabbit's brain at the shore-based laboratory. When the baby rabbits were killed one by one, the mother rabbit's brain produced detectable and recordable reactions. The results of this experiment, if believed, suggested that [[Extremely Low Frequency (ELF) Waves|ELF]] might be an ESP information carrier channel[^1].

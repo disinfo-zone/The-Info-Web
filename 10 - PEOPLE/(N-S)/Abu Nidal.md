@@ -9,7 +9,6 @@ born: 1937
 died: 2002
 location: "Jaffa, British Mandate Palestine"
 ---
-
 [[Abu Nidal]] was a Palestinian terrorist. He was a target of [[Israel|Israeli]] intelligence operations. Arms dealers like [[John Knight]] and [[Sidem International Limited]] acquired arms from [[Yugoslavia]] and sold them to [[Mohammed Radi Abdullah]], who in turn sold them to [[Abu Nidal|Nidal]] and other Palestinian groups. [[Mohammed Radi Abdullah|Radi]] was unaware of [[Anthony Pearson|Pearson's]] [[Israel|Israeli]] connection.[^1]
 
 [[Mohammed Radi Abdullah|Radi]] later presented his case to [[Abu Nidal|Nidal]] in [[Baghdad]], claiming he had been unwittingly used by [[Anthony Pearson|Pearson]]. [[Abu Nidal|Nidal]] believed his story and put out the word that [[Mohammed Radi Abdullah|Radi]] was "clean," placing the blame on [[Yasser Arafat|Yasser Arafat's]] group.[^1]

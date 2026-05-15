@@ -6,9 +6,6 @@ tags:
   - Person
 summary: "Yoav Shacham was an Israeli grain trader and alleged spy who significantly influenced Uri Geller's early life and aspirations."
 ---
-
-# Yoav Shacham
-
 Yoav Shacham was an [[Israel|Israeli]] grain trader and alleged spy who significantly influenced [[Uri Geller]]'s early life and aspirations. Shacham was a resident at the hotel in Nicosia, [[Cyprus]], run by Geller's stepfather, Ladislas Gero[^1].
 
 Shacham, described as tough-looking and powerfully built, practiced martial arts in the hotel garden, which intrigued a fourteen-year-old Geller. Geller, seeking to impress Shacham, demonstrated his ability to bend metal spoons and keys. Shacham, impressed, offered to teach Geller martial arts[^1].

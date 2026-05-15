@@ -8,7 +8,6 @@ tags:
 summary: "Convicted British arms dealer acting for the CIA who offered Ari Ben-Menashe $2 million and U.S. citizenship for his silence."
 died: 1992
 ---
-
 [[Herbert Alwyn Smith]] was a convicted British arms dealer. He contacted [[Ari Ben-Menashe]] through an informant in early 1991, while [[Ari Ben-Menashe|Ben-Menashe]] was in [[Lexington]], [[Kentucky]].[^1]
 
 [[Herbert Alwyn Smith|Smith]], acting on behalf of the [[Central Intelligence Agency|CIA]], offered [[Ari Ben-Menashe|Ben-Menashe]] a deal: $2 million and [[United States|U.S.]] citizenship in exchange for his silence and a signed statement that he had no legal claims or allegations against the [[United States|U.S.]] government. [[Ari Ben-Menashe|Ben-Menashe]] received a letter of credit for the amount but did not accept the deal.[^1]

@@ -7,7 +7,6 @@ tags:
 summary: "Masihur Rahman was the former chief financial officer of BCCI."
 location: "Abu Dhabi, UAE"
 ---
-
 Masihur Rahman was the former chief financial officer of [[Bank of Credit and Commerce International|BCCI]].[^1] He explained the financial legerdemain that resulted in the disappearance of billions of dollars.[^2] Rahman later testified before a Senate subcommittee.[^3]
 
 ### Role at BCCI

@@ -5,8 +5,7 @@ tags:
 summary: "Australian member of the Church of God who carried out the 1969 arson attack on Jerusalem's El Aqsa Mosque, allegedly connected to the Jewish Defense League."
 location: "Australia"
 ---
-
-[[Michael Dennis Rohan]] was an [[Australia|Australian]] member of the Church of God. In 1969, he was a volunteer at [[Kibbutz Mishmar Hasharon]] in [[Israel]], where he shared a room with [[Ari Ben-Menashe]]. [[Michael Dennis Rohan|Rohan]] believed he was destined to be the king of [[Israel]] and prepare the way for the return of Christ.[^1]
+[[Michael Dennis Rohan]] was an [[Australia|Australian]] member of the [[Church of God]]. In 1969, he was a volunteer at [[Kibbutz Mishmar Hasharon]] in [[Israel]], where he shared a room with [[Ari Ben-Menashe]]. [[Michael Dennis Rohan|Rohan]] believed he was destined to be the king of [[Israel]] and prepare the way for the return of Christ.[^1]
 
 [[Michael Dennis Rohan|Rohan]] was responsible for an arson attack on the [[El Aqsa Mosque]] in [[Jerusalem]] in August 1969. He believed that destroying the mosque was necessary for the rebuilding of the Third Temple and the return of Jesus. He was reportedly involved with the [[Jewish Defense League]] (JDL) in this act. [[Ari Ben-Menashe]] played a role in his apprehension, reporting him to the [[Israel|Israeli]] police.[^1]
 

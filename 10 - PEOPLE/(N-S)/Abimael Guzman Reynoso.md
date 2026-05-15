@@ -7,7 +7,6 @@ born: 1934-12-03
 died: 2021-09-11
 location: "Mollendo, Arequipa, Peru"
 ---
-
 [[Abimael Guzman Reynoso]] was the founder and leader of the [[Shining Path]] (El Sendero Luminoso), a Maoist terrorist group in [[Peru]]. He was formerly a professor of philosophy at the [[University of San Cristobal]] at [[Ayacucho]], where he was considered a legendary figure by his followers, who saw him as the "fourth sword of Marxism" after [[Karl Marx|Marx]], [[Vladimir Lenin|Lenin]], and [[Joseph Stalin|Stalin]].[^1]
 
 In 1980, [[Abimael Guzman Reynoso|Guzmán]] proclaimed the armed struggle against the capitalist government in [[Lima]], and the [[Shining Path]] grew into a powerful force, leading to the declaration of martial law in the department of [[Ayacucho]] by [[Alan Garcia|Peruvian President Alan Garcia]].[^1]

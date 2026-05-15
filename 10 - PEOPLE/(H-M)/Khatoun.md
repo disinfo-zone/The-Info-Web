@@ -5,8 +5,7 @@ tags:
 summary: "In July 1966, Khatoun took Ari and his sisters, Claris, Evon, and Stella, to Israel, where Stella and Ari were enrolled at the American International School in Kfar Smaryahu."
 location: "Baghdad, Iraq"
 ---
-
-[[Khatoun]] is the mother of [[Ari Ben-Menashe]]. She was an affluent Iraqi Jew who married [[Gourdji]] in [[Baghdad]] in 1945 and settled in [[Tehran]], [[Iran]]. In late 1950 and early 1951, she visited [[Israel]] with her husband to explore the possibility of moving there.[^1]
+[[Khatoun]] is the mother of [[Ari Ben-Menashe]]. She was an affluent [[Iraq|Iraqi]] Jew who married [[Gourdji]] in [[Baghdad]] in 1945 and settled in [[Tehran]], [[Iran]]. In late 1950 and early 1951, she visited [[Israel]] with her husband to explore the possibility of moving there.[^1]
 
 In July 1966, [[Khatoun]] took [[Ari Ben-Menashe|Ari]] and his sisters, Claris, Evon, and Stella, to [[Israel]], where Stella and [[Ari Ben-Menashe|Ari]] were enrolled at the American International School in Kfar Smaryahu. Five years later, [[Khatoun]] and her husband moved from [[Tehran]] to [[Israel]].[^1]
 

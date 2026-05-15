@@ -5,9 +5,7 @@ tags:
   - CIA
 summary: "Robert Garder Terrell was an employee of Future Enterprises and a member of The Finders who was let go from the group in February 1987."
 ---
-
-
-Robert Garder Terrell was an employee of [[Future Enterprises]] and a member of [[The Finders]] who was let go from the group in February 1987. His simultaneous employment at a company that provided software training for CIA employees and membership in The Finders established a direct operational link between the group and the intelligence community.[^1]
+Robert Garder Terrell was an employee of [[Future Enterprises]] and a member of [[The Finders]] who was let go from the group in February 1987. His simultaneous employment at a company that provided software training for [[Central Intelligence Agency|CIA]] employees and membership in The Finders established a direct operational link between the group and the intelligence community.[^1]
 
 The connection between Terrell, Future Enterprises, and The Finders emerged during the 1993 Department of Justice inquiry into CIA involvement with the group. Investigators learned that Future Enterprises had provided software training for CIA employees, and that Terrell was a member of The Finders who had been released from the group in February 1987. The timing of his departure coincided with the intensification of law enforcement scrutiny following the arrests of Finders members in Florida that same month.[^1]
 

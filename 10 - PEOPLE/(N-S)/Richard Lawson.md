@@ -11,7 +11,6 @@ created: 2026-05-14
 updated: 2026-05-14
 location: "Michigan, United States"
 ---
-
 Richard Lawson was an individual who participated in child pornography networks operating in the [[Cass Corridor]] area of Detroit, Michigan, during the 1970s. He later became a cooperating informant in the long-running investigation of the [[Oakland County Child Killer]] (OCCK) cold case, providing statements to Michigan State Police detectives in 1988 and again in 2005 that represented significant new allegations about the network behind the murders.[^1]
 
 ### Connection to North Fox Island

@@ -14,7 +14,7 @@ born: 1949-06-24
 died: 2018-01-27
 location: "Hartford, Connecticut"
 ---
-Robert Parry was born June 24, 1949. He worked as a reporter at the Associated Press in the early 1980s, where he broke early stories on Contra drug trafficking and helped expose Iran-Contra, and subsequently at Newsweek. He founded Consortium News in 1995 after finding mainstream news organizations unwilling to continue investigating government secrecy, intelligence abuses, and the [[October Surprise]] allegation. He died January 27, 2018.[^1]
+Robert Parry was born June 24, 1949. He worked as a reporter at the [[Associated Press]] in the early 1980s, where he broke early stories on Contra drug trafficking and helped expose Iran-Contra, and subsequently at Newsweek. He founded Consortium News in 1995 after finding mainstream news organizations unwilling to continue investigating government secrecy, intelligence abuses, and the [[October Surprise]] allegation. He died January 27, 2018.[^1]
 
 ### Iran-Contra Reporting
 

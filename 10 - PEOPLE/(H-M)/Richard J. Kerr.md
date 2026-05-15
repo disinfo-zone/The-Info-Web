@@ -8,7 +8,6 @@ summary: "Kerr appeared before Senator John Kerry's Subcommittee on Terrorism, N
 born: 1935-10-04
 location: "Fort Smith, Arkansas, USA"
 ---
-
 Richard J. Kerr served as Acting [[Central Intelligence Agency]] Director. In 1991, he confirmed that the agency had used [[Bank of Credit and Commerce International|BCCI]] to move money around the world.[^1]
 
 ### Role in BCCI Affair

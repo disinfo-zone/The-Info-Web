@@ -7,7 +7,6 @@ born: 1957
 died: 1977-01-20
 location: "Des Plaines, Illinois"
 ---
-
 John A. Szyc, full name inscribed on his Maine West High School graduation ring as 'J.A.S.', served as a key identifier in the investigation linking him to [[John Wayne Gacy]]. This ring, discovered during the December 13, 1978, search of Gacy's [[Norwood Park]] home at 8213 West Summerdale Avenue, confirmed Szyc's association with Gacy's construction operations. The inscription matched records from Maine West High School, where Szyc graduated in 1975, providing dental records for later body identification.[^1]
 
 John Szyc graduated from Maine West High School in 1975 at age 18, establishing his roots in the Des Plaines, Illinois, area before entering the workforce. By early 1977, at age 19, Szyc secured employment with [[John Wayne Gacy]]'s [[Painting Decorating Maintenance]] company, performing labor tasks at job sites around [[Norwood Park]]. This position placed him in direct contact with Gacy's household, including live-in employees like [[Michael Rossi]] and [[David Cram]], who shared the home office space at 8213 West Summerdale Avenue.[^1]

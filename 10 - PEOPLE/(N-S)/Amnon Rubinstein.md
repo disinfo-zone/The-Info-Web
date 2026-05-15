@@ -10,7 +10,6 @@ born: 1931-09-05
 died: 2024-01-18
 location: "Tel Aviv, Israel"
 ---
-
 Amnon Rubinstein was a prominent [[Israel|Israeli]] legal scholar, politician, and television talk show host. Known as the founding father of Israeli constitutional law, he served in various ministerial roles, including Minister of Communications, Minister of Science and Technology and Space, and Minister of Energy and Infrastructure[^1].
 
 Rubinstein became a notable supporter of [[Uri Geller]]'s [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]] abilities since 1969. He first encountered Geller at a party, where Geller allegedly demonstrated a remarkable ability to influence Rubinstein's thoughts, making him choose a specific number that Geller had already written down. Rubinstein, initially skeptical, was astonished by this demonstration[^1].

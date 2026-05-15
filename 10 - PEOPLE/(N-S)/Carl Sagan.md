@@ -10,7 +10,6 @@ born: 1934-11-09
 died: 1996-12-20
 location: "Brooklyn, New York, USA"
 ---
-
 Carl Sagan (1934–1996) was a renowned American cosmologist, astronomer, planetary scientist, and author. He was a prominent figure in the scientific skepticism movement and a vocal critic of paranormal claims, including those made by [[Uri Geller]][^1].
 
 Sagan, along with [[Martin Gardner]], [[Ray Hyman]], [[Paul Kurtz]], and [[James Randi]], co-founded the [[Committee for the Scientific Investigation of Claims of the Paranormal]] (CSICOP). This organization aimed to promote scientific inquiry and combat pseudoscience, which they believed included the sudden explosion of interest in paranormal phenomena[^1].

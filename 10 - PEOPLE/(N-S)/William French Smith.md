@@ -13,7 +13,7 @@ died: 1990-10-29
 location: "Wilton, New Hampshire"
 ---
 
-William French Smith was the U.S. Attorney General under [[Ronald Reagan]] who signed the secret 1982 Memorandum of Understanding with [[Central Intelligence Agency]] director [[William J. Casey]] that exempted CIA assets from drug crimes reporting. The agreement, hammered out between the CIA and Justice Department, fundamentally altered the relationship between intelligence operations and law enforcement.[^1]
+William French Smth was the U.S. Attorney General under [[Ronald Reagan]] who signed the secret 1982 Memorandum of Understanding with [[Central Intelligence Agency]] director [[William J. Casey]] that exempted CIA assets from drug crimes reporting. The agreement, hammered out between the CIA and Justice Department, fundamentally altered the relationship between intelligence operations and law enforcement.[^1]
 
 ### The Secret 1982 Agreement
 

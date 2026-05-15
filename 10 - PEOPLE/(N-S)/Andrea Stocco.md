@@ -9,7 +9,6 @@ tags:
 summary: "Andrea Stocco is a co-director at the Institute for Learning and Brain Sciences (I-LABS) at the University of Washington in Seattle."
 location: "Palmanova, Friuli, Italy"
 ---
-
 Andrea Stocco is a co-director at the [[Institute for Learning and Brain Sciences]] (I-LABS) at the [[University of Washington]] in [[Seattle]]. He is involved in research on [[Synthetic Telepathy]], specifically focusing on direct brain-to-brain communication[^1].
 
 Stocco explains that while evolution has found ways for humans to communicate information from their brains, it requires translation. His work aims to reverse this process, taking signals from the brain and, with minimal translation, putting them back into another person's brain[^1].

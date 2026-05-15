@@ -7,10 +7,6 @@ summary: "Manuel Schadwald was a 12-year-old German boy who disappeared from Ber
 born: 1981
 location: "Berlin, Germany"
 ---
-
-
-### Overview
-
 Manuel Schadwald was a 12-year-old German boy who disappeared from Berlin in July 1993, becoming one of Europe's most infamous missing child cases and a pivotal figure in exposing international child trafficking networks. Born in 1981, Schadwald lived in Berlin with his family until his mysterious disappearance, which would eventually reveal connections between German, Dutch, and British child trafficking operations and implicate senior government officials in these criminal networks.[^1]
 
 ### Initial Investigation and Police Response
