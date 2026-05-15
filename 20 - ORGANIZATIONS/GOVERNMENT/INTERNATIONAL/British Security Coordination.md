@@ -12,7 +12,7 @@ tags:
   - Roald_Dahl
 start: 1940-05-01
 end: 1945-12-31
-summary: "British Security Coordination (BSC) was a covert British intelligence operation established in May 1940 by William Stephenson, headquartered at Room 3603, Rockefeller Center, New York. It served as a wartime umbrella organization for MI5, MI6, SOE, and PWE in the Western Hemisphere, conducting propaganda, counterintelligence, and influence operations across the United States with the knowledge and cooperation of President Franklin D. Roosevelt."
+summary: "British Security Coordination (BSC) was a covert British intelligence operation (1940-1945) established by William Stephenson at Rockefeller Center, New York, serving as a wartime umbrella for MI5, MI6, SOE, and PWE conducting propaganda and counterintelligence across the Western Hemisphere."
 location: "New York City / Washington, D.C."
 ---
 

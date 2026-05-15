@@ -11,7 +11,7 @@ tags:
   - OSS
   - Propaganda
   - USA
-summary: "Sir William Samuel Stephenson (1897-1989), known by his BSC codeword 'Intrepid,' was a Canadian-born British intelligence officer who founded and directed British Security Coordination (BSC) in New York from 1940 to 1945. BSC was the principal British intelligence operation in the Western Hemisphere during World War II, coordinating propaganda, counterintelligence, and influence operations across the neutral and then allied United States, and playing a foundational role in the creation of the OSS."
+summary: "Sir William Stephenson (1897-1989), codenamed 'Intrepid,' was the Canadian-born British intelligence officer who founded and directed British Security Coordination in New York from 1940 to 1945, coordinating wartime propaganda and counterintelligence and playing a foundational role in creating the OSS."
 born: 1897-01-23
 died: 1989-01-31
 location: "Winnipeg, Manitoba / New York City"

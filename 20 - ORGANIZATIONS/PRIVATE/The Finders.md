@@ -9,7 +9,7 @@ tags:
   - International_Network
   - Computer_Operations
 category: "Private Organization"
-summary: "The Finders was a Washington D.C.-based communal group led by former Air Force Master Sergeant Marion Pettie that came to public attention in February 1987 when two members were arrested in Tallahassee, Florida while transporting six malnourished children. Subsequent raids on group properties uncovered computer networks, satellite equipment, and documents describing international operations involving children, triggering a federal investigation that was abruptly halted after CIA involvement was acknowledged."
+summary: "The Finders was a Washington D.C.-based communal group led by Marion Pettie that came to public attention in 1987 when members were arrested transporting malnourished children, with a subsequent federal investigation abruptly closed after the CIA acknowledged an interest in the group."
 location: "Washington, D.C."
 start: 1970
 ---

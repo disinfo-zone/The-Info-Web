@@ -8,7 +8,7 @@ tags:
   - Chicago
   - Political_Assassination
   - 1969
-summary: "Fred Hampton (1948-1969) was the chairman of the Illinois chapter of the Black Panther Party and a prominent Chicago community organizer who was killed at age 21 in a pre-dawn police raid on December 4, 1969. FBI documents later established that Hampton's personal security chief, William O'Neal, was an FBI informant who provided a detailed floor plan of Hampton's apartment to the FBI and Chicago police before the raid. The civil lawsuit Hampton v. Hanrahan settled in 1982 for $1.85 million."
+summary: "Fred Hampton (1948-1969) was chairman of the Illinois Black Panther Party, killed in a December 4, 1969, police raid whose FBI informant infiltrator provided the floor plan of Hampton's apartment in advance under COINTELPRO."
 born: 1948-08-30
 died: 1969-12-04
 location: "Chicago, Illinois"

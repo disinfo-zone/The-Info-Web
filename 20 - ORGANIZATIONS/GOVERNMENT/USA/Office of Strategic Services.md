@@ -14,7 +14,7 @@ tags:
   - Donovan
 description: The Office of Strategic Services (OSS) was the United States' wartime intelligence agency during World War II and the direct institutional precursor to the CIA.
 category: "Intelligence & Government"
-summary: "The Office of Strategic Services (OSS) was the United States wartime intelligence and covert operations agency established on June 13, 1942, under General William J. 'Wild Bill' Donovan. Dissolved by President Truman in October 1945, it was the direct institutional precursor to the CIA. Its creation was substantially shaped by British Security Coordination, and its organizational templates transferred directly into the CIA when the Agency was established in 1947."
+summary: "The Office of Strategic Services (OSS) was the U.S. wartime intelligence and covert operations agency (1942-1945) founded by General William Donovan on British Security Coordination templates, dissolved by Truman in 1945 and reconstituted as the CIA in 1947."
 start: 1942-06-13
 end: 1945-10-01
 location: "Washington, D.C."

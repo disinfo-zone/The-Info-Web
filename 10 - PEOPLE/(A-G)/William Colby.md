@@ -8,7 +8,7 @@ tags:
   - Operation_CHAOS
   - Iran_Contra
   - Franklin_Scandal
-summary: "William Egan Colby (1920-1996) served as Director of Central Intelligence from 1973 to 1976. His tenure included dismissing James Jesus Angleton in December 1974, cooperating with the Church Committee investigation of CIA domestic surveillance, and overseeing the revelation of the 'Family Jewels' documents. He is also known for his Vietnam-era role as head of the Phoenix Program and his personal relationship with Nebraska attorney John DeCamp."
+summary: "William Egan Colby (1920-1996) served as Director of Central Intelligence from 1973 to 1976, dismissing James Angleton, cooperating with the Church Committee, revealing the Family Jewels, and earlier directing the Vietnam-era Phoenix Program."
 born: 1920-01-04
 died: 1996-04-27
 location: "Saint Paul, Minnesota"

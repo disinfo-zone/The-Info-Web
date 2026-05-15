@@ -7,7 +7,7 @@ tags:
   - Domestic_Surveillance
   - Cold_War
   - Nuclear
-summary: "J. Edgar Hoover (1895-1972) served as Director of the FBI for 48 years, from 1924 to his death in 1972. He created COINTELPRO in 1956, the systematic domestic counterintelligence program targeting political organizations, and maintained voluminous secret files on political figures that enabled his institutional survival across eight presidential administrations."
+summary: "J. Edgar Hoover (1895-1972) served as FBI Director for 48 years, creating COINTELPRO in 1956 and maintaining secret files on political figures that sustained his institutional survival across eight presidential administrations."
 born: 1895-01-01
 died: 1972-05-02
 location: "Washington, D.C."

@@ -8,7 +8,7 @@ tags:
   - Operation_CHAOS
   - Church_Committee
   - Cold_War
-summary: "James Jesus Angleton (1917-1987) was the CIA's director of counterintelligence from 1954 to 1974, responsible for both the Israeli intelligence liaison (KK MOUNTAIN) and for overseeing Operation CHAOS (MHCHAOS), the domestic surveillance program targeting antiwar and civil rights organizations. He was fired by DCI William Colby in December 1974 in the immediate aftermath of the Hersh exposé of illegal domestic CIA activities."
+summary: "James Jesus Angleton (1917-1987) was the CIA's director of counterintelligence from 1954 to 1974, overseeing the Israeli intelligence liaison (KK MOUNTAIN) and Operation CHAOS before being fired by DCI Colby following the Hersh exposé of illegal domestic CIA activities."
 born: 1917-12-09
 died: 1987-05-11
 location: "Boise, Idaho"
