@@ -26,11 +26,11 @@ Operation AJAX was the [[Central Intelligence Agency|CIA]]'s operational code na
 
 The immediate cause of Operation AJAX was the Anglo-Iranian Oil Company (AIOC) crisis. The AIOC, a British company (now [[BP]]), had held monopoly rights to Iranian oil since 1913. In 1951, Mosaddegh's National Front government nationalized the AIOC, asserting Iranian sovereign control over its primary natural resource. The British government, which held majority interest in the AIOC, responded with an economic blockade of Iranian oil exports and sought to pressure or remove Mosaddegh.
 
-The Truman administration initially declined British requests for CIA assistance in removing Mosaddegh, viewing the situation as primarily a colonial dispute. When Eisenhower took office in January 1953, the CIA's assessment changed: the Eisenhower administration and CIA Director [[Allen Dulles]] accepted British arguments that Mosaddegh's coalition could be exploited by the Tudeh (Iranian communist) Party and that Iran could fall into the Soviet sphere. This provided the Cold War justification for intervention.[^1]
+The [[Harry Truman|Truman]] administration initially declined British requests for CIA assistance in removing Mosaddegh, viewing the situation as primarily a colonial dispute. When [[Dwight Eisenhower|Eisenhower]] took office in January 1953, the CIA's assessment changed: the Eisenhower administration and CIA Director [[Allen Dulles]] accepted British arguments that Mosaddegh's coalition could be exploited by the Tudeh (Iranian communist) Party and that Iran could fall into the Soviet sphere. This provided the Cold War justification for intervention.[^1]
 
 ### Operational Planning
 
-The operation was planned primarily by two CIA officers and their British counterparts. [[Kermit Roosevelt Jr.]], grandson of President Theodore Roosevelt and a Middle East specialist at the CIA's clandestine service, was the operational commander on the ground in Tehran. The British side was led initially by Christopher Montague Woodhouse (MI6 Tehran station chief), who had approached the CIA for assistance after British intelligence officers were expelled from Iran in 1952.
+The operation was planned primarily by two CIA officers and their British counterparts. [[Kermit Roosevelt|Kermit Roosevelt Jr.]], grandson of President [[Theodore Roosevelt]] and a Middle East specialist at the CIA's clandestine service, was the operational commander on the ground in Tehran. The British side was led initially by Christopher Montague Woodhouse (MI6 Tehran station chief), who had approached the CIA for assistance after British intelligence officers were expelled from Iran in 1952.
 
 The operational plan involved multiple coordinated elements:
 - A black propaganda campaign using CIA-funded Iranian newspapers to portray Mosaddegh as communist-aligned and anti-Islamic
@@ -56,13 +56,13 @@ The oil consortium outcome was a compromise: Iran retained nominal ownership of 
 
 The long-term consequence was the Islamic Revolution of 1979. [[Ayatollah Ruhollah Khomeini]] and the clerical opposition had opposed the Shah since the early 1960s; the 1953 coup's restoration of foreign-backed autocracy became foundational to the revolutionary narrative. When CIA station files were seized during the November 1979 Embassy takeover in [[Tehran]], they documented the CIA-SAVAK relationship and confirmed for the revolutionary government the extent of American intelligence penetration of Iran under the Shah.[^1]
 
-The 1953 coup established Operation AJAX as the template for CIA-backed regime change operations that followed through the Cold War, including the 1954 overthrow of Jacobo Arbenz in Guatemala (Operation PBSUCCESS), the 1961 Bay of Pigs invasion, and support for coups in Chile, Brazil, Indonesia, and elsewhere.[^1]
+The 1953 coup established Operation AJAX as the template for CIA-backed regime change operations that followed through the Cold War, including the 1954 overthrow of [[Jacobo Arbenz]] in [[Guatemala]] (Operation PBSUCCESS), the 1961 [[Bay of Pigs]] invasion, and support for coups in [[Chile]], [[Brazil]], [[Indonesia]], and elsewhere.[^1]
 
 ### CIA Acknowledgment
 
 The CIA maintained official silence about its role in Operation AJAX for sixty years. In August 2013, responding to Freedom of Information Act requests, the CIA released a partially declassified internal history of the 1953 coup written in 1954 by agency historian Donald Wilber, confirming CIA operational planning and execution. The State Department's official historical record, Foreign Relations of the United States, included Operation AJAX documentation in its 1989 volume on Iran 1951-1954.
 
-Secretary of State Madeleine Albright acknowledged in 2000 that the 1953 coup was a "setback for democratic governance" in Iran without explicitly admitting CIA direction. The 2013 declassification was the first official CIA acknowledgment of operational responsibility.[^1]
+Secretary of State [[Madeleine Albright]] acknowledged in 2000 that the 1953 coup was a "setback for democratic governance" in Iran without explicitly admitting CIA direction. The 2013 declassification was the first official CIA acknowledgment of operational responsibility.[^1]
 
 ### Footnotes
 
