@@ -7,7 +7,7 @@ tags:
   - World_War_II
   - British_Security_Coordination
   - Intelligence
-summary: "General William Joseph 'Wild Bill' Donovan (1883-1959) was the founder and director of the Office of Strategic Services (OSS) from 1942 to 1945. He created the OSS substantially on British Security Coordination templates provided by William Stephenson, and established the organizational culture of deniable covert operations that the CIA subsequently inherited. Roosevelt refused to create a permanent postwar intelligence agency under Donovan; Harry Truman dissolved the OSS in 1945."
+summary: "General William 'Wild Bill' Donovan (1883-1959) was the founder and director of the OSS (1942-1945), building it on British Security Coordination templates and establishing the covert operations culture the CIA inherited after Truman dissolved the OSS."
 born: 1883-01-01
 died: 1959-02-08
 location: "Buffalo, New York"

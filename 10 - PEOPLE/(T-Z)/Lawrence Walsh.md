@@ -9,7 +9,7 @@ tags:
   - Bush
   - 1980s
   - 1990s
-summary: "Lawrence E. Walsh (1912-2014) served as Independent Counsel for the Iran-Contra investigation from December 1986 to August 1993. His investigation produced 14 criminal cases, 11 convictions, and the 1994 Final Report documenting the Reagan administration's secret arms sales to Iran and illegal Contra funding. The investigation was controversial for its duration, cost ($35.7 million), and for Bush's Christmas Eve 1992 pardons of six Iran-Contra defendants three weeks before Walsh released key findings."
+summary: "Lawrence E. Walsh (1912-2014) served as Iran-Contra Independent Counsel from December 1986 to August 1993, producing 14 criminal cases, 11 convictions, and a final report documenting Reagan administration Iran arms sales and Contra funding, before President Bush pardoned six defendants three weeks before Walsh's release of key findings."
 born: 1912-01-08
 died: 2014-03-19
 location: "Fort Sill, Oklahoma"

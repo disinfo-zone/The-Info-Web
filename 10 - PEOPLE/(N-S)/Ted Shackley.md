@@ -13,7 +13,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "Theodore G. ‘Ted’ Shackley (1927-2002) was one of the CIA’s most powerful operations officers, serving as station chief at JMWAVE (Miami anti-Castro operations, 1961-1965), Laos (1966-1968), and Saigon (1968-1972), before rising to Associate Deputy Director for Operations. Known as ‘The Blond Ghost,’ he was forced out in 1979 by DCI Turner and became a central node in the private covert operations network connected to the Safari Club, Iran-Contra, and the Nugan Hand Bank."
+summary: "Ted Shackley (1927-2002), ‘The Blond Ghost,’ was a CIA operations officer who served as station chief at JMWAVE, Laos, and Saigon, rose to Associate Deputy Director for Operations, was forced out by DCI Turner in 1979, and became a central node in the Safari Club and Iran-Contra private network."
 born: 1927-07-16
 died: 2002-12-09
 location: "Springfield, Massachusetts"

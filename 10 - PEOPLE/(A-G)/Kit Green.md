@@ -11,7 +11,7 @@ tags:
   - Esalen
   - AATIP
   - Life_Sciences
-summary: "Christopher 'Kit' Green was a CIA physician and neurophysiologist in the Life Sciences Division who served as the agency's principal overseer and liaison for the SRI remote viewing program from its earliest days (1972) through his tenure at the agency. He served as CIA handler for Uri Geller during the 1972-1973 SRI tests, managed the agency's evaluation of anomalous phenomena research, and later contributed to the AATIP program and published research on injuries reported in UAP encounters."
+summary: "Christopher 'Kit' Green was a CIA physician who served as the agency's principal liaison for the SRI remote viewing program from 1972, including handling Uri Geller during the 1972-1973 tests, and later contributed to the AATIP program and published research on UAP encounter injuries."
 ---
 
 Christopher "Kit" Green was a physician and neurophysiologist who served in the [[Central Intelligence Agency|CIA]]'s Life Sciences Division, where he functioned as the agency's primary scientific reviewer and liaison for the [[Stanford Research Institute|SRI]] remote viewing program from its inception in 1972. He was among the small number of CIA officers who maintained long-term engagement with anomalous phenomena research, and later continued that work in both academic and government consulting contexts after leaving the agency.

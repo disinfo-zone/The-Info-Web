@@ -7,7 +7,7 @@ tags:
   - Author
   - World_War_II
   - Naval_Intelligence
-summary: "Ian Lancaster Fleming (1908-1964) served as assistant to the director of British Naval Intelligence during World War II, organized the 30 Assault Unit commando intelligence unit, and wrote the foreword to H. Montgomery Hyde's 1963 account of British Security Coordination (Room 3603). He is identified as a figure in the BSC network. His James Bond novels are widely understood as drawing on his wartime intelligence experience and on figures like William Stephenson."
+summary: "Ian Fleming (1908-1964) served as assistant to the director of British Naval Intelligence during World War II, organized the 30 Assault Unit commando intelligence unit, and was a figure in the BSC network whose wartime experience provided source material for his James Bond novels."
 born: 1908-05-28
 died: 1964-08-12
 location: "London, England"

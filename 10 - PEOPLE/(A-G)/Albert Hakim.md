@@ -7,7 +7,7 @@ tags:
   - Iran
   - Arms_Dealer
   - 1980s
-summary: "Albert Hakim (1930s-2003) was an Iranian-American businessman and arms dealer who co-directed the Iran-Contra 'Enterprise' with Richard Secord through their companies Stanford Technology Trading Group International and Lake Resources S.A. (Switzerland). Hakim managed the Enterprise's finances and negotiated directly with Iranian officials. He pleaded guilty in 1989 to a misdemeanor count of supplementing Oliver North's government salary and cooperated with Independent Counsel Walsh."
+summary: "Albert Hakim (1930s-2003) was an Iranian-American businessman who co-directed the Iran-Contra Enterprise with Richard Secord, managing its finances and negotiating with Iranian officials before pleading guilty in 1989 to supplementing Oliver North's salary and cooperating with Independent Counsel Walsh."
 born: 1930-01-01
 died: 2003-01-01
 location: "San Jose, California"

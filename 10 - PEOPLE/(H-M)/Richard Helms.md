@@ -9,7 +9,7 @@ tags:
   - Church_Committee
   - Cold_War
   - Stargate
-summary: "Richard Helms (1913-2002) served as Director of Central Intelligence from 1966 to 1973. He initiated Operation CHAOS under LBJ and expanded it under Nixon, ordered the destruction of CHAOS and MKULTRA records in 1973, and was convicted in 1977 of lying to Congress about CIA involvement in destabilizing Allende's Chile."
+summary: "Richard Helms (1913-2002) served as Director of Central Intelligence from 1966 to 1973, initiating Operation CHAOS, ordering destruction of CHAOS and MKULTRA records in 1973, and being convicted in 1977 of lying to Congress about CIA involvement in destabilizing Allende's Chile."
 born: 1913-03-30
 died: 2002-10-22
 location: "St. Davids, Pennsylvania, USA"

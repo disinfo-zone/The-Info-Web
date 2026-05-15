@@ -10,7 +10,7 @@ tags:
   - GCHQ
   - Five_Eyes
   - 2013
-summary: "Edward Snowden (born 1983) was a National Security Agency contractor who in June 2013 disclosed classified NSA surveillance programs to journalists Glenn Greenwald, Laura Poitras, and Barton Gellman. His disclosures revealed the scope of NSA's mass communications surveillance, including the PRISM program (collection from U.S. tech companies), XKeyscore (global internet traffic analysis), and NSA's bulk telephone metadata collection program. He fled to Hong Kong and then to Russia, where he was granted asylum. He was charged under the Espionage Act and has remained in Russia."
+summary: "Edward Snowden (born 1983) was an NSA contractor who disclosed classified mass surveillance programs including PRISM, XKeyscore, and bulk telephone metadata collection to journalists in June 2013, fled to Russia where he received asylum, and was charged under the Espionage Act."
 born: 1983-06-21
 location: "Elizabeth City, North Carolina"
 ---

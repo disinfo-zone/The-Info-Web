@@ -9,7 +9,7 @@ tags:
   - Iran_Contra
   - 1970s
   - 1980s
-summary: "Edwin P. Wilson (1928-2012) was a CIA and Defense Intelligence Agency officer who established a private arms and intelligence consulting enterprise that supplied weapons, explosives, and paramilitary training to Libya's Muammar Qaddafi beginning in the 1970s. Convicted in 1983 of illegal arms transfers, he was sentenced to 52 years and served 22 years before his conviction was overturned in 2003 after it emerged that the government had made false material representations about his CIA status at trial. His network was closely associated with Ted Shackley, Tom Clines, and Frank Terpil."
+summary: "Edwin P. Wilson (1928-2012) was a CIA and DIA officer who supplied weapons, explosives, and training to Libya's Qaddafi; convicted in 1983 and sentenced to 52 years, his conviction was overturned in 2003 after the government acknowledged misrepresenting his CIA status at trial."
 born: 1928-05-03
 died: 2012-09-10
 location: "Rockland, Idaho"

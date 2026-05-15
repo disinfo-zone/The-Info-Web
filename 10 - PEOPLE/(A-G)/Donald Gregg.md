@@ -9,7 +9,7 @@ tags:
   - NSC
   - Korea
   - 1980s
-summary: "Donald Gregg (1927-2021) was a CIA career officer who served as National Security Adviser to Vice President George H.W. Bush (1982-1989) and as U.S. Ambassador to South Korea (1989-1993). He was accused by October Surprise source Richard Brenneke of attending the October 1980 Paris meetings, which he denied. His aide Felix Rodriguez ran Contra resupply operations from Ilopango Air Base in El Salvador, a connection that complicated his Senate confirmation as ambassador."
+summary: "Donald Gregg (1927-2021) was a CIA career officer who served as National Security Adviser to Vice President George H.W. Bush (1982-1989), was accused by Richard Brenneke of attending October Surprise Paris meetings (which he denied), and whose aide Felix Rodriguez ran Contra resupply from El Salvador."
 born: 1927-05-22
 died: 2021-03-15
 location: "New York, New York"

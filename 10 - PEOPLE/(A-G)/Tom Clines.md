@@ -9,7 +9,7 @@ tags:
   - Vietnam
   - 1970s
   - 1980s
-summary: "Thomas G. Clines was a CIA career officer who served under Ted Shackley at JMWAVE (Miami), in Laos, and in the Western Hemisphere Division, and left CIA when Shackley was forced out in 1979. He became part of the private operations network connected to the Safari Club and Iran-Contra, operating through the Enterprise with Richard Secord and Albert Hakim. He was convicted in 1993 of underreporting income from Iran-Contra transactions."
+summary: "Thomas G. Clines was a CIA career officer who served under Ted Shackley at JMWAVE, Laos, and the Western Hemisphere Division, joined the private Safari Club and Iran-Contra Enterprise network after Shackley's 1979 departure, and was convicted in 1993 of underreporting Iran-Contra income."
 location: "United States"
 ---
 

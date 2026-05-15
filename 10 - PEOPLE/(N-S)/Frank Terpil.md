@@ -8,7 +8,7 @@ tags:
   - Edwin_Wilson
   - 1970s
   - 1980s
-summary: "Frank Terpil was a former CIA Technical Operations officer who partnered with Edwin Wilson to supply arms, C-4 explosive, and paramilitary training to Libya's Muammar Qaddafi in the late 1970s. He also provided training services to Uganda under Idi Amin and reportedly worked with PLO officials in Beirut. Indicted in the United States in 1980, he fled before trial and lived in exile - reportedly in Cuba - until his death in 2016, never having been extradited."
+summary: "Frank Terpil was a former CIA Technical Operations officer who partnered with Edwin Wilson to supply arms, explosives, and paramilitary training to Libya's Qaddafi, fled rather than face a 1980 U.S. indictment, and reportedly died in exile in Cuba in 2016."
 location: "Exile (Cuba / Syria / Beirut)"
 died: 2016-01-01
 ---

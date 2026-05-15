@@ -11,7 +11,7 @@ tags:
   - CIA
   - 1970s
   - 1980s
-summary: "Alexandre de Marenches (1921-1995) served as Director of SDECE, France's foreign intelligence service, from November 1970 to June 1981 under Presidents Pompidou and Giscard d'Estaing. He organized the Safari Club, an informal intelligence alliance that ran covert operations during the post-Church Committee period when CIA was constrained. His co-author David Andelman testified to the House October Surprise Task Force that de Marenches had told him, off the record, that he arranged a meeting in Paris between William Casey and Iranian representatives in late October 1980."
+summary: "Alexandre de Marenches (1921-1995) served as SDECE director from 1970 to 1981, organized the Safari Club anti-Soviet intelligence alliance, and whose co-author David Andelman testified that de Marenches had told him off the record of arranging an alleged October Surprise Paris meeting between William Casey and Iranian representatives."
 born: 1921-06-07
 died: 1995-06-02
 location: "Paris, France"

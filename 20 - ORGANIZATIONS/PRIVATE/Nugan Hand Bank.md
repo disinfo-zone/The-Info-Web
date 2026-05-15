@@ -10,7 +10,7 @@ tags:
   - Golden_Triangle
   - 1970s
   - 1980s
-summary: "Nugan Hand Bank was an Australian merchant bank founded in Sydney in 1973 by American Green Beret veteran Michael Hand and Australian lawyer Frank Nugan. It functioned as what Australian investigators described as a CIA financial network, with branches in thirteen countries and a board of senior American military and intelligence veterans. The bank collapsed in January 1980 after Frank Nugan was found shot dead in his car. Michael Hand disappeared and was never found by Australian authorities."
+summary: "Nugan Hand Bank was an Australian merchant bank (1973-1980) that functioned as what investigators described as a CIA financial network, with branches in thirteen countries staffed by American military and intelligence veterans, collapsing after Frank Nugan was found shot dead in January 1980 and Michael Hand disappeared."
 start: 1973-01-01
 end: 1980-06-01
 location: "Sydney, Australia"
