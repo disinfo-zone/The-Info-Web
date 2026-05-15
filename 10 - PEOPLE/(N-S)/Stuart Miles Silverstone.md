@@ -9,7 +9,6 @@ tags:
 summary: "Stuart Miles Silverstone (alias: Steve Learner) was an active member of The Finders found by U.S. Customs investigators inside the group's satellite-equipped computer room at the Glover Park duplex during the February 1987 raids."
 location: "Washington, D.C."
 ---
-
 Stuart Miles Silverstone, who operated under the alias Steve Learner, was an active member of [[The Finders]] and was found by U.S. Customs Special Agent [[Ramon J. Martinez]] inside a satellite-equipped computer room at the group's Glover Park duplex during the February 1987 federal raids on The Finders' properties.[^1]
 
 ### Discovery During the 1987 Raids
