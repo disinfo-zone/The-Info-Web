@@ -1,3 +1,6 @@
+- 2026-05-15T1815 · [[William Harvey]]
+- 2026-05-15T1815 · [[BCCI Kerry-Brown Senate Report]]
+- 2026-05-15T1814 · [[Operation AJAX]]
 - 2026-05-15T1812 · [[Bundesnachrichtendienst]]
 - 2026-05-15T1748 · [[NASA]]
 - 2026-05-15T1748 · [[Peter Fechter]]
@@ -20,6 +23,3 @@
 - 2026-05-15T1737 · [[Animate Physics]]
 - 2026-05-15T1737 · [[Afghanistan]]
 - 2026-05-15T1737 · [[U.S. Navy]]
-- 2026-05-15T1737 · [[Toff's Travel]]
-- 2026-05-15T1736 · [[THE PHENOMENON]]
-- 2026-05-15T1736 · [[Criminal Investigation Division]]
