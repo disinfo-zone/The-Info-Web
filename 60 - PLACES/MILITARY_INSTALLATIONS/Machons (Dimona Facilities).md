@@ -3,7 +3,7 @@ tags:
   - Concept
   - Nuclear Facility
   - Israel
-category: "Nuclear Concept"
+category: "Nuclear Scientists & Programs"
 summary: "Machons are the various buildings and facilities within the Dimona nuclear complex in Israel. As described by Mordecai Vanunu, the complex includes the reactor and at least eight other self-contained buildings, each with a specific function in the..."
 location: Dimona, Negev Desert, Israel
 ---

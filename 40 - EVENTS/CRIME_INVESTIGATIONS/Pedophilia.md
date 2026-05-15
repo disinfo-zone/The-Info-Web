@@ -5,7 +5,7 @@ tags:
   - Criminal_Behavior
   - 1970s
   - 1980s
-category: "Esoteric & Historical Concept"
+category: "Crime Investigation"
 summary: "Pedophilia was often conflated with homosexuality by news and law enforcement agencies during the 1970s and 1980s."
 ---
 

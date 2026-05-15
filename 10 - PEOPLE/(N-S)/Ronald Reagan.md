@@ -1,5 +1,5 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Iran-Contra"
 created: 2024-04-25
 updated: 2026-05-01
 tags:

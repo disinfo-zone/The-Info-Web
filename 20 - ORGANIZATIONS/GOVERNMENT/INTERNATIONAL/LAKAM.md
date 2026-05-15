@@ -9,11 +9,11 @@ start: 1957
 end: 1985
 location: "Tel Aviv, Israel"
 ---
-[[LAKAM]] (Hebrew acronym for Science Liaison Bureau) was an Israeli Ministry of Defense intelligence agency, previously known as the Office of Special Tasks. It was set up to gather and exchange technology and intelligence with foreign military industries.[^1][^2]
+[[LAKAM]] (Hebrew acronym for Science Liaison Bureau) was an Israeli Ministry of Defense intelligence agency, previously known as the Office of Special Tasks. It was set up to gather and exchange technology and intelligence with foreign military industries. Under its founding director [[Binyamin Blumberg]], LAKAM agents operated worldwide, collecting technical information and setting up front companies in [[Europe]] and [[Latin America]] to purchase high-tech equipment from the [[United States]] that U.S. export controls would otherwise deny to [[Israel]].[^1][^2]
 
 ### Leadership and Operations
 
-In the early 1980s, LAKAM was widely known by its Hebrew acronym. [[Rafael Eitan]], a crony of [[Ariel Sharon]], was appointed its new head. LAKAM operations in the [[United States]] produced a steady stream of routinely transferred scientific and technical documents, including [[KH-11]] imagery and reporting and assessments from U.S. embassies and intelligence operatives inside [[Saudi Arabia]], [[Jordan]], and [[Egypt]]. Some of this material was marked JUMBO, indicating it was not to be discussed with American counterparts.[^2]
+In the early 1980s, LAKAM was widely known by its Hebrew acronym. [[Rafael Eitan]], a crony of [[Ariel Sharon]], was appointed its new head, succeeding [[Binyamin Blumberg]]. LAKAM operations in the [[United States]] produced a steady stream of routinely transferred scientific and technical documents, including [[KH-11]] imagery and reporting and assessments from U.S. embassies and intelligence operatives inside [[Saudi Arabia]], [[Jordan]], and [[Egypt]]. Some of this material was marked JUMBO, indicating it was not to be discussed with American counterparts.[^2]
 
 ### U.S. Spy Network Operations
 

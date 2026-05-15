@@ -8,7 +8,7 @@ tags:
   - 1990s
   - Odyssey_Network
   - Amsterdam
-category: "Esoteric & Historical Concept"
+category: "Crime Investigation"
 summary: "Boy prostitution emerged as a systematic commercial enterprise during the 1970s, operating through organized networks that trafficked male children across the United States and Europe."
 ---
 

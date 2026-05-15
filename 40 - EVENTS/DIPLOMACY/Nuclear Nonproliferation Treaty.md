@@ -3,7 +3,7 @@ tags:
   - Concept
   - Treaty
   - Nuclear
-category: "Nuclear Concept"
+category: "Diplomacy"
 summary: "The Nuclear Nonproliferation Treaty (NPT) is an international treaty whose objective is to prevent the spread of nuclear weapons and weapons technology, to promote cooperation in the peaceful uses of nuclear energy, and to further the goal of..."
 date: 1968
 ---

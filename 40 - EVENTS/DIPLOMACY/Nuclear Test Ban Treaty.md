@@ -3,7 +3,7 @@ tags:
   - Concept
   - Treaty
   - Nuclear
-category: "Nuclear Concept"
+category: "Diplomacy"
 summary: "The Nuclear Test Ban Treaty refers to international agreements aimed at prohibiting nuclear weapons tests. By December 1960, Dwight D."
 date: 1963-08-05
 location: Moscow, Soviet Union

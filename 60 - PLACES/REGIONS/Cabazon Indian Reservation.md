@@ -9,7 +9,7 @@ tags:
   - Contra_War
   - PROMIS
   - Dark_Alliance_Investigation
-category: "Private Organization"
+category: "PROMIS Scandal"
 summary: "The Cabazon Indian Reservation is located near Indio, California, and is home to the Cabazon Band of Mission Indians."
 location: "Indio, California"
 ---

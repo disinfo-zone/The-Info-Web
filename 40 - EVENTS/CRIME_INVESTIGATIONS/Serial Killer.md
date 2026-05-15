@@ -8,7 +8,7 @@ tags:
   - John_Wayne_Gacy
   - Marc_Dutroux
   - Oakland_County
-category: "Esoteric & Historical Concept"
+category: "Crime Investigation"
 summary: "The serial killer profile emerged as a dominant framework in criminal investigations and popular media for understanding cases involving multiple murders."
 ---
 

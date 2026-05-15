@@ -3,7 +3,7 @@ tags:
   - Concept
   - Murder
   - Pornography
-category: "Esoteric & Historical Concept"
+category: "Crime Investigation"
 summary: "A snuff film is a film produced for the express purpose of capturing a live murder on camera, made to please an audience."
 start: 1971
 ---

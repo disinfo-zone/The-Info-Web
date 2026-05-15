@@ -1,6 +1,6 @@
 ---
 tags:
-  - Concept
+  - Organization
   - Publication
   - Newsletter
   - Child_Pornography
@@ -9,7 +9,7 @@ tags:
   - 1970s
   - Delta_Project
   - Odyssey_Network
-category: "Esoteric & Historical Concept"
+category: "Crime Investigation"
 summary: "Hermes was an underground boylover newsletter printed in Chicago during the 1970s that served as a communications hub for a nationwide child trafficking and pornography network."
 start: 1970
 location: Chicago, Illinois

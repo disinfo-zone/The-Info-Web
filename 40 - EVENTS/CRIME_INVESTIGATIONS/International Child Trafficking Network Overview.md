@@ -8,7 +8,7 @@ tags:
   - 2000s
   - Europe
   - Government_Corruption
-category: "Esoteric & Historical Concept"
+category: "Crime Investigation"
 summary: "International child trafficking networks operated across Europe during the 1970s through the 1990s, with connections extending to North America and beyond."
 ---
 International child trafficking networks operated across Europe during the 1970s through the 1990s, with connections extending to North America and beyond. These networks combined traditional trafficking methods with emerging technologies, international business structures, and connections to government officials. Multiple investigations revealed systemic corruption and the compromise of institutions responsible for child protection and prosecution of these crimes.[^1]

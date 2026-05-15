@@ -1,5 +1,5 @@
 ---
-category: "Intelligence Concept"
+category: "Intelligence Scandal"
 tags:
   - law
   - u.s.-government

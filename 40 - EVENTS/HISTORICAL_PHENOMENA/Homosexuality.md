@@ -5,7 +5,7 @@ tags:
   - Law_Enforcement
   - 1970s
   - 1980s
-category: "Esoteric & Historical Concept"
+category: "Historical Phenomenon"
 summary: "Homosexuality was frequently conflated with pedophilia by news and law enforcement agencies during the 1970s and 1980s."
 ---
 
