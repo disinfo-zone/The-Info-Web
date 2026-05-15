@@ -23,7 +23,7 @@ Gates revealed details about the [[Moscow Signal]] in his 1997 memoir, *From the
 
 On November 28, 1995, Gates appeared on *Nightline* with [[Ted Koppel]] to discuss the [[STARGATE PROJECT|Stargate program]], where he downplayed the significance of the government's psychic research[^2].
 
-## Publications
+### Publications
 *   *From the Shadows* (1997)
 
 ### Footnotes

@@ -46,7 +46,7 @@ The division of [[Berlin]], located deep within East German territory, created a
 
 Chancellor [[Willy Brandt]] (SPD, 1969-1974) fundamentally altered West German foreign policy through Ostpolitik - a policy of normalization with East Germany and the Eastern bloc. The 1970 Treaty of Moscow and Treaty of Warsaw renounced claims to Germany's lost eastern territories; the 1972 Basic Treaty between the two German states established the principle of mutual recognition. Ostpolitik represented a departure from Adenauer's position that reunification must precede normalization, accepting instead the reality of division as the starting point for improving relations.[^2]
 
-Brandt resigned in May 1974 after his personal aide Günter Guillaume was revealed to be an East German intelligence operative, one of the most damaging espionage successes of the Cold War's later phase. The Guillaume affair exposed the depth to which East German intelligence (Stasi) had penetrated West German political and government circles.
+Brandt resigned in May 1974 after his personal aide [[Günter Guillaume]] was revealed to be an East German intelligence operative, one of the most damaging espionage successes of the Cold War's later phase. The Guillaume affair exposed the depth to which East German intelligence ([[Stasi]]) had penetrated West German political and government circles.
 
 ### Terrorism: Red Army Faction
 

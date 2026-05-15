@@ -25,7 +25,7 @@ Randi's actions, while aimed at exposing fraud, sometimes led to controversy. He
 
 In 2011, Randi was involved in a scandal when it was revealed that his Carlos-the-channeler hoax, which involved a young man named Jose Alvarez (Deyvi Orangel Peña Arteaga) pretending to be a channeler, constituted a federal crime due to identity theft and false statements on a passport application. Despite this, Randi continued to maintain his stance against the paranormal[^1].
 
-## Publications
+### Publications
 *   *The Magic of Uri Geller* (1975)
 
 ### Footnotes

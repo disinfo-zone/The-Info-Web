@@ -19,16 +19,15 @@ born: 1918-03-18
 died: 2008-05-08
 location: "East Germany"
 ---
-
-Heinz Felfe was born March 18, 1918, in Dresden, Germany. He joined the SS and served as an officer in the Sicherheitsdienst (SD), the SS intelligence service, during World War II. After the war he was captured by British forces, held briefly, and released. He died May 8, 2008, in Germany.[^1]
+Heinz Felfe was born March 18, 1918, in Dresden, Germany. He joined the [[SS]] and served as an officer in the Sicherheitsdienst (SD), the SS intelligence service, during World War II. After the war he was captured by British forces, held briefly, and released. He died May 8, 2008, in Germany.[^1]
 
 ### Soviet Recruitment
 
-Following his release from British custody, Felfe was recruited by Soviet intelligence - the MGB, predecessor to the [[KGB]] - during the postwar occupation period. The precise circumstances and date of his recruitment were never publicly established in full detail. Soviet intelligence had specific interest in recruiting former SD personnel who possessed intelligence tradecraft and might be positioned to penetrate Western intelligence structures, and Felfe's SS background, rather than disqualifying him, made him an attractive candidate for exactly this purpose.[^1]
+Following his release from British custody, Felfe was recruited by [[Soviet Union|Soviet]] intelligence (the [[MGB]], predecessor to the [[KGB]]) during the postwar occupation period. The precise circumstances and date of his recruitment were never publicly established in full detail. Soviet intelligence had specific interest in recruiting former SD personnel who possessed intelligence tradecraft and might be positioned to penetrate Western intelligence structures, and Felfe's SS background, rather than disqualifying him, made him an attractive candidate for exactly this purpose.[^1]
 
 ### Entry into the Gehlen Organization
 
-In 1951, Felfe was recruited into the [[Gehlen Organization]], the CIA-funded intelligence network that [[Reinhard Gehlen]] had built at Pullach, Bavaria, from the remnants of his wartime intelligence apparatus. Felfe's SS and SD background was not disqualifying within the Gehlen Organization, which recruited extensively from former Wehrmacht and Nazi intelligence veterans. He entered the counterintelligence section and rose progressively through its ranks.[^1]
+In 1951, Felfe was recruited into the [[Gehlen Organization]], the [[Central Intelligence Agency|CIA]]-funded intelligence network that [[Reinhard Gehlen]] had built at Pullach, Bavaria, from the remnants of his wartime intelligence apparatus. Felfe's SS and SD background was not disqualifying within the Gehlen Organization, which recruited extensively from former Wehrmacht and Nazi intelligence veterans. He entered the counterintelligence section and rose progressively through its ranks.[^1]
 
 When the [[Bundesnachrichtendienst]] (BND) formally succeeded the Gehlen Organization in April 1956, Felfe transitioned into the new service's structure and continued his rise within the counterintelligence apparatus. He eventually became chief of Soviet counterintelligence within the BND - the section responsible for identifying and neutralizing Soviet penetration agents within West German intelligence.[^1]
 

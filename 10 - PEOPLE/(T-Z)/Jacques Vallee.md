@@ -28,7 +28,7 @@ Dr. Vallée has continued his scientific investigation of [[Unidentified Anomalo
 
 His scientific background has informed his approach to UAP research, which has focused on data analysis and the development of a classification system for UAP sightings. He is the author of numerous books on the UAP topic, including "Anatomy of a Phenomenon" and "Passport to Magonia," in which he has explored the parallels between modern UAP encounters and historical folklore and mythology. He worked closely with Dr. J. Allen Hynek, the scientific consultant for the U.S. Air Force's [[Project Blue Book]], and was the inspiration for the character of the French scientist, Claude Lacombe, in the movie "Close Encounters of the Third Kind."[^2]
 
-## Publications
+### Publications
 *   *Forbidden Science 2*
 
 ### Footnotes

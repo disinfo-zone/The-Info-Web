@@ -14,7 +14,7 @@ updated: 2026-05-14
 location: "Berlin, Germany"
 ---
 
-Germany, formally the Federal Republic of Germany (West Germany from 1949 to 1990, unified Germany since), occupies central [[Europe]] and was the central front of the [[Cold War]] following [[World War II]]. Divided after the war into American, British, French, and Soviet occupation zones, the country was split into the Federal Republic (West) and the German Democratic Republic (East) in 1949. The Berlin Wall, built on August 13, 1961, physically divided [[Berlin]] until November 9, 1989. Germany reunified on October 3, 1990.[^1]
+Germany, formally the Federal Republic of Germany (West Germany from 1949 to 1990, unified Germany since), occupies central [[Europe]] and was the central front of the [[Cold War]] following [[World War II]]. Divided after the war into American, British, French, and Soviet occupation zones, the country was split into the [[West Germany|Federal Republic (West Germany)]] and the [[East Germany|German Democratic Republic (East Germany)]] in 1949. The [[Berlin Wall]], built on August 13, 1961, physically divided [[Berlin]] until November 9, 1989. Germany reunified on October 3, 1990.[^1]
 
 ### Gehlen Organization and the BND
 
@@ -42,5 +42,5 @@ West Germany's industrial capacity and export policies made German manufacturers
 
 ### Footnotes
 
-[^1]: "Germany," *Encyclopaedia Britannica.* https://www.britannica.com/place/Germany
+[^1]: Weiner, Tim. *Legacy of Ashes: The History of the CIA.* Doubleday, 2007. Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq.* Bantam, 1993 (on German arms exports to Iraq).
 [^2]: Jacobsen, Annie. *Operation Paperclip: The Secret Intelligence Program That Brought Nazi Scientists to America.* Little, Brown and Company, 2014.
