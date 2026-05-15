@@ -14,7 +14,7 @@ tags:
   - Church_Committee
 start: 1975-01-27
 end: 1976-04-26
-summary: "The Church Committee (Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, 1975-1976) was a Senate investigation that documented systematic abuses by the CIA, FBI, NSA, and IRS, including Operation CHAOS, COINTELPRO, assassination plots against foreign leaders, and illegal mail opening programs. Its final report (S. Rept. 94-755, April 26, 1976) remains the foundational primary source for post-WWII U.S. intelligence abuses."
+summary: "The Church Committee (1975-1976) was a Senate investigation that documented systematic CIA, FBI, NSA, and IRS abuses including Operation CHAOS, COINTELPRO, assassination plots, and illegal mail opening, producing the foundational primary source (S. Rept. 94-755) for post-WWII U.S. intelligence oversight."
 location: "Washington, D.C."
 ---
 

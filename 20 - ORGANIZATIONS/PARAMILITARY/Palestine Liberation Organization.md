@@ -12,7 +12,7 @@ tags:
   - 1970s
   - 1980s
   - 1990s
-summary: "The Palestine Liberation Organization (PLO) was founded in 1964 under Arab League sponsorship as the representative body of the Palestinian people. Yasser Arafat and his Fatah movement took control in 1969 and led it through guerrilla campaigns from bases in Jordan (to 1970), Lebanon (to 1982), and Tunisia (to 1994), before the Oslo Accords recognized the PLO as the legitimate Palestinian representative body and established the Palestinian Authority."
+summary: "The Palestine Liberation Organization (PLO), founded 1964 and led by Yasser Arafat's Fatah from 1969, conducted guerrilla campaigns from Jordan, Lebanon, and Tunisia before the 1994 Oslo Accords established it as the recognized Palestinian representative body and created the Palestinian Authority."
 start: 1964-05-28
 location: "Tunis, Tunisia (1982-1994); Ramallah, Palestinian Authority (1994-)"
 ---

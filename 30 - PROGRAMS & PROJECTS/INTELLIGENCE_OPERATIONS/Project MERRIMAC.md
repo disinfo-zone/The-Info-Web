@@ -10,7 +10,7 @@ tags:
   - Antiwar
   - 1967
   - 1968
-summary: "Project MERRIMAC was a CIA Office of Security domestic infiltration program operating from approximately February 1967, placing undercover assets inside antiwar and civil rights organizations in the Washington D.C. area. It fed intelligence to Operation CHAOS (MHCHAOS) through the interagency CACTUS pipeline. It was exposed in Seymour Hersh's December 1974 New York Times reporting and documented by the Church Committee."
+summary: "Project MERRIMAC was a CIA Office of Security program (approximately 1967-1974) that infiltrated antiwar and civil rights organizations in Washington D.C., feeding intelligence to Operation CHAOS through the CACTUS pipeline before exposure by Seymour Hersh and the Church Committee."
 start: 1967-02-01
 end: 1974-03-01
 location: "Washington, D.C."

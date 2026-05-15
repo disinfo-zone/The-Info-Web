@@ -8,7 +8,7 @@ tags:
   - Washington_DC
   - 1980s
 category: "Private Organization"
-summary: "Future Enterprises was a Washington D.C.-area computer training company associated with The Finders that provided software training to CIA employees during the 1980s. The CIA confirmed this relationship in 1993, characterizing it as an incidental procurement arrangement; investigators described it as evidence of a direct organizational link between the CIA and The Finders."
+summary: "Future Enterprises was a Washington D.C.-area computer training company associated with The Finders that provided CIA employee software training in the 1980s, cited by investigators as evidence of a direct CIA-Finders organizational link despite the CIA's characterization as incidental procurement."
 location: "Washington, D.C."
 ---
 

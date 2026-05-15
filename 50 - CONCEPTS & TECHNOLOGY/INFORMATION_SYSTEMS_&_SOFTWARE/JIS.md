@@ -1,6 +1,6 @@
 ---
 category: "Information System"
-summary: "The Jail Information System (JIS) was developed through a grant to the AJI (AJI) from the U.S. Department of Justice, LEAA (LEAA), Office of Criminal Justice Programs' The development of JIS was an outgrowth of the need perceived during AJI's..."
+summary: "The Jail Information System (JIS) was a computer-based inmate management system developed by INSLAW under contract as an expansion of the PROMIS software, deployed across multiple pilot jurisdictions for the American Justice Institute."
 ---
 The Jail Information System (JIS) was developed through a grant to the [[AJI|American Justice Institute]] (AJI) from the [[Department of Justice]], [[LEAA|Law Enforcement Assistance Administration]] (LEAA), Office of Criminal Justice Programs" The development of JIS was an outgrowth of the need perceived during AJI's LEAA-funded Jail Overcrowding/Pretrial Detainee Program for an
 automated booking, inmate accounting, and jail population management information system that would store in a single data base all offender transactions from booking through inmate custody and pretrial release management. 

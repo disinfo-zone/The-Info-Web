@@ -9,7 +9,7 @@ tags:
   - China
   - Cold_War
   - Military
-summary: "Psychoenergetics was the term used by Soviet researchers and adopted by the U.S. Defense Intelligence Agency for government-sponsored parapsychology research, covering clairvoyance, telepathy, psychokinesis, and related phenomena considered as potential intelligence collection tools or military capabilities. The DIA's Psychoenergetics program, initiated in 1981 by Jack Vorona, was the organizational predecessor of the Sun Streak and STAR GATE remote viewing programs."
+summary: "Psychoenergetics was the Soviet-coined and DIA-adopted term for government parapsychology research covering clairvoyance, telepathy, and psychokinesis as potential intelligence tools, with the DIA's 1981 Psychoenergetics program serving as organizational predecessor to STAR GATE."
 ---
 Psychoenergetics was the scientific nomenclature adopted by Soviet researchers to describe their government-sponsored research into paranormal human abilities, including [[Clairvoyance|clairvoyance]], [[Telepathy|telepathy]], and [[Psychokinesis|psychokinesis]], framed as the study of "energy" phenomena related to consciousness and biological systems. The term was adopted by U.S. Defense Intelligence Agency officials in the early 1980s as the program designation for a classified DIA initiative to assess the Soviet and Chinese research programs in this field and to develop comparable U.S. capabilities.[^1]
 

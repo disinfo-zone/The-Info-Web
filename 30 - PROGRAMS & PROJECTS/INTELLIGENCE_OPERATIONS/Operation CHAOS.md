@@ -10,7 +10,7 @@ tags:
   - 1970s
   - Church_Committee
 category: "Intelligence Operation"
-summary: "Operation CHAOS (codename MHCHAOS) was a CIA domestic counterintelligence program that ran from August 1967 to March 1974, using civilian infiltrators and informants to surveil antiwar activists and counterculture organizations inside the United States. Documented by the Church Committee in 1976, it maintained files on approximately 7,200 Americans and a name index of 300,000 individuals."
+summary: "Operation CHAOS (MHCHAOS) was a CIA domestic counterintelligence program (August 1967-March 1974) that infiltrated antiwar and counterculture organizations, maintaining files on approximately 7,200 Americans and a 300,000-name index before exposure by the Church Committee."
 start: 1967
 end: 1974
 location: "Washington, D.C."

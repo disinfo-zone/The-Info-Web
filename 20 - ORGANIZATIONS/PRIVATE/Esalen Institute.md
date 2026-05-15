@@ -10,7 +10,7 @@ tags:
   - Cold_War
   - Counterculture
   - Remote_Viewing
-summary: "The Esalen Institute is a California retreat and educational center founded in 1962 by Michael Murphy and Richard Price at Big Sur. Its Soviet-American Exchange Program (1979-) brought American and Soviet officials together in informal settings and is documented in CIA monitoring records. The FBI maintained Esalen surveillance files from at least 1978. Both CIA and FBI offered Murphy recruitment, which he declined."
+summary: "The Esalen Institute is a California retreat center founded in 1962 at Big Sur whose Soviet-American Exchange Program attracted CIA and FBI monitoring, with both agencies offering founder Michael Murphy recruitment, which he declined."
 start: 1962-01-01
 location: "Big Sur, California"
 ---

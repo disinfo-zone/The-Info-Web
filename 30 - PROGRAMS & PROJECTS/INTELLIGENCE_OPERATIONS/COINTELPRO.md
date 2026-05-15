@@ -11,7 +11,7 @@ tags:
   - CHAOS
   - 1956
   - 1971
-summary: "COINTELPRO (Counter Intelligence Program) was a covert FBI domestic operations program running from 1956 to 1971, targeting political organizations the Bureau considered subversive. It employed infiltration, psychological warfare, fabricated mail, wrongful prosecution, and coordination with local law enforcement including sanctioning violence against targeted groups. Exposed in 1971 by a break-in at an FBI field office, it was documented by the Church Committee and the Senate Intelligence Committee."
+summary: "COINTELPRO (Counter Intelligence Program) was a covert FBI domestic operations program (1956-1971) targeting political organizations through infiltration, psychological warfare, fabricated mail, wrongful prosecution, and coordination with local law enforcement, exposed by the 1971 Media FBI office break-in."
 start: 1956-01-01
 end: 1971-04-27
 location: "Washington, D.C."

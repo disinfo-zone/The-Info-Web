@@ -8,7 +8,7 @@ tags:
   - remoteviewing
 description: SCANATE was an early CIA program that explored psychic phenomena, particularly remote viewing, in response to Soviet research.
 category: "Psi Research Program"
-summary: "SCANATE was an early Central Intelligence Agency program that explored Psi phenomena, particularly Remote Viewing. It was initiated in 1970 in response to growing concerns about Soviet Parapsychology research."
+summary: "SCANATE was a 1970 CIA program exploring remote viewing at Stanford Research Institute, initiated in response to Soviet parapsychology research and serving as the precursor to the STARGATE program."
 start: 1970
 location: "Central Intelligence Agency"
 ---

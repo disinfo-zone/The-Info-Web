@@ -7,7 +7,7 @@ tags:
   - Reagan
   - Navy
   - 1980s
-summary: "Vice Admiral John M. Poindexter served as National Security Adviser to President Reagan from December 1985 to November 1986, when he resigned over the Iran-Contra affair. He was convicted on five counts of conspiracy and obstruction in April 1990, but his conviction was reversed by the D.C. Circuit in 1991 because witnesses had been tainted by his immunized congressional testimony. He later directed DARPA's Total Information Awareness program (2002-2003) before resigning over controversy."
+summary: "Vice Admiral John Poindexter served as Reagan's National Security Adviser (December 1985-November 1986), resigned over Iran-Contra, was convicted on five counts before reversal, and later directed DARPA's Total Information Awareness program (2002-2003) before that too collapsed in controversy."
 born: 1936-08-12
 location: "Washington, D.C."
 ---

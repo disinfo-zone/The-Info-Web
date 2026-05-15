@@ -11,7 +11,7 @@ tags:
   - DIA
 description: The Extraordinary Powers Craze was a period of intense state-sponsored and popular interest in paranormal phenomena in China during the late 1970s and early 1980s.
 category: "Historical Phenomenon"
-summary: "The Extraordinary Powers Craze (1979-approximately 1989) was a period of officially sanctioned research into claimed paranormal abilities in China, sparked by the 1979 Tang Yu newspaper case and sustained by physicist Qian Xuesen's public endorsement. At its peak the craze involved military research programs, academic institutions, and public demonstrations; it collapsed when fraud among prominent practitioners became undeniable and government support was withdrawn."
+summary: "The Extraordinary Powers Craze (1979-1989) was a period of officially sanctioned Chinese research into paranormal abilities sparked by the 1979 Tang Yu case and physicist Qian Xuesen's endorsement, involving military and academic programs before collapsing when fraud became undeniable."
 start: 1979
 end: 1989
 location: "China"

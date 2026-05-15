@@ -9,7 +9,7 @@ tags:
   - CIA
   - ColdWar
   - MiddleEast
-summary: "Mukhabarat (Arabic: intelligence) is used as the informal name for intelligence and security services across multiple Arab states, most prominently Egypt's General Intelligence Directorate and Iraq's General Intelligence Service under Saddam Hussein. Both agencies appear extensively in the vault's coverage of CIA liaison relationships, Safari Club operations, extraordinary rendition, and the BNL/arms-to-Iraq affair."
+summary: "Mukhabarat (Arabic: intelligence) is the informal name for Arab state intelligence services, most prominently Egypt's General Intelligence Directorate and Iraq's General Intelligence Service under Saddam Hussein, central to CIA liaison relationships, Safari Club operations, and the BNL/arms-to-Iraq affair."
 ---
 
 Mukhabarat (Arabic: مخابرات, from the root khabara, "to know" or "to be informed") is the common informal designation for intelligence and security services in multiple Arab states, literally meaning "intelligence" or "information." The term is used most frequently in English-language sources to refer to Egypt's General Intelligence Directorate and Iraq's General Intelligence Service, though equivalent security agencies in Syria, Jordan, Libya, Sudan, and other Arab states are also commonly called mukhabarat in both Arabic usage and foreign analysis. Because the term refers to different organizations in different national contexts, the following entries address the two agencies most significant to this vault's subjects.

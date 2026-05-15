@@ -13,7 +13,7 @@ tags:
   - Franklin_Scandal
 start: 1988-11-04
 end: 1994-12-01
-summary: "The Franklin Credit Union Scandal refers to the November 1988 collapse of the Franklin Community Federal Credit Union in Omaha, Nebraska, with $39.4 million missing, and the subsequent allegations that operator Lawrence King Jr. ran a child prostitution network with connections to Washington D.C. The financial fraud charges were prosecuted to conviction; the abuse allegations were found to be unsubstantiated by two separate grand juries in 1990."
+summary: "The Franklin Credit Union Scandal began with the November 1988 collapse of Lawrence King Jr.'s Omaha credit union with $39.4 million missing, accompanied by allegations of a child prostitution network with Washington D.C. connections; fraud charges resulted in conviction while abuse allegations were found unsubstantiated by two 1990 grand juries."
 location: "Omaha, Nebraska / Washington, D.C."
 ---
 

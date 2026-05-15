@@ -5,7 +5,7 @@ tags:
   - South Africa
   - Revolutionary
 category: "Paramilitary"
-summary: "The African National Congress (ANC) was a black revolutionary group in South Africa. It was targeted by the PROMIS software, which was implemented in Transkei by Degem (controlled by Israel military intelligence) with the assistance of Robert..."
+summary: "The African National Congress (ANC) is South Africa's dominant liberation movement and governing party since 1994, relevant to this vault through PROMIS software targeting and Israeli military intelligence connections during the apartheid era."
 start: 1912
 location: "Johannesburg, South Africa"
 ---

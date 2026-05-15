@@ -5,7 +5,7 @@ tags:
   - Palestine
   - Terrorism
 category: "Paramilitary"
-summary: "Black September was a Palestinian militant organization. They were involved in a battle with Mossad agents in Europe in the aftermath of the 1972 Munich Olympic Massacre of Israel athletes. They were known for killing each other at every opportunity."
+summary: "Black September was a Palestinian militant organization responsible for the 1972 Munich Olympic Massacre and subsequent operations against Israeli targets in Europe, triggering the Israeli Operation Wrath of God campaign."
 start: 1971
 ---
 [[Black September]] was a Palestinian militant organization. They were involved in a battle with [[Mossad]] agents in [[Europe]] in the aftermath of the 1972 [[Munich Olympic Massacre|Olympic Games massacre]] of [[Israel|Israeli]] athletes. They were known for killing each other at every opportunity.[^1]

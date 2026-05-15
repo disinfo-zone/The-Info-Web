@@ -11,7 +11,7 @@ tags:
   - 1970s
   - Church_Committee
   - Alexandre_de_Marenches
-summary: "The Safari Club was an informal covert intelligence alliance organized in 1976 by Alexandre de Marenches of France's SDECE to conduct anti-Soviet operations in Africa and the Middle East during the period when the CIA was operationally constrained following the Church Committee hearings. Its core members were France (SDECE), Saudi Arabia, Egypt, Morocco, and Iran under the Shah, with CIA providing intelligence and coordination through Director George H.W. Bush."
+summary: "The Safari Club was a 1976 informal intelligence alliance organized by SDECE director Alexandre de Marenches to conduct anti-Soviet operations in Africa and the Middle East when the CIA was constrained by Church Committee oversight, with France, Saudi Arabia, Egypt, Morocco, and Iran as core members."
 start: 1976-01-01
 end: 1981-01-01
 location: "Paris, France / Riyadh, Saudi Arabia"

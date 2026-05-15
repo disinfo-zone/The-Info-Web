@@ -10,7 +10,7 @@ tags:
   - Watergate
   - 1973
   - 1975
-summary: "The 'Family Jewels' was a CIA internal compilation of potentially illegal or sensitive activities assembled in May 1973 at the direction of DCI James Schlesinger. The document was classified until partially declassified in 2007. It listed 693 pages of CIA activities that might be 'out of bounds,' including assassination plots, domestic surveillance, illegal mail interception, and drug testing programs."
+summary: "The CIA 'Family Jewels' was a 693-page internal compilation of potentially illegal activities assembled in May 1973 at Director James Schlesinger's direction, partly declassified in 2007, documenting assassination plots, domestic surveillance, illegal mail interception, and drug testing programs."
 start: 1973-05-09
 location: "Washington, D.C."
 ---

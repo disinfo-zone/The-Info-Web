@@ -8,7 +8,7 @@ tags:
   - Cold_War
   - Safari_Club
   - Alexandre_de_Marenches
-summary: "The Service de Documentation Extérieure et de Contre-Espionnage (SDECE) was France's foreign intelligence and counterintelligence service from 1946 to 1982. It was reconstituted as the Direction Générale de la Sécurité Extérieure (DGSE) on April 2, 1982, under the Mitterrand government. Alexandre de Marenches served as SDECE director from November 1970 to June 1981."
+summary: "The SDECE was France's foreign intelligence service from 1946 to 1982, reconstituted as the DGSE under Mitterrand, whose director Alexandre de Marenches (1970-1981) organized the Safari Club anti-Soviet intelligence alliance."
 start: 1946-01-01
 end: 1982-04-02
 location: "Paris, France"

@@ -10,7 +10,7 @@ tags:
   - Training
   - Canada
   - 1941
-summary: "Camp X (officially Special Training School 103, or STS 103) was a clandestine paramilitary training facility established by British Security Coordination on the north shore of Lake Ontario in Ontario, Canada. Opened December 6, 1941, it trained OSS, SOE, and other Allied agents in espionage, sabotage, and clandestine communication techniques. The facility also housed Hydra, a critical wartime signals communications relay linking North America to London."
+summary: "Camp X (officially Special Training School 103) was a clandestine British Security Coordination training facility opened December 6, 1941, in Ontario that trained OSS, SOE, and Allied agents in espionage and sabotage while housing the Hydra signals relay linking North America to London."
 location: "Whitby-Oshawa, Ontario, Canada"
 start: 1941-12-06
 end: 1945-12-31

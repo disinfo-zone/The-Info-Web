@@ -16,7 +16,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "The Federal Republic of Germany (West Germany) existed from 1949 to 1990 as the Western-aligned German state formed from the American, British, and French occupation zones after World War II. It was NATO's most consequential frontline state in the Cold War, the base of the Gehlen Organization and its successor the BND (West German foreign intelligence), and the site of major Cold War intelligence operations, terrorism (Red Army Faction), and the 1972 Munich Olympic massacre. West Germany reunified with East Germany on October 3, 1990."
+summary: "The Federal Republic of Germany (West Germany, 1949-1990) was NATO's frontline Cold War state, base of the BND and Gehlen Organization, site of major CIA and Soviet intelligence operations and Red Army Faction terrorism, before reunification with East Germany on October 3, 1990."
 start: 1949-05-23
 end: 1990-10-03
 location: "Bonn, Germany"

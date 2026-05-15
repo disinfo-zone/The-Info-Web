@@ -10,7 +10,7 @@ tags:
   - Texas
   - Corll
   - 1970s
-summary: "The Pasadena Police Department is the municipal law enforcement agency for Pasadena, Texas, a city in the Houston metropolitan area. It is relevant to this vault as the agency that initially responded to the scene on August 8, 1973, when Elmer Wayne Henley shot and killed serial killer Dean Corll at 2020 Lamar Drive in Pasadena, initiating the investigation that revealed Corll's murder of at least 28 young males in the Houston area between 1970 and 1973."
+summary: "The Pasadena Police Department (Pasadena, Texas) is relevant to this vault as the agency that responded when Elmer Wayne Henley shot Dean Corll on August 8, 1973, initiating the investigation that revealed Corll's murder of at least 28 young males from 1970 to 1973."
 location: "Pasadena, Texas"
 ---
 

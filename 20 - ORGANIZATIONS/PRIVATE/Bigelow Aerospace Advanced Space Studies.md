@@ -11,7 +11,7 @@ tags:
   - Skinwalker_Ranch
   - 2000s
   - 2010s
-summary: "Bigelow Aerospace Advanced Space Studies (BAASS) was a Las Vegas-based research organization founded by real estate billionaire Robert Bigelow that served as the primary contractor for the Defense Intelligence Agency's Advanced Aerospace Weapon System Applications Program (AAWSAP) / AATIP program from 2008 to 2010. It employed hundreds of scientific investigators to study UAP and anomalous phenomena including at Skinwalker Ranch, which Bigelow purchased in 1996."
+summary: "Bigelow Aerospace Advanced Space Studies (BAASS) was the primary DIA contractor for the AAWSAP/AATIP program (2008-2010), employing hundreds of investigators to study UAP and anomalous phenomena including at Skinwalker Ranch."
 start: 2008-01-01
 end: 2012-01-01
 location: "Las Vegas, Nevada"

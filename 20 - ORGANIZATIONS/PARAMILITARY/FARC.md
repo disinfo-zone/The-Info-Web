@@ -17,7 +17,7 @@ tags:
   - 1980s
   - 1990s
   - 2000s
-summary: "The Revolutionary Armed Forces of Colombia (FARC, Fuerzas Armadas Revolucionarias de Colombia) was a Marxist-Leninist guerrilla organization founded in 1964 from Colombian Communist Party self-defense groups. At its peak in the early 2000s the FARC fielded approximately 20,000 fighters and operated as the world's largest insurgency, financing operations through cocaine taxation and direct drug trafficking. It was designated a Foreign Terrorist Organization by the United States. A 2016 peace agreement produced a formal dissolution, though dissident factions continued armed operations."
+summary: "The Revolutionary Armed Forces of Colombia (FARC) was a Marxist-Leninist guerrilla organization founded in 1964 that financed operations through cocaine taxation and drug trafficking, fielding approximately 20,000 fighters at its peak before a 2016 peace agreement produced a formal dissolution."
 start: 1964-05-27
 location: "Colombia"
 ---
