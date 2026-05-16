@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 title: Bay of Pigs Invasion
 aliases:
   - Bay of Pigs
@@ -15,7 +15,7 @@ tags:
   - 1960s
   - AntiCastro
 category: "Intelligence Operation"
-summary: "The Bay of Pigs invasion was the CIA's April 17-19, 1961 covert operation deploying approximately 1,400 Cuban exiles of Brigade 2506 against Fidel Castro, which failed when Kennedy cancelled the follow-up D-Day air strikes, Castro's forces captured 1,179 survivors, and CIA Inspector General Lyman Kirkpatrick's suppressed postmortem concluded that 'plausible denial was a pathetic illusion.'"
+summary: "The Bay of Pigs invasion was the CIA's failed April 17-19, 1961 covert operation deploying approximately 1,400 Cuban exiles of Brigade 2506 against Fidel Castro, collapsing after Kennedy cancelled the follow-up air strikes and Castro's forces captured 1,179 survivors - prompting CIA Inspector General Lyman Kirkpatrick's suppressed postmortem conclusion that 'plausible denial was a pathetic illusion.'"
 date: 1961-04-17
 location: "Bay of Pigs (Bahia de Cochinos), Cuba"
 ---

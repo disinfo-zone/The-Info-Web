@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 title: Jim Garrison
 aliases:
   - James Garrison

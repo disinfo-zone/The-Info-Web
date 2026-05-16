@@ -1,10 +1,9 @@
 ﻿---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 title: Janos Kadar
 aliases:
-  - Janos Kadar
-  - Janos Kadar
+  - János Kádár
 tags:
   - Person
   - Hungary

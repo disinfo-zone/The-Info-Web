@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 title: Hungarian Revolution
 aliases:
   - Hungarian Revolution of 1956

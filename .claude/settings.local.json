@@ -160,7 +160,15 @@
       "WebFetch(domain:inteltoday.org)",
       "WebFetch(domain:www.usni.org)",
       "WebFetch(domain:prologue.blogs.archives.gov)",
-      "WebFetch(domain:www.sog.unc.edu)"
+      "WebFetch(domain:www.sog.unc.edu)",
+      "WebFetch(domain:www.lrb.co.uk)",
+      "WebFetch(domain:theintercept.com)",
+      "WebFetch(domain:www.globalsecurity.org)",
+      "WebFetch(domain:oversight.house.gov)",
+      "WebFetch(domain:www.nsarchive.gwu.edu)",
+      "WebFetch(domain:history-matters.com)",
+      "WebFetch(domain:muse.jhu.edu)",
+      "WebFetch(domain:jfkfacts.org)"
     ]
   }
 }
