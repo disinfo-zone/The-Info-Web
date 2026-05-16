@@ -15,7 +15,7 @@ died: 1962-08-17
 location: "Berlin, East Germany"
 ---
 
-Peter Fechter (January 14, 1944 - August 17, 1962) was an eighteen-year-old bricklayer from [[German Democratic Republic|East Germany]] whose death at the [[Berlin|Berlin]] Wall became one of the most widely documented and symbolically powerful events of the Cold War's divided Germany. He was shot by GDR border guards at [[Checkpoint Charlie]] on August 17, 1962, and died in the Todesstreifen (death strip) after lying wounded and calling for help for approximately fifty minutes while international observers, Western journalists, and American soldiers at the checkpoint remained unable or unwilling to intervene.
+Peter Fechter (January 14, 1944 - August 17, 1962) was an eighteen-year-old bricklayer from [[German Democratic Republic|East Germany]] whose death at the [[Berlin Wall]] became one of the most widely documented and symbolically powerful events of the Cold War's divided Germany. He was shot by GDR border guards at [[Checkpoint Charlie]] on August 17, 1962, and died in the Todesstreifen (death strip) after lying wounded and calling for help for approximately fifty minutes while international observers, Western journalists, and American soldiers at the checkpoint remained unable or unwilling to intervene.
 
 ### The Attempt
 
@@ -27,7 +27,7 @@ He was not immediately retrieved by East German guards. Later reporting suggeste
 
 The scene was captured by multiple journalists and cameramen and broadcast worldwide within hours. American, British, French, and West German observers watched from the Western side. No one came to Fechter's aid during the approximately fifty minutes he lay wounded. East German guards eventually crossed to retrieve him; he was pronounced dead on arrival at the hospital. He was eighteen years old.
 
-The photographs and footage of Fechter's death were published on front pages internationally and became among the most recognized images of the Berlin Wall's human cost. President John F. Kennedy's administration was criticized in West German media for the failure to intervene; American officials responded that crossing into East Berlin would have violated Allied agreements and risked a wider confrontation. The British and French military posts at the checkpoint were similarly constrained.[^1]
+The photographs and footage of Fechter's death were published on front pages internationally and became among the most recognized images of the Berlin Wall's human cost. President [[John F. Kennedy]]'s administration was criticized in [[West Germany|West German]] media for the failure to intervene; American officials responded that crossing into East Berlin would have violated Allied agreements and risked a wider confrontation. The British and French military posts at the checkpoint were similarly constrained.[^1]
 
 ### Legal Aftermath
 

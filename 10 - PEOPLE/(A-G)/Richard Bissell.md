@@ -31,11 +31,11 @@ The combination of his economic and administrative skills, his connections to th
 
 Bissell's most technically significant achievement was managing the development of the Lockheed U-2 high-altitude reconnaissance aircraft from 1954 onward. Working with Lockheed's Kelly Johnson and the Skunk Works division at a secret facility ([[Area 51]] at Groom Lake, Nevada), Bissell managed the program from concept to operational deployment in approximately eighteen months. The U-2 conducted its first operational overflight of the Soviet Union in June 1956.
 
-By 1960, the U-2 program had produced invaluable intelligence on Soviet nuclear and missile programs, bomber deployments, and military-industrial infrastructure. The program was ended as a Soviet overflight tool when Gary Powers was shot down over Sverdlovsk on May 1, 1960. The diplomatic crisis that followed - Eisenhower first denied then admitted U.S. responsibility, collapsing the Paris Summit - was a direct consequence of the program Bissell had managed.[^1]
+By 1960, the U-2 program had produced invaluable intelligence on Soviet nuclear and missile programs, bomber deployments, and military-industrial infrastructure. The program was ended as a Soviet overflight tool when [[Francis Gary Powers|Gary Powers]] was shot down over Sverdlovsk on May 1, 1960. The diplomatic crisis that followed - [[Dwight Eisenhower|Eisenhower]] first denied then admitted U.S. responsibility, collapsing the Paris Summit - was a direct consequence of the program Bissell had managed.[^1]
 
 ### Bay of Pigs
 
-As DDP, Bissell organized and directed the plan for a [[Cuba|Cuba]]n exile invasion of Cuba designed to overthrow [[Fidel Castro]]. The plan evolved from a relatively modest guerrilla-infiltration program into an amphibious landing operation similar to the 1954 Guatemala coup, which had overthrown Jacobo Arbenz with a paramilitary force. President Kennedy approved the operation but insisted on removing air strikes intended to destroy Castro's air force on the ground before the landing.
+As DDP, Bissell organized and directed the plan for a [[Cuba|Cuba]]n exile invasion of Cuba designed to overthrow [[Fidel Castro]]. The plan evolved from a relatively modest guerrilla-infiltration program into an amphibious landing operation similar to the [[Operation PBSUCCESS|1954 Guatemala coup]], which had overthrown [[Jacobo Arbenz]] with a paramilitary force. President Kennedy approved the operation but insisted on removing air strikes intended to destroy Castro's air force on the ground before the landing.
 
 The Bay of Pigs invasion of April 17-19, 1961 was a catastrophic failure. Castro's surviving air force destroyed supply ships and sank the brigade's reserve ammunition. The expected popular uprising did not materialize. Within seventy-two hours the 1,400-man exile brigade was captured. The CIA's intelligence assessment that Castro was deeply unpopular and that the invasion would trigger internal resistance had been wrong.
 
@@ -43,7 +43,7 @@ Kennedy publicly accepted responsibility. He privately blamed the CIA and specif
 
 ### ZR/RIFLE Authorization
 
-Before his resignation, Bissell had authorized the development of ZR/RIFLE under [[William Harvey]]. The Church Committee established that Bissell had directed Harvey to develop an executive action (assassination) capability and had managed the early relationship with organized crime figures recruited for the anti-Castro plots. Like Helms, Bissell did not fully disclose the assassination programs to the Warren Commission.[^1]
+Before his resignation, Bissell had authorized the development of ZR/RIFLE under [[William Harvey]]. The [[Church Committee]] established that Bissell had directed Harvey to develop an executive action (assassination) capability and had managed the early relationship with organized crime figures recruited for the anti-Castro plots. Like Helms, Bissell did not fully disclose the assassination programs to the [[Warren Commission]].[^1]
 
 ### Later Career
 

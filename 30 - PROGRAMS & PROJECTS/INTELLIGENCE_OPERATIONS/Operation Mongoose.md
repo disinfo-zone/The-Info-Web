@@ -39,17 +39,17 @@ The CIA's operational implementation was headquartered at [[JM-WAVE|JM/WAVE]], a
 
 Mongoose operations fell into several categories:
 
-**Sabotage**: CIA and Cuban exile teams conducted multiple sabotage operations against Cuban economic targets, including sugar mills, oil facilities, and transportation infrastructure. The sabotage program was intended to create economic disruption that would increase popular dissatisfaction with Castro's government.
+Sabotage: CIA and Cuban exile teams conducted multiple sabotage operations against Cuban economic targets, including sugar mills, oil facilities, and transportation infrastructure. The sabotage program was intended to create economic disruption that would increase popular dissatisfaction with Castro's government.
 
-**Resistance development**: CIA officers and Cuban exile operatives attempted to recruit and organize internal resistance networks inside Cuba. These efforts were largely unsuccessful; Castro's state security (G2) proved highly effective at detecting and penetrating infiltrated networks.
+Resistance development: CIA officers and Cuban exile operatives attempted to recruit and organize internal resistance networks inside Cuba. These efforts were largely unsuccessful; Castro's state security (G2) proved highly effective at detecting and penetrating infiltrated networks.
 
-**Psychological operations**: Radio broadcasts, leaflet drops, and propaganda campaigns targeted both the Cuban population and Castro's military and political leadership.
+Psychological operations: Radio broadcasts, leaflet drops, and propaganda campaigns targeted both the Cuban population and Castro's military and political leadership.
 
-**Assassination tracks**: Parallel to Mongoose's official programs, Harvey maintained ZR/RIFLE operations targeting Castro through the CIA-organized crime connection with [[Johnny Roselli]] and, through him, [[Sam Giancana]] and [[Santos Trafficante, Jr.|Santo Trafficante Jr.]] The assassination track was technically separate from but operationally intertwined with the broader Mongoose program.[^1]
+Assassination tracks: Parallel to Mongoose's official programs, Harvey maintained [[ZR RIFLE|ZR/RIFLE]] operations targeting Castro through the CIA-organized crime connection with [[Johnny Roselli]] and, through him, [[Sam Giancana]] and [[Santos Trafficante, Jr.|Santo Trafficante Jr.]] The assassination track was technically separate from but operationally intertwined with the broader Mongoose program.[^1]
 
 ### The Missile Crisis and Suspension
 
-The October 1962 Cuban Missile Crisis fundamentally changed the operational environment. Kennedy's agreement with Soviet Premier [[Nikita Khrushchev|Khrushchev]] to resolve the crisis included a private U.S. commitment not to invade Cuba. This commitment effectively foreclosed the political precondition on which Mongoose was premised: that internal Cuban resistance could ultimately trigger an American-supported uprising.
+The October 1962 [[Cuban Missile Crisis]] fundamentally changed the operational environment. Kennedy's agreement with Soviet Premier [[Nikita Khrushchev|Khrushchev]] to resolve the crisis included a private U.S. commitment not to invade Cuba. This commitment effectively foreclosed the political precondition on which Mongoose was premised: that internal Cuban resistance could ultimately trigger an American-supported uprising.
 
 During the crisis itself, Harvey unilaterally ordered CIA infiltration teams already at sea to proceed to Cuba despite direct orders to stand down. This unauthorized action during the most dangerous moment of the Cold War, in direct defiance of administration policy, resulted in Harvey's removal. Robert Kennedy demanded his transfer; Harvey was assigned to the CIA's Rome station.[^1]
 

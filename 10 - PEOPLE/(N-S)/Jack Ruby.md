@@ -18,13 +18,13 @@ died: 1967-01-03
 location: "Dallas, Texas"
 ---
 
-Jack Ruby (born Jacob Leon Rubenstein, March 25, 1911, Chicago, Illinois - died January 3, 1967, Dallas, Texas) was a Dallas nightclub operator who shot and killed [[Lee Harvey Oswald]] in the basement of the Dallas Police headquarters on November 24, 1963, forty-eight hours after Oswald's arrest for the assassination of President Kennedy. Ruby's elimination of the only person charged with Kennedy's murder, before Oswald could stand trial, is among the most consequential events in the history of the assassination and its investigation.[^1]
+Jack Ruby (born Jacob Leon Rubenstein, March 25, 1911, Chicago, Illinois - died January 3, 1967, Dallas, Texas) was a Dallas nightclub operator who shot and killed [[Lee Harvey Oswald]] in the basement of the Dallas Police headquarters on November 24, 1963, forty-eight hours after Oswald's arrest for the assassination of President [[John F. Kennedy|Kennedy]]. Ruby's elimination of the only person charged with Kennedy's murder, before Oswald could stand trial, is among the most consequential events in the history of the assassination and its investigation.[^1]
 
 ### Background and Organized Crime Associations
 
 Ruby was raised in Chicago and had worked as a runner and small-time organizer in labor and minor criminal circles there before relocating to Dallas in 1947. He became the operator of a strip club, the Carousel Club, and later a second venue, the Vegas Club.
 
-His organized crime associations were documented by both the [[Warren Commission]] and the [[HSCA|House Select Committee on Assassinations]]. The HSCA found that Ruby had "significant" associations with organized crime figures in Chicago and Dallas throughout his career. He had known Paul Rowland Jones, a Chicago organized crime figure, and had been involved in Dallas gambling operations. The HSCA identified associations with Carlos Marcello's New Orleans organization and with the Tampa organized crime network of [[Santos Trafficante, Jr.]], both of whom the committee found had motives related to the Kennedy administration's aggressive pursuit of organized crime through Robert Kennedy's Justice Department.[^1]
+His organized crime associations were documented by both the [[Warren Commission]] and the [[HSCA|House Select Committee on Assassinations]]. The HSCA found that Ruby had "significant" associations with organized crime figures in Chicago and Dallas throughout his career. He had known Paul Rowland Jones, a Chicago organized crime figure, and had been involved in Dallas gambling operations. The HSCA identified associations with [[Carlos Marcello]]'s New Orleans organization and with the Tampa organized crime network of [[Santos Trafficante, Jr.]], both of whom the committee found had motives related to the Kennedy administration's aggressive pursuit of organized crime through [[Robert Kennedy]]'s Justice Department.[^1]
 
 ### Cuba Gunrunning
 
@@ -38,9 +38,9 @@ The HSCA documented that in the weeks before the Kennedy assassination, Ruby mad
 
 On November 24, 1963, at 11:21 AM, Ruby was in the Dallas Police headquarters basement with a crowd of journalists waiting to see Oswald transferred to the county jail. As Oswald was brought out in handcuffs, Ruby stepped forward and shot him once in the abdomen at close range. The event was broadcast live on national television. Oswald died ninety minutes later at Parkland Memorial Hospital.
 
-Ruby was immediately arrested. He claimed he acted spontaneously out of grief for Kennedy and a desire to spare Jacqueline Kennedy the trauma of a trial. He was tried for murder in March 1964 and convicted; the jury sentenced him to death. His trial attorney was Melvin Belli.[^1]
+Ruby was immediately arrested. He claimed he acted spontaneously out of grief for Kennedy and a desire to spare [[Jacqueline Kennedy Onassis|Jacqueline Kennedy]] the trauma of a trial. He was tried for murder in March 1964 and convicted; the jury sentenced him to death. His trial attorney was Melvin Belli.[^1]
 
-Ruby's conviction was reversed by the Texas Court of Criminal Appeals in October 1966 on grounds that the original trial should have been moved from Dallas due to pretrial publicity. A retrial was ordered in a different Texas venue. Before the retrial could begin, Ruby died of lung cancer on January 3, 1967. He had reportedly told his family and attorneys that he knew more than he had said, and had requested to be taken to Washington for questioning by the Warren Commission under conditions where he felt safe - a request that Warren Commission Chairman Earl Warren declined.
+Ruby's conviction was reversed by the Texas Court of Criminal Appeals in October 1966 on grounds that the original trial should have been moved from Dallas due to pretrial publicity. A retrial was ordered in a different Texas venue. Before the retrial could begin, Ruby died of lung cancer on January 3, 1967. He had reportedly told his family and attorneys that he knew more than he had said, and had requested to be taken to Washington for questioning by the Warren Commission under conditions where he felt safe - a request that Warren Commission Chairman [[Earl Warren]] declined.
 
 ### Warren Commission and HSCA Treatment
 

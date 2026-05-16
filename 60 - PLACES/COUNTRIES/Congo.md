@@ -23,9 +23,9 @@ The Democratic Republic of Congo (DRC) - known as the Belgian Congo under coloni
 
 ### Independence and the Congo Crisis
 
-The Belgian Congo achieved independence on June 30, 1960, with [[Patrice Lumumba]] as Prime Minister and Joseph Kasavubu as President. The transition was immediately destabilized by Congolese army mutinies, Belgian military intervention, and the secession of the mineral-rich Katanga province under Moise Tshombe with Belgian support.
+The Belgian Congo achieved independence on June 30, 1960, with [[Patrice Lumumba]] as Prime Minister and [[Joseph Kasavubu]] as President. The transition was immediately destabilized by Congolese army mutinies, Belgian military intervention, and the secession of the mineral-rich [[Katanga]] province under [[Moise Tshombe]] with Belgian support.
 
-Lumumba's appeal to the Soviet Union for assistance against Belgian intervention led [[Allen Dulles|CIA Director Dulles]] to characterize him as Africa's Castro and authorize assassination planning. CIA Leopoldville station chief Larry Devlin facilitated army chief of staff Colonel [[Mobutu Sese Seko|Joseph Mobutu]]'s coup in September 1960, which neutralized Lumumba. Lumumba was captured in December 1960 and executed by Katangan forces on January 17, 1961 - in circumstances the [[Church Committee]] found involved CIA facilitation.[^1]
+Lumumba's appeal to the [[Soviet Union]] for assistance against Belgian intervention led [[Allen Dulles|CIA Director Dulles]] to characterize him as Africa's Castro and authorize assassination planning. CIA Leopoldville station chief [[Larry Devlin]] facilitated army chief of staff Colonel [[Mobutu Sese Seko|Joseph Mobutu]]'s coup in September 1960, which neutralized Lumumba. Lumumba was captured in December 1960 and executed by Katangan forces on January 17, 1961 - in circumstances the [[Church Committee]] found involved CIA facilitation.[^1]
 
 ### The Mobutu Era (1965-1997)
 
@@ -35,11 +35,11 @@ During the Mobutu era, Zaire received billions in American economic and military
 
 ### Operation IAFEATURE: Angola
 
-Zaire served as the primary CIA logistics base for Operation IAFEATURE (1975-1976), the CIA's covert program to support UNITA and the FNLA against the Soviet- and Cuban-backed MPLA in the Angolan civil war that followed Angolan independence from Portugal. CIA Director [[William Colby]] and then Director [[George H.W. Bush]] managed the operation. Zairian territory was used to funnel weapons, CIA personnel, and funds to the CIA-backed Angolan factions. The operation was disclosed by journalist John Stockwell (a CIA case officer who resigned and wrote *In Search of Enemies*, 1978) and was shut down by Congress through the [[Frank Church|Clark Amendment]] in 1976.[^1]
+Zaire served as the primary CIA logistics base for Operation IAFEATURE (1975-1976), the CIA's covert program to support [[UNITA]] and the [[FNLA]] against the Soviet- and [[Cuba|Cuban]]-backed [[MPLA]] in the [[Angola|Angolan]] civil war that followed Angolan independence from [[Portugal]]. CIA Director [[William Colby]] and then Director [[George H.W. Bush]] managed the operation. Zairian territory was used to funnel weapons, CIA personnel, and funds to the CIA-backed Angolan factions. The operation was disclosed by journalist John Stockwell (a CIA case officer who resigned and wrote *In Search of Enemies*, 1978) and was shut down by Congress through the [[Frank Church|Clark Amendment]] in 1976.[^1]
 
 ### Uranium and Nuclear Connection
 
-The Shinkolobwe uranium mine in Katanga province was the source of the high-grade uranium used in the Manhattan Project's atomic bombs. Belgian-controlled Union Minière du Haut Katanga supplied the ore; Shinkolobwe uranium was used in both the Trinity test and the bombs dropped on Hiroshima and Nagasaki. The mine was subsequently closed and reopened multiple times; artisanal mining resumed in the 2000s despite official prohibition.[^2]
+The Shinkolobwe uranium mine in Katanga province was the source of the high-grade uranium used in the [[Manhattan Project]]'s atomic bombs. Belgian-controlled Union Minière du Haut Katanga supplied the ore; Shinkolobwe uranium was used in both the Trinity test and the bombs dropped on Hiroshima and Nagasaki. The mine was subsequently closed and reopened multiple times; artisanal mining resumed in the 2000s despite official prohibition.[^2]
 
 ### Post-Mobutu
 

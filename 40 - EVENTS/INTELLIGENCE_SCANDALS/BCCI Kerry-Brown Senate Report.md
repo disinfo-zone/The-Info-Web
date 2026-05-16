@@ -1,4 +1,4 @@
----
+﻿---
 created: 2026-05-15
 updated: 2026-05-15
 title: BCCI Kerry-Brown Senate Report
@@ -18,19 +18,19 @@ date: 1992-12-01
 location: "Washington, D.C."
 ---
 
-"The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate" was a December 1992 report co-authored by Senators [[John Kerry]] (D-Massachusetts) and Hank Brown (R-Colorado) summarizing a three-year investigation by the Senate Subcommittee on Terrorism, Narcotics, and International Operations into the [[Bank of Credit and Commerce International|Bank of Credit and Commerce International (BCCI)]]. The 800-page report represented the most comprehensive official account of BCCI's criminal operations and documented the bank's relationships with intelligence agencies including the [[Central Intelligence Agency|CIA]].[^1]
+"The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate" was a December 1992 report co-authored by Senators [[John Kerry]] (D-Massachusetts) and [[Hank Brown]] (R-Colorado) summarizing a three-year investigation by the Senate Subcommittee on Terrorism, Narcotics, and International Operations into the [[Bank of Credit and Commerce International|Bank of Credit and Commerce International (BCCI)]]. The 800-page report represented the most comprehensive official account of BCCI's criminal operations and documented the bank's relationships with intelligence agencies including the [[Central Intelligence Agency|CIA]].[^1]
 
 ### Investigation Origins
 
 Kerry's subcommittee investigation began in 1988, predating BCCI's July 1991 shutdown by three years. The subcommittee was originally focused on drug trafficking and money laundering when it first encountered BCCI through its investigation of [[Manuel Noriega]]'s Panamanian bank accounts and the [[Medellín Cartel]]'s financial infrastructure. [[Amjad Awan]], BCCI's manager for Latin America and Noriega's personal banker, became a key witness after his arrest in Tampa in October 1988 as part of a U.S. Customs sting.
 
-The investigation expanded dramatically after Manhattan District Attorney [[Robert Morgenthau]] brought BCCI evidence to Kerry's attention, and after [[Jack Blum]], a former Kerry subcommittee investigator, continued developing sources within and around BCCI independently. The Bank of England's forced closure of BCCI in July 1991 and the simultaneous international criminal indictments gave the investigation new impetus.[^1]
+The investigation expanded dramatically after Manhattan District Attorney [[Robert Morgenthau]] brought BCCI evidence to Kerry's attention, and after [[Jack Blum]], a former Kerry subcommittee investigator, continued developing sources within and around BCCI independently. The [[Bank of England]]'s forced closure of BCCI in July 1991 and the simultaneous international criminal indictments gave the investigation new impetus.[^1]
 
 ### Principal Findings
 
 The Kerry-Brown Report documented BCCI's operations as a coordinated criminal enterprise operating across approximately seventy countries. Its principal findings included:
 
-**Money laundering**: BCCI provided specialized services for laundering drug proceeds, particularly from the Medellín and Cali cartels in Colombia. The bank developed internal expertise in structuring transactions to avoid currency reporting requirements and created networks of shell companies and nominee accounts for high-level criminal clients.
+**Money laundering**: BCCI provided specialized services for laundering drug proceeds, particularly from the Medellín and [[Cali Cartel|Cali Cartels]] in [[Colombia]]. The bank developed internal expertise in structuring transactions to avoid currency reporting requirements and created networks of shell companies and nominee accounts for high-level criminal clients.
 
 **Intelligence relationships**: The report documented BCCI's role as a financial institution used by intelligence agencies including the CIA. It found that the CIA maintained accounts at BCCI and used the bank to finance covert operations, including weapons purchases for the Afghan Mujahideen and funding for other covert programs. The report found that senior U.S. intelligence officials had been aware of BCCI's criminal character years before the bank's closure and had not reported this to law enforcement.
 

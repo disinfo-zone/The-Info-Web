@@ -16,7 +16,7 @@ end: 1990-06-22
 location: "Friedrichstrasse, Berlin-Mitte, Germany"
 ---
 
-Checkpoint Charlie was the most prominent Allied military crossing point through the [[Berlin|Berlin]] Wall, located on Friedrichstrasse in the Mitte district of the divided city. It served as the primary crossing point for Allied military personnel, diplomats, and foreign nationals between West Berlin and East Berlin from the construction of the Wall on August 13, 1961 until its formal closure on June 22, 1990.
+Checkpoint Charlie was the most prominent Allied military crossing point through the [[Berlin Wall]], located on Friedrichstrasse in the Mitte district of the divided city. It served as the primary crossing point for Allied military personnel, diplomats, and foreign nationals between West Berlin and [[East Berlin]] from the construction of the Wall on August 13, 1961 until its formal closure on June 22, 1990.
 
 ### Naming and Structure
 
@@ -28,7 +28,7 @@ The physical checkpoint evolved considerably over its existence. The initial imp
 
 The most dangerous single incident at Checkpoint Charlie occurred on October 27-28, 1961, only weeks after the Wall's construction. American civilian officials had insisted on their right under the post-war Allied agreements to cross into East Berlin without submitting to East German passport inspection - a right the Soviets and East Germans were contesting. When American diplomat E. Allan Lightner was stopped by East German guards on October 22, the U.S. Mission dispatched military police jeeps and eventually tanks to escort American vehicles through without inspection.
 
-On October 27, ten American M48 Patton tanks lined up at the checkpoint on the Western side. Soviet tanks responded by lining up on the Eastern side, approximately one hundred yards away. For sixteen hours, American and Soviet tanks faced each other at combat range at a Berlin crossing point, in the only direct armed military confrontation of the Cold War between U.S. and Soviet forces. The standoff ended on October 28 when the Soviets withdrew their tanks - a signal that the Soviets, not the East Germans, controlled the sector boundary, and that the Allied right of access would be respected. American tanks then withdrew.[^1]
+On October 27, ten American M48 Patton tanks lined up at the checkpoint on the Western side. Soviet tanks responded by lining up on the Eastern side, approximately one hundred yards away. For sixteen hours, American and [[Soviet Union|Soviet]] tanks faced each other at combat range at a Berlin crossing point, in the only direct armed military confrontation of the Cold War between U.S. and Soviet forces. The standoff ended on October 28 when the Soviets withdrew their tanks - a signal that the Soviets, not the East Germans, controlled the sector boundary, and that the Allied right of access would be respected. American tanks then withdrew.[^1]
 
 ### The Death of Peter Fechter
 

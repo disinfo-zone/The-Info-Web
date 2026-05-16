@@ -35,13 +35,13 @@ Similar space-target sessions were conducted with other SRI subjects during the 
 
 ### UAP Investigation
 
-In June 2022, NASA announced it was commissioning an independent study of unidentified aerial phenomena (UAP), conducted by a sixteen-member team under astrophysicist David Spergel. The NASA UAP Independent Study was distinct from the Department of Defense's All-domain Anomaly Resolution Office (AARO) and the earlier UAP Task Force. The study team issued its report in September 2023, finding that UAP data was insufficient for scientific conclusions and recommending that NASA develop systematic observation and reporting infrastructure for UAP investigation.
+In June 2022, NASA announced it was commissioning an independent study of unidentified aerial phenomena (UAP), conducted by a sixteen-member team under astrophysicist [[David Spergel]]. The NASA UAP Independent Study was distinct from the [[Department of Defense]]'s [[AARO|All-domain Anomaly Resolution Office (AARO)]] and the earlier UAP Task Force. The study team issued its report in September 2023, finding that UAP data was insufficient for scientific conclusions and recommending that NASA develop systematic observation and reporting infrastructure for UAP investigation.
 
 NASA simultaneously announced it would appoint a Director of UAP Research, and named [[Mark McInerney]] to that position in late 2023. The NASA UAP initiative represented the first formal civilian scientific agency acknowledgment that UAP warranted systematic study, distinct from the longstanding defense-intelligence framing of the issue.[^2]
 
 ### Relevance to Parapsychology Network
 
-Several figures who appear in this vault's coverage of the government parapsychology programs had NASA connections beyond Mitchell. Astronaut [[Gordon Cooper]] claimed multiple UAP sightings during his Mercury and Gemini flights. [[Robert Bigelow]], whose [[Bigelow Aerospace Advanced Space Studies|Bigelow Aerospace]] was NASA's primary commercial crew habitat contractor (BEAM module, ISS installation 2016), separately operated the DIA's primary AAWSAP parapsychology contract through BAASS. The overlap between NASA's institutional culture - which attracted individuals with interests in frontier science - and the parapsychology research network was noted by program historians.[^1]
+Several figures who appear in this vault's coverage of the government parapsychology programs had NASA connections beyond Mitchell. Astronaut [[Gordon Cooper]] claimed multiple UAP sightings during his Mercury and Gemini flights. [[Robert Bigelow]], whose [[Bigelow Aerospace Advanced Space Studies|Bigelow Aerospace]] was NASA's primary commercial crew habitat contractor (BEAM module, ISS installation 2016), separately operated the [[Defense Intelligence Agency|DIA]]'s primary [[AAWSAP]] parapsychology contract through BAASS. The overlap between NASA's institutional culture - which attracted individuals with interests in frontier science - and the parapsychology research network was noted by program historians.[^1]
 
 ### Footnotes
 
