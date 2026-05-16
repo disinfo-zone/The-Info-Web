@@ -1,3 +1,4 @@
+- 2026-05-15T2127 · [[Roald Dahl]]
 - 2026-05-15T2123 · [[Lee Harvey Oswald]]
 - 2026-05-15T2120 · [[George de Mohrenschildt]]
 - 2026-05-15T2119 · [[David Atlee Phillips]]
@@ -22,4 +23,3 @@
 - 2026-05-15T2012 · [[Larry Devlin]]
 - 2026-05-15T2012 · [[Hungarian Revolution]]
 - 2026-05-15T1958 · [[Radio Free Europe]]
-- 2026-05-15T1953 · [[Operation Mongoose]]
