@@ -1,4 +1,4 @@
-﻿---
+﻿﻿---
 created: 2026-05-15
 updated: 2026-05-15
 title: Marshall Plan
@@ -12,7 +12,7 @@ tags:
   - Europe
   - 1940s
   - 1950s
-category: "Economic Program"
+category: "Intelligence Operation"
 summary: "The Marshall Plan was the U.S. economic aid program of 1948-1952 that provided $13 billion to rebuild Western European economies devastated by World War II, which George Kennan viewed as the correct application of his containment doctrine, and which the Soviet Union refused - deepening the division of Europe that defined the Cold War."
 start: 1948-04-03
 end: 1952-12-31

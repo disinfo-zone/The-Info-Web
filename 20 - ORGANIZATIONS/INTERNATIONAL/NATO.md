@@ -1,5 +1,5 @@
----
-category: "International Organizations"
+﻿---
+category: "International Organization"
 tags:
   - Organization
   - NATO
@@ -9,7 +9,7 @@ tags:
   - Military
 summary: "NATO (the North Atlantic Treaty Organization) is the Western military alliance whose Cold War infrastructure included the Gladio stay-behind networks documented in this vault; its Brussels headquarters is adjacent to the Belgian elite networks investigated in the Dutroux affair, and its expansion and intelligence coordination mechanisms are referenced throughout vault subjects."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Brussels, Belgium"
 ---
 

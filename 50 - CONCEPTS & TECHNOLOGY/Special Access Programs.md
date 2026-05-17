@@ -1,5 +1,5 @@
----
-category: "Intelligence Concepts"
+﻿---
+category: "Intelligence Concept"
 tags:
   - Concept
   - Intelligence

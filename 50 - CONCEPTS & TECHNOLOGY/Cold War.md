@@ -1,5 +1,5 @@
----
-category: "Historical Concepts"
+﻿---
+category: "Esoteric & Historical Concept"
 tags:
   - Concept
   - ColdWar

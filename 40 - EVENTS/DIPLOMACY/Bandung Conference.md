@@ -1,8 +1,8 @@
----
+﻿---
 tags:
   - Event
   - Diplomacy
-category: Diplomacy
+category: "Diplomacy"
 summary: 1955 meeting of Asian and African states in Indonesia that established the Non-Aligned Movement, attended by Egypt's Gamal Abdel Nasser and shaping Cold War diplomacy.
 start: 1955-04-18
 end: 1955-04-24

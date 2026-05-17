@@ -1,7 +1,7 @@
----
-category: PROMIS Scandal
+﻿---
+category: "PROMIS Scandal"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
 tags:
   - Person
   - PROMIS

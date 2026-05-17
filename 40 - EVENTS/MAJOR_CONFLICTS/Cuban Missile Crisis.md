@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
   - Cuban Missile Crisis
   - Caribbean Crisis
   - October Crisis
-category: "Cold War Events"
+category: "Intelligence Scandal"
 tags:
   - Event
   - ColdWar

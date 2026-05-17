@@ -1,9 +1,9 @@
----
+﻿---
 tags:
   - Project
   - Nuclear
   - World War II
-category: "Historical Program"
+category: "Intelligence Operation"
 summary: "The Manhattan Project was the top-secret U.S.-British-Canadian research program (1942-1946) that developed the first nuclear weapons under J. Robert Oppenheimer at Los Alamos and other facilities, culminating in the atomic bombings of Hiroshima and Nagasaki."
 start: 1942
 end: 1947

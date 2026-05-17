@@ -1,4 +1,4 @@
----
+﻿---
 created: 2026-05-15
 updated: 2026-05-15
 title: United Fruit Company
@@ -15,7 +15,7 @@ tags:
   - CIA
   - ColdWar
   - 1950s
-category: "Private Corporation"
+category: "Private Organization"
 summary: "The United Fruit Company was the dominant American agricultural and infrastructure corporation in Central America and the Caribbean whose expropriation by Guatemalan President Jacobo Arbenz provided the corporate rationale for Operation PBSUCCESS, with CIA Director Allen Dulles and Secretary of State John Foster Dulles both having served as United Fruit's legal counsel at Sullivan & Cromwell before their government appointments."
 start: 1899
 end: 1970

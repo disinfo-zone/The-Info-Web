@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
   - Berlin Wall
   - Wall
   - Berliner Mauer
-category: "Cold War Events"
+category: "Intelligence Scandal"
 tags:
   - Event
   - Germany

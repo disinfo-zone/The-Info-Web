@@ -1,5 +1,5 @@
 ---
-category: "PSI Phenomenon"
+category: "Psi Phenomenon"
 tags:
   - Concept
   - PSI

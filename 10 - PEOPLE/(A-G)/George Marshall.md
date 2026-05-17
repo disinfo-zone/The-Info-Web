@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 title: George Marshall
 aliases:
   - George Catlett Marshall
@@ -12,7 +12,7 @@ tags:
   - ColdWar
   - 1940s
   - 1950s
-category: "Military & Government"
+category: "Intelligence & Government"
 summary: "George Marshall was the U.S. Army Chief of Staff during World War II and Secretary of State from 1947 to 1949 who proposed the European Recovery Program that bears his name, received the Nobel Peace Prize in 1953, and was attacked by Senator Joseph McCarthy in one of the most reckless moments of the Red Scare."
 born: 1880-12-31
 died: 1959-10-16

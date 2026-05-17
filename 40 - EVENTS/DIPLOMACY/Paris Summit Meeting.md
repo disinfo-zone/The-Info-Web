@@ -1,8 +1,8 @@
----
+﻿---
 tags:
   - Event
   - Diplomacy
-category: Diplomacy
+category: "Diplomacy"
 summary: 1960 summit between Eisenhower and Khrushchev that collapsed after the U-2 Incident, derailing a potential US-Soviet detente.
 date: 1960
 location: "Paris, France"

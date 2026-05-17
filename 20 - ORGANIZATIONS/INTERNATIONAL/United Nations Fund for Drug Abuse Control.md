@@ -1,10 +1,10 @@
----
+﻿---
 tags:
   - Organization
   - International
   - United Nations
   - Drug Control
-category: "International Body"
+category: "International Organization"
 summary: "The United Nations Fund for Drug Abuse Control (UNFDAC) was a funding source for the purchase of computer software and hardware systems."
 start: 1971
 location: "Vienna, Austria"

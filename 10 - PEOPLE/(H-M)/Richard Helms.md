@@ -17,11 +17,11 @@ tags:
   - 1950s
   - 1960s
   - 1970s
-category: "Intelligence & Government"
-summary: "Richard Helms served as Director of Central Intelligence from 1966 to 1973, authorizing Operation CHAOS domestic surveillance and ordering destruction of CHAOS and MKULTRA records before congressional investigation, then becoming the only DCI ever convicted of a crime when he pleaded no contest in 1977 to making false statements to Congress about CIA covert operations to prevent Salvador Allende from taking power in Chile."
+category: Intelligence & Government
+summary: Richard Helms served as Director of Central Intelligence from 1966 to 1973, authorizing Operation CHAOS domestic surveillance and ordering destruction of CHAOS and MKULTRA records before congressional investigation.
 born: 1913-03-30
 died: 2002-10-22
-location: "St. Davids, Pennsylvania"
+location: St. Davids, Pennsylvania
 ---
 Richard McGarrah Helms (March 30, 1913 - October 22, 2002) served as [[Central Intelligence Agency|CIA]] [[Director of Central Intelligence]] from June 30, 1966, to February 2, 1973 - the only career CIA clandestine officer ever to hold that position, and the only DCI ever convicted of a criminal offense related to his service. A professional intelligence officer who entered the [[Office of Strategic Services|OSS]] during [[World War II]] and spent thirty years in the CIA, Helms authorized [[Operation CHAOS]] domestic surveillance, approved continuation of the [[MKULTRA]] human experimentation program, ordered the destruction of both programs' records before congressional investigators could access them, and in 1977 pleaded no contest to making false statements to Congress about CIA operations against Chilean President [[Salvador Allende]]. He simultaneously held the personal conviction, disclosed to his deputies, that [[Israel]] was using American intelligence as "an open pipeline for pumping intelligence to [[Moscow]]" - a view he never officially reported.[^1]
 

@@ -1,5 +1,5 @@
----
-category: "Caribbean"
+﻿---
+category: "Country"
 tags:
   - Country
   - CaymanIslands

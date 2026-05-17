@@ -1,5 +1,5 @@
----
-category: "Intelligence Programs"
+﻿---
+category: "Intelligence Operation"
 tags:
   - Program
   - CIA
@@ -9,7 +9,7 @@ tags:
   - ColdWar
 summary: "Operation Condor was a CIA-facilitated transnational program of political repression, intelligence sharing, and assassination coordinated among six South American military dictatorships (Chile, Argentina, Uruguay, Bolivia, Paraguay, Brazil) from 1975 onward, which tracked and killed an estimated 60,000 people including opponents who had fled across borders."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 ---
 
 Operation Condor (Spanish: Operacion Condor) was a clandestine program of political repression and intelligence cooperation established in November 1975 among the military intelligence services of six South American nations: [[Chile]] (led by [[Augusto Pinochet]]'s DINA), [[Argentina]], [[Uruguay]], [[Bolivia]], [[Paraguay]], and [[Brazil]]. The program was facilitated by the [[Central Intelligence Agency]], which provided communications infrastructure, training, and operational support. Condor coordinated the identification, tracking, interrogation, and assassination of left-wing political opponents - including those who had fled across borders seeking refuge - resulting in an estimated 60,000 deaths across the participant countries.[^1]

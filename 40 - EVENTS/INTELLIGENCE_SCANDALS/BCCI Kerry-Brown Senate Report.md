@@ -1,4 +1,4 @@
-﻿---
+---
 created: 2026-05-15
 updated: 2026-05-16
 title: BCCI Kerry-Brown Senate Report
@@ -12,10 +12,10 @@ tags:
   - Senate
   - Investigation
   - 1990s
-category: "Intelligence Scandal"
-summary: "The BCCI Affair: A Report to the Committee on Foreign Relations was a December 1992 Senate report by John Kerry and Hank Brown documenting BCCI's systematic criminal enterprise - money laundering, terrorist financing, arms dealing, drug trafficking, and CIA relationships - and finding that the Department of Justice had obstructed investigation of the bank."
+category: Intelligence Scandal
+summary: A Report to the Committee on Foreign Relations was a December 1992 Senate report by John Kerry and Hank Brown documenting BCCI's systematic criminal enterprise - money laundering, terrorist financing, arms dealing, drug trafficking, and CIA relationships - and finding that the Department of Justice had obstructed investigation of the bank.
 date: 1992-12-01
-location: "Washington, D.C."
+location: Washington, D.C.
 ---
 
 "The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate" was a December 1992 report co-authored by Senators [[John Kerry]] (D-Massachusetts) and [[Hank Brown]] (R-Colorado) summarizing a three-year investigation by the Senate Subcommittee on Terrorism, Narcotics, and International Operations into the [[Bank of Credit and Commerce International|Bank of Credit and Commerce International (BCCI)]]. The 800-page report represented the most comprehensive official account of BCCI's criminal operations and documented the bank's relationships with intelligence agencies including the [[Central Intelligence Agency|CIA]].[^1]

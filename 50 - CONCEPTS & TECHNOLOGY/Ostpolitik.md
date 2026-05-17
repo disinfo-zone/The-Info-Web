@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
   - Ostpolitik
   - Eastern Policy
-category: "Concepts & Technology"
+category: "Intelligence Concept"
 tags:
   - Concept
   - Germany

@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
   - AIR
   - American Institutes for Research
-category: "Research Organizations"
+category: "Research Organization"
 tags:
   - Organization
   - Research

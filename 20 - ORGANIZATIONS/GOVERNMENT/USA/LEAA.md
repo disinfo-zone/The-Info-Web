@@ -1,13 +1,13 @@
----
+﻿---
 created: 2024-04-26
-updated: 2026-05-01
+updated: 2026-05-17
 title: LEAA
 tags:
   - Organization
   - PROMIS
   - INSLAW
 description: The Law Enforcement Assistance Administration funded PROMIS and its national expansion through grants to INSLAW and adopting jurisdictions. Its abolition in 1982 forced INSLAW into the DOJ contract that led to the company's bankruptcy and the PROMIS Software Scandal.
-category: U.S. Government
+category: "U.S. Government"
 summary: The Law Enforcement Assistance Administration was a federal agency created by the Omnibus Crime Control and Safe Streets Act of 1968 that provided hundreds of millions of dollars in grants for law enforcement and judicial assistance programs, including the original PROMIS case management software.
 start: 1968
 end: 1982

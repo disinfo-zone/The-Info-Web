@@ -1,5 +1,5 @@
----
-category: "Europe / Asia"
+﻿---
+category: "Country"
 tags:
   - Country
   - Russia

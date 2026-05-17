@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
   - Pasadena Police Department
   - PPD
-category: "Law Enforcement"
+category: "Law Enforcement & Legal"
 tags:
   - Organization
   - USA

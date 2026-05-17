@@ -1,9 +1,9 @@
----
+﻿---
 aliases:
   - Operation Gold
   - Operation Stopwatch
   - Berlin Tunnel
-category: "Intelligence Operations"
+category: "Intelligence Operation"
 tags:
   - Program
   - CIA

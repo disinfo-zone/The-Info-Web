@@ -1,9 +1,9 @@
----
+﻿---
 tags:
   - Organization
   - International
   - Middle East
-category: "International Body"
+category: "International Organization"
 summary: "The Arab League is a regional organization of Arab states in North Africa, the Horn of Africa, and Western Asia."
 start: 1945
 location: "Cairo, Egypt"

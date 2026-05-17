@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-05-17
 title: Paul Nitze
 aliases:
   - Paul Henry Nitze
@@ -12,7 +12,7 @@ tags:
   - 1950s
   - 1960s
   - 1980s
-category: "Diplomat & Government"
+category: "Intelligence & Government"
 summary: "Paul Nitze was the U.S. foreign policy official who authored NSC-68 in 1950 - replacing George Kennan's political containment with a militarized framework - and remained a central figure in American arms control and nuclear strategy debates for five decades, from the Truman administration through Reagan's Strategic Defense Initiative."
 born: 1907-01-16
 died: 2004-10-19

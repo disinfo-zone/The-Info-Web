@@ -1,5 +1,5 @@
----
-category: "Criminal Cases"
+﻿---
+category: "Crime Investigation"
 tags:
   - Person
   - JohnWayneGacy

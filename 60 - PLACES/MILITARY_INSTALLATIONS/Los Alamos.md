@@ -1,5 +1,5 @@
----
-category: "Military Installations"
+﻿---
+category: "Military Installation"
 tags:
   - MilitaryInstallation
   - Nuclear

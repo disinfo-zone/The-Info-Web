@@ -1,8 +1,8 @@
----
+﻿---
 aliases:
   - Operation Paperclip
   - Paperclip
-category: "Intelligence Operations"
+category: "Intelligence Operation"
 tags:
   - Program
   - CIA

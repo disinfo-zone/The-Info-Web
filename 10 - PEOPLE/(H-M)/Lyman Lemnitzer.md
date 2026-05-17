@@ -1,6 +1,6 @@
----
+﻿---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 title: Lyman Lemnitzer
 aliases:
   - General Lemnitzer
@@ -12,7 +12,7 @@ tags:
   - NATO
   - ColdWar
   - 1960s
-category: "Military & Government"
+category: "Intelligence & Government"
 summary: "General Lyman Lemnitzer was Chairman of the Joint Chiefs of Staff from 1960 to 1962 who signed the Operation NORTHWOODS document proposing staged false-flag attacks against Americans to justify an invasion of Cuba, was transferred to command NATO forces in Europe after President Kennedy rejected the proposals and declined to reappoint him."
 born: 1899-08-29
 died: 1988-11-12

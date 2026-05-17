@@ -1,6 +1,6 @@
----
+﻿---
 created: 2025-07-22
-updated: 2025-07-22
+updated: 2026-05-17
 title: Project MKUltra
 tags:
   - program
@@ -14,7 +14,7 @@ tags:
   - 1960s
   - 1970s
 description: Project MKUltra was a top-secret, illegal human experimentation program designed and undertaken by the U.S. Central Intelligence Agency (CIA).
-category: "Historical Program"
+category: "Intelligence Operation"
 summary: "Project MKUltra was a top-secret, illegal human experimentation program designed and undertaken by the Central Intelligence Agency."
 start: 1953
 end: 1973

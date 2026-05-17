@@ -1,6 +1,6 @@
----
+﻿---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 title: Warren Commission
 aliases:
   - President's Commission on the Assassination of President Kennedy
@@ -10,7 +10,7 @@ tags:
   - Government
   - Investigation
   - 1960s
-category: "Government Investigation"
+category: "Intelligence Scandal"
 summary: "The Warren Commission was the official body appointed by President Johnson in November 1963 to investigate the Kennedy assassination, whose September 1964 report concluded Oswald acted alone - a finding undermined by the CIA's deliberate concealment of ZR/RIFLE and the anti-Castro assassination programs from the commission, and later challenged by the HSCA's 1979 conclusion that 'probable conspiracy' existed."
 date: 1963-11-29
 location: "Washington, D.C."

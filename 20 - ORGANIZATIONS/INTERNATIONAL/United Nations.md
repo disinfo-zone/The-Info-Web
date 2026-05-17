@@ -1,5 +1,5 @@
----
-category: "International Organizations"
+﻿---
+category: "International Organization"
 tags:
   - Organization
   - International
@@ -8,7 +8,7 @@ tags:
   - ColdWar
 summary: "The United Nations is the international organization founded in 1945 that appears throughout this vault primarily as an institutional arena for Cold War conflicts and covert operations: the Security Council veto dynamic that constrained collective responses to U.S.- and Soviet-backed proxy wars, the Oil-for-Food scandal that implicated international figures in Iraqi sanctions evasion, and the UNSCOM weapons inspection program."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "New York City, New York"
 ---
 

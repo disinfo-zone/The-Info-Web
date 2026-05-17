@@ -1,4 +1,4 @@
----
+﻿---
 created: 2026-05-15
 updated: 2026-05-15
 title: Fair Play for Cuba Committee
@@ -12,7 +12,7 @@ tags:
   - FBI
   - Oswald
   - 1960s
-category: "Political Organization"
+category: "Private Organization"
 summary: "The Fair Play for Cuba Committee was a pro-Castro political organization founded in 1960 whose primary historical significance is that Lee Harvey Oswald distributed its leaflets in New Orleans in the summer of 1963, raising unresolved questions about whether his activities were genuine political expression, an intelligence operation, or an attempt to establish a pro-communist cover identity before the Kennedy assassination."
 start: 1960
 end: 1963

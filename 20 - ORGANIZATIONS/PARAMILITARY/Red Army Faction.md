@@ -1,4 +1,4 @@
-﻿---
+﻿﻿---
 created: 2026-05-15
 updated: 2026-05-15
 title: Red Army Faction
@@ -13,7 +13,7 @@ tags:
   - ColdWar
   - 1970s
   - 1980s
-category: "Paramilitary Organization"
+category: "Paramilitary"
 summary: "The Red Army Faction was a West German urban guerrilla organization that conducted bombings, kidnappings, assassinations, and bank robberies from 1970 until officially dissolving in 1998, with its founding generation of Andreas Baader, Ulrike Meinhof, and Gudrun Ensslin dying in Stammheim Prison in 1976-1977 under circumstances that the group and supporters disputed."
 start: 1970-06-02
 end: 1998-04-20

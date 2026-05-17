@@ -1,4 +1,4 @@
-﻿---
+﻿﻿---
 created: 2026-05-15
 updated: 2026-05-16
 title: Hungarian Revolution
@@ -13,7 +13,7 @@ tags:
   - CIA
   - SovietUnion
   - 1950s
-category: "Political Uprising"
+category: "Major Conflict"
 summary: "The Hungarian Revolution of 1956 was a nationwide uprising against Soviet-backed communist rule that began October 23, 1956, was crushed by Soviet military intervention on November 4, and whose failure - despite Radio Free Europe's 'rollback' rhetoric - destroyed Frank Wisner and ended the Eisenhower administration's 'liberation' policy."
 start: 1956-10-23
 end: 1956-11-10

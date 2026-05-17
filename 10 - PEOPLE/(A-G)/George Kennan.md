@@ -1,4 +1,4 @@
-﻿---
+﻿﻿---
 created: 2026-05-15
 updated: 2026-05-16
 title: George Kennan
@@ -12,7 +12,7 @@ tags:
   - Diplomat
   - 1940s
   - 1950s
-category: "Diplomat & Scholar"
+category: "Intelligence & Government"
 summary: "George Kennan was the U.S. diplomat and historian who originated the 'containment' doctrine for confronting Soviet power, articulated in his 1946 Long Telegram from Moscow and his 1947 X Article in Foreign Affairs, and spent his subsequent decades watching the doctrine distorted into forms he had never intended and repeatedly arguing against its militarized implementation."
 born: 1904-02-16
 died: 2005-03-17

@@ -1,15 +1,15 @@
----
-category: “Key Figures”
+﻿---
+category: "Key Figures"
 tags:
   - Person
   - Stargate
   - CIA
-summary: “Henry Karel “Andrija” Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S.”
+summary: "Henry Karel "Andrija" Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S."
 born: 1918-02-19
 died: 1995-01-03
-location: “Chicago, Illinois, USA”
+location: "Chicago, Illinois, USA"
 ---
-Henry Karel “Andrija” Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S. government's investigations into [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]] during the [[Cold War]]. His lifelong quest to understand the nature of consciousness and anomalous mental phenomena led him to explore the intersection of science, mysticism, and the supernatural[^1].
+Henry Karel "Andrija" Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S. government's investigations into [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]] during the [[Cold War]]. His lifelong quest to understand the nature of consciousness and anomalous mental phenomena led him to explore the intersection of science, mysticism, and the supernatural[^1].
 
 Born in Chicago on February 19, 1918, to poor Yugoslavian immigrants, Puharich had an early experience that shaped his future. As a milk delivery boy, he claimed to have calmed a vicious dog by sending "feelings of calmness and peace," leading him to believe in [[Telepathy|mind-to-mind telepathy]] and inspiring him to pursue medicine to understand the biological basis of such phenomena[^1]. He excelled academically, attending Northwestern University for philosophy and premedical studies before entering medical school. During his studies, he deeply contemplated the nature of the mind and consciousness, stating, "Understanding the nature of man’s consciousness... is my lifelong quest"[^1].
 

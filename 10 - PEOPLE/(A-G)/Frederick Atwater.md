@@ -1,18 +1,18 @@
----
-category: “Key Figures”
+﻿---
+category: "Key Figures"
 tags:
   - Person
   - Stargate
   - CIA
   - Military
   - RemoteViewer
-summary: “Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey.”
+summary: "Frederick Holmes "Skip" Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey."
 born: 1947
-location: “Glendale, California”
+location: "Glendale, California"
 ---
 
 
-Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey. His father was a dentist, and his mother, a homemaker, held a strong belief in the paranormal. Atwater himself had out-of-body experiences as a teenager, sometimes using this ability to "float" to distant locations. He was intrigued by the possibilities of the paranormal and had heard rumors of Soviet and CIA psi research, including successful outcomes.[^1]
+Frederick Holmes "Skip" Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey. His father was a dentist, and his mother, a homemaker, held a strong belief in the paranormal. Atwater himself had out-of-body experiences as a teenager, sometimes using this ability to "float" to distant locations. He was intrigued by the possibilities of the paranormal and had heard rumors of Soviet and CIA psi research, including successful outcomes.[^1]
 
 He joined the [[U.S. Army]] and after officer candidate training and espionage school at [[Fort Huachuca]], Arizona, he arrived at [[Fort Meade]] in the summer of 1977. This was a period of significant reorganization within Army intelligence, with the formation of the [[United States Army Intelligence and Security Command]] (INSCOM). Atwater was assigned to an operations security (opsec) team that became part of the [[Systems Exploitation Detachment]] (SED).[^1]
 

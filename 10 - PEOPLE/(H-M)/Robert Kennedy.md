@@ -1,5 +1,5 @@
----
-category: "JFK Assassination"
+﻿---
+category: "Intelligence Scandal"
 tags:
   - Person
   - JFK

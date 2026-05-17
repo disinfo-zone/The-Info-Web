@@ -1,5 +1,5 @@
----
-category: "International Organizations"
+﻿---
+category: "International Organization"
 tags:
   - Organization
   - FiveEyes
@@ -10,7 +10,7 @@ tags:
   - ColdWar
 summary: "Five Eyes is the signals intelligence alliance between the United States, United Kingdom, Australia, Canada, and New Zealand established under the UKUSA Agreement (1946); its collection infrastructure, including ECHELON, represents the most extensive global surveillance network ever assembled and is referenced throughout the vault's SIGINT and intelligence community subjects."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 ---
 
 Five Eyes (FVEY) is the informal name for the intelligence alliance between the [[United States]], [[United Kingdom]], [[Australia]], [[Canada]], and New Zealand established under the [[UKUSA Agreement]] of 1946. The alliance is primarily a signals intelligence (SIGINT) sharing arrangement, under which the five member nations' designated SIGINT agencies - the [[NSA]], [[GCHQ]], the Australian Signals Directorate (ASD), the Communications Security Establishment (CSE), and the Government Communications Security Bureau (GCSB) - share raw collection, analysis, and technical methods.[^1]

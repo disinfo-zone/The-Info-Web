@@ -1,5 +1,5 @@
----
-category: "Major Conflicts"
+﻿---
+category: "Major Conflict"
 tags:
   - Event
   - WorldWarII
@@ -9,7 +9,7 @@ tags:
   - ColdWar
 summary: "World War II (1939-1945) is the global conflict from which the modern American intelligence community was born: the OSS became the CIA, Nazi scientists and intelligence officers were recruited through Operation Paperclip and other stay-behind programs, and the organizational networks, personnel, and covert operational culture of the Cold War era were all shaped by wartime arrangements."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 ---
 
 World War II was the global conflict fought from September 1, 1939, to September 2, 1945, between the Allied powers (principally the United States, United Kingdom, [[Soviet Union]], France, China, and dozens of allied nations) and the Axis powers ([[Nazi Germany]], [[Japan]], and [[Italy]]). The war killed an estimated 70 to 85 million people, making it the deadliest conflict in human history. It reshaped the political map of [[Europe]] and [[Asia]], ended the European colonial empires, and established the post-war order - including the [[United Nations]], the [[Bretton Woods]] financial system, and the Cold War division of the world between U.S. and Soviet spheres.[^1]

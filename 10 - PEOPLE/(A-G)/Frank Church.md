@@ -1,5 +1,5 @@
----
-category: "Politics & Activism"
+﻿---
+category: "Intelligence & Government"
 tags:
   - Person
   - US_Senate

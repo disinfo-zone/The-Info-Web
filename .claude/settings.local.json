@@ -176,7 +176,8 @@
       "WebFetch(domain:www.smithsonianmag.com)",
       "WebFetch(domain:networks.h-net.org)",
       "WebFetch(domain:thegrayzone.com)",
-      "WebFetch(domain:countyhighway.com)"
+      "WebFetch(domain:countyhighway.com)",
+      "Bash(python3 *)"
     ]
   }
 }

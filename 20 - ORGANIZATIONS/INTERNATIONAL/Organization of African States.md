@@ -1,9 +1,9 @@
----
+﻿---
 tags:
   - Organization
   - International
   - Africa
-category: "International Body"
+category: "International Organization"
 summary: "The Organization of African States (OAS) is a continental organization consisting of the countries of Africa."
 start: 1963
 end: 2002

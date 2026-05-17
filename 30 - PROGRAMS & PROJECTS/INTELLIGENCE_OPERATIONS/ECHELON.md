@@ -1,5 +1,5 @@
----
-category: "Intelligence Programs"
+﻿---
+category: "Intelligence Operation"
 tags:
   - Program
   - NSA
@@ -10,7 +10,7 @@ tags:
   - ColdWar
 summary: "ECHELON was the code name for the global signals intelligence collection and analysis network operated by the Five Eyes intelligence alliance (United States, United Kingdom, Australia, Canada, New Zealand); its existence was publicly confirmed through European Parliament investigations in the late 1990s, revealing a mass surveillance architecture that intercepted civilian telephone, fax, and data communications worldwide."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 ---
 
 ECHELON was the code name applied to the global signals intelligence (SIGINT) collection network operated jointly by the intelligence agencies of the [[Five Eyes]] alliance: the [[NSA|National Security Agency]] (United States), [[GCHQ]] (United Kingdom), [[Australian Signals Directorate]] (Australia), [[Communications Security Establishment]] ([[Canada]]), and [[Government Communications Security Bureau]] (New Zealand). Operating under the legal framework of the [[UKUSA Agreement]] (1946, revised and expanded through the Cold War), ECHELON used a network of ground-based satellite interception stations, undersea cable taps, and radio intercept sites to collect enormous volumes of international communications traffic.[^1]

@@ -1,5 +1,5 @@
----
-category: "North America"
+﻿---
+category: "Country"
 tags:
   - Country
   - Canada

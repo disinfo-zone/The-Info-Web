@@ -1,5 +1,5 @@
----
-category: "Major Conflicts"
+﻿---
+category: "Major Conflict"
 tags:
   - Event
   - Iran
@@ -10,7 +10,7 @@ tags:
   - ColdWar
 summary: "The Iran-Iraq War (1980-1988) was an eight-year conflict in which Western powers, the CIA, and Gulf states covertly supported Saddam Hussein's Iraq while the Reagan administration simultaneously ran secret arms to Iran; the war produced massive casualties, extensive use of chemical weapons against Iranian and Kurdish populations, and the arms procurement networks at the center of the Iran-Contra affair."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 ---
 
 The Iran-Iraq War was an armed conflict fought between [[Iraq]] and [[Iran]] from September 22, 1980, to August 20, 1988. [[Saddam Hussein]]'s Iraqi forces invaded Iran along a broad front following the instability created by the [[Iranian Revolution]] of 1979, which had deposed the Shah [[Mohammad Reza Pahlavi]] and brought the [[Ayatollah Ruhollah Khomeini|Islamic Republic]] to power. The war lasted eight years, killed an estimated 500,000 to one million people, and ended in a UN-brokered ceasefire with no territorial changes. It is among the most costly conflicts of the late twentieth century.[^1]

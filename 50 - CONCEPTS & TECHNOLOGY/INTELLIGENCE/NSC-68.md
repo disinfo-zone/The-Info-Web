@@ -1,4 +1,4 @@
-﻿---
+﻿﻿---
 created: 2026-05-15
 updated: 2026-05-15
 title: NSC-68
@@ -11,7 +11,7 @@ tags:
   - USA
   - 1950s
   - StateDepartment
-category: "Government Document"
+category: "Intelligence Concept"
 summary: "NSC-68 was the April 1950 National Security Council policy document authored by Paul Nitze that argued Soviet military strength required the United States to quadruple defense spending, replacing George Kennan's political containment doctrine with a militarized framework that defined American Cold War strategy for the following decade."
 date: 1950-04-14
 location: "Washington, D.C."
