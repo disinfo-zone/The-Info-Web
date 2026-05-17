@@ -1,4 +1,7 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Kim Philby
 aliases:
   - Kim Philby
   - Harold Adrian Russell Philby
@@ -16,7 +19,7 @@ tags:
   - 1940s
   - 1950s
   - 1960s
-summary: "Kim Philby (1912-1988) was the most damaging member of the Cambridge Five, a KGB agent who penetrated MI6 to its anti-Soviet section chief and CIA liaison, betraying Western intelligence operations for over two decades before defecting to Moscow in 1963."
+summary: "Kim Philby was the most damaging member of the Cambridge Five, a KGB agent who penetrated MI6 to its anti-Soviet section chief and CIA liaison in Washington, directly causing the death or capture of hundreds of Western agents and precipitating James Angleton's decade-long mole hunt paranoia before defecting to Moscow in January 1963."
 born: 1912-01-01
 died: 1988-05-11
 location: "Moscow, Soviet Union"
@@ -46,7 +49,7 @@ Philby deliberately delayed the British response, citing bureaucratic complicati
 
 From 1949 to 1951, Philby served as MI6's liaison officer in [[Washington, D.C.]], working alongside the newly established [[Central Intelligence Agency|CIA]]. This position gave him access to the joint MI6-CIA program of operations against Soviet-occupied states, including Operation Valuable, the 1949-1950 joint effort to insert agents into [[Albania]] to support an anti-Communist resistance movement.
 
-Philby informed Moscow of Operation Valuable's personnel, insertion methods, and timing. The Albanian agents were captured or killed as they arrived. The operation failed completely, with approximately three hundred agents eventually dead or imprisoned. The CIA's Frank Wisner, who ran the program, spent years attributing the failures to bad luck or operational security lapses before the full scope of Philby's betrayal became clear.[^2]
+Philby informed Moscow of Operation Valuable's personnel, insertion methods, and timing. The Albanian agents were captured or killed as they arrived. The operation failed completely, with approximately three hundred agents eventually dead or imprisoned. The CIA's [[Frank Wisner]], who ran the program, spent years attributing the failures to bad luck or operational security lapses before the full scope of Philby's betrayal became clear.[^2]
 
 During his Washington posting, Philby also became aware of the [[Venona]] project - the American-British effort to decrypt intercepted Soviet intelligence communications from the 1940s. He informed Moscow of Venona's existence and progress, enabling the KGB to identify which agents might be exposed by the decrypts and to take protective action.
 

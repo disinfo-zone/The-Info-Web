@@ -168,7 +168,15 @@
       "WebFetch(domain:www.nsarchive.gwu.edu)",
       "WebFetch(domain:history-matters.com)",
       "WebFetch(domain:muse.jhu.edu)",
-      "WebFetch(domain:jfkfacts.org)"
+      "WebFetch(domain:jfkfacts.org)",
+      "WebFetch(domain:irp.fas.org)",
+      "WebFetch(domain:www.thehistoryreader.com)",
+      "WebFetch(domain:www.jns.org)",
+      "WebFetch(domain:www.researchgate.net)",
+      "WebFetch(domain:www.smithsonianmag.com)",
+      "WebFetch(domain:networks.h-net.org)",
+      "WebFetch(domain:thegrayzone.com)",
+      "WebFetch(domain:countyhighway.com)"
     ]
   }
 }
