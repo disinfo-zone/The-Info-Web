@@ -1,11 +1,17 @@
 ---
+title: Hermann F. Eilts
+aliases:
+  - Hermann Eilts
+  - Hermann Frederick Eilts
+created: 2026-05-17
+updated: 2026-05-18
 category: "Intelligence & Government"
 tags:
   - Person
   - Israel
   - Diplomat
-  - Military
-summary: "In a conversation with Kissinger in early November 1973, Eilts was told that the Israelis had 'panicked' on the fourth day of the war (October 9), leading to the decision to assist them."
+  - MiddleEast
+summary: "Hermann F. Eilts (1922-2006) was the U.S. Ambassador to Egypt during the Yom Kippur War and Kissinger shuttle diplomacy era, who later disclosed that Kissinger had withheld information about Israeli nuclear arming until a final meeting in late 1976."
 born: 1922-03-23
 died: 2006-10-12
 location: "Weissenfels, Germany"

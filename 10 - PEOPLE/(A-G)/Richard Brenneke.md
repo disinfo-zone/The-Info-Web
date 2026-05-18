@@ -1,14 +1,19 @@
 ---
+title: Richard Brenneke
+aliases:
+  - Richard Brenneke
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - October_Surprise
-  - Iran_Contra
+  - OctoberSurprise
+  - IranContra
   - BCCI
   - CIA
   - 1980s
   - 1990s
-summary: "Richard Brenneke was a Portland-based arms dealer and self-described CIA contract agent who claimed to have attended the October 1980 October Surprise Paris meetings, was indicted for perjury in 1989 and acquitted in 1990, and served as a document source for Danny Casolaro’s Octopus investigation."
+summary: "Portland-based arms dealer and self-described CIA contract agent who claimed to have attended the October 1980 October Surprise Paris meetings, was indicted for perjury in 1989 and acquitted in 1990, and served as a document source for Danny Casolaro’s Octopus investigation."
 location: "Portland, Oregon"
 ---
 

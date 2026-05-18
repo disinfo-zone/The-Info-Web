@@ -1,11 +1,17 @@
 ---
-category: "Iran-Contra"
+title: William Downing
+aliases:
+  - William Downing
+  - Bill Downing
+created: 2026-05-17
+updated: 2026-05-17
+category: "Organized Crime"
 tags:
   - Person
-  - Contra_War
+  - ContraWar
+  - DarkAllianceInvestigation
   - 1980s
-  - Weapons
-summary: William "Bill" Downing was Ronald Lister's partner in the Mundy Security Group who designed a laser sighting device for AR-15 assault rifles and was involved in procuring weapons sold to Danilo Blandón and crack dealers in Los Angeles.
+summary: "Ronald Lister's partner in the Mundy Security Group who designed a laser sighting device for AR-15 assault rifles and was involved in procuring weapons sold to Danilo Blandón and crack dealers in Los Angeles."
 ---
 William Lee Downing was a partner of [[Ronald Lister]] in the [[Mundy Security Group]], the Laguna Beach security company Lister incorporated in mid-1983. Through this "security business" in high-class Laguna Beach, Downing and Lister procured weapons for [[Danilo Blandon|Danilo Blandón]], who resold them to [[Ricky Ross]] and other crack dealers in South Central Los Angeles.[^1]
 

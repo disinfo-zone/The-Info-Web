@@ -1,12 +1,20 @@
 ---
+title: Alan Fiers
+aliases:
+  - Alan Fiers
+  - Alan Fiers Jr.
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
+  - Intelligence
   - CIA
-  - Contra_War
+  - ContraWar
+  - IranContra
   - 1980s
-summary: Alan Fiers was a former CIA official who ran the Contra program for several years and explained how arms brokers used fraudulent end-user certificates from intermediary countries to divert weapons to the Contras.
+  - DarkAllianceInvestigation
+summary: "Former CIA official who ran the Contra program for several years and explained how arms brokers used fraudulent end-user certificates from intermediary countries to divert weapons to the Contras."
 ---
 Alan Fiers, a former [[Central Intelligence Agency]] official, ran the Contra program for several years. He provided detailed explanation of how the [[Contras]] obtained weapons despite being unable to purchase them on the international arms market, where only countries can buy weapons.[^1]
 

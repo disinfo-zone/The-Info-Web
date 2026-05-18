@@ -1,13 +1,18 @@
 ---
+title: Alan Fenster
+aliases:
+  - Alan Fenster
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
-  - United_States
+  - Lawyer
+  - UnitedStates
   - 1980s
   - 1990s
-  - Dark_Alliance_Investigation
-summary: Beverly Hills defense attorney who represented Ricky Ross throughout his legal troubles, including the DEA reverse sting case.
+  - DarkAllianceInvestigation
+summary: "Beverly Hills defense attorney who represented Ricky Ross throughout his legal troubles, including the DEA reverse sting case."
 ---
 Alan Fenster was a Beverly Hills criminal defense attorney and former prosecutor who represented [[Ricky Ross|"Freeway" Ricky Ross]] throughout his legal troubles.[^1] Fenster first met Ross when Ross was arrested for grand theft auto on March 19, 1982, after LAPD found a Mercedes Benz in his garage with parts that didn't match. Ross dipped into his cash reserves and hired Fenster, a former film studio lawyer who had little trouble getting the auto theft charge tossed out of court.
 

@@ -1,11 +1,18 @@
 ---
+title: Aldous Huxley
 aliases:
-- Aldous Huxley
-category: "Belgium Scandals"
+  - Aldous Huxley
+  - Aldous Leonard Huxley
+created: 2026-05-17
+updated: 2026-05-18
+category: "Authors & Journalists"
 tags:
   - Person
-  - Belgium
-summary: "Aldous Huxley (1894–1963) was a renowned English writer and philosopher, best known for his dystopian novel *Brave New World*."
+  - Author
+  - Parapsychology
+  - Psychedelics
+  - UnitedKingdom
+summary: "Aldous Huxley (1894-1963) was a British author and philosopher whose interest in consciousness and psi led him to document his mescaline experiences in The Doors of Perception (1954) and to visit Andrija Puharich's Round Table Foundation parapsychology research group in 1955."
 born: 1894-07-26
 died: 1963-11-22
 location: "Godalming, Surrey, England"

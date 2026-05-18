@@ -1,14 +1,20 @@
 ---
+title: Francisco Aviles
+aliases:
+  - Francisco Aviles
+  - Francisco Aviles Saenz
+created: 2026-05-17
+updated: 2026-05-18
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
-  - Contra
+  - ContraWar
   - Nicaragua
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Dark_Alliance_Investigation
-summary: U.S.-educated Nicaraguan lawyer and CIA asset who worked closely with the CIA in Costa Rica funneling funds to Contra organizations and was directly involved in the San Francisco Frogman case.
+  - DarkAllianceInvestigation
+summary: "U.S.-educated Nicaraguan lawyer and CIA asset who worked closely with the CIA in Costa Rica funneling funds to Contra organizations and was directly involved in the San Francisco Frogman case."
 ---
 Francisco Aviles Saenz was a U.S.-educated Nicaraguan attorney, [[Central Intelligence Agency]] asset, and [[UDN-FARN]] official who played a central role in the attempt to recover drug money seized during the [[Frogman Case]].[^1]
 

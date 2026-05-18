@@ -1,11 +1,17 @@
 ---
-category: "Law Enforcement & Legal"
+title: Charlie Rose (NC)
+aliases:
+  - Charlie Rose
+  - Charles Grandison Rose III
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
   - Congress
-  - The_Finders
-  - North_Carolina
-  - Democrat
+  - Politician
+  - TheFinders
+  - NorthCarolina
 summary: "Charles Grandison Rose III (1939-2012) was a Democratic congressman from North Carolina who served 24 years and, with Rep. Tom Lewis, received documents from Henry 'Skip' Clements in 1993 and helped pressure the DOJ to reopen the Finders investigation."
 born: 1939-08-10
 died: 2012-09-04

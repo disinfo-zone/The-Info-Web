@@ -1,11 +1,15 @@
 ---
+title: Ben Barnes
+aliases:
+  - Ben Barnes
+created: 2026-05-17
+updated: 2026-05-18
 category: "Intelligence & Government"
 tags:
   - Person
-  - October_Surprise
+  - OctoberSurprise
   - Politician
   - Texas
-  - Reagan
   - 1980s
 summary: "Ben Barnes served as Texas Speaker of the House (1965-1969) and Lieutenant Governor (1969-1973) and in March 2023 publicly disclosed that he accompanied John Connally on a 1980 Middle East trip at which Connally urged Arab leaders to counsel Iran to delay the hostage release until after the election."
 born: 1938-04-17

@@ -1,13 +1,20 @@
 ---
+title: Fabio Ernesto Carrasco
+aliases:
+  - Fabio Ernesto Carrasco
+  - Tito Carrasco
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Person/Drug_Trafficker
+  - DrugTrafficker
   - Pilot
   - 1980s
-  - Contra_War
-  - Congressional_Testimony
-summary: Fabio Ernesto "Tito" Carrasco was a pilot who flew CIA-protected weapons and drug flights for the Contras between Colombia, Costa Rica, and Florida, testifying under oath as a U.S. government witness.
+  - ContraWar
+  - CongressionalTestimony
+  - DarkAllianceInvestigation
+summary: "Pilot who flew CIA-protected weapons and drug flights for the Contras between Colombia, Costa Rica, and Florida, testifying under oath as a U.S. government witness."
 ---
 
 ### Drug Flights for the Contras

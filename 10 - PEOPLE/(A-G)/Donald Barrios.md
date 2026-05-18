@@ -1,13 +1,19 @@
 ---
-category: "Iran-Contra"
+title: Donald Barrios
+aliases:
+  - Donald Barrios
+created: 2026-05-17
+updated: 2026-05-18
+category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Contra
   - Nicaragua
-  - United_States
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Wealthy Nicaraguan exile, FDN supporter, and relative of former president Violeta Barrios de Chamorro who introduced Norwin Meneses to Danilo Blandon and co-founded La Parrilla restaurant in Miami as a Contra gathering place.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Wealthy Nicaraguan exile, FDN supporter, and relative of former president Violeta Barrios de Chamorro who introduced Norwin Meneses to Danilo Blandon and co-founded La Parrilla restaurant in Miami as a Contra gathering place."
+location: "Miami, Florida"
 ---
 Donald Barrios was a wealthy former insurance broker from Managua living in Miami who was a relative of former Nicaraguan president Violeta Barrios de Chamorro. He was an active [[FDN]] supporter and played a connecting role among Contra-linked drug traffickers in Miami.[^1]
 

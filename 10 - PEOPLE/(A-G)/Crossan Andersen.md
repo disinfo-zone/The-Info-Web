@@ -1,12 +1,17 @@
 ---
+title: Crossan Andersen
+aliases:
+  - Crossan Andersen
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
-  - United_States
+  - LawEnforcement
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Federal prosecutor in Los Angeles who took the Danilo Blandon case to the Organized Crime Drug Enforcement Task Force and described it as "a sensitive matter" involving CIA allegations.
+  - DarkAllianceInvestigation
+summary: "Federal prosecutor in Los Angeles who took the Danilo Blandon case to the Organized Crime Drug Enforcement Task Force and described it as 'a sensitive matter' involving CIA allegations."
 ---
 Crossan Andersen was a federal prosecutor in the Los Angeles U.S. Attorney's office who agreed to take the [[Danilo Blandon|BlandÃ³n]]-[[Norwin Meneses|Meneses]] drug case to the Organized Crime Drug Enforcement Task Force (OCDETF) in November 1986.[^1]
 

@@ -1,12 +1,18 @@
 ---
+title: Ian Fleming
+aliases:
+  - Ian Fleming
+  - Ian Lancaster Fleming
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - British_Security_Coordination
+  - BritishSecurityCoordination
   - Intelligence
   - Author
-  - World_War_II
-  - Naval_Intelligence
+  - WorldWarII
+  - NavalIntelligence
 summary: "Ian Fleming (1908-1964) served as assistant to the director of British Naval Intelligence during World War II, organized the 30 Assault Unit commando intelligence unit, and was a figure in the BSC network whose wartime experience provided source material for his James Bond novels."
 born: 1908-05-28
 died: 1964-08-12

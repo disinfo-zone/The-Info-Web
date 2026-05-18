@@ -1,14 +1,19 @@
 ---
-category: "Organized Crime"
+title: Robert Byck
+aliases:
+  - Robert Byck
+  - Dr. Robert Byck
+created: 2026-05-17
+updated: 2026-05-17
+category: "Academia & Research"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - United_States
-  - Los_Angeles
+  - Academic
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Yale University cocaine expert who warned Congress in 1979 about an impending freebase cocaine epidemic, was ignored, and returned in 1986 to criticize the government's failure to act.
-born: 1933
+  - DarkAllianceInvestigation
+summary: "Yale University cocaine expert who warned Congress in 1979 about an impending freebase cocaine epidemic, was ignored, and returned in 1986 to criticize the government's failure to act."
+born: 1933-01-01
 died: 1999-08-09
 location: "Newark, New Jersey"
 ---

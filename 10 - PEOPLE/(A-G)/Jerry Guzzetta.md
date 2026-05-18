@@ -1,14 +1,19 @@
 ---
+title: Jerry Guzzetta
+aliases:
+  - Jerry Guzzetta
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
-  - United_States
-  - Los_Angeles
+  - LawEnforcement
+  - UnitedStates
+  - LosAngeles
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Bell Police Department narcotics detective whose personal vendetta against drug dealers led to the Torres brothers investigation, codenamed Project Sahara, which uncovered the massive Blandon-Ross cocaine network.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Bell Police Department narcotics detective whose personal vendetta against drug dealers led to the Torres brothers investigation, codenamed Project Sahara, which uncovered the massive Blandon-Ross cocaine network."
 ---
 Jerry Guzzetta was a narcotics detective with the Bell Police Department in Bell, [[Los Angeles|California]], a small suburb where gangster Mickey Cohen once operated. His one-man anti-narcotics campaign produced impressive results and earned him a glowing profile in the [[Los Angeles Times]] in November 1985 for taking down a large Colombian trafficking ring. Some fellow officers regarded him as a loose cannon and publicity hound, but friends said his zeal was driven by personal tragedy.[^1]
 

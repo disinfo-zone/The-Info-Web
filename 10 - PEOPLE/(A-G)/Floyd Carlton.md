@@ -1,14 +1,21 @@
 ---
+title: Floyd Carlton
+aliases:
+  - Floyd Carlton
+  - Floyd Carlton Caceres
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Person/Drug_Trafficker
+  - DrugTrafficker
   - Pilot
   - Panama
   - 1980s
-  - Contra_War
-  - Congressional_Testimony
-summary: Floyd Carlton Caceres was Manuel Noriega's personal pilot and drug operations manager who became the U.S. government's star witness against Noriega after sharing evidence of the dictator's drug trafficking with murdered doctor Hugo Spadafora.
+  - ContraWar
+  - CongressionalTestimony
+  - DarkAllianceInvestigation
+summary: "Manuel Noriega's personal pilot and drug operations manager who became the U.S. government's star witness against Noriega after sharing evidence of the dictator's drug trafficking with murdered doctor Hugo Spadafora."
 ---
 Floyd Carlton Caceres served as [[Panama|Panamanian]] dictator [[Manuel Noriega]]'s personal pilot and ran his drug transportation network. Carlton also managed the drug operation's logistics, flying cocaine and moving money between the United States and Panama. The operation unraveled when Carlton lost $1.8 million in cash entrusted to him by [[Colombia|Colombian]] drug lords to fly from [[Los Angeles]] to [[Panama City]]; he had delegated the task to an underling who absconded with the money.[^1]
 

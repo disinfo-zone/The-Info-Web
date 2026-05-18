@@ -1,9 +1,14 @@
 ---
+title: Walter Kreitlow
+aliases:
+  - Walter Kreitlow
+created: 2026-05-17
+updated: 2026-05-18
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - US_Customs
-  - The_Finders
+  - USCustoms
+  - TheFinders
   - Florida
   - 1980s
 summary: "Walter Kreitlow was the U.S. Customs Special Agent in Tallahassee who filed the first Customs Service report on the Finders investigation on February 12, 1987, documenting his agency's entry into the case following the February 4 child welfare arrests."

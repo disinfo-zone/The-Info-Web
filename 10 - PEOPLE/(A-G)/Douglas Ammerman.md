@@ -1,9 +1,17 @@
 ---
-category: "Other"
+title: Douglas Ammerman
+aliases:
+  - Douglas Ammerman
+  - Douglas Edward Ammerman
+  - Kenny Rogers
+  - Earnest Angel
+created: 2026-05-17
+updated: 2026-05-17
+category: "Crime Investigation"
 tags:
   - Person
-  - The_Finders
-  - Washington_DC
+  - TheFinders
+  - WashingtonDC
   - 1980s
 summary: "Douglas Edward Ammerman was one of two Finders members arrested in Tallahassee on February 4, 1987 while transporting six malnourished children in a van, charged with misdemeanor child abuse and later released when all charges were dropped in March 1987."
 location: "Washington, D.C."

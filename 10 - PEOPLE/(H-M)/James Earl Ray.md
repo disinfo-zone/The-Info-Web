@@ -16,11 +16,11 @@ died: 1998-04-23
 location: "Memphis, Tennessee / Nashville, Tennessee (imprisoned)"
 ---
 
-James Earl Ray (March 10, 1928 - April 23, 1998) was a career criminal from Illinois who was convicted of the murder of [[Martin Luther King Jr.]] in [[Memphis, Tennessee|Memphis]] on April 4, 1968. Ray pleaded guilty on March 10, 1969, was sentenced to ninety-nine years in prison, recanted the plea three days later, and spent the remaining twenty-nine years of his life claiming to have been set up by a conspiracy he could never fully document. He died in prison of hepatitis C complications on April 23, 1998.[^1]
+James Earl Ray (March 10, 1928 - April 23, 1998) was a career criminal from Illinois who was convicted of the murder of [[Martin Luther King Jr.]] in [[Memphis, Tennessee|Memphis]] on April 4, 1968. Ray pleaded guilty on March 10, 1969, was sentenced to ninety-nine years in prison, recanted the plea three days later, and spent the remaining twenty-nine years of his life claiming to have been set up by a conspiracy. He died in prison of hepatitis C complications on April 23, 1998.[^1]
 
 ### Background
 
-Ray was born in Alton, Illinois, to a family with a criminal history. He served in the U.S. Army after World War II, was discharged for incompetence in 1948, and entered a career of small-time robbery and burglary. He was convicted of multiple felonies and was serving a twenty-year sentence at the Missouri State Penitentiary when he escaped on April 23, 1967 - concealing himself inside a bread box. He was one of the few prisoners ever to escape from that maximum-security facility.
+Ray was born in Alton, Illinois, to a family with a criminal history. He served in the [[U.S. Army]] after World War II, was discharged for incompetence in 1948, and entered a career of small-time robbery and burglary. He was convicted of multiple felonies and was serving a twenty-year sentence at the [[[Missouri State Penitentiary]] when he escaped on April 23, 1967 - concealing himself inside a bread box. He was one of the few prisoners ever to escape from that maximum-security facility.
 
 After his escape, Ray traveled to [[Chicago]], [[Montreal]], [[Birmingham, Alabama|Birmingham]], and [[Los Angeles]] under various aliases, apparently supporting himself through a grocery store robbery in [[Illinois]] and through drug smuggling on the [[Mexico]]-California border. He had no obvious source of legitimate income and no documented associates who could explain his travel or housing expenses during this period.[^1]
 

@@ -1,13 +1,17 @@
 ---
+title: Roald Dahl
+aliases:
+  - Roald Dahl
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - British_Security_Coordination
+  - BritishSecurityCoordination
   - Intelligence
   - Author
-  - World_War_II
-  - Washington_DC
-  - Charles_Marsh
+  - WorldWarII
+  - WashingtonDC
 summary: "Roald Dahl (1916-1990), best known as a children's author, served as a BSC influence agent in Washington D.C. from 1942 to 1944, penetrating senior American political circles through his relationship with journalist Charles Marsh and later contributing to the official BSC history."
 born: 1916-09-13
 died: 1990-11-23

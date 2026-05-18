@@ -1,8 +1,15 @@
 ---
+title: Henry Skip Clements
+aliases:
+  - Henry Skip Clements
+  - Henry T. Clements
+  - Skip Clements
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - The_Finders
+  - TheFinders
   - Florida
   - 1990s
 summary: "Henry T. 'Skip' Clements was a private consultant in Stuart, Florida who obtained copies of U.S. Customs Agent Ramon Martinez's 1987 reports on The Finders and brought them to Congress in October 1993, helping trigger the DOJ reinvestigation of the case."

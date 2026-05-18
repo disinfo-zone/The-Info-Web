@@ -1,13 +1,18 @@
 ---
-category: "Iran-Contra"
+title: Julio Bonilla
+aliases:
+  - Julio Bonilla
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
   - Contra
   - Nicaragua
-  - San_Francisco
+  - SanFrancisco
   - 1980s
-  - Dark_Alliance_Investigation
-summary: FDN coordinator in San Francisco who connected Contra supporters with the organization's leadership.
+  - DarkAllianceInvestigation
+summary: "FDN coordinator in San Francisco who connected Contra supporters with the organization's leadership."
 ---
 Julio Bonilla was the local coordinator of the [[FDN]] in San Francisco.[^1] Bonilla connected [[Dennis Ainsworth]] with the Contra support network after meeting him at a seminar at the Sir Francis Drake Hotel in February 1984. About three weeks later, Bonilla invited Ainsworth to an informal gathering at a house on Colon Avenue to meet [[Nicaragua|Nicaraguan]] supporters who had helped organize the seminar. This gathering introduced Ainsworth to [[Don Sinicco]] and the group that would become [[USACA]]. According to one published source, [[Norwin Meneses]] helped finance the seminar at the Drake.
 

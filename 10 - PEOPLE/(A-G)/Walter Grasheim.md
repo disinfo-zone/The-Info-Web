@@ -1,13 +1,20 @@
 ---
+title: Walter Grasheim
+aliases:
+  - Walter Grasheim
+  - Wally Grasheim
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - Person/Intelligence
-  - El_Salvador
+  - DrugTrafficker
+  - Intelligence
+  - ElSalvador
   - 1980s
-  - Contra_War
-summary: New York weapons dealer and U.S. military contractor raided by DEA agent Celerino Castillo, who was found with embassy plates, C-4 explosives, and a massive weapons cache.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "New York weapons dealer and U.S. military contractor raided by DEA agent Celerino Castillo, who was found with embassy plates, C-4 explosives, and a massive weapons cache."
 ---
 Walter "Wally" Grasheim was a New York weapons dealer and U.S. military contractor based in [[San Salvador]], [[El Salvador]], who was raided by [[DEA]] agent [[Celerino Castillo]] on September 1, 1986. The raid uncovered a massive weapons cache, U.S. Embassy license plates and IDs, and evidence linking Grasheim to the Contra operation at [[Ilopango Airbase|Ilopango Air Force Base]].[^1]
 

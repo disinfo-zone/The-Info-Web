@@ -1,14 +1,20 @@
 ---
+title: Leroy Brown
+aliases:
+  - Leroy Brown
+  - Chico Brown
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
-  - United_States
-  - Street_Gang
+  - DrugTrafficker
+  - UnitedStates
+  - StreetGang
   - 1980s
   - 1990s
-  - Dark_Alliance_Investigation
-summary: Corner Pocket Crip and Compton crack dealer who became a business partner of Ricky Ross.
+  - DarkAllianceInvestigation
+summary: "Corner Pocket Crip and Compton crack dealer who became a business partner of Ricky Ross."
 ---
 Leroy "Chico" Brown was a Corner Pocket Crip and major [[Compton]] [[Crack Cocaine|crack]] dealer who became a business partner of [[Ricky Ross|"Freeway" Ricky Ross]].[^1] Brown pleaded guilty to drug charges in [[San Diego]] in 1996 and was serving an eleven-year sentence.[^2]
 

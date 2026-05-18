@@ -1,13 +1,19 @@
 ---
+title: Humberto Cardona
+aliases:
+  - Humberto Cardona
+  - El Fruco
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Colombia
-  - United_States
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Colombian cocaine kingpin extradited to the United States in 1985 who continued supplying the South Central Los Angeles crack market through the Meneses-Blandon network while jetting around the world.
+  - DarkAllianceInvestigation
+summary: "Colombian cocaine kingpin extradited to the United States in 1985 who continued supplying the South Central Los Angeles crack market through the Meneses-Blandon network while jetting around the world."
 ---
 Humberto Cardona, known as "El Fruco," was one of [[Colombia]]'s better-known cocaine traffickers whose extradition to the United States in late 1985 was international news, hailed as a sign of increasing cooperation between the Colombian and U.S. governments.[^1]
 

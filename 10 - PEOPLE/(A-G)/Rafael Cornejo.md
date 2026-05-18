@@ -1,15 +1,20 @@
 ---
+title: Rafael Cornejo
+aliases:
+  - Rafael Cornejo
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Nicaragua
-  - United_States
+  - UnitedStates
   - 1970s
   - 1980s
   - 1990s
-  - Dark_Alliance_Investigation
-summary: Norwin Meneses's nephew and distributor in the San Francisco Bay Area since the mid-1970s whose territory stretched to Portland, Oregon, convicted of income tax evasion in 1985 and cocaine trafficking in 1996.
+  - DarkAllianceInvestigation
+summary: "Norwin Meneses's nephew and distributor in the San Francisco Bay Area since the mid-1970s whose territory stretched to Portland, Oregon, convicted of income tax evasion in 1985 and cocaine trafficking in 1996."
 ---
 Rafael Cornejo was a major [[cocaine]] trafficker in the [[San Francisco]] Bay Area and a distributor for [[Norwin Meneses]] since the mid-1970s.[^2] His trafficking territory stretched from the Bay Area to Portland, Oregon. His father had been a sergeant in [[Anastasio Somoza|Somoza]]'s National Guard. Cornejo was at the center of the legal case that brought the [[Dark Alliance]] story to [[Gary Webb]]'s attention.[^1] Cornejo said of Meneses: "You can say what you want about that man, but his heart and soul was into the movement, and that was his priority more than anything else. It's kind of hard to be kicked out of your own country and that's what his passion was. He was straight-up pro-Somocista."[^3]
 

@@ -1,11 +1,16 @@
 ---
+title: Donald Gregg
+aliases:
+  - Donald Gregg
+  - Donald Phinney Gregg
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
-  - October_Surprise
-  - Iran_Contra
-  - Bush
+  - OctoberSurprise
+  - IranContra
   - NSC
   - Korea
   - 1980s

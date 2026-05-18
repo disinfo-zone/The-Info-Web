@@ -1,12 +1,15 @@
 ﻿---
+title: Paul Bonacci
+aliases:
+  - Paul Bonacci
+created: 2026-05-17
+updated: 2026-05-17
 category: "Crime Investigation"
 tags:
   - Person
   - Nebraska
-  - Franklin_Scandal
-  - Lawrence_King
-  - Craig_Spence
-  - Child_Abuse
+  - FranklinScandal
+  - ChildAbuse
   - 1980s
   - 1990s
 summary: "Paul Bonacci was the principal claimant in the Franklin Credit Union abuse allegations, alleging Lawrence King Jr. transported him to Washington D.C. for abuse at Craig Spence-arranged parties from approximately 1981, and won a 1999 federal civil default judgment of $1 million against King."

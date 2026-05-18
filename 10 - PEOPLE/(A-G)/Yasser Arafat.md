@@ -1,12 +1,18 @@
 ---
+title: Yasser Arafat
+aliases:
+  - Yasser Arafat
+  - Yasser Arafat al-Qudwa
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - Palestine
   - PLO
   - Fatah
-  - Middle_East
-  - Oslo_Accords
+  - MiddleEast
+  - OsloAccords
   - 1960s
   - 1970s
   - 1980s

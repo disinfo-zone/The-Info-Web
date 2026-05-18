@@ -1,11 +1,18 @@
 ---
+title: William J. Donovan
+aliases:
+  - William J. Donovan
+  - Wild Bill Donovan
+  - William Joseph Donovan
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - OSS
   - CIA
-  - World_War_II
-  - British_Security_Coordination
+  - WorldWarII
+  - BritishSecurityCoordination
   - Intelligence
 summary: "General William 'Wild Bill' Donovan (1883-1959) was the founder and director of the OSS (1942-1945), building it on British Security Coordination templates and establishing the covert operations culture the CIA inherited after Truman dissolved the OSS."
 born: 1883-01-01

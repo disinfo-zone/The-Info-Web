@@ -1,11 +1,16 @@
 ---
+title: George Pettie
+aliases:
+  - George Pettie
+created: 2026-05-17
+updated: 2026-05-18
 category: "Intelligence & Government"
 tags:
   - Person
-  - Air_America
+  - AirAmerica
   - CIA
-  - The_Finders
-  - Vietnam_War
+  - TheFinders
+  - VietnamWar
 summary: "George Pettie is the son of Marion Pettie, founder of The Finders, and a confirmed former employee of Air America, the CIA proprietary airline in Southeast Asia, as acknowledged by his father in a 1993 interview with U.S. News & World Report."
 location: "Northern Virginia"
 ---

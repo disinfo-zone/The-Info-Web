@@ -1,13 +1,18 @@
 ---
-category: "Military"
+title: Ira Eaker
+aliases:
+  - Ira Eaker
+  - Ira Clarence Eaker
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
   - Military
-  - Air_Force
-  - World_War_II
+  - AirForce
+  - WorldWarII
   - Intelligence
-  - The_Finders
-  - Hughes_Aircraft
+  - TheFinders
 summary: "General Ira Eaker (1896-1987) commanded the 8th Air Force's strategic bombing over Europe and the Mediterranean Allied Air Forces, then served as a Hughes Aircraft executive, and appears in unverified Finders-related memos as a connection through whom Marion Pettie received intelligence training."
 born: 1896-04-13
 died: 1987-08-06

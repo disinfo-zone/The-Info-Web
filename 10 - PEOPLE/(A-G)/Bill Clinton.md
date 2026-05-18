@@ -1,10 +1,17 @@
 ---
-category: "Psychics & Remote Viewers"
+title: Bill Clinton
+aliases:
+  - Bill Clinton
+  - William Jefferson Clinton
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
-  - RemoteViewer
-  - Stargate
-  - Dark_Alliance_Investigation
+  - Politician
+  - DarkAllianceInvestigation
+  - ContraWar
+  - Arkansas
 summary: "William Jefferson 'Bill' Clinton was the 42nd President of the United States (1993-2001) and Governor of Arkansas during the period when Barry Seal operated his CIA-connected cocaine smuggling operation at Mena airport."
 born: 1946-08-19
 location: "Hope, Arkansas"

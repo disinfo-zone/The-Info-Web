@@ -1,13 +1,18 @@
 ---
+title: Craig Chretien
+aliases:
+  - Craig Chretien
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
+  - LawEnforcement
   - DEA
-  - United_States
+  - UnitedStates
   - 1990s
-  - Dark_Alliance_Investigation
-summary: DEA Special Agent in Charge of the San Diego regional office who met with Gary Webb in October 1995 in an attempt to dissuade him from publishing the Dark Alliance story, and who was later promoted to head the DEA's International Division.
+  - DarkAllianceInvestigation
+summary: "DEA Special Agent in Charge of the San Diego regional office who met with Gary Webb in October 1995 in an attempt to dissuade him from publishing the Dark Alliance story, and who was later promoted to head the DEA's International Division."
 ---
 Craig Chretien was a [[DEA]] Special Agent in Charge of the National City regional office south of [[San Diego]] who attempted to persuade [[Gary Webb]] to alter or suppress his [[Dark Alliance]] investigation in October 1995.[^1]
 

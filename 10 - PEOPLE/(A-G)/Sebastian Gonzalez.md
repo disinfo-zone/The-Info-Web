@@ -1,12 +1,20 @@
 ---
+title: Sebastian Gonzalez
+aliases:
+  - Sebastian Gonzalez
+  - Sebastian Gonzalez Mendieta
+  - Guachan
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - Contra_War
+  - DrugTrafficker
+  - ContraWar
   - 1980s
-  - Costa_Rica
-summary: Sebastian "Guachan" Gonzalez was a CIA-linked Contra quartermaster who managed arms flights from Panama to the Costa Rican Contras while simultaneously running a major cocaine trafficking operation with Norwin Meneses.
+  - CostaRica
+  - DarkAllianceInvestigation
+summary: "CIA-linked Contra quartermaster who managed arms flights from Panama to the Costa Rican Contras while simultaneously running a major cocaine trafficking operation with Norwin Meneses."
 ---
 Sebastian "Guachan" Gonzalez was a charismatic and intelligent smuggler who worked for the [[Central Intelligence Agency]] since 1983 as the Panamanian quartermaster for all the Costa Rican [[Contras|Contra]] armies, arranging supplies and deliveries from Manuel Noriega's armed forces. He was "a personal friend of Manuel Noriega since high school years. His job was to manage the arms flights from Panama to the [[ARDE]] forces in Costa Rica," ARDE commander [[Eden Pastora]] said.[^1]
 

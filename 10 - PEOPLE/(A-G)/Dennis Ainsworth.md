@@ -1,13 +1,17 @@
 ---
+title: Dennis Ainsworth
+aliases:
+  - Dennis Ainsworth
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Politician
-  - United_States
-  - Contra_War
+  - UnitedStates
+  - ContraWar
   - 1980s
-  - Dark_Alliance_Investigation
-summary: San Francisco Contra supporter and Republican activist who discovered the FDN's cocaine trafficking connections and alerted the FBI, only to be ignored.
+  - DarkAllianceInvestigation
+summary: "San Francisco Contra supporter and Republican activist who discovered the FDN's cocaine trafficking connections and alerted the FBI, only to be ignored."
 ---
 Dennis Ainsworth was a former San Francisco-area economics professor, staunch conservative, and Republican party stalwart who became deeply involved in Contra support activities starting in late 1983.[^1] His discovery of the FDN's cocaine trafficking connections led him to the FBI, which took no action.
 

@@ -1,13 +1,19 @@
 ---
-category: "Iran-Contra"
+title: Fernando Chamorro
+aliases:
+  - Fernando Chamorro
+  - El Negro Chamorro
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
   - Contra
   - Nicaragua
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Commander of UDN-FARN, an early Contra faction based in Costa Rica, a former Sandinista whose army included Cuban-American drug traffickers, and who was approached by Norwin Meneses about hauling cocaine.
+  - DarkAllianceInvestigation
+summary: "Commander of UDN-FARN, an early Contra faction based in Costa Rica, a former Sandinista whose army included Cuban-American drug traffickers, and who was approached by Norwin Meneses about hauling cocaine."
 ---
 Fernando "El Negro" Chamorro was the commander of [[UDN-FARN]], an early [[Contras|Contra]] faction based in [[Costa Rica]]. A former [[Sandinistas|Sandinista]] who turned against the revolution, Chamorro was an alcoholic whose army was described as teeming with [[Cuba|Cuban]]-American drug traffickers, terrorists, and assorted other ne'er-do-wells.[^2]
 

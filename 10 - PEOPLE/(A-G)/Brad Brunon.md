@@ -1,13 +1,19 @@
 ---
+title: Brad Brunon
+aliases:
+  - Brad Brunon
+  - Bradley Brunon
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
-  - United_States
+  - Lawyer
+  - UnitedStates
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Los Angeles attorney who represented Danilo BlandÃ³n and provided firsthand observations about Contra fundraising through cocaine trafficking.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Los Angeles attorney who represented Danilo Blandon and provided firsthand observations about Contra fundraising through cocaine trafficking."
 ---
 Bradley Brunon was a Los Angeles attorney who represented [[Danilo Blandon|Danilo BlandÃ³n]] throughout his legal troubles and provided firsthand observations about the intersection of Contra fundraising and cocaine trafficking in the early 1980s.[^1]
 

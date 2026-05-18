@@ -5,7 +5,7 @@ aliases:
   - Santovito
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence"
+category: "Intelligence & Government"
 tags:
   - Person
   - Italy

@@ -1,13 +1,19 @@
 ---
+title: Alexandre de Marenches
+aliases:
+  - Alexandre de Marenches
+  - Count de Marenches
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - France
   - SDECE
   - DGSE
-  - October_Surprise
-  - Safari_Club
-  - Cold_War
+  - OctoberSurprise
+  - SafariClub
+  - ColdWar
   - CIA
   - 1970s
   - 1980s

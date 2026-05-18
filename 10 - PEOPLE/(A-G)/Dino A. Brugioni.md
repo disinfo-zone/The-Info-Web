@@ -1,9 +1,19 @@
 ---
-category: "Belgium Scandals"
+title: Dino A. Brugioni
+aliases:
+  - Dino Brugioni
+  - Dino A. Brugioni
+created: 2026-05-17
+updated: 2026-05-18
+category: "Intelligence & Government"
 tags:
   - Person
-  - Belgium
-summary: "Brugioni recalled seeing the first signs of what would become the Israeli nuclear reactor at Dimona."
+  - CIA
+  - PhotoIntelligence
+  - Israel
+  - ColdWar
+  - NuclearWeapons
+summary: "Dino A. Brugioni (1921-2015) was a CIA photo intelligence officer who analyzed U-2 reconnaissance imagery and identified early evidence of the Israeli nuclear reactor at Dimona in the late 1950s, noting that senior officials chose to look the other way."
 born: 1921-12-16
 died: 2015-09-25
 location: "Bevier, Missouri"

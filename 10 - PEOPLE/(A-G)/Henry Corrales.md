@@ -1,13 +1,19 @@
 ---
+title: Henry Corrales
+aliases:
+  - Henry Corrales
+created: 2026-05-17
+updated: 2026-05-18
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Nicaragua
-  - United_States
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Nicaraguan cocaine trafficker who served as the intermediary between Danilo Blandón and Ricky Ross after Ivan Arguellas was paralyzed.
+  - DarkAllianceInvestigation
+summary: "Nicaraguan cocaine trafficker who served as the intermediary between Danilo Blandón and Ricky Ross after Ivan Arguellas was paralyzed."
+location: "Los Angeles, California"
 ---
 Henry Corrales was a Nicaraguan exile and cocaine trafficker who served as the intermediary between [[Danilo Blandon|Danilo Blandón]] and [[Ricky Ross|"Freeway" Ricky Ross]], becoming Ross's second supplier after Ivan Arguellas was paralyzed.[^1] Corrales was Ivan Arguellas's brother-in-law and took over the business when Ivan was hospitalized.
 

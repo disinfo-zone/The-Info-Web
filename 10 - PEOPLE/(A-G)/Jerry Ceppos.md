@@ -1,12 +1,17 @@
 ---
+title: Jerry Ceppos
+aliases:
+  - Jerry Ceppos
+created: 2026-05-17
+updated: 2026-05-17
 category: "Authors & Journalists"
 tags:
   - Person
   - Journalist
-  - United_States
+  - UnitedStates
   - 1990s
-  - Dark_Alliance_Investigation
-summary: Executive editor of the San Jose Mercury News who initially championed the Dark Alliance series before publishing a column describing shortcomings in the reporting, effectively ending the investigation.
+  - DarkAllianceInvestigation
+summary: "Executive editor of the San Jose Mercury News who initially championed the Dark Alliance series before publishing a column describing shortcomings in the reporting, effectively ending the investigation."
 born: 1946-10-14
 died: 2022-07-29
 location: "Washington, D.C."

@@ -1,12 +1,17 @@
 ---
+title: Gary Caradori
+aliases:
+  - Gary Caradori
+created: 2026-05-17
+updated: 2026-05-18
 category: "Law Enforcement & Legal"
 tags:
   - Person
   - Nebraska
-  - Franklin_Scandal
+  - FranklinScandal
   - Investigation
-  - 1989
-  - 1990
+  - 1980s
+  - 1990s
 summary: "Gary Caradori was a private investigator hired by the Nebraska Legislature's Franklin Committee to investigate Franklin Credit Union abuse allegations who died July 11, 1990 when his aircraft broke apart over Lee County, Illinois, shortly after collecting what he described as significant new evidence."
 died: 1990-07-11
 location: "Omaha, Nebraska"

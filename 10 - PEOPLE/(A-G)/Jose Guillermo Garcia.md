@@ -1,14 +1,19 @@
 ---
+title: Jose Guillermo Garcia
+aliases:
+  - Jose Guillermo Garcia
+  - José Guillermo García
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Military
-  - Person/Intelligence
-  - El_Salvador
+  - Military
+  - ElSalvador
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Salvadoran defense minister linked to death squad activities who received Pyramid International's security proposal in 1982.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Salvadoran defense minister linked to death squad activities who received Pyramid International's security proposal in 1982."
 born: 1933-06-25
 location: "El Salvador"
 ---

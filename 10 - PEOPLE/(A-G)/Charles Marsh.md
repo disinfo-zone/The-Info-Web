@@ -1,12 +1,17 @@
 ---
+title: Charles Marsh
+aliases:
+  - Charles Marsh
+  - Charles Edward Marsh
+created: 2026-05-17
+updated: 2026-05-18
 category: "Intelligence & Government"
 tags:
   - Person
   - Intelligence
-  - LBJ
-  - British_Security_Coordination
-  - Washington_DC
-  - World_War_II
+  - BritishSecurityCoordination
+  - WashingtonDC
+  - WorldWarII
   - Media
 summary: "Charles Edward Marsh (1887-1964) was a Texas newspaper publisher and early patron of Lyndon Johnson who served as a documented conduit for British Security Coordination intelligence operations in wartime Washington D.C."
 born: 1887-01-07

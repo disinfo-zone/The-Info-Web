@@ -1,13 +1,19 @@
 ---
+title: John DeCamp
+aliases:
+  - John DeCamp
+  - John W. DeCamp
+created: 2026-05-17
+updated: 2026-05-18
 category: "Law Enforcement & Legal"
 tags:
   - Person
   - Nebraska
-  - Franklin_Scandal
-  - Vietnam_War
+  - FranklinScandal
+  - VietnamWar
   - CIA
-  - The_Finders
-  - Attorney
+  - TheFinders
+  - Lawyer
   - Politician
 summary: "John W. DeCamp (1941-2017) was a Nebraska state senator and attorney who published 'The Franklin Cover-Up' (1992) arguing the Franklin Credit Union abuse allegations were genuine and suppressed, drawing on his close personal relationship with former CIA Director William Colby who had been his superior in Vietnam."
 born: 1941-07-06

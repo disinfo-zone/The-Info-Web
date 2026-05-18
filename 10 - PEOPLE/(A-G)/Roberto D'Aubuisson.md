@@ -1,14 +1,19 @@
 ---
+title: Roberto D'Aubuisson
+aliases:
+  - Roberto D'Aubuisson
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Politician
-  - Person/Military
-  - El_Salvador
+  - Politician
+  - Military
+  - ElSalvador
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Salvadoran army major and ARENA party leader who ran death squads during El Salvador's civil war, linked to weapons deals with Ronald Lister's operations.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Salvadoran army major and ARENA party leader who ran death squads during El Salvador's civil war, linked to weapons deals with Ronald Lister's operations."
 born: 1943-08-23
 died: 1992-02-20
 location: "Santa Tecla, El Salvador"

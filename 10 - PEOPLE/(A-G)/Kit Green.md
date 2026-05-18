@@ -1,4 +1,10 @@
 ---
+title: Kit Green
+aliases:
+  - Kit Green
+  - Christopher Green
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
@@ -10,7 +16,7 @@ tags:
   - UAP
   - Esalen
   - AATIP
-  - Life_Sciences
+  - LifeSciences
 summary: "Christopher 'Kit' Green was a CIA physician who served as the agency's principal liaison for the SRI remote viewing program from 1972, including handling Uri Geller during the 1972-1973 tests, and later contributed to the AATIP program and published research on UAP encounter injuries."
 ---
 

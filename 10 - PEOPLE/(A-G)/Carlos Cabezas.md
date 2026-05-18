@@ -1,14 +1,20 @@
 ---
+title: Carlos Cabezas
+aliases:
+  - Carlos Cabezas
+  - Carlos Augusto Cabezas Ramirez
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Contra
   - Nicaragua
-  - San_Francisco
+  - SanFrancisco
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Nicaraguan cocaine trafficker in San Francisco who testified that drug profits from the Meneses organization were going to the Contras, was convicted in the Frogman Case, and in 1996 admitted on the record to delivering millions in drug money to the Contras.
+  - DarkAllianceInvestigation
+summary: "Nicaraguan cocaine trafficker in San Francisco who testified that drug profits from the Meneses organization were going to the Contras, was convicted in the Frogman Case, and in 1996 admitted on the record to delivering millions in drug money to the Contras."
 ---
 Carlos Augusto Cabezas Ramirez was a [[Nicaragua|Nicaraguan]] exile, former [[Nicaraguan National Guard|National Guard]] fighter pilot, lawyer, accountant, and banker who became a cocaine dealer for [[Julio Zavala]]'s drug organization in [[San Francisco]]. As a U.S. government witness, Cabezas testified that his drug profits were going to [[Contras|Contra]] organizations in [[Costa Rica]].[^1]
 

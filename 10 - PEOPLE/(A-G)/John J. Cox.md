@@ -1,10 +1,15 @@
 ---
+title: John J. Cox
+aliases:
+  - John J. Cox
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - The_Finders
-  - Washington_DC
-  - Computer_Operations
+  - TheFinders
+  - WashingtonDC
+  - ComputerOperations
   - 1970s
   - 1980s
 summary: "John J. Cox was a former Finders member associated with General Scientific Corporation of Rockville, Maryland, whose precise role connecting the company to the group is disputed between a 1990s investigative memo and MPD Intelligence documents in the FBI Vault disclosure."

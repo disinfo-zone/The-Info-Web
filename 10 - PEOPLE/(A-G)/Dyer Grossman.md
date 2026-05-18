@@ -1,17 +1,17 @@
 ---
-category: "Other"
+title: Dyer Grossman
+aliases:
+  - Dyer Grossman
+created: 2026-05-17
+updated: 2026-05-17
+category: "Crime Investigation"
 tags:
   - Person
-summary: "Key figure in 1970s child exploitation networks who co-drafted the charter for Brother Paul's Children's Mission enabling transport of boys to North Fox Island."
----
-﻿---
-tags:
-  - Person
-  - Criminal_Associate
+  - ChildPornography
   - Michigan
   - 1970s
-  - North_Fox_Island
-  - Child_Pornography
+  - NorthFoxIsland
+summary: "Key figure in 1970s child exploitation networks who co-drafted the charter for Brother Paul's Children's Mission enabling transport of boys to North Fox Island."
 ---
 Dyer Grossman served as a key figure in child exploitation networks during the 1970s. He associated closely with [[Francis Shelden]] in establishing organizations for child procurement. He operated through [[The Church of New Revelation]], a New Jersey-based entity created solely on paper to gain tax-exempt status for affiliated programs. Grossman hailed from a wealthy Long Island family and worked as a science teacher at an exclusive New York boarding school for boys.[^1]
 

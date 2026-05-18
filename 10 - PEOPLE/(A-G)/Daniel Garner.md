@@ -1,13 +1,18 @@
 ---
+title: Daniel Garner
+aliases:
+  - Daniel Garner
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
-  - United_States
+  - LawEnforcement
+  - UnitedStates
   - 1980s
   - 1990s
-  - Dark_Alliance_Investigation
-summary: LASD Majors II deputy and court-certified money-laundering expert whose prosecution for corruption nearly exposed the Contra-CIA drug connection through documents he had seized from Ronald Lister's home in 1986.
+  - DarkAllianceInvestigation
+summary: "LASD Majors II deputy and court-certified money-laundering expert whose prosecution for corruption nearly exposed the Contra-CIA drug connection through documents he had seized from Ronald Lister's home in 1986."
 ---
 Daniel Garner was a hard-nosed detective and spiritual leader of the [[LASD Major Violators|Majors II]] squad who was indicted on corruption charges in the [[Federal Bureau of Investigation]]'s [[Operation Big Spender]] sting. Garner had been a court-certified expert in money-laundering issues and had secretly kept documents seized from [[Ronald Lister]]'s home during the 1986 raids as "insurance."[^1]
 

@@ -1,12 +1,17 @@
 ---
+title: Douglas Aukland
+aliases:
+  - Douglas Aukland
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
-  - United_States
+  - LawEnforcement
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: FBI agent in Riverside, California, whose walk-in informant exposed the Blandon-Meneses Contra drug connection but who was given minimal resources to investigate.
+  - DarkAllianceInvestigation
+summary: "FBI agent in Riverside, California, whose walk-in informant exposed the Blandon-Meneses Contra drug connection but who was given minimal resources to investigate."
 ---
 Douglas Aukland was an [[Federal Bureau of Investigation]] agent based in Riverside, [[California]], who received a walk-in informant exposing the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] Contra-connected drug ring in 1986. Despite the gravity of the information, he was given minimal resources to investigate.[^1]
 
