@@ -27,8 +27,7 @@ Central figures in the U.S. government's investigations into psychic phenomena a
 | [[Don Curtis]] | Physicist at Lawrence Livermore National Laboratory who was part of the group investigating Uri Geller's psychokinetic abilities as part of the Stargate remote viewing program. |
 | [[Don Porter]] | Don Porter was an official with INSCOM at Arlington Hall. |
 | [[Ed Rogers]] | Ed Rogers was the chief of Staff D (later known as the Office of SIGINT Operations) at the CIA, an office specializing in small-scale signals intelligence (SIGINT) collection. |
-| [[Ed Tompson]] | Major General Edmund R. |
-| [[Edmund Thompson]] | Major General Edmund Thompson was the U.S. |
+| [[Edmund Thompson]] | Major General, U.S. Army ACSI 1977-1981, key early supporter of the Grill Flame remote viewing program. |
 | [[Frederick Atwater]] | Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey. |
 | [[Garrison Rapmund]] | Garrison Rapmund was a Major General and the Assistant Surgeon General of the U.S. |
 | [[Hal Puthoff]] | American engineer and parapsychologist who led the SRI remote viewing program and later served as chief scientist for AATIP studying UAP. |
@@ -372,8 +371,7 @@ CIA, DIA, NSA officials, politicians, diplomats, arms dealers, and intelligence 
 | [[Nikolai Bulganin]] | Nikolai Bulganin was a Soviet politician who served as the Premier of the Soviet Union from 1955 to 1958. |
 | [[Octaviano Cesar]] | Octaviano Cesar was a CIA asset and former social director of Norwin Meneses's VIP nightclub in Managua who arranged drug deals with Colombian trafficker George Morales to fund Eden Pastora's Contra army. |
 | [[Olof Palme]] | Prime Minister of Sweden whose government was involved in military equipment sales to Iran through Israel before refusing to continue. |
-| [[P. W. Botha]] | Prime Minister of South Africa who hinted at nuclear weapons capability after the 1979 VELA Satellite detected a probable nuclear test. |
-| [[P.W. Botha]] | In 1978, Prime Minister Begin dispatched Ezer Weizman, then Israeli Defense Minister, to Pretoria to meet Botha to discuss Israeli-South African relations. |
+| [[P.W. Botha]] | Prime Minister and State President of South Africa who forged a wartime alliance with Israel and publicly hinted at nuclear weapons capability after the 1979 VELA satellite detection. |
 | [[Patrick J. Parker]] | Deputy assistant secretary of defense for intelligence who assessed Soviet intentions during the 1973 Yom Kippur War nuclear alert. |
 | [[Paul Wormeli]] | Paul Wormeli was the Vice President in charge of Product Development for Simeon, Inc., a company that was purchased by Hadron in 1982. |
 | [[Peter W. Rodman]] | Longtime assistant to Henry Kissinger present during sensitive meetings with Israeli officials during the 1973 Yom Kippur War. |

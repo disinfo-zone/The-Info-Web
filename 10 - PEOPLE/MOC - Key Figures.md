@@ -20,8 +20,7 @@ Central figures in the U.S. government's investigations into psychic phenomena a
 | [[Don Curtis]] | Physicist at Lawrence Livermore National Laboratory who was part of the group investigating Uri Geller's psychokinetic abilities as part of the Stargate remote viewing program. |
 | [[Don Porter]] | Don Porter was an official with INSCOM at Arlington Hall. |
 | [[Ed Rogers]] | Ed Rogers was the chief of Staff D (later known as the Office of SIGINT Operations) at the CIA, an office specializing in small-scale signals intelligence (SIGINT) collection. |
-| [[Ed Tompson]] | Major General Edmund R. |
-| [[Edmund Thompson]] | Major General Edmund Thompson was the U.S. |
+| [[Edmund Thompson]] | Major General, U.S. Army ACSI 1977-1981, key early supporter of the Grill Flame remote viewing program. |
 | [[Frederick Atwater]] | Frederick Holmes “Skip” Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey. |
 | [[Garrison Rapmund]] | Garrison Rapmund was a Major General and the Assistant Surgeon General of the U.S. |
 | [[Hal Puthoff]] | American engineer and parapsychologist who led the SRI remote viewing program and later served as chief scientist for AATIP studying UAP. |

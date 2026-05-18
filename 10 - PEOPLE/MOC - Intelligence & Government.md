@@ -56,7 +56,7 @@ CIA, DIA, NSA officials, politicians, diplomats, arms dealers, and intelligence 
 | [[Guy Mollet]] | Guy Mollet was a French politician who served as Prime Minister of France from 1956 to 1957. |
 | [[Harry S. Truman]] | 33rd U.S. President who declined Israeli military offers during the Korean War, reportedly fearing a binding security arrangement with Israel. |
 | [[Herbert Alwyn Smith]] | Convicted British arms dealer acting for the CIA who offered Ari Ben-Menashe $2 million and U.S. citizenship for his silence. |
-| [[Hermann F. Eilts]] | In a conversation with Kissinger in early November 1973, Eilts was told that the Israelis had 'panicked' on the fourth day of the war (October 9), leading to the decision to assist them. |
+| [[Hermann F. Eilts]] | U.S. Ambassador to Egypt during the Yom Kippur War era who later disclosed that Kissinger withheld information about Israeli nuclear arming until a final meeting in late 1976. |
 | [[Howard Baker]] | Baker was on the MCA board from January 4, 1985, to March 2, 1987, when he resigned to accept the position of chief of staff to President Ronald Reagan. |
 | [[Hugo Chavez]] | Venezuelan President and ally of ousted Honduran president Manuel Zelaya who opposed the 2009 Honduras coup. |
 | [[Hushang Lavi]] | Iranian Jewish arms dealer recruited by Mossad who coordinated the October 1980 Washington meeting on hostage release negotiations. |
@@ -105,8 +105,7 @@ CIA, DIA, NSA officials, politicians, diplomats, arms dealers, and intelligence 
 | [[Nikolai Bulganin]] | Nikolai Bulganin was a Soviet politician who served as the Premier of the Soviet Union from 1955 to 1958. |
 | [[Octaviano Cesar]] | Octaviano Cesar was a CIA asset and former social director of Norwin Meneses's VIP nightclub in Managua who arranged drug deals with Colombian trafficker George Morales to fund Eden Pastora's Contra army. |
 | [[Olof Palme]] | Prime Minister of Sweden whose government was involved in military equipment sales to Iran through Israel before refusing to continue. |
-| [[P. W. Botha]] | Prime Minister of South Africa who hinted at nuclear weapons capability after the 1979 VELA Satellite detected a probable nuclear test. |
-| [[P.W. Botha]] | In 1978, Prime Minister Begin dispatched Ezer Weizman, then Israeli Defense Minister, to Pretoria to meet Botha to discuss Israeli-South African relations. |
+| [[P.W. Botha]] | Prime Minister and State President of South Africa who forged a wartime alliance with Israel and publicly hinted at nuclear weapons capability after the 1979 VELA satellite detection. |
 | [[Patrick J. Parker]] | Deputy assistant secretary of defense for intelligence who assessed Soviet intentions during the 1973 Yom Kippur War nuclear alert. |
 | [[Paul Wormeli]] | Paul Wormeli was the Vice President in charge of Product Development for Simeon, Inc., a company that was purchased by Hadron in 1982. |
 | [[Peter W. Rodman]] | Longtime assistant to Henry Kissinger present during sensitive meetings with Israeli officials during the 1973 Yom Kippur War. |
