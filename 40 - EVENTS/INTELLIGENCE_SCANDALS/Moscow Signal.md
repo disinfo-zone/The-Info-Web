@@ -1,21 +1,23 @@
 ---
 created: 2025-07-23
-updated: 2025-07-23
+updated: 2026-05-17
 title: Moscow Signal
+aliases:
+  - Moscow Signal
+  - MUTS
 tags:
-  - event
+  - Event
   - ColdWar
-  - technology
-  - intelligence
-description: The Moscow Signal was a microwave beam directed at the U.S. Embassy in Moscow by the Soviet Union, suspected of being an electromagnetic weapon.
+  - Technology
+  - Intelligence
 category: "Intelligence Scandal"
 summary: "Microwave beam directed at the U.S. Embassy in Moscow by the Soviet Union (1956-1976), suspected of being an electromagnetic weapon that spurred U.S. research into psychotronics."
-start: 1956
-end: 1976
+start: 1956-01-01
+end: 1976-12-31
 location: "Moscow, Soviet Union"
 ---
 
-The [[Moscow Signal]] refers to a microwave beam directed at the [[U.S. Embassy in Moscow]] by the [[Soviet Union]] from 1956 to 1976. Discovered in 1962 by American military engineers, the signal was aimed primarily at the upper floors of the embassy, where the ambassador and top intelligence officials had their offices.[^1]
+The Moscow Signal refers to a microwave beam directed at the [[U.S. Embassy in Moscow]] by the [[Soviet Union]] from 1956 to 1976. Discovered in 1962 by American military engineers, the signal was aimed primarily at the upper floors of the embassy, where the ambassador and top intelligence officials had their offices.[^1]
 
 Initially suspected as a new means of eavesdropping, further investigation revealed that the Soviets were using multiple frequencies to transmit widely fluctuating and irregularly patterned microwave beams. The signal, with a power density between 2.5 and 4.0 GHz, was code-named MUTS (Moscow Unidentified Technical Signal) and later MUTS-2 when a more powerful signal was detected in 1973.[^1]
 
@@ -23,6 +25,6 @@ The [[United States]] suspected the Moscow Signal was an electromagnetic weapon 
 
 Despite official denials and attempts to downplay its effects, the Moscow Signal became a public controversy in the mid-1970s, leading to lawsuits from embassy employees and further debate among scientists about the reality and dangers of electromagnetic weapons.[^1]
 
----
+### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

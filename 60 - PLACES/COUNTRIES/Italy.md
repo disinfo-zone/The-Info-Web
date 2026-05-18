@@ -14,13 +14,13 @@ updated: 2026-05-17
 location: "Rome, Italy"
 ---
 
-Italy is a parliamentary republic in southern [[Europe]], a founding member of [[NATO]] and the European Economic Community, and the location of the [[Vatican City|Holy See]] - the headquarters of the [[Catholic Church]]. Italy's post-[[World War II]] politics were dominated by the [[Christian Democratic Party]], which governed from 1948 to 1994 with CIA support as part of the American strategy to prevent the Italian [[Communist Party]] - one of the largest in Western [[Europe]] - from achieving electoral power.[^1]
+Italy is a parliamentary republic in southern [[Europe]], a founding member of [[NATO]] and the European Economic Community, and the location of the [[Vatican City|Holy See]] - the headquarters of the [[Catholic Church]]. Italy's post-[[World War II]] politics were dominated by the [[Democrazia Cristiana|Christian Democratic Party]], which governed from 1948 to 1994 with CIA support as part of the American strategy to prevent the [[Italian Communist Party|Communist Party]] - one of the largest in Western [[Europe]] - from achieving electoral power.[^1]
 
 ### CIA Operations and Stay-Behind
 
 The CIA funded the Christian Democrats and Italian anti-communist organizations extensively from the late 1940s onward. Operation DEMAGNETIZE and related programs provided covert funding channeled through Italian intermediaries to sustain political opposition to communist electoral success. These funding streams were institutionalized through the Marshall Plan and later through non-governmental conduits.[^1]
 
-The most operationally significant CIA program in Italy was [[Operation Gladio]], the Italian branch of the NATO-wide Stay-Behind network. Gladio was established in the late 1940s to provide an organized resistance infrastructure in the event of a Soviet invasion or communist takeover. Italian authorities revealed the network's existence in 1990, prompting parliamentary investigations. Gladio's weapons caches, personnel, and organizational structure had allegedly been used not only for their defensive purpose but for offensive "tension" operations - [[strategy of tension]] attacks that could be blamed on leftists. The 1980 [[Bologna massacre]] (August 2, 1980, 85 dead) has been linked by Italian courts to far-right networks connected to Gladio structures.[^2]
+The most operationally significant CIA program in Italy was [[Operation Gladio]], the Italian branch of the NATO-wide Stay-Behind network. Gladio was established in the late 1940s to provide an organized resistance infrastructure in the event of a Soviet invasion or communist takeover. Italian authorities revealed the network's existence in 1990, prompting parliamentary investigations. Gladio's weapons caches, personnel, and organizational structure had allegedly been used not only for their defensive purpose but for offensive "tension" operations - [[Operation Gladio|strategy of tension]] attacks that could be blamed on leftists. The 1980 [[Bologna massacre]] (August 2, 1980, 85 dead) has been linked by Italian courts to far-right networks connected to Gladio structures.[^2]
 
 ### P2 Masonic Lodge
 

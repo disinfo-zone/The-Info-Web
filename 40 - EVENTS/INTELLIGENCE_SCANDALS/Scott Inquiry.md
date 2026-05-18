@@ -1,4 +1,9 @@
 ---
+title: Scott Inquiry
+aliases:
+  - Scott Inquiry
+  - Scott Report
+  - Arms-to-Iraq inquiry
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -8,12 +13,13 @@ tags:
   - ParliamentaryDeception
 summary: "The Scott Inquiry (formally the Inquiry into the Export of Defence Equipment and Dual-Use Goods to Iraq and Related Prosecutions) was a British judicial inquiry conducted 1992-1996 by Lord Justice Richard Scott, which examined the Thatcher and Major governments' secret relaxation of arms export guidelines to Iraq and the subsequent deception of Parliament; it produced a 1,800-page report finding systematic ministerial concealment and the improper use of public interest immunity certificates to suppress evidence in the Matrix Churchill prosecution."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 start: 1992-11-10
 end: 1996-02-15
+location: "United Kingdom"
 ---
 
-The Scott Inquiry was a judicial inquiry commissioned by Prime Minister [[John Major]] in November 1992 and conducted by Lord Justice Richard Scott (later Lord Scott of Foscote). Formally titled the Inquiry into the Export of Defence Equipment and Dual-Use Goods to Iraq and Related Prosecutions, the inquiry examined the circumstances under which the Thatcher and Major governments had secretly relaxed restrictions on the sale of arms-related equipment to [[Saddam Hussein|Iraq]] between 1987 and 1990, while publicly maintaining that the export guidelines had not changed, and the subsequent prosecution of directors of [[Matrix Churchill]] - a machine tools company covertly owned by Iraq - for violating export controls, in circumstances where the government knew those directors had been cooperating with British intelligence.[^1]
+The Scott Inquiry was a judicial inquiry commissioned by Prime Minister [[John Major]] in November 1992 and conducted by Lord Justice Richard Scott (later Lord Scott of Foscote). Formally titled the Inquiry into the Export of Defence Equipment and Dual-Use Goods to Iraq and Related Prosecutions, the inquiry examined the circumstances under which the Thatcher and Major governments had secretly relaxed restrictions on the sale of arms-related equipment to [[Iraq]] between 1987 and 1990, while publicly maintaining that the export guidelines had not changed, and the subsequent prosecution of directors of [[Matrix Churchill]] - a machine tools company covertly owned by Iraq - for violating export controls, in circumstances where the government knew those directors had been cooperating with British intelligence.[^1]
 
 ### Background: Matrix Churchill and the Prosecution
 

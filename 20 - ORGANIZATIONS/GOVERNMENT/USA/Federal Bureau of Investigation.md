@@ -6,17 +6,16 @@ tags:
   - Organization
   - Government
   - USA
-  - Law Enforcement
+  - LawEnforcement
   - FBI
-  - Dark_Alliance_Investigation
-description: The Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the United States and its principal federal law enforcement agency.
+  - DarkAllianceInvestigation
 category: "U.S. Government"
 summary: "The Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the United States and its principal federal law enforcement agency."
-start: 1908
+start: 1908-07-26
 location: "Washington, D.C."
 ---
 
-The [[Federal Bureau of Investigation]] (FBI) is the domestic intelligence and security service of the United States and its principal federal law enforcement agency. The FBI was aware of the [[STARGATE PROJECT|Grill Flame]] program and occasionally sought assistance from its remote viewers for counterintelligence situations.[^1]
+The Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the United States and its principal federal law enforcement agency. The FBI was aware of the [[STARGATE PROJECT|Grill Flame]] program and occasionally sought assistance from its remote viewers for counterintelligence situations.[^1]
 
 ### Psi Research Assistance
 

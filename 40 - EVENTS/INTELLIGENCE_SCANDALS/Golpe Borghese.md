@@ -1,28 +1,59 @@
 ---
+title: Golpe Borghese
+aliases:
+  - Golpe Borghese
+  - Borghese Coup
+  - 1970 Italian coup attempt
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Event
   - Fascism
   - Italy
   - Coup
-  - Operation_Gladio
+  - Gladio
+  - StrategyOfTension
   - CIA
 category: "Intelligence Scandal"
-summary: "Fascist coup attempt in Italy in 1970 orchestrated by Junio Valerio Borghese with links to Operation Gladio and intelligence services."
-date: 1970
-location: "Italy"
+summary: "The Golpe Borghese was a fascist coup attempt in Italy on the night of December 7-8, 1970, organized by Prince Junio Valerio Borghese and the Fronte Nazionale, involving several hundred armed men who seized the Interior Ministry's armory before Borghese abruptly called off the operation."
+start: 1970-12-07
+location: "Rome, Italy"
 ---
-The Golpe Borghese was a fascist coup attempt orchestrated in Italy in 1970 by [[Junio Valerio Borghese]], an aristocrat known as the Black Prince of the Borghese family. The plot represented a direct effort to overthrow the Italian Republic and install an authoritarian regime, carried out by a figure whose postwar career had been carefully nurtured by American intelligence. Its failure did not prevent the ideological and organizational currents behind it from resurfacing throughout the following decades, culminating in the exposure of the P2 Masonic lodge and infiltrating the networks of elite criminality later documented across Europe.
 
-### The Black Prince and Operation Gladio
+The Golpe Borghese was an attempted coup d'etat organized by [[Junio Valerio Borghese]] and his [[Fronte Nazionale]] (National Front) on the night of December 7-8, 1970. Several hundred armed men, drawn from Fronte Nazionale membership, elements of [[Ordine Nuovo]], and members of the Guardia Forestale, assembled in Rome with plans to seize key government installations including the Interior Ministry, the RAI state broadcasting network, and telephone exchanges. The operation was aborted in the early hours of December 8 when Borghese, for reasons that have never been definitively established, issued a stand-down order to the assembled men. Participants dispersed, and the attempt went publicly unknown for months. Borghese fled to Spain in early 1971; the plot became widely known following parliamentary investigations that year.[^1]
 
-Junio Borghese had commanded the [[Decima Flottiglia MAS]], a naval regiment that fought for Mussolini's Nazi puppet state, the Republic of Salo, in northern Italy until the end of the Second World War. Unlike other fascist collaborators who were executed at Piazzale Loreto alongside Mussolini, Borghese was chaperoned to the sanctuary of Vatican City by [[Office of Strategic Services|OSS]] operative [[James Angleton]]. He subsequently became the primary OSS and later [[Central Intelligence Agency]] asset in establishing the Italian branch of [[Operation Gladio]], a stay-behind network designed to suppress left-leaning political movements through sabotage, propaganda, and terrorism. This intelligence protection allowed Borghese to live on as a figurehead of Italy's postwar fascist movement, giving him the resources and connections necessary to attempt an open seizure of power in 1970.
+### Borghese's Wartime Career and OSS Relationship
+
+Junio Valerio Borghese had commanded the [[Decima Flottiglia MAS]] (10th MAS Flotilla), a naval special forces unit that continued fighting for Mussolini's [[Italian Social Republic]] (the Republic of Salo) in northern Italy after the September 1943 armistice. The Decima Mas under Borghese committed documented atrocities during the occupation and was responsible for the killing of partisans and civilians.
+
+In April 1945, as partisan forces moved to execute prominent fascist figures, [[Office of Strategic Services|OSS]] officer [[James Angleton]] intervened to take Borghese into protective American custody before partisans could reach him, a decision that almost certainly saved his life. Borghese was subsequently tried by an Italian court and in 1949 sentenced to twelve years' imprisonment for wartime crimes; the sentence was substantially reduced on appeal and he was released. This pattern - American intelligence protection followed by rapid reintegration into Italian civic and political life - positioned Borghese as a continuing asset in the networks that would eventually formalize as [[Operation Gladio]].[^2]
+
+Borghese remained a figurehead of the Italian far right throughout the 1950s and 1960s. In 1968 he founded the Fronte Nazionale as a vehicle for extra-parliamentary fascist politics.[^1]
 
 ### The 1970 Coup Attempt
 
-The Golpe Borghese coup was carried out in Borghese's name by armed fascists with the apparent intention of destabilizing the Italian state and creating the pretext for a military takeover. When the attempt failed, Borghese fled to Spain, where he died in 1974, possibly by poisoning. The director Pier Paolo Pasolini made his film Salo, or the 120 Days of Sodom, explicitly in response to the Golpe Borghese, using the structure of the Marquis de Sade's novel to depict the torture and murder of kidnapped youths by fascist leaders. Pasolini dressed the guards in the uniforms of Borghese's Decima Flottiglia MAS, making clear that he viewed the coup not as an aberration but as an expression of enduring elite depravity. A year after the failed coup, and shortly before Salo's premiere, Pasolini was himself murdered in horrific circumstances, his body found burned and broken on a beach outside Rome.
+The coup attempt on December 7-8, 1970, was one of several plots against Italian democracy during the strategy of tension era. The operational plan called for armed groups to simultaneously seize the Interior Ministry and its weapons stores, the RAI television and radio facilities, and telecommunications infrastructure - establishing control of communications before announcing a change of government. A recorded address by Borghese was prepared for broadcast.
 
-### P2 and Continued Influence
+Participants assembled and the Interior Ministry's armory was actually entered and its weapons temporarily secured. Then, in the early morning hours of December 8, Borghese issued an unexpected order to stand down. The armed men dispersed and returned home. No shots were fired and the operation left no immediate public trace.[^1]
 
-In 1981 a fascist secret society known as [[P2]], or Propaganda 2, was uncovered after a membership list fell into police hands during a raid on the villa of the financier Licio Gelli. The list included cabinet ministers, military officers, magistrates, industrialists, and journalists, including the future Prime Minister [[Silvio Berlusconi]]. P2 was directly linked to the Golpe Borghese coup attempt a decade earlier, demonstrating that the networks behind the plot had simply moved underground rather than disappeared. One P2 member, [[Alessandro Moncini]], was arrested in the United States in 1988 after attempting to purchase a ten-year-old Mexican girl for a weekend of sadistic torture, telling an undercover officer that he possessed a snuff videotape of the real murder of a young girl after sex. The same currents of fascist elitism, protected by intelligence services and expressed through ritualistic violence against children, reappear in the Belgian [[Marc Dutroux|Dutroux]] affair, where witness testimonies describe orgies and murders attended by politicians, magistrates, and nobility reminiscent of the world Pasolini depicted.
+Parliamentary investigations later documented that the coup had participants at multiple levels of Italian institutional life, including active-duty and retired military officers. The precise reasons for the stand-down were never established; theories included intervention by persons within the Italian state who had known of the plot, American intelligence pressure, or Borghese's own loss of confidence that the moment was right.[^1]
 
-[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
+Borghese fled Italy in February 1971 as the plot became known to investigating magistrates. He died in Cadiz, Spain, on August 26, 1974, of what Spanish authorities recorded as a heart attack. Italian intelligence sources subsequently raised allegations of assassination - a claim that was never formally investigated.[^2]
+
+### Cultural Response: Pasolini and Salo
+
+The film director [[Pier Paolo Pasolini]] was working on Salo, or the 120 Days of Sodom during the years when the strategy of tension was at its height. The film - based on the Marquis de Sade's novel but reset in the Republic of Salo in 1944 - uses the uniforms and imagery of the Decima Mas and the RSI militia as the framework for its depiction of fascist violence. Pasolini stated explicitly in interviews that the film was intended as an allegory of contemporary Italian power and its relationship to violence and corruption, connecting the historical RSI to the political forces he saw operating in Italy in the 1970s.
+
+Pasolini was murdered on November 2, 1975, near Ostia outside Rome, three weeks before the film's Italian premiere. The case was initially attributed to a young man, Giuseppe Pelosi, who confessed but later recanted, claiming he had acted on instructions from others. The murder was never fully resolved. Pasolini had been publicly outspoken about the strategy of tension and the complicity of Italian political elites in the bombings and coup attempts of the period.[^3]
+
+### P2 and Continued Networks
+
+The parliamentary investigation into the Golpe Borghese documented that the networks involved in the coup attempt had connections extending into institutional Italy through the [[Propaganda Due|P2]] Masonic lodge. When the P2 membership list was discovered in March 1981 following a raid on [[Licio Gelli]]'s villa in Arezzo, it contained the names of senior military officers, intelligence service directors, magistrates, journalists, and politicians - the same milieu that parliamentary investigators had identified as the enabling environment for the Golpe Borghese. [[Silvio Berlusconi]] appeared on the list, as did the directors of all three Italian intelligence services at the time of the list's compilation.[^2]
+
+The parliamentary Commission on Terrorism (Commissione Stragi) concluded in subsequent years that P2 served as the continuing organizational framework through which fascist-aligned elements of Italian institutional life maintained contact and coordination after the Golpe Borghese's failure, representing the movement underground rather than the destruction of the networks that had made the coup attempt possible.[^1]
+
+### Footnotes
+
+[^1]: Flamini, Gianni. *Il Partito del Golpe.* Bovolenta, 1982-1985 (the definitive Italian account of the Borghese coup and its institutional networks). Willan, Philip. *Puppetmasters: The Political Use of Terrorism in Italy.* Constable, 1991.
+[^2]: Ganser, Daniele. *NATO's Secret Armies: Operation GLADIO and Terrorism in Western Europe.* Frank Cass, 2005. Ferraresi, Franco. *Threats to Democracy: The Radical Right in Italy After the War.* Princeton University Press, 1996.
+[^3]: Schwartz, Barth David. *Pasolini Requiem.* Pantheon, 1992. Greene, Naomi. *Pier Paolo Pasolini: Cinema as Heresy.* Princeton University Press, 1990.

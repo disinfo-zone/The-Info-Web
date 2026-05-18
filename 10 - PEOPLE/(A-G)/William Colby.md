@@ -32,7 +32,7 @@ Colby served as CIA station chief in Saigon during the Vietnam War and from 1968
 
 In December 1974, Seymour Hersh approached Colby with material for a forthcoming New York Times article on the CIA's domestic surveillance activities under [[Operation CHAOS]] (MHCHAOS). On December 17, 1974 - five days before Hersh's article appeared on December 22 - Colby dismissed Angleton, who had headed the Counterintelligence Staff that ran CHAOS under director [[Richard Ober]]. Angleton had served as the CIA's chief of counterintelligence for 21 years.[^1][^2]
 
-Colby's cooperation with the subsequent Church Committee investigation of CHAOS and other "Family Jewels" programs (a compilation of potentially illegal CIA activities assembled by Colby's predecessor James Schlesinger in 1973) was deeply controversial within the CIA. Critics including former DCI Helms accused him of betraying the agency; defenders argued he prevented far more damaging forced exposure.[^1]
+Colby's cooperation with the subsequent [[Church Committee]] investigation of CHAOS and other "Family Jewels" programs (a compilation of potentially illegal CIA activities assembled by Colby's predecessor James Schlesinger in 1973) was deeply controversial within the CIA. Critics including former DCI Helms accused him of betraying the agency; defenders argued he prevented far more damaging forced exposure.[^1]
 
 ### Israel and Nuclear Weapons
 

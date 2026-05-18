@@ -32,13 +32,13 @@ The Gdańsk Agreement of August 31, 1980, which Wałęsa signed with his souveni
 
 ### Martial Law and Nobel Prize
 
-On December 13, 1981, General Wojciech Jaruzelski's martial law decree arrested Wałęsa, suspended Solidarity, and interned approximately 10,000 activists. Wałęsa was held in isolation at a government villa until November 1982. After his release he was subject to continuous surveillance and restrictions, returned to work at the Gdańsk shipyard as an ordinary employee, and maintained clandestine contact with the underground Solidarity leadership.
+On December 13, 1981, General [[Wojciech Jaruzelski]]'s martial law decree arrested Wałęsa, suspended Solidarity, and interned approximately 10,000 activists. Wałęsa was held in isolation at a government villa until November 1982. After his release he was subject to continuous surveillance and restrictions, returned to work at the Gdańsk shipyard as an ordinary employee, and maintained clandestine contact with the underground Solidarity leadership.
 
 In October 1983 Wałęsa was awarded the Nobel Peace Prize. The Polish government refused to allow him to travel to receive it; his wife Danuta accepted on his behalf. The prize, awarded while he was a private citizen under surveillance by state security, confirmed his global standing and increased the political cost to the Jaruzelski government of further suppression.[^2]
 
 ### 1989 and Presidency
 
-Wałęsa led Solidarity's participation in the Round Table negotiations with the Jaruzelski government in February-April 1989, which produced the partially free June 4, 1989 elections. Solidarity's overwhelming victory in those elections - 99 of 100 Senate seats, all 161 contestable Sejm seats - destroyed the communist government's legitimacy and produced the Tadeusz Mazowiecki prime ministership.
+Wałęsa led Solidarity's participation in the Round Table negotiations with the Jaruzelski government in February-April 1989, which produced the partially free June 4, 1989 elections. Solidarity's overwhelming victory in those elections - 99 of 100 Senate seats, all 161 contestable Sejm seats - destroyed the communist government's legitimacy and produced the [[Tadeusz Mazowiecki]] prime ministership.
 
 Wałęsa himself was elected President of Poland in December 1990, defeating Mazowiecki in the second round after a divisive first round. His presidency (1990-1995), which coincided with the difficult economic transition period of Polish "shock therapy," was marked by conflicts with the parliamentary government and an assertive style that his critics characterized as authoritarian. He lost his 1995 reelection bid to former communist Aleksander Kwaśniewski.[^1]
 

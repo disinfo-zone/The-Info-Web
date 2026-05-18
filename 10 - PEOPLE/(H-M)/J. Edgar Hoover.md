@@ -1,11 +1,18 @@
 ---
+title: J. Edgar Hoover
+aliases:
+  - J. Edgar Hoover
+  - John Edgar Hoover
+  - Edgar Hoover
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - FBI
   - COINTELPRO
-  - Domestic_Surveillance
-  - Cold_War
+  - DomesticSurveillance
+  - ColdWar
   - Nuclear
 summary: "J. Edgar Hoover (1895-1972) served as FBI Director for 48 years, creating COINTELPRO in 1956 and maintaining secret files on political figures that sustained his institutional survival across eight presidential administrations."
 born: 1895-01-01
@@ -13,7 +20,7 @@ died: 1972-05-02
 location: "Washington, D.C."
 ---
 
-[[J. Edgar Hoover]] served as the first Director of the [[Federal Bureau of Investigation|FBI]] (and its predecessor, the Bureau of Investigation) for 48 years, from 1924 until his death in 1972. His long tenure was marked by both his law enforcement activities and his connections to influential political and business figures.
+J. Edgar Hoover served as the first Director of the [[Federal Bureau of Investigation|FBI]] (and its predecessor, the Bureau of Investigation) for 48 years, from 1924 until his death in 1972. His long tenure was marked by both his law enforcement activities and his connections to influential political and business figures.
 
 ### COINTELPRO
 
@@ -33,7 +40,7 @@ Hoover was a frequent visitor to the Hotel Del Charro in La Jolla, California, a
 
 ### NUMEC Investigation and CIA Conflicts
 
-In October 1965, the [[Atomic Energy Commission|AEC]] referred the [[Nuclear Materials and Equipment Corporation|NUMEC]] losses to the [[Federal Bureau of Investigation|FBI]]. However, [[J. Edgar Hoover]] saw no basis for an investigation, concluding that the situation was an administrative matter. He was in the midst of a bitter dispute with [[James Jesus Angleton]]'s counterintelligence shop over the [[Central Intelligence Agency|CIA]]'s handling of defectors and illegal spying inside the [[United States]]. Hoover chose to spar with [[Richard M. Helms|Helms]] over the [[Zalman Mordecai Shapiro|Shapiro]] issue, telling the [[Central Intelligence Agency|CIA]] to go to [[Israel]] and get inside [[Dimona]] to find evidence of the alleged uranium diversion.[^2]
+In October 1965, the [[Atomic Energy Commission|AEC]] referred the [[Nuclear Materials and Equipment Corporation|NUMEC]] losses to the FBI. However, Hoover saw no basis for an investigation, concluding that the situation was an administrative matter. He was in the midst of a bitter dispute with [[James Jesus Angleton]]'s counterintelligence shop over the [[Central Intelligence Agency|CIA]]'s handling of defectors and illegal spying inside the [[United States]]. Hoover chose to spar with [[Richard M. Helms|Helms]] over the [[Zalman Mordecai Shapiro|Shapiro]] issue, telling the CIA to go to [[Israel]] and get inside [[Dimona]] to find evidence of the alleged uranium diversion.[^2]
 
 ### Footnotes
 

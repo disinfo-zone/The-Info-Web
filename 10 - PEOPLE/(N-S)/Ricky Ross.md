@@ -1,14 +1,22 @@
 ---
+title: Ricky Ross
+aliases:
+  - Ricky Ross
+  - Freeway Rick
+  - Freeway Ricky Ross
+  - Ricky Donnell Ross
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
-  - United_States
-  - Street_Gang
+  - DrugTrafficker
+  - UnitedStates
+  - StreetGang
   - 1980s
   - 1990s
-  - Dark_Alliance_Investigation
-summary: Freeway Ricky Donnell Ross led South Central Los Angeles's largest crack cocaine distribution network, expanding from local dealing to a coast-to-coast operation that moved over 150 kilos per week at its peak.
+  - DarkAllianceInvestigation
+summary: "Freeway Ricky Donnell Ross led South Central Los Angeles's largest crack cocaine distribution network, expanding from local dealing to a coast-to-coast operation that moved over 150 kilos per week at its peak."
 born: 1960-01-26
 location: "Tyler, Texas"
 ---
@@ -80,7 +88,7 @@ Ross was selling to nearly every big crack dealer in Los Angeles without resorti
 
 ### Identified by Law Enforcement
 
-In August 1986, the flipped Torres brothers told detective [[Jerry Guzzetta]] during debriefings that two Black dealers controlled the entire South Central [[Los Angeles]] cocaine market. Guzzetta's "Project Sahara" report identified them as "Rick and Ollie" - [[Ricky Ross|Ross]] and Ollie Newell - generating "a conservative figure of approximately $10 million dollars a month." The brothers reported the two dealers had established a direct pipeline to the Colombian cartels. This intelligence was passed to the [[LASD Major Violators]] squad and Detective [[Thomas Gordon]], who realized the L.A. crack market was far more disciplined and well organized than anyone had dreamed. Ross confirmed that Blandón had an uncanny ability to accurately predict upcoming police raids but said he was never able to explain Blandón's clairvoyance.[^6]
+In August 1986, the flipped Torres brothers told detective [[Jerry Guzzetta]] during debriefings that two Black dealers controlled the entire South Central [[Los Angeles]] cocaine market. Guzzetta's "Project Sahara" report identified them as "Rick and Ollie" - Ross and Ollie Newell - generating "a conservative figure of approximately $10 million dollars a month." The brothers reported the two dealers had established a direct pipeline to the Colombian cartels. This intelligence was passed to the [[LASD Major Violators]] squad and Detective [[Thomas Gordon]], who realized the L.A. crack market was far more disciplined and well organized than anyone had dreamed. Ross confirmed that Blandón had an uncanny ability to accurately predict upcoming police raids but said he was never able to explain Blandón's clairvoyance.[^6]
 
 Jerry Guzzetta drove through South Central with the Torres brothers, who showed him Ross's operations: a vacant apartment complex used as a cocaine lab, a multistory distribution center near the Harbor Freeway, and the Freeway Motor Inn - which the brothers said Rick had built to his specifications for a million dollars, with his mother Annie working the front desk. Guzzetta realized they had led him to "the legendary Freeway Rick." Ross surmised the Torres brothers gave him up because he had reverted to buying exclusively from Blandón: "Danilo's price was so low, that the Torres brothers simply could not continue to compete." Majors I had been looking for Ross since April 1986, raiding his girlfriend's apartment on May 15 and rousted his cousins in late August - telling them to warn Rick to watch himself.[^7]
 

@@ -16,8 +16,8 @@ tags:
   - 1960s
 category: "Intelligence Operation"
 summary: "Operation Mongoose was the Kennedy administration's post-Bay of Pigs covert action program against Cuba (November 1961 to late 1962), directed by Edward Lansdale under Robert Kennedy's Special Group (Augmented) oversight, run operationally by William Harvey at the CIA's JM/WAVE Miami station, and suspended following the Cuban Missile Crisis after Harvey unilaterally sent teams into Cuba during the crisis."
-start: 1961-11
-end: 1962-10
+start: 1961-11-01
+end: 1962-10-31
 location: "Miami, Florida / Washington, D.C."
 ---
 
@@ -45,7 +45,7 @@ Resistance development: CIA officers and Cuban exile operatives attempted to rec
 
 Psychological operations: Radio broadcasts, leaflet drops, and propaganda campaigns targeted both the Cuban population and Castro's military and political leadership.
 
-Assassination tracks: Parallel to Mongoose's official programs, Harvey maintained [[ZR RIFLE|ZR/RIFLE]] operations targeting Castro through the CIA-organized crime connection with [[Johnny Roselli]] and, through him, [[Sam Giancana]] and [[Santos Trafficante, Jr.|Santo Trafficante Jr.]] The assassination track was technically separate from but operationally intertwined with the broader Mongoose program.[^1]
+Assassination tracks: Parallel to Mongoose's official programs, Harvey maintained ZR/RIFLE operations targeting Castro through the CIA-organized crime connection with [[Johnny Roselli]] and, through him, [[Sam Giancana]] and [[Santos Trafficante, Jr.|Santo Trafficante Jr.]] The assassination track was technically separate from but operationally intertwined with the broader Mongoose program.[^1]
 
 ### The Missile Crisis and Suspension
 

@@ -12,11 +12,12 @@ tags:
   - 1960s
 category: "Intelligence Scandal"
 summary: "The Warren Commission was the official body appointed by President Johnson in November 1963 to investigate the Kennedy assassination, whose September 1964 report concluded Oswald acted alone - a finding undermined by the CIA's deliberate concealment of ZR/RIFLE and the anti-Castro assassination programs from the commission, and later challenged by the HSCA's 1979 conclusion that 'probable conspiracy' existed."
-date: 1963-11-29
+start: 1963-11-29
+end: 1964-09-24
 location: "Washington, D.C."
 ---
 
-The President's Commission on the Assassination of President Kennedy - universally known as the Warren Commission after its chairman, Chief Justice Earl Warren - was an investigative body established by President [[Lyndon Johnson|Lyndon B. Johnson]] by executive order on November 29, 1963, one week after the [[Dallas, Texas|Kennedy assassination]]. It issued its report on September 24, 1964, concluding that [[Lee Harvey Oswald]] had acted alone in killing President Kennedy and that [[Jack Ruby]] had acted alone in killing Oswald.[^1]
+The President's Commission on the Assassination of President Kennedy - universally known as the Warren Commission after its chairman, Chief Justice Earl Warren - was an investigative body established by President [[Lyndon Johnson|Lyndon B. Johnson]] by executive order on November 29, 1963, one week after the Kennedy assassination. It issued its report on September 24, 1964, concluding that [[Lee Harvey Oswald]] had acted alone in killing President Kennedy and that [[Jack Ruby]] had acted alone in killing Oswald.[^1]
 
 ### Composition
 
@@ -48,7 +49,7 @@ The Commission's report concluded:
 
 ### CIA Concealment and Later Criticism
 
-The Commission's credibility was fundamentally compromised by what the CIA did not tell it. The [[Church Committee]] established in 1975 that the CIA had not disclosed to the Warren Commission the existence of [[ZR RIFLE|ZR/RIFLE]], the agency's assassination planning program targeting Castro, or the CIA-organized crime anti-Castro plots involving [[Johnny Roselli]] and [[Sam Giancana]]. CIA Director [[Richard Helms]] and former Director Dulles deliberately withheld this information. The practical consequence was that the Commission had no basis for investigating whether Oswald had any contact with the organized crime or Cuban exile networks that the CIA had been running, or whether the anti-Castro operations created any pathways through which enemies of the [[John F. Kennedy|Kennedy administration]] might have reached Oswald.[^1]
+The Commission's credibility was fundamentally compromised by what the CIA did not tell it. The [[Church Committee]] established in 1975 that the CIA had not disclosed to the Warren Commission the existence of [[ZR RIFLE|ZR/RIFLE]], the agency's assassination planning program targeting Castro, or the CIA-organized crime anti-Castro plots involving [[Johnny Roselli]] and [[Sam Giancana]]. CIA Director [[Richard Helms]] and former Director Dulles deliberately withheld this information. The practical consequence was that the Commission had no basis for investigating whether Oswald had any contact with the organized crime or Cuban exile networks that the CIA had been running, or whether the anti-Castro operations created any pathways through which enemies of the Kennedy administration might have reached Oswald.[^1]
 
 The [[HSCA|House Select Committee on Assassinations]] (1976-1979) later found that "the Warren Commission failed to investigate adequately the possibility of a conspiracy to assassinate the President" and that "the Secret Service, Federal Bureau of Investigation and Central Intelligence Agency... were deficient in their performance of [their] duties."[^2]
 

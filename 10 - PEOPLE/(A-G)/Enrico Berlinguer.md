@@ -30,7 +30,7 @@ By the early 1970s Berlinguer had explicitly distanced the PCI from Moscow's the
 
 ### The Historic Compromise
 
-Berlinguer proposed the "historic compromise" (compromesso storico) in a series of articles published in *Rinascita* in September-October 1973, following the September 11, 1973, coup in Chile that overthrew the elected socialist government of Salvador Allende. Berlinguer's analysis drew an explicit lesson: a left government that held only plurality support was vulnerable to violent destabilization by the right and by external powers, as Chile had demonstrated. Italian stability required a broad national coalition.
+Berlinguer proposed the "historic compromise" (compromesso storico) in a series of articles published in *Rinascita* in September-October 1973, following the September 11, 1973, coup in [[Chile]] that overthrew the elected socialist government of Salvador Allende. Berlinguer's analysis drew an explicit lesson: a left government that held only plurality support was vulnerable to violent destabilization by the right and by external powers, as Chile had demonstrated. Italian stability required a broad national coalition.
 
 The historic compromise envisioned collaboration between the PCI and the [[Democrazia Cristiana]], bringing the communists - with their massive organizational base in the Italian working class and the unions - into effective partnership with the dominant Christian Democratic governing party. This arrangement, if realized, would have represented the first communist participation in government in a NATO Western European country since the early Cold War consolidation ended communist ministerial participation in France and Italy in 1947.[^2]
 

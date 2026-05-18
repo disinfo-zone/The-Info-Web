@@ -1,15 +1,22 @@
 ﻿---
+title: BNL Scandal
+aliases:
+  - BNL Scandal
+  - Banca Nazionale del Lavoro scandal
+  - BNL-Atlanta
 category: "Intelligence Scandal"
 tags:
   - Event
   - Iraq
   - CIA
-  - BNL
   - IranContra
   - Banking
 summary: "The BNL scandal involved the Atlanta branch of Italy's Banca Nazionale del Lavoro, whose manager Christopher Drogoul extended approximately $5 billion in unauthorized loans to Saddam Hussein's Iraq between 1987 and 1989; subsequent investigations found CIA awareness of or involvement in the scheme, and the Justice Department's handling of the prosecution was criticized as protecting intelligence equities over criminal accountability."
 created: 2026-05-14
 updated: 2026-05-17
+start: 1987-01-01
+end: 1993-12-31
+location: "Atlanta, Georgia"
 ---
 
 The BNL scandal (Banca Nazionale del Lavoro scandal) grew from the discovery that the Atlanta, Georgia branch of [[Banca Nazionale del Lavoro]] - Italy's largest state-owned bank - had illegally extended approximately $5 billion in unauthorized loans to [[Iraq]] between 1987 and 1989. The loans were used by [[Saddam Hussein]]'s government to finance purchases of weapons, weapons components, and dual-use industrial equipment. The FBI discovered the scheme on August 4, 1989, when agents raided the Atlanta branch and seized documents showing undisclosed credit facilities to Iraqi state enterprises.[^1]

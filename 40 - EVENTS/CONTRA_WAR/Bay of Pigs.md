@@ -16,7 +16,8 @@ tags:
   - AntiCastro
 category: "Intelligence Operation"
 summary: "The Bay of Pigs invasion was the CIA's failed April 17-19, 1961 covert operation deploying approximately 1,400 Cuban exiles of Brigade 2506 against Fidel Castro, collapsing after Kennedy cancelled the follow-up air strikes and Castro's forces captured 1,179 survivors - prompting CIA Inspector General Lyman Kirkpatrick's suppressed postmortem conclusion that 'plausible denial was a pathetic illusion.'"
-date: 1961-04-17
+start: 1961-04-17
+end: 1961-04-19
 location: "Bay of Pigs (Bahia de Cochinos), Cuba"
 ---
 
@@ -52,7 +53,7 @@ The cover story required that the attacking aircraft appear to be defecting Cuba
 
 On April 14, Kennedy directed Bissell to reduce the follow-up strikes to "minimal." On the evening of April 16, approximately 9:30 PM, National Security Adviser [[McGeorge Bundy]] telephoned CIA Deputy Director General [[Charles P. Cabell|C.P. Cabell]] to inform him that the dawn April 17 strikes "should not be launched" until they could be conducted from a secured beachhead airfield. (Source: Cabell's May 9, 1961 memorandum to the Taylor Commission, FRUS Vol. X, Document 108.)
 
-[[Charles P. Cabell|Cabell]] and Bissell went to Rusk's office around 10:15 PM and argued for proceeding. Rusk refused, citing "political considerations" and Stevenson's insistence "that the air strikes would make it absolutely impossible for the U.S. position to be sustained." At approximately 4:30 AM on April 17, Cabell phoned the [[White House]] requesting fighter cover for ships withdrawing from the beach; Kennedy disapproved after consulting Rusk.
+Cabell and Bissell went to Rusk's office around 10:15 PM and argued for proceeding. Rusk refused, citing "political considerations" and Stevenson's insistence "that the air strikes would make it absolutely impossible for the U.S. position to be sustained." At approximately 4:30 AM on April 17, Cabell phoned the [[White House]] requesting fighter cover for ships withdrawing from the beach; Kennedy disapproved after consulting Rusk.
 
 Colonel Jack Hawkins, the CIA's chief paramilitary officer for the operation, testified to the Taylor Commission: "The curtailment of tactical air must be regarded as the one factor which insured failure." Bissell later characterized the cancellation as "certainly the gravest contributory factor in the operation's failure."[^1]
 
@@ -92,7 +93,7 @@ Kennedy established the Cuba Study Group on April 22, 1961, chaired by General [
 
 The Taylor Commission attributed failure to "a mistaken belief that this large operation could be conducted with plausible deniability; to a lack of coordination among U.S. agencies; to attempt to command from a distance, with headquarters at Washington." It found the JCS had effectively approved the plan by not explicitly rejecting it, though the Chiefs privately assessed the odds of success at 30-70 against, at best.
 
-The Taylor Commission's findings led directly to [[Operation Mongoose]], approved in November 1961, as the successor anti-Castro covert program under [[Edward Lansdale]] and [[Robert Kennedy]]'s Special Group (Augmented).
+The Taylor Commission's findings led directly to [[Operation Mongoose]], approved in November 1961, as the successor anti-Castro covert program under [[Edward Lansdale]] and Robert Kennedy's Special Group (Augmented).
 
 Personnel consequences: Allen Dulles was forced to resign, replaced by John McCone; Bissell resigned in February 1962, receiving the National Security Medal before his departure; C.P. Cabell was forced to resign January 31, 1962. Kennedy privately told aide Richard Goodwin regarding the captured brigade: "They trusted me, and they're in prison now because I fucked up. I have to get them out."[^1]
 

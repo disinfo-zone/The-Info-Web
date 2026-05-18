@@ -1,26 +1,32 @@
 ---
-category: "PROMIS Scandal"
+title: PROMIS Software Scandal
+aliases:
+  - PROMIS Software Scandal
+  - INSLAW Affair
+  - INSLAW Case
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
+category: "Intelligence Scandal"
 tags:
-  - Program
+  - Event
   - PROMIS
   - INSLAW
   - CIA
   - DoJ
   - Software
+  - OctoberSurprise
 summary: "The INSLAW Affair was a protracted legal and political scandal arising from allegations that the U.S. Department of Justice stole the PROMIS case management software from its developer, drove the company into bankruptcy, and distributed the software internationally, with intelligence agencies reportedly embedding a surveillance backdoor."
-start: 1982
-end: 1998
+start: 1982-03-01
+end: 1998-08-31
 location: "Washington, D.C."
 ---
 The INSLAW Affair centers on [[INSLAW]], a Washington, D.C. software company owned by [[Bill Hamilton]] and [[Nancy Hamilton]], and their claim that the [[Department of Justice]] deliberately stole their [[PROMIS]] (Prosecutor's Management Information System) software, drove the company into bankruptcy, and distributed the software to domestic and foreign intelligence agencies, some versions allegedly fitted with a hidden surveillance backdoor capable of tracking money flows through international banking systems including [[CHIPS]] and [[SWIFT]].[^4]
 
 ### The 1982 Contract and the Proprietary Rights Dispute
 
-In March 1982, INSLAW signed a three-year, $10 million contract with the [[Department of Justice|Executive Office for United States Attorneys]] (EOUSA) to install PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones.[^2] The contract specified installation of a public-domain version of PROMIS, but INSLAW argued the delivered software incorporated proprietary enhancements developed at private expense after May 1981. These enhancements, and who owned them, became the central dispute.
+In March 1982, INSLAW signed a three-year, $10 million contract with the Executive Office for United States Attorneys (EOUSA) to install PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones.[^2] The contract specified installation of a public-domain version of PROMIS, but INSLAW argued the delivered software incorporated proprietary enhancements developed at private expense after May 1981. These enhancements, and who owned them, became the central dispute.
 
-[[C. Madison Brewer]], appointed as the EOUSA's PROMIS project manager, quickly became the focal point of INSLAW's complaints. Brewer had previously served as general counsel for INSLAW's predecessor organization, the non-profit Institute for Law and Social Research. [[George Francis Bason, Jr.|Bankruptcy Judge Bason]] later found that Brewer had developed "an intense and abiding hatred" for INSLAW president [[Bill Hamilton]] and used his position "to vent his spleen," taking administrative actions designed to harm the company.[^1] At an April 19, 1982 meeting, Brewer called a Hamilton memorandum "scurrilous" and persistently opposed escrow arrangements that would have preserved INSLAW's proprietary rights pending a contractual resolution.[^2]
+[[C. Madison Brewer]], appointed as the EOUSA's PROMIS project manager, quickly became the focal point of INSLAW's complaints. Brewer had previously served as general counsel for INSLAW's predecessor organization, the non-profit Institute for Law and Social Research. [[George Francis Bason, Jr.|Bankruptcy Judge Bason]] later found that Brewer had developed "an intense and abiding hatred" for INSLAW president Bill Hamilton and used his position "to vent his spleen," taking administrative actions designed to harm the company.[^1] At an April 19, 1982 meeting, Brewer called a Hamilton memorandum "scurrilous" and persistently opposed escrow arrangements that would have preserved INSLAW's proprietary rights pending a contractual resolution.[^2]
 
 In April 1983, contracting officer [[Peter Videnieks]] negotiated Modification 12 with INSLAW, which restricted DOJ from distributing PROMIS "beyond the Executive Office for United States Attorneys and the 94 United States Attorneys' Offices covered by the contract, pending resolution" of the proprietary rights dispute.[^2] Videnieks simultaneously demanded that INSLAW formally document all claimed proprietary enhancements; INSLAW's April 1983 submissions were rejected as inadequate, the dispute was never resolved, and INSLAW filed for Chapter 11 bankruptcy protection in February 1985 under pressure of withheld payments and escalating litigation.[^2]
 
@@ -38,13 +44,13 @@ The Senate Permanent Subcommittee on Investigations (PSI) examined the INSLAW ma
 
 The House Judiciary Committee, chaired by Representative [[Jack Brooks]], conducted a three-year investigation from 1989 to 1992. Its September 10, 1992 report (House Report 102-857) reached substantially more damaging conclusions. The committee found "strong evidence...that the Department of Justice 'acted willfully and fraudulently,' and 'took, converted and stole,' Inslaw's Enhanced PROMIS by 'trickery fraud and deceit.'"[^1] The report cited an admission from Deputy Attorney General [[Arnold Burns]], who told DOJ Office of Professional Responsibility investigators in 1986 that INSLAW's proprietary rights claim was "legitimate" and that the government "would probably lose the case in court on this issue" - yet DOJ continued litigating against INSLAW.[^1]
 
-The House Committee specifically examined the roles of [[Lowell Jensen]] and [[Edwin Meese]] in the affair. Jensen had developed DALITE (District Attorney's Automated Legal Information System), a competing case management software, while serving as Alameda County District Attorney; he was a member of the contract oversight committee at INSLAW's inception and later became Associate Attorney General and then Deputy Attorney General under Meese. The Committee found it "incredible that the Department, having made this determination [that INSLAW's proprietary rights claim was legitimate], would continue to pursue its litigation."[^1] Meese had served alongside [[Earl Brian]] in Governor [[Ronald Reagan|Reagan's]] California cabinet; Meese's wife purchased stock in a Brian-controlled company; Meese reportedly recused himself from PROMIS matters upon becoming Attorney General in February 1985, leaving Jensen to handle the issue.[^4]
+The House Committee specifically examined the roles of Lowell Jensen and Edwin Meese in the affair. Jensen had developed DALITE (District Attorney's Automated Legal Information System), a competing case management software, while serving as Alameda County District Attorney; he was a member of the contract oversight committee at INSLAW's inception and later became Associate Attorney General and then Deputy Attorney General under Meese. The Committee found it "incredible that the Department, having made this determination [that INSLAW's proprietary rights claim was legitimate], would continue to pursue its litigation."[^1] Meese had served alongside Earl Brian in Governor [[Ronald Reagan|Reagan's]] California cabinet; Meese's wife purchased stock in a Brian-controlled company; Meese reportedly recused himself from PROMIS matters upon becoming Attorney General in February 1985, leaving Jensen to handle the issue.[^4]
 
 The House Committee's Democratic majority called on Attorney General [[Richard Thornburgh]] to compensate INSLAW immediately; the Republican minority dissented. The full report, House Report 102-857, was submitted September 10, 1992.
 
 ### The Earl Brian Allegations and the October Surprise Connection
 
-INSLAW's expanded conspiracy theory held that Brian, a California businessman and former Reagan administration associate, arranged with senior DOJ officials to obtain PROMIS in exchange for political favors connected to the 1980 [[October Surprise]] negotiations. [[Michael Riconosciuto]], a computer scientist associated with the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation]] joint venture in Indio, California, claimed in a March 21, 1991 affidavit that Brian made PROMIS available to him through [[Peter Videnieks]], and that Riconosciuto subsequently modified the software for worldwide distribution to law enforcement and intelligence agencies, including specific adaptations for Canada's [[Royal Canadian Mounted Police]] (RCMP) and [[Canadian Security Intelligence Service]] (CSIS).[^4]
+INSLAW's expanded conspiracy theory held that Brian, a California businessman and former Reagan administration associate, arranged with senior DOJ officials to obtain PROMIS in exchange for political favors connected to the 1980 [[October Surprise]] negotiations. [[Michael Riconosciuto]], a computer scientist associated with the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation]] joint venture in Indio, California, claimed in a March 21, 1991 affidavit that Brian made PROMIS available to him through Peter Videnieks, and that Riconosciuto subsequently modified the software for worldwide distribution to law enforcement and intelligence agencies, including specific adaptations for Canada's [[Royal Canadian Mounted Police]] (RCMP) and [[Canadian Security Intelligence Service]] (CSIS).[^4]
 
 Eight days after signing his affidavit, Riconosciuto was arrested on methamphetamine distribution charges, which he alleged were direct retaliation for his cooperation. He further claimed he and Brian had traveled to Iran in 1980 and paid $40 million to Iranian officials to delay the release of U.S. hostages until after Reagan's inauguration.[^4]
 
@@ -62,7 +68,7 @@ The Bua Report found "no credible evidence" supporting any of these internationa
 
 ### Danny Casolaro and The Octopus
 
-Freelance journalist [[Danny Casolaro]] began investigating the INSLAW matter in 1990 after contact with [[Bill Hamilton]] and expanded the inquiry into a unified narrative he called "[[The Octopus]]," which he believed linked the PROMIS theft to the [[Iran-Contra Affair]], the [[October Surprise]], and the [[Bank of Credit and Commerce International|BCCI]] scandal through a single network of intelligence operatives, organized crime figures, and corrupt government officials. Casolaro's primary source was [[Michael Riconosciuto]], whom he interviewed extensively before Riconosciuto's March 1991 arrest.[^4]
+Freelance journalist [[Danny Casolaro]] began investigating the INSLAW matter in 1990 after contact with Bill Hamilton and expanded the inquiry into a unified narrative he called "[[The Octopus]]," which he believed linked the PROMIS theft to the [[Iran-Contra Affair]], the October Surprise, and the [[Bank of Credit and Commerce International|BCCI]] scandal through a single network of intelligence operatives, organized crime figures, and corrupt government officials. Casolaro's primary source was Michael Riconosciuto, whom he interviewed extensively before Riconosciuto's March 1991 arrest.[^4]
 
 On August 10, 1991, Casolaro was found dead in his bathtub at the Sheraton Hotel in [[Martinsburg, West Virginia]], his wrists slashed twelve times. His research materials were missing from the hotel room. His death was ruled a suicide; a second autopsy in January 1992 confirmed the ruling but could not exclude foul play due to premature embalming of the body. Before traveling to Martinsburg, Casolaro had warned his brother that if anything happened to him there, "it would not be an accident."[^1][^4]
 
@@ -72,7 +78,7 @@ The House Judiciary Committee's 1992 report noted that Casolaro had "encountered
 
 In May 1995, the U.S. Senate referred INSLAW's claims to the Court of Federal Claims. Hearing Officer Judge Christine Miller ruled on July 31, 1997 that all versions of PROMIS were in the public domain and that the government had always been free to use the software as it wished. A three-judge Review Panel upheld this decision in August 1998 and notified the Senate accordingly. INSLAW received no compensation.[^1]
 
-[[Bill Hamilton]] continued to maintain that PROMIS was fraudulently stolen and distributed internationally. The full scope of the international distribution allegations, particularly those concerning [[Rafael Eitan]], [[Robert Maxwell]], and the embedded backdoor, has never been conclusively resolved in any formal proceeding.
+Bill Hamilton continued to maintain that PROMIS was fraudulently stolen and distributed internationally. The full scope of the international distribution allegations, particularly those concerning Rafael Eitan, Robert Maxwell, and the embedded backdoor, has never been conclusively resolved in any formal proceeding.
 
 ### Footnotes
 

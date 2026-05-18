@@ -52,7 +52,7 @@ Italian prosecutors charged Flavio Carboni and four others with murder. The 2010
 
 ### BCCI Connection
 
-Calvi and Banco Ambrosiano had overlapping relationships with [[Bank of Credit and Commerce International|BCCI]]. Both institutions served as mechanisms for moving funds outside normal Western banking regulatory frameworks. BCCI held deposits in Banco Ambrosiano entities, and both banks were involved in the financial flows supporting the Afghan Mujahideen and other covert operation financing that BCCI handled for the CIA and Saudi intelligence. The full extent of the BCCI-Banco Ambrosiano-Vatican Bank triangle was not established in any single judicial proceeding.[^2]
+Calvi and Banco Ambrosiano had overlapping relationships with BCCI. Both institutions served as mechanisms for moving funds outside normal Western banking regulatory frameworks. BCCI held deposits in Banco Ambrosiano entities, and both banks were involved in the financial flows supporting the Afghan Mujahideen and other covert operation financing that BCCI handled for the CIA and Saudi intelligence. The full extent of the BCCI-Banco Ambrosiano-Vatican Bank triangle was not established in any single judicial proceeding.[^2]
 
 ### Vatican Settlement
 

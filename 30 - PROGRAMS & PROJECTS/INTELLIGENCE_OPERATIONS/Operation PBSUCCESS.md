@@ -18,7 +18,7 @@ date: 1954-06-27
 location: "Guatemala City, Guatemala"
 ---
 
-Operation PBSUCCESS was the [[Central Intelligence Agency|CIA]]'s covert action program to overthrow the elected government of [[Guatemala]]n President [[Jacobo Arbenz]], executed in June 1954. Authorized by President [[Dwight Eisenhower]] in August 1953 at the urging of CIA Director [[Allen Dulles]] and Secretary of State [[John Foster Dulles]], the operation used a combination of psychological warfare, a small paramilitary force, CIA air assets, and deliberate cultivation of the Guatemalan military officer corps to produce Arbenz's resignation. It established the operational model that the CIA attempted to replicate in Cuba with the [[Bay of Pigs]] invasion seven years later.[^1]
+Operation PBSUCCESS was the [[Central Intelligence Agency|CIA]]'s covert action program to overthrow the elected government of [[Guatemala]]n President [[Jacobo Arbenz]], executed in June 1954. Authorized by President [[Dwight D. Eisenhower|Dwight Eisenhower]] in August 1953 at the urging of CIA Director [[Allen Dulles]] and Secretary of State [[John Foster Dulles]], the operation used a combination of psychological warfare, a small paramilitary force, CIA air assets, and deliberate cultivation of the Guatemalan military officer corps to produce Arbenz's resignation. It established the operational model that the CIA attempted to replicate in Cuba with the [[Bay of Pigs]] invasion seven years later.[^1]
 
 ### Background and Authorization
 
@@ -51,7 +51,7 @@ On June 27, 1954, Arbenz addressed the Guatemalan nation, resigned the presidenc
 
 ### Consequences and Legacy
 
-The CIA presented PBSUCCESS to [[Dwight D. Eisenhower|Eisenhower]] as a resounding success of covert action, supporting the belief that such operations could achieve strategic results with minimal U.S. military involvement and at low cost. The wrong lessons from Guatemala became the analytical foundation for the Bay of Pigs planning: that a small paramilitary force, CIA air support, and radio propaganda could collapse a hostile government if the military officer corps was properly cultivated.
+The CIA presented PBSUCCESS to Eisenhower as a resounding success of covert action, supporting the belief that such operations could achieve strategic results with minimal U.S. military involvement and at low cost. The wrong lessons from Guatemala became the analytical foundation for the Bay of Pigs planning: that a small paramilitary force, CIA air support, and radio propaganda could collapse a hostile government if the military officer corps was properly cultivated.
 
 Guatemala suffered decades of consequences. The Castillo Armas government reversed land reform, abolished the expanded franchise, and established the authoritarian-military framework that evolved into the Guatemalan Civil War (1960-1996), in which an estimated 200,000 people were killed, the majority of them indigenous Maya civilians. U.S. military assistance and training continued to the Guatemalan military through much of this conflict.
 

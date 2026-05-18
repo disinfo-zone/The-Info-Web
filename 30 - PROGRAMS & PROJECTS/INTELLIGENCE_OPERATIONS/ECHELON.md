@@ -1,4 +1,8 @@
 ﻿---
+title: ECHELON
+aliases:
+  - ECHELON
+  - Echelon
 category: "Intelligence Operation"
 tags:
   - Program
@@ -21,7 +25,7 @@ The principal ECHELON ground stations included:
 - [[Menwith Hill]], North Yorkshire, [[United Kingdom]] - operated by NSA with GCHQ support, described as the largest electronic monitoring station in the world
 - [[Pine Gap]], near Alice Springs, [[Australia]] - joint CIA/NSA facility
 - [[Misawa Air Base]], [[Japan]] - NSA facility
-- [[Leitrim]], [[Canada]] - CSE facility
+- [[Leitrim]], Canada - CSE facility
 - [[Waihopai]], [[New Zealand]] - GCSB facility
 - [[Morwenstow]], Cornwall, UK - GCHQ satellite intercept station
 

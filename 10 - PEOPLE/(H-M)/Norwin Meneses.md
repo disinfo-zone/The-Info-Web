@@ -1,15 +1,22 @@
 ---
+title: Norwin Meneses
+aliases:
+  - Norwin Meneses
+  - Norwin Meneses Cantarero
+  - El Rey de la Droga
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Nicaragua
   - Contra
   - 1970s
   - 1980s
   - 1990s
-  - Dark_Alliance_Investigation
-summary: Norwin Meneses Cantarero, known as "El Rey de la Droga," was Nicaragua's most prolific drug trafficker who simultaneously served as a DEA informant while running a cocaine distribution network spanning from Central America to California in support of the Contra movement.
+  - DarkAllianceInvestigation
+summary: "Norwin Meneses Cantarero, known as 'El Rey de la Droga,' was Nicaragua's most prolific drug trafficker who simultaneously served as a DEA informant while running a cocaine distribution network spanning from Central America to California in support of the Contra movement."
 born: 1943-06-21
 location: "Nicaragua"
 ---
@@ -143,7 +150,7 @@ The Meneses drug operation was a family enterprise. Nephews Guillermo Meneses, J
 
 ### Ilopango Drug Pipeline
 
-Enrique Miranda, who became [[Norwin Meneses|Meneses]]'s emissary to the cartels of Colombia in the late 1980s, testified in a 1992 trial in Nicaragua that "Norwin was selling drugs and tunneled the benefits to the Contras with help of high-ranking military officials of the Salvadoran Army, especially with the help of the head of the Salvadoran Air Force and a Nicaraguan pilot named Marcos Aguado." Miranda said cocaine from Colombia arrived at Costa Rican airstrips including one on CIA operative [[John Hull]]'s farm, and was placed aboard Contra planes flown into [[Ilopango Airbase|Ilopango Air Force Base]]. There, Aguado and Meneses supervised loading the cocaine onto U.S.-bound aircraft owned by the Salvadoran Air Force and the Miami-based CIA contractor [[Southern Air Transport]]. Miranda said Meneses told him U.S. military hardware stockpiled at Ilopango was loaded onto Salvadoran transport planes and flown south, where guns were traded for cocaine and flown back.[^8]
+Enrique Miranda, who became Meneses's emissary to the cartels of Colombia in the late 1980s, testified in a 1992 trial in Nicaragua that "Norwin was selling drugs and tunneled the benefits to the Contras with help of high-ranking military officials of the Salvadoran Army, especially with the help of the head of the Salvadoran Air Force and a Nicaraguan pilot named Marcos Aguado." Miranda said cocaine from Colombia arrived at Costa Rican airstrips including one on CIA operative [[John Hull]]'s farm, and was placed aboard Contra planes flown into [[Ilopango Airbase|Ilopango Air Force Base]]. There, Aguado and Meneses supervised loading the cocaine onto U.S.-bound aircraft owned by the Salvadoran Air Force and the Miami-based CIA contractor [[Southern Air Transport]]. Miranda said Meneses told him U.S. military hardware stockpiled at Ilopango was loaded onto Salvadoran transport planes and flown south, where guns were traded for cocaine and flown back.[^8]
 
 A member of Meneses's drug ring described by the Justice Department as "a long track record of providing information" and "extremely reliable" was questioned in April 1986 by a DEA intelligence analyst as part of a secret DEA assessment of Contra drug smuggling. He confirmed Meneses was selling cocaine to raise money for the Contras and said "some of these proceeds were used to buy weapons for the Contras in Colombia." The informant said Meneses had recruited him to coordinate drug and weapons shipments from Colombia, and that "Meneses boasted that he traveled in and out of Nicaragua freely and that U.S. agents would assist him."[^8]
 

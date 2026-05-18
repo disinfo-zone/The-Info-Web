@@ -29,7 +29,7 @@ The Nuclei Armati Rivoluzionari (Armed Revolutionary Nuclei, NAR) was an Italian
 
 NAR operated primarily in Rome, committing assassinations of magistrates, police officers, and political opponents, and bank robberies for operational financing. Its principal leaders included Massimo Fioravanti, a former child actor who became the organization's most active operational figure, and Francesca Mambro, who was Fioravanti's partner.
 
-The organization's ideology drew on third-positionist neofascism - explicitly rejecting both capitalism and communism, combining nationalist mysticism with violent direct action. This framework, similar to elements of [[Ordine Nuovo]]'s ideology, placed NAR within a continuity of Italian neofascist violence dating to the strategy of tension period of the late 1960s.[^1]
+The organization's ideology drew on third-positionist neofascism - explicitly rejecting both capitalism and communism, combining nationalist mysticism with violent direct action. This framework, similar to elements of Ordine Nuovo's ideology, placed NAR within a continuity of Italian neofascist violence dating to the strategy of tension period of the late 1960s.[^1]
 
 ### Bologna Bombing
 

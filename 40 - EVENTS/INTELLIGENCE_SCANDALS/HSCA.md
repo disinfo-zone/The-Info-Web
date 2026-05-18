@@ -14,7 +14,8 @@ tags:
   - 1970s
 category: "Intelligence Scandal"
 summary: "The House Select Committee on Assassinations (HSCA, 1976-1979) was the second major U.S. government inquiry into the Kennedy assassination, concluding that a 'probable conspiracy' existed based on acoustic evidence suggesting a fourth shot from the grassy knoll, finding that the CIA had improperly withheld information about the ZR/RIFLE program from the Warren Commission, and producing a report whose conspiracy finding was partially reversed by a 1982 acoustic re-analysis."
-date: 1979-01-01
+start: 1976-09-01
+end: 1979-01-03
 location: "Washington, D.C."
 ---
 

@@ -20,11 +20,11 @@ location: "Bari, Italy"
 summary: "Aldo Moro was Italy's five-time Prime Minister and Democrazia Cristiana president who was kidnapped and murdered by the Brigate Rosse in March-May 1978, with his abduction occurring precisely on the morning he was to present a coalition government incorporating the Italian Communist Party - a political development that Gladio-linked investigators and the Red Brigades themselves sought to prevent."
 ---
 
-Aldo Moro was born on September 23, 1916, in Maglie, [[Italy|Apulia]]. A professor of law at the University of Bari and Rome, he entered politics through the [[Democrazia Cristiana]] (DC) and served five times as Prime Minister of Italy between 1963 and 1976, more times than any other postwar leader. He was kidnapped on March 16, 1978, and murdered on May 9, 1978, by the [[Brigate Rosse|Red Brigades]].[^1]
+Aldo Moro was born on September 23, 1916, in Maglie, [[Italy]]. A professor of law at the University of Bari and Rome, he entered politics through the [[Democrazia Cristiana]] (DC) and served five times as Prime Minister of Italy between 1963 and 1976, more times than any other postwar leader. He was kidnapped on March 16, 1978, and murdered on May 9, 1978, by the [[Brigate Rosse|Red Brigades]].[^1]
 
 ### Political Career
 
-Moro was the preeminent figure of the DC's left wing, known for patient consensus-building and an unusual willingness to engage with Italy's substantial left-wing political forces. He led the DC's "opening to the left" in the early 1960s that incorporated the Italian Socialist Party (PSI) into government coalition, an approach that was then controversial but proved politically productive.
+Moro was the preeminent figure of the DC's left wing, known for patient consensus-building and an unusual willingness to engage with Italy's substantial left-wing political forces. He led the DC's "opening to the left" in the early 1960s that incorporated the [[Italian Socialist Party]] (PSI) into government coalition, an approach that was then controversial but proved politically productive.
 
 By the mid-1970s, with the [[Italian Communist Party]] (PCI) under [[Enrico Berlinguer]] representing approximately 34% of the electorate - the largest communist vote in any Western democracy - Moro developed what became known as the "historic compromise": a proposed collaboration between the DC and the PCI to stabilize Italian governance. Berlinguer, for his part, was moving the PCI toward Eurocommunism, distancing the party from Moscow and embracing parliamentary democracy. Their potential collaboration represented a fundamental realignment of Italian politics.[^1]
 

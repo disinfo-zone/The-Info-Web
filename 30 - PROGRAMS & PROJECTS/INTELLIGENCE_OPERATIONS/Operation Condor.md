@@ -25,7 +25,7 @@ Operation Condor (Spanish: Operacion Condor) was a clandestine program of politi
 
 ### Founding and Structure
 
-The founding meeting occurred in [[Santiago]], Chile, in November 1975, organized by Chilean DINA chief [[Manuel Contreras]] under CIA Station Chief Theodore Shackley's authority. Representatives of the intelligence services of all six founding members attended. The operational structure was divided into three phases:
+The founding meeting occurred in [[Santiago]], Chile, in November 1975, organized by Chilean DINA chief [[Manuel Contreras]] under CIA Station Chief [[Ted Shackley|Theodore Shackley]]'s authority. Representatives of the intelligence services of all six founding members attended. The operational structure was divided into three phases:
 
 - Phase I (Condor I): Exchange of intelligence on political opponents among member states
 - Phase II (Condor II): Cross-border kidnapping and assassination operations to eliminate opponents who had fled to other member states
@@ -43,7 +43,7 @@ Secretary of State [[Henry Kissinger]]'s awareness of and attitude toward Condor
 
 Documented Condor operations include:
 - September 30, 1974: Car bombing of exiled Chilean Army General Carlos Prats and his wife in [[Buenos Aires]] (Argentina)
-- September 21, 1976: Car bombing of [[Orlando Letelier]] in [[Washington, D.C.]] ([[United States]])
+- September 21, 1976: Car bombing of Orlando Letelier in Washington, D.C. ([[United States]])
 - October 1975: Assassination of Uruguayan former legislators Zelmar Michelini and Hector Gutierrez Ruiz in Buenos Aires
 - Multiple kidnappings of opponents across Condor member states
 

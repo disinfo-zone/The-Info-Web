@@ -1,4 +1,12 @@
 ---
+title: Dwight D. Eisenhower
+aliases:
+  - Dwight D. Eisenhower
+  - Dwight Eisenhower
+  - Eisenhower
+  - Ike
+created: 2026-05-14
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,7 +15,9 @@ tags:
   - Israel
   - Soviet
   - Military
-summary: "Eisenhower authorized a daring reconnaissance program, primarily targeting the Soviet Union, and assigned the development of the revolutionary U-2 Spy Plane jointly to the CIA and the Air Force."
+  - 1950s
+  - 1960s
+summary: "Dwight D. Eisenhower was the 34th President of the United States (1953-1961) who authorized Operation AJAX, Operation PBSUCCESS, and the U-2 aerial reconnaissance program, and whose farewell address warning against the military-industrial complex became foundational to critiques of Cold War national security state expansion."
 born: 1890-10-14
 died: 1969-03-28
 location: "Denison, Texas"

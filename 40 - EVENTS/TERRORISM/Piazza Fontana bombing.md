@@ -28,7 +28,7 @@ The device was a pressure-cooker bomb containing approximately 7 kilograms of TN
 
 ### The Anarchist Frame
 
-Italian police and the interior ministry moved within hours to blame the attack on anarchists. [[Giuseppe Pinelli]], a Milan railroad worker and anarchist activist, was detained on the night of December 15-16, 1969, for interrogation at the Milan police headquarters (Questura). In the early hours of December 16, Pinelli fell from a fourth-floor window of the building and died. Police commissioner Luigi Calabresi, who was conducting the interrogation, stated that Pinelli had jumped; witnesses described other circumstances. The official verdict was "accidental death."
+Italian police and the interior ministry moved within hours to blame the attack on anarchists. [[Giuseppe Pinelli]], a Milan railroad worker and anarchist activist, was detained on the night of December 15-16, 1969, for interrogation at the Milan police headquarters (Questura). In the early hours of December 16, Pinelli fell from a fourth-floor window of the building and died. Police commissioner [[Luigi Calabresi]], who was conducting the interrogation, stated that Pinelli had jumped; witnesses described other circumstances. The official verdict was "accidental death."
 
 Pietro Valpreda, another anarchist, was arrested and charged with the bombing. He remained in preventive detention for three years before being released. He was definitively acquitted in 1987, 18 years after the attack.[^1]
 
@@ -38,7 +38,7 @@ Italian judicial investigations - which continued for more than three decades th
 
 The judicial path was exceptionally tortured. Freda and Ventura were acquitted and reacquitted through procedural maneuvers that investigators attributed in part to deliberate interference by intelligence service personnel who had knowledge of their responsibility. A Venetian judge, Giovanni Tamburino, produced detailed findings in the early 1970s linking Freda to the bombing, but jurisdictional shifts to the Catanzaro court resulted in acquittals.
 
-In 1984, Vincenzo Vinciguerra, an Ordine Nuovo member imprisoned for the 1972 [[Peteano bombing]] who had become a state's witness, testified that Italian stay-behind networks connected to [[NATO]] had organized the strategy of tension attacks, with neofascist operatives as the instruments and military intelligence as the protection mechanism. His testimony described a network in which genuine neofascist terrorists provided deniable operational capacity for attacks that served state intelligence purposes.[^1]
+In 1984, [[Vincenzo Vinciguerra]], an Ordine Nuovo member imprisoned for the 1972 [[Peteano bombing]] who had become a state's witness, testified that Italian stay-behind networks connected to [[NATO]] had organized the strategy of tension attacks, with neofascist operatives as the instruments and military intelligence as the protection mechanism. His testimony described a network in which genuine neofascist terrorists provided deniable operational capacity for attacks that served state intelligence purposes.[^1]
 
 In a May 3, 2005 ruling, the Italian Court of Cassation found that Freda and Ventura had carried out the attack, but could not convict them: both had been definitively acquitted in 1987, and the ne bis in idem (double jeopardy) principle barred retrial. The court's finding of moral responsibility without criminal punishment is the final judicial word on the massacre. No individual was ever imprisoned specifically for the Piazza Fontana attack.[^2]
 
@@ -50,7 +50,7 @@ The bombing served the political objectives of the strategy of tension in three 
 
 ### Calabresi Murder
 
-[[Luigi Calabresi]], the police commissioner who conducted the Pinelli interrogation, was himself shot and killed outside his Milan apartment on May 17, 1972, by a gunman connected to [[Lotta Continua]], a far-left group. [[Adriano Sofri]], the Lotta Continua leader, was convicted of ordering the killing after a thirty-year judicial process. The killing of Calabresi - regardless of his individual culpability for Pinelli's death - removed a witness to interrogation procedures and added to the cycle of political violence the bombing had initiated.[^2]
+Luigi Calabresi, the police commissioner who conducted the Pinelli interrogation, was himself shot and killed outside his Milan apartment on May 17, 1972, by a gunman connected to [[Lotta Continua]], a far-left group. [[Adriano Sofri]], the Lotta Continua leader, was convicted of ordering the killing after a thirty-year judicial process. The killing of Calabresi - regardless of his individual culpability for Pinelli's death - removed a witness to interrogation procedures and added to the cycle of political violence the bombing had initiated.[^2]
 
 ### Footnotes
 

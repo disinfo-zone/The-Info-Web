@@ -21,7 +21,7 @@ tags:
 born: 1922-01-15
 died: 2006-02-20
 location: "Cicero, Illinois"
-summary: "Archbishop Paul Marcinkus was the American-born president of the Vatican Bank (IOR) from 1971 to 1989 who authorized the bank's participation in Roberto Calvi's Banco Ambrosiano offshore shell company network and the Michele Sindona transactions, avoided Italian prosecution for 17 years by remaining within Vatican sovereign territory, and returned to the United States in 1991 never having faced trial."
+summary: "Archbishop Paul Marcinkus was the American-born president of the Vatican Bank (IOR) from 1971 to 1989 who authorized the bank's participation in Roberto Calvi's Banco Ambrosiano offshore shell company network and the Michele Sindona transactions, avoided Italian prosecution for nine years by remaining within Vatican sovereign territory, and returned to the United States in 1991 never having faced trial."
 ---
 
 Paul Casimir Marcinkus was born on January 15, 1922, in Cicero, [[Illinois]], to Lithuanian immigrant parents. He was ordained a Catholic priest in 1947, served in the Vatican Secretariat of State from 1952, and rose to become the most powerful financial official in the Holy See before dying on February 20, 2006, in Sun City, Arizona, never having faced criminal prosecution for his role in the Vatican Bank scandals of the 1970s and 1980s.[^1]

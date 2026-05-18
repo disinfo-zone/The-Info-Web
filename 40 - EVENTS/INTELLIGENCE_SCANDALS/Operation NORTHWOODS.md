@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 title: Operation NORTHWOODS
 aliases:
   - Northwoods
@@ -15,7 +15,7 @@ tags:
   - 1960s
 category: "Intelligence Scandal"
 summary: "Operation NORTHWOODS was a March 13, 1962 document signed by the Joint Chiefs of Staff proposing a series of staged false-flag attacks against American citizens and military assets that could be blamed on Cuba to justify a U.S. invasion, rejected by Secretary of Defense McNamara and President Kennedy, and declassified in 1997 through the JFK Records Act as one of the most significant disclosures of Cold War government deception planning."
-date: 1962-03-13
+start: 1962-03-13
 location: "Washington, D.C."
 ---
 

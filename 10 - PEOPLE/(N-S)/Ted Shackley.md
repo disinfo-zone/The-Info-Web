@@ -1,4 +1,12 @@
 ---
+title: Ted Shackley
+aliases:
+  - Ted Shackley
+  - Theodore George Shackley
+  - Theodore Shackley
+  - The Blond Ghost
+created: 2026-05-14
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
@@ -6,9 +14,9 @@ tags:
   - Vietnam
   - Laos
   - Cuba
-  - Iran_Contra
-  - Safari_Club
-  - Cold_War
+  - IranContra
+  - SafariClub
+  - ColdWar
   - PROMIS
   - 1960s
   - 1970s

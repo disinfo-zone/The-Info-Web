@@ -48,7 +48,7 @@ The [[Peteano bombing]] of May 31, 1972, in which three Carabinieri were killed 
 
 The Italicus Express bombing of August 4, 1974, which killed 12 and wounded 48.
 
-The [[Bologna railway station bombing]] of August 2, 1980, which killed 85 people and wounded more than 200 in the deadliest attack of the era. Decades of judicial proceedings ultimately produced convictions of neo-fascist Nuclei Armati Rivoluzionari members, though the precise command structure and political authorization for the attack remained contested.[^1]
+The [[Bologna railway station bombing]] of August 2, 1980, which killed 85 people and wounded more than 200 in the deadliest attack of the era. Decades of judicial proceedings ultimately produced convictions of neo-fascist [[Nuclei Armati Rivoluzionari]] members, though the precise command structure and political authorization for the attack remained contested.[^1]
 
 ### Licio Gelli and Propaganda Due
 

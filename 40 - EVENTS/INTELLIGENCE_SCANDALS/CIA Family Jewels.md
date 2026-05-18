@@ -1,15 +1,21 @@
 ---
+title: CIA Family Jewels
+aliases:
+  - CIA Family Jewels
+  - Family Jewels
+  - Potential Flap Activities
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence Scandal"
 tags:
   - Event
   - CIA
-  - Church_Committee
-  - Domestic_Surveillance
-  - Assassination_Plots
-  - MKUltra
+  - ChurchCommittee
+  - DomesticSurveillance
+  - AssassinationPlots
+  - MKULTRA
   - Watergate
-  - 1973
-  - 1975
+  - 1970s
 summary: "The CIA 'Family Jewels' was a 693-page internal compilation of potentially illegal activities assembled in May 1973 at Director James Schlesinger's direction, partly declassified in 2007, documenting assassination plots, domestic surveillance, illegal mail interception, and drug testing programs."
 start: 1973-05-09
 location: "Washington, D.C."
@@ -23,7 +29,7 @@ The Family Jewels documented activities across several categories:
 
 - Assassination plots against foreign leaders (Cuba's Fidel Castro multiple times; Patrice Lumumba of Congo; Rafael Trujillo of the Dominican Republic; Ngo Dinh Diem of South Vietnam; General René Schneider of Chile)
 - [[Operation CHAOS]] (MHCHAOS): domestic surveillance of American citizens; files on 7,200 Americans
-- MAIL: illegal opening of first-class mail under the HT/LINGUAL program, which had run since 1952
+- MAIL: illegal opening of first-class mail under the [[HTLINGUAL|HT/LINGUAL]] program, which had run since 1952
 - [[MKULTRA]]-related drug testing programs, including administering LSD to unwitting subjects
 - Domestic break-ins and wiretaps
 - Testing of spy equipment on American citizens without consent

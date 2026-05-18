@@ -1,13 +1,18 @@
 ---
-category: "PROMIS Scandal"
+title: Edwin Meese
+aliases:
+  - Edwin Meese
+  - Edwin Meese III
+  - Ed Meese
+category: "Intelligence & Government"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
 tags:
   - Person
   - PROMIS
   - Lawyer
   - DoJ
-  - Dark_Alliance_Investigation
+  - DarkAllianceInvestigation
 summary: "Edwin Meese served as Counselor to President Reagan and then as Attorney General from 1985 to 1988, and was named by INSLAW and the House Judiciary Committee as a central figure in the alleged conspiracy to steal the PROMIS software through his long association with Earl Brian and his recusal from PROMIS matters that left Lowell Jensen to administer the affair."
 born: 1931-12-02
 location: "Oakland, California"
@@ -16,9 +21,9 @@ Edwin Meese III served as Counselor to President [[Ronald Reagan]] from 1981 to 
 
 ### Role in the PROMIS Software Scandal
 
-The House Judiciary Committee's September 1992 investigation (House Report 102-857) placed Meese at the center of its conspiracy theory. The committee found that Meese and [[Lowell Jensen]] had "consciously ignored INSLAW's proprietary rights" and that Attorney Generals Meese and [[Richard Thornburgh]] had "blocked or restricted congressional inquiries into the matter, ignored the findings of two courts and refused to ask for the appointment of an independent counsel."[^1]
+The House Judiciary Committee's September 1992 investigation (House Report 102-857) placed Meese at the center of its conspiracy theory. The committee found that Meese and Lowell Jensen had "consciously ignored INSLAW's proprietary rights" and that Attorney Generals Meese and [[Richard Thornburgh]] had "blocked or restricted congressional inquiries into the matter, ignored the findings of two courts and refused to ask for the appointment of an independent counsel."[^1]
 
-Meese's connection to [[Earl Brian]] was the committee's primary circumstantial evidence of motive. Both men had served together in Reagan's Sacramento cabinet; in 1985, Meese's wife purchased stock in a Brian-controlled company.[^1] INSLAW alleged that Meese had arranged for the DOJ to steal PROMIS and funnel its distribution rights to Brian as a reward for Brian's alleged role in the [[October Surprise]] negotiations - a theory that, if true, would make the PROMIS theft a product of a political debt going back to 1980.[^2]
+Meese's connection to Earl Brian was the committee's primary circumstantial evidence of motive. Both men had served together in Reagan's Sacramento cabinet; in 1985, Meese's wife purchased stock in a Brian-controlled company.[^1] INSLAW alleged that Meese had arranged for the DOJ to steal PROMIS and funnel its distribution rights to Brian as a reward for Brian's alleged role in the [[October Surprise]] negotiations - a theory that, if true, would make the PROMIS theft a product of a political debt going back to 1980.[^2]
 
 Upon becoming Attorney General in February 1985, Meese reportedly recused himself from all PROMIS-related matters, citing his prior association with Brian. Jensen, then serving as Deputy Attorney General, took over all PROMIS decision-making on Meese's behalf.[^2] This recusal produced a specific documentary trail: a May 1985 letter advising that PROMIS software was being provided to an Arab sheik for resale and distribution, brokered by [[Manucher Ghorbanifar]], [[Adnan Khashoggi]], and [[Richard Armitage]], was brought to [[William Bradford Reynolds]] for signature by Jensen's secretary while Jensen was absent - Reynolds signed it under the impression that the letter required a signature from within Meese's inner circle.[^2]
 

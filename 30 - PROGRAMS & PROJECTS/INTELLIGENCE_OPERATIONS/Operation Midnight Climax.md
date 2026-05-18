@@ -21,11 +21,11 @@ end: 1963-01-01
 location: "San Francisco, California / New York City, New York"
 ---
 
-Operation Midnight Climax was a covert subprogram of [[Project MKUltra]] in which the [[Central Intelligence Agency|CIA]] established brothel-style safe houses in [[San Francisco]] and [[New York City]] to test [[LSD]] on unconsenting civilian subjects in conditions approximating operational field use. The program was authorized by [[Sidney Gottlieb]], chief of the CIA's [[Technical Services Division]], and operated by George Hunter White, a [[Federal Bureau of Narcotics]] agent working under CIA contract. It ran from approximately 1955 to 1963, when White's retirement ended the San Francisco operation. The men dosed in the safe houses were given LSD without their knowledge and observed by CIA personnel through one-way mirrors. The program was exposed during the 1977 Senate Health Subcommittee investigation of MKULTRA.[^1]
+Operation Midnight Climax was a covert subprogram of [[Project MKUltra]] in which the [[Central Intelligence Agency|CIA]] established brothel-style safe houses in [[San Francisco]] and [[New York City]] to test [[LSD]] on unconsenting civilian subjects in conditions approximating operational field use. The program was authorized by [[Sidney Gottlieb]], chief of the CIA's [[Technical Services Division]], and operated by [[George Hunter White]], a [[Federal Bureau of Narcotics]] agent working under CIA contract. It ran from approximately 1955 to 1963, when White's retirement ended the San Francisco operation. The men dosed in the safe houses were given LSD without their knowledge and observed by CIA personnel through one-way mirrors. The program was exposed during the 1977 Senate Health Subcommittee investigation of MKULTRA.[^1]
 
 ### Origins and Rationale
 
-[[Project MKUltra]]'s LSD research had primarily been conducted in institutional settings - hospitals, prisons, and academic laboratories - where the relationship between experimenter and subject, however coercive, maintained at least a nominal clinical framework. By the mid-1950s, Gottlieb wanted to test LSD in conditions approximating actual covert operational use: clandestine settings, subjects unaware they had been dosed, and social contexts - drinking, conversation, sexual situations - rather than clinical ones.
+Project MKUltra's LSD research had primarily been conducted in institutional settings - hospitals, prisons, and academic laboratories - where the relationship between experimenter and subject, however coercive, maintained at least a nominal clinical framework. By the mid-1950s, Gottlieb wanted to test LSD in conditions approximating actual covert operational use: clandestine settings, subjects unaware they had been dosed, and social contexts - drinking, conversation, sexual situations - rather than clinical ones.
 
 The operational theory was that LSD could disrupt a target's cognitive defenses sufficiently to extract information under interrogation. Laboratory testing of this theory produced results that could not be generalized to field conditions; a controlled simulation of field use was the methodology Gottlieb chose to fill that gap. George Hunter White was selected as the operational manager in part because his narcotics enforcement career gave him established access to underworld contacts and prostitutes, and in part because his personality - aggressive, personally dissolute, willing to transgress ethical constraints - suited the program's requirements.[^1]
 
@@ -35,7 +35,7 @@ White established the first San Francisco safe house on Telegraph Hill, later re
 
 The men served as test subjects were drawn from populations unlikely to file credible complaints: drug users, sailors, petty criminals, and casual contacts of the prostitutes. They were served drinks spiked with LSD at doses Gottlieb specified. White and CIA observers watched from behind the one-way mirrors, recording behavioral responses and timing the onset and duration of effects.
 
-White maintained detailed notes throughout the operation. His personal diaries, discovered by journalist John Marks during Freedom of Information Act research in 1977, described Midnight Climax operations with evident enthusiasm, recording both the experimental results and his personal reactions to the circumstances. The San Francisco operation ran for approximately eight years until White's retirement from the [[Federal Bureau of Narcotics]] in 1963.[^1]
+White maintained detailed notes throughout the operation. His personal diaries, discovered by journalist John Marks during Freedom of Information Act research in 1977, described Midnight Climax operations with evident enthusiasm, recording both the experimental results and his personal reactions to the circumstances. The San Francisco operation ran for approximately eight years until White's retirement from the Federal Bureau of Narcotics in 1963.[^1]
 
 ### The New York Operation
 
@@ -53,7 +53,7 @@ White's diaries are held in the Special Collections of Foothill College Library,
 
 Midnight Climax was disclosed during the August 3, 1977 Senate Health Subcommittee hearings ("Project MKULTRA, the CIA's Program of Research in Behavioral Modification"). The surviving MKULTRA documents - approximately 20,000 pages misfiled in a financial records annex and overlooked in the 1973 destruction - were sufficient to establish the safe houses' existence, White's role, and the funding structure.
 
-The individual subjects dosed in the safe houses were never identified or notified. No compensation program was created and no criminal prosecution resulted. [[Sidney Gottlieb]] testified before the subcommittee; he confirmed the program's existence and its methods while defending the operational rationale.[^1]
+The individual subjects dosed in the safe houses were never identified or notified. No compensation program was created and no criminal prosecution resulted. Sidney Gottlieb testified before the subcommittee; he confirmed the program's existence and its methods while defending the operational rationale.[^1]
 
 ### Footnotes
 

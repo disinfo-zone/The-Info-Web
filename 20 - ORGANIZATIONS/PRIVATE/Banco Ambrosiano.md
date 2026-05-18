@@ -38,7 +38,7 @@ An estimated $1.3 billion was exported from the bank through the offshore compan
 
 Funds were channeled to Argentine businessmen and political figures through Calvi's Argentine connections, possibly in connection with activities of the Argentine military government (1976-1983).
 
-Payments were made to Italian political parties, primarily the Democrazia Cristiana and Socialist Party, through mechanisms that made them untraceable to Italian banking regulations.
+Payments were made to Italian political parties, primarily the [[Democrazia Cristiana]] and [[Italian Socialist Party|Socialist Party]], through mechanisms that made them untraceable to Italian banking regulations.
 
 Alleged payments were made in support of the [[Solidarity (Poland)|Solidarity]] movement in Poland, reportedly involving both the Vatican and CIA interests in destabilizing the Polish communist government - though the documentary basis for this specific claim was not fully established.
 

@@ -1,15 +1,20 @@
 ---
+title: William J. Casey
+aliases:
+  - William J. Casey
+  - William Joseph Casey
+  - Bill Casey
 category: "Intelligence & Government"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
 tags:
   - Person
   - CIA
   - Politician
   - Israel
-  - October Surprise
-  - Iran-Contra
-  - Dark_Alliance_Investigation
+  - OctoberSurprise
+  - IranContra
+  - DarkAllianceInvestigation
 summary: "William J. Casey was Reagan's 1980 campaign manager and CIA Director from 1981 to 1987 who, among other disputed roles, is alleged to have secretly negotiated with Iranian representatives in Madrid and Paris in 1980 to delay the release of American hostages past Election Day -- the core allegation of the October Surprise -- and who died of a brain tumor in May 1987 as the Iran-Contra scandal unfolded."
 born: 1913-03-13
 died: 1987-05-06
@@ -19,7 +24,7 @@ William Joseph Casey was born March 13, 1913, in Elmhurst, Queens, New York. He 
 
 ### October Surprise
 
-The central allegation against Casey is that he served as the principal American negotiator in secret meetings with Iranian representatives in Spain and France in 1980, during which the [[Ronald Reagan|Reagan]] campaign agreed to delay the release of 52 American hostages held in [[Iran]] until after the November 4 election in exchange for promises of arms and the release of frozen Iranian assets. The allegation is the subject of the [[October Surprise]] affair.[^1]
+The central allegation against Casey is that he served as the principal American negotiator in secret meetings with Iranian representatives in Spain and France in 1980, during which the Reagan campaign agreed to delay the release of 52 American hostages held in [[Iran]] until after the November 4 election in exchange for promises of arms and the release of frozen Iranian assets. The allegation is the subject of the [[October Surprise]] affair.[^1]
 
 Multiple sources identified two probable meeting locations: Madrid in July 1980 and Paris in October 1980. A U.S. Embassy cable indicating Casey was in Madrid "for purposes unknown" in summer 1980 was withheld from the House October Surprise Task Force by Bush administration officials and only surfaced through journalist [[Robert Parry]]'s reporting in 2011. Casey's personal calendar for October 20, 1980, showed an 8 a.m. Metropolitan Club appointment in Washington, which the House Task Force cited in its January 1993 report finding "no credible evidence" of a deal. Former French intelligence chief Alexandre de Marenches, through his biographer's sworn testimony, indicated he had arranged meetings between Casey and Iranians in Paris in October 1980.[^1][^2]
 
@@ -33,11 +38,11 @@ Casey was an enthusiastic supporter of the [[KH-11]] imagery-sharing program wit
 
 ### Launching the Contra War
 
-Reagan approved the intelligence finding for covert operations in [[Nicaragua]] in December 1981, and sent Casey to present it to Congress. Halting Sandinista arms shipments to [[El Salvador]] was the official reason Casey gave, but the operation's scope extended far beyond border policing. According to one account, Casey himself leaked news of the Contra project to *Newsweek* to ensure it could not be abandoned, reasoning that stopping it would look like another [[Bay of Pigs|Bay of Pigs]].[^3]
+Reagan approved the intelligence finding for covert operations in [[Nicaragua]] in December 1981, and sent Casey to present it to Congress. Halting Sandinista arms shipments to [[El Salvador]] was the official reason Casey gave, but the operation's scope extended far beyond border policing. According to one account, Casey himself leaked news of the Contra project to *Newsweek* to ensure it could not be abandoned, reasoning that stopping it would look like another [[Bay of Pigs]].[^3]
 
 ### The Secret 1982 Agreement
 
-In early 1982, Casey and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted CIA assets from drug crimes reporting. Crimes committed by people "acting for" an intelligence agency no longer needed to be reported to the [[Department of Justice]], and drug offenses were specifically removed from the list of crimes the CIA was required to report. For thirteen years, the CIA and Justice had what Inspector General Hitz called "a gentleman's agreement to look the other way." [[Robert Parry]] argued the timing proved premeditation: "That could only have been done for one purpose. They were anticipating what eventually happened. They knew drugs were going to be sold."[^3]
+In early 1982, Casey and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted CIA assets from drug crimes reporting. Crimes committed by people "acting for" an intelligence agency no longer needed to be reported to the [[Department of Justice]], and drug offenses were specifically removed from the list of crimes the CIA was required to report. For thirteen years, the CIA and Justice had what Inspector General Hitz called "a gentleman's agreement to look the other way." Robert Parry argued the timing proved premeditation: "That could only have been done for one purpose. They were anticipating what eventually happened. They knew drugs were going to be sold."[^3]
 
 ### Protecting Drug Traffickers
 

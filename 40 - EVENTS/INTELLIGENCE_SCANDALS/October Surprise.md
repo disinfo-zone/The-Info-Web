@@ -1,19 +1,24 @@
 ---
-category: "Intelligence Scandal"
+title: October Surprise
+aliases:
+  - October Surprise
+  - October Surprise Scandal
+  - 1980 Hostage Deal
 created: 2024-04-26
-updated: 2026-05-01
+updated: 2026-05-17
+category: "Intelligence Scandal"
 tags:
   - Event
   - Iran
-  - October Surprise
+  - OctoberSurprise
   - CIA
   - Israel
   - Reagan
   - PROMIS
   - INSLAW
 summary: "The October Surprise allegation holds that William J. Casey and other figures in Ronald Reagan's 1980 presidential campaign secretly negotiated with Iranian representatives to delay the release of 52 American hostages past Election Day in exchange for promises of arms and release of frozen Iranian assets, with the hostages released minutes after Reagan was sworn in on January 20, 1981."
-start: 1980
-end: 1981
+start: 1980-07-01
+end: 1981-01-20
 location: ["Madrid, Spain", "Paris, France"]
 ---
 The October Surprise refers to the allegation that senior figures in [[Ronald Reagan]]'s 1980 presidential campaign secretly negotiated with representatives of the Iranian government to delay the release of 52 American hostages held since November 4, 1979, until after Election Day, November 4, 1980. The goal was to deny President [[Jimmy Carter]] a diplomatic triumph -- the freeing of the hostages -- that could have swung the election in Carter's favor. In exchange, the Reagan camp allegedly promised [[Iran]] the release of its frozen assets (approximately $8 billion frozen by Carter) and arms sales via [[Israel]] once Reagan took office. The hostages were released January 20, 1981, minutes after Reagan was sworn in.[^1]
@@ -30,7 +35,7 @@ Abol Hassan Bani-Sadr, the first President of the Islamic Republic (February 198
 
 Cyrus Hashemi and his brother Jamshid Hashemi, Iranian-American bankers with CIA connections, claimed they helped arrange two consecutive days of meetings at a Madrid hotel in late July 1980 between Casey and Karrubi. Cyrus Hashemi died in July 1986, three months after cooperating in a U.S. Customs arms sting -- a timing that has fueled speculation about his death.[^1]
 
-[[George H.W. Bush]], Reagan's running mate, was alleged by [[Ari Ben-Menashe]] and the Russian intelligence report submitted to Congress to have personally attended the Paris meeting. The House October Surprise Task Force found Secret Service records placing Bush in the United States on the alleged Paris date.[^2]
+George H.W. Bush, Reagan's running mate, was alleged by [[Ari Ben-Menashe]] and the Russian intelligence report submitted to Congress to have personally attended the Paris meeting. The House October Surprise Task Force found Secret Service records placing Bush in the United States on the alleged Paris date.[^2]
 
 ### Alleged Meetings
 
@@ -62,7 +67,7 @@ This account is considered independent of and parallel to the alleged Casey-Iran
 
 ### Ari Ben-Menashe's Account
 
-[[Ari Ben-Menashe]], a self-proclaimed Israeli military intelligence officer, claimed in *Profits of War* (1992) and in testimony to investigators that he personally witnessed meetings including the October 1980 Paris conference, at which Bush was present. He alleged that $56 million was paid in [[Guatemala]] from a Saudi ambassador, with $4 million designated for [[Earl Brian]] and $52 million for a Kashani intermediary.[^3]
+Ari Ben-Menashe, a self-proclaimed Israeli military intelligence officer, claimed in *Profits of War* (1992) and in testimony to investigators that he personally witnessed meetings including the October 1980 Paris conference, at which Bush was present. He alleged that $56 million was paid in [[Guatemala]] from a Saudi ambassador, with $4 million designated for [[Earl Brian]] and $52 million for a Kashani intermediary.[^3]
 
 The House Task Force found Ben-Menashe's testimony "totally lacking in credibility" and "fabricated." The Task Force determined that his principal Iranian intermediary "Mehdi Kashani," described at length in *Profits of War*, did not exist as a single individual but appeared to be a composite of two real persons blended into a fictional character. Ben-Menashe's travel records showed civilian passport entries inconsistent with his claimed senior intelligence officer status, and Bani-Sadr later retracted the corroboration of Bush's presence he had initially provided.[^2][^3]
 
@@ -72,15 +77,15 @@ The House Task Force found Ben-Menashe's testimony "totally lacking in credibili
 
 ### Connection to PROMIS Software
 
-[[Danny Casolaro]] was investigating the October Surprise as a central strand of his "[[The Octopus]]" thesis, which held that the same covert network ran through the 1980 deal, the theft of [[INSLAW]]'s [[PROMIS]] software, and the [[Iran-Contra Affair]]. In his framework, figures rewarded for their role in the hostage delay -- particularly [[Earl Brian]] -- later received access to PROMIS as part of a compensation arrangement flowing from the same covert channels.[^4]
+[[Danny Casolaro]] was investigating the October Surprise as a central strand of his "[[The Octopus]]" thesis, which held that the same covert network ran through the 1980 deal, the theft of [[INSLAW]]'s [[PROMIS]] software, and the [[Iran-Contra Affair]]. In his framework, figures rewarded for their role in the hostage delay -- particularly Earl Brian -- later received access to PROMIS as part of a compensation arrangement flowing from the same covert channels.[^4]
 
-[[Michael Riconosciuto]] claimed that he and [[Earl Brian]] traveled to [[Iran]] in 1980 and paid $40 million to Iranian officials to delay the hostage release past Reagan's inauguration, directly linking the PROMIS theft to the 1980 deal.[^4]
+[[Michael Riconosciuto]] claimed that he and Earl Brian traveled to Iran in 1980 and paid $40 million to Iranian officials to delay the hostage release past Reagan's inauguration, directly linking the PROMIS theft to the 1980 deal.[^4]
 
-[[Ari Ben-Menashe]] stated after Danny Casolaro's death in August 1991 that two FBI agents from Lexington, Kentucky -- including one named E.B. Cartinhour -- were en route to Martinsburg, West Virginia, to deliver evidence that the FBI was illegally using PROMIS, and that one agent was disaffected because his superiors had refused to indict senior Reagan officials for their October Surprise role.[^3]
+Ari Ben-Menashe stated after Danny Casolaro's death in August 1991 that two FBI agents from Lexington, Kentucky -- including one named E.B. Cartinhour -- were en route to Martinsburg, West Virginia, to deliver evidence that the FBI was illegally using PROMIS, and that one agent was disaffected because his superiors had refused to indict senior Reagan officials for their October Surprise role.[^3]
 
 ### Connection to Iran-Contra
 
-The October Surprise allegation, if substantiated, represents the founding transaction of the network that became the [[Iran-Contra Affair]]: the same Israeli arms dealers (Ya'acov Nimrodi, Al Schwimmer), Iranian intermediaries ([[Manucher Ghorbanifar]]), and CIA-connected arms brokers that characterized the 1985-1986 Iran-Contra deals documented by the Tower Commission and the Walsh Independent Counsel investigation. The basic mechanism -- Israel ships U.S.-approved arms to Iran -- appears in both episodes. Robert Parry, Gary Sick, and Craig Unger have each argued that Iran-Contra was not a discrete 1985 initiative but the continuation of a covert U.S.-Israel-Iran relationship established in 1980.[^1][^6]
+The October Surprise allegation, if substantiated, represents the founding transaction of the network that became the Iran-Contra Affair: the same Israeli arms dealers (Ya'acov Nimrodi, Al Schwimmer), Iranian intermediaries ([[Manucher Ghorbanifar]]), and CIA-connected arms brokers that characterized the 1985-1986 Iran-Contra deals documented by the Tower Commission and the Walsh Independent Counsel investigation. The basic mechanism -- Israel ships U.S.-approved arms to Iran -- appears in both episodes. Robert Parry, Gary Sick, and Craig Unger have each argued that Iran-Contra was not a discrete 1985 initiative but the continuation of a covert U.S.-Israel-Iran relationship established in 1980.[^1][^6]
 
 ### Footnotes
 

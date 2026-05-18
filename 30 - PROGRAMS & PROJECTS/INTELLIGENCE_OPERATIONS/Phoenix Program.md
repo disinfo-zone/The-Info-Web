@@ -28,9 +28,9 @@ The Phoenix Program (Vietnamese: Phung Hoang) was a [[Central Intelligence Agenc
 
 The program's institutional precursor was the Provincial Reconnaissance Units (PRUs), which the CIA established beginning in 1965 as small, locally recruited paramilitary teams tasked with VCI identification and capture. The PRUs operated alongside and overlapped with South Vietnamese intelligence structures. They were funded and advised by the CIA and developed targeting protocols - built on informant networks, captured documents, and intelligence from prisoners - for identifying VCI members.
 
-In 1967, [[Robert Komer]], a National Security Council official assigned by President [[Lyndon B. Johnson|Lyndon Johnson]] to improve the non-military aspects of Vietnam pacification, organized CORDS as an umbrella structure integrating military and civilian pacification programs. Phoenix/Phung Hoang was established in July 1968 as CORDS's primary targeting component.
+In 1967, [[Robert W. Komer|Robert Komer]], a National Security Council official assigned by President [[Lyndon B. Johnson|Lyndon Johnson]] to improve the non-military aspects of Vietnam pacification, organized CORDS as an umbrella structure integrating military and civilian pacification programs. Phoenix/Phung Hoang was established in July 1968 as CORDS's primary targeting component.
 
-Komer was succeeded as CORDS director by [[William Colby]], who had previously run the CIA's Far East Division, in late 1968. Colby directed Phoenix through the program's most active phase until his departure in 1971.[^1]
+Komer was succeeded as CORDS director by William Colby, who had previously run the CIA's Far East Division, in late 1968. Colby directed Phoenix through the program's most active phase until his departure in 1971.[^1]
 
 ### Methods: Intelligence Targeting and Neutralization
 
@@ -71,7 +71,7 @@ The Phoenix Program became the reference point for subsequent debate about targe
 
 Its methodological influence was explicitly acknowledged in subsequent American counterinsurgency programs. The combination of biometric identification, informant networks, targeted killing authority, and performance metrics that characterized Phoenix reappeared in modified form in the Iraq and Afghanistan campaigns of the 2000s-2010s. Counterterrorism programs targeting al-Qaeda and Islamic State networks used targeting methodologies whose analytic lineage traced through Phoenix to the CIA's systematic approaches to identifying and neutralizing political networks.[^3]
 
-The [[KUBARK Counterintelligence Interrogation|KUBARK]] and Human Resource Exploitation Training Manual framework - used in Phoenix-adjacent South Vietnamese detention facilities and later in Latin American programs during the 1970s-1980s - represented the explicit link between the behavioral modification research of [[Project MKUltra|MKULTRA]] and the operational interrogation practices of Phoenix-generation counterinsurgency.[^1]
+The KUBARK and Human Resource Exploitation Training Manual framework - used in Phoenix-adjacent South Vietnamese detention facilities and later in Latin American programs during the 1970s-1980s - represented the explicit link between the behavioral modification research of [[Project MKUltra|MKULTRA]] and the operational interrogation practices of Phoenix-generation counterinsurgency.[^1]
 
 ### Footnotes
 

@@ -1,12 +1,19 @@
 ---
+title: Media FBI Office Break-In
+aliases:
+  - Media FBI Office Break-In
+  - Media Break-In
+  - Citizens' Commission to Investigate the FBI
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence Scandal"
 tags:
   - Event
   - FBI
   - COINTELPRO
-  - Domestic_Surveillance
+  - DomesticSurveillance
   - Hoover
-  - 1971
+  - 1970s
 start: 1971-03-08
 summary: "The Media, Pennsylvania FBI office break-in on March 8, 1971, by the Citizens' Commission to Investigate the FBI removed approximately 1,000 documents whose distribution to the press exposed COINTELPRO and triggered Hoover's formal termination of the program."
 location: "Media, Pennsylvania"

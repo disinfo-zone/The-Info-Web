@@ -17,8 +17,7 @@ tags:
   - COINTELPRO
   - AssassinationPlots
   - ChurchCommittee
-  - 1975
-  - 1976
+  - 1970s
 start: 1975-01-27
 end: 1976-04-26
 summary: "The Church Committee (1975-1976) was the Senate investigation that documented systematic CIA, FBI, NSA, and IRS abuses including Operation CHAOS, COINTELPRO, assassination plots, and HTLINGUAL illegal mail opening, producing S. Rept. 94-755, the foundational primary source for post-WWII U.S. intelligence oversight."
@@ -39,9 +38,9 @@ Earlier contributory revelations included: the discovery of the "Family Jewels" 
 
 The committee's investigations covered all major U.S. intelligence agencies: the CIA, FBI, NSA, Army intelligence, and IRS. Its principal documented findings included:
 
-Operation CHAOS (CIA): The CIA's [[Operation CHAOS]] (MHCHAOS), directed by [[Richard Ober]] under [[James Jesus Angleton|James Angleton]]'s Counterintelligence Staff, was documented as "unlawful" domestic surveillance violating the CIA's legislative charter. The HYDRA index of 7,200 American citizens and 300,000 names was documented. The committee also documented Project MERRIMAC and Project RESISTANCE as subprograms feeding CHAOS. The findings are in Book III of the final report: "CIA Intelligence Collection About Americans: CHAOS and the Office of Security."[^1]
+Operation CHAOS (CIA): The CIA's Operation CHAOS (MHCHAOS), directed by [[Richard Ober]] under James Angleton's Counterintelligence Staff, was documented as "unlawful" domestic surveillance violating the CIA's legislative charter. The HYDRA index of 7,200 American citizens and 300,000 names was documented. The committee also documented Project MERRIMAC and Project RESISTANCE as subprograms feeding CHAOS. The findings are in Book III of the final report: "CIA Intelligence Collection About Americans: CHAOS and the Office of Security."[^1]
 
-COINTELPRO (FBI): The FBI's [[COINTELPRO]] programs were documented as having used infiltration, psychological warfare, fabricated communications, wrongful prosecution referrals, and coordination with local law enforcement in ways the committee found constituted a systematic campaign against legal political activity. The committee found that the FBI had opened more than 500,000 domestic intelligence files since 1960 and that many targeted individuals had never engaged in any illegal activity.[^1]
+COINTELPRO (FBI): The FBI's COINTELPRO programs were documented as having used infiltration, psychological warfare, fabricated communications, wrongful prosecution referrals, and coordination with local law enforcement in ways the committee found constituted a systematic campaign against legal political activity. The committee found that the FBI had opened more than 500,000 domestic intelligence files since 1960 and that many targeted individuals had never engaged in any illegal activity.[^1]
 
 Assassination plots: The committee documented CIA programs to assassinate foreign leaders, including [[Fidel Castro]], [[Patrice Lumumba]], Rafael Trujillo, Ngo Dinh Diem, and Rene Schneider of Chile. The Interim Report, "Alleged Assassination Plots Involving Foreign Leaders" (published November 1975), established the documented record of these operations.[^1]
 

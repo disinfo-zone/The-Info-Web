@@ -17,11 +17,11 @@ tags:
   - 1950s
   - 1960s
   - 1970s
-category: Intelligence & Government
-summary: Richard Helms served as Director of Central Intelligence from 1966 to 1973, authorizing Operation CHAOS domestic surveillance and ordering destruction of CHAOS and MKULTRA records before congressional investigation.
+category: "Intelligence & Government"
+summary: "Richard Helms served as Director of Central Intelligence from 1966 to 1973, authorizing Operation CHAOS domestic surveillance and ordering destruction of CHAOS and MKULTRA records before congressional investigation."
 born: 1913-03-30
 died: 2002-10-22
-location: St. Davids, Pennsylvania
+location: "St. Davids, Pennsylvania"
 ---
 Richard McGarrah Helms (March 30, 1913 - October 22, 2002) served as [[Central Intelligence Agency|CIA]] [[Director of Central Intelligence]] from June 30, 1966, to February 2, 1973 - the only career CIA clandestine officer ever to hold that position, and the only DCI ever convicted of a criminal offense related to his service. A professional intelligence officer who entered the [[Office of Strategic Services|OSS]] during [[World War II]] and spent thirty years in the CIA, Helms authorized [[Operation CHAOS]] domestic surveillance, approved continuation of the [[MKULTRA]] human experimentation program, ordered the destruction of both programs' records before congressional investigators could access them, and in 1977 pleaded no contest to making false statements to Congress about CIA operations against Chilean President [[Salvador Allende]]. He simultaneously held the personal conviction, disclosed to his deputies, that [[Israel]] was using American intelligence as "an open pipeline for pumping intelligence to [[Moscow]]" - a view he never officially reported.[^1]
 
@@ -39,7 +39,7 @@ When the Warren Commission was established in November 1963 to investigate Kenne
 
 ### Operation CHAOS Authorization and Records Destruction
 
-In August 1967, Helms received President Johnson's instruction to determine whether foreign powers were directing the American antiwar movement. He tasked [[James Jesus Angleton|James Angleton]]'s Counterintelligence Staff with establishing the Special Operations Group that became [[Operation CHAOS|MHCHAOS]]. He subsequently expanded the program under President [[Richard Nixon|Nixon]]'s administration, approving Project MERRIMAC (domestic infiltration of antiwar organizations) and Project RESISTANCE (coordination with campus administrators and local police to compile dossiers on student organizations).
+In August 1967, Helms received President Johnson's instruction to determine whether foreign powers were directing the American antiwar movement. He tasked [[James Jesus Angleton|James Angleton]]'s Counterintelligence Staff with establishing the Special Operations Group that became MHCHAOS. He subsequently expanded the program under President Nixon's administration, approving Project MERRIMAC (domestic infiltration of antiwar organizations) and Project RESISTANCE (coordination with campus administrators and local police to compile dossiers on student organizations).
 
 In December 1972, knowing that Watergate-related congressional investigations were expanding, Helms ordered the operational records of MHCHAOS destroyed. A partial cache of budget and administrative documents survived only because it had been misfiled in a different location. In the same period, he ordered the destruction of records related to MKULTRA, the CIA's two-decade human experimentation program using LSD and other substances on unwitting subjects. The Church Committee found that these records destructions had permanently deprived investigators of a complete documentary record of both programs.[^1]
 
@@ -51,7 +51,7 @@ Separately, Helms authorized and expanded the CIA's psychic research program bas
 
 ### Chile: Covert Action and Congressional Perjury
 
-In September 1970, following the election of Socialist candidate [[Salvador Allende]] in [[Chile]], President Nixon instructed Helms in a meeting at the White House to conduct covert operations to prevent Allende from assuming the presidency. Nixon told Helms, in the presence of Henry [[Henry Kissinger|Kissinger]] and others, to "make the economy scream." Helms's notes from this meeting, preserved and later produced to investigators, confirmed: "One in 10 chance perhaps, but save Chile!... \$10,000,000 available, more if necessary... make the economy scream."
+In September 1970, following the election of Socialist candidate [[Salvador Allende]] in [[Chile]], President Nixon instructed Helms in a meeting at the White House to conduct covert operations to prevent Allende from assuming the presidency. Nixon told Helms, in the presence of [[Henry A. Kissinger|Henry Kissinger]] and others, to "make the economy scream." Helms's notes from this meeting, preserved and later produced to investigators, confirmed: "One in 10 chance perhaps, but save Chile!... \$10,000,000 available, more if necessary... make the economy scream."
 
 The CIA subsequently funded opposition media, political parties, and military factions. General [[Augusto Pinochet]] seized power in a coup on September 11, 1973 - the same year Helms was replaced as DCI and sent as U.S. Ambassador to [[Iran]].
 
@@ -59,7 +59,7 @@ In February 1973, when Helms testified before the Senate Foreign Relations Commi
 
 ### Israel: The "Open Pipeline" Assessment
 
-Helms developed a personal conviction, disclosed to his deputies, that [[Israel]] was providing American satellite intelligence to the [[Soviet Union]] as part of an undisclosed intelligence exchange - characterizing Israel as "an open pipeline for pumping intelligence to Moscow." He never officially reported this assessment or commissioned a formal investigation, and he took no documented action on it. His reluctance reflected both the sensitivity of accusing an ally and the particular weight of any assessment that ran against the interests managed by [[James Jesus Angleton|Angleton]]'s [[KK MOUNTAIN]] Israeli liaison program.
+Helms developed a personal conviction, disclosed to his deputies, that Israel was providing American satellite intelligence to the [[Soviet Union]] as part of an undisclosed intelligence exchange - characterizing Israel as "an open pipeline for pumping intelligence to Moscow." He never officially reported this assessment or commissioned a formal investigation, and he took no documented action on it. His reluctance reflected both the sensitivity of accusing an ally and the particular weight of any assessment that ran against the interests managed by Angleton's [[KK MOUNTAIN]] Israeli liaison program.
 
 When President Johnson sought an intelligence assessment of whether Israel had manufactured nuclear weapons, Helms provided the estimate (four warheads) and then obeyed Johnson's instruction that the finding be buried rather than formally reported. Johnson did not want intelligence conclusions that would require him to act on them politically. Helms's willingness to suppress an accurate intelligence product at presidential direction exemplified the institutional failure the Church Committee later documented.[^3]
 

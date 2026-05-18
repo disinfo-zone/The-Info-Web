@@ -4,7 +4,7 @@ created: 2026-05-01
 updated: 2026-05-17
 tags:
   - Person
-  - Dark_Alliance_Investigation
+  - DarkAllianceInvestigation
   - Mena
   - IranContra
   - Contras
@@ -26,7 +26,7 @@ From approximately late 1980 through March 1984, Seal used the Mena Intermountai
 
 In March 1984, Seal was arrested with 462 pounds of Medellín cocaine aboard his plane. Facing a potential ten-year sentence, he signed an agreement on March 28, 1984, to become a DEA informant under agent Ernst Jacobsen. He pleaded guilty to his Florida indictment and was released pending performance as a confidential source.
 
-The [[Central Intelligence Agency]] installed concealed cameras in Seal's cargo aircraft. On June 25, 1984, at the Los Brasiles airfield outside Managua, Nicaragua, the cameras photographed [[Pablo Escobar]], José Gonzalo Rodríguez Gacha, and Federico Vaughan - an official of the Nicaraguan Sandinista government - loading cocaine onto Seal's plane for transport to the United States. This photographic evidence was used by the Reagan administration in its anti-Sandinista campaign; President [[Ronald Reagan]] displayed a copy of the image in a nationally televised address on March 16, 1986.[^2]
+The [[Central Intelligence Agency]] installed concealed cameras in Seal's cargo aircraft. On June 25, 1984, at the Los Brasiles airfield outside Managua, Nicaragua, the cameras photographed Pablo Escobar, José Gonzalo Rodríguez Gacha, and Federico Vaughan - an official of the Nicaraguan Sandinista government - loading cocaine onto Seal's plane for transport to the United States. This photographic evidence was used by the Reagan administration in its anti-Sandinista campaign; President [[Ronald Reagan]] displayed a copy of the image in a nationally televised address on March 16, 1986.[^2]
 
 On July 17, 1984, the *Washington Times* published details of Seal's infiltration operation, including the photograph, effectively burning him as an undercover source. The Senate Foreign Relations Committee's 1988 investigation, chaired by Senator [[John Kerry]], concluded this leak originated with [[Oliver North]].[^3]
 

@@ -17,7 +17,7 @@ summary: "The Central Intelligence Agency (CIA) is the principal U.S. civilian f
 start: 1947-09-18
 location: "Langley, Virginia"
 ---
-The [[Central Intelligence Agency]] (CIA) is a primary intelligence-gathering organization of the United States government. In the context of psychic research, the CIA played a significant, albeit often covert, role in funding and overseeing programs aimed at exploring and utilizing psychic phenomena for intelligence purposes.[^1]
+The Central Intelligence Agency (CIA) is a primary intelligence-gathering organization of the United States government. In the context of psychic research, the CIA played a significant, albeit often covert, role in funding and overseeing programs aimed at exploring and utilizing psychic phenomena for intelligence purposes.[^1]
 
 The CIA, particularly through its Photographic Intelligence Division, was instrumental in aerial reconnaissance efforts, especially with the U-2 spy plane, to monitor Soviet nuclear programs and later, the Israeli nuclear facility at [[Dimona]].[^2]
 
@@ -37,13 +37,13 @@ In 1972, the CIA, through officials like [[Ken Kress]] from the Technical Servic
 
 ### Intelligence Liaison with Israel
 
-The CIA's relationship with [[Israel]]i intelligence, particularly [[Mossad]], was extensive, involving 28 formal cooperative ventures in strategic intelligence since the 1950s. These arrangements were often financed off-the-books through a special contingency fund maintained by the Director of Central Intelligence. One such operation, code-named KK MOUNTAIN, involved millions in annual cash payments to [[Mossad]] in exchange for their agents acting as American surrogates in North Africa and other regions. Other agreements financed Israeli operations in [[Syria]] and the [[Soviet Union]], where the CIA found it difficult to operate.[^2]
+The CIA's relationship with [[Israel]]i intelligence, particularly [[Mossad]], was extensive, involving 28 formal cooperative ventures in strategic intelligence since the 1950s. These arrangements were often financed off-the-books through a special contingency fund maintained by the Director of Central Intelligence. One such operation, code-named KK MOUNTAIN, involved millions in annual cash payments to Mossad in exchange for their agents acting as American surrogates in North Africa and other regions. Other agreements financed Israeli operations in [[Syria]] and the [[Soviet Union]], where the CIA found it difficult to operate.[^2]
 
-In 1977, [[Stansfield Turner]], then Director of Central Intelligence, abruptly cut back intelligence liaison with [[Israel]] as part of a CIA restructuring. This led to a sharp reduction in the flow of intelligence from [[Israel]] to [[Washington, D.C.]]. However, the CIA's "embarrassingly inept reporting on [[Iran]]", particularly their failure to anticipate the overthrow of Shah Mohammed Reza Pahlavi, forced the American leadership to turn back to Israeli help in anticipating world events. This contributed to the March 1979 KH-11 agreement, which granted [[Israel]] access to high-tech satellite imagery.[^2]
+In 1977, [[Stansfield Turner]], then Director of Central Intelligence, abruptly cut back intelligence liaison with Israel as part of a CIA restructuring. This led to a sharp reduction in the flow of intelligence from Israel to [[Washington, D.C.]]. However, the CIA's "embarrassingly inept reporting on [[Iran]]", particularly their failure to anticipate the overthrow of Shah Mohammed Reza Pahlavi, forced the American leadership to turn back to Israeli help in anticipating world events. This contributed to the March 1979 KH-11 agreement, which granted Israel access to high-tech satellite imagery.[^2]
 
-Initially, the KH-11 satellite's images were tightly restricted, even to close allies like [[Great Britain]]. However, [[Jimmy Carter]]'s decision to provide [[Israel]] with direct access to the KH-11 in March 1979 disrupted the satellite's careful scheduling and meant less access for some American intelligence agencies. This decision was suspected by some American intelligence officials as a reward for the [[Camp David Accords|Camp David summit]].[^2]
+Initially, the KH-11 satellite's images were tightly restricted, even to close allies like [[Great Britain]]. However, [[Jimmy Carter]]'s decision to provide Israel with direct access to the KH-11 in March 1979 disrupted the satellite's careful scheduling and meant less access for some American intelligence agencies. This decision was suspected by some American intelligence officials as a reward for the [[Camp David Accords|Camp David summit]].[^2]
 
-Following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981, [[William J. Casey]], [[Ronald Reagan]]'s Director of Central Intelligence, ordered a review of [[Israel]]'s use of the KH-11 intelligence-sharing agreement. The review found that [[Israel]] had expanded the agreement to extract virtually any photograph desired, including extensive coverage of western [[Russia]] and [[Moscow]]. This led to anger within the [[Central Intelligence Agency|CIA]] and [[Defense Intelligence Agency|DIA]] over the "very lax" management of the liaison agreement. Despite this, it was agreed that photographs would continue to flow to [[Israel]], but with the initial 1979 restrictions re-enforced.[^2]
+Following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981, [[William J. Casey]], [[Ronald Reagan]]'s Director of Central Intelligence, ordered a review of Israel's use of the KH-11 intelligence-sharing agreement. The review found that Israel had expanded the agreement to extract virtually any photograph desired, including extensive coverage of western [[Russia]] and [[Moscow]]. This led to anger within the CIA and [[Defense Intelligence Agency|DIA]] over the "very lax" management of the liaison agreement. Despite this, it was agreed that photographs would continue to flow to Israel, but with the initial 1979 restrictions re-enforced.[^2]
 
 ### Involvement with BCCI
 
@@ -51,13 +51,13 @@ The CIA used the [[Bank of Credit and Commerce International|BCCI]] extensively,
 
 In 1986, the CIA issued a report stating that BCCI had owned [[First American Bank]] since 1982.[^5] In 1991, Acting CIA Director [[Richard J. Kerr]] confirmed that the agency had used BCCI to move money around the world.[^6] The CIA also maintained slush funds at BCCI branches, which were used for payoffs of Pakistani military officers and Afghan rebel leaders.[^7]
 
-[[William J. Casey]], former CIA Director, met secretly with [[Agha Hasan Abedi]] over a three-year period, discussing U.S. arms deals with [[Iran]] and the arming of Afghan resistance forces.[^8] The CIA began using BCCI in the bank's earliest days, as it was establishing itself in countries where American intelligence had few assets.[^8]
+William J. Casey, former CIA Director, met secretly with [[Agha Hasan Abedi]] over a three-year period, discussing U.S. arms deals with Iran and the arming of Afghan resistance forces.[^8] The CIA began using BCCI in the bank's earliest days, as it was establishing itself in countries where American intelligence had few assets.[^8]
 
 ### Operations and Activities
 
 The CIA sent the [[Inter-Services Intelligence|Inter-Services Intelligence (ISI)]] agency enormous quantities of cash to keep things moving through [[Pakistan]] during the [[Soviet-Afghan War]].[^9] The CIA was responsible for obtaining arms and ammunition for the [[Mujahideen]], but once delivered to [[Karachi]], the ISI was responsible for moving the equipment.[^9]
 
-In 1980, [[Jimmy Carter]] signed a presidential "finding" authorizing the CIA to aid the Afghan rebels in "harassment" of the Soviet occupying forces through secret supplies of light weapons and limited funds.[^10] This became the largest covert-action program since [[World War Two]].[^10]
+In 1980, Jimmy Carter signed a presidential "finding" authorizing the CIA to aid the Afghan rebels in "harassment" of the Soviet occupying forces through secret supplies of light weapons and limited funds.[^10] This became the largest covert-action program since [[World War Two]].[^10]
 
 ### UAP Research and Secrecy
 
@@ -69,7 +69,7 @@ In recent years, the CIA has been more involved in the official UAP investigatio
 
 ### Dark Alliance Investigation
 
-The CIA's covert action division, the Directorate of Operations, created and managed the Contra project during the 1980s, with its Latin American Division headed by [[Dewey Clarridge]] from 1981 to 1984. The agency recruited Contra leaders including [[Enrique Bermudez|Enrique Bermúdez]] in 1980 and [[Eden Pastora]] in 1981. The CIA maintained station chiefs in [[Costa Rica]], notably [[Joseph Fernandez|Joseph Fernández]] from 1984 to 1986, who were integral to [[Oliver North]]'s illegal Contra resupply operation.[^12]
+The CIA's covert action division, the Directorate of Operations, created and managed the Contra project during the 1980s, with its Latin American Division headed by [[Dewey Clarridge]] from 1981 to 1984. The agency recruited Contra leaders including [[Enrique Bermudez|Enrique Bermúdez]] in 1980 and [[Eden Pastora]] in 1981. The CIA maintained station chiefs in [[Costa Rica]], notably [[Joseph Fernandez|Joseph Fernández]] from 1984 to 1986, who were integral to Oliver North's illegal Contra resupply operation.[^12]
 
 ### Contra Drug Trafficking and the Frogman Case
 
@@ -79,7 +79,7 @@ The pseudonymous agent [[Ivan Gomez|Iván Gómez]], assigned to Costa Rica in 19
 
 ### The Secret 1982 Agreement with the Justice Department
 
-In early 1982, CIA director [[William J. Casey]] and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted the CIA from reporting drug crimes committed by its non-employees - a category including agents, assets, and non-staff employees. Drug offenses were specifically removed from the list of crimes the CIA was required to report. The agreement remained in effect from 1982 to 1995.[^14]
+In early 1982, CIA director William J. Casey and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted the CIA from reporting drug crimes committed by its non-employees - a category including agents, assets, and non-staff employees. Drug offenses were specifically removed from the list of crimes the CIA was required to report. The agreement remained in effect from 1982 to 1995.[^14]
 
 ### Ilopango Obstruction
 

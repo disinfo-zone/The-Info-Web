@@ -1,13 +1,19 @@
 ---
+title: Southern Air Transport
+aliases:
+  - Southern Air Transport
+  - SAT
+created: 2026-05-17
+updated: 2026-05-17
 category: "Private Organization"
 tags:
   - Organization
-  - Organization/Intelligence
+  - Intelligence
   - CIA
   - 1980s
-  - Contra_War
-summary: Southern Air Transport was a CIA-owned airline used for Contra resupply flights that was repeatedly linked to drug trafficking investigations by the DEA, U.S. Customs, and congressional investigators.
-start: 1947
+  - ContraWar
+summary: "Southern Air Transport was a CIA-owned airline used for Contra resupply flights that was repeatedly linked to drug trafficking investigations by the DEA, U.S. Customs, and congressional investigators."
+start: 1947-01-01
 location: "Miami, Florida"
 ---
 Southern Air Transport was once owned by the [[Central Intelligence Agency]] and continued to serve as a CIA contractor airline during the [[Contras|Contra]] war. Based at [[Ilopango Airbase|Ilopango Air Force Base]] in [[El Salvador]], Southern Air Transport aircraft were used for Contra supply runs. The airline was "of record" in the [[DEA]]'s databases from 1985 through 1990 "for alleged involvement in cocaine trafficking...several of the firm's pilots and executives were suspected of smuggling narcotics currency," the DEA reported. The CIA and DEA records show the airline was under investigation for drug trafficking by [[U.S. Customs]] in 1987.[^1]

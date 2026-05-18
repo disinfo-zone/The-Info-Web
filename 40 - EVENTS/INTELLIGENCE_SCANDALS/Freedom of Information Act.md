@@ -1,12 +1,18 @@
 ---
+title: Freedom of Information Act
+aliases:
+  - Freedom of Information Act
+  - FOIA
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence Scandal"
 tags:
-  - law
-  - u.s.-government
-  - contra-war
-summary: The Freedom of Information Act was used by Gary Webb to obtain government documents that revealed the CIA and DEA's knowledge of Contra-connected drug trafficking.
-date: 1966-07-04
-location: United States
+  - Law
+  - USGovernment
+  - ContraWar
+summary: "The Freedom of Information Act was used by Gary Webb to obtain government documents that revealed the CIA and DEA's knowledge of Contra-connected drug trafficking."
+start: 1966-07-04
+location: "United States"
 ---
 The Freedom of Information Act (FOIA) was used by [[Gary Webb]] to obtain government documents that revealed the [[Central Intelligence Agency]] and [[DEA]]'s knowledge of Contra-connected drug trafficking. Webb's FOIA requests produced thousands of pages of previously classified documents that formed the evidentiary backbone of the [[Dark Alliance]] series.[^1]
 

@@ -26,7 +26,7 @@ Operation AJAX was the [[Central Intelligence Agency|CIA]]'s operational code na
 
 The immediate cause of Operation AJAX was the Anglo-Iranian Oil Company (AIOC) crisis. The AIOC, a British company (now [[BP]]), had held monopoly rights to Iranian oil since 1913. In 1951, Mosaddegh's National Front government nationalized the AIOC, asserting Iranian sovereign control over its primary natural resource. The British government, which held majority interest in the AIOC, responded with an economic blockade of Iranian oil exports and sought to pressure or remove Mosaddegh.
 
-The [[Harry Truman|Truman]] administration initially declined British requests for CIA assistance in removing Mosaddegh, viewing the situation as primarily a colonial dispute. When [[Dwight Eisenhower|Eisenhower]] took office in January 1953, the CIA's assessment changed: the Eisenhower administration and CIA Director [[Allen Dulles]] accepted British arguments that Mosaddegh's coalition could be exploited by the Tudeh (Iranian communist) Party and that Iran could fall into the Soviet sphere. This provided the Cold War justification for intervention.[^1]
+The [[Harry Truman|Truman]] administration initially declined British requests for CIA assistance in removing Mosaddegh, viewing the situation as primarily a colonial dispute. When [[Dwight D. Eisenhower|Eisenhower]] took office in January 1953, the CIA's assessment changed: the Eisenhower administration and CIA Director [[Allen Dulles]] accepted British arguments that Mosaddegh's coalition could be exploited by the Tudeh (Iranian communist) Party and that Iran could fall into the Soviet sphere. This provided the Cold War justification for intervention.[^1]
 
 ### Operational Planning
 

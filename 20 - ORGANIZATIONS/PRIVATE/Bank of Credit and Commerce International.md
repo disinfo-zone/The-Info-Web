@@ -1,4 +1,10 @@
 ---
+title: Bank of Credit and Commerce International
+aliases:
+  - Bank of Credit and Commerce International
+  - BCCI
+created: 2024-04-25
+updated: 2026-05-17
 tags:
   - Organization
   - Private
@@ -9,20 +15,18 @@ tags:
   - IranContra
   - OctopiNetwork
 category: "BCCI Scandal"
-created: 2024-04-25
-updated: 2026-05-01
 summary: "The Bank of Credit and Commerce International (BCCI) was a Pakistani-founded offshore bank that operated across 78 countries before its 1991 collapse exposed a decade-long conspiracy involving money laundering for drug cartels and intelligence agencies, illegal acquisition of U.S. banks, bribery, fraud, and arms trafficking, in what regulators called the largest bank fraud in history."
-start: 1972
-end: 1991
+start: 1972-09-21
+end: 1991-07-05
 location: "Luxembourg"
 ---
-The [[Bank of Credit and Commerce International|BCCI]] was a financial institution that became embroiled in a major scandal involving money laundering, drug trafficking, and covert operations. Its collapse had far-reaching implications and was a significant focus of [[Danny Casolaro]]'s "[[The Octopus]]" investigation.[^1]
+BCCI was a financial institution that became embroiled in a major scandal involving money laundering, drug trafficking, and covert operations. Its collapse had far-reaching implications and was a significant focus of [[Danny Casolaro]]'s "[[The Octopus]]" investigation.[^1]
 
 ### Involvement in Illicit Activities
 
 [[Adnan Khashoggi]], an international arms merchant, borrowed money for arms purchases related to the [[Iran-Contra Affair]] from BCCI accounts, with Saudi and U.S. backing.[^1] [[Lester Coleman]], a [[Defense Intelligence Agency|DIA]] covert intelligence officer, was paid in travelers checks sent from the Luxembourg branch of the now-collapsed BCCI.[^1]
 
-[[Danny Casolaro]] was investigating the BCCI scandal as part of his broader "[[The Octopus]]" probe, believing it was interconnected with the [[PROMIS Software Scandal]] and the [[Iran-Contra Affair]]. He obtained papers referring to Iran-Contra arms deals, including photocopies of checks drawn on BCCI accounts for [[Adnan Khashoggi]] and [[Manucher Ghorbanifar]], from his confidante [[Bob Bickel]].[^1]
+Danny Casolaro was investigating the BCCI scandal as part of his broader "The Octopus" probe, believing it was interconnected with the [[PROMIS Software Scandal]] and the Iran-Contra Affair. He obtained papers referring to Iran-Contra arms deals, including photocopies of checks drawn on BCCI accounts for Adnan Khashoggi and [[Manucher Ghorbanifar]], from his confidante [[Bob Bickel]].[^1]
 
 [[Bill Turner]], a friend and confidante of [[Danny Casolaro]], claimed to have seen papers from Casolaro that connected [[Oliver North]] and BCCI.[^1]
 
@@ -42,7 +46,7 @@ The [[Bank of Credit and Commerce International|BCCI]] was a financial instituti
 
 **1981:** Regulators approve the sale of Financial General to Middle Eastern investors connected with BCCI, based on [[Clark Clifford]]'s assurances of no link between BCCI and Financial General Bankshares.[^2]
 
-**1982:** Lance introduces Abedi to [[Jimmy Carter]]. BCCI illegally acquires [[Independence Bank of Encino]] using Ghaith Pharaon as a front man. BCCI helps [[Adnan Khashoggi]] finance arms sales to [[Iran]] as part of the [[Reagan Administration]]'s [[Iran-Contra Affair]]. BCCI suffers over $440 million in losses from options trading through its subsidiary Capcom.[^2]
+**1982:** Lance introduces Abedi to [[Jimmy Carter]]. BCCI illegally acquires [[Independence Bank of Encino]] using Ghaith Pharaon as a front man. BCCI helps Adnan Khashoggi finance arms sales to [[Iran]] as part of the [[Reagan Administration]]'s Iran-Contra Affair. BCCI suffers over $440 million in losses from options trading through its subsidiary Capcom.[^2]
 
 **1986:** The [[Central Intelligence Agency]] issues a report stating that BCCI has owned [[First American Bank]] since 1982.[^2]
 
@@ -54,7 +58,7 @@ The [[Bank of Credit and Commerce International|BCCI]] was a financial instituti
 
 **1990:** BCCI pleads guilty to money laundering in Tampa, Florida, forfeiting $14 million. The first Price Waterhouse audit reveals a $1.7 billion black hole in the bank's accounts. A second Price Waterhouse audit details thousands of irregular transactions and confirms BCCI's control of First American.[^2]
 
-**1991:** [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] acquires 77 percent control of BCCI. A Florida jury convicts five Tampa BCCI officers of conspiring to launder cocaine profits. The [[Federal Reserve]] orders BCCI to sell illegally acquired shares in First American Bank. Regulators worldwide seize BCCI offices, placing over 75 percent of the bank's assets in government hands. A [[New York City]] State grand jury indicts BCCI, Abedi, and Naqvi for fraud, bribery, grand larceny, and money laundering. The Federal Reserve Board fines BCCI $200 million for illegally acquiring control of First American Bank, National Bank of Georgia, and CenTrust Savings. Clifford and Altman resign from First American. BCCI's liquidators plead guilty and agree to forfeit $550 million.[^2]
+**1991:** [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] acquires 77 percent control of BCCI. A Florida jury convicts five Tampa BCCI officers of conspiring to launder cocaine profits. The [[Federal Reserve]] orders BCCI to sell illegally acquired shares in First American Bank. Regulators worldwide seize BCCI offices, placing over 75 percent of the bank's assets in government hands. A New York City State grand jury indicts BCCI, Abedi, and Naqvi for fraud, bribery, grand larceny, and money laundering. The Federal Reserve Board fines BCCI $200 million for illegally acquiring control of First American Bank, National Bank of Georgia, and CenTrust Savings. Clifford and Altman resign from First American. BCCI's liquidators plead guilty and agree to forfeit $550 million.[^2]
 
 **1992:** [[Khalid bin Mahfouz]] is indicted by a Manhattan grand jury. [[Kamal Adham]] pleads guilty in New York and agrees to cooperate with Morgenthau and the Justice Department. Clifford and Altman are indicted by Manhattan District Attorney Robert Morgenthau and a federal grand jury.[^2]
 

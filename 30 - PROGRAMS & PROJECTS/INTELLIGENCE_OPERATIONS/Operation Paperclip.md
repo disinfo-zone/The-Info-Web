@@ -1,7 +1,10 @@
 ﻿---
+title: Operation Paperclip
 aliases:
   - Operation Paperclip
   - Paperclip
+created: 2026-05-14
+updated: 2026-05-17
 category: "Intelligence Operation"
 tags:
   - Program
@@ -26,7 +29,7 @@ Operation Paperclip was a classified U.S. government program that systematically
 
 The program emerged from recognition, in the final stages of [[World War II]], that [[Germany]] had developed technical capabilities - particularly in rocketry, jet propulsion, nerve agent chemistry, high-altitude medicine, and aeronautical engineering - that the United States had not matched. The V-2 ballistic missile program, developed at Peenemünde under [[Wernher von Braun]] and Walter Dornberger, represented a class of military technology that would define the postwar competition with the Soviet Union.
 
-American forces operating under [[Operation Alsos]] raced German-held scientific facilities and personnel ahead of Soviet forces in the war's final weeks. The Soviets simultaneously conducted their own recruitment of German technical talent through [[Operation Ossavakim]]. The postwar division of Germany meant that both superpowers secured German expertise but that the competition produced parallel rocket and weapons programs in each country.[^1]
+American forces operating under [[Operation Alsos]] raced German-held scientific facilities and personnel ahead of Soviet forces in the war's final weeks. The Soviets simultaneously conducted their own recruitment of German technical talent through [[Operation Osoaviakhim]]. The postwar division of Germany meant that both superpowers secured German expertise but that the competition produced parallel rocket and weapons programs in each country.[^1]
 
 ### Authorization and the Nazi Problem
 

@@ -30,7 +30,7 @@ Poland was a high-priority target for Western intelligence throughout the Cold W
 
 ### Transition to Democracy
 
-Solidarity's legalization in April 1989 and the subsequent Round Table negotiations led to semi-free elections in June 1989, in which Solidarity-affiliated candidates won all contested seats. Tadeusz Mazowiecki became prime minister in August 1989, the first non-communist prime minister in post-war Eastern Europe. [[Lech Walesa]] was elected president in December 1990. Poland joined [[NATO]] in March 1999 and the [[European Union]] in May 2004.[^1]
+Solidarity's legalization in April 1989 and the subsequent Round Table negotiations led to semi-free elections in June 1989, in which Solidarity-affiliated candidates won all contested seats. [[Tadeusz Mazowiecki]] became prime minister in August 1989, the first non-communist prime minister in post-war Eastern Europe. [[Lech Walesa]] was elected president in December 1990. Poland joined [[NATO]] in March 1999 and the [[European Union]] in May 2004.[^1]
 
 ### Footnotes
 

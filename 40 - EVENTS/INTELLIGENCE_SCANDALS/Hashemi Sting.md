@@ -1,4 +1,8 @@
 ---
+title: Hashemi Sting
+aliases:
+  - Hashemi Sting
+  - Cyrus Hashemi operation
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -10,9 +14,10 @@ tags:
   - USCustoms
 summary: "The Hashemi Sting was a 1986 U.S. Customs undercover operation targeting illegal arms sales to Iran, prosecuted by U.S. Attorney Rudolph Giuliani's Southern District of New York office, which resulted in indictments of arms dealers including former Israeli general Avraham Bar-Am; it intersected directly with the Iran-Contra network and the October Surprise investigations, and its key informant Cyrus Hashemi died in London under disputed circumstances shortly after the sting concluded."
 created: 2026-05-15
-updated: 2026-05-15
-start: 1985
-end: 1986
+updated: 2026-05-17
+start: 1985-01-01
+end: 1986-12-31
+location: "New York"
 ---
 
 The Hashemi Sting was a joint U.S. Customs Service and FBI undercover operation conducted in 1985-1986 targeting illegal arms trafficking to [[Iran]], an operation that became entangled with the parallel [[Iran-Contra Affair]] and the [[October Surprise]] network through its principal informant, Iranian-American arms dealer Cyrus Hashemi. The operation resulted in indictments prosecuted by then-U.S. Attorney for the Southern District of New York [[Rudolph Giuliani]], and its aftermath raised serious questions about the relationship between legitimate law enforcement, intelligence operations, and the covert arms pipeline to Iran authorized at the highest levels of the [[Ronald Reagan|Reagan]] administration.[^1]
@@ -27,7 +32,7 @@ Cyrus Hashemi had extensive dealings with Iranian government officials and arms 
 
 U.S. Customs Service undercover agents posed as weapons brokers willing to supply arms to Iran, making contact with a network of dealers and intermediaries. The sting targeted illegal exports of military equipment to Iran in violation of the Arms Export Control Act - the same statute that the official Iran-Contra arms shipments were circumventing through Israeli transshipment and presidential finding authorities.
 
-Among those implicated in the sting was Avraham Bar-Am, a retired Israeli general and arms dealer who was identified as a participant in the arms trafficking network. The indictments produced by [[Giuliani]]'s office charged multiple defendants with conspiracy to violate U.S. arms export laws.
+Among those implicated in the sting was Avraham Bar-Am, a retired Israeli general and arms dealer who was identified as a participant in the arms trafficking network. The indictments produced by Giuliani's office charged multiple defendants with conspiracy to violate U.S. arms export laws.
 
 The operation created a significant institutional problem for the Reagan administration: the illegal arms sales being targeted by U.S. Customs overlapped with the official covert arms pipeline to Iran that [[Oliver North]], [[Manucher Ghorbanifar]], and the "Enterprise" were simultaneously managing under presidential authorization. Investigators and journalists subsequently noted that the sting appeared to be targeting, in some instances, the same network of dealers and intermediaries that the official covert operation was using.[^1]
 

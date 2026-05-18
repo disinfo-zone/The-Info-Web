@@ -24,7 +24,7 @@ location: "Arezzo, Tuscany, Italy"
 summary: "Licio Gelli was the Venerable Master of the clandestine Italian Masonic lodge Propaganda Due (P2) from 1967 whose membership list of 962 senior Italian officials, politicians, and financiers was discovered in March 1981, and who was convicted of political conspiracy and fraud related to the Banco Ambrosiano collapse before dying in Arezzo in January 2015."
 ---
 
-Licio Gelli was born on April 21, 1919, in Pistoia, [[Italy|Tuscany]]. He died on January 15, 2015, in Arezzo. He was the Venerable Master of [[Propaganda Due|Propaganda Due (P2)]], the clandestine Masonic lodge whose exposure in 1981 constituted one of the most significant political scandals in postwar Italian history. His sobriquet was "Il Burattinaio" (the Puppetmaster).[^1]
+Licio Gelli was born on April 21, 1919, in Pistoia, [[Italy]]. He died on January 15, 2015, in Arezzo. He was the Venerable Master of [[Propaganda Due|Propaganda Due (P2)]], the clandestine Masonic lodge whose exposure in 1981 constituted one of the most significant political scandals in postwar Italian history. His sobriquet was "Il Burattinaio" (the Puppetmaster).[^1]
 
 ### Wartime Career
 
@@ -40,7 +40,7 @@ Gelli was admitted to Masonry through conventional channels and joined the Propa
 
 ### P2 as Power Network
 
-Under Gelli, [[Propaganda Due|P2]] became less a Masonic lodge than an intelligence network and mutual protection society whose membership spanned every institution of consequence in Italian public life. The lodge's actual function - facilitating covert coordination among its members, providing protection from judicial investigation, and advancing a broadly anti-communist political agenda consistent with [[Operation Gladio|Gladio's]] objectives - was entirely divorced from any religious or fraternal purpose.
+Under Gelli, P2 became less a Masonic lodge than an intelligence network and mutual protection society whose membership spanned every institution of consequence in Italian public life. The lodge's actual function - facilitating covert coordination among its members, providing protection from judicial investigation, and advancing a broadly anti-communist political agenda consistent with [[Operation Gladio|Gladio's]] objectives - was entirely divorced from any religious or fraternal purpose.
 
 Gelli's collection of files on P2 members, combined with his extensive contacts in Italian intelligence, made him a figure of extraordinary informal power. He was consulted by politicians seeking intelligence about opponents, by businessmen seeking protection from legal exposure, and by intelligence officers seeking coordination across institutional boundaries that formal channels could not bridge.
 

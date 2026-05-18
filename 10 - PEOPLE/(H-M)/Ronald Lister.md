@@ -1,15 +1,22 @@
 ---
+title: Ronald Lister
+aliases:
+  - Ronald Lister
+  - Ronald Jay Lister
+  - Ron Lister
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Drug_Trafficker
-  - Person/Intelligence
-  - United_States
-  - El_Salvador
+  - DrugTrafficker
+  - Intelligence
+  - UnitedStates
+  - ElSalvador
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Former police officer who became Danilo Blandón's partner in cocaine trafficking and weapons dealing through Pyramid International Security Consultants, with suspected CIA connections.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Former police officer who became Danilo Blandón's partner in cocaine trafficking and weapons dealing through Pyramid International Security Consultants, with suspected CIA connections."
 ---
 Ronald Jay Lister was a former southern California police officer who became [[Danilo Blandon|Danilo Blandón]]'s partner in cocaine trafficking and weapons dealing during the 1980s, operating through his company [[Pyramid International Security Consultants]].[^1] Lister worked alongside Blandón for seven years and introduced a weapons and sophisticated electronics dimension to Blandón's drug ring that bore the hallmarks of [[Central Intelligence Agency|U.S. intelligence community]] involvement. The CIA has publicly denied any relationship with him.
 

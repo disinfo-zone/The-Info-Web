@@ -1,12 +1,17 @@
 ---
-category: "Nuclear Scientists & Programs"
+title: George H.W. Bush
+aliases:
+  - George H.W. Bush
+  - George Herbert Walker Bush
+  - President Bush
+  - Bush 41
+category: "Intelligence & Government"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
 tags:
   - Person
-  - Nuclear
   - Israel
-  - Dark_Alliance_Investigation
+  - DarkAllianceInvestigation
   - OctoberSurprise
 summary: "Vice President under Reagan and 41st U.S. President who dealt with Israel's nuclear program, the VELA incident, and sanctions discussions after Osirak bombing, while simultaneously overseeing anti-drug efforts as Contra-connected drug traffickers operated with impunity."
 born: 1924-06-12

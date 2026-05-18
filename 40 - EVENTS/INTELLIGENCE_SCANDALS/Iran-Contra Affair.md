@@ -21,7 +21,7 @@ start: 1985-01-01
 end: 1987-01-01
 location: "United States / Iran / Nicaragua"
 ---
-The [[Iran-Contra Affair]] was a political scandal in the [[United States]] that came to light between 1985 and 1987, involving the secret sale of arms to [[Iran]] by the [[Ronald Reagan|Reagan]] administration in exchange for American hostages held in [[Lebanon]], with the profits illegally diverted to fund the [[Contras]] in [[Nicaragua]] in violation of congressional prohibitions. The scandal exposed the agency's direct management of the Contra war and the National Security Council's transformation into an operational intelligence agency based inside the White House.[^1][^2]
+The Iran-Contra Affair was a political scandal in the [[United States]] that came to light between 1985 and 1987, involving the secret sale of arms to [[Iran]] by the [[Ronald Reagan|Reagan]] administration in exchange for American hostages held in [[Lebanon]], with the profits illegally diverted to fund the [[Contras]] in [[Nicaragua]] in violation of congressional prohibitions. The scandal exposed the agency's direct management of the Contra war and the National Security Council's transformation into an operational intelligence agency based inside the White House.[^1][^2]
 
 ### Congressional Prohibitions
 
@@ -31,13 +31,13 @@ Between 1982 and 1986, Congress passed a series of amendments (known as the Bola
 
 ### Oliver North and the Enterprise
 
-[[Oliver North]], a Lieutenant Colonel in the [[United States Marine Corps]] serving on the National Security Council staff, ran an illegal Contra resupply operation from the White House. He was alleged to have received drug profits from [[Monzer Al-Kassar]], a Syrian kingpin and arms dealer, which were then used to purchase arms for the Contras. The [[United States]] Tower Commission probe into Iran-gate specifically revealed that Al-Kassar had been paid $1.2 million by North's co-conspirator, General [[Richard Secord]], to facilitate the movement of weapons from [[Israel]] to the Contras.[^1][^3]
+[[Oliver North]], a Lieutenant Colonel in the [[United States Marine Corps]] serving on the National Security Council staff, ran an illegal Contra resupply operation from the White House. He was alleged to have received drug profits from [[Monzer Al-Kassar]], a Syrian kingpin and arms dealer, which were then used to purchase arms for the Contras. The United States Tower Commission probe into Iran-gate specifically revealed that Al-Kassar had been paid $1.2 million by North's co-conspirator, General [[Richard Secord]], to facilitate the movement of weapons from [[Israel]] to the Contras.[^1][^3]
 
 North's "Enterprise" used [[Ilopango Airbase]] in [[El Salvador]] to funnel weapons to the Contras and reportedly brought [[cocaine]] back on return flights.[^4]
 
 ### Arms-for-Hostages Middlemen
 
-[[Adnan Khashoggi]], an international arms merchant, and [[Manucher Ghorbanifar]], an Iranian arms dealer, served as crucial middlemen in the arms-for-hostages exchange. Khashoggi was found to have borrowed money for these arms purchases from the now-bankrupt [[Bank of Credit and Commerce International|BCCI]], with financial backing from Saudi and U.S. sources. [[Ari Ben-Menashe]], a self-proclaimed Israeli military intelligence officer, played a role in exposing the scandal by tipping off an obscure Lebanese magazine. [[Barbara Honegger]], a former Reagan White House aide, alleged in her book *October Surprise* that [[Monzer Al-Kassar]]'s heroin smuggling network in [[Italy]] was utilized to launder [[North Atlantic Treaty Organization|NATO]] arms stocks, diverting them to Iran with the assistance of corrupt Italian intelligence officials linked to the secretive fascist Masonic lodge, P2.[^1]
+[[Adnan Khashoggi]], an international arms merchant, and [[Manucher Ghorbanifar]], an Iranian arms dealer, served as crucial middlemen in the arms-for-hostages exchange. Khashoggi was found to have borrowed money for these arms purchases from the now-bankrupt [[Bank of Credit and Commerce International|BCCI]], with financial backing from Saudi and U.S. sources. [[Ari Ben-Menashe]], a self-proclaimed Israeli military intelligence officer, played a role in exposing the scandal by tipping off an obscure Lebanese magazine. [[Barbara Honegger]], a former Reagan White House aide, alleged in her book *October Surprise* that Monzer Al-Kassar's heroin smuggling network in [[Italy]] was utilized to launder [[North Atlantic Treaty Organization|NATO]] arms stocks, diverting them to Iran with the assistance of corrupt Italian intelligence officials linked to the secretive fascist Masonic lodge, P2.[^1]
 
 ### Indictments and Pardons
 
@@ -55,7 +55,7 @@ The scandal broke open when [[Barry Seal]]'s drug-hauling airplane, a Fairchild 
 
 ### The Octopus Connection
 
-The Iran-Contra Affair was a significant component of [[Danny Casolaro]]'s broader "[[The Octopus]]" investigation. Casolaro believed that this scandal was deeply interconnected with the [[PROMIS Software Scandal]] and the [[Bank of Credit and Commerce International|BCCI]] scandal. He obtained documents related to Iran-Contra arms deals, including photocopies of checks drawn on [[Bank of Credit and Commerce International|BCCI]] accounts for [[Adnan Khashoggi]] and [[Manucher Ghorbanifar]], from his confidante [[Bob Bickel]]. Bickel, in turn, had acquired these documents from [[October Surprise]] source [[Richard Brenneke]]. The name of [[Ian Stuart Spiro]] also appeared in [[Oliver North]]'s personal notebooks documenting the Iran-Contra Affair, and Spiro's death was subsequently linked to a spy network and the affair itself.[^1]
+The Iran-Contra Affair was a significant component of [[Danny Casolaro]]'s broader "[[The Octopus]]" investigation. Casolaro believed that this scandal was deeply interconnected with the [[PROMIS Software Scandal]] and the BCCI scandal. He obtained documents related to Iran-Contra arms deals, including photocopies of checks drawn on BCCI accounts for Adnan Khashoggi and Manucher Ghorbanifar, from his confidante [[Bob Bickel]]. Bickel, in turn, had acquired these documents from [[October Surprise]] source [[Richard Brenneke]]. The name of [[Ian Stuart Spiro]] also appeared in Oliver North's personal notebooks documenting the Iran-Contra Affair, and Spiro's death was subsequently linked to a spy network and the affair itself.[^1]
 
 ### Footnotes
 

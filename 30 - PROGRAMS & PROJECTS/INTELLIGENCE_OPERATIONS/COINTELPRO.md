@@ -1,16 +1,22 @@
 ﻿---
+title: COINTELPRO
+aliases:
+  - COINTELPRO
+  - Counter Intelligence Program
+created: 2026-05-14
+updated: 2026-05-17
 category: "Intelligence Operation"
 tags:
   - Program
   - FBI
-  - Domestic_Surveillance
-  - Civil_Rights
+  - DomesticSurveillance
+  - CivilRights
   - Antiwar
-  - Black_Power
-  - Church_Committee
-  - CHAOS
-  - 1956
-  - 1971
+  - BlackPower
+  - ChurchCommittee
+  - 1950s
+  - 1960s
+  - 1970s
 summary: "COINTELPRO (Counter Intelligence Program) was a covert FBI domestic operations program (1956-1971) targeting political organizations through infiltration, psychological warfare, fabricated mail, wrongful prosecution, and coordination with local law enforcement, exposed by the 1971 Media FBI office break-in."
 start: 1956-01-01
 end: 1971-04-27

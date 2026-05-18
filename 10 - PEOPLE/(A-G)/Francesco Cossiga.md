@@ -41,7 +41,7 @@ As President of the Republic (1985-1992), Cossiga became increasingly assertive 
 
 After leaving the presidency in 1992, Cossiga became a "piccone" (pickaxe) - the nickname "Il Picconatore" (the pickaxeman) referred to his practice of making public statements that broke Italian political conventions and exposed previously concealed arrangements. His disclosures about Gladio, about intelligence operations, and about the political management of terrorism investigations were more candid than those of any other senior Italian official of his generation.[^1]
 
-He died in 2010. In his last years he made public statements about the [[Brigate Rosse]] kidnapping suggesting that the Italian and American intelligence services had information about Moro's location that was not acted upon - a claim that neither confirmed nor refuted the parallel evidence developed by parliamentary investigations.[^1]
+He died in 2010. In his last years he made public statements about the Brigate Rosse kidnapping suggesting that the Italian and American intelligence services had information about Moro's location that was not acted upon - a claim that neither confirmed nor refuted the parallel evidence developed by parliamentary investigations.[^1]
 
 ### Footnotes
 

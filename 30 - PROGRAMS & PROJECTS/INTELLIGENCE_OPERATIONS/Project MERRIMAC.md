@@ -1,15 +1,22 @@
 ﻿---
+title: Project MERRIMAC
+aliases:
+  - Project MERRIMAC
+  - MERRIMAC
+  - Project Merrimac
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence Operation"
 tags:
   - Program
   - CIA
-  - Domestic_Surveillance
-  - Operation_CHAOS
-  - Church_Committee
-  - Civil_Rights
+  - DomesticSurveillance
+  - OperationCHAOS
+  - ChurchCommittee
+  - CivilRights
   - Antiwar
-  - 1967
-  - 1968
+  - 1960s
+  - 1970s
 summary: "Project MERRIMAC was a CIA Office of Security program (approximately 1967-1974) that infiltrated antiwar and civil rights organizations in Washington D.C., feeding intelligence to Operation CHAOS through the CACTUS pipeline before exposure by Seymour Hersh and the Church Committee."
 start: 1967-02-01
 end: 1974-03-01

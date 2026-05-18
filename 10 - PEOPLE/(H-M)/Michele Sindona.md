@@ -22,7 +22,7 @@ location: "Milan, Italy"
 summary: "Michele Sindona was a Sicilian financier, P2 member, and Vatican Bank associate known as 'the Pope's Banker' whose acquisition of Franklin National Bank produced its 1974 collapse - then the largest U.S. bank failure - and who was murdered in Voghera prison by cyanide poisoning in March 1986 while serving sentences for fraud and for ordering the assassination of Italian liquidator Giorgio Ambrosoli."
 ---
 
-Michele Sindona was born on May 8, 1920, in Patti, [[Italy|Sicily]]. Beginning as a tax lawyer, he built a financial empire through Vatican connections and Sicilian Mafia relationships that spanned Italy, the United States, and Switzerland before collapsing under criminal convictions in both countries. He died on March 22, 1986, in Voghera prison, poisoned with cyanide stirred into his morning coffee.[^1]
+Michele Sindona was born on May 8, 1920, in Patti, Sicily, [[Italy]]. Beginning as a tax lawyer, he built a financial empire through Vatican connections and Sicilian Mafia relationships that spanned Italy, the United States, and Switzerland before collapsing under criminal convictions in both countries. He died on March 22, 1986, in Voghera prison, poisoned with cyanide stirred into his morning coffee.[^1]
 
 ### Rise as Vatican Financier
 

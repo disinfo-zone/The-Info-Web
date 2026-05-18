@@ -26,7 +26,7 @@ end: 1973-12-31
 location: "New York, New York"
 ---
 
-HTLINGUAL was the [[Central Intelligence Agency|CIA]]'s covert program to intercept, open, photograph, and reseal first-class mail flowing between the [[United States]] and the [[Soviet Union]] (and certain other addresses) through the New York City international mail facility. Operating from 1952 to 1973 under [[James Angleton]]'s Counterintelligence Staff, the program violated federal postal statutes prohibiting obstruction of correspondence and the Fourth Amendment's protections against unreasonable search, operating without any judicial authorization or formal Postmaster General approval after its initial period. The [[Church Committee]] documented it in 1975-1976 as one of the most clearly illegal programs in CIA history, and its exposure contributed directly to [[James Angleton]]'s dismissal by DCI [[William Colby]] in December 1974.
+HTLINGUAL was the [[Central Intelligence Agency|CIA]]'s covert program to intercept, open, photograph, and reseal first-class mail flowing between the [[United States]] and the [[Soviet Union]] (and certain other addresses) through the New York City international mail facility. Operating from 1952 to 1973 under [[James Angleton]]'s Counterintelligence Staff, the program violated federal postal statutes prohibiting obstruction of correspondence and the Fourth Amendment's protections against unreasonable search, operating without any judicial authorization or formal Postmaster General approval after its initial period. The [[Church Committee]] documented it in 1975-1976 as one of the most clearly illegal programs in CIA history, and its exposure contributed directly to James Angleton's dismissal by DCI [[William Colby]] in December 1974.
 
 ### Operation
 
