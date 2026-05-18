@@ -7,18 +7,18 @@ aliases:
   - ZRRIFLE
   - Executive Action
   - EXEC ACTION
+  - ZR/RIFLE
 tags:
   - Program
   - CIA
   - Assassination
   - ColdWar
   - AntiCastro
-  - ColdWar
-category: "Intelligence Operation"
-summary: "ZR/RIFLE was the CIA's covert executive action (assassination) planning program, established around 1960 under William Harvey, designed to develop a general capability to kill foreign leaders, applied primarily against Fidel Castro through the organized crime network involving Johnny Roselli and Sam Giancana, and exposed by the Church Committee in 1975 as a program concealed from the Warren Commission."
+category: Intelligence Operation
+summary: ZR/RIFLE was the CIA's covert executive action (assassination) planning program, established around 1960 under William Harvey, designed to develop a general capability to kill foreign leaders, applied primarily against Fidel Castro through the organized crime network involving Johnny Roselli and Sam Giancana, and exposed by the Church Committee in 1975 as a program concealed from the Warren Commission.
 start: 1960
 end: 1963
-location: "Washington, D.C. / Miami, Florida"
+location: Washington, D.C. / Miami, Florida
 ---
 
 ZR/RIFLE was a covert program established within the [[Central Intelligence Agency|CIA]]'s clandestine service around 1960 to develop what agency documents called an "executive action" capability - the ability to arrange the assassination of foreign leaders. The program was headed by [[William Harvey]] and was applied primarily to operations targeting [[Fidel Castro]] of Cuba. It was exposed by the [[Church Committee]] in 1975, which found that its existence had been deliberately concealed from the Warren Commission investigating President Kennedy's assassination.[^1]
