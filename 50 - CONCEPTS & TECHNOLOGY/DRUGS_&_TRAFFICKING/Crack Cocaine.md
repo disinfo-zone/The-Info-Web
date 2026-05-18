@@ -1,20 +1,27 @@
 ---
-category: "Crime Investigation"
+title: Crack Cocaine
+aliases:
+  - Crack Cocaine
+  - crack
+  - rock cocaine
+created: 2026-05-17
+updated: 2026-05-17
+category: "Drug Trafficking"
 tags:
   - Concept
-  - Drug_Economics
-  - United_States
+  - DrugEconomics
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Crack is a smokable, mass-producible form of cocaine that transformed the drug from an expensive luxury into a cheap commodity devastating American inner cities throughout the 1980s.
-start: 1974
-location: United States
+  - DarkAllianceInvestigation
+summary: "Smokable, mass-producible form of cocaine that transformed the drug from an expensive luxury into a cheap commodity devastating American inner cities throughout the 1980s."
+start: 1974-01-01
+location: "United States"
 ---
 Crack is a smokable form of [[cocaine]] created by converting cocaine hydrochloride powder back into its freebase form.[^1] The invention of crack transformed cocaine from an expensive luxury drug into a mass-market commodity that devastated [[South Central Los Angeles]] and other American inner cities in the 1980s.
 
 ### Origins of Cocaine Smoking
 
-The practice of smoking cocaine originated independently in [[South America|South America]] and the [[United States]].[^1] In [[Peru]] and [[Bolivia]], users began smoking coca paste (pasta basica de cocaina, also known as base or basuco) the intermediate product created during cocaine processing) in the mid-1970s. Peruvian police psychiatrist Raul Jeri documented a cocaine "epidemic" that swept through [[Lima]]'s fashionable neighborhoods in 1974 and spread to other major Peruvian cities and then to [[Ecuador]] and Bolivia.
+The practice of smoking cocaine originated independently in [[South America]] and the [[United States]].[^1] In [[Peru]] and [[Bolivia]], users began smoking coca paste (pasta basica de cocaina, also known as base or basuco) the intermediate product created during cocaine processing) in the mid-1970s. Peruvian police psychiatrist Raul Jeri documented a cocaine "epidemic" that swept through [[Lima]]'s fashionable neighborhoods in 1974 and spread to other major Peruvian cities and then to [[Ecuador]] and Bolivia.
 
 ### Freebasing in the United States
 
@@ -30,7 +37,7 @@ In the low-income neighborhoods of South Central L.A., cocaine was virtually non
 
 ### Crack and the Drug Explosion
 
-The transformation from freebase to [[Crack Cocaine|crack]] (a cheaper, mass-producible version of smokable cocaine) coincided with the flood of inexpensive cocaine entering the United States through the [[Contras|Contra]] drug network.[^1] [[Danilo Blandon|Danilo Blandón]] began selling wholesale quantities to [[Ricky Ross|"Freeway" Ricky Ross]] in [[Los Angeles]] around 1981-82, providing the city's street gangs with their first direct connection to the Colombian cocaine cartels and enabling the explosion of crack in South Central L.A..
+The transformation from freebase to crack (a cheaper, mass-producible version of smokable cocaine) coincided with the flood of inexpensive cocaine entering the United States through the [[Contras|Contra]] drug network.[^1] [[Danilo Blandon|Danilo Blandón]] began selling wholesale quantities to [[Ricky Ross|"Freeway" Ricky Ross]] in [[Los Angeles]] around 1981-82, providing the city's street gangs with their first direct connection to the Colombian cocaine cartels and enabling the explosion of crack in South Central L.A..
 
 By late 1982, two interrelated factors drove the explosion of crack in Los Angeles: Dr. Raul Jeri's much-ridiculed "epidemic" of cocaine smoking had finally arrived in the city, and a street-smart ghetto teenager who would come to be known as Freeway Rick emerged as the primary distributor.[^2]
 

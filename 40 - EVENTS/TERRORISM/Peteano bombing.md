@@ -42,10 +42,6 @@ The Peteano case was reopened in 1984 by [[Felice Casson]], a young Venice inves
 
 Casson requested authorization from the government to access further classified Gladio materials. Prime Minister [[Giulio Andreotti]], faced with the disclosure request, chose to acknowledge the network's existence to Parliament on October 24, 1990. The Peteano bombing - a single attack in a remote Friulian village in 1972 - thus became the direct chain of evidence that forced the exposure of the entire NATO stay-behind infrastructure eighteen years after it occurred.[^2]
 
-### Significance
-
-The Peteano case demonstrates the structural mechanism of the strategy of tension: a neofascist operational cell commits an attack; military intelligence suppresses forensic evidence pointing toward the weapons network; the attack is misattributed to the left; and the political climate shifts toward the security measures the strategy intended. That the entire apparatus was ultimately exposed through a single magistrate pursuing a single anomaly in a single case is equally illustrative of how the strategy of tension came undone.[^1]
-
 ### Footnotes
 
 [^1]: Ganser, Daniele. *NATO's Secret Armies: Operation GLADIO and Terrorism in Western Europe.* Frank Cass, 2005, Chapter 4. Willan, Philip. *Puppetmasters: The Political Use of Terrorism in Italy.* Constable, 1991.

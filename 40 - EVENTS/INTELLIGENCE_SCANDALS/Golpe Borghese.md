@@ -40,7 +40,7 @@ Parliamentary investigations later documented that the coup had participants at 
 
 Borghese fled Italy in February 1971 as the plot became known to investigating magistrates. He died in Cadiz, Spain, on August 26, 1974, of what Spanish authorities recorded as a heart attack. Italian intelligence sources subsequently raised allegations of assassination - a claim that was never formally investigated.[^2]
 
-### Cultural Response: Pasolini and Salo
+### Pasolini and Salo
 
 The film director [[Pier Paolo Pasolini]] was working on Salo, or the 120 Days of Sodom during the years when the strategy of tension was at its height. The film - based on the Marquis de Sade's novel but reset in the Republic of Salo in 1944 - uses the uniforms and imagery of the Decima Mas and the RSI militia as the framework for its depiction of fascist violence. Pasolini stated explicitly in interviews that the film was intended as an allegory of contemporary Italian power and its relationship to violence and corruption, connecting the historical RSI to the political forces he saw operating in Italy in the 1970s.
 
@@ -50,7 +50,7 @@ Pasolini was murdered on November 2, 1975, near Ostia outside Rome, three weeks 
 
 The parliamentary investigation into the Golpe Borghese documented that the networks involved in the coup attempt had connections extending into institutional Italy through the [[Propaganda Due|P2]] Masonic lodge. When the P2 membership list was discovered in March 1981 following a raid on [[Licio Gelli]]'s villa in Arezzo, it contained the names of senior military officers, intelligence service directors, magistrates, journalists, and politicians - the same milieu that parliamentary investigators had identified as the enabling environment for the Golpe Borghese. [[Silvio Berlusconi]] appeared on the list, as did the directors of all three Italian intelligence services at the time of the list's compilation.[^2]
 
-The parliamentary Commission on Terrorism (Commissione Stragi) concluded in subsequent years that P2 served as the continuing organizational framework through which fascist-aligned elements of Italian institutional life maintained contact and coordination after the Golpe Borghese's failure, representing the movement underground rather than the destruction of the networks that had made the coup attempt possible.[^1]
+The parliamentary Commission on Terrorism (Commissione Stragi) concluded in subsequent years that P2 served as the continuing organizational framework through which fascist-aligned elements of Italian institutional life maintained contact and coordination after the Golpe Borghese's failure.[^1]
 
 ### Footnotes
 

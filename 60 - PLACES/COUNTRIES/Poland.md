@@ -1,4 +1,4 @@
-﻿---
+---
 category: "Country"
 tags:
   - Country
@@ -24,7 +24,7 @@ CIA Director [[William Casey]] and Pope John Paul II met at the Vatican in June 
 
 Carl Bernstein's 1992 article in *Time* magazine documented the CIA-Vatican Solidarity support operation, drawing on interviews with participants in both governments. The operation is considered one of the most significant covert programs of the late Cold War.
 
-### Cold War Intelligence Context
+### Cold War Intelligence
 
 Poland was a high-priority target for Western intelligence throughout the Cold War, given its position as the most populous non-Soviet Warsaw Pact state and the critical transit corridor for Soviet military logistics to East [[Germany]]. The CIA maintained operations in Poland throughout the Cold War. The defection of senior Polish intelligence officer [[Ryszard Kuklinski]] to the CIA in 1981 (his identity was kept secret until 1998) provided the agency with detailed intelligence on Warsaw Pact military plans, including the plans for a Soviet invasion of Poland in the event Solidarity succeeded.[^1]
 

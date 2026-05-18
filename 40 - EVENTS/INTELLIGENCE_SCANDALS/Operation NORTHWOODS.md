@@ -43,15 +43,13 @@ Killing of Americans: The document explicitly contemplated staging incidents in 
 
 ### Rejection
 
-McNamara rejected the proposals. Kennedy, meeting with Lemnitzer shortly after receiving the document, left no doubt about his reaction. In July 1962, Kennedy declined to reappoint Lemnitzer as JCS Chairman when his term expired; Lemnitzer was transferred to command [[NATO]] forces in Europe. The direct connection between NORTHWOODS and Lemnitzer's removal was not confirmed at the time but became a subject of historical interpretation after declassification.[^1]
+McNamara rejected the proposals and Kennedy, meeting with Lemnitzer shortly after receiving the document, left no doubt about his reaction. In July 1962, Kennedy declined to reappoint Lemnitzer as JCS Chairman when his term expired; Lemnitzer was transferred to command [[NATO]] forces in Europe. The direct connection between NORTHWOODS and Lemnitzer's removal was not confirmed at the time but became a subject of historical interpretation after declassification.[^1]
 
 ### Declassification and Significance
 
-The document remained classified for thirty-five years. It was among the records released in 1997 under the JFK Assassination Records Collection Act, which required declassification of documents relating to the Kennedy assassination regardless of their original security designation. NORTHWOODS was included because it was part of the operational planning environment in which Kennedy and the Joint Chiefs were operating in 1962-1963.
+The document remained classified for thirty-five years and was among the records released in 1997 under the JFK Assassination Records Collection Act, which required declassification of documents relating to the Kennedy assassination regardless of their original security designation. NORTHWOODS was included because it was part of the operational planning environment in which Kennedy and the Joint Chiefs were operating in 1962-1963.
 
-James Bamford brought the document to wide public attention in his 2001 book *Body of Secrets: Anatomy of the Ultra-Secret National Security Agency*. The NORTHWOODS document became one of the most frequently cited pieces of evidence in discussions of false-flag operations, government deception, and conspiracy theory - used both by legitimate researchers documenting Cold War operational planning and by conspiracy theorists arguing that subsequent events (the [[Gulf of Tonkin Incident|Gulf of Tonkin incident]], 9/11) followed the template NORTHWOODS had proposed.
-
-The document's significance is dual: as a historical record of how senior American military officers actually thought about manufacturing pretexts for military action, and as a demonstration that such proposals were rejected by civilian leadership - the system functioned, in this case, as it was supposed to.[^2]
+James Bamford brought the document to wide public attention in his 2001 book *Body of Secrets: Anatomy of the Ultra-Secret National Security Agency*. The NORTHWOODS document became one of the most frequently cited pieces of evidence in discussions of false-flag operations, government deception, and conspiracy theory - used both by legitimate researchers documenting Cold War operational planning and by conspiracy theorists arguing that subsequent events (the [[Gulf of Tonkin Incident|Gulf of Tonkin incident]], 9/11) followed the template NORTHWOODS had proposed.[^2]
 
 ### Footnotes
 

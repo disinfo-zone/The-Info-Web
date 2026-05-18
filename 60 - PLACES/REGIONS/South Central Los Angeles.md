@@ -1,13 +1,21 @@
 ﻿---
+title: South Central Los Angeles
+aliases:
+  - South Central Los Angeles
+  - South Central
+  - South Central L.A.
+created: 2026-05-17
+updated: 2026-05-17
 category: "Region"
 tags:
   - Geography
   - Region
-  - United_States
+  - UnitedStates
   - California
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Region of Los Angeles that was the epicenter of the crack cocaine explosion in the early 1980s, where Danilo Blandón's Contra-connected cocaine was converted to crack and distributed by Ricky Ross's network.
+  - DarkAllianceInvestigation
+summary: "Region of Los Angeles that was the epicenter of the crack cocaine explosion in the early 1980s, where Danilo Blandón's Contra-connected cocaine was converted to crack and distributed by Ricky Ross's network."
+location: "Los Angeles, California"
 ---
 South Central Los Angeles is a region of [[Los Angeles]] that was the epicenter of the [[Crack Cocaine|crack]] cocaine explosion in the early 1980s.[^1] [[Ricky Ross|"Freeway" Ricky Ross]] built his crack distribution empire in South Central, supplied entirely by [[Danilo Blandon|Danilo Blandón]]'s Contra-connected [[cocaine]] network.[^2]
 

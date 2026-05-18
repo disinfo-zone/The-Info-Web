@@ -1,4 +1,11 @@
 ---
+title: Enrique Bermudez
+aliases:
+  - Enrique Bermudez
+  - Enrique Bermúdez
+  - Commandante 380
+created: 2026-05-17
+updated: 2026-05-17
 category: "Military"
 tags:
   - Person
@@ -6,8 +13,8 @@ tags:
   - Military
   - Nicaragua
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Supreme military commander of the FDN and former Somoza military attache in Washington who was hired by the CIA in 1980 to reassemble the National Guard into a Contra fighting force, and was murdered in Managua in 1991.
+  - DarkAllianceInvestigation
+summary: "Supreme military commander of the FDN and former Somoza military attaché in Washington who was hired by the CIA in 1980 to reassemble the National Guard into a Contra fighting force, and was murdered in Managua in 1991."
 born: 1932-12-11
 died: 1991-02-16
 location: "León, Nicaragua"

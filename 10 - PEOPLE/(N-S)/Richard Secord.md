@@ -1,14 +1,19 @@
 ---
+title: Richard Secord
+aliases:
+  - Richard Secord
+  - Richard V. Secord
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Iran_Contra
+  - IranContra
   - CIA
-  - Air_Force
-  - Ted_Shackley
+  - AirForce
   - PROMIS
   - 1980s
-summary: "Major General Richard Secord (USAF, ret.) co-directed the Iran-Contra Enterprise with Albert Hakim, purchasing weapons for Iran through Israeli intermediaries and channeling profits to fund the Nicaraguan Contras outside congressional appropriations before pleading guilty in 1989 to making false statements to Congress."
+summary: "Major General who co-directed the Iran-Contra Enterprise with Albert Hakim, purchasing weapons for Iran through Israeli intermediaries and channeling profits to fund the Nicaraguan Contras outside congressional appropriations before pleading guilty in 1989 to making false statements to Congress."
 born: 1932-07-06
 died: 2024-10-15
 location: "LaRue, Ohio"

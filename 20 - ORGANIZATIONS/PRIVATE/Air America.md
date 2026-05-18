@@ -1,17 +1,22 @@
 ---
+title: Air America
+aliases:
+  - Air America
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Organization
   - CIA
   - Airline
-  - Vietnam_War
-  - Drug_Trafficking
+  - VietnamWar
+  - DrugTrafficking
   - Intelligence
-  - Contra_War
-  - Dark_Alliance_Investigation
+  - ContraWar
+  - DarkAllianceInvestigation
 category: "Private Organization"
-summary: "Air America was a CIA proprietary airline that provided covert transportation services during the Vietnam War, trafficking heroin out of the Golden Triangle region."
-start: 1950
-end: 1976
+summary: "CIA proprietary airline that provided covert transportation services during the Vietnam War, linked to heroin trafficking out of the Golden Triangle region."
+start: 1950-01-01
+end: 1976-12-31
 location: "Washington, DC"
 ---
 

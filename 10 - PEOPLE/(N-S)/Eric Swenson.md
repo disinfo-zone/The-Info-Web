@@ -1,11 +1,17 @@
 ---
+title: Eric Swenson
+aliases:
+  - Eric Swenson
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
+  - LawEnforcement
   - 1980s
-  - Drug_Trafficking
-summary: Eric Swenson was a former assistant U.S. attorney who reported Norwin Meneses's Contra drug activities to the Justice Department and stated that the CIA was fully aware of Meneses's criminal operations.
+  - DrugTrafficking
+  - DarkAllianceInvestigation
+summary: "Former assistant U.S. attorney who reported Norwin Meneses's Contra drug activities to the Justice Department and stated that the CIA was fully aware of Meneses's criminal operations."
 ---
 Eric Swenson, a former assistant U.S. attorney familiar with investigations into [[Norwin Meneses]], stated that the drug lord's activities with the [[Contras]] were well known to the [[Department of Justice]] because he had personally reported them. Justice was not the only agency with this knowledge.[^1]
 

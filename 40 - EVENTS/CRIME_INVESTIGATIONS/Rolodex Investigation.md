@@ -1,17 +1,21 @@
 ---
+title: Rolodex Investigation
+aliases:
+  - Rolodex Investigation
+  - Bell Boys Investigation
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Event
   - Investigation
   - Netherlands
-  - 1997-1998
-  - Child_Trafficking
-  - Government_Corruption
-  - Dutch_Justice_Officials
-  - Joris_Demmink
+  - 1990s
+  - ChildTrafficking
+  - GovernmentCorruption
 category: "Crime Investigation"
 summary: "Dutch police inquiry (1997-1998) into a callboy service catering to Dutch justice officials, exposing connections between child trafficking networks and senior government figures."
-start: 1997
-end: 1998
+start: 1997-01-01
+end: 1998-12-31
 location: "Amsterdam, Netherlands"
 ---
 
@@ -25,7 +29,7 @@ The investigation began in 1997 when a man arrested for raping his girlfriend's 
 
 ### Karel Maasdam and the Festival Bar Operation
 
-[[Karel Maasdam]] emerged as the central figure in the Rolodex Investigation. Operating from the Festival Bar in Amsterdam, Maasdam ran a sophisticated child trafficking operation that provided boys to VIP clients, particularly those within the justice system. The Festival Bar served as both a recruitment center and operational hub for his extensive trafficking network.[^3]
+Karel Maasdam emerged as the central figure in the Rolodex Investigation. Operating from the Festival Bar in Amsterdam, Maasdam ran a sophisticated child trafficking operation that provided boys to VIP clients, particularly those within the justice system. The Festival Bar served as both a recruitment center and operational hub for his extensive trafficking network.[^3]
 
 Maasdam's operation was notable for its focus on compromising individuals in positions of power and authority. By targeting justice officials, politicians, and other influential figures, his network created a system of blackmail and control that protected its operations from prosecution.[^3]
 
@@ -43,19 +47,19 @@ The investigation revealed that numerous high-ranking officials within the Dutch
 
 ### Witness Testimony and Evidence
 
-Crucial evidence in the investigation came from a boy prostitute who worked at the Festival Bar and later testified during a 2012 Helsinki Commission hearing into child sex trafficking in Amsterdam. The witness provided detailed testimony about [[Karel Maasdam]]'s operation, stating that Maasdam sold boys to Amsterdam child pornographers, some of whom were involved in snuff films. The witness also claimed to have been introduced to [[Joris Demmink]] at the Festival Bar by Professor Van Roon and described being instructed to have sex with Demmink inside his government car.[^6]
+Crucial evidence in the investigation came from a boy prostitute who worked at the Festival Bar and later testified during a 2012 Helsinki Commission hearing into child sex trafficking in Amsterdam. The witness provided detailed testimony about Karel Maasdam's operation, stating that Maasdam sold boys to Amsterdam child pornographers, some of whom were involved in snuff films. The witness also claimed to have been introduced to Demmink at the Festival Bar by Professor Van Roon and described being instructed to have sex with Demmink inside his government car.[^6]
 
 ### Government Vehicle Abuse and Official Complicity
 
-Further evidence of official complicity emerged from complaints filed by drivers assigned to [[Joris Demmink]]'s government car. One driver, Rob Mostert, had complained that Demmink had sex with boys in the backseat of his government car in his presence. Mostert died shortly after lodging his complaint, which was never followed up on. Similar complaints were made by other drivers.[^7]
+Further evidence of official complicity emerged from complaints filed by drivers assigned to Demmink's government car. One driver, Rob Mostert, had complained that Demmink had sex with boys in the backseat of his government car in his presence. Mostert died shortly after lodging his complaint, which was never followed up on. Similar complaints were made by other drivers.[^7]
 
 ### Investigation Shutdown and Cover-up
 
-Despite the compelling evidence gathered during the investigation, the case was shut down in 1998 shortly after senior government officials such as [[Joris Demmink]] were implicated. A detective who investigated the Bell Boys service stated that the case had been closed with the arrest and sentencing of [[Karel Maasdam]], but the timing - coming immediately after high-ranking officials were named - suggested a deliberate cover-up to protect powerful individuals.[^8]
+Despite the compelling evidence gathered during the investigation, the case was shut down in 1998 shortly after senior government officials such as Demmink were implicated. A detective who investigated the Bell Boys service stated that the case had been closed with the arrest and sentencing of Karel Maasdam, but the timing - coming immediately after high-ranking officials were named - suggested a deliberate cover-up to protect powerful individuals.[^8]
 
 ### International Connections and Broader Network
 
-The Rolodex Investigation revealed connections to international trafficking networks. Information provided by an alleged bookkeeper of [[Karel Maasdam]] named [[Richard Carl-Samson]] indicated that [[Warwick Spinks]] frequently pimped boys to [[Joris Demmink]] and Henry Hans Holthuis.[^9]
+The Rolodex Investigation revealed connections to international trafficking networks. Information provided by an alleged bookkeeper of Karel Maasdam named [[Richard Carl-Samson]] indicated that [[Warwick Spinks]] frequently pimped boys to Demmink and Henry Hans Holthuis.[^9]
 
 ### Connection to Other Investigations
 

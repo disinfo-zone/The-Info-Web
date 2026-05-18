@@ -15,7 +15,7 @@ tags:
   - NSA
 category: "Major Conflict"
 summary: "The Gulf of Tonkin Incident refers to the August 2 and 4, 1964 incidents in which a genuine North Vietnamese attack on the USS Maddox was followed by a second 'attack' on August 4 that almost certainly never occurred, yet was used by the Johnson administration to obtain the Gulf of Tonkin Resolution authorizing open-ended military escalation in Vietnam - a deception confirmed by NSA declassified documents released in 2005."
-date: 1964-08-04
+start: 1964-08-04
 location: "Gulf of Tonkin, off North Vietnam"
 ---
 

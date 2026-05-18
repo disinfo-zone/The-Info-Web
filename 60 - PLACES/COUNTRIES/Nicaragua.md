@@ -1,19 +1,25 @@
 ---
+title: Nicaragua
+aliases:
+  - Nicaragua
+created: 2026-05-17
+updated: 2026-05-17
 category: "Country"
 tags:
   - Geography
   - Country
-  - Central_America
-  - Cold_War
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Central American nation ruled by the Somoza family dictatorship for forty-six years until the Sandinista revolution in 1979, after which it became the battleground for the CIA-backed Contra war.
+  - CentralAmerica
+  - ColdWar
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Central American nation ruled by the Somoza family dictatorship for forty-six years until the Sandinista revolution in 1979, after which it became the battleground for the CIA-backed Contra war."
+location: "Central America"
 ---
 Nicaragua is a [[Central America|Central American]] nation that was ruled by the [[Anastasio Somoza|Somoza]] family dictatorship for forty-six years until the [[Sandinistas|Sandinista]] revolution in July 1979.[^1] The country became the focal point of the Contra war and the [[Dark Alliance]] drug trafficking network.[^2]
 
 ### Somoza Era
 
-For the forty-six years the Somoza family ruled Nicaragua, they served as reliable allies of the [[United States|U.S.]] government. Anastasio Somoza personally participated in the [[Central Intelligence Agency]]'s 1954 overthrow of the [[Guatemala|Guatemalan]] government, provided the staging base for the [[Bay of Pigs|Bay of Pigs]] invasion of [[Cuba]] in 1961, sent troops to the [[Dominican Republic]] in 1965, and contributed Nicaraguan forces to [[Vietnam]].[^1]
+For the forty-six years the Somoza family ruled Nicaragua, they served as reliable allies of the [[United States|U.S.]] government. Anastasio Somoza personally participated in the [[Central Intelligence Agency]]'s 1954 overthrow of the [[Guatemala|Guatemalan]] government, provided the staging base for the [[Bay of Pigs]] invasion of [[Cuba]] in 1961, sent troops to the [[Dominican Republic]] in 1965, and contributed Nicaraguan forces to [[Vietnam]].[^1]
 
 The [[Nicaraguan National Guard]] served as Somoza's military, police, and intelligence service - a bulwark against anti-American interests that the U.S. had created in the 1930s and trained at [[Fort Gulick]], [[Fort Benning]], and [[Fort Leavenworth|Leavenworth]].
 

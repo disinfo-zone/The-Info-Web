@@ -1,4 +1,10 @@
 ---
+title: Adolfo Calero
+aliases:
+  - Adolfo Calero
+  - Adolfo Calero Portocarrero
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
@@ -6,8 +12,8 @@ tags:
   - Nicaragua
   - CIA
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Longtime CIA agent and former Coca-Cola bottling plant manager in Managua who was selected by the CIA in 1983 to lead the political wing of the FDN and worked closely with Oliver North.
+  - DarkAllianceInvestigation
+summary: "Longtime CIA agent and former Coca-Cola bottling plant manager in Managua who was selected by the CIA in 1983 to lead the political wing of the FDN and worked closely with Oliver North."
 born: 1931-12-22
 died: 2012-06-02
 location: "Managua, Nicaragua"

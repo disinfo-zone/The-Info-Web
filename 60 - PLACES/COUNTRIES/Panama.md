@@ -1,12 +1,19 @@
 ﻿---
+title: Panama
+aliases:
+  - Panama
+created: 2026-05-17
+updated: 2026-05-17
 category: "Country"
 tags:
   - Geography
   - Country
-  - Central_America
-  - Drug_Trafficking
+  - CentralAmerica
+  - DrugTrafficking
   - 1980s
-summary: Central American nation that was a major conduit for cocaine trafficking and money laundering, ruled by military dictator Manuel Noriega who simultaneously worked for the CIA and Colombian drug cartels.
+  - DarkAllianceInvestigation
+summary: "Central American nation that was a major conduit for cocaine trafficking and money laundering, ruled by military dictator Manuel Noriega who simultaneously worked for the CIA and Colombian drug cartels."
+location: "Central America"
 ---
 Panama is a [[Central America|Central American]] nation that served as a major banking center, money laundering hub, and cocaine transshipment point during the 1980s.[^1]
 

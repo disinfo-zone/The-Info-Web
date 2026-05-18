@@ -16,7 +16,7 @@ tags:
   - 1950s
 category: "Intelligence Operation"
 summary: "Operation AJAX was the CIA's code name for the August 1953 covert operation that overthrew Iranian Prime Minister Mohammad Mosaddegh, restoring the Shah to full power in collaboration with British MI6 (Operation Boot), and establishing the direct precedent for CIA-backed coups that shaped Cold War policy and Iran's trajectory toward the 1979 Islamic Revolution."
-date: 1953-08-19
+start: 1953-08-19
 location: "Tehran, Iran"
 ---
 

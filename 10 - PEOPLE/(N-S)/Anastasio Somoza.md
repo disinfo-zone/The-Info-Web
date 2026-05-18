@@ -1,14 +1,21 @@
 ---
-category: "Iran-Contra"
+title: Anastasio Somoza
+aliases:
+  - Anastasio Somoza
+  - Anastasio Somoza Debayle
+  - Tachito
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
   - Politician
   - Nicaragua
   - 1970s
-  - Cold_War
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Anastasio Somoza Debayle was the dictator of Nicaragua whose family ruled the country for forty-six years until the Sandinista revolution in July 1979, after which his dispersed National Guard officers became the founding cadre of the Contras.
+  - ColdWar
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Dictator of Nicaragua whose family ruled the country for forty-six years until the Sandinista revolution in July 1979, after which his dispersed National Guard officers became the founding cadre of the Contras."
 born: 1925-12-05
 died: 1980-09-17
 location: "León, Nicaragua"

@@ -1,13 +1,20 @@
 ---
+title: Felix Rodriguez
+aliases:
+  - Felix Rodriguez
+  - Max Gomez
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
+  - Intelligence
   - CIA
-  - El_Salvador
+  - ElSalvador
   - 1980s
-  - Contra_War
-summary: Felix Rodriguez was a CIA agent and Bay of Pigs veteran who oversaw Oliver North's Contra resupply operation at Ilopango Air Force Base under the alias "Max Gomez."
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "CIA agent and Bay of Pigs veteran who oversaw Oliver North's Contra resupply operation at Ilopango Air Force Base under the alias 'Max Gomez.'"
 born: 1941-05-31
 location: "Havana, Cuba"
 ---

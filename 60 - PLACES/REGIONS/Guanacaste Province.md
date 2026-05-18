@@ -1,12 +1,20 @@
 ﻿---
+title: Guanacaste Province
+aliases:
+  - Guanacaste Province
+  - Guanacaste
+created: 2026-05-17
+updated: 2026-05-17
 category: "Region"
 tags:
   - Geography
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Contra_War
-  - Drug_Trafficking
-summary: Guanacaste Province in northern Costa Rica served as the headquarters for Contra drug and weapons trafficking operations during the 1980s, equipped with rural landing strips and corruptible local officials.
+  - ContraWar
+  - DrugTrafficking
+  - DarkAllianceInvestigation
+summary: "Guanacaste Province in northern Costa Rica served as headquarters for Contra drug and weapons trafficking operations during the 1980s, equipped with rural landing strips and corruptible local officials."
+location: "Guanacaste, Costa Rica"
 ---
 
 ### Contra War Hub

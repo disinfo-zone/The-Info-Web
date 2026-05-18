@@ -1,14 +1,21 @@
 ---
+title: Enrique Miranda
+aliases:
+  - Enrique Miranda
+  - Enrique Miranda Jaime
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - Person/Intelligence
+  - DrugTrafficker
+  - Intelligence
   - CIA
   - Nicaragua
   - 1980s
-  - Contra_War
-summary: Former Sandinista intelligence officer who became a CIA double agent and DEA informant, serving as Norwin Meneses's right-hand man and providing detailed testimony about the Ilopango drug pipeline.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Former Sandinista intelligence officer who became a CIA double agent and DEA informant, serving as Norwin Meneses's right-hand man and providing detailed testimony about the Ilopango drug pipeline."
 ---
 Enrique Miranda Jaime was a former [[Sandinistas|Sandinista]] intelligence officer who became a double agent for the [[Central Intelligence Agency]] during the Contra war and later worked as a [[DEA]] informant. From 1989 to 1991, he served as [[Norwin Meneses]]'s emissary to the cartels of [[Colombia]] and as his right-hand man.[^1]
 

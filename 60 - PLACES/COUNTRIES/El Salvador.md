@@ -1,12 +1,19 @@
 ﻿---
+title: El Salvador
+aliases:
+  - El Salvador
+created: 2026-05-17
+updated: 2026-05-17
 category: "Country"
 tags:
   - Geography
   - Country
-  - Central_America
-  - Contra_War
+  - CentralAmerica
+  - ContraWar
   - 1980s
-summary: Central American nation where the CIA ran the Contra project from Ilopango Air Force Base, where DEA agent Celerino Castillo discovered Contra cocaine trafficking, and where the Salvadoran military facilitated drug-for-arms exchanges.
+  - DarkAllianceInvestigation
+summary: "Central American nation where the CIA ran the Contra project from Ilopango Air Force Base, where DEA agent Celerino Castillo discovered Contra cocaine trafficking, and where the Salvadoran military facilitated drug-for-arms exchanges."
+location: "Central America"
 ---
 El Salvador is a [[Central America|Central American]] nation that played a critical role in Contra logistics and drug trafficking during the 1980s.[^1] [[Ilopango Airbase|Ilopango Air Force Base]], located in the capital [[San Salvador]], was the hub of CIA and [[Oliver North]]'s Contra air operations.[^2]
 

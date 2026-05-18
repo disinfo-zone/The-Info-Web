@@ -1,22 +1,24 @@
 ---
-created: 2025-07-22
-updated: 2025-07-22
 title: National Security Council
+aliases:
+  - National Security Council
+  - NSC
+created: 2025-07-22
+updated: 2026-05-17
 tags:
   - Organization
   - Government
   - USA
-  - National Security
+  - NationalSecurity
   - Presidential
-  - Dark_Alliance_Investigation
-description: The National Security Council (NSC) is the principal forum used by the President for considering national security and foreign policy matters, which under the Reagan administration became an operational intelligence agency running Oliver North's illegal Contra supply network.
+  - DarkAllianceInvestigation
 category: "U.S. Government"
-summary: "The National Security Council (NSC) is the principal forum used by the President of the United States for considering national security and foreign policy matters with senior advisors and Cabinet officials.[^1]"
-start: 1947
+summary: "Principal presidential forum for national security and foreign policy matters that under the Reagan administration became an operational intelligence agency running Oliver North's illegal Contra supply network."
+start: 1947-07-26
 location: "Washington, D.C."
 ---
 
-The [[National Security Council]] (NSC) is the principal forum used by the President of the United States for considering national security and foreign policy matters with senior advisors and Cabinet officials.[^1]
+The National Security Council (NSC) is the principal forum used by the President of the United States for considering national security and foreign policy matters with senior advisors and Cabinet officials.[^1]
 
 ### Psi Research
 

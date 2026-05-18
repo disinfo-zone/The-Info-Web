@@ -1,17 +1,23 @@
 ---
+title: Colombia
+aliases:
+  - Colombia
+created: 2026-05-17
+updated: 2026-05-17
+category: "Country"
 tags:
   - Geography
   - Country
-  - South_America
-  - Drug_Trafficking
-  - Contra_War
+  - SouthAmerica
+  - DrugTrafficking
+  - ContraWar
   - 1980s
-  - Dark_Alliance_Investigation
-category: "Country"
-summary: "Colombia is a country in South America that was the world's primary source of cocaine during the 1980s and has been profoundly shaped by drug trafficking, particularly through the operations of the Cali Drug Cartel and the Medellin Cartel."
+  - DarkAllianceInvestigation
+summary: "South American nation that was the world's primary source of cocaine during the 1980s, profoundly shaped by the operations of the Cali Drug Cartel and the Medellín cartel whose product flowed through Contra-connected trafficking networks."
+location: "South America"
 ---
 
-[[Colombia]] is a country in [[South America]] that was the world's primary source of [[cocaine]] during the 1980s and has been profoundly shaped by drug trafficking, particularly through the operations of the [[Cali Drug Cartel]] and the [[Medellin Cartel|Medellín cartel]]. Colombian drug cartels supplied the cocaine that flowed through [[Norwin Meneses]]'s and [[Danilo Blandon|Danilo Blandón]]'s trafficking networks in [[Los Angeles]] and [[San Francisco]].[^1][^3]
+Colombia is a country in [[South America]] that was the world's primary source of [[cocaine]] during the 1980s and has been profoundly shaped by drug trafficking, particularly through the operations of the [[Cali Drug Cartel]] and the [[Medellin Cartel|Medellín cartel]]. Colombian drug cartels supplied the cocaine that flowed through [[Norwin Meneses]]'s and [[Danilo Blandon|Danilo Blandón]]'s trafficking networks in [[Los Angeles]] and [[San Francisco]].[^1][^3]
 
 ### Drug Trafficking and Political Influence
 

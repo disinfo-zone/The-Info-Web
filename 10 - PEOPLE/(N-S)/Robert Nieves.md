@@ -1,13 +1,20 @@
 ---
+title: Robert Nieves
+aliases:
+  - Robert Nieves
+  - The Snowman
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
+  - LawEnforcement
   - DEA
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Contra_War
-summary: DEA agent who served as Norwin Meneses's control agent in Costa Rica, was accused of drug trafficking by multiple informants, and later rose to head the DEA's International Division before joining Oliver North's company.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "DEA agent who served as Norwin Meneses's control agent in Costa Rica, was accused of drug trafficking by multiple informants, and later rose to head the DEA's International Division before joining Oliver North's company."
 ---
 Robert Nieves, known as "The Snowman," was the [[DEA]]'s country attaché in [[Costa Rica]] during the Contra war and served as [[Norwin Meneses]]'s control agent. Multiple informants accused him of drug trafficking and protecting cocaine labs, allegations that were never investigated.[^1]
 

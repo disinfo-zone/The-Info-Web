@@ -1,14 +1,20 @@
 ﻿---
+title: San Francisco
+aliases:
+  - San Francisco
+created: 2026-05-17
+updated: 2026-05-17
 category: "City"
 tags:
   - Geography
   - City
-  - United_States
+  - UnitedStates
   - California
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Major California city that served as the base of operations for Norwin Meneses's cocaine trafficking network, the site of the Frogman Case, and the location of key DEA and FBI offices investigating Contra drug trafficking.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Major California city that served as the base of operations for Norwin Meneses's cocaine trafficking network, the site of the Frogman Case, and the location of key DEA and FBI offices investigating Contra drug trafficking."
+location: "San Francisco, California"
 ---
 San Francisco is a city in northern [[California]] that served as the primary base of operations for [[Norwin Meneses|Meneses]]'s [[cocaine]] trafficking network on the U.S. West Coast from 1980 to 1984 and the location of key federal investigations into Contra drug dealing.[^1]
 

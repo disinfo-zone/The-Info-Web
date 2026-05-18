@@ -1,15 +1,22 @@
 ﻿---
+title: Walton Hop Disco
+aliases:
+  - Walton Hop Disco
+  - Walton Hop
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Location
-  - UK
+  - UnitedKingdom
   - 1970s
   - 1980s
-  - Child_Abuse
-  - Operation_Arundel
-  - BBC_Network
+  - ChildAbuse
+  - OperationArundel
+  - BBCNetwork
   - Nightclub
 category: "Landmark"
-summary: "The Walton Hop Disco was an underage nightclub that served as a procurement center for a suspected pedophile ring involving BBC celebrities during the 1970s and 1980s."
+summary: "Underage nightclub in Walton-on-Thames that served as a procurement center for a suspected BBC celebrity pedophile ring during the 1970s and 1980s."
+location: "Walton-on-Thames, Surrey, UK"
 ---
 
 The Walton Hop Disco was an underage nightclub that served as a procurement center for a suspected pedophile ring involving [[BBC]] celebrities during the 1970s and 1980s. According to investigations, BBC celebrities allegedly procured boys and girls from this venue as part of an organized network that operated within the British entertainment industry. The disco was located in [[Walton-on-Thames]] and became infamous for its role in facilitating child abuse by prominent media figures of the era.[^1]

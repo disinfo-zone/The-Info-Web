@@ -21,13 +21,13 @@ start: 1973-05-09
 location: "Washington, D.C."
 ---
 
-The "Family Jewels" was an internal CIA document - formally titled "Potential Flap Activities" - compiled in May 1973 at the direction of Director of Central Intelligence James Schlesinger, who had succeeded [[Richard Helms]] as DCI in February 1973 and was alarmed by revelations emerging from the Watergate investigation about CIA involvement in domestic political operations. Schlesinger directed the CIA's deputy directors and senior officers to report to him any activities that had occurred or were currently underway that might be "outside the CIA's legislative charter." The resulting compilation ran to 693 pages.[^1]
+The "Family Jewels" was an internal [[Central Intelligence Agency|CIA]] document - formally titled "Potential Flap Activities" - compiled in May 1973 at the direction of Director of Central Intelligence [[James Schlesinger]], who had succeeded [[Richard Helms]] as DCI in February 1973 and was alarmed by revelations emerging from the [[Watergate scandal|Watergate]] investigation about CIA involvement in domestic political operations. Schlesinger directed the CIA's deputy directors and senior officers to report to him any activities that had occurred or were currently underway that might be "outside the CIA's legislative charter." The resulting compilation ran to 693 pages.[^1]
 
 ### Contents
 
 The Family Jewels documented activities across several categories:
 
-- Assassination plots against foreign leaders (Cuba's Fidel Castro multiple times; Patrice Lumumba of Congo; Rafael Trujillo of the Dominican Republic; Ngo Dinh Diem of South Vietnam; General René Schneider of Chile)
+- Assassination plots against foreign leaders (Cuba's [[Fidel Castro]] multiple times; [[Patrice Lumumba]] of Congo; [[Rafael Trujillo]] of the Dominican Republic; [[Ngo Dinh Diem]] of South Vietnam; [[General René Schneider]] of Chile)
 - [[Operation CHAOS]] (MHCHAOS): domestic surveillance of American citizens; files on 7,200 Americans
 - MAIL: illegal opening of first-class mail under the [[HTLINGUAL|HT/LINGUAL]] program, which had run since 1952
 - [[MKULTRA]]-related drug testing programs, including administering LSD to unwitting subjects
@@ -41,11 +41,7 @@ Schlesinger transmitted the document to his successor as DCI, [[William Colby]],
 
 Colby's disclosure of the Family Jewels to the Church Committee in 1975 was part of what CIA traditionalists called the "Halloween Massacre" - the moment when Colby's approach to congressional oversight became apparent to the full intelligence community. President Ford fired Colby as DCI in November 1975 (and also fired Schlesinger as Secretary of Defense, in the same announcement), though Colby continued serving through the transition to his successor George H.W. Bush.
 
-The Family Jewels was partially declassified and released by the CIA under then-DCI Michael Hayden on June 26, 2007, following a FOIA lawsuit by the National Security Archive. The released version remains redacted in substantial portions. The unredacted document can be accessed through the CIA's FOIA Reading Room: cia.gov/readingroom/collection/family-jewels.[^1]
-
-### Significance
-
-The Family Jewels is significant as both a primary source document and a historical event. As a document, it represents the CIA's own internal accounting of activities it considered potentially illegal, providing primary-source confirmation of operations that were otherwise only documented in secondary sources. As an event, Colby's decision to disclose it to Congress - rather than suppress it as Helms had suppressed other records - represented a fundamental shift in CIA-congressional relations that generated lasting institutional resentment within the intelligence community.[^1]
+The Family Jewels was partially declassified and released by the CIA under then-DCI [[Michael Hayden]] on June 26, 2007, following a FOIA lawsuit by the National Security Archive. The released version remains redacted in substantial portions. The unredacted document can be accessed through the CIA's FOIA Reading Room: cia.gov/readingroom/collection/family-jewels.[^1]
 
 ### Footnotes
 

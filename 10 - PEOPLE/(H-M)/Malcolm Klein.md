@@ -1,11 +1,17 @@
 ---
-category: "Authors & Journalists"
+title: Malcolm Klein
+aliases:
+  - Malcolm Klein
+created: 2026-05-17
+updated: 2026-05-17
+category: "Academia & Research"
 tags:
   - Person
-  - Person/Journalist
+  - Academic
   - 1980s
-  - Los_Angeles
-summary: Malcolm Klein was a USC sociologist who, with colleague Cheryl Maxson, conducted the first scientific study of the early Los Angeles crack market in 1985, documenting the proliferation of rock houses and street gang involvement.
+  - LosAngeles
+  - DarkAllianceInvestigation
+summary: "USC sociologist who, with colleague Cheryl Maxson, conducted the first scientific study of the early Los Angeles crack market in 1985, documenting the proliferation of rock houses and street gang involvement."
 ---
 Malcolm Klein, a sociologist at the University of Southern California, along with colleague Cheryl Maxson, conducted the first scientific examination of the early Los Angeles [[Crack Cocaine|crack]] market in early 1985. Their preliminary findings, published in a small social research journal, documented that "throughout the Black residential areas of Los Angeles County, there has been a recent, dramatic increase in cocaine dealing. . .in large part from the proliferation of cocaine 'rocks' and fortified 'rock houses' which, with certain refinements, constitute a new technology and organization for cocaine distribution."[^1]
 

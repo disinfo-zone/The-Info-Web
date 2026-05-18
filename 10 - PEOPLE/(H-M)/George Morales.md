@@ -1,13 +1,19 @@
 ---
+title: George Morales
+aliases:
+  - George Morales
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Person/Drug_Trafficker
+  - DrugTrafficker
   - Colombia
   - 1980s
-  - Contra_War
-  - Congressional_Testimony
-summary: George Morales was a major Colombian drug trafficker who provided aircraft, money, and weapons to Eden Pastora's ARDE Contra faction with the knowledge and approval of CIA operatives, according to sworn congressional testimony.
+  - ContraWar
+  - CongressionalTestimony
+  - DarkAllianceInvestigation
+summary: "Major Colombian drug trafficker who provided aircraft, money, and weapons to Eden Pastora's ARDE Contra faction with the knowledge and approval of CIA operatives, according to sworn congressional testimony."
 ---
 George Morales was a major Colombian cocaine trafficker who operated during the early 1980s. In early 1984, despite having just been indicted by a federal grand jury on conspiracy and cocaine trafficking charges, Morales was approached by [[Central Intelligence Agency]]-linked Contra officials seeking financial and logistical assistance for [[Eden Pastora|Eden Pastora's]] [[ARDE]] Contra army.[^1]
 

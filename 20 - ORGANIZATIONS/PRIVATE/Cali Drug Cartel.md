@@ -1,16 +1,22 @@
 ---
+title: Cali Drug Cartel
+aliases:
+  - Cali Drug Cartel
+  - Cali Cartel
+created: 2026-05-17
+updated: 2026-05-17
+category: "Organized Crime"
 tags:
   - Organization
-  - Drug_Cartel
+  - DrugCartel
   - Colombia
   - 1980s
-  - Dark_Alliance_Investigation
-category: "Private Organization"
-summary: "The Cali Drug Cartel was a powerful Colombian drug trafficking organization based in Cali, Colombia, described in a 1994 *Time* magazine article as controlling 80% of the world's cocaine trade."
+  - DarkAllianceInvestigation
+summary: "Powerful Colombian drug trafficking organization based in Cali, described in a 1994 Time magazine article as controlling 80% of the world's cocaine trade."
 location: "Cali, Colombia"
 ---
 
-The [[Cali Drug Cartel]] was a powerful Colombian drug trafficking organization based in [[Cali, Colombia|Cali]], described in a 1994 *Time* magazine article as controlling 80% of the world's cocaine trade. Its key leaders included [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]].[[Norwin Meneses]] is believed to have been the cartel's representative in [[Nicaragua]].[^1][^3][^5]
+The Cali Drug Cartel was a powerful Colombian drug trafficking organization based in [[Cali, Colombia|Cali]], described in a 1994 *Time* magazine article as controlling 80% of the world's cocaine trade. Its key leaders included [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]].[[Norwin Meneses]] is believed to have been the cartel's representative in [[Nicaragua]].[^1][^3][^5]
 
 ### Drug Trafficking and Political Influence
 

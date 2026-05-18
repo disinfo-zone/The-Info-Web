@@ -1,13 +1,21 @@
 ---
+title: Ilopango Airbase
+aliases:
+  - Ilopango Airbase
+  - Ilopango Air Force Base
+  - Ilopango
+created: 2026-05-17
+updated: 2026-05-17
 category: "Military Installation"
 tags:
   - Geography
-  - El_Salvador
+  - ElSalvador
   - Military
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Salvadoran military air base that served as the hub for Oliver North's illegal Contra resupply operation and a center for Contra-connected cocaine trafficking during the 1980s.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Salvadoran military air base that served as the hub for Oliver North's illegal Contra resupply operation and a center for Contra-connected cocaine trafficking during the 1980s."
+location: "El Salvador"
 ---
 Ilopango Air Force Base is a military airfield outside [[San Salvador]], [[El Salvador]], that served as the hub for [[Oliver North]]'s illegal Contra resupply operation and a center for Contra-connected cocaine trafficking during the 1980s. Situated atop a plateau surrounded by imposing cliffs, the base had a restricted military side tightly guarded by the Salvadoran military and a civilian side used for private aviation.[^1]
 

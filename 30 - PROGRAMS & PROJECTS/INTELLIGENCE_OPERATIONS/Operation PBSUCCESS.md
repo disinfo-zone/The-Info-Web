@@ -14,7 +14,7 @@ tags:
   - 1950s
 category: "Intelligence Operation"
 summary: "Operation PBSUCCESS was the CIA's June 1954 covert operation that overthrew Guatemalan President Jacobo Arbenz, installing the pro-American Castillo Armas government, establishing the template for subsequent CIA-backed regime change operations, and drawing lessons about covert action that contributed directly to the Bay of Pigs disaster seven years later."
-date: 1954-06-27
+start: 1954-06-27
 location: "Guatemala City, Guatemala"
 ---
 
@@ -34,14 +34,14 @@ Operation PBSUCCESS was coordinated from CIA headquarters and executed from a fo
 - [[Tracy Barnes]] - Washington coordinator of the operation
 - Colonel [[Al Haney]] - field commander of the paramilitary elements
 - [[Howard Hunt|E. Howard Hunt]] - chief of political action and propaganda
-- [[John Peurifoy]] - U.S. Ambassador to [[Guatemala]], who worked closely with CIA and cultivated Guatemalan military contacts
+- [[John Peurifoy]] - U.S. Ambassador to Guatemala, who worked closely with CIA and cultivated Guatemalan military contacts
 - [[Kermit Roosevelt|Kermit Roosevelt Jr.]] - not directly involved but his Iranian coup ([[Operation AJAX]], 1953) was the model that validated the approach
 
 The operation also drew on [[United States Army|Army]] and [[Air Force]] support for training the exile force and providing aircraft operating from Nicaraguan and Honduran bases.[^1]
 
 ### Execution
 
-A small Liberation Army of approximately 480 Guatemalan exiles was trained in [[Honduras]] and [[Nicaragua]]. CIA aircraft flew combat and psychological bombing missions over Guatemala, targeting oil tanks in [[Puerto Barrios]] and conducting low-level runs over Guatemala City.
+A small Liberation Army of approximately 480 Guatemalan exiles was trained in Honduras and [[Nicaragua]]. CIA aircraft flew combat and psychological bombing missions over Guatemala, targeting oil tanks in [[Puerto Barrios]] and conducting low-level runs over Guatemala City.
 
 The key operational innovation was the "Voice of Liberation" (Radio Liberación), a CIA-operated radio station broadcasting from Honduras that fabricated reports of the Liberation Army's military progress - inventing unit movements, surrendering soldiers, and advancing columns that did not exist. The broadcasts were designed to convince the Guatemalan military high command that Arbenz's position was militarily hopeless.
 

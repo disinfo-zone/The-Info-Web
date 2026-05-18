@@ -1,12 +1,19 @@
 ﻿---
+title: Costa Rica
+aliases:
+  - Costa Rica
+created: 2026-05-17
+updated: 2026-05-17
 category: "Country"
 tags:
   - Geography
   - Country
-  - Central_America
-  - Contra_War
+  - CentralAmerica
+  - ContraWar
   - 1980s
-summary: Central American nation bordering Nicaragua that served as the primary base for the Southern Front Contra operations, the site of Norwin Meneses's drug empire, and the location of CIA operative John Hull's ranch.
+  - DarkAllianceInvestigation
+summary: "Central American nation bordering Nicaragua that served as the primary base for the Southern Front Contra operations, the site of Norwin Meneses's drug empire, and the location of CIA operative John Hull's ranch."
+location: "Central America"
 ---
 Costa Rica is a [[Central America|Central American]] nation bordering [[Nicaragua]] to the south that served as the primary operational base for the Southern Front [[Contras]] during the 1980s.[^1] The country's northern region, adjacent to the Nicaraguan border, became a hub for [[cocaine]] trafficking, arms smuggling, and covert operations involving the [[Central Intelligence Agency]], [[DEA]], and Contra forces.[^2]
 

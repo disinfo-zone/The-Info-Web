@@ -1,11 +1,18 @@
 ---
+title: Robert McFarlane
+aliases:
+  - Robert McFarlane
+  - Bud McFarlane
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Politician
+  - Politician
   - 1980s
-  - Contra_War
-summary: Robert McFarlane served as Ronald Reagan's national security adviser and in January 1985 advised FDN leader Adolfo Calero that it might be time to consider cutting losses on the Contra project.
+  - ContraWar
+  - IranContra
+summary: "Ronald Reagan's national security adviser who in January 1985 advised FDN leader Adolfo Calero that it might be time to consider cutting losses on the Contra project."
 born: 1937-07-12
 died: 2022-05-12
 location: "Washington, D.C., USA"

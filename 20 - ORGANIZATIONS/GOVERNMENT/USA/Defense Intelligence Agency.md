@@ -9,11 +9,10 @@ tags:
   - USA
   - Defense
   - Military
-  - Dark_Alliance_Investigation
-description: The Defense Intelligence Agency (DIA) is an intelligence agency of the United States federal government, specializing in defense and military intelligence.
+  - DarkAllianceInvestigation
 category: "U.S. Government"
 summary: "The Defense Intelligence Agency (DIA) is a major intelligence agency of the United States, specializing in defense and military intelligence."
-start: 1961
+start: 1961-10-01
 location: "Washington, D.C."
 ---
 The [[Defense Intelligence Agency]] (DIA) is a major intelligence agency of the United States, specializing in defense and military intelligence. The DIA played a significant role in the oversight and funding of the [[STARGATE PROJECT]], particularly after the Army's initial involvement.[^1]
@@ -30,7 +29,7 @@ Historian [[Roger Morris]] wrote that [[Barry Seal]] worked for the DIA "where c
 
 ### Role in Modern UAP Investigation
 
-The DIA was the original home of the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to the [[Advanced Aerospace Threat Identification Program]] (AATIP). The program was led by [[James Lacatski]] and initially enjoyed the support of DIA leadership. According to [[Luis Elizondo]], new leadership was hostile to the investigation of paranormal aspects of the UAP phenomenon.[^4]
+The DIA was the original home of the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to the Advanced Aerospace Threat Identification Program (AATIP). The program was led by [[James Lacatski]] and initially enjoyed the support of DIA leadership. According to [[Luis Elizondo]], new leadership was hostile to the investigation of paranormal aspects of the UAP phenomenon.[^4]
 
 The DIA is also central to the events described in the [[Wilson-Davis Memo]], in which Admiral Thomas R. Wilson, then Director of the DIA, described his discovery of and subsequent denial of access to a secret UAP reverse-engineering program.[^4]
 

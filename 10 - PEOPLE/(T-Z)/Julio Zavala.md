@@ -1,14 +1,19 @@
 ---
+title: Julio Zavala
+aliases:
+  - Julio Zavala
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Contra
   - Nicaragua
-  - San_Francisco
+  - SanFrancisco
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Major cocaine trafficker in the San Francisco Bay Area and top-ranking U.S.-based member of UDN-FARN who recruited Carlos Cabezas into the Contra drug ring and was convicted in the Frogman Case.
+  - DarkAllianceInvestigation
+summary: "Major cocaine trafficker in the San Francisco Bay Area and top-ranking U.S.-based member of UDN-FARN who recruited Carlos Cabezas into the Contra drug ring and was convicted in the Frogman Case."
 ---
 Julio Zavala was a major cocaine trafficker in the [[San Francisco]] Bay Area during the early 1980s and the top-ranking U.S.-based member of [[UDN-FARN]]. Zavala recruited his former brother-in-law [[Carlos Cabezas]] into the Contra drug ring.[^1]
 

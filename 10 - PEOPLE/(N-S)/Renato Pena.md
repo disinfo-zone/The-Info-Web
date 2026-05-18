@@ -1,15 +1,21 @@
 ---
+title: Renato Pena
+aliases:
+  - Renato Pena
+  - Renato Peña Cabrera
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
   - Contra
-  - Drug_Trafficker
+  - DrugTrafficker
   - Nicaragua
-  - San_Francisco
+  - SanFrancisco
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: FDN San Francisco representative and cocaine dealer for Norwin Meneses who was arrested in 1984 and implicated the CIA in Contra drug trafficking during DEA debriefings.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "FDN San Francisco representative and cocaine dealer for Norwin Meneses who was arrested in 1984 and implicated the CIA in Contra drug trafficking during DEA debriefings."
 ---
 Renato Peña Cabrera was the [[FDN]]'s San Francisco representative and a [[cocaine]] dealer for [[Norwin Meneses]].[^1] Peña served as a key conduit between the FDN leadership in [[Honduras]] and the Contra support network in [[California]], facilitating arms procurement and communications.
 

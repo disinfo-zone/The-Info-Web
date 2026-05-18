@@ -1,14 +1,20 @@
 ---
+title: Eden Pastora
+aliases:
+  - Eden Pastora
+  - Commandante Zero
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - Contra
   - Nicaragua
-  - Costa_Rica
+  - CostaRica
   - CIA
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Former Sandinista war hero known as Commandante Zero who became commander of the ARDE Southern Front Contra army in Costa Rica, was put on the CIA payroll, and eventually broke with the agency over drug trafficking.
+  - DarkAllianceInvestigation
+summary: "Former Sandinista war hero known as Commandante Zero who became commander of the ARDE Southern Front Contra army in Costa Rica, was put on the CIA payroll, and eventually broke with the agency over drug trafficking."
 born: 1937-01-22
 died: 2020-06-16
 location: "Ciudad Darío, Nicaragua"

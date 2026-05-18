@@ -1,19 +1,22 @@
 ---
+title: The Enterprise (Iran-Contra)
+aliases:
+  - The Enterprise
+  - Enterprise (Iran-Contra)
+created: 2026-05-17
+updated: 2026-05-17
 category: "Private Organization"
 tags:
   - Organization
   - IranContra
-  - Covert_Operations
-  - Secord
-  - Hakim
-  - North
+  - CovertOperations
   - 1980s
   - CIA
-  - Arms_Dealing
-summary: "The Enterprise was the private covert network assembled by Richard Secord and Albert Hakim to conduct both sides of Iran-Contra, generating approximately $48 million in revenues between 1984 and 1986 through arms sales to Iran and Contra resupply, of which only about $3.8 million reached the Contras."
+  - ArmsDealing
+summary: "Private covert network assembled by Richard Secord and Albert Hakim to conduct both sides of Iran-Contra, generating approximately $48 million in revenues between 1984 and 1986 through arms sales to Iran and Contra resupply."
 start: 1984-01-01
 end: 1986-11-01
-location: "United States / Switzerland / El Salvador / Iran"
+location: "United States"
 ---
 
 The Enterprise was the informal name given by [[Oliver North]] and other participants to the private covert operations network that conducted the two interlocking elements of the [[Iran-Contra Affair]]: the sale of American weapons to [[Iran]] and the resupply of the Nicaraguan [[Contras]] during the period when Congressional [[Boland Amendment]] prohibitions barred U.S. government agencies from providing the Contras with military assistance. The Enterprise was organized by [[Richard Secord]], a retired Air Force major general, and [[Albert Hakim]], an Iranian-born American arms dealer, through a network of corporate entities that held accounts, purchased weapons, and managed logistics outside official U.S. government channels. [[Oliver North]], serving on the [[National Security Council]] staff, provided the White House political authorization and operational direction.[^1]

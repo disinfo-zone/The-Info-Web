@@ -1,15 +1,20 @@
 ---
+title: Tom Clines
+aliases:
+  - Tom Clines
+  - Thomas G. Clines
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
-  - Iran_Contra
-  - Ted_Shackley
+  - IranContra
   - Laos
   - Vietnam
   - 1970s
   - 1980s
-summary: "Thomas G. Clines was a CIA career officer who served under Ted Shackley at JMWAVE, Laos, and the Western Hemisphere Division, joined the private Safari Club and Iran-Contra Enterprise network after Shackley's 1979 departure, and was convicted in 1993 of underreporting Iran-Contra income."
+summary: "CIA career officer who served under Ted Shackley at JMWAVE, Laos, and the Western Hemisphere Division, joined the private Safari Club and Iran-Contra Enterprise network after Shackley's 1979 departure, and was convicted in 1993 of underreporting Iran-Contra income."
 location: "United States"
 ---
 

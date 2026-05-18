@@ -1,19 +1,22 @@
 ---
+title: Operation Framework
+aliases:
+  - Operation Framework
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Event
   - Investigation
-  - United_Kingdom
+  - UnitedKingdom
   - Netherlands
-  - 1992-1993
-  - Child_Trafficking
-  - Snuff_Films
-  - Warwick_Spinks
-  - Operation_Framework
-category: "Intelligence Operation"
-summary: "Operation Framework was a joint investigation between Scotland Yard and Dutch authorities conducted between 1992 and 1993 into suspected snuff pornography produced by British nationals operating in Amsterdam."
-start: 1992
-end: 1993
-location: ["Scotland Yard", "Amsterdam"]
+  - 1990s
+  - ChildTrafficking
+  - SnuffFilms
+category: "Crime Investigation"
+summary: "Joint Scotland Yard and Dutch investigation (1992-1993) into suspected snuff pornography produced by British nationals operating in Amsterdam's boy brothels."
+start: 1992-01-01
+end: 1993-12-31
+location: "Amsterdam, Netherlands"
 ---
 Operation Framework was a joint investigation between Scotland Yard and Dutch authorities conducted between 1992 and 1993 into suspected snuff pornography produced by British nationals operating in Amsterdam. The investigation targeted a group of foreign British pedophiles who were trafficking boys into Amsterdam boy brothels that masqueraded as gay nightclubs in the city's Spuistraat district.[^1]
 
@@ -25,7 +28,7 @@ The focus on Amsterdam was deliberate, as the city had become a hub for internat
 
 ### Key Targets and Suspects
 
-The primary targets of Operation Framework were [[Warwick Spinks]] and his close associates. Spinks managed the Gay Palace nightclub in Amsterdam's Spuistraat district, which served as a front for child prostitution and pornography production. Another key target was [[Alan Williams]], a Welsh pedophile known as "The Welsh Witch" who managed Boys Club 21, another venue in the same district investigated for its role in child trafficking.[^3]
+The primary targets of Operation Framework were Warwick Spinks and his close associates. Spinks managed the Gay Palace nightclub in Amsterdam's Spuistraat district, which served as a front for child prostitution and pornography production. Another key target was [[Alan Williams]], a Welsh pedophile known as "The Welsh Witch" who managed Boys Club 21, another venue in the same district investigated for its role in child trafficking.[^3]
 
 Williams, along with two other Welsh pedophiles named [[John Gay]] and [[Lee Tucker]], operated a film production company called TAG Films. This company was linked to a German distribution company named [[Gero-Video]] based in Dusseldorf.[^3]
 
@@ -41,7 +44,7 @@ Spinks himself revealed the limited distribution model used for snuff films duri
 
 ### International Cooperation and Raids
 
-The investigation involved unprecedented cooperation between British and Dutch authorities. Scotland Yard detectives worked with Dutch police to conduct raids on properties owned or used by the suspects. In 1993, police raided a property kept by Spinks in Hoofddorp but were unable to find any of the alleged films. However, the investigation did lead to a raid by German authorities on [[Gero-Video]], the German distribution company linked to TAG Films, in Dusseldorf.[^3]
+The investigation involved unprecedented cooperation between British and Dutch authorities. Scotland Yard detectives worked with Dutch police to conduct raids on properties owned or used by the suspects. In 1993, police raided a property kept by Spinks in Hoofddorp but were unable to find any of the alleged films. However, the investigation did lead to a raid by German authorities on Gero-Video, the German distribution company linked to TAG Films, in Dusseldorf.[^3]
 
 ### Undercover Operations and Informant Testimony
 

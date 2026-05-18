@@ -1,14 +1,22 @@
 ---
+title: Sandinistas
+aliases:
+  - Sandinistas
+  - FSLN
+  - Sandinista
+  - Frente Sandinista de Liberación Nacional
+created: 2026-05-17
+updated: 2026-05-17
 category: "Paramilitary"
 tags:
   - Organization
   - Political
   - Nicaragua
   - 1970s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Frente Revolucionario de Sandino (FRS), the leftist revolutionary guerrilla group that overthrew Somoza's U.S.-supported dictatorship in Nicaragua in 1979, triggering the Contra war.
-start: 1961
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Leftist revolutionary guerrilla group that overthrew Somoza's U.S.-supported dictatorship in Nicaragua in 1979 and governed the country during the CIA-backed Contra war."
+start: 1961-01-01
 location: "Managua, Nicaragua"
 ---
 Frente Revolucionario de Sandino (FRS) were the leftist revolutionary guerrilla group that overthrew [[Anastasio Somoza|Somoza]]'s [[United States|U.S.]]-supported dictatorship in [[Nicaragua]] in July 1979.[^2] Their victory triggered the [[Contras|Contra]] war and set in motion the events documented in the [[Dark Alliance]] investigation.[^1]

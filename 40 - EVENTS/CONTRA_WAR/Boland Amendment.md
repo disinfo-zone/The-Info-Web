@@ -1,15 +1,21 @@
 ---
+title: Boland Amendment
+aliases:
+  - Boland Amendment
+  - Boland Amendments
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence Scandal"
 tags:
   - Concept
-  - United_States
-  - Contra_War
+  - UnitedStates
+  - ContraWar
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Series of congressional amendments prohibiting U.S. funding for Contra military operations, widely circumvented by the Reagan administration and the CIA.
-start: 1982
-end: 1984
-location: United States
+  - DarkAllianceInvestigation
+summary: "Series of congressional amendments prohibiting U.S. funding for Contra military operations, widely circumvented by the Reagan administration and the CIA."
+start: 1982-12-21
+end: 1984-10-12
+location: "United States"
 ---
 The Boland Amendments were a series of congressional provisions, named after Massachusetts Democrat [[Edward P. Boland]], that prohibited the use of taxpayer funds for overthrowing the government of [[Nicaragua]] or supporting the [[Contras]] in military operations.[^1] The amendments were largely circumvented by the [[Central Intelligence Agency]], the White House, and [[Oliver North]]'s illegal resupply network.
 

@@ -1,16 +1,22 @@
 ---
+title: Honduras
+aliases:
+  - Honduras
+created: 2026-05-17
+updated: 2026-05-17
+category: "Country"
 tags:
   - Geography
   - Country
-  - Central_America
-  - Contra_War
+  - CentralAmerica
+  - ContraWar
   - 1980s
-  - Dark_Alliance_Investigation
-category: "Country"
-summary: "Honduras is a country in Central America that served as the primary base of operations for the FDN Contra army during the 1980s and has been a focal point for political instability, military operations, and the influence of various international..."
+  - DarkAllianceInvestigation
+summary: "Country in Central America that served as the primary base of operations for the FDN Contra army during the 1980s and a focal point for U.S. military, drug trafficking, and covert operations."
+location: "Central America"
 ---
 
-[[Honduras]] is a country in Central [[America]] that served as the primary base of operations for the [[FDN]] Contra army during the 1980s and has been a focal point for political instability, military operations, and the influence of various international actors, particularly in relation to drug trafficking and U.S. foreign policy.[^1][^3]
+Honduras is a country in Central [[America]] that served as the primary base of operations for the [[FDN]] Contra army during the 1980s and has been a focal point for political instability, military operations, and the influence of various international actors, particularly in relation to drug trafficking and U.S. foreign policy.[^1][^3]
 
 ### Contra Base
 

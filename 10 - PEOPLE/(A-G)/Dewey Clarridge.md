@@ -1,13 +1,19 @@
 ---
+title: Dewey Clarridge
+aliases:
+  - Dewey Clarridge
+  - Duane Clarridge
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
-  - United_States
+  - UnitedStates
   - Contra
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Chief of the CIA Latin American Division from 1981 to 1984 who oversaw the creation of the Contra project, recruited Contra leaders including Eden Pastora, and was later indicted for perjury during the Iran-Contra investigation.
+  - DarkAllianceInvestigation
+summary: "Chief of the CIA Latin American Division from 1981 to 1984 who oversaw the creation of the Contra project, recruited Contra leaders including Eden Pastora, and was later indicted for perjury during the Iran-Contra investigation."
 born: 1932-04-16
 died: 2016-04-09
 location: "Nashua, New Hampshire"

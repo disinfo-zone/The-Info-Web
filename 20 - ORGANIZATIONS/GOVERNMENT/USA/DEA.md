@@ -1,13 +1,19 @@
 ---
+title: DEA
+aliases:
+  - DEA
+  - Drug Enforcement Administration
+created: 2026-05-17
+updated: 2026-05-17
 category: "U.S. Government"
 tags:
   - Organization
-  - Law_Enforcement
-  - United_States
+  - LawEnforcement
+  - UnitedStates
   - 1980s
-  - Dark_Alliance_Investigation
-summary: The Drug Enforcement Administration was the principal federal anti-narcotics agency that possessed extensive knowledge of Danilo Blandón's cocaine trafficking as early as 1981 yet took no action while he received U.S. political asylum.
-start: 1973
+  - DarkAllianceInvestigation
+summary: "The Drug Enforcement Administration was the principal federal anti-narcotics agency that possessed extensive knowledge of Danilo Blandón's cocaine trafficking as early as 1981 yet took no action while he received U.S. political asylum."
+start: 1973-07-01
 location: "Arlington, Virginia"
 ---
 Drug Enforcement Administration (DEA) is a branch of the [[Department of Justice|U.S. Department of Justice]] and the principal federal agency responsible for enforcement of anti-drug laws.[^3] It is the successor to the Bureau of Narcotics and Dangerous Drugs (BNDD). During the Contra war, multiple DEA agents and offices were involved in or aware of Contra-connected [[cocaine]] trafficking.

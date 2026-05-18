@@ -1,13 +1,19 @@
 ---
+title: Wanda Palacios
+aliases:
+  - Wanda Palacios
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Person/Drug_Trafficker
+  - DrugTrafficker
   - Colombia
-  - United_States
+  - UnitedStates
   - 1980s
-  - Contra_War
-summary: Miami FBI informant and wife of a Colombian trafficker who witnessed Southern Air Transport planes being loaded with cocaine and unloading guns in Colombia.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Miami FBI informant and wife of a Colombian trafficker who witnessed Southern Air Transport planes being loaded with cocaine and unloading guns in Colombia."
 ---
 Wanda Palacios was a [[Miami]] FBI informant and the wife of a Colombian trafficker who reported in 1986 that she had witnessed [[Southern Air Transport]] planes being loaded with cocaine and unloading guns in Barranquilla, [[Colombia]], in 1983 and October 1985. Her story was later corroborated by flight logs recovered from a downed CIA-contracted aircraft.[^1]
 

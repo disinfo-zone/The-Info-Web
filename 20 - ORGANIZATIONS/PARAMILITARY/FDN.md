@@ -1,4 +1,11 @@
 ---
+title: FDN
+aliases:
+  - FDN
+  - Fuerza Democrática Nicaragüense
+  - Nicaraguan Democratic Force
+created: 2026-05-17
+updated: 2026-05-17
 category: "Paramilitary"
 tags:
   - Organization
@@ -6,12 +13,12 @@ tags:
   - Nicaragua
   - Honduras
   - 1980s
-  - Dark_Alliance_Investigation
-summary: The FDN was the largest and best-armed Contra faction, created by the CIA and commanded by Enrique Bermudez, with documented connections to cocaine trafficking for fundraising.
-start: 1981
+  - DarkAllianceInvestigation
+summary: "The FDN was the largest and best-armed Contra faction, created by the CIA and commanded by Enrique Bermudez, with documented connections to cocaine trafficking for fundraising."
+start: 1981-08-01
 location: "Honduras"
 ---
-The [[FDN|Fuerza Democrática Nicaragüense]] was the largest, most well-armed, and best-trained of all the [[Contras|Contra]] factions.[^3] Created by the [[Central Intelligence Agency]], based in [[Honduras]], and commanded by [[Enrique Bermudez|Enrique Bermúdez]], a former [[Nicaraguan National Guard|National Guardsman]]. The FDN's political wing was led by [[Adolfo Calero]], a longtime CIA agent and former manager of the Coca-Cola bottling plant in [[Managua]].
+The Fuerza Democrática Nicaragüense was the largest, most well-armed, and best-trained of all the [[Contras|Contra]] factions.[^3] Created by the [[Central Intelligence Agency]], based in [[Honduras]], and commanded by [[Enrique Bermudez|Enrique Bermúdez]], a former [[Nicaraguan National Guard|National Guardsman]]. The FDN's political wing was led by [[Adolfo Calero]], a longtime CIA agent and former manager of the Coca-Cola bottling plant in [[Managua]].
 
 ### Leadership
 

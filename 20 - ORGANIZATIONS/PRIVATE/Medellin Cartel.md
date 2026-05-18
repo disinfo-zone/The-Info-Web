@@ -1,17 +1,23 @@
 ---
-category: "Private Organization"
-start: 1976
-end: 1993
+title: Medellin Cartel
+aliases:
+  - Medellin Cartel
+  - Medellín Cartel
+created: 2026-05-17
+updated: 2026-05-17
+category: "Organized Crime"
+start: 1976-01-01
+end: 1993-12-31
 location: "Medellín, Colombia"
 tags:
   - Organization
-  - Organization/Drug_Cartel
+  - DrugCartel
   - Colombia
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Colombian drug trafficking organization that dominated the international cocaine trade, driving down U.S. prices and creating conditions for the crack epidemic.
+  - DarkAllianceInvestigation
+summary: "Colombian drug trafficking organization based in Medellín that dominated the international cocaine trade, driving down U.S. prices and creating conditions for the crack epidemic."
 ---
-The Medellín Cartel was a Colombian drug trafficking organization based in [[Colombia|Medellín]], Colombia, that dominated the international cocaine trade during the late 1970s and 1980s. The cartel's massive increase in cocaine production and smuggling drove down wholesale prices in the [[United States]], creating the conditions for the [[Crack Cocaine]] explosion in American inner cities.
+The Medellín Cartel was a Colombian drug trafficking organization based in Medellín, [[Colombia]], that dominated the international cocaine trade during the late 1970s and 1980s. The cartel's massive increase in cocaine production and smuggling drove down wholesale prices in the [[United States]], creating the conditions for the [[Crack Cocaine]] explosion in American inner cities.
 
 ### Revolutionizing Cocaine Smuggling
 

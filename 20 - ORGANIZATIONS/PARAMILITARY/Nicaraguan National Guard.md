@@ -1,4 +1,11 @@
 ---
+title: Nicaraguan National Guard
+aliases:
+  - Nicaraguan National Guard
+  - National Guard
+  - Guardia Nacional de Nicaragua
+created: 2026-05-17
+updated: 2026-05-17
 category: "Paramilitary"
 tags:
   - Organization
@@ -6,11 +13,11 @@ tags:
   - Nicaragua
   - 1930s
   - 1970s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Somoza's military force that served as army, police, and intelligence service, trained at U.S. military schools, and whose dispersed officers formed the founding cadre of the Contras.
-start: 1925
-end: 1979
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Somoza's military force that served as army, police, and intelligence service, trained at U.S. military schools, whose dispersed officers formed the founding cadre of the Contras."
+start: 1925-01-01
+end: 1979-07-17
 location: "Managua, Nicaragua"
 ---
 Guardia Nacional de Nicaragua (National Guard) was the military, police, and intelligence service of [[Nicaragua]] under the [[Anastasio Somoza|Somoza]] dynasty.[^2] Created by the [[United States|U.S.]] in the 1930s, the Guard served as the power base of the Somoza family's forty-six-year rule. Its officers formed the leadership core of the [[Contras]] after the [[Sandinistas|Sandinista]] revolution.[^1]

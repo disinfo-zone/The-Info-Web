@@ -1,12 +1,19 @@
 ﻿---
+title: Central America
+aliases:
+  - Central America
+created: 2026-05-17
+updated: 2026-05-17
 category: "Region"
 tags:
   - Geography
   - Region
-  - Central_America
-  - Contra_War
+  - CentralAmerica
+  - ContraWar
   - 1980s
-summary: Geographic region connecting North and South America that was the primary theater of Contra operations, drug trafficking, and CIA covert activities during the 1980s.
+  - DarkAllianceInvestigation
+summary: "Geographic region connecting North and South America that was the primary theater of Contra operations, drug trafficking, and CIA covert activities during the 1980s."
+location: "Central America"
 ---
 Central America is the geographic region connecting North and [[South America]] that was the primary theater of operations for the Contra war, [[cocaine]] trafficking, and [[Central Intelligence Agency]] covert activities during the 1980s.[^1]
 

@@ -1,13 +1,20 @@
 ---
+title: Danilo Blandon
+aliases:
+  - Danilo Blandon
+  - Danilo Blandón Reyes
+  - Oscar Danilo Blandón
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Nicaragua
   - Contra
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Danilo BlandÃ³n Reyes was a Nicaraguan cocaine trafficker who operated a multimillion-dollar distribution ring in Los Angeles from 1981 to 1991, serving as the primary supplier to Freeway Ricky Ross while maintaining connections to the Contra movement and receiving U.S. political asylum despite known drug involvement.
+  - DarkAllianceInvestigation
+summary: "Nicaraguan cocaine trafficker who operated a multimillion-dollar distribution ring in Los Angeles from 1981 to 1991, serving as the primary supplier to Freeway Ricky Ross while maintaining connections to the Contra movement."
 born: 1951-07-29
 location: "Managua, Nicaragua"
 ---

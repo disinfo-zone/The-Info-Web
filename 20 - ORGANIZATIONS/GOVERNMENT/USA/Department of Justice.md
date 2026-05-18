@@ -1,15 +1,21 @@
 ---
 title: Department of Justice
+aliases:
+  - Department of Justice
+  - DOJ
+  - Justice Department
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Organization
-  - U.S._Government
-  - Law_Enforcement
-  - The_Finders
+  - USGovernment
+  - LawEnforcement
+  - TheFinders
   - CIA
-  - Dark_Alliance_Investigation
+  - DarkAllianceInvestigation
 category: "U.S. Government"
-summary: "The Department of Justice is the U.S. federal law enforcement and legal agency whose prosecution of the INSLAW-PROMIS case, 1982 drug trafficking exemption for CIA assets, and 1993 internal inquiry into CIA involvement with The Finders make it a central subject of this vault."
-start: 1870
+summary: "U.S. federal law enforcement and legal agency whose prosecution of the INSLAW-PROMIS case, 1982 drug trafficking exemption for CIA assets, and 1993 internal inquiry into CIA involvement with The Finders make it a central subject of this vault."
+start: 1870-07-01
 location: "Washington, D.C."
 ---
 

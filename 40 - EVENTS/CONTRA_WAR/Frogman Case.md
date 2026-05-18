@@ -1,16 +1,23 @@
 ﻿---
+title: Frogman Case
+aliases:
+  - Frogman Case
+  - Frogman drug ring
+  - Frogman bust
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence Scandal"
 tags:
   - Event
-  - Drug_Trafficking
-  - Law_Enforcement
-  - San_Francisco
+  - DrugTrafficking
+  - LawEnforcement
+  - SanFrancisco
   - Contra
   - CIA
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Largest cocaine bust in West Coast history at the time (January 1983), which exposed direct links between Contra drug traffickers in San Francisco and the CIA, connections suppressed through direct CIA intervention.
-date: 1983-01-17
+  - DarkAllianceInvestigation
+summary: "Largest cocaine bust in West Coast history at the time (January 1983), which exposed direct links between Contra drug traffickers in San Francisco and the CIA, connections suppressed through direct CIA intervention."
+start: 1983-01-17
 location: "San Francisco, California"
 ---
 The Frogman Case was the largest cocaine bust in the history of the [[United States]] West Coast at the time of its occurrence in January 1983. The case exposed direct links between cocaine traffickers in [[San Francisco]] and the [[Contras|Contra]] movement in [[Central America]], connections that were suppressed through [[Central Intelligence Agency]] intervention.[^1]
@@ -19,7 +26,7 @@ The Frogman Case was the largest cocaine bust in the history of the [[United Sta
 
 On January 17, 1983, during the heaviest fog of the winter, [[Federal Bureau of Investigation]] agents staking out Pier 96 in San Francisco watched as seven men emerged from a swamp carrying heavy duffel bags. Two wore divers' wet suits. When agents moved in, one suspect fired a short burst from an Uzi submachine gun. No one was injured. The men were carrying 430 pounds of cocaine unloaded from the Gran Colombiana freighter Ciudad de Cúcuta.[^1]
 
-It was the first case made by President [[Ronald Reagan]]'s new federal Drug Task Force in San Francisco. U.S. Attorney Joseph Russoniello told reporters the street value was $750 million after "routine dilution." The [[DEA]] corrected the estimate to $100 million at most, or $11–12 million wholesale.[^1]
+It was the first case made by President [[Ronald Reagan]]'s new federal Drug Task Force in San Francisco. U.S. Attorney Joseph Russoniello told reporters the street value was $750 million after "routine dilution." The DEA corrected the estimate to $100 million at most, or $11–12 million wholesale.[^1]
 
 ### Earlier and Related Seizures
 

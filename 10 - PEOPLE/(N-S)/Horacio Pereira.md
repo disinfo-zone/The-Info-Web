@@ -1,14 +1,21 @@
 ---
+title: Horacio Pereira
+aliases:
+  - Horacio Pereira
+  - Horacio Pereira Lanuza
+  - La Burra
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Drug_Trafficker
+  - DrugTrafficker
   - Contra
   - Nicaragua
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Norwin Meneses's friend and business partner who became one of his top cocaine dealers in Costa Rica, identified by the FBI as the cocaine source for the Frogman drug ring in San Francisco.
+  - DarkAllianceInvestigation
+summary: "Norwin Meneses's friend and business partner who became one of his top cocaine dealers in Costa Rica, identified by the FBI as the cocaine source for the Frogman drug ring in San Francisco."
 location: "Estelí, Nicaragua"
 ---
 Horacio Pereira Lanuza, known as "La Burra" (a female donkey), was a drug dealer and gambler from Estelí, [[Nicaragua]], who served as the primary Costa Rican cocaine broker for [[Norwin Meneses]]'s organization and the conduit for drug funds from the [[San Francisco]] Bay Area to the [[Contras]] in [[Costa Rica]] and [[Honduras]].[^1]

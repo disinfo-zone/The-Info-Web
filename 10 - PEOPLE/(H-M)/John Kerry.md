@@ -1,10 +1,17 @@
 ---
-category: "BCCI Scandal"
+title: John Kerry
+aliases:
+  - John Kerry
+  - John Forbes Kerry
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
+  - Politician
   - BCCI
   - CIA
-  - Dark_Alliance_Investigation
+  - DarkAllianceInvestigation
 summary: "Senator from Massachusetts who chaired the Subcommittee on Terrorism, Narcotics, and International Operations, investigating both BCCI and links between the Contras and cocaine trafficking with findings that were systematically suppressed."
 born: 1943-12-11
 location: "Aurora, Colorado"

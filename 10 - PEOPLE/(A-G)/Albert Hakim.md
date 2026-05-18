@@ -1,13 +1,18 @@
 ---
+title: Albert Hakim
+aliases:
+  - Albert Hakim
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Iran_Contra
+  - IranContra
   - CIA
   - Iran
-  - Arms_Dealer
+  - ArmsDealer
   - 1980s
-summary: "Albert Hakim (1930s-2003) was an Iranian-American businessman who co-directed the Iran-Contra Enterprise with Richard Secord, managing its finances and negotiating with Iranian officials before pleading guilty in 1989 to supplementing Oliver North's salary and cooperating with Independent Counsel Walsh."
+summary: "Iranian-American businessman who co-directed the Iran-Contra Enterprise with Richard Secord, managing its finances and negotiating with Iranian officials before pleading guilty in 1989 to supplementing Oliver North's salary."
 born: 1930-01-01
 died: 2003-01-01
 location: "San Jose, California"

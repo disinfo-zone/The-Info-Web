@@ -1,12 +1,15 @@
 ---
-category: "Iran-Contra"
+title: Ronald Reagan
+aliases:
+  - Ronald Reagan
+  - Ronald Wilson Reagan
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
-  - Nuclear
-  - Israel
-  - Dark_Alliance_Investigation
+  - Politician
+  - DarkAllianceInvestigation
   - OctoberSurprise
   - IranContra
 summary: "40th President of the United States who authorized CIA operations in Nicaragua, oversaw the Contra war and the secret drug-crimes reporting exemption, while simultaneously prosecuting the War on Drugs."

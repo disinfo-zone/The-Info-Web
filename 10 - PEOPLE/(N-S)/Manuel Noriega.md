@@ -1,13 +1,21 @@
 ---
+title: Manuel Noriega
+aliases:
+  - Manuel Noriega
+  - Manuel Antonio Noriega Moreno
+  - El Man
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Politician
-  - Person/Military
+  - Politician
+  - Military
   - Panama
   - 1980s
-  - Drug_Trafficking
-summary: Military dictator of Panama who simultaneously served as a CIA asset and facilitated Colombian drug trafficking, was ousted by U.S. invasion in 1989, and had his 40-year sentence reduced to 10 years after former CIA officials testified on his behalf.
+  - DrugTrafficking
+  - DarkAllianceInvestigation
+summary: "Military dictator of Panama who simultaneously served as a CIA asset and facilitated Colombian drug trafficking, was ousted by U.S. invasion in 1989, and had his 40-year sentence reduced to 10 years after former CIA officials testified on his behalf."
 born: 1934-02-11
 died: 2017-05-29
 location: "Panama City, Panama"
