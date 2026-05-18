@@ -36,7 +36,7 @@ His political method was characterized by extreme patience, deliberate ambiguity
 
 As Prime Minister in March-May 1978, Andreotti faced the [[Brigate Rosse|Red Brigades]] kidnapping of [[Aldo Moro]], who had been Andreotti's political patron and was traveling to parliament that morning to present the new Andreotti government - whose formation had required PCI agreement, the practical realization of the "historic compromise." Andreotti's government maintained an absolute refusal to negotiate for Moro's release, a position that held despite Moro's letters pleading for negotiation and despite the advocacy of the [[Italian Socialist Party|Socialists]] under Bettino Craxi.
 
-The refusal was justified as a constitutional principle that the state could not bargain with terrorists. Critics then and since have noted that Andreotti had strong personal and political reasons to prefer Moro's death to his release: Moro was the DC's most credible voice for engagement with the [[Italian Communist Party|PCI]], and his captivity letters, which grew increasingly critical of DC colleagues, would have been devastating to party cohesion if Moro had survived to develop them into public statements.[^2]
+The refusal was justified as a constitutional principle that the state could not bargain with terrorists. Critics then and since have noted that Andreotti had strong personal and political reasons to prefer Moro's death to his release: Moro was the DC's most credible voice for engagement with the [[Italian Communist Party|PCI]] under [[Enrico Berlinguer]], and his captivity letters, which grew increasingly critical of DC colleagues, would have been devastating to party cohesion if Moro had survived to develop them into public statements.[^2]
 
 ### Gladio Disclosure
 

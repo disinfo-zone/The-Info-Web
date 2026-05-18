@@ -40,7 +40,7 @@ The judicial path was exceptionally tortured. Freda and Ventura were acquitted a
 
 In 1984, Vincenzo Vinciguerra, an Ordine Nuovo member imprisoned for the 1972 [[Peteano bombing]] who had become a state's witness, testified that Italian stay-behind networks connected to [[NATO]] had organized the strategy of tension attacks, with neofascist operatives as the instruments and military intelligence as the protection mechanism. His testimony described a network in which genuine neofascist terrorists provided deniable operational capacity for attacks that served state intelligence purposes.[^1]
 
-In 2005, Freda and Ventura were definitively convicted of participating in the Piazza Fontana bombing by the Italian Court of Cassation, though both had already served their statutes of limitations from the Peteano convictions. No person was imprisoned specifically for the Piazza Fontana attack despite the judicial determination of responsibility.[^2]
+In a May 3, 2005 ruling, the Italian Court of Cassation found that Freda and Ventura had carried out the attack, but could not convict them: both had been definitively acquitted in 1987, and the ne bis in idem (double jeopardy) principle barred retrial. The court's finding of moral responsibility without criminal punishment is the final judicial word on the massacre. No individual was ever imprisoned specifically for the Piazza Fontana attack.[^2]
 
 ### Strategy of Tension Context
 

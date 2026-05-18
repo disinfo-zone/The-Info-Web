@@ -35,7 +35,7 @@ The pivotal figures in Ordine Nuovo's role in the strategy of tension were Franc
 
 Freda was a theorist as well as an organizer. His pamphlet "La Disintegrazione del Sistema" (The Disintegration of the System) explicitly argued for accelerationist terrorism - deliberately provoking state repression through atrocities in order to polarize society and prevent centrist accommodation. This accelerationist logic aligned with the strategy of tension's political objectives even while nominally coming from a different ideological direction than the stated goals of the Gladio network.[^2]
 
-The judicial path to conviction was tortured over three decades, with acquittals and retrials reflecting deliberate obstruction by SID personnel who had knowledge of Freda and Ventura's responsibility. The Court of Cassation's 2005 definitive findings established their responsibility, though both had served the statutes of limitations from other convictions.
+The judicial path to conviction was tortured over three decades, with acquittals and retrials reflecting deliberate obstruction by SID personnel who had knowledge of Freda and Ventura's responsibility. The Court of Cassation's May 2005 ruling found that Freda and Ventura had organized the bombing but could not result in conviction: both had already been definitively acquitted in 1987, and double jeopardy barred further prosecution. No one was ever imprisoned specifically for the Piazza Fontana massacre.
 
 ### SID Relationships
 

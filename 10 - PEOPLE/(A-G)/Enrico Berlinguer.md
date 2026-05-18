@@ -34,7 +34,7 @@ Berlinguer proposed the "historic compromise" (compromesso storico) in a series 
 
 The historic compromise envisioned collaboration between the PCI and the [[Democrazia Cristiana]], bringing the communists - with their massive organizational base in the Italian working class and the unions - into effective partnership with the dominant Christian Democratic governing party. This arrangement, if realized, would have represented the first communist participation in government in a NATO Western European country since the early Cold War consolidation ended communist ministerial participation in France and Italy in 1947.[^2]
 
-The kidnapping and murder of [[Aldo Moro]] in 1978 by the [[Brigate Rosse]] destroyed the political conditions for the compromise. Berlinguer himself, in the painful position of leading a party that had supported the government's refusal to negotiate for Moro's release, subsequently moved the PCI away from the compromise strategy.
+The kidnapping and murder of [[Aldo Moro]] in 1978 by the [[Brigate Rosse]] destroyed the political conditions for the compromise. Berlinguer himself, in the painful position of leading a party that had supported [[Giulio Andreotti]]'s government's refusal to negotiate for Moro's release, subsequently moved the PCI away from the compromise strategy.
 
 ### Relationship with Moro
 

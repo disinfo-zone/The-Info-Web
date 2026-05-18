@@ -5,6 +5,7 @@ aliases:
   - Solidarność
   - NSZZ Solidarność
   - Solidarity trade union
+  - Solidarity (Poland)
 created: 2026-05-17
 updated: 2026-05-17
 category: "International Organization"

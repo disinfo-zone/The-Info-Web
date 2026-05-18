@@ -26,7 +26,7 @@ Banco Ambrosiano was founded in Milan in 1896 as a Catholic-oriented private ban
 
 ### Growth under Calvi
 
-Calvi became chairman in 1975 and used the bank's Catholic institutional identity and its relationship with the [[Vatican Bank|Vatican Bank (IOR)]] to build an international financial empire that operated substantially outside Italian regulatory oversight. The key mechanism was a network of offshore subsidiaries and shell companies - in Luxembourg (Banco Ambrosiano Holdings S.A.), Panama, Nicaragua, and Peru - that issued inter-company loans that did not appear on the Italian parent's consolidated balance sheet.
+Calvi became chairman in 1975 and used the bank's Catholic institutional identity and its relationship with the [[Vatican Bank|Vatican Bank (IOR)]] - whose president was Archbishop [[Paul Marcinkus]] - to build an international financial empire that operated substantially outside Italian regulatory oversight. The key mechanism was a network of offshore subsidiaries and shell companies - in Luxembourg (Banco Ambrosiano Holdings S.A.), Panama, Nicaragua, and Peru - that issued inter-company loans that did not appear on the Italian parent's consolidated balance sheet.
 
 The Vatican Bank participated in this network both as a nominal shareholder in several offshore companies and as the issuer of "letters of patronage" to international banks that had lent to the offshore entities. These letters, while falling short of formal guarantees, implied Vatican backing and allowed the offshore companies to borrow from international banks that would not otherwise have extended credit.[^1]
 

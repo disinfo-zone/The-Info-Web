@@ -44,7 +44,7 @@ Federico Umberto D'Amato, the head of the Interior Ministry's Office of Confiden
 
 ### The 2007 Verdict and Further Proceedings
 
-In 2007, Italian courts convicted Gelli, former SISMI officer Pietro Musumeci, and former SISMI officer Giuseppe Belmonte of slander and political conspiracy for their roles in the cover-up. A 2020 Italian court ruling imposed additional convictions related to the obstruction network. The Italian judicial proceedings into the Bologna massacre continued for four decades, making it among the most extensively litigated events in postwar Italian history.
+In 2007, Italian courts convicted Gelli, former SISMI officer Pietro Musumeci, former SISMI officer Giuseppe Belmonte, and SISMI agent Francesco Pazienza of slander and political conspiracy for their roles in the cover-up, which included fabricating a "Terror on Trains" dossier that falsely attributed the bombing to international terrorists and planting a suitcase of explosives on a train to support the false narrative. A 2020 Italian court ruling imposed additional convictions related to the obstruction network. The Italian judicial proceedings into the Bologna massacre continued for four decades, making it among the most extensively litigated events in postwar Italian history.
 
 Gilberto Cavallini, a NAR leader, was convicted in 2020 of participation in the massacre, further establishing the extent of the neofascist network involved.[^2]
 

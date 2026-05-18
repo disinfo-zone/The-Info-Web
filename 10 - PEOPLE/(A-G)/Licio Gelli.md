@@ -34,7 +34,7 @@ As the war ended, Gelli demonstrated the opportunism that would characterize his
 
 ### Post-War Intelligence Relationships
 
-Through the late 1940s and 1950s, Gelli developed relationships with Italian military intelligence (SIFAR, later reorganized as SISMI), with American intelligence through CIA contacts in Rome, and with Argentine intelligence - he traveled to Argentina repeatedly and developed relationships with figures in both the Peron government and its successors, later facilitating the flight of Italians to Argentina and other South American countries. His Argentine connections would prove useful when he needed to flee Italy after 1981.[^1]
+Through the late 1940s and 1950s, Gelli developed relationships with Italian military intelligence ([[SISMI|SIFAR, later reorganized as SID and then SISMI]]), with American intelligence through CIA contacts in Rome, and with Argentine intelligence - he traveled to Argentina repeatedly and developed relationships with figures in both the Peron government and its successors, later facilitating the flight of Italians to Argentina and other South American countries. His Argentine connections would prove useful when he needed to flee Italy after 1981.[^1]
 
 Gelli was admitted to Masonry through conventional channels and joined the Propaganda Due lodge in 1963, becoming its Venerable Master in 1967. He subsequently expanded the lodge's membership far beyond its original hundred-odd members, recruiting throughout the Italian security establishment, banking sector, political class, and media.
 
@@ -48,7 +48,7 @@ His connections extended internationally. He was reportedly in contact with CIA 
 
 ### Exposure and Flight
 
-On March 17, 1981, officers of the Italian Finance Police raided Gelli's villa in Arezzo in the course of an investigation into the bankruptcy of Banco Ambrosiano and the affairs of [[Roberto Calvi]]. In a filing cabinet at the villa they discovered a list of 962 current P2 members, along with extensive files documenting the lodge's finances and activities.
+On March 17, 1981, officers of the Italian Finance Police raided Gelli's villa in Arezzo in the course of an investigation into the bankruptcy of [[Banco Ambrosiano]] and the affairs of [[Roberto Calvi]]. In a filing cabinet at the villa they discovered a list of 962 current P2 members, along with extensive files documenting the lodge's finances and activities.
 
 The membership list was turned over to Prime Minister Arnaldo Forlani, who disclosed its contents to Parliament in May 1981. The disclosure produced an immediate political crisis: the heads of all three intelligence services resigned, as did several Cabinet ministers whose names appeared on the list. Parliament passed a law dissolving secret associations, specifically targeting P2, in January 1982.
 

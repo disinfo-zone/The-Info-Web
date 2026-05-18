@@ -38,13 +38,13 @@ Under Gelli's direction, P2 became a membership organization for individuals acr
 
 The 962-name list discovered at Gelli's villa represented current active members as of 1981. Significant members included:
 
-In the intelligence services: the directors of SISMI (military intelligence), SISDE (civilian intelligence), and CESIS (intelligence coordination), giving P2 effective organizational control of Italy's intelligence apparatus at the moment of discovery.
+In the intelligence services: the directors of [[SISMI]] (military intelligence), SISDE (civilian intelligence), and CESIS (intelligence coordination), giving P2 effective organizational control of Italy's intelligence apparatus at the moment of discovery.
 
 In the financial sector: [[Roberto Calvi]], chairman of Banco Ambrosiano; [[Michele Sindona]], the Sicilian financier who operated as an intermediary between the Vatican Bank, the Sicilian Mafia, and American organized crime before his 1980 conviction for bank fraud; and multiple senior figures from Italian banking.
 
 In politics and media: [[Silvio Berlusconi]] (membership number 1816), at the time building his Mediaset television empire; multiple parliamentary deputies and ministers from the Democrazia Cristiana, the Socialist Party, and other parties; and editors of several national newspapers.
 
-The military members included figures from the Ordine Nuovo and other post-fascist organizations who were simultaneously under investigation for their roles in the strategy of tension bombings.[^2]
+The military members included figures from [[Ordine Nuovo]] and other post-fascist organizations who were simultaneously under investigation for their roles in the [[Piazza Fontana bombing]] and [[Bologna railway station bombing]].[^2]
 
 ### Connection to Operation Gladio
 

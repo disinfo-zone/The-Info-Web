@@ -35,6 +35,10 @@ The IOR's sovereign status - grounded in the Lateran Treaty of 1929, which estab
 
 Beginning in the 1960s, the IOR, under various presidents, developed a working financial relationship with [[Michele Sindona]], the Sicilian financier who also handled financial matters for the Catholic Church in Italy. Sindona's [[Banca Unione]] and [[Finabank]] network in Switzerland served as conduits through which IOR conducted transactions outside Italy, using Sindona's connections to Swiss banking institutions. When Sindona's empire collapsed in 1974-1975, the IOR's losses were not publicly disclosed, and the full extent of its Sindona exposure was never officially established.[^2]
 
+### CIA, Solidarity, and John Paul II
+
+Under [[Pope John Paul II]], elected in October 1978, the Vatican's relationship with the [[Central Intelligence Agency|CIA]] took on new strategic dimensions. Funds supporting the [[Solidarity (Poland)|Solidarity]] movement in Poland were channeled in part through IOR accounts, exploiting the bank's sovereign status to move money into Poland outside the oversight of Polish security services or Italian banking regulators. The CIA-Vatican coordination was documented by journalist Carl Bernstein in a 1992 *Time* investigation.
+
 ### Banco Ambrosiano and the Calvi Relationship
 
 Under [[Paul Marcinkus]], the IOR's president from 1971 to 1989, the Vatican Bank's most consequential financial relationship was with [[Roberto Calvi]] and [[Banco Ambrosiano]]. Marcinkus authorized IOR's nominal shareholding in Calvi's network of offshore shell companies in Luxembourg, Panama, and Latin America, and signed or authorized "letters of patronage" to international banks that had lent to these companies - letters that implied, without formally guaranteeing, Vatican backing for the companies' debts.
