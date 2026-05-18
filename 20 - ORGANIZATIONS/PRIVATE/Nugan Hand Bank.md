@@ -1,16 +1,21 @@
 ---
+title: Nugan Hand Bank
+aliases:
+  - Nugan Hand Bank
+  - Nugan Hand Ltd
+created: 2026-05-17
+updated: 2026-05-17
 category: "Private Organization"
 tags:
   - Organization
   - CIA
   - Australia
-  - Drug_Trafficking
-  - Money_Laundering
-  - Ted_Shackley
-  - Golden_Triangle
+  - DrugTrafficking
+  - MoneyLaundering
+  - GoldenTriangle
   - 1970s
   - 1980s
-summary: "Nugan Hand Bank was an Australian merchant bank (1973-1980) that functioned as what investigators described as a CIA financial network, with branches in thirteen countries staffed by American military and intelligence veterans, collapsing after Frank Nugan was found shot dead in January 1980 and Michael Hand disappeared."
+summary: "Australian merchant bank (1973-1980) that functioned as what investigators described as a CIA financial network, with branches in thirteen countries staffed by American military and intelligence veterans, collapsing after Frank Nugan was found shot dead in January 1980 and Michael Hand disappeared."
 start: 1973-01-01
 end: 1980-06-01
 location: "Sydney, Australia"

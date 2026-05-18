@@ -1,12 +1,19 @@
 ---
+title: Torres Brothers
+aliases:
+  - Torres Brothers
+  - the Greens
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - Contra_War
+  - DrugTrafficker
+  - ContraWar
   - 1980s
-  - Los_Angeles
-summary: The Torres brothers, known as "the Greens," were Nicaraguan cocaine traffickers who worked for Danilo Blandón before becoming independent suppliers to Ricky Ross, eventually rivaling Blandón in volume and sparking a bitter feud.
+  - LosAngeles
+  - DarkAllianceInvestigation
+summary: "Nicaraguan cocaine traffickers who worked for Danilo Blandón before becoming independent suppliers to Ricky Ross, eventually rivaling Blandón in volume and sparking a bitter feud."
 ---
 The Torres brothers, towering [[Nicaragua|Nicaraguan]] men known to [[Ricky Ross]] and his crew as "the Greens", were initially introduced to Ross through [[Danilo Blandon|Danilo Blandón]]. Ross assumed from their size that they were Blandón's bodyguards. They also delivered cocaine and picked up money for Blandón on occasion. One day, as most of Blandón's assistants eventually did, they slipped Ross their phone number in case he ever needed something extra.[^1]
 

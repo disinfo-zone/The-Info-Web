@@ -1,13 +1,19 @@
 ---
+title: Thomas Dowling
+aliases:
+  - Thomas Dowling
+  - Father Thomas F. Dowling
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
-  - United_States
-  - Contra_War
+  - Intelligence
+  - UnitedStates
+  - ContraWar
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Fake Catholic priest and Contra activist who received $73,000 from Oliver North and Adolfo Calero for domestic propaganda operations.
+  - DarkAllianceInvestigation
+summary: "Fake Catholic priest and Contra activist who received $73,000 from Oliver North and Adolfo Calero for domestic propaganda operations."
 ---
 Father Thomas F. Dowling was a San Franciscan who passed himself off as a Roman Catholic priest while actually being ordained in a tiny splinter church called the North American Old Roman Catholic Church of the Utrecht Succession.[^1] Dowling was a founding member of [[USACA]] and played a significant role in domestic propaganda operations supporting the [[Contras]].
 

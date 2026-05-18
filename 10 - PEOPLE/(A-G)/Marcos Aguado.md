@@ -1,15 +1,21 @@
 ---
+title: Marcos Aguado
+aliases:
+  - Marcos Aguado
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
+  - Intelligence
   - CIA
-  - Person/Drug_Trafficker
+  - DrugTrafficker
   - Nicaragua
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Contra_War
-summary: CIA-trained Nicaraguan pilot who managed drug trafficking logistics for Norwin Meneses and Eden Pastora, later became a colonel in the Salvadoran Air Force at Ilopango.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "CIA-trained Nicaraguan pilot who managed drug trafficking logistics for Norwin Meneses and Eden Pastora, later became a colonel in the Salvadoran Air Force at Ilopango."
 ---
 Marcos Aguado was a [[Central Intelligence Agency]]-trained Nicaraguan pilot and business associate of [[Norwin Meneses]] who managed drug trafficking logistics for the Contra forces, first in [[Costa Rica]] and later at [[Ilopango Airbase|Ilopango Air Force Base]] in [[El Salvador]]. He was identified in 1987 congressional testimony as a CIA agent.[^1]
 

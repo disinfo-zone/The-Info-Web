@@ -1,16 +1,22 @@
 ---
+title: Gerrit Ulrich and Robbie Van Der Plancken
+aliases:
+  - Gerrit Ulrich and Robbie Van Der Plancken
+  - Gerrit-Jan Ulrich
+created: 2026-05-17
+updated: 2026-05-17
+category: "Belgium Scandals"
 tags:
-  - Event
-  - Child_Pornography
+  - Person
+  - ChildPornography
   - Netherlands
   - Germany
   - Murder
-  - Cover-up
-  - Apollo_Network
-category: "Belgium Scandals"
-summary: "In the mid-1990s, a private investigator named Marcel Vervloesem was investigating the disappearance of Manuel Schadwald for an NGO called the Morkhoven Workgroup when he came across Lothar Glandorf's name in a 1992 police report detailing a raid on..."
-date: 1998-06-20
-location: Zandvoort, Netherlands
+  - CoverUp
+  - ApolloNetwork
+summary: "Gerrit-Jan Ulrich was a Dutch computer technician who administered the Apollo Bulletin Board Service child pornography network and was murdered in Italy in June 1998 after passing evidence disks to investigator Marcel Vervloesem; Robbie Van Der Plancken was arrested as a suspect in his murder."
+start: 1998-06-20
+location: "Zandvoort, Netherlands"
 ---
 
 ### The Zandvoort Discovery

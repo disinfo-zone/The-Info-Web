@@ -1,14 +1,19 @@
 ---
+title: Ivan Torres
+aliases:
+  - Ivan Torres
+created: 2026-05-17
+updated: 2026-05-17
 category: "Organized Crime"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - Person/Contra
+  - DrugTrafficker
   - Nicaragua
-  - United_States
+  - UnitedStates
   - 1980s
-  - Contra_War
-summary: Ivan Torres was a Nicaraguan drug trafficker and FDN West Coast branch chief who managed Danilo Blandon's Los Angeles cocaine operations while claiming CIA awareness of his drug activities.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Nicaraguan drug trafficker and FDN West Coast branch chief who managed Danilo Blandon's Los Angeles cocaine operations while claiming CIA awareness of his drug activities."
 ---
 Ivan Torres was a [[Nicaragua|Nicaraguan]] drug trafficker and [[FDN]] official who headed the organization's West Coast branch while managing [[Danilo Blandon|Danilo Blandón]]'s [[Los Angeles]] cocaine operations. He was a brother of [[Torres Brothers|Jacinto and Edgar Torres]].[^1]
 

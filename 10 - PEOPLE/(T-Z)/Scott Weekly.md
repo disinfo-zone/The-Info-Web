@@ -1,13 +1,20 @@
 ---
+title: Scott Weekly
+aliases:
+  - Scott Weekly
+  - Dr. Death
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
+  - Intelligence
   - CIA
-  - United_States
+  - UnitedStates
   - 1980s
-  - Contra_War
-summary: Former Navy SEAL and weapons expert known as "Dr. Death" who was Ronald Lister's CIA contact and participated in covert operations for the NSC and State Department while connected to the Blandon drug investigation.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Former Navy SEAL and weapons expert known as 'Dr. Death' who was Ronald Lister's CIA contact and participated in covert operations for the NSC and State Department while connected to the Blandon drug investigation."
 ---
 Scott Weekly, nicknamed "Dr. Death" for his SEAL demolition expertise, was a former Navy SEAL and [[Ronald Lister]]'s identified CIA contact who participated in covert operations for the National Security Council and State Department during the 1980s while simultaneously being connected to the [[Danilo Blandon|Blandón]] drug investigation.[^1]
 

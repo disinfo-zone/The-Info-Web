@@ -1,13 +1,19 @@
 ---
+title: Joseph Fernandez
+aliases:
+  - Joseph Fernandez
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
+  - Intelligence
   - CIA
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Contra_War
-summary: Joseph Fernandez was the CIA's Costa Rican station chief who oversaw Contra operations on the Southern Front, was heavily involved in illegal activities, and was later fired and indicted.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "CIA's Costa Rican station chief who oversaw Contra operations on the Southern Front, was heavily involved in illegal activities, and was later fired and indicted."
 born: 1937-02-01
 location: "New York City, New York"
 ---

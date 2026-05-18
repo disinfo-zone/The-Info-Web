@@ -1,14 +1,21 @@
 ---
+title: Luis Posada Carriles
+aliases:
+  - Luis Posada Carriles
+  - Ramon Medina
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
+  - Intelligence
   - CIA
-  - Person/Drug_Trafficker
-  - El_Salvador
+  - DrugTrafficker
+  - ElSalvador
   - 1980s
-  - Contra_War
-summary: Veteran CIA agent and terrorist with a documented history of drug trafficking who ran day-to-day Contra resupply operations at Ilopango Air Force Base under the alias Ramon Medina.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Veteran CIA agent with a documented history of drug trafficking who ran day-to-day Contra resupply operations at Ilopango Air Force Base under the alias Ramon Medina."
 born: 1928-02-15
 died: 2018-05-23
 location: "Cienfuegos, Cuba"

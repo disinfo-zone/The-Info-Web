@@ -1,12 +1,16 @@
 ---
+title: Lawrence Walsh
+aliases:
+  - Lawrence Walsh
+  - Lawrence E. Walsh
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Iran_Contra
+  - IranContra
   - Law
-  - Independent_Counsel
-  - Reagan
-  - Bush
+  - IndependentCounsel
   - 1980s
   - 1990s
 summary: "Lawrence E. Walsh (1912-2014) served as Iran-Contra Independent Counsel from December 1986 to August 1993, producing 14 criminal cases, 11 convictions, and a final report documenting Reagan administration Iran arms sales and Contra funding, before President Bush pardoned six defendants three weeks before Walsh's release of key findings."

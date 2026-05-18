@@ -1,14 +1,20 @@
 ---
+title: Ivan Gomez
+aliases:
+  - Ivan Gomez
+  - Iván Gómez
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
   - Venezuela
-  - Costa_Rica
-  - Drug_Trafficking
+  - CostaRica
+  - DrugTrafficking
   - 1980s
-  - Dark_Alliance_Investigation
-summary: Pseudonym of a Venezuelan CIA contract agent who handled logistics on the Southern Front for the Contras, identified by Carlos Cabezas as the conduit for drug money from the Meneses organization to the Contras.
+  - DarkAllianceInvestigation
+summary: "Pseudonym of a Venezuelan CIA contract agent who handled logistics on the Southern Front for the Contras, identified by Carlos Cabezas as the conduit for drug money from the Meneses organization to the Contras."
 ---
 "Iván Gómez" was the pseudonym of a Venezuelan [[Central Intelligence Agency]] contract agent who handled logistics on the Southern Front for the [[Contras]] in [[Costa Rica]] during the war. [[Carlos Cabezas]] identified Gómez as the conduit for drug money from the [[Norwin Meneses|Meneses]] organization in [[San Francisco]] to the Contras in Costa Rica.[^1]
 

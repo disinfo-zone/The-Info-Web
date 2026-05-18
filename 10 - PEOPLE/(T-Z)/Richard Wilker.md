@@ -1,14 +1,20 @@
 ---
+title: Richard Wilker
+aliases:
+  - Richard Wilker
+  - Richard E. Wilker
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
-  - United_States
-  - El_Salvador
+  - Intelligence
+  - UnitedStates
+  - ElSalvador
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Former CIA agent who served as technical director for Pyramid International Security Consultants' weapons operations in El Salvador.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Former CIA agent who served as technical director for Pyramid International Security Consultants' weapons operations in El Salvador."
 ---
 Richard E. Wilker was a former Laguna Beach resident described by arms manufacturer [[Tim LaFrance]] as an ex-CIA agent who served as the "technical director" on [[Pyramid International Security Consultants]]' security proposal to the Salvadoran government.[^1] Wilker was a key link between [[Ronald Lister]]'s weapons operations and the CIA.
 

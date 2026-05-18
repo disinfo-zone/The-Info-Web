@@ -1,13 +1,18 @@
 ---
+title: John Vandewerker
+aliases:
+  - John Vandewerker
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Intelligence
-  - United_States
+  - Intelligence
+  - UnitedStates
   - 1980s
-  - Contra_War
-  - Dark_Alliance_Investigation
-summary: Former CIA officer who employed Richard Wilker and knew of his weapons business activities with Ronald Lister in El Salvador.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Former CIA officer who employed Richard Wilker and knew of his weapons business activities with Ronald Lister in El Salvador."
 ---
 John Vandewerker was a former CIA officer who once employed [[Richard Wilker]] as a salesman and knew of Wilker and [[Ronald Lister]]'s business activities in [[El Salvador]].[^1]
 

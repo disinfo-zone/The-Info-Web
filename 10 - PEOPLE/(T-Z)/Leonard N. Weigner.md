@@ -1,11 +1,16 @@
 ---
+title: Leonard N. Weigner
+aliases:
+  - Leonard N. Weigner
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
   - Military
-  - The_Finders
-  - Cold_War
+  - TheFinders
+  - ColdWar
 summary: "Colonel Leonard N. Weigner was a confirmed CIA military officer identified in an unverified 1990s memo as the officer who directed Marion Pettie to embed within Washington counterculture circles as an intelligence asset, a claim with no corroboration in primary sources."
 location: "Washington, D.C."
 ---

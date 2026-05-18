@@ -1,13 +1,19 @@
 ---
+title: Sandalio Gonzalez
+aliases:
+  - Sandalio Gonzalez
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
+  - LawEnforcement
   - DEA
-  - Costa_Rica
+  - CostaRica
   - 1980s
-  - Contra_War
-summary: Sandalio Gonzalez was a DEA agent in Costa Rica who handled Norwin Meneses as an informant and kept him off official DEA records while Meneses continued drug trafficking operations.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "DEA agent in Costa Rica who handled Norwin Meneses as an informant and kept him off official DEA records while Meneses continued drug trafficking operations."
 ---
 [[DEA]] agent Sandalio Gonzalez was stationed at the U.S. Embassy in [[San Jose]], [[Costa Rica]], during the mid-1980s and served as handler for drug kingpin [[Norwin Meneses]]. According to Gonzalez's official report, Meneses walked into the embassy uninvited in July 1986 and announced his desire to join the [[Ronald Reagan|Reagan]] Administration's war on drugs. Gonzalez recorded the official reasons: "(a) his desire to clear up a minor problem he has with the IRS (b) his decision to totally terminate his involvement in drug trafficking activities and (c) his desire to help the present U.S. Administration's fight against drugs, in view of President Reagan's total commitment to free his native land, [[Nicaragua]]."[^1]
 

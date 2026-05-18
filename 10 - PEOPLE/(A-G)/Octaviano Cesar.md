@@ -1,14 +1,20 @@
 ---
+title: Octaviano Cesar
+aliases:
+  - Octaviano Cesar
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - Person/Intelligence
+  - DrugTrafficker
+  - Intelligence
   - CIA
   - Nicaragua
   - 1980s
-  - Contra_War
-summary: Octaviano Cesar was a CIA asset and former social director of Norwin Meneses's VIP nightclub in Managua who arranged drug deals with Colombian trafficker George Morales to fund Eden Pastora's Contra army.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "CIA asset and former social director of Norwin Meneses's VIP nightclub in Managua who arranged drug deals with Colombian trafficker George Morales to fund Eden Pastora's Contra army."
 ---
 
 ### Background

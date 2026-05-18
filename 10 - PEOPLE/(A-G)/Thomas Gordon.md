@@ -1,13 +1,19 @@
 ---
+title: Thomas Gordon
+aliases:
+  - Thomas Gordon
+  - Tom Gordon
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Person
-  - Person/Law_Enforcement
-  - United_States
-  - Los_Angeles
+  - LawEnforcement
+  - UnitedStates
+  - LosAngeles
   - 1980s
-  - Dark_Alliance_Investigation
-summary: LASD Major Violators detective who led the investigation into the Blandon-Ross cocaine network after receiving Jerry Guzzetta's Project Sahara reports.
+  - DarkAllianceInvestigation
+summary: "LASD Major Violators detective who led the investigation into the Blandon-Ross cocaine network after receiving Jerry Guzzetta's Project Sahara reports."
 ---
 Thomas "Tom" Gordon was a tall, soft-spoken detective with sixteen years on the [[LASD Major Violators|Los Angeles County Sheriff's Department Major Violators]] squad who led the investigation into the [[Danilo Blandon|Blandón]]-[[Ricky Ross|Ross]] cocaine network in 1986.[^1]
 

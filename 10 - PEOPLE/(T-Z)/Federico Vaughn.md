@@ -1,14 +1,21 @@
 ---
+title: Federico Vaughn
+aliases:
+  - Federico Vaughn
+  - Freddy Vaughn
+created: 2026-05-17
+updated: 2026-05-17
 category: "Intelligence & Government"
 tags:
   - Person
-  - Person/Drug_Trafficker
-  - Person/Intelligence
+  - DrugTrafficker
+  - Intelligence
   - CIA
   - Nicaragua
   - 1980s
-  - Contra_War
-summary: Alleged Sandinista aide shown by President Reagan loading drugs onto an aircraft, who evidence suggests was actually a U.S. double agent working for the CIA.
+  - ContraWar
+  - DarkAllianceInvestigation
+summary: "Alleged Sandinista aide shown by President Reagan loading drugs onto an aircraft, who evidence suggests was actually a U.S. double agent working for the CIA."
 ---
 Federico Vaughn was identified by President Ronald Reagan on national television as "a top aide to one of the nine commandantes who rule [[Nicaragua]]," shown loading an aircraft with illegal narcotics "bound for the United States." Evidence later emerged suggesting Vaughn was actually a U.S. government double agent.[^1]
 
