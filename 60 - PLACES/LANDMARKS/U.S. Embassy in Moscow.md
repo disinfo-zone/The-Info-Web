@@ -1,6 +1,6 @@
----
+﻿---
 created: 2025-07-23
-updated: 2025-07-23
+updated: 2026-05-17
 title: U.S. Embassy in Moscow
 tags:
   - Organization

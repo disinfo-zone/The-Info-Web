@@ -1,5 +1,5 @@
----
-category: "Asia"
+﻿---
+category: "Country"
 tags:
   - Country
   - Thailand
@@ -10,7 +10,7 @@ tags:
   - Intelligence
 summary: "Thailand is a Southeast Asian country that served as a key U.S. intelligence partner throughout the Cold War and post-Cold War periods; it appears in this vault primarily as the location of a CIA black site ('Detention Site Green') where Abu Zubaydah was held and waterboarded in 2002, and as a transit and logistics hub for CIA operations including those related to the Southeast Asian drug trade and the Golden Triangle."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Thailand"
 ---
 

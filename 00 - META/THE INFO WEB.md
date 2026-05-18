@@ -17,7 +17,7 @@ Our effort is to illuminate hidden connections and illegal activities, building 
 - [[KEY EVENTS]] - Witness the pivotal moments, from Cold War experiments to modern incidents, that reveal the unfolding narrative.
 - [[KEY CONCEPTS AND TECH]] - Grasp the scientific theories, esoteric ideas, and advanced technologies that underpin these extraordinary claims.
 
-For those with a more open perspective of our world and our place within it, try exploring [[THE PHENOMENON]] or [[STARGATE PROJECT]]. For the conspiracy-minded, you may find your starting point with [[SOFTWARE_PROJECTS/PROMIS|PROMIS]].
+For those with a more open perspective of our world and our place within it, try exploring [[The Phenomenon]] or [[STARGATE PROJECT]]. For the conspiracy-minded, you may find your starting point with [[SOFTWARE_PROJECTS/PROMIS|PROMIS]].
 
 Or you can always check the [[CHANGELOG]] to see where research is happening.
 

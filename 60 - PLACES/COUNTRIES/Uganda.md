@@ -1,5 +1,5 @@
----
-category: "Africa"
+﻿---
+category: "Country"
 tags:
   - Country
   - Uganda
@@ -9,7 +9,7 @@ tags:
   - CIA
 summary: "Uganda under Idi Amin (1971-1979) is significant for this vault primarily through the 1976 Entebbe hostage crisis, in which Amin provided support to Palestinian and German hijackers holding Israeli passengers at Entebbe Airport; the Israeli raid to rescue the hostages became one of the most celebrated special operations of the Cold War era."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Kampala, Uganda"
 ---
 

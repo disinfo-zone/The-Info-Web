@@ -1,15 +1,19 @@
 ---
 created: 2025-01-04
-updated: 2025-01-04
+updated: 2026-05-17
 title: FBI Seizes Largest Ever Explosive Cache
+aliases:
+  - FBI Seizes Largest Ever Explosive Cache
+  - Brad Spafford Cache
 tags:
+  - Event
   - FBI
-  - Explosives Cache
+  - Explosives
   - Extremism
-description: The FBI seized the largest explosives cache in its history from Brad Kenneth Spafford's Virginia farm, including 150+ pipe bombs, a rifle, and unstable chemicals. A confidential source revealed Spafford's extremist views and plans for violence, leading to his arrest after a year-long investigation.
+  - 2020s
 category: "Modern Incident"
-summary: "January 1, 2025 FBI announcement of the largest explosives cache seizure in bureau history."
-date: 2025-01-01
+summary: "On December 30, 2024, the FBI raided Brad Kenneth Spafford's Isle of Wight County, Virginia farm and seized more than 150 homemade pipe bombs, a homemade mortar, a vest loaded with pipe bombs, HMTD explosive, and an unregistered short-barrel rifle - what the bureau described as the largest explosives cache in FBI history."
+date: 2024-12-30
 location: "Isle of Wight County, Virginia"
 ---
 On January 1, 2025, the [[Federal Bureau of Investigation]] announced they seized the "largest explosives cache in FBI history."
@@ -23,6 +27,6 @@ In his freezer they found a jar of HMTD, a highly unstable easy to make chemical
 A confidential human source (CHS) first tipped off the FBI in 2023 when they witnessed Spafford firing at a target of President Biden with an unregistered short barrel rifle and discussing how we need more political assassinations and that the government was kidnapping children and training them to be school shooters. The CHS kept in contact with Spafford through 2024 and received memes, etc endorsing violence that the CHS also provided to the FBI.
 
 This culminated in October 2024 when the CHS visited Spafford's newly purchased farm while wearing a wire. The CHS was able to get Spafford to state he had the SBR and would not register it, that he had HMTD, ETN (a secondary explosive), and that he was going to fortify his property with a 50 caliber turret mounted gun.
-# Footnotes
+### Footnotes
 
 [^1]: [UNITED STATES OF AMERICA v. BRAD KENNETH SPAFFORD](https://storage.courtlistener.com/recap/gov.uscourts.vaed.564917/gov.uscourts.vaed.564917.18.0_1.pdf)

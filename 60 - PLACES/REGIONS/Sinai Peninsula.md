@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Region"
 tags:
   - Region
   - Egypt
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "The Sinai Peninsula is the triangular Egyptian landmass between the Suez Canal and the Red Sea that was captured by Israel in the 1967 Six-Day War and returned to Egypt under the 1979 Camp David Peace Treaty; it appears in this vault primarily as the theater of the 1973 Yom Kippur War's initial Egyptian crossing that constituted a major CIA and Israeli intelligence failure."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Sinai Peninsula, Egypt"
 ---
 

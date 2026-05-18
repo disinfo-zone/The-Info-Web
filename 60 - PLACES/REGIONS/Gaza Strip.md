@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Region"
 tags:
   - Region
   - Palestine
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "The Gaza Strip is a small coastal Palestinian territory on the Mediterranean, bordered by Israel and Egypt, that was under Israeli occupation from 1967 to 2005 and is governed by Hamas since 2007; it appears in this vault primarily as the home territory of Palestinian factions referenced in the vault's Israeli intelligence and Mossad operational subjects."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Gaza Strip, Palestinian Territories"
 ---
 

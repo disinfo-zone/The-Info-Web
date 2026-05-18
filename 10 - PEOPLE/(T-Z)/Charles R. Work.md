@@ -38,7 +38,7 @@ During INSLAW's litigation against the [[Department of Justice]], Work served as
 
 ### Footnotes
 
-[^1]: Atlantic Legal Foundation. Charles R. Work — Director Biography. atlanticlegal.org.
+[^1]: Atlantic Legal Foundation. Charles R. Work - Director Biography. atlanticlegal.org.
 [^2]: Reagan Presidential Library. "Appointment of Charles R. Work as a Member of the District of Columbia Commission on Judicial Disabilities and Tenure." presidency.ucsb.edu.
 [^3]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^4]: Reagan Presidential Library. Appointment document, 1985.

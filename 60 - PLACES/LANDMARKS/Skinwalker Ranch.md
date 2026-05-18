@@ -1,4 +1,4 @@
----
+﻿---
 category: "Landmark"
 summary: "Skinwalker Ranch is a 480-acre property in Utah known for a long history of paranormal and Unidentified Anomalous Phenomena-related events."
 ---

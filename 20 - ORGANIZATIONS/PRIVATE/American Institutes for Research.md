@@ -1,7 +1,10 @@
 ﻿---
+title: American Institutes for Research
 aliases:
   - AIR
   - American Institutes for Research
+created: 2026-05-17
+updated: 2026-05-17
 category: "Research Organization"
 tags:
   - Organization
@@ -11,7 +14,7 @@ tags:
   - Intelligence
   - USA
 summary: "The American Institutes for Research (AIR) conducted the 1995 government-commissioned evaluation of the CIA's STAR GATE remote viewing program, whose split findings between evaluators Ray Hyman and Jessica Utts led to the program's termination."
-start: 1946
+start: 1946-01-01
 location: "Washington, D.C."
 ---
 

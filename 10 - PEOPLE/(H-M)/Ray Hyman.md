@@ -1,13 +1,22 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Ray Hyman
 aliases:
-- Ray Hyman
+  - Ray Hyman
 category: "Skeptics & Critics"
 tags:
   - Person
   - Skeptic
-summary: "Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement."
+  - PSI
+  - Stargate
+  - AIR
+  - SRI
+  - 1970s
+  - 1990s
+summary: "Ray Hyman is a University of Oregon psychologist and scientific skeptic who evaluated Uri Geller for DARPA in 1973, criticized SRI remote viewing methodology throughout the 1970s-80s, and wrote the skeptical half of the 1995 AIR evaluation of STAR GATE, concluding that methodological flaws precluded accepting the data as evidence for remote viewing."
 born: 1928-06-23
-location: "Chelsea, Massachusetts, USA"
+location: "Chelsea, Massachusetts"
 ---
 
 Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement. He was contracted by [[DARPA]] in 1973 to evaluate [[Uri Geller]]'s purported psychic abilities at [[Stanford Research Institute|SRI]]. Along with [[George Lawrence]] and [[Robert Van de Castle]], Hyman concluded that anyone who believed in Geller's powers was falling for the "ridiculous"[^1].

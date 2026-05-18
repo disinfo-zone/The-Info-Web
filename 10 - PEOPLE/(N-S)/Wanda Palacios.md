@@ -25,7 +25,7 @@ Kerry aide Jonathan Winer wrote in a memorandum that "Weld read about a half a p
 
 When her allegations leaked to the press, Palacios was publicly dismissed as a crank by top Justice Department officials, who said polygraph tests were "inconclusive." Southern Air Transport called her "a lunatic" and sued or threatened suit against news organizations that aired her allegations.[^1]
 
-Her story was buttressed by subsequent events. When the [[Sandinistas]] shot down a Southern Air Transport C-123K over [[Nicaragua]] in early October 1986, the dead pilot's flight logs revealed several Southern Air Transport flights to Barranquilla during October 1985—exactly as Palacios had claimed. She was able to identify the pilot's picture in a lineup. Southern Air Transport said in a statement that the planes were carrying drilling equipment, not drugs.[^1]
+Her story was buttressed by subsequent events. When the [[Sandinistas]] shot down a Southern Air Transport C-123K over [[Nicaragua]] in early October 1986, the dead pilot's flight logs revealed several Southern Air Transport flights to Barranquilla during October 1985 - exactly as Palacios had claimed. She was able to identify the pilot's picture in a lineup. Southern Air Transport said in a statement that the planes were carrying drilling equipment, not drugs.[^1]
 
 ### Footnotes
 

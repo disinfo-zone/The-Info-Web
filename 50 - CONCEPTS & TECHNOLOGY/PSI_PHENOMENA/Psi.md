@@ -16,13 +16,13 @@ summary: "Psi is a general term in Parapsychology for psychic phenomena, encompa
 
 Psi can manifest in various forms, including:
 
-*   **Clairvoyance**: The ability to perceive objects or events without the use of the known senses, often at a distance or hidden from view. [[Remote Viewing]] is a specific application of clairvoyance.[^1]
+*   Clairvoyance: The ability to perceive objects or events without the use of the known senses, often at a distance or hidden from view. [[Remote Viewing]] is a specific application of clairvoyance.[^1]
 
-*   **Precognition**: The ability to perceive or predict future events. This was explored in techniques like [[Associative Remote Viewing|Associative Remote Viewing]].[^1]
+*   Precognition: The ability to perceive or predict future events. This was explored in techniques like [[Associative Remote Viewing|Associative Remote Viewing]].[^1]
 
-*   **Telepathy**: The direct mental communication of thoughts, feelings, or ideas from one mind to another without the use of conventional sensory channels. The [[The Nautilus (Telepathy Project)|Nautilus (Telepathy Project)]] was a fabricated story that spurred Soviet research into telepathy.[^1]
+*   Telepathy: The direct mental communication of thoughts, feelings, or ideas from one mind to another without the use of conventional sensory channels. The [[The Nautilus (Telepathy Project)|Nautilus (Telepathy Project)]] was a fabricated story that spurred Soviet research into telepathy.[^1]
 
-*   **Psychokinesis (PK)**: The ability to influence physical systems, objects, or events with the mind, without physical interaction. This includes phenomena like metal bending, as demonstrated by [[Uri Geller]], or affecting the swing rate of a pendulum.[^1]
+*   Psychokinesis (PK): The ability to influence physical systems, objects, or events with the mind, without physical interaction. This includes phenomena like metal bending, as demonstrated by [[Uri Geller]], or affecting the swing rate of a pendulum.[^1]
 
 ### Scientific Investigation and Challenges
 

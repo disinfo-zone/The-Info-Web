@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - Belgium
@@ -9,7 +9,7 @@ tags:
   - Gladio
 summary: "Brussels is the capital of Belgium and the headquarters of NATO and the European Union; it appears in this vault as the administrative center through which NATO's Gladio stay-behind network and Belgian intelligence operated, and through its proximity to the Knokke-Heist area central to the Dutroux X-Dossier investigation."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Brussels, Belgium"
 ---
 

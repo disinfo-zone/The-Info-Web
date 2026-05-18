@@ -1,5 +1,5 @@
----
-category: "Country"
+﻿---
+category: "Region"
 tags:
   - Geography
   - Costa_Rica

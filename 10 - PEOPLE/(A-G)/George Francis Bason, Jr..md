@@ -10,7 +10,7 @@ tags:
   - Judge
 summary: "George Francis Bason Jr. was the D.C. Bankruptcy Court judge who ruled in 1987 that the DOJ stole INSLAW's PROMIS software by trickery, fraud, and deceit, and whose non-reappointment generated allegations of DOJ retaliation."
 ---
-George Francis Bason Jr. was appointed to the Bankruptcy Court for the District of Columbia on February 8, 1984, to fill a vacancy. His four-year term expired February 8, 1988. The two proceedings he presided over in the [[INSLAW]] case produced the most damaging judicial findings against the [[Department of Justice|DOJ]] in the [[PROMIS Software Scandal]] — findings that were ultimately reversed on jurisdictional grounds but that shaped congressional investigations for years afterward.[^1]
+George Francis Bason Jr. was appointed to the Bankruptcy Court for the District of Columbia on February 8, 1984, to fill a vacancy. His four-year term expired February 8, 1988. The two proceedings he presided over in the [[INSLAW]] case produced the most damaging judicial findings against the [[Department of Justice|DOJ]] in the [[PROMIS Software Scandal]] - findings that were ultimately reversed on jurisdictional grounds but that shaped congressional investigations for years afterward.[^1]
 
 ### The Independent Handling Proceeding (June 1987)
 

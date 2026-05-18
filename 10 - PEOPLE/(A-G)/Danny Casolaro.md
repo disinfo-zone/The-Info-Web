@@ -1,24 +1,32 @@
 ---
-category: "PROMIS Scandal"
+title: Danny Casolaro
+aliases:
+  - Danny Casolaro
+  - Joseph Daniel Casolaro
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
+category: "Authors & Journalists"
 tags:
   - Person
   - PROMIS
   - CIA
   - DoJ
   - Journalist
-  - Dark_Alliance_Investigation
-summary: "Joseph Daniel Casolaro (1947-1991) was a freelance journalist investigating the 'Octopus' conspiracy linking PROMIS, Iran-Contra, the October Surprise, and BCCI who was found dead in a Martinsburg, West Virginia hotel room on August 10, 1991, his wrists slashed twelve times in a death ruled suicide."
+  - Author
+  - OrganizedCrime
+  - IranContra
+  - BCCI
+  - OctoberSurprise
+summary: "Joseph Daniel Casolaro (1947-1991) was a freelance journalist whose investigation into the PROMIS software scandal expanded into a unified theory of an intelligence-criminal network he called 'The Octopus,' found dead in a Martinsburg, West Virginia hotel room on August 10, 1991, with both wrists slashed twelve times in a death officially ruled suicide."
 born: 1947-06-16
 died: 1991-08-10
-location: "Fort Meade, Maryland"
+location: "McLean, Virginia"
 ---
-Joseph Daniel Casolaro (June 16, 1947 — August 10, 1991) was an American freelance journalist and former computer-trade magazine owner. Born in Fort Meade, Maryland, he grew up in McLean, Virginia, attended Providence College until 1968, and married Terrill Pace, a former Miss Virginia, with whom he had one son, Trey. He owned several computer-industry trade publications through the 1970s and 1980s, which he sold toward the end of the decade. In early 1990, he returned to investigative journalism, beginning the work that would consume the last eighteen months of his life.[^1]
+Joseph Daniel Casolaro (June 16, 1947 - August 10, 1991) was an American freelance journalist and former computer-trade magazine owner. Born in Fort Meade, Maryland, he grew up in McLean, Virginia, attended Providence College until 1968, and married Terrill Pace, a former Miss Virginia, with whom he had one son, Trey. He owned several computer-industry trade publications through the 1970s and 1980s, which he sold toward the end of the decade. In early 1990, he returned to investigative journalism, beginning the work that would consume the last eighteen months of his life.[^1]
 
 ### The Octopus Investigation
 
-In 1990, [[Bill Hamilton]], founder of [[INSLAW]], contacted Casolaro regarding the alleged theft of INSLAW's [[PROMIS]] software by the [[Department of Justice]]. Casolaro's investigation expanded well beyond the INSLAW contract dispute into what he called "[[The Octopus]]" — a unified criminal conspiracy he believed linked the [[PROMIS Software Scandal]] to the [[Iran-Contra Affair]], the [[October Surprise]], the collapse of the [[Bank of Credit and Commerce International|BCCI]], drug trafficking by intelligence-connected networks, and organized crime reaching back to the Cold War era.[^1][^2]
+In 1990, [[Bill Hamilton]], founder of [[INSLAW]], contacted Casolaro regarding the alleged theft of INSLAW's [[PROMIS]] software by the [[Department of Justice]]. Casolaro's investigation expanded well beyond the INSLAW contract dispute into what he called "[[The Octopus]]" - a unified criminal conspiracy he believed linked the [[PROMIS Software Scandal]] to the [[Iran-Contra Affair]], the [[October Surprise]], the collapse of the [[Bank of Credit and Commerce International|BCCI]], drug trafficking by intelligence-connected networks, and organized crime reaching back to the Cold War era.[^1][^2]
 
 The theory held that a core group of intelligence operatives, arms dealers, and organized crime figures had operated since at least the 1970s as a self-sustaining criminal enterprise intertwined with official U.S. covert operations. Casolaro was working on a book about this network, at various points titled "Behold, A Pale Horse" and "The Octopus," though he had been unable to secure a publisher; Little, Brown rejected his manuscript more than a month before his death.[^1]
 
@@ -28,7 +36,7 @@ Casolaro's investigation also touched the [[Wackenhut Corporation|Wackenhut]]-Ca
 
 ### Final Days
 
-On August 5, 1991, Casolaro phoned retired Army CID officer Bill McCoy claiming Time magazine had assigned him a story on "the Octopus" and that Little, Brown had made him an offer — both claims false.[^1] On August 6, he met friend Ben Mason to discuss finances and showed him a 22-point book outline, complaining that a literary agent had been unable to sell it for eighteen months and that late-night harassing calls had been disturbing his sleep for three months. His housekeeper Olga had received calls on his behalf, including one that said: "I will cut his body and throw it to the sharks."[^1]
+On August 5, 1991, Casolaro phoned retired Army CID officer Bill McCoy claiming Time magazine had assigned him a story on "the Octopus" and that Little, Brown had made him an offer - both claims false.[^1] On August 6, he met friend Ben Mason to discuss finances and showed him a 22-point book outline, complaining that a literary agent had been unable to sell it for eighteen months and that late-night harassing calls had been disturbing his sleep for three months. His housekeeper Olga had received calls on his behalf, including one that said: "I will cut his body and throw it to the sharks."[^1]
 
 Casolaro arrived at the Sheraton Hotel in [[Martinsburg, West Virginia]] on August 8, 1991, to meet a source who had promised crucial information about the Octopus investigation. On the afternoon of August 9, he met Honeywell engineer William Richard Turner at the hotel, receiving documents Turner had brought. That evening, he was seen at the Heatherfields cocktail lounge with an unidentified man described by witnesses as "maybe Arab or Iranian." Later that night, he told adjacent-room tenant Mike Looney that his source had failed to appear. He purchased coffee at a convenience store around 10:00 p.m.; those were his last confirmed movements.[^1]
 
@@ -36,7 +44,7 @@ Before leaving for Martinsburg, Casolaro had warned his brother Anthony: if anyt
 
 ### Death and Autopsy
 
-On the morning of August 10, 1991, a hotel housekeeper found Casolaro's naked body in the bathtub of room 517. Both wrists had been slashed twelve times — seven to eight cuts on the left, three to four on the right, with one cut deep enough to sever a tendon. The cause of death was determined to be exsanguination (blood loss), occurring approximately one to four hours before discovery. The rest of the room was clean and orderly; a handwritten note on legal stationery read: "To those who I love the most: Please forgive me for the worst possible thing I could have done. Most of all I'm sorry to my son. I know deep down inside that God will let me in."[^1]
+On the morning of August 10, 1991, a hotel housekeeper found Casolaro's naked body in the bathtub of room 517. Both wrists had been slashed twelve times - seven to eight cuts on the left, three to four on the right, with one cut deep enough to sever a tendon. The cause of death was determined to be exsanguination (blood loss), occurring approximately one to four hours before discovery. The rest of the room was clean and orderly; a handwritten note on legal stationery read: "To those who I love the most: Please forgive me for the worst possible thing I could have done. Most of all I'm sorry to my son. I know deep down inside that God will let me in."[^1]
 
 Items found in the room included an empty Milwaukee beer can, two white plastic trash bags, a single-edge razor blade under the body, a half-empty wine bottle, and four additional unopened razor blades in a small package. No sign of forced entry, no evidence of struggle. The hotel room had not been disturbed. West Virginia authorities ruled the death a suicide.[^1]
 
@@ -48,7 +56,7 @@ The family disputed the suicide ruling, citing Casolaro's known fear of blood an
 
 Casolaro had packed his notes, handwritten outlines, a 12-page Riconosciuto memo detailing PROMIS allegations, newspaper clippings, and names of former CIA officers and arms dealers into a black leather tote bag and a dark brown briefcase when he left for Martinsburg. The briefcase, which his associates said contained documents central to his investigation, was not recovered.[^1]
 
-In 2024, Martinsburg police released records under a Freedom of Information Act request by researchers Zachary Treitz and Christian Hansen. These records indicated that another person had visited Casolaro's room on the night of August 9, and that an eyewitness had provided police with a written statement and sketch of this visitor — a description matching [[Joseph Cuellar]], a man who had made contact with Casolaro weeks earlier at a local bar. Cuellar had described himself to Casolaro as a Special Forces operative and had offered to arrange a meeting between Casolaro and [[Peter Videnieks]], the DOJ contracting official central to the PROMIS case, through Videnieks' wife Barbara, who served as executive assistant to Senator [[Robert Byrd]].[^1]
+In 2024, Martinsburg police released records under a Freedom of Information Act request by researchers Zachary Treitz and Christian Hansen. These records indicated that another person had visited Casolaro's room on the night of August 9, and that an eyewitness had provided police with a written statement and sketch of this visitor - a description matching [[Joseph Cuellar]], a man who had made contact with Casolaro weeks earlier at a local bar. Cuellar had described himself to Casolaro as a Special Forces operative and had offered to arrange a meeting between Casolaro and [[Peter Videnieks]], the DOJ contracting official central to the PROMIS case, through Videnieks' wife Barbara, who served as executive assistant to Senator [[Robert Byrd]].[^1]
 
 ### Congressional and Official Findings
 
@@ -56,7 +64,7 @@ The House Judiciary Committee's September 1992 report noted that Casolaro had "e
 
 The Bua Report, completed in March 1993, concluded that the physical evidence "strongly supported" the suicide finding, that DOJ had not influenced the local investigation, and that Casolaro had possessed "ample reason to commit suicide," being unemployed, financially dependent on family, facing a balloon mortgage, and unable to sell his book.[^4]
 
-FBI task force members assigned to examine Casolaro's death privately "questioned the conclusion of suicide" and recommended further investigation; expressing doubt about the ruling reportedly "risked one's career" within the Bureau as of December 1992. FBI documents related to Casolaro remain partially withheld from public release under national security exemptions, while the Bureau simultaneously claims the files are missing — a contradiction noted by MuckRock journalists who filed FOIA requests.[^1]
+FBI task force members assigned to examine Casolaro's death privately "questioned the conclusion of suicide" and recommended further investigation; expressing doubt about the ruling reportedly "risked one's career" within the Bureau as of December 1992. FBI documents related to Casolaro remain partially withheld from public release under national security exemptions, while the Bureau simultaneously claims the files are missing - a contradiction noted by MuckRock journalists who filed FOIA requests.[^1]
 
 In early 1994, the [[Department of Justice]] announced it was opening "a nationwide investigation" into Casolaro's death, ordered by associate attorney general [[Webb Hubbell]]. Shortly thereafter, Hubbell pleaded guilty to crimes committed while an Arkansas lawyer and resigned from DOJ. Whether the Casolaro investigation proceeded or produced findings was never made public.[^3]
 

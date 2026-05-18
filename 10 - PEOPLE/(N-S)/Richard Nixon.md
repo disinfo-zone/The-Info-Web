@@ -26,7 +26,7 @@ During his presidency, [[Israel]] received warmer treatment and support compared
 
 In the secrecy of their offices, Nixon and Kissinger simultaneously issued a presidential order (National Security Decision Memorandum No. 6) undercutting their public statements. This document stated that there should be no efforts by the [[United States]] government to pressure other nations, particularly [[West Germany]], to ratify the NPT. The government's public posture was to reflect optimism that other countries would sign or ratify, while privately disassociating itself from any plan to bring pressure on these countries.[^2]
 
-This new policy led to the end of the [[Floyd L. Culler, Jr.|Floyd Culler]] inspections of [[Dimona]] in 1969. The Nixon administration made a judgment that would become American policy for the next two decades: [[Israel]] had gone nuclear, and there was nothing the [[United States]] could—or wanted to—do about it.[^2]
+This new policy led to the end of the [[Floyd L. Culler, Jr.|Floyd Culler]] inspections of [[Dimona]] in 1969. The Nixon administration made a judgment that would become American policy for the next two decades: [[Israel]] had gone nuclear, and there was nothing the [[United States]] could - or wanted to - do about it.[^2]
 
 ### Unusual Intelligence Incidents
 

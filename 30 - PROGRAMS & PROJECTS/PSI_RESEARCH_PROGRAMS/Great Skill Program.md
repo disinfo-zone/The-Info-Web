@@ -23,7 +23,7 @@ While not always true, members operating in these roles are almost “in the arm
 The program was born out of the [[National Security Act of 1947]] and has changed names throughout time (for example, in 1977 it was referred to as The Military Intelligence Enlisted Case Officer Program[^4] and is now renamed Army Strategic Intelligence Recruiting[^3]). There are ways for members of other services to operate within this program, but it’s primarily intended for Army enlisted members.
 ### Footnotes
 
-[^1]: Imminent (2024), p32 - note, Elizondo calls this Great Skill**s** and Gr**e**y Fox, both of which are incorrect
+[^1]: Elizondo, Luis. *Imminent.* 2024, p. 32 - note: Elizondo incorrectly names this program "Great Skills" and "Grey Fox" in the text.
 [^2]: [Army Enlistment overview](https://armyreenlistment.com/site/wp-content/uploads/2020/06/Special-Assignments-February-2019.pdf)
 [^3]: [Army Talent Management](https://talent.army.mil/wp-content/uploads/2023/03/TBCA-Program-Guide_Phase-8.pdf)
 [^4]: [Army military publication](https://www.google.com/books/edition/Military_Publications/LiQzp6onTXkC?hl=en&gbpv=1&bsq=great%20skill%20)

@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - Location
   - Netherlands
@@ -9,7 +9,7 @@ tags:
   - Dutroux
 summary: "The Festival Bar was an Amsterdam establishment operating as a boy brothel that was identified in Dutch pedophile network investigations of the 1990s as a venue frequented by Karel Maasdam and members of the broader Dutch-Belgian child abuse network; it appears in this vault through its documentation in the Rolodex Investigation and the testimony of witnesses connected to the Marc Dutroux affair."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Amsterdam, Netherlands"
 ---
 

@@ -14,7 +14,7 @@ summary: Pseudonym of a Venezuelan CIA contract agent who handled logistics on t
 
 ### Meetings with Cabezas
 
-In April or May 1982, [[Horacio Pereira]] and [[Troilo Sanchez|Troilo Sánchez]] introduced Carlos Cabezas to Gómez at a San José hotel. Gómez told Cabezas he was with the CIA—the agency's "man in Costa Rica"—and was there to "ensure that the profits from the cocaine went to the Contras and not into someone's pocket." Cabezas saw Gómez only once more, in late summer 1982, when he was met at the San José airport by Pereira and the CIA agent, but Gómez did not speak during the second meeting.[^2]
+In April or May 1982, [[Horacio Pereira]] and [[Troilo Sanchez|Troilo Sánchez]] introduced Carlos Cabezas to Gómez at a San José hotel. Gómez told Cabezas he was with the CIA - the agency's "man in Costa Rica" - and was there to "ensure that the profits from the cocaine went to the Contras and not into someone's pocket." Cabezas saw Gómez only once more, in late summer 1982, when he was met at the San José airport by Pereira and the CIA agent, but Gómez did not speak during the second meeting.[^2]
 
 ### CIA Confirmation
 

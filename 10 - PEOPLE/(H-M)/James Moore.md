@@ -1,14 +1,18 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: James Moore
 aliases:
-- James Moore
+  - James Moore
 category: "Scientists & Researchers"
 tags:
   - Person
-  - Researcher
-summary: "James Moore was a chemist who worked for the Central Intelligence Agency on MKULTRA Subproject 58, a classified effort to locate and mass-produce the hallucinogenic mushroom *teonanáctl* (God's flesh) for intelligence use."
+  - CIA
+  - MKULTRA
+  - Chemistry
+  - 1950s
+summary: "James Moore was a CIA-employed chemist who ran MKULTRA Subproject 58, infiltrating East Coast mycology circles under the cover of a Geschickter Fund professor to locate and obtain psilocybin mushrooms, accompanying R. Gordon Wasson's 1956 Mexico expedition before Wasson's Life magazine article inadvertently publicized the hallucinogen."
 ---
-
-# James Moore
 
 James Moore was a chemist who worked for the [[Central Intelligence Agency]] on [[Project MKUltra|MKULTRA Subproject 58]], a classified effort to locate and mass-produce the hallucinogenic mushroom *teonanáctl* (God's flesh) for intelligence use[^1].
 

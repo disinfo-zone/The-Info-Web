@@ -8,7 +8,7 @@ tags:
   - international
 description: Mossad is the national intelligence agency of Israel.
 category: "Foreign Government"
-summary: "Mossad is Israel's national foreign intelligence agency, whose extensive relationship with the CIA — including 28 formal cooperative ventures in strategic intelligence since the 1950s and the KK MOUNTAIN financial subsidy program — is a central subject of this vault."
+summary: "Mossad is Israel's national foreign intelligence agency, whose extensive relationship with the CIA - including 28 formal cooperative ventures in strategic intelligence since the 1950s and the KK MOUNTAIN financial subsidy program - is a central subject of this vault."
 start: 1949
 location: "Tel Aviv, Israel"
 ---

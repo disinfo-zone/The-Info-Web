@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - Russia
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "Moscow is the capital of Russia and was the capital of the Soviet Union; as the seat of the KGB (and its successors) and the Communist Party Central Committee throughout the Cold War, it is the ultimate target or origin point for the majority of the intelligence operations documented in this vault."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Moscow, Russia"
 ---
 

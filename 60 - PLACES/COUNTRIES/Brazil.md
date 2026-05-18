@@ -1,5 +1,5 @@
----
-category: "South America"
+﻿---
+category: "Country"
 tags:
   - Country
   - Brazil
@@ -9,7 +9,7 @@ tags:
   - MilitaryDictatorship
 summary: "Brazil under its military dictatorship (1964-1985) participated in Operation Condor and was a refuge for Nazi war criminals including Josef Mengele; the CIA supported the 1964 coup and the subsequent military government that operated death squads and maintained the DOPS secret police."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Brasilia, Brazil"
 ---
 

@@ -1,5 +1,5 @@
----
-category: "Nuclear Scientists & Programs"
+﻿---
+category: "Military Installation"
 summary: "The Dimona facility, officially known as the Negev Nuclear Research Center, stands as a deeply clandestine and pivotal complex within Israel's national security apparatus, nestled in the arid Negev Desert south of Jerusalem."
 start: 1958
 location: "Negev Desert, Israel"

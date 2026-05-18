@@ -15,7 +15,7 @@ Eric Swenson, a former assistant U.S. attorney familiar with investigations into
 
 ### Context
 
-Swenson's confirmation that both Justice and the CIA were aware of Meneses's Contra connections came during a period when Meneses could easily have been indicted on federal cocaine trafficking charges. One of his top lieutenants had pleaded guilty and publicly implicated him. But allowing Meneses to take the witness stand was out of the question—he knew too much about the [[FDN]]'s involvement with drug merchants and could have led investigators to [[Danilo Blandon|Danilo Blandón]]'s cocaine operation in South Central Los Angeles.[^1]
+Swenson's confirmation that both Justice and the CIA were aware of Meneses's Contra connections came during a period when Meneses could easily have been indicted on federal cocaine trafficking charges. One of his top lieutenants had pleaded guilty and publicly implicated him. But allowing Meneses to take the witness stand was out of the question - he knew too much about the [[FDN]]'s involvement with drug merchants and could have led investigators to [[Danilo Blandon|Danilo Blandón]]'s cocaine operation in South Central Los Angeles.[^1]
 
 ### Footnotes
 

@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "City"
 tags:
   - City
   - Iran
@@ -8,7 +8,7 @@ tags:
   - CIA
 summary: "Tehran is the capital of Iran and the site of the November 4, 1979 seizure of the U.S. Embassy, triggering the 444-day hostage crisis that anchors the October Surprise allegations, as well as the political center from which the Islamic Republic directed the arms-for-hostages negotiations that became the Iran-Contra affair."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Tehran, Iran"
 ---
 

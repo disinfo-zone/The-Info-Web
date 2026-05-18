@@ -15,7 +15,7 @@ George Morales was a major Colombian cocaine trafficker who operated during the 
 
 In March 1984, three Contra officials with close CIA ties ([[Octaviano Cesar]], ARDE logistics chief [[Adolfo Chamorro|Adolfo "Popo" Chamorro]], and ARDE air force commander [[Marcos Aguado]]) met with Morales at his offices in [[Fort Lauderdale]] and asked him to contribute to Pastora's army. "During our conversation they told me they were CIA agents. Two of them said they were, Octaviano Cesar and Marcos Aguado," Morales testified before Congress in 1986. Cesar assured Morales that if he assisted the Contras, his legal problems from the pending cocaine indictment would disappear: "He told me he had plenty of friends, being him, the CIA, can advise the superiors about my financial support and airplane and training and therefore they will finally, eventually, will take care of my problem, which they did." During the entire time Morales worked with the Contras on drug deals, no action was taken on his pending indictment. When he started talking to U.S. Senate investigators about his Contra dealings two years later, the case moved quickly to trial and conviction.[^1]
 
-Morales later passed a DEA-administered lie detector test about his drug dealings with the Contras. Two pilots who flew the Contra drug missions for him—[[Fabio Ernesto Carrasco]] and [[Gary Betzner|Gary Wayne Betzner]]—confirmed his story under oath as U.S. government witnesses.[^1]
+Morales later passed a DEA-administered lie detector test about his drug dealings with the Contras. Two pilots who flew the Contra drug missions for him - [[Fabio Ernesto Carrasco]] and [[Gary Betzner|Gary Wayne Betzner]] - confirmed his story under oath as U.S. government witnesses.[^1]
 
 ### Drug Flights
 

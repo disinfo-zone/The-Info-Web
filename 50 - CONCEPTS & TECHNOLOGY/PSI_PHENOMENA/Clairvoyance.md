@@ -1,4 +1,10 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Clairvoyance
+aliases:
+  - Clairvoyance
+  - Remote Clairvoyance
 category: "Psi Phenomenon"
 tags:
   - Concept
@@ -7,7 +13,7 @@ tags:
   - Parapsychology
   - Stargate
   - SRI
-summary: "Clairvoyance is the purported paranormal ability to perceive information through extrasensory means, distinguished from telepathy by its direct perception of external reality rather than mind-to-mind transmission, and the operative phenomenon underlying the U.S. government's STAR GATE remote viewing program."
+summary: "Clairvoyance is the purported paranormal ability to perceive information about physical reality through extrasensory means, distinguished from telepathy by its direct perception of external reality rather than mind-to-mind transmission, and the operative phenomenon underlying the U.S. government's STARGATE remote viewing program."
 ---
 
 Clairvoyance (from the French: voir clair, "clear seeing") is the claimed paranormal faculty of perceiving information about physical reality - objects, events, locations, or people - by extrasensory means that bypass the ordinary senses of sight, hearing, touch, taste, and smell. It is classified as one of the major categories of [[Psi|psi]] alongside [[Telepathy]] (mind-to-mind information transfer) and [[Precognition]] (perception of future events). The distinction between clairvoyance and telepathy is conceptually significant: clairvoyance involves direct perception of physical reality independent of any transmitting mind, while telepathy involves information passing between two minds.

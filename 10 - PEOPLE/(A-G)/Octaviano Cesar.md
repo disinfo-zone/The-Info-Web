@@ -13,11 +13,11 @@ summary: Octaviano Cesar was a CIA asset and former social director of Norwin Me
 
 ### Background
 
-Octaviano Cesar was the former social director of [[Norwin Meneses]]'s VIP nightclub in [[Managua]]. The [[Central Intelligence Agency]] acknowledged that Cesar was one of its intelligence operatives: "Agency officers met occasionally with Cesar—usually in the United States—to gather information and to promote unity among the Southern Front groups," the CIA Inspector General found.[^1]
+Octaviano Cesar was the former social director of [[Norwin Meneses]]'s VIP nightclub in [[Managua]]. The [[Central Intelligence Agency]] acknowledged that Cesar was one of its intelligence operatives: "Agency officers met occasionally with Cesar - usually in the United States - to gather information and to promote unity among the Southern Front groups," the CIA Inspector General found.[^1]
 
 ### Drug Deals for the Contras
 
-In March 1984, Cesar and two other Contra officials close to the CIA—ARDE logistics chief Adolfo "Popo" Chamorro and ARDE air force commander [[Marcos Aguado]]—met with Colombian drug trafficker [[George Morales]] at his offices in Fort Lauderdale and asked him to contribute to [[Eden Pastora|Eden Pastora's]] [[ARDE]] Contra army. "During our conversation they told me they were CIA agents. Two of them said they were, Octaviano Cesar and Marcos Aguado," Morales testified before Congress.[^1]
+In March 1984, Cesar and two other Contra officials close to the CIA - ARDE logistics chief Adolfo "Popo" Chamorro and ARDE air force commander [[Marcos Aguado]] - met with Colombian drug trafficker [[George Morales]] at his offices in Fort Lauderdale and asked him to contribute to [[Eden Pastora|Eden Pastora's]] [[ARDE]] Contra army. "During our conversation they told me they were CIA agents. Two of them said they were, Octaviano Cesar and Marcos Aguado," Morales testified before Congress.[^1]
 
 Cesar assured Morales that if he assisted the Contras, his pending cocaine indictment would be resolved through CIA intervention. Cesar "told me he had plenty of friends, being him, the CIA, can advise the superiors about my financial support and airplane and training and therefore they will finally, eventually, will take care of my problem, which they did," Morales testified.[^1]
 

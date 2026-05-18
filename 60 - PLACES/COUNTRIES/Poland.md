@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "Country"
 tags:
   - Country
   - Poland
@@ -10,7 +10,7 @@ tags:
   - BCCI
 summary: "Poland appears in this vault in connection with the CIA-Vatican-BCCI funding pipeline to the Solidarity trade union movement (1980-1989), which helped bring down the communist government, and as a Soviet bloc country that was a target of Western intelligence operations throughout the Cold War."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Warsaw, Poland"
 ---
 

@@ -10,7 +10,7 @@ tags:
   - PROMIS
   - INSLAW
   - Accounting
-summary: "Peat, Marwick, Mitchell & Co. was the international accounting firm that held the original 1969 LEAA grant to design PROMIS — with Bill Hamilton serving as project manager — before successive mergers in 1978 and 1986 transformed it into KPMG."
+summary: "Peat, Marwick, Mitchell & Co. was the international accounting firm that held the original 1969 LEAA grant to design PROMIS - with Bill Hamilton serving as project manager - before successive mergers in 1978 and 1986 transformed it into KPMG."
 ---
 Peat, Marwick, Mitchell & Co. (variously abbreviated PMM, PM&M, PMMC, and PMM&C in contemporaneous government documents) was an international accounting and consulting firm founded in the late nineteenth century. By the mid-1970s it had grown to more than 25,000 U.S. clients across over 300 offices in 50 countries, making it the largest accounting firm worldwide by some measures, with 21,000 employees and 1,400 partners globally. Sixty-five percent of its revenue derived from audit, 20 percent from tax, and 15 percent from consulting. In 1978 the firm restructured into Peat Marwick International, and in 1986 it merged with KMG to form [[KPMG]].[^1]
 

@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - France
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "Paris is the capital of France and a key geographic node in this vault: the claimed site of October Surprise meetings between Reagan campaign officials and Iranian representatives in 1980, a hub for Middle Eastern arms brokering and intelligence back-channels, and the city where Ayatollah Khomeini spent his final months of exile before the Iranian Revolution."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Paris, France"
 ---
 

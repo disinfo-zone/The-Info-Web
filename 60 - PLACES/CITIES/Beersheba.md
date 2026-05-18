@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "City"
 tags:
   - City
   - Israel
@@ -8,7 +8,7 @@ tags:
   - Intelligence
 summary: "Beersheba (Be'er Sheva) is the largest city in southern Israel and the administrative capital of the Negev Desert region; it appears in this vault primarily as the regional center nearest to the Negev Nuclear Research Center at Dimona and as a hub for the Israeli military and intelligence infrastructure concentrated in the southern Negev."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Beersheba, Israel"
 ---
 

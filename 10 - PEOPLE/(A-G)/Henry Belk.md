@@ -1,14 +1,19 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Henry Belk
 aliases:
-- Henry Belk
-category: "Psychics & Remote Viewers"
+  - Henry Belk
+category: "Philanthropists & Benefactors"
 tags:
   - Person
-  - RemoteViewer
-summary: "Henry Belk was a department store tycoon and a wealthy benefactor of Andrija Puharich's research into ESP and other anomalous mental phenomena."
+  - PSI
+  - Parapsychology
+  - RoundTableFoundation
+  - 1950s
+  - 1960s
+summary: "Henry Belk was a North Carolina department store magnate and wealthy funder of Andrija Puharich's Round Table Foundation who brought Dutch psychic Peter Hurkos to Maine for testing in 1956 and helped finance Puharich's Brazilian expeditions."
 ---
-
-# Henry Belk
 
 Henry Belk was a department store tycoon and a wealthy benefactor of [[Andrija Puharich]]'s research into [[Extrasensory Perception|ESP]] and other anomalous mental phenomena. He was part of the elite circle of individuals who supported the [[Round Table Foundation]] in Maine[^1].
 

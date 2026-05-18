@@ -3,7 +3,7 @@ tags:
   - Concept
   - Nuclear Facility
   - Israel
-category: "Nuclear Scientists & Programs"
+category: "Military Installation"
 summary: "Machons are the numbered self-contained facility buildings within Israel's Dimona nuclear complex, whose functions including plutonium extraction and weapons component fabrication were publicly described by Mordechai Vanunu after his 1986 defection."
 location: Dimona, Negev Desert, Israel
 ---
@@ -15,11 +15,11 @@ Machon 1 is the large, silver-domed reactor, sixty feet in diameter, prominently
 
 ### Machon 2 (The Tunnel - Chemical Reprocessing Plant)
 
-Machon 2, informally known as the Tunnel, is the most essential and sensitive facility at [[Dimona]]. It is a six-level, highly automated chemical reprocessing plant, dug to a depth of eighty feet underground. Its surface appearance is that of an ordinary administration building—a nondescript, two-story, windowless structure, eighty by two hundred feet, containing a workers' canteen, shower rooms, offices, and warehouse space. The building features thickly reinforced walls, a safety measure given its location. A bank of elevators on the top floor was routinely bricked over before foreign visitors, such as American inspection teams led by [[Floyd L. Culler, Jr.]], were permitted to enter, effectively concealing the underground operations. No outsider is known to have ever entered the reprocessing plant itself.[^1]
+Machon 2, informally known as the Tunnel, is the most essential and sensitive facility at [[Dimona]]. It is a six-level, highly automated chemical reprocessing plant, dug to a depth of eighty feet underground. Its surface appearance is that of an ordinary administration building - a nondescript, two-story, windowless structure, eighty by two hundred feet, containing a workers' canteen, shower rooms, offices, and warehouse space. The building features thickly reinforced walls, a safety measure given its location. A bank of elevators on the top floor was routinely bricked over before foreign visitors, such as American inspection teams led by [[Floyd L. Culler, Jr.]], were permitted to enter, effectively concealing the underground operations. No outsider is known to have ever entered the reprocessing plant itself.[^1]
 
 Within Machon 2, plutonium, a by-product of the fission process in the reactor, is chemically extracted from spent uranium rods. These rods must first be cooled for weeks in water-filled tanks to reduce radioactivity by several thousand times before reprocessing can begin. Even then, the rods remain lethal and are handled exclusively by remote control from behind lead shielding. The production hall, where the spent uranium rods undergo reprocessing, dominates levels one through four underground. Work here is monitored from a large control room, which includes an observation area known to technicians as "Golda's Balcony," a reference to [[Golda Meir]]'s frequent visits after she became prime minister.[^1]
 
-According to Vanunu, the chemical processing results in a weekly average of nine "buttons" of pure plutonium, with a combined weight of 1.2 kilograms. The Tunnel operates around the clock for thirty-four weeks a year, shutting down from July to November for routine maintenance and repair. The reprocessing methods employed are described as routine, utilizing industrial solvents and solutions similar to those used at the Savannah River Plant in [[South Carolina]]. If Vanunu's reported production rate of 1.2 kilograms weekly is accurate, the reactor would need to operate at approximately 120 to 150 megawatts—more than five times its officially stated output—and consume nearly one hundred tons of uranium ore annually, producing enough enriched materials for four to a dozen or more bombs a year, depending on warhead design.[^1]
+According to Vanunu, the chemical processing results in a weekly average of nine "buttons" of pure plutonium, with a combined weight of 1.2 kilograms. The Tunnel operates around the clock for thirty-four weeks a year, shutting down from July to November for routine maintenance and repair. The reprocessing methods employed are described as routine, utilizing industrial solvents and solutions similar to those used at the Savannah River Plant in [[South Carolina]]. If Vanunu's reported production rate of 1.2 kilograms weekly is accurate, the reactor would need to operate at approximately 120 to 150 megawatts - more than five times its officially stated output - and consume nearly one hundred tons of uranium ore annually, producing enough enriched materials for four to a dozen or more bombs a year, depending on warhead design.[^1]
 
 ### Machon 3
 
@@ -47,7 +47,7 @@ This facility is equipped with a laser-isotope-reprocessing system, which is use
 
 ### Machon 10
 
-Machon 10 is where depleted uranium—uranium with very little or no uranium 235 remaining—is chemically isolated. This depleted uranium is then prepared for eventual shipment to the Israeli Defense Force or for sale to arms manufacturers in [[Europe]] and elsewhere, where it is used in the production of bullets, armor plating, and artillery and bomb shells.[^1]
+Machon 10 is where depleted uranium - uranium with very little or no uranium 235 remaining - is chemically isolated. This depleted uranium is then prepared for eventual shipment to the Israeli Defense Force or for sale to arms manufacturers in [[Europe]] and elsewhere, where it is used in the production of bullets, armor plating, and artillery and bomb shells.[^1]
 
 ### Warhead Fabrication and Assembly
 

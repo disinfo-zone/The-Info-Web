@@ -1,17 +1,21 @@
 ---
+title: The Finders
+aliases:
+  - The Finders
+  - Finders
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Organization
-  - Cult
-  - Child_Trafficking
-  - CIA_Connection
+  - CIA
+  - ChildTrafficking
+  - 1970s
   - 1980s
-  - Washington_DC
-  - International_Network
-  - Computer_Operations
+  - WashingtonDC
 category: "Private Organization"
 summary: "The Finders was a Washington D.C.-based communal group led by Marion Pettie that came to public attention in 1987 when members were arrested transporting malnourished children, with a subsequent federal investigation abruptly closed after the CIA acknowledged an interest in the group."
 location: "Washington, D.C."
-start: 1970
+start: 1970-01-01
 ---
 
 The Finders was a Washington D.C.-based communal group led by former [[U.S. Air Force]] Master Sergeant [[Marion Pettie]] that came to public attention on February 4, 1987, when two of its members were arrested in Tallahassee, Florida while transporting six malnourished children in a van. The ensuing investigation uncovered extensive computer networks with satellite communications, international files referencing operations in multiple countries, and documents describing methods for obtaining children. A federal inquiry was opened, then abruptly closed after the [[Central Intelligence Agency|CIA]] acknowledged an interest in the group. The case was partially reopened in 1993 following congressional pressure, then closed again without criminal charges. In November 2019, the [[Federal Bureau of Investigation|FBI]] released several hundred pages of investigative records through its online Vault repository under FOIA case number 1372462-0.[^2][^3][^4]
@@ -24,7 +28,7 @@ The group blended Taoist philosophy with New Age and Human Potential Movement co
 
 Beginning around 1980, children were raised communally rather than by biological parents. The group believed this practice replicated what members described as original Native American child-rearing. Children were not enrolled in conventional schools and were separated from their parents for months during group-organized trips described as educational adventures. Neighbors reported seeing dozens of children at the Virginia farm during summer periods, sometimes naked or appearing distressed.[^7]
 
-#### Properties
+### Properties
 
 The group maintained several interconnected properties:
 
@@ -32,13 +36,13 @@ The group maintained several interconnected properties:
 - 1307 Fourth Street NE, Washington D.C.: A 10,000-square-foot warehouse owned of record by [[Robert Gardner Terrell]]. Men lived here. The space contained a large library, two kitchens, a sauna, a hot tub, a video production room, extensive computer equipment, and satellite dish antennas on the roof.[^2][^3]
 - The Farm, Nethers, Madison County, Virginia: Approximately 90 acres near Shenandoah National Park and Old Rag Mountain. Neighbors reported vans arriving at night with children who were sometimes heard crying.[^5][^7]
 
-#### Membership
+### Membership
 
 The active membership roster circulated during the 1987 investigations listed: [[Ronald L. Alleman]]; [[Mary Grogan]]; [[Christian Herbst]]; [[Kristin Knauth]]; [[Theodore G. Reiss]]; [[Allen Schoen]]; [[Stuart Miles Silverstone]] (operating under the alias Steve Learner); [[Randolph Winn]]; and [[Steve Usdin]]. Former members included [[Patricia H. Livingston]], [[Carolyn Said]], and others who maintained contact with the group.[^2]
 
 [[Robert Gardner Terrell]], a former [[Internal Revenue Service|IRS]] appeals officer and certified public accountant, served as the group's principal spokesman and financial manager. He was associated with [[Future Enterprises]], a computer training company that conducted business with the CIA.[^2][^3]
 
-#### John J. Cox and General Scientific
+### John J. Cox and General Scientific
 
 An unsigned investigative memo of unknown provenance, circulated among researchers in the mid-1990s and described by journalist Wendell Minnick in the publication Unclassified (Winter 1995) as a document of "unknown origin" in which "some of the data has been independently verified," claims that in 1979 Pettie recruited John J. Cox, described as a computer specialist and founder of General Scientific, a firm specializing in classified defense contracts. The memo alleges Cox trained several Finders members in computer programming and communications, and took two or more of them to Costa Rica and Panama in 1980-81.[^11]
 
@@ -64,7 +68,7 @@ Florida HRS physician Dr. Moorer found physical evidence consistent with possibl
 
 [[Douglas Ammerman]] and [[James Michael Holwell]] were charged with misdemeanor child abuse; Holwell faced an additional count of resisting arrest without violence. Bond was initially set at $100,000 each, reduced to $20,000 on February 19. Five women identifying as the children's mothers arrived in Tallahassee from Washington around February 12: [[Kristin Knauth]], [[Judy Evans]], [[Paula Arico]], [[Carolyn Said]], and [[Patricia H. Livingston]].[^8]
 
-#### Custody Proceedings and Outcomes
+### Custody Proceedings and Outcomes
 
 Florida state awarded temporary custody of all six children on February 5, 1987. On February 28, Judge Victor Cawthon awarded temporary custody of all six to the mothers pending a final hearing. On March 11, 1987, Cawthon ruled that three of the children be returned to their mothers unconditionally, while three older children were declared state dependents and placed under state supervision. Two mothers, directed by Pettie not to hire lawyers and not to respond to court proceedings, returned to Washington D.C. and forfeited their custody proceedings; their children became the state dependents. On June 1, 1987, a Florida judge sent two of the three state-dependent children to foster homes. The final disposition, as documented in press coverage, left four children returned to mothers and two in foster care.[^8]
 
@@ -76,7 +80,7 @@ The white van used to transport the children was registered to the 1307 Fourth S
 
 U.S. Customs Special Agent [[Ramon J. Martinez]] was the principal federal investigator at the Washington D.C. properties. His reports, filed February 7, 1987 and April 13, 1987, constitute the primary documentary record of what investigators found.[^2][^3]
 
-#### Warehouse Findings
+### Warehouse Findings
 
 At the warehouse, investigators found:
 
@@ -94,19 +98,19 @@ Martinez documented that files contained printouts of messages transmitted throu
 
 Additional documents referenced bank secrecy practices, technology transfers to the United Kingdom, and currency movement across multiple international jurisdictions. Martinez's overall assessment was that the files indicated "international trafficking in children, high tech transfer to the United Kingdom, and international transfer of currency."[^2]
 
-#### The "Pentagon Break-In" File
+### The "Pentagon Break-In" File
 
 Among the documents observed at the warehouse, Martinez noted in his April 13, 1987 report the existence of a file entitled "Pentagon Break-In." His report records only the title; he did not describe the file's contents, and his subsequent loss of access to the seized materials - after the FBI transferred jurisdiction and classified the case - prevented any follow-up examination. No investigator, journalist, or FOIA release has produced a description of what the file contained. It is unknown whether the title referred to a literal unauthorized entry, surveillance of Pentagon personnel, an exercise or game, or something else. The file is mentioned in secondary sources only as a notation from Martinez's memo.[^2][^3]
 
-#### The Babysitter and Tutor Advertisement Method
+### The Babysitter and Tutor Advertisement Method
 
 Martinez's April 13, 1987 report documented information provided by an MPD officer regarding an intelligence-gathering method used by the group: "the group would respond to local newspaper advertisements for babysitters, tutors, etc. and then a member of the Finders would gather as much information as possible about the habits, identity, occupation, etc., of the family." Evidence of this activity was found among the warehouse documents, described in the FBI file summary as "intelligence files on private families." The specific newspapers targeted, the geographic scope, the volume of families targeted, and the period over which this was conducted are not established in available records. The 1993 DOJ reinvestigation did not examine this method independently.[^2][^3]
 
-#### Glover Park and Stuart Miles Silverstone
+### Glover Park and Stuart Miles Silverstone
 
 At the Glover Park duplex, investigators found [[Stuart Miles Silverstone]] inside a room equipped with multiple computers, printers, and satellite communications equipment. Large bags of color slides and photographic contact sheets containing images of children were also seized.[^2]
 
-#### Virginia Farm
+### Virginia Farm
 
 Virginia State Police found at the Madison County farm what they described as evidence of cult or ritual activity. This characterization was subsequently disputed; photographs later described in some sources as showing ritual activity appear to depict livestock butchering. No criminal charges resulted from the farm search.[^7]
 

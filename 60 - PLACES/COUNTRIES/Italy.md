@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "Country"
 tags:
   - Country
   - Italy
@@ -10,7 +10,7 @@ tags:
   - Vatican
 summary: "Italy appears throughout this vault as the location of CIA-backed Stay-Behind network Gladio, the center of the P2 Masonic lodge scandal connecting intelligence services to organized crime and far-right terrorism, and a hub for Vatican Bank (IOR) financial flows connected to the BCCI network and money laundering."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Rome, Italy"
 ---
 

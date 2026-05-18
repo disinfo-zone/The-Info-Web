@@ -30,17 +30,17 @@ The investigation expanded dramatically after Manhattan District Attorney [[Robe
 
 The Kerry-Brown Report documented BCCI's operations as a coordinated criminal enterprise operating across approximately seventy countries. Its principal findings included:
 
-**Money laundering**: BCCI provided specialized services for laundering drug proceeds, particularly from the Medellín and [[Cali Cartel|Cali Cartels]] in [[Colombia]]. The bank developed internal expertise in structuring transactions to avoid currency reporting requirements and created networks of shell companies and nominee accounts for high-level criminal clients.
+Money laundering: BCCI provided specialized services for laundering drug proceeds, particularly from the Medellín and [[Cali Cartel|Cali Cartels]] in [[Colombia]]. The bank developed internal expertise in structuring transactions to avoid currency reporting requirements and created networks of shell companies and nominee accounts for high-level criminal clients.
 
-**Intelligence relationships**: The report documented BCCI's role as a financial institution used by intelligence agencies including the CIA. It found that the CIA maintained accounts at BCCI and used the bank to finance covert operations, including weapons purchases for the Afghan Mujahideen and funding for other covert programs. The report found that senior U.S. intelligence officials had been aware of BCCI's criminal character years before the bank's closure and had not reported this to law enforcement.
+Intelligence relationships: The report documented BCCI's role as a financial institution used by intelligence agencies including the CIA. It found that the CIA maintained accounts at BCCI and used the bank to finance covert operations, including weapons purchases for the Afghan Mujahideen and funding for other covert programs. The report found that senior U.S. intelligence officials had been aware of BCCI's criminal character years before the bank's closure and had not reported this to law enforcement.
 
-**Arms dealing and terrorist financing**: BCCI provided financial services to arms dealers and terrorist organizations including [[Abu Nidal]]. The bank financed weapons transactions across multiple conflicts and maintained accounts for figures connected to state-sponsored terrorism.
+Arms dealing and terrorist financing: BCCI provided financial services to arms dealers and terrorist organizations including [[Abu Nidal]]. The bank financed weapons transactions across multiple conflicts and maintained accounts for figures connected to state-sponsored terrorism.
 
-**Noriega accounts**: The report detailed how BCCI had laundered Noriega's looted funds and drug trafficking proceeds, with BCCI officials actively assisting Noriega in concealing assets.
+Noriega accounts: The report detailed how BCCI had laundered Noriega's looted funds and drug trafficking proceeds, with BCCI officials actively assisting Noriega in concealing assets.
 
-**First American Bank**: The report documented how BCCI had illegally acquired control of [[First American Bank]], Washington's largest bank, through nominees including former Secretary of Defense [[Clark Clifford]] and his law partner [[Robert Altman]]. The report found that Clifford had either known of or been deliberately deceived about BCCI's role.
+First American Bank: The report documented how BCCI had illegally acquired control of [[First American Bank]], Washington's largest bank, through nominees including former Secretary of Defense [[Clark Clifford]] and his law partner [[Robert Altman]]. The report found that Clifford had either known of or been deliberately deceived about BCCI's role.
 
-**Saddam Hussein accounts**: BCCI provided financial services to [[Saddam Hussein]]'s government and facilitated transactions in the [[BNL Scandal|BNL]] (Banca Nazionale del Lavoro) Iraq credit scandal.[^1]
+Saddam Hussein accounts: BCCI provided financial services to [[Saddam Hussein]]'s government and facilitated transactions in the [[BNL Scandal|BNL]] (Banca Nazionale del Lavoro) Iraq credit scandal.[^1]
 
 ### DOJ Obstruction Finding
 

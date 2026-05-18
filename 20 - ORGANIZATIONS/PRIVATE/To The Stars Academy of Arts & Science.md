@@ -10,7 +10,7 @@ location: "San Diego, California"
 
 Tom DeLonge founded TTSA in 2017 with the goal of bringing the UAP conversation out of the shadows and into the mainstream. He assembled a team of former high-ranking government officials and scientists to lead the organization, including [[Luis Elizondo]], [[Christopher Mellon]], [[Jim Semivan]], and [[Hal Puthoff]].[^1]
 
-The company was structured with three divisions: Science, Aerospace, and Entertainment. The plan was to use the entertainment division to generate revenue that would fund the scientific and aerospace research. TTSA was instrumental in the public release of the three declassified UAP videos—"FLIR" (Tic Tac), "GIMBAL," and "GoFast"—which were posted on its YouTube page in conjunction with the 2017 New York Times article that revealed the existence of [[AATIP]].[^1]
+The company was structured with three divisions: Science, Aerospace, and Entertainment. The plan was to use the entertainment division to generate revenue that would fund the scientific and aerospace research. TTSA was instrumental in the public release of the three declassified UAP videos - "FLIR" (Tic Tac), "GIMBAL," and "GoFast" - which were posted on its YouTube page in conjunction with the 2017 New York Times article that revealed the existence of [[AATIP]].[^1]
 
 ### Role in UAP Disclosure
 

@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "Country"
 aliases:
   - Federal Republic of Germany
   - FRG

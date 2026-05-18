@@ -1,5 +1,5 @@
----
-category: "Asia"
+﻿---
+category: "Country"
 tags:
   - Country
   - Japan
@@ -9,7 +9,7 @@ tags:
   - ColdWar
 summary: "Japan appears in this vault primarily in connection with CIA covert funding of the Liberal Democratic Party from the late 1940s through the Cold War, PROMIS software sales to Japanese law enforcement, and the country's role as a U.S. intelligence partner in the Asia-Pacific."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Tokyo, Japan"
 ---
 

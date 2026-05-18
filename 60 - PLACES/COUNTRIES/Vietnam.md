@@ -10,7 +10,7 @@ category: "Country"
 summary: "Vietnam was the site of a protracted U.S. military involvement (1955-1975) that produced veterans and intelligence networks appearing throughout this vault's coverage of Nugan Hand Bank, drug trafficking, and Iran-Contra-era covert operations."
 ---
 
-[[Vietnam]] was the site of a protracted conflict involving the [[United States]] and other international powers. Several individuals who served there later became involved in covert operations and intelligence activities, and the U.S. military alliance with Nicaragua's Somoza dynasty — which contributed troops to Vietnam — later facilitated the creation of the [[Contras|Contra]] army.[^1][^2]
+[[Vietnam]] was the site of a protracted conflict involving the [[United States]] and other international powers. Several individuals who served there later became involved in covert operations and intelligence activities, and the U.S. military alliance with Nicaragua's Somoza dynasty - which contributed troops to Vietnam - later facilitated the creation of the [[Contras|Contra]] army.[^1][^2]
 
 ### Notable Veterans
 

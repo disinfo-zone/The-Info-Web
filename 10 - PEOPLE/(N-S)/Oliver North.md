@@ -20,7 +20,7 @@ North was alleged to have received drug profits from [[Monzer Al-Kassar]], a Syr
 
 ### Contra Resupply Operation
 
-North was the National Security Council official overseeing the Contra project. He wrote in his 1991 memoirs, *Under Fire*, about the death squad terror in [[El Salvador]], noting: "Under the guise of anti-Communism, the death squads terrorized the entire country — murdering nuns, teachers, labor organizers, political opponents and thousands of other civilians." North wrote that it was clear most of the death squad activity was the responsibility of the ultraright ARENA party and its leader, [[Roberto D'Aubuisson]].[^2]
+North was the National Security Council official overseeing the Contra project. He wrote in his 1991 memoirs, *Under Fire*, about the death squad terror in [[El Salvador]], noting: "Under the guise of anti-Communism, the death squads terrorized the entire country - murdering nuns, teachers, labor organizers, political opponents and thousands of other civilians." North wrote that it was clear most of the death squad activity was the responsibility of the ultraright ARENA party and its leader, [[Roberto D'Aubuisson]].[^2]
 
 North's courier in [[Central America]], [[Robert Owen]], reported to North in 1985 that a DC-6 owned by Mario Calero (brother of [[Adolfo Calero]]) "which is being used for runs out of [[New Orleans]] is probably being used for drug runs into U.S." Owen's phone number was found aboard a DC-4 seized by the [[DEA]] in March 1987 on a suspected drug run off [[Florida]]'s coast. Aboard the plane was marijuana residue and Moss's notes which, according to a CIA cable, contained "the names of two CIA officers and their telephone numbers."[^2]
 
@@ -40,7 +40,7 @@ When North began supplying arms for the Contras after Congress cut off funding t
 
 ### Drug Money Proposal
 
-At a top-level meeting with DEA officials in Washington in 1984, North shocked the room into silence by suggesting that $1.5 million in cocaine cash the DEA planned to seize from the [[Medellin Cartel|Medellín cartel]] should be turned over to the Contras. The DEA says it declined North's suggestion. Subsequently, a White House leak blew the DEA operation, and several DEA officials believed North was responsible — something he has denied.[^4]
+At a top-level meeting with DEA officials in Washington in 1984, North shocked the room into silence by suggesting that $1.5 million in cocaine cash the DEA planned to seize from the [[Medellin Cartel|Medellín cartel]] should be turned over to the Contras. The DEA says it declined North's suggestion. Subsequently, a White House leak blew the DEA operation, and several DEA officials believed North was responsible - something he has denied.[^4]
 
 With the assistance of CIA director [[William J. Casey]], North created an elaborate network of offshore bank accounts to conceal the source of money sustaining the Contras through the Congressional funding cutoff. North wrote that Casey didn't want the Contras' "unofficial funds" coming into U.S. banks because of fears that Treasury agents on the lookout for drug money would grow suspicious of the large sums of cash arriving in those accounts.[^4]
 
@@ -56,7 +56,7 @@ North "hijacked" the State Department's Nicaraguan Humanitarian Assistance Offic
 
 North wrote to [[Felix Rodriguez]] in September 1985 asking him to use his influence with Salvadoran Air Force commander [[Juan Rafael Bustillo]] to secure hangar space at [[Ilopango Airbase|Ilopango Air Force Base]] for Contra supply flights. CIA records show Hangar No. 4 at Ilopango was used by the Agency for covert Contra operations until it was turned over to the National Security Council and North's "Enterprise" in 1985. The adjoining Hangar No. 5 remained CIA-run.[^6]
 
-North's daily diaries contained several references to "Freddy Vaughn" — [[Federico Vaughn]], the alleged Sandinista aide shown by President [[Ronald Reagan]] loading drugs onto an aircraft — including a July 6, 1984, entry: "Freddy coming in late July." A 1988 House Judiciary Committee investigation produced evidence that the Seal sting was stage-managed by North and the CIA as a domestic disinformation operation. Four DEA officials testified they received pressure from North and the CIA to leak Vaughn's involvement with drugs to the press. On October 15, 1986, North noted in his diary: "46 boxes of transcripts of SF [[Frogman Case|Frogman]] case. Justice never provided."[^6]
+North's daily diaries contained several references to "Freddy Vaughn" - [[Federico Vaughn]], the alleged Sandinista aide shown by President [[Ronald Reagan]] loading drugs onto an aircraft - including a July 6, 1984, entry: "Freddy coming in late July." A 1988 House Judiciary Committee investigation produced evidence that the Seal sting was stage-managed by North and the CIA as a domestic disinformation operation. Four DEA officials testified they received pressure from North and the CIA to leak Vaughn's involvement with drugs to the press. On October 15, 1986, North noted in his diary: "46 boxes of transcripts of SF [[Frogman Case|Frogman]] case. Justice never provided."[^6]
 
 ### Dagoberto Nunez and H&M Corp
 

@@ -1,13 +1,22 @@
 ---
+created: 2026-05-17
+updated: 2026-05-17
+title: John Poindexter
+aliases:
+  - John Poindexter
+  - John M. Poindexter
+  - John Marlan Poindexter
 category: "Intelligence & Government"
 tags:
   - Person
-  - Iran_Contra
+  - IranContra
   - NSC
   - Reagan
   - Navy
   - 1980s
-summary: "Vice Admiral John Poindexter served as Reagan's National Security Adviser (December 1985-November 1986), resigned over Iran-Contra, was convicted on five counts before reversal, and later directed DARPA's Total Information Awareness program (2002-2003) before that too collapsed in controversy."
+  - 1990s
+  - 2000s
+summary: "Vice Admiral John Poindexter served as Reagan's National Security Adviser from December 1985 to November 1986, authorized the Iran-Contra diversion without informing the president, was convicted on five counts before reversal on immunized-testimony grounds, and later directed DARPA's Total Information Awareness program until Congress terminated it in 2003."
 born: 1936-08-12
 location: "Washington, D.C."
 ---

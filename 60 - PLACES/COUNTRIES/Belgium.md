@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "Country"
 tags:
   - Country
   - Belgium
@@ -9,7 +9,7 @@ tags:
   - Elite
 summary: "Belgium is the location of the Marc Dutroux child abduction and murder case, the X-Dossier investigation into elite pedophile networks, NATO headquarters, and was also implicated in the Gladio stay-behind network; its political and aristocratic establishment figures are named throughout the vault's Dutroux investigation materials."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Brussels, Belgium"
 ---
 

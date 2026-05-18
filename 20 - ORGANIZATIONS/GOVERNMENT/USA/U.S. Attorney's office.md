@@ -10,7 +10,7 @@ tags:
 summary: "The U.S. Attorney's Office for the District of Columbia was the original client for the PROMIS case management software, commissioning the system in 1969 under U.S. Attorney Thomas A. Flannery and deploying it January 1, 1971; the EOUSA later signed the March 1982 implementation contract with INSLAW that became the central dispute in the PROMIS Software Scandal."
 location: "Washington, D.C."
 ---
-The **U.S. Attorney's Office for the District of Columbia** is the federal prosecutor's office responsible for both local criminal matters (unique among U.S. Attorneys' offices due to DC's non-state status) and federal crimes within the District. As used throughout the INSLAW files and the House Judiciary Committee's PROMIS investigation, "the U.S. Attorney's Office" refers to this DC office unless otherwise specified.
+The U.S. Attorney's Office for the District of Columbia is the federal prosecutor's office responsible for both local criminal matters (unique among U.S. Attorneys' offices due to DC's non-state status) and federal crimes within the District. As used throughout the INSLAW files and the House Judiciary Committee's PROMIS investigation, "the U.S. Attorney's Office" refers to this DC office unless otherwise specified.
 
 ### Role in PROMIS Development
 

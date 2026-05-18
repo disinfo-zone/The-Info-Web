@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - Germany
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "Berlin was the central geographic front of the Cold War intelligence war: divided by the Berlin Wall from 1961 to 1989, it hosted the CIA's Berlin Base (one of the most significant Cold War stations), the KGB's Karlshorst headquarters in East Berlin, and was the site of numerous defections, intelligence operations, and the 1986 nightclub bombing that triggered the U.S. strike on Libya."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Berlin, Germany"
 ---
 

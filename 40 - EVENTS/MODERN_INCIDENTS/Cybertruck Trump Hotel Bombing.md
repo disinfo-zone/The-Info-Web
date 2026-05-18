@@ -1,14 +1,18 @@
 ---
 created: 2025-01-03
-updated: 2025-01-04
+updated: 2026-05-17
 title: Cybertruck Trump Hotel Bombing
+aliases:
+  - Cybertruck Trump Hotel Bombing
+  - Las Vegas Cybertruck Explosion
 tags:
-  - terrorism
-  - " military"
-  - " conspiracy"
-description: A U.S. Army Special Ops soldier detonated a Tesla Cybertruck filled with explosives near the Trump International Hotel in Las Vegas, injuring seven. The suspect left a manifesto alleging government cover-ups and war crimes, claiming the act was a 'wake-up call.' The FBI is investigating it as a potential terrorist act.
+  - Event
+  - Terrorism
+  - Military
+  - UAP
+  - 2020s
 category: "Modern Incident"
-summary: "January 1, 2025 explosion of a Tesla Cybertruck outside Trump International Hotel Las Vegas by active duty Army Special Ops soldier Matthew Livelsberger."
+summary: "On January 1, 2025, active duty Army Special Operations soldier Matthew Livelsberger detonated an explosive-laden Tesla Cybertruck outside the Trump International Hotel in Las Vegas, injuring seven, leaving a manifesto claiming knowledge of covered-up war crimes and UAP/antigravitic technology programs."
 date: 2025-01-01
 location: "Las Vegas, Nevada"
 ---
@@ -62,7 +66,7 @@ Livelsberger allegedly sent a “manifesto” to [[Sam Shoemate]] (@samosaur) on
 > For vetting my LinkedIn is Matt Berg or Matthew Livelsberger, an active duty 18Z out of 1-10 my profile is public. I have an active TSSCI with UAP USAP access.[^5]
 
 The “box below” comment refers to a pin dropped on Google Maps near Lincoln County, NV at 37.2475372, -115.8155235[^8] ([Google Earth Link](https://earth.google.com/web/search/37%2e2475372,+-115%2e8155235/@37.2475372,-115.81552349,1354.56239459a,656.55298892d,35y,0h,0t,0r/data=CmAaMhIsGY5FiUyvn0JAIaVneokx9FzAKhgzNy4yNDc1MzcyLCAtMTE1LjgxNTUyMzUYAiABIiYKJAkJ_i20GaZCQBFG45X9UppCQBkeJs7mBOxcwCFBBNxVhPpcwEICCAE6AwoBMEICCABKDQj___________8BEAA)) which is a specific building at [[Groom Lake]] aka Homey Airport (KXTA) aka [[Area 51]].
-# Footnotes
+### Footnotes
 [^1]: [Fireworks, gas tanks and camping fuel used in Tesla Cybertruck explosion outside Las Vegas Trump Hotel](https://archive.is/nxAPd)
 [^2]: [Cybertruck explosion timeline: What was vehicle's path to Las Vegas?](https://archive.is/yMUC0)
 [^3]: [Soldier who died in Cybertruck left writing criticizing government, authorities say](https://archive.is/oahMf)

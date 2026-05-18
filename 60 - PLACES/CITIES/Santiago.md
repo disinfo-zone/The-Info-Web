@@ -1,5 +1,5 @@
----
-category: "South America"
+﻿---
+category: "City"
 tags:
   - City
   - Chile
@@ -8,7 +8,7 @@ tags:
   - Pinochet
 summary: "Santiago is the capital of Chile and the site of the September 11, 1973 CIA-backed coup that installed Augusto Pinochet, including the bombing of La Moneda presidential palace; it was subsequently the operational base for DINA and the founding location of Operation Condor."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Santiago, Chile"
 ---
 

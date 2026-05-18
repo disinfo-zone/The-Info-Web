@@ -1,18 +1,26 @@
 ---
+title: Eugene Lessman
 aliases:
-- Eugene Lessman
+  - Eugene Lessman
   - Gene Lessman
-category: "Psychics & Remote Viewers"
+created: 2026-05-17
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
-  - RemoteViewer
   - Military
-summary: "**Eugene 'Gene' Alden Lessman** was a U.S."
-died: 2019
+  - Intelligence
+  - RemoteViewing
+  - GreenBerets
+  - Vietnam
+  - StarGate
+born: 1944-01-01
+died: 2019-01-01
 location: "Dundrum, County Down, Northern Ireland"
+summary: "Eugene 'Gene' Alden Lessman was a U.S. Army intelligence officer, Green Beret Vietnam veteran, and lead recruiter for the Army's Great Skill Program who handled remote viewer Angela Dellafiora and allegedly recruited Luis Elizondo into the program."
 ---
 
-**Eugene "Gene" Alden Lessman** was a U.S. Army intelligence officer and an important recruiter for "spooky" work according to [[Luis Elizondo]] in his 2024 book, _Imminent_. Known as Gene, he was also known by the name John James Kielty[^2] and passed away in 2019. Like his father before him, Gene spent much of his career in military intelligence and became a lead recruiter for the Army's "Great Skills" program.[^1]
+Eugene "Gene" Alden Lessman was a U.S. Army intelligence officer and an important recruiter for "spooky" work according to [[Luis Elizondo]] in his 2024 book, _Imminent_. Known as Gene, he was also known by the name John James Kielty[^2] and passed away in 2019. Like his father before him, Gene spent much of his career in military intelligence and became a lead recruiter for the Army's "Great Skills" program.[^1]
 
 ### Military Service
 
@@ -41,8 +49,6 @@ Lessman believed that Elizondo had a natural gift for [[Remote Viewing]] and enc
 ### Blog
 
 Gene kept a blog entitled [A Boy from Dundrum](https://boyfromdundrum.blogspot.com/), where he shared personal reflections and memories from his military service.
-
----
 
 ### Footnotes
 

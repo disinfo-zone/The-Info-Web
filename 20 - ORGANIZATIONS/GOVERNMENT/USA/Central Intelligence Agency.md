@@ -1,18 +1,20 @@
 ---
-created: 2025-07-22
-updated: 2025-08-04
 title: Central Intelligence Agency
+aliases:
+  - Central Intelligence Agency
+  - CIA
+created: 2025-07-22
+updated: 2026-05-17
 tags:
   - Organization
   - Intelligence
   - Government
   - USA
   - CIA
-  - Dark_Alliance_Investigation
-description: The Central Intelligence Agency (CIA) is a civilian foreign intelligence service of the U.S. federal government, tasked with gathering, processing, and analyzing national security information from around the world.
+  - DarkAlliance
 category: "U.S. Government"
-summary: "The Central Intelligence Agency (CIA) is a primary intelligence-gathering organization of the United States government."
-start: 1947
+summary: "The Central Intelligence Agency (CIA) is the principal U.S. civilian foreign intelligence service, established by the National Security Act of 1947 and headquartered at Langley, Virginia."
+start: 1947-09-18
 location: "Langley, Virginia"
 ---
 The [[Central Intelligence Agency]] (CIA) is a primary intelligence-gathering organization of the United States government. In the context of psychic research, the CIA played a significant, albeit often covert, role in funding and overseeing programs aimed at exploring and utilizing psychic phenomena for intelligence purposes.[^1]
@@ -25,13 +27,13 @@ The CIA's interest in psi research dates back to the early 1970s, partly in resp
 
 In 1972, the CIA, through officials like [[Ken Kress]] from the Technical Services Division (TSD) (later the Office of Technical Service, OTS), provided the initial funding for [[Hal Puthoff]]'s psi research program at [[Stanford Research Institute]] (SRI). This funding, initially $50,000 for eight months, was contingent on the researchers demonstrating a repeatable psi phenomenon. The Office of Research and Development (ORD) also jointly managed the funding and contract.[^1] In the late 1960s, the CIA had approached [[Hal Puthoff]] and Russell Targ at Stanford University to develop a program to counter a similar effort in the Soviet Union, which led to the creation of the [[Stargate Project]], a program that trained individuals in [[Remote Viewing]] to spy on foreign targets. The program was reportedly highly successful, and Puthoff reported directly to the Director of the CIA and the White House.[^11]
 
-#### Notable Operations and Impact
+### Notable Operations and Impact
 
-*   **Semipalatinsk:** CIA officials tasked [[Pat Price]] with remote viewing a mysterious Soviet military research facility at Semipalatinsk. Price's detailed descriptions of a gantry crane and large metal spheres were later confirmed by satellite photography, significantly impressing the Agency and securing further funding for SRI's psi research.[^1]
-*   **Soviet Diplomat and Fishing Pole:** [[Norm Everheart]] utilized remote viewers to investigate a Soviet diplomat suspected of using a fishing pole for dead-drop operations, leading to the successful identification of a dead-drop site.[^1]
-*   **KGB Agent Interrogation:** Remote viewers, particularly [[Ken Bell]], were used by the CIA to telepathically interrogate a captured KGB agent in South Africa, extracting information about a hidden pocket calculator used for coding messages. This operation, facilitated by [[Norm Everheart]] and Jim Morris, was considered a success despite its unconventional nature.[^1]
-*   **Tehran Hostage Crisis:** During the [[Iran Hostage Crisis]] in 1979-1980, the CIA and [[Department of Defense|Pentagon]] tasked remote viewers hundreds of times to gather information on the hostages' whereabouts and conditions. While the remote viewers experienced burnout due to the relentless tasking, the data was considered "no worse" than that collected by more conventional methods.[^1]
-*   **Moscow Embassy:** The CIA tasked remote viewers to assess the new U.S. Embassy building in [[Moscow]] for Soviet bugs, even before its construction was complete. Remote viewers like [[Joe McMoneagle]] accurately described the building being riddled with thousands of bugs and metallic decoys, including girders welded into antennas, which was later confirmed by a CIA/NSA investigation. This prescient remote viewing highlighted a major security fiasco for the U.S. diplomatic efforts.[^1]
+*   Semipalatinsk: CIA officials tasked [[Pat Price]] with remote viewing a mysterious Soviet military research facility at Semipalatinsk. Price's detailed descriptions of a gantry crane and large metal spheres were later confirmed by satellite photography, significantly impressing the Agency and securing further funding for SRI's psi research.[^1]
+*   Soviet Diplomat and Fishing Pole: [[Norm Everheart]] utilized remote viewers to investigate a Soviet diplomat suspected of using a fishing pole for dead-drop operations, leading to the successful identification of a dead-drop site.[^1]
+*   KGB Agent Interrogation: Remote viewers, particularly [[Ken Bell]], were used by the CIA to telepathically interrogate a captured KGB agent in South Africa, extracting information about a hidden pocket calculator used for coding messages. This operation, facilitated by Norm Everheart and Jim Morris, was considered a success despite its unconventional nature.[^1]
+*   Tehran Hostage Crisis: During the [[Iran Hostage Crisis]] in 1979-1980, the CIA and [[Department of Defense|Pentagon]] tasked remote viewers hundreds of times to gather information on the hostages' whereabouts and conditions. While the remote viewers experienced burnout due to the relentless tasking, the data was considered "no worse" than that collected by more conventional methods.[^1]
+*   Moscow Embassy: The CIA tasked remote viewers to assess the new U.S. Embassy building in [[Moscow]] for Soviet bugs, even before its construction was complete. Remote viewers like [[Joe McMoneagle]] accurately described the building being riddled with thousands of bugs and metallic decoys, including girders welded into antennas, which was later confirmed by a CIA/NSA investigation. This prescient remote viewing highlighted a major security fiasco for the U.S. diplomatic efforts.[^1]
 
 ### Intelligence Liaison with Israel
 
@@ -69,25 +71,25 @@ In recent years, the CIA has been more involved in the official UAP investigatio
 
 The CIA's covert action division, the Directorate of Operations, created and managed the Contra project during the 1980s, with its Latin American Division headed by [[Dewey Clarridge]] from 1981 to 1984. The agency recruited Contra leaders including [[Enrique Bermudez|Enrique Bermúdez]] in 1980 and [[Eden Pastora]] in 1981. The CIA maintained station chiefs in [[Costa Rica]], notably [[Joseph Fernandez|Joseph Fernández]] from 1984 to 1986, who were integral to [[Oliver North]]'s illegal Contra resupply operation.[^12]
 
-#### Contra Drug Trafficking and the Frogman Case
+### Contra Drug Trafficking and the Frogman Case
 
 Federal law enforcement records and congressional testimony established that the CIA had reports of [[cocaine]] being transshipped through Contra-linked facilities, including [[Ilopango Airbase]] in [[El Salvador]]. When defense attorneys in the [[Frogman Case]] obtained letters from CIA assets claiming seized drug money belonged to the Contras, the CIA's Costa Rican station cabled Langley that both men were assets of an organization that had "unwittingly received CIA support." CIA lawyer Lee Strickland flew to [[San Francisco]] and asked the prosecutor to ensure depositions did not go forward. The government returned $36,020 in seized drug money and a CIA cable declared: "CIA equities are fully protected."[^13]
 
 The pseudonymous agent [[Ivan Gomez|Iván Gómez]], assigned to Costa Rica in 1982 as the CIA's liaison to the Contra armies, admitted during polygraph tests that he had laundered drug money. He was fired in 1989 for repeated polygraph failures concerning drug dealing.[^13]
 
-#### The Secret 1982 Agreement with the Justice Department
+### The Secret 1982 Agreement with the Justice Department
 
-In early 1982, CIA director [[William J. Casey]] and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted the CIA from reporting drug crimes committed by its non-employees — a category including agents, assets, and non-staff employees. Drug offenses were specifically removed from the list of crimes the CIA was required to report. The agreement remained in effect from 1982 to 1995.[^14]
+In early 1982, CIA director [[William J. Casey]] and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted the CIA from reporting drug crimes committed by its non-employees - a category including agents, assets, and non-staff employees. Drug offenses were specifically removed from the list of crimes the CIA was required to report. The agreement remained in effect from 1982 to 1995.[^14]
 
-#### Ilopango Obstruction
+### Ilopango Obstruction
 
 When [[DEA]] agent [[Celerino Castillo]] began investigating Contra drug trafficking at Ilopango, the CIA intervened directly. In April 1986 the El Salvador station sent a cable asking the Costa Rica station to persuade the DEA to back off: "El Salvador Station would appreciate Costa Rica Station advising DEA not to make any inquiries into anyone re: Hangar No. 4 at Ilopango since only legitimate CIA supported operations were conducted from this facility."[^15]
 
-#### Inspector General Investigation
+### Inspector General Investigation
 
 CIA Inspector General [[Fred Hitz]] testified before the House Intelligence Committee in March 1998 that the CIA "did not, in an expeditious or consistent fashion, cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking activity," including trafficking within the United States. His 400-page report documented CIA relationships with more than 50 suspected drug traffickers during the Contra war.[^14]
 
-#### Iran-Contra Indictments
+### Iran-Contra Indictments
 
 Multiple CIA officials were indicted during the Iran-Contra investigation. Clarridge was indicted on seven counts of perjury. Fernández was indicted on four counts. [[Alan Fiers]] pleaded guilty to withholding information from Congress. All were pardoned by former CIA director [[George H.W. Bush]].[^12]
 

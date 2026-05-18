@@ -1,18 +1,24 @@
 ---
-created: 2024-04-25
-updated: 2026-05-01
 title: PROMIS
+aliases:
+  - PROMIS
+  - Prosecutor's Management Information System
+created: 2024-04-25
+updated: 2026-05-17
 tags:
   - PROMIS
   - INSLAW
   - Conspiracy
-description: PROMIS, a case management software developed by INSLAW in the 1970s, faced controversy after being allegedly stolen by the U.S. Justice Department. It became central to conspiracy theories involving espionage, backdoors, and international proliferation, with ties to intelligence agencies and global criminal activities.
+  - Software
+  - Intelligence
+  - CIA
+  - DOJ
 category: "Software Project"
-summary: "In 1969, US Attorney Thomas A. Flannery perceived an urgent need for new techniques for dealing with the overwhelming amount of cases going through the U.S. Attorney's office."
-start: 1971
+summary: "PROMIS (Prosecutor's Management Information System) was a case management software developed by INSLAW beginning in 1971 that became the center of a major legal and intelligence scandal after the U.S. Justice Department allegedly stole the proprietary version and distributed it internationally with a hidden surveillance backdoor."
+start: 1971-01-01
 location: "Washington, D.C."
 ---
-**PROMIS** (**Prosecutor's Management Information System**) was a pioneering case management software system developed in the 1970s and 80s by [[INSLAW|The Institute for Law and Social Research]] (INSLAW). The software was originally designed to help the [[U.S. Attorney's office]] in DC automate and streamline their case management processes. This expanded across the country and internationally. However, it later became embroiled in controversy, theft, and conspiracy theories.
+PROMIS (Prosecutor's Management Information System) was a pioneering case management software system developed in the 1970s and 80s by [[INSLAW|The Institute for Law and Social Research]] (INSLAW). The software was originally designed to help the [[U.S. Attorney's office]] in DC automate and streamline their case management processes. This expanded across the country and internationally. However, it later became embroiled in controversy, theft, and conspiracy theories.
 ### Origins and Development
 
 In 1969, US Attorney [[Thomas A. Flannery]] perceived an urgent need for new techniques for dealing with the overwhelming amount of cases going through the [[U.S. Attorney's office|DC U.S. Attorney's Office]]. The [[Office of Crime Analysis of the District of Columbia]] (funded by the [[LEAA|Law Enforcement Assistance Administration]] (LEAA)) gave a $60,000 grant (70-DF-047) to [[Peat, Marwick, Mitchell & Co]] that put together a team of lawyers, management analysts, criminologists, statisticians, and computer science specialists to development a computer-based information system for the prosecutor.
@@ -64,7 +70,7 @@ The critical legal distinction in the [[PROMIS Software Scandal]] turned on whet
 The specific version delivered under Modification 12 on April 20, 1983, ran on a VAX minicomputer and is sometimes referred to as "VAX PROMIS." A Prime computer port was completed in August 1983 and installed across 20 U.S. Attorneys' offices. These VAX and Prime implementations were the versions at issue in the bankruptcy court litigation and in allegations that DOJ distributed enhanced PROMIS beyond the authorized 94 U.S. Attorneys' offices.[^1]
 ### Theft and Misappropriation by the U.S. Justice Department
 
-In March 1982, INSLAW signed a $10 million, three-year contract with the [[Department of Justice|DOJ's]] Executive Office for United States Attorneys to install PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. From the outset, disputes arose over proprietary rights: INSLAW claimed the delivered software incorporated enhancements developed at private expense after May 1981, while DOJ insisted the contract entitled it to unlimited rights over everything delivered. Contract administrator [[Peter Videnieks]] and project manager [[C. Madison Brewer]] — the latter a former general counsel of INSLAW's predecessor organization — took consistently adversarial positions on INSLAW's proprietary claims.[^1]
+In March 1982, INSLAW signed a $10 million, three-year contract with the [[Department of Justice|DOJ's]] Executive Office for United States Attorneys to install PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. From the outset, disputes arose over proprietary rights: INSLAW claimed the delivered software incorporated enhancements developed at private expense after May 1981, while DOJ insisted the contract entitled it to unlimited rights over everything delivered. Contract administrator [[Peter Videnieks]] and project manager [[C. Madison Brewer]] - the latter a former general counsel of INSLAW's predecessor organization - took consistently adversarial positions on INSLAW's proprietary claims.[^1]
 
 DOJ withheld advance payments citing an unauthorized pledge of government invoices to a bank, a dispute INSLAW characterized as pretextual. Under financial duress, INSLAW filed for Chapter 11 bankruptcy protection in February 1985. The bankruptcy proceedings became a second front of litigation: INSLAW alleged that senior DOJ officials, including [[Lowell Jensen]] and acting under direction ultimately traceable to [[Edwin Meese]] and [[Earl Brian]], engineered the advance payment disputes specifically to drive the company into insolvency and enable the acquisition of its software at bankruptcy auction prices.
 
@@ -92,7 +98,7 @@ In September 1987, Bankruptcy Judge [[George Francis Bason, Jr.]] ruled that DOJ
 
 The House Judiciary Committee launched a three-year investigation from 1989 to 1992, producing House Report 102-857 on September 10, 1992, which found "strong evidence" of DOJ theft and raised "serious concerns" about a high-level conspiracy. The report was unclassified and publicly available. Special Counsel [[Nicholas J. Bua]], appointed in November 1991, issued a 267-page report in March 1993 finding no credible evidence of criminal wrongdoing by any DOJ official. The Senate referred INSLAW's remaining claims to the Court of Federal Claims, which ruled in 1997-1998 that all PROMIS versions were in the public domain.
 
-[[Bill Hamilton]] maintained INSLAW's claims publicly for decades after the formal proceedings concluded. The international backdoor distribution allegations — particularly those concerning [[Rafael Eitan]], [[Robert Maxwell]], and [[Degem]] — were never formally adjudicated. A 2001 report alleged that FBI double agent [[Robert Hanssen]] provided PROMIS-derived software to his Soviet KGB handlers.[^1][^2]
+[[Bill Hamilton]] maintained INSLAW's claims publicly for decades after the formal proceedings concluded. The international backdoor distribution allegations - particularly those concerning [[Rafael Eitan]], [[Robert Maxwell]], and [[Degem]] - were never formally adjudicated. A 2001 report alleged that FBI double agent [[Robert Hanssen]] provided PROMIS-derived software to his Soviet KGB handlers.[^1][^2]
 
 ### Footnotes
 

@@ -35,7 +35,7 @@ When Celerino Castillo's investigation began probing the hangars, the CIA sent a
 
 U.S. Ambassador Edwin Corr sent a secret "back channel" cable to the State Department requesting an internal DEA review of Castillo's allegations. The DEA informed Corr that Castillo's information was "totally inaccurate" and Castillo was told to close his investigation. When he continued, Corr personally ordered him to "stop the witch hunt." Three years later, when Castillo opened another investigation into drug trafficking at Hangar No. 5, the CIA refused to allow him on the base.[^1]
 
-[[Alan Fiers|Alan Fiers Jr.]], the former CIA official who headed the Contra program from 1984 to 1988, acknowledged: "We had a capability and indeed a responsibility for reporting what had been happening at Ilopango." The DEA later claimed under FOIA that it had no reports from Castillo about drug trafficking at Ilopango—a claim the Justice Department Inspector General exposed as false, having found and quoted from the reports liberally.[^1]
+[[Alan Fiers|Alan Fiers Jr.]], the former CIA official who headed the Contra program from 1984 to 1988, acknowledged: "We had a capability and indeed a responsibility for reporting what had been happening at Ilopango." The DEA later claimed under FOIA that it had no reports from Castillo about drug trafficking at Ilopango - a claim the Justice Department Inspector General exposed as false, having found and quoted from the reports liberally.[^1]
 
 ### Footnotes
 

@@ -1,16 +1,20 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Tom McNear
 aliases:
-- Tom McNear
+  - Tom McNear
   - Captain Tom McNear
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
   - Person
   - RemoteViewer
   - Military
-summary: "Tom McNear was a Captain in military intelligence and one of the two original Ingo Swann trainees in CRV, starting in 1981."
+  - PSI
+  - Stargate
+  - 1980s
+summary: "Tom McNear was a U.S. Army military intelligence captain who became one of the first two soldiers trained by Ingo Swann in Coordinate Remote Viewing beginning in 1981, authored the 1985 DoD CRV manual declassified in 2000, and was assessed by Swann as surpassing his own abilities before requesting transfer from the Fort Meade unit."
 ---
-
-# Tom McNear
 
 Tom McNear was a Captain in military intelligence and one of the two original [[Ingo Swann]] trainees in [[Coordinate Remote Viewing|CRV]], starting in 1981. He immediately showed considerable talent in remote viewing, though his training progressed slowly[^1].
 

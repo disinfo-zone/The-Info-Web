@@ -9,7 +9,7 @@ tags:
   - ColdWar
 summary: "Russia is the successor state to the Soviet Union and home to the KGB's successor agencies (FSB, SVR, GRU); it appears in this vault primarily as the origin of the Cold War intelligence apparatus that generated the American intelligence programs, parapsychology research, and covert operations documented throughout."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Moscow, Russia"
 ---
 

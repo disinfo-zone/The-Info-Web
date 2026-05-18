@@ -20,7 +20,7 @@ DEA agent [[Celerino Castillo]] discovered Contra cocaine trafficking at [[Ilopa
 
 ### Castillo Investigation and Ilopango
 
-Celerino Castillo discovered Contra cocaine trafficking at Ilopango Air Force Base in El Salvador and was subsequently forced to retire.[^2] Castillo began firing off reports to DEA headquarters in January 1986 about suspicious activities of Contra pilots, listing their names, destinations, tail numbers, and criminal records. He received no replies and no offers of assistance. When Ambassador Edwin Corr requested an internal DEA review, the DEA informed him that Castillo's information was "totally inaccurate" and ordered him to close the investigation. The DEA later claimed under FOIA that it had no reports from Castillo about drug trafficking at Ilopango—a claim the Justice Department Inspector General exposed as false, having located and quoted from the reports.[^6]
+Celerino Castillo discovered Contra cocaine trafficking at Ilopango Air Force Base in El Salvador and was subsequently forced to retire.[^2] Castillo began firing off reports to DEA headquarters in January 1986 about suspicious activities of Contra pilots, listing their names, destinations, tail numbers, and criminal records. He received no replies and no offers of assistance. When Ambassador Edwin Corr requested an internal DEA review, the DEA informed him that Castillo's information was "totally inaccurate" and ordered him to close the investigation. The DEA later claimed under FOIA that it had no reports from Castillo about drug trafficking at Ilopango - a claim the Justice Department Inspector General exposed as false, having located and quoted from the reports.[^6]
 
 ### Costa Rica: Kelso Investigation
 
@@ -34,7 +34,7 @@ The DEA possessed extensive knowledge of Blandón's drug dealing years before re
 
 ### Relationship with Meneses
 
-Norwin Meneses worked as a DEA informant from 1985 to 1991 despite being under federal indictment for drug trafficking since 1989.[^2] In Costa Rica, DEA agent [[Sandalio Gonzalez]] handled Meneses as an off-the-books informant whose name did not appear in DEA databases until 1987, preventing other DEA offices from knowing about his status. DEA public affairs chief James McGivney offered to facilitate an interview with Meneses but demanded a "quid pro quo"—that reporters leave out details about Danilo Blandón's relationship with the DEA.[^5]
+Norwin Meneses worked as a DEA informant from 1985 to 1991 despite being under federal indictment for drug trafficking since 1989.[^2] In Costa Rica, DEA agent [[Sandalio Gonzalez]] handled Meneses as an off-the-books informant whose name did not appear in DEA databases until 1987, preventing other DEA offices from knowing about his status. DEA public affairs chief James McGivney offered to facilitate an interview with Meneses but demanded a "quid pro quo" - that reporters leave out details about Danilo Blandón's relationship with the DEA.[^5]
 
 During 1987 Senate subcommittee hearings, Senator [[John Kerry]] told DEA director Jack Lawn that "the head of the DEA office in Costa Rica was interviewed by this committee and he told us that the infrastructure that was used to supply the Contras was used to smuggle drugs." Lawn said he was not familiar with the report. The DEA's position was that there was "no credible evidence" to support such allegations. The DEA officer in question, Robert J. Nieves, was Meneses's control agent throughout the remainder of the 1980s.[^5]
 

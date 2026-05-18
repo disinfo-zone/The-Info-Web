@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Country"
 tags:
   - Country
   - Egypt
@@ -8,7 +8,7 @@ tags:
   - ColdWar
 summary: "Egypt is a country in northeastern Africa whose modern intelligence history spans from Nasser's Arab nationalism and Soviet alignment through Sadat's pivot to the United States, the Camp David Accords, and Mubarak's role as a U.S. client state - with the CIA maintaining extensive ties to Egyptian intelligence throughout."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Cairo, Egypt"
 ---
 

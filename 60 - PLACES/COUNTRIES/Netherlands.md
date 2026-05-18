@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "Country"
 tags:
   - Country
   - Netherlands
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "The Netherlands appears in this vault primarily in connection with the Dutch pedophile network investigations (the Rolodex Investigation, Joris Demmink, Karel Maasdam's Bell Boys), Amsterdam as a hub for international pedophile organizations, and Francis Shelden's final years in exile there."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "The Hague, Netherlands"
 ---
 

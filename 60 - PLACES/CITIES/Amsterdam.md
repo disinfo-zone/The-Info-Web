@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - Netherlands
@@ -8,7 +8,7 @@ tags:
   - Arms
 summary: "Amsterdam is the capital of the Netherlands and a city whose presence in this vault relates primarily to three intersecting subjects: the Dutch and international pedophile advocacy networks operating through publications based there in the 1970s-1980s, Francis Shelden's flight there after the North Fox Island abuse network collapsed, and the city's role as a node in European arms brokering networks."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Amsterdam, Netherlands"
 ---
 

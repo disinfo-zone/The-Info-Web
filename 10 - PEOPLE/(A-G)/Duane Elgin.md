@@ -14,7 +14,7 @@ location: "Nampa, Idaho"
 
 Elgin demonstrated strong psychic abilities, performing well in remote viewing tests and even trying his hand at psychokinesis. He claimed to have made a pendulum swing wildly just by concentrating on it. His interest in [[Parapsychology|psi]] phenomena intensified and began to profoundly change his life. He wrote a futurological report declaring that if psi were not taken more seriously by mainstream science, there might soon be a "civil war" between psychics and non-psychics.[^1]
 
-Elgin eventually left SRI and took up with a Tibetan guru. He remained sane and functional, later becoming a successful author. His psi experiences at SRI were deeply transformative for him, leading him to believe that "Once you discover that space doesn't matter, or that time can be travelled through at will so that time doesn't matter, and that matter can be moved by consciousness so that matter doesn't matter—well, you can't go home again."[^1]
+Elgin eventually left SRI and took up with a Tibetan guru. He remained sane and functional, later becoming a successful author. His psi experiences at SRI were deeply transformative for him, leading him to believe that "Once you discover that space doesn't matter, or that time can be travelled through at will so that time doesn't matter, and that matter can be moved by consciousness so that matter doesn't matter - well, you can't go home again."[^1]
 
 ---
 

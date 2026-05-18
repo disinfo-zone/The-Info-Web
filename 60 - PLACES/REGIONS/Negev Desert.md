@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Region"
 tags:
   - Region
   - Israel
@@ -8,7 +8,7 @@ tags:
   - SouthAfrica
 summary: "The Negev Desert is the arid southern region of Israel comprising approximately 60 percent of the country's land area; it appears in this vault primarily as the location of the Negev Nuclear Research Center near Dimona, where Israel developed its undeclared nuclear weapons program beginning in the late 1950s with French technical assistance, and which was exposed publicly by Mordechai Vanunu in 1986."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Negev Desert, Israel"
 ---
 

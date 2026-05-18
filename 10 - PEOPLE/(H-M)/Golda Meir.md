@@ -22,7 +22,7 @@ As Foreign Minister, [[Golda Meir|Meir]] was instrumental in expanding [[Israel]
 
 ### Jordan Relations and Palestinian Policy
 
-Meir's approach to regional politics was shaped by her personal relationships and strategic calculations. In 1948, she formed a friendship with [[King Abdullah of Jordan|King Abdullah]] of [[Jordan]], and both leaders believed the Palestinian problem would eventually resolve itself—a view that would prove overly optimistic in subsequent decades.[^1]
+Meir's approach to regional politics was shaped by her personal relationships and strategic calculations. In 1948, she formed a friendship with [[King Abdullah of Jordan|King Abdullah]] of [[Jordan]], and both leaders believed the Palestinian problem would eventually resolve itself - a view that would prove overly optimistic in subsequent decades.[^1]
 
 This perspective influenced a critical decision during her later tenure. Her choice to mobilize the [[Israel|IDF]] against the [[Syria|Syrians]] in 1970, during a crisis with the [[PLO]] in [[Jordan]], had far-reaching consequences. While this action prevented the establishment of a Palestinian state in [[Jordan]] and kept [[King Hussein of Jordan|King Hussein]] in power, it also represented a complex strategic calculation. The intervention pleased the [[United States|Americans]] by preventing a threat to [[Saudi Arabia|Saudi]] oilfields, but was seen by some as a major setback for [[Israel|Israel's]] long-term strategic interest in a Palestinian state.[^1]
 

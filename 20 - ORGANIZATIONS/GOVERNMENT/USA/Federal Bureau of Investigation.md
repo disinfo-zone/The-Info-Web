@@ -24,7 +24,7 @@ One notable instance involved an FBI official seeking [[Norm Everheart]]'s help 
 
 ### Dark Alliance Investigation
 
-During the Contra war, the FBI investigated — and in some cases suppressed — connections between [[Contras|Contra]] supporters and [[cocaine]] trafficking. In 1982, the FBI identified [[Fernando Sanchez|Fernando Sánchez]] and [[Horacio Pereira]] as cocaine suppliers to the Contra drug operation in [[San Francisco]]. In 1987, Contra supporter [[Dennis Ainsworth]] told the FBI that [[Norwin Meneses]] "ran one of the major distributions in the U.S. He was national. And he was totally protected." The FBI took no apparent action.[^2]
+During the Contra war, the FBI investigated - and in some cases suppressed - connections between [[Contras|Contra]] supporters and [[cocaine]] trafficking. In 1982, the FBI identified [[Fernando Sanchez|Fernando Sánchez]] and [[Horacio Pereira]] as cocaine suppliers to the Contra drug operation in [[San Francisco]]. In 1987, Contra supporter [[Dennis Ainsworth]] told the FBI that [[Norwin Meneses]] "ran one of the major distributions in the U.S. He was national. And he was totally protected." The FBI took no apparent action.[^2]
 
 Between 1983 and 1986, the FBI opened five separate investigations of [[Ronald Lister]] for trafficking in illegal weapons. In September 1983, [[Pyramid International Security Consultants]] came under FBI scrutiny for Neutrality Act violations involving weapons sales to [[El Salvador]] and Saudi loans. Despite the Saudi government's involvement in financing covert operations, "no further information was ever developed."[^3]
 

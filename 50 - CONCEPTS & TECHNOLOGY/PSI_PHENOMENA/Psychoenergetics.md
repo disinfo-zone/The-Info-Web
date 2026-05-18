@@ -1,4 +1,10 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Psychoenergetics
+aliases:
+  - Psychoenergetics
+  - Psychotronic Research
 category: "Psi Phenomenon"
 tags:
   - Concept
@@ -7,7 +13,7 @@ tags:
   - Stargate
   - Soviet
   - China
-  - Cold_War
+  - ColdWar
   - Military
 summary: "Psychoenergetics was the Soviet-coined and DIA-adopted term for government parapsychology research covering clairvoyance, telepathy, and psychokinesis as potential intelligence tools, with the DIA's 1981 Psychoenergetics program serving as organizational predecessor to STAR GATE."
 ---

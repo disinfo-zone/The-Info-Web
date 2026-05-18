@@ -1,5 +1,5 @@
----
-category: "Organized Crime"
+﻿---
+category: "Landmark"
 tags:
   - Place
   - Michigan
@@ -7,7 +7,7 @@ tags:
   - OaklandCountyChildKiller
 summary: "North Fox Island is a private island in Lake Michigan owned by Francis Shelden that served as the operational base of a child pornography and abuse network under the front organization Brother Paul's Children's Mission, discovered by law enforcement in July 1976."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Leelanau County, Michigan, USA"
 ---
 

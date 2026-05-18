@@ -1,4 +1,4 @@
----
+﻿---
 category: "Country"
 summary: "Jordan is a Middle Eastern country whose capital Amman is home to the Arab Bank Limited, which under Chairman Abdul Majeed Shoman expressed willingness to process multi-billion-dollar reconstruction fund transfers connected to FIDCO and Lebanon-related covert finance operations."
 ---

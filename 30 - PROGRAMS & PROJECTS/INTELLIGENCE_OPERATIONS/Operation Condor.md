@@ -1,15 +1,24 @@
 ﻿---
+created: 2026-05-14
+updated: 2026-05-17
+title: Operation Condor
+aliases:
+  - Operation Condor
+  - Operacion Condor
 category: "Intelligence Operation"
 tags:
   - Program
   - CIA
-  - OperationCondor
   - LatinAmerica
   - Assassination
+  - Chile
+  - Argentina
   - ColdWar
-summary: "Operation Condor was a CIA-facilitated transnational program of political repression, intelligence sharing, and assassination coordinated among six South American military dictatorships (Chile, Argentina, Uruguay, Bolivia, Paraguay, Brazil) from 1975 onward, which tracked and killed an estimated 60,000 people including opponents who had fled across borders."
-created: 2026-05-14
-updated: 2026-05-17
+  - 1970s
+  - 1980s
+summary: "Operation Condor was a CIA-facilitated transnational program of political repression, intelligence sharing, and assassination coordinated among six South American military dictatorships from November 1975, tracking and killing an estimated 60,000 people including opponents who had fled across borders."
+start: 1975-11-01
+location: "Santiago, Chile / Buenos Aires, Argentina"
 ---
 
 Operation Condor (Spanish: Operacion Condor) was a clandestine program of political repression and intelligence cooperation established in November 1975 among the military intelligence services of six South American nations: [[Chile]] (led by [[Augusto Pinochet]]'s DINA), [[Argentina]], [[Uruguay]], [[Bolivia]], [[Paraguay]], and [[Brazil]]. The program was facilitated by the [[Central Intelligence Agency]], which provided communications infrastructure, training, and operational support. Condor coordinated the identification, tracking, interrogation, and assassination of left-wing political opponents - including those who had fled across borders seeking refuge - resulting in an estimated 60,000 deaths across the participant countries.[^1]
@@ -18,9 +27,9 @@ Operation Condor (Spanish: Operacion Condor) was a clandestine program of politi
 
 The founding meeting occurred in [[Santiago]], Chile, in November 1975, organized by Chilean DINA chief [[Manuel Contreras]] under CIA Station Chief Theodore Shackley's authority. Representatives of the intelligence services of all six founding members attended. The operational structure was divided into three phases:
 
-- **Phase I** (Condor I): Exchange of intelligence on political opponents among member states
-- **Phase II** (Condor II): Cross-border kidnapping and assassination operations to eliminate opponents who had fled to other member states
-- **Phase III** (Condor III): Operations in Europe and North America against high-profile political figures and exiles
+- Phase I (Condor I): Exchange of intelligence on political opponents among member states
+- Phase II (Condor II): Cross-border kidnapping and assassination operations to eliminate opponents who had fled to other member states
+- Phase III (Condor III): Operations in Europe and North America against high-profile political figures and exiles
 
 The communications network (called Condortel) was established through a secure telex system connected through U.S. military telecommunications infrastructure in the [[Panama Canal Zone]] and later through equipment provided directly by the CIA.[^2]
 

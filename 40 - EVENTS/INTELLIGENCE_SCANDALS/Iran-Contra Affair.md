@@ -1,20 +1,25 @@
 ---
+title: Iran-Contra Affair
+aliases:
+  - Iran-Contra Affair
+  - Iran-Contra
+  - Irangate
+created: 2024-04-25
+updated: 2026-05-17
 tags:
   - Event
   - Political
-  - United_States
+  - UnitedStates
   - 1980s
-  - Contra_War
+  - ContraWar
   - Iran
   - Nicaragua
-  - Dark_Alliance_Investigation
+  - DarkAlliance
 category: "Intelligence Scandal"
-created: 2024-04-25
-updated: 2026-05-01
 summary: "Political scandal involving the secret sale of arms to Iran to fund the Nicaraguan Contras in violation of the Boland Amendment, leading to indictments of multiple CIA and NSC officials."
-start: 1985
-end: 1987
-location: ["United States", "Iran", "Nicaragua"]
+start: 1985-01-01
+end: 1987-01-01
+location: "United States / Iran / Nicaragua"
 ---
 The [[Iran-Contra Affair]] was a political scandal in the [[United States]] that came to light between 1985 and 1987, involving the secret sale of arms to [[Iran]] by the [[Ronald Reagan|Reagan]] administration in exchange for American hostages held in [[Lebanon]], with the profits illegally diverted to fund the [[Contras]] in [[Nicaragua]] in violation of congressional prohibitions. The scandal exposed the agency's direct management of the Contra war and the National Security Council's transformation into an operational intelligence agency based inside the White House.[^1][^2]
 
@@ -24,17 +29,17 @@ Between 1982 and 1986, Congress passed a series of amendments (known as the Bola
 
 ### Key Figures
 
-#### Oliver North and the Enterprise
+### Oliver North and the Enterprise
 
 [[Oliver North]], a Lieutenant Colonel in the [[United States Marine Corps]] serving on the National Security Council staff, ran an illegal Contra resupply operation from the White House. He was alleged to have received drug profits from [[Monzer Al-Kassar]], a Syrian kingpin and arms dealer, which were then used to purchase arms for the Contras. The [[United States]] Tower Commission probe into Iran-gate specifically revealed that Al-Kassar had been paid $1.2 million by North's co-conspirator, General [[Richard Secord]], to facilitate the movement of weapons from [[Israel]] to the Contras.[^1][^3]
 
 North's "Enterprise" used [[Ilopango Airbase]] in [[El Salvador]] to funnel weapons to the Contras and reportedly brought [[cocaine]] back on return flights.[^4]
 
-#### Arms-for-Hostages Middlemen
+### Arms-for-Hostages Middlemen
 
 [[Adnan Khashoggi]], an international arms merchant, and [[Manucher Ghorbanifar]], an Iranian arms dealer, served as crucial middlemen in the arms-for-hostages exchange. Khashoggi was found to have borrowed money for these arms purchases from the now-bankrupt [[Bank of Credit and Commerce International|BCCI]], with financial backing from Saudi and U.S. sources. [[Ari Ben-Menashe]], a self-proclaimed Israeli military intelligence officer, played a role in exposing the scandal by tipping off an obscure Lebanese magazine. [[Barbara Honegger]], a former Reagan White House aide, alleged in her book *October Surprise* that [[Monzer Al-Kassar]]'s heroin smuggling network in [[Italy]] was utilized to launder [[North Atlantic Treaty Organization|NATO]] arms stocks, diverting them to Iran with the assistance of corrupt Italian intelligence officials linked to the secretive fascist Masonic lodge, P2.[^1]
 
-#### Indictments and Pardons
+### Indictments and Pardons
 
 [[Dewey Clarridge]], former chief of the CIA's Latin American Division, was indicted on seven counts of perjury. [[Joseph Fernandez|Joseph Fernández]], CIA station chief in [[Costa Rica]], was indicted on four counts. [[Alan Fiers]], who took over the Contra project in 1984, pleaded guilty to withholding information from Congress. All were pardoned by former CIA director [[George H.W. Bush]].[^2]
 

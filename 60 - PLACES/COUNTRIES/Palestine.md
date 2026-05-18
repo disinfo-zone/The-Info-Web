@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Country"
 tags:
   - Country
   - Palestine
@@ -9,7 +9,7 @@ tags:
   - Israel
 summary: "Palestine is the name used for the territory comprising the West Bank, Gaza Strip, and East Jerusalem claimed for an independent Palestinian state; Palestinian organizations including the PLO, Black September, and PFLP figure extensively in the vault's Mossad operations and Israeli intelligence subjects, as do the CIA's relations with Palestinian intelligence."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Ramallah / Gaza City"
 ---
 

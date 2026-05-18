@@ -90,7 +90,7 @@ Historical movements, social phenomena, and esoteric topics documented in the re
 | [[The Finders and The Odyssey Network]] | On February 4, 1987, police in Tallahassee, Florida received a call about six dishevelled children in a park under the supervision of two well-dressed men. |
 | [[The Nautilus]] | The USS Nautilus (SSN-571) was the world's first operational nuclear-powered submarine, launched by the United States in 1954. It gained notoriety in the context of psychic research due to a fabricated story published in 1960.[^1] |
 | [[The Nine Principles and Forces]] | The Nine Principles and Forces' was the name given to a group of entities that the Hindu mystic Dr. D. G. Vinod allegedly channeled during a séance at Andrija Puharich's Round Table Foundation on New Year's Eve, 1952.[^1] |
-| [[THE PHENOMENON]] | The phenomenon is a multi-thousand year old interaction between humanity and non human intelligence. Over this period, it has been discussed under a variety of names such as gods, angels, demons, spirits, various folklore creatures, flying ships,... |
+| [[The Phenomenon]] | The phenomenon is a multi-thousand year old interaction between humanity and non human intelligence. Over this period, it has been discussed under a variety of names such as gods, angels, demons, spirits, various folklore creatures, flying ships,... |
 
 ## Nuclear Concepts
 Nuclear weapons, proliferation, treaties, and related technologies.

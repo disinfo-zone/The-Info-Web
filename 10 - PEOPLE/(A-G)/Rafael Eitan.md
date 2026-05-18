@@ -1,17 +1,26 @@
 ---
-category: "Intelligence & Government"
+title: Rafael Eitan
+aliases:
+  - Rafael Eitan
+  - Rafi Eitan
+  - Rafi the Stinker
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
-  - CIA
   - Israel
-  - Military
+  - Mossad
+  - LAKAM
   - PROMIS
-summary: "Rafael Eitan, also known as 'Rafi the stinker,' was an ambitious Israeli clandestine operative and a crony of Ariel Sharon."
+  - JonathanPollard
+  - Intelligence
+  - 1970s
+  - 1980s
+summary: "Rafael Eitan was a veteran Israeli intelligence operative who led the LAKAM science intelligence bureau, ran Jonathan Pollard as an intelligence asset against the United States, and was alleged by multiple sources to have acquired and internationally distributed PROMIS software with a hidden surveillance backdoor."
 born: 1926-11-23
 died: 2019-03-23
-location: "Kibbutz Ein Harod, British Mandate Palestine"
+location: "Tel Aviv, Israel"
 ---
 Rafael Eitan, also known as "Rafi the stinker," was an ambitious Israeli clandestine operative and a crony of [[Ariel Sharon]]. He was appointed the new head of [[LAKAM]] (Science Liaison Bureau) and also served as [[Menachem Begin]]'s special assistant for counterterrorism. Eitan had participated in the 1960 kidnapping of [[Adolf Eichmann]] in [[Buenos Aires]] and was a veteran of many operations inside the Arab world. He had been forced to resign from [[Mossad]] years earlier and was bitter about his stunted career and the failure of [[Mossad]] and [[Israel]]'s other intelligence agencies to cooperate with his counterterrorism office.[^1]
 
@@ -25,7 +34,7 @@ After the [[Sabra and Shatila massacres]], Eitan remained in [[Menachem Begin]]'
 
 ### PROMIS and LAKAM Intelligence Operations
 
-Eitan is alleged to have played a central role in the Israeli acquisition and international distribution of the [[PROMIS]] software. According to Gordon Thomas's account in *Gideon's Spies*, Eitan traveled to the [[United States]] posing as an Israeli Ministry of Justice assistant prosecutor and met with [[INSLAW]] founder [[Bill Hamilton]], acquiring a copy of PROMIS through back-channel contacts with the [[Department of Justice]].[^2] Eitan then assembled a team of former [[LAKAM]] programmers who deconstructed the software, rearranged its components, and embedded a "trapdoor" — a built-in chip enabling covert remote monitoring of any database queried by a user of the modified program.[^2]
+Eitan is alleged to have played a central role in the Israeli acquisition and international distribution of the [[PROMIS]] software. According to Gordon Thomas's account in *Gideon's Spies*, Eitan traveled to the [[United States]] posing as an Israeli Ministry of Justice assistant prosecutor and met with [[INSLAW]] founder [[Bill Hamilton]], acquiring a copy of PROMIS through back-channel contacts with the [[Department of Justice]].[^2] Eitan then assembled a team of former [[LAKAM]] programmers who deconstructed the software, rearranged its components, and embedded a "trapdoor" - a built-in chip enabling covert remote monitoring of any database queried by a user of the modified program.[^2]
 
 Eitan stated regarding PROMIS: "We can use that program to stamp out terrorism by keeping track of everyone. But not only that, we can find out what our enemies know too."[^3] He reportedly admitted collaborating with CIA officials in selling "more than half a billion dollars worth of INSLAW's PROMIS to foreign intelligence and law enforcement agencies" as part of joint covert operations to steal intelligence from foreign governments.[^3]
 

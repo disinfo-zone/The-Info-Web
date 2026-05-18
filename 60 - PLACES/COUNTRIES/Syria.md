@@ -1,4 +1,4 @@
----
+﻿---
 category: "Country"
 summary: "Syria is a Middle Eastern country whose Hafez al-Assad government controlled the Bekaa Valley heroin trade, maintained back-channel relations with Washington during the hostage crisis, and appears in this vault through its drug trafficking networks and connections to Lebanon-based intelligence operations."
 ---

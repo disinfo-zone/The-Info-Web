@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Region"
 tags:
   - Region
   - Palestine
@@ -8,7 +8,7 @@ tags:
   - Intelligence
 summary: "The West Bank is the Palestinian territory captured by Israel in the 1967 Six-Day War and subsequently occupied; its political status and the intelligence operations conducted there by Israeli security forces are relevant to the vault's Mossad, Shin Bet, and Palestinian intelligence subjects."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "West Bank, Palestinian Territories"
 ---
 

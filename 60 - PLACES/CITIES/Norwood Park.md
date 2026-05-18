@@ -1,12 +1,12 @@
----
-category: "Organized Crime"
+﻿---
+category: "City"
 tags:
   - Place
   - Illinois
   - JohnWayneGacy
 summary: "Norwood Park is a township on the northwest edge of Chicago, Illinois, where John Wayne Gacy lived and committed at least 33 murders between 1972 and 1978, burying most of his victims beneath his house at 8213 West Summerdale Avenue."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Cook County, Illinois, USA"
 ---
 

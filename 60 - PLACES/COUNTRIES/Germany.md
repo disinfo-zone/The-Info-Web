@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "Country"
 tags:
   - Country
   - Germany
@@ -10,7 +10,7 @@ tags:
   - Paperclip
 summary: "Germany appears throughout this vault as the site of the post-World War II CIA-Gehlen Organization relationship, the recruitment of Nazi intelligence personnel under Operation Paperclip, the Cold War front line at the Berlin Wall, and the base for numerous NATO intelligence operations and arms export networks."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Berlin, Germany"
 ---
 

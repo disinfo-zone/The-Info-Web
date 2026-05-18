@@ -31,15 +31,15 @@ General Lemnitzer, Chairman of the Joint Chiefs, and the Department of Defense's
 
 The NORTHWOODS document proposed a range of false-flag operations:
 
-**"Remember the Maine" scenario**: A staged sabotage operation against a U.S. Navy vessel at Guantanamo Bay that could be portrayed as a Cuban attack. The document suggested an unmanned drone ship could be sunk to minimize casualties, or alternatively that a real incident could be staged.
+"Remember the Maine" scenario: A staged sabotage operation against a U.S. Navy vessel at Guantanamo Bay that could be portrayed as a Cuban attack. The document suggested an unmanned drone ship could be sunk to minimize casualties, or alternatively that a real incident could be staged.
 
-**Simulated attacks on Guantanamo**: Staging mortar attacks on the Guantanamo perimeter, having U.S. Marines fire at each other in a way that could be attributed to Cuban snipers, and blowing up ammunition at Guantanamo and blaming Cuba.
+Simulated attacks on Guantanamo: Staging mortar attacks on the Guantanamo perimeter, having U.S. Marines fire at each other in a way that could be attributed to Cuban snipers, and blowing up ammunition at Guantanamo and blaming Cuba.
 
-**Terror campaign in Miami and Washington D.C.**: The document proposed staging "a Communist Cuban terror campaign in the Miami area, in other Florida cities and even in Washington." This included sinking boats carrying Cuban refugees, attacks on Cuban exiles who had "been to retaliate against any Cubans who assisted the US in the invasion," and U.S.-staged bombings.
+Terror campaign in Miami and Washington D.C.: The document proposed staging "a Communist Cuban terror campaign in the Miami area, in other Florida cities and even in Washington." This included sinking boats carrying Cuban refugees, attacks on Cuban exiles who had "been to retaliate against any Cubans who assisted the US in the invasion," and U.S.-staged bombings.
 
-**Staged aircraft incidents**: Proposing to use CIA aircraft painted to simulate Cuban Air Force colors to harass or "attack" U.S. aircraft over international waters, creating incidents that could be documented and publicized. A separate proposal suggested that a passenger aircraft could be hijacked by a "Cuban" (actually a U.S. covert operations team), diverting it and creating an international incident.
+Staged aircraft incidents: Proposing to use CIA aircraft painted to simulate Cuban Air Force colors to harass or "attack" U.S. aircraft over international waters, creating incidents that could be documented and publicized. A separate proposal suggested that a passenger aircraft could be hijacked by a "Cuban" (actually a U.S. covert operations team), diverting it and creating an international incident.
 
-**Killing of Americans**: The document explicitly contemplated staging incidents in which American citizens were killed, attributable to Cuba.[^1]
+Killing of Americans: The document explicitly contemplated staging incidents in which American citizens were killed, attributable to Cuba.[^1]
 
 ### Rejection
 

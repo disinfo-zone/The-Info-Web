@@ -1,10 +1,10 @@
----
+﻿---
 aliases:
   - North Korea
   - DPRK
   - Democratic People's Republic of Korea
   - Korean People's Republic
-category: "Asia"
+category: "Country"
 tags:
   - Country
   - Korea

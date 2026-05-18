@@ -18,11 +18,11 @@ Five Eyes (FVEY) is the informal name for the intelligence alliance between the 
 ### Member Agencies
 
 The five principal SIGINT agencies party to the UKUSA Agreement are:
-- **[[United States]]**: [[NSA|National Security Agency]] (NSA)
-- **[[United Kingdom]]**: [[GCHQ]] (Government Communications Headquarters)
-- **[[Australia]]**: Australian Signals Directorate (ASD), formerly Defence Signals Directorate
-- **[[Canada]]**: Communications Security Establishment (CSE / CSTC)
-- **New Zealand**: Government Communications Security Bureau (GCSB)
+- [[United States]]: [[NSA|National Security Agency]] (NSA)
+- [[United Kingdom]]: [[GCHQ]] (Government Communications Headquarters)
+- [[Australia]]: Australian Signals Directorate (ASD), formerly Defence Signals Directorate
+- [[Canada]]: Communications Security Establishment (CSE / CSTC)
+- New Zealand: Government Communications Security Bureau (GCSB)
 
 Domestic intelligence and counterintelligence agencies from the same countries - the CIA, [[MI6]], [[MI5]], [[Canadian Security Intelligence Service|CSIS]], ASIO, and NZSIS - have separate but overlapping liaison relationships that derive from the UKUSA framework.
 

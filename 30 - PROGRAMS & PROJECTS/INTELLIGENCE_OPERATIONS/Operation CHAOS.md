@@ -1,18 +1,25 @@
 ---
+created: 2026-05-17
+updated: 2026-05-17
+title: Operation CHAOS
+aliases:
+  - MHCHAOS
+  - Operation CHAOS
+  - MH/CHAOS
 tags:
   - Program
   - CIA
   - Intelligence
-  - Domestic_Surveillance
+  - DomesticSurveillance
   - Counterintelligence
-  - Cold_War
+  - ColdWar
   - 1960s
   - 1970s
-  - Church_Committee
+  - ChurchCommittee
 category: "Intelligence Operation"
 summary: "Operation CHAOS (MHCHAOS) was a CIA domestic counterintelligence program (August 1967-March 1974) that infiltrated antiwar and counterculture organizations, maintaining files on approximately 7,200 Americans and a 300,000-name index before exposure by the Church Committee."
-start: 1967
-end: 1974
+start: 1967-08-01
+end: 1974-03-01
 location: "Washington, D.C."
 ---
 Operation CHAOS, known in CIA cable traffic as MHCHAOS, was a domestic counterintelligence program run by the [[Central Intelligence Agency|CIA]] from August 1967 to March 1974. It was initiated under Director of Central Intelligence [[Richard Helms]] at the direction of President [[Lyndon B. Johnson|Lyndon Johnson]] and substantially expanded under President [[Richard Nixon|Nixon]]. The program operated under the Counterintelligence Staff, which was headed by [[James Jesus Angleton]], and was directly managed by [[Richard Ober]] of the Special Operations Group. At peak staffing in 1971, CHAOS employed 52 personnel. It was exposed by [[Seymour Hersh]] in the New York Times on December 22, 1974, and subsequently documented by the [[Church Committee]] in 1976 and the [[Rockefeller Commission]] in 1975.[^1][^2]

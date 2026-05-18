@@ -1,14 +1,18 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Don Keach
 aliases:
-- Don Keach
-category: "Psychics & Remote Viewers"
+  - Don Keach
+category: "Military"
 tags:
   - Person
-  - RemoteViewer
-summary: "Don Keach was a renowned deep-sea explorer and former naval officer."
+  - Navy
+  - PSI
+  - RemoteViewing
+  - 1970s
+summary: "Don Keach was a former U.S. Navy officer and deep-sea explorer at the University of Southern California who located a lost hydrogen bomb off Palomares, Spain in 1966 and facilitated Stephan Schwartz's Project Deep Quest by providing access to the submersible Taurus I in 1977."
 ---
-
-# Don Keach
 
 Don Keach was a renowned deep-sea explorer and former naval officer. He is famous for his role as the submarine pilot who, in 1966, located a lost hydrogen bomb lying on the ocean floor off the coast of Palomares, Spain, after it was jettisoned from a B-52 bomber during a midair collision[^1].
 

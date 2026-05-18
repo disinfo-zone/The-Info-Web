@@ -1,12 +1,20 @@
 ---
-category: "Key Figures"
+created: 2026-05-17
+updated: 2026-05-17
+title: Russell Targ
+aliases:
+  - Russell Targ
 tags:
   - Person
   - Stargate
-  - Physicist
-  - RemoteViewer
   - SRI
-summary: "Russell Targ is a physicist who, in the early 1970s, joined Hal Puthoff at Stanford Research Institute (SRI) to lead the remote viewing research program."
+  - Physics
+  - RemoteViewing
+  - PSI
+  - 1970s
+  - 1980s
+category: "Intelligence & Government"
+summary: "Russell Targ is a laser physicist who co-founded the Stanford Research Institute remote viewing program with Hal Puthoff in 1972 under CIA contract, co-authored the program's landmark 1974 Nature paper and 1976 IEEE paper, and continued parapsychology research and writing after leaving SRI."
 born: 1934-04-11
 location: "Chicago, Illinois"
 ---

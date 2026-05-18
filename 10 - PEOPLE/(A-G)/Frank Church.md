@@ -1,16 +1,22 @@
 ﻿---
+created: 2026-05-17
+updated: 2026-05-17
+title: Frank Church
+aliases:
+  - Frank Church
+  - Frank Forrester Church III
 category: "Intelligence & Government"
 tags:
   - Person
-  - US_Senate
-  - Church_Committee
+  - USSenate
+  - ChurchCommittee
   - CIA
   - FBI
-  - Congressional_Investigation
-  - Cold_War
-  - 1975
-  - 1976
-summary: "Frank Church (1924-1984) was a Democratic senator from Idaho who chaired the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (1975-1976), the landmark investigation that documented COINTELPRO, Operation CHAOS, assassination plots against foreign leaders, and illegal domestic surveillance by the CIA, FBI, and NSA."
+  - CongressionalInvestigation
+  - ColdWar
+  - 1970s
+  - 1980s
+summary: "Frank Church was a Democratic senator from Idaho who chaired the 1975-1976 Senate Select Committee on Intelligence Activities that documented COINTELPRO, Operation CHAOS, assassination plots against foreign leaders, and illegal domestic surveillance by the CIA, FBI, and NSA."
 born: 1924-07-25
 died: 1984-04-07
 location: "Boise, Idaho"

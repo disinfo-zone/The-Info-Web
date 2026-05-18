@@ -15,7 +15,7 @@ Joan Quigley was a San Francisco socialite and astrologer who advised President 
 
 Regan stated that "Virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared by a woman in San Francisco who drew up horoscopes to make certain that the planets were in favorable alignment for the enterprise." Quigley became the subject of considerable public interest following this revelation[^1].
 
-In her memoir, *What Does Joan Say?*, Quigley wrote, "Not since the days of the Roman emperors—and never in the history of the [[United States]] Presidency—has an astrologer played such a significant role in the nation’s affairs of State"[^1].
+In her memoir, *What Does Joan Say?*, Quigley wrote, "Not since the days of the Roman emperors - and never in the history of the [[United States]] Presidency - has an astrologer played such a significant role in the nation’s affairs of State"[^1].
 
 ### Publications
 *   *What Does Joan Say?* (1990)

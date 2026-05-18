@@ -1,19 +1,21 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Shimshon Shtrang
 aliases:
-- Shimshon Shtrang
+  - Shimshon Shtrang
   - Shipi Shtrang
   - Shipi
-category: "Key Figures"
+category: "Psychics & Remote Viewers"
 tags:
   - Person
-  - Stargate
-  - CIA
-  - RemoteViewer
+  - PSI
+  - UriGeller
   - SRI
-summary: "Shimshon 'Shipi' Shtrang is best known as the long-time friend and assistant of the Israeli psychic Uri Geller."
+  - CIA
+  - 1970s
+summary: "Shimshon 'Shipi' Shtrang is Uri Geller's long-time friend, assistant, and brother-in-law who accompanied Geller to Stanford Research Institute for CIA-funded testing in the early 1970s, where the CIA excluded him from experiments after magician James Randi raised questions about potential collusion."
 ---
-
-# Shimshon "Shipi" Shtrang
 
 Shimshon "Shipi" Shtrang is best known as the long-time friend and assistant of the [[Israel|Israeli]] psychic [[Uri Geller]]. Their association began when Shtrang was a thirteen-year-old boy at a government-run summer camp, where Geller, recovering from [[Six-Day War]] injuries, performed [[Telepathy|telepathy]] demonstrations[^1].
 

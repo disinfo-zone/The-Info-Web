@@ -1,19 +1,23 @@
 ---
+created: 2026-05-17
+updated: 2026-05-17
+title: George Blake
 aliases:
   - George Blake
   - Georgi Behar
+  - Georg Ernst Behar
 category: "Intelligence & Government"
 tags:
   - Person
   - MI6
   - KGB
   - ColdWar
-  - Intelligence
   - DoubleAgent
+  - OperationGold
   - Soviet
   - 1950s
   - 1960s
-summary: "George Blake (1922-2020) was a British MI6 officer and KGB double agent, recruited during Korean War captivity, who betrayed approximately 40 agents and revealed Operation Gold before its construction, before escaping a 42-year sentence to Moscow in 1966."
+summary: "George Blake was a British MI6 officer and KGB double agent, recruited during Korean War captivity, who betrayed approximately 40 agents and revealed Operation Gold before construction began, escaped a 42-year sentence from Wormwood Scrubs in 1966, and died in Moscow in December 2020 at age 98."
 born: 1922-11-11
 died: 2020-12-26
 location: "Moscow, Russia"

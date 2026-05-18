@@ -20,7 +20,7 @@ During the 1991–92 criminal trials of Camarena's alleged killers, a longtime C
 
 ### CIA Cover-Up Allegations
 
-Both Harrison and his DEA overseer, Hector Berrellez, who headed the Camarena murder investigation, believed the agent was killed because his investigations into "protected" marijuana plantations threatened to expose the CIA-cartel collaboration. Based on his investigation—which discovered audiotapes the killers made during torture sessions—Berrellez recommended that a federal grand jury be convened to examine the CIA's knowledge of Camarena's murder. Soon afterwards, Berrellez, one of the DEA's most decorated agents, was transferred to Washington and given a do-nothing desk job until his retirement.[^1]
+Both Harrison and his DEA overseer, Hector Berrellez, who headed the Camarena murder investigation, believed the agent was killed because his investigations into "protected" marijuana plantations threatened to expose the CIA-cartel collaboration. Based on his investigation - which discovered audiotapes the killers made during torture sessions - Berrellez recommended that a federal grand jury be convened to examine the CIA's knowledge of Camarena's murder. Soon afterwards, Berrellez, one of the DEA's most decorated agents, was transferred to Washington and given a do-nothing desk job until his retirement.[^1]
 
 ### Footnotes
 

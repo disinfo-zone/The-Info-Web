@@ -1,4 +1,4 @@
----
+﻿---
 category: "Country"
 summary: "The Philippines is a Southeast Asian archipelago nation whose Deputy Chief of Staff for Intelligence Ignacio Paz used Robert Booth Nichols to move large government funds into Swiss bank accounts."
 ---

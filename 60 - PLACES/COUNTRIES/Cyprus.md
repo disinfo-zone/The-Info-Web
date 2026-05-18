@@ -1,4 +1,4 @@
----
+﻿---
 category: "Country"
 summary: "Cyprus is an Eastern Mediterranean island nation whose capital Nicosia, through the DEA/CIA front company Euramae Trading, served during the 1980s as a hub for Bekaa Valley heroin transit, PROMIS software sales to Middle Eastern countries, and CIA arms dealer communications."
 ---

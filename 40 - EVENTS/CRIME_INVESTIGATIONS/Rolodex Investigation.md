@@ -51,7 +51,7 @@ Further evidence of official complicity emerged from complaints filed by drivers
 
 ### Investigation Shutdown and Cover-up
 
-Despite the compelling evidence gathered during the investigation, the case was shut down in 1998 shortly after senior government officials such as [[Joris Demmink]] were implicated. A detective who investigated the Bell Boys service stated that the case had been closed with the arrest and sentencing of [[Karel Maasdam]], but the timing—coming immediately after high-ranking officials were named—suggested a deliberate cover-up to protect powerful individuals.[^8]
+Despite the compelling evidence gathered during the investigation, the case was shut down in 1998 shortly after senior government officials such as [[Joris Demmink]] were implicated. A detective who investigated the Bell Boys service stated that the case had been closed with the arrest and sentencing of [[Karel Maasdam]], but the timing - coming immediately after high-ranking officials were named - suggested a deliberate cover-up to protect powerful individuals.[^8]
 
 ### International Connections and Broader Network
 

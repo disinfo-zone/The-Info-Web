@@ -1,16 +1,20 @@
 ---
+title: Operation Yewtree
+aliases:
+  - Operation Yewtree
+created: 2026-05-17
+updated: 2026-05-17
 tags:
   - Event
-  - Police_Investigation
+  - PoliceInvestigation
   - UK
   - 2010s
   - BBC
-  - Jimmy_Savile
-  - Institutional_Child_Abuse
-  - VIP_Pedophile_Network
-category: "Intelligence Operation"
-summary: "Operation Yewtree was a Metropolitan Police investigation launched in early October 2012 following the death of BBC presenter Jimmy Savile."
-start: 2012
+  - JimmySavile
+  - InstitutionalAbuse
+category: "Law Enforcement Operation"
+summary: "Operation Yewtree was a Metropolitan Police investigation launched in October 2012 following the death of BBC presenter Jimmy Savile, which uncovered systemic child sexual abuse by BBC figures and connections to international trafficking networks."
+start: 2012-10-01
 location: "Metropolitan Police, London"
 ---
 Operation Yewtree was a Metropolitan Police investigation launched in early October 2012 following the death of [[BBC]] presenter [[Jimmy Savile]]. The investigation began after ITV aired allegations against Savile publicly, leading to what was officially called an investigation into Savile, but actually focused on the BBC and his associates who could still face prosecution. The operation culminated from ongoing probes into suspected child abuse rings linked to the BBC, with the investigation into [[Chris Denning]] serving as the genesis to these probes[^1].
@@ -19,13 +23,13 @@ Operation Yewtree was a Metropolitan Police investigation launched in early Octo
 
 The investigation led to numerous high-profile arrests and convictions:
 
-**[[Gary Glitter]]**: Arrested October 2012, convicted of historic child sexual abuse charges related to Operation Yewtree. One woman abused by Savile at Duncroft foster home alleged she and two other girls were driven to BBC studios and assaulted by Savile, Gary Glitter, and a third famous BBC personality[^1].
+[[Gary Glitter]]: Arrested October 2012, convicted of historic child sexual abuse charges related to Operation Yewtree. One woman abused by Savile at Duncroft foster home alleged she and two other girls were driven to BBC studios and assaulted by Savile, Gary Glitter, and a third famous BBC personality[^1].
 
-**[[Chris Denning]]**: Arrested June 2013, convicted of historic child sexual abuse against 24 boys, including one allegedly raped at Jimmy Savile's house. The investigation quickly circled back to previous investigations into [[Jonathan King]] and Chris Denning, showing connections to earlier BBC abuse networks[^1].
+[[Chris Denning]]: Arrested June 2013, convicted of historic child sexual abuse against 24 boys, including one allegedly raped at Jimmy Savile's house. The investigation quickly circled back to previous investigations into [[Jonathan King]] and Chris Denning, showing connections to earlier BBC abuse networks[^1].
 
-**[[David Smith]]**: First person charged under Operation Yewtree, died of heroin overdose the day before his trial was to commence. Smith served as [[Jimmy Savile]]'s chauffeur and was found to have taken victims to parties with other men and children where they were given drugs and abused. He also took victims to a big house outside Amsterdam where they were abused with other children, connecting to international trafficking networks involving [[Warwick Spinks]][^1].
+[[David Smith]]: First person charged under Operation Yewtree, died of heroin overdose the day before his trial was to commence. Smith served as [[Jimmy Savile]]'s chauffeur and was found to have taken victims to parties with other men and children where they were given drugs and abused. He also took victims to a big house outside Amsterdam where they were abused with other children, connecting to international trafficking networks involving [[Warwick Spinks]][^1].
 
-**Other Convictions**: [[Dave Lee Travis]] (former BBC Radio One DJ convicted of groping breast of female colleague), [[Stuart Hall]] (BBC presenter convicted), and [[Rolf Harris]] (described as "by far the biggest scalp of all"). Several others including [[Jim Davidson]] and [[Freddie Star]] had charges dropped due to lack of evidence[^1].
+Other convictions: [[Dave Lee Travis]] (former BBC Radio One DJ convicted of groping), [[Stuart Hall]] (BBC presenter convicted), and [[Rolf Harris]] (described as "by far the biggest scalp of all"). Several others including [[Jim Davidson]] and [[Freddie Star]] had charges dropped due to lack of evidence[^1].
 
 ### Institutional Complicity at the BBC
 

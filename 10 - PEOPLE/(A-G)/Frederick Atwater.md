@@ -1,38 +1,51 @@
-﻿---
-category: "Key Figures"
+---
+created: 2026-05-17
+updated: 2026-05-17
+title: Frederick Atwater
+aliases:
+  - Frederick Atwater
+  - Skip Atwater
+  - Frederick Holmes Atwater
 tags:
   - Person
-  - Stargate
-  - CIA
   - Military
-  - RemoteViewer
-summary: "Frederick Holmes "Skip" Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey."
-born: 1947
+  - Stargate
+  - RemoteViewing
+  - MonroeInstitute
+  - PSI
+  - 1970s
+  - 1980s
+category: "Military"
+summary: "Frederick 'Skip' Atwater was the U.S. Army intelligence officer who proposed and organized the military remote viewing program at Fort Meade in 1977, recruited and managed the original STARGATE viewers including Joe McMoneagle and Mel Riley, and served as the program's operations officer until his retirement in 1987."
+born: 1947-01-01
 location: "Glendale, California"
 ---
 
+Frederick Holmes "Skip" Atwater (born 1947, Glendale, California) was the [[U.S. Army]] intelligence officer at [[Fort Meade]], Maryland, who proposed the formation of a military remote viewing unit in 1977, recruited its initial personnel, and served as its operations officer through the program's most active period until his retirement from the Army in 1987. His proposal directly initiated what became the [[STARGATE PROJECT]] series of programs - Gondola Wish, Grill Flame, Center Lane, Sun Streak - that constituted the military's remote viewing research and intelligence effort for nearly two decades.
 
-Frederick Holmes "Skip" Atwater was born in Glendale, California, growing up in a house with land, dogs, cats, a goat, and a donkey. His father was a dentist, and his mother, a homemaker, held a strong belief in the paranormal. Atwater himself had out-of-body experiences as a teenager, sometimes using this ability to "float" to distant locations. He was intrigued by the possibilities of the paranormal and had heard rumors of Soviet and CIA psi research, including successful outcomes.[^1]
+### Army Career and STARGATE Initiation
 
-He joined the [[U.S. Army]] and after officer candidate training and espionage school at [[Fort Huachuca]], Arizona, he arrived at [[Fort Meade]] in the summer of 1977. This was a period of significant reorganization within Army intelligence, with the formation of the [[United States Army Intelligence and Security Command]] (INSCOM). Atwater was assigned to an operations security (opsec) team that became part of the [[Systems Exploitation Detachment]] (SED).[^1]
+Atwater joined the U.S. Army and completed officer candidate school and military intelligence training at [[Fort Huachuca]], Arizona, before arriving at Fort Meade in the summer of 1977. He was assigned to the [[Systems Exploitation Detachment]] (SED) within the [[United States Army Intelligence and Security Command|INSCOM]] structure. He had a personal interest in parapsychology and had heard reports of extensive Soviet research into psychic phenomena and CIA experiments at [[Stanford Research Institute|SRI]].
 
-Atwater had a strong interest in psychic phenomena and, after discovering documents left by a predecessor, Colonel Kowalski, he began to argue that remote viewing represented a potential security threat that the Army's opsec teams should study. He proposed to the head of SED, Colonel [[Robert Keenan]], that a small remote-viewing team be assembled, screening Army intelligence personnel for psychic abilities. The proposal was approved by Major General [[Edmund Thompson]], the Army's assistant chief of staff for intelligence (ACSI), who had his own interest in psi and wanted a secret unit of experimental psychic spies.[^1]
+Atwater discovered files left by a predecessor suggesting that remote viewing might constitute a security vulnerability - if Soviet remote viewers could perceive U.S. classified installations, the Army needed to understand the threat. He proposed to Colonel [[Robert Keenan]], head of SED, that a small team of Army intelligence personnel be screened and assembled to test remote viewing from the inside. The proposal was approved by Major General [[Edmund Thompson]], the Army's assistant chief of staff for intelligence.
 
-The project was initially codenamed [[STARGATE PROJECT|Gondola Wish]], and Atwater, along with his commanding officer, Major [[Murray Watt|Scotty Watt]], was tasked with selecting and training the first remote viewers. They recruited a team of six from the local population of Army intelligence personnel, including [[Mel Riley]], [[Joe McMoneagle]], and [[Ken Bell]]. Atwater and Watt visited [[Stanford Research Institute]] (SRI) to understand how to select good remote viewers, learning that artistic talent, visual-spatial intelligence, and creativity were associated with high scores. They used a stealthier approach to recruitment, contacting INSCOM unit commanders and the National Photographic Interpretation Center (NPIC) to identify potential candidates, particularly photo-interpreters, and then conducting personal interviews focusing on paranormal beliefs and experiences.[^1]
+Atwater and commanding officer Major [[Murray Watt]] visited SRI to learn how to screen candidates for remote viewing ability. They identified artistic talent, visual-spatial intelligence, and creativity as associated markers and recruited six initial Army personnel: [[Joe McMoneagle]], [[Mel Riley]], Ken Bell, Nancy Stern, Fernand Gauvin, and Hartleigh Trent. The program launched under the code name Gondola Wish as an experimental part-time unit.
 
-Atwater served as the unit's operations officer, shaping incoming taskings into remote-viewing strategies, deciding who would serve as monitor and viewer, and presenting the final product. He was a firm believer in the potential of remote viewing and was a staunch defender of the program. He often dealt with officials from other agencies, ensuring the remote viewers provided the necessary information. He emphasized a "blind" protocol for initial sessions, where the viewer knew only the target type, allowing for self-correction. He also discovered that certain viewers had unique talents, such as [[Ken Bell]]'s ability to connect with human targets, [[Mel Riley]]'s artistic skill, [[Hartleigh Trent]]'s ability to take directions, and [[Joe McMoneagle]]'s talent for picking up technological details and perceiving radioactive material as a green haze.[^1]
+### Operations Officer
 
-Atwater experimented with various applications of remote viewing, including informal "associative remote viewing" (ARV) experiments to win the Maryland lottery and a treasure hunt in Virginia, though these were unsuccessful. He also came up with suggestions for psi countermeasures, such as placing gifts from Communist countries in innocuous locations and festooning sensitive sites with strange objects to confuse Soviet remote viewers, though these were largely dismissed by mainstream intelligence officials.[^1]
+When the program transitioned from experimental to operational status and was redesignated Grill Flame in late 1978, Atwater continued as operations officer. His role was to receive incoming intelligence taskings from requesting agencies - CIA, NSA, DIA, military commands - shape them into appropriate remote viewing protocols, select the viewer and monitor for each session, manage the actual session process, and package the product. He maintained a deliberate "blind" protocol for initial sessions, ensuring viewers received only the minimum necessary targeting information (often just a geographic coordinate or object description) to minimize analytical contamination.
 
-When the program became operational and was renamed [[STARGATE PROJECT|Grill Flame]], Atwater continued in his role as operations officer. He faced challenges, including the "giggle factor" from skeptical officials and the intense pressure during the Iran hostage crisis, which led to burnout among the remote viewers. He remained with the unit until his retirement from the Army in 1987 or 1988, managing to keep a nucleus of original members in place.[^1]
+He identified the unique operational profiles of each viewer: McMoneagle's particular accuracy with technical details and nuclear material; Riley's artistic descriptive ability; Bell's strength with human targets; Trent's responsiveness to structured guidance. Matching viewer profiles to target types became a core element of his operational management.
 
-After retiring from the Army, Atwater became the director of research for the [[Monroe Institute]] and then acting director following the death of [[Laurie Monroe]] and finally President in 2006 until his retirement in 2012.
+The program faced intense pressure during the 1980 Iran hostage crisis, with remote viewers receiving repeated taskings to identify the hostages' location and condition. The sustained operations tempo during this period contributed to burnout among some viewers.
 
-### Publications
-Atwater published or contributed to numerous papers regarding [[Hemi-Sync]] for the [[Monroe Institute]].
-### Books
-Atwater wrote a book of memoirs released 2001 entitled *Captain of My Ship, Master of My Soul: Living with Guidance* (ISBN-10 1571742476).
-In 2024, he released *Project 8200: UFO/UAP Bases and Activities: The original Remote Viewing Transcripts* (ISBN-10 3911151047).
-# Footnotes
+### Retirement and Monroe Institute
 
-[^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+Atwater retired from the Army approximately in 1987. He subsequently joined the [[Monroe Institute]] in Faber, Virginia - the consciousness research organization founded by Robert Monroe that had been a resource for some STARGATE viewers interested in out-of-body techniques and altered states. He served as the institute's director of research, then acting director following Laurie Monroe's death, and was appointed president in 2006, a position he held until his retirement in 2012.
+
+He published a memoir, *Captain of My Ship, Master of My Soul: Living with Guidance* (Hampton Roads, 2001), describing his Army remote viewing career and subsequent work at the Monroe Institute. In 2024, he published *Project 8200: UFO/UAP Bases and Activities: The Original Remote Viewing Transcripts*, presenting declassified STARGATE session transcripts.
+
+### Footnotes
+
+[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017, pp. 103-130 (comprehensive account of Atwater's STARGATE role). Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, pp. 135-170.
+[^2]: Atwater, Frederick Holmes. *Captain of My Ship, Master of My Soul: Living with Guidance.* Hampton Roads, 2001.

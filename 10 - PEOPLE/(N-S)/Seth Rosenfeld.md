@@ -21,7 +21,7 @@ A month before the State Department issued a White Paper dismissing all Contra d
 
 ### Government Reaction
 
-[[Joseph Russoniello|U.S. Attorney Joseph Russoniello]] mailed a four-page letter to the Examiner's editor calling Rosenfeld's Frogman story "one of the most blatant attempts at contrived news-making we have witnessed in recent years" and suggesting it was a political stunt to harm the Contras' chances of getting aid from Congress. The State Department issued a White Paper portraying Cabezas and Zavala as liars and dismissing Rosenfeld's reporting as malarkey—while studiously avoiding any mention of Meneses. Though the Examiner's Meneses expose appeared just two days before the House was to vote on Reagan's $100 million Contra aid package, not a single major newspaper in the country touched the story.[^1]
+[[Joseph Russoniello|U.S. Attorney Joseph Russoniello]] mailed a four-page letter to the Examiner's editor calling Rosenfeld's Frogman story "one of the most blatant attempts at contrived news-making we have witnessed in recent years" and suggesting it was a political stunt to harm the Contras' chances of getting aid from Congress. The State Department issued a White Paper portraying Cabezas and Zavala as liars and dismissing Rosenfeld's reporting as malarkey - while studiously avoiding any mention of Meneses. Though the Examiner's Meneses expose appeared just two days before the House was to vote on Reagan's $100 million Contra aid package, not a single major newspaper in the country touched the story.[^1]
 
 ### Footnotes
 

@@ -1,14 +1,17 @@
 ---
 created: 2025-01-03
-updated: 2025-01-03
+updated: 2026-05-17
 title: New Orleans Truck Attack
+aliases:
+  - New Orleans Truck Attack
+  - Bourbon Street Attack
 tags:
-  - terrorism
-  - mass shooting
-  - vehicle attack
-description: On January 1, 2025, Shamsud-Din Jabbar drove a rented truck into a crowd on Bourbon Street, New Orleans, firing an AR-style rifle. He killed 15 people, injured 35, and was later killed by police. The FBI declared it an act of terrorism. Pipe bombs and ISIS ties were also discovered.
+  - Event
+  - Terrorism
+  - ISIS
+  - 2020s
 category: "Modern Incident"
-summary: "January 1, 2025 terrorist attack in which Shamsud-Din Jabbar drove a truck into crowds on Bourbon Street in New Orleans, killing multiple people."
+summary: "On January 1, 2025, Shamsud-Din Jabbar drove a rented truck into a crowd on Bourbon Street in New Orleans, killing 14 people and injuring dozens; the FBI declared it an act of terrorism with ISIS connection."
 date: 2025-01-01
 location: "New Orleans, Louisiana"
 ---
@@ -25,7 +28,7 @@ The [[Federal Bureau of Investigation|FBI]] declared the event an [[act of terro
 ### Weapons
 Two pipe bombs were found in coolers in the French Quarter a few blocks from the attack (Bourbon St and Orleans St and Bourbon between Tolouse and St peter). Allgedly they were rigged for remote detonation with a wireless remote found in the truck.[^2]
 Jabbar used or had on him an AR style rifle with a homemade suppressor and a handgun.[^3]
-# Footnotes
+### Footnotes
 
 [^1]: [Fire at St. Roch rental may be connected to mass casualty Bourbon Street attack, sources say](https://archive.is/XzFA6)
 [^2]: [Islamic State-inspired driver expressed desire to kill before deadly New Orleans rampage, Biden says](https://archive.is/6V9is)

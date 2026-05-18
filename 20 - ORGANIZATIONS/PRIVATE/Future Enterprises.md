@@ -18,7 +18,7 @@ Future Enterprises was a Washington D.C.-area computer training company associat
 
 [[Robert Gardner Terrell]], a certified public accountant and former IRS appeals officer who served as [[The Finders]]' principal spokesman and financial manager, was associated with Future Enterprises as a computer trainer. The CIA's characterization of his role was "part-time accountant." Terrell's own accounts described computer training work.[^1]
 
-Vice president **Joseph Marinich** confirmed in contemporaneous reporting that CIA employees received training at the company during the 1980s.[^1]
+Vice president Joseph Marinich confirmed in contemporaneous reporting that CIA employees received training at the company during the 1980s.[^1]
 
 An MPD report filed February 19, 1987 by Sgt. John H. Stitcher Jr. described a CIA official confirming that the agency was sending personnel to "a Finders Corp., Future Enterprises, for training in computer operations." The phrase "Finders Corp." in this document represented a direct institutional identification of Future Enterprises as a Finders corporate entity, though the CIA's public position maintained the connection was incidental.[^2]
 

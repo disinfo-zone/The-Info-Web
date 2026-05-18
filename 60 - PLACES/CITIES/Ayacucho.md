@@ -1,5 +1,5 @@
----
-category: "South America"
+﻿---
+category: "City"
 tags:
   - City
   - Peru
@@ -8,7 +8,7 @@ tags:
   - CIAOperations
 summary: "Ayacucho is a city in the Andean highlands of Peru that served as the founding base of Sendero Luminoso (Shining Path), the Maoist guerrilla movement that launched its armed insurgency in 1980 and fought a conflict that killed approximately 69,000 people; it appears in this vault as the origin point of the Shining Path insurgency that prompted CIA advisory involvement in Peruvian counterinsurgency operations."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Ayacucho, Peru"
 ---
 

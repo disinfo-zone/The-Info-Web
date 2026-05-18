@@ -20,7 +20,7 @@ To cover his frequent travels, Zavala claimed to work as a buyer for supermarket
 
 ### Legal Troubles and Recruitment of Cabezas
 
-By 1981 Zavala was under growing scrutiny. His girlfriend Doris Salomon, a Contra fund-raiser, had been arrested with cocaine. Zavala himself had been busted twice—once with five ounces of cocaine in a stolen Cadillac from his Miami connection—though charges were dropped each time. His friend Edmundo Rocha had been arrested twice as well.[^2]
+By 1981 Zavala was under growing scrutiny. His girlfriend Doris Salomon, a Contra fund-raiser, had been arrested with cocaine. Zavala himself had been busted twice - once with five ounces of cocaine in a stolen Cadillac from his Miami connection - though charges were dropped each time. His friend Edmundo Rocha had been arrested twice as well.[^2]
 
 Facing mounting pressure, Zavala hired his former brother-in-law Carlos Cabezas in October 1981 to deliver cocaine and collect money, paying him $500 per kilo plus a percentage of collected debts. He told Cabezas that some of the cocaine profits would help finance the [[Contras]].[^2]
 
@@ -30,7 +30,7 @@ Zavala was a heavy drinker who neglected his responsibilities, falling behind in
 
 On February 15, 1983, federal agents raided fourteen locations in the San Francisco area. Zavala was arrested along with Carlos Cabezas, Colombian supplier Álvaro Carvajal Minota, and others. Police found an M-1 carbine, a practice grenade, assorted passports, a catalog of machine guns and silencers, and $36,020 in cash in Zavala's nightstand.[^2]
 
-Zavala was held on $1,000,000 bail. His attorney, Judd Iverson, presented the court with letters from [[Francisco Aviles]] and [[Vicente Rappaccioli]]—CIA assets and Contra officials—who claimed Zavala was a Contra official and that the seized $36,020 belonged to UDN-FARN, not to drug trafficking.[^2]
+Zavala was held on $1,000,000 bail. His attorney, Judd Iverson, presented the court with letters from [[Francisco Aviles]] and [[Vicente Rappaccioli]] - CIA assets and Contra officials - who claimed Zavala was a Contra official and that the seized $36,020 belonged to UDN-FARN, not to drug trafficking.[^2]
 
 The [[Central Intelligence Agency]] intervened to suppress the Contra connection. CIA lawyer Lee Strickland asked prosecutor Mark Zanides to ensure the depositions of Aviles and Rappaccioli did not go forward. The government ultimately returned the $36,020 to Zavala and Aviles in October 1984 in exchange for dropping the Costa Rican depositions.[^2]
 

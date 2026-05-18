@@ -28,13 +28,13 @@ The committee was established in the context of the revelations from the [[Churc
 
 The HSCA's findings on the Kennedy assassination represented a significant departure from the Warren Commission:
 
-**Probable conspiracy**: The committee concluded that "President John F. Kennedy was probably assassinated as a result of a conspiracy," based primarily on acoustic evidence suggesting a fourth shot had been fired from the grassy knoll in front of the motorcade. This evidence came from a Dallas Police Department Dictabelt recording that acoustics experts claimed showed four distinct impulses consistent with gunfire.
+Probable conspiracy: The committee concluded that "President John F. Kennedy was probably assassinated as a result of a conspiracy," based primarily on acoustic evidence suggesting a fourth shot had been fired from the grassy knoll in front of the motorcade. This evidence came from a Dallas Police Department Dictabelt recording that acoustics experts claimed showed four distinct impulses consistent with gunfire.
 
-**Organized crime**: The committee found that certain members of organized crime, including [[Santos Trafficante, Jr.]] and [[Carlos Marcello]], had both the motive and the means to organize Kennedy's assassination. It found that [[Johnny Roselli]] and [[Sam Giancana]], both connected to the CIA-Mafia anti-Castro plots, "may have been involved" in the conspiracy.
+Organized crime: The committee found that certain members of organized crime, including [[Santos Trafficante, Jr.]] and [[Carlos Marcello]], had both the motive and the means to organize Kennedy's assassination. It found that [[Johnny Roselli]] and [[Sam Giancana]], both connected to the CIA-Mafia anti-Castro plots, "may have been involved" in the conspiracy.
 
-**CIA information withholding**: The committee concluded that the CIA had not revealed its knowledge of the CIA-Mafia assassination plots to the Warren Commission and that this "may have led the Warren Commission to draw incorrect conclusions about the existence of a conspiracy."
+CIA information withholding: The committee concluded that the CIA had not revealed its knowledge of the CIA-Mafia assassination plots to the Warren Commission and that this "may have led the Warren Commission to draw incorrect conclusions about the existence of a conspiracy."
 
-**Soviet and Cuban non-involvement**: The committee found no evidence that the Soviet or Cuban governments were involved in Kennedy's assassination.[^1]
+Soviet and Cuban non-involvement: The committee found no evidence that the Soviet or Cuban governments were involved in Kennedy's assassination.[^1]
 
 ### The Acoustic Evidence Controversy
 

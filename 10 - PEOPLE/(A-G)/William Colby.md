@@ -1,14 +1,22 @@
 ---
+created: 2026-05-17
+updated: 2026-05-17
+title: William Colby
+aliases:
+  - William Colby
+  - William Egan Colby
+  - Bill Colby
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
-  - Vietnam_War
-  - Church_Committee
-  - Operation_CHAOS
-  - Iran_Contra
-  - Franklin_Scandal
-summary: "William Egan Colby (1920-1996) served as Director of Central Intelligence from 1973 to 1976, dismissing James Angleton, cooperating with the Church Committee, revealing the Family Jewels, and earlier directing the Vietnam-era Phoenix Program."
+  - VietnamWar
+  - ChurchCommittee
+  - OperationCHAOS
+  - PhoenixProgram
+  - 1960s
+  - 1970s
+summary: "William Egan Colby served as Director of Central Intelligence from 1973 to 1976, dismissing James Angleton, cooperating with the Church Committee, and revealing the Family Jewels, having earlier directed the Vietnam-era Phoenix Program under the CORDS framework."
 born: 1920-01-04
 died: 1996-04-27
 location: "Saint Paul, Minnesota"

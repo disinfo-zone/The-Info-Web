@@ -1,12 +1,21 @@
 ---
-category: "Psychics & Remote Viewers"
+created: 2026-05-17
+updated: 2026-05-17
+title: Mel Riley
+aliases:
+  - Mel Riley
+  - Melvin C. Riley
 tags:
   - Person
   - RemoteViewer
   - Military
   - Stargate
-summary: "U.S. Army staff sergeant and one of the original remote viewers in the Stargate Project, known for his artistic rendering of psychic impressions."
-born: 1946
+  - PSI
+  - 1970s
+  - 1980s
+category: "Military"
+summary: "Mel Riley was a U.S. Army staff sergeant and aerial photo-interpreter who was one of the original six STARGATE remote viewers recruited in 1977, known for his artistic rendering of psychic impressions and for being part of the three-viewer core that became the Grill Flame program."
+born: 1946-01-01
 died: 2020-04-25
 location: "Racine, Wisconsin"
 ---
@@ -29,6 +38,6 @@ During the Iran hostage crisis (1979-1981), Riley and other remote viewers were 
 
 Riley, along with [[Joe McMoneagle]] and [[Ken Bell]], became one of the three full-time remote viewers when the unit was officially designated the Special Action Branch and the program was codenamed [[STARGATE PROJECT|Grill Flame]]. He left the unit in 1981 for a posting in Germany, with the understanding that he could return to the program in the future, as the unit was on "relatively firm ground" with an increasing budget and new recruits.[^1]
 
----
+### Footnotes
 
-[^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+[^1]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997. Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.

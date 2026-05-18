@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Country"
 tags:
   - Country
   - Iraq
@@ -9,7 +9,7 @@ tags:
   - ColdWar
 summary: "Iraq is a country in the Middle East whose modern history intersects extensively with Cold War covert operations: CIA support for the 1963 Ba'ath coup, weapons transfers to Saddam Hussein's regime during the Iran-Iraq War, the BNL financial scandal, PROMIS software distribution to Iraqi intelligence, and the 2003 invasion on falsified WMD pretexts."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Baghdad, Iraq"
 ---
 

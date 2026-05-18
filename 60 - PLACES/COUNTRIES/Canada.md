@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "Canada appears throughout this vault as a host country for CIA mind-control research under MKULTRA, a target of PROMIS software sales to the RCMP, a node in Iran-Contra support networks operating through its Caribbean financial system, and the country whose Security Intelligence Service inherited British-Canadian wartime intelligence relationships."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Ottawa, Ontario, Canada"
 ---
 

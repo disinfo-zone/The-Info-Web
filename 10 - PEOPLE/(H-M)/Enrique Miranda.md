@@ -20,11 +20,11 @@ Once at Ilopango, Miranda said, Aguado and Meneses supervised loading the cocain
 
 ### Aguado's Cartel Operations
 
-Miranda met CIA pilot Marcos Aguado for dinner at Meneses's mansion in [[Managua]] in 1991, where Aguado described flying for the Colombian cartels. Aguado claimed he once took a Salvadoran Air Force bomber and leveled a warehouse full of Medellín cartel cocaine on behalf of the rival Cali cartel. He also made plans to bomb the prison where Medellín cartel chief Pablo Escobar was briefly imprisoned. Aguado boasted of flying weapons from the Salvadoran military to the Colombian cartels—claims Miranda said he doubted until a Salvadoran Air Force colonel and associates were arrested in 1992 for selling bombs and high explosives to Colombian drug dealers.[^1]
+Miranda met CIA pilot Marcos Aguado for dinner at Meneses's mansion in [[Managua]] in 1991, where Aguado described flying for the Colombian cartels. Aguado claimed he once took a Salvadoran Air Force bomber and leveled a warehouse full of Medellín cartel cocaine on behalf of the rival Cali cartel. He also made plans to bomb the prison where Medellín cartel chief Pablo Escobar was briefly imprisoned. Aguado boasted of flying weapons from the Salvadoran military to the Colombian cartels - claims Miranda said he doubted until a Salvadoran Air Force colonel and associates were arrested in 1992 for selling bombs and high explosives to Colombian drug dealers.[^1]
 
 ### Background
 
-Miranda was arrested by former Nicaraguan antidrug czar Roger Mayorga. He and Mayorga told interviewers the U.S. air base where drugs from Ilopango were flown was near Fort Worth, Texas—likely the now-closed Carswell Air Force Base, home of a Strategic Air Command bomber squadron.[^1]
+Miranda was arrested by former Nicaraguan antidrug czar Roger Mayorga. He and Mayorga told interviewers the U.S. air base where drugs from Ilopango were flown was near Fort Worth, Texas - likely the now-closed Carswell Air Force Base, home of a Strategic Air Command bomber squadron.[^1]
 
 ### Escape from Prison and DEA Recruitment
 

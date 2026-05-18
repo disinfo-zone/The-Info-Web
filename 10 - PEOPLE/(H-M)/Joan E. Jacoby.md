@@ -15,7 +15,7 @@ Joan E. Jacoby received a B.A. in sociology from Boston University and an M.A. i
 
 In 1969, while serving as Director of the [[Office of Crime Analysis of the District of Columbia]], Jacoby co-led the team commissioned by U.S. Attorney [[Thomas A. Flannery]] to design a computer-based case management system for the DC U.S. Attorney's Office, funded by a $60,000 [[LEAA]] grant (70-DF-047) administered through [[Peat, Marwick, Mitchell & Co]]. The co-directors of the project were Jacoby and [[Charles R. Work]] (then Deputy Chief of the Superior Court Division of the [[U.S. Attorney's office|U.S. Attorney's Office]]), with [[Bill Hamilton]] serving as project manager as a senior consultant at Peat Marwick. The resulting system was named the Prosecutor's Management Information System ([[PROMIS]]) and deployed on January 1, 1971.[^1]
 
-Jacoby also developed a competing proposal during this period: a 1970 paper titled "Project TRACE — A System for the Tracking, Retrieval and Analysis of Criminal Events," presented at the Urban and Regional Information Systems Proceedings on November 12, 1970. Project TRACE (Tracking Retrieval and Analysis of Criminal Events) shared PROMIS's subject-in-process tracking concept but was not adopted for the federal program.[^2][^3]
+Jacoby also developed a competing proposal during this period: a 1970 paper titled "Project TRACE - A System for the Tracking, Retrieval and Analysis of Criminal Events," presented at the Urban and Regional Information Systems Proceedings on November 12, 1970. Project TRACE (Tracking Retrieval and Analysis of Criminal Events) shared PROMIS's subject-in-process tracking concept but was not adopted for the federal program.[^2][^3]
 
 ### National Center for Prosecution Management
 
@@ -28,5 +28,5 @@ In 1975, Jacoby became a Research Associate at the Bureau of Social Science Rese
 ### Footnotes
 
 [^1]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
-[^2]: Office of Justice Programs, National Criminal Justice Reference Service. Abstract: "Project TRACE (Tracking, Retrieval and Analysis of Criminal Events) — Final Report." OJP Virtual Library.
+[^2]: Office of Justice Programs, National Criminal Justice Reference Service. Abstract: "Project TRACE (Tracking, Retrieval and Analysis of Criminal Events) - Final Report." OJP Virtual Library.
 [^3]: Sessions, Vivian S. *Directory of Data Bases in the Social and Behavioral Sciences.* Science Associates International, 1974.

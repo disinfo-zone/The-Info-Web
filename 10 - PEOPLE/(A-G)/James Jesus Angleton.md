@@ -125,6 +125,12 @@ His Church Committee testimony across 1975-1976 was extensive and carefully mana
 
 He never wrote a memoir. He grew orchids and tied fly-fishing lures and continued to believe in the reality of Soviet strategic penetration until his death from lung cancer on May 11, 1987.[^4]
 
+### Assessment
+
+Angleton's defenders argue that he identified real Soviet penetration threats that the CIA's operational leadership underestimated, and that the mole hunt's failures reflected the inherent difficulty of counterintelligence work rather than his analytical failures. His critics argue that his post-Philby paranoia made him an unreliable analyst whose certainty that moles existed caused him to manufacture evidence of penetrations that did not exist, damaging innocent officers and paralyzing Soviet operations while the genuine problems he was addressing went inadequately addressed.
+
+The structural problem his career illustrated was the difficulty of evaluating counterintelligence work: a counterintelligence chief who produces no confirmed moles might be doing excellent work that prevents penetrations, or might be failing to identify penetrations that exist, or might be generating false positives. Angleton's record combined a real strategic contribution - building the CIA's Israeli intelligence relationship, developing its understanding of KGB active measures - with institutional damage that was extensive and in several cases provably wrongful. The actual moles he feared - Aldrich Ames and Robert Hanssen - were not identified until years after his death, vindicating his premise about the reality of Soviet penetration while confirming his methods had targeted entirely the wrong people.[^1]
+
 ### Footnotes
 
 [^1]: Mangold, Tom. *Cold Warrior: James Jesus Angleton - The CIA's Master Spy Hunter*. Simon & Schuster, 1991. Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Burleigh, Nina. *A Very Private Woman: The Life and Unsolved Murder of Presidential Mistress Mary Meyer*. Bantam Books, 1998.

@@ -1,5 +1,5 @@
----
-category: "Africa"
+﻿---
+category: "Country"
 tags:
   - Country
   - SouthAfrica
@@ -8,7 +8,7 @@ tags:
   - Israel
 summary: "South Africa is a country at the southern tip of Africa whose apartheid-era government developed nuclear weapons with covert Israeli assistance and maintained extensive illicit arms trading networks that intersect with Iran-Contra and Cold War covert operations subjects in this vault."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Pretoria, South Africa"
 ---
 

@@ -1,5 +1,5 @@
----
-category: "United States"
+﻿---
+category: "City"
 tags:
   - City
   - Texas
@@ -8,7 +8,7 @@ tags:
   - ChildAbuse
 summary: "Pasadena is a city immediately southeast of Houston, Texas that appears in this vault as a location central to the Dean Corll serial murder case (1970-1973), in which Corll, David Owen Brooks, and Elmer Wayne Henley abducted, tortured, and murdered at least 28 young males in the Houston metropolitan area; multiple victims and accomplices in the case were Pasadena residents."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Pasadena, Texas"
 ---
 

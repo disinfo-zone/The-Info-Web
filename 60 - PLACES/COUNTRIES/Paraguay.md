@@ -1,5 +1,5 @@
----
-category: "South America"
+﻿---
+category: "Country"
 tags:
   - Country
   - Paraguay
@@ -9,7 +9,7 @@ tags:
   - Stroessner
 summary: "Paraguay under dictator Alfredo Stroessner (1954-1989) was a hub for Operation Condor's cross-border assassination networks, a refuge for Nazi war criminals including Josef Mengele, and a CIA client state whose intelligence services participated in the coordinated Latin American repression documented throughout this vault."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Asuncion, Paraguay"
 ---
 

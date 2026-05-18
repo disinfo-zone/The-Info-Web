@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "Region"
 tags:
   - Region
   - Egypt
@@ -10,7 +10,7 @@ tags:
   - SuezCrisis
 summary: "The Suez Canal is the artificial waterway in Egypt connecting the Mediterranean Sea to the Red Sea, whose nationalization by Egyptian President Gamal Abdel Nasser in July 1956 triggered the Suez Crisis - an Anglo-French-Israeli invasion that ended in humiliating withdrawal under U.S. and Soviet pressure, marking the definitive end of British and French imperial power."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Egypt"
 ---
 

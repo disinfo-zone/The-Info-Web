@@ -1,19 +1,25 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Peter Hurkos
 aliases:
-- Peter Hurkos
+  - Peter Hurkos
+  - Pieter van der Hurk
 category: "Psychics & Remote Viewers"
 tags:
   - Person
   - RemoteViewer
-summary: "Peter Hurkos was a Dutch psychic who gained international fame for his purported abilities, particularly psychometry—the act of divining information from an object through touch."
+  - PSI
+  - Parapsychology
+  - 1950s
+  - 1960s
+summary: "Peter Hurkos was a Dutch psychic who gained international fame for psychometry - divining information from objects by touch - and was studied by Andrija Puharich at the Round Table Foundation in 1956 before achieving notoriety as a police psychic consultant in the United States."
 born: 1911-05-21
 died: 1988-06-01
 location: "Dordrecht, Netherlands"
 ---
 
-# Peter Hurkos
-
-Peter Hurkos was a Dutch psychic who gained international fame for his purported abilities, particularly psychometry—the act of divining information from an object through touch. A former house painter and [[World War II]] concentration camp survivor, Hurkos claimed his psychic powers manifested after he suffered a traumatic brain injury from a fall in 1941[^1].
+Peter Hurkos was a Dutch psychic who gained international fame for his purported abilities, particularly psychometry - the claimed ability to divine information from an object through touch. A former house painter, Hurkos claimed his psychic powers manifested after he suffered a traumatic brain injury from a fall in 1941[^1].
 
 In the fall of 1956, Hurkos was brought to the [[Round Table Foundation]] in Maine by [[Henry Belk]], a department store tycoon and one of [[Andrija Puharich]]'s investors. Hurkos's arrival boosted morale at the foundation, and he formed a close bond with [[Harry Stump]], another psychic working there[^1].
 

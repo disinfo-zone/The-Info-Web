@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "City"
 tags:
   - City
   - Israel
@@ -9,7 +9,7 @@ tags:
   - ColdWar
 summary: "Jerusalem is the contested capital of Israel and a site claimed by Palestinians for a future capital; it appears in this vault primarily in connection with Israeli intelligence operations, Camp David Accords negotiations, and the Sabra and Shatila massacre investigations."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Jerusalem, Israel/Palestine"
 ---
 

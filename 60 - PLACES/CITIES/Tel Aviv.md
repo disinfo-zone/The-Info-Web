@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "City"
 tags:
   - City
   - Israel
@@ -8,7 +8,7 @@ tags:
   - Arms
 summary: "Tel Aviv is Israel's largest metropolitan area and de facto commercial and intelligence capital; it served as a key node in the Iran-Contra arms pipeline and the Israel-South Africa arms relationship, and is home to institutions central to the vault's Israeli intelligence subjects including Mossad headquarters."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Tel Aviv, Israel"
 ---
 

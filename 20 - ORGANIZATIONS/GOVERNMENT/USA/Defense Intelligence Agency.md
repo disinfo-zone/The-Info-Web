@@ -22,7 +22,7 @@ In March 1979, when [[Jimmy Carter]] decided to provide [[Israel]] with KH-11 sa
 
 ### Involvement in Psi Research
 
-The DIA's interest in psi research was driven by concerns over perceived Soviet advancements. A 1972 DIA report, *Controlled Offensive Behavior—USSR*, highlighted the potential threat of Soviet psi capabilities.[^1] [[Jack Vorona]], head of the DIA's Scientific and Technical Intelligence Directorate, was the overall manager of the Grill Flame program. The DIA continued to oversee the program even after the Army's funding was initially terminated in 1985.[^1]
+The DIA's interest in psi research was driven by concerns over perceived Soviet advancements. A 1972 DIA report, *Controlled Offensive Behavior - USSR*, highlighted the potential threat of Soviet psi capabilities.[^1] [[Jack Vorona]], head of the DIA's Scientific and Technical Intelligence Directorate, was the overall manager of the Grill Flame program. The DIA continued to oversee the program even after the Army's funding was initially terminated in 1985.[^1]
 
 ### Dark Alliance Investigation
 

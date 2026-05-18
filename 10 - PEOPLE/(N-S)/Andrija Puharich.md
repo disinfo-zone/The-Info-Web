@@ -1,19 +1,34 @@
 ﻿---
-category: "Key Figures"
+created: 2026-05-15
+updated: 2026-05-17
+title: Andrija Puharich
+aliases:
+  - Andrija Puharich
+  - Henry Karel Puharich
+  - Henry Puharich
+category: "Scientists & Researchers"
 tags:
   - Person
-  - Stargate
+  - Parapsychology
   - CIA
-summary: "Henry Karel "Andrija" Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S."
+  - MKULTRA
+  - PSI
+  - UriGeller
+  - SRI
+  - RoundTableFoundation
+  - 1950s
+  - 1960s
+  - 1970s
+summary: "Andrija Puharich was a physician and parapsychologist who founded the Round Table Foundation in 1949, conducted Army-contracted ESP research at Edgewood Arsenal, brought Uri Geller to Stanford Research Institute for CIA-funded testing in 1972, and died alone and impoverished in 1995."
 born: 1918-02-19
 died: 1995-01-03
-location: "Chicago, Illinois, USA"
+location: "Chicago, Illinois"
 ---
 Henry Karel "Andrija" Puharich (1918–1995) was a prominent American physician, research scientist, and parapsychologist who became a central figure in the U.S. government's investigations into [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]] during the [[Cold War]]. His lifelong quest to understand the nature of consciousness and anomalous mental phenomena led him to explore the intersection of science, mysticism, and the supernatural[^1].
 
 Born in Chicago on February 19, 1918, to poor Yugoslavian immigrants, Puharich had an early experience that shaped his future. As a milk delivery boy, he claimed to have calmed a vicious dog by sending "feelings of calmness and peace," leading him to believe in [[Telepathy|mind-to-mind telepathy]] and inspiring him to pursue medicine to understand the biological basis of such phenomena[^1]. He excelled academically, attending Northwestern University for philosophy and premedical studies before entering medical school. During his studies, he deeply contemplated the nature of the mind and consciousness, stating, "Understanding the nature of man’s consciousness... is my lifelong quest"[^1].
 
-After completing his medical degree in 1947, Puharich worked with leading physicians, including his mentor, Dr. Andrew C. Ivy. During his residency at the Permanente Research Foundation, he formulated the **Puharich Theory**, which posited an unknown energy force linking the brain and nervous system to cells, with instructions flowing between them as "dynamics." He believed this energy radiated on the [[Electromagnetic Spectrum|electromagnetic spectrum]] but was beyond current measurement technology. His theory gained traction when [[Lloyd H. Beck]] and [[Walter S. Miles]] of Yale University reported that the olfactory nerve of a bee radiated energy in the infrared spectrum[^1].
+After completing his medical degree in 1947, Puharich worked with leading physicians, including his mentor, Dr. Andrew C. Ivy. During his residency at the Permanente Research Foundation, he formulated the Puharich Theory, which posited an unknown energy force linking the brain and nervous system to cells, with instructions flowing between them as "dynamics." He believed this energy radiated on the [[Electromagnetic Spectrum|electromagnetic spectrum]] but was beyond current measurement technology. His theory gained traction when [[Lloyd H. Beck]] and [[Walter S. Miles]] of Yale University reported that the olfactory nerve of a bee radiated energy in the infrared spectrum[^1].
 
 Inspired by microbiologist [[Paul De Kruif]], who warned him to "Beware the Establishment!"[^1], Puharich began lecturing on his ideas, merging philosophy, mysticism, and science. This attracted wealthy benefactors, notably [[Joyce Borden Balokovic]] and [[Zlatko Balokovic]], and later [[Alice Astor Bouverie]] and [[Marcella Miller du Pont]]. With their financial backing, Puharich established the [[Round Table Foundation]] in Glen Cove, Maine, in 1949. The foundation, named in homage to King Arthur, aimed to conduct experiments on [[Extrasensory Perception|ESP]] and related phenomena[^1].
 
@@ -31,7 +46,7 @@ Upon his return to civilian life in 1955, Puharich continued his research at the
 
 After the death of [[Alice Astor Bouverie]], a key financial supporter, and growing paranoia about CIA interest in his research, Puharich and [[Peter Hurkos]] traveled to Mexico in search of more mushrooms. The [[Round Table Foundation]] eventually closed in 1957[^1].
 
-Puharich continued to work on secret government contracts, including for [[NASA]] and the [[Air Force Systems Command]], exploring concepts like "skin reading"—the idea that the skin could function as an organ of sensory communication beyond touch. He demonstrated this with deaf individuals, convincing [[Paul S. Henshaw]] of the [[Atomic Energy Commission]] of its legitimacy[^1].
+Puharich continued to work on secret government contracts, including for [[NASA]] and the [[Air Force Systems Command]], exploring concepts like "skin reading" - the idea that the skin could function as an organ of sensory communication beyond touch. He demonstrated this with deaf individuals, convincing [[Paul S. Henshaw]] of the [[Atomic Energy Commission]] of its legitimacy[^1].
 
 His interests also extended to psychic healing, leading him to Brazil to study [[Arigo]], a healer who reportedly performed surgeries with a pocketknife. Puharich documented Arigo's work, hoping to secure military interest in "psychic healing on the battlefield," though without success[^1].
 

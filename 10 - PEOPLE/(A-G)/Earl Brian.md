@@ -1,15 +1,23 @@
 ---
-category: "PROMIS Scandal"
+title: Earl Brian
+aliases:
+  - Earl Brian
+  - Earl W. Brian
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
+category: "Intelligence & Government"
 tags:
   - Person
   - PROMIS
   - CIA
   - DoJ
-summary: "Earl Brian was a California physician and businessman who served in Ronald Reagan's California cabinet alongside Edwin Meese and was named by INSLAW, Michael Riconosciuto, and the House Judiciary Committee as the central figure in the alleged conspiracy to steal and distribute the PROMIS software."
+  - Business
+  - OctoberSurprise
+  - IranContra
 born: 1942-02-26
 died: 2020-11-02
+location: "California"
+summary: "Earl Brian was a California physician, businessman, and Reagan cabinet official who served alongside Edwin Meese and was named by INSLAW, Michael Riconosciuto, and the House Judiciary Committee as the alleged central figure in the theft and international distribution of the PROMIS software."
 ---
 Earl W. Brian was a physician, businessman, and California government official who served in Governor [[Ronald Reagan|Ronald Reagan's]] state cabinet alongside [[Edwin Meese]]. Brian co-founded Biotech Capital Corporation and held a controlling interest in [[Hadron]], a technology and information services company. He later founded Infotechnology, Inc. He had served in Vietnam, where his background in the Phoenix Program reportedly brought him into contact with intelligence networks that would intersect with his later activities.[^1]
 
@@ -31,11 +39,11 @@ The House Judiciary Committee's September 1992 report (House Report 102-857) des
 
 Brian owned [[Hadron]] at the time of Riconosciuto's 1992 drug trial in Tacoma, Washington. During that trial, [[Peter Videnieks]] testified about his contact with PROMIS software but denied ever hearing of the Wackenhut-Cabazon joint venture or meeting Brian. When pressed about his familiarity with Hadron and its ownership, Videnieks was evasive; he acknowledged knowing Hadron existed but declined to elaborate on any connection to Brian.[^3]
 
-The Bua Report investigation surfaced a reference to "Project Eagle," a multi-million dollar DOJ technology modernization initiative, in connection with Brian. Jensen denied any involvement in awarding Project Eagle contracts. The Report noted that the project's Request for Proposals was issued in May 1986 — while Jensen was still at DOJ — though Jensen was appointed to the bench the following month.[^2]
+The Bua Report investigation surfaced a reference to "Project Eagle," a multi-million dollar DOJ technology modernization initiative, in connection with Brian. Jensen denied any involvement in awarding Project Eagle contracts. The Report noted that the project's Request for Proposals was issued in May 1986 - while Jensen was still at DOJ - though Jensen was appointed to the bench the following month.[^2]
 
 ### October Surprise Allegations
 
-Riconosciuto further claimed that he and Brian traveled to Iran in 1980 and paid $40 million to Iranian officials to persuade them not to release the U.S. hostages before Reagan's inauguration — an allegation that would link Brian directly to the [[October Surprise]] conspiracy. This claim created what Riconosciuto described as a "domino effect" in Washington and generated additional investigations and media attention.[^3]
+Riconosciuto further claimed that he and Brian traveled to Iran in 1980 and paid $40 million to Iranian officials to persuade them not to release the U.S. hostages before Reagan's inauguration - an allegation that would link Brian directly to the [[October Surprise]] conspiracy. This claim created what Riconosciuto described as a "domino effect" in Washington and generated additional investigations and media attention.[^3]
 
 The Bua Report found no credible evidence to support the Iran trip allegation. Evidence placed Brian in New York at the time of the alleged journey. The Senate Permanent Subcommittee on Investigations had separately found "no proof" of any connection between Brian or Hadron and DOJ with regard to the INSLAW contract as early as September 1989.[^2][^4]
 

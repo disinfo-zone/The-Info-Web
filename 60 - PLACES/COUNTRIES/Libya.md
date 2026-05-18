@@ -1,5 +1,5 @@
----
-category: "Africa"
+﻿---
+category: "Country"
 tags:
   - Country
   - Libya
@@ -9,7 +9,7 @@ tags:
   - IranContra
 summary: "Libya under Muammar Gaddafi was a CIA target for covert destabilization operations throughout the 1980s, a state that financed and trained international terrorist networks, the perpetrator of the 1988 Lockerbie bombing, and a node in illicit arms procurement networks that intersect with Iran-Contra and PROMIS subjects in this vault."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Tripoli, Libya"
 ---
 

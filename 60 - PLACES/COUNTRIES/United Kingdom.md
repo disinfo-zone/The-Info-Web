@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "Country"
 tags:
   - Country
   - UnitedKingdom
@@ -10,7 +10,7 @@ tags:
   - Arms
 summary: "The United Kingdom is a Five Eyes intelligence partner of the United States whose security services (MI5, MI6, GCHQ) are extensively cross-referenced in this vault; the UK hosted BCCI's global headquarters, was the base of Robert Maxwell's operations, was implicated in the Arms-to-Iraq affair, and was the home of the Paedophile Information Exchange."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "London, United Kingdom"
 ---
 

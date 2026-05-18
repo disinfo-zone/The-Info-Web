@@ -30,15 +30,16 @@ Later, during the [[Ronald Reagan|Reagan]] administration, it was learned that I
 
 ### Involvement in Psi
 
-#### Early Connections
+### Early Connections
 [[Hal Puthoff]], a key figure in the [[Stanford Research Institute|SRI]] remote viewing program, had previously fulfilled his military service as a Navy officer at the NSA at [[Fort Meade]] in the early 1960s. He earned a Pentagon commendation for his work towards a future generation of high-speed optical computers.[^1]
 
 While the NSA's direct involvement in psi research was initially limited, it became a significant customer of the [[STARGATE PROJECT|Grill Flame]] program. The agency tasked remote viewers with various intelligence collection missions, demonstrating a pragmatic interest in the potential of psychic abilities.[^1]
 
-*   **Soviet Bug Detection:** In 1980, an NSA liaison officer tasked [[Joe McMoneagle]] with locating a Soviet surveillance bug in a U.S. consulate. McMoneagle not only pinpointed the bug's location but also identified a Soviet listening post across the street and, surprisingly, an American NSA team counter-surveilling the Soviets.[^1]
-*   **Typhoon Submarine:** The NSA was also a recipient of [[Joe McMoneagle]]'s remote viewing data on the new Soviet Typhoon-class submarine. Despite initial skepticism from some within the NSA, McMoneagle's detailed descriptions of the submarine's construction and features were later confirmed by satellite photography.[^1]
+*   Soviet Bug Detection: In 1980, an NSA liaison officer tasked [[Joe McMoneagle]] with locating a Soviet surveillance bug in a U.S. consulate. McMoneagle not only pinpointed the bug's location but also identified a Soviet listening post across the street and, surprisingly, an American NSA team counter-surveilling the Soviets.[^1]
+*   Typhoon Submarine: The NSA was also a recipient of Joe McMoneagle's remote viewing data on the new Soviet Typhoon-class submarine. Despite initial skepticism from some within the NSA, McMoneagle's detailed descriptions of the submarine's construction and features were later confirmed by satellite photography.[^1]
 
-#### Security Concerns and Later Involvement
+### Security Concerns and Later Involvement
+
 The NSA was at the center of the "Sugar Grove incident" in 1973. After [[Pat Price]] and [[Ingo Swann]] accurately remote-viewed a secret NSA facility in Sugar Grove, West Virginia, a security investigation was launched, highlighting the potential vulnerabilities of highly classified sites to psychic penetration. Despite this, the NSA later became directly involved in tasking remote viewers at both SRI and Fort Meade.[^1]
 
 ### Connection to PROMIS

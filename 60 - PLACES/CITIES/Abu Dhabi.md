@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "City"
 tags:
   - City
   - UAE
@@ -8,7 +8,7 @@ tags:
   - Arms
 summary: "Abu Dhabi is the capital of the United Arab Emirates and the home emirate of Sheikh Zayed bin Sultan Al-Nahayan, the primary shareholder and ultimate backer of BCCI; Abu Dhabi's financial resources and sovereign immunity effectively shielded BCCI's fraudulent operations from regulatory action for years."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Abu Dhabi, United Arab Emirates"
 ---
 

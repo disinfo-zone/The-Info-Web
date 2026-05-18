@@ -1,5 +1,5 @@
----
-category: "Africa"
+﻿---
+category: "Country"
 tags:
   - Country
   - Algeria
@@ -9,7 +9,7 @@ tags:
   - Gladio
 summary: "Algeria is a North African country and former French colony whose violent war of independence (1954-1962) and subsequent history appear in this vault primarily through the French intelligence operations surrounding the Algerian War, the OAS (Organisation de l'Armee Secrete) terrorist campaign, the CIA's relationship with the FLN, and Algeria's later role as a theater for Cold War influence operations and arms trafficking networks."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Algeria"
 ---
 

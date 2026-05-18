@@ -1,15 +1,23 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: John B. Alexander
 aliases:
-- John B. Alexander
+  - John B. Alexander
   - Lieutenant Colonel John B. Alexander
-category: "Key Figures"
+  - Colonel John Alexander
+category: "Military"
 tags:
   - Person
-  - Stargate
-  - CIA
   - Military
-summary: "Lieutenant Colonel John B."
-born: 1937
+  - PSI
+  - INSCOM
+  - Stargate
+  - Army
+  - 1980s
+  - 1990s
+summary: "John B. Alexander was a Green Beret colonel and Special Forces Vietnam veteran who authored the 1980 Military Review article on psychic warfare, ran INSCOM's Advanced Human Technology Office under Albert Stubblebine, and became one of the most prominent advocates for non-lethal weapons and anomalous phenomena research within the U.S. military establishment."
+born: 1937-01-01
 location: "New York, New York"
 ---
 

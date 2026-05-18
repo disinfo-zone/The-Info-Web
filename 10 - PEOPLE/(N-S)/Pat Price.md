@@ -1,29 +1,58 @@
 ---
-category: "Key Figures"
+created: 2026-05-17
+updated: 2026-05-17
+title: Pat Price
+aliases:
+  - Pat Price
+  - Patrick Price
 tags:
   - Person
-  - Stargate
   - RemoteViewer
   - SRI
-summary: "Pat Price was a retired police commissioner from Burbank, California, who joined the Stanford Research Institute (SRI) remote viewing program in 1973."
+  - Stargate
+  - CIA
+  - PSI
+  - 1970s
+category: "Psychics & Remote Viewers"
+summary: "Pat Price was a retired Burbank, California law enforcement official who produced the most operationally significant results of the Stanford Research Institute remote viewing program, including a substantially confirmed viewing of the Soviet Semipalatinsk weapons facility, before dying of a disputed heart attack in Las Vegas in July 1975 while working directly for the CIA."
 born: 1918-12-08
 died: 1975-07-14
-location: "Salt Lake City, Utah"
----
-Pat Price was a retired police commissioner from Burbank, California, who joined the [[Stanford Research Institute]] (SRI) remote viewing program in 1973. He was a graying, semi-retired, somewhat grizzled-looking fellow in his fifties who lived at Lake Tahoe. He had a small building-contractor business and also raised Christmas trees to sell in the Bay Area. He met [[Hal Puthoff]] at a lecture and later while selling Christmas trees in Mountain View. Price considered himself a psychic, claiming to have developed important leads on difficult cases during his time as a police commissioner in Burbank, thanks to spontaneously received information. He would even sit in the police dispatcher's office, trying to get psychic impressions of criminals' hiding places.[^1]
-
-Price had a long history of psychic experiences, including using his abilities to help solve difficult cases when he was a police commissioner. He claimed to have psychic impressions about people and distant events almost every day. He also claimed the ancient shamanic power of being able to change the weather, creating or evaporating clouds at will, and believed he could make traffic lights change through psychokinesis. He also believed that his soul had once belonged to the American colonial orator Patrick Henry. He also believed that an alien civilization flew its silvery saucers into bases on the moon and Mars, and also here on Earth, under the oceans and beneath great mountains, including one under Mount Hayes in Alaska.[^1]
-
-Price was considered by many to be the most gifted psychic in the SRI program. He was extraordinarily accurate and consistent, and he was particularly good at picking up technical details of target sites. He was also able to pick up alphanumeric data, a feat that was considered nearly impossible by other remote viewers, who believed that attempting to recognize numbers or letters would short-circuit the psi process. Price, however, could often read numbers or words on pieces of paper or names on uniforms, even if not always perfectly.[^1]
-
-One of his most famous successes was the remote viewing of a secret Soviet military research facility at Semipalatinsk (URDF-3). He described a large gantry crane on rails, the construction of large metal spheres (estimated at 60 feet in diameter), and the use of a new "flux-welding" technique to assemble them. These details were later confirmed by satellite photography, making it a highly impressive demonstration of psychic spying. He also successfully remote-viewed a secret [[NSA|NSA]] facility in Sugar Grove, West Virginia, a U.S. Navy communications base with subterranean facilities. His detailed descriptions of the site, including its underground areas and the presence of NSA cryptographers, were so accurate that they sparked a hostile security investigation, as the information was highly classified.[^1]
-
-Price also demonstrated precognitive abilities. In one instance, he accurately described the Redwood City Marina and the boats there five minutes *before* Puthoff and Cox arrived at the location, suggesting he had perceived the future. In another case, he described a water-treatment plant with two large elevated water tanks at Rinconada Park in Palo Alto, which was later confirmed to have existed at that site in 1913, twenty-one and a half years before his viewing, indicating a perception across time. He also accurately predicted the ceasefire date of the Yom Kippur War and seemed to detect President Nixon's Oval Office tape recorder, which he described as a device that would make Nixon suffer.[^1]
-
-Price was a cheerful and emotionally resilient man who charmed almost everyone he met. He had a friendly rivalry with [[Ingo Swann]], the other star psychic at SRI. He was involved in the [[Patty Hearst]] kidnapping case in 1974, where he accurately perceived that the kidnapping was a political, terroristic act rather than for money, and identified three members of the Symbionese Liberation Army (SLA) from mug shots, including William Wolfe, whose nickname was "Willie the Wolf." He also accurately described Wolfe's unusual dental surgery without anesthesia. Despite his efforts, he was unable to pinpoint Hearst's exact location, though he could vividly see her locked in a closet. He continued to work on the case, even after Hearst publicly aligned with the SLA, until the SLA members were cornered and killed in Los Angeles.[^1]
-
-In the autumn of 1974, Price left SRI to work for a coal company in Huntington, West Virginia, with the intention of using his psychic abilities to find rich veins of coal. He also began to work directly for the [[Central Intelligence Agency|CIA]], becoming involved in operations such as attempting to confirm the location of a Chinese Embassy communications office in a foreign capital. He successfully passed three tests for the CIA, demonstrating his ability to accurately describe embassy layouts and even a mural on a ceiling, though his ability to perceive across time sometimes led him to describe past states of a location. Despite his accuracy, the "giggle factor" prevented the CIA from fully relying on his psychic insights for high-stakes operations.[^1]
-
+location: "Burbank, California"
 ---
 
-[^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+Pat Price (December 8, 1918 - July 14, 1975) was a retired law enforcement official from Burbank, California, who joined the [[Stanford Research Institute]] remote viewing program in 1973 and produced results that the program's principal investigators, [[Hal Puthoff]] and [[Russell Targ]], considered the most operationally significant of the SRI period. His remote viewing sessions targeting a classified Soviet research facility at [[Semipalatinsk]] and a classified [[National Security Agency|NSA]] signals intelligence installation at Sugar Grove, West Virginia, were assessed as substantially accurate against independent intelligence sources and contributed substantially to congressional and agency briefings used to justify continued program funding. He died in Las Vegas in July 1975 at age 56 of a reported heart attack, under circumstances that some program participants considered suspicious.
+
+### Background and Law Enforcement Career
+
+Price was born December 8, 1918, and spent his career in law enforcement in Burbank, California, where he eventually served as a police commissioner and reached the rank of undersheriff. During his law enforcement career, he claimed to use psychic impressions as an investigative tool, sitting in police dispatch offices attempting to perceive locations of criminals and using spontaneously received information to generate investigative leads. He retired from law enforcement and by the early 1970s was living near Lake Tahoe, operating a small building contractor business. He was a member of the [[Church of Scientology]], as were [[Ingo Swann]] and, for a period, Puthoff. The CIA's internal program assessments noted the Scientology affiliations of the program's principal figures.
+
+### SRI Experiments and Semipalatinsk (1973-1974)
+
+Price introduced himself to Puthoff after attending a lecture and began informal remote viewing sessions at SRI in 1973. His early results were sufficiently consistent that he rapidly became the program's primary subject. Unlike Swann, who had developed theoretical frameworks for understanding anomalous cognition, Price treated remote viewing tasks with what Puthoff described as the practical matter-of-factness of a detective.
+
+The most operationally significant of his SRI sessions targeted the Soviet research facility designated URDF-3 near Semipalatinsk in Kazakhstan, assigned by CIA officer Peter Maris. Price described a large gantry crane structure on rails, construction of large spherical metal objects he estimated at approximately 60 feet in diameter, and a novel welding technique being applied to their assembly - a method he termed "flux-welding." The CIA subsequently evaluated these descriptions against classified satellite photography and assessed them as substantially accurate, including dimensional details of the structures that could not have been derived from available open-source information about the facility. The Semipalatinsk session became the program's most-cited operational result in subsequent briefings to congressional oversight and DIA sponsors.
+
+The second major session was a remote viewing of the NSA signals intelligence facility at Sugar Grove, West Virginia, conducted when CIA officer [[Bill O'Donnell]] inadvertently provided Price and Swann with the facility's geographic coordinates as a targeting exercise. Price's and Swann's descriptions included internal organizational details and reference to NSA cryptographers working at the site. The accuracy of the descriptions triggered an NSA security investigation into whether remote viewing, if genuine, represented a vulnerability for classified installations.
+
+Price also demonstrated precognitive results during SRI experiments: he described the Redwood City Marina and its boats five minutes before Puthoff and a colleague arrived at the target location, and he described a water-treatment facility with elevated water tanks at Rinconada Park that had existed at the site decades before his session.
+
+### CIA Direct Work (1974-1975)
+
+In the autumn of 1974, Price left SRI and began working directly for the CIA outside the SRI institutional framework, including a period attempting to identify coal deposits in Huntington, West Virginia, using psychic methods for a commercial client. He also undertook CIA-tasked remote viewing sessions to attempt to confirm locations of foreign intelligence facilities. He passed initial CIA verification tests, accurately describing embassy layouts and interior details that were confirmed against classified records.
+
+### Death and Disputed Circumstances
+
+Price died in Las Vegas, Nevada, on July 14, 1975, at age 56. The official cause of death was a heart attack. He had no known prior history of cardiac disease. Puthoff was contacted and traveled to Las Vegas to manage the program's interests in the aftermath. He found that Price's personal suitcase, which Price habitually carried and which contained his remote viewing notes and CIA-associated materials, had disappeared before Puthoff's arrival.
+
+Within the SRI program, Puthoff and other participants considered Price's death - a healthy 56-year-old with no cardiac history, working for the CIA, suitcase missing - as warranting further inquiry. Price's family disputed the cardiac diagnosis. The CIA conducted an internal review. No evidence of foul play was established and no formal investigation outside the CIA's internal inquiry was conducted. The circumstances have remained unresolved.
+
+Price's death substantially changed the program's operational character. As the most effective subject for intelligence-relevant remote viewing to that point, his loss redirected the program toward developing trained remote viewers from the Army's own personnel rather than relying on a small number of naturally gifted civilians. The structured Coordinate Remote Viewing protocol that Swann subsequently developed for Army training was in part a response to the program's inability to identify another subject with Price's consistency.
+
+### Assessment
+
+Within the government's remote viewing program, Price's Semipalatinsk session was the most frequently cited evidence for anomalous information transfer with intelligence value. Ray Hyman, who evaluated the program critically in the 1995 [[American Institutes for Research|AIR]] assessment, acknowledged the Semipalatinsk result as the program's strongest single case while arguing that alternative explanations - including access to open-source information about the facility that participants did not recall using - could not be definitively ruled out without complete documentation that had not been preserved.
+
+### Footnotes
+
+[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017, pp. 41-78 (comprehensive account of Price's SRI work and death). Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, pp. 85-150.
+[^2]: Puthoff, Harold E., and Russell Targ. "A Perceptual Channel for Information Transfer over Kilometer Distances: Historical Perspective and Recent Research." *Proceedings of the IEEE* 64, no. 3 (March 1976): 329-354 (presents SRI experimental results including Price sessions). CIA CREST database documents on SCANATE program, released under FOIA.

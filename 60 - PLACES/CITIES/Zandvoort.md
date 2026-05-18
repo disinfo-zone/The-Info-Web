@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - Netherlands
@@ -8,7 +8,7 @@ tags:
   - Dutroux
 summary: "Zandvoort is a Dutch North Sea coastal resort town that came to prominence in vault-related investigations as the location of the Apollo Bulletin Board Service, a child pornography distribution network whose archives were discovered in 1998 and contained evidence of a large-scale international child abuse production and distribution operation with connections to the broader Belgian-Dutch pedophile network investigated in connection with the Dutroux affair."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Zandvoort, Netherlands"
 ---
 

@@ -21,7 +21,7 @@ Pastora frequently outraged his [[Central Intelligence Agency]] handlers by publ
 
 ### CIA Oversight
 
-Like Bermúdez, Pastora was put on the CIA's payroll, where he remained until mid-1984. When the Chamorros switched from the FDN to ARDE, they changed their line of command—reporting to Pastora instead of Bermúdez—but both Pastora and Bermúdez still reported to the CIA.[^2]
+Like Bermúdez, Pastora was put on the CIA's payroll, where he remained until mid-1984. When the Chamorros switched from the FDN to ARDE, they changed their line of command - reporting to Pastora instead of Bermúdez - but both Pastora and Bermúdez still reported to the CIA.[^2]
 
 Cocaine profits from [[Norwin Meneses]]'s [[San Francisco]] drug operation, previously channeled through UDN-FARN to the FDN, likely began being used to benefit ARDE after the September 1982 merger. The CIA retained oversight responsibility throughout.[^2]
 

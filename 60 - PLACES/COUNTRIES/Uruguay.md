@@ -1,5 +1,5 @@
----
-category: "South America"
+﻿---
+category: "Country"
 tags:
   - Country
   - Uruguay
@@ -9,7 +9,7 @@ tags:
   - ColdWar
 summary: "Uruguay under its military dictatorship (1973-1985) was a founding Operation Condor participant whose intelligence service coordinated the cross-border tracking and killing of Uruguayan political opponents who had fled to Argentina and elsewhere; the Tupamaro guerrilla movement that prompted the dictatorship had itself been used as a CIA training case study."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Montevideo, Uruguay"
 ---
 

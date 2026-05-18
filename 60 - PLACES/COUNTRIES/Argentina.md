@@ -1,5 +1,5 @@
----
-category: "South America"
+﻿---
+category: "Country"
 tags:
   - Country
   - Argentina
@@ -9,7 +9,7 @@ tags:
   - Nazi
 summary: "Argentina under its military dictatorship (1976-1983) was a central participant in Operation Condor and conducted its own Dirty War against domestic leftists, killing an estimated 9,000-30,000 people; it was also a refuge for Nazi war criminals and a node in CIA-backed anti-communist operations throughout Latin America."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Buenos Aires, Argentina"
 ---
 

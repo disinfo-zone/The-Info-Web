@@ -1,4 +1,7 @@
 ﻿---
+created: 2026-05-17
+updated: 2026-05-17
+title: Operation Gold
 aliases:
   - Operation Gold
   - Operation Stopwatch
@@ -11,10 +14,10 @@ tags:
   - KGB
   - Germany
   - ColdWar
-  - Intelligence
   - Soviet
+  - GeorgeBlake
   - 1950s
-summary: "Operation Gold (British: Operation Stopwatch) was a 1955-1956 CIA-MI6 Berlin tunnel tapping Soviet military cables that had been betrayed to the KGB by double agent George Blake before construction began, with the KGB delaying discovery for eleven months to protect Blake's cover."
+summary: "Operation Gold was a 1955-1956 CIA-MI6 joint operation that tunneled beneath the Berlin sector boundary to tap Soviet military cables, producing eleven months of signals intelligence before a staged Soviet discovery - the tunnel having been betrayed before construction by MI6 officer and KGB agent George Blake."
 start: 1954-09-01
 end: 1956-04-22
 location: "Berlin, Germany"

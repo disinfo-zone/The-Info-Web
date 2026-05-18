@@ -1,4 +1,4 @@
-﻿---
+---
 created: 2026-05-15
 updated: 2026-05-16
 title: Sam Giancana
@@ -20,7 +20,6 @@ born: 1908-05-19
 died: 1975-06-19
 location: "Chicago, Illinois"
 ---
-
 Salvatore "Sam" Giancana (May 19, 1908 - June 19, 1975) was the boss of the [[La Cosa Nostra|Chicago Outfit]] from 1957, one of the most powerful organized crime figures in the United States during the late 1950s and early 1960s. He was recruited by the [[Central Intelligence Agency|CIA]] in 1960 as part of the agency's operation to assassinate [[Fidel Castro]] and was the target of an intense [[Federal Bureau of Investigation|FBI]] campaign under [[Robert Kennedy]]'s direction as Attorney General. He was murdered in his home kitchen on June 19, 1975, one day before he was scheduled to testify before a Senate subcommittee investigating the CIA-organized crime anti-Castro plots.[^1]
 
 ### Criminal Career

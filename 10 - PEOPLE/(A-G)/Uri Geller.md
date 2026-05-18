@@ -1,16 +1,26 @@
 ---
-category: "Key Figures"
+created: 2026-05-15
+updated: 2026-05-17
+title: Uri Geller
+aliases:
+  - Uri Geller
+category: "Psychics & Remote Viewers"
 tags:
   - Person
+  - PSI
+  - SRI
+  - CIA
   - Stargate
-  - Military
-summary: "When Geller was ten, his parents separated, and he moved with his mother to Cyprus."
+  - Mossad
+  - RemoteViewing
+  - 1970s
+  - 1980s
+summary: "Uri Geller is an Israeli-British illusionist and psychic claimant who was tested by Stanford Research Institute under CIA contract in 1972-1973, reportedly worked for Israeli military intelligence on clairvoyance taskings, and became the most publicly known subject of the U.S. government's parapsychology program."
 born: 1946-12-20
 location: "Tel Aviv, British Mandate Palestine"
 ---
 
-
-[[Uri Geller]] is a famous [[Israel|Israeli]]-British illusionist, mentalist, and spoon bender. He was born on the winter solstice of 1946, in Tel Aviv, to Hungarian emigré parents. According to the Geller legend, at the age of four, he was visited by a strange luminous apparition, after which he began to manifest paranormal talents. Unlike [[Ingo Swann]] and [[Pat Price]], he did not have out-of-body experiences or premonitions; instead, he claimed to be able to read minds, visualize hidden objects and drawings clairvoyantly, and bend small pieces of metal.[^1]
+Uri Geller is a famous Israeli-British illusionist, mentalist, and spoon bender. He was born on the winter solstice of 1946, in Tel Aviv, to Hungarian emigré parents. According to the Geller legend, at the age of four, he was visited by a strange luminous apparition, after which he began to manifest paranormal talents. Unlike [[Ingo Swann]] and [[Pat Price]], he did not have out-of-body experiences or premonitions; instead, he claimed to be able to read minds, visualize hidden objects and drawings clairvoyantly, and bend small pieces of metal.[^1]
 
 When Geller was ten, his parents separated, and he moved with his mother to Cyprus. At seventeen, he returned to Israel, joined the paratroops, and was wounded during the Six-Day War in 1967. After recuperating, he worked as a model. Encouraged by a friend, [[Shippi Strang]], he began public performances of mind reading and metal-bending in 1969. His celebrity grew, and he performed for prestigious figures, including Prime Minister Golda Meir and General Moshe Dayan, who reportedly asked him, "Now, what can you do for Israel?"[^1]
 
@@ -24,7 +34,7 @@ After leaving SRI, Geller continued his career as an entertainer and reportedly 
 
 In the winter of 1975, Geller was tested by a group of nuclear physicists and engineers from [[Lawrence Livermore National Laboratory]]. The tests, which included attempts to interfere with laser beams and erase magnetic computer program cards, were conducted to assess the potential threat of psychokinesis to nuclear weapons systems. While the scientists concluded that Geller's abilities were not effective over long distances, they experienced a series of bizarre, hallucination-inducing phenomena after their involvement with him, which became known as the "[[Geller Effect]]."[^2]
 
----
+### Footnotes
 
-[^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
-[^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^1]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997.
+[^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.

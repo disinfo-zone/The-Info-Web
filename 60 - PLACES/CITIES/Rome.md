@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - Italy
@@ -10,7 +10,7 @@ tags:
   - Gladio
 summary: "Rome is the capital of Italy and home to the Vatican; it appears in this vault as the location of P2 Masonic lodge operations, the Vatican Bank (IOR) financial flows connected to BCCI and CIA-backed anti-communist programs, and the base of Italian intelligence services whose Cold War activities intersected with Gladio and the strategy of tension."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Rome, Italy"
 ---
 

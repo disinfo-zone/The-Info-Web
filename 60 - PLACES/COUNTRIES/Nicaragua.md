@@ -15,7 +15,7 @@ Nicaragua is a [[Central America|Central American]] nation that was ruled by the
 
 For the forty-six years the Somoza family ruled Nicaragua, they served as reliable allies of the [[United States|U.S.]] government. Anastasio Somoza personally participated in the [[Central Intelligence Agency]]'s 1954 overthrow of the [[Guatemala|Guatemalan]] government, provided the staging base for the [[Bay of Pigs|Bay of Pigs]] invasion of [[Cuba]] in 1961, sent troops to the [[Dominican Republic]] in 1965, and contributed Nicaraguan forces to [[Vietnam]].[^1]
 
-The [[Nicaraguan National Guard]] served as Somoza's military, police, and intelligence service — a bulwark against anti-American interests that the U.S. had created in the 1930s and trained at [[Fort Gulick]], [[Fort Benning]], and [[Fort Leavenworth|Leavenworth]].
+The [[Nicaraguan National Guard]] served as Somoza's military, police, and intelligence service - a bulwark against anti-American interests that the U.S. had created in the 1930s and trained at [[Fort Gulick]], [[Fort Benning]], and [[Fort Leavenworth|Leavenworth]].
 
 ### Revolution and Aftermath
 
@@ -23,7 +23,7 @@ Sandinista forces overthrew Somoza on July 17, 1979. Somoza and his inner circle
 
 ### Contra War
 
-Nicaragua became the battleground for a proxy war between the U.S.-backed Contras and the Sandinista government.[^2] The Contra factions — including the [[FDN]] based in Honduras and [[ARDE]] and [[UDN-FARN]] based in Costa Rica — were deeply infiltrated by drug traffickers, including [[Norwin Meneses]], [[Danilo Blandon|Danilo Blandón]], [[Marcos Aguado]], [[Horacio Pereira]], and others.
+Nicaragua became the battleground for a proxy war between the U.S.-backed Contras and the Sandinista government.[^2] The Contra factions - including the [[FDN]] based in Honduras and [[ARDE]] and [[UDN-FARN]] based in Costa Rica - were deeply infiltrated by drug traffickers, including [[Norwin Meneses]], [[Danilo Blandon|Danilo Blandón]], [[Marcos Aguado]], [[Horacio Pereira]], and others.
 
 ### Drug Trafficking Hub
 

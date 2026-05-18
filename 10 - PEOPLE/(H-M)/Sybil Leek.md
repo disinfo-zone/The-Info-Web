@@ -14,7 +14,7 @@ Sybil Leek, known as "Britain's most famous witch," was an astrologer and author
 
 After the war, Leek moved to America in 1962. She was later quoted in a classified [[Department of Defense]] monograph on [[Extrasensory Perception]] (ESP), which suggested she became an American intelligence asset[^1].
 
-In the 1970s, [[John LaMothe]]'s report, *Controlled Offensive Behavior—USSR*, identified Sybil Leek as a "noted astrologer and author." She warned that "there is a great danger that within the next ten years the Soviets will be able to steal our top secrets by using out-of-the-body spies"[^1]. Leek also advised the [[Central Intelligence Agency]] on witchcraft and the supernatural[^1]. While her sources were sometimes considered biased in favor of ESP research programs, her insights were noted within the intelligence community[^1].
+In the 1970s, [[John LaMothe]]'s report, *Controlled Offensive Behavior - USSR*, identified Sybil Leek as a "noted astrologer and author." She warned that "there is a great danger that within the next ten years the Soviets will be able to steal our top secrets by using out-of-the-body spies"[^1]. Leek also advised the [[Central Intelligence Agency]] on witchcraft and the supernatural[^1]. While her sources were sometimes considered biased in favor of ESP research programs, her insights were noted within the intelligence community[^1].
 
 ---
 

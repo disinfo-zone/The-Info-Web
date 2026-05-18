@@ -1,7 +1,10 @@
-﻿---
+---
+title: Pasadena Police Department
 aliases:
   - Pasadena Police Department
   - PPD
+created: 2026-05-17
+updated: 2026-05-17
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -18,7 +21,7 @@ The Pasadena Police Department is the municipal law enforcement agency for Pasad
 
 ### Role in the Corll Investigation
 
-The department's principal relevance to this vault is its initial response to the shooting of Dean Arnold Corll on August 8, 1973. Corll, a Houston area electrician, was shot and killed at his residence at 2020 Lamar Drive in Pasadena by seventeen-year-old Elmer Wayne Henley, one of his accomplices in a series of murders spanning 1970 to 1973.
+The department's principal relevance to this vault is its initial response to the shooting of [[Dean Arnold Corll]] on August 8, 1973. Corll, a Houston area electrician, was shot and killed at his residence at 2020 Lamar Drive in Pasadena by seventeen-year-old Elmer Wayne Henley, one of his accomplices in a series of murders spanning 1970 to 1973.
 
 Henley called the Pasadena Police Department at approximately 8:30 a.m. on August 8, 1973, to report that he had shot a man. Officers responding to the call found Corll's body. Henley, in initial statements to Pasadena officers, disclosed the existence of a boat storage facility on Silver Bell Street in southwest Houston where bodies of victims were buried. He subsequently disclosed additional burial sites.[^1]
 

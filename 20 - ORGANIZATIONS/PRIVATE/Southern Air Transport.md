@@ -22,7 +22,7 @@ Miami FBI informant [[Wanda Palacios]] reported in 1986 that she witnessed South
 
 Former Meneses aide [[Enrique Miranda]] testified that on occasion, cocaine from Ilopango was loaded onto aircraft owned by the Salvadoran Air Force and Miami-based Southern Air Transport for shipment to the United States. Miranda said [[Marcos Aguado]] and [[Norwin Meneses]] supervised the loading at Ilopango Air Force Base. Southern Air officials vehemently denied involvement with drug smuggling and sued news organizations that aired such allegations.[^1]
 
-Colombian informant [[Allen Raul Rudd]] reported that Escobar claimed planes similar to C-130s were flying guns to the cartel in Colombia, off-loading guns, loading cocaine, and flying it to U.S. military bases—an arms-for-drugs swap coordinated between the Medellín cartel and elements of the U.S. government.[^1]
+Colombian informant [[Allen Raul Rudd]] reported that Escobar claimed planes similar to C-130s were flying guns to the cartel in Colombia, off-loading guns, loading cocaine, and flying it to U.S. military bases - an arms-for-drugs swap coordinated between the Medellín cartel and elements of the U.S. government.[^1]
 
 ### Footnotes
 

@@ -17,7 +17,7 @@ While working with USACA and the Contras, Dowling appeared before Congress in 19
 
 ### Funding from North and Calero
 
-Dowling admitted receiving about $73,000 in cash and travelers checks from [[Oliver North]], [[Adolfo Calero]], and other members of North's operation between 1986 and 1987 "to affect public opinion favorably toward the Reagan position inside, regarding Central America." The money went to a nonprofit Dowling set up called the Latin America Strategic Studies Institute (LASSI). LASSI employed G. James Quesada, a recently retired CIA officer with extensive Latin American experience who was Nicaraguan. Quesada met [[Norwin Meneses]] and [[Danilo Blandon|Danilo Blandón]] at an FDN meeting but said he stayed away from them, recognizing Meneses was involved in drug trafficking on "the other side" — the military part of the Contra operation.[^1]
+Dowling admitted receiving about $73,000 in cash and travelers checks from [[Oliver North]], [[Adolfo Calero]], and other members of North's operation between 1986 and 1987 "to affect public opinion favorably toward the Reagan position inside, regarding Central America." The money went to a nonprofit Dowling set up called the Latin America Strategic Studies Institute (LASSI). LASSI employed G. James Quesada, a recently retired CIA officer with extensive Latin American experience who was Nicaraguan. Quesada met [[Norwin Meneses]] and [[Danilo Blandon|Danilo Blandón]] at an FDN meeting but said he stayed away from them, recognizing Meneses was involved in drug trafficking on "the other side" - the military part of the Contra operation.[^1]
 
 ### CAUSA Connection
 

@@ -8,7 +8,7 @@ tags:
   - Contra_War
 summary: Salvadoran elite and D'Aubuisson aide caught with $5.9 million in cash at a Texas airport who later flew Contra drug flights out of Ilopango.
 ---
-Francisco "Chico" Guirola Beeche was the scion of one of [[El Salvador]]'s most influential families and a top aide to Salvadoran death squad leader [[Roberto D'Aubuisson]] who became one of the busiest Contra drug pilots at [[Ilopango Airbase|Ilopango Air Force Base]]. He had been caught with $5.9 million in cash—the largest cash seizure in Texas history—yet received only probation from the Justice Department.[^1]
+Francisco "Chico" Guirola Beeche was the scion of one of [[El Salvador]]'s most influential families and a top aide to Salvadoran death squad leader [[Roberto D'Aubuisson]] who became one of the busiest Contra drug pilots at [[Ilopango Airbase|Ilopango Air Force Base]]. He had been caught with $5.9 million in cash - the largest cash seizure in Texas history - yet received only probation from the Justice Department.[^1]
 
 ### The $5.9 Million Seizure
 

@@ -1,5 +1,5 @@
 ﻿---
-category: "Intelligence & Government"
+category: "Military Installation"
 tags:
   - Military
   - UnitedStates
@@ -8,7 +8,7 @@ tags:
   - AATIP
 summary: "USS Princeton (CG-59) is a Ticonderoga-class guided-missile cruiser whose SPY-1B radar system tracked unidentified aerial objects during November 2004 training exercises off the California coast, producing the sensor data that corroborated the visual accounts of F/A-18 pilots in the Nimitz UAP encounter - the most technically documented unidentified aerial phenomenon case in U.S. military history."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "San Diego, California (homeport)"
 ---
 

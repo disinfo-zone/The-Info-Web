@@ -19,7 +19,7 @@ The sociologists observed that crack was found almost exclusively in L.A.'s blac
 
 ### Predictions
 
-Klein and Maxson's predictions proved accurate: "The distribution system seems custom-made for other Black gang centers (Philadelphia, New York, Washington, Chicago, etc.). There is absolutely nothing inherent in this distribution technology, nor in the Los Angeles context of its development, that would prevent its exportation to many other urban areas. Indeed, exportability seems very high. . .. All this makes for an intelligent, well-organized system that is maximally effective—in short, it works efficiently, is very impressive and could easily explode across the nation."[^1]
+Klein and Maxson's predictions proved accurate: "The distribution system seems custom-made for other Black gang centers (Philadelphia, New York, Washington, Chicago, etc.). There is absolutely nothing inherent in this distribution technology, nor in the Los Angeles context of its development, that would prevent its exportation to many other urban areas. Indeed, exportability seems very high. . .. All this makes for an intelligent, well-organized system that is maximally effective - in short, it works efficiently, is very impressive and could easily explode across the nation."[^1]
 
 Klein and Maxson later came to believe police were exaggerating gang involvement, but two subsequent California Department of Justice studies refuted that idea and concluded gangs were an even bigger force behind crack's spread than previously thought.[^1]
 

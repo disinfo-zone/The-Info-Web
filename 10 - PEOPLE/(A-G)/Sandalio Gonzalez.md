@@ -29,7 +29,7 @@ Gonzalez suspected Meneses was moving cocaine while serving as an informant. [[R
 
 ### Warning to Thomas Gordon
 
-When [[LASD Major Violators]] detective [[Thomas Gordon]] ran NADDIS checks on Blandón and [[Ronald Lister|Lister]] in September 1986, he discovered Gonzalez "owned" both cases from Costa Rica. Gordon called Gonzalez, who "went through the ceiling," screaming that phone lines went through Nicaragua and ordering Gordon not to put any details in search warrant affidavits. "It's a burn," Gonzalez told him—cop slang meaning the investigation had been exposed. Gordon was baffled: his investigation hadn't even started yet, and only Gonzalez knew about it. When Gordon called the DEA's L.A. office, he was told the Costa Rican office was not investigating Lister and Blandón—a Riverside agent was. Gonzalez's reaction and the conflicting information deepened Gordon's suspicions.[^2]
+When [[LASD Major Violators]] detective [[Thomas Gordon]] ran NADDIS checks on Blandón and [[Ronald Lister|Lister]] in September 1986, he discovered Gonzalez "owned" both cases from Costa Rica. Gordon called Gonzalez, who "went through the ceiling," screaming that phone lines went through Nicaragua and ordering Gordon not to put any details in search warrant affidavits. "It's a burn," Gonzalez told him - cop slang meaning the investigation had been exposed. Gordon was baffled: his investigation hadn't even started yet, and only Gonzalez knew about it. When Gordon called the DEA's L.A. office, he was told the Costa Rican office was not investigating Lister and Blandón - a Riverside agent was. Gonzalez's reaction and the conflicting information deepened Gordon's suspicions.[^2]
 
 ### Operation Perico
 

@@ -1,4 +1,4 @@
-﻿---
+---
 category: "Crime Investigation"
 tags:
   - Concept
@@ -64,7 +64,7 @@ In May 1986, three years after crack exploded in South Central L.A., the nationa
 
 The coverage followed "a typical pattern in which exaggerated claims were supported by carefully selected cases and fueled with evocative words such as 'epidemic,'" drug researchers Andrew Golub and Donna Hartman found. The press assumed crack was new because editors had not previously reported on it. In reality, crack had been ravaging South Central since 1983, and Jamaican posses and Dominican gangs had been expanding east coast markets for eighteen months. Robert Byck, Yale University's top cocaine expert, had warned Congress about the coming epidemic in 1979 and been ignored.[^6]
 
-Congress passed the 100-to-1 sentencing ratio without hearings, requiring $50,000 worth of powder cocaine to trigger the same five-year mandatory sentence as $750 worth of crack. Byck called it "absolutely senseless," noting the number "50" came from his testimony about crack's relative addictiveness and "got doubled by people who wanted to get tough." Drug expert Steven Belenko observed the anti-crack crusade "occurred in the presence of a real vacuum of knowledge about the drug." The DEA's own August 1986 review found crack was "a secondary rather than primary problem in most areas"—findings that went virtually unreported. Crack hysteria declined only when the [[Iran-Contra Affair]] displaced it from the news.[^6]
+Congress passed the 100-to-1 sentencing ratio without hearings, requiring $50,000 worth of powder cocaine to trigger the same five-year mandatory sentence as $750 worth of crack. Byck called it "absolutely senseless," noting the number "50" came from his testimony about crack's relative addictiveness and "got doubled by people who wanted to get tough." Drug expert Steven Belenko observed the anti-crack crusade "occurred in the presence of a real vacuum of knowledge about the drug." The DEA's own August 1986 review found crack was "a secondary rather than primary problem in most areas" - findings that went virtually unreported. Crack hysteria declined only when the [[Iran-Contra Affair]] displaced it from the news.[^6]
 
 ### Footnotes
 

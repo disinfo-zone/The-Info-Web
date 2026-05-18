@@ -1,5 +1,5 @@
----
-category: "Asia"
+﻿---
+category: "Country"
 tags:
   - Country
   - India
@@ -10,7 +10,7 @@ tags:
   - Intelligence
 summary: "India appears in this vault primarily in connection with CIA covert operations during the Cold War, arms sales through brokers connected to vault subjects (including Mirage jet sales brokered by Asaf Ali), BCCI's significant Indian operations, and India's nuclear weapons program which intersected with Pakistani proliferator A.Q. Khan's network."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "New Delhi, India"
 ---
 

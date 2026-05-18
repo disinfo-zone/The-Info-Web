@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "City"
 tags:
   - City
   - Iraq
@@ -9,7 +9,7 @@ tags:
   - IranContra
 summary: "Baghdad is the capital of Iraq and the seat of Saddam Hussein's Ba'athist government; it was the destination of Donald Rumsfeld's 1983 envoy visit during the Iran-Iraq War, the primary recipient of the BNL scandal's Iraqi arms procurement financing, and the city whose fall in April 2003 ended three decades of Ba'athist rule."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Baghdad, Iraq"
 ---
 

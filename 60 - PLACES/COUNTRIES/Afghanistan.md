@@ -1,4 +1,4 @@
----
+﻿---
 tags: ["Country", "Cold War", "Conflict"]
 category: "Country"
 summary: "Afghanistan is a Central Asian country whose Soviet-Afghan War (1979-1989), CIA-backed Mujahideen funding network, and arms-for-drugs exchanges appear throughout this vault's coverage of Iran-Contra, the Golden Triangle heroin trade, and intelligence operations."

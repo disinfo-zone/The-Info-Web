@@ -1,4 +1,4 @@
-﻿---
+---
 category: "Intelligence Scandal"
 tags:
   - Concept
@@ -25,7 +25,7 @@ In May 1983, the House Intelligence Committee issued a special report suggesting
 
 ### The October 1984 Boland Amendment
 
-The hardest blow came in October 1984, when the Democrat-controlled Congress passed yet another Boland Amendment—this one with teeth. Unlike the earlier versions, it prohibited the CIA, the Defense Department, or any other agency of the U.S. government from giving any money or aid to anyone for the support of the Contras. The money spigot had been officially turned off; the loopholes were sewn shut. The CIA and Defense Department began withdrawing their trainers, advisers, administrators, tacticians, and logisticians from Central America, and by the end of the year the Contras were alone and in disarray. Thousands of rebel fighters retreated from Nicaragua for the safety of Honduras.[^2]
+The hardest blow came in October 1984, when the Democrat-controlled Congress passed yet another Boland Amendment - this one with teeth. Unlike the earlier versions, it prohibited the CIA, the Defense Department, or any other agency of the U.S. government from giving any money or aid to anyone for the support of the Contras. The money spigot had been officially turned off; the loopholes were sewn shut. The CIA and Defense Department began withdrawing their trainers, advisers, administrators, tacticians, and logisticians from Central America, and by the end of the year the Contras were alone and in disarray. Thousands of rebel fighters retreated from Nicaragua for the safety of Honduras.[^2]
 
 ### Footnotes
 

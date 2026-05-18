@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - Netherlands
@@ -8,7 +8,7 @@ tags:
   - ArmsTrafficking
 summary: "Rotterdam is the Netherlands' second-largest city and the largest port in Europe, serving as a major hub for international commerce; it appears in this vault as a transit node for arms shipments documented in the Iran-Contra affair, as a location in Dutch pedophile network investigations connected to the Dutroux inquiry, and as the site of BCCI banking operations in the Netherlands."
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-17
 location: "Rotterdam, Netherlands"
 ---
 

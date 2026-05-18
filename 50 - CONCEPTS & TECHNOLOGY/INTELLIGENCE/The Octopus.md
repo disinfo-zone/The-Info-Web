@@ -1,7 +1,11 @@
 ---
+title: The Octopus
+aliases:
+  - The Octopus
+  - Casolaro's Octopus
 category: "Intelligence Concept"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-05-17
 tags:
   - Concept
   - PROMIS
@@ -9,6 +13,8 @@ tags:
   - OrganizedCrime
   - IranContra
   - BCCI
+  - DrugTrafficking
+  - ColdWar
 summary: "The Octopus is a term used by investigative journalist Danny Casolaro to describe a sprawling alleged criminal network linking the PROMIS software theft, Iran-Contra, the October Surprise, BCCI, and intelligence-connected drug trafficking under a single self-perpetuating criminal enterprise."
 ---
 "The Octopus" was the working title and central organizing metaphor used by investigative journalist [[Danny Casolaro]] for a unified criminal conspiracy he believed connected multiple overlapping scandals of the 1970s and 1980s. Casolaro began investigating the [[PROMIS Software Scandal]] in 1990 after contact with [[Bill Hamilton]] of [[INSLAW]], but concluded the PROMIS theft was only one tentacle of a larger organism that reached into the [[Iran-Contra Affair]], the [[October Surprise]], the [[Bank of Credit and Commerce International|BCCI]] banking collapse, government-sanctioned drug trafficking, and organized crime networks with roots in Cold War covert operations.[^1][^2]
@@ -19,23 +25,23 @@ The term predates Casolaro's investigation. Journalist Dan Moldea used "The Octo
 
 Casolaro's theory held that a core network of CIA operatives, arms dealers, organized crime figures, and corrupt government officials had operated since at least the late 1960s as a self-sustaining criminal enterprise that parasitically exploited official U.S. covert operations. The network's tentacles, as Casolaro mapped them, included:
 
-**PROMIS and the DOJ.** The alleged theft of INSLAW's [[PROMIS]] software by the [[Department of Justice]] under [[Edwin Meese]] and [[Lowell Jensen]], with the modified software distributed internationally to intelligence agencies with a hidden surveillance backdoor, financed through off-the-books sales brokered by [[Earl Brian]].[^1]
+PROMIS and the DOJ: The alleged theft of INSLAW's [[PROMIS]] software by the [[Department of Justice]] under [[Edwin Meese]] and [[Lowell Jensen]], with the modified software distributed internationally to intelligence agencies with a hidden surveillance backdoor, financed through off-the-books sales brokered by [[Earl Brian]].[^1]
 
-**The October Surprise.** Allegations that [[William J. Casey]], [[George H.W. Bush]], and a network of intelligence operatives negotiated with Iranian officials in 1980 to delay the release of U.S. hostages until after [[Ronald Reagan|Reagan's]] inauguration, in exchange for arms. Casolaro's source [[Michael Riconosciuto]] claimed he and Brian personally carried $40 million to Iranian officials for this purpose.[^1]
+The October Surprise: Allegations that [[William J. Casey]], [[George H.W. Bush]], and a network of intelligence operatives negotiated with Iranian officials in 1980 to delay the release of U.S. hostages until after [[Ronald Reagan|Reagan's]] inauguration, in exchange for arms. Casolaro's source [[Michael Riconosciuto]] claimed he and Brian personally carried $40 million to Iranian officials for this purpose.[^1]
 
-**Iran-Contra.** The covert supply of arms to Iranian-backed forces and funding of the Nicaraguan [[Contras]] through off-the-books channels, including weapons manufacturing operations Casolaro connected to the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation|Cabazon]] joint venture in California, where weapons were allegedly developed for Third World armies using the reservation's sovereign status to evade federal controls.[^1][^3]
+Iran-Contra: The covert supply of arms to Iranian-backed forces and funding of the Nicaraguan [[Contras]] through off-the-books channels, including weapons manufacturing operations Casolaro connected to the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation|Cabazon]] joint venture in California, where weapons were allegedly developed for Third World armies using the reservation's sovereign status to evade federal controls.[^1][^3]
 
-**BCCI.** The Bank of Credit and Commerce International, which served as the primary financial infrastructure for covert operations, arms trafficking, and money laundering by the network. Casolaro believed the PROMIS backdoor had also been used to penetrate BCCI and other international banking systems including [[CHIPS]] and [[SWIFT]].[^1]
+BCCI: The [[Bank of Credit and Commerce International]], which served as the primary financial infrastructure for covert operations, arms trafficking, and money laundering by the network. Casolaro believed the PROMIS backdoor had also been used to penetrate BCCI and other international banking systems including [[CHIPS]] and [[SWIFT]].[^1]
 
-**Drug Trafficking.** CIA-connected drug networks flowing from the [[Golden Triangle]] and [[Central America]], with Casolaro connecting [[Robert Booth Nichols]] to both the Octopus network and to drug trafficking through the Medellin and [[Cali Drug Cartel|Cali Cartels]]. Casolaro also investigated connections between former DOJ official [[Michael Abbell]] and the [[Cali Drug Cartel]], a lead provided by Riconosciuto.[^1][^3]
+Drug Trafficking: CIA-connected drug networks flowing from the [[Golden Triangle]] and [[Central America]], with Casolaro connecting [[Robert Booth Nichols]] to both the Octopus network and to drug trafficking through the Medellin and [[Cali Drug Cartel|Cali Cartels]]. Casolaro also investigated connections between former DOJ official [[Michael Abbell]] and the Cali Drug Cartel, a lead provided by Riconosciuto.[^1][^3]
 
-**Organized Crime.** Figures including Nichols, who held alleged ties to the [[Gambino Crime Family]], [[Bufalino Crime Family]], and the Japanese [[Yakuza]], served as the connective tissue between intelligence operations and criminal enterprises.[^1]
+Organized Crime: Figures including Nichols, who held alleged ties to the [[Gambino Crime Family]], [[Bufalino Crime Family]], and the Japanese [[Yakuza]], served as the connective tissue between intelligence operations and criminal enterprises.[^1]
 
 ### Key Sources
 
 Casolaro's investigation rested heavily on [[Michael Riconosciuto]], a computer scientist and self-described CIA contractor who provided the central allegations about PROMIS modification and the October Surprise payment. Casolaro considered Riconosciuto's March 1991 affidavit a breakthrough, though subsequent investigations found Riconosciuto to be an unreliable witness whose accounts contained irreconcilable contradictions.[^4]
 
-[[Robert Booth Nichols]], an international operative under FBI investigation for money laundering and narcotics ties, spent hundreds of hours on the phone with Casolaro and warned him repeatedly to abandon the investigation. Nichols reportedly flew to [[Martinsburg, West Virginia]] shortly before Casolaro's death to persuade him to drop the story, and wrote a manuscript titled "Danny Casolaro's Octopus" after Casolaro died — asserting he believed Casolaro had been murdered.[^1]
+[[Robert Booth Nichols]], an international operative under FBI investigation for money laundering and narcotics ties, spent hundreds of hours on the phone with Casolaro and warned him repeatedly to abandon the investigation. Nichols reportedly flew to [[Martinsburg, West Virginia]] shortly before Casolaro's death to persuade him to drop the story, and wrote a manuscript titled "Danny Casolaro's Octopus" after Casolaro died - asserting he believed Casolaro had been murdered.[^1]
 
 Other sources included former CIA officers, arms dealers, and figures connected to the BCCI investigation. Casolaro's notes contained the names of intelligence operatives, and a 12-page memo from Riconosciuto detailing PROMIS allegations, though his files were missing from his hotel room when his body was discovered.[^1][^2]
 

@@ -1,5 +1,5 @@
----
-category: "Europe"
+﻿---
+category: "City"
 tags:
   - City
   - UnitedKingdom
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "London is the capital of the United Kingdom and a recurring location throughout this vault: the headquarters of MI6 and GCHQ oversight, the site of BCCI's global headquarters in the 1980s, the base of operation for Robert Maxwell's media and intelligence empire, and the location of key arms-to-Iraq commercial networks."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "London, United Kingdom"
 ---
 

@@ -1,15 +1,23 @@
 ---
+created: 2026-05-17
+updated: 2026-05-17
+title: Edwin Wilson
+aliases:
+  - Edwin Wilson
+  - Edwin P. Wilson
+  - Ed Wilson
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
+  - DIA
   - Libya
-  - Arms_Dealer
-  - Ted_Shackley
-  - Iran_Contra
+  - ArmsDealers
+  - TedShackley
+  - IranContra
   - 1970s
   - 1980s
-summary: "Edwin P. Wilson (1928-2012) was a CIA and DIA officer who supplied weapons, explosives, and training to Libya's Qaddafi; convicted in 1983 and sentenced to 52 years, his conviction was overturned in 2003 after the government acknowledged misrepresenting his CIA status at trial."
+summary: "Edwin P. Wilson was a CIA and DIA officer who supplied weapons, explosives, and training to Libya's Qaddafi, was convicted in 1983 and sentenced to 52 years, and had his conviction overturned in 2003 after the government acknowledged falsely representing his CIA status at trial."
 born: 1928-05-03
 died: 2012-09-10
 location: "Rockland, Idaho"

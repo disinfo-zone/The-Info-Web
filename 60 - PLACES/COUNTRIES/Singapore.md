@@ -1,4 +1,4 @@
----
+﻿---
 category: "Country"
 summary: "Singapore is a Southeast Asian city-state that Patrick Moriarty paid Bo Gritz to visit as part of a cover business involving CIA-connected oil interests between China and Indonesia."
 ---

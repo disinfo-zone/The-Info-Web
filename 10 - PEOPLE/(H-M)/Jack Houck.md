@@ -1,16 +1,22 @@
 ---
+created: 2026-05-15
+updated: 2026-05-17
+title: Jack Houck
 aliases:
-- Jack Houck
-category: "Psychics & Remote Viewers"
+  - Jack Houck
+category: "Scientists & Researchers"
 tags:
   - Person
-  - RemoteViewer
-summary: "Jack Houck was a systems engineer for Boeing Aerospace who became interested in psychokinesis (PK), particularly the phenomenon of metal bending."
-born: 1939
-died: 2013
+  - PSI
+  - Psychokinesis
+  - RemoteViewing
+  - Military
+  - 1980s
+summary: "Jack Houck was a Boeing Aerospace systems engineer who developed the PK Party protocol for group psychokinesis metal-bending experiments beginning in 1981 and whose work attracted U.S. Army Intelligence and Security Command attention for its potential military implications."
+born: 1939-01-01
+died: 2013-01-01
+location: "Manhattan Beach, California"
 ---
-
-# Jack Houck
 
 Jack Houck was a systems engineer for Boeing Aerospace who became interested in [[Psychokinesis|psychokinesis]] (PK), particularly the phenomenon of metal bending. He observed that people often felt energy coming from their hands during the process and noted that martial arts practitioners spoke of an internal energy, or *[[Qi]]*, that could be summoned with the mind and felt as heat in their hands[^1].
 

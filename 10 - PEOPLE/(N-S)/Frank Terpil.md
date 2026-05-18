@@ -1,16 +1,23 @@
 ---
+created: 2026-05-17
+updated: 2026-05-17
+title: Frank Terpil
+aliases:
+  - Frank Terpil
+  - Frank Edwin Terpil
 category: "Intelligence & Government"
 tags:
   - Person
   - CIA
   - Libya
-  - Arms_Dealer
-  - Edwin_Wilson
+  - ArmsDealers
+  - EdwinWilson
   - 1970s
   - 1980s
-summary: "Frank Terpil was a former CIA Technical Operations officer who partnered with Edwin Wilson to supply arms, explosives, and paramilitary training to Libya's Qaddafi, fled rather than face a 1980 U.S. indictment, and reportedly died in exile in Cuba in 2016."
-location: "Exile (Cuba / Syria / Beirut)"
+summary: "Frank Terpil was a former CIA Technical Operations officer who partnered with Edwin Wilson to supply arms, explosives, and paramilitary training to Libya's Qaddafi, fled the U.S. rather than face a 1980 federal indictment, and reportedly died in exile in Cuba in 2016."
+born: 1939-01-01
 died: 2016-01-01
+location: "Exile (Cuba / Syria / Beirut)"
 ---
 
 Frank Edwin Terpil was a former [[Central Intelligence Agency|CIA]] Technical Operations officer who left the agency under administrative difficulties in 1971 and subsequently built a private career in arms dealing and paramilitary consulting that brought him into serious criminal jeopardy. His primary criminal exposure arose from his partnership with [[Edwin Wilson]] in supplying weapons, C-4 plastic explosive, and military training to Libya under Muammar Qaddafi during the late 1970s.[^1]

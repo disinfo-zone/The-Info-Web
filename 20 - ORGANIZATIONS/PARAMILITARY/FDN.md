@@ -29,13 +29,13 @@ The FDN was officially created in August 1981 when the CIA forced a merger betwe
 
 The CIA's role was authorized under National Security Decision Directive #17, signed by [[Ronald Reagan|President Reagan]] in late 1981, which allocated $19.95 million for covert operations against the [[Sandinistas]]. The funds were channeled through the Argentine military to preserve CIA "deniability."
 
-The CIA selected Aristides Sánchez — a close friend of Norwin Meneses and brother of Fernando Sánchez ([[Anastasio Somoza|Somoza]]'s last ambassador to Guatemala), Troilo Sánchez (Norwin's business partner), and Enrique Sánchez (partner in a Miami restaurant with Donald Barrios) — to assist Bermúdez. Oliver North later called Aristides Sánchez "Calero's hatchet man."[^3] Norwin Meneses stated: "I dealt directly with Bermúdez, and occasionally his assistant on minor things. I also worked with Aristides Sanchez. He was a very good friend of mine."
+The CIA selected Aristides Sánchez - a close friend of Norwin Meneses and brother of Fernando Sánchez ([[Anastasio Somoza|Somoza]]'s last ambassador to Guatemala), Troilo Sánchez (Norwin's business partner), and Enrique Sánchez (partner in a Miami restaurant with Donald Barrios) - to assist Bermúdez. Oliver North later called Aristides Sánchez "Calero's hatchet man."[^3] Norwin Meneses stated: "I dealt directly with Bermúdez, and occasionally his assistant on minor things. I also worked with Aristides Sanchez. He was a very good friend of mine."
 
 ### Weapons Supply Network
 
 [[Ronald Lister]] and [[Pyramid International Security Consultants]] established weapons manufacturing operations in [[El Salvador]] that supplied arms to the Contras. Lister partnered with FDN supporters Danilo Blandón and Norwin Meneses in selling weapons abroad. The FDN could not collect sufficient funds to finalize an arms deal with Lister, but Lister and his associates set up a weapons plant in downtown [[San Salvador]] that manufactured guns airlifted to Contra camps in Honduras.[^5]
 
-Air cargo company [[Hondu Carib Cargo]], operated by Mario Calero — brother of FDN political leader Adolfo Calero — flew FDN supply missions. The owner of Hondu Carib was pilot [[Frank Moss]], identified in a 1989 Senate report as having been investigated for narcotics offenses by ten different law enforcement agencies. A DC-4 Moss used was seized by the DEA in 1987 with marijuana residue and notes containing the names of two CIA officers and the phone number of [[Robert Owen]], Oliver North's courier.[^5]
+Air cargo company [[Hondu Carib Cargo]], operated by Mario Calero - brother of FDN political leader Adolfo Calero - flew FDN supply missions. The owner of Hondu Carib was pilot [[Frank Moss]], identified in a 1989 Senate report as having been investigated for narcotics offenses by ten different law enforcement agencies. A DC-4 Moss used was seized by the DEA in 1987 with marijuana residue and notes containing the names of two CIA officers and the phone number of [[Robert Owen]], Oliver North's courier.[^5]
 
 ### Later Reorganization
 
@@ -43,7 +43,7 @@ The FDN later joined the umbrella group [[UNO]] (United Nicaraguan Opposition), 
 
 ### Low Point of 1984–85
 
-During the winter of 1984–85, the FDN reached its lowest ebb on the battlefield and in public opinion. After twelve months of consecutive public relations disasters—the CIA's harbor mining, the assassination manual scandal, the passage of the [[Boland Amendment]] in October 1984—the FDN was alone and in disarray. Thousands of rebel fighters retreated from Nicaragua to Honduras. Money and weapons were scarce. In early 1985, allegations of Contra battlefield atrocities—murders, tortures, assassinations, and "the deliberate use of terror"—surfaced from human rights groups, undermining President Reagan's characterization of them as "freedom fighters."[[Robert McFarlane]], Reagan's national security adviser, told FDN leader Adolfo Calero in January 1985 that it might be time to start thinking about "cutting both our losses and theirs."[^6]
+During the winter of 1984–85, the FDN reached its lowest ebb on the battlefield and in public opinion. After twelve months of consecutive public relations disasters - the CIA's harbor mining, the assassination manual scandal, the passage of the [[Boland Amendment]] in October 1984 - the FDN was alone and in disarray. Thousands of rebel fighters retreated from Nicaragua to Honduras. Money and weapons were scarce. In early 1985, allegations of Contra battlefield atrocities - murders, tortures, assassinations, and "the deliberate use of terror" - surfaced from human rights groups, undermining President Reagan's characterization of them as "freedom fighters."[[Robert McFarlane]], Reagan's national security adviser, told FDN leader Adolfo Calero in January 1985 that it might be time to start thinking about "cutting both our losses and theirs."[^6]
 
 ### Footnotes
 

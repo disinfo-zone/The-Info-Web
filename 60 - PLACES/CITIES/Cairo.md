@@ -1,5 +1,5 @@
----
-category: "Middle East"
+﻿---
+category: "City"
 tags:
   - City
   - Egypt
@@ -8,7 +8,7 @@ tags:
   - Mukhabarat
 summary: "Cairo is the capital of Egypt and the center of Egyptian intelligence operations; it appears in this vault as the administrative base for CIA-Mukhabarat liaison, the site of Camp David-era Egyptian diplomatic activity, and a hub for Arab intelligence services relevant to the vault's Middle East subjects."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Cairo, Egypt"
 ---
 

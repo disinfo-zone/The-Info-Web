@@ -1,11 +1,11 @@
----
+﻿---
 aliases:
   - East Germany
   - GDR
   - German Democratic Republic
   - Deutsche Demokratische Republik
   - DDR
-category: "Europe"
+category: "Country"
 tags:
   - Country
   - Germany

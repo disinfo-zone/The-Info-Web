@@ -1,20 +1,27 @@
 ---
+created: 2026-05-17
+updated: 2026-05-17
+title: Church Committee
+aliases:
+  - Church Committee
+  - Senate Select Committee on Intelligence Activities
+  - Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities
 category: "Intelligence Scandal"
 tags:
   - Event
-  - Congressional_Investigation
+  - CongressionalInvestigation
   - CIA
   - FBI
   - NSA
-  - Operation_CHAOS
+  - OperationCHAOS
   - COINTELPRO
-  - Assassination_Plots
+  - AssassinationPlots
+  - ChurchCommittee
   - 1975
   - 1976
-  - Church_Committee
 start: 1975-01-27
 end: 1976-04-26
-summary: "The Church Committee (1975-1976) was a Senate investigation that documented systematic CIA, FBI, NSA, and IRS abuses including Operation CHAOS, COINTELPRO, assassination plots, and illegal mail opening, producing the foundational primary source (S. Rept. 94-755) for post-WWII U.S. intelligence oversight."
+summary: "The Church Committee (1975-1976) was the Senate investigation that documented systematic CIA, FBI, NSA, and IRS abuses including Operation CHAOS, COINTELPRO, assassination plots, and HTLINGUAL illegal mail opening, producing S. Rept. 94-755, the foundational primary source for post-WWII U.S. intelligence oversight."
 location: "Washington, D.C."
 ---
 
@@ -32,15 +39,15 @@ Earlier contributory revelations included: the discovery of the "Family Jewels" 
 
 The committee's investigations covered all major U.S. intelligence agencies: the CIA, FBI, NSA, Army intelligence, and IRS. Its principal documented findings included:
 
-**Operation CHAOS (CIA):** The CIA's [[Operation CHAOS]] (MHCHAOS), directed by [[Richard Ober]] under Angleton's Counterintelligence Staff, was documented as "unlawful" domestic surveillance violating the CIA's legislative charter. The HYDRA index of 7,200 American citizens and 300,000 names was documented. The committee also documented Project MERRIMAC and Project RESISTANCE as subprograms feeding CHAOS. The findings are in Book III of the final report: "CIA Intelligence Collection About Americans: CHAOS and the Office of Security," available at aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf.[^1]
+Operation CHAOS (CIA): The CIA's [[Operation CHAOS]] (MHCHAOS), directed by [[Richard Ober]] under [[James Jesus Angleton|James Angleton]]'s Counterintelligence Staff, was documented as "unlawful" domestic surveillance violating the CIA's legislative charter. The HYDRA index of 7,200 American citizens and 300,000 names was documented. The committee also documented Project MERRIMAC and Project RESISTANCE as subprograms feeding CHAOS. The findings are in Book III of the final report: "CIA Intelligence Collection About Americans: CHAOS and the Office of Security."[^1]
 
-**COINTELPRO (FBI):** The FBI's [[COINTELPRO]] programs were documented as having used infiltration, psychological warfare, fabricated communications, wrongful prosecution referrals, and coordination with local law enforcement in ways the committee found constituted a systematic campaign against legal political activity. The committee found that the FBI had opened more than 500,000 domestic intelligence files since 1960 and that many targeted individuals had never engaged in any illegal activity.[^1]
+COINTELPRO (FBI): The FBI's [[COINTELPRO]] programs were documented as having used infiltration, psychological warfare, fabricated communications, wrongful prosecution referrals, and coordination with local law enforcement in ways the committee found constituted a systematic campaign against legal political activity. The committee found that the FBI had opened more than 500,000 domestic intelligence files since 1960 and that many targeted individuals had never engaged in any illegal activity.[^1]
 
-**Assassination plots:** The committee documented CIA programs to assassinate foreign leaders, including Fidel Castro, Patrice Lumumba, Rafael Trujillo, Ngo Dinh Diem, and René Schneider of Chile. The Interim Report, "Alleged Assassination Plots Involving Foreign Leaders" (published November 1975), established the documented record of these operations.[^1]
+Assassination plots: The committee documented CIA programs to assassinate foreign leaders, including [[Fidel Castro]], [[Patrice Lumumba]], Rafael Trujillo, Ngo Dinh Diem, and Rene Schneider of Chile. The Interim Report, "Alleged Assassination Plots Involving Foreign Leaders" (published November 1975), established the documented record of these operations.[^1]
 
-**Illegal mail opening:** The CIA's HT/LINGUAL program, which opened first-class mail between the United States and the Soviet Union from 1952 to 1973, was documented as an illegal domestic operation conducted without required judicial authorization. The FBI's parallel mail opening programs were also documented.[^1]
+Illegal mail opening: The CIA's HTLINGUAL program, which opened first-class mail between the United States and the Soviet Union from 1952 to 1973, was documented as an illegal domestic operation conducted without required judicial authorization. The FBI's parallel mail opening programs were also documented.[^1]
 
-**NSA programs:** The committee documented NSA watch lists targeting American citizens' international communications, including the MINARET program which monitored communications of antiwar figures and civil rights leaders.[^1]
+NSA programs: The committee documented NSA watch lists targeting American citizens' international communications, including the MINARET program which monitored communications of antiwar figures and civil rights leaders.[^1]
 
 ### Primary Source Access
 

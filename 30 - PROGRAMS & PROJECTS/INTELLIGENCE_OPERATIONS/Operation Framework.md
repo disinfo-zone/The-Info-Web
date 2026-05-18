@@ -45,7 +45,7 @@ The investigation involved unprecedented cooperation between British and Dutch a
 
 ### Undercover Operations and Informant Testimony
 
-Undercover officers played a crucial role in Operation Framework. One officer posing as a client managed to elicit damaging admissions from Spinks about his knowledge of snuff film production. During this conversation, Spinks admitted: "I know—I knew, some people who were involved in making snuff movies and how they did it was, they only sold them in limited editions, made 10 copies or something, 10 very rich customers in America, who paid $5,000 each, which is a lot of money to watch some kids being snuffed."[^4]
+Undercover officers played a crucial role in Operation Framework. One officer posing as a client managed to elicit damaging admissions from Spinks about his knowledge of snuff film production. During this conversation, Spinks admitted: "I know - I knew, some people who were involved in making snuff movies and how they did it was, they only sold them in limited editions, made 10 copies or something, 10 very rich customers in America, who paid $5,000 each, which is a lot of money to watch some kids being snuffed."[^4]
 
 Spinks went on to describe a specific case: "I know the person who made the film. I felt sorry for this boy, it was a German Boy. About 13, 15. He thought he was going to make 200 guilders and ended up being dead."[^4]
 

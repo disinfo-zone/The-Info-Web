@@ -1,5 +1,5 @@
----
-category: "United States"
+﻿---
+category: "City"
 tags:
   - City
   - Texas
@@ -9,7 +9,7 @@ tags:
   - Mafia
 summary: "Dallas, Texas is the site of the November 22, 1963 assassination of President John F. Kennedy; the city's connections to Jack Ruby, Carlos Marcello's Mafia network, and CIA-connected figures make it central to the vault's JFK assassination investigation materials."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-17
 location: "Dallas, Texas, United States"
 ---
 
