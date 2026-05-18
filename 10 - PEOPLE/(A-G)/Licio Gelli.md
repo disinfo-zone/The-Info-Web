@@ -50,7 +50,7 @@ His connections extended internationally. He was reportedly in contact with CIA 
 
 On March 17, 1981, officers of the Italian Finance Police raided Gelli's villa in Arezzo in the course of an investigation into the bankruptcy of Banco Ambrosiano and the affairs of [[Roberto Calvi]]. In a filing cabinet at the villa they discovered a list of 962 current P2 members, along with extensive files documenting the lodge's finances and activities.
 
-The membership list was turned over to Prime Minister Arnaldo Forlani, who disclosed its contents to Parliament in May 1981. The disclosure produced an immediate political crisis: the heads of all three intelligence services resigned, as did several Cabinet ministers whose names appeared on the list. Parliament passed a law dissolving secret associations, specifically targeting P2, in May 1981.
+The membership list was turned over to Prime Minister Arnaldo Forlani, who disclosed its contents to Parliament in May 1981. The disclosure produced an immediate political crisis: the heads of all three intelligence services resigned, as did several Cabinet ministers whose names appeared on the list. Parliament passed a law dissolving secret associations, specifically targeting P2, in January 1982.
 
 Gelli was informed of the impending raid - by whom was never established - and had already left Italy when the Finance Police arrived. He was arrested in Geneva in September 1982 on an Italian extradition warrant. He escaped from prison in Geneva in August 1983, one of the most embarrassing episodes in Swiss penitentiary history, and spent years as a fugitive in South America before surrendering to Italian authorities in Switzerland in 1988.[^1]
 

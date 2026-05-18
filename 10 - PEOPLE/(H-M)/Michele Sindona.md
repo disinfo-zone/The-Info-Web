@@ -32,7 +32,7 @@ He was a member of [[Propaganda Due|P2]], [[Licio Gelli]]'s clandestine Masonic 
 
 ### Franklin National Bank
 
-In 1972, Sindona acquired a controlling interest in [[Franklin National Bank of New York]], the twentieth-largest American bank, paying approximately $40 million for the stake. The acquisition brought him into a community of American financiers and provided a vehicle for moving funds between Italian and American banking systems.
+In 1972, Sindona acquired a controlling interest in [[Franklin National Bank]], one of the twenty largest American banks at the time, paying approximately $40 million for the stake. The acquisition brought him into a community of American financiers and provided a vehicle for moving funds between Italian and American banking systems.
 
 Franklin National Bank collapsed on October 8, 1974, in what was at the time the largest bank failure in American history. Federal regulators found that the bank had been systematically looted, with losses exceeding $1.7 billion, through unauthorized foreign exchange speculation and fraudulent transactions that disguised the bank's true financial condition. The Federal Deposit Insurance Corporation and the Federal Reserve coordinated an orderly resolution; depositors were protected, but investors lost the entire value of their shares.[^1]
 

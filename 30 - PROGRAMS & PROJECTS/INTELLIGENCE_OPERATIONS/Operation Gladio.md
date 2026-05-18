@@ -13,7 +13,7 @@ tags:
   - CIA
   - Italy
   - ColdWar
-  - Strategy-of-Tension
+  - StrategyOfTension
   - StayBehind
   - 1950s
   - 1960s
@@ -34,7 +34,7 @@ The concept of stay-behind networks developed from British wartime planning for 
 
 The Italian network was formally named "Gladio" after the Roman short sword. It operated under the nominal supervision of SIFAR (the Italian military intelligence service, predecessor to SISMI) and maintained a parallel existence through Italy's successive government changes. Arms caches were hidden throughout Italy; members received training in guerrilla warfare, sabotage, and stay-behind operations; and a command structure linked to NATO's Allied Forces Southern Europe (AFSOUTH) in Naples coordinated the network with analogous organizations in other NATO member states.[^1]
 
-The stay-behind infrastructure extended across at least 16 NATO and affiliated countries under coordinating bodies at NATO headquarters. Each national network had a local name - Gladio in Italy, SDRA8 in Belgium, P-26 in Switzerland, WIDERSTAND in Germany, and others - and operated with varying degrees of knowledge at the governmental level.[^2]
+The stay-behind infrastructure extended across at least 16 NATO and affiliated countries under coordinating bodies at NATO headquarters. Each national network had a local name - Gladio in Italy, SDRA8 in Belgium, P-26 in Switzerland, and analogous names in other countries - and operated with varying degrees of knowledge at the governmental level.[^2]
 
 ### The Strategy of Tension
 
@@ -42,13 +42,13 @@ Italian parliamentary and judicial investigations from the 1970s onward found ev
 
 The principal attacks attributed to this strategy included:
 
-The Piazza Fontana bombing of December 12, 1969, in which a bomb at the Banca Nazionale dell'Agricoltura in Milan killed 17 people and wounded 88. Initial blame fell on anarchists; years of investigation ultimately pointed toward neo-fascist networks with connections to SIFAR and the interior ministry.
+The [[Piazza Fontana bombing]] of December 12, 1969, in which a bomb at the Banca Nazionale dell'Agricoltura in Milan killed 17 people and wounded 88. Initial blame fell on anarchists; years of investigation ultimately pointed toward neo-fascist networks connected to [[Ordine Nuovo]] with connections to [[SISMI|SID]] (Italian military intelligence) and the interior ministry.
 
-The Peteano bombing of May 31, 1972, in which three Carabinieri were killed by a bomb in a Fiat 500. Vincenzo Vinciguerra, a neo-fascist convicted for the bombing, acknowledged in confessions that the attack was intended to demonstrate the inadequacy of the Italian state's response to terrorism and to generate pressure for authoritarian solutions.
+The [[Peteano bombing]] of May 31, 1972, in which three Carabinieri were killed by a bomb in a Fiat 500. [[Vincenzo Vinciguerra]], a neo-fascist convicted for the bombing, acknowledged in confessions that the attack was intended to demonstrate the inadequacy of the Italian state's response to terrorism and to generate pressure for authoritarian solutions.
 
 The Italicus Express bombing of August 4, 1974, which killed 12 and wounded 48.
 
-The Bologna railway station bombing of August 2, 1980, which killed 85 people and wounded more than 200 in the deadliest attack of the era. Decades of judicial proceedings ultimately produced convictions of neo-fascist Nuclei Armati Rivoluzionari members, though the precise command structure and political authorization for the attack remained contested.[^1]
+The [[Bologna railway station bombing]] of August 2, 1980, which killed 85 people and wounded more than 200 in the deadliest attack of the era. Decades of judicial proceedings ultimately produced convictions of neo-fascist Nuclei Armati Rivoluzionari members, though the precise command structure and political authorization for the attack remained contested.[^1]
 
 ### Licio Gelli and Propaganda Due
 
@@ -56,7 +56,7 @@ The strategy of tension investigations repeatedly intersected with the [[Propaga
 
 ### The 1990 Disclosure
 
-Italian Prime Minister Giulio Andreotti disclosed Gladio's existence to Parliament on October 24, 1990, in a statement acknowledging the stay-behind network's existence and providing a partial account of its operations and membership. The disclosure was forced by an investigation conducted by magistrate Felice Casson, who had obtained documents establishing the Gladio network's existence and connection to the Peteano bombing while investigating that case.
+Italian Prime Minister [[Giulio Andreotti]] disclosed Gladio's existence to Parliament on October 24, 1990, in a statement acknowledging the stay-behind network's existence and providing a partial account of its operations and membership. The disclosure was forced by an investigation conducted by magistrate [[Felice Casson]], who had obtained documents establishing the Gladio network's existence and connection to the Peteano bombing while investigating that case.
 
 Andreotti's disclosure triggered immediate political controversy in Italy and across Europe, where governments faced questions about whether analogous networks existed in their own countries. The [[European Parliament]] passed a resolution on November 22, 1990 condemning the stay-behind networks as a threat to democratic governance and calling on member states to investigate and disclose their networks' activities.[^2]
 

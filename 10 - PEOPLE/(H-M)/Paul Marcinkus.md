@@ -28,7 +28,7 @@ Paul Casimir Marcinkus was born on January 15, 1922, in Cicero, [[Illinois]], to
 
 ### Vatican Career
 
-Marcinkus came to the attention of Vatican officials through his work in the Secretariat of State and his physical imposing presence - at 6 feet 3 inches and heavily built, he became known as "the Gorilla" and was used as an informal bodyguard for papal visits. When a deranged Bolivian painter attacked Pope Paul VI with a bayonet in Manila in 1970, Marcinkus physically shielded the Pope. This episode solidified his relationship with the papal household.
+Marcinkus came to the attention of Vatican officials through his work in the Secretariat of State and his physical imposing presence - at 6 feet 3 inches and heavily built, he became known as "the Gorilla" and was used as an informal bodyguard for papal visits. When a deranged Bolivian man attacked Pope Paul VI with a concealed blade in Manila in 1970, Marcinkus physically shielded the Pope. This episode solidified his relationship with the papal household.
 
 Pope Paul VI appointed Marcinkus president of the [[Vatican Bank|Instituto per le Opere di Religione (IOR)]] - the Vatican Bank - in 1971. The appointment placed a man with no banking training in charge of an institution that managed several billion dollars in assets and served as the Vatican's mechanism for conducting financial affairs outside normal national banking oversight, using its status as a sovereign entity to structure transactions that would not have been available to commercial banks operating under national regulatory frameworks.[^1]
 
@@ -46,7 +46,7 @@ After Banco Ambrosiano's collapse in June 1982, Italian magistrates issued warra
 
 The Vatican refused to allow Italian authorities access to Marcinkus, invoking the Lateran Treaty of 1929, which established the Vatican as a sovereign state and provided diplomatic immunity to its officials. The Vatican Secretariat of State formally notified the Italian Justice Ministry that Marcinkus enjoyed sovereign immunity as a Holy See official and could not be arrested or questioned by Italian authorities.
 
-This position was legally contested - Italian courts held in 1982 that the immunity claim was valid under Italian law, preventing any further proceedings. Marcinkus remained within Vatican territory for 17 years, from 1982 to 1991, unable to travel to Italy without risk of arrest. He used this period to manage the Vatican Bank's negotiation with Banco Ambrosiano's creditors, which produced the $244 million settlement in 1984.[^2]
+This position was legally contested - Italian courts held in 1982 that the immunity claim was valid under Italian law, preventing any further proceedings. Marcinkus remained within Vatican territory for nine years, from 1982 to 1991, unable to travel to Italy without risk of arrest. He used this period to manage the Vatican Bank's negotiation with Banco Ambrosiano's creditors, which produced the $244 million settlement in 1984.[^2]
 
 ### Departure and Final Years
 

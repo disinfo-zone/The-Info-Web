@@ -32,9 +32,9 @@ The organization's operational focus was the Italian industrial north, particula
 
 ### The Moro Kidnapping
 
-On March 16, 1978, a Red Brigades unit ambushed the motorcade of [[Aldo Moro]], five times Prime Minister and president of the Democrazia Cristiana (DC), in Rome. All five of his bodyguards were killed; Moro was taken prisoner. The kidnapping occurred on the morning that Moro was scheduled to present to Parliament a DC-PCI "historic compromise" coalition government - a political arrangement that the Red Brigades, paradoxically, opposed as a vehicle for integrating the left into the capitalist state.
+On March 16, 1978, a Red Brigades unit ambushed the motorcade of [[Aldo Moro]], five times Prime Minister and president of the [[Democrazia Cristiana]] (DC), in Rome. All five of his bodyguards were killed; Moro was taken prisoner. The kidnapping occurred on the morning that Moro was scheduled to present to Parliament a DC-PCI "historic compromise" coalition government - a political arrangement that the Red Brigades, paradoxically, opposed as a vehicle for integrating the left into the capitalist state.
 
-Moro was held for 55 days. During his captivity he wrote extensively - letters to his family, to DC colleagues, and to government officials - urging negotiation for his release. The government, led by Prime Minister Giulio Andreotti, refused to negotiate. On May 9, 1978, Moro's body was found in the trunk of a car in central Rome.[^2]
+Moro was held for 55 days. During his captivity he wrote extensively - letters to his family, to DC colleagues, and to government officials - urging negotiation for his release. The government, led by Prime Minister [[Giulio Andreotti]], refused to negotiate. On May 9, 1978, Moro's body was found in the trunk of a car in central Rome.[^2]
 
 ### Strategy of Tension Controversy
 

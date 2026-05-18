@@ -22,7 +22,7 @@ tags:
   - 1980s
 summary: "Propaganda Due (P2) was a clandestine Italian Masonic lodge headed by Licio Gelli from 1967 whose 962-member list discovered in March 1981 included the heads of all three Italian intelligence services, senior military officers, magistrates, politicians, and financiers including Roberto Calvi and Silvio Berlusconi, and which Italian parliamentary investigators linked to Operation Gladio and the strategy of tension terrorist bombings."
 start: 1945-01-01
-end: 1981-05-25
+end: 1982-01-25
 location: "Italy (Rome, Milan, Florence)"
 ---
 
