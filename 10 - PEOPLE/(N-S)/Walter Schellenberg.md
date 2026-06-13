@@ -1,6 +1,6 @@
 ---
 aliases:
-- Walter Schellenberg
+  - Walter Schellenberg
   - SS-Brigadeführer Walter Schellenberg
 category: "Psychics & Remote Viewers"
 tags:

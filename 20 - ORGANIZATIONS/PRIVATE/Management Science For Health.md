@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - CIA
+  - Mujahideen
+  - Afghanistan
 category: "Private Organization"
 summary: "Management Science For Health was a group associated with certain factions of the Central Intelligence Agency."
 start: 1971

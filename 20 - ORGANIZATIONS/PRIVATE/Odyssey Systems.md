@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - Company
+  - AirForce
+  - DefenseContractor
 category: "Private Organization"
 summary: "May 1997, Odyssey is founded in the Boston area by Michael Sweat and Michael Prisco to support the Air Force Electronic Systems Center (ESC)."
 start: 1997

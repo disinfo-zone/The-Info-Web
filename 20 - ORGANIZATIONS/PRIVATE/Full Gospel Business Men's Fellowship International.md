@@ -1,4 +1,10 @@
 ---
+tags:
+  - Organization
+  - Religion
+  - CentralAmerica
+  - ContraWar
+  - Military
 category: "Private Organization"
 summary: "The Full Gospel Business Men's Fellowship International is an influential organization with a history of strong military connections and wide-ranging effects on foreign policy, particularly in Central America under the Ronald Reagan administration."
 start: 1952

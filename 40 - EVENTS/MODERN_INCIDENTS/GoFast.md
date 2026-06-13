@@ -1,4 +1,10 @@
 ---
+tags:
+  - Event
+  - UAP
+  - USNavy
+  - Pentagon
+  - 2015
 category: "Modern Incident"
 summary: "Declassified UAP video captured by an F/A-18 Super Hornet crew showing an object moving at extreme speed low over the ocean, released by the Pentagon in 2017."
 date: 2015-01-21

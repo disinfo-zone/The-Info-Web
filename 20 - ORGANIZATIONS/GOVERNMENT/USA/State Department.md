@@ -2,6 +2,9 @@
 created: 2025-07-23
 updated: 2025-08-04
 title: State Department
+aliases:
+  - U.S. Department of State
+  - Department of State
 tags:
   - Organization
   - Government

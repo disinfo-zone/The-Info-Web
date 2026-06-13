@@ -1,4 +1,10 @@
 ---
+tags:
+  - Organization
+  - UAP
+  - NavalIntelligence
+  - Pentagon
+  - USGovernment
 category: "U.S. Government"
 summary: "The UAP Task Force (UAPTF) was a program within the United States Office of Naval Intelligence that was established to standardize the collection and reporting of sightings of Unidentified Anomalous Phenomena (UAP)."
 start: 2020

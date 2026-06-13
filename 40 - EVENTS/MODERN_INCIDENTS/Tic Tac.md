@@ -1,4 +1,10 @@
 ---
+tags:
+  - Event
+  - UAP
+  - USNavy
+  - USSNimitz
+  - 2004
 category: "Modern Incident"
 summary: "UAP encountered by the USS Nimitz Carrier Strike Group in November 2004, captured on video and designated 'Tic Tac' for its shape, released by the Pentagon in 2017."
 date: 2004-11-14

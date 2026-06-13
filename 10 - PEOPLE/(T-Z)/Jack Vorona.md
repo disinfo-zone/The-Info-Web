@@ -1,6 +1,6 @@
 ---
 aliases:
-- Jack Vorona
+  - Jack Vorona
   - Dr. Jack Vorona
 category: "Key Figures"
 tags:

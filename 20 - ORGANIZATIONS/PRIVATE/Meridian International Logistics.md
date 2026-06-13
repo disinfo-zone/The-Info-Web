@@ -1,4 +1,10 @@
 ---
+tags:
+  - Organization
+  - Company
+  - FBI
+  - TheOctopus
+  - DrugTrafficking
 category: "Private Organization"
 summary: "Meridian International Logistics was a holding company associated with Robert Booth Nichols, who was a principal in the organization."
 ---

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Ariel Sharon
+  - Ariel Sharon
   - General Ariel Sharon
 category: "Military"
 tags:

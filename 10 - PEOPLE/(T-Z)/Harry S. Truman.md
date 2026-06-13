@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Harry Truman
 category: "Intelligence & Government"
 tags:
   - Person

@@ -1,4 +1,10 @@
 ---
+tags:
+  - Organization
+  - Paramilitary
+  - Palestine
+  - Terrorism
+  - PanAm103
 category: "Paramilitary"
 summary: "The Popular Front for the Liberation of Palestine-General Command is a Damascus-based Palestinian militant organization implicated by the Interfor investigative firm as the group behind the bombing of Pan Am Flight 103."
 start: 1968

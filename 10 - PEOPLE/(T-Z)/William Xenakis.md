@@ -1,6 +1,6 @@
 ---
 aliases:
-- William Xenakis
+  - William Xenakis
   - Lieutenant Colonel William Xenakis
 category: "Psychics & Remote Viewers"
 tags:

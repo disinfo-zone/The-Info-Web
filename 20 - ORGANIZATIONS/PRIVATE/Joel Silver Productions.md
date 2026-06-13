@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - Company
+  - Film
+  - Hollywood
 category: "Private Organization"
 summary: "Joel Silver Productions is a film production company at Warner Brothers Studios in Burbank, California, where Garby Leon served as Director of Development and oversaw more than seventy projects including The Matrix."
 location: "Burbank, California, USA"

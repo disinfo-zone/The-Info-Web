@@ -1,4 +1,9 @@
 ---
+tags:
+  - Program
+  - UAP
+  - Pentagon
+  - DIA
 category: "Intelligence Operation"
 summary: "The Advanced Aerospace Threat Identification Program (AATIP) was a clandestine Pentagon program that investigated Unidentified Anomalous Phenomena (UAP)."
 start: 2007

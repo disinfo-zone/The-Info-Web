@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Country
+  - Pakistan
+  - Arms
+  - Afghanistan
+  - Riconosciuto
 category: "Country"
 summary: "Pakistan is a South Asian country that served as the primary logistical base for CIA-coordinated Mujahideen supply during the Soviet-Afghan War, including Michael Riconosciuto's rocket reconfiguration program at the Pakistan Ordnance Works."
 ---

@@ -1,4 +1,9 @@
 ---
+tags:
+  - Program
+  - UAP
+  - ReverseEngineering
+  - CrashRetrieval
 category: "Intelligence Operation"
 summary: "The Legacy Program is the name given to a deeply hidden, decades-long U.S. government and private contractor effort to retrieve and reverse-engineer technology from crashed or landed Unidentified Anomalous Phenomena (UAP) of non-human origin."
 ---

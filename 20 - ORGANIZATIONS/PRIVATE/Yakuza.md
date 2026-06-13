@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - OrganizedCrime
+  - Japan
+  - TheOctopus
 category: "Private Organization"
 summary: "The Yakuza is a Japanese organized crime syndicate that was implicated in the broader network investigated by Danny Casolaro as 'The Octopus."
 ---

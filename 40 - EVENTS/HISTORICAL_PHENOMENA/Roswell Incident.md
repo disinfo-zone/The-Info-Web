@@ -1,4 +1,10 @@
 ---
+tags:
+  - Event
+  - UAP
+  - NewMexico
+  - CrashRetrieval
+  - 1947
 category: "Historical Phenomenon"
 summary: "Alleged crash of a UAP in the desert near Roswell, New Mexico in July 1947, considered the foundational event of modern UFO lore and government secrecy."
 date: 1947

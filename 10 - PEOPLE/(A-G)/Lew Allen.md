@@ -1,6 +1,6 @@
 ---
 aliases:
-- Lew Allen
+  - Lew Allen
   - General Lew Allen
 category: "Psychics & Remote Viewers"
 tags:

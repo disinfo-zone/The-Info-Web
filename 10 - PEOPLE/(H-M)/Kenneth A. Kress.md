@@ -1,6 +1,6 @@
 ---
 aliases:
-- Kenneth A. Kress
+  - Kenneth A. Kress
   - Ken Kress
 category: "Key Figures"
 tags:

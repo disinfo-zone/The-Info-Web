@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Robert McNamara
 category: "Nuclear Scientists & Programs"
 tags:
   - Person

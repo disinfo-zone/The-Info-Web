@@ -1,6 +1,6 @@
 ---
 aliases:
-- R. Gordon Wasson
+  - R. Gordon Wasson
   - Gordon Wasson
 category: "Scientists & Researchers"
 tags:

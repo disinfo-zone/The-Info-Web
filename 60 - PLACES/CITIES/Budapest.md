@@ -10,6 +10,7 @@ tags:
   - Hungary
   - ColdWar
   - 1950s
+summary: "Budapest is the capital of Hungary on the Danube, most significant in Cold War history as the epicenter of the 1956 Hungarian Revolution and its Soviet suppression."
 category: "City"
 location: "Hungary"
 ---

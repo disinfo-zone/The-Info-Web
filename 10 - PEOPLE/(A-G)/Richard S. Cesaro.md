@@ -1,6 +1,6 @@
 ---
 aliases:
-- Richard S. Cesaro
+  - Richard S. Cesaro
   - R. S. Cesaro
 category: "Scientists & Researchers"
 tags:

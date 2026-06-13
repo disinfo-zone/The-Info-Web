@@ -1,6 +1,6 @@
 ---
 aliases:
-- Elmo Zumwalt
+  - Elmo Zumwalt
   - Admiral Elmo Zumwalt
 category: "Psychics & Remote Viewers"
 tags:

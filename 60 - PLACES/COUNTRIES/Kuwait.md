@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Country
+  - Kuwait
+  - PROMIS
+  - DEA
+  - MiddleEast
 category: "Country"
 summary: "Kuwait is a Gulf state identified by DEA informant Lester Coleman as one of the Middle Eastern countries where the DEA used Euramae Trading Company to sell PROMIS software to drug abuse control agencies."
 ---

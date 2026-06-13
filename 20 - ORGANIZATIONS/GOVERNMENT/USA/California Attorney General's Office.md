@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - LawEnforcement
+  - California
+  - USGovernment
 category: "U.S. Government"
 summary: "The California Attorney General's Office is the chief law enforcement agency for the state of California."
 start: 1850

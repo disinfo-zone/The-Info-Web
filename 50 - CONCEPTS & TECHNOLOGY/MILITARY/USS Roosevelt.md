@@ -1,4 +1,9 @@
 ---
+tags:
+  - Technology
+  - AircraftCarrier
+  - USNavy
+  - UAP
 category: "Military Technology"
 summary: "The USS Roosevelt (CVN-71) is a nuclear-powered aircraft carrier whose 2014-2015 pre-deployment workups produced twenty-two documented encounters with unidentified aerial phenomena off the southeastern U.S. coast, prompting Navy policy changes on UAP reporting."
 start: 2014

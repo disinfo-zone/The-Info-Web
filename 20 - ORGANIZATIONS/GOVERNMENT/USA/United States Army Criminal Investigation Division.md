@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - LawEnforcement
+  - USArmy
+  - Military
 category: "U.S. Government"
 summary: "The United States Army Criminal Investigation Division (CID) is the Army's primary felony law enforcement agency, responsible for criminal investigations within the service including the cases against STARGATE remote viewer David Morehouse."
 start: 1971

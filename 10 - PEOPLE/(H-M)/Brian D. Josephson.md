@@ -1,6 +1,6 @@
 ---
 aliases:
-- Brian D. Josephson
+  - Brian D. Josephson
   - Josephson
 category: "Psychics & Remote Viewers"
 tags:

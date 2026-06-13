@@ -1,6 +1,6 @@
 ---
 aliases:
-- Leslie Ronald Young
+  - Leslie Ronald Young
   - Jimmy Young
 category: "Psychics & Remote Viewers"
 tags:

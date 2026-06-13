@@ -1,4 +1,10 @@
 ---
+tags:
+  - Event
+  - California
+  - Mariposa
+  - CoverUp
+  - 1983
 category: "Historical Phenomenon"
 summary: "1983 head-on collision in Yosemite National Park foothills involving a Secret Service vehicle scouting Queen Elizabeth II's motorcade route, killing three agents and revealing allegations of cover-up and corruption."
 date: 1983-03-05

@@ -1,6 +1,6 @@
 ---
 aliases:
-- Charles Frank Jordan
+  - Charles Frank Jordan
   - Charles Jordan
 category: "Psychics & Remote Viewers"
 tags:

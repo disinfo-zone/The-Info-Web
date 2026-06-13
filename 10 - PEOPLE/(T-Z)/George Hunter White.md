@@ -5,6 +5,7 @@ title: George Hunter White
 aliases:
   - George Hunter White
   - Morgan Hall
+  - George White
 tags:
   - Person
   - CIA

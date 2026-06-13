@@ -2,6 +2,8 @@
 created: 2025-07-22
 updated: 2025-07-22
 title: Federal Bureau of Investigation
+aliases:
+  - FBI
 tags:
   - Organization
   - Government

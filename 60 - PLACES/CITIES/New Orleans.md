@@ -1,4 +1,6 @@
 ﻿---
+aliases:
+  - New Orleans, Louisiana
 category: "City"
 tags:
   - geography

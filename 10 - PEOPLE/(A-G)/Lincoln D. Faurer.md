@@ -1,6 +1,6 @@
 ---
 aliases:
-- Lincoln D. Faurer
+  - Lincoln D. Faurer
   - Lieutenant General Lincoln D. Faurer
 category: "Key Figures"
 tags:

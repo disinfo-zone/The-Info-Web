@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Country
+  - Taiwan
+  - CIA
+  - EastAsia
+  - RobertBoothNichols
 category: "Country"
 summary: "Taiwan is an East Asian island state that CIA proprietary runner Art Suchesk repeatedly encountered Robert Booth Nichols in over a two-year period after the Los Angeles FBI dropped its investigation of Nichols."
 ---

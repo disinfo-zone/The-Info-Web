@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Region
+  - SoutheastAsia
+  - DrugTrafficking
+  - Opium
+  - Myanmar
 category: "Region"
 summary: "The Golden Triangle is a region in Southeast Asia, primarily encompassing parts of Myanmar, Laos, and Thailand, historically known as one of the world's largest opium-producing areas."
 ---

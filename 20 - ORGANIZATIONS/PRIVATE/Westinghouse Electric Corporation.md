@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - Company
+  - Nuclear
+  - Engineering
 category: "Private Organization"
 summary: "Westinghouse Electric Corporation was involved in a major project with Burns & Roe, Inc., for the engineering design and construction of the United States of America Fast Breeder Nuclear Reactor Plant."
 start: 1886

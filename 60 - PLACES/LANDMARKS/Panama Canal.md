@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Place
+  - Landmark
+  - Panama
+  - Carter
+  - Torrijos
 category: "Landmark"
 summary: "The Panama Canal is the Atlantic-to-Pacific waterway whose 1977 treaty negotiations with Panama's General Torrijos created a U.S. policy conflict with drug enforcement interests given Torrijos's family's alleged involvement in the cocaine trade."
 ---

@@ -1,4 +1,11 @@
 ---
+tags:
+  - Organization
+  - Company
+  - FrontCompany
+  - NSC
+  - PROMIS
+  - MiddleEast
 category: "Private Organization"
 summary: "Euramae Trading Company was a company operating throughout the Middle East, described by Michael Riconosciuto as a companion company to First Intercontinental Development Corporation and an National Security Council cutout."
 location: "Nicosia, Cyprus"

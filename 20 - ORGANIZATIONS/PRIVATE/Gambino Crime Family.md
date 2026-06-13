@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - OrganizedCrime
+  - LaCosaNostra
+  - MCA
 category: "Private Organization"
 summary: "The Gambino Crime Family is a prominent La Cosa Nostra crime family that was reportedly involved in the alleged organized crime penetration of Music Corporation of America."
 start: 1931

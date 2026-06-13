@@ -1,6 +1,6 @@
 ---
 aliases:
-- Karl Maria Wiligut
+  - Karl Maria Wiligut
   - Wiligut
 category: "World War II & Nazi Era"
 tags:

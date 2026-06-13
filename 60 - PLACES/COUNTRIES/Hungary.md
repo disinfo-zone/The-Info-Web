@@ -12,6 +12,7 @@ tags:
   - SovietUnion
   - 1950s
   - 1960s
+summary: "Hungary is a Central European country and Soviet-bloc satellite state from 1945 to 1989 whose 1956 revolution against Soviet control was crushed by Red Army intervention."
 category: "Country"
 location: "Central Europe"
 ---

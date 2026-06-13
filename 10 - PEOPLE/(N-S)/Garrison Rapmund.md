@@ -1,6 +1,6 @@
 ---
 aliases:
-- Garrison Rapmund
+  - Garrison Rapmund
   - Major General Garrison Rapmund
 category: "Key Figures"
 tags:

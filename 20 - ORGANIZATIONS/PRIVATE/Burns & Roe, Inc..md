@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - Company
+  - Engineering
+  - Nuclear
 category: "Private Organization"
 summary: "Burns & Roe, Inc. was an international engineering and construction firm owned by the Roe family whose Pacific director George K. Pender appears in connections to nuclear facility construction and intelligence-adjacent contracting."
 ---

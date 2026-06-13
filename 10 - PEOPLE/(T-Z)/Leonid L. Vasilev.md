@@ -1,6 +1,6 @@
 ---
 aliases:
-- Leonid L. Vasilev
+  - Leonid L. Vasilev
   - L. L. Vasilev
 category: "Scientists & Researchers"
 tags:

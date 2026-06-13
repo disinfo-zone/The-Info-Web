@@ -1,6 +1,6 @@
 ---
 aliases:
-- Douglas B. Hudson
+  - Douglas B. Hudson
   - Lieutenant Colonel Douglas B. Hudson
 category: "Psychics & Remote Viewers"
 tags:

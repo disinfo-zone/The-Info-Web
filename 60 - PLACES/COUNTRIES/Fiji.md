@@ -1,4 +1,9 @@
 ﻿---
+tags:
+  - Country
+  - Fiji
+  - NuganHand
+  - MichaelHand
 category: "Country"
 summary: "Fiji is a Pacific island nation that served as the first destination for Michael Hand's June 14, 1980 flight out of Australia under a false identity after Nugan Hand Bank's collapse."
 ---

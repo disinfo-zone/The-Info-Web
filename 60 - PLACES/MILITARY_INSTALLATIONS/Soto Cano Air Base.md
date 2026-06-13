@@ -1,4 +1,10 @@
 ---
+tags:
+  - Place
+  - Honduras
+  - USMilitary
+  - ContraWar
+  - CentralAmerica
 category: "Military Installation"
 summary: "The Soto Cano Air Base, also commonly known as Palmerola Air Base, is a joint Honduras and United States military base located near Comayagua in Honduras, approximately 60 miles (97 km) from the Honduran capital of Tegucigalpa."
 ---

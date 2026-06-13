@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Country
+  - Switzerland
+  - Banking
+  - FrontCompany
+  - Khashoggi
 category: "Country"
 summary: "Switzerland is a European country whose banking secrecy laws made it the primary offshore jurisdiction for Iran-Contra arms dealer commissions, BCCI front operations, and Adnan Khashoggi's front companies, before Khashoggi was arrested there in 1988."
 ---

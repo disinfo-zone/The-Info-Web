@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Country
+  - Australia
+  - NuganHand
+  - Intelligence
+  - DrugTrafficking
 category: "Country"
 summary: "Australia is the country where Nugan Hand Bank, the CIA-connected financial institution co-founded by Michael Hand and Frank Nugan, operated until its 1980 collapse amid drug trafficking and intelligence connections, after which Hand disappeared with alleged CIA assistance."
 ---

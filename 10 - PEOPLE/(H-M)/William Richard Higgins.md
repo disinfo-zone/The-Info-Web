@@ -1,6 +1,6 @@
 ---
 aliases:
-- William Richard Higgins
+  - William Richard Higgins
   - Colonel Higgins
   - Rich Higgins
 category: "Psychics & Remote Viewers"

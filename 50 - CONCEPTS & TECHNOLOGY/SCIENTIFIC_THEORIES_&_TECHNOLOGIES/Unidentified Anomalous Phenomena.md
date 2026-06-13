@@ -1,4 +1,8 @@
 ---
+tags:
+  - Concept
+  - UAP
+  - Pentagon
 category: "Scientific Theory & Technology"
 summary: "Unidentified Anomalous Phenomena (UAP) is the official designation used by the U.S. government to refer to objects or phenomena in the atmosphere, in space, or underwater that cannot be immediately identified."
 ---

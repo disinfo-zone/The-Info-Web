@@ -1,6 +1,6 @@
 ---
 aliases:
-- Richard G. Stilwell
+  - Richard G. Stilwell
   - General Richard G. Stilwell
 category: "Psychics & Remote Viewers"
 tags:

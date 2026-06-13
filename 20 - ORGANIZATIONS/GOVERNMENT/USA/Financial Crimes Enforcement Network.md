@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - Treasury
+  - USGovernment
+  - MoneyLaundering
 category: "U.S. Government"
 summary: "The Financial Crimes Enforcement Network is a bureau of the United States Department of the Treasury that collects and analyzes information about financial transactions to combat domestic and international money laundering, terrorist financing, and..."
 start: 1990

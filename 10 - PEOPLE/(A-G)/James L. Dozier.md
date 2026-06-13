@@ -1,6 +1,6 @@
 ---
 aliases:
-- James L. Dozier
+  - James L. Dozier
   - General Dozier
   - Brigadier General James L. Dozier
 category: "Psychics & Remote Viewers"

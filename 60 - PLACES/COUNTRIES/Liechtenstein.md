@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Country
+  - Liechtenstein
+  - Banking
+  - FrontCompany
+  - Khashoggi
 category: "Country"
 summary: "Liechtenstein is a small Central European principality known for banking secrecy, where arms dealer Adnan Khashoggi established front companies alongside Swiss entities to handle commissions from Iran-Contra arms deals."
 ---

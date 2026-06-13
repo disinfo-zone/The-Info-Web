@@ -1,4 +1,9 @@
 ---
+tags:
+  - Event
+  - UAP
+  - Brazil
+  - 1977
 category: "Historical Phenomenon"
 summary: "Wave of UAP encounters in 1977 on the island of Colares, Brazil, where residents reported being attacked by beams of radiation from unknown craft."
 date: 1977

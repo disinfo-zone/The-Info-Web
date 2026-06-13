@@ -1,6 +1,6 @@
 ---
 aliases:
-- Robert Gates
+  - Robert Gates
   - Bob Gates
 category: "Key Figures"
 tags:

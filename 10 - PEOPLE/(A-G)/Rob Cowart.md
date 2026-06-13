@@ -1,6 +1,6 @@
 ---
 aliases:
-- Rob Cowart
+  - Rob Cowart
   - Captain Rob Cowart
 category: "Psychics & Remote Viewers"
 tags:

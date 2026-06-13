@@ -1,6 +1,6 @@
 ---
 aliases:
-- Ninel Kulagina
+  - Ninel Kulagina
   - Nina Kulagina
 category: "Skeptics & Critics"
 tags:

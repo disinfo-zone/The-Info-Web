@@ -2,6 +2,8 @@
 created: 2025-07-23
 updated: 2026-05-15
 title: Office of Strategic Services
+aliases:
+  - OSS
 tags:
   - Organization
   - Intelligence

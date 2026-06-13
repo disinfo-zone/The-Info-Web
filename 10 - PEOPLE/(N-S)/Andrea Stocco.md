@@ -1,6 +1,6 @@
 ---
 aliases:
-- Andrea Stocco
+  - Andrea Stocco
   - Dr. Andrea Stocco
 category: "Psychics & Remote Viewers"
 tags:

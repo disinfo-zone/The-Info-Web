@@ -1,4 +1,10 @@
 ﻿---
+tags:
+  - Country
+  - Austria
+  - UNFDAC
+  - PROMIS
+  - DrugControl
 category: "Country"
 summary: "Austria is a Central European country whose capital Vienna hosts the United Nations Fund for Drug Abuse Control (UNFDAC), which was a funding conduit for the purchase of PROMIS software by Middle Eastern drug control agencies."
 ---

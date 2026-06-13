@@ -1,6 +1,6 @@
 ---
 aliases:
-- John Marsh
+  - John Marsh
   - Secretary of the Army John Marsh
 category: "Psychics & Remote Viewers"
 tags:

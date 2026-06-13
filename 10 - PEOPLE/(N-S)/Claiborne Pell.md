@@ -1,6 +1,6 @@
 ---
 aliases:
-- Claiborne Pell
+  - Claiborne Pell
   - Senator Claiborne Pell
 category: "Key Figures"
 tags:

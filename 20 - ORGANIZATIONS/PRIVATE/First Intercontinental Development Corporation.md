@@ -1,4 +1,10 @@
 ---
+tags:
+  - Organization
+  - Company
+  - FrontCompany
+  - NSC
+  - PROMIS
 category: "Private Organization"
 summary: "First Intercontinental Development Corporation was a company whose board of directors included prominent figures with ties to government and intelligence, and it was reportedly a National Security Council cutout."
 ---

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gerald Ford
 category: "Intelligence & Government"
 tags:
   - Person

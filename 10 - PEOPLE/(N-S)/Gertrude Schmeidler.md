@@ -1,6 +1,6 @@
 ---
 aliases:
-- Gertrude Schmeidler
+  - Gertrude Schmeidler
   - Dr. Gertrude Schmeidler
 category: "Skeptics & Critics"
 tags:

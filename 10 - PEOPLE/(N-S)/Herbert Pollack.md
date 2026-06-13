@@ -1,6 +1,6 @@
 ---
 aliases:
-- Herbert Pollack
+  - Herbert Pollack
   - Dr. Herbert Pollack
 category: "Psychics & Remote Viewers"
 tags:

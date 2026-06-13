@@ -1,6 +1,6 @@
 ---
 aliases:
-- James Randi
+  - James Randi
   - The Amazing Randi
 category: "Skeptics & Critics"
 tags:

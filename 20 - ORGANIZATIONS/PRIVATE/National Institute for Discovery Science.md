@@ -1,4 +1,9 @@
 ---
+tags:
+  - Organization
+  - UAP
+  - Paranormal
+  - RobertBigelow
 category: "Private Organization"
 summary: "The National Institute for Discovery Science (NIDS) was a privately funded research organization founded by billionaire Robert Bigelow in 1995."
 start: 1995
