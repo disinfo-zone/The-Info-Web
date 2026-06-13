@@ -17,7 +17,7 @@ summary: "Robert Gardner Terrell (aliases: 'Tobe Terrell,' 'Genghis K. Plato') w
 location: "Washington, D.C."
 ---
 
-Robert Gardner Terrell -- known within [[The Finders]] as "Tobe Terrell" and in some group documents as "Genghis K. Plato" -- was the principal spokesman and financial manager of The Finders, a former IRS appeals officer and certified public accountant who was associated with [[Future Enterprises]], a company that provided computer training to [[Central Intelligence Agency|CIA]] employees during the 1980s.[^1][^2]
+Robert Garder Terrell -- known within [[The Finders]] as "Tobe Terrell" and in some group documents as "Genghis K. Plato" -- was the principal spokesman and financial manager of The Finders, a former IRS appeals officer and certified public accountant who was associated with [[Future Enterprises]], a company that provided computer training to [[Central Intelligence Agency|CIA]] employees during the 1980s.[^1][^2]
 
 ### Background and Role Within The Finders
 

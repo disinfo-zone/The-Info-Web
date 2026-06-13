@@ -20,7 +20,7 @@ start: 1943-01-01
 location: "Montreal, Quebec, Canada"
 ---
 
-The Allan Memorial Institute is the psychiatric research and treatment facility of [[McGill University]] in [[Montreal]], [[Quebec|Quebec, Canada]], established in 1943 in the Victorian-era mansion Ravenscrag on the slopes of Mount Royal. It is most significantly known in intelligence and legal history as the institution where [[Ewen Cameron]], its founding director, conducted [[Central Intelligence Agency|CIA]]-funded [[Project MKUltra|MKULTRA]] Subproject 68 behavioral modification experiments on unconsenting psychiatric patients from 1957 to 1963 - producing the most extensively documented case of CIA-sponsored experimental harm to civilians in MKULTRA's history.[^1]
+The Allan Memorial Institute is the psychiatric research and treatment facility of [[McGill University]] in [[Montreal]], [[Quebec|Quebec, Canada]], established in 1943 in the Victorian-era mansion Ravenscrag on the slopes of Mount Royal. It is most significantly known in intelligence and legal history as the institution where [[D. Ewen Cameron]], its founding director, conducted [[Central Intelligence Agency|CIA]]-funded [[Project MKUltra|MKULTRA]] Subproject 68 behavioral modification experiments on unconsenting psychiatric patients from 1957 to 1963 - producing the most extensively documented case of CIA-sponsored experimental harm to civilians in MKULTRA's history.[^1]
 
 ### Establishment
 
@@ -30,7 +30,7 @@ Cameron brought international standing to the institute from its founding - he w
 
 ### MKULTRA Subproject 68
 
-[[Sidney Gottlieb]], directing [[Project MKUltra|MKULTRA]] through the CIA's [[Technical Services Division]], funded Cameron's research at the Allan Memorial beginning in 1957 through the [[Society for the Investigation of Human Ecology]], a CIA front foundation based in New York. The funding supported Cameron's "psychic driving" research - his theory that psychiatric patients could be therapeutically remolded by erasing existing psychological patterns ("depatterning") and installing new ones through repetitive auditory suggestion.
+[[Sidney Gottlieb]], directing MKULTRA through the CIA's [[Technical Services Division]], funded Cameron's research at the Allan Memorial beginning in 1957 through the [[Society for the Investigation of Human Ecology]], a CIA front foundation based in New York. The funding supported Cameron's "psychic driving" research - his theory that psychiatric patients could be therapeutically remolded by erasing existing psychological patterns ("depatterning") and installing new ones through repetitive auditory suggestion.
 
 Cameron's experimental protocol at the Allan Memorial used the facility's institutional structure - its staff, patient population, and clinical infrastructure - as the operational framework for experiments that would not have been approved under normal ethical review procedures. Patients seeking treatment for conditions including depression, anxiety, and schizophrenia were subjected to:
 
@@ -41,6 +41,10 @@ Cameron's experimental protocol at the Allan Memorial used the facility's instit
 - Extended repetitive auditory input ("psychic driving")
 
 No patient was informed their treatment was experimental or that CIA funding was involved. Many patients emerged with severe retrograde amnesia - loss of memories of their adult lives - and cognitive damage that required extended rehabilitation.[^1]
+
+### The Sleep Rooms and Behavioral Laboratory
+
+Although Ravenscrag was donated by the Allan family, the institute itself was set up in 1943 with funds from the [[Rockefeller Foundation]], whose continuing support built a hospital known far beyond Canada. Under Cameron the facility's "sleep rooms" kept patients in drug-induced stupor for 15 to 30 days, woken only for medication and the [[Page-Russell]] electroshocks whose screams echoed through the building. Cameron's principal assistant [[Leonard Rubenstein]] ran a behavioral laboratory in the converted stables behind the hospital, where he built a giant tape recorder that played eight psychic-driving loops to eight patients at once through speakers installed under their pillows, and where Cameron had a sensory-deprivation box constructed in which one patient, Mary C., was left for 35 days.[^3]
 
 ### Aftermath and Compensation
 
@@ -56,3 +60,4 @@ The Allan Memorial Institute continues to operate as a psychiatric teaching and 
 
 [^1]: Collins, Anne. *In the Sleep Room: The Story of the CIA Brainwashing Experiments in Canada.* Lester & Orpen Dennys, 1988. Marks, John. *The Search for the Manchurian Candidate: The CIA and Mind Control.* Times Books, 1979, Chapter 8.
 [^2]: Kinzer, Stephen. *Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control.* Henry Holt and Company, 2019. "Project MKULTRA, the CIA's Program of Research in Behavioral Modification." Senate Hearing, August 3, 1977.
+[^3]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 8.

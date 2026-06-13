@@ -33,11 +33,11 @@ Banister was associated with the [[Minutemen]] and other right-wing organization
 
 ### Connection to Oswald
 
-In the summer of 1963, [[Lee Harvey Oswald]] appeared in New Orleans distributing leaflets for the [[Fair Play for Cuba Committee]] - stamped with the address "544 Camp Street." This address was not the official FPCC national address and had no FPCC organizational presence at that location. The 544 Camp Street door was an entrance to the building at the corner of Camp and Lafayette, whose primary address was 531 Lafayette Street - Banister's office.
+In the summer of 1963, Lee Harvey Oswald appeared in New Orleans distributing leaflets for the Fair Play for Cuba Committee - stamped with the address "544 Camp Street." This address was not the official FPCC national address and had no FPCC organizational presence at that location. The 544 Camp Street door was an entrance to the building at the corner of Camp and Lafayette, whose primary address was 531 Lafayette Street - Banister's office.
 
 Whether Oswald and Banister knew each other was never definitively established. Former associates of Banister, including his secretary Delphine Roberts, later stated that Oswald had been in the office and that Banister knew him. Other witnesses placed them together. The connection was never conclusively documented, and Banister died on June 6, 1964 - before the [[Warren Commission]] had completed its investigation and before investigators focused on his potential significance.
 
-Also associated with Banister was [[David Ferrie]] - a pilot and private investigator with CIA connections who later became central to [[Jim Garrison]]'s New Orleans investigation. Ferrie died under disputed circumstances on February 22, 1967, just as Garrison was preparing to arrest him.[^1]
+Also associated with Banister was [[David Ferrie]] - a pilot and private investigator with CIA connections who later became central to [[Jim Garrison]]'s New Orleans investigation. Ferrie died under disputed circumstances on February 22, 1967, just as Garrison was preparing to arrest him.[^1] Garrison's investigation similarly scrutinized [[Kerry Thornley]], the ex-Marine who had served with Oswald, within the same New Orleans network.[^2]
 
 ### Death and Post-Mortem Significance
 

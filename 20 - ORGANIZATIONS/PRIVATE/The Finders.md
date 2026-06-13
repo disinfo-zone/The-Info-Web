@@ -22,7 +22,7 @@ The Finders was a Washington D.C.-based communal group led by former [[U.S. Air 
 
 ### Origins and Structure
 
-The Finders coalesced in the late 1960s around [[Marion Pettie]], who had been hosting open-house gatherings at his Washington D.C. residence since at least the 1940s. The formal communal structure took shape around 1971 at Pettie's home in the Glover Park neighborhood.[^5] Pettie described no formal membership requirements: "Nobody signs anything."[^5] Members pooled finances into what [[Robert Gardner Terrell]] called the "Invisible Bank," with some members contributing life savings to the communal fund.[^5]
+The Finders coalesced in the late 1960s around [[Marion Pettie]], who had been hosting open-house gatherings at his Washington D.C. residence since at least the 1940s. The formal communal structure took shape around 1971 at Pettie's home in the Glover Park neighborhood.[^5] Pettie described no formal membership requirements: "Nobody signs anything."[^5] Members pooled finances into what [[Robert Garder Terrell]] called the "Invisible Bank," with some members contributing life savings to the communal fund.[^5]
 
 The group blended Taoist philosophy with New Age and Human Potential Movement concepts. Members were typically well-educated professionals who rejected conventional employment as an obstacle to what Pettie called spontaneity. Pettie functioned as the "Game Caller," a title the children in the group also used for him, directing members on assignments called "projects" that could range from mundane tasks to international travel, and exercising final authority over communal life.[^5][^6] His stated life philosophy, offered to journalist Eddie Dean in 1996, was "to know everything and do nothing."[^5]
 
@@ -33,14 +33,14 @@ Beginning around 1980, children were raised communally rather than by biological
 The group maintained several interconnected properties:
 
 - 3918-3920 W Street NW, Glover Park, Washington D.C.: Two attached red brick buildings containing approximately eight apartments, renting rooms at five dollars per night. Women and children lived here. A duplex portion contained a satellite communications setup.[^5][^2]
-- 1307 Fourth Street NE, Washington D.C.: A 10,000-square-foot warehouse owned of record by [[Robert Gardner Terrell]]. Men lived here. The space contained a large library, two kitchens, a sauna, a hot tub, a video production room, extensive computer equipment, and satellite dish antennas on the roof.[^2][^3]
+- 1307 Fourth Street NE, Washington D.C.: A 10,000-square-foot warehouse owned of record by [[Robert Garder Terrell]]. Men lived here. The space contained a large library, two kitchens, a sauna, a hot tub, a video production room, extensive computer equipment, and satellite dish antennas on the roof.[^2][^3]
 - The Farm, Nethers, Madison County, Virginia: Approximately 90 acres near Shenandoah National Park and Old Rag Mountain. Neighbors reported vans arriving at night with children who were sometimes heard crying.[^5][^7]
 
 ### Membership
 
 The active membership roster circulated during the 1987 investigations listed: [[Ronald L. Alleman]]; [[Mary Grogan]]; [[Christian Herbst]]; [[Kristin Knauth]]; [[Theodore G. Reiss]]; [[Allen Schoen]]; [[Stuart Miles Silverstone]] (operating under the alias Steve Learner); [[Randolph Winn]]; and [[Steve Usdin]]. Former members included [[Patricia H. Livingston]], [[Carolyn Said]], and others who maintained contact with the group.[^2]
 
-[[Robert Gardner Terrell]], a former [[Internal Revenue Service|IRS]] appeals officer and certified public accountant, served as the group's principal spokesman and financial manager. He was associated with [[Future Enterprises]], a computer training company that conducted business with the CIA.[^2][^3]
+[[Robert Garder Terrell]], a former [[Internal Revenue Service|IRS]] appeals officer and certified public accountant, served as the group's principal spokesman and financial manager. He was associated with [[Future Enterprises]], a computer training company that conducted business with the CIA.[^2][^3]
 
 ### John J. Cox and General Scientific
 
@@ -132,7 +132,7 @@ In 1994, the U.S. Customs Service proposed to remove Martinez from his position 
 
 [[Future Enterprises]] was a private company that provided computer training to CIA employees during the 1980s. In a 1993 public statement, CIA spokesman David Christian confirmed: "CIA sent some employees to a company called Future Enterprises, Inc. for computer training in the nineteen eighties." Christian denied any CIA ownership of or organizational relationship with the company, characterizing the Finders connection as involving one member who worked as a "part-time accountant."[^4]
 
-[[Robert Gardner Terrell]], described in sources as a former IRS appeals officer and the warehouse's owner of record, was that member. Vice president Joseph Marinich confirmed in contemporaneous reporting that CIA employees had received training at the company during the 1980s.[^4] An MPD report dated February 19, 1987 cited a CIA agent confirming the agency was sending personnel to "a Finders Corp., Future Enterprises, for training in computer operations," using language that directly identified Future Enterprises as a Finders corporate entity.[^4]
+[[Robert Garder Terrell]], described in sources as a former IRS appeals officer and the warehouse's owner of record, was that member. Vice president Joseph Marinich confirmed in contemporaneous reporting that CIA employees had received training at the company during the 1980s.[^4] An MPD report dated February 19, 1987 cited a CIA agent confirming the agency was sending personnel to "a Finders Corp., Future Enterprises, for training in computer operations," using language that directly identified Future Enterprises as a Finders corporate entity.[^4]
 
 ### The 1993 Congressional and DOJ Investigation
 
@@ -188,13 +188,13 @@ When the FBI assembled its released file, the documents included diagrams by Ted
 
 ### Dissolution and Continued Activity
 
-On March 11, 1987, [[Robert Gardner Terrell]] announced that The Finders were "breaking up" after approximately seventeen years. He gave a follow-up statement to the Associated Press on March 23, 1987 confirming dissolution: "You won't hear from the Finders again until the year 2000."[^5][^2]
+On March 11, 1987, [[Robert Garder Terrell]] announced that The Finders were "breaking up" after approximately seventeen years. He gave a follow-up statement to the Associated Press on March 23, 1987 confirming dissolution: "You won't hear from the Finders again until the year 2000."[^5][^2]
 
 On October 22, 1991, MPD Intelligence officers observed activity at the former Fourth Street NE warehouse, which the group did not sell until 1994. Officers documented "numerous well-dressed males, who operate rental cars and expensive luxury type models" entering the building at late-night and early-morning hours. Officers also observed adult males with a young male child entering the building. A van operator stopped by officers claimed to have "baby sat children for diplomats" and acknowledged the neighborhood was "not fit for babysitting activity." The MPD report, included in the FBI Vault release (pages 147-148 of the released materials), noted "possible child pornography." No follow-up federal investigation of this incident was documented in accessible records.[^3]
 
 Marion Pettie died on October 24, 2003, in Culpeper, Virginia.[^5]
 
-In 2018, [[Robert Gardner Terrell]] gave his first public interview in over twenty-five years to journalist Derrick Broze of The Conscious Resistance Network, followed by another in 2021. Both were incorporated into Broze's documentary "Who Will Find What The Finders Hide?" released in March 2019.[^10] Terrell denied all criminal allegations throughout.
+In 2018, [[Robert Garder Terrell]] gave his first public interview in over twenty-five years to journalist Derrick Broze of The Conscious Resistance Network, followed by another in 2021. Both were incorporated into Broze's documentary "Who Will Find What The Finders Hide?" released in March 2019.[^10] Terrell denied all criminal allegations throughout.
 
 ### Footnotes
 

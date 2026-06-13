@@ -21,7 +21,6 @@ born: 1901-12-24
 died: 1967-09-08
 location: "Montreal, Quebec, Canada"
 ---
-
 Donald Ewen Cameron (December 24, 1901 - September 8, 1967) was a Scottish-born psychiatrist who served simultaneously as director of the [[Allan Memorial Institute]] at [[McGill University]] in [[Montreal]], [[Quebec|Quebec, Canada]], president of the [[American Psychiatric Association]] (1952-1953), founding president of the [[World Psychiatric Association]], and a recipient of [[Central Intelligence Agency|CIA]] funding under [[Project MKUltra|MKULTRA]] Subproject 68 to test his theory of "psychic driving" - the belief that human personalities could be erased and rebuilt through extended sensory deprivation, electroconvulsive therapy, and drug administration. The patients subjected to his experimental protocols had not consented to research; they sought treatment for ordinary psychiatric conditions and emerged, in many cases, with severe and permanent cognitive damage. Cameron died in 1967 before the program's exposure, but the Canadian government ultimately paid compensation to approximately 80 identified victims.[^1]
 
 ### Career and Standing
@@ -51,6 +50,10 @@ The patients subjected to these protocols presented for treatment of conditions 
 
 Many patients emerged from the depatterning protocols with severe and permanent retrograde amnesia - loss of memories of their adult lives, their families, and sometimes childhood. Some lost basic skills including bladder control and the ability to feed themselves and required months of institutional care to relearn them. Psychological damage beyond the original presenting conditions was common. Several patients have described emerging from Cameron's care effectively as new persons, unable to remember their previous lives.[^1]
 
+### Named Victims and the Cleghorn Review
+
+Among the patients destroyed by these protocols were [[Robert Logic]], an 18-year-old who entered the Allan Memorial seeking treatment for an arthritic leg and lost 23 days of consciousness under LSD injections, electroshock, and forced taped messages including "You killed your mother"; [[Val Orlikow|Velma Orlikow]], who flew into unexplained rages and lost the ability to read; and [[Linda Macdonald]], who spent 86 days in the sleep room and emerged unable to read, write, or recognize her family and had to be toilet-trained again. When Cameron retired abruptly in 1964, his successor [[Robert Cleghorn]] commissioned a review the field considered unprecedented, which found that 60 percent of depatterned patients still suffered amnesia for the six months to ten years before therapy; one study member remarked, "We talk about concentration camps ... and it was, right in our back yard." The *American Journal of Psychiatry*'s glowing 1967 obituary made no mention of his experimental patients.[^3]
+
 ### The KUBARK Connection
 
 Cameron's depatterning and psychic driving research was directly incorporated into the CIA's [[KUBARK Counterintelligence Interrogation]] manual, a classified 1963 document that codified interrogation techniques for operational use. KUBARK drew explicitly on MKULTRA-era research, including techniques for disorientation, identity disruption through environmental manipulation, and the use of prolonged isolation and sensory deprivation to accelerate psychological regression. The specific techniques Cameron developed - extended isolation, sleep disruption, and repetitive auditory input - appear in KUBARK's discussion of coercive interrogation as methods with documented physiological and psychological effects.[^2]
@@ -61,13 +64,14 @@ Cameron died of a heart attack while mountain climbing in [[Vermont]] on Septemb
 
 When the surviving MKULTRA documents were disclosed through FOIA in 1977, the Allan Memorial experiments became one of the most publicly reported aspects of the program because of the documented severity of the harm to patients and because the victims were Canadian citizens who had sought treatment rather than prisoners or drug users who could be marginalized.
 
-Nine victims filed suit against the CIA in the [[United States]] District Court for the District of Columbia. After years of litigation over jurisdictional questions and state secrets claims, the CIA settled with the nine plaintiffs in 1988 for $750,000 total.
+Nine victims filed suit against the CIA in the United States District Court for the District of Columbia. After years of litigation over jurisdictional questions and state secrets claims, the CIA settled with the nine plaintiffs in 1988 for $750,000 total.
 
 The Canadian government, under pressure from the settlements and public disclosure, established a compensation program in 1994 that paid C$100,000 to each of approximately 80 identified victims of Cameron's experimental protocols. The program excluded victims who could not document participation in the specific experimental regimen, and advocacy groups argued the number of affected patients was considerably higher than the 80 compensated.
 
-McGill University declined to participate in compensation and maintained that the research had been conducted independently of the university's oversight structures.[^1]
+McGill University declined to participate in compensation and maintained that the research had been conducted independently of the university's oversight structures.[^1] In 2024, surviving victims and descendants won the right to proceed with a class-action lawsuit in Quebec seeking additional compensation.[^3]
 
 ### Footnotes
 
 [^1]: Collins, Anne. *In the Sleep Room: The Story of the CIA Brainwashing Experiments in Canada.* Lester & Orpen Dennys, 1988 (the primary account of Cameron and the Allan Memorial experiments). Marks, John. *The Search for the Manchurian Candidate: The CIA and Mind Control.* Times Books, 1979, Chapter 8. Kinzer, Stephen. *Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control.* Henry Holt and Company, 2019.
 [^2]: CIA. *KUBARK Counterintelligence Interrogation.* July 1963 (declassified 1997). Available: nsarchive.gwu.edu. National Security Archive Electronic Briefing Book No. 122.
+[^3]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 8; "Dr. Ewen Cameron Destroyed Minds at Allan Memorial," Alliance for Human Research Protection; "Victims of CIA-Linked Montreal Brainwashing Experiments Cleared to Sue in Class Action," CBC News, 2024.

@@ -31,17 +31,21 @@ His narcotics enforcement career gave him access to underworld contacts, prostit
 
 White was also a personal associate of [[J. Edgar Hoover]], director of the [[Federal Bureau of Investigation|FBI]], and maintained relationships across the federal law enforcement community that provided additional operational cover and protection.[^1]
 
+### OSS Truth Drug Work
+
+During [[World War II]] White came from the Narcotics Bureau into the [[Office of Strategic Services]], where he joined the truth drug committee's testing program run under [[Stanley Lovell]] in cooperation with the [[Manhattan Project]]. After early tests with vaporized [[marijuana]] at [[St. Elizabeth's Hospital]] in [[Washington, D.C.]] proved insufficient, the group settled on cigarettes laced with marijuana essence. White conducted the first field test on May 27, 1943, dosing New York mobster [[August Del Gracio]] on the reasoning that a criminal would never report the experiment to the police or press. He later tested the technique on suspected Communist soldiers at camps near [[Atlanta]], [[Memphis]], and [[New Orleans]], on one occasion shooting his initials into the ceiling molding of his New Orleans hotel room with a .22 automatic. The Del Gracio logic, that society's marginal people make ideal unwitting subjects because they cannot safely complain, was the principle Gottlieb later built the safe house program around.[^3]
+
 ### Recruitment by the CIA
 
-White was recruited to work with the CIA around 1950-1952, initially through the precursor programs Project Bluebird and Project Artichoke before MKULTRA was formally authorized. His recruitment reflected Gottlieb's judgment that the behavioral modification research needed an operational manager who could set up and run field operations rather than a scientist who could only conduct laboratory research.
+White was recruited to work with the CIA around 1950-1952, initially through the precursor programs Project Bluebird and Project Artichoke before MKULTRA was formally authorized. His recruitment reflected Gottlieb's judgment that the behavioral modification research needed an operational manager who could set up and run field operations rather than a scientist who could only conduct laboratory research. Gottlieb had found White's OSS truth-drug record while reviewing Lovell's old files in 1952, secured the approval of Narcotics Commissioner [[Harry Anslinger]], and made his pitch in New York; White's diary for June 9, 1952 records simply, "Gottlieb proposed I be a CIA consultant, I agree." White had previously been blackballed from the Agency by enemies who considered him "too rough," including New York Governor [[Thomas Dewey]] and Hoover. He was designated MKULTRA Subproject 3.[^3]
 
 White's cover name in CIA communications was "Morgan Hall." He operated under this alias in correspondence with Gottlieb and in operational documents related to the safe house program.
 
 ### Operation Midnight Climax
 
-White established the first [[Operation Midnight Climax|Midnight Climax]] safe house in San Francisco on Telegraph Hill around 1955, subsequently relocating to an apartment at 225 Chestnut Street in the Fillmore District. The Fillmore location was equipped with one-way mirrors, recording equipment, and CIA-supplied furnishings designed to suggest a comfortable residential setting.
+White established the first Midnight Climax safe house in San Francisco on Telegraph Hill around 1955, subsequently relocating to an apartment at 225 Chestnut Street in the Fillmore District. The Fillmore location was equipped with one-way mirrors, recording equipment, and CIA-supplied furnishings designed to suggest a comfortable residential setting.
 
-White recruited prostitutes through his narcotics enforcement contacts to bring men to the safe houses. The men were served drinks spiked with LSD at doses specified by Gottlieb, then observed through the one-way mirrors by White and CIA personnel. The operational purpose was to test LSD's effectiveness as an interrogation adjunct under social conditions approximating field use.
+White and his assistant [[Ira Feldman]] recruited prostitutes through his narcotics enforcement contacts, using a system of chits redeemable for dismissed narcotics arrests, to bring men to the safe houses. The men were served drinks spiked with LSD at doses specified by Gottlieb, then observed through the one-way mirrors by White and CIA personnel. The operational purpose was to test LSD's effectiveness as an interrogation adjunct under social conditions approximating field use.
 
 White described his role in the operation with considerable enthusiasm in his diaries and correspondence. In a letter to Gottlieb written after his retirement from federal service, White reflected: "I was a very minor missionary, actually a heretic, but I toiled wholeheartedly in the vineyards because it was fun, fun, fun. Where else could a red-blooded American boy lie, kill, cheat, steal, rape, and pillage with the sanction and blessing of the all-highest?"
 
@@ -49,7 +53,7 @@ CIA funds were used for the safe houses, for compensating the prostitutes, and -
 
 ### New York Operation
 
-Parallel to the San Francisco operation, White ran a safe house in New York City using identical methodology. The New York operation is less extensively documented than the San Francisco one - fewer records survived the 1973 MKULTRA records destruction, and White's diaries focused primarily on the San Francisco operation. The New York safe house operated concurrently with San Francisco for at least part of the program's run.
+The New York operation in fact came first: from 1953 White ran two adjacent Greenwich Village apartments, operating under the "Morgan Hall" alias at 81 Bedford Street, with the CIA paying all bills including a well-stocked liquor cabinet. He ran the safe house using identical methodology to what he would later bring west. The New York operation is less extensively documented than the San Francisco one - fewer records survived the 1973 MKULTRA records destruction, and White's diaries focused primarily on the San Francisco operation. The New York safe house operated concurrently with San Francisco for at least part of the program's run.
 
 ### Retirement and Diaries
 
@@ -67,3 +71,4 @@ White died before the August 3, 1977 Senate Health Subcommittee hearings at whic
 
 [^1]: Marks, John. *The Search for the Manchurian Candidate: The CIA and Mind Control.* Times Books, 1979, Chapters 5-6 (primary account of Midnight Climax using surviving MKULTRA documents and White's diaries). Kinzer, Stephen. *Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control.* Henry Holt and Company, 2019. "Project MKULTRA, the CIA's Program of Research in Behavioral Modification." Senate Hearing, August 3, 1977.
 [^2]: White, George Hunter. Diaries, 1940s-1970s. Special Collections, Foothill College Library, Los Altos Hills, California.
+[^3]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapters 1 and 6. The 1963 CIA Inspector General report allocated $10,000 a year to each of the two safe house cities "to cover cost of cultivation of targets and maintenance of a safehouse," and the Agency's auditors accepted canceled checks White cashed himself marked "Stormy" or "Undercover Agent."

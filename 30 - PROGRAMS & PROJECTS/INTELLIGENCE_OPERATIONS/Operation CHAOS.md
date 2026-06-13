@@ -34,6 +34,10 @@ The program maintained a computerized index called [[HYDRA]] containing files on
 
 The program was terminated in March 1974 following Hersh's reporting. DCI [[William Colby]] acknowledged the program's existence and provided the Church Committee with documents. Director Richard Helms had ordered the destruction of the CHAOS records in 1973, but a cache of budget and operational documents survived in misfiled form and was recovered during congressional investigation.[^1]
 
+### MKULTRA Overlap and the Manson Nexus
+
+CHAOS overlapped chronologically with the later phases of [[MKULTRA]]; where MKULTRA pursued behavioral modification, CHAOS pursued surveillance and infiltration, and the two shared CIA personnel and infrastructure. [[Louis Jolyon West]], who ran an MKULTRA subproject and operated near the [[Haight-Ashbury Free Medical Clinic]] that [[Charles Manson]] frequented, sat at a nexus where behavioral research met counterculture surveillance. In *Chaos: Charles Manson, the CIA, and the Secret History of the Sixties* (2019), journalist [[Tom O'Neill]] argued that Manson, released from federal prison on March 21, 1967, the year CHAOS launched, was allowed to operate freely despite repeated parole violations, and that his "Helter Skelter" race-war narrative, the prosecution theory advanced by [[Vincent Bugliosi]], aligned with CHAOS-era objectives of discrediting radical movements.[^5]
+
 ### The Finders and the CHAOS Context
 
 No primary source directly names [[The Finders]] in surviving CHAOS operational records. Most CHAOS files were destroyed. What survives of the record, however, places the group's formation in direct chronological and methodological overlap with the program.
@@ -50,3 +54,4 @@ One element distinguishes the Finders' CIA connection from the domestic surveill
 [^2]: Rockefeller Commission. *Report to the President by the Commission on CIA Activities Within the United States*. June 1975. U.S. Government Printing Office.
 [^3]: FBI Vault, "The Finders," FOIA case number 1372462-0, vault.fbi.gov/the-finders (released November 2019). MPD Intelligence Division report, April 13, 1987, included in release.
 [^4]: Minnick, Wendell L. "The Finders: The CIA and the Cult of Marion David Pettie." Unclassified, No. 35, Winter 1995. Unsigned "Investigative Leads" memo, no author or date, mid-1990s circulation.
+[^5]: Tom O'Neill with Dan Piepenbring, *Chaos: Charles Manson, the CIA, and the Secret History of the Sixties*. Little, Brown and Company, 2019.

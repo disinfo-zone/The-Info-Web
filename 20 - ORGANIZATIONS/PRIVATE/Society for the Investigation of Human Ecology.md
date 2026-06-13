@@ -33,9 +33,21 @@ The cut-out structure served multiple intelligence purposes. It fragmented the i
 
 ### Key Grants
 
-The Society's most consequential grant was its funding of [[Ewen Cameron]]'s research at [[McGill University]]'s [[Allan Memorial Institute]] beginning in 1957. Cameron's proposals for "psychic driving" research - his theory of erasing existing behavioral patterns and installing new ones - received Society funding for several years. The Society's grants to Cameron helped sustain experiments that produced severe and permanent harm to hundreds of psychiatric patients who had not consented to research participation.
+The Society's most consequential grant was its funding of [[D. Ewen Cameron]]'s research at [[McGill University]]'s [[Allan Memorial Institute]] beginning in 1957. Cameron's proposals for "psychic driving" research - his theory of erasing existing behavioral patterns and installing new ones - received Society funding for several years. The Society's grants to Cameron helped sustain experiments that produced severe and permanent harm to hundreds of psychiatric patients who had not consented to research participation.
 
 The Society also funded research at other American universities, psychiatric hospitals, and research institutions, supporting work on hypnosis, behavior modification, sensory deprivation, and pharmacological research. Many researchers who received Society funding did not know the organization was a CIA front; some knew or suspected government intelligence involvement but did not know the CIA specifically.[^1]
+
+### Founding by Harold Wolff and the Chinese Refugee Project
+
+The Society was incorporated in 1955 by [[Harold Wolff]], the Cornell neurologist who had conducted an official [[Brainwashing]] study for [[Allen Dulles]]; Wolff argued that to understand how governments manipulate behavior one had to study "human ecology," man in relation to his total environment, drawing on psychology, medicine, sociology, and anthropology. In its early days the Society undertook a covert espionage assignment: under the cover of investigating "the ecological aspects of disease," it studied 100 Chinese refugee students stranded after the 1949 revolution (on an $84,175 budget, paying each $25 a day) to identify candidates who might be recruited, trained, and even conditioned to resist Chinese interrogation as agents on the mainland. [[Lawrence Hinkle]] recalled that when CIA security would not clear an anthropologist Wolff had hired, Wolff simply lied to her about the money's source.[^2]
+
+### James Monroe and the Academic Cover Grants
+
+In 1955 Sid Gottlieb's [[TSS]] crew took the Society over from [[Morse Allen]] and remade it to look like a legitimate foundation; in 1957, as Cornell administrators tired of it, the CIA severed the university connection and installed a four-person staff under Lieutenant Colonel [[James Monroe]], a former Air Force Korean-War-POW researcher, to monitor several hundred thousand dollars a year in grants (Monroe personally supervised Cameron's work in Montreal). The grants built academic respectability: [[Carl Rogers]] received about $30,000, [[Charles Osgood]] $192,975 for the cross-cultural "semantic differential" research the Agency saw as relevant to propaganda, [[H. J. Eysenck]] $26,000 that a memo admitted had "no immediate relevance" but would "lend prestige," $5,000 to [[B. F. Skinner]] toward the work behind *Beyond Freedom and Dignity*, and a no-strings $30,000 "contingency investment" in [[Martin Orne]]'s hypnosis expertise. Pure "cover grants" funded a Levittown study, an analysis of a Mongoloid skull, and a survey of circumcision's effects on Turkish boys; in 1960 the Society sponsored a $15,000 APA survey that sent ten psychologists to the Soviet Union, nine unaware of CIA involvement. By the end of 1965, having satisfied itself it had overlooked nothing useful, the Society was dissolved, having distributed roughly $400,000 a year at its peak.[^2]
+
+### CIA Summer Camps for Children
+
+An October 1977 NBC television segment, "The Children and the CIA," reported that the Agency had used the Society to finance summer camps where children were brought together for observation and possible later recruitment, with counselors unaware of the CIA funding, the same conduit that had paid Cameron for his depatterning work.[^3]
 
 ### Disclosure
 
@@ -46,3 +58,5 @@ The disclosure that a foundation with academic and scientific board members had 
 ### Footnotes
 
 [^1]: Marks, John. *The Search for the Manchurian Candidate: The CIA and Mind Control.* Times Books, 1979, Chapter 9 ("The Proprietaries") - primary account of the Society's structure and funding relationships using surviving MKULTRA documents. "Project MKULTRA, the CIA's Program of Research in Behavioral Modification." Senate Hearing, August 3, 1977.
+[^2]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 9.
+[^3]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996.

@@ -36,6 +36,14 @@ OSS operations ran through several branches: Research and Analysis (intelligence
 
 Allen Dulles directed OSS operations in Switzerland from November 1942 through the war's end, developing a European intelligence network that became the foundation for the CIA's clandestine service. He subsequently became CIA Director from 1953 to 1961.[^1]
 
+### The Truth Drug Program
+
+The OSS established a "truth drug" committee under Dr. [[Winfred Overholser]], head of [[St. Elizabeth's Hospital]] in Washington, which tried and rejected [[mescaline]], several barbiturates, and scopolamine before settling in spring 1943 on [[marijuana|cannabis indica]] as the most promising substance. Testing ran in cooperation with the [[Manhattan Project]], which supplied the first dozen subjects; oral delivery failed and the committee found cigarettes the most effective vehicle. [[George Hunter White|George White]], an Army captain who had come to OSS from the [[Federal Bureau of Narcotics]], conducted the first field test on New York gangster [[August Del Gracio]] on May 27, 1943, then tested the technique on suspected Communist soldiers at camps outside [[Atlanta]], [[Memphis]], and [[New Orleans]]. The program seeded the CIA's postwar [[Project Bluebird and Project Artichoke|ARTICHOKE]] and [[Project MKUltra|MKULTRA]] work, which began by getting the old OSS files out and approaching the same George White.[^3]
+
+### Weapons and Behavioral Science
+
+[[Stanley Lovell]], a Boston industrialist and self-described "saucepan chemist," headed OSS Research and Development through Division 19 of [[James Conant]]'s National Defense Research Committee, producing devices such as the "Aunt Jemima" explosive disguised as pancake mix and the "Who? Me?" harassment substance, and pursuing several schemes to assassinate [[Adolf Hitler]]. Donovan also commissioned a psychoanalytic study of Hitler from psychoanalyst [[Walter Langer]], who predicted his suicide, and brought in [[Harvard University|Harvard]] psychologist [[Henry Murray]] to build an OSS recruit-assessment system in only fifteen days, a milestone as the first systematic American effort to evaluate personality to predict future behavior.[^3]
+
 ### Dissolution and CIA Transition
 
 Truman dissolved the OSS on October 1, 1945, distributing its functions to the State Department (Research and Analysis) and the War Department (Strategic Services Unit, which preserved the clandestine service infrastructure). The Central Intelligence Agency was created by the National Security Act of 1947, signed July 26, 1947, and formally established September 18, 1947. The institutional culture Donovan developed - including the use of academic, journalistic, and cultural figures as intelligence assets; the cultivation of foreign service networks; and the use of proprietary companies as operational covers - became standard CIA practice after the transition.[^1]
@@ -44,3 +52,4 @@ Truman dissolved the OSS on October 1, 1945, distributing its functions to the S
 
 [^1]: Smith, Bradley F. *The Shadow Warriors: O.S.S. and the Origins of the C.I.A.* Basic Books, 1983. Troy, Thomas F. *Donovan and the CIA: A History of the Establishment of the Central Intelligence Agency*. CIA Center for the Study of Intelligence, 1981. "British Security Coordination: The Secret History of British Intelligence in the Americas, 1940-45." Fromm International Publishing, 1998.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^3]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 1.

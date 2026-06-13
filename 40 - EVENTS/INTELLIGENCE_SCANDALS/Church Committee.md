@@ -48,6 +48,10 @@ Illegal mail opening: The CIA's HTLINGUAL program, which opened first-class mail
 
 NSA programs: The committee documented NSA watch lists targeting American citizens' international communications, including the MINARET program which monitored communications of antiwar figures and civil rights leaders.[^1]
 
+### MKULTRA and Behavioral Research
+
+The committee's 1975 inquiry into the CIA's behavioral-control research was hampered because the main [[Project MKUltra|MKULTRA]] records had been destroyed in 1973 on the orders of [[Richard Helms]] and [[Sidney Gottlieb]]; the committee found no evidence that the executive branch or Congress had been informed of the programs across a quarter-century. Gottlieb testified in secret about the assassination programs and was identified in the final report under the false name "Victor Scheider," and professed not to remember most of the behavioral-control details. The committee's report on the unauthorized storage of toxic agents disclosed [[MKNAOMI]] and the [[Fort Detrick]] operations, and recorded that "the drug program was part of a much larger CIA program to study possible means for controlling human behavior," extending to "radiation, electric-shock, psychology, psychiatry, sociology, and harassment substances." The committee found that the only time in twenty-five years that CIA officials sought White House approval for any of this work was a 1955 contribution of $375,000 toward a research building at Georgetown University Hospital, personally approved by [[Allen Dulles]]. A reference to the program buried in the Rockefeller Commission report triggered the Freedom of Information request that ultimately surfaced the surviving boxes of MKULTRA financial records.[^2]
+
 ### Primary Source Access
 
 The Church Committee final report and accompanying books are available through the AARC Library:
@@ -63,3 +67,4 @@ The committee's findings led to the establishment of permanent Senate and House 
 ### Footnotes
 
 [^1]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities. *Final Report*, S. Rept. 94-755, 94th Congress, 2nd Session, April 26, 1976. Available through AARC Library, aarclibrary.org. Hersh, Seymour M. "Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces." New York Times, December 22, 1974. Kathryn Olmsted, *Challenging the Secret Government: The Post-Watergate Investigations of the CIA and FBI*. University of North Carolina Press, 1996.
+[^2]: John D. Marks, *The Search for the Manchurian Candidate*, Chapter 12.

@@ -28,7 +28,7 @@ His Civil Air Patrol activities in New Orleans in the 1950s placed him in contac
 
 ### Anti-Castro Operations
 
-After his discharge from Eastern Airlines - which Ferrie was appealing through union channels with legal assistance from [[Carlos Marcello]]'s attorneys - he became deeply involved in the [[New Orleans, Louisiana|New Orleans]] anti-Castro exile network. He flew training missions with Cuban exile groups, participated in paramilitary activities, and worked within the network connected to [[Guy Banister]]'s office. This network overlapped with [[Central Intelligence Agency|CIA]]-supported anti-Castro operations coordinated from [[JM-WAVE|JM/WAVE]] in Miami.
+After his discharge from Eastern Airlines - which Ferrie was appealing through union channels with legal assistance from Carlos Marcello's attorneys - he became deeply involved in the [[New Orleans, Louisiana|New Orleans]] anti-Castro exile network. He flew training missions with Cuban exile groups, participated in paramilitary activities, and worked within the network connected to Guy Banister's office. This network overlapped with [[Central Intelligence Agency|CIA]]-supported anti-Castro operations coordinated from [[JM-WAVE|JM/WAVE]] in Miami.
 
 Ferrie's specific relationship to CIA operations was never fully documented. He had contacts with CIA-connected figures and participated in activities consistent with CIA operational support, but his precise status - whether as a paid contract asset, an informal associate, or an independently motivated anti-Castro activist - was not established before his death.[^1]
 
@@ -40,7 +40,7 @@ On November 22, 1963 - the day Kennedy was assassinated - Ferrie was in New Orle
 
 ### Garrison Investigation and Death
 
-When New Orleans District Attorney [[Jim Garrison]] began investigating the Kennedy assassination in 1967, Ferrie quickly became a central figure. Garrison arrested Ferrie briefly in November 1963 on the request of the FBI but released him. By early 1967, Garrison was building a conspiracy case centered on the New Orleans network.
+When New Orleans District Attorney Jim Garrison began investigating the Kennedy assassination in 1967, Ferrie quickly became a central figure. Garrison arrested Ferrie briefly in November 1963 on the request of the FBI but released him. By early 1967, Garrison was building a conspiracy case centered on the New Orleans network. Garrison's inquiry also examined [[Kerry Thornley]], the former Marine who had served with Oswald and written a novel about him before the assassination, as part of the same New Orleans milieu.[^1]
 
 On February 18, 1967, *Newsweek* reported that Garrison was investigating Ferrie in connection with the Kennedy assassination. Ferrie gave press interviews denying any conspiracy role. On February 22, 1967, he was found dead in his apartment. Two unsigned typed letters were found near his body, described in early reporting as possible suicide notes though they did not explicitly state a suicide intention. The [[New Orleans]] coroner ruled the cause of death as a berry aneurysm - a natural cause.
 

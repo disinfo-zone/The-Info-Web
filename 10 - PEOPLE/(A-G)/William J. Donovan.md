@@ -36,6 +36,14 @@ Donovan submitted his organizational plan to Roosevelt in July 1941, leading fir
 
 Donovan ran the OSS as a relatively decentralized operation that drew heavily on academic talent - the Research and Analysis Branch was staffed with professors from Harvard, Yale, Columbia, and other major universities - and on the social and professional networks of the American East Coast establishment. The OSS conducted covert operations, resistance support, and psychological warfare across Europe, the Middle East, and Asia. Allen Dulles ran the OSS Switzerland station from 1942 onward, developing the European network that became the CIA's clandestine service foundation.[^1]
 
+### Mobilizing Science for War
+
+Donovan, who believed [[World War II]] was in large measure a battle of science and organization, named Boston industrialist [[Stanley Lovell]] to head OSS Research and Development and serve as the agency's liaison to the scientific community, charging him: "I need every subtle device and every underhanded trick to use against the Germans and Japanese ... You'll have to invent them all, Lovell, because you're going to be my man." He commissioned a psychoanalytic study of [[Adolf Hitler]] from psychoanalyst [[Walter Langer]] (brother of OSS Research and Analysis chief [[William Langer]]) and adapted a British officer-selection method into an OSS psychological assessment system, giving [[Harvard University|Harvard]] psychologist [[Henry Murray]] only fifteen days to build a program that tested recruits' ability to withstand pressure, lead, hold liquor, and lie skillfully.[^2]
+
+### Truth Drug Research
+
+One of Donovan's most persistent research interests was a pharmacological truth serum. By spring 1943 the OSS truth drug committee, working with the [[Federal Bureau of Narcotics]], had settled on cannabis extract (tetrahydrocannabinol acetate, designated "TD") as the most promising of candidates that also included [[mescaline]] and scopolamine, testing it on volunteer personnel who became known informally as "Donovan's Dreamers." TD induced loquacity but did not reliably compel truth. The first field test was conducted by narcotics agent [[George Hunter White|George White]] on New York mobster [[August Del Gracio]] on May 27, 1943, on the logic that a criminal could not safely complain. The work, ultimately inconclusive, seeded the CIA's postwar [[Project Bluebird and Project Artichoke|ARTICHOKE]] and [[Project MKUltra|MKULTRA]] programs.[^3]
+
 ### Dissolution and the CIA
 
 Truman dissolved the OSS by executive order in October 1945, distributing its functions between the State Department and the War Department. Donovan had submitted his own proposal for a permanent postwar intelligence organization to Roosevelt in 1944, but Roosevelt's death in April 1945 and Truman's different instincts ended that initiative. Truman was wary of a "Gestapo" and was also reportedly influenced by Hoover's opposition to a competing domestic intelligence organization. The CIA was created in 1947 largely along lines that the OSS had established, incorporating much of the OSS's clandestine service personnel and methodology, but Donovan played no role in its creation or subsequent leadership.[^1]
@@ -47,3 +55,5 @@ Donovan returned to law practice after the OSS's dissolution. He remained active
 ### Footnotes
 
 [^1]: Troy, Thomas F. *Donovan and the CIA: A History of the Establishment of the Central Intelligence Agency*. CIA Center for the Study of Intelligence, 1981. Smith, Bradley F. *The Shadow Warriors: O.S.S. and the Origins of the C.I.A.* Basic Books, 1983. "British Security Coordination: The Secret History of British Intelligence in the Americas, 1940-45." Fromm International Publishing, 1998.
+[^2]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 1.
+[^3]: Alliance for Human Research Protection, "1945: 'Wild Bill' Donovan set up a 'truth drug' committee." https://ahrp.org/1945-wild-bill-donovan-set-up-a-truth-drug-committee/; Lee, Martin A. and Bruce Shlain. *Acid Dreams: The Complete Social History of LSD*. Grove Press, 1992, Chapter 1.

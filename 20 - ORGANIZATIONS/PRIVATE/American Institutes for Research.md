@@ -20,6 +20,10 @@ location: "Washington, D.C."
 
 The American Institutes for Research (AIR) is a nonprofit behavioral and social science research organization founded in 1946, headquartered in the Washington, D.C. area. It conducts applied research in education, health, workforce development, and related fields under government and private contracts. AIR's primary relevance to intelligence history is its 1995 evaluation of the [[STARGATE PROJECT|STAR GATE]] program, the classified remote viewing research effort that had operated under various designations since 1978 under [[Defense Intelligence Agency]] and, from 1991, [[Central Intelligence Agency|CIA]] sponsorship.[^1]
 
+### Cold War Classified Military Psychology Work
+
+Long before the STAR GATE evaluation, AIR appeared in the classified military-psychology record. [[Peter Watson]]'s survey of the field documents four AIR projects between 1951 and 1966: a 1951 study on the detection of malingering, a 1952 Korean War survey-research study related to the prisoner-collaboration work, a 1965 study of psychological phenomena applicable to the development of psychological weapons (under Air Force contract AF 08(635)-4238, authored by [[Clifford P. Hahn]]), and a 1966 study of psychological reactions to weapons. The 1965 weapons study placed AIR directly in psychological-weapons development rather than the personnel and assessment research for which it was publicly known. After the [[Project Camelot]] scandal forced [[SORO]]'s reorganization into [[CRESS]], AIR formed an organizational relationship with CRESS, joining the institutional network through which the Army channeled counterinsurgency social-science research.[^2]
+
 ### The 1995 STAR GATE Evaluation
 
 When the CIA took over management of the STAR GATE program in 1991 and began a review of its scientific and operational value, it contracted AIR to conduct an independent assessment. The evaluation was led by two researchers with opposing predispositions toward the subject: Ray Hyman, a University of Oregon cognitive psychologist and longtime skeptic of parapsychology who had evaluated [[Stanford Research Institute|SRI]] remote viewing research since 1973, and Jessica Utts, a University of California Davis statistician with expertise in experimental design and more open views on the statistical evidence for psi phenomena.[^1]
@@ -41,3 +45,4 @@ Ray Hyman had been involved in government-sponsored evaluations of parapsycholog
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017, pp. 303-320. Hyman, Ray, and Jessica Utts. "An Evaluation of Remote Viewing: Research and Applications." American Institutes for Research, September 29, 1995 (declassified). Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997.
+[^2]: Peter Watson, *War on the Mind: The Military Uses and Abuses of Psychology*. Basic Books, 1978, Appendix I and Appendix II.
