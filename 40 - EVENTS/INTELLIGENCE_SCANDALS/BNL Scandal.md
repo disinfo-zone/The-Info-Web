@@ -14,7 +14,7 @@ tags:
   - BNL
   - Iraqgate
   - KissingerAssociates
-summary: "The BNL scandal involved the Atlanta branch of Italy's Banca Nazionale del Lavoro, whose manager Christopher Drogoul extended approximately $5 billion in unauthorized loans to Saddam Hussein's Iraq between 1985 and 1989; subsequent investigations found CIA awareness of or involvement in the scheme, and the Justice Department's handling of the prosecution was criticized as protecting intelligence equities over criminal accountability."
+summary: "Discovery in 1989 that the Atlanta branch of Italy's Banca Nazionale del Lavoro had lent Iraq five billion dollars off its books, and a prosecution that Congress and the trial judge said shielded higher officials."
 created: 2026-05-14
 updated: 2026-09-21
 start: 1985-01-01

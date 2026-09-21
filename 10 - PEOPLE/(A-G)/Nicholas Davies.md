@@ -10,14 +10,13 @@ tags:
   - RobertMaxwell
   - AriBenMenashe
   - Vanunu
-summary: "Nicholas Davies was the foreign editor of the Daily Mirror under Robert Maxwell, accused by Seymour Hersh in 1991 of operating as a Mossad intelligence asset, passing Mordechai Vanunu's location to the Mossad, and co-directing an arms-dealing firm with Ari Ben-Menashe."
+summary: "Foreign editor of the Daily Mirror under Robert Maxwell, accused by Seymour Hersh in 1991 of working for the Mossad and dealing arms with Ari Ben-Menashe, and dismissed that October."
 created: 2026-05-14
 updated: 2026-09-21
-born: 1937-03-14
-died: 2016-01-28
+died: 2016-01
 location: "London, United Kingdom"
 ---
-Nicholas Alan Francis Benedict Davies was born on March 14, 1937, and died on January 28, 2016. He spent most of his career at [[Mirror Group]] Newspapers, which he joined in 1961 as a foreign correspondent and investigative reporter after starting at the Birmingham Post and Mail. He served as foreign editor of the [[Daily Mirror]] for fourteen years until [[Robert Maxwell]] dismissed him in 1991.[^1]
+Nicholas Davies was a British journalist who joined [[Mirror Group]] Newspapers in the 1960s and was foreign editor of the [[Daily Mirror]] for about fifteen years under [[Robert Maxwell]]. The paper dismissed him on October 28, 1991, when it gave his age as 52. He died at the end of January 2016 after a short illness.[^1]
 
 ### Allegations in "The Samson Option"
 
@@ -34,15 +33,16 @@ Davies, who was in [[Harare]] covering the Commonwealth conference, said: "The a
 
 ### Libel Litigation and Resolution
 
-Maxwell and Davies both sued Hersh and his publisher for libel following publication. Maxwell's suit terminated with his death in November 1991. Mirror Group Newspapers, after Maxwell's estate became embroiled in the pension fraud scandal, reversed course and settled with Hersh, issuing an apology and paying substantial damages. Davies did not pursue his own libel case to trial.[^1]
+Maxwell and Davies began libel proceedings against Hersh and his British publisher, Faber and Faber, which sued in turn. Maxwell died on November 5, 1991. In August 1994 Mirror Group Newspapers apologized "unreservedly" in a London court for its articles of October 1991, acknowledged that its "attempts to impugn" Hersh's integrity had been "entirely improper," and agreed to pay him and Faber "substantial damages" and their costs.[^7]
 
 Sources in Britain and Israel publicly disputed Ben-Menashe's reliability as a witness, and no subsequent independent evidence emerged to corroborate the specific allegations about Davies's intelligence role or his involvement in the Vanunu affair.[^2]
 
 ### Footnotes
 
-[^1]: "Nicholas Davies (journalist)," Wikipedia. https://en.wikipedia.org/wiki/Nicholas_Davies_(journalist)
+[^1]: "Daily Mirror fires foreign editor," United Press International, October 29, 1991. https://www.upi.com/Archives/1991/10/29/Daily-Mirror-fires-foreign-editor/6711688712400/ ; Association of Mirror Pensioners, "Nick Davies," February 3, 2016. https://www.mirrorpensioners.co.uk/obituary/nick-davies/
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991.
 [^3]: UK Parliament Early Day Motion 2134, "Mirror Group Newspapers and Israeli Intelligence," 1992. https://edm.parliament.uk/early-day-motion/2134/mirror-group-newspapers-and-israeli-intelligence
 [^4]: House of Commons, Early Day Motion 2134, "Mirror Group Newspapers and Israeli Intelligence," and Early Day Motion 2136, "Arms Sales," October 1991. https://edm.parliament.uk/early-day-motion/2136/arms-sales
 [^5]: United Press International, "Maxwell to seek injunction against book," London, October 23, 1991.
 [^6]: House of Commons, written answers, November 27, 1986, vol. 106, col. 299W, "Mr. Mordechai Vanunu."
+[^7]: "Hersh Wins Apology From British Papers," *The Washington Post,* August 19, 1994; "Writer wins damages, apology in libel suit," *Deseret News,* August 20, 1994.

@@ -20,7 +20,7 @@ tags:
   - ITT
   - Wackenhut
 category: "Intelligence & Government"
-summary: "E. Howard Hunt was a CIA officer who ran psychological warfare for Operation PBSUCCESS (1954 Guatemala coup), served as political officer for the Bay of Pigs invasion, and was one of the Watergate burglars arrested in June 1972, serving 33 months in prison, and in his final years made statements implicating CIA figures in the Kennedy assassination."
+summary: "CIA officer who ran propaganda for the 1954 Guatemala coup and politics for the Bay of Pigs, headed covert action in the Domestic Operations Division, joined the Mullen Company, and was convicted in Watergate."
 born: 1918-10-09
 died: 2007-01-23
 location: "Washington, D.C."

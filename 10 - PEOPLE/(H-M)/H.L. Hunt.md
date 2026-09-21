@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "JFK Assassination"
 tags:
   - Person
   - HLHunt

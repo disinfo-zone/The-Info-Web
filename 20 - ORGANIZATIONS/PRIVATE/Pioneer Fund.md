@@ -9,7 +9,7 @@ tags:
   - DarkMoney
   - WickliffeDraper
   - MorganGuaranty
-summary: "The Pioneer Fund is a New York foundation established in 1937 to promote eugenics and 'race betterment' that became the principal financier of race-and-intelligence research in the United States, funding many of the scholars cited in The Bell Curve and the journal Mankind Quarterly."
+summary: "New York foundation created in 1937 by Wickliffe Draper to promote eugenics, which became the main financier of race and intelligence research in the United States and of many scholars cited in The Bell Curve."
 location: "New York, New York"
 created: 2026-06-19
 updated: 2026-09-21

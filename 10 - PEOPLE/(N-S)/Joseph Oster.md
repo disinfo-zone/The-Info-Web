@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "JFK Assassination"
 tags:
   - Person
   - JosephOster

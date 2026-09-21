@@ -11,7 +11,7 @@ tags:
   - SundayMirror
   - SundayTimes
   - MargaretThatcher
-summary: "Vanunu began working as a technician at Dimona in August 1977 and spent much of the next eight years assigned to various tasks inside the reprocessing plant, formally known as Machon 2 and informally as the Tunnel."
+summary: "Technician at Israel's Dimona reprocessing plant from 1977 to 1985 who gave photographs of it to the Sunday Times, was lured from London to Rome by the Mossad in 1986, and served eighteen years."
 born: 1954-10-14
 location: "Marrakech, Morocco"
 updated: 2026-09-21

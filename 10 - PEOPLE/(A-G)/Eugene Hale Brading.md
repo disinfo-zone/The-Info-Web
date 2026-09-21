@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "JFK Assassination"
 tags:
   - Person
   - EugeneBrading

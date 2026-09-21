@@ -21,7 +21,7 @@ tags:
   - AFIO
   - Libel
 category: "Intelligence & Government"
-summary: "David Atlee Phillips was a CIA propaganda officer who ran La Voz de la Liberacion for the 1954 Guatemala coup, served as Chief of Cuban Operations at the CIA's Mexico City station during Lee Harvey Oswald's disputed September-October 1963 visit, and was identified in 2013 by Alpha 66 founder Antonio Veciana as the CIA officer 'Maurice Bishop' whom Veciana had seen with Oswald in Dallas two months before the Kennedy assassination - a claim Phillips denied under HSCA oath but that CIA officer Ron Crozier confirmed was a Phillips alias."
+summary: "CIA propaganda officer in the 1954 Guatemala coup, chief of Cuban operations in Mexico City during Oswald's 1963 visit, co-director of the 1970 Chile task force, and the man Antonio Veciana named as Maurice Bishop."
 born: 1922-10-31
 died: 1988-07-07
 location: "Washington, D.C."
