@@ -16,7 +16,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-Joseph Caldwell "J.C." King (October 5, 1900, Brooklyn, New York - January 27, 1977, Washington, D.C.) served as chief of clandestine activities for the Western Hemisphere at the [[Central Intelligence Agency]] from 1947 through 1964, the longest-serving chief of that division during the Cold War's most active period of covert intervention in Latin America. Before the CIA, King served as vice president of [[Johnson & Johnson]], overseeing its Brazil and Argentina subsidiary operations. His operational reach covered the 1954 [[CIA coup in Guatemala]] (PBSUCCESS), [[Bay of Pigs invasion]] planning, and the 1964 [[Brazilian coup]], and his personal presence in Rio during the latter coup was recorded in [[Adolf Berle]]'s diary. King is also the author of the first known written recommendation within the U.S. government that [[Fidel Castro]] be assassinated.
+Joseph Caldwell "J.C." King (October 5, 1900, Brooklyn, New York - January 27, 1977, Washington, D.C.) served as chief of clandestine activities for the Western Hemisphere at the [[Central Intelligence Agency]] from 1947 through 1964, the longest-serving chief of that division during the Cold War's most active period of covert intervention in [[Latin America]]. Before the CIA, King served as vice president of [[Johnson & Johnson]], overseeing its Brazil and Argentina subsidiary operations. His operational reach covered the 1954 [[CIA coup in Guatemala]] (PBSUCCESS), [[Bay of Pigs invasion]] planning, and the 1964 [[Brazilian coup]], and his personal presence in Rio during the latter coup was recorded in [[Adolf Berle]]'s diary. King is also the author of the first known written recommendation within the U.S. government that [[Fidel Castro]] be assassinated.
 
 ### Early Life and Education
 
@@ -46,7 +46,7 @@ On December 11, 1959, Colonel King sent a confidential memorandum to CIA Directo
 
 Dulles forwarded the memorandum to the National Security Council within days. The NSC approved forming a working group to develop "alternative solutions to the Cuban problem," which became [[Operation 40]]. Dulles assigned [[Tracy Barnes]] as operating officer of what was also called the Cuban Task Force. The first Task Force meeting, chaired by Barnes, took place in his office on January 18, 1960, attended by [[David Atlee Phillips]], [[E. Howard Hunt]], Jack Esterline, and Frank Bender.[^7]
 
-King attended a White House meeting on March 17, 1960 where a plan entitled "A Program of Covert Action Against the Castro Regime" was presented to President [[Dwight Eisenhower]], alongside CIA Director Dulles and Deputy Director for Plans [[Richard Bissell]].[^8]
+King attended a [[White House]] meeting on March 17, 1960 where a plan entitled "A Program of Covert Action Against the Castro Regime" was presented to President [[Dwight Eisenhower]], alongside CIA Director Dulles and Deputy Director for Plans [[Richard Bissell]].[^8]
 
 ### The Raul Castro Assassination Plot
 
@@ -89,7 +89,7 @@ King died January 27, 1977, in Washington, D.C. He was buried with his third wif
 [^1]: George W. Cullum, *Biographical Register of the Officers and Graduates of the U.S. Military Academy*, Supplement Vol. 8 (Class of 1923), No. 6992; Princeton University Alumni Records; Lawrenceville School Alumni Directory.
 [^2]: Ibid. King's Legion of Merit citation covers service July 1943-November 1945 as assistant military attaché, Argentina.
 [^3]: Spartacus Educational, "Joseph Caldwell King," citing OCIAA service records.
-[^4]: CIA Historical Staff, "Western Hemisphere Division, 1946-1965," December 1973. NARA JFK document 104-10301-10001. Available at National Security Archive.
+[^4]: CIA Historical Staff, "Western Hemisphere Division, 1946-1965," December 1973. NARA JFK document 104-10301-10001. Available at [[National Security Archive]].
 [^5]: FRUS 1952-54 Guatemala, Document 71, Memorandum, November 20, 1953. Available at history.state.gov/historicaldocuments/frus1952-54Guat/d71.
 [^6]: J.C. King, Memorandum to Allen Dulles, "Cuban Problems," December 11, 1959. Cited in National Security Archive Bay of Pigs Chronology, nsarchive2.gwu.edu/bayofpigs/chron.html; Spartacus Educational, "Joseph Caldwell King."
 [^7]: Spartacus Educational, "Operation 40"; Church Committee, *Interim Report: Alleged Assassination Plots Involving Foreign Leaders*, Senate Report No. 94-465, November 20, 1975, pp. 74-84 (ZR/RIFLE and Phase 1 Cuba operations).

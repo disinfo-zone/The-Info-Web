@@ -98,7 +98,7 @@ Military figures:
 - [[David Morehouse]] - viewer, later wrote *Psychic Warrior* (1996)
 - [[Ed Dames]] - session monitor and analyst, later active in the commercial remote viewing community
 - [[Harry Soyster]] - INSCOM commander who ended Army's direct participation
-- [[James Clapper]] - DIA director in the early 1990s during STAR GATE period, later Director of National Intelligence
+- [[James Clapper]] - DIA director in the early 1990s during STAR GATE period, later [[Director of National Intelligence]]
 - [[Jake Stewart]] - Navy lieutenant commander on NSC staff, primary NSC-level tasker
 - [[William Rolya]] - INSCOM commander, supported the program
 - [[Edward Meyer]] - Army Chief of Staff, supporter

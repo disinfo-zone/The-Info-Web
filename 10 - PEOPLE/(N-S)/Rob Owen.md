@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Rob Owen was Oliver North's courier and liaison to the Contra leadership who reported on drug trafficking by Contra supply companies.
 ---
-Rob Owen was [[Oliver North]]'s courier and liaison to the Contra leadership who reported on drug trafficking by Contra supply companies. Owen served as North's eyes and ears on the ground in [[Central America]], carrying messages and funds between the White House and the Contra commanders.[^1]
+Rob Owen was [[Oliver North]]'s courier and liaison to the Contra leadership who reported on drug trafficking by Contra supply companies. Owen served as North's eyes and ears on the ground in [[Central America]], carrying messages and funds between the [[White House]] and the Contra commanders.[^1]
 
 ### Reports on Drug Trafficking
 

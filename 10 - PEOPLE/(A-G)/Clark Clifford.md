@@ -12,7 +12,7 @@ born: 1906-12-25
 died: 1997-10-10
 location: "Fort Scott, Kansas"
 ---
-Clark McAdams Clifford was born December 25, 1906, in Fort Scott, Kansas. He earned a B.A. from Washington University in St. Louis in 1927 and an LL.B. from Washington University School of Law in 1928, after which he practiced law in St. Louis through World War II. He served in the Navy during the war, rising to captain, and arrived at the White House in 1946 as naval aide to President Harry S. Truman. He died October 10, 1997, in Bethesda, Maryland, at age 90.[^1]
+Clark McAdams Clifford was born December 25, 1906, in Fort Scott, Kansas. He earned a B.A. from Washington University in St. Louis in 1927 and an LL.B. from Washington University School of Law in 1928, after which he practiced law in St. Louis through World War II. He served in the Navy during the war, rising to captain, and arrived at the [[White House]] in 1946 as naval aide to President Harry S. Truman. He died October 10, 1997, in Bethesda, Maryland, at age 90.[^1]
 
 ### Truman Administration
 
@@ -28,11 +28,11 @@ Clifford served as an informal advisor to President [[John F. Kennedy]] followin
 
 ### BCCI and First American Bank
 
-In 1977, [[Bert Lance]] -- former director of the Office of Management and Budget under Carter -- introduced Clifford to [[Agha Hasan Abedi]], the Pakistani founder of [[Bank of Credit and Commerce International|BCCI]]. Abedi sought American legal representation for a planned acquisition of [[Financial General Bankshares]], a Washington, D.C.-based bank holding company.
+In 1977, [[Bert Lance]] -- former director of the [[Office of Management and Budget]] under Carter -- introduced Clifford to [[Agha Hasan Abedi]], the Pakistani founder of [[Bank of Credit and Commerce International|BCCI]]. Abedi sought American legal representation for a planned acquisition of [[Financial General Bankshares]], a Washington, D.C.-based bank holding company.
 
 In 1978, BCCI orchestrated a hostile bid for Financial General Bankshares using a group of Middle Eastern investors as nominal purchasers. The [[Securities and Exchange Commission]] filed suit against the participants, alleging undisclosed concert of action. Clifford and his partner [[Robert Altman]] -- the son of a friend, then in his early thirties -- served as counsel to the investor group. Clifford personally assured banking regulators that BCCI would play no ownership or management role in Financial General; he represented the purchase as a straightforward investment by independent Arab shareholders. Regulators approved the sale in 1981 based on these representations.[^2]
 
-The bank was subsequently renamed First American Bankshares, Inc. Clifford became chairman of the board; Altman became president. Both men received substantial legal fees for their continued representation of BCCI's interests. In 1986, the [[Central Intelligence Agency]] issued an internal report stating that BCCI had in fact owned First American since 1982 -- a report that was not acted on.[^2]
+The bank was subsequently renamed [[First American Bankshares]], Inc. Clifford became chairman of the board; Altman became president. Both men received substantial legal fees for their continued representation of BCCI's interests. In 1986, the [[Central Intelligence Agency]] issued an internal report stating that BCCI had in fact owned First American since 1982 -- a report that was not acted on.[^2]
 
 In February 1988, Clifford and Altman sold a large portion of their First American stock to [[Mohammed Hammoud]], a BCCI front man, for substantial profits.[^3]
 

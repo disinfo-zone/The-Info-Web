@@ -23,7 +23,7 @@ start: 1942-06-27
 location: "Vatican City"
 ---
 
-The Instituto per le Opere di Religione (IOR), known internationally as the Vatican Bank, is the financial institution of the [[Holy See]], established in its current form by Pope Pius XII on June 27, 1942. Located within Vatican City, it operates under the sovereign immunity of the Holy See and is not subject to Italian banking regulations or European Union financial oversight, a status that has made it useful for financial operations that parties wished to conduct outside normal national regulatory frameworks.[^1]
+The Instituto per le Opere di Religione (IOR), known internationally as the Vatican Bank, is the financial institution of the [[Holy See]], established in its current form by Pope Pius XII on June 27, 1942. Located within Vatican City, it operates under the sovereign immunity of the Holy See and is not subject to Italian banking regulations or [[European Union]] financial oversight, a status that has made it useful for financial operations that parties wished to conduct outside normal national regulatory frameworks.[^1]
 
 ### Structure and Legal Status
 
@@ -41,7 +41,7 @@ Under [[Pope John Paul II]], elected in October 1978, the Vatican's relationship
 
 ### Banco Ambrosiano and the Calvi Relationship
 
-Under [[Paul Marcinkus]], the IOR's president from 1971 to 1989, the Vatican Bank's most consequential financial relationship was with [[Roberto Calvi]] and [[Banco Ambrosiano]]. Marcinkus authorized IOR's nominal shareholding in Calvi's network of offshore shell companies in Luxembourg, Panama, and Latin America, and signed or authorized "letters of patronage" to international banks that had lent to these companies - letters that implied, without formally guaranteeing, Vatican backing for the companies' debts.
+Under [[Paul Marcinkus]], the IOR's president from 1971 to 1989, the Vatican Bank's most consequential financial relationship was with [[Roberto Calvi]] and [[Banco Ambrosiano]]. Marcinkus authorized IOR's nominal shareholding in Calvi's network of offshore shell companies in Luxembourg, Panama, and [[Latin America]], and signed or authorized "letters of patronage" to international banks that had lent to these companies - letters that implied, without formally guaranteeing, Vatican backing for the companies' debts.
 
 When Banco Ambrosiano collapsed in June 1982 following Calvi's flight and death, international creditors presented approximately $1.3 billion in claims against IOR based on the letters of patronage. The Vatican initially disputed legal responsibility; after years of negotiation, IOR agreed in 1984 to pay $244 million as a "voluntary contribution in recognition of moral involvement" without admitting legal liability. This settlement resolved most international claims while leaving the Vatican's precise role in the fraud legally unaddressed.[^1]
 

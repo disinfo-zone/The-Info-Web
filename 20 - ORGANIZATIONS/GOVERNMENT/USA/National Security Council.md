@@ -30,7 +30,7 @@ During the late 1970s, the NSC tasked remote viewers with highly sensitive intel
 
 ### Dark Alliance Investigation
 
-Under the Reagan administration, the NSC became an operational intelligence agency based inside the White House. It ran [[Oliver North]]'s illegal Contra supply network, known as "The Enterprise," after Congress cut off military aid through the [[Boland Amendment]]. CIA records showed that Hangar No. 4 at [[Ilopango Airbase]] was used by the Agency for covert Contra operations until it was turned over to the NSC and North's network in 1985.[^3]
+Under the Reagan administration, the NSC became an operational intelligence agency based inside the [[White House]]. It ran [[Oliver North]]'s illegal Contra supply network, known as "The Enterprise," after Congress cut off military aid through the [[Boland Amendment]]. CIA records showed that Hangar No. 4 at [[Ilopango Airbase]] was used by the Agency for covert Contra operations until it was turned over to the NSC and North's network in 1985.[^3]
 
 CIA agent [[Moises Nunez|Dagoberto Nuñez]] revealed that since 1985 he had engaged in a clandestine relationship with the NSC, and refused to elaborate on narcotics trafficking because of the specific tasks he had performed at the NSC's direction. CIA headquarters ordered an immediate halt to his questioning.[^4]
 

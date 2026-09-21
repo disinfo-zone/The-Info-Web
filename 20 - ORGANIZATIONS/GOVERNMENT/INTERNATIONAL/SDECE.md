@@ -36,7 +36,7 @@ De Marenches professionalized SDECE's foreign collection capabilities, expanded 
 
 Following Mitterrand's May 1981 election victory, de Marenches resigned rather than serve under a Socialist government. On April 2, 1982, the Mitterrand government formally replaced SDECE with the Direction Générale de la Sécurité Extérieure (DGSE), under new director Pierre Marion, a former CEO of Air France who had no prior intelligence career. The reconstitution was intended to break with SDECE's institutional culture and replace personnel inherited from the Gaullist and Giscardian eras.[^1]
 
-DGSE continued SDECE's functional mission - foreign intelligence collection and counterintelligence outside French territory - and inherited much of its personnel and infrastructure despite the nominal reconstitution. It attracted international attention in July 1985 when DGSE agents sank the Greenpeace vessel Rainbow Warrior in Auckland harbor, killing a photographer - an operation that became a significant diplomatic incident and led to convictions of DGSE officers in New Zealand.[^2]
+DGSE continued SDECE's functional mission - foreign intelligence collection and counterintelligence outside French territory - and inherited much of its personnel and infrastructure despite the nominal reconstitution. It attracted international attention in July 1985 when DGSE agents sank the Greenpeace vessel Rainbow Warrior in Auckland harbor, killing a photographer - an operation that became a significant diplomatic incident and led to convictions of DGSE officers in [[New Zealand]].[^2]
 
 ### Footnotes
 

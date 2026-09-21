@@ -36,7 +36,7 @@ The CIA's role during the crisis included the aerial reconnaissance that discove
 
 ### Aftermath
 
-The crisis produced the Moscow-Washington hotline (the "red phone"), a direct communication channel between the Kremlin and the White House to prevent future miscommunications during crises. It accelerated negotiations toward the Limited Nuclear Test Ban Treaty of 1963. The combination of the Berlin Wall construction in 1961 and the Cuban Missile Crisis in 1962 defined the peak of Cold War confrontation before the gradual development of detente in subsequent years.[^1]
+The crisis produced the Moscow-Washington hotline (the "red phone"), a direct communication channel between the Kremlin and the [[White House]] to prevent future miscommunications during crises. It accelerated negotiations toward the Limited Nuclear Test Ban Treaty of 1963. The combination of the Berlin Wall construction in 1961 and the Cuban Missile Crisis in 1962 defined the peak of Cold War confrontation before the gradual development of detente in subsequent years.[^1]
 
 ### Footnotes
 

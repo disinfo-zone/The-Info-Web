@@ -16,7 +16,7 @@ created: 2026-06-12
 updated: 2026-06-12
 ---
 
-David Dean Rusk (1909-1994) was [[Secretary of State]] under Presidents [[John F. Kennedy]] and [[Lyndon Johnson|Lyndon B. Johnson]] from 1961 to 1969, and before that the president of the [[Rockefeller Foundation]] for most of the 1950s. His career embodied the revolving door between the Foundation's board and the upper reaches of US foreign policy, and as Secretary of State he handled the diplomacy of the Cold War interventions that run through the Rockefeller network's history in Latin America, including the 1964 overthrow of Brazil's [[Joao Goulart]] and the 1967 hunt for [[Che Guevara]] in Bolivia.[^1]
+David Dean Rusk (1909-1994) was [[Secretary of State]] under Presidents [[John F. Kennedy]] and [[Lyndon Johnson|Lyndon B. Johnson]] from 1961 to 1969, and before that the president of the [[Rockefeller Foundation]] for most of the 1950s. His career embodied the revolving door between the Foundation's board and the upper reaches of US foreign policy, and as Secretary of State he handled the diplomacy of the Cold War interventions that run through the Rockefeller network's history in [[Latin America]], including the 1964 overthrow of Brazil's [[Joao Goulart]] and the 1967 hunt for [[Che Guevara]] in Bolivia.[^1]
 
 ### Rockefeller Foundation Years
 
@@ -30,7 +30,7 @@ When Kennedy assembled his cabinet in December 1960, Foundation trustee [[Robert
 
 During the April 1961 [[Bay of Pigs invasion]], Rusk counseled caution. After the first air strike from Nicaragua failed and the cover story unraveled at the United Nations, CIA deputy director [[Charles Cabell]] channeled the Agency's protests over inadequate air support through Rusk, who telephoned Kennedy at his Virginia estate, Glen Ora, and recommended canceling the second strike. In the 1964 Brazilian coup, Rusk received Ambassador [[Lincoln Gordon]]'s March 27 cable warning that Goulart was moving "to seize dictatorial power"; after the coup succeeded, Rusk ordered the US Embassy in Montevideo to insist that Goulart had voluntarily abandoned Brazil's presidency, hoping to deny him the refugee status that would have let him organize politically.[^4]
 
-In April 1967 Rusk convened a secret strategy session at the Pentagon on Bolivia with [[Walt Rostow]], William Bowdler, CIA Director [[Richard Helms]], and Southern Command chief General Robert Porter; that September, at the Punta del Este conference, he denounced Guevara's presence in Bolivia as a foreign invasion. A veteran of the [[Rockefeller Brothers Fund]]'s Special Studies Project, Rusk was a consistent advocate of counterinsurgency and of escalation in the [[Vietnam War]], a stance that drew him into a televised 1966 confrontation with Senator [[William Fulbright]] at the Senate Foreign Relations Committee.[^5]
+In April 1967 Rusk convened a secret strategy session at the Pentagon on Bolivia with [[Walt Rostow]], William Bowdler, CIA Director [[Richard Helms]], and Southern Command chief General Robert Porter; that September, at the Punta del Este conference, he denounced Guevara's presence in Bolivia as a foreign invasion. A veteran of the [[Rockefeller Brothers Fund]]'s Special Studies Project, Rusk was a consistent advocate of counterinsurgency and of escalation in the [[Vietnam War]], a stance that drew him into a televised 1966 confrontation with Senator [[William Fulbright]] at the [[Senate Foreign Relations Committee]].[^5]
 
 ### Footnotes
 

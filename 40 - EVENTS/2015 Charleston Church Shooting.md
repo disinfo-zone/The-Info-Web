@@ -26,7 +26,7 @@ Roof arrived at Emanuel AME Church, one of the oldest and most historically prom
 
 The nine people killed were the church's senior pastor and South Carolina state senator [[Clementa C. Pinckney]], [[Cynthia Marie Graham Hurd]], [[Susie Jackson]], [[Ethel Lee Lance]], [[Depayne Middleton Doctor]], [[Tywanza Sanders]], [[Daniel Simmons]], [[Sharonda Coleman-Singleton]], and [[Myra Thompson]].
 
-After the attack Roof drove out of state. A motorist in Shelby, North Carolina recognized him from surveillance footage broadcast in the immediate aftermath and called police. He was arrested the following morning without resistance.[^1]
+After the attack Roof drove out of state. A motorist in Shelby, [[North Carolina]] recognized him from surveillance footage broadcast in the immediate aftermath and called police. He was arrested the following morning without resistance.[^1]
 
 ### Radicalization
 

@@ -15,7 +15,7 @@ The [[Financial Crimes Enforcement Network|FinCen]] is a bureau of the [[United 
 
 Riconosciuto offered to reconstruct his files and provide [[Financial Crimes Enforcement Network|FinCen]] with a day-by-day view of alleged Mob and [[Music Corporation of America|MCA]] Corporation illegal banking transactions. He specified the need for particular computer systems (VAX 11-730 and VAX 3900) to achieve this, claiming to know [[PROMIS]] and [[FOIMS]] (Field Office Information Management System) "inside out" and having helped develop their internal tracking audit trail. He also advised on how [[J.H.]] could make inquiries into his files without alerting the issuing agencies, suggesting "non-electric" filings on [[NCIC]].[^1]
 
-Despite Riconosciuto's repeated requests and offers, nothing was forthcoming from [[J.H.]] regarding a connection to [[Financial Crimes Enforcement Network|FinCen]] or entry into the Witness Protection Program.[^1]
+Despite Riconosciuto's repeated requests and offers, nothing was forthcoming from [[J.H.]] regarding a connection to [[Financial Crimes Enforcement Network|FinCen]] or entry into the [[Witness Protection Program]].[^1]
 
 ---
 ### Footnotes

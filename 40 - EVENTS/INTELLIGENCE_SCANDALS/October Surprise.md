@@ -23,7 +23,7 @@ location: ["Madrid, Spain", "Paris, France"]
 ---
 The October Surprise refers to the allegation that senior figures in [[Ronald Reagan]]'s 1980 presidential campaign secretly negotiated with representatives of the Iranian government to delay the release of 52 American hostages held since November 4, 1979, until after Election Day, November 4, 1980. The goal was to deny President [[Jimmy Carter]] a diplomatic triumph -- the freeing of the hostages -- that could have swung the election in Carter's favor. In exchange, the Reagan camp allegedly promised [[Iran]] the release of its frozen assets (approximately $8 billion frozen by Carter) and arms sales via [[Israel]] once Reagan took office. The hostages were released January 20, 1981, minutes after Reagan was sworn in.[^1]
 
-The allegation was brought to public prominence in 1991 by [[Gary Sick]], a former Carter administration National Security Council adviser on Iran, who published *October Surprise* (1991) following three years of interviews conducted in the United States, Europe, and the Middle East. Congressional investigations in 1992-1993 found no credible evidence to sustain the allegation, but those investigations have been contested as incomplete.[^2]
+The allegation was brought to public prominence in 1991 by [[Gary Sick]], a former Carter administration National Security Council adviser on Iran, who published *October Surprise* (1991) following three years of interviews conducted in the United States, Europe, and the [[Middle East]]. Congressional investigations in 1992-1993 found no credible evidence to sustain the allegation, but those investigations have been contested as incomplete.[^2]
 
 ### Key Figures
 

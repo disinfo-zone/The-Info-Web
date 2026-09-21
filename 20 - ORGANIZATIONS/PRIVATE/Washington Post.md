@@ -10,7 +10,7 @@ summary: Major national newspaper whose national security reporter Walter Pincus
 start: 1877
 location: "Washington, D.C."
 ---
-The Washington Post is a major national newspaper based in [[Washington, D.C.]] In October 1996, it published the first major media attack on the [[Dark Alliance]] series, written by [[Walter Pincus]] and Roberto Suro.[^1]
+[[The Washington Post]] is a major national newspaper based in [[Washington, D.C.]] In October 1996, it published the first major media attack on the [[Dark Alliance]] series, written by [[Walter Pincus]] and Roberto Suro.[^1]
 
 ### Attack on Dark Alliance
 

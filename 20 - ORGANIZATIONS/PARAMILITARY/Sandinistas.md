@@ -33,7 +33,7 @@ The Sandinista government was opposed by the [[Ronald Reagan|Reagan]] administra
 
 ### Unsubstantiated Drug Trafficking Allegations
 
-Despite the Reagan administration's efforts to link the Sandinistas to drug trafficking, the evidence never materialized. "Although uncorroborated reports indicating Nicaraguan involvement in the shipping of cocaine to the United States had been received, CIA was unable to confirm reports implicating high-level Sandinistas in drug trafficking," the CIA informed the Senate Select Committee on Intelligence in April 1984. Two years later, Justice Department officials reached the same conclusion.[^3]
+Despite the Reagan administration's efforts to link the Sandinistas to drug trafficking, the evidence never materialized. "Although uncorroborated reports indicating Nicaraguan involvement in the shipping of cocaine to the United States had been received, CIA was unable to confirm reports implicating high-level Sandinistas in drug trafficking," the CIA informed the [[Senate Select Committee on Intelligence]] in April 1984. Two years later, Justice Department officials reached the same conclusion.[^3]
 
 President Reagan displayed a photograph of [[Federico Vaughn]], identified as "a top aide to one of the nine commandantes," loading an aircraft with drugs. A subsequent House Judiciary Committee investigation revealed Vaughn was likely a U.S. double agent whose house had been "continuously rented" by the U.S. Embassy since 1981, and who was associated with both Norwin Meneses and [[Oliver North]].[^3]
 

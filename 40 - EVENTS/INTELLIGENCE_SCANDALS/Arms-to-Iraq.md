@@ -25,7 +25,7 @@ The Arms-to-Iraq affair was a British political and legal scandal arising from t
 
 The central corporate figure in the Arms-to-Iraq scandal was [[Matrix Churchill]], a Coventry-based manufacturer of precision machine tools that were exported to Iraqi state enterprises for use in weapons production. Matrix Churchill was partly owned by [[Nassr State Enterprise for Mechanical Industries]], an Iraqi government entity that also appeared in the [[BNL scandal|BNL Atlanta loan]] recipient lists.
 
-Three Matrix Churchill directors - Paul Henderson, Trevor Abraham, and Peter Allen - were prosecuted in 1992 for knowingly breaching export controls. The prosecution collapsed on November 9, 1992, when defense counsel [[Geoffrey Robertson]] forced the government's hand on Public Interest Immunity (PII) certificates that ministers had signed to suppress intelligence documents. The documents, which [[MI6]] had required to be withheld, would have shown that the British government had been fully aware of the military end-use of the exports and had approved them anyway - exonerating the defendants. When the PII argument failed, the prosecution was abandoned.[^1]
+Three Matrix Churchill directors - [[Paul Henderson]], [[Trevor Abraham]], and Peter Allen - were prosecuted in 1992 for knowingly breaching export controls. The prosecution collapsed on November 9, 1992, when defense counsel [[Geoffrey Robertson]] forced the government's hand on Public Interest Immunity (PII) certificates that ministers had signed to suppress intelligence documents. The documents, which [[MI6]] had required to be withheld, would have shown that the British government had been fully aware of the military end-use of the exports and had approved them anyway - exonerating the defendants. When the PII argument failed, the prosecution was abandoned.[^1]
 
 The collapse of the trial triggered an immediate political crisis for Prime Minister [[John Major]]'s government and led directly to the establishment of the Scott Inquiry.
 
@@ -38,7 +38,7 @@ The report found that:
 - Ministers had signed PII certificates to suppress documents that would have assisted the defendants' cases
 - The language used by ministers to Parliament about the export guidelines had been "designedly" misleading
 
-Several ministers - including William Waldegrave and Nicholas Lyell - were found to have misled Parliament, though the report stopped short of attributing deliberate dishonesty to all of them. The government survived subsequent votes of confidence.[^2]
+Several ministers - including [[William Waldegrave]] and Nicholas Lyell - were found to have misled Parliament, though the report stopped short of attributing deliberate dishonesty to all of them. The government survived subsequent votes of confidence.[^2]
 
 ### Connections to Broader Networks
 

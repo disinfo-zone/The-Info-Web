@@ -19,7 +19,7 @@ died: 2024-10-15
 location: "LaRue, Ohio"
 ---
 
-Richard Vernon Secord was born July 6, 1932, in LaRue, Ohio. He died October 15, 2024. He served as a United States Air Force officer, rising to Major General, before retiring under a cloud of controversy and becoming the operational director of the private covert network known as the Enterprise that was at the center of the [[Iran-Contra Affair]].[^1]
+Richard Vernon Secord was born July 6, 1932, in LaRue, Ohio. He died October 15, 2024. He served as a [[United States Air Force]] officer, rising to Major General, before retiring under a cloud of controversy and becoming the operational director of the private covert network known as the Enterprise that was at the center of the [[Iran-Contra Affair]].[^1]
 
 ### Military Career and Edwin Wilson
 

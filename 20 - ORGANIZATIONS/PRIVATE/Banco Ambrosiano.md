@@ -22,7 +22,7 @@ end: 1982-06-17
 location: "Milan, Italy"
 ---
 
-Banco Ambrosiano was founded in Milan in 1896 as a Catholic-oriented private bank intended to provide an alternative to institutions seen as controlled by Masonic or anticlerical interests. By the 1970s, under the chairmanship of [[Roberto Calvi]], it had grown into Italy's largest private bank with an international network spanning Latin America and Europe, before collapsing in June 1982 in what was at the time the largest bank failure in Italian history.[^1]
+Banco Ambrosiano was founded in Milan in 1896 as a Catholic-oriented private bank intended to provide an alternative to institutions seen as controlled by Masonic or anticlerical interests. By the 1970s, under the chairmanship of [[Roberto Calvi]], it had grown into Italy's largest private bank with an international network spanning [[Latin America]] and Europe, before collapsing in June 1982 in what was at the time the largest bank failure in Italian history.[^1]
 
 ### Growth under Calvi
 

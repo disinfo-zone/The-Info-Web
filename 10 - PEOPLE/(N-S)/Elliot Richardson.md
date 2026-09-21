@@ -14,7 +14,7 @@ born: 1920-07-20
 died: 1999-12-31
 location: "Boston, Massachusetts, USA"
 ---
-Elliot Lee Richardson was born on July 20, 1920, in Boston, Massachusetts. He attended Harvard University (BA, 1941) and Harvard Law School (LLB, 1947, magna cum laude), then clerked for Judge [[Learned Hand]] on the U.S. Court of Appeals for the Second Circuit and for Justice [[Felix Frankfurter]] on the U.S. Supreme Court. He served in the U.S. Army in World War II, participating in the Normandy landings, and was wounded at Omaha Beach. He died on December 31, 1999.[^1]
+Elliot Lee Richardson was born on July 20, 1920, in Boston, Massachusetts. He attended Harvard University (BA, 1941) and [[Harvard Law School]] (LLB, 1947, magna cum laude), then clerked for Judge [[Learned Hand]] on the U.S. Court of Appeals for the Second Circuit and for Justice [[Felix Frankfurter]] on the U.S. Supreme Court. He served in the U.S. Army in World War II, participating in the Normandy landings, and was wounded at Omaha Beach. He died on December 31, 1999.[^1]
 
 ### Government Career
 

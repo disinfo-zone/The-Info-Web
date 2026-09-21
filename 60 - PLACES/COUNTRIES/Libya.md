@@ -31,7 +31,7 @@ On December 21, 1988, Pan American World Airways Flight 103 was destroyed by a b
 
 ### Post-Gaddafi
 
-Gaddafi was captured and killed on October 20, 2011, during the NATO-supported uprising of the Arab Spring. The subsequent civil war and arms proliferation from Libyan government stockpiles - particularly [[MANPADS|man-portable air defense systems]] (MANPADS) - dispersed weapons across the Sahel and Middle East.[^1]
+Gaddafi was captured and killed on October 20, 2011, during the NATO-supported uprising of the Arab Spring. The subsequent civil war and arms proliferation from Libyan government stockpiles - particularly [[MANPADS|man-portable air defense systems]] (MANPADS) - dispersed weapons across the Sahel and [[Middle East]].[^1]
 
 ### Footnotes
 

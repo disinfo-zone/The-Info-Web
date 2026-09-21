@@ -17,7 +17,7 @@ updated: 2026-05-22
 summary: "Liam Collins was a former U.S. Marine and Iron March leader who co-conspired with other AWD-adjacent Iron March members to attack power infrastructure in the northwestern United States, and was sentenced to 10 years in the Eastern District of North Carolina in July 2024."
 ---
 
-Liam Collins was a former United States Marine who served at [[Camp Lejeune]], North Carolina, and a leader on the [[Iron March]] neo-Nazi forum. After leaving the Marines, Collins organized with [[Paul James Kryscuk]], [[Jordan Duncan]] (a fellow former Marine), [[Joseph Maurino]] (a New Jersey National Guardsman), and [[Justin Wade Hermanson]] in an accelerationist network that planned attacks on power grid infrastructure in the northwestern United States. The group's propaganda video featured participants in [[Atomwaffen Division]] skull masks. Collins was convicted in the [[Eastern District of North Carolina]] and sentenced to 10 years in federal prison on July 25, 2024.[^1]
+Liam Collins was a former United States Marine who served at [[Camp Lejeune]], [[North Carolina]], and a leader on the [[Iron March]] neo-Nazi forum. After leaving the Marines, Collins organized with [[Paul James Kryscuk]], [[Jordan Duncan]] (a fellow former Marine), [[Joseph Maurino]] (a New Jersey National Guardsman), and [[Justin Wade Hermanson]] in an accelerationist network that planned attacks on power grid infrastructure in the northwestern United States. The group's propaganda video featured participants in [[Atomwaffen Division]] skull masks. Collins was convicted in the [[Eastern District of North Carolina]] and sentenced to 10 years in federal prison on July 25, 2024.[^1]
 
 ### Iron March and AWD Connection
 

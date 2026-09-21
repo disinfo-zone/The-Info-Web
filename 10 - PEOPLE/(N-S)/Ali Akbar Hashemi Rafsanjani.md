@@ -33,7 +33,7 @@ Rafsanjani is implicated in the [[October Surprise]] allegations by multiple acc
 
 ### Presidency and Later Career
 
-Rafsanjani served as President of Iran from August 1989 to August 1997, following Khomeini's death in June 1989. His presidency was characterized by post-war reconstruction and a more pragmatic economic approach. He continued to serve in senior positions, including the [[Expediency Council]] of which he was chairman from 1989 until his death. In 1994, Argentine investigators implicated Iranian officials including Rafsanjani in the bombing of the [[AMIA]] Jewish community center in Buenos Aires; Interpol issued a notice for his arrest in connection with the attack.[^1]
+Rafsanjani served as President of Iran from August 1989 to August 1997, following Khomeini's death in June 1989. His presidency was characterized by post-war reconstruction and a more pragmatic economic approach. He continued to serve in senior positions, including the [[Expediency Council]] of which he was chairman from 1989 until his death. In 1994, Argentine investigators implicated Iranian officials including Rafsanjani in the bombing of the [[AMIA]] Jewish community center in [[Buenos Aires]]; Interpol issued a notice for his arrest in connection with the attack.[^1]
 
 ### Footnotes
 

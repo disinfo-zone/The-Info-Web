@@ -13,7 +13,7 @@ updated: 2026-05-17
 location: "Baghdad, Iraq"
 ---
 
-Iraq occupies the territory of ancient [[Mesopotamia]] between the [[Tigris River|Tigris]] and [[Euphrates River|Euphrates]] rivers in the Middle East, bordered by [[Iran]] to the east, [[Turkey]] to the north, [[Syria]] and [[Jordan]] to the west, [[Saudi Arabia]] and [[Kuwait]] to the south. The modern state emerged from the British Mandate for Mesopotamia following [[World War I]]. The [[Hashemite]] monarchy established in 1921 was overthrown in a military coup on July 14, 1958, killing King Faisal II and establishing a republic under General Abd al-Karim Qassem.[^1]
+Iraq occupies the territory of ancient [[Mesopotamia]] between the [[Tigris River|Tigris]] and [[Euphrates River|Euphrates]] rivers in the [[Middle East]], bordered by [[Iran]] to the east, [[Turkey]] to the north, [[Syria]] and [[Jordan]] to the west, [[Saudi Arabia]] and [[Kuwait]] to the south. The modern state emerged from the British Mandate for Mesopotamia following [[World War I]]. The [[Hashemite]] monarchy established in 1921 was overthrown in a military coup on July 14, 1958, killing King Faisal II and establishing a republic under General Abd al-Karim Qassem.[^1]
 
 ### CIA and the Ba'ath Party
 

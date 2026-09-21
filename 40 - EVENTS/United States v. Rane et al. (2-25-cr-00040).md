@@ -18,7 +18,7 @@ United States v. Rane et al., 2:25-cr-00040, is the federal criminal case prosec
 
 ### Indictment
 
-A federal grand jury returned the indictment on January 17, 2025. The indictment was unsealed approximately February 4-5, 2025. The investigating agencies were [[Homeland Security Investigations]] (HSI) Los Angeles, HSI Cherry Hill (New Jersey), and HSI Honolulu, with cooperation from the [[Los Angeles Police Department]], [[San Bernardino County Sheriff's Office]], [[Henry County Sheriff's Office]] (Virginia), [[Iowa State University Police Department]], and [[Police Nationale]] (France).
+A federal grand jury returned the indictment on January 17, 2025. The indictment was unsealed approximately February 4-5, 2025. The investigating agencies were [[Homeland Security Investigations]] (HSI) Los Angeles, HSI Cherry Hill ([[New Jersey]]), and HSI Honolulu, with cooperation from the [[Los Angeles Police Department]], [[San Bernardino County Sheriff's Office]], [[Henry County Sheriff's Office]] (Virginia), [[Iowa State University Police Department]], and [[Police Nationale]] (France).
 
 The indictment named four defendants: [[Rohan Rane]] (Rohan Sandeep Rane, born 1996, Antibes, France), [[Kaleb Merritt]] (Kaleb Christopher Merritt, born approximately 2000, Spring, Texas), [[Clint Borge]] (Clint Jordan Lopaka Nahooikaika Borge, born 1983, Pahoa, Hawaii), and [[Collin Walker]] (Collin John Thomas Walker, born 2001, Bridgeton, New Jersey).[^1]
 

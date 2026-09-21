@@ -23,7 +23,7 @@ The organization imported billions of dollars worth of narcotics from [[Latin Am
 
 [[Danny Casolaro]] had been communicating regularly with [[Michael Riconosciuto]] and learned about "The Company." It is suggested that Casolaro may have scheduled a meeting with the Lexington [[Federal Bureau of Investigation|FBI]] regarding drug trafficking by "The Company" shortly before his death.[^1]
 
-[[Michael Riconosciuto]] also claimed that "The Company" was still active and that [[Brian Leighton]]'s prosecutions had only served to "vaccinate" the group against further penetration. Riconosciuto sought to hand "The Company" and [[Robert Booth Nichols]] over to [[Financial Crimes Enforcement Network|FinCen]] in exchange for entry into the Witness Protection Program, but his efforts were unsuccessful.[^1]
+[[Michael Riconosciuto]] also claimed that "The Company" was still active and that [[Brian Leighton]]'s prosecutions had only served to "vaccinate" the group against further penetration. Riconosciuto sought to hand "The Company" and [[Robert Booth Nichols]] over to [[Financial Crimes Enforcement Network|FinCen]] in exchange for entry into the [[Witness Protection Program]], but his efforts were unsuccessful.[^1]
 
 ---
 ### Footnotes

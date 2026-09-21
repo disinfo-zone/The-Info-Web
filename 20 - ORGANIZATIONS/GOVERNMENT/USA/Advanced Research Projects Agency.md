@@ -15,7 +15,7 @@ start: 1958
 end: 1972
 location: "Arlington, Virginia"
 ---
-The [[Advanced Research Projects Agency]] (ARPA) was a U.S. government agency responsible for funding and overseeing advanced technological research. It is now known as [[DARPA]] (Defense Advanced Research Projects Agency).[^1]
+The [[Advanced Research Projects Agency]] (ARPA) was a U.S. government agency responsible for funding and overseeing advanced technological research. It is now known as [[DARPA]] ([[Defense Advanced Research Projects Agency]]).[^1]
 
 In the early 1970s, ARPA showed interest in psychic phenomena, sending a three-man team to observe [[Uri Geller]] at [[Stanford Research Institute]] (SRI) in early 1973.[^1]
 

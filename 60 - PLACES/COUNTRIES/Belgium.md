@@ -13,7 +13,7 @@ updated: 2026-05-17
 location: "Brussels, Belgium"
 ---
 
-Belgium is a federal constitutional monarchy in northwestern [[Europe]], bordered by the [[Netherlands]], [[Germany]], [[Luxembourg]], and [[France]], with coastline on the North Sea. Brussels, its capital, is the headquarters of [[NATO]] and the primary seat of the [[European Union]]. Belgium has three official language communities (French, Dutch/Flemish, and German) and a complex federal political structure. Its political history is marked by significant institutional fragility and a series of scandals involving connections between political elites, organized crime, and law enforcement.[^1]
+Belgium is a federal constitutional monarchy in northwestern [[Europe]], bordered by the [[Netherlands]], [[Germany]], [[Luxembourg]], and [[France]], with coastline on the [[North Sea]]. Brussels, its capital, is the headquarters of [[NATO]] and the primary seat of the [[European Union]]. Belgium has three official language communities (French, Dutch/Flemish, and German) and a complex federal political structure. Its political history is marked by significant institutional fragility and a series of scandals involving connections between political elites, organized crime, and law enforcement.[^1]
 
 ### Marc Dutroux and the X-Dossier
 

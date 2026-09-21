@@ -11,7 +11,7 @@ Pender played a significant role in [[First Intercontinental Development Corpora
 
 Pender's letter to President Gamayel also notably listed [[Robert Booth Nichols]]' telex number (652483 RBN ASSOCS LSA) for responses, indicating a close operational link between Pender and Nichols. The Arab Bank Limited in Amman, [[Jordan]], responded positively to a potential financial transaction of "US$ three billion or more" for the reconstruction of [[Lebanon]], though the text suggests it is unlikely such reconstruction fully materialized.[^1]
 
-[[Michael Riconosciuto]] claimed to have worked directly under [[Maurice Ghanem]] and [[George K. Pender]] in [[Lebanon]], further linking Pender to the alleged drug/intelligence operations in the region. Riconosciuto also stated that [[First Intercontinental Development Corporation|FIDCO]] had a companion company called Euramae Trading, which operated throughout the Middle East and was involved in the drug trade, allegedly as a [[National Security Council|NSC]]-directed operation.[^1]
+[[Michael Riconosciuto]] claimed to have worked directly under [[Maurice Ghanem]] and [[George K. Pender]] in [[Lebanon]], further linking Pender to the alleged drug/intelligence operations in the region. Riconosciuto also stated that [[First Intercontinental Development Corporation|FIDCO]] had a companion company called Euramae Trading, which operated throughout the [[Middle East]] and was involved in the drug trade, allegedly as a [[National Security Council|NSC]]-directed operation.[^1]
 
 ---
 ### Footnotes

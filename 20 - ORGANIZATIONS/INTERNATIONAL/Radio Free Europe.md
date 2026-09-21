@@ -40,7 +40,7 @@ When Soviet tanks crushed the revolution in November 1956, the gap between RFE's
 
 ### Disclosure and Transition
 
-In February 1967, Ramparts magazine published an exposé of CIA funding of the [[National Student Association]], triggering a broader investigation of CIA-funded front organizations. The CIA's funding of RFE was publicly revealed in subsequent reporting, forcing a political response. In 1971, the [[U.S. Congress]] voted to acknowledge and continue public funding of RFE and Radio Liberty through a new Board for International Broadcasting, ending the fiction of private funding while continuing the operations.
+In February 1967, Ramparts magazine published an exposé of CIA funding of the [[National Student Association]], triggering a broader investigation of CIA-funded front organizations. The CIA's funding of RFE was publicly revealed in subsequent reporting, forcing a political response. In 1971, the [[U.S. Congress]] voted to acknowledge and continue public funding of RFE and Radio Liberty through a new [[Board for International Broadcasting]], ending the fiction of private funding while continuing the operations.
 
 RFE/RL continued to operate through the remainder of the Cold War and survived into the post-Soviet period. It broadcast into Russia, the former Soviet republics, and Eastern European countries through the transition period and beyond. Its funding came to be provided by the U.S. Agency for Global Media.
 

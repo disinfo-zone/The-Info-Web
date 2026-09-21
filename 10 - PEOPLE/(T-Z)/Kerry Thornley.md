@@ -33,7 +33,7 @@ Thornley came to believe he had been programmed for some part in the assassinati
 
 ### Banister, Ferrie, and Roselli
 
-While in New Orleans, Thornley reportedly met both [[Guy Banister]] and [[David Ferrie]], both central figures in JFK assassination research. After moving to [[Los Angeles]], Thornley met [[John Roselli]], one of the country's most powerful mobsters and an object of suspicion regarding the assassination. Roselli was later found chopped into pieces and stuffed into an oil drum dumped off the [[Florida]] coast shortly before he was to testify before the [[House Select Committee on Assassinations]].[^1]
+While in New Orleans, Thornley reportedly met both [[Guy Banister]] and [[David Ferrie]], both central figures in JFK assassination research. After moving to [[Los Angeles]], Thornley met [[Johnny Roselli|John Roselli]], one of the country's most powerful mobsters and an object of suspicion regarding the assassination. Roselli was later found chopped into pieces and stuffed into an oil drum dumped off the [[Florida]] coast shortly before he was to testify before the [[House Select Committee on Assassinations]].[^1]
 
 ### Footnotes
 

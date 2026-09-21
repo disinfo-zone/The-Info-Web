@@ -19,7 +19,7 @@ died: 1987-02-23
 location: "Washington, D.C."
 ---
 
-Edward Geary Lansdale (February 6, 1908 - February 23, 1987) was a United States Air Force officer and intelligence operative who shaped American counterinsurgency doctrine through practical success in the [[Philippines]] and controversial engagement in [[Vietnam|South Vietnam]], and who directed [[Operation Mongoose]] - the Kennedy administration's post-[[Bay of Pigs]] program to overthrow [[Fidel Castro]] - until its suspension following the [[Cuban Missile Crisis]].[^1]
+Edward Geary Lansdale (February 6, 1908 - February 23, 1987) was a [[United States Air Force]] officer and intelligence operative who shaped American counterinsurgency doctrine through practical success in the [[Philippines]] and controversial engagement in [[Vietnam|South Vietnam]], and who directed [[Operation Mongoose]] - the Kennedy administration's post-[[Bay of Pigs]] program to overthrow [[Fidel Castro]] - until its suspension following the [[Cuban Missile Crisis]].[^1]
 
 ### Philippines and Counterinsurgency Doctrine
 
@@ -41,7 +41,7 @@ Lansdale returned to Vietnam for a second tour in 1965-1968 in a senior advisory
 
 ### Operation Mongoose
 
-After the Bay of Pigs disaster in April 1961, the Kennedy administration created Operation Mongoose to renew efforts against Castro through covert means. Attorney General [[Robert Kennedy]] chaired the Special Group (Augmented) overseeing the program; Lansdale was appointed its operational director in November 1961.
+After the Bay of Pigs disaster in April 1961, the Kennedy administration created Operation Mongoose to renew efforts against Castro through covert means. Attorney General [[Robert Kennedy]] chaired the [[Special Group]] (Augmented) overseeing the program; Lansdale was appointed its operational director in November 1961.
 
 Mongoose was the largest CIA covert action program since the Korean War. At its peak, the CIA's [[JM-WAVE|JM/WAVE]] station in Miami employed over 400 officers and had more than 3,000 Cuban exile agents on its payroll. Operations targeted Cuban economic infrastructure (sabotage), developed internal resistance networks, and maintained assassination planning tracks through [[William Harvey]]'s [[ZR RIFLE|ZR/RIFLE]] program.
 

@@ -47,7 +47,7 @@ In Bolivia, US pressure produced a different model. In May 1941, the Bolivian go
 
 The CIAA, formally established by Executive Order 8840 on July 30, 1941, with Nelson Rockefeller named as coordinator, funded the Inter-American Escadrille to encourage civil aviation in the domestic Latin American sector and provided funds for more than 300 Latin American pilots to train in the United States.[^12] These training relationships, maintained through the war years, created the personal connections and institutional alignment that became the basis for the post-war hemispheric air defense system.
 
-Laurance Rockefeller, who had financed World War I ace [[Eddie Rickenbacker]]'s purchase of Eastern Airlines in 1938 and became the airline's largest shareholder, provided institutional support for these programs through his aviation industry connections and his membership in the Escadrille organization.[^13]
+Laurance Rockefeller, who had financed [[World War I]] ace [[Eddie Rickenbacker]]'s purchase of Eastern Airlines in 1938 and became the airline's largest shareholder, provided institutional support for these programs through his aviation industry connections and his membership in the Escadrille organization.[^13]
 
 The CIAA-funded airfields and the Escadrille's route infrastructure served the immediate war effort while creating the aviation footprint for postwar corporate penetration of the Latin American interior. The trans-Andean highway to [[Pucallpa]] that the CIAA funded for ground access to the Amazon complemented the Escadrille's air infrastructure for the same region.
 

@@ -32,7 +32,7 @@ The program expanded significantly under the Nixon administration from 1969. At 
 
 - The HYDRA computerized database, which ultimately indexed approximately 7,200 American citizens with individual files and cross-referenced approximately 300,000 names and 1,000 domestic organizations
 - More than 5,000 reports disseminated to the FBI over seven years of operation (the Church Committee documented 4,400 memoranda and approximately 1,000 cable disseminations)
-- Six reports compiled directly for the White House; 34 disseminated to Cabinet-level officials
+- Six reports compiled directly for the [[White House]]; 34 disseminated to Cabinet-level officials
 
 Two subprograms fed directly into MHCHAOS: [[Project MERRIMAC]], which placed CIA infiltrators in domestic antiwar and civil rights organizations in Washington D.C., and Project RESISTANCE, which compiled dossiers on radical groups near CIA facilities through coordination with campus administrators and local police. Both subprograms were run through the CIA's Office of Security rather than directly through the Counterintelligence Staff.[^2]
 

@@ -33,7 +33,7 @@ Fleming is identified in the BSC network through his relationship with [[Roald D
 
 ### James Bond and Intelligence Realism
 
-The James Bond character, first appearing in "Casino Royale" (1953), drew on Fleming's wartime intelligence experience and on actual figures from the BSC and Naval Intelligence milieu. The operational tradecraft in the novels - brush passes, cover identities, government proprietaries - was more technically accurate than critics of the character's implausible action sequences recognized. Fleming described Stephenson as one of the inspirations for James Bond's "M," the head of the Secret Intelligence Service. The character of M is generally understood to composite several figures including Godfrey and Stephenson.[^1]
+The James Bond character, first appearing in "Casino Royale" (1953), drew on Fleming's wartime intelligence experience and on actual figures from the BSC and Naval Intelligence milieu. The operational tradecraft in the novels - brush passes, cover identities, government proprietaries - was more technically accurate than critics of the character's implausible action sequences recognized. Fleming described Stephenson as one of the inspirations for James Bond's "M," the head of the [[Secret Intelligence Service]]. The character of M is generally understood to composite several figures including Godfrey and Stephenson.[^1]
 
 ### Footnotes
 

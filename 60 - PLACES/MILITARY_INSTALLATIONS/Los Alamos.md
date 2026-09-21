@@ -12,7 +12,7 @@ updated: 2026-05-14
 location: "Los Alamos, New Mexico, United States"
 ---
 
-Los Alamos National Laboratory (LANL) is a U.S. Department of Energy national laboratory located on a mesa in the Jemez Mountains of northern New Mexico, approximately 35 miles northwest of [[Santa Fe]]. Established as the Manhattan Project's weapons design laboratory (Project Y) in 1943 under scientific director J. Robert Oppenheimer, Los Alamos designed and built the first nuclear weapons, including "Little Boy" (uranium gun-type) and "Fat Man" (plutonium implosion) that were used against Hiroshima and Nagasaki in August 1945. The laboratory continues to design and certify nuclear weapons for the U.S. stockpile.[^1]
+Los Alamos National Laboratory (LANL) is a U.S. Department of Energy national laboratory located on a mesa in the Jemez Mountains of northern [[New Mexico]], approximately 35 miles northwest of [[Santa Fe]]. Established as the Manhattan Project's weapons design laboratory (Project Y) in 1943 under scientific director J. Robert Oppenheimer, Los Alamos designed and built the first nuclear weapons, including "Little Boy" (uranium gun-type) and "Fat Man" (plutonium implosion) that were used against Hiroshima and Nagasaki in August 1945. The laboratory continues to design and certify nuclear weapons for the U.S. stockpile.[^1]
 
 ### Manhattan Project
 

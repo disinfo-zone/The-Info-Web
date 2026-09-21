@@ -16,7 +16,7 @@ tags:
   - IranContra
 summary: "Lebanon is a country in the Middle East that became a focal point for intelligence operations, drug trafficking, and international arms dealing during the 1980s civil war period."
 ---
-Lebanon is a country in the Middle East that has been a focal point for various international political, military, and illicit activities, particularly during the 1980s. Its strategic location and internal conflicts made it a significant area for intelligence operations, arms dealing, and drug trafficking.[^1]
+Lebanon is a country in the [[Middle East]] that has been a focal point for various international political, military, and illicit activities, particularly during the 1980s. Its strategic location and internal conflicts made it a significant area for intelligence operations, arms dealing, and drug trafficking.[^1]
 
 ### Political and Military Landscape
 

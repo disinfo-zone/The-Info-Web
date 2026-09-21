@@ -32,7 +32,7 @@ The rifle had been purchased in [[Birmingham]] on March 29 under the alias "Harv
 
 ### Guilty Plea and Recantation
 
-Ray was extradited to the United States and represented by attorney Percy Foreman, who advised him that proceeding to trial would likely result in the electric chair. On March 10, 1969, Ray pleaded guilty to first-degree murder in a proceeding before Shelby County Criminal Court Judge Preston Battle. He was sentenced to ninety-nine years. Under Tennessee law at the time, he was not eligible for parole.
+Ray was extradited to the United States and represented by attorney [[Percy Foreman]], who advised him that proceeding to trial would likely result in the electric chair. On March 10, 1969, Ray pleaded guilty to first-degree murder in a proceeding before Shelby County Criminal Court Judge Preston Battle. He was sentenced to ninety-nine years. Under Tennessee law at the time, he was not eligible for parole.
 
 On March 13 - three days after his plea - Ray sent a letter to Judge Battle asserting that his attorney had pressured him into the plea and that he maintained his innocence. He petitioned for a trial numerous times over the following decades; every petition was denied.
 

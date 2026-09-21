@@ -48,7 +48,7 @@ At a 1975 [[NATO]] conference in [[Oslo]], US Navy psychologist [[Commander Naru
 
 KUBARK was classified SECRET and held in CIA operational channels from its production in 1963. The manual's existence became known through the Church Committee investigation, which referenced interrogation programs in its classified annexes but did not publish the document.
 
-In 1997, the Baltimore Sun obtained KUBARK through a Freedom of Information Act request as part of its investigation of CIA torture manuals used in Latin America. The declassified version was released with approximately fifteen pages still redacted. The National Security Archive at George Washington University maintains a publicly accessible copy at nsarchive.gwu.edu.[^1]
+In 1997, the Baltimore Sun obtained KUBARK through a Freedom of Information Act request as part of its investigation of CIA torture manuals used in [[Latin America]]. The declassified version was released with approximately fifteen pages still redacted. The [[National Security Archive]] at George Washington University maintains a publicly accessible copy at nsarchive.gwu.edu.[^1]
 
 ### Human Resource Exploitation Training Manual
 

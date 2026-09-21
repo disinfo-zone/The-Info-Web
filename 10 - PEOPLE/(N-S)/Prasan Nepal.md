@@ -21,7 +21,7 @@ location: "High Point, North Carolina"
 
 Nepal and Varagiannis co-led 764 Inferno's operations using [[The Com]] ecosystem's coercive methods: grooming vulnerable young people through encrypted applications, coercing victims into producing explicit and degrading material through psychological manipulation and threats, ordering self-harm documentation ("cut signs" and "blood signs" - photographs of victims cutting symbols into their own skin), and building "Lorebooks" - curated collections of victim abuse content that functioned as internal currency and status markers within the [[764 Network]]. DOJ documents confirmed at least 8 minor victims, some as young as 13, across multiple jurisdictions.
 
-As a U.S. resident arrested in North Carolina, Nepal faces direct federal prosecution in the District of Columbia with no extradition complications, in contrast to Varagiannis, who was contesting extradition from Greece before the Greek Court of Appeals as of mid-2025.[^1]
+As a U.S. resident arrested in [[North Carolina]], Nepal faces direct federal prosecution in the District of Columbia with no extradition complications, in contrast to Varagiannis, who was contesting extradition from Greece before the Greek Court of Appeals as of mid-2025.[^1]
 
 ### Footnotes
 

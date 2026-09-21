@@ -24,7 +24,7 @@ Thomas G. Clines was a [[Central Intelligence Agency|CIA]] career officer whose 
 
 Clines joined CIA in the 1950s and was assigned to the Berlin Operations Base during the early Cold War, where he first worked under Shackley or in Shackley-adjacent operations. He followed Shackley to JMWAVE in Miami (1961-1965), where he participated in anti-Castro operations and managed agents and paramilitary networks in the Cuban exile community. He served in Laos under Shackley during the peak of the CIA's Hmong paramilitary program (1966-1968), managing logistics and operational aspects of the war that included Air America transport operations.[^1]
 
-After Laos, Clines continued in CIA operations roles in Southeast Asia and Latin America. Under Shackley in the Western Hemisphere Division (1972-1976), he was involved in operations in Chile and elsewhere in Latin America. He retired from CIA in 1979 when Shackley and other senior Directorate of Operations officers were pushed out by Turner's restructuring.[^1]
+After Laos, Clines continued in CIA operations roles in Southeast Asia and [[Latin America]]. Under Shackley in the Western Hemisphere Division (1972-1976), he was involved in operations in Chile and elsewhere in Latin America. He retired from CIA in 1979 when Shackley and other senior Directorate of Operations officers were pushed out by Turner's restructuring.[^1]
 
 ### Edwin Wilson and Libya
 

@@ -34,7 +34,7 @@ Photographs of the interior released after Epstein's death showed eccentric and 
 
 ### The DNA and Eugenics Reporting
 
-The New York Times reported in 2019 that Epstein had told scientists and associates of a plan to use Zorro Ranch as the site of a project to seed the human race with his DNA, describing an idea in which numerous women would be inseminated with his sperm and give birth at the ranch. The reporting attributed the account to people familiar with Epstein's thinking and noted no evidence that the plan was ever carried out.[^6]
+[[The New York Times]] reported in 2019 that Epstein had told scientists and associates of a plan to use Zorro Ranch as the site of a project to seed the human race with his DNA, describing an idea in which numerous women would be inseminated with his sperm and give birth at the ranch. The reporting attributed the account to people familiar with Epstein's thinking and noted no evidence that the plan was ever carried out.[^6]
 
 The same reporting connected the idea to Epstein's stated interest in transhumanism, a movement combining genetic engineering, artificial intelligence, and other technologies to alter human beings, and to his cultivation of scientists. The plan as reported was a scheme Epstein discussed rather than an executed program, and it remains attributed account rather than an adjudicated finding.[^6]
 

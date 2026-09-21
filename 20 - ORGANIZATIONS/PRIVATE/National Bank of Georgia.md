@@ -13,7 +13,7 @@ National Bank of Georgia was a financial institution that became entangled in th
 
 BCCI illegally acquired the National Bank of Georgia, using Pharaon as a front man.[^1] The bank's assets quadrupled from $400 million to $1.6 billion under [[Roy P. M. Carlson]]'s leadership, who was appointed head of the bank by Abedi and Pharaon.[^2] The National Bank of Georgia functioned primarily as a clearinghouse for BCCI funds in the [[United States]], a destination for BCCI letters of credit, and a provider of loans and services to BCCI's international clientele.[^2]
 
-By 1987, the bank's share of the [[Atlanta]] retail market had dropped to 5 percent, and it began to suffer significant loan losses, requiring new capital infusions.[^2] [[First American Bank]] purchased the National Bank of Georgia from Ghaith Pharaon for $227 million in 1987.[^1]
+By 1987, the bank's share of the [[Atlanta]] retail market had dropped to 5 percent, and it began to suffer significant loan losses, requiring new capital infusions.[^2] [[First American Bank]] purchased the National Bank of Georgia from [[Ghaith Pharaon]] for $227 million in 1987.[^1]
 
 ### Legal Issues
 

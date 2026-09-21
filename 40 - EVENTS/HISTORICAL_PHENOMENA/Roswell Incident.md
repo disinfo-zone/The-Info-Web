@@ -10,7 +10,7 @@ summary: "Alleged crash of a UAP in the desert near Roswell, New Mexico in July 
 date: 1947
 location: "Roswell, New Mexico"
 ---
-The [[Roswell Incident]] is the alleged crash of a [[Unidentified Anomalous Phenomena|UAP]] in the desert near Roswell, New Mexico, in July 1947. The event is considered by many to be the foundational incident of the modern UAP era and the beginning of the U.S. government's long-standing policy of secrecy and denial on the subject.[^1]
+The [[Roswell Incident]] is the alleged crash of a [[Unidentified Anomalous Phenomena|UAP]] in the desert near Roswell, [[New Mexico]], in July 1947. The event is considered by many to be the foundational incident of the modern UAP era and the beginning of the U.S. government's long-standing policy of secrecy and denial on the subject.[^1]
 
 ### The Crash and Recovery
 

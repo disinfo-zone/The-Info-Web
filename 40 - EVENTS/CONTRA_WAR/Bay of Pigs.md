@@ -25,7 +25,7 @@ The Bay of Pigs invasion (April 17-19, 1961) was a [[Central Intelligence Agency
 
 ### Authorization and Planning
 
-The formal authorization was an NSC directive titled "A Program of Covert Action against the Castro Regime," approved by Eisenhower on March 17, 1960, through the 5412 Group (Special Group). It authorized four elements: creating a unified Cuban exile political opposition outside Cuba, a propaganda offensive to the Cuban people, a covert intelligence and action organization inside Cuba, and a paramilitary force for potential future action. The initial budget was $4.4 million; by April 1961 it had grown to approximately $45 million.
+The formal authorization was an NSC directive titled "A Program of Covert Action against the Castro Regime," approved by Eisenhower on March 17, 1960, through the 5412 Group ([[Special Group]]). It authorized four elements: creating a unified Cuban exile political opposition outside Cuba, a propaganda offensive to the Cuban people, a covert intelligence and action organization inside Cuba, and a paramilitary force for potential future action. The initial budget was $4.4 million; by April 1961 it had grown to approximately $45 million.
 
 [[Richard Bissell]], the CIA's Deputy Director for Plans, was designated the operation's principal architect. The operation's early cryptonym was Pluto; after the landing site was changed it became Zapata. Training of the exile force began at Camp Trax (cryptonym JMTRAX), a CIA base at the La Helvetia coffee plantation in the Sierra Madre near Retalhuleu, Guatemala, from approximately July 1960. The exile force was designated Brigade 2506, named for trainee Carlos Rafael Santana, membership number 2506, who died in a training accident on September 8, 1960.
 
@@ -43,7 +43,7 @@ What the site change eliminated: the escape route to the Escambray Mountains ava
 
 ### Air Operations and the Cover Story Collapse
 
-The original air plan called for over 40 sorties before the invasion. Kennedy approved only one initial strike reduced to eight B-26 bombers targeting Castro's main airfields. The April 15 strikes (Operation JM/Fury) flew from Puerto Cabezas, [[Nicaragua]], targeting Campo Libertad, San Antonio de los Baños, and Santiago de Cuba. The CIA's initial assessment claimed the strikes destroyed 50 percent of Castro's offensive air; subsequent analysis showed considerably less damage. Castro's surviving air force at the start of the invasion included approximately two B-26s, two Sea Furies, and three T-33 jet trainers.
+The original air plan called for over 40 sorties before the invasion. Kennedy approved only one initial strike reduced to eight B-26 bombers targeting Castro's main airfields. The April 15 strikes (Operation JM/Fury) flew from Puerto Cabezas, [[Nicaragua]], targeting Campo Libertad, [[San Antonio]] de los Baños, and Santiago de Cuba. The CIA's initial assessment claimed the strikes destroyed 50 percent of Castro's offensive air; subsequent analysis showed considerably less damage. Castro's surviving air force at the start of the invasion included approximately two B-26s, two Sea Furies, and three T-33 jet trainers.
 
 The cover story required that the attacking aircraft appear to be defecting Cuban air force pilots. Exile pilot Mario Zuñiga was presented to the media as a Cuban defector who had participated in the attack. The story collapsed within hours: journalists noticed the B-26 had a solid metal nose cone with gun mounts, while Castro's B-26s used plastic nose cones with wing-mounted guns, and the guns were sealed with masking tape.
 
@@ -79,13 +79,13 @@ CIA Inspector General Lyman Kirkpatrick completed "The Inspector General's Surve
 
 Among the report's documented findings: the operation received the CIA's "lowest-ranked case officers"; staffing was insufficient at all levels; Spanish-language deficiencies plagued the training program; the CIA treated Cuban exile leaders as "puppets" rather than building genuine partnership; and the agency had "conducted an overt military operation beyond Agency responsibility as well as Agency capability."
 
-Kirkpatrick distributed copies to [[Allen Dulles]], McCone, the President's Foreign Intelligence Advisory Board, and [[Robert Kennedy]] - circumventing normal IG channels and causing what witnesses described as an "extremely stormy session" between Dulles and Kirkpatrick. McCone ordered all but one of approximately 20 copies destroyed; the surviving copy remained locked in the DCI's safe.
+Kirkpatrick distributed copies to [[Allen Dulles]], McCone, the [[President's Foreign Intelligence Advisory Board]], and [[Robert Kennedy]] - circumventing normal IG channels and causing what witnesses described as an "extremely stormy session" between Dulles and Kirkpatrick. McCone ordered all but one of approximately 20 copies destroyed; the surviving copy remained locked in the DCI's safe.
 
 [[Tracy Barnes]], Bissell's deputy and the operation's Washington coordinator, authored a formal response characterizing the report as "an incompetent job," "biased," and "malicious." Bissell argued that political deniability requirements and senior policy makers bore primary responsibility. McCone bound both documents together as a paired submission to the PFIAB.
 
 CIA historian Jack Pfeiffer's five-volume internal history (written 1979-1984) sided against Kirkpatrick across all five volumes, alleging he was motivated by desire for Bissell's position. CIA Chief Historian David Robarge, authorizing the 2016 public release of Pfeiffer's Vol. V, acknowledged Pfeiffer's draft suffered from "serious shortcomings in scholarship" and a "polemical tone."
 
-The Kirkpatrick report remained classified for 36 years, declassified on February 22, 1998, following a two-year FOIA effort by the National Security Archive. It was published in full as Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba* (New Press, 1998).[^2]
+The Kirkpatrick report remained classified for 36 years, declassified on February 22, 1998, following a two-year FOIA effort by the [[National Security Archive]]. It was published in full as Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba* (New Press, 1998).[^2]
 
 ### The Taylor Commission
 
@@ -107,7 +107,7 @@ Kennedy welcomed the released prisoners at the Orange Bowl in Miami on December 
 
 ### Veterans and Later Operations
 
-Brigade 2506 veterans became the CIA's organizational core for subsequent Cuba operations and reappeared across later covert programs. [[Felix Rodriguez]], a veteran who had participated in the capture of [[Che Guevara]] in Bolivia, managed the Contra resupply operation at [[Ilopango Airbase]] in [[El Salvador]] in the 1980s under the alias "Max Gomez." [[Howard Hunt]], the Bay of Pigs political officer responsible for the Cuban Revolutionary Council exile leadership, recruited Bay of Pigs veterans for the Watergate burglary team. Three of the Watergate burglars - Bernard Barker, Eugenio Martinez, and Frank Sturgis - were Bay of Pigs veterans with continuing CIA relationships. Hunt's Bay of Pigs role, and the CIA's desire to contain investigation into it, was a recurring element of the Watergate cover-up narrative.[^3]
+Brigade 2506 veterans became the CIA's organizational core for subsequent Cuba operations and reappeared across later covert programs. [[Felix Rodriguez]], a veteran who had participated in the capture of [[Che Guevara]] in Bolivia, managed the Contra resupply operation at [[Ilopango Airbase]] in [[El Salvador]] in the 1980s under the alias "Max Gomez." [[Howard Hunt]], the Bay of Pigs political officer responsible for the Cuban Revolutionary Council exile leadership, recruited Bay of Pigs veterans for the Watergate burglary team. Three of the Watergate burglars - [[Bernard Barker]], Eugenio Martinez, and Frank Sturgis - were Bay of Pigs veterans with continuing CIA relationships. Hunt's Bay of Pigs role, and the CIA's desire to contain investigation into it, was a recurring element of the Watergate cover-up narrative.[^3]
 
 ### Footnotes
 

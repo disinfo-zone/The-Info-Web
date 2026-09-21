@@ -8,7 +8,7 @@ summary: "Task Force 157 was a small covert U.S. Navy intelligence unit that ope
 start: 1966
 end: 1977
 ---
-Task Force 157 was a small, undercover U.S. Navy intelligence unit. During the 1973 [[Yom Kippur War]], operating in the waters of the [[Bosporus]] off [[Turkey]], it relayed data to [[Washington, D.C.]] suggesting that one of the Soviet ships leaving the [[Black Sea]] en route to the [[Mediterranean]] was carrying radioactive material. This report swept through the American intelligence community and the White House, contributing to the heightened alert status during the crisis.[^1]
+Task Force 157 was a small, undercover U.S. Navy intelligence unit. During the 1973 [[Yom Kippur War]], operating in the waters of the [[Bosporus]] off [[Turkey]], it relayed data to [[Washington, D.C.]] suggesting that one of the Soviet ships leaving the [[Black Sea]] en route to the [[Mediterranean]] was carrying radioactive material. This report swept through the American intelligence community and the [[White House]], contributing to the heightened alert status during the crisis.[^1]
 
 ### Footnotes
 

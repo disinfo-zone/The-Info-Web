@@ -15,7 +15,7 @@ born: 2001
 location: "Brooklawn, New Jersey"
 ---
 
-[[Richard Tobin]] (born approximately 2001, [[Brooklawn, New Jersey]]) was a member of [[The Base]], the paramilitary white supremacist network founded by [[Rinaldo Nazzaro]] in 2018, who in September 2019 organized "[[Operation Kristallnacht]]" - a coordinated synagogue vandalism campaign targeting two U.S. cities. He directed two other Base members via encrypted online communications to spray-paint hate symbols on synagogues in [[Racine, Wisconsin]] and [[Hancock, Michigan]] on September 21, 2019. He was charged with conspiracy against rights (18 U.S.C. § 241) in the District of New Jersey, pleaded guilty in February 2021, and was sentenced by U.S. District Judge [[Robert B. Kugler]] to one year and one day in federal prison plus three years of supervised release in November 2021.[^1]
+[[Richard Tobin]] (born approximately 2001, [[Brooklawn, New Jersey]]) was a member of [[The Base]], the paramilitary white supremacist network founded by [[Rinaldo Nazzaro]] in 2018, who in September 2019 organized "[[Operation Kristallnacht]]" - a coordinated synagogue vandalism campaign targeting two U.S. cities. He directed two other Base members via encrypted online communications to spray-paint hate symbols on synagogues in [[Racine, Wisconsin]] and [[Hancock, Michigan]] on September 21, 2019. He was charged with conspiracy against rights (18 U.S.C. § 241) in the District of [[New Jersey]], pleaded guilty in February 2021, and was sentenced by U.S. District Judge [[Robert B. Kugler]] to one year and one day in federal prison plus three years of supervised release in November 2021.[^1]
 
 ### Operation Kristallnacht
 

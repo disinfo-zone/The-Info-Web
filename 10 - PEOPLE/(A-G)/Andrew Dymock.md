@@ -16,7 +16,7 @@ updated: 2026-05-21
 summary: "Andrew Dymock is a British neo-Nazi who founded the System Resistance Network and Sonnenkrieg Division after National Action's proscription, convicted on 15 terrorism and hate crime counts at the Old Bailey in 2021 and sentenced to 7 years."
 ---
 
-[[Andrew Dymock]] (born May 14, 1997, [[Bath]], Somerset, England) founded the [[System Resistance Network]] (SRN) and subsequently the [[Sonnenkrieg Division]] (SKD), the two most significant organizational successors to [[National Action]] after its proscription in December 2016. SRN was itself proscribed in 2017 and SKD in 2019. Dymock was arrested in December 2018 at Gatwick Airport and tried at the Central Criminal Court (Old Bailey) in London. A jury found him guilty on all 15 counts in June 2021 and on July 21, 2021, Judge [[Mark Dennis QC]] sentenced him to 7 years imprisonment plus 3 years extended licence, describing him as "dangerous" and posing "a significant risk of serious harm" to the public.[^1]
+[[Andrew Dymock]] (born May 14, 1997, [[Bath]], Somerset, England) founded the [[System Resistance Network]] (SRN) and subsequently the [[Sonnenkrieg Division]] (SKD), the two most significant organizational successors to [[National Action]] after its proscription in December 2016. SRN was itself proscribed in 2017 and SKD in 2019. Dymock was arrested in December 2018 at Gatwick Airport and tried at the Central Criminal Court ([[Old Bailey]]) in London. A jury found him guilty on all 15 counts in June 2021 and on July 21, 2021, Judge [[Mark Dennis QC]] sentenced him to 7 years imprisonment plus 3 years extended licence, describing him as "dangerous" and posing "a significant risk of serious harm" to the public.[^1]
 
 ### SRN and Sonnenkrieg Division
 

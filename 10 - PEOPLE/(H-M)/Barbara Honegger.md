@@ -17,7 +17,7 @@ location: "Monterey, California"
 summary: "Barbara Honegger was a Reagan White House policy analyst who resigned in 1983 and subsequently published the 1989 book October Surprise, one of the first detailed published accounts alleging that the Reagan campaign secretly negotiated with Iran in 1980 to delay the release of American hostages."
 ---
 
-Barbara Honegger served as a policy analyst in the [[Ronald Reagan|Reagan]] administration's Office of Policy Development beginning in 1981. Her transition from White House insider to one of the principal public advocates for the [[October Surprise]] theory makes her a central figure in the controversy about the circumstances of the American hostage release from Iran in January 1981.
+Barbara Honegger served as a policy analyst in the [[Ronald Reagan|Reagan]] administration's Office of Policy Development beginning in 1981. Her transition from [[White House]] insider to one of the principal public advocates for the [[October Surprise]] theory makes her a central figure in the controversy about the circumstances of the American hostage release from Iran in January 1981.
 
 ### Reagan Administration Service
 
@@ -33,7 +33,7 @@ Honegger cited what she called the "Palomino document" - a letter she obtained t
 
 ### Congressional Investigation Reception
 
-When the House October Surprise Task Force investigated the October Surprise allegations in 1992-1993, Honegger testified and provided documentation. The Task Force's January 1993 report found her specific allegations unverifiable and, in several instances, factually inconsistent with documentary evidence. The Task Force found no credible evidence that Bush had attended Paris meetings, a central element of Honegger's account. The Task Force's conclusion differed from the parallel Senate Foreign Relations Committee report, which was more cautious about definitively ruling out the allegations.[^2]
+When the House October Surprise Task Force investigated the October Surprise allegations in 1992-1993, Honegger testified and provided documentation. The Task Force's January 1993 report found her specific allegations unverifiable and, in several instances, factually inconsistent with documentary evidence. The Task Force found no credible evidence that Bush had attended Paris meetings, a central element of Honegger's account. The Task Force's conclusion differed from the parallel [[Senate Foreign Relations Committee]] report, which was more cautious about definitively ruling out the allegations.[^2]
 
 Honegger contested the Task Force's findings, arguing that its investigation had been insufficiently rigorous and that key evidence had been withheld by intelligence agencies.
 

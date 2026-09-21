@@ -22,7 +22,7 @@ The U.S. security classification system has several levels above standard classi
 - Unacknowledged SAPs (USAPs): Programs whose existence itself is classified; also called "black programs"
 - Waived SAPs: The most restricted category, in which the program is "waived" from congressional oversight requirements (except for select committee chairs); exists outside the normal reporting framework
 
-The authority to establish SAPs rests with the Secretary of Defense, Director of National Intelligence, and certain other senior officials. Waived SAPs require only brief notification to the chairs and ranking members of relevant congressional intelligence and armed services committees - not actual oversight.[^2]
+The authority to establish SAPs rests with the Secretary of Defense, [[Director of National Intelligence]], and certain other senior officials. Waived SAPs require only brief notification to the chairs and ranking members of relevant congressional intelligence and armed services committees - not actual oversight.[^2]
 
 ### Black Budget
 

@@ -48,7 +48,7 @@ The circumstances Lashbrook described to investigators over subsequent years shi
 
 ### Disclosure and Forensic Investigation
 
-In 1975, the Church Committee's investigation into CIA domestic activities surfaced a reference to an employee who had died after being unknowingly dosed with LSD. President [[Gerald Ford]] acknowledged the episode and the Olson family was invited to the White House. The CIA disclosed that Frank Olson was the unnamed employee and that he had been dosed with LSD nine days before his death. Congress passed a private bill compensating the family for $750,000 in 1976.
+In 1975, the Church Committee's investigation into CIA domestic activities surfaced a reference to an employee who had died after being unknowingly dosed with LSD. President [[Gerald Ford]] acknowledged the episode and the Olson family was invited to the [[White House]]. The CIA disclosed that Frank Olson was the unnamed employee and that he had been dosed with LSD nine days before his death. Congress passed a private bill compensating the family for $750,000 in 1976.
 
 The family's subsequent private investigation, led by Olson's son Eric, raised the question of whether the death was suicide or murder. Eric Olson's theory was that his father had been murdered because his knowledge of CIA biological weapons programs and interrogation methods made him a security risk in his deteriorating psychological state.
 

@@ -13,7 +13,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-Chase Manhattan Bank was the principal financial vehicle through which the Rockefeller family exercised economic leverage in Latin America during the Cold War. Under [[David Rockefeller]], who joined the bank in 1946, served as president from 1961, and chaired it from 1969 to 1981, Chase became the dominant US commercial bank in the hemisphere, holding major loans to Brazilian industry, financing trade across the region, and using its credit policies as an instrument of political pressure during the destabilization of nationalist governments.
+Chase Manhattan Bank was the principal financial vehicle through which the Rockefeller family exercised economic leverage in [[Latin America]] during the Cold War. Under [[David Rockefeller]], who joined the bank in 1946, served as president from 1961, and chaired it from 1969 to 1981, Chase became the dominant US commercial bank in the hemisphere, holding major loans to Brazilian industry, financing trade across the region, and using its credit policies as an instrument of political pressure during the destabilization of nationalist governments.
 
 ### Formation and Rockefeller Control
 

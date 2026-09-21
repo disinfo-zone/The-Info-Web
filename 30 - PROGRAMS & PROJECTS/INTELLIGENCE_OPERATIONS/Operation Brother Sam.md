@@ -17,7 +17,7 @@ updated: 2026-06-05
 
 Operation Brother Sam was a covert US military operation in which the [[Johnson administration]] dispatched a naval task force to Brazilian waters in late March-early April 1964 to support the military coup that overthrew President [[Joao Goulart]] of Brazil. The task force, assembled under the direction of [[Dean Rusk]]'s State Department, US Ambassador to Brazil [[Lincoln Gordon]], and CIA director [[John McCone]], included the aircraft carrier [[USS Forrestal]] (CVA-59), six destroyers, and tanker vessels carrying petroleum, aviation fuel, and military supplies intended for use by coup forces if needed. The coup succeeded without requiring direct US military intervention, and the task force was withdrawn, but its existence was suppressed for nearly two decades.[^1]
 
-The coup was the most consequential US covert operation in Latin America before Chile 1973, installing a military dictatorship that held power until 1985 and opening the Brazilian Amazon to American corporate penetration.
+The coup was the most consequential US covert operation in [[Latin America]] before Chile 1973, installing a military dictatorship that held power until 1985 and opening the Brazilian Amazon to American corporate penetration.
 
 ### Goulart's Brazil
 
@@ -29,11 +29,11 @@ Kennedy's assassination in November 1963 removed this restraint. The coup follow
 
 ### Kennedy-Era Planning
 
-Planning for Goulart's removal began in the Kennedy administration. At an Oval Office meeting on July 30, 1962, Kennedy met secretly with Ambassador Lincoln Gordon and State Department official [[Richard Goodwin]] to discuss strengthening military contacts with Brazil, including the appointment of Lt. Col. [[Vernon Walters]] as military liaison to Brazilian army officers. The meeting was among Kennedy's first secretly taped Oval Office sessions.[^4]
+Planning for Goulart's removal began in the Kennedy administration. At an [[Oval Office]] meeting on July 30, 1962, Kennedy met secretly with Ambassador Lincoln Gordon and State Department official [[Richard Goodwin]] to discuss strengthening military contacts with Brazil, including the appointment of Lt. Col. [[Vernon Walters]] as military liaison to Brazilian army officers. The meeting was among Kennedy's first secretly taped Oval Office sessions.[^4]
 
 On December 11, 1962, an NSC memorandum titled "U.S. Short-Term Policy Toward Brazil" outlined three policy options: doing nothing, collaborating to overthrow Goulart, or changing his orientation. An EXCOMM meeting the same day recorded Kennedy accepting the recommendation that "our best course of action is to seek to change the political and economic orientation of Goulart and his Government." The memorandum concluded that "coup must be kept under active and continuous consideration."[^5]
 
-On October 7, 1963, forty-six days before his assassination, Kennedy convened a White House meeting on Brazil with Under Secretary of State [[Averell Harriman]], Secretary of Defense [[Robert McNamara]], Assistant Secretary of State for Inter-American Affairs [[Edwin Martin]], and Gordon. Kennedy asked Gordon directly: "What about the... Do you see a situation coming where we might be, find desirable, to intervene militarily ourselves?" Gordon responded that any such operation would be massive, estimating it would require "six divisions, I've forgotten how many ships and aircraft and whatnot, I mean, it was a really massive military operation."[^6]
+On October 7, 1963, forty-six days before his assassination, Kennedy convened a [[White House]] meeting on Brazil with Under Secretary of State [[Averell Harriman]], Secretary of Defense [[Robert McNamara]], Assistant Secretary of State for Inter-American Affairs [[Edwin Martin]], and Gordon. Kennedy asked Gordon directly: "What about the... Do you see a situation coming where we might be, find desirable, to intervene militarily ourselves?" Gordon responded that any such operation would be massive, estimating it would require "six divisions, I've forgotten how many ships and aircraft and whatnot, I mean, it was a really massive military operation."[^6]
 
 A contingency plan dated November 22, 1963 (the day of Kennedy's assassination) noted that the plan placed "heavy emphasis on U.S. armed intervention."[^7]
 
@@ -79,7 +79,7 @@ Rusk stated that actual POL unloading and the airlift would require "further dev
 
 At 1:50 p.m. on March 31, 1964, Rear Admiral [[John L. Chew]] ordered the task force centered on the USS Forrestal to proceed toward the vicinity of Santos. The task force drew on the 4th Aircraft Carrier Division and the 162nd and 262nd Destroyer Divisions of the [[Second Fleet]]. The full naval component comprised the Forrestal, guided-missile destroyers USS Leahy (DLG-16) and USS Barney (DDG-6), and destroyers USS Charles R. Ware (DD-865), USS Allen M. Sumner (DD-692), USS Harwood (DD-861), and USS William C. Lawe (DD-763). The USS Forrestal departed Hampton Roads on April 1, 1964, at 07:00, headed toward coordinates 17 degrees N, 60 degrees W.[^20]
 
-An Esso tanker bearing motor and aviation gasoline was also dispatched toward Santos. A CIA memorandum of conversation (April 1, 1964) records a White House meeting at which McNamara confirmed the naval task force had sailed and the ammunition airlift had been assembled in New Jersey with 16-hour deployment capability.[^21]
+An Esso tanker bearing motor and aviation gasoline was also dispatched toward Santos. A CIA memorandum of conversation (April 1, 1964) records a White House meeting at which McNamara confirmed the naval task force had sailed and the ammunition airlift had been assembled in [[New Jersey]] with 16-hour deployment capability.[^21]
 
 ### Outcome and Withdrawal
 
@@ -89,7 +89,7 @@ FRUS document 206 (April 2, 1964) records an NSC meeting summarizing the Brazil 
 
 The operation's cost of $2.3 million for the tanker component was never reimbursed. Dean Rusk, in a subsequent telegram to Gordon (April 3, 1964), noted that operational costs "might have to be reimbursed by Brazil, but this did not occur."[^24]
 
-Documents declassified beginning in the 1970s confirmed the task force's existence and its operational orders. The National Security Archive published the core documents as Electronic Briefing Book No. 118 ("Brazil Marks 40th Anniversary of Military Coup") in 2004, and Electronic Briefing Book No. 465 ("Brazil Marks 50th Anniversary of Military Coup") in 2014, providing the first systematic public access to the Kennedy-era planning record.[^25]
+Documents declassified beginning in the 1970s confirmed the task force's existence and its operational orders. The [[National Security Archive]] published the core documents as Electronic Briefing Book No. 118 ("Brazil Marks 40th Anniversary of Military Coup") in 2004, and Electronic Briefing Book No. 465 ("Brazil Marks 50th Anniversary of Military Coup") in 2014, providing the first systematic public access to the Kennedy-era planning record.[^25]
 
 ### Consequences
 

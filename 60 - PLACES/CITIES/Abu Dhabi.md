@@ -12,7 +12,7 @@ updated: 2026-05-17
 location: "Abu Dhabi, United Arab Emirates"
 ---
 
-Abu Dhabi is the capital of the United Arab Emirates (UAE) and the most populous emirate in the UAE federation, located on the Persian Gulf coast. Abu Dhabi's vast oil wealth, accumulated after significant oil discoveries in 1958, made Sheikh Zayed bin Sultan Al-Nahayan and the Abu Dhabi ruling family among the wealthiest in the world. This wealth, combined with the emirate's sovereign status and opaque regulatory environment, made Abu Dhabi's ruling family the ultimate financial backer and nominal owner of the [[Bank of Credit and Commerce International]] - the most significant factor in BCCI's ability to operate under regulatory cover for as long as it did.[^1]
+Abu Dhabi is the capital of the United Arab Emirates (UAE) and the most populous emirate in the UAE federation, located on the [[Persian Gulf]] coast. Abu Dhabi's vast oil wealth, accumulated after significant oil discoveries in 1958, made Sheikh Zayed bin Sultan Al-Nahayan and the Abu Dhabi ruling family among the wealthiest in the world. This wealth, combined with the emirate's sovereign status and opaque regulatory environment, made Abu Dhabi's ruling family the ultimate financial backer and nominal owner of the [[Bank of Credit and Commerce International]] - the most significant factor in BCCI's ability to operate under regulatory cover for as long as it did.[^1]
 
 ### BCCI and Sheikh Zayed
 

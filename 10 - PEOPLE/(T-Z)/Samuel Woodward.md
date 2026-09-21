@@ -20,7 +20,7 @@ summary: "Samuel Woodward was an Atomwaffen Division member who in January 2018 
 
 ### AWD Membership
 
-Woodward's Atomwaffen Division membership was established through multiple overlapping lines of evidence. [[ProPublica]] and [[PBS FRONTLINE]] obtained photographs of Woodward attending AWD training meetings in Texas, as well as encrypted chat logs in which he openly identified as a National Socialist. He had attended a three-day AWD "Hate Camp" near San Antonio involving firearms training, hand-to-hand combat, camping, and survival instruction. He operated under the AWD aliases "Saboteur" and "Arn." Prosecutors also cited his dropping out of [[California State University Channel Islands]] to travel to Texas for AWD training.
+Woodward's Atomwaffen Division membership was established through multiple overlapping lines of evidence. [[ProPublica]] and [[PBS FRONTLINE]] obtained photographs of Woodward attending AWD training meetings in Texas, as well as encrypted chat logs in which he openly identified as a National Socialist. He had attended a three-day AWD "Hate Camp" near [[San Antonio]] involving firearms training, hand-to-hand combat, camping, and survival instruction. He operated under the AWD aliases "Saboteur" and "Arn." Prosecutors also cited his dropping out of [[California State University Channel Islands]] to travel to Texas for AWD training.
 
 ### Murder
 

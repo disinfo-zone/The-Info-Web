@@ -27,7 +27,7 @@ The largest and best-equipped faction was the [[FDN|Fuerza Democrática Nicarag�
 
 ### Drug Trafficking
 
-The [[John Kerry|Kerry]] Committee investigation (1987-1988) by the Senate Foreign Relations Committee uncovered direct links between drug dealers and the Contras.[^1] Contra leaders acknowledged receiving drug profits with the apparent knowledge of the CIA. Drug dealers admitted under oath to giving money to the Contras and passed polygraph tests. Pilots admitted flying weapons south and cocaine and marijuana north, landing in at least one instance at [[Homestead Air Force Base|Homestead]] Air Force Base in [[Florida]].
+The [[John Kerry|Kerry]] Committee investigation (1987-1988) by the [[Senate Foreign Relations Committee]] uncovered direct links between drug dealers and the Contras.[^1] Contra leaders acknowledged receiving drug profits with the apparent knowledge of the CIA. Drug dealers admitted under oath to giving money to the Contras and passed polygraph tests. Pilots admitted flying weapons south and cocaine and marijuana north, landing in at least one instance at [[Homestead Air Force Base|Homestead]] Air Force Base in [[Florida]].
 
 [[Norwin Meneses]] worked for the Contras as a recruiter, arms supplier, and benefactor during the entire war.[^2] [[Danilo Blandon|Danilo Blandón]] sold cocaine in [[Los Angeles]] to raise funds for the Contras in the early 1980s and founded the FDN chapter in Los Angeles. Multiple Contra officials were identified by the [[Federal Bureau of Investigation]] as being involved in or connected to drug trafficking, including [[Aristides Sanchez|Aristides Sánchez]], [[Fernando Sanchez|Fernando Sánchez]], [[Renato Pena|Renato Peña]], [[Vicente Rappaccioli]], and [[Marcos Aguado]].
 

@@ -16,7 +16,7 @@ created: 2026-06-20
 updated: 2026-06-20
 ---
 
-The Californian Ideology is a 1995 essay by the British media theorists Richard Barbrook and Andy Cameron of the Hypermedia Research Centre at the University of Westminster in London, which diagnosed the worldview emerging from 1990s San Francisco Bay Area technology culture as a contradictory fusion of hippie counterculture and free-market neoliberalism held together by a faith in technological determinism. The authors described it as "a bizarre fusion of the cultural bohemianism of San Francisco with the hi-tech industries of Silicon Valley," and as "cybernetic libertarianism," a "mish-mash of hippie anarchism and economic liberalism beefed up with lots of technological determinism."[^1][^2]
+The Californian Ideology is a 1995 essay by the British media theorists Richard Barbrook and Andy Cameron of the Hypermedia Research Centre at the University of Westminster in London, which diagnosed the worldview emerging from 1990s San Francisco Bay Area technology culture as a contradictory fusion of hippie counterculture and free-market neoliberalism held together by a faith in technological determinism. The authors described it as "a bizarre fusion of the cultural bohemianism of San Francisco with the hi-tech industries of [[Silicon Valley]]," and as "cybernetic libertarianism," a "mish-mash of hippie anarchism and economic liberalism beefed up with lots of technological determinism."[^1][^2]
 
 ### The Essay and Its Argument
 

@@ -42,7 +42,7 @@ His major nonfiction work, *The Future of the Body: Explorations Into the Furthe
 
 In the 1970s Murphy became absorbed in Soviet parapsychology and traveled to the USSR to meet its experimenters in telepathy and related phenomena, contacts that opened an unusual channel between Esalen and Soviet officialdom. In 1980, with official Cold War relations stalled, Murphy, his wife Dulce Murphy, and Jim Hickman founded the Esalen Soviet-American Exchange Program, a "track-two" citizen-diplomacy effort that arranged exchanges of astronauts and cosmonauts, scientists, and writers and helped stage the first satellite "spacebridges" between Soviet and American citizens.[^6]
 
-The program invited Boris Yeltsin to make his first United States visit in September 1989, a tour that Yeltsin's biographers describe as sharpening his disillusionment with the Soviet system. Renamed Track Two: An Institute for Citizen Diplomacy in 2004, the program outlived the Cold War, and Esalen's accounts credit it with helping create the atmosphere in which glasnost and perestroika unfolded. Murphy continued to write and to lead the Center for Theory and Research into his nineties.[^6]
+The program invited [[Boris Yeltsin]] to make his first United States visit in September 1989, a tour that Yeltsin's biographers describe as sharpening his disillusionment with the Soviet system. Renamed Track Two: An Institute for Citizen Diplomacy in 2004, the program outlived the Cold War, and Esalen's accounts credit it with helping create the atmosphere in which glasnost and perestroika unfolded. Murphy continued to write and to lead the Center for Theory and Research into his nineties.[^6]
 
 ### Footnotes
 

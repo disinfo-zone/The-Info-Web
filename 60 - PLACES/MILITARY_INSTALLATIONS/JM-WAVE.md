@@ -31,7 +31,7 @@ The station was one component of a broader Miami-area anti-Castro infrastructure
 
 ### The Shackley Era
 
-[[Ted Shackley]], who later became one of the CIA's most consequential officers in Southeast Asia and Latin America, served as JM/WAVE chief from approximately 1962 to 1965. Shackley had previously worked under [[William Harvey]] in [[Berlin]] and was assigned to Miami when Harvey took command of [[Operation Mongoose]] operational planning. When Harvey was removed from operational control of Cuba operations in late 1962, Shackley continued as station chief through the period of Mongoose's wind-down and the subsequent reduced covert operations period.
+[[Ted Shackley]], who later became one of the CIA's most consequential officers in Southeast Asia and [[Latin America]], served as JM/WAVE chief from approximately 1962 to 1965. Shackley had previously worked under [[William Harvey]] in [[Berlin]] and was assigned to Miami when Harvey took command of [[Operation Mongoose]] operational planning. When Harvey was removed from operational control of Cuba operations in late 1962, Shackley continued as station chief through the period of Mongoose's wind-down and the subsequent reduced covert operations period.
 
 Under Shackley, JM/WAVE operated extensive maritime raiding teams (the "cowboys," as station personnel called them) that conducted boat raids against Cuban coastal targets, intelligence collection missions along the Cuban coast, and infiltration/exfiltration operations for agents inside Cuba. The station also coordinated with the large and fractious Cuban exile community in Miami, attempting to channel exile groups' energy into CIA-directed operations while managing the political conflicts among exile factions.[^1]
 

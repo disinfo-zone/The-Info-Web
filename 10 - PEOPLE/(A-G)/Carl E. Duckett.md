@@ -15,7 +15,7 @@ Carl E. Duckett was an American intelligence official who headed the [[Central I
 
 ### Nuclear Intelligence Operations
 
-Duckett became the recipient of intelligence on [[Israel]]'s nuclear program, which was routed to his office from sources like [[Lawrence Livermore National Laboratory]] and [[Los Alamos]] through the [[Central Intelligence Agency|CIA]]'s Office of Science and Technology. His work centered on assessing [[Israel]]'s nuclear capabilities and the potential for nuclear proliferation in the Middle East.[^1]
+Duckett became the recipient of intelligence on [[Israel]]'s nuclear program, which was routed to his office from sources like [[Lawrence Livermore National Laboratory]] and [[Los Alamos]] through the [[Central Intelligence Agency|CIA]]'s Office of Science and Technology. His work centered on assessing [[Israel]]'s nuclear capabilities and the potential for nuclear proliferation in the [[Middle East]].[^1]
 
 ### Israeli Nuclear Estimates
 

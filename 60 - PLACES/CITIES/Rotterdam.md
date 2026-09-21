@@ -12,7 +12,7 @@ updated: 2026-05-17
 location: "Rotterdam, Netherlands"
 ---
 
-Rotterdam is the second-largest city in the [[Netherlands]] with a population of approximately 650,000 (greater metropolitan area approximately 1.1 million), located at the mouth of the Rhine-Meuse-Scheldt river delta on the North Sea coast. The Port of Rotterdam is the largest port in Europe and among the largest in the world by tonnage, handling approximately 450 million tonnes of cargo annually and serving as the primary entry point for goods distributed throughout northwestern Europe. Rotterdam was largely destroyed in the German bombing of May 14, 1940 and subsequently rebuilt in a modernist architectural style unique in the Netherlands.[^1]
+Rotterdam is the second-largest city in the [[Netherlands]] with a population of approximately 650,000 (greater metropolitan area approximately 1.1 million), located at the mouth of the Rhine-Meuse-Scheldt river delta on the [[North Sea]] coast. The Port of Rotterdam is the largest port in Europe and among the largest in the world by tonnage, handling approximately 450 million tonnes of cargo annually and serving as the primary entry point for goods distributed throughout northwestern Europe. Rotterdam was largely destroyed in the German bombing of May 14, 1940 and subsequently rebuilt in a modernist architectural style unique in the Netherlands.[^1]
 
 ### Port as Transit Node
 

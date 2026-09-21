@@ -24,7 +24,7 @@ summary: 764 Inferno is the elite inner cell of the 764 network operating a Lore
 
 The network's exploitation model follows a documented escalation sequence: victims are initially recruited through social engineering into producing intimate photographs, then blackmailed with those images into producing self-harm footage (cut signs), then into more severe self-harm footage (blood signs), and in the most extreme documented cases, coerced toward suicidal acts. The footage produced at each stage becomes Lorebook material that the producing member uses to build their Inferno standing.[^2]
 
-Inferno operated across multiple platforms including [[Discord]], [[Telegram]], and encrypted messaging applications. Varagiannis and Nepal coordinated Inferno's activities from the United States (DC area and North Carolina respectively) with co-conspirators and victims internationally. The April 2025 indictment documented at least eight minor victims, some as young as 13 years old.[^1]
+Inferno operated across multiple platforms including [[Discord]], [[Telegram]], and encrypted messaging applications. Varagiannis and Nepal coordinated Inferno's activities from the United States (DC area and [[North Carolina]] respectively) with co-conspirators and victims internationally. The April 2025 indictment documented at least eight minor victims, some as young as 13 years old.[^1]
 
 ### April 2025 Arrests
 

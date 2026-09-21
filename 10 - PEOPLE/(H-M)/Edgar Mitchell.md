@@ -18,7 +18,7 @@ He also funded [[Andrija Puharich]]'s efforts to bring Geller to the United Stat
 
 ### Advocacy for UAP Disclosure
 
-Dr. Mitchell's interest in the [[Unidentified Anomalous Phenomena|UAP]] topic stemmed from his childhood growing up in the Roswell, New Mexico, area. He claimed that his family was among those who were threatened by the FBI after the [[Roswell Incident]] in 1947, and that this experience convinced him that the government was covering up the truth about UAP. As an astronaut, he became a prominent and credible voice in the UAP disclosure movement, using his platform to call for greater transparency from the government.[^2]
+Dr. Mitchell's interest in the [[Unidentified Anomalous Phenomena|UAP]] topic stemmed from his childhood growing up in the Roswell, [[New Mexico]], area. He claimed that his family was among those who were threatened by the FBI after the [[Roswell Incident]] in 1947, and that this experience convinced him that the government was covering up the truth about UAP. As an astronaut, he became a prominent and credible voice in the UAP disclosure movement, using his platform to call for greater transparency from the government.[^2]
 
 Dr. Mitchell was a close friend and confidant of [[Hal Puthoff]] and [[Eric Davis]]. They gave him a copy of the [[Wilson-Davis Memo]], a document that detailed a conversation with Vice Admiral Thomas R. Wilson about a secret UAP reverse-engineering program. After Dr. Mitchell's death, the memo was discovered in his files and was leaked to the public. The leak of this document has been a significant event in the UAP disclosure movement, providing a detailed account of the alleged "Legacy Program."[^2]
 

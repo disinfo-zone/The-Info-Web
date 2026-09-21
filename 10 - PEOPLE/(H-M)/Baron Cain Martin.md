@@ -87,7 +87,7 @@ The 2339A/956 theory was not applied in earlier 764 prosecutions for a structura
 
 The Martin indictment is the first case where DOJ identified a specific overseas victim who was directed to commit lethal self-harm, providing the 956(a) predicate anchor that makes 2339A available without any FTO designation. The Baumgartner/Jonas analysis frames this as DOJ using 2339A as "connective tissue linking online radicalization to real-world harm" and as a signal that the government now views NVE networks as terrorist enterprises rather than merely criminal exploitation schemes.[^6]
 
-An additional factor is the explicit accelerationist ideology element. The Chavez prosecution (San Antonio, RICO guilty plea December 2025) and the Varagiannis/Nepal prosecution both used NVE framing in press releases but charged under RICO and child exploitation statutes. Martin's case is distinguished by the combination of: (1) a specifically identified overseas victim, (2) documented ideological goal statements from Martin himself about societal destabilization, and (3) the existence of the grooming guide as a distributable "expert advice" artifact.
+An additional factor is the explicit accelerationist ideology element. The Chavez prosecution ([[San Antonio]], RICO guilty plea December 2025) and the Varagiannis/Nepal prosecution both used NVE framing in press releases but charged under RICO and child exploitation statutes. Martin's case is distinguished by the combination of: (1) a specifically identified overseas victim, (2) documented ideological goal statements from Martin himself about societal destabilization, and (3) the existence of the grooming guide as a distributable "expert advice" artifact.
 
 ### Murder-for-Hire Allegation
 

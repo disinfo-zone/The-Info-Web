@@ -16,7 +16,7 @@ summary: "Standard Oil was the John D. Rockefeller oil monopoly broken up in 191
 start: 1870
 location: "United States"
 ---
-Standard Oil was the petroleum monopoly founded in 1870 by [[John D. Rockefeller]] that controlled roughly ninety percent of American oil refining before the U.S. Supreme Court ordered its dissolution in 1911 under the [[Sherman Antitrust Act]]. The breakup created successor companies, including Standard Oil of New Jersey (later Exxon), Standard Oil of New York (Mobil), and Standard Oil of California (Chevron), whose combined assets preserved the [[Rockefeller Foundation|Rockefeller]] family's financial power.[^1]
+Standard Oil was the petroleum monopoly founded in 1870 by [[John D. Rockefeller]] that controlled roughly ninety percent of American oil refining before the U.S. Supreme Court ordered its dissolution in 1911 under the [[Sherman Antitrust Act]]. The breakup created successor companies, including Standard Oil of [[New Jersey]] (later Exxon), Standard Oil of New York (Mobil), and Standard Oil of California (Chevron), whose combined assets preserved the [[Rockefeller Foundation|Rockefeller]] family's financial power.[^1]
 
 ### Latin America and the Rockefeller Network
 

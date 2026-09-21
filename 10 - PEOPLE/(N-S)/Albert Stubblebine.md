@@ -51,7 +51,7 @@ After retirement, Stubblebine became involved in alternative health movements an
 
 He was prominently featured in Jon Ronson's *The Men Who Stare at Goats* (2004) and the 2009 film adaptation, which used him and the Grill Flame culture as the central subjects of its examination of psychic warfare research within the U.S. military.
 
-Stubblebine died February 6, 2017 - his 87th birthday - at his home in New Mexico.
+Stubblebine died February 6, 2017 - his 87th birthday - at his home in [[New Mexico]].
 
 ### Footnotes
 

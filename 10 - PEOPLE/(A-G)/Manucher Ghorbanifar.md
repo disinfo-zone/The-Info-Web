@@ -36,7 +36,7 @@ The letter was signed in May 1985, just months before Ghorbanifar was introduced
 
 ### Post-Iran-Contra Activity
 
-In the early 2000s, Ghorbanifar resurfaced as a source for claims about alleged Iraqi connections to al-Qaeda and about Iranian internal politics. The Office of the Vice President under Dick Cheney reportedly showed interest in his claims. The CIA, citing his established record as a fabricator, consistently objected to any operational engagement with him. Two meetings between Ghorbanifar and Pentagon officials in Rome and Paris in 2001 and 2003 were later investigated by the Senate Intelligence Committee as potentially unauthorized intelligence activities bypassing normal CIA channels.[^2]
+In the early 2000s, Ghorbanifar resurfaced as a source for claims about alleged Iraqi connections to al-Qaeda and about Iranian internal politics. The Office of the Vice President under [[Dick Cheney]] reportedly showed interest in his claims. The CIA, citing his established record as a fabricator, consistently objected to any operational engagement with him. Two meetings between Ghorbanifar and Pentagon officials in Rome and Paris in 2001 and 2003 were later investigated by the Senate Intelligence Committee as potentially unauthorized intelligence activities bypassing normal CIA channels.[^2]
 
 ### Footnotes
 

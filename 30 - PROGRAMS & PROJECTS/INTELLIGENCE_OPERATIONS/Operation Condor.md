@@ -21,7 +21,7 @@ start: 1975-11-01
 location: "Santiago, Chile / Buenos Aires, Argentina"
 ---
 
-Operation Condor (Spanish: Operacion Condor) was a clandestine program of political repression and intelligence cooperation established in November 1975 among the military intelligence services of six South American nations: [[Chile]] (led by [[Augusto Pinochet]]'s DINA), [[Argentina]], [[Uruguay]], [[Bolivia]], [[Paraguay]], and [[Brazil]]. The program was facilitated by the [[Central Intelligence Agency]], which provided communications infrastructure, training, and operational support. Condor coordinated the identification, tracking, interrogation, and assassination of left-wing political opponents - including those who had fled across borders seeking refuge - resulting in an estimated 60,000 deaths across the participant countries.[^1]
+Operation Condor (Spanish: Operacion Condor) was a clandestine program of political repression and intelligence cooperation established in November 1975 among the military intelligence services of six South American nations: [[Chile]] (led by [[Augusto Pinochet]]'s [[DINA]]), [[Argentina]], [[Uruguay]], [[Bolivia]], [[Paraguay]], and [[Brazil]]. The program was facilitated by the [[Central Intelligence Agency]], which provided communications infrastructure, training, and operational support. Condor coordinated the identification, tracking, interrogation, and assassination of left-wing political opponents - including those who had fled across borders seeking refuge - resulting in an estimated 60,000 deaths across the participant countries.[^1]
 
 ### Founding and Structure
 
@@ -35,14 +35,14 @@ The communications network (called Condortel) was established through a secure t
 
 ### CIA Support
 
-The CIA's material support for Condor is documented through declassified State Department and CIA documents, the findings of the Church Committee (1975-1976), and the subsequent Hinchey Report (2000). CIA officer Michael Townley, stationed in Chile, was a DINA operative who participated in multiple Condor assassinations, including the 1976 car bombing in [[Washington, D.C.]] of former Chilean diplomat [[Orlando Letelier]] and his American colleague Ronni Moffitt - carried out by DINA with Townley's direct participation on American soil. Townley pleaded guilty in the United States and served time before being placed in witness protection.[^1]
+The CIA's material support for Condor is documented through declassified State Department and CIA documents, the findings of the Church Committee (1975-1976), and the subsequent Hinchey Report (2000). CIA officer [[Michael Townley]], stationed in Chile, was a DINA operative who participated in multiple Condor assassinations, including the 1976 car bombing in [[Washington, D.C.]] of former Chilean diplomat [[Orlando Letelier]] and his American colleague [[Ronni Moffitt]] - carried out by DINA with Townley's direct participation on American soil. Townley pleaded guilty in the United States and served time before being placed in witness protection.[^1]
 
 Secretary of State [[Henry Kissinger]]'s awareness of and attitude toward Condor is documented in declassified State Department cables. In June 1976, Kissinger had his assistant send a cable to U.S. ambassadors in Condor countries warning of negative publicity if Condor's Phase III European operations became public - a cable that critics interpreted as more concerned with managing exposure than halting the assassinations.[^2]
 
 ### Major Operations
 
 Documented Condor operations include:
-- September 30, 1974: Car bombing of exiled Chilean Army General Carlos Prats and his wife in [[Buenos Aires]] (Argentina)
+- September 30, 1974: Car bombing of exiled Chilean Army General [[Carlos Prats]] and his wife in [[Buenos Aires]] (Argentina)
 - September 21, 1976: Car bombing of Orlando Letelier in Washington, D.C. ([[United States]])
 - October 1975: Assassination of Uruguayan former legislators Zelmar Michelini and Hector Gutierrez Ruiz in Buenos Aires
 - Multiple kidnappings of opponents across Condor member states

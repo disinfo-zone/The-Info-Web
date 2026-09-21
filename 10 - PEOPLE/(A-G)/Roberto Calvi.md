@@ -26,7 +26,7 @@ Roberto Calvi was born on April 13, 1920, in Milan. He joined Banco Ambrosiano -
 
 ### Rise at Banco Ambrosiano
 
-Calvi's career at Banco Ambrosiano tracked the institution's transformation from a provincial Catholic bank into one of Italy's largest private financial institutions with extensive international operations. By the time he became chairman, Banco Ambrosiano had subsidiaries and affiliates across Latin America and Europe, and its connections to the [[Vatican Bank|Instituto per le Opere di Religione (IOR)]] - the Vatican's financial institution - made it uniquely positioned to move money through channels outside normal Italian regulatory oversight.
+Calvi's career at Banco Ambrosiano tracked the institution's transformation from a provincial Catholic bank into one of Italy's largest private financial institutions with extensive international operations. By the time he became chairman, Banco Ambrosiano had subsidiaries and affiliates across [[Latin America]] and Europe, and its connections to the [[Vatican Bank|Instituto per le Opere di Religione (IOR)]] - the Vatican's financial institution - made it uniquely positioned to move money through channels outside normal Italian regulatory oversight.
 
 Calvi was a member of [[Propaganda Due|P2]], the clandestine Masonic lodge headed by [[Licio Gelli]], whose membership provided him with both protection from Italian judicial scrutiny and connections throughout the Italian security, political, and business establishment. His membership number on the P2 list discovered in 1981 was 1636.[^1]
 

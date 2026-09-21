@@ -37,7 +37,7 @@ Allison's documented video production for Terrorgram channels comprised approxim
 
 "White Terror" (approximately 24 minutes): a quasi-documentary celebrating 105 individuals who had committed far-right terrorism, presenting them as a coherent tradition of resistance and providing narration, graphics, and archival material designed to frame their violence as heroic.[^2]
 
-Allison also produced a 51-second clip providing specific guidance on disabling electrical transmission lines, which was identified by prosecutors as a direct vector for infrastructure radicalization. [[Andrew Takhistov]] (East Brunswick, New Jersey), charged in July 2024 with soliciting the destruction of [[PSE&G]] substations, was documented as having watched Allison's electrical line sabotage video before planning his own attack.[^2]
+Allison also produced a 51-second clip providing specific guidance on disabling electrical transmission lines, which was identified by prosecutors as a direct vector for infrastructure radicalization. [[Andrew Takhistov]] (East Brunswick, [[New Jersey]]), charged in July 2024 with soliciting the destruction of [[PSE&G]] substations, was documented as having watched Allison's electrical line sabotage video before planning his own attack.[^2]
 
 He distributed "trading card"-format hit lists featuring targets' home addresses and photographs of their residences, a production format shared with [[Noah Lamb]]'s "The List" work and the broader [[Saints Culture]] framework. He also distributed guides for producing napalm, thermite, chlorine gas, pipe bombs, and dirty bombs through the Terrorgram channel network.[^2]
 

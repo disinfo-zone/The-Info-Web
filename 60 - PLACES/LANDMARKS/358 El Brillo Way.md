@@ -13,7 +13,7 @@ The house at 358 El Brillo Way was a waterfront mansion in the Town of Palm Beac
 
 Epstein purchased 358 El Brillo Way in 1990 for about 2.5 million dollars.[^2] The roughly 14,000-square-foot, six-bedroom house sat on about eight-tenths of an acre fronting the Intracoastal Waterway and had been designed by the Palm Beach architect [[John Volk]].[^2] The previous long-term owner had been Owen Ray Skelton, a founder and chief engineer of Chrysler, who held the property until his death in 1969.[^3]
 
-The house became Epstein's Florida residence, and he traveled frequently between it, the [[9 East 71st Street]] townhouse in Manhattan, his New Mexico ranch and his U.S. Virgin Islands island.[^1] Staff at the Palm Beach house arranged appointments described as massages, and visitors were directed to an upstairs room set up with a massage table.[^4]
+The house became Epstein's Florida residence, and he traveled frequently between it, the [[9 East 71st Street]] townhouse in Manhattan, his [[New Mexico]] ranch and his U.S. Virgin Islands island.[^1] Staff at the Palm Beach house arranged appointments described as massages, and visitors were directed to an upstairs room set up with a massage table.[^4]
 
 The waterfront location placed the house a short distance from other prominent Palm Beach estates, and Epstein maintained it as a household with domestic and scheduling staff whose later statements and records became evidence in the police investigation.[^4]
 

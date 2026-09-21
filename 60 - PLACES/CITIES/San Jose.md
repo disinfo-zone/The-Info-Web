@@ -10,7 +10,7 @@ San Jose, [[California]] was the home of the [[San Jose Mercury News]], which pu
 
 ### Cocaine Distribution
 
-[[Danilo Blandon|Danilo Blandón]]'s Contra-connected cocaine network distributed drugs in San Jose in addition to [[Los Angeles]] and [[San Francisco]]. Gary Webb wrote that the fact a government-connected drug ring was dumping tons of cocaine into black neighborhoods in L.A., "and to a lesser extent in San Jose, Oakland, San Francisco, Portland, Houston, Oklahoma City, Alabama and [[New Orleans]]," explained why crack developed such deep roots in the black community. "It's where the seed was planted."[^2]
+[[Danilo Blandon|Danilo Blandón]]'s Contra-connected cocaine network distributed drugs in San Jose in addition to [[Los Angeles]] and [[San Francisco]]. Gary Webb wrote that the fact a government-connected drug ring was dumping tons of cocaine into black neighborhoods in L.A., "and to a lesser extent in San Jose, Oakland, San Francisco, Portland, Houston, [[Oklahoma City]], Alabama and [[New Orleans]]," explained why crack developed such deep roots in the black community. "It's where the seed was planted."[^2]
 
 ### Dark Alliance Publication
 

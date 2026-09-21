@@ -9,7 +9,7 @@ New York City was where major media outlets either ignored or attacked the [[Dar
 
 ### Media Center
 
-The New York Times, along with the [[Washington Post]] and [[Los Angeles Times]], initially dismissed claims of Contra drug trafficking during the 1980s, then attacked the Dark Alliance series in 1996. When Mercury News editor [[Jerry Ceppos]] issued his apology in 1997, the New York Times splashed it on the front page. The paper's July 17, 1998 report confirming the CIA's relationships with dozens of suspected drug traffickers during the Contra war was a notable exception to the establishment media's continued silence.[^2]
+[[The New York Times]], along with the [[Washington Post]] and [[Los Angeles Times]], initially dismissed claims of Contra drug trafficking during the 1980s, then attacked the Dark Alliance series in 1996. When Mercury News editor [[Jerry Ceppos]] issued his apology in 1997, the New York Times splashed it on the front page. The paper's July 17, 1998 report confirming the CIA's relationships with dozens of suspected drug traffickers during the Contra war was a notable exception to the establishment media's continued silence.[^2]
 
 ### Footnotes
 

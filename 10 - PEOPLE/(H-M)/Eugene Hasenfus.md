@@ -12,7 +12,7 @@ summary: "Former Air America cargo handler who survived the shootdown of a CIA-c
 born: 1941-01-22
 location: "Marinette, Wisconsin"
 ---
-Eugene Hasenfus was a former [[Central Intelligence Agency]] [[Air America]] cargo handler who survived the shootdown of a Contra supply plane over [[Nicaragua]] on October 5, 1986, becoming living proof that the CIA and White House had been lying about U.S. involvement with the [[Contras]].[^1]
+Eugene Hasenfus was a former [[Central Intelligence Agency]] [[Air America]] cargo handler who survived the shootdown of a Contra supply plane over [[Nicaragua]] on October 5, 1986, becoming living proof that the CIA and [[White House]] had been lying about U.S. involvement with the [[Contras]].[^1]
 
 ### The Shootdown
 

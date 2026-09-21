@@ -16,7 +16,7 @@ start: 1941-12-06
 end: 1945-12-31
 ---
 
-Camp X - formally designated Special Training School 103 (STS 103) and sometimes referred to as Intrepid's Park - was established by [[British Security Coordination]] (BSC) on a 275-acre farm on the north shore of Lake Ontario between Whitby and Oshawa, Ontario, Canada, approximately 30 miles east of Toronto. The facility opened on December 6, 1941, one day before the Japanese attack on Pearl Harbor brought the United States into the war. It was the first Allied clandestine training facility in North America, and the only Special Operations Executive (SOE) school located in the Western Hemisphere.[^1]
+Camp X - formally designated Special Training School 103 (STS 103) and sometimes referred to as Intrepid's Park - was established by [[British Security Coordination]] (BSC) on a 275-acre farm on the north shore of Lake Ontario between Whitby and Oshawa, Ontario, Canada, approximately 30 miles east of Toronto. The facility opened on December 6, 1941, one day before the Japanese attack on [[Pearl Harbor]] brought the United States into the war. It was the first Allied clandestine training facility in North America, and the only Special Operations Executive (SOE) school located in the Western Hemisphere.[^1]
 
 ### Establishment and Command
 

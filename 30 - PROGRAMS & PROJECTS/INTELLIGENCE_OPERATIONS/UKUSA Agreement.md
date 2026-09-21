@@ -13,7 +13,7 @@ created: 2026-05-14
 updated: 2026-05-17
 ---
 
-The UKUSA Agreement (United Kingdom-United States of America Agreement) is a multilateral signals intelligence (SIGINT) treaty initially signed in 1946 between the United States and the United Kingdom, subsequently expanded to include [[Canada]] (1948), [[Australia]] (1956), and New Zealand. The five signatories - known as the [[Five Eyes]] alliance - agreed to share all signals intelligence collection, analysis methods, and relevant technology. The agreement is the foundational document of the world's most extensive intelligence-sharing arrangement and underpins the [[ECHELON]] global surveillance network.[^1]
+The UKUSA Agreement (United Kingdom-United States of America Agreement) is a multilateral signals intelligence (SIGINT) treaty initially signed in 1946 between the United States and the United Kingdom, subsequently expanded to include [[Canada]] (1948), [[Australia]] (1956), and [[New Zealand]]. The five signatories - known as the [[Five Eyes]] alliance - agreed to share all signals intelligence collection, analysis methods, and relevant technology. The agreement is the foundational document of the world's most extensive intelligence-sharing arrangement and underpins the [[ECHELON]] global surveillance network.[^1]
 
 ### Origins
 

@@ -20,7 +20,7 @@ summary: "Collin John Thomas Walker, alias 'Wrath' and 'O9A.WRATH', was a CVLT c
 
 ### Federal Case (United States v. Rane, 2:25-cr-00040)
 
-The grand jury returned the indictment on January 17, 2025 in the [[Central District of California]]. When the indictment was unsealed in early February 2025, Walker was physically arrested in New Jersey by [[Homeland Security Investigations]] Cherry Hill. He appeared in federal court, was assigned counsel, and was remanded to U.S. Marshals custody for transport to Los Angeles.[^2]
+The grand jury returned the indictment on January 17, 2025 in the [[Central District of California]]. When the indictment was unsealed in early February 2025, Walker was physically arrested in [[New Jersey]] by [[Homeland Security Investigations]] Cherry Hill. He appeared in federal court, was assigned counsel, and was remanded to U.S. Marshals custody for transport to Los Angeles.[^2]
 
 Walker faced one count of engaging in a child exploitation enterprise under [[18 U.S.C. § 2252A(g)]]. He was identified as one of three co-leaders alongside [[Rohan Rane]] and [[Kaleb Merritt]] who hosted and ran CVLT servers and controlled membership and access. [[Clint Borge]] was charged as a member; the distinction reflects different levels of administrative control within the enterprise as DOJ characterized it.[^2]
 

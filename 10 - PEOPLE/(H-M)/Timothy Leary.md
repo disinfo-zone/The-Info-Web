@@ -45,7 +45,7 @@ The experiment became one of the most cited studies in the psychology of religio
 
 ### The Harvard Firing
 
-Tension with Harvard administrators escalated through 1962, triggered in part by a sensationalized *Harvard Crimson* account of a faculty meeting that prompted a Food and Drug Administration investigation. On May 6, 1963, the Harvard Corporation voted to relieve Leary of his teaching duties and terminate his salary on the grounds that he had failed to keep classroom appointments. Alpert was separately dismissed on May 27, 1963, for giving psilocybin to an undergraduate in an off-campus apartment, making the two the first Harvard faculty fired in the twentieth century for such reasons. By then federal regulators were tightening control of the drugs, and Leary's work moved outside the university entirely.[^1][^4][^11]
+Tension with Harvard administrators escalated through 1962, triggered in part by a sensationalized *Harvard Crimson* account of a faculty meeting that prompted a [[Food and Drug Administration]] investigation. On May 6, 1963, the Harvard Corporation voted to relieve Leary of his teaching duties and terminate his salary on the grounds that he had failed to keep classroom appointments. Alpert was separately dismissed on May 27, 1963, for giving psilocybin to an undergraduate in an off-campus apartment, making the two the first Harvard faculty fired in the twentieth century for such reasons. By then federal regulators were tightening control of the drugs, and Leary's work moved outside the university entirely.[^1][^4][^11]
 
 ### IFIF, Millbrook, and the League for Spiritual Discovery
 

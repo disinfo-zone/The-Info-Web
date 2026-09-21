@@ -35,7 +35,7 @@ Philby's assignment was long-term penetration of the British intelligence and fo
 
 ### MI6 Career
 
-Philby joined MI6 (the Secret Intelligence Service) in 1940, recruited partly through personal connections. He rose with unusual speed: by 1941 he headed Section V (counterintelligence), and by 1944 he had been appointed head of the newly created Section IX, tasked specifically with anti-Soviet operations. This position gave him visibility into MI6's entire intelligence collection effort against the USSR and its assets in Eastern Europe.
+Philby joined MI6 (the [[Secret Intelligence Service]]) in 1940, recruited partly through personal connections. He rose with unusual speed: by 1941 he headed Section V (counterintelligence), and by 1944 he had been appointed head of the newly created Section IX, tasked specifically with anti-Soviet operations. This position gave him visibility into MI6's entire intelligence collection effort against the USSR and its assets in Eastern Europe.
 
 The damage Philby inflicted from this position was systematic. He reported to his KGB handlers the identities of MI6 agents and networks, the methods and communications infrastructure MI6 used for Soviet-related operations, assessments of Soviet capabilities and MI6's knowledge of them, and plans for post-war operations against Soviet influence.[^1]
 

@@ -21,7 +21,7 @@ end: 1980-06-01
 location: "Sydney, Australia"
 ---
 
-Nugan Hand Bank was an Australian merchant bank founded in Sydney in 1973 by [[Michael Hand]], an American Green Beret and Vietnam veteran, and Frank Nugan, an Australian lawyer. It operated internationally for seven years before collapsing in 1980 following Nugan’s death and Hand’s disappearance, leaving approximately $50 million in debts. Australian government investigations and journalist [[Jonathan Kwitny]]’s *The Crimes of Patriots* (W.W. Norton, 1987) documented the bank’s alleged function as a conduit for CIA financial operations, drug money laundering, and covert military funding across Southeast Asia, the Middle East, and the Pacific.[^1]
+Nugan Hand Bank was an Australian merchant bank founded in Sydney in 1973 by [[Michael Hand]], an American Green Beret and Vietnam veteran, and Frank Nugan, an Australian lawyer. It operated internationally for seven years before collapsing in 1980 following Nugan’s death and Hand’s disappearance, leaving approximately $50 million in debts. Australian government investigations and journalist [[Jonathan Kwitny]]’s *The Crimes of Patriots* (W.W. Norton, 1987) documented the bank’s alleged function as a conduit for CIA financial operations, drug money laundering, and covert military funding across Southeast Asia, the [[Middle East]], and the Pacific.[^1]
 
 ### Founders
 
@@ -35,7 +35,7 @@ What distinguished Nugan Hand from conventional offshore banks was the compositi
 
 - Admiral Earl "Rex" Yates (former Commander in Chief, Pacific Fleet), president of Nugan Hand’s Hawaii office and later the bank itself
 - General Edwin "Ed" Black, a veteran of Army intelligence and later a government representative in Thailand, who ran the bank’s Bangkok branch
-- General Earle Cocke Jr., a former president of the American Legion and Korean War veteran, who handled the bank’s Washington connections
+- General Earle Cocke Jr., a former president of the [[American Legion]] and Korean War veteran, who handled the bank’s Washington connections
 - Walter McDonald, a former CIA Deputy Director for Economic Research, who served as a consultant
 - Dale Holmgren, a former CIA officer and Air America pilot, who managed the Taiwan office
 - William Colby, former Director of the CIA (1973-1976), who served in a legal advisory capacity[^1]
@@ -46,7 +46,7 @@ The presence of senior American military and intelligence officials in bank posi
 
 Australian government investigators and Kwitny’s reporting identified several categories of Nugan Hand’s activities:
 
-The bank operated branches in thirteen countries including Australia, Hong Kong, Taiwan, the Philippines, Thailand, Singapore, the United States (Hawaii and Washington), Saudi Arabia, the Cayman Islands, and Bermuda. Its offshore structure was designed to obscure the origins and movement of funds across jurisdictions with limited regulatory cooperation.[^1]
+The bank operated branches in thirteen countries including Australia, [[Hong Kong]], Taiwan, the Philippines, Thailand, Singapore, the United States (Hawaii and Washington), Saudi Arabia, the Cayman Islands, and Bermuda. Its offshore structure was designed to obscure the origins and movement of funds across jurisdictions with limited regulatory cooperation.[^1]
 
 The bank was alleged to have laundered proceeds from [[Golden Triangle]] opium and heroin trafficking through its Southeast Asian branches, particularly in Thailand and Hong Kong. The connection between CIA-linked operations in the Golden Triangle region, Air America’s acknowledged transport activities, and the bank’s financial flows was documented but not legally established in terms of criminal liability.[^1]
 

@@ -32,7 +32,7 @@ The composition of the commission drew criticism for the conflicts of interest a
 
 [[John T. Connor]]: Director of [[David Rockefeller]]'s [[Chase Manhattan Bank]], former commerce secretary in the Johnson administration, and chairman of [[Allied Chemical]], in which the Rockefellers held $52 million in stock.[^9]
 
-[[Erwin Griswold]]: Former [[Harvard Law School]] dean who, as Johnson-appointed U.S. solicitor general, had argued against the New York Times publishing the [[Pentagon Papers]] and had argued that Army surveillance of Vietnam War protestors did not violate First Amendment rights. The White House later suppressed a footnote Griswold had written in the commission's final report recommending public disclosure of the CIA's budget.[^10]
+[[Erwin Griswold]]: Former [[Harvard Law School]] dean who, as Johnson-appointed U.S. solicitor general, had argued against the New York Times publishing the [[Pentagon Papers]] and had argued that Army surveillance of Vietnam War protestors did not violate First Amendment rights. The [[White House]] later suppressed a footnote Griswold had written in the commission's final report recommending public disclosure of the CIA's budget.[^10]
 
 [[Ronald Reagan]]: Former actor and California governor. Reagan attended only eleven of the commission's 26 sessions, which irritated Rockefeller, who as a liberal Republican regarded Reagan as a political rival. Rockefeller's counsel [[Peter Wallison]] later said Rockefeller considered Reagan "a lightweight who was not taking his responsibilities seriously."[^11]
 
@@ -58,7 +58,7 @@ The White House removed the entire 86-page section before publication. [[Richard
 
 On October 31, 1975, Ford wrote to [[Frank Church]] urging him to suppress the Church Committee's parallel assassination report. On November 4, 1975, Church rejected Ford's request. The Senate voted to release the Church Committee's "Alleged Assassination Plots Involving Foreign Leaders" report on November 20, 1975, revealing publicly what the Rockefeller Commission had withheld.[^18]
 
-The commission had also encountered obstruction in its attempts to investigate CIA records. CIA denied commission staff access to NSC records. [[Henry Kissinger]] withheld State Department cooperation. The commission was denied access to minutes of the 40 Committee and its predecessor bodies, meaning it could not document the full chain of authorization for covert operations.[^19]
+The commission had also encountered obstruction in its attempts to investigate CIA records. CIA denied commission staff access to NSC records. [[Henry Kissinger]] withheld State Department cooperation. The commission was denied access to minutes of the [[40 Committee]] and its predecessor bodies, meaning it could not document the full chain of authorization for covert operations.[^19]
 
 ### Rockefeller's Position
 
@@ -68,7 +68,7 @@ Nelson Rockefeller had been CIA Director Allen Dulles's point of contact in the 
 
 The commission's final report, submitted to President Ford on June 10, 1975, comprised four main parts with 19 chapters plus seven appendices. The chapters covered CIA legal authority, supervision and control mechanisms, mail intercept programs, Operation CHAOS, domestic surveillance of political activists, CIA files on American citizens, and an examination of allegations regarding the assassination of President Kennedy (where the commission upheld the Warren Commission's single-assassin finding). The report contained 27 recommendations, of which 20 were agency-level reforms recommended for immediate implementation and 7 addressed CIA structure, function, and presidential oversight.[^21]
 
-The Ford administration's response to the report was coordinated by a memorandum dated August 9, 1975, from Kissinger, White House counsel [[Philip Buchen]], and Office of Management and Budget director [[James Lynn]], which argued for prompt action on the domestic-improprieties recommendations while deferring broader intelligence restructuring questions, explicitly noting that congressional committees were simultaneously investigating related matters and that delay risked losing "the initiative entirely."[^22]
+The Ford administration's response to the report was coordinated by a memorandum dated August 9, 1975, from Kissinger, White House counsel [[Philip Buchen]], and [[Office of Management and Budget]] director [[James Lynn]], which argued for prompt action on the domestic-improprieties recommendations while deferring broader intelligence restructuring questions, explicitly noting that congressional committees were simultaneously investigating related matters and that delay risked losing "the initiative entirely."[^22]
 
 The commission's records, totaling approximately 41 cubic feet (82,000 pages), are held at the [[Gerald R. Ford Presidential Library]] in Ann Arbor, Michigan. Materials related to Kennedy assassination allegations and anti-Castro activities from 1960 to 1964 were processed for research access following the [[JFK Records Act]]; significant portions of the collection remain classified.[^23]
 
@@ -81,7 +81,7 @@ The commission's records, totaling approximately 41 cubic feet (82,000 pages), a
 [^7]: Lyman Lemnitzer, Operation Northwoods memorandum, Joint Chiefs of Staff, March 13, 1962, presented to Secretary of Defense Robert McNamara. Kennedy rejected the proposal on March 16, 1962 and denied Lemnitzer another term as chairman.
 [^8]: Colby and Dennett, Appendix B. Kirkland was elected AFL-CIO president on November 19, 1979.
 [^9]: Colby and Dennett, Appendix B.
-[^10]: National Security Archive, "Gerald Ford White House Altered Rockefeller Commission Report in 1975," NSAEBB, February 29, 2016. Griswold's footnote recommending CIA budget disclosure was among the items suppressed by the White House.
+[^10]: [[National Security Archive]], "Gerald Ford White House Altered Rockefeller Commission Report in 1975," NSAEBB, February 29, 2016. Griswold's footnote recommending CIA budget disclosure was among the items suppressed by the White House.
 [^11]: Reagan's attendance at commission sessions: Commission meeting records, Gerald R. Ford Presidential Library; also cited in Ronald Reagan Presidential Library finding aids for the 1975 Rockefeller Commission records.
 [^12]: Edgar F. Shannon Jr., University of Virginia President 1959-1974. Washington Post obituary, August 25, 1997.
 [^13]: Operation CHAOS statistics from the Rockefeller Commission report, June 10, 1975, confirmed in subsequent Church Committee findings.

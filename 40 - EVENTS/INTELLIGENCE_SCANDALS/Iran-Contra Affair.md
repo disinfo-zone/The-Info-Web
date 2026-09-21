@@ -21,7 +21,7 @@ start: 1985-01-01
 end: 1987-01-01
 location: "United States / Iran / Nicaragua"
 ---
-The Iran-Contra Affair was a political scandal in the [[United States]] that came to light between 1985 and 1987, involving the secret sale of arms to [[Iran]] by the [[Ronald Reagan|Reagan]] administration in exchange for American hostages held in [[Lebanon]], with the profits illegally diverted to fund the [[Contras]] in [[Nicaragua]] in violation of congressional prohibitions. The scandal exposed the agency's direct management of the Contra war and the National Security Council's transformation into an operational intelligence agency based inside the White House.[^1][^2]
+The Iran-Contra Affair was a political scandal in the [[United States]] that came to light between 1985 and 1987, involving the secret sale of arms to [[Iran]] by the [[Ronald Reagan|Reagan]] administration in exchange for American hostages held in [[Lebanon]], with the profits illegally diverted to fund the [[Contras]] in [[Nicaragua]] in violation of congressional prohibitions. The scandal exposed the agency's direct management of the Contra war and the National Security Council's transformation into an operational intelligence agency based inside the [[White House]].[^1][^2]
 
 ### Congressional Prohibitions
 

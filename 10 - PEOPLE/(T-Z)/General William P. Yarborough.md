@@ -18,7 +18,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-William Pelham Yarborough (May 12, 1912, Seattle, Washington - December 6, 2005, Southern Pines, North Carolina) commanded the [[US Army Special Warfare Center]] at [[Fort Bragg]], North Carolina, and led the 1962 Special Forces survey team to [[Colombia]] that produced a classified report recommending the creation of a paramilitary civilian network for "executive action" against subversives, a document that institutionalized state-linked death squads as a Cold War counterinsurgency tool. His Colombia mission, conducted under the [[Alliance for Progress]] counterinsurgency program, connected the Eisenhower-era doctrine developed through [[Nelson Rockefeller]]'s [[NSC Special Group]] to the operational framework that would define Latin American military terror through the 1970s. He retired in 1971 as a Lieutenant General.
+William Pelham Yarborough (May 12, 1912, Seattle, Washington - December 6, 2005, Southern Pines, [[North Carolina]]) commanded the [[US Army Special Warfare Center]] at [[Fort Bragg]], North Carolina, and led the 1962 Special Forces survey team to [[Colombia]] that produced a classified report recommending the creation of a paramilitary civilian network for "executive action" against subversives, a document that institutionalized state-linked death squads as a Cold War counterinsurgency tool. His Colombia mission, conducted under the [[Alliance for Progress]] counterinsurgency program, connected the Eisenhower-era doctrine developed through [[Nelson Rockefeller]]'s [[NSC Special Group]] to the operational framework that would define Latin American military terror through the 1970s. He retired in 1971 as a Lieutenant General.
 
 ### Early Career and Airborne Development
 
@@ -48,7 +48,7 @@ The survey team produced a classified report dated February 26, 1962, formally t
 
 The same supplement called for an "intensive civilian registration program" so that the entire population would eventually be registered in government files "together with fingerprints and photographs," and recommended that interrogation of suspects include "sodium pentathol and polygraph" to "elicit every shred of information." The report also urged that any U.S. special assistance for internal security "be sterile and covert in nature" to shield both Colombian and American authorities from charges of interventionism.[^4]
 
-The document is held at the [[John F. Kennedy Presidential Library]], National Security Files, Box 319, folder JFKNSF-319-003 (Special Group [CI]: Subjects: Fort Bragg team visit to Colombia, March 1962), and a copy is archived at the U.S. Army John F. Kennedy Special Warfare Center and School Archives, Fort Bragg.[^5]
+The document is held at the [[John F. Kennedy Presidential Library]], National Security Files, Box 319, folder JFKNSF-319-003 ([[Special Group]] [CI]: Subjects: Fort Bragg team visit to Colombia, March 1962), and a copy is archived at the U.S. Army John F. Kennedy Special Warfare Center and School Archives, Fort Bragg.[^5]
 
 ### Plan Lazo and Colombian Implementation
 

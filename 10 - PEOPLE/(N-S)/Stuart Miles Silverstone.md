@@ -15,7 +15,7 @@ Stuart Miles Silverstone, who operated under the alias Steve Learner, was an act
 
 When U.S. Customs and Metropolitan Police investigators executed search warrants on The Finders' Glover Park duplex at 3918-3920 W Street NW on February 5-6, 1987, Silverstone was found inside a room containing multiple computers, printers, and satellite communications equipment. Large plastic bags filled with color slides, photographs, and photographic contact sheets including images of children were also seized from the same area.[^1]
 
-The room Silverstone occupied at the duplex appears to correspond to the communications hub through which the group's telex messages were generated. Martinez's reports identified telex communications found at the warehouse and duplex -- transmitted through MCI accounts to terminals across the United States and in foreign locations -- including what Martinez described as a purchase order for two children in Hong Kong through a contact at the Chinese Embassy.[^1]
+The room Silverstone occupied at the duplex appears to correspond to the communications hub through which the group's telex messages were generated. Martinez's reports identified telex communications found at the warehouse and duplex -- transmitted through MCI accounts to terminals across the United States and in foreign locations -- including what Martinez described as a purchase order for two children in [[Hong Kong]] through a contact at the Chinese Embassy.[^1]
 
 ### Membership and Aliases
 

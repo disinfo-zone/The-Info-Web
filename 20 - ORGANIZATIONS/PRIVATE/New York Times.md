@@ -8,7 +8,7 @@ tags:
   - contra-war
 summary: The New York Times initially ignored Contra drug trafficking stories in the 1980s, then attacked the Dark Alliance series in 1996, before ultimately confirming key elements of the CIA-Contra drug connection in 1998.
 ---
-The New York Times initially ignored Contra drug trafficking stories in the 1980s, then attacked the [[Dark Alliance]] series in 1996, before ultimately confirming key elements of the [[Central Intelligence Agency]]-[[Contras|Contra]] drug connection in 1998. The paper's shifting coverage reflected the broader pattern of mainstream media resistance to the Contra-drug story.[^1]
+[[The New York Times]] initially ignored Contra drug trafficking stories in the 1980s, then attacked the [[Dark Alliance]] series in 1996, before ultimately confirming key elements of the [[Central Intelligence Agency]]-[[Contras|Contra]] drug connection in 1998. The paper's shifting coverage reflected the broader pattern of mainstream media resistance to the Contra-drug story.[^1]
 
 ### The 1980s
 

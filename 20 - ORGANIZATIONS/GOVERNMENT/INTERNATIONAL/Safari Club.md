@@ -17,7 +17,7 @@ end: 1981-01-01
 location: "Paris, France / Riyadh, Saudi Arabia"
 ---
 
-The Safari Club was an informal covert intelligence-sharing and operations network organized in 1976 by [[Alexandre de Marenches]], Director of France's [[SDECE]] (Service de Documentation Extérieure et de Contre-Espionnage), in coordination with [[Central Intelligence Agency|CIA]] Director [[George H.W. Bush]]. Its purpose was to continue anti-Soviet covert operations in Africa and the Middle East that the [[Church Committee]] hearings and resulting legislative restrictions had temporarily made politically impossible for the CIA to conduct openly. The arrangement allowed allied services not subject to U.S. congressional oversight to carry out operations with CIA logistical and intelligence support, funded largely by Saudi Arabia.[^1]
+The Safari Club was an informal covert intelligence-sharing and operations network organized in 1976 by [[Alexandre de Marenches]], Director of France's [[SDECE]] (Service de Documentation Extérieure et de Contre-Espionnage), in coordination with [[Central Intelligence Agency|CIA]] Director [[George H.W. Bush]]. Its purpose was to continue anti-Soviet covert operations in Africa and the [[Middle East]] that the [[Church Committee]] hearings and resulting legislative restrictions had temporarily made politically impossible for the CIA to conduct openly. The arrangement allowed allied services not subject to U.S. congressional oversight to carry out operations with CIA logistical and intelligence support, funded largely by Saudi Arabia.[^1]
 
 ### Formation and Membership
 
@@ -53,7 +53,7 @@ The Safari Club effectively collapsed between 1979 and 1981. The Iranian Revolut
 
 ### Legacy
 
-The Safari Club demonstrated that the constraints imposed on CIA by the Church Committee could be circumvented through allied service proxies with Saudi funding, a model that was applied repeatedly in subsequent decades. The same network of Saudi financial channels, allied intelligence services, and American-connected private operators that the Safari Club established reappeared in the [[Iran-Contra Affair]] and in the Afghan operations of the 1980s. Joseph Trento's research on the Safari Club, published in *Prelude to Terror* (Carroll & Graf, 2005), identified it as the structural template for a pattern of American covert operations that persisted beyond the specific 1976-1981 organizational arrangement.[^1]
+The Safari Club demonstrated that the constraints imposed on CIA by the Church Committee could be circumvented through allied service proxies with Saudi funding, a model that was applied repeatedly in subsequent decades. The same network of Saudi financial channels, allied intelligence services, and American-connected private operators that the Safari Club established reappeared in the [[Iran-Contra Affair]] and in the Afghan operations of the 1980s. [[Joseph Trento]]'s research on the Safari Club, published in *Prelude to Terror* (Carroll & Graf, 2005), identified it as the structural template for a pattern of American covert operations that persisted beyond the specific 1976-1981 organizational arrangement.[^1]
 
 ### Footnotes
 

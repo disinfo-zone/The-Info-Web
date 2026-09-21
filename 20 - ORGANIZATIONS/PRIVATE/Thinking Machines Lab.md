@@ -15,7 +15,7 @@ created: 2026-06-20
 updated: 2026-06-20
 ---
 
-Thinking Machines Lab is an artificial-intelligence research company founded by [[Mira Murati]], the former chief technology officer of [[OpenAI]], which emerged from stealth in February 2025. Its founding team and early staff were drawn heavily from OpenAI, including the cofounder and reinforcement-learning pioneer [[John Schulman]] as chief scientist and the research executive Barret Zoph as chief technology officer, with the former OpenAI chief research officer Bob McGrew joining as an adviser. In July 2025 the company closed a seed round of roughly 2 billion dollars at a 12-billion-dollar valuation, a figure widely described as among the largest seed rounds in Silicon Valley history.[^1][^2]
+Thinking Machines Lab is an artificial-intelligence research company founded by [[Mira Murati]], the former chief technology officer of [[OpenAI]], which emerged from stealth in February 2025. Its founding team and early staff were drawn heavily from OpenAI, including the cofounder and reinforcement-learning pioneer [[John Schulman]] as chief scientist and the research executive Barret Zoph as chief technology officer, with the former OpenAI chief research officer Bob McGrew joining as an adviser. In July 2025 the company closed a seed round of roughly 2 billion dollars at a 12-billion-dollar valuation, a figure widely described as among the largest seed rounds in [[Silicon Valley]] history.[^1][^2]
 
 ### Founding and the OpenAI Lineage
 

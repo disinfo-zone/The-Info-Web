@@ -16,7 +16,7 @@ The British Broadcasting Corporation (BBC) is the [[United Kingdom]]'s publicly 
 
 ### Cold War Propaganda Role
 
-During the [[Cold War]], the BBC World Service operated alongside overt British government propaganda through the [[Foreign Office]]-funded organization. The BBC's radio services to Eastern Europe, the Soviet Union, and China were understood by both the BBC and the British government to serve geopolitical as well as journalistic purposes - providing uncensored news to populations behind the Iron Curtain and projecting British values and policy. [[MI6]] had historically maintained relationships with journalists and editors at major British news organizations; the extent of such relationships at the BBC was documented in a 1967 internal review but not publicly released.
+During the [[Cold War]], the BBC World Service operated alongside overt British government propaganda through the [[Foreign Office]]-funded organization. The BBC's radio services to Eastern Europe, the Soviet Union, and China were understood by both the BBC and the British government to serve geopolitical as well as journalistic purposes - providing uncensored news to populations behind the [[Iron Curtain]] and projecting British values and policy. [[MI6]] had historically maintained relationships with journalists and editors at major British news organizations; the extent of such relationships at the BBC was documented in a 1967 internal review but not publicly released.
 
 The BBC was among the European broadcasters that broadcast [[Gladio]]-related revelations following the October 1990 Italian parliamentary disclosures. The BBC's flagship current affairs documentary program Panorama produced investigations into Gladio and related stay-behind network activities in [[Italy]], [[Belgium]], and [[Greece]] in the early 1990s.[^2]
 
@@ -25,7 +25,7 @@ The BBC was among the European broadcasters that broadcast [[Gladio]]-related re
 The BBC's investigative journalism produced significant coverage of the major intelligence scandals that populate this vault:
 
 - The [[BCCI]] collapse and Bank of England regulatory failure (1991-1992) received substantial BBC coverage including Panorama investigations.
-- The [[Arms-to-Iraq]] affair and Matrix Churchill prosecution collapse (1992) were covered extensively by BBC News, including reporting that contributed to political pressure for the [[Scott Inquiry]].
+- The [[Arms-to-Iraq]] affair and [[Matrix Churchill]] prosecution collapse (1992) were covered extensively by BBC News, including reporting that contributed to political pressure for the [[Scott Inquiry]].
 - [[Operation Gladio]] and the stay-behind networks were the subject of a major BBC Timewatch documentary (1992).
 - The [[Iran-Contra Affair]] and related [[October Surprise]] allegations received substantial BBC World Service and domestic coverage.
 

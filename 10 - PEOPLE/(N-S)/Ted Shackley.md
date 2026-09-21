@@ -51,7 +51,7 @@ Shackley was transferred to serve as Saigon station chief in 1968, the year of t
 
 ### Western Hemisphere Division and Deputy Directorate
 
-After Saigon, Shackley was assigned to the Western Hemisphere Division chief position (1972-1976), responsible for CIA operations throughout Latin America including the covert support for the September 11, 1973, Chilean coup that overthrew Salvador Allende. He subsequently served as Associate Deputy Director for Operations (ADDO) from 1976 to 1979, the number-two position in the Directorate of Operations, under Deputy Director for Operations William Wells.[^1]
+After Saigon, Shackley was assigned to the Western Hemisphere Division chief position (1972-1976), responsible for CIA operations throughout [[Latin America]] including the covert support for the September 11, 1973, Chilean coup that overthrew [[Salvador Allende]]. He subsequently served as Associate Deputy Director for Operations (ADDO) from 1976 to 1979, the number-two position in the Directorate of Operations, under Deputy Director for Operations William Wells.[^1]
 
 ### Forced Departure and Turner
 

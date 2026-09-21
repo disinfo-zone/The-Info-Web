@@ -25,7 +25,7 @@ The night before a crucial vote in Congress on Contra aid, Reagan displayed a gr
 
 ### Evidence of U.S. Government Ties
 
-A 1988 House Judiciary Committee investigation produced evidence suggesting the entire Seal sting was stage-managed by [[Oliver North]] and the CIA as a domestic disinformation operation. Committee chairman William Hughes of New Jersey told reporters that "subcommittee staff recently called Vaughn's number in Managua, Nicaragua, and spoke to a 'domestic employee' who said the house belonged to a U.S. Embassy employee," and that the house had been "continuously rented" by the United States since 1981.[^1]
+A 1988 House Judiciary Committee investigation produced evidence suggesting the entire Seal sting was stage-managed by [[Oliver North]] and the CIA as a domestic disinformation operation. Committee chairman William Hughes of [[New Jersey]] told reporters that "subcommittee staff recently called Vaughn's number in Managua, Nicaragua, and spoke to a 'domestic employee' who said the house belonged to a U.S. Embassy employee," and that the house had been "continuously rented" by the United States since 1981.[^1]
 
 Declassified CIA cables supported the idea that Vaughn was a U.S. double agent. In March 1985 the CIA reported that Vaughn "was said to be an associate of Nicaraguan narcotics trafficker Norwing [sic] Meneses Cantarero." [[Norwin Meneses]] at that time was working with the DEA in [[Costa Rica]], assisting the [[Contras]]. Oliver North's daily diaries contained several references to "Freddy Vaughn," including a July 6, 1984, entry: "Freddy coming in late July."[^1]
 
@@ -33,7 +33,7 @@ Far from being a "top aide" to a Sandinista commandante, Vaughn was a deputy dir
 
 ### The Leak and Aftermath
 
-Four DEA officials testified before Hughes's committee that they received pressure from North and the CIA to leak Vaughn's involvement with drugs to the press. They also said North wanted to take $1.5 million in drug profits Seal had collected from the [[Medellin Cartel|Medellín cartel]] and give it to the Contras. When the DEA refused, the story was leaked by the White House to the right-wing Washington Times. The leak publicly linked the Sandinistas to drug trafficking right before the Contra aid vote and prematurely exposed the DEA's investigation of the Medellín cartel - the DEA's most promising chance ever to break up the Colombian drug conglomerate. Vaughn disappeared.[^1]
+Four DEA officials testified before Hughes's committee that they received pressure from North and the CIA to leak Vaughn's involvement with drugs to the press. They also said North wanted to take $1.5 million in drug profits Seal had collected from the [[Medellin Cartel|Medellín cartel]] and give it to the Contras. When the DEA refused, the story was leaked by the [[White House]] to the right-wing Washington Times. The leak publicly linked the Sandinistas to drug trafficking right before the Contra aid vote and prematurely exposed the DEA's investigation of the Medellín cartel - the DEA's most promising chance ever to break up the Colombian drug conglomerate. Vaughn disappeared.[^1]
 
 ### Footnotes
 

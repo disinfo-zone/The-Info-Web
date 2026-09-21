@@ -20,7 +20,7 @@ location: "Fayetteville, North Carolina"
 summary: "Charles Grandison Rose III (1939-2012) was a Democratic congressman from North Carolina who chaired the House Intelligence Committee's Evaluation Subcommittee, publicly championed the Grill Flame remote viewing program in the late 1970s, and later applied congressional pressure that helped reopen the DOJ inquiry into The Finders."
 ---
 
-Charles Grandison Rose III (August 10, 1939 - September 4, 2012) was a Democratic congressman who represented North Carolina's 7th congressional district for twenty-four years, from 1973 to 1997. He became a vocal public advocate for the [[STARGATE PROJECT|Grill Flame]] remote viewing program and later, alongside Rep. [[Tom Lewis]] (R-FL), applied congressional pressure that contributed to the Department of Justice reopening its inquiry into [[The Finders]] case.[^1][^2]
+Charles Grandison Rose III (August 10, 1939 - September 4, 2012) was a Democratic congressman who represented [[North Carolina]]'s 7th congressional district for twenty-four years, from 1973 to 1997. He became a vocal public advocate for the [[STARGATE PROJECT|Grill Flame]] remote viewing program and later, alongside Rep. [[Tom Lewis]] (R-FL), applied congressional pressure that contributed to the Department of Justice reopening its inquiry into [[The Finders]] case.[^1][^2]
 
 ### Background
 

@@ -22,7 +22,7 @@ His February 7, 1987 report documented the following at the warehouse:
 - A large library including books on mind control
 - A video screening room with production capability
 - Sauna and hot tub facilities
-- Files referencing international contacts in London, Germany, the Bahamas, Japan, Hong Kong, Malaysia, Africa, and Costa Rica
+- Files referencing international contacts in London, Germany, the Bahamas, Japan, [[Hong Kong]], Malaysia, Africa, and Costa Rica
 - A file labeled "Pentagon Break-In" (contents unexamined and unknown; the report records only the title)
 - Documents with what Martinez described as "detailed instructions for obtaining children for unspecified purposes" including impregnation, purchasing, trading, and kidnapping
 - Telex messages transmitted via MCI accounts to terminals across the United States and in foreign locations, including what Martinez identified as a purchase order for two children in Hong Kong through a contact at the Chinese Embassy

@@ -45,7 +45,7 @@ Andrew McLellan, AIA's labor adviser, traveled to Brazil shortly after the 1964 
 
 ### 1969 Rockefeller Mission
 
-AIA officials, including John Camp and Jerome Levinson, traveled as "special advisers" on Nelson Rockefeller's 1969 tour of Latin America, alongside IBEC representatives. AIA's Flor Brennan also served on the mission staff.[^7]
+AIA officials, including John Camp and Jerome Levinson, traveled as "special advisers" on Nelson Rockefeller's 1969 tour of [[Latin America]], alongside IBEC representatives. AIA's Flor Brennan also served on the mission staff.[^7]
 
 [^1]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995. Ch. 13, 18.
 [^2]: Colby and Dennett, Ch. 18, 28.

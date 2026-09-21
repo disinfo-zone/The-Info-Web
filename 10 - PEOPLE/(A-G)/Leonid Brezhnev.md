@@ -22,7 +22,7 @@ This meeting, along with the [[Soviet Union|Soviets]] bugging [[Golda Meir|Meir'
 
 ### 1973 Yom Kippur War Threats
 
-During the 1973 [[Yom Kippur War]], as the continued encirclement of the Egyptian Third Army by Israeli forces escalated, Soviet party leader [[Leonid Brezhnev]] increased the alert status of his airborne divisions and warned the White House that unless [[Israel]] stopped violating the cease-fire, "we should be faced with the necessity urgently to consider the question of taking appropriate steps unilaterally." The implication was that Brezhnev would send troops as a blocking force behind the front lines in [[Egypt]] to prevent the Israelis from advancing on [[Cairo]].[^2]
+During the 1973 [[Yom Kippur War]], as the continued encirclement of the Egyptian Third Army by Israeli forces escalated, Soviet party leader [[Leonid Brezhnev]] increased the alert status of his airborne divisions and warned the [[White House]] that unless [[Israel]] stopped violating the cease-fire, "we should be faced with the necessity urgently to consider the question of taking appropriate steps unilaterally." The implication was that Brezhnev would send troops as a blocking force behind the front lines in [[Egypt]] to prevent the Israelis from advancing on [[Cairo]].[^2]
 
 ### Footnotes
 

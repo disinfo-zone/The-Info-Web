@@ -16,7 +16,7 @@ Walter Langer was a [[Cambridge, Massachusetts]] psychoanalyst whose older broth
 
 ### Pre-War Recruitment
 
-Four months before Pearl Harbor, Donovan had enlisted Langer to put together a nationwide network of analysts to study the morale of the country's young men, who, it was widely feared, were not enthusiastic about fighting a foreign war. Pearl Harbor seemed to solve this morale problem, but Langer stayed with Donovan as a part-time psychoanalytic consultant.[^1]
+Four months before [[Pearl Harbor]], Donovan had enlisted Langer to put together a nationwide network of analysts to study the morale of the country's young men, who, it was widely feared, were not enthusiastic about fighting a foreign war. Pearl Harbor seemed to solve this morale problem, but Langer stayed with Donovan as a part-time psychoanalytic consultant.[^1]
 
 ### The Hitler Profile
 

@@ -20,7 +20,7 @@ Mark Zuckerberg (born May 14, 1984) is the cofounder and chief executive of [[Fa
 
 Thiel made the first outside investment in Facebook in 2004, five hundred thousand dollars structured as a convertible note for about 10.2 percent of the company, valuing it near 4.9 million dollars, and joined its board in 2005. He sold large blocks at and after the May 2012 initial public offering, taking roughly 640 million dollars at the IPO and several hundred million more after the lockup expired in August 2012, and remained a director until February 2022, when he declined reelection to focus on funding pro-[[Donald Trump|Trump]] political candidates ahead of the midterms.[^1][^3]
 
-Thiel acted as an intermediary between Zuckerberg and the political right. He attended a previously undisclosed dinner with Zuckerberg and Trump in the Blue Room of the White House on October 22, 2019, organized on short notice and reported by NBC News a month later, during the week Zuckerberg testified to Congress on Facebook's Libra cryptocurrency project. Senator Elizabeth Warren called the meeting "corruption, plain and simple."[^6]
+Thiel acted as an intermediary between Zuckerberg and the political right. He attended a previously undisclosed dinner with Zuckerberg and Trump in the Blue Room of the [[White House]] on October 22, 2019, organized on short notice and reported by NBC News a month later, during the week Zuckerberg testified to Congress on Facebook's Libra cryptocurrency project. Senator Elizabeth Warren called the meeting "corruption, plain and simple."[^6]
 
 ### The Epstein Dinner
 

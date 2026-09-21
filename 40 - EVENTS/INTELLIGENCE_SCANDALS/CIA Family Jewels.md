@@ -41,7 +41,7 @@ Schlesinger transmitted the document to his successor as DCI, [[William Colby]],
 
 Colby's disclosure of the Family Jewels to the Church Committee in 1975 was part of what CIA traditionalists called the "Halloween Massacre" - the moment when Colby's approach to congressional oversight became apparent to the full intelligence community. President Ford fired Colby as DCI in November 1975 (and also fired Schlesinger as Secretary of Defense, in the same announcement), though Colby continued serving through the transition to his successor George H.W. Bush.
 
-The Family Jewels was partially declassified and released by the CIA under then-DCI [[Michael Hayden]] on June 26, 2007, following a FOIA lawsuit by the National Security Archive. The released version remains redacted in substantial portions. The unredacted document can be accessed through the CIA's FOIA Reading Room: cia.gov/readingroom/collection/family-jewels.[^1]
+The Family Jewels was partially declassified and released by the CIA under then-DCI [[Michael Hayden]] on June 26, 2007, following a FOIA lawsuit by the [[National Security Archive]]. The released version remains redacted in substantial portions. The unredacted document can be accessed through the CIA's FOIA Reading Room: cia.gov/readingroom/collection/family-jewels.[^1]
 
 ### Footnotes
 

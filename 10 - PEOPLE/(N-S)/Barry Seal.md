@@ -14,7 +14,7 @@ born: 1939-07-16
 died: 1986-02-19
 location: "Baton Rouge, Louisiana, USA"
 ---
-Adler Berriman "Barry" Seal was born July 16, 1939, in Baton Rouge, Louisiana. He became a licensed pilot in his teens and joined [[Trans World Airlines|TWA]] in 1964 as a flight engineer, rising to one of the youngest Boeing 747 captains in the fleet. He was fired in July 1972 after being implicated in a conspiracy to smuggle plastic explosives to anti-Castro Cubans in Mexico using a DC-4. He was killed February 19, 1986, in Baton Rouge, Louisiana -- shot six times with a MAC-10 submachine gun by a contract killer while sitting in his Cadillac outside a Salvation Army rehabilitation center where he was required to report under the terms of a criminal sentence.[^1]
+Adler Berriman "Barry" Seal was born July 16, 1939, in [[Baton Rouge]], Louisiana. He became a licensed pilot in his teens and joined [[Trans World Airlines|TWA]] in 1964 as a flight engineer, rising to one of the youngest Boeing 747 captains in the fleet. He was fired in July 1972 after being implicated in a conspiracy to smuggle plastic explosives to anti-Castro Cubans in Mexico using a DC-4. He was killed February 19, 1986, in Baton Rouge, Louisiana -- shot six times with a MAC-10 submachine gun by a contract killer while sitting in his Cadillac outside a Salvation Army rehabilitation center where he was required to report under the terms of a criminal sentence.[^1]
 
 ### Drug Trafficking Career
 
@@ -28,7 +28,7 @@ In March 1984, Seal was arrested with 462 pounds of Medellín cocaine aboard his
 
 The [[Central Intelligence Agency]] installed concealed cameras in Seal's cargo aircraft. On June 25, 1984, at the Los Brasiles airfield outside Managua, Nicaragua, the cameras photographed Pablo Escobar, José Gonzalo Rodríguez Gacha, and Federico Vaughan - an official of the Nicaraguan Sandinista government - loading cocaine onto Seal's plane for transport to the United States. This photographic evidence was used by the Reagan administration in its anti-Sandinista campaign; President [[Ronald Reagan]] displayed a copy of the image in a nationally televised address on March 16, 1986.[^2]
 
-On July 17, 1984, the *Washington Times* published details of Seal's infiltration operation, including the photograph, effectively burning him as an undercover source. The Senate Foreign Relations Committee's 1988 investigation, chaired by Senator [[John Kerry]], concluded this leak originated with [[Oliver North]].[^3]
+On July 17, 1984, the *Washington Times* published details of Seal's infiltration operation, including the photograph, effectively burning him as an undercover source. The [[Senate Foreign Relations Committee]]'s 1988 investigation, chaired by Senator [[John Kerry]], concluded this leak originated with [[Oliver North]].[^3]
 
 ### Assassination
 

@@ -21,7 +21,7 @@ Most significantly, Lawson told detectives that the murder of [[Timothy King]] -
 
 ### Connections to Christopher Busch
 
-Lawson also connected the North Fox Island network to [[Christopher Busch]], the son of General Motors executive H. Lee Busch, who is a primary person of interest in the OCCK investigation. Lawson stated that his associate Robert Moore used to take young boys to visit H. Lee Busch at his home, suggesting a broader adult network around the Busch family property. Lawson named three suspects in connection with the OCCK murders: Josiah Tazelaar (a schoolteacher linked to North Fox Island by [[Gerald Richards]], who had been convicted there in 1976); Robert Moore; and a third individual.[^1]
+Lawson also connected the North Fox Island network to [[Christopher Busch]], the son of [[General Motors]] executive H. Lee Busch, who is a primary person of interest in the OCCK investigation. Lawson stated that his associate Robert Moore used to take young boys to visit H. Lee Busch at his home, suggesting a broader adult network around the Busch family property. Lawson named three suspects in connection with the OCCK murders: Josiah Tazelaar (a schoolteacher linked to North Fox Island by [[Gerald Richards]], who had been convicted there in 1976); Robert Moore; and a third individual.[^1]
 
 [[Christopher Busch]] was arrested in January 1977 alongside [[Gregory Greene]] for sexually assaulting a minor. Busch was found dead in his home in November 1978, shortly before Lawson's initial contact with investigators, in what was ruled a suicide. The case remained open as of 2026, with Michigan State Police maintaining active interest following the February 2026 FBI excavation at [[North Fox Island]].[^2]
 

@@ -57,7 +57,7 @@ Guatemala suffered decades of consequences. The Castillo Armas government revers
 
 [[Che Guevara]] was in Guatemala City during the coup and drew from the experience his conviction that the path of peaceful reform would always be met with U.S.-backed violence - a conclusion that shaped his subsequent career in [[Cuba]], [[Bolivia]], and elsewhere.[^2]
 
-The CIA eventually declassified a historical account of PBSUCCESS, available through the National Security Archive at nsarchive.gwu.edu.
+The CIA eventually declassified a historical account of PBSUCCESS, available through the [[National Security Archive]] at nsarchive.gwu.edu.
 
 ### Footnotes
 

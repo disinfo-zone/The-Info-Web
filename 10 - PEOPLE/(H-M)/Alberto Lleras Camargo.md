@@ -52,7 +52,7 @@ Declassified CIA files, released by the Trump administration in 2025 as part of 
 
 ### Second Colombian Presidency (1958-1962)
 
-Lleras Camargo returned to the Colombian presidency under the National Front power-sharing arrangement. His second presidency (August 7, 1958 - August 7, 1962) coincided with the early Alliance for Progress years and the intensifying Cold War competition in Latin America following the Cuban Revolution.
+Lleras Camargo returned to the Colombian presidency under the National Front power-sharing arrangement. His second presidency (August 7, 1958 - August 7, 1962) coincided with the early Alliance for Progress years and the intensifying Cold War competition in [[Latin America]] following the Cuban Revolution.
 
 He was particularly anxious about Colombia's economic vulnerabilities. Coffee prices, Colombia's principal export, fell during the U.S. recession of 1960. As export earnings declined and debt payments to American and European banks triggered inflation, Lleras Camargo worried that this would strengthen rural guerrillas sympathetic to the Cuban revolutionary example. His government faced "peasant republics" in the valleys of [[Marquetalia]], [[Sumapaz]], and [[El Pato]], which had survived since Colombia's decade-long [[La Violencia]] civil war.[^4]
 

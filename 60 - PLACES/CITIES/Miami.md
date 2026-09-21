@@ -21,7 +21,7 @@ Miami was one of the primary entry points for Colombian cocaine into the United 
 
 ### Blandón's Business Empire
 
-After moving to Miami, Blandón invested in Alpha II Rent-a-Car, which spread to twenty-four locations in southern Florida, and became an authorized outlet for Chrysler and General Motors vehicles. He also invested in Mex-US Import and Export Inc. and other businesses with Nicaraguan exile partners.[^2]
+After moving to Miami, Blandón invested in Alpha II Rent-a-Car, which spread to twenty-four locations in southern Florida, and became an authorized outlet for Chrysler and [[General Motors]] vehicles. He also invested in Mex-US Import and Export Inc. and other businesses with Nicaraguan exile partners.[^2]
 
 ### Footnotes
 

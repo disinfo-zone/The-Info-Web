@@ -45,7 +45,7 @@ The war eventually led to Truman's firing of General [[Douglas MacArthur]] in Ap
 
 Acheson was a target of Senator [[Joseph McCarthy]]'s attacks, primarily over the "loss" of [[China]] to communism - which McCarthy attributed to State Department subversion - and over Acheson's refusal to condemn former State Department official Alger Hiss following Hiss's conviction for perjury in connection with Soviet espionage. McCarthy called Acheson's State Department a "Dean Acheson College of Cowardly Communist Containment."
 
-After leaving government, Acheson returned to law practice and remained influential in Democratic foreign policy circles, advising subsequent administrations informally. He won the Pulitzer Prize for History in 1970 for *Present at the Creation*. He died at Sandy Spring, Maryland, on October 12, 1971.
+After leaving government, Acheson returned to law practice and remained influential in Democratic foreign policy circles, advising subsequent administrations informally. He won the [[Pulitzer Prize]] for History in 1970 for *Present at the Creation*. He died at Sandy Spring, Maryland, on October 12, 1971.
 
 ### Footnotes
 

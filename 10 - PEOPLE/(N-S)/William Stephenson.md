@@ -21,7 +21,7 @@ Sir William Samuel Stephenson (January 23, 1897 - January 31, 1989) was a Canadi
 
 ### Early Life and World War I
 
-Stephenson was born on January 23, 1897, in Point Douglas, Manitoba, Canada. He served as a fighter pilot in World War I, achieving multiple aerial victories and being shot down and briefly held as a prisoner of war. After the war he became a successful industrialist and businessman, with interests in radio communications and wire transmission technology that later proved valuable in intelligence work.[^1]
+Stephenson was born on January 23, 1897, in Point Douglas, Manitoba, Canada. He served as a fighter pilot in [[World War I]], achieving multiple aerial victories and being shot down and briefly held as a prisoner of war. After the war he became a successful industrialist and businessman, with interests in radio communications and wire transmission technology that later proved valuable in intelligence work.[^1]
 
 ### British Security Coordination
 

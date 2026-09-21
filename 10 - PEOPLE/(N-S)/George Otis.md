@@ -7,7 +7,7 @@ born: 1917-04-20
 died: 2007-07-22
 location: "Payne, Ohio, USA"
 ---
-[[George Otis]] (April 20, 1917 – July 22, 2007) was a former Lear executive and a member of [[Full Gospel Business Men's Fellowship International|FGBMFI]]. He was a significant figure in Christian broadcasting and evangelism, particularly in the Middle East, and had notable connections within political circles.[^1][^2]
+[[George Otis]] (April 20, 1917 – July 22, 2007) was a former Lear executive and a member of [[Full Gospel Business Men's Fellowship International|FGBMFI]]. He was a significant figure in Christian broadcasting and evangelism, particularly in the [[Middle East]], and had notable connections within political circles.[^1][^2]
 
 In 1970, Otis, along with [[Pat Boone]], [[Shirley Boone]], and [[Harold Bredesen]], prayed with then-California Governor [[Ronald Reagan]] at his home in Sacramento. Otis was reportedly "overcome with the Spirit" and began to speak in the voice of God, comparing Reagan to a king and prophesying that Reagan would "reside at 1600 Pennsylvania Avenue" if he continued to walk in God's way. Reagan reportedly took the prophecy very seriously. A Reagan Aide who later worked on [[Pat Robertson]]'s presidential campaign invited [[Nita Scoggan]], the wife of an FGBMFI member, to form a prayer group in the [[White House]]. [[Oliver North]] reportedly attended these prayer meetings.[^1][^2]
 

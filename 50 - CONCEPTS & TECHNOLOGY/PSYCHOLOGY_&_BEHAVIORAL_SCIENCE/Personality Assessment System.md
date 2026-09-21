@@ -10,7 +10,7 @@ summary: "Personality classification method developed by CIA psychologist John G
 created: 2026-06-03
 updated: 2026-06-03
 ---
-The Personality Assessment System (PAS) was a unique method for assessing personality and predicting future behavior, created by [[CIA]] psychologist [[John Gittinger]] while on the CIA payroll. Top Agency officials gave the PAS a place in most agent-connected activities. During the [[Cuban missile crisis|Cuban Missile Crisis]], it was Gittinger who was summoned to the White House to advise on how [[Nikita Khrushchev|Khrushchev]] would react to American pressure. A former Gittinger aide called it "the key to the whole clandestine business." After most mind control researchers had given up, Gittinger sold his system to cynical, anti-gimmick case officers in the Agency's Clandestine Services.[^1]
+The Personality Assessment System (PAS) was a unique method for assessing personality and predicting future behavior, created by [[CIA]] psychologist [[John Gittinger]] while on the CIA payroll. Top Agency officials gave the PAS a place in most agent-connected activities. During the [[Cuban missile crisis|Cuban Missile Crisis]], it was Gittinger who was summoned to the [[White House]] to advise on how [[Nikita Khrushchev|Khrushchev]] would react to American pressure. A former Gittinger aide called it "the key to the whole clandestine business." After most mind control researchers had given up, Gittinger sold his system to cynical, anti-gimmick case officers in the Agency's Clandestine Services.[^1]
 
 ### Origins
 

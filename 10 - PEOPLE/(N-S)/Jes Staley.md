@@ -23,7 +23,7 @@ James Edward Staley is an American banker who spent more than three decades at [
 
 ### JPMorgan Career
 
-Staley joined Morgan Guaranty Trust Company of New York in 1979 after graduating from Bowdoin College, and spent the 1980s in the bank's Latin America division, including as head of corporate finance for Brazil and as general manager of the firm's Brazilian brokerage.[^4] He led [[JPMorgan Asset Management]] from 2001 to 2009 and then ran the corporate and investment bank from 2009 to 2013.[^5] At the height of his JPMorgan career he was discussed as a potential successor to chief executive [[Jamie Dimon]].[^4]
+Staley joined Morgan Guaranty Trust Company of New York in 1979 after graduating from Bowdoin College, and spent the 1980s in the bank's [[Latin America]] division, including as head of corporate finance for Brazil and as general manager of the firm's Brazilian brokerage.[^4] He led [[JPMorgan Asset Management]] from 2001 to 2009 and then ran the corporate and investment bank from 2009 to 2013.[^5] At the height of his JPMorgan career he was discussed as a potential successor to chief executive [[Jamie Dimon]].[^4]
 
 Staley managed the private-banking relationship between JPMorgan and Epstein, who became a client of the bank's private bank in 1998.[^6] In a July 2011 email, JPMorgan general counsel [[Stephen Cutler]] wrote to Staley and asset-and-wealth-management head [[Mary Erdoes]] that Epstein was "not an honorable person in any way" and "should not be a client," and Cutler later testified that Staley and Erdoes made the decision to keep Epstein.[^6] Epstein also functioned as a source of referrals and introductions for Staley and the bank, including to wealthy potential clients.[^7]
 

@@ -13,7 +13,7 @@ created: 2026-06-19
 updated: 2026-06-19
 ---
 
-Scott Alexander is the pen name of [[Scott Siskind]], a [[San Francisco Bay Area]] psychiatrist whose blog Slate Star Codex became the most widely read forum of the [[Rationalist Community]] after [[Eliezer Yudkowsky]]'s [[LessWrong]]. The blog's long essays on psychiatry, statistics, and politics made it required reading across the rationalist, [[Effective Altruism]], and Silicon Valley technology worlds in the 2010s. Alexander deleted the blog in 2020 ahead of a [[The New York Times|New York Times]] article that would publish his legal name, and his privately expressed sympathy for [[Human Biodiversity|human biodiversity]] and his engagement with [[Neoreaction]] were exposed through a leaked 2014 email.[^1][^2]
+Scott Alexander is the pen name of [[Scott Siskind]], a [[San Francisco Bay Area]] psychiatrist whose blog Slate Star Codex became the most widely read forum of the [[Rationalist Community]] after [[Eliezer Yudkowsky]]'s [[LessWrong]]. The blog's long essays on psychiatry, statistics, and politics made it required reading across the rationalist, [[Effective Altruism]], and [[Silicon Valley]] technology worlds in the 2010s. Alexander deleted the blog in 2020 ahead of a [[The New York Times|New York Times]] article that would publish his legal name, and his privately expressed sympathy for [[Human Biodiversity|human biodiversity]] and his engagement with [[Neoreaction]] were exposed through a leaked 2014 email.[^1][^2]
 
 ### Slate Star Codex
 

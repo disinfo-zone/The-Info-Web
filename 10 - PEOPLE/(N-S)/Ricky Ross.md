@@ -126,7 +126,7 @@ Ross did not limit himself to Cincinnati. His dope turned up in Toledo, Clevelan
 
 ### The Greyhound Bust
 
-In September 1988, a drug-sniffing dog in New Mexico alerted on an eastbound Greyhound luggage compartment. Inside was a suitcase carrying nine kilos of cocaine worth $100,000, tagged for Cincinnati. The DEA let it through and staked out the bus station. A young L.A. Crip named Alphonso Jeffries claimed the suitcase and sprang the trap. Ross promised to pay all legal bills if Jeffries kept quiet. Jeffries did, and received a twenty-year federal sentence with no parole.[^9]
+In September 1988, a drug-sniffing dog in [[New Mexico]] alerted on an eastbound Greyhound luggage compartment. Inside was a suitcase carrying nine kilos of cocaine worth $100,000, tagged for Cincinnati. The DEA let it through and staked out the bus station. A young L.A. Crip named Alphonso Jeffries claimed the suitcase and sprang the trap. Ross promised to pay all legal bills if Jeffries kept quiet. Jeffries did, and received a twenty-year federal sentence with no parole.[^9]
 
 The bust led the FBI and DEA to investigate whether the Crips were flooding Cincinnati with inexpensive cocaine. Ross knew it was only a matter of time. He sold what he had and returned to L.A. in the fall of 1988, going into the home improvement business, spraying acoustic ceilings and painting.[^9]
 

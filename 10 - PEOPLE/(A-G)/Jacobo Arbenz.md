@@ -45,7 +45,7 @@ The immediate successor government was a military junta headed by Colonel Carlos
 
 The 1954 Guatemalan coup became the direct template for the 1961 [[Bay of Pigs]] invasion: the same organizational model (exile force, CIA air support, psychological operations), the same assumptions about popular opposition collapsing the target government, and many of the same operational personnel. The Bay of Pigs' failure was partly attributable to the incorrect lessons drawn from Guatemala's apparent success.
 
-Arbenz spent his later years in exile, returning to Latin America after international pressure. He drowned in his bathtub in [[Mexico City]] on January 27, 1971, in circumstances that were officially ruled accidental.[^2]
+Arbenz spent his later years in exile, returning to [[Latin America]] after international pressure. He drowned in his bathtub in [[Mexico City]] on January 27, 1971, in circumstances that were officially ruled accidental.[^2]
 
 ### Footnotes
 

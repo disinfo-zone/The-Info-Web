@@ -24,7 +24,7 @@ Reid Hoffman (born August 5, 1967, in [[Stanford, California|Stanford]], [[Calif
 
 Hoffman joined PayPal in its founding period as executive vice president of external relations, serving on the board and managing the company's external positioning through the 2002 sale to [[eBay]]. His role placed him among the PayPal Mafia cohort (alongside Peter Thiel, [[Max Levchin]], Elon Musk, [[David Sacks]], [[Ken Howery]], [[Luke Nosek]], [[Roelof Botha]], and [[Keith Rabois]]) whose subsequent ventures shaped the post-PayPal Silicon Valley generation. Hoffman founded LinkedIn in 2002 (before the eBay sale closed) and built it into the dominant professional-networking platform, taking it public in 2011 and selling it to [[Microsoft]] in 2016 for 26.2 billion dollars.[^1]
 
-The Microsoft acquisition and Hoffman's subsequent board seat at Microsoft placed him inside the enterprise-software and cloud-infrastructure orbit adjacent to the Thiel commercial network. Hoffman joined Greylock as a general partner in 2009, and his Greylock portfolio overlaps with the broader Silicon Valley venture ecosystem that the [[Founders Fund]] and the Thiel network operate within.[^1]
+The Microsoft acquisition and Hoffman's subsequent board seat at Microsoft placed him inside the enterprise-software and cloud-infrastructure orbit adjacent to the Thiel commercial network. Hoffman joined Greylock as a general partner in 2009, and his Greylock portfolio overlaps with the broader [[Silicon Valley]] venture ecosystem that the [[Founders Fund]] and the Thiel network operate within.[^1]
 
 ### The Epstein Relationship and the 2019 Apology
 

@@ -30,7 +30,7 @@ The [[Harry Truman|Truman]] administration initially declined British requests f
 
 ### Operational Planning
 
-The operation was planned primarily by two CIA officers and their British counterparts. [[Kermit Roosevelt|Kermit Roosevelt Jr.]], grandson of President [[Theodore Roosevelt]] and a Middle East specialist at the CIA's clandestine service, was the operational commander on the ground in Tehran. The British side was led initially by Christopher Montague Woodhouse (MI6 Tehran station chief), who had approached the CIA for assistance after British intelligence officers were expelled from Iran in 1952.
+The operation was planned primarily by two CIA officers and their British counterparts. [[Kermit Roosevelt|Kermit Roosevelt Jr.]], grandson of President [[Theodore Roosevelt]] and a [[Middle East]] specialist at the CIA's clandestine service, was the operational commander on the ground in Tehran. The British side was led initially by Christopher Montague Woodhouse (MI6 Tehran station chief), who had approached the CIA for assistance after British intelligence officers were expelled from Iran in 1952.
 
 The operational plan involved multiple coordinated elements:
 - A black propaganda campaign using CIA-funded Iranian newspapers to portray Mosaddegh as communist-aligned and anti-Islamic

@@ -13,7 +13,7 @@ updated: 2026-05-17
 location: "Buenos Aires, Argentina"
 ---
 
-Argentina is a federal republic in southern [[South America]], the second-largest country on the continent, bordered by [[Chile]], [[Bolivia]], [[Paraguay]], [[Brazil]], and [[Uruguay]]. Its capital, [[Buenos Aires]], is one of Latin America's largest metropolitan areas. Argentina's twentieth-century history was marked by cycles of elected government and military intervention; the military ruled Argentina from 1930-1932, 1943-1946, 1955-1958, 1966-1973, and most catastrophically from March 24, 1976, to December 10, 1983.[^1]
+Argentina is a federal republic in southern [[South America]], the second-largest country on the continent, bordered by [[Chile]], [[Bolivia]], [[Paraguay]], [[Brazil]], and [[Uruguay]]. Its capital, [[Buenos Aires]], is one of [[Latin America]]'s largest metropolitan areas. Argentina's twentieth-century history was marked by cycles of elected government and military intervention; the military ruled Argentina from 1930-1932, 1943-1946, 1955-1958, 1966-1973, and most catastrophically from March 24, 1976, to December 10, 1983.[^1]
 
 ### The Dirty War
 
@@ -25,7 +25,7 @@ The [[Central Intelligence Agency]] maintained connections to Argentine military
 
 ### Operation Condor
 
-Argentina was a founding participant in [[Operation Condor]], joining Chile ([[Augusto Pinochet]]), [[Uruguay]], [[Bolivia]], [[Paraguay]], and [[Brazil]]. Argentine military intelligence (SIDE) participated in Phase I (information sharing), Phase II (cross-border operations), and allegedly Phase III (operations in Europe against exiled dissidents). The assassination of former Chilean Army commander General Carlos Prats and his wife in Buenos Aires on September 30, 1974, was a Condor operation. SIDE participated in the tracking of Argentine exiles who had fled to other Condor partner countries.[^1]
+Argentina was a founding participant in [[Operation Condor]], joining Chile ([[Augusto Pinochet]]), [[Uruguay]], [[Bolivia]], [[Paraguay]], and [[Brazil]]. Argentine military intelligence (SIDE) participated in Phase I (information sharing), Phase II (cross-border operations), and allegedly Phase III (operations in Europe against exiled dissidents). The assassination of former Chilean Army commander General [[Carlos Prats]] and his wife in Buenos Aires on September 30, 1974, was a Condor operation. SIDE participated in the tracking of Argentine exiles who had fled to other Condor partner countries.[^1]
 
 ### Nazi Refugees
 

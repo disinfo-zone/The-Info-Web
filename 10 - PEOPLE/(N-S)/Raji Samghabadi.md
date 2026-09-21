@@ -6,7 +6,7 @@ tags:
 summary: "After the Iranian Revolution, Samghabadi was arrested by the Mullahs, accused of being a CIA spy and a Tudeh Party member."
 ---
 
-[[Raji Samghabadi]] was an Iranian-born journalist who worked as a Middle East correspondent for *Time* magazine. He was initially hired as a stringer for *Time* by [[Bruce van Voorst]], who had been a [[Central Intelligence Agency|CIA]] officer. Prior to this, in the early 1970s, Samghabadi worked for *Keyhan International*, an English-language daily newspaper in [[Tehran]], and was secretly a member of the pro-Soviet [[Tudeh Party]].[^1]
+[[Raji Samghabadi]] was an Iranian-born journalist who worked as a [[Middle East]] correspondent for *Time* magazine. He was initially hired as a stringer for *Time* by [[Bruce van Voorst]], who had been a [[Central Intelligence Agency|CIA]] officer. Prior to this, in the early 1970s, Samghabadi worked for *Keyhan International*, an English-language daily newspaper in [[Tehran]], and was secretly a member of the pro-Soviet [[Tudeh Party]].[^1]
 
 After the [[Iranian Revolution]], Samghabadi was arrested by the Mullahs, accused of being a [[Central Intelligence Agency|CIA]] spy and a [[Tudeh Party]] member. He was later released and sought political asylum in the [[United States|U.S.]], eventually becoming an [[United States|American]] citizen and a Middle East correspondent for *Time*.[^1]
 

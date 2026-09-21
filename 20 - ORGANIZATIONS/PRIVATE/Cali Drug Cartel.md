@@ -40,7 +40,7 @@ The cartel's alleged funding of the Colombian president and its strategic positi
 
 The Cali Cartel was a significant focus of investigative journalist [[Danny Casolaro]]'s "[[The Octopus]]" probe. Casolaro had uncovered a connection between [[Michael Abbell]], the Cali Cartel, and [[Robert Booth Nichols]] shortly before his death. [[Michael Riconosciuto]] attempted to exchange information on Abbell, Rodriguez, and Nichols with the [[Federal Bureau of Investigation|FBI]] in return for witness protection, further highlighting the cartel's deep entanglement with intelligence and criminal networks.[^1]
 
-Historically, during [[Jimmy Carter]]'s presidency, his human rights foreign policy in Latin America reportedly created a distance between the CIA and death-squad interdiction. The Carter administration was also reportedly hesitant to pursue certain figures involved in the drug trade, such as General Torrijos of [[Panama]], due to ongoing negotiations for the [[Panama Canal]] treaty. The cartel's activities were also contrasted with the [[Medellin Cartel]], which [[Manuel Noriega]] chose to support, ultimately leading to his ousting by [[George H.W. Bush]].[^1]
+Historically, during [[Jimmy Carter]]'s presidency, his human rights foreign policy in [[Latin America]] reportedly created a distance between the CIA and death-squad interdiction. The Carter administration was also reportedly hesitant to pursue certain figures involved in the drug trade, such as General Torrijos of [[Panama]], due to ongoing negotiations for the [[Panama Canal]] treaty. The cartel's activities were also contrasted with the [[Medellin Cartel]], which [[Manuel Noriega]] chose to support, ultimately leading to his ousting by [[George H.W. Bush]].[^1]
 
 ### Financial Operations
 

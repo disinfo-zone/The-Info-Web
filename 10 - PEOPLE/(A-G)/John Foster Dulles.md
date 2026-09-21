@@ -10,7 +10,7 @@ died: 1959-05-24
 location: "Washington, D.C."
 ---
 
-John Foster Dulles served as the Secretary of State under President [[Dwight D. Eisenhower]]. He, along with his brother [[Allen Dulles]], the [[Central Intelligence Agency|CIA]] director, were infuriated by [[Israel]]'s attempt to mask the extent of its military buildup prior to the 1956 [[Suez Crisis]]. He was regularly present at White House briefings where intelligence from [[U-2 Spy Plane|U-2]] flights, including early information on [[Dimona]], was presented.[^1]
+John Foster Dulles served as the Secretary of State under President [[Dwight D. Eisenhower]]. He, along with his brother [[Allen Dulles]], the [[Central Intelligence Agency|CIA]] director, were infuriated by [[Israel]]'s attempt to mask the extent of its military buildup prior to the 1956 [[Suez Crisis]]. He was regularly present at [[White House]] briefings where intelligence from [[U-2 Spy Plane|U-2]] flights, including early information on [[Dimona]], was presented.[^1]
 
 ### Biographical Record
 
@@ -38,7 +38,7 @@ A declassified CIA dispatch from the PBSUCCESS operations center in Florida, dat
 
 A telephone conversation memorandum (FRUS 1952-54 Guatemala, Document 252), dated June 28, 1954, records John Foster Dulles and Allen Dulles coordinating directly on the coup's operational status. John Foster Dulles stated that "our side must use more air power" and that CIA air operations were "excellent and effective." Regarding the accidental sinking of a British vessel by CIA-supported forces, John Foster Dulles said "No authority was given for this. However, we can't say it," documenting both operational awareness and deliberate deniability.[^pb2]
 
-A second telephone memorandum (FRUS 1952-54 Guatemala, Document 189), dated June 16, 1954, records Dulles telling Allen Dulles that Standard Oil of New Jersey executives had met with Allen about "the small country down south," and that John Foster wanted to "possibly slow things up without formalized action," referencing a Senate sanctions bill he had drafted but found unsatisfactory.[^pb3]
+A second telephone memorandum (FRUS 1952-54 Guatemala, Document 189), dated June 16, 1954, records Dulles telling Allen Dulles that Standard Oil of [[New Jersey]] executives had met with Allen about "the small country down south," and that John Foster wanted to "possibly slow things up without formalized action," referencing a Senate sanctions bill he had drafted but found unsatisfactory.[^pb3]
 
 After Arbenz's resignation and the installation of a new government, Dulles delivered a national radio address in June 1954 framing the coup as a spontaneous Guatemalan rejection of Soviet infiltration. He asserted that communists had "dominated the social security organization and ran the agrarian land reform program," and praised the restoration of "peace and freedom to that sister Republic." The address made no reference to U.S. covert involvement. The full text was published in the *Department of State Bulletin*.[^pb4]
 
@@ -68,7 +68,7 @@ As Secretary of State, Dulles repeatedly clashed with Nelson Rockefeller over Co
 
 ### Key Policy Instruments
 
-Dulles was the primary architect of the [[Southeast Asia Treaty Organization]] (SEATO), signed in Manila on September 8, 1954, establishing collective defense obligations among the United States, United Kingdom, France, Australia, New Zealand, the Philippines, Thailand, and Pakistan, with a separate protocol designating Laos, Cambodia, and South Vietnam as protected territories. He contributed to the conclusion of the [[Austrian State Treaty]] (1955), the [[Formosa Resolution]] (signed January 29, 1955, Public Law 4), and the [[Eisenhower Doctrine]] of 1957.[^policy1]
+Dulles was the primary architect of the [[Southeast Asia Treaty Organization]] (SEATO), signed in Manila on September 8, 1954, establishing collective defense obligations among the United States, United Kingdom, France, Australia, [[New Zealand]], the Philippines, Thailand, and Pakistan, with a separate protocol designating Laos, Cambodia, and South Vietnam as protected territories. He contributed to the conclusion of the [[Austrian State Treaty]] (1955), the [[Formosa Resolution]] (signed January 29, 1955, Public Law 4), and the [[Eisenhower Doctrine]] of 1957.[^policy1]
 
 On January 12, 1954, Dulles delivered an address before the [[Council on Foreign Relations]] in New York articulating the doctrine of "massive retaliation": the United States would "depend primarily upon a great capacity to retaliate, instantly, by means and at places of our choosing" rather than maintain large conventional forces at every potential flashpoint. The speech was published in the *Department of State Bulletin*, January 25, 1954, pages 107-110.[^policy2]
 

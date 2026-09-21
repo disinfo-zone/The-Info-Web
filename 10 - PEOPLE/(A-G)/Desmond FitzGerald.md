@@ -22,7 +22,7 @@ Desmond FitzGerald (April 16, 1910 - July 23, 1967) was a senior [[Central Intel
 
 ### Early Career
 
-FitzGerald came from a Boston Brahmin background, educated at Harvard College and Harvard Law School. He served in the U.S. Army during World War II and joined the CIA in 1950. His early career included work in Asia, including involvement in the [[Philippines]] operations under [[Edward Lansdale]]. He rose rapidly through the clandestine service, becoming Chief of the Far East Division before his assignment as Chief of the Western Hemisphere Division in 1963.
+FitzGerald came from a Boston Brahmin background, educated at Harvard College and [[Harvard Law School]]. He served in the U.S. Army during World War II and joined the CIA in 1950. His early career included work in Asia, including involvement in the [[Philippines]] operations under [[Edward Lansdale]]. He rose rapidly through the clandestine service, becoming Chief of the Far East Division before his assignment as Chief of the Western Hemisphere Division in 1963.
 
 His assignment to the Western Hemisphere Division came after [[William Harvey]]'s removal to [[Rome]] following the Cuban Missile Crisis. FitzGerald inherited responsibility for the CIA's anti-Castro operations at a moment when [[Operation Mongoose]] had been formally suspended but covert pressure on Cuba continued under different organizational structures.[^1]
 

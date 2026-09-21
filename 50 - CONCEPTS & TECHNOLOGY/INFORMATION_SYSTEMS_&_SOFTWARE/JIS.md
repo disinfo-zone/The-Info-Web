@@ -16,7 +16,7 @@ accounting, and jail population management conducted by the six jurisdictions th
 - Pima County (Tucson), Arizona
 - Jefferson County (Louisville), Kentucky
 - Orange County (Orlando), Florida
-- Middlesex County (New Brunswick), New Jersey
+- Middlesex County (New Brunswick), [[New Jersey]]
 
 ### Operation
 

@@ -19,7 +19,7 @@ died: 2014-03-19
 location: "Fort Sill, Oklahoma"
 ---
 
-Lawrence Edward Walsh was born January 8, 1912, in Fort Sill, Oklahoma. He died March 19, 2014, in Oklahoma City. He served as a federal prosecutor and judge in New York, as Deputy Attorney General under Eisenhower, as a deputy U.S. representative to the United Nations under Eisenhower and briefly under Kennedy, and as a senior partner at Davis Polk & Wardwell in New York before his appointment as Iran-Contra Independent Counsel in December 1986. His investigation was the most extensive Independent Counsel inquiry in American history to that date.[^1]
+Lawrence Edward Walsh was born January 8, 1912, in Fort Sill, Oklahoma. He died March 19, 2014, in [[Oklahoma City]]. He served as a federal prosecutor and judge in New York, as Deputy Attorney General under Eisenhower, as a deputy U.S. representative to the United Nations under Eisenhower and briefly under Kennedy, and as a senior partner at Davis Polk & Wardwell in New York before his appointment as Iran-Contra Independent Counsel in December 1986. His investigation was the most extensive Independent Counsel inquiry in American history to that date.[^1]
 
 ### Appointment and Mandate
 

@@ -34,7 +34,7 @@ In the case styled Doe v. United States, No. 08-80736, brought by victims includ
 
 In a later ruling, Marra declined to invalidate the non-prosecution agreement itself, noting that Epstein had died and that rescission would not restore the victims' position, and he held that the victims were not entitled to monetary damages from the government under the statute. The decisions established the CVRA violation as a finding of fact while leaving the underlying agreement in place.[^6]
 
-The victims' broader effort to overturn the agreement ultimately failed at the appellate level. In April 2021 the United States Court of Appeals for the Eleventh Circuit, sitting en banc, ruled in Wild's case that the CVRA's protections did not attach before the government filed formal charges, and that because no federal charges had been filed against Epstein, the statute did not give the victims a remedy to set aside the pre-charge agreement. The ruling left the CVRA finding of a conferral failure intact while denying the victims the relief they had sought.[^6]
+The victims' broader effort to overturn the agreement ultimately failed at the appellate level. In April 2021 the [[United States Court of Appeals for the Eleventh Circuit]], sitting en banc, ruled in Wild's case that the CVRA's protections did not attach before the government filed formal charges, and that because no federal charges had been filed against Epstein, the statute did not give the victims a remedy to set aside the pre-charge agreement. The ruling left the CVRA finding of a conferral failure intact while denying the victims the relief they had sought.[^6]
 
 ### DOJ Office of Professional Responsibility Report
 
@@ -54,7 +54,7 @@ In September 2025 Acosta appeared for a closed-door deposition before the [[Hous
 
 ### Intelligence Claim
 
-In a July 2019 article for [[The Daily Beast|The Daily Beast]], journalist [[Vicky Ward|Vicky Ward]] reported that, according to an anonymous former senior White House official, Acosta had explained the lenient Epstein deal during his Labor Secretary vetting by saying he had been told that Epstein "belonged to intelligence" and to "leave it alone" because the matter was above his pay grade. Ward's report attributed the account to a single unnamed source, and commentators noted the source could not be independently confirmed. Ward had reported on Epstein for years and had earlier written a 2003 profile of him for Vanity Fair.[^10]
+In a July 2019 article for [[The Daily Beast|The Daily Beast]], journalist [[Vicky Ward|Vicky Ward]] reported that, according to an anonymous former senior [[White House]] official, Acosta had explained the lenient Epstein deal during his Labor Secretary vetting by saying he had been told that Epstein "belonged to intelligence" and to "leave it alone" because the matter was above his pay grade. Ward's report attributed the account to a single unnamed source, and commentators noted the source could not be independently confirmed. Ward had reported on Epstein for years and had earlier written a 2003 profile of him for Vanity Fair.[^10]
 
 Acosta disputed the characterization. Asked about the reporting at his July 2019 press conference, he said he would "hesitate to take this reporting as fact." Under oath to Justice Department investigators he answered "no" when asked whether he had knowledge of Epstein being an intelligence asset, and the OPR review reported that none of the subjects it interviewed believed Epstein to have been an intelligence asset.[^11][^7]
 

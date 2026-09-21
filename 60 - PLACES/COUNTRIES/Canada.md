@@ -13,7 +13,7 @@ updated: 2026-05-17
 location: "Ottawa, Ontario, Canada"
 ---
 
-Canada is a federal parliamentary democracy occupying the northern portion of the North American continent, sharing the world's longest undefended international border with the [[United States]]. Canada's modern intelligence and security apparatus developed from wartime cooperation in [[World War II]] through the [[British Security Co-ordination]] (BSC) - [[William Stephenson]]'s New York-based organization that operated from Canadian diplomatic cover and worked closely with the [[Office of Strategic Services]] to coordinate Allied intelligence in the western hemisphere. Canada became a founding member of the [[Five Eyes]] intelligence-sharing alliance with the United States, United Kingdom, Australia, and New Zealand.[^1]
+Canada is a federal parliamentary democracy occupying the northern portion of the North American continent, sharing the world's longest undefended international border with the [[United States]]. Canada's modern intelligence and security apparatus developed from wartime cooperation in [[World War II]] through the [[British Security Co-ordination]] (BSC) - [[William Stephenson]]'s New York-based organization that operated from Canadian diplomatic cover and worked closely with the [[Office of Strategic Services]] to coordinate Allied intelligence in the western hemisphere. Canada became a founding member of the [[Five Eyes]] intelligence-sharing alliance with the United States, United Kingdom, Australia, and [[New Zealand]].[^1]
 
 ### MKULTRA and McGill University
 

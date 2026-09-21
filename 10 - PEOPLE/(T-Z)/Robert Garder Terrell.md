@@ -21,7 +21,7 @@ Robert Garder Terrell -- known within [[The Finders]] as "Tobe Terrell" and in s
 
 ### Background and Role Within The Finders
 
-Terrell had a prior career as an appeals officer with the Internal Revenue Service before becoming associated with [[Marion Pettie]] and The Finders. He held the warehouse at 1307 Fourth Street NE in Washington D.C. -- the group's primary male residence and operational hub -- in his name as owner of record.[^1]
+Terrell had a prior career as an appeals officer with the [[Internal Revenue Service]] before becoming associated with [[Marion Pettie]] and The Finders. He held the warehouse at 1307 Fourth Street NE in Washington D.C. -- the group's primary male residence and operational hub -- in his name as owner of record.[^1]
 
 Within the group, Terrell managed what he called the "Invisible Bank" -- a pooled communal fund into which members contributed finances, in some cases including life savings.[^2] He was a certified public accountant and handled the group's finances in this capacity. He was also associated with Future Enterprises as a computer trainer. The CIA confirmed in 1993 that it had sent employees to Future Enterprises for computer training during the 1980s; CIA spokesman David Christian described Terrell's role there as that of a "part-time accountant," though Terrell's own descriptions of his work at the company described computer training.[^3]
 
@@ -29,7 +29,7 @@ Within the group, Terrell managed what he called the "Invisible Bank" -- a poole
 
 When the two Finders members were arrested in Tallahassee on February 4, 1987, and federal and Metropolitan Police investigators subsequently raided the warehouse and Glover Park properties, Terrell functioned as the group's public face. He was identified in contemporaneous reporting as the group's spokesman and made statements to journalists in the days following the raids.[^1]
 
-On March 11, 1987, as a Florida judge ruled on custody of the six children involved in the Tallahassee case, Terrell announced to the press that The Finders were "breaking up" after approximately seventeen years of operation: "You won't hear from the Finders again until the year 2000." On March 23, 1987, he gave a follow-up statement to the Associated Press confirming the group's dissolution.[^1][^2]
+On March 11, 1987, as a Florida judge ruled on custody of the six children involved in the Tallahassee case, Terrell announced to the press that The Finders were "breaking up" after approximately seventeen years of operation: "You won't hear from the Finders again until the year 2000." On March 23, 1987, he gave a follow-up statement to the [[Associated Press]] confirming the group's dissolution.[^1][^2]
 
 The announcement of dissolution did not prevent the group's continued investigation. U.S. Customs records document that a U.S. Customs proposal to remove agent [[Ramon J. Martinez]] from his position in 1994 cited his disclosure of case information to a co-worker of someone under investigation. Activity was also observed at the former warehouse address as late as October 1991, when Metropolitan Police officers found well-dressed men with children entering the building after midnight.[^1]
 

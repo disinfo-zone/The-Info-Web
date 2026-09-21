@@ -30,7 +30,7 @@ Takhistov had a documented history of posting in [[Terrorgram Collective]] chann
 
 Takhistov was arrested on July 10, 2024, and made his initial appearance before U.S. Magistrate Judge [[Leda Dunn Wettre]] in Newark federal court, where he was detained. He was charged with one count of soliciting destruction of an energy facility under 18 U.S.C. § 1366(b), which carries a maximum penalty of 10 years in prison and a $125,000 fine.
 
-The charge was filed as a complaint by the U.S. Attorney's Office for the District of New Jersey. Plea status was unresolved as of May 2026.[^2]
+The charge was filed as a complaint by the U.S. Attorney's Office for the District of [[New Jersey]]. Plea status was unresolved as of May 2026.[^2]
 
 ### Footnotes
 

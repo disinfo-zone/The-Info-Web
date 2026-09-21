@@ -14,7 +14,7 @@ DEA agent [[Celerino Castillo|Celerino Castillo III]] began firing off reports t
 
 ### NSC and CIA Operations
 
-The National Security Council, based in the White House, became an operational intelligence agency during the Reagan administration. [[Oliver North]] ran the Contra resupply operation from the NSC, coordinating weapons shipments and managing "The Enterprise." CIA agent [[Felix Rodriguez]] traveled to Washington for final approval of his mission to manage Ilopango before deploying. Former CIA officer [[Alan Fiers]] testified that Rodriguez was sent to El Salvador as part of a formal CIA reorganization directed from Washington.[^3]
+The National Security Council, based in the [[White House]], became an operational intelligence agency during the Reagan administration. [[Oliver North]] ran the Contra resupply operation from the NSC, coordinating weapons shipments and managing "The Enterprise." CIA agent [[Felix Rodriguez]] traveled to Washington for final approval of his mission to manage Ilopango before deploying. Former CIA officer [[Alan Fiers]] testified that Rodriguez was sent to El Salvador as part of a formal CIA reorganization directed from Washington.[^3]
 
 ### Congressional Investigations
 

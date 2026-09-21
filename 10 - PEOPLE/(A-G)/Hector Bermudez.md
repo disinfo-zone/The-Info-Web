@@ -23,7 +23,7 @@ Greggy's Cult operated using methods that would define the [[764 Network|764]] n
 
 ### Federal Charges (United States v. Bermudez, 1:25-cr-00361)
 
-A federal grand jury in the [[Eastern District of New York]] returned an indictment unsealed on December 2, 2025, charging Bermudez alongside four co-defendants: [[Zachary Dosch]] (26, Albuquerque, New Mexico), [[Rumaldo Valdez]] (22, Wahiawa, Hawaii), [[David Brilhante]] (28, San Diego, California), and [[Camden Rodriguez]] (22, Longmont, Colorado). The case number is 1:25-cr-00361 (PKC).[^2]
+A federal grand jury in the [[Eastern District of New York]] returned an indictment unsealed on December 2, 2025, charging Bermudez alongside four co-defendants: [[Zachary Dosch]] (26, Albuquerque, [[New Mexico]]), [[Rumaldo Valdez]] (22, Wahiawa, Hawaii), [[David Brilhante]] (28, San Diego, California), and [[Camden Rodriguez]] (22, Longmont, Colorado). The case number is 1:25-cr-00361 (PKC).[^2]
 
 The 10-count indictment charged: engaging in a child exploitation enterprise, conspiracy to produce child pornography, conspiracy to receive and distribute child pornography, and conspiracy to communicate interstate threats. The alleged criminal conduct covered January 2020 through January 2021.[^2]
 

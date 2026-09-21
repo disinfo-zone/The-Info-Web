@@ -18,7 +18,7 @@ Seth Rosenfeld was an investigative reporter for the San Francisco Examiner whos
 
 ### The Frogman Case Expose
 
-In spring 1986, Rosenfeld broke the story of the [[Frogman Case|Frogman drug case]], exposing the [[Department of Justice|Justice Department]]'s handling of the $36,000 found in [[Julio Zavala]]'s nightstand in 1983. Rosenfeld reported Zavala's claim from prison that he had personally delivered about $500,000 in drug profits to the [[Contras]] in [[Costa Rica]]. Rosenfeld also unearthed [[Carlos Cabezas]]'s long-buried testimony about selling [[Horacio Pereira|Horacio Pereira's]] cocaine to raise money for the Contra revolution. Coming on the heels of Associated Press reports about Contra cocaine trafficking, Rosenfeld's story provided the first hard evidence of a Contra drug ring operating in the United States.[^1]
+In spring 1986, Rosenfeld broke the story of the [[Frogman Case|Frogman drug case]], exposing the [[Department of Justice|Justice Department]]'s handling of the $36,000 found in [[Julio Zavala]]'s nightstand in 1983. Rosenfeld reported Zavala's claim from prison that he had personally delivered about $500,000 in drug profits to the [[Contras]] in [[Costa Rica]]. Rosenfeld also unearthed [[Carlos Cabezas]]'s long-buried testimony about selling [[Horacio Pereira|Horacio Pereira's]] cocaine to raise money for the Contra revolution. Coming on the heels of [[Associated Press]] reports about Contra cocaine trafficking, Rosenfeld's story provided the first hard evidence of a Contra drug ring operating in the United States.[^1]
 
 ### The Meneses Expose
 

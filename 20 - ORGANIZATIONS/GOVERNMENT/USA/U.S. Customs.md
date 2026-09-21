@@ -8,7 +8,7 @@ tags:
   - 1980s
 summary: U.S. federal law enforcement agency responsible for border protection and customs enforcement that investigated Contra-connected cocaine trafficking through informants including Joseph Kelso.
 ---
-U.S. Customs and Border Protection (U.S. Customs) is a federal law enforcement agency responsible for protecting the borders of the [[United States]].[^1]
+[[U.S. Customs and Border Protection]] (U.S. Customs) is a federal law enforcement agency responsible for protecting the borders of the [[United States]].[^1]
 
 ### Contra War Role
 

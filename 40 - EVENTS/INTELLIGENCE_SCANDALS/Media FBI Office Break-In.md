@@ -29,7 +29,7 @@ The group's identities remained unknown until 2014, when five members went publi
 
 ### The Documents and Their Distribution
 
-The group mailed packets of documents to multiple journalists and to Representative Parren Mitchell (D-Maryland). Several major newspapers, including the Washington Post, New York Times, and Los Angeles Times, received the documents. Most held them initially. The Los Angeles Times published a story within days. The Washington Post's Ben Bagdikian received and published documents, working with reporters including Betty Medsger; the Justice Department requested the Post not publish, and the Post ultimately decided to publish.[^1]
+The group mailed packets of documents to multiple journalists and to Representative Parren Mitchell (D-Maryland). Several major newspapers, including the Washington Post, New York Times, and Los Angeles Times, received the documents. Most held them initially. The Los Angeles Times published a story within days. [[The Washington Post]]'s Ben Bagdikian received and published documents, working with reporters including Betty Medsger; the Justice Department requested the Post not publish, and the Post ultimately decided to publish.[^1]
 
 The documents included bureaucratic records with the word "COINTELPRO" in their headers - the program had never been publicly named and its existence was not known outside the FBI. The documents revealed that the FBI had been infiltrating and disrupting legal political organizations, opening mail, maintaining informants in campus and civil rights organizations, and preparing regular reports on the political views of American citizens.[^1]
 

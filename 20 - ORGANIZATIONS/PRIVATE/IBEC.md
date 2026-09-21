@@ -20,7 +20,7 @@ The International Basic Economy Corporation (IBEC) was a private corporation fou
 
 ### Origins and Philosophy
 
-Rockefeller designed IBEC after his 1946 firing from the State Department on the principle that what he called "basic economy" (food production, processing, retailing, housing, and utilities) could be made profitable in Latin America while simultaneously serving development goals. This doubled as a political argument: private American capital, not state-directed development, should be the engine of Latin American economic progress. It was a direct counter to the nationalist state-development programs championed by leaders like Brazil's [[Getulio Vargas]] and, later, [[Joao Goulart]].[^2]
+Rockefeller designed IBEC after his 1946 firing from the State Department on the principle that what he called "basic economy" (food production, processing, retailing, housing, and utilities) could be made profitable in [[Latin America]] while simultaneously serving development goals. This doubled as a political argument: private American capital, not state-directed development, should be the engine of Latin American economic progress. It was a direct counter to the nationalist state-development programs championed by leaders like Brazil's [[Getulio Vargas]] and, later, [[Joao Goulart]].[^2]
 
 IBEC's structure was designed to attract local Latin American investment alongside Rockefeller capital, presenting a "joint venture" face that distinguished it from Standard Oil-style straight extraction. In practice, IBEC maintained controlling interests and Rockefeller family management across its portfolio.[^3]
 

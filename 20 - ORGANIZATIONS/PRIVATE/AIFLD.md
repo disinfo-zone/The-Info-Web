@@ -18,7 +18,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-The American Institute for Free Labor Development (AIFLD) was established in 1962 as the [[AFL-CIO]]'s Latin American arm, jointly funded by the US government (through [[USAID]]), major US corporations, and the CIA. Its stated mission was to build democratic trade unions throughout Latin America as a counterweight to communist labor organizing. In practice, AIFLD played a documented role in the destabilization campaigns that preceded the 1964 Brazilian coup deposing President [[Joao Goulart]], the 1963 general strike that toppled [[Cheddi Jagan]]'s elected government in [[British Guiana]], and the 1973 Chilean coup against President [[Salvador Allende]].[^1]
+The American Institute for Free Labor Development (AIFLD) was established in 1962 as the [[AFL-CIO]]'s Latin American arm, jointly funded by the US government (through [[USAID]]), major US corporations, and the CIA. Its stated mission was to build democratic trade unions throughout [[Latin America]] as a counterweight to communist labor organizing. In practice, AIFLD played a documented role in the destabilization campaigns that preceded the 1964 Brazilian coup deposing President [[Joao Goulart]], the 1963 general strike that toppled [[Cheddi Jagan]]'s elected government in [[British Guiana]], and the 1973 Chilean coup against President [[Salvador Allende]].[^1]
 
 AIFLD was shut down in 1997 and reorganized along with three sister institutes into the [[American Center for International Labor Solidarity]] (the Solidarity Center), under AFL-CIO president [[John Sweeney]].[^2]
 
@@ -90,7 +90,7 @@ AIFLD's training programs went beyond labor organizing to include civic and poli
 
 ### Congressional Scrutiny
 
-The Senate Foreign Relations Committee held hearings on AIFLD on August 1, 1969, examining its structure, funding, and activities. The Church Committee (the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, 1975-1976) examined the CIA's use of private organizational structures, including labor institutions, as pass-throughs for covert operations funding. Victor Reuther, a senior official of the United Auto Workers, told reporters in 1966 that [[Jay Lovestone]] and the AFL-CIO were "involved" with the CIA, criticizing AIFLD's role in the Brazilian coup; journalistic exposés the following year substantiated his claims by revealing the CIA's ties to the labor federation.[^23]
+The [[Senate Foreign Relations Committee]] held hearings on AIFLD on August 1, 1969, examining its structure, funding, and activities. The Church Committee (the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, 1975-1976) examined the CIA's use of private organizational structures, including labor institutions, as pass-throughs for covert operations funding. Victor Reuther, a senior official of the United Auto Workers, told reporters in 1966 that [[Jay Lovestone]] and the AFL-CIO were "involved" with the CIA, criticizing AIFLD's role in the Brazilian coup; journalistic exposés the following year substantiated his claims by revealing the CIA's ties to the labor federation.[^23]
 
 ### Footnotes
 

@@ -40,7 +40,7 @@ On March 17, 2021, the [[Office of the Director of National Intelligence]] (ODNI
 
 The unclassified summary identified white supremacist extremists as the domestic violent extremist (DVE) actors with "the most persistent and concerning transnational connections" because of "like-minded individuals" existing outside the United States, and noted that "a small number" of racially or ethnically motivated extremists had "traveled abroad to network." The summary did not name specific organizations (RIM, [[The Base]], [[Atomwaffen Division]]) or Russia by name in the released unclassified text.
 
-The document was the first ODNI threat assessment to include domestic violent extremism as a formal category. Classified versions were briefed to congressional oversight committees (Senate Select Committee on Intelligence; House Permanent Select Committee on Intelligence). The unclassified summary is available at: https://www.dni.gov/files/ODNI/documents/assessments/UnclassSummaryofDVEAssessment-17MAR21.pdf[^3]
+The document was the first ODNI threat assessment to include domestic violent extremism as a formal category. Classified versions were briefed to congressional oversight committees ([[Senate Select Committee on Intelligence]]; [[House Permanent Select Committee on Intelligence]]). The unclassified summary is available at: https://www.dni.gov/files/ODNI/documents/assessments/UnclassSummaryofDVEAssessment-17MAR21.pdf[^3]
 
 ### House Homeland Security Subcommittee Hearing (July 16, 2020)
 

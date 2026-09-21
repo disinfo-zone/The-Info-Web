@@ -15,13 +15,13 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-David Rockefeller (1915-2017), the youngest of the five sons of [[John D. Rockefeller Jr.]], built [[Chase Manhattan Bank]] into the dominant US financial institution in Latin America and, through that platform, extended the Rockefeller family's economic influence deeper into the hemisphere than any other single vehicle. Where his brother [[Nelson Rockefeller]] operated through government appointments, private development corporations ([[IBEC]], [[AIA]]), and intelligence-community connections, David's instrument was the bank, which held major commercial loans across Latin America, manipulated credit conditions in Brazil in the run-up to the 1964 coup, and financed the corporate penetration of the Amazon basin that followed.
+David Rockefeller (1915-2017), the youngest of the five sons of [[John D. Rockefeller Jr.]], built [[Chase Manhattan Bank]] into the dominant US financial institution in [[Latin America]] and, through that platform, extended the Rockefeller family's economic influence deeper into the hemisphere than any other single vehicle. Where his brother [[Nelson Rockefeller]] operated through government appointments, private development corporations ([[IBEC]], [[AIA]]), and intelligence-community connections, David's instrument was the bank, which held major commercial loans across Latin America, manipulated credit conditions in Brazil in the run-up to the 1964 coup, and financed the corporate penetration of the Amazon basin that followed.
 
 ### Chase Manhattan and Latin America
 
 Chase Manhattan Bank, which David joined in 1946 and led as president from 1961 and chairman from 1969 to 1981, was deeply invested in the Brazilian economy through commercial loans, trade finance, and correspondent banking relationships with Brazilian industrial firms. In the period before the April 1964 coup deposing President [[Joao Goulart]], Chase's management of credit conditions contributed to the economic instability the coup required. David's willingness to use the bank's leverage as a political instrument was documented in reporting by Gerard Colby and Charlotte Dennett, who cited Rockefeller family sources for the coordination between Chase's Brazil operations and the broader destabilization campaign.[^1]
 
-After the 1964 coup, the new [[Humberto Castelo Branco]] military government reversed Goulart's restrictions on profit remittances and foreign investment, immediately improving Chase's operating environment in Brazil. Chase moved aggressively into the Brazilian market in the post-coup years, as did Standard Oil of New Jersey's Esso subsidiary and other US corporations whose interests had been constrained under Goulart.
+After the 1964 coup, the new [[Humberto Castelo Branco]] military government reversed Goulart's restrictions on profit remittances and foreign investment, immediately improving Chase's operating environment in Brazil. Chase moved aggressively into the Brazilian market in the post-coup years, as did Standard Oil of [[New Jersey]]'s Esso subsidiary and other US corporations whose interests had been constrained under Goulart.
 
 ### Amazon Holdings
 

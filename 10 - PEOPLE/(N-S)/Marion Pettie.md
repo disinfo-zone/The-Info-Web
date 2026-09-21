@@ -18,7 +18,7 @@ Marion David Pettie (1920-2003) was the founder and leader of [[The Finders]], a
 
 Pettie was born in 1920 in Culpeper, Virginia, where his family had lived for what he described as ten generations. He dropped out of school after ninth grade. He served in the [[U.S. Army]] before and during World War II, later transitioning to or serving within the U.S. Air Force, where he attained the rank of Master Sergeant. He retired from the Air Force in 1956.[^2]
 
-From at least the 1940s, Pettie hosted open-house gatherings at his Washington D.C. residence. He described these as self-financed social events that drew intelligence figures, diplomats, journalists, and others. Pettie stated in a 1996 interview with the Washington City Paper that he had studied intelligence agencies since the 1930s, tracking the evolution from the Office of Naval Intelligence through the [[Office of Strategic Services|OSS]] to the CIA.[^2]
+From at least the 1940s, Pettie hosted open-house gatherings at his Washington D.C. residence. He described these as self-financed social events that drew intelligence figures, diplomats, journalists, and others. Pettie stated in a 1996 interview with the Washington City Paper that he had studied intelligence agencies since the 1930s, tracking the evolution from the [[Office of Naval Intelligence]] through the [[Office of Strategic Services|OSS]] to the CIA.[^2]
 
 ### Alleged Intelligence Connections
 

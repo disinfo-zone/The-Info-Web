@@ -11,7 +11,7 @@ created: 2026-05-14
 updated: 2026-05-17
 ---
 
-The Camp David Accords were the product of secret negotiations held September 5-17, 1978, between Egyptian President [[Anwar Sadat]] and Israeli Prime Minister [[Menachem Begin]], brokered by U.S. President [[Jimmy Carter]] at the Camp David presidential retreat in Maryland. The thirteen-day summit ended with two framework agreements signed on September 17, 1978: "A Framework for Peace in the Middle East" and "A Framework for the Conclusion of a Peace Treaty Between Egypt and Israel."[^1]
+The Camp David Accords were the product of secret negotiations held September 5-17, 1978, between Egyptian President [[Anwar Sadat]] and Israeli Prime Minister [[Menachem Begin]], brokered by U.S. President [[Jimmy Carter]] at the Camp David presidential retreat in Maryland. The thirteen-day summit ended with two framework agreements signed on September 17, 1978: "A Framework for Peace in the [[Middle East]]" and "A Framework for the Conclusion of a Peace Treaty Between Egypt and Israel."[^1]
 
 The first framework established principles for Palestinian autonomy in the West Bank and Gaza and committed Israel, Egypt, Jordan, and Palestinian representatives to negotiate an agreement within five years. That broader framework produced no subsequent treaty. The second led directly to the Egypt-Israel Peace Treaty, signed on March 26, 1979 - the first peace agreement between Israel and any of its Arab neighbors.[^1]
 

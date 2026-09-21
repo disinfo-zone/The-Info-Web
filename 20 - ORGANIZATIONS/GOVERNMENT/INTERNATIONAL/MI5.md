@@ -13,7 +13,7 @@ updated: 2026-05-15
 location: "London, United Kingdom"
 ---
 
-MI5, formally the Security Service, is the [[United Kingdom]]'s domestic counterintelligence and security intelligence agency, responsible for protecting the UK from threats including espionage, terrorism, and sabotage. Founded in 1909 as the Home Section of the Secret Service Bureau, MI5 operates under the authority of the Home Secretary and is distinct from [[MI6]] (the Secret Intelligence Service), which handles foreign intelligence. MI5 is headquartered at Thames House on Millbank, London. Its Director General reports to the Home Secretary; notable Directors General have included Roger Hollis (1956-1965) and Stella Rimington (1992-1996, the first woman in the role and the first Director General whose name was publicly acknowledged).[^1]
+MI5, formally the Security Service, is the [[United Kingdom]]'s domestic counterintelligence and security intelligence agency, responsible for protecting the UK from threats including espionage, terrorism, and sabotage. Founded in 1909 as the Home Section of the Secret Service Bureau, MI5 operates under the authority of the Home Secretary and is distinct from [[MI6]] (the [[Secret Intelligence Service]]), which handles foreign intelligence. MI5 is headquartered at Thames House on Millbank, London. Its Director General reports to the Home Secretary; notable Directors General have included Roger Hollis (1956-1965) and Stella Rimington (1992-1996, the first woman in the role and the first Director General whose name was publicly acknowledged).[^1]
 
 ### Cold War Counterintelligence
 

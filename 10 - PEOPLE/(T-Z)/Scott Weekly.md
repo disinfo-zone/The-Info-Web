@@ -20,7 +20,7 @@ Scott Weekly, nicknamed "Dr. Death" for his SEAL demolition expertise, was a for
 
 ### Background
 
-Weekly was a classmate of [[Oliver North]] at the Naval Academy before being "kicked out in 1968 because of the buildup of a large number of demerits." He joined the SEALs, became a demolition and weapons expert, and earned two Bronze Stars in Vietnam. A federal public defender described him in 1987 as "some sort of a combination between John Wayne and Rambo and Oliver North, perhaps, and James Bond." A U.S. Customs agent told federal investigators his SEAL service gave him "contacts in the intelligence community, including the CIA and NSA."[^1]
+Weekly was a classmate of [[Oliver North]] at the Naval Academy before being "kicked out in 1968 because of the buildup of a large number of demerits." He joined the SEALs, became a demolition and weapons expert, and earned two Bronze Stars in Vietnam. A federal public defender described him in 1987 as "some sort of a combination between [[John Wayne]] and Rambo and Oliver North, perhaps, and James Bond." A U.S. Customs agent told federal investigators his SEAL service gave him "contacts in the intelligence community, including the CIA and NSA."[^1]
 
 ### Operation Lazarus
 

@@ -43,7 +43,7 @@ Blake subsequently betrayed an estimated 40 Western agents - individuals working
 
 ### Exposure and Trial
 
-Blake was exposed in 1961 following information provided by a Polish intelligence defector, Michał Goleniewski, who had information about a British MI6 officer who had worked with the KGB. Blake was confronted by MI6 officers in April 1961 and confessed. He was tried at the Old Bailey in London, convicted on five counts of passing information useful to an enemy, and sentenced to 42 years in prison - at the time the longest sentence ever imposed by a British court. The judge sentenced him to consecutive terms of 14, 14, and 14 years, one for each count of espionage he considered most serious.[^1]
+Blake was exposed in 1961 following information provided by a Polish intelligence defector, Michał Goleniewski, who had information about a British MI6 officer who had worked with the KGB. Blake was confronted by MI6 officers in April 1961 and confessed. He was tried at the [[Old Bailey]] in London, convicted on five counts of passing information useful to an enemy, and sentenced to 42 years in prison - at the time the longest sentence ever imposed by a British court. The judge sentenced him to consecutive terms of 14, 14, and 14 years, one for each count of espionage he considered most serious.[^1]
 
 ### Escape from Wormwood Scrubs
 

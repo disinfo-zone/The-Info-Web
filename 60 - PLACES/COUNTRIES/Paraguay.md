@@ -21,7 +21,7 @@ The [[Central Intelligence Agency]] maintained a close working relationship with
 
 ### Operation Condor
 
-Paraguay was one of the six founding participants in [[Operation Condor]] alongside [[Chile]] (under [[Augusto Pinochet]]), [[Argentina]], [[Uruguay]], [[Bolivia]], and [[Brazil]]. The DINA-organized founding meeting that established Condor's coordinated intelligence-sharing and assassination architecture occurred in [[Santiago]] in November 1975. Paraguay contributed to Condor's Phase I (information sharing) and Phase II (cross-border operations to capture and kill dissidents who had fled across borders) activities.[^2]
+Paraguay was one of the six founding participants in [[Operation Condor]] alongside [[Chile]] (under [[Augusto Pinochet]]), [[Argentina]], [[Uruguay]], [[Bolivia]], and [[Brazil]]. The [[DINA]]-organized founding meeting that established Condor's coordinated intelligence-sharing and assassination architecture occurred in [[Santiago]] in November 1975. Paraguay contributed to Condor's Phase I (information sharing) and Phase II (cross-border operations to capture and kill dissidents who had fled across borders) activities.[^2]
 
 The "Condor Archive" - approximately 700,000 documents from Paraguay's secret police files discovered in December 1992 by human rights lawyer Martin Almada in a police station in Lambare - provided documentary proof of Condor's operations and the participation of CIA personnel. The archive contained records of cross-border abductions, interrogation transcripts, and communications between the Condor partner services that had been concealed after the transition to democracy.[^2]
 

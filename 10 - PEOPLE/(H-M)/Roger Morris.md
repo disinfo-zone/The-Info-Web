@@ -10,7 +10,7 @@ tags:
   - Dark_Alliance_Investigation
 summary: Historian and former NSC staffer who documented connections between Barry Seal's drug operations at Mena, Arkansas and the CIA.
 ---
-Roger Morris was a historian and former National Security Council staffer who wrote *Partners in Power* (1996), a book about Bill and Hillary Clinton that documented connections between [[Barry Seal]]'s drug-smuggling operations at [[Mena, Arkansas]] and the CIA.[^1]
+Roger Morris was a historian and former National Security Council staffer who wrote *Partners in Power* (1996), a book about Bill and [[Hillary Clinton]] that documented connections between [[Barry Seal]]'s drug-smuggling operations at [[Mena, Arkansas]] and the CIA.[^1]
 
 ### Barry Seal and CIA Connections
 

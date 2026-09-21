@@ -29,7 +29,7 @@ The operation was run openly. The assistant regional security officer for the U.
 
 [[Central Intelligence Agency]] records show Hangar No. 4 was used by the Agency for covert Contra operations until it was turned over in 1985 to the National Security Council and Oliver North's illegal arms network, "The Enterprise." CIA agent Felix Rodriguez also used Hangar No. 4 for his helicopter-based counterinsurgency program. The adjoining Hangar No. 5 continued to be used by the CIA in support of the Contra project.[^1]
 
-In March 1986, a cable from the Costa Rican [[DEA]] office reported that a pilot named Carlos Amador intended to fly into Ilopango, pick up cocaine at Hangar No. 4, and transport it to [[Miami]]. Amador had been working with the CIA for years, flying missions for the Costa Rican Contras. The CIA had collected information for at least a year indicating Amador was also flying drug planes between [[Costa Rica]], [[Panama]], Belize, and Miami for a pair of major cocaine traffickers, the Sarcovic brothers, at the same time he was flying for the White House.[^1]
+In March 1986, a cable from the Costa Rican [[DEA]] office reported that a pilot named Carlos Amador intended to fly into Ilopango, pick up cocaine at Hangar No. 4, and transport it to [[Miami]]. Amador had been working with the CIA for years, flying missions for the Costa Rican Contras. The CIA had collected information for at least a year indicating Amador was also flying drug planes between [[Costa Rica]], [[Panama]], Belize, and Miami for a pair of major cocaine traffickers, the Sarcovic brothers, at the same time he was flying for the [[White House]].[^1]
 
 ### Drug Trafficking
 

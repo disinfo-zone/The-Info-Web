@@ -13,7 +13,7 @@ updated: 2026-05-14
 location: "Cheltenham, Gloucestershire, United Kingdom"
 ---
 
-Government Communications Headquarters (GCHQ) is the United Kingdom's signals intelligence (SIGINT) and information assurance agency, located at two sites in Cheltenham, Gloucestershire. It operates under Foreign and Commonwealth Office ministerial authority and is one of three intelligence agencies overseen by the Intelligence and Security Committee of Parliament, alongside [[MI5]] and [[MI6]]. GCHQ employs approximately 5,000-6,000 personnel and operates alongside the [[NSA|National Security Agency]] as the two dominant signals intelligence agencies in the Western world.[^1]
+Government Communications Headquarters (GCHQ) is the United Kingdom's signals intelligence (SIGINT) and information assurance agency, located at two sites in Cheltenham, Gloucestershire. It operates under [[Foreign and Commonwealth Office]] ministerial authority and is one of three intelligence agencies overseen by the Intelligence and Security Committee of Parliament, alongside [[MI5]] and [[MI6]]. GCHQ employs approximately 5,000-6,000 personnel and operates alongside the [[NSA|National Security Agency]] as the two dominant signals intelligence agencies in the Western world.[^1]
 
 ### Origins and UKUSA Agreement
 

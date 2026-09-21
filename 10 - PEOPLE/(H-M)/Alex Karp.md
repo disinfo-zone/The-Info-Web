@@ -30,7 +30,7 @@ Interrupted by a protester at the Hill and Valley Forum at the U.S. Capitol on A
 
 ### The Technological Republic
 
-Karp published *The Technological Republic: Hard Power, Soft Belief, and the Future of the West*, written with [[Nicholas Zamiska]], through Crown on February 18, 2025, and it became a New York Times bestseller. The book argues that Silicon Valley "lost its way" by chasing "shiny new toys, from phone apps and games to marketing algorithms" and "lifestyle technologies," and that the "engineering elite" must rebuild its ties to government and the military.[^6]
+Karp published *The Technological Republic: Hard Power, Soft Belief, and the Future of the West*, written with [[Nicholas Zamiska]], through Crown on February 18, 2025, and it became a New York Times bestseller. The book argues that [[Silicon Valley]] "lost its way" by chasing "shiny new toys, from phone apps and games to marketing algorithms" and "lifestyle technologies," and that the "engineering elite" must rebuild its ties to government and the military.[^6]
 
 Karp pointed to [[Google]]'s 2018 withdrawal from the Pentagon's Project Maven, under employee pressure, as a warning of what he called self-centered libertarianism, and the book frames a "reassertion of national culture and values" as the precondition for technological power. Critics at Al Jazeera and The Nation read it as a statement of the techno-nationalist politics shared across the Thiel network. By 2026 Karp's net worth was estimated in the range of 13 to 14 billion dollars, having peaked above 16 billion in August 2025 as Palantir's stock climbed.[^6][^12]
 

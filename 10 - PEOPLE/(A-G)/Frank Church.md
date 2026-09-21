@@ -26,7 +26,7 @@ Frank Forrester Church III (July 25, 1924 - April 7, 1984) was a Democratic sena
 
 ### Early Career
 
-Church was born in Boise, Idaho. He served in U.S. Army Military Intelligence during World War II, rising to the rank of Captain. He received his law degree from Stanford in 1950 and was elected to the U.S. Senate from Idaho in 1956 at age 32, one of the youngest senators in history at that time. He became known as a foreign policy critic, opposing the Vietnam War from an early period and chairing the Senate Foreign Relations Committee from 1979 to 1981.[^1]
+Church was born in Boise, Idaho. He served in U.S. Army Military Intelligence during World War II, rising to the rank of Captain. He received his law degree from Stanford in 1950 and was elected to the U.S. Senate from Idaho in 1956 at age 32, one of the youngest senators in history at that time. He became known as a foreign policy critic, opposing the Vietnam War from an early period and chairing the [[Senate Foreign Relations Committee]] from 1979 to 1981.[^1]
 
 ### The Church Committee
 

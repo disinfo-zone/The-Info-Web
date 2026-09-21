@@ -38,7 +38,7 @@ The HSCA documented that in the weeks before the Kennedy assassination, Ruby mad
 
 On November 24, 1963, at 11:21 AM, Ruby was in the Dallas Police headquarters basement with a crowd of journalists waiting to see Oswald transferred to the county jail. As Oswald was brought out in handcuffs, Ruby stepped forward and shot him once in the abdomen at close range. The event was broadcast live on national television. Oswald died ninety minutes later at Parkland Memorial Hospital.
 
-Ruby was immediately arrested. He claimed he acted spontaneously out of grief for Kennedy and a desire to spare [[Jacqueline Kennedy Onassis|Jacqueline Kennedy]] the trauma of a trial. He was tried for murder in March 1964 and convicted; the jury sentenced him to death. His trial attorney was Melvin Belli.[^1]
+Ruby was immediately arrested. He claimed he acted spontaneously out of grief for Kennedy and a desire to spare [[Jacqueline Kennedy Onassis|Jacqueline Kennedy]] the trauma of a trial. He was tried for murder in March 1964 and convicted; the jury sentenced him to death. His trial attorney was [[Melvin Belli]].[^1]
 
 Ruby's conviction was reversed by the Texas Court of Criminal Appeals in October 1966 on grounds that the original trial should have been moved from Dallas due to pretrial publicity. A retrial was ordered in a different Texas venue. Before the retrial could begin, Ruby died of lung cancer on January 3, 1967. He had reportedly told his family and attorneys that he knew more than he had said, and had requested to be taken to Washington for questioning by the Warren Commission under conditions where he felt safe - a request that Warren Commission Chairman [[Earl Warren]] declined.
 

@@ -52,7 +52,7 @@ The company took its initial public offering in September 2020 via a direct list
 
 In January 2024, Palantir announced a strategic partnership with the [[Israeli Ministry of Defense]] to supply technology for "war-related missions" during the [[Gaza war]], following a visit to Israel by Karp and Thiel. The official Palantir statement reads: "We have agreed to a strategic partnership with the Israeli Ministry of Defense to supply Palantir technology to help the country's war effort." [[Bloomberg]] reported the partnership on January 12, 2024, and [[Calcalist]] confirmed the defense-ministry relationship.[^5]
 
-Gotham is marketed on Palantir's own website as supporting soldiers with an "AI-powered kill chain," integrating target identification and targeting capabilities. Karp publicly told [[CNBC]] that the company's technology is being used in the Middle East war. Multiple reports (including [[Middle East Eye]]) link Palantir's Gotham platform to Israeli military operations in Gaza and Lebanon. [[Jeremy Corbyn]] criticized the UK government's 240 million pound Palantir contract for NHS data work in light of the Israeli partnership.[^5]
+Gotham is marketed on Palantir's own website as supporting soldiers with an "AI-powered kill chain," integrating target identification and targeting capabilities. Karp publicly told [[CNBC]] that the company's technology is being used in the [[Middle East]] war. Multiple reports (including [[Middle East Eye]]) link Palantir's Gotham platform to Israeli military operations in Gaza and Lebanon. [[Jeremy Corbyn]] criticized the UK government's 240 million pound Palantir contract for NHS data work in light of the Israeli partnership.[^5]
 
 ### Footnotes
 

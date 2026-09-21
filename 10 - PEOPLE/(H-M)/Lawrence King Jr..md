@@ -17,7 +17,7 @@ Lawrence King Jr. (known as Larry King) was the operator of the Franklin Communi
 
 ### Republican Party Profile
 
-King developed a prominent profile within Nebraska and national Republican Party circles during the 1980s. He chaired the Nebraska Black Republican Council and served as vice chairman for finance of the National Black Republican Council, an affiliate of the Republican National Committee. In January 1985 he was an advisory committee member for President [[Ronald Reagan]]'s second inauguration; his participation is documented in Reagan Presidential Library records (reaganlibrary.gov/public/2023-10/40-819-198416-K-LawrenceKingJr-002-2023.pdf). He performed the national anthem at the 1984 Republican National Convention in Dallas; the performance is archived by C-SPAN (c-span.org/clip/public-affairs-event/user-clip-larry-king-sings-gop-convention-1984/4814862). He hosted parties at the 1988 Republican National Convention in New Orleans at an estimated cost of $100,000.[^1]
+King developed a prominent profile within Nebraska and national Republican Party circles during the 1980s. He chaired the Nebraska Black Republican Council and served as vice chairman for finance of the National Black Republican Council, an affiliate of the [[Republican National Committee]]. In January 1985 he was an advisory committee member for President [[Ronald Reagan]]'s second inauguration; his participation is documented in Reagan Presidential Library records (reaganlibrary.gov/public/2023-10/40-819-198416-K-LawrenceKingJr-002-2023.pdf). He performed the national anthem at the 1984 Republican National Convention in Dallas; the performance is archived by C-SPAN (c-span.org/clip/public-affairs-event/user-clip-larry-king-sings-gop-convention-1984/4814862). He hosted parties at the 1988 Republican National Convention in New Orleans at an estimated cost of $100,000.[^1]
 
 ### Federal Case
 
@@ -33,7 +33,7 @@ The investigation and its context are documented in the [[Franklin Credit Union 
 
 ### Connection to Craig Spence
 
-Contemporary Washington Times reporting connected King to [[Craig Spence]], a Washington D.C. lobbyist documented in June-November 1989 journalism to have arranged late-night White House tours with male prostitutes and to have maintained connections in Republican Party social circles. The nature and extent of King's relationship with Spence was documented in contemporary reporting but not in any government record.[^3]
+Contemporary Washington Times reporting connected King to [[Craig Spence]], a Washington D.C. lobbyist documented in June-November 1989 journalism to have arranged late-night [[White House]] tours with male prostitutes and to have maintained connections in Republican Party social circles. The nature and extent of King's relationship with Spence was documented in contemporary reporting but not in any government record.[^3]
 
 ### Footnotes
 

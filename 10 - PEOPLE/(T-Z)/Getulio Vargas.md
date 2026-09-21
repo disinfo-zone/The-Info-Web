@@ -17,7 +17,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-Getulio Dornelles Vargas (April 19, 1882 - August 24, 1954) was Brazil's most consequential twentieth-century political figure, a nationalist strongman who served as president from 1930 to 1945 (ending with a US-backed coup) and again from 1950 to 1954 (ending with his own suicide on the eve of a second US-backed military intervention). His economic nationalist program, particularly his 1940 Amazonian development plan ("A Marcha para o Oeste") proposing state control of Amazon natural resources, directly conflicted with the Rockefeller network's plans for the hemisphere, and his removal on October 29, 1945 by US-encouraged military coup was what Brazilian and American historians have called "Latin America's first Cold War coup."[^1]
+Getulio Dornelles Vargas (April 19, 1882 - August 24, 1954) was Brazil's most consequential twentieth-century political figure, a nationalist strongman who served as president from 1930 to 1945 (ending with a US-backed coup) and again from 1950 to 1954 (ending with his own suicide on the eve of a second US-backed military intervention). His economic nationalist program, particularly his 1940 Amazonian development plan ("A Marcha para o Oeste") proposing state control of Amazon natural resources, directly conflicted with the Rockefeller network's plans for the hemisphere, and his removal on October 29, 1945 by US-encouraged military coup was what Brazilian and American historians have called "[[Latin America]]'s first Cold War coup."[^1]
 
 ### Estado Novo and the Wartime Relationship
 

@@ -9,7 +9,7 @@ summary: "International evangelical Christian humanitarian organization alleged 
 created: 2026-06-03
 updated: 2026-06-03
 ---
-World Vision International is an evangelical Christian humanitarian organization founded in 1950 by [[Robert Pierce]] that operates in over 100 countries. Multiple researchers and journalists have alleged that World Vision served as a front organization for [[CIA]] operations during the [[Cold War]], particularly in [[Southeast Asia]] and [[Central America]]. The organization has received significant funding from [[USAID]], the United States Agency for International Development, which has documented historical ties to intelligence agencies.[^1][^2]
+World Vision International is an evangelical Christian humanitarian organization founded in 1950 by [[Robert Pierce]] that operates in over 100 countries. Multiple researchers and journalists have alleged that World Vision served as a front organization for [[CIA]] operations during the [[Cold War]], particularly in [[Southeast Asia]] and [[Central America]]. The organization has received significant funding from [[USAID]], the [[United States Agency for International Development]], which has documented historical ties to intelligence agencies.[^1][^2]
 
 ### CIA Front Allegations: Vietnam, Phoenix Program, Central America
 

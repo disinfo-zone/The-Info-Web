@@ -12,7 +12,7 @@ summary: "The United States Army Intelligence and Security Command (INSCOM) is t
 start: 1977
 location: "Fort Meade, Maryland"
 ---
-The United States Army Intelligence and Security Command (INSCOM) was formed from the merger of the [[U.S. Army Intelligence Agency]] (USAINTA) and the [[Army Security Agency]] (ASA) which in particular was being used by the [[NSA]] as a source of readily available labor. INSCOM continues to collaborate with the NSA, but maintains more [[U.S. Army]] control of the process. 
+The [[United States Army Intelligence]] and Security Command (INSCOM) was formed from the merger of the [[U.S. Army Intelligence Agency]] (USAINTA) and the [[Army Security Agency]] (ASA) which in particular was being used by the [[NSA]] as a source of readily available labor. INSCOM continues to collaborate with the NSA, but maintains more [[U.S. Army]] control of the process. 
 
 This merger was organized at [[Arlington Hall Station]], VA and officially occurred on October 1, 1977. General [[William Rolya]] was the first commanding officer. The headquarters was moved to [[Fort Meade]] where the ASA and other groups were originally stationed.
 

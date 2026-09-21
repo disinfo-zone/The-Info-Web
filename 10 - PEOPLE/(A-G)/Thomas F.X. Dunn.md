@@ -7,7 +7,7 @@ tags:
 summary: "Dunn was assigned to Ben-Menashe's case pursuant to the Criminal Justice Act after Ben-Menashe had spent 75 days in jail."
 ---
 
-[[Thomas F.X. Dunn]] was a New York-born, Irish-Catholic lawyer who represented [[Ari Ben-Menashe]] during his trial for conspiracy to sell [[C-130]] aircraft to [[Iran]]. Despite his initial lack of knowledge about the Middle East, [[Israel]], or the international intelligence scene, he developed a deep understanding of the complex case.[^1]
+[[Thomas F.X. Dunn]] was a New York-born, Irish-Catholic lawyer who represented [[Ari Ben-Menashe]] during his trial for conspiracy to sell [[C-130]] aircraft to [[Iran]]. Despite his initial lack of knowledge about the [[Middle East]], [[Israel]], or the international intelligence scene, he developed a deep understanding of the complex case.[^1]
 
 Dunn was assigned to [[Ari Ben-Menashe|Ben-Menashe]]'s case pursuant to the [[Criminal Justice Act]] after [[Ari Ben-Menashe|Ben-Menashe]] had spent 75 days in jail. He worked to prove that [[Ari Ben-Menashe|Ben-Menashe]] was acting on behalf of the [[Israel|Israeli]] government with the knowledge of the [[United States|U.S.]] government, rather than as an illegal arms dealer. He faced challenges due to the [[Israel|Israeli]] government's initial denial of [[Ari Ben-Menashe|Ben-Menashe's]] employment and later claims that he was only a low-level translator.[^1]
 

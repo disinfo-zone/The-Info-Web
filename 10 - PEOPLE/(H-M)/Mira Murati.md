@@ -32,7 +32,7 @@ On September 25, 2024, Murati announced that she was leaving OpenAI, writing tha
 
 ### Thinking Machines Lab
 
-In February 2025 Murati launched Thinking Machines Lab, a research company she founded with a team drawn heavily from OpenAI, including the cofounder and reinforcement-learning pioneer [[John Schulman]] as chief scientist, [[Barret Zoph]] as chief technology officer, and early staff such as [[Bob McGrew]], [[Lilian Weng]], [[Andrew Tulloch]], and [[Luke Metz]]. In July 2025 the company closed a roughly 2-billion-dollar seed round at a 12-billion-dollar valuation, led by [[Andreessen Horowitz]], a deal reported as among the largest seed rounds in Silicon Valley history.[^5][^6]
+In February 2025 Murati launched Thinking Machines Lab, a research company she founded with a team drawn heavily from OpenAI, including the cofounder and reinforcement-learning pioneer [[John Schulman]] as chief scientist, [[Barret Zoph]] as chief technology officer, and early staff such as [[Bob McGrew]], [[Lilian Weng]], [[Andrew Tulloch]], and [[Luke Metz]]. In July 2025 the company closed a roughly 2-billion-dollar seed round at a 12-billion-dollar valuation, led by [[Andreessen Horowitz]], a deal reported as among the largest seed rounds in [[Silicon Valley]] history.[^5][^6]
 
 Murati positioned the company around accessible, customizable AI and an open-research posture, saying the lab would unveil its first work within months and would include "a significant open source offering" for researchers and startups building their own models. Bloomberg reported in 2026 that the company was in talks for a funding round that would value it near 50 billion dollars.[^6][^7]
 

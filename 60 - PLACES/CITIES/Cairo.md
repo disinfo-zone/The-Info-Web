@@ -12,7 +12,7 @@ updated: 2026-05-17
 location: "Cairo, Egypt"
 ---
 
-Cairo (Al-Qahirah) is the capital and largest city of [[Egypt]], with a metropolitan population of approximately 20 million, making it the largest city in Africa and the Arab world. Situated on the Nile River near the apex of the Nile Delta, Cairo has been Egypt's political, cultural, and administrative center since its founding in 969 CE. As the seat of the Egyptian government, it is the base of the [[Mukhabarat]] (General Intelligence Service) and the meeting point for Arab intelligence services across the Middle East.[^1]
+Cairo (Al-Qahirah) is the capital and largest city of [[Egypt]], with a metropolitan population of approximately 20 million, making it the largest city in Africa and the Arab world. Situated on the Nile River near the apex of the Nile Delta, Cairo has been Egypt's political, cultural, and administrative center since its founding in 969 CE. As the seat of the Egyptian government, it is the base of the [[Mukhabarat]] (General Intelligence Service) and the meeting point for Arab intelligence services across the [[Middle East]].[^1]
 
 ### Intelligence Hub
 

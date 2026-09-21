@@ -13,7 +13,7 @@ updated: 2026-05-17
 location: "The Hague, Netherlands"
 ---
 
-The Netherlands is a constitutional monarchy in northwestern [[Europe]], bordered by [[Germany]], [[Belgium]], and the North Sea, with overseas territories in the Caribbean. Its capital is [[Amsterdam]] and its governmental seat is The Hague, which also hosts the [[International Court of Justice]] and the [[International Criminal Court]]. The Netherlands has a long tradition of liberal social policies and press freedom, which made it a notable host country for organizations and publications that were restricted elsewhere.[^1]
+The Netherlands is a constitutional monarchy in northwestern [[Europe]], bordered by [[Germany]], [[Belgium]], and the [[North Sea]], with overseas territories in the Caribbean. Its capital is [[Amsterdam]] and its governmental seat is The Hague, which also hosts the [[International Court of Justice]] and the [[International Criminal Court]]. The Netherlands has a long tradition of liberal social policies and press freedom, which made it a notable host country for organizations and publications that were restricted elsewhere.[^1]
 
 ### Pedophile Networks and the Rolodex Investigation
 

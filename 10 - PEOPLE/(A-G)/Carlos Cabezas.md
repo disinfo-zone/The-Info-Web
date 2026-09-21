@@ -22,7 +22,7 @@ Carlos Augusto Cabezas Ramirez was a [[Nicaragua|Nicaraguan]] exile, former [[Ni
 
 By age fourteen Cabezas was helping his mother support nine brothers and sisters. In 1970 he went to the [[United States]], spending four years studying to become a commercial pilot while working nights as a janitor. He returned to Nicaragua with his pilot's license, joined the National Guard, and flew for [[Anastasio Somoza|Somoza]]'s army while managing a crop-dusting company on the side.[^2]
 
-Cabezas later enrolled in the National University of Nicaragua, earned an accounting degree, and was hired by the Bank of America, becoming head of the [[Managua]] branch's foreign division. He obtained a law degree in 1978 and set up a practice in Managua. Near the end of the war, Cabezas participated in the terror bombings of the city of Masaya. On July 15, 1979, four days before the shooting stopped, he caught the last flight out of Managua.[^2]
+Cabezas later enrolled in the National University of Nicaragua, earned an accounting degree, and was hired by the [[Bank of America]], becoming head of the [[Managua]] branch's foreign division. He obtained a law degree in 1978 and set up a practice in Managua. Near the end of the war, Cabezas participated in the terror bombings of the city of Masaya. On July 15, 1979, four days before the shooting stopped, he caught the last flight out of Managua.[^2]
 
 ### Life in San Francisco
 

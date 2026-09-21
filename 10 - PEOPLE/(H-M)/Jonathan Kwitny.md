@@ -24,7 +24,7 @@ Among the key findings Kwitny reported: [[Michael Hand]], the bank's American co
 
 ### Endless Enemies
 
-*Endless Enemies: The Making of an Unfriendly World* (Congdon and Weed, 1984) documented Kwitny's thesis that American covert interventions and support for repressive regimes consistently created the conditions for blowback - producing enemies rather than allies. The book drew on Kwitny's reporting from Africa, Asia, Latin America, and the Middle East to argue that the logic of anti-Communist intervention had systematically damaged American interests by associating the United States with corrupt and brutal governments. The book received positive reviews from foreign policy analysts and won the George Polk Award for journalism.[^1]
+*Endless Enemies: The Making of an Unfriendly World* (Congdon and Weed, 1984) documented Kwitny's thesis that American covert interventions and support for repressive regimes consistently created the conditions for blowback - producing enemies rather than allies. The book drew on Kwitny's reporting from Africa, Asia, [[Latin America]], and the [[Middle East]] to argue that the logic of anti-Communist intervention had systematically damaged American interests by associating the United States with corrupt and brutal governments. The book received positive reviews from foreign policy analysts and won the George Polk Award for journalism.[^1]
 
 ### Vicious Circles
 

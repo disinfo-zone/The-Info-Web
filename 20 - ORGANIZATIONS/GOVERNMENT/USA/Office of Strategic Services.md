@@ -34,7 +34,7 @@ Charles Howard "Dick" Ellis (1895-1975), BSC's deputy director under Stephenson,
 
 ### Operations
 
-OSS operations ran through several branches: Research and Analysis (intelligence analysis, drawing on academics recruited from major universities), Secret Intelligence (HUMINT collection), Special Operations (sabotage and partisan warfare support), Morale Operations (psychological warfare), and X-2 (counterintelligence). OSS deployed operatives throughout occupied Europe, the Middle East, and Asia. Notable operations included support for resistance movements in France, Italy, Yugoslavia, and Norway.
+OSS operations ran through several branches: Research and Analysis (intelligence analysis, drawing on academics recruited from major universities), Secret Intelligence (HUMINT collection), Special Operations (sabotage and partisan warfare support), Morale Operations (psychological warfare), and X-2 (counterintelligence). OSS deployed operatives throughout occupied Europe, the [[Middle East]], and Asia. Notable operations included support for resistance movements in France, Italy, Yugoslavia, and Norway.
 
 Allen Dulles directed OSS operations in Switzerland from November 1942 through the war's end, developing a European intelligence network that became the foundation for the CIA's clandestine service. He subsequently became CIA Director from 1953 to 1961.[^1]
 

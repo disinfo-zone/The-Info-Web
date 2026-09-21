@@ -21,7 +21,7 @@ Despite their past collaboration, Gunderson faced limitations in disclosing nume
 
 [[Danny Casolaro]], the investigative journalist, maintained contact with Gunderson during his "The Octopus" investigation. Casolaro confirmed that Ralph Olberg's project to provide arms assistance to the Afghan rebels was legally sanctioned and operated through the State Department and Senator Humphrey's office.[^1]
 
-Throughout his career, Gunderson encountered significant challenges and obstruction in his efforts to expose corruption. He observed a "turf battle problem" between Ralph Olberg's group and certain factions within the [[Central Intelligence Agency|CIA]] and their group, MSH ([[Management Science For Health]]), concerning the legitimate representation of the Afghan rebel leadership. His attempts to facilitate Michael Riconosciuto's entry into the Witness Protection Program ultimately proved unsuccessful, as federal agencies, including the FBI, demonstrated reluctance to fully cooperate or acknowledge Riconosciuto's claims.[^1]
+Throughout his career, Gunderson encountered significant challenges and obstruction in his efforts to expose corruption. He observed a "turf battle problem" between Ralph Olberg's group and certain factions within the [[Central Intelligence Agency|CIA]] and their group, MSH ([[Management Science For Health]]), concerning the legitimate representation of the Afghan rebel leadership. His attempts to facilitate Michael Riconosciuto's entry into the [[Witness Protection Program]] ultimately proved unsuccessful, as federal agencies, including the FBI, demonstrated reluctance to fully cooperate or acknowledge Riconosciuto's claims.[^1]
 
 ### The Finders Investigation
 

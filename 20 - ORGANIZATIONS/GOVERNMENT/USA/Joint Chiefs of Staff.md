@@ -18,7 +18,7 @@ The Joint Chiefs of Staff (JCS) are the body of senior uniformed leaders of the 
 
 ### Operation Northwoods
 
-In March 1962 the Joint Chiefs, under Chairman [[Lyman Lemnitzer]], approved and forwarded to Secretary of Defense [[Robert S. McNamara]] a plan code-named Operation Northwoods, which proposed manufacturing pretexts for war with [[Cuba]], including staged terrorist attacks on American soil and the faked shoot-down of civilian aircraft to be blamed on the [[Fidel Castro|Castro]] government. The civilian leadership rejected the plan, and it remained classified until its release in 1997 through the [[John F. Kennedy|Kennedy]] Assassination Records Review Board.[^2]
+In March 1962 the Joint Chiefs, under Chairman [[Lyman Lemnitzer]], approved and forwarded to Secretary of Defense [[Robert S. McNamara]] a plan code-named Operation Northwoods, which proposed manufacturing pretexts for war with [[Cuba]], including staged terrorist attacks on American soil and the faked shoot-down of civilian aircraft to be blamed on the [[Fidel Castro|Castro]] government. The civilian leadership rejected the plan, and it remained classified until its release in 1997 through the [[John F. Kennedy|Kennedy]] [[Assassination Records Review Board]].[^2]
 
 ### Counterinsurgency Oversight
 

@@ -23,7 +23,7 @@ Chamath Palihapitiya (born September 3, 1976) is a Sri Lankan-born Canadian-Amer
 
 Palihapitiya was born in Sri Lanka and raised in Ottawa, Canada, after his family emigrated when he was a small child and remained in Canada following his father's posting to the Sri Lankan diplomatic mission. He has described a financially precarious childhood and work at a Burger King from the age of fourteen. He took a degree in electrical engineering from the University of Waterloo in 1999 and began his career as an associate at the Canadian bank BMO Nesbitt Burns.[^2]
 
-He moved to Silicon Valley and held roles at the music-software maker Winamp and at AOL, where he ran the instant-messaging division, before joining Facebook in 2007. At Facebook he led the user-growth organization, the team credited with the data-driven acquisition and retention methods that carried the service toward one billion users. He left Facebook in 2011. His compensation at Facebook was paid substantially in equity, and the stake became the basis of the fortune he carried into venture investing, though no reputable source has published a specific figure for its size at his departure.[^2][^3]
+He moved to [[Silicon Valley]] and held roles at the music-software maker Winamp and at AOL, where he ran the instant-messaging division, before joining Facebook in 2007. At Facebook he led the user-growth organization, the team credited with the data-driven acquisition and retention methods that carried the service toward one billion users. He left Facebook in 2011. His compensation at Facebook was paid substantially in equity, and the stake became the basis of the fortune he carried into venture investing, though no reputable source has published a specific figure for its size at his departure.[^2][^3]
 
 ### The 2017 Stanford Remarks
 
@@ -59,7 +59,7 @@ Palihapitiya issued a clarification, writing that he came across "as lacking emp
 
 The All-In Podcast launched on March 19, 2020, with Palihapitiya, Calacanis, Sacks, and Friedberg as the rotating cohosts known as "the besties." The program became a media channel for the cohort's positions on technology regulation, cryptocurrency, and defense procurement. Palihapitiya had been a Democratic donor in earlier election cycles before moving toward the technology-right alignment that the podcast came to represent.[^16]
 
-In 2024 Palihapitiya cohosted a San Francisco fundraiser for [[Donald Trump|Trump]] with Sacks that reporting described as raising roughly 12 million dollars, and the All-In cohosts interviewed Trump on the podcast on June 20, 2024. Federal Election Commission records show Palihapitiya contributed to the 2024 effort to elect Trump. He had earlier held a passive minority stake in the Golden State Warriors, acquired around 2010 to 2011 for roughly 25 million dollars and sold in tranches in December 2021 and July 2022.[^16][^17][^18]
+In 2024 Palihapitiya cohosted a San Francisco fundraiser for [[Donald Trump|Trump]] with Sacks that reporting described as raising roughly 12 million dollars, and the All-In cohosts interviewed Trump on the podcast on June 20, 2024. [[Federal Election Commission]] records show Palihapitiya contributed to the 2024 effort to elect Trump. He had earlier held a passive minority stake in the Golden State Warriors, acquired around 2010 to 2011 for roughly 25 million dollars and sold in tranches in December 2021 and July 2022.[^16][^17][^18]
 
 ### Footnotes
 

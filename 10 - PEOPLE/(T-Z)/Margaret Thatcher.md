@@ -40,7 +40,7 @@ On October 12, 1984, the [[Irish Republican Army]] detonated a long-delay bomb a
 
 ### Resignation and Legacy
 
-Thatcher resigned as Prime Minister on November 28, 1990, following a leadership challenge by Michael Heseltine that revealed she could not win the second ballot. She was succeeded by John Major. She was elevated to the House of Lords as Baroness Thatcher of Kesteven in 1992. She died on April 8, 2013, at The Ritz hotel in London, following a stroke, aged 87.[^1]
+Thatcher resigned as Prime Minister on November 28, 1990, following a leadership challenge by [[Michael Heseltine]] that revealed she could not win the second ballot. She was succeeded by [[John Major]]. She was elevated to the House of Lords as Baroness Thatcher of Kesteven in 1992. She died on April 8, 2013, at The Ritz hotel in London, following a stroke, aged 87.[^1]
 
 ### Footnotes
 

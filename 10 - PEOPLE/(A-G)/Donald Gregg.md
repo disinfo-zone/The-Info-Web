@@ -20,7 +20,7 @@ died: 2021-03-15
 location: "New York, New York"
 ---
 
-Donald Phinney Gregg was born May 22, 1927, in New York. He died March 15, 2021. He graduated from Williams College and joined the [[Central Intelligence Agency|CIA]] in 1951, serving for more than three decades in a career that included significant East Asian assignments before his transition to the White House. He served as National Security Adviser to Vice President [[George H.W. Bush]] from 1982 to 1989, and as U.S. Ambassador to South Korea from 1989 to 1993.[^1]
+Donald Phinney Gregg was born May 22, 1927, in New York. He died March 15, 2021. He graduated from Williams College and joined the [[Central Intelligence Agency|CIA]] in 1951, serving for more than three decades in a career that included significant East Asian assignments before his transition to the [[White House]]. He served as National Security Adviser to Vice President [[George H.W. Bush]] from 1982 to 1989, and as U.S. Ambassador to South Korea from 1989 to 1993.[^1]
 
 ### CIA Career
 
@@ -34,7 +34,7 @@ Gregg's most significant Iran-Contra connection was through [[Felix Rodriguez]] 
 
 Gregg testified before Congress that he had not known Rodriguez was involved in Contra resupply, stating that Rodriguez had briefed him on his activities but had not disclosed the specific Contra connection until after the Hasenfus shootdown. Congressional investigators questioned whether this was plausible given Rodriguez's documented communications with Gregg and a schedule notation in Gregg's files that appeared to reference a "resupply" operation. The discrepancy became a central issue in Gregg's Senate confirmation hearings for the Korea ambassadorship.[^1]
 
-The Senate Foreign Relations Committee confirmed Gregg's ambassadorial nomination in June 1989 after protracted hearings. Senator John Kerry, who was conducting a parallel investigation into Contra drug trafficking, had used the nomination hearings to press Gregg on his knowledge of Contra operations. Gregg maintained throughout that he had not known Rodriguez was running a covert supply network.[^1]
+The [[Senate Foreign Relations Committee]] confirmed Gregg's ambassadorial nomination in June 1989 after protracted hearings. Senator John Kerry, who was conducting a parallel investigation into Contra drug trafficking, had used the nomination hearings to press Gregg on his knowledge of Contra operations. Gregg maintained throughout that he had not known Rodriguez was running a covert supply network.[^1]
 
 ### October Surprise Allegations
 

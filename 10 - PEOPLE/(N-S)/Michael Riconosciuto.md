@@ -42,7 +42,7 @@ Beyond PROMIS, Riconosciuto was involved in advanced technological projects, inc
 
 ### Legal Troubles and Witness Protection Attempts
 
-Following his arrest, Riconosciuto attempted multiple times to trade information with federal authorities, including the [[Federal Bureau of Investigation|FBI]] and [[Bureau of Alcohol, Tobacco, Firearms and Explosives|BATF]], in exchange for entry into a Witness Protection Program. He offered to expose high-level corruption, drug trafficking, and money laundering operations, including those involving [[Robert Booth Nichols]], [[Michael Abbell]], and the [[Cali Drug Cartel]]. However, these attempts were largely unsuccessful, with authorities often expressing skepticism or facing internal resistance to his claims.[^1]
+Following his arrest, Riconosciuto attempted multiple times to trade information with federal authorities, including the [[Federal Bureau of Investigation|FBI]] and [[Bureau of Alcohol, Tobacco, Firearms and Explosives|BATF]], in exchange for entry into a [[Witness Protection Program]]. He offered to expose high-level corruption, drug trafficking, and money laundering operations, including those involving [[Robert Booth Nichols]], [[Michael Abbell]], and the [[Cali Drug Cartel]]. However, these attempts were largely unsuccessful, with authorities often expressing skepticism or facing internal resistance to his claims.[^1]
 
 ### Relationship with Danny Casolaro
 

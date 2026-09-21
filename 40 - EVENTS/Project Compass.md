@@ -18,7 +18,7 @@ summary: "Project Compass is a Europol-coordinated 28-country law enforcement op
 
 ### Scope and Structure
 
-Project Compass is structured as an ongoing operational framework rather than a single coordinated raid, producing rolling arrests across participating countries as individual investigations mature. The 28 participating countries include the United States, United Kingdom, Canada, and multiple European Union member states. The operation is coordinated through Europol's ECTC, which provides intelligence analysis, secure information sharing, and operational coordination for national law enforcement agencies.
+Project Compass is structured as an ongoing operational framework rather than a single coordinated raid, producing rolling arrests across participating countries as individual investigations mature. The 28 participating countries include the United States, United Kingdom, Canada, and multiple [[European Union]] member states. The operation is coordinated through Europol's ECTC, which provides intelligence analysis, secure information sharing, and operational coordination for national law enforcement agencies.
 
 The operation targets the full Com ecosystem including [[The Com]] network's three operational pillars (cybercrime, sextortion, and offline violence), 764 and its [[764 Inferno|Inferno]] inner cell, and related splinter networks including [[No Lives Matter]], [[Kaskar]], and other documented Com subgroups.[^2]
 

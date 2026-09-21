@@ -29,7 +29,7 @@ State and federal investigators brought Valdez's case as possession of violent c
 
 ### Eastern District of New York Indictment
 
-A federal grand jury in the Eastern District of New York unsealed an indictment on December 3, 2025, charging Valdez alongside four co-defendants on 10 counts including engaging in a child exploitation enterprise, producing child pornography, and making interstate threats. The co-defendants were [[Camden Rodriguez]] (22, Longmont, Colorado), [[Zachary Dosch]] (26, Albuquerque, New Mexico - who had separately pleaded guilty in 2022 to cyberstalking and child pornography charges but remained unsentenced), [[David Brilhante]] (28, San Diego, California), and [[Hector Bermudez]] (29, New York). The EDNY case was pending as of Valdez's March 2026 Hawaii sentencing.[^1]
+A federal grand jury in the Eastern District of New York unsealed an indictment on December 3, 2025, charging Valdez alongside four co-defendants on 10 counts including engaging in a child exploitation enterprise, producing child pornography, and making interstate threats. The co-defendants were [[Camden Rodriguez]] (22, Longmont, Colorado), [[Zachary Dosch]] (26, Albuquerque, [[New Mexico]] - who had separately pleaded guilty in 2022 to cyberstalking and child pornography charges but remained unsentenced), [[David Brilhante]] (28, San Diego, California), and [[Hector Bermudez]] (29, New York). The EDNY case was pending as of Valdez's March 2026 Hawaii sentencing.[^1]
 
 ### Footnotes
 

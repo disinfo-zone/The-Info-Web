@@ -12,7 +12,7 @@ category: "Foreign Government"
 summary: "British Intelligence refers to the various intelligence agencies of the United Kingdom, including the Secret Intelligence Service (MI6)."
 ---
 
-[[British Intelligence]] refers to the various intelligence agencies of the United Kingdom, including the Secret Intelligence Service (MI6). During World War II, British Intelligence engaged in a variety of unconventional warfare tactics, including the use of black propaganda and psychological operations.[^1]
+[[British Intelligence]] refers to the various intelligence agencies of the United Kingdom, including the [[Secret Intelligence Service]] (MI6). During World War II, British Intelligence engaged in a variety of unconventional warfare tactics, including the use of black propaganda and psychological operations.[^1]
 
 One notable example was the use of astrologers like [[Sybil Leek]] and [[Louis de Wohl]] to spread disinformation and influence the behavior of high-ranking Nazi officials. These operations highlight the willingness of intelligence agencies to exploit beliefs in the paranormal for strategic advantage.[^1]
 

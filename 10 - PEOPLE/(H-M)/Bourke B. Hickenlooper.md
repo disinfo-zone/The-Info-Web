@@ -10,7 +10,7 @@ died: 1971-09-04
 location: "Blockton, Iowa"
 ---
 
-Bourke B. Hickenlooper was a conservative Republican Senator from [[Iowa]]. He was also chairman of the Joint Committee on Atomic Energy. In a closed session of the Senate Foreign Relations Committee on January 6, 1961, he testily interrupted [[Christian A. Herter]], then Secretary of State, stating, "I think the Israelis have just lied to us like horse thieves on this thing." He accused [[Israel]] of consistently distorting, misrepresenting, and falsifying facts regarding their secret nuclear reactor facility at [[Dimona]].[^1]
+Bourke B. Hickenlooper was a conservative Republican Senator from [[Iowa]]. He was also chairman of the Joint Committee on Atomic Energy. In a closed session of the [[Senate Foreign Relations Committee]] on January 6, 1961, he testily interrupted [[Christian A. Herter]], then Secretary of State, stating, "I think the Israelis have just lied to us like horse thieves on this thing." He accused [[Israel]] of consistently distorting, misrepresenting, and falsifying facts regarding their secret nuclear reactor facility at [[Dimona]].[^1]
 
 ### Footnotes
 

@@ -46,7 +46,7 @@ Danny Casolaro was investigating the BCCI scandal as part of his broader "The Oc
 
 **1981:** Regulators approve the sale of Financial General to Middle Eastern investors connected with BCCI, based on [[Clark Clifford]]'s assurances of no link between BCCI and Financial General Bankshares.[^2]
 
-**1982:** Lance introduces Abedi to [[Jimmy Carter]]. BCCI illegally acquires [[Independence Bank of Encino]] using Ghaith Pharaon as a front man. BCCI helps Adnan Khashoggi finance arms sales to [[Iran]] as part of the [[Reagan Administration]]'s Iran-Contra Affair. BCCI suffers over $440 million in losses from options trading through its subsidiary Capcom.[^2]
+**1982:** Lance introduces Abedi to [[Jimmy Carter]]. BCCI illegally acquires [[Independence Bank of Encino]] using [[Ghaith Pharaon]] as a front man. BCCI helps Adnan Khashoggi finance arms sales to [[Iran]] as part of the [[Reagan Administration]]'s Iran-Contra Affair. BCCI suffers over $440 million in losses from options trading through its subsidiary Capcom.[^2]
 
 **1986:** The [[Central Intelligence Agency]] issues a report stating that BCCI has owned [[First American Bank]] since 1982.[^2]
 

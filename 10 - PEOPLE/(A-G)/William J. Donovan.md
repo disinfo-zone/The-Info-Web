@@ -24,7 +24,7 @@ General William Joseph "Wild Bill" Donovan (January 1, 1883 - February 8, 1959) 
 
 ### Military Career
 
-Donovan served in the U.S. Army during World War I, commanding the 1st Battalion, 165th Infantry Regiment (the "Fighting 69th"). He received the Medal of Honor for his actions during the Meuse-Argonne Offensive in October 1918. Between the wars he practiced law in New York and maintained intelligence-adjacent contacts through his Republican political connections and legal work. He served as U.S. Attorney for the Western District of New York and ran unsuccessfully for Governor of New York in 1932.[^1]
+Donovan served in the U.S. Army during [[World War I]], commanding the 1st Battalion, 165th Infantry Regiment (the "Fighting 69th"). He received the Medal of Honor for his actions during the Meuse-Argonne Offensive in October 1918. Between the wars he practiced law in New York and maintained intelligence-adjacent contacts through his Republican political connections and legal work. He served as U.S. Attorney for the Western District of New York and ran unsuccessfully for Governor of New York in 1932.[^1]
 
 ### Creation of the OSS
 
@@ -34,7 +34,7 @@ Donovan submitted his organizational plan to Roosevelt in July 1941, leading fir
 
 ### OSS Operations
 
-Donovan ran the OSS as a relatively decentralized operation that drew heavily on academic talent - the Research and Analysis Branch was staffed with professors from Harvard, Yale, Columbia, and other major universities - and on the social and professional networks of the American East Coast establishment. The OSS conducted covert operations, resistance support, and psychological warfare across Europe, the Middle East, and Asia. Allen Dulles ran the OSS Switzerland station from 1942 onward, developing the European network that became the CIA's clandestine service foundation.[^1]
+Donovan ran the OSS as a relatively decentralized operation that drew heavily on academic talent - the Research and Analysis Branch was staffed with professors from Harvard, Yale, Columbia, and other major universities - and on the social and professional networks of the American East Coast establishment. The OSS conducted covert operations, resistance support, and psychological warfare across Europe, the [[Middle East]], and Asia. Allen Dulles ran the OSS Switzerland station from 1942 onward, developing the European network that became the CIA's clandestine service foundation.[^1]
 
 ### Mobilizing Science for War
 

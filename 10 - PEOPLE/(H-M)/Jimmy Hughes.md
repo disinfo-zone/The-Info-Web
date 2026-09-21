@@ -10,7 +10,7 @@ summary: "Hughes admitted to a bloody past, stating he became a professional hit
 
 ### Criminal Activities and Government Connections
 
-Hughes admitted to a bloody past, stating he became a professional hit man for the Mafia after a six-year military career. He claimed to have killed numerous people, including half a dozen at a party when he was paid to kill only one man. He also stated that he worked for the [[Central Intelligence Agency|CIA]] in covert missions outside the [[United States]] and that the [[Federal Bureau of Investigation|FBI]] protected him in exchange for information, placing him in a Witness Protection Program.[^1]
+Hughes admitted to a bloody past, stating he became a professional hit man for the Mafia after a six-year military career. He claimed to have killed numerous people, including half a dozen at a party when he was paid to kill only one man. He also stated that he worked for the [[Central Intelligence Agency|CIA]] in covert missions outside the [[United States]] and that the [[Federal Bureau of Investigation|FBI]] protected him in exchange for information, placing him in a [[Witness Protection Program]].[^1]
 
 Hughes was the security director of the [[Cabazon Indian Reservation]] and Bingo operations for four years until early 1984. He reported that he was instructed in [[Dr. John Philip Nichols]]' presence to take $5,000 as partial payment for the [[Fred Alvarez|Alvarez]] killings. He later alleged that [[Dr. John Philip Nichols]] was involved in criminal activities, including issuing contracts to commit murder, and that the gambling enterprises were fronts for U.S. government-sanctioned covert military activities and arms shipments to Central and [[South America]].[^1]
 

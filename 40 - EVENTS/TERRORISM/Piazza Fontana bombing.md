@@ -24,7 +24,7 @@ The Piazza Fontana bombing occurred on December 12, 1969, when a bomb exploded i
 
 ### The Attack
 
-The device was a pressure-cooker bomb containing approximately 7 kilograms of TNT, placed in the central hall of the bank during business hours to maximize casualties. Seventeen people were killed; most were farmers from the Veneto who had traveled to Milan for an agricultural market fair and were waiting in the bank. The three other bombs that day - at a Milan bank, at the Banca Nazionale del Lavoro in Rome, and at the Vittoriano monument in Rome - appear to have been intended to create the impression of a coordinated national campaign.[^1]
+The device was a pressure-cooker bomb containing approximately 7 kilograms of TNT, placed in the central hall of the bank during business hours to maximize casualties. Seventeen people were killed; most were farmers from the Veneto who had traveled to Milan for an agricultural market fair and were waiting in the bank. The three other bombs that day - at a Milan bank, at the [[Banca Nazionale del Lavoro]] in Rome, and at the Vittoriano monument in Rome - appear to have been intended to create the impression of a coordinated national campaign.[^1]
 
 ### The Anarchist Frame
 

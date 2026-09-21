@@ -138,7 +138,7 @@ October 2021: Peacock renewed her call for proscription in response to the Danya
 
 15 September 2023: The Home Office Proscription Factsheet described the proscription review process and criteria in general terms but made no reference to O9A.[^34]
 
-2 July 2025: The House of Commons debated the draft Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2025, which proscribed three new organisations: [[Maniac Murder Cult]] (a US-based accelerationist group with documented O9A and 764 connections), [[Palestine Action]], and the [[Russian Imperial Movement]]. The Order was approved by 385 votes to 26 after a division. O9A was not included. During the debate, the parliamentary chair of [[HOPE not hate]] again urged the government to consider O9A proscription; the minister's response was the standard formula that the government does not comment on groups under or not under consideration. The Order bears SI number 9780348273373.[^35]
+2 July 2025: The [[House of Commons]] debated the draft Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2025, which proscribed three new organisations: [[Maniac Murder Cult]] (a US-based accelerationist group with documented O9A and 764 connections), [[Palestine Action]], and the [[Russian Imperial Movement]]. The Order was approved by 385 votes to 26 after a division. O9A was not included. During the debate, the parliamentary chair of [[HOPE not hate]] again urged the government to consider O9A proscription; the minister's response was the standard formula that the government does not comment on groups under or not under consideration. The Order bears SI number 9780348273373.[^35]
 
 No proscription of O9A has been announced as of mid-2026. The government's consistent refusal to explain the non-decision stands in contrast to the public reasoning given for other proscriptions. When [[National Action]] was proscribed in December 2016, [[Amber Rudd]] made a public statement characterising it as "a racist, antisemitic and homophobic organisation which stirs up hatred, glorifies violence and promotes a vile ideology." No equivalent statement characterising O9A as below the threshold, or as failing the statutory test on structural grounds, has been published.
 
@@ -156,7 +156,7 @@ The gap between O9A's legal status and that of its downstream networks is substa
 
 ### New Zealand Designation
 
-New Zealand designated O9A as a terrorist organisation in 2025, making it one of the few countries to have taken formal legal action against the organisation itself rather than merely prosecuting individual adherents. The OpenSanctions database records the NZ listing; the specific New Zealand Gazette reference and enabling legislation have not been retrieved in this research run and constitute an open thread.[^21]
+[[New Zealand]] designated O9A as a terrorist organisation in 2025, making it one of the few countries to have taken formal legal action against the organisation itself rather than merely prosecuting individual adherents. The OpenSanctions database records the NZ listing; the specific New Zealand Gazette reference and enabling legislation have not been retrieved in this research run and constitute an open thread.[^21]
 
 ### O9A Texts and the British Library
 

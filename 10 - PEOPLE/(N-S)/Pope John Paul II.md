@@ -50,7 +50,7 @@ On May 13, 1981, in St. Peter's Square, Turkish gunman [[Mehmet Ali Ağca]] shot
 
 ### Later Pontificate
 
-John Paul II's active resistance to liberation theology in Latin America, his support for conservative Catholic movements, his theological conservatism on questions of gender and sexuality, and his sustained commitment to anti-communist politics all characterized the later pontificate. He visited Poland twice more during the communist period, in 1983 and 1987. His return to Poland in June 1987, meeting with Wałęsa and massive crowds while martial law's legacy was still present, helped sustain the underground movement through the final years before the 1989 Round Table negotiations.[^1]
+John Paul II's active resistance to liberation theology in [[Latin America]], his support for conservative Catholic movements, his theological conservatism on questions of gender and sexuality, and his sustained commitment to anti-communist politics all characterized the later pontificate. He visited Poland twice more during the communist period, in 1983 and 1987. His return to Poland in June 1987, meeting with Wałęsa and massive crowds while martial law's legacy was still present, helped sustain the underground movement through the final years before the 1989 Round Table negotiations.[^1]
 
 ### Footnotes
 

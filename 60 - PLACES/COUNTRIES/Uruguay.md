@@ -25,7 +25,7 @@ Dan Mitrione, an OPS adviser stationed in Montevideo, was kidnapped by the Tupam
 
 The military coup of June 27, 1973, dissolved the Uruguayan parliament and established a civilian government under military control that shifted to outright military rule in 1976. Uruguay became a founding member of [[Operation Condor]] at the November 1975 Santiago meeting. Uruguayan intelligence (OCOA, Organismo Coordinador de Operaciones Antisubversivas) participated in Phase I and Phase II Condor operations, tracking and returning Uruguayan opponents who had fled to [[Argentina]], [[Chile]], and other Condor partner states.
 
-The assassination in Buenos Aires on May 20, 1976, of former Uruguayan Senators Zelmar Michelini and Hector Gutierrez Ruiz - both abducted and killed by a joint Argentine-Uruguayan Condor team - was among the most prominent Phase II operations. Their murders occurred shortly after the Argentine coup of March 1976, when the new Argentine junta's expanded cooperation with Condor created the conditions for such operations.[^1]
+The assassination in [[Buenos Aires]] on May 20, 1976, of former Uruguayan Senators Zelmar Michelini and Hector Gutierrez Ruiz - both abducted and killed by a joint Argentine-Uruguayan Condor team - was among the most prominent Phase II operations. Their murders occurred shortly after the Argentine coup of March 1976, when the new Argentine junta's expanded cooperation with Condor created the conditions for such operations.[^1]
 
 ### Transition and Accountability
 

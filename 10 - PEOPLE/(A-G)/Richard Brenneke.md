@@ -41,7 +41,7 @@ The acquittal was not a finding that Brenneke had told the truth; it was a findi
 
 ### Senate Investigation
 
-The Senate Foreign Relations Committee’s parallel October Surprise investigation, chaired by Senator John Kerry, treated Brenneke’s testimony more seriously than the House Task Force did. Senate investigators noted that some elements of Brenneke’s account - including the Hotel Raphael location, the participation of certain Iranian intermediaries, and the general timing - were corroborated by other sources independently. The Russian intelligence report submitted to Congress in January 1993, which arrived after the House Task Force had closed, named Casey as attending three meetings with Iranian representatives in Madrid and Paris, consistent with the framework of Brenneke’s account if not its specific details.[^2]
+The [[Senate Foreign Relations Committee]]’s parallel October Surprise investigation, chaired by Senator John Kerry, treated Brenneke’s testimony more seriously than the House Task Force did. Senate investigators noted that some elements of Brenneke’s account - including the Hotel Raphael location, the participation of certain Iranian intermediaries, and the general timing - were corroborated by other sources independently. The Russian intelligence report submitted to Congress in January 1993, which arrived after the House Task Force had closed, named Casey as attending three meetings with Iranian representatives in Madrid and Paris, consistent with the framework of Brenneke’s account if not its specific details.[^2]
 
 ### The Octopus Investigation
 

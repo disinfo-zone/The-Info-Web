@@ -18,11 +18,11 @@ start: 1992-12-01
 location: "Washington, D.C."
 ---
 
-"The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate" was a December 1992 report co-authored by Senators [[John Kerry]] (D-Massachusetts) and [[Hank Brown]] (R-Colorado) summarizing a three-year investigation by the Senate Subcommittee on Terrorism, Narcotics, and International Operations into the [[Bank of Credit and Commerce International|Bank of Credit and Commerce International (BCCI)]]. The 800-page report represented the most comprehensive official account of BCCI's criminal operations and documented the bank's relationships with intelligence agencies including the [[Central Intelligence Agency|CIA]].[^1]
+"The BCCI Affair: A Report to the Committee on Foreign Relations, [[United States Senate]]" was a December 1992 report co-authored by Senators [[John Kerry]] (D-Massachusetts) and [[Hank Brown]] (R-Colorado) summarizing a three-year investigation by the Senate Subcommittee on Terrorism, Narcotics, and International Operations into the [[Bank of Credit and Commerce International|Bank of Credit and Commerce International (BCCI)]]. The 800-page report represented the most comprehensive official account of BCCI's criminal operations and documented the bank's relationships with intelligence agencies including the [[Central Intelligence Agency|CIA]].[^1]
 
 ### Investigation Origins
 
-Kerry's subcommittee investigation began in 1988, predating BCCI's July 1991 shutdown by three years. The subcommittee was originally focused on drug trafficking and money laundering when it first encountered BCCI through its investigation of [[Manuel Noriega]]'s Panamanian bank accounts and the [[Medellín Cartel]]'s financial infrastructure. [[Amjad Awan]], BCCI's manager for Latin America and Noriega's personal banker, became a key witness after his arrest in Tampa in October 1988 as part of a U.S. Customs sting.
+Kerry's subcommittee investigation began in 1988, predating BCCI's July 1991 shutdown by three years. The subcommittee was originally focused on drug trafficking and money laundering when it first encountered BCCI through its investigation of [[Manuel Noriega]]'s Panamanian bank accounts and the [[Medellín Cartel]]'s financial infrastructure. [[Amjad Awan]], BCCI's manager for [[Latin America]] and Noriega's personal banker, became a key witness after his arrest in Tampa in October 1988 as part of a U.S. Customs sting.
 
 The investigation expanded dramatically after Manhattan District Attorney [[Robert Morgenthau]] brought BCCI evidence to Kerry's attention, and after [[Jack Blum]], a former Kerry subcommittee investigator, continued developing sources within and around BCCI independently. The [[Bank of England]]'s forced closure of BCCI in July 1991 and the simultaneous international criminal indictments gave the investigation new impetus.[^1]
 
@@ -40,7 +40,7 @@ Noriega accounts: The report detailed how BCCI had laundered Noriega's looted fu
 
 First American Bank: The report documented how BCCI had illegally acquired control of [[First American Bank]], Washington's largest bank, through nominees including former Secretary of Defense [[Clark Clifford]] and his law partner [[Robert Altman]]. The report found that Clifford had either known of or been deliberately deceived about BCCI's role.
 
-Saddam Hussein accounts: BCCI provided financial services to [[Saddam Hussein]]'s government and facilitated transactions in the [[BNL Scandal|BNL]] (Banca Nazionale del Lavoro) Iraq credit scandal.[^1]
+Saddam Hussein accounts: BCCI provided financial services to [[Saddam Hussein]]'s government and facilitated transactions in the [[BNL Scandal|BNL]] ([[Banca Nazionale del Lavoro]]) Iraq credit scandal.[^1]
 
 ### DOJ Obstruction Finding
 

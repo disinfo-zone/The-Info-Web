@@ -41,7 +41,7 @@ An [[FBI]] agent became aware of CVLT in spring 2020 while investigating a 15-ye
 
 ### Federal Prosecution (United States v. Rane, 2:25-cr-00040)
 
-The federal investigation was conducted by [[Homeland Security Investigations]] (HSI) Los Angeles, HSI Cherry Hill (New Jersey), and HSI Honolulu, in collaboration with the [[Los Angeles Police Department]], [[San Bernardino County Sheriff's Office]], [[Henry County Sheriff's Office]] (Virginia), [[Iowa State University Police Department]] (ISUPD), and Police Nationale (France).[^3]
+The federal investigation was conducted by [[Homeland Security Investigations]] (HSI) Los Angeles, HSI Cherry Hill ([[New Jersey]]), and HSI Honolulu, in collaboration with the [[Los Angeles Police Department]], [[San Bernardino County Sheriff's Office]], [[Henry County Sheriff's Office]] (Virginia), [[Iowa State University Police Department]] (ISUPD), and Police Nationale (France).[^3]
 
 The Iowa State link was critical. In November 2020, an Iowa State University freshman reported to ISUPD that she was being blackmailed with images taken when she was 16. ISUPD Officer [[Kami Feld]] conducted the investigation, issuing subpoenas to electronic service providers including Google, PayPal, Venmo, Instagram, and Facebook. When the subpoenas returned IP activity from Hawaii, Oregon, and California, and revealed a digital wallet address at 4 Goldfield Road in Honolulu, Feld cross-referenced the address and identified it as the residence of Clint Borge, the fourth core leader, whose Discord alias "Whoops" had been known to federal investigators without a real-world identity.[^6]
 

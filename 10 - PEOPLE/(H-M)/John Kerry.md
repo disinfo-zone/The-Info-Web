@@ -16,7 +16,7 @@ summary: "Senator from Massachusetts who chaired the Subcommittee on Terrorism, 
 born: 1943-12-11
 location: "Aurora, Colorado"
 ---
-John Kerry is a former Democratic Senator from [[Massachusetts]] who chaired the Subcommittee on Terrorism, Narcotics, and International Operations of the Senate Foreign Relations Committee.[^1]
+John Kerry is a former Democratic Senator from [[Massachusetts]] who chaired the Subcommittee on Terrorism, Narcotics, and International Operations of the [[Senate Foreign Relations Committee]].[^1]
 
 ### BCCI Investigation
 

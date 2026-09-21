@@ -9,7 +9,7 @@ start: 1846
 location: "New York City"
 ---
 
-The Associated Press (AP) was the news service whose reporters [[Robert Parry]] and Brian Barger broke early stories on [[Contras|Contra]] drug trafficking in the 1980s. Their groundbreaking reporting was suppressed by editors who sat on the story for weeks, heavily edited it, and ultimately spiked it.[^1]
+The [[Associated Press]] (AP) was the news service whose reporters [[Robert Parry]] and Brian Barger broke early stories on [[Contras|Contra]] drug trafficking in the 1980s. Their groundbreaking reporting was suppressed by editors who sat on the story for weeks, heavily edited it, and ultimately spiked it.[^1]
 
 ### Suppressed Reporting
 

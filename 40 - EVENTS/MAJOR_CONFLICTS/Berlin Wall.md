@@ -34,7 +34,7 @@ Crossing attempts used numerous methods: tunnels (including a tunnel dug by West
 
 ### Cold War Symbol
 
-The Wall became the central physical symbol of the [[Cold War]] division of Europe, the Iron Curtain made concrete. President [[John F. Kennedy]]'s June 1963 visit to West Berlin - during which he delivered the "Ich bin ein Berliner" speech - and President [[Ronald Reagan]]'s June 1987 speech at the Brandenburg Gate challenging [[Mikhail Gorbachev]] to "tear down this wall" used the Wall as the backdrop for major American political statements.[^1]
+The Wall became the central physical symbol of the [[Cold War]] division of Europe, the [[Iron Curtain]] made concrete. President [[John F. Kennedy]]'s June 1963 visit to West Berlin - during which he delivered the "Ich bin ein Berliner" speech - and President [[Ronald Reagan]]'s June 1987 speech at the Brandenburg Gate challenging [[Mikhail Gorbachev]] to "tear down this wall" used the Wall as the backdrop for major American political statements.[^1]
 
 For intelligence services, Berlin's divided status created both a surveillance challenge and an operational opportunity. The [[Central Intelligence Agency|CIA]]'s Berlin Base and the [[Bundesnachrichtendienst|BND]] maintained extensive operations in and through the city. The Stasi used the crossing points to monitor, intercept, and sometimes capture Western intelligence assets.[^1]
 

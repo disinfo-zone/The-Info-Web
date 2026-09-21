@@ -166,7 +166,7 @@ After arriving in Miami, BlandÃ³n invested his L.A. drug profits in a string o
 
 BlandÃ³n bought into La Parrilla, a Nicaraguan restaurant co-founded by former National Guard major general [[Gustavo Medina]] and FDN supporter [[Donald Barrios]]. Henry Corrales, BlandÃ³n's former cocaine distributor, also owned a piece. The elegant restaurant became a hangout for Contra leaders and was the site of pro-Contra demonstrations and seminars. The Miami Herald named it "the best Nicaraguan restaurant in Dade [County]" in 1987 and awarded it four stars.[^11]
 
-BlandÃ³n's main investment was Alpha II Rent-a-Car, which began with an office outside Miami International Airport and spread to twenty-four other locations in southern Florida. The business was so successful he became an authorized outlet for Chrysler Corporation and General Motors vehicles.[^11]
+BlandÃ³n's main investment was Alpha II Rent-a-Car, which began with an office outside Miami International Airport and spread to twenty-four other locations in southern Florida. The business was so successful he became an authorized outlet for Chrysler Corporation and [[General Motors]] vehicles.[^11]
 
 ### Continued Drug Oversight
 

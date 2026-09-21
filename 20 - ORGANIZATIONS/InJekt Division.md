@@ -27,7 +27,7 @@ The group's accelerationist ideology centered on the phrase "pray for rain," use
 
 ### Geographic Reach
 
-Documented membership was geographically dispersed: Texas (founding base), New Hampshire, Louisiana, Massachusetts, California, and the New York-Pennsylvania-New Jersey tri-state area. The group operated via cell structure with no formal hierarchical coordination outside the SWT inner circle.[^3]
+Documented membership was geographically dispersed: Texas (founding base), New Hampshire, Louisiana, Massachusetts, California, and the New York-Pennsylvania-[[New Jersey]] tri-state area. The group operated via cell structure with no formal hierarchical coordination outside the SWT inner circle.[^3]
 
 ### Relationship to FKD and the United Acceleration Front
 

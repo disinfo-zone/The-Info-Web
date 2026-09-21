@@ -24,7 +24,7 @@ Al-Kassar's family had connections to the Syrian security establishment; he was 
 
 ### CIA and Intelligence Service Relationships
 
-Al-Kassar reportedly developed relationships with Western intelligence services beginning in the 1970s, providing information and facilitating contacts in the Middle East arms and narcotics markets. These relationships, and their precise nature and extent, were disputed and never fully resolved in public record. During the [[Iran-Contra Affair|Iran-Contra]] period, he simultaneously maintained relationships with multiple services, a position characteristic of well-connected arms brokers who could provide plausible deniability to government-linked operations while operating commercially on their own account.[^2]
+Al-Kassar reportedly developed relationships with Western intelligence services beginning in the 1970s, providing information and facilitating contacts in the [[Middle East]] arms and narcotics markets. These relationships, and their precise nature and extent, were disputed and never fully resolved in public record. During the [[Iran-Contra Affair|Iran-Contra]] period, he simultaneously maintained relationships with multiple services, a position characteristic of well-connected arms brokers who could provide plausible deniability to government-linked operations while operating commercially on their own account.[^2]
 
 ### Iran-Contra Connection
 

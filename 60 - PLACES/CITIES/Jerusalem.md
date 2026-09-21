@@ -13,7 +13,7 @@ updated: 2026-05-17
 location: "Jerusalem, Israel/Palestine"
 ---
 
-Jerusalem is an ancient city in the Middle East, situated on a plateau in the Judaean Mountains between the Mediterranean Sea and the Dead Sea. It has been continuously inhabited for at least five millennia and is a holy site for Judaism, Christianity, and Islam. Following the [[Arab-Israeli War (1948-1949)|1948 Arab-Israeli War]], the city was divided between [[Israel]] (West Jerusalem) and [[Jordan]] (East Jerusalem, including the Old City). Israel captured East Jerusalem and the West Bank in the [[Six-Day War]] of June 1967 and subsequently proclaimed the united city its capital - a claim not recognized by most of the international community, which maintains that the city's final status must be determined by negotiation.[^1]
+Jerusalem is an ancient city in the [[Middle East]], situated on a plateau in the Judaean Mountains between the Mediterranean Sea and the Dead Sea. It has been continuously inhabited for at least five millennia and is a holy site for Judaism, Christianity, and Islam. Following the [[Arab-Israeli War (1948-1949)|1948 Arab-Israeli War]], the city was divided between [[Israel]] (West Jerusalem) and [[Jordan]] (East Jerusalem, including the Old City). Israel captured East Jerusalem and the West Bank in the [[Six-Day War]] of June 1967 and subsequently proclaimed the united city its capital - a claim not recognized by most of the international community, which maintains that the city's final status must be determined by negotiation.[^1]
 
 ### Political and Intelligence Significance
 

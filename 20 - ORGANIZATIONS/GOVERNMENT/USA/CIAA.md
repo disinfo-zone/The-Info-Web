@@ -15,7 +15,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-The Office of the Coordinator of Inter-American Affairs (CIAA) was a wartime US government agency created on August 16, 1940, by order of the [[Council of National Defense]] and placed under the direction of [[Nelson Rockefeller]]. Its official mandate was to promote hemispheric solidarity and counter Axis influence in Latin America; in practice it functioned as the first official US propaganda operation, a vehicle for expanding American corporate dominance in the hemisphere, and a testing ground for the psychological warfare and covert operations techniques that would be institutionalized in the postwar [[CIA]].[^1]
+The Office of the Coordinator of Inter-American Affairs (CIAA) was a wartime US government agency created on August 16, 1940, by order of the [[Council of National Defense]] and placed under the direction of [[Nelson Rockefeller]]. Its official mandate was to promote hemispheric solidarity and counter Axis influence in [[Latin America]]; in practice it functioned as the first official US propaganda operation, a vehicle for expanding American corporate dominance in the hemisphere, and a testing ground for the psychological warfare and covert operations techniques that would be institutionalized in the postwar [[CIA]].[^1]
 
 The agency began as the Office for Coordination of Commercial and Cultural Relations between the American Republics (OCCCRBAR) and was formally placed within the Executive Office of the President by Executive Order 8840, signed July 30, 1941, by President [[Franklin D. Roosevelt]]. The office was renamed the Office of Inter-American Affairs (OIAA) by Executive Order 9532 on March 23, 1945, under incoming director [[Wallace Harrison]], and dissolved by Executive Order 9710 on April 10, 1946, effective May 20, 1946, when all remaining functions and subsidiary corporations were transferred to the [[State Department]].[^2]
 
@@ -51,7 +51,7 @@ The CIAA controlled Latin American press access to newsprint, a critical wartime
 
 Hollywood studios were pressured to deny films to theaters showing German or Italian content, and the CIAA filled the vacuum with its own newsreels and political films. In early 1941 the CIAA reached out to [[Walt Disney]], whose studio had been facing financial difficulty; Nelson Rockefeller arranged a government-underwritten goodwill tour of South America for Disney and roughly twenty composers, artists, and technicians. The tour produced *Saludos Amigos*, which premiered in Rio de Janeiro on August 24, 1942, and opened in the United States on February 6, 1943, and *The Three Caballeros* (1944). Both films were shown throughout Latin America using CIAA mobile projectors. The CIAA sponsored goodwill tours by [[Orson Welles]], [[Bing Crosby]], [[George Balanchine]], and [[John Ford]] in 1941-1943.[^14]
 
-The CIAA's Publications and Information Division, run by [[Francis Jamieson]] (a Pulitzer Prize-winning reporter and future Rockefeller campaign manager), produced the magazine *En Guardia* (registered with the US Postal Office on April 8, 1941, with the first issue in summer 1941 and the third issue circulating in October). Circulation reached 750,000 copies per issue by peak production, distributed free to politicians, journalists, and business executives. Propaganda posters and editorial cartoons were produced through contractors coordinated by Jamieson's New York office; these materials are documented in NARA Record Group 229, series "Propaganda Materials, 1941-1945" (NAID 540082) and "Status of Projects Reports, 1942-1945" (NAID 2067594).[^15]
+The CIAA's Publications and Information Division, run by [[Francis Jamieson]] (a [[Pulitzer Prize]]-winning reporter and future Rockefeller campaign manager), produced the magazine *En Guardia* (registered with the US Postal Office on April 8, 1941, with the first issue in summer 1941 and the third issue circulating in October). Circulation reached 750,000 copies per issue by peak production, distributed free to politicians, journalists, and business executives. Propaganda posters and editorial cartoons were produced through contractors coordinated by Jamieson's New York office; these materials are documented in NARA Record Group 229, series "Propaganda Materials, 1941-1945" (NAID 540082) and "Status of Projects Reports, 1942-1945" (NAID 2067594).[^15]
 
 ### Aviation and Infrastructure
 
@@ -59,7 +59,7 @@ The CIAA funded and coordinated displacement of Axis-affiliated airlines from So
 
 The trans-Andean highway to [[Pucallpa]], Peru, funded by the CIAA, passed within fifteen miles of the [[Ganso Azul]] oil field, the Amazon basin's only proven petroleum source at the time. This highway also enabled the [[Summer Institute of Linguistics]] to establish its Amazonian base at [[Yarinacocha]] adjacent to the road.[^17]
 
-Record Group 229 at NARA includes a Department of Transportation series totaling 129 linear feet, documenting CIAA aviation, ocean shipping, railway, and highway programs across the hemisphere.[^18]
+Record Group 229 at NARA includes a [[Department of Transportation]] series totaling 129 linear feet, documenting CIAA aviation, ocean shipping, railway, and highway programs across the hemisphere.[^18]
 
 ### Rubber Program and the Amazon
 

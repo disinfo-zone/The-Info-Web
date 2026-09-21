@@ -18,7 +18,7 @@ SAVAK (Sazman-e Ettelaat va Amniyat-e Keshvar, Organization of National Intellig
 
 SAVAK was created in the aftermath of the 1953 CIA-[[MI6]] coup ([[Operation Ajax|Operation Ajax/Boot]]) that restored the Shah to power after the removal of Prime Minister [[Mohammad Mosaddegh]]. The CIA's [[Kermit Roosevelt Jr.]] and other officers provided organizational guidance in establishing SAVAK's structure. The CIA subsequently provided training at [[Camp Peary]] (The Farm) and at other facilities for SAVAK officers, covering interrogation techniques, surveillance, and counterintelligence methodology.
 
-[[Mossad]] established a close liaison relationship with SAVAK from the mid-1950s, providing training and operational cooperation in a relationship that served both countries' interests: Israel valued Iranian intelligence on Arab states and the Palestinian organizations, while the Shah valued Israeli technical expertise and intelligence collection. The SAVAK-Mossad relationship was one of the most productive liaison partnerships in the Middle East during the Cold War period and was extensively documented following the 1979 revolution.[^1]
+[[Mossad]] established a close liaison relationship with SAVAK from the mid-1950s, providing training and operational cooperation in a relationship that served both countries' interests: Israel valued Iranian intelligence on Arab states and the Palestinian organizations, while the Shah valued Israeli technical expertise and intelligence collection. The SAVAK-Mossad relationship was one of the most productive liaison partnerships in the [[Middle East]] during the Cold War period and was extensively documented following the 1979 revolution.[^1]
 
 ### Operations and Repression
 

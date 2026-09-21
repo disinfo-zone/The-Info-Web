@@ -26,7 +26,7 @@ The existence of LCN as a formal organization with a name, membership rituals, a
 
 ### Intelligence and Government Connections
 
-LCN families, particularly in Chicago and New York, developed documented relationships with elements of U.S. intelligence and law enforcement during the Cold War period. The [[Central Intelligence Agency]] and the [[Mafia]] cooperated in at least one documented operation: a series of Agency-funded plots in the early 1960s aimed at assassinating Cuban leader [[Fidel Castro]], using LCN intermediaries including [[Santos Trafficante, Jr.]], [[Sam Giancana]], and [[John Roselli]]. The [[Church Committee]] investigation in 1975-1976 examined this relationship in detail.[^3]
+LCN families, particularly in Chicago and New York, developed documented relationships with elements of U.S. intelligence and law enforcement during the Cold War period. The [[Central Intelligence Agency]] and the [[Mafia]] cooperated in at least one documented operation: a series of Agency-funded plots in the early 1960s aimed at assassinating Cuban leader [[Fidel Castro]], using LCN intermediaries including [[Santos Trafficante, Jr.]], [[Sam Giancana]], and [[Johnny Roselli|John Roselli]]. The [[Church Committee]] investigation in 1975-1976 examined this relationship in detail.[^3]
 
 LCN's primary criminal activities include drug trafficking, money laundering, labor racketeering, illegal gambling, extortion, and the infiltration of legitimate businesses. By the late twentieth century, federal prosecutorial use of the RICO Act had produced convictions against multiple family leadership structures, diminishing but not eliminating LCN's operational capacity.[^2]
 

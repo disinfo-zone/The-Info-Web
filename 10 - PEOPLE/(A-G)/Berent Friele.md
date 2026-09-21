@@ -20,7 +20,7 @@ Berent Johan Beyer Friele (born 29 March 1895 in Bergen, Norway; died 15 Septemb
 
 ### Bergen Origins and Family
 
-Friele came from a prominent Bergen merchant family. His father, Berent Johan Friele (1862-1902), was a co-owner of "Berent Friele & Sønner," a Bergen wholesale firm dealing in coffee since 1854 and one of the city's leading commercial houses. After his father's death in 1902, young Berent completed commercial training in [[Hamburg]] in 1912 and worked briefly in the Hamburg coffee trade before relocating to [[Brazil]] during World War I. He was a great-grandson of zoologist Herman Friele and great-great-grandson of Fredrik Beyer. Though he was destined for a senior role in the family firm, he spent his working career in American-controlled coffee operations rather than the Bergen house.[^2]
+Friele came from a prominent Bergen merchant family. His father, Berent Johan Friele (1862-1902), was a co-owner of "Berent Friele & Sønner," a Bergen wholesale firm dealing in coffee since 1854 and one of the city's leading commercial houses. After his father's death in 1902, young Berent completed commercial training in [[Hamburg]] in 1912 and worked briefly in the Hamburg coffee trade before relocating to [[Brazil]] during [[World War I]]. He was a great-grandson of zoologist Herman Friele and great-great-grandson of Fredrik Beyer. Though he was destined for a senior role in the family firm, he spent his working career in American-controlled coffee operations rather than the Bergen house.[^2]
 
 His brother [[Einar B. Friele]] (1901-1944) later joined the Bergen family firm and became a Norwegian resistance member, killed in 1944.
 
@@ -62,7 +62,7 @@ Before Ambassador [[Lincoln Gordon]] left Washington for his Rio posting in 1961
 
 ### AIFLD and Pre-Coup Political Activity
 
-Friele served as vice president of the [[American Institute for Free Labor Development]] (AIFLD), the AFL-CIO-linked organization with significant CIA funding that operated labor training programs across Latin America during the Cold War. In that capacity he was described by contemporaries as "an old Brazilian hand belonging to the Rockefeller entourage."
+Friele served as vice president of the [[American Institute for Free Labor Development]] (AIFLD), the AFL-CIO-linked organization with significant CIA funding that operated labor training programs across [[Latin America]] during the Cold War. In that capacity he was described by contemporaries as "an old Brazilian hand belonging to the Rockefeller entourage."
 
 In fall 1963, Friele and AIFLD executive director [[Serafino Romualdi]] traveled to [[Sao Paulo]] and met with Governor [[Adhemar de Barros]], one of President Goulart's chief opponents. During the meeting, de Barros described plans already under way to mobilize police and military contingents against Goulart. When de Barros complained that the US Embassy was not responding to these signals, Romualdi relayed the complaint in writing to the embassy's labor attaché, [[John Fishburn]]. Starting in 1963, AIFLD ran a special all-Brazilian training class of 33 union participants in Washington, focused on countering Communist influence in labor organizations; AIFLD-trained graduates later helped ensure the April 1964 coup proceeded without a successful general strike.[^13]
 

@@ -14,7 +14,7 @@ born: 1944-04-18
 died: 2023-06-05
 location: "Chicago, Illinois, USA"
 ---
-Robert Philip Hanssen was born April 18, 1944, in Chicago, Illinois. He attended Knox College and received an M.B.A. from Northwestern University, then joined the Chicago Police Department briefly before entering the [[Federal Bureau of Investigation|FBI]] as a Special Agent in 1976. During a 25-year career he served primarily in [[Soviet Union|Soviet]] counterintelligence assignments in New York City and Washington, D.C., attaining the rank of GS-15 supervisory special agent. He was a devout Roman Catholic and a member of [[Opus Dei]].
+Robert Philip Hanssen was born April 18, 1944, in Chicago, Illinois. He attended Knox College and received an M.B.A. from [[Northwestern University]], then joined the Chicago Police Department briefly before entering the [[Federal Bureau of Investigation|FBI]] as a Special Agent in 1976. During a 25-year career he served primarily in [[Soviet Union|Soviet]] counterintelligence assignments in New York City and Washington, D.C., attaining the rank of GS-15 supervisory special agent. He was a devout Roman Catholic and a member of [[Opus Dei]].
 
 Hanssen was arrested February 18, 2001, at Foxstone Park in Vienna, Virginia, during a dead drop. He pleaded guilty on July 6, 2001, to 15 counts of espionage and conspiracy to commit espionage, in a plea agreement under which the government declined to seek the death penalty in exchange for his full cooperation and debriefing. He was sentenced to life in prison without the possibility of parole on May 10, 2002, by U.S. District Judge Claude M. Hilton. The FBI describes him as "the most damaging spy in Bureau history." Hanssen died at ADX Florence, Colorado, on June 5, 2023, at age 79.[^1]
 

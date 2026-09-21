@@ -12,7 +12,7 @@ location: "Miami, Florida"
 
 ### Support for UAP Legislation
 
-Senator Rubio was the chief sponsor of the bill that mandated the Director of National Intelligence to produce an unclassified report on UAP, which led to the landmark June 2021 "Preliminary Assessment: Unidentified Aerial Phenomena." He has been a vocal advocate for taking the UAP issue seriously, stating that "There is a lot we still don’t know about these UAP and that is a big problem. We’ve taken some important steps over the last few years to increase transparency and reduce stigmas, but more needs to be done."[^1]
+Senator Rubio was the chief sponsor of the bill that mandated the [[Director of National Intelligence]] to produce an unclassified report on UAP, which led to the landmark June 2021 "Preliminary Assessment: Unidentified Aerial Phenomena." He has been a vocal advocate for taking the UAP issue seriously, stating that "There is a lot we still don’t know about these UAP and that is a big problem. We’ve taken some important steps over the last few years to increase transparency and reduce stigmas, but more needs to be done."[^1]
 
 He has worked closely with a bipartisan group of senators, including [[Kirsten Gillibrand]] and [[Chuck Schumer]], as well as with [[Christopher Mellon]] and [[Luis Elizondo]], to draft and pass legislation that has established a permanent UAP office ([[All-domain Anomaly Resolution Office|AARO]]) and created a secure process for whistleblowers to report UAP-related information to Congress. His leadership on this issue has been a critical factor in the recent progress of the UAP disclosure movement.[^1]
 

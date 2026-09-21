@@ -31,7 +31,7 @@ In November 1961, Kennedy authorized Operation Mongoose as the successor to Bay 
 
 ### Command Structure
 
-The Special Group (Augmented) - chaired by Robert Kennedy and including [[McGeorge Bundy]] (National Security Adviser), CIA Director [[John McCone]], and senior State and Defense officials - provided policy oversight. General [[Edward Lansdale]], whose Philippines counterinsurgency success had made him the administration's preferred irregular warfare theorist, was appointed as operational director.
+The [[Special Group]] (Augmented) - chaired by Robert Kennedy and including [[McGeorge Bundy]] (National Security Adviser), CIA Director [[John McCone]], and senior State and Defense officials - provided policy oversight. General [[Edward Lansdale]], whose Philippines counterinsurgency success had made him the administration's preferred irregular warfare theorist, was appointed as operational director.
 
 The CIA's operational implementation was headquartered at [[JM-WAVE|JM/WAVE]], a large covert station at the University of Miami's South Campus. [[William Harvey]], head of the CIA's [[ZR RIFLE|ZR/RIFLE]] assassination planning program, commanded JM/WAVE and was responsible for CIA operations within Mongoose. The station's cover included a legitimate South Florida business presence and several front companies.[^1]
 

@@ -18,9 +18,9 @@ The United Kingdom of Great Britain and Northern Ireland is a constitutional mon
 
 ### Intelligence Services
 
-[[MI6]] (the [[Secret Intelligence Service]], SIS) is the UK's foreign intelligence service, operating under Foreign and Commonwealth Office oversight. [[MI5]] (the [[Security Service]]) handles domestic counterintelligence and counterterrorism. [[GCHQ]] (Government Communications Headquarters), based in Cheltenham, is the signals intelligence agency whose partnership with the [[NSA|American NSA]] under the [[UKUSA Agreement]] (1946) forms the core of the Five Eyes signals collection architecture. The three services are coordinated through the [[Joint Intelligence Committee]] in the Cabinet Office in London.[^1]
+[[MI6]] (the [[Secret Intelligence Service]], SIS) is the UK's foreign intelligence service, operating under [[Foreign and Commonwealth Office]] oversight. [[MI5]] (the [[Security Service]]) handles domestic counterintelligence and counterterrorism. [[GCHQ]] (Government Communications Headquarters), based in Cheltenham, is the signals intelligence agency whose partnership with the [[NSA|American NSA]] under the [[UKUSA Agreement]] (1946) forms the core of the Five Eyes signals collection architecture. The three services are coordinated through the [[Joint Intelligence Committee]] in the Cabinet Office in London.[^1]
 
-MI6 and the CIA conducted the joint [[1953 coup]] in [[Iran]] that removed Prime Minister [[Mohammad Mosaddegh]] and restored [[Mohammad Reza Pahlavi|Shah Mohammad Reza Pahlavi]]. Subsequent Cold War joint operations included intelligence sharing during the [[Iran-Iraq War]] and coordination on [[Afghanistan]] during the Soviet occupation. MI6's relationship with [[Mossad]] is extensive, with numerous overlapping operations in the Middle East.
+MI6 and the CIA conducted the joint [[1953 coup]] in [[Iran]] that removed Prime Minister [[Mohammad Mosaddegh]] and restored [[Mohammad Reza Pahlavi|Shah Mohammad Reza Pahlavi]]. Subsequent Cold War joint operations included intelligence sharing during the [[Iran-Iraq War]] and coordination on [[Afghanistan]] during the Soviet occupation. MI6's relationship with [[Mossad]] is extensive, with numerous overlapping operations in the [[Middle East]].
 
 ### BCCI
 

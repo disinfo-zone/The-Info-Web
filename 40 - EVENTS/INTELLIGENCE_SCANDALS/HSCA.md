@@ -23,7 +23,7 @@ The House Select Committee on Assassinations (HSCA) was a special committee of t
 
 ### Establishment
 
-The committee was established in the context of the revelations from the [[Church Committee]] (1975-1976) about CIA assassination plots and other domestic abuses, and widespread public skepticism about the [[Warren Commission]]'s lone-gunman findings. It operated under two chairmen: Thomas Downing (D-Virginia) initially, then Louis Stokes (D-Ohio) for the bulk of its work. G. Robert Blakey, a law professor specializing in organized crime, served as chief counsel and investigator.
+The committee was established in the context of the revelations from the [[Church Committee]] (1975-1976) about CIA assassination plots and other domestic abuses, and widespread public skepticism about the [[Warren Commission]]'s lone-gunman findings. It operated under two chairmen: Thomas Downing (D-Virginia) initially, then Louis Stokes (D-Ohio) for the bulk of its work. [[G. Robert Blakey]], a law professor specializing in organized crime, served as chief counsel and investigator.
 
 ### Kennedy Assassination Findings
 
@@ -41,7 +41,7 @@ Soviet and Cuban non-involvement: The committee found no evidence that the Sovie
 
 The conspiracy finding rested substantially on the acoustic analysis by Bolt, Beranek and Newman (BBN) and the National Science Foundation. This analysis of the Dallas Police Department Dictabelt recording concluded that four shots were fired, with the fourth from the grassy knoll, based on timing patterns consistent with echo signatures from that location.
 
-In 1982, the National Academy of Sciences convened a panel (the Ramsey Panel) that reviewed the acoustic evidence and concluded the BBN analysis was flawed - that the sounds identified as gunshots on the Dictabelt recording were not synchronized with the shooting and therefore could not be gunshots from Dealey Plaza. Subsequent studies have both supported and challenged this re-analysis, and the acoustic evidence remains scientifically contested.
+In 1982, the National Academy of Sciences convened a panel (the Ramsey Panel) that reviewed the acoustic evidence and concluded the BBN analysis was flawed - that the sounds identified as gunshots on the Dictabelt recording were not synchronized with the shooting and therefore could not be gunshots from [[Dealey Plaza]]. Subsequent studies have both supported and challenged this re-analysis, and the acoustic evidence remains scientifically contested.
 
 The practical effect of the 1982 NAS report was to remove the primary evidentiary basis for the HSCA's conspiracy finding while leaving the committee's documentary findings about CIA concealment and organized crime connections unaffected.[^2]
 

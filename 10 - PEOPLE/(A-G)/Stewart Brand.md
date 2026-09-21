@@ -17,7 +17,7 @@ created: 2026-06-20
 updated: 2026-06-20
 ---
 
-Stewart Brand (born December 14, 1938) is an American writer, editor, and impresario who founded the *Whole Earth Catalog* in 1968, the online community the WELL in 1985, the corporate consultancy the Global Business Network in 1987, and the Long Now Foundation in 1996. A Stanford-trained biologist, Merry Prankster, and organizer of Ken Kesey's Trips Festival, he is the figure most often credited with carrying the values of the 1960s San Francisco counterculture, communalism, personal liberation, and a faith in "tools," into the personal-computer and internet culture of Silicon Valley, a passage documented by [[Fred Turner]] in *From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism* (2006).[^1][^2]
+Stewart Brand (born December 14, 1938) is an American writer, editor, and impresario who founded the *Whole Earth Catalog* in 1968, the online community the WELL in 1985, the corporate consultancy the Global Business Network in 1987, and the Long Now Foundation in 1996. A Stanford-trained biologist, Merry Prankster, and organizer of Ken Kesey's Trips Festival, he is the figure most often credited with carrying the values of the 1960s San Francisco counterculture, communalism, personal liberation, and a faith in "tools," into the personal-computer and internet culture of [[Silicon Valley]], a passage documented by [[Fred Turner]] in *From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism* (2006).[^1][^2]
 
 ### From the Counterculture to the Whole Earth Catalog
 

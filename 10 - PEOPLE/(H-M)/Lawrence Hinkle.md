@@ -13,7 +13,7 @@ location: New York, New York
 created: 2026-06-03
 updated: 2026-06-03
 ---
-Dr. Lawrence Hinkle was a physician at [[Cornell University Medical College]] in New York City who, together with his colleague [[Harold Wolff]], conducted the definitive U.S. government study on communist [[Brainwashing]] techniques for the [[CIA]]. Hinkle handled the administrative part of the study and shared in the substance. Before going ahead, the two doctors made sure they had the approval of Cornell's president, Deane W. Malott, and other high university officials who checked with their contacts in Washington. Hinkle recalls a key White House aide urging Cornell to cooperate. "It was done with great secrecy," he recalls. "We went through a great deal of hoop-de-do and signed secrecy agreements, which everyone took very seriously."[^1]
+Dr. Lawrence Hinkle was a physician at [[Cornell University Medical College]] in New York City who, together with his colleague [[Harold Wolff]], conducted the definitive U.S. government study on communist [[Brainwashing]] techniques for the [[CIA]]. Hinkle handled the administrative part of the study and shared in the substance. Before going ahead, the two doctors made sure they had the approval of Cornell's president, Deane W. Malott, and other high university officials who checked with their contacts in Washington. Hinkle recalls a key [[White House]] aide urging Cornell to cooperate. "It was done with great secrecy," he recalls. "We went through a great deal of hoop-de-do and signed secrecy agreements, which everyone took very seriously."[^1]
 
 ### The Brainwashing Study
 

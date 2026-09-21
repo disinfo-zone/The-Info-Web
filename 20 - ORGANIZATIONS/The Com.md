@@ -37,7 +37,7 @@ Involves incitement to and glorification of real-world violence, ranging from va
 
 The Com contains dozens of named subgroups, many of them short-lived rebrands or sub-servers operating under rotating aliases. The most documented include:
 
-[[764 Network]] and its direct offshoots: 764 was founded approximately 2020 by [[Bradley Chance Cadenhead|Bradley Cadenhead]] in Stephenville, Texas (its numeric name derives from that city's ZIP codes 76401/76402). After Cadenhead's arrest and sentencing to 80 years in 2023, the network fragmented into overlapping successor groups. [[764 Inferno]], led by [[Leonidas Varagiannis]] and [[Prasan Nepal]] from Thessaloniki, Greece and North Carolina respectively, continued coercing minors until both were arrested and charged in April 2025.
+[[764 Network]] and its direct offshoots: 764 was founded approximately 2020 by [[Bradley Chance Cadenhead|Bradley Cadenhead]] in Stephenville, Texas (its numeric name derives from that city's ZIP codes 76401/76402). After Cadenhead's arrest and sentencing to 80 years in 2023, the network fragmented into overlapping successor groups. [[764 Inferno]], led by [[Leonidas Varagiannis]] and [[Prasan Nepal]] from Thessaloniki, Greece and [[North Carolina]] respectively, continued coercing minors until both were arrested and charged in April 2025.
 
 [[Harm Nation]] was one of the primary 764 splinters emerging from the 2022 disruption of original 764 leadership. [[Kyle Spitze]] ("Criminal"), a Harm Nation member, pleaded guilty to production and possession of CSAM and distribution of animal crushing videos.
 
@@ -45,7 +45,7 @@ The Com contains dozens of named subgroups, many of them short-lived rebrands or
 
 [[Court]], [[Leak Society]], and [[H3ll]] emerged from the same 2022 fragmentation. Leak Society is documented by [[ISD Global|ISD]] as one of the largest subgroups within the network, primarily focused on distribution of leaked CSAM.
 
-[[8884]], whose numeric name references a member alias, was led by [[Alexis Aldair Chavez]] (19, San Antonio, Texas), who pleaded guilty in December 2025 to RICO charges and child exploitation counts. Chavez's specific crimes included coercing minors to self-harm live on video.
+[[8884]], whose numeric name references a member alias, was led by [[Alexis Aldair Chavez]] (19, [[San Antonio]], Texas), who pleaded guilty in December 2025 to RICO charges and child exploitation counts. Chavez's specific crimes included coercing minors to self-harm live on video.
 
 Additional numerically named subgroups documented by the ADL include 6996, 7997, 676, Slit Town, 545, 404, NMK, 303, SR1, XVN, 2992, 555, and CVLTIST - most operating as sub-servers or short-lived rebrands within the larger ecosystem.
 

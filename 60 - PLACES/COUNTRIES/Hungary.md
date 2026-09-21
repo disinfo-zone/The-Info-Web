@@ -29,7 +29,7 @@ Under Kadar, Hungary developed a form of "goulash communism" - relatively libera
 
 ### 1989 Transition
 
-Hungary's communist government, weakened by economic difficulties and Kadar's removal in 1988, began negotiating with the opposition in 1989. On May 2, 1989, Hungary began dismantling its border fence with Austria - the first breach of the Iron Curtain. When Hungary officially opened its border with Austria on September 11, 1989, approximately 13,000 East German tourists who had gathered in Hungary were able to cross to the West. This exodus contributed directly to the pressure that produced the opening of the Berlin Wall on November 9, 1989.
+Hungary's communist government, weakened by economic difficulties and Kadar's removal in 1988, began negotiating with the opposition in 1989. On May 2, 1989, Hungary began dismantling its border fence with Austria - the first breach of the [[Iron Curtain]]. When Hungary officially opened its border with Austria on September 11, 1989, approximately 13,000 East German tourists who had gathered in Hungary were able to cross to the West. This exodus contributed directly to the pressure that produced the opening of the Berlin Wall on November 9, 1989.
 
 Hungary became a [[NATO]] member in 1999 and a [[European Union]] member in 2004. Under Prime Minister Viktor Orban, in power since 2010, Hungary developed an authoritarian-nationalist government that has repeatedly clashed with European Union institutions over democratic standards.[^2]
 

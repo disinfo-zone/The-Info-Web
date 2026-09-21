@@ -16,7 +16,7 @@ updated: 2026-05-22
 summary: "Cameron Finnigan was a 19-year-old from Horsham convicted in January 2025 at the Old Bailey of possessing a terrorism manual and encouraging a young woman to livestream her suicide, sentenced to six years as a member of the 764 network, which Counter Terrorism Policing described as posing an immense threat."
 ---
 
-Cameron Finnigan, 19, of Horsham, West Sussex, joined the [[764 Network|764]] online extremist network in late 2023. [[Counter Terrorism Policing]] became aware of him in March 2024 following intelligence about his online activity. He pleaded guilty on 4 October 2024 to five counts. He was sentenced at the [[Central Criminal Court]] (Old Bailey) on 16 January 2025 by Mr Justice Jay to six years' imprisonment followed by three years' extended licence.[^1]
+Cameron Finnigan, 19, of Horsham, West Sussex, joined the [[764 Network|764]] online extremist network in late 2023. [[Counter Terrorism Policing]] became aware of him in March 2024 following intelligence about his online activity. He pleaded guilty on 4 October 2024 to five counts. He was sentenced at the [[Central Criminal Court]] ([[Old Bailey]]) on 16 January 2025 by Mr Justice Jay to six years' imprisonment followed by three years' extended licence.[^1]
 
 ### Offences
 

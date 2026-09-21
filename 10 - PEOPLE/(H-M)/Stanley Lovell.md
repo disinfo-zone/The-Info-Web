@@ -12,7 +12,7 @@ location: Boston, Massachusetts
 created: 2026-06-03
 updated: 2026-06-03
 ---
-Stanley Lovell was a [[Cornell University|Cornell]] graduate, self-described "saucepan chemist," and Boston industrialist whom General [[William Donovan]] appointed to head [[Office of Strategic Services|OSS]] Research and Development and to serve as the secret agency's liaison with the government scientific community. A confident, energetic man with a particular knack for coming up with offbeat ideas and selling them to others, Lovell was an outspoken patriot who wrote in his diary shortly after Pearl Harbor: "As James Hilton said, 'Once at war, to reason is treason.' My job is clear, to do all that is in me to help America."[^1]
+Stanley Lovell was a [[Cornell University|Cornell]] graduate, self-described "saucepan chemist," and Boston industrialist whom General [[William Donovan]] appointed to head [[Office of Strategic Services|OSS]] Research and Development and to serve as the secret agency's liaison with the government scientific community. A confident, energetic man with a particular knack for coming up with offbeat ideas and selling them to others, Lovell was an outspoken patriot who wrote in his diary shortly after [[Pearl Harbor]]: "As James Hilton said, 'Once at war, to reason is treason.' My job is clear, to do all that is in me to help America."[^1]
 
 ### Donovan's Mandate
 

@@ -45,7 +45,7 @@ Humber changed her plea to guilty on August 8, 2025. U.S. District Judge [[Dena 
 
 Allison pleaded not guilty and contested the charges. As of May 2026, his trial was pending in the Eastern District of California. He remained in federal custody.
 
-DOJ linked the case to a separately prosecuted Wisconsin murder-for-hire plot targeting a federal official and to the infrastructure sabotage charges against [[Andrew Takhistov]] in New Jersey, as examples of the Terrorgram network's downstream violence.
+DOJ linked the case to a separately prosecuted Wisconsin murder-for-hire plot targeting a federal official and to the infrastructure sabotage charges against [[Andrew Takhistov]] in [[New Jersey]], as examples of the Terrorgram network's downstream violence.
 
 ### Footnotes
 

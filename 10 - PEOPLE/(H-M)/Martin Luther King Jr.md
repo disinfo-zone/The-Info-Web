@@ -20,7 +20,7 @@ died: 1968-04-04
 location: "Atlanta, Georgia / Memphis, Tennessee"
 ---
 
-Martin Luther King Jr. (January 15, 1929 - April 4, 1968) was a Baptist minister and civil rights leader who led the organized nonviolent campaign to dismantle legal racial segregation and secure political and economic rights for Black Americans. He is most identified with the [[Montgomery Bus Boycott]] of 1955-1956, the [[Birmingham Campaign]] of 1963, and the [[March on Washington]] of August 28, 1963, at which he delivered his "I Have a Dream" speech. His assassination at the [[Lorraine Motel]] in [[Memphis, Tennessee|Memphis]] on April 4, 1968 remains disputed: convicted assassin [[James Earl Ray]] recanted his guilty plea within days, and the [[HSCA|House Select Committee on Assassinations]] concluded that a probable conspiracy existed.[^1]
+[[Martin Luther King Jr.]] (January 15, 1929 - April 4, 1968) was a Baptist minister and civil rights leader who led the organized nonviolent campaign to dismantle legal racial segregation and secure political and economic rights for Black Americans. He is most identified with the [[Montgomery Bus Boycott]] of 1955-1956, the [[Birmingham Campaign]] of 1963, and the [[March on Washington]] of August 28, 1963, at which he delivered his "I Have a Dream" speech. His assassination at the [[Lorraine Motel]] in [[Memphis, Tennessee|Memphis]] on April 4, 1968 remains disputed: convicted assassin [[James Earl Ray]] recanted his guilty plea within days, and the [[HSCA|House Select Committee on Assassinations]] concluded that a probable conspiracy existed.[^1]
 
 ### Civil Rights Leadership
 

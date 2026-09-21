@@ -31,7 +31,7 @@ A TRS-80 message recovered during the investigation, attributed to [[Marion Pett
 
 ### Legal Outcome
 
-Ammerman was charged with misdemeanor child abuse. Bond was set at $100,000 and reduced to $20,000 on February 19, 1987. All charges were dropped for lack of evidence. He and Holwell were released on March 17-18, 1987. The Washington Post confirmed the dismissal in its article "Two Finders Released," March 18, 1987.[^1][^2]
+Ammerman was charged with misdemeanor child abuse. Bond was set at $100,000 and reduced to $20,000 on February 19, 1987. All charges were dropped for lack of evidence. He and Holwell were released on March 17-18, 1987. [[The Washington Post]] confirmed the dismissal in its article "Two Finders Released," March 18, 1987.[^1][^2]
 
 No federal charges were filed. Ammerman does not appear in the 2019 FBI Vault document release as a subject of any continued investigation beyond the initial 1987 incident. He appears in supplemental Finders membership documents under the aliases "Kenny Rogers" and "Earnest Angel." No known public interviews or subsequent public appearances have been documented.[^2]
 

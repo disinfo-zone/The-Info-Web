@@ -13,7 +13,7 @@ updated: 2026-05-14
 location: "London, United Kingdom"
 ---
 
-The Secret Intelligence Service (SIS), known popularly as MI6, is the [[United Kingdom]]'s foreign intelligence service, responsible for collecting intelligence from overseas sources. It operates under the authority of the [[Foreign, Commonwealth and Development Office]] and reports to the Foreign Secretary, with parliamentary oversight through the Intelligence and Security Committee. Its legal basis was established by the Intelligence Services Act 1994. Its current headquarters, known as Vauxhall Cross, opened on the south bank of the Thames in [[London]] in 1994; the building's distinctive architecture made it a publicly known landmark, ending decades of official non-acknowledgment of SIS's existence.[^1]
+The [[Secret Intelligence Service]] (SIS), known popularly as MI6, is the [[United Kingdom]]'s foreign intelligence service, responsible for collecting intelligence from overseas sources. It operates under the authority of the [[Foreign, Commonwealth and Development Office]] and reports to the Foreign Secretary, with parliamentary oversight through the Intelligence and Security Committee. Its legal basis was established by the Intelligence Services Act 1994. Its current headquarters, known as Vauxhall Cross, opened on the south bank of the Thames in [[London]] in 1994; the building's distinctive architecture made it a publicly known landmark, ending decades of official non-acknowledgment of SIS's existence.[^1]
 
 ### Origins and World War II
 
@@ -25,7 +25,7 @@ SIS's most historically significant joint operation with the [[Central Intellige
 
 ### Cold War Operations
 
-SIS maintained liaison relationships with intelligence services across the Middle East, Africa, and Asia throughout the Cold War. Its cooperation with Mossad - the [[Israel|Israeli]] intelligence service - is described in numerous memoirs and investigative accounts as extensive, covering operations in Arab states, Iranian intelligence assessments, and personnel exchanges. [[David Kimche]], the senior Mossad officer who initiated the Iran-Contra arms channel, was born in [[London]] and cultivated SIS relationships throughout his career.
+SIS maintained liaison relationships with intelligence services across the [[Middle East]], Africa, and Asia throughout the Cold War. Its cooperation with Mossad - the [[Israel|Israeli]] intelligence service - is described in numerous memoirs and investigative accounts as extensive, covering operations in Arab states, Iranian intelligence assessments, and personnel exchanges. [[David Kimche]], the senior Mossad officer who initiated the Iran-Contra arms channel, was born in [[London]] and cultivated SIS relationships throughout his career.
 
 In [[Afghanistan]], SIS coordinated with the CIA's [[Operation Cyclone]] through SAS training programs for mujahideen fighters during the Soviet occupation (1979-1989). The relationship between SIS and Pakistan's [[ISI]] during this period was close and operationally significant.[^1]
 

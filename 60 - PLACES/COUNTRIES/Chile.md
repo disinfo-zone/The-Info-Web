@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Chile was the South American nation where CIA Deputy Director William Nelson ran the agency's controversial destabilization program that overthrew President Salvador Allende in 1973.
 ---
-Chile was the [[South America]]n nation where [[Central Intelligence Agency]] Deputy Director of Operations [[William Colby|Bill Nelson's superior]] ran the agency's controversial destabilization program that culminated in the overthrow and murder of elected President Salvador Allende in 1973. Nelson oversaw this operation during his tenure at the CIA.[^1]
+Chile was the [[South America]]n nation where [[Central Intelligence Agency]] Deputy Director of Operations [[William Colby|Bill Nelson's superior]] ran the agency's controversial destabilization program that culminated in the overthrow and murder of elected President [[Salvador Allende]] in 1973. Nelson oversaw this operation during his tenure at the CIA.[^1]
 
 ### CIA Operations
 

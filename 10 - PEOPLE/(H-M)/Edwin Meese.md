@@ -37,7 +37,7 @@ Meese was also the official who publicly announced the [[Iran-Contra Affair|Iran
 
 ### Resignation
 
-[[Arnold Burns]], Meese's Deputy Attorney General, and [[William F. Weld]], Assistant Attorney General for the Criminal Division, submitted simultaneous resignations in March 1988 after meeting separately with White House Chief of Staff [[Howard Baker]] to raise concerns about Meese's conduct. Their joint departure was described as an unprecedented mass exodus signaling complete loss of confidence in the department's leadership. Meese resigned in August 1988 following an independent counsel report that found "substantial evidence" he had violated federal law but declined to prosecute.[^2]
+[[Arnold Burns]], Meese's Deputy Attorney General, and [[William F. Weld]], Assistant Attorney General for the Criminal Division, submitted simultaneous resignations in March 1988 after meeting separately with [[White House Chief of Staff]] [[Howard Baker]] to raise concerns about Meese's conduct. Their joint departure was described as an unprecedented mass exodus signaling complete loss of confidence in the department's leadership. Meese resigned in August 1988 following an independent counsel report that found "substantial evidence" he had violated federal law but declined to prosecute.[^2]
 
 ### Footnotes
 

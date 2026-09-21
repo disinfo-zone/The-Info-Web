@@ -21,7 +21,7 @@ Paris is the central geographic location in the [[October Surprise]] controversy
 
 [[Ayatollah Ruhollah Khomeini]] had himself been in Paris - specifically the suburb of [[Neauphle-le-Chateau]] - from October 1978 until February 1, 1979, directing the Iranian Revolution from French exile after being expelled from [[Iraq]] by [[Saddam Hussein]]'s government. The French government of [[Valery Giscard d'Estaing]] allowed Khomeini to operate from France despite American pressure to expel him.[^2]
 
-A 1992 House task force chaired by Representative Lee Hamilton investigated the October Surprise allegations and found insufficient evidence to conclude meetings occurred; critics noted that its investigation was limited and that key witnesses including [[Ari Ben-Menashe]] were not given full credence. The Senate Foreign Relations Committee issued a separate report finding the allegations unproven but not impossible.
+A 1992 House task force chaired by Representative Lee Hamilton investigated the October Surprise allegations and found insufficient evidence to conclude meetings occurred; critics noted that its investigation was limited and that key witnesses including [[Ari Ben-Menashe]] were not given full credence. The [[Senate Foreign Relations Committee]] issued a separate report finding the allegations unproven but not impossible.
 
 ### Arms Brokering Hub
 

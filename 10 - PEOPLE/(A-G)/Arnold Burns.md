@@ -25,7 +25,7 @@ The Bua Report (1993) interpreted Burns's OPR statement differently, arguing tha
 
 ### Resignation from DOJ
 
-Burns and [[William F. Weld]], the Assistant Attorney General for the Criminal Division, submitted their resignations to President [[Ronald Reagan]] on March 29, 1988, after separately meeting with White House Chief of Staff [[Howard Baker]] to raise concerns about [[Edwin Meese]]'s conduct. Both men had reportedly grown frustrated by being sidestepped in Meese's office and by DOJ decisions made without their knowledge regarding investigations into Meese's associates. Their simultaneous resignations were characterized as an unprecedented vote of no confidence in a sitting Attorney General. Senator [[Robert Byrd]] called Meese "the crown jewel of Reagan's sleaze factor" and demanded his resignation.[^3]
+Burns and [[William F. Weld]], the Assistant Attorney General for the Criminal Division, submitted their resignations to President [[Ronald Reagan]] on March 29, 1988, after separately meeting with [[White House Chief of Staff]] [[Howard Baker]] to raise concerns about [[Edwin Meese]]'s conduct. Both men had reportedly grown frustrated by being sidestepped in Meese's office and by DOJ decisions made without their knowledge regarding investigations into Meese's associates. Their simultaneous resignations were characterized as an unprecedented vote of no confidence in a sitting Attorney General. Senator [[Robert Byrd]] called Meese "the crown jewel of Reagan's sleaze factor" and demanded his resignation.[^3]
 
 ### Footnotes
 

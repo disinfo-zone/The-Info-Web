@@ -27,7 +27,7 @@ When Russo briefed Westmoreland's scientific advisor on his finding that for eve
 
 ### Pentagon Papers
 
-Russo met Ellsberg at Rand's Santa Monica offices. Ellsberg had returned from Vietnam in mid-1967, having concluded the war was unwinnable, and was working on the classified Pentagon Papers study that Secretary McNamara had commissioned. It was Russo who first proposed copying the Papers and distributing them. Beginning October 1, 1969, Russo and Ellsberg copied the documents at the Los Angeles advertising agency of Russo's girlfriend, Lynda Sinay. Russo was indicted alongside Ellsberg; charges against both were dismissed in May 1973 due to government misconduct including illegal wiretapping and the Watergate-related break-in at Ellsberg's psychiatrist's office by the White House "plumbers."[^1]
+Russo met Ellsberg at Rand's Santa Monica offices. Ellsberg had returned from Vietnam in mid-1967, having concluded the war was unwinnable, and was working on the classified Pentagon Papers study that Secretary McNamara had commissioned. It was Russo who first proposed copying the Papers and distributing them. Beginning October 1, 1969, Russo and Ellsberg copied the documents at the Los Angeles advertising agency of Russo's girlfriend, Lynda Sinay. Russo was indicted alongside Ellsberg; charges against both were dismissed in May 1973 due to government misconduct including illegal wiretapping and the Watergate-related break-in at Ellsberg's psychiatrist's office by the [[White House]] "plumbers."[^1]
 
 ### After Rand
 

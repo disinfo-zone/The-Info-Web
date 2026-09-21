@@ -13,11 +13,11 @@ died: 1989-11-10
 location: "Washington, D.C."
 ---
 
-Craig Spence was a Washington D.C. lobbyist, social figure, and self-described Japan specialist who maintained unusual access to senior government officials and the White House during the 1980s. He was identified in June 1989 as a major client of a homosexual escort service under investigation. His activities were documented in extensive contemporaneous reporting by the Washington Times and Washington Post, independent of victim testimony in the [[Franklin Credit Union Scandal]]. He was found dead at the Boston Ritz Carlton on November 10, 1989.[^1]
+Craig Spence was a Washington D.C. lobbyist, social figure, and self-described Japan specialist who maintained unusual access to senior government officials and the [[White House]] during the 1980s. He was identified in June 1989 as a major client of a homosexual escort service under investigation. His activities were documented in extensive contemporaneous reporting by the Washington Times and Washington Post, independent of victim testimony in the [[Franklin Credit Union Scandal]]. He was found dead at the Boston Ritz Carlton on November 10, 1989.[^1]
 
 ### Career and Washington Connections
 
-Spence described himself as a consultant on Japan and East Asia and had cultivated a reputation as a highly connected Washington social host whose parties attracted senior government officials, journalists, and foreign policy figures. The specific nature and institutional basis of his access was never fully established publicly. The Washington Post's July 1989 reporting described an unusual ability to arrange access in Washington circles that exceeded what his formal consulting work would typically support.[^1]
+Spence described himself as a consultant on Japan and East Asia and had cultivated a reputation as a highly connected Washington social host whose parties attracted senior government officials, journalists, and foreign policy figures. The specific nature and institutional basis of his access was never fully established publicly. [[The Washington Post]]'s July 1989 reporting described an unusual ability to arrange access in Washington circles that exceeded what his formal consulting work would typically support.[^1]
 
 ### Escort Service Investigation and White House Tours
 

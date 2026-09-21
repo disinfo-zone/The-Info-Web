@@ -22,7 +22,7 @@ In the context of the U.S. government's [[STARGATE PROJECT|STAR GATE]] remote vi
 
 ### Historical Research
 
-The scientific investigation of clairvoyance began formally with the establishment of the Society for Psychical Research in London in 1882 and the [[American Society for Psychical Research]] in 1885. Early researchers including Frederic Myers and Edmund Gurney attempted to establish systematic evidence for clairvoyance through card-guessing experiments and spontaneous case collection. In the early twentieth century, J.B. Rhine at Duke University developed the Zener card protocol for clairvoyance testing - a sender-free design in which subjects attempted to identify the order of a shuffled deck of five-symbol cards without any person knowing the card sequence, intended to isolate clairvoyance from telepathy.[^1]
+The scientific investigation of clairvoyance began formally with the establishment of the Society for Psychical Research in London in 1882 and the [[American Society for Psychical Research]] in 1885. Early researchers including Frederic Myers and Edmund Gurney attempted to establish systematic evidence for clairvoyance through card-guessing experiments and spontaneous case collection. In the early twentieth century, J.B. Rhine at [[Duke University]] developed the Zener card protocol for clairvoyance testing - a sender-free design in which subjects attempted to identify the order of a shuffled deck of five-symbol cards without any person knowing the card sequence, intended to isolate clairvoyance from telepathy.[^1]
 
 ### SRI Remote Viewing Experiments
 

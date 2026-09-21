@@ -18,7 +18,7 @@ summary: "Marine lieutenant colonel and National Security Council staff member w
 born: 1943-10-07
 location: "San Antonio, Texas"
 ---
-Oliver North was a Marine lieutenant colonel and National Security Council staff member who ran the [[Central Intelligence Agency]]'s illegal Contra resupply operation from the White House during the 1980s, making him a central figure in the [[Iran-Contra Affair]].[^1][^2] North oversaw the covert arms and funding pipeline to the [[Contras]] during periods when Congress had prohibited such assistance, operating what became known as "the Enterprise."
+Oliver North was a Marine lieutenant colonel and National Security Council staff member who ran the [[Central Intelligence Agency]]'s illegal Contra resupply operation from the [[White House]] during the 1980s, making him a central figure in the [[Iran-Contra Affair]].[^1][^2] North oversaw the covert arms and funding pipeline to the [[Contras]] during periods when Congress had prohibited such assistance, operating what became known as "the Enterprise."
 
 ### Iran-Contra and the Octopus
 

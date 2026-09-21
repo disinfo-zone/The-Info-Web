@@ -32,7 +32,7 @@ The [[Washington Post]] struck first on October 4, 1996, under the headline "The
 
 ### Aftermath
 
-On May 11, 1997, Ceppos published a column acknowledging "shortcomings" in the series, a move the New York Times splashed on its front page. Ceppos killed all follow-up stories and transferred Webb to a suburban bureau. Webb resigned from the newspaper in November 1997. In March 1998, CIA Inspector General [[Fred Hitz]] testified before Congress that the CIA had maintained relationships with dozens of suspected drug traffickers during the Contra war and had failed to cut off those relationships. The New York Times reported on July 17, 1998, that CIA higher-ups knew about the drug connections, confirming central elements of the series.[^5]
+On May 11, 1997, Ceppos published a column acknowledging "shortcomings" in the series, a move the New York Times splashed on its front page. Ceppos killed all follow-up stories and transferred Webb to a suburban bureau. Webb resigned from the newspaper in November 1997. In March 1998, CIA Inspector General [[Fred Hitz]] testified before Congress that the CIA had maintained relationships with dozens of suspected drug traffickers during the Contra war and had failed to cut off those relationships. [[The New York Times]] reported on July 17, 1998, that CIA higher-ups knew about the drug connections, confirming central elements of the series.[^5]
 
 ### Footnotes
 

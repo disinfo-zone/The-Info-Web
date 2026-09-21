@@ -12,7 +12,7 @@ updated: 2026-05-17
 location: "Zandvoort, Netherlands"
 ---
 
-Zandvoort is a small coastal resort town in the [[Netherlands]], located approximately 30 kilometers west of [[Amsterdam]] on the North Sea coast, with a permanent population of approximately 17,000 that swells substantially in summer due to its beach tourism and Formula One-heritage motor racing circuit. The town's significance in this vault derives not from its geography but from its role as the operational base of a major child pornography production and distribution network whose discovery in 1998 became one of the most significant child abuse investigations in European history.[^1]
+Zandvoort is a small coastal resort town in the [[Netherlands]], located approximately 30 kilometers west of [[Amsterdam]] on the [[North Sea]] coast, with a permanent population of approximately 17,000 that swells substantially in summer due to its beach tourism and Formula One-heritage motor racing circuit. The town's significance in this vault derives not from its geography but from its role as the operational base of a major child pornography production and distribution network whose discovery in 1998 became one of the most significant child abuse investigations in European history.[^1]
 
 ### The Apollo Bulletin Board Service
 

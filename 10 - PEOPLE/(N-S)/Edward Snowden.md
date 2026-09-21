@@ -15,7 +15,7 @@ born: 1983-06-21
 location: "Elizabeth City, North Carolina"
 ---
 
-Edward Joseph Snowden was born June 21, 1983, in Elizabeth City, North Carolina, and grew up in the Washington D.C. area. He joined the CIA in 2006 and later worked as a contractor for the National Security Agency through Dell Inc. and then Booz Allen Hamilton. In May 2013 he traveled to Hong Kong with a cache of classified NSA documents. Beginning June 5, 2013, he authorized the publication of a series of disclosures through journalists Glenn Greenwald, Laura Poitras, and Barton Gellman of the Washington Post that revealed the existence and scope of NSA's mass surveillance programs operating under the authority of the USA PATRIOT Act and the Foreign Intelligence Surveillance Act.[^1]
+Edward Joseph Snowden was born June 21, 1983, in Elizabeth City, [[North Carolina]], and grew up in the Washington D.C. area. He joined the CIA in 2006 and later worked as a contractor for the National Security Agency through Dell Inc. and then Booz Allen Hamilton. In May 2013 he traveled to [[Hong Kong]] with a cache of classified NSA documents. Beginning June 5, 2013, he authorized the publication of a series of disclosures through journalists Glenn Greenwald, Laura Poitras, and Barton Gellman of the Washington Post that revealed the existence and scope of NSA's mass surveillance programs operating under the authority of the USA PATRIOT Act and the Foreign Intelligence Surveillance Act.[^1]
 
 ### Disclosures
 

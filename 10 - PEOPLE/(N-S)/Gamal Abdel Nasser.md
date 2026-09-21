@@ -33,7 +33,7 @@ Nasser emerged as premier in 1954 after the 1952 coup. His promotion of Pan-Arab
 
 ### Shift Toward Soviet Alliance
 
-After an Israeli military strike on an Egyptian military camp at [[Gaza]] in February 1955, Nasser began seeking arms outside Western channels. At the Bandung Conference of African and Asian nations in April 1955, he secured a promise of arms from Chinese premier Chou En-lai. Soviet delegations arrived in [[Cairo]] in July 1955, and by September Nasser announced Egypt would receive 200 Soviet bombers, 230 tanks, 200 troop carriers, and over 500 artillery pieces along with Soviet advisers - a deal that fundamentally altered the military balance in the Middle East and accelerated Egypt's move into the Soviet orbit.[^2]
+After an Israeli military strike on an Egyptian military camp at [[Gaza]] in February 1955, Nasser began seeking arms outside Western channels. At the Bandung Conference of African and Asian nations in April 1955, he secured a promise of arms from Chinese premier Chou En-lai. Soviet delegations arrived in [[Cairo]] in July 1955, and by September Nasser announced Egypt would receive 200 Soviet bombers, 230 tanks, 200 troop carriers, and over 500 artillery pieces along with Soviet advisers - a deal that fundamentally altered the military balance in the [[Middle East]] and accelerated Egypt's move into the Soviet orbit.[^2]
 
 ### The Suez Crisis
 

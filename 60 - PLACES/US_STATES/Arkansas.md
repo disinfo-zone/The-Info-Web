@@ -17,7 +17,7 @@ A Senate subcommittee later concluded that despite the availability of evidence 
 
 ### Iran-Contra Connection
 
-After Seal's CIA-DEA missions ended, he parked his C-123K cargo plane at the tiny Mena airport. He sold it back to the same company he had obtained it from, and in early 1986 it wound up with CIA contractor Southern Air Transport, where it was used for Contra supply runs based at Ilopango Air Base in [[San Salvador]] until its last, fatal flight, the shootdown that broke open the [[Iran-Contra Affair|Iran-Contra scandal]]. Seal's farm in Baton Rouge, Louisiana, according to a 1983 [[U.S. Customs]] report, was allegedly used as a drop site for cocaine and marijuana flown into the country aboard a DC-4 aircraft, the same plane that subsequently turned up flying supplies for the [[Contras]] through a company operated by FDN leader Adolfo Calero's brother.[^4]
+After Seal's CIA-DEA missions ended, he parked his C-123K cargo plane at the tiny Mena airport. He sold it back to the same company he had obtained it from, and in early 1986 it wound up with CIA contractor Southern Air Transport, where it was used for Contra supply runs based at Ilopango Air Base in [[San Salvador]] until its last, fatal flight, the shootdown that broke open the [[Iran-Contra Affair|Iran-Contra scandal]]. Seal's farm in [[Baton Rouge]], Louisiana, according to a 1983 [[U.S. Customs]] report, was allegedly used as a drop site for cocaine and marijuana flown into the country aboard a DC-4 aircraft, the same plane that subsequently turned up flying supplies for the [[Contras]] through a company operated by FDN leader Adolfo Calero's brother.[^4]
 
 ### Footnotes
 
