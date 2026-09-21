@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-09-21
 title: Howard Hunt
 aliases:
   - E. Howard Hunt
@@ -14,6 +14,11 @@ tags:
   - 1950s
   - 1960s
   - 1970s
+  - HowardHunt
+  - DomesticOperationsDivision
+  - MullenCompany
+  - ITT
+  - Wackenhut
 category: "Intelligence & Government"
 summary: "E. Howard Hunt was a CIA officer who ran psychological warfare for Operation PBSUCCESS (1954 Guatemala coup), served as political officer for the Bay of Pigs invasion, and was one of the Watergate burglars arrested in June 1972, serving 33 months in prison, and in his final years made statements implicating CIA figures in the Kennedy assassination."
 born: 1918-10-09
@@ -31,15 +36,25 @@ During the early 1950s Hunt worked under [[Frank Wisner]] in the Office of Polic
 
 ### Operation PBSUCCESS
 
-Hunt was assigned to Operation PBSUCCESS in 1953-1954 as chief of political action and propaganda. His primary responsibility was the "Voice of Liberation" - Radio Liberación - the CIA-operated radio station broadcasting from [[Honduras]] that fabricated reports of the exile Liberation Army's military successes in [[Guatemala]]. The radio campaign was central to the operation's psychological strategy: convincing the Guatemalan military officer corps that [[Jacobo Arbenz]]'s position was militarily hopeless, inducing the defections that ultimately forced Arbenz's resignation.
+Hunt was assigned to Operation PBSUCCESS in 1953-1954 as chief of political action and propaganda. His primary responsibility was the "Voice of Liberation" - Radio Liberación - the CIA-operated radio station broadcasting from [[Honduras]] that fabricated reports of the exile Liberation Army's military successes in Guatemala. The radio campaign was central to the operation's psychological strategy: convincing the Guatemalan military officer corps that [[Jacobo Arbenz]]'s position was militarily hopeless, inducing the defections that ultimately forced Arbenz's resignation.
 
 Hunt also managed the political exile leadership, working to maintain cohesion among the Guatemalan exile groups that would form the successor government. The experience gave Hunt a model he would attempt to apply in Cuba seven years later.[^1]
 
 ### Bay of Pigs
 
-Hunt was assigned as the CIA's political officer for the [[Bay of Pigs]] invasion, responsible for the Cuban Revolutionary Council - the exile political organization that would form a provisional government after the expected overthrow of [[Fidel Castro]]. He worked with the exile leadership in [[Miami]] and later in [[New York]], managing their political expectations and organizational disputes.
+Hunt was assigned as the CIA's political officer for the Bay of Pigs invasion, responsible for the Cuban Revolutionary Council - the exile political organization that would form a provisional government after the expected overthrow of [[Fidel Castro]]. He worked with the exile leadership in [[Miami]] and later in [[New York]], managing their political expectations and organizational disputes.
 
 The Bay of Pigs was a catastrophic failure, and Hunt's political operation collapsed along with the military operation. The exile political leadership was not told the operation was under way until it had already failed, and Hunt's management of their expectations was blamed by exile leaders for contributing to the political disorder. His role in the operation was not publicly acknowledged.[^1]
+
+### Domestic Operations Division
+A CIA security memorandum of 1972 gives Hunt's periods of overt employment as November 1949 to December 1950, November 1953 to January 1954, October 1956 to January 1957, and July 1960 to September 1966. His assistant [[Elizabeth McIntosh]] recorded in 1973 that when she returned from an overseas post "[[Tracy Barnes]] was setting up the [[Domestic Operations Division]] and Mr. Hunt was assigned Chief" of its covert action section, that she worked for him for three years, and that after his tour in [[Spain]] he came back as chief of covert action for the Europe division. [[Thomas Karamessines]] later distinguished for Senate investigators between the division's concept before and after his own appointment as deputy director for plans.[^2]
+
+The Philadelphia filmmaker [[R.C. Horsch]] said in a recorded interview published in 2026 that between 1961 and 1965 he tapped telephones and committed burglaries as a freelance for the [[Wackenhut Corporation]], and that a regular client introduced as "Mr. Smith" was Hunt. The CIA had granted [[George R. Wackenhut|George Wackenhut]] a covert security approval on November 21, 1961.[^3]
+
+### The Mullen Company and ITT
+Hunt retired on April 30, 1970, and went to work for the [[Robert R. Mullen Company]], a Washington public relations firm that had given cover to agency officers abroad since 1963. The agency's retirement office arranged the introduction and Director [[Richard Helms]] wrote a recommendation. Mullen told him of the cover arrangement without authorization, and the [[Central Cover Staff]] had him cleared as witting in June 1970. He told the staff in July 1971 that he had been assigned to the [[White House]].[^4]
+
+In March 1972, at the direction of [[Charles Colson]], he flew to [[Denver]] in a wig and with alias documents supplied by the agency to question the [[ITT Corporation|ITT]] lobbyist [[Dita Beard]] in her hospital room. The House subcommittee that examined the agency's part in Watergate listed the visit among the misuses of its assistance. On July 26, 1973, the Watergate special prosecutor's office asked the agency whether it knew of "any intelligence or undercover activities performed by Howard Hunt and/or [[G. Gordon Liddy|Gordon Liddy]] for ITT," of arrangements between ITT and the Mullen firm, or of any employment of the ITT publicist [[Hal Hendrix]]. The released reply addresses only the Mullen firm and an ITT office in [[Coral Gables, Florida|Coral Gables]].[^5]
 
 ### Watergate
 
@@ -47,7 +62,7 @@ By 1971, Hunt had been nominally retired from the CIA and was working as a consu
 
 On the night of June 17, 1972, Hunt organized and directed the team that broke into the [[Democratic National Committee]] headquarters at the [[Watergate complex]] in Washington - the burglary that produced five arrests, triggered the Senate investigation and Special Prosecutor investigation, and ultimately led to Nixon's resignation in August 1974.
 
-Hunt was convicted of conspiracy, burglary, and wiretapping and sentenced to 35 years, subsequently reduced. He served approximately 33 months in federal prison. His wife Dorothy died in a plane crash in December 1972, with some researchers suggesting the crash was not accidental; the official ruling was that it was an accident.[^2]
+Hunt was convicted of conspiracy, burglary, and wiretapping and sentenced to 35 years, subsequently reduced. He served approximately 33 months in federal prison. His wife Dorothy died in a plane crash in December 1972, with some researchers suggesting the crash was not accidental; the official ruling was that it was an accident.[^6]
 
 ### Kennedy Assassination Statements
 
@@ -60,4 +75,8 @@ Hunt died of pneumonia on January 23, 2007, in [[Miami, Florida|Miami]].[^1]
 ### Footnotes
 
 [^1]: Hunt, E. Howard. *American Spy: My Secret History in the CIA, Watergate, and Beyond.* Wiley, 2007. Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995.
-[^2]: Summers, Anthony. *The Arrogance of Power: The Secret World of Richard Nixon.* Viking, 2000. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.
+[^2]: McIntosh, Elizabeth, memorandum for the record, May 25, 1973, CIA Reading Room document C00609301; Central Cover Staff, "CIA Utilization of the Robert R. Mullen Company," June 20, 1972, C00573275; "Select Committee Testimony of 5 February 1974," C01474422.
+[^3]: West, Ashley. "Unknowing Ray Horsch, Episode 1: Youth," *The Rialto Report,* Podcast 171, September 13, 2026, audio at 18:34 to 22:49; Central Intelligence Agency, "Wackenhut Corporation, SF# 493 364," memorandum for the record, July 28, 1975, JFK Assassination Records Collection, record 104-10130-10454.
+[^4]: "E. Howard Hunt: Utilization by Central Cover Staff," 1970, CIA Reading Room document C00660613; Gahagen, Robert D., "Request for CSA concerning E. Howard Hunt," June 3, 1970, C00297384; "Letter of Recommendation Written by Mr. Helms," July 20, 1973, C00609297.
+[^5]: House Committee on Armed Services, Special Subcommittee on Intelligence, *Inquiry into the Alleged Involvement of the Central Intelligence Agency in the Watergate and Ellsberg Matters,* 93rd Cong., 1973; Ruth, Henry S., Jr., letter to John S. Warner, July 26, 1973, C01482382; "Inquiry Regarding Possible ITT Association with CIA and Robert R. Mullen and Company," August 7, 1973, C01367838.
+[^6]: Summers, Anthony. *The Arrogance of Power: The Secret World of Richard Nixon.* Viking, 2000. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.

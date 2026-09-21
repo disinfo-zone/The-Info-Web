@@ -1,0 +1,62 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+  - OrlandoLetelier
+  - Chile
+  - DINA
+  - OperationCondor
+  - Assassination
+  - CIA
+  - GeorgeHWBush
+alias:
+  - Marcos Orlando Letelier del Solar
+summary: "Former Chilean foreign minister killed with his colleague Ronni Moffitt by a car bomb in Washington on September 21, 1976, on orders the CIA later concluded came personally from Augusto Pinochet."
+died: 1976-09-21
+location: "Washington, D.C."
+created: 2026-09-21
+updated: 2026-09-21
+---
+
+Orlando Letelier was ambassador to the [[United States]] and then foreign and defense minister in the government of [[Salvador Allende]]. After a year in the prison camps of the junta he settled in Washington at the [[Institute for Policy Studies]]. On September 21, 1976, a bomb fixed under his car exploded at [[Sheridan Circle]] and killed him and his American colleague [[Ronni Moffitt]]. The bomb was placed by [[Michael Townley]], an American working for the Chilean secret police, [[DINA]], with men from the [[Cuban Nationalist Movement]]. Six weeks earlier the [[Central Intelligence Agency|CIA]] had received photographs of the passports with which DINA first tried to send its agents to Washington.[^1][^2]
+
+### The Paraguayan Passports
+
+In the summer of 1976 [[Conrado Pappalardo]], secretary to the president of [[Paraguay]], asked the American ambassador in [[Asuncion]], [[George W. Landau]], for visas for two Chilean officers traveling on Paraguayan passports under false names. Landau said later: "I decided to give them visas, which was obviously in violation of regulations." He added: "I made photostats of the applications and photostats of the pictures and sent them to Washington." The men told him the trip was approved by the CIA. The journalist [[John Dinges]] reported in 1980 that the agency took a week to answer, and that the reply came from Deputy Director [[Vernon Walters]], who denied any connection. "We've been able to establish," Dinges said, "that [[George H.W. Bush|George Bush]] personally handled the information from Paraguay in this intervening week, and discussed it with Vernon Walters, and together made the decision, first of all, to say, 'No, we have nothing to do with this mission,' and secondly, apparently, not to do anything to deter the mission." Landau had the visas revoked and the ports of entry alerted. In late August two men using the same names entered the United States on Chilean passports. "If it were not for the fact that I photographed the two people," Landau said, "the case could never have been broken."[^2][^3]
+
+The agency had been in contact with the chief of DINA, [[Manuel Contreras]], since 1974. In April 1975 its reporting identified Contreras as the principal obstacle to a reasonable human rights policy in the junta; an interagency committee directed it to continue the relationship, and Walters received Contreras in Washington that August. A proposal in May and June 1975 to put Contreras on the payroll was overruled, but, the agency reported in 2000, "given miscommunications in the timing of this exchange, a one-time payment was given to Contreras." By October 1976 the agency had enough information about [[Operation Condor]], the joint program of the [[Southern Cone]] services for tracking and killing exiles, that it raised the matter with Contreras, who said Condor was only an exchange of intelligence.[^4]
+
+Landau testified at the trial of the Cuban defendants in February 1979, as a witness for the defense. He said that Walters had been in Paraguay shortly before the request, that Pappalardo described the arrangement in a "bizarre conversation" in July 1976, and that "he had told them to contact Walters in the U.S. He said that would give Walters full control over their visit." He learned on July 27 or 28 that Walters had left the agency and that Bush had received the embassy's report, and heard from Walters on August 4 that "he knew nothing of the matter and did not want to get involved in it." When the passports came back the photographs had been removed. By agreement of both sides he was not asked in court about what he had told the [[Federal Bureau of Investigation|FBI]], which was that Pappalardo said the request had come directly from Pinochet.[^5]
+
+### The Cancelled Warning
+
+On August 23, 1976, the [[State Department]] drafted an instruction to the ambassadors in [[Buenos Aires]], [[Montevideo]], [[Santiago]], [[La Paz]], [[Brasilia]], and Asuncion to tell the governments that "government planned and directed assassinations within and outside the territory of Condor members has most serious implications which [we] must face squarely and rapidly." It was not delivered. On September 16 a cable from [[Henry Kissinger]]'s party in [[Lusaka]] stated: "Secretary declined to approve message to Montevideo and has instructed that no further action be taken on this matter." On September 20 Assistant Secretary [[Harry Shlaudeman]] cabled his bureau from [[San José, Costa Rica|San José]]: "You can simply instruct the ambassadors to take no further action, noting that there have been no reports in some weeks indicating an intention to activate the Condor scheme." The bomb went off the next morning. On September 29 Senator [[Daniel Inouye]] of the [[Senate Select Committee on Intelligence]] wrote to Bush asking what the agency knew of a reported high-level meeting in the Chilean government at which Letelier was discussed.[^6]
+
+### The Investigation
+
+Assistant U.S. Attorney [[Eugene Propper]] met Letelier's widow, [[Isabel Letelier]], and his colleagues at the [[Department of Justice|Justice Department]] on October 21, 1976. They asked [[United States Attorney General|Attorney General]] [[Edward Levi]] to subpoena the CIA's records, and Levi declined, saying the agency was cooperating. The [[Washington Post|Washington Post]] reported on November 1 that the agency believed Chilean operatives had not carried out the bombing, and that "[[Director of Central Intelligence|CIA Director]] Bush expressed this view in a conversation late last week with [[United States Secretary of State|Secretary of State]] Kissinger." The agency's first report naming Contreras as a suspect is dated October 6, 1976. It met him about six times in 1977, three of them to ask about the murder, and broke contact on November 3, 1977, when he was moved out of intelligence work.[^4][^7]
+
+Townley was expelled from [[Chile]] in 1978, pleaded guilty, and testified for the government. Chile refused to extradite Contreras and his deputy, [[Pedro Espinoza]]. [[Guillermo Novo]] and [[Alvin Ross Díaz]] were convicted of the murders and [[Ignacio Novo]] of lying to the grand jury. The [[United States Court of Appeals for the District of Columbia Circuit|D.C. Circuit]] reversed all three convictions on December 9, 1980. The case against Guillermo Novo and Ross had rested on cellmates who were working for the government, testimony the Supreme Court had ruled inadmissible six months earlier, and Ignacio Novo should have been tried separately. [[Armando Fernandez Larios]], the DINA officer who had conducted the surveillance and met Townley at [[John F. Kennedy International Airport|Kennedy Airport]] on September 9, 1976, pleaded guilty in 1987 to being an accessory after the fact and was paroled after five months. A federal court held Chile liable to the families in 1980.[^8][^9][^10]
+
+### Compensation
+
+The families sued Chile in 1978. Chile defaulted, and Judge [[Joyce Hens Green]] entered judgment in 1980 for more than five million dollars. They then tried to collect from the [[New York City|New York]] assets of the state airline, [[LAN Chile]], which the district court found had carried Townley, his explosives, and his money. Judge [[Morris Lasker]] called Chile's use of the airline a "gross abuse of the corporate form." The [[United States Court of Appeals for the Second Circuit|Second Circuit]] reversed him on November 20, 1984, finding only that "Michael Townley was able to enlist the cooperation of certain LAN pilots and officials with whom he had a pre-existing social relationship," and added that "hard cases make bad law." After Pinochet left office the two governments agreed on June 11, 1990, that Chile, "without admitting liability," would make an ex gratia payment to be fixed by a commission under a treaty of 1914. The commission awarded 2,611,892 dollars on January 11, 1992: 1.2 million to Isabel Letelier and her four sons for lost support, with 160,000 to her and 80,000 to each of them in moral damages, 483,000 to [[Michael Moffitt]], and 300,000 to Ronni Moffitt's parents. It excluded Letelier's income from lectures and publications and "took into account the significant steps undertaken by the Chilean Government and Congress to remedy human rights problems." The payment extinguished all other claims.[^11]
+
+### The 1987 Assessment
+
+In 1987 Secretary of State [[George Shultz]] asked the CIA to assess responsibility. Its report of May 1, 1987, "Pinochet's Role in the Letelier Assassination and Subsequent Coverup," concluded that [[Augusto Pinochet]] "personally ordered" the killing and had afterward considered eliminating Contreras. Shultz wrote to President [[Ronald Reagan]] on October 6 that the agency had "convincing evidence" and called the murder "a blatant example of a chief of state's direct involvement in an act of state terrorism." A State Department cable of January 22, 1987, quoted Contreras as saying he "authorized the assassination of Letelier on orders from Pinochet." The documents were withheld until 2015 and 2016, when they were given to President [[Michelle Bachelet]]. Most of the underlying intelligence remains classified.[^12]
+
+### Footnotes
+
+[^1]: United States v. Sampol, 636 F.2d 621 (D.C. Cir. 1980).
+[^2]: "Interview with Dinges and Landau," Radio TV Reports transcript, June 30, 1980, CIA Reading Room document 05535911. https://archive.org/details/cia-readingroom-document-05535911
+[^3]: Association for Diplomatic Studies and Training, "'The First Terrorist Attack in the U.S.': The Letelier-Moffitt Assassinations," oral history of Ambassador George W. Landau. https://adst.org/2014/02/the-first-terrorist-attack-in-the-u-s-the-letelier-moffitt-assassinations/
+[^4]: Central Intelligence Agency, "CIA Activities in Chile," report to Congress (Hinchey Report), September 18, 2000.
+[^5]: O'Leary, Jeremiah. "U.S. Envoy's Testimony Puts CIA Twist in Letelier Case," *The Washington Star,* February 9, 1979, and Burnham, David, report of the same date in *The New York Times,* CIA Reading Room clipping.
+[^6]: Department of State, cable State 209192, "Operation Condor," August 23, 1976; cable SECTO 27128, "Actions Taken," September 16, 1976; cable San José 4526, "Operation Condor," September 20, 1976, in Osorio, Carlos, ed. "Kissinger Blocked Demarche on International Assassinations to Condor States," National Security Archive Electronic Briefing Book No. 312, 2010. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB312/ ; Inouye, Daniel K., letter to George Bush, September 29, 1976, CIA Reading Room document 03303946.
+[^7]: "No New Leads Uncovered by Letelier Probe," *The Washington Post,* November 1, 1976, in CIA Reading Room document CIA-RDP99-00498R000100020097-6.
+[^8]: De Letelier v. Republic of Chile, 488 F. Supp. 665 (D.D.C. 1980).
+[^9]: Kornbluh, Peter, ed. "'Worst of the Worst': ICE and the Case of Chilean Intelligence Operative Armando Fernandez Larios," National Security Archive, July 10, 2026. https://nsarchive.gwu.edu/briefing-book/chile/2026-07-10/worst-worst-ice-and-case-chilean-intelligence-operative-armando
+[^10]: United States v. Henry, 447 U.S. 264 (1980).
+[^11]: De Letelier v. Republic of Chile, 748 F.2d 790 (2d Cir. 1984); "Dispute Concerning Responsibility for the Deaths of Letelier and Moffitt (United States, Chile)," decision of January 11, 1992, *Reports of International Arbitral Awards,* vol. XXV, pp. 1-19. https://legal.un.org/riaa/cases/vol_XXV/1-19.pdf
+[^12]: Kornbluh, Peter, ed. "CIA: 'Pinochet personally ordered' Letelier bombing," National Security Archive Electronic Briefing Book No. 560, September 23, 2016. https://nsarchive.gwu.edu/briefing-book/chile/2016-09-23/cia-pinochet-personally-ordered-letelier-bombing ; "The Pinochet File: U.S. Declassifies Missing Documents in the Letelier-Moffitt Case," Electronic Briefing Book No. 532, October 8, 2015.

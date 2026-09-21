@@ -1,6 +1,6 @@
-﻿---
+---
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-09-21
 title: David Atlee Phillips
 aliases:
   - David Phillips
@@ -14,6 +14,12 @@ tags:
   - Guatemala
   - 1950s
   - 1960s
+  - DavidAtleePhillips
+  - Chile
+  - ProjectFUBELT
+  - OrlandoLetelier
+  - AFIO
+  - Libel
 category: "Intelligence & Government"
 summary: "David Atlee Phillips was a CIA propaganda officer who ran La Voz de la Liberacion for the 1954 Guatemala coup, served as Chief of Cuban Operations at the CIA's Mexico City station during Lee Harvey Oswald's disputed September-October 1963 visit, and was identified in 2013 by Alpha 66 founder Antonio Veciana as the CIA officer 'Maurice Bishop' whom Veciana had seen with Oswald in Dallas two months before the Kennedy assassination - a claim Phillips denied under HSCA oath but that CIA officer Ron Crozier confirmed was a Phillips alias."
 born: 1922-10-31
@@ -25,9 +31,9 @@ David Atlee Phillips (October 31, 1922 - July 7, 1988) was a [[Central Intellige
 
 ### Early Career and PBSUCCESS
 
-Phillips served as an Air Force nose gunner during [[World War II]] and joined the CIA in 1950. Early assignments included Mexico City and undercover work in [[Cuba]] beginning in 1959, where he monitored the emerging revolutionary government. He published one novel under his own name, *The Carlos Contract* (1978), and also wrote the memoir *The Night Watch* (Atheneum, 1977) covering his CIA career.
+Phillips served as an Air Force nose gunner during [[World War II]] and joined the CIA in 1950. Early assignments included Mexico City and undercover work in Cuba beginning in 1959, where he monitored the emerging revolutionary government. He published one novel under his own name, *The Carlos Contract* (1978), and also wrote the memoir *The Night Watch* (Atheneum, 1977) covering his CIA career.
 
-For Operation PBSUCCESS in 1953-1954, the [[Central Intelligence Agency|CIA]]-organized coup against Guatemalan President [[Jacobo Arbenz]], Phillips ran the psychological warfare component alongside [[Tracy Barnes]] (the Washington coordinator) and [[Howard Hunt]] (chief of political action). Under the pseudonym "Paul D. Langevin," Phillips directed La Voz de la Liberacion (Voice of Liberation), the CIA's clandestine black radio network broadcasting from [[Honduras]] that fabricated reports of the Liberation Army's military progress and falsely attributed atrocities to the Arbenz regime. He distributed approximately 100,000 pamphlets titled "Chronology of Communism in Guatemala" and produced three films for cinema distribution.
+For Operation PBSUCCESS in 1953-1954, the CIA-organized coup against Guatemalan President [[Jacobo Arbenz]], Phillips ran the psychological warfare component alongside [[Tracy Barnes]] (the Washington coordinator) and [[Howard Hunt]] (chief of political action). Under the pseudonym "Paul D. Langevin," Phillips directed La Voz de la Liberacion (Voice of Liberation), the CIA's clandestine black radio network broadcasting from [[Honduras]] that fabricated reports of the Liberation Army's military progress and falsely attributed atrocities to the Arbenz regime. He distributed approximately 100,000 pamphlets titled "Chronology of Communism in Guatemala" and produced three films for cinema distribution.
 
 The PBSUCCESS radio campaign - combined with the cultivation of Guatemalan military officers to induce their defection from Arbenz - was the primary mechanism that induced Arbenz's resignation on June 27, 1954, despite the Liberation Army's modest actual military performance on the ground. Phillips later cited PBSUCCESS as a defining formative experience, and its propaganda model informed his subsequent Cuba work.[^1]
 
@@ -35,7 +41,16 @@ The PBSUCCESS radio campaign - combined with the cultivation of Guatemalan milit
 
 After undercover work in Havana in 1959-1960 and involvement in Bay of Pigs planning, Phillips worked at JM/WAVE, the CIA's large Miami station, on anti-Castro propaganda operations and directing exile organizations, including Alpha 66, during [[Operation Mongoose]].
 
-In September 1963, Phillips was appointed Chief of Cuban Operations at the CIA's [[Mexico City]] station, working under station chief [[Win Scott]]. This appointment placed Phillips in charge of CIA operations targeting the [[Cuba|Cuban]] consulate and Soviet Embassy in Mexico City at precisely the time Oswald (or someone representing himself as Oswald) visited both installations in late September and early October 1963, seeking Cuban and Soviet visas. The HSCA's 350-page Lopez Report, which investigated CIA operations in Mexico City in this period, documented that information "was not reported to CIA Headquarters in an accurate and expeditious manner prior to the assassination" and that "all information in the possession of the CIA Mexico City Station was not reported to CIA Headquarters in an accurate and expeditious manner." The Lopez Report was completed in 1979 and remained classified until a 1996 partial release; a more complete version was released in 2003 and is available at history-matters.com/archive/jfk/hsca/lopezrpt/.[^2]
+In September 1963, Phillips was appointed Chief of Cuban Operations at the CIA's [[Mexico City]] station, working under station chief [[Win Scott]]. This appointment placed Phillips in charge of CIA operations targeting the Cuban consulate and Soviet Embassy in Mexico City at precisely the time Oswald (or someone representing himself as Oswald) visited both installations in late September and early October 1963, seeking Cuban and Soviet visas. The HSCA's 350-page Lopez Report, which investigated CIA operations in Mexico City in this period, documented that information "was not reported to CIA Headquarters in an accurate and expeditious manner prior to the assassination" and that "all information in the possession of the CIA Mexico City Station was not reported to CIA Headquarters in an accurate and expeditious manner." The Lopez Report was completed in 1979 and remained classified until a 1996 partial release; a more complete version was released in 2003 and is available at history-matters.com/archive/jfk/hsca/lopezrpt/.[^2]
+
+### Chile, 1970
+After President [[Richard Nixon]] ordered the CIA on September 15, 1970, to prevent [[Salvador Allende]] from taking office in [[Chile]], the agency formed a task force under its deputy director for plans, [[Thomas Karamessines]]. Phillips ran it from day to day with [[William Broe]], chief of the [[CIA Western Hemisphere Division|Western Hemisphere Division]]. The operation had the cryptonym [[Project FUBELT]].[^3]
+
+On October 16 headquarters cabled the [[Santiago]] station: "It is firm and continuing policy that Allende be overthrown by a coup." The work was to be done "clandestinely and securely so that the USG and American hand be well hidden." The cable added: "There is great and continuing interest in the activities of Tirado, Canales, [[Camilo Valenzuela|Valenzuela]], et al, and we wish them optimum good fortune." The releasing officer named at its foot is David A. Phillips.[^4]
+
+On October 18 the station asked for "three .45 calibre machine guns (grease guns) with 500 rounds of ammo each" within 48 hours. Broe and Phillips approved the request, and in the same exchange raised and dropped the idea of "bomb drops in areas not likely to cause casualties." They instructed the station chief, [[Henry Hecksher]], to tell neither the army attaché nor Ambassador [[Edward Korry]] of the "impending coup," and if it came to "appear surprised and stonewall any and all queries." General [[Rene Schneider|René Schneider]], the army commander, was shot on October 22 and died on October 25. The Senate committee's 1975 report on the episode quotes the task force's officers without naming Phillips or Hecksher, and their names were attached to the cables only when the documents were declassified.[^3][^5]
+
+Phillips was chief of the Western Hemisphere Division when Allende was overthrown on September 11, 1973.
 
 ### The Maurice Bishop Controversy
 
@@ -57,6 +72,11 @@ HSCA chief counsel Robert Blakey stated the committee was "less than satisfied w
 
 Phillips retired from the CIA in 1975 as head of the Western Hemisphere Division at GS-18 rank, the highest CIA position not requiring executive appointment. That year he founded the Association of Former Intelligence Officers (AFIO), which became a platform for publicly defending the CIA against the reform pressures generated by the [[Church Committee]] investigations.
 
+### The Libel Suits
+The writers [[Donald Freed]] and [[Fred Landis]], authors of *Death in Washington*, on the murder of [[Orlando Letelier]], held a press conference in Washington in 1980 with the journalist [[John Cummings]]. They alleged that Phillips and the [[Association of Former Intelligence Officers]] had been involved in the killing, and that Phillips had been Lee Harvey Oswald's case officer under the name Maurice Bishop. Phillips sued them, the publisher [[Lawrence Hill]], and [[William Pepper]] in the federal court in Washington (Civil Actions 81-1407 and 81-2578), asking more than 90 million dollars. The litigation was paid for in part by [[Challenge, Inc.]], "An Intelligence Officers' Legal Action Fund," which also supported the libel suit brought by three former embassy officials in Santiago against the makers of the film [[Missing (film)|Missing]], on the death of [[Charles Horman]].[^6]
+
+After almost five years four of the five defendants settled in February 1986 for an undisclosed sum. Pepper could not be found. The retraction filed with the court said the authors and publisher "had no intention of charging or suggesting that Mr. Phillips played any role in the assassination of Orlando Letelier, that he was an accessory before or after the fact of that murder, or that he had any connection with Lee Harvey Oswald." Phillips said: "I certainly am satisfied because I believe it is a vindication." Of his former employer he said: "I have a feeling that the reaction of the CIA to former agents who file lawsuits is that they consider them something, perhaps, a cut above a gun smuggler or a narcotics smuggler." At the same press conference he said he had examined photocopies of papers from Letelier's briefcase showing that Letelier "had been cooperating with the [[Dirección General de Inteligencia|Cuban DGI]] intelligence service." "They existed," he said, though the [[Federal Bureau of Investigation|FBI]] "has claimed none exist."[^6]
+
 ### Later Statements and Death
 
 Phillips died of cancer on July 7, 1988. HSCA investigator Kevin Walsh reported that Phillips told him before his death: "My final take on the assassination is there was a conspiracy, likely including American intelligence officers." Reports attributed to Phillips' nephew Shawn Phillips indicated that Phillips' brother James reported a deathbed exchange in which David answered "Yes" when asked "Were you in Dallas that day?" An undated manuscript passage attributed to Phillips states he "handled" Oswald with a mission involving Castro - though the provenance of this text has been treated with varying skepticism by researchers and cannot be verified as authentically from Phillips.[^1]
@@ -71,3 +91,7 @@ In his 2017 memoir *Trained to Kill* (co-written with journalist Carlos Harrison
 
 [^1]: Veciana, Antonio, with Carlos Harrison. *Trained to Kill: The Inside Story of CIA Plots Against Castro, Kennedy, and Che.* Skyhorse Publishing, 2017. Fonzi, Gaeton. *The Last Investigation.* Thunder's Mouth Press, 1993. Phillips, David Atlee. *The Night Watch.* Atheneum, 1977.
 [^2]: House Select Committee on Assassinations. Veciana executive session testimony, April 25-26, 1978. Available at latinamericanstudies.org/belligerence/veciana.htm. Lopez, Edwin, and Dan Hardway. "Oswald, the CIA, and Mexico City" (Lopez Report). HSCA Staff Report, 1979. Available at history-matters.com/archive/jfk/hsca/lopezrpt/. Kinzer, Stephen, and Stephen Schlesinger. *Bitter Fruit: The Story of the American Coup in Guatemala.* Harvard University Press, 1983.
+[^3]: Kornbluh, Peter, ed. "The CIA and Chile: Anatomy of an Assassination," National Security Archive Electronic Briefing Book No. 728, October 22, 2020. https://nsarchive.gwu.edu/briefing-book/chile/2020-10-22/cia-chile-anatomy-assassination
+[^4]: Central Intelligence Agency, cable to Santiago station, October 16, 1970, Secret, Eyes Only. National Security Archive document 23596. https://nsarchive.gwu.edu/media/23596/ocr
+[^5]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Alleged Assassination Plots Involving Foreign Leaders,* S. Rept. 94-465, 1975, and staff report, *Covert Action in Chile, 1963-1973,* 1975.
+[^6]: Challenge, Inc., press release, February 14, 1986, CIA Reading Room document CIA-RDP90-00806R000100200056-7; Bruske, Ed. "Libel Suit Settled," *The Washington Post,* February 17, 1986, CIA-RDP91-00587R000200890014-0; "CIA agent winner in Letelier case," *The Washington Times,* February 1986, CIA-RDP90-00552R000403680003-9.

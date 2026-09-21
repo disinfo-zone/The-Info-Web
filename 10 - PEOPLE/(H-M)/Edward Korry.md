@@ -1,0 +1,47 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+  - EdwardKorry
+  - Chile
+  - ProjectFUBELT
+  - ChurchCommittee
+  - ITT
+  - StateDepartment
+alias:
+  - Edward M. Korry
+  - Ambassador Korry
+summary: "United States ambassador to Chile from 1967 to 1971 who planned the covert campaign against Salvador Allende, was kept ignorant of the CIA's coup plot, was blamed for it, and accused the Church Committee of a cover-up."
+location: "Santiago, Chile"
+created: 2026-09-21
+updated: 2026-09-21
+---
+
+Edward M. Korry was the [[United States]] ambassador to [[Chile]] from 1967 to 1971. He directed the embassy's covert political program against [[Salvador Allende]] in 1970, known as Track I. The [[Central Intelligence Agency|CIA]]'s separate effort to provoke a military coup, Track II or [[Project FUBELT]], was run without his knowledge on the instructions of President [[Richard Nixon]]. When the operations became public he was identified as a principal in the coup plot, and his diplomatic career ended.[^1][^2]
+
+### 1970
+
+Korry testified that before the election the embassy reported CIA polls showing that the conservative [[Jorge Alessandri]] would win with about 40 percent. After Allende's plurality on September 4 he cabled that General [[Rene Schneider|René Schneider]], the army commander who held the military to the constitution, "would have to be neutralized, by displacement if necessary." On October 16 the CIA's deputy director for plans, [[Thomas Karamessines]], cabled the [[Santiago]] station that it was "firm and continuing policy that Allende be overthrown by a coup," and instructed it to disregard contrary orders from the ambassador, who had not been informed. [[David Atlee Phillips]] signed the cable as releasing officer. Schneider was shot on October 22 and died three days later.[^1][^3]
+
+Korry said in 1974 that fund-raisers for all three candidates had approached the embassy in 1970, that Allende's had asked for one million dollars, and that none was given. He said that in early 1971 he had offered Allende "the most incredibly generous package we have ever offered any government," under which the [[United States Treasury]] would underwrite Chilean bonds if Chile negotiated compensation for [[ITT Corporation|ITT]], [[Anaconda Copper|Anaconda]], and [[Kennecott]], and that Allende told him that if he accepted there would be no Chilean revolution. He added that the United States had infiltrated the leadership of the Chilean Communist and Socialist parties. A cable of September 29, 1971, which he later gave to the Senate, called the confrontation over copper "a deliberate political decision by Allende" and "a conscious challenge to the tradition of US defense of its major business interests in [[Latin America]]."[^3][^4]
+
+### The Church Committee
+
+The [[Church Committee|Senate Select Committee on Intelligence Activities]] issued its reports on assassination plots and on covert action in Chile in November and December 1975. Both named Korry repeatedly. He said he had been barred from testifying despite six months of requests. When he did appear in public session he began: "I requested the CIA program in Chile. I planned much of the covert action in 1970. I drafted most of the policy that the United States pursued with the Allende government in 1971. I met with President Nixon in the [[Oval Office]] 2 weeks before General Schneider was murdered. I talked with Dr. [[Henry Kissinger|Kissinger]] before and after that grotesque and inexcusable episode. I even attended a [[40 Committee]] meeting. Yet this is the first time I appear before your committee." He called the suggestion that Track I had blurred into Track II "an outrageous falsehood." He said he had been "kept on for 1 more year with the certain knowledge of many in the Government that I did not know that the Allende government thought I was involved in those plots, and that the consequences for any exposure of that plot would fall upon me," and that he had received "a letter from the CIA warning me that public testimony was not in the national interest." His letter to Senator [[Frank Church]] of October 23, 1975, entered as an exhibit, stated that the [[Soviet Union]] and [[Cuba]] had given "very substantial sums for covert political action to the Communist party, to the [[Socialist Party of Chile|Socialist Party]] and to Allende himself."[^3]
+
+### The Trento Interviews
+
+In November 1976 Korry gave a series of interviews at his home in [[Briarcliff Manor, New York]], to [[Joseph Trento]] of the [[The News Journal (Wilmington)|Wilmington Sunday News Journal]], which reported that his charges were being examined by the [[Department of Justice]] for possible perjury by officials who had testified to the committee. Korry said that on the orders of [[Robert F. Kennedy]] tens of millions of dollars in CIA and [[United States Agency for International Development|Agency for International Development]] funds had gone to Jesuit-led Catholic groups in Chile; that under President [[John F. Kennedy|Kennedy]] relief money for the 1960 Chilean earthquake had been diverted to the same groups for political action; that Kennedy had recruited [[David Rockefeller]] to form the [[Business Group for Latin America]], which worked alongside the covert programs of three administrations; that the Allende government had accepted bribes from ITT, [[General Tire]], Cerro, and [[Anglo-Lautaro Nitrate]] to prevent expropriation; that ITT had defrauded the government of 89 million dollars by collecting on its federal investment insurance after paying them; and that Church and the committee's vice chairman, [[John Tower]], had made a deal limiting the inquiry into the multinational corporations and into the Kennedy and Johnson administrations. The answer the newspaper recorded was that the committee's report treated the intervention under all three presidents. The newspaper said the charges were confirmed in part by former diplomats and by [[State Department]] and CIA documents it had examined. The [[Overseas Private Investment Corporation]] had paid ITT 34.7 million dollars in cash and guaranteed 59.4 million in Chilean obligations in 1975.[^5][^6]
+
+### The Correction
+
+Korry did not find a position until 1979, when [[Connecticut College]] made him a visiting professor of international relations. [[Seymour Hersh]], who had written many of the articles in [[New York Times|The New York Times]] connecting him with the plot, including one reporting that he was about to be cited for contempt of Congress, telephoned him in November 1980 for help with a book on Kissinger. "He mentioned that he now knew everything I had told him was true," Korry said. "I said, 'Put it in writing. Tell [[A.M. Rosenthal|Abe Rosenthal]].'" In February 1981 the Times printed on its front page a 2,300-word article by Hersh, "New Evidence Backs Ex-Envoy on His Role in Chile," which said of the CIA's coup plotting that "none of this, it is now evident, was known to Ambassador Korry." It did not say that its author had written the original stories or that Korry had become a source for his book. "I led the way in trashing him," Hersh told Time. Korry then gave Hersh the information he wanted. Of the correction he said: "It's a start."[^2]
+
+### Footnotes
+
+[^1]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report,* 94th Cong., 1st sess., November 20, 1975; Central Intelligence Agency, cable to Santiago station, October 16, 1970, National Security Archive document 23596.
+[^2]: "The 2,300-Word Times Correction," *Time,* February 23, 1981, CIA Reading Room document CIA-RDP90-00552R000303370004-3.
+[^3]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Hearings,* vol. 7, *Covert Action,* 94th Cong., 1st sess., 1975, testimony of Edward M. Korry and exhibits 4 and 5; Senate Committee on Foreign Relations, Subcommittee on Multinational Corporations, *Multinational Corporations and United States Foreign Policy,* part 1, 93rd Cong., 1st sess., 1973, pp. 394-395.
+[^4]: Merino, Adolfo G. "Ex-U.S. Envoy Tells of '70 Offer to Chile," *The Washington Post,* September 1974, CIA Reading Room document CIA-RDP09T00207R001000020076-0.
+[^5]: Trento, Joseph. "JFK Began Chile Bribes, Envoy Says," *Sunday News Journal* (Wilmington, Del.), November 28, 1976, CIA Reading Room document CIA-RDP09T00207R001000030095-8.
+[^6]: *Foreign Relations of the United States, 1969-1976,* vol. XXI, *Chile, 1969-1973,* document 322, note. https://history.state.gov/historicaldocuments/frus1969-76v21/d322

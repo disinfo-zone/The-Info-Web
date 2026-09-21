@@ -1,0 +1,13 @@
+# Normalize all text files to LF in the repository regardless of each
+# machine's local git config. Prevents the "LF will be replaced by CRLF"
+# warnings that can abort staging/commits on Windows.
+* text=auto eol=lf
+
+# Treat common binary asset types as binary (never line-ending converted).
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.zip binary
