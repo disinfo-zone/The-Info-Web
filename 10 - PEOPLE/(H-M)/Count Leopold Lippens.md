@@ -14,7 +14,7 @@ location: "Knokke-Heist, Belgium"
 ---
 Leopold Raymond Maurice Francois Marie Ghislain Lippens was born on October 20, 1941, in Knokke, Belgium, into a prominent family with deep roots in the region's political and colonial history. His grandfather had served as governor-general of the Belgian Congo, and his father held the mayoral office of Knokke before him. His brother [[Count Maurice Auguste Lippens]] became a leading Belgian banker and businessman.[^1]
 
-Lippens served as mayor of Knokke-Heist for over forty years, from 1979 until his death in February 2021. He cultivated a public profile centered on the coastal resort's golf culture, claiming friendships with international figures including Jackie Kennedy, Ted Kennedy, and Donald Trump. He died on February 19, 2021, from leukemia, aged 79.[^1]
+Lippens served as mayor of Knokke-Heist for over forty years, from 1979 until his death in February 2021. He cultivated a public profile centered on the coastal resort's golf culture, claiming friendships with international figures including Jackie Kennedy, [[Ted Kennedy]], and Donald Trump. He died on February 19, 2021, from leukemia, aged 79.[^1]
 
 ### X-Dossier Allegations
 

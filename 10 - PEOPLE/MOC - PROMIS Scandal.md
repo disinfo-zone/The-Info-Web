@@ -29,7 +29,7 @@ Central figures in the PROMIS/INSLAW software scandal and related investigations
 | [[Cheri Seymour]] | Cheri Seymour is an investigative journalist and author. |
 | [[Cornelius Blackshear]] | Cornelius Blackshear was a U.S. |
 | [[Craig Olson]] | FBI agent from the D.C. Metropolitan Office present at Paul Wilcher's apartment after his mysterious death. |
-| [[D. Lowell Jensen]] | Inslaw alleged that Jensen had a 'previously developed negative attitude about PROMIS and INSLAW' and that he consciously ignored Inslaw's complaints about C. |
+| [[Lowell Jensen|D. Lowell Jensen]] | Inslaw alleged that Jensen had a 'previously developed negative attitude about PROMIS and INSLAW' and that he consciously ignored Inslaw's complaints about C. |
 | [[Daniel Magano]] | Alleged mobster observed meeting with Cabazon tribal administrator Dr. John Philip Nichols alongside La Cosa Nostra figures per Indio Police surveillance. |
 | [[Daniel Murphy]] | In early 1991, INSLAW Counsel Elliot Richardson asked Murphy to review the plausibility of claims about the covert dissemination of PROMIS for intelligence-tracking applications and to give his opinion on whether the claimed intelligence uses could explain Richard Thornburgh's inexplicable failure t |
 | [[Daniel Tessler]] | Daniel Tessler managed a venture capital fund called 53rd Street Ventures, Inc., which was formed around 1976 as an investment company. |
@@ -80,7 +80,7 @@ Central figures in the PROMIS/INSLAW software scandal and related investigations
 | [[John Keeney]] | John Keeney was a career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
 | [[John Otto]] | John Otto was the former Acting Director of the FBI. |
 | [[John Paul Nichols]] | John Paul Nichols was the 'Project Manager' for the Cabazon/Wackenhut Corporation Joint Venture, also known as Cabazon Arms. |
-| [[Johnny Rosselli]] | Organized crime leader enlisted by the CIA through Robert Maheu in 1960 to assist in assassination plots against Fidel Castro. |
+| [[Johnny Roselli|Johnny Rosselli]] | Organized crime leader enlisted by the CIA through Robert Maheu in 1960 to assist in assassination plots against Fidel Castro. |
 | [[Jonathan Ben Cnaan]] | Jonathan Ben Cnaan was an account executive with 53rd Street Ventures, a New York City venture capital firm that held a small equity investment in Inslaw. |
 | [[Joseph Coors]] | Prominent right-wing activist, Heritage Foundation associate, and FGBMFI member connected to the PROMIS/Cabazon network. |
 | [[Joseph R. (Mike) Benitez]] | Former Cabazon Tribal Council Chairman who wrote to President Reagan requesting investigation of non-Indian investors at Cabazon Casino. |

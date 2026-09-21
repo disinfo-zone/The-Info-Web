@@ -16,7 +16,7 @@ updated: 2026-05-22
 summary: "Conor Climo was a Las Vegas white supremacist and Feuerkrieg Division member sentenced to two years in federal prison in 2020 for possessing bomb-making components after an FBI undercover operation documented his plans to attack a Las Vegas synagogue and LGBTQ bar."
 ---
 
-Conor Climo was a resident of [[Las Vegas, Nevada]] who communicated with members of [[Feuerkrieg Division]] beginning in late 2017 and developed plans to conduct arson and explosive attacks against Jewish and LGBTQ targets in the Las Vegas area. He was arrested on 8 August 2019 by the [[FBI]]'s [[Las Vegas Joint Terrorism Task Force]] and pleaded guilty in February 2020 to federal charges in the [[District of Nevada]]. He was sentenced to two years in federal prison on 13 November 2020 by U.S. District Judge [[James Mahan]].[^1]
+Conor Climo was a resident of [[Las Vegas, Nevada]] who communicated with members of [[Feuerkrieg Division]] beginning in late 2017 and developed plans to conduct arson and explosive attacks against Jewish and LGBTQ targets in the [[Las Vegas]] area. He was arrested on 8 August 2019 by the [[FBI]]'s [[Las Vegas Joint Terrorism Task Force]] and pleaded guilty in February 2020 to federal charges in the [[District of Nevada]]. He was sentenced to two years in federal prison on 13 November 2020 by U.S. District Judge [[James Mahan]].[^1]
 
 ### Background and FKD Contact
 

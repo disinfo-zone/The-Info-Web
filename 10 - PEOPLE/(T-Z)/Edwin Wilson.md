@@ -27,7 +27,7 @@ Edwin P. Wilson was born May 3, 1928, in Rockland, Idaho. He died September 10, 
 
 ### CIA Career and Shackley Connection
 
-Wilson's CIA career included work in the Office of Security and Operations, with assignments involving maritime surveillance and logistics. He developed professional relationships with [[Ted Shackley]], [[Tom Clines]], and other senior CIA operations officers who formed the core of the network that later became involved in the [[Safari Club]] and Iran-Contra private operations. Wilson's logistical and administrative skills made him useful to this network, and he worked on the fringes of large-scale operations without occupying the senior positions held by Shackley or Clines.[^1]
+Wilson's CIA career included work in the [[CIA Office of Security|Office of Security]] and Operations, with assignments involving maritime surveillance and logistics. He developed professional relationships with [[Ted Shackley]], [[Tom Clines]], and other senior CIA operations officers who formed the core of the network that later became involved in the [[Safari Club]] and Iran-Contra private operations. Wilson's logistical and administrative skills made him useful to this network, and he worked on the fringes of large-scale operations without occupying the senior positions held by Shackley or Clines.[^1]
 
 In the mid-1970s, Wilson moved from CIA to Task Force 157, a Navy and DIA intelligence-gathering operation that used commercial cover - specifically, a shipping and offshore oil services company - to collect intelligence and run agents in international ports. Task Force 157 provided Wilson with a business infrastructure that he used for his own commercial arms and services activities.[^1]
 

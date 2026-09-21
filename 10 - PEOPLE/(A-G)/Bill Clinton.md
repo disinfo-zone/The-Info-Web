@@ -27,7 +27,7 @@ Bill Clinton (born William Jefferson Blythe III on August 19, 1946) is an Americ
 
 ### Governor of Arkansas and the Mena Drug Operations
 
-As Governor of Arkansas, Clinton presided over the period when [[Barry Seal]] operated his [[Central Intelligence Agency]]-connected [[cocaine]] smuggling operation at Mena airport. Clinton's close friend [[Danny Ray Lasater]] was convicted as part of a major drug ring in Little Rock, raising questions about what the governor knew about the activities at [[Mena, Arkansas|Mena]].[^16]
+As Governor of Arkansas, Clinton presided over the period when [[Barry Seal]] operated his [[Central Intelligence Agency]]-connected [[cocaine]] smuggling operation at Mena airport. Clinton's close friend [[Danny Ray Lasater]] was convicted as part of a major drug ring in [[Little Rock, Arkansas|Little Rock]], raising questions about what the governor knew about the activities at [[Mena, Arkansas|Mena]].[^16]
 
 Arkansas state trooper Larry Patterson testified that troopers were aware "that there was large quantities of drugs being flown into the Mena airport" and that "it was a CIA operation." Despite the scale of Seal's operations, which a letter from the Arkansas attorney general to U.S. Attorney General [[Ed Meese]] valued at 3 billion to 5 billion dollars in smuggled drugs, the state government took no action to shut down the operation. Clinton's administration in Arkansas presided over the period when the Mena airport served as a hub for both drug trafficking and Contra supply operations.[^16]
 

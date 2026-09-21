@@ -27,7 +27,7 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Brad Veek]] | Brad Veek was a cartographer and career submariner who played a role in Project Deep Quest. |
 | [[Brian D. Josephson]] | His work on the Josephson junction, a configuration of two layers of superconducting material sandwiching a thin layer of non-superconducting material, was part of the quark detector used in Hal Puthoff and Ingo Swann's psychokinesis experiment at SRI. |
 | [[Bud Duncan]] | Army civilian photo-interpreter and early member of the Gondola Wish (later Grill Flame) remote viewing unit. |
-| [[Caspar W. Weinberger]] | Secretary of Defense under Reagan whose military aide Lieutenant Colonel Higgins was abducted in Lebanon in 1988 with deep knowledge of classified matters. |
+| [[Caspar Weinberger|Caspar W. Weinberger]] | Secretary of Defense under Reagan whose military aide Lieutenant Colonel Higgins was abducted in Lebanon in 1988 with deep knowledge of classified matters. |
 | [[Charlene Cavanaugh Shufelt]] | Charlene Cavanaugh Shufelt was one of the five remote viewers from INSCOM who remained in the program when the DIA took over the psychoenergetics program. |
 | [[Charles Bohlen]] | Charles Bohlen (1904–1974) was a distinguished American diplomat who served as the U.S. |
 | [[Charles Frank Jordan]] | Charles Frank Jordan was a former special agent for the U.S. |
@@ -42,7 +42,7 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Donald A. Myers]] | Myers's deployment came two years after a new and more powerful set of Soviet microwave beams (MUTS-2) were picked up by the CIA in Moscow. |
 | [[Donald C. Latham]] | Assistant Secretary of Defense who served as chairman of the oversight panel for the Sun Streak program, the renamed Stargate Project. |
 | [[Donald M. Kerr]] | Director of Los Alamos National Laboratory who served on the science panel for the CIA's Sun Streak/Stargate remote viewing program. |
-| [[Donald T. Regan]] | Regan stated that 'Virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared by a woman in San Francisco who drew up horoscopes to make certain that the planets were in favorable alignment for the enterprise.' This revelation was confirmed by W |
+| [[Donald Regan|Donald T. Regan]] | Regan stated that 'Virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared by a woman in San Francisco who drew up horoscopes to make certain that the planets were in favorable alignment for the enterprise.' This revelation was confirmed by W |
 | [[Doug Henning]] | Doug Henning (1947–2000) was a renowned Canadian magician and illusionist. |
 | [[Douglas B. Hudson]] | This commendation highlights the high regard in which Morehouse was held by his superiors, despite later controversies surrounding his conduct and the eventual downfall of the psychic research program. |
 | [[Dr. D. G. Vinod]] | Puharich brought Vinod to the Round Table Foundation, where Vinod allegedly went into a trance and channeled a group of entities called 'the Nine Principles and Forces.' This event had a profound impact on Puharich, solidifying his belief in an external, possibly extraterrestrial, source for psychic |

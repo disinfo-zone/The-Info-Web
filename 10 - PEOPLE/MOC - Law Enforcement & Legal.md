@@ -76,7 +76,7 @@ Police, detectives, prosecutors, lawyers, and judges involved in related cases.
 | [[Thomas Gordon]] | LASD Major Violators detective who led the investigation into the Blandon-Ross cocaine network after receiving Jerry Guzzetta's Project Sahara reports. |
 | [[Tony Coelho]] | Coelho purchased property in partnership with one member of the Mariposa Board of Supervisors. |
 | [[Vivian L. Wagner]] | Her letter detailed the alleged corruption within the Mariposa County local government, including unlawful and corrupt activities by officials and departments, and the failure of the State Attorney General John Van de Kamp and federal agencies to investigate these allegations. |
-| [[Webb Hubbell]] | Arkansas lawyer and associate attorney general under Clinton with connections to weapons manufacturing for the Contras and the Mena, Arkansas drug investigation. |
+| [[Webster Hubbell|Webb Hubbell]] | Arkansas lawyer and associate attorney general under Clinton with connections to weapons manufacturing for the Contras and the Mena, Arkansas drug investigation. |
 | [[William Hundley]] | Hundley had recently joined Strauss's firm, Akin Gump Strauss Hauer & Feld. |
 | [[Yitzhak Kahan]] | As a result of the commission's findings, Maj. |
 | [[Yitzhak Tunic]] | Israeli lawyer who defended Michael Dennis Rohan in the 1969 El Aqsa Mosque arson case, later became Israel's state comptroller. |

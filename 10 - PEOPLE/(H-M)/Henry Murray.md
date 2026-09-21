@@ -21,7 +21,7 @@ Donovan gave Murray and a distinguished group of colleagues only 15 days before 
 
 ### Wartime Results
 
-More than 30 years after the war, Murray remained modest in his claims for the assessment system, saying that it was only an aid in weeding out the "horrors" among OSS candidates. Nevertheless, the secret agency's leaders believed in its results, and Murray's system became a fixture in the OSS, testing Americans and foreign agents alike. Some of Murray's young behavioral scientists went on to become prominent in public affairs, including [[John Gardner]], a psychologist teaching at [[Mount Holyoke College]] who helped Murray set up the original program, went on to open the West Coast OSS assessment site at a converted beach club in [[San Juan Capistrano]], and would later become Secretary of HEW in the [[Lyndon Johnson|Johnson]] administration and founder of [[Common Cause]].[^1]
+More than 30 years after the war, Murray remained modest in his claims for the assessment system, saying that it was only an aid in weeding out the "horrors" among OSS candidates. Nevertheless, the secret agency's leaders believed in its results, and Murray's system became a fixture in the OSS, testing Americans and foreign agents alike. Some of Murray's young behavioral scientists went on to become prominent in public affairs, including [[John Gardner]], a psychologist teaching at [[Mount Holyoke College]] who helped Murray set up the original program, went on to open the West Coast OSS assessment site at a converted beach club in [[San Juan Capistrano]], and would later become Secretary of HEW in the [[Lyndon B. Johnson|Johnson]] administration and founder of [[Common Cause]].[^1]
 
 ### Postwar Influence
 

@@ -30,7 +30,7 @@ The Birmingham Campaign of spring 1963 was the turning point of the civil rights
 
 The March on Washington on August 28, 1963 drew approximately 250,000 people to the National Mall. King's address, improvising past his prepared remarks into the "I Have a Dream" sequence, became one of the defining speeches in American political history.
 
-The [[Civil Rights Act of 1964]] and the [[Voting Rights Act of 1965]], signed by President [[Lyndon Johnson]], represented the legislative achievement of the movement's core demands - though King continued organizing for economic justice, fair housing, and against [[Vietnam War|Vietnam War]] escalation in the remaining years of his life.[^1]
+The [[Civil Rights Act of 1964]] and the [[Voting Rights Act of 1965]], signed by President [[Lyndon B. Johnson|Lyndon Johnson]], represented the legislative achievement of the movement's core demands - though King continued organizing for economic justice, fair housing, and against [[Vietnam War|Vietnam War]] escalation in the remaining years of his life.[^1]
 
 ### FBI Surveillance and COINTELPRO
 
@@ -50,7 +50,7 @@ King received the anonymous suicide letter and recognized its origin. He continu
 
 ### Vietnam and the Poor People's Campaign
 
-King's public opposition to the Vietnam War, which he articulated comprehensively in his "Beyond Vietnam: A Time to Break Silence" speech at [[Riverside Church]] on April 4, 1967 - exactly one year before his assassination - deepened the conflict with the [[Lyndon Johnson|Johnson]] administration and with mainstream civil rights organizations that feared alienating the president. King framed Vietnam as inseparable from the struggle for economic justice at home, arguing that the war consumed resources needed for the antipoverty programs of the Great Society while disproportionately drafting Black men to fight.
+King's public opposition to the Vietnam War, which he articulated comprehensively in his "Beyond Vietnam: A Time to Break Silence" speech at [[Riverside Church]] on April 4, 1967 - exactly one year before his assassination - deepened the conflict with the [[Lyndon B. Johnson|Johnson]] administration and with mainstream civil rights organizations that feared alienating the president. King framed Vietnam as inseparable from the struggle for economic justice at home, arguing that the war consumed resources needed for the antipoverty programs of the Great Society while disproportionately drafting Black men to fight.
 
 In 1968, King was organizing the Poor People's Campaign - a planned encampment of impoverished Americans in [[Washington, D.C.]] demanding economic legislation - when he traveled to Memphis to support a strike by Black sanitation workers against the city government. He had spoken in Memphis on March 18 and returned on April 3. His April 3 speech at the Mason Temple, in which he said "I've been to the mountaintop," was delivered under threat of assassination; King was aware of specific threats against his life.[^1]
 

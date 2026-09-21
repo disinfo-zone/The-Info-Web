@@ -1,4 +1,4 @@
-﻿---
+---
 created: 2026-05-17
 updated: 2026-05-17
 title: Operation Gold
@@ -27,7 +27,7 @@ Operation Gold (known in British planning as Operation Stopwatch) was a joint [[
 
 ### Planning and Construction
 
-The operation was planned jointly by the CIA's [[Berlin]] Base, led by [[Bill Harvey|William "Bill" Harvey]], and MI6 officers including [[George Blake]]. The technical challenge was substantial: a shaft had to be dug beginning from a warehouse in the American sector, extending approximately 450 meters under the sector boundary, beneath Schönefelder Chaussee (the main road connecting [[East Germany|East Berlin]] to the Soviet military compound at Karlshorst), and connecting to a tap chamber beneath the Soviet-operated cables. The Soviet cables carried communications between Soviet military headquarters and field units throughout East Germany and the Soviet bloc.
+The operation was planned jointly by the CIA's [[Berlin]] Base, led by [[William Harvey|William "Bill" Harvey]], and MI6 officers including [[George Blake]]. The technical challenge was substantial: a shaft had to be dug beginning from a warehouse in the American sector, extending approximately 450 meters under the sector boundary, beneath Schönefelder Chaussee (the main road connecting [[East Germany|East Berlin]] to the Soviet military compound at Karlshorst), and connecting to a tap chamber beneath the Soviet-operated cables. The Soviet cables carried communications between Soviet military headquarters and field units throughout East Germany and the Soviet bloc.
 
 The Americans built the warehouse cover facility and excavated the main tunnel; the British contributed their signals interception expertise in tapping cables and processing the take. Harvey served as the CIA operational director. MI6 sent its own signals specialists to assist with the interception technology.[^1]
 

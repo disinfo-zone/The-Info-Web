@@ -1,11 +1,10 @@
 ---
 title: Ronald Lister
 aliases:
-  - Ronald Lister
   - Ronald Jay Lister
   - Ron Lister
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-21
 category: "Intelligence & Government"
 tags:
   - Person
@@ -16,8 +15,11 @@ tags:
   - 1980s
   - ContraWar
   - DarkAllianceInvestigation
+  - nicaraguan
+  - contra-war
 summary: "Former police officer who became Danilo Blandón's partner in cocaine trafficking and weapons dealing through Pyramid International Security Consultants, with suspected CIA connections."
 ---
+
 Ronald Jay Lister was a former southern California police officer who became [[Danilo Blandon|Danilo Blandón]]'s partner in cocaine trafficking and weapons dealing during the 1980s, operating through his company [[Pyramid International Security Consultants]].[^1] Lister worked alongside Blandón for seven years and introduced a weapons and sophisticated electronics dimension to Blandón's drug ring that bore the hallmarks of [[Central Intelligence Agency|U.S. intelligence community]] involvement. The CIA has publicly denied any relationship with him.
 
 ### Law Enforcement Career
@@ -106,8 +108,23 @@ On October 27, 1986, the [[LASD Major Violators]] raided Lister's former Mission
 
 Deputies found papers showing Lister had "regular meeting with DIA subcontractor Scott Weekly," handwritten weapons lists including antiaircraft weapons, 1,000 AR-15 rifles, and napalm bombs, and a list of names including William Nelson, Roberto D'Aubuisson, and Scott Weekly. Federal agents copied over 1,000 pages of seized documents, then nearly all copies disappeared. The CIA's Los Angeles office sent an "Immediate Director" cable asking for traces on Lister, Blandón, and Meneses. Lister denied the CIA claims, but Sergeant Art Fransen said Lister erupted in a "tirade": "You guys don't know what you are doing. I deal with the CIA. I got power!"[^3]
 
+### Blandón
+
+Ron Lister was a former Laguna Beach police officer who became Danilo Blandón's partner in drug trafficking and weapons procurement, claiming high-level Central Intelligence Agency connections. Lister's activities illustrated the overlap between law enforcement, the drug trade, and intelligence operations in [[California]] during the 1980s.[^4]
+
+### Drug Trafficking Partnership
+
+The Torres brothers told investigators that "Blandón is working with an ex-Laguna Beach police officer by the name of Ronnie, who lives in an expensive house in Mission Viejo and drives a new Mercedes automobile. Ronnie transported 100 kilos of [[cocaine]] to the Black market and has transported millions of dollars to [[Miami]] for Danilo Blandón." Lister operated Mundy Security Group Inc., incorporated in Laguna Beach in mid-1983, which provided cover for his weapons procurement activities. He arranged weapons sales presentations to Contra leaders, with attendees including Eden Pastora and other top Contra figures.[^5]
+
+### CIA Claims and Arrest
+
+When arrested, Lister told detectives: "I know why you're here, but why are you here? Mr. Weekly knows what I'm doing and you're not supposed to be here." Lister told Detective Juarez "that he had dealings in [[South America]] and worked with the CIA and added that his friends in Washington weren't going to like what was going on." He claimed his CIA contact was the former Deputy Director of Operations working at Fluor Corporation. After the arrest, a CIA cable marked "Immediate Director" reported that individuals claiming CIA affiliation had been detained. Nearly all seized evidence was returned to Lister and Blandón within days.[^6]
+
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty"
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it"
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 18: "We bust our ass and the government's involved"
+[^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 9.
+[^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 9, Ch. 8.
+[^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 9.

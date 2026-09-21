@@ -52,7 +52,7 @@ Central figures in the U.S. government's investigations into psychic phenomena a
 | [[Sidney Gottlieb]] | Sidney Gottlieb was a CIA chemist and spymaster, notorious for his involvement in controversial programs like Project MKUltra, which explored mind control and chemical interrogation. |
 | [[Stansfield Turner]] | Stansfield Turner (1923–2018) was an American admiral who served as the DCI under President Jimmy Carter from 1977 to 1981. |
 | [[Uri Geller]] | When Geller was ten, his parents separated, and he moved with his mother to Cyprus. |
-| [[William E. Colby]] | Director of the CIA from 1973 to 1976 who believed Israel possessed nuclear weapons and might use them in an extreme situation. |
+| [[William Colby|William E. Colby]] | Director of the CIA from 1973 to 1976 who believed Israel possessed nuclear weapons and might use them in an extreme situation. |
 | [[William Odom]] | U.S. Army Major General who succeeded Edmund Thompson as ACSI and was skeptical of the Grill Flame remote viewing program. |
 | [[William Perry]] | William Perry served as the Undersecretary of Defense for Research and Engineering. |
 | [[William Rolya]] | INSCOM commander who provided tacit support for the military's remote viewing program during the early years of the Stargate Project. |

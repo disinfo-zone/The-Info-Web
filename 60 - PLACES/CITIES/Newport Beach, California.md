@@ -1,4 +1,4 @@
-﻿---
+---
 category: "City"
 tags:
   - geography
@@ -7,7 +7,7 @@ tags:
 summary: Newport Beach, California was where Ron Lister lived and operated his security business that was connected to Danilo Blandón's cocaine trafficking and weapons procurement network.
 ---
 
-Newport Beach, [[California]] was where [[Ron Lister]] maintained connections and operated in the Orange County area near his Laguna Beach base. The affluent coastal community was part of the geography of Lister's drug trafficking and weapons procurement activities with [[Danilo Blandon|Danilo Blandón]].[^1]
+Newport Beach, [[California]] was where [[Ronald Lister|Ron Lister]] maintained connections and operated in the Orange County area near his Laguna Beach base. The affluent coastal community was part of the geography of Lister's drug trafficking and weapons procurement activities with [[Danilo Blandon|Danilo Blandón]].[^1]
 
 ### Lister's Operations
 

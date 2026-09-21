@@ -42,7 +42,7 @@ ISA specializes in clandestine intelligence gathering and operational support, f
 2. SIGINT Squadron
 3. Mission Support Squadron
 
-Headquarters located at Fort Belvoir, VA; squadrons scattered across Maryland/D.C./Virginia area.
+Headquarters located at [[Fort Belvoir]], VA; squadrons scattered across Maryland/D.C./Virginia area.
 ### Connections to Other Organizations
 - Operates as a tactical arm of the [[NSA|National Security Agency]] (NSA)
 - Works closely with JSOC, SOCOM, and other intelligence agencies

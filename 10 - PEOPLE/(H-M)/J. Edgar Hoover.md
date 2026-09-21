@@ -40,7 +40,7 @@ Hoover was a frequent visitor to the Hotel Del Charro in La Jolla, California, a
 
 ### NUMEC Investigation and CIA Conflicts
 
-In October 1965, the [[Atomic Energy Commission|AEC]] referred the [[Nuclear Materials and Equipment Corporation|NUMEC]] losses to the FBI. However, Hoover saw no basis for an investigation, concluding that the situation was an administrative matter. He was in the midst of a bitter dispute with [[James Jesus Angleton]]'s counterintelligence shop over the [[Central Intelligence Agency|CIA]]'s handling of defectors and illegal spying inside the [[United States]]. Hoover chose to spar with [[Richard M. Helms|Helms]] over the [[Zalman Mordecai Shapiro|Shapiro]] issue, telling the CIA to go to [[Israel]] and get inside [[Dimona]] to find evidence of the alleged uranium diversion.[^2]
+In October 1965, the [[Atomic Energy Commission|AEC]] referred the [[Nuclear Materials and Equipment Corporation|NUMEC]] losses to the FBI. However, Hoover saw no basis for an investigation, concluding that the situation was an administrative matter. He was in the midst of a bitter dispute with [[James Jesus Angleton]]'s counterintelligence shop over the [[Central Intelligence Agency|CIA]]'s handling of defectors and illegal spying inside the [[United States]]. Hoover chose to spar with [[Richard Helms|Helms]] over the [[Zalman Mordecai Shapiro|Shapiro]] issue, telling the CIA to go to [[Israel]] and get inside [[Dimona]] to find evidence of the alleged uranium diversion.[^2]
 
 ### Footnotes
 

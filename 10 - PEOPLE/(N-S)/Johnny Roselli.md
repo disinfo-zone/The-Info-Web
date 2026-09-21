@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-09-21
 title: Johnny Roselli
 aliases:
   - Filippo Sacco
@@ -13,6 +13,7 @@ tags:
   - AntiCastro
   - JFKAssassination
   - LasCosas
+  - PROMIS
 category: "Organized Crime"
 summary: "Johnny Roselli was a senior Chicago Outfit figure operating in Las Vegas and Hollywood who was recruited by the CIA in 1960 as the primary organized crime conduit for assassination plots against Fidel Castro, testified before the Church Committee in 1975-1976, and was murdered and stuffed in an oil drum in Dumfoundling Bay, Florida, shortly after his second Senate appearance."
 born: 1905-07-04
@@ -24,7 +25,7 @@ Johnny Roselli (born Filippo Sacco, July 4, 1905, Esperia, Caserta, Italy - died
 
 ### Organized Crime Career
 
-Roselli entered organized crime in Chicago in the 1920s, working within the Capone organization. By the 1930s he had moved to Los Angeles and become the Chicago Outfit's principal representative on the West Coast, overseeing gambling operations and cultivating connections to Hollywood studios and labor unions. He subsequently became the Outfit's primary presence in Las Vegas, managing interests in the Stardust and other casinos and coordinating with other organized crime families sharing Nevada gambling operations.[^1]
+Roselli entered organized crime in Chicago in the 1920s, working within the Capone organization. By the 1930s he had moved to Los Angeles and become the Chicago Outfit's principal representative on the West Coast, overseeing gambling operations and cultivating connections to Hollywood studios and labor unions. He subsequently became the Outfit's primary presence in [[Las Vegas]], managing interests in the Stardust and other casinos and coordinating with other organized crime families sharing Nevada gambling operations.[^1]
 
 Roselli was meticulous about maintaining a legitimate surface appearance. He socialized extensively with Hollywood figures, lawyers, and businessmen, and cultivated a persona more polished than many organized crime contemporaries. This social facility was precisely what the CIA sought when approaching organized crime for anti-Castro operations.
 
@@ -38,7 +39,7 @@ When [[William Harvey]] replaced Maheu as the CIA's primary handler for the mob 
 
 ### Church Committee Testimony
 
-When the [[Church Committee]] investigated CIA assassination plots in 1975, Roselli was subpoenaed to testify. He appeared before the committee in June 1975 and again in April 1976. His testimony was taken in closed session.
+When the Church Committee investigated CIA assassination plots in 1975, Roselli was subpoenaed to testify. He appeared before the committee in June 1975 and again in April 1976. His testimony was taken in closed session.
 
 During his second appearance, Roselli elaborated on a theory he had been advancing since 1967 through journalist Jack Anderson - that the CIA-organized crime anti-Castro network had been "turned around" by Cuban or pro-Castro operatives and used to kill President [[John F. Kennedy|Kennedy]] in November 1963. This theory was not corroborated by physical evidence but attracted attention because of Roselli's direct participation in the anti-Castro infrastructure.
 
@@ -50,7 +51,12 @@ The CIA-Roselli relationship was among the most extensively documented findings 
 
 Roselli's murder, coming immediately after his Senate testimony, reinforced the narrative that witnesses to the deepest level of CIA-organized crime cooperation did not survive to tell the full story.[^2]
 
+### Maheu
+
+Johnny Rosselli was an organized-crime leader who was contacted by Robert Maheu in 1960 as part of CIA operations to assassinate Fidel Castro. Rosselli, along with Sam Giancana and Santos Trafficante, Jr., was enlisted to assist in these efforts, which involved Cuban exiles.[^3]
+
 ### Footnotes
 
 [^1]: Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Alleged Assassination Plots Involving Foreign Leaders.* Senate Report No. 94-465, 1975. Rappleye, Charles, and Ed Becker. *All American Mafioso: The Johnny Roselli Story.* Doubleday, 1991.
 [^2]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995.
+[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

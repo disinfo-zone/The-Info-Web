@@ -63,10 +63,10 @@ Central figures in the Iran-Contra affair and October Surprise.
 | [[Pablo Escobar]] | Pablo Escobar was the leader of the Medellín Cartel who allegedly made a deal with Vice President George Bush's administration and whose cocaine empire supplied Contra-connected trafficking networks. |
 | [[Reza Hashemi]] | Iranian arms dealer and one of the Hashemi brothers involved in secret arms sales and hostage negotiations related to Iran-Contra. |
 | [[Ricardo Lau]] | Ricardo Lau was a former Nicaraguan National Guard intelligence officer who co-founded the FDN Contra army and served as its death squad leader and chief torturer. |
-| [[Rob Owen]] | Rob Owen was Oliver North's courier and liaison to the Contra leadership who reported on drug trafficking by Contra supply companies. |
+| [[Robert Owen|Rob Owen]] | Rob Owen was Oliver North's courier and liaison to the Contra leadership who reported on drug trafficking by Contra supply companies. |
 | [[Robert Parry]] | American investigative journalist who broke early stories on Contra drug trafficking, produced Frontline documentaries on Iran-Contra, and argued the CIA's secret agreement with Justice was designed to protect narcotics traffickers. |
 | [[Roger Mayorga]] | Roger Mayorga was a former Sandinista intelligence officer who headed criminal investigations for the Nicaraguan National Police narcotics unit and monitored Norwin Meneses for years. |
-| [[Ron Lister]] | Ron Lister was a former Laguna Beach police officer who became Danilo Blandón's partner in drug trafficking and weapons procurement, claiming high-level CIA connections. |
+| [[Ronald Lister|Ron Lister]] | Ron Lister was a former Laguna Beach police officer who became Danilo Blandón's partner in drug trafficking and weapons procurement, claiming high-level CIA connections. |
 | [[Sandra Smith]] | Sandra Smith was a DEA agent who filed an affidavit in 1981 documenting Norwin Meneses's involvement in cocaine trafficking, years before the Frogman Case. |
 | [[Socrates Sofi-Perez]] | Socrates Sofi-Perez was a Cuban Bay of Pigs veteran and DEA informant who described the Contra drug trafficking scheme at Ilopango Air Base to Celerino Castillo. |
 | [[Spencer Oliver]] | Chief counsel for the House Foreign Relations Committee involved in Iran-Contra hearings, later admitting the hearings were a cover-up. |

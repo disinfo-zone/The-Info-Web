@@ -12,7 +12,7 @@ By 1983, Moriarty faced legal troubles. The *Los Angeles Times* reported that he
 
 In 1985, Moriarty pleaded guilty to mail fraud in what became the biggest political scandal in California in 30 years, leading to the indictment of over 10 prominent politicians for taking bribes from him.[^1]
 
-Moriarty was subpoenaed to testify on behalf of [[Bo Gritz]] at his trial in Las Vegas. Moriarty's lawyer, [[Jan Lawrence Handzlik]], stated that Moriarty had paid Gritz to make business trips to [[China]], [[Singapore]], and other parts of [[Asia]]. Gritz claimed his July 1989 trip to [[Asia]] was to negotiate an oil interest he and Moriarty had set up between the [[People's Republic of China]] and [[Indonesia]].[^1]
+Moriarty was subpoenaed to testify on behalf of [[Bo Gritz]] at his trial in [[Las Vegas]]. Moriarty's lawyer, [[Jan Lawrence Handzlik]], stated that Moriarty had paid Gritz to make business trips to [[China]], [[Singapore]], and other parts of [[Asia]]. Gritz claimed his July 1989 trip to [[Asia]] was to negotiate an oil interest he and Moriarty had set up between the [[People's Republic of China]] and [[Indonesia]].[^1]
 
 ---
 ### Footnotes

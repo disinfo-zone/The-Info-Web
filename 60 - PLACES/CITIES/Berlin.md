@@ -1,4 +1,4 @@
-﻿---
+---
 category: "City"
 tags:
   - City
@@ -17,7 +17,7 @@ Berlin is the capital of [[Germany]], a city of approximately 3.7 million people
 
 ### CIA Berlin Base
 
-The CIA's Berlin Base, operating from the American sector, was one of the agency's largest and most important Cold War stations. In the early 1950s, [[Bill Harvey]], one of the CIA's most aggressive Cold War operators, ran Berlin Base and managed [[Operation Gold]] (1955-1956) - the CIA-MI6 project to dig a tunnel from West Berlin into East Berlin to tap Soviet military communication cables. The tunnel operated for approximately eleven months before the KGB, which had been tipped off by British mole [[George Blake]], allowed it to be discovered in April 1956 in a manner designed to protect Blake's identity.[^2]
+The CIA's Berlin Base, operating from the American sector, was one of the agency's largest and most important Cold War stations. In the early 1950s, [[William Harvey|Bill Harvey]], one of the CIA's most aggressive Cold War operators, ran Berlin Base and managed [[Operation Gold]] (1955-1956) - the CIA-MI6 project to dig a tunnel from West Berlin into East Berlin to tap Soviet military communication cables. The tunnel operated for approximately eleven months before the KGB, which had been tipped off by British mole [[George Blake]], allowed it to be discovered in April 1956 in a manner designed to protect Blake's identity.[^2]
 
 Berlin Base also managed defector operations, agent recruitment along the East-West border, and analysis of Soviet military movements. The base's access to East-West border crossing points made it uniquely positioned for human intelligence collection and defector handling. [[James Angleton]], the CIA's counterintelligence chief, used Berlin as a key location in his obsessive mole-hunting operations.[^1]
 

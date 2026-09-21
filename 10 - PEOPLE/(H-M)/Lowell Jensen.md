@@ -1,7 +1,7 @@
 ---
 category: "PROMIS Scandal"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-09-21
 tags:
   - Person
   - PROMIS
@@ -11,7 +11,10 @@ tags:
 summary: "D. Lowell Jensen served as Alameda County District Attorney, then as Associate Attorney General and Deputy Attorney General under Edwin Meese, and was named by INSLAW and the House Judiciary Committee as a key figure in the alleged conspiracy to steal and suppress the PROMIS software."
 born: 1928-06-03
 location: "Brigham City, Utah"
+alias:
+  - D. Lowell Jensen
 ---
+
 Delwen Lowell Jensen was born June 3, 1928, in Brigham City, Utah. He earned a BA from UC Berkeley in 1949 and a JD from UC Berkeley School of Law in 1952, then served as an Army Corporal from 1952 to 1954. He entered the Alameda County District Attorney's office in 1955 as a deputy, rising to Assistant District Attorney by 1966 and District Attorney by 1969, a position he held until 1981. Among his significant prosecutions as Alameda County DA were members of the Black Panthers and the Patty Hearst case.[^1]
 
 In 1981, Jensen was appointed Assistant Attorney General for the Criminal Division under Attorney General [[William French Smith]], then elevated to Associate Attorney General in 1983 and Deputy Attorney General in 1985 under [[Edwin Meese]]. He was appointed to the federal bench as a U.S. District Judge for the Northern District of California in June 1986, a position he held until senior status in 1997.[^1]
@@ -26,7 +29,7 @@ As Associate Attorney General and subsequently Deputy Attorney General, Jensen o
 
 [[George Francis Bason, Jr.|Bankruptcy Judge Bason]] concluded in his September 1987 findings that Jensen's "biased attitude toward Inslaw contributed to the situation in which Inslaw's complaints about Brewer and the administration of the PROMIS implementation contract went unheeded."[^3]
 
-The [[Edwin Meese|Meese]] recusal added further significance to Jensen's role: Meese reportedly recused himself from PROMIS matters upon becoming Attorney General in February 1985, given his association with [[Earl Brian]] from the Reagan California cabinet years. Jensen therefore handled all DOJ decision-making on PROMIS from February 1985 onward.[^4] It was Jensen's secretary who brought a letter to [[William Bradford Reynolds]] for signature during a period when Jensen was out of the building - a letter advising that PROMIS software was being provided to an Arab sheik for resale and general distribution, which Reynolds signed under the impression it required a signature from someone in Meese's inner circle.[^4]
+The Meese recusal added further significance to Jensen's role: Meese reportedly recused himself from PROMIS matters upon becoming Attorney General in February 1985, given his association with [[Earl Brian]] from the Reagan California cabinet years. Jensen therefore handled all DOJ decision-making on PROMIS from February 1985 onward.[^4] It was Jensen's secretary who brought a letter to [[William Bradford Reynolds]] for signature during a period when Jensen was out of the building - a letter advising that PROMIS software was being provided to an Arab sheik for resale and general distribution, which Reynolds signed under the impression it required a signature from someone in Meese's inner circle.[^4]
 
 ### House Judiciary Committee Findings
 

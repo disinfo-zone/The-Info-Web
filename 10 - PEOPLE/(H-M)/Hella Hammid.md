@@ -31,7 +31,7 @@ The SRI protocol for Hammid and other subjects involved an outbound experimenter
 
 ### Project Deep Quest
 
-Hammid participated in [[Project Deep Quest]] in the summer of 1977, a unique experiment testing whether remote viewing could be performed under extreme environmental conditions. The experiment, conducted in the Pacific Ocean near Catalina Island, used the deep-sea research submersible *Taurus I*.
+Hammid participated in [[Project Deep Quest]] in the summer of 1977, a unique experiment testing whether remote viewing could be performed under extreme environmental conditions. The experiment, conducted in the [[Pacific Ocean]] near Catalina Island, used the deep-sea research submersible *Taurus I*.
 
 In one part of the experiment, Hammid worked with [[Ingo Swann]] to attempt to identify the locations of previously unidentified seafloor shipwrecks, using maps and dowsing-style intuitive technique. Both subjects independently marked a single location; when the *Taurus I* investigated, the submersible found an uncharted wreck.
 

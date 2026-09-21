@@ -30,19 +30,23 @@ He was a large man - six foot six - and a skilled public speaker, qualities that
 
 Garrison's Kennedy assassination investigation began in November 1966, triggered by his encounter with Senator [[Russell Long]], who expressed skepticism about the [[Warren Commission]]'s lone-gunman conclusion. Garrison began reviewing materials available in the public record and became interested in the New Orleans network of anti-Castro Cuban exile operatives, intelligence figures, and associated individuals who had been active in the city in 1963.
 
-His investigation focused on three figures: [[David Ferrie]], [[Guy Banister]], and eventually [[Clay Shaw]]. Garrison believed this network had organized Kennedy's assassination using [[Lee Harvey Oswald]] as the designated patsy. Ferrie died on February 22, 1967, days after Garrison's investigation became public. Banister had died in June 1964. Shaw became the only remaining figure Garrison could charge.
+His investigation focused on three figures: [[David Ferrie]], [[Guy Banister]], and eventually Clay Shaw. Garrison believed this network had organized Kennedy's assassination using [[Lee Harvey Oswald]] as the designated patsy. Ferrie died on February 22, 1967, days after Garrison's investigation became public. Banister had died in June 1964. Shaw became the only remaining figure Garrison could charge.
 
 The investigation attracted controversy from its earliest stages. Garrison's methods - which included granting immunity to questionable witnesses, using sodium pentothal (truth serum) in interrogations, and making claims he could not prove - were criticized by mainstream journalists and legal observers. He also alleged, and produced evidence for, active obstruction of his investigation by the [[Central Intelligence Agency|CIA]].[^1]
 
 ### The Shaw Trial
 
-Garrison arrested Clay Shaw on March 1, 1967, charging him with conspiracy to assassinate President Kennedy. Shaw - a prominent New Orleans businessman, founder of the International Trade Mart, and pillar of the city's cultural establishment - denied any connection to the alleged conspiracy.
+Garrison arrested Clay Shaw on March 1, 1967, charging him with conspiracy to assassinate President Kennedy. Shaw - a prominent New Orleans businessman, founder of the [[International Trade Mart]], and pillar of the city's cultural establishment - denied any connection to the alleged conspiracy.
 
 The trial began in January 1969. Garrison's central witnesses included [[Perry Russo]], who testified he had attended a meeting at which Shaw, Ferrie, and Oswald discussed killing Kennedy, and a hypnosis patient whose testimony about Shaw was later challenged on the grounds that it had been shaped by hypnotic suggestion. The defense demolished much of the prosecution's witness testimony.
 
 The jury acquitted Shaw on March 1, 1969, after less than an hour of deliberation. Shaw subsequently brought a civil suit against Garrison for malicious prosecution.
 
 Post-trial, documents released through the [[Assassination Records Review Board|JFK Assassination Records Collection]] confirmed that Shaw had been a CIA domestic contact - a fact denied by CIA Director [[Richard Helms]] under oath during the trial. The documents also showed CIA active involvement in monitoring Garrison's investigation and, according to some researchers, working to undermine it.[^2]
+
+### The Federal Court
+
+Two days after Shaw's acquittal Garrison charged him with perjury. Shaw's lawyers sued in federal court, and after a three-day hearing in January 1971 Judge [[Herbert Christenberry]] enjoined the prosecution as brought in bad faith. The [[United States Court of Appeals for the Fifth Circuit|Fifth Circuit]] affirmed in 1972. The court found that the investigation had been paid for in large part by a private fund, [[Truth or Consequences (New Orleans)|Truth or Consequences]], formed by three businessmen in February 1967, whose money passed through an unaudited account on which Garrison drew at will. "When Shaw was arrested the money came in; when he was acquitted, it stopped." It credited the testimony of the detective [[William Gurvich]], who had worked on the investigation for six months and resigned on June 27, 1967, calling it a "fraudulent, criminal act." It found that the chief witness, Perry Russo, had been given sodium pentothal and hypnotized before he implicated Shaw, that he had told a police polygraph examiner in June 1967 that "if pressed" he would say Shaw was not present, and that the examiner's report was withheld from the defense. It found that Garrison had a contract for three books. In July 1967 Garrison had charged the [[NBC]] reporter [[Walter Sheridan]] with bribing a witness after the network's critical broadcast, and Sheridan, it later emerged, had been passing information from inside Garrison's office to the general counsel of the CIA.[^3]
 
 ### Legacy
 
@@ -54,3 +58,4 @@ Garrison served as a Louisiana appeals court judge from 1978 until shortly befor
 
 [^1]: Garrison, Jim. *On the Trail of the Assassins.* Sheridan Square Press, 1988. Davy, William. *Let Justice Be Done: New Light on the Jim Garrison Investigation.* Jordan Publishing, 1999.
 [^2]: DiEugenio, James. *Destiny Betrayed: JFK, Cuba, and the Garrison Case.* Sheridan Square Press, 1992. Melanson, Philip H. *Spy Saga: Lee Harvey Oswald and U.S. Intelligence.* Praeger, 1990.
+[^3]: Shaw v. Garrison, 328 F. Supp. 390 (E.D. La. 1971), affirmed, 467 F.2d 113 (5th Cir. 1972); Sheridan v. Garrison, 415 F.2d 699 (5th Cir. 1969); Holland, Max. "The Lie That Linked CIA to the Kennedy Assassination," *Studies in Intelligence,* vol. 45, no. 5, 2001.

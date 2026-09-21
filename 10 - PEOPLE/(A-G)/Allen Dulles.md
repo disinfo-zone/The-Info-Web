@@ -70,7 +70,7 @@ Dulles submitted his resignation in September 1961; it was formally accepted Nov
 
 ### The Warren Commission
 
-On November 29, 1963 - exactly two years after Dulles's forced resignation - President [[Lyndon Johnson]] appointed the Warren Commission to investigate Kennedy's assassination. Among the seven commissioners Johnson named was Allen Dulles despite Kennedy’s firing of Dulles.
+On November 29, 1963 - exactly two years after Dulles's forced resignation - President [[Lyndon B. Johnson|Lyndon Johnson]] appointed the Warren Commission to investigate Kennedy's assassination. Among the seven commissioners Johnson named was Allen Dulles despite Kennedy’s firing of Dulles.
 
 The investigation was examining whether CIA-connected parties (specifically the anti-Castro exile networks and organized crime figures that Dulles had directly overseen) had any role in the assassination. He was now in a position to shape what evidence the Commission sought, what witnesses it called, and what conclusions it reached regarding the CIA programs he had run.
 

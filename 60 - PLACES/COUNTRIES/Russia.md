@@ -13,7 +13,7 @@ updated: 2026-05-17
 location: "Moscow, Russia"
 ---
 
-Russia (the Russian Federation) is the world's largest country by area, spanning eleven time zones across northern Eurasia from the Baltic to the Pacific. The Russian Federation emerged from the dissolution of the [[Soviet Union]] on December 25, 1991, when the Soviet flag was lowered over the Kremlin in [[Moscow]] for the last time. Russia inherited the Soviet Union's permanent seat on the United Nations Security Council, its nuclear arsenal (under START treaty limitations), and the bulk of Soviet institutional infrastructure - including its intelligence agencies.[^1]
+Russia (the Russian Federation) is the world's largest country by area, spanning eleven time zones across northern Eurasia from the Baltic to the Pacific. The Russian Federation emerged from the dissolution of the [[Soviet Union]] on December 25, 1991, when the Soviet flag was lowered over the Kremlin in [[Moscow]] for the last time. Russia inherited the Soviet Union's permanent seat on the [[United Nations Security Council]], its nuclear arsenal (under START treaty limitations), and the bulk of Soviet institutional infrastructure - including its intelligence agencies.[^1]
 
 ### Post-Soviet Intelligence Agencies
 

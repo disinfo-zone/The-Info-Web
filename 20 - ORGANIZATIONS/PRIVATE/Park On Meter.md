@@ -20,9 +20,9 @@ Former Air Force intelligence officer [[Terry Reed]] claimed that Park On Meter 
 
 ### Key Personnel
 
-Park On Meter's former secretary and corporate lawyer was [[Webb Hubbell]], who was also the brother-in-law of the company's owner. Hubbell admitted to a *Time* magazine reporter that POM was also making rocket launchers.[^1]
+Park On Meter's former secretary and corporate lawyer was [[Webster Hubbell|Webb Hubbell]], who was also the brother-in-law of the company's owner. Hubbell admitted to a *Time* magazine reporter that POM was also making rocket launchers.[^1]
 
-Iver Johnson, the arms company near Little Rock that POM supplied, "did ship a load of weapons to Nicaragua through a Mexican distributor, according to former plant engineer J. A. Matejko," the *Washington Post* confirmed.[^1]
+Iver Johnson, the arms company near [[Little Rock, Arkansas|Little Rock]] that POM supplied, "did ship a load of weapons to Nicaragua through a Mexican distributor, according to former plant engineer J. A. Matejko," the *Washington Post* confirmed.[^1]
 
 ### Footnotes
 

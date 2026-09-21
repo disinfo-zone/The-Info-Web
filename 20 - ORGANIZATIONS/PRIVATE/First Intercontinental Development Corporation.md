@@ -17,7 +17,7 @@ The Board of Directors of [[First Intercontinental Development Corporation|FIDCO
 *   [[Robert Maheu]], Sr.: Vice President, Director; former [[Federal Bureau of Investigation|FBI]] agent and former CEO of Howard Hughes Operations.[1]
 *   [[Michael A. McManus]]: Director, Vice President, and General Counsel to [[First Intercontinental Development Corporation|FIDCO]]; former Assistant to President [[Ronald Reagan]] at the [[White House]].[1]
 *   [[Robert Booth Nichols]]: Director, Senior Vice President, and Chairman of Investment Committee; CEO of R.B.N. Companies, International, involved in high technology electronics, real estate, construction, and international finance.[1]
-*   [[George K. Pender]]: Director; former Director of Pacific Ocean area of Burns & Roe, Inc., an international engineering and construction corporation.[1]
+*   [[George K. Pender]]: Director; former Director of [[Pacific Ocean]] area of Burns & Roe, Inc., an international engineering and construction corporation.[1]
 *   [[Kenneth A. Roe]]: Director; Chairman and President of Burns & Roe, Inc., involved in major projects like the [[United States|U.S.A.]] Fast Breeder Nuclear Reactor Plant.[1]
 *   [[Frances T. Fox]]: Vice President and Director; former General Manager of L.A. International Airport and Director of Aviation for Howard Hughes Nevada operations (now Summa Corporation).[1]
 *   [[Clint W. Murchison, Jr.]]: Director; owner of the Dallas Cowboys NFL football team, with family ties to powerful political and organized crime figures.[1]

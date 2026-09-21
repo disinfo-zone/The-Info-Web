@@ -19,7 +19,7 @@ There were social media posts made that suggested he was helping to connect sold
 ### Personal Life
 Livelsberger was married twice (first divorced in 2018) and had a young daughter from his most recent merger. His latest wife allegedly broke up with him in the days preceding the explosion over Matthew’s adultery.[^2]
 
-On the drive to Las Vegas, he was texting [[Alicia Arritt]], an old girlfriend, about the cyber truck.
+On the drive to [[Las Vegas]], he was texting [[Alicia Arritt]], an old girlfriend, about the cyber truck.
 > “I rented a Tesla Cybertruck. It’s the shit”
 > "I feel like Batman or halo”
 > “I'm building drones in my new position”[^3]

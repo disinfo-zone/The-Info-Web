@@ -8,7 +8,7 @@ tags:
   - Lawyer
 summary: "E. Lawrence Barcella, Jr. served as chief counsel for the House October Surprise Task Force from 1992 to 1993, reportedly urging a three-month extension of the investigation when substantial new evidence arrived in the final weeks, a request that Task Force co-chair Lee Hamilton declined."
 ---
-E. Lawrence Barcella, Jr. is a Washington, D.C. attorney and former federal prosecutor. He served as chief counsel for the House [[October Surprise]] Task Force, the bipartisan investigative panel co-chaired by Rep. [[Lee Hamilton]] (D-Indiana) and Rep. Henry Hyde (R-Illinois) that investigated allegations that the [[Ronald Reagan|Reagan]] campaign had secretly negotiated with [[Iran]] to delay the 1980 hostage release.
+[[E. Lawrence Barcella]], Jr. is a Washington, D.C. attorney and former federal prosecutor. He served as chief counsel for the House [[October Surprise]] Task Force, the bipartisan investigative panel co-chaired by Rep. [[Lee Hamilton]] (D-Indiana) and Rep. Henry Hyde (R-Illinois) that investigated allegations that the [[Ronald Reagan|Reagan]] campaign had secretly negotiated with [[Iran]] to delay the 1980 hostage release.
 
 ### October Surprise Task Force
 

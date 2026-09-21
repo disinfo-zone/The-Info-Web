@@ -38,7 +38,7 @@ The PLO under Arafat developed a quasi-state presence in [[Jordan]]'s Palestinia
 
 In [[Lebanon]], Arafat navigated the tensions between PLO military necessity and Lebanese political stability, a balance that ultimately failed as Lebanon descended into civil war in 1975. PLO factions were involved in and contributed to the Lebanese Civil War's escalation. Arafat's strategy sought to maintain PLO political and diplomatic relevance while managing the military activities of constituent factions he could not fully control, including the PFLP and the breakaway [[Abu Nidal]] organization, which Arafat formally expelled from the PLO in 1974.
 
-The 1982 Israeli invasion of Lebanon forced the PLO out of its Lebanese positions. After negotiation mediated by U.S. diplomat Philip Habib, Arafat and approximately 15,000 PLO personnel evacuated Beirut by sea in August 1982 to Tunis and other Arab capitals.[^1]
+The 1982 Israeli invasion of Lebanon forced the PLO out of its Lebanese positions. After negotiation mediated by U.S. diplomat [[Philip Habib]], Arafat and approximately 15,000 PLO personnel evacuated Beirut by sea in August 1982 to Tunis and other Arab capitals.[^1]
 
 ### Tunis and the Oslo Process
 

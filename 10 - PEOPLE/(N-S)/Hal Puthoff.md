@@ -51,7 +51,7 @@ Swann's suggestion to use geographic coordinates rather than outbound experiment
 
 Pat Price, a retired Burbank police commissioner introduced to the program in 1973, produced what Puthoff considered the most operationally significant results of the SRI period. Price's remote viewing of the Soviet URDF-3 facility near [[Semipalatinsk]] - describing a large gantry crane, spherical metal objects estimated at 60 feet in diameter under construction, and a novel welding technique - was subsequently evaluated against classified satellite photography and assessed as substantially accurate. Price and Swann's subsequent remote viewing of the [[National Security Agency|NSA]] signals intelligence facility at Sugar Grove, West Virginia, triggered an NSA security investigation into whether remote viewing, if genuine, represented a vulnerability for classified installations.
 
-Price died of a reported heart attack in Las Vegas in July 1975, under circumstances Puthoff considered potentially suspicious. His suitcase of remote viewing notes and CIA materials disappeared before Puthoff arrived in Las Vegas. No evidence of foul play was established.
+Price died of a reported heart attack in [[Las Vegas]] in July 1975, under circumstances Puthoff considered potentially suspicious. His suitcase of remote viewing notes and CIA materials disappeared before Puthoff arrived in Las Vegas. No evidence of foul play was established.
 
 ### Published Research
 

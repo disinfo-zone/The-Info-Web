@@ -1,11 +1,11 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-21
 title: William Colby
 aliases:
-  - William Colby
   - William Egan Colby
   - Bill Colby
+  - William E. Colby
 category: "Intelligence & Government"
 tags:
   - Person
@@ -16,6 +16,7 @@ tags:
   - PhoenixProgram
   - 1960s
   - 1970s
+  - Stargate
 summary: "William Egan Colby served as Director of Central Intelligence from 1973 to 1976, dismissing James Angleton, cooperating with the Church Committee, and revealing the Family Jewels, having earlier directed the Vietnam-era Phoenix Program under the CORDS framework."
 born: 1920-01-04
 died: 1996-04-27
@@ -46,9 +47,14 @@ Colby's tenure established institutional patterns in deniable covert operations 
 
 On April 27, 1996, Colby disappeared from his weekend home in Rock Point, Maryland, on the Wicomico River. His canoe was found overturned. His body was recovered nine days later. The death was ruled an accidental drowning. DeCamp, whose personal relationship with Colby was extensive and who described Colby as having indicated he was preparing to reveal further information about the Franklin case and other matters, publicly questioned the official ruling. No physical evidence was found to contradict the accidental drowning determination. Colby was 76 years old at the time of his death and had been known to canoe alone on the river frequently.[^1]
 
+### Israel
+
+William E. Colby served as the Director of the [[Central Intelligence Agency|CIA]] from 1973 to 1976. He shared the assumption that [[Israel]] had a few nuclear weapons and that if there was a collapse during the 1973 [[Yom Kippur War]], there was a possibility that Israel would use them. Colby believed that nuclear weapons would be used "only in an extreme situation."[^5]
+
 ### Footnotes
 
 [^1]: Powers, Thomas. *The Man Who Kept the Secrets: Richard Helms and the CIA*. Knopf, 1979. Hersh, Seymour M. "Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces." New York Times, December 22, 1974.
 [^2]: Church Committee, S. Rept. 94-755, April 26, 1976.
 [^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion*. Seven Stories Press, 1998. Ch. 9.
+[^5]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.

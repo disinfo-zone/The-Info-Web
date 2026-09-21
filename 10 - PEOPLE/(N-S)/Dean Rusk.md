@@ -16,7 +16,7 @@ created: 2026-06-12
 updated: 2026-06-12
 ---
 
-David Dean Rusk (1909-1994) was [[Secretary of State]] under Presidents [[John F. Kennedy]] and [[Lyndon Johnson|Lyndon B. Johnson]] from 1961 to 1969, and before that the president of the [[Rockefeller Foundation]] for most of the 1950s. His career embodied the revolving door between the Foundation's board and the upper reaches of US foreign policy, and as Secretary of State he handled the diplomacy of the Cold War interventions that run through the Rockefeller network's history in [[Latin America]], including the 1964 overthrow of Brazil's [[Joao Goulart]] and the 1967 hunt for [[Che Guevara]] in Bolivia.[^1]
+David Dean Rusk (1909-1994) was [[Secretary of State]] under Presidents [[John F. Kennedy]] and [[Lyndon B. Johnson]] from 1961 to 1969, and before that the president of the [[Rockefeller Foundation]] for most of the 1950s. His career embodied the revolving door between the Foundation's board and the upper reaches of US foreign policy, and as Secretary of State he handled the diplomacy of the Cold War interventions that run through the Rockefeller network's history in [[Latin America]], including the 1964 overthrow of Brazil's [[Joao Goulart]] and the 1967 hunt for [[Che Guevara]] in Bolivia.[^1]
 
 ### Rockefeller Foundation Years
 

@@ -10,7 +10,7 @@ Dagoberto NuÃ±ez was a Cuban [[Bay of Pigs|Bay of Pigs]] veteran and [[Central
 
 ### CIA and NSC Connections
 
-NuÃ±ez obtained a contract with H&M Corp. to cover an intelligence-gathering operation aimed at Nicaraguan president [[Daniel Ortega]]. According to a 1986 memo from CIA operative [[Rob Owen]] to North, NuÃ±ez was preparing to sign an agreement for shrimping rights off the Pacific Coast of [[Nicaragua]]. "NuÃ±ez is doing this so he can help us. He will cooperate and do anything we ask," Owen told North. When questioned about his activities, NuÃ±ez revealed that since 1985 he had engaged in a clandestine relationship with the [[National Security Council]], but refused to elaborate on his involvement in narcotics trafficking because of the specific tasks he had performed at the NSC's direction. CIA headquarters ordered an immediate halt to his questioning.[^2]
+NuÃ±ez obtained a contract with H&M Corp. to cover an intelligence-gathering operation aimed at Nicaraguan president [[Daniel Ortega]]. According to a 1986 memo from CIA operative [[Robert Owen|Rob Owen]] to North, NuÃ±ez was preparing to sign an agreement for shrimping rights off the Pacific Coast of [[Nicaragua]]. "NuÃ±ez is doing this so he can help us. He will cooperate and do anything we ask," Owen told North. When questioned about his activities, NuÃ±ez revealed that since 1985 he had engaged in a clandestine relationship with the [[National Security Council]], but refused to elaborate on his involvement in narcotics trafficking because of the specific tasks he had performed at the NSC's direction. CIA headquarters ordered an immediate halt to his questioning.[^2]
 
 ### Drug Trafficking Connections
 

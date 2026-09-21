@@ -33,7 +33,7 @@ Peña told CIA investigators that Meneses introduced him to his nephew, Jairo Me
 
 ### CIA Awareness
 
-Partly declassified [[Central Intelligence Agency]] records show the agency had evidence as early as October 1982 of links between Meneses's drug ring, the FDN, and an unnamed U.S. religious organization involving an exchange of narcotics for arms. A CIA cable identified Peña as one of four persons who would represent the FDN at a meeting in [[Costa Rica]] regarding this exchange. CIA headquarters ordered the Domestic Collection Division to halt further investigation, then had second thoughts, cabling a Latin American station that "the information was surfaced by another [U.S. government] agency and may return to haunt us."[^3]
+Partly declassified [[Central Intelligence Agency]] records show the agency had evidence as early as October 1982 of links between Meneses's drug ring, the FDN, and an unnamed U.S. religious organization involving an exchange of narcotics for arms. A CIA cable identified Peña as one of four persons who would represent the FDN at a meeting in [[Costa Rica]] regarding this exchange. CIA headquarters ordered the [[Domestic Contact Service|Domestic Collection Division]] to halt further investigation, then had second thoughts, cabling a Latin American station that "the information was surfaced by another [U.S. government] agency and may return to haunt us."[^3]
 
 ### Arrest and DEA Debriefing
 

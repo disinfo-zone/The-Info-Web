@@ -32,7 +32,7 @@ Weekly was identified by Ronald Lister during the October 1986 [[LASD Major Viol
 
 ### Afghan Training and C-4 Case
 
-In early 1986, Weekly and Gritz were recruited to train Afghan Mujahedeen fighters. They obtained approval from State Department officials William Bode and Colonel Nestor Pino Marina, who worked with Oliver North on the Contra project. The training was funded by Stanford Technology, one of North's "Enterprise" front companies. In late 1986, Weekly shipped 200 pounds of C-4 plastic explosives aboard commercial passenger flights to Las Vegas. An ATF report found in the CIA's files "indicated that Weekly claimed he had done this for CIA."[^1]
+In early 1986, Weekly and Gritz were recruited to train Afghan Mujahedeen fighters. They obtained approval from State Department officials William Bode and Colonel Nestor Pino Marina, who worked with Oliver North on the Contra project. The training was funded by Stanford Technology, one of North's "Enterprise" front companies. In late 1986, Weekly shipped 200 pounds of C-4 plastic explosives aboard commercial passenger flights to [[Las Vegas]]. An ATF report found in the CIA's files "indicated that Weekly claimed he had done this for CIA."[^1]
 
 ### The Tapes and Bush Connection
 

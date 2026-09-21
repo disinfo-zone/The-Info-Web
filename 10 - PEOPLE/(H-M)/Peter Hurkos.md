@@ -29,7 +29,7 @@ Hurkos's psychometric talents were observed by [[Bep Hermans]], Puharich's au pa
 
 After the death of [[Alice Astor Bouverie]], Puharich and Hurkos traveled to Mexico in search of more *God's flesh* mushrooms. Despite the turmoil, the [[Round Table Foundation]] continued its activities, with Hurkos participating in experiments involving [[Telepathy]], [[Dowsing]], palmistry, and [[Eyeless Sight]][^1].
 
-In the 1960s, Puharich and Hurkos traveled to the Sixth Naval District Personnel Conference in Charleston, South Carolina, to demonstrate [[Extrasensory Perception|ESP]] and psychometry to submariners[^1].
+In the 1960s, Puharich and Hurkos traveled to the Sixth Naval District Personnel Conference in Charleston, [[South Carolina]], to demonstrate [[Extrasensory Perception|ESP]] and psychometry to submariners[^1].
 
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

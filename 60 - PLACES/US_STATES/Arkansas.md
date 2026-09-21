@@ -13,7 +13,7 @@ Seal moved in 1982 from [[Baton Rouge, Louisiana]] to a tiny airfield at isolate
 
 ### Protection from Prosecution
 
-A Senate subcommittee later concluded that despite the availability of evidence sufficient for an indictment on money laundering charges, and over the strong protests of state and federal law enforcement officials, the cases against Seal were dropped. The apparent reason was that prosecution might have revealed national security information. Arkansas state trooper Larry Patterson testified that troopers were aware that large quantities of drugs were being flown into the Mena airport and that it was a [[Central Intelligence Agency]] operation. Bill Clinton's close friend Danny Lasater was convicted as part of a major drug ring in Little Rock.[^3]
+A Senate subcommittee later concluded that despite the availability of evidence sufficient for an indictment on money laundering charges, and over the strong protests of state and federal law enforcement officials, the cases against Seal were dropped. The apparent reason was that prosecution might have revealed national security information. Arkansas state trooper Larry Patterson testified that troopers were aware that large quantities of drugs were being flown into the Mena airport and that it was a [[Central Intelligence Agency]] operation. Bill Clinton's close friend Danny Lasater was convicted as part of a major drug ring in [[Little Rock, Arkansas|Little Rock]].[^3]
 
 ### Iran-Contra Connection
 

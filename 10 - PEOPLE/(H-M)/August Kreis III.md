@@ -20,7 +20,7 @@ August B. Kreis III was a white supremacist activist and self-appointed director
 
 ### Background and Aryan Nations Leadership
 
-Kreis had a long history in the white supremacist movement before his South Carolina period. He served as "minister of information" for the main Aryan Nations under [[Richard Butler]] before Butler's death in 2004, and subsequently assumed leadership of a splinter faction that continued under the Aryan Nations name from [[Lexington County, South Carolina]]. In this role he operated out of the same geographic and social environment as Sutter.
+Kreis had a long history in the white supremacist movement before his [[South Carolina]] period. He served as "minister of information" for the main Aryan Nations under [[Richard Butler]] before Butler's death in 2004, and subsequently assumed leadership of a splinter faction that continued under the Aryan Nations name from [[Lexington County, South Carolina]]. In this role he operated out of the same geographic and social environment as Sutter.
 
 ### The Al-Qaeda Statements and FBI Investigation
 

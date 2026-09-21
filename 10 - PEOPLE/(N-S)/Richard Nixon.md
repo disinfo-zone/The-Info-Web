@@ -38,4 +38,6 @@ Later, [[Alan Michael May]], who had served as a former Northern California fiel
 
 ### Footnotes
 
-[^1]: Schnabel, Jim. _Remote Viewers_. Dell, 1997. [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 16. [^3]: Seymour, Cheri. _The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal_. First Edition. TrineDay, 2010.
+[^1]: Schnabel, Jim. _Remote Viewers_. Dell, 1997.
+[^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 16.
+[^3]: Seymour, Cheri. _The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal_. First Edition. TrineDay, 2010.

@@ -116,7 +116,7 @@ People who need further categorization.
 | [[Raymond Lavas]] | Lavas also turned some of Michael Riconosciuto's disks over to the Jack Brooks investigative committee (House Judiciary Committee on INSLAW). |
 | [[Regina Zokosky]] | Wife of Peter Zokosky who contradicted her husband's assertion that Danny Casolaro committed suicide. |
 | [[Rhonda Louise Williams]] | Rhonda Louise Williams was a 15-year-old resident of Houston, Texas, in 1973. |
-| [[Richard Allen]] | National security figure connected to the Carter and Reagan administrations who attended the October 1980 Washington meeting on Iran. |
+| [[Richard V. Allen|Richard Allen]] | National security figure connected to the Carter and Reagan administrations who attended the October 1980 Washington meeting on Iran. |
 | [[Richard Arnold]] | His Navy research career began in 1999 when he was commissioned as a US Naval Aerospace Experimental Psychologist. |
 | [[Richard St. Francis]] | Connecticut businessman and TransCapital employee involved in C-130 aircraft sales to Iran and indicted alongside Ari Ben-Menashe. |
 | [[Robert Barnes]] | Barnes was involved in a 'reverse sting' operation where methamphetamine precursors were reportedly supplied to Ben Kalka. |

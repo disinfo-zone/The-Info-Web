@@ -10,7 +10,7 @@ tags:
   - Dark_Alliance_Investigation
 summary: Little Rock bond broker and Clinton associate convicted of drug trafficking, connected to Barry Seal's operations at Mena, Arkansas.
 ---
-Danny Ray Lasater was a Little Rock, [[Arkansas]] bond broker and close friend and campaign contributor of Governor [[Bill Clinton]].[^1] Lasater was a major figure in the drug trafficking nexus surrounding [[Barry Seal]]'s operations at [[Mena, Arkansas]].
+Danny Ray Lasater was a [[Little Rock, Arkansas|Little Rock]], [[Arkansas]] bond broker and close friend and campaign contributor of Governor [[Bill Clinton]].[^1] Lasater was a major figure in the drug trafficking nexus surrounding [[Barry Seal]]'s operations at [[Mena, Arkansas]].
 
 ### Drug Trafficking and Conviction
 

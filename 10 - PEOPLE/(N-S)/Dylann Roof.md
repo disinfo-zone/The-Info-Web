@@ -19,7 +19,7 @@ summary: "Dylann Roof killed nine Black parishioners at Emanuel AME Church in Ch
 
 ### The Charleston Attack
 
-On June 17, 2015, Roof drove to Emanuel AME Church, one of the oldest and most historically prominent Black churches in the American South, and joined the mid-week Bible study group. After approximately an hour, he opened fire. The nine people killed were [[Clementa C. Pinckney]] (the church's senior pastor and a South Carolina state senator), [[Cynthia Marie Graham Hurd]], [[Susie Jackson]], [[Ethel Lee Lance]], [[Depayne Middleton Doctor]], [[Tywanza Sanders]], [[Daniel Simmons]], [[Sharonda Coleman-Singleton]], and [[Myra Thompson]].
+On June 17, 2015, Roof drove to Emanuel AME Church, one of the oldest and most historically prominent Black churches in the American South, and joined the mid-week Bible study group. After approximately an hour, he opened fire. The nine people killed were [[Clementa C. Pinckney]] (the church's senior pastor and a [[South Carolina]] state senator), [[Cynthia Marie Graham Hurd]], [[Susie Jackson]], [[Ethel Lee Lance]], [[Depayne Middleton Doctor]], [[Tywanza Sanders]], [[Daniel Simmons]], [[Sharonda Coleman-Singleton]], and [[Myra Thompson]].
 
 Roof stated to several survivors that he intended to start a race war and that Black people "were taking over the country." He allowed some individuals to survive the shooting explicitly so they could describe what happened.
 

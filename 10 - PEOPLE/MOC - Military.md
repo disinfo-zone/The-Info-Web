@@ -25,7 +25,7 @@ Military officers and defense officials.
 | [[General Rios Montt]] | Montt's military regime (1982–1983) was involved in some of the worst atrocities of Guatemala's 36-year civil war. |
 | [[Gustavo Medina]] | Former National Guard major general under Anastasio Somoza who served as the regime's counterinsurgency expert and later co-founded La Parrilla restaurant in Miami, a gathering place for Contra leaders. |
 | [[John Carrette]] | Carrette later became the Executive Vice President of FGBMFI (Full Gospel Business Men's Fellowship International) and helped set up Jimmy Hughes in Honduras. |
-| [[John L. LaMothe]] | U.S. Army intelligence officer who authored the 1972 DIA report on Soviet psi research, spurring U.S. concerns about a 'psi gap'. |
+| [[John LaMothe|John L. LaMothe]] | U.S. Army intelligence officer who authored the 1972 DIA report on Soviet psi research, spurring U.S. concerns about a 'psi gap'. |
 | [[Jonathan Pollard]] | Pollard was an unhappy child in South Bend, Indiana, tormented and beaten in grade school for being Jewish. |
 | [[Jose Rodriguez]] | Colonel Jose Rodriguez was a pilot in Paraguay, serving as the pilot for Ari Ben-Menashe during his inspection of Cardoen Industries' chemical plant. |
 | [[Pesah Melowany]] | Colonel Pesah Melowany was an officer in the Israeli Defense Forces' External Relations Department. |

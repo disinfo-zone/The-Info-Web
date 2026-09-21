@@ -21,7 +21,7 @@ Bigelow Aerospace Advanced Space Studies (BAASS) was a subsidiary of [[Robert Bi
 
 ### Background: Robert Bigelow
 
-Robert T. Bigelow was born in 1944 in Las Vegas, Nevada. He built a significant fortune through Budget Suites of America, a chain of extended-stay apartment hotels, and through Bigelow Aerospace, a commercial space company focused on the development of expandable habitat modules for space stations. Bigelow had maintained a longstanding personal interest in UAP and anomalous phenomena, influenced by his family's reported UAP encounter and by his relationship with Nevada Senator Harry Reid, who shared his interest in the subject.[^1]
+Robert T. Bigelow was born in 1944 in [[Las Vegas]], Nevada. He built a significant fortune through Budget Suites of America, a chain of extended-stay apartment hotels, and through Bigelow Aerospace, a commercial space company focused on the development of expandable habitat modules for space stations. Bigelow had maintained a longstanding personal interest in UAP and anomalous phenomena, influenced by his family's reported UAP encounter and by his relationship with Nevada Senator Harry Reid, who shared his interest in the subject.[^1]
 
 In 1996, Bigelow purchased the Sherman family's ranch in northeastern Utah - known as the Skinwalker Ranch - for $200,000. The property had been the site of reported anomalous events including cattle mutilations, apparitions, unusual craft sightings, and other phenomena reported by the Sherman family and documented in local press. Bigelow established the National Institute for Discovery Science (NIDS) in 1995 to conduct systematic investigation of anomalous phenomena, and NIDS researchers conducted observation at Skinwalker Ranch from 1996 through the early 2000s.[^1]
 

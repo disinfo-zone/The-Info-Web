@@ -16,7 +16,7 @@ When the Torres brothers began revealing details about Blandón's connections to
 
 ### The CIA Intervention
 
-A cable from the CIA's [[Los Angeles]] office marked "Immediate Director" stated that "Three individuals claiming CIA affiliation have been arrested by Los Angeles County Sheriff's Department on narcotics related charges." After the raid, the investigation was shut down from above. Seized evidence was returned to Blandón and [[Ron Lister]] within days. Documents disappeared. Blandón was released without charges. The LASD's investigation was effectively quashed by CIA intervention, preventing the exposure of Contra-connected drug trafficking on the West Coast.[^3]
+A cable from the CIA's [[Los Angeles]] office marked "Immediate Director" stated that "Three individuals claiming CIA affiliation have been arrested by Los Angeles County Sheriff's Department on narcotics related charges." After the raid, the investigation was shut down from above. Seized evidence was returned to Blandón and [[Ronald Lister|Ron Lister]] within days. Documents disappeared. Blandón was released without charges. The LASD's investigation was effectively quashed by CIA intervention, preventing the exposure of Contra-connected drug trafficking on the West Coast.[^3]
 
 ### Footnotes
 

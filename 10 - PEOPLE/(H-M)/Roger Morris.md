@@ -18,7 +18,7 @@ Morris wrote that Seal's "personal records showed him to be a contract CIA opera
 
 ### Danny Ray Lasater and Organized Crime
 
-Morris wrote that "whatever the limits or extent of [[Danny Ray Lasater]]'s cocaine trafficking or the nature of his other dealings, most believed that beyond him the larger corruption in Little Rock and elsewhere pointed unmistakably to organized crime, not to mention the vast crimes of Mena - none of which would be pursued." Morris also described an investigation into Lasater that was shut down prematurely.[^1]
+Morris wrote that "whatever the limits or extent of [[Danny Ray Lasater]]'s cocaine trafficking or the nature of his other dealings, most believed that beyond him the larger corruption in [[Little Rock, Arkansas|Little Rock]] and elsewhere pointed unmistakably to organized crime, not to mention the vast crimes of Mena - none of which would be pursued." Morris also described an investigation into Lasater that was shut down prematurely.[^1]
 
 ### Shredding of Mena Files
 

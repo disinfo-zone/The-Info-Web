@@ -23,7 +23,7 @@ summary: "Florida security company founded in 1954 by former FBI agents, which g
 start: 1954-01-01
 location: "Coral Gables, Florida"
 ---
-Wackenhut Corporation is a security and investigative firm founded in 1954 by [[George R. Wackenhut]] and three other former [[Federal Bureau of Investigation|FBI]] Special Agents. Initially named [[Special Agent Investigators]], it expanded to physical security and was renamed Wackenhut Corporation in 1958. Headquartered in [[Coral Gables]], [[Florida]], Wackenhut grew to become one of the world's largest security and investigative firms, with operations across the United States and internationally. The [[San Francisco]] Chronicle described it as being "led by former officials of the [[Central Intelligence Agency]], the Federal Bureau of Investigation, National Security Agency, Defense Department and federal law enforcement."[^1][^2]
+Wackenhut Corporation is a security and investigative firm founded in 1954 by [[George R. Wackenhut]] and three other former [[Federal Bureau of Investigation|FBI]] Special Agents. Initially named [[Special Agent Investigators]], it expanded to physical security and was renamed Wackenhut Corporation in 1958. Headquartered in [[Coral Gables, Florida|Coral Gables]], [[Florida]], Wackenhut grew to become one of the world's largest security and investigative firms, with operations across the United States and internationally. The [[San Francisco]] Chronicle described it as being "led by former officials of the [[Central Intelligence Agency]], the Federal Bureau of Investigation, National Security Agency, Defense Department and federal law enforcement."[^1][^2]
 
 ### Operations and Services
 
@@ -105,7 +105,7 @@ It was here that the "trap door" was built into the U.S. version of PROMIS, base
 
 ### Danny Casolaro Investigation
 
-Investigative reporter [[Danny Casolaro]] was investigating the Wackenhut/Cabazon weapons projects as part of his "[[The Octopus]]" investigation when he was found dead in a West Virginia motel room in 1991. The probe into his death was ordered by associate attorney general [[Webb Hubbell]], who had his own connections to weapons manufacturing for the Contras through [[Park On Meter]] in [[Arkansas]].[^2]
+Investigative reporter [[Danny Casolaro]] was investigating the Wackenhut/Cabazon weapons projects as part of his "[[The Octopus]]" investigation when he was found dead in a West Virginia motel room in 1991. The probe into his death was ordered by associate attorney general [[Webster Hubbell|Webb Hubbell]], who had his own connections to weapons manufacturing for the Contras through [[Park On Meter]] in [[Arkansas]].[^2]
 
 ### Other Allegations
 

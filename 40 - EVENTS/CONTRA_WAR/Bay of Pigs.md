@@ -95,13 +95,13 @@ The Taylor Commission attributed failure to "a mistaken belief that this large o
 
 The Taylor Commission's findings led directly to [[Operation Mongoose]], approved in November 1961, as the successor anti-Castro covert program under [[Edward Lansdale]] and Robert Kennedy's Special Group (Augmented).
 
-Personnel consequences: Allen Dulles was forced to resign, replaced by John McCone; Bissell resigned in February 1962, receiving the National Security Medal before his departure; C.P. Cabell was forced to resign January 31, 1962. Kennedy privately told aide Richard Goodwin regarding the captured brigade: "They trusted me, and they're in prison now because I fucked up. I have to get them out."[^1]
+Personnel consequences: Allen Dulles was forced to resign, replaced by John McCone; Bissell resigned in February 1962, receiving the [[National Security Medal]] before his departure; C.P. Cabell was forced to resign January 31, 1962. Kennedy privately told aide Richard Goodwin regarding the captured brigade: "They trusted me, and they're in prison now because I fucked up. I have to get them out."[^1]
 
 ### The Prisoner Exchange
 
 Of approximately 1,400 Brigade members: 114 were killed in battle; approximately 1,179 were captured; 1,113 survived to the eventual exchange. Castro announced in April 1962 that the prisoners faced trial as "war criminals," with sentences of 30 years or payment of $62 million in indemnification.
 
-Robert Kennedy secretly recruited [[New York]] attorney James B. Donovan - who had negotiated the Rudolf Abel spy exchange - to reopen prisoner talks in June 1962. Donovan worked pro bono. Negotiations were disrupted by the [[Cuban Missile Crisis]] in October 1962 but resumed. On December 21, 1962, Donovan and Castro signed an agreement: 1,113 surviving prisoners were exchanged for $53 million in food, medicines, and other humanitarian supplies, raised through private donations from pharmaceutical companies and other sources.
+Robert Kennedy secretly recruited [[New York]] attorney James B. Donovan - who had negotiated the [[Rudolf Abel]] spy exchange - to reopen prisoner talks in June 1962. Donovan worked pro bono. Negotiations were disrupted by the [[Cuban Missile Crisis]] in October 1962 but resumed. On December 21, 1962, Donovan and Castro signed an agreement: 1,113 surviving prisoners were exchanged for $53 million in food, medicines, and other humanitarian supplies, raised through private donations from pharmaceutical companies and other sources.
 
 Kennedy welcomed the released prisoners at the Orange Bowl in Miami on December 29, 1962. Brigade 2506 presented Kennedy with their battle flag; Kennedy stated he would return it "to a free Havana." He never did.[^2]
 

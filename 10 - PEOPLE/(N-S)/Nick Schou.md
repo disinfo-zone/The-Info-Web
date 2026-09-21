@@ -11,7 +11,7 @@ Nick Schou was a journalist who uncovered documentary evidence of former [[Centr
 
 ### Exposing the Nelson-Fluor Connection
 
-A Fluor spokeswoman initially denied that Nelson had been affiliated with the company until Schou presented documentary evidence proving otherwise. Nelson had been the CIA's deputy director of operations, the head of all covert operations worldwide, from 1973 to 1976 before becoming Fluor's vice president for security and administration. The connection between Nelson and [[Ron Lister]], the former [[Laguna Beach Police Department|Laguna Beach]] police officer who claimed high-level CIA contacts while partnering with [[Danilo Blandon|Danilo Blandón]] in drug trafficking, suggested that Lister's claims of intelligence connections were more than empty boasting. Schou's reporting helped establish the factual basis for the [[Dark Alliance]] narrative.[^2]
+A Fluor spokeswoman initially denied that Nelson had been affiliated with the company until Schou presented documentary evidence proving otherwise. Nelson had been the CIA's deputy director of operations, the head of all covert operations worldwide, from 1973 to 1976 before becoming Fluor's vice president for security and administration. The connection between Nelson and [[Ronald Lister|Ron Lister]], the former [[Laguna Beach Police Department|Laguna Beach]] police officer who claimed high-level CIA contacts while partnering with [[Danilo Blandon|Danilo Blandón]] in drug trafficking, suggested that Lister's claims of intelligence connections were more than empty boasting. Schou's reporting helped establish the factual basis for the [[Dark Alliance]] narrative.[^2]
 
 ### Footnotes
 

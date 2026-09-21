@@ -16,7 +16,7 @@ location: "Danville, Kentucky, USA"
 ---
 William Richard Higgins was a [[U.S. Marine Corps|Marine]] Lieutenant Colonel who served as chief of the [[United Nations Military Observer Group Lebanon]]. On February 17, 1988, he was abducted in [[Lebanon]] after meeting with the [[Amal Militia]] in the coastal city of Tyre[^1].
 
-Higgins's abduction became an international incident, generating a crisis at the [[Pentagon]]. Prior to joining the UN team, he had served as a military aide to Secretary of Defense [[Caspar W. Weinberger]], giving him in-depth knowledge of classified military matters and making him a high-value hostage[^1].
+Higgins's abduction became an international incident, generating a crisis at the [[Pentagon]]. Prior to joining the UN team, he had served as a military aide to Secretary of Defense [[Caspar Weinberger|Caspar W. Weinberger]], giving him in-depth knowledge of classified military matters and making him a high-value hostage[^1].
 
 It was feared that Higgins would be tortured to death by [[Hezbollah]] terrorists in their effort to extract classified information. The [[Defense Intelligence Agency|DIA]] believed his abduction had been carefully orchestrated by [[Imad Mughniyah]], the leader of Hezbollah's terrorist operations[^1].
 

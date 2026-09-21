@@ -119,7 +119,7 @@ No documentary evidence yet confirms named individuals who were members of both 
 Documented agency involvement in FKD investigations:
 
 - [[KAPO]] (Estonian Internal Security Service): intervened with the Commander's parents in January 2020, described in press reporting as acting on "suspicion of danger." KAPO has not publicly disclosed the Commander's legal name. No criminal referral was made because the Commander was below Estonia's minimum criminal liability age of 14.[^6]
-- [[FBI]] Las Vegas [[JTTF]]: initiated investigation of Conor Climo in April 2019; used undercover agents and at least one informant; arrested Climo in August 2019.[^14]
+- [[FBI]] [[Las Vegas]] [[JTTF]]: initiated investigation of Conor Climo in April 2019; used undercover agents and at least one informant; arrested Climo in August 2019.[^14]
 - FBI undercover operation, District of Kansas: involved in the Smith investigation (covered in the [[Jarrett William Smith]] page).[^3]
 - [[Counter Terrorism Policing South West]] (UK): arrested the Cornwall teenager in July 2019.
 - Counter Terrorism Policing (UK, broader): coordinated the investigations of Luke Hunter, Paul Dunleavy, and Luca Benincasa; recommended FKD for proscription.

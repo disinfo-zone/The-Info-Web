@@ -35,7 +35,7 @@ Scientists and officials central to nuclear weapons development, proliferation, 
 | [[David Ben-Gurion]] | David Ben-Gurion, often referred to as the 'Old Man,' was a central figure in the establishment of Israel and served as its first Prime Minister and Defense Minister from 1948 to 1963, with one brief interlude. |
 | [[David E. Long]] | State Department Middle East expert who revealed that Israeli nuclear intelligence was treated as a strictly taboo subject within the U.S. bureaucracy. |
 | [[David Lowenthal]] | David Lowenthal was one of the initial stockholders in the Nuclear Materials and Equipment Corporation (NUMEC). |
-| [[Donald M. Kerr, Jr.]] | Acting director of defense programs at the Department of Energy who directed the Nuclear Intelligence Panel study of the 1979 Vela satellite flash, concluding it was a nuclear bomb. |
+| [[Donald M. Kerr|Donald M. Kerr, Jr.]] | Acting director of defense programs at the Department of Energy who directed the Nuclear Intelligence Panel study of the 1979 Vela satellite flash, concluding it was a nuclear bomb. |
 | [[Edward Teller]] | Edward Teller was a Hungarian-American theoretical physicist who is widely known as the 'father of the hydrogen bomb.' He and other American nuclear weapons designers understood well before the end of World War II that a far more powerful nuclear device, with fission as merely a first step, was theo |
 | [[Eugene M. Braderman]] | Deputy assistant secretary of state for commercial affairs who was pressured by Israelis to help the U.S. accept Israel's nuclear weapons. |
 | [[Eugene Wigner]] | Eugene Wigner was a Hungarian-American theoretical physicist and Nobel laureate. |
@@ -65,7 +65,7 @@ Scientists and officials central to nuclear weapons development, proliferation, 
 | [[Jens C. Hauge]] | Norwegian official who conducted Norway's only inspection of heavy water sold to Israel, accepting Bergmann's claims uncritically. |
 | [[Jerome B. Wiesner]] | President Kennedy's science adviser who was deliberately excluded from intelligence about Israel's Dimona nuclear reactor at David Ben-Gurion's request. |
 | [[Jody Powell]] | Jody Powell was President Jimmy Carter's press secretary. |
-| [[John A. McCone]] | McCone's leak was his parting shot as AEC commissioner, as he announced his resignation shortly after. |
+| [[John McCone|John A. McCone]] | McCone's leak was his parting shot as AEC commissioner, as he announced his resignation shortly after. |
 | [[John F. Kennedy]] | Kennedy's presidency was marked by a struggle with Israel over its nuclear ambitions, particularly concerning the Dimona reactor. |
 | [[John Foster Dulles]] | John Foster Dulles served as the Secretary of State under President Dwight D. |
 | [[John L. Hadden]] | Hadden sent Colonel Carmelo V. |

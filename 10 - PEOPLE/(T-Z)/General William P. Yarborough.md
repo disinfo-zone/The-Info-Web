@@ -95,4 +95,4 @@ Yarborough authored two books: *Bail Out Over North Africa* and *So You Want A V
 [^7]: Colby and Dennett, *Thy Will Be Done*, Ch. 24-25.
 [^8]: U.S. Army, "LTG William Yarborough, Assistant Chief of Staff, Intelligence, December 1966-July 1968," https://www.army.mil/article/139473.
 [^9]: Colby and Dennett, *Thy Will Be Done*, Ch. 25; Human Rights Watch, *Colombia's Killer Networks*, 1996.
-[^10]: Arlington National Cemetery, "William Pelham Yarborough - Lieutenant General, United States Army," https://www.arlingtoncemetery.net/wpyarborough.htm.
+[^10]: Arlington National Cemetery, "William Pelham Yarborough - Lieutenant General, [[United States Army]]," https://www.arlingtoncemetery.net/wpyarborough.htm.

@@ -6,7 +6,7 @@ tags:
 summary: "Financial Times stringer in Peru who became involved in Ari Ben-Menashe's mission to secure rare minerals for Israel's nuclear program."
 ---
 
-[[Barbara Durr]] was a stringer for the *Financial Times* of [[London]] in [[Peru]]. She was also a correspondent for [[CBS]] radio.[^1]
+[[Barbara Durr]] was a stringer for the *[[Financial Times]]* of [[London]] in [[Peru]]. She was also a correspondent for [[CBS]] radio.[^1]
 
 [[Barbara Durr|Durr]] met [[Ari Ben-Menashe]] through [[Peter Jordan]], a photographer. She became involved in [[Ari Ben-Menashe|Ben-Menashe's]] mission to secure rare minerals from [[Peru]] for [[Israel|Israel's]] nuclear program. [[Ari Ben-Menashe|Ben-Menashe]] used her as a journalist to provide protection and to create public proof of [[Abimael Guzman Reynoso|Guzmán's]] existence, as there were rumors of his death.[^1]
 

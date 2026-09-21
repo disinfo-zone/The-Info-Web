@@ -21,7 +21,7 @@ Igor Kurganov is a Russian-born former professional poker player who gained oper
 
 ### The Poker Career and the Musk Access
 
-Kurganov built a public profile as a high-stakes professional poker player, accumulating over 18 million dollars in live tournament winnings across a career that placed him among the top German and Russian tournament players. His poker network overlaps with the high-roller gambling circuit whose principals move across national borders and whose venues (Macau, Las Vegas, Monte Carlo, the online high-stakes sites) are documented intelligence-collection environments.[^1][^2]
+Kurganov built a public profile as a high-stakes professional poker player, accumulating over 18 million dollars in live tournament winnings across a career that placed him among the top German and Russian tournament players. His poker network overlaps with the high-roller gambling circuit whose principals move across national borders and whose venues (Macau, [[Las Vegas]], Monte Carlo, the online high-stakes sites) are documented intelligence-collection environments.[^1][^2]
 
 The documented path to Musk ran through Kurganov's effective-altruism and philanthropic-strategy work. Kurganov entered Musk's circle during the pandemic period and gained influence over Musk's charitable giving, which had become a substantial operation as Musk's wealth grew through the [[Tesla|Tesla]] stock run-up and the [[SpaceX|SpaceX]] private valuations. Kurganov's access included sleeping in Musk's Austin home, placing him inside Musk's residential security perimeter rather than at arm's length as a professional advisor.[^1]
 

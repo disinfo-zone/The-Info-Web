@@ -1,4 +1,4 @@
-﻿---
+---
 category: "Country"
 tags:
   - event
@@ -9,7 +9,7 @@ The [[Iran-Contra Affair|Iran-Contra scandal]] erupted in November 1986 when it 
 
 ### The Scandal Breaks
 
-The same morning that [[Ricky Ross]]'s money launderer was writing to the IRS about Blandón's drug operations, President Ronald Reagan and Attorney General Edwin Meese were announcing to reporters that millions of dollars from missile sales to the Iranian government had been illegally diverted to the Contras. The Iran-Contra scandal was "bursting open at the seams," and suddenly the strange papers found in [[Danilo Blandon|Blandón]]'s and [[Ron Lister]]'s houses during earlier raids took on new significance. The crash of a C-123K cargo plane over [[Nicaragua]] in October 1986, which had been based at Ilopango Air Base in [[San Salvador]], broke the scandal wide open.[^2]
+The same morning that [[Ricky Ross]]'s money launderer was writing to the IRS about Blandón's drug operations, President Ronald Reagan and Attorney General Edwin Meese were announcing to reporters that millions of dollars from missile sales to the Iranian government had been illegally diverted to the Contras. The Iran-Contra scandal was "bursting open at the seams," and suddenly the strange papers found in [[Danilo Blandon|Blandón]]'s and [[Ronald Lister|Ron Lister]]'s houses during earlier raids took on new significance. The crash of a C-123K cargo plane over [[Nicaragua]] in October 1986, which had been based at Ilopango Air Base in [[San Salvador]], broke the scandal wide open.[^2]
 
 ### Footnotes
 

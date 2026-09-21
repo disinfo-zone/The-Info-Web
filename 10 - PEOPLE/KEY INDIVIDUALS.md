@@ -59,7 +59,7 @@ Central figures in the U.S. government's investigations into psychic phenomena a
 | [[Sidney Gottlieb]] | Sidney Gottlieb was a CIA chemist and spymaster, notorious for his involvement in controversial programs like Project MKUltra, which explored mind control and chemical interrogation. |
 | [[Stansfield Turner]] | Stansfield Turner (1923–2018) was an American admiral who served as the DCI under President Jimmy Carter from 1977 to 1981. |
 | [[Uri Geller]] | When Geller was ten, his parents separated, and he moved with his mother to Cyprus. |
-| [[William E. Colby]] | Director of the CIA from 1973 to 1976 who believed Israel possessed nuclear weapons and might use them in an extreme situation. |
+| [[William Colby|William E. Colby]] | Director of the CIA from 1973 to 1976 who believed Israel possessed nuclear weapons and might use them in an extreme situation. |
 | [[William Odom]] | U.S. Army Major General who succeeded Edmund Thompson as ACSI and was skeptical of the Grill Flame remote viewing program. |
 | [[William Perry]] | William Perry served as the Undersecretary of Defense for Research and Engineering. |
 | [[William Rolya]] | INSCOM commander who provided tacit support for the military's remote viewing program during the early years of the Stargate Project. |
@@ -87,7 +87,7 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Brad Veek]]                  | Brad Veek was a cartographer and career submariner who played a role in Project Deep Quest.                                                                                                                                                                                                                  |
 | [[Brian D. Josephson]]         | His work on the Josephson junction, a configuration of two layers of superconducting material sandwiching a thin layer of non-superconducting material, was part of the quark detector used in Hal Puthoff and Ingo Swann's psychokinesis experiment at SRI.                                                 |
 | [[Bud Duncan]]                 | Army civilian photo-interpreter and early member of the Gondola Wish (later Grill Flame) remote viewing unit.                                                                                                                                                                                                |
-| [[Caspar W. Weinberger]]       | Secretary of Defense under Reagan whose military aide Lieutenant Colonel Higgins was abducted in Lebanon in 1988 with deep knowledge of classified matters.                                                                                                                                                  |
+| [[Caspar Weinberger|Caspar W. Weinberger]]       | Secretary of Defense under Reagan whose military aide Lieutenant Colonel Higgins was abducted in Lebanon in 1988 with deep knowledge of classified matters.                                                                                                                                                  |
 | [[Charlene Cavanaugh Shufelt]] | Charlene Cavanaugh Shufelt was one of the five remote viewers from INSCOM who remained in the program when the DIA took over the psychoenergetics program.                                                                                                                                                   |
 | [[Charles Bohlen]]             | Charles Bohlen (1904–1974) was a distinguished American diplomat who served as the U.S.                                                                                                                                                                                                                      |
 | [[Charles Frank Jordan]]       | Charles Frank Jordan was a former special agent for the U.S.                                                                                                                                                                                                                                                 |
@@ -102,7 +102,7 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Donald A. Myers]]            | Myers's deployment came two years after a new and more powerful set of Soviet microwave beams (MUTS-2) were picked up by the CIA in Moscow.                                                                                                                                                                  |
 | [[Donald C. Latham]]           | Assistant Secretary of Defense who served as chairman of the oversight panel for the Sun Streak program, the renamed Stargate Project.                                                                                                                                                                       |
 | [[Donald M. Kerr]]             | Director of Los Alamos National Laboratory who served on the science panel for the CIA's Sun Streak/Stargate remote viewing program.                                                                                                                                                                         |
-| [[Donald T. Regan]]            | Regan stated that 'Virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared by a woman in San Francisco who drew up horoscopes to make certain that the planets were in favorable alignment for the enterprise.' This revelation was confirmed by W |
+| [[Donald Regan|Donald T. Regan]]            | Regan stated that 'Virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared by a woman in San Francisco who drew up horoscopes to make certain that the planets were in favorable alignment for the enterprise.' This revelation was confirmed by W |
 | [[Doug Henning]]               | Doug Henning (1947–2000) was a renowned Canadian magician and illusionist.                                                                                                                                                                                                                                   |
 | [[Douglas B. Hudson]]          | This commendation highlights the high regard in which Morehouse was held by his superiors, despite later controversies surrounding his conduct and the eventual downfall of the psychic research program.                                                                                                    |
 | [[Dr. D. G. Vinod]]            | Puharich brought Vinod to the Round Table Foundation, where Vinod allegedly went into a trance and channeled a group of entities called 'the Nine Principles and Forces.' This event had a profound impact on Puharich, solidifying his belief in an external, possibly extraterrestrial, source for psychic |
@@ -346,7 +346,7 @@ CIA, DIA, NSA officials, politicians, diplomats, arms dealers, and intelligence 
 | [[Leon Brittan]] | Leon Brittan was the Secretary of the Home Office under Margaret Thatcher who received a dossier from MP Geoffrey Dickens in 1983 containing allegations about members of parliament and the Queen's royal staff being part of a VIP pedophile ring with ties to the Pedophile Information Exchange (PIE). |
 | [[Leonid Brezhnev]] | In 1972, Brezhnev met with Golda Meir, then Prime Minister of Israel, in Finland. |
 | [[Luis Posada Carriles]] | Veteran CIA agent and terrorist with a documented history of drug trafficking who ran day-to-day Contra resupply operations at Ilopango Air Force Base under the alias Ramon Medina. |
-| [[Lyndon Johnson]] | As Senate Majority Leader, Johnson made Bobby Baker his secretary of the Senate Democrats in 1955, referring to Baker as 'my strong right arm, the last man I see at night, the first I see in the morning.' A major scandal brewed around Baker in the autumn of 1963, involving numerous questionable deal |
+| [[Lyndon B. Johnson|Lyndon Johnson]] | As Senate Majority Leader, Johnson made Bobby Baker his secretary of the Senate Democrats in 1955, referring to Baker as 'my strong right arm, the last man I see at night, the first I see in the morning.' A major scandal brewed around Baker in the autumn of 1963, involving numerous questionable deal |
 | [[Manuel Noriega]] | Military dictator of Panama who simultaneously served as a CIA asset and facilitated Colombian drug trafficking, was ousted by U.S. invasion in 1989, and had his 40-year sentence reduced to 10 years after former CIA officials testified on his behalf. |
 | [[Manuel Zelaya]] | Zelaya was ousted by a coup allegedly designed by General Daniel Lopez Carballo and Romeo Vásquez Velásquez, both friends of Jimmy Hughes. |
 | [[Marcos Aguado]] | CIA-trained Nicaraguan pilot who managed drug trafficking logistics for Norwin Meneses and Eden Pastora, later became a colonel in the Salvadoran Air Force at Ilopango. |
@@ -380,7 +380,7 @@ CIA, DIA, NSA officials, politicians, diplomats, arms dealers, and intelligence 
 | [[Rafael Eitan]] | Rafael Eitan, also known as 'Rafi the stinker,' was an ambitious Israeli clandestine operative and a crony of Ariel Sharon. |
 | [[Reuben Yirador]] | Colonel Reuben Yirador was a department commander in Unit 8200, an Israeli Signals Intelligence (Sigint) unit. |
 | [[Reuven Yerdor]] | Reuven Yerdor, also known as Rudi, was an accomplished linguist and a senior officer in Israel's Detachment 515 (later redesignated Detachment 8200), which is in charge of signals intelligence and code-breaking. |
-| [[Richard M. Helms]] | Helms also came to a personal conclusion that Israel was funneling American satellite information to the Soviet Union, repeatedly telling his deputies and aides that he was convinced Israel was an 'open pipeline for pumping intelligence to Moscow. |
+| [[Richard Helms|Richard M. Helms]] | Helms also came to a personal conclusion that Israel was funneling American satellite information to the Soviet Union, repeatedly telling his deputies and aides that he was convinced Israel was an 'open pipeline for pumping intelligence to Moscow. |
 | [[Richard Nixon]] | Richard Milhous Nixon was the 37th President of the United States, serving from 1969 to 1974. |
 | [[Richard Wilker]] | Former CIA agent who served as technical director for Pyramid International Security Consultants' weapons operations in El Salvador. |
 | [[Robert Chasen]] | Chasen supervised the Wackenhut Corporation's Indio facility from Coral Gables, Florida. |
@@ -439,7 +439,7 @@ Military officers and defense officials.
 | [[General Rios Montt]] | Montt's military regime (1982–1983) was involved in some of the worst atrocities of Guatemala's 36-year civil war. |
 | [[Gustavo Medina]] | Former National Guard major general under Anastasio Somoza who served as the regime's counterinsurgency expert and later co-founded La Parrilla restaurant in Miami, a gathering place for Contra leaders. |
 | [[John Carrette]] | Carrette later became the Executive Vice President of FGBMFI (Full Gospel Business Men's Fellowship International) and helped set up Jimmy Hughes in Honduras. |
-| [[John L. LaMothe]] | U.S. Army intelligence officer who authored the 1972 DIA report on Soviet psi research, spurring U.S. concerns about a 'psi gap'. |
+| [[John LaMothe|John L. LaMothe]] | U.S. Army intelligence officer who authored the 1972 DIA report on Soviet psi research, spurring U.S. concerns about a 'psi gap'. |
 | [[Jonathan Pollard]] | Pollard was an unhappy child in South Bend, Indiana, tormented and beaten in grade school for being Jewish. |
 | [[Jose Rodriguez]] | Colonel Jose Rodriguez was a pilot in Paraguay, serving as the pilot for Ari Ben-Menashe during his inspection of Cardoen Industries' chemical plant. |
 | [[Pesah Melowany]] | Colonel Pesah Melowany was an officer in the Israeli Defense Forces' External Relations Department. |
@@ -475,7 +475,7 @@ Central figures in the PROMIS/INSLAW software scandal.
 | [[Cheri Seymour]] | Cheri Seymour is an investigative journalist and author. |
 | [[Cornelius Blackshear]] | Cornelius Blackshear was a U.S. |
 | [[Craig Olson]] | FBI agent from the D.C. Metropolitan Office present at Paul Wilcher's apartment after his mysterious death. |
-| [[D. Lowell Jensen]] | Inslaw alleged that Jensen had a 'previously developed negative attitude about PROMIS and INSLAW' and that he consciously ignored Inslaw's complaints about C. |
+| [[Lowell Jensen|D. Lowell Jensen]] | Inslaw alleged that Jensen had a 'previously developed negative attitude about PROMIS and INSLAW' and that he consciously ignored Inslaw's complaints about C. |
 | [[Daniel Magano]] | Alleged mobster observed meeting with Cabazon tribal administrator Dr. John Philip Nichols alongside La Cosa Nostra figures per Indio Police surveillance. |
 | [[Daniel Murphy]] | In early 1991, INSLAW Counsel Elliot Richardson asked Murphy to review the plausibility of claims about the covert dissemination of PROMIS for intelligence-tracking applications and to give his opinion on whether the claimed intelligence uses could explain Richard Thornburgh's inexplicable failure t |
 | [[Daniel Tessler]] | Daniel Tessler managed a venture capital fund called 53rd Street Ventures, Inc., which was formed around 1976 as an investment company. |
@@ -526,7 +526,7 @@ Central figures in the PROMIS/INSLAW software scandal.
 | [[John Keeney]] | John Keeney was a career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
 | [[John Otto]] | John Otto was the former Acting Director of the FBI. |
 | [[John Paul Nichols]] | John Paul Nichols was the 'Project Manager' for the Cabazon/Wackenhut Corporation Joint Venture, also known as Cabazon Arms. |
-| [[Johnny Rosselli]] | Organized crime leader enlisted by the CIA through Robert Maheu in 1960 to assist in assassination plots against Fidel Castro. |
+| [[Johnny Roselli|Johnny Rosselli]] | Organized crime leader enlisted by the CIA through Robert Maheu in 1960 to assist in assassination plots against Fidel Castro. |
 | [[Jonathan Ben Cnaan]] | Jonathan Ben Cnaan was an account executive with 53rd Street Ventures, a New York City venture capital firm that held a small equity investment in Inslaw. |
 | [[Joseph Coors]] | Prominent right-wing activist, Heritage Foundation associate, and FGBMFI member connected to the PROMIS/Cabazon network. |
 | [[Joseph R. (Mike) Benitez]] | Former Cabazon Tribal Council Chairman who wrote to President Reagan requesting investigation of non-Indian investors at Cabazon Casino. |
@@ -669,10 +669,10 @@ Central figures in the Iran-Contra affair and October Surprise.
 | [[Pablo Escobar]] | Pablo Escobar was the leader of the Medellín Cartel who allegedly made a deal with Vice President George Bush's administration and whose cocaine empire supplied Contra-connected trafficking networks. |
 | [[Reza Hashemi]] | Iranian arms dealer and one of the Hashemi brothers involved in secret arms sales and hostage negotiations related to Iran-Contra. |
 | [[Ricardo Lau]] | Ricardo Lau was a former Nicaraguan National Guard intelligence officer who co-founded the FDN Contra army and served as its death squad leader and chief torturer. |
-| [[Rob Owen]] | Rob Owen was Oliver North's courier and liaison to the Contra leadership who reported on drug trafficking by Contra supply companies. |
+| [[Robert Owen|Rob Owen]] | Rob Owen was Oliver North's courier and liaison to the Contra leadership who reported on drug trafficking by Contra supply companies. |
 | [[Robert Parry]] | American investigative journalist who broke early stories on Contra drug trafficking, produced Frontline documentaries on Iran-Contra, and argued the CIA's secret agreement with Justice was designed to protect narcotics traffickers. |
 | [[Roger Mayorga]] | Roger Mayorga was a former Sandinista intelligence officer who headed criminal investigations for the Nicaraguan National Police narcotics unit and monitored Norwin Meneses for years. |
-| [[Ron Lister]] | Ron Lister was a former Laguna Beach police officer who became Danilo Blandón's partner in drug trafficking and weapons procurement, claiming high-level CIA connections. |
+| [[Ronald Lister|Ron Lister]] | Ron Lister was a former Laguna Beach police officer who became Danilo Blandón's partner in drug trafficking and weapons procurement, claiming high-level CIA connections. |
 | [[Sandra Smith]] | Sandra Smith was a DEA agent who filed an affidavit in 1981 documenting Norwin Meneses's involvement in cocaine trafficking, years before the Frogman Case. |
 | [[Socrates Sofi-Perez]] | Socrates Sofi-Perez was a Cuban Bay of Pigs veteran and DEA informant who described the Contra drug trafficking scheme at Ilopango Air Base to Celerino Castillo. |
 | [[Spencer Oliver]] | Chief counsel for the House Foreign Relations Committee involved in Iran-Contra hearings, later admitting the hearings were a cover-up. |
@@ -946,7 +946,7 @@ Police, detectives, prosecutors, lawyers, and judges.
 | [[Thomas Gordon]] | LASD Major Violators detective who led the investigation into the Blandon-Ross cocaine network after receiving Jerry Guzzetta's Project Sahara reports. |
 | [[Tony Coelho]] | Coelho purchased property in partnership with one member of the Mariposa Board of Supervisors. |
 | [[Vivian L. Wagner]] | Her letter detailed the alleged corruption within the Mariposa County local government, including unlawful and corrupt activities by officials and departments, and the failure of the State Attorney General John Van de Kamp and federal agencies to investigate these allegations. |
-| [[Webb Hubbell]] | Arkansas lawyer and associate attorney general under Clinton with connections to weapons manufacturing for the Contras and the Mena, Arkansas drug investigation. |
+| [[Webster Hubbell|Webb Hubbell]] | Arkansas lawyer and associate attorney general under Clinton with connections to weapons manufacturing for the Contras and the Mena, Arkansas drug investigation. |
 | [[William Hundley]] | Hundley had recently joined Strauss's firm, Akin Gump Strauss Hauer & Feld. |
 | [[Yitzhak Kahan]] | As a result of the commission's findings, Maj. |
 | [[Yitzhak Tunic]] | Israeli lawyer who defended Michael Dennis Rohan in the 1969 El Aqsa Mosque arson case, later became Israel's state comptroller. |
@@ -1011,7 +1011,7 @@ Scientists and officials central to nuclear weapons development and policy.
 | [[David Ben-Gurion]] | David Ben-Gurion, often referred to as the 'Old Man,' was a central figure in the establishment of Israel and served as its first Prime Minister and Defense Minister from 1948 to 1963, with one brief interlude. |
 | [[David E. Long]] | State Department Middle East expert who revealed that Israeli nuclear intelligence was treated as a strictly taboo subject within the U.S. bureaucracy. |
 | [[David Lowenthal]] | David Lowenthal was one of the initial stockholders in the Nuclear Materials and Equipment Corporation (NUMEC). |
-| [[Donald M. Kerr, Jr.]] | Acting director of defense programs at the Department of Energy who directed the Nuclear Intelligence Panel study of the 1979 Vela satellite flash, concluding it was a nuclear bomb. |
+| [[Donald M. Kerr|Donald M. Kerr, Jr.]] | Acting director of defense programs at the Department of Energy who directed the Nuclear Intelligence Panel study of the 1979 Vela satellite flash, concluding it was a nuclear bomb. |
 | [[Edward Teller]] | Edward Teller was a Hungarian-American theoretical physicist who is widely known as the 'father of the hydrogen bomb.' He and other American nuclear weapons designers understood well before the end of World War II that a far more powerful nuclear device, with fission as merely a first step, was theo |
 | [[Eugene M. Braderman]] | Deputy assistant secretary of state for commercial affairs who was pressured by Israelis to help the U.S. accept Israel's nuclear weapons. |
 | [[Eugene Wigner]] | Eugene Wigner was a Hungarian-American theoretical physicist and Nobel laureate. |
@@ -1041,7 +1041,7 @@ Scientists and officials central to nuclear weapons development and policy.
 | [[Jens C. Hauge]] | Norwegian official who conducted Norway's only inspection of heavy water sold to Israel, accepting Bergmann's claims uncritically. |
 | [[Jerome B. Wiesner]] | President Kennedy's science adviser who was deliberately excluded from intelligence about Israel's Dimona nuclear reactor at David Ben-Gurion's request. |
 | [[Jody Powell]] | Jody Powell was President Jimmy Carter's press secretary. |
-| [[John A. McCone]] | McCone's leak was his parting shot as AEC commissioner, as he announced his resignation shortly after. |
+| [[John McCone|John A. McCone]] | McCone's leak was his parting shot as AEC commissioner, as he announced his resignation shortly after. |
 | [[John F. Kennedy]] | Kennedy's presidency was marked by a struggle with Israel over its nuclear ambitions, particularly concerning the Dimona reactor. |
 | [[John Foster Dulles]] | John Foster Dulles served as the Secretary of State under President Dwight D. |
 | [[John L. Hadden]] | Hadden sent Colonel Carmelo V. |
@@ -1286,7 +1286,7 @@ People needing further categorization.
 | [[Raymond Lavas]] | Lavas also turned some of Michael Riconosciuto's disks over to the Jack Brooks investigative committee (House Judiciary Committee on INSLAW). |
 | [[Regina Zokosky]] | Wife of Peter Zokosky who contradicted her husband's assertion that Danny Casolaro committed suicide. |
 | [[Rhonda Louise Williams]] | Rhonda Louise Williams was a 15-year-old resident of Houston, Texas, in 1973. |
-| [[Richard Allen]] | National security figure connected to the Carter and Reagan administrations who attended the October 1980 Washington meeting on Iran. |
+| [[Richard V. Allen|Richard Allen]] | National security figure connected to the Carter and Reagan administrations who attended the October 1980 Washington meeting on Iran. |
 | [[Richard Arnold]] | His Navy research career began in 1999 when he was commissioned as a US Naval Aerospace Experimental Psychologist. |
 | [[Richard St. Francis]] | Connecticut businessman and TransCapital employee involved in C-130 aircraft sales to Iran and indicted alongside Ari Ben-Menashe. |
 | [[Robert Barnes]] | Barnes was involved in a 'reverse sting' operation where methamphetamine precursors were reportedly supplied to Ben Kalka. |

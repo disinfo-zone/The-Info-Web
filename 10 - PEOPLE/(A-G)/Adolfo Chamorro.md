@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Adolfo Chamorro was a Contra leader who attended weapons sales presentations arranged by Ron Lister and Danilo BlandÃ³n as part of the Contra supply network.
 ---
-Adolfo Chamorro was a [[Contras|Contra]] leader who attended weapons sales presentations arranged by [[Ron Lister]] and [[Danilo Blandon|Danilo BlandÃ³n]] as part of the Contra supply network. Chamorro appeared alongside other top Contra figures including [[Eden Pastora]] and Mariano Montealgre at Lister's weapons demonstrations.[^1]
+Adolfo Chamorro was a [[Contras|Contra]] leader who attended weapons sales presentations arranged by [[Ronald Lister|Ron Lister]] and [[Danilo Blandon|Danilo BlandÃ³n]] as part of the Contra supply network. Chamorro appeared alongside other top Contra figures including [[Eden Pastora]] and Mariano Montealgre at Lister's weapons demonstrations.[^1]
 
 ### Weapons Procurement
 

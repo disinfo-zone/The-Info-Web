@@ -1,4 +1,4 @@
-﻿---
+---
 created: 2026-05-15
 updated: 2026-05-17
 title: Warren Commission
@@ -17,7 +17,7 @@ end: 1964-09-24
 location: "Washington, D.C."
 ---
 
-The President's Commission on the Assassination of President Kennedy - universally known as the Warren Commission after its chairman, Chief Justice Earl Warren - was an investigative body established by President [[Lyndon Johnson|Lyndon B. Johnson]] by executive order on November 29, 1963, one week after the Kennedy assassination. It issued its report on September 24, 1964, concluding that [[Lee Harvey Oswald]] had acted alone in killing President Kennedy and that [[Jack Ruby]] had acted alone in killing Oswald.[^1]
+The President's Commission on the Assassination of President Kennedy - universally known as the Warren Commission after its chairman, Chief Justice Earl Warren - was an investigative body established by President [[Lyndon B. Johnson]] by executive order on November 29, 1963, one week after the Kennedy assassination. It issued its report on September 24, 1964, concluding that [[Lee Harvey Oswald]] had acted alone in killing President Kennedy and that [[Jack Ruby]] had acted alone in killing Oswald.[^1]
 
 ### Composition
 

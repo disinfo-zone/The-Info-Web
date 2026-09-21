@@ -15,7 +15,7 @@ Robert Lashbrook was [[Sidney Gottlieb]]'s deputy in the [[CIA]]'s [[TSS]] Chemi
 
 ### The Olson Case
 
-After Olson's condition worsened, Lashbrook accompanied him and [[Vincent Ruwet]] to [[New York]] to see [[Harold Abramson]], the CIA-cleared allergist Gottlieb chose to treat Olson rather than following CIA regulations requiring notification of the Office of Security. Lashbrook thought a visit to [[John Mulholland]], a magician under TSS contract to develop ways of slipping drugs into drinks, might amuse Olson, but Olson became "highly suspicious." That night, Olson became upset during a performance of *Me and Juliet* and told Ruwet people were waiting outside the theater to arrest him. After Olson wandered the streets tearing up his money, Lashbrook and Ruwet found him in the hotel lobby at 5:30 A.M.[^1]
+After Olson's condition worsened, Lashbrook accompanied him and [[Vincent Ruwet]] to [[New York]] to see [[Harold Abramson]], the CIA-cleared allergist Gottlieb chose to treat Olson rather than following CIA regulations requiring notification of the [[CIA Office of Security|Office of Security]]. Lashbrook thought a visit to [[John Mulholland]], a magician under TSS contract to develop ways of slipping drugs into drinks, might amuse Olson, but Olson became "highly suspicious." That night, Olson became upset during a performance of *Me and Juliet* and told Ruwet people were waiting outside the theater to arrest him. After Olson wandered the streets tearing up his money, Lashbrook and Ruwet found him in the hotel lobby at 5:30 A.M.[^1]
 
 ### The Death
 

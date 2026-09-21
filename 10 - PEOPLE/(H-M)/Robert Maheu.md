@@ -39,9 +39,9 @@ Before the Castro assassination operation, Maheu had conducted several sensitive
 
 ### CIA-Mafia Anti-Castro Operation
 
-In August 1960, [[Sheffield Edwards]], the CIA's Director of Security, and his deputy James O'Connell briefed Maheu on the CIA's desire to recruit organized crime figures for an operation to assassinate Castro. Edwards and O'Connell's rationale for approaching Maheu was explicit: they needed someone with organized crime connections who could make an approach that would not be traceable to the CIA.
+In August 1960, [[Sheffield Edwards]], the CIA's Director of Security, and his deputy [[James O'Connell]] briefed Maheu on the CIA's desire to recruit organized crime figures for an operation to assassinate Castro. Edwards and O'Connell's rationale for approaching Maheu was explicit: they needed someone with organized crime connections who could make an approach that would not be traceable to the CIA.
 
-Maheu approached [[Johnny Roselli]], whom he had known through Las Vegas gambling circles, in September 1960. Roselli agreed to participate and arranged a meeting with [[Sam Giancana]] and [[Santos Trafficante, Jr.|Santo Trafficante Jr.]] Maheu handled the initial negotiations, communicating the CIA's operational requirements and providing the poison pills developed by the CIA's [[Technical Services Division]] for introduction into Castro's food or drink.
+Maheu approached [[Johnny Roselli]], whom he had known through [[Las Vegas]] gambling circles, in September 1960. Roselli agreed to participate and arranged a meeting with [[Sam Giancana]] and [[Santos Trafficante, Jr.|Santo Trafficante Jr.]] Maheu handled the initial negotiations, communicating the CIA's operational requirements and providing the poison pills developed by the CIA's [[Technical Services Division]] for introduction into Castro's food or drink.
 
 Maheu's role was that of a first-stage intermediary. Once the CIA-organized crime relationship was established, [[William Harvey]] replaced him as the agency's primary handler, working directly with Roselli rather than through Maheu. Maheu retained awareness of the program and some ongoing relationship with its participants but was no longer the operational manager after 1961.
 

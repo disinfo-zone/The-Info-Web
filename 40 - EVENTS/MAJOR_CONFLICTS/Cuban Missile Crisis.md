@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
   - Cuban Missile Crisis
   - Caribbean Crisis
@@ -32,7 +32,7 @@ Kennedy's inner circle, the Executive Committee of the National Security Council
 
 The most dangerous days came when U-2 reconnaissance aircraft were shot down over Cuba and Soviet submarines were depth-charged by American forces. Back-channel negotiations, including communication through Soviet intelligence officer Aleksandr Feklisov, helped establish the terms of resolution. The final agreement involved the public Soviet pledge to remove missiles, the American public pledge not to invade Cuba, and a secret American undertaking - revealed only decades later - to remove Jupiter missiles from Turkey within several months.[^1]
 
-The CIA's role during the crisis included the aerial reconnaissance that discovered the missiles and operational planning for responses including an air strike that ExComm ultimately rejected. CIA officer [[Bill Harvey]] controversially dispatched infiltration teams to Cuba during the crisis without authorization from CIA Director [[John McCone]], an action that triggered a furious confrontation and led to Harvey's reassignment.[^1]
+The CIA's role during the crisis included the aerial reconnaissance that discovered the missiles and operational planning for responses including an air strike that ExComm ultimately rejected. CIA officer [[William Harvey|Bill Harvey]] controversially dispatched infiltration teams to Cuba during the crisis without authorization from CIA Director [[John McCone]], an action that triggered a furious confrontation and led to Harvey's reassignment.[^1]
 
 ### Aftermath
 

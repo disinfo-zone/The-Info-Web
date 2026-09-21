@@ -16,7 +16,7 @@ Peat, Marwick, Mitchell & Co. (variously abbreviated PMM, PM&M, PMMC, and PMM&C 
 
 ### Role in PROMIS Development
 
-In the late 1960s and early 1970s, Peat, Marwick, Mitchell & Co. held federal contracts developing computerized management systems for multiple government departments including the [[Department of Defense]], [[Department of Transportation]], and the Small Business Administration, in addition to the [[LEAA|Law Enforcement Assistance Administration]].[^2]
+In the late 1960s and early 1970s, Peat, Marwick, Mitchell & Co. held federal contracts developing computerized management systems for multiple government departments including the [[Department of Defense]], [[Department of Transportation]], and the [[Small Business Administration]], in addition to the [[LEAA|Law Enforcement Assistance Administration]].[^2]
 
 In 1969, the [[Office of Crime Analysis of the District of Columbia]] administered a $60,000 LEAA grant (70-DF-047) to the firm to design a computer-based case management system for the [[U.S. Attorney's office|DC U.S. Attorney's Office]], at the direction of U.S. Attorney [[Thomas A. Flannery]]. The project team was co-directed by [[Joan E. Jacoby]] (Director of the Office of Crime Analysis) and [[Charles R. Work]] (Deputy Chief of the Superior Court Division of the DC U.S. Attorney's Office), with [[Bill Hamilton]] serving as project manager. Hamilton was then a senior consultant at the firm and a former [[NSA]] analyst. The resulting system -- the Prosecutor's Management Information System ([[PROMIS]]) - was deployed January 1, 1971.[^1][^2]
 

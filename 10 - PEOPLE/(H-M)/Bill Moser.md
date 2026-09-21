@@ -17,13 +17,13 @@ Bill Moser is an [[FBI]] Special Agent assigned to the [[FBI Columbia Field Offi
 
 ### Identification in Trial Testimony
 
-Moser was identified by name through Sutter's own testimony at the September 2021 trial of [[Kaleb Cole]] in [[United States v. Shea et al.]], 2:20-cr-00032 ([[Western District of Washington|W.D. Wash.]], Judge [[John C. Coughenour]]). Sutter testified that "on the direction of his FBI handler, Special Agent Bill Moser of the Columbia, South Carolina, field office, Sutter became part of the underground militant group," referring to [[Atomwaffen Division]].[^1] This testimony was corroborated in the reporting of journalist [[Ali Winston]], drawing on trial transcripts.[^1]
+Moser was identified by name through Sutter's own testimony at the September 2021 trial of [[Kaleb Cole]] in [[United States v. Shea et al.]], 2:20-cr-00032 ([[Western District of Washington|W.D. Wash.]], Judge [[John C. Coughenour]]). Sutter testified that "on the direction of his FBI handler, Special Agent Bill Moser of the Columbia, [[South Carolina]], field office, Sutter became part of the underground militant group," referring to [[Atomwaffen Division]].[^1] This testimony was corroborated in the reporting of journalist [[Ali Winston]], drawing on trial transcripts.[^1]
 
 No additional information about Moser, his rank, tenure, other cases, or supervisory chain within the Columbia office, has been confirmed in publicly available sources. Former and current FBI agents from the Columbia field office either did not recall Sutter or declined comment when asked by journalists.[^2]
 
 ### Operational Direction
 
-According to Sutter's trial testimony, Moser directed Sutter to join Atomwaffen Division from his existing position within [[Tempel ov Blood]] and the [[Order of Nine Angles]] (O9A) network. Moser's direction encompassed Sutter attending the [[2018 AWD Death Valley Hate Camp]] (February 2018) and the [[2019 AWD Nuclear Congress]] in [[Las Vegas, Nevada]] (September 2019). Rolling Stone reported that FBI funds were used to cover member travel and lodging for the Las Vegas gathering.[^1]
+According to Sutter's trial testimony, Moser directed Sutter to join Atomwaffen Division from his existing position within [[Tempel ov Blood]] and the [[Order of Nine Angles]] (O9A) network. Moser's direction encompassed Sutter attending the [[2018 AWD Death Valley Hate Camp]] (February 2018) and the [[2019 AWD Nuclear Congress]] in [[Las Vegas, Nevada]] (September 2019). Rolling Stone reported that FBI funds were used to cover member travel and lodging for the [[Las Vegas]] gathering.[^1]
 
 Moser's field office began an intensified payment period to Sutter specifically from February 7, 2018, the start of the documented $78,133.20 payment tranche that "almost entirely coincides with his work on the investigation into Mr. Cole" per the Cole defense motion.[^3] This payment timeline places Moser's direction of the AWD infiltration operation within a window bookended by the February 2018 Hate Camp and the September 2019 Nuclear Congress.
 

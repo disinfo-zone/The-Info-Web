@@ -1,4 +1,4 @@
-﻿---
+---
 created: 2026-05-15
 updated: 2026-05-16
 title: Rafael Trujillo
@@ -44,7 +44,7 @@ On the evening of May 30, 1961, Trujillo was ambushed on a highway while being d
 
 The transition that followed was turbulent. Trujillo's family initially retained power but was eventually forced to leave the country under U.S. pressure. The country moved toward elections, which produced President Juan Bosch in December 1962 - a democratic government that lasted only seven months before a military coup, with tacit American acquiescence, overthrew it in September 1963.
 
-The Dominican Republic's subsequent history included the 1965 civil war and American military intervention - a conflict in which approximately 30,000 U.S. troops landed in April 1965 under President [[Lyndon Johnson]] to prevent what the Johnson administration characterized as a communist takeover.[^2]
+The Dominican Republic's subsequent history included the 1965 civil war and American military intervention - a conflict in which approximately 30,000 U.S. troops landed in April 1965 under President [[Lyndon B. Johnson|Lyndon Johnson]] to prevent what the Johnson administration characterized as a communist takeover.[^2]
 
 ### Church Committee Findings
 

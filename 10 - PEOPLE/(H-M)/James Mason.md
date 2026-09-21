@@ -29,7 +29,7 @@ After years of failed attempts to find a publisher, [[Michael J. Moynihan]] form
 
 The book's second life began in 2015, when [[Iron March]] members began promoting it aggressively. The forum's global neo-Nazi and neo-fascist membership proved receptive in ways that the American white nationalist movement of the 1990s had not been. [[Brandon Russell]] announced [[Atomwaffen Division]] on Iron March in October 2015, and the new organization adopted *Siege* as its ideological foundation. AWD's activities, aesthetics, and strategic orientation all drew directly on Mason's writings.[^2]
 
-Mason was personally drawn into the AWD orbit. He attended the [[2019 AWD Nuclear Congress]] in Las Vegas, AWD's internal leadership gathering organized by [[Joshua Caleb Sutter]] of [[Tempel ov Blood]], delivering speeches calling for murder and lone-wolf attacks and making his first documented in-person appearance with the organization.[^3]
+Mason was personally drawn into the AWD orbit. He attended the [[2019 AWD Nuclear Congress]] in [[Las Vegas]], AWD's internal leadership gathering organized by [[Joshua Caleb Sutter]] of [[Tempel ov Blood]], delivering speeches calling for murder and lone-wolf attacks and making his first documented in-person appearance with the organization.[^3]
 
 ### Documented Influence
 
