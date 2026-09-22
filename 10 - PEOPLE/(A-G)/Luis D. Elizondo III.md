@@ -8,7 +8,7 @@ summary: "Cuban exile and father of Luis Elizondo whose revolutionary past and u
 
 ### Revolutionary Past and Imprisonment
 
-In his youth, Luis D. Elizondo III fought alongside Fidel Castro against the Batista regime in Cuba. However, when Castro aligned with the Soviet Union and declared himself president for life, Elizondo III joined the resistance. He participated in the [[Bay of Pigs]] invasion as a member of Brigade 2506 and was subsequently captured and imprisoned in Cuba for two years. His experiences in prison, which included enduring oral surgery without anesthesia, left him a volatile and deeply anti-authoritarian man.[^1]
+In his youth, Luis D. Elizondo III fought alongside Fidel Castro against the Batista regime in Cuba. However, when Castro aligned with the Soviet Union and declared himself president for life, Elizondo III joined the resistance. He participated in the [[Bay of Pigs]] invasion as a member of [[Brigade 2506]] and was subsequently captured and imprisoned in Cuba for two years. His experiences in prison, which included enduring oral surgery without anesthesia, left him a volatile and deeply anti-authoritarian man.[^1]
 
 ### Influence on Luis Elizondo
 

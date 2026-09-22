@@ -33,7 +33,7 @@ The organizational architecture was designed to provide deniable operational cap
 
 ### Strategy of Tension Involvement
 
-Gian Adelio Maletti, the head of SID's intelligence division (Ufficio D), was charged with deliberately misdirecting the investigation of the [[Piazza Fontana bombing]] away from the neofascist network by providing false information to investigators. He fled to South Africa in 1981 before his trial and was convicted in absentia. From South Africa he later gave statements acknowledging that SID had possessed information about neofascist responsibility for the Piazza Fontana bombing before it occurred and had not disclosed it.
+[[Gian Adelio Maletti]], the head of SID's intelligence division (Ufficio D), was charged with deliberately misdirecting the investigation of the [[Piazza Fontana bombing]] away from the neofascist network by providing false information to investigators. He fled to South Africa in 1981 before his trial and was convicted in absentia. From South Africa he later gave statements acknowledging that SID had possessed information about neofascist responsibility for the Piazza Fontana bombing before it occurred and had not disclosed it.
 
 Following the [[Bologna railway station bombing]] in 1980, former SISMI officer Pietro Musumeci and former SISMI officer Giuseppe Belmonte were convicted of slander and political conspiracy for their roles in planting false evidence intended to deflect the Bologna investigation toward neo-Marxist groups. The conviction established that SISMI had conducted an active disinformation operation against a domestic criminal investigation.[^2]
 

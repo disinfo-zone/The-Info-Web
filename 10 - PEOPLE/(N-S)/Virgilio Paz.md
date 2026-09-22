@@ -28,7 +28,10 @@ In [[Rome]], where Townley was arranging with the followers of [[Stefano Delle C
 
 In September 1976 Paz gave Townley the remote-control detonator used against [[Orlando Letelier]], one Townley "himself had constructed months before in Santiago by modifying a radio paging device." Paz and [[Jose Dionisio Suarez]] drove with Townley to Letelier's house. "I was informed by Paz and Suarez that they expected me to place the device on the car," Townley stated, "as they wished to have a DINA agent, namely myself, directly tied to the placing of the device."[^1]
 
+Paz was indicted with six others on August 1, 1978, and remained a fugitive when Suárez was caught in 1990. He pleaded guilty to conspiracy to murder a foreign official and was sentenced to twelve years.[^3]
+
 ### Footnotes
 
 [^1]: Dinges, John, and Saul Landau. *Assassination on Embassy Row*. McGraw-Hill, 1980, pp. 16-19, 152-160.
 [^2]: Branch, Taylor, and Eugene M. Propper. *Labyrinth*. Viking, 1982, pp. 243-246, 303.
+[^3]: McAllister, Bill. "Suspect Arrested in Letelier Slaying," *Washington Post,* April 12, 1990. "USA v. Guillermo Novo Sampol et al., 78-CR-367," case synopsis, latinamericanstudies.org, not verified against the docket.

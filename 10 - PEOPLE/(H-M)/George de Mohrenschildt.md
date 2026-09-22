@@ -22,7 +22,7 @@ George Sergius de Mohrenschildt (April 17, 1911 - March 29, 1977) was a Russian-
 
 ### Background
 
-De Mohrenschildt was born in Mozyr, Czarist Russia, to a noble family with oil industry connections; his father managed Nobel family oil interests in Baku. He emigrated to the [[United States]] in 1938 via [[Belgium]] and [[France]]. A [[Department of State|State Department]] "lookout" notation dated October 8, 1942, flagged him as a possible Nazi agent; he was expelled from [[Mexico]] as persona non grata in 1942. He subsequently earned a doctorate in petroleum geology from the University of Texas and taught at Texas colleges while working as an independent petroleum consultant, accumulating a broad social network in Dallas spanning the White Russian emigre community, the Texas oil industry, and, through his travels, U.S. government contacts.[^1]
+De Mohrenschildt was born in Mozyr, Czarist Russia, to a noble family with oil industry connections; his father managed Nobel family oil interests in Baku. He emigrated to the [[United States]] in 1938 via [[Belgium]] and [[France]]. A [[Department of State|State Department]] "lookout" notation dated October 8, 1942, flagged him as a possible Nazi agent; he was expelled from [[Mexico]] as persona non grata in 1942. He subsequently earned a doctorate in petroleum geology from the [[University of Texas]] and taught at Texas colleges while working as an independent petroleum consultant, accumulating a broad social network in Dallas spanning the White Russian emigre community, the Texas oil industry, and, through his travels, U.S. government contacts.[^1]
 
 ### CIA Contact: J. Walton Moore
 

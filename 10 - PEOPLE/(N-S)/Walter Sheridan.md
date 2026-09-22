@@ -24,8 +24,11 @@ NBC broadcast a program critical of Garrison's conduct on June 19, 1967. On July
 
 "On 1 May, Jack Miller, a former assistant attorney general in charge of the Justice Department's Criminal Division, called the CIA's general counsel to offer some intelligence that had come to Miller 'from within Garrison's office,'" the agency's own journal recorded in 2001. "Miller's source was Walter Sheridan." The general counsel was [[Lawrence Houston]], and the call is recorded in a memorandum of May 1, 1967, headed "Report Concerning Garrison-Kennedy-CIA." Miller was the same lawyer who represented Sheridan against Garrison two years later.[^1]
 
+In September 1967, with Sheridan "subpoenaed by Garrison to appear before the Grand Jury in New Orleans," his lawyer Jack Miller, "who also is counsel for the Slocums in the Tofte case," told the agency's general counsel that Shaw's lawyers had approached him for someone in government "who could steer them as to the true facts and circumstances." Miller had been the channel from Garrison's office to the CIA in May; in September he was the channel from Shaw's defense.[^4]
+
 ### Footnotes
 
 [^1]: Holland, Max. "The Lie That Linked CIA to the Kennedy Assassination," *Studies in Intelligence,* vol. 45, no. 5, 2001. https://www.cia.gov/resources/csi/static/Lie-That-Linked-CIA.pdf
 [^2]: Sheridan v. Garrison, 415 F.2d 699 (5th Cir. 1969).
 [^3]: DiEugenio, James. "The Wegmann Files," *Probe,* vol. 4, no. 4, May-June 1997, pp. 8-9.
+[^4]: Houston, Lawrence R. Memorandum for the Executive Director-Comptroller, "Garrison Investigation," OGC 67-1787, September 18, 1967, JFK record 104-10428-10024.

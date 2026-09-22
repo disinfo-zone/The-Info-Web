@@ -44,7 +44,7 @@ Hunt also managed the political exile leadership, working to maintain cohesion a
 
 ### Bay of Pigs
 
-Hunt was assigned as the CIA's political officer for the Bay of Pigs invasion, responsible for the Cuban Revolutionary Council - the exile political organization that would form a provisional government after the expected overthrow of [[Fidel Castro]]. He worked with the exile leadership in [[Miami]] and later in [[New York]], managing their political expectations and organizational disputes.
+Hunt was assigned as the CIA's political officer for the Bay of Pigs invasion, responsible for the [[Cuban Revolutionary Council]] - the exile political organization that would form a provisional government after the expected overthrow of [[Fidel Castro]]. He worked with the exile leadership in [[Miami]] and later in [[New York]], managing their political expectations and organizational disputes.
 
 The Bay of Pigs was a catastrophic failure, and Hunt's political operation collapsed along with the military operation. The exile political leadership was not told the operation was under way until it had already failed, and Hunt's management of their expectations was blamed by exile leaders for contributing to the political disorder. His role in the operation was not publicly acknowledged.[^1]
 
@@ -66,6 +66,10 @@ On the night of June 17, 1972, Hunt organized and directed the team that broke i
 
 Hunt was convicted of conspiracy, burglary, and wiretapping and sentenced to 35 years, subsequently reduced. He served approximately 33 months in federal prison. His wife Dorothy died in a plane crash in December 1972, with some researchers suggesting the crash was not accidental; the official ruling was that it was an accident.[^7]
 
+The [[CIA Office of Security|Office of Security]] reported to the inspector general on May 22, 1975, for the [[Church Committee]], that in November 1963 Hunt "was assigned to DDP/CA Staff, Office of the Chief, Headquarters; however, apparently Mr. Hunt had collateral duties with DDP/Domestic Operations Division/Facilities Branch," from November 1961 to February 1965, and that "neither Mr. Hunt nor Mr. McCord were in charge of Mexican operations at the time of the Kennedy assassination."[^8]
+
+Helms's secretary [[Elizabeth Dunlevy]] testified in 1974 that Hunt "had always been grateful to her for arranging a loan in connection with the terrible financial strain involving his daughter"; the agency's observer noted that Helms had placed the call that produced a loan of about 12,000 dollars.[^9]
+
 ### Kennedy Assassination Statements
 
 In his final years, Hunt made a series of statements about the Kennedy assassination that attracted significant attention. In a 2007 article in *Rolling Stone* based on a recorded conversation with his son Saint John Hunt, Hunt implicated several CIA figures - including [[Cord Meyer]] and [[David Phillips]] - as having known about or participated in a conspiracy. Hunt's account was inconsistent across tellings and was disputed by the individuals named; his health had declined severely before the statements were made.
@@ -83,3 +87,5 @@ Hunt died of pneumonia on January 23, 2007, in [[Miami, Florida|Miami]].[^1]
 [^5]: "E. Howard Hunt: Utilization by Central Cover Staff," 1970, CIA Reading Room document C00660613; Gahagen, Robert D., "Request for CSA concerning E. Howard Hunt," June 3, 1970, C00297384; "Letter of Recommendation Written by Mr. Helms," July 20, 1973, C00609297.
 [^6]: House Committee on Armed Services, Special Subcommittee on Intelligence, *Inquiry into the Alleged Involvement of the Central Intelligence Agency in the Watergate and Ellsberg Matters,* 93rd Cong., 1973; Ruth, Henry S., Jr., letter to John S. Warner, July 26, 1973, C01482382; "Inquiry Regarding Possible ITT Association with CIA and Robert R. Mullen and Company," August 7, 1973, C01367838.
 [^7]: Summers, Anthony. *The Arrogance of Power: The Secret World of Richard Nixon.* Viking, 2000. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.
+[^8]: Kane, Charles W., Director of Security. Memorandum for the Inspector General, "Senate Select Committee on Intelligence Operations, Request," May 22, 1975, JFK record 104-10106-10619.
+[^9]: Central Intelligence Agency, Office of Legislative Counsel, memorandum for the record, "Select Committee Testimony of 6 February 1974," OLC 74-0197, February 6, 1974. CIA Reading Room, document 01474420.

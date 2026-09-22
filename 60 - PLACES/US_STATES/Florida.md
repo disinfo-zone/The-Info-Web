@@ -9,7 +9,7 @@ Florida served as a major hub for both [[cocaine]] trafficking and [[Contras|Con
 
 ### Contra Operations in Miami
 
-After leaving [[Los Angeles]], [[Danilo Blandon|Danilo Blandón]] relocated to Miami and invested drug profits in a string of companies. His restaurant La Parrilla was co-owned by Somoza's former counterinsurgency expert Major General Gustavo Medina and [[Donald Barrios]], an [[FDN]] supporter. The restaurant became a gathering place for Contra leaders and the site of pro-Contra demonstrations. Blandón's Alpha II Rent-a-Car business began outside Miami International Airport and spread to 24 locations. His immigration lawyer was deeply involved with the FDN's Miami support network, arranging travel papers for rebel soldiers.[^2]
+After leaving [[Los Angeles]], [[Danilo Blandon|Danilo Blandón]] relocated to Miami and invested drug profits in a string of companies. His restaurant La Parrilla was co-owned by Somoza's former counterinsurgency expert Major General Gustavo Medina and [[Donald Barrios]], an [[FDN]] supporter. The restaurant became a gathering place for Contra leaders and the site of pro-Contra demonstrations. Blandón's Alpha II Rent-a-Car business began outside [[Miami International Airport]] and spread to 24 locations. His immigration lawyer was deeply involved with the FDN's Miami support network, arranging travel papers for rebel soldiers.[^2]
 
 ### Money Laundering
 

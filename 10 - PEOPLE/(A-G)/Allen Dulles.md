@@ -62,7 +62,7 @@ Under Eisenhower, Dulles reported all CIA covert operations, including MKULTRA, 
 
 ### Bay of Pigs and Forced Resignation
 
-The Bay of Pigs invasion of April 17-19, 1961 was the catastrophic failure that ended Dulles's career. The operation had been developed under Eisenhower and inherited by Kennedy; Dulles and Bissell had assured Kennedy that the plan was viable. After Kennedy's cancellation of the D-Day follow-up air strikes, the collapse of the cover story at the [[United Nations]], and the capture of 1,179 Brigade 2506 members, the disaster's scope was evident.
+The Bay of Pigs invasion of April 17-19, 1961 was the catastrophic failure that ended Dulles's career. The operation had been developed under Eisenhower and inherited by Kennedy; Dulles and Bissell had assured Kennedy that the plan was viable. After Kennedy's cancellation of the D-Day follow-up air strikes, the collapse of the cover story at the [[United Nations]], and the capture of 1,179 [[Brigade 2506]] members, the disaster's scope was evident.
 
 Kennedy publicly accepted responsibility but was privately furious. He reportedly told aide [[Ted Sorensen]] that he wanted to "splinter the CIA into a thousand pieces and scatter it to the winds" - a remark almost certainly apocryphal in its precise wording but consistent with his documented anger. The Taylor Commission's findings and the classified Kirkpatrick IG report both pointed to fundamental CIA failures in planning, execution, and judgment.
 

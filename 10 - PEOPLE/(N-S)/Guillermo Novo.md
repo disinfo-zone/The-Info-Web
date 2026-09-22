@@ -33,7 +33,13 @@ On September 10, 1976, at Union City, Townley "outlined my DINA mission to assas
 
 Asked by the prosecutor [[Eugene Propper]] and the agent [[Carter Cornick]] where he had been the night before the bombing, Novo said: "That is my trump card. That is the ace up my sleeve." The informant [[Ricardo Morales Navarrete|Ricardo Morales]], then an officer of the Venezuelan [[DISIP]], had planted a story that Bosch was telling associates the "Novo brothers" had killed Letelier. "Bosch is a liar and a traitor to freedom," Novo said.[^1]
 
+### Trials
+
+Indicted on August 1, 1978, Novo was tried with Alvin Ross and his brother Ignacio Novo from January 8, 1979. Michael Townley, who had pleaded, testified that DINA "ordered him to secure assistance from the CNM" so as to isolate itself, and that Novo had insisted Townley take part personally. A jailhouse informant, Antonio Polytarides, testified to Novo's admissions. The defense argued that Townley "was in fact an agent of the United States Central Intelligence Agency which had planned the assassination of Letelier." On February 14, 1979, the jury convicted all three; Novo received two life terms and five years for lying to the grand jury. On September 15, 1980, the court of appeals reversed under *[[United States v. Henry]]*, decided that June, which barred testimony from informants cultivated by the government among pretrial detainees; Ignacio's conviction fell for want of a separate trial. At the retrial of May 1981 the jury acquitted Novo and Ross of the murders and convicted Novo of the false declarations. In October 1981 he was released from federal prison by mistake, officials having confused him with his brother. An FBI informant had reported in January 1978 that he was organizing [[CORU]] cells in Union City "for military action in the U.S. and against the country of Venezuela."[^3][^4]
+
 ### Footnotes
 
 [^1]: Branch, Taylor, and Eugene M. Propper. *Labyrinth*. Viking, 1982, pp. 101-108.
 [^2]: Dinges, John, and Saul Landau. *Assassination on Embassy Row*. McGraw-Hill, 1980, pp. 9-21, 147-152, 240.
+[^3]: *United States v. Sampol,* 636 F.2d 621 (D.C. Cir. 1980).
+[^4]: Federal Bureau of Investigation, Miami, file 2-471, "CORU," August 16, 1978. National Security Archive, Electronic Briefing Book 153, document 13. "Wrong Man Freed in Letelier Case," *Washington Post,* October 21, 1981, as summarized.

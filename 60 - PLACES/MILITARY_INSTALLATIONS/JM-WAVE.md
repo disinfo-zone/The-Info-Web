@@ -43,7 +43,7 @@ Maritime operations: Small fast boats conducted raids on Cuban coastal installat
 
 Intelligence collection: Cuban refugees arriving in Miami were systematically debriefed; agent networks inside Cuba reported on military dispositions, economic conditions, and political developments; and aerial photography supplemented human intelligence.
 
-Exile organizational management: The station provided funding and direction to multiple Cuban exile groups including the Democratic Revolutionary Front (FRD) and its successor the Cuban Revolutionary Council, Brigade 2506's survivors, and various smaller organizations. Managing competing exile factions and their political agendas within CIA operational requirements was a persistent challenge.
+Exile organizational management: The station provided funding and direction to multiple Cuban exile groups including the Democratic Revolutionary Front (FRD) and its successor the [[Cuban Revolutionary Council]], [[Brigade 2506]]'s survivors, and various smaller organizations. Managing competing exile factions and their political agendas within CIA operational requirements was a persistent challenge.
 
 Assassination planning: The CIA-organized crime assassination plots against Castro, run through [[Johnny Roselli]] and [[Sam Giancana]] by Harvey, were coordinated at least in part through JM/WAVE's Miami presence.[^1]
 

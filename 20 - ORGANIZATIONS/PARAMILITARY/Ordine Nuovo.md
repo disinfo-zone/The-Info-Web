@@ -39,7 +39,7 @@ The judicial path to conviction was tortured over three decades, with acquittals
 
 ### Peteano Bombing and Vinciguerra
 
-The [[Peteano bombing]] of May 31, 1972, in which three Carabinieri were killed by a bomb concealed in a Fiat 500, was carried out by [[Vincenzo Vinciguerra]], a member of both Ordine Nuovo and Avanguardia Nazionale. Vinciguerra fled to Spain after the attack and surrendered to Italian authorities in 1979. In 1984 he made a voluntary confession to Venice investigating magistrate [[Felice Casson]], providing testimony that explicitly linked the attack to the Gladio stay-behind network and to SID intelligence service protection - naming not just his own actions but the organizational framework within which they occurred. His testimony became the foundation for Casson's discovery of the Gladio documents in 1990 and the subsequent forced disclosure by Prime Minister [[Giulio Andreotti]].[^1]
+The [[Peteano bombing]] of May 31, 1972, in which three Carabinieri were killed by a bomb concealed in a Fiat 500, was carried out by [[Vincenzo Vinciguerra]], a member of both Ordine Nuovo and [[Avanguardia Nazionale]]. Vinciguerra fled to Spain after the attack and surrendered to Italian authorities in 1979. In 1984 he made a voluntary confession to Venice investigating magistrate [[Felice Casson]], providing testimony that explicitly linked the attack to the Gladio stay-behind network and to SID intelligence service protection - naming not just his own actions but the organizational framework within which they occurred. His testimony became the foundation for Casson's discovery of the Gladio documents in 1990 and the subsequent forced disclosure by Prime Minister [[Giulio Andreotti]].[^1]
 
 ### SID Relationships
 
