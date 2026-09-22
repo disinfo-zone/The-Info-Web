@@ -28,7 +28,7 @@ The manifesto Henderson left was recovered by law enforcement and analyzed for c
 
 The ADL's analysis of the Antioch attack identified Henderson's manifesto as drawing from "broad extremist beliefs and previous mass killers," with MKY content among the influences. The investigation did not produce evidence that Henderson had been in direct contact with Chkhikvishvili or other MKY members.
 
-Nashville MPD's January 2026 update explicitly addressed public speculation about MKY direction, concluding that Henderson acted alone and without co-conspirators. This places the Antioch attack in a category distinct from cases like the Aracruz, Brazil school shootings - where [[Dallas Humber]] had direct documented Telegram contact with the perpetrator in the month before the attack - and instead reflects MKY's reach through publicly circulated ideological content rather than operational mentorship.[^2]
+Nashville MPD's January 2026 update explicitly addressed public speculation about MKY direction, concluding that Henderson acted alone and without co-conspirators. This places the Antioch attack in a category distinct from cases like the Aracruz, Brazil school shootings - where [[Dallas Humber]] had direct documented [[Telegram]] contact with the perpetrator in the month before the attack - and instead reflects MKY's reach through publicly circulated ideological content rather than operational mentorship.[^2]
 
 ### Footnotes
 

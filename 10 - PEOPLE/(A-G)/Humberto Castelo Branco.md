@@ -64,7 +64,7 @@ Castelo Branco was killed on July 18, 1967, four months after leaving the presid
 [^1]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995. Ch. 28.
 [^2]: Colby and Dennett, Ch. 29. ESG established by Brazilian Law 785/49, August 20, 1949. Castelo Branco appointed Army Chief of Staff September 13, 1963.
 [^3]: Colby and Dennett, Ch. 29.
-[^4]: FRUS 1964-68, Vol. XXXI, Document 186. Telegram from Embassy in Brazil to Department of State, March 26, 1964. Top Secret; Priority; Exclusive Distribution.
+[^4]: FRUS 1964-68, Vol. XXXI, Document 186. [[Telegram]] from Embassy in Brazil to Department of State, March 26, 1964. Top Secret; Priority; Exclusive Distribution.
 [^5]: FRUS 1964-68, Vol. XXXI, Document 187. Telegram from Ambassador Gordon to Rusk, McNamara, McCone, Taylor, et al., March 28, 1964. Top Secret; Immediate; Exdis. NSA Electronic Briefing Book No. 465, Document 12.
 [^6]: FRUS 1964-68, Vol. XXXI, Document 186, footnote on Walters's role. NSA Electronic Briefing Book No. 465, Document 13. Joint Chiefs of Staff cable, March 30, 1964, reporting Walters's meeting with coup plotters.
 [^7]: NSA Electronic Briefing Book No. 465, Document 15. White House Memorandum, April 1, 1964, reporting Gordon's assessment that coup was "95% over."

@@ -5,7 +5,7 @@ aliases:
   - Fidel Alejandro Castro Ruz
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Key Figures"
 tags:
   - Person
   - Cuba

@@ -20,7 +20,7 @@ location: "Venice, Florida"
 
 ### Arrest and Evidence
 
-Federal agents executed a search warrant at Lightner's Venice residence within approximately a week of the December 2023 posts. The search recovered a self-made firearm silencer, several firearms, thousands of rounds of ammunition, a copy of Mein Kampf, and extremist literature with detailed descriptions of mass shooting events praising historical white supremacist killers. When interviewed by law enforcement, Lightner admitted the silencer was his and that he had manufactured it himself. He also admitted to making the threatening Telegram posts.
+Federal agents executed a search warrant at Lightner's Venice residence within approximately a week of the December 2023 posts. The search recovered a self-made firearm silencer, several firearms, thousands of rounds of ammunition, a copy of Mein Kampf, and extremist literature with detailed descriptions of mass shooting events praising historical white supremacist killers. When interviewed by law enforcement, Lightner admitted the silencer was his and that he had manufactured it himself. He also admitted to making the threatening [[Telegram]] posts.
 
 The original indictment, filed January 2024 in the Middle District of Florida with a terrorism enhancement applied, charged Lightner with two counts: interstate transmission of a threat to injure (the threatening Terrorgram messages) and unlawful possession of an unregistered firearm (the silencer). The threat charge carried up to five years and the silencer charge up to ten, for a combined original maximum of fifteen years.
 

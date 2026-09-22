@@ -1,5 +1,5 @@
 ---
-category: "Key Figures"
+category: "Historical Figure"
 tags:
   - Person
   - CIA

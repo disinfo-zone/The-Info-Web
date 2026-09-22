@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Key Figures"
 tags:
   - Person
   - AriBenMenashe

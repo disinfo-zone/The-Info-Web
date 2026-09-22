@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Iran-Contra"
 tags:
   - Person
 summary: "Corson was reported to have carried money to South America in a deal to deliver covert weapons."

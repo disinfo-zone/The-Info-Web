@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "Michael Salcido was as a victim of child sexual abuse by John David Norman in Chicago, Illinois."

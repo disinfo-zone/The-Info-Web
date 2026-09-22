@@ -20,7 +20,7 @@ Soshnikov began investigating the [[Internet Research Agency]] (IRA) while worki
 
 In February 2015, Soshnikov published a follow-up from an unnamed IRA whistleblower that included photographs, videos, and copies of "technical tasks" distributed to trolls, establishing the IRA's operational methodology in significantly greater detail.[^1]
 
-After joining BBC News Russian, Soshnikov continued IRA-related investigations, using social engineering methods to identify individual operatives behind accounts on Twitter, VKontakte, and Telegram.
+After joining BBC News Russian, Soshnikov continued IRA-related investigations, using social engineering methods to identify individual operatives behind accounts on Twitter, VKontakte, and [[Telegram]].
 
 ### Iron March / Mukhitdinov Investigation
 

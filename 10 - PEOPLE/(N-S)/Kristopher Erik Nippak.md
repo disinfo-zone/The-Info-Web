@@ -20,7 +20,7 @@ location: "East York, Ontario, Canada"
 
 ### RCMP Investigation and Alleged Conduct
 
-The RCMP investigation covered alleged offenses beginning in April 2018, corresponding to the early period of both AWD's international expansion and the pre-Terrorgram accelerationist Telegram ecosystem. Prosecutors presented the court with manifestos, videos, thumbnails, photos, and documents contained on hard drives seized from Althorpe's computer during the investigation, with Nippak's alleged contributions to that shared material base forming the basis of his participation charge.
+The RCMP investigation covered alleged offenses beginning in April 2018, corresponding to the early period of both AWD's international expansion and the pre-Terrorgram accelerationist [[Telegram]] ecosystem. Prosecutors presented the court with manifestos, videos, thumbnails, photos, and documents contained on hard drives seized from Althorpe's computer during the investigation, with Nippak's alleged contributions to that shared material base forming the basis of his participation charge.
 
 Specifically, Nippak was alleged to have participated in the creation of recruiting videos for Atomwaffen Division and in the creation of a series of manifestos and terrorism manuals for the Terrorgram Collective. The reference to AWD videos placed his alleged conduct in the pre-Terrorgram period (2018-2019) through the Terrorgram publication era (2021-2022).
 

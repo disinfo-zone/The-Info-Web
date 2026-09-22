@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "American engineer and CEO of McDonnell Douglas Corporation, member of FGBMFI connected to the PROMIS scandal network."

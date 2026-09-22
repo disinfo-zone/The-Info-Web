@@ -1,5 +1,5 @@
 ---
-category: "AI & Effective Altruism"
+category: "Key Figures"
 tags:
   - Person
   - NickBostrom

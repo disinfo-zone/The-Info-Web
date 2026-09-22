@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Assistant Special Agent in Charge from the FBI's D.C. Metropolitan Office, present at Paul Wilcher's apartment after his death."

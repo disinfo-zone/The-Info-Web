@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Algerian Foreign Minister who attempted to broker an accord with Iran over the American hostage crisis in 1980."

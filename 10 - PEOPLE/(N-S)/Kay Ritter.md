@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime Investigation"
 tags:
   - Person
 summary: "Former Mariposa Grand Jury Forewoman and key figure in D.I.G., an organization formed to expose corruption in Mariposa County."

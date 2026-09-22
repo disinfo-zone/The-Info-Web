@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Premier of the Soviet Union who flew to Cairo during the 1973 Yom Kippur War to persuade Sadat to accept a cease-fire, defusing a crisis that had triggered a U.S. nuclear alert."

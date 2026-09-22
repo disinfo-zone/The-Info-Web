@@ -7,7 +7,7 @@ aliases:
   - Ricky Donnell Ross
 created: 2026-05-17
 updated: 2026-05-17
-category: "Organized Crime"
+category: "Key Figures"
 tags:
   - Person
   - DrugTrafficker

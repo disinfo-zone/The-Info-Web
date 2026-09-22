@@ -1,5 +1,5 @@
 ﻿---
-category: "Psi Research Program"
+category: "Psi Phenomenon"
 tags:
   - Concept
   - Parapsychology

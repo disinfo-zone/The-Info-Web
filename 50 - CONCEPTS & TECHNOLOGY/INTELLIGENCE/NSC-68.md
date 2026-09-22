@@ -1,4 +1,5 @@
-﻿﻿---
+---
+category: "Intelligence Concept"
 created: 2026-05-15
 updated: 2026-05-15
 title: NSC-68

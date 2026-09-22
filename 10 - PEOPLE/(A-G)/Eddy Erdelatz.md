@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime Investigation"
 tags:
   - Person
 summary: "Former San Francisco Police inspector who investigated Paul Morasca's 1982 homicide and its connection to Philip Arthur Thompson."

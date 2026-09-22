@@ -1,5 +1,5 @@
 ---
-category: "Key Figures"
+category: "Crime & Abuse Networks"
 tags:
   - Person
   - ProjectMonarch

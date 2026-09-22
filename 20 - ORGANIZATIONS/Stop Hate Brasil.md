@@ -1,5 +1,5 @@
 ---
-category: "Organizations"
+category: "Extremism & Violent Networks"
 tags:
   - Organization
   - Brazil
@@ -16,7 +16,7 @@ Stop Hate Brasil (also rendered Stop Hate Brazil) is a Brazilian non-governmenta
 
 ### Activity
 
-Stop Hate Brasil's primary documented contribution to the investigation of Brazilian accelerationist networks was Prado's 2023 formal report to ABIN and the Ministry of Justice identifying Telegram channels linked to [[Terrorgram Collective]] members operating in Brazil, including channels associated with the pseudonym "Wolf Boy Winter" and with [[Ciro Daniel Amorim Ferreira]], subsequently designated by the US government as a [[Specially Designated Global Terrorist]] in January 2025. The organization has also documented the network's exploitation of gaming platforms (including [[Roblox]], [[Fortnite]], and [[Minecraft]]) and YouTube recommendation algorithms to introduce adolescents to extremist content.[^2]
+Stop Hate Brasil's primary documented contribution to the investigation of Brazilian accelerationist networks was Prado's 2023 formal report to ABIN and the Ministry of Justice identifying [[Telegram]] channels linked to [[Terrorgram Collective]] members operating in Brazil, including channels associated with the pseudonym "Wolf Boy Winter" and with [[Ciro Daniel Amorim Ferreira]], subsequently designated by the US government as a [[Specially Designated Global Terrorist]] in January 2025. The organization has also documented the network's exploitation of gaming platforms (including [[Roblox]], [[Fortnite]], and [[Minecraft]]) and YouTube recommendation algorithms to introduce adolescents to extremist content.[^2]
 
 By 2024, Stop Hate Brasil had identified more than 40 violent incidents in Brazilian school settings connected to some degree with online extremist networks over a three-year span, and had flagged that at least two [[Terrorgram Collective]] channels active in Brazil had been created by adolescents rather than adults, indicating that the network had successfully recruited Brazilian minors into its content-production infrastructure. Stop Hate Brasil issued public-facing reports, referred to as the "Sons do Odio" (Sons of Hate) report series, documenting these findings for civil society audiences.[^2]
 

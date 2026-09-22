@@ -12,7 +12,7 @@ tags:
   - BBC
   - JimmySavile
   - InstitutionalAbuse
-category: "Law Enforcement Operation"
+category: "Intelligence Operation"
 summary: "Operation Yewtree was a Metropolitan Police investigation launched in October 2012 following the death of BBC presenter Jimmy Savile, which uncovered systemic child sexual abuse by BBC figures and connections to international trafficking networks."
 start: 2012-10-01
 location: "Metropolitan Police, London"

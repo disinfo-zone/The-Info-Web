@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "Barnes was involved in a 'reverse sting' operation where methamphetamine precursors were reportedly supplied to Ben Kalka."

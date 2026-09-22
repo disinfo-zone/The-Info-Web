@@ -6,7 +6,7 @@ aliases:
   - William Egan Colby
   - Bill Colby
   - William E. Colby
-category: "Intelligence & Government"
+category: "Key Figures"
 tags:
   - Person
   - CIA

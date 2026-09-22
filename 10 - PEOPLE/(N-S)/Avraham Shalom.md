@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Avraham Shalom was the director of Shin Bet, Israel's internal security agency."

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Jeruham Kafkafi was an Israeli scientific attaché."

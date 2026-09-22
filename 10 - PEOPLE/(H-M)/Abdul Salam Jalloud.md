@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Major Abdul Salam Jalloud was the right-hand man of Col."

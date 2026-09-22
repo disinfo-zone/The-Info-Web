@@ -20,7 +20,7 @@ location: "East Brunswick, New Jersey"
 
 ### Operational Planning and Evidence
 
-In May 2024, Takhistov informed an undercover FBI employee that he was planning to travel to Ukraine to join the Russian Volunteer Corps, which he described as openly National Socialist and specialized in assassinations, attacks on power grids, and infrastructure sabotage. The combination of white nationalist ideology and interest in a pro-Russian paramilitary formation reflected a documented crossover between the far-right accelerationist Telegram ecosystem and Russian irregular networks.
+In May 2024, Takhistov informed an undercover FBI employee that he was planning to travel to Ukraine to join the Russian Volunteer Corps, which he described as openly National Socialist and specialized in assassinations, attacks on power grids, and infrastructure sabotage. The combination of white nationalist ideology and interest in a pro-Russian paramilitary formation reflected a documented crossover between the far-right accelerationist [[Telegram]] ecosystem and Russian irregular networks.
 
 On two occasions in June and July 2024, Takhistov and the undercover employee drove to two different electrical substations in [[North Brunswick, New Jersey|North Brunswick]] and [[New Brunswick, New Jersey]], where Takhistov provided instruction on how to conduct attacks on electrical substations. On July 5, 2024, he directed the undercover employee to photograph the substations so that he could transmit the images to what he described as a "Russian friend" for additional tactical advice on the most effective sabotage methods.
 

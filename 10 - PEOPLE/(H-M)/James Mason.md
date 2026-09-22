@@ -1,5 +1,5 @@
 ---
-category: "Extremism & Violent Networks"
+category: "Key Figures"
 tags:
   - Person
   - NeoNazi

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Colonel Meir Meir was the chief of the External Relations Department (ERD) of the Israel Defense Forces/Military Intelligence."

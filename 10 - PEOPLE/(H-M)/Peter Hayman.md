@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Sir Peter Hayman served as deputy-director of MI6 and was a known pedophile within Margaret Thatcher's inner circle."

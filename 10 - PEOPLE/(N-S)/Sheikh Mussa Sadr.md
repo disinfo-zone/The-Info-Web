@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Shi'ite leader from southern Lebanon who disappeared during a 1978 visit to Libya, believed to have been killed by Libyan authorities."

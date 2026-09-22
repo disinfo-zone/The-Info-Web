@@ -5,7 +5,7 @@ aliases:
   - Vinciguerra
 created: 2026-05-17
 updated: 2026-05-17
-category: "Neofascist Operative"
+category: "Extremism & Violent Networks"
 tags:
   - Person
   - Italy

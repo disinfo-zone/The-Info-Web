@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "Kristine Mihelich was a 10-year-old girl identified as the third victim in the series of murders attributed to the Oakland County Child Killer."

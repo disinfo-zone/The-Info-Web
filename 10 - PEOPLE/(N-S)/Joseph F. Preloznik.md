@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Nichols stated to Preloznik, 'Should there be any questions with regard to my credibility, verification can be made through F.I.D.C.O.."

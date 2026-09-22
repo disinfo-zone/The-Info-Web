@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Iran-Contra"
 tags:
   - Person
 summary: "Connecticut businessman and TransCapital employee involved in C-130 aircraft sales to Iran and indicted alongside Ari Ben-Menashe."

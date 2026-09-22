@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "Cusic, a seventeen-year veteran, was ultimately forced out of the department and retired on stress leave."

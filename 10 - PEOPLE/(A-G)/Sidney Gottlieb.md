@@ -16,7 +16,7 @@ tags:
   - 1950s
   - 1960s
   - 1970s
-category: "Intelligence & Government"
+category: "Key Figures"
 summary: "Sidney Gottlieb was the CIA's Technical Services Division chief who created and directed Project MKULTRA, ran Operation Midnight Climax and the Ewen Cameron subprojects, carried biological assassination materials to the Congo targeting Patrice Lumumba, and ordered destruction of nearly all MKULTRA records before congressional investigation."
 born: 1918-08-03
 died: 1999-03-07

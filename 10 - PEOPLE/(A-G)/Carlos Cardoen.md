@@ -1,5 +1,5 @@
 ---
-category: "Iran-Contra"
+category: "Key Figures"
 tags:
   - Person
   - IranContra

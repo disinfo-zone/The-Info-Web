@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Patrick Moriarty, Marshall Riconosciuto's business partner, paid for Bobby's stay in an exclusive suite at the Embassy Suites Hotel in Orange County, California."

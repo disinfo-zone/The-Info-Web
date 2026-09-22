@@ -1,5 +1,5 @@
 ---
-category: "Person"
+category: "Intelligence & Government"
 tags:
   - Person
   - USArmy

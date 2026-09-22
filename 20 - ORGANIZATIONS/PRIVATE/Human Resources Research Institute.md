@@ -1,5 +1,5 @@
 ---
-category: "Organization"
+category: "Private Organization"
 tags:
   - Organization
   - MilitaryPsychology

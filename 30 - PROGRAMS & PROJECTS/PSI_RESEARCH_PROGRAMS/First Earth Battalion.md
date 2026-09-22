@@ -1,5 +1,5 @@
 ---
-category: "PSI Research Program"
+category: "Psi Research Program"
 tags:
   - Program
   - FirstEarthBattalion

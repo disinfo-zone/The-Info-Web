@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Business & Finance"
 tags:
   - Person
 summary: "Mark Kesselman was formerly associated with Allen and Company in New York City, a Wall Street Investment Bank."

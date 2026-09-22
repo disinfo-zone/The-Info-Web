@@ -2,7 +2,7 @@
 aliases:
   - Garrison Rapmund
   - Major General Garrison Rapmund
-category: "Key Figures"
+category: "Military"
 tags:
   - Person
   - Stargate

@@ -101,7 +101,7 @@ King died January 27, 1977, in Washington, D.C. He was buried with his third wif
 [^13]: On Operation 40 post-Bay of Pigs wind-down: Church Committee, *Interim Report*, pp. 74-84. On JMWAVE station: NSA Electronic Briefing Book No. 355, "The CIA and the Cuban Missile Crisis," October 4, 2012, nsarchive2.gwu.edu/NSAEBB/NSAEBB355/.
 [^14]: National Security Archive, NSAEBB No. 434, "CIA Covert Operations: The 1964 Overthrow of Cheddi Jagan in British Guiana," April 6, 2020. nsarchive.gwu.edu/briefing-book/intelligence/2020-04-06/cia-covert-operations-overthrow-cheddi-jagan-british-guiana-1964.
 [^15]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995. Chs. 28-29.
-[^16]: FRUS 1964-68, Vol. XXXI, Document 187, Telegram from Ambassador Gordon to Secretary of State, March 28, 1964, Top Secret, Immediate, Exdis. history.state.gov/historicaldocuments/frus1964-68v31/d187.
+[^16]: FRUS 1964-68, Vol. XXXI, Document 187, [[Telegram]] from Ambassador Gordon to Secretary of State, March 28, 1964, Top Secret, Immediate, Exdis. history.state.gov/historicaldocuments/frus1964-68v31/d187.
 [^17]: Adolf Berle diary entry, quoted in Colby and Dennett, Ch. 29.
 [^18]: Colby and Dennett, Chs. 27-28.
 [^19]: Spartacus Educational, "Joseph Caldwell King"; Colby and Dennett, Ch. 8 (OCIAA background), Ch. 29 (1964 coup coordination).

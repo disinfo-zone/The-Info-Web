@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Casolaro confided to friends that he was unnerved by this supposedly chance meeting."

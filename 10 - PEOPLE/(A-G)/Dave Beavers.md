@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "Beavers, a fifteen-year veteran of the sheriff's department, was ultimately forced out of the department and retired on stress leave."

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Extremism & Violent Networks"
 tags:
   - Person
 summary: "Head of the English department at the University of San Cristobal in Peru and a national leader of the Shining Path guerrilla movement."

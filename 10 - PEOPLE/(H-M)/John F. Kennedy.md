@@ -1,5 +1,5 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Key Figures"
 tags:
   - Person
   - Nuclear

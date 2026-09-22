@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Military"
 tags:
   - Person
 summary: "Gritz was indicted in May 1987 for using a false passport in the name of Patrick Richard Clark from Vancouver, Canada."

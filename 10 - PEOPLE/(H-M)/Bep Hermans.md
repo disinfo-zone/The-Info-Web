@@ -1,7 +1,7 @@
 ---
 aliases:
 - Bep Hermans
-category: "Other"
+category: "Scientists & Researchers"
 tags:
   - Person
 summary: "Bep Hermans was a Dutch au pair who came to work for Andrija Puharich in 1956, taking care of his three young children after his wife, Jinny, was sent for psychiatric treatment."

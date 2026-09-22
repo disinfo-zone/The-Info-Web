@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Extremism & Violent Networks"
 tags:
   - Person
 summary: "American citizen jailed in Peru on charges of aiding the Shining Path guerrilla group, whose release was secured by Ari Ben-Menashe at the request of the U.S. consul general."

@@ -29,7 +29,7 @@ The book was the O9A's most effective tool for reaching audiences beyond the org
 
 *Iron Gates* was published by [[Joshua Caleb Sutter]] and his wife [[Jillian Hoy]] through Martinet Press in 2014, several years before the 2017 AWD infiltration that gave it its widest audience. In a significant paradox documented by investigative reporting, the costs of publishing *Iron Gates* and other Martinet Press titles were partially funded by Sutter's FBI informant payments, totaling more than $140,000 between 2003 and at least 2021. The FBI was simultaneously paying Sutter for intelligence work, including infiltrating AWD, while those funds supported the publication of a text that radicalized the AWD members Sutter was infiltrating.[^3]
 
-Following AWD's internal adoption of *Iron Gates* as required reading, the text was distributed through [[Terrorgram Collective]]'s Telegram channels to an accelerationist audience far larger than either Martinet Press or AWD's own networks could reach independently. Through this secondary distribution the book reached individuals with no prior AWD or O9A connection who encountered it as part of a broader diet of accelerationist propaganda.
+Following AWD's internal adoption of *Iron Gates* as required reading, the text was distributed through [[Terrorgram Collective]]'s [[Telegram]] channels to an accelerationist audience far larger than either Martinet Press or AWD's own networks could reach independently. Through this secondary distribution the book reached individuals with no prior AWD or O9A connection who encountered it as part of a broader diet of accelerationist propaganda.
 
 ### Legal and Policy Status
 

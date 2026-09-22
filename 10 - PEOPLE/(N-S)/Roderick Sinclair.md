@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Nurses present when Sinclair was brought into Fremont Hospital confided that he had been drugged on the day of the accident, receiving huge daily shots of Demerol."

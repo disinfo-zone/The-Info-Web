@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "Lothar Glandorf was a German child trafficker operating boy brothels in Rotterdam and Berlin during the early 1990s."

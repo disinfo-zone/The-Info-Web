@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Extremism & Violent Networks"
 tags:
   - Person
 summary: "In Palestine in 1940, Gourdji was involved with LEHI (Fighters for the Liberation of Israel), also known as the Stern Gang, a Jewish terrorist group."

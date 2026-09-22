@@ -1,5 +1,5 @@
 ---
-category: "Place"
+category: "Landmark"
 tags:
   - Place
   - CIA

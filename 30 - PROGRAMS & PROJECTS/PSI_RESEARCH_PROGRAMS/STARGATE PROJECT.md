@@ -25,7 +25,7 @@ tags:
   - 1970s
   - 1980s
   - 1990s
-category: "PSI Research Program"
+category: "Psi Research Program"
 summary: "Army, DIA, and CIA remote-viewing programs of 1972 to 1995, run under the names SCANATE, Gondola Wish, Grill Flame, Center Lane, Sun Streak, and Star Gate, closed after the 1995 AIR evaluation."
 start: 1977-01-01
 end: 1995-12-31

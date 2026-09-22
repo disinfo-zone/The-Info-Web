@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Iran-Contra"
 tags:
   - Person
 summary: "In September 1988, Ari Ben-Menashe visited the plant and met Mayers, who attempted to conceal the true purpose of the facility."

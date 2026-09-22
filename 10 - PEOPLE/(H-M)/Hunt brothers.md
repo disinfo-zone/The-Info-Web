@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Business & Finance"
 tags:
   - Person
   - HuntBrothers

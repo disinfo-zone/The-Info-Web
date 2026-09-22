@@ -20,7 +20,7 @@ Stop Hate Brasil (also written Stop Hate Brazil) is a Brazilian NGO founded by P
 
 ### 2023 ABIN Report
 
-In 2023, Prado submitted a formal report to ABIN and the [[Ministry of Justice and Public Security]] identifying Telegram channels linked to Terrorgram members operating in Brazil. The report documented the "Wolf Boy Winter" pseudonym, used by an as-yet-unidentified individual who posted surveillance footage from the [[2022 Aracruz School Shootings]] to a major Terrorgram channel approximately two days after the attack and who contributed multiple pages to "[[The Hard Reset]]," a core Terrorgram propaganda publication. The report also documented channels linked to [[Ciro Daniel Amorim Ferreira]], subsequently designated as a [[Specially Designated Global Terrorist]] (SDGT) by the US government in January 2025.[^2]
+In 2023, Prado submitted a formal report to ABIN and the [[Ministry of Justice and Public Security]] identifying [[Telegram]] channels linked to Terrorgram members operating in Brazil. The report documented the "Wolf Boy Winter" pseudonym, used by an as-yet-unidentified individual who posted surveillance footage from the [[2022 Aracruz School Shootings]] to a major Terrorgram channel approximately two days after the attack and who contributed multiple pages to "[[The Hard Reset]]," a core Terrorgram propaganda publication. The report also documented channels linked to [[Ciro Daniel Amorim Ferreira]], subsequently designated as a [[Specially Designated Global Terrorist]] (SDGT) by the US government in January 2025.[^2]
 
 ### Terrorgram Monitoring
 

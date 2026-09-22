@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "John Wayne Gacy (March 17, 1942 – May 10, 1994) murdered at least 33 young men and boys in the Chicago, Illinois, area during the 1970s."

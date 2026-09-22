@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "John Butkovich was an 18-year-old teenager employed by John Wayne Gacy's construction company, Painting Decorating Maintenance, in the Chicago, Illinois, area during the mid-1970s."

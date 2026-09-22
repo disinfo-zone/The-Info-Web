@@ -1,5 +1,5 @@
 ---
-category: "World War II & Nazi Era"
+category: "Key Figures"
 tags:
   - Person
   - WW2

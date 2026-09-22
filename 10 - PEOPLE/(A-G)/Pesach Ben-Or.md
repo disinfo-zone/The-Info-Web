@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Iran-Contra"
 tags:
   - Person
 summary: "In 1984, Israeli intelligence, with the backing of the Americans, agreed to continue selling weapons to the Guatemalan government through the Eagle company."

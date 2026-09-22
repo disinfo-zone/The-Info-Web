@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Military"
 tags:
   - Person
 summary: "Colonel Rafael Cordova was the head of military operations in Ayacucho, Peru."

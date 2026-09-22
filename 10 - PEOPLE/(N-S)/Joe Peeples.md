@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Business & Finance"
 tags:
   - Person
 summary: "Texan businessman who devised a fraudulent solar energy scheme with Yaacov Meridor to sell to the Hunt brothers for $2 million."

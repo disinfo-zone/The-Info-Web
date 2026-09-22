@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Morasca's death occurred just six months after the execution-style triple homicide of former Cabazon Tribal Council vice-chairman Fred Alvarez and his friends, Ralph Boger and Patricia Castro, in Rancho Mirage, California."

@@ -1,7 +1,7 @@
 ---
 aliases:
 - Jim Salyer
-category: "Key Figures"
+category: "Psychics & Remote Viewers"
 tags:
   - Person
   - Stargate

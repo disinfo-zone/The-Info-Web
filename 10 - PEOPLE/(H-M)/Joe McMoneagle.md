@@ -14,7 +14,7 @@ tags:
   - PSI
   - 1970s
   - 1980s
-category: "Military"
+category: "Key Figures"
 summary: "Army warrant officer, viewer 001 of the original Fort Meade unit from 1978, credited by the program with the Typhoon submarine description, who declined promotion and retired in 1984 to continue at SRI."
 born: 1946-01-10
 location: "Miami, Florida"

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Israeli civilian cryptographer and head of the Iranian desk in Unit 8200 who played a key role in Ari Ben-Menashe's intelligence career."

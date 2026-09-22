@@ -1,5 +1,5 @@
 ---
-category: "Organizations"
+category: "Extremism & Violent Networks"
 tags:
   - Organization
   - TheCom
@@ -31,7 +31,7 @@ Harm Nation operates within the broader Com content economy: members produce doc
 
 ### Kyle William Spitze
 
-The most documented Harm Nation prosecution involves [[Kyle Spitze|Kyle William Spitze]], 26, of [[Maryville, Tennessee]] (Blount County), who used the online alias "Criminal" (and variants including "CRIMINALOLI") across Telegram and related platforms.
+The most documented Harm Nation prosecution involves [[Kyle Spitze|Kyle William Spitze]], 26, of [[Maryville, Tennessee]] (Blount County), who used the online alias "Criminal" (and variants including "CRIMINALOLI") across [[Telegram]] and related platforms.
 
 Spitze was arrested and initially charged at the state level in Blount County. A superseding federal indictment was filed on March 2, 2024, in the [[U.S. District Court for the Eastern District of Tennessee]], at Knoxville, returning eight counts:
 

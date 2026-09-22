@@ -5,7 +5,7 @@ aliases:
   - Sofri
 created: 2026-05-17
 updated: 2026-05-17
-category: "Politician & Activist"
+category: "Political Figure"
 tags:
   - Person
   - Italy

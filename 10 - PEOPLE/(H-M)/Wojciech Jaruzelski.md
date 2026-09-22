@@ -5,7 +5,7 @@ aliases:
   - Jaruzelski
 created: 2026-05-17
 updated: 2026-05-17
-category: "Military & Government"
+category: "Political Figure"
 tags:
   - Person
   - Poland

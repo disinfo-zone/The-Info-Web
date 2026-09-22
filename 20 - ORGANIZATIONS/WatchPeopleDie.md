@@ -1,5 +1,5 @@
 ---
-category: "Organizations"
+category: "Extremism & Violent Networks"
 tags:
   - Platform
   - NVE

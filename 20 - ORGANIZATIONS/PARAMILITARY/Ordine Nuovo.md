@@ -5,7 +5,7 @@ aliases:
   - New Order
 created: 2026-05-17
 updated: 2026-05-17
-category: "Paramilitary Organization"
+category: "Paramilitary"
 tags:
   - Organization
   - Italy

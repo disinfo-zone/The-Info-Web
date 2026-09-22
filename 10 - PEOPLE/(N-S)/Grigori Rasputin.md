@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Historical Figure"
 tags:
   - Person
 summary: "Grigori Rasputin was a Russian mystic and self-proclaimed holy man who exerted significant influence over the late Russian Imperial family."

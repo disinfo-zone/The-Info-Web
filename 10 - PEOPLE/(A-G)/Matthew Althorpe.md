@@ -15,7 +15,7 @@ born: 1996
 location: "Niagara, Ontario, Canada"
 ---
 
-[[Matthew Althorpe]] (born approximately 1996, Niagara region, [[Ontario]], Canada) co-founded the [[Terrorgram Collective]] alongside Slovak co-founder [[Pavol Beňadik]] in the summer of 2019 after serving as a propagandist for [[Atomwaffen Division]] from approximately 2018. He co-authored Terrorgram's three major zine-format publications and co-ran its Telegram channels until his arrest on December 8, 2023. On March 27, 2026, Ontario Superior Court Justice Jane Kelly sentenced him to 20 years in Canadian federal prison (parole-eligible at 10 years) following his guilty plea to three terrorism charges, finding that his propaganda had directly inspired at least six attacks including the [[Juraj Krajčík|October 2022 Bratislava shooting]] and a 2024 mosque stabbing in Turkey.[^1][^2]
+[[Matthew Althorpe]] (born approximately 1996, Niagara region, [[Ontario]], Canada) co-founded the [[Terrorgram Collective]] alongside Slovak co-founder [[Pavol Beňadik]] in the summer of 2019 after serving as a propagandist for [[Atomwaffen Division]] from approximately 2018. He co-authored Terrorgram's three major zine-format publications and co-ran its [[Telegram]] channels until his arrest on December 8, 2023. On March 27, 2026, Ontario Superior Court Justice Jane Kelly sentenced him to 20 years in Canadian federal prison (parole-eligible at 10 years) following his guilty plea to three terrorism charges, finding that his propaganda had directly inspired at least six attacks including the [[Juraj Krajčík|October 2022 Bratislava shooting]] and a 2024 mosque stabbing in Turkey.[^1][^2]
 
 ### Background and AWD Connection
 

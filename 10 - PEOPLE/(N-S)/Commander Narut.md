@@ -1,5 +1,5 @@
 ---
-category: "Key Figures"
+category: "Psychology & Behavioral Science"
 tags:
   - Person
   - USNavy

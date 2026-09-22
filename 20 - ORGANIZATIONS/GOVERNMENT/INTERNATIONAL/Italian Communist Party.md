@@ -7,7 +7,7 @@ aliases:
   - Italian Communists
 created: 2026-05-17
 updated: 2026-05-17
-category: "Government Organization"
+category: "Foreign Government"
 tags:
   - Organization
   - Italy

@@ -16,7 +16,7 @@ tags:
   - 1940s
   - 1950s
   - 1960s
-category: Intelligence & Government
+category: "Key Figures"
 summary: Allen Dulles served as CIA Director from 1953 to 1961, overseeing Operation AJAX (Iran, 1953), Operation PBSUCCESS (Guatemala, 1954), and the Bay of Pigs invasion (1961) that ended in catastrophic failure and his forced resignation.
 born: 1893-04-07
 died: 1969-01-29

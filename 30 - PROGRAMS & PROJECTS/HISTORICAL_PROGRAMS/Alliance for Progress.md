@@ -66,6 +66,6 @@ Colombia under [[Alberto Lleras Camargo]] was Kennedy's chosen laboratory for th
 [^8]: FRUS 1964-68, Vol. XXXI, Document 10 (Editorial Note): Mann policy speech March 18, 1964. Tad Szulc, New York Times, March 19, 1964.
 [^9]: Colby and Dennett, Ch. 27-28. Alliance aid to opposition governors: Carlos Lacerda (Guanabara), Magalhaes Pinto (Minas Gerais), Ademar de Barros (Sao Paulo).
 [^10]: NSA Electronic Briefing Book No. 465, "Brazil Marks 50th Anniversary of Military Coup," Document 2 (NSC memo, December 11, 1962); Document 5 (State Dept. memo, March 7, 1963); Document 9 (JFK tape, October 7, 1963). nsarchive2.gwu.edu/NSAEBB/NSAEBB465/.
-[^11]: FRUS 1964-68, Vol. XXXI, Document 187: Telegram from Ambassador Lincoln Gordon to Department of State, March 28, 1964 (Top Secret). history.state.gov/historicaldocuments/frus1964-68v31/d187.
+[^11]: FRUS 1964-68, Vol. XXXI, Document 187: [[Telegram]] from Ambassador Lincoln Gordon to Department of State, March 28, 1964 (Top Secret). history.state.gov/historicaldocuments/frus1964-68v31/d187.
 [^12]: Colby and Dennett, Ch. 28. On post-coup aid release see also FRUS 1964-68, Vol. XXXI, Chapter 5 (Brazil documents).
 [^13]: Colby and Dennett, Ch. 25. Yarborough Mission 1961: see arsof-history.org/articles/v2n4_plan_lazo_page_1.html. Kennedy visit to Bogota: JFK Library, "Address at San Carlos Palace dinner, Bogota, Colombia, 17 December 1961," jfkpof-036-040.

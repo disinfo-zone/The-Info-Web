@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Extremism & Violent Networks"
 tags:
   - Person
 summary: "Australian member of the Church of God who carried out the 1969 arson attack on Jerusalem's El Aqsa Mosque, allegedly connected to the Jewish Defense League."

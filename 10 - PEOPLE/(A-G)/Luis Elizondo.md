@@ -1,5 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
+category: "Key Figures"
 tags:
   - Person
   - UFO

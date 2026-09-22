@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Ristau had a long career with the DOJ, serving in the Internal Security Division and Civil Division from 1958 to 1963, and as Director of the Office of Foreign Litigation from 1963 to 1981."

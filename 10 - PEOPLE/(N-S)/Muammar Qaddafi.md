@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Libyan leader who pressured African nations to cut ties with Israel and was linked to the disappearance of Shi'ite leader Sheikh Mussa Sadr."

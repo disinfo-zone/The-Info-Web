@@ -6,7 +6,7 @@ aliases:
   - Kissinger
 created: 2026-05-14
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Key Figures"
 tags:
   - Person
   - CIA

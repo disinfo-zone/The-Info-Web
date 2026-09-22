@@ -23,7 +23,7 @@ summary: "Payton Gendron killed 10 Black people at a Buffalo supermarket in May 
 
 Gendron drove from Conklin to Buffalo on May 14, 2022, arriving at the Tops supermarket on Jefferson Avenue at approximately 2:30 PM. He wore tactical gear and a camera, opened fire in the parking lot, and then entered the store. He killed a retired police officer employed as a security guard, [[Aaron Salter Jr.]], who fired at Gendron but was unable to penetrate his body armor. Of the 13 people shot, 10 died. Gendron then surrendered to police at the scene.
 
-The Twitch stream was active for approximately 2 minutes before the platform removed it. The footage was subsequently redistributed widely through Telegram and other platforms, following the same pattern established after Christchurch.
+The Twitch stream was active for approximately 2 minutes before the platform removed it. The footage was subsequently redistributed widely through [[Telegram]] and other platforms, following the same pattern established after Christchurch.
 
 The 10 victims were: [[Aaron Salter Jr.]], [[Roberta Drury]], [[Margus Morrison]], [[Andre Mackniel]], [[Katherine Massey]], [[Heyward Patterson]], [[Celestine Chaney]], [[Geraldine Talley]], [[Ruth Whitfield]], and [[Pearl Young]].[^2]
 

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Military"
 tags:
   - Person
 summary: "Matthew Alan Livelsberger was born July 22, 1987 in Arizona."

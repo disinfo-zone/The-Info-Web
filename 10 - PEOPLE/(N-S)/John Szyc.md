@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "John Szyc graduated from Maine West High School in 1975 at age 18, establishing his roots in the Des Plaines, Illinois, area before entering the workforce."

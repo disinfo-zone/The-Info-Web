@@ -6,7 +6,7 @@ aliases:
   - Edgar Hoover
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Key Figures"
 tags:
   - Person
   - FBI

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Under the Shah, Iran maintained good relations with 'moderate pro-American Arab countries' such as Egypt, Jordan, and the Emirates."

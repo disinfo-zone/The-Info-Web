@@ -2,7 +2,7 @@
 aliases:
   - Claiborne Pell
   - Senator Claiborne Pell
-category: "Key Figures"
+category: "Political Figure"
 tags:
   - Person
   - Stargate

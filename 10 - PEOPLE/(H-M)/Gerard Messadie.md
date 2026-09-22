@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Authors & Journalists"
 tags:
   - Person
 summary: "Gérald Messadié was the editor of *Science et Vie*, a top French science journal."

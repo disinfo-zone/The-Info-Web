@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Business & Finance"
 tags:
   - Person
 summary: "In 1987, a contribution was made to the West Australian Labor Party from the CIA, involving Richard Babayan and Earl Brian acting on behalf of Hadron."

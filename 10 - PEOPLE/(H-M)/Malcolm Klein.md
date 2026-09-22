@@ -4,7 +4,7 @@ aliases:
   - Malcolm Klein
 created: 2026-05-17
 updated: 2026-05-17
-category: "Academia & Research"
+category: "Scientists & Researchers"
 tags:
   - Person
   - Academic

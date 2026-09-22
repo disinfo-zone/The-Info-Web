@@ -10,7 +10,7 @@ tags:
   - FBI
   - COINTELPRO
   - 1960s
-category: "Civil Rights Organization"
+category: "Private Organization"
 summary: "The Southern Christian Leadership Conference was the civil rights organization founded in 1957 with Martin Luther King Jr. as president that coordinated the major nonviolent direct action campaigns of the 1960s - the Birmingham Campaign, the March on Washington, the Selma-to-Montgomery marches - while being subjected to systematic FBI surveillance and COINTELPRO disruption operations."
 start: 1957-01-10
 location: "Atlanta, Georgia"

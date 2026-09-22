@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "U.S. District Court Judge and political ally of Edwin Meese III accused of acting as a damage control agent for the DOJ in PROMIS scandal cases."

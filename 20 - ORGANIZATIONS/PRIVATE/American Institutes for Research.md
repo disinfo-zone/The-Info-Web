@@ -5,7 +5,7 @@ aliases:
   - American Institutes for Research
 created: 2026-05-17
 updated: 2026-09-21
-category: "Research Organization"
+category: "Private Organization"
 tags:
   - Organization
   - Research

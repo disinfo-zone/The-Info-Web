@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "Karl Hobi was a Swiss pedophile and founding member of the Swiss Paedophile Association alongside Beat Meier."

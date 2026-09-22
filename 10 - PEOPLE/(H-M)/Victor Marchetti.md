@@ -1,5 +1,5 @@
 ---
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
   - Person
   - CIA

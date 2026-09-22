@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Figure with expertise on Lebanese communities used by DEA for controlled heroin deliveries; relative of FIDCO's Maurice Ghanem."

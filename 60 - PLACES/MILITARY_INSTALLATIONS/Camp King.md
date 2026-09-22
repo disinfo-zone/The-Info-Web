@@ -1,5 +1,5 @@
 ---
-category: "Place"
+category: "Military Installation"
 tags:
   - Place
   - CIA

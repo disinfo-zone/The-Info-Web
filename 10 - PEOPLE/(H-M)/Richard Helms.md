@@ -17,7 +17,7 @@ tags:
   - 1950s
   - 1960s
   - 1970s
-category: "Intelligence & Government"
+category: "Key Figures"
 summary: "Richard Helms served as Director of Central Intelligence from 1966 to 1973, authorizing Operation CHAOS domestic surveillance and ordering destruction of CHAOS and MKULTRA records before congressional investigation."
 born: 1913-03-30
 died: 2002-10-22

@@ -1,7 +1,7 @@
 ---
 aliases:
 - Scott Carmichael
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
   - Person
   - Stargate

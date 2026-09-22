@@ -1,5 +1,5 @@
 ---
-category: "Place"
+category: "City"
 tags:
   - Place
   - MKULTRA

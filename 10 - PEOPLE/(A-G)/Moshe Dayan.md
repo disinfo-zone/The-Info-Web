@@ -1,5 +1,5 @@
 ---
-category: "Key Figures"
+category: "Political Figure"
 tags:
   - Person
   - Stargate

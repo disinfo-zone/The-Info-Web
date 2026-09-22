@@ -5,7 +5,7 @@ aliases:
   - George Herbert Walker Bush
   - President Bush
   - Bush 41
-category: "Intelligence & Government"
+category: "Key Figures"
 created: 2024-04-25
 updated: 2026-09-21
 tags:

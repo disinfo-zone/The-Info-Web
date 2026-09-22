@@ -3,7 +3,7 @@ aliases:
   - Kenneth A. Kress
   - Ken Kress
   - Kenneth Kress
-category: "Key Figures"
+category: "Psychics & Remote Viewers"
 tags:
   - Person
   - Stargate

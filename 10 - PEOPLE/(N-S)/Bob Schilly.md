@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "California Highway Patrol Sergeant who reported on the Queen's Accident involving Mariposa Sheriff's personnel and Secret Service vehicles."

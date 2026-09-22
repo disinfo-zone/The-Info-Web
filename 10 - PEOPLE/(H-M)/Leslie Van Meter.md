@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "On March 23, 1984, Leslie Van Meter filed a Citizen's Complaint with the Mariposa County Sheriff's Department, alleging negligence and unprofessionalism in the investigation of her husband's disappearance, as his body had still not been found."

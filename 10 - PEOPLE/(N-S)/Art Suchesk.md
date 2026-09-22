@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Former Green Beret who ran a CIA proprietary company called Hoffman Electronics, based in Zurich for front operations."

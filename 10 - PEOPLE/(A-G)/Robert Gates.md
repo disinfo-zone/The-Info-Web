@@ -2,7 +2,7 @@
 aliases:
   - Robert Gates
   - Bob Gates
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
   - Person
   - Stargate

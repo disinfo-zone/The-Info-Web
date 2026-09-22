@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Admiral Ahmad Madani was a significant figure in the Iranian military and politics."

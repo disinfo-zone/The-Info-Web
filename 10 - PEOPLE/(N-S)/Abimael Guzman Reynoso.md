@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Extremism & Violent Networks"
 tags:
   - Person
 summary: "In 1980, Guzmán proclaimed the armed struggle against the capitalist government in Lima, and the Shining Path grew into a powerful force, leading to the declaration of martial law in the department of Ayacucho by Peruvian President Alan Garcia."

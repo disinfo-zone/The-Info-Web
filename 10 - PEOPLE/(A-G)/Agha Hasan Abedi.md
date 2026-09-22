@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Key Figures"
 created: 2024-04-25
 updated: 2026-05-01
 tags:

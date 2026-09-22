@@ -1,5 +1,5 @@
 ---
-category: "Belgium Scandals"
+category: "Key Figures"
 tags:
   - Person
   - Belgium

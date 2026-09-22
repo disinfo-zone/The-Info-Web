@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "Acting assistant administrator of the DEA operational division who explained the Khourah controlled delivery drug operation."

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Iran-Contra"
 tags:
   - Person
 summary: "In April 1989, Timpani was involved in a deal to sell three C-130s to Tehran, working with Richard St."

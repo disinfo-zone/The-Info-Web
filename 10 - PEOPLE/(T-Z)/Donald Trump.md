@@ -1,5 +1,5 @@
 ---
-category: "Political Figure"
+category: "Key Figures"
 tags:
   - Person
   - DonaldTrump

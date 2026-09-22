@@ -1,5 +1,5 @@
 ---
-category: "Technologists"
+category: "Key Figures"
 tags:
   - Person
   - ElonMusk

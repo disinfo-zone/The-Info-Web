@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "LAKAM representative in Washington D.C. who served as an intelligence conduit between Robert McFarlane, Jonathan Pollard, and Rafi Eitan."

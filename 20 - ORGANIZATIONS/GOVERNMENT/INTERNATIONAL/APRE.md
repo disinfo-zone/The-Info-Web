@@ -1,5 +1,5 @@
 ---
-category: "Organization"
+category: "Foreign Government"
 tags:
   - Organization
   - Military

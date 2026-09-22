@@ -13,7 +13,7 @@ tags:
   - PSI
   - 1970s
   - 1980s
-category: "Intelligence & Government"
+category: "Key Figures"
 summary: "Laser physicist who founded the SRI remote-viewing program with Puthoff in 1972, published it in Nature in 1974, ran the Price and Geller sessions, and in 1995 forced the CIA to release its files."
 born: 1934-04-11
 location: "Chicago, Illinois"

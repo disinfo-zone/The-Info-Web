@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "In 1981, Moriarty and Marshall Riconosciuto had funded 15 years of research, investing approximately $1 million of their own money, into developing a small electronic power supply for a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in food"

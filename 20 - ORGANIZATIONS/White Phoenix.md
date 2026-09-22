@@ -1,5 +1,5 @@
 ---
-category: "Organizations"
+category: "Extremism & Violent Networks"
 tags:
   - Organization
   - TheBase
@@ -23,7 +23,7 @@ In late March 2025, videos surfaced on Base-affiliated Telegram channels showing
 
 ### Bounty Offers and Ukraine Targeting
 
-In April and June 2025, Nazzaro posted via Telegram offers of cash payments to volunteers for attacks on Ukrainian power stations, military and police vehicles, government buildings, and political officials in Kyiv and other cities. The materials explicitly proposed the creation of a "white nationalist enclave" in the [[Zakarpattia]] region of western Ukraine. [[Colin Clarke]], Director of Research at the [[Soufan Center]], described the targeting package as one that "could very well be a Russian intelligence operation" given Nazzaro's Russian sanctuary, citizenship, and the group's shift to Russian-owned digital platforms.[^3]
+In April and June 2025, Nazzaro posted via [[Telegram]] offers of cash payments to volunteers for attacks on Ukrainian power stations, military and police vehicles, government buildings, and political officials in Kyiv and other cities. The materials explicitly proposed the creation of a "white nationalist enclave" in the [[Zakarpattia]] region of western Ukraine. [[Colin Clarke]], Director of Research at the [[Soufan Center]], described the targeting package as one that "could very well be a Russian intelligence operation" given Nazzaro's Russian sanctuary, citizenship, and the group's shift to Russian-owned digital platforms.[^3]
 
 ### Voronych Killing
 

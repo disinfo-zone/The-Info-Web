@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "Cladius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey."

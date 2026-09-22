@@ -1,5 +1,5 @@
 ---
-category: "Key Figures"
+category: "JFK Assassination"
 tags:
   - Person
   - MKULTRA

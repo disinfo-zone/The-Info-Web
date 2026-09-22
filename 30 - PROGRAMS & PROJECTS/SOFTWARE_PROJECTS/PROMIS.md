@@ -13,7 +13,7 @@ tags:
   - Intelligence
   - CIA
   - DOJ
-category: "Software Project"
+category: "Information System"
 summary: "PROMIS (Prosecutor's Management Information System) was a case management software developed by INSLAW beginning in 1971 that became the center of a major legal and intelligence scandal after the U.S. Justice Department allegedly stole the proprietary version and distributed it internationally with a hidden surveillance backdoor."
 start: 1971-01-01
 location: "Washington, D.C."

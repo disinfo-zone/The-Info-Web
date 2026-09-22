@@ -1,7 +1,7 @@
 ---
 aliases:
 - William Perry
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
   - Person
   - Stargate

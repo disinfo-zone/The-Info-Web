@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Psychology & Behavioral Science"
 tags:
   - Person
 summary: "His Navy research career began in 1999 when he was commissioned as a US Naval Aerospace Experimental Psychologist."

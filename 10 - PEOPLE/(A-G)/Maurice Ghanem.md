@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "CIA-linked figure in Lebanon who worked with Michael Riconosciuto and George K. Pender on FIDCO's redevelopment operations."

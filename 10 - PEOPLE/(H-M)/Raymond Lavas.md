@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Lavas also turned some of Michael Riconosciuto's disks over to the Jack Brooks investigative committee (House Judiciary Committee on INSLAW)."

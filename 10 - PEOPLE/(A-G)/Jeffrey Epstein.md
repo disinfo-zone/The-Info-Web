@@ -1,5 +1,5 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Key Figures"
 tags:
   - Person
   - JeffreyEpstein

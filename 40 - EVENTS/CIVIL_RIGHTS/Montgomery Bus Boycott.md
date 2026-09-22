@@ -10,7 +10,7 @@ tags:
   - FBI
   - Alabama
   - 1950s
-category: "Civil Rights Event"
+category: "Historical Phenomenon"
 summary: "The Montgomery Bus Boycott was the 381-day campaign (December 5, 1955 - December 21, 1956) in which the Black community of Montgomery, Alabama, boycotted the city's segregated bus system following Rosa Parks' arrest, launched Martin Luther King Jr. to national prominence, and ended when the Supreme Court ruled bus segregation unconstitutional."
 date: 1955-12-05
 location: "Montgomery, Alabama"

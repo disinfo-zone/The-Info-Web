@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Meridor became embroiled in a scandal when he, along with Joe Peeples and a Romanian expatriate, attempted to sell a theoretically feasible but practically impossible solar energy system to the Hunt brothers of Texas for $2 million."

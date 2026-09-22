@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "U.S. Customs Service agent involved in the Hashemi sting operation targeting Israeli intelligence arms sales to Iran."

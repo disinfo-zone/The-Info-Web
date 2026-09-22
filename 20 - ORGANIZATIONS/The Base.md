@@ -1,5 +1,5 @@
 ---
-category: "Organizations"
+category: "Extremism & Violent Networks"
 tags:
   - TheBase
   - NeoNazi
@@ -72,7 +72,7 @@ Spain: On November 25, 2025, the [[Spanish National Police]] General Commissaria
 
 ### White Phoenix: Ukraine Cell
 
-The Base established a Ukrainian-operating cell called [[White Phoenix]] by at least early 2025. The cell posted videos in late March 2025 showing members spray-painting The Base symbol in Kyiv, Odesa, Mykolaiv, and Kharkiv. In April 2025, Nazzaro announced via Telegram that cash payments were available for attacks on Ukrainian power plants, military and police vehicles, government buildings, and officials. It was the first time The Base had explicitly aligned itself with Russian military objectives.
+The Base established a Ukrainian-operating cell called [[White Phoenix]] by at least early 2025. The cell posted videos in late March 2025 showing members spray-painting The Base symbol in Kyiv, Odesa, Mykolaiv, and Kharkiv. In April 2025, Nazzaro announced via [[Telegram]] that cash payments were available for attacks on Ukrainian power plants, military and police vehicles, government buildings, and officials. It was the first time The Base had explicitly aligned itself with Russian military objectives.
 
 On July 10, 2025, White Phoenix claimed responsibility for the killing of [[SBU]] Colonel [[Ivan Voronych]] in the Holosiivskyi district of Kyiv (see [[2025 Kyiv SBU Assassination]]). Voronych was shot multiple times with a silenced pistol and died at the scene; he was the highest-ranking SBU officer killed in a targeted Kyiv assassination since Russia's 2022 full-scale invasion. The SBU subsequently announced it had killed two alleged Russian [[FSB]]-directed operatives implicated in the murder. Whether White Phoenix directed or conducted the killing, or whether the claim was opportunistic, remained contested; counterterrorism sources told the Kyiv Independent the claim was credible, but the SBU did not confirm Base involvement.[^18]
 

@@ -1,7 +1,7 @@
 ---
 aliases:
 - X1
-category: "Belgium Scandals"
+category: "Key Figures"
 tags:
   - Person
   - Belgium

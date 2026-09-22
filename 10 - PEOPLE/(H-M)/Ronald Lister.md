@@ -5,7 +5,7 @@ aliases:
   - Ron Lister
 created: 2026-05-17
 updated: 2026-09-21
-category: "Intelligence & Government"
+category: "Key Figures"
 tags:
   - Person
   - DrugTrafficker

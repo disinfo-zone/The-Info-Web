@@ -1,5 +1,5 @@
 ---
-category: "Extremism & Violent Networks"
+category: "Key Figures"
 tags:
   - Person
   - AtomwaffenDivision
@@ -54,7 +54,7 @@ Russell was released from federal prison on August 23, 2021, having served appro
 
 Between his August 2021 release and his February 2023 arrest, Russell maintained a substantial online presence across encrypted neo-Nazi Telegram networks under three documented pseudonyms: "Ouroborus," "Homunculus," and "Raccoon." He operated within invite-only chats and contributed to [[American Futurist]], the propaganda platform run by [[Ryan Hatfield]] (alias "Ryan Arthur"), the Colorado Springs-based former AWD cell leader who had founded the [[National Socialist Resistance Front]] (NSRF) through the NSO lineage. In fall 2022, Russell attempted to recruit an FBI informant into NSRF, describing prospective members as coming from Maryland and the Carolinas.[^5]
 
-Russell shared material from the [[Terrorgram Collective]], including "Make It Count," one of four publications the Terrorgram network released between 2021 and 2022 containing explicit instructions for attacking electrical substations: "LOCATE SUBSTATION. RANGE FIND. SHOOT TRANSFORMERS. FLEE UNDETECTED." He operated in at least three private Telegram channels: "Freedom Club," "Cat Enjoyers Anonymous," and "Don't Do Anything Illegal." Russell also circulated links to open-source infrastructure maps identifying substation locations and, in August 2022, promoted materials that purported to identify undercover FBI officers.[^5]
+Russell shared material from the [[Terrorgram Collective]], including "Make It Count," one of four publications the Terrorgram network released between 2021 and 2022 containing explicit instructions for attacking electrical substations: "LOCATE SUBSTATION. RANGE FIND. SHOOT TRANSFORMERS. FLEE UNDETECTED." He operated in at least three private [[Telegram]] channels: "Freedom Club," "Cat Enjoyers Anonymous," and "Don't Do Anything Illegal." Russell also circulated links to open-source infrastructure maps identifying substation locations and, in August 2022, promoted materials that purported to identify undercover FBI officers.[^5]
 
 Archived messages show Russell interacting with accounts tied to [[Dallas Humber]], who led the Terrorgram inner collective from 2022 to 2024, with the pair appearing to coordinate the release of Terrorgram propaganda. Prosecutors presented this material at trial in January 2025 as evidence of Russell's role within the Terrorgram network.[^6]
 

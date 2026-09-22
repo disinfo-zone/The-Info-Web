@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime & Abuse Networks"
 tags:
   - Person
 summary: "Gerald Richards, full name Gerald Stewart Richards, was a high school gym teacher in Port Huron, Michigan, who also worked as a masseuse, magician, hypnotist, and Republican candidate for local government."

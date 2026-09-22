@@ -1,7 +1,7 @@
 ---
 aliases:
 - Morse Allen
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
   - Person
   - Stargate

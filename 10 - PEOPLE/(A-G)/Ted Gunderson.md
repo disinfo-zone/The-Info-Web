@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Crime Investigation"
 tags:
   - Person
 summary: "Gunderson became deeply involved in the investigation of corruption and drug rings within Mariposa County, California, after being approached by the D.I.G."

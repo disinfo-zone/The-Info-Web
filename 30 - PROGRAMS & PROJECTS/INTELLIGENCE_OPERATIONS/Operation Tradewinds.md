@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement Operation"
+category: "Intelligence Operation"
 tags:
   - Project
   - OperationTradewinds

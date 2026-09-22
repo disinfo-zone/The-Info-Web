@@ -21,7 +21,7 @@ On July 10, 2025, [[Security Service of Ukraine]] (SBU) Colonel [[Ivan Voronych]
 
 Two separate attributions were made within days of the killing.
 
-[[White Phoenix]], the Ukrainian operational cell of [[The Base]] neo-Nazi network, issued a Telegram statement claiming it had carried out "a carefully planned" operation against Voronych as a "warning to the regime" of President [[Volodymyr Zelensky]]. The claim praised its "comrades" for the killing.
+[[White Phoenix]], the Ukrainian operational cell of [[The Base]] neo-Nazi network, issued a [[Telegram]] statement claiming it had carried out "a carefully planned" operation against Voronych as a "warning to the regime" of President [[Volodymyr Zelensky]]. The claim praised its "comrades" for the killing.
 
 The [[SBU]] announced separately that it had identified and killed two Russian operatives, a man and a woman, whom Ukrainian investigators said had been directed by Russia's [[Federal Security Service]] (FSB) to surveil Voronych and had subsequently been directed to a weapons cache containing a silenced firearm used in the killing. The SBU framed its response as attribution to Russian state actors.[^2]
 

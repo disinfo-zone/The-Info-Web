@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "After entering the apartment and getting a brief glance at the body and the apartment, Lidell was ordered to leave."

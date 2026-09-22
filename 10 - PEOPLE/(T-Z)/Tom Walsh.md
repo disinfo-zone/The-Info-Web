@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "PROMIS Scandal"
 tags:
   - Person
 summary: "Walsh also provided Cheri Seymour with a significant piece of information regarding Judge Robert E."

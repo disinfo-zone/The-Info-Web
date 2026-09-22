@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "Undercover U.S. Customs agent who operated under alias 'Lettner' in a sting operation targeting Ari Ben-Menashe over arms sales to Iran."

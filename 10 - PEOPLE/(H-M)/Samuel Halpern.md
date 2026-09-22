@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Samuel Halpern was a Jewish American who served for years as executive assistant to the director of the CIA's clandestine services."

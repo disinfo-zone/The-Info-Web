@@ -12,7 +12,7 @@ tags:
   - MLK
   - ColdWar
   - 1960s
-category: "Law Enforcement & Legal"
+category: "Political Figure"
 summary: "Stanley Levison was a New York attorney and businessman who was one of Martin Luther King Jr.'s closest advisors and who had Communist Party USA ties in the early 1950s - providing the FBI's legal justification for wiretapping King and the SCLC beginning in 1962, despite the FBI's own evidence that Levison had severed his Communist Party ties before he became associated with King."
 born: 1912-05-02
 died: 1979-09-12

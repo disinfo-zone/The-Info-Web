@@ -1,7 +1,7 @@
 ---
 aliases:
 - Yoav Shacham
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "Yoav Shacham was an Israeli grain trader and alleged spy who significantly influenced Uri Geller's early life and aspirations."

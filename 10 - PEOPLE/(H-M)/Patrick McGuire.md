@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "McGuire also provided a Declaration on behalf of Jimmy Hughes."

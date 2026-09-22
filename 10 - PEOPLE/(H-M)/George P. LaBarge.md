@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "Secret Service agent killed in the 1983 Queen's Accident head-on collision with a Mariposa County Sheriff's vehicle while scouting Queen Elizabeth II's motorcade route."

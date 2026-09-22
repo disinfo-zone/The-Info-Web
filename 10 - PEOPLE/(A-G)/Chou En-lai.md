@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Political Figure"
 tags:
   - Person
 summary: "Chou En-lai was the first Premier of the People's Republic of China, serving from 1949 until his death in 1976."
