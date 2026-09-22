@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-09-22
 title: David Morehouse
 aliases:
   - David Morehouse
@@ -36,6 +36,9 @@ The reception among former unit colleagues was largely negative. [[Joe McMoneagl
 
 Despite these criticisms, *Psychic Warrior* introduced the Fort Meade program to a large popular audience and helped establish the commercial remote viewing training market that emerged after STAR GATE's 1995 declassification. Morehouse subsequently built a civilian career offering remote viewing training seminars.[^1]
 
+An undated memorandum in the CIA's Star Gate files, headed "Will the Real Scott Jones Please Stand Up?," records: "[[Ed Dames|Edward A. Dames]] serves as President of [[Psi Tech]], and David A. Morehouse is Vice President. They are based in [[Jessup, Maryland]], but there are rumors that they are planning to move to [[New Mexico]]." No other legible mention of him appears in the released collection.[^900]
+
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997. Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017. Morehouse, David. *Psychic Warrior: Inside the CIA's Stargate Program, the True Story of a Soldier's Espionage and Awakening.* St. Martin's Press, 1996.
+[^900]: "Will the Real Scott Jones Please Stand Up?," undated memorandum, CIA-RDP96-00792R000400300004-7. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

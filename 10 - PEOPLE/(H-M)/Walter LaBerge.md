@@ -1,0 +1,24 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+  - WalterLaBerge
+  - Army
+  - GrillFlame
+  - RemoteViewing
+alias:
+  - Walter B. LaBerge
+summary: "Under secretary of the Army who proposed the 1979 scientific review of the Army's parapsychology programs and to whom the resulting Gale report was delivered over the objections of the Pentagon's working group."
+location: "Washington, D.C."
+created: 2026-09-22
+updated: 2026-09-22
+---
+
+Walter B. LaBerge was Under Secretary of the [[United States Army|Army]] in 1979. He received a copy of [[Ruth Davis]]'s memorandum of November 20, 1978, on the oversight of the remote-viewing project, sat on the Grill Flame steering committee at its first meeting on February 13, 1979, and "in June 1979 it was suggested by Dr. LaBerge, then Under Secretary of the Army, that a Scientific Evaluation Committee be appointed to review the Army's parapsychological activities," the origin of the [[Grill Flame Scientific Evaluation Committee]] under [[Manfred Gale]]. According to Major [[William Stoner]], the candidacy of [[Ray Hyman]] for the committee ended "because of a protest memo from MG [[Edmund Thompson|Thompson]] to Dr LaBerge." When the Defense Department's Grill Flame committee rejected Gale's briefing on January 10, 1980, "it was suggested that General [[Eugene Tighe|Tighe]] contact Dr. Laberge to obtain copies of the report and to stop any further distribution"; [[Jack Vorona]] wrote to Tighe on January 11 urging him "to intercede with Dr LaBerge on the report," and Stoner wrote that "by pushing to have the report quickly accepted by Dr LaBerge" Gale "will have an effective shield from tough questions and criticism," noting that LaBerge was "now on a TDY until o/a 21 Jan." Gale's distribution memorandum of January 25 ends: "Dr. LaBerge expects his official copy by Monday, 28 Jan."[^1]
+
+Puthoff's letter to Gale of August 3, 1979, enclosed copies of SRI's procedures "for Maj. Gen. E. R. Thompson, Dr. Ruth Davis, and the Hon. Walter Laberge." On March 19, 1980, Puthoff, Targ and May wrote to him as "Principal Deputy, Undersecretary of Defense, Research & Engineering" that "based on a recommendation of the Gale Committee, ODDR&E will not provide support for R&D efforts in the Grill Flame area," asking "that steps be taken to prevent losing the initiative and momentum we had just begun to achieve."[^2]
+
+### Footnotes
+
+[^1]: Davis, Ruth M., Deputy Under Secretary of Defense for Research and Engineering (Research and Advanced Technology), memorandum for Dr. Jack Vorona, "'Remote Viewing' Project," November 20, 1978, with the letter of Charlie Rose, Chairman, Subcommittee on Evaluation, Permanent Select Committee on Intelligence, to Davis, October 25, 1978, CIA-RDP96-00787R000500240017-5. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. *Report by the Grill Flame Scientific Evaluation Committee,* December 1979, Manfred Gale, chairman, CIA-RDP96-00788R001300120001-5. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. Defense Intelligence Agency, "Minutes of the DoD Grill Flame Committee Meeting, 27 November 1979," S-1168/DT-1, CIA-RDP96-00788R002000130015-1, and "Minutes of the DoD Grill Flame Committee Meeting, 10 January 1980," S-1008/DT-1, CIA-RDP96-00788R002000100009-1, both signed Jack Vorona, chairman. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. Stoner, William L., Major, GS, "Memorandum of Conversation, Subject: Gale Briefing to ZA, Science Evaluation Group Final Report on GRILL FLAME, 14 Jan 80," CIA-RDP96-00788R001200230017-7. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. Gale, M., "Distribution of GRILL FLAME Reports," memorandum for Major Stoner, ACSI, Office of the Deputy Chief of Staff for Research, Development and Acquisition, January 25, 1980, CIA-RDP96-00788R001200230023-0; three CIA Reading Room items of February 13, 1980, are titled "Scientific Evaluation Committee (SEC) Grill Flame Report, Dated November 1979" (CIA-RDP96-00788R002000250025-7, R001100080007-6, R001200230026-7), not read. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^2]: Puthoff, H. E., to Manfred Gale, "SRI/Gale Committee Meeting of 24-25 July," August 3, 1979, with the enclosure "Standard Remote Viewing (RV) Procedures: Local Sites," by H. E. Puthoff, R. Targ and E. C. May, August 1979, CIA-RDP96-00787R000100060001-6 (memorandum alone at CIA-RDP96-00788R002000240028-5). Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. Puthoff, H. E., R. Targ and E. C. May, Radio Physics Laboratory, SRI International, to Walter B. LaBerge, Principal Deputy Under Secretary of Defense for Research and Engineering, March 19, 1980, SRI 0-4132, CIA-RDP96-00788R001200230031-1. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

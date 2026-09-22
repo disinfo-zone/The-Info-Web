@@ -14,7 +14,7 @@ Physicists, biologists, parapsychologists, and other researchers involved in psi
 | [[Eldon Byrd]] | Scientist and researcher connected to government programs in parapsychology and electromagnetic weapons research. |
 | [[Frederick A. Lindemann]] | Oxford scientist and Lord Cherwell who served as Churchill's chief science adviser and formed early connections with figures central to Israel's nuclear program origins. |
 | [[James Moore]] | James Moore was a chemist who worked for the Central Intelligence Agency on MKULTRA Subproject 58, a classified effort to locate and mass-produce the hallucinogenic mushroom *teonanáctl* (God's flesh) for intelligence use. |
-| [[Leonid L. Vasilev]] | Vasilev asserted that the publication of articles like Jacques Bergier's 'Thought Transfer, Weapon of War' and 'The Secret of the Nautilus' in French journals stimulated Soviet parapsychology research. |
+| [[Leonid Vasiliev|Leonid L. Vasilev]] | Vasilev asserted that the publication of articles like Jacques Bergier's 'Thought Transfer, Weapon of War' and 'The Secret of the Nautilus' in French journals stimulated Soviet parapsychology research. |
 | [[Leonid Vasiliev]] | By the early 1960s, Vasiliev was heading a well-funded parapsychology laboratory, and his work soon concentrated on 'remote-influencing' experiments, such as attempting to telepathically induce sleep in a distant receiver. |
 | [[Marcel Vogel]] | Researcher and scientist known for his work in crystal technology and consciousness studies. |
 | [[Meir Deshalit]] | Meir Deshalit, also known as Meme Deshalit, was an Israeli intelligence official and a close colleague of James Jesus Angleton. |

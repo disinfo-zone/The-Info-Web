@@ -13,5 +13,8 @@ During the experiment, Sergeyev monitored Kulagina's physiological responses, wh
 
 Sergeyev also oversaw an experiment where Kulagina attempted to increase the heart rate of a skeptical physician, which reportedly reached dangerous levels. While some U.S. analysts suspected these demonstrations were part of a Soviet disinformation campaign, others in the U.S. military, particularly the Medical Intelligence Office of the [[U.S. Army]], considered the potential military applications of such abilities to be highly significant[^1].
 
+A DIA briefing on "Soviet Activities in Psychoenergetics," given to the Air Force in July 1987, dated Sergeyev's work to 1965-1970 in "Vasil'yev's lab," under the headings "communication (EEG code)," "remote action" and "N. Kulagina."[^900]
+
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^900]: Henry E. Shinol, Deputy Assistant Chief of Staff, Studies and Analyses, Headquarters USAF, to the Defense Intelligence Agency, "Soviet Parapsychology Research Briefing," June 12, 1987, and cover note of July 14, 1987, with paper briefing slides "Soviet Activities in Psychoenergetics," CIA-RDP96-00789R002600320001-8 to -004-5. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

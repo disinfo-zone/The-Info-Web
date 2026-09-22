@@ -23,7 +23,7 @@ Harold Thomas Finney II (1956 to 2014), known as Hal Finney, was an American cry
 
 ### Cryptography and PGP
 
-Finney graduated from the California Institute of Technology in 1979 and joined APh Technological Consulting, the firm Mattel contracted to develop the Intellivision, where he programmed the console game Space Battle and its Atari 2600 port Space Attack, as well as Astroblast, the 2600 port of Astrosmash. He began volunteering on [[Phil Zimmermann]]'s Pretty Good Privacy in 1991, became a central contributor to PGP 2.0, and when the federal investigation into Zimmermann closed in 1996 Zimmermann hired him as an employee.[^1][^2][^8]
+Finney graduated from the [[California Institute of Technology]] in 1979 and joined APh Technological Consulting, the firm Mattel contracted to develop the Intellivision, where he programmed the console game Space Battle and its Atari 2600 port Space Attack, as well as Astroblast, the 2600 port of Astrosmash. He began volunteering on [[Phil Zimmermann]]'s Pretty Good Privacy in 1991, became a central contributor to PGP 2.0, and when the federal investigation into Zimmermann closed in 1996 Zimmermann hired him as an employee.[^1][^2][^8]
 
 Finney ran one of the early anonymous remailers, servers that stripped routing information so that a message could not be traced to its sender, and he was a frequent contributor to the cypherpunks list, where he introduced the idea of digital cash to the overlapping extropian community. He continued working on PGP under Zimmermann until ALS forced his retirement in 2011, by which point PGP had become the standard tool for encrypting email and the federal effort to suppress it had collapsed.[^3][^8]
 

@@ -25,7 +25,7 @@ Plaza was born on February 17, 1906, in New York City, at the Marlton House, dur
 
 ### Education and Early Career
 
-Plaza studied agriculture at the [[University of Maryland]], economics at the [[University of California, Berkeley]], and diplomacy at the [[Edmund A. Walsh School of Foreign Service]] at Georgetown University. He returned to Ecuador and managed the family property, [[Hacienda Zuleta]] in [[Imbabura Province]], importing Holstein cattle and introducing systematic seed selection and mechanized tractors to Ecuadorian highland agriculture.
+Plaza studied agriculture at the [[University of Maryland]], economics at the [[University of California, Berkeley]], and diplomacy at the [[Edmund A. Walsh School of Foreign Service]] at [[Georgetown University]]. He returned to Ecuador and managed the family property, [[Hacienda Zuleta]] in [[Imbabura Province]], importing Holstein cattle and introducing systematic seed selection and mechanized tractors to Ecuadorian highland agriculture.
 
 He entered politics in 1937, elected as a councilman of [[Quito]], then as mayor in 1938. In December 1938 he was appointed Minister of National Defense, a post he held through 1939. In 1929 he had served as attaché at the Ecuadorian legation in Washington. In July 1944, President [[José María Velasco Ibarra]] appointed him ambassador to the United States, a posting that placed him in Washington precisely as the major inter-American and international conferences of 1945 were being organized.[^1]
 

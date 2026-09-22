@@ -17,7 +17,7 @@ born: 1933-01-01
 died: 1999-08-09
 location: "Newark, New Jersey"
 ---
-Dr. Robert Byck was a Yale University cocaine expert who testified before Congress in 1979 to warn of an impending drug epidemic from smokable cocaine, seven years before the 1986 crack panic. His warnings were completely ignored.[^1]
+Dr. Robert Byck was a [[Yale University]] cocaine expert who testified before Congress in 1979 to warn of an impending drug epidemic from smokable cocaine, seven years before the 1986 crack panic. His warnings were completely ignored.[^1]
 
 ### 1979 Warning
 

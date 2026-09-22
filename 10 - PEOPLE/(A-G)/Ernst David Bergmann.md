@@ -26,7 +26,7 @@ Bergmann's role in developing [[Israel]]'s nuclear arsenal remains a state secre
 
 By mid-1960, when rumors of a possible French pullout from [[Dimona]] circulated, many Israelis, including Bergmann, were ready for the French to leave, believing they could complete the project themselves. Bergmann was a founding member of the Rafi party, and continued to influence [[David Ben-Gurion]] regarding the dangers of not initiating the production of a nuclear arsenal.[^2]
 
-By the spring of 1966, Bergmann resigned under pressure as director of the commissionerless Israeli Atomic Energy Commission, as well as from his two high-level defense science posts. Many in the [[Levi Eshkol]] cabinet viewed his departure as long overdue. A pouting Bergmann retreated, with the aid of [[Lewis L. Strauss]], to the Institute of Advanced Studies at Princeton University.[^2]
+By the spring of 1966, Bergmann resigned under pressure as director of the commissionerless Israeli Atomic Energy Commission, as well as from his two high-level defense science posts. Many in the [[Levi Eshkol]] cabinet viewed his departure as long overdue. A pouting Bergmann retreated, with the aid of [[Lewis L. Strauss]], to the Institute of Advanced Studies at [[Princeton University]].[^2]
 
 ### Footnotes
 

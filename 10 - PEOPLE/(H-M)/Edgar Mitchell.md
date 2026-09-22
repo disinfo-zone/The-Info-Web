@@ -10,7 +10,7 @@ died: 2016-02-04
 location: "Hereford, Texas"
 ---
 
-Edgar Mitchell was an American astronaut, best known as the lunar module pilot for Apollo 14, making him the sixth person to walk on the Moon. Following his NASA career, Mitchell became a prominent advocate for psychic research and consciousness studies, founding the Institute of Noetic Sciences (IONS).[^1]
+Edgar Mitchell was an American astronaut, best known as the lunar module pilot for Apollo 14, making him the sixth person to walk on the Moon. Following his NASA career, Mitchell became a prominent advocate for psychic research and consciousness studies, founding the [[Institute of Noetic Sciences]] (IONS).[^1]
 
 Mitchell was a strong believer in psi phenomena and was involved in the early stages of the U.S. government's psychic research programs. He was present during some of [[Uri Geller]]'s tests at [[Stanford Research Institute]] (SRI), even driving Geller while blindfolded in a demonstration of Geller's alleged abilities.[^1]
 

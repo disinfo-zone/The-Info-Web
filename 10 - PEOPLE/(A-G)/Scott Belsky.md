@@ -21,7 +21,7 @@ Scott Belsky (born 1980) is an American entrepreneur and investor who founded th
 
 ### Behance and 99U
 
-Belsky took a bachelor's degree from Cornell University in 2002 and an MBA from Harvard Business School, working at Goldman Sachs before founding Behance in 2006 with the designer Matías Corea. Behance built an online portfolio network for creative professionals, and Belsky paired it with the 99U conference, launched in 2009 and "devoted to the execution of ideas," and the Action Method, a productivity system and line of organizational products. The company raised a single outside round, a 6.5 million dollar Series A in May 2012, with investors including Union Square Ventures and Jeff Bezos's Bezos Expeditions.[^2][^3]
+Belsky took a bachelor's degree from [[Cornell University]] in 2002 and an MBA from Harvard Business School, working at Goldman Sachs before founding Behance in 2006 with the designer Matías Corea. Behance built an online portfolio network for creative professionals, and Belsky paired it with the 99U conference, launched in 2009 and "devoted to the execution of ideas," and the Action Method, a productivity system and line of organizational products. The company raised a single outside round, a 6.5 million dollar Series A in May 2012, with investors including Union Square Ventures and Jeff Bezos's Bezos Expeditions.[^2][^3]
 
 The 99U brand and the *Making Ideas Happen* and *The Messy Middle* books extended Belsky's name beyond the product into the productivity-and-creativity commentary that accompanied his investing.[^4][^5]
 

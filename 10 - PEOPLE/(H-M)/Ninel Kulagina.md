@@ -23,5 +23,8 @@ Another experiment involved Kulagina attempting to increase the heart rate of a 
 
 Kulagina's alleged abilities contributed to the [[Pentagon]]'s decision to launch a joint intelligence assessment of the "Soviet psychoenergetic threat," a term coined to encompass Soviet research into anomalous mental phenomena and [[Electromagnetic Weapons|electromagnetic weapons]] programs[^1]. Her work, along with that of [[Qian Xuesen|H. S. Tsien]] in [[China]], highlighted the perceived need for the U.S. to invest in its own psychic research programs.
 
+A DIA briefing on Soviet psychoenergetics given to the Air Force in 1987 quoted [[Yuri Kobzarev|Yu. B. Kobzerev]], "radar pioneer, member USSR Academy of Science": "I am persuaded that the phenomena demonstrated by N. Kulagina (psychokinesis), and by L. Korabelnikova (extrasensory perception), are by no means tricks but rather the existence of the manifestation of unusual capabilities in man. My conviction is shared by many people including a group of professors and academicians," and [[Vladimir Kotelnikov|V. A. Kotel'nikov]], vice president of the Academy: "Psychokinetic abilities of N. Kulagina are real."[^900]
+
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^900]: Henry E. Shinol, Deputy Assistant Chief of Staff, Studies and Analyses, Headquarters USAF, to the Defense Intelligence Agency, "Soviet Parapsychology Research Briefing," June 12, 1987, and cover note of July 14, 1987, with paper briefing slides "Soviet Activities in Psychoenergetics," CIA-RDP96-00789R002600320001-8 to -004-5. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

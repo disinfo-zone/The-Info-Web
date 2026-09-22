@@ -56,7 +56,7 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Elmo Zumwalt]] | Elmo Zumwalt (1920–2000) was an American naval officer who served as the Chief of Naval Operations (CNO) from 1970 to 1974. |
 | [[Ernst Schulte-Strathaus]] | Ernst Schulte-Strathaus was a German astrologer who, alongside Karl Krafft, was reported to have constructed star charts that influenced Rudolf Hess's decision to undertake his rogue flight to Scotland in May 1941. |
 | [[Eugene Lessman]] | **Eugene 'Gene' Alden Lessman** was a U.S. |
-| [[Fern Gauvin]] | Fernand 'Fern' Gauvin was a civilian counterintelligence specialist working at Arlington Hall, a military/civilian intelligence complex. |
+| [[Fernand Gauvin|Fern Gauvin]] | Fernand 'Fern' Gauvin was a civilian counterintelligence specialist working at Arlington Hall, a military/civilian intelligence complex. |
 | [[Fernand Gauvin]] | Gauvin worked at Arlington Hall, home to some of the more 'James Bond-ish' elements of the U.S. |
 | [[Fred Zachariasen]] | Fred Zachariasen was a physics professor at Caltech and a ranking member of the Department of Defense's elite JASON Committee. |
 | [[Gerald Feinberg]] | Gerald Feinberg was a physics professor at Columbia University. |

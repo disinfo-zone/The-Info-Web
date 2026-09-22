@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-09-22
 title: Psychoenergetics
 aliases:
   - Psychoenergetics
@@ -25,11 +25,13 @@ Soviet interest in parapsychology as a potential weapons and intelligence applic
 
 Soviet research programs intensified in the 1960s-1970s as reports circulated in Western intelligence channels that the Soviets were investing substantial resources in "psychotronic" weapons and remote influence capabilities. U.S. intelligence assessments estimated Soviet annual spending on psychoenergetics research at tens of millions of dollars, with facilities in multiple Soviet republics and research groups at military and academic institutions.[^1]
 
+On June 12, 1987, Colonel [[Henry Shinol]], Deputy Assistant Chief of Staff for Studies and Analyses at Headquarters [[United States Air Force|USAF]], asked DIA's Deputy Director for Scientific and Technical Intelligence for "an informational briefing on the substance and status of Soviet parapsychology research" for June 30 or July 6, "as part of AF/SA's continuing support to Maj Gen Bissell, AF/IN." DIA's note of July 14 recorded that the briefing "reviewed soviet research in this field, with emphasis on the recent integrated efforts of several U.S.S.R Academy of Science laboratories," and that Shinol "expressed an interest for additional details." The slides, headed "Soviet Activities in Psychoenergetics," ran from [[Vladimir Bekhterev|V. M. Bekhterev]] and [[Leonid Vasiliev|L. L. Vasil'yev]] ("hypnosis," "automatic responses," "long distance (1700 km)," then "open publications" and a "new lab, Leningrad Univ." in 1959-1965) to [[Genady Sergeyev|G. A. Sergeyev]] (1965-1970, "Vasil'yev's lab," "communication (EEG code)," "remote action," [[Ninel Kulagina|N. Kulagina]]) and [[I. M. Kogan]] (1965 to about 1975, "communication, symbols, digits," "long distance (3,000 km)," "screening for talented people," "hypnosis not used," a "low frequency electromagnetic hypothesis"); a 1972 slide had Zinchenko, Leontiev, Lomov and [[Alexander Luria|Luria]] recommending "controlled research" in "Questions of Philosophy" with a "revised definition of 'parapsychology'"; one slide reproduced the entry from the Moscow "Filosofskiy Slovar" of 1980, which ends: "The materialistic approach to research on parapsychological phenomena, which are difficult to explore by experimental means, assists its demystification, and unmasks idealistic speculations about them"; and one quoted [[Yuri Kobzarev|Yu. B. Kobzerev]], "radar pioneer, member USSR Academy of Science," that Kulagina's psychokinesis and L. Korabelnikova's extrasensory perception "are by no means tricks," and [[Vladimir Kotelnikov|V. A. Kotel'nikov]], vice president of the Academy, that "psychokinetic abilities of N. Kulagina are real." Three pages of the deck remain exempt from release.[^900]
+
 ### DIA Psychoenergetics Program
 
 In 1981, [[Jack Vorona]], the Assistant Director for Scientific and Technical Intelligence at the Defense Intelligence Agency, contacted [[Dale Graff]] and brought him to Washington to help run a classified DIA program formally designated Psychoenergetics. The program had two stated goals: "to evaluate the threat that foreign psychoenergetics achievements might pose to U.S. national security, and to explore the potential of psychoenergetics for use in U.S. intelligence collection."[^1]
 
-Vorona believed that with DIA resources, genuine scientific progress could be made toward understanding [[Extrasensory Perception|ESP]] and psychokinesis. The DIA Psychoenergetics program oversaw and funded the [[STARGATE PROJECT|Grill Flame]] and later [[STARGATE PROJECT|Sun Streak]] remote viewing operations at [[Fort Meade]], and the SRI research program directed by [[Hal Puthoff]] continued to receive DIA-channeled funding.[^1]
+Vorona believed that with DIA resources, genuine scientific progress could be made toward understanding [[Extrasensory Perception|ESP]] and psychokinesis. The DIA Psychoenergetics program oversaw and funded the [[STARGATE PROJECT|Grill Flame]] and later Sun Streak remote viewing operations at [[Fort Meade]], and the SRI research program directed by [[Hal Puthoff]] continued to receive DIA-channeled funding.[^1]
 
 The program's conceptual framework was explicitly competitive: American intelligence officials saw Soviet and Chinese psychoenergetics research as a potential asymmetric threat requiring a response, regardless of whether the phenomena were real. If the Soviets had functional remote viewing or remote influence capabilities, the United States needed to understand them; and if U.S. researchers could develop comparable capabilities, they provided a potential intelligence collection tool operating outside normal technical surveillance channels.[^1]
 
@@ -39,9 +41,10 @@ A significant driver of DIA Psychoenergetics investment was intelligence on Chin
 
 ### Transition to STARGATE
 
-The DIA Psychoenergetics program provided organizational continuity for U.S. remote viewing research from 1981 through the successive program designations Grill Flame (1978-1983), [[Center Lane]] (1983-1985), [[Sun Streak]] (1985-1991), and finally [[STARGATE PROJECT|STARGATE]] (1991-1995). When the program was declassified and transferred to CIA control in 1995, and subsequently evaluated by the [[American Institutes for Research]] in a study that resulted in the program's termination, the full history of Psychoenergetics/STARGATE became available for review.[^2]
+The DIA Psychoenergetics program provided organizational continuity for U.S. remote viewing research from 1981 through the successive program designations Grill Flame (1978-1983), [[Center Lane]] (1983-1985), [[Sun Streak]] (1985-1991), and finally STARGATE (1991-1995). When the program was declassified and transferred to CIA control in 1995, and subsequently evaluated by the [[American Institutes for Research]] in a study that resulted in the program's termination, the full history of Psychoenergetics/STARGATE became available for review.[^2]
 
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017, pp. 197-226. Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. Dell, 1997.
 [^2]: American Institutes for Research. *An Evaluation of Remote Viewing: Research and Applications*. September 29, 1995 (declassified).
+[^900]: Henry E. Shinol, Deputy Assistant Chief of Staff, Studies and Analyses, Headquarters USAF, to the Defense Intelligence Agency, "Soviet Parapsychology Research Briefing," June 12, 1987, and cover note of July 14, 1987, with paper briefing slides "Soviet Activities in Psychoenergetics," CIA-RDP96-00789R002600320001-8 to -004-5. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

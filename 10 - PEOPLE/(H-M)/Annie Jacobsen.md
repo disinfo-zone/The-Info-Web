@@ -10,7 +10,7 @@ born: 1967-06-28
 location: "Middletown, Connecticut"
 ---
 
-Annie Jacobsen is an American investigative journalist and author, known for her non-fiction books focusing on government secrecy, national security, and warfare. She is a graduate of Princeton University.
+Annie Jacobsen is an American investigative journalist and author, known for her non-fiction books focusing on government secrecy, national security, and warfare. She is a graduate of [[Princeton University]].
 
 ### Bibliography
 *   [[Phenomena - The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis]] (2017)

@@ -4,7 +4,7 @@ aliases:
   - Kit Green
   - Christopher Green
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Intelligence & Government"
 tags:
   - Person
@@ -52,8 +52,11 @@ Following his departure from CIA, Green continued academic and research work in 
 
 Green contributed as a consultant and scientific advisor to the Advanced Aerospace Threat Identification Program ([[AATIP]]), the Pentagon's UAP research program that operated from approximately 2007 to 2012 under the direction of [[Luis D. Elizondo III|Luis Elizondo]]. His contribution included review of reported physical and physiological effects on individuals claiming proximity to anomalous aerial phenomena. He published research examining injuries reported by people claiming UAP encounters - a category he termed "exotic wounds" - applying forensic neurological analysis to the reported symptom patterns. This work represented the extension of his long-standing interest in the medical and physiological dimensions of anomalous phenomena from the SRI era into the post-AATIP period.[^3]
 
+A Defense Electronics article of July 1993 in the CIA's Star Gate files, on closed briefings by the Russian scientist Igor Smirnov on "a computerized acoustic device allegedly capable of implanting thoughts in a person's mind," held from March 17 in northern Virginia and later at the University of Kansas Medical Center, lists among "the non-military attendees" "Dr. Richard Nakamura of the National Institute of Mental Health and Dr. Christopher Green, director of General Motors Corp. (GM) biomedical research department in Detroit"; whether this is the Green of this page the article does not say.[^900]
+
 ### Footnotes
 
 [^1]: Puthoff, Harold E. Letter to Christopher Green, CIA, June 27, 1972. CIA FOIA Reading Room, cia.gov/readingroom. CIA document CIA-RDP96-00791R000200030006-8 (released). Kripal, Jeffrey J. *Esalen: America and the Religion of No Religion*. University of Chicago Press, 2007, pp. 381-385.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^3]: Lacatski, James T., Kelleher, Colm A., and Knapp, George. *Skinwalkers at the Pentagon: An Insider's Account of the Secret Government UAP Program*. RTMA, 2021. Elizondo, Luis. *IMMINENT: Inside the Pentagon's Hunt for UFOs*. Morrow, 2024.
+[^900]: "DoD, Intel Agencies Look at Russian Mind Control Technology, Claims," July 1993, reprinted from *Defense Electronics,* CIA-RDP96-00792R000600150001-5. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. The article gives no CIA affiliation and the identification is not confirmed.

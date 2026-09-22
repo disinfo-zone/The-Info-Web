@@ -47,7 +47,7 @@ Before his resignation, Bissell had authorized the development of ZR/RIFLE under
 
 ### Later Career
 
-After leaving the CIA, Bissell worked at the Institute for Defense Analyses (IDA) and other positions. He wrote his memoirs, *Reflections of a Cold Warrior: From Yalta to the Bay of Pigs*, which were published posthumously by Yale University Press in 1996. The memoir provided a careful but incomplete account of his CIA career; some of the most sensitive material about ZR/RIFLE and the organized crime relationships remained unaddressed.
+After leaving the CIA, Bissell worked at the [[Institute for Defense Analyses]] (IDA) and other positions. He wrote his memoirs, *Reflections of a Cold Warrior: From Yalta to the Bay of Pigs*, which were published posthumously by Yale University Press in 1996. The memoir provided a careful but incomplete account of his CIA career; some of the most sensitive material about ZR/RIFLE and the organized crime relationships remained unaddressed.
 
 Bissell died in Hartford, Connecticut, on February 7, 1994.[^2]
 

@@ -11,6 +11,7 @@ summary: "James Randi (1928–2020), known as 'The Amazing Randi,' was a Canadia
 born: 1928-08-07
 died: 2020-10-20
 location: "Toronto, Ontario, Canada"
+updated: 2026-09-22
 ---
 
 James Randi (1928–2020), known as "The Amazing Randi," was a Canadian-American stage magician, escape artist, and a prominent scientific skeptic. He dedicated much of his life to investigating and debunking paranormal and pseudoscientific claims, often challenging individuals who claimed to possess supernatural abilities[^1].
@@ -28,5 +29,8 @@ In 2011, Randi was involved in a scandal when it was revealed that his Carlos-th
 ### Publications
 *   *The Magic of Uri Geller* (1975)
 
+The Army's [[Grill Flame Scientific Evaluation Committee]] recorded in 1979 that [[Robert Lucky]] of Bell Labs "once proposed to Targ and Puthoff that they allow a 'debugger' like Randy the Magician to watch an SRI RV session. They refused on the grounds that no one believes them anyhow, and did not feel that permitting an extremely vocal critic to intrude into their lives/work would accomplish anything."[^900]
+
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^900]: *Report by the Grill Flame Scientific Evaluation Committee,* December 1979, Manfred Gale, chairman, CIA-RDP96-00788R001300120001-5. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. The name is spelled "Randy" in the report.
