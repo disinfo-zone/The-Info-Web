@@ -8,7 +8,7 @@ tags:
   - DoJ
   - Lawyer
   - INSLAW
-summary: "D. Lowell Jensen served as Alameda County District Attorney, then as Associate Attorney General and Deputy Attorney General under Edwin Meese, and was named by INSLAW and the House Judiciary Committee as a key figure in the alleged conspiracy to steal and suppress the PROMIS software."
+summary: "Alameda County district attorney, then associate and deputy attorney general under Edwin Meese, named by INSLAW and the House Judiciary Committee as a central figure in the taking of the PROMIS software."
 born: 1928-06-03
 location: "Brigham City, Utah"
 alias:

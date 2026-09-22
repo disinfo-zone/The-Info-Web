@@ -17,7 +17,7 @@ tags:
   - 1960s
   - 1970s
   - Stargate
-summary: "William Egan Colby served as Director of Central Intelligence from 1973 to 1976, dismissing James Angleton, cooperating with the Church Committee, and revealing the Family Jewels, having earlier directed the Vietnam-era Phoenix Program under the CORDS framework."
+summary: "Director of central intelligence from 1973 to 1976 who removed James Angleton, gave the Family Jewels to the Church Committee, and had earlier run the Phoenix program in Vietnam."
 born: 1920-01-04
 died: 1996-04-27
 location: "Saint Paul, Minnesota"

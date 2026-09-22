@@ -16,7 +16,7 @@ tags:
   - ColdWar
   - 1970s
   - 1980s
-summary: "Operation Condor was a CIA-facilitated transnational program of political repression, intelligence sharing, and assassination coordinated among six South American military dictatorships from November 1975, tracking and killing an estimated 60,000 people including opponents who had fled across borders."
+summary: "Arrangement of six South American military governments from November 1975, founded by DINA's Manuel Contreras, for exchanging intelligence on exiles and killing them abroad, of which Washington had notice before the Letelier murder."
 start: 1975-11-01
 location: "Santiago, Chile / Buenos Aires, Argentina"
 ---

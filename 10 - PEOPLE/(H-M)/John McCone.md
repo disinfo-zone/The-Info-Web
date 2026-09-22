@@ -8,7 +8,7 @@ tags:
   - LatinAmerica
   - Nuclear
   - Israel
-summary: "Industrialist and former director of Standard Oil of California who served as CIA Director from 1961 to 1965, clashed with President Kennedy over the test-ban treaty and covert-operations control, shaped Johnson's Latin America team around Rockefeller allies, and later, as an ITT director, financed the effort to block Salvador Allende."
+summary: "Industrialist and director of central intelligence from 1961 to 1965 who clashed with Kennedy over covert operations, sat on ITT's board while a consultant to the agency, and offered Helms a fund against Allende."
 born: 1902-01-04
 died: 1991-02-14
 location: San Francisco, California

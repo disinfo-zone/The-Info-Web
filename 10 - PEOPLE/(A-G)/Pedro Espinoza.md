@@ -11,7 +11,7 @@ tags:
   - OperationCondor
 alias:
   - Pedro Espinoza Bravo
-summary: "Chilean army officer, operations director of DINA, indicted in Washington for the Letelier murder in 1978, named by Michael Townley as the man who asked for the killing of General Prats, and convicted in the Horman case."
+summary: "Operations director of DINA, indicted in Washington for the Letelier murder in 1978, named by Michael Townley as the man who asked for the killing of General Prats, and convicted in the Horman case."
 location: "Santiago, Chile"
 created: 2026-09-21
 updated: 2026-09-21
@@ -21,12 +21,15 @@ Pedro Espinoza Bravo was a [[Chile|Chilean]] army colonel and director of operat
 
 [[Michael Townley]] testified that Espinoza came to him several times in July and August 1974 about "doing something" about General [[Carlos Prats]], the former army commander living in [[Buenos Aires]], who Espinoza feared might lead a government in exile. Townley called it "a patriotic request." Prats and his wife were killed by Townley's bomb on September 30, 1974. The Chilean judge [[Alejandro Solís]] later indicted Contreras, Espinoza, and three other DINA officers for the killing.[^1]
 
-A federal grand jury in Washington indicted Contreras, Espinoza, and [[Armando Fernandez Larios|Armando Fernández Larios]] in 1978 for the murder of [[Orlando Letelier]] and [[Ronni Moffitt]]. Chile put the three under military detention and refused to extradite them, and a military court dismissed the domestic case. On an appeal by Letelier's sister the [[Supreme Court of Chile|Chilean Supreme Court]] ruled in January 1982 that the dismissal "was temporary and not definitive." Contreras was sentenced to seven years for the murder in 1995.[^2]
+In a sworn statement of April 24, 1978, in the file of the military prosecutor [[Héctor Orozco]], Espinoza said that in 1976 "the Director of DINA ordered me to designate an agent to carry out a mission abroad, who in any case had to be accompanied by another person fully fluent in English. For this I chose then-Lieutenant Armando Fernández Larios. The name of the second man was suggested by then-Major [[Raúl Iturriaga Neumann|Iturriaga]], under the name Andrés Wilson. This Andrés Wilson turned out to be the same person I had known since November or December 1974 as Michael Townley. The mission consisted of traveling to the USA to meet with Gen. [[Vernon Walters]], then head of the CIA, who would hand over information related to people who could disinterestedly help the Government and our country's cause." When the second pair of officers could not find Walters in August they telephoned Espinoza, who authorized their return. On April 10 the prosecutor had ordered a confrontation between Townley and Espinoza "as to who assigned Townley each of the operations he carried out abroad."[^2]
 
-A man who sought asylum in 1987 told American officials that [[Charles Horman]] had been put to death in the [[Estadio Nacional (Chile)|National Stadium]] in September 1973 on Espinoza's orders. A Chilean court sentenced Espinoza to seven years in the Horman and [[Frank Teruggi]] case in 2015, and the Supreme Court raised the term to fifteen years in 2016.[^3]
+A federal grand jury in Washington indicted Contreras, Espinoza, and [[Armando Fernandez Larios|Armando Fernández Larios]] in 1978 for the murder of [[Orlando Letelier]] and [[Ronni Moffitt]]. Chile put the three under military detention and refused to extradite them, and a military court dismissed the domestic case. On an appeal by Letelier's sister the [[Supreme Court of Chile|Chilean Supreme Court]] ruled in January 1982 that the dismissal "was temporary and not definitive." Contreras was sentenced to seven years for the murder in 1995.[^3]
+
+A man who sought asylum in 1987 told American officials that [[Charles Horman]] had been put to death in the [[Estadio Nacional (Chile)|National Stadium]] in September 1973 on Espinoza's orders. A Chilean court sentenced Espinoza to seven years in the Horman and [[Frank Teruggi]] case in 2015, and the Supreme Court raised the term to fifteen years in 2016.[^4]
 
 ### Footnotes
 
 [^1]: National Security Archive, "The Pinochet Regime at 50: The Assassination of General Carlos Prats and Sofia Cuthbert," October 1, 2024. https://nsarchive.gwu.edu/briefing-book/chile/2024-10-01/pinochet-regime-50-assassination-general-carlos-prats-and-sofia
-[^2]: "Letelier Case Reversal," *The Washington Post,* January 16, 1982, CIA Reading Room document CIA-RDP90-00552R000403680022-8; "Ex-Chile spy chief dies while serving 500-year sentence," Al Jazeera, August 8, 2015.
-[^3]: National Security Archive Electronic Briefing Book No. 33, document 2; "Sentencing in Chile begins to bring closure in 41-year-old murder cases of US citizens Frank Teruggi and Charles Horman," *The Tico Times,* January 30, 2015.
+[^2]: Fiscalía Militar Ad-Hoc, Santiago, causa 192-78 (fiscal Héctor Orozco), as reproduced in *Proceso contra Manuel Contreras Sepúlveda y Pedro Espinoza Bravo,* ministro instructor Adolfo Bañados, tomo 1, scan at https://www.latinamericanstudies.org/MNC/Causa-Contreras-Espinoza-1991.pdf. Quotations translated from the Spanish, declaración of Pedro Espinoza Bravo, April 24, 1978; declaración of René Riveros Valderrama, March 22, 1978; resolution of April 10, 1978.
+[^3]: "Letelier Case Reversal," *The Washington Post,* January 16, 1982, CIA Reading Room document CIA-RDP90-00552R000403680022-8; "Ex-Chile spy chief dies while serving 500-year sentence," Al Jazeera, August 8, 2015.
+[^4]: National Security Archive Electronic Briefing Book No. 33, document 2; "Sentencing in Chile begins to bring closure in 41-year-old murder cases of US citizens Frank Teruggi and Charles Horman," *The Tico Times,* January 30, 2015.

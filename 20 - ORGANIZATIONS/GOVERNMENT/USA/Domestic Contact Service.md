@@ -30,9 +30,12 @@ The Domestic Contact Service was one of two overt collection components of the [
 
 In [[Dallas, Texas|Dallas]] the service's officer [[J. Walton Moore]] was in contact with [[George de Mohrenschildt]], the friend of [[Lee Harvey Oswald]].[^4]
 
+The Miami office made contact with the [[Wackenhut Corporation]] on November 27, 1967, seven months after the Office of Security had severed the agency's relations with its founder, and carried it as a contact for reports on Latin America, under [[Justin Gleichauf]] as chief of the office through 1970. By 1974 Gleichauf worked for the company and reported to his former office as a private citizen. The case was closed on June 30, 1977.[^5]
+
 ### Footnotes
 
 [^1]: U.S. Senate, Select Committee to Study Governmental Operations with Respect to Intelligence Activities. *Final Report, Book I*. S. Rept. 94-755, 1976, pp. 101, 438-442.
 [^2]: Central Intelligence Agency, "Family Jewels," memorandum of Howard J. Osborn, Director of Security, to the Executive Secretary, CIA Management Committee, May 16, 1973, with attachments, p. 00448.
 [^3]: Holland, Max. "The Lie That Linked CIA to the Kennedy Assassination," *Studies in Intelligence,* vol. 45, no. 5, 2001.
 [^4]: House Select Committee on Assassinations. *Appendix to Hearings,* vol. XII, staff report on George de Mohrenschildt. Government Printing Office, 1979.
+[^5]: Central Intelligence Agency, Domestic Contact Service, case file 65805, "Wackenhut Corporation," JFK Assassination Records Collection, record 104-10291-10016, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10016.pdf, pp. 35, 45, 55, 65-66; Central Intelligence Agency, Domestic Collection Division, case file 65805, "Wackenhut Corp.," JFK Assassination Records Collection, record 104-10291-10017, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10017.pdf, pp. 3, 6-7.

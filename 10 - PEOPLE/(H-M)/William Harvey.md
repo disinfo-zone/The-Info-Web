@@ -13,7 +13,7 @@ tags:
   - Assassination
   - AntiCastro
 category: "Intelligence & Government"
-summary: "William Harvey was the CIA's chief of Berlin Base from 1952 to 1959 who engineered Operation Gold (the Berlin Tunnel), then headed Staff D and ZR/RIFLE (the CIA's assassination planning unit), ran the agency-mafia anti-Castro plots with Johnny Roselli, and was exiled to Rome station by Robert Kennedy for insubordination during Operation Mongoose."
+summary: "CIA chief of Berlin base who built the Berlin tunnel, then ran Staff D and ZR/RIFLE, took over Johnny Roselli and the Castro plots in 1962, and was sent to Rome by Robert Kennedy."
 born: 1915-09-13
 died: 1976-06-09
 location: "Washington, D.C. / Berlin / Rome"

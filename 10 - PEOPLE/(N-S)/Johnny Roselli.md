@@ -15,7 +15,7 @@ tags:
   - LasCosas
   - PROMIS
 category: "Organized Crime"
-summary: "Johnny Roselli was a senior Chicago Outfit figure operating in Las Vegas and Hollywood who was recruited by the CIA in 1960 as the primary organized crime conduit for assassination plots against Fidel Castro, testified before the Church Committee in 1975-1976, and was murdered and stuffed in an oil drum in Dumfoundling Bay, Florida, shortly after his second Senate appearance."
+summary: "Chicago Outfit man in Las Vegas and Hollywood recruited by the CIA through Robert Maheu in 1960 against Castro, who testified to the Church Committee and was found in an oil drum off Miami."
 born: 1905-07-04
 died: 1976-08-09
 location: "Los Angeles, California / Las Vegas, Nevada"

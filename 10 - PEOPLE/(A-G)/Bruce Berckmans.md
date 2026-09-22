@@ -1,0 +1,39 @@
+---
+category: "Intelligence & Government"
+tags:
+  - Person
+  - BruceBerckmans
+  - CIA
+  - Wackenhut
+  - DomesticContactService
+  - Jamaica
+  - TomClines
+alias:
+  - Bruce Berckmans, Jr.
+  - Bruce E. Berckmans
+summary: "Former CIA staff agent asked to resign in 1970 who became Wackenhut's director of international operations, threatened to sue the agency in June 1976, and instead offered himself as its contact."
+location: "Coral Gables, Florida"
+created: 2026-09-21
+updated: 2026-09-21
+---
+
+Bruce Berckmans, Jr., was "a former staff agent under the LPGLOBE program" of the [[Central Intelligence Agency|CIA]], with the file number 201-309117, "who was asked to resign from the Agency in 1970." By 1976 he was director of international operations of the [[Wackenhut Corporation]] in [[Coral Gables, Florida|Coral Gables]], and the [[Domestic Contact Service]]'s index card on the company lists him under that title. He was later described, as a former Wackenhut vice president for international operations, as having seen a formal proposal from [[George R. Wackenhut]] to the agency offering the company's offices around the world as fronts.[^1][^2]
+
+### The Contact
+
+A process sheet apparently of 1974 records Berckmans as the Miami office's contact for a report on [[Algeria]] in which "FR Atlanta has reiterated interest."[^3] On June 22, 1976, the chief of the Caribbean branch of the Latin America Division, Lloyd C. Burnett, telephoned the service on the green line: Berckmans "recently telephoned an Agency staff officer with whom he is acquainted, indicating that he had information of interest and needed to talk with someone from the Agency." The assistant general counsel for the operations directorate, Anthony Goldin, "felt that a representative of the Agency should meet with" him, said "we would not be in violation of any Agency regulations or guidelines since [he] was the one requesting the meeting," and recommended "an overt employee (DCD) rather than the LA/Miami Station." Burnett added: "Upon learning of your two immediate intel reports on 22 June, [redacted] we felt there may be a connection between these reports and [his] information." The headquarters cable of the same day named [[Tom Clines]] as the officer through whom he had asked for contact, said the division "believe[d] that Berckmans may have information on political developments in [[Jamaica]]," and stated that it "has no operational interest in Berckmans nor his company."[^4]
+
+### The Grievance
+
+The Miami officer met him at the Wackenhut offices on the morning of June 24. "Berckmans began the interview by requesting that I read a multipage letter which he is thinking of sending to the Inspector General. It is a detailed statement of grievances stemming from his forced resignation and indicates that he is considering a suit against the Agency. He has in fact retained counsel, apparently another former Agency staffer." Berckmans, "who is fond of saying that he resigned from the Agency but not the United States, offered to serve as a fairly typical DCD contact with respect to the information he derives in his regular Wackenhut duties," having "many useful contacts especially in [[Latin America]] and soon in the [[Middle East]]." The officer told him that in view of the suit "I felt it inappropriate for us to maintain any systematic relationship at this time." The one item Berckmans offered concerned "the current Jamaican situation": through a subcontractor his company was considering a contract "which would provide custodial services for Revere bauxite holdings which the company is apparently planning to withdraw."[^5]
+
+Late on June 28 he telephoned the officer at home "to tell me that after consultations with his attorney he has decided not to sue the Agency." Goldin "foresees no problem in acceding to Berckmans' request for another meeting. In fact, it may help defuse the situation." On July 2 Berckmans repeated that "he will not sue the Agency or any staffers or former staffers," attributing the decision "to what he called the inordinate costs in both time and money," and "volunteered his feeling that the Agency was being kicked from every side and he did not wish to add to the problem." He was "considerably more composed and relaxed," and renewed "what appears now to be a sincere offer to act on a voluntary basis and in a nonoperational capacity as a normal DCD contact." The officer wrote: "There is no doubt that Berckmans is involved in various foreign projects which could be of informational interest to us." Copies went to the inspector general, the special assistant to the deputy director for operations, and the Caribbean branch. An undated paper in the file, "volunteered for possible operational consideration on a very preliminary and noncommittal basis," describes a prospective contract for a national system of industrial security in an unnamed country, with a burn and trauma hospital, a fire department, a security control center, a training institute, an emergency communications system, and modular housing. A review log entry records Wackenhut "deleted from OSG & DDO files"; on September 9 Burnett and Goldin "posed no objection" to ending contact, and the Miami office formally closed the case on June 30, 1977.[^6]
+
+### Footnotes
+
+[^1]: Central Intelligence Agency, Domestic Collection Division, case file 65805, "Wackenhut Corp.," JFK Assassination Records Collection, record 104-10291-10017, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10017.pdf, pp. 17-18, memorandum of Lloyd C. Burnett, "Contact with Former Staff Agent," June 23, 1976; Central Intelligence Agency, Domestic Contact Service, case file 65805, "Wackenhut Corporation," JFK Assassination Records Collection, record 104-10291-10016, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10016.pdf, pp. 13-14.
+[^2]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. TrineDay, 2010, as already cited on the Wackenhut Corporation page; the title there is vice president.
+[^3]: Central Intelligence Agency, Domestic Contact Service, case file 65805, "Wackenhut Corporation," JFK Assassination Records Collection, record 104-10291-10016, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10016.pdf, p. 31.
+[^4]: Central Intelligence Agency, Domestic Collection Division, case file 65805, "Wackenhut Corp.," JFK Assassination Records Collection, record 104-10291-10017, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10017.pdf, pp. 17-18; Central Intelligence Agency, Domestic Contact Service, case file 65805, "Wackenhut Corporation," JFK Assassination Records Collection, record 104-10291-10016, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10016.pdf, p. 14, cable DCD/Headquarters 15693, June 22, 1976.
+[^5]: Central Intelligence Agency, Domestic Contact Service, case file 65805, "Wackenhut Corporation," JFK Assassination Records Collection, record 104-10291-10016, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10016.pdf, p. 18, cable DCD/Miami 13377, June 24, 1976.
+[^6]: Central Intelligence Agency, Domestic Contact Service, case file 65805, "Wackenhut Corporation," JFK Assassination Records Collection, record 104-10291-10016, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10016.pdf, p. 17; Central Intelligence Agency, Domestic Collection Division, case file 65805, "Wackenhut Corp.," JFK Assassination Records Collection, record 104-10291-10017, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10017.pdf, pp. 2, 8, 9, 11, 12, 13.
