@@ -20,7 +20,7 @@ On August 12, 1988, Thornburgh was sworn in as Attorney General of the United St
 
 ### Role in the INSLAW/PROMIS Affair
 
-The House Judiciary Committee's September 1992 investigation (House Report 102-857) named both Meese and Thornburgh as the two Attorneys General who had "blocked or restricted congressional inquiries into the matter, ignored the findings of two courts and refused to ask for the appointment of an independent counsel" in connection with the alleged theft of [[INSLAW]]'s [[PROMIS]] software.[^2]
+The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 investigation (House Report 102-857) named both Meese and Thornburgh as the two Attorneys General who had "blocked or restricted congressional inquiries into the matter, ignored the findings of two courts and refused to ask for the appointment of an independent counsel" in connection with the alleged theft of [[INSLAW]]'s [[PROMIS]] software.[^2]
 
 The two court findings at issue were Bankruptcy Judge [[George Francis Bason Jr.]]'s 1987 ruling that the [[Department of Justice]] had stolen PROMIS from INSLAW "tainted by fraud, deceit and overreaching," and the District Court's 1988 affirmance of that ruling on appeal.
 

@@ -38,7 +38,7 @@ McLellan publicly defended the Castelo Branco government's practice of interveni
 
 ### Senate Foreign Relations Committee Testimony
 
-The Senate Committee on Foreign Relations held a hearing on the American Institute for Free Labor Development on August 1, 1969, during the 91st Congress, 1st Session (Senate Hearing CHRG-91shrg33948). The hearing examined AIFLD's allegedly ineffective programs to promote trade unionism in Latin America and scrutinized the relationship between AFL-CIO support for US [[Vietnam War]] policy and the USAID financing of AIFLD's operations. The hearing's primary witness was AFL-CIO president [[George Meany]]. The hearing took place against a backdrop of growing public criticism of AIFLD's role in the 1964 Brazilian coup and its broader function as a CIA-adjacent instrument in hemispheric labor politics.[^10]
+The [[Senate Foreign Relations Committee|Senate Committee on Foreign Relations]] held a hearing on the American Institute for Free Labor Development on August 1, 1969, during the 91st Congress, 1st Session (Senate Hearing CHRG-91shrg33948). The hearing examined AIFLD's allegedly ineffective programs to promote trade unionism in Latin America and scrutinized the relationship between AFL-CIO support for US [[Vietnam War]] policy and the USAID financing of AIFLD's operations. The hearing's primary witness was AFL-CIO president [[George Meany]]. The hearing took place against a backdrop of growing public criticism of AIFLD's role in the 1964 Brazilian coup and its broader function as a CIA-adjacent instrument in hemispheric labor politics.[^10]
 
 ### 1969 Rockefeller Mission
 

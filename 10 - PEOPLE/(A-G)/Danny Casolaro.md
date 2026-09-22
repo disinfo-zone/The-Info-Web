@@ -60,7 +60,7 @@ In 2024, Martinsburg police released records under a Freedom of Information Act 
 
 ### Congressional and Official Findings
 
-The House Judiciary Committee's September 1992 report noted that Casolaro had "encountered dangerous individuals associated with organized crime and the world of covert intelligence operations" and recommended further investigation into the circumstances of his death. The committee found no evidence that DOJ had sought to influence the local West Virginia investigation.[^2]
+The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 report noted that Casolaro had "encountered dangerous individuals associated with organized crime and the world of covert intelligence operations" and recommended further investigation into the circumstances of his death. The committee found no evidence that DOJ had sought to influence the local West Virginia investigation.[^2]
 
 The Bua Report, completed in March 1993, concluded that the physical evidence "strongly supported" the suicide finding, that DOJ had not influenced the local investigation, and that Casolaro had possessed "ample reason to commit suicide," being unemployed, financially dependent on family, facing a balloon mortgage, and unable to sell his book.[^4]
 

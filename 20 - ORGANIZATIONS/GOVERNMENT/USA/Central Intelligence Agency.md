@@ -91,7 +91,7 @@ When [[DEA]] agent [[Celerino Castillo]] began investigating Contra drug traffic
 
 ### Inspector General Investigation
 
-CIA Inspector General [[Fred Hitz]] testified before the House Intelligence Committee in March 1998 that the CIA "did not, in an expeditious or consistent fashion, cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking activity," including trafficking within the United States. His 400-page report documented CIA relationships with more than 50 suspected drug traffickers during the Contra war.[^14]
+CIA Inspector General [[Fred Hitz]] testified before the [[House Permanent Select Committee on Intelligence|House Intelligence Committee]] in March 1998 that the CIA "did not, in an expeditious or consistent fashion, cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking activity," including trafficking within the United States. His 400-page report documented CIA relationships with more than 50 suspected drug traffickers during the Contra war.[^14]
 
 ### Iran-Contra Indictments
 

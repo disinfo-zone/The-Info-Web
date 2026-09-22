@@ -25,7 +25,7 @@ Davies and Raymond founded National Action in late 2013. Raymond was an active a
 
 The primary catalysts for proscription were National Action's public celebration of the June 2016 murder of Labour MP Jo Cox by [[Thomas Mair]] and subsequent explicit death threats to other MPs. Earlier incidents had already drawn police attention: member [[Garron Helm]] was sentenced in October 2014 to four weeks in prison for sending an antisemitic tweet to MP [[Luciana Berger]]. Zack Davies, identified by police as a National Action member, was convicted in September 2015 of the attempted murder of Sikh dental student [[Sarandev Bhambra]] in Mold, Flintshire and sentenced to life imprisonment with a minimum 14 years.
 
-On December 16, 2016, Rudd described National Action as "a racist, antisemitic and homophobic organisation which stirs up hatred, glorifies violence and promotes a vile ideology." Successor organizations [[System Resistance Network]] (SRN) and [[Scottish Dawn]] were separately proscribed in 2017; the [[Sonnenkrieg Division]] (SKD), founded by former SRN leader [[Andrew Dymock]], was proscribed in 2019.[^1]
+On December 16, 2016, Rudd described National Action as "a racist, antisemitic and homophobic organisation which stirs up hatred, glorifies violence and promotes a vile ideology." Successor organizations [[System Resistance Network]] (SRN) and [[Scottish Dawn]] were separately proscribed in 2017; the [[Sonnenkrieg Division]] (SKD), founded by former SRN leader [[Andrew Dymock]], was proscribed in February 2020.[^1]
 
 ### Prosecutions
 
@@ -51,7 +51,7 @@ Hannam had attended his first National Action meeting on 6 March 2016 at a pub i
 He was identified by [[Counter Terrorism Command]] in February 2020 through the November 2019 Iron March database leak, and arrested on 5 March 2020. The prosecution described him as an "active recruiter" for National Action's London branch.[^5]
 
 #### Wave 5 (Winchester Crown Court, May 2022)
-[[Alex Davies]], co-founder (Swansea): found guilty on May 17, 2022 of membership between December 17, 2016 and September 27, 2017, sentenced to 8 years 6 months.[^4]
+Alex Davies, co-founder (Swansea): found guilty on May 17, 2022 of membership between December 17, 2016 and September 27, 2017, sentenced to 8 years 6 months.[^4]
 
 ### O9A Integration via Ryan Fleming
 

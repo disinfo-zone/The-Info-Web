@@ -33,7 +33,7 @@ Judge Rebecca Poulet QC, sentencing both Szewczuk and [[Oskar Dunn-Koczorowski]]
 
 ### Sonnenkrieg Division and O9A
 
-Sonnenkrieg Division was founded by [[Andrew Dymock]] after his departure from the [[System Resistance Network]] (SRN), incorporating O9A philosophy heavily into SKD's ideological framework. Szewczuk's role was as a co-founder and Gab operator. The Home Secretary proscribed SKD under the Terrorism Act 2000 in 2019, after Szewczuk and Dunn-Koczorowski had been charged but before their sentencing.
+Sonnenkrieg Division was founded by [[Andrew Dymock]] after his departure from the [[System Resistance Network]] (SRN), incorporating O9A philosophy heavily into SKD's ideological framework. Szewczuk's role was as a co-founder and Gab operator. The Home Secretary proscribed SKD under the Terrorism Act 2000 on February 28, 2020, after Szewczuk and Dunn-Koczorowski had been sentenced.
 
 ### Footnotes
 

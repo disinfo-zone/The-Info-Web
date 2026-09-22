@@ -42,7 +42,7 @@ Hamilton also described to investigators his belief that the main purpose of the
 
 ### Congressional Testimony and Final Legal Proceedings
 
-Hamilton and INSLAW participated in all major investigations of the affair, including the Senate Permanent Subcommittee on Investigations inquiry (1989), the House Judiciary Committee investigation led by Representative Jack Brooks (1989-1992), and the Special Counsel investigation conducted by [[Nicholas J. Bua]] (1991-1993). In 1995, the U.S. Senate referred INSLAW's remaining claims to the Court of Federal Claims; the court ruled in 1997-1998 that all versions of PROMIS were in the public domain and that the government had always been free to use the software. INSLAW received no compensation.[^2]
+Hamilton and INSLAW participated in all major investigations of the affair, including the Senate Permanent Subcommittee on Investigations inquiry (1989), the [[House Committee on the Judiciary|House Judiciary Committee]] investigation led by Representative Jack Brooks (1989-1992), and the Special Counsel investigation conducted by [[Nicholas J. Bua]] (1991-1993). In 1995, the U.S. Senate referred INSLAW's remaining claims to the Court of Federal Claims; the court ruled in 1997-1998 that all versions of PROMIS were in the public domain and that the government had always been free to use the software. INSLAW received no compensation.[^2]
 
 Hamilton continued to assert that PROMIS was fraudulently stolen and distributed internationally. He maintained a public website documenting INSLAW's claims long after the formal legal proceedings concluded.
 

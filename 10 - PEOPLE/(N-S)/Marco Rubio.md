@@ -8,7 +8,7 @@ summary: "Senator Rubio was the chief sponsor of the bill that mandated the Dire
 born: 1971-05-28
 location: "Miami, Florida"
 ---
-[[Marco Rubio]] is a United States Senator from Florida who has played a crucial role in the recent legislative efforts to increase transparency and oversight of the [[Unidentified Anomalous Phenomena]] (UAP) issue. As the acting chairman of the Senate Intelligence Committee, he was a key figure in the passage of the historic UAP legislation in the 2021 and 2022 National Defense Authorization Acts (NDAAs).[^1]
+[[Marco Rubio]] is a United States Senator from Florida who has played a crucial role in the recent legislative efforts to increase transparency and oversight of the [[Unidentified Anomalous Phenomena]] (UAP) issue. As the acting chairman of the [[Senate Select Committee on Intelligence|Senate Intelligence Committee]], he was a key figure in the passage of the historic UAP legislation in the 2021 and 2022 National Defense Authorization Acts (NDAAs).[^1]
 
 ### Support for UAP Legislation
 

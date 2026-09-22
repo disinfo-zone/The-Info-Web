@@ -17,11 +17,11 @@ updated: 2026-05-22
 summary: "The Reforming Intelligence and Securing America Act (RISAA), enacted April 20, 2024, reauthorized FISA Section 702 through April 20, 2026, codified modest procedural reforms to FBI querying practices, and defeated a bipartisan warrant amendment by a 212-212 tied House vote."
 ---
 
-The Reforming Intelligence and Securing America Act (RISAA), Pub. L. 118-49, was enacted on April 20, 2024, reauthorizing [[Section 702]] of the [[Foreign Intelligence Surveillance Act]] through April 20, 2026. It represented Congress's response to a documented period of significant compliance failures in the [[FBI]]'s warrantless querying of [[Section 702]] databases, following the disclosure through declassified [[Foreign Intelligence Surveillance Court]] (FISC) opinions that the FBI had conducted more than 278,000 non-compliant U.S. person queries between approximately 2020 and early 2022.
+The Reforming Intelligence and Securing America Act (RISAA), Pub. L. 118-49, was enacted on April 20, 2024, reauthorizing [[Section 702]] of the [[Foreign Intelligence Surveillance Act]] through April 20, 2026. It represented Congress's response to a documented period of significant compliance failures in the [[FBI]]'s warrantless querying of Section 702 databases, following the disclosure through declassified [[Foreign Intelligence Surveillance Court]] (FISC) opinions that the FBI had conducted more than 278,000 non-compliant U.S. person queries between approximately 2020 and early 2022.
 
 ### Legislative History
 
-The bill emerged from competing proposals backed by the House Judiciary Committee, which favored substantial reforms including a warrant requirement for backdoor searches, and the House Intelligence Committee, which backed more modest procedural changes. House leadership presented RISAA as a compromise.
+The bill emerged from competing proposals backed by the [[House Committee on the Judiciary|House Judiciary Committee]], which favored substantial reforms including a warrant requirement for backdoor searches, and the [[House Permanent Select Committee on Intelligence|House Intelligence Committee]], which backed more modest procedural changes. House leadership presented RISAA as a compromise.
 
 The central contested issue was whether to require the government to obtain a warrant or FISA Title I order before querying Section 702 databases using a U.S. person identifier. A House floor amendment to impose this warrant requirement, with bipartisan sponsorship, failed by a tied vote of 212-212 on April 12, 2024. This was the closest Congress had come to imposing a warrant requirement on Section 702 backdoor searches since the program was created by the [[FISA Amendments Act of 2008]].
 

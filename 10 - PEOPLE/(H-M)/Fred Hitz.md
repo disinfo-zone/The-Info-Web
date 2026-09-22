@@ -15,7 +15,7 @@ Fred P. Hitz was the [[Central Intelligence Agency]] Inspector General who condu
 
 ### Congressional Testimony
 
-Appearing before the House Intelligence Committee in March 1998, Hitz delivered some of the most damaging admissions in the agency's history. "Let me be frank about what we are finding," Hitz testified. "There are instances where CIA did not, in an expeditious or consistent fashion, cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking activity." When Congressman Norman Dicks asked whether any of these allegations involved trafficking in the [[United States]], Hitz answered: "Yes."[^1]
+Appearing before the [[House Permanent Select Committee on Intelligence|House Intelligence Committee]] in March 1998, Hitz delivered some of the most damaging admissions in the agency's history. "Let me be frank about what we are finding," Hitz testified. "There are instances where CIA did not, in an expeditious or consistent fashion, cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking activity." When Congressman Norman Dicks asked whether any of these allegations involved trafficking in the [[United States]], Hitz answered: "Yes."[^1]
 
 ### The Secret 1982 Agreement
 

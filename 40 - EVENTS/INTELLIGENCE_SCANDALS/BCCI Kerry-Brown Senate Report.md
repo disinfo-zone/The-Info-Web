@@ -24,7 +24,7 @@ location: "Washington, D.C."
 
 Kerry's subcommittee investigation began in 1988, predating BCCI's July 1991 shutdown by three years. The subcommittee was originally focused on drug trafficking and money laundering when it first encountered BCCI through its investigation of [[Manuel Noriega]]'s Panamanian bank accounts and the [[Medellín Cartel]]'s financial infrastructure. [[Amjad Awan]], BCCI's manager for [[Latin America]] and Noriega's personal banker, became a key witness after his arrest in Tampa in October 1988 as part of a U.S. Customs sting.
 
-The investigation expanded dramatically after Manhattan District Attorney [[Robert Morgenthau]] brought BCCI evidence to Kerry's attention, and after [[Jack Blum]], a former Kerry subcommittee investigator, continued developing sources within and around BCCI independently. The [[Bank of England]]'s forced closure of BCCI in July 1991 and the simultaneous international criminal indictments gave the investigation new impetus.[^1]
+The investigation expanded dramatically after Manhattan District Attorney [[Robert Morgenthau]] brought BCCI evidence to Kerry's attention, and after [[Jack Blum]], a former [[Senate Foreign Relations Committee|Kerry subcommittee]] investigator, continued developing sources within and around BCCI independently. The [[Bank of England]]'s forced closure of BCCI in July 1991 and the simultaneous international criminal indictments gave the investigation new impetus.[^1]
 
 ### Principal Findings
 

@@ -54,13 +54,13 @@ In 1997, the Baltimore Sun obtained KUBARK through a Freedom of Information Act 
 
 A successor document, the Human Resource Exploitation Training Manual (HRE), was produced in 1983 and used in training programs conducted by the CIA for foreign intelligence services in [[Honduras]], [[Colombia]], [[Ecuador]], [[El Salvador]], and other [[Central America|Central American]] and South American countries during the Reagan era. The HRE updated and expanded KUBARK's coercive interrogation framework and was produced for use with allied services rather than by CIA officers directly.
 
-The HRE was declassified alongside KUBARK in 1997 following the Baltimore Sun FOIA request. Handwritten annotations in the declassified version indicate that the manual was modified between 1983 and 1985 to remove references to "electric shock" and to add language encouraging rapport-based approaches - modifications the House Intelligence Committee later characterized as occurring specifically in response to Congressional oversight rather than reflecting operational policy changes.[^2]
+The HRE was declassified alongside KUBARK in 1997 following the Baltimore Sun FOIA request. Handwritten annotations in the declassified version indicate that the manual was modified between 1983 and 1985 to remove references to "electric shock" and to add language encouraging rapport-based approaches - modifications the [[House Permanent Select Committee on Intelligence|House Intelligence Committee]] later characterized as occurring specifically in response to Congressional oversight rather than reflecting operational policy changes.[^2]
 
 ### Post-9/11 Legacy
 
 The KUBARK framework informed the development of the CIA's post-September 11 enhanced interrogation program and the Department of Defense's Army Field Manual interrogation guidelines. The 2002 Department of Justice Office of Legal Counsel memoranda (the "Torture Memos") that authorized specific enhanced interrogation techniques - sleep deprivation, stress positions, sensory disruption, isolation - drew on a legal and psychological framework continuous with KUBARK's approach to regression induction.
 
-The Senate Intelligence Committee's 2014 report on the CIA's detention and interrogation program (the "Torture Report") examined the enhanced interrogation program in detail and found that many of the techniques employed were not effective at producing reliable intelligence - a conclusion consistent with KUBARK's own acknowledgment that extreme coercion tends to produce unreliable information.[^1]
+The [[Senate Select Committee on Intelligence|Senate Intelligence Committee]]'s 2014 report on the CIA's detention and interrogation program (the "Torture Report") examined the enhanced interrogation program in detail and found that many of the techniques employed were not effective at producing reliable intelligence - a conclusion consistent with KUBARK's own acknowledgment that extreme coercion tends to produce unreliable information.[^1]
 
 ### Footnotes
 

@@ -33,7 +33,7 @@ The Meese recusal added further significance to Jensen's role: Meese reportedly 
 
 ### House Judiciary Committee Findings
 
-The House Judiciary Committee's September 1992 report (House Report 102-857), produced after a three-year investigation chaired by Representative [[Jack Brooks]], named Jensen as among those who "consciously ignored INSLAW's proprietary rights." The committee found it "incredible that the Department, having made this determination [that INSLAW's claim was legitimate], would continue to pursue its litigation."[^3] The report noted that INSLAW alleged Jensen had been induced by Brian's political influence - routed through Meese - to engineer disputes with INSLAW and drive the company into bankruptcy, with Brian positioned to acquire the company and its software assets through his vehicle [[Hadron]].[^3]
+The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 report (House Report 102-857), produced after a three-year investigation chaired by Representative [[Jack Brooks]], named Jensen as among those who "consciously ignored INSLAW's proprietary rights." The committee found it "incredible that the Department, having made this determination [that INSLAW's claim was legitimate], would continue to pursue its litigation."[^3] The report noted that INSLAW alleged Jensen had been induced by Brian's political influence - routed through Meese - to engineer disputes with INSLAW and drive the company into bankruptcy, with Brian positioned to acquire the company and its software assets through his vehicle [[Hadron]].[^3]
 
 ### Bua Report Findings
 

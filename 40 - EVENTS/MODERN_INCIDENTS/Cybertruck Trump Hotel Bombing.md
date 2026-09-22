@@ -16,7 +16,7 @@ summary: "On January 1, 2025, active duty Army Special Operations soldier Matthe
 date: 2025-01-01
 location: "Las Vegas, Nevada"
 ---
-On January 1, 2025, active duty [[U.S. Army]] [[Special Operations Group|Special Ops Soldier]] [[Matthew Livelsberger]] parked a Tesla Cybertruck in front of the Trump International Hotel Las Vegas in Paradise, Nevada. The truck was filled with firework mortars and gas canisters and was detonated at approximately 8:39am injuring seven bystanders.[^1] Livelsberger allegedly shot himself in the head seconds before the explosion. The [[Federal Bureau of Investigation|FBI]] is still deciding whether to classify this as an [[act of terrorism]].
+On January 1, 2025, active duty [[U.S. Army]] [[Special Operations Group|Special Ops Soldier]] [[Matthew Livelsberger]] parked a Tesla Cybertruck in front of the Trump International Hotel [[Las Vegas]] in Paradise, Nevada. The truck was filled with firework mortars and gas canisters and was detonated at approximately 8:39am injuring seven bystanders.[^1] Livelsberger allegedly shot himself in the head seconds before the explosion. The [[Federal Bureau of Investigation|FBI]] is still deciding whether to classify this as an [[act of terrorism]].
 ### Detailed Timeline
 - The truck was rented in Colorado using [[Turo]] on December 28[^2]. Livelsberger texted a girlfriend that he felt like batman or “halo.”
 - December 30, Livelsberger drove to Monument, Colorado and purchased two handguns

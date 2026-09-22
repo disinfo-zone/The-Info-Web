@@ -30,13 +30,13 @@ The Tower Commission Report (1987) characterized Ghorbanifar as a commercially m
 
 ### PROMIS Software Connection
 
-A letter dated May 16, 1985, signed by [[William Bradford Reynolds]] and addressed to U.S. Attorney [[William F. Weld]], named Ghorbanifar alongside [[Adnan Khashoggi]] and [[Richard Armitage]] as brokers for a transaction distributing [[PROMIS]] software equipped with a surveillance back door to a Saudi sheikh for "resale and general distribution as gifts in his region." [[William Bradford Reynolds]] independently confirmed remembering Ghorbanifar, Khashoggi, and Armitage working together on PROMIS when shown the letter in 2005.[^3]
+A letter dated May 16, 1985, signed by [[William Bradford Reynolds]] and addressed to U.S. Attorney [[William F. Weld]], named Ghorbanifar alongside [[Adnan Khashoggi]] and [[Richard Armitage]] as brokers for a transaction distributing [[PROMIS]] software equipped with a surveillance back door to a Saudi sheikh for "resale and general distribution as gifts in his region." William Bradford Reynolds independently confirmed remembering Ghorbanifar, Khashoggi, and Armitage working together on PROMIS when shown the letter in 2005.[^3]
 
 The letter was signed in May 1985, just months before Ghorbanifar was introduced to the Reagan NSC as the Iran-Contra arms intermediary -- a timing that suggests overlap between the PROMIS distribution network and the network that produced Iran-Contra.
 
 ### Post-Iran-Contra Activity
 
-In the early 2000s, Ghorbanifar resurfaced as a source for claims about alleged Iraqi connections to al-Qaeda and about Iranian internal politics. The Office of the Vice President under [[Dick Cheney]] reportedly showed interest in his claims. The CIA, citing his established record as a fabricator, consistently objected to any operational engagement with him. Two meetings between Ghorbanifar and Pentagon officials in Rome and Paris in 2001 and 2003 were later investigated by the Senate Intelligence Committee as potentially unauthorized intelligence activities bypassing normal CIA channels.[^2]
+In the early 2000s, Ghorbanifar resurfaced as a source for claims about alleged Iraqi connections to al-Qaeda and about Iranian internal politics. The Office of the Vice President under [[Dick Cheney]] reportedly showed interest in his claims. The CIA, citing his established record as a fabricator, consistently objected to any operational engagement with him. Two meetings between Ghorbanifar and Pentagon officials in Rome and Paris in 2001 and 2003 were later investigated by the [[Senate Select Committee on Intelligence|Senate Intelligence Committee]] as potentially unauthorized intelligence activities bypassing normal CIA channels.[^2]
 
 ### Footnotes
 

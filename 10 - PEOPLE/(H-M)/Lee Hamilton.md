@@ -11,7 +11,7 @@ born: 1931-04-20
 died: 2026-02-03
 location: "Daytona Beach, Florida"
 ---
-Lee Herbert Hamilton was born April 20, 1931, in Daytona Beach, Florida. He served as a Democratic member of the U.S. House of Representatives from Indiana's 9th congressional district from 1965 to 1999, a tenure of 34 years. During that period he served on the House Intelligence Committee, including as chairman, and was a central figure in congressional oversight of intelligence affairs. After leaving Congress he became President and CEO of the Woodrow Wilson International Center for Scholars and Director of the Center on Congress at Indiana University.[^1]
+Lee Herbert Hamilton was born April 20, 1931, in Daytona Beach, Florida. He served as a Democratic member of the U.S. House of Representatives from Indiana's 9th congressional district from 1965 to 1999, a tenure of 34 years. During that period he served on the [[House Permanent Select Committee on Intelligence|House Intelligence Committee]], including as chairman, and was a central figure in congressional oversight of intelligence affairs. After leaving Congress he became President and CEO of the Woodrow Wilson International Center for Scholars and Director of the Center on Congress at Indiana University.[^1]
 
 ### House October Surprise Task Force
 

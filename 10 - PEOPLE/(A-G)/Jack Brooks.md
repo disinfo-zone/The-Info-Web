@@ -18,7 +18,7 @@ Jack Bascom Brooks was born December 18, 1922, in Crowley, Louisiana. His family
 
 ### Congressional Career
 
-Brooks served 42 years in the House of Representatives, one of the longest tenures in Texas congressional history. He chaired the House Committee on Government Operations from 1975 to 1988, during which he authored the Brooks Act governing federal government procurement of information technology -- earning an informal designation as "father of federal IT procurement." He chaired the House Judiciary Committee from 1989 until his defeat in 1994.[^1]
+Brooks served 42 years in the House of Representatives, one of the longest tenures in Texas congressional history. He chaired the House Committee on Government Operations from 1975 to 1988, during which he authored the Brooks Act governing federal government procurement of information technology -- earning an informal designation as "father of federal IT procurement." He chaired the [[House Committee on the Judiciary|House Judiciary Committee]] from 1989 until his defeat in 1994.[^1]
 
 Brooks was present aboard Air Force One on November 22, 1963, when Lyndon B. Johnson was sworn in as President following the assassination of [[John F. Kennedy]]. He is visible in the Cecil Stoughton photograph of the ceremony, standing to the upper right of Jacqueline Kennedy.[^1]
 

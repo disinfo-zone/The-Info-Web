@@ -21,7 +21,7 @@ Edwin Meese III served as Counselor to President [[Ronald Reagan]] from 1981 to 
 
 ### Role in the PROMIS Software Scandal
 
-The House Judiciary Committee's September 1992 investigation (House Report 102-857) placed Meese at the center of its conspiracy theory. The committee found that Meese and Lowell Jensen had "consciously ignored INSLAW's proprietary rights" and that Attorney Generals Meese and [[Richard Thornburgh]] had "blocked or restricted congressional inquiries into the matter, ignored the findings of two courts and refused to ask for the appointment of an independent counsel."[^1]
+The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 investigation (House Report 102-857) placed Meese at the center of its conspiracy theory. The committee found that Meese and Lowell Jensen had "consciously ignored INSLAW's proprietary rights" and that Attorney Generals Meese and [[Richard Thornburgh]] had "blocked or restricted congressional inquiries into the matter, ignored the findings of two courts and refused to ask for the appointment of an independent counsel."[^1]
 
 Meese's connection to Earl Brian was the committee's primary circumstantial evidence of motive. Both men had served together in Reagan's Sacramento cabinet; in 1985, Meese's wife purchased stock in a Brian-controlled company.[^1] INSLAW alleged that Meese had arranged for the DOJ to steal PROMIS and funnel its distribution rights to Brian as a reward for Brian's alleged role in the [[October Surprise]] negotiations - a theory that, if true, would make the PROMIS theft a product of a political debt going back to 1980.[^2]
 

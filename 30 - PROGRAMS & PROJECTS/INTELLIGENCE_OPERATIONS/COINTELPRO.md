@@ -64,7 +64,7 @@ Hoover formally terminated COINTELPRO on April 27, 1971, less than two months af
 
 The Church Committee documented COINTELPRO in its final report, concluding: "Many of the targets of COINTELPRO were not criminals or terrorists but were private citizens who openly advocated unpopular ideas and who committed no illegal acts." The Committee found that "groups and individuals have been harassed and disrupted because of their political views and not their criminal conduct." The Bureau's own records showed it had opened more than half a million domestic intelligence files since 1960. The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, S. Rept. 94-755, April 26, 1976, is the primary published government record of COINTELPRO.[^1]
 
-The Senate Intelligence Committee's book-length study of domestic CIA and FBI surveillance activities, *Final Report of the Select Committee to Study Governmental Operations With Respect to Intelligence Activities* (1976), remains the definitive primary-source compilation of the program's documented scope.[^1]
+The [[Senate Select Committee on Intelligence|Senate Intelligence Committee]]'s book-length study of domestic CIA and FBI surveillance activities, *Final Report of the Select Committee to Study Governmental Operations With Respect to Intelligence Activities* (1976), remains the definitive primary-source compilation of the program's documented scope.[^1]
 
 ### Footnotes
 

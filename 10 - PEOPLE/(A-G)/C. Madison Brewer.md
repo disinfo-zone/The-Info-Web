@@ -28,7 +28,7 @@ Bason also found that Brewer had originated a plan to convert INSLAW's Chapter 1
 
 ### House Judiciary Committee Findings
 
-The House Judiciary Committee's September 1992 report cited Brewer as a central figure in the DOJ's misappropriation of PROMIS. The committee found that high-level DOJ officials had "deliberately ignored INSLAW's proprietary rights" and misappropriated the software, and that Brewer's documented adversarial conduct was a key mechanism through which this occurred. The report raised the question of whether Brewer's actions were independent or directed from above - specifically, whether [[Lowell Jensen]] had knowingly allowed Brewer's campaign to proceed as part of a broader conspiracy with [[Earl Brian]].[^3]
+The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 report cited Brewer as a central figure in the DOJ's misappropriation of PROMIS. The committee found that high-level DOJ officials had "deliberately ignored INSLAW's proprietary rights" and misappropriated the software, and that Brewer's documented adversarial conduct was a key mechanism through which this occurred. The report raised the question of whether Brewer's actions were independent or directed from above - specifically, whether [[Lowell Jensen]] had knowingly allowed Brewer's campaign to proceed as part of a broader conspiracy with [[Earl Brian]].[^3]
 
 ### Bua Report Findings
 

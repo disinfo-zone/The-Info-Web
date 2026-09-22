@@ -41,7 +41,7 @@ In 2005, attorney Donald Carr showed the letter to Reynolds. Reynolds authentica
 
 ### House Judiciary Committee and Bua Report
 
-The House Judiciary Committee's September 1992 investigative report on the INSLAW affair - produced before INSLAW obtained the May 1985 letter - found "strong evidence" that the Department of Justice had "taken, converted and stolen" INSLAW's Enhanced PROMIS through "trickery, fraud and deceit" under the direction of high-level DOJ officials, and recommended appointment of a Special Counsel to investigate further.[^2] Special Counsel [[Nicholas J. Bua]], appointed in 1993, issued a March 1994 report finding "no credible basis" for the INSLAW theft claims, placing the executive and legislative branches in direct conflict on the underlying allegation.[^3]
+The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 investigative report on the INSLAW affair - produced before INSLAW obtained the May 1985 letter - found "strong evidence" that the Department of Justice had "taken, converted and stolen" INSLAW's Enhanced PROMIS through "trickery, fraud and deceit" under the direction of high-level DOJ officials, and recommended appointment of a Special Counsel to investigate further.[^2] Special Counsel [[Nicholas J. Bua]], appointed in 1993, issued a March 1994 report finding "no credible basis" for the INSLAW theft claims, placing the executive and legislative branches in direct conflict on the underlying allegation.[^3]
 
 Reynolds died September 14, 2019, without ever being subjected to formal questioning about the letter in a legal proceeding.
 

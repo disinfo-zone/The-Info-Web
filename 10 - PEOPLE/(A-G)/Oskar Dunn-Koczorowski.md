@@ -15,7 +15,7 @@ updated: 2026-05-22
 summary: "Oskar Dunn-Koczorowski was an 18-year-old from West London who was a Sonnenkrieg Division member sentenced in June 2019 to an 18-month Detention and Training Order at the Old Bailey for two counts of encouraging terrorism via Gab posts supporting Anders Breivik and calling for ethnic cleansing."
 ---
 
-Oskar Dunn-Koczorowski, 18, of West London, was a member of [[Sonnenkrieg Division]] (SKD), the British neo-Nazi accelerationist organisation proscribed in 2019. He was sentenced at the [[Old Bailey]] on 18 June 2019 by Judge [[Rebecca Poulet QC]] to an 18-month Detention and Training Order after pleading guilty to two counts of encouraging terrorism under section 1 of the [[Terrorism Act 2006]].[^1]
+Oskar Dunn-Koczorowski, 18, of West London, was a member of [[Sonnenkrieg Division]] (SKD), the British neo-Nazi accelerationist organisation proscribed in February 2020. He was sentenced at the [[Old Bailey]] on 18 June 2019 by Judge [[Rebecca Poulet QC]] to an 18-month Detention and Training Order after pleading guilty to two counts of encouraging terrorism under section 1 of the [[Terrorism Act 2006]].[^1]
 
 ### Offences
 
@@ -33,7 +33,7 @@ Judge Rebecca Poulet QC described the content produced by both Dunn-Koczorowski 
 
 ### Sonnenkrieg Division and O9A
 
-Sonnenkrieg Division was founded by [[Andrew Dymock]] following his departure from the [[System Resistance Network]] and incorporated [[Order of Nine Angles]] (O9A) philosophy heavily into its ideology, distinguishing it from its National Action-successor predecessor. Dunn-Koczorowski and Szewczuk were the first SKD members to face prosecution; their sentences preceded SKD's formal proscription, which followed later in 2019.
+Sonnenkrieg Division was founded by [[Andrew Dymock]] following his departure from the [[System Resistance Network]] and incorporated [[Order of Nine Angles]] (O9A) philosophy heavily into its ideology, distinguishing it from its National Action-successor predecessor. Dunn-Koczorowski and Szewczuk were the first SKD members to face prosecution; their sentences preceded SKD's formal proscription, which followed in February 2020.
 
 ### Footnotes
 

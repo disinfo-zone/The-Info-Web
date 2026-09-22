@@ -29,7 +29,7 @@ Twelve counts of possessing documents useful to a terrorist under section 58 of 
 
 Two counts of possessing indecent images of children under the [[Criminal Justice and Immigration Act 2008]].
 
-Vaughan had designed and uploaded his own propaganda images to a neo-Nazi website promoting the then-proscribed [[Sonnenkrieg Division]] (SKD). The documents on his devices included SKD propaganda of his own creation, bomb-making manuals, and a guide to killing. O9A connections run through SKD's ideological framework, which incorporated [[Order of Nine Angles]] (O9A) philosophy; the prosecution did not cite direct O9A membership.
+Vaughan had designed and uploaded his own propaganda images to a neo-Nazi website promoting the [[Sonnenkrieg Division]] (SKD), which was proscribed in February 2020. The documents on his devices included SKD propaganda of his own creation, bomb-making manuals, and a guide to killing. O9A connections run through SKD's ideological framework, which incorporated [[Order of Nine Angles]] (O9A) philosophy; the prosecution did not cite direct O9A membership.
 
 ### Sentencing and Controversy
 

@@ -25,7 +25,7 @@ The night before a crucial vote in Congress on Contra aid, Reagan displayed a gr
 
 ### Evidence of U.S. Government Ties
 
-A 1988 House Judiciary Committee investigation produced evidence suggesting the entire Seal sting was stage-managed by [[Oliver North]] and the CIA as a domestic disinformation operation. Committee chairman William Hughes of [[New Jersey]] told reporters that "subcommittee staff recently called Vaughn's number in Managua, Nicaragua, and spoke to a 'domestic employee' who said the house belonged to a U.S. Embassy employee," and that the house had been "continuously rented" by the United States since 1981.[^1]
+A 1988 [[House Committee on the Judiciary|House Judiciary Committee]] investigation produced evidence suggesting the entire Seal sting was stage-managed by [[Oliver North]] and the CIA as a domestic disinformation operation. Committee chairman William Hughes of [[New Jersey]] told reporters that "subcommittee staff recently called Vaughn's number in Managua, Nicaragua, and spoke to a 'domestic employee' who said the house belonged to a U.S. Embassy employee," and that the house had been "continuously rented" by the United States since 1981.[^1]
 
 Declassified CIA cables supported the idea that Vaughn was a U.S. double agent. In March 1985 the CIA reported that Vaughn "was said to be an associate of Nicaraguan narcotics trafficker Norwing [sic] Meneses Cantarero." [[Norwin Meneses]] at that time was working with the DEA in [[Costa Rica]], assisting the [[Contras]]. Oliver North's daily diaries contained several references to "Freddy Vaughn," including a July 6, 1984, entry: "Freddy coming in late July."[^1]
 
