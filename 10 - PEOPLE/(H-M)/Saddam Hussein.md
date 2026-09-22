@@ -24,7 +24,7 @@ The Ba'ath Party was ousted from government in the same year and returned to pow
 
 In September 1980, Saddam launched an invasion of [[Iran]] following the instability created by the [[Iranian Revolution]]. The eight-year [[Iran-Iraq War]] (1980-1988) killed an estimated half million to one million people. Beginning in 1982, the [[Central Intelligence Agency]] began providing Iraq with satellite intelligence during the conflict. The Reagan administration extended credits, arms, and dual-use technology to Baghdad while simultaneously running the secret arms-for-hostages pipeline to Iran that became the [[Iran-Contra Affair]].[^1]
 
-[[Donald Rumsfeld]] visited Saddam in December 1983 as a special envoy for President [[Ronald Reagan]], cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian forces. The arms and technology transfers to Iraq during the 1980s - including chemical and biological precursors - were later examined in congressional investigations and linked to the [[BNL scandal]] involving the Atlanta branch of [[Banca Nazionale del Lavoro]].[^3]
+[[Donald Rumsfeld]] visited Saddam in December 1983 as a special envoy for President [[Ronald Reagan]], cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian forces. The arms and technology transfers to Iraq during the 1980s - including chemical and biological precursors - were later examined in congressional investigations and linked to the [[BNL scandal]] involving the [[Atlanta]] branch of [[Banca Nazionale del Lavoro]].[^3]
 
 ### Arms Procurement Networks
 

@@ -27,7 +27,7 @@ Ahmad Hassan al-Bakr served as president until [[Saddam Hussein]] forced his res
 
 Iraq invaded [[Iran]] in September 1980 following the instability created by the [[Iranian Revolution]]. The eight-year [[Iran-Iraq War]] (1980-1988) killed an estimated half-million to one million people and devastated the economies of both countries. The [[Reagan administration]] tilted toward Iraq from 1982, providing CIA satellite intelligence, agricultural credits, arms, and dual-use technology to Baghdad - while simultaneously running the covert arms-for-hostages pipeline to Iran that became the [[Iran-Contra Affair]].[^2]
 
-[[Donald Rumsfeld]] visited Saddam Hussein in December 1983 as a special envoy, cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian troops. The financial structure supporting Iraqi arms procurement implicated [[Banca Nazionale del Lavoro]]'s Atlanta branch in what became the [[BNL scandal]]. Chilean arms manufacturer [[Carlos Cardoen]] supplied cluster munitions to Iraq through CIA-connected channels. [[PROMIS]] software was allegedly sold to Iraqi intelligence in backdoor-equipped form.[^3]
+[[Donald Rumsfeld]] visited Saddam Hussein in December 1983 as a special envoy, cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian troops. The financial structure supporting Iraqi arms procurement implicated [[Banca Nazionale del Lavoro]]'s [[Atlanta]] branch in what became the [[BNL scandal]]. Chilean arms manufacturer [[Carlos Cardoen]] supplied cluster munitions to Iraq through CIA-connected channels. [[PROMIS]] software was allegedly sold to Iraqi intelligence in backdoor-equipped form.[^3]
 
 ### Gulf War and Sanctions
 

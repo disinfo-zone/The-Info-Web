@@ -42,7 +42,7 @@ Several ministers - including [[William Waldegrave]] and Nicholas Lyell - were f
 
 ### Connections to Broader Networks
 
-The Arms-to-Iraq affair intersected with the same networks documented in this vault's Iran-Contra materials. [[Carlos Cardoen]]'s cluster munition supplies to Iraq moved through similar government-licensed channels. The BNL scandal's Atlanta loans financed the same Iraqi procurement entities. [[PROMIS]] software was allegedly supplied to Iraqi intelligence through overlapping networks. The British government's knowledge of Iraq's chemical weapons program - including the use of British-supplied precursors - while continuing to support exports was a particularly damaging element of the Scott inquiry's findings.[^1]
+The Arms-to-Iraq affair intersected with the same networks documented in this vault's Iran-Contra materials. [[Carlos Cardoen]]'s cluster munition supplies to Iraq moved through similar government-licensed channels. The BNL scandal's [[Atlanta]] loans financed the same Iraqi procurement entities. [[PROMIS]] software was allegedly supplied to Iraqi intelligence through overlapping networks. The British government's knowledge of Iraq's chemical weapons program - including the use of British-supplied precursors - while continuing to support exports was a particularly damaging element of the Scott inquiry's findings.[^1]
 
 [[Mark Thatcher]], son of former Prime Minister [[Margaret Thatcher]], had separate business dealings in arms-related sectors during the same period. Thatcher was later convicted in South Africa in 2004 for helping finance the [[Equatorial Guinea]] coup attempt organized by South African mercenaries.[^2]
 

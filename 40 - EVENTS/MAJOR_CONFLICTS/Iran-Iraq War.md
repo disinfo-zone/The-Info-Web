@@ -25,7 +25,7 @@ From approximately 1982 onward, the [[Reagan administration]] tilted toward Iraq
 
 [[Donald Rumsfeld]] visited Saddam Hussein in Baghdad in December 1983 as President Reagan's special envoy, a visit documented in State Department cables released decades later. The visit cemented the relationship at a moment when U.S. intelligence was tracking Iraqi chemical weapons use against Iranian troops. The Reagan administration continued to provide intelligence and credits despite this knowledge.
 
-The [[BNL scandal]] - involving the Atlanta branch of [[Banca Nazionale del Lavoro]] - grew out of Iraq's use of loans to purchase weapons and dual-use technology during the war. British arms dealer networks, later examined in the [[Arms-to-Iraq]] affair and the [[Scott Inquiry]], similarly supplied Iraq with equipment during this period.
+The [[BNL scandal]] - involving the [[Atlanta]] branch of [[Banca Nazionale del Lavoro]] - grew out of Iraq's use of loans to purchase weapons and dual-use technology during the war. British arms dealer networks, later examined in the [[Arms-to-Iraq]] affair and the [[Scott Inquiry]], similarly supplied Iraq with equipment during this period.
 
 ### Chemical Weapons
 

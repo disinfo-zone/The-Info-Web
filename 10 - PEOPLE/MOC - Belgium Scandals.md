@@ -26,7 +26,7 @@ Figures involved in Belgian political and criminal scandals, including the Dutro
 | [[Gina Pardaens-Bernaer]] | Gina Pardaens-Bernaer was a Belgian activist and member of the Morkhoven Workgroup who played a crucial role in exposing international child trafficking networks in the 1990s. |
 | [[Harry Jones]] | Harry Jones was an Assistant U.S. |
 | [[Jean Manuel Vuillaume]] | Jean Manuel Vuillaume was a Belgian pornographer who headed Toro Bravo, a child pornography production company based in Bogota, Colombia. |
-| [[Jean-Claude Van Espen]] | Jean-Claude Van Espen was a Belgian judge assigned to the reopened investigation of the Christine Van Hees murder from 1984 after Michel Nihoul was named as a suspect in 1996. |
+| [[Jean-Claude Van Espen]] | Brussels investigating judge of the 1980s and reopened 1997 inquiries into the murder of Christine Van Hees, who suspended the X1 investigators' work in 1997 and was reported to have ties to Nihoul. |
 | [[Jean-Louis Delamotte]] | Jean-Louis Delamotte, a Belgian businessman, served as the manager of Achats Services Commerces (ASCO), a company owned by Michel Nihoul and involved in fraud and vehicle supply during the 1990s. |
 | [[Jean-Marc Connerotte]] | Jean-Marc Connerotte, a magistrate in Neufchâteau, Belgium, served as the initial investigating judge in the Marc Dutroux case following Dutroux's August 13, 1996, arrest for the abduction of Laetitia Delhez. |
 | [[Jean-Michel Nihoul]] | Jean-Michel Nihoul (born 1941) was a Belgian businessman, political fixer, and organized crime figure described as a 'quasi-underworld figure' who operated at the intersection of organized crime, politics, and child trafficking networks during the 1980s and 1990s. |
@@ -43,6 +43,7 @@ Figures involved in Belgian political and criminal scandals, including the Dutro
 | [[Michel Bourlet]] | Michel Bourlet, a prosecutor in Neufchâteau, Belgium, oversaw key aspects of the investigation into Marc Dutroux's child trafficking network following Dutroux's August 13, 1996, arrest. |
 | [[Michel Forgeot]] | Michel Forgeot founded Achats Services Commerces (ASCO), a company involved in fraud and vehicle supply during the 1990s. |
 | [[Michel Lelievre]] | Michel Lelievre, born 1967, met Marc Dutroux in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network. |
+| [[Michel Piro]] | Charleroi bar and small-zoo owner, shot dead in December 1996 after telling many people he had revelations on the Julie and Mélissa case; his wife was convicted of ordering the killing. |
 | [[Paul Vanden Boeynants]] | Paul Vanden Boeynants, born 1919 in Brussels, Belgium, served as Prime Minister from 1978 to 1981 and held earlier roles including Minister of the Interior. |
 | [[Philip White]] | Philip White was the Director of International Affairs for the Criminal Division of the DOJ. |
 | [[Philippe Carpentier]] | Philippe Carpentier, a former Belgian justice ministry official, served as a director in the Ministry of Justice during the 1980s and 1990s, including roles in prison administration. |

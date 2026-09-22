@@ -22,7 +22,7 @@ W. Lee Rawls (Newport, Rhode Island, to December 2010, aged 66) was the [[Depart
 
 ### Thornburgh's Congress Man
 
-In 1990, as Gonzalez prepared a full-scale investigation of the Atlanta branch of BNL, Rawls wrote Thornburgh a briefing memorandum: "Our best attempt to thwart any further congressional inquiry by the House Banking Committee into this case is to have you contact Chairman Gonzalez directly." Gonzalez declined to take the attorney general's call, and Thornburgh wrote to him of his "profound disappointment." In May and July 1991 Rawls corresponded on the department's behalf with the House Judiciary Committee during its INSLAW investigation.[^2][^3]
+In 1990, as Gonzalez prepared a full-scale investigation of the [[Atlanta]] branch of BNL, Rawls wrote Thornburgh a briefing memorandum: "Our best attempt to thwart any further congressional inquiry by the House Banking Committee into this case is to have you contact Chairman Gonzalez directly." Gonzalez declined to take the attorney general's call, and Thornburgh wrote to him of his "profound disappointment." In May and July 1991 Rawls corresponded on the department's behalf with the House Judiciary Committee during its INSLAW investigation.[^2][^3]
 
 ### Later Career
 

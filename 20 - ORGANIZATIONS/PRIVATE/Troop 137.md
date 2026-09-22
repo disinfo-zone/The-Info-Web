@@ -25,7 +25,7 @@ Woodall had also operated an escort service that initially used adult prostitute
 
 ### Connections to Broader Networks
 
-An FBI memo from February 1977 confirmed the [[Delta Project]] connection to Troop 137 in New Orleans and noted that Norman's conviction in December 1976 ended an ongoing investigation into the Delta Project, which had continued to operate under [[Phillip Paske]]. A letter sent by [[Cladius Vermilye]] to Halvorsen personally inviting him to visit [[Father Bud's Boys Farm]] in Tennessee established the link between Troop 137 and the wider interlinked network of operations. Don Berlage, a district attorney in Charlevoix County, Michigan, was also connected to the case through the broader network.[^1]
+An FBI memo from February 1977 confirmed the [[Delta Project]] connection to Troop 137 in New Orleans and noted that Norman's conviction in December 1976 ended an ongoing investigation into the Delta Project, which had continued to operate under [[Phillip Paske]]. A letter sent by [[Claudius Vermilye]] to Halvorsen personally inviting him to visit [[Father Bud's Boys Farm]] in Tennessee established the link between Troop 137 and the wider interlinked network of operations. Don Berlage, a district attorney in Charlevoix County, Michigan, was also connected to the case through the broader network.[^1]
 
 ### Footnotes
 [^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.

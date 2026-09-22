@@ -29,7 +29,7 @@ People who need further categorization.
 | [[Bruno Ristau]] | Ristau had a long career with the DOJ, serving in the Internal Security Division and Civil Division from 1958 to 1963, and as Director of the Office of Foreign Litigation from 1963 to 1981. |
 | [[Charles Rehling]] | Charles Rehling leased an apartment in Homewood, Illinois, to John David Norman under the alias Steven Gurwell. |
 | [[Chou En-lai]] | Chou En-lai was the first Premier of the People's Republic of China, serving from 1949 until his death in 1976. |
-| [[Cladius Vermilye]] | Cladius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey. |
+| [[Claudius Vermilye]] | Claudius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey. |
 | [[Cynthia McNamara]] | American citizen jailed in Peru on charges of aiding the Shining Path guerrilla group, whose release was secured by Ari Ben-Menashe at the request of the U.S. consul general. |
 | [[Dave Beavers]] | Beavers, a fifteen-year veteran of the sheriff's department, was ultimately forced out of the department and retired on stress leave. |
 | [[David Cram]] | David Cram was a 20-year-old employee of John Wayne Gacy's construction company, PDM, and began living with Gacy at his Norwood Park house in May 1976. |

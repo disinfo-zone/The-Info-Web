@@ -1251,7 +1251,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | --- | --- |
 | [[Cathy O'Brien]] | Self-described victim of Project Monarch, an alleged MKULTRA sub-project specializing in trauma-based multiple personality programming, whose 1995 book Trance Formation of America detailed claims of government-sanctioned mind control and ri |
 | [[Charles Rehling]] | Charles Rehling leased an apartment in Homewood, Illinois, to John David Norman under the alias Steven Gurwell. |
-| [[Cladius Vermilye]] | Cladius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey. |
+| [[Claudius Vermilye]] | Claudius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey. |
 | [[David Cram]] | David Cram was a 20-year-old employee of John Wayne Gacy's construction company, PDM, and began living with Gacy at his Norwood Park house in May 1976. |
 | [[David Owen Brooks]] | David Owen Brooks (born February 14, 1955) functioned as a teenage accomplice to serial killer Dean Corll in the Dean Corll Murders from 1970 to 1973. |
 | [[David Smith]] | David Smith was a former BBC chauffeur and convicted pedophile with 22 prior convictions against young boys, the earliest of which dated back to 1966. |

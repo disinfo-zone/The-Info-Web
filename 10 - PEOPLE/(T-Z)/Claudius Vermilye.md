@@ -1,13 +1,16 @@
 ---
+aliases:
+  - "Cladius Vermilye"
+  - "Father Bud"
 category: "Crime & Abuse Networks"
 tags:
   - Person
-summary: "Cladius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey."
+summary: "Claudius Vermilye established Father Bud's Boys Farm as a rural foster home incorporated under The Church of New Revelation in New Jersey."
 ---
 
-Rev. Cladius Vermilye was an ordained Episcopal priest known by the alias Father Bud. He owned and operated [[Father Bud's Boys Farm]] in Monteagle, Tennessee, as a foster home for boys. Juvenile delinquents were sent to the farm by youth corrections and welfare agencies in Tennessee.[^1]
+Rev. Claudius Vermilye was an ordained Episcopal priest known by the alias Father Bud. He owned and operated [[Father Bud's Boys Farm]] in Monteagle, Tennessee, as a foster home for boys. Juvenile delinquents were sent to the farm by youth corrections and welfare agencies in Tennessee.[^1]
 
-Cladius Vermilye established [[Father Bud's Boys Farm]] as a rural foster home incorporated under [[The Church of New Revelation]] in [[New Jersey]]. The farm served as a placement for troubled boys from state agencies, providing a supposed rehabilitative environment on his property. Vermilye, as the ordained Episcopal priest and owner, positioned the operation as a legitimate youth welfare program.[^1]
+Claudius Vermilye established [[Father Bud's Boys Farm]] as a rural foster home incorporated under [[The Church of New Revelation]] in [[New Jersey]]. The farm served as a placement for troubled boys from state agencies, providing a supposed rehabilitative environment on his property. Vermilye, as the ordained Episcopal priest and owner, positioned the operation as a legitimate youth welfare program.[^1]
 
 ### Criminal Activities
 Boys at [[Father Bud's Boys Farm]] were supplied with drugs and alcohol to make them pliant for participation in orgies. These orgies were filmed and photographed, with the materials distributed to a mailing list of sponsors. Sponsors could pay additional fees to arrange personal visits to the farm for direct access to the boys.[^1]

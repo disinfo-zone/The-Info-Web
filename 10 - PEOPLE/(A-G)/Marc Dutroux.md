@@ -53,7 +53,7 @@ Dutroux boasted of Slovakian contacts for easy abductions. His 2004 life sentenc
 
 The X-Dossier, compiled by Judge Connerotte's team, contained testimonies from eight victims alleging elite abuse networks. X1 (Regina Louf) described childhood prostitution by grandmother [[Cecile Beernaert]] at Knokke-Heist villas near Royal Zoute Golf Club, frequented by Paul Vanden Boeynants and Counts Leopold and Maurice.
 
-X1 claimed witnessing Christine Van Hees' 1984 murder at a mushroom farm, details matching police files like ligature and burns. Judge [[Jean-Claude Van Espen]], assigned to Van Hees' case, was Nihoul's business partner and delayed recusal until 1998. X1 identified Carine Dellaert's 1983 murder, autopsy confirming childbirth.
+X1 claimed witnessing Christine Van Hees' 1984 murder at a mushroom farm, details matching police files like ligature and burns. Judge [[Jean-Claude Van Espen]], who had directed the 1980s Van Hees investigation and was later reported to have had close ties to Nihoul, suspended the Neufchâteau team's work on the reopened file in June 1997. X1 identified Carine Dellaert's 1983 murder, autopsy confirming childbirth.
 
 X1 detailed hunts at Lippens' estates and snuff films at ASCO Industries factory owned by [[Roger Boas]]. Boas linked to [[Parti Social Chretien]] (CSP) elites like Paul Vanden Boeynants and Martens. X1 described parties with blackmail, escalating to violence. X2 corroborated, naming Lippens, Jean-Paul Dumont, and de Bonvoisin at sadomasochist orgies. X2 attended hunts near Chimay castle. X3 alleged royal involvement with Baudouin and Albert. X4 identified X1's friends in porn films. Investigations reopened cold cases, but team accused of fabrication and replaced in 1997. X-Dossier leaked to journalists in 1999 book, leading to King Albert's lawsuit.
 
@@ -67,7 +67,7 @@ Dutroux's 1996 arrest was not his first: on April 26, 1989 he was convicted of a
 
 ### Witness X1 Corroboration and the De Baets Team
 
-The investigative team under Detective [[René De Baets]] conducted extensive interviews with Regina Louf (Witness X1) and corroborated significant portions of her testimony through independent means before being removed from the case after pursuing leads toward prominent individuals; investigating judge Van Espen subsequently dismissed Louf's testimony and terminated the network investigation, which De Baets and his colleagues maintained was a political decision.[^2]
+The investigative team under the gendarme [[Patrick De Baets]] conducted extensive interviews with Regina Louf (Witness X1) and corroborated significant portions of her testimony through independent means before being removed from the case after pursuing leads toward prominent individuals; Judge Jacques Langlois ordered a rereading of all the related files in the summer of 1997, and on April 23, 1998, the prosecutors-general closed them, a course which De Baets and his colleagues maintained was a political decision.[^2][^4]
 
 ### Gunderson, Gosch, and U.S. Parallels
 
@@ -77,3 +77,4 @@ Researchers including [[Ted Gunderson]], a former head of the [[Federal Bureau o
 [^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
 [^2]: "Paedophile Marc Dutroux and the Murders That United a Divided Belgium," *Euronews*, October 27, 2019; *Dutroux* trial verdict, Arlon Assize Court, June 17, 2004; U.S. Office of Justice Programs, "Exhausting Whiteness: The 1996-98 Belgian Parliamentary Inquiry," 2004.
 [^3]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996; Ted Gunderson investigative reports.
+[^4]: Sénat de Belgique. Proposition déposée par M. Frans Lozie, Doc. 2-563/1, October 9, 2000, développements.

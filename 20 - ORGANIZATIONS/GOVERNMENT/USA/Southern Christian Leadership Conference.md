@@ -20,7 +20,7 @@ The Southern Christian Leadership Conference (SCLC) was a [[United States|U.S.]]
 
 ### Founding and Structure
 
-The SCLC was organized at the First Negro Baptist Church in Atlanta on January 10-11, 1957, drawing together Black clergy from across the South who had participated in or supported the Montgomery Boycott. The founding meeting brought together approximately sixty ministers from twenty-nine communities in ten states.
+The SCLC was organized at the First Negro Baptist Church in [[Atlanta]] on January 10-11, 1957, drawing together Black clergy from across the South who had participated in or supported the Montgomery Boycott. The founding meeting brought together approximately sixty ministers from twenty-nine communities in ten states.
 
 The organization's structure was deliberately clerical: local chapters were organized through Black churches, which provided institutional stability, community trust, and the moral authority that secular organizations lacked. The church-based structure also provided a degree of legal protection and public legitimacy that made the organization harder to suppress than explicitly political formations. The SCLC served as an umbrella coordinating body; local affiliates maintained their own operations while coordinating major campaigns with national leadership.[^1]
 
