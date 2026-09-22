@@ -16,7 +16,7 @@ Under the [[Anastasio Somoza|Somoza]] regime, Meneses operated freely in Managua
 
 ### Post-Revolution
 
-After the [[Sandinistas]] were voted out in 1990, Meneses moved back to his mansion on the outskirts of Managua and began reclaiming $12 million in confiscated holdings. In November 1991, Nicaraguan police raided his drug ring, seizing 725 kilos of [[cocaine]]. Meneses was convicted and sentenced to thirty years, serving his time at Tipitapa Prison outside Managua.[^3]
+After the [[Sandinistas]] were voted out in 1990, Meneses moved back to his mansion on the outskirts of Managua and began reclaiming $12 million in confiscated holdings. In November 1991, Nicaraguan police raided his drug ring, seizing 725 kilos of [[Cocaine]]. Meneses was convicted and sentenced to thirty years, serving his time at Tipitapa Prison outside Managua.[^3]
 
 ### Dark Alliance Interviews
 

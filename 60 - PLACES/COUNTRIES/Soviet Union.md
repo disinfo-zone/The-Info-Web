@@ -28,7 +28,7 @@ U.S. intelligence agencies, including the [[Defense Intelligence Agency|DIA]], e
 
 ### Targets of U.S. Remote Viewing
 
-The Soviet Union and its military installations were frequent targets for U.S. remote viewing programs, including the [[STARGATE PROJECT|Grill Flame]] unit. Notable successes included [[Joe McMoneagle]]'s remote viewing of a Soviet Typhoon-class submarine under construction and a Soviet surveillance bug in a U.S. embassy.[^1]
+The Soviet Union and its military installations were frequent targets for U.S. remote viewing programs, including the [[Stargate Project|Grill Flame]] unit. Notable successes included [[Joe McMoneagle]]'s remote viewing of a Soviet Typhoon-class submarine under construction and a Soviet surveillance bug in a U.S. embassy.[^1]
 
 ### Historical Events
 

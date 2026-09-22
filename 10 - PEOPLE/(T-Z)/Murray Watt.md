@@ -12,7 +12,7 @@ alias:
 updated: 2026-09-22
 ---
 
-Murray B. "Scotty" Watt was a U.S. Army Lieutenant Colonel and the first commander of the [[STARGATE PROJECT|Gondola Wish]] (later Grill Flame) remote viewing unit. He was two decades older than [[Frederick Atwater|Skip Atwater]], described as a tall and husky man with a bulbous nose and a Boston accent. Watt had a reputation for a volcanic temper, which was said to have hindered his career progression after an incident in Panama where he struck a fellow officer. He was chosen for this obscure and potentially controversial assignment because it was felt he had "little to lose."[^1]
+Murray B. "Scotty" Watt was a U.S. Army Lieutenant Colonel and the first commander of the [[Stargate Project|Gondola Wish]] (later Grill Flame) remote viewing unit. He was two decades older than [[Frederick Atwater|Skip Atwater]], described as a tall and husky man with a bulbous nose and a Boston accent. Watt had a reputation for a volcanic temper, which was said to have hindered his career progression after an incident in Panama where he struck a fellow officer. He was chosen for this obscure and potentially controversial assignment because it was felt he had "little to lose."[^1]
 
 Watt, along with Atwater, was responsible for selecting and training the initial remote viewers for the program. He handled the bureaucratic aspects of the unit, maintaining contact with the network of Grill Flame customers and ensuring the unit's operations adhered to necessary protocols. He was concerned about maintaining the appearance of scientific rigor and avoiding any perception of cheating within the program.[^1]
 

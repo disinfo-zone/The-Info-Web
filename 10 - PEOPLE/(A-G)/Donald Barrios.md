@@ -19,7 +19,7 @@ Donald Barrios was a wealthy former insurance broker from Managua living in Miam
 
 ### Introducing Meneses to Blandón
 
-[[Norwin Meneses]] was introduced to [[Danilo Blandon|Danilo Blandón]] through Barrios. After Meneses proposed that Blandón sell [[cocaine]] in [[Los Angeles]] to raise money for the [[Contras]], Barrios facilitated the initial connection. He later sent Blandón to fetch Meneses from LAX when Meneses first arrived in California in 1980 or 1981.[^1][^2]
+[[Norwin Meneses]] was introduced to [[Danilo Blandon|Danilo Blandón]] through Barrios. After Meneses proposed that Blandón sell [[Cocaine]] in [[Los Angeles]] to raise money for the [[Contras]], Barrios facilitated the initial connection. He later sent Blandón to fetch Meneses from LAX when Meneses first arrived in California in 1980 or 1981.[^1][^2]
 
 ### Business Activities in Miami
 

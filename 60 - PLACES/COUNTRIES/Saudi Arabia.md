@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Saudi Arabia was a source of funding for the Contra war that supplemented the cocaine trafficking proceeds and Oliver North's illegal arms sales to Iran.
 ---
-Saudi Arabia was a source of funding for the [[Contras|Contra]] war that supplemented the [[cocaine]] trafficking proceeds and [[Oliver North]]'s illegal arms sales to [[Iran]]. The Saudi government contributed millions to the Contra cause at the [[Ronald Reagan|Reagan]] administration's request, part of the parallel funding streams that kept the war alive after Congress cut off official aid.[^1]
+Saudi Arabia was a source of funding for the [[Contras|Contra]] war that supplemented the [[Cocaine]] trafficking proceeds and [[Oliver North]]'s illegal arms sales to [[Iran]]. The Saudi government contributed millions to the Contra cause at the [[Ronald Reagan|Reagan]] administration's request, part of the parallel funding streams that kept the war alive after Congress cut off official aid.[^1]
 
 ### Third-Party Funding
 

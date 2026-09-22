@@ -1,4 +1,6 @@
 ﻿---
+aliases:
+  - Federal Reserve
 category: "Intelligence & Government"
 tags:
   - Organization

@@ -17,7 +17,7 @@ summary: "Smokable, mass-producible form of cocaine that transformed the drug fr
 start: 1974-01-01
 location: "United States"
 ---
-Crack is a smokable form of [[cocaine]] created by converting cocaine hydrochloride powder back into its freebase form.[^1] The invention of crack transformed cocaine from an expensive luxury drug into a mass-market commodity that devastated [[South Central Los Angeles]] and other American inner cities in the 1980s.
+Crack is a smokable form of [[Cocaine]] created by converting cocaine hydrochloride powder back into its freebase form.[^1] The invention of crack transformed cocaine from an expensive luxury drug into a mass-market commodity that devastated [[South Central Los Angeles]] and other American inner cities in the 1980s.
 
 ### Origins of Cocaine Smoking
 

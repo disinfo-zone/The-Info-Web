@@ -7,6 +7,38 @@ tags:
   - PrivateMilitaryContractors
 summary: "Career CIA operations officer who headed the Directorate of Operations from 2002 to 2004, worked for ArmorGroup International, and returned as the agency's Deputy Director in 2006."
 born: 1951-08-22
+relations:
+  - type: member_of
+    with: "[[United States Marine Corps]]"
+    start: 1976
+    role: "officer"
+    fn: 1
+  - type: employed_by
+    with: "[[Central Intelligence Agency]]"
+    start: 1981-01
+    role: "operations officer; Deputy Director for Operations 2002-2004"
+    fn: 1
+  - type: employed_by
+    with: "[[ArmorGroup International]]"
+    start: 2005-04
+    end: 2006-06
+    role: "chief operating officer"
+    fn: 1
+  - type: director_of
+    with: "[[ArmorGroup International]]"
+    start: 2005-11
+    end: 2006-06
+    fn: 1
+  - type: employed_by
+    with: "[[Central Intelligence Agency]]"
+    start: 2006-07-24
+    role: "Deputy Director"
+    fn: 1
+  - type: director_of
+    with: "[[T-Mobile US]]"
+    end: 2021-06-22
+    role: "national security director"
+    fn: 2
 created: 2026-09-22
 updated: 2026-09-22
 ---

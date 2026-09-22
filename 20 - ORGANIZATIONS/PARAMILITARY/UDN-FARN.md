@@ -4,7 +4,7 @@ aliases:
   - UDN-FARN
   - Union Democrática Nicaragüense
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Paramilitary"
 tags:
   - Organization
@@ -33,7 +33,7 @@ The group made the first donation of military supplies to the Contra cause in fa
 
 The CIA pressured UDN-FARN to merge with [[Enrique Bermudez|Bermúdez]]'s [[Legion of September 15]]. The Chamorro brothers resisted, regarding many of the ex-[[Nicaraguan National Guard|National Guard]] men as war criminals who could never win popular support. "The Legion was entirely composed of ex-National Guards. Naturally one couldn't make a big splash with that in Nicaragua," said UDN-FARN commander William Baltodano Herrera.
 
-The CIA eventually forced the merger by having their Honduran allies withdraw support from the Chamorros and back Bermúdez instead. In August 1981, an Argentine military officer watched as Bermúdez signed a one-paragraph document merging the two groups into the FDN. The Chamorro brothers boycotted the meeting.
+The CIA eventually forced the merger by having their Honduran allies withdraw support from the Chamorros and back Bermúdez instead. In August 1981, an Argentine military officer watched as Bermúdez signed a one-paragraph document merging the two groups into the FDN. The Chamorro brothers boycotted the meeting. The CIA inspector general's chronology, drawn from station cables, records that the Nicaraguan Democratic Union agreed in principle with the ADREN and MISURASATA in May 1981 to combine, that the FDN was established in September 1981, and that the merger of the Union and the ADREN was completed in early 1982.[^5]
 
 ### After the FDN
 
@@ -53,3 +53,4 @@ When Fernando Chamorro and Edmundo Chamorro broke from the FDN in September 1982
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Glossary of Organizations and Locations
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom"
+[^5]: Central Intelligence Agency, Office of Inspector General. *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States,* Volume II: *The Contra Story,* October 8, 1998, section on organizations. https://irp.fas.org/cia/product/cocaine2/

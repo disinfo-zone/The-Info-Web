@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Bolivia was a primary source country for the cocaine that flowed through the Contra-connected trafficking networks, with the politically connected Suarez family supplying the Blandón-Meneses drug ring.
 ---
-Bolivia was a primary source country for the [[cocaine]] that flowed through the [[Contras|Contra]]-connected trafficking networks, with the politically connected Suarez family supplying the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] drug ring. A 1990 [[DEA]] report stated that the ring was "a criminal organization that operates internationally from [[Colombia]] and Bolivia, through the [[Bahamas]], [[Costa Rica]], or [[Nicaragua]] to the [[United States]]." The Bolivian cocaine was coming into [[Miami]] before being distributed to the West Coast.[^1]
+Bolivia was a primary source country for the [[Cocaine]] that flowed through the [[Contras|Contra]]-connected trafficking networks, with the politically connected Suarez family supplying the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] drug ring. A 1990 [[DEA]] report stated that the ring was "a criminal organization that operates internationally from [[Colombia]] and Bolivia, through the [[Bahamas]], [[Costa Rica]], or [[Nicaragua]] to the [[United States]]." The Bolivian cocaine was coming into [[Miami]] before being distributed to the West Coast.[^1]
 
 ### The Suarez Connection
 

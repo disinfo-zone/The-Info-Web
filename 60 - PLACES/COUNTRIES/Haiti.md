@@ -10,7 +10,7 @@ Haiti was where [[George Morales]] kept a C-47 cargo plane that he donated to th
 
 ### Caribbean Trafficking Routes
 
-Haiti's location in the [[Caribbean]] made it part of the broader network of airfields and transit points used for moving weapons and [[cocaine]] between [[South America]], [[Central America]], and the [[United States]]. Morales's use of a plane stored in Haiti for Contra operations illustrated how the covert war's logistics infrastructure extended throughout the Caribbean basin, overlapping with established drug trafficking routes.[^2]
+Haiti's location in the [[Caribbean]] made it part of the broader network of airfields and transit points used for moving weapons and [[Cocaine]] between [[South America]], [[Central America]], and the [[United States]]. Morales's use of a plane stored in Haiti for Contra operations illustrated how the covert war's logistics infrastructure extended throughout the Caribbean basin, overlapping with established drug trafficking routes.[^2]
 
 ### Footnotes
 

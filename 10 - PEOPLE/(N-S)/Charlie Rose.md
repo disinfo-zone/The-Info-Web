@@ -22,7 +22,7 @@ location: "North Carolina"
 summary: "North Carolina congressman on the House intelligence committee, briefed on the CIA and Army remote-viewing programs from 1978 to 1981, who pressed for their funding and later on the Finders case."
 ---
 
-Charles Grandison Rose III (August 10, 1939 - September 4, 2012) was a Democratic congressman who represented [[North Carolina]]'s 7th congressional district for twenty-four years, from 1973 to 1997. He became a vocal public advocate for the [[STARGATE PROJECT|Grill Flame]] remote viewing program and later, alongside Rep. [[Tom Lewis]] (R-FL), applied congressional pressure that contributed to the Department of Justice reopening its inquiry into [[The Finders]] case.[^1][^2]
+Charles Grandison Rose III (August 10, 1939 - September 4, 2012) was a Democratic congressman who represented [[North Carolina]]'s 7th congressional district for twenty-four years, from 1973 to 1997. He became a vocal public advocate for the [[Stargate Project|Grill Flame]] remote viewing program and later, alongside Rep. [[Tom Lewis]] (R-FL), applied congressional pressure that contributed to the Department of Justice reopening its inquiry into [[The Finders]] case.[^1][^2]
 
 ### Background
 

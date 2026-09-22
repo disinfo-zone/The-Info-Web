@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Carlos Amador was a pilot who planned to fly into Ilopango Air Base to pick up cocaine from Hangar No. 4 and transport it to Miami, according to a DEA cable.
 ---
-Carlos Amador was a pilot who planned to fly into [[Ilopango Airbase]] to pick up [[cocaine]] from Hangar No. 4 and transport it to [[Miami]], according to a March 1986 [[DEA]] cable. Amador's planned flight provided direct evidence of the drug trafficking operation at the base where [[Felix Rodriguez]] and [[Oliver North]] managed the [[Contras|Contra]] resupply effort.[^1]
+Carlos Amador was a pilot who planned to fly into [[Ilopango Airbase]] to pick up [[Cocaine]] from Hangar No. 4 and transport it to [[Miami]], according to a March 1986 [[DEA]] cable. Amador's planned flight provided direct evidence of the drug trafficking operation at the base where [[Felix Rodriguez]] and [[Oliver North]] managed the [[Contras|Contra]] resupply effort.[^1]
 
 ### The Ilopango Connection
 

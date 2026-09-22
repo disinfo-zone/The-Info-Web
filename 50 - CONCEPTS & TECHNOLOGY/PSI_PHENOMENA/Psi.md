@@ -10,7 +10,7 @@ category: "Psi Phenomenon"
 summary: "Psi is a general term in Parapsychology for psychic phenomena, encompassing abilities such as Extrasensory Perception (ESP) and Psychokinesis (PK)."
 ---
 
-[[Psi]] is a general term in [[Parapsychology]] for psychic phenomena, encompassing abilities such as [[Extrasensory Perception|extrasensory perception]] (ESP) and [[Psychokinesis|psychokinesis]] (PK). The concept of psi has been explored throughout history, from ancient shamans and prophets to modern scientific research. In the context of the *Remote Viewers* narrative, psi is the underlying phenomenon investigated by programs like the [[STARGATE PROJECT|Stargate Project]] for military and intelligence applications.[^1]
+[[Psi]] is a general term in [[Parapsychology]] for psychic phenomena, encompassing abilities such as [[Extrasensory Perception|extrasensory perception]] (ESP) and [[Psychokinesis|psychokinesis]] (PK). The concept of psi has been explored throughout history, from ancient shamans and prophets to modern scientific research. In the context of the *Remote Viewers* narrative, psi is the underlying phenomenon investigated by programs like the [[Stargate Project|Stargate Project]] for military and intelligence applications.[^1]
 
 ### Manifestations of Psi
 
@@ -28,7 +28,7 @@ Psi can manifest in various forms, including:
 
 Scientific investigation into psi has a long and controversial history. Early psychical research, which emerged from the study of hypnosis, later transformed into parapsychology, seeking to apply rigorous scientific methods to the study of psi. Despite efforts by researchers like [[J. B. Rhine]] and organizations like the [[Parapsychological Association]], psi research has largely remained outside mainstream science, facing skepticism and the "giggle factor" due to the lack of tangible, repeatable results and real-world applications that could convince the broader scientific community.[^1]
 
-However, government interest in psi, particularly from the [[Soviet Union|Soviet Union]] and the [[United States|U.S.]], led to covert research programs like the [[STARGATE PROJECT|Stargate Project]], driven by concerns about a potential "[[Psi Gap|psi gap]]." These programs explored the operational utility of psi for intelligence gathering, despite the scientific controversies.[^1]
+However, government interest in psi, particularly from the [[Soviet Union|Soviet Union]] and the [[United States|U.S.]], led to covert research programs like the Stargate Project, driven by concerns about a potential "[[Psi Gap|psi gap]]." These programs explored the operational utility of psi for intelligence gathering, despite the scientific controversies.[^1]
 
 ---
 

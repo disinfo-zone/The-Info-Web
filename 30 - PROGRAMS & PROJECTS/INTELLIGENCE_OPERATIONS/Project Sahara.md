@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Project Sahara was the code name for LAPD detective Guzzetta's investigation into the Blandón cocaine network, which uncovered the Contra drug connection before being shut down.
 ---
-Project Sahara was the code name used by LAPD detective [[Steve Polak|Steve Polak Guzzetta]] for his investigation into the [[Danilo Blandon|Blandón]] [[cocaine]] network, which uncovered the Contra drug connection before being shut down. Guzzetta chose the name because he figured the Torres brothers could help "dry up" the cocaine supply in [[South Central Los Angeles|South Central L.A.]].[^1]
+Project Sahara was the code name used by LAPD detective [[Steve Polak|Steve Polak Guzzetta]] for his investigation into the [[Danilo Blandon|Blandón]] [[Cocaine]] network, which uncovered the Contra drug connection before being shut down. Guzzetta chose the name because he figured the Torres brothers could help "dry up" the cocaine supply in [[South Central Los Angeles|South Central L.A.]].[^1]
 
 ### The Investigation
 

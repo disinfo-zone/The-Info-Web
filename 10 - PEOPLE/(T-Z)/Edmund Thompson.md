@@ -17,7 +17,7 @@ summary: "Army assistant chief of staff for intelligence from 1977 to 1981 who c
 location: "Washington, D.C."
 ---
 
-Major General Edmund R. "Ed" Thompson served as the [[U.S. Army]] Assistant Chief of Staff for Intelligence (ACSI) from 1977 to 1981. He was a key figure in the establishment and early support of the [[STARGATE PROJECT|Stargate Project]], then codenamed Gondola Wish and later Grill Flame, having developed a personal interest in [[Psi|psi]] phenomena after reading [[Arthur Koestler]]'s pro-paranormal book *The Roots of Coincidence*.[^1]
+Major General Edmund R. "Ed" Thompson served as the [[U.S. Army]] Assistant Chief of Staff for Intelligence (ACSI) from 1977 to 1981. He was a key figure in the establishment and early support of the [[Stargate Project|Stargate Project]], then codenamed Gondola Wish and later Grill Flame, having developed a personal interest in [[Psi|psi]] phenomena after reading [[Arthur Koestler]]'s pro-paranormal book *The Roots of Coincidence*.[^1]
 
 Thompson approved [[Frederick Atwater|Skip Atwater]]'s proposal to assemble a remote viewing team at [[Fort Meade]], seeing it as an opportunity to involve the Army in psychic spying without relying too heavily on the [[Central Intelligence Agency]] or [[Stanford Research Institute]]. He provided initial funding, assigned Major [[Murray Watt|Scotty Watt]] to lead the unit alongside Atwater, and later augmented the unit's resources by increasing the budget and allocating positions for three full-time remote viewers. His support was crucial in the project's early survival despite the skepticism of many within the military and intelligence communities, including his successor [[William Odom]].[^1]
 

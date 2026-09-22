@@ -5,7 +5,7 @@ tags:
   - contra-war
 summary: Arkansas, particularly the small town of Mena, served as the base of operations for CIA-DEA contract agent Barry Seal's massive cocaine and weapons smuggling operation during the early to mid-1980s.
 ---
-Arkansas, particularly the small town of Mena, served as the base of operations for CIA-[[DEA]] contract agent Barry Seal's massive [[cocaine]] and weapons smuggling operation during the early to mid-1980s. The Mena operation represented one of the clearest intersections between U.S. intelligence activities and drug trafficking in the domestic [[United States]].[^1]
+Arkansas, particularly the small town of Mena, served as the base of operations for CIA-[[DEA]] contract agent Barry Seal's massive [[Cocaine]] and weapons smuggling operation during the early to mid-1980s. The Mena operation represented one of the clearest intersections between U.S. intelligence activities and drug trafficking in the domestic [[United States]].[^1]
 
 ### Barry Seal at Mena
 

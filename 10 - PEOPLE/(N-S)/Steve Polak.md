@@ -9,7 +9,7 @@ tags:
   - Dark_Alliance_Investigation
 summary: LAPD narcotics detective who patrolled South Central Los Angeles from the earliest days of crack cocaine and developed an intense personal vendetta against Ricky Ross, ultimately planting a kilo of cocaine to frame him.
 ---
-Steve Polak was an [[LAPD]] narcotics detective who worked the streets of [[South Central Los Angeles|South Central L.A.]] from the earliest days of [[Crack Cocaine|crack]] in 1982. He became the most aggressive member of the Freeway Rick Task Force and ultimately planted a kilo of [[cocaine]] to frame [[Ricky Ross|"Freeway" Ricky Ross]].[^2]
+Steve Polak was an [[LAPD]] narcotics detective who worked the streets of [[South Central Los Angeles|South Central L.A.]] from the earliest days of [[Crack Cocaine|crack]] in 1982. He became the most aggressive member of the Freeway Rick Task Force and ultimately planted a kilo of [[Cocaine]] to frame [[Ricky Ross|"Freeway" Ricky Ross]].[^2]
 
 ### Early Career
 

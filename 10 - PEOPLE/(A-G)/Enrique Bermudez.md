@@ -23,7 +23,7 @@ Enrique Bermúdez "Commandante 380" was the supreme military commander of the [[
 
 ### Contra Leadership
 
-Bermúdez commanded the FDN throughout the Contra war and was a close friend of the [[Norwin Meneses|Meneses]] family. He reportedly trafficked in arms and [[cocaine]] with Norwin Meneses. [[Dennis Ainsworth]], a [[San Francisco]] Contra supporter, told the [[Federal Bureau of Investigation]] in 1987 that he had discovered Meneses and Bermúdez were dealing arms and drugs together.[^1]
+Bermúdez commanded the FDN throughout the Contra war and was a close friend of the [[Norwin Meneses|Meneses]] family. He reportedly trafficked in arms and [[Cocaine]] with Norwin Meneses. [[Dennis Ainsworth]], a [[San Francisco]] Contra supporter, told the [[Federal Bureau of Investigation]] in 1987 that he had discovered Meneses and Bermúdez were dealing arms and drugs together.[^1]
 
 ### Earlier Career
 

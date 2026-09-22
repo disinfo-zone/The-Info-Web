@@ -23,7 +23,7 @@ Ronald Reagan was the 40th President of the [[United States]], serving from 1981
 
 Reagan authorized [[Central Intelligence Agency]] operations in [[Nicaragua]] and made the Contra war a central pillar of his foreign policy.[^2] He signed Executive Order 12333 in 1981, the same week he authorized CIA operations in Nicaragua, establishing rules that gave the CIA veto power over Justice Department crimes reporting proposals. This framework led to the secret 1982 agreement between CIA director [[William J. Casey]] and Attorney General [[William French Smith]] that exempted CIA assets from drug crimes reporting.[^3]
 
-Reagan's administration simultaneously prosecuted the "War on Drugs" while the CIA's Contra army was connected to [[cocaine]] trafficking in American cities. The passage of anti-crack laws during Reagan's presidency packed prisons with thousands of young black dealers while the cocaine importers who supplied them walked free.[^4]
+Reagan's administration simultaneously prosecuted the "War on Drugs" while the CIA's Contra army was connected to [[Cocaine]] trafficking in American cities. The passage of anti-crack laws during Reagan's presidency packed prisons with thousands of young black dealers while the cocaine importers who supplied them walked free.[^4]
 
 ### Footnotes
 

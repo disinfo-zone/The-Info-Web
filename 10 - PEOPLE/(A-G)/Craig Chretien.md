@@ -18,9 +18,9 @@ Craig Chretien was a [[DEA]] Special Agent in Charge of the National City region
 
 ### Meeting with Gary Webb
 
-On October 19, 1995, Chretien hosted Webb in a room with six DEA agents, including [[Danilo Blandon|Danilo BlandÃ³n]]'s handlers Chuck Jones and Judy Gustafson. Chretien opened by telling Webb that his reporting was getting into "rather sensitive areas" and was endangering undercover operations and putting agents' families at risk. He asked Webb to leave out the fact that BlandÃ³n was working for the DEA. "Your story can just go up to a certain point and stop, can't it?" Chretien asked.[^1]
+On October 19, 1995, Chretien hosted Webb in a room with six DEA agents, including [[Danilo Blandon|Danilo Blandón]]'s handlers Chuck Jones and Judy Gustafson. Chretien opened by telling Webb that his reporting was getting into "rather sensitive areas" and was endangering undercover operations and putting agents' families at risk. He asked Webb to leave out the fact that Blandón was working for the DEA. "Your story can just go up to a certain point and stop, can't it?" Chretien asked.[^1]
 
-When Webb mentioned that his story was about BlandÃ³n, [[Norwin Meneses]], the [[Contras]], and [[Ricky Ross]], Chretien dismissed the Contra connection: "That whole Central American thing. I was down there. You heard all sorts of things. There was never any proof that the Contras were dealing drugs." Chretien proposed that the DEA might help Webb obtain information on Meneses if Webb would focus his story on Meneses rather than BlandÃ³n and omit "some other things."[^1]
+When Webb mentioned that his story was about Blandón, [[Norwin Meneses]], the [[Contras]], and [[Ricky Ross]], Chretien dismissed the Contra connection: "That whole Central American thing. I was down there. You heard all sorts of things. There was never any proof that the Contras were dealing drugs." Chretien proposed that the DEA might help Webb obtain information on Meneses if Webb would focus his story on Meneses rather than Blandón and omit "some other things."[^1]
 
 ### Investigation of Celerino Castillo
 

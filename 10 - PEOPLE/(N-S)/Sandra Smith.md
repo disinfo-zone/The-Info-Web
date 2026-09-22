@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Sandra Smith was a DEA agent who filed an affidavit in 1981 documenting Norwin Meneses's involvement in cocaine trafficking, years before the Frogman Case.
 ---
-Sandra Smith was a [[DEA]] agent who filed an affidavit in November 1981 documenting [[Norwin Meneses]]'s involvement in [[cocaine]] trafficking. Smith's affidavit stated: "The Drug Enforcement Administration has evidence that Meneses is a major narcotics trafficker."[^1]
+Sandra Smith was a [[DEA]] agent who filed an affidavit in November 1981 documenting [[Norwin Meneses]]'s involvement in [[Cocaine]] trafficking. Smith's affidavit stated: "The Drug Enforcement Administration has evidence that Meneses is a major narcotics trafficker."[^1]
 
 ### Early Warnings
 

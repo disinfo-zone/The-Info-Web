@@ -8,7 +8,7 @@ tags:
   - Dark_Alliance_Investigation
 summary: Most populous U.S. state, home to San Francisco and Los Angeles, the two primary centers of Contra-connected cocaine trafficking by Norwin Meneses and Danilo Blandón during the 1980s.
 ---
-California is the most populous state in the [[United States]] and was the primary theater of operations for the Contra-connected [[cocaine]] trafficking networks on the West Coast during the 1980s.[^1]
+California is the most populous state in the [[United States]] and was the primary theater of operations for the Contra-connected [[Cocaine]] trafficking networks on the West Coast during the 1980s.[^1]
 
 ### Contra Drug Trafficking
 

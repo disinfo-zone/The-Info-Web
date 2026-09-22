@@ -13,7 +13,7 @@ location: "Lafayette Township, New Jersey"
 
 In 1966, Backster conducted an experiment where he attached polygraph electrodes to a plant and observed its responses to his thoughts, including the intention to harm it. He claimed the plant showed a measurable reaction, leading him to believe in a form of [[Extrasensory Perception|ESP]] in plant life. He published his findings as "Evidence of a Primary Perception in Plant Life," which became the subject of the bestselling book *The Secret Life of Plants*.[^1]
 
-Backster's work, while widely criticized by mainstream scientists for lacking scientific rigor, caught the attention of [[Hal Puthoff]], who was interested in exploring the boundaries of [[Animate Physics]]. Backster also conducted experiments with [[Ingo Swann]], who later became a key figure in the [[STARGATE PROJECT|Stargate Project]].[^1]
+Backster's work, while widely criticized by mainstream scientists for lacking scientific rigor, caught the attention of [[Hal Puthoff]], who was interested in exploring the boundaries of [[Animate Physics]]. Backster also conducted experiments with [[Ingo Swann]], who later became a key figure in the [[Stargate Project|Stargate Project]].[^1]
 
 ---
 

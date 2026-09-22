@@ -7,7 +7,7 @@ tags:
 summary: Bogota was the capital of Colombia and a center of the cocaine trade that supplied the Contra-connected trafficking networks operating in the United States.
 ---
 
-Bogota was the capital of [[Colombia]] and a center of the [[cocaine]] trade that supplied the Contra-connected trafficking networks operating in the [[United States]]. [[Danilo Blandon|Danilo Blandón]] studied at the University of Colombia in Bogota, where he was recruited into the drug trafficking world by [[Donald Barrios]] on behalf of [[Norwin Meneses|Meneses]].[^1]
+Bogota was the capital of [[Colombia]] and a center of the [[Cocaine]] trade that supplied the Contra-connected trafficking networks operating in the [[United States]]. [[Danilo Blandon|Danilo Blandón]] studied at the University of Colombia in Bogota, where he was recruited into the drug trafficking world by [[Donald Barrios]] on behalf of [[Norwin Meneses|Meneses]].[^1]
 
 ### Blandón's Colombian Base
 

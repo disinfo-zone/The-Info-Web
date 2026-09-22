@@ -10,7 +10,7 @@ Roger Mayorga was a former [[Sandinistas|Sandinista]] intelligence officer who h
 
 ### Tracking Meneses
 
-Mayorga, a short, stocky man with hard eyes, had been chief of state security in Meneses's hometown of Estelí. He was well acquainted with Norwin and his family and the work they had done for Somoza and the [[Contras]]. Mayorga investigated Meneses's cocaine operation in [[Managua]], which led to the 1991 raid that seized 725 kilos of [[cocaine]] and resulted in Meneses's conviction and thirty-year sentence. Mayorga played a key role in the arrest of [[Enrique Miranda]], Meneses's former aide, whose testimony about Meneses's Contra-connected drug dealings became central to the [[Dark Alliance]] narrative.[^2]
+Mayorga, a short, stocky man with hard eyes, had been chief of state security in Meneses's hometown of Estelí. He was well acquainted with Norwin and his family and the work they had done for Somoza and the [[Contras]]. Mayorga investigated Meneses's cocaine operation in [[Managua]], which led to the 1991 raid that seized 725 kilos of [[Cocaine]] and resulted in Meneses's conviction and thirty-year sentence. Mayorga played a key role in the arrest of [[Enrique Miranda]], Meneses's former aide, whose testimony about Meneses's Contra-connected drug dealings became central to the [[Dark Alliance]] narrative.[^2]
 
 ### CIA Connections
 

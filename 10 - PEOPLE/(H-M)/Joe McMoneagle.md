@@ -20,7 +20,7 @@ born: 1946-01-10
 location: "Miami, Florida"
 ---
 
-Joseph McMoneagle (born January 10, 1946) was a U.S. Army Chief Warrant Officer and one of the original six remote viewers recruited into the [[STARGATE PROJECT]] when the Army established the program at [[Fort Meade]], Maryland, in 1977. Known within the program as "Viewer 518," he is widely considered the most operationally successful remote viewer in the program's history, with credited sessions including a substantially confirmed description of a Soviet Typhoon-class submarine under construction and the location of a Soviet surveillance device in a U.S. consulate. He received the Legion of Merit at his Army retirement in 1984, partly for his contributions to remote viewing operations, and continued as a civilian consultant to the program until its declassification in 1995.
+Joseph McMoneagle (born January 10, 1946) was a U.S. Army Chief Warrant Officer and one of the original six remote viewers recruited into the [[Stargate Project]] when the Army established the program at [[Fort Meade]], Maryland, in 1977. Known within the program as "Viewer 518," he is widely considered the most operationally successful remote viewer in the program's history, with credited sessions including a substantially confirmed description of a Soviet Typhoon-class submarine under construction and the location of a Soviet surveillance device in a U.S. consulate. He received the Legion of Merit at his Army retirement in 1984, partly for his contributions to remote viewing operations, and continued as a civilian consultant to the program until its declassification in 1995.
 
 ### Early Life and Military Career
 

@@ -20,7 +20,7 @@ born: 1939-07-28
 location: "Waco, Texas"
 ---
 
-Lyn Buchanan was a [[U.S. Army]] sergeant who served as a remote viewer in the classified Army program at [[Fort Meade]] that operated under the successive designations [[STARGATE PROJECT|Center Lane]], [[Sun Streak]], and STAR GATE during the 1980s and early 1990s. He was trained in [[Coordinate Remote Viewing]] (CRV) by [[Ingo Swann]] after Swann returned to the program to train Army viewers beginning in 1984, and became one of the unit's more consistently producing operational viewers.[^1]
+Lyn Buchanan was a [[U.S. Army]] sergeant who served as a remote viewer in the classified Army program at [[Fort Meade]] that operated under the successive designations [[Stargate Project|Center Lane]], [[Sun Streak]], and STAR GATE during the 1980s and early 1990s. He was trained in [[Coordinate Remote Viewing]] (CRV) by [[Ingo Swann]] after Swann returned to the program to train Army viewers beginning in 1984, and became one of the unit's more consistently producing operational viewers.[^1]
 
 ### Military Remote Viewing Career
 

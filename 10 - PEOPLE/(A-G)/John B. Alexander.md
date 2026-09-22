@@ -31,7 +31,7 @@ Alexander's esoteric interests caught the attention of [[First Earth Battalion|T
 
 Alexander's work at INSCOM focused on developing human technologies to enhance soldier performance and narrow the "human technology gap." He explored various new age and self-help programs, including sleep discipline, neurolinguistic programming, and Silva Mind Control[^1].
 
-He also played a role in the [[STARGATE PROJECT|Grill Flame]] program, particularly after the [[James Randi]] hoax. Alexander suggested using magicians as consultants, and worked with [[Doug Henning]] and [[Jack Houck]] on psychokinesis research, observing spoon-bending parties to understand the phenomena[^1].
+He also played a role in the [[Stargate Project|Grill Flame]] program, particularly after the [[James Randi]] hoax. Alexander suggested using magicians as consultants, and worked with [[Doug Henning]] and [[Jack Houck]] on psychokinesis research, observing spoon-bending parties to understand the phenomena[^1].
 
 After retiring from the military, Alexander joined [[Psi]]'s corporate board in 1990, though he later stated it was a mistake[^1].
 

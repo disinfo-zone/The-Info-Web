@@ -57,11 +57,11 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Ernst Schulte-Strathaus]] | Ernst Schulte-Strathaus was a German astrologer who, alongside Karl Krafft, was reported to have constructed star charts that influenced Rudolf Hess's decision to undertake his rogue flight to Scotland in May 1941. |
 | [[Eugene Lessman]] | **Eugene 'Gene' Alden Lessman** was a U.S. |
 | [[Fernand Gauvin|Fern Gauvin]] | Fernand 'Fern' Gauvin was a civilian counterintelligence specialist working at Arlington Hall, a military/civilian intelligence complex. |
-| [[Fernand Gauvin]] | Gauvin worked at Arlington Hall, home to some of the more 'James Bond-ish' elements of the U.S. |
+| Fernand Gauvin | Gauvin worked at Arlington Hall, home to some of the more 'James Bond-ish' elements of the U.S. |
 | [[Fred Zachariasen]] | Fred Zachariasen was a physics professor at Caltech and a ranking member of the Department of Defense's elite JASON Committee. |
 | [[Gerald Feinberg]] | Gerald Feinberg was a physics professor at Columbia University. |
 | [[Harry Stump]] | Harry Stump was a Dutch sculptor and channeler who gained the attention of Andrija Puharich and his wealthy benefactors due to his purported psychic abilities, particularly his capacity to enter trance states and produce automatic writings and drawings. |
-| [[Hartleigh Trent]] | Hartleigh Trent was a former Navy petty officer and one of the original six remote viewers in the STARGATE PROJECT. |
+| [[Hartleigh Trent]] | Hartleigh Trent was a former Navy petty officer and one of the original six remote viewers in the Stargate Project. |
 | [[Heinrich Himmler]] | Himmler had a deep and abiding interest in the occult and the supernatural. |
 | [[Helene Smith]] | Flournoy attributed her abilities to Cryptomnesia and Glossolalia, arguing that the content she produced originated from forgotten memories and unconscious processes rather than genuine psychic phenomena. |
 | [[Hella Hammid]] | Hella Hammid was a professional photographer and psychic who participated in Project Deep Quest, a unique psychic functioning experiment conducted in the summer of 1977. |

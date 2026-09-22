@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Edgar Torres was one of the Nicaraguan Torres brothers who became major cocaine traffickers and key distributors for Danilo Blandón's drug network in Los Angeles.
 ---
-Edgar Torres was one of the Nicaraguan Torres brothers who became major [[cocaine]] traffickers and key distributors for [[Danilo Blandon|Danilo Blandón]]'s drug network in [[Los Angeles]]. Along with his brother [[Jacinto Torres|Jacinto]], Edgar managed the East Los Angeles distribution hub that moved massive quantities of cocaine supplied by Blandón and [[Norwin Meneses|Meneses]].[^1]
+Edgar Torres was one of the Nicaraguan Torres brothers who became major [[Cocaine]] traffickers and key distributors for [[Danilo Blandon|Danilo Blandón]]'s drug network in [[Los Angeles]]. Along with his brother [[Jacinto Torres|Jacinto]], Edgar managed the East Los Angeles distribution hub that moved massive quantities of cocaine supplied by Blandón and [[Norwin Meneses|Meneses]].[^1]
 
 ### The Torres Brothers Network
 

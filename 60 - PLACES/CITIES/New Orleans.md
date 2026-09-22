@@ -7,7 +7,7 @@ tags:
   - contra-war
 summary: New Orleans served as a cocaine entry point for Contra-connected flights and was where Barry Seal was murdered by Colombian hit men in 1986.
 ---
-New Orleans served as a [[cocaine]] entry point for Contra-connected flights and was where [[Central Intelligence Agency]]-[[DEA]] contract agent [[Barry Seal]] was murdered by Colombian hit men in 1986. The city's port and airfield infrastructure made it a key node in the Southern drug trafficking corridor that connected the [[Medellin Cartel|Medellín Cartel]] to the [[Contras|Contra]] supply chain.[^1]
+New Orleans served as a [[Cocaine]] entry point for Contra-connected flights and was where [[Central Intelligence Agency]]-[[DEA]] contract agent [[Barry Seal]] was murdered by Colombian hit men in 1986. The city's port and airfield infrastructure made it a key node in the Southern drug trafficking corridor that connected the [[Medellin Cartel|Medellín Cartel]] to the [[Contras|Contra]] supply chain.[^1]
 
 ### Contra Cocaine Flights
 

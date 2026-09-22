@@ -4,57 +4,51 @@ tags:
   - Person
   - Belgium
   - Dutroux
-summary: "Jean-Michel Nihoul (born 1941) was a Belgian businessman, political fixer, and organized crime figure described as a 'quasi-underworld figure' who operated at the intersection of organized crime, politics, and child trafficking networks during the 1980s and 1990s."
+  - Informant
+summary: "Brussels swindler, sex-party regular and gendarmerie informant charged in 1996 as Marc Dutroux's link to a network; acquitted of the kidnappings in 2004 and jailed for drug trafficking."
 born: 1941-04-23
 died: 2019-10-23
-location: "Belgium"
+location: "Brussels, Belgium"
+relations:
+  - type: partner_of
+    with: "[[Marleen De Cokere]]"
+    role: "companion"
+    fn: 5
+  - type: director_of
+    with: "[[Achats Services Commerces]]"
+    start: 1994
+    role: "de facto manager"
+    fn: 1
+created: 2026-04-28
+updated: 2026-09-22
 ---
 
+Michel Nihoul, a Brussels businessman and fraudster, was arrested in August 1996 in the investigation of [[Marc Dutroux]] and for years was held to be the man who connected Dutroux to a protected network. The Belgian parliamentary commission of inquiry into the Dutroux affair devoted a section of its 1998 report to "the relational network of M. Nihoul."[^1]
 
-Jean-Michel Nihoul (born 1941) was a Belgian businessman, political fixer, and organized crime figure described as a "quasi-underworld figure" who operated at the intersection of organized crime, politics, and child trafficking networks during the 1980s and 1990s. He served as the ringleader of a sophisticated child trafficking network connected to [[Marc Dutroux]], operating under the cover of legitimate businesses while creating a system of sexual blackmail that extended to the highest levels of Belgian society.[^1]
+### Record and Relations
 
-### Criminal Operations
+The Brussels court of appeal sentenced Nihoul on May 6, 1976, to a year in prison for fraudulent bankruptcy and swindling. A Brussels commercial court declared him bankrupt on May 11, 1989, noting three earlier bankruptcies; its list of creditors included a doctor, convicted in Liège in 1981 of malversation at the Centre médical de l'Est, who had given Nihoul about five million francs, withdrawn in Switzerland, to bribe the judges of the court of appeal that was to hear his case. The bribe was not paid, the doctor received a heavier sentence on appeal, and Nihoul used the money, at least in part, to open the Brussels bar Le Clin d'Oeil. On December 30, 1996, he was sentenced to three years for swindling and embezzlement through the charity SOS Sahel, whose donations, the court found, had largely disappeared into his personal fortune.[^1] Witnesses at his 2004 trial described him as an incorrigible swindler who organized sex parties and ran a fish business.[^2]
 
-Nihoul's criminal enterprise centered around his secondhand car exporting business called [[Achats Services Commerces]] (ASCO), which owned a fleet of white Mercedes-Benz vehicles. These company cars were used in operations involving the surveillance and kidnapping of school girls in the same locations where Dutroux was operating. The business was managed by Frenchman [[Jean-Louis Delamotte]], an old acquaintance from the Brussels sex party scene, and was founded by [[Michel Forgeot]], manager of the bar [[Le Dolo]], and [[Marleen De Cokere]], Nihoul's life companion. The business went bankrupt in October 1995 after financial difficulties, and Nihoul was banned from holding management positions due to previous fraud convictions.[^1]
+From 1981 he was a client of a sex club at 145 rue des Atrébates in Etterbeek, whose clientele, the commission found, included people open to blackmail by Nihoul because of their professions or positions; when it closed in 1983 the same couple opened [[Le Dolo]] nearby, which Nihoul also frequented and which was shut in September 1996. The Dolo's operator organized two evenings with sex parties at the Château de Faulx-les-Tombes, then owned by the commune of Etterbeek, with the Etterbeek police keeping order outside; Nihoul took part, and in 1983 or 1984 he and his companion lived at the château for a month at the invitation of the mayor of Etterbeek. The commission called this "the perfect example" of a relaxation of norms "not only tolerated by public authorities, but even encouraged." It also placed him among the clients of the establishment at the center of the "cocaïne dorée" drug case of 1983 to 1985.[^1]
 
-Nihoul operated as a low-level political fixer with contacts to national politicians, managing electoral campaigns for [[Jean-Louis Delamotte]] and [[Jean-Paul Dumont]] in the late 1970s. He had connections to former Belgian Prime Minister [[Paul Vanden Boeynants]] and associated with prominent figures from Belgium's Christian Social Party (CSP). His political connections provided cover for his extensive criminal operations, which included hosting lavish sex parties at a rented chateau in the Ardennes during the 1980s, attended by prominent businessmen, lawyers, doctors, and government officials. He regularly videotaped these parties for blackmail purposes and operated out of [[Le Dolo]] nightclub where he connected with figures from "clean professions."[^1]
+Through the Confrérie des Maîtres Brasseurs, the free radio Radio Activité, of which he was the driving force, and his firm J.-M. Nihoul et Associés, he cultivated politicians and officials and sold interventions for parole, pardons, prison leave and residence permits, for which he said he had earned about 500,000 francs; a magistrate appointed him a real estate expert without qualifications. With the suspended lawyer [[Annie Bouty]] and her Cadreco association he arranged residence papers for foreigners, among them Nigerians. The commission had indications that at the end of the 1980s he organized the political campaigns of several young lawyers who later faced disciplinary or criminal proceedings. It could not establish whether his ties to politicians were as close as he claimed, noting that he boasted of having "le bras long comme le Danube," and it found no substance in his claim to be protected by a Brussels investigating judge.[^1]
 
-### The Dolo Nightclub
+### Informant
 
-Nihoul operated as a quasi-underworld figure who brushed shoulders with prominent figures at a nightclub called The Dolo. He was well-known in the 1980s for hosting lavish sex parties at a magnificent rented chateau in the Ardennes, events which were regularly videotaped by Nihoul. These parties included carnality shows and orgies attended by prominent businessmen, lawyers, doctors, and government officials, providing the basis for an extensive blackmail operation.[^1]
+In 1995 and 1996 Nihoul was an informant of the gendarmerie's BSR in Dinant; the gendarmerie had registered him as a coded informant. In May 1995 he passed on information, obtained through [[Michel Lelievre|Michel Lelièvre]], about a stolen car and collected a 30,000-franc reward from the insurer Royale Belge; he later introduced Lelièvre to his handlers. The BSR took no action against Lelièvre in the first half of 1996, though he was wanted to serve a prison sentence and though, the commission found, there were indications that the BSR knew he and Dutroux had stolen a truck in 1995; Nihoul had asked his handler to leave Lelièvre alone. "In the end," the commission wrote, "it was the informant who directed his handlers and not the reverse." Its first report had listed eight indications of protection for Nihoul, among them witnesses who testified under oath that two associates from the entourage of a former minister protected him, and his hold as an informant over a policeman who failed to arrest Lelièvre before Lelièvre took part in the abductions of [[Sabine Dardenne]] and [[Laetitia Delhez]]. The commission concluded that "the Nihoul movement" had operated amid "the relaxation of norms and corrupting behavior" and in that sense had received and granted protection, "rarely in a very spectacular way and, most of the time, in the context of services between friends."[^1]
 
-### Connection to Dutroux
+### ASCO and the Dutroux Case
 
-Evidence revealed that Dutroux's main source of income came from selling kidnapped girls to wealthy clients of Michel Nihoul. This connection was uncovered during investigations into reports of men driving white Mercedes-Benz's following and photographing school girls in locations where Dutroux was kidnapping victims. Both [[Michelle Martin]] (Dutroux's wife) and [[Michel Lelievre]] (accomplice) stated that Dutroux had kidnapped victims based upon orders received from Michel Nihoul. Dutroux later admitted this during his 2004 trial.[^1]
+[[Achats Services Commerces]] (ASCO) was founded on July 2, 1991, at Wasmes by the operator of Le Dolo, Nihoul's companion and a third Dolo client, went into voluntary liquidation on June 23, 1995, and was declared bankrupt by the commercial court of Mons on October 9, 1995; Nihoul was at least its de facto manager in 1994, and the commission linked the company to the reports of white Mercedes cars.[^1] He had met Dutroux a year before his arrest through Lelièvre, to whom he sold drugs. [[Michelle Martin]] told investigators that Dutroux had been in frequent contact with Nihoul around the abduction of Laetitia Delhez, and Dutroux said Nihoul was looking for girls for a Belgian prostitution network. Nihoul was led from the courthouse at Neufchâteau on August 16, 1996, to shouts of "à mort." His companion [[Marleen De Cokere]] was arrested in late September. His warrant in the Dutroux case was lifted in January 1997.[^3][^5] Nihoul told *Der Spiegel* in 2001, "I have the government in hand," and offered, for a six-figure sum, a photograph of the then Prince Albert with a naked sixteen-year-old taken at the Mirano club twenty years earlier.[^6] [[Regina Louf]], the witness X1, alleged that he organized parties at which children were abused; the prosecutors-general closed the files opened on her testimony in April 1998.[^7]
 
-Phone records from early August 1996, around the time of [[Laetitia Delhez]]'s kidnapping, showed Nihoul had made over twenty calls to Marc Dutroux. This extensive communication suggested direct operational coordination between the two men. Nihoul was charged as an accomplice in the kidnapping of Laetitia Delhez on August 16, 1996, along with two associates: disbarred lawyer [[Annie Bouty]] and his girlfriend [[Marleen De Cokere]].[^1]
-
-### International Connections
-
-Nihoul's network extended beyond Belgium to international operations. His girlfriend [[Marleen De Cokere]] was linked to hardcore child pornography studios in Amsterdam through [[Roxanne Films]] and [[Rex Productions]]. These connections placed Nihoul within a broader European trafficking infrastructure that included figures like [[John Stamford]]'s [[Spartacus Network]].[^1]
-
-### Blackmail and Political Influence
-
-During a 2001 interview with German newspaper Der Spiegel, Nihoul openly boasted of having sexual blackmail on powerful individuals. He claimed, "I have the government in my hands" and offered to provide a photo of then-Prince Albert (later King Albert II) jumping on a 16-year-old girl for a six-figure sum, stating it was recorded on the second floor of the Mirano Club 20 years prior. He also offered to arrange a call between a reporter and a minister involved in murder for 20,000 marks. He boasted of having photos of then-Prince Albert with a naked 16-year-old girl.[^1]
-
-### Evidence Seizure
-
-From Nihoul's home, police seized hundreds of videotapes of violent child pornography, some allegedly featuring prominent people. Following his arrest in August 1996, police secured 300 videos, some said to contain footage of high-society figures and others of child pornography. Segments of one video showing a middle-aged man beating a 9-year-old were broadcast on the European satellite network RTL.[^1]
-
-### Police Connections and Protection
-
-The investigation revealed connections between Nihoul and law enforcement. In late August 1996, senior detective [[Georges Zicot]], who headed the auto theft division of Charleroi PD, was arrested and charged for insurance fraud and document forgery. Zicot had been an associate of [[Bernard Weinstein]], Dutroux's accomplice. A further nine Charleroi police officers were questioned over suspected links to either Dutroux or Nihoul, and another officer from Dinant was detained over his association with Nihoul.[^1]
-
-### Connections to Unsolved Murders and Suspicious Deaths
-
-Numerous deaths were linked to individuals connected to Nihoul's network. Nihoul was named as a suspect in the reopened investigation of the [[Christine Van Hees]] murder from 1984. Other deaths connected to Nihoul include [[Carine Dellaert]], who allegedly died after giving birth at one of Nihoul's parties, and Veronique Dubrulle, who was allegedly murdered in a snuff film during an abuse party. Multiple people connected to Nihoul died under suspicious circumstances: Michel Poiro, nightclub owner acquainted with Nihoul, was shot dead on December 5, 1996, before meeting with parents of [[Julie Lejeune]] and [[Melissa Russo]]; [[Georges Zicot]], Gendarme officer and runner of Nihoul; [[Bernard Weinstein]], buried alive by [[Marc Dutroux]] after witnessing the abuse of [[An Marchal]] and [[Eefje Lambrecks]]; and [[Brigitte Jenart]], friend of Nihoul, committed suicide on April 5, 1998. According to [[Regina Louf]] (witness X1), Nihoul organized "abuse parties" where child prostitutes were provided to attendees, serving to bond loyalties through sexual blackmail.[^1]
-
-### Judicial Interference
-
-The [[Christine Van Hees]] murder case from 1984 demonstrated judicial interference protecting Nihoul. The judge assigned to the case was [[Jean-Claude Van Espen]], a close friend and business partner of Michel Nihoul. Van Espen had represented Nihoul's wife as a lawyer, and his sister was the godmother of Nihoul's child. Despite this clear conflict of interest, Van Espen saw no reason to recuse himself when Nihoul became a suspect in the reopened investigation in 1996. He only resigned after his relationship with Nihoul was exposed by a journalist in 1998.[^1]
-
-Nihoul's death was reported in 2019.[^1]
+At the trial in Arlon in 2004, Dutroux accused Nihoul of being his link to a ring kidnapping girls for prostitution, which Nihoul denied. Only seven of the twelve jurors found him guilty of the abductions, and the professional judges acquitted him of every charge connected with the children; on June 22, 2004, he was sentenced to five years for drug trafficking and criminal association. He left Saint-Gilles prison on parole on April 28, 2006, and retired with his companion to the Belgian coast, where he died on October 23, 2019.[^3][^4]
 
 ### Footnotes
 
-[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
+[^1]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport complémentaire, Doc. 713/8-96/97, February 16, 1998, section 4, "Le réseau relationnel de M. Nihoul," pp. 126-145, and the list of indications from the report of April 14, 1997 (Doc. 713/6-96/97, pp. 186-188). https://www.dekamer.be/kvvcr/pdf_sections/comm/dutroux/49K0713008.pdf
+[^2]: "Michel Nihoul: Lügner, Betrüger, Frauenheld, aber kein Pädophiler." dpa, *Frankfurter Allgemeine Zeitung,* FAZ.NET, May 17, 2004.
+[^3]: "Michel Nihoul est décédé." *La Libre Belgique,* October 23, 2019.
+[^4]: "Arlon, 22 juin 2004, l'épilogue." *La Libre Belgique,* June 22, 2005; "Notorious child rapist-murderer convicted." Associated Press via NBC News, June 17, 2004. https://www.nbcnews.com/id/5233011
+[^5]: "Belgian pedophile case." United Press International, September 24, 1996. https://www.upi.com/Archives/1996/09/24/Belgian-pedophile-case/1297843537600/
+[^6]: "Im Netz der Dossiers." *Der Spiegel,* October 15, 2001, as translated in "Excerpt: Der Spiegel Interviews Michel Nihoul," Magic Kingdom Dispatch, 2017; the German original was not seen.
+[^7]: Sénat de Belgique. Proposition visant à instituer une commission d'enquête parlementaire chargée d'enquêter sur l'éloignement de deux enquêteurs de la cellule d'enquête bruxelloise « Neufchâteau », déposée par M. Frans Lozie, Doc. 2-563/1, October 9, 2000.

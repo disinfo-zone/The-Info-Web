@@ -17,13 +17,13 @@ summary: "South American nation that was the world's primary source of cocaine d
 location: "South America"
 ---
 
-Colombia is a country in [[South America]] that was the world's primary source of [[cocaine]] during the 1980s and has been profoundly shaped by drug trafficking, particularly through the operations of the [[Cali Drug Cartel]] and the [[Medellin Cartel|Medellín cartel]]. Colombian drug cartels supplied the cocaine that flowed through [[Norwin Meneses]]'s and [[Danilo Blandon|Danilo Blandón]]'s trafficking networks in [[Los Angeles]] and [[San Francisco]].[^1][^3]
+Colombia is a country in [[South America]] that was the world's primary source of [[Cocaine]] during the 1980s and has been profoundly shaped by drug trafficking, particularly through the operations of the [[Cali Drug Cartel]] and the [[Medellin Cartel|Medellín cartel]]. Colombian drug cartels supplied the cocaine that flowed through [[Norwin Meneses]]'s and [[Danilo Blandon|Danilo Blandón]]'s trafficking networks in [[Los Angeles]] and [[San Francisco]].[^1][^3]
 
 ### Drug Trafficking and Political Influence
 
-The [[Cali Drug Cartel]], led by figures like [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]], controlled a vast portion of the world's cocaine trade. The cartel's influence extended to the highest levels of Colombian government, with allegations that the newly elected president, [[Ernesto Samper Pizano]], accepted $3.7 million in campaign funds from [[Gilberto Rodriguez Orejuela]], effectively aligning him with the drug lords.[^1]
+The Cali Drug Cartel, led by figures like [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]], controlled a vast portion of the world's cocaine trade. The cartel's influence extended to the highest levels of Colombian government, with allegations that the newly elected president, [[Ernesto Samper Pizano]], accepted $3.7 million in campaign funds from Gilberto Rodriguez Orejuela, effectively aligning him with the drug lords.[^1]
 
-[[Michael Abbell]], a former [[Department of Justice|U.S. Department of Justice]] official, was indicted for laundering money for the [[Cali Drug Cartel]]. Surveillance reports indicated his frequent visits to [[Gilberto Rodriguez Orejuela]]'s home in Bogota, [[Colombia]]. The law firm of Kaplan, Russin and Becchi, where Abbell worked after leaving the [[Department of Justice|DOJ]], had offices in Bogota.[^1]
+[[Michael Abbell]], a former [[Department of Justice|U.S. Department of Justice]] official, was indicted for laundering money for the Cali Drug Cartel. Surveillance reports indicated his frequent visits to Gilberto Rodriguez Orejuela's home in Bogota, [[Colombia]]. The law firm of Kaplan, Russin and Becchi, where Abbell worked after leaving the DOJ, had offices in Bogota.[^1]
 
 [[Michael Riconosciuto]] claimed that [[Robert Booth Nichols]] paid Abbell to "crowbar" the extradition of Cali Cartel leaders, as they were considered "intelligence people." This suggests a complex interplay between drug trafficking, intelligence operations, and political influence within Colombia.[^1]
 
@@ -37,7 +37,7 @@ Cocaine arrived in the United States through multiple routes controlled by Colom
 
 ### Financial Operations
 
-[[Michael Riconosciuto]] also mentioned the "[[Workers Bank]]" in [[Colombia]] in the context of money laundering operations for the [[Wackenhut Corporation|Wackenhut]] people. He claimed to have set up "virtual dead-drops" for this bank, a method to circumvent ACH reconciliations on a daily basis, indicating sophisticated financial illicit activities originating from or passing through Colombia.[^1]
+Michael Riconosciuto also mentioned the "[[Workers Bank]]" in Colombia in the context of money laundering operations for the [[Wackenhut Corporation|Wackenhut]] people. He claimed to have set up "virtual dead-drops" for this bank, a method to circumvent ACH reconciliations on a daily basis, indicating sophisticated financial illicit activities originating from or passing through Colombia.[^1]
 
 ---
 ### Footnotes

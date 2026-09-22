@@ -11,7 +11,7 @@ category: "Intelligence Concept"
 summary: "Telepathic Interrogation is a claimed Psi technique involving the use of Telepathy to extract information from a subject."
 ---
 
-[[Telepathic Interrogation]] is a claimed [[Psi|psychic]] technique involving the use of [[Telepathy]] to extract information from a subject. In the context of the [[STARGATE PROJECT|Stargate Project]], this technique was reportedly used by [[Ken Bell]] to gain information from a [[KGB]] agent in South Africa. Bell allegedly whispered telepathically about the agent's son and daughter, which led the agent to reveal details about a hidden pocket calculator used for coding messages.[^1]
+[[Telepathic Interrogation]] is a claimed [[Psi|psychic]] technique involving the use of [[Telepathy]] to extract information from a subject. In the context of the [[Stargate Project|Stargate Project]], this technique was reportedly used by [[Ken Bell]] to gain information from a [[KGB]] agent in South Africa. Bell allegedly whispered telepathically about the agent's son and daughter, which led the agent to reveal details about a hidden pocket calculator used for coding messages.[^1]
 
 This incident, while controversial, was considered a significant success by some within the [[Central Intelligence Agency|CIA]] and the [[Federal Bureau of Investigation|FBI]], demonstrating the potential utility of psychic abilities in counterintelligence operations.[^1]
 

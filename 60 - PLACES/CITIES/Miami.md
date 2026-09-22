@@ -9,7 +9,7 @@ tags:
   - 1980s
 summary: Major South Florida city that became the center of the Nicaraguan exile community, a hub for Contra fundraising and cocaine trafficking, and Danilo Blandón's base after leaving Los Angeles.
 ---
-Miami is a city in southern [[Florida]] that served as a major hub for both [[cocaine]] trafficking and [[Contras|Contra]] political activity during the 1980s.[^1] [[Danilo Blandon|Danilo Blandón]] moved to Miami from [[Los Angeles]] in 1987, investing his drug profits in a string of businesses and reconnecting with Nicaraguan exile networks.[^2]
+Miami is a city in southern [[Florida]] that served as a major hub for both [[Cocaine]] trafficking and [[Contras|Contra]] political activity during the 1980s.[^1] [[Danilo Blandon|Danilo Blandón]] moved to Miami from [[Los Angeles]] in 1987, investing his drug profits in a string of businesses and reconnecting with Nicaraguan exile networks.[^2]
 
 ### Contra Political Center
 

@@ -8,7 +8,7 @@ summary: Jorge Ochoa was a leader of the Medellín Cartel who controlled the Mia
 born: 1950-09-30
 location: "Colombia"
 ---
-Jorge Ochoa was a leader of the [[Medellin Cartel|Medellín Cartel]] who, along with [[Pablo Escobar]] and [[Carlos Lehder]], controlled the [[Miami]] [[cocaine]] market during the early 1980s. The Ochoa family in [[Colombia]] was one of the primary sources of cocaine for the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] trafficking ring that funded the [[Contras|Contra]] war.[^1]
+Jorge Ochoa was a leader of the [[Medellin Cartel|Medellín Cartel]] who, along with [[Pablo Escobar]] and [[Carlos Lehder]], controlled the [[Miami]] [[Cocaine]] market during the early 1980s. The Ochoa family in [[Colombia]] was one of the primary sources of cocaine for the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] trafficking ring that funded the [[Contras|Contra]] war.[^1]
 
 ### DEA Manipulation Attempt
 

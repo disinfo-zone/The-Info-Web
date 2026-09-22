@@ -24,7 +24,7 @@ Duane "Dewey" Clarridge was the chief of the [[Central Intelligence Agency]]'s L
 
 Clarridge headed the CIA effort to organize, fund, and direct the [[Contras]] from the project's inception. Under his leadership, the agency assembled the scattered anti-[[Sandinistas|Sandinista]] factions into a unified fighting force, created the [[FDN]], and established the Costa Rican-based Southern Front under Eden Pastora.[^2]
 
-When asked by a British television crew in late 1996 about [[Ivan Gomez|IvÃ¡n GÃ³mez]], the pseudonymous CIA agent in [[Costa Rica]] whom [[Carlos Cabezas]] identified as supervising Contra drug money, Clarridge said he had never heard of him. The 1998 CIA Inspector General's report confirmed that GÃ³mez was indeed assigned to Costa Rica in 1982, largely corroborating Cabezas's account.[^2]
+When asked by a British television crew in late 1996 about [[Ivan Gomez|Iván Gómez]], the pseudonymous CIA agent in [[Costa Rica]] whom [[Carlos Cabezas]] identified as supervising Contra drug money, Clarridge said he had never heard of him. The 1998 CIA Inspector General's report confirmed that Gómez was indeed assigned to Costa Rica in 1982, largely corroborating Cabezas's account.[^2]
 
 ### Iran-Contra Indictment
 

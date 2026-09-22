@@ -33,7 +33,7 @@ The CIA forced the merger by having their Honduran allies withdraw support from 
 
 ### Later Activities
 
-While working for the CIA, Chamorro was approached by [[Norwin Meneses]] and asked to haul [[cocaine]] to the [[United States]] from Costa Rica, but he was never directly implicated in cocaine trafficking.[^2] He died in Nicaragua in the early 1990s.[^2]
+While working for the CIA, Chamorro was approached by [[Norwin Meneses]] and asked to haul [[Cocaine]] to the [[United States]] from Costa Rica, but he was never directly implicated in cocaine trafficking.[^2] He died in Nicaragua in the early 1990s.[^2]
 
 ### Footnotes
 

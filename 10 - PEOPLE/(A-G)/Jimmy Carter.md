@@ -16,7 +16,7 @@ James Earl "Jimmy" Carter Jr. was the 39th President of the [[United States]], s
 
 ### Nuclear Nonproliferation and South African Tests
 
-Carter and [[Leonid Brezhnev]] worked together to lead an international campaign of protest against [[South Africa]]'s suspected nuclear test in the [[Kalahari]] in August 1977. The South African government backed down, and Carter publicly announced that [[South Africa]] did not intend to develop nuclear explosive devices. However, the [[Central Intelligence Agency|CIA]] later concluded that the strong international protests had only deflected [[South Africa]] "at least temporarily" from its planned test, and that Israeli military personnel were openly present at the Kalahari test site.[^1]
+Carter and [[Leonid Brezhnev]] worked together to lead an international campaign of protest against [[South Africa]]'s suspected nuclear test in the [[Kalahari]] in August 1977. The South African government backed down, and Carter publicly announced that South Africa did not intend to develop nuclear explosive devices. However, the [[Central Intelligence Agency|CIA]] later concluded that the strong international protests had only deflected South Africa "at least temporarily" from its planned test, and that Israeli military personnel were openly present at the Kalahari test site.[^1]
 
 ### Israeli Satellite Intelligence Access
 
@@ -24,19 +24,19 @@ In March 1979, President Carter made the decision to provide [[Israel]] with acc
 
 ### VELA Satellite Incident
 
-On September 22, 1979, a [[VELA Satellite]] recorded two distinctive bright flashes of light over the South Indian Ocean, probable evidence of a nuclear explosion. This event, suspected to be a joint Israeli-South African nuclear test, created a horrible dilemma for President Carter, just months before the 1980 presidential campaign. Carter, who had emphasized nonproliferation, faced criticism for hypocrisy if he did not act, but political repercussions if he sought sanctions against [[Israel]] and [[South Africa]].[^1]
+On September 22, 1979, a [[VELA Satellite]] recorded two distinctive bright flashes of light over the South Indian Ocean, probable evidence of a nuclear explosion. This event, suspected to be a joint Israeli-South African nuclear test, created a horrible dilemma for President Carter, just months before the 1980 presidential campaign. Carter, who had emphasized nonproliferation, faced criticism for hypocrisy if he did not act, but political repercussions if he sought sanctions against Israel and South Africa.[^1]
 
 ### Psychic Research Programs
 
-His presidency coincided with the early years of the [[STARGATE PROJECT|Grill Flame]] program, the U.S. government's secret psychic research effort. President Carter was reportedly aware of the [[STARGATE PROJECT|Grill Flame]] program, with Congressman [[Charlie Rose]] even discussing it with him. However, his administration's stance on the program was complex. While some officials, like [[William Perry]], sought to cut its funding, the program managed to continue.[^3]
+His presidency coincided with the early years of the [[Stargate Project|Grill Flame]] program, the U.S. government's secret psychic research effort. President Carter was reportedly aware of the Grill Flame program, with Congressman [[Charlie Rose]] even discussing it with him. However, his administration's stance on the program was complex. While some officials, like [[William Perry]], sought to cut its funding, the program managed to continue.[^3]
 
 ### Iran Hostage Crisis
 
-The [[Iran Hostage Crisis]] (1979-1981) was a major challenge during his presidency. Remote viewers were extensively tasked by the [[Department of Defense|Pentagon]] and [[Central Intelligence Agency|CIA]] to gather intelligence on the hostages' whereabouts and conditions, though the administration's handling of the crisis, including the failed rescue attempt, ultimately led to the hostages' release on the day Carter's presidency ended.[^3]
+The [[Iran Hostage Crisis]] (1979-1981) was a major challenge during his presidency. Remote viewers were extensively tasked by the [[Department of Defense|Pentagon]] and CIA to gather intelligence on the hostages' whereabouts and conditions, though the administration's handling of the crisis, including the failed rescue attempt, ultimately led to the hostages' release on the day Carter's presidency ended.[^3]
 
 ### Latin American Policy
 
-During his presidency, Carter's human rights foreign policy in [[Latin America]] reportedly distanced the [[Central Intelligence Agency|CIA]] under [[Stansfield Turner]] from any death-squad interdiction. His administration was also reportedly reluctant to pursue certain figures involved in the drug trade, such as General Torrijos of [[Panama]], due to ongoing negotiations for the [[Panama Canal]] treaty.[^4]
+During his presidency, Carter's human rights foreign policy in [[Latin America]] reportedly distanced the CIA under [[Stansfield Turner]] from any death-squad interdiction. His administration was also reportedly reluctant to pursue certain figures involved in the drug trade, such as General Torrijos of [[Panama]], due to ongoing negotiations for the [[Panama Canal]] treaty.[^4]
 
 ### Connections to BCCI
 

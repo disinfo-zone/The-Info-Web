@@ -7,7 +7,7 @@ tags:
 summary: Edgar Chamorro was a former FDN director who publicly confirmed that Norwin Meneses was a Contra leader involved in cocaine trafficking to fund the war.
 born: 1931-07-23
 ---
-Edgar Chamorro was a former [[FDN]] director who publicly confirmed that [[Norwin Meneses]] was a Contra leader involved in [[cocaine]] trafficking to fund the war. Chamorro told the San Francisco Examiner in 1986 that he and FDN director [[Frank Arana]] flew to [[San Francisco]] in October 1982 to select leaders for the [[Contras|Contra]] support committee.[^1]
+Edgar Chamorro was a former [[FDN]] director who publicly confirmed that [[Norwin Meneses]] was a Contra leader involved in [[Cocaine]] trafficking to fund the war. Chamorro told the San Francisco Examiner in 1986 that he and FDN director [[Frank Arana]] flew to [[San Francisco]] in October 1982 to select leaders for the [[Contras|Contra]] support committee.[^1]
 
 ### Public Confirmation
 

@@ -24,7 +24,7 @@ Typically, investigations conducted by federal Organized Crime Drug Enforcement 
 
 ### Connection to Clinton and Mena
 
-Ex-trooper L. D. Brown said that when he confronted Clinton about the cocaine flights Seal was involved in, Governor Clinton replied, "That's Lasater's deal." Historian [[Roger Morris]] wrote that "whatever the limits or extent of Lasater's cocaine trafficking or the nature of his other dealings, most believed that beyond him the larger corruption in Little Rock and elsewhere pointed unmistakably to organized crime, not to mention the vast crimes of Mena â€” none of which would be pursued."[^1]
+Ex-trooper L. D. Brown said that when he confronted Clinton about the cocaine flights Seal was involved in, Governor Clinton replied, "That's Lasater's deal." Historian [[Roger Morris]] wrote that "whatever the limits or extent of Lasater's cocaine trafficking or the nature of his other dealings, most believed that beyond him the larger corruption in Little Rock and elsewhere pointed unmistakably to organized crime, not to mention the vast crimes of Mena, none of which would be pursued."[^1]
 
 Clinton's supporters maintained that Lasater was no drug dealer, simply a high-flying businessman who got a little too caught up in the fast life. Clinton pardoned Lasater in 1990.[^1]
 

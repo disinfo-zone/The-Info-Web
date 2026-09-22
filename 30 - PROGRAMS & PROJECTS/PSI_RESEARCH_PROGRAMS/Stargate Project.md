@@ -1,15 +1,11 @@
 ---
 created: 2024-08-26
 updated: 2026-09-22
-title: STARGATE PROJECT
+title: "Stargate Project"
 aliases:
   - STARGATE PROJECT
-  - Stargate Project
   - Project STARGATE
   - Gondola Wish
-  - Grill Flame
-  - Center Lane
-  - Sun Streak
   - Star Gate
 tags:
   - Program

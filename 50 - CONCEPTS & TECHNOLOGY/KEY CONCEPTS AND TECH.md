@@ -51,7 +51,7 @@ Intelligence terminology, surveillance technologies, covert operations concepts,
 | [[PHOTINT_IMINT]] | PHOTINT (Photographic Intelligence), also known as IMINT (Imagery Intelligence), is a form of intelligence gathering that relies on photographic and other imagery, typically obtained from reconnaissance satellites or spy planes. |
 | [[Psi Gap]] | The 'Psi Gap' was a perceived disparity in Psi research capabilities between the United States and the Soviet Union during the Cold War. |
 | [[PSI-INT]] | PSI-INT, or psi-derived intelligence, refers to information gathered through psychic phenomena such as remote viewing, used for intelligence purposes. |
-| [[Psychic Spying]] | Psychic Spying refers to the use of Psi abilities, such as Remote Viewing, for intelligence gathering and espionage. This concept was a central focus of the STARGATE PROJECT, a U.S. |
+| [[Psychic Spying]] | Psychic Spying refers to the use of Psi abilities, such as Remote Viewing, for intelligence gathering and espionage. This concept was a central focus of the Stargate Project, a U.S. |
 | [[SIGINT_COMINT]] | SIGINT (Signals Intelligence) covers the interception of virtually all electronic signals, while COMINT (Communications Intelligence) generally refers to signals from telephone or radio conversations. |
 | [[Technical Intelligence]] | Technical Intelligence refers to intelligence gathered through technical means, such as satellite imagery and communications intercepts. This is in contrast to Human Intelligence (HUMINT). |
 | [[Telepathic Interrogation]] | Telepathic Interrogation is a claimed Psi technique involving the use of Telepathy to extract information from a subject. |
@@ -85,7 +85,7 @@ Historical movements, social phenomena, and esoteric topics documented in the re
 | [[Qigong]] | Qigong is a traditional Chinese practice of coordinated body posture and movement, breathing, and meditation used for health, spirituality, and martial arts training. |
 | [[Serial Killer]] | The serial killer profile emerged as a dominant framework in criminal investigations and popular media for understanding cases involving multiple murders. |
 | [[Sheep-Goat Effect]] | The **sheep-goat effect** is a term coined by parapsychologist Gertrude Schmeidler in 1942 to describe the tendency for individuals who believe in Psi phenomena (sheep) to score better in ESP and Psychokinesis experiments than those who are... |
-| [[snuff film]] | A snuff film is a film produced for the express purpose of capturing a live murder on camera, made to please an audience. |
+| [[Snuff Film]] | A snuff film is a film produced for the express purpose of capturing a live murder on camera, made to please an audience. |
 | [[Synchronicity]] | Synchronicity is a concept first introduced by the Swiss psychiatrist Carl Jung. It refers to meaningful coincidences that lack a causal relationship but are deeply connected in meaning. |
 | [[The Finders and The Odyssey Network]] | On February 4, 1987, police in Tallahassee, Florida received a call about six dishevelled children in a park under the supervision of two well-dressed men. |
 | [[The Nautilus]] | The USS Nautilus (SSN-571) was the world's first operational nuclear-powered submarine, launched by the United States in 1954. It gained notoriety in the context of psychic research due to a fabricated story published in 1960.[^1] |
@@ -144,7 +144,7 @@ Remote viewing protocols, research approaches, and experimental methods.
 | [[Analytical Overlay]] | Analytical Overlay refers to the conscious or unconscious imposition of a remote viewer's existing knowledge, beliefs, or biases onto their psychic perceptions, potentially distorting the accuracy of the data. |
 | [[Associative Remote Viewing]] | Associative Remote Viewing (ARV) is a precognitive Remote Viewing technique where objects or geographic locations are used as surrogates for abstract data, such as numbers or letters, which are generally difficult to remote-view directly. |
 | [[Coordinate Remote Viewing]] | Coordinate Remote Viewing (CRV) is a specific methodology of Remote Viewing that uses geographical coordinates (latitude and longitude) to direct a psychic's perception to a target. |
-| [[Extended Remote Viewing]] | Extended Remote Viewing (ERV) refers to deeper altered-state methods of Remote Viewing, often favored by the STARGATE PROJECT unit at Fort Meade. |
+| [[Extended Remote Viewing]] | Extended Remote Viewing (ERV) refers to deeper altered-state methods of Remote Viewing, often favored by the Stargate Project unit at Fort Meade. |
 | [[Outbound Remote Viewing]] | Outbound Remote Viewing is a Remote Viewing methodology where an 'outbound' experimenter visits a target site while the psychic, typically back at a laboratory, attempts to perceive and describe the experimenter's surroundings. |
 | [[Outbounder-Beacon Experiment]] | The Outbounder-Beacon Experiment was a Remote Viewing protocol developed by Hal Puthoff and Russell Targ at Stanford Research Institute for the Central Intelligence Agency's psychic research program. |
 | [[Psychotronic Research]] | Psychotronic Research was the Eastern European pseudo-technical term for Psi research, particularly focusing on the interaction between human psychology and electronics. |
@@ -184,7 +184,7 @@ Narcotics, drug trafficking networks, and substance-related concepts.
 
 | Name | Description |
 | --- | --- |
-| [[cocaine]] | Cocaine was the commodity that linked Contra war fundraising to the devastation of American inner cities, with CIA-connected networks trafficking thousands of kilos into the United States during the 1980s. |
+| [[Cocaine]] | Cocaine was the commodity that linked Contra war fundraising to the devastation of American inner cities, with CIA-connected networks trafficking thousands of kilos into the United States during the 1980s. |
 | [[Crack Cocaine]] | Crack is a smokable, mass-producible form of cocaine that transformed the drug from an expensive luxury into a cheap commodity devastating American inner cities throughout the 1980s. |
 
 ---

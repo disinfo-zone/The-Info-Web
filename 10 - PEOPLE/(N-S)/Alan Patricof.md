@@ -8,6 +8,21 @@ tags:
   - CouncilOnForeignRelations
 summary: "New York venture capitalist who founded Patricof & Co. Ventures, later Apax Partners, the firm whose 53rd Street Ventures fund invested in INSLAW about 1982."
 location: "New York City"
+relations:
+  - type: founded
+    with: "[[Patricof and Company]]"
+    start: 1969
+    fn: 1
+  - type: director_of
+    with: "[[Boston Properties]]"
+    start: 1997-06-23
+    fn: 1
+  - type: director_of
+    with: "[[NTL]]"
+    fn: 1
+  - type: member_of
+    with: "[[Council on Foreign Relations]]"
+    fn: 1
 created: 2026-09-22
 updated: 2026-09-22
 ---

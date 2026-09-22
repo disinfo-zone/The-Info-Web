@@ -13,13 +13,13 @@ tags:
   - DarkAllianceInvestigation
 summary: "Federal prosecutor in Los Angeles who took the Danilo Blandon case to the Organized Crime Drug Enforcement Task Force and described it as 'a sensitive matter' involving CIA allegations."
 ---
-Crossan Andersen was a federal prosecutor in the Los Angeles U.S. Attorney's office who agreed to take the [[Danilo Blandon|BlandÃ³n]]-[[Norwin Meneses|Meneses]] drug case to the Organized Crime Drug Enforcement Task Force (OCDETF) in November 1986.[^1]
+Crossan Andersen was a federal prosecutor in the Los Angeles U.S. Attorney's office who agreed to take the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] drug case to the Organized Crime Drug Enforcement Task Force (OCDETF) in November 1986.[^1]
 
 ### "A Sensitive Matter"
 
 On November 25, 1986, Andersen wrote to the IRS criminal investigation division in Laguna Niguel, asking for agents to assist with the case. "As you know," Andersen wrote, "this is a narcotics investigation involving [[Federal Bureau of Investigation]], [[DEA]], and [[LASD Major Violators|LASO]] units in Riverside and Whittier, California. It is a sensitive matter since it involves allegations of drug running in support of the Contra movement in Nicaragua and wholly unconfirmed allegations of [[Central Intelligence Agency]] involvement."[^1]
 
-The same morning Andersen dictated his letter, President [[Ronald Reagan]] and Attorney General Edwin Meese were publicly announcing the [[Iran-Contra Affair]], revealing that millions from Iranian missile sales had been illegally diverted to the [[Contras]] by [[Oliver North]]. The timing was not coincidental; the BlandÃ³n case and the Iran-Contra scandal were converging.[^1]
+The same morning Andersen dictated his letter, President [[Ronald Reagan]] and Attorney General Edwin Meese were publicly announcing the [[Iran-Contra Affair]], revealing that millions from Iranian missile sales had been illegally diverted to the [[Contras]] by [[Oliver North]]. The timing was not coincidental; the Blandón case and the Iran-Contra scandal were converging.[^1]
 
 ### Closing the Investigation
 

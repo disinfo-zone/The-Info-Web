@@ -10,7 +10,7 @@ Mexico City was where the [[Federal Bureau of Investigation]] office requested i
 
 ### Early Awareness
 
-The FBI's Mexico City office's request to monitor Meneses showed that the U.S. government knew about his drug trafficking well before he began selling [[cocaine]] in [[Los Angeles]] to fund the [[Contras]]. Despite this awareness, Meneses was never prosecuted and continued to operate freely in [[San Francisco]] and Los Angeles throughout the 1980s. The failure to act on the intelligence about Meneses, combined with his known role as a Contra political leader, raised questions about whether his connections to the U.S.-backed war protected him from law enforcement action.[^2]
+The FBI's Mexico City office's request to monitor Meneses showed that the U.S. government knew about his drug trafficking well before he began selling [[Cocaine]] in [[Los Angeles]] to fund the [[Contras]]. Despite this awareness, Meneses was never prosecuted and continued to operate freely in [[San Francisco]] and Los Angeles throughout the 1980s. The failure to act on the intelligence about Meneses, combined with his known role as a Contra political leader, raised questions about whether his connections to the U.S.-backed war protected him from law enforcement action.[^2]
 
 ### Footnotes
 

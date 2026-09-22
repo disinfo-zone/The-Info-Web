@@ -1,4 +1,6 @@
 ---
+aliases:
+  - United States Attorney General
 category: "U.S. Government"
 tags:
   - organization

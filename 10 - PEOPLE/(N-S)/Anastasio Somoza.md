@@ -34,11 +34,11 @@ Pezzullo assured Somoza the U.S. was "willing to do what we can to preserve the 
 
 ### Exile
 
-In the predawn hours of July 17, 1979, Somoza and his closest associates â€” top generals, business partners, and their families â€” boarded two jets and flew to [[Homestead Air Force Base]] in [[Florida]] to begin exile.[^1] The National Guard collapsed within hours, and Sandinista columns swarmed into the defenseless capital.
+In the predawn hours of July 17, 1979, Somoza and his closest associates (top generals, business partners, and their families) boarded two jets and flew to [[Homestead Air Force Base]] in [[Florida]] to begin exile.[^1] The National Guard collapsed within hours, and Sandinista columns swarmed into the defenseless capital.
 
 ### Legacy
 
-The dispersed National Guard officers became the founding cadre of the [[Contras]], reassembled by the CIA under [[Enrique Bermudez|Enrique BermÃºdez]] starting in 1980.[^1] Officers from the Somoza-era National Guard, trained at U.S. military schools and steeped in anticommunism, formed the leadership of every major Contra faction.
+The dispersed National Guard officers became the founding cadre of the [[Contras]], reassembled by the CIA under [[Enrique Bermudez|Enrique Bermúdez]] starting in 1980.[^1] Officers from the Somoza-era National Guard, trained at U.S. military schools and steeped in anticommunism, formed the leadership of every major Contra faction.
 
 ### Footnotes
 

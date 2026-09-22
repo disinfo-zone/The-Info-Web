@@ -14,7 +14,7 @@ alias:
   - Angela Ford
 ---
 
-Angela Dellafiora, later known as Angela Ford after marriage, was a [[Defense Intelligence Agency]] (DIA) intelligence analyst based in Maryland. The DIA hired her in 1986 to participate in [[STARGATE PROJECT|Project STAR GATE]], the government's classified remote-viewing program, in which she worked for nine years.[^1]
+Angela Dellafiora, later known as Angela Ford after marriage, was a [[Defense Intelligence Agency]] (DIA) intelligence analyst based in Maryland. The DIA hired her in 1986 to participate in [[Stargate Project|Project STAR GATE]], the government's classified remote-viewing program, in which she worked for nine years.[^1]
 
 ### Written Remote Viewing
 

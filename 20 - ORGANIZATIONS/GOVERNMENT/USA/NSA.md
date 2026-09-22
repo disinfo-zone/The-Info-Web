@@ -20,7 +20,7 @@ location: "Fort Meade, Maryland"
 > [!INFO] THIS IS NOT WIKIPEDIA
 > This page is not all encompassing. The organization is obviously much larger and more detailed than the scope of this page. Consequently, only general information and details relevant to other research thrusts are included.
 
-The National Security Agency (NSA) is a U.S. intelligence agency primarily responsible for signals intelligence (SIGINT) and cybersecurity. The NSA became involved in the [[STARGATE PROJECT|Grill Flame]] program, particularly in tasking remote viewers with sensitive intelligence collection.[^1]
+The National Security Agency (NSA) is a U.S. intelligence agency primarily responsible for signals intelligence (SIGINT) and cybersecurity. The NSA became involved in the [[Stargate Project|Grill Flame]] program, particularly in tasking remote viewers with sensitive intelligence collection.[^1]
 
 ### Role in Satellite Intelligence
 

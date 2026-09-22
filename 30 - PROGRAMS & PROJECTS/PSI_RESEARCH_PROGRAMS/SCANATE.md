@@ -20,7 +20,7 @@ end: 1977-01-01
 location: "Menlo Park, California"
 ---
 
-SCANATE (Scan by Coordinate) was the [[Central Intelligence Agency|CIA]]'s code name for its remote viewing research program at [[Stanford Research Institute|SRI]] International in Menlo Park, California, from 1972 until the program transitioned to Army management under the code name Gondola Wish in 1977. The SCANATE program was the direct institutional precursor to the entire series of government remote viewing programs that culminated in the [[STARGATE PROJECT|STAR GATE]] program declassified in 1995.
+SCANATE (Scan by Coordinate) was the [[Central Intelligence Agency|CIA]]'s code name for its remote viewing research program at [[Stanford Research Institute|SRI]] International in Menlo Park, California, from 1972 until the program transitioned to Army management under the code name Gondola Wish in 1977. The SCANATE program was the direct institutional precursor to the entire series of government remote viewing programs that culminated in the [[Stargate Project|STAR GATE]] program declassified in 1995.
 
 ### Origins and Initiation
 

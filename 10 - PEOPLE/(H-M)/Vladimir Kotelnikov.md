@@ -9,6 +9,12 @@ tags:
 summary: "Soviet radio engineer and vice president of the USSR Academy of Sciences whom a 1987 DIA briefing quoted as saying Ninel Kulagina's psychokinetic abilities were real."
 died: 2005-02-11
 location: "Moscow, Russia"
+relations:
+  - type: member_of
+    with: "[[Soviet Academy of Sciences]]"
+    start: 1953
+    role: "academician; vice president from 1969"
+    fn: 1
 created: 2026-09-22
 updated: 2026-09-22
 ---

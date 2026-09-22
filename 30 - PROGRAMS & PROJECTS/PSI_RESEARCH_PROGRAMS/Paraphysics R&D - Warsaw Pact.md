@@ -18,7 +18,7 @@ location: "Defense Intelligence Agency"
 
 The report highlighted Soviet research in biophysics and psychic healing, Kirlian photographs, auras, and map dowsing, with particular attention to [[Psychokinesis]]. It summarized the activities of individuals whose abilities were of concern to the U.S. intelligence and military communities, citing the "[[Geller Effect]]" and the frog experiments of [[Ninel Kulagina]].[^1]
 
-This report, along with the earlier "[[Controlled Offensive Behavior - USSR]]" report, contributed to the U.S. intelligence community's increased interest in and funding of its own psi research, including the [[STARGATE PROJECT|Stargate Project]].[^1]
+This report, along with the earlier "[[Controlled Offensive Behavior - USSR]]" report, contributed to the U.S. intelligence community's increased interest in and funding of its own psi research, including the [[Stargate Project|Stargate Project]].[^1]
 
 ---
 

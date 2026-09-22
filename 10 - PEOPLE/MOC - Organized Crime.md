@@ -17,14 +17,14 @@ Mobsters, cartel leaders, gangsters, and figures in international criminal netwo
 | [[Ben Kalka]] | Kalka estimated he produced 8,000 pounds of drugs worth $10 million, using ingredients that federal agents had allegedly arranged for him to buy. |
 | [[Calvin Robinson]] | On December 12, 1991, Robinson filed a 'Pro Per' affidavit in the U.S. |
 | [[Carlos Cabezas]] | Nicaraguan cocaine trafficker in San Francisco who testified that drug profits from the Meneses organization were going to the Contras, was convicted in the Frogman Case, and in 1996 admitted on the record to delivering millions in drug money to the Contras. |
-| [[Carlos Lehder]] | Colombian drug trafficker who revolutionized cocaine smuggling for the MedellÃ­n cartel in the early 1980s. |
-| [[Chepita Blandon]] | Danilo BlandÃ³n's wife, identified by the DEA as closely involved in his trafficking activities, who was arrested in 1992 and had all charges dropped when her husband agreed to become a DEA informant. |
+| [[Carlos Lehder]] | Colombian drug trafficker who revolutionized cocaine smuggling for the Medellín cartel in the early 1980s. |
+| [[Chepita Blandon]] | Danilo Blandón's wife, identified by the DEA as closely involved in his trafficking activities, who was arrested in 1992 and had all charges dropped when her husband agreed to become a DEA informant. |
 | [[Chris Denning]] | Chris Denning was a former BBC Radio One DJ who was good friends with Jimmy Savile and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment. |
 | [[Clarence Henry Osborne]] | Clarence Henry Osborne was a retired stenographer and civil servant in the Australian state of Queensland, Australia, who for years had transcribed government hansards and supreme court proceedings. |
 | [[Clint Murchison, Sr.]] | Powerful Texas oilman who cultivated relationships with Hoover, Nixon, and Johnson, with business dealings intersecting organized crime figures including the Genovese Crime Family. |
 | [[Clint W. Murchison, Jr.]] | His family cultivated relationships not only with powerful figures on the far right but also with individuals such as J. |
 | [[Cyril Smith]] | Cyril Smith was a former Liberal MP for Rochdale who was posthumously exposed as a serial violent sexual abuser of boys in 2013. |
-| [[Danilo Blandon]] | Danilo BlandÃ³n Reyes was a Nicaraguan cocaine trafficker who operated a multimillion-dollar distribution ring in Los Angeles from 1981 to 1991, serving as the primary supplier to Freeway Ricky Ross while maintaining connections to the Contra movement and receiving U.S. political asylum despite known drug involvement. |
+| [[Danilo Blandon]] | Danilo Blandón Reyes was a Nicaraguan cocaine trafficker who operated a multimillion-dollar distribution ring in Los Angeles from 1981 to 1991, serving as the primary supplier to Freeway Ricky Ross while maintaining connections to the Contra movement and receiving U.S. political asylum despite known drug involvement. |
 | [[Danny Ray Lasater]] | Little Rock bond broker and Clinton associate convicted of drug trafficking, connected to Barry Seal's operations at Mena, Arkansas. |
 | [[Don Berlage]] | Don Berlage was the district attorney for Charlevoix County, Michigan, during the 1970s. |
 | [[Edward Brongersma]] | Edward Brongersma was a Dutch Senator and prominent advocate for the legalization of pedophilia in the Netherlands. |

@@ -10,13 +10,13 @@ tags:
   - Contra_War
 summary: Colombian cocaine supplier and money launderer connected to both the Blandon and Meneses organizations, the FDN, and a Guatemalan CIA agent.
 ---
-Aparicio Moreno was a [[Colombia|Colombian]] cocaine supplier and money launderer who worked with both [[Danilo Blandon|Danilo BlandÃ³n]] and [[Norwin Meneses]], had connections to the [[FDN]], and was later linked to a [[Central Intelligence Agency]] agent in [[Guatemala]].[^1]
+Aparicio Moreno was a [[Colombia|Colombian]] cocaine supplier and money launderer who worked with both [[Danilo Blandon|Danilo Blandón]] and [[Norwin Meneses]], had connections to the [[FDN]], and was later linked to a [[Central Intelligence Agency]] agent in [[Guatemala]].[^1]
 
-### Role in the BlandÃ³n Network
+### Role in the Blandón Network
 
-Moreno was introduced to BlandÃ³n by Norwin Meneses and supplied BlandÃ³n with "so many" thousands of kilos of cocaine in 1984 and 1985 that BlandÃ³n could not put an exact number on them. BlandÃ³n worked with Moreno until 1987. [[Ronald Lister]] told police in 1996 that Moreno was "affiliated with [the] FDN," and BlandÃ³n strongly suggested the same during interviews with the CIA Inspector General. Moreno arranged "at least one 1-ton delivery that was delivered by air via Oklahoma," BlandÃ³n told the CIA. BlandÃ³n said "he and his associates thought the plane might be connected with the CIA because someone had placed a small FDN sticker somewhere on the airplane."[^1]
+Moreno was introduced to Blandón by Norwin Meneses and supplied Blandón with "so many" thousands of kilos of cocaine in 1984 and 1985 that Blandón could not put an exact number on them. Blandón worked with Moreno until 1987. [[Ronald Lister]] told police in 1996 that Moreno was "affiliated with [the] FDN," and Blandón strongly suggested the same during interviews with the CIA Inspector General. Moreno arranged "at least one 1-ton delivery that was delivered by air via Oklahoma," Blandón told the CIA. Blandón said "he and his associates thought the plane might be connected with the CIA because someone had placed a small FDN sticker somewhere on the airplane."[^1]
 
-A DEA informant described Moreno as a cocaine supplier and money launderer for both Meneses's [[San Francisco]]-based branch and BlandÃ³n's [[Los Angeles]] network. Moreno, his wife Aura, and his family hauled millions in drug profits to [[Miami]] hidden in a motor home. Moreno was also living in Ronald Lister's former Mission Viejo residence when the [[LASD Major Violators]] raided it in October 1986. In Lister's handwritten notes, next to the name "Aparicio," he had written "FDN coordinator."[^1]
+A DEA informant described Moreno as a cocaine supplier and money launderer for both Meneses's [[San Francisco]]-based branch and Blandón's [[Los Angeles]] network. Moreno, his wife Aura, and his family hauled millions in drug profits to [[Miami]] hidden in a motor home. Moreno was also living in Ronald Lister's former Mission Viejo residence when the [[LASD Major Violators]] raided it in October 1986. In Lister's handwritten notes, next to the name "Aparicio," he had written "FDN coordinator."[^1]
 
 ### Guatemala Connections
 

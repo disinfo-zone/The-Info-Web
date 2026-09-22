@@ -18,7 +18,7 @@ Russia (the Russian Federation) is the world's largest country by area, spanning
 ### Post-Soviet Intelligence Agencies
 
 The [[KGB]] (Committee for State Security) was dissolved following the August 1991 coup attempt and formally abolished in November 1991. Its successor agencies included:
-- [[FSB]] (Federal Security Service, Federalnaya Sluzhba Bezopasnosti) - domestic counterintelligence and internal security, headquartered at the [[Lubyanka]] in [[Moscow]]
+- [[FSB]] (Federal Security Service, Federalnaya Sluzhba Bezopasnosti) - domestic counterintelligence and internal security, headquartered at the [[Lubyanka]] in Moscow
 - [[SVR]] (Foreign Intelligence Service, Sluzhba Vneshney Razvedki) - foreign intelligence, headquartered at Yasenevo in Moscow
 - [[GRU]] (Main Intelligence Directorate of the General Staff) - military intelligence, which survived the Soviet collapse organizationally intact
 - [[FSO]] (Federal Protective Service) - protection of senior officials
@@ -28,7 +28,7 @@ The FSB under Vladimir Putin's directorship (1998-1999) became the institutional
 ### Relevance to Vault Subjects
 
 Russia appears throughout this vault as the origin or target of the intelligence operations it documents:
-- The [[Cold War]] and the [[Soviet Union]]'s intelligence programs generated the American intelligence bureaucracy, including the CIA's parapsychology research programs ([[STARGATE PROJECT]]) that monitored Soviet "psychotronics" research
+- The [[Cold War]] and the Soviet Union's intelligence programs generated the American intelligence bureaucracy, including the CIA's parapsychology research programs ([[Stargate Project]]) that monitored Soviet "psychotronics" research
 - The [[Gehlen Organization]]'s early Cold War intelligence on the Soviet military was provided to the CIA in exchange for protection of former Nazi intelligence personnel
 - Robert Maxwell's claimed intelligence connections involved Soviet-era KGB contacts alongside [[Mossad]] relationships
 - Russian organized crime organizations that emerged from the Soviet collapse became entangled with [[BCCI]]-era financial networks in the post-1991 period[^1]

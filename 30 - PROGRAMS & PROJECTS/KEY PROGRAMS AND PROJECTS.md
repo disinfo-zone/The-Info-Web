@@ -21,7 +21,7 @@ Government-funded programs investigating psychic phenomena, remote viewing, and 
 | [[Paraphysics R&D - Warsaw Pact]] | Paraphysics R&D - Warsaw Pact' was a 1977 Defense Intelligence Agency report authored by Dale Graff. The report assessed Soviet Union and Warsaw Pact research into Psi phenomena, including electromagnetic fields, quantum physics, holography, and... |
 | [[Project Deep Quest]] | Project Deep Quest was a unique psychic functioning experiment conducted in 1977, involving Remote Viewing to locate an underwater shipwreck from a submersible. |
 | [[SCANATE]] | SCANATE was an early Central Intelligence Agency program that explored Psi phenomena, particularly Remote Viewing. It was initiated in 1970 in response to growing concerns about Soviet Parapsychology research. |
-| [[STARGATE PROJECT]] | The STARGATE PROJECT was a secret U.S. Army unit established in 1977 at Fort Meade, Maryland. Its purpose was to investigate Psi phenomena, particularly Remote Viewing, for military and intelligence applications. |
+| [[Stargate Project]] | The Stargate Project was a secret U.S. Army unit established in 1977 at Fort Meade, Maryland. Its purpose was to investigate Psi phenomena, particularly Remote Viewing, for military and intelligence applications. |
 | [[The Nautilus (Telepathy Project)]] | The Nautilus (Telepathy Project) refers to a sensational 1960 article in the French magazine *Science et Vie* titled 'The Secret of the Nautilus.' The article claimed that the U.S. |
 
 ## Intelligence Operations

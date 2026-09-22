@@ -1,4 +1,6 @@
 ---
+aliases:
+  - United States Army
 title: U.S. Army
 tags:
   - Organization
@@ -37,7 +39,7 @@ The U.S. Army trained hundreds of [[Nicaraguan National Guard]] officers who lat
 - [[Fort Huachuca]]
 - [[Fort Meade]]
 ### Projects
-- [[STARGATE PROJECT]]
+- [[Stargate Project]]
 
 ### Footnotes
 

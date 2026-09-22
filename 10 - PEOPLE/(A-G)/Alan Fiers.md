@@ -40,7 +40,7 @@ One Central American station chief recalled that CIA leadership's unspoken polic
 
 ### Ilopango Reporting Responsibility
 
-Fiers acknowledged the CIA "had a capability and indeed a responsibility for reporting what had been happening at [[Ilopango Airbase|Ilopango Air Force Base]]" in [[El Salvador]]. He testified that [[Felix Rodriguez]] was sent to El Salvador in early 1985 as part of a CIA reorganization: "As a result of the change in management of the task force. . .we undertook a complete review of our efforts in San Salvador. . .and made adjustments in that undertaking that left a void. Felix Rodriguez was put intoâ€”sent to El Salvador to work in the areas where we had left a void."[^3]
+Fiers acknowledged the CIA "had a capability and indeed a responsibility for reporting what had been happening at [[Ilopango Airbase|Ilopango Air Force Base]]" in [[El Salvador]]. He testified that [[Felix Rodriguez]] was sent to El Salvador in early 1985 as part of a CIA reorganization: "As a result of the change in management of the task force. . .we undertook a complete review of our efforts in San Salvador. . .and made adjustments in that undertaking that left a void. Felix Rodriguez was put into, sent to El Salvador to work in the areas where we had left a void."[^3]
 
 ### Footnotes
 

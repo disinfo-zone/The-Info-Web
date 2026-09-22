@@ -8,6 +8,16 @@ tags:
   - Princeton
 summary: "Chicago remote-viewing experimenter who from 1979 ran Robert Jahn's privately funded Princeton Engineering Anomalies Research laboratory."
 location: "Princeton, New Jersey"
+relations:
+  - type: reported_to
+    with: "[[Robert Jahn]]"
+    start: 1979
+    role: "manager, Princeton Engineering Anomalies Research"
+    fn: 3
+  - type: member_of
+    with: "[[Society for Scientific Exploration]]"
+    role: "officer"
+    fn: 4
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -16,7 +26,7 @@ Brenda J. Dunne, of the Midwest Parapsychological Research Institute at Mundelei
 
 ### PEAR
 
-By 1979 [[Robert Jahn]] had started the Princeton Engineering Anomalies Research laboratory at [[Princeton University]] and hired Dunne to run it, and in 1987 they published *Margins of Reality.*[^3] Jahn relied on private donations of more than ten million dollars, the first and largest from [[James S. McDonnell]] of [[McDonnell Douglas]]. PEAR published more than sixty research reports, most in the journal of the [[Society for Scientific Exploration]], of which Jahn and Dunne were officers; it announced its closure in 2007. "Many PEAR Tree members who are science faculty members will not reveal themselves publicly," Dunne told the *New York Times.*[^4]
+By 1979 [[Robert Jahn]] had started the Princeton Engineering Anomalies Research laboratory at [[Princeton University]] and hired Dunne to run it, and in 1987 they published *Margins of Reality.*[^3] Jahn relied on private donations of more than ten million dollars, the first and largest from [[James S. McDonnell]] of [[McDonnell Douglas]]. PEAR published more than sixty research reports, most in the journal of the [[Society for Scientific Exploration]], of which Jahn and Dunne were officers; it announced its closure in 2007. "Many PEAR Tree members who are science faculty members will not reveal themselves publicly," Dunne told the *[[New York Times]].*[^4]
 
 ### Footnotes
 

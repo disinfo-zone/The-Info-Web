@@ -15,7 +15,7 @@ tags:
 summary: "Central American nation bordering Nicaragua that served as the primary base for the Southern Front Contra operations, the site of Norwin Meneses's drug empire, and the location of CIA operative John Hull's ranch."
 location: "Central America"
 ---
-Costa Rica is a [[Central America|Central American]] nation bordering [[Nicaragua]] to the south that served as the primary operational base for the Southern Front [[Contras]] during the 1980s.[^1] The country's northern region, adjacent to the Nicaraguan border, became a hub for [[cocaine]] trafficking, arms smuggling, and covert operations involving the [[Central Intelligence Agency]], [[DEA]], and Contra forces.[^2]
+Costa Rica is a [[Central America|Central American]] nation bordering [[Nicaragua]] to the south that served as the primary operational base for the Southern Front [[Contras]] during the 1980s.[^1] The country's northern region, adjacent to the Nicaraguan border, became a hub for [[Cocaine]] trafficking, arms smuggling, and covert operations involving the [[Central Intelligence Agency]], [[DEA]], and Contra forces.[^2]
 
 ### Contra Southern Front
 

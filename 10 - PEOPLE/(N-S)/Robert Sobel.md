@@ -28,7 +28,7 @@ Sobel later acknowledged that "as time went on it became common knowledge among 
 
 ### Results
 
-By late January 1987, the task force had served fifteen search warrants, arrested five people, seized nearly eight pounds of [[cocaine]] worth $1.3 million, $63,122 in cash, and twenty guns. After Ross's arrest on May 5, 1987, the LAPD issued a press release announcing the seizure of $13.3 million in cocaine, $240,000 in cash, sixty-two firearms, and sixty-one search warrants served. Deputy LAPD chief Glenn Levant called the Freeway Rick Task Force "a model for other jurisdictions to follow to attack mid-level cocaine trafficking in California." The celebrations were short-lived; tape-recorded evidence of a frame-up led a judge to dismiss all charges.[^1]
+By late January 1987, the task force had served fifteen search warrants, arrested five people, seized nearly eight pounds of [[Cocaine]] worth $1.3 million, $63,122 in cash, and twenty guns. After Ross's arrest on May 5, 1987, the LAPD issued a press release announcing the seizure of $13.3 million in cocaine, $240,000 in cash, sixty-two firearms, and sixty-one search warrants served. Deputy LAPD chief Glenn Levant called the Freeway Rick Task Force "a model for other jurisdictions to follow to attack mid-level cocaine trafficking in California." The celebrations were short-lived; tape-recorded evidence of a frame-up led a judge to dismiss all charges.[^1]
 
 ### Majors II and Operation Big Spender
 

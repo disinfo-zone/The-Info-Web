@@ -10,7 +10,7 @@ Opa Locka was a location in the [[Miami]], [[Florida]] area connected to [[Contr
 
 ### Aviation Hub
 
-Opa Locka's airfield served as one of the aviation facilities in the Miami area used by pilots connected to both the [[Central Intelligence Agency]]'s Contra supply operations and the [[cocaine]] trafficking networks that funded them. The proximity to [[Miami International Airport]] and the cluster of aviation-related businesses in the area, including [[DIACSA]], made Opa Locka part of the infrastructure supporting the dual weapons-for-drugs shuttle between [[Central America]] and the [[United States]].[^2]
+Opa Locka's airfield served as one of the aviation facilities in the Miami area used by pilots connected to both the [[Central Intelligence Agency]]'s Contra supply operations and the [[Cocaine]] trafficking networks that funded them. The proximity to [[Miami International Airport]] and the cluster of aviation-related businesses in the area, including [[DIACSA]], made Opa Locka part of the infrastructure supporting the dual weapons-for-drugs shuttle between [[Central America]] and the [[United States]].[^2]
 
 ### Footnotes
 

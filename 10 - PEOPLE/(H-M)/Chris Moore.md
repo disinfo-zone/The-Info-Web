@@ -13,7 +13,7 @@ Chris Moore was a former reserve Laguna Beach police officer who served as offic
 
 ### Role at Pyramid International
 
-"I think I was actually an officer in Pyramid International. Ron put my name down as treasurer or director or something because he needed to have some directors for the incorporation papers," Moore confirmed. He said Lister had extensive business dealings in [[Central America]], specifically in El Salvador. Lister explained his travels there to Moore as involving gun running and "helping the [[Contras]], supposedly on behalf of the [U.S.] government. I remember the longest conversations with him â€” 'I'm protected. You're working for the government. Don't worry about anything. I'm protected, I'm protected.' I don't know if that was true or not, but I do know that we stopped worrying about domestic security jobs and started concentrating on foreign ones."[^1]
+"I think I was actually an officer in Pyramid International. Ron put my name down as treasurer or director or something because he needed to have some directors for the incorporation papers," Moore confirmed. He said Lister had extensive business dealings in [[Central America]], specifically in El Salvador. Lister explained his travels there to Moore as involving gun running and "helping the [[Contras]], supposedly on behalf of the [U.S.] government. I remember the longest conversations with him, 'I'm protected. You're working for the government. Don't worry about anything. I'm protected, I'm protected.' I don't know if that was true or not, but I do know that we stopped worrying about domestic security jobs and started concentrating on foreign ones."[^1]
 
 ### El Salvador Trip
 

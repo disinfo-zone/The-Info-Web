@@ -12,7 +12,7 @@ Daniel Ortega was the [[Sandinistas|Sandinista]] president of [[Nicaragua]] whos
 
 ### Target of Covert Operations
 
-The entire Contra war was designed to destabilize and ultimately overthrow Ortega's government. CIA agent [[Dagoberto Nunez|Dagoberto NuÃ±ez]] obtained a contract with H&M Corp. to cover an intelligence-gathering operation aimed at Ortega, preparing to sign an agreement for shrimping rights off the Pacific Coast of Nicaragua as cover for espionage. The [[Central Intelligence Agency]] employed multiple schemes to gather intelligence on Ortega, including attempts to [[Jorge Ochoa|recruit Colombian drug lords]] to publicly implicate him in drug trafficking. The DEA sent agent James Kible to visit jailed [[Medellin Cartel|MedellÃ­n Cartel]] boss Jorge Ochoa in [[Spain]] to persuade him to implicate the Sandinistas.[^2]
+The entire Contra war was designed to destabilize and ultimately overthrow Ortega's government. CIA agent [[Dagoberto Nunez|Dagoberto Nuñez]] obtained a contract with H&M Corp. to cover an intelligence-gathering operation aimed at Ortega, preparing to sign an agreement for shrimping rights off the Pacific Coast of Nicaragua as cover for espionage. The [[Central Intelligence Agency]] employed multiple schemes to gather intelligence on Ortega, including attempts to [[Jorge Ochoa|recruit Colombian drug lords]] to publicly implicate him in drug trafficking. The DEA sent agent James Kible to visit jailed [[Medellin Cartel|Medellín Cartel]] boss Jorge Ochoa in [[Spain]] to persuade him to implicate the Sandinistas.[^2]
 
 ### Footnotes
 

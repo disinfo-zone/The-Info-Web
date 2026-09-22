@@ -15,7 +15,7 @@ Donald M. Kerr, Jr. served in the [[Jimmy Carter|Carter]] administration as acti
 
 ### Sun Streak
 
-Donald M. Kerr was the director of [[Los Alamos National Laboratory]] in [[New Mexico]]. He was a member of the new science panel for the [[STARGATE PROJECT|Sun Streak]] program, which was established on January 31, 1986[^2].
+Donald M. Kerr was the director of [[Los Alamos National Laboratory]] in [[New Mexico]]. He was a member of the new science panel for the [[Stargate Project|Sun Streak]] program, which was established on January 31, 1986[^2].
 
 ### Footnotes
 

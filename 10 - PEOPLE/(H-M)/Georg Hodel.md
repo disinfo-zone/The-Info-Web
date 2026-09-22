@@ -16,7 +16,7 @@ Hodel found the massive files of Meneses's 1992 court case in the Nicaraguan Sup
 
 ### Confirmation of Contra Drug Links
 
-Hodel confirmed the tip that had started Webb's investigation, verifying that [[Danilo Blandon|Danilo Blandón]] and Norwin Meneses were friends, business partners, and Contra founders whose families were close to the [[Anastasio Somoza|Somoza]] regime. He checked the information with former Contra commander [[Eden Pastora]], former Contra lawyer [[Carlos Icaza]], and others who knew both men. Hodel also confirmed that Meneses's chief aide, [[Enrique Miranda]], had admitted at trial that Meneses sold [[cocaine]] for the [[Contras]], flying it out of an air base in [[El Salvador]] into a military airfield in [[Texas]].[^1]
+Hodel confirmed the tip that had started Webb's investigation, verifying that [[Danilo Blandon|Danilo Blandón]] and Norwin Meneses were friends, business partners, and Contra founders whose families were close to the [[Anastasio Somoza|Somoza]] regime. He checked the information with former Contra commander [[Eden Pastora]], former Contra lawyer [[Carlos Icaza]], and others who knew both men. Hodel also confirmed that Meneses's chief aide, [[Enrique Miranda]], had admitted at trial that Meneses sold [[Cocaine]] for the [[Contras]], flying it out of an air base in [[El Salvador]] into a military airfield in [[Texas]].[^1]
 
 ### Interview with Miranda
 

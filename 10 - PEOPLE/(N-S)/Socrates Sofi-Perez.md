@@ -10,7 +10,7 @@ Socrates Sofi-Perez was a Cuban [[Bay of Pigs|Bay of Pigs]] veteran and [[DEA]] 
 
 ### Informant for Castillo
 
-Castillo recruited Sofi-Perez as an informant while based in [[Guatemala City]]. Sofi-Perez provided detailed information about the Contra drug operation at Ilopango, where pilots flew weapons south to the Contras and returned with [[cocaine]]. His testimony as a Bay of Pigs veteran and Contra insider gave credibility to Castillo's reports to DEA headquarters, which were subsequently ignored. Sofi-Perez's account was among the earliest detailed descriptions of the drug trafficking operation at Ilopango Air Base that the [[Central Intelligence Agency]] and [[Oliver North]] were running.[^2]
+Castillo recruited Sofi-Perez as an informant while based in [[Guatemala City]]. Sofi-Perez provided detailed information about the Contra drug operation at Ilopango, where pilots flew weapons south to the Contras and returned with [[Cocaine]]. His testimony as a Bay of Pigs veteran and Contra insider gave credibility to Castillo's reports to DEA headquarters, which were subsequently ignored. Sofi-Perez's account was among the earliest detailed descriptions of the drug trafficking operation at Ilopango Air Base that the [[Central Intelligence Agency]] and [[Oliver North]] were running.[^2]
 
 ### Footnotes
 

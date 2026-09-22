@@ -11,7 +11,7 @@ The Laguna Beach Police Department employed [[Ronald Lister|Ron Lister]], a form
 
 ### Ron Lister's Background
 
-The Torres brothers told investigators that "Blandón is working with an ex-Laguna Beach police officer by the name of Ronnie, who lives in an expensive house in Mission Viejo and drives a new Mercedes automobile. Ronnie transported 100 kilos of [[cocaine]] to the Black market and has transported millions of dollars to [[Miami]] for Danilo Blandón." Lister operated Mundy Security Group Inc., incorporated in Laguna Beach in mid-1983, which provided cover for his weapons procurement activities. He claimed to have high-level CIA contacts at [[Fluor Corporation]] and told drug dealers his "friends in Washington" could make their legal problems disappear.[^2]
+The Torres brothers told investigators that "Blandón is working with an ex-Laguna Beach police officer by the name of Ronnie, who lives in an expensive house in Mission Viejo and drives a new Mercedes automobile. Ronnie transported 100 kilos of [[Cocaine]] to the Black market and has transported millions of dollars to [[Miami]] for Danilo Blandón." Lister operated Mundy Security Group Inc., incorporated in Laguna Beach in mid-1983, which provided cover for his weapons procurement activities. He claimed to have high-level CIA contacts at [[Fluor Corporation]] and told drug dealers his "friends in Washington" could make their legal problems disappear.[^2]
 
 ### Purged Records
 

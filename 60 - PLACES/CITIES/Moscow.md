@@ -17,7 +17,7 @@ Moscow is the capital and largest city of Russia, situated in the central Europe
 
 ### KGB Headquarters
 
-The [[KGB]] was headquartered at the [[Lubyanka]], a building on Lubyanka Square in central Moscow that also housed the organization's internal prison. The Lubyanka was the administrative center of Soviet intelligence from 1920; the KGB's various predecessor organizations (Cheka, GPU, OGPU, NKVD, NKGB, MGB) were all headquartered at or adjacent to the same building. [[KGB]] operations directed from Moscow included: comprehensive programs to penetrate Western intelligence services (the Cambridge Five, Kim Philby, and others operated as Soviet assets); active measures campaigns to spread disinformation in Western media; and directorate operations that ran agents across Europe, the [[Middle East]], Africa, and the Americas.[^1]
+The KGB was headquartered at the [[Lubyanka]], a building on Lubyanka Square in central Moscow that also housed the organization's internal prison. The Lubyanka was the administrative center of Soviet intelligence from 1920; the KGB's various predecessor organizations (Cheka, GPU, OGPU, NKVD, NKGB, MGB) were all headquartered at or adjacent to the same building. KGB operations directed from Moscow included: comprehensive programs to penetrate Western intelligence services (the Cambridge Five, Kim Philby, and others operated as Soviet assets); active measures campaigns to spread disinformation in Western media; and directorate operations that ran agents across Europe, the [[Middle East]], Africa, and the Americas.[^1]
 
 ### Embassy Row and Moscow Rules
 
@@ -25,11 +25,11 @@ The American Embassy in Moscow, located on Tchaikovsky Street, was a primary KGB
 
 ### Mikhail Gorbachev and the End of the Cold War
 
-Moscow's political evolution under Mikhail Gorbachev's glasnost and perestroika reforms (1985-1991) produced the conditions for the [[Cold War]]'s end. The Soviet coup attempt of August 19-22, 1991, launched against Gorbachev by hardliners, failed when military units refused orders to fire on protesters surrounding the Russian parliament ([[White House]]) building. The [[Soviet Union]] formally dissolved on December 25, 1991; Moscow became the capital of the Russian Federation. The KGB was dissolved and its functions distributed among successor agencies including the FSB (Federal Security Service) and SVR (Foreign Intelligence Service).[^1]
+Moscow's political evolution under Mikhail Gorbachev's glasnost and perestroika reforms (1985-1991) produced the conditions for the Cold War's end. The Soviet coup attempt of August 19-22, 1991, launched against Gorbachev by hardliners, failed when military units refused orders to fire on protesters surrounding the Russian parliament ([[White House]]) building. The Soviet Union formally dissolved on December 25, 1991; Moscow became the capital of the Russian Federation. The KGB was dissolved and its functions distributed among successor agencies including the FSB (Federal Security Service) and SVR (Foreign Intelligence Service).[^1]
 
 ### STARGATE and Moscow Signal
 
-Moscow is indirectly present in this vault's parapsychology subjects. The [[STARGATE PROJECT]]'s most significant early remote viewing test - [[Pat Price]]'s 1974 description of a Soviet military facility at Semipalatinsk, Kazakhstan - was directed at Soviet military infrastructure. The [[Moscow Signal]] (the Soviet microwave irradiation of the U.S. Embassy in Moscow from 1953 to 1976) generated CIA research into the health and potential psychological effects of microwave radiation that intersected with the agency's broader interest in psychotronic research.[^2]
+Moscow is indirectly present in this vault's parapsychology subjects. The [[Stargate Project]]'s most significant early remote viewing test - [[Pat Price]]'s 1974 description of a Soviet military facility at Semipalatinsk, Kazakhstan - was directed at Soviet military infrastructure. The [[Moscow Signal]] (the Soviet microwave irradiation of the U.S. Embassy in Moscow from 1953 to 1976) generated CIA research into the health and potential psychological effects of microwave radiation that intersected with the agency's broader interest in psychotronic research.[^2]
 
 ### Footnotes
 

@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: San Jose, California was the home of the San Jose Mercury News, which published the Dark Alliance series, and a secondary market for Contra-connected cocaine distribution.
 ---
-San Jose, [[California]] was the home of the [[San Jose Mercury News]], which published the [[Dark Alliance]] series, and a secondary market for Contra-connected [[cocaine]] distribution. The city appeared in the story both as a base for [[Gary Webb]]'s newspaper and as one of the communities affected by the Contra-drug pipeline.[^1]
+San Jose, [[California]] was the home of the [[San Jose Mercury News]], which published the [[Dark Alliance]] series, and a secondary market for Contra-connected [[Cocaine]] distribution. The city appeared in the story both as a base for [[Gary Webb]]'s newspaper and as one of the communities affected by the Contra-drug pipeline.[^1]
 
 ### Cocaine Distribution
 

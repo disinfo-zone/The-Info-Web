@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Mario Calero was the brother of FDN leader Adolfo Calero who operated air cargo companies used for Contra supply missions and cocaine smuggling.
 ---
-Mario Calero was the brother of [[FDN]] leader [[Adolfo Calero]] who operated air cargo companies used for Contra supply missions and [[cocaine]] smuggling. Mario ran [[Hondu Carib Cargo]] Inc., which the FDN hired to transport supplies, blurring the line between legitimate logistics and drug trafficking.[^1]
+Mario Calero was the brother of [[FDN]] leader [[Adolfo Calero]] who operated air cargo companies used for Contra supply missions and [[Cocaine]] smuggling. Mario ran [[Hondu Carib Cargo]] Inc., which the FDN hired to transport supplies, blurring the line between legitimate logistics and drug trafficking.[^1]
 
 ### Hondu Carib Cargo
 

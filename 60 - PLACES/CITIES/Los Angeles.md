@@ -10,7 +10,7 @@ tags:
   - Dark_Alliance_Investigation
 summary: Largest city in California and the center of the crack cocaine explosion in South Central Los Angeles, fueled by cocaine supplied by Danilo Blandón's Contra-connected drug ring throughout the 1980s.
 ---
-Los Angeles is the largest city in [[California]] and was the epicenter of the [[Crack Cocaine|crack]] cocaine explosion in [[South Central Los Angeles|South Central L.A.]] during the 1980s, fueled by [[cocaine]] supplied by [[Danilo Blandon|Danilo Blandón]]'s Contra-connected trafficking network.[^1]
+Los Angeles is the largest city in [[California]] and was the epicenter of the [[Crack Cocaine|crack]] cocaine explosion in [[South Central Los Angeles|South Central L.A.]] during the 1980s, fueled by [[Cocaine]] supplied by [[Danilo Blandon|Danilo Blandón]]'s Contra-connected trafficking network.[^1]
 
 ### Nicaraguan Exile Community
 

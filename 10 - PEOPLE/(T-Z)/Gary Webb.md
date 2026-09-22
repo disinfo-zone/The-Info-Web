@@ -4,7 +4,7 @@ aliases:
   - Gary Webb
   - Gary Stephen Webb
 created: 2024-04-25
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Key Figures"
 tags:
   - Person
@@ -62,7 +62,7 @@ At Ross's sentencing, Judge [[Marilyn Huff]] told prosecutor [[LJ Oneale]] she w
 
 ### Media Attacks
 
-In October 1996, the [[Washington Post]] published the first major attack, written by [[Walter Pincus]], a former CIA operative, and Roberto Suro. The story falsely claimed Webb alleged a CIA conspiracy to target black communities and accepted Blandón's trial testimony that he quit selling Contra cocaine before meeting Ross. The L.A. Times followed with a three-day series by Katz and Washington bureau chief [[Doyle McManus|McManus]], declaring that crack "followed no blueprint or master plan" and that the CIA bore no responsibility. McManus's story relied on unnamed sources who claimed only $50,000 to $60,000 went to the Contras, a figure Rafael Cornejo scoffed at: "Sixty thousand? You can raise that in an afternoon."[^5]
+In October 1996, the [[Washington Post]] published the first major attack, written by [[Walter Pincus]], whom Webb described as a former CIA operative, and Roberto Suro. The story falsely claimed Webb alleged a CIA conspiracy to target black communities and accepted Blandón's trial testimony that he quit selling Contra cocaine before meeting Ross. The L.A. Times followed with a three-day series by Katz and Washington bureau chief [[Doyle McManus|McManus]], declaring that crack "followed no blueprint or master plan" and that the CIA bore no responsibility. McManus's story relied on unnamed sources who claimed only $50,000 to $60,000 went to the Contras, a figure Rafael Cornejo scoffed at: "Sixty thousand? You can raise that in an afternoon."[^5]
 
 ### Follow-Up Reporting and Suppression
 
@@ -72,7 +72,7 @@ Executive editor [[Jerry Ceppos]] initially defended the series but on March 25,
 
 ### Resignation and Aftermath
 
-A few days after Webb's resignation was announced in November 1997, the CIA leaked the conclusion of an internal investigation to the L.A. Times and the Mercury News, claiming it had absolved the agency of wrongdoing. When the declassified version was released in 1998, it showed the CIA had known about Norwin Meneses's activities and had intervened in the [[Frogman Case]]. [[Fred Hitz|CIA Inspector General Fred Hitz]] testified before Congress that the agency had not "in an expeditious or consistent fashion" cut off relationships with Contra-connected drug traffickers, and revealed a secret 1982 agreement between the CIA and Justice Department that exempted CIA assets from drug crimes reporting.[^6]
+A few days after Webb's resignation was announced in November 1997, the CIA leaked the conclusion of an internal investigation to the L.A. Times and the Mercury News, claiming it had absolved the agency of wrongdoing. When the declassified version was released in 1998, it showed the CIA had known about Norwin Meneses's activities and had intervened in the [[Frogman Case]]. [[Fred Hitz|CIA Inspector General Fred Hitz]] testified before Congress that the agency had not "in an expeditious or consistent fashion" cut off relationships with Contra-connected drug traffickers, and revealed a secret 1982 agreement between the CIA and Justice Department that exempted CIA assets from drug crimes reporting.[^6] The Justice Department inspector general's report on the affair was signed on December 17, 1997, but Attorney General [[Janet Reno]] invoked section 8E of the Inspector General Act to defer its release, "the first time that publication of one of our reports has been prevented in this manner"; it was published in July 1998.[^7]
 
 ### Footnotes
 
@@ -82,3 +82,4 @@ A few days after Webb's resignation was announced in November 1997, the CIA leak
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 26: "That matter, if true, would be classified"
 [^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 27: "A very difficult decision"
 [^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue: "The damage that has been done"
+[^7]: U.S. Department of Justice, Office of the Inspector General. *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions,* epilogue, July 1998. https://oig.justice.gov/sites/default/files/legacy/special/9712/

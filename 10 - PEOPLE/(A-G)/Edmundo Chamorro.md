@@ -10,7 +10,7 @@ Edmundo Chamorro was the deputy commander of the [[UDN-FARN]] [[Contras|Contra]]
 
 ### Captured on Wiretaps
 
-When Costa Rican OIJ agents listened in on phone calls of cocaine dealer [[Horacio Pereira]], they found themselves eavesdropping on Contra commanders discussing [[cocaine]] shipments, drug labs, weapons deliveries, and international politics. Among those captured on the wiretaps was UDN-FARN subcommander Edmundo Chamorro. The wiretaps provided direct evidence of the integration between Contra military operations and drug trafficking on the Southern Front.[^2]
+When Costa Rican OIJ agents listened in on phone calls of cocaine dealer [[Horacio Pereira]], they found themselves eavesdropping on Contra commanders discussing [[Cocaine]] shipments, drug labs, weapons deliveries, and international politics. Among those captured on the wiretaps was UDN-FARN subcommander Edmundo Chamorro. The wiretaps provided direct evidence of the integration between Contra military operations and drug trafficking on the Southern Front.[^2]
 
 ### CIA Connections
 

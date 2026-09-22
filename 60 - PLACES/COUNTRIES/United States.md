@@ -1,4 +1,6 @@
 ﻿---
+aliases:
+  - America
 category: "Country"
 tags:
   - Geography
@@ -9,7 +11,7 @@ tags:
   - Dark_Alliance_Investigation
 summary: The United States was the destination for Contra-connected cocaine trafficked by Norwin Meneses and Danilo Blandón, the site of the crack cocaine explosion in inner-city neighborhoods, and where the government simultaneously prosecuted the War on Drugs while protecting CIA-linked drug traffickers.
 ---
-The United States was the destination for thousands of tons of [[cocaine]] trafficked through CIA-connected networks during the Contra war, and the site of the [[Crack Cocaine|crack]] epidemic that devastated inner-city communities.[^1]
+The United States was the destination for thousands of tons of [[Cocaine]] trafficked through CIA-connected networks during the Contra war, and the site of the [[Crack Cocaine|crack]] epidemic that devastated inner-city communities.[^1]
 
 ### Contra Cocaine Pipeline
 

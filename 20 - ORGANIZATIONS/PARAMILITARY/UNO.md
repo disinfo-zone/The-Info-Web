@@ -11,7 +11,7 @@ UNO (United Nicaraguan Opposition) was a [[Central Intelligence Agency]]-inspire
 
 ### Purpose and Structure
 
-UNO existed mostly as a public relations creation. The [[State Department]] used UNO to deny drug links, assuring Congress that "DEA has examined allegations of linkages between members of the UNO/[[FARN]] and suspected traffickers. It has found no information indicating that members of this group have been involved in narcotics trafficking." This assurance came despite extensive evidence to the contrary, including wiretaps capturing Contra commanders discussing [[cocaine]] shipments and [[DEA]] reports linking UNO members to drug trafficking.[^2]
+UNO existed mostly as a public relations creation. The [[State Department]] used UNO to deny drug links, assuring Congress that "DEA has examined allegations of linkages between members of the UNO/[[FARN]] and suspected traffickers. It has found no information indicating that members of this group have been involved in narcotics trafficking." This assurance came despite extensive evidence to the contrary, including wiretaps capturing Contra commanders discussing [[Cocaine]] shipments and [[DEA]] reports linking UNO members to drug trafficking.[^2]
 
 ### Facade of Unity
 

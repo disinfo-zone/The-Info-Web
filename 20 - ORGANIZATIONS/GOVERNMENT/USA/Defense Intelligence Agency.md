@@ -15,9 +15,9 @@ summary: "The Defense Intelligence Agency (DIA) is a major intelligence agency o
 start: 1961-10-01
 location: "Washington, D.C."
 ---
-The [[Defense Intelligence Agency]] (DIA) is a major intelligence agency of the United States, specializing in defense and military intelligence. The DIA played a significant role in the oversight and funding of the [[STARGATE PROJECT]], particularly after the Army's initial involvement.[^1]
+The [[Defense Intelligence Agency]] (DIA) is a major intelligence agency of the United States, specializing in defense and military intelligence. The DIA played a significant role in the oversight and funding of the [[Stargate Project]], particularly after the Army's initial involvement.[^1]
 
-In March 1979, when [[Jimmy Carter]] decided to provide [[Israel]] with KH-11 satellite photographs, the images were picked up by Israeli military attachés at a special Pentagon office controlled by the DIA. Following the Israeli bombing of [[Osirak bombing]] in June 1981, a review found that [[Israel]] had significantly expanded the agreement, leading to anger within the [[Central Intelligence Agency|CIA]] and DIA over the "very lax" management of the liaison agreement.[^2]
+In March 1979, when [[Jimmy Carter]] decided to provide [[Israel]] with KH-11 satellite photographs, the images were picked up by Israeli military attachés at a special Pentagon office controlled by the DIA. Following the Israeli bombing of [[Osirak bombing]] in June 1981, a review found that Israel had significantly expanded the agreement, leading to anger within the [[Central Intelligence Agency|CIA]] and DIA over the "very lax" management of the liaison agreement.[^2]
 
 ### Involvement in Psi Research
 

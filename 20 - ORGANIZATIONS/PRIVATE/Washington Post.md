@@ -14,7 +14,7 @@ location: "Washington, D.C."
 
 ### Attack on Dark Alliance
 
-The Post's story, headlined "The CIA and Crack: Evidence is Lacking of Alleged Plot," falsely claimed the series alleged a CIA conspiracy to target black communities. Despite [[Danilo Blandon|Danilo Blandón]]'s testimony about selling 200 to 300 kilos of [[cocaine]] for the Contras, the Post quoted unnamed officials minimizing the volume to "$30,000 to $60,000 worth of cocaine in two transactions." The story buried the admission that "the CIA knew about some of these activities and did little or nothing to stop them."[[^1]
+The Post's story, headlined "The CIA and Crack: Evidence is Lacking of Alleged Plot," falsely claimed the series alleged a CIA conspiracy to target black communities. Despite [[Danilo Blandon|Danilo Blandón]]'s testimony about selling 200 to 300 kilos of [[Cocaine]] for the Contras, the Post quoted unnamed officials minimizing the volume to "$30,000 to $60,000 worth of cocaine in two transactions." The story buried the admission that "the CIA knew about some of these activities and did little or nothing to stop them."[[^1]
 
 ### Pincus's CIA Background
 

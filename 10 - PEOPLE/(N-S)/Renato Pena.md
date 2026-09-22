@@ -17,7 +17,7 @@ tags:
   - DarkAllianceInvestigation
 summary: "FDN San Francisco representative and cocaine dealer for Norwin Meneses who was arrested in 1984 and implicated the CIA in Contra drug trafficking during DEA debriefings."
 ---
-Renato Peña Cabrera was the [[FDN]]'s San Francisco representative and a [[cocaine]] dealer for [[Norwin Meneses]].[^1] Peña served as a key conduit between the FDN leadership in [[Honduras]] and the Contra support network in [[California]], facilitating arms procurement and communications.
+Renato Peña Cabrera was the [[FDN]]'s San Francisco representative and a [[Cocaine]] dealer for [[Norwin Meneses]].[^1] Peña served as a key conduit between the FDN leadership in [[Honduras]] and the Contra support network in [[California]], facilitating arms procurement and communications.
 
 ### Role with the FDN
 

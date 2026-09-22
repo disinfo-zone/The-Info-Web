@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: The Caribbean was a key transit zone for cocaine shipments moving from South America through the Bahamas, Panama, and Costa Rica to the United States during the Contra war.
 ---
-The Caribbean was a key transit zone for [[cocaine]] shipments moving from [[South America]] through the [[Bahamas]], [[Panama]], and [[Costa Rica]] to the [[United States]] during the Contra war. The region's geography, with its numerous islands and porous coastlines, made it ideal for drug smuggling operations.[^1]
+The Caribbean was a key transit zone for [[Cocaine]] shipments moving from [[South America]] through the [[Bahamas]], [[Panama]], and [[Costa Rica]] to the [[United States]] during the Contra war. The region's geography, with its numerous islands and porous coastlines, made it ideal for drug smuggling operations.[^1]
 
 ### Trafficking Routes
 

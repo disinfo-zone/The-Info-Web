@@ -7,7 +7,7 @@ tags:
 summary: Pacifica, California was where Danilo Blandón settled after arriving in the United States, establishing his first base of operations near San Francisco.
 ---
 
-Pacifica, [[California]] was where [[Danilo Blandon|Danilo Blandón]] settled after arriving in the [[United States]], establishing his first base of operations near [[San Francisco]]. The coastal city south of San Francisco became Blandón's initial home as he built the [[cocaine]] trafficking network that would eventually supply [[Ricky Ross|"Freeway" Ricky Ross]] and fuel the crack epidemic in [[Los Angeles]].[^1]
+Pacifica, [[California]] was where [[Danilo Blandon|Danilo Blandón]] settled after arriving in the [[United States]], establishing his first base of operations near [[San Francisco]]. The coastal city south of San Francisco became Blandón's initial home as he built the [[Cocaine]] trafficking network that would eventually supply [[Ricky Ross|"Freeway" Ricky Ross]] and fuel the crack epidemic in [[Los Angeles]].[^1]
 
 ### Blandón's First U.S. Home
 

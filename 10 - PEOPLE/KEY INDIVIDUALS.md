@@ -147,7 +147,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Fred Zachariasen]] | Fred Zachariasen was a physics professor at Caltech and a ranking member of the Department of Defense's elite JASON Committee. |
 | [[Gerald Feinberg]] | Gerald Feinberg was a physics professor at Columbia University. |
 | [[Harry Stump]] | Harry Stump was a Dutch sculptor and channeler who gained the attention of Andrija Puharich and his wealthy benefactors due to his purported psychic abilities, particularly his capacity to enter trance states and produce automatic writings  |
-| [[Hartleigh Trent]] | Hartleigh Trent was a former Navy petty officer and one of the original six remote viewers in the STARGATE PROJECT. |
+| [[Hartleigh Trent]] | Hartleigh Trent was a former Navy petty officer and one of the original six remote viewers in the Stargate Project. |
 | [[Heinrich Himmler]] | Himmler had a deep and abiding interest in the occult and the supernatural. |
 | [[Helene Smith]] | Flournoy attributed her abilities to Cryptomnesia and Glossolalia, arguing that the content she produced originated from forgotten memories and unconscious processes rather than genuine psychic phenomena. |
 | [[Henry K. Beecher]] | Beecher's work contributed to the understanding of how perception of an event or a situation - real or imagined, rational or irrational - can cause consequential actions to occur. |
@@ -1025,7 +1025,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 
 | Name | Description |
 | --- | --- |
-| [[Adolfo Chamorro]] | Adolfo Chamorro was a Contra leader who attended weapons sales presentations arranged by Ron Lister and Danilo BlandÃ³n as part of the Contra supply network. |
+| [[Adolfo Chamorro]] | Adolfo Chamorro was a Contra leader who attended weapons sales presentations arranged by Ron Lister and Danilo Blandón as part of the Contra supply network. |
 | [[Alan Sanders]] | In late 1985, Ari Ben-Menashe approached Sanders to purchase cluster bombs for Israel. |
 | [[Amiram Nir]] | Nir resigned from his TV job to work as a public relations adviser for Peres during the 1981 elections. |
 | [[Ann Magori]] | After Ben-Menashe's arrest, Magori was contacted by Leon Siff and traveled to Los Angeles to see Ben-Menashe in jail. |
@@ -1033,9 +1033,9 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Avi Pazner]] | Spokesman and national security adviser to Israeli PM Yitzhak Shamir, involved in covert operations including arms sales and Iraq-related intelligence. |
 | [[Carlos Amador]] | Carlos Amador was a pilot who planned to fly into Ilopango Air Base to pick up cocaine from Hangar No. 4 and transport it to Miami, according to a DEA cable. |
 | [[Cyrus Hashemi]] | Iranian exile involved in secret arms sales and hostage negotiations during Iran-Contra who became a U.S. Customs informant before being found dead in London under suspicious circumstances. |
-| [[Dagoberto Nunez]] | Dagoberto NuÃ±ez was a Cuban Bay of Pigs veteran and CIA operative who worked with Oliver North in Costa Rica and was suspected of drug trafficking. |
+| [[Dagoberto Nunez]] | Dagoberto Nuñez was a Cuban Bay of Pigs veteran and CIA operative who worked with Oliver North in Costa Rica and was suspected of drug trafficking. |
 | [[Daniel Ortega]] | Daniel Ortega was the Sandinista president of Nicaragua whose government the Reagan administration sought to overthrow through the Contra war and covert operations. |
-| [[David Hall]] | David Hall was an Assistant U.S. Attorney who prosecuted Rafael Cornejo and warned Gary Webb that publishing the Dark Alliance story could endanger Danilo BlandÃ³n's life. |
+| [[David Hall]] | David Hall was an Assistant U.S. Attorney who prosecuted Rafael Cornejo and warned Gary Webb that publishing the Dark Alliance story could endanger Danilo Blandón's life. |
 | [[Edgar Chamorro]] | Edgar Chamorro was a former FDN director who publicly confirmed that Norwin Meneses was a Contra leader involved in cocaine trafficking to fund the war. |
 | [[Edgar Torres]] | Edgar Torres was one of the Nicaraguan Torres brothers who became major cocaine traffickers and key distributors for Danilo Blandón's drug network in Los Angeles. |
 | [[Edmundo Chamorro]] | Edmundo Chamorro was the deputy commander of the UDN-FARN Contra faction, described by the DEA as "well known to The Company," and was captured on Costa Rican wiretaps discussing cocaine shipments. |
@@ -1158,9 +1158,9 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Ben Kalka]] | Kalka estimated he produced 8,000 pounds of drugs worth $10 million, using ingredients that federal agents had allegedly arranged for him to buy. |
 | [[Calvin Robinson]] | On December 12, 1991, Robinson filed a 'Pro Per' affidavit in the U.S. |
 | [[Carlos Cabezas]] | Nicaraguan cocaine trafficker in San Francisco who testified that drug profits from the Meneses organization were going to the Contras, was convicted in the Frogman Case, and in 1996 admitted on the record to delivering millions in drug mon |
-| [[Carlos Lehder]] | Colombian drug trafficker who revolutionized cocaine smuggling for the MedellÃ­n cartel in the early 1980s. |
+| [[Carlos Lehder]] | Colombian drug trafficker who revolutionized cocaine smuggling for the Medellín cartel in the early 1980s. |
 | [[Carlos Marcello]] | Carlos Marcello was the boss of the New Orleans crime family who was identified by the HSCA as having both the motive and means to arrange President Kennedy's assassination - he had threatened Kennedy according to FBI informants, was deport |
-| [[Chepita Blandon]] | Danilo BlandÃ³n's wife, identified by the DEA as closely involved in his trafficking activities, who was arrested in 1992 and had all charges dropped when her husband agreed to become a DEA informant. |
+| [[Chepita Blandon]] | Danilo Blandón's wife, identified by the DEA as closely involved in his trafficking activities, who was arrested in 1992 and had all charges dropped when her husband agreed to become a DEA informant. |
 | [[Chris Denning]] | Chris Denning was a former BBC Radio One DJ who was good friends with Jimmy Savile and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment. |
 | [[Clarence Henry Osborne]] | Clarence Henry Osborne was a retired stenographer and civil servant in the Australian state of Queensland, Australia, who for years had transcribed government hansards and supreme court proceedings. |
 | [[Clint Murchison, Sr.]] | Powerful Texas oilman who cultivated relationships with Hoover, Nixon, and Johnson, with business dealings intersecting organized crime figures including the Genovese Crime Family. |
@@ -1581,7 +1581,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Chris Moore]] | Former reserve police officer and office manager for Pyramid International Security Consultants who witnessed the company's El Salvador operations firsthand. |
 | [[Christine Odell Cook Miller]] | Judge of the Court of Federal Claims who, as hearing officer on the Senate's 1995 referral of INSLAW's claims, ruled on July 31, 1997, that every version of PROMIS was in the public domain and INSLAW was owed nothing, ending the affair in t |
 | [[Christopher Jackson (Baltimore CHS)]] | Christopher Jackson is the FBI confidential human source designated CHS-1 in the 2023 Baltimore Power Grid Conspiracy case, whose testimony was central to Brandon Russell's 2025 conviction and whose undisclosed pre-testimony payment became  |
-| [[Chuck Jones]] | DEA agent who served as Danilo BlandÃ³n's primary handler from 1993 to 1995 and denied any knowledge of BlandÃ³n's Contra drug trafficking history during a contentious meeting with Gary Webb. |
+| [[Chuck Jones]] | DEA agent who served as Danilo Blandón's primary handler from 1993 to 1995 and denied any knowledge of Blandón's Contra drug trafficking history during a contentious meeting with Gary Webb. |
 | [[Craig Chretien]] | DEA Special Agent in Charge of the San Diego regional office who met with Gary Webb in October 1995 in an attempt to dissuade him from publishing the Dark Alliance story, and who was later promoted to head the DEA's International Division. |
 | [[Crossan Andersen]] | Federal prosecutor in Los Angeles who took the Danilo Blandon case to the Organized Crime Drug Enforcement Task Force and described it as 'a sensitive matter' involving CIA allegations. |
 | [[Daniel Garner]] | LASD Majors II deputy and court-certified money-laundering expert whose prosecution for corruption nearly exposed the Contra-CIA drug connection through documents he had seized from Ronald Lister's home in 1986. |

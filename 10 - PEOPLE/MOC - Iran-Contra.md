@@ -10,7 +10,7 @@ Central figures in the Iran-Contra affair and October Surprise.
 | Name | Description |
 | --- | --- |
 | [[Adnan Khashoggi]] | Khashoggi's sister, Samira Khashoggi Fayed, was the mother of Dodi Fayed, who was romantically involved with Diana, Princess of Wales. |
-| [[Adolfo Chamorro]] | Adolfo Chamorro was a Contra leader who attended weapons sales presentations arranged by Ron Lister and Danilo BlandÃ³n as part of the Contra supply network. |
+| [[Adolfo Chamorro]] | Adolfo Chamorro was a Contra leader who attended weapons sales presentations arranged by Ron Lister and Danilo Blandón as part of the Contra supply network. |
 | [[Amiram Nir]] | Nir resigned from his TV job to work as a public relations adviser for Peres during the 1981 elections. |
 | [[Anastasio Somoza]] | Anastasio Somoza Debayle was the dictator of Nicaragua whose family ruled the country for forty-six years until the Sandinista revolution in July 1979, after which his dispersed National Guard officers became the founding cadre of the Contras. |
 | [[Aristides Sanchez]] | Wealthy Somoza-era landowner who became the head of supplies and logistics for the FDN, went on the CIA payroll, and allegedly served as the conduit for cocaine money from the Meneses drug ring in California. |
@@ -19,9 +19,9 @@ Central figures in the Iran-Contra affair and October Surprise.
 | [[Carlos Cardoen]] | Cardoen later resigned and became a private contractor, securing a deal to supply all blasting equipment to the Chilean Mining Corporation. |
 | [[Che Guevara]] | Che Guevara was the Argentine revolutionary executed in Bolivia with the participation of CIA agent Felix Rodriguez, a Bay of Pigs veteran who later managed the Contra resupply operation. |
 | [[Cyrus Hashemi]] | Iranian exile involved in secret arms sales and hostage negotiations during Iran-Contra who became a U.S. Customs informant before being found dead in London under suspicious circumstances. |
-| [[Dagoberto Nunez]] | Dagoberto NuÃ±ez was a Cuban Bay of Pigs veteran and CIA operative who worked with Oliver North in Costa Rica and was suspected of drug trafficking. |
+| [[Dagoberto Nunez]] | Dagoberto Nuñez was a Cuban Bay of Pigs veteran and CIA operative who worked with Oliver North in Costa Rica and was suspected of drug trafficking. |
 | [[Daniel Ortega]] | Daniel Ortega was the Sandinista president of Nicaragua whose government the Reagan administration sought to overthrow through the Contra war and covert operations. |
-| [[David Hall]] | David Hall was an Assistant U.S. Attorney who prosecuted Rafael Cornejo and warned Gary Webb that publishing the Dark Alliance story could endanger Danilo BlandÃ³n's life. |
+| [[David Hall]] | David Hall was an Assistant U.S. Attorney who prosecuted Rafael Cornejo and warned Gary Webb that publishing the Dark Alliance story could endanger Danilo Blandón's life. |
 | [[Donald Barrios]] | Wealthy Nicaraguan exile, FDN supporter, and relative of former president Violeta Barrios de Chamorro who introduced Norwin Meneses to Danilo Blandon and co-founded La Parrilla restaurant in Miami as a Contra gathering place. |
 | [[Edgar Chamorro]] | Edgar Chamorro was a former FDN director who publicly confirmed that Norwin Meneses was a Contra leader involved in cocaine trafficking to fund the war. |
 | [[Edgar Torres]] | Edgar Torres was one of the Nicaraguan Torres brothers who became major cocaine traffickers and key distributors for Danilo Blandón's drug network in Los Angeles. |

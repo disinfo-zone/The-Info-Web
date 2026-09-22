@@ -10,7 +10,7 @@ summary: "U.S. Army captain and original remote viewer in the Stargate Project k
 updated: 2026-09-22
 ---
 
-Ken Bell was a U.S. Army captain and one of the original six remote viewers in the [[STARGATE PROJECT]]. He was recruited into the program, then codenamed Gondola Wish, in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
+Ken Bell was a U.S. Army captain and one of the original six remote viewers in the [[Stargate Project]]. He was recruited into the program, then codenamed Gondola Wish, in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 
 Bell had a background in counterintelligence and was known for his interest in meditation. He was described as short, wiry, and somewhat intense. He believed that psi could never be used to make money, as psychics who tried to get rich often failed, suggesting a connection between psi and human morality. He was among the six most promising members sent to [[Stanford Research Institute]] (SRI) for two weeks of outbound remote-viewing experiments, where SRI evaluated their talents and confirmed their suitability for operational remote viewing.[^1]
 

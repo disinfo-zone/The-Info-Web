@@ -11,7 +11,7 @@ Compton was a city in [[Los Angeles]] County heavily affected by the [[Crack Coc
 
 ### Ground Zero
 
-Compton, along with [[South Central Los Angeles]], bore the brunt of the crack explosion that resulted from the thousands of kilos of [[cocaine]] dumped into the Los Angeles area by Blandón and [[Norwin Meneses|Meneses]]. The city's predominantly Black neighborhoods became primary markets for the cheap crack cocaine that devastated communities through addiction, violence, and mass incarceration. The Contra-connected drug pipeline's impact on Compton was a direct consequence of the decision to fund the [[Contras]] through cocaine trafficking in American inner cities.[^2]
+Compton, along with [[South Central Los Angeles]], bore the brunt of the crack explosion that resulted from the thousands of kilos of [[Cocaine]] dumped into the Los Angeles area by Blandón and [[Norwin Meneses|Meneses]]. The city's predominantly Black neighborhoods became primary markets for the cheap crack cocaine that devastated communities through addiction, violence, and mass incarceration. The Contra-connected drug pipeline's impact on Compton was a direct consequence of the decision to fund the [[Contras]] through cocaine trafficking in American inner cities.[^2]
 
 ### Footnotes
 

@@ -13,7 +13,7 @@ tags:
 summary: "Jack Vorona was the Assistant Director for Scientific and Technical Intelligence at the Defense Intelligence Agency (DIA) and served as the overall manager of the Grill Flame program."
 updated: 2026-09-22
 ---
-Jack Vorona was the Assistant Director for Scientific and Technical Intelligence at the [[Defense Intelligence Agency]] (DIA) and served as the overall manager of the [[STARGATE PROJECT|Grill Flame]] program. He played a crucial role in the continuation and restructuring of the U.S. government's psychic research programs after the [[Central Intelligence Agency|CIA]] scaled back its involvement[^1][^2].
+Jack Vorona was the Assistant Director for Scientific and Technical Intelligence at the [[Defense Intelligence Agency]] (DIA) and served as the overall manager of the [[Stargate Project|Grill Flame]] program. He played a crucial role in the continuation and restructuring of the U.S. government's psychic research programs after the [[Central Intelligence Agency|CIA]] scaled back its involvement[^1][^2].
 
 In 1981, Vorona contacted [[Dale Graff]] and brought him to Washington, D.C., to help run a classified program called [[Psychoenergetics]]. The main goals of this project were "to evaluate the threat that foreign psychoenergetics achievements might pose to US national security, and to explore the potential of psychoenergetics for use in US intelligence collection"[^2]. Vorona believed that with the resources of the DIA, genuine progress could be made toward a general theory of [[Extrasensory Perception|ESP]] and [[Psychokinesis|PK]][^2].
 

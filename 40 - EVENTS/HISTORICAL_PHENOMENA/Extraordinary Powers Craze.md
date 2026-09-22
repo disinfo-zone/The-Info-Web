@@ -23,7 +23,7 @@ The Extraordinary Powers Craze was a period of intense state-sponsored and publi
 
 The craze was ignited by a 1979 newspaper article in a Sichuan publication reporting that a twelve-year-old boy, Tang Yu, could read written characters by holding folded paper against his ear. The story was picked up by national media, generating both enthusiasm from believers and demands from skeptics for controlled scientific testing. Within months, similar claims about other children emerged from across China. Parents brought children forward for testing, and popular culture became intensely focused on the question of whether these abilities were genuine.
 
-The critical institutional development was the public endorsement of [[Qian Xuesen]] (H.S. Tsien), China's premier scientist and the director of its missile and space programs. Qian argued in articles and public statements that [[Extraordinary Human Body Function]] deserved rigorous scientific investigation rather than dismissal, framing it within socialist materialism as a natural phenomenon that existing science could not yet explain. Qian's authority in Chinese scientific and political life was such that his endorsement transformed EHBF from a popular curiosity into a subject of state-sponsored research.[^1]
+The critical institutional development was the public endorsement of [[Qian Xuesen]] (H.S. Tsien), China's premier scientist and the director of its missile and space programs. Qian argued in articles and public statements that Extraordinary Human Body Function deserved rigorous scientific investigation rather than dismissal, framing it within socialist materialism as a natural phenomenon that existing science could not yet explain. Qian's authority in Chinese scientific and political life was such that his endorsement transformed EHBF from a popular curiosity into a subject of state-sponsored research.[^1]
 
 ### Research Programs
 
@@ -31,7 +31,7 @@ At its peak, the Extraordinary Powers Craze involved dozens of research institut
 
 Ear reading and body reading: the claimed ability to perceive written or visual information by means other than the eyes, including through the ears, feet, or armpit.
 
-Remote viewing equivalents: tests in which subjects attempted to describe distant locations or objects inaccessible to normal perception, directly analogous to the American [[STARGATE PROJECT|SRI]] remote viewing protocol.
+Remote viewing equivalents: tests in which subjects attempted to describe distant locations or objects inaccessible to normal perception, directly analogous to the American [[Stargate Project|SRI]] remote viewing protocol.
 
 Psychokinesis: the claimed ability to move objects, affect sealed containers, or alter physical processes through mental influence alone.
 
@@ -45,7 +45,7 @@ The qigong dimension also contributed to the craze's eventual collapse: as qigon
 
 ### American Intelligence Assessment
 
-The American intelligence community's discovery of the scale of Chinese EHBF research was documented in [[Hal Puthoff]]'s 1982 classified report, "Psychoenergetics Research in the People's Republic of China," prepared for the Defense Intelligence Agency's [[Psychoenergetics]] program. The report confirmed that China had a state-funded, military-adjacent EHBF program of significant scale, directly comparable in organizational structure to the Soviet [[Psychoenergetics]] programs that had initially motivated American investment in remote viewing research. Defense Intelligence Agency officials, including [[Jack Vorona]], cited the Chinese program as competitive justification for continued American investment.[^3]
+The American intelligence community's discovery of the scale of Chinese EHBF research was documented in [[Hal Puthoff]]'s 1982 classified report, "Psychoenergetics Research in the People's Republic of China," prepared for the Defense Intelligence Agency's [[Psychoenergetics]] program. The report confirmed that China had a state-funded, military-adjacent EHBF program of significant scale, directly comparable in organizational structure to the Soviet Psychoenergetics programs that had initially motivated American investment in remote viewing research. Defense Intelligence Agency officials, including [[Jack Vorona]], cited the Chinese program as competitive justification for continued American investment.[^3]
 
 ### Collapse
 

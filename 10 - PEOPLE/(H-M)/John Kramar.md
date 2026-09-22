@@ -10,6 +10,17 @@ summary: "Army Materiel Systems Analysis Activity engineer who was its Grill Fla
 born: 1935-10-30
 died: 2026-01-19
 location: "Aberdeen Proving Ground, Maryland"
+relations:
+  - type: employed_by
+    with: "[[Army Materiel Systems Analysis Activity]]"
+    role: "Grill Flame project officer; chief, Ground Warfare Division"
+    fn: 1
+  - type: participant_in
+    with: "[[Stargate Project]]"
+    start: 1978
+    end: 1980
+    role: "AMSAA Grill Flame project officer"
+    fn: 4
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -18,9 +29,9 @@ John Winston Kramar was born in [[Chicago]] and moved with his parents to Edgewo
 
 ### Grill Flame
 
-Kramar and Colonel Albert De Prospero of AMSAA were named as discussants, with [[Dale Graff]] of the Foreign Technology Division, in the "Sensory Technology Assessment" of November 14, 1978.[^2] AMSAA's interim note of July 1979 on its [[STARGATE PROJECT|Grill Flame]] phase I efforts listed "Mr. John Kramar" among its participants, with [[Evan Harris Walker]] and [[Lewis Walt]].[^3]
+Kramar and Colonel Albert De Prospero of AMSAA were named as discussants, with [[Dale Graff]] of the Foreign Technology Division, in the "Sensory Technology Assessment" of November 14, 1978.[^2] AMSAA's interim note of July 1979 on its [[Stargate Project|Grill Flame]] phase I efforts listed "Mr. John Kramar" among its participants, with [[Evan Harris Walker]] and [[Lewis Walt]].[^3]
 
-As AMSAA's Grill Flame project officer, Kramar wrote for the record on February 13, 1980, that the report of the [[Grill Flame Scientific Evaluation Committee]], "transmitted to AMSAA January 1980, was found to be somewhat ambiguous and confusing," and took "exception" to its recommendation to "Terminate all AMSAA GRILL FLAME efforts": "This recommendation, as best as can be determined, is based only on a partial understanding of AMSAA's initial effort, which was terminated before the SEC came into being. There is an apparent mistake by the SEC in considering the AMSAA challenge/validation efforts to be an integral part of the SRI contract." He copied [[Manfred Gale]] and DARCOM.[^4]
+As AMSAA's Grill Flame project officer, Kramar wrote for the record on February 13, 1980, that the report of the [[Grill Flame Scientific Evaluation Committee]], "transmitted to AMSAA January 1980, was found to be somewhat ambiguous and confusing," and took "exception" to its recommendation to "Terminate all AMSAA GRILL FLAME efforts": "This recommendation, as best as can be determined, is based only on a partial understanding of AMSAA's initial effort, which was terminated before the SEC came into being. There is an apparent mistake by the SEC in considering the AMSAA challenge/validation efforts to be an integral part of the [[Stanford Research Institute|SRI]] contract." He copied [[Manfred Gale]] and DARCOM.[^4]
 
 ### Footnotes
 

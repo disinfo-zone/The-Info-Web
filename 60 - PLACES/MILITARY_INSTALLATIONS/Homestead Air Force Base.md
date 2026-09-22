@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Homestead Air Force Base in Florida was where the Somoza family fled into exile in 1979, and was later identified as a landing site for Contra-connected drug flights.
 ---
-Homestead Air Force Base in [[Florida]] was where the Somoza family fled into exile in 1979, and was later identified as a landing site for Contra-connected drug flights. The base served as both a gateway for deposed dictators and, according to the [[John Kerry|Kerry]] Committee, a destination for aircraft smuggling [[cocaine]] and weapons.[^1]
+Homestead Air Force Base in [[Florida]] was where the Somoza family fled into exile in 1979, and was later identified as a landing site for Contra-connected drug flights. The base served as both a gateway for deposed dictators and, according to the [[John Kerry|Kerry]] Committee, a destination for aircraft smuggling [[Cocaine]] and weapons.[^1]
 
 ### Somoza's Flight
 

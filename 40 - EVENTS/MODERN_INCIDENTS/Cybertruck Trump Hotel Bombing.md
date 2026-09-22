@@ -20,7 +20,7 @@ On January 1, 2025, active duty [[U.S. Army]] [[Special Operations Group|Special
 ### Detailed Timeline
 - The truck was rented in Colorado using [[Turo]] on December 28[^2]. Livelsberger texted a girlfriend that he felt like batman or “halo.”
 - December 30, Livelsberger drove to Monument, Colorado and purchased two handguns
-- December 31, Livelsberger drove through and charged at Trinidad, CO; [[Las Vegas]], NM; Albuquerque, NM; and Gallup, NM.
+- December 31, Livelsberger drove through and charged at Trinidad, CO; Las Vegas, NM; Albuquerque, NM; and Gallup, NM.
 - January 1, the truck is charged in Holbrook, Flagstaff, and Kingman, AZ (the last charge at 5:33 AM).
 - 7:29 AM The Cybertruck is first spotted in Las Vegas
 - 7:34 AM The Cybertruck is seen turning on to Fashion Show Drive, the location of the Trump International Hotel.

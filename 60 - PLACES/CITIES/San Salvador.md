@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: San Salvador, the capital of El Salvador, hosted Ilopango Air Base, the central hub for CIA and Oliver North's Contra resupply operations and a key transshipment point for cocaine during the 1980s.
 ---
-San Salvador, the capital of [[El Salvador]], hosted [[Ilopango Airbase]], the central hub for [[Central Intelligence Agency]] and [[Oliver North]]'s Contra resupply operations and a key transshipment point for [[cocaine]] during the 1980s. The base's Hangar No. 4 served as the operational center for both weapons shipments to the [[Contras|Contra]] army and return flights carrying narcotics into the [[United States]].[^1]
+San Salvador, the capital of [[El Salvador]], hosted [[Ilopango Airbase]], the central hub for [[Central Intelligence Agency]] and [[Oliver North]]'s Contra resupply operations and a key transshipment point for [[Cocaine]] during the 1980s. The base's Hangar No. 4 served as the operational center for both weapons shipments to the [[Contras|Contra]] army and return flights carrying narcotics into the [[United States]].[^1]
 
 ### Ilopango Air Base
 

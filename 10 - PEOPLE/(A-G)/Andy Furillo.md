@@ -14,7 +14,7 @@ tags:
   - DarkAllianceInvestigation
 summary: "Los Angeles Times police beat reporter who wrote the first national press story about crack cocaine in November 1984, documenting the explosion of rock houses in South Central Los Angeles."
 ---
-Andy Furillo, a freckle-faced police beat reporter hired away from the smaller Los Angeles Herald-Examiner, wrote the first story about [[Crack Cocaine|crack]] to appear in the national press. Published on November 25, 1984 - one day before the [[DEA]] arrested Jairo Meneses and [[Renato Pena|Renato PeÃ±a]] Cabrera in San Francisco. The story ran in the Los Angeles Times under the headline "South Central Cocaine Sales Explode into $25 Rocks."[^1]
+Andy Furillo, a freckle-faced police beat reporter hired away from the smaller Los Angeles Herald-Examiner, wrote the first story about [[Crack Cocaine|crack]] to appear in the national press. Published on November 25, 1984 - one day before the [[DEA]] arrested Jairo Meneses and [[Renato Pena|Renato Peña]] Cabrera in San Francisco. The story ran in the Los Angeles Times under the headline "South Central Cocaine Sales Explode into $25 Rocks."[^1]
 
 Furillo discovered the story after officers at [[South Central Los Angeles]] police stations mentioned a flood of cocaine in the ghettos. He hit the streets, knocked on doors, and confirmed the officers' accounts. He found a gigantic, wide-open cocaine market flourishing in the poorest section of [[LAPD|Los Angeles]] that no mainstream media outlet had covered.[^1]
 

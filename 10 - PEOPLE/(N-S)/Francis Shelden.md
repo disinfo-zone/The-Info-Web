@@ -3,20 +3,46 @@ category: "Key Figures"
 tags:
   - Person
   - OrganizedCrime
-summary: "Francis Duffield Shelden, born September 5, 1928, in Wayne County, Michigan, was a member of an old money establishment family; his great-grandfather on his father's side was Michigan governor and U.S."
+  - ChildTrafficking
+  - Michigan
+summary: "Ann Arbor millionaire, owner of North Fox Island and director of Brother Paul's Children's Mission, who fled Michigan charges of sexual conduct with boys in 1976 and died in Amsterdam."
 born: 1928-09-05
 died: 1996-07-09
-location: "Wayne County, Michigan, USA"
+location:
+  - "Ann Arbor, Michigan"
+  - "Amsterdam, Netherlands"
+relations:
+  - type: owned
+    with: "[[North Fox Island]]"
+    fn: 1
+  - type: director_of
+    with: "[[Brother Paul's Children's Mission]]"
+    fn: 1
+  - type: funded
+    with: "[[Father Bud's Boys Farm]]"
+    role: "listed sponsor"
+    fn: 1
+created: 2026-04-28
+updated: 2026-09-22
 ---
-Francis Duffield Shelden, born September 5, 1928, in Wayne County, Michigan, was a member of an old money establishment family; his great-grandfather on his father's side was Michigan governor and U.S. Senator [[Russell A. Alger]], who served as Secretary of War from 1897-1899, and on his mother's side were the Duffields, an industrial dynasty. As such, Shelden was endowed with a trust fund that supported a leisurely life of philanthropy focused on youth charities. He worked part-time as a geology professor at Wayne State University, served on the board of the private Cranbrook Institute arts academy and boarding school, and volunteered with Big Brother programs. He owned commercial properties and had a net worth allowing him to pursue interests in sea-steading and offshore banking. Shelden fled Michigan in late 1976 amid investigations into his child pornography operations and was granted Dutch citizenship, protecting him from extradition. He died on July 9, 1996, in Amsterdam, at age 67.[^1]
 
-### Criminal Operations
-Shelden financed and operated child pornography and prostitution networks, using fronts like [[Brother Paul's Children's Mission]] on [[North Fox Island]], a private island he owned 17 miles off Michigan's Leelanau Peninsula, incorporated via the [[The Church of New Revelation]] in [[New Jersey]]. The camp, established as a non-profit subsidiary for juvenile delinquents, facilitated sex acts and photography; in July 1976, Shelden flew four boys aged 8-14 from Port Huron to the island for a weekend of abuse. He sponsored The Educational Foundation for Youth in Illinois, deriving tax-exempt status from the offshore [[The Church of New Revelation]], soliciting "sponsors" via mail for pornography produced at the camp, with boys advertised in newsletters like [[Better Life Monthly]] and [[Hermes]]. Shelden used an airstrip in Charlevoix, Michigan, for transporting boys, and another in St. Clair County for trips like the July 12, 1976, flight. He corresponded with pedophiles like [[Gerald Richards]], providing boys for sex and films, and was linked to [[Father Bud's Boys Farm]] in Tennessee, where he appeared on a sponsor list seized in November 1976. Richards' September 1976 network diagram placed Shelden centrally in a nationwide child porn operation spanning states and Europe. Shelden wrote for Better Life Monthly under the name Frank Torey and financed [[Hermes]], distributed by F&S in California. In Amsterdam, post-1976, he published PAN ([[PAN Magazine]]) from 1979 under Frank Torey, platforming [[Spartacus International]]'s child sex tourism and brothels. He transferred assets to [[The Trust Company]] of the Virgin Islands in 1976, appointing [[Edward Brongersma]] as trustee in 1978. Shelden's operations involved grooming via magic shows, foster homes, and Big Brother programs; he was implicated in 8mm films, including a snuff film of [[Timothy King]], per [[Richard Lawson]]'s 1988 and 2005 statements, verified by Dutch police linking Shelden and Kim Tam Ang to 1993 Amsterdam investigations.[^1]
+Francis Duffield Shelden, the bachelor heir of a prominent Detroit-area family, was a part-time university professor, a former director of the Cranbrook Institute of Science, and a board member of [[Boys Republic]], a residential center for troubled boys in Farmington Hills; a 1975 newspaper interview described him as devoting much of his time to Big Brothers, which later denied he had been connected with it. He was the sole owner of [[North Fox Island]], 835 acres in Leelanau County off Grand Traverse Bay, assessed at 312,000 dollars.[^1] His great-grandfather was [[Russell A. Alger]], governor of [[Michigan]] and Secretary of War.[^2]
 
-### Connections
-Shelden connected to [[John David Norman]] via Better Life Monthly and [[Hermes]], funding their [[Delta Project]]/[[Odyssey Network]] for boy prostitution. [[Gerald Richards]] met Shelden through a magic show ad in Better Life Monthly, exchanging boys and producing porn at Shelden's Ann Arbor estate and [[North Fox Island]]; Richards processed films from [[Father Bud's Boys Farm]] for Shelden's network. [[Dyer Grossman]], a science teacher, co-drafted [[Brother Paul's Children's Mission]] charter and corresponded with Shelden on foster homes and procuring boys via Big Brother programs. [[Adam Starchild]] ([[Malcolm Willis McConahy]]) incorporated [[Brother Paul's Children's Mission]] and The [[Ocean Living Institute]], fronts for Shelden's operations; Starchild faked his death in 1975. Shelden linked to [[Troop 137]] in [[New Orleans]], via [[Cladius Vermilye]] of [[Father Bud's Boys Farm]], with [[Richard Halvorsen]] and [[Raymond Woodall]]; Halvorsen invited to the farm, and [[John Reed Campbell]]'s case connected to [[Harry Connick]]. 
+### Brother Paul's Children's Mission
 
-[[Josiah Tazelaar]], arrested January 1977, procured boys for Shelden; Tazelaar lived near [[Timothy King]]'s family and linked to [[Titus "Duffy" Jones]], roommate of [[Ted Lamborgine]], per 2005 OCCK investigation. [[Kent Gilbert Schultz]], arrested October 1977, was a pedophile in Highland Park near Tazelaar's address. In the [[Oakland County Child Killer]] case, Shelden financed films by [[Robert Moore]], per [[Richard Lawson]]; Lawson saw photos of [[Timothy King]] with [[Ted Lamborgine]] at Moore's. Shelden's estate trustee [[Edward Brongersma]] was a Dutch Senator advocating pedophilia legalization. In Amsterdam, Shelden partnered with [[John Stamford]] of [[Spartacus International]] for [[PAN (Paedo Alert News)]] and child sex tourism, linking to [[Elm Guest House]] via [[Peter Glencross]]. 1993 Dutch probe named Shelden with Kim Tam Ang in child porn/sexual offenses against minors, confirming Lawson's claims.[^1]
+[[Brother Paul's Children's Mission]], incorporated in 1975 to prevent juvenile delinquency "through the philosophy of naturopathy and naturalism," ran a nature camp on North Fox Island under the auspices of [[The Church of New Revelation|the Church of the New Revelation]] of Kearny, [[New Jersey]]. Its president and camp director was [[Gerald Richards]], a Port Huron physical education teacher; its vice president was [[Dyer Grossman]], a New York science teacher; Shelden was a director. The church and the [[Ocean Living Institute]], both incorporated in Delaware in 1974, and the Educational Foundation for Youth of Illinois had been granted tax exemptions by the Internal Revenue Service without investigation; incorporation papers named [[Adam Starchild]], an alias according to New Jersey authorities, as president of the church and the institute, trustee of the foundation and principal incorporator of Brother Paul's. The camp never applied for a state license.[^1]
+
+After Richards's arrest in July 1976, in possession of pornographic films, he told police that the church, the institute and the foundation were fronts for producing child pornography, and that Shelden was a staff writer for *[[Better Life Monthly]]*, advertised as "a monthly paper serving the interest of pedophiles." Police found a letter attributed to Grossman proposing "child care" sites in eight states and the District of Columbia and noting that counties would pay up to 150 dollars a month per boy, states 400 dollars and federal agencies 700 dollars. State troopers raided Shelden's Ann Arbor home on July 29 and found nothing new; the Traverse City post could not get a warrant for the island. Richards was sentenced to two to ten years in Jackson Prison. Shelden was charged with criminal sexual conduct with a fourteen-year-old boy at Port Huron and with an eight-year-old Port Huron boy on North Fox Island, and Grossman with acts with two Port Huron boys; both became the subjects of federal flight warrants.[^1]
+
+### The Wider Network
+
+Richards's films led Tennessee authorities to raid Boys Farm Inc. near Alto, the [[Father Bud's Boys Farm]] of the Episcopal priest Claudius I. "Bud" [[Cladius Vermilye|Vermilye]] Jr., who was indicted on sixteen counts; its list of more than 270 "active sponsors" included Shelden. Vermilye's eldest son had disappeared on July 5, 1974. In [[New Orleans]], the leader of Boy Scout [[Troop 137]], Richard Halverson, and twelve other men, including the Massachusetts industrialist [[Richard C. Jacobs]] of Jet Spray Corporation and the realtor Hugh Scott Mellor, were charged with conspiracy; Halverson, a volunteer probation officer, had drawn up applications for state and federal money for homes for boys, and the Louisiana and Tennessee welfare departments had paid for children placed with the groups. "It seems to be like spider webs strung out all over the nation," said the New Orleans juvenile detective Mason Spong. Correspondence and films seized in the raids came "from Australia and Canada and virtually every state in the Union."[^1]
+
+### Amsterdam
+
+Shelden settled in [[Amsterdam]], became a Dutch citizen, and was not extradited. There, under the name Frank Torey, he published *[[PAN Magazine|PAN]]* from 1979, and he named the Dutch senator [[Edward Brongersma]] trustee of his assets in 1978. [[Richard Lawson]], an informant in the investigation of the [[Oakland County Child Killer|Oakland County child killings]], later alleged that Shelden financed films of abused boys, among them the murdered [[Timothy King]]; the allegation has not been corroborated. Shelden died in Amsterdam on July 9, 1996.[^2]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+
+[^1]: Wright, Marilyn. "Porno Ring Uses Church, Tax Laws," "Porn Ring Finds Gaps in Child Camp Laws" and "Porno Ring Weaves International 'Web'." *Traverse City Record-Eagle,* 1976-1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977. https://archive.org/details/micro_IA41153502_0041
+[^2]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.

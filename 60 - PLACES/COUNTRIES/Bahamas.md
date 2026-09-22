@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: The Bahamas served as a refueling stop for cocaine flights moving from South America to the eastern United States, with drug cartels establishing island bases for their smuggling operations.
 ---
-The Bahamas served as a refueling stop for [[cocaine]] flights moving from [[South America]] to the eastern [[United States]], with drug cartels establishing island bases for their smuggling operations. The island nation's location between [[Colombia]] and [[Florida]] made it a natural waypoint on the Caribbean drug corridor.[^1]
+The Bahamas served as a refueling stop for [[Cocaine]] flights moving from [[South America]] to the eastern [[United States]], with drug cartels establishing island bases for their smuggling operations. The island nation's location between [[Colombia]] and [[Florida]] made it a natural waypoint on the Caribbean drug corridor.[^1]
 
 ### Cartel Operations
 

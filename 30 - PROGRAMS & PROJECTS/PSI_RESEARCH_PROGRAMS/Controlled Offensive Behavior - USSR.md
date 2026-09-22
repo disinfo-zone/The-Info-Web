@@ -17,7 +17,7 @@ location: "Defense Intelligence Agency"
 
 The report, with what was described as "almost comical blandness," outlined the potential horrors that could be inflicted on the U.S. if Soviet psi research advanced, including: knowing the contents of top-secret U.S. documents, troop movements, and military installations; molding the thoughts of key U.S. leaders at a distance; causing instant death of U.S. officials at a distance; and disabling U.S. military equipment, including spacecraft, remotely. It concluded that "Soviet knowledge in this field is superior to that of the West," suggesting a devastating "psi gap" in addition to the perceived missile gap.[^1]
 
-This report, along with other intelligence, contributed to the U.S. intelligence community's increased interest in and funding of its own psi research, including the [[STARGATE PROJECT|Stargate Project]].[^1]
+This report, along with other intelligence, contributed to the U.S. intelligence community's increased interest in and funding of its own psi research, including the [[Stargate Project|Stargate Project]].[^1]
 
 ### The Report
 

@@ -5,7 +5,7 @@ tags:
   - contra-war
 summary: Chicago was one of the cities where Julio Zavala distributed cocaine as part of the Contra-connected trafficking network on the West Coast.
 ---
-Chicago was one of the cities where [[Julio Zavala]] distributed [[cocaine]] as part of the Contra-connected trafficking network. Zavala had customers in [[Miami]], [[Los Angeles]], Chicago, and [[San Francisco]], demonstrating the coast-to-coast reach of the trafficking operation run by [[Norwin Meneses]] and [[Danilo Blandon|Danilo Blandón]].[^1]
+Chicago was one of the cities where [[Julio Zavala]] distributed [[Cocaine]] as part of the Contra-connected trafficking network. Zavala had customers in [[Miami]], [[Los Angeles]], Chicago, and [[San Francisco]], demonstrating the coast-to-coast reach of the trafficking operation run by [[Norwin Meneses]] and [[Danilo Blandon|Danilo Blandón]].[^1]
 
 ### Distribution Network
 

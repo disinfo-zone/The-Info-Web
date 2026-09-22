@@ -11,11 +11,50 @@ tags:
 summary: "Former CIA employee who became Attorney General in 1991 and again in 2019; he appointed the INSLAW and BNL special counsels and urged the Iran-Contra pardons of 1992."
 born: 1950-05-23
 location: "Washington, D.C."
+relations:
+  - type: employed_by
+    with: "[[Central Intelligence Agency]]"
+    start: 1973
+    end: 1977
+    role: "assistant legislative counsel"
+    fn: 1
+  - type: head_of
+    with: "[[Office of Legal Counsel]]"
+    start: 1989
+    fn: 1
+  - type: employed_by
+    with: "[[Department of Justice]]"
+    start: 1989
+    end: 1993
+    role: "Office of Legal Counsel, deputy attorney general, attorney general"
+    fn: 1
+  - type: appointed
+    with: "[[Nicholas J. Bua]]"
+    start: 1991-11-07
+    role: "INSLAW special counsel"
+    fn: 2
+  - type: appointed
+    with: "[[Frederick Lacey]]"
+    start: 1992-10-16
+    role: "BNL special counsel"
+    fn: 4
+  - type: appointed
+    with: "[[Malcolm Wilkey]]"
+    role: "House bank special counsel"
+    fn: 1
+  - type: director_of
+    with: "[[Dominion Energy]]"
+    end: 2019-02-12
+    fn: 5
+  - type: relative_of
+    with: "[[Donald Barr]]"
+    role: "son"
+    fn: 6
 created: 2025-08-05
 updated: 2026-09-22
 ---
 
-William P. Barr worked at the [[Central Intelligence Agency]] from 1973 to 1977 while attending law school at night. "During my tenure at CIA, 1973 to '77, the investigations of the agency started, and I moved to the legislative counsel's office," he recalled; as assistant legislative counsel under Director [[George H.W. Bush]] in 1976 he worked against legislation of Representatives Michael Harrington and Bella Abzug that would have required notice to people whose mail the agency had opened under [[HTLINGUAL]]. He then clerked for Judge Malcolm Wilkey of the [[United States Court of Appeals for the District of Columbia Circuit|D.C. Circuit]], a former head of the Justice Department's Criminal Division, who telephoned Bush for a reference. After private practice and the Reagan transition he joined the White House domestic policy staff, where he worked with C. Boyden Gray, counsel to Vice President Bush. In 1988 he helped screen vice-presidential candidates through Robert Kimmitt.[^1]
+William P. Barr worked at the [[Central Intelligence Agency]] from 1973 to 1977 while attending law school at night. "During my tenure at CIA, 1973 to '77, the investigations of the agency started, and I moved to the legislative counsel's office," he recalled; as assistant legislative counsel under Director [[George H.W. Bush]] in 1976 he worked against legislation of Representatives [[Michael Harrington]] and [[Bella Abzug]] that would have required notice to people whose mail the agency had opened under [[HTLINGUAL]]. He then clerked for Judge [[Malcolm Wilkey]] of the [[United States Court of Appeals for the District of Columbia Circuit|D.C. Circuit]], a former head of the Justice Department's Criminal Division, who telephoned Bush for a reference. After private practice and the Reagan transition he joined the [[White House]] domestic policy staff, where he worked with [[C. Boyden Gray]], counsel to Vice President Bush. In 1988 he helped screen vice-presidential candidates through [[Robert Kimmitt]].[^1]
 
 ### Justice Department, 1989-1993
 
@@ -27,7 +66,7 @@ According to the report of [[Nicholas J. Bua]], Barr appointed him special couns
 
 #### BNL
 
-On the [[BNL Scandal|Banca Nazionale del Lavoro]] loans to [[Iraq]], Barr declined to seek an independent counsel. "Even though an independent counsel was not required, in my opinion, because they didn't meet the statutory test, I just used my inherent authority," he recalled. He first asked former Attorney General Benjamin Civiletti, who declined, and on October 16, 1992, appointed the retired judge [[Frederick Lacey]]. Barr said the position became untenable after an allegation that the CIA had withheld cables and after a White House aide's call to the Atlanta prosecutor Gale McKenzie about the case, and that Bush telephoned him from Air Force One only to ask what to say about it. Lacey reported on December 8, 1992, that there were no grounds for an independent counsel and that he had "seen nothing" to suggest that [[Brent Scowcroft]] and [[Lawrence Eagleburger]] knew of the loans; Representative [[Henry B. Gonzalez|Henry Gonzalez]] called the report a whitewash.[^1][^4]
+On the [[BNL Scandal|Banca Nazionale del Lavoro]] loans to [[Iraq]], Barr declined to seek an independent counsel. "Even though an independent counsel was not required, in my opinion, because they didn't meet the statutory test, I just used my inherent authority," he recalled. He first asked former Attorney General [[Benjamin Civiletti]], who declined, and on October 16, 1992, appointed the retired judge [[Frederick Lacey]]. Barr said the position became untenable after an allegation that the CIA had withheld cables and after a White House aide's call to the Atlanta prosecutor [[Gale McKenzie]] about the case, and that Bush telephoned him from Air Force One only to ask what to say about it. Lacey reported on December 8, 1992, that there were no grounds for an independent counsel and that he had "seen nothing" to suggest that [[Brent Scowcroft]] and [[Lawrence Eagleburger]] knew of the loans; Representative [[Henry B. Gonzalez|Henry Gonzalez]] called the report a whitewash.[^1][^4]
 
 #### House Bank
 
@@ -35,7 +74,7 @@ Barr appointed his former judge, Wilkey, as special counsel for the investigatio
 
 #### Iran-Contra Pardons
 
-At the end of the administration Barr advised Bush to pardon [[Caspar Weinberger]], "but while he was at it, he should pardon about five others." "The big ones obviously were the Iran Contra ones. I certainly did not oppose any of them. I favored the broadest. There were some people arguing just for Weinberger, and I said, 'No, in for a penny, in for a pound.'" He described [[Elliott Abrams]] as "very unjustly treated" and did not remember going through the pardon office. Of the independent counsel [[Lawrence Walsh]] he said: "He was certainly a headhunter and had completely lost perspective." He disputed Bob Woodward's account that Bush "bellowed" at him over Weinberger's indictment on the Friday before the 1992 election: "He didn't even raise his voice. He just said that he felt it cost him the election."[^1]
+At the end of the administration Barr advised Bush to pardon [[Caspar Weinberger]], "but while he was at it, he should pardon about five others." "The big ones obviously were the Iran Contra ones. I certainly did not oppose any of them. I favored the broadest. There were some people arguing just for Weinberger, and I said, 'No, in for a penny, in for a pound.'" He described [[Elliott Abrams]] as "very unjustly treated" and did not remember going through the pardon office. Of the independent counsel [[Lawrence Walsh]] he said: "He was certainly a headhunter and had completely lost perspective." He disputed [[Bob Woodward]]'s account that Bush "bellowed" at him over Weinberger's indictment on the Friday before the 1992 election: "He didn't even raise his voice. He just said that he felt it cost him the election."[^1]
 
 ### Attorney General, 2019
 

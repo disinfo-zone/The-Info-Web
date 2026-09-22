@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Los Angeles Police Department
 category: "U.S. Government"
 tags:
   - Organization
@@ -45,7 +47,7 @@ By 1986, despite three years of the crack epidemic raging in South Central, drug
 
 On January 12, 1987, the LAPD and the Los Angeles County Sheriff's Department formally joined forces to create the Freeway Rick Task Force, one of the few times in L.A. law enforcement history that a single individual was the target of a multi-jurisdictional squad. The LAPD contributed four detectives to join five from the sheriff's department, led by Sergeant [[Robert Sobel]] of Majors I. Detective [[Steve Polak]], who had worked South Central streets since the dawn of crack, was among the LAPD contingent. Deputy LAPD chief Glenn Levant called the task force "a model for other jurisdictions to follow to attack mid-level cocaine trafficking in California."[^4]
 
-The task force's tactics became increasingly aggressive. Detectives beat Ricky Ross's partner [[Ollie Newell]], smothering him with a plastic bag. They planted a kilo of [[cocaine]] on Ross after a foot chase in April 1987, with Polak retrieving the drugs from his trunk and claiming Ross had dropped them. After Ross's arrest, task force members visited him in jail and, on a tape recording, discussed their frame-up of him. A forensic expert found eleven erasures on the tape. After hearing the recording, the judge threw all charges out of court.[^4]
+The task force's tactics became increasingly aggressive. Detectives beat Ricky Ross's partner [[Ollie Newell]], smothering him with a plastic bag. They planted a kilo of [[Cocaine]] on Ross after a foot chase in April 1987, with Polak retrieving the drugs from his trunk and claiming Ross had dropped them. After Ross's arrest, task force members visited him in jail and, on a tape recording, discussed their frame-up of him. A forensic expert found eleven erasures on the tape. After hearing the recording, the judge threw all charges out of court.[^4]
 
 ### Footnotes
 

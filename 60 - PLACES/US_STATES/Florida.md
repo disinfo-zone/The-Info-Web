@@ -5,7 +5,7 @@ tags:
   - contra-war
 summary: Florida served as a major hub for both cocaine trafficking and Contra political activity during the 1980s, with Miami functioning as the primary center of operations.
 ---
-Florida served as a major hub for both [[cocaine]] trafficking and [[Contras|Contra]] political activity during the 1980s, with [[Miami]] functioning as the primary center of operations on the U.S. East Coast. The state's proximity to the [[Caribbean]] and [[Central America]] made it a natural transshipment point for drugs flowing north and weapons flowing south.[^1]
+Florida served as a major hub for both [[Cocaine]] trafficking and [[Contras|Contra]] political activity during the 1980s, with [[Miami]] functioning as the primary center of operations on the U.S. East Coast. The state's proximity to the [[Caribbean]] and [[Central America]] made it a natural transshipment point for drugs flowing north and weapons flowing south.[^1]
 
 ### Contra Operations in Miami
 

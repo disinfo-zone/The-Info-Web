@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Cali, Colombia was the headquarters of the Cali Cartel, a rival to the Medellín Cartel that also played a role in the cocaine trade connected to the Contra supply chain.
 ---
-Cali, [[Colombia]] was the headquarters of the [[Cali Drug Cartel]], a rival to the [[Medellin Cartel|Medellín Cartel]] that also played a role in the [[cocaine]] trade connected to the Contra supply chain. The city's drug trafficking organizations were part of the broader Colombian narcotics infrastructure that supplied the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] network.[^1]
+Cali, [[Colombia]] was the headquarters of the [[Cali Drug Cartel]], a rival to the [[Medellin Cartel|Medellín Cartel]] that also played a role in the [[Cocaine]] trade connected to the Contra supply chain. The city's drug trafficking organizations were part of the broader Colombian narcotics infrastructure that supplied the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] network.[^1]
 
 ### The Colombian Connection
 

@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: San Bernardino was a Southern California city where the Blandón-Meneses cocaine network distributed drugs, extending the Contra-connected trafficking operation beyond Los Angeles.
 ---
-San Bernardino was a Southern [[California]] city where the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] [[cocaine]] network distributed drugs, extending the [[Contras|Contra]]-connected trafficking operation beyond [[Los Angeles]]. The city was part of the broader distribution network that moved Contra-connected cocaine throughout the Southland.[^1]
+San Bernardino was a Southern [[California]] city where the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] [[Cocaine]] network distributed drugs, extending the [[Contras|Contra]]-connected trafficking operation beyond [[Los Angeles]]. The city was part of the broader distribution network that moved Contra-connected cocaine throughout the Southland.[^1]
 
 ### Distribution Network
 

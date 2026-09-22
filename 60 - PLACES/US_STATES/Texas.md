@@ -5,7 +5,7 @@ tags:
   - contra-war
 summary: Texas served as a transit corridor for Contra-connected cocaine shipments, with airfields and border crossings used to move drugs into the United States.
 ---
-Texas served as a transit corridor for Contra-connected [[cocaine]] shipments, with airfields and border crossings used to move drugs into the [[United States]]. The state's long border with [[Mexico]] and its network of airfields made it a key entry point for narcotics flowing north from [[Central America|Central]] and [[South America]].[^1]
+Texas served as a transit corridor for Contra-connected [[Cocaine]] shipments, with airfields and border crossings used to move drugs into the [[United States]]. The state's long border with [[Mexico]] and its network of airfields made it a key entry point for narcotics flowing north from [[Central America|Central]] and [[South America]].[^1]
 
 ### Contra Cocaine Routes
 

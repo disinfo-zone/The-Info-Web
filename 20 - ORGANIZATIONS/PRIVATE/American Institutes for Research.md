@@ -18,7 +18,7 @@ start: 1946-01-01
 location: "Washington, D.C."
 ---
 
-The American Institutes for Research (AIR) is a nonprofit behavioral and social science research organization founded in 1946, headquartered in the Washington, D.C. area. It conducts applied research in education, health, workforce development, and related fields under government and private contracts. AIR's primary relevance to intelligence history is its 1995 evaluation of the [[STARGATE PROJECT|STAR GATE]] program, the classified remote viewing research effort that had operated under various designations since 1978 under Army and [[Defense Intelligence Agency]] sponsorship, and passed to the [[Central Intelligence Agency|CIA]] in 1995.[^1]
+The American Institutes for Research (AIR) is a nonprofit behavioral and social science research organization founded in 1946, headquartered in the Washington, D.C. area. It conducts applied research in education, health, workforce development, and related fields under government and private contracts. AIR's primary relevance to intelligence history is its 1995 evaluation of the [[Stargate Project|STAR GATE]] program, the classified remote viewing research effort that had operated under various designations since 1978 under Army and [[Defense Intelligence Agency]] sponsorship, and passed to the [[Central Intelligence Agency|CIA]] in 1995.[^1]
 
 ### Cold War Classified Military Psychology Work
 

@@ -20,7 +20,7 @@ died: 2020-04-25
 location: "Racine, Wisconsin"
 ---
 
-Mel Riley was a U.S. Army staff sergeant and one of the original six remote viewers in the [[STARGATE PROJECT]]. He was recruited into the program, then codenamed Gondola Wish, in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
+Mel Riley was a U.S. Army staff sergeant and one of the original six remote viewers in the [[Stargate Project]]. He was recruited into the program, then codenamed Gondola Wish, in 1977 by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 
 Riley was five feet eight, slim and fit, with wavy blond hair and an Irish, vaguely leprechaunish face. He had tattoos of an eagle, a rabbit, and a large winged dragon across his chest. His eyes were often described as wide and intense, as if he were staring inward. He was a morning person, enjoying the quiet calm of the predawn hours.[^1]
 

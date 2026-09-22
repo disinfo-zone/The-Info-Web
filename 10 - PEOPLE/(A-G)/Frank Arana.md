@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Frank Arana was an FDN director who flew to San Francisco with Edgar Chamorro in 1982 to establish the Contra support network in California.
 ---
-Frank Arana was an [[FDN]] director who flew to [[San Francisco]] with [[Edgar Chamorro]] in October 1982 to select leaders for the [[Contras|Contra]] support committee. Arana's trip to San Francisco placed him at the center of the Contra political operation in [[California]], which overlapped with [[Norwin Meneses]]'s [[cocaine]] trafficking network on the West Coast.[^1]
+Frank Arana was an [[FDN]] director who flew to [[San Francisco]] with [[Edgar Chamorro]] in October 1982 to select leaders for the [[Contras|Contra]] support committee. Arana's trip to San Francisco placed him at the center of the Contra political operation in [[California]], which overlapped with [[Norwin Meneses]]'s [[Cocaine]] trafficking network on the West Coast.[^1]
 
 ### The San Francisco Connection
 

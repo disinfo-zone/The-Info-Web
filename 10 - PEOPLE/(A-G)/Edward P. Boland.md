@@ -12,7 +12,7 @@ Edward P. Boland was the Massachusetts Democratic congressman who sponsored the 
 
 ### The Boland Amendments
 
-The amendments sought to rein in the Reagan administration's covert war by prohibiting the [[Central Intelligence Agency]], [[National Security Council]], or any other U.S. government agency from providing military aid to the [[Contras]]. The legislation directly led to [[Oliver North]]'s illegal efforts to fund the Contras through alternative sources, including [[Iran]] arms sales proceeds, Saudi contributions, and [[cocaine]] trafficking profits. The Boland Amendments exposed the tension between congressional oversight and executive branch determination to pursue the Contra war by any means necessary.[^2]
+The amendments sought to rein in the Reagan administration's covert war by prohibiting the [[Central Intelligence Agency]], [[National Security Council]], or any other U.S. government agency from providing military aid to the [[Contras]]. The legislation directly led to [[Oliver North]]'s illegal efforts to fund the Contras through alternative sources, including [[Iran]] arms sales proceeds, Saudi contributions, and [[Cocaine]] trafficking profits. The Boland Amendments exposed the tension between congressional oversight and executive branch determination to pursue the Contra war by any means necessary.[^2]
 
 ### Footnotes
 

@@ -1,4 +1,6 @@
 ﻿---
+aliases:
+  - Britain
 category: "Country"
 tags:
   - Country
@@ -24,15 +26,15 @@ MI6 and the CIA conducted the joint [[1953 coup]] in [[Iran]] that removed Prime
 
 ### BCCI
 
-The [[Bank of Credit and Commerce International]] maintained its principal global management headquarters in [[London]] while being registered in Luxembourg and incorporated in the [[Cayman Islands]]. The [[Bank of England]] was the UK's regulatory authority for BCCI's British operations and received significant criticism in the subsequent [[Bingham Report]] (1992) for failing to act on warning signs. BCCI's British collapse on July 5, 1991, affected approximately 120,000 UK depositors. The [[Kerry Committee|Kerry-Brown Senate investigation]] documented the bank's UK operations as central to its intelligence-connected financial flows.[^2]
+The [[Bank of Credit and Commerce International]] maintained its principal global management headquarters in London while being registered in Luxembourg and incorporated in the [[Cayman Islands]]. The [[Bank of England]] was the UK's regulatory authority for BCCI's British operations and received significant criticism in the subsequent [[Bingham Report]] (1992) for failing to act on warning signs. BCCI's British collapse on July 5, 1991, affected approximately 120,000 UK depositors. The [[Kerry Committee|Kerry-Brown Senate investigation]] documented the bank's UK operations as central to its intelligence-connected financial flows.[^2]
 
 ### Robert Maxwell
 
-Press baron [[Robert Maxwell]], a Czech-born British citizen whose claimed Mossad connections are attested by former Israeli intelligence officers [[Ari Ben-Menashe]] and [[Victor Ostrovsky]], built his empire from [[Oxford]]-based [[Pergamon Press]] and later [[Mirror Group Newspapers]]. [[Nicholas Davies]], the Daily Mirror's foreign editor, was accused of being a Mossad asset. Maxwell died under disputed circumstances in November 1991; the subsequent collapse of his business empire revealed massive pension fund fraud.[^1]
+Press baron [[Robert Maxwell]], a Czech-born British citizen whose claimed Mossad connections are attested by former Israeli intelligence officers [[Ari Ben-Menashe]] and [[Victor Ostrovsky]], built his empire from [[Oxford]]-based [[Pergamon Press]] and later [[Mirror Group Newspapers]]. [[Nicholas Davies]], the [[Daily Mirror]]'s foreign editor, was accused of being a Mossad asset. Maxwell died under disputed circumstances in November 1991; the subsequent collapse of his business empire revealed massive pension fund fraud.[^1]
 
 ### Arms-to-Iraq
 
-The United Kingdom's covert support for [[Saddam Hussein]]'s arms procurement during the [[Iran-Iraq War]] was examined in the [[Scott Inquiry]] (1992-1996). British companies including [[Matrix Churchill]] supplied precision machine tools for weapons production under export licenses that the government secretly knew would facilitate weapons manufacturing. [[Mark Gutteridge]] and other Matrix Churchill directors were prosecuted; the trial collapsed after ministerial public interest immunity certificates were used to suppress intelligence documents. The Scott Report found that UK export policy had been changed without informing Parliament.[^2]
+The United Kingdom's covert support for [[Saddam Hussein]]'s arms procurement during the Iran-Iraq War was examined in the [[Scott Inquiry]] (1992-1996). British companies including [[Matrix Churchill]] supplied precision machine tools for weapons production under export licenses that the government secretly knew would facilitate weapons manufacturing. [[Mark Gutteridge]] and other Matrix Churchill directors were prosecuted; the trial collapsed after ministerial public interest immunity certificates were used to suppress intelligence documents. The Scott Report found that UK export policy had been changed without informing Parliament.[^2]
 
 ### Paedophile Information Exchange
 

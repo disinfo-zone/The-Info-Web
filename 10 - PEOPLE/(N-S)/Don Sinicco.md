@@ -19,7 +19,7 @@ In late 1983, Calero called Sinicco because of his letter-writing campaign to Sa
 
 ### Encounter with Norwin Meneses
 
-At a dinner at Caesar's Italian Restaurant after the yacht club event, [[Norwin Meneses]] paid the entire bill. Sinicco initially assumed one of the Cuban anti-Communists in the group had paid. At a cocktail party for Calero two days later, Sinicco photographed Calero in the kitchen huddled by the refrigerator with Meneses and FDN officials. When Sinicco snapped the picture, Meneses glared at him rather than smiling. Meneses began attending USACA meetings and made contributions â€” $160 in cash, plus picking up a $324.20 dinner tab.[^1]
+At a dinner at Caesar's Italian Restaurant after the yacht club event, [[Norwin Meneses]] paid the entire bill. Sinicco initially assumed one of the Cuban anti-Communists in the group had paid. At a cocktail party for Calero two days later, Sinicco photographed Calero in the kitchen huddled by the refrigerator with Meneses and FDN officials. When Sinicco snapped the picture, Meneses glared at him rather than smiling. Meneses began attending USACA meetings and made contributions: $160 in cash, plus picking up a $324.20 dinner tab.[^1]
 
 Sinicco kept meticulous records of USACA's activities, including attendance records, meeting minutes, and handwritten talking points listing "seven successes," including "Mr. Meneces' [sic] contribution." Sinicco said he never suspected Meneses was involved in criminal activities but noticed Ainsworth becoming disillusioned: "What always bothered me about Dennis is that towards the end, I don't know what, he seemed to get disillusioned or disgusted with Calero."[^1]
 

@@ -10,17 +10,35 @@ summary: "Former security director of the Cabazon tribe's casino and bingo opera
 location:
   - "Indio, California"
   - "Honduras"
+relations:
+  - type: employed_by
+    with: "[[Cabazon Indian Reservation]]"
+    end: 1984
+    role: "security director, casino and bingo operations"
+    fn: 1
+  - type: member_of
+    with: "[[Full Gospel Business Men's Fellowship International]]"
+    start: 1987
+    fn: 2
+  - type: investigated
+    with: "[[John Powers]]"
+    reverse: true
+    fn: 4
+  - type: relative_of
+    with: "[[Rod Pacheco]]"
+    role: "distant cousin"
+    fn: 1
 created: 2025-08-05
 updated: 2026-09-22
 ---
 
-James "Jimmy" Hughes was the security director of the casino and bingo operations of the [[Cabazon Indian Reservation|Cabazon Band of Mission Indians]] for four years, until 1984.[^1] In a statement to investigators reported by the *Los Angeles Times* in 1985, he said that in the summer of 1981 he had been instructed, in the presence of the tribe's financial adviser [[Dr. John Philip Nichols]], to take 25,000 dollars to Idyllwild and give it to a man as partial payment for the killing of [[Fred Alvarez]].[^1] He later described himself as a former Army Ranger who had become a "Mafia hit-man," said he had worked for the [[Central Intelligence Agency|CIA]] abroad and been protected by the [[Federal Bureau of Investigation|FBI]] in exchange for information, and alleged that Nichols issued murder contracts and that the tribe's gambling enterprises were fronts for government-sanctioned covert military activity and arms shipments to Central and [[South America]].[^2]
+James "Jimmy" Hughes was the security director of the casino and bingo operations of the [[Cabazon Indian Reservation|Cabazon Band of Mission Indians]] for four years, until 1984.[^1] In a statement to investigators reported by the *[[Los Angeles Times]]* in 1985, he said that in the summer of 1981 he had been instructed, in the presence of the tribe's financial adviser [[Dr. John Philip Nichols]], to take 25,000 dollars to Idyllwild and give it to a man as partial payment for the killing of [[Fred Alvarez]].[^1] He later described himself as a former Army Ranger who had become a "Mafia hit-man," said he had worked for the [[Central Intelligence Agency|CIA]] abroad and been protected by the [[Federal Bureau of Investigation|FBI]] in exchange for information, and alleged that Nichols issued murder contracts and that the tribe's gambling enterprises were fronts for government-sanctioned covert military activity and arms shipments to Central and [[South America]].[^2]
 
 ### The Alvarez Murders
 
-Fred Alfred Alvarez, 32, a Cabazon tribal leader, [[Ralph Boger|Ralph Arthur Boger]], 42, and [[Patricia Castro|Patricia Roberta Castro]], 44, were shot dead at 35040 Bob Hope Drive in Rancho Mirage, [[California]], in 1981.[^3] Alvarez's sister Linda said her brother "was afraid for his life because his mailbox had been shot out and his motorcycle had many unexplained breakdowns and missing parts." Alvarez told Paul Zalis of the *Indio Daily News*, "I'm living in a hovel while all these guys are getting rich off the casino," and told its editor, Jim Lycett, twice, "I just know too much, and they're going to kill me." He was killed before a meeting at which he was to hand evidence to the attorney Stephen Rios.[^1][^4]
+Fred Alfred Alvarez, 32, a Cabazon tribal leader, [[Ralph Boger|Ralph Arthur Boger]], 42, and [[Patricia Castro|Patricia Roberta Castro]], 44, were shot dead at 35040 Bob Hope Drive in Rancho Mirage, [[California]], in 1981.[^3] Alvarez's sister Linda said her brother "was afraid for his life because his mailbox had been shot out and his motorcycle had many unexplained breakdowns and missing parts." Alvarez told [[Paul Zalis]] of the *Indio Daily News*, "I'm living in a hovel while all these guys are getting rich off the casino," and told its editor, Jim Lycett, twice, "I just know too much, and they're going to kill me." He was killed before a meeting at which he was to hand evidence to the attorney Stephen Rios.[^1][^4]
 
-The tribe had entered a joint venture with the [[Wackenhut Corporation]]. [[Peter Zokosky]], former president of a nearby munitions plant, said Wackenhut asked him to write a proposal "to build an arsenal and manufacture tank ammunition on tribal land"; a former Wackenhut spokesman, Patrick Cannan, said the venture was formed "to win government security contracts," "fizzled when it failed to get bids," and to his knowledge "did not involve weapons." [[Michael Riconosciuto]] and [[Robert Booth Nichols]] (no relation to John Philip Nichols) alleged in separate filings that it was meant to develop night-vision goggles, machine guns and chemical and biological weapons for the [[Contras]]; Booth Nichols said he withdrew "because Wackenhut didn't provide State Department approval." A 1995 tribal history portrayed Alvarez as "a renegade involved in criminal activity" and denied tribal involvement in his death.[^4]
+The tribe had entered a joint venture with the [[Wackenhut Corporation]]. [[Peter Zokosky]], former president of a nearby munitions plant, said Wackenhut asked him to write a proposal "to build an arsenal and manufacture tank ammunition on tribal land"; a former Wackenhut spokesman, Patrick Cannan, said the venture was formed "to win government security contracts," "fizzled when it failed to get bids," and to his knowledge "did not involve weapons." [[Michael Riconosciuto]] and [[Robert Booth Nichols]] (no relation to John Philip Nichols) alleged in separate filings that it was meant to develop night-vision goggles, machine guns and chemical and biological weapons for the [[Contras]]; Booth Nichols said he withdrew "because Wackenhut didn't provide [[State Department]] approval." A 1995 tribal history portrayed Alvarez as "a renegade involved in criminal activity" and denied tribal involvement in his death.[^4]
 
 ### Arrest and Dismissal
 

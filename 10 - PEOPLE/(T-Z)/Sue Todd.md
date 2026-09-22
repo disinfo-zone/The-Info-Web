@@ -3,16 +3,21 @@ category: "PROMIS Scandal"
 tags:
   - Person
   - PROMIS
-summary: "Todd accompanied Sean McDade during his secret entry into the United States in February 2000, where they met with Cheri Seymour, the author of *The Last Circle*."
+  - LawEnforcement
+summary: "Police detective of Hercules, California, who according to Cheri Seymour accompanied the RCMP investigator Sean McDade in February 2000 and believed a homicide case of her own was tied to PROMIS."
+location: "Hercules, California"
+relations:
+  - type: partner_of
+    with: "[[Sean McDade]]"
+    start: 2000-02
+    role: "shared a source during Project Abbreviation"
+    fn: 1
+created: 2025-08-05
+updated: 2026-09-22
 ---
 
-[[Sue Todd]] is a Police Detective from Hercules, California. She became involved in the investigation surrounding the [[PROMIS Software Scandal]] and its broader implications, particularly through her collaboration with [[Royal Canadian Mounted Police|RCMP]] national security investigator [[Sean McDade]].[1]
-
-Todd accompanied [[Sean McDade]] during his secret entry into the [[United States]] in February 2000, where they met with [[Cheri Seymour]], the author of *The Last Circle*. Their collaboration stemmed from a shared "source" and Todd's own investigation into a three-year-old double homicide that she believed was connected to the [[PROMIS]] case. During their meeting with Seymour, Todd and McDade were armed with 9mm police guns, indicating the serious nature of their inquiry.[1]
-
-She assisted [[Sean McDade]] in his extensive probe, which involved interviewing former investigators, witnesses, and law enforcement personnel across the [[United States]]. Todd was also a point of contact for [[Sean McDade]] when he found himself targeted by [[ECHELON]] technology during his investigation, forcing him to take extraordinary measures to communicate securely.[1]
-
-Despite the exposure of [[Sean McDade]]'s investigation in the *Toronto Star* in August 2000, Todd indicated that he ultimately returned to police work in his hometown, suggesting a continued commitment to law enforcement despite the challenges faced during the [[PROMIS]] investigation.[1]
+Sue Todd was a police detective in Hercules, [[California]]. According to [[Cheri Seymour]], Todd accompanied the [[Royal Canadian Mounted Police|RCMP]] investigator [[Sean McDade]] to meet Seymour in Southern California on February 19, 2000, during [[Project Abbreviation]]; the two had found that they shared a source, and Todd believed that a double homicide she had been investigating for three years was connected to [[PROMIS]]. Both carried 9mm service pistols to the meeting. Todd was Seymour's point of contact with McDade when he believed he was under [[ECHELON]] surveillance, and she later told Seymour that McDade had returned to police work in his hometown.[^1]
 
 ### Footnotes
-[1] Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source; no record of Todd or of the Hercules homicide case was found in the congressional or Justice Department reports or in the *Toronto Star*'s coverage of 2000.

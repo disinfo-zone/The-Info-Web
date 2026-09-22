@@ -9,7 +9,7 @@ tags:
 summary: "Don Porter was an official with INSCOM at Arlington Hall."
 ---
 
-Don Porter was an official with [[United States Army Intelligence and Security Command|INSCOM]] at Arlington Hall. He tasked the [[STARGATE PROJECT|Grill Flame]] remote viewers with precognitive missions, seeking to gain intelligence on future events.[^1]
+Don Porter was an official with [[United States Army Intelligence and Security Command|INSCOM]] at Arlington Hall. He tasked the [[Stargate Project|Grill Flame]] remote viewers with precognitive missions, seeking to gain intelligence on future events.[^1]
 
 In one notable instance, Porter asked [[Frederick Atwater|Skip Atwater]] to have his remote viewers predict the outcome of secret talks between military and civilian officials from North and South Korea, to be held in a farmhouse in the demilitarized zone. Porter wanted to know the North Korean delegates' negotiating strategies and how far they could be pushed.[^1]
 

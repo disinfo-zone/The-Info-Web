@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: South America was the source of the cocaine that flowed through Contra-connected trafficking networks, with Colombia and Bolivia serving as the primary production countries.
 ---
-South America was the source of the [[cocaine]] that flowed through Contra-connected trafficking networks, with [[Colombia]] and [[Bolivia]] serving as the primary production countries. The continent's drug cartels supplied the commodity that linked the Contra war to the devastation of American inner cities.[^1]
+South America was the source of the [[Cocaine]] that flowed through Contra-connected trafficking networks, with [[Colombia]] and [[Bolivia]] serving as the primary production countries. The continent's drug cartels supplied the commodity that linked the Contra war to the devastation of American inner cities.[^1]
 
 ### The Cocaine Supply Chain
 

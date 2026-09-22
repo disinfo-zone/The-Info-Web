@@ -9,7 +9,7 @@ summary: "Army civilian photo-interpreter and one of the original four candidate
 ---
 
 
-[[Steve Holloway]] was an Army civilian photo-interpreter and an early member of the [[STARGATE PROJECT|Gondola Wish]] (later [[STARGATE PROJECT|Grill Flame]]) remote viewing unit. He was one of the four Army civilians in the initial group of candidates selected by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
+[[Steve Holloway]] was an Army civilian photo-interpreter and an early member of the [[Stargate Project|Gondola Wish]] (later Grill Flame) remote viewing unit. He was one of the four Army civilians in the initial group of candidates selected by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]].[^1]
 
 ---
 

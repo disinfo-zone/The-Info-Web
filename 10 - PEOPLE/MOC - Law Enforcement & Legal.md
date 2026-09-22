@@ -16,14 +16,14 @@ Police, detectives, prosecutors, lawyers, and judges involved in related cases.
 | [[Arnold Overoye]] | Overoye's 'procedure' of referring complaints directly back to local agencies was noted as a consistent practice, leading to threats, intimidation, and fear for complaining individuals in Mariposa County. |
 | [[Baruch Weiss]] | Assistant U.S. Attorney for the Southern District of New York who prosecuted Ari Ben-Menashe for conspiracy to sell C-130 aircraft to Iran. |
 | [[Ben Wagner]] | Wagner filed two civil rights lawsuits with the U.S. |
-| [[Brad Brunon]] | Los Angeles attorney who represented Danilo BlandÃ³n and provided firsthand observations about Contra fundraising through cocaine trafficking. |
+| [[Brad Brunon]] | Los Angeles attorney who represented Danilo Blandón and provided firsthand observations about Contra fundraising through cocaine trafficking. |
 | [[Brian Leighton]] | Leighton's efforts against 'The Company' were significant, and he was described as the most effective person in formulating a strategy within the Justice Department to pursue this group. |
 | [[Bruce Eckerson]] | Eckerson's disclosure statements on file at the Mariposa County Courthouse indicated that he owned stock in MCA Entertainment Corporation. |
 | [[Carl Stern]] | Public relations man for Attorney General Janet Reno who interviewed Paul Wilcher about DOJ cover-up allegations from the Reagan-Bush era. |
 | [[Celerino Castillo]] | Celerino Castillo III was a DEA agent who discovered Contra drug trafficking operations at Ilopango Air Force Base in El Salvador and had his investigation repeatedly shut down by the CIA and State Department. |
 | [[Chris Cannon]] | San Francisco defense attorney for Ben Kalka who uncovered evidence that methamphetamine precursors were provided by the U.S. government. |
 | [[Chris Moore]] | Former reserve police officer and office manager for Pyramid International Security Consultants who witnessed the company's El Salvador operations firsthand. |
-| [[Chuck Jones]] | DEA agent who served as Danilo BlandÃ³n's primary handler from 1993 to 1995 and denied any knowledge of BlandÃ³n's Contra drug trafficking history during a contentious meeting with Gary Webb. |
+| [[Chuck Jones]] | DEA agent who served as Danilo Blandón's primary handler from 1993 to 1995 and denied any knowledge of Blandón's Contra drug trafficking history during a contentious meeting with Gary Webb. |
 | [[Craig Chretien]] | DEA Special Agent in Charge of the San Diego regional office who met with Gary Webb in October 1995 in an attempt to dissuade him from publishing the Dark Alliance story, and who was later promoted to head the DEA's International Division. |
 | [[Crossan Andersen]] | Federal prosecutor in Los Angeles who took the Danilo Blandon case to the Organized Crime Drug Enforcement Task Force and described it as "a sensitive matter" involving CIA allegations. |
 | [[Daniel Garner]] | LASD Majors II deputy and court-certified money-laundering expert whose prosecution for corruption nearly exposed the Contra-CIA drug connection through documents he had seized from Ronald Lister's home in 1986. |

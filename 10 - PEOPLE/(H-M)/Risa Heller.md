@@ -8,21 +8,93 @@ tags:
   - Media
 summary: "New York crisis-communications consultant, formerly press secretary to Chuck Schumer, whose firm has represented Jared Kushner, Harvey Weinstein and Jeff Zucker."
 location: "New York City"
+relations:
+  - type: employed_by
+    with: "[[Jane Harman]]"
+    start: 2004
+    end: 2005
+    fn: 3
+  - type: employed_by
+    with: "[[Chuck Schumer]]"
+    start: 2005
+    role: "New York City press secretary"
+    fn: 3
+  - type: employed_by
+    with: "[[David Paterson]]"
+    fn: 2
+  - type: employed_by
+    with: "[[Global Strategy Group]]"
+    fn: 1
+  - type: spouse_of
+    with: "[[Ryan Toohey]]"
+    fn: 1
+  - type: represented
+    with: "[[Anthony Weiner]]"
+    start: 2011
+    fn: 1
+  - type: represented
+    with: "[[Jared Kushner]]"
+    fn: 1
+  - type: represented
+    with: "[[Kushner Companies]]"
+    fn: 1
+  - type: represented
+    with: "[[Ivanka Trump]]"
+    start: 2017
+    fn: 4
+  - type: represented
+    with: "[[Harvey Weinstein]]"
+    start: 2015
+    fn: 1
+  - type: represented
+    with: "[[Kevin Clash]]"
+    fn: 1
+  - type: represented
+    with: "[[Mario Batali]]"
+    fn: 1
+  - type: represented
+    with: "[[Win Butler]]"
+    fn: 1
+  - type: represented
+    with: "[[Jeffrey Toobin]]"
+    fn: 1
+  - type: represented
+    with: "[[Arthur Sulzberger Jr.]]"
+    fn: 1
+  - type: represented
+    with: "[[Jeff Zucker]]"
+    start: 2022
+    fn: 1
+  - type: represented
+    with: "[[Jeff Shell]]"
+    start: 2023
+    fn: 3
+  - type: represented
+    with: "[[GPB Capital Holdings]]"
+    start: 2021
+    fn: 6
+  - type: represented
+    with: "[[Verkada]]"
+    fn: 7
+  - type: represented
+    with: "[[Casey Wasserman]]"
+    start: 2026
+    fn: 8
 created: 2026-09-22
 updated: 2026-09-22
 ---
 
-Risa Heller graduated from the [[University of Michigan]] in 2001, having majored in psychology and in Hebrew and Jewish cultural studies, and later took a master's degree in communications at [[Johns Hopkins University]].[^1][^2] After an internship at the Washington office of the [[Anti-Defamation League]], she worked for Representative [[Jane Harman]] of [[California]] from 2004 to 2005 and then, from 2005, as the [[New York City]] press secretary of Senator [[Chuck Schumer]]; she later held a similar post under Governor [[David Paterson]] of [[New York]].[^1][^2][^3] "I would be nobody, nothing, nowhere without Chuck," she told *New York* magazine in 2023. She also worked at the Democratic consulting firm [[Global Strategy Group]], where she came to know her husband, Ryan Toohey, a former aide to [[Eliot Spitzer]] who became a partner at [[Dentons Global Advisors]].[^1]
+Risa Heller graduated from the [[University of Michigan]] in 2001, having majored in psychology and in Hebrew and Jewish cultural studies, and later took a master's degree in communications at [[Johns Hopkins University]].[^1][^2] After an internship at the Washington office of the [[Anti-Defamation League]], she worked for Representative [[Jane Harman]] of [[California]] from 2004 to 2005 and then, from 2005, as the [[New York City]] press secretary of Senator [[Chuck Schumer]]; she later held a similar post under Governor [[David Paterson]] of [[New York]].[^1][^2][^3] "I would be nobody, nothing, nowhere without Chuck," she told *New York* magazine in 2023. She also worked at the Democratic consulting firm [[Global Strategy Group]], where she came to know her husband, [[Ryan Toohey]], a former aide to [[Eliot Spitzer]] who became a partner at [[Dentons Global Advisors]].[^1]
 
 ### Risa Heller Communications
 
-Heller founded Risa Heller Communications in 2010. It had eighteen employees in early 2023. It trades as Heller and has offices in New York and Los Angeles.[^1][^2]
+Heller founded Risa Heller Communications in 2010. It had eighteen employees in early 2023. It trades as Heller and has offices in New York and [[Los Angeles]].[^1][^2]
 
-Its first crisis client, in 2011, was Representative [[Anthony Weiner]], then under scrutiny for sending an explicit photograph; she continued to advise him through his 2013 mayoral campaign and his 2017 case over messages to a minor.[^1][^4] [[Jared Kushner]] and [[Kushner Companies]] were long-standing clients. The engagement began before the 2016 presidential campaign to handle press on Kushner's divestiture from the family business, and in January 2017 she defended him against a *[[New York Times]]* report on his dealings with a Chinese businessman. She then worked on the public image of [[Ivanka Trump]] as Ivanka Trump took up a White House role. Schumer said: "I told her I didn't approve of that."[^1][^4]
+Its first crisis client, in 2011, was Representative [[Anthony Weiner]], then under scrutiny for sending an explicit photograph; she continued to advise him through his 2013 mayoral campaign and his 2017 case over messages to a minor.[^1][^4] [[Jared Kushner]] and [[Kushner Companies]] were long-standing clients. The engagement began before the 2016 presidential campaign to handle press on Kushner's divestiture from the family business, and in January 2017 she defended him against a *[[New York Times]]* report on his dealings with a Chinese businessman. She then worked on the public image of [[Ivanka Trump]] as Ivanka Trump took up a [[White House]] role. Schumer said: "I told her I didn't approve of that."[^1][^4]
 
-In 2015 [[Harvey Weinstein]] retained her against the accusation of the model Ambra Battilana, and she gave the *Times* his statement: "We are pleased this episode is behind us." Other clients recorded by *New York* magazine include Kevin Clash, the puppeteer of Elmo, against allegations of sex with teenagers (the cases were dismissed); the chef Mario Batali, accused of groping women; Win Butler of Arcade Fire; the legal analyst [[Jeffrey Toobin]]; and the former *Times* publisher [[Arthur Sulzberger Jr.]] in his divorce.[^1] In January 2022 she represented [[Jeff Zucker]] when his relationship with his deputy, Allison Gollust, ended his presidency of [[CNN]]; he had been introduced to her by Gary Ginsberg, a former adviser to [[Rupert Murdoch]]. In 2023 she represented Jeff Shell on his dismissal as chief executive of [[NBCUniversal]].[^1][^3]
+In 2015 [[Harvey Weinstein]] retained her against the accusation of the model Ambra Battilana, and she gave the *Times* his statement: "We are pleased this episode is behind us." Other clients recorded by *New York* magazine include [[Kevin Clash]], the puppeteer of Elmo, against allegations of sex with teenagers (the cases were dismissed); the chef [[Mario Batali]], accused of groping women; [[Win Butler]] of Arcade Fire; the legal analyst [[Jeffrey Toobin]]; and the former *Times* publisher [[Arthur Sulzberger Jr.]] in his divorce.[^1] In January 2022 she represented [[Jeff Zucker]] when his relationship with his deputy, Allison Gollust, ended his presidency of [[CNN]]; he had been introduced to her by Gary Ginsberg, a former adviser to [[Rupert Murdoch]]. In 2023 she represented [[Jeff Shell]] on his dismissal as chief executive of [[NBCUniversal]].[^1][^3]
 
-She was reported to have helped [[Elizabeth Holmes]], the convicted founder of [[Theranos]], to place the *New York Times* profile "Liz Holmes Wants You to Forget About Elizabeth," published on May 7, 2023, three weeks before Holmes reported to prison.[^5] In February 2021 the spokesperson for [[GPB Capital Holdings]], whose founder David Gentile had been arrested, was Linden Zakula of Heller's firm; he denied on GPB's behalf any part in 103 million dollars of land purchases in Clearwater, [[Florida]], by limited liability companies owned by [[Scientology|Scientologists]].[^6] The surveillance-camera maker [[Verkada]] retained the firm in about 2021.[^7]
+She was reported to have helped [[Elizabeth Holmes]], the convicted founder of [[Theranos]], to place the *New York Times* profile "Liz Holmes Wants You to Forget About Elizabeth," published on May 7, 2023, three weeks before Holmes reported to prison.[^5] In February 2021 the spokesperson for [[GPB Capital Holdings]], whose founder David Gentile had been arrested, was [[Linden Zakula]] of Heller's firm; he denied on GPB's behalf any part in 103 million dollars of land purchases in Clearwater, [[Florida]], by limited liability companies owned by [[Scientology|Scientologists]].[^6] The surveillance-camera maker [[Verkada]] retained the firm in about 2021.[^7]
 
 *New York* magazine described her closeness to the reporters who cover her clients: she hosted a book party for [[Maggie Haberman]] of the *Times*, and when a *New Yorker* writer began a profile of Jon Kelly of Puck, Kelly "called up Heller to run interference."[^1]
 

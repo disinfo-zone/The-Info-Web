@@ -21,7 +21,7 @@ died: 2017-02-06
 location: "New York, New York"
 ---
 
-Major General Albert Newton Stubblebine III (February 6, 1930 - February 6, 2017) was a U.S. Army general who served as commanding general of the [[United States Army Intelligence and Security Command|INSCOM]] from 1981 to 1984, during which he was the most senior American military officer publicly associated with belief in psychic phenomena and their military applications. His command authority provided the institutional protection that allowed the [[STARGATE PROJECT|Grill Flame]] and Center Lane remote viewing programs to survive bureaucratic resistance and continue operating through the early 1980s. He died on his 87th birthday.
+Major General Albert Newton Stubblebine III (February 6, 1930 - February 6, 2017) was a U.S. Army general who served as commanding general of the [[United States Army Intelligence and Security Command|INSCOM]] from 1981 to 1984, during which he was the most senior American military officer publicly associated with belief in psychic phenomena and their military applications. His command authority provided the institutional protection that allowed the [[Stargate Project|Grill Flame]] and Center Lane remote viewing programs to survive bureaucratic resistance and continue operating through the early 1980s. He died on his 87th birthday.
 
 ### Military Career
 

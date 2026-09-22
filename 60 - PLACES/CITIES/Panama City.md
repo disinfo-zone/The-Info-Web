@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Panama City was the operational center of Manuel Noriega's military dictatorship and a hub for cocaine trafficking and money laundering connected to the Contra war.
 ---
-Panama City was the operational center of [[Manuel Noriega|Noriega]]'s military dictatorship and a hub for [[cocaine]] trafficking and money laundering connected to the Contra war. The Panamanian capital served as a financial center where drug money was washed clean and a transit point for narcotics flowing north from [[South America]].[^1]
+Panama City was the operational center of [[Manuel Noriega|Noriega]]'s military dictatorship and a hub for [[Cocaine]] trafficking and money laundering connected to the Contra war. The Panamanian capital served as a financial center where drug money was washed clean and a transit point for narcotics flowing north from [[South America]].[^1]
 
 ### Drug Trafficking Hub
 

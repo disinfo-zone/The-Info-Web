@@ -12,6 +12,13 @@ summary: "Aberdeen, Maryland physicist who proposed a quantum theory of psi, vis
 born: 1935-02-15
 died: 2006-08-17
 location: "Aberdeen, Maryland"
+relations:
+  - type: participant_in
+    with: "[[Stargate Project]]"
+    start: 1978
+    end: 1979
+    role: "principal investigator of the 1978 hard-copy remote viewing machine request; AMSAA Grill Flame participant"
+    fn: 4
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -24,7 +31,7 @@ A [[Central Intelligence Agency|CIA]] memorandum for the record of April 18, 197
 
 ### Grill Flame
 
-A draft request for fiscal 1979 funding from the Army assistant chief of staff for intelligence (DAMI-ISH), dated July 7, 1978, named "E. H. Walker" as principal investigator of a project "To determine feasibility of developing automatic equipment capable of producing remote viewing in hard copy form," asking 350,000 dollars (150,000 for equipment, 150,000 for personnel, 50,000 miscellaneous) and stating that such equipment "might have the same utility in any future conflict as that of the Ultra machine used in WWII."[^4] The [[Army Materiel Systems Analysis Activity]]'s interim note of July 1979 on its [[STARGATE PROJECT|Grill Flame]] phase I work listed "Dr. Evan Harris Walker" among its acknowledged participants, with [[Lewis Walt|General Lewis Walt]] and [[John Kramar]], noting that "The identification of the specific roles played by specific individuals in the AMSAA GRILL FLAME program must be protected."[^5]
+A draft request for fiscal 1979 funding from the Army assistant chief of staff for intelligence (DAMI-ISH), dated July 7, 1978, named "E. H. Walker" as principal investigator of a project "To determine feasibility of developing automatic equipment capable of producing remote viewing in hard copy form," asking 350,000 dollars (150,000 for equipment, 150,000 for personnel, 50,000 miscellaneous) and stating that such equipment "might have the same utility in any future conflict as that of the Ultra machine used in WWII."[^4] The [[Army Materiel Systems Analysis Activity]]'s interim note of July 1979 on its [[Stargate Project|Grill Flame]] phase I work listed "Dr. Evan Harris Walker" among its acknowledged participants, with [[Lewis Walt|General Lewis Walt]] and [[John Kramar]], noting that "The identification of the specific roles played by specific individuals in the AMSAA GRILL FLAME program must be protected."[^5]
 
 ### Footnotes
 

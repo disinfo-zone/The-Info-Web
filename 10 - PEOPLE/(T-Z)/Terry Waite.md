@@ -7,6 +7,16 @@ tags:
   - RemoteViewing
   - SunStreak
 summary: "Envoy of the Archbishop of Canterbury in the Lebanon hostage negotiations whom Oliver North called 'our only access to events in Lebanon,' himself held hostage in Beirut until 1991."
+relations:
+  - type: employed_by
+    with: "[[Robert Runcie]]"
+    role: "special representative of the Archbishop of Canterbury"
+    fn: 1
+  - type: subject_of
+    with: "[[Sun Streak]]"
+    start: 1988
+    role: "remote-viewing target, projects 276 and 8806"
+    fn: 5
 created: 2026-09-22
 updated: 2026-09-22
 ---

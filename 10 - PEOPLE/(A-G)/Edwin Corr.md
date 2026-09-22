@@ -13,7 +13,7 @@ Edwin Corr was the U.S. Ambassador to [[El Salvador]] who received [[Celerino Ca
 
 ### Shutting Down the Investigation
 
-When Castillo reported his findings about [[cocaine]] trafficking at Ilopango to Ambassador Corr, Corr sent a secret back channel cable to Washington. Rather than supporting Castillo's investigation, the response from Washington was to shut it down. The CIA station in El Salvador sent a message to [[Costa Rica]] Station advising the [[DEA]] not to make inquiries about Hangar No. 4 at Ilopango. Corr's role in the chain of suppression illustrated how the State Department participated in protecting the Contra supply operation from law enforcement scrutiny.[^2]
+When Castillo reported his findings about [[Cocaine]] trafficking at Ilopango to Ambassador Corr, Corr sent a secret back channel cable to Washington. Rather than supporting Castillo's investigation, the response from Washington was to shut it down. The CIA station in El Salvador sent a message to [[Costa Rica]] Station advising the [[DEA]] not to make inquiries about Hangar No. 4 at Ilopango. Corr's role in the chain of suppression illustrated how the State Department participated in protecting the Contra supply operation from law enforcement scrutiny.[^2]
 
 ### Footnotes
 

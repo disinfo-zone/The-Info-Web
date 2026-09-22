@@ -8,7 +8,7 @@ summary: The Commonwealth Club in San Francisco hosted Gary Webb for a speaking 
 start: 1903
 location: "San Francisco, California"
 ---
-The Commonwealth Club in [[San Francisco]] hosted [[Gary Webb]] for a speaking engagement after the [[Dark Alliance]] series was published, amid the media controversy. The club was one of the venues where Webb publicly defended his reporting on the [[Central Intelligence Agency]]-[[Contras|Contra]]-[[cocaine]] connection.[^1]
+The Commonwealth Club in [[San Francisco]] hosted [[Gary Webb]] for a speaking engagement after the [[Dark Alliance]] series was published, amid the media controversy. The club was one of the venues where Webb publicly defended his reporting on the [[Central Intelligence Agency]]-[[Contras|Contra]]-[[Cocaine]] connection.[^1]
 
 ### Public Discourse
 

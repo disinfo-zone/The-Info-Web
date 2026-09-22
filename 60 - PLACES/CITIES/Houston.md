@@ -5,7 +5,7 @@ tags:
   - contra-war
 summary: Houston, Texas was a destination for Contra-connected cocaine shipments and was monitored by federal agencies tracking the Blandón-Meneses drug network.
 ---
-Houston, [[Texas]] was a destination for Contra-connected [[cocaine]] shipments and was monitored by federal agencies tracking the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] drug network. The city's port facilities and proximity to the Mexican border made it a key node in the southern drug trafficking corridor.[^1]
+Houston, [[Texas]] was a destination for Contra-connected [[Cocaine]] shipments and was monitored by federal agencies tracking the [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] drug network. The city's port facilities and proximity to the Mexican border made it a key node in the southern drug trafficking corridor.[^1]
 
 ### Cocaine Smuggling
 

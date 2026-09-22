@@ -28,7 +28,7 @@ Kerry received money from [[Clark Clifford]] and [[Robert Altman]], members of t
 
 ### Contra Drug Trafficking Investigation
 
-In 1987 and 1988, Kerry's subcommittee investigated links between the [[Contras]] and [[cocaine]] trafficking, with chief investigator [[Jack Blum]] uncovering direct connections.[^7] The committee took videotaped depositions from Contra leaders who acknowledged receiving drug profits with the apparent knowledge of the CIA. Drug dealers admitted under oath to giving money to the Contras and passed polygraph tests. Pilots admitted flying weapons south and cocaine and marijuana north.[^7]
+In 1987 and 1988, Kerry's subcommittee investigated links between the [[Contras]] and [[Cocaine]] trafficking, with chief investigator Jack Blum uncovering direct connections.[^7] The committee took videotaped depositions from Contra leaders who acknowledged receiving drug profits with the apparent knowledge of the CIA. Drug dealers admitted under oath to giving money to the Contras and passed polygraph tests. Pilots admitted flying weapons south and cocaine and marijuana north.[^7]
 
 [[Norwin Meneses]] was an early target of the investigation, but the Justice Department stonewalled the committee's requests for information. Blum told Webb that he eventually gave up trying to obtain the records.[^7]
 

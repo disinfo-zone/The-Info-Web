@@ -16,7 +16,7 @@ location: Naples, Italy
 created: 2026-06-04
 updated: 2026-06-04
 ---
-Thomas E. Narut was a [[U.S. Navy]] clinical psychologist stationed at the US Naval Regional Medical Center in [[Naples]], [[Italy]], who in June or July 1975 disclosed in private conversation at a [[NATO]] conference in [[Oslo]] that the Navy operated a program to select, condition, and deploy personnel as covert assassins. The disclosure appeared in the [[London]] Sunday Times on July 6, 1975, under the headline "The Strange Tale of Commander Narut," authored by Peter Watson, the paper's science correspondent. It was denied the same day by the Pentagon, and Narut partially retracted his most specific claim within days under institutional pressure. Watson never retracted the story.[^1]
+Thomas E. Narut was a [[U.S. Navy]] clinical psychologist stationed at the US Naval Regional Medical Center in [[Naples]], [[Italy]], who in June or July 1975 disclosed in private conversation at a [[NATO]] conference in [[Oslo]] that the Navy operated a program to select, condition, and deploy personnel as covert assassins. The disclosure appeared in the [[London]] [[The Sunday Times|Sunday Times]] on July 6, 1975, under the headline "The Strange Tale of Commander Narut," authored by Peter Watson, the paper's science correspondent. It was denied the same day by the Pentagon, and Narut partially retracted his most specific claim within days under institutional pressure. Watson never retracted the story.[^1]
 
 ### The NATO Conference
 

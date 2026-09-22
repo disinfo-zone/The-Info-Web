@@ -13,7 +13,7 @@ Pablo Escobar was the leader of the [[Medellin Cartel|Medellín Cartel]] who all
 
 ### Connection to the Contra Supply Chain
 
-The [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] ring sourced its [[cocaine]] from the Ochoa family in Colombia, founders of the Medellín Cartel, and from the Suarez family in [[Bolivia]]. The cartel's vast distribution network overlapped with the [[Central Intelligence Agency]]'s Contra supply chain, as the same aircraft and pilots moved weapons south and drugs north. Barry Seal, a CIA and [[DEA]] contract agent, was flying loads in directly for the Medellín Cartel while simultaneously working on U.S. government missions.[^2]
+The [[Danilo Blandon|Blandón]]-[[Norwin Meneses|Meneses]] ring sourced its [[Cocaine]] from the Ochoa family in Colombia, founders of the Medellín Cartel, and from the Suarez family in [[Bolivia]]. The cartel's vast distribution network overlapped with the [[Central Intelligence Agency]]'s Contra supply chain, as the same aircraft and pilots moved weapons south and drugs north. Barry Seal, a CIA and [[DEA]] contract agent, was flying loads in directly for the Medellín Cartel while simultaneously working on U.S. government missions.[^2]
 
 ### Footnotes
 

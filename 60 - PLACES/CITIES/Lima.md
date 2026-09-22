@@ -10,7 +10,7 @@ Lima, the capital of [[Peru]], was where the first documented epidemic of cocain
 
 ### The Andean Connection
 
-The [[cocaine]] that flowed through Contra-connected trafficking networks originated in the Andean production zone that included Peru, [[Bolivia]], and [[Colombia]]. The early epidemic in Lima served as a warning that went unheeded when cheap cocaine began flooding into American inner cities through networks like the one run by [[Danilo Blandon|Danilo Blandón]] and [[Norwin Meneses|Meneses]]. The Peruvian experience with coca paste smoking in Lima demonstrated the destructive potential of smokable cocaine years before crack devastated [[South Central Los Angeles|South Central L.A.]].[^2]
+The [[Cocaine]] that flowed through Contra-connected trafficking networks originated in the Andean production zone that included Peru, [[Bolivia]], and [[Colombia]]. The early epidemic in Lima served as a warning that went unheeded when cheap cocaine began flooding into American inner cities through networks like the one run by [[Danilo Blandon|Danilo Blandón]] and [[Norwin Meneses|Meneses]]. The Peruvian experience with coca paste smoking in Lima demonstrated the destructive potential of smokable cocaine years before crack devastated [[South Central Los Angeles|South Central L.A.]].[^2]
 
 ### Footnotes
 

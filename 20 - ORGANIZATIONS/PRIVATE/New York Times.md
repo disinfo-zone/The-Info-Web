@@ -1,4 +1,6 @@
 ---
+aliases:
+  - The New York Times
 category: "Private Organization"
 start: 1851
 location: "New York City, USA"

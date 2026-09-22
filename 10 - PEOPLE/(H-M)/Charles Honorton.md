@@ -7,6 +7,14 @@ tags:
   - SRI
   - RemoteViewing
 summary: "Parapsychologist at Maimonides Medical Center and director of the Psychophysical Research Laboratories, whose ganzfeld meta-analyses were subcontracted by SRI's government-funded remote-viewing program."
+relations:
+  - type: employed_by
+    with: "[[Maimonides Medical Center]]"
+    fn: 1
+  - type: contractor_to
+    with: "[[Stanford Research Institute]]"
+    role: "director, Psychophysical Research Laboratories; ganzfeld meta-analyses"
+    fn: 2
 created: 2026-09-22
 updated: 2026-09-22
 ---

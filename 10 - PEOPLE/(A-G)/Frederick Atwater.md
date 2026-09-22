@@ -23,7 +23,7 @@ born: 1947-01-01
 location: "Glendale, California"
 ---
 
-Frederick Holmes "Skip" Atwater (born 1947, Glendale, California) was the [[U.S. Army]] intelligence officer at [[Fort Meade]], Maryland, who proposed the formation of a military remote viewing unit in 1977, recruited its initial personnel, and served as its operations officer through the program's most active period until his retirement from the Army in 1987. His proposal directly initiated what became the [[STARGATE PROJECT]] series of programs - Gondola Wish, Grill Flame, Center Lane, [[Sun Streak]] - that constituted the military's remote viewing research and intelligence effort for nearly two decades.
+Frederick Holmes "Skip" Atwater (born 1947, Glendale, California) was the [[U.S. Army]] intelligence officer at [[Fort Meade]], Maryland, who proposed the formation of a military remote viewing unit in 1977, recruited its initial personnel, and served as its operations officer through the program's most active period until his retirement from the Army in 1987. His proposal directly initiated what became the [[Stargate Project]] series of programs - Gondola Wish, Grill Flame, Center Lane, [[Sun Streak]] - that constituted the military's remote viewing research and intelligence effort for nearly two decades.
 
 ### Army Career and STARGATE Initiation
 

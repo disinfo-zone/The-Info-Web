@@ -16,7 +16,7 @@ summary: "Dark Alliance was a three-part investigative series published by the S
 start: 1996-08-18
 location: "San Jose, California"
 ---
-"Dark Alliance" was a three-part investigative series published by the [[San Jose Mercury News]] on August 18, 1996, written by [[Gary Webb]]. The series documented how a Bay Area drug ring sold tons of [[cocaine]] to the Crips and Bloods street gangs of [[Los Angeles]] and funneled millions in drug profits to the [[Contras|Contra]] army run by the [[Central Intelligence Agency]].[^1]
+"Dark Alliance" was a three-part investigative series published by the [[San Jose Mercury News]] on August 18, 1996, written by [[Gary Webb]]. The series documented how a Bay Area drug ring sold tons of [[Cocaine]] to the Crips and Bloods street gangs of [[Los Angeles]] and funneled millions in drug profits to the [[Contras|Contra]] army run by the [[Central Intelligence Agency]].[^1]
 
 ### The Allegations
 

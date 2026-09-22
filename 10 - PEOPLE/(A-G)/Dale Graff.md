@@ -13,7 +13,7 @@ updated: 2026-09-22
 ---
 
 
-[[Dale Graff]] is a [[U.S. Air Force]] civilian scientist who played a significant role in the [[STARGATE PROJECT|Stargate Project]]. He worked in the Foreign Technology Division at [[Wright-Patterson Air Force Base]] in Ohio, where he was responsible for keeping the Air Force and [[Department of Defense|DoD]] planners aware of cutting-edge military research in the [[Soviet Union]] and [[China]].[^1]
+[[Dale Graff]] is a [[U.S. Air Force]] civilian scientist who played a significant role in the [[Stargate Project|Stargate Project]]. He worked in the Foreign Technology Division at [[Wright-Patterson Air Force Base]] in Ohio, where he was responsible for keeping the Air Force and [[Department of Defense|DoD]] planners aware of cutting-edge military research in the [[Soviet Union]] and [[China]].[^1]
 
 Graff's interest in [[Psi|psi]] phenomena stemmed from a personal experience in 1968, where he had a profound [[Out-of-Body Experience|out-of-body experience]] while caught in a rip current. This led him to research anomalous mental phenomena, and he later sought to integrate psychic abilities into military applications.[^1]
 

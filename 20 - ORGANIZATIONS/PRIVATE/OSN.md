@@ -11,7 +11,7 @@ The OSN (Oficina Seguridad Nacional) was [[Anastasio Somoza]]'s secret police un
 
 ### Legacy
 
-The OSN's intelligence officers, trained at U.S. military schools including [[Fort Gulick]], [[Fort Benning]], and [[Fort Leavenworth]], brought their surveillance and counterinsurgency skills to the Contra war. The culture of political repression and intelligence operations that defined the OSN carried over into the FDN's operations, where former National Guard officers applied the same techniques against the Sandinista government. The [[Norwin Meneses|Meneses]] family's connections to the Somoza intelligence apparatus, including the OSN, facilitated their later role in [[cocaine]] trafficking and Contra fundraising.[^2]
+The OSN's intelligence officers, trained at U.S. military schools including [[Fort Gulick]], [[Fort Benning]], and [[Fort Leavenworth]], brought their surveillance and counterinsurgency skills to the Contra war. The culture of political repression and intelligence operations that defined the OSN carried over into the FDN's operations, where former National Guard officers applied the same techniques against the Sandinista government. The [[Norwin Meneses|Meneses]] family's connections to the Somoza intelligence apparatus, including the OSN, facilitated their later role in [[Cocaine]] trafficking and Contra fundraising.[^2]
 
 ### Footnotes
 

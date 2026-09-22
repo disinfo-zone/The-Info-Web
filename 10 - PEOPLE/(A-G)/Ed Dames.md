@@ -20,7 +20,7 @@ born: 1946-03-22
 location: "San Francisco, California"
 ---
 
-Ed Dames was a [[U.S. Army]] Major who served as training and operations officer in the classified remote viewing unit at [[Fort Meade]], Maryland, during the [[STARGATE PROJECT|Center Lane]] and [[Sun Streak]] phases of the program in the 1980s and early 1990s. Within the unit he occupied a managerial and analytical role rather than being a primary operational viewer himself, working with [[Edwin May]] and the DIA sponsorship structure. His post-military public profile, built on commercial remote viewing training and alarming predictions about planetary catastrophe, made him simultaneously the most publicly visible and most criticized figure to emerge from the Fort Meade program.[^1]
+Ed Dames was a [[U.S. Army]] Major who served as training and operations officer in the classified remote viewing unit at [[Fort Meade]], Maryland, during the [[Stargate Project|Center Lane]] and [[Sun Streak]] phases of the program in the 1980s and early 1990s. Within the unit he occupied a managerial and analytical role rather than being a primary operational viewer himself, working with [[Edwin May]] and the DIA sponsorship structure. His post-military public profile, built on commercial remote viewing training and alarming predictions about planetary catastrophe, made him simultaneously the most publicly visible and most criticized figure to emerge from the Fort Meade program.[^1]
 
 ### Fort Meade Service
 

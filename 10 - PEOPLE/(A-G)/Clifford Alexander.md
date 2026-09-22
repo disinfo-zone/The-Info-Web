@@ -11,7 +11,7 @@ died: 2022-07-03
 location: "Harlem, New York City"
 ---
 
-[[Clifford Alexander]] was the U.S. Secretary of the [[U.S. Army|Army]] during the early years of the [[STARGATE PROJECT|Stargate Project]]. He tacitly supported the program, along with [[United States Army Intelligence and Security Command|INSCOM]] commander [[William Rolya]] and Army Chief of Staff [[Edward Meyer]]. His support, though not always overt, contributed to the project's ability to continue operating despite its controversial nature and minimal budget.[^1]
+[[Clifford Alexander]] was the U.S. Secretary of the [[U.S. Army|Army]] during the early years of the [[Stargate Project|Stargate Project]]. He tacitly supported the program, along with [[United States Army Intelligence and Security Command|INSCOM]] commander [[William Rolya]] and Army Chief of Staff [[Edward Meyer]]. His support, though not always overt, contributed to the project's ability to continue operating despite its controversial nature and minimal budget.[^1]
 
 ---
 

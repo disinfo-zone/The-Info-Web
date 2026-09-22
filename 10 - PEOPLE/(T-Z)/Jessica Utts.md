@@ -18,7 +18,7 @@ born: 1952-01-01
 location: "Davis, California"
 ---
 
-Jessica Utts is a statistician and professor at the [[University of California]], Davis, who served as one of two independent assessors in the 1995 [[American Institutes for Research]] (AIR) evaluation of the [[STARGATE PROJECT|STAR GATE]] remote viewing program commissioned by the [[Central Intelligence Agency]]. Her positive assessment, published alongside [[Ray Hyman]]'s skeptical counterpart assessment, concluded that the program's laboratory data showed genuine anomalous effects that could not be attributed to chance.[^1]
+Jessica Utts is a statistician and professor at the [[University of California]], Davis, who served as one of two independent assessors in the 1995 [[American Institutes for Research]] (AIR) evaluation of the [[Stargate Project|STAR GATE]] remote viewing program commissioned by the [[Central Intelligence Agency]]. Her positive assessment, published alongside [[Ray Hyman]]'s skeptical counterpart assessment, concluded that the program's laboratory data showed genuine anomalous effects that could not be attributed to chance.[^1]
 
 ### Academic Career
 

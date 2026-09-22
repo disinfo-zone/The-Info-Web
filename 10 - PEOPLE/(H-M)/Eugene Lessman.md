@@ -30,9 +30,9 @@ Following his tours in Vietnam, Gene was posted in Berlin where he ran counter i
 
 ### Intelligence Programs and Remote Viewing
 
-Gene became deeply involved in the military's psychic espionage programs. He allegedly recruited [[Luis Elizondo]] to the [[Great Skill Program]] to practice [[Remote Viewing]]. According to Elizondo, Gene claimed that "Great Skills" was also called "Grey Fox," though this appears to reference the different [[GRAY FOX]] program within the [[United States Army Intelligence Support Activity]] (USAISA or ISA) under the [[Joint Special Operations Command]] (JSOC).[^1]
+Gene became deeply involved in the military's psychic espionage programs. He allegedly recruited Luis Elizondo to the [[Great Skill Program]] to practice [[Remote Viewing]]. According to Elizondo, Gene claimed that "Great Skills" was also called "Grey Fox," though this appears to reference the different [[GRAY FOX]] program within the [[United States Army Intelligence Support Activity]] (USAISA or ISA) under the [[Joint Special Operations Command]] (JSOC).[^1]
 
-Elizondo further claims that Gene was tasked with recruiting soldiers into the [[STARGATE PROJECT]], the program that was a predecessor to Great Skills and focused on training individuals as "psychic spies."[^1]
+Elizondo further claims that Gene was tasked with recruiting soldiers into the [[Stargate Project]], the program that was a predecessor to Great Skills and focused on training individuals as "psychic spies."[^1]
 
 ### Work with Angela Dellafiora
 
@@ -42,9 +42,9 @@ In one notable session, Lessman tasked Dellafiora with remotely viewing the [[St
 
 ### Recruitment and Training of Luis Elizondo
 
-Lessman recruited Elizondo into the Great Skills program after identifying him as a promising young soldier with special talents. He personally trained Elizondo in [[Remote Viewing]], teaching him how to enter a trance-like state and acquire information about a distant or unseen target using extrasensory perception.[^1]
+Lessman recruited Elizondo into the Great Skills program after identifying him as a promising young soldier with special talents. He personally trained Elizondo in Remote Viewing, teaching him how to enter a trance-like state and acquire information about a distant or unseen target using extrasensory perception.[^1]
 
-Lessman believed that Elizondo had a natural gift for [[Remote Viewing]] and encouraged him to develop his abilities. The skills that Elizondo learned from Lessman would prove to be valuable throughout his career as an intelligence officer.[^1]
+Lessman believed that Elizondo had a natural gift for Remote Viewing and encouraged him to develop his abilities. The skills that Elizondo learned from Lessman would prove to be valuable throughout his career as an intelligence officer.[^1]
 
 ### Blog
 

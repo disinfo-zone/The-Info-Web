@@ -18,4 +18,4 @@ During this period, SAIC operated through a unique structure of semi-autonomous 
 
 The company initially focused on nuclear power and weapons effects study programs but expanded into: radiation therapy, development of the cruise missle (1970’s), cleanup of Three Mile Island, and even luggage inspection machines for the FAA.
 
-[[Edwin May]] moved the [[STARGATE PROJECT]] in 1991 following [[Stanford Research Institute]] stepping away. SAIC operated the project until 1994 at which point is was declassified in 1995.
+[[Edwin May]] moved the [[Stargate Project]] in 1991 following [[Stanford Research Institute]] stepping away. SAIC operated the project until 1994 at which point is was declassified in 1995.

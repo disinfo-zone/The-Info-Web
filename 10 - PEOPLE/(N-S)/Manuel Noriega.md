@@ -20,7 +20,7 @@ born: 1934-02-11
 died: 2017-05-29
 location: "Panama City, Panama"
 ---
-Manuel Noriega was the military dictator of [[Panama]] who performed valuable work for the [[U.S. government]] in [[Central America]] during the 1980s while simultaneously facilitating Colombian [[cocaine]] trafficking.[^1]
+Manuel Noriega was the military dictator of [[Panama]] who performed valuable work for the [[U.S. government]] in [[Central America]] during the 1980s while simultaneously facilitating Colombian [[Cocaine]] trafficking.[^1]
 
 ### CIA Asset
 

@@ -16,7 +16,7 @@ created: 2026-09-21
 updated: 2026-09-21
 ---
 
-Malcolm Wallop, senator from [[Wyoming]], chaired the budget subcommittee of the [[Senate Select Committee on Intelligence]] in the early 1980s. An INSCOM memorandum of October 1983 called him "an important player in DoD's involvement in psychoenergetics. He is the individual who was responsible for the project being eliminated under the NFIP (GDIP) at the end of FY 82," the cut of October 1, 1982, that ended the Army's part of [[STARGATE PROJECT|Grill Flame]] and drove [[United States Army Intelligence and Security Command|INSCOM]] to continue it as [[Center Lane]] on security funds.[^1]
+Malcolm Wallop, senator from [[Wyoming]], chaired the budget subcommittee of the [[Senate Select Committee on Intelligence]] in the early 1980s. An INSCOM memorandum of October 1983 called him "an important player in DoD's involvement in psychoenergetics. He is the individual who was responsible for the project being eliminated under the NFIP (GDIP) at the end of FY 82," the cut of October 1, 1982, that ended the Army's part of [[Stargate Project|Grill Flame]] and drove [[United States Army Intelligence and Security Command|INSCOM]] to continue it as [[Center Lane]] on security funds.[^1]
 
 ### The Briefing of October 5, 1983
 

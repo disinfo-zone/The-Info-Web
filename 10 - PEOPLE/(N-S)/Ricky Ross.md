@@ -6,7 +6,7 @@ aliases:
   - Freeway Ricky Ross
   - Ricky Donnell Ross
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Key Figures"
 tags:
   - Person
@@ -20,7 +20,7 @@ summary: "Freeway Ricky Donnell Ross led South Central Los Angeles's largest cra
 born: 1960-01-26
 location: "Tyler, Texas"
 ---
-"Freeway" Ricky Donnell Ross was the leader of [[South Central Los Angeles|South Central L.A.]]'s first major [[Crack Cocaine|crack]] distribution network.[^2] In the space of four years, Ross went from selling fractions of an ounce of [[cocaine]] to shipping multimillion-dollar shipments across [[United States|America]].[^2] His primary supplier was [[Danilo Blandon|Danilo Blandón]], a [[Nicaragua|Nicaraguan]] trafficker who had sold cocaine to fund the [[Contras]] during the early 1980s.[^1]
+"Freeway" Ricky Donnell Ross was the leader of [[South Central Los Angeles|South Central L.A.]]'s first major [[Crack Cocaine|crack]] distribution network.[^2] In the space of four years, Ross went from selling fractions of an ounce of [[Cocaine]] to shipping multimillion-dollar shipments across [[United States|America]].[^2] His primary supplier was [[Danilo Blandon|Danilo Blandón]], a [[Nicaragua|Nicaraguan]] trafficker who had sold cocaine to fund the [[Contras]] during the early 1980s.[^1]
 
 ### Early Life
 
@@ -28,7 +28,7 @@ Ross grew up in South Central L.A., where his family had lived since the early 1
 
 ### Tennis and Education
 
-Ross was too small for football or basketball but had quick reflexes. Two family friends, Dr. Mal Bouquet and Richard Williams, encouraged him to take up tennis when he was about eleven or twelve. "They picked me up, took me to tennis tournaments. They took care of my racquets and tennis shoes, stuff like that," Ross said. The tournaments and practices kept him out of the 74 Hoover Crips, his neighborhood gang. He was friends with many of them but was never a gang member himself. A 1993 letter from the Federal Correctional Institution in Phoenix stated: "There exists no information to substantiate your membership in the Los Angeles based 'Crips' street gang. All information in your file has been deleted which reflected gang participation or membership." L.A. Times reporter Jesse Katz, who spent months interviewing Ross in 1994, observed: "He does not have the culture of a gang member when you talk to him. He doesn't have the attitude... I mean, he was a capitalist."[^3]
+Ross was too small for football or basketball but had quick reflexes. Two family friends, Dr. Mal Bouquet and Richard Williams, encouraged him to take up tennis when he was about eleven or twelve. "They picked me up, took me to tennis tournaments. They took care of my racquets and tennis shoes, stuff like that," Ross said. The tournaments and practices kept him out of the 74 Hoover Crips, his neighborhood gang. He was friends with many of them but was never a gang member himself. A 1993 letter from the Federal Correctional Institution in Phoenix stated: "There exists no information to substantiate your membership in the Los Angeles based 'Crips' street gang. All information in your file has been deleted which reflected gang participation or membership." L.A. Times reporter [[Jesse Katz]], who spent months interviewing Ross in 1994, observed: "He does not have the culture of a gang member when you talk to him. He doesn't have the attitude... I mean, he was a capitalist."[^3]
 
 At Dorsey High School, Ross made All-League his first year, All-City second team as a sophomore, and All-City first team his senior year. His goal was to play tennis for a major university, and coaches were grooming about five players on his team for college scholarships. But Ross had a critical problem: by his senior year, he still couldn't read or write. "My teachers just passed me, gave me C's and let me go through," Ross said. It only mattered when he started practicing with the Long Beach State University tennis team after beating one of their players in a tournament. Once the coach discovered his academic situation, the university's interest ended. Disillusioned, Ross dropped out of Dorsey, a few credits short of graduation. "I didn't graduate. I made it to the 12th grade and I was a few credits from being able to graduate." On July 7, 1978, he was arrested by the LAPD for burglary and disorderly conduct, though the charges were dismissed.[^3]
 
@@ -82,13 +82,13 @@ Beginning in 1984, Blandón supplied Ross and his associates with high-powered w
 
 ### National Expansion
 
-As the South Central crack market became saturated, Ross's gang customers started traveling to other California cities and then nationwide, setting up new crack markets using their connections with Ross to supply them. This migration marked the start of an unprecedented cross-country expansion by the Crips and later the Bloods. The Los Angeles Times described Ross's operation as "a coast-to-coast conglomerate that sold more than 500,000 nuggets of the drug every day." One L.A. narcotics detective described it as "a cartel."[^5]
+As the South Central crack market became saturated, Ross's gang customers started traveling to other California cities and then nationwide, setting up new crack markets using their connections with Ross to supply them. This migration marked the start of an unprecedented cross-country expansion by the Crips and later the Bloods. The [[Los Angeles Times]] described Ross's operation as "a coast-to-coast conglomerate that sold more than 500,000 nuggets of the drug every day." One L.A. narcotics detective described it as "a cartel."[^5]
 
 Ross was selling to nearly every big crack dealer in Los Angeles without resorting to attention-getting violence. "The dollar was a powerful persuader," Ross discovered. "There was no limit to the average cocaine dealer's greed. You could buy your way into anything, or out of any disagreement." His distribution system used nondescript decoy cars and load cars, walkie-talkies, stash houses, cash houses, and safe houses - a system that took him two years to perfect.[^5]
 
 ### Identified by Law Enforcement
 
-In August 1986, the flipped Torres brothers told detective [[Jerry Guzzetta]] during debriefings that two Black dealers controlled the entire South Central [[Los Angeles]] cocaine market. Guzzetta's "Project Sahara" report identified them as "Rick and Ollie" - Ross and Ollie Newell - generating "a conservative figure of approximately $10 million dollars a month." The brothers reported the two dealers had established a direct pipeline to the Colombian cartels. This intelligence was passed to the [[LASD Major Violators]] squad and Detective [[Thomas Gordon]], who realized the L.A. crack market was far more disciplined and well organized than anyone had dreamed. Ross confirmed that Blandón had an uncanny ability to accurately predict upcoming police raids but said he was never able to explain Blandón's clairvoyance.[^6]
+In August 1986, the flipped Torres brothers told detective [[Jerry Guzzetta]] during debriefings that two Black dealers controlled the entire South Central [[Los Angeles]] cocaine market. Guzzetta's "[[Project Sahara]]" report identified them as "Rick and Ollie" - Ross and Ollie Newell - generating "a conservative figure of approximately $10 million dollars a month." The brothers reported the two dealers had established a direct pipeline to the Colombian cartels. This intelligence was passed to the [[LASD Major Violators]] squad and Detective [[Thomas Gordon]], who realized the L.A. crack market was far more disciplined and well organized than anyone had dreamed. Ross confirmed that Blandón had an uncanny ability to accurately predict upcoming police raids but said he was never able to explain Blandón's clairvoyance.[^6]
 
 Jerry Guzzetta drove through South Central with the Torres brothers, who showed him Ross's operations: a vacant apartment complex used as a cocaine lab, a multistory distribution center near the Harbor Freeway, and the Freeway Motor Inn - which the brothers said Rick had built to his specifications for a million dollars, with his mother Annie working the front desk. Guzzetta realized they had led him to "the legendary Freeway Rick." Ross surmised the Torres brothers gave him up because he had reverted to buying exclusively from Blandón: "Danilo's price was so low, that the Torres brothers simply could not continue to compete." Majors I had been looking for Ross since April 1986, raiding his girlfriend's apartment on May 15 and rousted his cousins in late August - telling them to warn Rick to watch himself.[^7]
 
@@ -106,7 +106,7 @@ The task force raided the Freeway Motor Inn and Ross's mother's house on January
 
 In mid-April 1987, Ross spotted unmarked cars following him and fled on foot. Shots were fired behind him. Ollie Newell and Cornell Ward were handcuffed and beaten with metal flashlights and leather saps. Then detective Steve Polak drove up, opened his trunk, and "retrieved a kilo of cocaine in a black gym bag," displaying it to the others and claiming Ross had dropped it while running. Ross was charged with conspiracy, transporting controlled substances, and assault with a deadly weapon on a police officer, and was declared a fugitive.[^8]
 
-Ross turned himself in on May 5, 1987, locked up on $1 million bond. The LAPD issued a press release announcing the demise of his "multi-million dollar mid-level rock cocaine organization." But task force members visited Ross in jail and, on a tape recording, discussed their frame-up of him and tried to turn him against his Colombian source. "The discussion was tape recorded," Justice Department records state. A forensic expert found eleven erasures on the tape, attempts to obliterate discussions of a beating administered to Ross's brother David. After hearing the tape, the judge threw all charges out of court. Ross was freed.[^8]
+Ross turned himself in on May 5, 1987, locked up on $1 million bond. The LAPD issued a press release announcing the demise of his "multi-million dollar mid-level rock cocaine organization." But task force members visited Ross in jail and, on a tape recording, discussed their frame-up of him and tried to turn him against his Colombian source. "The discussion was tape recorded," [[Department of Justice|Justice Department]] records state. A forensic expert found eleven erasures on the tape, attempts to obliterate discussions of a beating administered to Ross's brother David. After hearing the tape, the judge threw all charges out of court. Ross was freed.[^8]
 
 ### Scaling Back
 
@@ -122,13 +122,13 @@ Blandón called from Miami, dropping hints about cheap cocaine. Ross had checked
 
 Ross expanded methodically, first into Lincoln Heights, then Over-the-Rhine, Avondale, Mt. Airy, Bond Hill, St. Bernard, Lockland, and Walnut Hills, using the same marketing techniques from L.A.: free cocaine, smoke parties, volume discounts. "I knew the recipe. It's just like it was in L.A. If you want to get in with the blacks, you find out who the shot-caller is. And you talk to him and you get him on your side." Once operations were running, Ross called L.A. and invited friends to staff them. "The recruits were given apartments, beepers, cocaine, and instructions on how to conduct street sales," the Justice Department Inspector General reported. "Most of these people were members of gangs, most notably the Crips." Suddenly Cincinnati had two problems it had never had before: Crips and crack.[^9]
 
-Ross did not limit himself to Cincinnati. His dope turned up in Toledo, Cleveland, Columbus, Indianapolis, St. Louis, Atlanta, Texas, and as far away as Seattle, where police viewed his ring as "the single most important group distributing crack cocaine in the Seattle-Tacoma area." In ten months, Ross said, he sold 300 or 400 kilos of Blandón's cocaine in the Midwest, netting around $2 million. He flew to Miami once a month to drop off cash, and met with Blandón and a Colombian named Tony in New York City to place orders. At other times, his L.A. friends stuck dope on a Greyhound bus.[^9]
+Ross did not limit himself to Cincinnati. His dope turned up in Toledo, Cleveland, Columbus, Indianapolis, St. Louis, Atlanta, Texas, and as far away as Seattle, where police viewed his ring as "the single most important group distributing crack cocaine in the Seattle-Tacoma area." In ten months, Ross said, he sold 300 or 400 kilos of Blandón's cocaine in the Midwest, netting around $2 million. He flew to Miami once a month to drop off cash, and met with Blandón and a Colombian named Tony in [[New York City]] to place orders. At other times, his L.A. friends stuck dope on a Greyhound bus.[^9]
 
 ### The Greyhound Bust
 
 In September 1988, a drug-sniffing dog in [[New Mexico]] alerted on an eastbound Greyhound luggage compartment. Inside was a suitcase carrying nine kilos of cocaine worth $100,000, tagged for Cincinnati. The DEA let it through and staked out the bus station. A young L.A. Crip named Alphonso Jeffries claimed the suitcase and sprang the trap. Ross promised to pay all legal bills if Jeffries kept quiet. Jeffries did, and received a twenty-year federal sentence with no parole.[^9]
 
-The bust led the FBI and DEA to investigate whether the Crips were flooding Cincinnati with inexpensive cocaine. Ross knew it was only a matter of time. He sold what he had and returned to L.A. in the fall of 1988, going into the home improvement business, spraying acoustic ceilings and painting.[^9]
+The bust led the [[Federal Bureau of Investigation|FBI]] and DEA to investigate whether the Crips were flooding Cincinnati with inexpensive cocaine. Ross knew it was only a matter of time. He sold what he had and returned to L.A. in the fall of 1988, going into the home improvement business, spraying acoustic ceilings and painting.[^9]
 
 ### Federal Indictments and Arrest
 
@@ -152,7 +152,7 @@ Ross's brother David called it entrapment: "They set him up and he evidently fel
 
 ### Conviction
 
-Two weeks after his arrest, a federal grand jury indicted Ross, "Chico" Brown, Curtis James, and Michael McLaurin on conspiracy charges. Ross was convicted of cocaine trafficking in 1996 and sentenced to life without the possibility of parole. Brown pleaded guilty and received an eleven-year sentence. Ollie Newell had been convicted of drug charges in [[Indiana]] in the late 1980s and released from prison in 1997.[^2]
+Two weeks after his arrest, a federal grand jury indicted Ross, "Chico" Brown, Curtis James, and Michael McLaurin on conspiracy charges. On March 19, 1996, a jury convicted Ross and Curtis James and acquitted McLaurin. On November 19, 1996, Judge [[Marilyn Huff]] sentenced Ross to life imprisonment, the mandatory term under 21 U.S.C. § 841(b) for a defendant with two prior felony drug convictions; for a first offense with a guilty plea, the guidelines would have called for about 135 to 168 months. James received 135 months. Brown, who pleaded guilty on the day of trial, received 92 months.[^14] Ollie Newell had been convicted of drug charges in [[Indiana]] in the late 1980s and released from prison in 1997.[^2]
 
 ### Investigation Meetings with Webb
 
@@ -160,11 +160,11 @@ In late September 1995, Webb visited Ross at the [[Metropolitan Correctional Cen
 
 ### The Trial
 
-Ross's federal trial began in March 1996 in San Diego before Judge [[Marilyn Huff]]. Prosecutor [[LJ Oneale]] filed a motion to prevent any mention of the CIA at trial, writing: "This matter, if true, would be classified." Defense attorney Alan Fenster fought to obtain government records about Blandón's Contra connections but was repeatedly denied. Blandón testified for the prosecution, admitting that [[Norwin Meneses|Meneses]] had recruited him to sell cocaine for the Contras but claiming variously that he stopped in 1983, 1984, or 1982. Government documents showed Blandón was still selling cocaine for the Contras through 1986.[^12]
+Ross's federal trial began in March 1996 in San Diego before Judge Marilyn Huff. Prosecutor [[LJ Oneale]] filed a motion to prevent any mention of the [[Central Intelligence Agency|CIA]] at trial, writing: "This matter, if true, would be classified." Defense attorney Alan Fenster fought to obtain government records about Blandón's Contra connections but was repeatedly denied. Blandón testified for the prosecution, admitting that [[Norwin Meneses|Meneses]] had recruited him to sell cocaine for the Contras but claiming variously that he stopped in 1983, 1984, or 1982. Government documents showed Blandón was still selling cocaine for the Contras through 1986.[^12]
 
-Ross was convicted of cocaine trafficking in the spring of 1996. Juror Norman Brown said: "None of us liked Blandón. A few of the jurors were very upset that he is used by law enforcement." Another juror said: "Blandón made us all so angry that we would use that kind of sleazeball. We wanted to acquit Ricky Ross just to give the message to the government that we disagreed with the use of Blandón." Ross was sentenced to life without parole, later reduced by a federal appeals court to twenty years to life. At sentencing, Fenster asked for a postponement, citing the Dark Alliance series, and Judge Marilyn Huff told prosecutor LJ Oneale she wanted answers from the CIA before passing sentence.[^13]
+Ross was convicted of cocaine trafficking in the spring of 1996. Juror Norman Brown said: "None of us liked Blandón. A few of the jurors were very upset that he is used by law enforcement." Another juror said: "Blandón made us all so angry that we would use that kind of sleazeball. We wanted to acquit Ricky Ross just to give the message to the government that we disagreed with the use of Blandón." Ross was sentenced to life without parole, later reduced by a federal appeals court to twenty years to life. At sentencing, Fenster asked for a postponement, citing the [[Dark Alliance|Dark Alliance series]], and Judge Marilyn Huff told prosecutor LJ Oneale she wanted answers from the CIA before passing sentence.[^13]
 
-"Chico" Brown pleaded guilty and received an eleven-year sentence. Ollie Newell had been convicted of drug charges in Indiana in the late 1980s and released from prison in 1997.[^2]
+Ollie Newell had been convicted of drug charges in Indiana in the late 1980s and released from prison in 1997.[^2]
 
 ### Footnotes
 
@@ -180,3 +180,4 @@ Ross was convicted of cocaine trafficking in the spring of 1996. Juror Norman Br
 [^11]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 25: "Things are moving all around us"
 [^12]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 26: "That matter, if true, would be classified"
 [^13]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 27: "A very difficult decision"
+[^14]: U.S. Department of Justice, Office of the Inspector General. *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions.* December 1997, chapter VI. https://oig.justice.gov/sites/default/files/legacy/special/9712/

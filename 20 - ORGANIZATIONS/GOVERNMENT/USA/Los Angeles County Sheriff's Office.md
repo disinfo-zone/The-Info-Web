@@ -8,7 +8,7 @@ summary: The Los Angeles County Sheriff's Department played a key role in invest
 start: 1850
 location: "Los Angeles, California"
 ---
-The Los Angeles County Sheriff's Department (LASD) played a key role in investigating the Contra-connected [[cocaine]] network, arresting [[Danilo Blandon|Danilo Blandón]] before being ordered to release him and return seized evidence. The department's [[LASD Major Violators]] unit, known as "the Majors," partnered with federal agents on the investigation that nearly exposed the Contra drug connection.[^1]
+The Los Angeles County Sheriff's Department (LASD) played a key role in investigating the Contra-connected [[Cocaine]] network, arresting [[Danilo Blandon|Danilo Blandón]] before being ordered to release him and return seized evidence. The department's [[LASD Major Violators]] unit, known as "the Majors," partnered with federal agents on the investigation that nearly exposed the Contra drug connection.[^1]
 
 ### The Blandón Investigation
 

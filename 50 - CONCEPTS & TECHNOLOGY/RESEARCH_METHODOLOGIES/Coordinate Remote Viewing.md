@@ -17,7 +17,7 @@ location: Stanford Research Institute, Menlo Park, California
 
 Initially, Puthoff and Targ were skeptical of the idea, arguing that coordinate systems were arbitrary human creations and that a psychic's success might be attributed to eidetic memory or cryptomnesia. However, Swann persisted, and after informal tests showed promising results, the protocol was tightened, with coordinates being selected by a third party unknown to the researchers and the psychic. The accuracy of CRV was famously demonstrated in the Sugar Grove incident, where Swann and [[Pat Price]] accurately described a secret [[NSA]] facility despite being given coordinates for a different location.[^1]
 
-CRV became a fundamental technique within the [[STARGATE PROJECT|Stargate Project]] (also known as [[STARGATE PROJECT|Grill Flame]]), allowing for the operational application of remote viewing for intelligence gathering. It was distinguished from other methodologies like Outbound Remote Viewing and Extended Remote Viewing.[^1]
+CRV became a fundamental technique within the [[Stargate Project|Stargate Project]] (also known as Grill Flame), allowing for the operational application of remote viewing for intelligence gathering. It was distinguished from other methodologies like Outbound Remote Viewing and Extended Remote Viewing.[^1]
 
 ---
 

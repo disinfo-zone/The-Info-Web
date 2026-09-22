@@ -11,7 +11,7 @@ Peru was the [[South America]]n country where smoking coca paste originated in t
 
 ### Origins of Cocaine Smoking
 
-In Peru and Bolivia, users began smoking coca paste (the intermediate product in cocaine refining) in the mid-1970s. Peruvian police psychiatrist Raul Jeri documented a cocaine "epidemic" that swept through [[Lima]]'s fashionable neighborhoods in 1974 and spread to other major Peruvian cities and then to [[Ecuador]] and Bolivia. The Peruvian experience demonstrated the addictive potential of smokable cocaine forms years before crack appeared in American cities. The [[cocaine]] flowing through Contra-connected networks originated in this Andean production zone before being refined and shipped north.[^2]
+In Peru and Bolivia, users began smoking coca paste (the intermediate product in cocaine refining) in the mid-1970s. Peruvian police psychiatrist Raul Jeri documented a cocaine "epidemic" that swept through [[Lima]]'s fashionable neighborhoods in 1974 and spread to other major Peruvian cities and then to [[Ecuador]] and Bolivia. The Peruvian experience demonstrated the addictive potential of smokable cocaine forms years before crack appeared in American cities. The [[Cocaine]] flowing through Contra-connected networks originated in this Andean production zone before being refined and shipped north.[^2]
 
 ### Footnotes
 

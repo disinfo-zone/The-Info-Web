@@ -18,7 +18,7 @@ The National Security Council, based in the [[White House]], became an operation
 
 ### Congressional Investigations
 
-[[John Kerry]]'s Senate Subcommittee on Terrorism, Narcotics, and International Operations held hearings in 1987 and 1988 into links between the [[Contras]] and [[cocaine]] trafficking. Chief investigator [[Jack Blum]] detailed that narcotics were coming into the United States "not by the pound, not by the bag, but by the ton, by the cargo planeload." The [[State Department]] assured Congress that DEA had found no information indicating Contra members were involved in narcotics trafficking. CIA Inspector General [[Fred Hitz]] testified before Congress in March 1998 that the CIA had failed to cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking.[^4]
+[[John Kerry]]'s Senate Subcommittee on Terrorism, Narcotics, and International Operations held hearings in 1987 and 1988 into links between the [[Contras]] and [[Cocaine]] trafficking. Chief investigator [[Jack Blum]] detailed that narcotics were coming into the United States "not by the pound, not by the bag, but by the ton, by the cargo planeload." The [[State Department]] assured Congress that DEA had found no information indicating Contra members were involved in narcotics trafficking. CIA Inspector General [[Fred Hitz]] testified before Congress in March 1998 that the CIA had failed to cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking.[^4]
 
 ### Footnotes
 

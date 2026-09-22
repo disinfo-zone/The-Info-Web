@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Medellín, Colombia was the headquarters of the Medellín Cartel, which supplied cocaine to the Contra-connected trafficking networks run by Blandón and Meneses.
 ---
-Medellín, [[Colombia]] was the headquarters of the [[Medellin Cartel|Medellín Cartel]], which supplied [[cocaine]] to the Contra-connected trafficking networks run by [[Danilo Blandon|Danilo Blandón]] and [[Norwin Meneses|Meneses]]. The city gave its name to the most powerful drug trafficking organization of the 1980s.[^1]
+Medellín, [[Colombia]] was the headquarters of the [[Medellin Cartel|Medellín Cartel]], which supplied [[Cocaine]] to the Contra-connected trafficking networks run by [[Danilo Blandon|Danilo Blandón]] and [[Norwin Meneses|Meneses]]. The city gave its name to the most powerful drug trafficking organization of the 1980s.[^1]
 
 ### The Medellín Cartel
 

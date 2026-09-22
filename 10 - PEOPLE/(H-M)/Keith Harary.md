@@ -8,6 +8,11 @@ tags:
   - DelphiAssociates
 summary: "Partner of Russell Targ in Delphi Associates, the remote-viewing silver-futures venture, who later disputed Targ's account of its trials."
 location: "San Francisco, California"
+relations:
+  - type: partner_of
+    with: "[[Russell Targ]]"
+    role: "Delphi Associates"
+    fn: 1
 created: 2026-09-22
 updated: 2026-09-22
 ---

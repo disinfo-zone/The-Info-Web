@@ -25,7 +25,7 @@ born: 1936-06-20
 location: "Chicago, Illinois"
 ---
 
-Harold E. "Hal" Puthoff (born June 20, 1936) is a physicist and engineer who co-founded the [[Stanford Research Institute]] remote viewing research program with [[Russell Targ]] in 1972 under [[Central Intelligence Agency|CIA]] contract and served as its principal investigator through 1985. The program, which operated under the code names SCANATE, Gondola Wish, and [[STARGATE PROJECT|Grill Flame]] before consolidating as STAR GATE under [[Defense Intelligence Agency|DIA]] oversight, represented the primary U.S. government institutional effort to investigate anomalous cognition for intelligence applications over two decades. Puthoff subsequently contributed technical research to the [[Advanced Aerospace Threat Identification Program|AATIP]] Pentagon program and became a founding member of To the Stars Academy of Arts and Science.
+Harold E. "Hal" Puthoff (born June 20, 1936) is a physicist and engineer who co-founded the [[Stanford Research Institute]] remote viewing research program with [[Russell Targ]] in 1972 under [[Central Intelligence Agency|CIA]] contract and served as its principal investigator through 1985. The program, which operated under the code names SCANATE, Gondola Wish, and [[Stargate Project|Grill Flame]] before consolidating as STAR GATE under [[Defense Intelligence Agency|DIA]] oversight, represented the primary U.S. government institutional effort to investigate anomalous cognition for intelligence applications over two decades. Puthoff subsequently contributed technical research to the [[Advanced Aerospace Threat Identification Program|AATIP]] Pentagon program and became a founding member of To the Stars Academy of Arts and Science.
 
 ### Early Career
 

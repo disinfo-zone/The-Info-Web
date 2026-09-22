@@ -17,6 +17,6 @@ This project is not exhaustive and does not pretend to be, it is a work in progr
 ### People, Orgs, Events, and Texts to Begin With
 
 ##### Orgs
-- [[STARGATE PROJECT]]
+- [[Stargate Project]]
 ##### People
 - [[Luis Elizondo]]

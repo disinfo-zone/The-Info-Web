@@ -23,7 +23,7 @@ In April 1984, a gunman inside the Libyan People's Bureau (embassy) in London fi
 
 ### PROMIS Connection
 
-[[Angela Dellafiora]], the [[Defense Intelligence Agency|DIA]] analyst working in the [[STARGATE PROJECT]] remote viewing program, reportedly described a Libyan chemical weapons facility in a remote viewing session. More directly, Libya was among the countries to which [[PROMIS]] software was allegedly distributed in a backdoor-equipped version, according to accounts from [[Ari Ben-Menashe]] and [[Michael Riconosciuto]]. Libyan intelligence's use of PROMIS-derived case management software would have given U.S. and Israeli intelligence access to Libyan operations.[^3]
+[[Angela Dellafiora]], the [[Defense Intelligence Agency|DIA]] analyst working in the [[Stargate Project]] remote viewing program, reportedly described a Libyan chemical weapons facility in a remote viewing session. More directly, Libya was among the countries to which [[PROMIS]] software was allegedly distributed in a backdoor-equipped version, according to accounts from [[Ari Ben-Menashe]] and [[Michael Riconosciuto]]. Libyan intelligence's use of PROMIS-derived case management software would have given U.S. and Israeli intelligence access to Libyan operations.[^3]
 
 ### Lockerbie
 

@@ -21,7 +21,7 @@ In 1986, Gates noted a significant buildup in advanced technology weapons facili
 
 Gates revealed details about the [[Moscow Signal]] in his 1997 memoir, *From the Shadows*. He described how the CIA detected a new and more powerful set of Soviet microwave beams aimed at the [[U.S. Embassy in Moscow]] in 1973, code-named MUTS-2. He noted that these signals were regarded as posing a greater health hazard due to their duration and peculiar characteristics[^2].
 
-On November 28, 1995, Gates appeared on *Nightline* with [[Ted Koppel]] to discuss the [[STARGATE PROJECT|Stargate program]], where he downplayed the significance of the government's psychic research[^2].
+On November 28, 1995, Gates appeared on *Nightline* with [[Ted Koppel]] to discuss the [[Stargate Project|Stargate program]], where he downplayed the significance of the government's psychic research[^2].
 
 ### Remote Viewing
 

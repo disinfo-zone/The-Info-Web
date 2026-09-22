@@ -6,7 +6,7 @@ tags:
   - contra-war
 summary: Mexico served as a transit country for cocaine shipments and a base for CIA weapons manufacturing operations supporting the Contra war during the 1980s.
 ---
-Mexico served as a transit country for [[cocaine]] shipments and a base for [[Central Intelligence Agency]] weapons manufacturing operations supporting the Contra war during the 1980s. The country's proximity to the [[United States]] and its established drug trafficking infrastructure made it a natural corridor for moving narcotics northward and weapons southward.[^1]
+Mexico served as a transit country for [[Cocaine]] shipments and a base for [[Central Intelligence Agency]] weapons manufacturing operations supporting the Contra war during the 1980s. The country's proximity to the [[United States]] and its established drug trafficking infrastructure made it a natural corridor for moving narcotics northward and weapons southward.[^1]
 
 ### CIA Operations in Mexico
 

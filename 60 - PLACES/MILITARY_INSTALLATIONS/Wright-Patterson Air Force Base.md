@@ -13,7 +13,7 @@ summary: "Wright-Patterson Air Force Base in Ohio is a major U.S. aerospace rese
 
 [[Wright-Patterson Air Force Base]] is a [[U.S. Air Force]] base located in Ohio. It is a key center for aerospace research and development, and has been involved in various classified projects, including those related to psychic phenomena.[^1]
 
-[[Dale Graff]], a civilian scientist who played a significant role in the [[STARGATE PROJECT|Stargate Project]], worked in the Foreign Technology Division at Wright-Patterson. The base served as a hub for his efforts to integrate psychic abilities into military applications, and it was from here that he managed the program's various phases and taskings.[^1]
+[[Dale Graff]], a civilian scientist who played a significant role in the [[Stargate Project|Stargate Project]], worked in the Foreign Technology Division at Wright-Patterson. The base served as a hub for his efforts to integrate psychic abilities into military applications, and it was from here that he managed the program's various phases and taskings.[^1]
 
 The base hosts the [[NAMRU-D|Naval Medical Research Unit Dayton]], whose directorates include the Naval Aerospace Medical Research Laboratory ([[NAMRL]]).[^2]
 
