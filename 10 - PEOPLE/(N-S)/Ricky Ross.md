@@ -156,7 +156,7 @@ Two weeks after his arrest, a federal grand jury indicted Ross, "Chico" Brown, C
 
 ### Investigation Meetings with Webb
 
-In late September 1995, Webb visited Ross at the Metropolitan Correctional Center in downtown [[San Diego]], where Ross was being held without bail pending trial. Ross appeared confident at first but dropped the pretense by the end. "I can't believe he done me like this," Ross said of Blandón's betrayal. When Webb explained that Blandón had been arrested with no drugs and faced only taped conversations with informants, Ross was incredulous: "They didn't find no dope on him? Then what would he roll over for? Think about it. You ain't gonna pull a life sentence just for talking to somebody about selling dope." Ross concluded that someone was not telling Webb the whole story.[^11]
+In late September 1995, Webb visited Ross at the [[Metropolitan Correctional Center]] in downtown [[San Diego]], where Ross was being held without bail pending trial. Ross appeared confident at first but dropped the pretense by the end. "I can't believe he done me like this," Ross said of Blandón's betrayal. When Webb explained that Blandón had been arrested with no drugs and faced only taped conversations with informants, Ross was incredulous: "They didn't find no dope on him? Then what would he roll over for? Think about it. You ain't gonna pull a life sentence just for talking to somebody about selling dope." Ross concluded that someone was not telling Webb the whole story.[^11]
 
 ### The Trial
 

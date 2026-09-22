@@ -39,7 +39,7 @@ A significant driver of DIA Psychoenergetics investment was intelligence on Chin
 
 ### Transition to STARGATE
 
-The DIA Psychoenergetics program provided organizational continuity for U.S. remote viewing research from 1981 through the successive program designations Grill Flame (1978-1983), Center Lane (1983-1985), Sun Streak (1985-1991), and finally [[STARGATE PROJECT|STARGATE]] (1991-1995). When the program was declassified and transferred to CIA control in 1995, and subsequently evaluated by the [[American Institutes for Research]] in a study that resulted in the program's termination, the full history of Psychoenergetics/STARGATE became available for review.[^2]
+The DIA Psychoenergetics program provided organizational continuity for U.S. remote viewing research from 1981 through the successive program designations Grill Flame (1978-1983), [[Center Lane]] (1983-1985), [[Sun Streak]] (1985-1991), and finally [[STARGATE PROJECT|STARGATE]] (1991-1995). When the program was declassified and transferred to CIA control in 1995, and subsequently evaluated by the [[American Institutes for Research]] in a study that resulted in the program's termination, the full history of Psychoenergetics/STARGATE became available for review.[^2]
 
 ### Footnotes
 

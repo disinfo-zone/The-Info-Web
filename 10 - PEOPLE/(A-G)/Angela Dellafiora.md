@@ -36,7 +36,7 @@ After leaving government service, Dellafiora marketed herself publicly as a medi
 
 ### The Documents
 
-Angela Dellafiora, later Ford, was a civilian analyst on Latin America at [[United States Army Intelligence and Security Command|INSCOM]] who joined the DIA's remote-viewing unit at [[Fort Meade]], then called [[Sun Streak]], in early 1986, and stayed until the program closed in 1995. She worked by automatic writing in a trance, attributing the results to figures she called George, Dr. Einstein, and Maurice.[^4]
+Angela Dellafiora, later Ford, was a civilian analyst on [[Latin America]] at [[United States Army Intelligence and Security Command|INSCOM]] who joined the DIA's remote-viewing unit at [[Fort Meade]], then called [[Sun Streak]], in early 1986, and stayed until the program closed in 1995. She worked by automatic writing in a trance, attributing the results to figures she called George, Dr. Einstein, and Maurice.[^4]
 
 ### The Jordan Case
 

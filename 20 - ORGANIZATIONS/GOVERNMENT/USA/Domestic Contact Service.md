@@ -30,7 +30,7 @@ The Domestic Contact Service was one of two overt collection components of the [
 
 In [[Dallas, Texas|Dallas]] the service's officer [[J. Walton Moore]] was in contact with [[George de Mohrenschildt]], the friend of [[Lee Harvey Oswald]].[^4]
 
-The Miami office made contact with the [[Wackenhut Corporation]] on November 27, 1967, seven months after the Office of Security had severed the agency's relations with its founder, and carried it as a contact for reports on Latin America, under [[Justin Gleichauf]] as chief of the office through 1970. By 1974 Gleichauf worked for the company and reported to his former office as a private citizen. The case was closed on June 30, 1977.[^5]
+The Miami office made contact with the [[Wackenhut Corporation]] on November 27, 1967, seven months after the [[CIA Office of Security|Office of Security]] had severed the agency's relations with its founder, and carried it as a contact for reports on [[Latin America]], under [[Justin Gleichauf]] as chief of the office through 1970. By 1974 Gleichauf worked for the company and reported to his former office as a private citizen. The case was closed on June 30, 1977.[^5]
 
 ### Footnotes
 

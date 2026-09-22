@@ -21,7 +21,7 @@ updated: 2026-09-21
 
 Ricardo Morales Navarrete, called El Mono, gave his birth as [[Havana]], June 14, 1939, in his 1981 deposition. In 1968 he helped [[Orlando Bosch]] with instruction in bombs "and then suddenly surfaced in court as an FBI informant and as the chief witness against the baby doctor, who went to jail." By 1976 he was a comisario of [[DISIP]], the Venezuelan security police, in charge of Section D-54, its counterintelligence section, under the code name Comisario Moises.[^1][^2]
 
-Michael Townley told the Chilean military prosecutor in 1978 that when [[DINA]] asked him early in 1975 about Orlando Bosch's group, he advised against contact because it "had been infiltrated by the CIA, the FBI, and specifically by a certain 'Mono' Navarrete."[^3]
+[[Michael Townley]] told the Chilean military prosecutor in 1978 that when [[DINA]] asked him early in 1975 about Orlando Bosch's group, he advised against contact because it "had been infiltrated by the CIA, the FBI, and specifically by a certain 'Mono' Navarrete."[^3]
 
 ### Caracas
 

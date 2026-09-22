@@ -1,6 +1,6 @@
 ---
 created: 2025-07-22
-updated: 2025-07-22
+updated: 2026-09-21
 title: Remote Viewing
 tags:
   - concept
@@ -27,6 +27,10 @@ Remote viewing encompasses various methodologies and techniques:
 
 *   [[Associative Remote Viewing|Associative Remote Viewing (ARV)]]: A technique used for [[Precognition|precognition]], where objects or geographic locations are used as surrogates for numbers or other abstract data that are difficult to remote-view directly. For example, a teddy bear might represent a specific number in a lottery, and the remote viewer would describe the teddy bear to predict the number.[^1]
 
+### The Nature Exchange
+
+Russell Targ and Hal Puthoff's paper in *Nature* of October 18, 1974, concluded that "a channel exists whereby information about a remote location can be obtained by means of an as yet unidentified perceptual modality." In 1978 [[David Marks]] and Richard Kammann reported in the same journal that they could not replicate the results and that the transcripts of [[Pat Price]]'s nine trials contained cues, such as "second place of the day," from which judges could order them; Targ, Puthoff, and [[Charles Tart]] replied in January 1979 that a judge given transcripts edited of such cues matched seven of nine, and that the critique "did not address the quality of the remote-viewing descriptions in the transcripts per se, but was instead limited to criticism of a particular judging procedure." The Army's Materiel Systems Analysis Activity, replicating the SRI protocol in twenty sessions of its own in 1978 and 1979, "did not result in statistical significance."[^3]
+
 ### Characteristics and Limitations
 
 Remote viewing, like any human faculty, has limitations. Numbers and letters are generally difficult to remote-view accurately. Visually dramatic targets with fixed and long-established locations are usually easier to perceive. The longer a target has existed at a given site, the easier it is to remote-view. Conversely, the more a target moves, the more it blurs in the remote viewer's perception. Remote viewers often find it difficult to describe a target's surroundings in enough detail to pinpoint its exact location, and reading signs or specific alphanumeric data is challenging.[^1]
@@ -41,7 +45,8 @@ The study of remote viewing has led to speculation about its connection to the [
 
 Furthermore, the apparent precognitive abilities of UAP, such as the [[Tic Tac]] seeming to know the future location of the F/A-18 pilots, have led some to speculate that the operators of these craft may possess highly evolved psychic abilities, or that consciousness itself may be a fundamental component of their propulsion systems. The idea that remote viewing may be a vestigial human ability, a form of pre-linguistic communication, has also been proposed.[^2]
 
----
+### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
+[^3]: Targ, Russell, and Harold Puthoff. "Information Transmission under Conditions of Sensory Shielding," *Nature,* vol. 251, October 18, 1974, pp. 602-607, read in the CIA Reading Room copy CIA-RDP96-00787R000100220001-8 on archive.org. Marks, David, and Richard Kammann. "Information Transmission in Remote Viewing Experiments," *Nature,* vol. 274, 1978, pp. 680-681, not obtained; quoted from Puthoff, Targ, and Tart, "Information Transmission in Remote Viewing Experiments: II," with Tart, "Reanalysis of SRI Remote Viewing Experiments," submitted to *Nature,* January 1979, CIA-RDP96-00787R000200090017-5, archive.org mirror. US Army Materiel Systems Analysis Activity, "Project Grill Flame AMSAA Phase I Efforts," Interim Note No. 15, July 1979, CIA-RDP96-00788R001100080005-8.

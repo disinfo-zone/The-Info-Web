@@ -39,7 +39,7 @@ Margaret Newsham, an NSA contractor who worked at Menwith Hill, provided testimo
 
 ### Industrial Espionage
 
-The European Parliament investigation focused specifically on evidence that ECHELON had been used not only for national security intelligence but for commercial intelligence - targeting European companies' communications to benefit American competitors. Specific cases cited included intelligence about the Airbus-Saudi Airlines contract in 1994, allegedly intercepted by NSA and passed to Boeing and McDonnell Douglas, and intelligence about Thomson-CSF negotiations.[^2]
+The European Parliament investigation focused specifically on evidence that ECHELON had been used not only for national security intelligence but for commercial intelligence - targeting European companies' communications to benefit American competitors. Specific cases cited included intelligence about the Airbus-Saudi Airlines contract in 1994, allegedly intercepted by NSA and passed to Boeing and [[McDonnell Douglas]], and intelligence about Thomson-CSF negotiations.[^2]
 
 ### Post-Cold War and STELLARWIND
 

@@ -16,4 +16,9 @@ Despite being shown compelling evidence of remote viewing accuracy, such as [[Jo
 
 ---
 
+As the Army's assistant chief of staff for intelligence Odom was briefed on Grill Flame in October 1981, received an update on [[Center Lane]] on February 23, 1984, and on October 4, 1984, as a lieutenant general, approved the memorandum of agreement transferring the project to the [[Defense Intelligence Agency]]; on February 6, 1985, he accompanied its personnel to brief the under secretary of the Army.[^2]
+
+### Footnotes
+
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+[^2]: US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8; the scan's table columns are reflowed by OCR and some dates are uncertain. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

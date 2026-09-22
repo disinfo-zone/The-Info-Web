@@ -35,7 +35,7 @@ On September 10, 1976, at Union City, Townley "outlined my DINA mission to assas
 
 Asked by the prosecutor [[Eugene Propper]] and the agent [[Carter Cornick]] where he had been the night before the bombing, Novo said: "That is my trump card. That is the ace up my sleeve." The informant [[Ricardo Morales Navarrete|Ricardo Morales]], then an officer of the Venezuelan [[DISIP]], had planted a story that Bosch was telling associates the "Novo brothers" had killed Letelier. "Bosch is a liar and a traitor to freedom," Novo said.[^1]
 
-An undated memorandum to Contreras from Washington, written after the second Carter-Ford debate of October 1976 and enclosing photocopies of Letelier's diary then in the hands of the *Washington Star* reporter [[Jeremiah O'Leary]], reported: "Some friends from over there tell me again that the FBI reached the conclusion that the perpetrators of the attack on Letelier were 4 members of Brigade 2506, whose names are as follows: Roberto Carvallo, Carlos Pascual, Vicente Vásquez, and Guillermo Novo. They would have been deceived and paid by a Castro agent."[^4]
+An undated memorandum to Contreras from Washington, written after the second Carter-Ford debate of October 1976 and enclosing photocopies of Letelier's diary then in the hands of the *[[Washington Star]]* reporter [[Jeremiah O'Leary]], reported: "Some friends from over there tell me again that the FBI reached the conclusion that the perpetrators of the attack on Letelier were 4 members of [[Brigade 2506]], whose names are as follows: Roberto Carvallo, Carlos Pascual, Vicente Vásquez, and Guillermo Novo. They would have been deceived and paid by a Castro agent."[^4]
 
 ### Trials
 
