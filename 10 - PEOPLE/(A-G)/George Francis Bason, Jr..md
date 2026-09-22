@@ -14,7 +14,7 @@ George Francis Bason Jr. was appointed to the Bankruptcy Court for the District 
 
 ### The Independent Handling Proceeding (June 1987)
 
-In June 1987, after INSLAW filed for independent handling of its bankruptcy case on the grounds that the DOJ could not be trusted to administer it fairly, Bason found that DOJ had "unlawfully, intentionally and willfully" attempted to convert INSLAW's Chapter 11 reorganization into a Chapter 7 liquidation "without justification and by improper means." The ruling was based partly on testimony from Anthony Pasciuto, Deputy Director of the Executive Office of U.S. Trustees, who initially stated that DOJ Director Thomas Stanton had pressured U.S. Trustee [[Edward White]] to force the company into liquidation. Bason also found that Stanton had struck a bargain with [[C. Madison Brewer]] to achieve this conversion.[^1]
+In June 1987, after INSLAW filed for independent handling of its bankruptcy case on the grounds that the DOJ could not be trusted to administer it fairly, Bason found that DOJ had "unlawfully, intentionally and willfully" attempted to convert INSLAW's Chapter 11 reorganization into a Chapter 7 liquidation "without justification and by improper means." The ruling was based partly on testimony from Anthony Pasciuto, Deputy Director of the Executive Office of U.S. Trustees, who initially stated that DOJ Director Thomas Stanton had pressured U.S. Trustee [[William White]] to force the company into liquidation. Bason also found that Stanton had struck a bargain with [[C. Madison Brewer]] to achieve this conversion.[^1]
 
 ### The Adversary Proceeding (September 1987)
 

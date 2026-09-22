@@ -20,7 +20,7 @@ The DC office became the first PROMIS site and served as the demonstration platf
 
 ### EOUSA Implementation Contract
 
-The Executive Office for United States Attorneys (EOUSA), which administers support for all 94 U.S. Attorneys' Offices, was the entity that signed the March 1982 implementation contract with INSLAW, Inc. for installation of PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. The execution of that contract, and EOUSA's subsequent conduct toward INSLAW, became the central dispute in the [[PROMIS Software Scandal|INSLAW affair]].[^1]
+The [[Executive Office for United States Attorneys]] (EOUSA), which administers support for all 94 U.S. Attorneys' Offices, was the entity that signed the March 1982 implementation contract with INSLAW, Inc. for installation of PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. The execution of that contract, and EOUSA's subsequent conduct toward INSLAW, became the central dispute in the [[PROMIS Software Scandal|INSLAW affair]].[^1]
 
 ### Footnotes
 

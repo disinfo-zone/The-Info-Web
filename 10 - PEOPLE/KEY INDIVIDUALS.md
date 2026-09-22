@@ -925,7 +925,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Marilyn Jacobs]] | Marilyn Jacobs was the secretary to Lowell Jensen at the DOJ. |
 | [[Marilyn Titus]] | Marilyn Titus worked for Simeon from September 1982 until January 1984, and then for Hadron for four years after leaving Simeon. |
 | [[Mark Nichols]] | Administrator of the Cabazon Tribal Council who inherited the position from his brother John Paul Nichols in 1989. |
-| [[Mark Richards]] | Mark Richards was a career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
+| [[Mark M. Richard|Mark Richard]] | Mark Richards was a career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
 | [[Marshall Riconosciuto]] | In 1981, Hercules Research Corporation developed a small electronic power supply designed to feed 30,000 volts of electricity to a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in  |
 | [[Mason O. Lidell Jr.]] | After entering the apartment and getting a brief glance at the body and the apartment, Lidell was ordered to leave. |
 | [[Matthew Kevin Gannon]] | Senior MC-10 intelligence cell member killed on Pan Am Flight 103 over Scotland after returning from a Beirut mission. |

@@ -22,7 +22,7 @@ Nicholas Davies was a British journalist who joined [[Mirror Group]] Newspapers 
 
 In 1991, investigative journalist [[Seymour Hersh]] published *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy,* which included allegations based primarily on accounts by Israeli intelligence operative [[Ari Ben-Menashe]]. Hersh alleged that Davies had been recruited as a [[Mossad]] asset in the early 1980s through contacts in London and a subsequent visit to Israel.[^2]
 
-Ben-Menashe stated that Davies and he became business partners in an international arms firm, Ora Limited, operating out of Davies's home in London beginning in 1983. The firm allegedly functioned to facilitate the flow of Israeli arms to Iran during the [[Iran-Iraq War]], a channel that ran parallel to the operations later associated with the [[Iran-Contra Affair]]. Ben-Menashe claimed Davies made more than $1.5 million from a single arms transaction.[^2]
+Ben-Menashe stated that Davies and he became business partners in an international arms firm, [[Ora Group|Ora Limited]], operating out of Davies's home in London beginning in 1983. The firm allegedly functioned to facilitate the flow of Israeli arms to Iran during the [[Iran-Iraq War]], a channel that ran parallel to the operations later associated with the [[Iran-Contra Affair]]. Ben-Menashe claimed Davies made more than $1.5 million from a single arms transaction.[^2]
 
 The most specific allegation was that Davies passed [[Mordecai Vanunu|Mordechai Vanunu]]'s location to Mossad operatives, enabling the 1986 honey-trap operation in Rome that led to Vanunu's abduction and return to Israel for trial on nuclear secrets charges.[^3]
 

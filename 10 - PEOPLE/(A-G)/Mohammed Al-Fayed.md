@@ -1,8 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Business & Finance"
 tags:
   - Person
-  - PROMIS
 summary: "Father of Dodi Fayed and husband of Samira Khashoggi Fayed, connected to the PROMIS investigation through his son's death."
 born: 1929-01-27
 died: 2023-08-30

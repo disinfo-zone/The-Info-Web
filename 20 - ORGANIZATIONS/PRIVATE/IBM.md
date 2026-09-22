@@ -17,7 +17,7 @@ location: "Armonk, New York, USA"
 
 International Business Machines, or IBM as it’s commonly known, is a multinational tech and research company headquartered in Armonk, New York. It was founded in 1911. The company specializes in computers and computing technologies and has close ties with governments around the world (most infamously with Nazi Germany as part of the Holocaust).
 
-In 1969, IBM invented the [[Relational Database|relational database]]. During the 1960’s and 70’s, IBM was a major provider of mainframe and later minicomputers. These large, powerful (for the time), and expensive machines were used by organizations like the [[LEAA]] or countries like [[Canada]] to run software including [[PROMIS]].
+In 1969, IBM invented the relational database. During the 1960’s and 70’s, IBM was a major provider of mainframe and later minicomputers. These large, powerful (for the time), and expensive machines were used by organizations like the [[LEAA]] or countries like [[Canada]] to run software including [[PROMIS]].
 
 Richard L. Garwin, a prominent scientist, was associated with IBM's Thomas J. Watson Research Center. He was a member of an ad hoc panel of distinguished scientists tasked with studying the VELA data related to a probable nuclear explosion in the South Indian Ocean in 1979. Garwin was known for his independence as a government consultant.[^1]
 

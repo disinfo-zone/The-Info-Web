@@ -1,8 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Political Figure"
 tags:
   - Person
-  - PROMIS
 summary: "Widow of Philippine President Ferdinand Marcos who was acquitted with Adnan Khashoggi of racketeering and fraud charges in 1990."
 born: 1929-07-02
 location: "Manila, Philippines"

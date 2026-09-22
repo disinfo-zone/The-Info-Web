@@ -1,8 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Intelligence & Government"
 tags:
   - Person
-  - PROMIS
   - CIA
 summary: "CIA officer who developed contacts with international arms merchant Adnan Khashoggi, factotum for the House of Saud."
 born: 1917-01-30

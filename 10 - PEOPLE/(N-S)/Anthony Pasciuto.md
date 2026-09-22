@@ -1,5 +1,5 @@
 ---
-category: "Belgium Scandals"
+category: "PROMIS Scandal"
 tags:
   - Person
   - Belgium
@@ -8,7 +8,7 @@ summary: "Anthony Pasciuto was the Deputy Director of the Executive Office of U.
 
 Anthony Pasciuto was the Deputy Director of the Executive Office of U.S. Trustees (EOUST) within the [[Department of Justice|DOJ]]. He became a central figure in [[INSLAW|Inslaw]]'s allegations of a plot to convert its bankruptcy to a liquidation and a subsequent cover-up.
 
-Inslaw's primary allegation stemmed from a private conversation [[Bill Hamilton]] and [[Nancy Hamilton]] had with Pasciuto in March 1987. According to Nancy Hamilton's later testimony, Pasciuto told them that the Director of EOUST, [[Thomas Stanton]], had pressured the U.S. Trustee assigned to the [[INSLAW]] case, [[Philip White]], to convert the case to Chapter 7. Pasciuto also allegedly told the Hamiltons that Stanton had tried to detail a talented attorney from the U.S. Trustee's Office in the Southern District of New York, [[Harry Jones]], to Washington D.C., to work on converting the Inslaw case. This allegation was initially supported by the deposition testimony of [[Cornelius Blackshear]], then a U.S. Bankruptcy Judge, who swore that White had told him Stanton wanted the Inslaw case converted and a particular attorney from Blackshear's office assigned to handle it.[^1]
+Inslaw's primary allegation stemmed from a private conversation [[Bill Hamilton]] and [[Nancy Hamilton]] had with Pasciuto in March 1987. According to Nancy Hamilton's later testimony, Pasciuto told them that the Director of EOUST, [[Thomas Stanton]], had pressured the U.S. Trustee assigned to the [[INSLAW]] case, [[William White]], to convert the case to Chapter 7. Pasciuto also allegedly told the Hamiltons that Stanton had tried to detail a talented attorney from the U.S. Trustee's Office in the Southern District of New York, [[Harry Jones]], to Washington D.C., to work on converting the Inslaw case. This allegation was initially supported by the deposition testimony of [[Cornelius Blackshear]], then a U.S. Bankruptcy Judge, who swore that White had told him Stanton wanted the Inslaw case converted and a particular attorney from Blackshear's office assigned to handle it.[^1]
 
 However, Pasciuto's testimony and statements were found to be highly unreliable by the Special Counsel's investigation. Pasciuto himself testified during the Independent Handling hearing that no one had ever told him Stanton pressured White to convert the case, and he had no personal knowledge of the subject. He admitted that if he did tell the Hamiltons of such pressure, it was because he was very upset and would have done anything, including exaggerating and making things up, to hurt Stanton, his boss, with whom he was having problems. Pasciuto later changed his story, claiming that his initial statements to the Hamiltons were true and that his trial testimony was influenced by pressure from the DOJ and the lack of corroboration from Blackshear and White.[^1]
 

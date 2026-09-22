@@ -1,8 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Business & Finance"
 tags:
   - Person
-  - PROMIS
 summary: "Egyptian multi-millionaire film producer and son of Mohammed Al-Fayed, romantically involved with Princess Diana; died with her in a 1997 Paris car crash."
 born: 1955-04-15
 died: 1997-08-31

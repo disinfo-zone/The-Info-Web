@@ -178,7 +178,6 @@ Software systems, databases, and information management technologies.
 | --- | --- |
 | [[FOIMS]] | Field Office Information Management System (FOIMS) is a computer program developed by the Federal Bureau of Investigation. |
 | [[JIS]] | The Jail Information System (JIS) was developed through a grant to the AJI (AJI) from the U.S. Department of Justice, LEAA (LEAA), Office of Criminal Justice Programs' The development of JIS was an outgrowth of the need perceived during AJI's... |
-| [[Relational Database]] | https://en.wikipedia.org/wiki/Relational_database |
 
 ## Drugs & Trafficking
 Narcotics, drug trafficking networks, and substance-related concepts.

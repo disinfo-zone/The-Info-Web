@@ -22,7 +22,7 @@ Hamilton further alleged that a 1983 Hadron fundraising trip to New York, involv
 
 Hamilton claimed that [[Edward Hurley]], a Hadron Vice President, stated in June 1985 that Hadron wanted to acquire INSLAW's "court software." An INSLAW employee, Theresa Bousquin, confirmed Hurley's general interest but stated his remark was made in passing and did not indicate an active acquisition effort. The Special Counsel found Hamilton's characterization inaccurate.[^2]
 
-Hamilton alleged that [[James L. Byrnes]], a Deputy Assistant Attorney General with ties to [[Edwin Meese]], spearheaded the award of a $40 million computer services contract to Accumenics, a Hadron subsidiary, in October 1987. Byrnes denied any knowledge of such a contract or any contact with Hadron or its subsidiaries. The Special Counsel found no evidence supporting this allegation.[^2]
+Hamilton alleged that [[James L. Byrnes]], a Deputy Assistant Attorney General with ties to [[Edwin Meese]], spearheaded the award of a $40 million computer services contract to [[Accumenics]], a Hadron subsidiary, in October 1987. Byrnes denied any knowledge of such a contract or any contact with Hadron or its subsidiaries. The Special Counsel found no evidence supporting this allegation.[^2]
 
 INSLAW alleged a connection between [[Peter Videnieks]], DOJ's PROMIS contracting officer, and Hadron, claiming Videnieks had administered Customs Service contracts with Hadron. While a witness suggested a possible meeting between Videnieks and Laiti, Videnieks denied being the contracting officer for any Hadron contract or meeting Hadron management. The Special Counsel found no evidence of a conspiracy, concluding any connection was "tenuous and insignificant."[^2]
 

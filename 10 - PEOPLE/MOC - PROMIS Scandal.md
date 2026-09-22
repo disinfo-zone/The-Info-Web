@@ -96,7 +96,7 @@ Central figures in the PROMIS/INSLAW software scandal and related investigations
 | [[Marilyn Jacobs]] | Marilyn Jacobs was the secretary to Lowell Jensen at the DOJ. |
 | [[Marilyn Titus]] | Marilyn Titus worked for Simeon from September 1982 until January 1984, and then for Hadron for four years after leaving Simeon. |
 | [[Mark Nichols]] | Administrator of the Cabazon Tribal Council who inherited the position from his brother John Paul Nichols in 1989. |
-| [[Mark Richards]] | Mark Richards was a career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
+| [[Mark M. Richard|Mark Richard]] | Mark Richards was a career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
 | [[Matthew Kevin Gannon]] | Senior MC-10 intelligence cell member killed on Pan Am Flight 103 over Scotland after returning from a Beirut mission. |
 | [[Meyer Lansky]] | Prominent Florida mobster whose Fremont Hotel in Las Vegas was financed through Jimmy Hoffa loans and linked to Bobby Baker networks. |
 | [[Michael Riconosciuto]] | From 1981 to 1984, Riconosciuto served as the Director of Research for a joint venture between Wackenhut Corporation and the Cabazon Indian tribe near Indio, California. |

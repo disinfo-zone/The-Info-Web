@@ -36,7 +36,7 @@ In early 1986, Weekly and Gritz were recruited to train Afghan Mujahedeen fighte
 
 ### The Tapes and Bush Connection
 
-Justice Department official Mark Richard's handwritten notes of a briefing on Weekly's case recorded: "Weekly posts on tape that he's tied into CIA and Hasenfus. Said he reports to people reporting to Bush." The tapes of Weekly's intercontinental telephone conversations were obtained by the Justice Department but do not appear to have been turned over to Iran-Contra prosecutor Lawrence Walsh. Weekly was convicted of transporting explosives and sentenced to five years. After fourteen months, a hearing revealed he had been working for the U.S. government. His probation required him to report any future contact with the State Department, Defense Department, CIA, or any intelligence agency.[^1]
+Justice Department official [[Mark M. Richard|Mark Richard]]'s handwritten notes of a briefing on Weekly's case recorded: "Weekly posts on tape that he's tied into CIA and Hasenfus. Said he reports to people reporting to Bush." The tapes of Weekly's intercontinental telephone conversations were obtained by the Justice Department but do not appear to have been turned over to Iran-Contra prosecutor Lawrence Walsh. Weekly was convicted of transporting explosives and sentenced to five years. After fourteen months, a hearing revealed he had been working for the U.S. government. His probation required him to report any future contact with the State Department, Defense Department, CIA, or any intelligence agency.[^1]
 
 ### Footnotes
 

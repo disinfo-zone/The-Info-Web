@@ -1,8 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Intelligence & Government"
 tags:
   - Person
-  - PROMIS
   - CIA
 summary: "CIA officer who developed intelligence contacts with international arms merchant Adnan Khashoggi, a key figure in the Saudi-Israeli-American arms network."
 born: 1916-02-16

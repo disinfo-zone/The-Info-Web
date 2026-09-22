@@ -1,8 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Political Figure"
 tags:
   - Person
-  - PROMIS
   - CIA
 summary: "Powerful West Virginia Democratic Senator whose executive assistant was Barbara Videnieks, wife of PROMIS figure Peter Videnieks."
 born: 1917-11-20

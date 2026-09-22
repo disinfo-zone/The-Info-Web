@@ -12,7 +12,7 @@ summary: "John Keeney was a career Deputy Assistant Attorney General in the Crim
 
 John Keeney was a career Deputy Assistant Attorney General in the Criminal Division of the [[Department of Justice|DOJ]]. He was implicated in allegations surrounding the [[PROMIS Software Scandal]].
 
-According to a source of [[Ronald LeGrand]], Keeney, along with [[Mark Richards]] and [[Philip White]], knew "all about" [[Lowell Jensen]]'s alleged malfeasance in the Inslaw matter. The source believed that while Richards and White were "pretty upset" about it, they would not disclose what they knew except under subpoena and oath, and that they would not commit perjury.[^1]
+According to a source of [[Ronald LeGrand]], Keeney, along with [[Mark M. Richard|Mark Richard]] and [[Philip White]], knew "all about" [[Lowell Jensen]]'s alleged malfeasance in the Inslaw matter. The source believed that while Richard and White were "pretty upset" about it, they would not disclose what they knew except under subpoena and oath, and that they would not commit perjury.[^1]
 
 However, when interviewed by the Special Counsel, John Keeney stated that he had no knowledge of any wrongdoing by Lowell Jensen generally, or of the type of wrongdoing described in the Hamilton affidavit specifically. The Special Counsel's investigation found no credible evidence to support the allegations against Keeney or any connection between him and a conspiracy related to [[INSLAW|Inslaw]] or [[PROMIS]].[^1]
 

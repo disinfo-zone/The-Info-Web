@@ -33,7 +33,12 @@ Several figures who appear in this vault worked at or had connections to Los Ala
 - [[Harold M. Agnew]], Los Alamos director from 1970 to 1979, served on the Nuclear Intelligence Panel and was critical of the suppression of findings from the [[Vela Incident]] satellite detection of an apparent nuclear test off [[South Africa]]
 - [[Carl E. Duckett]], CIA Deputy Director for Science and Technology, received intelligence contributed from Los Alamos through the CIA's Office of Science and Technology on nuclear matters[^2]
 
+### PROMIS
+
+The laboratory enters the [[PROMIS Software Scandal|PROMIS]] literature twice. [[John A. Belton]], a former Canadian stockbroker, told the Justice Department's reviewers in 1994 that "Trans World Arms in Montreal and ORA," the [[Ora Group]] of [[Ari Ben-Menashe]]'s account, had sold PROMIS in 1983 to "a Nuclear Regulatory Commission facility in New Mexico" that he believed was Los Alamos, on the word of an unnamed source and without producing any document; the reviewers found him "unbelievable." The [[Royal Canadian Mounted Police|RCMP]] investigator [[Sean McDade]] said in 2000 that a meeting of allied intelligence chiefs on the year-2000 computer problem had been held at the laboratory in December 1999, and that a source had suggested [[Mossad]] might have a two-way back door into the shared system reaching "top U.S. weapons secrets at Los Alamos and other installations." Neither the House Judiciary Committee's 1992 report nor the 1993 Bua report mentions the laboratory.[^3]
+
 ### Footnotes
 
 [^1]: "Los Alamos National Laboratory," *Encyclopaedia Britannica.* https://www.britannica.com/topic/Los-Alamos-National-Laboratory
 [^2]: Herken, Gregg. *Brotherhood of the Bomb: The Tangled Lives and Loyalties of Robert Oppenheimer, Ernest Lawrence, and Edward Teller.* Henry Holt, 2002.
+[^3]: U.S. Department of Justice, *Report on the Review of Special Counsel Nicholas J. Bua's Report on the Allegations of INSLAW, Inc.,* September 27, 1994, interview of John A. Belton; Seymour, Cheri, *The Last Circle,* TrineDay, 2010, as cited on [[Sean McDade]].

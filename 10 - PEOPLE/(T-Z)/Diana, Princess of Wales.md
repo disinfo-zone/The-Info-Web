@@ -1,8 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Historical Figure"
 tags:
   - Person
-  - PROMIS
 summary: "Princess of Wales whose 1997 death alongside Dodi Fayed is referenced in research tied to the PROMIS scandal and its web of interconnected intelligence figures."
 born: 1961-07-01
 died: 1997-08-31
