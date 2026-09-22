@@ -36,7 +36,7 @@ Whether CIA employees who received computer training at Future Enterprises had a
 
 ### The 1993 DOJ Investigation
 
-The Future Enterprises connection was a central element of the 1993 Department of Justice and FBI reinvestigation of The Finders, prompted by congressional pressure from Representatives Tom Lewis (R-FL) and Charlie Rose (D-NC). Reporter Paul M. Rodriguez of the *Washington Times* published the key investigative article on December 17, 1993, citing the MPD document identifying Future Enterprises as "Finders Corp."[^1] The *U.S. News & World Report* contemporaneous investigation also cited the CIA training relationship as one of three documented overlaps between The Finders and the intelligence community, alongside [[Isabelle Pettie]]'s CIA employment and [[George Pettie|George Pettie's]] work for [[Air America]].[^1]
+The Future Enterprises connection was a central element of the 1993 Department of Justice and FBI reinvestigation of The Finders, prompted by congressional pressure from Representatives Tom Lewis (R-FL) and [[Charlie Rose]] (D-NC). Reporter Paul M. Rodriguez of the *Washington Times* published the key investigative article on December 17, 1993, citing the MPD document identifying Future Enterprises as "Finders Corp."[^1] The *U.S. News & World Report* contemporaneous investigation also cited the CIA training relationship as one of three documented overlaps between The Finders and the intelligence community, alongside [[Isabelle Pettie]]'s CIA employment and [[George Pettie|George Pettie's]] work for [[Air America]].[^1]
 
 The DOJ inquiry concluded without criminal charges. The CIA maintained its characterization of the training relationship as an incidental procurement arrangement.
 

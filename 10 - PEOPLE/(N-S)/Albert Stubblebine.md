@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-21
 title: Albert Stubblebine
 aliases:
   - Albert Stubblebine
@@ -15,13 +15,13 @@ tags:
   - RemoteViewing
   - 1980s
 category: "Military"
-summary: "Major General Albert Stubblebine III was the U.S. Army INSCOM commander from 1981 to 1984 who was the military's most senior advocate of psychic research for intelligence applications, personally believed in training soldiers for anomalous physical feats, and provided high-level Army support that kept the STARGATE remote viewing program funded through its critical early operational phase."
+summary: "INSCOM commander from 1981 to 1984 who kept the Army's remote-viewing unit alive as Center Lane with security funds after Congress cut it, and pursued spoon bending and other human performance experiments."
 born: 1930-02-06
 died: 2017-02-06
 location: "New York, New York"
 ---
 
-Major General Albert Newton Stubblebine III (February 6, 1930 - February 6, 2017) was a U.S. Army general who served as commanding general of the [[United States Army Intelligence and Security Command|INSCOM]] from 1981 to 1984, during which he was the most senior American military officer publicly associated with belief in psychic phenomena and their military applications. His command authority provided the institutional protection that allowed the [[STARGATE PROJECT|Grill Flame]] and [[STARGATE PROJECT|Center Lane]] remote viewing programs to survive bureaucratic resistance and continue operating through the early 1980s. He died on his 87th birthday.
+Major General Albert Newton Stubblebine III (February 6, 1930 - February 6, 2017) was a U.S. Army general who served as commanding general of the [[United States Army Intelligence and Security Command|INSCOM]] from 1981 to 1984, during which he was the most senior American military officer publicly associated with belief in psychic phenomena and their military applications. His command authority provided the institutional protection that allowed the [[STARGATE PROJECT|Grill Flame]] and Center Lane remote viewing programs to survive bureaucratic resistance and continue operating through the early 1980s. He died on his 87th birthday.
 
 ### Military Career
 
@@ -35,7 +35,7 @@ Stubblebine was a genuine believer in the potential of unconventional human capa
 
 Reports from officers who served under him described Stubblebine attempting to walk through the wall of his Pentagon office, based on his conviction that this was theoretically achievable through the right mental training. These reports, which circulated within the Army intelligence community and later became part of the broader cultural record of the STARGATE era documented in Jon Ronson's *The Men Who Stare at Goats* (2004), illustrated both the sincerity of his beliefs and the distance between those beliefs and mainstream military culture.
 
-He pushed for expanded use of psychics throughout Army intelligence and organized training programs intended to develop soldiers' latent psychic capabilities. These included consciousness training exercises at [[Fort Bragg]] for special operations personnel. The cultural environment these programs created - sometimes called the "First Earth Battalion" culture after Lieutenant Colonel Jim Channon's influential 1979 concept paper proposing a psychic warrior force - was an institutional artifact of Stubblebine's INSCOM command.
+He pushed for expanded use of psychics throughout Army intelligence and organized training programs intended to develop soldiers' latent psychic capabilities. These included consciousness training exercises at [[Fort Bragg]] for special operations personnel. The cultural environment these programs created - sometimes called the "[[First Earth Battalion]]" culture after Lieutenant Colonel Jim Channon's influential 1979 concept paper proposing a psychic warrior force - was an institutional artifact of Stubblebine's INSCOM command.
 
 ### Support for STARGATE
 
@@ -44,6 +44,12 @@ Stubblebine's most consequential contribution to the government remote viewing p
 His advocacy also had limits: the program's credibility within mainstream Army intelligence was not enhanced by its association with a commander known for attempting to walk through walls. Officers who might otherwise have engaged with the remote viewing program's results distanced themselves from it to avoid association with what they considered an embarrassingly unconventional command climate.
 
 Stubblebine was relieved of the INSCOM command in 1984 and retired from the Army. After his departure, the program continued but lost some of its most senior Army champion. The DIA subsequently took over primary program management.
+
+### The Record
+
+Stubblebine received his first Grill Flame briefing as incoming commander of INSCOM on June 30, 1981, from the outgoing project manager, Lieutenant Colonel [[Murray Watt]], and his successor, Lieutenant Colonel Robert Jachim. After the Senate intelligence committee's budget subcommittee cut the Army's psychoenergetic operations from the National Foreign Intelligence Program at the end of fiscal 1982, he "decided to continue INSCOM's project and provide funding with Security and Investigative Activities (S&IA) monies" under the provisional special access program [[Center Lane]]. The project manager's records of his meetings show him on November 30, 1983, confirming "his decision to hold a 'bonding' ceremony" for the RAPT training, to be led by Lieutenant Colonel [[John B. Alexander|John Alexander]], and on January 6, 1984, saying of Alexander's unauthorized debriefing of [[Russell Targ]] that "he had not instructed LTC Alexander to debrief Targ because Alexander was not a trained intelligence officer."[^1]
+
+At the briefing of June 30, 1981, attended by Brigadier General Flynn, Colonel Weinstein, Colonel White, and the two project managers, "MG Stubblebine instructed us to ensure that there were no legal problems concerning our joint contractual effort with DIA, especially to be watchful of mixing OM&A and R&D monies," and, reviewing the customer evaluations, "expressed the thought that the evaluations were a clear indication that we were on to something and that work in this area had to continue."[^2]
 
 ### Post-Military Career
 
@@ -55,5 +61,5 @@ Stubblebine died February 6, 2017 - his 87th birthday - at his home in [[New Mex
 
 ### Footnotes
 
-[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017, pp. 160-185 (covers Stubblebine's INSCOM command and its role in the remote viewing program). Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, pp. 210-240.
-[^2]: Ronson, Jon. *The Men Who Stare at Goats.* Simon & Schuster, 2004 (Stubblebine is a central figure; documents the wall-walking incidents and the Grill Flame culture under his command). Channon, Jim. "First Earth Battalion Operations Manual." U.S. Army document, 1979 (the concept paper that articulated the psychic warrior vision Stubblebine embraced).
+[^1]: Buzby, Brian, memoranda for the record, "Initial Grill Flame Briefing to MG Stubblebine as CG, INSCOM, 30 June 1981" (CIA-RDP96-00788R001700220001-0), "Meeting With MG Stubblebine on 30 November 1983" (CIA-RDP96-00788R001700220010-0), and "Meeting with MG Stubblebine on 6 January 1984" (CIA-RDP96-00788R001700220009-2). Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. US Army Intelligence and Security Command, "Briefing - Project Center Lane," c. 1984, CIA-RDP96-00789R002100180002-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^2]: Memorandum for the record, "Initial Grill Flame Briefing to MG Stubblebine as CG, INSCOM, 30 June 1981," July 1, 1981, CIA-RDP96-00788R001700220001-0. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

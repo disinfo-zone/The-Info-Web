@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-21
 title: Jessica Utts
 aliases:
   - Jessica Utts
@@ -13,7 +13,7 @@ tags:
   - 1990s
   - 2000s
 category: "Scientists & Researchers"
-summary: "Jessica Utts is a statistician at the University of California, Davis, who wrote the pro-psi half of the 1995 American Institutes for Research evaluation of the STAR GATE program, concluding that the remote viewing data showed a statistically significant and replicable anomalous effect warranting serious scientific investigation."
+summary: "Statistician at the University of California, Davis, whose 1995 review for the American Institutes for Research concluded that psychic functioning had been well established, against Ray Hyman's dissent."
 born: 1952-01-01
 location: "Davis, California"
 ---
@@ -28,25 +28,14 @@ Utts became involved in parapsychology research assessment through her statistic
 
 ### 1995 AIR Evaluation
 
-When the CIA commissioned the AIR to evaluate STAR GATE, AIR project director Edwin May provided Utts and Hyman with the program's experimental database - the accumulated laboratory remote viewing sessions from the program's SRI and SAIC phases, including the work of [[Edwin May]]'s Cognitive Sciences Laboratory at SAIC.
-
-Utts concluded in her assessment that the data showed "a genuine anomalous transfer of information" with an effect size large enough to be meaningful and replicable across independent laboratories. She calculated that the probability of obtaining the observed results by chance was less than one in a billion. She argued that the program's laboratory effect was real and that further scientific investigation was warranted, while acknowledging that the mechanism was unknown and the operational application was a separate question from the laboratory finding.
-
-Her assessment explicitly compared the remote viewing effect size to other accepted but unexplained phenomena and argued that the scientific standard for accepting or rejecting the data should be the same as in any other field of inquiry.[^2]
+In June 1995 the CIA contracted the American Institutes for Research to review the DIA's Star Gate program, and AIR engaged Utts, then statistical editor of the *Journal of the American Society for Psychical Research*, and Ray Hyman as its two research reviewers, with Lincoln Moses of Stanford advising on statistics. The CIA supplied about 80 publications; the principal investigator, [[Edwin May]], was asked to name the studies he thought strongest. Utts's report of September 1, 1995, concluded: "Using the standards applied to any other area of science, it is concluded that psychic functioning has been well established. The statistical results of the studies examined are far beyond what is expected by chance. Arguments that these results could be due to methodological flaws in the experiments are soundly refuted. Effects of similar magnitude to those found in government-sponsored research at SRI and SAIC have been replicated at a number of laboratories across the world." She placed the effect "in the range between what social scientists call a small and medium effect," explained that with five-choice rank-order judging "the effect size for a series of remote viewings is (3.0 - average rank)/2," cited the 1988 analysis of 154 SRI experiments and 26,000 trials with a p-value below 10^-20, tabulated May's ten SAIC experiments (Entropy II: 90 trials, effect size 0.550), and compared novice and experienced viewers at SRI (0.164 and 0.385) with the ganzfeld results at the [[Psychophysical Research Laboratories]] (0.17 and 0.35). "It is recommended that future experiments focus on understanding how this phenomenon works," she wrote; "there is little benefit to continuing experiments designed to offer proof."[^2]
 
 ### Hyman Disagreement
 
-Ray Hyman's independent assessment reached opposite conclusions from the same data. Hyman acknowledged that the results could not be explained by chance, but argued that methodological issues - primarily potential experimenter effects, inadequate controls against sensory leakage, and inadequate blind conditions - provided alternative explanations that precluded accepting the data as evidence for remote viewing.
-
-The AIR's final report, drawing on both assessments, found no demonstrated practical intelligence utility and recommended termination. Utts disputed the operational conclusions, maintaining that the laboratory evidence was real and had been overshadowed by the question of whether operational military applications had been demonstrated.
-
-Both assessments were subsequently published in the [[Journal of Scientific Exploration]] in 1996, where they have served as reference papers for the psi debate.[^2]
-
-### Significance
-
-Utts's 1995 AIR assessment is frequently cited in parapsychology literature as the most rigorous statistician's endorsement of a psi effect in a government-funded context. Critics, including Hyman, maintain that her analysis did not adequately account for methodological confounds; supporters cite her credentials and statistical methodology as making her conclusions difficult to dismiss on purely methodological grounds. The exchange between Utts and Hyman in the Journal of Scientific Exploration remains the most focused technical debate over the STAR GATE experimental data.[^2]
+Hyman's report of September 11 agreed that the SAIC experiments "were free of the methodological weaknesses that plagued the early SRI research" and that their effect sizes were "too large and consistent to be dismissed as statistical flukes," but answered no to whether they established anomalous cognition, whether flaws had been eliminated, and whether they matched other laboratories, "ten experiments, especially from one laboratory," being "far too few." Utts's reply cited the psychologist Sybo Schouten's estimate that all parapsychology funding since 1882 "is at best equivalent to the expenditures devoted to fewer than two months of research in conventional psychology in the United States," and the Physicians Health Study of aspirin: "had it been conducted on only 2,200 men with the same reduction in heart attacks, it would not have achieved statistical significance." AIR's own synthesis found that "the two reviewers agreed far more than they disagreed," and that the significant results rested on "the same remote viewers, the same judge, the same target set, and the same scoring procedures." The report of September 29 recommended against continuing the operational program. Both reviews were published in the *Journal of Scientific Exploration* in 1996.[^3]
 
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.
-[^2]: Utts, Jessica. "An Assessment of the Evidence for Psychic Functioning." *Journal of Scientific Exploration* 10, no. 1 (1996): 3-30. Hyman, Ray. "Evaluation of a Program on Anomalous Mental Phenomena." *Journal of Scientific Exploration* 10, no. 1 (1996): 31-58.
+[^2]: Utts, Jessica. "An Assessment of the Evidence for Psychic Functioning," September 1, 1995, reproduced in the AIR report, pp. 3-2 to 3-40, and published in *Journal of Scientific Exploration,* vol. 10, no. 1, 1996, pp. 3-30. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf
+[^3]: Hyman, Ray. "Evaluation of Program on Anomalous Mental Phenomena," September 11, 1995, reproduced in the AIR report, pp. 3-41 to 3-75, and published in *Journal of Scientific Exploration,* vol. 10, no. 1, 1996, pp. 31-58. Mumford, Michael D., Andrew M. Rose, and David A. Goslin. *An Evaluation of Remote Viewing: Research and Applications.* American Institutes for Research, September 29, 1995, pp. 3-76 to 3-84.

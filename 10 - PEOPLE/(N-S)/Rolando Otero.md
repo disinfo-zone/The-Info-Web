@@ -24,6 +24,8 @@ Otero fled to [[Chile]]. In 1976 the FBI's legal attaché in [[Buenos Aires]], [
 
 The letter rogatory sent by the federal court in Washington to Chile in February 1978 put to the bearer of the name Juan Williams Rose, which Michael Townley had carried on a Paraguayan passport in July 1976 and Captain [[René Riveros]] of DINA on a Chilean one in August: "In February 1976, you met with Rolando Otero Hernández, who at that time was a fugitive from United States law. Present at that meeting was a man who introduced himself as Major Torres of DINA," and another "under the name Marcelo Estobel," and asked their true names. Townley testified that at the meetings in Union City in September 1976 the talk included "spreading rumors to justify and explain Otero's arrest in Chile and his subsequent handover to the FBI. The idea was to blame Otero himself for his 'blunder.'"[^5]
 
+Admiral [[Ronald McIntyre]] of the Chilean naval mission testified that when the leadership of [[Brigade 2506]] came to his office in early September 1976 "the only discordant note" was the feeling of its president, Roberto Carballo, "over the detention in Chile and handover to US authorities of the Cuban Otero," and that the New Jersey group had refused to attend the visit of the training ship Esmeralda in July "precisely because of the handover of Otero," in a letter signed by Novo.[^6]
+
 ### Footnotes
 
 [^1]: *United States v. Otero-Hernandez,* 418 F. Supp. 572 (M.D. Fla. 1976).
@@ -31,3 +33,4 @@ The letter rogatory sent by the federal court in Washington to Chile in February
 [^3]: Dinges, John, and Saul Landau. *Assassination on Embassy Row*. McGraw-Hill, 1980, pp. 9-10, 130.
 [^4]: Deposition of Ricardo Morales Navarrete, Dade County Circuit Court, criminal case 81-17247, index.
 [^5]: Fiscalía Militar Ad-Hoc, Santiago, causa 192-78 (fiscal Héctor Orozco), as reproduced in *Proceso contra Manuel Contreras Sepúlveda y Pedro Espinoza Bravo,* ministro instructor Adolfo Bañados, tomo 1, scan at https://www.latinamericanstudies.org/MNC/Causa-Contreras-Espinoza-1991.pdf. Quotations translated from the Spanish, letter rogatory, Exp. 20931, questionnaire; declaración of Michael Vernon Townley Welch, March 29, 1978.
+[^6]: Fiscalía Militar Ad-Hoc, Santiago, causa 192-78, as reproduced in *Proceso contra Manuel Contreras Sepúlveda y Pedro Espinoza Bravo,* tomo 2, scan at https://www.latinamericanstudies.org/MNC/Causa-Contreras-Espinoza-1991-2.pdf. Quotations translated from the Spanish, sworn declaration of Admiral Ronald McIntyre, 1978.

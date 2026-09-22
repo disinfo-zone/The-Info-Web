@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-09-21
 title: Uri Geller
 aliases:
   - Uri Geller
@@ -15,7 +15,7 @@ tags:
   - RemoteViewing
   - 1970s
   - 1980s
-summary: "Uri Geller is an Israeli-British illusionist and psychic claimant who was tested by Stanford Research Institute under CIA contract in 1972-1973, reportedly worked for Israeli military intelligence on clairvoyance taskings, and became the most publicly known subject of the U.S. government's parapsychology program."
+summary: "Israeli performer tested at Stanford Research Institute in 1972 and 1973 with Technical Services Division money, whom a CIA reviewer thought no more than a skillful magician."
 born: 1946-12-20
 location: "Tel Aviv, British Mandate Palestine"
 ---
@@ -34,7 +34,12 @@ After leaving SRI, Geller continued his career as an entertainer and reportedly 
 
 In the winter of 1975, Geller was tested by a group of nuclear physicists and engineers from [[Lawrence Livermore National Laboratory]]. The tests, which included attempts to interfere with laser beams and erase magnetic computer program cards, were conducted to assess the potential threat of psychokinesis to nuclear weapons systems. While the scientists concluded that Geller's abilities were not effective over long distances, they experienced a series of bizarre, hallucination-inducing phenomena after their involvement with him, which became known as the "[[Geller Effect]]."[^2]
 
+### The 1973 Memorandum
+
+On January 23, 1973, Russell Targ and Hal Puthoff showed a CIA audience a film of their experiments with "Uri Geller, an Israeli magician with claimed capabilities in ESP." The Office of Research and Development's memorandum of the next day recorded that "the SRI work with Geller has been supported by Edgar Mitchell's foundation, by something with a name like Mind Science Institute of Los Angeles, and by TSD," the [[Technical Services Division]]. The film showed Geller reproducing sealed drawings, calling dice, finding metal or water in one of twelve containers, "and bending spoons by touching them with apparently much less force than would be required normally." The writer added: "On the basis of meetings I have attended at ARPA, whose Drs. Austin Kibler and George Lawrence have been to SRI to observe Geller, Puthoff and Targ in action, there is serious doubt that Geller's accomplishment transcends the range of activities a skillful magician can perform and much concern that Puthoff's and Targ's own experimental bias in favor of successful outcomes is undermining their objectivity in designing properly controlled experimental procedures. Geller's connections with Dr. A. Puharich, with whom many unsavory reports have been linked, also is disturbing." He recommended asking TSD about "their plans for future research at SRI, both with Geller and with other subjects such as Ingo Swann," and noted that one manager in the science and technology directorate had said he was "humbled" by the film. A further file, "Experiments - Uri Geller at SRI, August 4-11, 1973," is in the same collection.[^3]
+
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.
+[^3]: Central Intelligence Agency, Office of Research and Development, memorandum ORD-413-73, "Briefing by Stanford Research Institute," January 24, 1973, CIA-RDP96-00787R000400070029-2. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. "Experiments - Uri Geller at SRI, August 4-11, 1973," CIA-RDP96-00787R000700110003-2, not read.

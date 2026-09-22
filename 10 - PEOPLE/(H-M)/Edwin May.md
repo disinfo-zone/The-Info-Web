@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-21
 title: Edwin May
 aliases:
   - Edwin May
@@ -16,7 +16,7 @@ tags:
   - 1980s
   - 1990s
 category: "Intelligence & Government"
-summary: "Edwin May is a particle physicist who succeeded Hal Puthoff as principal investigator of the government's remote viewing research program in 1985, moved the program from SRI to SAIC in 1991, and directed the program's final phase until its 1995 declassification and termination."
+summary: "Particle physicist who succeeded Puthoff as principal investigator of the remote-viewing research at SRI in 1985, moved it to SAIC in 1991, and chose the ten experiments the 1995 AIR panel reviewed."
 location: "Palo Alto, California"
 ---
 
@@ -34,9 +34,7 @@ In 1991, SRI withdrew from the remote viewing research contract. May negotiated 
 
 ### AIR Evaluation and Termination
 
-When the CIA, which had taken over program management from DIA in 1991, commissioned the [[American Institutes for Research]] to evaluate the STAR GATE program in 1995, May's experimental database from the SAIC phase provided the primary data for [[Jessica Utts]]'s positive assessment. Utts, a University of California Davis statistician, concluded that May's experimental results met the statistical standard for establishing an anomalous effect. [[Ray Hyman]], the skeptical evaluator, acknowledged the statistical results but argued that methodological weaknesses precluded firm conclusions.
-
-The AIR report recommended termination. May disagreed with this recommendation but accepted that the decision had been made. He argued that the program was ended before the science had matured sufficiently to determine whether operational applications were feasible, and that the AIR evaluation's split findings indicated genuine uncertainty rather than a resolved negative conclusion.
+When the CIA, which had taken custody of the program from the DIA in 1995 at the direction of Congress, contracted the American Institutes for Research in June 1995 to evaluate it ([[1995 AIR evaluation of Star Gate]]), May, as principal investigator, was asked "to list those studies which he believes provide the strongest evidence" and every unique study since the 1988 National Research Council report. His memorandum of July 25, 1995, listed ten SAIC experiments, among them "Entropy II" (90 trials, effect size 0.550, p = 9.1 × 10^-8), "ERD AC Behavior" (70 trials, 0.303), "Remote observation" (48 trials, 0.361), and "AC with binary coding" (40 trials, −0.067). [[Jessica Utts]] took them, with the 1988 analysis of the SRI database, as establishing that "psychic functioning has been well established"; [[Ray Hyman]] agreed the effects were "too large and consistent to be dismissed as statistical flukes" but held that ten experiments from one laboratory could not establish a phenomenon. May told the panel that "approximately 20 percent of the information supplied by a viewer is accurate," and AIR noted that throughout the experiments "only one judge, apparently the Principal Investigator, was used in assessing matches." The report of September 29, 1995, recommended against continuing the operational program. May's commentary in the *Journal of Parapsychology* the next year described the review as the result of "a Congressionally Directed Activity" and gave the report's public release as November 28, 1995.[^1]
 
 ### Post-STARGATE Research
 
@@ -46,5 +44,4 @@ May continued to serve as a consultant on anomalous cognition research for acade
 
 ### Footnotes
 
-[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017, pp. 266-310. Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, pp. 362-390.
-[^2]: Hyman, Ray, and Jessica Utts. "An Evaluation of Remote Viewing: Research and Applications." American Institutes for Research, September 29, 1995 (declassified; the evaluation of the May-era SAIC research). May, Edwin C. "The American Institutes for Research Review of the Department of Defense's STARGATE Program." *Journal of Parapsychology* 60 (1996): 3-23.
+[^1]: Mumford, Michael D., Andrew M. Rose, and David A. Goslin. *An Evaluation of Remote Viewing: Research and Applications.* American Institutes for Research, September 29, 1995, pp. 2-3, 3-18, 3-67, 5-2. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf May, Edwin C. "The American Institutes for Research Review of the Department of Defense's STAR GATE Program: A Commentary," *Journal of Parapsychology,* vol. 60, no. 1, 1996, pp. 3-23, abstract only.

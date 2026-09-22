@@ -7,7 +7,7 @@ aliases:
   - Bush 41
 category: "Intelligence & Government"
 created: 2024-04-25
-updated: 2026-05-17
+updated: 2026-09-21
 tags:
   - Person
   - Israel
@@ -30,8 +30,11 @@ The [[Medellin Cartel|Medellín Cartel]] reportedly made a deal with Vice Presid
 
 At the same time Reagan and Bush were publicly whipping the American public into a frenzy over street-corner crack dealers, [[Oliver North]] and other top administration officials were livid that Contra-connected drug trafficker General [[Jose Bueso Rosa]] had even been charged with a crime. North's computer messages about Bueso Rosa illustrated how skewed the Reagan administration's sense of justice had become regarding its "War on Drugs." [[Scott Weekly]], a figure connected to the CIA and the Hasenfus shootdown, claimed on tape that he reported to people who reported to Bush.[^3]
 
+As director of central intelligence in 1976 Bush was briefed on the CIA's remote-viewing research at [[Stanford Research Institute]] after the agency learned that Soviet visitors were "questioning Puthoff and Targ at SRI," and left office before reacting. As vice president, on August 3, 1983, he "was briefed for thirty minutes concerning [[Center Lane|CENTER LANE]] related activities by Dr. [[Jack Vorona]], DIA," the Army's remote-viewing unit, with "Adm. Murphy, C/S," and "Mr. Gregg" present; INSCOM's chronology records that "the briefing was well received and the Vice President was interested and impressed."[^4]
+
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends"
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter"
+[^4]: Kress, Kenneth A. "Parapsychology in Intelligence: A Personal Review and Conclusions," *Studies in Intelligence,* vol. 21, no. 4, winter 1977, declassified, document NSA-RDP96X00790R000100010031-3; reprinted with the author's postscript of January 1999 in *Journal of Scientific Exploration,* vol. 13, no. 1, 1999. US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

@@ -5,11 +5,15 @@ tags:
   - RemoteViewer
   - DIA
   - STARGATE
-summary: "Angela Dellafiora (later Ford) was a Defense Intelligence Agency analyst and STAR GATE remote viewer hired in 1986 who developed a distinctive automatic writing technique known as Written Remote Viewing (WRV) and testified as an expert witness in the 1994 David Morehouse court-martial."
+summary: "INSCOM analyst who joined the DIA's remote-viewing unit at Fort Meade in 1986, worked by automatic writing, and gave the location of the fugitive customs agent Charles Jordan in 1989."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-09-21
 location: "Maryland, USA"
+alias:
+  - Angela Dellafiora Ford
+  - Angela Ford
 ---
+
 Angela Dellafiora, later known as Angela Ford after marriage, was a [[Defense Intelligence Agency]] (DIA) intelligence analyst based in Maryland. The DIA hired her in 1986 to participate in [[STARGATE PROJECT|Project STAR GATE]], the government's classified remote-viewing program, in which she worked for nine years.[^1]
 
 ### Written Remote Viewing
@@ -30,8 +34,18 @@ In the winter of 1994, [[Al Girard]], who had succeeded [[Dale Graff]] as head o
 
 After leaving government service, Dellafiora marketed herself publicly as a medium offering connections with spirit guides and deceased individuals.
 
+### The Documents
+
+Angela Dellafiora, later Ford, was a civilian analyst on Latin America at [[United States Army Intelligence and Security Command|INSCOM]] who joined the DIA's remote-viewing unit at [[Fort Meade]], then called [[Sun Streak]], in early 1986, and stayed until the program closed in 1995. She worked by automatic writing in a trance, attributing the results to figures she called George, Dr. Einstein, and Maurice.[^4]
+
+### The Jordan Case
+
+In the spring of 1989 the [[United States Customs Service|Customs Service]] asked the unit for help finding Charles Jordan, a customs agent in south Florida who had fled under suspicion of taking bribes; eighteen sessions were logged that year. Dale Graff, who ran the unit, later wrote that she placed him in "an area of northern Wyoming near a campground," or "near a place that sounds like Lowell, an Indian burial place nearby," and that "our data was not acted upon"; a former customs official said "I made sure that the police in Wyoming were made aware of the possibility." The skeptic [[Joe Nickell]], reviewing the accounts in 2001, found "no official, detailed record to specify just what information was supplied," Graff conceding that "some of the pieces are not in the files," and noted that police had separately spotted Jordan's vehicle near [[Denver]]. Of the forty viewings of 1994 and 1995 rated by customers for the AIR review, those for one organization, "concerned with tracking people," scored higher than the rest.[^4][^5]
+
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.
 [^2]: "Remotely Viewed? The Charlie Jordan Case," *Skeptical Inquirer,* Center for Inquiry. https://skepticalinquirer.org/newsletter/remotely-viewed-the-charlie-jordan-case/
 [^3]: "Angela Ford - A Deep Dive Into Automatic Writing with a Project Star Gate Remote Viewer," Global Meditation Podcast, Spotify. https://open.spotify.com/episode/53JbXdjiXJNyzoh1cePQYq
+[^4]: Nickell, Joe. "Remotely Viewed? The Charlie Jordan Case," *Skeptical Inquirer,* c. 2001, read in summary, citing Graff, Dale. *Tracks in the Psychic Wilderness* (1998) and *River Dreams* (2000), and Anderson and Moller, *Washington Post,* 1996.
+[^5]: Mumford, Michael D., Andrew M. Rose, and David A. Goslin. *An Evaluation of Remote Viewing: Research and Applications.* American Institutes for Research, September 29, 1995, p. 4-14.

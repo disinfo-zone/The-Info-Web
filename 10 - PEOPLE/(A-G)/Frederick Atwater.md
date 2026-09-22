@@ -1,11 +1,13 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-21
 title: Frederick Atwater
 aliases:
   - Frederick Atwater
   - Skip Atwater
   - Frederick Holmes Atwater
+  - F. Holmes Atwater
+  - Frederick H. Atwater
 tags:
   - Person
   - Military
@@ -16,7 +18,7 @@ tags:
   - 1970s
   - 1980s
 category: "Military"
-summary: "Frederick 'Skip' Atwater was the U.S. Army intelligence officer who proposed and organized the military remote viewing program at Fort Meade in 1977, recruited and managed the original STARGATE viewers including Joe McMoneagle and Mel Riley, and served as the program's operations officer until his retirement in 1987."
+summary: "Army lieutenant of the 902d Military Intelligence Group attached to Grill Flame in 1978 for his earlier research, who screened the first Army remote viewers and was acting project manager of Center Lane in 1983."
 born: 1947-01-01
 location: "Glendale, California"
 ---
@@ -45,7 +47,14 @@ Atwater retired from the Army approximately in 1987. He subsequently joined the 
 
 He published a memoir, *Captain of My Ship, Master of My Soul: Living with Guidance* (Hampton Roads, 2001), describing his Army remote viewing career and subsequent work at the Monroe Institute. In 2024, he published *Project 8200: UFO/UAP Bases and Activities: The Original Remote Viewing Transcripts*, presenting declassified STARGATE session transcripts.
 
+### The Documents
+
+Frederick H. Atwater, known as Skip, was a lieutenant in the Special Security Detachment of the 902d Military Intelligence Group at Fort Meade when INSCOM began its remote-viewing project in October 1978. The project manager, Major Murray Watt, reported in February 1979 that "the initial concern of the Project Manager (PM) was to develop a full understanding of parapsychology and the various aspects of the phenomena. Towards this end, the PM has been greatly assisted by Lieutenant Frederick H. Atwater. LT Atwater, although assigned to the Special Security Detachment, 902d MI Group, was attached to the GRILL FLAME project because of previous research into this area during work on a separate project." Watt and Atwater "were busy preparing a method that would help them select the INSCOM personnel who would volunteer for participation," considering 251 and interviewing 117, and on January 12, 1979, the two visited the Army Materiel Systems Analysis Activity at [[Aberdeen Proving Ground]], which was running its own tests of the SRI protocol.[^1]
+
+He remained the unit's operations officer through Grill Flame and [[Center Lane]]. INSCOM's chronology records for August 1983: "CPT Frederick Atwater assumes duties as Acting Project Manager," between Lieutenant Colonel Robert Jachim's departure and Lieutenant Colonel Brian Buzby's arrival on August 15. Published accounts by participants credit him with recruiting the first six viewers, among them Joe McMoneagle and Mel Riley, and with the unit's training in [[Robert Monroe]]'s Hemi-Sync method, which the Center Lane briefing dates to the end of 1980. After retiring from the Army in 1988 he became research director of the Monroe Institute's laboratory and, in 2006, its president, and was a founder and president of the International Remote Viewing Association.[^1][^2][^3]
+
 ### Footnotes
 
-[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017, pp. 103-130 (comprehensive account of Atwater's STARGATE role). Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, pp. 135-170.
-[^2]: Atwater, Frederick Holmes. *Captain of My Ship, Master of My Soul: Living with Guidance.* Hampton Roads, 2001.
+[^1]: US Army Intelligence and Security Command, "INSCOM Project Grill Flame: Progress Report #1," February 21, 1979, with enclosures, CIA-RDP96-00788R001100070001-3. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^2]: US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. US Army Intelligence and Security Command, "Briefing - Project Center Lane," c. 1984, CIA-RDP96-00789R002100180002-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^3]: Monroe Institute and International Remote Viewing Association biographical notices, and Atwater, F. Holmes. *Captain of My Ship, Master of My Soul.* Hampton Roads, 2001, not read; McMoneagle, Joseph. *The Stargate Chronicles.* Hampton Roads, 2002.

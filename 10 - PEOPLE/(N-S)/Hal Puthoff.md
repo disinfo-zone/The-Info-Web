@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-21
 title: Hal Puthoff
 aliases:
   - Hal Puthoff
@@ -20,7 +20,7 @@ tags:
   - 1990s
   - 2000s
 category: "Intelligence & Government"
-summary: "Harold E. 'Hal' Puthoff is a physicist who co-founded the Stanford Research Institute remote viewing program with Russell Targ in 1972 under CIA contract, served as its principal investigator through 1985, and later contributed technical research to the Advanced Aerospace Threat Identification Program."
+summary: "Physicist who founded the CIA-funded remote-viewing program at Stanford Research Institute in 1972 with Russell Targ, ran it until 1985, and later worked on the Pentagon's AATIP."
 born: 1936-06-20
 location: "Chicago, Illinois"
 ---
@@ -45,13 +45,19 @@ On June 27, 1972, Puthoff wrote formally to [[Kit Green]] at the CIA's Life Scie
 
 Puthoff hired Targ as a research colleague, and together they developed the remote viewing experimental protocol: a subject remained at SRI while a second experimenter traveled to a randomly selected target site; the subject attempted to describe the target through verbal description and drawings; independent judges blindly matched transcripts to target sites.
 
+### The 1996 Account
+
+After the CIA declassified 270 pages of SRI reports in July 1995, Puthoff published his own account. In early 1972, doing laser research at SRI, he had written a proposal that Ingo Swann saw at [[Cleve Backster]]'s laboratory and wrote to him, and Puthoff invited him for a week in June 1972. He arranged access to "a well-shielded magnetometer used in a quark-detection experiment in the Physics Department at Stanford University," in a vault beneath the floor "shielded by mu-metal shielding, an aluminum container, copper shielding and a superconducting shield"; Swann "appeared to perturb the operation of the magnetometer" and then "went on to 'remote view' the interior of the apparatus, rendering by drawing a reasonable facsimile of its rather complex (and heretofore unpublished) construction." Within weeks "a pair of visitors showed up at SRI with the above report in hand. Their credentials showed them to be from the CIA. They knew of my previous background as a Naval Intelligence Officer and then civilian employee at the National Security Agency," and spoke of "increasing concern in the intelligence community about the level of effort in Soviet parapsychology being funded by the Soviet security services." An eight-month "Biofield Measurements Program" of 49,909 dollars followed, and Russell Targ joined; the second year, January 1974 to February 1975, was funded at 149,555 dollars. The first coordinate target, "the West Virginia Site," produced from one subject "a detailed map of the building and grounds layout" and from the other "information about the interior including codewords, data subsequently verified by sponsor sources"; Pat Price then "went on to scan the other side of the globe for a Communist Bloc equivalent and found one located in the Urals," also "verified by personnel in the sponsor organization as being substantially correct." The [[Semipalatinsk]] experiment of July 1974, "carried out in three phases," was "under direct control of the COTR," and "several details concerning the salient technology of the Semipalatinsk site appeared to dovetail with data from other sources, and a number of specific large structural elements were correctly described." The CIA "dropped out as a major player in the mid-seventies due to pressure on the Agency (unrelated to the RV Program) from the Church-Pike Congressional Committee," and Major General [[Edmund Thompson]], the Army's assistant chief of staff for intelligence from 1977 to 1981, said: "I had one or more briefings by SRI and was impressed. The decision I made was to set up a small, in-house, low-cost effort in remote viewing." One application, Puthoff noted, "yielded not only a published, statistically significant result, but also a return of $26,000 in 30 days in the silver futures market." The article does not mention [[Scientology]].[^1]
+
 ### Protocol Development and Pat Price
 
 Swann's suggestion to use geographic coordinates rather than outbound experimenters as the targeting mechanism - initially resisted by Puthoff and Targ as theoretically implausible - proved to generate consistent results and became the basis of Coordinate Remote Viewing (CRV), the structured methodology used throughout the government program.
 
-Pat Price, a retired Burbank police commissioner introduced to the program in 1973, produced what Puthoff considered the most operationally significant results of the SRI period. Price's remote viewing of the Soviet URDF-3 facility near [[Semipalatinsk]] - describing a large gantry crane, spherical metal objects estimated at 60 feet in diameter under construction, and a novel welding technique - was subsequently evaluated against classified satellite photography and assessed as substantially accurate. Price and Swann's subsequent remote viewing of the [[National Security Agency|NSA]] signals intelligence facility at Sugar Grove, West Virginia, triggered an NSA security investigation into whether remote viewing, if genuine, represented a vulnerability for classified installations.
+Pat Price, a retired Burbank police commissioner introduced to the program in 1973, produced what Puthoff considered the most operationally significant results of the SRI period. Price's remote viewing of the Soviet URDF-3 facility near Semipalatinsk - describing a large gantry crane, spherical metal objects estimated at 60 feet in diameter under construction, and a novel welding technique - was subsequently evaluated against classified satellite photography and assessed as substantially accurate. Price and Swann's subsequent remote viewing of the NSA signals intelligence facility at Sugar Grove, West Virginia, triggered an NSA security investigation into whether remote viewing, if genuine, represented a vulnerability for classified installations.
 
 Price died of a reported heart attack in [[Las Vegas]] in July 1975, under circumstances Puthoff considered potentially suspicious. His suitcase of remote viewing notes and CIA materials disappeared before Puthoff arrived in Las Vegas. No evidence of foul play was established.
+
+On September 26, 1977, Puthoff sent Dave Johnson, whose office the memorandum does not give, the reply of Senator [[William Proxmire]] to a letter from a Wisconsin-born colleague: "Since fear of the 'Proxmire Effect' is often cited in discussions with sponsors and potential sponsors, I asked a friend of mine in psychoenergetics research to query his senator with regard to this field."[^2]
 
 ### Published Research
 
@@ -73,6 +79,5 @@ Puthoff became a founding member and scientific advisor to To the Stars Academy 
 
 ### Footnotes
 
-[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017, pp. 28-90 (comprehensive account of Puthoff's SRI career). Puthoff, Harold E., and Russell Targ. "Information Transmission Under Conditions of Sensory Shielding." *Nature* 251 (October 1974): 602-607. Puthoff, Harold E., and Russell Targ. "A Perceptual Channel for Information Transfer over Kilometer Distances." *Proceedings of the IEEE* 64, no. 3 (March 1976): 329-354.
-[^2]: CIA FOIA Reading Room, document CIA-RDP96-00791R000200030006-8 (Puthoff letter to Green, June 27, 1972). Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997.
-[^3]: Elizondo, Luis. *IMMINENT: Inside the Pentagon's Hunt for UFOs.* William Morrow, 2024. Lacatski, James T., Colm A. Kelleher, and George Knapp. *Skinwalkers at the Pentagon: An Insider's Account of the Secret Government UAP Program.* RTMA, 2021.
+[^1]: Puthoff, H. E. "CIA-Initiated Remote Viewing Program at Stanford Research Institute," *Journal of Scientific Exploration,* vol. 10, no. 1, 1996, pp. 63-76. Read in a mirror copy; the journal's own site refused the fetch.
+[^2]: Puthoff, H. E., memorandum to Dave Johnson, "Proxmire Response Re Psychoenergetics," September 26, 1977, CIA-RDP96-00787R000200020042-4. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

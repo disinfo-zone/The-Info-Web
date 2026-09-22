@@ -18,10 +18,13 @@ Graff's interest in [[Psi|psi]] phenomena stemmed from a personal experience in 
 
 He authored the 1977 report "[[Paraphysics R&D - Warsaw Pact]]," which highlighted Soviet research in electromagnetic fields, quantum physics, and [[Psychokinesis]]. This report, along with his advocacy, contributed to the DoD's decision to officially fund a psychic research program.[^1]
 
-Graff was instrumental in the establishment and management of the [[STARGATE PROJECT|Grill Flame]] program. He collaborated with [[Hal Puthoff]] and [[Russell Targ]] of [[Stanford Research Institute|SRI]] and oversaw the remote viewing unit at [[Fort Meade]]. He was involved in numerous operational taskings, including the successful remote viewing of a new Chinese nuclear device and the location of a lost Soviet bomber in Zaire.[^1]
+Graff was instrumental in the establishment and management of the Grill Flame program. He collaborated with [[Hal Puthoff]] and [[Russell Targ]] of [[Stanford Research Institute|SRI]] and oversaw the remote viewing unit at [[Fort Meade]]. He was involved in numerous operational taskings, including the successful remote viewing of a new Chinese nuclear device and the location of a lost Soviet bomber in Zaire.[^1]
 
-Graff later became the overall manager of the [[STARGATE PROJECT|Stargate Project]] under the [[Defense Intelligence Agency|DIA]], where he sought to develop a general theory for psychic phenomena. He also played a role in the program's involvement in the Iran hostage crisis and the search for General Dozier.[^1]
+Graff later became the overall manager of the Stargate Project under the [[Defense Intelligence Agency|DIA]], where he sought to develop a general theory for psychic phenomena. He also played a role in the program's involvement in the Iran hostage crisis and the search for General Dozier.[^1]
 
----
+Graff attended the first meeting of the Defense Department's Grill Flame committee on November 28, 1978, and the committee's minutes of 1979 list him at Wright-Patterson Air Force Base, the Air Force Foreign Technology Division, reporting to the group in July 1979 "that the Japanese student who effects photographic film is to visit the US."[^2]
+
+### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: Defense Intelligence Agency, minutes of the DoD Grill Flame Committee, November 28, 1978 (enclosed in Progress Report #1), July 12, 1979 (CIA-RDP96-00788R002000130008-9), November 27, 1979 (CIA-RDP96-00788R002000130015-1), and January 10, 1980 (CIA-RDP96-00788R002000100009-1). Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
