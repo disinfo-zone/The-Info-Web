@@ -4,7 +4,7 @@ aliases:
   - Earl Brian
   - Earl W. Brian
 created: 2024-04-25
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Key Figures"
 tags:
   - Person
@@ -25,7 +25,7 @@ Brian's relationship with Meese predated their time in state government. Both me
 
 ### Role in the PROMIS Software Scandal
 
-Brian became the central figure in [[INSLAW]]'s allegation that the [[Department of Justice]] stole the [[PROMIS]] software and distributed it internationally in exchange for political favors. [[Bill Hamilton]] and [[Nancy Hamilton]], INSLAW's owners, alleged that Brian had spearheaded a plan for worldwide exploitation of PROMIS after acquiring it, through DOJ contracting officer [[Peter Videnieks]], with the intent to both raise off-the-books funds for covert government operations and to benefit [[Hadron]], which stood to acquire INSLAW's client base if the company were driven into bankruptcy.[^1]
+Brian became the central figure in [[INSLAW]]'s allegation that the [[Department of Justice]] stole the [[PROMIS]] software and distributed it internationally in exchange for political favors. [[Bill Hamilton]] and [[Nancy Hamilton]], INSLAW's owners, alleged that Brian had spearheaded a plan for worldwide exploitation of PROMIS after acquiring it, through DOJ contracting officer [[Peter Videnieks]], with the intent to both raise off-the-books funds for covert government operations and to benefit Hadron, which stood to acquire INSLAW's client base if the company were driven into bankruptcy.[^1]
 
 The scale of the alleged scheme: $6 million worth of software stolen from the Hamiltons was allegedly sold by the DOJ through Brian for use in covert operations.[^3]
 
@@ -37,9 +37,9 @@ The House Judiciary Committee's September 1992 report (House Report 102-857) des
 
 ### Hadron and the DOJ Connection
 
-Brian owned [[Hadron]] at the time of Riconosciuto's 1992 drug trial in Tacoma, Washington. During that trial, [[Peter Videnieks]] testified about his contact with PROMIS software but denied ever hearing of the Wackenhut-Cabazon joint venture or meeting Brian. When pressed about his familiarity with Hadron and its ownership, Videnieks was evasive; he acknowledged knowing Hadron existed but declined to elaborate on any connection to Brian.[^3]
+Brian owned Hadron at the time of Riconosciuto's 1992 drug trial in Tacoma, Washington. During that trial, Peter Videnieks testified about his contact with PROMIS software but denied ever hearing of the Wackenhut-Cabazon joint venture or meeting Brian. When pressed about his familiarity with Hadron and its ownership, Videnieks was evasive; he acknowledged knowing Hadron existed but declined to elaborate on any connection to Brian.[^3]
 
-The Bua Report investigation surfaced a reference to "Project Eagle," a multi-million dollar DOJ technology modernization initiative, in connection with Brian. Jensen denied any involvement in awarding Project Eagle contracts. The Report noted that the project's Request for Proposals was issued in May 1986 - while Jensen was still at DOJ - though Jensen was appointed to the bench the following month.[^2]
+The Bua Report investigation surfaced a reference to "[[Project Eagle]]," a multi-million dollar DOJ technology modernization initiative, in connection with Brian. Jensen denied any involvement in awarding Project Eagle contracts. The Report noted that the project's Request for Proposals was issued in May 1986 - while Jensen was still at DOJ - though Jensen was appointed to the bench the following month.[^2]
 
 ### October Surprise Allegations
 
@@ -55,7 +55,7 @@ Brian was never charged with any crime in connection with the PROMIS affair. His
 
 ### Financial News Network and UPI
 
-In July 1993 the Securities and Exchange Commission charged Brian and three others with fraudulently inflating the revenue and earnings of the Financial News Network, the Los Angeles cable channel controlled with United Press International by his holding company Infotechnology, Inc.; he settled without admitting or denying the charges and consented to a permanent injunction. A federal grand jury in the Central District of California returned a 24-count indictment in June 1994, unsealed on September 5, 1995, charging Brian, then Infotechnology's chairman, and its chief operating officer John F. Berentson with lying to obtain 56 million dollars in loans from Security Pacific and Toronto-Dominion in 1989 by falsifying FNN's books through fictitious equipment leases and inter-company billings; FNN's chief financial officer C. Steven Bolen and Gary A. Prince pleaded guilty and cooperated. FNN, which lost 72.4 million dollars in fiscal 1990, and UPI, whose management rights Infotechnology had bought in February 1988, both entered Chapter 11 in 1991. On October 17, 1996, after a four-month trial in Los Angeles, a jury convicted Brian on ten counts including conspiracy and bank and securities fraud, deadlocking on the rest; he was ordered to report to prison on August 18 of the following year to serve a term reported as four and a half years, and appealed. Hadron continued as a public company, was renamed Analex Corporation in 2002 and ceased reporting in 2007.[^6]
+In July 1993 the Securities and Exchange Commission charged Brian and three others with fraudulently inflating the revenue and earnings of the [[Financial News Network]], the Los Angeles cable channel controlled with [[United Press International]] by his holding company Infotechnology, Inc.; he settled without admitting or denying the charges and consented to a permanent injunction. A federal grand jury in the Central District of California returned a 24-count indictment in June 1994, unsealed on September 5, 1995, charging Brian, then Infotechnology's chairman, and its chief operating officer John F. Berentson with lying to obtain 56 million dollars in loans from Security Pacific and Toronto-Dominion in 1989 by falsifying FNN's books through fictitious equipment leases and inter-company billings; FNN's chief financial officer C. Steven Bolen and Gary A. Prince pleaded guilty and cooperated. FNN, which lost 72.4 million dollars in fiscal 1990, and UPI, whose management rights Infotechnology had bought in February 1988, both entered Chapter 11 in 1991. On October 17, 1996, after a four-month trial in Los Angeles, a jury convicted Brian on ten counts including conspiracy and bank and securities fraud, deadlocking on the rest; he was ordered to report to prison on August 18 of the following year to serve a term reported as four and a half years, and appealed. On October 3, 2000, he moved to vacate his sentence under 28 U.S.C. § 2255 in the Central District of California; the motion, assigned to Judge Ronald S. W. Lew, was closed on February 22, 2001.[^7] Hadron continued as a public company, was renamed Analex Corporation in 2002 and ceased reporting in 2007.[^6]
 
 ### Footnotes
 
@@ -65,3 +65,4 @@ In July 1993 the Securities and Exchange Commission charged Brian and three othe
 [^4]: U.S. Senate, Permanent Subcommittee on Investigations. *The Inslaw Affair.* September 1989.
 [^5]: *Brian v. Richardson,* 87 N.Y.2d 46, 660 N.E.2d 1126 (N.Y. 1995). https://www.law.cornell.edu/nyctap/I95_0246.htm
 [^6]: "Former UPI execs charged with fraud," United Press International, September 6, 1995. https://www.upi.com/Archives/1995/09/06/Former-UPI-execs-charged-with-fraud/3824810360000/ ; Gersh, Debra, "SEC Accuses Former UPI Chief of Fraud," *Editor & Publisher,* July 10, 1993 (headline and date only); Fricker, Richard L., "Earl Brian: Reagan's 'Scandal Man' Off to Jail," *The Consortium,* 1997. https://www.consortiumnews.com/archive/xfile11.html ; Securities and Exchange Commission, EDGAR filing history for Hadron, Inc., CIK 0000044800. Fricker gives the reporting date as "Aug. 18" without a year; the sentencing order and the disposition of the appeal were not located.
+[^7]: *Earl W. Brian v. United States,* No. 2:00-cv-10607 (C.D. Cal.), docket and Federal Judicial Center Integrated Database record, CourtListener. https://www.courtlistener.com/docket/11266534/earl-w-brian-v-united-states/ The disposition of the motion is recorded only as "Other"; the underlying criminal docket and any appellate disposition were not located.

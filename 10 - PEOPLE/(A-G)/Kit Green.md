@@ -36,7 +36,7 @@ Green's assessment of the Geller results was qualified: he acknowledged that the
 
 ### Sugar Grove and Sensitive Facility Remote Viewing
 
-Green was the CIA officer informed of and involved in evaluating the Sugar Grove incident, in which [[Pat Price]] and [[Ingo Swann]] were provided geographic coordinates corresponding to a classified [[NSA]] signals intelligence facility at Sugar Grove, West Virginia, and independently produced detailed descriptions of the installation. The accuracy of the descriptions - which included internal organizational details not publicly available - created significant concern within the NSA about whether the remote viewing program represented a security vulnerability for highly classified facilities. Green managed the CIA's response to NSA's concerns about the implications of the result.[^2]
+Green was the CIA officer informed of and involved in evaluating the Sugar Grove incident, in which [[Pat Price]] and [[Ingo Swann]] were provided geographic coordinates corresponding to a classified [[NSA]] signals intelligence facility at Sugar Grove, [[West Virginia]], and independently produced detailed descriptions of the installation. The accuracy of the descriptions - which included internal organizational details not publicly available - created significant concern within the NSA about whether the remote viewing program represented a security vulnerability for highly classified facilities. Green managed the CIA's response to NSA's concerns about the implications of the result.[^2]
 
 ### Esalen and the Soviet Exchange Program
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - American Institute for Free Labor Development
 category: "Private Organization"
 tags:
   - Organization

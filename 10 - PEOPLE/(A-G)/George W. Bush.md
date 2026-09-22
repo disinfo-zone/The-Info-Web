@@ -18,7 +18,7 @@ George Walker Bush was born on July 6, 1946, in New Haven, Connecticut, the elde
 
 ### Pre-Presidential Background
 
-George W. Bush attended [[Yale University]] (B.A. 1968) and [[Harvard]] Business School (M.B.A. 1975). He served as a pilot in the Texas Air National Guard from 1968-1973, a period characterized by disputed questions about fulfillment of service obligations that became a recurring political issue. He entered the oil industry in Texas ([[Arbusto Energy]], later merged into [Harken Energy]]) before entering politics. His father [[George H.W. Bush]] had served as CIA Director (1976-1977), Vice President (1981-1989), and President (1989-1993), giving the younger Bush direct family familiarity with the intelligence community at the highest levels.[^2]
+George W. Bush attended [[Yale University]] (B.A. 1968) and [[Harvard]] Business School (M.B.A. 1975). He served as a pilot in the Texas Air National Guard from 1968-1973, a period characterized by disputed questions about fulfillment of service obligations that became a recurring political issue. He entered the oil industry in Texas ([[Arbusto Energy]], later merged into [Harken Energy]]) before entering politics. His father George H.W. Bush had served as CIA Director (1976-1977), Vice President (1981-1989), and President (1989-1993), giving the younger Bush direct family familiarity with the intelligence community at the highest levels.[^2]
 
 ### 9/11 and the Decision for War
 
@@ -36,7 +36,7 @@ The CIA operated a network of "black sites" - secret detention facilities in cou
 
 ### NSA Warrantless Surveillance
 
-Bush authorized a program known as "[[Stellar Wind]]" (later "President's Surveillance Program") that allowed the [[NSA]] to collect telephone and internet communications of Americans in contact with persons overseas without obtaining the Foreign Intelligence Surveillance Court warrants required by the [[Foreign Intelligence Surveillance Act]] (FISA). The program was revealed publicly by the New York Times in December 2005. The revelation led to significant congressional controversy, emergency retroactive legal justifications, and later became the template for the bulk collection authorities expanded under the FISA Amendments Act of 2008. [[Edward Snowden]]'s 2013 disclosures established that Stellar Wind was among the early programs in a broader NSA surveillance architecture that had expanded substantially beyond its original authorization.[^1]
+Bush authorized a program known as "[[Stellar Wind]]" (later "President's Surveillance Program") that allowed the [[NSA]] to collect telephone and internet communications of Americans in contact with persons overseas without obtaining the [[Foreign Intelligence Surveillance Court]] warrants required by the [[Foreign Intelligence Surveillance Act]] (FISA). The program was revealed publicly by the New York Times in December 2005. The revelation led to significant congressional controversy, emergency retroactive legal justifications, and later became the template for the bulk collection authorities expanded under the FISA Amendments Act of 2008. [[Edward Snowden]]'s 2013 disclosures established that Stellar Wind was among the early programs in a broader NSA surveillance architecture that had expanded substantially beyond its original authorization.[^1]
 
 ### Footnotes
 

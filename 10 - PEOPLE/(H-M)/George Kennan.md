@@ -1,6 +1,6 @@
 ﻿﻿---
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-09-22
 title: George Kennan
 aliases:
   - George F. Kennan
@@ -41,7 +41,7 @@ He served again as Ambassador to [[Yugoslavia]] under President [[John F. Kenned
 
 ### Opposition to U.S. Policy
 
-Kennan's post-government career was marked by consistent opposition to the applications of containment he had not intended. He argued against nuclear weapons, against the hydrogen bomb program, against the [[Korean War]]'s expansion beyond the 38th parallel, against the [[Vietnam War]], and most persistently against NATO's nuclear posture and eventual eastward expansion.
+Kennan's post-government career was marked by consistent opposition to the applications of containment he had not intended. He argued against nuclear weapons, against the [[Hydrogen Bomb|hydrogen bomb]] program, against the [[Korean War]]'s expansion beyond the 38th parallel, against the [[Vietnam War]], and most persistently against NATO's nuclear posture and eventual eastward expansion.
 
 His 1957 BBC Reith Lectures proposed a mutual [[United States|American]] and Soviet military withdrawal from Central Europe - a "disengagement" plan that generated fierce opposition from Acheson and other Cold War architects. His late-life testimony against NATO expansion following the Soviet collapse - arguing that it would predictably produce Russian hostility - made him a prophet without honor who outlived enough history to see some of his predictions confirmed.
 

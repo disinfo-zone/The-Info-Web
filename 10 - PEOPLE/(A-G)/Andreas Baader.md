@@ -23,17 +23,17 @@ Andreas Bernd Baader (May 6, 1943 - October 18, 1977) was a co-founder and opera
 
 Baader was born in [[Munich]], [[Germany]], the son of a historian who was killed on the Eastern Front in [[World War II]]. He grew up without a father in postwar [[West Germany]] and was by his own account more drawn to action and provocation than to political theory. He had no formal political education and, unlike Meinhof or Ensslin, came from outside the student movement's intellectual circles.
 
-He moved to [[Berlin]] in the 1960s and became associated with the communal housing and protest culture that surrounded the West German student movement, though his relationship to formal political organizations was always marginal. He was arrested and convicted of arson in 1968 after he and [[Gudrun Ensslin]] set fire to two Frankfurt department stores as a protest against the Vietnam War - their statement of intent to escalate from demonstration to action.[^1]
+He moved to [[Berlin]] in the 1960s and became associated with the communal housing and protest culture that surrounded the West German student movement, though his relationship to formal political organizations was always marginal. He was arrested and convicted of arson in 1968 after he and Gudrun Ensslin set fire to two Frankfurt department stores as a protest against the [[Vietnam War]] - their statement of intent to escalate from demonstration to action.[^1]
 
 ### Founding of the RAF
 
-Released from prison pending appeal, Baader was re-arrested in April 1970. [[Ulrike Meinhof]] arranged for him to be given a supervised prison release to a Berlin institution to research a book, then organized the operation that freed him on May 14, 1970 - a confrontation in which a guard was shot. This event - the RAF's founding act - was followed by the group's training with the [[Palestine Liberation Organization]] in Jordan.
+Released from prison pending appeal, Baader was re-arrested in April 1970. Ulrike Meinhof arranged for him to be given a supervised prison release to a Berlin institution to research a book, then organized the operation that freed him on May 14, 1970 - a confrontation in which a guard was shot. This event - the RAF's founding act - was followed by the group's training with the [[Palestine Liberation Organization]] in Jordan.
 
 The RAF conducted bank robberies to fund operations, established a network of safe houses, and recruited additional members. Baader's leadership style was domineering and the group's internal culture was characterized by intense loyalty demands and harsh criticism of those who showed doubt. Several early members left or were expelled; some later testified against the organization.[^1]
 
 ### 1972 Bombing Campaign and Arrest
 
-In May 1972, the RAF conducted a concentrated series of bombings against American military facilities in Frankfurt and Heidelberg, the Hamburg police headquarters, the [[Munich]] offices of the Axel Springer publishing company, and the car of Federal Judge Wolfgang Buddenberg. Several American soldiers were killed.
+In May 1972, the RAF conducted a concentrated series of bombings against American military facilities in Frankfurt and Heidelberg, the Hamburg police headquarters, the Munich offices of the Axel Springer publishing company, and the car of Federal Judge Wolfgang Buddenberg. Several American soldiers were killed.
 
 Baader was arrested on June 1, 1972, in Frankfurt. Meinhof was arrested June 15, Ensslin June 7. Their imprisonment did not end RAF activity; a second generation of members, operating outside, continued operations partly aimed at forcing the government to release the imprisoned founders.
 
@@ -43,7 +43,7 @@ The trial of Baader, Ensslin, Meinhof, and Jan-Carl Raspe was conducted at Stamm
 
 After Meinhof died in May 1976, the trial of the remaining three continued. Baader, Ensslin, and Raspe were convicted and sentenced to life imprisonment in April 1977.
 
-In October 1977, RAF members kidnapped industrialist Hanns Martin Schleyer and simultaneously coordinated with Palestinian hijackers who seized Lufthansa Flight 181. West [[Germany]]'s [[GSG 9]] commando unit stormed the aircraft at Mogadishu airport on October 18, 1977, freeing all hostages. Hours later, Baader, Ensslin, and Raspe were found dead in their cells. Baader had a pistol wound to his head; Ensslin had hanged herself; Raspe had a gunshot wound.
+In October 1977, RAF members kidnapped industrialist Hanns Martin Schleyer and simultaneously coordinated with Palestinian hijackers who seized Lufthansa Flight 181. West Germany's [[GSG 9]] commando unit stormed the aircraft at Mogadishu airport on October 18, 1977, freeing all hostages. Hours later, Baader, Ensslin, and Raspe were found dead in their cells. Baader had a pistol wound to his head; Ensslin had hanged herself; Raspe had a gunshot wound.
 
 Prison authorities ruled the deaths suicides; the RAF and supporters argued it was impossible for firearms to have been smuggled into the maximum-security facility without guard involvement. Schleyer was murdered the following day. Official investigations upheld the suicide findings; the RAF's position was never accepted by any formal inquiry.[^2]
 

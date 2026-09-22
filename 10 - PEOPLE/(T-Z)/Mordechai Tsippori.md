@@ -7,7 +7,7 @@ tags:
 summary: "Director general of the Israeli Ministry of Defense who in 1980 authorized Israel to develop a hydrogen bomb for testing."
 ---
 
-[[Mordechai Tsippori]] was the director general of the [[Israel|Israeli]] Ministry of Defense in 1980. He gave the go-ahead for [[Israel]] to develop a hydrogen bomb for testing.[^1]
+[[Mordechai Tsippori]] was the director general of the [[Israel|Israeli]] Ministry of Defense in 1980. He gave the go-ahead for Israel to develop a [[Hydrogen Bomb|hydrogen bomb]] for testing.[^1]
 
 ### Footnotes
 [^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.

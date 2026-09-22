@@ -28,7 +28,7 @@ The arms transfer sequence was initiated by National Security Council aide [[Oli
 
 The United States subsequently replenished Israel's TOW stockpile with American missiles. The transactions were carried out with knowledge of President Reagan and national security principals, though the legal authority for the transactions was disputed and the replenishment technically required Presidential Finding authorization.[^2]
 
-The Tower Commission Report (1987) and the joint congressional investigation report (1987) both documented the TOW transactions in detail. Independent Counsel Lawrence Walsh's investigation established that the TOW transfers and subsequent HAWK missile transfers constituted the core of the Iran arms sales program.[^2]
+The Tower Commission Report (1987) and the joint congressional investigation report (1987) both documented the TOW transactions in detail. Independent Counsel Lawrence Walsh's investigation established that the TOW transfers and subsequent [[HAWK missile]] transfers constituted the core of the Iran arms sales program.[^2]
 
 ### Subsequent Transfers and HAWK Missiles
 

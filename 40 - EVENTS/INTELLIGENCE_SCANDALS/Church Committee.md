@@ -26,7 +26,7 @@ location: "Washington, D.C."
 
 The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, known as the Church Committee after its chairman Senator Frank Church (D-Idaho), was constituted on January 27, 1975, following the Seymour Hersh exposés of December 1974 revealing systematic CIA domestic surveillance activities under [[Operation CHAOS]]. The committee ran through April 1976, producing the most comprehensive congressional investigation of U.S. intelligence activities ever conducted. Its final report (S. Rept. 94-755, 94th Congress, 2nd Session, April 26, 1976) and the fourteen volumes of accompanying staff reports constitute the foundational primary documentary record of postwar U.S. intelligence abuses.[^1]
 
-The committee was constituted in the same period as the Rockefeller Commission (Commission on CIA Activities Within the United States, chaired by Vice President Nelson Rockefeller), which issued its report in June 1975. The Church Committee's scope and independence were substantially greater than the Rockefeller Commission's.
+The committee was constituted in the same period as the [[Rockefeller Commission 1975|Rockefeller Commission]] (Commission on CIA Activities Within the United States, chaired by Vice President Nelson Rockefeller), which issued its report in June 1975. The Church Committee's scope and independence were substantially greater than the Rockefeller Commission's.
 
 ### Triggering Events
 

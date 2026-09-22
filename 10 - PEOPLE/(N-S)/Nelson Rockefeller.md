@@ -18,7 +18,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-Nelson Aldrich Rockefeller (July 8, 1908 - January 26, 1979), named after his maternal grandfather and US Senator [[Nelson Aldrich]], was the dominant figure in US-Latin American relations from World War II through the mid-1970s. As coordinator of inter-American affairs (1940-1944), assistant secretary of state for American republic affairs (1944-1945), and later as President [[Dwight D. Eisenhower]]'s special assistant for national security, he built the institutional architecture that governed American policy toward [[Latin America]] and shaped the intelligence community's covert operations in the Western Hemisphere. His private vehicles, the [[IBEC]] (International Basic Economy Corporation) and the [[AIA]] (American International Association), extended Rockefeller family commercial interests into the Brazilian Amazon and beyond.
+Nelson Aldrich Rockefeller (July 8, 1908 - January 26, 1979), named after his maternal grandfather and US Senator [[Nelson Aldrich]], was the dominant figure in US-Latin American relations from World War II through the mid-1970s. As coordinator of inter-American affairs (1940-1944), assistant secretary of state for American republic affairs (1944-1945), and later as President [[Dwight D. Eisenhower]]'s special assistant for national security, he built the institutional architecture that governed American policy toward [[Latin America]] and shaped the intelligence community's covert operations in the Western Hemisphere. His private vehicles, the [[IBEC]] (International Basic Economy Corporation) and the [[AIA]] (American International Association), extended [[Rockefeller family]] commercial interests into the Brazilian Amazon and beyond.
 
 ### Early Formation
 
@@ -82,7 +82,7 @@ In 1969, President [[Richard Nixon]] asked Rockefeller, on Nixon's first full da
 
 ### The Rockefeller Commission (1975)
 
-In 1975, amid the congressional [[Church Committee]] investigations into CIA abuses, President [[Gerald Ford]] appointed Rockefeller to chair the [[President's Commission on CIA Activities Within the United States]] (the "Rockefeller Commission"). The triggering event was a December 1974 New York Times report that the CIA had conducted illegal domestic activities during the 1960s.
+In 1975, amid the congressional [[Church Committee]] investigations into CIA abuses, President [[Gerald Ford]] appointed Rockefeller to chair the [[President's Commission on CIA Activities Within the United States]] (the "[[Rockefeller Commission 1975|Rockefeller Commission]]"). The triggering event was a December 1974 New York Times report that the CIA had conducted illegal domestic activities during the 1960s.
 
 Rockefeller "attempted to head off inclusion of the subject" of CIA assassination plots, restricting consideration of assassinations to the question of Cuba's possible role in the assassination of [[John F. Kennedy]]. When the Commission voted on whether to include assassination investigations, it overrode its own chairman, with [[Ronald Reagan]] (then Governor of California, serving as a commissioner) siding with executive director David Belin against Rockefeller. In a March 10, 1975 memorandum to Commission members, Belin argued that selective investigation of assassination plots would confuse the public and that "the threat of assassination" warranted comprehensive inquiry. The Commission took testimony from CIA General Counsel [[John Warner]] on April 14, 1975.
 

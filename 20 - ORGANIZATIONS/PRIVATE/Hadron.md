@@ -26,13 +26,13 @@ Hamilton alleged that [[James L. Byrnes]], a Deputy Assistant Attorney General w
 
 INSLAW alleged a connection between [[Peter Videnieks]], DOJ's PROMIS contracting officer, and Hadron, claiming Videnieks had administered Customs Service contracts with Hadron. While a witness suggested a possible meeting between Videnieks and Laiti, Videnieks denied being the contracting officer for any Hadron contract or meeting Hadron management. The Special Counsel found no evidence of a conspiracy, concluding any connection was "tenuous and insignificant."[^2]
 
-Hamilton alleged that Systems and Computer Technology, Inc. (SCT)'s 1986 attempt to purchase INSLAW was encouraged by DOJ officials and indirectly linked to Brian. The Special Counsel found no evidence supporting these claims, noting that SCT's contacts with DOJ were for due diligence purposes only.[^2]
+Hamilton alleged that [[SCT|Systems and Computer Technology, Inc.]] (SCT)'s 1986 attempt to purchase INSLAW was encouraged by DOJ officials and indirectly linked to Brian. The Special Counsel found no evidence supporting these claims, noting that SCT's contacts with DOJ were for due diligence purposes only.[^2]
 
 [[Lois Battistoni]] claimed an unnamed DOJ employee told her that Hadron was connected to a top DOJ official and had been chosen to take over INSLAW's business. The Special Counsel found Battistoni's account unreliable and without corroboration.[^2]
 
 ### Congressional and Official Findings
 
-The Senate Permanent Subcommittee on Investigations found "no proof of any connection between [[Earl Brian]] or Hadron and the Department with regard to the INSLAW contract" in its September 1989 report.[^3] The House Judiciary Committee's September 1992 report described Brian's alleged role in connection with Hadron as "intriguing...but without the requisite degree of causation," raising circumstantial concerns while stopping short of a direct finding.[^1] The Special Counsel's report concluded that the evidence overwhelmingly showed no connection between Hadron and anything related to INSLAW or PROMIS, and that individuals claiming direct knowledge were "unworthy of belief" and contradicted by credible evidence.[^2]
+The Senate Permanent Subcommittee on Investigations found "no proof of any connection between Earl Brian or Hadron and the Department with regard to the INSLAW contract" in its September 1989 report.[^3] The House Judiciary Committee's September 1992 report described Brian's alleged role in connection with Hadron as "intriguing...but without the requisite degree of causation," raising circumstantial concerns while stopping short of a direct finding.[^1] The Special Counsel's report concluded that the evidence overwhelmingly showed no connection between Hadron and anything related to INSLAW or PROMIS, and that individuals claiming direct knowledge were "unworthy of belief" and contradicted by credible evidence.[^2]
 
 ### Footnotes
 

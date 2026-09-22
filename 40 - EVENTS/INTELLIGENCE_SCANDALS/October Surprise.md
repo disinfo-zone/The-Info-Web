@@ -81,7 +81,7 @@ The House Task Force found Ben-Menashe's testimony "totally lacking in credibili
 
 [[Michael Riconosciuto]] claimed that he and Earl Brian traveled to Iran in 1980 and paid $40 million to Iranian officials to delay the hostage release past Reagan's inauguration, directly linking the PROMIS theft to the 1980 deal.[^4]
 
-Ari Ben-Menashe stated after Danny Casolaro's death in August 1991 that two FBI agents from Lexington, Kentucky -- including one named E.B. Cartinhour -- were en route to Martinsburg, West Virginia, to deliver evidence that the FBI was illegally using PROMIS, and that one agent was disaffected because his superiors had refused to indict senior Reagan officials for their October Surprise role.[^3]
+Ari Ben-Menashe stated after Danny Casolaro's death in August 1991 that two FBI agents from Lexington, Kentucky -- including one named E.B. Cartinhour -- were en route to Martinsburg, [[West Virginia]], to deliver evidence that the FBI was illegally using PROMIS, and that one agent was disaffected because his superiors had refused to indict senior Reagan officials for their October Surprise role.[^3]
 
 ### Connection to Iran-Contra
 

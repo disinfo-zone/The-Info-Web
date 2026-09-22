@@ -10,7 +10,7 @@ location: "Geneva, Switzerland"
 ---
 
 
-[[Theodore Flournoy]] was a Swiss psychology professor at the University of Geneva. He is known for his extensive study of the medium Hélène Smith, documented in his 1899 book *From India to the Planet Mars*. In this work, he coined the term "[[Cryptomnesia]]," a phenomenon where forgotten memories reappear as seemingly original thoughts.[^1]
+[[Theodore Flournoy]] was a Swiss psychology professor at the University of Geneva. He is known for his extensive study of the medium [[Helene Smith|Hélène Smith]], documented in his 1899 book *From India to the Planet Mars*. In this work, he coined the term "[[Cryptomnesia]]," a phenomenon where forgotten memories reappear as seemingly original thoughts.[^1]
 
 Flournoy believed that the content produced by mediums during trances, including foreign languages and detailed historical accounts, originated from their "subliminal imagination" and forgotten sources, rather than from supernatural channeling. His work emphasized the astonishing capabilities of the human brain and contributed to the scientific understanding of memory and consciousness.[^1]
 

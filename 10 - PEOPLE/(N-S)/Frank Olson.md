@@ -52,7 +52,7 @@ In 1975, the Church Committee's investigation into CIA domestic activities surfa
 
 The family's subsequent private investigation, led by Olson's son Eric, raised the question of whether the death was suicide or murder. Eric Olson's theory was that his father had been murdered because his knowledge of CIA biological weapons programs and interrogation methods made him a security risk in his deteriorating psychological state.
 
-In 1994, Eric Olson arranged the exhumation of his father's body. Forensic pathologist James Starrs of George Washington University led the examination. Starrs found a hematoma on the left side of Olson's skull and injuries to the cheekbone inconsistent with the fall - injuries suggesting a blow to the head prior to going through the window. Starrs classified the death as a homicide by unknown means.
+In 1994, Eric Olson arranged the exhumation of his father's body. Forensic pathologist James Starrs of [[George Washington University]] led the examination. Starrs found a hematoma on the left side of Olson's skull and injuries to the cheekbone inconsistent with the fall - injuries suggesting a blow to the head prior to going through the window. Starrs classified the death as a homicide by unknown means.
 
 The New York County District Attorney reopened the case as a potential homicide. Gottlieb and Lashbrook were interviewed; both maintained Olson had gone through the window voluntarily. The case was closed in 2002 without prosecution, in part because the chain of physical evidence was too degraded and the surviving witnesses' accounts too inconsistent to support a murder charge beyond reasonable doubt.
 

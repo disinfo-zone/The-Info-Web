@@ -10,6 +10,8 @@ Nuclear fission is a nuclear reaction in which the nucleus of an atom splits int
 
 [[Ernst David Bergmann]] was introduced to the world of the atom and nuclear fission in the early 1920s as a student at the Emil Fischer Institute of the University of Berlin. He was part of a circle of eminent scientists who were at the cutting edge of unraveling the mystery of nuclear fission in the prewar years.[^1]
 
+The smallest amount of fissile material that sustains a chain reaction is the [[Critical Mass|critical mass]]; the French physicist [[Francis Perrin]] was the first to publish a formula for calculating it for uranium, in 1939.[^1]
+
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 2.

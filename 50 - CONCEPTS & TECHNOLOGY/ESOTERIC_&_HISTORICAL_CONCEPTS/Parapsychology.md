@@ -1,6 +1,6 @@
 ---
 created: 2025-07-22
-updated: 2025-07-22
+updated: 2026-09-22
 title: Parapsychology
 tags:
   - concept
@@ -11,7 +11,7 @@ category: "Esoteric & Historical Concept"
 summary: "Parapsychology is the scientific study of paranormal or psychic phenomena, including extrasensory perception (ESP) and psychokinesis (PK)."
 ---
 
-[[Parapsychology]] is the scientific study of paranormal or psychic phenomena, including extrasensory perception (ESP) and psychokinesis (PK). The field emerged from earlier psychical research, which began in the late 1700s with the study of "Mesmeric trance" (hypnosis) and the psi abilities observed in hypnotized individuals. The 19th century saw a craze over "spiritism" and "spiritualism," with mediums claiming to communicate with the supernatural, leading to considerable psychological and psychiatric research into these phenomena.[^1]
+[[Parapsychology]] is the scientific study of paranormal or psychic phenomena, including extrasensory perception (ESP) and psychokinesis (PK). The field emerged from earlier psychical research, which began in the late 1700s with the study of "Mesmeric trance" (hypnosis) and the psi abilities observed in hypnotized individuals. The 19th century saw a craze over "spiritism" and "spiritualism," with mediums claiming to communicate with the supernatural, leading to considerable psychological and psychiatric research into these phenomena.[^1] The Geneva psychologist [[Theodore Flournoy]] studied the medium [[Helene Smith|Hélène Smith]] in his 1899 book *From India to the Planet Mars*, in which he coined the term [[Cryptomnesia|cryptomnesia]].[^2]
 
 In the modern era, parapsychology, particularly through the work of J. B. Rhine at the [[Duke University Parapsychology Laboratory]], sought to bring scientific rigor to the study of psi. Rhine focused on statistical evidence from experiments like card-guessing and dice-throwing, moving away from the theatrical displays of mediums. This approach led to the establishment of parapsychology as an academic discipline, with its main professional organization, the [[Parapsychological Association]], being admitted to the [[American Association for the Advancement of Science]] in 1969, partly due to the support of figures like [[Margaret Mead]].[^1]
 
@@ -20,3 +20,4 @@ Despite these efforts, parapsychology has largely remained outside mainstream sc
 ---
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+[^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

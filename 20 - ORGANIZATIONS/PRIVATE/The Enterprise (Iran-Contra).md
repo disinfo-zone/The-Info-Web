@@ -19,7 +19,7 @@ end: 1986-11-01
 location: "United States"
 ---
 
-The Enterprise was the informal name given by [[Oliver North]] and other participants to the private covert operations network that conducted the two interlocking elements of the [[Iran-Contra Affair]]: the sale of American weapons to [[Iran]] and the resupply of the Nicaraguan [[Contras]] during the period when Congressional [[Boland Amendment]] prohibitions barred U.S. government agencies from providing the Contras with military assistance. The Enterprise was organized by [[Richard Secord]], a retired Air Force major general, and [[Albert Hakim]], an Iranian-born American arms dealer, through a network of corporate entities that held accounts, purchased weapons, and managed logistics outside official U.S. government channels. [[Oliver North]], serving on the [[National Security Council]] staff, provided the [[White House]] political authorization and operational direction.[^1]
+The Enterprise was the informal name given by [[Oliver North]] and other participants to the private covert operations network that conducted the two interlocking elements of the [[Iran-Contra Affair]]: the sale of American weapons to [[Iran]] and the resupply of the Nicaraguan [[Contras]] during the period when Congressional [[Boland Amendment]] prohibitions barred U.S. government agencies from providing the Contras with military assistance. The Enterprise was organized by [[Richard Secord]], a retired Air Force major general, and [[Albert Hakim]], an Iranian-born American arms dealer, through a network of corporate entities that held accounts, purchased weapons, and managed logistics outside official U.S. government channels. Oliver North, serving on the [[National Security Council]] staff, provided the [[White House]] political authorization and operational direction.[^1]
 
 ### Structure and Legal Entities
 
@@ -37,9 +37,9 @@ North maintained a private communications channel with Secord using KL-43 encryp
 
 The arms-for-hostages dimension of the Enterprise began in August 1985, when Israel shipped 96 [[TOW Missile|TOW anti-tank missiles]] to Iran as the first transfer in the arrangement. The United States replenished Israel's stocks. [[Adnan Khashoggi]] provided bridge loans to finance the early transactions; [[Manucher Ghorbanifar]], an Iranian arms dealer and former [[SAVAK]] officer, served as the Iranian intermediary.
 
-Subsequent transfers included 408 more TOW missiles in September 1985, a failed HAWK missile shipment in November 1985 that became an operational embarrassment requiring CIA aircraft for the logistics, and multiple TOW shipments in 1986. Approximately 2,000 TOW missiles and other weapons were transferred to Iran in total. The Enterprise generated the profits from the markup between its acquisition costs and the prices charged to Iran.[^1]
+Subsequent transfers included 408 more TOW missiles in September 1985, a failed [[HAWK missile]] shipment in November 1985 that became an operational embarrassment requiring CIA aircraft for the logistics, and multiple TOW shipments in 1986. Approximately 2,000 TOW missiles and other weapons were transferred to Iran in total. The Enterprise generated the profits from the markup between its acquisition costs and the prices charged to Iran.[^1]
 
-In October 1986, [[Albert Hakim]] conducted unauthorized negotiations in Geneva with a representative of Iranian speaker [[Hashemi Rafsanjani]] (identified in documents as "the Relative") that produced a Nine-Point Plan expanding U.S. commitments to Iran far beyond what North, Poindexter, or Reagan had authorized. The Geneva negotiations, when discovered, alarmed NSC officials who felt Hakim had made policy commitments without authorization.[^2]
+In October 1986, Albert Hakim conducted unauthorized negotiations in Geneva with a representative of Iranian speaker [[Hashemi Rafsanjani]] (identified in documents as "the Relative") that produced a Nine-Point Plan expanding U.S. commitments to Iran far beyond what North, Poindexter, or Reagan had authorized. The Geneva negotiations, when discovered, alarmed NSC officials who felt Hakim had made policy commitments without authorization.[^2]
 
 ### Contra Side
 
@@ -51,7 +51,7 @@ The Contra resupply network used multiple aircraft and crews. [[Eugene Hasenfus]
 
 ### Finances and the Diversion
 
-Walsh's investigation documented that the Enterprise generated approximately $48 million in revenues from the Iran weapons sales. Of this amount, only approximately $3.8 million was delivered to Contra supply operations. The remainder was retained in Enterprise accounts, disbursed to Secord and Hakim, used for operational expenses, and in part used to pay [[Oliver North]] a salary supplement - the basis for one of the criminal charges against Hakim.
+Walsh's investigation documented that the Enterprise generated approximately $48 million in revenues from the Iran weapons sales. Of this amount, only approximately $3.8 million was delivered to Contra supply operations. The remainder was retained in Enterprise accounts, disbursed to Secord and Hakim, used for operational expenses, and in part used to pay Oliver North a salary supplement - the basis for one of the criminal charges against Hakim.
 
 The large gap between revenues and Contra deliveries was a finding of significant consequence: it indicated that the Enterprise was operating substantially as a profit-making private venture rather than purely as a mechanism for funding the Contras, as its participants had represented to congressional investigators.[^1]
 

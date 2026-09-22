@@ -14,11 +14,11 @@ tags:
 summary: "George Pettie is the son of Marion Pettie, founder of The Finders, and a confirmed former employee of Air America, the CIA proprietary airline in Southeast Asia, as acknowledged by his father in a 1993 interview with U.S. News & World Report."
 location: "Northern Virginia"
 ---
-George Pettie is the son of [[Marion Pettie]], the founder and leader of [[The Finders]], and a confirmed former employee of [[Air America]], the CIA proprietary airline that operated in Southeast Asia during the Vietnam War. His employment at Air America was acknowledged by Marion Pettie himself in a 1993 interview with U.S. News & World Report.[^1]
+George Pettie is the son of [[Marion Pettie]], the founder and leader of [[The Finders]], and a confirmed former employee of [[Air America]], the CIA proprietary airline that operated in Southeast Asia during the [[Vietnam War]]. His employment at Air America was acknowledged by Marion Pettie himself in a 1993 interview with U.S. News & World Report.[^1]
 
 ### Air America Employment
 
-Air America operated under CIA direction throughout the Vietnam War era, providing covert transportation and logistics support across Southeast Asia, and was documented in multiple journalistic and congressional investigations to have been involved in transporting opium and heroin from the [[Golden Triangle]]. George Pettie's employment at the airline placed a direct family connection between [[The Finders]]' leadership and one of the most operationally significant CIA proprietaries of the Cold War period.[^1][^2]
+Air America operated under CIA direction throughout the Vietnam War era, providing covert transportation and logistics support across Southeast Asia, and was documented in multiple journalistic and congressional investigations to have been involved in transporting opium and heroin from the [[Golden Triangle]]. George Pettie's employment at the airline placed a direct family connection between The Finders' leadership and one of the most operationally significant CIA proprietaries of the Cold War period.[^1][^2]
 
 The specific dates, role, and posting of George Pettie's Air America employment have not been established in accessible primary sources. His father confirmed the employment in the context of investigators' questions about the family's intelligence connections, alongside confirmation of his wife [[Isabelle Pettie]]'s CIA employment. Whether George Pettie maintained any contact with CIA-connected networks after Air America's dissolution in 1976 has not been established.[^1]
 

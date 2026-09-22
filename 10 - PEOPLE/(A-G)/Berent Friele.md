@@ -62,7 +62,7 @@ Before Ambassador [[Lincoln Gordon]] left Washington for his Rio posting in 1961
 
 ### AIFLD and Pre-Coup Political Activity
 
-Friele served as vice president of the [[American Institute for Free Labor Development]] (AIFLD), the AFL-CIO-linked organization with significant CIA funding that operated labor training programs across [[Latin America]] during the Cold War. In that capacity he was described by contemporaries as "an old Brazilian hand belonging to the Rockefeller entourage."
+Friele served as vice president of the [[American Institute for Free Labor Development]] ([[AIFLD]]), the AFL-CIO-linked organization with significant CIA funding that operated labor training programs across [[Latin America]] during the Cold War. In that capacity he was described by contemporaries as "an old Brazilian hand belonging to the Rockefeller entourage."
 
 In fall 1963, Friele and AIFLD executive director [[Serafino Romualdi]] traveled to [[Sao Paulo]] and met with Governor [[Adhemar de Barros]], one of President Goulart's chief opponents. During the meeting, de Barros described plans already under way to mobilize police and military contingents against Goulart. When de Barros complained that the US Embassy was not responding to these signals, Romualdi relayed the complaint in writing to the embassy's labor attaché, [[John Fishburn]]. Starting in 1963, AIFLD ran a special all-Brazilian training class of 33 union participants in Washington, focused on countering Communist influence in labor organizations; AIFLD-trained graduates later helped ensure the April 1964 coup proceeded without a successful general strike.[^13]
 

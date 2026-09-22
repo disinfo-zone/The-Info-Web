@@ -32,7 +32,7 @@ In congressional testimony before the House Judiciary Committee, Richardson stat
 
 > "There is simply too much to be ignored. In the case of INSLAW, there is a spreading radius of circumstantial evidence, which, at its outer reaches, entails a far more sinister kind of conspiracy than anything revealed in Watergate."[^2]
 
-On October 21, 1991 - ten weeks after journalist [[Danny Casolaro]]'s death in Martinsburg, West Virginia - Richardson published an op-ed in the *New York Times* titled "A High-Tech Watergate," in which he named [[Earl Brian]] as linked to the PROMIS theft and alleged a scheme connected to the [[October Surprise]]. The op-ed also stated:
+On October 21, 1991 - ten weeks after journalist [[Danny Casolaro]]'s death in Martinsburg, [[West Virginia]] - Richardson published an op-ed in the *New York Times* titled "A High-Tech Watergate," in which he named [[Earl Brian]] as linked to the PROMIS theft and alleged a scheme connected to the [[October Surprise]]. The op-ed also stated:
 
 > "I believe he was murdered, but even if that is no more than a possibility, it is a possibility with such sinister implications as to demand a serious effort to discover the truth."[^4]
 

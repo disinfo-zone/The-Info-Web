@@ -22,7 +22,7 @@ The Finders was a Washington D.C.-based communal group led by former [[U.S. Air 
 
 ### Origins and Structure
 
-The Finders coalesced in the late 1960s around [[Marion Pettie]], who had been hosting open-house gatherings at his Washington D.C. residence since at least the 1940s. The formal communal structure took shape around 1971 at Pettie's home in the Glover Park neighborhood.[^5] Pettie described no formal membership requirements: "Nobody signs anything."[^5] Members pooled finances into what [[Robert Garder Terrell]] called the "Invisible Bank," with some members contributing life savings to the communal fund.[^5]
+The Finders coalesced in the late 1960s around Marion Pettie, who had been hosting open-house gatherings at his Washington D.C. residence since at least the 1940s. The formal communal structure took shape around 1971 at Pettie's home in the Glover Park neighborhood.[^5] Pettie described no formal membership requirements: "Nobody signs anything."[^5] Members pooled finances into what [[Robert Garder Terrell]] called the "Invisible Bank," with some members contributing life savings to the communal fund.[^5]
 
 The group blended Taoist philosophy with New Age and Human Potential Movement concepts. Members were typically well-educated professionals who rejected conventional employment as an obstacle to what Pettie called spontaneity. Pettie functioned as the "Game Caller," a title the children in the group also used for him, directing members on assignments called "projects" that could range from mundane tasks to international travel, and exercising final authority over communal life.[^5][^6] His stated life philosophy, offered to journalist Eddie Dean in 1996, was "to know everything and do nothing."[^5]
 
@@ -33,14 +33,14 @@ Beginning around 1980, children were raised communally rather than by biological
 The group maintained several interconnected properties:
 
 - 3918-3920 W Street NW, Glover Park, Washington D.C.: Two attached red brick buildings containing approximately eight apartments, renting rooms at five dollars per night. Women and children lived here. A duplex portion contained a satellite communications setup.[^5][^2]
-- 1307 Fourth Street NE, Washington D.C.: A 10,000-square-foot warehouse owned of record by [[Robert Garder Terrell]]. Men lived here. The space contained a large library, two kitchens, a sauna, a hot tub, a video production room, extensive computer equipment, and satellite dish antennas on the roof.[^2][^3]
+- 1307 Fourth Street NE, Washington D.C.: A 10,000-square-foot warehouse owned of record by Robert Garder Terrell. Men lived here. The space contained a large library, two kitchens, a sauna, a hot tub, a video production room, extensive computer equipment, and satellite dish antennas on the roof.[^2][^3]
 - The Farm, Nethers, Madison County, Virginia: Approximately 90 acres near Shenandoah National Park and Old Rag Mountain. Neighbors reported vans arriving at night with children who were sometimes heard crying.[^5][^7]
 
 ### Membership
 
 The active membership roster circulated during the 1987 investigations listed: [[Ronald L. Alleman]]; [[Mary Grogan]]; [[Christian Herbst]]; [[Kristin Knauth]]; [[Theodore G. Reiss]]; [[Allen Schoen]]; [[Stuart Miles Silverstone]] (operating under the alias Steve Learner); [[Randolph Winn]]; and [[Steve Usdin]]. Former members included [[Patricia H. Livingston]], [[Carolyn Said]], and others who maintained contact with the group.[^2]
 
-[[Robert Garder Terrell]], a former [[Internal Revenue Service|IRS]] appeals officer and certified public accountant, served as the group's principal spokesman and financial manager. He was associated with [[Future Enterprises]], a computer training company that conducted business with the CIA.[^2][^3]
+Robert Garder Terrell, a former [[Internal Revenue Service|IRS]] appeals officer and certified public accountant, served as the group's principal spokesman and financial manager. He was associated with [[Future Enterprises]], a computer training company that conducted business with the CIA.[^2][^3]
 
 ### John J. Cox and General Scientific
 
@@ -50,9 +50,9 @@ A separate and partially contradicting account appears in MPD Intelligence docum
 
 ### Marion Pettie's Background and Intelligence Connections
 
-[[Marion Pettie]] was born in 1920 and grew up in Culpeper, Virginia, where his family had lived for ten generations. He dropped out of school after ninth grade. He served as a Master Sergeant in the U.S. Air Force and retired in 1956.[^5] His wife, [[Isabelle Pettie]], was a CIA employee; FBI Vault documents confirm her employment, though the precise dates cited across sources vary, with estimates ranging from approximately 1952 to 1961, and the Stitcher MPD report citing 1950 to 1971.[^3] She was listed as a staff stenographer but was issued passports to North Korea, North Vietnam, and the Soviet Union during the Cold War, travel that would not ordinarily be approved for an employee in that category.[^3] Pettie confirmed in a 1993 interview with U.S. News & World Report that his wife "once worked for the Central Intelligence Agency."[^4]
+Marion Pettie was born in 1920 and grew up in Culpeper, Virginia, where his family had lived for ten generations. He dropped out of school after ninth grade. He served as a Master Sergeant in the U.S. Air Force and retired in 1956.[^5] His wife, [[Isabelle Pettie]], was a CIA employee; FBI Vault documents confirm her employment, though the precise dates cited across sources vary, with estimates ranging from approximately 1952 to 1961, and the Stitcher MPD report citing 1950 to 1971.[^3] She was listed as a staff stenographer but was issued passports to North Korea, North Vietnam, and the Soviet Union during the Cold War, travel that would not ordinarily be approved for an employee in that category.[^3] Pettie confirmed in a 1993 interview with U.S. News & World Report that his wife "once worked for the Central Intelligence Agency."[^4]
 
-Pettie's son [[George Pettie]] worked for [[Air America]], the CIA proprietary airline that operated in Southeast Asia during the Vietnam War and was documented to have transported narcotics from the [[Golden Triangle]].[^4] George Pettie had broken contact with his father by 1985 and was operating a home inspection business in Northern Virginia at the time of the 1987 investigations. In a 1987 interview he described the circa-1971 Glover Park gatherings as "the beginning of a new life" for his father and followers.[^5]
+Pettie's son [[George Pettie]] worked for [[Air America]], the CIA proprietary airline that operated in Southeast Asia during the [[Vietnam War]] and was documented to have transported narcotics from the [[Golden Triangle]].[^4] George Pettie had broken contact with his father by 1985 and was operating a home inspection business in Northern Virginia at the time of the 1987 investigations. In a 1987 interview he described the circa-1971 Glover Park gatherings as "the beginning of a new life" for his father and followers.[^5]
 
 Marion Pettie consistently denied CIA employment in public interviews, stating: "The reason the CIA wouldn't hire me is that they wouldn't have the control factor over me."[^5] He acknowledged studying intelligence agencies since the 1930s and described himself as Taoist by inclination. His open houses in Washington from the 1930s onward drew intelligence figures, diplomats, and journalists, though Pettie described these gatherings as self-financed social events rather than operational meetings.[^5]
 
@@ -66,7 +66,7 @@ The six children ranged in age from approximately two to seven years. They were 
 
 Florida HRS physician Dr. Moorer found physical evidence consistent with possible sexual abuse in two of the six children. A subsequent psychiatric examination by Dr. Nahman Greenberg found "no signs of recent sexual or physical abuse."[^8] Items found in the van included a TRS-80 computer, twenty floppy computer disks, a telephone connection device, and a Chinese-English dictionary.[^2]
 
-[[Douglas Ammerman]] and [[James Michael Holwell]] were charged with misdemeanor child abuse; Holwell faced an additional count of resisting arrest without violence. Bond was initially set at $100,000 each, reduced to $20,000 on February 19. Five women identifying as the children's mothers arrived in Tallahassee from Washington around February 12: [[Kristin Knauth]], [[Judy Evans]], [[Paula Arico]], [[Carolyn Said]], and [[Patricia H. Livingston]].[^8]
+Douglas Ammerman and James Michael Holwell were charged with misdemeanor child abuse; Holwell faced an additional count of resisting arrest without violence. Bond was initially set at $100,000 each, reduced to $20,000 on February 19. Five women identifying as the children's mothers arrived in Tallahassee from Washington around February 12: Kristin Knauth, [[Judy Evans]], [[Paula Arico]], Carolyn Said, and Patricia H. Livingston.[^8]
 
 ### Custody Proceedings and Outcomes
 
@@ -108,7 +108,7 @@ Martinez's April 13, 1987 report documented information provided by an MPD offic
 
 ### Glover Park and Stuart Miles Silverstone
 
-At the Glover Park duplex, investigators found [[Stuart Miles Silverstone]] inside a room equipped with multiple computers, printers, and satellite communications equipment. Large bags of color slides and photographic contact sheets containing images of children were also seized.[^2]
+At the Glover Park duplex, investigators found Stuart Miles Silverstone inside a room equipped with multiple computers, printers, and satellite communications equipment. Large bags of color slides and photographic contact sheets containing images of children were also seized.[^2]
 
 ### Virginia Farm
 
@@ -116,7 +116,7 @@ Virginia State Police found at the Madison County farm what they described as ev
 
 ### CIA Involvement and Investigation Suppression
 
-On February 6, 1987, the [[Federal Bureau of Investigation|FBI]] took over the investigation and took possession of computers and floppy disks seized from Finders properties. The FBI's Foreign Counterintelligence Division directed the Metropolitan Police Department to classify all MPD reports related to The Finders as Secret, and further directed MPD not to advise the FBI's own Washington Field Office of what had occurred.[^2][^3]
+On February 6, 1987, the FBI took over the investigation and took possession of computers and floppy disks seized from Finders properties. The FBI's Foreign Counterintelligence Division directed the Metropolitan Police Department to classify all MPD reports related to The Finders as Secret, and further directed MPD not to advise the FBI's own Washington Field Office of what had occurred.[^2][^3]
 
 MPD Sgt. [[John H. Stitcher Jr.]] filed a report on February 19, 1987, titled "Re: Finders involvement with the CIA," marked Confidential and Do Not Disseminate. The report documented a conversation with a CIA special agent (name redacted in released versions) that included several significant admissions. When Stitcher asked whether the investigation was "treading on anyone's toes," the CIA agent responded "Sort of." The CIA agent stated the agency had "had someone working on the case since it first broke." The report confirmed Isabelle Pettie's CIA employment and documented that travel by at least one Finders member to Moscow, North Korea, and Vietnam during 1969-1971 had been conducted with CIA awareness and facilitation. Large sections of the released version of the report remain redacted.[^3]
 
@@ -130,9 +130,9 @@ In 1994, the U.S. Customs Service proposed to remove Martinez from his position 
 
 ### Future Enterprises and the Computer Training Connection
 
-[[Future Enterprises]] was a private company that provided computer training to CIA employees during the 1980s. In a 1993 public statement, CIA spokesman David Christian confirmed: "CIA sent some employees to a company called Future Enterprises, Inc. for computer training in the nineteen eighties." Christian denied any CIA ownership of or organizational relationship with the company, characterizing the Finders connection as involving one member who worked as a "part-time accountant."[^4]
+Future Enterprises was a private company that provided computer training to CIA employees during the 1980s. In a 1993 public statement, CIA spokesman David Christian confirmed: "CIA sent some employees to a company called Future Enterprises, Inc. for computer training in the nineteen eighties." Christian denied any CIA ownership of or organizational relationship with the company, characterizing the Finders connection as involving one member who worked as a "part-time accountant."[^4]
 
-[[Robert Garder Terrell]], described in sources as a former IRS appeals officer and the warehouse's owner of record, was that member. Vice president Joseph Marinich confirmed in contemporaneous reporting that CIA employees had received training at the company during the 1980s.[^4] An MPD report dated February 19, 1987 cited a CIA agent confirming the agency was sending personnel to "a Finders Corp., Future Enterprises, for training in computer operations," using language that directly identified Future Enterprises as a Finders corporate entity.[^4]
+Robert Garder Terrell, described in sources as a former IRS appeals officer and the warehouse's owner of record, was that member. Vice president Joseph Marinich confirmed in contemporaneous reporting that CIA employees had received training at the company during the 1980s.[^4] An MPD report dated February 19, 1987 cited a CIA agent confirming the agency was sending personnel to "a Finders Corp., Future Enterprises, for training in computer operations," using language that directly identified Future Enterprises as a Finders corporate entity.[^4]
 
 ### The 1993 Congressional and DOJ Investigation
 
@@ -150,7 +150,7 @@ Lewis introduced a resolution requiring the U.S. Customs Service to reinstate it
 
 The two men arrested in Tallahassee were found carrying an address book. According to FBI file notes cited in secondary sources, individuals named in that address book included one person appearing in an FBI Buffalo field office file concerning [[NAMBLA]] members suspected of murder connections, and two persons appearing in FBI Dallas field office file 145-0 relating to [[John David Norman]]'s [[Odyssey Foundation]] child prostitution investigation.[^1][^2]
 
-[[John David Norman]] (October 13, 1927 - May 22, 2011) was convicted multiple times between 1960 and 1998 on child molestation and child pornography charges. He founded the [[Odyssey Foundation]] in Dallas in the mid-1960s as a front for procuring teenage boys for prostitution and distributing child pornography nationally. The address-book overlaps represent the primary documented connection between The Finders and Norman's network.[^9]
+John David Norman (October 13, 1927 - May 22, 2011) was convicted multiple times between 1960 and 1998 on child molestation and child pornography charges. He founded the Odyssey Foundation in Dallas in the mid-1960s as a front for procuring teenage boys for prostitution and distributing child pornography nationally. The address-book overlaps represent the primary documented connection between The Finders and Norman's network.[^9]
 
 ### Intelligence Program Context
 
@@ -188,13 +188,13 @@ When the FBI assembled its released file, the documents included diagrams by Ted
 
 ### Dissolution and Continued Activity
 
-On March 11, 1987, [[Robert Garder Terrell]] announced that The Finders were "breaking up" after approximately seventeen years. He gave a follow-up statement to the [[Associated Press]] on March 23, 1987 confirming dissolution: "You won't hear from the Finders again until the year 2000."[^5][^2]
+On March 11, 1987, Robert Garder Terrell announced that The Finders were "breaking up" after approximately seventeen years. He gave a follow-up statement to the [[Associated Press]] on March 23, 1987 confirming dissolution: "You won't hear from the Finders again until the year 2000."[^5][^2]
 
 On October 22, 1991, MPD Intelligence officers observed activity at the former Fourth Street NE warehouse, which the group did not sell until 1994. Officers documented "numerous well-dressed males, who operate rental cars and expensive luxury type models" entering the building at late-night and early-morning hours. Officers also observed adult males with a young male child entering the building. A van operator stopped by officers claimed to have "baby sat children for diplomats" and acknowledged the neighborhood was "not fit for babysitting activity." The MPD report, included in the FBI Vault release (pages 147-148 of the released materials), noted "possible child pornography." No follow-up federal investigation of this incident was documented in accessible records.[^3]
 
 Marion Pettie died on October 24, 2003, in Culpeper, Virginia.[^5]
 
-In 2018, [[Robert Garder Terrell]] gave his first public interview in over twenty-five years to journalist Derrick Broze of The Conscious Resistance Network, followed by another in 2021. Both were incorporated into Broze's documentary "Who Will Find What The Finders Hide?" released in March 2019.[^10] Terrell denied all criminal allegations throughout.
+In 2018, Robert Garder Terrell gave his first public interview in over twenty-five years to journalist Derrick Broze of The Conscious Resistance Network, followed by another in 2021. Both were incorporated into Broze's documentary "Who Will Find What The Finders Hide?" released in March 2019.[^10] Terrell denied all criminal allegations throughout.
 
 ### Footnotes
 

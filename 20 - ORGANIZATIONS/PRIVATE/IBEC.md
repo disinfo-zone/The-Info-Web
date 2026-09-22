@@ -16,7 +16,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-The International Basic Economy Corporation (IBEC) was a private corporation founded by [[Nelson Rockefeller]] in 1947, the year after he was fired from the State Department, as the commercial successor to his wartime [[CIAA]] operations. IBEC combined Rockefeller family investment objectives with a development philosophy that made profitable enterprises out of the agricultural, food processing, and basic goods sectors of Latin American economies, sectors that the CIAA had prepared during the war years. IBEC operated in Venezuela, Brazil, Peru, Colombia, and elsewhere, and was paired with its sister nonprofit, the [[AIA]] (American International Association for Economic and Social Development), in a structure that blended private profit with public development legitimacy.[^1]
+The International Basic Economy Corporation (IBEC) was a private corporation founded by [[Nelson Rockefeller]] in 1947, the year after he was fired from the State Department, as the commercial successor to his wartime [[CIAA]] operations. IBEC combined [[Rockefeller family]] investment objectives with a development philosophy that made profitable enterprises out of the agricultural, food processing, and basic goods sectors of Latin American economies, sectors that the CIAA had prepared during the war years. IBEC operated in Venezuela, Brazil, Peru, Colombia, and elsewhere, and was paired with its sister nonprofit, the [[AIA]] (American International Association for Economic and Social Development), in a structure that blended private profit with public development legitimacy.[^1]
 
 ### Origins and Philosophy
 

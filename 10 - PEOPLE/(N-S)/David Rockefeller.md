@@ -15,7 +15,7 @@ created: 2026-06-05
 updated: 2026-06-05
 ---
 
-David Rockefeller (1915-2017), the youngest of the five sons of [[John D. Rockefeller Jr.]], built [[Chase Manhattan Bank]] into the dominant US financial institution in [[Latin America]] and, through that platform, extended the Rockefeller family's economic influence deeper into the hemisphere than any other single vehicle. Where his brother [[Nelson Rockefeller]] operated through government appointments, private development corporations ([[IBEC]], [[AIA]]), and intelligence-community connections, David's instrument was the bank, which held major commercial loans across Latin America, manipulated credit conditions in Brazil in the run-up to the 1964 coup, and financed the corporate penetration of the Amazon basin that followed.
+David Rockefeller (1915-2017), the youngest of the five sons of [[John D. Rockefeller Jr.]], built [[Chase Manhattan Bank]] into the dominant US financial institution in [[Latin America]] and, through that platform, extended the [[Rockefeller family]]'s economic influence deeper into the hemisphere than any other single vehicle. Where his brother [[Nelson Rockefeller]] operated through government appointments, private development corporations ([[IBEC]], [[AIA]]), and intelligence-community connections, David's instrument was the bank, which held major commercial loans across Latin America, manipulated credit conditions in Brazil in the run-up to the 1964 coup, and financed the corporate penetration of the Amazon basin that followed.
 
 ### Chase Manhattan and Latin America
 

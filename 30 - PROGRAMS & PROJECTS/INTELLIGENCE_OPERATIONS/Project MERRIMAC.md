@@ -46,7 +46,7 @@ MERRIMAC's intelligence products fed into a broader interagency architecture. Th
 
 ### Church Committee Findings
 
-Project MERRIMAC and its companion program [[Project RESISTANCE]] were documented in the Church Committee's Book III, "[CIA Intelligence Collection About Americans: CHAOS and the Office of Security](aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf)" (S. Rept. 94-755, April 26, 1976). The Rockefeller Commission addressed the programs in Chapter 11 of its [report](aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf.[^1]).
+Project MERRIMAC and its companion program [[Project RESISTANCE]] were documented in the Church Committee's Book III, "[CIA Intelligence Collection About Americans: CHAOS and the Office of Security](aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf)" (S. Rept. 94-755, April 26, 1976). The [[Rockefeller Commission 1975|Rockefeller Commission]] addressed the programs in Chapter 11 of its [report](aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf.[^1]).
 
 The Church Committee found that MERRIMAC advance notice did serve its stated protective function in some instances, but that this had expanded into "large investigative programs against New Left organizations" that went well beyond any security purpose. The committee documented that MERRIMAC assets collected and disseminated information about targeted groups to other intelligence agencies, functioning as a general domestic intelligence collection system. The committee protected the identities of specific MERRIMAC infiltrators; no MERRIMAC assets have been publicly identified in the declassified record.[^1]
 

@@ -73,7 +73,7 @@ Olson had a severe adverse reaction. In the days following the retreat he exhibi
 
 CIA Director Allen Dulles was briefed on the circumstances and the program was concealed. Olson's family was told only that he had fallen from a window during a mental breakdown. Gottlieb was not prosecuted.
 
-In 1994, Olson's son Eric had his father's body exhumed. Forensic examination by James Starrs of George Washington University found a hematoma on Olson's skull inconsistent with the fall - suggesting he had been struck before going through the window. The New York District Attorney reopened the case as a possible homicide; it was never prosecuted due to insufficient surviving evidence. Gottlieb died in March 1999; he had been under investigation for Olson's death.
+In 1994, Olson's son Eric had his father's body exhumed. Forensic examination by James Starrs of [[George Washington University]] found a hematoma on Olson's skull inconsistent with the fall - suggesting he had been struck before going through the window. The New York District Attorney reopened the case as a possible homicide; it was never prosecuted due to insufficient surviving evidence. Gottlieb died in March 1999; he had been under investigation for Olson's death.
 
 Olson's son maintained until his own death that his father was murdered because he had developed doubts about the CIA's biological weapons programs and CIA interrogation methods - doubts that made him a security risk.[^3]
 

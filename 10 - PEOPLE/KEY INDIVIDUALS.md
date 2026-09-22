@@ -264,8 +264,10 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Arthur Hastings]] | Consultant to the SRI remote-viewing program and sole judge of the Price and Hammid series, whose target lists and transcripts, lent to David Marks, became the basis of the 1978 cueing critique. |
 | [[B. F. Skinner]] | Harvard behaviorist who received Society for the Investigation of Human Ecology funding and whose operant conditioning research on behavior modification ran parallel to CIA interests in controlling human behavior. |
 | [[Bep Hermans]] | Bep Hermans was a Dutch au pair who came to work for Andrija Puharich in 1956, taking care of his three young children after his wife, Jinny, was sent for psychiatric treatment. |
+| [[Brenda Dunne]] | Chicago remote-viewing experimenter who from 1979 ran Robert Jahn's privately funded Princeton Engineering Anomalies Research laboratory. |
 | [[Carl Rogers]] | Influential humanistic psychologist who served on the board of the CIA's Society for the Investigation of Human Ecology front organization and received funding that helped establish his career in client-centered therapy. |
 | [[Carl Schmitt]] | Carl Schmitt was the German jurist and Nazi-era 'crown jurist' who theorized the state of exception, the friend-enemy distinction, political theology, and the katechon, and whose work was revived on the contemporary right and woven through  |
+| [[Charles Honorton]] | Parapsychologist at Maimonides Medical Center and director of the Psychophysical Research Laboratories, whose ganzfeld meta-analyses were subcontracted by SRI's government-funded remote-viewing program. |
 | [[Charles Osgood]] | University of Illinois psychologist whose cross-cultural semantic differential research was extensively funded by the CIA through the Society for the Investigation of Human Ecology for its applications to propaganda and persuasion. |
 | [[Charles Tart]] | University of California, Davis, psychologist of altered states and consultant to SRI's government-funded remote-viewing program who rejudged the Price series in 1979 against the Marks-Kammann critique. |
 | [[David Goslin]] | Sociologist who ran the National Research Council's behavioral sciences commission for thirteen years and then the American Institutes for Research, where he coordinated the 1995 evaluation of Star Gate. |
@@ -275,6 +277,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Edmond M. Dewan]] | Motivated by a desire to gain philosophical insight into the nature of Consciousness, Dewan trained himself and members of his research staff to modulate the brain's alpha rhythms. |
 | [[Eldon Byrd]] | Eldon Byrd was a Navy physicist at the Naval Surface Weapons Center who conducted parapsychology experiments with Uri Geller in 1973-1974 including the nitinol memory-metal bending test, and worked on research into electromagnetic effects o |
 | [[Ernst Schulte-Strathaus]] | Ernst Schulte-Strathaus was a German astrologer reportedly involved with Karl Krafft in constructing star charts that influenced Rudolf Hess's May 1941 flight to Scotland, after which he was arrested in the mass crackdown on astrologers and |
+| [[Evan Harris Walker]] | Aberdeen, Maryland physicist who proposed a quantum theory of psi, visited SRI in 1973, and was named principal investigator of a 1978 Army request to build a remote-viewing machine. |
 | [[Francis Galton]] | Francis Galton was the Victorian polymath and half-cousin of Charles Darwin who coined the words eugenics and nature versus nurture, founded biometrics and the statistical concepts of correlation and regression to the mean, pioneered finger |
 | [[Frederick A. Lindemann]] | Oxford scientist and Lord Cherwell who served as Churchill's chief science adviser and formed early connections with figures central to Israel's nuclear program origins. |
 | [[G. Richard Wendt]] | University of Rochester psychologist whose ineffective truth drug formula was tested during Operation CASTIGATE in Frankfurt in 1952, producing only sedated subjects and leading Morse Allen to call the trip a 'waste of time and money.' |
@@ -291,11 +294,13 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Jesse Orlansky]] | Institute for Defense Analyses scientist on the 1979 Gale Committee who joined the minority opinion against operational tests of remote viewing. |
 | [[Jessica Utts]] | Statistician at the University of California, Davis, whose 1995 review for the American Institutes for Research concluded that psychic functioning had been well established, against Ray Hyman's dissent. |
 | [[Johan Galtung]] | Norwegian sociologist working at FLACSO in Santiago in 1965 who received and rejected a Project Camelot recruitment letter from SORO, shared the letter with Chilean academic colleagues, and thereby initiated the chain of exposure that led t |
+| [[John Kramar]] | Army Materiel Systems Analysis Activity engineer who was its Grill Flame project officer and rebutted the Gale committee's call to end the Army's remote-viewing work. |
 | [[John Lilly]] | NIH brain researcher who pioneered sensory deprivation tank experiments and electrode-based brain mapping, whose work attracted CIA interest before he declined to classify his research and left government-funded science. |
 | [[John Palmer]] | Parapsychologist and Rhine Research Center research director, three times president of the Parapsychological Association, who wrote a 1985 assessment of the field for the Army Research Institute and was among the reviewers the NRC named for |
 | [[Jonathan Levin]] | Jonathan Levin is an American economist who won the 2011 John Bates Clark Medal, served as dean of the Stanford Graduate School of Business from 2016 to 2024, and became the thirteenth president of Stanford University in August 2024. |
 | [[Julian Huxley]] | Julian Huxley was the evolutionary biologist who coined the modern usage of transhumanism in 1957, served as the first Director-General of UNESCO and wrote a founding document tying the agency to eugenics, and presided over the British Euge |
 | [[Julian Savulescu]] | Julian Savulescu is an Oxford bioethicist who founded the Uehiro Centre for Practical Ethics, edited the Journal of Medical Ethics, and advanced 'procreative beneficence' and the case for human genetic and moral enhancement. |
+| [[Keith Harary]] | Partner of Russell Targ in Delphi Associates, the remote-viewing silver-futures venture, who later disputed Targ's account of its trials. |
 | [[Konrad Kellen]] | Rand Corporation analyst and former World War II psychological warfare professional who, working from the same Viet Cong interview transcripts as Leon Gouré, reached the opposite conclusions: that VC morale was high, organizational cohesion |
 | [[Lawrence Hinkle]] | Cornell University physician who co-authored the 1956 CIA-commissioned study on Soviet brainwashing with Harold Wolff, finding that communist interrogation relied on traditional police methods rather than exotic technology. |
 | [[Leo Strauss]] | Leo Strauss was a German-American political philosopher at the University of Chicago whose doctrine of esoteric writing, critique of liberal modernity, and revival of the ancients shaped American neoconservatism and supplied one of the thre |
@@ -326,7 +331,9 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Samuel Koslov]] | Samuel Koslov was a top scientist for the U.S. |
 | [[Samuel Thompson]] | Navy psychiatrist who oversaw Project CHATTER's truth drug research and witnessed CIA ARTICHOKE interrogation techniques firsthand during Operation CASTIGATE in Frankfurt in 1952. |
 | [[Timothy Leary]] | Timothy Leary was the Harvard psychologist turned psychedelic evangelist who ran the Harvard Psilocybin Project, coined 'turn on, tune in, drop out,' operated under documented CIA surveillance while drawing on research networks whose fundin |
+| [[Vladimir Kotelnikov]] | Soviet radio engineer and vice president of the USSR Academy of Sciences whom a 1987 DIA briefing quoted as saying Ninel Kulagina's psychokinetic abilities were real. |
 | [[Walter Langer]] | Cambridge psychoanalyst who produced the first psychoanalytic profile of Adolf Hitler for the OSS in 1943, predicting his suicide and identifying exploitable psychological vulnerabilities. |
+| [[Yuri Kobzarev]] | Soviet radar pioneer and academician whom a 1987 DIA briefing quoted as vouching that Ninel Kulagina's psychokinesis was genuine. |
 
 ---
 
@@ -522,6 +529,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[J.C. King]] | Joseph Caldwell 'J.C.' King was CIA chief of clandestine activities for the Western Hemisphere from 1947 through 1964, whose December 1959 memorandum recommending Castro's 'elimination' directly initiated Operation 40. |
 | [[Jack Varona]] | Assistant Deputy Director of the DIA for technical affairs who headed the U.S. delegation at a 1979 Israel-U.S. intelligence exchange. |
 | [[James Eastland]] | Mississippi senator from 1941 to 1978 and Delta planter who chaired the Internal Security Subcommittee and the Judiciary Committee, buried over a hundred civil rights bills, and drew 100,000 dollars a year in farm subsidies. |
+| [[James H. Critchfield]] | CIA officer who developed contacts with international arms merchant Adnan Khashoggi, factotum for the House of Saud. |
 | [[James Jesus Angleton]] | James Jesus Angleton served as the CIA's chief of counterintelligence from 1954 to 1974, running the illegal HT/LINGUAL mail opening program, overseeing Operation CHAOS domestic surveillance, opening a 201 file on Lee Harvey Oswald in 1960  |
 | [[James McCord]] | CIA Office of Security officer from 1951 to 1970, arrested inside the Watergate in June 1972, whose letter to Judge Sirica broke the cover-up and whose papers a paid CIA informant watched being burned. |
 | [[James Monroe]] | Air Force Lieutenant Colonel who succeeded Harold Wolff as director of the CIA-fronted Society for the Investigation of Human Ecology and supervised its behavioral research grant program. |
@@ -554,6 +562,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Kenneth A. Roe]] | Under Roe's leadership, Burns & Roe, Inc. |
 | [[Kermit Roosevelt]] | CIA officer who orchestrated the 1953 coup that restored the Shah of Iran to power after the overthrow of Mohammed Mossadegh. |
 | [[Kim Philby]] | Kim Philby was the most damaging member of the Cambridge Five, a KGB agent who penetrated MI6 to its anti-Soviet section chief and CIA liaison in Washington, directly causing the death or capture of hundreds of Western agents and precipitat |
+| [[Kim Roosevelt]] | CIA officer who developed intelligence contacts with international arms merchant Adnan Khashoggi, a key figure in the Saudi-Israeli-American arms network. |
 | [[Kit Green]] | Christopher 'Kit' Green was a CIA physician who served as the agency's principal liaison for the SRI remote viewing program from 1972, including handling Uri Geller during the 1972-1973 tests, and later contributed to the AATIP program and  |
 | [[Larry Devlin]] | Larry Devlin was the CIA Station Chief in Leopoldville from 1960 to 1967 who received assassination orders against Patrice Lumumba including poison delivered by Sidney Gottlieb, claims he refused to execute the order, and became the primary |
 | [[Lawrence Eagleburger]] | President of Kissinger Associates while Banca Nazionale del Lavoro was its client, director of a Yugoslav bank that did a fifth of its business with BNL, and deputy secretary of state during the Iraq loans. |
@@ -590,6 +599,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Michael Del Gaizo]] | Operator of Northstar Graphics in New Jersey, under FBI investigation for extortion, insider trading, and narcotics in connection with MCA. |
 | [[Michael Hand]] | After his first tour in Vietnam, Hand moved to the clandestine CIA war in Laos, according to Ted Shackley, a former station chief in Indo-China. |
 | [[Michele Sindona]] | Michele Sindona was a Sicilian financier, P2 member, and Vatican Bank associate known as 'the Pope's Banker' whose acquisition of Franklin National Bank produced its 1974 collapse - then the largest U.S. bank failure - and who was murdered  |
+| [[Mike Harari]] | Mossad operations chief who led the Lillehammer team in 1973, then ran arms, and by the testimony of Noriega's former consul drugs, through Panama in the 1980s as Noriega's associate, and whom Ari Ben-Menashe names as Pesach Ben-Or's partne |
 | [[Mir Hossein Mousavi]] | Iranian Prime Minister with ties to CIA agent Ghorbanifar who sought to open a second channel for arms sales alongside Rafiqdoost. |
 | [[Mobutu Sese Seko]] | Mobutu Sese Seko was the CIA-installed dictator of the Congo (renamed Zaire in 1971) from 1965 to 1997, whose seizure of power was facilitated by CIA station chief Larry Devlin in 1960, who received enormous U.S. Cold War support as an anti |
 | [[Mohammed Jalali]] | Colonel Mohammed Jalali was the Defense Minister of Iran. |
@@ -685,6 +695,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Spurgeon M. Keeny, Jr.]] | Deputy director of the Arms Control and Disarmament Agency who was troubled by what he saw as deliberate manipulation of the 1979 Vela nuclear test assessment. |
 | [[Stanley Lovell]] | Boston industrialist appointed by William Donovan to head OSS Research and Development, who oversaw the creation of exotic weapons, harassment substances, and assassination plots that directly prefigured the CIA's postwar behavioral program |
 | [[Stansfield Turner]] | Stansfield Turner (1923–2018) was an American admiral who served as the DCI under President Jimmy Carter from 1977 to 1981. |
+| [[Stephen Kappes]] | Career CIA operations officer who headed the Directorate of Operations from 2002 to 2004, worked for ArmorGroup International, and returned as the agency's Deputy Director in 2006. |
 | [[Ted Shackley]] | Ted Shackley (1927-2002), ‘The Blond Ghost,’ was a CIA operations officer who served as station chief at JMWAVE, Laos, and Saigon, rose to Associate Deputy Director for Operations, was forced out by DCI Turner in 1979, and became a central  |
 | [[Terry Reed]] | Former Air Force intelligence officer who helped the CIA set up weapons manufacturing fronts in Arkansas and Mexico for the Contras. |
 | [[Thomas Dowling]] | Fake Catholic priest and Contra activist who received $73,000 from Oliver North and Adolfo Calero for domestic propaganda operations. |
@@ -704,6 +715,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Werner Grossmann]] | Werner Großmann was the final director of the Stasi's foreign intelligence arm, the HVA, from 1987 to 1990, succeeding Markus Wolf and overseeing the dissolution of the organization at German reunification, and was prosecuted but acquitted  |
 | [[Werner Tony Asmar]] | Asmar was killed in a bomb explosion at his office in east Beirut on May 26, 1988. |
 | [[William B. Bader]] | Assistant deputy under secretary of defense for policy in 1979 who was frustrated by Israel's unauthorized access to KH-11 satellite intelligence. |
+| [[William Barr]] | Former CIA employee who became Attorney General in 1991 and again in 2019; he appointed the INSLAW and BNL special counsels and urged the Iran-Contra pardons of 1992. |
 | [[William Broe]] | Chief of the CIA's Western Hemisphere Division who supervised the 1970 task force against Allende, put to ITT a plan to induce economic collapse in Chile, and ordered a stonewall after Schneider was shot. |
 | [[William Burns]] | William J. Burns is an American diplomat and intelligence official who served as U.S. Deputy Secretary of State, president of the Carnegie Endowment, and Director of Central Intelligence from 2021 to 2025 under Joe Biden, and whose multiple |
 | [[William Cameron Townsend]] | The California-born fundamentalist missionary who founded the Summer Institute of Linguistics and Wycliffe Bible Translators, creating the world's largest Bible translation organization by cultivating relationships with Latin American gover |
@@ -750,8 +762,10 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Claiborne Pell]] | Claiborne Pell (1918-2009) was a powerful Democratic Senator from Rhode Island and a ranking member of the Senate Foreign Relations Committee. |
 | [[Claude Kirk]] | Governor of Florida from 1967 to 1971 who put George Wackenhut and his company's detectives in charge of a war on crime paid for by private donors, which the FBI refused to recognize. |
 | [[Cory Booker]] | Cory Booker is a U.S. Senator from New Jersey whose name appeared on the leaked 2026 roster of Peter Thiel's Dialog society and whose political rise was financed in part by Silicon Valley figures including Eric Schmidt, who backed his 2012  |
+| [[Ferdinand Marcos]] | Exiled President of the Philippines whose stolen fortune was reportedly laundered through Robert Booth Nichols via networks connected to the PROMIS scandal. |
 | [[Gudrun Ensslin]] | Gudrun Ensslin was a co-founder of the Red Army Faction and the romantic partner of Andreas Baader who provided much of the ideological seriousness of the group's founding generation, was convicted at Stammheim, and was found dead by hangin |
 | [[Henry B. Gonzalez]] | House Banking Committee chairman from San Antonio who read classified documents on American aid to Iraq into the Congressional Record in 1992 after the Justice Department asked him to stop his inquiry on national security grounds. |
+| [[Imelda Marcos]] | Widow of Philippine President Ferdinand Marcos who was acquitted with Adnan Khashoggi of racketeering and fraud charges in 1990. |
 | [[Imre Nagy]] | Imre Nagy was the Hungarian Prime Minister who led the 1956 Hungarian Revolution, announced Hungary's withdrawal from the Warsaw Pact on November 1, took refuge in the Yugoslav embassy when Soviet forces crushed the uprising, was lured out  |
 | [[Janos Kadar]] | Janos Kadar was the Hungarian communist leader installed by the Soviet Union after crushing the 1956 Hungarian Revolution who governed Hungary for 32 years under a relatively liberal 'goulash communism' economic model, having betrayed the r |
 | [[Jared Kushner]] | Jared Kushner is an American investor and former senior advisor to President Donald Trump who shaped Middle East policy through the Abraham Accords and U.S.-Saudi arms sales, maintained a WhatsApp channel with Crown Prince Mohammed bin Salm |
@@ -765,6 +779,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Mohammad Reza Pahlavi]] | Under the Shah, Iran maintained good relations with 'moderate pro-American Arab countries' such as Egypt, Jordan, and the Emirates. |
 | [[Moshe Dayan]] | Dayan's rise to prominence began when David Ben-Gurion appointed him as the new army chief of staff in late 1953, with the strategic aim of ensuring that Moshe Sharett's dovish views on the Arab question would not go unchallenged. |
 | [[Muammar Qaddafi]] | Libyan leader who pressured African nations to cut ties with Israel and was linked to the disappearance of Shi'ite leader Sheikh Mussa Sadr. |
+| [[Robert Byrd]] | Powerful West Virginia Democratic Senator in whose office Barbara Videnieks, wife of the PROMIS contracting officer Peter Videnieks, worked. |
 | [[Sheikh Mussa Sadr]] | Shi'ite leader from southern Lebanon who disappeared during a 1978 visit to Libya, believed to have been killed by Libyan authorities. |
 | [[Stafford Sands]] | Bahamian minister and lawyer who arranged casino exemptions for clients tied to Meyer Lansky, was disgraced by a 1967 royal commission, and was kept as a client by Wackenhut during its Florida war on crime. |
 | [[Stanley Levison]] |  |
@@ -828,9 +843,11 @@ Master index of the people pages, generated from each page's `category` and `sum
 
 | Name | Description |
 | --- | --- |
+| [[Alan Standorf]] | Civilian analyst at Vint Hill Farms Station, the Army-run NSA post in Virginia, found beaten to death in his car at Washington National Airport in January 1991, whom Bill Turner named as a source of the BCCI and PROMIS documents in Danny Ca |
 | [[Allan Thompson]] | Reporter for the Toronto Star who was briefed by Sean McDade on his PROMIS investigation in 2000. |
 | [[Alvin Ash]] | Alvin Wilson Ash (1921-2019) was a retired U.S. Army Lieutenant Colonel who, as a civilian programmer and systems analyst at Computer Usage Company, helped develop PROMIS for the DC U.S. Attorney's Office, subsequently worked at the LEAA wi |
 | [[Anthony Fratianno]] | Alleged mobster observed meeting with Dr. John Philip Nichols and La Cosa Nostra figures, believed to involve financial transactions. |
+| [[Anthony Pasciuto]] | Anthony Pasciuto was the Deputy Director of the Executive Office of U.S. |
 | [[Arnold Burns]] | Arnold Burns served as Deputy Attorney General under Edwin Meese and was the senior DOJ official whose private admission to investigators that INSLAW's proprietary rights claim was legitimate became a central finding of the House Judiciary  |
 | [[Arthur Welmas]] | Tribal Chairman of the Cabazon Band of Mission Indians involved in the Cabazon/Wackenhut Joint Venture. |
 | [[Baldur K. Kleine]] | Business partner tasked by Rafi Eitan to receive the PROMIS software with its intelligence trap door from Earl Brian for deployment in Guatemala. |
@@ -844,6 +861,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[C. Madison Brewer]] | C. Madison 'Brick' Brewer was the DOJ project manager for the INSLAW PROMIS implementation contract, whose prior employment as general counsel for INSLAW's predecessor organization became central to allegations that his administration of th |
 | [[Cap Kressop]] | Technical wizard and Mormon approached by Robert Booth Nichols to manufacture a prototype laser rifle sight under suspicious terms. |
 | [[Charles Dennis McKee]] | Major and senior member of the CIA's MC-10 intelligence cell killed on Pan Am Flight 103 over Scotland after returning from a Beirut mission. |
+| [[Charles Docter]] | INSLAW's bankruptcy counsel who told the House Judiciary Committee that in July 1987 the former bankruptcy judge Roger Whelan threatened to organize opposition to Judge Bason's reappointment over an unpaid fee petition. |
 | [[Charles Hayes]] | Charles Hayes was a salvage dealer from Nancy, Kentucky, who became involved in the PROMIS Software Scandal through his contact with Bill Hamilton. |
 | [[Charles R. Work]] | Charles R. Work was Deputy Chief of the DC U.S. Attorney's Office Superior Court Division who co-directed the original PROMIS design team with Joan E. Jacoby and project manager Bill Hamilton in 1969, then served as Deputy Administrator of  |
 | [[Charles Trombetta]] | Charles Trombetta was identified by Lois Battistoni as an individual who might have information about the DOJ and Inslaw. |
@@ -856,15 +874,12 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[David F. Levi]] | U.S. Attorney named in a Writ of Mandamus for refusing to investigate corruption in Mariposa County tied to the Queen's Accident case. |
 | [[Dean C. Merrill]] | Dean C. Merrill co-founded the Institute for Law and Social Research (ILSR) with Bill Hamilton on October 15, 1973, and served as a Vice President of INSLAW, Inc. through at least April 1982, having also been a member of the original 1969 t |
 | [[Dennis W. Wright]] | Dennis W. Wright was a member of the original 1969 PROMIS design team who went on to work for INSLAW directly by 1974, and by 1990 was a Senior Research Computer Scientist in the DOJ's ICMS Re-engineering project within the Division of Inno |
-| [[Diana, Princess of Wales]] | Princess of Wales whose 1997 death alongside Dodi Fayed is referenced in research tied to the PROMIS scandal and its web of interconnected intelligence figures. |
-| [[Dodi Fayed]] | Egyptian multi-millionaire film producer and son of Mohammed Al-Fayed, romantically involved with Princess Diana; died with her in a 1997 Paris car crash. |
 | [[Dominic Laiti]] | Dominic Laiti was the Chairman of Hadron, Inc., a company that became central to Inslaw's allegations of a conspiracy to steal its PROMIS software. |
 | [[Donald Carr]] | DOJ political appointee who showed a 1985 document revealing PROMIS software was being provided to an Arab Sheik for resale. |
 | [[Dr. John Philip Nichols]] | Nichols formalized a joint venture with Wackenhut Corporation on April 1, 1981, to establish 'Cabazon Arms' on the reservation. |
 | [[E.B. Cartinhour]] | FBI agent from Lexington, Kentucky, investigating PROMIS software sales to Israel who was reportedly disaffected over the October Surprise. |
 | [[Edward Hurley]] | Edward Hurley was a Vice President at Hadron, Inc., in charge of its criminal justice systems work. |
 | [[Elliot Richardson]] | Elliot Richardson served as U.S. Attorney General under Nixon before resigning during the Saturday Night Massacre, and later became INSLAW's lead outside counsel, declaring the PROMIS conspiracy 'far more sinister than anything revealed in  |
-| [[Ferdinand Marcos]] | Exiled President of the Philippines whose stolen fortune was reportedly laundered through Robert Booth Nichols via networks connected to the PROMIS scandal. |
 | [[Floyd Bankson]] | Floyd Bankson was a system engineer in the Criminal Division of the DOJ, involved with the implementation of Project Eagle. |
 | [[Frank McCoy]] | Former Southern California cop appointed as deputy to investigate Ron Van Meter's disappearance in Mariposa County. |
 | [[Frank Nugan]] | Co-founder of Nugan Hand Bank in Australia, linked to CIA-connected Air America officials and international money laundering. |
@@ -881,15 +896,15 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Gerardo Catena]] | Chief lieutenant to the Genovese Crime Family who owned almost 20 percent of the Murchison Oil Lease Company in Oklahoma. |
 | [[Glen Heggstad]] | According to the State Attorney General's office, Jimmy Hughes offered to hire Heggstad to murder Alvarez, who was going to 'blow the whistle' on illegal weapons manufacturing deals signed off by Cabazon tribal leadership. |
 | [[Glen R. Shockley]] | Shockley's name appeared in Michael Riconosciuto's statement to the FBI, where Riconosciuto claimed that Robert Booth Nichols 'runs Glen R. |
+| [[Gregory McKain]] | INSLAW programmer whom Jack Rugh of the Justice Department telephoned in February 1985 with a job offer and the word that the trustees expected INSLAW to be liquidated within sixty days, the call Judge Bason treated as evidence of a plan to |
 | [[Harold Bredesen]] | FGBMFI member who in 1970 prayed with California Governor Ronald Reagan alongside Pat Boone and George Otis. |
 | [[Harold H. Titus Jr.]] | Harold H. Titus Jr. served as U.S. Attorney for the District of Columbia following Thomas A. Flannery and, in February 1973, made the decision to upgrade PROMIS to a real-time online system capable of tracking more than 160 variables per ca |
+| [[Harry Jones]] | Harry Jones was an Assistant U.S. |
 | [[Ian Stuart Spiro]] | However, news reports, specifically from the *Oceanside Blade-Citizen*, noted that documents and U.S. |
 | [[Ignacio Paz]] | Deputy Chief of Staff for Intelligence in the Philippine government who used Robert Booth Nichols to move money into Swiss bank accounts. |
-| [[Imelda Marcos]] | Widow of Philippine President Ferdinand Marcos who was acquitted with Adnan Khashoggi of racketeering and fraud charges in 1990. |
 | [[J.H.]] | Retired FBI agent in Fresno who served as a contact for Cheri Seymour and Michael Riconosciuto during investigations into drug trafficking and PROMIS. |
 | [[Jack Brooks]] | Jack Brooks (1922-2012) was a Texas Democrat who represented the Beaumont area in Congress for 42 years, chaired the House Judiciary Committee from 1989 to 1995, and presided over the three-year INSLAW investigation that produced House Repo |
 | [[Jack Rugh]] | Jack Rugh was a figure in the PROMIS Software Scandal, primarily involved in the administration of the Inslaw contract with the DOJ. |
-| [[James H. Critchfield]] | CIA officer who developed contacts with international arms merchant Adnan Khashoggi, factotum for the House of Saud. |
 | [[James Johnston]] | James Johnston was the Director of Contract Administration in the Justice Management Division of the DOJ. |
 | [[James Knapp]] | James Knapp was a non-career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
 | [[James M. Etheridge]] | James M. Etheridge served as assistant director for computer systems in the Office of Crime Analysis of the District of Columbia during the original 1969 PROMIS design effort, became acting director of that office in 1970, and served as Dep |
@@ -916,7 +931,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Joyce H. Deroy]] | Joyce H. Deroy was a member of the original 1969 PROMIS design team who subsequently joined INSLAW as a systems analyst engaged in programming and data analysis, contributed research to the PROMIS Research Project under LEAA grants in the 1 |
 | [[Jules Stein]] | Founder of MCA and longtime political supporter of Ronald Reagan who helped make Reagan a millionaire through inflated property deals. |
 | [[Kelly O'Meara]] | O'Meara co-authored a four-part investigative series for *Insight* magazine with Paul Rodriguez titled 'Nothing is Secret' (January 29, 2001), 'The Plot Thickens in PROMIS Affair' (February 5, 2001), 'PROMIS Trail Leads to Justice' (Februar |
-| [[Kim Roosevelt]] | CIA officer who developed intelligence contacts with international arms merchant Adnan Khashoggi, a key figure in the Saudi-Israeli-American arms network. |
 | [[Leslie Van Meter]] | On March 23, 1984, Leslie Van Meter filed a Citizen's Complaint with the Mariposa County Sheriff's Department, alleging negligence and unprofessionalism in the investigation of her husband's disappearance, as his body had still not been fou |
 | [[Lester Coleman]] | Coleman was paid in travelers checks sent from the Luxembourg branch of the now-collapsed BCCI. |
 | [[Lois Battistoni]] | Lois Battistoni was a former administrative employee of the DOJ Criminal Division. |
@@ -925,7 +939,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Marilyn Jacobs]] | Marilyn Jacobs was the secretary to Lowell Jensen at the DOJ. |
 | [[Marilyn Titus]] | Marilyn Titus worked for Simeon from September 1982 until January 1984, and then for Hadron for four years after leaving Simeon. |
 | [[Mark Nichols]] | Administrator of the Cabazon Tribal Council who inherited the position from his brother John Paul Nichols in 1989. |
-| [[Mark M. Richard|Mark Richard]] | Mark Richards was a career Deputy Assistant Attorney General in the Criminal Division of the DOJ. |
 | [[Marshall Riconosciuto]] | In 1981, Hercules Research Corporation developed a small electronic power supply designed to feed 30,000 volts of electricity to a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in  |
 | [[Mason O. Lidell Jr.]] | After entering the apartment and getting a brief glance at the body and the apartment, Lidell was ordered to leave. |
 | [[Matthew Kevin Gannon]] | Senior MC-10 intelligence cell member killed on Pan Am Flight 103 over Scotland after returning from a Beirut mission. |
@@ -934,7 +947,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Michael T. Hurley]] | Hurley was involved in a NSC-sanctioned drug/sting operation in Lebanon through Euramae Trading Company. |
 | [[Michele Gaudet]] | RCMP spokeswoman who confirmed the ongoing Canadian investigation into whether PROMIS software contained back-door access to secret systems. |
 | [[Miles Matthews]] | Miles Matthews was the Executive Officer of the Criminal Division within the DOJ. |
-| [[Mohammed Al-Fayed]] | Father of Dodi Fayed and husband of Samira Khashoggi Fayed, connected to the PROMIS investigation through his son's death. |
 | [[Nancy Hamilton]] | Nancy Burke Hamilton co-founded INSLAW, Inc. with her husband Bill Hamilton and co-owned the company throughout its PROMIS software litigation against the U.S. Department of Justice. |
 | [[Nathan Baca]] | Baca interviewed Glen Heggstad, who provided him with a book he had written, autographed with a note urging Baca to seek the truth and keep an open mind, as 'just because a cop or prosecutor says something, doesn't make it true.' |
 | [[Nicholas J. Bua]] | Special Counsel appointed in 1991 to investigate the Inslaw/PROMIS allegations, whose 1993 report found no credible evidence of criminal wrongdoing. |
@@ -954,6 +966,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Paul Zalis]] | Zalis also reported that Fred Alvarez, Joseph R. |
 | [[Peter Videnieks]] | Peter Videnieks was the DOJ contracting officer who administered the INSLAW-PROMIS implementation contract, negotiated Modification 12 in April 1983, and became a central figure in allegations that the government deliberately defrauded INSL |
 | [[Peter Zokosky]] | Zokosky was a key participant in the Cabazon/Wackenhut Corporation Joint Venture, which aimed to develop and manufacture arms on the reservation. |
+| [[Philip White]] | Philip White was the Director of International Affairs for the Criminal Division of the DOJ. |
 | [[Phillip Hawes]] | Indio City Manager who confirmed the hiring of an attorney to investigate links between the Cabazon triple slayings and the Cabazon Casino in the PROMIS scandal. |
 | [[Ralph Boger]] | Friend of Fred Alvarez and victim of the 1981 execution-style triple homicide at Cabazon linked to the PROMIS scandal. |
 | [[Randy Buffam]] | Buffam was present during McDade's initial meeting with Cheri Seymour and Sue Todd. |
@@ -963,7 +976,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Richard Hanna]] | Assistant Chief of the California Highway Patrol who reported the official details of the 1983 Queen's Accident collision. |
 | [[Richard Thornburgh]] | Richard Thornburgh (1932-2020) served as U.S. Attorney General from 1988 to 1991 under Presidents Reagan and Bush, succeeding Edwin Meese, and was named alongside Meese in the House Judiciary Committee's 1992 INSLAW report as having blocked |
 | [[Robert Bratt]] | Robert Bratt was the Executive Officer for the DOJ's Criminal Division. |
-| [[Robert Byrd]] | Powerful West Virginia Democratic Senator whose executive assistant was Barbara Videnieks, wife of PROMIS figure Peter Videnieks. |
 | [[Robert Frye]] | Frye met with Michael Riconosciuto and Dr. |
 | [[Robert H. Cain]] | Robert H. Cain was a member of the original 1969 PROMIS design team and later joined INSLAW; no additional biographical details have been identified. |
 | [[Robert Whitaker]] | Robert Whitaker was a member of the original 1969 PROMIS design team who appears to have been an executive officer within the DC Department of Corrections in 1969-1970; further identification is complicated by the commonality of the name. |
@@ -976,7 +988,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Ronald LeGrand]] | Ronald LeGrand was the Chief Investigator for the Senate Judiciary Committee. |
 | [[Ross Perot]] | American businessman connected to intelligence operative Robert Booth Nichols through activities in Vietnam linked to the intelligence underworld. |
 | [[Sally Denton]] | Author of The Blue Grass Conspiracy about the mysterious death of Andrew Thornton, a former narcotics officer connected to CIA drug operations. |
-| [[Samira Khashoggi Fayed]] | Sister of Adnan Khashoggi and mother of Dodi Fayed, connected to the Khashoggi family's arms dealing network. |
 | [[Sandra Spooner]] | Sandra Spooner was the Deputy Director of the Commercial Litigation Branch, Civil Division, within the DOJ. |
 | [[Sanford McDonnell]] | American engineer and CEO of McDonnell Douglas Corporation, member of FGBMFI connected to the PROMIS scandal network. |
 | [[Scott Lawrence]] | Lawrence's investigation quickly expanded beyond the software to follow a drug trail. |
@@ -992,12 +1003,12 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Terry D. Miller]] | In January 1991, Miller sent a letter to FBI Director William Sessions, stating his belief that FOIMS was stolen. |
 | [[Thomas A. Flannery]] | Thomas A. Flannery was U.S. Attorney for the District of Columbia from 1967 to 1970 who, in 1969, directed the commissioning of the computer-based case management system that became PROMIS, and subsequently served as a U.S. District Court J |
 | [[Thomas Olmstead]] | Olmstead questioned Peter Videnieks during the trial about his knowledge of the Wackenhut Corporation-Cabazon Indian Reservation joint venture, his relationship with Earl Brian, and his involvement with Hadron Company. |
+| [[Thomas Stanton]] | Thomas Stanton was the Director of the Executive Office of U.S. |
 | [[Tina Sinatra]] | Daughter of Frank Sinatra who expressed interest in adapting The Last Circle and the PROMIS scandal for film or television. |
 | [[Tom Walsh]] | Walsh also provided Cheri Seymour with a significant piece of information regarding Judge Robert E. |
 | [[Tommy Marson]] | Gambino Crime Family associate who lent $50,000 to Dr. John Philip Nichols to start the Cabazon Casino. |
 | [[Vincent Caci Bologna]] | Alleged mobster observed by Indio Police meeting with Dr. John Philip Nichols and La Cosa Nostra figures at Cabazon. |
 | [[Wayne Reeder]] | California investor seen at a Wackenhut/Contra meeting, alleged to have associated with CIA operative Robert Corson. |
-| [[William Barr]] | William Barr served as the Attorney General of the United States. |
 | [[William Bradford Reynolds]] | William Bradford Reynolds served as Reagan's Assistant Attorney General for Civil Rights from 1981 to 1988 and in 2005 authenticated a May 16, 1985 letter he had signed directing U.S. Attorney William F. Weld that PROMIS software equipped w |
 | [[William Bryant, Jr.]] | Senior U.S. District Court Judge who affirmed the bankruptcy court's findings in the INSLAW case, ruling DOJ performed its contract in a hostile environment. |
 | [[William Callaway]] | Cabazon tribal member who discovered the bodies of the 1981 Alvarez/Boger/Castro triple homicide linked to the PROMIS scandal. |
@@ -1005,6 +1016,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[William F. Weld]] | This document advised Weld that the PROMIS software was being provided to an Arab Sheik for resale and general distribution in his region, contingent upon specific conditions, including a 'soft arrival' without paperwork or customs delays,  |
 | [[William Sessions]] | William Sessions was the Director of the FBI. |
 | [[William Shockley]] | U.S. Attorney in San Francisco who reportedly authored a letter stating Ben Kalka did not obtain methamphetamine precursors from the U.S. government. |
+| [[William White]] | United States Trustee for the District of Columbia on the INSLAW bankruptcy whom Anthony Pasciuto said Thomas Stanton pressured to convert the case to liquidation, a claim White denied and Bua found unsupported; distinct from the Criminal D |
 | [[Yehuda Ben-Hanan]] | Owner of Software and Engineering Consultants in Chatsworth, California and childhood friend of Ari Ben-Menashe. |
 
 ---
@@ -1080,6 +1092,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Spencer Oliver]] | Chief counsel for the House Foreign Relations Committee involved in Iran-Contra hearings, later admitting the hearings were a cover-up. |
 | [[Stephen Trott]] | Stephen Trott was the Associate Attorney General who intervened to reduce the sentence of Contra-connected drug trafficker José Bueso Rosa. |
 | [[Sun-Myung Moon]] | Sun Myung Moon was the Korean religious leader whose Unification Church had connections to the Contra support network through its anti-Communist political activities. |
+| [[Terry Waite]] | Envoy of the Archbishop of Canterbury in the Lebanon hostage negotiations whom Oliver North called 'our only access to events in Lebanon,' himself held hostage in Beirut until 1991. |
 | [[Timothy Phelps]] | Middle East correspondent for Newsday who received early details of the Iran-Contra story from Ari Ben-Menashe. |
 | [[Uri Simchoni]] | Brigadier General Uri Simchoni was a member of the Iran-Israel Joint Committee. |
 | [[Wilma Hall]] | Secretary to Robert McFarlane at the NSC and mother of Fawn Hall who helped expose McFarlane's contacts with Rafi Eitan. |
@@ -1179,7 +1192,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Ivan Torres]] | Nicaraguan drug trafficker and FDN West Coast branch chief who managed Danilo Blandon's Los Angeles cocaine operations while claiming CIA awareness of his drug activities. |
 | [[Jes Staley]] | Career JPMorgan banker who managed Jeffrey Epstein's private-banking relationship, later became Barclays chief executive, and was banned from senior UK finance roles in 2023 for misleading the regulator about the nature and timing of his Ep |
 | [[Jimmy Hoffa]] | Prominent American labor union leader whose loans financed deals involving Clint Murchison, Sr., Richard Nixon, and Meyer Lansky. |
-| [[Jimmy Hughes]] | Hughes admitted to a bloody past, stating he became a professional hit man for the Mafia after a six-year military career. |
+| [[Jimmy Hughes]] | Former security director of the Cabazon tribe's casino and bingo operations, later a missionary in Honduras, charged in 2009 with the 1981 murders of Fred Alvarez, Ralph Boger and Patricia Castro; the case was dismissed in 2010. |
 | [[Jimmy Savile]] | Jimmy Savile was a BBC Radio One DJ and prominent television personality whose death in October 2011 triggered a major police investigation into widespread child abuse at the BBC. |
 | [[John Gay]] | John Gay served as a principal child pornographer in the TAG Films operation throughout the 1980s and 1990s, working in tandem with Alan Williams and Lee Tucker to generate and circulate explicit content involving underage boys transported  |
 | [[John Gotti]] | Prominent figure associated with the Gambino Crime Family who enjoyed a special relationship with MCA president Eugene Giaquinto per FBI wiretaps. |
@@ -1245,6 +1258,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Dean Corll]] | Dean Arnold Corll (December 24, 1939 – August 8, 1973), known as the Candyman Killer, was an American serial killer who murdered at least 28 teenage boys and young men in Houston, Texas, between 1970 and 1973. |
 | [[Eugene Horsch]] | Son of the pornographer R.C. Horsch and owner of the Olney house searched in 2026, held on federal firearm and forged-credential counts and charged with no offense against the seven missing women. |
 | [[Gerald Richards]] | Gerald Richards, full name Gerald Stewart Richards, was a high school gym teacher in Port Huron, Michigan, who also worked as a masseuse, magician, hypnotist, and Republican candidate for local government. |
+| [[Gerard John Schaefer]] | Martin County, Florida, deputy sheriff convicted in 1973 of two murders and linked by recovered possessions to at least six missing women, and by one account a Wackenhut security guard in 1970. |
 | [[Ghislaine Maxwell]] | Ghislaine Maxwell is the British socialite convicted in December 2021 of sex trafficking conspiracy and sex trafficking of a minor for her role as Jeffrey Epstein's principal accomplice, daughter of the publishing mogul Robert Maxwell who w |
 | [[Gregory Greene]] | Gregory Greene was arrested in January 1977 alongside Christopher Busch for sexually assaulting a boy in Michigan; during interrogation he confessed that Busch had killed a boy at a family cabin near Ess Lake and identified the victim as Ma |
 | [[James Michael Holwell]] | James Michael Holwell was one of two Finders members arrested in Tallahassee, Florida on February 4, 1987 while transporting six malnourished children, charged with child abuse and resisting arrest, with all charges subsequently dropped in  |
@@ -1495,6 +1509,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Don Thrasher]] | Thrasher also learned about Rod Sinclair, Jr.'s education in Japan and his later work in Army C.I.D.. |
 | [[Doyle McManus]] | Los Angeles Times Washington bureau chief who played a central role in spreading a 1984 CIA leak about Sandinista drug trafficking and later led the Times' refutation of Contra drug trafficking allegations. |
 | [[Edward Hunter]] | CIA propaganda operative working under journalistic cover who coined the term 'brainwashing' in 1950 to describe Chinese Communist interrogation methods, helping create the Cold War fear that justified the CIA's behavioral control programs. |
+| [[Garby Leon]] | Hollywood development executive at Joel Silver Productions and Columbia who wrote to Janet Reno in July 1993 demanding an inquiry into Paul Wilcher's death as a parallel to Casolaro's, and who prompted and assisted Cheri Seymour's investiga |
 | [[Georg Hodel]] | Swiss freelance journalist based in Managua who located Norwin Meneses in a Nicaraguan prison and uncovered court files documenting his drug trafficking for the Contras, playing a critical role in the Dark Alliance investigation. |
 | [[Gerard Messadie]] | Gérald Messadié was the editor of *Science et Vie*, a top French science journal. |
 | [[Hal Hendrix]] | Latin America correspondent who joined ITT in 1967, co-wrote its 1970 memorandum urging action against Allende, and was named an unindicted co-conspirator when his superiors were charged with lying to the Senate. |
@@ -1548,6 +1563,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Alan Michael May]] | Former Northern California field director for Nixon's presidential campaign found dead in 1991 after being linked to an alleged Republican plot to bribe Iranian officials to delay hostage release. |
 | [[Alexander Acosta]] | Alexander Acosta is the US Attorney for the Southern District of Florida who negotiated Jeffrey Epstein's 2008 non-prosecution agreement, later found by a federal judge to have violated the Crime Victims' Rights Act and by the DOJ to reflec |
 | [[Allan Boyak]] | After law school, Boyak joined a Hollywood law firm and became involved in criminal defense work, representing a number of 'well placed West Coast drug traffickers.' He later moved to Utah, maintaining a part-time law practice in California |
+| [[Anthony Moscato]] | Career Justice Department administrator, acting director of the Executive Office for United States Attorneys during the Bua inquiry, whom Bill Hamilton accused of helping deny Judge Bason's reappointment; he told the special counsel he had  |
 | [[Arnold Overoye]] | Overoye's 'procedure' of referring complaints directly back to local agencies was noted as a consistent practice, leading to threats, intimidation, and fear for complaining individuals in Mariposa County. |
 | [[Arthur Hanes]] | Former FBI agent, CIA confidential correspondent from 1952 to 1959 and recruiter of Alabama Guard pilots for the Bay of Pigs, mayor of Birmingham with Bull Connor, and James Earl Ray's first lawyer. |
 | [[Ashley Gorski]] | Ashley Gorski is a senior staff attorney in the ACLU's National Security Project who has led the organization's Fourth Amendment litigation against Section 702 backdoor searches, including joining the defense in United States v. Russell. |
@@ -1563,6 +1579,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Celerino Castillo]] | DEA agent who discovered Contra drug trafficking operations at Ilopango Air Force Base in El Salvador and had his investigation repeatedly shut down by the CIA and State Department. |
 | [[Chris Cannon]] | San Francisco defense attorney for Ben Kalka who uncovered evidence that methamphetamine precursors were provided by the U.S. government. |
 | [[Chris Moore]] | Former reserve police officer and office manager for Pyramid International Security Consultants who witnessed the company's El Salvador operations firsthand. |
+| [[Christine Odell Cook Miller]] | Judge of the Court of Federal Claims who, as hearing officer on the Senate's 1995 referral of INSLAW's claims, ruled on July 31, 1997, that every version of PROMIS was in the public domain and INSLAW was owed nothing, ending the affair in t |
 | [[Christopher Jackson (Baltimore CHS)]] | Christopher Jackson is the FBI confidential human source designated CHS-1 in the 2023 Baltimore Power Grid Conspiracy case, whose testimony was central to Brandon Russell's 2025 conviction and whose undisclosed pre-testimony payment became  |
 | [[Chuck Jones]] | DEA agent who served as Danilo BlandÃ³n's primary handler from 1993 to 1995 and denied any knowledge of BlandÃ³n's Contra drug trafficking history during a contentious meeting with Gary Webb. |
 | [[Craig Chretien]] | DEA Special Agent in Charge of the San Diego regional office who met with Gary Webb in October 1995 in an attempt to dissuade him from publishing the Dark Alliance story, and who was later promoted to head the DEA's International Division. |
@@ -1616,12 +1633,14 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Ken Mattheys]] | In October 1984, Mattheys recruited private investigator Raymond Jenkins and retired FBI agent Tom Walsh from Merced to investigate Van Meter's disappearance and help him clean up the Sheriff's Department. |
 | [[Kenneth Lanning]] | Kenneth V. Lanning was an FBI Behavioral Science Unit supervisory agent whose 1992 monograph debunking organized satanic cult abuse allegations became the primary law enforcement document shaping institutional skepticism toward claims like  |
 | [[Kiki Camarena]] | DEA agent Enrique "Kiki" Camarena was tortured and murdered in Mexico in February 1985, an investigation that uncovered CIA collaboration with Mexican drug cartels providing support to the Contras. |
+| [[Lee Rawls]] | Justice Department legislative affairs chief under Thornburgh who advised him how to thwart the House Banking Committee's BNL inquiry and corresponded with the House Judiciary Committee during its INSLAW investigation; later chief of staff  |
 | [[Leonard Garment]] | Leonard Garment was a prominent Washington attorney, former Nixon White House Counsel, and partner at Dickstein, Shapiro & Morin, whose meeting with Deputy Attorney General Arnold Burns preceded the dismissal of INSLAW's lead litigation cou |
 | [[Leonard Joy]] | Lawyer from the Legal Aid Society of New York who visited Ari Ben-Menashe in jail offering to broker a plea deal. |
 | [[LJ Oneale]] | Assistant U.S. Attorney who prosecuted Ricky Ross and represented the government in efforts to suppress evidence of Danilo Blandón's Contra connections during the trial. |
 | [[Lucky Jordan]] | Reserve deputy who reported corruption to the FBI on the same day Ron Van Meter reported to the California Attorney General's office. |
 | [[Luigi Calabresi]] | Luigi Calabresi was the Milan police commissioner present during Giuseppe Pinelli's fatal fall from a fourth-floor window during Piazza Fontana interrogations in 1969, who was subsequently murdered in 1972 in an assassination ordered by Lot |
 | [[Marilyn Huff]] | Federal judge who presided over Ricky Ross's 1996 trial in San Diego, allowing the government to conduct classified testimony at sidebar and denying defense motions to obtain records about Danilo Blandón's Contra connections. |
+| [[Mark M. Richard]] | Deputy assistant attorney general in the Criminal Division for twenty years, named by a Senate investigator's source as knowing of Lowell Jensen's conduct in the INSLAW matter and questioned by the Bua inquiry over the Office of Special Inv |
 | [[Marvin Rudnick]] | Rudnick subsequently lost his job when he refused to drop the investigation into MCA. |
 | [[Marvin Shoob]] | Federal judge in Atlanta who in 1992 let Christopher Drogoul withdraw his guilty plea, removed himself from the BNL case saying the bank's Rome officers had approved the Iraqi loans, and called the defendants pawns. |
 | [[Michael DeFeo]] | DeFeo reportedly threatened Richard Stavin about talking about the circumstances of the case, or 'throwing dirt,' when Stavin quit the Organized Crime Strike Force in May 1989. |
@@ -1646,6 +1665,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Romeo]] | U.S. Customs Service agent who partnered with Joe King on the Hashemi sting operation targeting Israeli intelligence arms sales to Iran. |
 | [[Ron Williams]] | Williams was the man who had tried to pull Roderick Sinclair out of the sheriff's vehicle on the day of the accident. |
 | [[Ronald Caffrey]] | Acting assistant administrator of the DEA operational division who explained the Khourah controlled delivery drug operation. |
+| [[Royce Lamberth]] | Chief of the civil division of the U.S. Attorney's office in Washington who, weeks before taking the federal bench in 1987, delivered Judge Bason's INSLAW ruling to the judge chairing the panel on Bason's reappointment; later presiding judg |
 | [[Rudolph Giuliani]] | U.S. Attorney for the Southern District of New York involved in the Hashemi sting operation targeting Israeli intelligence arms sales to Iran. |
 | [[Sam Papich]] | FBI liaison officer to the CIA whom James Angleton told of the agency's New York mail opening in 1958, and who in 1967 recommended Wackenhut to William Harvey as a reputable private investigator. |
 | [[Sandalio Gonzalez]] | DEA agent in Costa Rica who handled Norwin Meneses as an informant and kept him off official DEA records while Meneses continued drug trafficking operations. |
@@ -1823,6 +1843,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | --- | --- |
 | [[Che Guevara]] | Ernesto 'Che' Guevara was an Argentine Marxist revolutionary who witnessed the 1954 CIA-backed coup against Jacobo Arbenz in Guatemala, became a key military commander of the Cuban Revolution, served as Minister of Industries in Cuba, and w |
 | [[Clay Shaw]] | New Orleans businessman and Trade Mart founder, arrested by Jim Garrison in 1967 for conspiracy in the Kennedy assassination and acquitted in 1969, who reported to the CIA's Domestic Contact Service from 1948 to 1956. |
+| [[Diana, Princess of Wales]] | Princess of Wales whose 1997 death alongside Dodi Fayed is referenced in research tied to the PROMIS scandal and its web of interconnected intelligence figures. |
 | [[Grigori Rasputin]] | Grigori Rasputin was a Russian mystic and self-proclaimed holy man who exerted significant influence over the late Russian Imperial family. |
 | [[Jack Ruby]] | Jack Ruby (born Jacob Rubenstein) was a Dallas strip club owner with organized crime connections who shot and killed Lee Harvey Oswald in the basement of Dallas Police headquarters on November 24, 1963 in front of live television cameras, w |
 | [[Jacobo Arbenz]] | Jacobo Arbenz was the democratically elected President of Guatemala from 1951 to 1954 whose land reform program expropriating United Fruit Company holdings prompted the CIA's Operation PBSUCCESS, which overthrew his government in June 1954  |
@@ -1835,6 +1856,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Peter Fechter]] | Peter Fechter was an eighteen-year-old East German bricklayer who became one of the Berlin Wall's most visible victims when, on August 17, 1962, he was shot while attempting to cross at Checkpoint Charlie and left dying in the death strip f |
 | [[Rafael Trujillo]] | Rafael Trujillo was the dictator of the Dominican Republic from 1930 until his assassination on May 30, 1961, who received CIA support through much of his rule until his sponsorship of assassination plots against Venezuelan President Romulo |
 | [[Rosa Parks]] | Rosa Parks was an NAACP secretary in Montgomery, Alabama, whose December 1, 1955 arrest for refusing to give up her bus seat to a white passenger triggered the Montgomery Bus Boycott and launched the organized civil rights movement of the 1 |
+| [[Samira Khashoggi Fayed]] | Sister of Adnan Khashoggi and mother of Dodi Fayed, connected to the Khashoggi family's arms dealing network. |
 
 ---
 
@@ -1844,7 +1866,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | --- | --- |
 | [[An Marchal]] | An Marchal was a 17-year-old Belgian girl abducted by Marc Dutroux and Michel Lelievre in August 1995 while camping at Ostend; she was murdered in captivity and her body discovered in September 1996. |
 | [[Annie Bouty]] | Annie Bouty, a Belgian lawyer, was the partner of Michel Nihoul and assisted in his legal matters during the 1980s and 1990s, including fraud cases. |
-| [[Anthony Pasciuto]] | Anthony Pasciuto was the Deputy Director of the Executive Office of U.S. |
 | [[Armand Van Ghysegham]] | Armand Van Ghysegham was a book publisher operating under the name Aba-Vangh and the owner of two esoteric bookstores in Brussels, Belgium. |
 | [[Baron Benoit de Bonvoisin]] | Baron Benoit de Bonvoisin served as a director of Societe Generale de Banque (also referred to as 'Society General'), which was described as 'the largest financial firm in the country' (Belgium). |
 | [[Beat Meier]] | Beat Meier was a Swiss pedophile with international convictions who operated within the CRIES network under the auspices of UNICEF and whose name arose in the Marc Dutroux investigation; he was arrested in 1987 trafficking a child on the Os |
@@ -1860,7 +1881,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Gerrit Ulrich and Robbie Van Der Plancken]] | Gerrit-Jan Ulrich was a Dutch computer technician who administered the Apollo Bulletin Board Service child pornography network and was murdered in Italy in June 1998 after passing evidence disks to investigator Marcel Vervloesem; Robbie Van |
 | [[Gerrit-Jan Ulrich]] | Gerrit-Jan Ulrich was a German computer technician and child trafficker who played a pivotal role in the international child pornography distribution network known as the Apollo Bulletin Board Service. |
 | [[Gina Pardaens-Bernaer]] | Gina Pardaens-Bernaer was a Belgian activist and member of the Morkhoven Workgroup who played a crucial role in exposing international child trafficking networks in the 1990s. |
-| [[Harry Jones]] | Harry Jones was an Assistant U.S. |
 | [[Jean Manuel Vuillaume]] | Jean Manuel Vuillaume was a Belgian pornographer who headed Toro Bravo, a child pornography production company based in Bogota, Colombia. |
 | [[Jean-Claude Van Espen]] | Jean-Claude Van Espen was a Belgian judge assigned to the reopened investigation of the Christine Van Hees murder from 1984 after Michel Nihoul was named as a suspect in 1996. |
 | [[Jean-Louis Delamotte]] | Jean-Louis Delamotte, a Belgian businessman, served as the manager of Achats Services Commerces (ASCO), a company owned by Michel Nihoul and involved in fraud and vehicle supply during the 1990s. |
@@ -1877,7 +1897,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Michel Forgeot]] | Michel Forgeot founded Achats Services Commerces (ASCO), a company involved in fraud and vehicle supply during the 1990s. |
 | [[Michel Lelievre]] | Michel Lelievre, born 1967, met Marc Dutroux in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network. |
 | [[Michelle Martin]] | Michelle Martin was the wife and accomplice of Belgian child killer Marc Dutroux, convicted in 2004 of complicity in murder for allowing two child captives to starve to death; sentenced to 30 years, she was paroled in 2012. |
-| [[Philip White]] | Philip White was the Director of International Affairs for the Criminal Division of the DOJ. |
 | [[Philippe Carpentier]] | Philippe Carpentier, a former Belgian justice ministry official, served as a director in the Ministry of Justice during the 1980s and 1990s, including roles in prison administration. |
 | [[Rasti Rostelli]] | Rasti Rostelli was a hypnotist whose stage show preceded the kidnapping of An Marchal and Eefje Lambrecks by Marc Dutroux. |
 | [[Rene Michaux]] | Rene Michaux was the Belgian gendarmerie warrant officer who headed the secret surveillance operation against Marc Dutroux in 1995 and who failed to find the hidden dungeon during a December 1995 search, a failure that allowed two imprisone |
@@ -1885,7 +1904,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Robert Jan Warmerdam]] | Robert Jan Warmerdam operated as a transvestite prostitute in Amsterdam, Netherlands, providing testimony that linked child trafficking networks to the Marc Dutroux case and the Apollo Bulletin Board Service during the late 1990s. |
 | [[Roger Boas]] | Roger Boas, a Belgian industrialist, owned ASCO Industries NV, an aerospace company in Zaventem near Brussels, implicated in the X-Dossier for alleged snuff film production. |
 | [[Sabine Dardenne]] | Sabine Dardenne, aged 12, disappeared from her hometown of Farciennes, Belgium, on May 26, 1996, while riding her bicycle to school. |
-| [[Thomas Stanton]] | Thomas Stanton was the Director of the Executive Office of U.S. |
 | [[Tony Van den Boggaert]] | Tony Van den Boggaert, a family acquaintance of Regina Louf (witness X1), operated as her pimp from her early teens during the 1970s and 1980s in Ghent, Belgium. |
 
 ---
@@ -1938,9 +1956,13 @@ Master index of the people pages, generated from each page's `category` and `sum
 | Name | Description |
 | --- | --- |
 | [[Alan Bond]] | In 1987, a contribution was made to the West Australian Labor Party from the CIA, involving Richard Babayan and Earl Brian acting on behalf of Hadron. |
+| [[Alan Patricof]] | New York venture capitalist who founded Patricof & Co. Ventures, later Apax Partners, the firm whose 53rd Street Ventures fund invested in INSLAW about 1982. |
+| [[Allan R. Tessler]] | Senior managing partner of the New York firm Shea and Gould whom Bill Hamilton's affidavit named as Earl Brian's and Hadron's merger lawyer and as a relative of INSLAW's investor Daniel Tessler, who denied any relation; later a merchant ban |
+| [[Dodi Fayed]] | Egyptian multi-millionaire film producer and son of Mohammed Al-Fayed, romantically involved with Princess Diana; died with her in a 1997 Paris car crash. |
 | [[Donald Kendall]] | Chairman of PepsiCo and benefactor of Richard Nixon who in September 1970 brought the Chilean publisher Agustín Edwards to the president's men the day before Nixon ordered a coup, and was later investigated for perjury. |
 | [[Frania Tye Lee]] | Bigamous second wife of H.L. Hunt, who signed a release in 1942, sued his estate in 1975, and settled for 7.5 million after the only record of the marriage was cut from a Florida ledger. |
 | [[Harold Geneen]] | Chairman of ITT who in 1970 offered the CIA a fund to keep Salvador Allende from the Chilean presidency, swore to the Senate that ITT had done nothing, and was not charged with perjury. |
+| [[Hassan Yassin]] | Son of King Abdulaziz's adviser Youssef Yassin, cousin of Adnan Khashoggi and associate of Kamal Adham, who headed the Saudi Information Office in Washington from 1972 to 1981 and died in May 2026. |
 | [[Hassie Hunt]] | Eldest son of H.L. Hunt, an oil finder worth millions at twenty-four, who broke down in the army in 1943 and was lobotomized, and whose trusts were run by his brothers and sisters. |
 | [[Hunt brothers]] | Nelson Bunker, William Herbert, and Lamar Hunt, the sons of H.L. Hunt's first family, who held Placid Oil and Penrod Drilling in trust and were found liable in 1988 for manipulating the silver market. |
 | [[James Riady]] | Indonesian banker, son of Lippo Group founder Mochtar Riady, who interned at Stephens Inc., ran Worthen Bank's international division in Little Rock, and in 2001 paid the largest campaign finance fine in American history. |
@@ -1948,6 +1970,8 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Lyda Bunker Hunt]] | Arkansas schoolteacher who married H.L. Hunt in 1914, bore the six children whose trusts came to hold most of the Hunt fortune, and died in 1955 while he kept two other families. |
 | [[Margaret Hunt Hill]] | Eldest child of H.L. Hunt, his business aide, trustee of her lobotomized brother's fortune, who after the 1980 silver collapse made Bunker and Herbert Hunt pledge more property to protect Placid Oil. |
 | [[Mark Kesselman]] | Mark Kesselman was formerly associated with Allen and Company in New York City, a Wall Street Investment Bank. |
+| [[Mohammed Al-Fayed]] | Father of Dodi Fayed and husband of Samira Khashoggi Fayed, connected to the PROMIS investigation through his son's death. |
+| [[Risa Heller]] | New York crisis-communications consultant, formerly press secretary to Chuck Schumer, whose firm has represented Jared Kushner, Harvey Weinstein and Jeff Zucker. |
 | [[Ruth Ray Hunt]] | Hunt Oil secretary from Idabel, Oklahoma, who bore H.L. Hunt four children from 1943 under the name Wright in a house near his family home, and married him in 1957 after his first wife's death. |
 | [[Sheffield Nelson]] | Witt Stephens's successor at Arkla, who broke with the Stephens family in 1975, sold gas leases to Jerry Jones that the utility bought back at a large markup, and lost to Bill Clinton in 1990. |
 | [[William Herbert Hunt]] | Son of H.L. Hunt who was indicted with his brother Bunker for wiretapping their father's aides, was found liable in the 1980 silver manipulation, and kept Petro-Hunt in a trust beyond his creditors' reach. |
@@ -1989,32 +2013,32 @@ Master index of the people pages, generated from each page's `category` and `sum
 | --- | --- |
 | Key Figures | 80 |
 | Psychics & Remote Viewers | 147 |
-| Scientists & Researchers | 72 |
+| Scientists & Researchers | 79 |
 | Skeptics & Critics | 24 |
-| Intelligence & Government | 365 |
-| Political Figure | 36 |
+| Intelligence & Government | 370 |
+| Political Figure | 39 |
 | Military | 41 |
-| PROMIS Scandal | 178 |
-| Iran-Contra | 70 |
+| PROMIS Scandal | 175 |
+| Iran-Contra | 71 |
 | BCCI Scandal | 40 |
 | Organized Crime | 92 |
-| Crime & Abuse Networks | 35 |
+| Crime & Abuse Networks | 36 |
 | Extremism & Violent Networks | 118 |
 | New Right | 13 |
 | Technologists | 30 |
 | AI & Effective Altruism | 10 |
-| Authors & Journalists | 49 |
+| Authors & Journalists | 50 |
 | Philanthropists & Benefactors | 4 |
-| Law Enforcement & Legal | 119 |
+| Law Enforcement & Legal | 124 |
 | UFO & Anomalous Phenomena | 23 |
 | Nuclear Scientists & Programs | 93 |
 | World War II & Nazi Era | 14 |
-| Historical Figure | 14 |
-| Belgium Scandals | 45 |
+| Historical Figure | 16 |
+| Belgium Scandals | 41 |
 | JFK Assassination | 7 |
 | Psychology & Behavioral Science | 8 |
 | Other | 7 |
-| Business & Finance | 15 |
+| Business & Finance | 21 |
 | Crime Investigation | 9 |
 | Intelligence Scandal | 5 |
-| Total | 1763 |
+| Total | 1787 |

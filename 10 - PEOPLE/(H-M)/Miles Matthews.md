@@ -11,9 +11,9 @@ summary: "Miles Matthews was the Executive Officer of the Criminal Division with
 
 Miles Matthews was the Executive Officer of the Criminal Division within the [[Department of Justice|DOJ]]. He was implicated in allegations surrounding the [[PROMIS Software Scandal]].
 
-According to a source of [[Ronald LeGrand]], Matthews was one of three senior DOJ officials, along with [[James Knapp]] and [[James Johnston]], whom [[Lowell Jensen]] allegedly relied upon to engineer [[INSLAW|Inslaw]]'s problems. LeGrand's source claimed that Matthews stated in his presence that "Lowell [Jensen] wants to get [[INSLAW]] out of the way and give the business to friends."[^1]
+According to a source of [[Ronald LeGrand]], Matthews was one of three senior DOJ officials, along with [[James Knapp]] and [[James Johnston]], whom [[Lowell Jensen]] allegedly relied upon to engineer [[INSLAW|Inslaw]]'s problems. LeGrand's source claimed that Matthews stated in his presence that "Lowell [Jensen] wants to get INSLAW out of the way and give the business to friends."[^1]
 
-However, when interviewed by the Special Counsel, Miles Matthews denied ever making such a statement or believing that Lowell Jensen wanted to harm Inslaw or favor certain businesses. He also denied ever hearing of procurement documents regarding Project Eagle being improperly shredded. Matthews stated he had never met or had any contact with [[Earl Brian]], [[Hadron]], [[Dominic Laiti]], [[Simeon]], or [[Accumenics]]. The Special Counsel's investigation found no credible evidence to support the allegations against Matthews or any connection between him and a conspiracy related to Inslaw or PROMIS.[^1]
+However, when interviewed by the Special Counsel, Miles Matthews denied ever making such a statement or believing that Lowell Jensen wanted to harm Inslaw or favor certain businesses. He also denied ever hearing of procurement documents regarding [[Project Eagle]] being improperly shredded. Matthews stated he had never met or had any contact with [[Earl Brian]], [[Hadron]], [[Dominic Laiti]], [[Simeon]], or [[Accumenics]]. The Special Counsel's investigation found no credible evidence to support the allegations against Matthews or any connection between him and a conspiracy related to Inslaw or PROMIS.[^1]
 
 ### Footnotes
 

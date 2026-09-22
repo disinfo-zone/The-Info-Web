@@ -17,7 +17,7 @@ The American International Association for Economic and Social Development (AIA)
 
 The American International Association for Economic and Social Development was established by Nelson Rockefeller in 1946, alongside his for-profit IBEC (International Basic Economy Corporation). The two entities were designed to work in tandem: IBEC pursued commercial ventures while AIA conducted philanthropic and technical-assistance programs that would improve conditions for IBEC's market operations. Both were based at Rockefeller's [[Room 5600]] offices at 30 Rockefeller Plaza in New York.[^1]
 
-AIA's early programs focused on [[Brazil]] and [[Venezuela]], the two countries where the Rockefeller family had the deepest oil and investment interests. In Venezuela, AIA worked alongside state governments and the oil companies, including Rockefeller's [[Creole Petroleum]], on agricultural credit and rural development. By the early 1950s, Venezuelan state governments and the oil companies began withdrawing from AIA programs as the [[Marcos Perez Jimenez]] dictatorship deteriorated political conditions.
+AIA's early programs focused on [[Brazil]] and [[Venezuela]], the two countries where the [[Rockefeller family]] had the deepest oil and investment interests. In Venezuela, AIA worked alongside state governments and the oil companies, including Rockefeller's [[Creole Petroleum]], on agricultural credit and rural development. By the early 1950s, Venezuelan state governments and the oil companies began withdrawing from AIA programs as the [[Marcos Perez Jimenez]] dictatorship deteriorated political conditions.
 
 ### Brazil Operations
 

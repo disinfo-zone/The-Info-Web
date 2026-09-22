@@ -39,7 +39,7 @@ Despite these doubts, Johnson and McNamara presented the August 4 incident to Co
 
 On August 7, 1964, Congress passed the Gulf of Tonkin Resolution (formally the Southeast Asia Resolution) with 98-2 votes in the Senate and unanimously in the House. The resolution authorized the President to take "all necessary measures to repel any armed attack against the forces of the United States and to prevent further aggression." Only Senators Wayne Morse and Ernest Gruening voted against.
 
-The resolution became the legal basis for the Johnson and [[Richard Nixon|Nixon]] administrations' escalation of the Vietnam War, including the introduction of ground combat troops in 1965 and the sustained bombing campaigns against North Vietnam. By 1968, over 500,000 American troops were deployed in Vietnam.[^1]
+The resolution became the legal basis for the Johnson and [[Richard Nixon|Nixon]] administrations' escalation of the [[Vietnam War]], including the introduction of ground combat troops in 1965 and the sustained bombing campaigns against North Vietnam. By 1968, over 500,000 American troops were deployed in Vietnam.[^1]
 
 ### Subsequent Disclosure
 

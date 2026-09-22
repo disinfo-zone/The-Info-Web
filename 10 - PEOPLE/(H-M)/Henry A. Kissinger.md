@@ -46,7 +46,7 @@ Kissinger served as director of the [[Rockefeller Brothers Fund]] Special Studie
 
 The project was organized into seven panels examining sweeping strategic and domestic issues. [[Dean Rusk]] chaired Panel I (International Objectives and Strategies). Kissinger directed Panel II (International Security Objectives and Strategy), whose members included [[Roswell Gilpatric]], [[Townsend Hoopes]], [[Edward Teller]], [[Henry Luce]], and [[Laurance Rockefeller]]. Panel III (International Economic and Social Objectives) was chaired by [[Milton Katz]]. Panel IV (U.S. Economic and Social Policy) was chaired by [[Thomas B. McCabe]]. Panel V (U.S. Utilization of Human Resources) was chaired by [[John W. Gardner]]. Panel VI (U.S. Democratic Process) was chaired by [[James A. Perkins]]. Panel VII (The Moral Framework of National Purpose), chaired by [[Richard McKeon]], produced a report by [[Robert Heilbroner]] that was not published.[^ssp]
 
-The project was Kissinger's primary institutional bridge to the Rockefeller family network prior to his entry into government. Roswell Gilpatric subsequently served as Deputy Secretary of Defense in the Kennedy administration. Nelson Rockefeller retained Kissinger as his personal foreign policy consultant after the project concluded.[^c1]
+The project was Kissinger's primary institutional bridge to the [[Rockefeller family]] network prior to his entry into government. Roswell Gilpatric subsequently served as Deputy Secretary of Defense in the Kennedy administration. Nelson Rockefeller retained Kissinger as his personal foreign policy consultant after the project concluded.[^c1]
 
 ### *Nuclear Weapons and Foreign Policy* (1957)
 

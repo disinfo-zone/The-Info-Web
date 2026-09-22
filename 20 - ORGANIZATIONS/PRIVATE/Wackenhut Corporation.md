@@ -113,7 +113,7 @@ Wackenhut was very active in [[El Salvador]] during the Contra war, providing em
 
 ### The Cabazon Joint Venture
 
-A particularly controversial aspect of Wackenhut's operations was its joint venture with the [[Cabazon Indian Reservation|Cabazon Indian tribe]] in Indio, California. Formalized on April 1, 1981, this partnership aimed to leverage the sovereign nation status of the Indian reservation to bypass federal jurisdiction and congressional prohibitions on arms exports. The venture, known as "Cabazon Arms," sought to establish a production facility for high-tech armaments and explosives for export to third-world countries, including the [[Contras]] in Nicaragua and nations in the [[Middle East]]. The firm was using the Cabazon reservation's tax-exempt status and its freedom from federal oversight to gain a competitive advantage in soliciting federal weapons projects.[^1][^2]
+A particularly controversial aspect of Wackenhut's operations was its joint venture with the [[Cabazon Indian Reservation|Cabazon Indian tribe]] in Indio, California. Formalized on April 1, 1981, this partnership aimed to leverage the sovereign nation status of the Indian reservation to bypass federal jurisdiction and congressional prohibitions on arms exports. The venture, known as "[[Cabazon Arms]]," sought to establish a production facility for high-tech armaments and explosives for export to third-world countries, including the [[Contras]] in Nicaragua and nations in the [[Middle East]]. The firm was using the Cabazon reservation's tax-exempt status and its freedom from federal oversight to gain a competitive advantage in soliciting federal weapons projects.[^1][^2]
 
 [[Dr. John Nichols]], the Cabazon tribal administrator and a former CIA agent who claimed experience going back to the Chilean destabilization program in the 1970s, secured a [[Department of Defense]] secret facility clearance for the reservation. He then proposed to Wackenhut the manufacture of various weapons systems, including 120mm combustible cartridge cases, 9mm machine pistols, laser-sighted assault weapons, sniper rifles, and portable rocket systems. The venture also explored the development of biological weapons. [[Michael Riconosciuto]] served as the Director of Research for this joint venture, and was involved in meetings with figures like [[Robert Frye]] (Wackenhut VP), [[John P. Nichols]], and [[Peter Zokosky]], and [[Dr. Harry Fair]] of the U.S. Army's Railgun Project at Picatinny Arsenal, where Riconosciuto's scientific expertise was noted.[^1]
 
@@ -125,7 +125,7 @@ It was here that the "trap door" was built into the U.S. version of PROMIS, base
 
 ### Danny Casolaro Investigation
 
-Investigative reporter [[Danny Casolaro]] was investigating the Wackenhut/Cabazon weapons projects as part of his "[[The Octopus]]" investigation when he was found dead in a West Virginia motel room in 1991. The probe into his death was ordered by associate attorney general [[Webster Hubbell|Webb Hubbell]], who had his own connections to weapons manufacturing for the Contras through [[Park On Meter]] in [[Arkansas]].[^2]
+Investigative reporter [[Danny Casolaro]] was investigating the Wackenhut/Cabazon weapons projects as part of his "[[The Octopus]]" investigation when he was found dead in a [[West Virginia]] motel room in 1991. The probe into his death was ordered by associate attorney general [[Webster Hubbell|Webb Hubbell]], who had his own connections to weapons manufacturing for the Contras through [[Park On Meter]] in [[Arkansas]].[^2]
 
 ### Other Allegations
 

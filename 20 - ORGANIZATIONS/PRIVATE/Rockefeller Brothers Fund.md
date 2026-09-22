@@ -27,7 +27,7 @@ The panels produced a series of influential reports between 1958 and 1961, colle
 
 ### Panel IV: National Security (Kissinger)
 
-Panel IV on national security was chaired by Henry Kissinger, then a Harvard faculty member who had worked on earlier Rockefeller-sponsored studies. The panel's work on nuclear strategy and limited war doctrine reflected the Rockefeller family's long-standing interest in "flexible response" military capabilities as an alternative to massive nuclear retaliation.
+Panel IV on national security was chaired by Henry Kissinger, then a Harvard faculty member who had worked on earlier Rockefeller-sponsored studies. The panel's work on nuclear strategy and limited war doctrine reflected the [[Rockefeller family]]'s long-standing interest in "flexible response" military capabilities as an alternative to massive nuclear retaliation.
 
 Kissinger's panel work through the RBF gave him the intellectual platform and Rockefeller family connections that launched his career as a foreign policy adviser. After the Special Studies Project, Kissinger continued to serve as Nelson Rockefeller's foreign policy consultant through the 1960s.[^3]
 

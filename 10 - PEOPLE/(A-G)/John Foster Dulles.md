@@ -52,7 +52,7 @@ British intelligence and Dulles jointly argued the U.S. position to Eisenhower b
 
 ### Personal Rockefeller Connection
 
-John Foster Dulles had a long personal relationship with the Rockefeller family predating his political career. In the 1920s, he defended Rev. [[Harry Emerson Fosdick]] (the Rockefellers' minister at [[Riverside Church]]) during the Fundamentalist Controversy, emerging as a leader of Presbyterian modernists. He served on the Rockefeller-backed [[Federal Council of Churches' Commission on a Just and Durable Peace]]. [[John D. Rockefeller Jr.]] trusted and respected Dulles, making his criticism of [[Nelson Rockefeller]] at the San Francisco UN conference in 1945 particularly stinging.[^rock1]
+John Foster Dulles had a long personal relationship with the [[Rockefeller family]] predating his political career. In the 1920s, he defended Rev. [[Harry Emerson Fosdick]] (the Rockefellers' minister at [[Riverside Church]]) during the Fundamentalist Controversy, emerging as a leader of Presbyterian modernists. He served on the Rockefeller-backed [[Federal Council of Churches' Commission on a Just and Durable Peace]]. [[John D. Rockefeller Jr.]] trusted and respected Dulles, making his criticism of [[Nelson Rockefeller]] at the San Francisco UN conference in 1945 particularly stinging.[^rock1]
 
 ### Rockefeller Foundation Chairmanship
 

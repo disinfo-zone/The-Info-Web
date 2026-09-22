@@ -7,12 +7,14 @@ tags:
   - USA
   - ColdWar
   - FamilyJewels
+aliases:
+  - Rockefeller Commission
 summary: "The Rockefeller Commission (officially the Commission on CIA Activities Within the United States) was convened by President Ford in 1975 under Vice President Nelson Rockefeller to investigate CIA domestic abuses, but its membership was stacked with individuals who had participated in or benefited from the programs under review."
 created: 2026-06-05
 updated: 2026-06-05
 ---
 
-The Commission on CIA Activities Within the United States (commonly called the Rockefeller Commission after its chair, Vice President [[Nelson Rockefeller]]) was established by President [[Gerald Ford]] on January 4, 1975 to investigate CIA domestic abuses, in the context of investigative reporting by [[Seymour Hersh]] in the New York Times and the parallel congressional investigations of the [[Church Committee]] and [[Pike Committee]]. Critics immediately noted that Rockefeller, as chairman of the [[NSC Special Group]] under Eisenhower, had personally overseen and approved at least one [[MKULTRA]] project, making his chairing of the commission to investigate the same programs a direct conflict of interest. The commission's membership was stacked with individuals connected to the Rockefeller family network or to the programs under review.
+The Commission on CIA Activities Within the United States (commonly called the Rockefeller Commission after its chair, Vice President [[Nelson Rockefeller]]) was established by President [[Gerald Ford]] on January 4, 1975 to investigate CIA domestic abuses, in the context of investigative reporting by [[Seymour Hersh]] in the New York Times and the parallel congressional investigations of the [[Church Committee]] and [[Pike Committee]]. Critics immediately noted that Rockefeller, as chairman of the [[NSC Special Group]] under Eisenhower, had personally overseen and approved at least one [[MKULTRA]] project, making his chairing of the commission to investigate the same programs a direct conflict of interest. The commission's membership was stacked with individuals connected to the [[Rockefeller family]] network or to the programs under review.
 
 ### Establishment
 
@@ -32,7 +34,7 @@ The composition of the commission drew criticism for the conflicts of interest a
 
 [[John T. Connor]]: Director of [[David Rockefeller]]'s [[Chase Manhattan Bank]], former commerce secretary in the Johnson administration, and chairman of [[Allied Chemical]], in which the Rockefellers held $52 million in stock.[^9]
 
-[[Erwin Griswold]]: Former [[Harvard Law School]] dean who, as Johnson-appointed U.S. solicitor general, had argued against the New York Times publishing the [[Pentagon Papers]] and had argued that Army surveillance of Vietnam War protestors did not violate First Amendment rights. The [[White House]] later suppressed a footnote Griswold had written in the commission's final report recommending public disclosure of the CIA's budget.[^10]
+[[Erwin Griswold]]: Former [[Harvard Law School]] dean who, as Johnson-appointed U.S. solicitor general, had argued against the New York Times publishing the [[Pentagon Papers]] and had argued that Army surveillance of [[Vietnam War]] protestors did not violate First Amendment rights. The [[White House]] later suppressed a footnote Griswold had written in the commission's final report recommending public disclosure of the CIA's budget.[^10]
 
 [[Ronald Reagan]]: Former actor and California governor. Reagan attended only eleven of the commission's 26 sessions, which irritated Rockefeller, who as a liberal Republican regarded Reagan as a political rival. Rockefeller's counsel [[Peter Wallison]] later said Rockefeller considered Reagan "a lightweight who was not taking his responsibilities seriously."[^11]
 

@@ -35,7 +35,7 @@ The system used dictionaries of keywords, voice recognition, and pattern matchin
 
 ECHELON's existence was first publicly described with specificity in Nicky Hager's 1996 book *Secret Power: New Zealand's Role in the International Spy Network*, which drew on interviews with GCSB employees. The European Parliament's STOA (Scientific and Technological Options Assessment) panel published a landmark report in 1998 - *An Appraisal of the Technologies of Political Control* by Steve Wright - that named ECHELON and described its industrial espionage dimension. A subsequent European Parliament investigation culminating in the 2001 report by the ECHELON Committee (rapporteur: Gerhard Schmid) officially confirmed the network's existence and documented its use for economic as well as security intelligence.[^2]
 
-Margaret Newsham, an NSA contractor who worked at Menwith Hill, provided testimony to members of Congress in the late 1990s about ECHELON's capabilities and its interception of communications by American citizens, which raised Fourth Amendment concerns. Newsham described conversations within the NSA about the legality and scope of domestic incidental collection.[^1]
+[[Margaret Newsham]], an NSA contractor who worked at Menwith Hill, provided testimony to members of Congress in the late 1990s about ECHELON's capabilities and its interception of communications by American citizens, which raised Fourth Amendment concerns. Newsham described conversations within the NSA about the legality and scope of domestic incidental collection.[^1]
 
 ### Industrial Espionage
 

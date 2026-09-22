@@ -27,7 +27,7 @@ William Egan Colby (January 4, 1920 - April 27, 1996) served as Director of Cent
 
 ### Vietnam Service
 
-Colby served as CIA station chief in Saigon during the Vietnam War and from 1968 to 1971 headed the Civil Operations and Revolutionary Development Support (CORDS) program, under which the Phoenix Program - a joint U.S.-South Vietnamese effort to identify and neutralize Viet Cong infrastructure through targeted assassination and detention - operated. He subsequently served as Deputy Ambassador in Saigon until 1972. His Vietnam years established personal relationships that would have later significance: Nebraska attorney [[John DeCamp]] served as his aide during this period and participated in Operation Baby Lift in the war's final days.[^1]
+Colby served as CIA station chief in Saigon during the [[Vietnam War]] and from 1968 to 1971 headed the Civil Operations and Revolutionary Development Support (CORDS) program, under which the Phoenix Program - a joint U.S.-South Vietnamese effort to identify and neutralize Viet Cong infrastructure through targeted assassination and detention - operated. He subsequently served as Deputy Ambassador in Saigon until 1972. His Vietnam years established personal relationships that would have later significance: Nebraska attorney [[John DeCamp]] served as his aide during this period and participated in Operation Baby Lift in the war's final days.[^1]
 
 ### Angleton Firing and Operation CHAOS
 

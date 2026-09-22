@@ -23,7 +23,7 @@ Richard Vernon Secord was born July 6, 1932, in LaRue, Ohio. He died October 15,
 
 ### Military Career and Edwin Wilson
 
-Secord’s Air Force career included extensive special operations and counterinsurgency assignments. He served in Southeast Asia during the Vietnam War era in roles involving air operations in Laos and Vietnam. During the 1970s he served in the Pentagon in special operations planning and was involved in programs coordinating with CIA paramilitary networks, a role that brought him into contact with [[Ted Shackley]]’s network of CIA officers.[^1]
+Secord’s Air Force career included extensive special operations and counterinsurgency assignments. He served in Southeast Asia during the [[Vietnam War]] era in roles involving air operations in Laos and Vietnam. During the 1970s he served in the Pentagon in special operations planning and was involved in programs coordinating with CIA paramilitary networks, a role that brought him into contact with [[Ted Shackley]]’s network of CIA officers.[^1]
 
 In the late 1970s, Secord came under investigation for his relationship with [[Edwin Wilson]], a former CIA officer who had gone into private arms dealing and was selling weapons and training services to Libya’s Muammar Qaddafi - transactions that were illegal and represented a serious counterintelligence problem. Wilson was eventually arrested, convicted in 1983, and sentenced to 52 years in prison. Secord was a central figure in congressional investigations of Wilson’s Libya operations because of documented contacts between them; Secord was not criminally charged but the investigation effectively ended his military career advancement. He retired from the Air Force in 1983.[^1]
 
@@ -39,7 +39,7 @@ The operations ran primarily from 1985 to 1986. Israeli arms dealers Ya’acov N
 
 ### Exposure and Criminal Proceedings
 
-The Enterprise was exposed in October 1986 when a Contra resupply aircraft was shot down over Nicaragua and its crew member, Eugene Hasenfus, was captured by the Sandinistas. Hasenfus described the operation’s infrastructure, and the subsequent unraveling revealed the Iran arms sales as well. The [[Iran-Contra Affair]] became the major domestic political crisis of Reagan’s second term.[^2]
+The Enterprise was exposed in October 1986 when a Contra resupply aircraft was shot down over Nicaragua and its crew member, Eugene Hasenfus, was captured by the Sandinistas. Hasenfus described the operation’s infrastructure, and the subsequent unraveling revealed the Iran arms sales as well. The Iran-Contra Affair became the major domestic political crisis of Reagan’s second term.[^2]
 
 Independent Counsel Lawrence Walsh indicted Secord in 1987. In November 1989, Secord pleaded guilty to one count of making false statements to Congress regarding his knowledge of North’s diversion of Iran arms sale profits to the Contras, and to related false testimony. He received a two-year suspended sentence and was not imprisoned.[^2]
 

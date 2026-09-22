@@ -53,7 +53,7 @@ His oral history interview, conducted July 6, 1967 as part of the [[John F. Kenn
 
 ### Advisory Role and the 1964 Coup
 
-After his formal government service, Berle continued to operate as an adviser to Rockefeller and as a private intermediary with Brazilian political and military figures. He was a founding trustee of the [[Institute for International Labor Research]], a Cold War anti-communist labor institution funded through AIFLD and other Rockefeller-network channels.[^11]
+After his formal government service, Berle continued to operate as an adviser to Rockefeller and as a private intermediary with Brazilian political and military figures. He was a founding trustee of the [[Institute for International Labor Research]], a Cold War anti-communist labor institution funded through [[AIFLD]] and other Rockefeller-network channels.[^11]
 
 On the night of March 30-31, 1964, as the Brazilian military began its coup against President [[Joao Goulart]], Berle was in his Manhattan townhouse monitoring the coup's progress by shortwave radio alongside Alberto Jackson Byington Jr. (1902-1964), a Sao Paulo businessman and Harvard graduate (class of 1924) who had been working to forestall a "Goulart dictatorship" and had, according to Berle's diary, "bought on his own credit a shipload of oil to make sure the Brazilian Navy would be able to function."[^12]
 

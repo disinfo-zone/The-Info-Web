@@ -64,7 +64,7 @@ Cameron died of a heart attack while mountain climbing in [[Vermont]] on Septemb
 
 When the surviving MKULTRA documents were disclosed through FOIA in 1977, the Allan Memorial experiments became one of the most publicly reported aspects of the program because of the documented severity of the harm to patients and because the victims were Canadian citizens who had sought treatment rather than prisoners or drug users who could be marginalized.
 
-Nine victims filed suit against the CIA in the United States District Court for the District of Columbia. After years of litigation over jurisdictional questions and state secrets claims, the CIA settled with the nine plaintiffs in 1988 for $750,000 total.
+Nine victims filed suit against the CIA in the [[United States District Court for the District of Columbia]]. After years of litigation over jurisdictional questions and state secrets claims, the CIA settled with the nine plaintiffs in 1988 for $750,000 total.
 
 The Canadian government, under pressure from the settlements and public disclosure, established a compensation program in 1994 that paid C$100,000 to each of approximately 80 identified victims of Cameron's experimental protocols. The program excluded victims who could not document participation in the specific experimental regimen, and advocacy groups argued the number of affected patients was considerably higher than the 80 compensated.
 
