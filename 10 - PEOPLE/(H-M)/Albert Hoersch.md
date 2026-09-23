@@ -31,7 +31,7 @@ Albert Hoersch (died July 1, 1972, aged 81) lived at 417 West Chew Street in the
 
 ### Family
 
-He was married to [[Helen E. Hoersch|Helen E. Wissman]], who died at the Chew Street house on August 27, 1968; the family belonged to [[Grace United Methodist Church (Philadelphia)|Grace United Methodist Church]], which was invited to her funeral. Their children were Albert Hoersch Jr., [[Raymond C. Hoersch]], and Helen M. Hoersch.[^1][^2] In January 1955 Mr. and Mrs. Albert Hoersch of Philadelphia were reported as recent guests of Mr. and Mrs. Raymond Hoersch in [[Bucks County, Pennsylvania|Bucks County]].[^4]
+He was married to [[Helen E. Hoersch|Helen E. Wissman]], who died at the Chew Street house on August 27, 1968; the family belonged to [[Grace United Methodist Church (Philadelphia)|Grace United Methodist Church]], which was invited to her funeral. Their children were Albert Hoersch Jr., a lieutenant in the [[United States Navy]] in the Second World War who died in 1976, [[Raymond C. Hoersch]], and [[Helen M. Hoersch]], who graduated from the [[University of Pennsylvania]], lived in Philadelphia all her life, and died in 2004.[^1][^2][^4][^5] In January 1955 Mr. and Mrs. Albert Hoersch of Philadelphia were reported as recent guests of Mr. and Mrs. Raymond Hoersch in [[Bucks County, Pennsylvania|Bucks County]].[^6]
 
 ### Death
 
@@ -42,4 +42,6 @@ He died on July 1, 1972. His funeral service was held at the Schneider Funeral H
 [^1]: "Hoersch, Helen E. Wissman," death notice, *The Philadelphia Inquirer,* August 29, 1968, p. 32 ("wife of Albert Hoersch, of 417 W. Chew st., Aug. 27, 1968. Relatives, friends and Grace United Methodist Church, are invited ... SCHNEIDER FUNERAL HOME, 617-19 W. Olney ave. Int. Hillside Cem."). https://www.newspapers.com/image/182120759/
 [^2]: "Hoersch, Albert," death notice, *The Philadelphia Inquirer,* July 3, 1972, p. 10 ("aged 81 years, beloved husband of the late Helen Wissmer Horesch [sic] and father of Albert Jr., Raymond C., Helen M Hoersch, 417 W. Chew st., July 1, 1972 ... SCHNEIDER FUNERAL HOME, 617-19 W. Olney ave. Int. Hillside Cem."). https://www.newspapers.com/image/180006503/
 [^3]: "How a pornographer's violent fantasies blurred fact and fiction as cops searched Olney house for missing women," *The Philadelphia Inquirer,* August 2, 2026. https://www.inquirer.com/news/a/raymond-eugene-horsch-olney-philadelphia-missing-women-history-20260802.html
-[^4]: [Social column], *The Daily Intelligencer* (Doylestown), January 10, 1955, p. 2. https://www.newspapers.com/image/40163522/
+[^4]: "Hoersch, Helen M.," death notice, *The Philadelphia Inquirer,* April 7, 2004, p. B12. https://www.newspapers.com/image/201102740/
+[^5]: Find a Grave memorial 25275352, "Albert Hoersch Jr.," headstone inscription "LT US Navy WWII," St. Mark's Episcopal Church Cemetery, West Nantmeal Township, Chester County, Pennsylvania. https://www.findagrave.com/memorial/25275352/albert-hoersch
+[^6]: [Social column], *The Daily Intelligencer* (Doylestown), January 10, 1955, p. 2. https://www.newspapers.com/image/40163522/

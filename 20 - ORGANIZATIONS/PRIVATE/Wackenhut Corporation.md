@@ -131,6 +131,10 @@ Investigative reporter [[Danny Casolaro]] was investigating the Wackenhut/Cabazo
 
 Beyond the Cabazon venture, Wackenhut was also implicated in other international controversies. A 1992 *SPY* magazine article by [[John Connolly]] alleged that Wackenhut secretly assisted [[Iraq]] in its efforts to obtain sophisticated weapons and contributed to unrest in [[Venezuela]].[^1]
 
+### Epstein
+
+On July 13, 2009, [[Story Cowles]] wrote to [[Jeffrey Epstein]]: "Would you like to meet the wackenhut security candidates at your house, FSF or Jacks office. Friday is best for them." Epstein replied: "jacks off."[^34] A 24-page set of security officer reports on forms headed "G4S Wackenhut" covers the post at "358 El Brillo," Epstein's house in [[Palm Beach, Florida|Palm Beach]]; one report, for the night shift of November 16, 2009, marks the officer as armed and records hourly perimeter checks, an office door found ajar and a gym door open, and the officer monitoring the main entrance.[^35]
+
 ### End of Wackenhut
 
 The Wackenhut/Cabazon Joint Venture was terminated on October 1, 1984, following Robert Frye's heart attack. Its activities subsequently became the subject of numerous investigations by entities such as the U.S. Department of Justice, the [[United States House of Representatives Committee on the Judiciary|House Judiciary Committee on Inslaw]], [[U.S. Customs]], and the Royal Canadian Mounted Police, as well as various police agencies and media outlets worldwide.[^1]
@@ -170,3 +174,5 @@ The Wackenhut/Cabazon Joint Venture was terminated on October 1, 1984, following
 [^31]: Federal Bureau of Investigation, Domestic Intelligence Division, informative note, April 14, 1967, JFK record 124-10369-10048; Assassination Records Review Board, public hearing transcript, testimony of James DiEugenio, p. 89; FBI Miami, memorandum of May 10, 1967, headquarters file 62-109060, section 129, p. 166.
 [^32]: Osborn, Howard J. Memorandum for the record, November 8, 1967, JFK record 104-10133-10076.
 [^33]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^34]: Epstein, Jeffrey, reply to Story Cowles, "Re: Wackenhut," email, July 13, 2009, U.S. Department of Justice, Epstein Library, EFTA01829732. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01829732.pdf
+[^35]: G4S Wackenhut, Security Officer Reports, client facility "358 El Brillo," November 2009, U.S. Department of Justice, Epstein Library, EFTA01157725. https://www.justice.gov/epstein/files/DataSet%209/EFTA01157725.pdf
