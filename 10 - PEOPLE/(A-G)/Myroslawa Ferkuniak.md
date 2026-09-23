@@ -28,7 +28,7 @@ created: 2026-09-23
 updated: 2026-09-23
 ---
 
-Myroslawa "Anna" Ferkuniak (October 7, 1949, to July 28, 1989), known after her marriage as Anna M. Horsch, was the second wife of the [[Philadelphia]] pornographer and counterfeiter [[R.C. Horsch]] and the mother of [[Eugene Horsch]]. She married Horsch in [[Reno, Nevada|Reno]] on September 12, 1980, while he was a fugitive using the stolen identity of a [[California]] chemist, Dr. Stanley Eugene Stokowski, and lived with him in [[New Zealand]] until he fled the country in 1984.[^1][^2]
+Myroslawa "Anna" Ferkuniak (October 7, 1949, to July 28, 1989), known after her marriage as Anna M. Horsch, was the second wife of the [[Philadelphia]] pornographer and counterfeiter [[R.C. Horsch]] and the mother of [[Eugene Horsch]]. She married Horsch in [[Reno, Nevada|Reno]] on September 12, 1980, while he was a fugitive using the stolen identity of a [[California]] chemist, Dr. Stanley Edward Stokowski, and lived with him in [[New Zealand]] until he fled the country in 1984.[^1][^2]
 
 ### Family
 
