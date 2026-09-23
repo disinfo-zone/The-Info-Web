@@ -1,3 +1,5 @@
+- 2026-09-23T1248 · [[R.C. Horsch]]
+- 2026-09-23T1235 · [[_NOTES_PapersPast]]
 - 2026-09-23T1229 · [[Jerome Brown]]
 - 2026-09-23T1229 · [[Wackenhut Corporation]]
 - 2026-09-23T1229 · [[Gabrielle Amarando]]
@@ -8,7 +10,6 @@
 - 2026-09-23T1229 · [[The Erotic Memoirs of a Male Chauvinist Pig]]
 - 2026-09-23T1229 · [[Black Mass (1975 film)]]
 - 2026-09-23T1229 · [[Raymond C. Hoersch]]
-- 2026-09-23T1229 · [[R.C. Horsch]]
 - 2026-09-23T1222 · [[_manifest]]
 - 2026-09-23T1222 · [[Helen M. Hoersch]]
 - 2026-09-23T1222 · [[Olney House Investigation]]
@@ -97,4 +98,3 @@
 - 2026-09-22T2356 · [[_NOTES_EA8_moskovitz_money]]
 - 2026-09-22T2355 · [[_NOTES_EA10_moskovitz_network]]
 - 2026-09-22T2351 · [[_NOTES_EA5_cais_hendrycks]]
-- 2026-09-22T2349 · [[_NOTES_EA6_political_money]]
