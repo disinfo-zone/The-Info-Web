@@ -28,14 +28,15 @@ relations:
   - type: head_of
     with: "[[Holden Karnofsky]]"
     reverse: true
-    role: "chief executive"
+    role: "chief executive; co-chief executive from June 2021; director of AI strategy from July 2023 until April 2024"
+    end: 2023-07
     fn: 6
   - type: head_of
     with: "[[Alexander Berger]]"
     reverse: true
-    role: "chief executive"
-    start: 2023
-    fn: 1
+    role: "co-chief executive from June 2021; sole chief executive from July 2023"
+    start: 2021-06
+    fn: 12
   - type: funded
     with: "[[OpenAI]]"
     start: 2017-03
@@ -57,6 +58,31 @@ relations:
     start: 2025-11
     role: "36 million dollars"
     fn: 1
+  - type: funded
+    with: "[[Redwood Research]]"
+    start: 2021-11
+    role: "four grants totaling 9.42 million dollars; grant investigator Nick Beckstead"
+    fn: 17
+  - type: funded
+    with: "[[Redwood Research]]"
+    start: 2022-08
+    role: "10.7 million dollars over 18 months"
+    fn: 17
+  - type: funded
+    with: "[[Redwood Research]]"
+    start: 2023-06
+    role: "5.3 million dollars"
+    fn: 17
+  - type: funded
+    with: "[[Redwood Research]]"
+    start: 2025-05
+    role: "1.1 million dollars for research collaborations"
+    fn: 17
+  - type: funded
+    with: "[[Alignment Research Center]]"
+    start: 2022-03
+    role: "1,515,000 dollars in 2022"
+    fn: 18
 created: 2026-06-19
 updated: 2026-09-23
 ---
@@ -77,6 +103,18 @@ Muehlhauser was the grant investigator on the 55-million-dollar grant of January
 
 In 2022 Open Philanthropy set aside nearly 3 million dollars for what became the first cohort of the [[Horizon Institute for Public Service]], which pays technology fellows placed in congressional offices, federal agencies and think tanks; the *Politico* reporter [[Brendan Bordelon]] wrote in October 2023 that Open Philanthropy had "effectively created" Horizon. A spokesperson, [[Mike Levine]], said Open Philanthropy "did not play an active role in screening, training, or placement of fellows" and that "the idea that we, our funders, or our grantees are motivated by pecuniary interests is misguided."[^6] By 2025 Coefficient Giving supplied the majority of the funding of the [[Tarbell Center for AI Journalism]], which places paid fellows in newsrooms and publishes the newsletter *Transformer*.[^10] In December 2025 *Semafor* reported that Open Philanthropy had been "bothered by media coverage of it, in particular a series of critical stories from Politico," and had hired political communications staff; its director of communications, [[Naina Bajekal]], was a former executive editor of *Time*, which had hosted four Tarbell fellows.[^11]
 
+### Leadership
+
+Karnofsky led Open Philanthropy as chief executive until June 16, 2021, when he announced that the cofounder Alexander Berger had been "promoted to co-CEO" in "a dual-CEO structure, with both of us reporting directly to the board," Karnofsky keeping biosecurity and AI risk and Berger taking the portfolio renamed "Global Health and Wellbeing."[^12] On July 27, 2023, Karnofsky announced "on behalf of Open Philanthropy's board" that Berger was sole chief executive and that his own title was changing to director of AI strategy; Tuna, styled in the announcement as president, said that "Dustin and I have worked closely with Alexander for many years," and Berger recalled the time "when Holden, Cari, Dustin and I were starting to think about it together."[^13] Karnofsky left the staff on April 29, 2024, for the [[Carnegie Endowment for International Peace]], writing that the organization "would benefit from less ambiguity about my role in its funding decisions (especially given the fact that I'm married to the President of a major AI company)," and that he would remain on its board "at least for the time being."[^14] The same officers ran the [[Open Philanthropy Action Fund]], a 501(c)(4) whose returns list Karnofsky and Berger as co-CEOs for 2021 and 2022 and "co-CEO thru 7/23/23" for 2023.[^15]
+
+### Redwood Research
+
+Redwood Research, a [[Berkeley]] AI-alignment nonprofit, announced in October 2021 that its board was [[Nate Thomas]], Paul Christiano and Karnofsky; its returns list Karnofsky as treasurer for 2021 and treasurer and CFO for 2022, and as a director until November 2023.[^16] Open Philanthropy recommended four grants totaling 9.42 million dollars to Redwood in November 2021, with [[Nick Beckstead]] as grant investigator, then 10.7 million dollars in August 2022, 5.3 million in June 2023 and 1.1 million in May 2025, before the 36 million dollars of November 2025, a total of 62.52 million dollars. None of the four archived grant pages mentions Karnofsky's or Christiano's board seats. Open Philanthropy's senior program officer for AI risk, [[Ajeya Cotra]], was a Redwood director on its return for 2023 and until August 2024.[^16][^17]
+
+### ARC and Canary
+
+Open Philanthropy gave the [[Alignment Research Center]], founded by Paul Christiano, 265,000 dollars for general support in March 2022 and 1,250,000 dollars over two years in November 2022. The center incubated ARC Evals, which spun off in December 2023 as [[METR]].[^18][^19][^20] In September 2025 Open Philanthropy gave the RAND Corporation 10 million dollars over three years for Canary, "a collaboration between RAND and METR to develop advanced methods for evaluating AI systems," on the recommendation of [[Trevor Levin]] of its AI governance and policy team.[^21]
+
 ### Footnotes
 
 [^1]: Smith, Ben. "Coefficient Giving's CEO on Silicon Valley's $40 billion philanthropy boom." *Semafor,* September 3, 2026. https://www.semafor.com/article/09/03/2026/coefficient-givings-ceo-on-silicon-valley-40-billion-philanthropy-boom
@@ -90,3 +128,13 @@ In 2022 Open Philanthropy set aside nearly 3 million dollars for what became the
 [^9]: Open Philanthropy, "Center for AI Safety, General Support (2022)," grant of November 2022, archived January 2, 2025. http://web.archive.org/web/20250102035329/https://www.openphilanthropy.org/grants/center-for-ai-safety-general-support/
 [^10]: Tarbell Center for AI Journalism, "Ethics and Standards policies," February 20, 2026. https://www.tarbellcenter.org/ethics-and-standards
 [^11]: Tani, Max. "AI critics funded AI coverage at top newsrooms." *Semafor,* December 7, 2025. https://www.semafor.com/article/12/07/2025/ai-critics-funded-ai-coverage-at-top-newsrooms
+[^12]: Karnofsky, Holden. "Open Philanthropy's New Co-CEO." Open Philanthropy blog, June 16, 2021, archived May 31, 2022. http://web.archive.org/web/20220531031049/https://www.openphilanthropy.org/blog/open-philanthropys-new-co-ceo
+[^13]: Karnofsky, Holden. "Alexander Berger is Now Sole CEO of Open Philanthropy." Open Philanthropy, July 27, 2023, archived March 17, 2026. http://web.archive.org/web/20260317060608/https://coefficientgiving.org/research/alexander-berger-is-now-sole-ceo-of-open-philanthropy/
+[^14]: Karnofsky, Holden. "Joining the Carnegie Endowment for International Peace." EA Forum, April 29, 2024. https://forum.effectivealtruism.org/posts/7gzgwgwefwBku2cnL/joining-the-carnegie-endowment-for-international-peace
+[^15]: ProPublica Nonprofit Explorer, "Coefficient Giving Action Fund" (formerly Open Philanthropy Action Fund), EIN 81-2644663, organization record, Form 990 data and Part VII officer listings for fiscal years 2016 to 2024, retrieved September 23, 2026. https://projects.propublica.org/nonprofits/organizations/812644663
+[^16]: Thomas, Nate. "We're Redwood Research, we do applied alignment research, AMA." LessWrong, October 6, 2021, https://www.lesswrong.com/posts/qHvHvBR8L6oycnMXe/we-re-redwood-research-we-do-applied-alignment-research-ama ; ProPublica Nonprofit Explorer, "Redwood Research Group Inc," EIN 87-1702255, Form 990 Part VII officer listings for fiscal years 2021 to 2024, https://projects.propublica.org/nonprofits/organizations/871702255 ; Open Philanthropy, "Ajeya Cotra," team biography, archived November 11, 2023. http://web.archive.org/web/20231111135945/https://www.openphilanthropy.org/about/team/ajeya-cotra/
+[^17]: Open Philanthropy grant pages, archived: "Redwood Research, General Support," November 2021, http://web.archive.org/web/20220811081927/https://www.openphilanthropy.org/grants/redwood-research-general-support/ ; "Redwood Research, General Support (2022)," http://web.archive.org/web/20221106183007/https://www.openphilanthropy.org/grants/redwood-research-general-support-2/ ; "Redwood Research, General Support (2023)," http://web.archive.org/web/20230912095528/https://www.openphilanthropy.org/grants/redwood-research-general-support-2023/ ; "Redwood Research, AI Safety Research Collaborations," May 2025. http://web.archive.org/web/20250810094119/https://www.openphilanthropy.org/grants/redwood-research-ai-safety-research-collaborations/
+[^18]: Open Philanthropy, "Alignment Research Center, General Support," March 2022, archived. http://web.archive.org/web/20220816132918id_/https://www.openphilanthropy.org/grants/alignment-research-center-general-support/
+[^19]: Open Philanthropy, "Alignment Research Center, General Support (November 2022)," archived. http://web.archive.org/web/20230512114157id_/https://www.openphilanthropy.org/grants/alignment-research-center-general-support-november-2022/
+[^20]: METR, "ARC Evals is now METR," December 4, 2023. https://metr.org/blog/2023-12-04-metr-announcement/
+[^21]: Open Philanthropy, "RAND Corporation, AI Evaluation and Testing," September 2025, archived. http://web.archive.org/web/20251025225511id_/https://www.openphilanthropy.org/grants/rand-corporation-ai-evaluation-and-testing/
