@@ -4,26 +4,32 @@ tags:
   - Person
   - Belgium
   - Dutroux
-summary: "Michel Lelievre, born 1967, met Marc Dutroux in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network."
-born: 1967
+summary: "Accomplice of Marc Dutroux, arrested with him on August 12, 1996, convicted at Arlon in 2004 of three abductions, sentenced to 25 years and released on conditions in December 2019."
 location: "Belgium"
+relations:
+  - type: partner_of
+    with: "[[Marc Dutroux]]"
+    role: "accomplice"
+    start: 1995
+    end: 1996-08-12
+    fn: 3
+created: 2026-04-28
+updated: 2026-09-22
 ---
 
-Michel Lelievre, born 1967, met [[Marc Dutroux]] in 1995 through a mutual acquaintance and became an accomplice in child abductions for Dutroux's trafficking network. A 28-year-old unemployed man with a minor criminal record, Lelievre assisted in the May 26, 1996, kidnapping of 12-year-old [[Sabine Dardenne]] by positioning himself near her school in a white van registered to [[Jean-Michel Nihoul]]'s [[ASCO]] company, while Dutroux seized the girl with chloroform. On August 9, 1996, Lelievre waited in the getaway vehicle during the abduction of 14-year-old [[Laetitia Delhez]] from a bus stop in Bertrix, where a witness noted the van's partial license plate, leading to Dutroux's arrest on August 13. Lelievre was detained shortly after, confessing to participation in exchange for leniency, and present during the rescue of Sabine and Laetitia from the Marcinelle basement dungeon, where the girls clung to Dutroux due to conditioning.[^1]
+Michel Lelièvre was arrested with [[Marc Dutroux]] and [[Michelle Martin]] at about five in the afternoon on August 12, 1996, three days after the abduction of [[Laetitia Delhez]] at Bertrix, when a witness had remembered three digits of a license plate.[^2] At the trial in Arlon he admitted abducting [[An Marchal]] and [[Eefje Lambrecks]] in August 1995 but denied raping or killing them.[^4] Dutroux told the court that Lelièvre and [[Bernard Weinstein]] had come to take the two young women from his house after fifteen days, and he attributed the abduction of [[Julie Lejeune]] and [[Melissa Russo]] to Lelièvre and one Pierre Rochow, a defense the jury rejected.[^3][^5]
 
-Lelievre described Dutroux's methods of preparing victims for clients, including drugging and hypnosis to ensure submission, and witnessed [[An Marchal]] and [[Eefje Lambrecks]] naked and cleaning tiles during their August 1995 captivity upstairs, noting potential buyers' disinterest. He confirmed Dutroux abducted girls per Nihoul's specifications for sale, with payments funding operations across seven properties. Lelievre's involvement began after Dutroux's March 1996 release from auto theft jail time, during which [[Michelle Martin]] fed basement captives [[Julie Lejeune]] and [[Melissa Russo]], whose bodies were later exhumed from Sars-la-Buissière showing mutilation.[^1]
+On June 17, 2004, the jury convicted Lelièvre of taking part in a criminal association engaged in abducting children and in one engaged in selling drugs and trafficking human beings, and of the abduction of An, [[Sabine Dardenne]] and Laetitia, which he did not deny. It also convicted him of the sequestration of the young victims, rejecting his lawyer Slusny's argument that he had never met some of them at Dutroux's house in [[Marcinelle, Belgium|Marcinelle]], and found for An and Eefje the aggravating circumstance of torture causing death.[^5] He was sentenced to 25 years. The Brussels sentence-enforcement court granted him conditional release at the end of September 2019 over the unfavorable opinion of the Brussels prosecutor's office, with about a dozen conditions including training or work and compensation of the civil parties, and he left prison on December 2, 2019.[^6]
 
-During interrogations, Lelievre detailed Nihoul's role in ordering victims from Slovakia and Czechia, where Dutroux claimed easy access to isolated girls. He recounted a confrontation at the home with a Mercedes driver demanding money after viewing An and Eefje, and Dutroux's boasts of raping and abandoning a girl near Trencin. Lelievre's testimony linked over twenty phone calls between Dutroux and Nihoul around Laetitia's abduction, supporting claims of coordinated trafficking.[^1]
+### Statements Attributed to Him
 
-### Participation in Abductions
-Lelievre aided in scouting locations and handling the van for quick escapes, using ASCO vehicles to photograph schoolgirls for client catalogues. He assisted in subduing victims with sedatives, ensuring transport to the dungeon built in 1993 with [[Claude Thirault]]'s help. During Dutroux's December 1995 incarceration for kidnapping three teens in a truck theft scheme involving accomplice [[Bernard Weinstein]], Lelievre was not yet involved, but later participated in post-release operations that evaded Othello surveillance under Inspector [[Rene Michaux]]. His actions facilitated holding Sabine for months and Laetitia briefly before the arrest.[^1]
-
-Lelievre observed video equipment and rape kits in the home, including speculum and chains seized but returned to Martin. He described Dutroux's conditioning techniques, aligning with hypnosis gear found, used to make girls view Dutroux as protector, as seen when Sabine and Laetitia resisted rescuers. Lelievre's accounts confirmed the profit-driven nature, with Dutroux receiving payments traced to European accounts.[^1]
-
-### Legal Outcome
-Arrested August 1996, Lelievre received a 25-year sentence in 2004 for kidnapping and related crimes, serving less than 10 years before parole in 2005 with restrictions against minor contact. His cooperation reduced charges, testifying against Dutroux and Nihoul at trial, though Nihoul was acquitted of kidnapping. Lelievre's parole conditions mirrored Martin's, including residence monitoring. Post-release, he maintained low profile, with no further violations documented.[^1]
-
-Lelievre's testimony implicated Nihoul's network, including parties and blackmail, but was limited by his peripheral role. The trial barred [[Regina Louf|Regina Louf]]'s accounts, yet Lelievre's details supported Judge [[Jean-Marc Connerotte]]'s early findings before his 1996 removal, amid White Marches protests over cover-ups by figures like [[Melchior Wathelet]]. Over twenty witness deaths occurred during proceedings.[^1]
+He was said to have been born in 1967, to have met Dutroux in 1995 through a mutual acquaintance, to have been an unemployed man with a minor record, and to have been paid in drugs. He was described as having blocked Sabine's path near her school while Dutroux seized her, and as having waited in the vehicle during Laetitia's abduction. He was said to have told investigators of Dutroux's drugging and hypnosis of victims, of seeing An and Eefje naked and made to clean tiles, of a man in a Mercedes who came to the house demanding money after seeing them, of girls ordered by [[Jean-Michel Nihoul]] from [[Slovakia]] and the Czech Republic, and of Dutroux's boast of raping and abandoning a girl near Trenčín.[^1]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its statements that his involvement began only after Dutroux's release in March 1996 and that he was paroled in 2005 are contradicted by his conviction for the August 1995 abduction of An Marchal and by his release in December 2019; its dates for the Dardenne abduction and Dutroux's arrest are contradicted by the commission's chronology.
+[^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, chronology of August 1996; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
+[^3]: Fleury, Elisabeth. "Le calvaire d'An et Eefje." *Le Parisien,* April 5, 2004. https://www.leparisien.fr/faits-divers/le-calvaire-d-an-et-eefje-05-04-2004-2004887724.php
+[^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011
+[^5]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
+[^6]: "Belgique. 'L'homme à tout faire' de Marc Dutroux, Michel Lelièvre, est sorti de prison." *Ouest-France,* December 2, 2019; translated from the French. https://www.ouest-france.fr/europe/belgique/belgique-l-homme-tout-faire-de-marc-dutroux-michel-lelievre-est-sorti-de-prison-6634935

@@ -8,6 +8,7 @@ category: "U.S. Government"
 summary: "The California Attorney General's Office is the chief law enforcement agency for the state of California."
 start: 1850
 location: "Sacramento, California"
+updated: 2026-09-22
 ---
 The [[California Attorney General's Office]] is the chief law enforcement agency for the state of [[California]]. It is mentioned in the context of [[Ron Van Meter]] reporting drug dealing and other forms of corruption within the Mariposa Sheriff's Department to this office in Sacramento. Upon his return, Van Meter was confronted by Sheriff [[Paul Paige]], who had been informed by the Attorney General of Van Meter's visit and its contents.[^1]
 
@@ -16,4 +17,4 @@ Three consecutive grand jury foremen sought help from the [[California Attorney 
 ---
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited.

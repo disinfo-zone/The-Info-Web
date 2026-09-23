@@ -1,8 +1,9 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-09-22
 title: Martin Luther King Jr.
 aliases:
+  - "Martin Luther King Jr."
   - MLK
   - Dr. King
   - Reverend King
@@ -14,7 +15,7 @@ tags:
   - Assassination
   - 1960s
 category: "Historical Figure"
-summary: "Martin Luther King Jr. was the preeminent leader of the American Civil Rights Movement, who organized the Montgomery Bus Boycott, the Birmingham Campaign, and the 1963 March on Washington, won the Nobel Peace Prize in 1964, was subjected to an extraordinary FBI surveillance and harassment campaign under COINTELPRO, and was assassinated at the Lorraine Motel in Memphis on April 4, 1968."
+summary: "Civil rights leader who led the Montgomery Bus Boycott and the 1963 March on Washington, won the 1964 Nobel Peace Prize, was targeted by FBI COINTELPRO, and was assassinated in Memphis in 1968."
 born: 1929-01-15
 died: 1968-04-04
 location: "Atlanta, Georgia / Memphis, Tennessee"

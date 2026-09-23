@@ -4,21 +4,24 @@ tags:
   - Person
   - Belgium
   - Dutroux
-summary: "Michelle Martin was the wife and accomplice of Belgian child killer Marc Dutroux, convicted in 2004 of complicity in murder for allowing two child captives to starve to death; sentenced to 30 years, she was paroled in 2012."
-created: 2026-05-14
-updated: 2026-05-14
+summary: "Wife and accomplice of Marc Dutroux, convicted in 2004 of the sequestration of six victims, including two girls who starved in the cellar; sentenced to 30 years, released in 2012."
 location: "Belgium"
+relations:
+  - type: spouse_of
+    with: "[[Marc Dutroux]]"
+    fn: 4
+created: 2026-05-14
+updated: 2026-09-22
 ---
-Michelle Martin was the wife of [[Marc Dutroux]] and one of his principal accomplices in the abduction and imprisonment of children in the mid-1990s. She played a direct role in the deaths of [[Julie Lejeune]] and [[Melissa Russo]], two eight-year-old girls abducted by Dutroux on July 22, 1995. While Dutroux was serving a short prison sentence for car theft in late 1995, Martin was responsible for feeding the captives held in the basement dungeon at his Marcinelle home. She testified at trial that she was too frightened to go downstairs to feed them. The two girls starved to death during Dutroux's incarceration.[^1]
+Michelle Martin was the wife of [[Marc Dutroux]] and one of his accomplices. [[Julie Lejeune]] and [[Melissa Russo]], both eight, were abducted at Grâce-Hollogne on June 24, 1995, and held in a concealed cell in the cellar of Dutroux's house at [[Marcinelle, Belgium|Marcinelle]].[^1] While Dutroux was in prison on a separate charge from December 13, 1995, to March 20, 1996, the two girls starved to death; Martin testified that she had been too frightened to go into the cellar to feed them.[^1][^2] She was arrested with Dutroux and [[Michel Lelievre]] on August 12, 1996.[^1]
 
-Martin also assisted Dutroux in the abductions of [[Sabine Dardenne]] and [[Laetitia Delhez]] in 1996, the two victims who survived and whose rescue in August 1996 triggered the broader investigation.[^2]
+On June 17, 2004, the jury at Arlon convicted her of taking part in a criminal association engaged in abducting and sequestering children, and of the sequestration of [[Laetitia Delhez]], [[Sabine Dardenne]], [[An Marchal]], [[Eefje Lambrecks]], Melissa and Julie, with the aggravating circumstance for Julie and Melissa that their detention was accompanied by torture causing death, and for some counts of death threats. She was also convicted of the rape of Yancka Mackova, having admitted putting the antipsychotic Haldol in the young woman's food. The jury rejected her defense that she had committed no positive act of participation.[^3] She was sentenced to 30 years.[^4] Martin apologized to the court for not feeding Julie and Melissa. Dutroux accused [[Jean-Michel Nihoul]] of being his link to a ring kidnapping girls in eastern Europe for prostitution, a scenario the prosecutors said they had found no evidence for; the jury acquitted Nihoul of the abduction charges and adopted the view that Dutroux had acted as an isolated predator.[^2][^3]
 
-At trial in June 2004, Martin was convicted of complicity in murder, kidnapping, and illegal imprisonment. She received a 30-year sentence. In her trial testimony she corroborated key aspects of the prosecution's case, confirming that Dutroux had acted on instructions from [[Jean-Michel Nihoul]] in selecting kidnapping targets.[^2]
-
-Martin was granted conditional release in August 2012 after serving 16 years, upon the agreement of the Clarisses convent in central Belgium to provide her residence. The decision generated intense public controversy in Belgium. She was subsequently released without any conditions or supervision in August 2022.[^3] She had divorced Dutroux during her imprisonment.
+Martin was granted early release in 2012 after serving 16 years and moved to a convent. She was released without conditions in August 2022.[^4]
 
 ### Footnotes
 
-[^1]: "Marc Dutroux," Wikipedia. https://en.wikipedia.org/wiki/Marc_Dutroux
-[^2]: "Notorious child rapist-murderer convicted," *NBC News,* June 2004. https://www.nbcnews.com/id/wbna5233011
-[^3]: "Former wife of child killer Marc Dutroux to be a free woman without conditions," *VRT NWS,* August 24, 2022. https://www.vrt.be/vrtnws/en/2022/08/24/former-wife-of-child-killer-marc-dutroux-to-be-released-without/
+[^1]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, table 4 and the chronologies of December 1995 to August 1996; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
+[^2]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011
+[^3]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
+[^4]: "Former wife of child killer Marc Dutroux to be a free woman without conditions." VRT NWS, August 24, 2022. https://www.vrt.be/vrtnws/en/2022/08/24/former-wife-of-child-killer-marc-dutroux-to-be-released-without/

@@ -1,18 +1,17 @@
 ---
 category: "Organized Crime"
+aliases:
+  - "Hugh Scott Mellor"
 tags:
   - Person
-  - OrganizedCrime
-summary: "Hugh Mellor was a client of the boy prostitution ring involving Troop 137 in New Orleans during the mid-1970s."
+  - ChildAbuse
+  - Massachusetts
+summary: "Brighton, Massachusetts, realtor, owner and president of a real estate holding company, arrested at Louisiana's request and charged in the Troop 137 case."
+created: 2026-04-28
+updated: 2026-09-22
 ---
-
-Hugh Mellor was a client of the boy prostitution ring involving [[Troop 137]] in New Orleans during the mid-1970s. He participated in the exploitation of boys through the scout troop network. Mellor was connected to the operations led by [[Richard Halvorsen]] and others.[^1]
-
-### Role in Operations
-Hugh Mellor received services from the [[Troop 137]] ring, which procured boys for prostitution and pornography. His involvement included paying for access to the boys in the network. The ring used the scout troop as a front for these activities.[^1]
-
-### Connections
-Hugh Mellor connected to [[Richard Halvorsen]], [[Raymond Woodall]], and [[Robert Lang]] through the [[Troop 137]] boy prostitution ring. The network extended to [[John David Norman]]'s operations and [[Father Bud's Boys Farm]]. Mellor's participation was part of the broader child exploitation scheme in New Orleans.[^1]
+Hugh Scott Mellor, 54, of Brighton, Massachusetts, was reported to be the owner and president of Reservoir Realty, Inc., a real estate holding company. Boston-area police arrested him and the industrialist [[Richard C. Jacobs]] at the request of Louisiana authorities; both were charged with conspiracy to commit homosexual rape and aggravated crimes against nature in the case of [[New Orleans]] Boy Scout [[Troop 137]], organized by [[Richard Halvorsen]] and [[Raymond Woodall]]. He was described in May 1977 as a millionaire, one of nineteen men charged in the case.[^1]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+
+[^1]: Wright, Marilyn. *Traverse City Record-Eagle,* 1976-1977, and *Chicago Tribune,* May 1977, both reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 439-443. https://archive.org/details/micro_IA41153502_0041

@@ -14,8 +14,8 @@ start: 1992
 end: 1998
 location: "United Kingdom"
 created: 2026-05-22
-updated: 2026-05-22
-summary: "Combat 18 was a British neo-Nazi paramilitary organisation founded in 1992 as a BNP stewarding group, responsible for numerous violent attacks and linked to international neo-Nazi networks and loyalist paramilitaries, proscribed by the UK Home Office in February 2020 under S.I. 2020/200."
+updated: 2026-09-22
+summary: "Combat 18 was a British neo-Nazi paramilitary organisation founded in 1992 as a BNP stewarding group, responsible for numerous violent attacks and linked to international neo-Nazi networks and loyalist paramilitaries, banned in Germany in January 2020 but not proscribed in the United Kingdom."
 ---
 
 [[Combat 18]] (C18) was a British neo-Nazi paramilitary organisation founded in early 1992 by [[Charlie Sargent]] and [[Wilf Browning]], initially as a stewarding group for the [[British National Party]] to protect its events from anti-fascist counter-demonstrators. The name is a numerical reference to the initials of [[Adolf Hitler]] (A=1, H=8). C18 quickly developed an independent identity as an organisation committed to open violence rather than electoral politics, split from the BNP in 1993, and maintained documented connections to the [[Ulster Defence Association]] and international neo-Nazi networks throughout the mid-1990s. Its core leadership was destroyed by an internal feud that resulted in the murder of [[Christopher Castle]] in 1997 and the life imprisonment of Sargent and his associate [[Martin Cross]] in January 1998. The organisation was proscribed by the UK Home Office under the [[Terrorism Act 2000]] (Proscribed Organisations) (Amendment) Order 2020, S.I. 2020/200, which came into force in February 2020.[^1]
@@ -58,13 +58,12 @@ Whether Sargent himself was also a police informant, as alleged by the World in 
 
 ### Proscription
 
-The UK Home Office proscribed Combat 18 under The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2020, S.I. 2020/200. This came into force in February 2020, more than 22 years after C18's effective dissolution through the Sargent conviction. Germany had banned C18 in January 2020; Canada had listed it as a terrorist entity in June 2019. The UK proscription is legally significant because it creates membership offences under Section 11 of the Terrorism Act 2000 for anyone knowingly belonging to or professing membership of C18, and dissemination offences for distributing C18 material.[^1]
+Combat 18 does not appear on the Home Office list of proscribed organisations, updated July 7, 2026. The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2020, S.I. 2020/200, made on February 27, 2020, added the [[Sonnenkrieg Division]] to Schedule 2 and amended the entry for the [[Kurdistan Workers' Party]]; it did not name Combat 18. Germany had banned C18 in January 2020; Canada had listed it as a terrorist entity in June 2019.[^1]
 
-The proscription of Combat 18 is notable in the context of O9A: the organisation in which [[David Myatt]] served as ideological figure was banned in 2020, while O9A, attributed to Myatt as its founder, has not been proscribed as of mid-2026.
 
 ### Footnotes
 
-[^1]: The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2020, S.I. 2020/200. https://www.legislation.gov.uk/uksi/2020/200/contents/made; Proscribed terrorist groups or organisations, GOV.UK. https://www.gov.uk/government/publications/proscribed-terror-groups-or-organisations--2
+[^1]: The Terrorism Act 2000 (Proscribed Organisations) (Amendment) Order 2020, S.I. 2020/200, art. 2. https://www.legislation.gov.uk/uksi/2020/200/made; Home Office, "Proscribed terrorist groups or organisations," updated July 7, 2026, GOV.UK. https://www.gov.uk/government/publications/proscribed-terror-groups-or-organisations--2
 [^2]: Lowles, Nick. *White Riot: The Violent Story of Combat 18.* Milo Books, 2001.
 [^3]: Counter Extremism Project. "Blood and Honour." https://www.counterextremism.com/supremacy/blood-honour-bh; Channel 4 News. "Ian Stuart Donaldson and a legacy of hate." https://www.channel4.com/news/ian-stuart-donaldson-a-legacy-of-hate
 [^4]: Notes From The Borderland (Larry O'Hara). "Combat 18 and MI5: Some Background Notes." https://borderland.co.uk/combat-18-mi5-some-background-notes/; Lowles, *White Riot.*

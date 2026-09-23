@@ -6,6 +6,7 @@ tags:
   - FBI
   - LawEnforcement
 summary: "Wagner filed two civil rights lawsuits with the U.S."
+updated: 2026-09-22
 ---
 [[Ben Wagner]] was a lawyer from Jackson, [[California]]. He represented [[Dave Beavers]] and other deputies who were exposing corruption within the Mariposa Sheriff's Department. Wagner played a key role in forming [[D.I.G. (Decency in Government)]], an organization dedicated to exposing this corruption.[^1]
 
@@ -18,4 +19,4 @@ Shortly before his first scheduled court appearance on behalf of D.I.G., Wagner 
 ---
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited. No independent record of his disappearance has been found; the California State Bar record has not been checked. He is not the Benjamin B. Wagner who was U.S. Attorney for the Eastern District of California from 2009 to 2016.

@@ -15,7 +15,7 @@ summary: "Joi Ito is a Japanese-American venture capitalist and former director 
 born: 1966-06-19
 location: "Kyoto, Japan (born)"
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-09-22
 ---
 
 Joi Ito (born Joichi Ito, June 19, 1966, in [[Kyoto]], [[Japan]]) is a Japanese-American venture capitalist and technology advocate who served as director of the [[MIT Media Lab|MIT Media Lab]] from 2011 until his September 2019 resignation. [[Ronan Farrow]]'s *[[The New Yorker|New Yorker]]* reporting (September 2019) documented that the Media Lab had a deeper financial relationship with [[Jeffrey Epstein]] than previously disclosed, including Epstein-directed donations that Ito had personally solicited and attempted to conceal. Ito attended the 2015 Epstein dinner (EFTA00344556, EFTA00344564) alongside [[Peter Thiel]], [[Elon Musk]], [[Reid Hoffman]], and [[Mark Zuckerberg]]. Hoffman participated in the Epstein image-rehabilitation effort through Ito's introductions.[^1][^2][^3]
@@ -34,7 +34,7 @@ Epstein's donations to the Media Lab were directed through intermediaries and th
 
 ### The Resignation and the Aftermath
 
-Ito resigned from the MIT Media Lab on September 7, 2019, one day after the *New Yorker* reporting. MIT initiated an independent investigation conducted by the law firm [[Goodwin Procter|Goodwin Procter]], which produced a report documenting the extent of the Media Lab's Epstein relationship and the institutional failures that permitted it. The Goodwin Procter investigation found that MIT had accepted approximately 850,000 dollars in Epstein-directed or Epstein-connected donations across the 2012-2017 period, and that senior MIT officials, including the institute's president, had been aware of Epstein's involvement in directing funds.[^1][^5]
+Ito resigned from the MIT Media Lab on September 7, 2019, one day after the *New Yorker* reporting. MIT initiated an independent investigation conducted by the law firm [[Goodwin Procter|Goodwin Procter]], which produced a report documenting the extent of the Media Lab's Epstein relationship and the institutional failures that permitted it. The Goodwin Procter investigation foundund that Epstein made ten donations to MIT totaling 850,000 dollars between 2002 and 2017, nine of them, 750,000 dollars, after his 2008 conviction and 525,000 dollars of those to the Media Lab; that the post-conviction gifts were driven by Ito or by Professor Seth Lloyd; that three members of MIT's senior team approved them in 2013 knowing of Epstein's record; and that President L. Rafael Reif "was not contemporaneously aware of Epstein's donations."[^5]
 
 Ito also resigned from positions at the [[John D. and Catherine T. MacArthur Foundation|MacArthur Foundation]], the [[John S. and James L. Knight Foundation|Knight Foundation]], the [[Knight-Hennessy Scholars|Knight-Hennessy Scholars]] program, and the [[New York Times Company|New York Times Company]] board. The resignations terminated Ito's positions across the philanthropic, media, and academic institutions that his Epstein relationship had damaged. The MIT Media Lab subsequently reformed its donor-acceptance policies to prohibit anonymous donations and to require enhanced due diligence on donors with criminal records.[^1][^5]
 

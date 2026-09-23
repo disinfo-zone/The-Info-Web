@@ -4,24 +4,33 @@ tags:
   - Person
   - Belgium
   - Dutroux
-summary: "An Marchal was a 17-year-old Belgian girl abducted by Marc Dutroux and Michel Lelievre in August 1995 while camping at Ostend; she was murdered in captivity and her body discovered in September 1996."
-created: 2026-05-14
-updated: 2026-05-14
+summary: "Seventeen-year-old from Hasselt abducted with Eefje Lambrecks on the Belgian coast on the night of August 22, 1995; their bodies were found under a shed at Jumet on September 3, 1996."
 died: 1995
-location: "Belgium"
+location: "Hasselt, Belgium"
+relations:
+  - type: subject_of
+    with: "[[Marc Dutroux]]"
+    role: "abducted August 22-23, 1995; body found September 3, 1996"
+    start: 1995-08-22
+    end: 1996-09-03
+    fn: 2
+  - type: relative_of
+    with: "[[Paul Marchal]]"
+    role: "daughter"
+    fn: 4
+created: 2026-05-14
+updated: 2026-09-22
 ---
-An Marchal, aged 17, was abducted on the night of August 22-23, 1995, while camping at Ostend, Belgium, with her friend [[Eefje Lambrecks]], who was 19. The two were taken by [[Marc Dutroux]] and his accomplice [[Michel Lelievre]], a heroin addict whom Dutroux paid in drugs for his participation.[^1]
+An Marchal, aged seventeen, of Hasselt, disappeared with her friend [[Eefje Lambrecks]], aged nineteen, on the Belgian coast on August 22, 1995, on their way back from a hypnosis show at Ostend. The police at Westende did not treat their friends' report of August 23 as serious, and the national criminal intelligence bureau issued a non-urgent notice on August 24; the police at Hasselt acted at once on her parents' report.[^1][^2]
 
-Dutroux held An Marchal and Eefje Lambrecks captive for approximately two weeks, subjecting them to abuse. [[Bernard Weinstein]], another Dutroux accomplice, witnessed the abuse of the two girls; Dutroux later buried Weinstein alive in November 1995 after deciding he was no longer trustworthy.[^2] According to Dutroux's own account, he murdered the two girls because they had seen his face and could identify him.[^1]
+Their bodies were found on September 3, 1996, in a pit under a shed at Jumet.[^2] At the trial [[Marc Dutroux]] said the two had been taken, with [[Michel Lelievre]], "for Nihoul's network," held chained on the first floor of his house at [[Marcinelle, Belgium|Marcinelle]] for fifteen days, and then taken away by [[Bernard Weinstein]] and Lelièvre; the pathologists found that both had died of advanced malnutrition.[^2] On June 17, 2004, the jury convicted Dutroux of the murders of An and Eefje and Lelièvre, who admitted the abduction, of her abduction and sequestration with the aggravating circumstance of torture causing death. [[Jean-Michel Nihoul]] was acquitted of the abduction charges; the jury set aside the "network" thesis argued by the prosecution and by the Marchal family's lawyers. Her father, [[Paul Marchal]], said: "They are guilty of everything, even the killings, even the torture."[^3][^4]
 
-Their bodies were located on September 3, 1996, in Jumet (Hainaut province), buried beneath a shack adjacent to a property owned by Dutroux. Dutroux directed police to the location after his arrest following the rescue of [[Sabine Dardenne]] and [[Laetitia Delhez]] from his Marcinelle dungeon in August 1996.[^1]
-
-At his 2004 trial, Dutroux was convicted of the murders of An Marchal, Eefje Lambrecks, [[Julie Lejeune]], and [[Melissa Russo]] and received a life sentence. Co-defendant [[Jean-Michel Nihoul]] was acquitted of the murders but convicted on other charges.[^1]
-
-The investigation's handling of An Marchal's disappearance became central to the Belgian parliamentary inquiry into the Dutroux affair. [[Rene Michaux]], the gendarme heading surveillance operation Othello, searched Dutroux's house in December 1995 and failed to locate the hidden dungeon despite hearing what may have been children's voices - a failure later described as emblematic of systemic breakdown in the gendarmerie's response.[^3]
+The gendarme [[Rene Michaux]], who ran the surveillance operation [[Operation Othello]], searched Dutroux's house in December 1995 and did not find the concealed cellar.[^5]
 
 ### Footnotes
 
-[^1]: "Marc Dutroux," Wikipedia. https://en.wikipedia.org/wiki/Marc_Dutroux
-[^2]: Thomas, Mark. "Belgian Serial Killer and Child Molester Marc Dutroux Didn't Act Alone," *Oxygen,* November 2021. https://www.oxygen.com/crime-news/who-are-belgian-serial-killer-marc-dutrouxs-accomplices
-[^3]: "Belgian policeman haunted by Dutroux error," *Irish Examiner,* 2004. https://www.irishexaminer.com/world/arid-30140605.html
+[^1]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 78-80; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
+[^2]: Fleury, Elisabeth. "Le calvaire d'An et Eefje." *Le Parisien,* April 5, 2004; translated from the French. https://www.leparisien.fr/faits-divers/le-calvaire-d-an-et-eefje-05-04-2004-2004887724.php
+[^3]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
+[^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011
+[^5]: "Belgian policeman haunted by Dutroux error." *Irish Examiner,* 2004. https://www.irishexaminer.com/world/arid-30140605.html

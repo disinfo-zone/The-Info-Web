@@ -20,7 +20,7 @@ The Vietnam War followed the French defeat at [[Dienbienphu]] and the division o
 
 ### Behavioral Science
 
-The [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, commissioned by [[Advanced Research Projects Agency|ARPA]] in the mid-1960s, produced about 2,371 interviews, more than 60,000 pages, conducted at some forty sites in South Vietnam, including detention centers; Rand's own history later confirmed that its analyst Leon Gouré had promoted the air war with findings the interviews did not support.[^6] The Army's [[4th Psychological Operations Group]] developed leaflet and loudspeaker equipment; in March 1969 alone 713 million leaflets were dropped over Vietnam, the main channel for the [[Chieu Hoi]] defection program.[^7] In Senate testimony [[Sidney Gottlieb]] said that in those years the military had been "considering the use of [[LSD]] on a fairly large scale."[^8]
+The [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, commissioned by [[Advanced Research Projects Agency|ARPA]] in the mid-1960s, produced about 2,371 interviews, more than 60,000 pages, conducted at some forty sites in South Vietnam, including detention centers; Rand's own history later confirmed that its analyst Leon Gouré had promoted the air war with findings the interviews did not support.[^6] The Army's [[4th Psychological Operations Group]] developed leaflet and loudspeaker equipment; in March 1969 alone 713 million leaflets were dropped over Vietnam, the main channel for the [[Chieu Hoi]] defection program.[^7] In Top Secret testimony to the Church Committee in October 1975, [[Sidney Gottlieb]] said that during the war the military had been "considering the use of [[LSD]] on a fairly large scale."[^8]
 
 ### Opposition
 
@@ -35,6 +35,6 @@ The [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, commissioned b
 [^5]: As cited on the Richard Secord page.
 [^6]: Elliott, Mai. *RAND in Southeast Asia: A History of the Vietnam War Era.* RAND CP-564, 2010; Watson, Peter. *War on the Mind: The Military Uses and Abuses of Psychology.* Basic Books, 1978, pp. 388-394.
 [^7]: Watson, pp. 403-416.
-[^8]: U.S. Senate, "Project MKULTRA, the CIA's Program of Research in Behavioral Modification," S. Hrg. 95-37, August 3, 1977, as cited on the Operation DERBY HAT page, which places the remark in the context of Gottlieb's 1975 Church Committee testimony (National Security Archive, "Top Secret Testimony of CIA's MKULTRA Chief, 50 Years Later," October 30, 2025).
+[^8]: National Security Archive. "Top Secret Testimony of CIA's MKULTRA Chief, 50 Years Later." October 30, 2025, documents 1-4.
 [^9]: Garrow, David. *Bearing the Cross: Martin Luther King, Jr., and the Southern Christian Leadership Conference.* William Morrow, 1986.
 [^10]: Aust, Stefan. *The Baader-Meinhof Complex.* Bodley Head, 2008.

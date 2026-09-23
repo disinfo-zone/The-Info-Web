@@ -1,38 +1,50 @@
 ---
 category: "PROMIS Scandal"
+aliases:
+  - "John Philip Nichols"
 tags:
   - Person
   - PROMIS
-  - CIA
-summary: "Nichols formalized a joint venture with Wackenhut Corporation on April 1, 1981, to establish 'Cabazon Arms' on the reservation."
+  - Cabazon
+summary: "Tribal administrator of the Cabazon Band who negotiated the 1981 Wackenhut joint venture, was convicted of murder solicitation after 1985, and was named in the 2009 Alvarez murder charges."
+relations:
+  - type: employed_by
+    with: "[[Cabazon Indian Reservation|Cabazon Band of Mission Indians]]"
+    role: "tribal administrator"
+    fn: 2
+  - type: participant_in
+    with: "[[Wackenhut Corporation]]"
+    role: "Cabazon side of the 1981 joint venture"
+    start: 1981-04
+    fn: 2
+  - type: relative_of
+    with: "[[John Paul Nichols]]"
+    role: "father"
+    fn: 1
+created: 2025-08-05
+updated: 2026-09-22
 ---
-[[Dr. John Philip Nichols]] was the administrator of the [[Cabazon Indian Reservation|Cabazon Indian tribe]] and a former [[Central Intelligence Agency|CIA]] agent. He played a central role in the Cabazon/[[Wackenhut Corporation]] Joint Venture and was deeply involved in various covert operations, arms dealing, and alleged criminal activities.[^1]
+John Philip Nichols, a non-Indian, was the tribal administrator of the [[Cabazon Indian Reservation|Cabazon Band of Mission Indians]] at Indio, California, under Tribal Chairman [[Arthur Welmas]], and managed the tribe's business affairs; in the early 1980s the only building on the reservation was a casino.[^2]
 
-### Cabazon/Wackenhut Joint Venture
+### The Wackenhut Joint Venture
 
-Nichols formalized a joint venture with Wackenhut Corporation on April 1, 1981, to establish "[[Cabazon Arms]]" on the reservation. This venture aimed to manufacture high-tech arms and explosives for export, leveraging the reservation's sovereign status to bypass federal regulations. Nichols obtained a [[Department of Defense|Department of Defense]] secret facility clearance for the reservation and proposed the manufacture of various weapons systems, including 120mm combustible cartridge cases, 9mm machine pistols, laser-sighted assault weapons, sniper rifles, and portable rocket systems. He also sought to develop biological weapons.[^1]
+In April 1981 the [[Wackenhut Corporation]] entered into a joint venture with the Cabazon Security Corporation, signed by [[Robert Frye]] for Wackenhut and Welmas for the tribe's company; its stated primary purpose was to "qualify for, bid on, and obtain government guard service contracts." Early on Nichols wanted the joint venture to sell night-vision equipment, and it pursued sales to representatives of Guatemala and Honduras; as far as the [[Department of Justice|Justice Department]]'s special counsel could tell, no sales were made. The venture also pursued the manufacture of combustible cartridge cases with [[Peter Zokosky]] of Armtec Defense Products, which took people from the joint venture to Picatinny Arsenal in 1981.[^2] Investigating [[Michael Riconosciuto]]'s claims for the Justice Department between 1991 and 1993, Special Counsel [[Nicholas Bua]] found that any business relationship Riconosciuto had was with Nichols or the Cabazons rather than with Wackenhut, and that no witness could "even corroborate that Riconosciuto had access to computer equipment while on the Cabazon reservation."[^2]
 
-Nichols introduced [[Michael Riconosciuto]] to [[Robert Frye]], Vice President of Wackenhut Corporation, and Riconosciuto conducted a theoretical blackboard exercise on a Railgun for [[Dr. Harry Fair]] at Picatinny Arsenal. Nichols was aware of Riconosciuto's past conviction for stabbing a [[DEA|DEA]] agent but still sought his expertise.[^1]
+### Arrest and Conviction
 
-### Alleged Criminal Activities and Connections
+The Indio police arrested Nichols in January 1985 on charges of soliciting murder; a contemporaneous clipping in his [[Federal Bureau of Investigation|FBI]] file described him as in state prison for diagnostic evaluation "on two counts of murder solicitation," and the FBI recorded that he had been convicted and was serving his sentence. The same file preserves a 1985 report that the California State Board of Equalization was seeking about 2 million dollars in cigarette taxes from Nichols and his son, [[John Paul Nichols]], over a reservation smoke shop run until 1980.[^3]
 
-Nichols was arrested in January 1985 for hiring a man to solicit the murder of five people for drug-related reasons, though the murders were not carried out due to his arrest. He was convicted of felony murder solicitation and served 18 months in prison. His son, [[John Paul Nichols]], took over his position as acting administrator during his incarceration.[^1]
+### The Alvarez Murders
 
-Police reports indicate that Nichols previously did business in [[Saudi Arabia]], [[South Africa]], [[Panama]], [[Nicaragua]], [[Guatemala]], [[Mexico]], [[Chile]], [[Brazil]], the [[Netherlands]], [[England]], [[Canada]], [[France]], [[Spain]], [[Japan]], [[Korea]], and [[Taiwan]]. In 1960, he managed a Coca-Cola bottling plant in Sao Paolo, Brazil, and later became a Pentecostal leader in the Chilean Pentecostal movement.[^1]
+On July 1, 1981, Tribal Vice Chairman [[Fred Alvarez]], 32, his friend [[Ralph Boger]], 42, and [[Patricia Castro]], 44, were found shot to death at 35040 Bob Hope Drive in Rancho Mirage. A grand jury in the mid-1980s brought no charges. After new documents surfaced in 2007, the former Cabazon security chief [[Jimmy Hughes]] was arrested at Miami International Airport on September 26, 2009, on his way to Honduras, and charged with conspiring with three other men to commit the murders to keep Alvarez from exposing alleged illegal activities by Nichols. On July 1, 2010, after Deputy Attorney General Mike Murphy said prosecutors had "lost confidence to proceed," Judge Dale R. Wells dismissed the charges. No one has been convicted of the murders.[^4]
 
-Nichols wrote himself a 10-year contract with the Cabazon tribe in 1978, granting him 50 percent of the profits from any business he brought to the reservation. He embarked on international security and military ventures, including proposals to provide security for [[Crown Prince Fahd]]'s Saudi Arabia palace and to manufacture weapons on the reservation.[^1]
+### Arms, the Mob and the Alibi
 
-Surveillance reports from the Indio Police Department in August 1981 observed Nichols meeting with various [[La Cosa Nostra]] underworld figures, including [[Tommy Marson]], a known [[Gambino Crime Family]] associate, [[Vincent Caci Bologna]], [[Anthony Fratianno]], and [[Daniel Magano]]. These meetings were believed to involve financial transactions, suggesting Nichols acted as an intermediary between the Cabazons and the Mob.[^1]
+Nichols was described as a former [[Central Intelligence Agency|CIA]] agent. The joint venture was said to have been formalized on April 1, 1981, as "[[Cabazon Arms]]," to manufacture arms and explosives for export under the reservation's sovereign status, with a [[Department of Defense]] secret facility clearance, and to have proposed 120mm combustible cartridge cases, 9mm machine pistols, laser-sighted assault weapons, sniper rifles, portable rockets and biological weapons. Nichols was said to have introduced Riconosciuto to Frye, and Riconosciuto to have done a railgun exercise for [[Dr. Harry Fair]] at Picatinny. The murder solicitation was said to have involved five intended victims and drugs, and Nichols to have served 18 months, his son acting as administrator. He was said to have done business in [[Saudi Arabia]], [[South Africa]], [[Panama]], [[Nicaragua]], [[Guatemala]], [[Mexico]], [[Chile]], [[Brazil]], the [[Netherlands]], [[England]], [[Canada]], [[France]], [[Spain]], [[Japan]], [[Korea]] and [[Taiwan]], to have managed a Coca-Cola bottling plant in São Paulo in 1960 and led in the Chilean Pentecostal movement, to have written himself a ten-year contract with the tribe in 1978 for half the profits of any business he brought in, and to have proposed security for [[Crown Prince Fahd]]'s palace. Indio police surveillance in August 1981 was said to have observed him with [[Tommy Marson]], [[Vincent Caci Bologna]], [[Anthony Fratianno]] and [[Daniel Magano]]. Zokosky's timeline placed Nichols in Canada with him from June 22 to June 30, 1981, which [[John Belton]] said had been arranged as an alibi. Hughes said he had been told in Nichols's presence to take 5,000 dollars as partial payment for the Alvarez killings, and that the tribe's gambling enterprises were fronts for government-sanctioned covert military activity. Riconosciuto said Nichols's office was broken into to retrieve [[Phyllis Riconosciuto]]'s diary with passwords for [[Tyme Shares]], and that Nichols and Zokosky blamed him for the murder of [[Paul Morasca]].[^1]
 
-### Role in Murders and Cover-ups
-
-Nichols was implicated in the [[Fred Alvarez]] triple murders. [[Peter Zokosky]]'s time-line indicated that Nichols was in Canada with Zokosky from June 22 to June 30, 1981, providing him with an alibi for the murders of Fred Alvarez, [[Ralph Boger]], and [[Patricia Castro]] on June 29, 1981. However, [[John Belton]], a Canadian source, claimed that Nichols used people in Canada to ensure he had an alibi.[^1]
-
-[[Jimmy Hughes]], security director of the Cabazon casino, reported that he was instructed in Nichols' presence to take $5,000 as partial payment for the Alvarez killings. Hughes later alleged that Nichols was involved in criminal activities, including issuing contracts to commit murder, and that the gambling enterprises were fronts for U.S. government-sanctioned covert military activities and arms shipments.[^1]
-
-Michael Riconosciuto claimed that Nichols' office was broken into to retrieve [[Phyllis Riconosciuto]]'s diary, which contained passwords for [[Tyme Shares]] online financial clearing house, used for accessing bank accounts. Riconosciuto also stated that Nichols and Peter Zokosky claimed that Riconosciuto was responsible for the torture and murder of [[Paul Morasca]], and that Riconosciuto had discussed torture techniques with Nichols prior to Morasca's death.[^1]
-
----
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited. The CIA claim is not supported by his FBI file. The venture's name and date are corrected by the special counsel's report, and the book dates the murders to June 29, 1981.
+[^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of INSLAW, Inc.,* March 1993, pp. 54-64.
+[^3]: Federal Bureau of Investigation. File on John Philip Nichols, FOIPA Request No. 1344360-000, files 183A-LA-1746 and 198D-LA-96, released August 3, 2016. https://archive.org/details/JohnPhilipNichols
+[^4]: "Only On 3: 'Octopus Murder' Suspect Caught On Hidden Camera." KESQ, September 29, 2009, https://kesq.com/news/2009/09/29/only-on-3-octopus-murder-suspect-caught-on-hidden-camera/ ; "Jimmy Hughes Speaks To KESQ After Charges Dropped." KESQ, July 2, 2010. https://kesq.com/news/2010/07/02/jimmy-hughes-speaks-to-kesq-after-charges-dropped/

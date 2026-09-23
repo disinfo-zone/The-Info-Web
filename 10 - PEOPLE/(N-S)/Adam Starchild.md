@@ -1,18 +1,51 @@
 ---
 category: "Organized Crime"
+aliases:
+  - "Adam Aristotle Starchild"
+  - "Malcolm McConahy"
 tags:
   - Person
-  - OrganizedCrime
-summary: "Adam Starchild, alias of Malcolm Willis McConahy, served as an offshore tax attorney involved in incorporating entities for child exploitation networks."
+  - OffshoreFinance
+  - ChildAbuse
+summary: "President of the Church of the New Revelation and Ocean Living Institute, incorporator of Brother Paul's Children's Mission, and founder of the Virgin Islands trust company that held Francis Shelden's fortune."
+relations:
+  - type: head_of
+    with: "[[The Church of New Revelation]]"
+    role: "president"
+    start: 1974
+    fn: 2
+  - type: head_of
+    with: "[[Ocean Living Institute]]"
+    role: "president"
+    start: 1974
+    fn: 2
+  - type: founded
+    with: "[[Brother Paul's Children's Mission]]"
+    role: "primary incorporator"
+    start: 1975
+    fn: 2
+  - type: founded
+    with: "[[Trust Company of the Virgin Islands]]"
+    role: "founder and original owner"
+    fn: 3
+created: 2026-04-28
+updated: 2026-09-22
 ---
 
-Adam Starchild, alias of Malcolm Willis McConahy, served as an offshore tax attorney involved in incorporating entities for child exploitation networks. He worked with [[Francis Shelden]] in structuring financial arrangements to support illegal operations. Starchild handled incorporations for fronts like [[Brother Paul's Children's Mission]] and The [[Ocean Living Institute]]. He faked his death in 1975 to evade authorities. Starchild was charged with child pornography possession in Wisconsin prior to his association with Shelden.[^1]
+Adam Starchild, a name [[New Jersey]] authorities described as an alias, was listed in the Kearny, New Jersey, telephone book. Incorporation papers in three states showed him as president of [[The Church of New Revelation|the Church of the New Revelation]] and of the [[Ocean Living Institute]], both incorporated in Delaware in 1974 with principal places of business in New Jersey, as primary incorporator of [[Brother Paul's Children's Mission]] and as a trustee of the Educational Foundation for Youth of Illinois. The Internal Revenue Service granted the church and the institute tax exemption without investigating their claims to be charitable organizations. [[Gerald Richards]] told police that all four organizations were fronts for the production of child pornography. Starchild told the *Traverse City Record-Eagle* they had not been set up as fronts but might have been "used" for that purpose by [[Dyer Grossman]], who held offices in all three.[^2]
 
-### Role in Operations
-Adam Starchild incorporated [[Brother Paul's Children's Mission]] as a non-profit subsidiary of the offshore [[The Church of New Revelation]]. He acted as president of [[The Church of New Revelation]], which Shelden used to gain tax-exempt status for child exploitation activities. Starchild facilitated the legal framework for Shelden's operations, including the transfer of assets to The Trust Company of the Virgin Islands in 1976. He worked on incorporating documents for the [[Ocean Living Institute]], a sea-steading project that served as another front for Shelden's child porn and trafficking networks. Starchild's efforts allowed Shelden to maintain tax-exempt status for receiving court-ordered juvenile delinquents to [[North Fox Island]]. After faking his death in 1975, Starchild continued advising on offshore banking to protect Shelden's assets from investigations.[^1]
+### The Shelden Trust
 
-### Connections
-Adam Starchild collaborated with [[Francis Shelden]] on structuring the legal and financial aspects of child exploitation operations. He connected to [[Dyer Grossman]] through the [[The Church of New Revelation]], where Grossman co-drafted charters for [[Brother Paul's Children's Mission]]. Starchild's work with offshore banking involved the Virgin Islands trust, appointed [[Edward Brongersma]] as trustee in 1978. His involvement extended to incorporating the [[Ocean Living Institute]] for Shelden's sea-steading interests, which masked child trafficking activities. Starchild's prior charges for child pornography possession in Wisconsin linked him to broader networks including [[Gerald Richards]] and [[John David Norman]].[^1]
+On September 18, 1976, [[Francis Shelden]], who by 1978 was being sought by the [[Federal Bureau of Investigation|FBI]] under a fugitive warrant, established a revocable trust with the Trust Company of the Virgin Islands, Ltd., organized in the British Virgin Islands, as trustee, and delivered to Starchild, "founder and original owner" of the trust company, securities he valued at about two million dollars, including all the stock of FDS Land Company of Michigan and Windigo Ranch, Inc., of Colorado. When Starchild failed for months to provide an accounting of the 1977 dividends, Shelden, on the advice of a Dutch tax lawyer, Antoon Kasdorp, removed the trust company by a document notarized in Amsterdam on April 13, 1978, and named as successor trustee [[Edward Brongersma]], a member of the Dutch Senate, who accepted the same day. The litigation over who controlled the trust ran through the federal courts into the mid-1980s; in 1985 Starchild, of Tarpon Springs, Florida, appeared as counsel for the defendants.[^3][^4] Federal cases of 1988 to 1990 were captioned *[[United States]] v. Starchild (Adam Aristotle), a/k/a McConahy (Malcolm).*[^5]
+
+### The McConahy Identity
+
+Starchild was said to have been Malcolm Willis McConahy, an offshore tax attorney who faked his death in 1975, to have been expelled as a scoutmaster in Minneapolis in 1965, and to have been charged with possession of child pornography in Wisconsin before his association with Shelden. He was described as having structured the transfer of Shelden's assets to the Virgin Islands trust to protect them from investigation, and the church as the vehicle through which Brother Paul's could receive court-ordered juvenile delinquents on [[North Fox Island]]. He was linked through these networks to [[John David Norman]].[^1]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. The claim that he faked his death in 1975 is contradicted by the court record of his ownership of the Virgin Islands trust company in 1976 to 1978 and his appearance as counsel in 1985.
+[^2]: Wright, Marilyn. "Porno Ring Uses Church, Tax Laws." *Traverse City Record-Eagle,* 1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 86-87. https://archive.org/details/micro_IA41153502_0041
+[^3]: *National Bank of Detroit v. Shelden,* 730 F.2d 421 (6th Cir. 1984). https://www.courtlistener.com/opinion/433085/national-bank-of-detroit-v-francis-d-shelden-the-trust-company-of-the/
+[^4]: *Detroit Bank v. Trust Co. of Virgin Islands, Ltd.,* 644 F. Supp. 444 (D.P.R. 1985); *Shelden v. Trust Co. of the Virgin Islands, Ltd.,* 535 F. Supp. 667 (D.P.R. 1982). https://www.courtlistener.com/opinion/1559036/detroit-bank-v-trust-co-of-virgin-islands-ltd/
+[^5]: CourtListener case captions, *United States v. Starchild,* 1988-1990, not read in full.

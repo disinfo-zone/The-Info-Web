@@ -1,23 +1,41 @@
 ---
+aliases:
+  - "Boys Farm, Inc."
 tags:
   - Organization
-  - Foster_Home
-  - Child_Pornography
+  - FosterHome
+  - ChildPornography
   - Tennessee
   - 1970s
-  - Church_of_New_Revelation
-  - North_Fox_Island
+  - ChurchOfNewRevelation
+  - NorthFoxIsland
 category: "Private Organization"
-summary: "Father Bud's Boys Farm was a rural foster home located on a farm in Monteagle, Tennessee, owned and operated by the ordained Episcopal priest Claudius Vermilye, known by the alias Father Bud."
-location: "Monteagle, Tennessee"
+summary: "Home for wayward boys near Alto, Tennessee, founded in 1971 by Claudius Vermilye and partly financed with state and county funds, where boys were filmed for more than 270 sponsors."
+location: "Roarks Cove, near Alto, Tennessee"
+start: 1971
+end: 1976
+relations:
+  - type: founded
+    with: "[[Claudius Vermilye]]"
+    reverse: true
+    start: 1971
+    fn: 2
+created: 2026-04-28
+updated: 2026-09-22
 ---
-Father Bud's Boys Farm was a rural foster home located on a farm in Monteagle, Tennessee, owned and operated by the ordained Episcopal priest [[Claudius Vermilye]], known by the alias Father Bud. Juvenile delinquents were sent to the farm by youth corrections and welfare agencies in Tennessee. Boys at the farm were supplied with drugs and alcohol to make them pliant for participation in orgies, which were filmed and photographed. Materials were distributed to a mailing list of sponsors who could pay additional fees to arrange personal visits to the farm for direct access to the boys. Film stocks were mailed from the farm to [[Gerald Richards]] in Michigan for development and distribution through networks including MAIL-O-MATIC in [[North Carolina]] and F&S Distributors in California.[^1]
+Boys Farm, Inc., known as Father Bud's Boys Farm, was founded in 1971 by the Rev. [[Claudius Vermilye]], formerly rector of the Episcopal church at Alto, Tennessee, as a rehabilitation center for wayward boys in the Roarks Cove community near Alto; national wire reports placed it at Winchester and the investigator [[Kenneth Wooden]] at Monteagle. The boys were sent there by the state correction department, juvenile authorities and welfare agencies, and the farm was partly financed with state and county funds.[^2][^3][^4][^5]
 
-The farm was incorporated under [[The Church of New Revelation]] in [[New Jersey]], described by authorities as a sham referral agency for pornography distribution rather than a legitimate church. [[Francis Shelden]] appeared on a seized list of sponsors for the farm's materials. The farm was raided by authorities on November 10, 1976, and the Detroit Free Press reported it as a national pornography hub the following day. The raid linked the farm to the broader network including the [[Delta Project]], [[Odyssey Network]], and [[North Fox Island]] operations.[^1]
+Films found on the Michigan photographer [[Gerald Richards]] at his arrest in July 1976 and films seized in the [[New Orleans]] raid on [[Troop 137]] led Tennessee authorities to raid the farm after they recognized some of the "actors"; Vermilye's name had also turned up in the files of the New Orleans scoutmaster [[Richard Halvorsen]]. The raid produced films of sexual acts between boys at the farm and a list of more than 270 "active sponsors," among them [[Francis Shelden]], owner of [[North Fox Island]]. District Attorney General [[J. William Pope]] said the boys were shown obscene films and given liquor before orgies filmed with a hidden camera, that films were sold to sponsors to raise money for the farm, and that some sponsors came to the farm to have sex with the boys. Half a dozen Illinois men had bought films from Vermilye, one for more than 4,000 dollars. Richards testified that the farm "sold raw film to other men. They would bring it to me to process." An investigator for the district attorney general, Pete Bouldin, described the [[The Church of New Revelation|Church of the New Revelation]], one of the network's fronts, as a "referral agency which distributes pornography around the country"; Boys Farm, Inc., was listed as a separate organization from the church. Vermilye was convicted on June 3, 1977.[^2][^3][^4][^6]
 
-### Connections
+### The Distribution Network
 
-The farm was connected to [[Troop 137]] in New Orleans through a letter sent by Vermilye to scoutmaster [[Richard Halvorsen]] personally inviting him to visit. This link established the connection between the Tennessee farm, the New Orleans troop, and the Chicago-based trafficking network run by [[John David Norman]]. The farm's incorporation through [[The Church of New Revelation]] linked it to [[Dyer Grossman]] and [[Adam Starchild]], who had served as the incorporating agent for Brother Paul's Children's Mission on North Fox Island. The investigation into the farm was part of the cascading exposure of interlinked operations that began with the Gerald Richards arrest in Michigan in July 1976.[^1]
+Film was said to have been mailed from the farm to Richards for development and distribution through MAIL-O-MATIC in [[North Carolina]] and F&S Distributors in California. The farm was said to have been raided on November 10, 1976, and reported the next day by the *Detroit Free Press* as a national pornography hub, and to have been incorporated under the Church of the New Revelation, through which it was linked to [[Dyer Grossman]] and [[Adam Starchild]], and connected through a letter from Vermilye to Halvorsen with Troop 137 and with the Chicago network of [[John David Norman]], the [[Delta Project]] and the [[Odyssey Network]].[^1]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
+
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. The incorporation under the Church of the New Revelation and the letter to Halvorsen are not borne out by the hearing record, which lists Boys Farm, Inc., separately and records only Vermilye's name in Halvorsen's files.
+[^2]: "Former Clergyman Is Convicted of Acts Against His Wards." United Press International, *The New York Times,* June 4, 1977, p. 33. https://www.nytimes.com/1977/06/04/archives/former-clergyman-is-convicted-of-acts-against-his-wards.html
+[^3]: Wright, Marilyn. *Traverse City Record-Eagle,* 1976-1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977. https://archive.org/details/micro_IA41153502_0041
+[^4]: *Chicago Tribune,* May 1977, reprinted in *Sexual Exploitation of Children,* Serial No. 12, 1977, and in U.S. Senate, Committee on the Judiciary, Subcommittee to Investigate Juvenile Delinquency. *Protection of Children Against Sexual Exploitation,* hearings, 95th Congress, 1st session, 1977. https://archive.org/details/protectionofchil00unit
+[^5]: Testimony of Kenneth Wooden, in *Sexual Exploitation of Children,* Serial No. 12, 1977.
+[^6]: Testimony of Gerald S. Richards, May 27, 1977, in *Protection of Children Against Sexual Exploitation,* 1977, p. 41. https://archive.org/details/protectionofchil00unit

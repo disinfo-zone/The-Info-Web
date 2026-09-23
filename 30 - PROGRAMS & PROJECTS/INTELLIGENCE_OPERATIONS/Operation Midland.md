@@ -1,39 +1,31 @@
 ---
-tags:
-  - Event
-  - Police_Investigation
-  - UK
-  - 2010s
-  - VIP_Pedophile_Network
-  - Elm_Guest_House
-  - Operation_Fernbridge
-  - Child_Murder_Investigation
 category: "Intelligence Operation"
-summary: "Operation Midland was a Scotland Yard investigation launched in November 2014 focusing on cold case files related to two child murders from 1979 and 1981 with potential connections to the Elm Guest House."
-start: 2014-11
-end: 2015-03
-location: "Scotland Yard, London"
+tags:
+  - Operation
+  - UK
+  - MetropolitanPolice
+  - VIPAbuse
+summary: "Metropolitan Police investigation of 2014 to 2016 into Carl Beech's false allegations of a VIP abuse ring; it made no arrests and was condemned by the Henriques review for 43 errors."
+start: 2014
+end: 2016
+location: "London, United Kingdom"
+relations:
+  - type: subject_of
+    with: "[[Leon Brittan]]"
+    reverse: true
+    fn: 2
+created: 2026-04-28
+updated: 2026-09-22
 ---
-Operation Midland was a Scotland Yard investigation launched in November 2014 focusing on cold case files related to two child murders from 1979 and 1981 with potential connections to the [[Elm Guest House]]. The operation closed in March 2015 after key witness Carl Beech (known as "Nick") was exposed as providing false information. Beech claimed to have witnessed children murdered at the [[Elm Guest House]] by politicians[^1].
+Operation Midland was the [[Metropolitan Police]] investigation, from 2014 to 2016, of allegations by Carl Beech, a former NHS pediatric nurse and hospital inspector for the Care Quality Commission, identified to the public only as "Nick." In 2012 Beech had approached the Met's [[Operation Yewtree]], which referred him to Wiltshire Police; he claimed that between the ages of seven and sixteen he had been abused by a ring that included [[Jimmy Savile]], and later named two former heads of the armed forces, Lord Bramall and Sir Roland Gibbs, General Sir Hugh Beach, the former heads of [[MI5]] and [[MI6]] Sir Michael Hanley and Sir Maurice Oldfield, former Prime Minister Sir Edward Heath, former Home Secretary [[Leon Brittan|Lord Brittan]], and the former MPs [[Harvey Proctor]] and Lord Janner, and said he had witnessed three murders of children by the group. One of the boys he claimed had been killed was [[Martin Allen]], a 15-year-old who disappeared in 1979; he identified a Pimlico flat where he said Allen was held only after the Exaro reporter Mark Conrad had shown him a picture of it. His claims appeared on [[BBC]] News, in a national newspaper and on the Exaro website, and he was taken to Parliament to meet the Labour MP [[Tom Watson]].[^2]
 
-### Investigation Focus
+The homes of those accused were raided, and Proctor lost his home and his job. The operation cost about 2.5 million pounds and ended without a single arrest. A review by the retired judge Sir Richard Henriques listed 43 serious errors, found that the operation should have been ended much earlier and could have been completed without the accused learning of it, and criticized journalists who had shown Beech pictures of suspects, locations and missing boys. The Met apologized and paid compensation to Bramall and to Brittan's family. Beech, who had received more than 20,000 pounds in compensation for injuries he never suffered, was found guilty at Newcastle Crown Court of twelve counts of perverting the course of justice and one of fraud, having pleaded guilty to child sexual offenses, and was sentenced on July 26, 2019, to 18 years.[^2]
 
-The operation examined the 1979 disappearance of [[Martin Allen]], son of the chief chauffeur to Australian High Commissioner Sir [[Gordon Freeth]], and the 1981 disappearance of Vishal Mehrotra, an eight-year-old boy who vanished while returning home from watching the Royal Wedding procession. Both cases occurred within a mile of the [[Elm Guest House]] in Barnes Common. [[Martin Allen]] lived with his family at [[Stoke Lodge]], the Australian High Commissioner's residence that hosted civic functions attended by [[Margaret Thatcher]], [[Peter Morrison]], [[Peter Hayman]], and [[Leon Brittan]][^1].
+### Stoke Lodge and the Missing Boys
 
-The investigation followed [[Operation Fairbank]] (initial scoping exercise) and [[Operation Fernbridge]] (focused on [[Elm Guest House]] beginning February 2013). This sequence represented escalating law enforcement efforts to address historical VIP abuse allegations. Connections between the [[Elm Guest House]] and child murders had been reported as early as 1982, with a Daily Express article stating Scotland Yard expected to reopen files on these cases during their VIP vice network investigation[^1].
-
-### Key Figures and Claims
-
-Carl Beech's allegations centered on witnessing child murders at the [[Elm Guest House]] by politicians. His claims received significant media coverage, particularly by the BBC, before his exposure as a pedophile providing false testimony. The discrediting of Beech allowed authorities to dismiss the entire investigation, despite substantial evidence of VIP pedophile networks unrelated to his specific claims[^1].
-
-The operation occurred during a period of renewed scrutiny into historical VIP abuse, including investigations into [[Jimmy Savile]], [[Cyril Smith]], and other figures connected to [[Spartacus International]] and various children's homes. The chauffeur company used by the Australian High Commission employed [[Sidney Cooke]] and [[David Smith]], who later faced convictions for child abuse and murder[^1].
-
-### Media Coverage and Evidence Omission
-
-A September 2015 Telegraph article entitled "Operation Midland: The story behind the Met's controversial VIP paedophile ring investigation" was cited in Wikipedia claiming "No evidence of abuse connected to the Elm Guest House was uncovered." This characterization ignored substantial evidence gathered prior to November 2014 about VIP pedophile networks operating through the [[Elm Guest House]] and connected venues like [[Grafton Close Children's Home]][^1].
-
-The media narrative shifted from "the accused" to "the wrongly accused" following Beech's discrediting. This selective reporting contributed to public perception that the entire investigation lacked basis, rather than recognizing that while Beech's specific claims were false, other evidence of VIP pedophile networks remained substantial and credible[^1].
+The investigation was said to have followed [[Operation Fairbank]] and [[Operation Fernbridge]], which concerned the [[Elm Guest House]], and to have examined the 1979 disappearance of Martin Allen, son of the chief chauffeur to the Australian High Commissioner, Sir [[Gordon Freeth]], and the 1981 disappearance of Vishal Mehrotra, eight, who vanished returning from the Royal Wedding procession, both within a mile of the Elm Guest House. The Allen family lived at [[Stoke Lodge]], the High Commissioner's residence, where civic functions were attended by [[Margaret Thatcher]], [[Peter Morrison]], [[Peter Hayman]] and Brittan. The chauffeur company used by the High Commission was said to have employed [[Sidney Cooke]] and [[David Smith]], both later convicted of child abuse and murder. A *Daily Express* report of 1982 said Scotland Yard expected to reopen files on child murders in its investigation of a VIP vice network.[^1]
 
 ### Footnotes
 
-[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. It dates the operation's closure to March 2015 and places Beech's claimed murders at the Elm Guest House, neither of which the contemporaneous reporting bears out.
+[^2]: "Carl Beech: Liar, fraudster and paedophile." BBC News, July 26, 2019. https://www.bbc.com/news/uk-49048972

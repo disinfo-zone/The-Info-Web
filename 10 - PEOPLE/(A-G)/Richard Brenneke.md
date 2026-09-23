@@ -3,7 +3,7 @@ title: Richard Brenneke
 aliases:
   - Richard Brenneke
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Intelligence & Government"
 tags:
   - Person
@@ -41,7 +41,7 @@ The acquittal was not a finding that Brenneke had told the truth; it was a findi
 
 ### Senate Investigation
 
-The [[Senate Foreign Relations Committee]]’s parallel October Surprise investigation, chaired by Senator John Kerry, treated Brenneke’s testimony more seriously than the House Task Force did. Senate investigators noted that some elements of Brenneke’s account - including the Hotel Raphael location, the participation of certain Iranian intermediaries, and the general timing - were corroborated by other sources independently. The Russian intelligence report submitted to Congress in January 1993, which arrived after the House Task Force had closed, named Casey as attending three meetings with Iranian representatives in Madrid and Paris, consistent with the framework of Brenneke’s account if not its specific details.[^2]
+The [[Senate Foreign Relations Committee]]'s parallel inquiry was conducted by a special counsel, Reid Weingarten, for Senators [[Terry Sanford]] and [[James Jeffords]], whose report of November 19, 1992, obtained from the Justice Department seventy-two files on Brenneke's perjury prosecution. It concluded that "Richard Brenneke's allegations were disregarded after his claim of going to Paris in October 1980 was wholly destroyed by documentary proof," and that nothing he alleged afterward could be relied on without unimpeachable corroboration; it found no credible evidence that Bush, Casey, McFarlane, Gates or Richard Allen attended any October 1980 Paris meetings. The special counsel also recorded that the single most relevant document, Casey's 1980 passport, remained missing, and expressed concern that not every witness in the closed hearings had been truthful.[^4] The Russian intelligence report submitted to Congress in January 1993, which arrived after the House Task Force had closed, named Casey as attending three meetings with Iranian representatives in Madrid and Paris, consistent with the framework of Brenneke’s account if not its specific details.[^2]
 
 ### The Octopus Investigation
 
@@ -54,3 +54,4 @@ The provenance and authenticity of the documents Brenneke provided were not inde
 [^1]: Sick, Gary. *October Surprise: America’s Hostages in Iran and the Election of Ronald Reagan*. Times Books, 1991, pp. 104-109. Parry, Robert. *Trick or Treason: The October Surprise Mystery*. Sheridan Square Press, 1993.
 [^2]: U.S. House of Representatives, October Surprise Task Force. *Joint Report of the Task Force to Investigate Certain Allegations Concerning the Holding of American Hostages by Iran in 1980*. 102nd Congress, 2nd Session, January 1993. Parry, Robert. "October Surprise Evidence Surfaces." *Consortium News*, July 14, 2011.
 [^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. TrineDay, 2010.
+[^4]: U.S. Senate, Committee on Foreign Relations. *The "October Surprise" Allegations and the Circumstances Surrounding the Release of the American Hostages Held in Iran: Report of the Special Counsel to Senator Terry Sanford and Senator James M. Jeffords,* S. Prt. 102-125, November 19, 1992, pp. 12, 75, 113. https://hdl.handle.net/2027/pst.000021071829

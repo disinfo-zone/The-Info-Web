@@ -5,6 +5,7 @@ tags:
   - OrganizedCrime
 summary: "Kenneth Hellstrom was as a victim of child sexual abuse perpetrated by John David Norman in the early 1970s within Norman's network of operations in Chicago, Illinois."
 died: 1977
+updated: 2026-09-22
 ---
 Kenneth Hellstrom was as a victim of child sexual abuse perpetrated by [[John David Norman]] in the early 1970s within Norman's network of operations in [[Chicago]]. Hellstrom encountered the exploitation activities tied to the apartment used for producing child pornography and sexual acts involving underage boys. This background positioned him as a key witness exposing the broader child trafficking and abuse ring led by Norman and his associates.[^1]
 
@@ -15,4 +16,4 @@ In late October 1973, Kenneth Hellstrom reported to the Homewood Police Departme
 Kenneth Hellstrom was murdered in January 1977, shortly after his 1976 testimony against [[John David Norman]], with his body discovered in the snow bearing a slit throat. [[Phillip Paske]] emerged as a prime suspect due to his close association with Norman, including cohabitation in the Chicago apartment for pornography production and assistance in launching The Delta Project during their time in Cook County Jail. The [[Chicago]] investigated the murder, but the case remained cold for decades until revived in 2007 and ultimately went unsolved.[^1]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for this page. Hellstrom is not named in the 1977 House and Senate hearing records, and searches of archive.org and CourtListener found no record of the murder or of a confession by Fred Rogers; the Phillip Paske pages give the killing as January 1977 and February 1976.

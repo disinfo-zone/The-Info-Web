@@ -6,27 +6,33 @@ tags:
   - CoverUp
   - 1983
 category: "Historical Phenomenon"
-summary: "1983 head-on collision in Yosemite National Park foothills involving a Secret Service vehicle scouting Queen Elizabeth II's motorcade route, killing three agents and revealing allegations of cover-up and corruption."
+summary: "Collision on Route 132 in Mariposa County on March 5, 1983, between a sheriff's patrol car and a Secret Service convoy assigned to Queen Elizabeth's Yosemite visit, killing three agents."
 date: 1983-03-05
-location: "Mariposa County, California"
+location: "Route 132, Mariposa County, California"
+relations:
+  - type: participant_in
+    with: "[[Roderick Sinclair]]"
+    reverse: true
+    role: "driver of the patrol car"
+    fn: 2
+created: 2025-08-05
+updated: 2026-09-22
 ---
-The [[Queen's Accident]] refers to a head-on collision that occurred on March 5, 1983, in the Yosemite National Park foothills, involving a Mariposa County Sheriff's vehicle and a Secret Service car. The accident took place while scouting Queen Elizabeth II's motorcade route, approximately 25 minutes ahead of her motorcade. Three Secret Service agents, [[George P. LaBarge]], [[Donald Robinson]], and [[Donald A. Bejcek]], were killed in the collision. Mariposa County Sheriff's Sergeant [[Roderick Sinclair]], who was driving, sustained broken ribs and a fractured knee, while his partner, Deputy [[Rod McKean]], was also present.[^1]
+On March 5, 1983, a Mariposa County sheriff's patrol car driven by Sgt. [[Roderick Sinclair]], with Deputy [[Rod McKean]], collided on a winding stretch of Route 132 with the middle car of a three-car convoy of off-duty Secret Service agents in California to protect Queen Elizabeth II on her visit to Yosemite National Park. Agents [[George P. LaBarge]], [[Donald Robinson|Donald W. Robinson]] and [[Donald A. Bejcek]] were killed; they were not wearing seat belts. Sinclair and McKean were injured. The convoy was preceding the royal motorcade, which passed the site a short time later; the Queen and Prince Philip detoured around it and saw the wreckage.[^2][^3] President [[Ronald Reagan]] issued a statement on the deaths.[^4]
 
-### Circumstances and Cover-up Allegations
+### The Investigations
 
-Allegations surfaced that [[Roderick Sinclair]] had been heavily drugged on the day of the accident, receiving large daily doses of Demerol prescribed by [[Dr. Arthur Dahlem]]. Nurses at Fremont Hospital, where Sinclair was initially treated, and some former deputies corroborated this. Assistant [[United States Attorney|U.S. Attorney]] [[James White]] in Fresno attempted to investigate Sinclair's drug use, ordering Dahlem's files seized. However, [[United States District Court|U.S. District Court]] Judge [[Robert E. Coyle]] intervened, ordering White to drop the criminal investigation, claiming Sinclair's drug problem was irrelevant and drug records inadmissible because no blood tests were taken at the hospital. Despite this, blood tests had been taken but later disappeared.[^1]
+A 178-page report of the Central Division of the [[California Highway Patrol]], issued March 29, 1983, blamed Sinclair's speed, estimated at 76 to 80 miles an hour and later revised to 72, and recommended that he be prosecuted. The Mariposa County District Attorney, J. [[Bruce Eckerson]], resisted CHP pressure to file charges for six months and engaged a retired CHP lieutenant, Bob Kovach, whose review disputed the skid-mark evidence; Sinclair's lawyer, David Linn, said the CHP had reached "a predetermined conclusion." The CHP stood by its report.[^3]
 
-In the subsequent civil trial, Judge [[Robert E. Coyle]] ruled both Sinclair and the deceased Secret Service agents at fault, ordering Mariposa County to pay 70 percent of the claim. Ironically, Sinclair was later promoted to Commander of the Mariposa Sheriff's Department. The original [[California Highway Patrol|CHP]] report on the accident was reportedly sent to the [[California Attorney General's Office|State Attorney General's office]] ([[John Van de Kamp]]), who allegedly ordered it "discarded." [[Bruce Eckerson]], the Mariposa County District Attorney who owned stock in [[Music Corporation of America|MCA]] Entertainment Corporation, was then appointed to submit a new report. All [[California Highway Patrol|CHP]] officers involved in the original investigation either resigned, were transferred, or fired, as did [[James White]] himself after the alleged cover-up.[^1]
+The survivors of the three agents sued Mariposa County and Sinclair and settled for a total of 4 million dollars. The county then sued the [[United States]] for contribution, arguing that the federal drivers, Agent LaBarge and Agent Max Phillips in the car ahead, had driven negligently. The district court found that the collision occurred on a blind curve, that Sinclair was driving at 64 miles an hour in a 35-mile zone, 6 miles an hour below the critical speed for the curve, that both federal cars were halfway across the center line into his lane, and that their presence caused him to brake and skid; it found Sinclair 70 percent at fault and ordered the United States to pay 30 percent of the settlement, 1.2 million dollars. On August 26, 1986, the Ninth Circuit reversed, holding that the United States, as an employer covered by workers' compensation, could not be sued for contribution.[^2]
 
-Deputy [[Rod Cusic]] stated he was "told by [[Roderick Sinclair]] to lie to a Grand Jury" about Sinclair's drug addiction and the accident, a disclosure he made to the Fresno [[Federal Bureau of Investigation|FBI]]. Cusic also witnessed a booby-trapped incendiary device explode at Sinclair's home. A 1984 civil trial revealed Sinclair's vehicle contained "a myriad of automatic weapons including a booby-trapped bomb" at the time of the collision.[^1]
+### Drug and Cover-up Allegations
 
-### Subsequent Investigations and Connections
+Sinclair was said to have been receiving large daily doses of Demerol prescribed by [[Dr. Arthur Dahlem]], as nurses at Fremont Hospital and former deputies were said to have confirmed. Assistant U.S. Attorney [[James White]] in Fresno was said to have ordered Dahlem's files seized, and Judge [[Robert E. Coyle]] to have ordered him to drop the criminal investigation on the ground that no blood tests had been taken, although tests had been taken and later disappeared. The CHP report was said to have been sent to the office of Attorney General [[John Van de Kamp]], who told an assistant to "discard" it; Eckerson was said to have held stock in [[Music Corporation of America|MCA]], and the CHP officers on the original investigation and White himself to have resigned or been transferred or fired. Deputy [[Rod Cusic]] told the Fresno office of the [[Federal Bureau of Investigation|FBI]] that Sinclair had told him "to lie to a Grand Jury," and said he had seen a booby-trapped incendiary device explode at Sinclair's home; a 1984 civil trial was said to have heard that Sinclair's car carried automatic weapons and a booby-trapped bomb. Sinclair was later promoted to commander. A Secret Service agent, [[Ron Williams]], whose friend was killed, and a CBS executive asked [[Cheri Seymour]] to investigate, and [[Don Thrasher]] of ABC's *20/20* examined Sinclair's background. The case figured in the reporting of [[Jerry Goldberg]] for *Capitol News Service* and the work of [[D.I.G. (Decency in Government)|D.I.G.]][^1]
 
-Years later, a CBS television executive and [[Ron Williams]], a Secret Service agent whose best friend was killed in the accident, sought [[Cheri Seymour]]'s help to investigate the incident. [[Don Thrasher]], a producer for ABC News 20/20, also investigated, corroborating details about [[Roderick Sinclair]]'s background, including his father's military service under [[Douglas MacArthur]] and Sinclair's own alleged work in Army C.I.D.[^1]
-
-The [[Queen's Accident]] became a key element in the broader investigation into corruption in Mariposa County, as highlighted by [[Jerry Goldberg]]'s reporting for *Capitol News Service* and the efforts of [[D.I.G. (Decency in Government)|D.I.G.]].[^1]
-
----
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited. It describes Judge Coyle as ordering Mariposa County to pay 70 percent of the claim and Eckerson as appointed to write a replacement report; the court record places the 70 percent finding in the county's contribution suit against the United States, which was reversed, and contemporaneous reporting shows Eckerson as the elected district attorney resisting the CHP's call for prosecution.
+[^2]: *LaBarge v. County of Mariposa,* 798 F.2d 364 (9th Cir. 1986). The caption spells the sergeant's name Roderic B. Sinclair; the opinion, Roderick.
+[^3]: "Highway Patrol's Crash investigation questioned." United Press International, September 25, 1983. https://www.upi.com/Archives/1983/09/25/Highway-Patrols-Crash-investigation-questioned/7300433310400/
+[^4]: Reagan, Ronald. "Statement on the Death of Three Secret Service Agents in California," March 5, 1983. Ronald Reagan Presidential Library. https://www.reaganlibrary.gov/archives/speech/statement-death-three-secret-service-agents-california

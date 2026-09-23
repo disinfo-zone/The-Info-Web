@@ -3,7 +3,7 @@ title: Operation Yewtree
 aliases:
   - Operation Yewtree
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 tags:
   - Event
   - PoliceInvestigation
@@ -13,56 +13,28 @@ tags:
   - JimmySavile
   - InstitutionalAbuse
 category: "Intelligence Operation"
-summary: "Operation Yewtree was a Metropolitan Police investigation launched in October 2012 following the death of BBC presenter Jimmy Savile, which uncovered systemic child sexual abuse by BBC figures and connections to international trafficking networks."
-start: 2012-10-01
+summary: "Metropolitan Police investigation opened in October 2012 after an ITV program accusing Jimmy Savile; its 2013 report recorded 214 crimes by him in 28 police areas between 1955 and 2009."
+start: 2012-10
 location: "Metropolitan Police, London"
+relations:
+  - type: investigated
+    with: "[[Jimmy Savile]]"
+    fn: 2
 ---
-Operation Yewtree was a Metropolitan Police investigation launched in early October 2012 following the death of [[BBC]] presenter [[Jimmy Savile]]. The investigation began after ITV aired allegations against Savile publicly, leading to what was officially called an investigation into Savile, but actually focused on the BBC and his associates who could still face prosecution. The operation culminated from ongoing probes into suspected child abuse rings linked to the BBC, with the investigation into [[Chris Denning]] serving as the genesis to these probes[^1].
+Operation Yewtree was created by the [[Metropolitan Police]] in October 2012, the day after ITV broadcast a program in which five women said they had been abused by [[Jimmy Savile]], who had died in 2011, in the 1970s; three said the abuse had taken place at [[BBC]] facilities, where Savile worked from 1965 to 2006. Its report, *Giving Victims a Voice,* published on January 11, 2013, found that 450 people had come forward with information about Savile, that 214 crimes had been formally recorded in 28 police jurisdictions between 1955 and 2009, most in Leeds and London, that 73 percent of his victims were under 18 and that their ages ranged from 8 to 47; it concluded that Savile had been "hiding in plain sight and using his celebrity status and fundraising activity to gain uncontrolled access to vulnerable people across six decades."[^2]
 
-### Key Arrests and Convictions
+The review of the BBC by Dame Janet Smith, published on February 25, 2016, identified 72 victims of Savile dating back to 1959, the youngest eight, found that 117 people at the BBC had heard rumors about him, including abuse on the premises where *Top of the Pops* and *Jim'll Fix It* were made, and said that "the talent was treated with kid gloves and rarely challenged"; it cleared the institution of responsibility for his abuse. A parallel review by Dame Linda Dobbs found 21 victims of the BBC sports presenter [[Stuart Hall]], jailed in 2013 after pleading guilty to indecent assault.[^3]
 
-The investigation led to numerous high-profile arrests and convictions:
+### Arrests and Convictions
 
-[[Gary Glitter]]: Arrested October 2012, convicted of historic child sexual abuse charges related to Operation Yewtree. One woman abused by Savile at Duncroft foster home alleged she and two other girls were driven to BBC studios and assaulted by Savile, Gary Glitter, and a third famous BBC personality[^1].
+[[Gary Glitter]] was arrested in October 2012 and convicted of historic child sexual abuse; a woman abused by Savile at the Duncroft home said she and two other girls were driven to BBC studios and assaulted by Savile, Glitter and a third BBC personality. [[Chris Denning]], arrested in June 2013, was convicted of abusing 24 boys, one of them allegedly raped at Savile's house, and the inquiry returned to earlier investigations of Denning and [[Jonathan King]]. [[David Smith]], Savile's former chauffeur and the first person charged under Yewtree, died of a heroin overdose the day before his trial; he was said to have taken victims to parties with other men and to a house outside Amsterdam, linked to [[Warwick Spinks]]. [[Dave Lee Travis]], Stuart Hall and [[Rolf Harris]] were convicted; charges against [[Jim Davidson]] and [[Freddie Star]] were dropped.[^1]
 
-[[Chris Denning]]: Arrested June 2013, convicted of historic child sexual abuse against 24 boys, including one allegedly raped at Jimmy Savile's house. The investigation quickly circled back to previous investigations into [[Jonathan King]] and Chris Denning, showing connections to earlier BBC abuse networks[^1].
+### The BBC and the Press
 
-[[David Smith]]: First person charged under Operation Yewtree, died of heroin overdose the day before his trial was to commence. Smith served as [[Jimmy Savile]]'s chauffeur and was found to have taken victims to parties with other men and children where they were given drugs and abused. He also took victims to a big house outside Amsterdam where they were abused with other children, connecting to international trafficking networks involving [[Warwick Spinks]][^1].
-
-Other convictions: [[Dave Lee Travis]] (former BBC Radio One DJ convicted of groping), [[Stuart Hall]] (BBC presenter convicted), and [[Rolf Harris]] (described as "by far the biggest scalp of all"). Several others including [[Jim Davidson]] and [[Freddie Star]] had charges dropped due to lack of evidence[^1].
-
-### Institutional Complicity at the BBC
-
-The investigation revealed systemic institutional complicity within the BBC:
-
-The BBC employed [[David Smith]] as a chauffeur in the 1980s despite his 22 previous convictions for child sexual abuse dating back to 1966. The corporation initially refused to admit Smith ever worked for them, leading victims to accuse the BBC of covering up his abuse. The BBC had employed Smith through a private company "off the books" to "cut its exposure"[^1].
-
-In December 2011, the BBC under Mark Thompson had killed a Newsnight report on allegations against Savile by 10 women. This decision to suppress the story allowed the abuse to continue uninvestigated for nearly another year before ITV's exposé finally forced police action[^1].
-
-### International Network Connections
-
-Operation Yewtree exposed connections to international child trafficking networks:
-
-[[David Smith]]'s activities included taking victims to Amsterdam for abuse, linking the BBC abuse ring to international trafficking operations. [[Warwick Spinks]], who operated in Amsterdam's Spuistraat district, was extradited back to the UK in November 2012, just weeks into Operation Yewtree. These connections demonstrated how the BBC abuse network was part of a broader international system of child exploitation and trafficking[^1].
-
-The investigation revealed that [[Chris Denning]] and [[Jonathan King]] were part of a network that extended beyond the BBC to international operations. This connected Operation Yewtree to earlier investigations like [[Operation Arundel]], which had examined BBC celebrities and the [[Walton Hop Disco]][^1].
-
-### Media Controversies and Defamation
-
-The investigation faced significant media challenges:
-
-In November 2012, at the beginning of Operation Yewtree, the BBC paid defamation damages to Lord McAlpine after falsely implicating him in a Newsnight report. A second defamation case was brought by Cliff Richard, leading to a £2m settlement by the BBC in 2019 after they broadcast police raiding his home. These incidents created a counter-narrative of "the wrongly accused" that was used to question the investigation into the BBC child abuse ring[^1].
-
-These media controversies provided ammunition for those seeking to dismiss the broader investigation into institutional child abuse at the BBC. The defamation cases shifted public attention from the victims and the substantial evidence of abuse to focus on the rights of the accused, creating a narrative that undermined the investigation's credibility[^1].
-
-### Connections to Other Investigations
-
-Operation Yewtree was part of a broader series of investigations into VIP pedophile networks:
-
-The operation was closely linked to [[Operation Fernbridge]], launched in February 2013 into the [[Elm Guest House]] and VIP paedophile ring. It also connected to [[Operation Ravine]], an interlinked investigation that arrested [[Jonathan King]] in 2015. These simultaneous investigations demonstrated the widespread nature of institutional child abuse across multiple organizations and venues[^1].
-
-The investigation also had connections to earlier probes like [[Operation Arundel]], which had examined BBC celebrities and the [[Walton Hop Disco]]. This showed how patterns of abuse and protection had persisted across decades, with different investigations uncovering similar networks and methods of operation[^1].
+The BBC employed Smith as a chauffeur in the 1980s, despite 22 previous convictions for child sexual abuse dating to 1966, through a private company "off the books." In December 2011 the BBC under Mark Thompson dropped a *Newsnight* report on allegations against Savile by ten women. In November 2012 the BBC paid damages to Lord McAlpine after a *Newsnight* report falsely implicated him, and in 2019 it settled with Cliff Richard for 2 million pounds after broadcasting a police raid on his home. Spinks was extradited to the [[United Kingdom]] in November 2012. Yewtree was linked to [[Operation Fernbridge]], opened in February 2013 into the [[Elm Guest House]], to [[Operation Ravine]], which arrested King in 2015, and to the earlier [[Operation Arundel]] into BBC figures and the [[Walton Hop Disco]].[^1]
 
 ### Footnotes
 
-[^1]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.
+[^2]: Chappell, Bill. "Jimmy Savile Sexually Abused Hundreds, Police Report Concludes." NPR, January 11, 2013, reporting *Giving Victims a Voice,* January 2013. https://www.npr.org/sections/thetwo-way/2013/01/11/169146888/jimmy-savile-sexually-abused-hundreds-police-report-concludes
+[^3]: "Report: BBC missed chances to stop sexual predator Jimmy Savile." Associated Press, CBS News, February 25, 2016. https://www.cbsnews.com/news/report-bbc-missed-chances-to-stop-sexual-predator-jimmy-savile/

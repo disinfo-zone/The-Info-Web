@@ -9,9 +9,17 @@ tags:
   - FamilyJewels
 aliases:
   - Rockefeller Commission
-summary: "The Rockefeller Commission (officially the Commission on CIA Activities Within the United States) was convened by President Ford in 1975 under Vice President Nelson Rockefeller to investigate CIA domestic abuses, but its membership was stacked with individuals who had participated in or benefited from the programs under review."
+summary: "Presidential commission on CIA activities within the United States, chaired by Vice President Nelson Rockefeller from January to June 1975; the White House removed its assassination section before publication."
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-09-22
+relations:
+  - type: head_of
+    with: "[[Nelson Rockefeller]]"
+    reverse: true
+    role: "chairman"
+    start: 1975-01-04
+    end: 1975-06-10
+    fn: 1
 ---
 
 The Commission on CIA Activities Within the United States (commonly called the Rockefeller Commission after its chair, Vice President [[Nelson Rockefeller]]) was established by President [[Gerald Ford]] on January 4, 1975 to investigate CIA domestic abuses, in the context of investigative reporting by [[Seymour Hersh]] in the New York Times and the parallel congressional investigations of the [[Church Committee]] and [[Pike Committee]]. Critics immediately noted that Rockefeller, as chairman of the [[NSC Special Group]] under Eisenhower, had personally overseen and approved at least one [[MKULTRA]] project, making his chairing of the commission to investigate the same programs a direct conflict of interest. The commission's membership was stacked with individuals connected to the [[Rockefeller family]] network or to the programs under review.
@@ -42,13 +50,13 @@ The composition of the commission drew criticism for the conflicts of interest a
 
 ### Scope and Limits
 
-The commission held 26 sessions over approximately six months. Its investigation covered CIA mail-opening programs, MKULTRA, domestic surveillance of political activists, and CIA relationships with police departments. CIA Director William Colby provided the commission with access to the Family Jewels documents, the same compendium he had provided to the [[Justice Department]] and subsequently shared with the Church Committee and Pike Committee.
+The commission held 26 sessions over approximately six months. Its investigation covered CIA mail-opening programs, the testing of drugs on unsuspecting subjects, domestic surveillance of political activists, and CIA relationships with police departments. CIA Director William Colby provided the commission with access to the Family Jewels documents, the same compendium he had provided to the [[Justice Department]] and subsequently shared with the Church Committee and Pike Committee.
 
 The commission's findings on Operation CHAOS were among the most specific it produced. Operation CHAOS, run under Angleton and overseen by [[Richard Ober]], had by the time of its termination on March 15, 1974, accumulated files on approximately 7,200 Americans and a computerized index of 300,000 names of civilians and approximately 1,000 organizations.[^13] The commission's report, released on June 10, 1975, confirmed this as a violation of the CIA's charter.
 
 On the CIA's mail-opening program, the commission found that HTLINGUAL, which intercepted mail between the United States and the Soviet Union from 1952 to 1973, had resulted in the examination of more than 215,000 pieces of correspondence. The program operated through CIA facilities in New York City and Los Angeles. The commission characterized this as unlawful.[^14]
 
-The commission's report on MKULTRA confirmed the CIA's program of behavioral modification research, including experiments on unwitting subjects using [[LSD]] and related compounds, conducted during the 1950s and 1960s through the Technical Services Division. The commission publicized MKULTRA's existence to a general audience for the first time, though the full scope of the program was not revealed until the Church Committee's subsequent investigation surfaced additional documents in 1977.
+The report did not use the cryptonym MKULTRA. Under "The Testing of Behavior-Influencing Drugs on Unsuspecting Subjects Within the United States," it found that the CIA had begun studying drugs such as [[LSD]] in the late 1940s as part of "a much larger CIA program to study possible means for controlling human behavior," including radiation and electric shock; that tests on unsuspecting subjects "in normal social situations" began in 1955 under "an informal arrangement with the Federal Bureau of Drug Abuse Control," on the West Coast and from 1961 on the East Coast; that all records of the program, 152 files, had been ordered destroyed in 1973; and that in 1953 an unnamed employee of the Department of the Army, given LSD without his knowledge at a meeting with CIA personnel, jumped from a tenth-floor window in New York several days later. It called the testing "clearly illegal" and recorded that drug projects ended in 1967.[^24] The 1977 Senate hearing on MKULTRA, which identified the man as [[Frank Olson]], found that the notes the commission had called reprimands were, in the words of the Deputy Director's covering instruction, "not reprimands."[^25]
 
 ### Suppression of Assassination Findings
 
@@ -64,7 +72,7 @@ The commission had also encountered obstruction in its attempts to investigate C
 
 ### Rockefeller's Position
 
-Nelson Rockefeller had been CIA Director Allen Dulles's point of contact in the NSC when Dulles gave the Family Jewels briefing in 1955. As chairman of the NSC Special Group, Rockefeller had approved at least one major MKULTRA project involving a research hospital. His chairing of a commission to investigate the CIA programs he had helped authorize and oversee represented a direct conflict of interest that contemporary critics noted. Rockefeller initially opposed even permitting the commission to investigate assassination plots, and it was only Belin's persistence and the threat of adverse publicity that extended the commission's mandate into that territory.[^20]
+In 1955, as special assistant to the president, Nelson Rockefeller chaired the [[Planning Coordination Group]], set up under [[NSC 5412]] as the channel for policy approval of CIA covert operations. In May 1955 [[Charles Geschickter]] asked the CIA to contribute $375,000 toward a research building at Georgetown University Hospital, one-sixth of whose beds were to be reserved for the CIA along with cover for three CIA scientists and "human patients and volunteers for experimental use." [[Allen Dulles]] was said to have put the project to Rockefeller as chairman, who asked only whether Geschickter could offer "a reasonable expectation" of the promised space and gave his approval. The 1977 Senate hearing took testimony on the CIA's use of hospital construction money without naming him. Rockefeller initially opposed even permitting the commission to investigate assassination plots, and it was only Belin's persistence and the threat of adverse publicity that extended the commission's mandate into that territory.[^20]
 
 ### Report Structure and Outcome
 
@@ -93,7 +101,9 @@ The commission's records, totaling approximately 41 cubic feet (82,000 pages), a
 [^17]: National Security Archive, NSAEBB Document 4: Richard Cheney, handwritten comments on draft Rockefeller Commission report, circa June 1975. Cheney served as deputy assistant to the president under Rumsfeld at the time of these edits.
 [^18]: Church Committee, "Alleged Assassination Plots Involving Foreign Leaders," Senate Report 94-465, released November 20, 1975. Ford's suppression request sent October 31, 1975; Church's rejection November 4, 1975; Senate vote November 20, 1975.
 [^19]: National Security Archive, NSAEBB Document 10: Mason Cargill to File, "CIA denial of access to records of Special Group Augmented re Cuba," April 30, 1975.
-[^20]: Colby and Dennett, Ch. 18, 44.
+[^20]: Colby and Dennett, Ch. 18, 44, and Ch. 18 n. 32, citing MKULTRA Subproject 35-10, May 16, 1955. Sole source for Rockefeller's approval of the Georgetown project; the book calls the body he chaired the "Special Group." For the Planning Coordination Group, its membership and its role as the "normal channel for giving policy approval" to covert operations: Rowland Hughes memorandum to Eisenhower, March 3, 1955, *FRUS 1950-1955, The Intelligence Community,* Document 210, https://history.state.gov/historicaldocuments/frus1950-55Intel/d210. Senate Select Committee on Intelligence and Subcommittee on Health and Scientific Research, *Project MKULTRA, the CIA's Program of Research in Behavioral Modification,* joint hearing, August 3, 1977, testimony of Adm. Stansfield Turner and exchange with Sen. Richard Schweiker, https://archive.org/details/project-mkultra-the-cias-program-of-research-in-behavioral-modification
 [^21]: Gerald R. Ford Presidential Library, Topic Guide, "Rockefeller Commission Report, June 1975." FRUS 1969-76, Vol. XXXVIII, Part 2, Document 46, Memorandum on implementation of Rockefeller Commission recommendations, August 9, 1975.
 [^22]: FRUS 1969-76, Vol. XXXVIII, Part 2, Document 46, August 9, 1975, Kissinger, Buchen, and Lynn to Ford on implementation of Rockefeller Commission recommendations.
 [^23]: Gerald R. Ford Presidential Library, Finding Aid, "U.S. President's Commission on CIA Activities Within the United States Files," collection extent approximately 41 cubic feet.
+[^24]: Commission on CIA Activities Within the United States. *Report to the President.* Government Printing Office, June 1975, summary of findings and pp. 226-228. https://archive.org/details/reporttopresiden01unit
+[^25]: Senate Select Committee on Intelligence and Subcommittee on Health and Scientific Research, *Project MKULTRA, the CIA's Program of Research in Behavioral Modification,* joint hearing, August 3, 1977, appendix, on the death of Dr. Olson. https://archive.org/details/project-mkultra-the-cias-program-of-research-in-behavioral-modification

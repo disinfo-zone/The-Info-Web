@@ -5,12 +5,12 @@ tags:
   - Belgium
   - Dutroux
   - Gendarmerie
-summary: "Rene Michaux was the Belgian gendarmerie warrant officer who headed the secret surveillance operation against Marc Dutroux in 1995 and who failed to find the hidden dungeon during a December 1995 search, a failure that allowed two imprisoned girls to die."
+summary: "Charleroi gendarme who ran the 1995 Operation Othello surveillance of Marc Dutroux, searched his house in December 1995 without finding the cellar, and declared the operation negative in January 1996."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-09-22
 location: "Charleroi, Belgium"
 ---
-Rene Michaux was a Chief Guard (Adjudant) in the Belgian gendarmerie attached to the Charleroi brigade. In mid-1995 he was placed in charge of [[Operation Othello]], a secret surveillance operation running from August 10, 1995, to January 1996, targeting [[Marc Dutroux]] on suspicion of involvement in child abductions.[^1]
+Rene Michaux was a Chief Guard (Adjudant) in the Belgian gendarmerie attached to the Charleroi brigade. In 1995 he ran [[Operation Othello]], the observation of [[Marc Dutroux]] requested by Commandant Legros on August 25, 1995, after a confidential report of August 10 recorded informants' accounts that Dutroux was preparing hiding places for abducted children; he declared the operation negative in a fax of January 9, 1996.[^3]
 
 ### The Failed December 1995 Search
 
@@ -22,9 +22,12 @@ When questioned later by Belgium's Permanent Control Committee of the Police For
 
 ### Parliamentary Inquiry
 
+The commission found that Michaux had received very important information on [[Bernard Weinstein]] up to three times in a month, culminating in a POSA observation report of August 30, 1995, that showed Dutroux and Weinstein in Weinstein's blue Ford Fiesta receiving a visit from a man accompanied by a little girl, and that he had limited himself to identifying the car's owner, "contrary to the most elementary police logic." It asked why he had faxed on January 9, 1996, that Othello was negative, when the examination of the videocassettes seized in the December searches was not yet complete, and noted that on his request, relayed by De Windt, [[Michelle Martin]] had collected boxes of audio cassettes from the Charleroi police.[^3]
+
 Belgium's parliamentary inquiry into the Dutroux affair cited the December 13, 1995, search as one of the most damaging examples of investigative failure in the entire case. The inquiry found that the coordination between the gendarmerie's surveillance unit and the judicial investigation was so poor that Michaux had been conducting surveillance without actionable intelligence about the dungeon's existence. His failure was not characterized as intentional obstruction but as the product of fragmented institutional response to the disappearances.[^2]
 
 ### Footnotes
 
 [^1]: "Belgian policeman haunted by Dutroux error," *Irish Examiner,* 2004. https://www.irishexaminer.com/world/arid-30140605.html
 [^2]: "DUTROUX: The Missing Pieces, Part I," IRC_NIC (Substack), 2023. https://ircnic.substack.com/p/dutroux-the-missing-pieces-part-i
+[^3]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 47-48, and rapport complémentaire, Doc. 713/8-96/97, February 16, 1998, chapter on the Charleroi gendarmerie; translated from the French. https://www.dekamer.be/kvvcr/pdf_sections/comm/dutroux/49K0713008.pdf

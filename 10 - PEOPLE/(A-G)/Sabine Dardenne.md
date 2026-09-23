@@ -4,30 +4,33 @@ tags:
   - Person
   - Belgium
   - Dutroux
-summary: "Sabine Dardenne, aged 12, disappeared from her hometown of Farciennes, Belgium, on May 26, 1996, while riding her bicycle to school."
+summary: "Twelve-year-old from the Tournai area abducted by Marc Dutroux on May 27, 1996, and freed from his Marcinelle cellar with Laetitia Delhez on August 15, 1996."
 born: 1983-10-28
 location: "Tournai, Belgium"
+relations:
+  - type: subject_of
+    with: "[[Marc Dutroux]]"
+    role: "abducted May 27, 1996; freed August 15, 1996"
+    start: 1996-05-27
+    end: 1996-08-15
+    fn: 2
+created: 2026-04-28
+updated: 2026-09-22
 ---
 
-Sabine Dardenne, aged 12, disappeared from her hometown of Farciennes, Belgium, on May 26, 1996, while riding her bicycle to school. She was abducted by [[Marc Dutroux]] with assistance from accomplice [[Michel Lelievre]], who positioned himself to block her path near a local factory, allowing Dutroux to seize her and force her into a white van registered to [[Jean-Michel Nihoul]]'s [[ASCO]] company using chloroform for sedation. The van, used for photographing potential victims near schools for client catalogues, transported Sabine to Dutroux's Marcinelle residence, where she was confined in a soundproofed basement dungeon constructed in 1993 with labor from [[Claude Thirault]] and disguised behind plywood shelving. Held for nearly three months alongside earlier captive [[Laetitia Delhez]] after her August abduction, Sabine endured starvation, abuse, and conditioning through hypnosis and drugs, emerging so dependent on Dutroux that she resisted rescuers and embraced him during the August 15, 1996, liberation.[^1]
+Sabine Dardenne, aged twelve, was abducted on May 27, 1996, on her way to school, and was freed on August 15, 1996.[^1][^2] The investigation cell set up for her disappearance at Tournai was staffed by the gendarmerie. Information on [[Marc Dutroux]] held by the missing-persons unit reached it only after a fax of June 20, 1996, from the General Police Support Service (SGAP); the missing-persons unit told a coordination meeting on June 26 that Dutroux was the subject of an investigation, including surveillance, by the Charleroi criminal investigation brigade that had so far been negative. Assuming that Charleroi was following Dutroux closely, the investigating judge and the cell did not contact the Charleroi gendarmerie, and did not learn that the surveillance had long since ended. The commission found the investigation "essentially passive" and limited to its own district.[^2]
 
-The dungeon, overlooked in 1995 searches during Dutroux's auto theft incarceration - when screams from [[Julie Lejeune]] and [[Melissa Russo]] were attributed to external sources by Inspector [[Rene Michaux]] - featured reinforced walls, ventilation, and restraints for extended confinement. [[Michelle Martin]], Dutroux's wife, provided sporadic feedings during his jail time, contributing to the younger girls' deaths, whose bodies were exhumed from a Sars-la-Buissière property in September 1996 showing mutilation. Sabine's captivity involved video-recorded assaults, with equipment like a speculum, chains, and chloroform seized but returned to Martin, documenting cell construction and rapes sold internationally.[^1]
+After a witness at Bertrix gave three digits of a license plate following the abduction of [[Laetitia Delhez]] on August 9, Dutroux, his wife [[Michelle Martin]] and [[Michel Lelievre]] were arrested at about five in the afternoon on August 12, 1996. A search of the house on August 13 with tracker dogs found nothing; on August 15 Dutroux confessed, and on his directions Sabine and Laetitia were found alive in the concealed cell in the cellar of his house at [[Marcinelle, Belgium|Marcinelle]].[^2]
 
-Rescued post-Dutroux's August 13 arrest triggered by Laetitia's witness plate, Sabine detailed the horrors in interrogations, confirming Lelievre's logistical role and Nihoul's orders for victim specifications. Her conditioned state, induced via repeated hypnosis sessions, prevented escape, mirroring methods on [[An Marchal]] and [[Eefje Lambrecks]]. Over twenty phone calls between Dutroux and Nihoul around the abductions traced payments to joint accounts funding seven properties.[^1]
+On June 17, 2004, the jury at Arlon convicted Dutroux of her abduction, sequestration and rape, and Lelièvre, who did not deny it, of her abduction and sequestration; Martin was convicted of her sequestration. [[Jean-Michel Nihoul]] was acquitted of the charges relating to the abductions.[^3][^4]
 
-### Abduction and Captivity
-Lelievre approached Sabine under a pretext near the factory, signaling Dutroux to grab her from behind and subdue her in the van. The ASCO vehicle circled the area for optimal timing, evading immediate detection despite Othello surveillance lapses that missed prior kidnappings like An and Eefje in 1995. Confined to the dungeon's hidden cell, Sabine shared space with Laetitia after her arrival, hearing echoes of earlier abuses on Julie and Melissa, whose neglect during Martin's minimal care led to their demise.[^1]
+### The Abduction and the Cellar
 
-Dutroux explained the confinement as ransom-related, but profits derived from sales to Nihoul's clients, with Martin handling household duties and evidence tapes. Sabine described isolation techniques, including limited light and food, fostering dependency, as evidenced by her post-rescue behavior. The basement's design, with removable partitions and soundproofing, sustained operations undetected, tying into broader network logistics via Nihoul's specifications for ages and types.[^1]
-
-During Dutroux's absences, Martin fed the girls irregularly, using the returned rape kit items for compliance. Sabine witnessed video setups capturing assaults, materials distributed through channels linked to Amsterdam's [[G-Force nightclub]] and [[Roxanne Films]]. Her three-month ordeal, longer than Laetitia's two days, highlighted the dungeon's capacity for multiple captives since 1995.[^1]
-
-### Rescue and Testimony
-Police, guided by Dutroux after arrest, accessed the basement where Sabine and Laetitia hid, emerging tearfully and kissing Dutroux. Prosecutor [[Michel Bourlet]] and Judge [[Jean-Marc Connerotte]] documented their conditioned responses, validating prior warnings from Thirault about the 1993 renovations. Sabine's immediate accounts matched Lelievre's confession, detailing the May abduction sequence and van's role in transport.[^1]
-
-At the 2004 trial, Sabine testified on the psychological manipulation, implicating Martin and Lelievre in daily operations and Nihoul's coordination. Her details corroborated phone records and financial trails, though Nihoul's acquittal on kidnapping persisted. Post-trauma recovery involved therapy addressing hypnosis effects, contributing to reforms after Connerotte's 1996 removal sparked White Marches.[^1]
-
-Sabine's advocacy post-release emphasized victim support, with no further network ties documented in her case. The rescue marked the investigation's turning point, leading to exhumations of An, Eefje, Julie, and Melissa, exposing institutional failures under Michaux and protections by [[Melchior Wathelet]].[^1]
+Lelièvre was said to have blocked her path on her bicycle near a factory while Dutroux seized her and forced her into a van, using chloroform. The cell, built in 1993 with the labor of [[Claude Thirault]] and hidden behind shelving, was the one in which [[Julie Lejeune]] and [[Melissa Russo]] had been held. She was described as having been conditioned by Dutroux with drugs and hypnosis into dependence on him, and as having embraced him when they were found. Dutroux was said to have told her she was being held for ransom. More than twenty calls between Dutroux and Nihoul were reported around the abductions. At the trial she testified to the manipulation she had undergone and to the roles of Martin and Lelièvre.[^1]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its dates for the abduction (May 26, 1996) and for Dutroux's arrest (August 13, 1996) are contradicted by the commission's report; its placing of the abduction at Farciennes is not supported by the report, which records the investigation as run from Tournai.
+[^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 86-88 and the chronology of August 1996; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
+[^3]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
+[^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011

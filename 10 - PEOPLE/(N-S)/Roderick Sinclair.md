@@ -1,22 +1,35 @@
 ---
 category: "PROMIS Scandal"
+aliases:
+  - "Roderic B. Sinclair"
+  - "Roderic Sinclair"
 tags:
   - Person
-summary: "Nurses present when Sinclair was brought into Fremont Hospital confided that he had been drugged on the day of the accident, receiving huge daily shots of Demerol."
+  - Mariposa
+  - LawEnforcement
+summary: "Mariposa County sheriff's sergeant whose patrol car hit a Secret Service convoy on March 5, 1983, killing three agents; the CHP blamed his speed, and the district attorney declined to prosecute."
+relations:
+  - type: employed_by
+    with: "[[Mariposa County Sheriff's Department]]"
+    role: "sergeant; later commander"
+    fn: 2
+  - type: participant_in
+    with: "[[Queen's Accident]]"
+    start: 1983-03-05
+    fn: 2
+created: 2025-08-05
+updated: 2026-09-22
 ---
-[[Roderick Sinclair]] was a Sergeant in the Mariposa County Sheriff's Department. He was involved in a head-on collision on March 5, 1983, with a Secret Service car while scouting Queen Elizabeth II's motorcade route in the Yosemite National Park foothills (this became known as the [[Queen's Accident]]). This became known as the [[Queen's Accident]]. Three Secret Service agents were killed in the accident: [[George P. LaBarge]], [[Donald Robinson]], and [[Donald A. Bejcek]]. Sinclair sustained broken ribs and a fractured knee.[^1]
+Roderick Sinclair, also given as Roderic B. Sinclair, was a sergeant in the Mariposa County Sheriff's Department. On March 5, 1983, on a blind curve of Route 132, his patrol car collided with a car in a convoy of off-duty Secret Service agents assigned to Queen Elizabeth II's visit to Yosemite, killing [[George P. LaBarge]], [[Donald Robinson]] and [[Donald A. Bejcek]] ([[Queen's Accident]]). Sinclair and his partner, Deputy [[Rod McKean]], were injured.[^2][^3]
 
-Nurses present when Sinclair was brought into Fremont Hospital confided that he had been drugged on the day of the accident, receiving huge daily shots of Demerol. Some former deputies corroborated this. Assistant [[United States Attorney|U.S. Attorney]] [[James White]] in Fresno ordered [[Dr. Arthur Dahlem]]'s files seized to prove Sinclair's alleged drug use, but [[United States District Court|U.S. District Court]] Judge [[Robert E. Coyle]] ordered White to drop the criminal investigation, stating Sinclair's drug problem was not relevant and drug records could not be used because no blood tests were taken at Fremont Hospital. However, the blood tests had been taken but later disappeared.[^1]
+The [[California Highway Patrol]] blamed his speed, which it estimated at 76 to 80 miles an hour and later at 72, and recommended his prosecution; District Attorney J. [[Bruce Eckerson]] resisted for six months and engaged a retired CHP lieutenant whose review disputed the skid-mark evidence. Sinclair's lawyer, David Linn, said the CHP had reached "a predetermined conclusion."[^3] In the county's later suit against the [[United States]] for contribution to its 4-million-dollar settlement with the agents' survivors, the district court found that Sinclair had been driving at 64 miles an hour in a 35-mile zone and that the two federal cars ahead were halfway across the center line into his lane, causing him to brake and skid; it assigned him 70 percent of the fault. The Ninth Circuit reversed in 1986 on the ground that the United States could not be sued for contribution.[^2]
 
-In the civil trial that followed, Judge [[Robert E. Coyle]] ruled that both Sinclair and the deceased Secret Service agents were at fault, with Mariposa County ordered to pay 70 percent of the claim. Ironically, Sinclair was subsequently promoted to Commander of the Mariposa Sheriff's Department.[^1]
+### Allegations
 
-[[James White]] revealed that the original [[California Highway Patrol|CHP]] report on the accident was sent to the State Attorney General's office ([[John Van de Kamp]]), who told his assistant to "discard" it. [[Bruce Eckerson]], the Mariposa County District Attorney who owned stock in [[Music Corporation of America|MCA]] Entertainment Corporation, was then appointed to submit a new report. All of the [[California Highway Patrol|CHP]] officers involved in the original investigation either resigned or were transferred or fired. [[James White]] himself resigned after the cover-up.[^1]
+Nurses at Fremont Hospital, where Sinclair was first treated, and former deputies were said to have confirmed that he had been receiving large daily doses of Demerol prescribed by [[Dr. Arthur Dahlem]]. Assistant U.S. Attorney [[James White]] in Fresno was said to have had Dahlem's files seized and to have been ordered by Judge [[Robert E. Coyle]] to drop the criminal investigation on the ground that no blood tests had been taken, although tests had been taken and later disappeared. The CHP report was said to have been sent to the office of Attorney General [[John Van de Kamp]], who told an assistant to "discard" it, and Eckerson to have held stock in [[Music Corporation of America|MCA]]. Deputy [[Rod Cusic]] told the Fresno office of the [[Federal Bureau of Investigation|FBI]] on April 26, 1984, and October 9, 1987, that Sinclair had told him "to lie to a Grand Jury" about his drug use and the accident, and said he had seen a booby-trapped incendiary device explode at Sinclair's home. Sinclair was later promoted to commander. His father was said to have been a military attaché to [[Douglas MacArthur]] in [[World War II]] and to have trained Japanese in intelligence gathering in occupied [[Japan]], where the son went to school, and Sinclair himself to have worked for the Army CID in a civilian capacity after training at Fort Liggett.[^1]
 
-Deputy [[Rod Cusic]] stated that he was "told by [[Roderick Sinclair]] to lie to a Grand Jury" about Sinclair's drug addiction and the accident. Cusic officially disclosed this to the Fresno [[Federal Bureau of Investigation|FBI]] on April 26, 1984, and again on October 9, 1987. Cusic also witnessed a booby-trapped incendiary device explode at Sinclair's home.[^1]
-
-[[Roderick Sinclair]]'s father was a military attaché to [[Douglas MacArthur]] during [[World War II]]. In [[Japan]], after the war, Colonel Sinclair (Sr.) supervised the training of selected Japanese in intelligence gathering operations. Rod Sinclair, Jr. attended school in [[Japan]] and later reportedly worked in the Army C.I.D. in a non-military or civilian capacity, allegedly receiving training at Fort Liggett in San Luis Obispo, a training center for military intelligence operations.[^1]
-
----
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited. Its description of a civil ruling ordering Mariposa County to pay 70 percent of the claim, and of Eckerson as appointed to replace the CHP report, is contradicted by the court record and by contemporaneous reporting.
+[^2]: *LaBarge v. County of Mariposa,* 798 F.2d 364 (9th Cir. 1986).
+[^3]: "Highway Patrol's Crash investigation questioned." United Press International, September 25, 1983. https://www.upi.com/Archives/1983/09/25/Highway-Patrols-Crash-investigation-questioned/7300433310400/

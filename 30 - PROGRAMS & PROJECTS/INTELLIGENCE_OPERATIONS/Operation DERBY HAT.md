@@ -2,46 +2,32 @@
 category: "Intelligence Operation"
 tags:
   - Project
-  - CIA
   - Army
   - MKULTRA
   - LSD
   - Interrogation
   - ColdWar
-summary: "Joint CIA-Army operation in which LSD was administered to unwitting subjects during overseas interrogations in the early 1960s, disclosed by Sidney Gottlieb in his October 1975 Church Committee testimony."
-location: Overseas (exact location not declassified)
+summary: "Army field test of LSD in interrogations in the Far East, August to November 1962, on seven foreign nationals suspected of narcotics dealing or intelligence work; one subject was left semicomatose."
+start: 1962-08
+end: 1962-11
+location: "Far East"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-09-22
 ---
-Operation DERBY HAT was a joint [[CIA]]-[[U.S. Army|Army]] program that used [[LSD]] as an interrogation tool on unwitting subjects in overseas settings in the early 1960s. The operation was one of two known field programs of this type, the other being [[Operation THIRD CHANCE]]. Both represented the transition of the CIA's behavioral modification research from laboratory experiments into live operational use against actual intelligence targets rather than volunteers or inmates.
 
-The existence of DERBY HAT was disclosed by [[Sidney Gottlieb]], who directed the [[TSS|Technical Services Staff]] and oversaw the CIA's behavioral programs, during his October 1975 testimony before the [[Church Committee]].[^1]
+DERBY HAT was the second series of field tests of the Army's Material Testing Program EA 1729, conducted jointly by the Army Intelligence Board and the Chemical Warfare Laboratories to evaluate the intelligence uses of [[LSD]]. After laboratory tests on 95 volunteers at [[Edgewood Arsenal]], the Army's Assistant Chief of Staff for Intelligence authorized operational field testing in 1960. The first series, [[Operation THIRD CHANCE]], was run in Europe from May to August 1961 on ten subjects.[^1]
 
-### Gottlieb's Testimony
+### The Tests
 
-Gottlieb testified before the Church Committee over four days in October 1975, initially under the alias "Joseph Scheider" in staff sessions, in proceedings that remained classified Top Secret until a [[National Security Archive]] FOIA release published them in October 2025. During questioning by committee staff about drug tests on unwitting subjects in the early 1960s, committee members asked specifically about military operations designated DERBY HAT and THIRD CHANCE. Gottlieb acknowledged the operations while "not recalling those specific operations" by name, confirming that during the [[Vietnam War]] era the military had been "considering the use of LSD on a fairly large scale."[^2]
+An Army Special Purpose Team conducted DERBY HAT in the Far East from August to November 1962. Its seven subjects were all foreign nationals "either suspected of dealing in narcotics or implicated in foreign intelligence operations." Its purpose was "to collect additional data on the utility of LSD in field interrogations, and to evaluate any different effects the drug might have on 'Orientals.'" None of the subjects of the field tests were volunteers, and none knew they were to receive LSD.[^1]
 
-At the 1977 Kennedy subcommittee hearing (S. Hrg. 95-37), where he testified under a grant of immunity from prosecution, Gottlieb addressed the overseas operational LSD programs in somewhat broader terms. His 1975 Church Committee testimony covered what he described as "six to twelve interrogations" using LSD techniques in overseas contexts. The 1977 hearing record, which constitutes the fullest public account of the operational programs, situates DERBY HAT alongside THIRD CHANCE as sister programs representing the actual field application of techniques developed under [[MKULTRA]]'s research subprojects.[^3]
+In September 1962 a suspected Asian espionage agent was given 6 micrograms of LSD per kilogram of body weight, the dose completed at 10:35 in the morning. The medical report records that by 11:20 "sweating became evident, his pulse became thready," that he "began groaning with expiration and became semicomatose," and that at 12:30 "he began moaning he wanted to die and usually ignored questions." For three hours further attempts at interrogation "yielded no relevant answers." The Senate subcommittee called it "another gross violation of an individual's fundamental rights."[^1]
 
-### Operational Character
+### The Record
 
-DERBY HAT was distinct from MKULTRA's laboratory and institutional research in that it involved administering LSD to subjects during actual intelligence operations rather than in experimental or controlled settings. The subjects were reportedly not volunteers; the program targeted individuals in operational interrogation contexts. Based on the framing of Gottlieb's testimony and the program's designation as an Army operation with CIA participation, DERBY HAT appears to have been administered through Army intelligence channels, likely through the same framework that ran THIRD CHANCE.
-
-The geographic scope and the specific personnel who ran DERBY HAT have not been declassified as of 2026. Gottlieb's testimony does not specify the operating country or region for DERBY HAT. The program's name suggests it was operationally distinct from THIRD CHANCE, which was run in Europe, though whether DERBY HAT was also European or conducted elsewhere (Southeast Asia has been suggested in some analyses of the timing reference to the Vietnam War) is not established in any declassified source.[^2]
-
-### DERBY HAT and THIRD CHANCE as Sister Programs
-
-DERBY HAT and THIRD CHANCE are consistently paired in the available record. Gottlieb raised them together in testimony, and the Church Committee staff asked about both operations in the same line of questioning. Both involved LSD administered to subjects without their knowledge in interrogation settings rather than experimental or clinical contexts, both operated through military Army frameworks with CIA technical involvement, and both targeted overseas subjects at least some of whom were foreign nationals. The programs represent the operational endpoint of the research arc that began with MKULTRA's funded university research, moved through the [[Operation Midnight Climax]] safehouse experiments, and culminated in field deployment against actual intelligence targets.
-
-### Congressional Record
-
-The primary documentary record for DERBY HAT is Gottlieb's Church Committee testimony of October 15-18, 1975 (Top Secret, declassified 2017, published by National Security Archive 2025) and his 1977 Senate testimony in S. Hrg. 95-37. The Church Committee's investigation of MKULTRA was triggered by the 1974 [[Seymour Hersh]] New York Times exposé and the 1975 [[Rockefeller Commission]] report, and the committee obtained from the CIA the 20,000-page MKULTRA financial archive that had survived Gottlieb's 1973 document destruction order.[^3]
-
-No CIA FOIA documents specifically identifying DERBY HAT by codename and providing operational details had been publicly released as of 2026. The CIA's CREST (CIA Records Search Tool) database contains the surviving MKULTRA records, but the operational files for DERBY HAT and THIRD CHANCE, if they ever existed in documentary form, were among those destroyed by Gottlieb and [[Richard Helms]] in 1973.[^4]
+The tests were described in the 1976 report of the Army's Inspector General, "Use of Volunteers in Chemical Agent Research," and in the staff material printed with the Senate hearing of August 3, 1977, on MKULTRA, which found that the Army's programs "duplicated research which had already been conducted by the CIA" and suffered from "a lack of clear authorization and supervision."[^1] Asked about DERBY HAT and THIRD CHANCE in his Top Secret testimony to the [[Church Committee]] in October 1975, [[Sidney Gottlieb]] did not recall the operations but said that during the [[Vietnam War]] the military was "considering the use of LSD on a fairly large scale," which he explained as "interrogating a number of prisoners," and that the agency was asked to consult on it.[^2]
 
 ### Footnotes
 
-[^1]: National Security Archive, "Top Secret Testimony of CIA's MKULTRA Chief, 50 Years Later," October 30, 2025. https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2025-10-30/top-secret-testimony-cias-mkultra-chief-50-years-later. Documents 1-4 are the four days of Gottlieb's October 1975 testimony (October 15-18, 1975), 98-195 pp. each.
-[^2]: U.S. Senate, "Project MKULTRA, the CIA's Program of Research in Behavioral Modification," 95th Cong., 1st sess., August 3, 1977. S. Hrg. 95-37. https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
-[^3]: Marks, John D. *The Search for the Manchurian Candidate*. Times Books, 1979. Chapter 4 (LSD and operational deployment).
-[^4]: Central Intelligence Agency, "Director of Central Intelligence Directive DCID 1/7," September 1972 (Gottlieb-Helms records destruction authorization); Marks, John D. *The Search for the Manchurian Candidate*. Times Books, 1979. Chapter 4.
+[^1]: U.S. Senate, Select Committee on Intelligence and Subcommittee on Health and Scientific Research of the Committee on Human Resources. *Project MKULTRA, the CIA's Program of Research in Behavioral Modification,* joint hearing, 95th Cong., 1st sess., August 3, 1977, appendix, pp. 411-416, citing Inspector General of the Army, "Use of Volunteers in Chemical Agent Research," March 10, 1976, and the DERBY HAT "Medical and Pharmacological Report: Case #1," September 20, 1962. https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf
+[^2]: National Security Archive. "Top Secret Testimony of CIA's MKULTRA Chief, 50 Years Later." October 30, 2025, documents 1-4 (Gottlieb's testimony of October 15-18, 1975). https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2025-10-30/top-secret-testimony-cias-mkultra-chief-50-years-later

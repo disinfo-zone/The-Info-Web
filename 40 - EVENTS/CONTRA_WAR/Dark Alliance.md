@@ -5,7 +5,7 @@ aliases:
   - Dark Alliance series
   - Dark Alliance investigation
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -34,6 +34,8 @@ The [[Washington Post]] struck first on October 4, 1996, under the headline "The
 
 On May 11, 1997, Ceppos published a column acknowledging "shortcomings" in the series, a move the New York Times splashed on its front page. Ceppos killed all follow-up stories and transferred Webb to a suburban bureau. Webb resigned from the newspaper in November 1997. In March 1998, CIA Inspector General [[Fred Hitz]] testified before Congress that the CIA had maintained relationships with dozens of suspected drug traffickers during the Contra war and had failed to cut off those relationships. [[The New York Times]] reported on July 17, 1998, that CIA higher-ups knew about the drug connections, confirming central elements of the series.[^5]
 
+On May 11, 2000, the [[House Permanent Select Committee on Intelligence]] released a unanimously adopted report, having reviewed the CIA and [[Department of Justice|Justice Department]] inspector general reports and raw CIA files and held two town hall meetings in South Central Los Angeles, which concluded that the evidence did not support the implication "that the CIA was responsible for the crack epidemic in Los Angeles or anywhere else in the [[United States]] to further the cause of the Contra war in [[Central America]]."[^6]
+
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue.
@@ -41,3 +43,4 @@ On May 11, 1997, Ceppos published a column acknowledging "shortcomings" in the s
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 27.
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 27.
 [^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue.
+[^6]: U.S. House of Representatives, Permanent Select Committee on Intelligence. *Report on the Central Intelligence Agency's Alleged Involvement in Crack Cocaine Trafficking in the Los Angeles Area,* committee print, 106th Cong., February 2000; HPSCI press statement, May 11, 2000, quoted in *Survey of Activities of the Permanent Select Committee on Intelligence During the 106th Congress,* H. Rept. 106-1054, 2001. https://www.govinfo.gov/content/pkg/CRPT-106hrpt1054/html/CRPT-106hrpt1054.htm

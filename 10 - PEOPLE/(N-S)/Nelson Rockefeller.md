@@ -15,7 +15,14 @@ born: 1908-07-08
 died: 1979-01-26
 location: New York, NY
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-09-22
+relations:
+  - type: head_of
+    with: "[[Planning Coordination Group]]"
+    role: "chairman"
+    start: 1955-03-10
+    end: 1955
+    fn: 18
 ---
 
 Nelson Aldrich Rockefeller (July 8, 1908 - January 26, 1979), named after his maternal grandfather and US Senator [[Nelson Aldrich]], was the dominant figure in US-Latin American relations from World War II through the mid-1970s. As coordinator of inter-American affairs (1940-1944), assistant secretary of state for American republic affairs (1944-1945), and later as President [[Dwight D. Eisenhower]]'s special assistant for national security, he built the institutional architecture that governed American policy toward [[Latin America]] and shaped the intelligence community's covert operations in the Western Hemisphere. His private vehicles, the [[IBEC]] (International Basic Economy Corporation) and the [[AIA]] (American International Association), extended [[Rockefeller family]] commercial interests into the Brazilian Amazon and beyond.
@@ -68,7 +75,7 @@ In 1953, Rockefeller accepted appointment as chair of the President's Advisory C
 
 On March 3, 1955, Bureau of the Budget Director Rowland Hughes recommended that Eisenhower designate Rockefeller as a member and vice chairman of the OCB and as chairman of a new Planning Coordination Group. Eisenhower approved these recommendations on March 10, 1955. The Planning Coordination Group (PCG), operating within the framework of [[NSC 5412]] governing covert operations, comprised Rockefeller as chairman, the Under Secretary of State, the Deputy Secretary of Defense, and the Director of Central Intelligence. Its function was to "advise and assist the responsible operating agencies in the coordinated development of plans and programs" and to serve as the "normal channel for giving policy approval" for CIA covert operations. CIA director [[Allen Dulles]] and State Department officials refused to cooperate, and their obstruction stymied the PCG's initiatives. Rockefeller recommended the group's abolishment in September 1955 and resigned as Special Assistant to the President in December 1955.[^18]
 
-In this role, he commissioned and partly directed the [[Quantico I and II]] strategy panels. Quantico I convened June 5-10, 1955, at the Marine Corps School in [[Quantico]], [[Virginia]], where eleven experts in Soviet-American relations (including [[W.W. Rostow]] of [[MIT]] as panel chairman, [[C.D. Jackson]] of [[Time-Life]], and [[Hans Speier]] of the [[RAND Corporation]]) assessed the US position in the psychological dimensions of the Cold War and developed the "Open Skies" proposal that Eisenhower then brought to the Geneva Summit. Quantico II met in late August 1955 in Washington and Quantico to examine the psychological aspects of US national security policy. He brought [[Henry Kissinger]], then a young Harvard academic, in to chair the Panel on National Security Studies for the [[Rockefeller Brothers Fund]], which produced six "Special Studies Reports" between 1958 and 1961. These reports shaped the Kennedy administration's counterinsurgency strategy, and Kissinger himself became Nelson's most enduring foreign policy tool.[^19]
+In this role, he commissioned and partly directed the [[Quantico I and II]] strategy panels. Quantico I convened June 5-10, 1955, at the Marine Corps School in [[Quantico]], [[Virginia]], where eleven experts in Soviet-American relations (including [[W.W. Rostow]] of [[MIT]] as panel chairman, [[C.D. Jackson]] of [[Time-Life]], and [[Hans Speier]] of the [[RAND Corporation]]) assessed the US position in the psychological dimensions of the Cold War and developed the "Open Skies" proposal that Eisenhower then brought to the Geneva Summit. Quantico II met in late August 1955 in Washington and Quantico to examine the psychological aspects of US national security policy. He brought [[Henry Kissinger]], then a young Harvard academic, in as director of the Special Studies Project of the [[Rockefeller Brothers Fund]], whose six panel reports appeared between January 1958 and September 1960; Kissinger directed the project until June 30, 1958.[^rbfpfa] The reports were said to have shaped the Kennedy administration's counterinsurgency strategy.[^19]
 
 ### Brazil and the 1964 Coup
 
@@ -131,3 +138,4 @@ The Rockefeller family's 3,600-acre Pocantico Hills estate in Sleepy Hollow, New
 [^25]: 1974 United States vice presidential confirmation: Senate vote 90-7, December 10, 1974; House vote 287-128, December 19, 1974; sworn in December 19, 1974.
 [^26]: Colby and Dennett, Ch. 40-44. Death circumstances and location (13 West 54th Street townhouse): "Megan Marshack dies at 70; was with Nelson Rockefeller at his death," *Seattle Times*, October 3, 2024; *New York Times* obituary, January 27, 1979. Marshack died October 2, 2024, at age 70.
 [^27]: Colby and Dennett, Introduction (2017); Ch. 13. Rockefeller Archive Center, Sleepy Hollow, New York (rockarch.org).
+[^rbfpfa]: Rockefeller Brothers Fund. *Prospect for America: The Rockefeller Panel Reports.* Doubleday, 1961, list of project staff and preface. https://archive.org/details/prospect-for-america-the-rockefeller-panel-reports-rockefeller-brothers-fund-1961

@@ -4,24 +4,30 @@ tags:
   - Person
   - Belgium
   - Dutroux
-summary: "Laetitia Delhez, aged 14, disappeared from Bertrix, Belgium, on August 9, 1996, while waiting at a bus stop after visiting a local festival."
+summary: "Fourteen-year-old abducted at Bertrix on August 9, 1996, whose abduction led, through a witness's memory of three digits of a license plate, to the arrest of Marc Dutroux on August 12."
+location: "Bertrix, Belgium"
+relations:
+  - type: subject_of
+    with: "[[Marc Dutroux]]"
+    role: "abducted August 9, 1996; freed August 15, 1996"
+    start: 1996-08-09
+    end: 1996-08-15
+    fn: 2
+created: 2026-04-28
+updated: 2026-09-22
 ---
 
-Laetitia Delhez, aged 14, disappeared from Bertrix, Belgium, on August 9, 1996, while waiting at a bus stop after visiting a local festival. She vanished into a white van driven by [[Marc Dutroux]], with accomplice [[Michel Lelievre]] positioned nearby to assist in the abduction using chloroform to subdue her. The incident occurred amid Dutroux's ongoing operations, following the May 26 kidnapping of [[Sabine Dardenne]], with both girls held in a soundproofed basement dungeon at Dutroux's Marcinelle residence, constructed in 1993 with help from [[Claude Thirault]]. A witness observed the suspicious van circling the area twice before the seizure, noting the partial license plate PBX 688, which matched Dutroux's ASCO-registered vehicle linked to [[Jean-Michel Nihoul]]'s company. This clue prompted police action, leading to Dutroux's arrest on August 13, 1996, and the subsequent rescue of Laetitia and Sabine from the hidden cells behind disguised shelving.[^1]
+Laetitia Delhez, aged fourteen, was abducted at Bertrix, in the province of Luxembourg, on Friday, August 9, 1996. On Monday, August 12, a witness at Bertrix gave investigators three digits of a license plate; a door-to-door inquiry began at two in the afternoon, and at about five [[Marc Dutroux]], his wife [[Michelle Martin]] and [[Michel Lelievre]] were arrested at Charleroi. On August 13 police and gendarmes searched Dutroux's house at 128 rue de Philippeville in [[Marcinelle, Belgium|Marcinelle]] with tracker dogs and found nothing. On Thursday, August 15, Dutroux confessed, and on his directions Laetitia and [[Sabine Dardenne]] were found alive in the house.[^2] The commission of inquiry observed that "Laetitia was found through the memorization of a license plate number."[^2]
 
-During captivity, Laetitia endured starvation and abuse, conditioned through hypnosis and drugs to view Dutroux as a protector, resisting rescuers upon discovery and embracing him instead. The dungeon, overlooked in prior 1995 searches during Dutroux's auto theft incarceration - when screams from [[Julie Lejeune]] and [[Melissa Russo]] were ignored - featured ventilation and restraints for prolonged confinement. [[Michelle Martin]], Dutroux's wife, fed the girls minimally while he was free, confirming abductions on Nihoul's orders for client delivery. Laetitia's brief two-day hold contrasted with Sabine's months-long ordeal, both tied to video production evidenced by seized tapes of rapes and cell construction returned to Martin.[^1]
+On June 17, 2004, the jury at Arlon convicted Dutroux of her abduction, sequestration and rape, Lelièvre of her abduction and sequestration, and Martin of her sequestration. It found that [[Jean-Michel Nihoul]] had no involvement in the abduction and sequestration of Laetitia, rejecting the "network" thesis argued by the prosecution, the Marchal family and Laetitia's own lawyers.[^3][^4]
 
-Rescued alongside Sabine on August 15, 1996, Laetitia provided details confirming the dungeon's layout and contents, including chloroform bottles and chains. Her testimony detailed the abduction sequence, with Lelievre blocking escape routes and Dutroux pulling her inside. The white van, used for photographing schoolgirls in client catalogues, facilitated transport, with over twenty calls between Dutroux and Nihoul around the event tracing payments to their European accounts funding seven properties.[^1]
+### The Abduction and the Captivity
 
-### Abduction Details
-The Bertrix bus stop abduction involved Lelievre approaching Laetitia first under a pretext, followed by Dutroux's sudden grab from behind, injecting sedative via cloth. The witness, returning from shopping, alerted police immediately, providing the plate that cross-referenced to Dutroux despite prior Othello dismissal under Inspector [[Rene Michaux]]. Surveillance had missed earlier abductions like [[An Marchal]] and [[Eefje Lambrecks]] in August 1995, but Laetitia's case broke the pattern, leading to home searches uncovering the girls behind plywood partitions. Hypnosis equipment seized aided conditioning, mirroring methods used on An and Eefje, whose bodies were later exhumed from Sars-la-Buissière with mutilation signs.[^1]
-
-Laetitia described upstairs movements during captivity, hearing Sabine's cries, and Dutroux's explanations of ransom demands, though profits came from sales to Nihoul's network. Martin's role in feeding and evidence handling prolonged the operation, with returned rape tapes documenting assaults on minors. The dungeon's design, reinforced walls and hidden access, enabled undetected holding since Julie and Melissa's 1995 entry, whose neglect during Dutroux's jail term caused their deaths.[^1]
-
-### Rescue and Testimony
-Upon arrest, Dutroux guided police to the basement, where Laetitia and Sabine hid initially, emerging only after persuasion, kissing Dutroux goodbye. Their conditioned state, induced via repeated hypnosis sessions and isolation, prevented escape attempts. Prosecutor [[Michel Bourlet]] and Judge [[Jean-Marc Connerotte]] oversaw the rescue, with Laetitia's account validating prior warnings from Thirault about the 1993 renovations. The breakthrough witness's report ended months of surveillance failures, exposing ASCO's role in victim procurement.[^1]
-
-Laetitia testified at the 2004 trial about the abduction's violence and captivity horrors, implicating Martin and Lelievre in logistics. Her details matched Lelievre's confession of Nihoul's orders and Dutroux's Slovakian sourcing boasts. Though spared the fate of exhumed victims like Julie and Melissa, her rescue highlighted network scope, with Nihoul acquitted of kidnapping despite phone evidence. Post-trauma, Laetitia pursued advocacy, contributing to reforms amid protests over Connerotte's 1996 removal.[^1]
+She was said to have been taken while waiting at a bus stop after visiting a local festival, by Dutroux with Lelièvre's help, and subdued with chloroform in a white van; the witness was said to have seen the van circle twice and to have noted the plate as PBX 688, a vehicle linked to Nihoul's company [[Achats Services Commerces|ASCO]]. She and Sabine were described as having been conditioned with drugs and hypnosis to regard Dutroux as a protector, and as having kissed him when they came out of the cellar. The cellar, built in 1993 with the help of [[Claude Thirault]], was the one in which [[Julie Lejeune]] and [[Melissa Russo]] had been held. More than twenty calls between Dutroux and Nihoul were reported around her abduction. At the trial she was said to have testified to the roles of Martin and Lelièvre, and Lelièvre to have spoken of orders from Nihoul and of Dutroux's boasts of obtaining girls in [[Slovakia]].[^1]
 
 ### Footnotes
-[^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its full plate number conflicts with the commission's statement that the witness gave three digits, and its date for Dutroux's arrest (August 13, 1996) is contradicted by the commission's chronology.
+[^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, p. 112 and the chronology of August 1996, pp. 264-266; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
+[^3]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
+[^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011

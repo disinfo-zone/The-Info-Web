@@ -5,7 +5,7 @@ aliases:
   - Henry Kissinger
   - Kissinger
 created: 2026-05-14
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Key Figures"
 tags:
   - Person
@@ -20,6 +20,12 @@ summary: "Henry A. Kissinger served as National Security Advisor (1969-1975) and
 born: 1923-05-27
 died: 2023-11-29
 location: "Fürth, Germany"
+relations:
+  - type: employed_by
+    with: "[[Rockefeller Brothers Fund]]"
+    role: "director, Special Studies Project"
+    end: 1958-06-30
+    fn: ssp
 ---
 
 Henry A. Kissinger was an American diplomat and political scientist who served as the [[United States Secretary of State]] and National Security Advisor under Presidents [[Richard Nixon]] and [[Gerald R. Ford]]. In the fall of 1967, while a [[Harvard University]] professor and consultant on [[Vietnam]] to the [[Lyndon B. Johnson|Johnson]] administration, Kissinger visited [[Tel Aviv]] to teach for a week at the Israeli Defense College. At the end of his course, he went to [[William N. Dale]]'s office in the embassy and sent an urgent, top-secret message to the [[White House]], warning about [[Dimona]] and concluding that [[Israel]] was making nuclear warheads.[^1]
@@ -44,7 +50,7 @@ The Harvard International Seminar received funding from at least three [[CIA]] c
 
 Kissinger served as director of the [[Rockefeller Brothers Fund]] Special Studies Project, a policy planning initiative convened by [[Nelson Rockefeller]] that ran from 1956 to 1960, with the final publication appearing in 1961. The project produced a volume entitled *Prospect for America: The Rockefeller Panel Reports* (Doubleday, 1961), which sold over 400,000 copies.
 
-The project was organized into seven panels examining sweeping strategic and domestic issues. [[Dean Rusk]] chaired Panel I (International Objectives and Strategies). Kissinger directed Panel II (International Security Objectives and Strategy), whose members included [[Roswell Gilpatric]], [[Townsend Hoopes]], [[Edward Teller]], [[Henry Luce]], and [[Laurance Rockefeller]]. Panel III (International Economic and Social Objectives) was chaired by [[Milton Katz]]. Panel IV (U.S. Economic and Social Policy) was chaired by [[Thomas B. McCabe]]. Panel V (U.S. Utilization of Human Resources) was chaired by [[John W. Gardner]]. Panel VI (U.S. Democratic Process) was chaired by [[James A. Perkins]]. Panel VII (The Moral Framework of National Purpose), chaired by [[Richard McKeon]], produced a report by [[Robert Heilbroner]] that was not published.[^ssp]
+The project was organized into seven panels examining sweeping strategic and domestic issues. [[Dean Rusk]] chaired Panel I (International Objectives and Strategies). Kissinger, director of the whole project until his resignation on June 30, 1958, directed the report of Panel II (International Security: The Military Aspect), whose members included [[Roswell Gilpatric]], [[Townsend Hoopes]], [[Edward Teller]], [[Henry Luce]], and [[Laurance Rockefeller]]. Panel III (International Economic and Social Objectives) was chaired by [[Milton Katz]]. Panel IV (U.S. Economic and Social Policy) was chaired by [[Thomas B. McCabe]]. Panel V (U.S. Utilization of Human Resources) was chaired by [[John W. Gardner]]. Panel VI (U.S. Democratic Process) was chaired by [[James A. Perkins]]. Panel VII (The Moral Framework of National Purpose), chaired by [[Richard McKeon]], produced a report by [[Robert Heilbroner]] that was not published.[^ssp]
 
 The project was Kissinger's primary institutional bridge to the [[Rockefeller family]] network prior to his entry into government. Roswell Gilpatric subsequently served as Deputy Secretary of Defense in the Kennedy administration. Nelson Rockefeller retained Kissinger as his personal foreign policy consultant after the project concluded.[^c1]
 

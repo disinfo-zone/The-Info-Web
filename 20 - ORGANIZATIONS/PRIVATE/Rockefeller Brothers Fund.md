@@ -6,9 +6,16 @@ tags:
   - Philanthropy
   - ColdWar
   - Policy
-summary: "The Rockefeller Brothers Fund (RBF), established in 1940 by the five Rockefeller brothers, funded the Special Studies Project (1956-1961) that produced six panel reports shaping Eisenhower and Kennedy administration foreign and defense policy, with Henry Kissinger chairing Panel IV on national security."
+summary: "Foundation established in 1940 by the five Rockefeller brothers whose Special Studies Project of 1956-61, directed by Henry Kissinger until 1958, produced the Rockefeller Panel Reports on security, economy and foreign policy."
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-09-22
+relations:
+  - type: employed_by
+    with: "[[Henry A. Kissinger]]"
+    reverse: true
+    role: "director, Special Studies Project"
+    end: 1958-06-30
+    fn: 5
 ---
 
 The Rockefeller Brothers Fund (RBF) was established in 1940 by the five sons of [[John D. Rockefeller Jr.]] as a vehicle for coordinating the brothers' charitable giving, and became in the 1950s the primary instrument through which [[Nelson Rockefeller]] channeled Cold War policy development. Its Special Studies Project (1956-1961), convened by Nelson and staffed by figures from the national security establishment, produced six classified panel reports shaping Eisenhower and Kennedy administration defense and foreign policy. Panel IV on national security, chaired by [[Henry Kissinger]], launched Kissinger's career as a foreign policy adviser and cemented his relationship with Nelson Rockefeller.
@@ -25,9 +32,9 @@ The RBF's most consequential initiative was the Special Studies Project, launche
 
 The panels produced a series of influential reports between 1958 and 1961, collectively known as the "Prospect for America" reports and published in a compiled volume as *Prospect for America: The Rockefeller Panel Reports* (Doubleday, 1961). Individual panel papers were circulated to government officials before the consolidated publication. Their recommendations on nuclear weapons, military strategy, economic growth, and foreign policy substantially shaped the policy frameworks of both the final Eisenhower years and the early Kennedy administration. Veterans of the Special Studies Project who moved into the Kennedy White House included [[McGeorge Bundy]], [[Walt Rostow]], [[Roswell Gilpatric]], and [[Edward Lansdale]].[^2]
 
-### Panel IV: National Security (Kissinger)
+### Panel II: International Security (Kissinger)
 
-Panel IV on national security was chaired by Henry Kissinger, then a Harvard faculty member who had worked on earlier Rockefeller-sponsored studies. The panel's work on nuclear strategy and limited war doctrine reflected the [[Rockefeller family]]'s long-standing interest in "flexible response" military capabilities as an alternative to massive nuclear retaliation.
+[[Henry A. Kissinger|Henry Kissinger]] of Harvard's Center for International Affairs was director of the Special Studies Project until his resignation on June 30, 1958, and thereafter a consultant; the report of Panel II, *International Security: The Military Aspect,* was prepared under his direction. Panel IV dealt with the American economy.[^5] The panel's work on nuclear strategy and limited war doctrine reflected the [[Rockefeller family]]'s long-standing interest in "flexible response" military capabilities as an alternative to massive nuclear retaliation.
 
 Kissinger's panel work through the RBF gave him the intellectual platform and Rockefeller family connections that launched his career as a foreign policy adviser. After the Special Studies Project, Kissinger continued to serve as Nelson Rockefeller's foreign policy consultant through the 1960s.[^3]
 
@@ -43,3 +50,4 @@ Nelson Rockefeller used the RBF's national security framework to promote bomb sh
 [^2]: Colby and Dennett, Ch. 25, 27.
 [^3]: Colby and Dennett, Ch. 25, 27.
 [^4]: Colby and Dennett, Ch. 25.
+[^5]: Rockefeller Brothers Fund. *Prospect for America: The Rockefeller Panel Reports.* Doubleday, 1961, list of project staff and introduction to the report of Panel II. https://archive.org/details/prospect-for-america-the-rockefeller-panel-reports-rockefeller-brothers-fund-1961

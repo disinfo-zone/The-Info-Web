@@ -4,10 +4,25 @@ tags:
   - Person
   - Nuclear
   - Israel
-summary: "John Foster Dulles served as the Secretary of State under President Dwight D."
+summary: "Sullivan & Cromwell lawyer and Rockefeller Foundation trustee from 1935 and chairman from 1950 to 1952, who served as Secretary of State under Dwight D. Eisenhower from 1953 to 1959."
 born: 1888-02-25
 died: 1959-05-24
 location: "Washington, D.C."
+created: 2025-08-05
+updated: 2026-09-22
+relations:
+  - type: member_of
+    role: "trustee"
+    with: "[[Rockefeller Foundation]]"
+    start: 1935
+    end: 1952
+    fn: rfar
+  - type: head_of
+    role: "chairman of the board"
+    with: "[[Rockefeller Foundation]]"
+    start: 1950
+    end: 1952-12-02
+    fn: rfar
 ---
 
 John Foster Dulles served as the Secretary of State under President [[Dwight D. Eisenhower]]. He, along with his brother [[Allen Dulles]], the [[Central Intelligence Agency|CIA]] director, were infuriated by [[Israel]]'s attempt to mask the extent of its military buildup prior to the 1956 [[Suez Crisis]]. He was regularly present at [[White House]] briefings where intelligence from [[U-2 Spy Plane|U-2]] flights, including early information on [[Dimona]], was presented.[^1]
@@ -56,7 +71,7 @@ John Foster Dulles had a long personal relationship with the [[Rockefeller famil
 
 ### Rockefeller Foundation Chairmanship
 
-Dulles served as chairman of the [[Rockefeller Foundation]] from 1935 to 1952. When he left to become Eisenhower's Secretary of State in early 1953, he handed the chair to [[John D. Rockefeller III]] (Nelson's brother) and tapped his friend [[Dean Rusk]] as the foundation's president. Rusk's transition from State Department intelligence work to the Rockefeller Foundation, and then back to government as [[John F. Kennedy]]'s Secretary of State, was typical of the institutional circulation between the Rockefeller philanthropic network and U.S. foreign policy apparatus.[^rock2]
+Dulles was elected a trustee of the [[Rockefeller Foundation]] in 1935 and became chairman of its board in 1950. On December 5, 1951, the board invited [[Dean Rusk]], then Assistant Secretary of State for Far Eastern Affairs, to become the foundation's president; Rusk served as assistant to the president from March 4, 1952, and took office on July 1, 1952. On December 2, 1952, after President-elect Eisenhower designated him Secretary of State, Dulles resigned the chairmanship, and the trustees elected John D. Rockefeller 3rd, a trustee since 1931, to succeed him.[^rfar] Rusk resigned as trustee and president in January 1961 to become [[John F. Kennedy]]'s Secretary of State.[^rfar][^rock2]
 
 ### San Francisco UN Conference Confrontation
 
@@ -97,7 +112,7 @@ The FRUS volume *Foreign Relations of the United States, 1952-1954, Guatemala* (
 [^iran1]: U.S. Department of State, Office of the Historian, *Foreign Relations of the United States, 1951-1954, Iran*, Document 169 (March 1, 1953, memorandum Dulles to Eisenhower); Document 184 (April 4, 1953, Kermit Roosevelt to Dulles, with notation "Wisner recommended approval and Dulles approved"); Document 194 (April 21, 1953, briefing notes for Dulles, NSC briefing April 22). All at https://history.state.gov/historicaldocuments/frus1951-54Iran.
 [^iran2]: *FRUS 1951-54, Iran*, Document 306, https://history.state.gov/historicaldocuments/frus1951-54Iran/d306. CIA Station Tehran memorandum, August 28, 1953. The $45 million emergency grant to the post-coup government is documented in secondary accounts drawing on the same FRUS series.
 [^rock1]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon* (HarperCollins, 1995), Ch. 12.
-[^rock2]: Colby and Dennett, Ch. 18. Dulles served as Rockefeller Foundation chairman 1935-1952; handed chair to John D. Rockefeller III; designated Dean Rusk as foundation president.
+[^rock2]: Colby and Dennett, Ch. 18. Its dating of Dulles's chairmanship to 1935-1952 is contradicted by the foundation's own reports, which date his trusteeship from 1935 and his chairmanship from 1950.
 [^rock3]: Colby and Dennett, Ch. 12.
 [^rock4]: Colby and Dennett, Ch. 19. Eisenhower Library, "The Cold War in the Early Fifties: Open Skies and the 1955 Geneva Summit," subject guide, https://www.eisenhowerlibrary.gov/sites/default/files/research/subject-guides/pdf/cold-war-open-skies-1955-geneva-conference.pdf. Quantico meeting June 5-10, 1955; Geneva Summit proposal July 21, 1955.
 [^policy1]: U.S. Department of State, Office of the Historian, Southeast Asia Collective Defense Treaty, signed Manila, September 8, 1954. FRUS 1955-57, Vol. II, Document 56, Formosa Resolution, https://history.state.gov/historicaldocuments/frus1955-57v02/d56. On the Austrian State Treaty and Eisenhower Doctrine: Miller Center, "John Foster Dulles (1953-1959)."
@@ -105,3 +120,4 @@ The FRUS volume *Foreign Relations of the United States, 1952-1954, Guatemala* (
 [^policy3]: Dulles address, North Atlantic Council, December 14, 1953, on the European Defense Community. Discussed in: "Agonizing Reappraisals: Anthony Eden, John Foster Dulles and the Crisis of European Defence, 1953-54," *Diplomacy and Statecraft*, Vol. 13, No. 4 (2002), https://www.tandfonline.com/doi/abs/10.1080/714000354.
 [^arch1]: Dwight D. Eisenhower Presidential Library, "John Foster Dulles Papers: Scope and Content Note," finding aid, Abilene, Kansas, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/scope-and-content.pdf. Telephone Conversations Series finding aid, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/telephone-conversations-series.pdf.
 [^arch2]: *Foreign Relations of the United States, 1952-1954, Guatemala*, ed. Susan Holly (Washington: U.S. Government Printing Office, 2003), 287 documents, https://history.state.gov/historicaldocuments/frus1952-54Guat. *Foreign Relations of the United States, 1951-1954, Iran*, https://history.state.gov/historicaldocuments/frus1951-54Iran.
+[^rfar]: The Rockefeller Foundation. *Annual Report 1951,* "President's Review," pp. 95-96, https://archive.org/details/the-rockefeller-foundation-annual-report-1951; *Annual Report 1952,* "President's Review," https://archive.org/details/the-rockefeller-foundation-annual-report-1952; *Annual Report 1960,* on Rusk's resignation, https://archive.org/details/the-rockefeller-foundation-annual-report-1960; *Annual Report 1935,* list of trustees, https://archive.org/details/the-rockefeller-foundation-annual-report-1935. The 1947 report lists Walter W. Stewart as chairman of the board, with Dulles a trustee, https://archive.org/details/the-rockefeller-foundation-annual-report-1947.

@@ -218,6 +218,8 @@ At Ross's 1996 trial in San Diego, Blandón testified for the prosecution wearin
 
 When defense attorney [[Alan Fenster]] cross-examined Blandón about his Contra fundraising, Blandón began to say: "When we raise money for the Contra revolution, we received orders from the," then paused, looked at O'Neale, and said "from another people." Because of the court order prohibiting CIA testimony, Fenster was unable to pursue the admission. Blandón also confessed under cross-examination that he did not know whether the Contras had received $19 million in CIA aid, contradicting his claim that he quit because the organization had sufficient funds. After the trial, Blandón admitted to the [[Senate Select Committee on Intelligence|Senate Intelligence Committee]] and the CIA Inspector General that his Contra contributions continued through 1985.[^15]
 
+The trial court instructed the jury to accept Blandón's testimony only with "great caution." The government had not disclosed the circumstances in which INS agent Robert Tellez had obtained permanent resident status for him, which would have shown that Tellez violated the law in processing his file. The [[Ninth Circuit]] held in 2004 that the omission did not prejudice Ross's entrapment defense.[^17]
+
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know"
@@ -236,3 +238,4 @@ When defense attorney [[Alan Fenster]] cross-examined Blandón about his Contra 
 [^14]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 25: "Things are moving all around us"
 [^15]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 26: "That matter, if true, would be classified"
 [^16]: U.S. Department of Justice, Office of the Inspector General. *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions.* December 1997, chapter II and appendix E. https://oig.justice.gov/sites/default/files/legacy/special/9712/
+[^17]: *United States v. Ross,* 372 F.3d 1097, 1101-1102 (9th Cir. 2004), No. 02-50226. https://www.courtlistener.com/opinion/786678/united-states-v-ricky-d-ross/

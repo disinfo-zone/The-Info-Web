@@ -37,7 +37,7 @@ After *Parade* published "[[Psychic Spying]]" on August 7, 1977, the committee a
 
 ### Other Records
 
-In 2021 classified versions of the intelligence community's assessment of domestic violent extremism were briefed to the House and Senate intelligence committees.[^7] [[Jim Himes]], its ranking member in 2026, appeared that year on a leaked membership list of [[Peter Thiel]]'s Dialog society.[^8]
+In March 1998 CIA Inspector General [[Fred Hitz]] testified to the committee on the agency's relationships with Contra supporters involved in drug trafficking.[^10] On May 11, 2000, the committee released a unanimously adopted report on the allegations of [[Gary Webb]]'s [[Dark Alliance]] series, finding that the evidence did not support the implication "that the CIA was responsible for the crack epidemic in [[Los Angeles]] or anywhere else in the United States to further the cause of the Contra war in [[Central America]]."[^9] In 2021 classified versions of the intelligence community's assessment of domestic violent extremism were briefed to the House and Senate intelligence committees.[^7] [[Jim Himes]], its ranking member in 2026, appeared that year on a leaked membership list of [[Peter Thiel]]'s Dialog society.[^8]
 
 ### Footnotes
 
@@ -49,3 +49,5 @@ In 2021 classified versions of the intelligence community's assessment of domest
 [^6]: Executive Director for Intelligence Community Affairs to Larry Combest, Chairman, Permanent Select Committee on Intelligence, March 28, 1995, CIA-RDP96-00791R000100040002-2.
 [^7]: Office of the Director of National Intelligence, Department of Justice and Department of Homeland Security. "Domestic Violent Extremism Poses Heightened Threat in 2021." Unclassified summary, March 17, 2021.
 [^8]: Cameron, Dell, and Yulia Almazova. "Leak Exposes Members of Peter Thiel's Secretive 'Dialog' Society." *WIRED,* June 16, 2026.
+[^9]: *Survey of Activities of the Permanent Select Committee on Intelligence During the 106th Congress,* H. Rept. 106-1054, 2001, "CIA Drug Trafficking Investigation," citing the committee print *Report on the Central Intelligence Agency's Alleged Involvement in Crack Cocaine Trafficking in the Los Angeles Area,* February 2000. https://www.govinfo.gov/content/pkg/CRPT-106hrpt1054/html/CRPT-106hrpt1054.htm
+[^10]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998, epilogue.

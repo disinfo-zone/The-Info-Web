@@ -9,12 +9,12 @@ tags:
   - Interrogation
   - ColdWar
   - WestGermany
-summary: "Joint CIA-Army operation in which LSD was administered to unwitting subjects during interrogations in Europe in 1961, including a Black Army soldier, James Thornwell, who was falsely accused of theft and subjected to prolonged drug-induced psychological terror."
+summary: "Army field test of LSD on unwitting interrogation subjects in Europe from May to August 1961, including the Black soldier James Thornwell, falsely accused of theft."
 location: Europe (France and West Germany)
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-09-22
 ---
-Operation THIRD CHANCE was a joint [[CIA]]-[[U.S. Army|Army]] program that tested [[LSD]] as an interrogation tool on unwitting subjects in European settings in 1961. Army researchers conducted the field tests on nine foreign nationals and one American: [[James Thornwell]], a Black U.S. Army enlisted man stationed in France who had been accused of stealing classified documents. The operation was one of two known field programs of this type, the other being [[Operation DERBY HAT]].
+Operation THIRD CHANCE was the first series of field tests of the [[U.S. Army|Army]]'s Material Testing Program EA 1729, in which an Army Special Purpose Team gave [[LSD]] to unwitting subjects during interrogations in Europe from May to August 1961: eleven interrogations of ten subjects, none of them volunteers, all but one alleged foreign intelligence sources or agents.[^4] The one American was [[James Thornwell]], a Black U.S. Army enlisted man stationed in France who had been accused of stealing classified documents. The operation was one of two known field programs of this type, the other being [[Operation DERBY HAT]].
 
 The operation came to public attention through [[Sidney Gottlieb]]'s testimony before the [[Church Committee]] in October 1975 and through subsequent reporting on the Thornwell case, which became the most documented individual instance of an American subject being subjected to an operational CIA-Army LSD interrogation.[^1]
 

@@ -13,7 +13,7 @@ tags:
   - CombatEighteen
   - IntelligenceHistory
 created: 2026-05-21
-updated: 2026-05-22
+updated: 2026-09-22
 summary: "David Myatt is a British far-right ideologue widely attributed as the founder of the Order of Nine Angles under the pseudonym Anton Long, whose writings directly influenced the 1999 London nailbomber David Copeland, yet he was never charged with terrorism despite decades of published incitement to murder and a three-year Scotland Yard investigation."
 born: 1950-11-29
 location: "Worcestershire, United Kingdom"
@@ -47,7 +47,7 @@ In 1998, while serving as NSM leader, Myatt called publicly for "the creation of
 
 In February 1998, detectives from the Metropolitan Police Service's SO12 counter-terrorism branch raided Myatt's home in [[Worcestershire]] and removed computers and files. He was arrested on suspicion of incitement to murder and incitement to racial hatred in connection with his posting of "A Practical Guide to Aryan Revolution" on a website operated by [[Bernard Klatt]] in British Columbia, Canada, in November 1997. The case was referred to [[Interpol]], the [[FBI]], and Canadian police services for a three-year international investigation. It was eventually dropped because the evidence supplied by the Canadian authorities was assessed as insufficient to secure a conviction.[^4]
 
-The question of why Myatt was never prosecuted for terrorism is not fully answered in the public record. The documented facts are: (a) he published texts classified as terrorism manuals; (b) one of those texts was found in the possession of a man who killed three people; (c) he was investigated for incitement to murder and incitement to racial hatred in 1998 but the case was dropped; (d) he published explicit calls for "racial terror with bombs" while NSM leader; (e) his former organisation, Combat 18, was proscribed in 2020 under S.I. 2020/200; (f) O9A, attributed to him as Anton Long, was not proscribed in the UK as of mid-2026 despite members being convicted of terrorism offences. No official explanation for the absence of terrorism prosecution has been published.[^6]
+The question of why Myatt was never prosecuted for terrorism is not fully answered in the public record. The documented facts are: (a) he published texts classified as terrorism manuals; (b) one of those texts was found in the possession of a man who killed three people; (c) he was investigated for incitement to murder and incitement to racial hatred in 1998 but the case was dropped; (d) he published explicit calls for "racial terror with bombs" while NSM leader; (e) his former organisation, Combat 18, was banned in Germany in January 2020 but has not been proscribed in the United Kingdom; (f) O9A, attributed to him as Anton Long, was not proscribed in the UK as of mid-2026 despite members being convicted of terrorism offences. No official explanation for the absence of terrorism prosecution has been published.[^6]
 
 ### David Copeland and the "Practical Guide"
 
