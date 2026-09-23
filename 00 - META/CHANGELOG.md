@@ -1,6 +1,6 @@
+- 2026-09-23T0033 · [[_manifest]]
+- 2026-09-23T0033 · [[Dustin Moskovitz]]
 - 2026-09-23T0030 · [[Cari Tuna]]
-- 2026-09-23T0028 · [[Dustin Moskovitz]]
-- 2026-09-23T0028 · [[_manifest]]
 - 2026-09-23T0014 · [[key_figures_candidates]]
 - 2026-09-23T0014 · [[KEY INDIVIDUALS]]
 - 2026-09-23T0014 · [[Rockefeller Brothers Fund]]
