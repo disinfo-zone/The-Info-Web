@@ -1120,7 +1120,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Eugene Holley]] | Eugene Holley was a former Georgia state senator who introduced Bert Lance to Agha Hasan Abedi. |
 | [[Gerald Lewis]] | Gerald Lewis was the Florida state comptroller who refused to renew BCCI's license to operate in the state after the 1990 Tampa money-laundering conviction. |
 | [[Ghaith R. Pharaon]] | Pharaon launched himself into the construction business in Saudi Arabia in 1965, founding Saudi Arabian Research and Development Corporation (REDEC). |
-| [[Ghanim Fan's al-Mazrui]] | Ghanim Fan's al-Mazrui was the Head of Sheikh Zayed's Private Department and a BCCI board member. |
+| [[Ghanim Faris al-Mazrui]] | Ghanim Faris al-Mazrui was the Head of Sheikh Zayed's Private Department and a BCCI board member. |
 | [[Gokal brothers]] | The Gokal brothers, Abbas Gokal, Murtaza Gokal, and Mustafa Gokal, were Pakistani businessmen who ran the Gulf Group, a London-based shipping company. |
 | [[Jackson Stephens]] | Little Rock investment banker whose firm held the nominee account through which BCCI's clients bought into Financial General Bankshares in 1977, and whose Worthen Bank, owned with the Riady family, financed Bill Clinton's 1992 campaign. |
 | [[James Callaghan]] | James Callaghan, also known as Lord Callaghan, was a former British prime minister who served as a paid economic adviser to the BCCI. |

@@ -23,6 +23,10 @@ Ali's connections were extensive, reaching high-level officials and intelligence
 
 He was also involved in meetings with [[William J. Casey]], the former [[Central Intelligence Agency]] Director, and accompanied [[Zia ul-Haq|General Zia]] on a trip to Washington where they met with Casey.[^10] 
 
+### Durrani's Account
+
+*[[Time (magazine)|Time]]* reported in September 1991 that the imprisoned arms dealer [[Arif Durrani]] had told it: "Just as Ghaith Pharaon fronts for B.C.C.I. to purchase banks and businesses, Asaf is B.C.C.I.'s man in the weapons business"; the magazine noted that the [[Department of Justice|Justice Department]] disputed some of Durrani's other claims, but said "another well-placed source confirmed that Asaf Ali is backed financially by B.C.C.I." An unnamed French businessman told it: "Asaf Ali has been an important Dassault agent for years, and everyone knows that." A spokesman for Dassault, Francois Prigent, said: "We don't know that man," and of BCCI, "Banks are chosen by clients, not by us." Investigators told the magazine that Ali had rerouted nearly two dozen Mirages, not yet paid for and originally brokered through BCCI, to [[Peru]], an affair that became a political scandal there; Prigent said, "The shipment to Peru is the business of Peru; what happens to planes after we make a delivery is up to them." The magazine also reported that Ali had met William J. Casey in Washington and in Pakistan, and on one occasion attended a meeting in Washington with Casey, Agha Hasan Abedi and President Zia ul-Haq.[^11]
+
 ### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 8.
@@ -35,3 +39,4 @@ He was also involved in meetings with [[William J. Casey]], the former [[Central
 [^8]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 296.
 [^9]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 355.
 [^10]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 347.
+[^11]: "Scandals: Not Just a Bank," *Time,* September 2, 1991. https://time.com/archive/6718475/scandals-not-just-a-bank/

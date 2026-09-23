@@ -12,12 +12,12 @@ alias:
   - Henry Gonzalez
   - Henry B. González
   - Henry Barbosa Gonzalez
-summary: "House Banking Committee chairman from San Antonio who read classified documents on American aid to Iraq into the Congressional Record in 1992 after the Justice Department asked him to stop his inquiry on national security grounds."
+summary: "House Banking Committee chairman who read classified documents on American aid to Iraq into the Congressional Record in 1992 after the Justice Department asked him to stop his inquiry on national security grounds."
 born: 1916-05-03
 died: 2000-11-28
 location: "San Antonio, Texas"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-23
 ---
 
 Henry B. Gonzalez (May 3, 1916 to November 28, 2000) represented [[San Antonio]] in the [[United States House of Representatives]] from 1961 to 1999 and was chairman of the [[House Banking Committee|Committee on Banking, Finance and Urban Affairs]] from 1989 to 1995. In 1977 he was briefly chairman of the [[House Select Committee on Assassinations]]. From 1990 to 1993 he investigated the loans of the [[Atlanta]] branch of [[Banca Nazionale del Lavoro]] to [[Iraq]], and published much of what his committee obtained by reading it on the House floor.[^1][^2]
@@ -30,7 +30,7 @@ In 1963 he shoved Representative [[Ed Foreman]], who had called him a "pinko," a
 
 ### The Assassinations Committee
 
-Gonzalez became chairman of the House Select Committee on Assassinations in 1977 and entered a public dispute with its chief counsel, [[Richard A. Sprague]], over Sprague's independence of the committee. The other members sided with Sprague, and Gonzalez resigned on March 2, 1977, within a month of taking the chair.[^1]
+Gonzalez became chairman of the [[HSCA|House Select Committee on Assassinations]] in 1977 and entered a public dispute with its chief counsel, [[Richard A. Sprague]], over Sprague's independence of the committee. The other members sided with Sprague, and Gonzalez resigned on March 2, 1977, within a month of taking the chair.[^1]
 
 ### The Banking Committee
 
@@ -52,6 +52,10 @@ His statement of July 7, 1992, drew on a [[Central Intelligence Agency|CIA]] doc
 
 The Kennedy Library gave him its Profile in Courage Award on September 11, 1994, for investigating, "regardless of the attempts to strip him of his committee chairmanship, the involvement of high-level officials in the Reagan and Bush Administrations in the sale of U.S. arms to Iraq." Of the war of 1991 he had said: "Not only did our own service men and women face military material that had been exported from the U.S., the U.S. military itself relied on these Iraqi front companies for some of the military goods they used." He lost the chairmanship to [[Jim Leach|James Leach]] in 1995 and did not run in 1998. His son Charles succeeded him.[^1][^2]
 
+### BCCI
+
+On September 11, 1991, Gonzalez opened the banking committee's hearings on the [[Bank of Credit and Commerce International]], with [[Clark Clifford]] and [[Robert Altman]] as the first witnesses. He described BCCI as "tantamount to a racketeering bank" and the hearings as an inquiry into how it "gained a foothold in the United States and how regulators and bank officials failed to detect or understand or report the invasion." Recalling his inquiry into Banca Nazionale del Lavoro, which "became Bagdad's banker in the United States before our regulatory companies at the [[Federal Reserve Board|Federal Reserve]] could locate Iraq on the map," he said that "in the case of the Bank of Credit and Commerce International, the Federal Reserve would have us believe that BCCI was a stealth banking operation, undetected on the regulators' radar screens," and asked: "What other foreign entities or criminal elements are secretly in control of U.S. banks at this very moment? That is a question I have been raising for 2 years."[^8]
+
 ### Footnotes
 
 [^1]: Kohout, Martin Donell. "González, Henry Barbosa," *Handbook of Texas,* Texas State Historical Association. https://www.tshaonline.org/handbook/entries/gonzalez-henry-barbosa
@@ -61,3 +65,4 @@ The Kennedy Library gave him its Profile in Courage Award on September 11, 1994,
 [^5]: Gonzalez, Henry B. "Brass Factory in Iraq," *Congressional Record,* House, September 25, 1992, p. H9502.
 [^6]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq*. Bantam, 1993, pp. 206, 216, 221.
 [^7]: "Resolution Calling for an Ethics Probe of Chairman Gonzalez," *Congressional Record,* House, August 4, 1992, p. H7366. https://irp.fas.org/congress/1992_cr/h920804-gonzales.htm
+[^8]: House Committee on Banking, Finance and Urban Affairs. *Bank of Credit and Commerce International (BCCI) Investigation, Part 1.* 102nd Cong., 1st Sess., September 11, 1991, Serial No. 102-69, pp. 1-2. https://archive.org/details/BCCIHearingsBeforeTheCommitteeOnBankingFinanceAndUrbanAffairs

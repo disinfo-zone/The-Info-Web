@@ -5,6 +5,7 @@ aliases:
   - DOJ
   - Justice Department
   - U.S. Department of Justice
+  - "United States Department of Justice"
 created: 2026-05-17
 updated: 2026-09-22
 tags:

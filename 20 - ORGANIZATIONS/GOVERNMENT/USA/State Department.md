@@ -5,6 +5,7 @@ title: State Department
 aliases:
   - U.S. Department of State
   - Department of State
+  - "United States Department of State"
 tags:
   - Organization
   - Government
