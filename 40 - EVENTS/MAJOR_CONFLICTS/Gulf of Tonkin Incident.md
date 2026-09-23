@@ -19,7 +19,7 @@ start: 1964-08-04
 location: "Gulf of Tonkin, off North Vietnam"
 ---
 
-The Gulf of Tonkin Incident refers to two separate events on August 2 and August 4, 1964, in the Gulf of Tonkin off the coast of North Vietnam, the second of which was used by the [[Lyndon B. Johnson|Johnson]] administration to obtain congressional authorization for the dramatic escalation of American involvement in [[Vietnam|the Vietnam War]]. Subsequent declassification - principally of [[NSA]] documents released in 2005 - confirmed what internal doubts at the time suggested: the August 4 "attack" almost certainly did not occur.[^1]
+The Gulf of Tonkin Incident refers to two separate events on August 2 and August 4, 1964, in the Gulf of Tonkin off the coast of North Vietnam, the second of which was used by the [[Lyndon B. Johnson|Johnson]] administration to obtain congressional authorization for the dramatic escalation of American involvement in [[Vietnam War|the Vietnam War]]. Subsequent declassification - principally of [[NSA]] documents released in 2005 - confirmed what internal doubts at the time suggested: the August 4 "attack" almost certainly did not occur.[^1]
 
 ### August 2: The Real Attack
 

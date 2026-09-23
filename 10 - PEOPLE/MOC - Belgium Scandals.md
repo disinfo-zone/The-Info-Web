@@ -17,7 +17,7 @@ Figures involved in Belgian political and criminal scandals, including the Dutro
 | [[Baron Benoit de Bonvoisin]] | Baron Benoit de Bonvoisin served as a director of Societe Generale de Banque (also referred to as 'Society General'), which was described as 'the largest financial firm in the country' (Belgium). |
 | [[Bernard Weinstein]] | Bernard Weinstein, born in France, relocated to Belgium in the early 1990s and became a close associate of Marc Dutroux in criminal activities centered on auto theft and child trafficking. |
 | [[Carine Dellaert]] | Carine Dellaert was a Belgian woman whose 1983 death was investigated as part of the X-Dossier. |
-| [[Christine Van Hees]] | Christine Van Hees was a 14-year-old girl whose body was discovered on an old mushroom farm in 1984. |
+| [[Christine Van Hees]] | Brussels teenager whose burned body was found in 1984 at a disused mushroom farm in Auderghem; the case was reopened in 1996 on the testimony of the witness X1 and never solved. |
 | [[Claude Thirault]] | Claude Thirault, a petty criminal, assisted Marc Dutroux in 1993 with renovations to a basement at Dutroux's Marcinelle residence, transforming it into a hidden dungeon designed for imprisoning kidnapped girls. |
 | [[Daniel Waillez]] | Daniel Waillez, a Belgian pornographer, was involved in the production and distribution of child pornography through the Toro Bravo company during the 1990s. |
 | [[Dino A. Brugioni]] | Brugioni recalled seeing the first signs of what would become the Israeli nuclear reactor at Dimona. |
@@ -29,7 +29,7 @@ Figures involved in Belgian political and criminal scandals, including the Dutro
 | [[Jean-Claude Van Espen]] | Brussels investigating judge of the 1980s and reopened 1997 inquiries into the murder of Christine Van Hees, who suspended the X1 investigators' work in 1997 and was reported to have ties to Nihoul. |
 | [[Jean-Louis Delamotte]] | Jean-Louis Delamotte, a Belgian businessman, served as the manager of Achats Services Commerces (ASCO), a company owned by Michel Nihoul and involved in fraud and vehicle supply during the 1990s. |
 | [[Jean-Marc Connerotte]] | Jean-Marc Connerotte, a magistrate in Neufchâteau, Belgium, served as the initial investigating judge in the Marc Dutroux case following Dutroux's August 13, 1996, arrest for the abduction of Laetitia Delhez. |
-| [[Jean-Michel Nihoul]] | Jean-Michel Nihoul (born 1941) was a Belgian businessman, political fixer, and organized crime figure described as a 'quasi-underworld figure' who operated at the intersection of organized crime, politics, and child trafficking networks during the 1980s and 1990s. |
+| [[Jean-Michel Nihoul]] | Brussels swindler, sex-party regular and gendarmerie informant charged in 1996 as Marc Dutroux's link to a network; acquitted of the kidnappings in 2004 and jailed for drug trafficking. |
 | [[Jean-Paul Dumont]] | Jean-Paul Dumont, a Belgian lawyer, represented various figures in legal matters during the 1980s and 1990s, including connections to the X-Dossier investigation into child abuse networks. |
 | [[Joseph Douce]] | Joseph Douce, a Belgian priest, founded the Centre du Christ Liberateur (CCL), a support group for pedophiles active in the 1980s and 1990s. |
 | [[Julie Lejeune]] | Julie Lejeune, an eight-year-old girl from Charleroi, Belgium, disappeared on July 9, 1995, alongside her friend Melissa Russo while riding bicycles near their neighborhood. |
@@ -48,10 +48,10 @@ Figures involved in Belgian political and criminal scandals, including the Dutro
 | [[Philip White]] | Philip White was the Director of International Affairs for the Criminal Division of the DOJ. |
 | [[Philippe Carpentier]] | Philippe Carpentier, a former Belgian justice ministry official, served as a director in the Ministry of Justice during the 1980s and 1990s, including roles in prison administration. |
 | [[Rasti Rostelli]] | Rasti Rostelli was a hypnotist whose stage show preceded the kidnapping of An Marchal and Eefje Lambrecks by Marc Dutroux. |
-| [[Regina Louf]] | Regina Louf, born in Ghent, Belgium, testified as witness Regina Louf in the Marc Dutroux investigation, providing accounts of child prostitution from the 1970s onward. |
+| [[Regina Louf]] | Ghent woman who, as the anonymous witness X1 in the Dutroux inquiry, described childhood prostitution and murders at elite parties; prosecutors closed the related files in April 1998. |
 | [[Robbie Van Der Plancken]] | Robbie Van Der Plancken was a Belgian national who began as a child prostitute working for Lothar Glandorf and later 'graduated to become an exploiter himself' in the European child trafficking and pornography network. |
 | [[Robert Jan Warmerdam]] | Robert Jan Warmerdam operated as a transvestite prostitute in Amsterdam, Netherlands, providing testimony that linked child trafficking networks to the Marc Dutroux case and the Apollo Bulletin Board Service during the late 1990s. |
 | [[Roger Boas]] | Roger Boas, a Belgian industrialist, owned ASCO Industries NV, an aerospace company in Zaventem near Brussels, implicated in the X-Dossier for alleged snuff film production. |
 | [[Sabine Dardenne]] | Sabine Dardenne, aged 12, disappeared from her hometown of Farciennes, Belgium, on May 26, 1996, while riding her bicycle to school. |
 | [[Thomas Stanton]] | Thomas Stanton was the Director of the Executive Office of U.S. |
-| [[Tony Van den Boggaert]] | Tony Van den Boggaert, a family acquaintance of Regina Louf (witness X1), operated as her pimp from her early teens during the 1970s and 1980s in Ghent, Belgium. |
+| [[Tony Van den Boggaert]] | Family friend of Regina Louf (witness X1) who, her parents told police, had a key to their home and access to their twelve-year-old daughter, and who admitted his relationship with her to police. |

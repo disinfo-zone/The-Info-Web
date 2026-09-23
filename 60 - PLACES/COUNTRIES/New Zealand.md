@@ -18,7 +18,7 @@ New Zealand's Government Communications Security Bureau is a member of the [[Fiv
 
 ### Operations and Attacks
 
-In July 1985 agents of the French [[SDECE|DGSE]] sank the Greenpeace vessel *Rainbow Warrior* in Auckland harbor, killing a photographer; DGSE officers were convicted in New Zealand.[^3] On March 15, 2019, [[Brenton Tarrant]], an Australian who had lived about two years in Christchurch, attacked the Al Noor Mosque and the Linwood Islamic Centre there, killing 51 people; on March 26, 2020, he pleaded guilty to 51 murders, 40 attempted murders and a terrorist act, the first terrorism conviction in New Zealand, and he was sentenced to life without parole.[^4][^5] New Zealand designated [[The Base]] and the Proud Boys as terrorist organizations in June 2022, and the [[Order of Nine Angles]] in 2025.[^6][^7]
+In July 1985 agents of the French [[SDECE|DGSE]] sank the Greenpeace vessel *Rainbow Warrior* in Auckland harbor, killing a photographer; DGSE officers were convicted in New Zealand.[^3] In the [[2019 Christchurch Mosque Shootings]] of March 15, 2019, [[Brenton Tarrant]], an Australian who had lived about two years in Christchurch, attacked the Al Noor Mosque and the Linwood Islamic Centre there, killing 51 people; on March 26, 2020, he pleaded guilty to 51 murders, 40 attempted murders and a terrorist act, the first terrorism conviction in New Zealand, and he was sentenced to life without parole.[^4][^5] New Zealand designated [[The Base]] and the Proud Boys as terrorist organizations in June 2022, and the [[Order of Nine Angles]] in 2025.[^6][^7]
 
 ### Thiel's Citizenship
 
