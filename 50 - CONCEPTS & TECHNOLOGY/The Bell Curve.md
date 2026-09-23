@@ -17,14 +17,8 @@ relations:
     role: "co-author"
     start: 1994
     fn: 1
-  - type: participant_in
-    with: "[[Richard Herrnstein]]"
-    reverse: true
-    role: "co-author"
-    start: 1994
-    fn: 1
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 *The Bell Curve: Intelligence and Class Structure in American Life* was published by the Free Press in 1994. Its authors, the Harvard psychologist [[Richard Herrnstein]], who died of cancer in September 1994 shortly before publication, and [[Charles Murray]] of the [[American Enterprise Institute]], argued that intelligence is substantially heritable, that it predicts life outcomes better than socioeconomic background, that a "cognitive elite" sorted by intelligence was stratifying American society, and that measured IQ differences between racial groups have a partly genetic basis.[^1][^2] The [[Manhattan Institute]], where Murray had been a senior fellow from 1982 to 1990, parted ways with him after he began the work; the [[Lynde and Harry Bradley Foundation|Bradley Foundation]] underwrote his research at both institutions.[^3]

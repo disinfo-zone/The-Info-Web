@@ -16,7 +16,7 @@ summary: "Socialist president of Chile from 1970 to 1973, the object of fourteen
 died: 1973-09-11
 location: "Santiago, Chile"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 Salvador Allende Gossens, a physician and Socialist senator, was elected president of [[Chile]] in 1970 on his fourth attempt, at the head of the [[Popular Unity]] coalition of Socialists, Communists, and Radicals. He died in the [[La Moneda]] palace in [[Santiago]] on September 11, 1973, during the coup led by General [[Augusto Pinochet]].[^1]
@@ -27,7 +27,7 @@ The [[Central Intelligence Agency|CIA]] spent three million dollars to influence
 
 ### 1970
 
-On September 4, 1970, Allende won 36.3 percent to 35.3 for [[Jorge Alessandri]], a margin of 39,000 votes in three million. CIA polls had predicted that Alessandri would win with 40 percent. Korry said that the fund-raisers of all three candidates approached the embassy, that Allende's asked for a million dollars, and that none was given. [[ITT Corporation|ITT]], whose chairman [[Harold Geneen]] offered the agency a fund for Alessandri in July, passed at least 350,000 dollars to his campaign. On September 15 President [[Richard Nixon]] ordered the agency to prevent Allende's accession, and the attempts that followed, described at [[Project FUBELT]], ended in the killing of General [[Rene Schneider|René Schneider]]. Congress confirmed Allende on October 24.[^1][^3]
+On September 4, 1970, Allende won 36.3 percent to 35.3 for [[Jorge Alessandri]], a margin of 39,000 votes in three million. CIA polls had predicted that Alessandri would win with 40 percent. Korry said that the fund-raisers of all three candidates approached the embassy, that Allende's asked for a million dollars, and that none was given. [[ITT Corporation|ITT]], whose chairman [[Harold Geneen]] offered the agency a fund for Alessandri in July, passed some 350,000 dollars to him, 250,000 to his campaign and 100,000 to the National Party, on the agency's advice about how to pass it, and other American businesses gave about 350,000 more. On September 15 President [[Richard Nixon]] ordered the agency to prevent Allende's accession, and the attempts that followed, described at [[Project FUBELT]], ended in the killing of General [[Rene Schneider|René Schneider]]. Congress confirmed Allende on October 24.[^1][^3]
 
 Korry wrote to Senator [[Frank Church]] in 1975 that the [[Soviet Union]] and [[Cuba]] had given "very substantial sums for covert political action to the Communist party, to the [[Socialist Party of Chile|Socialist Party]] and to Allende himself."[^4]
 

@@ -19,7 +19,7 @@ summary: "Rose Law Firm partner and associate attorney general who resigned in 1
 location: "Little Rock, Arkansas"
 born: 1948-01-18
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 Webster L. Hubbell was a partner of [[Hillary Rodham Clinton]] and [[Vince Foster]] in the [[Rose Law Firm]] of [[Little Rock, Arkansas|Little Rock]] and became associate attorney general of the [[United States]] in the [[Department of Justice]] in January 1993.[^1]
@@ -42,7 +42,7 @@ He resigned that March. What resulted from the Casolaro investigation, or even w
 
 McLarty and his staff director, William Burton, "telephoned Hubbell about once a week, telling him he still had friends in the White House." McLarty, [[Erskine Bowles]] of the [[Small Business Administration]], [[Truman Arnold]], and [[Vernon Jordan]] "made calls on Hubbell's behalf." "As a result, seventeen people and companies who were supporters of the President hired Hubbell to do consulting work, paying him in excess of $500,000 over a period of less than a year." He reported 376,075 dollars of it on his tax return for 1994 and paid no tax on it.[^1]
 
-One of the seventeen was the [[Lippo Group]]. On June 23, 1994, [[James Riady]] had breakfast with Hubbell at the [[Hay-Adams Hotel]], met President [[Bill Clinton|Clinton]] at ten with [[John Huang]], and had lunch with Hubbell. On June 27 Hubbell wrote to a director of [[Hong Kong China Limited]], a Lippo company, offering his services for 100,000 dollars a year, and the money was in his account by that day. "Both Riady and Hubbell refuse to describe what services, if any, Hubbell performed," a House committee reported. Lippo also paid for a trip to [[Jakarta]] and [[Bali]] for Hubbell and his wife. Before the committee Hubbell invoked the [[Fifth Amendment to the United States Constitution|Fifth Amendment]]. He wrote in his memoir: "it wasn't hush money."[^3]
+One of the seventeen was the [[Lippo Group]]. On June 23, 1994, [[James Riady]] had breakfast with Hubbell at the [[Hay-Adams Hotel]], met President [[Bill Clinton|Clinton]] at ten with [[John Huang]], and had lunch with Hubbell. On June 27 Hubbell wrote to a director of [[Hong Kong China Limited]], a Lippo company, offering his services for 100,000 dollars a year, and the money was in his account by that day. "Both Riady and Hubbell refuse to describe what services, if any, Hubbell performed," a House committee reported. Lippo also paid for a trip to [[Jakarta]] and [[Bali]] for Hubbell and his wife. Before the committee Hubbell invoked the [[Fifth Amendment to the United States Constitution|Fifth Amendment]]. He wrote in his memoir: "it wasn't hush money."[^3] In September 1994, after meetings in a Hong Kong office building bearing the Lippo name, Hubbell traveled to Jakarta, where he met the family's patriarch, [[Mochtar Riady]], and the U.S. ambassador to Indonesia; James Riady introduced him there as a close friend of the president and told him to get Clinton to play golf in Bali during the Asia-Pacific Economic Cooperation meeting.[^1]
 
 ### Plea
 

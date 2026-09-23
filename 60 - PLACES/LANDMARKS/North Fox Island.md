@@ -7,14 +7,9 @@ tags:
   - OaklandCountyChildKiller
 summary: "Island in Lake Michigan bought by Francis Shelden in 1960 and assessed at 312,000 dollars, site of the Brother Paul's Children's Mission camp exposed after the arrest of Gerald Richards in July 1976."
 created: 2026-05-14
-updated: 2026-09-22
+updated: 2026-09-23
 location: "Leelanau County, Michigan, USA"
 relations:
-  - type: owned
-    with: "[[Francis Shelden]]"
-    reverse: true
-    start: 1960
-    fn: 1
 ---
 
 North Fox Island is a small island, about three miles long and a mile wide, in Lake Michigan roughly seventeen miles off the Leelanau Peninsula and fifty miles north of Traverse City, in Leelanau County.[^1] [[Francis Shelden]], a graduate of Yale and Wayne State and a descendant of Governor and Secretary of War Russell A. Alger, bought it in 1960 for 20,000 dollars and built a landing strip, cabins and trails.[^1] By 1977 it was assessed at 312,000 dollars.[^2]

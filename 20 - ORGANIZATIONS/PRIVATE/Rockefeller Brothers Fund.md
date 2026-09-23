@@ -8,14 +8,8 @@ tags:
   - Policy
 summary: "Foundation established in 1940 by the five Rockefeller brothers whose Special Studies Project of 1956-61, directed by Henry Kissinger until 1958, produced the Rockefeller Panel Reports on security, economy and foreign policy."
 created: 2026-06-05
-updated: 2026-09-22
+updated: 2026-09-23
 relations:
-  - type: employed_by
-    with: "[[Henry A. Kissinger]]"
-    reverse: true
-    role: "director, Special Studies Project"
-    end: 1958-06-30
-    fn: 5
 ---
 
 The Rockefeller Brothers Fund (RBF) was established in 1940 by the five sons of [[John D. Rockefeller Jr.]] as a vehicle for coordinating the brothers' charitable giving, and became in the 1950s the primary instrument through which [[Nelson Rockefeller]] channeled Cold War policy development. Its Special Studies Project (1956-1961), convened by Nelson and staffed by figures from the national security establishment, produced six classified panel reports shaping Eisenhower and Kennedy administration defense and foreign policy. Panel IV on national security, chaired by [[Henry Kissinger]], launched Kissinger's career as a foreign policy adviser and cemented his relationship with Nelson Rockefeller.
@@ -34,9 +28,9 @@ The panels produced a series of influential reports between 1958 and 1961, colle
 
 ### Panel II: International Security (Kissinger)
 
-[[Henry A. Kissinger|Henry Kissinger]] of Harvard's Center for International Affairs was director of the Special Studies Project until his resignation on June 30, 1958, and thereafter a consultant; the report of Panel II, *International Security: The Military Aspect,* was prepared under his direction. Panel IV dealt with the American economy.[^5] The panel's work on nuclear strategy and limited war doctrine reflected the [[Rockefeller family]]'s long-standing interest in "flexible response" military capabilities as an alternative to massive nuclear retaliation.
+[[Henry A. Kissinger|Henry Kissinger]] of Harvard's Center for International Affairs was director of the Special Studies Project until his resignation on June 30, 1958, and thereafter a consultant; the report of Panel II, *International Security: The Military Aspect,* was prepared under his direction. Panel IV dealt with the American economy.[^3] The panel's work on nuclear strategy and limited war doctrine reflected the [[Rockefeller family]]'s long-standing interest in "flexible response" military capabilities as an alternative to massive nuclear retaliation.
 
-Kissinger's panel work through the RBF gave him the intellectual platform and Rockefeller family connections that launched his career as a foreign policy adviser. After the Special Studies Project, Kissinger continued to serve as Nelson Rockefeller's foreign policy consultant through the 1960s.[^3]
+Kissinger's panel work through the RBF gave him the intellectual platform and Rockefeller family connections that launched his career as a foreign policy adviser. After the Special Studies Project, Kissinger continued to serve as Nelson Rockefeller's foreign policy consultant through the 1960s.[^4]
 
 ### Other Notable Panelists
 
@@ -44,10 +38,12 @@ The Special Studies Project brought together a cross-section of the Cold War est
 
 ### Bomb Shelters and Civil Defense
 
-Nelson Rockefeller used the RBF's national security framework to promote bomb shelter programs aggressively in New York State. His commitment to civil defense infrastructure, which [[John F. Kennedy]] found politically inconvenient, was an expression of the RBF's panel work on the survivability of nuclear conflict. This policy position created a public profile that Kennedy's advisers viewed as a challenge to Kennedy's own national security credibility.[^4]
+Nelson Rockefeller used the RBF's national security framework to promote bomb shelter programs aggressively in New York State. His commitment to civil defense infrastructure, which [[John F. Kennedy]] found politically inconvenient, was an expression of the RBF's panel work on the survivability of nuclear conflict. This policy position created a public profile that Kennedy's advisers viewed as a challenge to Kennedy's own national security credibility.[^5]
+
+### Footnotes
 
 [^1]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995. Ch. 25, Appendix A.
 [^2]: Colby and Dennett, Ch. 25, 27.
-[^3]: Colby and Dennett, Ch. 25, 27.
-[^4]: Colby and Dennett, Ch. 25.
-[^5]: Rockefeller Brothers Fund. *Prospect for America: The Rockefeller Panel Reports.* Doubleday, 1961, list of project staff and introduction to the report of Panel II. https://archive.org/details/prospect-for-america-the-rockefeller-panel-reports-rockefeller-brothers-fund-1961
+[^3]: Rockefeller Brothers Fund. *Prospect for America: The Rockefeller Panel Reports.* Doubleday, 1961, list of project staff and introduction to the report of Panel II. https://archive.org/details/prospect-for-america-the-rockefeller-panel-reports-rockefeller-brothers-fund-1961
+[^4]: Colby and Dennett, Ch. 25, 27.
+[^5]: Colby and Dennett, Ch. 25.

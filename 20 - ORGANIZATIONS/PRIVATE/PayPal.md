@@ -42,19 +42,13 @@ relations:
     start: 2000-05
     end: 2000-09
     fn: 1
-  - type: employed_by
-    with: "[[Max Levchin]]"
-    reverse: true
-    role: "chief technology officer"
-    start: 2000-03
-    fn: 1
   - type: owned
     with: "[[eBay]]"
     reverse: true
     start: 2002-10-03
     fn: 4
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 PayPal, Inc. "resulted from a merger between Confinity, Inc., incorporated in December 1998, and X.com Corporation, incorporated in March 1999." [[Peter Thiel]] and [[Max Levchin]] co-founded Confinity; [[Elon Musk]], earlier a co-founder of Zip2, founded X.com, which "intended to provide Internet banking services." On March 30, 2000, X.com merged with Confinity, X.com surviving; by October 2000 the company had abandoned internet banking for the PayPal product, and it took the name PayPal, Inc. in February 2001. Musk was chief executive of X.com from March to December 1999 and of PayPal from May to September 2000, when Thiel, a former [[Sullivan & Cromwell]] lawyer and derivatives trader, replaced him; Levchin was chief technology officer. In September 2001 Musk was the largest shareholder, with 14.2 percent, ahead of entities affiliated with [[Sequoia Capital]] (10.7 percent), whose partner [[Michael Moritz]] sat on the board, and Nokia Ventures (9.6 percent); Thiel held 5.6 percent and [[Reid Hoffman]] under one percent.[^1]

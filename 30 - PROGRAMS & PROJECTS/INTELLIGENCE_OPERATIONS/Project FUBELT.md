@@ -19,7 +19,7 @@ start: 1970-09-15
 end: 1970-10-24
 location: "Santiago, Chile"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 Project FUBELT, known within the government as Track II, was the [[Central Intelligence Agency|CIA]]'s attempt between September 15 and October 24, 1970, to instigate a military coup in [[Chile]] to keep [[Salvador Allende]] from the presidency. President [[Richard Nixon]] ordered it to be run without the knowledge of the [[State Department]], the [[United States Department of Defense|Defense Department]], the ambassador in [[Santiago]], or the [[40 Committee]], which was simultaneously supervising a separate program of bribery and propaganda called Track I. The agency's contacts centered on officers who planned to abduct the army commander, General [[Rene Schneider]], who opposed a coup. Schneider was shot on October 22 and died on October 25. The [[Church Committee]] published the cable traffic in 1975.[^1]
@@ -28,7 +28,7 @@ Project FUBELT, known within the government as Track II, was the [[Central Intel
 
 The CIA spent three million dollars on the 1964 Chilean election in support of [[Eduardo Frei Montalva|Eduardo Frei]], and the [[303 Committee]] and its successor approved 125,000 dollars and then 300,000 dollars for a "spoiling operation" against Allende's coalition in 1970. That July [[John McCone]], a former director of central intelligence who was a director of [[ITT Corporation|ITT]] and, by his own testimony, still "a consultant to the Agency," telephoned Director [[Richard Helms]]. A meeting followed between ITT's chairman, [[Harold Geneen]], and [[William Broe]], chief of the agency's [[CIA Western Hemisphere Division|Western Hemisphere Division]]. Geneen offered up to one million dollars. The agency declined the money and advised the company on secure channels, through which ITT passed at least 350,000 dollars to the campaign of [[Jorge Alessandri]]. Other American companies gave about as much.[^2][^3]
 
-On September 4, 1970, Allende won 36.3 percent of the vote to Alessandri's 35.3 percent, a margin of 39,000 votes in three million, which sent the choice to the [[National Congress of Chile|Chilean Congress]] on October 24. On September 9 the 40 Committee gave Ambassador [[Edward Korry]] 250,000 dollars to influence that vote.[^2]
+On September 4, 1970, Allende won 36.3 percent of the vote to Alessandri's 35.3 percent, a margin of 39,000 votes in three million, which sent the choice to the [[National Congress of Chile|Chilean Congress]] on October 24. On September 14 the 40 Committee authorized a contingency fund of 250,000 dollars, to be handled by Ambassador [[Edward Korry]], to swing congressional votes to Alessandri; the only proposal discussed, to bribe Chilean congressmen, was soon judged unworkable, and the money was never spent.[^2]
 
 ### September 15
 

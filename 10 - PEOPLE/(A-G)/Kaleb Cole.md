@@ -11,12 +11,12 @@ tags:
   - RussianImperialMovement
   - USA
 created: 2026-05-21
-updated: 2026-05-22
+updated: 2026-09-23
 summary: "Kaleb Cole was a Washington state-based Atomwaffen Division leader who received paramilitary training from the Russian Imperial Movement in St. Petersburg in 2018, ran a coordinated intimidation campaign against journalists and activists, and was convicted of civil rights conspiracy and sentenced to 84 months in federal prison."
 location: "Washington State"
 ---
 
-[[Kaleb Cole]] was a Washington state-based [[Atomwaffen Division]] leader who rose to prominence within the organization following [[Brandon Russell]]'s 2018 imprisonment and ran a sustained intimidation campaign targeting journalists, civil rights workers, and others who reported on or monitored AWD's activities. In 2018 he traveled to [[Russia]] for paramilitary training with the [[Russian Imperial Movement]] at their [[Partizan]] camp in [[St. Petersburg]]. He was convicted in federal court of civil rights conspiracy charges and sentenced to 84 months (seven years) in federal prison.[^1]
+Kaleb Cole was a Washington state-based [[Atomwaffen Division]] leader who rose to prominence within the organization following [[Brandon Russell]]'s 2018 imprisonment and ran a sustained intimidation campaign targeting journalists, civil rights workers, and others who reported on or monitored AWD's activities. In 2018 he traveled to [[Russia]] for paramilitary training with the [[Russian Imperial Movement]] at their [[Partizan]] camp in [[St. Petersburg]]. He was convicted in federal court of civil rights conspiracy charges and sentenced to 84 months (seven years) in federal prison.[^1]
 
 ### Rise Within AWD
 
@@ -28,7 +28,7 @@ In 2018, Cole traveled to Europe with fellow AWD member [[Aiden Bruce-Umbaugh]] 
 
 After completing Partizan training, Cole and Bruce-Umbaugh traveled back through Ukraine into Poland and documented the trip with a photograph at [[Auschwitz]] concentration camp. The Russia trip is referenced in federal prosecution materials from both Cole's case (2:20-cr-00032, [[Western District of Washington]]) and Bruce-Umbaugh's case (5:19-cr-00130, [[Northern District of Texas]]), and is documented in investigative reporting on AWD's transnational connections.[^3]
 
-The RIM training represents the most documented instance of a senior AWD leader receiving in-person foreign paramilitary training from an organization later designated a terrorist entity by the U.S. government. The [[CTC West Point]] analysis of the skull-mask neo-fascist network notes that RIM also trained additional U.S. nationals affiliated with AWD at Partizan in approximately 2020, beyond the 2018 Cole/Bruce-Umbaugh trip.[^4]
+The RIM training represents the most documented instance of a senior AWD leader receiving in-person foreign paramilitary training from an organization later designated a terrorist entity by the U.S. government.
 
 ### Intimidation Campaign
 
@@ -45,4 +45,3 @@ Cole was convicted by a federal jury in the Western District of Washington on al
 [^1]: U.S. Department of Justice, OPA. "Member of Violent Extremist Group Sentenced to 84 Months for Civil Rights Conspiracy." https://www.justice.gov/opa/pr/member-violent-extremist-group-sentenced-84-months-civil-rights-conspiracy
 [^2]: Malcontent News. "Washington's Defunct Atomwaffen Division had Deep Ties to the Terrorist Org, Russia Imperialist Movement." July 4, 2022. https://malcontentment.com/washingtons-defunct-atomwaffen-division-had-deep-ties-to-the-terrorist-org-russia-imperialist-movement/; Cipher Brief. "Examining Atomwaffen Division's Transnational Linkages." https://www.thecipherbrief.com/column_article/examining-atomwaffen-divisions-transnational-linkages
 [^3]: GovInfo. USA v. Bruce-Umbaugh, 5:19-cr-00130 (N.D. Tex.). https://www.govinfo.gov/app/details/USCOURTS-txnd-5_19-cr-00130/USCOURTS-txnd-5_19-cr-00130-0
-[^4]: CTC West Point. "The Iron March Forum and the Evolution of the 'Skull Mask' Neo-Fascist Network." https://ctc.westpoint.edu/the-iron-march-forum-and-the-evolution-of-the-skull-mask-neo-fascist-network/
