@@ -10,7 +10,6 @@ alias:
   - Anna Ferkuniak
   - Anna M. Horsch
   - Myroslawa Anna Ferkuniak
-  - Anna Stokowski
 summary: "Welsh-born wife of the fugitive R.C. Horsch, whom she married in Nevada under his stolen name and accompanied to New Zealand, and mother of Eugene Horsch."
 died: 1989-07-28
 location: "Philadelphia, Pennsylvania"

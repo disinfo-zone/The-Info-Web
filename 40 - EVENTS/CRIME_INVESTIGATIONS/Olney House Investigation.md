@@ -16,7 +16,7 @@ summary: "Philadelphia police and FBI investigation, opened in June 2026, into s
 start: 2026-06-19
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 The Olney House Investigation is a joint inquiry by the [[Philadelphia Police Department]] and the [[Federal Bureau of Investigation|FBI]] into the disappearance of at least seven women connected to 417 West Chew Avenue in the [[Olney, Philadelphia|Olney]] section of [[Philadelphia]], the home of the pornographic filmmaker [[R.C. Horsch]], who died in May 2025, and of his son [[Eugene Horsch]]. It began with a parking stop on June 19, 2026. Police have said that video and photographs taken from the house show five women who appear to be dead. No body has been recovered and no one has been charged with a homicide.[^1][^2]
@@ -29,7 +29,7 @@ The house at 417 West Chew Avenue was the home of Raymond Horsch's paternal gran
 
 Police entered Horsch properties three times before 2026. In 2009 officers in [[New Britain Township, Pennsylvania]], searching Raymond Horsch's house after a woman there reported noises, found 455 marijuana plants, firearms, pornography showing women who appeared to be bleeding, and identification cards belonging to several women. The former chief, [[Robert Scafidi]], said the district attorney's office took the cards. "I really don't know what happened after that," he said. In 2013 Philadelphia police found about 1.9 million dollars' worth of marijuana in the Chew Avenue house, and Eugene Horsch was sentenced to four to eight years. In May 2025, the month Raymond Horsch died, a fire at the house brought narcotics officers, who recorded marijuana plants, firearms, and containers of chemicals. Eugene Horsch received three years of probation on drug counts.[^6][^7][^8][^9]
 
-[[Gabrielle Amarando]] disappeared in 2012 at 22. [[Amy McHale]], Raymond Horsch's fourth wife, was last seen at the house in 2016, at 44, according to her family.[^10] [[Nicole Fusaro]], 27, was last seen in [[Kensington, Philadelphia|Kensington]] on July 19, 2018, and [[Maribel Fresses]] disappeared the same year. [[Blair Tonzelli]], 35, was reported missing in February 2023. A photograph of Tonzelli, nude, with an apparent black eye and blood near her mouth, ran as a lead image on Raymond Horsch's website from about 2020 until at least September 2023. From about 2017 to 2021 the same website advertised an escort service whose client reviews describe visits to the house.[^1][^9][^11][^12]
+[[Gabrielle Amarando]] disappeared in 2012 at 22. [[Amy McHale]], Raymond Horsch's third wife, married to him from 2004 to 2008, was last seen at the house in 2016, at 44, according to her family.[^10] [[Nicole Fusaro]], 27, was last seen in [[Kensington, Philadelphia|Kensington]] on July 19, 2018, and [[Maribel Fresses]] disappeared the same year. [[Blair Tonzelli]], 35, was reported missing in February 2023. A photograph of Tonzelli, nude, with an apparent black eye and blood near her mouth, ran as a lead image on Raymond Horsch's website from about 2020 until at least September 2023. From about 2017 to 2021 the same website advertised an escort service whose client reviews describe visits to the house.[^1][^9][^11][^12]
 
 ### The Stop at Independence Mall
 
