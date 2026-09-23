@@ -4,7 +4,7 @@ aliases:
   - Nugan Hand Bank
   - Nugan Hand Ltd
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Private Organization"
 tags:
   - Organization
@@ -48,7 +48,7 @@ Australian government investigators and Kwitny’s reporting identified several 
 
 The bank operated branches in thirteen countries including Australia, [[Hong Kong]], Taiwan, the Philippines, Thailand, Singapore, the United States (Hawaii and Washington), Saudi Arabia, the Cayman Islands, and Bermuda. Its offshore structure was designed to obscure the origins and movement of funds across jurisdictions with limited regulatory cooperation.[^1]
 
-The bank was alleged to have laundered proceeds from [[Golden Triangle]] opium and heroin trafficking through its Southeast Asian branches, particularly in Thailand and Hong Kong. The connection between CIA-linked operations in the Golden Triangle region, Air America’s acknowledged transport activities, and the bank’s financial flows was documented but not legally established in terms of criminal liability.[^1]
+The journalist Jonathan Kwitny wrote that the bank laundered proceeds from [[Golden Triangle]] opium and heroin trafficking through its Southeast Asian branches, particularly in Thailand and Hong Kong. The connection between CIA-linked operations in the Golden Triangle region, Air America’s acknowledged transport activities, and the bank’s financial flows was documented but not legally established in terms of criminal liability.[^1]
 
 The bank also handled financial transfers for covert operations. Kwitny documented that Nugan Hand managed accounts for clients in multiple countries who appeared to be receiving or disbursing funds for intelligence-related purposes. The specific operations are difficult to fully document because the bank’s records were largely destroyed or disappeared after its collapse.[^1]
 

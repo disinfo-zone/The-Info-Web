@@ -4,7 +4,7 @@ aliases:
   - PROMIS
   - Prosecutor's Management Information System
 created: 2024-04-25
-updated: 2026-05-17
+updated: 2026-09-22
 tags:
   - PROMIS
   - INSLAW
@@ -88,7 +88,7 @@ Multiple sources allege that U.S. and Israeli intelligence agencies modified PRO
 
 [[Michael Riconosciuto]] claimed he was tasked with installing the backdoor at the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation|Cabazon]] joint venture in Indio, California, working from software obtained through Earl Brian and Peter Videnieks. A separate account, drawn from Israeli intelligence sources and reported in Gordon Thomas's *Gideon's Spies* (1999), holds that [[Rafael Eitan]] of [[LAKAM]] directed Israeli technicians to embed a "trapdoor" microchip in PROMIS after acquiring the software through back channels from the DOJ, with the modified software then distributed internationally through British media proprietor [[Robert Maxwell]] and his Israeli computer firm [[Degem]].[^3]
 
-Alleged foreign intelligence and law enforcement users of the backdoored PROMIS include agencies in [[Israel]], [[Canada]] (the [[Royal Canadian Mounted Police|RCMP]] and [[Canadian Security Intelligence Service|CSIS]]), the [[United Kingdom]], [[Australia]], [[South Korea]], [[Iraq]], [[Jordan]], [[Libya]], [[Poland]], [[South Africa]], and the [[Soviet Union]]. International financial institutions alleged to have received PROMIS-derived systems include BCCI, [[Banco Nazionale del Lavoro]], the [[HSBC|Hong Kong and Shanghai Banking Corporation]], [[UBS|Union Bank of Switzerland]], and [[Bank of America]]. Total sales through the Maxwell network were alleged to exceed $500 million.[^3][^4]
+Alleged foreign intelligence and law enforcement users of the backdoored PROMIS include agencies in [[Israel]], [[Canada]] (the [[Royal Canadian Mounted Police|RCMP]] and [[Canadian Security Intelligence Service|CSIS]]), the [[United Kingdom]], [[Australia]], [[South Korea]], [[Iraq]], [[Jordan]], [[Libya]], [[Poland]], [[South Africa]], and the [[Soviet Union]]. International financial institutions alleged to have received PROMIS-derived systems include BCCI, [[Banco Nazionale del Lavoro]], the [[HSBC|Hong Kong and Shanghai Banking Corporation]], [[UBS|Union Bank of Switzerland]], and [[Bank of America]]. Gordon Thomas and [[Ari Ben-Menashe]] put total sales through the Maxwell network at more than $500 million.[^3][^4]
 
 The [[Bua Report]] (1993) and a subsequent DOJ review (1994) found no credible evidence that enhanced PROMIS was distributed internationally, concluding that only public-domain versions of the software had been shared with foreign entities.[^1]
 

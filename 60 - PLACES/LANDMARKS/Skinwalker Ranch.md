@@ -20,7 +20,7 @@ One of the most disturbing phenomena associated with the ranch is the "hitchhike
 
 ### The Blue Orbs
 
-One of the most dangerous phenomena reported at the ranch are the blue orbs. In one incident, two dogs owned by a rancher chased a blue orb into a field and were vaporized, leaving behind only grease spots on the sagebrush. The orbs are believed to emit a form of directed energy that can be harmful or even lethal to living tissue.[^1]
+One of the most dangerous phenomena reported at the ranch are the blue orbs. In one incident, two dogs owned by a rancher chased a blue orb into a field and were vaporized, leaving behind only grease spots on the sagebrush. [[Luis Elizondo]] wrote that the orbs emit a form of directed energy that can be harmful or even lethal to living tissue.[^1]
 
 ### Connection to AATIP
 

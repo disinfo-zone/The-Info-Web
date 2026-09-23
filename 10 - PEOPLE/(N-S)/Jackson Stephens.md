@@ -18,14 +18,14 @@ born: 1923
 died: 2005
 location: "Little Rock, Arkansas"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 Jackson T. Stephens (1923 to 2005) ran the investment bank [[Stephens Inc.]] of [[Little Rock, Arkansas|Little Rock]] from 1957. He was a classmate of [[Jimmy Carter]] at the [[United States Naval Academy]], class of 1947, underwrote the first public offering of [[Walmart]], and was chairman of [[Augusta National Golf Club]] from 1991 to 1998. In 1977 he introduced the [[Bank of Credit and Commerce International]] to the American bank it would secretly acquire. He and his firm gave to [[Ronald Reagan]], [[George H.W. Bush]], and [[Bill Clinton]].[^1][^2]
 
 ### Financial General
 
-In 1977 Stephens Inc. held 268,400 shares, 4.9 percent, of [[Financial General Bankshares]] of Washington as part of a dissident group of investors. Stephens was alleged to want the bank's data processing for his subsidiary [[Systematics Inc.]], which he denied. He was also helping his friend [[Bert Lance]], who had resigned as Carter's budget director, to sell the [[National Bank of Georgia]]. On November 9, 1977, Lance, Stephens, and a Stephens officer, [[Curt Bradbury]], met [[Abdus Sami]] of the Bank of Credit and Commerce in Little Rock. The buyer of the Georgia bank was [[Ghaith Pharaon]], acting for the Pakistani bank. A federal court found that its founder, [[Agha Hasan Abedi]], became interested in Financial General "through his contact with Stephens on another matter," and that in November 1977 Stephens recommended the Washington lawyer [[Eugene Metzger]] to a foreign bank interested in the stock.[^2][^3]
+In 1977 Stephens Inc. held 268,400 shares, 4.9 percent, of [[Financial General Bankshares]] of Washington as part of a dissident group of investors. Financial General's management alleged that Stephens wanted the bank's data processing for his subsidiary [[Systematics Inc.]], which he denied. He was also helping his friend [[Bert Lance]], who had resigned as Carter's budget director, to sell the [[National Bank of Georgia]]. On November 9, 1977, Lance, Stephens, and a Stephens officer, [[Curt Bradbury]], met [[Abdus Sami]] of the Bank of Credit and Commerce in Little Rock. The buyer of the Georgia bank was [[Ghaith Pharaon]], acting for the Pakistani bank. A federal court found that its founder, [[Agha Hasan Abedi]], became interested in Financial General "through his contact with Stephens on another matter," and that in November 1977 Stephens recommended the Washington lawyer [[Eugene Metzger]] to a foreign bank interested in the stock.[^2][^3]
 
 Abedi retained Metzger at a Hilton hotel in Washington on November 30. The purchases for the bank's clients were run from day to day by [[George H. Davis]], "an officer of Stephens, Inc.," who was authorized to buy up to 10,000 shares a day so as not to move the price. The stock was placed in an account at Stephens Inc. opened under the name "Eugene J. Metzger, Agent," in the court's words "to shield the identity of the BCCI principals." On January 6, 1978, Stephens Inc. sold 70,000 of its own shares into the accumulation, which by the end of the month held nearly 20 percent of the votes. When the bank's officers were first asked, they "flatly denied making any purchases."[^2][^3]
 

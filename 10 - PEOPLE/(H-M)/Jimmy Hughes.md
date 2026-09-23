@@ -48,7 +48,7 @@ Hughes was held without bail for nearly nine months. On July 1, 2010, Deputy Att
 
 ### Honduras
 
-Hughes joined the [[Full Gospel Business Men's Fellowship International]] in 1987 and founded Jimmy Hughes Ministries, Free the Oppressed, in Honduras, where he ministered to and trained military personnel at Zambrano. In February 2008 he spoke at a fellowship dinner in Fresno, California, with General [[Daniel Lopez Carballo]] of Honduras. He was alleged to have been involved in planning the June 2009 [[Honduras coup|coup]] that removed President [[Manuel Zelaya]]; its leaders, Generals [[Romeo Vasquez Velasquez]] and Lopez Carballo, who installed [[Roberto Micheletti]], were members of the fellowship and friends of Hughes.[^2]
+Hughes joined the [[Full Gospel Business Men's Fellowship International]] in 1987 and founded Jimmy Hughes Ministries, Free the Oppressed, in Honduras, where he ministered to and trained military personnel at Zambrano. In February 2008 he spoke at a fellowship dinner in Fresno, California, with General [[Daniel Lopez Carballo]] of Honduras. The writer Cheri Seymour wrote that he was involved in planning the June 2009 [[Honduras coup|coup]] that removed President [[Manuel Zelaya]]; its leaders, Generals [[Romeo Vasquez Velasquez]] and Lopez Carballo, who installed [[Roberto Micheletti]], were members of the fellowship and friends of Hughes.[^2]
 
 ### Footnotes
 

@@ -4,7 +4,7 @@ aliases:
   - Cali Drug Cartel
   - Cali Cartel
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Organized Crime"
 tags:
   - Organization
@@ -16,7 +16,7 @@ summary: "Powerful Colombian drug trafficking organization based in Cali, descri
 location: "Cali, Colombia"
 ---
 
-The Cali Drug Cartel was a powerful Colombian drug trafficking organization based in [[Cali, Colombia|Cali]], described in a 1994 *Time* magazine article as controlling 80% of the world's cocaine trade. Its key leaders included [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]].[[Norwin Meneses]] is believed to have been the cartel's representative in [[Nicaragua]].[^1][^3][^5]
+The Cali Drug Cartel was a powerful Colombian drug trafficking organization based in [[Cali, Colombia|Cali]], described in a 1994 *Time* magazine article as controlling 80% of the world's cocaine trade. Its key leaders included [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]]. The journalist Gary Webb described [[Norwin Meneses]] as the cartel's representative in [[Nicaragua]].[^1][^3][^5]
 
 ### Drug Trafficking and Political Influence
 
@@ -30,7 +30,7 @@ The cartel's connection to the Contra drug network ran through Meneses's organiz
 
 ### Connection to the Dark Alliance Network
 
-[[Danilo Blandon|Danilo Blandón]]'s supplier [[Aparicio Moreno]] was a Colombian with reported ties to both the [[FDN]] and the CIA.[^3] [[Rafael Cornejo]] was alleged to be involved in a major cocaine pipeline running from Cali to several West Coast cities. The Meneses organization's supply chain originated with the Colombian cartels.[^4]
+[[Danilo Blandon|Danilo Blandón]]'s supplier [[Aparicio Moreno]] was a Colombian with reported ties to both the [[FDN]] and the CIA.[^3] Webb wrote that [[Rafael Cornejo]] was involved in a major cocaine pipeline running from Cali to several West Coast cities. The Meneses organization's supply chain originated with the Colombian cartels.[^4]
 
 ### Intelligence Connections
 

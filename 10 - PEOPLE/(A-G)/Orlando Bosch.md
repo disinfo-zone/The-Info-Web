@@ -12,7 +12,7 @@ tags:
 summary: "Cuban exile pediatrician trained by the CIA in 1960 who turned to bombing, lived under the protection of Pinochet's Chile, founded CORU in 1976, and was named that October in the Cubana airliner bombing."
 location: "Miami, Florida"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 Orlando Bosch was a Cuban pediatrician, trained in [[Toledo, Ohio]], who fought briefly against [[Fulgencio Batista]] in the Escambray and then left [[Cuba]]. "In 1960 the [[Central Intelligence Agency|CIA]] had placed him and his followers in the [[Everglades]] for training." After the [[Bay of Pigs Invasion|Bay of Pigs]] he denounced the agency. "We have a right to work for Cuba here or anywhere in the world," he said in 1966. "If the CIA breaks the laws, and Kennedy broke the laws, why can't we do the same?"[^1]
@@ -23,7 +23,7 @@ In the summer of 1967 federal officers caught Bosch and his men firing a bazooka
 
 ### Chile
 
-In December 1974 Bosch entered [[Chile]] with [[Guillermo Novo]] and [[Jose Dionisio Suarez]] of the [[Cuban Nationalist Movement]], who had come "to pay homage to Pinochet." He lived there for more than a year, and was reported to have met General [[Augusto Pinochet]]. In February 1976 he was arrested in [[Costa Rica]] on "a false Chilean official passport in the name of Hector Davanzo Cintolesi," with a mission to kill [[Andres Pascal Allende|Andrés Pascal Allende]] of the Chilean [[Movimiento de Izquierda Revolucionaria|MIR]]. That June he and [[Frank Castro]] brought some twenty men to Bonao in the [[Dominican Republic]] and formed the Commando of United Revolutionary Organizations, [[CORU]]. "We were conspiring there. Planning bombings and killings," he told an interviewer from prison. "Everything was planned there."[^1]
+In December 1974 Bosch entered [[Chile]] with [[Guillermo Novo]] and [[Jose Dionisio Suarez]] of the [[Cuban Nationalist Movement]], who had come "to pay homage to Pinochet." He lived there for more than a year, and, according to John Dinges and Saul Landau, met General [[Augusto Pinochet]]. In February 1976 he was arrested in [[Costa Rica]] on "a false Chilean official passport in the name of Hector Davanzo Cintolesi," with a mission to kill [[Andres Pascal Allende|Andrés Pascal Allende]] of the Chilean [[Movimiento de Izquierda Revolucionaria|MIR]]. That June he and [[Frank Castro]] brought some twenty men to Bonao in the [[Dominican Republic]] and formed the Commando of United Revolutionary Organizations, [[CORU]]. "We were conspiring there. Planning bombings and killings," he told an interviewer from prison. "Everything was planned there."[^1]
 
 ### Caracas
 

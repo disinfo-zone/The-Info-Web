@@ -5,7 +5,7 @@ aliases:
   - Ollie North
   - Oliver Laurence North
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Key Figures"
 tags:
   - Person
@@ -22,7 +22,7 @@ Oliver North was a Marine lieutenant colonel and National Security Council staff
 
 ### Iran-Contra and the Octopus
 
-North was alleged to have received drug profits from [[Monzer Al-Kassar]], a Syrian kingpin and arms dealer, to purchase arms for the Nicaraguan Contras. The [[United States]] Tower Commission probe into Iran-gate revealed that Al-Kassar had been paid $1.2 million by North's co-conspirator General [[Richard Secord]] to move weapons from [[Israel]] to the Contras.[^1]
+The writer Cheri Seymour wrote that North received drug profits from [[Monzer Al-Kassar]], a Syrian kingpin and arms dealer, to purchase arms for the Nicaraguan Contras. The [[United States]] Tower Commission probe into Iran-gate revealed that Al-Kassar had been paid $1.2 million by North's co-conspirator General [[Richard Secord]] to move weapons from [[Israel]] to the Contras.[^1]
 
 [[Bill Turner]], a friend and confidante of [[Danny Casolaro]], claimed to have seen papers from Casolaro that connected North and the [[Bank of Credit and Commerce International|BCCI]]. North's personal notebooks documenting the Iran-Contra Affair also contained [[Ian Stuart Spiro]]'s name.[^1]
 

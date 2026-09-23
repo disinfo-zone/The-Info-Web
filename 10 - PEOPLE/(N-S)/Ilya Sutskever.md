@@ -14,7 +14,7 @@ summary: "Ilya Sutskever is the deep-learning researcher who co-built AlexNet un
 born: 1986-12-08
 location: "Palo Alto, California"
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-22
 ---
 
 Ilya Sutskever (born December 8, 1986) is a machine-learning researcher who cofounded [[OpenAI]] and served as its chief scientist until 2024, and who cofounded the lab [[Safe Superintelligence]] in June 2024. Born in Nizhny Novgorod in the [[Soviet Union]], he emigrated to [[Israel]] as a child and later to Canada, and took his doctorate at the [[University of Toronto]] under [[Geoffrey Hinton]], with whom he built the 2012 neural network AlexNet that is widely credited with igniting the modern deep-learning era. He was one of the directors who voted to fire OpenAI chief executive [[Sam Altman]] on November 17, 2023, then publicly reversed himself days later, and he departed the company in May 2024.[^1][^2]
@@ -27,7 +27,7 @@ In 2015 Sutskever left Google to become a cofounder and the chief scientist of O
 
 ### The November 2023 Board Crisis
 
-On November 17, 2023, OpenAI's nonprofit board removed Altman as chief executive, saying he had not been "consistently candid" in his communications with the directors. Sutskever was one of the four voting directors who ousted him, alongside [[Adam D'Angelo]], [[Tasha McCauley]], and [[Helen Toner]], the latter two tied to the [[Effective Altruism]] movement, and he was reported to have delivered the news to Altman. The board's stated concern centered on the pace of commercialization relative to safety, and the episode was read across the industry as a clash between OpenAI's safety-focused governance and its commercial trajectory.[^4][^5]
+On November 17, 2023, OpenAI's nonprofit board removed Altman as chief executive, saying he had not been "consistently candid" in his communications with the directors. Sutskever was one of the four voting directors who ousted him, alongside [[Adam D'Angelo]], [[Tasha McCauley]], and [[Helen Toner]], the latter two tied to the [[Effective Altruism]] movement, and, *Bloomberg* reported, he delivered the news to Altman. The board's stated concern centered on the pace of commercialization relative to safety, and the episode was read across the industry as a clash between OpenAI's safety-focused governance and its commercial trajectory.[^4][^5]
 
 Within days the move collapsed. Roughly 700 OpenAI employees signed a letter threatening to resign and follow Altman to [[Microsoft]], and on November 20 Sutskever signed that letter and posted on the platform X that he "deeply regret[ted]" his participation in the board's actions and would do everything he could to reunite the company. Altman was reinstated under a reconstituted board, and Sutskever lost his board seat while remaining an employee. He largely vanished from public view in the months that followed before announcing his departure on May 14, 2024, thanking the company and saying he was confident OpenAI would build artificial general intelligence that is "safe and beneficial."[^4][^5]
 

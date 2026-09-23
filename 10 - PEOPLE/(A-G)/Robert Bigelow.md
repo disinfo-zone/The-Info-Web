@@ -18,7 +18,7 @@ Bigelow has had a lifelong obsession with UAP and paranormal occurrences, and he
 
 Through his friendship with Senator [[Harry Reid]], Bigelow became a central figure in the establishment of AAWSAP. His company, BAASS, was awarded the $22 million contract to conduct research for the program. BAASS was responsible for investigating UAP incidents, including the [[Colares Incidents]] in Brazil, and for compiling a massive database of UAP encounters. The company also continued the investigation of [[Skinwalker Ranch]] under the auspices of the AATIP program.[^1]
 
-Bigelow's involvement was crucial to the operation of AATIP, and he is said to have spent his own money to front some of the costs for the program. However, his role as a private contractor also drew scrutiny from within the [[Pentagon]] and was used by detractors to create a false impression that the program had gone rogue.[^1]
+Bigelow's involvement was crucial to the operation of AATIP, and [[Luis Elizondo]] wrote that he spent his own money to front some of the program's costs. However, his role as a private contractor also drew scrutiny from within the [[Pentagon]] and was used by detractors to create a false impression that the program had gone rogue.[^1]
 
 ### Footnotes
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.

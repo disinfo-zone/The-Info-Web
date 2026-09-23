@@ -3,7 +3,7 @@ title: Nicaragua
 aliases:
   - Nicaragua
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Country"
 tags:
   - Geography
@@ -33,7 +33,7 @@ Nicaragua became the battleground for a proxy war between the U.S.-backed Contra
 
 ### Drug Trafficking Hub
 
-Norwin Meneses was believed to be the [[Cali Drug Cartel|Cali cartel]]'s representative in Nicaragua. Danilo Blandón owned hotels and casinos in the country and partnered with Jairo Meneses in operations there. A 1991 seizure of 764 kilos of cocaine in Nicaragua was linked to Blandón. Meneses was arrested in [[Managua]] in 1991 and sentenced to twelve years. [[Georg Hodel]] and [[Gary Webb]] interviewed him at Tipitapa Prison outside Managua in 1996.[^1]
+The journalist Gary Webb described Norwin Meneses as the [[Cali Drug Cartel|Cali cartel]]'s representative in Nicaragua. Danilo Blandón owned hotels and casinos in the country and partnered with Jairo Meneses in operations there. A 1991 seizure of 764 kilos of cocaine in Nicaragua was linked to Blandón. Meneses was arrested in [[Managua]] in 1991 and sentenced to twelve years. [[Georg Hodel]] and [[Gary Webb]] interviewed him at Tipitapa Prison outside Managua in 1996.[^1]
 
 ### Footnotes
 

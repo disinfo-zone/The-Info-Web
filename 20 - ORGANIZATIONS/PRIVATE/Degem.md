@@ -7,7 +7,7 @@ tags:
   - PROMIS
 category: "Private Organization"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-09-22
 alias:
   - Degem Computers
   - Degem Systems
@@ -22,7 +22,7 @@ Maxwell acquired Degem after its previous owner, [[Yaacov Meridor]], faced a sca
 
 Through Degem, Maxwell sold PROMIS-derived software to agencies in the United Kingdom, Australia, Canada, South Korea, Poland, Brazil, Chile, Colombia, and Nicaragua. In 1985, an abridged version was sold to [[Credit Suisse]], providing intelligence access to Israeli accounts held there. In the late 1980s, Degem technicians installed the trapdoor-equipped software on IBM computers delivered to the Soviet Union, an arrangement facilitated by the lifting of IBM export restrictions.[^1]
 
-In Guatemala, Degem worked through [[Manfred Herrmann]]'s Sedra company to deploy PROMIS terminals at offices, railway stations, airports, and remote roadblocks, contributing to a surveillance system tracking suspected dissidents. In Transkei, Degem's implementation of PROMIS was alleged to have been used as a tool against black revolutionary groups including the [[African National Congress]], providing information that led to the detention, disappearance, or death of activists.[^1]
+In Guatemala, Degem worked through [[Manfred Herrmann]]'s Sedra company to deploy PROMIS terminals at offices, railway stations, airports, and remote roadblocks, contributing to a surveillance system tracking suspected dissidents. [[Ari Ben-Menashe]] alleged that in Transkei Degem's implementation of PROMIS was used as a tool against black revolutionary groups including the [[African National Congress]], providing information that led to the detention, disappearance, or death of activists.[^1]
 
 ### Official Findings
 

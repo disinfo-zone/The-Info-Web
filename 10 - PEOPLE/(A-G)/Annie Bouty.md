@@ -26,7 +26,7 @@ Bouty was detained in 1996 in the Dutroux investigation.[^1] She was not among t
 
 ### Allegations
 
-In the [[X-Dossier]], compiled under [[Jean-Marc Connerotte]] and [[Michel Bourlet]], [[Regina Louf]] accused Bouty of taking part in sadomasochistic events. Her practice was said to overlap with the circles of [[Jean-Paul Dumont]] and the Lippens family and to have handled matters for Nihoul's companies, including [[Achats Services Commerces|ASCO]], and her statements to have described Nihoul's specifications for victims, the filming of parties for blackmail, his connections to [[Paul Vanden Boeynants]] and the Lippens family, and links to [[CRIES]] and [[UNICEF]] through Dumont.[^1]
+In the [[X-Dossier]], compiled under [[Jean-Marc Connerotte]] and [[Michel Bourlet]], [[Regina Louf]] accused Bouty of taking part in sadomasochistic events. The writer S. Dovey wrote that her practice overlapped with the circles of [[Jean-Paul Dumont]] and the Lippens family and handled matters for Nihoul's companies, including [[Achats Services Commerces|ASCO]], and that her statements described Nihoul's specifications for victims, the filming of parties for blackmail, his connections to [[Paul Vanden Boeynants]] and the Lippens family, and links to [[CRIES]] and [[UNICEF]] through Dumont.[^1]
 
 ### Footnotes
 

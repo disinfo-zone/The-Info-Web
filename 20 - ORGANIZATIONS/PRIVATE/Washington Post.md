@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "The Washington Post"
 category: "Private Organization"
 tags:
   - Organization

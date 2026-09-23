@@ -3,7 +3,7 @@ title: Colombia
 aliases:
   - Colombia
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Country"
 tags:
   - Geography
@@ -29,7 +29,7 @@ The Cali Drug Cartel, led by figures like [[Gilberto Rodriguez Orejuela|Gilberto
 
 ### Cartel Connections
 
-Meneses was believed to have been the Cali cartel's representative in [[Nicaragua]]. Blandón's cocaine sources included the politically connected Suarez family in [[Bolivia]] and the Ochoa family in Colombia, founders of the Medellín cartel. [[Marcos Aguado]] flew weapons from the Salvadoran military to the Colombian cartels.[^3]
+The journalist Gary Webb described Meneses as the Cali cartel's representative in [[Nicaragua]]. Blandón's cocaine sources included the politically connected Suarez family in [[Bolivia]] and the Ochoa family in Colombia, founders of the Medellín cartel. [[Marcos Aguado]] flew weapons from the Salvadoran military to the Colombian cartels.[^3]
 
 ### Supply Pipeline
 

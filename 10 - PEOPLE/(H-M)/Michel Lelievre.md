@@ -23,7 +23,7 @@ On June 17, 2004, the jury convicted Lelièvre of taking part in a criminal asso
 
 ### Statements Attributed to Him
 
-He was said to have been born in 1967, to have met Dutroux in 1995 through a mutual acquaintance, to have been an unemployed man with a minor record, and to have been paid in drugs. He was described as having blocked Sabine's path near her school while Dutroux seized her, and as having waited in the vehicle during Laetitia's abduction. He was said to have told investigators of Dutroux's drugging and hypnosis of victims, of seeing An and Eefje naked and made to clean tiles, of a man in a Mercedes who came to the house demanding money after seeing them, of girls ordered by [[Jean-Michel Nihoul]] from [[Slovakia]] and the Czech Republic, and of Dutroux's boast of raping and abandoning a girl near Trenčín.[^1]
+The writer S. Dovey wrote that he was born in 1967, met Dutroux in 1995 through a mutual acquaintance, was an unemployed man with a minor record, and was paid in drugs; that he blocked Sabine's path near her school while Dutroux seized her and waited in the vehicle during Laetitia's abduction; and that he told investigators of Dutroux's drugging and hypnosis of victims, of seeing An and Eefje naked and made to clean tiles, of a man in a Mercedes who came to the house demanding money after seeing them, of girls ordered by [[Jean-Michel Nihoul]] from [[Slovakia]] and the Czech Republic, and of Dutroux's boast of raping and abandoning a girl near Trenčín.[^1]
 
 ### Footnotes
 

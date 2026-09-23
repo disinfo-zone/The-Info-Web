@@ -7,7 +7,7 @@ tags:
 summary: "The Gokal brothers, Abbas Gokal, Murtaza Gokal, and Mustafa Gokal, were Pakistani businessmen who ran the Gulf Group, a London-based shipping company."
 ---
 
-The Gokal brothers, [[Abbas Gokal]], [[Murtaza Gokal]], and [[Mustafa Gokal]], were [[Pakistan|Pakistani]] businessmen who ran the [[Gulf Group]], a [[London]]-based shipping company.[^1] They were closely associated with [[Agha Hasan Abedi]] and the [[Bank of Credit and Commerce International|BCCI]], and were believed to be BCCI's largest debtor.[^1]
+The Gokal brothers, [[Abbas Gokal]], [[Murtaza Gokal]], and [[Mustafa Gokal]], were [[Pakistan|Pakistani]] businessmen who ran the [[Gulf Group]], a [[London]]-based shipping company.[^1] They were closely associated with [[Agha Hasan Abedi]] and the [[Bank of Credit and Commerce International|BCCI]], and, according to the journalists Jonathan Beaty and S. C. Gwynne, were BCCI's largest debtor.[^1]
 
 ### Business Operations and BCCI Connections
 

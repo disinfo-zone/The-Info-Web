@@ -16,7 +16,7 @@ summary: "Prince Andrew is the second son of Queen Elizabeth II who befriended J
 born: 1960-02-19
 location: "London, United Kingdom"
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-22
 ---
 
 Andrew Mountbatten-Windsor (born February 19, 1960) is the second son of [[Elizabeth II|Queen Elizabeth II]] and [[Prince Philip|Prince Philip]]. He served in the Royal Navy, including during the 1982 Falklands War, and held the title Duke of York from his 1986 marriage to [[Sarah Ferguson|Sarah Ferguson]]. His association with [[Jeffrey Epstein|Jeffrey Epstein]] and [[Ghislaine Maxwell|Ghislaine Maxwell]] became the subject of sustained press coverage, a 2019 [[BBC|BBC]] interview, a 2021 civil lawsuit brought by [[Virginia Giuffre|Virginia Giuffre]], and a 2022 settlement. In late 2025 King [[Charles III|Charles III]] initiated the removal of Andrew's royal style and titles, after which he is known as Andrew Mountbatten-Windsor. Andrew has consistently denied Giuffre's allegations.[^1][^2]
@@ -33,7 +33,7 @@ Andrew served as a United Kingdom trade envoy, a Special Representative for Inte
 
 A photograph dated to March 2001 shows Andrew with his arm around the waist of Giuffre, then 17, with Maxwell standing behind them in a doorway. According to the account associated with the image and with Giuffre's later filings, the photograph was taken at Maxwell's home in the Belgravia district of London. The Mail on Sunday published a cropped version of the photograph in 2011 and the full image circulated in 2019.[^3]
 
-Giuffre said she had been flown to London by Epstein, had gone to the [[Tramp (nightclub)|Tramp]] nightclub with Andrew and others on the evening of March 10, 2001, and was then directed to have sex with Andrew at Maxwell's Belgravia house, an account Andrew has denied. Andrew questioned the photograph in public statements, saying in 2019 he had "no recollection" of the image being taken and could not confirm whether it had been doctored, while noting he was not in the habit of wearing the clothes shown. Maxwell, in her own statements, has at points cast doubt on the surrounding account. The original photograph was reported to be held by Giuffre's lawyers, and questions about the absence of the negative recurred in commentary.[^3]
+Giuffre said she had been flown to London by Epstein, had gone to the [[Tramp (nightclub)|Tramp]] nightclub with Andrew and others on the evening of March 10, 2001, and was then directed to have sex with Andrew at Maxwell's Belgravia house, an account Andrew has denied. Andrew questioned the photograph in public statements, saying in 2019 he had "no recollection" of the image being taken and could not confirm whether it had been doctored, while noting he was not in the habit of wearing the clothes shown. Maxwell, in her own statements, has at points cast doubt on the surrounding account. The *Mirror* reported that Giuffre's lawyers held the original photograph, and questions about the absence of the negative recurred in commentary.[^3]
 
 Andrew also addressed the photograph in the 2019 interview by saying the clothing and the setting did not match his recollection and by raising what he described as inconsistencies, while Maitlis pressed him on why he could not simply confirm or deny that he had been at the locations Giuffre described. He maintained that he had no memory of ever meeting Giuffre.[^4]
 

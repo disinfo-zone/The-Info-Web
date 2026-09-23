@@ -15,7 +15,17 @@ summary: "Son of the pornographer R.C. Horsch and owner of the Olney house searc
 born: 1981
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
+relations:
+  - type: relative_of
+    with: "[[R.C. Horsch]]"
+    role: "son"
+    fn: 2
+  - type: represented
+    with: "[[Jerome Brown]]"
+    reverse: true
+    start: 2026
+    fn: 7
 ---
 
 Eugene Albert Horsch (born 1981) is the son of the Philadelphia pornographic filmmaker [[R.C. Horsch]] and the owner since 2006 of the house at 417 West Chew Avenue in [[Olney, Philadelphia|Olney]] that is the subject of the [[Olney House Investigation]]. He has been in custody since June 19, 2026, and faces two federal counts, possession of a firearm by a felon and possession of a fraudulent federal identification document. He has not been charged with any offense against the women whose disappearances the police connect to the house.[^1][^2]
@@ -34,7 +44,7 @@ In 2003, while a student at [[Drexel University]], Horsch caused a drunk-driving
 
 On the morning of June 19, 2026, a federal park ranger approached Horsch's BMW at a fire hydrant beside [[Independence National Historical Park]]. His passenger said he was going to hurt her. She carried an identification card in the name of [[Blair Tonzelli]], missing since 2023. In the car were two handguns with obliterated serial numbers, a switchblade, a baton, a cattle prod, crack cocaine, and [[Drug Enforcement Administration]] credentials with his photograph in the name Eugene Frederick Steiner. The search of his house produced forged FBI credentials and the computer used to make them.[^2][^5]
 
-A federal grand jury indicted him on July 9, 2026. State prosecutors withdrew their five counts on August 6. [[United States]] v. Horsch, No. 2:26-cr-00296, is before Judge [[John Milton Younge]] in the [[United States District Court for the Eastern District of Pennsylvania|Eastern District of Pennsylvania]]. A January trial date had been reported; on the defense's request the trial was postponed in September 2026 to begin no earlier than March 22.[^8] He is represented by [[Jerome Brown]], Maureen McCartney, and Justin Ashenfelter. Brown said: "We categorically deny that Eugene Horsch is a serial killer," "there's zero evidence right now that anyone was killed at that location," and "I'd be shocked if they found any harm related to those missing persons at that location."[^2][^4][^6][^7]
+A federal grand jury indicted him on July 9, 2026. State prosecutors withdrew their five counts on August 6. [[United States]] v. Horsch, No. 2:26-cr-00296, is before Judge [[John Milton Younge]] in the [[United States District Court for the Eastern District of Pennsylvania|Eastern District of Pennsylvania]]. A January trial date had been reported; on the defense's request the trial was postponed in September 2026 to begin no earlier than March 22.[^6] He is represented by [[Jerome Brown]], who had also defended his father in the federal case of 2009; the government's attorneys of record are Maureen McCartney and Justin Ashenfelter, who appear for the United States Attorney's Office in the district's grand jury and warrant matters.[^7] Brown said: "We categorically deny that Eugene Horsch is a serial killer," "there's zero evidence right now that anyone was killed at that location," and "I'd be shocked if they found any harm related to those missing persons at that location."[^2][^4][^8][^9]
 
 ### Footnotes
 
@@ -43,6 +53,7 @@ A federal grand jury indicted him on July 9, 2026. State prosecutors withdrew th
 [^3]: "Bucks County connection with Philly 'house of horror' case," *Yahoo News* (syndicated), 2026. https://www.yahoo.com/news/us/articles/bucks-county-connection-philly-house-091634860.html
 [^4]: "Who is Eugene Horsch? Man at Center of Philadelphia 'House of Horrors,'" *Newsweek,* 2026. https://www.newsweek.com/who-is-eugene-horsch-man-at-center-of-philadelphia-house-of-horrors-12459693
 [^5]: "Five takeaways from Philly missing women mystery connected to Raymond and Eugene Horsch," *The Philadelphia Inquirer,* August 4, 2026. https://www.inquirer.com/news/raymond-eugene-horsch-olney-missing-women-20260804.html
-[^6]: United States v. Horsch, No. 2:26-cr-00296 (E.D. Pa. filed July 8, 2026), docket via CourtListener / RECAP.
-[^7]: "Eugene Horsch Denies He's a Serial Killer as Philadelphia Cops Hunt for Missing Women," *Newsweek,* 2026. https://www.newsweek.com/philadelphia-obviously-serial-killer-former-fbi-agent-12457175
-[^8]: Charns, David. "Eugene Horsch trial delayed amid missing women investigations." *NBC10 Philadelphia,* September 22, 2026. https://www.nbcphiladelphia.com/news/local/eugene-horsch-trial-delayed-amid-philadelphia-missing-women-investigations/4467226/
+[^6]: Charns, David. "Eugene Horsch trial delayed amid missing women investigations." *NBC10 Philadelphia,* September 22, 2026. https://www.nbcphiladelphia.com/news/local/eugene-horsch-trial-delayed-amid-philadelphia-missing-women-investigations/4467226/
+[^7]: *United States v. Horsch,* Nos. 2:26-mj-01270 and 2:26-cr-00296, and *United States v. Horsch,* No. 2:09-cr-00794 (E.D. Pa.), docket metadata and attorney listings via CourtListener search. https://www.courtlistener.com/docket/73593607/united-states-v-horsch/
+[^8]: United States v. Horsch, No. 2:26-cr-00296 (E.D. Pa. filed July 8, 2026), docket via CourtListener / RECAP.
+[^9]: "Eugene Horsch Denies He's a Serial Killer as Philadelphia Cops Hunt for Missing Women," *Newsweek,* 2026. https://www.newsweek.com/philadelphia-obviously-serial-killer-former-fbi-agent-12457175

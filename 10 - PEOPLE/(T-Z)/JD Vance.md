@@ -17,7 +17,7 @@ summary: "JD Vance is an American politician, author, and venture capitalist who
 born: 1984-08-02
 location: "Middletown, Ohio (born); Ohio (political base)"
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-22
 ---
 
 JD Vance (born James Donald Bowman, August 2, 1984, in [[Middletown, Ohio|Middletown]], [[Ohio]]) is an American politician, author, and venture capitalist who served as U.S. Senator from Ohio from 2023 to 2025 and as Vice President of the United States from January 2025 under [[Donald Trump]]. Vance's political career was built on the financial backing of [[Peter Thiel]], who employed him at [[Mithril Capital]] from 2017, donated approximately fifteen million dollars to the [[Protect Ohio Values PAC|Protect Ohio Values]] super PAC supporting his 2022 Senate primary, and introduced him to the Trump network that produced his 2024 vice-presidential nomination. Vance's 2016 memoir *Hillbilly Elegy* made him a public figure before he held office.[^1][^2][^3]
@@ -50,7 +50,7 @@ The [[Campaign Legal Center]] filed a complaint with the [[Federal Election Comm
 
 ### The 2024 Vice-Presidential Nomination
 
-Trump selected Vance as his running mate on July 15, 2024, the opening day of the [[2024 Republican National Convention]] in [[Milwaukee]]. The selection was reported to have been brokered in part through the Thiel network: Thiel had advocated for Vance within the Trump orbit, and the prior five million dollars in additional super PAC spending and the Senate seat itself had established Vance as a viable national candidate within two years of his first run for office. Vance was elected Vice President on November 5, 2024, and inaugurated January 20, 2025.[^2]
+Trump selected Vance as his running mate on July 15, 2024, the opening day of the [[2024 Republican National Convention]] in [[Milwaukee]]. *CBS News* reported that the selection had been brokered in part through the Thiel network: Thiel had advocated for Vance within the Trump orbit, and the prior five million dollars in additional super PAC spending and the Senate seat itself had established Vance as a viable national candidate within two years of his first run for office. Vance was elected Vice President on November 5, 2024, and inaugurated January 20, 2025.[^2]
 
 Vance went from private citizen to U.S. Senator to Vice President within roughly three and a half years, on a financial base supplied by a single donor. No comparable single-donor-driven trajectory from outside office to the vice presidency exists in the modern period. The Protect Ohio Values PAC filings, the Campaign Legal Center complaint, and the OpenSecrets analysis together constitute the documentary record of the funding mechanism.[^1][^7][^9]
 

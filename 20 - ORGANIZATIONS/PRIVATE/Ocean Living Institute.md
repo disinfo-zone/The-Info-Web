@@ -31,7 +31,7 @@ At Richards's arrest in July 1976 police found a letter from Grossman proposing 
 
 ### The Grossman Letter
 
-Richards was said to have handed over the letter in August 1976, postmarked July 19, 1976, with the institute's return address, and it was said to have mentioned a twelve-year-old boy Grossman had obtained through a Big Brother program. The institute was described as a sea-steading project. Starchild was said to have been Malcolm Willis McConahy, an offshore tax attorney who faked his death in 1975, and a scoutmaster in Minneapolis expelled in 1965.[^1]
+The writer S. Dovey wrote that Richards handed over the letter in August 1976, postmarked July 19, 1976, with the institute's return address, and that it mentioned a twelve-year-old boy Grossman had obtained through a Big Brother program. The writer S. Dovey described the institute as a sea-steading project. Dovey also wrote that Starchild was Malcolm Willis McConahy, an offshore tax attorney who faked his death in 1975, and a scoutmaster in Minneapolis expelled in 1965.[^1]
 
 ### Footnotes
 

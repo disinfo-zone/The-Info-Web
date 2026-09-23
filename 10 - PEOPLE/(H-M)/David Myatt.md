@@ -14,7 +14,7 @@ tags:
   - IntelligenceHistory
 created: 2026-05-21
 updated: 2026-09-22
-summary: "David Myatt is a British far-right ideologue widely attributed as the founder of the Order of Nine Angles under the pseudonym Anton Long, whose writings directly influenced the 1999 London nailbomber David Copeland, yet he was never charged with terrorism despite decades of published incitement to murder and a three-year Scotland Yard investigation."
+summary: "British far-right ideologue identified by researchers as Anton Long, founder of the Order of Nine Angles, whose terror manual police found in the flat of the nail bomber David Copeland."
 born: 1950-11-29
 location: "Worcestershire, United Kingdom"
 ---

@@ -8,7 +8,7 @@ tags:
   - Israel
 summary: "South Africa is a country at the southern tip of Africa whose apartheid-era government developed nuclear weapons with covert Israeli assistance and maintained extensive illicit arms trading networks that intersect with Iran-Contra and Cold War covert operations subjects in this vault."
 created: 2026-05-14
-updated: 2026-05-17
+updated: 2026-09-22
 location: "Pretoria, South Africa"
 ---
 
@@ -18,7 +18,7 @@ South Africa occupies the southern tip of the African continent, bordered by [[N
 
 The formal foundation of the Israel-South Africa defense relationship was laid in an agreement signed in Pretoria on April 22, 1975, between South African Defense Minister P.W. Botha and Israeli Defense Minister [[Shimon Peres]]. The agreement established a framework for military cooperation that, over the following decade, grew to encompass arms transfers, joint weapons development, and covert intelligence sharing. Israel supplied [[South African Defence Force|SADF]] with [[Gabriel]] missiles, [[Reshef]]-class gunboats, and technical assistance on aircraft upgrades. South Africa provided [[Uranium|yellowcake uranium]] and test ranges for Israeli weapons systems.[^2]
 
-The nuclear dimension of the relationship is documented in Sasha Polakow-Suransky's 2010 book *The Unspoken Alliance*. South Africa's nuclear weapons program, run through the [[Armscor]] state arms company, produced six gun-type fission devices by the mid-1980s. Israeli technical assistance - particularly regarding [[tritium]] production - was provided through indirect channels. South Africa conducted what is believed to have been a joint Israeli-South African nuclear test in the South Atlantic on September 22, 1979, the [[Vela Incident]], detected by an American [[Vela satellite]] but never officially confirmed by either government.[^2]
+The nuclear dimension of the relationship is documented in Sasha Polakow-Suransky's 2010 book *The Unspoken Alliance*. South Africa's nuclear weapons program, run through the [[Armscor]] state arms company, produced six gun-type fission devices by the mid-1980s. Israeli technical assistance - particularly regarding [[tritium]] production - was provided through indirect channels. South Africa conducted what the historian Sasha Polakow-Suransky and others describe as a joint Israeli-South African nuclear test in the South Atlantic on September 22, 1979, the [[Vela Incident]], detected by an American [[Vela satellite]] but never officially confirmed by either government.[^2]
 
 [[Armscor]] maintained a procurement office in [[Tel Aviv]] that operated throughout the sanctions period, exploiting Israel's exemption from the international arms embargo against South Africa. The office facilitated the purchase of U.S.-manufactured components and technology that could not be obtained directly given South Africa's sanctions status.
 

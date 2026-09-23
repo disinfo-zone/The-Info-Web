@@ -40,7 +40,7 @@ On September 18, 1976, [[Francis Shelden]], who by 1978 was being sought by the 
 
 ### The McConahy Identity
 
-Starchild was said to have been Malcolm Willis McConahy, an offshore tax attorney who faked his death in 1975, to have been expelled as a scoutmaster in Minneapolis in 1965, and to have been charged with possession of child pornography in Wisconsin before his association with Shelden. He was described as having structured the transfer of Shelden's assets to the Virgin Islands trust to protect them from investigation, and the church as the vehicle through which Brother Paul's could receive court-ordered juvenile delinquents on [[North Fox Island]]. He was linked through these networks to [[John David Norman]].[^1]
+The writer S. Dovey wrote that Starchild was Malcolm Willis McConahy, an offshore tax attorney who faked his death in 1975, that he had been expelled as a scoutmaster in Minneapolis in 1965, and that he had been charged with possession of child pornography in Wisconsin before his association with Shelden. Dovey also wrote that he structured the transfer of Shelden's assets to the Virgin Islands trust to protect them from investigation, and described the church as the vehicle through which Brother Paul's could receive court-ordered juvenile delinquents on [[North Fox Island]]. He was linked through these networks to [[John David Norman]].[^1]
 
 ### Footnotes
 

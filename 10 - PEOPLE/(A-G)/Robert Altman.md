@@ -1,7 +1,7 @@
 ---
 category: "BCCI Scandal"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-09-22
 tags:
   - Person
   - BCCI
@@ -24,7 +24,7 @@ Altman's personal life was marked by a desire for material possessions, contrast
 
 ### Involvement in BCCI Scandal
 
-Altman and Clifford orchestrated the $20-million defense of BCCI in Tampa against money-laundering charges.[^6] When Senator [[John Kerry]]'s subcommittee began investigating BCCI, Altman was alleged to have advised [[Amjad Awan]], a BCCI banker, to flee the country.[^7] He and Clifford were accused of lying to U.S. banking regulators about BCCI's secret ownership of First American.[^8]
+Altman and Clifford orchestrated the $20-million defense of BCCI in Tampa against money-laundering charges.[^6] When Senator [[John Kerry]]'s subcommittee began investigating BCCI, the journalists Jonathan Beaty and S. C. Gwynne wrote, Altman advised [[Amjad Awan]], a BCCI banker, to flee the country.[^7] He and Clifford were accused of lying to U.S. banking regulators about BCCI's secret ownership of First American.[^8]
 
 In February 1988, Altman and Clifford sold a large portion of their stock in First American to a BCCI front man, making significant profits.[^9] This sale occurred around the time of [[Jose Blandon]]'s testimony linking BCCI to [[Manuel Noriega]]'s drug money and Abedi's heart attack, which ended his direct control of the bank.[^10]
 

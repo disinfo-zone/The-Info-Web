@@ -17,15 +17,15 @@ Bua examined the "Special Operations Report" titled "Nicaraguans and Earl Brian 
 
 ### Involvement in Cabazon/Wackenhut Joint Venture
 
-Zokosky was a key participant in the [[Cabazon Indian Reservation|Cabazon]]/Wackenhut Corporation Joint Venture, which aimed to develop and manufacture arms on the reservation. He was considered crucial due to his expertise in the slurry process involved in combustible cartridge cases. He met with Michael Riconosciuto, [[Dr. John Philip Nichols]], and Robert Frye at Picatinny Arsenal in May 1981, where Riconosciuto demonstrated his scientific and technical knowledge of weapons systems, particularly on a Railgun. Zokosky was also present at the September 10, 1981, Lake Cahuilla weapons demonstration in Indio, [[California]], where night-vision goggles and rifles were tested for [[Iran-Contra Affair|Contra]] leaders.[^1]
+The writer Cheri Seymour wrote that Zokosky was a key participant in the [[Cabazon Indian Reservation|Cabazon]]/Wackenhut joint venture, which aimed to develop and manufacture arms on the reservation, and was considered crucial for his expertise in the slurry process used in combustible cartridge cases; that he met Michael Riconosciuto, [[Dr. John Philip Nichols]] and Robert Frye at Picatinny Arsenal in May 1981, where Riconosciuto demonstrated his knowledge of weapons systems, particularly a railgun; and that he attended the Lake Cahuilla weapons demonstration in Indio, [[California]], on September 10, 1981, where night-vision goggles and rifles were tested for [[Iran-Contra Affair|Contra]] leaders.[^1]
 
 ### Biological Warfare Technology
 
-Zokosky was involved in the proposed development of biological warfare "viruses" at [[Stormont Laboratories]], allegedly developed in cow uteri. He, along with Robert Booth Nichols, presented a proposal to develop biological warfare technology and anti-toxin kits to the Army (Dr. Harry Fair at Picatinny Arsenal) and to [[FMC Corporation]]. This technology was described as capable of selectively wiping out segments of humanity with appropriate genetic material. Zokosky also discussed incubating viruses in fish tanks at [[Hercules Research]], where Michael Riconosciuto allegedly worked on the same technology.[^1]
+Seymour wrote that Zokosky took part in the proposed development of biological warfare "viruses" at [[Stormont Laboratories]], grown in cow uteri, and with Robert Booth Nichols presented a proposal for biological warfare technology and anti-toxin kits to the Army (Dr. Harry Fair at Picatinny Arsenal) and to [[FMC Corporation]]; she described the technology as capable of selectively wiping out segments of humanity with the appropriate genetic material. Zokosky spoke of incubating viruses in fish tanks at [[Hercules Research]], where, Seymour wrote, Michael Riconosciuto worked on the same technology.[^1]
 
 ### Connections to Robert Booth Nichols and Meridian International Logistics
 
-Zokosky was a board member of [[Meridian International Logistics|MIL]], a holding company headed by Robert Booth Nichols. He stated that MIL was a "front company" used to funnel money to its board of directors, with funds allegedly coming from the [[NSA|NSA]], partly from drug profits. He believed that Robert Booth Nichols worked for the [[National Security Council|NSC]] and NSA, doing "contract work" for various government agencies, and that Nichols handled "corporate and government" transactions related to narcotics at a higher level.[^1]
+Zokosky was a board member of [[Meridian International Logistics|MIL]], a holding company headed by Robert Booth Nichols. He stated that MIL was a "front company" used to funnel money to its board of directors, with funds, he said, coming from the [[NSA|NSA]], partly from drug profits. He believed that Robert Booth Nichols worked for the [[National Security Council|NSC]] and NSA, doing "contract work" for various government agencies, and that Nichols handled "corporate and government" transactions related to narcotics at a higher level.[^1]
 
 Zokosky and Nichols were involved in a proposed joint venture with FMC Corporation, where Michael Riconosciuto was Vice President of [[Meridian Arms]]. Zokosky also discussed Robert Booth Nichols and Michael Riconosciuto conducting business in [[Australia]], which he thought had something to do with the [[Nugan Hand Bank]].[^1]
 
@@ -35,7 +35,7 @@ Peter Zokosky was a key source for [[Cheri Seymour]]'s investigation into "[[The
 
 Zokosky was initially defensive about [[Danny Casolaro]]'s death, stating he believed Casolaro committed suicide, though his wife, [[Regina Zokosky]], indicated he had previously said otherwise. He allowed Cheri Seymour and [[Kelly O'Meara]] to review a manuscript written by Robert Booth Nichols about Danny Casolaro's death, titled "Danny Casolaro's Octopus."[^1]
 
-He also provided Cheri Seymour with a handwritten "Time Line" outlining a chronology of events from 1981 to 1985, which proved helpful in the investigation of the [[Fred Alvarez]] triple murders. Zokosky confirmed that Dr. John Philip Nichols had an alibi for the Alvarez murders, as he was in [[Canada]] with Zokosky at the time.[^1]
+He also provided Cheri Seymour with a handwritten "Time Line" outlining a chronology of events from 1981 to 1985, which proved helpful in the investigation of the [[Fred Alvarez]] triple murders. Zokosky said that Dr. John Philip Nichols had been in [[Canada]] with him at the time of the Alvarez murders; [[John Belton]] said the trip had been arranged as an alibi.[^1]
 
 ### Other Connections
 

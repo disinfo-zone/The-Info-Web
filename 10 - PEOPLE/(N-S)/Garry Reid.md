@@ -11,7 +11,7 @@ summary: "According to Elizondo, Garry Reid was part of a hostile leadership env
 
 According to Elizondo, Garry Reid was part of a hostile leadership environment within the OUSD(I) that was determined to undermine and dismantle AATIP. After Elizondo resigned from the Pentagon in October 2017 and addressed his resignation letter to Secretary of Defense [[James Mattis]], Reid allegedly intercepted the letter and confronted Elizondo, threatening to damage his career and security clearance.[^1]
 
-Following Elizondo's public disclosure of AATIP, Reid is said to have launched a "scorched-earth" campaign against him. This included seizing his computers and files, questioning his former employees, and launching a criminal inquiry with the Air Force Office of Special Investigations (AFOSI) into the release of the three declassified UAP videos. This investigation ultimately found no wrongdoing on Elizondo's part. Reid was also allegedly responsible for the Pentagon's public statements that falsely denied Elizondo's involvement with AATIP.[^1]
+Following Elizondo's public disclosure of AATIP, Elizondo wrote that Reid launched a "scorched-earth" campaign against him. This included seizing his computers and files, questioning his former employees, and launching a criminal inquiry with the Air Force Office of Special Investigations (AFOSI) into the release of the three declassified UAP videos. This investigation ultimately found no wrongdoing on Elizondo's part. Reid was also allegedly responsible for the Pentagon's public statements that falsely denied Elizondo's involvement with AATIP.[^1]
 
 ### Inspector General Investigation
 

@@ -11,7 +11,7 @@ tags:
 summary: "OpenAI is an artificial-intelligence company founded as a nonprofit in 2015 with a billion-dollar pledge from backers including Elon Musk, Sam Altman, Reid Hoffman, and Peter Thiel, whose 2023 firing and reinstatement of CEO Sam Altman exposed the conflict between its effective-altruism-aligned safety board and its commercial expansion."
 location: "San Francisco, California"
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-09-22
 ---
 
 OpenAI is an artificial-intelligence research company founded in [[San Francisco]] on December 11, 2015 as a nonprofit laboratory whose stated mission was to ensure that artificial general intelligence benefits humanity. Its founding was announced with a one-billion-dollar funding pledge from [[Elon Musk]], [[Sam Altman]], [[Greg Brockman]], [[Reid Hoffman]], [[Jessica Livingston]], [[Peter Thiel]], [[Amazon Web Services]], and [[Infosys]], though tax filings later showed that only about 133 million dollars had actually been received by 2021. The organization grew out of the same AI-existential-risk concern that animates the [[Rationalist Community]] and [[Effective Altruism]] movements, and its 2023 governance crisis exposed the fault line between that safety-focused mission and its commercial trajectory.[^1][^2]
@@ -24,7 +24,7 @@ The 2019 capped-profit entity, OpenAI LP, limited early investors to a return of
 
 ### The November 2023 Board Crisis
 
-On November 17, 2023, the nonprofit board removed Altman as chief executive, stating that he had not been "consistently candid." The voting directors were Sutskever, [[Adam D'Angelo]], the entrepreneur [[Tasha McCauley]], and [[Helen Toner]] of the Georgetown Center for Security and Emerging Technology; McCauley and Toner had ties to the effective-altruism movement, and the board's concern centered on the pace of AI commercialization relative to safety. Brockman quit in protest, roughly 700 employees threatened to resign, and within 48 hours directors discussed merging OpenAI with [[Anthropic]], a step Toner was reported to have supported and that would have ended OpenAI as an independent entity. Altman was reinstated within days under a reconstituted board chaired by [[Bret Taylor]] and including [[Larry Summers]], and Sutskever, McCauley, and Toner left.[^4][^5]
+On November 17, 2023, the nonprofit board removed Altman as chief executive, stating that he had not been "consistently candid." The voting directors were Sutskever, [[Adam D'Angelo]], the entrepreneur [[Tasha McCauley]], and [[Helen Toner]] of the Georgetown Center for Security and Emerging Technology; McCauley and Toner had ties to the effective-altruism movement, and the board's concern centered on the pace of AI commercialization relative to safety. Brockman quit in protest, roughly 700 employees threatened to resign, and within 48 hours directors discussed merging OpenAI with [[Anthropic]], a step *Bloomberg* reported Toner had supported and that would have ended OpenAI as an independent entity. Altman was reinstated within days under a reconstituted board chaired by [[Bret Taylor]] and including [[Larry Summers]], and Sutskever, McCauley, and Toner left.[^4][^5]
 
 The crisis was widely read as a defeat for the effective-altruism and AI-safety wing of the company by the commercial and accelerationist wing aligned with Altman and Microsoft. Sutskever left OpenAI in 2024, and Musk sued the company and Altman the same year, alleging a betrayal of the original nonprofit mission.[^4][^6]
 

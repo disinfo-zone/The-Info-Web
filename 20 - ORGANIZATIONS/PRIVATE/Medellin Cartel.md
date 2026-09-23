@@ -4,7 +4,7 @@ aliases:
   - Medellin Cartel
   - Medellín Cartel
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Organized Crime"
 start: 1976-01-01
 end: 1993-12-31
@@ -29,7 +29,7 @@ As the cartel's massive loads got through, wholesale cocaine prices in the U.S. 
 
 ### Connection to the Contra Network
 
-[[Barry Seal]] was one of the biggest cocaine and marijuana importers in the southern United States, flying loads directly for the Medellín cartel while simultaneously working as a [[Central Intelligence Agency]] and DEA contract agent. Seal moved to [[Mena, Arkansas]] in 1982 and ran drugs and weapons through Intermountain Regional Airport.[^2] [[Danilo Blandon|Danilo Blandón]] told CIA inspectors that he had been to Colombia with [[Ronald Lister]] and observed Lister negotiating drug deals with the Colombians.[^3] [[Norwin Meneses]] was believed to be the [[Cali Drug Cartel]]'s representative in [[Nicaragua]], and his organization operated in parallel to the Medellín cartel's distribution networks.[^4]
+[[Barry Seal]] was one of the biggest cocaine and marijuana importers in the southern United States, flying loads directly for the Medellín cartel while simultaneously working as a [[Central Intelligence Agency]] and DEA contract agent. Seal moved to [[Mena, Arkansas]] in 1982 and ran drugs and weapons through Intermountain Regional Airport.[^2] [[Danilo Blandon|Danilo Blandón]] told CIA inspectors that he had been to Colombia with [[Ronald Lister]] and observed Lister negotiating drug deals with the Colombians.[^3] The journalist Gary Webb described [[Norwin Meneses]] as the [[Cali Drug Cartel]]'s representative in [[Nicaragua]], and his organization operated in parallel to the Medellín cartel's distribution networks.[^4]
 
 ### Arms-for-Drugs Allegations
 

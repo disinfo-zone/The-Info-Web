@@ -1,7 +1,7 @@
 ---
 category: "Key Figures"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-09-22
 tags:
   - Person
   - PROMIS
@@ -30,7 +30,7 @@ Hamilton retained former [[United States Attorney General|Attorney General]] Ell
 
 ### The 1985 Intelligence Letter
 
-In November 2004, Hamilton received a document from a source described as a reliable U.S. intelligence contact. Dated May 16, 1985, the letter indicated that PROMIS software was being provided to an Arab sheik for resale and distribution, brokered by [[Manucher Ghorbanifar]], [[Adnan Khashoggi]], and [[Richard Armitage]]. The document had been signed by [[William Bradford Reynolds]], who authenticated it when shown the letter. Hamilton considered this letter significant, as all copies were said to have been ordered destroyed. The letter corroborated INSLAW's longstanding claim that PROMIS had been distributed internationally through channels that included Middle Eastern arms brokers with Iran-Contra connections.[^4]
+In November 2004, Hamilton received a document from a source described as a reliable U.S. intelligence contact. Dated May 16, 1985, the letter indicated that PROMIS software was being provided to an Arab sheik for resale and distribution, brokered by [[Manucher Ghorbanifar]], [[Adnan Khashoggi]], and [[Richard Armitage]]. The document had been signed by [[William Bradford Reynolds]], who authenticated it when shown the letter. Hamilton considered this letter significant, because, he said, all copies had been ordered destroyed. The letter corroborated INSLAW's longstanding claim that PROMIS had been distributed internationally through channels that included Middle Eastern arms brokers with Iran-Contra connections.[^4]
 
 ### The Octopus Investigation
 

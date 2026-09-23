@@ -11,14 +11,14 @@ tags:
 summary: "Zorro Ranch is the roughly 7,600- to 10,000-acre New Mexico property near Stanley, south of Santa Fe, that Jeffrey Epstein acquired in 1993 from the family of former Governor Bruce King, built into a hilltop mansion compound with a private airstrip, where victims alleged abuse and where the New York Times reported he discussed a plan to seed the human race with his DNA, and which New Mexico reopened a criminal investigation and a legislative inquiry into in 2026."
 location: "Stanley, New Mexico (Santa Fe County)"
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-22
 ---
 
 Zorro Ranch is a property of roughly 7,600 to 10,000 acres near Stanley in Santa Fe County, [[New Mexico]], about 30 miles south of [[Santa Fe]], that [[Jeffrey Epstein]] acquired in 1993 from the family of the former New Mexico Governor [[Bruce King]]. Epstein built a large hilltop mansion there along with a private airstrip and outbuildings, combining deeded land with state grazing leases that extended his control over the surrounding terrain. Victims alleged that abuse occurred at the ranch, the [[New York Times]] reported in 2019 that Epstein discussed using the site to seed the human race with his DNA, Epstein never registered as a sex offender in New Mexico, and the state reopened a criminal investigation and launched a legislative inquiry into the property in 2026.[^1][^2][^3]
 
 ### Acquisition and the King Family
 
-Epstein purchased Zorro Ranch in 1993 from the family of Bruce King, the longest-serving governor in New Mexico history, in a transaction reported at around 12 million dollars. The King family had used the property for cattle ranching, and in 1993 Bruce King and his son Gary King, who later served as New Mexico Attorney General, were reported to be in financial difficulty. Epstein retained ties to the prominent King family for years afterward.[^4]
+Epstein purchased Zorro Ranch in 1993 from the family of Bruce King, the longest-serving governor in New Mexico history, in a transaction reported at around 12 million dollars. The King family had used the property for cattle ranching, and in 1993 Bruce King and his son Gary King, who later served as New Mexico Attorney General, were in financial difficulty, according to the *Santa Fe New Mexican.* Epstein retained ties to the prominent King family for years afterward.[^4]
 
 The acquisition combined deeded land with state grazing leases that Epstein obtained, giving him effective control over a wider expanse than the land he owned outright and adding to the property's isolation, with the nearest neighbors miles away and Santa Fe about 30 miles to the north. Reported acreage figures vary, with sources citing roughly 7,600 acres, about 8,000 acres, and figures up to 10,000 acres depending on whether leased land is included.[^4]
 

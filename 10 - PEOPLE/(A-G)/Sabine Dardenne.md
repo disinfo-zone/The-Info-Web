@@ -26,7 +26,7 @@ On June 17, 2004, the jury at Arlon convicted Dutroux of her abduction, sequestr
 
 ### The Abduction and the Cellar
 
-Lelièvre was said to have blocked her path on her bicycle near a factory while Dutroux seized her and forced her into a van, using chloroform. The cell, built in 1993 with the labor of [[Claude Thirault]] and hidden behind shelving, was the one in which [[Julie Lejeune]] and [[Melissa Russo]] had been held. She was described as having been conditioned by Dutroux with drugs and hypnosis into dependence on him, and as having embraced him when they were found. Dutroux was said to have told her she was being held for ransom. More than twenty calls between Dutroux and Nihoul were reported around the abductions. At the trial she testified to the manipulation she had undergone and to the roles of Martin and Lelièvre.[^1]
+The cell in which she was held was the one in which [[Julie Lejeune]] and [[Melissa Russo]] had been held. The writer S. Dovey wrote that Lelièvre blocked her path on her bicycle near a factory while Dutroux seized her and forced her into a van, using chloroform; that the cell had been built in 1993 with the labor of [[Claude Thirault]] and hidden behind shelving; that Dutroux conditioned her with drugs and hypnosis into dependence on him, told her she was being held for ransom, and was embraced by her when they were found; that more than twenty calls passed between Dutroux and Nihoul around the abductions; and that at the trial she testified to the manipulation she had undergone and to the roles of Martin and Lelièvre.[^1]
 
 ### Footnotes
 

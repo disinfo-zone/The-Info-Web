@@ -24,7 +24,7 @@ Raymond T. Woodall worked with [[Richard Halvorsen]] as a maintenance man at the
 
 ### The Escort Service
 
-Woodall was said to have run an escort service that began with adult prostitutes and turned to boys from the troop; his associate [[Lewis Sialle]], testifying under immunity, quoted him: "They'll get $50, a good meal and all that jazz." The case was said to have broken when film found in a commercial processing machine in [[Dallas, Texas|Dallas]] was traced to the assistant scoutmaster [[Harry O. Cramer]], and Woodall to have been arrested with Halvorsen and [[Robert Lang]]. The operation was connected to [[Father Bud's Boys Farm]] in Tennessee, run by [[Claudius Vermilye]].[^1]
+The writer S. Dovey wrote that Woodall ran an escort service that began with adult prostitutes and turned to boys from the troop; his associate [[Lewis Sialle]], testifying under immunity, quoted him: "They'll get $50, a good meal and all that jazz." Dovey also wrote that the case broke when film found in a commercial processing machine in [[Dallas, Texas|Dallas]] was traced to the assistant scoutmaster [[Harry O. Cramer]], and Woodall to have been arrested with Halvorsen and [[Robert Lang]]. The operation was connected to [[Father Bud's Boys Farm]] in Tennessee, run by [[Claudius Vermilye]].[^1]
 
 ### Footnotes
 

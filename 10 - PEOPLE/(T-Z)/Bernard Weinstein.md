@@ -30,7 +30,7 @@ Weinstein's body was found at Dutroux's property at Sars-la-Buissière, where th
 
 ### The Cabin Note and the Video Work
 
-Weinstein was said to have come to Belgium from France in the early 1990s and to have witnessed the abuse of An and Eefje at Marcinelle, and Dutroux to have drugged him on a fishing trip in November 1995 and buried him alive. He was said to have worked copying videos for SPRL Video Promotion in Charleroi. A note addressed to him and signed "Anubis," found in his cabin, referring to a "feast" with a "high priestess present," was said to link him to the [[Abrasax Institute]] of Francis Desmedt, raided in December 1996. His death was placed among more than twenty deaths of witnesses in the affair, including that of [[Gina Pardaens-Bernaer]], and connected to the network of [[Jean-Michel Nihoul]] and his company [[Achats Services Commerces|ASCO]].[^1]
+The writer S. Dovey wrote that Weinstein came to Belgium from France in the early 1990s and witnessed the abuse of An and Eefje at Marcinelle, that Dutroux drugged him on a fishing trip in November 1995 and buried him alive, and that he worked copying videos for SPRL Video Promotion in Charleroi. Dovey also wrote that a note addressed to him and signed "Anubis," found in his cabin, referring to a "feast" with a "high priestess present," linked him to the [[Abrasax Institute]] of Francis Desmedt, raided in December 1996, and counted his death among more than twenty deaths of witnesses in the affair, including that of [[Gina Pardaens-Bernaer]], and connected to the network of [[Jean-Michel Nihoul]] and his company [[Achats Services Commerces|ASCO]].[^1]
 
 ### Footnotes
 

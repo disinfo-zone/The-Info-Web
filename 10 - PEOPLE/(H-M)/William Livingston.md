@@ -11,7 +11,7 @@ summary: "Medical doctor who ran the CIA's weird desk investigating unusual medi
 
 Dr. Livingston was a key figure in the investigation of the biological effects of UAP encounters on humans. He studied numerous cases of individuals who had suffered a range of medical issues following their encounters with UAP, including radiation-like burns, neurological damage, and other unexplained medical conditions. He was instrumental in bringing in [[Garry Nolan]] to analyze the brains of UAP experiencers, which led to the discovery of the correlation between the enhanced caudate-putamen and individuals with a high aptitude for [[Remote Viewing]].[^1]
 
-Dr. Livingston was also involved in the investigation of alleged alien implants. He is said to have had access to samples of these objects, which were described as being able to move on their own and evade extraction. His work in this area highlighted the bizarre and often terrifying medical consequences of close encounters with UAP.[^1]
+Dr. Livingston was also involved in the investigation of alleged alien implants. [[Luis Elizondo]] wrote that he had access to samples of these objects, which Elizondo described as able to move on their own and evade extraction. His work in this area highlighted the bizarre and often terrifying medical consequences of close encounters with UAP.[^1]
 
 ### Footnotes
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.

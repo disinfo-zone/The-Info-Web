@@ -5,7 +5,7 @@ aliases:
   - Rafi Eitan
   - Rafi the Stinker
 created: 2024-04-25
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Intelligence & Government"
 tags:
   - Person
@@ -34,7 +34,7 @@ After the [[Sabra and Shatila massacres]], Eitan remained in [[Menachem Begin]]'
 
 ### PROMIS and LAKAM Intelligence Operations
 
-Eitan is alleged to have played a central role in the Israeli acquisition and international distribution of the [[PROMIS]] software. According to Gordon Thomas's account in *Gideon's Spies*, Eitan traveled to the [[United States]] posing as an Israeli Ministry of Justice assistant prosecutor and met with [[INSLAW]] founder [[Bill Hamilton]], acquiring a copy of PROMIS through back-channel contacts with the [[Department of Justice]].[^2] Eitan then assembled a team of former [[LAKAM]] programmers who deconstructed the software, rearranged its components, and embedded a "trapdoor" - a built-in chip enabling covert remote monitoring of any database queried by a user of the modified program.[^2]
+The writer Gordon Thomas wrote that Eitan played a central role in the Israeli acquisition and international distribution of the [[PROMIS]] software. According to Gordon Thomas's account in *Gideon's Spies*, Eitan traveled to the [[United States]] posing as an Israeli Ministry of Justice assistant prosecutor and met with [[INSLAW]] founder [[Bill Hamilton]], acquiring a copy of PROMIS through back-channel contacts with the [[Department of Justice]].[^2] Eitan then assembled a team of former [[LAKAM]] programmers who deconstructed the software, rearranged its components, and embedded a "trapdoor" - a built-in chip enabling covert remote monitoring of any database queried by a user of the modified program.[^2]
 
 Eitan stated regarding PROMIS: "We can use that program to stamp out terrorism by keeping track of everyone. But not only that, we can find out what our enemies know too."[^3] He reportedly admitted collaborating with CIA officials in selling "more than half a billion dollars worth of INSLAW's PROMIS to foreign intelligence and law enforcement agencies" as part of joint covert operations to steal intelligence from foreign governments.[^3]
 

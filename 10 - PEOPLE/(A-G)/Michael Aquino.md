@@ -10,7 +10,7 @@ born: 1946-10-16
 died: 2019-09-01
 location: San Francisco, California
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-09-22
 ---
 Michael A. Aquino was a Lieutenant Colonel in the [[U.S. Army]] Reserve, serving in Military Intelligence and psychological operations. He was attached to the 7th Psychological Operations Group at the [[Presidio of San Francisco|Presidio]] and held Top Secret security clearance. Born October 16, 1946, he earned bachelor's and master's degrees in political science from the [[University of California Santa Barbara]] before launching concurrent careers in military intelligence and the occult.[^1][^2]
 
@@ -28,7 +28,7 @@ In November 1986, allegations of child sexual abuse surfaced at the Presidio Arm
 
 ### Project Monarch Allegations
 
-Aquino was alleged to have participated in [[Project Monarch]] conditioning of subjects at [[NASA]] bases, serving as a handler for programming operations. [[Cathy O'Brien]] identified Aquino as one of her handlers during her alleged Monarch programming. The allegations placed Aquino at the intersection of military psychological warfare expertise and the claimed Monarch programming operations. [[Marion David Pettie|Pettie]]'s network also intersected with Aquino's circle through Christopher Bird, a former CIA officer who served in [[Japan]] as an Army psych warfare specialist and who was associated with Pettie.[^3]
+A.B.H. Alexander, writing in *PROBE* around 1996, alleged that Aquino took part in [[Project Monarch]] conditioning of subjects at [[NASA]] bases as a handler for programming operations. [[Cathy O'Brien]] identified Aquino as one of her handlers during her alleged Monarch programming. The allegations placed Aquino at the intersection of military psychological warfare expertise and the claimed Monarch programming operations. [[Marion David Pettie|Pettie]]'s network also intersected with Aquino's circle through Christopher Bird, a former CIA officer who served in [[Japan]] as an Army psych warfare specialist and who was associated with Pettie.[^3]
 
 ### Footnotes
 

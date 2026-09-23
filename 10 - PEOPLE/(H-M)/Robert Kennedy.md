@@ -1,4 +1,7 @@
 ﻿---
+aliases:
+  - "Robert F. Kennedy"
+  - "RFK"
 category: "Intelligence Scandal"
 tags:
   - Person

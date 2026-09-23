@@ -32,7 +32,7 @@ The Church of the New Revelation was incorporated in Delaware in 1974, listing i
 
 ### Father Bud's Boys Farm
 
-[[Father Bud's Boys Farm]] in Tennessee was said to have been incorporated under the church, and the church to have been created on paper by Grossman; [[Francis Shelden]] and Starchild were connected to it through the incorporation of the North Fox Island mission.[^1]
+The writer S. Dovey wrote that [[Father Bud's Boys Farm]] in Tennessee was incorporated under the church and that Grossman created the church on paper; [[Francis Shelden]] and Starchild were connected to it through the incorporation of the North Fox Island mission.[^1]
 
 ### Footnotes
 

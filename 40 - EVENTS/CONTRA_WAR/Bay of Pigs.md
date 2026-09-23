@@ -7,6 +7,8 @@ aliases:
   - Operation Zapata
   - Operation Pluto
   - Bahia de Cochinos
+  - "Bay of Pigs Invasion"
+  - "Bay of Pigs invasion"
 tags:
   - Event
   - CIA

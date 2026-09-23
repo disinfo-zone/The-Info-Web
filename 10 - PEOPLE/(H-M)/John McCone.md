@@ -13,7 +13,7 @@ born: 1902-01-04
 died: 1991-02-14
 location: San Francisco, California
 created: 2026-06-12
-updated: 2026-09-21
+updated: 2026-09-22
 alias:
   - John A. McCone
 ---
@@ -22,7 +22,7 @@ John A. McCone (1902-1991) was an American industrialist who served as Director 
 
 ### Conflicts with Kennedy
 
-Though Kennedy's appointee, McCone diverged sharply from the president. He lent CIA analysts to Senator [[John Stennis]]'s effort to defeat Kennedy's nuclear test-ban treaty, secretly supplying expertise to help Stennis argue against ratification. As a former large stockholder and director of Standard Oil of California, he was reported to have differed with Kennedy over the president's threat to reduce the oil-depletion allowance, a change estimated to cost the oil companies some $280 million a year. He had also disliked Kennedy's July 1961 recommendation to the [[President's Foreign Intelligence Advisory Board]] to break up the CIA, and the directives making the military responsible for large covert operations, and he had favored [[Ngo Dinh Diem]] in Vietnam.[^2]
+Though Kennedy's appointee, McCone diverged sharply from the president. He lent CIA analysts to Senator [[John Stennis]]'s effort to defeat Kennedy's nuclear test-ban treaty, secretly supplying expertise to help Stennis argue against ratification. As a former large stockholder and director of Standard Oil of California, he differed, according to Gerard Colby and Charlotte Dennett, with Kennedy over the president's threat to reduce the oil-depletion allowance, a change estimated to cost the oil companies some $280 million a year. He had also disliked Kennedy's July 1961 recommendation to the [[President's Foreign Intelligence Advisory Board]] to break up the CIA, and the directives making the military responsible for large covert operations, and he had favored [[Ngo Dinh Diem]] in Vietnam.[^2]
 
 After the assassination of President Kennedy, Attorney General [[Robert Kennedy]] confronted McCone directly, asking, "Did the CIA kill my brother?" McCone assured him it had not, claiming ignorance of the Agency's assassination plots mounted after the Bay of Pigs.[^2]
 

@@ -2,6 +2,7 @@
 category: "Law Enforcement & Legal"
 aliases:
   - "SDGT"
+  - "Executive Order 13224"
 tags:
   - Law
   - USGovernment

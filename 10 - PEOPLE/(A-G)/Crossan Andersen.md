@@ -3,7 +3,7 @@ title: Crossan Andersen
 aliases:
   - Crossan Andersen
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -27,7 +27,7 @@ Andersen pulled the plug on the OCDETF investigation on July 17, 1987, less than
 
 ### The Phantom Cooperation Agreement
 
-After the investigation was shelved, Andersen was reported to have agreed to a deal under which Norwin Meneses would plead guilty to a cocaine charge as part of a "cooperation agreement" once the Los Angeles case was done. Justice Department investigators later found no record of any such deal, and Andersen specifically denied that an agreement ever existed. Prosecutor Eric Swenson also denied it. The claim appears to have been fabricated to placate FBI agents whose racketeering case against Meneses had been rejected.[^1]
+The journalist Gary Webb wrote that after the investigation was shelved, Andersen agreed to a deal under which Norwin Meneses would plead guilty to a cocaine charge as part of a "cooperation agreement" once the Los Angeles case was done. Justice Department investigators later found no record of any such deal, and Andersen specifically denied that an agreement ever existed. Prosecutor Eric Swenson also denied it. The claim appears to have been fabricated to placate FBI agents whose racketeering case against Meneses had been rejected.[^1]
 
 ### Footnotes
 

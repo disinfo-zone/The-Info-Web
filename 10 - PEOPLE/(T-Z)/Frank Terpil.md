@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 title: Frank Terpil
 aliases:
   - Frank Terpil
@@ -42,7 +42,7 @@ Parallel to the Libya operations, Terpil provided services to Uganda under Idi A
 
 Both Wilson and Terpil were indicted in the United States in 1980 on charges related to the illegal arms and explosives transfers to Libya. Wilson was apprehended through a lure operation in 1982. Terpil was not captured; he had already fled and remained abroad. He gave at least one interview to journalist Claudia Wright and to others while in exile, in which he provided his account of the Libya operations and his CIA background, while declining to return to face American justice.[^1]
 
-Terpil is believed to have lived primarily in Syria and Cuba after his flight, protected from American extradition by his residence in states with no extradition relationship with the United States. He reportedly died in Cuba in 2016, though his death was not publicly confirmed for some time.[^1]
+According to the journalist David Corn, Terpil lived primarily in Syria and Cuba after his flight, protected from American extradition by his residence in states with no extradition relationship with the United States. He reportedly died in Cuba in 2016, though his death was not publicly confirmed for some time.[^1]
 
 ### The Wilson-Terpil Network Context
 

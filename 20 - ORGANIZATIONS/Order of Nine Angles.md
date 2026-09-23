@@ -15,7 +15,7 @@ tags:
   - BritishIntelligence
 created: 2026-05-21
 updated: 2026-09-22
-summary: "The Order of Nine Angles is a British neo-Nazi occultist organization whose Insight Roles doctrine of committing crimes as spiritual initiation made it a foundational influence on Atomwaffen Division, Tempel ov Blood, and the broader accelerationist ecosystem, and which has never been proscribed in the UK despite eight terrorism convictions linked to it in two years."
+summary: "British neo-Nazi occultist network whose Insight Roles doctrine of crime as initiation shaped Atomwaffen Division and Tempel ov Blood; not proscribed in the United Kingdom as of 2026."
 start: 1980
 location: "United Kingdom"
 ---

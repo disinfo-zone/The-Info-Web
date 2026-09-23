@@ -33,7 +33,7 @@ In July 1997 the commission received information that the wife of a Charleroi la
 
 ### Claude Thirault
 
-The handyman [[Claude Thirault]] was said to have come forward through Othello with information about the cellar Dutroux had commissioned him to build.[^3]
+The writer S. Dovey wrote that the handyman [[Claude Thirault]] came forward through Othello with information about the cellar Dutroux had commissioned him to build.[^3]
 
 ### Footnotes
 

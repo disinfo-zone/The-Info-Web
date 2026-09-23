@@ -17,7 +17,7 @@ Elizondo recounts a direct encounter with a senior intelligence official who was
 
 ### Influence and Impact
 
-The Collins Elite is said to be composed of high-ranking, single-minded Pentagon and intelligence community lifers who have the power to shape policy and kill programs through their influence and anonymity. Their opposition was a significant factor in the internal resistance that AATIP faced, and it contributed to the program ultimately losing its official support and funding.[^1]
+[[Luis Elizondo]] described the Collins Elite as composed of high-ranking, single-minded Pentagon and intelligence community lifers who have the power to shape policy and kill programs through their influence and anonymity. Their opposition was a significant factor in the internal resistance that AATIP faced, and it contributed to the program ultimately losing its official support and funding.[^1]
 
 The existence of a group like the Collins Elite highlights the complex and often unexpected challenges that have faced the UAP disclosure movement. The intersection of national security, science, and deeply held religious beliefs has created a volatile and often hostile environment for those seeking to bring the truth about UAP to light.[^1]
 

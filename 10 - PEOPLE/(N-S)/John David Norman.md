@@ -44,7 +44,7 @@ Paske later worked for the contracting business of [[John Wayne Gacy]], who afte
 
 ### The Finders
 
-Two names in the address book seized from the [[The Finders|Finders]] members [[Douglas Ammerman]] and [[James Michael Holwell]] at their arrest in Tallahassee on February 4, 1987, are reported to appear in an FBI Dallas file on child prostitution that concerned Norman's Odyssey Foundation, and a third in a Buffalo file on members of [[NAMBLA]] suspected of murder. No direct tie between Norman and the Finders' leadership has been documented.[^4][^5]
+Two names in the address book seized from the [[The Finders|Finders]] members [[Douglas Ammerman]] and [[James Michael Holwell]] at their arrest in Tallahassee on February 4, 1987, appear, according to the writer S. Dovey, in an FBI Dallas file on child prostitution that concerned Norman's Odyssey Foundation, and a third in a Buffalo file on members of [[NAMBLA]] suspected of murder. No direct tie between Norman and the Finders' leadership has been documented.[^4][^5]
 
 ### Footnotes
 

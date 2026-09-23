@@ -13,7 +13,7 @@ relations:
 created: 2026-04-28
 updated: 2026-09-22
 ---
-Richard C. Jacobs, 41, of Waltham, Massachusetts, was president of the Jet Spray Corporation, with corporate offices in Brookline and subsidiaries around the world, and had been reported to be a part owner of the New England Patriots. Boston-area police arrested him and the realtor [[Hugh Mellor|Hugh Scott Mellor]] at the request of Louisiana authorities; both were charged with conspiracy to commit homosexual rape and aggravated crimes against nature in the case of [[New Orleans]] Boy Scout [[Troop 137]], organized by [[Richard Halvorsen]] and [[Raymond Woodall]]. By May 1977 New Orleans police said Jacobs had forfeited a 50,000-dollar bond to avoid standing trial in Louisiana.[^1]
+Richard C. Jacobs, 41, of Waltham, Massachusetts, was president of the Jet Spray Corporation, with corporate offices in Brookline and subsidiaries around the world, and, according to press reports reprinted in the 1977 House hearing, a part owner of the New England Patriots. Boston-area police arrested him and the realtor [[Hugh Mellor|Hugh Scott Mellor]] at the request of Louisiana authorities; both were charged with conspiracy to commit homosexual rape and aggravated crimes against nature in the case of [[New Orleans]] Boy Scout [[Troop 137]], organized by [[Richard Halvorsen]] and [[Raymond Woodall]]. By May 1977 New Orleans police said Jacobs had forfeited a 50,000-dollar bond to avoid standing trial in Louisiana.[^1]
 
 ### Footnotes
 

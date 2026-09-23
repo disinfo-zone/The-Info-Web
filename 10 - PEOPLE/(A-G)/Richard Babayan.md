@@ -8,7 +8,7 @@ tags:
   - Arms
 summary: "Richard Babayan was a CIA contract operative and arms broker who received a reported $6 million from Earl Brian on behalf of Hadron, Inc. and who appeared in overlapping accounts of the PROMIS software scandal, October Surprise allegations, and Robert Maxwell's Australian operations."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-09-22
 ---
 Richard Babayan was a former arms broker and [[Central Intelligence Agency]] contract operative whose name appears across several of the major scandals investigated in the 1980s and early 1990s.
 
@@ -20,7 +20,7 @@ Babayan later stated that Brian played a central role in marketing PROMIS to the
 
 ### Maxwell and Australian Connection
 
-In 1987, the flow of funds associated with PROMIS commercialization was alleged to extend to [[Robert Maxwell]]'s Australian business operations. According to Ari Ben-Menashe's account, a contribution to the West Australian Labor Party passed through one of Maxwell's Australian companies and was deposited by the Pergamon Press Trust Fund in Moscow, with Babayan and [[Earl Brian]] acting on behalf of Hadron in facilitating the transaction.[^2]
+[[Ari Ben-Menashe]] alleged that in 1987 the flow of funds from PROMIS sales extended to [[Robert Maxwell]]'s Australian business operations. According to Ari Ben-Menashe's account, a contribution to the West Australian Labor Party passed through one of Maxwell's Australian companies and was deposited by the Pergamon Press Trust Fund in Moscow, with Babayan and [[Earl Brian]] acting on behalf of Hadron in facilitating the transaction.[^2]
 
 ### October Surprise Context
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "United States Navy"
 created: 2025-07-22
 updated: 2025-07-22
 title: U.S. Navy

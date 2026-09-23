@@ -9,7 +9,7 @@ summary: "Okimoto's company, Island Tobacco, was said to sell cigarettes at the 
 
 [[Michael Riconosciuto]] claimed that [[Robert Booth Nichols]] was under Okimoto's influence and referred to Nichols as Okimoto's "god-son." Okimoto was also represented as an intelligence person who had worked under [[Frank Carlucci]] for years, and reportedly performed services for the [[United States|U.S. government]] during [[World War II]], for which he was rewarded.[1]
 
-Okimoto's company, [[Island Tobacco]], was said to sell cigarettes at the Casino du Liban, which was controlled by the [[Syria|Syrian]] mob and used as a front by narcotics people.[1]
+The writer Cheri Seymour wrote that Okimoto's company, [[Island Tobacco]], sold cigarettes at the Casino du Liban, which was controlled by the [[Syria|Syrian]] mob and used as a front by narcotics people.[1]
 
 ---
 ### Footnotes

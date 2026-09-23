@@ -38,7 +38,7 @@ The protection of Dimona's secrets was a paramount concern, leading to the creat
 
 ### Nuclear Arsenal and Testing
 
-Dimona's operational success paved the way for Israel's emergence as a nuclear power. Well-placed Israeli sources indicate that at least one successful low-yield nuclear test was conducted in an underground cavern in the Negev Desert during the mid-1960s [^7]. By early 1968, Dimona had transitioned to full-scale production, manufacturing an estimated 4 to 5 warheads annually. By the time of the [[Yom Kippur War]] in September 1973, Israel's nuclear arsenal was believed to comprise at least 20 warheads [^8].
+Dimona's operational success paved the way for Israel's emergence as a nuclear power. Well-placed Israeli sources indicate that at least one successful low-yield nuclear test was conducted in an underground cavern in the Negev Desert during the mid-1960s [^7]. By early 1968, Dimona had transitioned to full-scale production, manufacturing an estimated 4 to 5 warheads annually. By the time of the [[Yom Kippur War]] in September 1973, Israel's nuclear arsenal comprised, according to Seymour Hersh, at least 20 warheads.[^8]
 
 A significant event in Israel's nuclear history occurred on September 22, 1979, when Israel, in conjunction with [[South Africa]], conducted a low-yield nuclear test over the [[South Indian Ocean]]. This event was detected by the [[VELA Satellite|U.S. VELA satellite]], providing concrete evidence of Israel's nuclear capability [^9]. Vanunu's later revelations further underscored the sophistication of Israel's nuclear program, suggesting its capacity to manufacture advanced thermonuclear weapons, including low-yield neutron bombs [^3].
 

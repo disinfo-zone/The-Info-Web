@@ -1,7 +1,7 @@
 ---
 category: "Key Figures"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-09-22
 tags:
   - Person
   - BCCI
@@ -15,7 +15,7 @@ Agha Hasan Abedi was a Pakistani financier who founded the [[Bank of Credit and 
 
 BCCI's growth was fueled by petrodollars, particularly from [[OPEC]] nations, and Abedi was among the first to recognize the opportunity in these vast deposits.[^3] He cultivated relationships with powerful figures, including [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] of [[Abu Dhabi]], who became a key supporter and later owner of BCCI.[^4] Abedi's strategy involved using nominees and a complex offshore network, primarily in the [[Cayman Islands]], to conceal the bank's true ownership and illicit activities.[^5]
 
-He suffered a heart attack in February 1988, which ended his direct control of BCCI.[^6] He is said to have spent his later years in [[Pakistan]], living quietly in the affluent Defense Officers' Society section of [[Karachi]], entertaining occasional visitors and maintaining his innocence regarding the bank's unraveling. Despite the allegations of fraud and the bank's collapse, Abedi remained a towering figure to many Pakistanis, revered as a courageous Third World entrepreneur.[^7]
+He suffered a heart attack in February 1988, which ended his direct control of BCCI.[^6] The journalists Jonathan Beaty and S. C. Gwynne wrote that he spent his later years in [[Pakistan]], living quietly in the affluent Defense Officers' Society section of [[Karachi]], entertaining occasional visitors and maintaining his innocence regarding the bank's unraveling. Despite the allegations of fraud and the bank's collapse, Abedi remained a towering figure to many Pakistanis, revered as a courageous Third World entrepreneur.[^7]
 
 ### Early Life and Career
 

@@ -9,7 +9,7 @@ born: 1913-11-14
 died: 1993-06-29
 location: "Naples, Italy"
 ---
-[[Anthony Fratianno]] was an alleged mobster mentioned in a surveillance report from the Indio Police Department in August 1981. He was observed meeting with [[Dr. John Philip Nichols]], the Cabazon Administrator, and other [[La Cosa Nostra]] underworld figures. These meetings were believed to involve financial transactions.[^1]
+[[Anthony Fratianno]] was an alleged mobster mentioned in a surveillance report from the Indio Police Department in August 1981. He was observed meeting with [[Dr. John Philip Nichols]], the Cabazon Administrator, and other [[La Cosa Nostra]] underworld figures. The writer Cheri Seymour wrote that these meetings involved financial transactions.[^1]
 
 ---
 ### Footnotes

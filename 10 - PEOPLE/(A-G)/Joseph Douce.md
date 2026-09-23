@@ -24,7 +24,7 @@ Joseph Doucé, a pastor defrocked by the Protestant churches and a defender of h
 
 ### The CCL and the X-Dossier
 
-The CCL was described as a support group for pedophiles in the 1980s and 1990s whose counseling sessions served for the exchange of child pornography. The [[X-Dossier]], compiled under Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]], was said to have linked the CCL to [[CRIES]], whose members used the premises of [[UNICEF]] for filming, and to other networks investigated in Belgium, though no direct tie to [[Marc Dutroux]] was established.[^1]
+The writer S. Dovey described the CCL as a support group for pedophiles in the 1980s and 1990s whose counseling sessions served for the exchange of child pornography, and wrote that the [[X-Dossier]], compiled under Judge [[Jean-Marc Connerotte]] and Prosecutor [[Michel Bourlet]], linked the CCL to [[CRIES]], whose members used the premises of [[UNICEF]] for filming, and to other networks investigated in Belgium, though no direct tie to [[Marc Dutroux]] was established.[^1]
 
 ### Footnotes
 

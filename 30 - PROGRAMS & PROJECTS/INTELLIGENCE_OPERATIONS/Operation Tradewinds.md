@@ -16,14 +16,14 @@ start: 1965
 end: 1975
 location: "Jacksonville, Florida"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 "In 1965, the [[Internal Revenue Service]] launched an investigation into the financial activities of American citizens in the [[Bahamas]]. The project, known as 'Operation Trade Winds,' was headquartered in [[Jacksonville, Florida|Jacksonville]]," the [[Supreme Court of the United States|Supreme Court]] recorded in 1980.[^1]
 
 ### Method
 
-In 1966 senior officers of IRS intelligence met [[Henry Petersen]], chief of the [[Department of Justice|Justice Department]]'s organized crime section, to arrange "special handling" of the evidence, which was being obtained in ways that "violated Bahamian laws." Informants such as "former [[Wackenhut Corporation|Wackenhut]] agent [[Norman Casper]], a/k/a 'TW-24'" could gather material to be used only "for lead purposes," and it was handed to the service on American soil by a different agent from the one who had gone to the islands "for normal liaison purposes." The operation is said to have recruited [[Lynden Pindling]], later prime minister, as an informant. A Justice Department lawyer who worked with it, [[Robert Peloquin]], wrote in a January memorandum on the casino planned for [[Paradise Island]] that "the atmosphere looks right for a Lansky skim." Peloquin, his colleague [[William Hundley]], the IRS intelligence chief [[William Kolar]], and several agents afterward went to work for [[Intertel]], a subsidiary of the company that owned that casino.[^2]
+In 1966 senior officers of IRS intelligence met [[Henry Petersen]], chief of the [[Department of Justice|Justice Department]]'s organized crime section, to arrange "special handling" of the evidence, which was being obtained in ways that "violated Bahamian laws." Informants such as "former [[Wackenhut Corporation|Wackenhut]] agent [[Norman Casper]], a/k/a 'TW-24'" could gather material to be used only "for lead purposes," and it was handed to the service on American soil by a different agent from the one who had gone to the islands "for normal liaison purposes." The writer Jim Hougan wrote that the operation recruited [[Lynden Pindling]], later prime minister, as an informant. A Justice Department lawyer who worked with it, [[Robert Peloquin]], wrote in a January memorandum on the casino planned for [[Paradise Island]] that "the atmosphere looks right for a Lansky skim." Peloquin, his colleague [[William Hundley]], the IRS intelligence chief [[William Kolar]], and several agents afterward went to work for [[Intertel]], a subsidiary of the company that owned that casino.[^2]
 
 ### Castle Bank
 

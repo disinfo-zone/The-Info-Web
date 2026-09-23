@@ -5,7 +5,7 @@ aliases:
   - Iran-Contra
   - Irangate
 created: 2024-04-25
-updated: 2026-05-17
+updated: 2026-09-22
 tags:
   - Event
   - Political
@@ -31,7 +31,7 @@ Between 1982 and 1986, Congress passed a series of amendments (known as the Bola
 
 ### Oliver North and the Enterprise
 
-[[Oliver North]], a Lieutenant Colonel in the [[United States Marine Corps]] serving on the National Security Council staff, ran an illegal Contra resupply operation from the White House. He was alleged to have received drug profits from [[Monzer Al-Kassar]], a Syrian kingpin and arms dealer, which were then used to purchase arms for the Contras. The United States Tower Commission probe into Iran-gate specifically revealed that Al-Kassar had been paid $1.2 million by North's co-conspirator, General [[Richard Secord]], to facilitate the movement of weapons from [[Israel]] to the Contras.[^1][^3]
+[[Oliver North]], a Lieutenant Colonel in the [[United States Marine Corps]] serving on the National Security Council staff, ran an illegal Contra resupply operation from the White House. The writer Cheri Seymour wrote that he received drug profits from [[Monzer Al-Kassar]], a Syrian kingpin and arms dealer, which were then used to purchase arms for the Contras. The United States Tower Commission probe into Iran-gate specifically revealed that Al-Kassar had been paid $1.2 million by North's co-conspirator, General [[Richard Secord]], to facilitate the movement of weapons from [[Israel]] to the Contras.[^1][^3]
 
 North's "Enterprise" used [[Ilopango Airbase]] in [[El Salvador]] to funnel weapons to the Contras and reportedly brought [[Cocaine]] back on return flights.[^4]
 

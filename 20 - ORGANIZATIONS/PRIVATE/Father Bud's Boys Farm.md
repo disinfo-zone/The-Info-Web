@@ -29,7 +29,7 @@ Films found on the Michigan photographer [[Gerald Richards]] at his arrest in Ju
 
 ### The Distribution Network
 
-Film was said to have been mailed from the farm to Richards for development and distribution through MAIL-O-MATIC in [[North Carolina]] and F&S Distributors in California. The farm was said to have been raided on November 10, 1976, and reported the next day by the *Detroit Free Press* as a national pornography hub, and to have been incorporated under the Church of the New Revelation, through which it was linked to [[Dyer Grossman]] and [[Adam Starchild]], and connected through a letter from Vermilye to Halvorsen with Troop 137 and with the Chicago network of [[John David Norman]], the [[Delta Project]] and the [[Odyssey Network]].[^1]
+The writer S. Dovey wrote that film was mailed from the farm to Richards for development and distribution through MAIL-O-MATIC in [[North Carolina]] and F&S Distributors in California. Dovey also wrote that the farm was raided on November 10, 1976, and reported the next day by the *Detroit Free Press* as a national pornography hub, and that it was incorporated under the Church of the New Revelation, through which it was linked to [[Dyer Grossman]] and [[Adam Starchild]], and connected through a letter from Vermilye to Halvorsen with Troop 137 and with the Chicago network of [[John David Norman]], the [[Delta Project]] and the [[Odyssey Network]].[^1]
 
 ### Footnotes
 

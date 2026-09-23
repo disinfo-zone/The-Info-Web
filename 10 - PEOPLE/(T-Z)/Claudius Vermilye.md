@@ -37,7 +37,7 @@ Vermilye was indicted on 16 counts: three of crimes against nature, eight of aid
 
 ### The Distribution Network
 
-Vermilye's films were said to have gone to Richards for development and distribution through networks including MAIL-O-MATIC in [[North Carolina]] and F&S Distributors in California as early as July 1976, and the farm to have been raided on November 10, 1976, and described by the *Detroit Free Press* the next day as a national pornography hub. The farm was said to have been incorporated under [[The Church of New Revelation]], and Vermilye to have written to Halvorsen inviting him to visit.[^1]
+The writer S. Dovey wrote that Vermilye's films went to Richards for development and distribution through networks including MAIL-O-MATIC in [[North Carolina]] and F&S Distributors in California as early as July 1976, and that the farm was raided on November 10, 1976, and described by the *Detroit Free Press* the next day as a national pornography hub. Dovey also wrote that the farm was incorporated under [[The Church of New Revelation]] and that Vermilye wrote to Halvorsen inviting him to visit.[^1]
 
 ### Footnotes
 

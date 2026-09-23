@@ -14,14 +14,14 @@ alias:
 summary: "Indonesian banking and property conglomerate of the Riady family, partner of the Stephens family of Arkansas from 1978, employer of John Huang and Webster Hubbell, whose California bank pleaded guilty to 86 campaign finance counts in 2001."
 location: "Jakarta, Indonesia"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 The Lippo Group is the banking, insurance, and property conglomerate of [[Mochtar Riady]] of [[Indonesia]] and his son [[James Riady]]. A Senate committee dated its business relationship with [[Stephens Inc.]] of [[Little Rock, Arkansas|Little Rock]] to 1977, and a House committee to a meeting between Mochtar Riady, [[Jackson Stephens]], and [[Witt Stephens]] in 1976.[^1]
 
 ### Arkansas
 
-The two families formed [[Stephens Finance Ltd.]] in [[Hong Kong]] in 1978 and both bought into [[Worthen Bank]] in 1983. About 1987 the Riadys exchanged their Worthen shares for the Stephens interest in the [[Hong Kong Chinese Bank]] and turned to [[California]], where they had bought the [[Bank of Trade (Los Angeles)|Bank of Trade]] and renamed it [[LippoBank]]. [[John Huang]] was the group's chief representative in the [[United States]]. In April 1993 [[C. Joseph Giroir]], former managing partner of the [[Rose Law Firm]], incorporated the [[Arkansas International Development Corporation]] with Lippo capital to develop joint ventures, and a second company of the same name followed in 1995. The Riadys were reported to pay Giroir between 350,000 and 600,000 dollars a year. [[Mark Middleton]], a former aide to President [[Bill Clinton]], also went to work for the group. Giroir helped draw up the list of those invited to the [[Asia-Pacific Economic Cooperation]] meeting in [[Jakarta]] in 1994, among them [[Webster Hubbell]], to whom the Lippo company [[Hong Kong China Limited]] had paid 100,000 dollars that June. The House committee also found that the head of the group paid the college tuition of Hubbell's daughter.[^1]
+The two families formed [[Stephens Finance Ltd.]] in [[Hong Kong]] in 1978 and both bought into [[Worthen Bank]] in 1983. About 1987 the Riadys exchanged their Worthen shares for the Stephens interest in the [[Hong Kong Chinese Bank]] and turned to [[California]], where they had bought the [[Bank of Trade (Los Angeles)|Bank of Trade]] and renamed it [[LippoBank]]. [[John Huang]] was the group's chief representative in the [[United States]]. In April 1993 [[C. Joseph Giroir]], former managing partner of the [[Rose Law Firm]], incorporated the [[Arkansas International Development Corporation]] with Lippo capital to develop joint ventures, and a second company of the same name followed in 1995. According to the House Government Reform and Oversight Committee, the Riadys paid Giroir between 350,000 and 600,000 dollars a year. [[Mark Middleton]], a former aide to President [[Bill Clinton]], also went to work for the group. Giroir helped draw up the list of those invited to the [[Asia-Pacific Economic Cooperation]] meeting in [[Jakarta]] in 1994, among them [[Webster Hubbell]], to whom the Lippo company [[Hong Kong China Limited]] had paid 100,000 dollars that June. The House committee also found that the head of the group paid the college tuition of Hubbell's daughter.[^1]
 
 ### BCCI Hong Kong
 

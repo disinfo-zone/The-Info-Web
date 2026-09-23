@@ -16,7 +16,7 @@ summary: "Curtis Yarvin, who writes under the pen name Moldbug, is an American s
 born: 1973-06-25
 location: "United States"
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-09-22
 ---
 
 Curtis Yarvin (born June 25, 1973) is an American software developer and political writer who publishes under the pen name [[Moldbug]] and is the founder of the [[Neoreaction]] (NRx) movement and co-originator of the [[Dark Enlightenment]] ideological current. His blog *Unqualified Reservations*, active from April 2007 through 2014, argued that liberal democracy is a failing state form and should be replaced by a corporate, monarchical government organized under what he termed [[Neocameralism]]. Yarvin is the most prominent intellectual financially patronized by [[Peter Thiel]], and his work is the ideological spine of the Thiel network's argument that concentrated private capacity should replace decentralized democratic government.[^1][^2]
@@ -63,7 +63,7 @@ Urbit's development was housed at Yarvin's company Tlon until his departure, and
 
 ### Political Reception
 
-[[Steve Bannon]], during the first [[Donald Trump|Trump]] administration, was reported to have read and discussed Yarvin's work. [[Michael Anton]] (a national-security official in both Trump administrations) has engaged publicly with neoreactionary arguments. [[JD Vance]], the Thiel-funded senator and current vice president, has been associated with the broader intellectual orbit, though Vance has publicly distanced himself from Yarvin's more extreme claims.[^4]
+[[Steve Bannon]], during the first [[Donald Trump|Trump]] administration, read and discussed Yarvin's work, *WIRED* reported. [[Michael Anton]] (a national-security official in both Trump administrations) has engaged publicly with neoreactionary arguments. [[JD Vance]], the Thiel-funded senator and current vice president, has been associated with the broader intellectual orbit, though Vance has publicly distanced himself from Yarvin's more extreme claims.[^4]
 
 Yarvin has spoken at the [[National Conservatism Conference]] and published in [[The American Mind]], the journal of the [[Claremont Institute]]. He has spoken publicly about his relationship with the Thiel network and about the neoreactionary current's trajectory from blog subculture into executive-branch adjacency under the second Trump administration.[^4]
 

@@ -15,7 +15,7 @@ In 1988, [[Ari Ben-Menashe]] traveled to [[Peru]] on a secret mission for [[Yitz
 
 [[Abimael Guzman Reynoso|Guzmán]] agreed to sell the minerals to [[Israel]] for $10 million, to be deposited in a [[Switzerland|Swiss]] bank account. He also requested that [[Israel]] purchase a chain of five small newspapers, the [[Ocho Group]], on the movement's behalf, and provide medical equipment to be brought on the [[Cessna]]s transporting the minerals.[^1]
 
-[[Abimael Guzman Reynoso|Guzmán]] was rumored to have died of cancer in 1990, but he continued to lead the [[Shining Path]]. He was captured in 1992 and was imprisoned.[^1]
+[[Abimael Guzman Reynoso|Guzmán]] was, according to rumors recounted by [[Ari Ben-Menashe]], dead of cancer in 1990, but he continued to lead the [[Shining Path]]. He was captured in 1992 and was imprisoned.[^1]
 
 ### Footnotes
 [^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.

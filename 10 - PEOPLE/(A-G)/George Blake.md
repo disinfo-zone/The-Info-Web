@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 title: George Blake
 aliases:
   - George Blake
@@ -39,7 +39,7 @@ The KGB chose not to immediately reveal the tunnel's existence in order to prote
 
 ### Scale of Damage
 
-Blake subsequently betrayed an estimated 40 Western agents - individuals working for MI6 against Soviet bloc targets - to Soviet intelligence. Most of these agents were arrested; the majority are believed to have been executed. He also betrayed other operations and revealed information about MI6's organizational structure, personnel, and methods over approximately eight years of active service as a KGB agent after his return from Korea.[^1]
+Blake subsequently betrayed an estimated 40 Western agents - individuals working for MI6 against Soviet bloc targets - to Soviet intelligence. Most of these agents were arrested; according to Tim Weiner and to David Murphy and his co-authors, the majority were executed. He also betrayed other operations and revealed information about MI6's organizational structure, personnel, and methods over approximately eight years of active service as a KGB agent after his return from Korea.[^1]
 
 ### Exposure and Trial
 

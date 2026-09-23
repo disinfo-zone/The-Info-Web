@@ -32,7 +32,7 @@ New Orleans police arrested Halvorsen, then 51, and Woodall in September 1976; h
 
 ### The Dallas Film and the Connick Allegation
 
-The case was said to have broken when film found in a malfunctioning commercial processing machine in Dallas was traced to the assistant scoutmaster [[Harry O. Cramer]], and Halvorsen to have been arrested with Woodall and [[Robert Lang]]. Connick was said to have been implicated by the testimony of one of his own witnesses.[^1]
+The writer S. Dovey wrote that the case broke when film found in a malfunctioning commercial processing machine in Dallas was traced to the assistant scoutmaster [[Harry O. Cramer]], and Halvorsen to have been arrested with Woodall and [[Robert Lang]]. Dovey also wrote that Connick was implicated by the testimony of one of his own witnesses.[^1]
 
 ### Footnotes
 

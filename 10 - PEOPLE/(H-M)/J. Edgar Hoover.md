@@ -5,7 +5,7 @@ aliases:
   - John Edgar Hoover
   - Edgar Hoover
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-09-22
 category: "Key Figures"
 tags:
   - Person
@@ -28,7 +28,7 @@ Hoover created [[COINTELPRO]] (Counter Intelligence Program) in 1956, initially 
 
 ### Relationship with British Security Coordination
 
-During World War II, Hoover initially cooperated with [[British Security Coordination]] (BSC), reportedly suggesting the organization's name and permitting BSC to use FBI radio channels. He became increasingly hostile as evidence accumulated that BSC was conducting unilateral covert operations on U.S. soil, which he regarded as exclusively FBI territory. The Berle surveillance incident (1942), in which BSC operative Dennis Paine was reported to have conducted surveillance on Assistant Secretary of State Adolf Berle, was one documented flashpoint. Hoover eventually refused further dealings with BSC and had to rebuild intelligence relationships with MI5 and MI6 from scratch post-war.[^3]
+During World War II, Hoover initially cooperated with [[British Security Coordination]] (BSC), reportedly suggesting the organization's name and permitting BSC to use FBI radio channels. He became increasingly hostile as evidence accumulated that BSC was conducting unilateral covert operations on U.S. soil, which he regarded as exclusively FBI territory. The Berle surveillance incident (1942), in which, according to the biographer Richard Gid Powers, the BSC operative Dennis Paine surveilled Assistant Secretary of State Adolf Berle, was one documented flashpoint. Hoover eventually refused further dealings with BSC and had to rebuild intelligence relationships with MI5 and MI6 from scratch post-war.[^3]
 
 ### Secret Files and Political Durability
 

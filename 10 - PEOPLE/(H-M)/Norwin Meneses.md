@@ -31,7 +31,7 @@ summary: "Norwin Meneses Cantarero, known as 'El Rey de la Droga,' was Nicaragua
 born: 1943-06-21
 location: "Nicaragua"
 ---
-Norwin Meneses Cantarero, known as "El Rey de la Droga" (The King of Drugs) and "El Perico," was the leader of the Meneses drug organization and is believed to have been the [[Cali Drug Cartel|Cali cartel]]'s representative in [[Nicaragua]]. A drug trafficker since the early 1970s, Meneses lived in the [[United States]] from 1979 until he left for Costa Rica after his nephew's arrest in November 1984,[^13] and worked for the [[Contras]] as a recruiter, arms supplier, and benefactor throughout the entire Contra war.[^2] The [[DEA]] office in Costa Rica used him as a source of information from July 1986 and registered him as an informant from July 24, 1987, to December 23, 1989, and again from May 10 to August 16, 1990.[^13]
+Norwin Meneses Cantarero, known as "El Rey de la Droga" (The King of Drugs) and "El Perico," was the leader of the Meneses drug organization and, according to the journalist Gary Webb, the [[Cali Drug Cartel|Cali cartel]]'s representative in [[Nicaragua]]. A drug trafficker since the early 1970s, Meneses lived in the [[United States]] from 1979 until he left for Costa Rica after his nephew's arrest in November 1984,[^13] and worked for the [[Contras]] as a recruiter, arms supplier, and benefactor throughout the entire Contra war.[^2] The [[DEA]] office in Costa Rica used him as a source of information from July 1986 and registered him as an informant from July 24, 1987, to December 23, 1989, and again from May 10 to August 16, 1990.[^13]
 
 ### Background and Family
 
