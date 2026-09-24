@@ -15,6 +15,8 @@ summary: "Technician at Israel's Dimona reprocessing plant from 1977 to 1985 who
 born: 1954-10-14
 location: "Marrakech, Morocco"
 updated: 2026-09-22
+alias:
+  - "Mordechai Vanunu"
 ---
 
 [[Mordecai Vanunu]] was a former technician at a nuclear facility near [[Dimona]], [[Israel]], who became a whistleblower, exposing details of Israel's nuclear program to the _London Sunday Times_ in 1986.[^1][^2]

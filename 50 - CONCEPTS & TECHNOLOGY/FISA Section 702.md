@@ -13,7 +13,9 @@ tags:
   - BackdoorSearch
 created: 2026-05-22
 updated: 2026-05-22
-summary: "Section 702 of the Foreign Intelligence Surveillance Act authorizes warrantless collection of foreigners' communications from U.S. service providers, with documented application to Americans' communications through 'backdoor searches' that courts have found to require Fourth Amendment scrutiny, including in at least one domestic extremism prosecution."
+summary: "FISA provision authorizing warrantless collection of foreigners' communications from U.S. providers, whose 'backdoor searches' of Americans' communications courts have held require Fourth Amendment scrutiny."
+alias:
+  - "Section 702"
 ---
 
 Section 702 of the [[Foreign Intelligence Surveillance Act]] (FISA) is the statutory authority, codified at [[50 U.S.C. § 1881a]], under which the [[National Security Agency]] (NSA), [[Central Intelligence Agency]] (CIA), and [[Federal Bureau of Investigation]] may compel U.S. electronic communication service providers to assist in the warrantless collection of communications of foreign nationals reasonably believed to be located outside the United States. Enacted as Title VII of the [[FISA Amendments Act of 2008]] and most recently reauthorized by the [[Reforming Intelligence and Securing America Act]] (RISAA) on April 20, 2024, Section 702 does not require the government to obtain an individual warrant before collection. Its application to Americans' communications through "backdoor searches" of the resulting databases has produced a decade of constitutional litigation, documented compliance failures, and at least one challenge in a domestic extremism prosecution arising from the [[2023 Baltimore Power Grid Conspiracy]].

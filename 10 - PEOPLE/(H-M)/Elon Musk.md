@@ -13,7 +13,7 @@ tags:
   - Starlink
 alias:
   - Elon Reeve Musk
-summary: "Elon Musk is a South African-born American billionaire who cofounded PayPal, founded SpaceX and Tesla, acquired X (Twitter), is a PayPal Mafia principal and 2026 Dialog retreat registrant, attended the 2015 Epstein dinner, and has been in documented regular contact with Vladimir Putin since late 2022 while running the Starlink satellite network operationally significant to the Russia-Ukraine war."
+summary: "South African-born billionaire who cofounded PayPal and runs SpaceX and Tesla, acquired Twitter, and was reported in 2024 to have been in regular contact with Vladimir Putin since late 2022."
 born: 1971-06-28
 location: "Pretoria, South Africa (born); Austin, Texas (base)"
 created: 2026-06-18
@@ -50,7 +50,7 @@ Musk has stated publicly that he attended the dinner because Epstein promised to
 
 [[The Wall Street Journal]] reported on October 25, 2024 that Musk had been in regular contact with Putin since late 2022, a relationship that began after Starlink became operationally significant in the Russia-Ukraine war. The contact channel ran through the period of Musk's X acquisition (October 2022), his documented shifts in platform-content moderation toward the post-2022 Russian-state position on the war, and the September 2023 Starlink-Crimea refusal.[^3][^4]
 
-Former FBI agent Jonathan Buma disclosed in May 2025 (per [[The Guardian]]) that Russian-intelligence efforts to target Musk were "intense," and the [[Kyiv Post|Kyiv Post]] reporting on Buma's interview characterized the operation as [[GRU|GRU]]-run, Putin-approved, and exploiting vulnerabilities including drug use, sexual entrapment, and luxury access. The [[Igor Kurganov|Igor Kurganov]] infiltration, documented separately, is the concrete instance: a Russian-born former professional poker player who gained operational access to Musk's philanthropic decision-making and residential life before being removed by wealth manager [[Jared Birchall]] in May 2022.[^4][^9][^10]
+Former FBI agent Jonathan Buma disclosed in May 2025 (per [[The Guardian]]) that Russian-intelligence efforts to target Musk were "intense," and the [[Kyiv Post|Kyiv Post]] reporting on Buma's interview characterized the operation as [[GRU|GRU]]-run, Putin-approved, and exploiting vulnerabilities including drug use, sexual entrapment, and luxury access. The Guardian's article also recounted *Wall Street Journal* reporting from 2022 that an FBI agent had made preliminary inquiries into [[Igor Kurganov|Igor Kurganov]], a Russian-born former professional poker player advising Musk on charitable giving, and that wealth manager [[Jared Birchall]] had Musk remove him from his foundation post in May 2022; the Guardian said it was not aware of Kurganov being named as a foreign agent.[^4][^9][^10]
 
 ### The X Acquisition and Platform Policy
 
@@ -69,4 +69,4 @@ Musk has denied that his activities have been influenced by Russian-state intere
 [^7]: Isaacson, Walter. *Elon Musk.* Simon and Schuster, 2023.
 [^8]: For the 2015 Epstein dinner, see EFTA00344556 and EFTA00344564, indexed in the Carstensen aggregator.
 [^9]: "Russian Intelligence Used Sex, Drugs to Target Elon Musk." *Kyiv Post,* 2025. https://www.kyivpost.com/post/52742
-[^10]: For the Kurganov infiltration and the Birchall removal, see The Guardian May 2025 report and the Igor Kurganov page.
+[^10]: "FBI whistleblower claims he tried to get to Musk to warn him he was being targeted by Russia," *The Guardian,* May 22, 2025 (recounting the *Wall Street Journal*'s July 2022 reporting on Kurganov and Birchall). https://www.theguardian.com/us-news/ng-interactive/2025/may/22/fbi-whistleblower-musk-russia

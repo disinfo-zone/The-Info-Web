@@ -1,9 +1,11 @@
-﻿---
+---
 category: "City"
 tags:
   - geography
   - contra-war
 summary: Fort Lauderdale, Florida was where George Morales had his offices and where Contra representatives approached him to contribute to the war effort.
+alias:
+  - "Fort Lauderdale, Florida"
 ---
 Fort Lauderdale, [[Florida]] was where [[George Morales]] had his offices and where Contra representatives approached him to contribute to the war effort. [[Marcos Aguado]] and [[Felipe Vidal]] met with Morales at his Fort Lauderdale offices and asked him to contribute to [[Eden Pastora|Pastora]]'s army.[^1]
 

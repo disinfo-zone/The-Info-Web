@@ -1,9 +1,11 @@
-﻿---
+---
 category: "City"
 tags:
   - geography
   - contra-war
 summary: Baton Rouge, Louisiana was the base of CIA-DEA contract agent Barry Seal, whose farm served as a cocaine drop site connected to both the Medellín cartel and Contra supply operations.
+alias:
+  - "Baton Rouge"
 ---
 [[Baton Rouge]], Louisiana was the base of [[Central Intelligence Agency]]-[[DEA]] contract agent [[Barry Seal]], whose farm served as a [[Cocaine]] drop site connected to both the [[Medellin Cartel|Medellín Cartel]] and Contra supply operations. Seal moved from Baton Rouge to Mena, [[Arkansas]], in 1982, but his Louisiana connections remained central to the drug trafficking network.[^1]
 

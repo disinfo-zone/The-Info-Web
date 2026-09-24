@@ -11,7 +11,7 @@ tags:
 alias:
   - Charles C. Johnson
   - Chuck Johnson
-summary: "Charles C. Johnson is a far-right provocateur and self-described federal informant who claimed cofounder status at Clearview AI alongside Peter Thiel's seed investment, disclosed Thiel's status as an FBI confidential human source in 2023, and was sued in 2024 for falsely presenting himself as an intelligence agent."
+summary: "Far-right provocateur and self-described federal informant who claimed to have cofounded Clearview AI, disclosed Peter Thiel's status as an FBI source in 2023, and was sued in 2024."
 born: 1988-10-22
 location: "Boston, Massachusetts (born)"
 created: 2026-06-18
@@ -42,7 +42,7 @@ The documented pattern combines three roles: the far-right media provocateur (th
 
 The *[[Business Insider|Business Insider]]* reporting on Thiel's FBI informant status referenced the [[Jonathan Buma|Jonathan Buma]] case. Buma, the Los Angeles FBI counterintelligence agent who handled Thiel as a CHS from summer 2021, was arrested at [[John F. Kennedy International Airport|JFK Airport]] on March 17, 2025 while attempting to board an international flight, charged with unlawfully disclosing confidential information. [[CBS News|CBS News]] reported that FBI investigators assessed Buma may have compromised as many as 130 FBI files.[^2]
 
-Buma publicly accused the FBI of pro-Trump political bias and disclosed GRU targeting of [[Elon Musk|Musk]] and Thiel. The [[The Guardian|Guardian]] reported Buma's claim in May 2025 that Russian-intelligence efforts to target Musk were "intense," and that the [[GRU|GRU]] operation exploited vulnerabilities including drug use, sexual entrapment, and luxury access. The [[Igor Kurganov|Kurganov]] infiltration of Musk's inner circle (documented separately) is the concrete instance of the targeting Buma described.[^2]
+Buma publicly accused the FBI of pro-Trump political bias and disclosed GRU targeting of [[Elon Musk|Musk]] and Thiel. The [[The Guardian|Guardian]] reported Buma's claim in May 2025 that Russian-intelligence efforts to target Musk were "intense"; the Kyiv Post, reporting his interview with ZDF, described the [[GRU|GRU]] operation he alleged as exploiting vulnerabilities including drug use, sexual entrapment, and luxury access.[^2] The Guardian's report also recounted earlier *Wall Street Journal* reporting that an FBI agent had made preliminary inquiries into [[Igor Kurganov]], an adviser on Musk's charitable giving, and noted that it was not aware of Kurganov being named as a foreign agent.[^2]
 
 The Buma-Thiel-Johnson triangle involves three documented roles: Buma as the FBI handler who managed Thiel as a CHS, Thiel as the billionaire source whose FBI relationship Johnson disclosed, and Johnson as the far-right operative who connected the Thiel commercial network to the federal informant infrastructure and to the Clearview surveillance-technology founding. The full content of Buma's disclosures is part of the ongoing congressional and Inspector General review of the FBI's source program. A House Judiciary Committee document submitted January 22, 2026 references Thiel's CHS role.[^2]
 

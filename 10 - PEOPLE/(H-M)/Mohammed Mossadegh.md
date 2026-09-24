@@ -8,6 +8,8 @@ summary: "Iranian Prime Minister overthrown in 1953 with CIA help after national
 born: 1882
 died: 1967
 location: "Tehran, Iran"
+alias:
+  - "Mohammad Mosaddegh"
 ---
 
 [[Mohammed Mossadegh]] was the Prime Minister of [[Iran]]. In late 1950 and early 1951, the Majlis (Parliament) passed an act nationalizing oil, leading to the withdrawal of the British [[Anglo-Iranian Oil Company]]. This resulted in [[Mohammed Mossadegh|Mossadegh]] being in charge of a nation in uproar, with fierce internal conflicts and street riots.[^1]

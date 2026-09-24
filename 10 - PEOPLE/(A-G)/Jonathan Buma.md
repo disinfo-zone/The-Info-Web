@@ -14,7 +14,7 @@ tags:
   - Disclosure
 alias:
   - Johnathan Buma
-summary: "Johnathan Buma is a former FBI special agent who specialized in Russian counterintelligence at the Los Angeles field office, who handled Peter Thiel as a confidential human source from summer 2021, who originated the FBI's first Hunter Biden tax inquiry in January 2019, who worked the Giuliani-Ukraine investigation, who publicly accused the FBI of pro-Trump political bias, and who was arrested at JFK on March 17, 2025 and charged with unlawfully disclosing confidential records."
+summary: "Former FBI counterintelligence agent in Los Angeles who handled Peter Thiel as a confidential source from 2021 and was arrested in March 2025 on a charge of disclosing confidential information."
 location: "Los Angeles, California (FBI field office)"
 created: 2026-06-18
 updated: 2026-06-18
@@ -42,7 +42,7 @@ The documented Musk-Putin contact channel is the corroborating datum. The [[Wall
 
 ### The Igor Kurganov Infiltration
 
-The Guardian piece documented the Kurganov case as the concrete instance of the targeting Buma described. Igor Kurganov is a Russian-born former professional poker player who gained influence over Musk's charitable giving during the pandemic period. Kurganov was sleeping in Musk's Austin home during the pandemic, advising Musk on philanthropic strategy, and became the subject of FBI preliminary inquiries into whether his access constituted a foreign-interference channel. [[Jared Birchall|Jared Birchall]], Musk's wealth manager and the head of Musk's family office, confronted Musk about Kurganov and removed him from the inner circle in May 2022.[^4]
+The Guardian article placed alongside Buma's claims earlier *Wall Street Journal* reporting on Igor Kurganov, a Russian-born former professional poker player who advised Musk on charitable giving during the pandemic: the Journal had reported that Musk's wealth manager, [[Jared Birchall|Jared Birchall]], learned an FBI agent was making preliminary inquiries into Kurganov, and that in May 2022 Birchall asked Musk to remove him from his post at Musk's foundation. The Guardian added that it was "not aware of Kurganov being named as a foreign agent, and he has no known connections to Russia, other than having been born there."[^4]
 
 Kurganov gained operational access to a sitting technology billionaire's philanthropic decision-making and residential life. The FBI's preliminary inquiry and the subsequent removal by Birchall terminated the access but did not resolve the counterintelligence question of what Kurganov did with it.[^4]
 

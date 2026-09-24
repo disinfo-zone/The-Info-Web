@@ -12,11 +12,13 @@ tags:
   - TerroristDesignation
   - AWD
   - FashFront
-summary: "Terrorgram Collective was an international accelerationist neo-Nazi Telegram network linked to attacks in multiple countries, generating prosecutions across the US, Canada, Slovakia, Denmark, and Australia with sentences totaling over 75 years of imprisonment across named defendants as of May 2026."
+summary: "International accelerationist neo-Nazi Telegram network linked to attacks in several countries, whose members were prosecuted in the US, Canada, Slovakia, Denmark and Australia."
 created: 2026-05-21
 updated: 2026-05-22
 start: 2019
 location: "Telegram (online)"
+alias:
+  - "Terrorgram"
 ---
 
 [[Terrorgram Collective]] was an international accelerationist neo-Nazi network that coalesced on [[Telegram]] during the summer of 2019, co-founded by [[Pavol Beňadik]] of [[Slovakia]] and [[Matthew Althorpe]] of [[Canada]], in the immediate aftermath of [[Brenton Tarrant]]'s Christchurch mosque attacks. At its peak, the network operated through approximately 400 channels and 200 group chats, produced three major zine-format propaganda publications and a documentary-style video series, developed and distributed the "Saints Culture" framework glorifying mass shooters as martyrs, and was linked by a joint [[ProPublica]] and [[PBS FRONTLINE]] investigation to 35 attacks and plots internationally. The [[United Kingdom]] became the first country in the world to proscribe it as a terrorist organization on April 26, 2024; the [[United States]], [[Australia]], and [[Canada]] followed with formal designations in 2025.

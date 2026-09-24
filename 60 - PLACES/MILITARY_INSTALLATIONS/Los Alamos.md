@@ -1,4 +1,4 @@
-﻿---
+---
 category: "Military Installation"
 tags:
   - MilitaryInstallation
@@ -6,10 +6,12 @@ tags:
   - CIA
   - Intelligence
   - Espionage
-summary: "Los Alamos National Laboratory in New Mexico is the birthplace of the atomic bomb (Manhattan Project) and remains one of the primary U.S. nuclear weapons design facilities; it appears in this vault through nuclear intelligence subjects, espionage cases, and figures who worked at the lab and appear in Cold War intelligence contexts."
+summary: "Los Alamos National Laboratory in New Mexico, where the Manhattan Project built the first atomic bomb, and one of the primary U.S. nuclear weapons design facilities."
 created: 2026-05-14
 updated: 2026-05-14
 location: "Los Alamos, New Mexico, United States"
+alias:
+  - "Los Alamos National Laboratory"
 ---
 
 Los Alamos National Laboratory (LANL) is a U.S. Department of Energy national laboratory located on a mesa in the Jemez Mountains of northern [[New Mexico]], approximately 35 miles northwest of [[Santa Fe]]. Established as the Manhattan Project's weapons design laboratory (Project Y) in 1943 under scientific director J. Robert Oppenheimer, Los Alamos designed and built the first nuclear weapons, including "Little Boy" (uranium gun-type) and "Fat Man" (plutonium implosion) that were used against Hiroshima and Nagasaki in August 1945. The laboratory continues to design and certify nuclear weapons for the U.S. stockpile.[^1]
