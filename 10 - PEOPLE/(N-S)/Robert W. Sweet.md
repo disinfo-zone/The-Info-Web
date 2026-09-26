@@ -12,7 +12,6 @@ tags:
 alias:
   - Robert Sweet
   - Robert Workman Sweet
-  - Judge Sweet
   - Judge Robert W. Sweet
   - Robert W. Sweet
 summary: "Former New York deputy mayor and Carter-appointed Manhattan federal judge who sentenced Towers Financial's Steven Hoffenberg in 1997 and presided over the sealed Giuffre v. Maxwell record until his death in 2019."

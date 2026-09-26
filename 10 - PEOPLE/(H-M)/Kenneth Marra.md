@@ -11,7 +11,6 @@ tags:
 alias:
   - Kenneth A. Marra
   - Judge Kenneth Marra
-  - Judge Marra
 summary: "Kenneth Marra is a U.S. district judge in West Palm Beach, appointed in 2002, who presided over the Epstein victims' Crime Victims' Rights Act case and the Chiquita paramilitary-financing litigation."
 born: 1951
 location: "Queens, New York (born)"

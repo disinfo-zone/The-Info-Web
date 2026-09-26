@@ -30,7 +30,7 @@ Time's characterization of the Dark Alliance series reflected the genuine public
 
 ### Ownership
 
-On September 16, 2018, the [[Meredith Corporation]], which had acquired Time Inc., announced that it would sell the Time brand to [[Marc Benioff]] and [[Lynne Benioff]] for 190 million dollars in cash. The purchase was personal to the Benioffs and "unrelated to Salesforce.com," and the couple were not to be "involved in the day-to-day operations or journalistic decisions," which remained with the editor-in-chief, Edward Felsenthal. Citigroup and Cooley advised Meredith; BDT & Company and Goodwin Procter advised the Benioffs. Meredith applied the proceeds to reducing its debt. "TIME has always been a trusted reflection of the state of the world," the Benioffs said.[^3]
+On September 16, 2018, the [[Meredith Corporation]], which had acquired Time Inc., announced that it would sell the Time brand to [[Marc Benioff]] and [[Lynne Benioff]] for 190 million dollars in cash. The purchase was personal to the Benioffs and "unrelated to Salesforce.com," and the couple were not to be "involved in the day-to-day operations or journalistic decisions," which remained with the editor-in-chief, Edward Felsenthal. Citigroup and Cooley advised Meredith; BDT & Company and [[Goodwin Procter]] advised the Benioffs. Meredith applied the proceeds to reducing its debt. "TIME has always been a trusted reflection of the state of the world," the Benioffs said.[^3]
 
 ### BCCI Reporting
 

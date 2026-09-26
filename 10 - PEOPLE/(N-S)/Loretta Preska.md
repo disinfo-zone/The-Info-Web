@@ -11,7 +11,6 @@ tags:
   - Stratfor
 alias:
   - Loretta A. Preska
-  - Judge Preska
   - Judge Loretta Preska
   - Loretta Preska
 summary: "Manhattan federal judge appointed by George H.W. Bush, chief judge from 2009 to 2016, who inherited the sealed Giuffre v. Maxwell record in 2019 and managed its unsealing through 2026."
@@ -60,7 +59,7 @@ Preska held further hearings on the protocol in 2021 and 2022, ruled on a reques
 
 On July 23, 2025, three months after Giuffre's death, a panel of Judges Cabranes, Raggi and [[Myrna Pérez]] held that "a judicial document determination is properly made by evaluating the relevant materials at the time of their filing with the court," vacated "the district court's December 2019 and January 2020 Orders in their entirety," vacated in part the November 2022 ruling, including its treatment of Giuffre's Florida deposition as carrying only a "barely cognizable" presumption of access, and remanded "for individualized review of materials." The mandate issued on January 8, 2026.[^7]
 
-On January 30, 2026 the [[U.S. Attorney's Office for the Southern District of New York]] moved for disclosure (ECF No. 1353). Maxwell's opposition attached the record of a grand jury subpoena and an April 9, 2019 order in In re Grand Jury Subpoena, No. 19-MC-149 (CM), under which prosecutors had obtained the civil discovery from Boies Schiller Flexner months before Epstein's arrest. On August 11, 2026 Preska granted the motion (ECF No. 1367), adding to the 2016 protective order a paragraph authorizing the government to produce "documents that it received from Boies Schiller & Flexner LLP, in response to a grand jury subpoena and pursuant to the April 9, 2019, order issued in In re Grand Jury Subpoena, No. 19MC149 (CM) (S.D.N.Y.), in accordance with the Government's obligations under the Epstein Files Transparency Act." On September 3, 2026 she substituted [[Ian Torrington Blatchford]], interim administrator of Giuffre's estate, as plaintiff, and the case continued as Blatchford v. Maxwell.[^8]
+On January 30, 2026 the [[U.S. Attorney's Office for the Southern District of New York]] moved for disclosure (ECF No. 1353). Maxwell's opposition attached the record of a grand jury subpoena and an April 9, 2019 order in In re Grand Jury Subpoena, No. 19-MC-149 (CM), under which prosecutors had obtained the civil discovery from Boies Schiller Flexner months before Epstein's arrest. On August 11, 2026 Preska granted the motion (ECF No. 1367), adding to the 2016 protective order a paragraph authorizing the government to produce "documents that it received from [[Boies Schiller Flexner|Boies Schiller & Flexner LLP]], in response to a grand jury subpoena and pursuant to the April 9, 2019, order issued in In re Grand Jury Subpoena, No. 19MC149 (CM) (S.D.N.Y.), in accordance with the Government's obligations under the Epstein Files Transparency Act." On September 3, 2026 she substituted [[Ian Torrington Blatchford]], interim administrator of Giuffre's estate, as plaintiff, and the case continued as Blatchford v. Maxwell.[^8]
 
 ### Footnotes
 

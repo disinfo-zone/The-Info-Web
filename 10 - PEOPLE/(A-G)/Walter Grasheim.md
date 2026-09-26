@@ -32,7 +32,7 @@ Grasheim strenuously denied involvement with either the Contras or drugs and bel
 
 ### CIA Infiltration of Castillo's Investigation
 
-The Justice Department Inspector General's report partially confirmed Grasheim's account. Castillo's informant Murga, who directed Castillo toward Grasheim by fingering him as "head of smuggling operations at Ilopango," was indeed a CIA asset and had been for some time. Soon after putting Castillo onto Grasheim, the CIA demanded Murga back. Castillo's boss Robert Stia "recalled being asked by the CIA station chief in El Salvador to relinquish the use of informant" Murga. "The Station Chief had explained that the CIA had established the informant before he had ever worked for the DEA" and wanted the DEA to stop using him because "he was currently a CIA informant." Stia complied but complained internally that the CIA had cost the DEA a valuable asset.[^1]
+The [[Department of Justice Office of the Inspector General|Justice Department Inspector General]]'s report partially confirmed Grasheim's account. Castillo's informant Murga, who directed Castillo toward Grasheim by fingering him as "head of smuggling operations at Ilopango," was indeed a CIA asset and had been for some time. Soon after putting Castillo onto Grasheim, the CIA demanded Murga back. Castillo's boss Robert Stia "recalled being asked by the CIA station chief in El Salvador to relinquish the use of informant" Murga. "The Station Chief had explained that the CIA had established the informant before he had ever worked for the DEA" and wanted the DEA to stop using him because "he was currently a CIA informant." Stia complied but complained internally that the CIA had cost the DEA a valuable asset.[^1]
 
 ### Footnotes
 

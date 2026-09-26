@@ -12,7 +12,6 @@ tags:
 alias:
   - Jed S. Rakoff
   - Jed Saul Rakoff
-  - Judge Rakoff
   - Judge Jed Rakoff
   - Jed Rakoff
 summary: "Former chief of securities fraud prosecutions in Manhattan, appointed a federal judge by Bill Clinton, who rejected the SEC's Citigroup settlement in 2011 and presided over the 2023 Epstein suits against JPMorgan and Deutsche Bank."

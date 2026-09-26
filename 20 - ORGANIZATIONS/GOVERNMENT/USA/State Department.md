@@ -37,7 +37,7 @@ The State Department under Secretary of State [[Henry Kissinger]] received over 
 
 ### Dark Alliance Investigation
 
-The State Department granted [[Danilo Blandon|Danilo Blandón]] political asylum in 1984 despite the [[DEA]] having identified him as a major cocaine trafficker since 1983. It is State Department policy to check with the DEA before approving asylum applications. When the Justice Department's Inspector General examined Blandón's immigration records, he found them "in disarray." The same occurred with Blandón's wife [[Chepita Blandon|Chepita]], granted asylum in 1985 despite being reported as a "member of a cocaine distribution organization."[^8]
+The State Department granted [[Danilo Blandon|Danilo Blandón]] political asylum in 1984 despite the [[DEA]] having identified him as a major cocaine trafficker since 1983. It is State Department policy to check with the DEA before approving asylum applications. When the [[Department of Justice Office of the Inspector General|Justice Department's Inspector General]] examined Blandón's immigration records, he found them "in disarray." The same occurred with Blandón's wife [[Chepita Blandon|Chepita]], granted asylum in 1985 despite being reported as a "member of a cocaine distribution organization."[^8]
 
 The State Department's Office of Public Diplomacy for [[Latin America]] was described by a 1992 House committee report as "a domestic, covert operation designed to lobby the Congress, manipulate the media and influence domestic public opinion" regarding the Contra war. The State Department issued a White Paper on Contra drug allegations that belittled every claim except those involving the [[Sandinistas]], studiously avoiding any mention of [[Norwin Meneses]].[^9]
 

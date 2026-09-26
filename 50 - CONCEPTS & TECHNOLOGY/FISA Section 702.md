@@ -84,7 +84,7 @@ In August 2024, DOJ overseers discovered that the FBI had been using a querying 
 
 ### DOJ OIG Report 26-002
 
-The DOJ Office of Inspector General released report 26-002, "A Review of the Federal Bureau of Investigation's Querying Practices Under Section 702 of the Foreign Intelligence Surveillance Act," on October 2, 2025. The report found that the FBI had implemented all RISAA-required querying reforms and that the number of noncompliant queries had been substantially reduced. However, the OIG expressed concern that the total number of FBI queries had also declined sharply, with FBI and National Security Division personnel expressing worry that agents might be failing to run queries they should run, potentially missing threat information. The OIG identified four recommendations, all of which remained open as of the report's release.[^11]
+The [[Department of Justice Office of the Inspector General|DOJ Office of Inspector General]] released report 26-002, "A Review of the Federal Bureau of Investigation's Querying Practices Under Section 702 of the Foreign Intelligence Surveillance Act," on October 2, 2025. The report found that the FBI had implemented all RISAA-required querying reforms and that the number of noncompliant queries had been substantially reduced. However, the OIG expressed concern that the total number of FBI queries had also declined sharply, with FBI and National Security Division personnel expressing worry that agents might be failing to run queries they should run, potentially missing threat information. The OIG identified four recommendations, all of which remained open as of the report's release.[^11]
 
 ### PCLOB Oversight
 

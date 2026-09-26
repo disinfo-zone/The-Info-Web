@@ -21,7 +21,7 @@ summary: "DEA agent in Costa Rica who handled Norwin Meneses as an informant and
 
 Gonzalez made no official record of Meneses as an informant for at least a year. Meneses's name did not appear in the DEA's database of informers until 1987. Gonzalez explained this to Justice Department investigators by saying Meneses "initially refused to sign DEA's informant registration." Gonzalez admitted this was unusual but said he "[allowed] it because of Meneses' background and potential to make cases." The practical effect was that "other DEA offices could not get information on Meneses' use by the DEA through this database." Meneses was wanted by the [[Federal Bureau of Investigation]] in San Francisco for trafficking, and the off-the-books arrangement effectively protected him from other law enforcement agencies.[^1]
 
-The Justice Department's Inspector General found that the vague and sometimes wildly misleading accusations Meneses made against other traffickers included the claim that [[Danilo Blandon|Danilo Blandón]], who had helped start the [[FDN]] offices in California, "was a Sandinista sympathizer."[^1]
+The [[Department of Justice Office of the Inspector General|Justice Department's Inspector General]] found that the vague and sometimes wildly misleading accusations Meneses made against other traffickers included the claim that [[Danilo Blandon|Danilo Blandón]], who had helped start the [[FDN]] offices in California, "was a Sandinista sympathizer."[^1]
 
 ### CIA Collaboration
 

@@ -13,7 +13,6 @@ alias:
   - Ericka Kellerhals
   - Erica Kellerhals
   - Erika A. Kellerhals
-  - Attorney Kellerhals
 summary: "St. Thomas tax lawyer who represented Jeffrey Epstein before the Virgin Islands tax-incentive board and justice department, served as a trustee of his Butterfly Trust, and received his foundation's mail."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

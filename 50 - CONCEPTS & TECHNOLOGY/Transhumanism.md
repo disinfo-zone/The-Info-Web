@@ -12,13 +12,13 @@ alias:
   - Transhumanism
   - Transhumanist
   - H+
-summary: "Transhumanism is the movement to use technology to transcend the biological limits of the human condition, named in its modern sense by Julian Huxley in 1957 and organized academically by the World Transhumanist Association that Nick Bostrom and David Pearce founded in 1998."
+summary: "Transhumanism is the movement to use technology to transcend human biological limits, named in its modern sense by Julian Huxley in 1957 and organized through the World Transhumanist Association founded in 1998."
 location: "United Kingdom; California"
 created: 2026-06-20
 updated: 2026-06-20
 ---
 
-Transhumanism is the intellectual and cultural movement that holds that human beings can and should use science and technology to overcome the fundamental limits of their biology, including disease, aging, death, and the bounds of human cognition. Its program spans radical life extension, cognitive and physical enhancement, genetic engineering, mind uploading, cryonics, and the eventual emergence of a posthuman condition. The term in its modern sense comes from the biologist [[Julian Huxley]] in 1957, and the movement acquired an organizational form with the World Transhumanist Association founded by [[Nick Bostrom]] and [[David Pearce]] in 1998. It is the umbrella under which the libertarian [[Extropianism|extropian]] current and the academic and technoprogressive wings both fall.[^1][^2]
+Transhumanism is the intellectual and cultural movement that holds that human beings can and should use science and technology to overcome the fundamental limits of their biology, including disease, aging, death, and the bounds of human cognition. Its program spans radical life extension, cognitive and physical enhancement, genetic engineering, mind uploading, cryonics, and the eventual emergence of a posthuman condition. The term in its modern sense comes from the biologist [[Julian Huxley]] in 1957, and the movement acquired an organizational form with the [[World Transhumanist Association]] founded by [[Nick Bostrom]] and [[David Pearce]] in 1998. It is the umbrella under which the libertarian [[Extropianism|extropian]] current and the academic and technoprogressive wings both fall.[^1][^2]
 
 ### The Term and Its Precursors
 

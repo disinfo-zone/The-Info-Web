@@ -46,7 +46,7 @@ The Costa Rican CIA station cabled Langley warning that both Aviles and Rappacci
 
 The government returned the $36,020 to Zavala and Aviles in October 1984 in exchange for dropping the Costa Rican depositions. A CIA cable declared: "CIA equities are fully protected."[^1]
 
-U.S. Attorney Russoniello later claimed the money was returned to save the cost of travel. The Justice Department Inspector General concluded the CIA intervened because of "a desire to protect the public image of the Contras or the CIA." CIA cables described Russoniello as "most deferential to our interests." A secret 1987 DEA report noted that a defendant in the Frogman case had made 51 phone calls to the [[FDN]] office in San Francisco.[^1]
+U.S. Attorney Russoniello later claimed the money was returned to save the cost of travel. The [[Department of Justice Office of the Inspector General|Justice Department Inspector General]] concluded the CIA intervened because of "a desire to protect the public image of the Contras or the CIA." CIA cables described Russoniello as "most deferential to our interests." A secret 1987 DEA report noted that a defendant in the Frogman case had made 51 phone calls to the [[FDN]] office in San Francisco.[^1]
 
 ### Suppression of Contra Links
 

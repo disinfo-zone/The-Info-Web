@@ -54,7 +54,7 @@ Checks of "Gratitude America, Ltd," with an account address in New York, New Yor
 
 ### Other Grantees
 
-Gratitude America was listed with the [[Jeffrey Epstein VI Foundation]] and the C.O.U.Q. Foundation among the funders of [[John Brockman]]'s [[Edge Foundation]]; financial records reviewed by *BuzzFeed News* showed that the Epstein entities together provided 638,000 dollars of the roughly 857,000 dollars Edge received from 2001 to 2017.[^12] In June 2026 Representative [[Jamie Raskin]], ranking Democrat on the [[House Judiciary Committee]], asked Bard for all records of payments from a list of Epstein-linked entities that included "Gratitude America Ltd.," the Butterfly Trust, Southern Trust Company, Inc., Southern Financial LLC, Plan D, LLC and the "Haze Trust."[^13]
+Gratitude America was listed with the [[Jeffrey Epstein VI Foundation]] and the C.O.U.Q. Foundation among the funders of [[John Brockman]]'s [[Edge Foundation]]; financial records reviewed by *BuzzFeed News* showed that the Epstein entities together provided 638,000 dollars of the roughly 857,000 dollars Edge received from 2001 to 2017.[^12] In June 2026 Representative [[Jamie Raskin]], ranking Democrat on the [[House Judiciary Committee]], asked Bard for all records of payments from a list of Epstein-linked entities that included "Gratitude America Ltd.," the Butterfly Trust, Southern Trust Company, Inc., [[Southern Financial LLC]], Plan D, LLC and the "Haze Trust."[^13]
 
 ### Footnotes
 

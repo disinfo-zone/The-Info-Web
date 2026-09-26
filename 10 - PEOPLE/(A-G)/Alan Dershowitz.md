@@ -11,7 +11,6 @@ tags:
 alias:
   - Alan M. Dershowitz
   - Alan Morton Dershowitz
-  - Professor Dershowitz
 summary: "Alan Dershowitz is a Harvard law professor emeritus who was on Jeffrey Epstein's 2006 to 2008 defense team, was accused by Virginia Giuffre, denied it, and settled the litigation in 2016 and 2022."
 born: 1938-09-01
 location: "Brooklyn, New York (born)"
