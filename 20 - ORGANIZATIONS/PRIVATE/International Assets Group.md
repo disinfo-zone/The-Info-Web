@@ -43,7 +43,7 @@ Epstein met Steven Hoffenberg in London in the 1980s. Hoffenberg said the two we
 
 A Towers press release on the proposed 1987 Pan Am acquisition stated: "Jeffrey Epstein, chairman of the board of directors of Intercontinental Asset Group, is a financial advisor who has been familiar with Pan Am for approximately six years. Epstein serves as an advisor to Towers/United's management with respect to the proposed transaction." Towers attempted to use 3 million dollars from its insurance holding company, [[United Diversified Corporation]], to finance the bid. A 1991 suit by the [[Illinois Department of Insurance]] listed "a series of checks payable to Jeff Epstein or Jeff Epstein & Co. totaling $215,000" among improper disbursements from the United Fire and United Diversified accounts; Epstein was not a defendant.[^3]
 
-Hoffenberg later swore that Epstein used money taken in the Towers scheme "as start-up capital for his corporations, including [[Financial Trust Company|The Financial Trust Company]]," the St. Thomas company Epstein incorporated in 1998. Epstein denied any dealings with the Towers insurers and was never charged; Vanity Fair noted that much of Hoffenberg's testimony in his criminal case "has proven to be false."[^1][^2]
+Hoffenberg later swore that Epstein used money taken in the Towers scheme "as start-up capital for his corporations, including [[Financial Trust Company|The Financial Trust Company]]," the [[St. Thomas]] company Epstein incorporated in 1998. Epstein denied any dealings with the Towers insurers and was never charged; Vanity Fair noted that much of Hoffenberg's testimony in his criminal case "has proven to be false."[^1][^2]
 
 ### Footnotes
 

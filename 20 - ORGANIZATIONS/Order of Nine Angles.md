@@ -106,7 +106,7 @@ The cases of the unnamed Cornish teenager ([[Feuerkrieg Division]] UK leader, se
 
 Documented individuals who committed or planned violence while affiliated with or influenced by O9A include:
 
-[[Ethan Phelan Melzer]], a U.S. Army Private in the 173rd Airborne Brigade who, under the alias "Etil Reggad," transmitted classified information about his unit's planned deployment to Turkey to O9A members on [[Telegram]], conspiring to facilitate a mass-casualty attack on his own soldiers. Arrested May 2020 in Vicenza, Italy; convicted in the Southern District of New York; sentenced March 2023 to 45 years in prison.[^20]
+[[Ethan Phelan Melzer]], a U.S. Army Private in the 173rd Airborne Brigade who, under the alias "Etil Reggad," transmitted classified information about his unit's planned deployment to Turkey to O9A members on [[Telegram]], conspiring to facilitate a mass-casualty attack on his own soldiers. Arrested May 2020 in Vicenza, Italy; convicted in the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]]; sentenced March 2023 to 45 years in prison.[^20]
 
 [[Guilherme Von Neutegem]], a Canadian O9A adherent charged with murder for killing a victim outside a mosque in Toronto in 2020.
 

@@ -12,7 +12,7 @@ tags:
   - Iran
   - Israel
   - USCustoms
-summary: "The Hashemi Sting was a 1986 U.S. Customs undercover operation targeting illegal arms sales to Iran, prosecuted by U.S. Attorney Rudolph Giuliani's Southern District of New York office, which resulted in indictments of arms dealers including former Israeli general Avraham Bar-Am; it intersected directly with the Iran-Contra network and the October Surprise investigations, and its key informant Cyrus Hashemi died in London under disputed circumstances shortly after the sting concluded."
+summary: "The Hashemi Sting was a 1986 U.S. Customs undercover operation against arms sales to Iran, prosecuted by Rudolph Giuliani's Southern District of New York office; its informant Cyrus Hashemi died in London that year."
 created: 2026-05-15
 updated: 2026-05-17
 start: 1985-01-01
@@ -20,7 +20,7 @@ end: 1986-12-31
 location: "New York"
 ---
 
-The Hashemi Sting was a joint U.S. Customs Service and FBI undercover operation conducted in 1985-1986 targeting illegal arms trafficking to [[Iran]], an operation that became entangled with the parallel [[Iran-Contra Affair]] and the [[October Surprise]] network through its principal informant, Iranian-American arms dealer Cyrus Hashemi. The operation resulted in indictments prosecuted by then-U.S. Attorney for the Southern District of New York [[Rudolph Giuliani]], and its aftermath raised serious questions about the relationship between legitimate law enforcement, intelligence operations, and the covert arms pipeline to Iran authorized at the highest levels of the [[Ronald Reagan|Reagan]] administration.[^1]
+The Hashemi Sting was a joint U.S. Customs Service and FBI undercover operation conducted in 1985-1986 targeting illegal arms trafficking to [[Iran]], an operation that became entangled with the parallel [[Iran-Contra Affair]] and the [[October Surprise]] network through its principal informant, Iranian-American arms dealer Cyrus Hashemi. The operation resulted in indictments prosecuted by then-U.S. Attorney for the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]] [[Rudolph Giuliani]], and its aftermath raised serious questions about the relationship between legitimate law enforcement, intelligence operations, and the covert arms pipeline to Iran authorized at the highest levels of the [[Ronald Reagan|Reagan]] administration.[^1]
 
 ### Cyrus Hashemi
 

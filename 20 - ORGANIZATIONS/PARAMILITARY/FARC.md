@@ -17,7 +17,7 @@ tags:
   - 1980s
   - 1990s
   - 2000s
-summary: "The Revolutionary Armed Forces of Colombia (FARC) was a Marxist-Leninist guerrilla organization founded in 1964 that financed operations through cocaine taxation and drug trafficking, fielding approximately 20,000 fighters at its peak before a 2016 peace agreement produced a formal dissolution."
+summary: "The Revolutionary Armed Forces of Colombia (FARC) was a Marxist-Leninist guerrilla organization founded in 1964 that financed itself through cocaine taxation and trafficking and formally dissolved after a 2016 peace agreement."
 start: 1964-05-27
 location: "Colombia"
 ---
@@ -34,7 +34,7 @@ The FARC's transformation into a major armed organization was financed substanti
 
 ### DEA Operations
 
-The [[DEA|Drug Enforcement Administration]] designated the FARC as a major drug trafficking organization and conducted multiple operations targeting its financial and logistical networks. In 2007-2008, the DEA conducted a sting operation in which undercover agents posing as FARC representatives contacted arms dealer [[Monzer Al-Kassar]], seeking weapons including anti-aircraft missiles. Al-Kassar agreed to supply weapons to what he believed was the FARC for operations against Americans in Colombia. His arrest and extradition to the United States resulted in a 2008 conviction in the Southern District of New York, with the FARC weapons solicitation forming the core of the charges.[^1]
+The [[DEA|Drug Enforcement Administration]] designated the FARC as a major drug trafficking organization and conducted multiple operations targeting its financial and logistical networks. In 2007-2008, the DEA conducted a sting operation in which undercover agents posing as FARC representatives contacted arms dealer [[Monzer Al-Kassar]], seeking weapons including anti-aircraft missiles. Al-Kassar agreed to supply weapons to what he believed was the FARC for operations against Americans in Colombia. His arrest and extradition to the United States resulted in a 2008 conviction in the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]], with the FARC weapons solicitation forming the core of the charges.[^1]
 
 ### Peace Agreement and Aftermath
 

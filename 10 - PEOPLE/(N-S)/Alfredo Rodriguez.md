@@ -45,7 +45,7 @@ Epstein himself had received an agreed eighteen-month state sentence under the 2
 
 ### The Directory at the Maxwell Trial
 
-A copy of the same contact book was admitted as Government Exhibit 52 at the 2021 trial of [[Ghislaine Maxwell]] in the Southern District of New York, over defense objections, after its authentication by another former Palm Beach house manager, [[Juan Alessi]], on December 8, 2021.[^4]
+A copy of the same contact book was admitted as Government Exhibit 52 at the 2021 trial of [[Ghislaine Maxwell]] in the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]], over defense objections, after its authentication by another former Palm Beach house manager, [[Juan Alessi]], on December 8, 2021.[^4]
 
 ### Footnotes
 

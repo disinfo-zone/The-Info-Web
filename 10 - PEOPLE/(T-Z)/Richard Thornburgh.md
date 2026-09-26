@@ -34,7 +34,7 @@ The department's draft press releases described first a 316-count indictment of 
 
 ### Later Career
 
-After leaving the Senate race, Thornburgh was appointed UN Under-Secretary General for Administration and Management by President Bush in 1992, serving through 1993. He returned to private practice at K&L Gates in Pittsburgh. In 2002, the U.S. Bankruptcy Court for the Southern District of New York appointed him examiner in the WorldCom bankruptcy; his report included findings on the conduct of Arthur Andersen and Citigroup. In 2004, he co-chaired the independent panel investigating CBS News's *60 Minutes Wednesday* report on President [[George W. Bush]]'s National Guard service.[^1]
+After leaving the Senate race, Thornburgh was appointed UN Under-Secretary General for Administration and Management by President Bush in 1992, serving through 1993. He returned to private practice at K&L Gates in Pittsburgh. In 2002, the U.S. Bankruptcy Court for the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]] appointed him examiner in the WorldCom bankruptcy; his report included findings on the conduct of Arthur Andersen and Citigroup. In 2004, he co-chaired the independent panel investigating CBS News's *60 Minutes Wednesday* report on President [[George W. Bush]]'s National Guard service.[^1]
 
 ### Footnotes
 

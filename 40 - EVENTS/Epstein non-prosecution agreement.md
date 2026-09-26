@@ -107,7 +107,7 @@ On November 29, 2007 Sloman forwarded an exchange with Lourie recording that the
 
 ### The Terms
 
-The agreement required Epstein to plead guilty in state court to the pending solicitation indictment and to a new information charging procurement of minors for prostitution under Florida Statute 796.03, an offense requiring sex offender registration, and to make a binding joint recommendation of 18 months in county jail followed by 12 months of community control. In exchange the office agreed not to prosecute him in the Southern District of Florida.[^2]
+The agreement required Epstein to plead guilty in state court to the pending solicitation indictment and to a new information charging procurement of minors for prostitution under Florida Statute 796.03, an offense requiring sex offender registration, and to make a binding joint recommendation of 18 months in county jail followed by 12 months of community control. In exchange the office agreed not to prosecute him in the [[U.S. Attorney's Office for the Southern District of Florida|Southern District of Florida]].[^2]
 
 The immunity clause read: "the United States also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein, including but not limited to [[Sarah Kellen]], [[Adriana Ross]], [[Lesley Groff]], or [[Nadia Marcinkova]]." A confidentiality clause provided that "[t]he parties anticipate that this agreement will not be made part of any public record," and that if the government received a [[Freedom of Information Act]] request or compulsory process for the agreement, "it will provide notice to Epstein before making that disclosure."[^1]
 

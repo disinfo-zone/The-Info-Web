@@ -38,7 +38,7 @@ Franklin National Bank collapsed on October 8, 1974, in what was at the time the
 
 ### American Criminal Proceedings
 
-Sindona was indicted in the United States on multiple counts related to the Franklin National failure. In March 1980, he was convicted in the Southern District of New York on 65 counts of fraud, perjury, and misappropriation of bank funds. He was sentenced to 25 years in federal prison.
+Sindona was indicted in the United States on multiple counts related to the Franklin National failure. In March 1980, he was convicted in the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]] on 65 counts of fraud, perjury, and misappropriation of bank funds. He was sentenced to 25 years in federal prison.
 
 Before his American trial, Sindona faked his own kidnapping in August 1979, traveling to Sicily under an assumed identity and making contact with Mafia figures before returning to New York and claiming he had been abducted. The fiction was intended to generate sympathy and delay his trial; it failed when investigators documented his actual movements.[^2]
 

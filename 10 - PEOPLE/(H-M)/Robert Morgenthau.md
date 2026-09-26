@@ -33,7 +33,7 @@ Morgenthau's investigation also targeted [[Kamal Adham]], who eventually pleaded
 
 Morgenthau, at seventy years old during the BCCI investigation, was described as a lean figure with silver hair and a patrician manner.[^11] He was soft-spoken and considered one of the most important men in New York.[^12] His family had been part of the political establishment since 1886, with his great-grandfather immigrating from Bavaria and his father serving as [[Franklin D. Roosevelt|Franklin Roosevelt]]'s secretary of the Treasury.[^13]
 
-Morgenthau's reputation as a crusader was built during his time as U.S. attorney for the Southern District of New York, a position he held after being appointed by [[John F. Kennedy|Kennedy]] in 1960.[^14] He was known for his independence and his willingness to pursue cases against powerful figures.[^15]
+Morgenthau's reputation as a crusader was built during his time as U.S. attorney for the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]], a position he held after being appointed by [[John F. Kennedy|Kennedy]] in 1960.[^14] He was known for his independence and his willingness to pursue cases against powerful figures.[^15]
 
 ### The Senate Account
 
