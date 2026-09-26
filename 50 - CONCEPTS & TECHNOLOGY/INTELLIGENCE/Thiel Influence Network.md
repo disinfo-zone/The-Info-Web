@@ -10,7 +10,7 @@ tags:
 alias:
   - Thiel Network
   - Thiel Infrastructure
-summary: "The Thiel Influence Network is the set of overlapping commercial, convening, ideological, and political vehicles built around Peter Thiel since 2002, including the Thiel Fellowship, Founders Fund, Palantir Technologies, Dialog, Hereticon, Per Aspera Policy, and Teneo Network, each operating at a different stage of recruitment, capital deployment, or institutional positioning."
+summary: "The Thiel Influence Network is the set of commercial, convening, ideological and political vehicles built around Peter Thiel since 2002, including the Thiel Fellowship, Founders Fund, Palantir, Dialog, Hereticon and Teneo Network."
 created: 2026-06-17
 updated: 2026-06-17
 ---
@@ -51,7 +51,7 @@ The political layer extends through the Teneo Network's placement infrastructure
 
 ### The Epstein Document Thread
 
-The unsealed [[Jeffrey Epstein]] document releases under the Epstein Files Transparency Act (EFTA) in 2025 and 2026 surfaced a correspondence between Epstein and Thiel that runs from 2011 through 2019, eight years after Epstein's 2008 federal non-prosecution agreement. The primary-document index maintained by Tommy Carstensen, cross-referencing the EFTA releases, documents the key exchanges by document ID. On February 6, 2016, Epstein wrote in an email (EFTA01738574) that "peter thiel LOVED the secret socieity [sic] idea.. he has done alot of work on the concept. all failed so far." Reid Hoffman hosted an August 2015 dinner in [[Palo Alto]] (EFTA00344556, EFTA00344564) whose guest list included Thiel, [[Mark Zuckerberg]], Elon Musk, [[Joi Ito]] of the [[MIT Media Lab]], and Epstein. *Jacobin* reported in April 2026 that hundreds of emails document Epstein's encouragement of Thiel's political trajectory, including a February 2013 audio recording of Epstein advising Thiel.[^9][^10][^11]
+The unsealed [[Jeffrey Epstein]] document releases under the [[Epstein Files Transparency Act]] (EFTA) in 2025 and 2026 surfaced a correspondence between Epstein and Thiel that runs from 2011 through 2019, eight years after Epstein's 2008 federal [[Epstein non-prosecution agreement|non-prosecution agreement]]. The primary-document index maintained by Tommy Carstensen, cross-referencing the EFTA releases, documents the key exchanges by document ID. On February 6, 2016, Epstein wrote in an email (EFTA01738574) that "peter thiel LOVED the secret socieity [sic] idea.. he has done alot of work on the concept. all failed so far." Reid Hoffman hosted an August 2015 dinner in [[Palo Alto]] (EFTA00344556, EFTA00344564) whose guest list included Thiel, [[Mark Zuckerberg]], Elon Musk, [[Joi Ito]] of the [[MIT Media Lab]], and Epstein. *Jacobin* reported in April 2026 that hundreds of emails document Epstein's encouragement of Thiel's political trajectory, including a February 2013 audio recording of Epstein advising Thiel.[^9][^10][^11]
 
 The 2015 dinner guest list (EFTA00344556, EFTA00344564) included Thiel, Ito, and Epstein together, documenting co-presence on a single occasion. The triangular Thiel-Ito-Epstein "secret society" thread is now substantiated at the level of co-presence rather than at the level of a specific recorded three-way discussion. The Ito-Epstein-MIT Media Lab funding relationship is documented separately through [[Ronan Farrow]]'s *New Yorker* reporting (September 2019).
 

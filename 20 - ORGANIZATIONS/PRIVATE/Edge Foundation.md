@@ -14,7 +14,15 @@ alias:
   - Edge
 summary: "The Edge Foundation is John Brockman's nonprofit that runs Edge.org, hosts the annual Edge Question and Billionaires' Dinner, and drew a majority of its 2001 to 2017 revenue from foundations associated with Jeffrey Epstein."
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-25
+relations:
+  - type: funded
+    with: "[[Jeffrey Epstein]]"
+    reverse: true
+    role: "638,000 dollars of about 857,000 dollars in revenue, through Epstein foundations"
+    start: 2001
+    end: 2015
+    fn: 2
 ---
 
 The Edge Foundation is a New York nonprofit founded by literary agent [[John Brockman]] that operates the website [[Edge.org]], publishes the annual Edge Question, and for years hosted the Billionaires' Dinner. Foundations associated with [[Jeffrey Epstein]] provided $638,000 of nearly $857,000 in revenue the organization received between 2001 and 2017, making Epstein its dominant backer during that period.[^1][^2]
@@ -23,9 +31,9 @@ The Edge Foundation is a New York nonprofit founded by literary agent [[John Bro
 
 The Edge Foundation was incorporated in 1988 as an outgrowth of the Reality Club, an informal gathering of intellectuals that Brockman had convened from 1981 to 1996 in restaurants, lofts, and other venues around New York. The foundation describes its mission as promoting inquiry into scientific and intellectual ideas in the spirit of the "third culture" that Brockman set out in his 1995 book *The Third Culture*, in which scientists who write for a general public take the place of the traditional literary intellectual.[^3][^4]
 
-The third-culture framing extended [[C. P. Snow]]'s 1959 lecture on the divide between literary and scientific cultures, recasting working scientists as the public intellectuals "rendering visible the deeper meanings of our lives." Brockman ran the site as a program of the foundation alongside his agency [[Brockman Inc.]], with [[Katinka Matson]] listed as co-founder, and many Edge participants were also agency clients whose books the firm sold.[^4][^3]
+The third-culture framing extended [[C. P. Snow]]'s 1959 lecture on the divide between literary and scientific cultures, recasting working scientists as the public intellectuals "rendering visible the deeper meanings of our lives." Brockman ran the site as a program of the foundation alongside his agency [[Brockman Inc.]], with [[Katinka Matson]] listed as co-founder, and many Edge participants were also agency clients whose books the firm sold.[^3][^4]
 
-Brockman launched Edge.org in 1996 as the online successor to the Reality Club, posting long-form conversations and essays by scientists and authors. The journalist [[John Naughton]] called the site "the world's smartest website" in a 2012 *Observer* profile, a phrase the foundation has since used in its own materials. Contributors over the years included [[Richard Dawkins]], [[Steven Pinker]], [[Daniel Kahneman]], [[Daniel Dennett]], [[Stephen Hawking]], [[Lawrence Krauss]], [[Marvin Minsky]], [[Martin Nowak]], and [[George Church]].[^5][^4]
+Brockman launched Edge.org in 1996 as the online successor to the Reality Club, posting long-form conversations and essays by scientists and authors. The journalist [[John Naughton]] called the site "the world's smartest website" in a 2012 *Observer* profile, a phrase the foundation has since used in its own materials. Contributors over the years included [[Richard Dawkins]], [[Steven Pinker]], [[Daniel Kahneman]], [[Daniel Dennett]], [[Stephen Hawking]], [[Lawrence Krauss]], [[Marvin Minsky]], [[Martin Nowak]], and [[George Church]].[^4][^5]
 
 ### The Edge Question and the World Question Center
 
@@ -33,7 +41,7 @@ Beginning in 1998, Edge posed an annual question to its contributors through wha
 
 The annual responses fed a long-running book series, with collected volumes published as *What We Believe but Cannot Prove*, *What Is Your Dangerous Idea?*, *What Have You Changed Your Mind About?*, *This Will Change Everything*, *This Explains Everything*, and *Is the Internet Changing the Way You Think?*, among others. Brockman closed the annual question in 2018 after twenty editions, framing the final question as the finale of the series.[^4][^6]
 
-The Third Culture program ran in parallel, with Edge publishing the conversations, video, and essays that fed Brockman's edited anthologies and supplied his agency clients with a steady channel to a general readership. The foundation positioned its participants as a continuation of the figures Brockman profiled in *The Third Culture* in 1995.[^4][^3]
+The Third Culture program ran in parallel, with Edge publishing the conversations, video, and essays that fed Brockman's edited anthologies and supplied his agency clients with a steady channel to a general readership. The foundation positioned its participants as a continuation of the figures Brockman profiled in *The Third Culture* in 1995.[^3][^4]
 
 ### The Billionaires' Dinner
 
@@ -49,7 +57,17 @@ The [[Jeffrey Epstein VI Foundation]] and other Epstein-controlled entities, inc
 
 Epstein's last recorded contribution was $30,000 in 2015, after which Edge raised only several thousand dollars from a single donor over 2016 and 2017. For multiple years Epstein was effectively the foundation's sole donor, and his withdrawal after 2015 coincided with the end of the dinner series.[^1][^2]
 
-After Epstein's July 2019 arrest, the science writer [[Carl Zimmer]] asked to be removed from Edge, the author [[Naomi Wolf]] left Brockman Inc. on July 31, 2019, citing both Epstein's funding and the appearance of Sarah Kellen on the site, and [[Evgeny Morozov]] called on Brockman to close the foundation while publishing a 2013 email in which Brockman had tried to introduce him to Epstein. Photographs showing Kellen at Edge dinners were taken down. Most listed contributors did not publicly disassociate from the foundation, and the site continued to host its archived conversations.[^8][^1]
+After Epstein's July 2019 arrest, the science writer [[Carl Zimmer]] asked to be removed from Edge, the author [[Naomi Wolf]] left Brockman Inc. on July 31, 2019, citing both Epstein's funding and the appearance of Sarah Kellen on the site, and [[Evgeny Morozov]] called on Brockman to close the foundation while publishing a 2013 email in which Brockman had tried to introduce him to Epstein. Photographs showing Kellen at Edge dinners were taken down. Most listed contributors did not publicly disassociate from the foundation, and the site continued to host its archived conversations.[^1][^8]
+
+### Tax Filings and the Collapse
+
+The Edge Foundation files with the [[Internal Revenue Service]] as Edge Foundation Inc., employer identification number 13-3528667, in care of Brockman Inc. at 260 Fifth Avenue, New York. Its filings report total contributions of 50,000 dollars in 2011, none in 2012, 50,000 dollars in 2013, 50,000 dollars in 2014 and 130,000 dollars in 2015, the year of Epstein's last recorded 30,000 dollar gift and the last Billionaires' Dinner, and no contributions in any year from 2019 to 2023. In 2023 it reported total assets of 73,610 dollars and revenue of 6,202 dollars. NPR reported in 2026 that Edge.org appeared to have ceased publication in 2023.[^9][^10]
+
+An IRS filing of Epstein's [[C.O.U.Q. Foundation]] records a 50,000 dollar gift to Edge in 2007, months after *[[The New York Times]]* questioned whether prosecutors had given Epstein preferential treatment over allegations involving underage girls. Edge published Epstein's own answer to its 2008 question, "What have you changed your mind about?" Epstein foundation pages claimed support for Edge through at least 2014, which could not be matched to tax filings, and his contributor profile stayed on the site into 2019, months after the *[[Miami Herald]]* series. The geneticist George Church lists the Edge Foundation among his affiliations ("2005-present; science communication") on the same disclosure page that lists the "Epstein Foundation St. Thomas, VI" as a funder for 2005 to 2007.[^11][^12]
+
+### A Club for Clients
+
+The MIT cosmologist [[Alan Guth]], a Brockman client, told NPR that he understood Edge primarily as a vehicle for Brockman and as a club for his clients, whom Brockman called "Edgies," and that Brockman arranged a meeting at which Epstein was to consider funding Guth's projects; Epstein declined. The physicist [[Seth Lloyd]] met Epstein at a 2004 Brockman dinner. The Edge contributors Lawrence Krauss and [[Frank Wilczek]] attended Epstein's 2006 gravity conference in the Virgin Islands, and Krauss's Arizona State institute later took Epstein money; Edge contributors Church and Martin Nowak received Epstein-brokered gifts at Harvard. Epstein's foundation's 30 million dollar claim for Nowak's program, repeated in Brockman's 2013 email to Evgeny Morozov, compares with the 6.5 million dollars Harvard recorded.[^10][^11][^13]
 
 ### Footnotes
 
@@ -61,3 +79,8 @@ After Epstein's July 2019 arrest, the science writer [[Carl Zimmer]] asked to be
 [^6]: Brockman, John. *The Third Culture: Beyond the Scientific Revolution.* Simon & Schuster, 1995.
 [^7]: "The Edge 'Billionaires' Dinner'" event pages, Edge.org, on the 1999 start of the dinner at the TED conference, the attendee mix, and Brockman's naming of the event. https://www.edge.org/events/edge-dinners
 [^8]: "Edge Foundation President May Have Been Jeffrey Epstein's Connection to Intellectual Elite," *InsideHook,* 2019, on the gatekeeper role, the 2013 Morozov email, and the 2019 reckoning. https://www.insidehook.com/culture/edge-foundation-president-may-have-been-jeffrey-epsteins-connection-to-intellectual-elite
+[^9]: "Edge Foundation Inc," EIN 13-3528667, ProPublica Nonprofit Explorer, Form 990-PF data for tax years 2011 to 2023. https://projects.propublica.org/nonprofits/organizations/133528667
+[^10]: Neuman, Scott, and Ava Berger. "Epstein paid for a conference of top scientists in 2006. His motives are now clear," *NPR,* March 9, 2026, on Guth's account of Edge and "Edgies," the 2006 conference attendees, and Edge's apparent end of publication in 2023. https://www.npr.org/2026/03/09/nx-s1-5721150/epstein-scientists-physics-virgin-islands-conference
+[^11]: Aldhous, Peter. "Jeffrey Epstein's Links To Scientists Are Even More Extensive Than We Thought," *BuzzFeed News,* August 27, 2019, on the 2007 C.O.U.Q. gift, Epstein's 2008 Edge answer, the unverified later claims, the profile's removal, and Lloyd's 2004 meeting. https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-science-donations-apologies-statements
+[^12]: Church, George M. "George M. Church's Tech Transfer, Advisory Roles, and Funding Sources," Church Lab, Harvard Medical School, accessed September 25, 2026. https://arep.med.harvard.edu/t
+[^13]: Lopez, Diane E., Ara B. Gershengorn, and Martin F. Murphy. *Report Concerning Jeffrey E. Epstein's Connections to Harvard University.* Harvard OGC and Foley Hoag LLP, May 2020, pp. 3, 5, 13. https://ogc.harvard.edu/file_url/208

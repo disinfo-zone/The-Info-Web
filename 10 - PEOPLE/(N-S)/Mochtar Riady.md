@@ -32,7 +32,7 @@ created: 2026-09-22
 updated: 2026-09-23
 ---
 
-Mochtar Riady is an Indonesian of Chinese descent who built the [[Lippo Group]]; according to the House Government Reform and Oversight Committee, citing *Forbes,* he found it necessary to "Indonesianize" his name, which had been Li Mo Tie. He first met [[Jackson Stephens]] and [[Witt Stephens]] of [[Little Rock, Arkansas|Little Rock]] in 1976, when he was looking into buying [[Bert Lance]]'s share of the [[National Bank of Georgia]]; that purchase fell through, and in 1978 the two families formed [[Stephens Finance Ltd.]] in [[Hong Kong]].[^1] The Riady and Stephens families later controlled [[Worthen Bank]] in Little Rock together.[^1][^2]
+Mochtar Riady is an Indonesian of Chinese descent who built the [[Lippo Group]]; according to the [[House Committee on Oversight and Government Reform|House Government Reform and Oversight Committee]], citing *Forbes,* he found it necessary to "Indonesianize" his name, which had been Li Mo Tie. He first met [[Jackson Stephens]] and [[Witt Stephens]] of [[Little Rock, Arkansas|Little Rock]] in 1976, when he was looking into buying [[Bert Lance]]'s share of the [[National Bank of Georgia]]; that purchase fell through, and in 1978 the two families formed [[Stephens Finance Ltd.]] in [[Hong Kong]].[^1] The Riady and Stephens families later controlled [[Worthen Bank]] in Little Rock together.[^1][^2]
 
 ### Clinton
 
