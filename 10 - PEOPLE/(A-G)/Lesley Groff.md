@@ -46,13 +46,26 @@ relations:
     reverse: true
     role: "grand jury subpoena resolved by interview"
     start: 2007-09-12
-    fn: 19
+    fn: 20
   - type: represented
     with: "[[Jonathan Whitcomb]]"
     reverse: true
     role: "counsel in Doe v. Indyke and before the House Oversight Committee"
     start: 2021-10-24
     fn: 18
+  - type: investigated
+    with: "[[U.S. Attorney's Office for the Southern District of Florida]]"
+    reverse: true
+    role: "grand jury subpoena OLY-73 for her and Epstein's calendars, contacts, communications and devices"
+    start: 2007-08-16
+    fn: 19
+  - type: investigated
+    with: "[[U.S. Attorney's Office for the Southern District of New York]]"
+    reverse: true
+    role: "FBI interviews, attorney proffers and a signed proffer agreement"
+    start: 2019-07-06
+    end: 2021-07-23
+    fn: 21
 created: 2026-09-25
 updated: 2026-09-25
 ---
@@ -90,7 +103,7 @@ Groff was a named defendant, with Epstein, Maxwell, and [[Sarah Kellen]], in the
 
 ### The 2007 Investigation
 
-On August 21, 2007, according to a document read to her by committee counsel, FBI agents came to Groff's home. She testified that she let them in and sat with them, then "went upstairs and I called Darren Indyke, who is the in-house counsel," who told her not to speak to them without an attorney; the agents left, and "Mr. Epstein got me an attorney, and I went and spoke to him once."[^3] The prosecutors' chronology of the case records a September 12, 2007 email between Assistant U.S. Attorney [[Ann Marie Villafana]] and the defense lawyer [[Nathan Dershowitz|Nathan Z. Dershowitz]] stating that "Ms. Groff will proceed by interview."[^19]
+On August 21, 2007, according to a document read to her by committee counsel, FBI agents came to Groff's home. She testified that she let them in and sat with them, then "went upstairs and I called Darren Indyke, who is the in-house counsel," who told her not to speak to them without an attorney; the agents left, and "Mr. Epstein got me an attorney, and I went and spoke to him once."[^3] The subpoena, issued on August 16, 2007 under control number OLY-73 of grand jury FGJ 07-103 in [[West Palm Beach, Florida|West Palm Beach]], commanded her to appear at the federal courthouse at 701 Clematis Street on September 4, 2007 at 1 p.m. and to coordinate her compliance with a special agent of the FBI. Its attachment demanded, "For the period of January 1, 2001 to the present, all calendars, agendas, daily diaries, or other records of appointments, travel, meetings and the like, kept by or on behalf of Jeffrey Epstein," Groff and others whose names are redacted; from January 1, 2003, all address books and contact lists and "all e-mails, instant messages, text messages, meeting invitations, and any other electronic communication" among the same persons, in each case with "all metadata included within the electronic/physical files"; and "Any cellular phone, 'Blackberry' unit, personal digital assistant ('PDA') or other handheld electronic device that you own or use regularly."[^19] The prosecutors' chronology of the case records a September 12, 2007 email between Assistant U.S. Attorney [[Ann Marie Villafana]] and the defense lawyer [[Nathan Dershowitz|Nathan Z. Dershowitz]] stating that "Ms. Groff will proceed by interview."[^20]
 
 At the 2026 interview committee counsel introduced a "plea proffer from [[United States v. Epstein|United States v. Jeffrey Epstein]]," Bates number EFTA00213369, released by the Justice Department in January 2026, which stated that after the agents arrived Groff went upstairs and called Epstein, who "instructed Ms. Groff not to speak with the agents," "applied pressure to keep Ms. Groff from complying with the grand jury subpoena that the agents had served upon her," and "warned Ms. Groff against turning over documents and electronic evidence responsive to the subpoena and pressured her to delay her appearance before the Federal grand jury in the Southern District of Florida." Asked whether the document was incorrect, Groff said: "I believe it is. I don't know how they would know that. I really believe that I called Mr. Indyke," adding, "I wouldn't call Mr. Epstein." Asked whether she remembered Epstein pressuring her over the subpoena, she answered: "None. No."[^3]
 
@@ -99,6 +112,8 @@ At the 2026 interview committee counsel introduced a "plea proffer from [[United
 The 2007 agreement provided that the [[United States]] would not charge "any potential co-conspirators of Epstein, including but not limited to Sarah Kellen, [[Adriana Ross]], Lesley Groff, or [[Nadia Marcinkova]]." In 2024 the [[Second Circuit]] held, in rejecting Maxwell's reliance on the clause, that it bound only the Southern District of Florida.[^1]
 
 Four days after Epstein's July 2019 arrest, Bachner informed the government that Groff "would invoke her Fifth Amendment privilege against compelled self-incrimination" if called before a grand jury. She spoke with investigators about two years after the 2019 subpoena and told them that scheduling massages was "around 1%" of her duties. She was not charged.[^2] She told the committee that she resigned through Indyke and did not speak to Epstein.[^3]
+
+The index of non-testifying witness material produced to the defense in [[United States v. Maxwell|United States v. Ghislaine Maxwell]], dated November 6, 2021, lists sixteen items under Groff's name. They include a law enforcement report dated August 15, 2007; a letter regarding her interview, an FBI 302 report of the interview and interview notes, all dated August 21, 2007; an FBI report "documenting interview with Leslie Groff" dated January 9, 2008; the "Testimony of" a person whose name is redacted, dated March 18 and April 29, 2008; a "Starr submission to DAG" dated June 19, 2008, a submission by Epstein's lawyer [[Kenneth Starr]] to the Deputy Attorney General; an interview 302 and interview notes dated July 6, 2019, the day of Epstein's arrest; "Lesley Groff attorney proffer notes" dated February 13, 2020 and an "attorney proffer follow-up" dated February 21, 2020; and a "Signed proffer agreement," an interview 302 and interview notes, all dated July 23, 2021. Michael Bachner is named in the index's attorney column beside her entries. The items were produced to Maxwell's lawyers between April and October 2021.[^21]
 
 ### Congressional Interview
 
@@ -126,4 +141,6 @@ The transcribed interview took place on June 9, 2026 in the Rayburn House Office
 [^16]: Jane Doe 43 v. Epstein (Ransome v. Epstein), No. 1:17-cv-00616-JGK (S.D.N.Y.), Agreed Final Order of Dismissal with Prejudice, ECF No. 189 (Dec. 20, 2018). https://www.courtlistener.com/docket/4581676/jane-doe-43-v-epstein/
 [^17]: Fitzpatrick, Sarah, and Rich Schapiro. "Jeffrey Epstein accuser names four women in his web of enablers." *NBC News,* October 8, 2019. https://www.nbcnews.com/news/us-news/jeffrey-epstein-accuser-names-four-women-his-web-enablers-n1063801
 [^18]: Doe v. Indyke, No. 1:21-cv-08469-PKC (S.D.N.Y.), docket, filed October 14, 2021, terminated April 4, 2024, ECF Nos. 8, 9, 12 (notices of appearance for Lesley Groff, October 24 and 26, 2021). https://www.courtlistener.com/docket/60646416/doe-v-indyke/
-[^19]: U.S. Department of Justice, Epstein Library, EFTA00224943, DataSet 9, "Epstein Investigation Timeline," Exhibit A-1 (U.S. Attorney's Office, Southern District of Florida), entry for September 12, 2007. https://www.justice.gov/epstein/files/DataSet%209/EFTA00224943.pdf
+[^19]: U.S. Department of Justice, Epstein Library, EFTA00187002 to EFTA00187004, DataSet 9, subpoena to testify before grand jury, FGJ 07-103(WPB), No. OLY-73, to Lesley Groff, with attachment, August 16, 2007 (near-duplicate at EFTA00317433). https://www.justice.gov/epstein/files/DataSet%209/EFTA00187002.pdf
+[^20]: U.S. Department of Justice, Epstein Library, EFTA00224943, DataSet 9, "Epstein Investigation Timeline," Exhibit A-1 (U.S. Attorney's Office, Southern District of Florida), entry for September 12, 2007. https://www.justice.gov/epstein/files/DataSet%209/EFTA00224943.pdf
+[^21]: U.S. Department of Justice, Epstein Library, EFTA00095751, DataSet 9, index, "United States v. Ghislaine Maxwell, 20 Cr. 330 (AJN), Non-Testifying Witness Material," November 6, 2021, entries 3501.098-001 to 3501.098-016 (EFTA00095767). https://www.justice.gov/epstein/files/DataSet%209/EFTA00095751.pdf
