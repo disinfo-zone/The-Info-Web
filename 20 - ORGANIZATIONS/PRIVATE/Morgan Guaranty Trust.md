@@ -136,6 +136,10 @@ In August 1999 [[Sumitomo Corporation]] sued J.P. Morgan & Co. Incorporated, Mor
 
 On December 31, 2000 J.P. Morgan & Co. Incorporated "merged with and into The Chase Manhattan Corporation," which was renamed J.P. Morgan Chase & Co.; a merger charge of 1.25 billion dollars was recorded that day. The bank itself was succeeded by JPMorgan Chase Bank.[^3]
 
+### The Financial Trust Company Account
+
+Monthly "Asset Account Portfolio" statements of Morgan Guaranty Trust Company of New York, 345 Park Avenue, were issued to [[Financial Trust Company]], Inc., the [[United States Virgin Islands]] company of [[Jeffrey Epstein]], addressed "C/O American Yacht Harbor, 6100 Red Hook, Quarters #2, St Thomas." The statements released by the [[United States Department of Justice|Justice Department]] run from August 1999 to October 2001, past the merger; the August 1999 statement carries the legend "Confidential Treatment Requested by JPMorgan" and the production number JPM-SDNY-00036858, marking it as part of the bank's production to the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]].[^13][^14][^15]
+
 ### Footnotes
 
 [^1]: *The International Year Book and Statesmen's Who's Who* (1974, 1975 and 1983 editions), entry for the bank ("through the merger of J. P. Morgan & Co. Incorporated and Guaranty Trust Company of New York on 24 April 1959"); 1963 edition ("Chairman, Henry C. Alexander"). https://archive.org/details/internationalyea0000john
@@ -150,3 +154,6 @@ On December 31, 2000 J.P. Morgan & Co. Incorporated "merged with and into The Ch
 [^10]: J.P. Morgan & Co. Incorporated, Form 10-K405 for 1994 (filed March 22, 1995), letter to stockholders and "Description of business." https://www.sec.gov/Archives/edgar/data/68100/0000068100-95-000274.txt
 [^11]: J.P. Morgan & Co. Incorporated, definitive proxy statement (Schedule 14A) for the annual meeting of April 12, 2000, filed March 8, 2000, "Item 1: Election of directors," "Transactions with directors and officers." https://www.sec.gov/Archives/edgar/data/68100/0000891092-00-000171.txt
 [^12]: J.P. Morgan Chase & Co., Form 10-K405 for 2001, Item 3, "Legal proceedings" (Sumitomo Corporation v. J.P. Morgan & Co. Incorporated, Morgan Guaranty Trust Company of New York, S.D.N.Y., filed August 1999). https://www.sec.gov/Archives/edgar/data/19617/000095012302002823/y57010e10-k405.htm
+[^13]: U.S. Department of Justice, Epstein Library, EFTA01511044, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., August 1 to August 31, 1999, production number JPM-SDNY-00036858. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01511044.pdf
+[^14]: U.S. Department of Justice, Epstein Library, EFTA01557200, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., October 1 to October 31, 2000. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01557200.pdf
+[^15]: U.S. Department of Justice, Epstein Library, EFTA01557398, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., October 1 to October 31, 2001. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01557398.pdf
