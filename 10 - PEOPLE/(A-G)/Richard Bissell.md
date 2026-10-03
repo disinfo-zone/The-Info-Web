@@ -13,7 +13,7 @@ tags:
   - 1950s
   - 1960s
 category: "Intelligence & Government"
-summary: "Richard Bissell was the CIA's Deputy Director for Plans from 1958 to 1962 who managed development of the U-2 spy plane program, authorized ZR/RIFLE (the assassination planning unit) under William Harvey, and organized the Bay of Pigs invasion - resigning in February 1962 after the invasion's failure."
+summary: "Richard Bissell was the CIA's Deputy Director for Plans from 1958 to 1962, managed the U-2 program, authorized ZR/RIFLE under William Harvey, organized the Bay of Pigs invasion and resigned in February 1962."
 born: 1909-09-18
 died: 1994-02-07
 location: "Washington, D.C."
@@ -29,7 +29,7 @@ The combination of his economic and administrative skills, his connections to th
 
 ### The U-2 Program
 
-Bissell's most technically significant achievement was managing the development of the Lockheed U-2 high-altitude reconnaissance aircraft from 1954 onward. Working with Lockheed's Kelly Johnson and the Skunk Works division at a secret facility ([[Area 51]] at Groom Lake, Nevada), Bissell managed the program from concept to operational deployment in approximately eighteen months. The U-2 conducted its first operational overflight of the Soviet Union in June 1956.
+Bissell's most technically significant achievement was managing the development of the Lockheed U-2 high-altitude reconnaissance aircraft from 1954 onward. Working with Lockheed's Kelly Johnson and the [[Skunk Works]] division at a secret facility ([[Area 51]] at Groom Lake, Nevada), Bissell managed the program from concept to operational deployment in approximately eighteen months. The U-2 conducted its first operational overflight of the Soviet Union in June 1956.
 
 By 1960, the U-2 program had produced invaluable intelligence on Soviet nuclear and missile programs, bomber deployments, and military-industrial infrastructure. The program was ended as a Soviet overflight tool when [[Francis Gary Powers|Gary Powers]] was shot down over Sverdlovsk on May 1, 1960. The diplomatic crisis that followed - [[Dwight Eisenhower|Eisenhower]] first denied then admitted U.S. responsibility, collapsing the Paris Summit - was a direct consequence of the program Bissell had managed.[^1]
 

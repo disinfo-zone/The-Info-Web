@@ -3,6 +3,10 @@ category: "UFO & Anomalous Phenomena"
 tags:
   - Person
   - UFO
+alias:
+  - Dave Fravor
+  - David Fravor
+  - Commander David Fravor
 summary: "Commander Dave Fravor is a retired U.S."
 ---
 Commander [[Dave Fravor]] is a retired U.S. Navy pilot who is best known as the lead eyewitness in the 2004 [[Tic Tac]] involving the [[USS Nimitz]] Carrier Strike Group. His credible testimony and detailed account of the encounter have been instrumental in bringing the issue of [[Unidentified Anomalous Phenomena]] (UAP) to the attention of the public and the U.S. Congress.[^1]
