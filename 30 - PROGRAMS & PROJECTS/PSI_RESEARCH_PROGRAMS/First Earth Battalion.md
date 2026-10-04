@@ -25,4 +25,4 @@ Later accounts date Task Force Delta variously to 1979, as a briefing to command
 ### Footnotes
 
 [^1]: Channon, James B., Lieutenant Colonel. *The First Earth Battalion,* Task Force Delta concept paper, Headquarters, US Army Training and Doctrine Command, Fort Monroe, Virginia, 1979, foreword by Colonel D. H. Malone; scan at archive.org/details/FirstEarthBattalionManual, front matter and foreword read.
-[^2]: Ronson, Jon. *The Men Who Stare at Goats.* Simon and Schuster, 2004, and later journalism, as summarized; not read for this page.
+[^2]: Ronson, Jon. *The Men Who Stare at Goats.* Simon and Schuster, 2004, and later journalism.

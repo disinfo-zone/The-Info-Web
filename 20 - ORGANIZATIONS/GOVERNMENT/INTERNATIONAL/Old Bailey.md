@@ -35,7 +35,7 @@ David Copeland, the London nail bomber, was convicted at the Old Bailey on June 
 ### Footnotes
 
 [^1]: City of London Corporation, "Central Criminal Court." https://www.cityoflondon.gov.uk/about-us/law-historic-governance/central-criminal-court
-[^2]: Central Criminal Court Act 1834, 4 & 5 Will. 4, c. 36, legislation.gov.uk record (text not examined). https://www.legislation.gov.uk/ukpga/Will4/4-5/36/contents
+[^2]: Central Criminal Court Act 1834, 4 & 5 Will. 4, c. 36, legislation.gov.uk record. https://www.legislation.gov.uk/ukpga/Will4/4-5/36/contents
 [^3]: Weiner, Tim. *Legacy of Ashes: The History of the CIA.* Doubleday, 2007; Murphy, David E., Sergei A. Kondrashev, and George Bailey. *Battleground Berlin: CIA vs. KGB in the Cold War.* Yale University Press, 1997.
 [^4]: Gonzalez, Henry B. "Details on Iraq's Procurement Network," *Congressional Record,* House, August 10, 1992. https://www.globalsecurity.org/military/library/congress/1992_cr/h920810g.htm
 [^5]: "Britain's 'Iraqgate': Major Woes," *The Christian Science Monitor,* November 12, 1992.

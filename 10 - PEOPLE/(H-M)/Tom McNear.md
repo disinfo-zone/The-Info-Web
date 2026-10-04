@@ -13,7 +13,7 @@ tags:
   - PSI
   - Stargate
   - 1980s
-summary: "Tom McNear was a U.S. Army military intelligence captain who became one of the first two soldiers trained by Ingo Swann in Coordinate Remote Viewing beginning in 1981, authored the 1985 DoD CRV manual declassified in 2000, and was assessed by Swann as surpassing his own abilities before requesting transfer from the Fort Meade unit."
+summary: "U.S. Army military intelligence captain who became one of the first two soldiers trained by Ingo Swann in Coordinate Remote Viewing in 1981 and authored the 1985 DoD CRV manual declassified in 2000."
 ---
 
 Tom McNear was a Captain in military intelligence and one of the two original [[Ingo Swann]] trainees in [[Coordinate Remote Viewing|CRV]], starting in 1981. He immediately showed considerable talent in remote viewing, though his training progressed slowly[^1].
@@ -30,4 +30,4 @@ The released CIA collection on the program carries no legible mention of McNear.
 
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
-[^900]: The archive.org mirror of the CIA FOIA Reading Room STARGATE collection, about 13,000 items under the identifiers cia-rdp96-*, searched by title and OCR text; the OCR is imperfect and some fifty items could not be read.
+[^900]: The archive.org mirror of the CIA FOIA Reading Room STARGATE collection, about 13,000 items under the identifiers cia-rdp96-*, searched by title and OCR text.

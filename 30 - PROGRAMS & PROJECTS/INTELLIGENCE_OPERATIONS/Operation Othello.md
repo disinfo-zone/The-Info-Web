@@ -39,4 +39,4 @@ The writer S. Dovey wrote that the handyman [[Claude Thirault]] came forward thr
 
 [^1]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 47-48 and the chronologies of 1995 and 1996; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire...,* rapport complémentaire, Doc. 713/8-96/97, February 16, 1998, chapter on the Charleroi gendarmerie and the Othello operation; translated from the French. https://www.dekamer.be/kvvcr/pdf_sections/comm/dutroux/49K0713008.pdf
-[^3]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passage so cited. It describes Othello as an investigation of Dutroux's car-theft ring.
+[^3]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It describes Othello as an investigation of Dutroux's car-theft ring. Sole source for the passages so cited.

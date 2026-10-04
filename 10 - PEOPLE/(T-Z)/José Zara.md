@@ -31,5 +31,5 @@ He had been charged, with Iturriaga, as an author of the killing of [[Ronni Moff
 ### Footnotes
 
 [^1]: Basso Prieto, Carlos. "José Zara Holger fue detenido de nuevo: esta vez por crimen de Ronni Moffitt," *El Mostrador,* August 27, 2025.
-[^2]: Chilean press reports of the 2010 judgments of Judge Alejandro Solís and the Supreme Court (La Tercera, El Mostrador), not read in full.
+[^2]: Chilean press reports of the 2010 judgments of Judge Alejandro Solís and the Supreme Court (La Tercera, El Mostrador).
 [^3]: Kornbluh, Peter. "A Modicum of Justice for Ronni Karpen Moffitt," *The Nation,* September 2026.; The Clinic, interview of October 15, 2025, as quoted in press summaries.

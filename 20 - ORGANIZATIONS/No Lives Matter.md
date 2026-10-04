@@ -10,7 +10,7 @@ tags:
   - Netherlands
   - Sweden
 start: "2022"
-summary: "No Lives Matter (NLM) is a misanthropic, accelerationist violent extremist network founded by Dutch national Justin B. (alias 'CXRPSE') as a 764 splinter group, linked to stabbing attacks across Europe and designated a terrorist organization by Dutch prosecutors."
+summary: "Misanthropic, accelerationist violent extremist network founded by Dutch national Justin B. (alias CXRPSE) as a 764 splinter group, linked to stabbing attacks across Europe and designated a terrorist organization by Dutch prosecutors."
 created: 2026-05-21
 updated: 2026-05-21
 ---
@@ -125,7 +125,7 @@ The following institutional analyses of NLM are cited in the secondary literatur
 
 ### Footnotes
 
-[^1]: Ali Winston, "The Violent Rise of 'No Lives Matter,'" *Wired*, March 13, 2025. https://www.wired.com/story/no-lives-matter-764-violence/ (paywalled; summarized via WIRED social media post https://x.com/WIRED/status/1899867013868085440).
+[^1]: Ali Winston, "The Violent Rise of 'No Lives Matter,'" *Wired*, March 13, 2025. https://www.wired.com/story/no-lives-matter-764-violence/.
 [^2]: "Eindhoven suspect says he left sadistic online 'Com' shortly before his arrest," *NL Times*, October 28, 2025. https://nltimes.nl/2025/10/28/eindhoven-suspect-says-left-sadistic-online-com-shortly-arrest. See also Weening Strafrechtadvocaten case summaries: https://www.strafrechtadvocaten.nl/en/verdachte-achter-sadistische-onlinegroep-bekeerde-zich-en-had-leven-net-op-orde-rtl-nl/
 [^3]: "Founder of No Lives Matter Arrested on Child Abuse and Terrorism Charges," Global Project Against Hate and Extremism, 2025. https://globalextremism.org/post/founder-of-no-lives-matter-arrested-on-child-abuse-and-terrorism-charges/
 [^4]: "No Lives Matter Updates Extremist Messaging and Publishes Tactical Guides," New Jersey Office of Homeland Security and Preparedness, August 21, 2024. https://www.njohsp.gov/Home/Components/News/News/1430/2. Archived: https://archive.org/details/no-lives-matter-nlm

@@ -44,8 +44,8 @@ The writer S. Dovey wrote that Starchild was Malcolm Willis McConahy, an offshor
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. The claim that he faked his death in 1975 is contradicted by the court record of his ownership of the Virgin Islands trust company in 1976 to 1978 and his appearance as counsel in 1985.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. The claim that he faked his death in 1975 is contradicted by the court record of his ownership of the Virgin Islands trust company in 1976 to 1978 and his appearance as counsel in 1985. Sole source for the passages so cited.
 [^2]: Wright, Marilyn. "Porno Ring Uses Church, Tax Laws." *Traverse City Record-Eagle,* 1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 86-87. https://archive.org/details/micro_IA41153502_0041
 [^3]: *National Bank of Detroit v. Shelden,* 730 F.2d 421 (6th Cir. 1984). https://www.courtlistener.com/opinion/433085/national-bank-of-detroit-v-francis-d-shelden-the-trust-company-of-the/
 [^4]: *Detroit Bank v. Trust Co. of Virgin Islands, Ltd.,* 644 F. Supp. 444 (D.P.R. 1985); *Shelden v. Trust Co. of the Virgin Islands, Ltd.,* 535 F. Supp. 667 (D.P.R. 1982). https://www.courtlistener.com/opinion/1559036/detroit-bank-v-trust-co-of-virgin-islands-ltd/
-[^5]: CourtListener case captions, *United States v. Starchild,* 1988-1990, not read in full.
+[^5]: CourtListener case captions, *United States v. Starchild,* 1988-1990.

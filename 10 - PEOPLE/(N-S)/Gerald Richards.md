@@ -31,7 +31,7 @@ Richards was also described as a masseuse, magician and hypnotist, a Republican 
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. It gives his sentence as two to twenty years, contradicted by contemporaneous reports of a two-to-ten-year term, and describes him as a high school gym teacher; its account of immunity is contradicted by his own testimony that he pleaded guilty.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It gives his sentence as two to twenty years, contradicted by contemporaneous reports of a two-to-ten-year term, and describes him as a high school gym teacher; its account of immunity is contradicted by his own testimony that he pleaded guilty. Sole source for the passages so cited.
 [^2]: Wright, Marilyn. *Traverse City Record-Eagle,* 1976-1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977. https://archive.org/details/micro_IA41153502_0041
 [^3]: Wright, Marilyn, *Traverse City Record-Eagle,* and *Chicago Tribune,* May 1977, both reprinted in *Sexual Exploitation of Children,* Serial No. 12, 1977, and in U.S. Senate, Committee on the Judiciary, Subcommittee to Investigate Juvenile Delinquency. *Protection of Children Against Sexual Exploitation,* hearings, 1977.
 [^4]: Testimony of Gerald S. Richards, Chicago, May 27, 1977, in *Protection of Children Against Sexual Exploitation,* hearings, 95th Congress, 1st session, 1977, pp. 34-41. https://archive.org/details/protectionofchil00unit

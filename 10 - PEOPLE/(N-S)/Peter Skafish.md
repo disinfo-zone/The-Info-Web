@@ -11,7 +11,7 @@ alias:
   - Peter Skafish
   - Dr. Peter Skafish
   - Skafish
-summary: "Sociocultural anthropologist (PhD, University of California, Berkeley) who co-founded the Sol Foundation with Garry Nolan in 2023, signed its 2024 Form 990 as secretary, and joined a UAP Science Advisory Council in June 2026."
+summary: "Anthropologist (PhD, Berkeley) who co-founded the Sol Foundation with Garry Nolan in 2023, signed its 2024 Form 990 as secretary, and was named to Avi Loeb's UAP Science Advisory Council in June 2026."
 location: "California"
 relations:
   - type: founded
@@ -58,7 +58,7 @@ The foundation's website, read on October 3, 2026, lists him as "Co-Founder & Ex
 
 Skafish signed the November 12, 2024 letter to Congress urging passage of the review-board provisions of the [[Unidentified Anomalous Phenomena Disclosure Act]], identifying himself as "Co-Founder, Sol Foundation; Sociocultural Anthropologist; Researcher; Author." The signers included Garry Nolan, [[Avi Loeb]], [[John B. Alexander]], [[Christopher Mellon]], [[Tim Gallaudet]], [[Luis Elizondo]], [[Diana Walsh Pasulka]] and [[Yuan Fung]] of the [[UAP Disclosure Fund]].[^9]
 
-In June 2026 Loeb gave [[DefenseScoop]] a list of twelve members of a "UAP Science Advisory Council" that included Skafish, listed under anthropology, with Nolan, Gallaudet, [[Michael Shermer]], [[Ben Lamm]] and others. An official of the [[Office of the Director of National Intelligence]] said the council was among advisory groups to an interagency UAP Governance Board.[^10]
+In June 2026 Loeb gave [[DefenseScoop]] a list of twelve members of a "UAP Science Advisory Council" that included Skafish, listed under anthropology, with Nolan, Gallaudet, [[Michael Shermer]], [[Ben Lamm]] and others. An official of the [[Office of the Director of National Intelligence]] told DefenseScoop that an interagency UAP Governance Board is supported by outside advisory groups including the council.[^10] The Sol Foundation described the council in a June 22, 2026 release as announced by the Office of the Director of National Intelligence "with the support of the FBI"; Loeb wrote on June 16, 2026 that "I was tasked by the White House, the Pentagon's All Domain Anomaly Resolution Office (AARO), the Office of the Director of National Intelligence (ODNI), the FBI, and the Intelligence Community, to assemble" it. A search of the Federal Register on October 3, 2026 returned no document naming the council, and no ODNI, AARO or White House release establishing it was located.[^11]
 
 ### Footnotes
 
@@ -72,3 +72,4 @@ In June 2026 Loeb gave [[DefenseScoop]] a list of twelve members of a "UAP Scien
 [^8]: The Sol Foundation, "All Publications," entry for Peter Skafish, Vol. 1 No. 6, November 2024, https://thesolfoundation.org/all-publications/ , read October 3, 2026.
 [^9]: Signatory letter dated November 12, 2024, in the statement of Tim Gallaudet, House Committee on Oversight and Accountability, November 13, 2024. https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-GallaudetPhDRearAdmiralUSNavyRetT-20241113-SD001.pdf
 [^10]: "New science advisory council forms to help US government 'resolve the UAP mystery,'" *DefenseScoop*, June 17, 2026. https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/
+[^11]: Sol Foundation, release "Sol Foundation Co-Founders Named to UAP Science Advisory Council," June 22, 2026 (modified July 13, 2026), https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/ ; Avi Loeb, "More Details on the UAP Science Advisory Council," Medium (avi-loeb.medium.com), June 16, 2026, read in a Wayback Machine copy; Federal Register search for "UAP Science Advisory Council," https://www.federalregister.gov/api/v1/documents.json?conditions%5Bterm%5D=%22UAP+Science+Advisory+Council%22 (count 0 on October 3, 2026).

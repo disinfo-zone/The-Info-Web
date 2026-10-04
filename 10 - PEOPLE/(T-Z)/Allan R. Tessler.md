@@ -10,7 +10,7 @@ tags:
 alias:
   - Alan Tessler
   - Allan Tessler
-summary: "Senior managing partner of the New York firm Shea and Gould whom Bill Hamilton's affidavit named as Earl Brian's and Hadron's merger lawyer and as a relative of INSLAW's investor Daniel Tessler, who denied any relation; later a merchant banker, L Brands director and Hudson Institute chairman."
+summary: "Senior managing partner of Shea and Gould whom Bill Hamilton's affidavit named as Earl Brian's and Hadron's merger lawyer; later a merchant banker, L Brands director and Hudson Institute chairman."
 location: "Jackson, Wyoming"
 created: 2026-09-22
 updated: 2026-09-22
@@ -24,5 +24,5 @@ Allan R. Tessler, a Cornell graduate and editor of the Cornell Law Quarterly who
 
 ### Footnotes
 
-[^1]: Hudson Institute, "Allan R. Tessler, Chairman Emeritus," institutional biography, archived at http://web.archive.org/web/20211204105456/https://www.hudson.org/experts/679-allan-r-tessler-mdash-i-chairman-emeritus--i ; the executive committee dates are from a Cornell University Library finding aid for the Shea and Gould records, not examined.
+[^1]: Hudson Institute, "Allan R. Tessler, Chairman Emeritus," institutional biography, archived at http://web.archive.org/web/20211204105456/https://www.hudson.org/experts/679-allan-r-tessler-mdash-i-chairman-emeritus--i ; the executive committee dates are from a Cornell University Library finding aid for the Shea and Gould records.
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.,* March 1993, pp. 90-94 and addendum. https://archive.org/details/InslawPROMISBuaReport

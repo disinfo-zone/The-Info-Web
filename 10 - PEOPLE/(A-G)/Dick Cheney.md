@@ -59,4 +59,4 @@ Cheney was chief executive of [[Halliburton]] in the late 1990s. [[Ray Hunt]] of
 [^3]: *Report of the Congressional Committees Investigating the Iran-Contra Affair,* H. Rept. 100-433, S. Rept. 100-216, November 1987, minority report. https://nsarchive.gwu.edu/document/18221
 [^4]: Halliburton Company, Schedule 14A proxy statement, 2004, Securities and Exchange Commission.
 [^5]: Rangwala, Glen. "The interview with Hussein Kamel," February 2003, quoting the UNSCOM and IAEA note of the meeting of August 22, 1995; Barry, John. *Newsweek,* March 3, 2003.
-[^6]: O'Brien, Cathy, and Mark Phillips. *Trance Formation of America.* 1995. Sole source for the passage so cited.
+[^6]: O'Brien, Cathy, and Mark Phillips. *Trance Formation of America.* 1995. Sole source for the passages so cited.

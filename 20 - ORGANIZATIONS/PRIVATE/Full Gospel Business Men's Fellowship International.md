@@ -30,7 +30,7 @@ Hughes was a high-standing member of FGBMFI and a keynote speaker at a dinner ev
 ---
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited. It counts five FGBMFI members at the 1970 meeting. It describes Micheletti as placed in office by the generals.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. It counts five FGBMFI members at the 1970 meeting. It describes Micheletti as placed in office by the generals. Sole source for the passages so cited.
 [^2]: Slosser, Bob. "The Prophecy." CBN. https://cbn.com/article/relationships/prophecy
 [^3]: Congressional Research Service. *Honduran Political Crisis, June 2009-January 2010,* R41064, February 1, 2010. https://www.everycrsreport.com/reports/R41064.html
 [^4]: "Jimmy Hughes Speaks To KESQ After Charges Dropped." KESQ, July 2, 2010. https://kesq.com/news/2010/07/02/jimmy-hughes-speaks-to-kesq-after-charges-dropped/

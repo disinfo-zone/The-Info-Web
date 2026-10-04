@@ -62,7 +62,7 @@ Barker acquired an original copy in 1971 from a friend of Jessup to whom Jessup 
 
 ### Footnotes
 
-[^1]: Morris K. Jessup, The Case for the UFO (New York: Citadel Press, 1955), catalog record, Internet Archive item caseforufo0000mkje (metadata: publisher Citadel, date 1955), https://archive.org/details/caseforufo0000mkje (lending copy, not read).
+[^1]: Morris K. Jessup, The Case for the UFO (New York: Citadel Press, 1955), catalog record, Internet Archive item caseforufo0000mkje (metadata: publisher Citadel, date 1955), https://archive.org/details/caseforufo0000mkje.
 [^2]: Gray Barker, preface dated July 1973, in the same volume, pp. 2 to 6. Barker identified a "confidential source" for the ONR routing and did not name it.
 [^3]: Unsigned "Introduction" to the Annotated Edition, in the same volume, pp. 7 to 9; Barker's preface states that the original gives no information on its authorship. Sole source for the passages so cited as to the routing of the book through ONR and the identity of the officers named.
 [^4]: "Appendix: The first letter received by Mr. Jessup from Carlos Allende," and "Days Later," in M. K. Jessup, The Case for the UFO, Varo Edition, transcribed by the Quantum Future Group, Castelnau-Barbarens, 2003, from the Saucerian Press facsimile of 1973, pp. 15 to 18, https://archive.org/details/THECASEFORTHEUFOVaroEditionM.K.Jessup (djvu text, reread 2026-10-03).

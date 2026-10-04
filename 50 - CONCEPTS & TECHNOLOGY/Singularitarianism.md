@@ -11,7 +11,7 @@ alias:
   - Singularitarianism
   - Technological Singularity
   - The Singularity
-summary: "Singularitarianism is the belief, named by Vernor Vinge in 1993 and popularized by Ray Kurzweil's 2005 book and his Singularity University, that accelerating technology will soon produce a machine superintelligence and an irreversible transformation of human life."
+summary: "Singularitarianism is the belief, named by Vernor Vinge in 1993 and popularized by Ray Kurzweil's 2005 book and his Singularity University, that accelerating technology will produce machine superintelligence and an irreversible transformation of human life."
 location: "Silicon Valley, California"
 created: 2026-06-20
 updated: 2026-06-20
@@ -39,7 +39,7 @@ Kurzweil's vision fuses the intelligence forecast with the older transhumanist p
 
 ### Institutions
 
-In 2008 Kurzweil cofounded Singularity University with the X Prize founder Peter Diamandis, locating it at the NASA Research Park at Ames in Mountain View, California, as a corporate-funded teaching and incubation venture aimed at "exponential technologies"; its early backers included Google, and it was later renamed Singularity Group. The Singularity Summit, an annual conference Kurzweil helped launch in 2006, was organized for several years by the [[Machine Intelligence Research Institute]], founded by [[Eliezer Yudkowsky]].[^9][^10]
+In 2008 Kurzweil cofounded Singularity University with the X Prize founder [[Peter Diamandis]], locating it at the NASA Research Park at Ames in Mountain View, California, as a corporate-funded teaching and incubation venture aimed at "exponential technologies"; its early backers included Google, and it was later renamed Singularity Group. The Singularity Summit, an annual conference Kurzweil helped launch in 2006, was organized for several years by the [[Machine Intelligence Research Institute]], founded by [[Eliezer Yudkowsky]].[^9][^10]
 
 Within that community the singularity idea split in mood. The optimistic, Kurzweilian strand anticipates the transition as broadly benevolent, while the artificial-intelligence-risk strand around Yudkowsky, [[Nick Bostrom]], whose *Superintelligence* (2014) gave the intelligence-explosion scenario its most influential academic statement, and the [[Effective Altruism]] and [[Rationalist Community|rationalist]] networks treats an uncontrolled intelligence explosion as a potential extinction event to be guarded against. The critics [[Émile P. Torres]] and [[Timnit Gebru]] grouped singularitarianism with transhumanism, [[Extropianism]], cosmism, rationalism, effective altruism, and longtermism under the acronym "TESCREAL," arguing the cluster forms a single ideology favored among the technology elite.[^11][^12]
 

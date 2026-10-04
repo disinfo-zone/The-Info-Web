@@ -27,7 +27,7 @@ The writer S. Dovey wrote that he was born in 1967, met Dutroux in 1995 through 
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its statements that his involvement began only after Dutroux's release in March 1996 and that he was paroled in 2005 are contradicted by his conviction for the August 1995 abduction of An Marchal and by his release in December 2019; its dates for the Dardenne abduction and Dutroux's arrest are contradicted by the commission's chronology.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its statements that his involvement began only after Dutroux's release in March 1996 and that he was paroled in 2005 are contradicted by his conviction for the August 1995 abduction of An Marchal and by his release in December 2019; its dates for the Dardenne abduction and Dutroux's arrest are contradicted by the commission's chronology. Sole source for the passages so cited.
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, chronology of August 1996; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
 [^3]: Fleury, Elisabeth. "Le calvaire d'An et Eefje." *Le Parisien,* April 5, 2004. https://www.leparisien.fr/faits-divers/le-calvaire-d-an-et-eefje-05-04-2004-2004887724.php
 [^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011

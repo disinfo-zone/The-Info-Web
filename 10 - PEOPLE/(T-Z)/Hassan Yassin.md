@@ -21,5 +21,5 @@ He was a cousin of the arms dealer [[Adnan Khashoggi]] and was described, in the
 
 ### Footnotes
 
-[^1]: Hassan, Rashid. "Testament to Saudi Arabia's modern history, Hassan Yassin dies," *Arab News,* May 18, 2026. https://www.arabnews.com/saudi-arabia/testament-to-saudi-arabias-modern-history-hassan-yassin-dies-2644043 Victoria College is from an earlier Arab News profile not examined.
+[^1]: Hassan, Rashid. "Testament to Saudi Arabia's modern history, Hassan Yassin dies," *Arab News,* May 18, 2026. https://www.arabnews.com/saudi-arabia/testament-to-saudi-arabias-modern-history-hassan-yassin-dies-2644043
 [^2]: Beaty, Jonathan, and S. C. Gwynne. *The Outlaw Bank,* Random House, 1993, p. 352, as cited on [[Adnan Khashoggi]]; House Report 102-857 and the Bua report, searched in full, contain no reference to him.

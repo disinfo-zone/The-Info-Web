@@ -7,7 +7,7 @@ tags:
   - INSLAW
 alias:
   - Greg McKain
-summary: "INSLAW programmer whom Jack Rugh of the Justice Department telephoned in February 1985 with a job offer and the word that the trustees expected INSLAW to be liquidated within sixty days, the call Judge Bason treated as evidence of a plan to convert the bankruptcy."
+summary: "INSLAW programmer whom Jack Rugh of the Justice Department telephoned in February 1985 with a job offer, the call Judge Bason treated as evidence of a plan to convert the bankruptcy."
 created: 2026-09-22
 updated: 2026-09-22
 ---
@@ -19,4 +19,4 @@ McKain reported the conversation to [[Bill Hamilton]], who was upset by it and h
 ### Footnotes
 
 [^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.,* March 1993, pp. 211-214. https://archive.org/details/InslawPROMISBuaReport
-[^2]: *In re INSLAW, Inc.,* 88 B.R. 484 (Bankr. D.D.C. 1988). The opinion was not examined; the statements that McKain had worked on PROMIS from the start and Bason's findings on the call's business consequences rest on a reporter summary of it.
+[^2]: *In re INSLAW, Inc.,* 88 B.R. 484 (Bankr. D.D.C. 1988).

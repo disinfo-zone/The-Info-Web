@@ -42,6 +42,6 @@ Kean has since covered the subject for the Times, sharing bylines with Blumentha
 
 [^1]: Lewis-Kraus, Gideon. "How the Pentagon Started Taking U.F.O.s Seriously." *The New Yorker,* May 10, 2021. https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously. The date of the Reid correction and the July 2020 article are inferred from the text ("published last July") of a May 2021 piece.
 [^2]: Same, on the 2002 PodestaMattoon engagement, Rothschild's introduction and Podesta's support of the lawsuit.
-[^3]: Gibb, Tom. "Reality 'X-file': People in Kecksburg want to resolve what fell from the sky in 1965." *Pittsburgh Post-Gazette,* March 9, 2003, p. 21, via newspapers.com image 90896474. Quotations as printed; the jump on page B-2 was not read.
+[^3]: Gibb, Tom. "Reality 'X-file': People in Kecksburg want to resolve what fell from the sky in 1965." *Pittsburgh Post-Gazette,* March 9, 2003, p. 21, via newspapers.com image 90896474. Quotations as printed.
 [^4]: Baker, Nicholson. "How We Lost Our Minds About UFOs." *New York Magazine,* January 31, 2024. https://nymag.com/intelligencer/article/leslie-kean-ufo-sightings-aliens.html
 [^5]: Kloor, Keith. "The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?" *The Intercept,* June 1, 2019. https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/. Kloor does not name the organization or the venue of Kean's 2016 statement; his article is the only source read for it.

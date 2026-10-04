@@ -30,5 +30,5 @@ After Bosch's arrest Castro was "CORU Chief from Miami." He was reported plannin
 
 [^1]: Dinges, John, and Saul Landau. *Assassination on Embassy Row*. McGraw-Hill, 1980, p. 250; Federal Bureau of Investigation, Miami, file 2-471, "CORU," August 16, 1978. National Security Archive, Electronic Briefing Book 153, document 13.
 [^2]: Federal Bureau of Investigation, Miami, teletype to Director, "Bombing of Cubana Airlines DC-8 Near Barbados, West Indies, October 6, 1976," November 2, 1976, JFK Assassination Records Collection. National Security Archive, Electronic Briefing Book 153, document 10.
-[^3]: *Miami New Times* retrospective on the 1975 Miami bombings, not read in full; *United States v. Otero-Hernandez,* 418 F. Supp. 572 (M.D. Fla. 1976).
+[^3]: *Miami New Times* retrospective on the 1975 Miami bombings; *United States v. Otero-Hernandez,* 418 F. Supp. 572 (M.D. Fla. 1976).
 [^4]: Federal Bureau of Investigation, Miami, file 2-471, "Coordination of United Revolutionary Organizations (CORU)," January 24, 1977. National Security Archive, Electronic Briefing Book 153, document 12.

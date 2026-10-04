@@ -52,4 +52,4 @@ Two names in the address book seized from the [[The Finders|Finders]] members [[
 [^2]: Testimony of George Bliss and Michael Sneed, U.S. Senate, Committee on the Judiciary, Subcommittee to Investigate Juvenile Delinquency. *Protection of Children Against Sexual Exploitation,* hearings, Chicago, May 27, 1977, 95th Congress, 1st session. https://archive.org/details/protectionofchil00unit
 [^3]: *Norman v. Elrod,* 76 Ill. 2d 426, 394 N.E.2d 1043 (Ill. 1979).
 [^4]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.
-[^5]: Federal Bureau of Investigation, "The Finders," FBI Records: The Vault, released November 2019, https://vault.fbi.gov/the-finders (image-only scan; the cross-references were not examined in it).
+[^5]: Federal Bureau of Investigation, "The Finders," FBI Records: The Vault, released November 2019, https://vault.fbi.gov/the-finders.

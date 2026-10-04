@@ -54,7 +54,7 @@ During the [[Yom Kippur War]] of 1973, [[Henry A. Kissinger]] told Schlesinger t
 ### Footnotes
 
 [^1]: U.S. Department of Energy, Office of Legacy Management, "Secretaries of Energy." https://www.energy.gov/lm/secretaries-energy
-[^2]: Blanton, Thomas, ed. "The CIA's Family Jewels," National Security Archive Electronic Briefing Book No. 222, June 21, 2007, with Schlesinger's memorandum of May 9, 1973 (scanned image, text not examined). https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/index.htm
+[^2]: Blanton, Thomas, ed. "The CIA's Family Jewels," National Security Archive Electronic Briefing Book No. 222, June 21, 2007, with Schlesinger's memorandum of May 9, 1973. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/index.htm
 [^3]: Central Intelligence Agency, "Family Jewels," CIA FOIA Reading Room, released 2007; Weiner, Tim. *Legacy of Ashes: The History of the CIA.* Doubleday, 2007, pp. 316-327.
 [^4]: Kress, Kenneth A. "Parapsychology in Intelligence: A Personal Review and Conclusions." *Studies in Intelligence,* vol. 21, no. 4, winter 1977, declassified.
 [^5]: House Committee on Armed Services, Special Subcommittee on Intelligence, report on the inquiry into the alleged involvement of the CIA in the Watergate and Ellsberg matters, October 23, 1973.

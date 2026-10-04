@@ -27,7 +27,7 @@ The writer S. Dovey wrote that she was taken while waiting at a bus stop after v
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its full plate number conflicts with the commission's statement that the witness gave three digits, and its date for Dutroux's arrest (August 13, 1996) is contradicted by the commission's chronology.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its full plate number conflicts with the commission's statement that the witness gave three digits, and its date for Dutroux's arrest (August 13, 1996) is contradicted by the commission's chronology. Sole source for the passages so cited.
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, p. 112 and the chronology of August 1996, pp. 264-266; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
 [^3]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
 [^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011

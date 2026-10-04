@@ -30,5 +30,5 @@ Arrests of the junta's couriers in [[Paraguay]] in 1975, interrogated before an 
 ### Footnotes
 
 [^1]: "Primer Comunicado de la Junta Coordinadora Revolucionaria," 1974, text as republished by latinamericanstudies.org.
-[^2]: "La Junta de Coordinación Revolucionaria (1972-1979). Una experiencia de internacionalismo armado en el Cono Sur," academic article indexed at Dialnet, as summarized; not read in full.
+[^2]: "La Junta de Coordinación Revolucionaria (1972-1979). Una experiencia de internacionalismo armado en el Cono Sur," academic article indexed at Dialnet.
 [^3]: Dinges, John. *The Condor Years: How Pinochet and His Allies Brought Terrorism to Three Continents*. New Press, 2004, pp. 90-94.

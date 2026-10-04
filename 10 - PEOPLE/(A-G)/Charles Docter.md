@@ -23,4 +23,4 @@ Docter told the [[House Committee on the Judiciary]] that in July 1987, two mont
 
 ### Footnotes
 
-[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.,* March 1993, pp. 169-170, 211-214. https://archive.org/details/InslawPROMISBuaReport (which spells the name Docter throughout; "Deeter" in later accounts is a transcription error). The firm's role as counsel of record appears in the reporter listings for *In re INSLAW, Inc.,* 97 B.R. 685 and 106 B.R. 331 (Bankr. D.D.C. 1989), not examined.
+[^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.,* March 1993, pp. 169-170, 211-214. https://archive.org/details/InslawPROMISBuaReport (which spells the name Docter throughout; "Deeter" in later accounts is a transcription error). The firm's role as counsel of record appears in the reporter listings for *In re INSLAW, Inc.,* 97 B.R. 685 and 106 B.R. 331 (Bankr. D.D.C. 1989).

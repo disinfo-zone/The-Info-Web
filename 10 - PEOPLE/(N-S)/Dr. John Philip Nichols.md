@@ -44,7 +44,7 @@ On July 1, 1981, Tribal Vice Chairman [[Fred Alvarez]], 32, his friend [[Ralph B
 
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited. The CIA claim is not supported by his FBI file. The venture's name and date are corrected by the special counsel's report, and the book dates the murders to June 29, 1981.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. The CIA claim is not supported by his FBI file. The venture's name and date are corrected by the special counsel's report, and the book dates the murders to June 29, 1981. Sole source for the passages so cited.
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of INSLAW, Inc.,* March 1993, pp. 54-64.
 [^3]: Federal Bureau of Investigation. File on John Philip Nichols, FOIPA Request No. 1344360-000, files 183A-LA-1746 and 198D-LA-96, released August 3, 2016. https://archive.org/details/JohnPhilipNichols
 [^4]: "Only On 3: 'Octopus Murder' Suspect Caught On Hidden Camera." KESQ, September 29, 2009, https://kesq.com/news/2009/09/29/only-on-3-octopus-murder-suspect-caught-on-hidden-camera/ ; "Jimmy Hughes Speaks To KESQ After Charges Dropped." KESQ, July 2, 2010. https://kesq.com/news/2010/07/02/jimmy-hughes-speaks-to-kesq-after-charges-dropped/

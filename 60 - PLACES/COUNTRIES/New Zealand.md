@@ -36,7 +36,7 @@ At the University of Otago in Dunedin, the psychologists [[David Marks]] and [[R
 [^4]: New Zealand Ministry of Justice, Crown Law terrorism case summary, August 2020; "Christchurch mosque attacks: Life without parole for Brenton Tarrant." Radio New Zealand, August 27, 2020.
 [^5]: Royal Commission of Inquiry. *Ko tō tātou kāinga tēnei: Report of the Royal Commission of Inquiry into the terrorist attack on Christchurch masjidain on 15 March 2019.* New Zealand Government, 2020.
 [^6]: "New Zealand designates Proud Boys, The Base as 'terrorist' groups." *Al Jazeera,* June 30, 2022. https://www.aljazeera.com/news/2022/6/30/new-zealand-designates-proud-boys-the-base-as-terrorist-groups
-[^7]: OpenSanctions, "Order of Nine Angles (O9A)," New Zealand terrorist designation list entry. https://www.opensanctions.org/entities/nz-terr-order-of-nine-angles-o9a/ The New Zealand Gazette notice was not examined.
+[^7]: OpenSanctions, "Order of Nine Angles (O9A)," New Zealand terrorist designation list entry. https://www.opensanctions.org/entities/nz-terr-order-of-nine-angles-o9a/
 [^8]: "Documents reveal how Peter Thiel was granted New Zealand citizenship." *The Guardian,* February 1, 2017. https://www.theguardian.com/technology/2017/feb/01/documents-reveal-how-peter-thiel-was-granted-new-zealand-citizenship
 [^9]: Marks, David, and Richard Kammann. *The Psychology of the Psychic.* Prometheus Books, 1980; their letter "Information transmission in remote viewing experiments," *Nature,* vol. 274, August 17, 1978, pp. 680-681 (abstract only examined).
 [^10]: "How a pornographer's violent fantasies blurred fact and fiction as cops searched Olney house for missing women." *The Philadelphia Inquirer,* August 2, 2026.

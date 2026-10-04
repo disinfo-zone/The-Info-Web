@@ -7,7 +7,7 @@ tags:
   - Wilcher
   - PROMIS
   - Hollywood
-summary: "Hollywood development executive at Joel Silver Productions and Columbia who wrote to Janet Reno in July 1993 demanding an inquiry into Paul Wilcher's death as a parallel to Casolaro's, and who prompted and assisted Cheri Seymour's investigation of the Octopus."
+summary: "Hollywood development executive who wrote to Janet Reno in July 1993 demanding an inquiry into Paul Wilcher's death as a parallel to Casolaro's and who assisted Cheri Seymour's investigation of the Octopus."
 location: "Los Angeles, California"
 created: 2026-09-22
 updated: 2026-09-22
@@ -27,4 +27,4 @@ Leon spent the following year pressing the California journalist [[Cheri Seymour
 
 [^1]: Leon, Garby. Letter to Attorney General Janet Reno, July 14, 1993, with the biographical note attached, reproduced at http://www.pinknoiz.com/covert/wilcher.html
 [^2]: See [[Paul Wilcher]] and [[Janet Reno]] and the sources cited there.
-[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal,* TrineDay, 2010, acknowledgments (as described in later accounts; the text was not examined).
+[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal,* TrineDay, 2010, acknowledgments.

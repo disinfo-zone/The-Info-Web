@@ -27,5 +27,5 @@ The writer S. Dovey wrote that the investigation followed [[Operation Fairbank]]
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. It dates the operation's closure to March 2015 and places Beech's claimed murders at the Elm Guest House, neither of which the contemporaneous reporting bears out.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It dates the operation's closure to March 2015 and places Beech's claimed murders at the Elm Guest House, neither of which the contemporaneous reporting bears out. Sole source for the passages so cited.
 [^2]: "Carl Beech: Liar, fraudster and paedophile." BBC News, July 26, 2019. https://www.bbc.com/news/uk-49048972

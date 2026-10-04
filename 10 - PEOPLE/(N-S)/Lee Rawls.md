@@ -11,7 +11,7 @@ tags:
 alias:
   - W. Lee Rawls
   - William Lee Rawls
-summary: "Justice Department legislative affairs chief under Thornburgh who advised him how to thwart the House Banking Committee's BNL inquiry and corresponded with the House Judiciary Committee during its INSLAW investigation; later chief of staff to Senator Frist and to FBI Director Mueller."
+summary: "Justice Department legislative affairs chief under Thornburgh who advised him on the House Banking Committee's BNL inquiry and corresponded with the House Judiciary Committee during its INSLAW investigation."
 died: 2010-12
 location: "Washington, D.C."
 created: 2026-09-22
@@ -32,4 +32,4 @@ Rawls was chief of staff to Senate Majority Leader Bill Frist from 2003 to 2005 
 
 [^1]: "W. Lee Rawls, Justice Department official and Senate aide," obituary, *The Washington Post,* December 2010; Princeton Alumni Weekly memorial, Class of 1966; "Lee Rawls, Former Chief of Staff to FBI Director Mueller, Dies," *Tickle the Wire,* December 2010. The three obituaries agree on the career; none was opened in full, and the biographical details rest on their summaries.
 [^2]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq,* Bantam, 1993, pp. 193-194.
-[^3]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair,* H. Rept. 102-857, September 10, 1992, correspondence of May and July 1991 (the letters' contents were not examined). https://archive.org/details/InslawAffairInvestigativeReport
+[^3]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair,* H. Rept. 102-857, September 10, 1992, correspondence of May and July 1991. https://archive.org/details/InslawAffairInvestigativeReport

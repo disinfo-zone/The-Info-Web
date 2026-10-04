@@ -30,7 +30,7 @@ The cell in which she was held was the one in which [[Julie Lejeune]] and [[Meli
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its dates for the abduction (May 26, 1996) and for Dutroux's arrest (August 13, 1996) are contradicted by the commission's report; its placing of the abduction at Farciennes is not supported by the report, which records the investigation as run from Tournai.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its dates for the abduction (May 26, 1996) and for Dutroux's arrest (August 13, 1996) are contradicted by the commission's report; its placing of the abduction at Farciennes is not supported by the report, which records the investigation as run from Tournai. Sole source for the passages so cited.
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 86-88 and the chronology of August 1996; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
 [^3]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
 [^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011

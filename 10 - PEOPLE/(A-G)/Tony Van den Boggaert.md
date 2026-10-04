@@ -22,4 +22,4 @@ Louf said that from about the age of twelve Van den Bogaert acted as her pimp, t
 
 [^1]: Frenkiel, Olenka. "Belgium's silent heart of darkness." *The Observer,* May 5, 2002. https://www.theguardian.com/world/2002/may/05/dutroux.featuresreview
 [^2]: Sénat de Belgique. Proposition visant à instituer une commission d'enquête parlementaire chargée d'enquêter sur l'éloignement de deux enquêteurs de la cellule d'enquête bruxelloise « Neufchâteau », déposée par M. Frans Lozie, Doc. 2-563/1, October 9, 2000. The proposal does not name the "so-called protector."
-[^3]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. The same book's statement that he died by suicide in 1995 is contradicted by *The Observer*'s 2002 report that he was living on the Belgian-Dutch border, and is not repeated here.
+[^3]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its statement that he died by suicide in 1995 is contradicted by *The Observer*'s 2002 report that he was living on the Belgian-Dutch border. Sole source for the passages so cited.

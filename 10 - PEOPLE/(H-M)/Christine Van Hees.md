@@ -27,7 +27,7 @@ On April 23, 1998, the prosecutors-general of Antwerp, Ghent and Brussels found 
 
 ### Footnotes
 
-[^1]: "Who did not kill Christine Van Hees?" *De Morgen,* September 22, 1998; not examined, cited here as the page's earlier source.
+[^1]: "Who did not kill Christine Van Hees?" *De Morgen,* September 22, 1998.
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport complémentaire, Doc. 713/8-96/97, February 16, 1998, chapter V; translated from the French. https://www.dekamer.be/kvvcr/pdf_sections/comm/dutroux/49K0713008.pdf
 [^3]: Frenkiel, Olenka. "Belgium's silent heart of darkness." *The Observer,* May 5, 2002. https://www.theguardian.com/world/2002/may/05/dutroux.featuresreview
 [^5]: Smoltczyk, Alexander. "Im Netz der Dossiers." *Der Spiegel,* no. 42/2001, October 14, 2001; translated from the German. https://www.spiegel.de/panorama/im-netz-der-dossiers-a-c9fe5b47-0002-0001-0000-000020353850 *The Observer* gives her age as fifteen in its account of Louf's description, and this page earlier gave fourteen from a source not now identified.

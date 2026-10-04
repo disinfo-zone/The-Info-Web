@@ -40,6 +40,6 @@ In October 2012 the Labour MP [[Tom Watson]] asked Prime Minister [[David Camero
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. It gives twenty-three men detained where the inquiry gives twenty people arrested including the Kasirs, and describes Cyril Smith as confirmed as a visitor, where the inquiry found no politician or VIP identified.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It gives twenty-three men detained where the inquiry gives twenty people arrested including the Kasirs, and describes Cyril Smith as confirmed as a visitor, where the inquiry found no politician or VIP identified. Sole source for the passages so cited.
 [^2]: Independent Inquiry into Child Sexual Abuse. *Allegations of Child Sexual Abuse Linked to Westminster: Investigation Report,* February 2020, Part B.3, "The 1980s," paras. 9-12. https://web.archive.org/web/2021/https://www.iicsa.org.uk/reports-recommendations/publications/investigation/westminster/part-b-allegations-child-sexual-abuse-linked-westminster/b3-1980s.html
 [^3]: Independent Inquiry into Child Sexual Abuse. *Allegations of Child Sexual Abuse Linked to Westminster,* February 2020, Part D.7, "Allegations connected to Elm Guest House," paras. 70-74. https://web.archive.org/web/2021/https://www.iicsa.org.uk/reports-recommendations/publications/investigation/westminster/part-d-police-responses-allegations-westminster-child-sexual-abuse/d7-allegations-connected-elm-guest-house.html

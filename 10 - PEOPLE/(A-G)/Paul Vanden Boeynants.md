@@ -32,6 +32,6 @@ The network ties included Societe Generale de Banque, where Lippens had interest
 Vanden Boeynants faced no charges from X-Dossier allegations, with testimonies barred from Dutroux's 2004 trial due to reliability issues with X-witnesses' DID. The 1997 dossier leak detailed his name, but investigations halted after his 2001 death from natural causes. No assets or records were seized linking him to crimes. The 2005 Wikileaks summary reiterated claims, but no legal action occurred post-mortem.[^1]
 
 ### Footnotes
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. It places his premiership in 1978-1981 and a kidnapping in 1974; contemporaneous reporting gives two terms, from 1966 and 1978, and the kidnapping of January 1989.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It places his premiership in 1978-1981 and a kidnapping in 1974; contemporaneous reporting gives two terms, from 1966 and 1978, and the kidnapping of January 1989. Sole source for the passages so cited.
 [^2]: "Aldo Moro, Paul Vanden Boeynants, Baron Empain: ces kidnappings célèbres ayant marqué le monde politique et économique." RTBF, October 10, 2020; translated from the French. https://www.rtbf.be/article/aldo-moro-paul-vanden-boeynants-baron-empain-ces-kidnappings-celebres-ayant-marque-le-monde-politique-et-economique-10604463
 [^3]: Tempest, Rone. "Mystery, Doubts Shroud Kidnaping of Belgian." *Los Angeles Times,* February 4, 1989. https://www.latimes.com/archives/la-xpm-1989-02-04-mn-1507-story.html

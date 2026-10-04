@@ -26,4 +26,4 @@ The writer S. Dovey wrote that Richards handed over the letter in August 1976, p
 ### Footnotes
 
 [^1]: Wright, Marilyn. "Porno Ring Uses Church, Tax Laws." *Traverse City Record-Eagle,* 1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 86-87. https://archive.org/details/micro_IA41153502_0041
-[^2]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. It gives New Jersey as the state of incorporation; Starchild's continued activity under that name in 1976 to 1985 is documented in the federal trust litigation.
+[^2]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It gives New Jersey as the state of incorporation; Starchild's continued activity under that name in 1976 to 1985 is documented in the federal trust litigation. Sole source for the passages so cited.

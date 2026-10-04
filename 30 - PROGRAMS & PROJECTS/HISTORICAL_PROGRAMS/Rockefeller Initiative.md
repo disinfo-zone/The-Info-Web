@@ -86,7 +86,7 @@ On October 17, 1996 Rockefeller wrote to Sagan, who replied on November 6, 1996 
 [^4]: Rockefeller to Billy Graham, May 7, 1993, and Graham reply, May 20, 1993, attached to http://www.paradigmresearchgroup.org/Rockefeller%20Documents/RID-8-23-95.htm.
 [^5]: Gibbons to C. B. Scott Jones, May 26, 1993, http://www.paradigmresearchgroup.org/Rockefeller%20Documents/RID-5-26-93.htm.
 [^6]: Ben MacIntyre, "Harvard professor's stories of close encounters, other-world sex, embarrass university," *The San Francisco Examiner* (London *Times* credit), May 5, 1995, p. 16, https://www.newspapers.com/image/461595501/.
-[^7]: "Harvard's Mack: The Subject Is Aliens," *Valley News* (West Lebanon, N.H.), May 20, 1995, p. 23, https://www.newspapers.com/image/833962083/. Byline not read.
+[^7]: "Harvard's Mack: The Subject Is Aliens," *Valley News* (West Lebanon, N.H.), May 20, 1995, p. 23, https://www.newspapers.com/image/833962083/.
 [^8]: Rockefeller to Gibbons, August 4, 1993, http://www.paradigmresearchgroup.org/Rockefeller%20Documents/RID-8-4-93.htm.
 [^9]: Paradigm Research Group, "September 14-15, 1993 Meeting at Rockefeller's JY Ranch in Wyoming," http://www.paradigmresearchgroup.org/Rockefeller%20Documents/9-14-93_Meeting.htm.
 [^10]: Rockefeller to Gibbons, February 14, 1994, scan at http://www.paradigmresearchgroup.org/Rockefeller%20Documents/3-29-94%20JG%20Fax%20to%20SW/Attachment-JG%20Letter%20to%20LR-Pg1.jpg (also indexed as RID-2-14-94.htm).

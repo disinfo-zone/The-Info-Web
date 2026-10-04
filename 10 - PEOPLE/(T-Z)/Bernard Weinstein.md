@@ -4,7 +4,7 @@ tags:
   - Person
   - Belgium
   - Dutroux
-summary: "European Union national living at Jumet and accomplice of Marc Dutroux, owner of the blue Ford Fiesta seen in 1995 surveillance of Dutroux, whose body was found at Dutroux's Sars-la-Buissière property; Dutroux was convicted of his murder in 2004."
+summary: "Accomplice of Marc Dutroux living at Jumet, owner of the blue Ford Fiesta seen in 1995 surveillance; his body was found at Dutroux's Sars-la-Buissière property and Dutroux was convicted of his murder in 2004."
 location: "Jumet, Belgium"
 relations:
   - type: partner_of
@@ -34,7 +34,7 @@ The writer S. Dovey wrote that Weinstein came to Belgium from France in the earl
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its date for his death (November 1995) conflicts with the commission's listing of him as a fugitive on December 13, 1995, and its placing of An Marchal's and Eefje Lambrecks's bodies with his is contradicted by the reports of their recovery at Jumet; it describes the three victims of November 1995 as teenagers, where the commission's table has adults.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its date for his death (November 1995) conflicts with the commission's listing of him as a fugitive on December 13, 1995, and its placing of An Marchal's and Eefje Lambrecks's bodies with his is contradicted by the reports of their recovery at Jumet; it describes the three victims of November 1995 as teenagers, where the commission's table has adults. Sole source for the passages so cited.
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 47-48, the list of files, and the chronologies of November and December 1995; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
 [^3]: Chambre des Représentants de Belgique. *Enquête parlementaire...,* rapport complémentaire, Doc. 713/8-96/97, February 16, 1998, pp. 48-49 and the section on the POSA observations of late August 1995, which dates the observation report once to November 30, 1995, and otherwise to August 30, 1995, consistent with Michaux's identification of September 4; translated from the French. https://www.dekamer.be/kvvcr/pdf_sections/comm/dutroux/49K0713008.pdf
 [^4]: "Sars-la-Buissière: la maison de M. Dutroux vendue à Lobbes." RTBF and Belga, December 12, 2008. https://www.rtbf.be/article/sars-la-buissiere-la-maison-de-m-dutroux-vendue-a-lobbes-5193373

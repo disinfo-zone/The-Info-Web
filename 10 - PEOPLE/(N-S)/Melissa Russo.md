@@ -30,7 +30,7 @@ The parliamentary commission found that during the December 1995 search of the M
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. Its account of the abduction (July 22, 1995, from Charleroi, "for over a year" of captivity), Dutroux's arrest (August 13, 1996) and the exhumation (September 16, 1996) is contradicted by the commission's chronology and is not repeated here.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its account of the abduction (July 22, 1995, from Charleroi, "for over a year" of captivity), Dutroux's arrest (August 13, 1996) and the exhumation (September 16, 1996) is contradicted by the commission's chronology. Sole source for the passages so cited.
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 47-48, table 4, and the chronologies of December 1995, March 1996 and August 1996; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
 [^3]: Planchar, Roland. "Arlon, 22 juin 2004, l'épilogue..." *La Libre Belgique,* June 22, 2005. https://www.lalibre.be/belgique/2005/06/22/arlon-22-juin-2004-lepilogue-BW2M2Z52HRFRFJL4PLKBLTDEHE/
 [^4]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011

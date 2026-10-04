@@ -46,5 +46,5 @@ Targ's log of the sessions of August 4 to 11, 1973, in an "electrically shielded
 
 [^1]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997.
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.
-[^3]: Central Intelligence Agency, Office of Research and Development, memorandum ORD-413-73, "Briefing by Stanford Research Institute," January 24, 1973, CIA-RDP96-00787R000400070029-2. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. "Experiments - Uri Geller at SRI, August 4-11, 1973," CIA-RDP96-00787R000700110003-2, not read.
+[^3]: Central Intelligence Agency, Office of Research and Development, memorandum ORD-413-73, "Briefing by Stanford Research Institute," January 24, 1973, CIA-RDP96-00787R000400070029-2. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. "Experiments - Uri Geller at SRI, August 4-11, 1973," CIA-RDP96-00787R000700110003-2.
 [^4]: Targ, Russell. "Experiments: Uri Geller at SRI, August 4-11, 1973," memorandum of August 13, 1973, CIA-RDP96-00787R000700110003-2. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.

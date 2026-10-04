@@ -38,7 +38,7 @@ The writer S. Dovey wrote that Grossman co-drafted the charter of Brother Paul's
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited. It places the boarding school in New York; the district attorneys' statement places it in New Jersey.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It places the boarding school in New York; the district attorneys' statement places it in New Jersey. Sole source for the passages so cited.
 [^2]: Wright, Marilyn. "Porno Ring Uses Church, Tax Laws" and related articles. *Traverse City Record-Eagle,* 1976-1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977. https://archive.org/details/micro_IA41153502_0041
 [^3]: National District Attorneys Association, Task Force on Sexual Abuse of Children, statement and letter of Robert F. Leonard to Benjamin Civiletti, March 4, 1977, in *Sexual Exploitation of Children,* Serial No. 12, 1977.
 [^4]: *Chicago Tribune,* May 1977, reprinted in U.S. Senate, Committee on the Judiciary, Subcommittee to Investigate Juvenile Delinquency. *Protection of Children Against Sexual Exploitation,* hearings, 1977. https://archive.org/details/protectionofchil00unit

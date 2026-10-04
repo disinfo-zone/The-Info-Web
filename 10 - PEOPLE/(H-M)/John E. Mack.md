@@ -71,6 +71,6 @@ Dean [[Daniel C. Tosteson]] convened a "Special Faculty Committee" in the summer
 [^6]: Rockefeller to Gibbons, April 26, 1994, http://www.paradigmresearchgroup.org/Rockefeller%20Documents/2-26-94%20LR%20Letter%20to%20JG/Letter.jpg; *CenterPiece*, February 1994, https://johnemackinstitute.org/CenterPiece_1994_0200.pdf.
 [^7]: *PEER Perspectives* no. 2 (Winter 1998/99), p. 1, https://johnemackinstitute.org/PEER_Perspectives_2.pdf.
 [^8]: Ben MacIntyre, "Harvard professor's stories of close encounters, other-world sex, embarrass university," *The San Francisco Examiner* (London *Times* credit), May 5, 1995, p. 16, https://www.newspapers.com/image/461595501/.
-[^9]: "Harvard's Mack: The Subject Is Aliens," *Valley News* (West Lebanon, N.H.), May 20, 1995, p. 23, https://www.newspapers.com/image/833962083/. Byline not read.
+[^9]: "Harvard's Mack: The Subject Is Aliens," *Valley News* (West Lebanon, N.H.), May 20, 1995, p. 23, https://www.newspapers.com/image/833962083/.
 [^10]: "'Kooky' or not, Harvard won't censure its 'UFO professor'," Baltimore Sun, August 4, 1995, https://www.baltimoresun.com/1995/08/04/kooky-or-not-harvard-wont-censure-its-ufo-professor/.
 [^11]: Arnold S. Relman, "The Motivation for the Mack Inquiry," Harvard Crimson, September 13, 1995, https://www.thecrimson.com/article/1995/9/13/the-motivation-for-the-mack-inquiry/.

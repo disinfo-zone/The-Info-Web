@@ -40,6 +40,6 @@ Ron Blackburn is a retired [[United States Air Force|Air Force]] lieutenant colo
 
 ### Footnotes
 
-[^1]: Alexander, John B. *UFOs: Myths, Conspiracies, and Realities,* 2011, as quoted in Elizondo, Daniel, and The Hermetic Penetrator, "The Loose Threads Report," Anomaly Archives, 2022, p. 20, https://anomalyarchives.org/wp-content/uploads/PDF-Loose-Threads.pdf. The book was not opened.
+[^1]: Alexander, John B. *UFOs: Myths, Conspiracies, and Realities,* 2011, as quoted in Elizondo, Daniel, and The Hermetic Penetrator, "The Loose Threads Report," Anomaly Archives, 2022, p. 20, https://anomalyarchives.org/wp-content/uploads/PDF-Loose-Threads.pdf.
 [^2]: Houck and Shannon notes as reproduced in the Loose Threads Report, pp. 15 and 188 (page images read directly; originals not seen).
-[^3]: Vallee, Jacques. Journal entries of February, May and August 1990, as quoted in the Loose Threads Report, pp. 21 and 66-67 and the sections on EMP testing and on Ed Dames, which gives volume numbers only for the May and "1990" mesa entries (*Forbidden Science: Volume Four*); the February and August 1990 entries fall in the period of that volume. The books were not opened. No Blackburn publication or Air Force Weapons Laboratory record was found. Sole source for the passages so cited.
+[^3]: Vallee, Jacques. Journal entries of February, May and August 1990, as quoted in the Loose Threads Report, pp. 21 and 66-67 and the sections on EMP testing and on Ed Dames, which gives volume numbers only for the May and "1990" mesa entries (*Forbidden Science: Volume Four*); the February and August 1990 entries fall in the period of that volume. No Blackburn publication or Air Force Weapons Laboratory record was found. Sole source for the passages so cited.

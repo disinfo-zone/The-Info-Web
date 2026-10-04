@@ -10,7 +10,7 @@ tags:
   - SuspiciousDeath
 alias:
   - Alan David Standorf
-summary: "Civilian analyst at Vint Hill Farms Station, the Army-run NSA post in Virginia, found beaten to death in his car at Washington National Airport in January 1991, whom Bill Turner named as a source of the BCCI and PROMIS documents in Danny Casolaro's missing briefcase."
+summary: "Civilian analyst at Vint Hill Farms Station found beaten to death at Washington National Airport in January 1991, named by Bill Turner as a source of the BCCI and PROMIS documents in Casolaro's briefcase."
 died: 1991-01
 location: "Vint Hill Farms Station, Virginia"
 created: 2026-09-22
@@ -26,4 +26,4 @@ Alan Standorf was a civilian employee, described by the airport detectives who i
 ### Footnotes
 
 [^1]: Ridgeway, James, and Doug Vaughan. "The Last Days of Danny Casolaro: Murder or Suicide," *The Village Voice,* October 15, 1991, pp. 31-43, part 1, as reprinted at https://survivorbb.rapeutation.com/viewtopic.php?f=218&t=2794
-[^2]: "Son of Slain Journalist Who Exposed Web of CIA Corruption Calling For New Murder Investigation," *CovertAction Magazine,* September 4, 2023 (which gives January 31, 1991, as the date the body was found). https://covertactionmagazine.com/2023/09/04/son-of-slain-journalist-who-exposed-web-of-cia-corruption-calling-for-new-murder-investigation/ The rank, the Riconosciuto introduction and the BCCI documents are as given in later accounts not examined.
+[^2]: "Son of Slain Journalist Who Exposed Web of CIA Corruption Calling For New Murder Investigation," *CovertAction Magazine,* September 4, 2023 (which gives January 31, 1991, as the date the body was found). https://covertactionmagazine.com/2023/09/04/son-of-slain-journalist-who-exposed-web-of-cia-corruption-calling-for-new-murder-investigation/ The rank, the Riconosciuto introduction and the BCCI documents are as given in later accounts.

@@ -38,6 +38,6 @@ With the philosopher [[Émile P. Torres]], who coined the acronym, Gebru develop
 ### Footnotes
 
 [^1]: Newton, Casey. "The withering email that got an ethical AI researcher fired at Google." *Platformer,* December 2020, publishing Gebru's email and Jeff Dean's email to employees in full. https://www.platformer.news/the-withering-email-that-got-an-ethical/
-[^2]: Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency,* 2021, pp. 610-623. https://doi.org/10.1145/3442188.3445922 (text not examined).
+[^2]: Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency,* 2021, pp. 610-623. https://doi.org/10.1145/3442188.3445922.
 [^3]: Distributed AI Research Institute. Press release, December 2, 2021. https://dair-institute.org/press-release/
 [^4]: Gebru, Timnit, and Émile P. Torres. "The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence." *First Monday* 29, no. 4, April 2024. https://firstmonday.org/ojs/index.php/fm/article/view/13636

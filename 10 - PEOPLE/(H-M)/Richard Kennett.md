@@ -18,4 +18,4 @@ The released CIA collection on the program carries no legible mention of Kennett
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
-[^2]: The archive.org mirror of the CIA FOIA Reading Room STARGATE collection, about 13,000 items under the identifiers cia-rdp96-*, searched by title and OCR text; the OCR is imperfect and some fifty items could not be read.
+[^2]: The archive.org mirror of the CIA FOIA Reading Room STARGATE collection, about 13,000 items under the identifiers cia-rdp96-*, searched by title and OCR text.

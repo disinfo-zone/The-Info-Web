@@ -12,7 +12,7 @@ alias:
   - Christine Miller
   - Judge Christine Miller
   - Judge Nettesheim
-summary: "Judge of the Court of Federal Claims who, as hearing officer on the Senate's 1995 referral of INSLAW's claims, ruled on July 31, 1997, that every version of PROMIS was in the public domain and INSLAW was owed nothing, ending the affair in the courts."
+summary: "Judge of the Court of Federal Claims who, as hearing officer on the Senate's 1995 referral, ruled on July 31, 1997, that every version of PROMIS was in the public domain."
 born: 1944
 location: "Oakland, California"
 created: 2026-09-22
@@ -28,4 +28,4 @@ In May 1995 the Senate referred [[INSLAW]]'s remaining claims against the govern
 ### Footnotes
 
 [^1]: Federal Judicial Center, "U.S. Court of Federal Claims: Miller, Christine Odell Cook," Biographical Directory. https://www.fjc.gov/history/courts/u.s.-court-federal-claims-miller-christine-odell-cook
-[^2]: See [[INSLAW]] and [[PROMIS Software Scandal]] and the Department of Justice press release of August 1997 cited there; the opinion of July 31, 1997, was not examined.
+[^2]: See [[INSLAW]] and [[PROMIS Software Scandal]] and the Department of Justice press release of August 1997 cited there.

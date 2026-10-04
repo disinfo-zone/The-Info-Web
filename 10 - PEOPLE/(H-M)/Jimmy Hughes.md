@@ -6,7 +6,7 @@ tags:
   - Cabazon
   - Wackenhut
   - Honduras
-summary: "Former security director of the Cabazon tribe's casino and bingo operations, later a missionary in Honduras, charged in 2009 with the 1981 murders of Fred Alvarez, Ralph Boger and Patricia Castro; the case was dismissed in 2010."
+summary: "Former security director of the Cabazon tribe's casino and bingo operations, later a missionary in Honduras, charged in 2009 with the 1981 murders of Fred Alvarez, Ralph Boger and Patricia Castro; dismissed in 2010."
 location:
   - "Indio, California"
   - "Honduras"
@@ -52,7 +52,7 @@ Hughes joined the [[Full Gospel Business Men's Fellowship International]] in 198
 
 ### Footnotes
 
-[^1]: "California authorities believe an unsolved 1981 triple murder was a hit job," Associated Press, September 2009 (Fox News mirror), citing the *Los Angeles Times* of 1985 (not examined) and state attorney general's spokesman Evan Westrup. https://www.foxnews.com/story/unsolved-1981-triple-murder-in-california-was-hit-job-authorities-say.amp ; "Authorities say triple tribe murder was hit job," Associated Press, September 2009. https://www.foxnews.com/story/authorities-triple-tribe-murder-was-hit-job.amp
+[^1]: "California authorities believe an unsolved 1981 triple murder was a hit job," Associated Press, September 2009 (Fox News mirror), citing the *Los Angeles Times* of 1985 and state attorney general's spokesman Evan Westrup. https://www.foxnews.com/story/unsolved-1981-triple-murder-in-california-was-hit-job-authorities-say.amp ; "Authorities say triple tribe murder was hit job," Associated Press, September 2009. https://www.foxnews.com/story/authorities-triple-tribe-murder-was-hit-job.amp
 [^2]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^3]: "Jimmy Hughes Speaks To KESQ After Charges Dropped," KESQ News Channel 3, Palm Springs, July 2, 2010. https://kesq.com/news/2010/07/02/jimmy-hughes-speaks-to-kesq-after-charges-dropped/
 [^4]: Taxin, Amy, with Jennifer Kay. "Arrest in 1981 tribal murders revives old mystery." Associated Press, in *The Press Democrat,* November 22, 2009. https://www.pressdemocrat.com/2009/11/22/arrest-in-1981-tribal-murders-revives-old-mystery/

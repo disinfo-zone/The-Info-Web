@@ -21,4 +21,4 @@ James B. Channon, an infantry officer of the [[United States Army|Army]] from 19
 ### Footnotes
 
 [^1]: Channon, James B., Lieutenant Colonel. *The First Earth Battalion,* Task Force Delta concept paper, Headquarters, US Army Training and Doctrine Command, Fort Monroe, Virginia, 1979, foreword by Colonel D. H. Malone; scan at archive.org/details/FirstEarthBattalionManual, front matter and foreword read.
-[^2]: Service dates and Esalen visits from Ronson, Jon. *The Men Who Stare at Goats.* Simon and Schuster, 2004, as summarized; not verified against service records.
+[^2]: Service dates and Esalen visits from Ronson, Jon. *The Men Who Stare at Goats.* Simon and Schuster, 2004.

@@ -38,4 +38,4 @@ An FBI source reported in December 1977 that Morales, back in Miami, was the go-
 [^3]: Fiscalía Militar Ad-Hoc, Santiago, causa 192-78 (fiscal Héctor Orozco), as reproduced in *Proceso contra Manuel Contreras Sepúlveda y Pedro Espinoza Bravo,* ministro instructor Adolfo Bañados, tomo 1, scan at https://www.latinamericanstudies.org/MNC/Causa-Contreras-Espinoza-1991.pdf. Quotations translated from the Spanish, declaración of Michael Vernon Townley Welch, March 29, 1978.
 [^4]: Federal Bureau of Investigation, Miami, file 2-471, "CORU," August 16, 1978. National Security Archive, Electronic Briefing Book 153, document 13.
 [^5]: Federal Bureau of Investigation, Miami, file 2-471, "Coordination of United Revolutionary Organizations (CORU)," January 24, 1977. National Security Archive, Electronic Briefing Book 153, document 12.
-[^6]: Deposition of Ricardo Morales Navarrete, Dade County Circuit Court, criminal case 81-17247, index; death date from press accounts, not read in full.
+[^6]: Deposition of Ricardo Morales Navarrete, Dade County Circuit Court, criminal case 81-17247, index; death date from press accounts.

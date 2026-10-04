@@ -31,4 +31,4 @@ He was arrested in [[Caracas]] on March 27, 1987, and sent to Italy two days lat
 
 [^1]: Commissione parlamentare d'inchiesta sul terrorismo in Italia e sulle cause della mancata individuazione dei responsabili delle stragi, audizione del signor Stefano Delle Chiaie, stenographic record no. 25, Rome.
 [^2]: Dinges, John. *The Condor Years: How Pinochet and His Allies Brought Terrorism to Three Continents*. New Press, 2004, pp. 130-133.
-[^3]: Press obituaries and secondary accounts of the 1987 arrest and the 1989 and 1991 acquittals, not read in the original reporting; the manner of his transfer from Venezuela, by extradition or by handover, is given differently in the accounts.
+[^3]: Press obituaries and secondary accounts of the 1987 arrest and the 1989 and 1991 acquittals; the manner of his transfer from Venezuela, by extradition or by handover, is given differently in the accounts.

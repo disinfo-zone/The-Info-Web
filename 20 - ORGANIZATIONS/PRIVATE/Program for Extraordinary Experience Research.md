@@ -60,6 +60,6 @@ In the summer of 1994 Dean [[Daniel C. Tosteson]] of [[Harvard Medical School]] 
 [^7]: *CenterPiece*, February 1994, https://johnemackinstitute.org/CenterPiece_1994_0200.pdf.
 [^8]: *PEER Perspectives* no. 2 (Winter 1998/99), pp. 1 and 12, https://johnemackinstitute.org/PEER_Perspectives_2.pdf.
 [^9]: Ben MacIntyre, "Harvard professor's stories of close encounters, other-world sex, embarrass university," *The San Francisco Examiner* (London *Times* credit), May 5, 1995, p. 16, https://www.newspapers.com/image/461595501/.
-[^10]: "Harvard's Mack: The Subject Is Aliens," *Valley News* (West Lebanon, N.H.), May 20, 1995, p. 23, https://www.newspapers.com/image/833962083/. Byline not read.
+[^10]: "Harvard's Mack: The Subject Is Aliens," *Valley News* (West Lebanon, N.H.), May 20, 1995, p. 23, https://www.newspapers.com/image/833962083/.
 [^11]: "'Kooky' or not, Harvard won't censure its 'UFO professor'," Baltimore Sun, August 4, 1995, https://www.baltimoresun.com/1995/08/04/kooky-or-not-harvard-wont-censure-its-ufo-professor/.
 [^12]: Arnold S. Relman, "The Motivation for the Mack Inquiry," Harvard Crimson, September 13, 1995, https://www.thecrimson.com/article/1995/9/13/the-motivation-for-the-mack-inquiry/; Crimson, April 19, 1995, https://www.thecrimson.com/article/1995/4/19/mack-scientist-or-tale-spinner-pat-first/.

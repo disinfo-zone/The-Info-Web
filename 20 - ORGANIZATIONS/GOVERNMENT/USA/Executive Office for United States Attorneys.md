@@ -9,7 +9,7 @@ tags:
 alias:
   - EOUSA
   - Executive Office for U.S. Attorneys
-summary: "The Justice Department office that supervises the U.S. Attorneys, which signed INSLAW's 1982 PROMIS contract and whose project staff, Brewer, Videnieks and Rugh, ran the dispute that Judge Bason found was a scheme to take the software by fraud."
+summary: "Justice Department office supervising the U.S. Attorneys, which signed INSLAW's 1982 PROMIS contract and whose staff, Brewer, Videnieks and Rugh, ran the dispute Judge Bason found to be a scheme to take the software."
 start: 1953
 location: "Washington, D.C."
 created: 2026-09-22
@@ -24,6 +24,6 @@ In March 1982 [[INSLAW]] signed a three-year, ten-million-dollar contract with t
 
 ### Footnotes
 
-[^1]: U.S. Department of Justice, *Report of Special Counsel Nicholas J. Bua,* March 1993, p. 186 (Moscato "now Acting Director of EOUSA"). The 1953 order, the list of duties (Justice Manual, Title 3) and the succession of directors other than Moscato are as given in reference summaries of the office; the Justice Manual and the *United States Government Manual* entries were not examined.
+[^1]: U.S. Department of Justice, *Report of Special Counsel Nicholas J. Bua,* March 1993, p. 186 (Moscato "now Acting Director of EOUSA"). The 1953 order, the list of duties (Justice Manual, Title 3) and the succession of directors other than Moscato are as given in reference summaries of the office.
 [^2]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair,* H. Rept. 102-857, September 10, 1992. https://archive.org/details/InslawAffairInvestigativeReport
 [^3]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.,* March 1993, pp. 185-186, 211-214. https://archive.org/details/InslawPROMISBuaReport
