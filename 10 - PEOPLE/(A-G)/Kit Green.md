@@ -4,7 +4,7 @@ aliases:
   - Kit Green
   - Christopher Green
 created: 2026-05-17
-updated: 2026-10-02
+updated: 2026-10-03
 category: "Intelligence & Government"
 tags:
   - Person
@@ -55,7 +55,9 @@ After several scientists at [[Lawrence Livermore National Laboratory]] reported 
 
 Following his departure from CIA, Green continued academic and research work in neurophysiology and forensic medicine. He was associated with [[Wayne State University School of Medicine]], where he worked in forensic pathology and neurological research.[^2]
 
-Green contributed as a consultant and scientific advisor to the [[Advanced Aerospace Threat Identification Program]] (AATIP), the Pentagon's UAP research program that operated from approximately 2007 to 2012 under the direction of [[Luis D. Elizondo III|Luis Elizondo]]. His contribution included review of reported physical and physiological effects on individuals claiming proximity to anomalous aerial phenomena. He published research examining injuries reported by people claiming UAP encounters - a category he termed "exotic wounds" - applying forensic neurological analysis to the reported symptom patterns. This work represented the extension of his long-standing interest in the medical and physiological dimensions of anomalous phenomena from the SRI era into the post-AATIP period.[^3]
+Green contributed as a consultant and scientific advisor to the [[Advanced Aerospace Threat Identification Program]] (AATIP), the Pentagon's UAP research program that operated from approximately 2007 to 2012 under the direction of [[Luis Elizondo]]. His contribution included review of reported physical and physiological effects on individuals claiming proximity to anomalous aerial phenomena. He published research examining injuries reported by people claiming UAP encounters - a category he termed "exotic wounds" - applying forensic neurological analysis to the reported symptom patterns. This work represented the extension of his long-standing interest in the medical and physiological dimensions of anomalous phenomena from the SRI era into the post-AATIP period.[^3]
+
+Elizondo's acknowledgments in 2024 thank "everyone else who worked with and supported AAWSAP/AATIP, especially Dr. Hal Puthoff, Dr. [[Eric Davis]], Dr. Christopher 'Kit' Green, [[Garry Nolan|Dr. Garry Nolan]]," Bigelow and others. The body of the book does not otherwise mention Green by name, and it does not describe his role.[^10]
 
 A [[Defense Electronics]] article of July 1993 in the CIA's Star Gate files, on closed briefings by the Russian scientist [[Igor Smirnov]] on "a computerized acoustic device allegedly capable of implanting thoughts in a person's mind," held from March 17 in [[Northern Virginia|northern Virginia]] and later at the [[University of Kansas Medical Center]], lists among "the non-military attendees" "Dr. [[Richard Nakamura]] of the [[National Institute of Mental Health]] and Dr. Christopher Green, director of [[General Motors]] Corp. (GM) biomedical research department in [[Detroit]]"; whether this is the Green of this page the article does not say.[^4]
 
@@ -78,3 +80,4 @@ An April 15, 1993 transcript of a call between [[Ronald Pandolfi]] and [[C. B. S
 [^7]: "Telecon: Ron Pandolphy and Scott Jones," April 15, 1993, enclosure to Farley's letter of April 29, 1995, Clinton Presidential Library, Office of Science and Technology Policy FOIA 01-22, item 46, https://avalonlibrary.net/Grant_Cameron/Clinton_Presidential_Library_collection/OSTP%20-%20FOIA%2001%2022/1995%2004%2029_C.%20Richard%20Farley,%20Jr.%20to%20John%20Gibbons%20-%20OSTP%20-%20FOIA%2001%2022%20-%20item%20no%2046.pdf.
 [^8]: Farley, C. Richard, Jr., letter to John H. Gibbons, March 29, 1997, OSTP FOIA 01-22, item 75, same collection.
 [^9]: Boylan, Richard J. "UFO/ET-Disclosure Policy Splits Covert Network," *Perceptions,* http://web.archive.org/web/20130831033026/http://www.think-aboutit.com/ufo/aviary.htm. Sole source.
+[^10]: Luis Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (New York: William Morrow, 2024), Acknowledgments, p. 250 (placed by interpolation from index entries; the digital copy read carries no pagination); full-text search of the book for "Kit" and "Green" returns this passage only.

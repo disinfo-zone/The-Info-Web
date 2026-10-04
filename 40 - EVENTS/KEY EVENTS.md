@@ -101,10 +101,10 @@ Recent UAP encounters, domestic incidents, and contemporary events.
 | --- | --- |
 | [[Cybertruck Trump Hotel Bombing]] | January 1, 2025 explosion of a Tesla Cybertruck outside Trump International Hotel Las Vegas by active duty Army Special Ops soldier Matthew Livelsberger. |
 | [[FBI Seizes Largest Ever Explosive Cache]] | January 1, 2025 FBI announcement of the largest explosives cache seizure in bureau history. |
-| [[GIMBAL]] | Declassified UAP video captured by an F/A-18 Super Hornet crew showing an object rotating against the wind, released by the Pentagon in 2017. |
-| [[GoFast]] | Declassified UAP video captured by an F/A-18 Super Hornet crew showing an object moving at extreme speed low over the ocean, released by the Pentagon in 2017. |
+| [[GIMBAL]] | Unclassified Navy video of an F/A-18 Super Hornet crew's encounter with an object rotating against the wind, published in December 2017 and authorized for release by the Pentagon on April 27, 2020.[^1] |
+| [[GoFast]] | Unclassified Navy video of an F/A-18 Super Hornet crew's encounter with an object moving at extreme speed low over the ocean, first published in March 2018 and authorized for release April 27, 2020.[^1] |
 | [[New Orleans Truck Attack]] | January 1, 2025 terrorist attack in which Shamsud-Din Jabbar drove a truck into crowds on Bourbon Street in New Orleans, killing multiple people. |
-| [[Tic Tac]] | UAP encountered by the USS Nimitz Carrier Strike Group in November 2004, captured on video and designated 'Tic Tac' for its shape, released by the Pentagon in 2017. |
+| [[Tic Tac]] | UAP encountered by the USS Nimitz Carrier Strike Group in November 2004, captured on video as 'Tic Tac'; the FLIR1 video was published in December 2017 and authorized for release April 27, 2020.[^1] |
 
 ---
 
@@ -120,3 +120,5 @@ Recent UAP encounters, domestic incidents, and contemporary events.
 | Diplomacy | 4 |
 | Terrorism | 4 |
 | Contra War | 3 |
+
+[^1]: U.S. Department of Defense. "Statement by the Department of Defense on the Release of Historical Navy Videos," April 27, 2020. https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/ (read through the Internet Archive capture, https://web.archive.org/web/2020id_/https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/). Greenewald, John, Jr. "Navy Officially Releases UFO/UAP Videos, Calls Them 'Historical.'" The Black Vault, April 27, 2020 (reproduces the statement and gives the GOFAST date). https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/ Politico reported in 2021 that Washington Headquarters Services approved the videos "for unlimited distribution" inside the government: Bender, Bryan. "The Hidden History of How Washington Embraced UFOs." *Politico Magazine,* May 28, 2021. https://www.politico.com/news/magazine/2021/05/28/ufos-secret-history-government-washington-dc-487900

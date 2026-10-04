@@ -44,7 +44,7 @@ relations:
     role: "director of project development, for about three years, per Grant Cameron"
     fn: 5
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 The Human Potential Foundation was a nonprofit corporation that [[C. B. Scott Jones]] founded with [[Claiborne Pell]] in 1989 and ran as president until its dissolution in 1998.[^1] The [[Center for Applied Anomalous Phenomena]], which Jones founded in 1985, was absorbed into it; the Foundation managed three centers (interspecies communication, intercultural medical exchange, and thanatology and survival research) and a small press for limited runs of books; the interspecies communication center organized research on psychic communication with dolphins (project [[Neptune's Helper]]) and on human interaction with potential extraterrestrials, which produced the 1995 conference.[^1]
@@ -69,6 +69,12 @@ In August 1995 the Foundation mailed every member of Congress a packet, describe
 
 The finding aid gives the dissolution as 1998; the [[Peace and Emergency Action Coalition for Earth]], founded by Jones, received its [[Internal Revenue Service]] ruling in October 1998.[^1][^10] 
 
+### Series 4 container titles in the Scott Jones papers
+
+The finding aid of the [[C. B. Scott Jones]] papers at the [[University of Colorado Boulder]] lists, in Series 4 (Human Potential Foundation), subseries for [[Claiborne Pell]]; the Human Potential Foundation Board; Grants and Funding; Projects; and Events. File titles include "Articles of Exemption, Incorporation," correspondence with Mark Sandground and Richard F. Bradberry, the "Does Consciousness Survive Physical Death..." joint resolution of the 101st Congress, grant files for the John A. Hartford Foundation, Inc., "Van Dyk and Hollister - The Connemara Fund" and "When Cosmic Cultures Meet Funding," and "Grant Requests" files marked Yes, Maybe and No.[^11]
+
+Under Projects the container tree names the Center for the Study of Extraterrestrial Intelligence (CSETI, four files); the Center for Interspecies Communication (CISC), with files titled "UFO and Contact Research Planning," "UFO Documents," "13th Brazilian Congress Scientific Ufology," "Jackson, Wyoming Roundtable," "The Terra Papers," and correspondence files for Jill C. Tarter, John "Jack" Gibbons (two files), Kent Jeffery "re. International Roswell Initiative," Senator [[Ted Stevens]], [[Jacques Vallee]], John E. Mack, Peter A. Sturrock, Richard "Dick" Farley, Hans-Adam Liechtenstein, Henry L. Diamond (two files) and Laurance S. Rockefeller (three files); the Center for Intercultural Medical Exchange (CICME), with Qi-Gong, Chinese and Moscow Medical Academy files and a file on the NIH Office of Alternative Medicine; the Center for Thanatology and Survival Research (CTSR); and the Peace and Emergency Action Coalition for Earth "PEACE Room," with files for the Sasakawa Peace Foundation, the Gorbachev Foundation USA and John L. Petersen of the Arlington Institute. The tree gives titles only, without dates or box numbers.[^11]
+
 ### Footnotes
 
 [^1]: University of Colorado Boulder Libraries, "C. B. 'Scott' Jones papers" (COU:4004), biographical note and Series 4 scope note, https://archives.colorado.edu/repositories/2/resources/346 and https://archives.colorado.edu/repositories/2/archival_objects/311786.
@@ -81,3 +87,4 @@ The finding aid gives the dissolution as 1998; the [[Peace and Emergency Action 
 [^8]: William J. Clinton Presidential Library, "When Cosmic Cultures Meet - Collection Finding Aid," 2008-1575-F, https://clinton.presidentiallibraries.us/items/show/36409.
 [^9]: Jones, questionnaire attachment to the letter of August 17, 1995 to Representative Steven Schiff, http://www.paradigmresearchgroup.org/Rockefeller%20Documents/RID-8-17-95.htm.
 [^10]: ProPublica Nonprofit Explorer, Peace and Emergency Action Coalition for Earth (EIN 74-2888837), https://projects.propublica.org/nonprofits/api/v2/organizations/742888837.json.
+[^11]: University of Colorado Boulder Libraries, Rare and Distinctive Collections, collection COU:4004 (the C. B. 'Scott' Jones papers), ArchivesSpace resource 346, https://archives.colorado.edu/repositories/2/resources/346, container tree for Series 4, fetched October 3, 2026 from the vault owner's browser (titles only; no dates or box numbers in the saved tree).

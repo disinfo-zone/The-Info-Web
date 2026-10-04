@@ -4,7 +4,7 @@ aliases:
   - PROMIS
   - Prosecutor's Management Information System
 created: 2024-04-25
-updated: 2026-09-22
+updated: 2026-10-03
 tags:
   - PROMIS
   - INSLAW
@@ -14,9 +14,15 @@ tags:
   - CIA
   - DOJ
 category: "Information System"
-summary: "PROMIS (Prosecutor's Management Information System) was a case management software developed by INSLAW beginning in 1971 that became the center of a major legal and intelligence scandal after the U.S. Justice Department allegedly stole the proprietary version and distributed it internationally with a hidden surveillance backdoor."
+summary: "Case management software developed by INSLAW from 1971 that became the center of a legal and intelligence scandal after the Justice Department allegedly took the proprietary version and distributed it abroad with a hidden backdoor."
 start: 1971-01-01
 location: "Washington, D.C."
+relations:
+  - type: subject_of
+    with: "[[Office of Data Processing (CIA)]]"
+    start: 1981-03-30
+    role: "listed as 'Promis (Online), Generalized Tracking System,' FSWEC-80/0092, in the September 1980 Federal Software Exchange Catalog subject index circulated as Attachment B to memorandum ODP-81-307"
+    fn: 9
 ---
 PROMIS (Prosecutor's Management Information System) was a pioneering case management software system developed in the 1970s and 80s by [[INSLAW|The Institute for Law and Social Research]] (INSLAW). The software was originally designed to help the [[U.S. Attorney's office]] in DC automate and streamline their case management processes. This expanded across the country and internationally. However, it later became embroiled in controversy, theft, and conspiracy theories.
 ### Origins and Development
@@ -40,7 +46,7 @@ In February 1973, US Attorney for DC [[Harold H. Titus Jr]] made the decision to
 
 - Enhanced version funded by LEAA to make the system transferable to other jurisdictions.
 - Still primarily batch-oriented, but added online inquiry capabilities so users could look up case status and defendant information interactively.
-- Implemented in New Orleans and Indianapolis.
+- Implemented in [[New Orleans]] and Indianapolis.
 - New Orleans ran PROMIS II on a DEC PDP-11/70 minicomputer dedicated to the prosecutor's office.
 - Indianapolis operated PROMIS II on the city's IBM mainframe in a time-sharing mode.
 ### MINI-PROMIS (late 1970s)
@@ -100,7 +106,15 @@ In September 1987, Bankruptcy Judge George Francis Bason, Jr. ruled that DOJ had
 
 The House Judiciary Committee launched a three-year investigation from 1989 to 1992, producing House Report 102-857 on September 10, 1992, which found "strong evidence" of DOJ theft and raised "serious concerns" about a high-level conspiracy. The report was unclassified and publicly available. Special Counsel [[Nicholas J. Bua]], appointed in November 1991, issued a 267-page report in March 1993 finding no credible evidence of criminal wrongdoing by any DOJ official. The Senate referred INSLAW's remaining claims to the Court of Federal Claims, which ruled in 1997-1998 that all PROMIS versions were in the public domain.
 
-Bill Hamilton maintained INSLAW's claims publicly for decades after the formal proceedings concluded. The international backdoor distribution allegations - particularly those concerning Rafael Eitan, Robert Maxwell, and Degem - were never formally adjudicated. A 2001 report alleged that FBI double agent [[Robert Hanssen]] provided PROMIS-derived software to his Soviet KGB handlers.[^1][^2]
+Bill Hamilton maintained INSLAW's claims publicly for decades after the formal proceedings concluded. The international backdoor distribution allegations - particularly those concerning Rafael Eitan, Robert Maxwell, and Degem - were never formally adjudicated. A 2001 report alleged that [[Federal Bureau of Investigation|FBI]] double agent [[Robert Hanssen]] provided PROMIS-derived software to his Soviet [[KGB]] handlers.[^1][^2]
+
+### Listing in the Federal Software Exchange Catalog, 1980 and 1981
+
+A memorandum of March 30, 1981, numbered ODP-81-307 and headed "Federal Software Exchange Program," was written by the Chief, Management Staff, Office of Data Processing (ODP) of the [[Central Intelligence Agency]] (the signer's name is redacted in the release) to the Information Handling Systems Architect, all ADP control officers, the Chief of the ADP and Engineering Branch ("OL" in the address block), the Chief of the Information Systems Security Group of the [[CIA Office of Security|Office of Security]], and the ODP deputy directors for Applications and for Processing and its Chief of Special Projects Staff. It described the Federal Software Exchange Program, run by the Federal Software Exchange Center (FSEC) of the [[General Services Administration]], which collects federally owned or developed unclassified software and makes it available to agencies, directed ODP components to review the FSEC catalog before procuring or developing software, and stated that a CIA component obtaining software from FSEC would have to maintain it.[^9]
+
+The attachments were a letter from Helen B. McEwan, Director of the Federal Software Exchange Program at the GSA Automated Data and Telecommunications Service in Falls Church, Virginia; a blank Standard Form 185 software abstract; and, as Attachment B, the subject index of the Federal Software Exchange Catalog of September 1980, "provided as a sample of the types of software available from the FSEC." In that index the entry "Promis (Online), Generalized Tracking System," catalog number FSWEC-80/0092, appears under the subject headings Criminal Justice, Information Systems and Records Management. The memorandum text does not mention INSLAW, the Justice Department or a developer, and the index does not identify the organization that submitted the entry. The document was approved for release on October 31, 2006 as CIA-RDP84-00933R000200180033-7.[^9]
+
+[[Emma Best]] wrote in [[MuckRock]] on December 18, 2018 that the memo showed the Central Intelligence Agency "was offered PROMIS software as early as 1981," that details in the catalog entry identify it as the "wholly unrelated" Project Management Integrated System distributed by Strategic Software Planning Corporation and Digital Planning, Inc., which the CIA says is the only PROMIS it used, and that "by themselves, the memos do not indicate that the software was ever requested by anyone at the CIA or the National Security Agency."[^10]
 
 ### Footnotes
 
@@ -112,3 +126,5 @@ Bill Hamilton maintained INSLAW's claims publicly for decades after the formal p
 [^6]: "Ex-Chief of Wire Service Convicted of Fraud Conspiracy," *The Washington Post,* October 1996, on Earl Brian's conviction for financial fraud involving the Financial News Network and United Press International. https://www.washingtonpost.com/archive/politics/1996/10/18/ex-chief-of-wire-service-convicted-of-fraud-conspiracy/314ff075-52fe-450b-8f47-b353898ccfe1/
 [^7]: "PRISM's Controversial Forerunner," *Consortium News,* 2013, on PROMIS as a conceptual forerunner of bulk data integration and the unproven trapdoor narrative. https://consortiumnews.com/2013/07/11/prisms-controversial-forerunner/
 [^8]: "The Mysterious Death of Danny Casolaro," *All That's Interesting,* on the August 1991 death, the missing notes, and the 2024 documentary *American Conspiracy: The Octopus Murders*. https://allthatsinteresting.com/danny-casolaro
+[^9]: Central Intelligence Agency, Office of Data Processing, Management Staff, memorandum ODP-81-307, "Federal Software Exchange Program," March 30, 1981, with Attachment A (letter of Helen B. McEwan, Director, Federal Software Exchange Program, General Services Administration), Standard Form 185 and instructions, and Attachment B, "Federal Software Exchange Catalog, September 1980, Subject Index," pp. SU-1 and SU-2, CIA-RDP84-00933R000200180033-7, approved for release October 31, 2006; 7-page PDF supplied by the vault owner and read on October 3, 2026 (memorandum text by text layer, index page SU-1 by image).
+[^10]: Emma Best, "Memo shows the CIA was offered PROMIS software in 1981," MuckRock, December 18, 2018, https://www.muckrock.com/news/archives/2018/dec/18/promis-81-memo/ (the article was read as an abridged text extract saved on October 3, 2026; quotations are from that extract; the embedded document viewer was not captured).

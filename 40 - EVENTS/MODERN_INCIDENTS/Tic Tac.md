@@ -6,7 +6,7 @@ tags:
   - USSNimitz
   - 2004
 category: "Modern Incident"
-summary: "UAP encountered by the USS Nimitz Carrier Strike Group in November 2004, captured on video and designated 'Tic Tac' for its shape, released by the Pentagon in 2017."
+summary: "UAP encountered by the USS Nimitz Carrier Strike Group in November 2004 and captured on video as 'Tic Tac'; the FLIR1 video was published in December 2017 and authorized for release April 27, 2020."
 date: 2004-11-14
 location: "Pacific Ocean, off San Diego, California"
 ---
@@ -24,7 +24,10 @@ Later that day, a second flight, piloted by Lieutenant Chad Underwood, was launc
 
 The incident was investigated by [[Jay Stratton]] for the [[Advanced Aerospace Threat Identification Program]] (AATIP). The analysis concluded that the Tic Tac exhibited performance characteristics well beyond any known technology, including hypersonic velocity and instantaneous acceleration, which would subject a conventional craft to thousands of G-forces. The lack of official follow-up at the time of the incident, and the subsequent dismissal by some in the chain of command, highlighted the deep-seated stigma surrounding the UAP topic within the military.[^1]
 
-The public release of the Tic Tac video in 2017, along with the testimony of Commander Fravor and Lieutenant Dietrich, was a seminal event in the UAP disclosure movement. It provided credible, verifiable evidence that forced a public and congressional conversation about the reality of UAP and the potential national security threat they represent.[^1]
+The "FLIR1" (Tic Tac) video was one of two published by the [[New York Times]] in December 2017 ([[December 2017 New York Times AATIP Report]]).[^2] Politico reported in 2021 that [[Washington Headquarters Services]] had approved the videos "for unlimited distribution" inside the government, and the [[Pentagon]] stated on April 27, 2020 that it authorized the release of three unclassified Navy videos "circulating in the public domain after unauthorized releases in 2007 and 2017."[^2][^3] The publication of the video, along with the testimony of Commander Fravor and Lieutenant Dietrich, was a seminal event in the UAP disclosure movement. It provided credible, verifiable evidence that forced a public and congressional conversation about the reality of UAP and the potential national security threat they represent.[^1]
 
 ### Footnotes
+
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
+[^2]: U.S. Department of Defense. "Statement by the Department of Defense on the Release of Historical Navy Videos," April 27, 2020. https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/ (read through the Internet Archive capture, https://web.archive.org/web/2020id_/https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/). Greenewald, John, Jr. "Navy Officially Releases UFO/UAP Videos, Calls Them 'Historical.'" The Black Vault, April 27, 2020 (reproduces the statement and gives the GOFAST date). https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/
+[^3]: Bender, Bryan. "The Hidden History of How Washington Embraced UFOs." *Politico Magazine,* May 28, 2021. https://www.politico.com/news/magazine/2021/05/28/ufos-secret-history-government-washington-dc-487900

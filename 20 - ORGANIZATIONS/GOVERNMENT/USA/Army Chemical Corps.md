@@ -41,8 +41,14 @@ relations:
     role: "CIA retention of Fort Detrick shellfish toxin"
     start: 1975
     fn: 13
+  - type: participant_in
+    with: "[[MKSEARCH]]"
+    start: 1967
+    end: 1973
+    role: "through Edgewood Arsenal Research Laboratories, three Army programs under the MKCHICKWIT and MKOFTEN labels, including the testing of EA 3167"
+    fn: 15
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-03
 ---
 
 The Army Chemical Corps is the branch of the [[U.S. Army]] responsible for chemical, biological and radiological warfare and defense. During [[World War I]] the German use of chemical weapons led General [[John J. Pershing]] to press for a specialized gas unit for the [[American Expeditionary Forces|American Expeditionary Force]]; the War Department created a Gas Service and, according to the Corps' regimental association, renamed it the Chemical Warfare Service (CWS) on June 2, 1918. The [[First Gas Regiment]] fought in the Meuse-Argonne and St. Mihiel campaigns.[^1] The [[National Defense Act of 1920]] made the CWS a permanent branch of the Army.[^1][^2] The regimental association dates its redesignation as the Chemical Corps to 1946.[^1]
@@ -71,6 +77,10 @@ On November 25, 1969, President [[Richard Nixon]] renounced the offensive biolog
 
 After the [[Vietnam War]] the Corps was partially demobilized and much of its function moved from [[Fort McClellan]], [[Alabama]], to Aberdeen. When Fort McClellan closed under base realignment, the Corps moved to [[Fort Leonard Wood]], [[Missouri]], where it forms part of the Maneuver Support Center with the Engineer and Military Police corps.[^1]
 
+### Edgewood programs in the 1977 Defense Department search
+
+The [[Department of Defense]] General Counsel's memorandum of September 20, 1977 on CIA-sponsored drug experiments lists three Army programs from 1969 to 1973, all through the Edgewood Arsenal Research Laboratories: a drug-identification project of 1967 to 1973 (CIA payments of 12,084 dollars in 1967 and 5,000 dollars in 1969, passed to a California contractor), computer data bases on pharmacological products (about 1968 to 1971) and, from 1971 to 1973, clinical tests of a glycolate-class compound, EA 3167, which Edgewood had already tested on animals and on human volunteers at Holmesburg State Prison in Philadelphia and among military personnel at Edgewood. The CIA transferred 37,000 dollars to Edgewood in 1971 for further work, and two military volunteers were "apparently tested" in June 1973. The search covered the files of Edgewood, [[Dugway Proving Ground]], the Defense Investigative Service as to the Special Operations Division at Fort Detrick, the Army Inspector General and the [[Army Intelligence Agency]]; the memorandum describes the Army and Navy programs under [[MKSEARCH]].[^15]
+
 ### Footnotes
 
 [^1]: Chemical Corps Regimental Association, "US Army Chemical Corps History." https://ccrassn.org/history/
@@ -87,3 +97,4 @@ After the [[Vietnam War]] the Corps was partially demobilized and much of its fu
 [^12]: *Los Angeles Times*, May 5, 1987; UPI Archives, May 5, 1987.
 [^13]: Horrock, Nicholas M. "Colby Describes C.I.A. Poison Work," *New York Times,* Sept. 17, 1975. https://merylnass.substack.com/p/colby-describes-cia-poison-work-by
 [^14]: U.S. General Accounting Office, *Human Experimentation: An Overview on Cold War Era Programs,* testimony, GAO/T-NSIAD-94-266, September 28, 1994, abstract. https://www.govinfo.gov/content/pkg/GAOREPORTS-T-NSIAD-94-266/html/GAOREPORTS-T-NSIAD-94-266.htm
+[^15]: General Counsel of the Department of Defense, memorandum for the Secretary of Defense, September 20, 1977, pp. 3 to 5 and Appendix A, release file 02-A-0846, as described on the MKSEARCH page.

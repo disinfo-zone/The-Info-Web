@@ -65,7 +65,7 @@ relations:
     start: 1998
     fn: 2
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 Cecil B. "Scott" Jones (February 19, 1928, at [[Emporia, Kansas]], to January 16, 2023) was a Navy fighter pilot and intelligence officer who worked from 1985 to 1991 on the staff of Senator [[Claiborne Pell]] of [[Rhode Island]], then as president of the [[Human Potential Foundation]].[^1] His birth year is also recorded as 1924, in the register of his papers at the [[University of Colorado Boulder]].[^2]
@@ -92,6 +92,10 @@ Jones left Pell's staff in March 1991 and ran the Foundation until its dissoluti
 
 Jones presented a talk on exopolitics in [[Hawaii]] in June 2006.[^14] He founded the [[Peace and Emergency Action Coalition for Earth]] in 1998, which received its [[Internal Revenue Service]] ruling in October 1998.[^2][^15]
 
+### Series 4 and 6 container titles
+
+The finding aid lists Series 4 (Human Potential Foundation, with subseries for Pell, the Foundation Board, Grants and Funding, Projects and Events) and Series 6 ("Special Assistant to Senator Claiborne Pell," with Legislation, Symposium on Consciousness and Survival 1985, Soviet-American Relations, Paranormal Aide, Reports and organizations, Unidentified Flying Objects, Speeches and Subject Files subseries). Among the titles are "Uri Geller Scandal" files, "Soviet Psychotronics correspondence and memos," "National Science Foundation: [[Andrija Puharich]] reports and correspondence," "Howard J. Hoffman Government Liaison Project" and "A Model of Government Preparation for ET Contact and Cooperation" by Jones; the full title lists are on the pages for [[Human Potential Foundation]] and [[Claiborne Pell]].[^16]
+
 ### Footnotes
 
 [^1]: Archives for the Unexplained, "Jones, C. B. Scott" (reproducing the obituary in the *Kerrville Daily Times*: born February 19, 1928, Emporia, Kansas, to Cecil Beam Jones Sr.; died January 16, 2023), https://anomalyarchives.org/collections/file/jones-c-b-scott/.
@@ -109,3 +113,4 @@ Jones presented a talk on exopolitics in [[Hawaii]] in June 2006.[^14] He founde
 [^13]: Jones to Gibbons, August 11, 1994, http://www.paradigmresearchgroup.org/Rockefeller%20Documents/RID-8-11-94.htm. The speaker of the "super safe black program" sentence is not named on the surviving scan; the context (the letter's next sentence begins "Apparently Woolsey believes") indicates Woolsey as the person quoted by Jones.
 [^14]: Archives for the Unexplained, "Jones, C. B. Scott," as in note 1 (list of further resources, including a Hawaii presentation of June 2006).
 [^15]: ProPublica Nonprofit Explorer, Peace and Emergency Action Coalition for Earth (EIN 74-2888837), https://projects.propublica.org/nonprofits/api/v2/organizations/742888837.json.
+[^16]: University of Colorado Boulder Libraries, Rare and Distinctive Collections, collection COU:4004 (the C. B. 'Scott' Jones papers), ArchivesSpace resource 346, https://archives.colorado.edu/repositories/2/resources/346, container tree for Series 4 and Series 6, fetched October 3, 2026 from the vault owner's browser (titles only; no dates or box numbers in the saved tree).

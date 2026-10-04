@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-10-02
+updated: 2026-10-03
 title: Andrija Puharich
 aliases:
   - Andrija Puharich
@@ -66,9 +66,14 @@ A questionnaire submitted in 1952 by the Select Committee of the [[United States
 
 The [[Portland Press Herald]] (Sunday Telegram section) of January 9, 1949 carried a staff-written story by [[Jim Moore]], datelined [[Camden, Maine|Camden]], headed "Secrets Of Life." It reported that Dr. Henry K. Puharich, a Chicago physician then about thirty, with his wife Virginia (born Jackson) and their daughter Svetlana, aged eighteen months, had settled at Camden, near Zlatko Balokovic and his wife, and had set up the "Round Table Foundation Laboratory of experimental electrobiology" in a converted barn on the [[Bald Mountain]] retreat. The story gave his schooling as a bachelor's degree in philosophy and a medical degree from Northwestern University, followed by a rotating internship at [[Permanente Hospital]] in [[Oakland, California]], and described Mrs. Puharich as a former [[Office of War Information]] editor and Northwestern laboratory assistant. It stated his theory, which it said he had presented in 1946 to a zoology seminar at the [[University of California]] and to the [[Society of Junior Fellows]] at [[Harvard University|Harvard]], that nerve units radiate and receive energy waves, with the "plasma membrane" acting as a piezo-electric crystal that behaves as a radio receiver and transmitter. The story added that the theory might explain the microphonics of the ear and might account for mental telepathy by electronic equipment "which may not yet be developed," and that his crystal work was done with Dr. [[Raymond C. Tibbetts]] of Camden.[^4]
 
+### Reference in the Scott Jones papers
+
+The finding aid of the C. B. "Scott" Jones papers at the [[University of Colorado Boulder]] lists, in Series 6 ("Special Assistant to [[Claiborne Pell|Senator Claiborne Pell]]"), under Reports and organizations, a file titled "National Science Foundation: Andrija Puharich reports and correspondence." The saved container tree gives the title only, without dates or box number.[^5]
+
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^2]: Kress, Kenneth A. "Parapsychology in Intelligence: A Personal Review and Conclusions," *Studies in Intelligence,* vol. 21, no. 4, winter 1977, declassified. Central Intelligence Agency, Office of Research and Development, memorandum ORD-413-73, "Briefing by Stanford Research Institute," January 24, 1973, CIA-RDP96-00787R000400070029-2. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
 [^3]: "Questionnaire submitted by the Select Committee of the House of Representatives of the Congress of the United States, created by House Resolution 561, Eighty-second Congress, Second Session, to investigate tax-exempt foundations and comparable organizations," CIA-RDP91-00682R000300080029-3, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp91-00682r000300080029-3. The document page carries OCR text only; the PDF has no text layer, and the foundation name is read from that OCR.
 [^4]: Jim Moore, "Secrets Of Life," *Portland Press Herald* (Portland, Me.), January 9, 1949, p. 61, https://www.newspapers.com/image/848421406/.
+[^5]: University of Colorado Boulder Libraries, Rare and Distinctive Collections, collection COU:4004 (the C. B. 'Scott' Jones papers), ArchivesSpace resource 346, https://archives.colorado.edu/repositories/2/resources/346, container tree for Series 6, fetched October 3, 2026 from the vault owner's browser.
