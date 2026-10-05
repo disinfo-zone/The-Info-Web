@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Hella Hammid
+  - Hella Heyman
+  - Mrs. Hammid
+  - H.H.
+  - S4
 category: "Psychics & Remote Viewers"
 tags:
   - Person
@@ -11,12 +17,6 @@ tags:
   - PSI
   - 1970s
   - 1980s
-alias:
-  - Hella Hammid
-  - Hella Heyman
-  - Mrs. Hammid
-  - H.H.
-  - S4
 summary: "Los Angeles photographer, a principal SRI learner subject from 1974 (S4 in the 1976 Proceedings paper), a viewer in Project Deep Quest in 1977, and interviewed by the Army's Grill Flame group in 1979."
 born: 1921-07-15
 died: 1992-05-01

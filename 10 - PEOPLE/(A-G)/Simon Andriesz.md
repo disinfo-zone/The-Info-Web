@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Simon Andriesz
 category: "Business & Finance"
 tags:
   - Person
@@ -11,8 +13,6 @@ tags:
   - FBI
   - CFTC
   - EpsteinFiles
-alias:
-  - Simon Andriesz
 summary: "Simon Andriesz was a British former BGC managing director whose October 14, 2020 call to the FBI about Howard Lutnick appears in the Epstein files and whose death The Banker reported on October 2, 2026."
 location: "Cornwall, England"
 relations:

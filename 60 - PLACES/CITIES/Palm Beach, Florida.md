@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Palm Beach
+  - Town of Palm Beach
+  - Palm Beach, FL
+  - Palm Beach, Fla.
 category: "City"
 tags:
   - Place
@@ -9,11 +14,6 @@ tags:
   - MarALago
   - NonProsecutionAgreement
   - PalmBeachPolice
-alias:
-  - Palm Beach
-  - Town of Palm Beach
-  - Palm Beach, FL
-  - Palm Beach, Fla.
 summary: "Barrier-island town in Palm Beach County, Florida, incorporated in 1911, home of Mar-a-Lago and of Jeffrey Epstein's house at 358 El Brillo Way, where the 2005 police investigation of Epstein began."
 start: 1911
 location: "Palm Beach County, Florida"

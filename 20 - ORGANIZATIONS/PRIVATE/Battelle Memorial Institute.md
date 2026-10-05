@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Battelle Memorial Institute
+  - Battelle
+  - BMI
+  - Battelle Columbus Laboratories
+  - Battelle Columbus
+  - Project Bear
+  - Project BEAR
+  - Project Stork
+  - Project White Stork
 category: "Private Organization"
 tags:
   - Organization
@@ -10,16 +20,6 @@ tags:
   - ATIC
   - ProjectBlueBook
   - Intelligence
-alias:
-  - Battelle Memorial Institute
-  - Battelle
-  - BMI
-  - Battelle Columbus Laboratories
-  - Battelle Columbus
-  - Project Bear
-  - Project BEAR
-  - Project Stork
-  - Project White Stork
 summary: "Columbus, Ohio contract research institute that held the Air Technical Intelligence Center's UFO support contract (Ruppelt's Project Bear, the Robertson Panel's Project Stork) from late 1951 and produced Blue Book Special Report No. 14."
 location: "Columbus, Ohio"
 relations:

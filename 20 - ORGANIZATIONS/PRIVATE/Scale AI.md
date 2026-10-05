@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Scale AI
+  - Scale AI, Inc.
+  - Scale AI Inc.
+  - Scale.com
+  - Remotasks
+  - Outlier AI
+  - Smart Ecosystem
 category: "Private Organization"
 tags:
   - Organization
@@ -11,14 +19,6 @@ tags:
   - Meta
   - RevolvingDoor
   - PeterThiel
-alias:
-  - Scale AI
-  - Scale AI, Inc.
-  - Scale AI Inc.
-  - Scale.com
-  - Remotasks
-  - Outlier AI
-  - Smart Ecosystem
 summary: "San Francisco AI data company founded in 2016 by Alexandr Wang, holder of 105.6 million dollars in Army obligations, whose Labor Department inquiry was dropped in 2025 and in which Meta bought a non-voting stake."
 start: 2016
 location: "San Francisco, California"

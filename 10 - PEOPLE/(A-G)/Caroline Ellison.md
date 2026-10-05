@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Caroline Ellison
+  - Caroline Ellison (Alameda Research)
 category: "Business & Finance"
 tags:
   - Person
@@ -12,9 +15,6 @@ tags:
   - Anthropic
   - CooperatingWitness
   - Forfeiture
-alias:
-  - Caroline Ellison
-  - Caroline Ellison (Alameda Research)
 summary: "Jane Street trader turned Alameda Research chief executive who pleaded guilty in December 2022, testified against Sam Bankman-Fried, forfeited Anthropic shares and was released from federal custody in January 2026."
 born: 1994-11
 location: "Boston, Massachusetts (born)"

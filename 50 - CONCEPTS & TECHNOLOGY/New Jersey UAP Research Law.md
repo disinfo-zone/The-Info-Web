@@ -1,14 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
-tags:
-  - Legislation
-  - UAP
-  - NewJersey
-  - StateGovernment
-  - HigherEducation
-  - Aviation
-  - Drones
-alias:
+aliases:
   - New Jersey UAP Research Law
   - P.L. 2025, c.269
   - P.L. 2025 c.269
@@ -21,6 +12,15 @@ alias:
   - New Jersey Air Traffic-Collegiate Training Initiative
   - NJ AT-CTI
   - Center for the Study of Unidentified Aerial Phenomena
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Legislation
+  - UAP
+  - NewJersey
+  - StateGovernment
+  - HigherEducation
+  - Aviation
+  - Drones
 summary: "New Jersey law approved January 12, 2026 that pairs an air traffic controller loan redemption program with aviation grants supporting a Center for the Study of Unidentified Aerial Phenomena, which Kean University is to house."
 start: 2025-05-19
 location: "Trenton, New Jersey"

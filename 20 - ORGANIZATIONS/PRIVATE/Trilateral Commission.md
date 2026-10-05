@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Trilateral Commission
+  - The Trilateral Commission
+  - Trilateral Commission North America
+  - Trilateral Commission (North America)
+  - The Trilateral Commission (North America)
 category: "Private Organization"
 tags:
   - Organization
@@ -9,12 +15,6 @@ tags:
   - CarterAdministration
   - EstablishmentNetworks
   - CrisisOfDemocracy
-alias:
-  - Trilateral Commission
-  - The Trilateral Commission
-  - Trilateral Commission North America
-  - Trilateral Commission (North America)
-  - The Trilateral Commission (North America)
 summary: "Body of North American, European and Japanese business, political and academic figures proposed by David Rockefeller in 1972, directed by Zbigniew Brzezinski from 1973 and publisher of the 1975 report The Crisis of Democracy."
 start: 1973
 location: "Washington, D.C."

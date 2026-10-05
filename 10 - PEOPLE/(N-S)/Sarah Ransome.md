@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Jane Doe 43
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - SexTrafficking
   - GiuffreVMaxwell
   - FederalTortClaimsAct
-alias:
-  - Jane Doe 43
 summary: "Epstein trafficking survivor who sued Epstein, Maxwell, Sarah Kellen and Lesley Groff in 2017 as Jane Doe 43, settled in 2018, and in 2023 joined Maria Farmer's 600 million dollar FBI claim."
 location: "New York, New York"
 relations:

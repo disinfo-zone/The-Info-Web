@@ -1,8 +1,8 @@
 ---
-category: "Private Organization"
-alias:
+aliases:
   - "Time (magazine)"
   - "TIME"
+category: "Private Organization"
 tags:
   - Organization
   - Media

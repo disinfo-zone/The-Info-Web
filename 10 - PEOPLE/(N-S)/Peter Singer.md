@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Peter Singer
+  - Peter Albert David Singer
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - AnimalRights
   - Bioethics
   - Princeton
-alias:
-  - Peter Singer
-  - Peter Albert David Singer
 summary: "Peter Singer is an Australian utilitarian philosopher at Princeton whose 1972 essay 'Famine, Affluence, and Morality' and its drowning-child argument became the founding text of effective altruism, and who wrote Animal Liberation in 1975."
 born: 1946-07-06
 location: "Princeton, New Jersey; Melbourne, Australia"

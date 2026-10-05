@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ziz
+  - Jack Amadeus LaSota
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Cult
   - Violence
   - ArtificialIntelligence
-alias:
-  - Ziz
-  - Jack Amadeus LaSota
 summary: "Jack LaSota, who writes under the persona 'Ziz,' is an Alaska-born computer programmer and former rationalist who founded the group known as the Zizians around a theory of brain hemispheres and militant veganism, and who was arrested in Maryland in February 2025 as the group was tied to six deaths across three states."
 born: 1990
 location: "Fairbanks, Alaska"

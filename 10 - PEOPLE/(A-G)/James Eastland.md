@@ -1,4 +1,7 @@
 ---
+aliases:
+  - James O. Eastland
+  - James Oliver Eastland
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - Segregation
   - JohnBirchSociety
   - HuntFamily
-alias:
-  - James O. Eastland
-  - James Oliver Eastland
 summary: "Mississippi senator from 1941 to 1978 and Delta planter who chaired the Internal Security Subcommittee and the Judiciary Committee, buried over a hundred civil rights bills, and drew 100,000 dollars a year in farm subsidies."
 born: 1904-11-28
 died: 1986-02-19

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leopold Aschenbrenner
+  - Aschenbrenner
 category: "Business & Finance"
 tags:
   - Person
@@ -10,9 +13,6 @@ tags:
   - EffectiveAltruism
   - AISafety
   - CarlShulman
-alias:
-  - Leopold Aschenbrenner
-  - Aschenbrenner
 summary: "German-born former FTX Future Fund staffer and OpenAI Superalignment researcher, fired in 2024, who founded Situational Awareness LP, an AI-infrastructure hedge fund that CNBC reported was forced to sell its public holdings in 2026."
 location: "San Francisco, California"
 relations:

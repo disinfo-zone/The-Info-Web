@@ -1,4 +1,6 @@
 ---
+aliases:
+  - William H. Luers
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - OperationCondor
   - HenryKissinger
   - OrlandoLetelier
-alias:
-  - William H. Luers
 summary: "Deputy assistant secretary of state who drafted the August 1976 cable warning the Condor governments against assassination abroad, pressed for its delivery, and was told on September 20 to take no further action."
 location: "Washington, D.C."
 created: 2026-09-21

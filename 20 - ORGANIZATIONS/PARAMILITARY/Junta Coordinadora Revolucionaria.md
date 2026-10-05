@@ -1,4 +1,7 @@
 ---
+aliases:
+  - JCR
+  - Junta de Coordinación Revolucionaria
 category: "Paramilitary"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - ERP
   - OperationCondor
   - SouthAmerica
-alias:
-  - JCR
-  - Junta de Coordinación Revolucionaria
 summary: "Alliance of the Tupamaros, the Chilean MIR, the Bolivian ELN, and the Argentine ERP, formed in 1973 on Che Guevara's model of coordinating juntas, whose members were the first targets of Operation Condor."
 start: 1973
 location: "Buenos Aires, Argentina"

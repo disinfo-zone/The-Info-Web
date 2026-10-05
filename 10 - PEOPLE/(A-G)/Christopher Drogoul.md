@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Christopher P. Drogoul
 category: "Business & Finance"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Banking
   - Atlanta
   - KissingerAssociates
-alias:
-  - Christopher P. Drogoul
 summary: "Manager of the Atlanta branch of Banca Nazionale del Lavoro who extended more than four billion dollars in unreported credit to Iraq and testified that his superiors in Rome and Kissinger Associates knew of the business."
 location: "Atlanta, Georgia"
 created: 2026-09-21

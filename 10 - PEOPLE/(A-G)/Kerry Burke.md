@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thomas Kerry Burke
+  - Sir Kerry Burke
 category: "Political Figure"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - Politician
   - Immigration
   - RCHorsch
-alias:
-  - Thomas Kerry Burke
-  - Sir Kerry Burke
 summary: "New Zealand Labour minister of immigration from July 1984 who announced in October 1984 that the impostor Raymond Hoersch had entered the country in 1980 and cleared the department of blame."
 location: "Christchurch, New Zealand"
 relations:

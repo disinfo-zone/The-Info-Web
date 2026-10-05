@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Lockheed Skunk Works
+  - Skunk Works
+  - The Skunk Works
+  - Skonk Works
+  - Lockheed Advanced Development Projects
+  - Advanced Development Projects
+  - ADP
+  - Lockheed Martin Skunk Works
+  - Lockheed Martin Advanced Development Programs
+  - Advanced Development Programs
 category: "Private Organization"
 tags:
   - Organization
@@ -10,17 +21,6 @@ tags:
   - BlackProjects
   - UFO
   - Contractor
-alias:
-  - Lockheed Skunk Works
-  - Skunk Works
-  - The Skunk Works
-  - Skonk Works
-  - Lockheed Advanced Development Projects
-  - Advanced Development Projects
-  - ADP
-  - Lockheed Martin Skunk Works
-  - Lockheed Martin Advanced Development Programs
-  - Advanced Development Programs
 summary: "Lockheed's Burbank advanced development unit, begun in 1943 under Kelly Johnson, builder of the U-2, A-12 and F-117, and in some accounts a custodian of recovered craft, which the Pentagon denies."
 location: "Burbank, California"
 start: 1943

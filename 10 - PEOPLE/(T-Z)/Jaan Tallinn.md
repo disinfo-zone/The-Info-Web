@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Jaan Tallinn
 category: "Technologists"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - ExistentialRisk
   - EffectiveAltruism
   - Investor
-alias:
-  - Jaan Tallinn
 summary: "Jaan Tallinn is the Estonian programmer who helped build Kazaa and Skype and turned the resulting fortune into the largest private funding stream for AI-safety and existential-risk work, cofounding the Centre for the Study of Existential Risk and the Future of Life Institute and backing Anthropic and DeepMind."
 born: 1972-02-14
 location: "Tallinn, Estonia"

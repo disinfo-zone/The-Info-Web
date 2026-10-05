@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Morgan Guaranty Trust
+  - Morgan Guaranty
+  - Morgan Guaranty Trust Co.
+  - Morgan Guaranty Trust Company
+  - Morgan Guaranty Trust Company of New York
+  - Guaranty Trust Company
+  - Guaranty Trust Company of New York
+  - Guaranty Trust
 category: "Private Organization"
 tags:
   - Organization
@@ -10,15 +19,6 @@ tags:
   - PioneerFund
   - InterlockingDirectorates
   - TrustBanking
-alias:
-  - Morgan Guaranty Trust
-  - Morgan Guaranty
-  - Morgan Guaranty Trust Co.
-  - Morgan Guaranty Trust Company
-  - Morgan Guaranty Trust Company of New York
-  - Guaranty Trust Company
-  - Guaranty Trust Company of New York
-  - Guaranty Trust
 summary: "New York bank formed on April 24, 1959 by the merger of J.P. Morgan and Guaranty Trust, which carried Wickliffe Draper's anonymous gifts to Mississippi in 1963 and was succeeded by JPMorgan Chase Bank."
 start: 1959-04-24
 location: "New York, New York"

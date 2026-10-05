@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Drew Faust
+  - Drew Gilpin Faust
+  - Drew G. Faust
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - MartinNowak
   - ProgramForEvolutionaryDynamics
   - Historian
-alias:
-  - Drew Faust
-  - Drew Gilpin Faust
-  - Drew G. Faust
 summary: "Historian and president of Harvard from 2007 to 2018 who barred Jeffrey Epstein's gifts no later than November 2008 without recording the decision, while donors Epstein introduced gave 9.5 million dollars."
 location: "Cambridge, Massachusetts"
 created: 2026-09-25

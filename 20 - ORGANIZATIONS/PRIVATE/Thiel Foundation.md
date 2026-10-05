@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Thiel Foundation
+  - The Thiel Foundation
+  - Shire Philanthropic Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -14,10 +18,6 @@ tags:
   - DonorAdvisedFund
   - Bilderberg
   - Palantir
-alias:
-  - Thiel Foundation
-  - The Thiel Foundation
-  - Shire Philanthropic Foundation
 summary: "Peter Thiel's private foundation, named Shire Philanthropic Foundation on its 2008 return, which funded life-extension, artificial intelligence, seasteading and mimetic-theory groups, an institute at Palantir's address, and DonorsTrust."
 start: 2005-11-22
 location: "San Francisco, California (2005 to 2017); West Hollywood, California (2018 to 2022); Los Angeles, California (2023 to 2024)"

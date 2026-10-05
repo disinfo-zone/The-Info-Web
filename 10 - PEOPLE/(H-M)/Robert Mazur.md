@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Robert Musella
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - Undercover
   - MoneyLaundering
   - 1980s
-alias:
-  - Robert Musella
 summary: "United States Customs special agent who, as 'Robert Musella,' was the principal undercover operative of Operation C-Chase, the 1986-88 sting that led to BCCI's 1990 Tampa conviction."
 relations:
   - type: employed_by

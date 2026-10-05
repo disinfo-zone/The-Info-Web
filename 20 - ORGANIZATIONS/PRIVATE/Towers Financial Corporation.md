@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Towers Financial
+  - Towers Financial Corp.
+  - TFC
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - SEC
   - Fraud
   - Finance
-alias:
-  - Towers Financial
-  - Towers Financial Corp.
-  - TFC
 summary: "Manhattan debt-collection firm run by Steven Hoffenberg that collapsed in 1993 as a Ponzi scheme with 475 million dollars in investor losses, and that employed Jeffrey Epstein as a consultant."
 location: New York, New York
 created: 2026-06-20

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - the Valley
 category: "Region"
 tags:
   - Place
@@ -6,8 +8,6 @@ tags:
   - Technologists
   - PayPalMafia
   - VentureCapital
-alias:
-  - the Valley
 summary: "The technology district of the southern San Francisco Bay, in the vault the home ground of the PayPal Mafia, the Thiel network's courtship of the Pentagon and the presidency, and the money behind rationalism, longevity and accelerationism."
 location: "California"
 created: 2026-09-22

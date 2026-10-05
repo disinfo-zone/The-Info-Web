@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Edward White
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - PROMIS
   - INSLAW
   - USTrustee
-alias:
-  - Edward White
 summary: "United States Trustee for the District of Columbia on the INSLAW bankruptcy whom Anthony Pasciuto said Thomas Stanton pressured to convert the case to liquidation, a claim White denied and Bua found unsupported; distinct from the Criminal Division's Philip White."
 location: "Washington, D.C."
 created: 2026-09-22

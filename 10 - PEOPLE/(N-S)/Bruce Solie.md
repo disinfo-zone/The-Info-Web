@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bruce L. Solie
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - YuriNosenko
   - LeeHarveyOswald
   - HSCA
-alias:
-  - Bruce L. Solie
 summary: "CIA Office of Security counterintelligence officer who took over the confined defector Yuri Nosenko in 1967, found him genuine in 1968, and told the House assassinations committee he had never tested Nosenko's account of Oswald."
 location: "Langley, Virginia"
 created: 2026-09-21

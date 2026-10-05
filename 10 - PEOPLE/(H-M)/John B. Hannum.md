@@ -1,4 +1,6 @@
 ---
+aliases:
+  - John Berne Hannum
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - FederalJudiciary
   - ChesterCounty
   - RCHorsch
-alias:
-  - John Berne Hannum
 summary: "Chester County Republican and federal judge in the Eastern District of Pennsylvania from 1969 who ruled against the army deserter Raymond C. Hoersch Jr. in 1974."
 born: 1915-03-19
 died: 2007-04-23

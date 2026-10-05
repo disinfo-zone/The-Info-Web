@@ -1,4 +1,7 @@
 ---
+aliases:
+  - EA
+  - Longtermism
 category: "Ideology"
 tags:
   - Concept
@@ -8,9 +11,6 @@ tags:
   - ArtificialIntelligence
   - PeterThiel
   - SiliconValley
-alias:
-  - EA
-  - Longtermism
 summary: "Effective Altruism is a movement that emerged around 2011 from Oxford philosophy and the LessWrong rationalist community, advancing evidence-based giving and a 'longtermist' concern with the far future and artificial-intelligence risk, whose 2013 summit Peter Thiel keynoted and whose largest funder, Sam Bankman-Fried, collapsed in the 2022 FTX fraud."
 location: "Oxford, England; San Francisco Bay Area"
 created: 2026-06-19

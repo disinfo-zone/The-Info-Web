@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Harold Thomas Finney II
+  - Hal Finney
 category: "Technologists"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Bitcoin
   - Cryonics
   - Extropianism
-alias:
-  - Harold Thomas Finney II
-  - Hal Finney
 summary: "Hal Finney was a cryptographer who developed Pretty Good Privacy and reusable proof-of-work, received the first Bitcoin transaction from Satoshi Nakamoto, and was cryopreserved by Alcor after his death from ALS."
 born: 1956-05-04
 died: 2014-08-28

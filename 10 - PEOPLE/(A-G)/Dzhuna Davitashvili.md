@@ -1,14 +1,5 @@
 ---
-category: "Psychics & Remote Viewers"
-tags:
-  - Person
-  - Healer
-  - Biofield
-  - SovietUnion
-  - Psychoenergetics
-  - Gosplan
-  - Brezhnev
-alias:
+aliases:
   - Dzhuna Davitashvili
   - Dzhuna
   - Juna
@@ -21,6 +12,15 @@ alias:
   - Evgenia Yuvashevna Davitashvili
   - Eugenia Sardis
   - Comrade D
+category: "Psychics & Remote Viewers"
+tags:
+  - Person
+  - Healer
+  - Biofield
+  - SovietUnion
+  - Psychoenergetics
+  - Gosplan
+  - Brezhnev
 summary: "Healer brought from Tbilisi to Moscow in 1980 by the Gosplan chairman, enrolled in 1982 as a senior researcher at the Institute of Radio Engineering and Electronics, and principal subject of its laboratory."
 born: 1949
 died: 2015

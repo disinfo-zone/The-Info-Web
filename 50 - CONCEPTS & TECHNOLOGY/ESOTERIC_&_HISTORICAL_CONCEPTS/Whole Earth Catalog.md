@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Whole Earth Catalog
+  - The Last Whole Earth Catalog
 category: "Esoteric & Historical Concept"
 tags:
   - Publication
@@ -8,9 +11,6 @@ tags:
   - AccessToTools
   - BackToTheLand
   - Cybernetics
-alias:
-  - Whole Earth Catalog
-  - The Last Whole Earth Catalog
 summary: "The Whole Earth Catalog was Stewart Brand's counterculture compendium of tools and ideas, published from 1968, subtitled Access to Tools, opened with we are as gods, and won the National Book Award in 1972."
 location: "Menlo Park and Sausalito, California"
 created: 2026-06-20

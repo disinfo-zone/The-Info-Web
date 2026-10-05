@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Marcos Orlando Letelier del Solar
 category: "Victims & Witnesses"
 tags:
   - KeyFigure
@@ -10,8 +12,6 @@ tags:
   - Assassination
   - CIA
   - GeorgeHWBush
-alias:
-  - Marcos Orlando Letelier del Solar
 summary: "Former Chilean foreign minister killed with his colleague Ronni Moffitt by a car bomb in Washington on September 21, 1976, on orders the CIA later concluded came personally from Augusto Pinochet."
 died: 1976-09-21
 location: "Washington, D.C."

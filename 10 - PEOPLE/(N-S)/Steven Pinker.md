@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Steven Pinker
+  - Steven Arthur Pinker
+  - Pinker
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - EdgeFoundation
   - AlanDershowitz
   - NonProsecutionAgreement
-alias:
-  - Steven Pinker
-  - Steven Arthur Pinker
-  - Pinker
 summary: "Steven Pinker is a Harvard psychologist and linguist whose 2007 reading of the federal enticement statute was cited by Jeffrey Epstein's lawyers to federal prosecutors; he says he acted unpaid and now regrets it."
 born: 1954
 location: "Cambridge, Massachusetts"

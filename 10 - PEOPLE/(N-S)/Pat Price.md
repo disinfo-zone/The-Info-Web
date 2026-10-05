@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Pat Price
+  - Patrick Price
+  - Patrick H. Price
+  - Patrick Harold Price
+  - Mr. Price
+  - S1
 category: "Psychics & Remote Viewers"
 tags:
   - Person
@@ -12,13 +19,6 @@ tags:
   - Scientology
   - PSI
   - 1970s
-alias:
-  - Pat Price
-  - Patrick Price
-  - Patrick H. Price
-  - Patrick Harold Price
-  - Mr. Price
-  - S1
 summary: "Former Burbank councilman and police commissioner who served as SRI subject S1 from 1973, whose East Coast and Urals readings the sponsor called substantially correct, and who died in Las Vegas on July 14, 1975."
 born: 1918-12-08
 died: 1975-07-14

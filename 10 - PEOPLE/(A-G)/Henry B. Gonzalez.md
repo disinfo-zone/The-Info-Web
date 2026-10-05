@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Henry Gonzalez
+  - Henry B. González
+  - Henry Barbosa Gonzalez
 category: "Political Figure"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - Iraqgate
   - HSCA
   - CongressionalOversight
-alias:
-  - Henry Gonzalez
-  - Henry B. González
-  - Henry Barbosa Gonzalez
 summary: "House Banking Committee chairman who read classified documents on American aid to Iraq into the Congressional Record in 1992 after the Justice Department asked him to stop his inquiry on national security grounds."
 born: 1916-05-03
 died: 2000-11-28

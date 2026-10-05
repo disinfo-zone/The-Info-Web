@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Jackson T. Stephens
+  - Jack Stephens
 category: "Business & Finance"
 tags:
   - Person
@@ -10,9 +13,6 @@ tags:
   - LippoGroup
   - Arkansas
   - CampaignFinance
-alias:
-  - Jackson T. Stephens
-  - Jack Stephens
 summary: "Little Rock investment banker whose firm held the nominee account through which BCCI's clients bought into Financial General Bankshares in 1977, and whose Worthen Bank, owned with the Riady family, financed Bill Clinton's 1992 campaign."
 born: 1923
 died: 2005

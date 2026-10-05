@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Charles A. Docter
+  - Charles Deeter
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - PROMIS
   - INSLAW
   - Bankruptcy
-alias:
-  - Charles A. Docter
-  - Charles Deeter
 summary: "INSLAW's bankruptcy counsel who told the House Judiciary Committee that in July 1987 the former bankruptcy judge Roger Whelan threatened to organize opposition to Judge Bason's reappointment over an unpaid fee petition."
 location: "Washington, D.C."
 created: 2026-09-22

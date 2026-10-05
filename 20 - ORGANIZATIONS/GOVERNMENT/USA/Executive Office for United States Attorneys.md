@@ -1,4 +1,7 @@
 ---
+aliases:
+  - EOUSA
+  - Executive Office for U.S. Attorneys
 category: "U.S. Government"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - DOJ
   - PROMIS
   - INSLAW
-alias:
-  - EOUSA
-  - Executive Office for U.S. Attorneys
 summary: "Justice Department office supervising the U.S. Attorneys, which signed INSLAW's 1982 PROMIS contract and whose staff, Brewer, Videnieks and Rugh, ran the dispute Judge Bason found to be a scheme to take the software."
 start: 1953
 location: "Washington, D.C."

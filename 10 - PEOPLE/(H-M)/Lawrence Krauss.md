@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Lawrence Krauss
+  - Lawrence M. Krauss
+  - Krauss
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - Physics
   - SciencePhilanthropy
   - SexualHarassment
-alias:
-  - Lawrence Krauss
-  - Lawrence M. Krauss
-  - Krauss
 summary: "Lawrence Krauss is a theoretical physicist who organized Jeffrey Epstein's 2006 Virgin Islands gravity conference, ran an Arizona State institute funded by Epstein and Leon Black, and retired after a 2018 harassment investigation."
 born: 1954
 location: "Tempe, Arizona"

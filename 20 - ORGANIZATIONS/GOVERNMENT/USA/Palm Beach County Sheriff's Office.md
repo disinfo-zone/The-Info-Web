@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Palm Beach County Sheriff's Office
+  - Palm Beach County Sheriff's Office (PBSO)
+  - Palm Beach Sheriff's Office
+  - Palm Beach County Sheriff
+  - PBSO
 category: "U.S. Government"
 tags:
   - Organization
@@ -7,12 +13,6 @@ tags:
   - JeffreyEpstein
   - WorkRelease
   - FloridaScienceFoundation
-alias:
-  - Palm Beach County Sheriff's Office
-  - Palm Beach County Sheriff's Office (PBSO)
-  - Palm Beach Sheriff's Office
-  - Palm Beach County Sheriff
-  - PBSO
 summary: "Largest law enforcement agency in Palm Beach County, whose jail placed Jeffrey Epstein on work release in 2008 and whose off-duty deputies were paid through his Florida Science Foundation to guard him."
 location: "West Palm Beach, Florida"
 relations:

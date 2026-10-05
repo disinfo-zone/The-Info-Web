@@ -1,4 +1,11 @@
 ---
+aliases:
+  - GWU Program on Extremism
+  - Program on Extremism
+  - George Washington University Program on Extremism
+  - GW Program on Extremism
+  - PoE
+  - Program for Extremism at The George Washington University
 category: "Private Organization"
 tags:
   - Organization
@@ -10,13 +17,6 @@ tags:
   - MuslimBrotherhood
   - AlpServices
   - CourtRecords
-alias:
-  - GWU Program on Extremism
-  - Program on Extremism
-  - George Washington University Program on Extremism
-  - GW Program on Extremism
-  - PoE
-  - Program for Extremism at The George Washington University
 summary: "George Washington University research program founded in June 2015 inside a homeland security center with a board of former officials, led by Lorenzo Vidino, who consulted for the Swiss firm Alp Services in 2018."
 start: 2015-06
 location: "Washington, D.C."

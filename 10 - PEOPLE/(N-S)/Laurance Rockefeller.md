@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Laurance Rockefeller
+  - Laurance S. Rockefeller
+  - Laurance Spelman Rockefeller
+  - Laurence Rockefeller
+  - Laurence S. Rockefeller
+  - Laurence Spelman Rockefeller
+  - LSR
 category: "Business & Finance"
 tags:
   - Person
@@ -12,14 +20,6 @@ tags:
   - UFO
   - ConsciousnessResearch
   - ClintonWhiteHouse
-alias:
-  - Laurance Rockefeller
-  - Laurance S. Rockefeller
-  - Laurance Spelman Rockefeller
-  - Laurence Rockefeller
-  - Laurence S. Rockefeller
-  - Laurence Spelman Rockefeller
-  - LSR
 summary: "Son of John D. Rockefeller Jr., chief stockholder of Eastern Air Lines, venture investor, conservation commissioner, and from 1993 to 1996 petitioner to the Clinton White House on UFO declassification."
 born: 1910-05-26
 died: 2004-07-11

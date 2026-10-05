@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Lyman Kirkpatrick
+  - Lyman B. Kirkpatrick
+  - Lyman B. Kirkpatrick Jr.
+  - Lyman B. Kirkpatrick, Jr.
+  - Lyman Bickford Kirkpatrick Jr.
 category: "Intelligence & Government"
 tags:
   - Person
@@ -10,12 +16,6 @@ tags:
   - OSS
   - ColdWar
   - BrownUniversity
-alias:
-  - Lyman Kirkpatrick
-  - Lyman B. Kirkpatrick
-  - Lyman B. Kirkpatrick Jr.
-  - Lyman B. Kirkpatrick, Jr.
-  - Lyman Bickford Kirkpatrick Jr.
 summary: "CIA inspector general from 1953 to 1961 who investigated the Frank Olson death, wrote the restricted 1961 survey of the Bay of Pigs operation, then served as executive director before teaching at Brown."
 born: 1916
 died: 1995-03-03

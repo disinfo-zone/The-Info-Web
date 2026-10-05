@@ -1,4 +1,6 @@
 ---
+aliases:
+  - APG
 category: "Military Installation"
 tags:
   - Place
@@ -8,8 +10,6 @@ tags:
   - ChemicalWarfare
   - GrillFlame
   - ENIAC
-alias:
-  - APG
 summary: "The Army's oldest proving ground, on the Chesapeake Bay in Maryland since 1917, which absorbed Edgewood Arsenal in 1971 and housed the Army Materiel Systems Analysis Activity's Grill Flame trials."
 start: 1917-10-20
 location: "Maryland"

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Committee for the Scientific Investigation of Claims of the Paranormal
+  - CSICOP
+  - CSICOP, Inc.
+  - Committee for Skeptical Inquiry
+  - CSI
+  - The Zetetic
 category: "Skeptics & Critics"
 tags:
   - Organization
@@ -12,13 +19,6 @@ tags:
   - MarsEffect
   - JamesRandi
   - RayHyman
-alias:
-  - Committee for the Scientific Investigation of Claims of the Paranormal
-  - CSICOP
-  - CSICOP, Inc.
-  - Committee for Skeptical Inquiry
-  - CSI
-  - The Zetetic
 summary: "Skeptics' organization founded in 1976 by Paul Kurtz at an American Humanist Association conference in Buffalo, publisher of the Skeptical Inquirer, later renamed the Committee for Skeptical Inquiry, now a Center for Inquiry program."
 start: 1976-05-01
 location: "Amherst, New York"

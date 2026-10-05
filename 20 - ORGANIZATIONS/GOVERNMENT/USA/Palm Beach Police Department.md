@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Palm Beach Police Department
+  - Palm Beach Police
+  - PBPD
+  - Town of Palm Beach Police Department
 category: "U.S. Government"
 tags:
   - Organization
@@ -6,11 +11,6 @@ tags:
   - PalmBeach
   - JeffreyEpstein
   - Police
-alias:
-  - Palm Beach Police Department
-  - Palm Beach Police
-  - PBPD
-  - Town of Palm Beach Police Department
 summary: "Police force of the Town of Palm Beach, formed in 1922, whose 2005 to 2006 investigation of Jeffrey Epstein was referred to the FBI after the State Attorney declined its recommended felony charges."
 start: 1922-10-17
 location: "Palm Beach, Florida"

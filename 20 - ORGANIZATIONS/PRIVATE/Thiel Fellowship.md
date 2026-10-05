@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Thiel Fellowship
+  - Thiel Fellows
+  - 20 Under 20
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - PeterThiel
   - Recruitment
   - Education
-alias:
-  - Thiel Fellowship
-  - Thiel Fellows
-  - 20 Under 20
 summary: "The Thiel Fellowship is a program of the Thiel Foundation, founded in 2010 by Peter Thiel, that awards 250,000 dollars over two years to people aged 22 or younger on the condition that they skip or stop out of college to pursue a venture, and whose alumni include Vitalik Buterin and other founders who entered the Thiel commercial network through the program."
 location: "San Francisco, California (Thiel Foundation)"
 created: 2026-06-17

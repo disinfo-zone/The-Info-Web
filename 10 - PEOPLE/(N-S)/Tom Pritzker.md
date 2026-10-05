@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thomas J. Pritzker
+  - Thomas Pritzker
 category: "Business & Finance"
 tags:
   - AbuseNetworks
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - SecretSociety
   - Billionaire
-alias:
-  - Thomas J. Pritzker
-  - Thomas Pritzker
 summary: "Thomas J. Pritzker is the Hyatt heir whom Jeffrey Epstein's calendar scheduled for 28 meetings from 2013 to 2018, and who retired as Hyatt's executive chairman in February 2026."
 born: 1950-06-06
 location: "Chicago, Illinois (family base)"

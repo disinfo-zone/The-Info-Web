@@ -1,4 +1,12 @@
 ---
+aliases:
+  - The Guardian
+  - Guardian
+  - Manchester Guardian
+  - The Manchester Guardian
+  - Guardian News & Media
+  - Guardian News and Media
+  - Guardian Media Group
 category: "Private Organization"
 tags:
   - Organization
@@ -10,14 +18,6 @@ tags:
   - GCHQ
   - WikiLeaks
   - LegaciesOfEnslavement
-alias:
-  - The Guardian
-  - Guardian
-  - Manchester Guardian
-  - The Manchester Guardian
-  - Guardian News & Media
-  - Guardian News and Media
-  - Guardian Media Group
 summary: "British newspaper founded as the Manchester Guardian in 1821 and owned through the Scott Trust, whose Snowden hard drives were destroyed under GCHQ supervision in 2013 before its deputy editor joined the D-notice committee."
 start: 1821
 location: "London"

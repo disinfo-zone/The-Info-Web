@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Carbyne
+  - Reporty Homeland Security
 category: "Private Organization"
 tags:
   - Organization
@@ -10,9 +13,6 @@ tags:
   - Israel
   - FoundersFund
   - EmergencyTech
-alias:
-  - Carbyne
-  - Reporty Homeland Security
 summary: "Carbyne, founded as Reporty, is an Israeli emergency-call and surveillance technology company in which Jeffrey Epstein invested through Ehud Barak in 2015, and which Axon Enterprise bought for 625 million dollars."
 location: "Tel Aviv, Israel; New York, New York"
 created: 2026-06-18

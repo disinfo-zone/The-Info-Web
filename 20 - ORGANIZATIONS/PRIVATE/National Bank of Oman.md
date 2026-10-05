@@ -1,4 +1,7 @@
 ---
+aliases:
+  - NBO
+  - National Bank of Oman SAOG
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - BCCI
   - ParallelBank
   - Afghanistan
-alias:
-  - NBO
-  - National Bank of Oman SAOG
 summary: "Oman's first incorporated bank, founded in 1973, in which BCCI bought Bank of America's stake in 1987 and which the Senate listed among BCCI's parallel banks."
 start: 1973
 location: "Muscat, Oman"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Satoshi
+  - Satoshi Nakamoto
 category: "Scientific Theory & Technology"
 tags:
   - Concept
@@ -8,9 +11,6 @@ tags:
   - Cypherpunks
   - Cryptocurrency
   - Pseudonym
-alias:
-  - Satoshi
-  - Satoshi Nakamoto
 summary: "Satoshi Nakamoto is the pseudonymous author of the 2008 Bitcoin white paper and the developer who launched the network in January 2009, mined roughly 1.1 million bitcoin that have never moved, and stopped public communication in 2011."
 location: "Unknown"
 created: 2026-06-20

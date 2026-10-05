@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Royce C. Lamberth
+  - Judge Lamberth
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - FISACourt
   - DOJ
   - Judiciary
-alias:
-  - Royce C. Lamberth
-  - Judge Lamberth
 summary: "Chief of the civil division of the U.S. Attorney's office in Washington who, weeks before taking the federal bench in 1987, delivered Judge Bason's INSLAW ruling to the judge chairing the panel on Bason's reappointment; later presiding judge of the FISA court."
 born: 1943
 location: "San Antonio, Texas"

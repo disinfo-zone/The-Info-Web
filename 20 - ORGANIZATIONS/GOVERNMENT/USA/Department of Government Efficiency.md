@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Department of Government Efficiency
+  - Department of Government Efficiency (DOGE)
+  - DOGE
+  - U.S. DOGE Service
+  - United States DOGE Service
+  - USDS
+  - U.S. DOGE Service Temporary Organization
 category: "U.S. Government"
 tags:
   - Organization
@@ -11,14 +19,6 @@ tags:
   - SpecialGovernmentEmployee
   - DataAccess
   - Litigation
-alias:
-  - Department of Government Efficiency
-  - Department of Government Efficiency (DOGE)
-  - DOGE
-  - U.S. DOGE Service
-  - United States DOGE Service
-  - USDS
-  - U.S. DOGE Service Temporary Organization
 summary: "Executive Office of the President unit created by Executive Order 14158 on January 20, 2025 from the United States Digital Service, led publicly by Elon Musk, with a temporary organization ending July 4, 2026."
 start: 2025-01-20
 end: 2026-07-04

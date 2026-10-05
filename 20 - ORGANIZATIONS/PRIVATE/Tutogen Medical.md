@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tutogen Medical, Inc.
+  - Tutogen Medical Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - BiomedicalTissueServices
   - TissueBank
   - NewJersey
-alias:
-  - Tutogen Medical, Inc.
-  - Tutogen Medical Inc.
 summary: "New Jersey tissue processor that bought tissue from Biomedical Tissue Services, including bones taken from Alistair Cooke, and merged into RTI Biologics in 2008."
 location: "Paterson, New Jersey"
 created: 2026-09-23

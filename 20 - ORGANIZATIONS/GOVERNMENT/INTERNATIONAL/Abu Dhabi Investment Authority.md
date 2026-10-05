@@ -1,7 +1,7 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - ADIA
+category: "Intelligence & Government"
 tags:
   - Organization
   - AbuDhabi

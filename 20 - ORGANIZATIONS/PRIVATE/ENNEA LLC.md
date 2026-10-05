@@ -1,4 +1,10 @@
 ---
+aliases:
+  - ENNEA LLC
+  - ENNEA
+  - Ennea
+  - Explorer's Club by Ennea
+  - The Explorer's Club by Ennea
 category: "UFO & Anomalous Phenomena"
 tags:
   - Organization
@@ -6,12 +12,6 @@ tags:
   - UAP
   - SkyWatcher
   - Trademark
-alias:
-  - ENNEA LLC
-  - ENNEA
-  - Ennea
-  - Explorer's Club by Ennea
-  - The Explorer's Club by Ennea
 summary: "Delaware LLC (file 2861775, certificate date of formation January 1, 2024) that owns the SKYWATCHER, ENNEA and PSIONIC trademark applications and is registered in Florida under Alex Klokus."
 location: "Miami, Florida"
 created: 2026-10-03

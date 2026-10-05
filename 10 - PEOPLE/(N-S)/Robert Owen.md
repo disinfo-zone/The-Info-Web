@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rob Owen
 category: "Intelligence & Government"
 tags:
   - Person
@@ -11,8 +13,6 @@ tags:
   - u.s.-government
   - contra-war
 summary: Oliver North's courier in Central America whose phone number was found aboard a drug-seized Contra supply plane.
-alias:
-  - Rob Owen
 ---
 
 Robert Owen was [[Oliver North]]'s courier in [[Central America]] during the Contra war, serving as a key link in North's illegal resupply operation.[^1]

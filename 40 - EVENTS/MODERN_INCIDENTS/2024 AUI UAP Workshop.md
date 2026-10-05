@@ -1,13 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
-tags:
-  - Event
-  - UAP
-  - Workshop
-  - NSF
-  - AARO
-  - AcademicStudy
-alias:
+aliases:
   - 2024 AUI UAP Workshop
   - 2024 UAP Workshop
   - UAP Workshop 2024
@@ -17,6 +9,14 @@ alias:
   - Narrative Data, Infrastructures, and Analysis
   - NSF Award 2301922
   - ASTRO ACCEL
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Event
+  - UAP
+  - Workshop
+  - NSF
+  - AARO
+  - AcademicStudy
 summary: "Two invitation-only UAP workshops at Associated Universities, Inc. in Vienna, Virginia: May 15-17, 2024, paid by a $25,000 National Science Foundation supplement, and August 5-6, 2025, sponsored by the All-domain Anomaly Resolution Office."
 start: 2024-05-15
 end: 2025-08-06

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Maxwell Taylor
+  - Maxwell D. Taylor
+  - Maxwell Davenport Taylor
+  - General Maxwell Taylor
+  - General Maxwell D. Taylor
+  - General Taylor
 category: "Military"
 tags:
   - Person
@@ -13,13 +20,6 @@ tags:
   - PFIAB
   - DiemCoup
   - Brazil1964
-alias:
-  - Maxwell Taylor
-  - Maxwell D. Taylor
-  - Maxwell Davenport Taylor
-  - General Maxwell Taylor
-  - General Maxwell D. Taylor
-  - General Taylor
 summary: "Army general who chaired the 1961 Bay of Pigs inquiry and the Special Group (Augmented), sat on the President's Foreign Intelligence Advisory Board, chaired the Joint Chiefs and was ambassador in Saigon."
 born: 1901-08-26
 died: 1987-04-19

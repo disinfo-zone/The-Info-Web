@@ -1,4 +1,7 @@
 ---
+aliases:
+  - W. Lee Rawls
+  - William Lee Rawls
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - INSLAW
   - Senate
   - FBI
-alias:
-  - W. Lee Rawls
-  - William Lee Rawls
 summary: "Justice Department legislative affairs chief under Thornburgh who advised him on the House Banking Committee's BNL inquiry and corresponded with the House Judiciary Committee during its INSLAW investigation."
 died: 2010-12
 location: "Washington, D.C."

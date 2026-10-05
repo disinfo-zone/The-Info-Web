@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Richard Lynn
 category: "Scientists & Researchers"
 tags:
   - NewRight
@@ -8,8 +10,6 @@ tags:
   - PioneerFund
   - HumanBiodiversity
   - Psychology
-alias:
-  - Richard Lynn
 summary: "Richard Lynn was a British psychologist who promoted hereditarian claims about racial and national differences in intelligence and 'dysgenics,' ran the Pioneer Fund and the Ulster Institute for Social Research, and whose national-IQ data was repudiated as fundamentally flawed."
 born: 1930-02-20
 died: 2023-07-23

@@ -1,9 +1,9 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - Kerry subcommittee
   - Subcommittee on Terrorism, Narcotics and International Operations
   - Senate Subcommittee on Terrorism, Narcotics and International Operations
+category: "Intelligence & Government"
 tags:
   - Organization
   - Government

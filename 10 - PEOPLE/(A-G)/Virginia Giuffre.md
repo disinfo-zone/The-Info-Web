@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Virginia Roberts
+  - Virginia Roberts Giuffre
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -9,9 +12,6 @@ tags:
   - PrinceAndrew
   - SexTrafficking
   - MaraLago
-alias:
-  - Virginia Roberts
-  - Virginia Roberts Giuffre
 summary: "Sex-trafficking survivor recruited at Mar-a-Lago around 2000, whose 2009 Epstein settlement was tied to the federal non-prosecution agreement and who litigated against Maxwell and Prince Andrew before her 2025 death in Western Australia."
 born: 1983-08-09
 died: 2025-04-25

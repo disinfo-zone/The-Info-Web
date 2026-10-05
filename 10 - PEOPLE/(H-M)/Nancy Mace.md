@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rep. Nancy Mace
+  - Representative Nancy Mace
 category: "Political Figure"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - EpsteinFiles
   - DischargePetition
-alias:
-  - Rep. Nancy Mace
-  - Representative Nancy Mace
 summary: "South Carolina Republican congresswoman on the Oversight and Armed Services committees who voted in 2025 to subpoena the Justice Department's Epstein files, signed the discharge petition, and moved the 2026 Bondi subpoena."
 born: 1977-12-04
 location: "South Carolina"

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - RI Tech
+  - RITech
+  - Radiance Ignite Technologies, LLC
+  - Radiance Ignite Technologies LLC
+  - Radiance Ignite
 category: "Organizations"
 tags:
   - Organization
@@ -6,12 +12,6 @@ tags:
   - JointVenture
   - ServiceDisabledVeteranOwned
   - HuntsvilleAlabama
-alias:
-  - RI Tech
-  - RITech
-  - Radiance Ignite Technologies, LLC
-  - Radiance Ignite Technologies LLC
-  - Radiance Ignite
 summary: "Huntsville, Alabama joint venture of Radiance Technologies and Ignite Fueling Innovation: formation July 10, 2024 on the Alabama record, announcement October 14, 2024, described as an SBA approved SDVOSB mentor protege joint venture."
 location: "Huntsville, Alabama"
 relations:
@@ -32,7 +32,6 @@ relations:
     start: 2026-07-21
     role: "team on the Contract Operations for Missile Evaluation and Testing multi-award task order contract, per the Radiance release of September 9, 2026"
     fn: 7
-
 created: 2026-10-03
 updated: 2026-10-04
 ---

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - In the Year of the Pig (1968 film)
 category: "Media & Entertainment"
 tags:
   - Film
@@ -7,8 +9,6 @@ tags:
   - Philadelphia
   - Censorship
   - RCHorsch
-alias:
-  - In the Year of the Pig (1968 film)
 summary: "Emile de Antonio's 1968 Vietnam War documentary, nominated for an Academy Award, whose Philadelphia run moved to the Bandbox Theater after city inspectors closed R.C. Horsch's Cinema 16 in 1969."
 date: 1968
 location: "Philadelphia, Pennsylvania"

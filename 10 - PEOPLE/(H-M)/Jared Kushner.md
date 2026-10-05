@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Jared Corey Kushner
 category: "Political Figure"
 tags:
   - Person
@@ -10,8 +12,6 @@ tags:
   - AbrahamAccords
   - NSOGroup
   - Khashoggi
-alias:
-  - Jared Corey Kushner
 summary: "Jared Kushner is an American investor and former senior advisor to President Donald Trump who shaped Middle East policy through the Abraham Accords and U.S.-Saudi arms sales, maintained a WhatsApp channel with Crown Prince Mohammed bin Salman that the CIA assessed as compromised, and received a $2 billion investment from the Saudi sovereign wealth fund for his private equity firm months after leaving government despite the fund's own due-diligence panel rejecting the deal."
 born: 1981-01-10
 location: "Livingston, New Jersey (born)"

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Benjamin Sasse
+  - Benjamin Eric Sasse
+  - Senator Ben Sasse
 category: "Political Figure"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - OfficeOfProfessionalResponsibility
   - InQTel
-alias:
-  - Benjamin Sasse
-  - Benjamin Eric Sasse
-  - Senator Ben Sasse
 summary: "Nebraska Republican senator from 2015 to 2023 whose 2018 letters prompted the Justice Department's internal review of the Epstein non-prosecution agreement, later a paid trustee of the CIA-founded In-Q-Tel."
 born: 1972-02-22
 location: "Nebraska"

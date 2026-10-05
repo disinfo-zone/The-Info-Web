@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Carol Thomas Jacobs
+  - Carol Jacobs
+  - Carol Thomas-Jacobs, Esq.
+  - Judge Carol Thomas-Jacobs
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,11 +14,6 @@ tags:
   - SexOffenderRegistration
   - LeonBlack
   - Judiciary
-alias:
-  - Carol Thomas Jacobs
-  - Carol Jacobs
-  - Carol Thomas-Jacobs, Esq.
-  - Judge Carol Thomas-Jacobs
 summary: "Antigua-born Virgin Islands prosecutor who as acting attorney general revoked Jeffrey Epstein's 24-hour travel notice in 2019, signed the 62.5 million dollar Leon Black settlement in 2023, then became a Superior Court judge."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

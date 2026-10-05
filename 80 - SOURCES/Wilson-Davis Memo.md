@@ -1,11 +1,11 @@
 ---
-tags:
-  - Source
-date: 2002
-alias:
+aliases:
   - Wilson-Davis Memo
   - Wilson/Davis document
   - EWD Notes 10/16/02
+tags:
+  - Source
+date: 2002
 relations:
   - type: subject_of
     with: "[[Thomas R. Wilson]]"

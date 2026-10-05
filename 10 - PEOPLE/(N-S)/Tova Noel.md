@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tova Noel
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - CorrectionalOfficer
   - SuspiciousActivityReport
   - DeferredProsecution
-alias:
-  - Tova Noel
 summary: "Tova Noel is the former Bureau of Prisons officer on duty in Jeffrey Epstein's housing unit the night he died, charged with falsifying records, whose cash deposits a bank had flagged."
 location: "The Bronx, New York"
 relations:

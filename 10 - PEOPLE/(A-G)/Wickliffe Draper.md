@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Wickliffe Preston Draper
+  - Colonel Draper
 category: "Philanthropists & Benefactors"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - MississippiSovereigntyCommission
   - MorganGuaranty
   - DarkMoney
-alias:
-  - Wickliffe Preston Draper
-  - Colonel Draper
 summary: "Massachusetts textile heir who founded the Pioneer Fund in 1937 and secretly sent nearly 215,000 dollars through Morgan Guaranty to the Mississippi State Sovereignty Commission to fight the Civil Rights Act of 1964."
 born: 1891-08-09
 died: 1972-03-11

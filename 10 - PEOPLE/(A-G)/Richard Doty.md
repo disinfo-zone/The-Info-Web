@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Richard Doty
+  - Richard C. Doty
+  - Richard Charles Doty
+  - Rick Doty
+  - Sgt. Richard Doty
+  - Doty
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -9,13 +16,6 @@ tags:
   - KirtlandAFB
   - MJ12
   - NewMexicoStatePolice
-alias:
-  - Richard Doty
-  - Richard C. Doty
-  - Richard Charles Doty
-  - Rick Doty
-  - Sgt. Richard Doty
-  - Doty
 summary: "Air Force Office of Special Investigations agent at Kirtland AFB from 1979 who interviewed Paul Bennewitz in 1980 and in 2005 said he had run disinformation operations against UFO researchers on orders."
 location: "Albuquerque, New Mexico"
 relations:

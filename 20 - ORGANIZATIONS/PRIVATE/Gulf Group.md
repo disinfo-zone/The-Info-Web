@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Gulf Shipping Group
+  - Gulf International Holdings
+  - Gulf shipping group
 category: "BCCI Scandal"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - Fraud
   - Pakistan
   - Geneva
-alias:
-  - Gulf Shipping Group
-  - Gulf International Holdings
-  - Gulf shipping group
 summary: "Shipping and trading group of the Gokal brothers, based in Geneva and London, which became BCCI's largest borrower; its chairman, Abbas Gokal, was convicted of fraud in London in 1997."
 location: "Geneva, Switzerland"
 relations:

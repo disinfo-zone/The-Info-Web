@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Kevin J. Bethel
 category: "Law Enforcement & Legal"
 tags:
   - Person
   - Police
   - Philadelphia
   - OlneyHouseInvestigation
-alias:
-  - Kevin J. Bethel
 summary: "Philadelphia police commissioner from January 2024, a 1986 recruit and former school-district safety chief, who led the September 2026 briefing on the Olney House Investigation."
 location: "Philadelphia, Pennsylvania"
 relations:

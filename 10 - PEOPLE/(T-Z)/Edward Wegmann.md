@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Edward F. Wegmann
+  - William Wegmann
+  - William J. Wegmann
 category: "Law Enforcement & Legal"
 tags:
   - JFKAssassination
@@ -9,10 +13,6 @@ tags:
   - NewOrleans
   - Wackenhut
   - SouthernResearchCompany
-alias:
-  - Edward F. Wegmann
-  - William Wegmann
-  - William J. Wegmann
 summary: "New Orleans lawyer who with his brother William defended Clay Shaw against Jim Garrison, engaged Wackenhut and other firms of former federal agents, and sought guidance from the Justice Department on the CIA."
 location: "New Orleans, Louisiana"
 created: 2026-09-21

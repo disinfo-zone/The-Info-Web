@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Capcom Financial Services
+  - Capital Commodity Dealers
+  - Capcom Futures
 tags:
   - Organization
   - Financial
@@ -7,10 +11,6 @@ tags:
   - MoneyLaundering
   - Noriega
 category: "Private Organization"
-alias:
-  - Capcom Financial Services
-  - Capital Commodity Dealers
-  - Capcom Futures
 summary: "London and Chicago commodities futures firm of 1984 to 1988, created by BCCI's treasury chief Ziauddin Akbar and owned by BCCI's Saudi shareholders, through which BCCI took trading losses and laundered money, including Noriega's."
 start: 1984-04-26
 end: 1988

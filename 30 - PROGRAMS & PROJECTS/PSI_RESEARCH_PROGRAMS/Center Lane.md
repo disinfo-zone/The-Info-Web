@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Project Center Lane
+  - INSCOM Center Lane Project
+  - ICLP
 category: "Psi Research Program"
 tags:
   - Program
@@ -8,10 +12,6 @@ tags:
   - AlbertStubblebine
   - FortMeade
   - SpecialAccessProgram
-alias:
-  - Project Center Lane
-  - INSCOM Center Lane Project
-  - ICLP
 summary: "INSCOM's remote-viewing unit from October 1982 to March 1985, kept alive with security funds after Congress cut Grill Flame, run as a special access program under Stubblebine, and handed to the DIA as Sun Streak."
 start: 1982-12-03
 end: 1985-03-07

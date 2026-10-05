@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Luke Nosek
+  - Luke P. Nosek
 category: "Technologists"
 tags:
   - Person
@@ -11,9 +14,6 @@ tags:
   - PeterThiel
   - SecuritiesFilings
   - CampaignFinance
-alias:
-  - Luke Nosek
-  - Luke P. Nosek
 summary: "PayPal co-founder, Founders Fund co-founder and Gigafund managing partner, a SpaceX director since July 2008 whose 2026 prospectus lists 32,987,360 shares, 2,381,000 pledged against personal debt."
 location: "Austin, Texas"
 relations:

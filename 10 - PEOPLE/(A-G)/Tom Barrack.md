@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Tom Barrack
+  - Thomas Barrack
+  - Thomas Joseph Barrack
+  - TOM Barrack
 category: "Business & Finance"
 tags:
   - Person
@@ -9,11 +14,6 @@ tags:
   - ForeignAgent
   - JeffreyEpstein
   - Turkey
-alias:
-  - Tom Barrack
-  - Thomas Barrack
-  - Thomas Joseph Barrack
-  - TOM Barrack
 summary: "Colony Capital founder and chairman of Trump's 2017 inaugural committee, acquitted in 2022 of acting as a UAE agent, in regular contact with Jeffrey Epstein from 2009, and ambassador to Turkey from 2025."
 location: "Santa Monica, California"
 created: 2026-09-25

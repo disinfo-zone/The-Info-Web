@@ -1,4 +1,11 @@
 ---
+aliases:
+  - JEGE
+  - JEGE Inc.
+  - JEGE Inc
+  - JEGE, INC.
+  - JEGE, LLC
+  - JEGE LLC
 category: "Private Organization"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - LolitaExpress
   - VirginIslands
   - Delaware
-alias:
-  - JEGE
-  - JEGE Inc.
-  - JEGE Inc
-  - JEGE, INC.
-  - JEGE, LLC
-  - JEGE LLC
 summary: "Jeffrey Epstein's Delaware corporation that owned his Boeing 727, N908JE, from 2001 to 2019, with a namesake St. Thomas LLC formed in 2012 that held a Gulfstream IV and passed to new owners in 2019."
 start: 2001-01-19
 location: "New York, New York; West Palm Beach, Florida; St. Thomas, U.S. Virgin Islands"

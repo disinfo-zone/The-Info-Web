@@ -1,4 +1,7 @@
 ---
+aliases:
+  - System Resistance Network
+  - SRN
 category: "Extremism & Violent Networks"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - Proscribed
   - TerrorismAct2000
   - SiegeCulture
-alias:
-  - System Resistance Network
-  - SRN
 summary: "System Resistance Network was a neo-Nazi group founded in 2017 by Andrew Dymock after National Action's proscription, named in law as another name for National Action by a Home Office order in February 2020."
 start: 2017
 location: "United Kingdom"

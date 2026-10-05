@@ -1,16 +1,16 @@
 ---
+aliases:
+  - AJ Scaramucci
+  - Alexander Joseph Scaramucci
+  - Alex Scaramucci
+  - Alexander J. Scaramucci
+  - Scaramucci, Alexander
 category: "Business & Finance"
 tags:
   - Person
   - VentureCapital
   - Cryptocurrency
   - Longevity
-alias:
-  - AJ Scaramucci
-  - Alexander Joseph Scaramucci
-  - Alex Scaramucci
-  - Alexander J. Scaramucci
-  - Scaramucci, Alexander
 summary: "Venture investor, co-managing member of SALT Fund Management LLC with Alex Klokus and managing member of the general partner of the Solari Capital funds, formerly an entrepreneur-in-residence under Peter Diamandis; son of Anthony Scaramucci."
 location: "Palm Beach Gardens"
 relations:

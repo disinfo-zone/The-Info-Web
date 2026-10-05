@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Berkeley Existential Risk Initiative
+  - BERI
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - EffectiveAltruism
   - AISafety
   - JaanTallinn
-alias:
-  - Berkeley Existential Risk Initiative
-  - BERI
 summary: "The Berkeley Existential Risk Initiative is the nonprofit founded in 2017 by Andrew Critch that provides free operational support and grants to university research groups working on existential risk, funded chiefly by Jaan Tallinn and Open Philanthropy."
 location: "Berkeley, California"
 created: 2026-06-20

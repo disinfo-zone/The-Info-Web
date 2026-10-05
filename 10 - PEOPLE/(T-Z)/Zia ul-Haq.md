@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Muhammad Zia-ul-Haq
+  - Mohammad Zia ul-Haq
+  - General Zia
 category: "Political Figure"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - MartialLaw
   - NuclearProliferation
   - AfghanWar
-alias:
-  - Muhammad Zia-ul-Haq
-  - Mohammad Zia ul-Haq
-  - General Zia
 summary: "Pakistani army chief who seized power in 1977, hanged Zulfikar Ali Bhutto, ruled until his 1988 death in a plane crash, and was cultivated by BCCI's Agha Hasan Abedi."
 born: 1924-08-12
 died: 1988-08-17

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Telegram Messenger
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - Terrorgram
   - Accelerationism
   - 764
-alias:
-  - Telegram Messenger
 summary: "The messaging platform whose channels and group chats became, after the 2019 deplatformings, the main organizing infrastructure of the accelerationist Terrorgram network and of the 764 and Com abuse networks."
 start: 2013
 location: "Dubai (online)"

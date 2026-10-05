@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bunker Hunt
+  - N.B. Hunt
 category: "Business & Finance"
 tags:
   - Person
@@ -11,9 +14,6 @@ tags:
   - JohnBirchSociety
   - Wiretapping
   - Dallas
-alias:
-  - Bunker Hunt
-  - N.B. Hunt
 summary: "Dallas oilman who lost the Sarir field to Libya, was indicted for wiretapping his father's aides, was found liable for conspiring to corner silver in 1980, and gave 475,000 dollars to Oliver North's Contra fundraisers."
 born: 1926-02-22
 died: 2014-10-21

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - AIR evaluation
+  - An Evaluation of Remote Viewing: Research and Applications
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -10,9 +13,6 @@ tags:
   - AmericanInstitutesForResearch
   - JessicaUtts
   - RayHyman
-alias:
-  - AIR evaluation
-  - An Evaluation of Remote Viewing: Research and Applications
 summary: "The CIA-commissioned 1995 review of the DIA's Star Gate remote-viewing program, delivered September 29, 1995, which found a statistically significant laboratory anomaly and no intelligence value, and recommended against continuing operations."
 start: 1995-06-01
 end: 1995-11-28

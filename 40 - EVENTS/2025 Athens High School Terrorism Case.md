@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Athens High School Terrorism Case
+  - Athens High School Terrorism Indictment
+  - Carson Albert Butler
+  - Carson Butler
+  - Butler Indictment
 category: "Terrorism"
 tags:
   - Event
@@ -10,12 +16,6 @@ tags:
   - NoLivesMatter
   - JuvenileCase
   - USA
-alias:
-  - Athens High School Terrorism Case
-  - Athens High School Terrorism Indictment
-  - Carson Albert Butler
-  - Carson Butler
-  - Butler Indictment
 date: 2025-12-04
 location: "Athens, Alabama"
 summary: "Limestone County grand jury indictment of Carson Albert Butler in 2025 for terrorism, attempted murder and conspiracy, alleging conspiracy with 764, Maniac Murder Cult and No Lives Matter to target Athens High School students and staff."

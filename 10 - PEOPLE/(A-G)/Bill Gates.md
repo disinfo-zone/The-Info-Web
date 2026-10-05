@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Bill Gates
+  - William H. Gates
+  - William H. Gates III
+  - William Henry Gates III
 category: "Technologists"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - JeffreyEpstein
   - JPMorgan
   - Philanthropy
-alias:
-  - Bill Gates
-  - William H. Gates
-  - William H. Gates III
-  - William Henry Gates III
 summary: "Bill Gates is the Microsoft co-founder who met Jeffrey Epstein repeatedly from 2011 to 2014 over a proposed JPMorgan charitable fund, and whom Epstein later pressed over a relationship with a Russian bridge player."
 born: 1955-10-28
 location: "Seattle, Washington"

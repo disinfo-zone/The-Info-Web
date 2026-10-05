@@ -1,12 +1,12 @@
 ---
+aliases:
+  - BankAmerica
+  - BofA
 category: "Private Organization"
 tags:
   - Organization
   - Bank
   - BCCI
-alias:
-  - BankAmerica
-  - BofA
 summary: "San Francisco bank that supplied BCCI's founding capital and Western credibility in 1972, held up to 30 percent of it, and sold out to BCCI's affiliate ICIC from 1978 while keeping a correspondent relationship."
 location: "San Francisco, California, USA"
 relations:

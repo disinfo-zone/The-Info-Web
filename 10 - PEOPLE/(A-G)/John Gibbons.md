@@ -1,4 +1,11 @@
 ---
+aliases:
+  - John Gibbons
+  - John H. Gibbons
+  - John Howard Gibbons
+  - Jack Gibbons
+  - Dr. John H. Gibbons
+  - Dr. Gibbons
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,13 +15,6 @@ tags:
   - ClintonWhiteHouse
   - OakRidge
   - UFO
-alias:
-  - John Gibbons
-  - John H. Gibbons
-  - John Howard Gibbons
-  - Jack Gibbons
-  - Dr. John H. Gibbons
-  - Dr. Gibbons
 summary: "Physicist, director of the Congressional Office of Technology Assessment from 1979 and of the White House Office of Science and Technology Policy from 1993, point of contact for Laurance Rockefeller's UFO inquiries."
 born: 1929
 died: 2015-07-17

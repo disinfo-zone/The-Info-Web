@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Maria Farmer
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -10,8 +12,6 @@ tags:
   - FBI
   - NewAlbany
   - Artist
-alias:
-  - Maria Farmer
 summary: "American artist who reported Jeffrey Epstein and Ghislaine Maxwell to the NYPD and FBI in August 1996 after an assault at Epstein's Ohio house beside Leslie Wexner's estate, and sued the United States in 2025."
 location: "New York, New York"
 relations:

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - WilmerHale
+  - Wilmer Cutler Pickering Hale and Dorr
+  - Wilmer Cutler Pickering Hale and Dorr LLP
+  - Wilmer Hale
+  - Hale and Dorr
 category: "Private Organization"
 tags:
   - Organization
@@ -10,12 +16,6 @@ tags:
   - RevolvingDoor
   - InternalInvestigation
   - RobertMueller
-alias:
-  - WilmerHale
-  - Wilmer Cutler Pickering Hale and Dorr
-  - Wilmer Cutler Pickering Hale and Dorr LLP
-  - Wilmer Hale
-  - Hale and Dorr
 summary: "Law firm formed by the 2004 merger of Hale and Dorr and Wilmer Cutler Pickering, which defended JPMorgan Chase in the Virgin Islands Epstein suit and investigated Epstein ties for Bard College and Apollo."
 start: 2004
 location: "Washington, D.C., and Boston, Massachusetts"

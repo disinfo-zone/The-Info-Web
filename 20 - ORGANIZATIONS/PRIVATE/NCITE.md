@@ -1,4 +1,11 @@
 ---
+aliases:
+  - NCITE
+  - National Counterterrorism Innovation, Technology, and Education Center
+  - National Counterterrorism Innovation, Technology and Education Center
+  - NCITE Center of Excellence
+  - Center of Excellence for Terrorism Prevention and Counterterrorism Research
+  - TPCR
 category: "Private Organization"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - DHSScienceAndTechnology
   - TVTP
   - NihilisticViolentExtremism
-alias:
-  - NCITE
-  - National Counterterrorism Innovation, Technology, and Education Center
-  - National Counterterrorism Innovation, Technology and Education Center
-  - NCITE Center of Excellence
-  - Center of Excellence for Terrorism Prevention and Counterterrorism Research
-  - TPCR
 summary: "DHS Center of Excellence at the University of Nebraska Omaha, created by a ten-year cooperative agreement announced in February 2020, which also evaluates DHS prevention grants and had an April 2025 termination notice paused."
 start: 2020-02-24
 location: "Omaha, Nebraska"

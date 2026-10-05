@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Liberty Cremations
+  - Liberty Crematorium
+  - Garzone Funeral Home Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - Philadelphia
   - Kensington
   - RCHorsch
-alias:
-  - Liberty Cremations
-  - Liberty Crematorium
-  - Garzone Funeral Home Inc.
 summary: "Philadelphia funeral home and crematorium whose owners sold 244 corpses to the tissue broker Michael Mastromarino between 2004 and 2005, and to whose crematorium the pornographer R.C. Horsch is reported to have bought access."
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-21

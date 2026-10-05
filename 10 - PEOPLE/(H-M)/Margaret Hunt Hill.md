@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Margaret Hunt
+  - Margaret Hill
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - PlacidOil
   - HuntPetroleum
   - SilverThursday
-alias:
-  - Margaret Hunt
-  - Margaret Hill
 summary: "Eldest child of H.L. Hunt, his business aide, trustee of her lobotomized brother's fortune, who after the 1980 silver collapse made Bunker and Herbert Hunt pledge more property to protect Placid Oil."
 born: 1915-10-19
 died: 2007

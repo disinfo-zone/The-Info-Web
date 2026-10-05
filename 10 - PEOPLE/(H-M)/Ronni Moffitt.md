@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ronni Karpen Moffitt
 category: "Victims & Witnesses"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - DINA
   - OperationCondor
   - SheridanCircle
-alias:
-  - Ronni Karpen Moffitt
 summary: "Institute for Policy Studies fundraiser, aged 25, killed with Orlando Letelier by DINA's car bomb in Washington on September 21, 1976, for whose death a Chilean judge convicted three DINA officers in June 2026."
 died: 1976-09-21
 location: "Washington, D.C."

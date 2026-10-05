@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Charles T. Tart
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Parapsychology
   - SRI
   - UCDavis
-alias:
-  - Charles T. Tart
 summary: "University of California, Davis, psychologist of altered states and consultant to SRI's government-funded remote-viewing program who rejudged the Price series in 1979 against the Marks-Kammann critique."
 born: 1937-04-29
 died: 2025-03-05

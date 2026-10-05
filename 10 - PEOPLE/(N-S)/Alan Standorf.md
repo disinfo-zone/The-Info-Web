@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alan David Standorf
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - PROMIS
   - BCCI
   - SuspiciousDeath
-alias:
-  - Alan David Standorf
 summary: "Civilian analyst at Vint Hill Farms Station found beaten to death at Washington National Airport in January 1991, named by Bill Turner as a source of the BCCI and PROMIS documents in Casolaro's briefcase."
 died: 1991-01
 location: "Vint Hill Farms Station, Virginia"

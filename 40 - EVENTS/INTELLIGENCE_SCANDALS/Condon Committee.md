@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Condon Committee
+  - University of Colorado UFO Project
+  - Colorado Project
+  - Condon Report
+  - Condon Study
+  - Scientific Study of Unidentified Flying Objects
 category: "Intelligence Scandal"
 tags:
   - Committee
@@ -10,13 +17,6 @@ tags:
   - CondonReport
   - NICAP
   - NPIC
-alias:
-  - Condon Committee
-  - University of Colorado UFO Project
-  - Colorado Project
-  - Condon Report
-  - Condon Study
-  - Scientific Study of Unidentified Flying Objects
 summary: "University of Colorado study of unidentified flying objects under an Air Force Office of Scientific Research contract (1966 to 1968), directed by Edward Condon, whose report preceded the termination of Project Blue Book."
 start: 1966-11-01
 end: 1968-10-31

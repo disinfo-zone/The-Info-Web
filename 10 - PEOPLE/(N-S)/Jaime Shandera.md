@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Jaime Shandera
+  - Jaime H. Shandera
+  - Jamie Shandera
+  - Shandera
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -7,11 +12,6 @@ tags:
   - Television
   - NationalArchives
   - Disinformation
-alias:
-  - Jaime Shandera
-  - Jaime H. Shandera
-  - Jamie Shandera
-  - Shandera
 summary: "Los Angeles television producer who received the roll of 35mm film bearing the Eisenhower briefing document on December 11, 1984 and found the Cutler-Twining memorandum at the National Archives on July 18, 1985."
 location: "North Hollywood, California"
 relations:

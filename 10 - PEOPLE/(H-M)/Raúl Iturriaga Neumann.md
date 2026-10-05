@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Raul Iturriaga Neumann
+  - Raúl Iturriaga
+  - Eduardo Iturriaga
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - CarlosPrats
   - BernardoLeighton
   - RonniMoffitt
-alias:
-  - Raul Iturriaga Neumann
-  - Raúl Iturriaga
-  - Eduardo Iturriaga
 summary: "DINA officer who carried cash to Buenos Aires for the Prats killing in 1974, set Townley on Bernardo Leighton in 1975, and by 2026 held sentences of 500 years, the last for Ronni Moffitt."
 location: "Santiago, Chile"
 created: 2026-09-21

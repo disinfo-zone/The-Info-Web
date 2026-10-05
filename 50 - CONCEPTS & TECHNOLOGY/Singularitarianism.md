@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Singularitarianism
+  - Technological Singularity
+  - The Singularity
 category: "Ideology"
 tags:
   - Concept
@@ -7,10 +11,6 @@ tags:
   - ArtificialIntelligence
   - Transhumanism
   - Superintelligence
-alias:
-  - Singularitarianism
-  - Technological Singularity
-  - The Singularity
 summary: "Singularitarianism is the belief, named by Vernor Vinge in 1993 and popularized by Ray Kurzweil's 2005 book and his Singularity University, that accelerating technology will produce machine superintelligence and an irreversible transformation of human life."
 location: "Silicon Valley, California"
 created: 2026-06-20

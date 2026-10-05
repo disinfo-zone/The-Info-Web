@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Mirror Group Newspapers
+  - Mirror Group
+  - MGN
+  - MGN Limited
+  - MGN Ltd
+  - Mirror Group Newspapers plc
+  - Mirror Group Newspapers Limited
+  - Mirror Group plc
+  - Trinity Mirror
 category: "Private Organization"
 tags:
   - Organization
@@ -9,16 +19,6 @@ tags:
   - PensionFunds
   - PhoneHacking
   - ReachPlc
-alias:
-  - Mirror Group Newspapers
-  - Mirror Group
-  - MGN
-  - MGN Limited
-  - MGN Ltd
-  - Mirror Group Newspapers plc
-  - Mirror Group Newspapers Limited
-  - Mirror Group plc
-  - Trinity Mirror
 summary: "Publisher of the Daily Mirror, Sunday Mirror and The People, bought by Robert Maxwell in 1984, floated in 1991, and the subject of DTI inspectors from 1992 and phone hacking litigation."
 start: 1984
 location: "London, United Kingdom"

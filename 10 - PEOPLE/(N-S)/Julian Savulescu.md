@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Julian Savulescu
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - HumanEnhancement
   - Oxford
   - EffectiveAltruism
-alias:
-  - Julian Savulescu
 summary: "Julian Savulescu is an Oxford bioethicist who founded the Uehiro Centre for Practical Ethics, edited the Journal of Medical Ethics, and advanced 'procreative beneficence' and the case for human genetic and moral enhancement."
 born: 1963
 location: "Oxford, England; Singapore"

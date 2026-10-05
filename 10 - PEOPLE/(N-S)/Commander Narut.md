@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Tom Narut
+  - Thomas Narut
+  - Thomas E. Narut
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -8,7 +12,6 @@ tags:
   - ColdWar
   - NATO
   - Interrogation
-alias: Tom Narut, Thomas Narut, Thomas E. Narut
 summary: "US Navy clinical psychologist stationed in Naples who disclosed at a 1975 NATO conference in Oslo that the Navy had trained 'combat psychopaths' as assassins through a three-phase audio-visual desensitization program, triggering a brief international scandal before retracting the most specific of his claims under institutional pressure."
 born: 1935
 died: 1994-04-19

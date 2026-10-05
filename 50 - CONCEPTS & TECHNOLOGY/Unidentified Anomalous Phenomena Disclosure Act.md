@@ -1,14 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
-tags:
-  - Legislation
-  - UAP
-  - NDAA
-  - RecordsReviewBoard
-  - EminentDomain
-  - Senate
-  - Lobbying
-alias:
+aliases:
   - UAP Disclosure Act
   - UAPDA
   - Unidentified Anomalous Phenomena Disclosure Act
@@ -19,6 +10,15 @@ alias:
   - Schumer-Rounds UAP Disclosure Act
   - Senate Amendment 797
   - SA 797
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Legislation
+  - UAP
+  - NDAA
+  - RecordsReviewBoard
+  - EminentDomain
+  - Senate
+  - Lobbying
 summary: "Senate amendment of July 2023 by Schumer and Rounds, modeled on the JFK records law, passed with the 2024 defense bill and cut in conference to a National Archives records collection with no review board."
 start: 2023-07-13
 location: "Washington, D.C."

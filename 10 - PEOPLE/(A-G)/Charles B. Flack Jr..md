@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Charles B. Flack
+  - Charles Flack
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - Wackenhut
   - PrivateIntelligence
   - Philadelphia
-alias:
-  - Charles B. Flack
-  - Charles Flack
 summary: "Former FBI agent who merged his investigative firm into the Wackenhut Corporation in 1962 and ran its Philadelphia office for the Pennsylvania and New Jersey area."
 location: "Philadelphia, Pennsylvania"
 relations:

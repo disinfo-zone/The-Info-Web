@@ -1,4 +1,8 @@
 ---
+aliases:
+  - "Walker's Flying W Ranch, LLC"
+  - "Walker's Flying W Ranch LLC"
+  - "Flying W Ranch LLC"
 category: "Organizations"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - QuitmanMountains
   - MileHighResources
   - RadioLicence
-alias:
-  - "Walker's Flying W Ranch, LLC"
-  - "Walker's Flying W Ranch LLC"
-  - "Flying W Ranch LLC"
 summary: "Sierra Blanca limited liability company registered in 2007; holder of FCC licence WRBZ759 in the Quitman Mountains and payee of a 2014 sole-source International Boundary and Water Commission award for radio tower site access."
 location: "Sierra Blanca, Texas"
 relations:

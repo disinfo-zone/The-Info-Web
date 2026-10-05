@@ -1,4 +1,7 @@
 ---
+aliases:
+  - RAF Menwith Hill
+  - Menwith Hill Station
 category: "Military Installation"
 tags:
   - Place
@@ -8,9 +11,6 @@ tags:
   - ECHELON
   - SIGINT
   - UnitedKingdom
-alias:
-  - RAF Menwith Hill
-  - Menwith Hill Station
 summary: "The NSA's largest field station, on the Yorkshire moors near Harrogate, ground station for the CHALET and VORTEX signals satellites and a node of ECHELON, where the Lockheed software manager Margaret Newsham said she listened to intercepted telephone calls in the early 1980s."
 location: "North Yorkshire, England"
 created: 2026-09-22

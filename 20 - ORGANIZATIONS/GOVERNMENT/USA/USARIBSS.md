@@ -1,4 +1,10 @@
 ---
+aliases:
+  - ARI
+  - Army Research Institute
+  - US Army Research Institute for Behavioral and Social Sciences
+  - USAPRO
+  - BESRL
 category: "U.S. Government"
 tags:
   - Organization
@@ -6,7 +12,6 @@ tags:
   - USArmy
   - ColdWar
   - ThinkTank
-alias: ARI, Army Research Institute, US Army Research Institute for Behavioral and Social Sciences, USAPRO, BESRL
 summary: "The US Army's primary in-house behavioral and social science research organization, which operated under a series of names from its origins as the US Army Personnel Research Office through its consolidation as the Army Research Institute for Behavioral and Social Sciences in 1974."
 location: Washington, D.C.
 created: 2026-06-04

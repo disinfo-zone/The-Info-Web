@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tim May
+  - Timothy C. May
 category: "Technologists"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Cryptography
   - Libertarianism
   - Extropianism
-alias:
-  - Tim May
-  - Timothy C. May
 summary: "Timothy May was a former Intel physicist who wrote 'The Crypto Anarchist Manifesto,' cofounded the cypherpunks mailing list, and devised the BlackNet thought experiment."
 born: 1951-12-21
 died: 2018-12-13

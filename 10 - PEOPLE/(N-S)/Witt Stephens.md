@@ -1,4 +1,7 @@
 ---
+aliases:
+  - W.R. Stephens
+  - Mr. Witt
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Arkansas
   - PublicUtilities
   - PoliticalPatronage
-alias:
-  - W.R. Stephens
-  - Mr. Witt
 summary: "Arkansas bond dealer who founded the Stephens investment house in 1933, controlled Arkansas Louisiana Gas from 1954, had the legislature undo a state supreme court ruling in four days, and was the state's kingmaker."
 born: 1907-09-14
 died: 1991-12-02

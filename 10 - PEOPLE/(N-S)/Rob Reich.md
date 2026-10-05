@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rob Reich
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -11,8 +13,6 @@ tags:
   - AISafetyInstitute
   - HumanCenteredAI
   - GivingTuesday
-alias:
-  - Rob Reich
 summary: "Stanford political scientist who sat on the GiveWell board from 2013, wrote in 2015 that effective altruists are technocrats, and was senior advisor to the U.S. AI Safety Institute in 2024 and 2025."
 location: "Stanford, California"
 relations:

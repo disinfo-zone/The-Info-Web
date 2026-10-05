@@ -1,4 +1,7 @@
 ---
+aliases:
+  - SSI
+  - Safe Superintelligence Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - ArtificialIntelligence
   - AISafety
   - VentureCapital
-alias:
-  - SSI
-  - Safe Superintelligence Inc.
 summary: "Safe Superintelligence is the AI lab Ilya Sutskever cofounded in June 2024 with Daniel Gross and Daniel Levy, built to pursue a single safe-superintelligence goal with no commercial product, which raised 1 billion dollars at a 5-billion valuation and later 2 billion at a 32-billion valuation before Meta poached Gross and Sutskever became chief executive."
 location: "Palo Alto, California, and Tel Aviv, Israel"
 created: 2026-06-20

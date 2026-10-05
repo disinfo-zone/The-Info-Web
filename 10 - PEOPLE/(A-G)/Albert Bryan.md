@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Albert Bryan Jr.
+  - Albert Bryan, Jr.
+  - Albert Bryan Jr
+  - Governor Albert Bryan
+  - Gov. Albert Bryan Jr.
 category: "Political Figure"
 tags:
   - Person
@@ -8,12 +14,6 @@ tags:
   - EconomicDevelopmentCommission
   - GovernmentCapture
   - SouthernTrust
-alias:
-  - Albert Bryan Jr.
-  - Albert Bryan, Jr.
-  - Albert Bryan Jr
-  - Governor Albert Bryan
-  - Gov. Albert Bryan Jr.
 summary: "Albert Bryan Jr. is the ninth governor of the U.S. Virgin Islands, who chaired the Economic Development Commission when it certified Jeffrey Epstein's Southern Trust Company and later fired the attorney general suing JPMorgan."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

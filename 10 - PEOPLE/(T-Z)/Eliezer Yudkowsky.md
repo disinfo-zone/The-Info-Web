@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eliezer S. Yudkowsky
 category: "Technologists"
 tags:
   - EffectiveAltruism
@@ -9,8 +11,6 @@ tags:
   - PeterThiel
   - Transhumanism
   - LessWrong
-alias:
-  - Eliezer S. Yudkowsky
 summary: "Eliezer Yudkowsky is an American writer and self-taught artificial-intelligence theorist who founded the Machine Intelligence Research Institute, wrote the foundational texts of the LessWrong rationalist movement, was funded for a decade by Peter Thiel, and in 2025 was named by Thiel as an example of the technology-stopping 'Antichrist.'"
 born: 1979-09-11
 location: "Berkeley, California"

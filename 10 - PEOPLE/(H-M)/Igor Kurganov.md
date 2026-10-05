@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Igor Kurganov
 category: "Philanthropists & Benefactors"
 tags:
   - EffectiveAltruism
@@ -10,8 +12,6 @@ tags:
   - ForeignInterference
   - Philanthropy
   - Counterintelligence
-alias:
-  - Igor Kurganov
 summary: "Russian-born former professional poker player who advised Elon Musk on charitable giving during the pandemic, was the subject of a reported FBI preliminary inquiry, and left Musk's foundation in May 2022."
 location: "Russia (born)"
 created: 2026-06-18

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hereticon Conference
 category: "Private Organization"
 tags:
   - Organization
@@ -8,8 +10,6 @@ tags:
   - MikeSolana
   - PirateWires
   - Heterodoxy
-alias:
-  - Hereticon Conference
 summary: "Hereticon is an invitation-only conference organized by Founders Fund executive Mike Solana, announced in October 2019 and first held January 10 to 13, 2022, self-described as 'a conference for thoughtcrime,' whose programming spans immortality research, UFO claims, doomsday prepping, and ideological heterodoxy."
 location: "United States (rotating sites)"
 created: 2026-06-17

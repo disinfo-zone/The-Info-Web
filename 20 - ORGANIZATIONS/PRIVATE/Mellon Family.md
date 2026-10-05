@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Mellon family
+  - The Mellons
+  - House of Mellon
 category: "Families & Dynasties"
 tags:
   - Family
@@ -6,10 +10,6 @@ tags:
   - Philanthropy
   - Pittsburgh
   - UFO
-alias:
-  - Mellon family
-  - The Mellons
-  - House of Mellon
 summary: "The Mellon family of Pittsburgh includes Andrew W. Mellon, Paul Mellon, Richard Mellon Scaife and Christopher Mellon, the Senate and Pentagon intelligence staffer who later became a UAP disclosure figure."
 location: "Pittsburgh, Pennsylvania"
 relations:

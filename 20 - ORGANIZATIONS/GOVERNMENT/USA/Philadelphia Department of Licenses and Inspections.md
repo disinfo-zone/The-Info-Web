@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Licenses and Inspections
+  - Department of Licenses and Inspections
+  - L&I
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -6,10 +10,6 @@ tags:
   - Philadelphia
   - Censorship
   - RCHorsch
-alias:
-  - Licenses and Inspections
-  - Department of Licenses and Inspections
-  - L&I
 summary: "Philadelphia's building-code and licensing department, whose deputy commissioner Leo Goldstein closed R.C. Horsch's Underground Cinema 16 in 1969, and which Mayor Cherelle Parker split under two commissioners in 2024."
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-23

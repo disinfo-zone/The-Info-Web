@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Pennsylvania Superior Court
+  - Pa. Super. Ct.
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - Pennsylvania
   - Garzone
   - RCHorsch
-alias:
-  - Pennsylvania Superior Court
-  - Pa. Super. Ct.
 summary: "Intermediate appellate court of Pennsylvania, established in 1895, which ruled on the Garzone and Mastromarino body-parts sentences in 2010 and on which Judge John B. Hannum sat before 1969."
 start: 1895
 location: "Pennsylvania"

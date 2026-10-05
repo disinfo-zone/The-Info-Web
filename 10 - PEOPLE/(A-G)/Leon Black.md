@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leon David Black
+  - Leon D. Black
 category: "Business & Finance"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - TaxAvoidance
   - DarkMoney
   - Finance
-alias:
-  - Leon David Black
-  - Leon D. Black
 summary: "Apollo Global Management co-founder who wired Jeffrey Epstein about 158 to 170 million dollars from 2012 to 2017 for tax and estate advice, left Apollo in 2021, and paid the Virgin Islands 62.5 million dollars."
 born: 1951-07-31
 location: "New York, New York"

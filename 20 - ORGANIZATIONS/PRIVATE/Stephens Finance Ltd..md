@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Stephens Finance
 category: "Private Organization"
 tags:
   - Organization
@@ -6,8 +8,6 @@ tags:
   - Stephens
   - HongKong
   - Banking
-alias:
-  - Stephens Finance
 summary: "Hong Kong finance company established in 1978 by the Riady family's Lippo Group and the Stephens brothers of Arkansas, where John Huang worked before joining Worthen Bank."
 start: 1978
 location: "Hong Kong"

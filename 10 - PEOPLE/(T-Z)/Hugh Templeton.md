@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hugh Campbell Templeton
 category: "Political Figure"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Politician
   - Customs
   - RCHorsch
-alias:
-  - Hugh Campbell Templeton
 summary: "New Zealand National Party minister of customs from 1978 who, with Bill Birch, announced the 1981 distillery licence for the Temuka ethanol plant of Chemical Technology Limited."
 location: "Wellington, New Zealand"
 relations:

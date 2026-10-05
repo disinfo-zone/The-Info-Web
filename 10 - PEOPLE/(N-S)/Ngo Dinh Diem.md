@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Ngo Dinh Diem
+  - Ngô Đình Diệm
+  - Diem
+  - President Diem
+  - Premier Diem
 category: "Political Figure"
 tags:
   - KeyFigure
@@ -12,12 +18,6 @@ tags:
   - DiemCoup
   - ChurchCommittee
   - CovertAction
-alias:
-  - Ngo Dinh Diem
-  - Ngô Đình Diệm
-  - Diem
-  - President Diem
-  - Premier Diem
 summary: "Premier of Vietnam from July 1954 and president of South Vietnam until his killing on November 2, 1963, in a generals' coup that Washington encouraged, after a decade of CIA subsidy and American lobbying."
 died: 1963-11-02
 location: "Saigon, South Vietnam (died)"

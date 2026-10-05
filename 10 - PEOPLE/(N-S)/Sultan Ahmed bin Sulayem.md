@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Sultan Ahmed bin Sulayem
+  - Sultan bin Sulayem
+  - Sultan Ahmed Bin Sulayem
+  - Sultan Ahmed Sulayem
 category: "Business & Finance"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - UnitedArabEmirates
   - JeffreyEpstein
   - JPMorgan
-alias:
-  - Sultan Ahmed bin Sulayem
-  - Sultan bin Sulayem
-  - Sultan Ahmed Bin Sulayem
-  - Sultan Ahmed Sulayem
 summary: "Sultan Ahmed bin Sulayem is the Emirati executive who led Dubai's state ports operator DP World until February 2026, when he was replaced after the release of his correspondence with Jeffrey Epstein."
 location: "Dubai, United Arab Emirates"
 relations:

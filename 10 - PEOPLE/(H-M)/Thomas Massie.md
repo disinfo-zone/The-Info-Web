@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thomas Harold Massie
+  - Rep. Thomas Massie
 category: "Political Figure"
 tags:
   - Person
@@ -10,9 +13,6 @@ tags:
   - DischargePetition
   - SuperPAC
   - MIT
-alias:
-  - Thomas Harold Massie
-  - Rep. Thomas Massie
 summary: "MIT-trained engineer and Republican congressman from Kentucky who forced the 2025 House vote on the Epstein Files Transparency Act and lost his 2026 primary to a Trump-endorsed challenger after record super PAC spending."
 born: 1971-01-13
 location: "Huntington, West Virginia (born)"

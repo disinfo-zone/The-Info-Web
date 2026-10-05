@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Celestino White Sr.
+  - Celestino A. White Sr.
+  - Senator Celestino White
 category: "Political Figure"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - GovernmentCapture
   - Lobbying
-alias:
-  - Celestino White Sr.
-  - Celestino A. White Sr.
-  - Senator Celestino White
 summary: "Former Virgin Islands police chief and senator who signed a paid contractor agreement with Jeffrey Epstein in 2013 and has sat on the Port Authority board since 2020, reconfirmed in 2026."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

@@ -1,16 +1,5 @@
 ---
-category: "Private Organization"
-tags:
-  - Organization
-  - Private
-  - Contractor
-  - NuclearTesting
-  - Nevada
-  - Area51
-  - AtomicEnergyCommission
-  - Janet
-  - UFO
-alias:
+aliases:
   - EG&G
   - EG&G Inc
   - EG&G Incorporated
@@ -23,6 +12,17 @@ alias:
   - Edgerton, Germeshausen and Grier
   - Edgerton, Germehausen & Grier
   - EGG
+category: "Private Organization"
+tags:
+  - Organization
+  - Private
+  - Contractor
+  - NuclearTesting
+  - Nevada
+  - Area51
+  - AtomicEnergyCommission
+  - Janet
+  - UFO
 summary: "Massachusetts instrumentation contractor founded in 1947, Atomic Energy Commission and Department of Energy test-site contractor in Nevada, Groom Lake radar test operator and, in witness accounts, the Las Vegas boarding point for Groom Lake."
 location: "Wellesley, Massachusetts; Las Vegas, Nevada"
 start: 1947

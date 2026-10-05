@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Fairness in Media
+  - Fairness In Media
+  - Fairness in Media, Inc.
+  - FIM
 category: "New Right"
 tags:
   - Organization
@@ -11,11 +16,6 @@ tags:
   - HostileTakeover
   - FCC
   - NewRight
-alias:
-  - Fairness in Media
-  - Fairness In Media
-  - Fairness in Media, Inc.
-  - FIM
 summary: "Raleigh committee of three Jesse Helms associates that mailed nearly a million letters in January 1985 urging conservatives to buy CBS stock, was sued by CBS, and petitioned the FCC over Laurence Tisch to 1988."
 start: 1984-11-13
 location: "Raleigh, North Carolina"

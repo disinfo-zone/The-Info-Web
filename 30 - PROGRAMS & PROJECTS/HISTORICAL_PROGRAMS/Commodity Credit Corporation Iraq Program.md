@@ -1,4 +1,7 @@
 ---
+aliases:
+  - CCC Program for Iraq
+  - GSM-102 Iraq program
 category: "Government Program"
 tags:
   - Program
@@ -8,9 +11,6 @@ tags:
   - BNLScandal
   - NSD26
   - DepartmentOfAgriculture
-alias:
-  - CCC Program for Iraq
-  - GSM-102 Iraq program
 summary: "Agriculture Department credit guarantees that backed about five billion dollars of Iraqi purchases from 1983 to 1990, financed largely through Banca Nazionale del Lavoro's Atlanta branch, and continued after the fraud there was found."
 start: 1983
 end: 1990-08-02

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Arthur J. Hanes
+  - Arthur Hanes Sr.
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Birmingham
   - JamesEarlRay
   - BayOfPigs
-alias:
-  - Arthur J. Hanes
-  - Arthur Hanes Sr.
 summary: "Former FBI agent, CIA confidential correspondent from 1952 to 1959 and recruiter of Alabama Guard pilots for the Bay of Pigs, mayor of Birmingham with Bull Connor, and James Earl Ray's first lawyer."
 location: "Birmingham, Alabama"
 created: 2026-09-21

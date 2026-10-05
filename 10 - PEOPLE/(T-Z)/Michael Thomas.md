@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Michael Thomas (correctional officer)
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - DeathInCustody
   - CorrectionalOfficer
   - DeferredProsecution
-alias:
-  - Michael Thomas (correctional officer)
 summary: "Michael Thomas is the former Bureau of Prisons materials handler who found Jeffrey Epstein hanged in August 2019 and was charged with falsifying the unit's count and round records."
 location: "New York, New York"
 relations:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - International Intelligence Inc.
+  - International Intelligence, Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - Bahamas
   - HowardHughes
   - OrganizedCrime
-alias:
-  - International Intelligence Inc.
-  - International Intelligence, Inc.
 summary: "Private intelligence company formed by Justice Department organized crime lawyers Robert Peloquin and William Hundley as a subsidiary of the Bahamian casino operator Resorts International, staffed from the IRS operation that had investigated the islands."
 location: "Washington, D.C."
 created: 2026-09-21

@@ -1,4 +1,13 @@
 ---
+aliases:
+  - BDM Corporation
+  - The BDM Corporation
+  - BDM
+  - BDM International
+  - BDM International, Inc.
+  - BDM Federal
+  - Braddock, Dunn and McDonald
+  - Braddock, Dunn & McDonald, Incorporated
 category: "Organizations"
 tags:
   - Organization
@@ -8,15 +17,6 @@ tags:
   - Vinnell
   - UFO
   - McLeanVirginia
-alias:
-  - BDM Corporation
-  - The BDM Corporation
-  - BDM
-  - BDM International
-  - BDM International, Inc.
-  - BDM Federal
-  - Braddock, Dunn and McDonald
-  - Braddock, Dunn & McDonald, Incorporated
 summary: "McLean, Virginia defense and intelligence contractor founded in 1959 as Braddock, Dunn and McDonald, owned by Ford Aerospace from 1988 and by a Carlyle-led group from 1990, and sold to TRW in 1997."
 location: "McLean, Virginia"
 relations:

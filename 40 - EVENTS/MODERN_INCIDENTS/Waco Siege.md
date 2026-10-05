@@ -1,15 +1,5 @@
 ---
-category: "Crime Investigation"
-tags:
-  - Event
-  - Waco
-  - BranchDavidians
-  - ATF
-  - FBI
-  - 1990s
-  - DomesticTerrorism
-  - Siege
-alias:
+aliases:
   - Waco Siege
   - Siege at Waco
   - Waco siege
@@ -20,6 +10,16 @@ alias:
   - 1993 Waco Siege
   - Branch Davidian Siege
   - Waco Incident
+category: "Crime Investigation"
+tags:
+  - Event
+  - Waco
+  - BranchDavidians
+  - ATF
+  - FBI
+  - 1990s
+  - DomesticTerrorism
+  - Siege
 summary: "The February 28, 1993 ATF raid on the Branch Davidians' Mount Carmel Center near Waco, Texas, the 51-day FBI siege that followed, and the April 19 fire that killed more than 70 people."
 start: 1993-02-28
 end: 1993-04-19

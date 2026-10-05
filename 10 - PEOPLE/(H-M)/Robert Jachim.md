@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Robert J. Jachim
 category: "Military"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - GrillFlame
   - CenterLane
   - FortMeade
-alias:
-  - Robert J. Jachim
 summary: "INSCOM lieutenant colonel who managed the Grill Flame remote-viewing project from July 1981 to 1983, briefed Senator Pell and the Senate Appropriations staff in 1982, and recorded Stubblebine's decision to keep the unit."
 location: "Fort Meade, Maryland"
 created: 2026-09-21

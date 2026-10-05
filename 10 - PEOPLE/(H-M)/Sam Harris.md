@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Samuel Benjamin Harris
 category: "Authors & Journalists"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - Dialog
   - RaceScience
   - PeterThiel
-alias:
-  - Samuel Benjamin Harris
 summary: "Sam Harris is an American neuroscientist, New Atheist author, and host of the Making Sense podcast, a registrant of Peter Thiel's Dialog society whose 2017 Forbidden Knowledge episode platformed Charles Murray's race-and-IQ claims and provoked a public dispute with Ezra Klein over race science."
 born: 1967-04-09
 location: "Los Angeles, California"

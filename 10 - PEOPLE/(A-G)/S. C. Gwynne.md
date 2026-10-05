@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sam Gwynne
+  - S.C. Gwynne
 category: "Authors & Journalists"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - BCCI
   - TimeMagazine
   - Banking
-alias:
-  - Sam Gwynne
-  - S.C. Gwynne
 summary: "Former international banker and Time correspondent, bureau chief and senior editor who co-wrote Time's 1991 BCCI cover story and The Outlaw Bank, later executive editor of Texas Monthly and a historian."
 location: "Austin, Texas"
 relations:

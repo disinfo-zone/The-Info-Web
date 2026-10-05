@@ -1,4 +1,7 @@
 ---
+aliases:
+  - GCHQ Bude
+  - GCHQ Composite Signals Organisation Station Morwenstow
 category: "Military Installation"
 tags:
   - Place
@@ -8,9 +11,6 @@ tags:
   - ECHELON
   - SIGINT
   - UnitedKingdom
-alias:
-  - GCHQ Bude
-  - GCHQ Composite Signals Organisation Station Morwenstow
 summary: "GCHQ's satellite interception station on the Cornish cliffs north of Bude, built in 1971 with two 30-metre dishes against the Atlantic and Indian Ocean Intelsats, the first ground station of the ECHELON system."
 location: "Cornwall, England"
 created: 2026-09-22

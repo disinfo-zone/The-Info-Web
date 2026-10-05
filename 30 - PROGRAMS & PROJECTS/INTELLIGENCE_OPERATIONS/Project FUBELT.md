@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Track II
+  - FUBELT
+  - Chile Task Force
 category: "Intelligence Operation"
 tags:
   - Project
@@ -10,10 +14,6 @@ tags:
   - ReneSchneider
   - ChurchCommittee
   - CovertAction
-alias:
-  - Track II
-  - FUBELT
-  - Chile Task Force
 summary: "CIA operation ordered by President Nixon on September 15, 1970, to provoke a military coup before Salvador Allende could take office, in the course of which the agency armed and paid officers plotting to kidnap General Rene Schneider."
 start: 1970-09-15
 end: 1970-10-24

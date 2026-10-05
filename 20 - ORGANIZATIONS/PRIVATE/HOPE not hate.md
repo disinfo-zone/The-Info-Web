@@ -1,16 +1,5 @@
 ---
-category: "Extremism & Violent Networks"
-tags:
-  - Organization
-  - UK
-  - AntiFascist
-  - CampaignGroup
-  - Searchlight
-  - Charity
-  - NationalAction
-  - Informants
-  - PoliticalFinance
-alias:
+aliases:
   - HOPE not hate
   - Hope not Hate
   - Hope Not Hate
@@ -23,6 +12,17 @@ alias:
   - Hope Unlimited Charitable Trust
   - Searchlight Educational Trust
   - Searchlight Information Services
+category: "Extremism & Violent Networks"
+tags:
+  - Organization
+  - UK
+  - AntiFascist
+  - CampaignGroup
+  - Searchlight
+  - Charity
+  - NationalAction
+  - Informants
+  - PoliticalFinance
 summary: "British anti-fascist research and campaign organisation that renamed Searchlight's information company and educational charity in 2012, separated from Gerry Gable's magazine, and ran an informant inside National Action in 2017."
 start: 2004
 location: "London, United Kingdom"

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Tech Against Terrorism
+  - TAT
+  - Online Harms Foundation
+  - QuantSpark Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -11,11 +16,6 @@ tags:
   - UNCTED
   - ContentModeration
   - CounterTerrorism
-alias:
-  - Tech Against Terrorism
-  - TAT
-  - Online Harms Foundation
-  - QuantSpark Foundation
 summary: "Counter-terrorism project begun in 2016 with the UN Counter-Terrorism Committee Executive Directorate and ICT4Peace, now run through Adam Hadley's Online Harms Foundation and funded by Canada, the GIFCT and other governments."
 start: 2016
 location: "London, United Kingdom"

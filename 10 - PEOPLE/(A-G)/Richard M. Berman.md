@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Richard Berman
+  - Judge Richard M. Berman
+  - Richard M. Berman
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - Halkbank
   - EpsteinFilesTransparencyAct
-alias:
-  - Richard Berman
-  - Judge Richard M. Berman
-  - Richard M. Berman
 summary: "Manhattan federal judge, a former Javits aide and Warner Cable general counsel, who ordered Jeffrey Epstein detained in 2019, let victims speak before dismissing his indictment, and later unsealed its grand jury record."
 born: 1943
 location: "New York, New York"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Walter B. LaBerge
 category: "Intelligence & Government"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Army
   - GrillFlame
   - RemoteViewing
-alias:
-  - Walter B. LaBerge
 summary: "Under secretary of the Army who proposed the 1979 scientific review of the Army's parapsychology programs and to whom the resulting Gale report was delivered over the objections of the Pentagon's working group."
 location: "Washington, D.C."
 created: 2026-09-22

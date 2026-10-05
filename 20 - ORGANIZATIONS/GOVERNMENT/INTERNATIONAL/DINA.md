@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dirección de Inteligencia Nacional
+  - Direccion de Inteligencia Nacional
 category: "Foreign Government"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - OperationCondor
   - CIA
   - Assassination
-alias:
-  - Dirección de Inteligencia Nacional
-  - Direccion de Inteligencia Nacional
 summary: "Pinochet's secret police under Manuel Contreras, 1974 to 1977, which killed Carlos Prats in Buenos Aires and Orlando Letelier in Washington while its director was in liaison with, and once paid by, the CIA."
 start: 1974
 location: "Santiago, Chile"

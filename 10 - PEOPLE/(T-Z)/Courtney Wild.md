@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Courtney Wild
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -8,8 +10,6 @@ tags:
   - CrimeVictimsRightsAct
   - NonProsecutionAgreement
   - VictimsRights
-alias:
-  - Courtney Wild
 summary: "Courtney Wild is an Epstein survivor who, as Jane Doe 1, brought the 2008 Crime Victims' Rights Act challenge to his non-prosecution agreement, which ended when the Supreme Court denied review in 2022."
 location: "Florida"
 relations:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kashyap Patel
+  - FBI Director Kash Patel
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - NationalSecurityCouncil
   - JeffreyEpstein
   - EpsteinFiles
-alias:
-  - Kashyap Patel
-  - FBI Director Kash Patel
 summary: "Former federal prosecutor and House intelligence committee counsel, confirmed 51 to 49 as FBI director in 2025, whose bureau joined the July 2025 memo finding no Epstein client list warranting further disclosure."
 location: "Washington, D.C."
 created: 2026-09-25

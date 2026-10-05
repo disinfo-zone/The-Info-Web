@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Andrew Mountbatten-Windsor
+  - Duke of York
+  - Prince Andrew, Duke of York
 category: "Royalty & Aristocracy"
 tags:
   - AbuseNetworks
@@ -9,10 +13,6 @@ tags:
   - VirginiaGiuffre
   - BritishRoyalFamily
   - Newsnight
-alias:
-  - Andrew Mountbatten-Windsor
-  - Duke of York
-  - Prince Andrew, Duke of York
 summary: "Second son of Elizabeth II, friend of Jeffrey Epstein and Ghislaine Maxwell, who settled Virginia Giuffre's 2021 sexual-abuse suit in February 2022 without admitting liability and lost his royal titles in 2025."
 born: 1960-02-19
 location: "London, United Kingdom"

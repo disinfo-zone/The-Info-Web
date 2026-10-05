@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Allen & Company
+  - Allen & Co.
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - INSLAW
   - Hadron
   - InvestmentBank
-alias:
-  - Allen & Company
-  - Allen & Co.
 summary: "Wall Street investment bank of Charles Allen where Hadron's Dominic Laiti and Simeon's Paul Wormeli went for capital in September 1983, and which bought 7.8 percent of SCT for an unnamed client before SCT's 1986 bid for INSLAW, the two facts on which INSLAW built its Earl Brian financing theory."
 location: "New York City"
 created: 2026-09-22

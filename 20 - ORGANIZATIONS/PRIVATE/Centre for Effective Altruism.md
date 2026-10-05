@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Centre for Effective Altruism
+  - Center for Effective Altruism
+  - CEA
+  - Centre for Effective Altruism USA
+  - Centre for Effective Altruism USA Inc
+  - Centre For Effective Altruism Inc
+  - Centre for Effective Altruism UK
 category: "AI & Effective Altruism"
 tags:
   - Organization
@@ -11,14 +19,6 @@ tags:
   - CharityCommission
   - WythamAbbey
   - Longtermism
-alias:
-  - Centre for Effective Altruism
-  - Center for Effective Altruism
-  - CEA
-  - Centre for Effective Altruism USA
-  - Centre for Effective Altruism USA Inc
-  - Centre For Effective Altruism Inc
-  - Centre for Effective Altruism UK
 summary: "Oxford charity company incorporated in 2012 under MacAskill, Ord and Beckstead, with a US twin that Bankman-Fried served as treasurer and director, renamed Effective Ventures in 2022 and investigated after FTX's collapse."
 start: 2012-02-23
 location: "Oxford, England; San Francisco, California"

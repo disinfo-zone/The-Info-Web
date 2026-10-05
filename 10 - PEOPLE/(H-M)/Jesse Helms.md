@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Jesse A. Helms
+  - Senator Helms
 category: "Political Figure"
 tags:
   - NewRight
@@ -10,9 +13,6 @@ tags:
   - Chile
   - NelsonBunkerHunt
   - FairnessInMedia
-alias:
-  - Jesse A. Helms
-  - Senator Helms
 summary: "North Carolina broadcaster and senator whose direct-mail organization was built by two Pioneer Fund directors, took Nelson Bunker Hunt's money, tried to buy CBS, and was investigated in 1986 for a leak to Pinochet's government."
 location: "Raleigh, North Carolina"
 created: 2026-09-21

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - CNM
+  - Movimiento Nacionalista Cubano
 category: "Paramilitary"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - OperationCondor
   - LetelierAssassination
   - Terrorism
-alias:
-  - CNM
-  - Movimiento Nacionalista Cubano
 summary: "Cuban exile group in New Jersey whose leaders supplied the men who helped the Chilean secret police agent Michael Townley kill Orlando Letelier in Washington in 1976."
 location: "New Jersey"
 created: 2026-09-21

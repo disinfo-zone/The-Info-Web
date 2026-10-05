@@ -1,4 +1,7 @@
 ---
+aliases:
+  - BNL
+  - Banca Nazionale del Lavoro S.p.A.
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Iraq
   - ItalianSocialistParty
   - StateDepartment
-alias:
-  - BNL
-  - Banca Nazionale del Lavoro S.p.A.
 summary: "Italian state bank whose Atlanta branch lent Iraq billions off the books, whose head office was warned a year before the raid, and whose new chairman asked the American ambassador for damage control."
 start: 1913
 location: "Rome, Italy"

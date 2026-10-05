@@ -1,4 +1,7 @@
 ---
+aliases:
+  - James Dimon
+  - James L. Dimon
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - BankOne
   - JeffreyEpstein
   - Banking
-alias:
-  - James Dimon
-  - James L. Dimon
 summary: "American banker who has led JPMorgan Chase since 2005 and testified in 2023 that he knew nothing of Jeffrey Epstein as a client until 2019, while his deputies managed the relationship."
 born: 1956
 location: "New York, New York"

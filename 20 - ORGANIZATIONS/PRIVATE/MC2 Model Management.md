@@ -1,4 +1,7 @@
 ---
+aliases:
+  - MC2
+  - MC2 Models
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - JPMorganChase
   - Modeling
   - SexTrafficking
-alias:
-  - MC2
-  - MC2 Models
 summary: "Modeling agency founded in the mid-2000s by Jean-Luc Brunel with Jeffrey Epstein's money, which JPMorgan's own 2011 compliance report linked to Epstein in 'racketeering that involved luring in minor children.'"
 start: 2005
 location: "New York, New York and Miami, Florida"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ali Bhutto
+  - Z. A. Bhutto
 category: "Political Figure"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - BCCI
   - Nationalization
   - PakistanPeoplesParty
-alias:
-  - Ali Bhutto
-  - Z. A. Bhutto
 summary: "Pakistani prime minister whose government nationalized Agha Hasan Abedi's United Bank in 1974, who was deposed by Zia ul-Haq in 1977 and hanged in 1979."
 died: 1979-04-04
 created: 2026-09-23

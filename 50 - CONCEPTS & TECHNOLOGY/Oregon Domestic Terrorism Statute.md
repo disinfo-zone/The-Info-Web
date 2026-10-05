@@ -1,14 +1,5 @@
 ---
-category: "Legal Concept"
-tags:
-  - Concept
-  - StateLaw
-  - Oregon
-  - DomesticTerrorism
-  - CriminalLaw
-  - ToxicSubstance
-  - CriticalInfrastructure
-alias:
+aliases:
   - Oregon Domestic Terrorism Statute
   - ORS 166.125
   - ORS 166.128
@@ -18,6 +9,15 @@ alias:
   - House Bill 2772
   - Oregon Laws 2023 chapter 608
   - Domestic Terrorism in the First Degree (Oregon)
+category: "Legal Concept"
+tags:
+  - Concept
+  - StateLaw
+  - Oregon
+  - DomesticTerrorism
+  - CriminalLaw
+  - ToxicSubstance
+  - CriticalInfrastructure
 summary: "ORS 166.125 and 166.128 define Oregon's domestic terrorism offenses, created by House Bill 2772 (Oregon Laws 2023, chapter 608), with 'widespread' defined as impacting at least 50 human beings."
 relations:
   - type: funded

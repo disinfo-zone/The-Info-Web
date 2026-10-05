@@ -1,6 +1,9 @@
 ---
 aliases:
 - Garry Nolan
+  - Garry P. Nolan
+  - Garry Nolan, Ph.D.
+  - Dr. Garry Nolan
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,11 +11,6 @@ tags:
   - Stanford
   - SolFoundation
   - Akoya
-alias:
-  - Garry Nolan
-  - Garry P. Nolan
-  - Garry Nolan, Ph.D.
-  - Dr. Garry Nolan
 summary: "Garry Nolan is a leading research scientist at Stanford University, specializing in genetics, immunology, and bioinformatics."
 relations:
 relations:

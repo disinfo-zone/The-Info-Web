@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Amir Elichai
 category: "Technologists"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - JeffreyEpstein
   - Israel
   - Surveillance
-alias:
-  - Amir Elichai
 summary: "Israeli founder and chief executive of Carbyne, formerly Reporty Homeland Security, whose board included Ehud Barak and a former Unit 8200 commander and in which Jeffrey Epstein invested."
 location: "Tel Aviv, Israel"
 created: 2026-09-25

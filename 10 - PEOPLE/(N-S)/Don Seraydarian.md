@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Don G. Seraydarian
 category: "Medicine & Psychology"
 tags:
   - Person
   - Psychologist
   - BucksCounty
   - RCHorsch
-alias:
-  - Don G. Seraydarian
 summary: "Bucks County forensic psychologist whose 1985 examination of R.C. Horsch, made for his federal sentencing, described a grandiose and controlling man consumed by anger."
 location: "Langhorne, Pennsylvania"
 created: 2026-09-23

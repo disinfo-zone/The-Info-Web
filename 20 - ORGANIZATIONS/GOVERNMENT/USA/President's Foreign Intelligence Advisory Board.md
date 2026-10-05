@@ -1,4 +1,8 @@
 ---
+aliases:
+  - "PFIAB"
+  - "President's Board of Consultants on Foreign Intelligence Activities"
+  - "President's Intelligence Advisory Board"
 category: "Intelligence & Government"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - CIA
   - CovertAction
   - ColdWar
-alias:
-  - "PFIAB"
-  - "President's Board of Consultants on Foreign Intelligence Activities"
-  - "President's Intelligence Advisory Board"
 summary: "White House board of private citizens created by Eisenhower in 1956 to review foreign intelligence and the CIA, renamed by Kennedy in 1961, abolished by Carter in 1977 and later re-established."
 start: 1956-01-13
 location: "Washington, D.C."

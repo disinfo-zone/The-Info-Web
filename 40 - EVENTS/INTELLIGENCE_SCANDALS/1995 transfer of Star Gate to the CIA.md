@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Star Gate transfer
+  - Star Gate CDA
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -8,9 +11,6 @@ tags:
   - DIA
   - Congress
   - Declassification
-alias:
-  - Star Gate transfer
-  - Star Gate CDA
 summary: "The 1995 Congressionally directed transfer of the DIA's Star Gate remote-viewing program to the CIA, which the CIA used to review, declassify and close it."
 start: 1994-12-14
 end: 1995-09-27

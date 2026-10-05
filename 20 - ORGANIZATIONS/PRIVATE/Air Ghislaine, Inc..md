@@ -1,15 +1,5 @@
 ---
-category: "Private Organization"
-tags:
-  - Organization
-  - JeffreyEpstein
-  - GhislaineMaxwell
-  - AirGhislaine
-  - ShellCompany
-  - Aircraft
-  - Delaware
-  - JPMorgan
-alias:
+aliases:
   - Air Ghislaine
   - Air Ghislaine Inc
   - Air Ghislaine Inc.
@@ -22,6 +12,16 @@ alias:
   - Freedom Air International Inc.
   - Freedom Air International Inc
   - Freedom Air International
+category: "Private Organization"
+tags:
+  - Organization
+  - JeffreyEpstein
+  - GhislaineMaxwell
+  - AirGhislaine
+  - ShellCompany
+  - Aircraft
+  - Delaware
+  - JPMorgan
 summary: "Delaware aircraft company of Jeffrey Epstein, bearing Ghislaine Maxwell's first name, that held jet shares and helicopters from 2000, was renamed Shmitka Air and then Freedom Air International in 2010, and dissolved in 2012."
 start: 2000-01-29
 end: 2012-12-07

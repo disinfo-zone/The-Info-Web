@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Ulster Institute for Social Research
+  - Ulster Institute
+  - UISR
+  - USIR
 category: "Private Organization"
 tags:
   - Organization
@@ -9,11 +14,6 @@ tags:
   - RaceScience
   - HumanBiodiversity
   - Publisher
-alias:
-  - Ulster Institute for Social Research
-  - Ulster Institute
-  - UISR
-  - USIR
 summary: "London publisher and research sponsor founded by Richard Lynn, paid 609,000 dollars by the Pioneer Fund from 1990 to 1996 and the publisher of Mankind Quarterly from January 2015."
 location: "London, England"
 relations:

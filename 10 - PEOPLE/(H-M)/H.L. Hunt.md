@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Haroldson Lafayette Hunt
+  - Haroldson Lafayette Hunt Jr.
+  - Franklin Hunt
 category: "Business & Finance"
 tags:
   - KeyFigure
@@ -12,10 +16,6 @@ tags:
   - McCarthyism
   - FBI
   - RadioRight
-alias:
-  - Haroldson Lafayette Hunt
-  - Haroldson Lafayette Hunt Jr.
-  - Franklin Hunt
 summary: "Dallas oil billionaire who financed the Facts Forum and Life Line broadcasts, kept three families, corresponded with J. Edgar Hoover for twenty years, and whose offices Jack Ruby visited the day before the Kennedy assassination."
 born: 1889-02-17
 died: 1974-11-29

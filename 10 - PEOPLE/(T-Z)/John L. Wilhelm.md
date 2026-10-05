@@ -1,4 +1,10 @@
 ---
+aliases:
+  - John L. Wilhelm
+  - John Wilhelm
+  - John Lenhart Wilhelm III
+  - John Lenhart Wilhelm
+  - Wilhelm
 category: "Authors & Journalists"
 tags:
   - Person
@@ -9,12 +15,6 @@ tags:
   - Parapsychology
   - HPSCI
   - Documentary
-alias:
-  - John L. Wilhelm
-  - John Wilhelm
-  - John Lenhart Wilhelm III
-  - John Lenhart Wilhelm
-  - Wilhelm
 summary: "Time science correspondent whose 1976 book The Search for Superman and August 7, 1977 Washington Post article on psychic spying drew a CIA memorandum in 1974 and a House intelligence committee briefing in 1977."
 location: "Washington, D.C."
 relations:

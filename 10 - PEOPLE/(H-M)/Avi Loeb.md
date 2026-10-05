@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Abraham Loeb
+  - Abraham "Avi" Loeb
+  - Loeb, Avi
 category: "UFO & Anomalous Phenomena"
 tags:
   - UFO
@@ -7,10 +11,6 @@ tags:
   - Harvard
   - UAP
   - Author
-alias:
-  - Abraham Loeb
-  - Abraham "Avi" Loeb
-  - Loeb, Avi
 summary: "Avi Loeb is Harvard's Frank B. Baird Jr. Professor of Science and head of the Galileo Project, co-founded with Frank Laukien in 2021, and led the 2023 IM1 expedition funded by Charles Hoskinson."
 location: "Cambridge, Massachusetts"
 relations:

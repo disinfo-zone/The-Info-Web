@@ -1,4 +1,12 @@
 ---
+aliases:
+  - U.S. Attorney's Office for the Southern District of New York
+  - United States Attorney's Office for the Southern District of New York
+  - U.S. Attorney's Office, Southern District of New York
+  - Southern District of New York
+  - SDNY
+  - USAO-SDNY
+  - Manhattan U.S. Attorney's Office
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,14 +16,6 @@ tags:
   - GhislaineMaxwell
   - SDNY
   - Manhattan
-alias:
-  - U.S. Attorney's Office for the Southern District of New York
-  - United States Attorney's Office for the Southern District of New York
-  - U.S. Attorney's Office, Southern District of New York
-  - Southern District of New York
-  - SDNY
-  - USAO-SDNY
-  - Manhattan U.S. Attorney's Office
 summary: "Federal prosecutor's office for Manhattan, the Bronx and six northern counties, which indicted Jeffrey Epstein in 2019 through its Public Corruption Unit, convicted Ghislaine Maxwell, and charged his jail guards."
 location: "New York, New York"
 relations:

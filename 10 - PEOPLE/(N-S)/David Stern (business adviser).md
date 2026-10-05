@@ -1,4 +1,7 @@
 ---
+aliases:
+  - David Stern (business adviser)
+  - David Stern, business adviser to the Duke of York
 category: "Business & Finance"
 tags:
   - AbuseNetworks
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - EpsteinFiles
   - Witan
-alias:
-  - David Stern (business adviser)
-  - David Stern, business adviser to the Duke of York
 summary: "Business adviser to Prince Andrew, described by the BBC as \"the prince's business aide,\" director of the English company Witan Limited (formerly Asia Gateway Limited) and a correspondent of Jeffrey Epstein, 2011 to 2013."
 relations:
   - type: contractor_to

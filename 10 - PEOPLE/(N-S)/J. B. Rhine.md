@@ -1,4 +1,11 @@
 ---
+aliases:
+  - J. B. Rhine
+  - Joseph Banks Rhine
+  - Joseph B. Rhine
+  - Joseph Rhine
+  - Dr. J. B. Rhine
+  - Dr. Rhine
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -12,13 +19,6 @@ tags:
   - Founder
   - 1930s
   - 1950s
-alias:
-  - J. B. Rhine
-  - Joseph Banks Rhine
-  - Joseph B. Rhine
-  - Joseph Rhine
-  - Dr. J. B. Rhine
-  - Dr. Rhine
 summary: "Botanist turned Duke psychologist who ran the university's Parapsychology Laboratory from 1930, founded the Journal of Parapsychology, and took Army (1951 to 1953) and Navy (1953 to 1959) research money for animal ESP work."
 born: 1895-09-29
 died: 1980-02-20

@@ -1,17 +1,17 @@
 ---
-category: "Business & Finance"
-tags:
-  - Person
-  - VentureCapital
-  - Russia
-  - EpsteinFiles
-alias:
+aliases:
   - Masha Drokova
   - Maria Drokova
   - Mariia Drokova
   - Maria Aleksandrovna Drokova
   - Masha Bucher
   - Mariia Bucher
+category: "Business & Finance"
+tags:
+  - Person
+  - VentureCapital
+  - Russia
+  - EpsteinFiles
 summary: "Former Nashi commissar in Moscow, founder of the San Francisco fund Day One Ventures, and a correspondent of Jeffrey Epstein from March 2017 to June 2019 who arranged press contacts and introductions."
 location: "San Francisco"
 relations:

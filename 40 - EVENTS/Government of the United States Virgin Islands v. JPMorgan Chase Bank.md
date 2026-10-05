@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Government of the United States Virgin Islands v. JPMorgan Chase Bank, N.A.
+  - USVI v. JPMorgan
+  - USVI v. JPMorgan Chase
+  - Virgin Islands v. JPMorgan
+  - Government of the U.S. Virgin Islands v. JPMorgan Chase Bank
 category: "Law Enforcement & Legal"
 tags:
   - Event
@@ -9,12 +15,6 @@ tags:
   - JesStaley
   - ProjectJeep
   - SouthernDistrictOfNewYork
-alias:
-  - Government of the United States Virgin Islands v. JPMorgan Chase Bank, N.A.
-  - USVI v. JPMorgan
-  - USVI v. JPMorgan Chase
-  - Virgin Islands v. JPMorgan
-  - Government of the U.S. Virgin Islands v. JPMorgan Chase Bank
 summary: "The Virgin Islands' 2022 federal suit accusing JPMorgan of facilitating Jeffrey Epstein's trafficking, heard by Judge Jed Rakoff with two victims' bank suits and settled in 2023 for 75 million dollars."
 start: 2022-12-27
 end: 2023-10-18

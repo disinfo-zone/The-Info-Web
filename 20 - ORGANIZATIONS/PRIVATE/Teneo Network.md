@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Teneo Network
 category: "Private Organization"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - DarkMoney
   - FederalistSociety
   - ConservativeMovement
-alias:
-  - Teneo Network
 summary: "Teneo Network is a private, members-only conservative leadership organization founded in 2008 by Evan Baehr and Josh Hawley, chaired since 2021 by Leonard Leo, whose stated goal is to recruit, connect, and deploy influential conservatives across American institutions to, in Leo's words, 'crush liberal dominance.'"
 location: "United States"
 created: 2026-06-17

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nilo Floody Buxton
 category: "Military"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - ChileanArmy
   - OrlandoLetelier
   - VernonWalters
-alias:
-  - Nilo Floody Buxton
 summary: "Chilean division general who headed the military mission in Washington in 1976, received the two DINA captains at his home in late August, and had his secretary telephone Vernon Walters's office."
 location: "Washington, D.C."
 created: 2026-09-21

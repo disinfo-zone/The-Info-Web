@@ -1,4 +1,11 @@
 ---
+aliases:
+  - James A. Baker III
+  - James Baker
+  - Jim Baker
+  - James Addison Baker III
+  - James A. Baker, III
+  - Secretary Baker
 category: "Political Figure"
 tags:
   - Person
@@ -20,13 +27,6 @@ tags:
   - SaudiArabia
   - IraqStudyGroup
   - Texas
-alias:
-  - James A. Baker III
-  - James Baker
-  - Jim Baker
-  - James Addison Baker III
-  - James A. Baker, III
-  - Secretary Baker
 summary: "Lawyer and Republican campaign manager who was Reagan's chief of staff and Treasury Secretary and Bush's Secretary of State, then Baker Botts senior partner, Carlyle senior counselor, Iraqi debt envoy and Iraq Study Group co-chair."
 born: 1930-04-28
 location: "Houston, Texas"

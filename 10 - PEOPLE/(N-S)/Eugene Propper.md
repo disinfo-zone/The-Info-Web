@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Eugene M. Propper
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - DINA
   - MichaelTownley
   - PrivateSecurity
-alias:
-  - Eugene M. Propper
 summary: "Federal prosecutor of the Letelier murder, from whom the CIA withheld its 1976 knowledge of the Chilean agents' passports, and who in 1988 formed a counterterrorism consultancy with the FBI men from the case."
 location: "Washington, D.C."
 created: 2026-09-21

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - George Church
+  - George M. Church
+  - George McDonald Church
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - Transhumanism
   - InQTel
   - SciencePhilanthropy
-alias:
-  - George Church
-  - George M. Church
-  - George McDonald Church
 summary: "George Church is a Harvard Medical School geneticist who took Jeffrey Epstein's money from 2005 to 2007, received Epstein-introduced Leon Black gifts, and in 2014 formed the investment vehicle Georgarage with Epstein."
 born: 1954
 location: "Boston, Massachusetts"

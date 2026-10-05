@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Southern Financial, LLC
+  - Southern Financial
+  - Southern Financial L.L.C.
 category: "Private Organization"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - DeutscheBank
   - ApolloGlobalManagement
   - LeonBlack
-alias:
-  - Southern Financial, LLC
-  - Southern Financial
-  - Southern Financial L.L.C.
 summary: "Jeffrey Epstein's St. Thomas limited liability company, registered in 2013, which held his Apollo Global Management shares and anchored a Deutsche Bank relationship worth about 98.6 million dollars in 2016."
 start: 2013-02-25
 location: "6100 Red Hook Quarter, B3, St. Thomas, U.S. Virgin Islands"

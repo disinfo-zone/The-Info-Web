@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Fatherland and Liberty
+  - Frente Nacionalista Patria y Libertad
 category: "Paramilitary"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - ProjectFUBELT
   - Paramilitary
   - ChileanCoup1973
-alias:
-  - Fatherland and Liberty
-  - Frente Nacionalista Patria y Libertad
 summary: "Chilean rightist paramilitary group formed after Salvador Allende's election in 1970, which received 38,500 dollars from the CIA during the agency's coup plotting and joined the failed tank uprising of June 1973."
 start: 1970
 location: "Santiago, Chile"

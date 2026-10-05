@@ -1,4 +1,9 @@
 ---
+aliases:
+  - George Lawrence
+  - George H. Lawrence
+  - Dr. George Lawrence
+  - G. H. Lawrence
 category: "Intelligence & Government"
 tags:
   - Person
@@ -13,11 +18,6 @@ tags:
   - PSI
   - 1970s
   - 1980s
-alias:
-  - George Lawrence
-  - George H. Lawrence
-  - Dr. George Lawrence
-  - G. H. Lawrence
 summary: "ARPA projects manager who joined Ray Hyman and Robert Van de Castle at SRI's Uri Geller experiments on December 8, 1972, and later monitored the NRC's 1988 performance-techniques study for the Army Research Institute."
 relations:
   - type: employed_by

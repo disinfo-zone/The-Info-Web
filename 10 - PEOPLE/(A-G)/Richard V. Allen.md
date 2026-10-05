@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Richard Allen
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ summary: "Allen personally relayed the message to Ariel Sharon in the fall of 19
 born: 1936-01-01
 died: 2024-11-16
 location: "Collingswood, New Jersey"
-alias:
-  - Richard Allen
 ---
 
 Richard V. Allen was the National Security Advisor to President [[Ronald Reagan]]. He was informed of the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981. Allen immediately telephoned Reagan, who privately expressed delight at the attack. Allen was present at a meeting of Reagan's high command where [[Caspar Weinberger]] proposed canceling F-16 aircraft sales to [[Israel]], but Reagan had no intention of taking such a step.[^1]

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - ECR
+  - Employee Owned Contractors Roundtable
+  - Employee-Owned Contractor Roundtable
+  - ECR Coalition
+  - Employee-Owned Contractors Roundtable (ECR)
+  - Venn Strategies on behalf of Employee-Owned Contractors Roundtable
 category: "Organizations"
 tags:
   - Organization
@@ -8,13 +15,6 @@ tags:
   - ESOP
   - DefenseContracting
   - NDAA
-alias:
-  - ECR
-  - Employee Owned Contractors Roundtable
-  - Employee-Owned Contractor Roundtable
-  - ECR Coalition
-  - Employee-Owned Contractors Roundtable (ECR)
-  - Venn Strategies on behalf of Employee-Owned Contractors Roundtable
 summary: "Washington coalition of federal contractors organized as S corporations wholly owned through employee stock ownership plans, represented by Venn Strategies since 2017 and named as the source of the section 874 sole-source pilot."
 location: "Washington, D.C."
 relations:

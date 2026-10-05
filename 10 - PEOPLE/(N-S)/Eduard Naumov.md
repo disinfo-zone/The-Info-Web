@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Eduard Naumov
+  - Edward Naumov
+  - Eduard K. Naumov
+  - Edward K. Naumov
+  - Eduard Konstantinovich Naumov
+  - E. K. Naumov
+  - Professor Naumov
+  - Naumov
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,15 +17,6 @@ tags:
   - PopovSociety
   - Telepathy
   - Moscow
-alias:
-  - Eduard Naumov
-  - Edward Naumov
-  - Eduard K. Naumov
-  - Edward K. Naumov
-  - Eduard Konstantinovich Naumov
-  - E. K. Naumov
-  - Professor Naumov
-  - Naumov
 summary: "Moscow parapsychologist, the Soviet Union's best-known public spokesman for the subject in the 1960s, who described a Soviet submarine telepathy test to Western writers in 1968, sentenced to a labor camp in 1974."
 born: 1936
 died: 1997
@@ -54,7 +54,7 @@ updated: 2026-10-05
 
 Eduard Konstantinovich Naumov was a [[Moscow]] biologist who became the best-known popularizer of parapsychology in the [[Soviet Union]] of the 1960s. The researcher Igor Tsykunov gives his years as 1936 to 1997.[^1] [[Sheila Ostrander]] and [[Lynn Schroeder]], who met him in 1968, wrote that he was then thirty-six and had given more than 460 lectures on ESP across the country, showing scientific films at scores of institutes, and said that the parapsychologist's profession "didn't exist in the Soviet Union" a decade earlier. He told them that in 1957 Soviet publications carried three articles against the subject and none for it, and in 1966 152 articles on psychic research, fifteen of them negative. He named the Kiev publicist [[Bernard Kazhinsky]] as an early mentor, whose book he had arranged to be published by the [[Soviet Academy of Sciences|Academy of Sciences]] in [[Kiev]] after Moscow refused.[^2]
 
-### [[Popov Society]] and technical parapsychology
+### Popov Society and technical parapsychology
 
 Naumov was deputy chairman of the Bio-Information Section of the A. S. Popov All-Union Scientific and Technical Society of Radio Technology and Electrical Communications, directed by [[I. M. Kogan]], in March 1967, when he accompanied the telepath [[Karl Nikolaev]] to Leningrad for the second Moscow-Leningrad telepathy experiment with the electrophysiologist [[Lyutsia Pavlova]] and [[Genady Sergeyev]].[^2][^1] A DIA study of 1975 named a "Naumov-Sergeyev-Pavlova team" that found EEG records changed when a telepathic impulse carried an emotional message.[^3] Ostrander and Schroeder wrote that he broke with the Popov group, which worked exclusively on telepathy, and founded a section of technical parapsychology attached to the Scientific and Technical Association for Instrument Engineering; by May 1968 he had been for ten months chief of technical parapsychology at a laboratory affiliated with the physics department of the State Instrument Engineering College of Moscow, whose creation they said was presided over by the [[Moscow State University|Moscow University]] physicist [[Yakov Terletsky]], [[E. Sitkovsky]] of the Communist Party's [[Academy of Social Sciences]], and [[Pavel Oshchepkov]], founder of Soviet radar. He described work on a man who moved a cigarette with psychokinesis only when drunk, on skin sight, on psychic photography, on [[Kirlian Photography|Kirlian]] currents in the hands of mediums, and on the effect of telepathy on groups.[^2] The DIA's 1972 report named him chairman of the Division of Technical Parapsychology at the Popov institute, credited him with long-range telepathy tests from Moscow to several cities, and reproduced a photograph of him with Nikolaev and the physicist [[Yuri Kamensky]].[^4] The 1978 DIA study located his "Laboratory of Technical Parapsychology" "probably at the [[Polytechnic Museum|Polytechnical Museum]]," with objectives of telepathy, psychokinesis and "psychoenergetics in general," long-distance message transmission and sensitive instruments for electromagnetic or physiological parameters, and noted his interest in behavior modification.[^5] Among his publications Ostrander and Schroeder listed "Brain Reserves" (*[[Nauka i Religiya|Science and Religion]]*, 1966), "What Is Parapsychology?" (*[[Moskovskaya Pravda]]*, August 14, 1966) and "Extra-Terrestrial Civilizations and Parapsychology" (*Moskovskaya Pravda*, March 14, 1967); a [[United States Air Force|U.S. Air Force]] [[Foreign Technology Division]] translation of his *The Riddle of Psi Phenomena* (FTD TT 64-288, 1964) is listed in a 1985 Army thesis.[^2][^6]
 

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - DOJ Office of Inspector General
+  - DOJ Office of the Inspector General
+  - DOJ OIG
+  - Justice Department's Inspector General
+  - Justice Department Inspector General
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - JeffreyEpstein
   - MetropolitanCorrectionalCenter
   - Oversight
-alias:
-  - DOJ Office of Inspector General
-  - DOJ Office of the Inspector General
-  - DOJ OIG
-  - Justice Department's Inspector General
-  - Justice Department Inspector General
 summary: "Internal watchdog of the Justice Department whose June 2023 report on Jeffrey Epstein's custody found jail staff failures but no evidence contradicting the FBI's finding of no criminality in his death."
 location: "Washington, D.C."
 created: 2026-09-25

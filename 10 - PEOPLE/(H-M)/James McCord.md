@@ -1,4 +1,7 @@
 ---
+aliases:
+  - James W. McCord Jr.
+  - James W. McCord
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - CIA
   - CIAOfficeOfSecurity
   - LeePennington
-alias:
-  - James W. McCord Jr.
-  - James W. McCord
 summary: "CIA Office of Security officer from 1951 to 1970, arrested inside the Watergate in June 1972, whose letter to Judge Sirica broke the cover-up and whose papers a paid CIA informant watched being burned."
 born: 1924-01-26
 died: 2017-06-15

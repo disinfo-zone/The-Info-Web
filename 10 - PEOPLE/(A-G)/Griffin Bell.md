@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Griffin Bell
+  - Griffin B. Bell
+  - Griffin Boyette Bell
+  - Judge Bell
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -13,11 +18,6 @@ tags:
   - IranContra
   - Georgia
   - 1970s
-alias:
-  - Griffin Bell
-  - Griffin B. Bell
-  - Griffin Boyette Bell
-  - Judge Bell
 summary: "Georgia lawyer and Fifth Circuit judge who, as Carter's Attorney General, testified for the FISA bill, countersigned Liddy's commutation, and headed the department that charged FBI officials Felt and Miller and two ITT executives."
 born: 1918-10-31
 died: 2009-01-05

@@ -1,14 +1,14 @@
 ---
+aliases:
+  - Americans for Safe Aerospace
+  - ASA
+  - Safe Aerospace
 category: "Private Organization"
 tags:
   - Organization
   - UAP
   - Nonprofit
   - Aviation
-alias:
-  - Americans for Safe Aerospace
-  - ASA
-  - Safe Aerospace
 summary: "Washington, D.C. nonprofit founded by Ryan Graves, recognized as a 501(c)(3) in January 2024, which collects pilot and witness reports of unidentified anomalous phenomena and filed Forms 990-EZ for 2024 and 2025."
 location: "Washington, D.C."
 relations:

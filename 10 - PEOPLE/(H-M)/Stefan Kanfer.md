@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Stefan Kanfer
+  - Steve Kanfer
+  - Kanfer
 category: "Authors & Journalists"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - UriGeller
   - SRI
   - Parapsychology
-alias:
-  - Stefan Kanfer
-  - Steve Kanfer
-  - Kanfer
 summary: "Time associate editor who wrote the March 4, 1974 cover story on psychic phenomena, an amateur magician who treated Uri Geller and the SRI research as unproven and called for examiners with no prior belief."
 born: 1933-05-17
 died: 2018-06-19

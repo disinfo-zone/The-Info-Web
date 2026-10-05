@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Frankfurt, Germany
+  - Frankfurt am Main
 category: "City"
 tags:
   - City
@@ -6,9 +9,6 @@ tags:
   - BCCI
   - SeriousFraudOffice
   - Extradition
-alias:
-  - Frankfurt, Germany
-  - Frankfurt am Main
 summary: "German city where Abbas Gokal, principal of the Gulf Group and chief defendant in the Serious Fraud Office's BCCI prosecution, was arrested aboard a New York flight in July 1994."
 location: "Frankfurt am Main, Germany"
 created: 2026-09-23

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ehud Barak
 category: "Political Figure"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - Palantir
   - Carbyne
   - Intelligence
-alias:
-  - Ehud Barak
 summary: "Ehud Barak is the former Israeli prime minister and military intelligence chief who was paid 2.3 million dollars by the Epstein-linked Wexner Foundation and channeled Jeffrey Epstein's 2015 investment into Carbyne."
 born: 1942-02-12
 location: "Mishmar HaSharon, Mandatory Palestine (born)"

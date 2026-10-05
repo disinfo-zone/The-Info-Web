@@ -1,4 +1,8 @@
 ---
+aliases:
+  - KIFCO
+  - Kifco
+  - Kuwaiti Investment Finance Company
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - Kuwait
   - ParallelBank
   - SandstormReport
-alias:
-  - KIFCO
-  - Kifco
-  - Kuwaiti Investment Finance Company
 summary: "Kuwaiti finance company in which BCCI ostensibly held 49 percent but which it controlled through its nominee Faisal al-Fulaij, used as a parallel bank to move and disguise BCCI funds."
 location: "Kuwait"
 relations:

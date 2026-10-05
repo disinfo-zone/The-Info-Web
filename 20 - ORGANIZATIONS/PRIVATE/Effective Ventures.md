@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Effective Ventures
+  - Effective Ventures Foundation
+  - Effective Ventures US
+  - EV
 category: "Private Organization"
 tags:
   - Organization
@@ -7,11 +12,6 @@ tags:
   - FTX
   - Longtermism
   - Philanthropy
-alias:
-  - Effective Ventures
-  - Effective Ventures Foundation
-  - Effective Ventures US
-  - EV
 summary: "Effective Ventures was the umbrella charity that legally housed the central effective-altruism organizations, took roughly 27 million dollars from Sam Bankman-Fried's FTX in 2022, repaid all of it to the FTX bankruptcy estate in a 2024 settlement, and then resolved to spin out all of its projects into independent bodies."
 location: "Oxford, England; United States"
 created: 2026-06-20

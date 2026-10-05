@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Raymond Horsch
+  - Raymond Charles Hoersch
+  - Raymond C. Hoersch Jr.
+  - Ray Hoersch
+  - Ray Horsch
+  - R. C. Hörsch
+  - Stanley Edward Stokowski
+  - Stanley Stokowski
+  - Richard Harris
+  - Ich Bin Niemand
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -13,17 +24,6 @@ tags:
   - OrganizedCrime
   - NewZealand
   - Fugitive
-alias:
-  - Raymond Horsch
-  - Raymond Charles Hoersch
-  - Raymond C. Hoersch Jr.
-  - Ray Hoersch
-  - Ray Horsch
-  - R. C. Hörsch
-  - Stanley Edward Stokowski
-  - Stanley Stokowski
-  - Richard Harris
-  - Ich Bin Niemand
 summary: "Philadelphia pornographic filmmaker, counterfeiter and fugitive who lived in New Zealand under a stolen identity, said he wiretapped for Wackenhut in the 1960s, and whose Olney house is the center of a 2026 missing-women investigation."
 born: 1943
 died: 2025

@@ -28,7 +28,7 @@ The 2000 [[Senate Select Committee on Intelligence|Church Committee]] successor 
 
 Pinochet's Chile was a founding participant in [[Operation Condor]], the CIA-facilitated transnational network of South American military intelligence services (Chile, [[Argentina]], [[Paraguay]], [[Uruguay]], [[Bolivia]], [[Brazil]]) that coordinated the identification, tracking, and assassination of leftist dissidents across borders and in third countries. Condor's operations killed thousands of people across the continent; documented Condor assassinations include the 1974 car bombing of General [[Carlos Prats]] in [[Buenos Aires]] and the 1976 car bombing in [[Washington, D.C.]] of former Chilean diplomat [[Orlando Letelier]] - a rare Condor operation on American soil. The Letelier assassination was carried out by the [[DINA]] (Chilean secret police) under [[Manuel Contreras]]; Contreras was convicted in Chile in 1995.[^2]
 
-### Arms and [[Carlos Cardoen]]
+### Arms and Carlos Cardoen
 
 Chilean arms manufacturer [[Carlos Cardoen]] operated with CIA connections during the Pinochet era, developing cluster munitions and other weapons that were supplied to [[Iraq]] during the [[Iran-Iraq War]]. Cardoen's operations blended private arms manufacturing with intelligence relationships cultivated under Pinochet's government. Cardoen's companies were investigated by the U.S. government following the Persian Gulf War for their role in Iraq's weapons procurement.[^1]
 

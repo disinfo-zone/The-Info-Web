@@ -1,10 +1,10 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - Dirección de los Servicios de Inteligencia y Prevención
   - Dirección de Servicios de Inteligencia y Prevención
   - Direccion de los Servicios de Inteligencia y Prevencion
   - Disip
+category: "Intelligence & Government"
 tags:
   - Organization
   - Venezuela

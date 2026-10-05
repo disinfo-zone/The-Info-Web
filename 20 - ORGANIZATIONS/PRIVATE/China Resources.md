@@ -1,4 +1,10 @@
 ---
+aliases:
+  - China Resources (Holdings)
+  - China Resources (Holdings) Co., Ltd.
+  - China Resources Company
+  - CR
+  - Liow & Co.
 category: "Private Organization"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - LippoGroup
   - CampaignFinance
   - Intelligence
-alias:
-  - China Resources (Holdings)
-  - China Resources (Holdings) Co., Ltd.
-  - China Resources Company
-  - CR
-  - Liow & Co.
 summary: "Hong Kong trading company of the Chinese government, founded in 1938, which became the Lippo Group's principal partner in China and bought 15 percent of the Hong Kong Chinese Bank in 1992."
 start: 1938
 location: "Hong Kong"

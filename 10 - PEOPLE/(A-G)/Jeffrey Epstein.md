@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jeffrey Edward Epstein
+  - Jeffrey E. Epstein
+  - JEE
 category: "Criminals & Offenders"
 tags:
   - KeyFigure
@@ -18,10 +22,6 @@ tags:
   - NonProsecutionAgreement
   - USVirginIslands
   - Carbyne
-alias:
-  - Jeffrey Edward Epstein
-  - Jeffrey E. Epstein
-  - JEE
 summary: "Jeffrey Epstein was an American financier and convicted sex offender who trafficked girls with Ghislaine Maxwell across five residences, cultivated financiers, politicians, scientists and intelligence officials, and died in federal custody in 2019."
 born: 1953-01-20
 died: 2019-08-10

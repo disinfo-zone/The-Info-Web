@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lanna Belohlavek
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - PalmBeach
   - GrandJury
   - NonProsecutionAgreement
-alias:
-  - Lanna Belohlavek
 summary: "Palm Beach County assistant state attorney and Crimes Against Children Unit chief who presented the 2006 Epstein case to the grand jury that returned one solicitation count, later cleared by state investigators."
 location: "West Palm Beach, Florida"
 relations:

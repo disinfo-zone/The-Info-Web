@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Walter J. Clayton III
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -10,8 +12,6 @@ tags:
   - DirectorOfNationalIntelligence
   - JeffreyEpstein
   - EpsteinFiles
-alias:
-  - Walter J. Clayton III
 summary: "Sullivan & Cromwell partner whose clients included Deutsche Bank and Reid Hoffman, SEC chairman, Apollo chairman after Leon Black, SDNY U.S. Attorney assigned Epstein matters in 2025, then Director of National Intelligence."
 location: "New York, New York"
 relations:

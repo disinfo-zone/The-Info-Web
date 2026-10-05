@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Cecilia Hagerty
+  - Cecilia T. Stock
 category: "Other"
 tags:
   - AbuseNetworks
   - Person
   - RCHorsch
   - Stroudsburg
-alias:
-  - Cecilia Hagerty
-  - Cecilia T. Stock
 summary: "Stroudsburg nurse and maternal grandmother of the pornographer and fugitive R.C. Horsch."
 died: 1991-10-25
 location: "Stroudsburg, Pennsylvania"

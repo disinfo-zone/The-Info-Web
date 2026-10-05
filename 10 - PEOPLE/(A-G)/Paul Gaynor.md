@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Paul F. Gaynor
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - SecurityResearchStaff
   - Watergate
   - LeePennington
-alias:
-  - Paul F. Gaynor
 summary: "Chief of the CIA Security Research Staff, who paid Lee Pennington 250 dollars a month and received James McCord's unsigned letters in the winter of 1972, until the staff's abolition in August 1973."
 location: "Langley, Virginia"
 created: 2026-09-21

@@ -1,7 +1,7 @@
 ---
-category: "Entertainment & Arts"
-alias:
+aliases:
   - John R. Butterworth
+category: "Entertainment & Arts"
 tags:
   - AbuseNetworks
   - Person

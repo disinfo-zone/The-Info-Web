@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cubana Flight 455
+  - Cubana bombing
 category: "Terrorism"
 tags:
   - Event
@@ -9,9 +12,6 @@ tags:
   - LuisPosadaCarriles
   - DISIP
   - CIA
-alias:
-  - Cubana Flight 455
-  - Cubana bombing
 summary: "Bombing of a Cubana DC-8 off Barbados on October 6, 1976, killing 73, planned in Caracas by Luis Posada Carriles, Orlando Bosch, and a DISIP officer, after a CIA source heard Posada promise it."
 start: 1976-10-06
 location: "Barbados"

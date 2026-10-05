@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Abdullah Bakhsh
+  - Sheikh Abdullah Taha Bakhsh
 category: "Business & Finance"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - GeorgeWBush
   - Oil
   - Investor
-alias:
-  - Abdullah Bakhsh
-  - Sheikh Abdullah Taha Bakhsh
 summary: "Jeddah investor who from 1987 held about 11 percent of Harken Energy, the Texas oil company of which George W. Bush was a director, through Netherlands Antilles companies."
 location: "Jeddah, Saudi Arabia"
 relations:

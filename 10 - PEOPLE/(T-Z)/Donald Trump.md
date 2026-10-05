@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Donald John Trump
 category: "Political Figure"
 tags:
   - KeyFigure
@@ -12,8 +14,6 @@ tags:
   - LeonardLeo
   - DarkMoney
   - FederalistSociety
-alias:
-  - Donald John Trump
 summary: "Donald Trump is the 45th and 47th President of the United States, whose administrations placed figures from the Peter Thiel, Leonard Leo and Jared Kushner networks in federal power and oversaw the Epstein file releases."
 born: 1946-06-14
 location: "Queens, New York City (born)"

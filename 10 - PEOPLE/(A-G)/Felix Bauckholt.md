@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ophelia Bauckholt
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Rationalism
   - QuantitativeFinance
   - Violence
-alias:
-  - Ophelia Bauckholt
 summary: "Felix 'Ophelia' Bauckholt was a German national and elite quantitative trader, a former informatics-olympiad gold medalist and Tower Research Capital trader, who became part of the Zizian group and was shot dead in the January 2025 Vermont shootout that killed Border Patrol agent David Maland."
 died: 2025-01-20
 location: "Jersey City, New Jersey"

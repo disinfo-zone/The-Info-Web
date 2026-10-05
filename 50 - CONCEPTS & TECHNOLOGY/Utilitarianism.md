@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Utilitarianism
+  - Consequentialism
 category: "Ideology"
 tags:
   - Concept
@@ -6,9 +9,6 @@ tags:
   - EffectiveAltruism
   - Longtermism
   - MoralPhilosophy
-  - Consequentialism
-alias:
-  - Utilitarianism
   - Consequentialism
 summary: "Utilitarianism is the moral theory, running from Jeremy Bentham and John Stuart Mill through Henry Sidgwick to Peter Singer, that the right act maximizes aggregate welfare, and its quantifying logic became the operating premise of effective altruism and longtermism."
 location: "England"

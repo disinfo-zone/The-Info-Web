@@ -1,4 +1,11 @@
 ---
+aliases:
+  - AdFin Solutions
+  - AdFin Solutions, Inc.
+  - AdFin
+  - Adfin
+  - AD/FIN
+  - Ad/Fin
 category: "Private Organization"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - HowardLutnick
   - SouthernTrust
   - EpsteinFiles
-alias:
-  - AdFin Solutions
-  - AdFin Solutions, Inc.
-  - AdFin
-  - Adfin
-  - AD/FIN
-  - Ad/Fin
 summary: "AdFin Solutions was a Delaware advertising-analytics company whose Series A investors included Jeffrey Epstein's Southern Trust Company and CVAFH I LLC, described in a July 2013 letter agreement as held ultimately by Cantor Fitzgerald."
 location: "New York, New York"
 relations:

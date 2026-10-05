@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sandstorm
+  - Section 41 report
 category: "BCCI Scandal"
 tags:
   - Report
@@ -6,9 +9,6 @@ tags:
   - Audit
   - BankOfEngland
   - 1990s
-alias:
-  - Sandstorm
-  - Section 41 report
 summary: "Price Waterhouse's draft Section 41 report to the Bank of England of June 22, 1991, code-named Sandstorm, which found widespread fraud at BCCI and preceded the bank's closure on July 5, 1991."
 date: 1991-06-22
 location: "London, United Kingdom"

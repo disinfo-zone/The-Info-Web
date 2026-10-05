@@ -10,7 +10,7 @@ tags:
   - Cold_War
   - 1960s
   - 1970s
-summary: "Richard Ober (c.1921-2001) was the CIA officer who directed Operation CHAOS (MHCHAOS) from its 1967 creation through its 1974 termination, reporting to James Angleton and maintaining a covert White House office with access to Nixon administration principals."
+summary: "CIA counterintelligence officer who directed Operation CHAOS (MHCHAOS) from its 1967 creation to its March 1974 termination, reporting to James Angleton."
 born: 1921-01-01
 died: 2001-09-11
 location: "Fairfax Station, Virginia"
@@ -44,7 +44,7 @@ One of the most operationally significant aspects of Ober's role was a covert of
 
 CHAOS was exposed on December 22, 1974 by Seymour Hersh's front-page New York Times article "Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces." DCI [[William Colby]] had already dismissed Angleton on December 17, 1974, before the article appeared, having been warned it was imminent. The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (the Church Committee) subsequently investigated CHAOS in detail. Ober testified before the committee on October 28, 1975. The committee's findings are documented in Book III of its final report, "CIA Intelligence Collection About Americans: CHAOS and the [[CIA Office of Security|Office of Security]]" (S. Rept. 94-755, April 26, 1976), available at aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf. The [[Rockefeller Commission 1975|Rockefeller Commission]] also examined CHAOS in its Chapter 11, available at aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf.[^2]
 
-The committee found that CHAOS violated the CIA's legislative charter prohibiting domestic operations and characterized it as "unlawful." Richard Helms's destruction of CHAOS records in 1973 (before the Hersh exposé) deprived the investigation of a complete documentary record; a cache of files survived only because it had been misfiled.[^2]
+The committee found that CHAOS violated the CIA's legislative charter prohibiting domestic operations and characterized it as "unlawful." The Rockefeller Commission reported in 1975 that the CHAOS "files and computerized index are still intact."[^3]
 
 ### Post-CHAOS Career
 
@@ -60,3 +60,4 @@ The Richard Ober Papers, 1942-2001, are held at the Hoover Institution Library a
 
 [^1]: "CIA Officer Richard Ober, 80, Dies." Washington Post, September 12, 2001. Richard Ober Papers, 1942-2001, Hoover Institution Library and Archives, Stanford University. Finding aid: Online Archive of California, ark:/13030/c81z4b3g.
 [^2]: Church Committee, "CIA Intelligence Collection About Americans: CHAOS and the Office of Security," Book III, S. Rept. 94-755, April 26, 1976. aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf. Rockefeller Commission, "Special Operations Group - 'Operation CHAOS,'" Chapter 11. aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf. Rafalko, Frank J. *MH/CHAOS: The CIA's Campaign Against the Radical New Left and the Black Panthers*. Naval Institute Press, 2011.
+[^3]: Rockefeller Commission, *Report to the President by the Commission on CIA Activities Within the United States* (June 1975), Chapter 11, "Special Operations Group, 'Operation CHAOS,'" pp. 130 to 151. https://www.aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf

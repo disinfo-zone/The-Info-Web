@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bill Clinton
+  - William Jefferson Clinton
+  - William Jefferson Blythe III
 category: "Political Figure"
 tags:
   - Person
@@ -12,10 +16,6 @@ tags:
   - ClintonFoundation
   - FlightLogs
   - LolitaExpress
-alias:
-  - Bill Clinton
-  - William Jefferson Clinton
-  - William Jefferson Blythe III
 summary: "Bill Clinton was the 42nd President of the United States and Governor of Arkansas during the Mena CIA-linked drug-smuggling period, whose administration terminated Project Stargate in 1995, and who took multiple flights on Jeffrey Epstein's aircraft for Clinton Foundation work in 2002-2003 while denying any knowledge of Epstein's crimes."
 born: 1946-08-19
 location: "Hope, Arkansas"

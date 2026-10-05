@@ -1,4 +1,6 @@
 ---
+aliases:
+  - FHI
 category: "Private Organization"
 tags:
   - Organization
@@ -8,8 +10,6 @@ tags:
   - EffectiveAltruism
   - Transhumanism
   - Oxford
-alias:
-  - FHI
 summary: "The Future of Humanity Institute was a research center at the University of Oxford founded in 2005 by Nick Bostrom that became the academic headquarters of longtermism and AI-existential-risk research, drew funding from Elon Musk and the FTX Future Fund, and was closed by the university in April 2024."
 location: "Oxford, England"
 created: 2026-06-19

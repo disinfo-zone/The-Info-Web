@@ -1,4 +1,6 @@
 ---
+aliases:
+  - John Brockman
 category: "Authors & Journalists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - LiteraryAgent
   - ThirdCulture
   - BillionairesDinner
-alias:
-  - John Brockman
 summary: "John Brockman is a New York literary agent who founded the Edge Foundation and Edge.org, hosted the annual Billionaires' Dinner, and whose salon was for years substantially funded by Jeffrey Epstein."
 born: 1941-02-16
 location: "New York, New York"

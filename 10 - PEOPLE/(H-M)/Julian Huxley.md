@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Julian Huxley
+  - Sir Julian Huxley
+  - Julian Sorell Huxley
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - UNESCO
   - EvolutionaryBiology
   - Hereditarianism
-alias:
-  - Julian Huxley
-  - Sir Julian Huxley
-  - Julian Sorell Huxley
 summary: "Julian Huxley was the evolutionary biologist who coined the modern usage of transhumanism in 1957, served as the first Director-General of UNESCO and wrote a founding document tying the agency to eugenics, and presided over the British Eugenics Society from 1959 to 1962."
 born: 1887-06-22
 died: 1975-02-14

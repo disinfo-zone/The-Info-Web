@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Les Wexner
+  - Leslie H. Wexner
+  - Leslie Herbert Wexner
 category: "Business & Finance"
 tags:
   - AbuseNetworks
@@ -10,10 +14,6 @@ tags:
   - MegaGroup
   - Finance
   - NewAlbany
-alias:
-  - Les Wexner
-  - Leslie H. Wexner
-  - Leslie Herbert Wexner
 summary: "Founder of The Limited and L Brands who granted Jeffrey Epstein power of attorney over his fortune in 1991 and later said Epstein misappropriated vast sums from him."
 born: 1937-09-08
 location: New Albany, Ohio

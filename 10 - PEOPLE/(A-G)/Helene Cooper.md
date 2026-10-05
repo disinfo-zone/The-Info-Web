@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Helene Cooper
+  - Cooper, Helene
 category: "Authors & Journalists"
 tags:
   - Person
   - Journalist
   - UFO
   - NewYorkTimes
-alias:
-  - Helene Cooper
-  - Cooper, Helene
 summary: "Helene Cooper, a New York Times Pentagon correspondent and co-author of the paper's December 16, 2017 report on the Advanced Aerospace Threat Identification Program, was assigned to work with Leslie Kean and Ralph Blumenthal."
 location: "Washington, D.C."
 relations:

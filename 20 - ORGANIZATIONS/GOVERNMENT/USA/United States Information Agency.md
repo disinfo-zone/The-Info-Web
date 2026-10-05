@@ -1,4 +1,11 @@
 ---
+aliases:
+  - "USIA"
+  - "U.S. Information Agency"
+  - "United States Information Service"
+  - "U.S. Information Service"
+  - "USIS"
+  - "International Communication Agency"
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,13 +15,6 @@ tags:
   - PublicDiplomacy
   - ColdWar
   - VoiceOfAmerica
-alias:
-  - "USIA"
-  - "U.S. Information Agency"
-  - "United States Information Service"
-  - "U.S. Information Service"
-  - "USIS"
-  - "International Communication Agency"
 summary: "Federal agency created by Reorganization Plan No. 8 of 1953 to run the government's overseas information and cultural programs, including the Voice of America, known abroad as the U.S. Information Service."
 start: 1953-08-01
 location: "Washington, D.C."

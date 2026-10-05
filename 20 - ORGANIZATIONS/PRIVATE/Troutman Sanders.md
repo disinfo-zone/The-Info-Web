@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Troutman Sanders
+  - Troutman Sanders LLP
+  - Troutman Pepper
+  - Troutman Pepper Hamilton Sanders
+  - Troutman Pepper Hamilton Sanders LLP
+  - Troutman Pepper Locke
 category: "Private Organization"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - StevenHoffenberg
   - TowersFinancial
   - EpsteinEstate
-alias:
-  - Troutman Sanders
-  - Troutman Sanders LLP
-  - Troutman Pepper
-  - Troutman Pepper Hamilton Sanders
-  - Troutman Pepper Hamilton Sanders LLP
-  - Troutman Pepper Locke
 summary: "Atlanta-rooted law firm that defended Jeffrey Epstein and Financial Trust Company against Steven Hoffenberg's Towers Financial suits in 2016 and 2018 and Epstein's estate in 2020, later Troutman Pepper Locke."
 location: "Atlanta, Georgia"
 relations:

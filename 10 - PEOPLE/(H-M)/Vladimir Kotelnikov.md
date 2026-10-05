@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Vladimir Kotelnikov
+  - Vladimir Aleksandrovich Kotelnikov
+  - Vladimir A. Kotelnikov
+  - Vladimir Kotel'nikov
+  - V. A. Kotelnikov
+  - V. A. Kotel'nikov
+  - Kotelnikov
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,14 +16,6 @@ tags:
   - Psychoenergetics
   - Parapsychology
   - Biofield
-alias:
-  - Vladimir Kotelnikov
-  - Vladimir Aleksandrovich Kotelnikov
-  - Vladimir A. Kotelnikov
-  - Vladimir Kotel'nikov
-  - V. A. Kotelnikov
-  - V. A. Kotel'nikov
-  - Kotelnikov
 summary: "Soviet radio engineer, author of the sampling theorem, director of the Institute of Radio Engineering and Electronics and Academy vice president, under whose direction a 1975 to 1978 commission reviewed psychoenergetics."
 died: 2005-02-11
 location: "Moscow, Russia"

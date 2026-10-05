@@ -1,4 +1,8 @@
 ---
+aliases:
+  - ProPublica
+  - Pro Publica
+  - Pro Publica Inc
 category: "Private Organization"
 tags:
   - Organization
@@ -11,10 +15,6 @@ tags:
   - Snowden
   - Atomwaffen
   - Section501c3
-alias:
-  - ProPublica
-  - Pro Publica
-  - Pro Publica Inc
 summary: "New York nonprofit investigative newsroom established in 2007 and 2008 with funding from Herbert and Marion Sandler, publisher of reporting on the Snowden files, Atomwaffen Division, leaked IRS data, Leonard Leo and justices' gifts."
 start: 2007
 location: "New York City"

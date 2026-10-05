@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thomas F. McLarty III
+  - Thomas "Mack" McLarty
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - WebsterHubbell
   - KissingerAssociates
   - Arkansas
-alias:
-  - Thomas F. McLarty III
-  - Thomas "Mack" McLarty
 summary: "Kindergarten classmate of Bill Clinton who succeeded Sheffield Nelson at the Arkla gas utility, became Clinton's first White House chief of staff, solicited consulting clients for Webster Hubbell, and went into business with Henry Kissinger."
 born: 1946-06-14
 location: "Little Rock, Arkansas"

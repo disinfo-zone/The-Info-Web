@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cybernetic
+  - Macy Conferences
 category: "Scientific Theory & Technology"
 tags:
   - Concept
@@ -7,9 +10,6 @@ tags:
   - InformationTheory
   - ArtificialIntelligence
   - Counterculture
-alias:
-  - Cybernetic
-  - Macy Conferences
 summary: "Cybernetics is the postwar science of control and communication in animals and machines, founded by Norbert Wiener and developed at the Macy Conferences, which diffused into computing, systems theory, artificial intelligence, and the Californian counterculture."
 location: "United States"
 created: 2026-06-20

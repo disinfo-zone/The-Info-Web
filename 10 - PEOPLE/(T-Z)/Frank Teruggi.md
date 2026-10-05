@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Frank Teruggi Jr.
 category: "Victims & Witnesses"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - FBI
   - ArmyIntelligence
   - StateDepartment
-alias:
-  - Frank Teruggi Jr.
 summary: "American student in Santiago, the subject of an FBI subversive file that recorded his Chilean address, who was taken from his house after the 1973 coup and shot at the National Stadium."
 died: 1973-09
 location: "Santiago, Chile"

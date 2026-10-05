@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Willis A. Gibbons
 category: "Intelligence & Government"
 tags:
   - Person
@@ -6,7 +8,6 @@ tags:
   - MKULTRA
   - TechnicalServicesStaff
   - ColdWar
-alias: Willis A. Gibbons
 summary: "Former U.S. Rubber Company research director who became chief of the CIA's Technical Services Staff in the 1950s, overseeing Sidney Gottlieb's chemical and behavioral programs and managing the internal fallout from Frank Olson's LSD-related death."
 location: New York, New York
 created: 2026-06-12

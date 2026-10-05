@@ -1,4 +1,16 @@
 ---
+aliases:
+  - People's Temple
+  - Peoples Temple
+  - Peoples Temple Christian Church
+  - People's Temple Christian Church
+  - People's Temple of the Disciples of Christ
+  - Peoples Temple of the Disciples of Christ
+  - Jonestown
+  - Jonestown massacre
+  - Jonestown Massacre
+  - Jonestown tragedy
+  - Peoples Temple Agricultural Project
 category: "Private Organization"
 tags:
   - Organization
@@ -12,18 +24,6 @@ tags:
   - LeoRyan
   - SovietUnion
   - HouseForeignAffairs
-alias:
-  - People's Temple
-  - Peoples Temple
-  - Peoples Temple Christian Church
-  - People's Temple Christian Church
-  - People's Temple of the Disciples of Christ
-  - Peoples Temple of the Disciples of Christ
-  - Jonestown
-  - Jonestown massacre
-  - Jonestown Massacre
-  - Jonestown tragedy
-  - Peoples Temple Agricultural Project
 summary: "Church led by Jim Jones that moved most members from California to a leased Guyana settlement, where 909 people died on November 18, 1978, after Leo Ryan was shot at the Port Kaituma airstrip."
 end: 1978-11-18
 location: "Jonestown, Guyana"

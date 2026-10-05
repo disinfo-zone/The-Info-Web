@@ -1,4 +1,9 @@
 ---
+aliases:
+  - EFTA
+  - H.R. 4405
+  - Public Law 119-38
+  - Epstein Transparency Act
 category: "U.S. Government"
 tags:
   - Concept
@@ -9,11 +14,6 @@ tags:
   - DepartmentOfJustice
   - DischargePetition
   - EpsteinFilesTransparencyAct
-alias:
-  - EFTA
-  - H.R. 4405
-  - Public Law 119-38
-  - Epstein Transparency Act
 summary: "Statute of November 19, 2025, forced to a House vote by discharge petition, requiring the Attorney General to publish within 30 days the Justice Department's unclassified records on Jeffrey Epstein and Ghislaine Maxwell."
 start: 2025-11-19
 location: "Washington, D.C."

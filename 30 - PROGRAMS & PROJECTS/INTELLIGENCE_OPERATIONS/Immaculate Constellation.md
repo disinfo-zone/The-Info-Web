@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Immaculate Constellation
+  - IMMACULATE CONSTELLATION
+  - ImCon
+  - IMCON
 category: "Intelligence Operation"
 tags:
   - Program
@@ -8,11 +13,6 @@ tags:
   - Whistleblower
   - HouseOversight
   - Allegation
-alias:
-  - Immaculate Constellation
-  - IMMACULATE CONSTELLATION
-  - ImCon
-  - IMCON
 summary: "Name of an alleged unacknowledged special access program for UAP imagery intelligence, first published in October 2024, described in a 12-page document in the House Oversight record and denied by the Defense Department."
 start: 2024-10-08
 location: "Washington, D.C."

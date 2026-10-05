@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dialog Society
+  - Dialog (organization)
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Elites
   - Bilderberg
   - Surveillance
-alias:
-  - Dialog Society
-  - Dialog (organization)
 summary: "Dialog is an invitation-only secret society cofounded in 2006 by Peter Thiel and Auren Hoffman that convenes U.S. officials, foreign government figures, and Silicon Valley executives at off-the-record annual retreats, and whose 2026 retreat roster of 222 registrants was leaked to WIRED in June 2026 by the hacktivist maia arson crimew."
 location: "United States (founded); rotating annual retreat sites; planned Washington, D.C.-area campus"
 created: 2026-06-17

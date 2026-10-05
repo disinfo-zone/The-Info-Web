@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Curtis Guy Yarvin
+  - Moldbug
+  - "Unqualified Reservations"
 category: "Authors & Journalists"
 tags:
   - NewRight
@@ -9,10 +13,6 @@ tags:
   - DarkEnlightenment
   - PeterThiel
   - NRx
-alias:
-  - Curtis Guy Yarvin
-  - Moldbug
-  - "Unqualified Reservations"
 summary: "Curtis Yarvin, who writes under the pen name Moldbug, is an American software developer and political writer whose blog Unqualified Reservations (2007 onward) founded the neoreactionary movement and co-originated the Dark Enlightenment, and who is the most prominent intellectual patronized by Peter Thiel."
 born: 1973-06-25
 location: "United States"

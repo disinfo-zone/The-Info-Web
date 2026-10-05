@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Antichrist Lectures
+  - Thiel Antichrist Lectures
 category: "Esoteric & Historical Concept"
 tags:
   - Concept
@@ -7,9 +10,6 @@ tags:
   - PoliticalTheology
   - MimeticTheory
   - ArtificialIntelligence
-alias:
-  - Antichrist Lectures
-  - Thiel Antichrist Lectures
 summary: "The Antichrist lectures are a four-part private series Peter Thiel delivered in San Francisco in 2025 arguing that the biblical Antichrist will arise through a one-world government built to manage existential risk, and naming technology critics including Eliezer Yudkowsky and Nick Bostrom as its agents."
 location: "San Francisco, California"
 created: 2026-06-19

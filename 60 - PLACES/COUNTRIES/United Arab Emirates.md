@@ -1,4 +1,6 @@
 ---
+aliases:
+  - UAE
 category: "Country"
 tags:
   - Country
@@ -7,8 +9,6 @@ tags:
   - PersianGulf
   - AbuDhabi
   - MiddleEast
-alias:
-  - UAE
 summary: "Gulf federation formed on December 2, 1971, whose president Sheikh Zayed and Abu Dhabi government held 77 percent of BCCI at its closure and kept its top officers out of foreign investigators' reach."
 start: 1971-12-02
 location: "United Arab Emirates"

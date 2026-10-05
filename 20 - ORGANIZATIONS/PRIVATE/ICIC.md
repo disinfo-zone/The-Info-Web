@@ -1,4 +1,9 @@
 ---
+aliases:
+  - International Credit and Investment Company
+  - ICIC Overseas
+  - ICIC Holdings
+  - Fork
 tags:
   - Organization
   - FinancialInstitution
@@ -6,11 +11,6 @@ tags:
   - CaymanIslands
   - Nominees
 category: "Private Organization"
-alias:
-  - International Credit and Investment Company
-  - ICIC Overseas
-  - ICIC Holdings
-  - Fork
 summary: "Group of Cayman Islands entities that held and disguised the ownership of BCCI, booked its insider loans, and carried at least one billion dollars of circular transactions."
 start: 1976-04-06
 location: "Cayman Islands"

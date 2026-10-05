@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gabby Amarando
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -6,8 +8,6 @@ tags:
   - RCHorsch
   - MissingWomen
   - OlneyHouseInvestigation
-alias:
-  - Gabby Amarando
 summary: "Doylestown woman missing since 2012 whom Philadelphia police identified in 2026 as appearing dead in images recovered from the Horsch house in Olney."
 location: "Philadelphia, Pennsylvania"
 relations:

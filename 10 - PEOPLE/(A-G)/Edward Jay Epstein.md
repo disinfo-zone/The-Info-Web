@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Edward Jay Epstein
+  - Edward J. Epstein
+  - Edward Epstein
 category: "Authors & Journalists"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - ColdWar
   - ReadersDigest
   - JeffreyEpstein
-alias:
-  - Edward Jay Epstein
-  - Edward J. Epstein
-  - Edward Epstein
 summary: "American investigative journalist whose books on the Warren Commission and Soviet defectors drew on classified information from James Angleton and other CIA officers, and who kept an acquaintance with Jeffrey Epstein from 1987 to 2019."
 born: 1935-12-06
 died: 2024-01-09

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Lawrence Barcella
+  - Larry Barcella
+  - E. Lawrence Barcella
+  - Ernest Lawrence Barcella Jr.
 category: "Law Enforcement & Legal"
 created: 2024-04-25
 updated: 2026-09-23
@@ -8,11 +13,6 @@ tags:
   - Lawyer
   - Prosecutor
   - BCCI
-alias:
-  - Lawrence Barcella
-  - Larry Barcella
-  - E. Lawrence Barcella
-  - Ernest Lawrence Barcella Jr.
 born: 1945-05-23
 died: 2010-11-04
 location: "Washington, D.C."

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ken Howery
+  - Kenneth Howery
+  - Kenneth A. Howery
 category: "Technologists"
 tags:
   - Person
@@ -11,10 +15,6 @@ tags:
   - PeterThiel
   - AmericaPAC
   - CampaignFinance
-alias:
-  - Ken Howery
-  - Kenneth Howery
-  - Kenneth A. Howery
 summary: "PayPal and Founders Fund co-founder who served as Trump's ambassador to Sweden from 2019, gave 1 million dollars to America PAC in June 2024, and became ambassador to Denmark in 2025."
 location: "Texas (state of residence); Stockholm, Sweden (2019); Copenhagen, Denmark (2025)"
 relations:

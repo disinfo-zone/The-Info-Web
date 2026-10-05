@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Arthur Jensen
+  - Arthur R. Jensen
+  - Arthur Robert Jensen
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -10,10 +14,6 @@ tags:
   - HarvardEducationalReview
   - MankindQuarterly
   - Psychometrics
-alias:
-  - Arthur Jensen
-  - Arthur R. Jensen
-  - Arthur Robert Jensen
 summary: "Berkeley educational psychologist whose 1969 Harvard Educational Review article on IQ and race was inserted in the Congressional Record and who is named on the Pioneer Fund's own list of grantees."
 born: 1923-08-24
 died: 2012-10-22

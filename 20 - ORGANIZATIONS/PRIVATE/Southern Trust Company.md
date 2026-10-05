@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Southern Trust Company, Inc.
+  - Southern Trust Co.
+  - Financial Informatics, Inc.
+  - Southern Trust
 category: "Private Organization"
 tags:
   - Organization
@@ -10,11 +15,6 @@ tags:
   - ShellCompany
   - AdFin
   - LeonBlack
-alias:
-  - Southern Trust Company, Inc.
-  - Southern Trust Co.
-  - Financial Informatics, Inc.
-  - Southern Trust
 summary: "Southern Trust Company was Jeffrey Epstein's U.S. Virgin Islands entity that obtained large territorial tax benefits by claiming to run a DNA-database and data-mining business the Virgin Islands later alleged it never actually conducted."
 location: "St. Thomas, U.S. Virgin Islands"
 created: 2026-06-20

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Jack Clark
 category: "Technologists"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - AIPolicy
   - AISafety
   - OpenAI
-alias:
-  - Jack Clark
 summary: "Jack Clark is the cofounder and head of policy at Anthropic, a former technology journalist who ran policy and communications at OpenAI, co-chairs Stanford's AI Index, and writes the Import AI newsletter."
 born: 1987
 location: "San Francisco, California"

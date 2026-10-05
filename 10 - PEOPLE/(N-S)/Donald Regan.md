@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Donald T. Regan
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ summary: "Regan stated that 'Virtually every major move and decision the Reagans
 born: 1918-12-21
 died: 2003-06-10
 location: "Cambridge, Massachusetts, USA"
-alias:
-  - Donald T. Regan
 ---
 
 Donald T. Regan (1918-2003) was an American government official who served as the [[White House]] Chief of Staff under President [[Ronald Reagan]]. In May 1988, Regan revealed in his memoir that President Reagan had sought the advice of a private astrologer during his tenure at the White House[^1].

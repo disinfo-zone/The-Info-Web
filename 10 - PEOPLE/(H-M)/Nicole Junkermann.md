@@ -1,4 +1,7 @@
 ---
+aliases:
+  - nicole junkerman
+  - Nicole Junkerman
 category: "Business & Finance"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - NJFCapital
   - NHS
   - VentureCapital
-alias:
-  - nicole junkerman
-  - Nicole Junkerman
 summary: "German investor and founder of NJF Holdings who co-invested with Jeffrey Epstein and Ehud Barak in Carbyne, sat on a UK health technology advisory board, and lost a Lancaster University post in 2026."
 location: "London, United Kingdom"
 relations:

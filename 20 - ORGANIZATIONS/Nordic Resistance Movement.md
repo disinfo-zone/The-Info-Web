@@ -1,10 +1,10 @@
 ---
-category: "Extremism & Violent Networks"
-alias:
+aliases:
   - NRM
   - Nordiska motståndsrörelsen
   - Pohjoismainen vastarintaliike
   - Pohjoinen Perinne ry
+category: "Extremism & Violent Networks"
 tags:
   - Organization
   - NeoNazi

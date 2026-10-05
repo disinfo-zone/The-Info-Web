@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Office of Professional Responsibility
+  - DOJ Office of Professional Responsibility
+  - Department of Justice Office of Professional Responsibility
+  - DOJ OPR
+  - OPR
 category: "U.S. Government"
 tags:
   - Organization
@@ -7,12 +13,6 @@ tags:
   - JeffreyEpstein
   - NonProsecutionAgreement
   - ProsecutorialMisconduct
-alias:
-  - Office of Professional Responsibility
-  - DOJ Office of Professional Responsibility
-  - Department of Justice Office of Professional Responsibility
-  - DOJ OPR
-  - OPR
 summary: "Justice Department office created in 1975 after Watergate to investigate misconduct by department lawyers, whose 2020 Epstein report found no misconduct by five Florida prosecutors but faulted Alexander Acosta's judgment."
 start: 1975
 location: "Washington, D.C."

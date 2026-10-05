@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Gratitude America, Ltd.
+  - Gratitude America Ltd
+  - Gratitude America, Ltd
+  - Gratitude America, Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -9,11 +14,6 @@ tags:
   - LeonBlack
   - DeutscheBank
   - Philanthropy
-alias:
-  - Gratitude America, Ltd.
-  - Gratitude America Ltd
-  - Gratitude America, Ltd
-  - Gratitude America, Inc.
 summary: "Jeffrey Epstein's St. Thomas private foundation, recognized by the IRS in 2012, which took 10 million dollars from Leon Black in 2015 and paid Bard president Leon Botstein 150,000 dollars in 2016."
 start: 2012
 location: "St. Thomas, U.S. Virgin Islands"

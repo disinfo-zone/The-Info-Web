@@ -1,4 +1,8 @@
 ---
+aliases:
+  - BTS
+  - Biomedical Tissue Services, Ltd.
+  - BioMedical Tissue Services
 category: "Private Organization"
 tags:
   - Organization
@@ -6,10 +10,6 @@ tags:
   - BodyPartsTrade
   - FortLee
   - RCHorsch
-alias:
-  - BTS
-  - Biomedical Tissue Services, Ltd.
-  - BioMedical Tissue Services
 summary: "Fort Lee, New Jersey, tissue-recovery company run by Michael Mastromarino that took tissue from more than a thousand corpses without consent and sold it to processors, until closed by the FDA in 2006."
 start: 2002
 end: 2006

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Black Mass (Hoersch film)
 category: "Crime & Abuse Networks"
 tags:
   - Film
@@ -6,8 +8,6 @@ tags:
   - Philadelphia
   - Satanism
   - Censorship
-alias:
-  - Black Mass (Hoersch film)
 summary: "Philadelphia film of a satanic mass by Ray Hoersch, later known as R.C. Horsch, withdrawn from the Arcadia Theatre in 1975 after protests led by Cardinal John Krol."
 date: 1975-03-01
 location: "Philadelphia, Pennsylvania"

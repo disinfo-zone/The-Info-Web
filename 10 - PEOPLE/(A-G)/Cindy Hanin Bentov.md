@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Cheryl Bentov
+  - Cheryl Hanin
+  - Cindy
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - MordechaiVanunu
   - Israel
   - Florida
-alias:
-  - Cheryl Bentov
-  - Cheryl Hanin
-  - Cindy
 summary: "Florida-born Mossad agent Cheryl Hanin Bentov, who under the name Cindy lured Mordechai Vanunu from London to Rome in September 1986, identified by the Sunday Times through a London hotel register."
 updated: 2026-09-21
 ---

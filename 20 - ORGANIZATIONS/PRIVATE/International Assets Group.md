@@ -1,4 +1,10 @@
 ---
+aliases:
+  - International Assets Group Inc.
+  - I.A.G.
+  - IAG (Epstein)
+  - Intercontinental Assets Group
+  - Intercontinental Asset Group
 category: "Private Organization"
 tags:
   - Organization
@@ -7,12 +13,6 @@ tags:
   - AssetRecovery
   - TowersFinancial
   - Finance
-alias:
-  - International Assets Group Inc.
-  - I.A.G.
-  - IAG (Epstein)
-  - Intercontinental Assets Group
-  - Intercontinental Asset Group
 summary: "Consulting company Jeffrey Epstein ran from his Manhattan apartment after leaving Bear Stearns in 1981, described as recovering stolen money for the wealthy, and his vehicle when he joined Towers Financial."
 location: "New York, New York"
 relations:

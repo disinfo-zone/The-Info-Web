@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bingham Inquiry
+  - Inquiry into the Supervision of the Bank of Credit and Commerce International
 category: "BCCI Scandal"
 tags:
   - Report
@@ -6,9 +9,6 @@ tags:
   - BankOfEngland
   - BankingSupervision
   - 1990s
-alias:
-  - Bingham Inquiry
-  - Inquiry into the Supervision of the Bank of Credit and Commerce International
 summary: "Lord Justice Bingham's 1992 inquiry into British supervision of BCCI, which cleared the Treasury, criticized the Bank of England as slow and overreliant on Luxembourg, and upheld its closure of the bank."
 date: 1992-10-22
 location: "London, United Kingdom"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Schmidt Futures
+  - Schmidt Sciences
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - EricSchmidt
   - Philanthropy
   - ArtificialIntelligence
-alias:
-  - Schmidt Futures
-  - Schmidt Sciences
 summary: "Schmidt Futures is the philanthropic venture Eric and Wendy Schmidt launched in 2017 to fund science and technology talent, which paid the salaries of White House science staff before consolidating its core programs into Schmidt Sciences in 2024."
 location: "New York, New York"
 created: 2026-06-20

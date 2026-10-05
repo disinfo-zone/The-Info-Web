@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Genady Sergeyev
+  - Genady A. Sergeyev
+  - Genady Aleksandrovich Sergeyev
+  - Gennady Sergeyev
+  - Gennady Sergeev
+  - Genadi Sergeyev
+  - Dr. Sergeyev
+  - G. A. Sergeyev
+  - G. A. Sergeev
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -9,16 +19,6 @@ tags:
   - Psychokinesis
   - EEG
   - Military
-alias:
-  - Genady Sergeyev
-  - Genady A. Sergeyev
-  - Genady Aleksandrovich Sergeyev
-  - Gennady Sergeyev
-  - Gennady Sergeev
-  - Genadi Sergeyev
-  - Dr. Sergeyev
-  - G. A. Sergeyev
-  - G. A. Sergeev
 summary: "Leningrad mathematician and biophysicist (1927 to 1999) attached to Soviet naval research, who analyzed telepathy trials by EEG in 1967 and conducted the laboratory studies of Ninel Kulagina, including the frog heart experiments."
 born: 1927
 died: 1999

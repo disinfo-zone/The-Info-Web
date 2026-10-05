@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Amer Hamoudi al-Saadi
+  - Amir Hamudi Hasan al-Sadi
+  - Amer al-Saadi
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - MilitaryIndustrialization
   - BNLScandal
   - HusseinKamel
-alias:
-  - Amer Hamoudi al-Saadi
-  - Amir Hamudi Hasan al-Sadi
-  - Amer al-Saadi
 summary: "German-trained chemist with an honorary general's rank who ran Iraq's state war industries from 1975, its chemical weapons and missile programs under Hussein Kamel, and was named an unindicted co-conspirator in the BNL case."
 location: "Baghdad, Iraq"
 created: 2026-09-21

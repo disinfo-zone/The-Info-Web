@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alan Watts
+  - Alan Wilson Watts
 category: "Authors & Journalists"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Psychedelics
   - HumanPotentialMovement
   - Pacifica
-alias:
-  - Alan Watts
-  - Alan Wilson Watts
 summary: "Alan Watts was the British-born interpreter of Zen Buddhism, Vedanta, and Taoism for Western audiences whose books and Pacifica radio talks shaped the spiritual vocabulary of the 1960s counterculture."
 born: 1915-01-06
 died: 1973-11-16

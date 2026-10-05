@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Joe Recarey
+  - Detective Joseph Recarey
+  - Det. Joe Recarey
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - PalmBeachPoliceDepartment
   - Police
   - GrandJury
-alias:
-  - Joe Recarey
-  - Detective Joseph Recarey
-  - Det. Joe Recarey
 summary: "Joseph Recarey was the Palm Beach police detective who led the 2005 to 2006 Epstein investigation, swore the probable cause affidavit recommending five felony counts, and died in May 2018."
 born: 1967-06-05
 died: 2018-05-25

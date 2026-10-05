@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sam J. Papich
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - HTLINGUAL
   - JamesAngleton
   - WackenhutCorporation
-alias:
-  - Sam J. Papich
 summary: "FBI liaison officer to the CIA whom James Angleton told of the agency's New York mail opening in 1958, and who in 1967 recommended Wackenhut to William Harvey as a reputable private investigator."
 location: "Washington, D.C."
 created: 2026-09-21

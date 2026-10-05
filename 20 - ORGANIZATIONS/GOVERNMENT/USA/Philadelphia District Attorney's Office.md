@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Office of the District Attorney of Philadelphia
+  - Philadelphia DA's office
+  - DAO
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - Philadelphia
   - OlneyHouseInvestigation
   - RCHorsch
-alias:
-  - Office of the District Attorney of Philadelphia
-  - Philadelphia DA's office
-  - DAO
 summary: "Prosecutor for the city and county of Philadelphia, led since 2018 by Larry Krasner, which charged and in August 2026 withdrew state gun and drug counts against Eugene Horsch."
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-23

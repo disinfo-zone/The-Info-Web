@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Joshua Logan Grumbach
+  - Joshua L. Grumbach
+  - Dr. Logan Grumbach
 category: "Technologists"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - StrategicForesight
   - HuntsvilleAlabama
   - IgniteFuelingInnovation
-alias:
-  - Joshua Logan Grumbach
-  - Joshua L. Grumbach
-  - Dr. Logan Grumbach
 summary: "Joshua Logan Grumbach is a Huntsville engineer and futurist, former Boeing and Lockheed Martin missile defense manager, and Ignite Fueling Innovation vice president for space, intelligence and missile defense since May 2024."
 location: "Huntsville, Alabama"
 relations:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Webb Hubbell
+  - Webster L. Hubbell
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -12,9 +15,6 @@ tags:
   - DannyCasolaro
   - MenaArkansas
   - Contras
-alias:
-  - Webb Hubbell
-  - Webster L. Hubbell
 summary: "Rose Law Firm partner and associate attorney general who resigned in 1994 over his billings, was paid over 500,000 dollars by seventeen supporters of the president, among them the Lippo Group, and went to prison."
 location: "Little Rock, Arkansas"
 born: 1948-01-18

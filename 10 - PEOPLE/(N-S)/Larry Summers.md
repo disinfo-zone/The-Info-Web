@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Larry Summers
+  - Lawrence Summers
+  - Lawrence H. Summers
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - OpenAI
   - JeffreyEpstein
   - Economics
-alias:
-  - Larry Summers
-  - Lawrence Summers
-  - Lawrence H. Summers
 summary: "Lawrence H. Summers is the former Treasury secretary and Harvard president under whom Jeffrey Epstein's 6.5 million dollar gift founded Harvard's Program for Evolutionary Dynamics, and who corresponded with Epstein until July 2019."
 born: 1954-11-30
 location: "Cambridge, Massachusetts"

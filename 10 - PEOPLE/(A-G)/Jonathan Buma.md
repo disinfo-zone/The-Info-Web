@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Johnathan Buma
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -12,8 +14,6 @@ tags:
   - HunterBiden
   - Giuliani
   - Disclosure
-alias:
-  - Johnathan Buma
 summary: "Former FBI counterintelligence agent in Los Angeles who handled Peter Thiel as a confidential source from 2021 and was arrested in March 2025 on a charge of disclosing confidential information."
 location: "Los Angeles, California (FBI field office)"
 created: 2026-06-18

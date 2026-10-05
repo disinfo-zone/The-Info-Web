@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Deputy Attorney General Todd Blanche
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - EpsteinFiles
   - GhislaineMaxwell
   - DonaldTrump
-alias:
-  - Deputy Attorney General Todd Blanche
 summary: "Former Southern District of New York prosecutor and criminal defense lawyer for Donald Trump who, as Deputy Attorney General, interviewed Ghislaine Maxwell and ran the Epstein files release before becoming Attorney General in 2026."
 location: "New York, New York"
 relations:

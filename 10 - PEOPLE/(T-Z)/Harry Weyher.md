@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Harry F. Weyher
+  - Harry Frederick Weyher Jr.
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Eugenics
   - Segregation
   - FairnessInMedia
-alias:
-  - Harry F. Weyher
-  - Harry Frederick Weyher Jr.
 summary: "New York tax lawyer who was Wickliffe Draper's personal attorney from 1955, executor of his will, and president of the Pioneer Fund from 1958 until his death in 2002."
 born: 1921
 died: 2002

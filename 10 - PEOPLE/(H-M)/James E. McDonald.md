@@ -1,4 +1,11 @@
 ---
+aliases:
+  - James E. McDonald
+  - James Edward McDonald
+  - James McDonald
+  - Dr. James E. McDonald
+  - Dr. McDonald
+  - Jim McDonald
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -8,13 +15,6 @@ tags:
   - Congress
   - SST
   - RobertsonPanel
-alias:
-  - James E. McDonald
-  - James Edward McDonald
-  - James McDonald
-  - Dr. James E. McDonald
-  - Dr. McDonald
-  - Jim McDonald
 summary: "University of Arizona atmospheric physicist who from 1966 pressed for scientific study of UFOs, testified to a House committee on July 29, 1968, and died on June 13, 1971."
 location: "Tucson, Arizona"
 relations:

@@ -1,4 +1,12 @@
 ---
+aliases:
+  - House Oversight Committee
+  - House Committee on Oversight and Accountability
+  - House Committee on Oversight and Reform
+  - United States House Committee on Government Reform and Oversight
+  - House Government Reform and Oversight Committee
+  - House Committee on Government Reform
+  - United States House Committee on Oversight and Government Reform
 category: "U.S. Government"
 tags:
   - Organization
@@ -9,14 +17,6 @@ tags:
   - EpsteinFiles
   - Subpoena
   - ContemptOfCongress
-alias:
-  - House Oversight Committee
-  - House Committee on Oversight and Accountability
-  - House Committee on Oversight and Reform
-  - United States House Committee on Government Reform and Oversight
-  - House Government Reform and Oversight Committee
-  - House Committee on Government Reform
-  - United States House Committee on Oversight and Government Reform
 summary: "Principal investigative committee of the U.S. House of Representatives, which from 2025 subpoenaed Jeffrey Epstein's estate, deposed Bill and Hillary Clinton, subpoenaed Attorney General Pam Bondi and cited Leon Black for contempt."
 start: 1927
 location: "Washington, D.C."

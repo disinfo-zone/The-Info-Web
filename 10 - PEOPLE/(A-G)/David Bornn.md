@@ -1,4 +1,8 @@
 ---
+aliases:
+  - David A. Bornn
+  - David A. Bornn, Esq.
+  - Attorney David Bornn
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - RevolvingDoor
   - GovernmentCapture
-alias:
-  - David A. Bornn
-  - David A. Bornn, Esq.
-  - Attorney David Bornn
 summary: "St. Thomas lawyer, partner of Epstein's territorial counsel Erika Kellerhals from 2017, then Governor Albert Bryan's chief legal counsel, whom Epstein's circle contacted in 2019 and who relayed Kellerhals's inquiry to Attorney General Denise George."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

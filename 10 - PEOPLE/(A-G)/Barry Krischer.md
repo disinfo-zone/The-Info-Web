@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Barry E. Krischer
+  - State Attorney Barry Krischer
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - StateAttorney
   - GrandJury
   - NonProsecutionAgreement
-alias:
-  - Barry E. Krischer
-  - State Attorney Barry Krischer
 summary: "Barry Krischer was the Palm Beach County State Attorney from 1993 to 2009 whose office took the 2006 Epstein case to a grand jury that returned a single solicitation count."
 location: "Palm Beach County, Florida"
 relations:

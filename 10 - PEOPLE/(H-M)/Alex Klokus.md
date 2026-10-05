@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Alex Klokus
+  - Alexander Klokus
+  - Alexander Lockwood Klokus
+  - Klokus, Alex
+  - Klokus, Alexander
 category: "Business & Finance"
 tags:
   - Person
@@ -7,12 +13,6 @@ tags:
   - UAP
   - SkyWatcher
   - EpsteinFiles
-alias:
-  - Alex Klokus
-  - Alexander Klokus
-  - Alexander Lockwood Klokus
-  - Klokus, Alex
-  - Klokus, Alexander
 summary: "Venture investor and former chief executive of Futurism, managing member with Alexander Scaramucci of the SALT Fund adviser, and authorized member of ENNEA LLC, the owner of the SKYWATCHER trademark application."
 location: "Miami, Florida"
 relations:

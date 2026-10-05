@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cybernetic Culture Research Unit
 category: "Private Organization"
 tags:
   - Organization
@@ -10,8 +12,6 @@ tags:
   - Accelerationism
   - Hyperstition
   - UniversityOfWarwick
-alias:
-  - Cybernetic Culture Research Unit
 summary: "The Cybernetic Culture Research Unit (CCRU) was an experimental research collective established at the University of Warwick philosophy department in the mid-1990s by Nick Land and Sadie Plant, whose members included Mark Fisher and Kodwo Eshun, and whose output blended philosophy, cybernetics, science fiction, and music theory to produce the accelerationist and hyperstitional frameworks that subsequently fed into the Dark Enlightenment."
 location: "University of Warwick, Coventry, England"
 created: 2026-06-18

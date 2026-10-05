@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Azov Battalion
+  - Azov Regiment
+  - Azov Brigade
+  - Azov
+  - 12th Special Forces Brigade Azov
+  - Special Police Patrol Battalion Azov
 category: "Paramilitary"
 tags:
   - Organization
@@ -10,13 +17,6 @@ tags:
   - Mariupol
   - Appropriations
   - RiseAboveMovement
-alias:
-  - Azov Battalion
-  - Azov Regiment
-  - Azov Brigade
-  - Azov
-  - 12th Special Forces Brigade Azov
-  - Special Police Patrol Battalion Azov
 summary: "Azov Battalion is a Ukrainian volunteer unit founded in May 2014 by Andriy Biletsky's Patriot of Ukraine, incorporated into the National Guard in November 2014 and named in U.S. appropriations riders from 2017 to 2026."
 start: 2014-05-05
 location: "Ukraine"

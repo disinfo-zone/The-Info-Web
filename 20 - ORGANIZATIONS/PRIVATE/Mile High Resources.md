@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Mile High Resources LLC
+  - Mile High Resources, LLC
+  - Mile High Resources Range
+  - Mile High Ordnance LLC
+  - Mile High Ordnance, LLC
+  - T & M Aviation, Inc.
 category: "Organizations"
 tags:
   - Organization
@@ -8,13 +15,6 @@ tags:
   - TestRange
   - Raytheon
   - UAP
-alias:
-  - Mile High Resources LLC
-  - Mile High Resources, LLC
-  - Mile High Resources Range
-  - Mile High Ordnance LLC
-  - Mile High Ordnance, LLC
-  - T & M Aviation, Inc.
 summary: "Texas limited liability company chartered February 26, 2014 at Sierra Blanca; the name appears in Raytheon's October 2015 Pike munition release and in 2025 and 2026 FCC filings for a range on Skunk Canyon Road."
 location: "Sierra Blanca, Texas"
 relations:

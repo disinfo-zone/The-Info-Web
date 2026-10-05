@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ziauddin Ali Akbar
+  - S.Z.A. Akbar
 category: "Business & Finance"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - London
   - 1980s
   - 1990s
-alias:
-  - Ziauddin Ali Akbar
-  - S.Z.A. Akbar
 summary: "Head of BCCI's London treasury division, whose September 1993 guilty plea to false accounting was the first criminal conviction arising from the bank's collapse."
 location: "London, United Kingdom"
 relations:

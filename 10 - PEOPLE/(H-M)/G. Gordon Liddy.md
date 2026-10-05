@@ -1,4 +1,10 @@
 ---
+aliases:
+  - G. Gordon Liddy
+  - Gordon Liddy
+  - George Gordon Liddy
+  - George Gordon Battle Liddy
+  - George F. Leonard
 category: "Intelligence & Government"
 tags:
   - Person
@@ -11,12 +17,6 @@ tags:
   - Conviction
   - Radio
   - 1970s
-alias:
-  - G. Gordon Liddy
-  - Gordon Liddy
-  - George Gordon Liddy
-  - George Gordon Battle Liddy
-  - George F. Leonard
 summary: "Former FBI agent and Treasury aide who joined the Plumbers, planned Gemstone for Nixon's reelection committee, was convicted in Watergate and the Fielding break-in, and had his sentence commuted by Carter in 1977."
 born: 1930-11-30
 died: 2021-03-30

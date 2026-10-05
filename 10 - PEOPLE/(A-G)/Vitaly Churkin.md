@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Vitaly Churkin
+  - Vitaly Ivanovich Churkin
+  - Vitaly Chrukin
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - Diplomat
   - JeffreyEpstein
   - EhudBarak
-alias:
-  - Vitaly Churkin
-  - Vitaly Ivanovich Churkin
-  - Vitaly Chrukin
 summary: "Vitaly Churkin (1952-2017) was Russia's ambassador to the United Nations from 2006 until his death, and exchanged messages and meals with Jeffrey Epstein from 2015 to January 2017."
 born: 1952-02-21
 died: 2017-02-20

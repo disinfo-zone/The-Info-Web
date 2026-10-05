@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Joseph Leo McGlynn Jr.
+  - Joseph L. McGlynn
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - FederalJudiciary
   - Philadelphia
   - RCHorsch
-alias:
-  - Joseph Leo McGlynn Jr.
-  - Joseph L. McGlynn
 summary: "Federal judge in the Eastern District of Pennsylvania, appointed by Nixon in 1974, who sentenced R.C. Horsch in 1985 to three years for manufacturing methamphetamine."
 born: 1925-02-13
 died: 1999-02-23

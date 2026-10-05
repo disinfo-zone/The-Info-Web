@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Felipe Rivero Díaz
+  - Felipe Rivero Diaz
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Brigade2506
   - OrlandoLetelier
   - MichaelTownley
-alias:
-  - Felipe Rivero Díaz
-  - Felipe Rivero Diaz
 summary: "Founder and ideological chief of the Cuban Nationalist Movement whom Michael Townley named as the man who sent him to Guillermo Novo in 1975, called before the Letelier grand jury in 1977 and never charged."
 location: "Miami, Florida"
 created: 2026-09-21

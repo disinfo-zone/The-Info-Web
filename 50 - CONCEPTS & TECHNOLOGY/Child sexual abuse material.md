@@ -1,4 +1,11 @@
 ---
+aliases:
+  - CSAM
+  - Child sexual abuse material
+  - Child Sexual Abuse Material
+  - child pornography
+  - Child pornography
+  - CSA images
 category: "Law Enforcement & Legal"
 tags:
   - Concept
@@ -12,13 +19,6 @@ tags:
   - EARNITAct
   - GenerativeAI
   - SextortionNetworks
-alias:
-  - CSAM
-  - Child sexual abuse material
-  - Child Sexual Abuse Material
-  - child pornography
-  - Child pornography
-  - CSA images
 summary: "Statutory and institutional record of child sexual abuse material: its definition in 18 U.S.C. 2256 and UK law, the provider reporting duty, NCMEC and the CyberTipline, hash matching, the IWF, and AI training data."
 start: 1978-02-06
 location: "United States; United Kingdom"

@@ -1,9 +1,9 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - Schutzstaffel
   - Schutzstaffeln
   - Die Schutzstaffeln der Nationalsozialistischen Deutschen Arbeiterpartei
+category: "Intelligence & Government"
 tags:
   - Organization
   - NaziGermany

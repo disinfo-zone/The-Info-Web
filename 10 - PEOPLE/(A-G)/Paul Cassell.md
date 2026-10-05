@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Paul G. Cassell
+  - Paul George Cassell
+  - Judge Paul Cassell
+  - Paul Cassell
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,11 +14,6 @@ tags:
   - CrimeVictimsRightsAct
   - JeffreyEpstein
   - UniversityOfUtah
-alias:
-  - Paul G. Cassell
-  - Paul George Cassell
-  - Judge Paul Cassell
-  - Paul Cassell
 summary: "Utah law professor, former Reagan Justice Department official and former federal judge who, after leaving the bench in 2007, represented Epstein's victims in the Crime Victims' Rights Act case against the United States."
 born: 1959
 location: "Salt Lake City, Utah"

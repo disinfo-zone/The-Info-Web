@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Enrique Lautaro Arancibia Clavel
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - CarlosPrats
   - BuenosAires
   - Argentina
-alias:
-  - Enrique Lautaro Arancibia Clavel
 summary: "DINA's Buenos Aires station chief from 1974 to 1978, who prepared the ground for Townley's bomb under Carlos Prats's car, received a life sentence in Argentina in 2000, and was stabbed to death on parole."
 died: 2011
 location: "Buenos Aires, Argentina"

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Operations Research Office
+  - Research Analysis Corporation
+  - ORO
+  - RAC
 category: "Private Organization"
 tags:
   - Organization
@@ -7,7 +12,6 @@ tags:
   - ColdWar
   - USArmy
   - KoreanWar
-alias: Operations Research Office, Research Analysis Corporation, ORO, RAC
 summary: "A pair of successive Army-linked research organizations at Johns Hopkins University and then McLean, Virginia, that conducted early Cold War studies on fighter selection, unit cohesion, and guerrilla psychology before the university severed the relationship and the work continued under an independent nonprofit."
 location: McLean, Virginia
 created: 2026-06-04

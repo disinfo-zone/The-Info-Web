@@ -1,4 +1,9 @@
 ---
+aliases:
+  - James Fox
+  - James Fox (filmmaker)
+  - James Fox (documentary filmmaker)
+  - James Fox (director)
 category: "UFO & Anomalous Phenomena"
 tags:
   - UFO
@@ -6,11 +11,6 @@ tags:
   - UAP
   - Filmmaker
   - Documentary
-alias:
-  - James Fox
-  - James Fox (filmmaker)
-  - James Fox (documentary filmmaker)
-  - James Fox (director)
 summary: "Documentary filmmaker who directed UFOs: 50 Years of Denial?, Out of the Blue, I Know What I Saw, The Phenomenon (2020), Moment of Contact (2022) and The Program (2024)."
 relations:
   - type: director_of

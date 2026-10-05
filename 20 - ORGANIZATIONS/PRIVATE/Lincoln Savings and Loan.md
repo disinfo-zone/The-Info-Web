@@ -1,14 +1,14 @@
 ---
+aliases:
+  - Lincoln Savings & Loan
+  - Lincoln Savings
+  - Lincoln Savings and Loan Association
 category: "Private Organization"
 tags:
   - Organization
   - SavingsAndLoan
   - KeatingFive
   - Fraud
-alias:
-  - Lincoln Savings & Loan
-  - Lincoln Savings
-  - Lincoln Savings and Loan Association
 summary: "Irvine, California savings and loan bought in 1984 by Charles Keating's American Continental Corporation and seized in April 1989; its failure cost taxpayers more than three billion dollars."
 end: 1989
 location: "Irvine, California, USA"

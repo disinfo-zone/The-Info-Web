@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Near East
+  - Mideast
 category: "Region"
 tags:
   - Place
@@ -6,11 +9,7 @@ tags:
   - Israel
   - Iran
   - ArmsTrade
-alias:
-  - Near East
-  - Mideast
 summary: "The region from Egypt to Iran as it appears in the vault: the object of American nuclear intelligence, arms and hostage dealing, covert liaison clubs, and, latterly, of sovereign-wealth money for the well connected."
-
 created: 2026-09-22
 updated: 2026-09-22
 ---

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Michael M. Baden
+  - Dr. Michael Baden
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JFKAssassination
   - HSCA
   - Autopsy
-alias:
-  - Michael M. Baden
-  - Dr. Michael Baden
 summary: "Michael Baden is the former New York City chief medical examiner who observed Jeffrey Epstein's autopsy for his brother and said the three neck fractures pointed toward homicidal strangulation rather than suicide."
 location: "New York, New York"
 relations:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - "Public Law 80-253"
+  - "National Security Act"
 category: "Intelligence Concept"
 tags:
   - Concept
@@ -9,9 +12,6 @@ tags:
   - NationalSecurityCouncil
   - ColdWar
   - TrumanAdministration
-alias:
-  - "Public Law 80-253"
-  - "National Security Act"
 summary: "Statute of July 26, 1947, that created the National Security Council, the Central Intelligence Agency and the National Military Establishment, barring the new agency from police, subpoena, law-enforcement or internal-security functions."
 start: 1947-07-26
 location: "Washington, D.C."

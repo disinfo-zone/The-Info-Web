@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Konrad Kellen
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,7 +9,6 @@ tags:
   - PsychologicalWarfare
   - Counterinsurgency
   - ColdWar
-alias: Konrad Kellen
 summary: "Rand Corporation analyst and former World War II psychological warfare professional who, working from the same Viet Cong interview transcripts as Leon Gouré, reached the opposite conclusions: that VC morale was high, organizational cohesion was strong, and the war was unwinnable; his findings were formally published but ignored by policymakers."
 location: Santa Monica, California
 created: 2026-06-04

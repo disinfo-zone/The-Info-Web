@@ -1,4 +1,8 @@
 ---
+aliases:
+  - World
+  - Tools for Humanity
+  - World ID
 category: "Private Organization"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - Biometrics
   - Cryptocurrency
   - ArtificialIntelligence
-alias:
-  - World
-  - Tools for Humanity
-  - World ID
 summary: "Worldcoin, rebranded World, is a biometric-identity and cryptocurrency project cofounded by Sam Altman and operated by Tools for Humanity that scans people's irises with a device called the Orb to build a global proof-of-personhood database, and that has been banned or investigated in numerous countries over its data collection."
 location: "San Francisco, California; Erlangen, Germany"
 created: 2026-06-19

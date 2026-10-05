@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kathryn Ruemmler
+  - Kathy Ruemmler
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - LathamWatkins
   - JeffreyEpstein
   - ObamaAdministration
-alias:
-  - Kathryn Ruemmler
-  - Kathy Ruemmler
 summary: "Kathryn Ruemmler is the former Obama White House Counsel who met Jeffrey Epstein more than three dozen times between 2014 and 2019 and resigned as Goldman Sachs general counsel in 2026."
 born: 1971
 location: "Washington, D.C.; New York, New York"

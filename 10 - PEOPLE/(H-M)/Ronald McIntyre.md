@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ronald McIntyre
+  - Ronald Mc Intyre
 category: "Military"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Brigade2506
   - OrlandoLetelier
   - CubanExiles
-alias:
-  - Ronald McIntyre
-  - Ronald Mc Intyre
 summary: "Chilean admiral at the naval mission in Washington from 1976 to 1978 who met the leadership of Brigade 2506 in September 1976 to enlist Miami Cubans as a lobby for Chile."
 location: "Washington, D.C."
 created: 2026-09-21

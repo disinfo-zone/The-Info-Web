@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Olney house of horrors
+  - Chew Avenue investigation
+  - Horsch investigation
 category: "Crime Investigation"
 tags:
   - Event
@@ -8,10 +12,6 @@ tags:
   - FBI
   - RCHorsch
   - Kensington
-alias:
-  - Olney house of horrors
-  - Chew Avenue investigation
-  - Horsch investigation
 summary: "Philadelphia police and FBI investigation, opened in June 2026, into seven missing women linked by recovered video and photographs to the West Chew Avenue house of the late pornographer R.C. Horsch and his son Eugene."
 start: 2026-06-19
 location: "Philadelphia, Pennsylvania"

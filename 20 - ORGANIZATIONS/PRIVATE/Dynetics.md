@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Dynetics, Inc.
+  - Dynetics Inc
+  - Dynetics Inc.
+  - DYHC, Inc.
+  - Leidos Dynetics
 category: "Organizations"
 tags:
   - Organization
@@ -10,12 +16,6 @@ tags:
   - Leidos
   - DARPA
   - AMTC
-alias:
-  - Dynetics, Inc.
-  - Dynetics Inc
-  - Dynetics Inc.
-  - DYHC, Inc.
-  - Leidos Dynetics
 summary: "Huntsville, Alabama engineering and weapons-systems company founded in 1974, employee-owned until Leidos bought it for $1.65 billion on January 31, 2020, and holder of FCC experimental licence WK2XCW with a Sierra Blanca, Texas site."
 location: "Huntsville, Alabama"
 relations:

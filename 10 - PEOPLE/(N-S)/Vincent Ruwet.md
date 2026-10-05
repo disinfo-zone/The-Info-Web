@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Vincent L. Ruwet
 category: "Military"
 tags:
   - Person
@@ -7,7 +9,6 @@ tags:
   - MKNAOMI
   - FortDetrick
   - ColdWar
-alias: Vincent L. Ruwet
 summary: "Lieutenant Colonel who headed the Army's Special Operations Division at Fort Detrick and was Frank Olson's direct superior, present at the Deep Creek retreat where the CIA dosed his men with LSD and the official who escorted Olson to New York before his death."
 location: Fort Detrick, Maryland
 created: 2026-06-12

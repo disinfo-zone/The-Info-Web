@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ghislaine Maxwell
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - SexTrafficking
   - Conviction
   - Mossad
-alias:
-  - Ghislaine Maxwell
 summary: "British socialite convicted in 2021 of sex trafficking a minor as Jeffrey Epstein's principal accomplice, daughter of Robert Maxwell, whose immunity appeal failed and whose 2025 Justice Department interview preceded a prison-camp transfer."
 born: 1961-12-25
 location: "Maisons-Laffitte, France (born)"

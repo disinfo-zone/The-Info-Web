@@ -1,4 +1,11 @@
 ---
+aliases:
+  - JPMorgan
+  - J.P. Morgan
+  - JPMorgan Chase Bank N.A.
+  - JPMorgan Chase & Co.
+  - JPMorganChase
+  - JPMC
 category: "Private Organization"
 tags:
   - Organization
@@ -11,13 +18,6 @@ tags:
   - JesStaley
   - SuspiciousActivityReports
   - Highbridge
-alias:
-  - JPMorgan
-  - J.P. Morgan
-  - JPMorgan Chase Bank N.A.
-  - JPMorgan Chase & Co.
-  - JPMorganChase
-  - JPMC
 summary: "Largest U.S. bank, which kept Jeffrey Epstein as a client from 1998 to 2013 over compliance objections, flagged most of his suspicious transactions only after his 2019 arrest, and paid 365 million dollars in settlements."
 location: "New York, New York"
 created: 2026-06-20

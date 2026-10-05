@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Robert Peloquin
+  - Robert D. Peloquin
+  - Robert Dolan Peloquin
+  - Bob Peloquin
 category: "Business & Finance"
 tags:
   - Person
@@ -12,11 +17,6 @@ tags:
   - OperationTradewinds
   - Watergate
   - Bahamas
-alias:
-  - Robert Peloquin
-  - Robert D. Peloquin
-  - Robert Dolan Peloquin
-  - Bob Peloquin
 summary: "Justice Department organized crime lawyer who founded the Resorts International subsidiary Intertel in 1970, took over security for Howard Hughes's Nevada casinos that December, and later chaired Resorts International."
 born: 1929-01-09
 died: 2011-03-24

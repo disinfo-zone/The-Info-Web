@@ -1,4 +1,8 @@
 ---
+aliases:
+  - H.L. Hunt Jr.
+  - Haroldson Lafayette Hunt Jr.
+  - Haroldson Lafayette Hunt III
 category: "Victims & Witnesses"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - HuntOil
   - Lobotomy
   - PlacidOil
-alias:
-  - H.L. Hunt Jr.
-  - Haroldson Lafayette Hunt Jr.
-  - Haroldson Lafayette Hunt III
 summary: "Eldest son of H.L. Hunt, an oil finder worth millions at twenty-four, who broke down in the army in 1943 and was lobotomized, and whose trusts were run by his brothers and sisters."
 born: 1917-11-23
 died: 2005

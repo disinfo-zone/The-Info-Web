@@ -1,15 +1,5 @@
 ---
-category: "Historical Phenomenon"
-tags:
-  - UAP
-  - UFO
-  - MajesticDocuments
-  - Disinformation
-  - Counterintelligence
-  - FBI
-  - NARA
-  - Roswell
-alias:
+aliases:
   - Majestic-12
   - Majestic 12
   - MJ-12
@@ -21,6 +11,16 @@ alias:
   - Majestic Twelve
   - Eisenhower Briefing Document
   - Cutler-Twining memo
+category: "Historical Phenomenon"
+tags:
+  - UAP
+  - UFO
+  - MajesticDocuments
+  - Disinformation
+  - Counterintelligence
+  - FBI
+  - NARA
+  - Roswell
 summary: "Documents describing a 1947 presidential committee on flying discs, received by Jaime Shandera in 1984 and reported found at the National Archives in 1985; the FBI wrote in 1988 that the briefing document was bogus."
 start: 1984-12-11
 location: "North Hollywood, California"

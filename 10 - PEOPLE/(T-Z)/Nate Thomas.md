@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nathaniel Thomas
+  - Nathaniel C. Thomas
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Longtermism
   - RedwoodResearch
   - StanfordUniversity
-alias:
-  - Nathaniel Thomas
-  - Nathaniel C. Thomas
 summary: "Stanford-affiliated machine-learning researcher who cofounded Redwood Research in 2021 as chief executive, later chaired its board, and led the affiliated Constellation Institute in Berkeley."
 location: "Berkeley, California"
 relations:

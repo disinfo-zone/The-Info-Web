@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Enhanced Education
+  - J. Epstein Virgin Islands Foundation
+  - J. Epstein Virgin Islands Foundation, Inc.
+  - J Epstein Virgin Islands Foundation Inc
+  - Jeffrey Epstein Virgin Islands Foundation
+  - Jeffrey Epstein VI Foundation, Inc.
+  - Epstein VI Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -8,14 +16,6 @@ tags:
   - ScienceFunding
   - ReputationManagement
   - ShellCompany
-alias:
-  - Enhanced Education
-  - J. Epstein Virgin Islands Foundation
-  - J. Epstein Virgin Islands Foundation, Inc.
-  - J Epstein Virgin Islands Foundation Inc
-  - Jeffrey Epstein Virgin Islands Foundation
-  - Jeffrey Epstein VI Foundation, Inc.
-  - Epstein VI Foundation
 summary: "Jeffrey Epstein's St. Thomas private foundation, registered with the IRS as Enhanced Education, which funded scientists and Edge, issued inflated gift claims, filed one tax return, and paid young models through Darren Indyke."
 start: 2000-06
 location: "6100 Red Hook Quarter, Suite B3, St. Thomas, U.S. Virgin Islands"

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Peter Skafish
+  - Dr. Peter Skafish
+  - Skafish
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - Anthropologist
   - SolFoundation
   - Disclosure
-alias:
-  - Peter Skafish
-  - Dr. Peter Skafish
-  - Skafish
 summary: "Anthropologist (PhD, Berkeley) who co-founded the Sol Foundation with Garry Nolan in 2023, signed its 2024 Form 990 as secretary, and was named to Avi Loeb's UAP Science Advisory Council in June 2026."
 location: "California"
 relations:

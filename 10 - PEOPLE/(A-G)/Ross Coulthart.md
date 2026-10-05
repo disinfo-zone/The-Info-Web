@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ross Coulthart
+  - Coulthart
 category: "Authors & Journalists"
 tags:
   - UFO
@@ -7,9 +10,6 @@ tags:
   - Journalist
   - NewsNation
   - Australia
-alias:
-  - Ross Coulthart
-  - Coulthart
 summary: "Australian investigative journalist and author of In Plain Sight (2021) who joined NewsNation as special correspondent on November 14, 2023 and reported on David Grusch, Jake Barber and Skywatcher."
 relations:
   - type: employed_by

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Timothy Leary
+  - Tim Leary
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -12,9 +15,6 @@ tags:
   - Counterculture
   - Cyberculture
   - Transhumanism
-alias:
-  - Timothy Leary
-  - Tim Leary
 summary: "Timothy Leary was the Harvard psychologist turned psychedelic evangelist who ran the Harvard Psilocybin Project, coined 'turn on, tune in, drop out,' operated under documented CIA surveillance while drawing on research networks whose funding traced to MKULTRA, and in his final decades became a champion of personal computers, space migration, and life extension."
 born: 1920-10-22
 died: 1996-05-31

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Coral Gables
 category: "City"
 tags:
   - Place
@@ -7,8 +9,6 @@ tags:
   - Wackenhut
   - ITT
   - MullenCompany
-alias:
-  - Coral Gables
 summary: "City adjoining Miami that was the headquarters of the Wackenhut Corporation and the site of an ITT public relations office about which the Watergate special prosecutor questioned the CIA in 1973."
 location: "Florida, United States"
 created: 2026-09-21

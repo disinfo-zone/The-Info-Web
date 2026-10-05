@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ora Limited
+  - Ora
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - ArmsTrade
   - PROMIS
   - Likud
-alias:
-  - Ora Limited
-  - Ora
 summary: "The holding company that, in Ari Ben-Menashe's account, the Israeli Joint Committee created about 1981 to hold the slush fund of its arms sales to Iran, run in London through Nicholas Davies as Ora Limited, and through which he says 600,000 dollars went to Earl Brian's Hadron for INSLAW's law firm."
 start: 1981
 location: "Tel Aviv and London"

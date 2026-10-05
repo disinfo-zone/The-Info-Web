@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Stephen H. Deckoff
+  - Steve Deckoff
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - Property
   - EconomicDevelopmentCommission
-alias:
-  - Stephen H. Deckoff
-  - Steve Deckoff
 summary: "Stephen Deckoff is the founder of Black Diamond Capital Management and a U.S. Virgin Islands resident since 2011 who bought Jeffrey Epstein's Little St. James and Great St. James from the estate in 2023."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

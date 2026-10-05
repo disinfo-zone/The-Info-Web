@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Elizabeth Abrams
 category: "Law Enforcement & Legal"
 tags:
   - Person
   - Prosecutor
   - Philadelphia
   - RCHorsch
-alias:
-  - Elizabeth Abrams
 summary: "Assistant United States Attorney in the Eastern District of Pennsylvania who prosecuted R.C. Horsch's 2009-2012 marijuana and firearms case."
 location: "Philadelphia, Pennsylvania"
 relations:

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Rep. Robert Garcia
+  - Representative Robert Garcia
+  - Ranking Member Robert Garcia
 category: "Political Figure"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - EpsteinFiles
   - LongBeach
-alias:
-  - Rep. Robert Garcia
-  - Representative Robert Garcia
-  - Ranking Member Robert Garcia
 summary: "California Democratic congressman, formerly mayor of Long Beach, who as ranking member of the House Oversight Committee released Jeffrey Epstein's emails about Donald Trump and pressed for the Justice Department's files."
 born: 1977-12-02
 location: "Long Beach, California"

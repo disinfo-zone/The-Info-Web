@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Joseph Giroir
+  - C. Joseph Giroir Jr.
+  - Joe Giroir
 category: "Law Enforcement & Legal"
 tags:
   - BCCI
@@ -7,10 +11,6 @@ tags:
   - Arkansas
   - Lippo
   - CampaignFinance
-alias:
-  - Joseph Giroir
-  - C. Joseph Giroir Jr.
-  - Joe Giroir
 summary: "Rose Law Firm lawyer and Worthen Banking Corporation partner whose deposition described the Lippo Group's Arkansas partnership with the Stephens family; Lippo later paid him through a company he incorporated in 1993."
 location: "Little Rock, Arkansas"
 relations:

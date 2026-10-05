@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sarah Kensington
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - NonProsecutionAgreement
   - Immunity
   - HouseOversightCommittee
-alias:
-  - Sarah Kensington
 summary: "Jeffrey Epstein's personal assistant from 2001, named and immunized as a potential co-conspirator in his 2007 non-prosecution agreement, never charged, who told Congress in 2026 that she was herself his victim."
 location: "New York, New York"
 relations:

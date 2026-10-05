@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Edge Foundation
+  - Edge.org
+  - Edge
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - SciencePhilanthropy
   - ThirdCulture
   - BillionairesDinner
-  - Edge
-alias:
-  - Edge Foundation
-  - Edge.org
   - Edge
 summary: "The Edge Foundation is John Brockman's nonprofit that runs Edge.org, hosts the annual Edge Question and Billionaires' Dinner, and drew a majority of its 2001 to 2017 revenue from foundations associated with Jeffrey Epstein."
 created: 2026-06-20

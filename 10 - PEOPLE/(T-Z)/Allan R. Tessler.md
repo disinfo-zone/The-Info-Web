@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alan Tessler
+  - Allan Tessler
 category: "Business & Finance"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - INSLAW
   - SheaGould
   - HudsonInstitute
-alias:
-  - Alan Tessler
-  - Allan Tessler
 summary: "Senior managing partner of Shea and Gould whom Bill Hamilton's affidavit named as Earl Brian's and Hadron's merger lawyer; later a merchant banker, L Brands director and Hudson Institute chairman."
 location: "Jackson, Wyoming"
 created: 2026-09-22

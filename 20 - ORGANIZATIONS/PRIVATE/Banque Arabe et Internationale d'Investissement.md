@@ -1,4 +1,8 @@
 ---
+aliases:
+  - BAII
+  - B.A.I.I.
+  - Banque Arabe et Internationale d'Investissement, Paris
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - Paris
   - FirstAmerican
   - FinancialGeneral
-alias:
-  - BAII
-  - B.A.I.I.
-  - Banque Arabe et Internationale d'Investissement, Paris
 summary: "Arab-owned Paris consortium bank sharing directors with BCCI, which lent 50 million dollars for the 1982 Financial General takeover and passed BCCI money to Ghaith Pharaon for Independence Bank."
 location: "Paris, France"
 relations:

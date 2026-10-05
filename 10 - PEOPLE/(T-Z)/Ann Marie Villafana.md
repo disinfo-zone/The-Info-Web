@@ -1,14 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
-tags:
-  - Person
-  - JeffreyEpstein
-  - NonProsecutionAgreement
-  - Prosecutor
-  - DepartmentOfJustice
-  - PalmBeach
-  - CrimeVictimsRightsAct
-alias:
+aliases:
   - Ann Marie Villafana
   - Ann Marie Villafaña
   - A. Marie Villafaña
@@ -19,6 +10,15 @@ alias:
   - Ann C. Villafana
   - Villafaña
   - Villafana
+category: "Law Enforcement & Legal"
+tags:
+  - Person
+  - JeffreyEpstein
+  - NonProsecutionAgreement
+  - Prosecutor
+  - DepartmentOfJustice
+  - PalmBeach
+  - CrimeVictimsRightsAct
 summary: "Assistant U.S. Attorney in West Palm Beach who opened the 2006 federal Epstein investigation, drafted a 60-count indictment, negotiated and signed the 2007 non-prosecution agreement, and left the office in August 2019."
 location: "West Palm Beach, Florida"
 relations:

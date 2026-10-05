@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "The Sovereign Individual: How to Survive and Thrive During the Collapse of the Welfare State"
 category: "Ideology"
 tags:
   - Concept
@@ -9,8 +11,6 @@ tags:
   - AnarchoCapitalism
   - Cryptocurrency
   - Seasteading
-alias:
-  - "The Sovereign Individual: How to Survive and Thrive During the Collapse of the Welfare State"
 summary: "The Sovereign Individual is a 1997 book by William Rees-Mogg and James Dale Davidson that argues digital encryption and electronic commerce will erode the taxing capacity of nation-states and produce a new class of mobile, sovereign individuals operating beyond territorial jurisdiction, repeatedly cited publicly by Peter Thiel as prophetic."
 created: 2026-06-18
 updated: 2026-06-18

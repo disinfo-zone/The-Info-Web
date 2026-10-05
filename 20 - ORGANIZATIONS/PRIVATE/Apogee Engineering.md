@@ -1,15 +1,15 @@
 ---
+aliases:
+  - Apogee
+  - Apogee USA
+  - Apogee Engineering LLC
+  - Apogee Engineering, LLC
 category: "Organizations"
 tags:
   - Organization
   - DefenseContractor
   - ColoradoSprings
   - IntelligenceSupport
-alias:
-  - Apogee
-  - Apogee USA
-  - Apogee Engineering LLC
-  - Apogee Engineering, LLC
 summary: "Colorado Springs defense contractor and one of four holders of the $866 million NASIC ASTRA advisory and assistance contract, awarded May 6, 2026."
 location: "Colorado Springs, Colorado"
 relations:

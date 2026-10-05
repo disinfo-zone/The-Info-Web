@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Harry C. Holloway
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - GrillFlame
   - RemoteViewing
   - Army
-alias:
-  - Harry C. Holloway
 summary: "Army colonel and chairman of psychiatry at the Uniformed Services University who sat on the 1979 Gale Committee and joined its minority opinion against operational remote viewing."
 location: "Bethesda, Maryland"
 created: 2026-09-22

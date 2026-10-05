@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Federation for American Immigration Reform
+  - Federation for American Immigration Reform (FAIR)
+  - FAIR
 category: "Private Organization"
 tags:
   - Organization
@@ -11,10 +15,6 @@ tags:
   - ImmigrationRestriction
   - Section501c3
   - LobbyingDisclosure
-alias:
-  - Federation for American Immigration Reform
-  - Federation for American Immigration Reform (FAIR)
-  - FAIR
 summary: "Washington nonprofit founded in 1979 by John Tanton with seed money from Cordelia Scaife May, funded by the Pioneer Fund from 1982 to 1994 and by the Colcom Foundation through 2025."
 start: 1979-01-02
 location: "Washington, D.C."

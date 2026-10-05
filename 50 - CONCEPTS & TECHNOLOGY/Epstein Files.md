@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Epstein files
+  - Epstein Library
+  - DOJ Epstein Library
+  - Epstein document release
 category: "Crime & Abuse Networks"
 tags:
   - Concept
@@ -10,11 +15,6 @@ tags:
   - EpsteinFilesTransparencyAct
   - Redaction
   - CongressionalOversight
-alias:
-  - Epstein files
-  - Epstein Library
-  - DOJ Epstein Library
-  - Epstein document release
 summary: "Body of Justice Department and FBI records on Jeffrey Epstein and Ghislaine Maxwell, released in stages from February 2025 and, under a 2025 statute, as a library of nearly 3.5 million pages."
 start: 2025-02-27
 location: "Washington, D.C."

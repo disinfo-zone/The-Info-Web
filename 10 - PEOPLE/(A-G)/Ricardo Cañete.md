@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ricardo Canete
 category: "Other"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - CubanNationalistMovement
   - OrlandoLetelier
   - IgnacioNovo
-alias:
-  - Ricardo Canete
 summary: "FBI informant in Brooklyn who in the spring of 1977 sold forged identity papers to Ignacio Novo of the Cuban Nationalist Movement and reported his talk of counterfeit money and war to the bureau."
 location: "Brooklyn, New York"
 created: 2026-09-21

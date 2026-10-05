@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Florida Department of Law Enforcement
+  - FDLE
+  - Florida Dept. of Law Enforcement
 category: "U.S. Government"
 tags:
   - Organization
@@ -6,10 +10,6 @@ tags:
   - Florida
   - JeffreyEpstein
   - WorkRelease
-alias:
-  - Florida Department of Law Enforcement
-  - FDLE
-  - Florida Dept. of Law Enforcement
 summary: "Florida's statewide law enforcement agency, which Governor Ron DeSantis directed in 2019 to investigate the state's handling of Jeffrey Epstein, and which reported in 2021 differential treatment but no crimes."
 location: "Tallahassee, Florida"
 relations:

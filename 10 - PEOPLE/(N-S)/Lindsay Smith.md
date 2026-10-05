@@ -1,4 +1,7 @@
 ---
+aliases:
+  - John Lindsay Smith
+  - Brigadier Lindsay Smith
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Military
   - RainbowWarrior
   - RCHorsch
-alias:
-  - John Lindsay Smith
-  - Brigadier Lindsay Smith
 summary: "New Zealand army brigadier who directed the New Zealand Security Intelligence Service from 1983 to 1991, including the 1984 Stokowski affair and the 1985 Rainbow Warrior bombing."
 born: 1926-03-06
 died: 2002-09-11

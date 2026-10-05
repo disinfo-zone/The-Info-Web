@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cosmism
+  - Russian Cosmists
 category: "Esoteric & Historical Concept"
 tags:
   - Concept
@@ -8,9 +11,6 @@ tags:
   - LifeExtension
   - SpaceColonization
   - TESCREAL
-alias:
-  - Cosmism
-  - Russian Cosmists
 summary: "Russian Cosmism is the late-19th-century movement originating with the Orthodox mystic Nikolai Fedorov that called for the technological resurrection of all the dead, radical life extension, and the colonization of space, and it supplies the 'C' in the TESCREAL acronym."
 location: "Russia"
 created: 2026-06-20

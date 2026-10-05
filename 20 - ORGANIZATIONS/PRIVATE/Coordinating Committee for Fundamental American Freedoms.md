@@ -1,4 +1,7 @@
 ---
+aliases:
+  - CCFAF
+  - Coordinating Committee
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Lobbying
   - MississippiStateSovereigntyCommission
   - WickliffeDraper
-alias:
-  - CCFAF
-  - Coordinating Committee
 summary: "Washington lobby against the Civil Rights Act of 1964, chaired by the publisher William Loeb, that drew three quarters of its 343,191 dollars through the Mississippi State Sovereignty Commission, most of it from Wickliffe Draper."
 start: 1963-07
 end: 1964

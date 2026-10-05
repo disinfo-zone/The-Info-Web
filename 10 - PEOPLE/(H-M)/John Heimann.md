@@ -1,12 +1,12 @@
 ---
+aliases:
+  - John G. Heimann
 category: "Intelligence & Government"
 tags:
   - Person
   - BCCI
   - BankRegulator
   - Comptroller
-alias:
-  - John G. Heimann
 summary: "New York banking superintendent who twice blocked BCCI's attempts to buy a New York bank through nominees, then as Comptroller of the Currency approved Ghaith Pharaon's 1978 purchase of the National Bank of Georgia."
 born: 1929-04-01
 died: 2024-01-31

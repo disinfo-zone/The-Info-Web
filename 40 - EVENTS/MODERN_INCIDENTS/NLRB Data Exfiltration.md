@@ -1,4 +1,7 @@
 ---
+aliases:
+  - NLRB data breach
+  - Berulis disclosure
 category: "Modern Incident"
 tags:
   - Event
@@ -10,9 +13,6 @@ tags:
   - Russia
   - ElonMusk
   - UnionData
-alias:
-  - NLRB data breach
-  - Berulis disclosure
 summary: The NLRB data exfiltration was a 2025 incident in which Department of Government Efficiency engineers accessed National Labor Relations Board systems and exfiltrated large volumes of sensitive data on union organizing and labor complaints, followed by multiple blocked login attempts from a Russian IP address, disclosed by NLRB cybersecurity whistleblower Daniel Berulis in April 2025.
 start: 2025
 location: National Labor Relations Board (federal systems)

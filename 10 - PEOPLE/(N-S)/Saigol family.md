@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Saigols
+  - the Saigols
+  - Saigol Group
+  - Saigol group
 category: "Business & Finance"
 tags:
   - Person
@@ -7,11 +12,6 @@ tags:
   - BCCI
   - Textiles
   - Nationalization
-alias:
-  - Saigols
-  - the Saigols
-  - Saigol Group
-  - Saigol group
 summary: "Punjabi textile and industrial family whose account Agha Hasan Abedi carried from Habib Bank to United Bank and BCCI, and which owed BCCI 44 million dollars by 1990."
 location: "Pakistan"
 created: 2026-09-23

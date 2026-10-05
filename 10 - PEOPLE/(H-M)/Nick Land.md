@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nick Land
 category: "Authors & Journalists"
 tags:
   - NewRight
@@ -10,8 +12,6 @@ tags:
   - Neoreaction
   - Philosophy
   - UniversityOfWarwick
-alias:
-  - Nick Land
 summary: "Nick Land is an English philosopher who co-founded the Cybernetic Culture Research Unit at the University of Warwick in the 1990s, originated the right-accelerationist current that fed into the Dark Enlightenment, and whose CCRU-era writings on capitalism and technology as self-reinforcing feedback loops supplied the metaphysical register that Curtis Yarvin's Neoreaction supplied the institutional register for."
 born: 1962-01-17
 location: "England"

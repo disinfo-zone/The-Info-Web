@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Edward M. Korry
+  - Ambassador Korry
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - ChurchCommittee
   - ITT
   - StateDepartment
-alias:
-  - Edward M. Korry
-  - Ambassador Korry
 summary: "United States ambassador to Chile from 1967 to 1971 who planned the covert campaign against Salvador Allende, was kept ignorant of the CIA's coup plot, was blamed for it, and accused the Church Committee of a cover-up."
 location: "Santiago, Chile"
 created: 2026-09-21

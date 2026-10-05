@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Denise N. George
+  - Denise George-Counts
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - GovernmentCapture
   - AttorneyGeneral
   - SouthernTrust
-alias:
-  - Denise N. George
-  - Denise George-Counts
 summary: "Denise George was the U.S. Virgin Islands Attorney General who sued Jeffrey Epstein's estate and JPMorgan Chase, and who was fired by the governor days after filing the JPMorgan suit."
 location: "U.S. Virgin Islands"
 created: 2026-06-20

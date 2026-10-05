@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bruce Berckmans, Jr.
+  - Bruce E. Berckmans
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - DomesticContactService
   - Jamaica
   - TomClines
-alias:
-  - Bruce Berckmans, Jr.
-  - Bruce E. Berckmans
 summary: "Former CIA staff agent asked to resign in 1970 who became Wackenhut's director of international operations, threatened to sue the agency in June 1976, and instead offered himself as its contact."
 location: "Coral Gables, Florida"
 created: 2026-09-21

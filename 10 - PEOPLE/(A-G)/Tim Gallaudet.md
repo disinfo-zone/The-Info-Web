@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Tim Gallaudet
+  - Timothy Gallaudet
+  - Timothy C. Gallaudet
+  - Timothy Cole Gallaudet
+  - RDML Tim Gallaudet
+  - Rear Admiral Tim Gallaudet
+  - Gallaudet
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -9,14 +17,6 @@ tags:
   - Oceanography
   - SolFoundation
   - Disclosure
-alias:
-  - Tim Gallaudet
-  - Timothy Gallaudet
-  - Timothy C. Gallaudet
-  - Timothy Cole Gallaudet
-  - RDML Tim Gallaudet
-  - Rear Admiral Tim Gallaudet
-  - Gallaudet
 summary: "Retired Navy rear admiral and oceanographer who served as Assistant Secretary of Commerce and acting NOAA head, testified to the House Oversight Committee on UAP on November 13, 2024 and advises several UAP groups."
 location: "United States"
 relations:

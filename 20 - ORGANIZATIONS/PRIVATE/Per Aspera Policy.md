@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Per Aspera Policy
 category: "Private Organization"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - JDVance
   - RepublicanParty
   - PoliticalSpending
-alias:
-  - Per Aspera Policy
 summary: "Per Aspera Policy is a Thiel-tied 501(c)(4) dark-money organization that steered approximately 200,000 dollars to the Protect Ohio Values super PAC supporting JD Vance's 2022 Ohio Senate primary alongside Thiel's direct contributions, documented by OpenSecrets in February 2022."
 location: "United States"
 created: 2026-06-18

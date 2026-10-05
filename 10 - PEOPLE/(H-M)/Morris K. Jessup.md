@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Morris K. Jessup
+  - Morris Ketchum Jessup
+  - M. K. Jessup
+  - Dr. M. K. Jessup
+  - Dr. Jessup
+  - Jessup
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -7,13 +14,6 @@ tags:
   - ONR
   - PhiladelphiaExperiment
   - VaroEdition
-alias:
-  - Morris K. Jessup
-  - Morris Ketchum Jessup
-  - M. K. Jessup
-  - Dr. M. K. Jessup
-  - Dr. Jessup
-  - Jessup
 summary: "Author of The Case for the UFO (1955), whose annotated paperback reached the Office of Naval Research and was retyped by Varo; he died in Dade County, Florida, on April 20, 1959."
 location: "Miami, Florida"
 relations:

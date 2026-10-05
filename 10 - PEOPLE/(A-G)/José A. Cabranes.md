@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jose A. Cabranes
+  - José Alberto Cabranes
+  - Jose Alberto Cabranes
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - GhislaineMaxwell
   - GiuffreVMaxwell
   - YaleUniversity
-alias:
-  - Jose A. Cabranes
-  - José Alberto Cabranes
-  - Jose Alberto Cabranes
 summary: "Second Circuit judge, formerly Yale's general counsel and presiding judge of the FISA Court of Review, who sat on five appellate panels in the Giuffre v. Maxwell unsealing fight and Ghislaine Maxwell's criminal appeal."
 born: 1940
 location: "Connecticut"

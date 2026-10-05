@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Raymond C. Hoersch Sr.
+  - Raymond Hoersch
+  - Ray Hoersch Sr.
 category: "Other"
 tags:
   - AbuseNetworks
@@ -8,10 +12,6 @@ tags:
   - GliderPilot
   - BucksCounty
   - Aviation
-alias:
-  - Raymond C. Hoersch Sr.
-  - Raymond Hoersch
-  - Ray Hoersch Sr.
 summary: "Bucks County engineer and Second World War glider pilot, father of the pornographer and fugitive R.C. Horsch, whose Chalfont house and aircraft registration were tied to his son's cases."
 born: 1918-08-17
 died: 1991-11-20

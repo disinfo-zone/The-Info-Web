@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Esalen
+  - Esalen Institute
 category: "Private Organization"
 tags:
   - Organization
@@ -12,9 +15,6 @@ tags:
   - FBI
   - ColdWar
   - RemoteViewing
-alias:
-  - Esalen
-  - Esalen Institute
 summary: "Esalen Institute is the Big Sur retreat center founded in 1962 by Michael Murphy and Dick Price that became the seedbed of the Human Potential movement and whose Soviet-American citizen-diplomacy program drew documented CIA and FBI monitoring."
 start: 1962
 location: "Big Sur, California"

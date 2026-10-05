@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Maurene R. Comey
+  - Maurene Ryan Comey
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Prosecutor
   - Firing
   - JamesComey
-alias:
-  - Maurene R. Comey
-  - Maurene Ryan Comey
 summary: "Maurene Comey is the former federal prosecutor in Manhattan who worked the Jeffrey Epstein and Ghislaine Maxwell cases and was fired without stated cause in July 2025, nine days after the Justice Department's Epstein memorandum."
 location: "New York, New York"
 relations:

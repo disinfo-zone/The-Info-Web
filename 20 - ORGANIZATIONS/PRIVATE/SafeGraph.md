@@ -1,4 +1,6 @@
 ---
+aliases:
+  - SafeGraph Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -8,8 +10,6 @@ tags:
   - LocationData
   - CDC
   - AurenHoffman
-alias:
-  - SafeGraph Inc.
 summary: "SafeGraph is a location-data brokerage founded in 2014 by Auren Hoffman that aggregates and resells mobile-device location pings collected from smartphone applications, and whose 2020 contract to supply cell-phone location data to the U.S. Centers for Disease Control and Prevention surfaced the warrantless availability of commercial location data to federal agencies."
 location: "San Francisco, California"
 created: 2026-06-17

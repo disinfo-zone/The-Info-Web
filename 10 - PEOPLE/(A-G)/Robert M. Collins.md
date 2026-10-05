@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Robert M. Collins
+  - Robert Collins
+  - Bob Collins
+  - Condor
+  - Captain Robert Collins
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -7,12 +13,6 @@ tags:
   - MJ12
   - Aviary
   - Author
-alias:
-  - Robert M. Collins
-  - Robert Collins
-  - Bob Collins
-  - Condor
-  - Captain Robert Collins
 summary: "Air Force physics analyst at Wright-Patterson from 1985 who wrote in Exempt from Disclosure that he was the source code-named Condor on UFO Cover-Up Live; Robert Hastings reported in 1989 that Collins denied involvement."
 location: "Kirtland Air Force Base, New Mexico"
 relations:

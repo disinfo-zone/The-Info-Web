@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Joseph Lonsdale
 category: "Technologists"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - Anduril
   - PayPalMafia
   - DefenseContractor
-alias:
-  - Joseph Lonsdale
 summary: "Joe Lonsdale is an American technology entrepreneur and investor who cofounded Palantir Technologies as a founding engineer in 2003, founded the venture capital firm 8VC, and has been a central figure in the Thiel-aligned defense-technology investment cluster backing Anduril Industries."
 born: 1984-09-12
 location: "United States"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Eugene F. Tighe Jr.
+  - Gene Tighe
 category: "Military"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - USAF
   - GrillFlame
   - POWMIA
-alias:
-  - Eugene F. Tighe Jr.
-  - Gene Tighe
 summary: "Air Force intelligence officer who directed the Defense Intelligence Agency from 1977 to 1981, during the Grill Flame program's oversight fights, and led a 1986 review of DIA's handling of POW/MIA reports."
 born: 1921
 died: 1994-01-29

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Tampa
 category: "City"
 tags:
   - City
@@ -7,8 +9,6 @@ tags:
   - BCCI
   - MoneyLaundering
   - USCustoms
-alias:
-  - Tampa
 summary: "Gulf coast city in Florida where the 1988 Operation C-Chase indictment of BCCI was brought, and whose federal prosecutors the Senate found had missed the bank's wider crimes."
 location: "Tampa, Florida, United States"
 created: 2026-09-23

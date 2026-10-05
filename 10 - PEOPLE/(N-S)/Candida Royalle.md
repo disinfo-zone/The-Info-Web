@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Candice Vadala
+  - Candice Marion Vadala
 category: "Entertainment & Arts"
 tags:
   - AbuseNetworks
@@ -7,9 +10,6 @@ tags:
   - FemmeProductions
   - FreeSpeech
   - RCHorsch
-alias:
-  - Candice Vadala
-  - Candice Marion Vadala
 summary: "Adult film actress who in 1984 founded Femme Productions to make adult films from a woman's perspective, and a founder of Feminists for Free Expression."
 died: 2015-09-07
 location: "Mattituck, New York"

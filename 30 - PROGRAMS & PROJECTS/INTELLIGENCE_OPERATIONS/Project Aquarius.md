@@ -1,13 +1,5 @@
 ---
-category: "Historical Phenomenon"
-tags:
-  - UFO
-  - MJ12
-  - AFOSI
-  - Disinformation
-  - Documents
-  - KirtlandAFB
-alias:
+aliases:
   - Project Aquarius
   - Aquarius
   - Aquarius Document
@@ -16,6 +8,14 @@ alias:
   - Aquarius Cable
   - Project Grudge/Aquarius
   - The Aquarius Project
+category: "Historical Phenomenon"
+tags:
+  - UFO
+  - MJ12
+  - AFOSI
+  - Disinformation
+  - Documents
+  - KirtlandAFB
 summary: "Name of a purported compartmented UFO project that first appears in a November 17, 1980 AFOSI teletype copied to William Moore and in a June 14, 1977 'Executive Briefing' he photographed in March 1983."
 start: 1980-11-17
 location: "Kirtland Air Force Base, New Mexico"

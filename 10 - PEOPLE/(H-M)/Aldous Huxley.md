@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Aldous Huxley
+  - Aldous Leonard Huxley
 category: "Entertainment & Arts"
 tags:
   - Person
@@ -10,9 +13,6 @@ tags:
   - Literature
   - Eugenics
   - UnitedKingdom
-alias:
-  - Aldous Huxley
-  - Aldous Leonard Huxley
 summary: "Aldous Huxley was the novelist of Brave New World who pioneered the literary use of psychedelics in The Doors of Perception, visited Andrija Puharich's Round Table Foundation parapsychology group, helped seed the Esalen Institute and the Human Potential movement, and lectured on a coming pharmacological dictatorship he called the ultimate revolution."
 born: 1894-07-26
 died: 1963-11-22

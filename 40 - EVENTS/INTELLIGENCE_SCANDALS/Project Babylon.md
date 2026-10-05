@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Iraqi supergun
+  - Supergun affair
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -9,9 +12,6 @@ tags:
   - SpaceResearchCorporation
   - SheffieldForgemasters
   - ExportControls
-alias:
-  - Iraqi supergun
-  - Supergun affair
 summary: "Iraqi program to build Gerald Bull's 131-foot gun, exposed when British customs seized its barrel sections at Teesport on April 12, 1990, three weeks after Bull was shot dead in Brussels."
 start: 1988
 location: "Iraq"

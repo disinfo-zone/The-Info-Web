@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Accumenics Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - PROMIS
   - INSLAW
   - DOJ
-alias:
-  - Accumenics Inc.
 summary: "Litigation-support software company bought by Earl Brian's Hadron about 1983, alleged by Bill Hamilton to have received a 40-million-dollar Justice Department contract in October 1987 through the Meese associate James L. Byrnes, who told the Bua inquiry he knew nothing of it."
 location: "Virginia"
 created: 2026-09-22

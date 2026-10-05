@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bryan R. Johnson
+  - Bryan Johnson (entrepreneur)
+  - Johnson, Bryan
 category: "Technologists"
 tags:
   - Person
@@ -14,10 +18,6 @@ tags:
   - NetworkState
   - Epstein
   - SiliconValley
-alias:
-  - Bryan R. Johnson
-  - Bryan Johnson (entrepreneur)
-  - Johnson, Bryan
 summary: "Founder of Braintree, the OS Fund and Kernel and of the Blueprint and Don't Die longevity projects, introduced by email to Jeffrey Epstein in October 2017 by Futurism chief Alex Klokus; a video call followed."
 location: "Springville, Utah (raised); Los Angeles, California"
 relations:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Leon Gouré
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,7 +9,6 @@ tags:
   - PsychologicalWarfare
   - Counterinsurgency
   - ColdWar
-alias: Leon Gouré
 summary: "Rand Corporation social scientist who led Phase II of the Viet Cong Motivation and Morale Study from 1965, redirected its findings to support an air power thesis through systematic selection and suppression of contrary data, forged colleagues' signatures on a policy memorandum, and supplied the optimistic briefings on VC morale that Walt Rostow and Robert McNamara consumed while the war escalated."
 born: 1922
 died: 2007-03-28

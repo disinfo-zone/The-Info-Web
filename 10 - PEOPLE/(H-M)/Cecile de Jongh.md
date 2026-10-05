@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cecile Galiber de Jongh
+  - Cecile R. de Jongh
 category: "Political Figure"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - SouthernTrust
   - TaxFraud
   - SexOffender
-alias:
-  - Cecile Galiber de Jongh
-  - Cecile R. de Jongh
 summary: "Cecile de Jongh was First Lady of the U.S. Virgin Islands from 2007 to 2015 while serving as office manager of Jeffrey Epstein's territorial companies, which held Economic Development Commission tax benefits."
 location: "St. Thomas, U.S. Virgin Islands"
 created: 2026-06-20

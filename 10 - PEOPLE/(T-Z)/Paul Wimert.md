@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Paul M. Wimert
+  - Paul M. Wimert Jr.
+  - Colonel Wimert
 category: "Military"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - ReneSchneider
   - DefenseIntelligenceAgency
   - AugustoPinochet
-alias:
-  - Paul M. Wimert
-  - Paul M. Wimert Jr.
-  - Colonel Wimert
 summary: "American army attaché in Santiago who in October 1970 carried the CIA's guns and money to the Chilean officers plotting against General Schneider, and afterward threw the weapons into the sea."
 location: "Santiago, Chile"
 created: 2026-09-21

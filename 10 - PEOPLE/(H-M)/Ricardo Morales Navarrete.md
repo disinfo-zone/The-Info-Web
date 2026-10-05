@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ricardo Morales
+  - El Mono
+  - Comisario Moises
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - FBI
   - CubanExiles
   - CubanaFlight455
-alias:
-  - Ricardo Morales
-  - El Mono
-  - Comisario Moises
 summary: "Cuban exile, CIA contract agent, FBI informant, and DISIP counterintelligence chief who sat in the Caracas meetings that planned the 1976 Cubana bombing, told a Miami detective about them, and was shot dead in 1982."
 died: 1982-12-20
 location: "Miami, Florida"

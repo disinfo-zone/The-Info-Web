@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tom Ellis
+  - Thomas Ellis
 category: "Political Figure"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - NationalCongressionalClub
   - FairnessInMedia
   - NewRight
-alias:
-  - Tom Ellis
-  - Thomas Ellis
 summary: "Raleigh lawyer who ran Jesse Helms's political organization, sat on the Pioneer Fund board, took its money for his television foundation, organized a bid for CBS, and lost a Reagan nomination over his record on race."
 location: "Raleigh, North Carolina"
 created: 2026-09-21

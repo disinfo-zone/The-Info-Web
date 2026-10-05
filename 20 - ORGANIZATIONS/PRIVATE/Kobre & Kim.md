@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Kobre & Kim
+  - Kobre & Kim LLP
+  - Kobre and Kim
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - NonProsecutionAgreement
   - GovernmentEnforcementDefense
   - AssetRecovery
-alias:
-  - Kobre & Kim
-  - Kobre & Kim LLP
-  - Kobre and Kim
 summary: "Litigation firm founded by two former Manhattan federal securities fraud prosecutors, which hired Matthew Menchel and Andrew Lourie, two supervisors of the 2006 to 2007 Epstein investigation, on leaving government."
 start: 2003
 location: "New York, New York"

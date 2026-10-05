@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Kevin Nicholas Curnow
 category: "Business & Finance"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Accountant
   - Receivership
   - RCHorsch
-alias:
-  - Kevin Nicholas Curnow
 summary: "Christchurch chartered accountant of Deloitte Haskins and Sells, appointed by Westpac in May 1984 as joint receiver of Chemical Technology Limited after its American director fled."
 location: "Christchurch, New Zealand"
 relations:

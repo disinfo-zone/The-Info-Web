@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Roelof Botha
+  - Roelof F. Botha
+  - Botha, Roelof
 category: "Business & Finance"
 tags:
   - Person
@@ -11,10 +15,6 @@ tags:
   - TwentyThreeAndMe
   - HouseSelectCommitteeOnTheCCP
   - SouthAfrica
-alias:
-  - Roelof Botha
-  - Roelof F. Botha
-  - Botha, Roelof
 summary: "South African-born actuary and venture capitalist, PayPal chief financial officer at its 2002 offering, Sequoia Capital partner from 2003 and senior steward from 2022 to 2025, and SpaceX director from June 2026."
 location: "Menlo Park, California"
 relations:

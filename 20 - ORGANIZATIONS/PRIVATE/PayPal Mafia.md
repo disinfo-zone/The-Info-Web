@@ -1,4 +1,6 @@
 ---
+aliases:
+  - PayPal Mafia
 category: "Private Organization"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - ElonMusk
   - ReidHoffman
   - MaxLevchin
-alias:
-  - PayPal Mafia
 summary: "The PayPal Mafia is the informal network of founders and early executives of PayPal who, after the company's 2002 sale to eBay for 1.5 billion dollars, dispersed to found or lead the subsequent generation of Silicon Valley companies including YouTube, LinkedIn, Yelp, Palantir Technologies, Founders Fund, Tesla, SpaceX, and the convening network Dialog."
 location: "San Francisco Bay Area"
 created: 2026-06-18

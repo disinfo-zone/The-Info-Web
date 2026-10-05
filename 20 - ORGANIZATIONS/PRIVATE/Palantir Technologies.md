@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Palantir
+  - Palantir Software
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - ICE
   - CIA
   - In-Q-Tel
-alias:
-  - Palantir
-  - Palantir Software
 summary: "Palantir Technologies is a data-analytics and defense contractor cofounded in 2003 by Peter Thiel, Alex Karp, Joe Lonsdale, Stephen Cohen, and Nathan Gettings with CIA In-Q-Tel seed funding, that supplies data-integration platforms to U.S. intelligence, the Department of Defense, and Immigration and Customs Enforcement."
 location: "Denver, Colorado (headquarters)"
 created: 2026-06-17

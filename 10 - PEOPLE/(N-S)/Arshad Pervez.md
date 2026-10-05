@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Arshad Z. Pervez
+  - Arshed Pervez
 category: "Arms Dealers & Brokers"
 tags:
   - Nuclear
@@ -8,9 +11,6 @@ tags:
   - NuclearProliferation
   - ExportControl
   - Kahuta
-alias:
-  - Arshad Z. Pervez
-  - Arshed Pervez
 summary: "Pakistani-born Toronto trader arrested in 1987 while buying maraging steel and beryllium for Pakistan's nuclear program, whose case ended in 1990 with a nolo contendere plea and release for time served."
 location: "Toronto, Canada"
 created: 2026-09-23

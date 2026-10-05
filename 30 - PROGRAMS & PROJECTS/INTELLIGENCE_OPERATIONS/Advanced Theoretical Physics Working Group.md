@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Advanced Theoretical Physics Working Group
+  - Advanced Theoretical Physics Project
+  - Advanced Theoretical Physics Conference
+  - Advanced Theoretical Physics
+  - ATP
+  - ATP Ten
+  - AP-10
+  - Secret Onion
 category: "UFO & Anomalous Phenomena"
 tags:
   - Organization
@@ -8,15 +17,6 @@ tags:
   - JohnBAlexander
   - SecretOnion
   - 1985
-alias:
-  - Advanced Theoretical Physics Working Group
-  - Advanced Theoretical Physics Project
-  - Advanced Theoretical Physics Conference
-  - Advanced Theoretical Physics
-  - ATP
-  - ATP Ten
-  - AP-10
-  - Secret Onion
 summary: "Informal group convened in 1985 by Army colonel John B. Alexander, meeting in a BDM secure facility at McLean, Virginia, to determine whether evidence supported a research program on UFOs."
 location: "McLean, Virginia"
 relations:

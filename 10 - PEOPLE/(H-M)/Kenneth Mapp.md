@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Ken Mapp
+  - Kenneth E. Mapp
+  - Governor Kenneth Mapp
+  - Gov. Kenneth Mapp
+  - Kenn Mapp
 category: "Political Figure"
 tags:
   - Person
@@ -9,12 +15,6 @@ tags:
   - CampaignFinance
   - GovernmentCapture
   - GreatStJames
-alias:
-  - Ken Mapp
-  - Kenneth E. Mapp
-  - Governor Kenneth Mapp
-  - Gov. Kenneth Mapp
-  - Kenn Mapp
 summary: "Governor of the U.S. Virgin Islands from 2015 to 2019, who asked Jeffrey Epstein to lend the territory 275 million dollars and to fund his political action committee."
 born: 1955-11-02
 location: "U.S. Virgin Islands"

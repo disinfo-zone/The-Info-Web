@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Chemical Corps
+  - U.S. Army Chemical Corps
+  - United States Army Chemical Corps
+  - Chemical Warfare Service
 category: "U.S. Government"
 tags:
   - Organization
@@ -10,11 +15,6 @@ tags:
   - HumanExperimentation
   - FortDetrick
   - EdgewoodArsenal
-alias:
-  - Chemical Corps
-  - U.S. Army Chemical Corps
-  - United States Army Chemical Corps
-  - Chemical Warfare Service
 summary: "Army branch, the Chemical Warfare Service until 1946, whose Special Operations Division at Fort Detrick worked with the CIA under MKNAOMI and whose contract drug killed Harold Blauer in 1953."
 start: 1918-06-02
 location: "United States"

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Archdiocese of Philadelphia
+  - Philadelphia Archdiocese
+  - Diocese of Philadelphia
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - Philadelphia
   - Censorship
   - RCHorsch
-alias:
-  - Archdiocese of Philadelphia
-  - Philadelphia Archdiocese
-  - Diocese of Philadelphia
 summary: "Roman Catholic see erected in 1808 and made an archdiocese in 1875, whose archbishop Cardinal John Krol led the 1975 condemnation of R.C. Horsch's film Black Mass."
 start: 1808-04-08
 location: "Philadelphia, Pennsylvania"

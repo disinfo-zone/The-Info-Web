@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jerome M. Brown
+  - Jerome Michael Brown
+  - Jerry Brown (lawyer)
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,10 +10,6 @@ tags:
   - Philadelphia
   - RCHorsch
   - OlneyHouseInvestigation
-alias:
-  - Jerome M. Brown
-  - Jerome Michael Brown
-  - Jerry Brown (lawyer)
 summary: "Philadelphia criminal defense lawyer who represented R.C. Horsch in his 2009 federal drug and firearms case and his son Eugene Horsch in the 2026 Olney House Investigation."
 location: "Philadelphia, Pennsylvania"
 relations:

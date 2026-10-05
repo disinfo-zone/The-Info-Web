@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Marc Rowan
 category: "Business & Finance"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - LeonBlack
   - JeffreyEpstein
   - Wharton
-alias:
-  - Marc Rowan
 summary: "Apollo Global Management co-founder who met Jeffrey Epstein at his Manhattan house from 2013 to 2016, fielded Epstein's inquiry about buying his jet, and succeeded Leon Black as chief executive in 2021."
 location: "New York, New York"
 created: 2026-09-25

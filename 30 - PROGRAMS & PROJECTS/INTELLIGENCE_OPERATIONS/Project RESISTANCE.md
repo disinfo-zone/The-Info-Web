@@ -1,4 +1,6 @@
 ---
+aliases:
+  - RESISTANCE
 category: "Intelligence Operation"
 tags:
   - Program
@@ -8,8 +10,6 @@ tags:
   - DomesticSurveillance
   - CampusSurveillance
   - ChurchCommittee
-alias:
-  - RESISTANCE
 summary: "CIA Office of Security program of 1967 to 1973 that began as protection for campus recruiters and grew into an index of 12,000 to 16,000 names drawn from campus officials, police, and the underground press."
 start: 1967-02-01
 end: 1973-06-30

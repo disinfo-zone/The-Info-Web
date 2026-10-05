@@ -1,4 +1,11 @@
 ---
+aliases:
+  - UVI
+  - U.V.I.
+  - University of the Virgin Islands Research and Technology Park
+  - UVI Research and Technology Park
+  - RTPark
+  - RT Park
 category: "Private Organization"
 tags:
   - Organization
@@ -8,13 +15,6 @@ tags:
   - TaxHaven
   - StudentVisas
   - Philanthropy
-alias:
-  - UVI
-  - U.V.I.
-  - University of the Virgin Islands Research and Technology Park
-  - UVI Research and Technology Park
-  - RTPark
-  - RT Park
 summary: "Public land-grant university of the U.S. Virgin Islands whose research park declined Jeffrey Epstein around 2012, while its president kept soliciting him for a medical-school gift and its classes enrolled women connected to him."
 start: 1962
 location: "U.S. Virgin Islands"

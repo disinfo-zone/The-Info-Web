@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Rockefeller Initiative
+  - Rockefeller UFO Initiative
+  - Rockefeller UFO Disclosure Initiative
+  - Laurance Rockefeller Initiative
+  - Rockefeller Disclosure Initiative
 category: "UFO & Anomalous Phenomena"
 tags:
   - Program
@@ -9,12 +15,6 @@ tags:
   - HumanPotentialFoundation
   - OSTP
   - Roswell
-alias:
-  - Rockefeller Initiative
-  - Rockefeller UFO Initiative
-  - Rockefeller UFO Disclosure Initiative
-  - Laurance Rockefeller Initiative
-  - Rockefeller Disclosure Initiative
 summary: "A 1993 to 1997 effort by Laurance S. Rockefeller, with Henry L. Diamond and C. B. Scott Jones, to obtain a review of government UFO information from the Clinton White House through its science adviser."
 location: "Washington, D.C."
 relations:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - George W. Landau
+  - George Walter Landau
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - OrlandoLetelier
   - VernonWalters
   - DINA
-alias:
-  - George W. Landau
-  - George Walter Landau
 summary: "American ambassador to Paraguay who in July 1976 copied the photographs in the false passports of two Chilean agents bound for Washington and sent them to the CIA, weeks before the murder of Orlando Letelier."
 location: "Washington, D.C."
 created: 2026-09-21

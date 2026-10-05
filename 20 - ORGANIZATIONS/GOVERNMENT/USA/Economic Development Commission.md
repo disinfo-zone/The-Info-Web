@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Virgin Islands Economic Development Commission
+  - V.I. Economic Development Commission
+  - USVI Economic Development Commission
+  - EDC
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,11 +13,6 @@ tags:
   - SouthernTrust
   - GovernmentCapture
   - RegulatoryFailure
-alias:
-  - Virgin Islands Economic Development Commission
-  - V.I. Economic Development Commission
-  - USVI Economic Development Commission
-  - EDC
 summary: "The Economic Development Commission is the U.S. Virgin Islands tax-incentive board that granted Jeffrey Epstein's Financial Trust and Southern Trust companies benefits from 1999 until his death, after his sex-offender registration."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

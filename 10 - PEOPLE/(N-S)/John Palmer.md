@@ -1,12 +1,12 @@
 ---
+aliases:
+  - John A. Palmer
 category: "Scientists & Researchers"
 tags:
   - Person
   - JohnPalmer
   - Parapsychology
   - RhineResearchCenter
-alias:
-  - John A. Palmer
 summary: "Parapsychologist and Rhine Research Center research director, three times president of the Parapsychological Association, who wrote a 1985 assessment of the field for the Army Research Institute and was among the reviewers the NRC named for Star Gate in 1995."
 created: 2026-09-22
 updated: 2026-09-22

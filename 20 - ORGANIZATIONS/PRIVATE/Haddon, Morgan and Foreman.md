@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Haddon, Morgan and Foreman
+  - Haddon, Morgan and Foreman, P.C.
+  - Haddon Morgan and Foreman
+  - Haddon Morgan & Foreman
 category: "Private Organization"
 tags:
   - Organization
@@ -9,11 +14,6 @@ tags:
   - Denver
   - GaryHart
   - CriminalDefense
-alias:
-  - Haddon, Morgan and Foreman
-  - Haddon, Morgan and Foreman, P.C.
-  - Haddon Morgan and Foreman
-  - Haddon Morgan & Foreman
 summary: "Denver criminal defense firm founded in 1976 by former public defenders, whose clients included Kobe Bryant, John Ramsey and Ghislaine Maxwell, and which sued Maxwell's family in 2022 for unpaid fees."
 start: 1976
 location: "Denver, Colorado"

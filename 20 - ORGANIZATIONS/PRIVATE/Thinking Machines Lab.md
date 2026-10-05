@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Thinking Machines
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - OpenAI
   - ArtificialIntelligence
   - VentureCapital
-alias:
-  - Thinking Machines
 summary: "Thinking Machines Lab is the AI research company Mira Murati founded in 2025 with a team drawn heavily from OpenAI, including John Schulman, Barret Zoph, and adviser Bob McGrew, which raised a roughly 2-billion-dollar seed round at a 12-billion valuation reported as one of the largest seed rounds ever."
 location: "San Francisco, California"
 created: 2026-06-20

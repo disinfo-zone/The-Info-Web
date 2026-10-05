@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rohit Khanna
+  - Rep. Ro Khanna
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - EpsteinFilesTransparencyAct
   - EpsteinFiles
   - DischargePetition
-alias:
-  - Rohit Khanna
-  - Rep. Ro Khanna
 summary: "Democratic congressman for California's Silicon Valley district since 2017, lead author of the Epstein Files Transparency Act, who read six redacted names from the files on the House floor in 2026."
 born: 1976-09-13
 location: "Philadelphia, Pennsylvania (born)"

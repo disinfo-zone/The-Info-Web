@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sovereignty Commission
+  - MSSC
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - CitizensCouncils
   - WickliffeDraper
   - CivilRightsAct
-alias:
-  - Sovereignty Commission
-  - MSSC
 summary: "Mississippi state agency that from 1956 to 1973 paid informants to watch civil rights workers, financed the Citizens' Councils, and passed a New York heir's anonymous stock gifts to a lobby against the Civil Rights Act."
 start: 1956-03-29
 location: "Jackson, Mississippi"

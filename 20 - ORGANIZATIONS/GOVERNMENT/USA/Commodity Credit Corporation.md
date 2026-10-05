@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "CCC"
 category: "U.S. Government"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - GSM102
   - Iraq
   - BNLScandal
-alias:
-  - "CCC"
 summary: "Federally chartered corporation within the Department of Agriculture that supports farm prices and guarantees export credit, whose guarantees financed about five billion dollars of Iraqi purchases from 1983 to 1990."
 start: 1948-06-29
 location: "Washington, D.C."

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Robert Clayton Hinchman
+  - R. Clayton Hinchman
 category: "Business & Finance"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Politician
   - HuntsvilleAlabama
   - IgniteFuelingInnovation
-alias:
-  - Robert Clayton Hinchman
-  - R. Clayton Hinchman
 summary: "Robert Clayton Hinchman is a West Point graduate and medically retired Army captain, chief executive of Ignite Fueling Innovation since May 2020 and a 2018 Republican primary challenger to Mo Brooks."
 location: "Huntsville, Alabama"
 relations:

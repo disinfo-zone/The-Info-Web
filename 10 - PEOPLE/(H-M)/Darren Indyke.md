@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Darren K. Indyke
+  - Indyke
 category: "Law Enforcement & Legal"
 tags:
   - AbuseNetworks
@@ -9,9 +12,6 @@ tags:
   - Lawyer
   - ShellCompany
   - VirginIslands
-alias:
-  - Darren K. Indyke
-  - Indyke
 summary: "Jeffrey Epstein's longtime lawyer, officer of his companies and co-executor of his estate, named a 50 million dollar beneficiary, sued by victims and the Virgin Islands, and under federal investigation in 2026."
 location: "New York, New York"
 relations:

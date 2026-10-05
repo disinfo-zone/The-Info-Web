@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bunker and Herbert Hunt
 category: "Business & Finance"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Oil
   - SilverThursday
   - Dallas
-alias:
-  - Bunker and Herbert Hunt
 summary: "Nelson Bunker, William Herbert, and Lamar Hunt, the sons of H.L. Hunt's first family, who held Placid Oil and Penrod Drilling in trust and were found liable in 1988 for manipulating the silver market."
 location: "Dallas, Texas"
 created: 2025-08-05

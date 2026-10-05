@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Edwin May
+  - Edwin C. May
+  - Ed May
+  - Dr. Edwin C. May
+  - Dr. May
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -13,12 +19,6 @@ tags:
   - PSI
   - 1980s
   - 1990s
-alias:
-  - Edwin May
-  - Edwin C. May
-  - Ed May
-  - Dr. Edwin C. May
-  - Dr. May
 summary: "Nuclear physicist who joined SRI's psychoenergetics work in 1976, ran it from 1985, moved it to SAIC in 1991, and chose the ten experiments the 1995 AIR panel reviewed."
 location: "Palo Alto, California"
 relations:

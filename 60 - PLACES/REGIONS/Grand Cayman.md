@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Grand Caymans
+  - the Grand Caymans
 category: "Region"
 tags:
   - Place
@@ -7,9 +10,6 @@ tags:
   - BCCI
   - OffshoreFinance
   - BankSecrecy
-alias:
-  - Grand Caymans
-  - the Grand Caymans
 summary: "Island of the Cayman Islands where BCCI Overseas and the ICIC group had their head offices and where Deloitte Ross Tohmatsu liquidated ICIC from 1991."
 location: "Cayman Islands"
 created: 2026-09-23

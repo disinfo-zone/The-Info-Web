@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Carter Cornick
+  - C. Carter Cornick
+  - L. Carter Cornick
+  - L. Carter Cornick Jr.
+  - L. Carter Cornick, Jr.
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -12,12 +18,6 @@ tags:
   - Counterterrorism
   - CounterTerrorismConsultants
   - PrivateSecurity
-alias:
-  - Carter Cornick
-  - C. Carter Cornick
-  - L. Carter Cornick
-  - L. Carter Cornick Jr.
-  - L. Carter Cornick, Jr.
 summary: "FBI agent who received informant reports on Puerto Rican independence groups, ran the Chilbom investigation of the 1976 Letelier and Moffitt murders, and in 1988 founded Counter Terrorism Consultants with the case's prosecutor."
 location: "Washington, D.C."
 relations:

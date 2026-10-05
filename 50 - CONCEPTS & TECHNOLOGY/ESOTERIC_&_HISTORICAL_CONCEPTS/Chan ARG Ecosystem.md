@@ -1,4 +1,9 @@
 ---
+aliases:
+  - TheGame23
+  - "#TheGame23"
+  - 00AG9603
+  - Chan ARG ecosystem
 category: "Esoteric & Historical Concept"
 tags:
   - Concept
@@ -9,11 +14,6 @@ tags:
   - Hyperstition
   - QAnon
   - InformationWarfare
-alias:
-  - TheGame23
-  - "#TheGame23"
-  - 00AG9603
-  - Chan ARG ecosystem
 summary: "The chan-ARG ecosystem is the loose constellation of Discordian-influenced alternate reality games and hashtag-driven meta-narratives, including TheGame23 and 00AG9603, that operate across the imageboard, Twitter, and WordPress 'dataplex' sites, and that academic information-warfare research has mapped as a component of the QAnon Twitter influence network."
 created: 2026-06-18
 updated: 2026-06-18

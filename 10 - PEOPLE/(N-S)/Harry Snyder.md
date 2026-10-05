@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Harry L. Snyder
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - GrillFlame
   - RemoteViewing
   - VirginiaTech
-alias:
-  - Harry L. Snyder
 summary: "Virginia Tech professor of industrial engineering whose 1979 critical evaluation of remote-viewing research is held by the CIA, and who then sat on the Army's Gale Committee in place of Ray Hyman."
 location: "Blacksburg, Virginia"
 created: 2026-09-22

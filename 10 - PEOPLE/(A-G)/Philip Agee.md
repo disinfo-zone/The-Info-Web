@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Philip Agee
+  - Phillip Agee
+  - Phil Agee
+  - Philip B. F. Agee
+  - Philip Burnett Franklin Agee
 category: "Intelligence & Government"
 tags:
   - Person
@@ -14,12 +20,6 @@ tags:
   - LatinAmerica
   - Passport
   - 1970s
-alias:
-  - Philip Agee
-  - Phillip Agee
-  - Phil Agee
-  - Philip B. F. Agee
-  - Philip Burnett Franklin Agee
 summary: "CIA operations officer in Ecuador, Uruguay and Mexico from 1957 to 1968 whose 1975 book named Agency personnel, whose passport was revoked in 1979, and who died in Havana."
 born: 1935-01-19
 died: 2008-01-07

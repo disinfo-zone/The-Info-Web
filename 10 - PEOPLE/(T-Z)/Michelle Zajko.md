@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Michelle Jacqueline Zajko
 category: "Extremism & Violent Networks"
 tags:
   - Person
   - Zizians
   - Violence
   - Firearms
-alias:
-  - Michelle Jacqueline Zajko
 summary: "Member of the Zizian group charged in June 2026 with the December 2022 murder of her parents in Chester Heights, Pennsylvania, which she denies, and charged federally over firearms used in the Vermont shooting."
 location: "Chester Heights, Pennsylvania; Coventry, Vermont"
 created: 2026-06-19

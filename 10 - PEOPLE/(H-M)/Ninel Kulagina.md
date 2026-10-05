@@ -1,14 +1,5 @@
 ---
-category: "Psychics & Remote Viewers"
-tags:
-  - Person
-  - Psychic
-  - Psychokinesis
-  - SovietUnion
-  - Leningrad
-  - Psychoenergetics
-  - DIA
-alias:
+aliases:
   - Ninel Kulagina
   - Nina Kulagina
   - Nina S. Kulagina
@@ -21,6 +12,15 @@ alias:
   - N. Kulagina
   - Mrs. Kulagina
   - Mrs. Mikhailova
+category: "Psychics & Remote Viewers"
+tags:
+  - Person
+  - Psychic
+  - Psychokinesis
+  - SovietUnion
+  - Leningrad
+  - Psychoenergetics
+  - DIA
 summary: "Leningrad war veteran who from 1964 demonstrated moving small objects without contact, was tested by Soviet commissions through 1983, and was cited in a 1987 DIA briefing as vouched for by two academicians."
 born: 1926-07-30
 died: 1990-04-11

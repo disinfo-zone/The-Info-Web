@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rep. James Comer
 category: "Political Figure"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - JeffreyEpstein
   - EpsteinFiles
   - Subpoena
-alias:
-  - Rep. James Comer
 summary: "Kentucky Republican congressman and chairman of the House Oversight Committee who in 2025 subpoenaed the Justice Department and Jeffrey Epstein's estate for Epstein records and released the estate's productions."
 born: 1972-08-19
 location: "Kentucky"

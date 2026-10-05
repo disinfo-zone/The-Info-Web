@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Norbert Wiener
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - Mathematics
   - Automation
   - MIT
-alias:
-  - Norbert Wiener
 summary: "Norbert Wiener was the American mathematician who founded cybernetics, the science of control and communication in the animal and the machine, building on his wartime work on automatic gun-aiming, and who warned that the automation it enabled could dehumanize labor."
 born: 1894-11-26
 died: 1964-03-18

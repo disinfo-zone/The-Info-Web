@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Mary Callahan Erdoes
+  - Mary C. Erdoes
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - Banking
   - WealthManagement
-alias:
-  - Mary Callahan Erdoes
-  - Mary C. Erdoes
 summary: "JPMorgan Chase executive who ran its private bank from 2005 and its asset and wealth management arm from 2009, and who handled the bank's Jeffrey Epstein relationship until his 2013 exit."
 location: "New York, New York"
 relations:

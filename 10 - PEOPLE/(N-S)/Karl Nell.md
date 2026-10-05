@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Karl Nell
+  - Karl E. Nell
+  - Col. Karl Nell
+  - Colonel Karl Nell
+  - Colonel Karl E. Nell
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -8,12 +14,6 @@ tags:
   - UAPTaskForce
   - SolFoundation
   - Disclosure
-alias:
-  - Karl Nell
-  - Karl E. Nell
-  - Col. Karl Nell
-  - Colonel Karl Nell
-  - Colonel Karl E. Nell
 summary: "Retired U.S. Army colonel and aerospace executive named as the Army's liaison to the UAP Task Force from 2021 to 2022, vouched for David Grusch in 2023 and spoke at both Sol Foundation symposia."
 location: "United States"
 relations:

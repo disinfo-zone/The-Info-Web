@@ -1,4 +1,6 @@
 ---
+aliases:
+  - NSO Group Technologies
 category: "Private Organization"
 tags:
   - Organization
@@ -11,8 +13,6 @@ tags:
   - MBS
   - PrivateIntelligence
   - Surveillance
-alias:
-  - NSO Group Technologies
 summary: "NSO Group is an Israeli cyber-intelligence company founded in 2010 by Unit 8200 alumni Omri Lavie, Shalev Hulio, and Niv Karmi, developer of the Pegasus spyware capable of zero-click mobile-phone compromise, whose government clients used the product to surveil over 50,000 targets including Jamal Khashoggi's family, 180 journalists, Catalan independence leaders, and Mexican activists before the July 2021 Pegasus Project exposure."
 location: "Herzliya, Israel"
 created: 2026-06-18

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Gerard Schaefer
+  - G.J. Schaefer
+  - Killer Cop
+  - Butcher of Blind Creek
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -8,11 +13,6 @@ tags:
   - SerialKiller
   - Wackenhut
   - MartinCounty
-alias:
-  - Gerard Schaefer
-  - G.J. Schaefer
-  - Killer Cop
-  - Butcher of Blind Creek
 summary: "Martin County, Florida, deputy sheriff convicted in 1973 of two murders and linked by recovered possessions to at least six missing women, and by one account a Wackenhut security guard in 1970."
 born: 1946-03-26
 died: 1995-12-03

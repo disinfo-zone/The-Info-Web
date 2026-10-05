@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Council on Foreign Relations
+  - Council on Foreign Relations, Inc.
+  - Council on Foreign Relations Inc
+  - The Council on Foreign Relations
+  - CFR
+  - Harold Pratt House
 category: "Private Organization"
 tags:
   - Organization
@@ -11,13 +18,6 @@ tags:
   - EstablishmentNetworks
   - CorporateProgram
   - WarAndPeaceStudies
-alias:
-  - Council on Foreign Relations
-  - Council on Foreign Relations, Inc.
-  - Council on Foreign Relations Inc
-  - The Council on Foreign Relations
-  - CFR
-  - Harold Pratt House
 summary: "New York membership organization founded in 1921 that publishes Foreign Affairs, ran confidential wartime studies with the State, War and Navy Departments, and has drawn funding from foundations, member dues and corporate subscriptions."
 start: 1921
 location: "New York City"

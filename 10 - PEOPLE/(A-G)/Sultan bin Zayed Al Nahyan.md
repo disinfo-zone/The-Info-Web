@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Sultan bin Zayed
+  - Sheikh Sultan bin Zayed
+  - Sultan Bin Zaid Al Nahyan
+  - Sultan bin Zaied al Nahyan
 category: "Royalty & Aristocracy"
 tags:
   - Person
@@ -7,11 +12,6 @@ tags:
   - Nominee
   - FirstAmerican
   - FinancialGeneral
-alias:
-  - Sultan bin Zayed
-  - Sheikh Sultan bin Zayed
-  - Sultan Bin Zaid Al Nahyan
-  - Sultan bin Zaied al Nahyan
 summary: "Son of Sheikh Zayed of Abu Dhabi in whose name BCCI bought Financial General Bankshares stock in 1978; auditors later cited evidence that its four such shareholders concealed BCCI's role."
 location: "Abu Dhabi, United Arab Emirates"
 relations:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Justin F. Gleichauf
+  - J. F. Gleichauf
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Wackenhut
   - Miami
   - Dallas
-alias:
-  - Justin F. Gleichauf
-  - J. F. Gleichauf
 summary: "Chief of the CIA Domestic Contact Service field offices in Miami and Dallas who ran the Wackenhut Corporation as a reporting source in 1970 and by 1974 worked for the company himself."
 location: "Coral Gables, Florida"
 created: 2026-09-21

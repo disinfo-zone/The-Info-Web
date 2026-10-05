@@ -1,4 +1,9 @@
 ---
+aliases:
+  - CTP
+  - Counter Terrorism Policing South West
+  - Eastern Region Specialist Operation Unit Counter Terrorism Policing
+  - Counter-Terrorism Policing
 category: "Intelligence & Government"
 tags:
   - Organization
@@ -6,11 +11,6 @@ tags:
   - LawEnforcement
   - CounterTerrorism
   - Police
-alias:
-  - CTP
-  - Counter Terrorism Policing South West
-  - Eastern Region Specialist Operation Unit Counter Terrorism Policing
-  - Counter-Terrorism Policing
 summary: "National network of British police counter-terrorism units, with eleven regional units under a London headquarters, which investigated the 764, Fascist Forge and Feuerkrieg Division cases."
 location: "London, United Kingdom"
 created: 2026-09-24

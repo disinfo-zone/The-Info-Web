@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Marvin Minsky
+  - Marvin Lee Minsky
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - ArtificialIntelligence
   - CognitiveScience
   - SciencePhilanthropy
-alias:
-  - Marvin Minsky
-  - Marvin Lee Minsky
 summary: "Marvin Minsky was an MIT cognitive scientist who co-founded the MIT Artificial Intelligence Laboratory, took funding from Jeffrey Epstein, and was named in a 2019 unsealed deposition by Virginia Giuffre, an allegation his widow disputed."
 born: 1927-08-09
 died: 2016-01-24

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ivan Voronych
+  - Ivan Voronich
+  - Іван Воронич
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - TheBase
   - WhitePhoenix
   - FSB
-alias:
-  - Ivan Voronych
-  - Ivan Voronich
-  - Іван Воронич
 summary: "Ivan Voronych was a Security Service of Ukraine colonel shot dead in Kyiv on July 10, 2025, a killing the SBU attributed to FSB-directed agents and a Ukrainian cell of The Base claimed."
 died: 2025-07-10
 location: "Kyiv, Ukraine (died)"

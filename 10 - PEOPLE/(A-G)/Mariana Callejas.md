@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ines Callejas
+  - Inés Callejas
+  - Ines Townley
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - Chile
   - CarlosPrats
   - PatriaYLibertad
-alias:
-  - Ines Callejas
-  - Inés Callejas
-  - Ines Townley
 summary: "Chilean wife of Michael Townley, hired with him by DINA in 1974, who travelled as an equal member of his assassination team to Buenos Aires, Mexico, and Rome."
 location: "Santiago, Chile"
 created: 2026-09-21

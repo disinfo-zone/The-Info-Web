@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nick Tartaglione
+  - Nicholas Tartaglione
 category: "Criminals & Offenders"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Police
   - Murder
   - DeathInCustody
-alias:
-  - Nick Tartaglione
-  - Nicholas Tartaglione
 summary: "Nicholas Tartaglione is a former Briarcliff Manor police officer, convicted of four 2016 murders, who shared Jeffrey Epstein's cell at MCC New York in July 2019 and later produced a purported Epstein note."
 born: "c. 1967"
 location: "Otisville, Orange County, New York"

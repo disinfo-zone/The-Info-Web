@@ -1,4 +1,7 @@
 ---
+aliases:
+  - René Girard
+  - Rene Noel Theophile Girard
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - PeterThiel
   - Philosophy
   - PoliticalTheology
-alias:
-  - René Girard
-  - Rene Noel Theophile Girard
 summary: "René Girard was a French historian and theorist of religion at Stanford University whose theory of mimetic desire and the scapegoat mechanism became the intellectual foundation of his student Peter Thiel's worldview, and whose foundation, Imitatio, Thiel funds."
 born: 1923-12-25
 died: 2015-11-04

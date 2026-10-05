@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Naval Intelligence
+  - ONI
 category: "U.S. Government"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - NavalIntelligence
   - USNavy
   - USGovernment
-alias:
-  - Naval Intelligence
-  - ONI
 summary: "United States Navy intelligence office created by a general order of March 23, 1882, without an act of Congress, which later housed the UAP Task Force."
 start: 1882-03-23
 location: "Washington, D.C."

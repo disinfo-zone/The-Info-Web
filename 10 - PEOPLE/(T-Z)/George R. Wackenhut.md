@@ -1,4 +1,6 @@
 ---
+aliases:
+  - George Wackenhut
 category: "Business & Finance"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - PrivateIntelligence
   - DossierFiles
   - Florida
-alias:
-  - George Wackenhut
 summary: "FBI agent from 1951 to 1954 who founded the Wackenhut Corporation, kept files on 2.5 million people, held a CIA covert security approval, and ran Florida's privately financed war on crime in 1967."
 born: 1919-09-03
 died: 2004-12-31

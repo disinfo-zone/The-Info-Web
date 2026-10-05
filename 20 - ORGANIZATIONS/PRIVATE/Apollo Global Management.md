@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Apollo Advisors
+  - Apollo Global Management Inc
+  - Apollo Global Management, Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - DrexelBurnham
   - Finance
-alias:
-  - Apollo Advisors
-  - Apollo Global Management Inc
-  - Apollo Global Management, Inc.
 summary: "Private-equity and credit firm founded in 1990 by Drexel Burnham Lambert alumni, whose co-founder Leon Black's payments to Jeffrey Epstein led to a 2021 board review, his departure, and a Senate investigation."
 location: "New York, New York"
 created: 2026-06-20

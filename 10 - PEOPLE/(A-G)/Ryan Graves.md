@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ryan Graves
+  - Ryan "FOBS" Graves
+  - Lt. Ryan Graves
 category: "UFO & Anomalous Phenomena"
 tags:
   - UFO
@@ -7,10 +11,6 @@ tags:
   - Navy
   - Pilot
   - Nonprofit
-alias:
-  - Ryan Graves
-  - Ryan "FOBS" Graves
-  - Lt. Ryan Graves
 summary: "Former Navy F/A-18F pilot of Strike Fighter Squadron 11 who founded Americans for Safe Aerospace and testified before a House Oversight subcommittee on July 26, 2023."
 relations:
   - type: founded

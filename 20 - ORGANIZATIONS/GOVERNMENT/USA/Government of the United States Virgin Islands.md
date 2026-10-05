@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Government of the Virgin Islands
+  - Government of the U.S. Virgin Islands
+  - USVI government
+  - GVI
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,11 +13,6 @@ tags:
   - JPMorganChase
   - SexOffenderRegistration
   - Litigation
-alias:
-  - Government of the Virgin Islands
-  - Government of the U.S. Virgin Islands
-  - USVI government
-  - GVI
 summary: "The Government of the United States Virgin Islands is the territorial executive that registered and subsidized Jeffrey Epstein for two decades and after his death recovered about 180 million dollars in Epstein-related settlements."
 location: "Charlotte Amalie, St. Thomas, U.S. Virgin Islands"
 relations:

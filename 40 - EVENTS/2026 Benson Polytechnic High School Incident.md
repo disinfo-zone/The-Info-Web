@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Benson Polytechnic High School Incident
+  - Benson High School Incident
+  - Benson High School Chemical Incident
+  - Benson Polytechnic Chemical Incident
+  - 2026 Benson Polytechnic High School Chemical Incident
+  - Benson Poly Chemical Spill
 category: "Terrorism"
 tags:
   - Event
@@ -10,13 +17,6 @@ tags:
   - 764
   - JuvenileCase
   - USA
-alias:
-  - Benson Polytechnic High School Incident
-  - Benson High School Incident
-  - Benson High School Chemical Incident
-  - Benson Polytechnic Chemical Incident
-  - 2026 Benson Polytechnic High School Chemical Incident
-  - Benson Poly Chemical Spill
 date: 2026-09-08
 location: "Portland, Oregon"
 summary: "A 15-year-old student mixed chemicals in the Benson Polytechnic High School cafeteria on September 8, 2026; charged October 2 with 19 counts including domestic terrorism, with a prosecutor citing FBI-found references to 764."

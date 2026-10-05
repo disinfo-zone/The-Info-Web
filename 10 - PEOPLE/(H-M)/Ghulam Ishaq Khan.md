@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ishaq Khan
+  - G. I. Khan
 category: "Political Figure"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - BCCI
   - NuclearProliferation
   - CivilService
-alias:
-  - Ishaq Khan
-  - G. I. Khan
 summary: "Pakistani civil servant who ran the State Bank under Bhutto and the finance ministry under Zia, chaired the Pakistani BCCI Foundation, and was president of Pakistan from 1988 to 1993."
 born: 1915-01-15
 died: 2006-10-27

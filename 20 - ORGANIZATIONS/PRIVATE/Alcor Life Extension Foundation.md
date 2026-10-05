@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Alcor Life Extension Foundation
+  - Alcor Life Extension Foundation Inc
+  - Alcor Life Extension Foundation, Inc.
+  - Alcor Life Extension Foundation Inc.
+  - Alcor
+  - Alcor Foundation
+  - Alcor Society for Solid State Hypothermia
 category: "Private Organization"
 tags:
   - Organization
@@ -12,14 +20,6 @@ tags:
   - Arizona
   - Section501c3
   - SuspendedAnimation
-alias:
-  - Alcor Life Extension Foundation
-  - Alcor Life Extension Foundation Inc
-  - Alcor Life Extension Foundation, Inc.
-  - Alcor Life Extension Foundation Inc.
-  - Alcor
-  - Alcor Foundation
-  - Alcor Society for Solid State Hypothermia
 summary: "California-incorporated cryonics nonprofit, based in Scottsdale since 1994, whose record includes the 1988 Riverside coroner raids, a 1992 appellate ruling, the Ted Williams dispute, Arizona's failed 2004 regulation bill, and related-party vendor payments."
 start: 1972
 location: "Scottsdale, Arizona"

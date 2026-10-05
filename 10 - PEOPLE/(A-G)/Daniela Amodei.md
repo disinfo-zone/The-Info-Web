@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Daniela Amodei
 category: "Technologists"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - EffectiveAltruism
   - OpenAI
   - OpenPhilanthropy
-alias:
-  - Daniela Amodei
 summary: "Daniela Amodei is the cofounder and president of Anthropic, who ran operations and people functions at Stripe and OpenAI before starting the company with her brother Dario, and who is married to Open Philanthropy cofounder Holden Karnofsky."
 born: 1987
 location: "San Francisco, California"

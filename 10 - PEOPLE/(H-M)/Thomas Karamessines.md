@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thomas H. Karamessines
+  - Tom Karamessines
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - Chile
   - Greece
   - OSS
-alias:
-  - Thomas H. Karamessines
-  - Tom Karamessines
 summary: "OSS officer who helped organize Greece's intelligence service, ran the CIA's clandestine service from 1967 to 1973, and chaired the 1970 task force formed to keep Salvador Allende from office."
 born: 1917
 died: 1978-09-04

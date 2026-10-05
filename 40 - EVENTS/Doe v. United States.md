@@ -1,4 +1,11 @@
 ---
+aliases:
+  - In re Wild
+  - In re Courtney Wild
+  - In re Wild (en banc)
+  - Jane Doe 1 and Jane Doe 2 v. United States
+  - Does v. United States
+  - Doe v. United States (CVRA)
 category: "Law Enforcement & Legal"
 tags:
   - Event
@@ -8,13 +15,6 @@ tags:
   - NonProsecutionAgreement
   - SouthernDistrictOfFlorida
   - EleventhCircuit
-alias:
-  - In re Wild
-  - In re Courtney Wild
-  - In re Wild (en banc)
-  - Jane Doe 1 and Jane Doe 2 v. United States
-  - Does v. United States
-  - Doe v. United States (CVRA)
 summary: "Crime Victims' Rights Act case filed in 2008 by Epstein victims over his secret non-prosecution agreement, which won a 2019 violation finding but no remedy, and failed 7-4 before the en banc Eleventh Circuit."
 start: 2008-07-07
 end: 2022-02-22

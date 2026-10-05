@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tony Russo
+  - Anthony J. Russo
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,7 +10,6 @@ tags:
   - Whistleblower
   - PentagonPapers
   - Counterinsurgency
-alias: Tony Russo, Anthony J. Russo
 summary: "Rand Corporation field analyst who conducted Viet Cong interviews in South Vietnam from 1965, prepared the first documented report of American complicity in systematic torture of prisoners, saw his findings suppressed by Rand's VC study director, and later co-conspired with Daniel Ellsberg to copy and release the Pentagon Papers."
 born: 1936-10-22
 died: 2008-08-06

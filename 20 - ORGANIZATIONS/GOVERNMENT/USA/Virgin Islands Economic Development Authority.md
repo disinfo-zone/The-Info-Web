@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Economic Development Authority
+  - V.I. Economic Development Authority
+  - USVI Economic Development Authority
+  - United States Virgin Islands Economic Development Authority
+  - USVIEDA
+  - VIEDA
 category: "U.S. Government"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - FinancialTrustCompany
   - GovernmentCapture
   - RegulatoryFailure
-alias:
-  - Economic Development Authority
-  - V.I. Economic Development Authority
-  - USVI Economic Development Authority
-  - United States Virgin Islands Economic Development Authority
-  - USVIEDA
-  - VIEDA
 summary: "Semi-autonomous U.S. Virgin Islands public corporation whose Economic Development Commission gave Jeffrey Epstein's companies tax benefits from 1999 to 2019 that a JPMorgan consultant valued at 300 million dollars."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

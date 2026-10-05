@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Louis Andre
+  - Lou Andre
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Stargate
   - Lebanon
   - Hostages
-alias:
-  - Louis Andre
-  - Lou Andre
 summary: "Defense Intelligence Agency analyst who told Annie Jacobsen that remote-viewing sessions by Angela Dellafiora were useful in the search for Marine Lieutenant Colonel William Higgins, abducted in Lebanon in 1988."
 location: "Washington, D.C."
 relations:

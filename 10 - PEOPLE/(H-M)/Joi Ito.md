@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Joichi Ito
 category: "Technologists"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - PeterThiel
   - ImageRehabilitation
   - 2015Dinner
-alias:
-  - Joichi Ito
 summary: "Joi Ito is a Japanese venture capitalist who directed the MIT Media Lab from 2011 until resigning in September 2019 after Ronan Farrow reported that he solicited and concealed Jeffrey Epstein's donations."
 born: 1966-06-19
 location: "Kyoto, Japan (born)"

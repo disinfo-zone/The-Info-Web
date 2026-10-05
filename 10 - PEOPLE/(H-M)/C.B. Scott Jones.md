@@ -1,4 +1,13 @@
 ---
+aliases:
+  - C. B. Scott Jones
+  - C.B. Scott Jones
+  - CB Scott Jones
+  - Scott Jones
+  - Cecil B. Jones
+  - Cecil B. Scott Jones
+  - Cecil Beam Jones Jr.
+  - Dr. Scott Jones
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -8,15 +17,6 @@ tags:
   - SenateStaff
   - HumanPotentialFoundation
   - RockefellerInitiative
-alias:
-  - C. B. Scott Jones
-  - C.B. Scott Jones
-  - CB Scott Jones
-  - Scott Jones
-  - Cecil B. Jones
-  - Cecil B. Scott Jones
-  - Cecil Beam Jones Jr.
-  - Dr. Scott Jones
 summary: "Navy fighter pilot and intelligence officer who served as Senator Claiborne Pell's special assistant for psychic and UFO matters from 1985 to 1991, then ran the Human Potential Foundation, financed by Laurance Rockefeller."
 born: 1928-02-19
 died: 2023-01-16

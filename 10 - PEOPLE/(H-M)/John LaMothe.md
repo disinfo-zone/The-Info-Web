@@ -1,4 +1,7 @@
 ---
+aliases:
+  - John L. LaMothe
+  - Captain John LaMothe
 category: "Military"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - DIA
   - 1970s
 summary: "John L. LaMothe was a U.S. Army Medical Intelligence Office captain who authored the 1972 classified report Controlled Offensive Behavior - USSR, warning of Soviet psychoenergetics research capabilities and spurring U.S. government concerns about a psi gap."
-alias:
-  - John L. LaMothe
-  - Captain John LaMothe
 ---
 
 Captain John L. LaMothe was an author and military intelligence officer with the Medical Intelligence Office of the [[U.S. Army]], Office of the Surgeon General. He was tasked with conducting a joint intelligence assessment of the "Soviet psychoenergetic threat," a term coined by the [[Pentagon]] to include all matters related to Soviet anomalous mental phenomena research and [[Electromagnetic Weapons|electromagnetic weapons]] programs[^1].

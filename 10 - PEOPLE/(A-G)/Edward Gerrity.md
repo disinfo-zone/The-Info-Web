@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Edward J. Gerrity
+  - Ned Gerrity
+  - E.J. Gerrity
 category: "Business & Finance"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - CIA
   - WilliamBroe
   - Graymail
-alias:
-  - Edward J. Gerrity
-  - Ned Gerrity
-  - E.J. Gerrity
 summary: "ITT senior vice president to whom the CIA's William Broe proposed economic pressure on Chile in September 1970, charged in 1978 with lying to the Senate in a case dropped on national security grounds."
 location: "New York City"
 created: 2026-09-21

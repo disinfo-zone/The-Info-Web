@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Juan Manuel Guillermo Contreras Sepulveda
+  - Manuel Contreras Sepulveda
 category: "Intelligence & Government"
 tags:
   - KeyFigure
@@ -10,9 +13,6 @@ tags:
   - CIA
   - PaidAsset
   - Letelier
-alias:
-  - Juan Manuel Guillermo Contreras Sepulveda
-  - Manuel Contreras Sepulveda
 summary: "Chief of the Chilean secret police DINA, in contact with the CIA from 1974 to 1977 and paid by it once in 1975, who said he had Orlando Letelier killed on Pinochet's orders."
 location: "Santiago, Chile"
 created: 2026-09-21

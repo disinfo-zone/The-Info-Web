@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rafael Edward Cruz
+  - Senator Ted Cruz
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - CambridgeAnalytica
   - PeterThiel
   - Dialog
-alias:
-  - Rafael Edward Cruz
-  - Senator Ted Cruz
 summary: "Ted Cruz is a U.S. Senator from Texas whose name appeared on the leaked 2026 roster of Peter Thiel's Dialog society, whose 2016 presidential campaign paid Cambridge Analytica more than 5.8 million dollars, and whose largest early backer was Peter Thiel."
 born: 1970-12-22
 location: "Calgary, Alberta, Canada (born); Houston, Texas (political base)"

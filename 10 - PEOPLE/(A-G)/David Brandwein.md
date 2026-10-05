@@ -1,4 +1,6 @@
 ---
+aliases:
+  - David S. Brandwein
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - OfficeOfTechnicalService
   - RemoteViewing
   - SCANATE
-alias:
-  - David S. Brandwein
 summary: "Director of the CIA's Office of Technical Service who ended its funding of the SRI parapsychology research in 1976, refused to resume it, and briefed the House intelligence committee on the work in 1977 and 1978."
 location: "Langley, Virginia"
 created: 2026-09-21

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Mar-A-Lago
+  - Mar a Lago
+  - Mar-a-Lago Club
+  - Mar-a-Lago National Historic Site
+  - Mar-A-Lago National Historic Landmark
+  - 1100 South Ocean Boulevard
 category: "Landmark"
 tags:
   - Place
@@ -9,13 +16,6 @@ tags:
   - JeffreyEpstein
   - VirginiaGiuffre
   - NationalHistoricLandmark
-alias:
-  - Mar-A-Lago
-  - Mar a Lago
-  - Mar-a-Lago Club
-  - Mar-a-Lago National Historic Site
-  - Mar-A-Lago National Historic Landmark
-  - 1100 South Ocean Boulevard
 summary: "Palm Beach estate built for Marjorie Merriweather Post, briefly federal property, bought by Donald Trump in 1985, where Virginia Giuffre worked when recruited for Jeffrey Epstein and the FBI searched in 2022."
 start: 1927
 location: "1100 South Ocean Boulevard, Palm Beach, Florida"

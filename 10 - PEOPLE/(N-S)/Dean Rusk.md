@@ -1,4 +1,6 @@
 ---
+aliases:
+  - David Dean Rusk
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,7 +9,6 @@ tags:
   - ColdWar
   - Brazil
   - Vietnam
-alias: David Dean Rusk
 summary: "Rockefeller Foundation president from 1952 to 1960 who became Secretary of State under Kennedy and Johnson, sealing the Foundation's pipeline into the State Department and overseeing the diplomatic side of the 1964 Brazil coup and the 1967 Bolivia operation against Che Guevara."
 born: 1909-02-09
 died: 1994-12-20

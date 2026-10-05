@@ -1,8 +1,8 @@
 ---
-category: "City"
-alias:
+aliases:
   - "Sierra Blanca"
   - "Sierra Blanca, TX"
+category: "City"
 tags:
   - City
   - Texas

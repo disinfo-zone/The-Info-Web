@@ -1,4 +1,7 @@
 ---
+aliases:
+  - The Mankind Quarterly
+  - MQ
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - PioneerFund
   - HumanBiodiversity
   - AcademicPublishing
-alias:
-  - The Mankind Quarterly
-  - MQ
 summary: "Mankind Quarterly is a journal founded in 1960-1961 with Pioneer Fund money to publish hereditarian race-and-intelligence research that mainstream journals rejected, widely described as a cornerstone of the scientific-racism establishment."
 location: "Edinburgh, Scotland"
 created: 2026-06-19

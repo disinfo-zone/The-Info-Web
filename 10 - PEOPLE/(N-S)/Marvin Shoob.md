@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Marvin H. Shoob
+  - Judge Shoob
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - FederalJudiciary
   - Atlanta
   - DepartmentOfJustice
-alias:
-  - Marvin H. Shoob
-  - Judge Shoob
 summary: "Federal judge in Atlanta who in 1992 let Christopher Drogoul withdraw his guilty plea, removed himself from the BNL case saying the bank's Rome officers had approved the Iraqi loans, and called the defendants pawns."
 born: 1923-02-23
 died: 2017-06-12

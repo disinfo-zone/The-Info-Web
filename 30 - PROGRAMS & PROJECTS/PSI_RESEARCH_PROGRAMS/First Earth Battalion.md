@@ -1,4 +1,7 @@
 ---
+aliases:
+  - The First Earth Battalion
+  - Task Force Delta
 category: "Psi Research Program"
 tags:
   - Program
@@ -8,9 +11,6 @@ tags:
   - JimChannon
   - HumanPotentialMovement
   - Army
-alias:
-  - The First Earth Battalion
-  - Task Force Delta
 summary: "A 1979 concept paper by Lieutenant Colonel Jim Channon, issued through TRADOC's Task Force Delta at Fort Monroe, proposing an Army battalion of warrior monks drawn from the human potential movement."
 start: 1979
 location: "Fort Monroe, Virginia"

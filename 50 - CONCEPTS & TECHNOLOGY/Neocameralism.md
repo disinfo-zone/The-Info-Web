@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Neocameralism
+  - neocameralism
+  - neocameral
+  - Neo-cameralism
+  - neo-cameralism
+  - Neocameralist
+  - Sovcorp
+  - Gov-corp
+  - Sovereign joint-stock corporation
 category: "Ideology"
 tags:
   - Concept
@@ -11,16 +21,6 @@ tags:
   - Sovcorp
   - DarkEnlightenment
   - Neoreaction
-alias:
-  - Neocameralism
-  - neocameralism
-  - neocameral
-  - Neo-cameralism
-  - neo-cameralism
-  - Neocameralist
-  - Sovcorp
-  - Gov-corp
-  - Sovereign joint-stock corporation
 summary: "Name coined by Curtis Yarvin on August 16, 2007 for a state organized as a joint-stock corporation that owns a territory, hires a chief executive and treats residents as customers, echoing German cameralism."
 location: "United States"
 relations:

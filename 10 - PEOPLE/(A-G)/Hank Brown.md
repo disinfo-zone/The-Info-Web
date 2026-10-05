@@ -1,8 +1,8 @@
 ---
-category: "Political Figure"
-alias:
+aliases:
   - George Hanks Brown
   - Hank Brown
+category: "Political Figure"
 tags:
   - Person
   - Congress

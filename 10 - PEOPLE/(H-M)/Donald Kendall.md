@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Donald M. Kendall
+  - Don Kendall
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Chile
   - AgustinEdwards
   - ProjectFUBELT
-alias:
-  - Donald M. Kendall
-  - Don Kendall
 summary: "Chairman of PepsiCo and benefactor of Richard Nixon who in September 1970 brought the Chilean publisher Agustín Edwards to the president's men the day before Nixon ordered a coup, and was later investigated for perjury."
 location: "New York"
 created: 2026-09-21

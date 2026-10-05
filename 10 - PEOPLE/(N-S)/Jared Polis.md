@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Jared Schutz Polis
+  - Governor Jared Polis
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - TechEntrepreneur
   - Cryptocurrency
   - Dialog
-alias:
-  - Jared Schutz Polis
-  - Governor Jared Polis
 summary: "Jared Polis is the governor of Colorado, the first openly gay person elected a U.S. governor, a technology entrepreneur who founded ProFlowers and cofounded Techstars, and a name on the leaked 2026 roster of Peter Thiel's Dialog society."
 born: 1975-05-12
 location: "Boulder, Colorado (born); Colorado (political base)"

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Boris Nikolić
+  - Boris Nikolic, M.D.
+  - Dr. Boris Nikolic
 category: "Business & Finance"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JPMorgan
   - Biotechnology
   - VentureCapital
-alias:
-  - Boris Nikolić
-  - Boris Nikolic, M.D.
-  - Dr. Boris Nikolic
 summary: "Croatian-trained immunologist and biotech investor, Bill Gates's science adviser from 2009 to 2014, who linked Gates to Jeffrey Epstein and was named backup executor in Epstein's final will."
 location: "Seattle, Washington"
 relations:

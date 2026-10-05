@@ -1,4 +1,8 @@
 ---
+aliases:
+  - John Joseph Krol
+  - Cardinal Krol
+  - Cardinal John Krol
 category: "Religious Figures"
 tags:
   - HistoricalFigure
@@ -8,10 +12,6 @@ tags:
   - Philadelphia
   - Censorship
   - RCHorsch
-alias:
-  - John Joseph Krol
-  - Cardinal Krol
-  - Cardinal John Krol
 summary: "Archbishop of Philadelphia from 1961 to 1988 and cardinal from 1967, who led sixteen religious leaders in condemning R.C. Horsch's film Black Mass in 1975."
 born: 1910-10-26
 died: 1996-03-03

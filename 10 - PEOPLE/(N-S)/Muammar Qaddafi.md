@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Muammar Gaddafi"
 category: "Political Figure"
 tags:
   - Person
@@ -6,8 +8,6 @@ summary: "Libyan leader who pressured African nations to cut ties with Israel an
 born: 1942
 died: 2011-10-20
 location: "Qasr Abu Hadi, near Sirte, Libya"
-alias:
-  - "Muammar Gaddafi"
 ---
 
 [[Muammar Qaddafi]] was the leader of [[Libya]]. He played a role in [[Africa|African]] politics, promising money to black [[Africa|African]] nations if they cut ties with [[Israel]]. This led to a deterioration of relations between [[Israel]] and [[Uganda]] under [[Idi Amin]].[^1]

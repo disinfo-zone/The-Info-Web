@@ -1,4 +1,6 @@
 ---
+aliases:
+  - David O. Sacks
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - AllInPodcast
   - Trump
   - CryptoCzar
-alias:
-  - David O. Sacks
 summary: "David Sacks is a South African-born American entrepreneur and political figure who served as chief operating officer of PayPal, founded Yammer, cohosted the All-In Podcast, and was appointed White House AI and cryptocurrency czar under the second Trump administration."
 born: 1972-05-25
 location: "Cape Town, South Africa (born)"

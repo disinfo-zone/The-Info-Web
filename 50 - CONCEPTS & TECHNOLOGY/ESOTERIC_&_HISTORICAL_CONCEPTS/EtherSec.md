@@ -1,4 +1,8 @@
 ---
+aliases:
+  - "#EtherSec"
+  - "#eTHErSEC"
+  - EtherSec community
 category: "Esoteric & Historical Concept"
 tags:
   - Concept
@@ -10,10 +14,6 @@ tags:
   - ChanCulture
   - FringeResearch
   - Parapolitical
-alias:
-  - "#EtherSec"
-  - "#eTHErSEC"
-  - EtherSec community
 summary: "EtherSec (also styled #eTHErSEC) was a niche Anonymous-adjacent intelligence-research Twitter community active around 2016 to 2017, connected to the Tyler AI-entity claims of Quinn Michaels and to the broader TheGame23 / DarkSec fringe ecosystem, whose participating accounts tagged Peter Thiel, Palantir, Q, and QAnon alongside the EtherSec hashtag."
 created: 2026-06-18
 updated: 2026-06-18

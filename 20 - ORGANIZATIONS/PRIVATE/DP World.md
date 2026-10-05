@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Dubai Ports World
+  - DP World Limited
+  - Dubai Ports
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - CFIUS
   - SultanAhmedBinSulayem
   - JeffreyEpstein
-alias:
-  - Dubai Ports World
-  - DP World Limited
-  - Dubai Ports
 summary: "Dubai government-owned ports operator formed in 2005, whose 2006 bid for six U.S. port operations provoked a CFIUS fight and whose chairman was replaced in 2026 over Epstein correspondence."
 start: 2005-11
 location: "Dubai, United Arab Emirates"

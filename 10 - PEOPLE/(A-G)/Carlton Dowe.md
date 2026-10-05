@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Carlton "Ital" Dowe
+  - Senator Carlton Dowe
 category: "Political Figure"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - GovernmentCapture
   - BankFraud
-alias:
-  - Carlton "Ital" Dowe
-  - Senator Carlton Dowe
 summary: "Virgin Islands senator and two-term Port Authority executive director whose 2019 return Cecile de Jongh asked Epstein to support, acquitted of wire fraud in 2004 and indicted for bank fraud in 2026."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

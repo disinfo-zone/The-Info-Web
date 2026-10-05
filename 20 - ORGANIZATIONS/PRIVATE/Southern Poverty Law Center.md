@@ -1,8 +1,8 @@
 ---
-category: "Private Organization"
-alias:
+aliases:
   - SPLC
   - SPLC Hatewatch
+category: "Private Organization"
 tags:
   - Organization
   - Nonprofit

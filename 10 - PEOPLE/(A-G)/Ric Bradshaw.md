@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ric L. Bradshaw
+  - Sheriff Ric Bradshaw
+  - Sheriff Bradshaw
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - Sheriff
   - WorkRelease
   - NonProsecutionAgreement
-alias:
-  - Ric L. Bradshaw
-  - Sheriff Ric Bradshaw
-  - Sheriff Bradshaw
 summary: "Ric Bradshaw is the Palm Beach County sheriff since January 2005 whose office granted Jeffrey Epstein work release in 2008 and logged paid deputy details for Epstein's Florida Science Foundation."
 start: 2005-01-04
 location: "West Palm Beach, Florida"

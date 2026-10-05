@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Forty Committee
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,8 +10,6 @@ tags:
   - Chile
   - HenryKissinger
   - CIA
-alias:
-  - Forty Committee
 summary: "National Security Council subcommittee that approved CIA covert action under Nixon, chaired by Henry Kissinger, which voted 1.665 million dollars to El Mercurio and was never told of the 1970 order for a coup in Chile."
 location: "Washington, D.C."
 created: 2026-09-21

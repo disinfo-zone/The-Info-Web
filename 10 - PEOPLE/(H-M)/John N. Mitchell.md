@@ -1,4 +1,8 @@
 ---
+aliases:
+  - John N. Mitchell
+  - John Mitchell
+  - John Newton Mitchell
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -13,10 +17,6 @@ tags:
   - NixonAdministration
   - Conviction
   - 1970s
-alias:
-  - John N. Mitchell
-  - John Mitchell
-  - John Newton Mitchell
 summary: "Nixon's law partner and 1968 campaign manager, Attorney General from 1969 to 1972 and 1972 reelection committee head, acquitted in the Vesco case in 1974 and convicted in the Watergate cover-up in 1975."
 born: 1913-09-15
 died: 1988-11-09

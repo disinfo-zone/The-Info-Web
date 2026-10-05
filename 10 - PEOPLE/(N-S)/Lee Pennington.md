@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lee R. Pennington Jr.
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - FBI
   - Watergate
   - AmericanSecurityCouncil
-alias:
-  - Lee R. Pennington Jr.
 summary: "Retired FBI inspector kept on a monthly retainer by the CIA's Security Research Staff, who watched James McCord's wife burn papers days after the Watergate arrests, a fact the agency withheld from investigators until 1974."
 location: "Washington, D.C."
 created: 2026-09-21

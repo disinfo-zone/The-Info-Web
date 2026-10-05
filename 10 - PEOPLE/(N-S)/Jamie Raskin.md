@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rep. Jamie Raskin
+  - Representative Jamie Raskin
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - GhislaineMaxwell
   - FederalPrisonCampBryan
   - BardCollege
-alias:
-  - Rep. Jamie Raskin
-  - Representative Jamie Raskin
 summary: "Maryland Democratic congressman and ranking member of the House Judiciary Committee who from 2025 pursued Ghislaine Maxwell's transfer to a Texas prison camp, her reported treatment there and Epstein's gifts to Bard College."
 born: 1962-12-13
 location: "Maryland"

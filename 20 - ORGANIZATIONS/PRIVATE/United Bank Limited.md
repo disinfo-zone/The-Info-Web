@@ -1,4 +1,7 @@
 ---
+aliases:
+  - United Bank
+  - UBL
 category: "Private Organization"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - Pakistan
   - BCCI
   - Nationalization
-alias:
-  - United Bank
-  - UBL
 summary: "Pakistani bank founded by Agha Hasan Abedi in 1959, nationalized under Zulfikar Ali Bhutto in 1974, and sold in 2002 to the Abu Dhabi Group and Bestway."
 start: 1959
 location: "Pakistan"

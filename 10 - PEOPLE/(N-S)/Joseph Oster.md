@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Joseph A. Oster Jr.
+  - Joe Oster
 category: "Law Enforcement & Legal"
 tags:
   - JFKAssassination
@@ -10,9 +13,6 @@ tags:
   - SouthernResearchCompany
   - DavidFerrie
   - ARRB
-alias:
-  - Joseph A. Oster Jr.
-  - Joe Oster
 summary: "New Orleans private detective who left Guy Banister's agency to manage the local office of Southern Research, investigated David Ferrie for Eastern Air Lines, and went to Ferrie's apartment with the district attorney's men on November 22, 1963."
 born: 1928-11-18
 location: "New Orleans, Louisiana"

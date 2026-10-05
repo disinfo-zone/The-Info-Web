@@ -1,4 +1,7 @@
 ---
+aliases:
+  - R. Barclay Surrick
+  - Barclay Surrick
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - FederalJudiciary
   - DelawareCounty
   - RCHorsch
-alias:
-  - R. Barclay Surrick
-  - Barclay Surrick
 summary: "Delaware County judge appointed to the federal bench by Bill Clinton in 2000 who presided over R.C. Horsch's 2009-2012 marijuana and firearms prosecution."
 location: "Philadelphia, Pennsylvania"
 relations:

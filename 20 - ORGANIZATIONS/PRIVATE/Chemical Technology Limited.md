@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chemical Technology Ltd
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - AlternativeFuels
   - RCHorsch
   - IdentityFraud
-alias:
-  - Chemical Technology Ltd
 summary: "South Canterbury company, set up by the Christchurch lawyer John Rutherford, that built a whey-to-ethanol plant at Clandeboye with the American fugitive R.C. Horsch working under a stolen chemist's identity."
 start: 1981
 end: 2013

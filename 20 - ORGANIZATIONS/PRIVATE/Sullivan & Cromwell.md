@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Sullivan & Cromwell
+  - Sullivan and Cromwell
+  - Sullivan & Cromwell LLP
+  - Sullivan and Cromwell LLP
+  - S&C
 category: "Private Organization"
 tags:
   - Organization
@@ -11,12 +17,6 @@ tags:
   - FTX
   - RevolvingDoor
   - WallStreet
-alias:
-  - Sullivan & Cromwell
-  - Sullivan and Cromwell
-  - Sullivan & Cromwell LLP
-  - Sullivan and Cromwell LLP
-  - S&C
 summary: "New York law firm founded in 1879 whose partners included John Foster Dulles and Allen Dulles, and whose clients ranged from the Schroder bank to the FTX group and Samuel Bankman-Fried."
 start: 1879-04-02
 location: "New York, New York"

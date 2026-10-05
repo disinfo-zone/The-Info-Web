@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Placid Oil Company
+  - Penrod Drilling
+  - Penrod Drilling Company
 category: "Private Organization"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - SilverThursday
   - Bankruptcy
   - OccidentalPetroleum
-alias:
-  - Placid Oil Company
-  - Penrod Drilling
-  - Penrod Drilling Company
 summary: "Oil company of H.L. Hunt's first family trusts, pledged to banks after the 1980 silver collapse, which sued its 23 lenders, filed for bankruptcy in New Orleans, and was sold to Occidental in 1994."
 start: 1935
 end: 1994-12-29

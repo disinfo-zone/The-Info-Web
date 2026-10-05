@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Charles C. Johnson
+  - Chuck Johnson
 category: "Authors & Journalists"
 tags:
   - NewRight
@@ -9,9 +12,6 @@ tags:
   - FBIInformant
   - AltRight
   - FederalInformant
-alias:
-  - Charles C. Johnson
-  - Chuck Johnson
 summary: "Far-right provocateur and self-described federal informant who claimed to have cofounded Clearview AI, disclosed Peter Thiel's status as an FBI source in 2023, and was sued in 2024."
 born: 1988-10-22
 location: "Boston, Massachusetts (born)"

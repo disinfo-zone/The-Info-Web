@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Discord
+  - Discord Inc.
+  - Discord Inc
+  - Discord, Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -12,11 +17,6 @@ tags:
   - SenateJudiciary
   - StateAttorneysGeneral
   - Lobbying
-alias:
-  - Discord
-  - Discord Inc.
-  - Discord Inc
-  - Discord, Inc.
 summary: "Voice and text chat service launched in 2015 whose servers figure in the Sines v. Kessler subpoena, the Teixeira leak case, the CVLT and 764 prosecutions, a Senate subpoena, and three state suits."
 start: 2015
 location: "San Francisco, California"

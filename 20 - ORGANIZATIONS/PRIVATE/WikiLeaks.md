@@ -1,4 +1,7 @@
 ---
+aliases:
+  - WikiLeaks
+  - Wikileaks
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Leaks
   - TeamThemis
   - Palantir
-alias:
-  - WikiLeaks
-  - Wikileaks
 summary: "WikiLeaks is the leak-publishing organization founded by Julian Assange in 2006, whose 2010 disclosures of US military and diplomatic records triggered a banking blockade that pushed it toward Bitcoin, and which was the target of the 2010-2011 Team Themis proposal by Palantir, HBGary Federal, and Berico Technologies."
 location: "Founded online; registered through Sunshine Press"
 created: 2026-06-20

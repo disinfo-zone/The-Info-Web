@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Ben Rich
+  - Ben R. Rich
+  - Benjamin Robert Rich
+  - Benjamin R. Rich
+  - Ben Reich
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -9,12 +15,6 @@ tags:
   - Area51
   - UFO
   - Aerospace
-alias:
-  - Ben Rich
-  - Ben R. Rich
-  - Benjamin Robert Rich
-  - Benjamin R. Rich
-  - Ben Reich
 summary: "Lockheed engineer who headed the Skunk Works from 1975 to 1990, developed the F-117, and closed lectures with a line about taking E.T. home that listeners later reported as an admission."
 location: "Burbank, California"
 relations:

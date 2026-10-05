@@ -1,4 +1,12 @@
 ---
+aliases:
+  - KONA BLUE
+  - Kona Blue
+  - KONA BLUE PSAP
+  - Kona Blue PSAP
+  - Kona Blue Prospective Special Access Program
+  - DHS KONA BLUE
+  - Advanced Technology Threat Program
 category: "Intelligence Operation"
 tags:
   - Program
@@ -11,14 +19,6 @@ tags:
   - JosephLieberman
   - BigelowAerospace
   - Congress
-alias:
-  - KONA BLUE
-  - Kona Blue
-  - KONA BLUE PSAP
-  - Kona Blue PSAP
-  - Kona Blue Prospective Special Access Program
-  - DHS KONA BLUE
-  - Advanced Technology Threat Program
 summary: "Prospective special access program opened in July 2011 by the Department of Homeland Security's science directorate to continue the Defense Intelligence Agency's AAWSAP research, terminated by Deputy Secretary Jane Lute in December 2011."
 start: 2011-07-11
 end: 2011-12-12

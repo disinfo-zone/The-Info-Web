@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Igor Smirnov
+  - Igor V. Smirnov
+  - Igor Viktorovich Smirnov
+  - Igor Smirnoff
+  - I. V. Smirnov
+  - Dr. Igor Smirnov
+  - Игорь Викторович Смирнов
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -10,14 +18,6 @@ tags:
   - Waco
   - Stargate
   - NonLethalWeapons
-alias:
-  - Igor Smirnov
-  - Igor V. Smirnov
-  - Igor Viktorovich Smirnov
-  - Igor Smirnoff
-  - I. V. Smirnov
-  - Dr. Igor Smirnov
-  - Игорь Викторович Смирнов
 summary: "Russian physician of the Moscow Medical Academy who developed EEG-mapped subliminal 'psycho-correction' and in March 1993 briefed FBI, CIA, DIA and ARPA officials on using it against David Koresh at Waco."
 location: "Moscow, Russia"
 relations:

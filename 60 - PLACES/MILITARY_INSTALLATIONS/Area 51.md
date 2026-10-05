@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Area 51
+  - Groom Lake
+  - Groom Dry Lake
+  - Paradise Ranch
+  - Watertown Strip
+  - Watertown
+  - the Ranch
+  - operating location near Groom Lake
 category: "Military Installation"
 tags:
   - MilitaryInstallation
@@ -9,15 +18,6 @@ tags:
   - OXCART
   - UFO
   - StateSecrets
-alias:
-  - Area 51
-  - Groom Lake
-  - Groom Dry Lake
-  - Paradise Ranch
-  - Watertown Strip
-  - Watertown
-  - the Ranch
-  - operating location near Groom Lake
 summary: "Classified Air Force operating location at Groom Lake, Nevada, chosen in 1955 for the CIA's U-2, confirmed in the CIA's own history in 2013, and covered from 1995 by annual presidential exemptions from waste disclosure."
 start: 1955-04-12
 location: "Lincoln County, Nevada"

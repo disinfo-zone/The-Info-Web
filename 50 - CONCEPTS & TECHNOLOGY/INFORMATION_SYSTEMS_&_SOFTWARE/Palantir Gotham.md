@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Palantir Gotham
+  - Gotham
+  - Palantir Government
+  - Palantir Gotham Platform
+  - Gotham platform
 category: "Information System"
 tags:
   - InformationSystem
@@ -12,12 +18,6 @@ tags:
   - InQTel
   - PredictivePolicing
   - OperationLASER
-alias:
-  - Palantir Gotham
-  - Gotham
-  - Palantir Government
-  - Palantir Gotham Platform
-  - Gotham platform
 summary: "Palantir's first platform, released in 2008 for intelligence customers, bought by the Army, Special Operations Command, ICE (as FALCON) and police departments, and the product at issue in Palantir's 2016 bid protest against the Army."
 start: 2008
 location: "Palo Alto, California"

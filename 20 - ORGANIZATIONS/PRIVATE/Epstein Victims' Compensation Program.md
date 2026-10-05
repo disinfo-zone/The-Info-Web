@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Epstein Victim Compensation Program
+  - Epstein Victims Compensation Program
+  - Independent Epstein Victims' Compensation Program
+  - Epstein Victims' Compensation Fund
+  - EVCP
 category: "Private Organization"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - KennethFeinberg
   - VirginIslands
   - Settlement
-alias:
-  - Epstein Victim Compensation Program
-  - Epstein Victims Compensation Program
-  - Independent Epstein Victims' Compensation Program
-  - Epstein Victims' Compensation Fund
-  - EVCP
 summary: "Voluntary claims program funded by Jeffrey Epstein's estate and run by Jordana Feldman, which paid about 121 to 125 million dollars to some 136 to 150 claimants in exchange for releases, its records sealed."
 start: 2020
 end: 2021

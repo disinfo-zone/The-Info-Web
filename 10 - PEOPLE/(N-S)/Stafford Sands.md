@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sir Stafford Sands
 category: "Political Figure"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - MeyerLansky
   - Wackenhut
   - ResortsInternational
-alias:
-  - Sir Stafford Sands
 summary: "Bahamian minister and lawyer who arranged casino exemptions for clients tied to Meyer Lansky, was disgraced by a 1967 royal commission, and was kept as a client by Wackenhut during its Florida war on crime."
 location: "Nassau, Bahamas"
 created: 2026-09-21

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - René Riveros Valderrama
+  - Rene Riveros Valderrama
+  - Juan Williams Rose
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - OrlandoLetelier
   - VernonWalters
   - Chile
-alias:
-  - René Riveros Valderrama
-  - Rene Riveros Valderrama
-  - Juan Williams Rose
 summary: "DINA captain who flew to Washington on August 21, 1976, as Juan Williams Rose, the false name Townley had carried on a Paraguayan passport, on a mission to find General Vernon Walters."
 location: "Santiago, Chile"
 created: 2026-09-21

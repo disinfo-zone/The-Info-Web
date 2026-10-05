@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Juan Alessi
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - PalmBeach
   - LesWexner
   - Witness
-alias:
-  - Juan Alessi
 summary: "Palm Beach house manager for Jeffrey Epstein from about 1990 to 2002, referred through Leslie Wexner, who testified at Ghislaine Maxwell's 2021 trial and authenticated Epstein's contact book."
 location: "Palm Beach, Florida"
 created: 2026-09-25

@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Y Combinator
+  - YC
+  - YCombinator
+  - Y Combinator Management
+  - Y Combinator Management, LLC
+  - Y Combinator, LLC
+  - Cambridge Seed
+  - Summer Founders Program
 category: "Private Organization"
 tags:
   - Organization
@@ -12,15 +21,6 @@ tags:
   - SanFranciscoPolitics
   - PoliticalMoney
   - Lobbying
-alias:
-  - Y Combinator
-  - YC
-  - YCombinator
-  - Y Combinator Management
-  - Y Combinator Management, LLC
-  - Y Combinator, LLC
-  - Cambridge Seed
-  - Summer Founders Program
 summary: "Startup investor founded in March 2005 by Paul Graham, Jessica Livingston, Robert Morris and Trevor Blackwell, whose research affiliate shared officers and a lender with OpenAI and whose federal PAC registered in 2025."
 start: 2005-03-11
 location: "Mountain View, California"

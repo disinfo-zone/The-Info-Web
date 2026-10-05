@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Highbridge Capital Management
+  - Highbridge Capital Management, LLC
+  - Highbridge Capital Corp.
+  - Highbridge Capital
+  - Highbridge
 category: "Private Organization"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - JeffreyEpstein
   - JPMorgan
   - JesStaley
-alias:
-  - Highbridge Capital Management
-  - Highbridge Capital Management, LLC
-  - Highbridge Capital Corp.
-  - Highbridge Capital
-  - Highbridge
 summary: "New York hedge fund founded in 1992 by Glenn Dubin and Henry Swieca, with Jeffrey Epstein as a founding investor, whose 2004 sale to JPMorgan Epstein helped broker."
 start: 1992-09
 location: "New York, New York"

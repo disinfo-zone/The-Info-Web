@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Al Schwimmer
+  - Adolph Schwimmer
+  - Adolph W. Schwimmer
+  - Adolph William Schwimmer
+  - A. W. Schwimmer
+  - Adolf Schwimmer
+  - Adolf (Al) Schwimmer
 category: "Business & Finance"
 tags:
   - Person
@@ -12,14 +20,6 @@ tags:
   - ShimonPeres
   - LakeResources
   - PresidentialPardon
-alias:
-  - Al Schwimmer
-  - Adolph Schwimmer
-  - Adolph W. Schwimmer
-  - Adolph William Schwimmer
-  - A. W. Schwimmer
-  - Adolf Schwimmer
-  - Adolf (Al) Schwimmer
 summary: "American flight engineer convicted in 1950 of smuggling aircraft to Israel for the Jewish Agency, founder of Israel Aircraft Industries, Peres adviser and Israeli intermediary in the 1985 Iran arms sales, pardoned in 2001."
 born: 1917-06-11
 died: 2011-06-11

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Hulk Hogan v. Gawker
+  - Gawker lawsuit
+  - Bollea v. Gawker Media
 category: "Modern Incident"
 tags:
   - Event
@@ -9,10 +13,6 @@ tags:
   - FirstAmendment
   - Florida
   - PressFreedom
-alias:
-  - Hulk Hogan v. Gawker
-  - Gawker lawsuit
-  - Bollea v. Gawker Media
 summary: Bollea v. Gawker Media was the 2016 Florida invasion-of-privacy trial in which Terry Bollea (Hulk Hogan) won a 140 million dollar verdict against Gawker Media over its 2012 publication of a sex tape, a judgment secretly funded by Peter Thiel that drove Gawker into bankruptcy and ended the outlet.
 location: Pinellas County Circuit Court, St. Petersburg, Florida (Sixth Judicial Circuit)
 created: 2026-06-17

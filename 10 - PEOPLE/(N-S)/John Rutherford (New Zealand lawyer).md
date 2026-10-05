@@ -1,4 +1,7 @@
 ---
+aliases:
+  - John Rutherford
+  - John Gordon Rutherford
 category: "Law Enforcement & Legal"
 tags:
   - AbuseNetworks
@@ -6,9 +9,6 @@ tags:
   - NewZealand
   - Lawyer
   - RCHorsch
-alias:
-  - John Rutherford
-  - John Gordon Rutherford
 summary: "Christchurch lawyer who set up Chemical Technology Limited and brought the American fugitive R.C. Horsch, posing as the chemist Stanley Stokowski, to New Zealand to build a whey-ethanol plant."
 location: "Christchurch, New Zealand"
 relations:

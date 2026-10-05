@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Abdul Qadeer Khan
+  - A. Q. Khan
+  - A. Qadir Khan
 category: "Scientists & Researchers"
 tags:
   - Nuclear
@@ -7,10 +11,6 @@ tags:
   - NuclearProliferation
   - BCCI
   - Kahuta
-alias:
-  - Abdul Qadeer Khan
-  - A. Q. Khan
-  - A. Qadir Khan
 summary: "Pakistani scientist associated with Pakistan's nuclear bomb program and its procurement network, and project director of the Ghulam Ishaq Khan Institute, which received BCCI grants."
 created: 2026-09-23
 updated: 2026-09-23

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Alan "Ace" Greenberg
+  - Ace Greenberg
+  - Alan C. Greenberg
+  - Alan Courtney Greenberg
 category: "Business & Finance"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - JeffreyEpstein
   - WallStreet
   - DonaldTrump
-alias:
-  - Alan "Ace" Greenberg
-  - Ace Greenberg
-  - Alan C. Greenberg
-  - Alan Courtney Greenberg
 summary: "Bear Stearns chief executive from 1978 to 1993 and chairman to 2001 who brought Jeffrey Epstein into the firm and in 2010, at JPMorgan, sought a felony-policy exception to keep doing business with him."
 born: 1927-09-03
 died: 2014-07-25

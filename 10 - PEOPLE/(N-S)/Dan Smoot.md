@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Howard D. Smoot
 category: "Authors & Journalists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - HLHunt
   - JohnBirchSociety
   - RadioRight
-alias:
-  - Howard D. Smoot
 summary: "FBI agent from 1942 to 1951 who became the voice of H.L. Hunt's Facts Forum and then an independent broadcaster, and whose resignation, described to the public as voluntary, followed censure, probation, and transfer."
 location: "Dallas, Texas"
 created: 2026-09-21

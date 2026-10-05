@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Pedro Espinoza Bravo
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - CarlosPrats
   - CharlesHorman
   - OperationCondor
-alias:
-  - Pedro Espinoza Bravo
 summary: "Operations director of DINA, indicted in Washington for the Letelier murder in 1978, named by Michael Townley as the man who asked for the killing of General Prats, and convicted in the Horman case."
 location: "Santiago, Chile"
 created: 2026-09-21

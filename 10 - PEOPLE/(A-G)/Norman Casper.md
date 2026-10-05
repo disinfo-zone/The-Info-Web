@@ -1,4 +1,7 @@
 ---
+aliases:
+  - TW-24
+  - The Friendly Ghost
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - InternalRevenueService
   - Bahamas
   - Informants
-alias:
-  - TW-24
-  - The Friendly Ghost
 summary: "Former Wackenhut detective in Miami who became the paid informant TW-24 of the Internal Revenue Service's Operation Tradewinds and in 1972 approached the president of the Castle Bank in the Bahamas."
 location: "Miami, Florida"
 created: 2026-09-21

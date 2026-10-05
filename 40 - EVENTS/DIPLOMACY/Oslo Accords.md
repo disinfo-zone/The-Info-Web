@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Oslo Accords
+  - Oslo Accord
+  - Oslo I
+  - Oslo II
+  - Oslo process
+  - Oslo channel
+  - Oslo Peace Process
+  - Declaration of Principles
+  - Declaration of Principles on Interim Self-Government Arrangements
+  - Israeli-Palestinian Interim Agreement
 category: "Diplomacy"
 tags:
   - Event
@@ -11,17 +22,6 @@ tags:
   - PalestinianAuthority
   - InternationalPeaceInstitute
   - JeffreyEpstein
-alias:
-  - Oslo Accords
-  - Oslo Accord
-  - Oslo I
-  - Oslo II
-  - Oslo process
-  - Oslo channel
-  - Oslo Peace Process
-  - Declaration of Principles
-  - Declaration of Principles on Interim Self-Government Arrangements
-  - Israeli-Palestinian Interim Agreement
 summary: "Israel and the PLO exchanged recognition and signed a Declaration of Principles on September 13, 1993 after secret talks in Norway run through Fafo, followed by the 1995 Interim Agreement and Norwegian inquiries."
 start: 1993-09-13
 end: 1995-09-28

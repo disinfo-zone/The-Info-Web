@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Stephen K. Bannon
 category: "Political Figure"
 tags:
   - NewRight
@@ -10,8 +12,6 @@ tags:
   - Mercer
   - AltRight
   - 2016
-alias:
-  - Stephen K. Bannon
 summary: "Steve Bannon is the Breitbart chairman, Cambridge Analytica vice president and 2016 Trump campaign chief who in August 2018 discussed with Jeffrey Epstein by text how to meet away from surveillance."
 born: 1953-11-27
 location: "Norfolk, Virginia (born)"

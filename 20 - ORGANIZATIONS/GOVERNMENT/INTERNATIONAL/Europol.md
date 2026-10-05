@@ -1,4 +1,8 @@
 ---
+aliases:
+  - European Counter Terrorism Centre
+  - ECTC
+  - European Union Agency for Law Enforcement Cooperation
 category: "Intelligence & Government"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - CounterTerrorism
   - Europol
   - ECTC
-alias:
-  - European Counter Terrorism Centre
-  - ECTC
-  - European Union Agency for Law Enforcement Cooperation
 summary: "European Union law enforcement agency in The Hague, governed by Regulation 2016/794, whose European Counter Terrorism Centre has supported national cases against the Terrorgram Collective, The Base and the Com network."
 location: "The Hague, Netherlands"
 created: 2026-09-24

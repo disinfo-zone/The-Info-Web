@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Neal Mohan
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - DoubleClick
   - AdTech
   - ContentModeration
-alias:
-  - Neal Mohan
 summary: "Neal Mohan is an American technology executive who built Google's display-advertising business after the DoubleClick acquisition, served as YouTube's chief product officer from 2015, and became chief executive of YouTube in February 2023."
 born: 1973
 location: "Indiana, United States (born)"

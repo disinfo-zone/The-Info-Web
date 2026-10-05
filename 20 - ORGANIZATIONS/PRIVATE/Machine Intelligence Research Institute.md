@@ -1,4 +1,9 @@
 ---
+aliases:
+  - MIRI
+  - Singularity Institute for Artificial Intelligence
+  - SIAI
+  - Singularity Institute
 category: "Private Organization"
 tags:
   - Organization
@@ -8,11 +13,6 @@ tags:
   - PeterThiel
   - Transhumanism
   - Singularity
-alias:
-  - MIRI
-  - Singularity Institute for Artificial Intelligence
-  - SIAI
-  - Singularity Institute
 summary: "The Machine Intelligence Research Institute is a Berkeley artificial-intelligence-risk nonprofit founded in 2000 as the Singularity Institute for Artificial Intelligence by Eliezer Yudkowsky, funded from 2005 by Peter Thiel, that incubated the LessWrong rationalist community and the social network from which the Leverage Research, Vassarite, and Zizian cult formations later emerged."
 location: "Berkeley, California"
 created: 2026-06-19

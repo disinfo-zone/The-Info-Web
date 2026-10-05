@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Andrew Oosterbaan
+  - Andrew G. Oosterbaan
+  - Drew Oosterbaan
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - NonProsecutionAgreement
   - OfficeOfProfessionalResponsibility
-alias:
-  - Andrew Oosterbaan
-  - Andrew G. Oosterbaan
-  - Drew Oosterbaan
 summary: "Justice Department prosecutor who as chief of the Child Exploitation and Obscenity Section pressed for Jeffrey Epstein's federal prosecution in 2007, then issued the 2008 review letter leaving the decision to Alexander Acosta."
 location: "Washington, D.C."
 created: 2026-09-25

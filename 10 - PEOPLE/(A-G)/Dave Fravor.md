@@ -1,13 +1,13 @@
 ---
-category: "UFO & Anomalous Phenomena"
-tags:
-  - Person
-  - UFO
-alias:
+aliases:
   - Dave Fravor
   - David Fravor
   - Commander David Fravor
   - Commander Dave Fravor
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
 summary: "Retired Navy commander and commanding officer of Strike Fighter Squadron 41 who led the November 14, 2004 Nimitz Tic Tac intercept and testified to a House Oversight subcommittee on July 26, 2023."
 relations:
   - type: director_of

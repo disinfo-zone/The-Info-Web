@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Carl Schmitt
+  - Schmitt
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - Nazism
   - Katechon
   - PeterThiel
-alias:
-  - Carl Schmitt
-  - Schmitt
 summary: "Carl Schmitt was the German jurist and Nazi-era 'crown jurist' who theorized the state of exception, the friend-enemy distinction, political theology, and the katechon, and whose work was revived on the contemporary right and woven through Peter Thiel's 'Straussian Moment' essay and 2025 Antichrist lectures."
 born: 1888-07-11
 died: 1985-04-07

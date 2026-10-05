@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alexus Grynkewich
+  - Alexander V. Grynkewich
 category: "Military"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - USMilitary
   - Dialog
   - AirForce
-alias:
-  - Alexus Grynkewich
-  - Alexander V. Grynkewich
 summary: "Alexus Grynkewich is a United States Air Force general serving as NATO Supreme Allied Commander Europe (SACEUR) since 2025, a four-star command that oversees all NATO military operations, and who has attended Peter Thiel's secret Dialog retreats since 2021 per WIRED."
 born: 1970
 location: "United States"

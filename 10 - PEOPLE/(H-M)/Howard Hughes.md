@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Howard Hughes
+  - Howard R. Hughes
+  - Howard Robard Hughes
+  - Howard R. Hughes Jr.
+  - Howard Robard Hughes Jr.
 category: "Business & Finance"
 tags:
   - Person
@@ -15,12 +21,6 @@ tags:
   - CIA
   - LasVegas
   - Nevada
-alias:
-  - Howard Hughes
-  - Howard R. Hughes
-  - Howard Robard Hughes
-  - Howard R. Hughes Jr.
-  - Howard Robard Hughes Jr.
 summary: "Sole owner of Hughes Tool Company (later Summa Corporation) whose cash gift to Bebe Rebozo, Nevada casino purchases and company name on the CIA's Glomar Explorer run through Senate, court and CIA records."
 born: 1905-12-24
 died: 1976-04-05

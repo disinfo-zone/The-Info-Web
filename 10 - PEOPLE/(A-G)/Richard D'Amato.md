@@ -1,4 +1,8 @@
 ---
+aliases:
+  - C. Richard D'Amato
+  - Dick D'Amato
+  - Charles Richard D'Amato
 category: "Political Figure"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - SenateAppropriations
   - StarGate
   - USChinaCommission
-alias:
-  - C. Richard D'Amato
-  - Dick D'Amato
-  - Charles Richard D'Amato
 summary: "Senate Appropriations Committee counsel under Robert Byrd who wrote the 1995 language moving Star Gate to the CIA, later a Maryland delegate and chairman of the U.S.-China Economic and Security Review Commission."
 born: 1942-09-28
 location: "Annapolis, Maryland"

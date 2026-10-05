@@ -1,9 +1,9 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - Geheime Staatspolizei
   - Secret State Police
   - Die Geheime Staatspolizei
+category: "Intelligence & Government"
 tags:
   - Organization
   - NaziGermany

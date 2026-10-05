@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Alexander M. Haig, Jr.
+  - Alexander Haig
+  - Alexander M. Haig Jr.
+  - Alexander M. Haig
+  - Alexander Meigs Haig Jr.
+  - Al Haig
+  - General Haig
+  - Haig
 category: "Political Figure"
 tags:
   - KeyFigure
@@ -15,15 +24,6 @@ tags:
   - Israel
   - MGMMirage
   - RevolvingDoor
-alias:
-  - Alexander M. Haig, Jr.
-  - Alexander Haig
-  - Alexander M. Haig Jr.
-  - Alexander M. Haig
-  - Alexander Meigs Haig Jr.
-  - Al Haig
-  - General Haig
-  - Haig
 summary: "Kissinger's deputy and a Halperin wiretap defendant, Nixon's chief of staff, NATO commander, Reagan's first Secretary of State, and later a director and paid consultant of MGM Mirage, SDC International and DOR BioPharma."
 born: 1924-12-02
 died: 2010-02-20

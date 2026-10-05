@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Edward Sheffield Nelson
 category: "Business & Finance"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - BillClinton
   - JerryJones
   - PublicUtilities
-alias:
-  - Edward Sheffield Nelson
 summary: "Witt Stephens's successor at Arkla, who broke with the Stephens family in 1975, sold gas leases to Jerry Jones that the utility bought back at a large markup, and lost to Bill Clinton in 1990."
 born: 1941
 location: "Little Rock, Arkansas"

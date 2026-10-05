@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Gertrude Schmeidler
+  - Gertrude Raffel Schmeidler
+  - Gertrude R. Schmeidler
+  - G. R. Schmeidler
+  - Dr. Gertrude Schmeidler
+  - Gertrude Raffel
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -12,13 +19,6 @@ tags:
   - PSI
   - 1940s
   - 1970s
-alias:
-  - Gertrude Schmeidler
-  - Gertrude Raffel Schmeidler
-  - Gertrude R. Schmeidler
-  - G. R. Schmeidler
-  - Dr. Gertrude Schmeidler
-  - Gertrude Raffel
 summary: "Experimental psychologist at City College of New York whose card-guessing experiments of 1942 to 1945 produced the sheep and goat classification of subjects, and who tested Ingo Swann's psychokinesis on thermistors in 1971 to 1973."
 born: 1912-07-15
 died: 2009-03-09

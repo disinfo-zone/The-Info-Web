@@ -1,17 +1,5 @@
 ---
-category: "Organizations"
-tags:
-  - Organization
-  - BGCGroup
-  - InterdealerBroker
-  - CantorFitzgerald
-  - HowardLutnick
-  - eSpeed
-  - Fenics
-  - CFTC
-  - Whistleblower
-  - Finance
-alias:
+aliases:
   - BGC Group
   - BGC Group, Inc.
   - BGC Partners
@@ -27,6 +15,18 @@ alias:
   - BGC Partners Inc
   - BGC Group Inc
   - ESPEED INC
+category: "Organizations"
+tags:
+  - Organization
+  - BGCGroup
+  - InterdealerBroker
+  - CantorFitzgerald
+  - HowardLutnick
+  - eSpeed
+  - Fenics
+  - CFTC
+  - Whistleblower
+  - Finance
 summary: "Interdealer broker and financial-technology company, successor to eSpeed and BGC Partners and controlled by Cantor Fitzgerald, whose subsidiaries paid $25 million in 2019 over foreign exchange options brokering."
 location: "New York, New York"
 relations:

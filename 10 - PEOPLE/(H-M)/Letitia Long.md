@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Letitia A. Long
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - NGA
   - NavalIntelligence
   - StarGate
-alias:
-  - Letitia A. Long
 summary: "Career naval and defense intelligence official who signed DIA's 1995 Star Gate response as director of its military intelligence staff and rose to direct the National Geospatial-Intelligence Agency, then joined defense-contractor boards."
 created: 2026-09-22
 updated: 2026-09-22

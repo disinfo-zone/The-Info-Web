@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alexander Berger
 category: "Philanthropists & Benefactors"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - CoefficientGiving
   - GiveWell
   - StanfordUniversity
-alias:
-  - Alexander Berger
 summary: "Stanford-trained GiveWell researcher who cofounded Open Philanthropy, became its co-CEO in 2021 and sole CEO in 2023, and holds the same titles at its 501(c)(4) Action Fund."
 location: "San Francisco, California"
 relations:

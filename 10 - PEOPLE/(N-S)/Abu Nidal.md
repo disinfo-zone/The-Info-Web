@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sabri al-Banna
+  - Sabri Al-Bannah
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - Israel
   - BCCI
   - Terrorism
-alias:
-  - Sabri al-Banna
-  - Sabri Al-Bannah
 summary: "Palestinian terrorist and target of Israeli intelligence operations, connected to the Achille Lauro attack and arms trafficking networks, whose organization was financed through BCCI in London."
 born: 1937
 died: 2002

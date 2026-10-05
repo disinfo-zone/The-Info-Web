@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Eugene J. Metzger
 category: "Law Enforcement & Legal"
 tags:
   - Person
   - BCCI
   - Lawyer
   - FinancialGeneral
-alias:
-  - Eugene J. Metzger
 summary: "Washington lawyer and Financial General shareholder whom a federal court found in 1981 to have breached his duties as the company's counsel during the BCCI takeover fight; the judgment was vacated in 1982."
 location: "Washington, D.C."
 relations:

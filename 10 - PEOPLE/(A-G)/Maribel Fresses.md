@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Maribel Ivette Fresses
+  - Bella Fresses
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -7,9 +10,6 @@ tags:
   - MissingWomen
   - OlneyHouseInvestigation
   - Kensington
-alias:
-  - Maribel Ivette Fresses
-  - Bella Fresses
 summary: "Bucks County woman missing since 2018 whom Philadelphia police identified in 2026 as appearing dead in images recovered from the Horsch house in Olney."
 location: "Philadelphia, Pennsylvania"
 relations:

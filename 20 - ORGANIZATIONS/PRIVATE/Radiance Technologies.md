@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Radiance Technologies, Inc.
+  - Radiance Technologies Inc
+  - Radiance Technologies Inc.
+  - Radiance Tech
+  - Radiance
+  - CDES, Inc.
 category: "Organizations"
 tags:
   - Organization
@@ -10,13 +17,6 @@ tags:
   - ForeignMaterielExploitation
   - ESOP
   - WrightPatterson
-alias:
-  - Radiance Technologies, Inc.
-  - Radiance Technologies Inc
-  - Radiance Technologies Inc.
-  - Radiance Tech
-  - Radiance
-  - CDES, Inc.
 summary: "Employee-owned Huntsville, Alabama defense contractor with National Air and Space Intelligence Center awards, employer of Jay Stratton and Travis Taylor from 2022, and named by Daniel Sheehan in December 2023."
 location: "Huntsville, Alabama"
 relations:

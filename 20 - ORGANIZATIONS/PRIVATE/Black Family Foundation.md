@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Debra and Leon Black Family Foundation
+  - Debra And Leon Black Family Foundation
+  - Leon Black Family Foundation
+  - Leon and Debra Black Family Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -7,11 +12,6 @@ tags:
   - JeffreyEpstein
   - Philanthropy
   - HarvardUniversity
-alias:
-  - Debra and Leon Black Family Foundation
-  - Debra And Leon Black Family Foundation
-  - Leon Black Family Foundation
-  - Leon and Debra Black Family Foundation
 summary: "Private foundation of Leon and Debra Black, established in 1997 with Jeffrey Epstein among its initial directors, which listed him on its tax returns until 2012 and funded Harvard's Program for Evolutionary Dynamics."
 start: 1997
 location: "445 Park Avenue, New York, New York"

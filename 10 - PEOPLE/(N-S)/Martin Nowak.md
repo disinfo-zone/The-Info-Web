@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Martin Nowak
+  - Martin A. Nowak
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - SciencePhilanthropy
   - EvolutionaryDynamics
   - MathematicalBiology
-alias:
-  - Martin Nowak
-  - Martin A. Nowak
 summary: "Martin Nowak is a Harvard mathematical biologist who directed the Program for Evolutionary Dynamics, founded with a 2003 Jeffrey Epstein gift, and was sanctioned in 2021 and placed on leave in 2026 over Epstein."
 born: 1965-04-07
 location: "Cambridge, Massachusetts"

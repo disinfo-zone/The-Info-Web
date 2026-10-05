@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Western Hemisphere Division
+  - WHD
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Chile
   - Guatemala
   - ColdWar
-alias:
-  - Western Hemisphere Division
-  - WHD
 summary: "The CIA's clandestine service division for Latin America, which ran the 1954 Guatemala coup under J.C. King and the 1970 Chile task force under William Broe and David Atlee Phillips."
 location: "Langley, Virginia"
 created: 2026-09-24

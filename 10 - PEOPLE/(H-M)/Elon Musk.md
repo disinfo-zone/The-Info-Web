@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Elon Reeve Musk
 category: "Technologists"
 tags:
   - KeyFigure
@@ -12,8 +14,6 @@ tags:
   - Russia
   - X
   - Starlink
-alias:
-  - Elon Reeve Musk
 summary: "South African-born billionaire who cofounded PayPal and runs SpaceX and Tesla, acquired Twitter, and was reported in 2024 to have been in regular contact with Vladimir Putin since late 2022."
 born: 1971-06-28
 location: "Pretoria, South Africa (born); Austin, Texas (base)"

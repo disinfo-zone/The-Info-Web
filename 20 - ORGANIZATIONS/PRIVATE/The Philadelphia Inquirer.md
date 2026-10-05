@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Philadelphia Inquirer
+  - Inquirer
+  - The Pennsylvania Inquirer
+  - Inquirer.com
 category: "Media & Entertainment"
 tags:
   - Organization
@@ -8,11 +13,6 @@ tags:
   - Annenberg
   - OlneyHouseInvestigation
   - RCHorsch
-alias:
-  - Philadelphia Inquirer
-  - Inquirer
-  - The Pennsylvania Inquirer
-  - Inquirer.com
 summary: "Philadelphia daily founded in 1829, owned by the Annenbergs, Knight Ridder, local investors and H.F. Lenfest, and since 2016 by a nonprofit institute under the Philadelphia Foundation."
 start: 1829-06-01
 location: "Philadelphia, Pennsylvania"

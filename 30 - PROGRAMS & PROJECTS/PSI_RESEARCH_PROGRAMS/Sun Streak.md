@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Project Sun Streak
+  - SUN STREAK
 category: "Psi Research Program"
 tags:
   - Program
@@ -8,9 +11,6 @@ tags:
   - FortMeade
   - Counternarcotics
   - SpecialAccessProgram
-alias:
-  - Project Sun Streak
-  - SUN STREAK
 summary: "The DIA's special access program for the Fort Meade remote-viewing unit from 1986 to 1990, twelve billets working 192 projects by 1989, judged by a 1990 counternarcotics test to give good data in about a third of cases."
 start: 1986
 end: 1990-12-31

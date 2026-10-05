@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Goodwin Procter
+  - Goodwin Procter LLP
 category: "Private Organization"
 tags:
   - Organization
@@ -10,9 +13,6 @@ tags:
   - InternalInvestigation
   - JoiIto
   - SethLloyd
-alias:
-  - Goodwin Procter
-  - Goodwin Procter LLP
 summary: "Boston law firm founded in 1912 whose January 2020 report for MIT documented ten Epstein donations totaling 850,000 dollars and found that MIT's senior team had approved post-conviction gifts."
 start: 1912-07-01
 location: "Boston, Massachusetts"

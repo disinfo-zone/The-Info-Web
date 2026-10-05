@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Sol Foundation
+  - The Sol Foundation
+  - Sol Foundation for Advanced Studies
+  - The Sol Foundation for Advanced Scientific and Policy Research
+  - Sol Foundation for Advanced Scientific and Policy Research
+  - The Sol Foundation for Advanced Scientific and Research Policy
+  - Sol Foundation Initiative for UAP Research and Policy
 category: "UFO & Anomalous Phenomena"
 tags:
   - Organization
@@ -9,14 +17,6 @@ tags:
   - Stanford
   - SolFoundation
   - Disclosure
-alias:
-  - Sol Foundation
-  - The Sol Foundation
-  - Sol Foundation for Advanced Studies
-  - The Sol Foundation for Advanced Scientific and Policy Research
-  - Sol Foundation for Advanced Scientific and Policy Research
-  - The Sol Foundation for Advanced Scientific and Research Policy
-  - Sol Foundation Initiative for UAP Research and Policy
 summary: "California public benefit corporation launched August 15, 2023 by Garry Nolan and Peter Skafish to study unidentified anomalous phenomena, with a 2024 Form 990 showing $937,625 in revenue and one $10,000 white paper grant."
 location: "California (Redwood City, Auburn and Stanford addresses of record)"
 relations:

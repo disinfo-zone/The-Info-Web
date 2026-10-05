@@ -1,4 +1,6 @@
 ---
+aliases:
+  - John M. Younge
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - FederalJudiciary
   - Philadelphia
   - OlneyHouseInvestigation
-alias:
-  - John M. Younge
 summary: "Philadelphia Common Pleas judge appointed to the federal bench in 2019 and assigned the 2026 firearms and false-identification case against Eugene Horsch."
 location: "Philadelphia, Pennsylvania"
 relations:

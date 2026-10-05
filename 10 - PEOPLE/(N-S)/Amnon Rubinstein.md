@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Amnon Rubinstein
+  - Prof. Amnon Rubinstein
+  - Dr. Amnon Rubinstein
+  - Rubinstein
 category: "Political Figure"
 tags:
   - Person
@@ -9,11 +14,6 @@ tags:
   - ConstitutionalLaw
   - UriGeller
   - TelAvivUniversity
-alias:
-  - Amnon Rubinstein
-  - Prof. Amnon Rubinstein
-  - Dr. Amnon Rubinstein
-  - Rubinstein
 summary: "Israeli law professor and Knesset member (1977 to 2001), founder of Shinui and minister of communications and of education, whom Uri Geller named as the confidant to whom he confessed faking a trick in 1970."
 born: 1931-09-05
 died: 2024-01-18

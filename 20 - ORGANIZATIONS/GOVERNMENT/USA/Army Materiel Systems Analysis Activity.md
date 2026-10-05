@@ -1,4 +1,8 @@
 ---
+aliases:
+  - AMSAA
+  - USAMSAA
+  - U.S. Army Materiel Systems Analysis Activity
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - GrillFlame
   - RemoteViewing
   - StargateProject
-alias:
-  - AMSAA
-  - USAMSAA
-  - U.S. Army Materiel Systems Analysis Activity
 summary: "Army Materiel Command systems-analysis activity at Aberdeen Proving Ground, formed in 1968, which ran its own replication of the SRI remote-viewing protocol under Grill Flame in 1978 and 1979."
 start: 1968
 location: "Aberdeen Proving Ground, Maryland"

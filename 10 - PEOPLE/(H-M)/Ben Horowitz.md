@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Ben Horowitz
+  - Benjamin Horowitz
+  - Benjamin A. Horowitz
+  - Horowitz, Ben
 category: "Technologists"
 tags:
   - Person
@@ -13,11 +18,6 @@ tags:
   - LasVegas
   - Fairshake
   - Trump
-alias:
-  - Ben Horowitz
-  - Benjamin Horowitz
-  - Benjamin A. Horowitz
-  - Horowitz, Ben
 summary: "Cofounder of Andreessen Horowitz and former chief executive of Loudcloud and Opsware, whose family foundation gave 7,255,132 dollars to the Las Vegas police foundation and who funded crypto, AI and Trump super PACs."
 location: "Las Vegas, Nevada"
 relations:

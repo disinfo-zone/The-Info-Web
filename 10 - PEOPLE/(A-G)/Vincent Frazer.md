@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Vincent F. Frazer
+  - Vincent Franklin Frazer
+  - Attorney General Vincent Frazer
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - SexOffenderRegistration
   - GovernmentCapture
-alias:
-  - Vincent F. Frazer
-  - Vincent Franklin Frazer
-  - Attorney General Vincent Frazer
 summary: "Attorney General of the U.S. Virgin Islands from 2006 to 2015 who in 2012 cut Jeffrey Epstein's required notice of travel from 21 days to 24 hours at the request of Epstein's lawyers."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

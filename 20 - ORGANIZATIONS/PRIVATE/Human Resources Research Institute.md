@@ -1,4 +1,6 @@
 ---
+aliases:
+  - HRRI
 category: "Private Organization"
 tags:
   - Organization
@@ -7,7 +9,6 @@ tags:
   - ColdWar
   - USAirForce
   - PsychologicalWarfare
-alias: HRRI
 summary: "A US Air Force-affiliated behavioral science research organization at Maxwell Air Force Base, Alabama, that conducted classified psychological vulnerability studies of Communist China beginning in 1951, producing analyses of Chinese newspaper letter columns and family revolution dynamics intended to support propaganda targeting."
 location: Maxwell Air Force Base, Alabama
 created: 2026-06-04

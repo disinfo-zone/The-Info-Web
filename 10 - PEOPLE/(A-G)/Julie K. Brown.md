@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Julie Brown
 category: "Authors & Journalists"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - NonProsecutionAgreement
   - GiuffreVMaxwell
   - Unsealing
-alias:
-  - Julie Brown
 summary: "Miami Herald investigative reporter whose 2018 series Perversion of Justice prompted a Justice Department misconduct review of Epstein's plea deal and who intervened to unseal the Giuffre v. Maxwell record."
 location: "Miami, Florida"
 relations:

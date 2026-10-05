@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Eulogio Francisco Castro Paz
+  - Francisco Castro
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - CubanExiles
   - Terrorism
   - CubanaFlight455
-alias:
-  - Eulogio Francisco Castro Paz
-  - Francisco Castro
 summary: "Cuban exile named by a DISIP officer among the planners of the Cubana bombing at the Anauco Hilton in 1976, who led CORU from Miami after Orlando Bosch's arrest until Bosch removed him in 1978."
 location: "Miami, Florida"
 created: 2026-09-21

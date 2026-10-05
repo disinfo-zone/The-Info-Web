@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Derek Parfit
+  - Derek Antony Parfit
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Oxford
   - PopulationEthics
   - PersonalIdentity
-alias:
-  - Derek Parfit
-  - Derek Antony Parfit
 summary: "Derek Parfit was an Oxford philosopher at All Souls College whose 1984 Reasons and Persons set out the non-identity problem and the Repugnant Conclusion, becoming a foundation of longtermism, and who lived with austere single-mindedness."
 born: 1942-12-11
 died: 2017-01-02

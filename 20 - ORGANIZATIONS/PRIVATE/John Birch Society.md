@@ -1,4 +1,7 @@
 ---
+aliases:
+  - JBS
+  - Birch Society
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - FredKoch
   - JamesEastland
   - Segregation
-alias:
-  - JBS
-  - Birch Society
 summary: "Anticommunist membership society founded by the candy manufacturer Robert Welch at Indianapolis in December 1958, whose first council included Fred Koch and the Wackenhut director Ralph E. Davis, and which circulated Senator Eastland's speeches."
 start: 1958-12-09
 location: "Massachusetts"

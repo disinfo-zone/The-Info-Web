@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Benazir
 category: "Political Figure"
 tags:
   - Person
   - Pakistan
   - PakistanPeoplesParty
   - Assassination
-alias:
-  - Benazir
 summary: "Daughter of Zulfikar Ali Bhutto, leader of the Pakistan People's Party and twice prime minister of Pakistan, assassinated at a Rawalpindi election rally on December 27, 2007."
 died: 2007-12-27
 created: 2026-09-23

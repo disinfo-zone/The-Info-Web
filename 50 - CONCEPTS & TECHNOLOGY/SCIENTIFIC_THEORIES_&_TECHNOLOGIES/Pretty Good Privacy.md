@@ -1,4 +1,7 @@
 ---
+aliases:
+  - PGP
+  - Pretty Good Privacy
 category: "Scientific Theory & Technology"
 tags:
   - Concept
@@ -8,9 +11,6 @@ tags:
   - Privacy
   - CryptoWars
   - PhilZimmermann
-alias:
-  - PGP
-  - Pretty Good Privacy
 summary: "Pretty Good Privacy is the email-encryption software Phil Zimmermann released for free in 1991, whose international spread triggered a three-year US criminal investigation that treated strong cryptography as a munition and that the cypherpunks made a central front of the crypto wars."
 location: "United States"
 created: 2026-06-20

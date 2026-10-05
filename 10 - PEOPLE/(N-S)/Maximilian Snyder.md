@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Maximilian Bentley Snyder
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Violence
   - DeathPenalty
   - Vallejo
-alias:
-  - Maximilian Bentley Snyder
 summary: "Maximilian Snyder is a former University of Oxford student connected to the Zizian group who was charged with the January 2025 capital murder of Vallejo landlord Curtis Lind, allegedly to prevent Lind from testifying against other members of the group."
 location: "Vallejo, California"
 created: 2026-06-19

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - PPP
+  - Pakistan Peoples Party
 category: "Foreign Government"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - Pakistan
   - BCCI
   - BhuttoFamily
-alias:
-  - PPP
-  - Pakistan Peoples Party
 summary: "Pakistani political party of Zulfikar Ali Bhutto and Benazir Bhutto, which a 1978 government White Paper said had received two or three crores of rupees through Agha Hasan Abedi in 1977."
 location: "Pakistan"
 created: 2026-09-23

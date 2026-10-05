@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Hillary Clinton
+  - Hillary Rodham Clinton
+  - Hillary Rodham
+  - Hillary Diane Rodham Clinton
+  - Hillary Diane Rodham
+  - Mrs. Clinton
+  - Secretary Clinton
+  - HRC
 category: "Political Figure"
 tags:
   - Person
@@ -17,15 +26,6 @@ tags:
   - PerkinsCoie
   - FusionGPS
   - JeffreyEpstein
-alias:
-  - Hillary Clinton
-  - Hillary Rodham Clinton
-  - Hillary Rodham
-  - Hillary Diane Rodham Clinton
-  - Hillary Diane Rodham
-  - Mrs. Clinton
-  - Secretary Clinton
-  - HRC
 summary: "Lawyer, First Lady, New York senator and Secretary of State whose Madison Guaranty work, White House testimony, private email server and 2016 campaign spending were examined by independent counsel, inspectors general and the FEC."
 born: 1947-10-26
 location: "Chicago, Illinois (born)"

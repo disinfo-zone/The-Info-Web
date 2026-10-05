@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Robert W. Genzman
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Prosecutor
   - IranContra
   - OperationCChase
-alias:
-  - Robert W. Genzman
 summary: "United States Attorney in Tampa from 1988 to 1993 whose office took BCCI's 1990 guilty plea to money laundering, a settlement the Kerry-Brown Senate report criticized for ending the prosecution of the bank."
 born: 1951-09-13
 died: 1998-05

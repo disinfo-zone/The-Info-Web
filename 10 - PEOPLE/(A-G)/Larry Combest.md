@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Larry Ed Combest
 category: "Political Figure"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Congress
   - HPSCI
   - Texas
-alias:
-  - Larry Ed Combest
 summary: "Texas Republican and former aide to John Tower who chaired the House intelligence committee in 1995-96, received the CIA's Star Gate transfer report, and produced the IC21 review."
 born: 1945-03-20
 location: "Lubbock, Texas"

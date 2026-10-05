@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Johanna Sjöberg
+  - Johanna Sjoberg
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -9,9 +12,6 @@ tags:
   - PrinceAndrew
   - GiuffreVMaxwell
   - PalmBeach
-alias:
-  - Johanna Sjöberg
-  - Johanna Sjoberg
 summary: "Former Palm Beach Atlantic College student recruited by Ghislaine Maxwell in 2001 to work for Jeffrey Epstein, whose Giuffre v. Maxwell deposition described Prince Andrew groping her beside a caricature puppet."
 location: "Palm Beach, Florida"
 relations:

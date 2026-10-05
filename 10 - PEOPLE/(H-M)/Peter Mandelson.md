@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Peter Mandelson
+  - Lord Mandelson
+  - Baron Mandelson
+  - Peter Benjamin Mandelson
 category: "Political Figure"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - JeffreyEpstein
   - JPMorgan
   - MisconductInPublicOffice
-alias:
-  - Peter Mandelson
-  - Lord Mandelson
-  - Baron Mandelson
-  - Peter Benjamin Mandelson
 summary: "Peter Mandelson is the British Labour politician and former business secretary who was dismissed as ambassador to Washington in 2025 over Jeffrey Epstein and arrested in 2026 for alleged misconduct in public office."
 location: "London, United Kingdom"
 relations:

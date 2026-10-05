@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Gulf War
+  - Persian Gulf War
+  - 1991 Gulf War
+  - First Gulf War
+  - Operation Desert Storm
+  - Operation Desert Shield
+  - Gulf War of 1991
+  - Desert Storm
+  - Desert Shield
+  - Persian Gulf Conflict
 category: "Major Conflict"
 tags:
   - Event
@@ -15,17 +26,6 @@ tags:
   - Khamisiyah
   - DualUseExports
   - Section401
-alias:
-  - Gulf War
-  - Persian Gulf War
-  - 1991 Gulf War
-  - First Gulf War
-  - Operation Desert Storm
-  - Operation Desert Shield
-  - Gulf War of 1991
-  - Desert Storm
-  - Desert Shield
-  - Persian Gulf Conflict
 summary: "The 1990 to 1991 war in which a United States-led coalition expelled Iraq from Kuwait, after years of credits and exports to Baghdad, with Kuwaiti-paid publicity beforehand and veterans' illnesses afterward."
 start: 1990-08-02
 end: 1991-02-28

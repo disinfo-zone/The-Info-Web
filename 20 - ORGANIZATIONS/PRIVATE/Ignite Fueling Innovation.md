@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Ignite Fueling Innovation
+  - Ignite Fueling Innovation, Inc.
+  - Ignite
+  - Alatec, Inc.
+  - Alatec
+  - ALATEC
+  - Alatec Incorporated
 category: "Organizations"
 tags:
   - Organization
@@ -7,14 +15,6 @@ tags:
   - Alabama
   - SDVOSB
   - SolFoundation
-alias:
-  - Ignite Fueling Innovation
-  - Ignite Fueling Innovation, Inc.
-  - Ignite
-  - Alatec, Inc.
-  - Alatec
-  - ALATEC
-  - Alatec Incorporated
 summary: "Huntsville, Alabama service-disabled veteran-owned defense contractor, formed 2001 as Alatec, Inc., with about $197 million in federal obligations since fiscal 2008 and registered agent of the Alabama corporation The Sol Foundation from 2022 to 2023."
 location: "Huntsville, Alabama"
 relations:

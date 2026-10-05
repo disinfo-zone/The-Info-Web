@@ -1,4 +1,7 @@
 ---
+aliases:
+  - The White House
+  - Executive Office of the President
 category: "Landmark"
 tags:
   - Place
@@ -6,9 +9,6 @@ tags:
   - Presidency
   - NationalSecurityCouncil
   - WashingtonDC
-alias:
-  - The White House
-  - Executive Office of the President
 summary: "The presidential residence and executive office in Washington, the point where the vault's intelligence, arms and money stories reach the president's staff, and the source of many of their authorizations."
 location: "Washington, D.C."
 created: 2026-09-22

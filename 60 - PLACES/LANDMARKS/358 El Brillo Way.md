@@ -1,9 +1,9 @@
 ---
-category: "Landmark"
-tags: [Place, JeffreyEpstein, PalmBeach, Florida, Property, SexTrafficking, MichaelReiter, NonProsecutionAgreement]
-alias:
+aliases:
   - 360 El Brillo Way
   - Epstein Palm Beach mansion
+category: "Landmark"
+tags: [Place, JeffreyEpstein, PalmBeach, Florida, Property, SexTrafficking, MichaelReiter, NonProsecutionAgreement]
 summary: "Waterfront Palm Beach mansion owned by Jeffrey Epstein where the 2005 Palm Beach Police Department investigation began after a parent reported that her teenage stepdaughter had been molested there."
 location: Palm Beach, Florida
 created: 2026-06-20

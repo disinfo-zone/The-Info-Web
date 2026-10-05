@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Systematics Inc.
+  - Systematics Information Services
+  - ALLTEL Information Services
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - BankDataProcessing
   - PROMIS
   - ALLTEL
-alias:
-  - Systematics Inc.
-  - Systematics Information Services
-  - ALLTEL Information Services
 summary: "Little Rock bank data-processing company controlled by Jackson Stephens, sued in 1978 over the BCCI acquisition of Financial General Bankshares, represented by Hillary Rodham, and the subject of a 1995 CIA and NSA briefing to Congress."
 start: 1968
 location: "Little Rock, Arkansas"

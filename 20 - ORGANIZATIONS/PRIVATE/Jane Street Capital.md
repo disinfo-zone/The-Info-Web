@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Jane Street Capital
+  - Jane Street
+  - Jane Street Group
+  - Jane Street Group LLC
+  - Jane Street Group, LLC
+  - Jane Street Capital, LLC
+  - Jane Street Capital LLC
+  - Jane Street Securities
+  - JSI Investments
+  - JS Group
 category: "Private Organization"
 tags:
   - Organization
@@ -14,17 +25,6 @@ tags:
   - Lobbying
   - CampaignFinance
   - RevolvingDoor
-alias:
-  - Jane Street Capital
-  - Jane Street
-  - Jane Street Group
-  - Jane Street Group LLC
-  - Jane Street Group, LLC
-  - Jane Street Capital, LLC
-  - Jane Street Capital LLC
-  - Jane Street Securities
-  - JSI Investments
-  - JS Group
 summary: "New York proprietary trading firm that trained Sam Bankman-Fried and Caroline Ellison, agreed in 2024 to buy FTX's Anthropic shares, and faces India's 2025 manipulation order and the Terraform estate's insider trading suit."
 start: 1999-08-31
 location: "New York, New York"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leslie Kean
+  - Kean, Leslie
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - UAP
   - Journalist
   - Author
-alias:
-  - Leslie Kean
-  - Kean, Leslie
 summary: "Leslie Kean is an independent investigative journalist and author of UFOs: Generals, Pilots, and Government Officials Go on the Record (2010), and a co-author of the New York Times AATIP report of December 16, 2017."
 location: "New York City"
 relations:

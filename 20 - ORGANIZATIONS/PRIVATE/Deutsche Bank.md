@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Deutsche Bank AG
+  - Deutsche Bank Trust Company of the Americas
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - SexTrafficking
   - ComplianceFailure
   - ButterflyTrust
-alias:
-  - Deutsche Bank AG
-  - Deutsche Bank Trust Company of the Americas
 summary: "German bank that handled Jeffrey Epstein's accounts from 2013 to 2018 after JPMorgan exited him, processed payments to women and alleged co-conspirators, and paid 225 million dollars in penalties and settlements."
 location: "Frankfurt, Germany"
 created: 2026-06-20

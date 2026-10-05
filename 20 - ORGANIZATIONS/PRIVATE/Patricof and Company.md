@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Allen Patricof and Associates
+  - Patricof & Co.
+  - APA
 category: "Private Organization"
 tags:
   - Organization
@@ -6,10 +10,6 @@ tags:
   - PROMIS
   - INSLAW
   - VentureCapital
-alias:
-  - Allen Patricof and Associates
-  - Patricof & Co.
-  - APA
 summary: "New York venture capital firm, formally Allen Patricof and Associates, that managed the 53rd Street Ventures fund and through it made a 100,000-dollar investment in INSLAW about 1982; the firm where Patricia Cloherty worked before and after her government service."
 location: "New York City"
 created: 2026-09-22

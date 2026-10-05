@@ -1,12 +1,5 @@
 ---
-category: "Finance & Business"
-tags:
-  - Organization
-  - Finance
-  - VentureCapital
-  - Cryptocurrency
-  - ExemptReportingAdviser
-alias:
+aliases:
   - SALT Fund Management LLC
   - SALT Fund Management, LLC
   - SALT Fund Management
@@ -14,6 +7,13 @@ alias:
   - The SALT Fund
   - Kyber Capital
   - Kyber Capital Crypto
+category: "Finance & Business"
+tags:
+  - Organization
+  - Finance
+  - VentureCapital
+  - Cryptocurrency
+  - ExemptReportingAdviser
 location: "Palm Beach Gardens, Florida"
 summary: "Exempt reporting investment adviser (CRD 316587) managing six private funds with 132,930,715 dollars in assets, owned by Alexander Scaramucci and Alex Klokus; named in FTX bankruptcy filings as creditor-matrix contact and interested party."
 created: 2026-10-03

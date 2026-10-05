@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Leonard Anthony Leo
 category: "Activists & Advocates"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - SupremeCourt
   - JudicialCrisisNetwork
   - ConcordFund
-alias:
-  - Leonard Anthony Leo
 summary: "Leonard Leo is an American conservative legal activist, the longtime executive vice president of the Federalist Society, the principal architect of the Supreme Court conservative supermajority through the Gorsuch, Kavanaugh, and Barrett confirmations, and the chairman of Teneo Network, who has directed approximately one billion dollars in dark-money spending through a network of linked 501(c)(4) vehicles to reshape the American judiciary."
 location: "United States"
 created: 2026-06-18

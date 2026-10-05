@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Howard J. Osborn
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - FamilyJewels
   - Watergate
   - DomesticSurveillance
-alias:
-  - Howard J. Osborn
 summary: "CIA director of security from 1964 who compiled his office's share of the Family Jewels and was retired in 1974 after a memorandum on papers burned at James McCord's house was withheld from the FBI."
 location: "Langley, Virginia"
 created: 2026-09-21

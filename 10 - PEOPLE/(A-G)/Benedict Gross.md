@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Benedict Gross
+  - Benedict H. Gross
+  - Dick Gross
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - ProgramForEvolutionaryDynamics
   - MartinNowak
-alias:
-  - Benedict Gross
-  - Benedict H. Gross
-  - Dick Gross
 summary: "Harvard number theorist and dean of Harvard College who co-proposed the Program for Evolutionary Dynamics with Jeffrey Epstein and in 2013 asked Harvard to resume taking Epstein's money."
 born: 1950
 died: 2025-12

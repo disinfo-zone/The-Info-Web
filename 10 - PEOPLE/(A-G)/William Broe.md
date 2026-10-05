@@ -1,4 +1,6 @@
 ---
+aliases:
+  - William V. Broe
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - ProjectFUBELT
   - ITT
   - 40Committee
-alias:
-  - William V. Broe
 summary: "Chief of the CIA's Western Hemisphere Division who supervised the 1970 task force against Allende, put to ITT a plan to induce economic collapse in Chile, and ordered a stonewall after Schneider was shot."
 location: "Washington, D.C."
 created: 2026-09-21

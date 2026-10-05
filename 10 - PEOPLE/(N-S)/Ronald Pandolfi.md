@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Ronald Pandolfi
+  - Ron Pandolfi
+  - Dr. Ronald Pandolfi
+  - Ron Pandolphy
+  - Pelican
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,12 +14,6 @@ tags:
   - RockefellerInitiative
   - Hughes
   - 1990s
-alias:
-  - Ronald Pandolfi
-  - Ron Pandolfi
-  - Dr. Ronald Pandolfi
-  - Ron Pandolphy
-  - Pelican
 summary: "Scientist described as working for the CIA, who briefed the Senate Intelligence Committee in 1998 on Hughes and China, appears in a purported 1993 UFO briefing telecon, and was listed as Pelican by Richard Boylan."
 relations:
   - type: employed_by

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Peter Attia
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Medicine
   - SiliconValley
   - Epstein
-alias:
-  - Peter Attia
 summary: "Peter Attia is a Canadian-American physician and longevity author whose private practice and bestselling book Outlive promote a preventive 'Medicine 3.0,' who was named on the leaked 2026 roster of Peter Thiel's Dialog society, and whose name surfaced in the Jeffrey Epstein email files in 2026."
 born: 1973
 location: "Toronto, Canada (born); Austin, Texas"

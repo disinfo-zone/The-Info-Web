@@ -1,4 +1,11 @@
 ---
+aliases:
+  - J. Allen Hynek
+  - Josef Allen Hynek
+  - Joseph Allen Hynek
+  - Allen Hynek
+  - Dr. Hynek
+  - J. A. Hynek
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -9,13 +16,6 @@ tags:
   - RobertsonPanel
   - CUFOS
   - AirForceConsultant
-alias:
-  - J. Allen Hynek
-  - Josef Allen Hynek
-  - Joseph Allen Hynek
-  - Allen Hynek
-  - Dr. Hynek
-  - J. A. Hynek
 summary: "Astronomer who served as scientific consultant to the Air Force's UFO projects from 1948 to 1969, attended the Robertson Panel as an associate member, and in 1973 founded the Center for UFO Studies."
 born: 1910
 died: 1986

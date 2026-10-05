@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leverage
+  - Paradigm Academy
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Cult
   - PeterThiel
   - PsychologicalControl
-alias:
-  - Leverage
-  - Paradigm Academy
 summary: "Leverage Research is a Bay Area organization run from 2011 to 2019 by the philosopher Geoff Anders that recruited from the rationalist and effective-altruism milieu to pursue a 'one true theory of psychology' through intensive group experimentation, and that former members later described as a coercive, cult-like environment."
 location: "San Francisco Bay Area; New York"
 created: 2026-06-19

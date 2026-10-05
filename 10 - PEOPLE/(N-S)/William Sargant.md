@@ -1,4 +1,6 @@
 ---
+aliases:
+  - William Walters Sargant
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -10,7 +12,6 @@ tags:
   - UK
   - DeepSleepTherapy
   - MI5
-alias: William Walters Sargant
 summary: "British psychiatrist at St. Thomas' Hospital who built a theoretical framework linking religious conversion, political indoctrination, and interrogation compliance to identical physiological mechanisms, ran a decade-long coercive deep sleep ward at the Royal Waterloo Hospital in London that produced five documented deaths and widespread lasting harm, and served as an informal MI5 consultant while maintaining professional relationships with Ewen Cameron and other CIA-connected researchers."
 born: 1907-04-24
 died: 1988-08-27

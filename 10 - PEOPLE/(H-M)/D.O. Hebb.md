@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Donald Hebb
+  - Donald O. Hebb
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -8,7 +11,6 @@ tags:
   - CIA
   - ColdWar
   - Canada
-alias: Donald Hebb, Donald O. Hebb
 summary: "Canadian psychologist at McGill University who pioneered sensory deprivation research in the early 1950s with Canadian defense funding, publishing findings that attracted immediate CIA interest and laid the scientific foundation for coercive isolation techniques."
 born: 1904-07-22
 died: 1985-01-20

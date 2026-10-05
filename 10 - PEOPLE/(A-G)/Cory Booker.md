@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cory Anthony Booker
+  - Senator Cory Booker
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - SiliconValley
   - Waywire
   - Dialog
-alias:
-  - Cory Anthony Booker
-  - Senator Cory Booker
 summary: "Cory Booker is a U.S. Senator from New Jersey whose name appeared on the leaked 2026 roster of Peter Thiel's Dialog society and whose political rise was financed in part by Silicon Valley figures including Eric Schmidt, who backed his 2012 video startup Waywire."
 born: 1969-04-27
 location: "Washington, D.C. (born); Newark, New Jersey (political base)"

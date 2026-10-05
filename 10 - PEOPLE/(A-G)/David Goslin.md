@@ -1,12 +1,12 @@
 ---
+aliases:
+  - David A. Goslin
 category: "Scientists & Researchers"
 tags:
   - Person
   - DavidGoslin
   - AIR
   - NationalResearchCouncil
-alias:
-  - David A. Goslin
 summary: "Sociologist who ran the National Research Council's behavioral sciences commission for thirteen years and then the American Institutes for Research, where he coordinated the 1995 evaluation of Star Gate."
 born: 1936-10-27
 died: 2024-12-28

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Michael Harari
+  - Michael Harare
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - Contras
   - PROMIS
   - Israel
-alias:
-  - Michael Harari
-  - Michael Harare
 summary: "Mossad officer who led the 1973 Lillehammer team and became Manuel Noriega's associate in Panama, named in 1988 Senate testimony for arms dealing through false end-user certificates."
 born: 1927-02-18
 died: 2014-09-21

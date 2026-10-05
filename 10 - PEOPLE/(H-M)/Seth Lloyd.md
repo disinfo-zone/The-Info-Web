@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Professor Seth Lloyd
+  - seth lloyd
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - ScienceFunding
   - GoodwinProcter
   - EdgeFoundation
-alias:
-  - Professor Seth Lloyd
-  - seth lloyd
 summary: "MIT mechanical engineering professor and quantum computing theorist who took a personal gift and post-conviction donations from Jeffrey Epstein and was disciplined by MIT in 2020 for not disclosing Epstein's conviction."
 location: "Cambridge, Massachusetts"
 relations:

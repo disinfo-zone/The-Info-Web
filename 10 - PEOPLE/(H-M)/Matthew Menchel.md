@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Matthew Menchel
+  - Matthew I. Menchel
+  - Matt Menchel
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - DepartmentOfJustice
   - RevolvingDoor
   - KobreAndKim
-alias:
-  - Matthew Menchel
-  - Matthew I. Menchel
-  - Matt Menchel
 summary: "Criminal Division chief in the Miami U.S. Attorney's Office who conveyed the 2007 two-year state plea offer to Jeffrey Epstein's lawyers, left for Kobre & Kim weeks later, and later dined with Epstein."
 location: "Miami, Florida"
 relations:

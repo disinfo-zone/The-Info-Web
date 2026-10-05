@@ -1,4 +1,8 @@
 ---
+aliases:
+  - José Zara Holger
+  - Jose Zara Holger
+  - Jose Zara
 category: "Military"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - RonniMoffitt
   - OperationCondor
   - PuntaPeuco
-alias:
-  - José Zara Holger
-  - Jose Zara Holger
-  - Jose Zara
 summary: "DINA exterior department officer sentenced to fifteen years for the Prats murders, released from Punta Peuco on August 25, 2025, rearrested within two days for the killing of Ronni Moffitt, and convicted in June 2026."
 location: "Santiago, Chile"
 created: 2026-09-21

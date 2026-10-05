@@ -1,4 +1,7 @@
 ---
+aliases:
+  - John Templeton Foundation
+  - Templeton Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - JeffreyEpstein
   - EnhancedEducation
   - Harvard
-alias:
-  - John Templeton Foundation
-  - Templeton Foundation
 summary: "Foundation established in 1987 by Sir John Templeton that granted Harvard's Program for Evolutionary Dynamics 1.5 million dollars in 2015 after receiving a false Jeffrey Epstein matching-funds letter."
 start: 1987
 created: 2026-09-25

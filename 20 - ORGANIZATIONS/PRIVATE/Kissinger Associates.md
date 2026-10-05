@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Kissinger Associates, Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - BCCI
   - Consulting
   - RevolvingDoor
-alias:
-  - Kissinger Associates, Inc.
 summary: "New York consulting firm founded by Henry Kissinger in 1982 whose officers Brent Scowcroft and Lawrence Eagleburger advised Banca Nazionale del Lavoro before returning to government during the bank's unreported lending to Iraq."
 start: 1982
 location: "New York, New York"

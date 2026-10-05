@@ -1,4 +1,8 @@
 ---
+aliases:
+  - James Andres Himes
+  - James Himes
+  - Representative Jim Himes
 category: "Political Figure"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - HouseIntelligenceCommittee
   - GoldmanSachs
   - Dialog
-alias:
-  - James Andres Himes
-  - James Himes
-  - Representative Jim Himes
 summary: "Jim Himes is a U.S. Representative for Connecticut's 4th district and ranking member of the House Permanent Select Committee on Intelligence whose name appeared on the leaked 2026 registration roster of Peter Thiel's secretive Dialog society."
 born: 1966-07-05
 location: "Lima, Peru (born); Greenwich, Connecticut (political base)"

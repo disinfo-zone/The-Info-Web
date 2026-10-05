@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Lippo Bank
+  - LippoBank California
+  - Bank of Trade
+  - Bank of Trade of San Francisco
 category: "Private Organization"
 tags:
   - Organization
@@ -7,11 +12,6 @@ tags:
   - California
   - CampaignFinance
   - JohnHuang
-alias:
-  - Lippo Bank
-  - LippoBank California
-  - Bank of Trade
-  - Bank of Trade of San Francisco
 summary: "California bank chartered in 1961 as the Bank of Trade of San Francisco, renamed Lippo Bank in 1990, which pleaded guilty in 2001 to 86 misdemeanor counts of illegal foreign campaign contributions."
 start: 1961-11-15
 end: 2000-05-31

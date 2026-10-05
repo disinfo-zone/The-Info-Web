@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Martin Weinberg
+  - Martin G. Weinberg
+  - Martin G. Weinberg, P.C.
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - FreedomOfInformationAct
   - Boston
-alias:
-  - Martin Weinberg
-  - Martin G. Weinberg
-  - Martin G. Weinberg, P.C.
 summary: "Boston criminal defense lawyer who argued United States v. Chadwick, represented Jeffrey Epstein from 2007, filed his 2011 FBI and CIA records requests, and appeared at his 2019 New York hearings."
 location: "Boston, Massachusetts"
 relations:

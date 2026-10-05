@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Ken Starr
+  - Kenneth W. Starr
+  - Kenneth Winston Starr
+  - Kenneth Starr
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -10,11 +15,6 @@ tags:
   - JeffreyEpstein
   - NonProsecutionAgreement
   - BaylorUniversity
-alias:
-  - Ken Starr
-  - Kenneth W. Starr
-  - Kenneth Winston Starr
-  - Kenneth Starr
 summary: "Former Solicitor General and Whitewater independent counsel who, as Kirkland & Ellis of counsel, fought the victim notification terms of Epstein's 2007 agreement and was removed as Baylor president in 2016."
 born: 1946-07-21
 died: 2022-09-13

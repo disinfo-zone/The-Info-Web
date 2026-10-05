@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Credit Suisse
+  - Credit Suisse Group
+  - Credit Suisse Group AG
+  - Credit Suisse AG
+  - Credit Suisse (Schweiz) AG
+  - Credit Suisse Securities (USA) LLC
+  - Schweizerische Kreditanstalt
+  - SKA
+  - Swiss Credit Bank
+  - Crédit Suisse
+  - CSFB
 category: "Private Organization"
 tags:
   - Organization
@@ -13,18 +25,6 @@ tags:
   - Greensill
   - UBS
   - BankSecrecy
-alias:
-  - Credit Suisse
-  - Credit Suisse Group
-  - Credit Suisse Group AG
-  - Credit Suisse AG
-  - Credit Suisse (Schweiz) AG
-  - Credit Suisse Securities (USA) LLC
-  - Schweizerische Kreditanstalt
-  - SKA
-  - Swiss Credit Bank
-  - Crédit Suisse
-  - CSFB
 summary: "Zurich bank incorporated in 1856 that held Nazi-era and Iran-Contra accounts, pleaded guilty to US tax conspiracy in 2014, settled Mozambique kickback charges in 2021, and was taken over by UBS in 2023."
 start: 1856-07-05
 end: 2023-06-12

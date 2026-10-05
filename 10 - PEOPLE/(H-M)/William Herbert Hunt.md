@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Herbert Hunt
+  - W. Herbert Hunt
+  - W.H. Hunt
 category: "Business & Finance"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - SilverThursday
   - Wiretapping
   - Dallas
-alias:
-  - Herbert Hunt
-  - W. Herbert Hunt
-  - W.H. Hunt
 summary: "Son of H.L. Hunt who was indicted with his brother Bunker for wiretapping their father's aides, was found liable in the 1980 silver manipulation, and kept Petro-Hunt in a trust beyond his creditors' reach."
 born: 1929-03-06
 died: 2024-04-09

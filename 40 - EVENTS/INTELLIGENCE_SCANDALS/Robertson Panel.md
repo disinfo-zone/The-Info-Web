@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Robertson Panel
+  - Robertson Committee
+  - Robertson Report
+  - Durant Report
+  - Robertson Panel Report
+  - Scientific Advisory Panel on Unidentified Flying Objects
+  - Scientific Panel on Unidentified Flying Objects
 category: "Intelligence Scandal"
 tags:
   - Panel
@@ -9,14 +17,6 @@ tags:
   - ProjectBlueBook
   - Debunking
   - ColdWar
-alias:
-  - Robertson Panel
-  - Robertson Committee
-  - Robertson Report
-  - Durant Report
-  - Robertson Panel Report
-  - Scientific Advisory Panel on Unidentified Flying Objects
-  - Scientific Panel on Unidentified Flying Objects
 summary: "CIA-convened panel of five scientists (January 1953) that found no threat in unidentified flying objects and recommended a training and debunking program and the watching of civilian UFO groups."
 start: 1953-01-14
 end: 1953-01-17

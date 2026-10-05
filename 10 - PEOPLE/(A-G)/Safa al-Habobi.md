@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Safa Haji al-Habobi
+  - Safa Al-Habobi
+  - Dr. Safa al-Habobi
 category: "Business & Finance"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - BNLScandal
   - HusseinKamel
   - ArmsToIraq
-alias:
-  - Safa Haji al-Habobi
-  - Safa Al-Habobi
-  - Dr. Safa al-Habobi
 summary: "Iraqi official who ran the London front companies of Hussein Kamel's military industry ministry, chaired Matrix Churchill, was indicted in Atlanta in 1991 with Christopher Drogoul, and was named Iraq's oil minister in 1993."
 location: "Baghdad, Iraq"
 created: 2026-09-21

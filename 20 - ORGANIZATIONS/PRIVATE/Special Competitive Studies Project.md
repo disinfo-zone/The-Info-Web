@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Special Competitive Studies Project
+  - SCSP
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - ArtificialIntelligence
   - NationalSecurity
   - China
-alias:
-  - Special Competitive Studies Project
-  - SCSP
 summary: "The Special Competitive Studies Project is the nonprofit think tank Eric Schmidt founded in 2021 to continue his national-security commission's work on US competition with China in artificial intelligence and emerging technology."
 location: "Arlington, Virginia"
 created: 2026-06-20

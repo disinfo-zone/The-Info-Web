@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Wei Dai
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - DigitalCash
   - Bitcoin
   - Rationalism
-alias:
-  - Wei Dai
 summary: "Wei Dai is a computer engineer who proposed the b-money digital-cash scheme cited in the Bitcoin white paper, created the Crypto++ library, and posts in the rationalist community."
 born: 1976
 location: "United States"

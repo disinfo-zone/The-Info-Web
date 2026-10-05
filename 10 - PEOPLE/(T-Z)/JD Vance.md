@@ -1,4 +1,8 @@
 ---
+aliases:
+  - James David Vance
+  - J.D. Vance
+  - James Donald Bowman
 category: "Political Figure"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - Ohio
   - VicePresident
   - HillbillyElegy
-alias:
-  - James David Vance
-  - J.D. Vance
-  - James Donald Bowman
 summary: "JD Vance is an American politician, author, and venture capitalist who was elected U.S. Senator from Ohio in 2022 with approximately fifteen million dollars in super PAC funding from Peter Thiel, and was elected Vice President of the United States on the 2024 Republican ticket with Donald Trump."
 born: 1984-08-02
 location: "Middletown, Ohio (born); Ohio (political base)"

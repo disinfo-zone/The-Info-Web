@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Anna Ferkuniak
+  - Anna M. Horsch
+  - Myroslawa Anna Ferkuniak
 category: "Other"
 tags:
   - AbuseNetworks
@@ -7,10 +11,6 @@ tags:
   - NewZealand
   - IdentityFraud
   - Fugitive
-alias:
-  - Anna Ferkuniak
-  - Anna M. Horsch
-  - Myroslawa Anna Ferkuniak
 summary: "Welsh-born wife of the fugitive R.C. Horsch, whom she married in Reno in 1980 under his stolen name and accompanied to New Zealand, and mother of Eugene Horsch."
 born: 1949-10-07
 died: 1989-07-28

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - LessWrong
+  - The Rationalists
+  - Rationalist Movement
+  - Bay Area Rationalists
 category: "Ideology"
 tags:
   - Concept
@@ -8,11 +13,6 @@ tags:
   - Transhumanism
   - EffectiveAltruism
   - Subculture
-alias:
-  - LessWrong
-  - The Rationalists
-  - Rationalist Movement
-  - Bay Area Rationalists
 summary: "The Rationalist Community is the Bay Area subculture that formed around Eliezer Yudkowsky's LessWrong writings and the Machine Intelligence Research Institute in the late 2000s, organized around probability-based reasoning and artificial-intelligence existential risk, and from whose social network the Effective Altruism movement and the Leverage Research, Vassarite, and Zizian cult formations all emerged."
 location: "San Francisco Bay Area"
 created: 2026-06-19

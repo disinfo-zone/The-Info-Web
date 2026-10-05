@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "OPIC"
 category: "U.S. Government"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - ITT
   - Chile
   - BCCI
-alias:
-  - "OPIC"
 summary: "Federal corporation created by the Foreign Assistance Act of 1969 to insure and finance American private investment in less developed countries, which paid ITT for its expropriated Chilean telephone company."
 start: 1969-12-30
 location: "Washington, D.C."

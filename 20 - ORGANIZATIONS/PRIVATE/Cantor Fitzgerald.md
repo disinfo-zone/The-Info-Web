@@ -1,17 +1,5 @@
 ---
-category: "Organizations"
-tags:
-  - Organization
-  - CantorFitzgerald
-  - Brokerage
-  - PrimaryDealer
-  - HowardLutnick
-  - SeptemberEleventh
-  - Tether
-  - SPAC
-  - JeffreyEpstein
-  - Finance
-alias:
+aliases:
   - Cantor Fitzgerald
   - Cantor Fitzgerald, L.P.
   - Cantor Fitzgerald L.P.
@@ -24,6 +12,18 @@ alias:
   - Cantor
   - Cantor Ventures
   - Cantor Ventures, L.P.
+category: "Organizations"
+tags:
+  - Organization
+  - CantorFitzgerald
+  - Brokerage
+  - PrimaryDealer
+  - HowardLutnick
+  - SeptemberEleventh
+  - Tether
+  - SPAC
+  - JeffreyEpstein
+  - Finance
 summary: "New York brokerage and investment bank founded in 1945 that lost 658 employees on September 11, 2001, controls BGC Group, and has been led by Brandon Lutnick since February 2025."
 location: "New York, New York"
 relations:

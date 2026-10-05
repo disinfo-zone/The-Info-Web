@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Nick Lowles
+  - Nicholas Lowles
+  - Nicholas Lloyd Lowles
+  - Nick Lowles MBE
 category: "Activists & Advocates"
 tags:
   - Person
@@ -9,11 +14,6 @@ tags:
   - CombatEighteen
   - Author
   - Informants
-alias:
-  - Nick Lowles
-  - Nicholas Lowles
-  - Nicholas Lloyd Lowles
-  - Nick Lowles MBE
 summary: "British anti-fascist writer and campaigner, Searchlight editor to 2011, founder and chief executive of HOPE not hate, author of White Riot on Combat 18, and company director of its successor bodies from 2005."
 born: 1968-06
 location: "London, United Kingdom"

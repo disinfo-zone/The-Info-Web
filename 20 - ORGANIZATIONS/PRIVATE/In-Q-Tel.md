@@ -1,4 +1,8 @@
 ---
+aliases:
+  - IQT
+  - In-Q-It
+  - Peleus
 category: "Private Organization"
 tags:
   - Organization
@@ -10,10 +14,6 @@ tags:
   - GeorgeTenet
   - Keyhole
   - Palantir
-alias:
-  - IQT
-  - In-Q-It
-  - Peleus
 summary: "Nonprofit venture capital firm created by the CIA in 1999 to buy into technology startups with public money, which has made more than 800 investments, leaves many unannounced, and pays its founding sponsor George Tenet as a trustee."
 start: 1999-02-16
 location: "Arlington, Virginia"

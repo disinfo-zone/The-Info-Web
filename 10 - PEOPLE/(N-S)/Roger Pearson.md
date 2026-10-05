@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dr. Roger Pearson
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - MankindQuarterly
   - HeritageFoundation
   - NewRight
-alias:
-  - Dr. Roger Pearson
 summary: "British anthropologist who founded the Northern League, brought European fascist parties into the World Anti-Communist League as its chairman, published Mankind Quarterly on Pioneer Fund money, and received a letter of thanks from President Reagan."
 location: "Washington, D.C."
 created: 2026-09-21

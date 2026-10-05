@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ray Banoun
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - BCCI
   - RevolvingDoor
   - WhiteCollarDefense
-alias:
-  - Ray Banoun
 summary: "Former head of the fraud division of the U.S. Attorney's office in Washington who defended BCCI from 1988 and whom the Senate subcommittee found may have willfully misled it."
 location: "Washington, D.C."
 created: 2026-09-23

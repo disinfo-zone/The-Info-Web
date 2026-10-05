@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Tino Cuéllar
+  - Tino Cuellar
+  - Mariano-Florentino Cuellar
 category: "Law Enforcement & Legal"
 tags:
   - EffectiveAltruism
@@ -8,10 +12,6 @@ tags:
   - StanfordUniversity
   - PresidentsIntelligenceAdvisoryBoard
   - AIGovernance
-alias:
-  - Tino Cuéllar
-  - Tino Cuellar
-  - Mariano-Florentino Cuellar
 summary: "Former California Supreme Court justice and Carnegie Endowment president who sat on Anthropic's Long-Term Benefit Trust in 2026 before becoming Anthropic's first chief global affairs officer in August 2026."
 location: "Matamoros, Mexico (born)"
 relations:

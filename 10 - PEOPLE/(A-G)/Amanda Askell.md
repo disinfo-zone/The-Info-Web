@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Amanda Askell
+  - Amanda Hall
 category: "Technologists"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - EffectiveAltruism
   - Philosophy
   - AISafety
-alias:
-  - Amanda Askell
-  - Amanda Hall
 summary: "Amanda Askell is the philosopher who leads the team shaping the character of Anthropic's Claude and is the principal author of its Constitution, an NYU-trained ethicist from the effective-altruism movement who was formerly married to its cofounder William MacAskill."
 born: 1988
 location: "San Francisco, California"

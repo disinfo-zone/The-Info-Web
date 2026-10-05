@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alison J. Nathan
+  - Alison Julie Nathan
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - SecondCircuit
   - SouthernDistrictOfNewYork
-alias:
-  - Alison J. Nathan
-  - Alison Julie Nathan
 summary: "Federal judge, formerly an Obama White House lawyer, who presided over Ghislaine Maxwell's prosecution in Manhattan and sentenced her to 20 years three months after her own commission to the Second Circuit."
 born: 1972
 location: "New York, New York"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Charles Edmund Horman
+  - Charles Horman Lazar
 category: "Victims & Witnesses"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - StateDepartment
   - CIA
   - Missing
-alias:
-  - Charles Edmund Horman
-  - Charles Horman Lazar
 summary: "American writer seized at his Santiago home by the Chilean army on September 17, 1973, and shot the next day, whose death the American embassy attributed to leftists while the State Department's inquiries concluded otherwise."
 died: 1973-09-18
 location: "Santiago, Chile"

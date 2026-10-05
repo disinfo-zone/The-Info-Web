@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ralph Blumenthal
+  - Blumenthal, Ralph
 category: "Authors & Journalists"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - Author
   - UFO
   - NewYorkTimes
-alias:
-  - Ralph Blumenthal
-  - Blumenthal, Ralph
 summary: "Ralph Blumenthal, a New York Times reporter from 1964 to 2009 and later a Baruch College lecturer, co-wrote the December 2017 AATIP report and wrote The Believer, a 2021 biography of John Mack."
 location: "New York City"
 relations:

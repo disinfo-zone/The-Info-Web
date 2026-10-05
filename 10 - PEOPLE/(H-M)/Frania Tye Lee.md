@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Frania Tye
+  - Frania Tye Hunt
+  - Mrs. John W. Lee
 category: "Other"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - HLHunt
   - Bigamy
   - EstateLitigation
-alias:
-  - Frania Tye
-  - Frania Tye Hunt
-  - Mrs. John W. Lee
 summary: "Bigamous second wife of H.L. Hunt, who signed a release in 1942, sued his estate in 1975, and settled for 7.5 million after the only record of the marriage was cut from a Florida ledger."
 died: 2002
 created: 2026-09-21

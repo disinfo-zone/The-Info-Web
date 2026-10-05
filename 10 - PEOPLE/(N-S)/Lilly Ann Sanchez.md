@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Lilly Sanchez
+  - Lilly Ann Sanchez
+  - Lily Sanchez
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - NonProsecutionAgreement
   - SouthernDistrictOfFlorida
-alias:
-  - Lilly Sanchez
-  - Lilly Ann Sanchez
-  - Lily Sanchez
 summary: "Former Miami federal prosecutor who represented Jeffrey Epstein from 2006, co-signed his 2007 non-prosecution agreement, and had briefly dated the Criminal Division chief who made the office's first plea overture to her."
 location: "Miami, Florida"
 relations:

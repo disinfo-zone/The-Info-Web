@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lippo
 category: "Private Organization"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - StephensInc
   - CampaignFinance
   - BCCI
-alias:
-  - Lippo
 summary: "Indonesian banking and property conglomerate of the Riady family, partner of the Arkansas Stephens family from 1978 and employer of John Huang, whose California bank pleaded guilty to campaign finance counts in 2001."
 location: "Jakarta, Indonesia"
 created: 2026-09-21

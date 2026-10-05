@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Keith Rabois
+  - Keith Rabois (venture capitalist)
+  - Rabois
 category: "Technologists"
 tags:
   - Person
@@ -14,10 +18,6 @@ tags:
   - PoliticalDonor
   - EthicsAgreement
   - SiliconValley
-alias:
-  - Keith Rabois
-  - Keith Rabois (venture capitalist)
-  - Rabois
 summary: "American lawyer and venture capitalist, former PayPal and Square executive, Khosla Ventures and Founders Fund partner, Opendoor co-founder and chairman, Republican donor, and husband of Under Secretary of State Jacob Helberg."
 location: "Miami Beach, Florida"
 relations:

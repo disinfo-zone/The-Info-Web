@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Charles H. Keating Jr.
+  - Charles Humphrey Keating Jr.
+  - Charles Keating Jr.
 category: "Business & Finance"
 tags:
   - Person
@@ -6,10 +10,6 @@ tags:
   - KeatingFive
   - BCCI
   - Fraud
-alias:
-  - Charles H. Keating Jr.
-  - Charles Humphrey Keating Jr.
-  - Charles Keating Jr.
 summary: "Phoenix developer whose American Continental Corporation bought Lincoln Savings and Loan in 1984; its failure cost taxpayers billions, and the Senate BCCI inquiry flagged unresolved ties between BCCI figures and his companies."
 born: 1923-12-04
 died: 2014-03-31

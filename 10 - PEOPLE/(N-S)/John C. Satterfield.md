@@ -1,4 +1,7 @@
 ---
+aliases:
+  - John Creighton Satterfield
+  - John Satterfield
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - MississippiStateSovereigntyCommission
   - WickliffeDraper
   - CivilRightsAct
-alias:
-  - John Creighton Satterfield
-  - John Satterfield
 summary: "Yazoo City lawyer and president of the American Bar Association in 1961 who ran the Washington lobby against the Civil Rights Act on anonymous money from Wickliffe Draper passed through the Mississippi treasury."
 born: 1904-07-25
 died: 1981-05-05

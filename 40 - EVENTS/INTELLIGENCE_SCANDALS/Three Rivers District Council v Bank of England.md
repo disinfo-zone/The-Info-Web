@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Three Rivers
+  - Three Rivers v Bank of England
 category: "BCCI Scandal"
 tags:
   - Event
@@ -8,9 +11,6 @@ tags:
   - Misfeasance
   - 1990s
   - 2000s
-alias:
-  - Three Rivers
-  - Three Rivers v Bank of England
 summary: "Twelve-year English lawsuit by BCCI's liquidators and depositors accusing the Bank of England of misfeasance in public office over its supervision of BCCI, abandoned on the 256th day of trial in November 2005."
 start: 1993
 end: 2006-04-12

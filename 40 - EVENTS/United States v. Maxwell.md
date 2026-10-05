@@ -1,4 +1,10 @@
 ---
+aliases:
+  - US v. Maxwell
+  - U.S. v. Maxwell
+  - United States v. Ghislaine Maxwell
+  - United States v. Maxwell (2020)
+  - Maxwell v. United States
 category: "Law Enforcement & Legal"
 tags:
   - Event
@@ -9,12 +15,6 @@ tags:
   - SexTrafficking
   - SouthernDistrictOfNewYork
   - EpsteinFilesTransparencyAct
-alias:
-  - US v. Maxwell
-  - U.S. v. Maxwell
-  - United States v. Ghislaine Maxwell
-  - United States v. Maxwell (2020)
-  - Maxwell v. United States
 summary: "Federal sex-trafficking prosecution of Ghislaine Maxwell in the Southern District of New York, ending in a 2021 conviction and 20-year sentence, whose grand jury record was unsealed under the Epstein Files Transparency Act."
 start: 2020-06-29
 location: "New York, New York"

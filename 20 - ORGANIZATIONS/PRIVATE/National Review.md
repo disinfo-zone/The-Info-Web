@@ -1,4 +1,11 @@
 ---
+aliases:
+  - National Review
+  - NR
+  - National Review Inc.
+  - National Review Inc
+  - National Review Online
+  - National Review magazine
 category: "Private Organization"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - CIA
   - EHowardHunt
   - NationalReviewInstitute
-alias:
-  - National Review
-  - NR
-  - National Review Inc.
-  - National Review Inc
-  - National Review Online
-  - National Review magazine
 summary: "Conservative weekly founded November 19, 1955 by William F. Buckley Jr., with former CIA and Office of Policy Coordination personnel among its early editors, owned since August 1, 2015 by the National Review Institute."
 start: 1955-11-19
 location: "New York, New York"

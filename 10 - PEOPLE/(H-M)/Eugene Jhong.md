@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Eugene Y. Jhong
+  - Jhong, Eugene
 category: "Business & Finance"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - Philanthropy
   - Harvard
   - Cryptocurrency
-alias:
-  - Eugene Y. Jhong
-  - Jhong, Eugene
 summary: "Eugene Jhong holds Harvard A.B. and J.D. degrees and a Stanford master's in computer science, and is listed on the Galileo Project's Philanthropic Advisory Board."
 location: "Los Altos, California"
 relations:

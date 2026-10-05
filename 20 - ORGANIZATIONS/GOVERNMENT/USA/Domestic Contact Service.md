@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Domestic Contacts Division
+  - Domestic Collection Division
+  - DCS
 category: "U.S. Government"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - ClayShaw
   - DomesticCollection
   - ChurchCommittee
-alias:
-  - Domestic Contacts Division
-  - Domestic Collection Division
-  - DCS
 summary: "Overt CIA office that interviewed American businessmen, academics, and travellers for foreign intelligence from 1946, moved in 1973 into the clandestine directorate, where its contacts served to open doors for recruitment operations."
 start: 1946
 location: "Washington, D.C."

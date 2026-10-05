@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Bridgewater Associates
+  - Bridgewater Associates, LP
+  - Bridgewater Associates LP
+  - Bridgewater Associates, L.P.
+  - Bridgewater Associates Holdings
+  - Bridgewater Associates Holdings, LLC
+  - Bridgewater
+  - Bridgewater Associates Inc
+  - Bridgewater (China) Investment Management
+  - Bridgewater China Investment Management
 category: "Private Organization"
 tags:
   - Organization
@@ -12,17 +23,6 @@ tags:
   - StateSubsidies
   - EffectiveAltruism
   - DalioFoundation
-alias:
-  - Bridgewater Associates
-  - Bridgewater Associates, LP
-  - Bridgewater Associates LP
-  - Bridgewater Associates, L.P.
-  - Bridgewater Associates Holdings
-  - Bridgewater Associates Holdings, LLC
-  - Bridgewater
-  - Bridgewater Associates Inc
-  - Bridgewater (China) Investment Management
-  - Bridgewater China Investment Management
 summary: "Westport, Connecticut hedge fund founded in 1975, registered with the SEC since 1990, whose record includes James Comey as general counsel, Connecticut subsidies, a Chinese fund license, and a Brunei sovereign fund shareholder."
 start: 1975
 location: "Westport, Connecticut"

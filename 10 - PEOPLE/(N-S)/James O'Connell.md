@@ -1,4 +1,7 @@
 ---
+aliases:
+  - James P. O'Connell
+  - Jim Olds
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JohnnyRoselli
   - AssassinationPlots
   - FBI
-alias:
-  - James P. O'Connell
-  - Jim Olds
 summary: "FBI agent turned CIA security officer who as Johnny Roselli's case officer from September 1960 carried the Castro poison plot, rose to deputy director of security, and in 1968 vetted James Earl Ray's lawyer."
 born: 1917-02-19
 died: 1992-02-15

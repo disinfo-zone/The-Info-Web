@@ -1,4 +1,16 @@
 ---
+aliases:
+  - September 11 attacks
+  - September 11
+  - September 11, 2001
+  - September 11th attacks
+  - 9/11
+  - 9/11 attacks
+  - 9/11 terrorist attacks
+  - Sept. 11 attacks
+  - 11 September 2001
+  - September 11th
+  - 9/11 terrorist attack
 category: "Modern Incident"
 tags:
   - Event
@@ -13,18 +25,6 @@ tags:
   - JASTA
   - FBI
   - CIA
-alias:
-  - September 11 attacks
-  - September 11
-  - September 11, 2001
-  - September 11th attacks
-  - 9/11
-  - 9/11 attacks
-  - 9/11 terrorist attacks
-  - Sept. 11 attacks
-  - 11 September 2001
-  - September 11th
-  - 9/11 terrorist attack
 summary: "Four al-Qaeda hijackings on September 11, 2001 killed 2,973 people; the record includes unshared CIA travel data on two hijackers, Saudi-linked contacts in California, and litigation against Saudi Arabia that reached a 2025 ruling."
 start: 2001-09-11
 location: "New York, New York; Arlington, Virginia; Shanksville, Pennsylvania"

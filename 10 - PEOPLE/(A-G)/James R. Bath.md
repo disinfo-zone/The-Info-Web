@@ -1,4 +1,9 @@
 ---
+aliases:
+  - James R. Bath
+  - James Bath
+  - Jim Bath
+  - Jim R. Bath
 category: "Business & Finance"
 tags:
   - Person
@@ -12,11 +17,6 @@ tags:
   - Aviation
   - Mahfouz
   - BinLaden
-alias:
-  - James R. Bath
-  - James Bath
-  - Jim Bath
-  - Jim R. Bath
 summary: "Houston aircraft broker and Texas Air National Guard pilot who acted as trustee for Salem bin Laden and Khalid bin Mahfouz, sat on Main Bank's board and invested in George W. Bush's Arbusto partnerships."
 born: 1936
 location: "Houston, Texas"

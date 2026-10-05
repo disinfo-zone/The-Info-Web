@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Enigma Labs
+  - Enigma Labs LLC
+  - Enigma Labs, Inc.
+  - Enigma
+  - enigmalabs.io
 category: "Private Organization"
 tags:
   - Organization
@@ -7,12 +13,6 @@ tags:
   - VentureCapital
   - SightingsDatabase
   - AARO
-alias:
-  - Enigma Labs
-  - Enigma Labs LLC
-  - Enigma Labs, Inc.
-  - Enigma
-  - enigmalabs.io
 summary: "Venture-funded UAP sightings app company whose founder Alex Smith was named by Fortune in July 2022 and whose correspondence with Pentagon officials from May to October 2022 was released under FOIA case 23-F-0711."
 location: "New York, New York"
 relations:

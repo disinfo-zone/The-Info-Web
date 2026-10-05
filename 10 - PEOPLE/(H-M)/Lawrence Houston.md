@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lawrence R. Houston
+  - Larry Houston
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - AssassinationPlots
   - RobertKennedy
   - GarrisonInvestigation
-alias:
-  - Lawrence R. Houston
-  - Larry Houston
 summary: "General counsel of the CIA from 1947 to 1973, who briefed Robert Kennedy on the Mafia plots in 1962 and in whose tenure the Justice Department let the agency decide which crimes to report."
 born: 1913
 died: 1995-08-15

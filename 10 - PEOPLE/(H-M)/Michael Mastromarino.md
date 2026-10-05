@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dr. Michael Mastromarino
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - Brooklyn
   - Philadelphia
   - RCHorsch
-alias:
-  - Dr. Michael Mastromarino
 summary: "Former New Jersey oral surgeon whose company, Biomedical Tissue Services, took bone and tissue from more than a thousand corpses without consent and sold it to tissue processors."
 died: 2013-07-07
 location: "Fort Lee, New Jersey"

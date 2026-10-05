@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Shreveport
 category: "City"
 tags:
   - Place
@@ -8,8 +10,6 @@ tags:
   - HLHunt
   - SouthernResearchCompany
   - PrivateInvestigators
-alias:
-  - Shreveport
 summary: "Louisiana city where H.L. Hunt kept his second household and met his third wife, where Frania Tye Lee's suit was tried in 1978, and where the Southern Research detective firm was chartered in 1958."
 location: "Louisiana, United States"
 created: 2026-09-21

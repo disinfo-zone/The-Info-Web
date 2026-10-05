@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Roberto Viaux Marambio
 category: "Military"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - ReneSchneider
   - CIA
   - CoupPlotting
-alias:
-  - Roberto Viaux Marambio
 summary: "Retired Chilean general whom the CIA paid and encouraged in October 1970 through officers posing as third country nationals, and whose men shot General René Schneider."
 location: "Santiago, Chile"
 created: 2026-09-21

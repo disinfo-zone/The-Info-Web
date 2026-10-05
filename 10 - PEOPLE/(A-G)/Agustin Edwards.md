@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Agustin Edwards Eastman
+  - Agustín Edwards
 category: "Authors & Journalists"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - PepsiCo
   - CovertAction
   - Propaganda
-alias:
-  - Agustin Edwards Eastman
-  - Agustín Edwards
 summary: "Owner of the Santiago daily El Mercurio who met Richard Helms in Washington before Nixon ordered a coup in Chile, and whose paper received 1.665 million dollars in CIA subsidies."
 died: 2017-04-24
 location: "Santiago, Chile"

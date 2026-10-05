@@ -1,5 +1,5 @@
 ---
-alias:
+aliases:
   - "First American Bankshares"
   - "First American Bankshares, Inc."
 tags: ["Organization", "Bank", "BCCI"]

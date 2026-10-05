@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Christine Cook Nettesheim
+  - Christine Miller
+  - Judge Christine Miller
+  - Judge Nettesheim
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -7,11 +12,6 @@ tags:
   - INSLAW
   - CourtOfFederalClaims
   - Judiciary
-alias:
-  - Christine Cook Nettesheim
-  - Christine Miller
-  - Judge Christine Miller
-  - Judge Nettesheim
 summary: "Judge of the Court of Federal Claims who, as hearing officer on the Senate's 1995 referral, ruled on July 31, 1997, that every version of PROMIS was in the public domain."
 born: 1944
 location: "Oakland, California"

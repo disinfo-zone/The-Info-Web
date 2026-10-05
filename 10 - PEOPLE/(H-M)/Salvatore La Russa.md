@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Sam the Barber
+  - Salvatore LaRussa
+  - Sam La Russa
 category: "Organized Crime"
 tags:
   - AbuseNetworks
@@ -7,10 +11,6 @@ tags:
   - Philadelphia
   - ScarfoFamily
   - RCHorsch
-alias:
-  - Sam the Barber
-  - Salvatore LaRussa
-  - Sam La Russa
 summary: "Sicilian-born Philadelphia barber, bar owner and restaurateur, a friend of mob boss Nicodemo Scarfo, whom R.C. Horsch named as the main backer of his 1973 pornographic feature."
 born: 1938
 died: 1996-08-18

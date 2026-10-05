@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Alfredo Rodriguez
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - Obstruction
   - PalmBeach
   - FBI
-alias:
-  - Alfredo Rodriguez
 summary: "Former house manager at Jeffrey Epstein's Palm Beach residence who withheld a copy of Epstein's contact book, offered it to an undercover FBI agent in 2009, and served eighteen months for obstruction."
 location: "Palm Beach County, Florida"
 relations:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - 53rd Street Ventures, Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -6,8 +8,6 @@ tags:
   - PROMIS
   - INSLAW
   - VentureCapital
-alias:
-  - 53rd Street Ventures, Inc.
 summary: "New York venture fund, managed first by Patricof and Company and from 1984 by Tessler and Cloherty, that put 100,000 dollars into INSLAW in 1982 and whose managers Bill Hamilton accused of pressing him to surrender voting control in December 1984."
 start: 1976
 location: "New York City"

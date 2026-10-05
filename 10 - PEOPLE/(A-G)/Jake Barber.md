@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Jake Barber
+  - Jacob Barber
+  - Jacob "Jake" Barber
+  - Jake Barber (whistleblower)
 category: "UFO & Anomalous Phenomena"
 tags:
   - UFO
@@ -8,11 +13,6 @@ tags:
   - AirForce
   - Contractor
   - Psionics
-alias:
-  - Jake Barber
-  - Jacob Barber
-  - Jacob "Jake" Barber
-  - Jake Barber (whistleblower)
 summary: "Former Air Force airman and self-described contractor helicopter pilot who told NewsNation in January 2025 that he recovered non-human craft for a covert program, and who founded the Skywatcher group."
 relations:
   - type: employed_by

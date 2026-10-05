@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Douglas Leese
 category: "Business & Finance"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - BritishAerospace
   - JeffreyEpstein
   - StevenHoffenberg
-alias:
-  - Douglas Leese
 summary: "Douglas Leese was a British defense contractor named in Parliament in 1996 as a channel for Al-Yamamah commissions, and whom Steven Hoffenberg credited with introducing him to Jeffrey Epstein."
 location: "London, United Kingdom; Bermuda"
 relations:

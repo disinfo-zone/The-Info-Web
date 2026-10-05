@@ -1,4 +1,7 @@
 ---
+aliases:
+  - PROMIS in Canada
+  - RCMP PROMIS investigation
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -8,9 +11,6 @@ tags:
   - CSIS
   - Canada
   - INSLAW
-alias:
-  - PROMIS in Canada
-  - RCMP PROMIS investigation
 summary: "RCMP national security inquiry of 1999 and 2000, run by Sean McDade, into whether a trap-doored PROMIS ran in Canadian agencies; the RCMP said in 2024 that no records exist."
 start: 1990-11
 end: 2000-09

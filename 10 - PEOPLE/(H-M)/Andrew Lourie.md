@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Andrew Lourie
+  - Andrew C. Lourie
+  - Andy Lourie
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - DepartmentOfJustice
   - PublicIntegritySection
   - RevolvingDoor
-alias:
-  - Andrew Lourie
-  - Andrew C. Lourie
-  - Andy Lourie
 summary: "Federal prosecutor who managed the West Palm Beach office during the Epstein investigation, twice acted as chief of the Public Integrity Section, and left for Criminal Division leadership while the non-prosecution agreement was negotiated."
 location: "West Palm Beach, Florida"
 relations:

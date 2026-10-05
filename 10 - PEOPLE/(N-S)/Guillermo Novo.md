@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Guillermo Novo Sampol
+  - Bill Novo
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - OrlandoLetelier
   - DINA
   - Terrorism
-alias:
-  - Guillermo Novo Sampol
-  - Bill Novo
 summary: "Head of the northern zone of the Cuban Nationalist Movement who fired a bazooka at the United Nations in 1964, visited Pinochet's Chile in 1974, and supplied Michael Townley with explosives for the Letelier bomb."
 location: "Union City, New Jersey"
 created: 2026-09-21

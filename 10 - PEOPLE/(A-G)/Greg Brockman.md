@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Greg Brockman
+  - Gregory Brockman
 category: "Technologists"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - SuperPAC
   - MAGAInc
   - LeadingTheFuture
-alias:
-  - Greg Brockman
-  - Gregory Brockman
 summary: "OpenAI cofounder and first chief technology officer who quit when removed as board chairman in November 2023, returned as president, and with Anna Brockman gave 50 million dollars to two political committees in 2025."
 location: "San Francisco, California"
 relations:

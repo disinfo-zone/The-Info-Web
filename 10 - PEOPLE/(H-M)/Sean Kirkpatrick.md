@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Sean Kirkpatrick
+  - Sean M. Kirkpatrick
+  - Dr. Sean M. Kirkpatrick
+  - Dr. Sean Kirkpatrick
+  - Sean Michael Kirkpatrick
 category: "Intelligence & Government"
 tags:
   - UFO
@@ -9,12 +15,6 @@ tags:
   - NRO
   - Physicist
   - IntelligenceOfficer
-alias:
-  - Sean Kirkpatrick
-  - Sean M. Kirkpatrick
-  - Dr. Sean M. Kirkpatrick
-  - Dr. Sean Kirkpatrick
-  - Sean Michael Kirkpatrick
 summary: "Physicist and intelligence officer, first director of the Pentagon's All-domain Anomaly Resolution Office from July 2022 to December 2023, who later said the Pentagon and AARO convinced Congress not to enact a review board."
 location: "Columbus, Georgia (born)"
 relations:

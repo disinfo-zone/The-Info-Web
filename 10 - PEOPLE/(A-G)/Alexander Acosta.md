@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Alex Acosta
+  - Rene Alexander Acosta
+  - R. Alexander Acosta
+  - Alexander Acosta
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - CrimeVictimsRightsAct
   - DepartmentOfJustice
   - SecretaryOfLabor
-alias:
-  - Alex Acosta
-  - Rene Alexander Acosta
-  - R. Alexander Acosta
-  - Alexander Acosta
 summary: "Alexander Acosta is the former U.S. Attorney for the Southern District of Florida who approved Jeffrey Epstein's 2007 non-prosecution agreement and resigned as Secretary of Labor in July 2019."
 born: 1969-01-16
 location: "Miami, Florida (born)"

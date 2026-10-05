@@ -1,4 +1,8 @@
 ---
+aliases:
+  - "FISA"
+  - "Foreign Intelligence Surveillance Act of 1978"
+  - "Public Law 95-511"
 category: "Intelligence Concept"
 tags:
   - Concept
@@ -10,10 +14,6 @@ tags:
   - FourthAmendment
   - PresidentsSurveillanceProgram
   - CarterAdministration
-alias:
-  - "FISA"
-  - "Foreign Intelligence Surveillance Act of 1978"
-  - "Public Law 95-511"
 summary: "Statute of October 25, 1978, requiring court orders from a specially designated panel of federal judges for electronic surveillance inside the United States to obtain foreign intelligence information."
 start: 1978-10-25
 location: "Washington, D.C."

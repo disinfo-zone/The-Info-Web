@@ -1,4 +1,10 @@
 ---
+aliases:
+  - VIDOJ
+  - V.I. Department of Justice
+  - U.S. Virgin Islands Department of Justice
+  - Virgin Islands Attorney General
+  - Attorney General of the Virgin Islands
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - SexOffenderRegistration
   - GhislaineMaxwell
   - GovernmentCapture
-alias:
-  - VIDOJ
-  - V.I. Department of Justice
-  - U.S. Virgin Islands Department of Justice
-  - Virgin Islands Attorney General
-  - Attorney General of the Virgin Islands
 summary: "Law department of the U.S. Virgin Islands, headed by a governor-appointed attorney general, which kept Jeffrey Epstein's sex-offender registration, waived his travel notice, then sued his estate and subpoenaed Ghislaine Maxwell."
 location: "34-38 Kronprindsens Gade, St. Thomas, U.S. Virgin Islands"
 relations:

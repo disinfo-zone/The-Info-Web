@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Andrew Farkas
 category: "Business & Finance"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - VirginIslands
   - RealEstate
   - JPMorgan
-alias:
-  - Andrew Farkas
 summary: "New York real estate investor who founded Island Global Yachting and brought Jeffrey Epstein into a St. Thomas marina deal months after his 2006 Florida charge."
 location: "New York, New York"
 created: 2026-09-25

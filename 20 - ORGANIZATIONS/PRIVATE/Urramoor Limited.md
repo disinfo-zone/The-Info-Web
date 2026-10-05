@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Urramoor Limited
+  - Urramoor Ltd
+  - Urramoor
+  - UML
+  - Cantor Urramoor Asset Management
 category: "Private Organization"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - JeffreyEpstein
   - EpsteinFiles
   - EnglishCompany
-alias:
-  - Urramoor Limited
-  - Urramoor Ltd
-  - Urramoor
-  - UML
-  - Cantor Urramoor Asset Management
 summary: "English private limited company no. 08424933, incorporated February 28, 2013 and dissolved April 1, 2025, named in a 2013 Cantor Fitzgerald term sheet and listing \"Hrh Andrew Inverness\" among its persons with significant control."
 location: "London, United Kingdom"
 relations:

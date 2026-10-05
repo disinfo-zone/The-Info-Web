@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Johan Vincent Galtung
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,7 +9,6 @@ tags:
   - ProjectCamelot
   - ColdWar
   - PeaceResearch
-alias: Johan Vincent Galtung
 summary: "Norwegian sociologist working at FLACSO in Santiago in 1965 who received and rejected a Project Camelot recruitment letter from SORO, shared the letter with Chilean academic colleagues, and thereby initiated the chain of exposure that led to the project's cancellation, the Chilean diplomatic protest, and congressional investigations into Army-sponsored foreign social science."
 born: 1930-10-24
 location: Oslo, Norway

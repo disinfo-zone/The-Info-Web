@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Pamela Bondi
+  - Pamela Jo Bondi
+  - Pamela J. Bondi
+  - Attorney General Pam Bondi
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -11,11 +16,6 @@ tags:
   - Qatar
   - FARA
   - TrumpFoundation
-alias:
-  - Pamela Bondi
-  - Pamela Jo Bondi
-  - Pamela J. Bondi
-  - Attorney General Pam Bondi
 summary: "Florida attorney general from 2011 to 2019, registered agent of Qatar at Ballard Partners, and U.S. Attorney General from February 2025 until her removal in April 2026 during the Epstein files dispute."
 born: 1965
 location: "Tampa, Florida"

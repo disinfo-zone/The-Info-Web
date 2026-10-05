@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Eastern District of Pennsylvania
+  - E.D. Pa.
+  - EDPA
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - Pennsylvania
   - RCHorsch
   - OlneyHouseInvestigation
-alias:
-  - Eastern District of Pennsylvania
-  - E.D. Pa.
-  - EDPA
 summary: "Federal trial court for southeastern Pennsylvania, sitting in Philadelphia, created when Congress divided the District of Pennsylvania in 1818, which heard four federal cases against R.C. Horsch and his son Eugene."
 start: 1818-04-20
 location: "Philadelphia, Pennsylvania"

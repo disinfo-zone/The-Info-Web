@@ -1,13 +1,13 @@
 ---
-category: "UFO & Anomalous Phenomena"
-tags:
-  - Person
-  - UFO
-alias:
+aliases:
   - David Grusch
   - David C. Grusch
   - David Charles Grusch
   - Dave Grusch
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Person
+  - UFO
 summary: "In 2023, Grusch went public with his allegations, testifying under oath before the House Oversight Committee's National Security Subcommittee."
 born: 1987
 location: "Pittsburgh, Pennsylvania"

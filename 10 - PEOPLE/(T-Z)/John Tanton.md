@@ -1,4 +1,6 @@
 ---
+aliases:
+  - John Hamilton Tanton
 category: "Activists & Advocates"
 tags:
   - NewRight
@@ -8,8 +10,6 @@ tags:
   - Eugenics
   - PioneerFund
   - WhiteNationalism
-alias:
-  - John Hamilton Tanton
 summary: "John Tanton was a Michigan ophthalmologist who built the modern US anti-immigration movement, founding FAIR, the Center for Immigration Studies, NumbersUSA, and the Social Contract Press, and whose WITAN memos, Pioneer Fund funding, and white-nationalist ties were documented by the New York Times and the SPLC."
 born: 1934-02-23
 died: 2019-07-16

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Ruth Ray
+  - Ruth Eileen Ray
+  - Ruth Wright
+  - Mrs. Ruth E. Wright
 category: "Other"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - RayHunt
   - HuntOil
   - FirstBaptistDallas
-alias:
-  - Ruth Ray
-  - Ruth Eileen Ray
-  - Ruth Wright
-  - Mrs. Ruth E. Wright
 summary: "Hunt Oil secretary from Idabel, Oklahoma, who bore H.L. Hunt four children from 1943 under the name Wright in a house near his family home, and married him in 1957 after his first wife's death."
 location: "Dallas, Texas"
 created: 2026-09-21

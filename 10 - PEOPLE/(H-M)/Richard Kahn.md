@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Richard D. Kahn
+  - Rich Kahn
 category: "Business & Finance"
 tags:
   - AbuseNetworks
@@ -9,9 +12,6 @@ tags:
   - Accountant
   - ShellCompany
   - VirginIslands
-alias:
-  - Richard D. Kahn
-  - Rich Kahn
 summary: "Jeffrey Epstein's longtime accountant, treasurer of Southern Trust and co-executor of his estate, named a 25 million dollar beneficiary, sued by victims and the Virgin Islands, and under federal investigation in 2026."
 location: "New York, New York"
 relations:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Robert G. Jahn
+  - Dean Jahn
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - Princeton
   - Parapsychology
   - PEAR
-alias:
-  - Robert G. Jahn
-  - Dean Jahn
 summary: "Princeton dean of engineering and plasma-propulsion physicist who founded the Princeton Engineering Anomalies Research laboratory in 1979 on private money and ran it until 2007."
 born: 1930-04-01
 died: 2017-11-15

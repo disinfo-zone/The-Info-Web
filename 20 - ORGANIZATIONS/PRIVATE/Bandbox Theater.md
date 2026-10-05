@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Band Box Theater
+  - Bandbox Theatre
 category: "Media & Entertainment"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - Philadelphia
   - Germantown
   - RCHorsch
-alias:
-  - Band Box Theater
-  - Bandbox Theatre
 summary: "Art-house cinema at 20-22 East Armat Street in Germantown, owned by Art Carduner from 1966 to 1975, which screened R.C. Horsch's condemned film Black Mass in 1975."
 location: "Germantown, Philadelphia, Pennsylvania"
 created: 2026-09-23

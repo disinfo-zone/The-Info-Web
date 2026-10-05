@@ -1,11 +1,11 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - Military Intelligence Directorate
   - Military Intelligence Directorate (Israel)
   - Agaf HaModi'in
   - AMAN
   - Israeli Military Intelligence Directorate
+category: "Intelligence & Government"
 tags:
   - Organization
   - Israel

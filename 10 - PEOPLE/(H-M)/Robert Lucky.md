@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Robert Lucky
+  - Robert W. Lucky
+  - R. W. Lucky
+  - Bob Lucky
+  - Dr. Lucky
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -11,12 +17,6 @@ tags:
   - GrillFlame
   - PSI
   - 1970s
-alias:
-  - Robert Lucky
-  - Robert W. Lucky
-  - R. W. Lucky
-  - Bob Lucky
-  - Dr. Lucky
 summary: "Bell Labs engineer who edited the Proceedings of the IEEE when it published Puthoff and Targ's 1976 remote viewing paper, wrote its editorial, ran six Bell trials in 1975, and called the results ambiguous."
 born: 1936-01-09
 died: 2022-03-10

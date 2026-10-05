@@ -1,4 +1,6 @@
 ---
+aliases:
+  - e/acc
 category: "Ideology"
 tags:
   - Concept
@@ -7,8 +9,6 @@ tags:
   - ArtificialIntelligence
   - SiliconValley
   - Transhumanism
-alias:
-  - e/acc
 summary: "Effective Accelerationism (e/acc) is a Silicon Valley techno-optimist movement that emerged in 2022 advocating the unrestricted acceleration of artificial intelligence and technology, defined against effective altruism's AI-safety 'doomerism,' and drawing on the accelerationism of Nick Land."
 location: "San Francisco Bay Area"
 created: 2026-06-19

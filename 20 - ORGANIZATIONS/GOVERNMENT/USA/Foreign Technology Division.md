@@ -1,16 +1,5 @@
 ---
-category: "Government Organization"
-tags:
-  - Organization
-  - Government
-  - AirForce
-  - Intelligence
-  - ScientificAndTechnicalIntelligence
-  - WrightPatterson
-  - ProjectBlueBook
-  - UFO
-  - ForeignMaterielExploitation
-alias:
+aliases:
   - Foreign Technology Division
   - FTD
   - AFSC Foreign Technology Division
@@ -23,6 +12,17 @@ alias:
   - NAIC
   - National Air and Space Intelligence Center
   - NASIC
+category: "Government Organization"
+tags:
+  - Organization
+  - Government
+  - AirForce
+  - Intelligence
+  - ScientificAndTechnicalIntelligence
+  - WrightPatterson
+  - ProjectBlueBook
+  - UFO
+  - ForeignMaterielExploitation
 summary: "Wright-Patterson scientific and technical intelligence unit, the Air Technical Intelligence Center from 1951, Foreign Technology Division from 1961 and NASIC since 2003, which housed Project Blue Book and analyzed UFO reports by regulation."
 location: "Wright-Patterson Air Force Base, Ohio"
 start: 1951-05-21

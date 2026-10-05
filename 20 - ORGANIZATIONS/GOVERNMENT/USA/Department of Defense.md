@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "United States Department of Defense"
 created: 2025-07-23
 updated: 2025-07-23
 title: Department of Defense
@@ -13,8 +15,6 @@ category: "U.S. Government"
 summary: "Executive department of the U.S. federal government that coordinates and supervises all agencies and functions concerned directly with national security and the armed forces."
 start: 1947
 location: "Arlington, Virginia"
-alias:
-  - "United States Department of Defense"
 ---
 
 The [[Department of Defense]] (DoD) is an executive branch department of the U.S. federal government charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the [[United States]].[^1]

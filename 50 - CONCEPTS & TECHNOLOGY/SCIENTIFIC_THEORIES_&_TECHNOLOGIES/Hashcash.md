@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Hashcash
+  - hashcash
 category: "Scientific Theory & Technology"
 tags:
   - Concept
@@ -8,9 +11,6 @@ tags:
   - Cypherpunks
   - Bitcoin
   - AdamBack
-alias:
-  - Hashcash
-  - hashcash
 summary: "Hashcash is the 1997 proof-of-work scheme that Adam Back devised to price email and deter spam by forcing a sender to compute a partial hash collision, and which the 2008 Bitcoin white paper cited as the model for the proof-of-work that secures the network and issues new coins."
 location: "United States"
 created: 2026-06-20

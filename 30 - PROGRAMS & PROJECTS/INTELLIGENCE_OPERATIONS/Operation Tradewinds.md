@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Operation Trade Winds
 category: "Intelligence Operation"
 tags:
   - Project
@@ -9,8 +11,6 @@ tags:
   - OrganizedCrime
   - CastleBank
   - Intertel
-alias:
-  - Operation Trade Winds
 summary: "IRS intelligence operation run from Jacksonville from 1965 against American money in Bahamian banks, which used paid informants in violation of Bahamian law and was called off after the Castle Bank briefcase theft."
 start: 1965
 end: 1975

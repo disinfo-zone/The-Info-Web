@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Laura Menninger
+  - Laura A. Menninger
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - JeffreyEpstein
   - Denver
   - SouthernDistrictOfNewYork
-alias:
-  - Laura Menninger
-  - Laura A. Menninger
 summary: "Denver trial lawyer of Haddon, Morgan and Foreman, formerly a Goldman Sachs analyst and law clerk to Judge Lewis A. Kaplan, who defended Ghislaine Maxwell in Giuffre v. Maxwell and United States v. Maxwell."
 location: "Denver, Colorado"
 relations:

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - EarthTech International
+  - EarthTech International, Inc.
+  - EarthTech
+  - ETI
+  - Institute for Advanced Studies at Austin
+  - IASA
 category: "Private Organization"
 tags:
   - Organization
@@ -7,13 +14,6 @@ tags:
   - ZeroPointEnergy
   - BeamedEnergyPropulsion
   - TTSA
-alias:
-  - EarthTech International
-  - EarthTech International, Inc.
-  - EarthTech
-  - ETI
-  - Institute for Advanced Studies at Austin
-  - IASA
 summary: "Austin, Texas physics research company headed since 1985 by Hal Puthoff, paid under two statements of work totaling 60,000 dollars by To The Stars Academy in August 2018 while Puthoff sat on that company's board."
 location: "Austin, Texas"
 relations:

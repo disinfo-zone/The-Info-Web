@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Virgin Islands Legislature
+  - V.I. Legislature
+  - USVI Legislature
+  - Legislature of the U.S. Virgin Islands
+  - 29th Legislature of the Virgin Islands
+  - Senate of the Virgin Islands
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,13 +15,6 @@ tags:
   - SexOffenderRegistration
   - GovernmentCapture
   - PublicCorruption
-alias:
-  - Virgin Islands Legislature
-  - V.I. Legislature
-  - USVI Legislature
-  - Legislature of the U.S. Virgin Islands
-  - 29th Legislature of the Virgin Islands
-  - Senate of the Virgin Islands
 summary: "Unicameral legislature of the U.S. Virgin Islands, whose 2012 sex-offender travel law Epstein's circle sought to shape through senators Carlton Dowe and Celestino White, and several of whose former members dealt with Epstein."
 location: "Charlotte Amalie, St. Thomas, U.S. Virgin Islands"
 relations:

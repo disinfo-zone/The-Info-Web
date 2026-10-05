@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ignacio Novo Sampol
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - CubanExiles
   - OrlandoLetelier
   - FBI
-alias:
-  - Ignacio Novo Sampol
 summary: "Co-founder of the Cuban Nationalist Movement, brother of Guillermo Novo, who bought forged papers from an FBI informant in 1977 and was convicted in 1979 of lying to the Letelier grand jury."
 location: "Union City, New Jersey"
 created: 2026-09-21

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Jesse Michels
+  - Jesse Michels (American Alchemy)
 category: "UFO & Anomalous Phenomena"
 tags:
   - UFO
@@ -7,9 +10,6 @@ tags:
   - Media
   - ThielNetwork
   - Podcaster
-alias:
-  - Jesse Michels
-  - Jesse Michels (American Alchemy)
 summary: "Investor listed as employed by Thiel Capital on a March 30, 2022 federal campaign contribution and creator of the American Alchemy YouTube channel."
 relations:
   - type: employed_by

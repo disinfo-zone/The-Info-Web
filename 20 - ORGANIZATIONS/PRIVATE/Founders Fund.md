@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Founders Fund Management LLC
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - PeterThiel
   - PayPalMafia
   - SiliconValley
-alias:
-  - Founders Fund Management LLC
 summary: "Founders Fund is a San Francisco venture capital firm founded in 2005 by Peter Thiel, Ken Howery, and Luke Nosek, whose early investments in Facebook, SpaceX, Airbnb, Stripe, Palantir Technologies, and Anduril Industries made it the financial vehicle of the Thiel commercial network."
 location: "San Francisco, California"
 created: 2026-06-17

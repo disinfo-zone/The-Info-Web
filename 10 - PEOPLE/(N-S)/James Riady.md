@@ -1,4 +1,6 @@
 ---
+aliases:
+  - James Tjahaja Riady
 category: "Business & Finance"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - JacksonStephens
   - CampaignFinance
   - BillClinton
-alias:
-  - James Tjahaja Riady
 summary: "Indonesian banker, son of Lippo Group founder Mochtar Riady, who interned at Stephens Inc., ran Worthen Bank's international division in Little Rock, and in 2001 paid the largest campaign finance fine in American history."
 location: "Jakarta, Indonesia"
 created: 2026-09-21

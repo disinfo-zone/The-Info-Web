@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Little Rock
 category: "City"
 tags:
   - Place
@@ -9,8 +11,6 @@ tags:
   - RoseLawFirm
   - BCCI
   - LippoGroup
-alias:
-  - Little Rock
 summary: "Capital of Arkansas and seat of Stephens Inc., Worthen Bank, Systematics, and the Rose Law Firm, where BCCI's emissary met Jackson Stephens and Bert Lance in 1977 and the Riady family entered American banking."
 location: "Arkansas, United States"
 created: 2026-09-21

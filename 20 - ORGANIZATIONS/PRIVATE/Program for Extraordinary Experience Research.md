@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Program for Extraordinary Experience Research
+  - PEER
+  - Program for Exceptional Experience Research
+  - PEER Perspectives
 category: "UFO & Anomalous Phenomena"
 tags:
   - Program
@@ -8,11 +13,6 @@ tags:
   - Harvard
   - Rockefeller
   - Cambridge
-alias:
-  - Program for Extraordinary Experience Research
-  - PEER
-  - Program for Exceptional Experience Research
-  - PEER Perspectives
 summary: "Abduction research and support program founded in 1993 by John E. Mack under the Center for Psychology and Social Change, begun on a Human Potential Foundation grant and, per the Mack Institute, Laurance Rockefeller funding."
 location: "Cambridge, Massachusetts"
 relations:

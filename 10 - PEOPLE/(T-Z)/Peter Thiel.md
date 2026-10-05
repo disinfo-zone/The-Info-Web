@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Peter Andreas Thiel
 category: "Technologists"
 tags:
   - KeyFigure
@@ -12,8 +14,6 @@ tags:
   - Dialog
   - DarkEnlightenment
   - Trump
-alias:
-  - Peter Andreas Thiel
 summary: "Peter Thiel is the German-born investor who cofounded PayPal, Palantir and the Dialog society, founded Founders Fund, funded Curtis Yarvin, and corresponded with Jeffrey Epstein from 2011 to 2019."
 born: 1967-10-11
 location: "Frankfurt, West Germany (born); San Francisco, California (base)"

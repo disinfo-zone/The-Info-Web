@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Elie Hassenfeld
 category: "Philanthropists & Benefactors"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - GiveWell
   - OpenPhilanthropy
   - BridgewaterAssociates
-alias:
-  - Elie Hassenfeld
 summary: "Former Bridgewater analyst who cofounded GiveWell with Holden Karnofsky in 2007, has run it since, sat on Open Philanthropy's early leadership team and was a director of its Action Fund."
 relations:
   - type: founded

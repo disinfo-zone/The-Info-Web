@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jim Braden
+  - Eugene Brading
+  - Eugene Hale Braden
 category: "Criminals & Offenders"
 tags:
   - JFKAssassination
@@ -9,10 +13,6 @@ tags:
   - HuntFamily
   - OrganizedCrime
   - Dallas
-alias:
-  - Jim Braden
-  - Eugene Brading
-  - Eugene Hale Braden
 summary: "California parolee detained across from the Texas School Book Depository minutes after the assassination, who gave the name Jim Braden and had told his probation officer the day before that he planned to see Lamar Hunt."
 location: "Beverly Hills, California"
 created: 2026-09-21

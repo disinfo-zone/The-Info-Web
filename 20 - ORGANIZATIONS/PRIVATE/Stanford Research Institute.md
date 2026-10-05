@@ -1,4 +1,8 @@
 ---
+aliases:
+  - SRI
+  - SRI International
+  - Stanford Research Institute
 category: "Private Organization"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - AugmentationResearchCenter
   - MenloPark
   - RemoteViewing
-alias:
-  - SRI
-  - SRI International
-  - Stanford Research Institute
 summary: "Stanford Research Institute is the Menlo Park research institute, founded in 1946 and independent since 1970, that produced Douglas Engelbart's 1968 'Mother of All Demos,' the second ARPANET node, and the U.S. government's classified remote-viewing program under Hal Puthoff and Russell Targ."
 start: 1946
 location: "Menlo Park, California"

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Donald Rumsfeld
+  - Donald H. Rumsfeld
+  - Donald Henry Rumsfeld
+  - Don Rumsfeld
+  - Rumsfeld
 category: "Political Figure"
 tags:
   - KeyFigure
@@ -13,12 +19,6 @@ tags:
   - AbuGhraib
   - Guantanamo
   - RevolvingDoor
-alias:
-  - Donald Rumsfeld
-  - Donald H. Rumsfeld
-  - Donald Henry Rumsfeld
-  - Don Rumsfeld
-  - Rumsfeld
 summary: "Illinois congressman, Ford chief of staff and twice Secretary of Defense, G.D. Searle and General Instrument chief executive, Gilead chairman, and Reagan's 1983 envoy to Saddam Hussein."
 born: 1932-07-09
 died: 2021-06-29

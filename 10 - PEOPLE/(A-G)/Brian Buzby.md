@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lt. Col. Brian Buzby
 category: "Military"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - CenterLane
   - RemoteViewing
   - FortMeade
-alias:
-  - Lt. Col. Brian Buzby
 summary: "INSCOM lieutenant colonel who ran the Center Lane remote-viewing project from August 15, 1983, briefed Senator Wallop and the intelligence committee staffs with Vorona and Puthoff, and negotiated its transfer to DIA."
 location: "Fort Meade, Maryland"
 created: 2026-09-21

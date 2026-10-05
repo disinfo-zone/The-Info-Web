@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ian John Shearer
 category: "Political Figure"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Politician
   - Science
   - RCHorsch
-alias:
-  - Ian John Shearer
 summary: "New Zealand National Party minister of science and technology, environment and broadcasting from 1981 to 1984, who opened the Chemical Technology Limited whey-to-alcohol plant at Temuka in April 1982."
 died: 2021-06-01
 location: "Hamilton, New Zealand"

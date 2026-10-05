@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Stacey E. Plaskett
+  - Delegate Stacey Plaskett
+  - Del. Stacey Plaskett
 category: "Political Figure"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - CampaignFinance
   - HousePermanentSelectCommitteeOnIntelligence
   - EconomicDevelopmentCommission
-alias:
-  - Stacey E. Plaskett
-  - Delegate Stacey Plaskett
-  - Del. Stacey Plaskett
 summary: "Virgin Islands delegate to Congress since 2015, formerly counsel to the territory's Economic Development Commission, whose 2014 island meeting, campaign receipts and 2019 hearing texts with Jeffrey Epstein drew a failed 2025 censure."
 born: 1966-05-13
 location: "Christiansted, St. Croix, U.S. Virgin Islands"

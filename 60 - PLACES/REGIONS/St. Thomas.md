@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Saint Thomas
+  - St Thomas
+  - St. Thomas, U.S. Virgin Islands
+  - St. Thomas, USVI
+  - St. Thomas, V.I.
 category: "Region"
 tags:
   - Place
@@ -8,12 +14,6 @@ tags:
   - JeffreyEpstein
   - TaxHaven
   - DanishWestIndies
-alias:
-  - Saint Thomas
-  - St Thomas
-  - St. Thomas, U.S. Virgin Islands
-  - St. Thomas, USVI
-  - St. Thomas, V.I.
 summary: "Island of the U.S. Virgin Islands holding the capital, Charlotte Amalie, and the harbor the United States sought from Denmark, where Jeffrey Epstein kept his companies, lawyers, hangar access and sex-offender registration."
 location: "U.S. Virgin Islands"
 created: 2026-09-25

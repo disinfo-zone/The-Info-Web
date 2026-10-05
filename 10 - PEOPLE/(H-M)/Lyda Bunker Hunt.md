@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lyda Bunker
+  - Lyda Hunt
 category: "Business & Finance"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - HuntFamily
   - LakeVillage
   - PlacidOil
-alias:
-  - Lyda Bunker
-  - Lyda Hunt
 summary: "Arkansas schoolteacher who married H.L. Hunt in 1914, bore the six children whose trusts came to hold most of the Hunt fortune, and died in 1955 while he kept two other families."
 born: 1889
 died: 1955-05-06

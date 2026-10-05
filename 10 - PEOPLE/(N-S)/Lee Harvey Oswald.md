@@ -67,7 +67,7 @@ On November 24, 1963, at approximately 11:21 AM, as Oswald was being transferred
 
 The Warren Commission concluded Ruby acted alone from personal grief over Kennedy's murder. The HSCA found that "the evidence available does not establish" Ruby had advance knowledge of the assassination. Ruby died of cancer in January 1967 while awaiting a second trial after his conviction was overturned.[^1]
 
-### Dallas: [[George de Mohrenschildt]] and the Russian Community
+### Dallas: George de Mohrenschildt and the Russian Community
 
 After Oswald's return from the Soviet Union in June 1962, he settled in the Dallas area, where a White Russian emigre community took social interest in Marina. The most prominent member to actively befriend Oswald was [[George de Mohrenschildt]], a petroleum geologist and Texas academic who maintained a documented relationship with CIA Domestic Contact Service officer [[J. Walton Moore]]. De Mohrenschildt told journalist [[Edward Jay Epstein]] shortly before his own death in 1977 that Moore had asked him to befriend Oswald and report on what Oswald had observed in the Soviet Union - with CIA assistance on a Haitian oil contract as the reciprocal arrangement. De Mohrenschildt obtained that contract in March 1963, immediately after his period of closest contact with Oswald.[^4]
 

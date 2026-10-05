@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Arcadia Theatre
+  - Arcadia Theater
 category: "Media & Entertainment"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - Philadelphia
   - Censorship
   - RCHorsch
-alias:
-  - Arcadia Theatre
-  - Arcadia Theater
 summary: "First-run cinema at 1529-1531 Chestnut Street, Philadelphia, which cancelled a February 1975 midnight showing of R.C. Horsch's Black Mass after reported pressure from the Archdiocese."
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-23

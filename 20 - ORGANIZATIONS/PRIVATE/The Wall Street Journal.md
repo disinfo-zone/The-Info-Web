@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Wall Street Journal
+  - WSJ
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - DowJones
   - BCCI
   - UnitedStates
-alias:
-  - Wall Street Journal
-  - WSJ
 summary: "Dow Jones & Company's New York financial daily, launched by Charles Dow and Edward Jones in 1889, whose 1991 and 1992 BCCI reporting the Senate cited repeatedly."
 start: 1889
 location: "New York City, USA"

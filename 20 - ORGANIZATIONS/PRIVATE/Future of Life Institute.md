@@ -1,4 +1,6 @@
 ---
+aliases:
+  - FLI
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - ExistentialRisk
   - EffectiveAltruism
   - ElonMusk
-alias:
-  - FLI
 summary: "The Future of Life Institute is a nonprofit founded in 2014 by Max Tegmark and others to address existential risks from advanced technology, funded with an early ten million dollar gift from Elon Musk, that published the 2023 open letter calling for a pause on giant AI experiments."
 location: "Cambridge, Massachusetts"
 created: 2026-06-19

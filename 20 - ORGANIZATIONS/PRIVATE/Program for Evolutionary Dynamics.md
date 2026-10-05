@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Program for Evolutionary Dynamics
+  - Harvard Program for Evolutionary Dynamics
+  - Program in Evolutionary Dynamics
+  - Program on Evolutionary Dynamics
+  - PED
+  - Evolutionary Dynamics
 category: "Private Organization"
 tags:
   - Organization
@@ -8,13 +15,6 @@ tags:
   - EvolutionaryDynamics
   - ReputationLaundering
   - LeonBlack
-alias:
-  - Program for Evolutionary Dynamics
-  - Harvard Program for Evolutionary Dynamics
-  - Program in Evolutionary Dynamics
-  - Program on Evolutionary Dynamics
-  - PED
-  - Evolutionary Dynamics
 summary: "Harvard research center founded in 2003 with a 6.5 million dollar Jeffrey Epstein gift, directed by Martin Nowak, where Epstein kept an office and keycard access until 2018; Harvard closed it in 2021."
 start: 2003
 end: 2021

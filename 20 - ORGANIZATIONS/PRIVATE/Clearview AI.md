@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Clearview AI Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -10,8 +12,6 @@ tags:
   - HoanTonThat
   - FTC
   - LawEnforcement
-alias:
-  - Clearview AI Inc.
 summary: "Clearview AI is a facial-recognition company founded by Hoan Ton-That and Richard Schwartz, first funded by Peter Thiel before the company was even named, that scraped an estimated thirty billion images from social media and the open web to build a facial-identification database sold to law enforcement, and was the subject of a March 2022 FTC consent order barring it from selling the database to private entities."
 location: "New York, New York"
 created: 2026-06-18

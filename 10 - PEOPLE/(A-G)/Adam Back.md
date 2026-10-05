@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Adam Back
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Bitcoin
   - Hashcash
   - Blockstream
-alias:
-  - Adam Back
 summary: "Adam Back is a British cryptographer who invented the Hashcash proof-of-work scheme cited in the Bitcoin white paper, was the first person Satoshi Nakamoto is known to have emailed, co-founded the blockchain company Blockstream, and is a recurring Satoshi candidate that he denies."
 born: 1970-07
 location: "Malta"

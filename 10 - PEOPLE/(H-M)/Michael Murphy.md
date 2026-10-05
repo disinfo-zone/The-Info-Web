@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Michael Murphy
+  - Mike Murphy
 category: "Authors & Journalists"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - SriAurobindo
   - CitizenDiplomacy
   - Parapsychology
-alias:
-  - Michael Murphy
-  - Mike Murphy
 summary: "Michael Murphy is the Stanford-trained cofounder of Esalen Institute and a theorist of transformative human capacities who carried the Human Potential movement toward later wellness and technology culture."
 born: 1930
 location: "Big Sur, California"

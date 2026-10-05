@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Sherman Kaminsky
 category: "Organized Crime"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - OrlandoLetelier
   - AlvinRoss
   - UnitedStatesVHenry
-alias:
-  - Sherman Kaminsky
 summary: "Racketeer and fugitive who, awaiting sentence in the Metropolitan Correctional Center in 1978, heard Alvin Ross talk of the Letelier bomb and testified against him, a use of informants the appeals court found unlawful."
 location: "New York City"
 created: 2026-09-21

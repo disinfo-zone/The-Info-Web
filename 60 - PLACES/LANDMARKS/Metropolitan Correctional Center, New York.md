@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Metropolitan Correctional Center
+  - MCC New York
+  - MCC Manhattan
+  - MCC
+  - Metropolitan Correctional Center (New York)
 category: "Landmark"
 tags:
   - Place
@@ -8,12 +14,6 @@ tags:
   - NewYorkCity
   - DeathInCustody
   - Surveillance
-alias:
-  - Metropolitan Correctional Center
-  - MCC New York
-  - MCC Manhattan
-  - MCC
-  - Metropolitan Correctional Center (New York)
 summary: "The Metropolitan Correctional Center, New York was the Bureau of Prisons pretrial jail at 150 Park Row in Lower Manhattan where Jeffrey Epstein died in August 2019, closed in 2021."
 end: 2021-10
 location: "150 Park Row, Lower Manhattan, New York, New York"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Albert Hoersch Sr.
 category: "Other"
 tags:
   - AbuseNetworks
@@ -6,8 +8,6 @@ tags:
   - RCHorsch
   - Philadelphia
   - Olney
-alias:
-  - Albert Hoersch Sr.
 summary: "Philadelphia grandfather of the pornographer R.C. Horsch, whose house at 417 West Chew Street in Olney became the house searched in the 2026 Olney House Investigation."
 died: 1972-07-01
 location: "417 West Chew Street, Philadelphia, Pennsylvania"

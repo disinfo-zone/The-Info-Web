@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Harry Beller
 category: "Business & Finance"
 tags:
   - AbuseNetworks
@@ -10,8 +12,6 @@ tags:
   - SuspiciousActivityReports
   - SouthernTrust
   - RonWyden
-alias:
-  - Harry Beller
 summary: "Jeffrey Epstein's in-house accountant, who held power of attorney over his JPMorgan accounts, made the cash withdrawals flagged in the bank's suspicious activity reports, and was never questioned by federal prosecutors."
 location: "New York, New York"
 relations:

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - ITT
+  - International Telephone and Telegraph
+  - International Telephone and Telegraph Corporation
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - JohnMcCone
   - Graymail
   - MultinationalCorporations
-alias:
-  - ITT
-  - International Telephone and Telegraph
-  - International Telephone and Telegraph Corporation
 summary: "American conglomerate whose chairman offered the CIA one million dollars in 1970 to stop Salvador Allende, and whose executives' perjury charges over it were dropped in 1979 to protect intelligence secrets."
 location: "New York, New York"
 created: 2026-09-21

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - IARPA
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,8 +10,6 @@ tags:
   - Forecasting
   - ArtificialIntelligence
   - QuantumComputing
-alias:
-  - IARPA
 summary: "Research agency of the Office of the Director of National Intelligence, launched October 1, 2007, from NSA, NGA and CIA technology offices, whose ACE forecasting tournament produced the Good Judgment superforecasters."
 start: 2007-10-01
 location: "Office of the Director of National Intelligence"

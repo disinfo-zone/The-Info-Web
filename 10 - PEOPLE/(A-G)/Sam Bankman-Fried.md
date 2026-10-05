@@ -1,4 +1,6 @@
 ---
+aliases:
+  - SBF
 category: "Business & Finance"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - EffectiveAltruism
   - Fraud
   - Cryptocurrency
-alias:
-  - SBF
 summary: "Sam Bankman-Fried is the founder of the FTX cryptocurrency exchange and the effective-altruism movement's largest benefactor, who directed FTX customer funds into longtermist causes and a 500 million dollar Anthropic investment before FTX collapsed in 2022 and he was convicted of fraud in 2023."
 born: 1992-03-06
 location: "Palo Alto, California"

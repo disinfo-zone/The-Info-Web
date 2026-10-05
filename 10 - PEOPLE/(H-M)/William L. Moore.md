@@ -1,4 +1,9 @@
 ---
+aliases:
+  - William L. Moore
+  - William Moore
+  - Bill Moore
+  - Moore
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -9,11 +14,6 @@ tags:
   - Disinformation
   - Counterintelligence
   - Author
-alias:
-  - William L. Moore
-  - William Moore
-  - Bill Moore
-  - Moore
 summary: "Co-author of The Roswell Incident (1980) who told the July 1, 1989 MUFON symposium that from 1980 to 1984 he supplied AFOSI, through Richard Doty, information on Paul Bennewitz, APRO and others."
 location: "Los Angeles, California"
 relations:

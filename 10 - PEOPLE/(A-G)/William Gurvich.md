@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bill Gurvich
 category: "Law Enforcement & Legal"
 tags:
   - JFKAssassination
@@ -8,8 +10,6 @@ tags:
   - ClayShaw
   - PrivateInvestigators
   - NewOrleans
-alias:
-  - Bill Gurvich
 summary: "New Orleans private detective who joined Jim Garrison's Kennedy investigation in December 1966, resigned in June 1967 calling it a fraudulent, criminal act, and took two boxes of its files to Clay Shaw's lawyers."
 location: "New Orleans, Louisiana"
 created: 2026-09-21

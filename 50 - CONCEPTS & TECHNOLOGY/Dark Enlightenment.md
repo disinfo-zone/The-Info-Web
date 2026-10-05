@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Dark Enlightenment
+  - The Dark Enlightenment
+  - dark enlightenment
 category: "Ideology"
 tags:
   - Concept
@@ -11,10 +15,6 @@ tags:
   - Urbit
   - PeterThiel
   - NewRight
-alias:
-  - Dark Enlightenment
-  - The Dark Enlightenment
-  - dark enlightenment
 summary: "Name given in Nick Land's 2012 essay series to the neo-reactionary current around Curtis Yarvin's blog Unqualified Reservations, whose readers included Peter Thiel, Marc Andreessen and J. D. Vance."
 location: "Online"
 relations:

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - N908JE
+  - Epstein's Boeing 727
+  - Epstein's plane
 category: "Crime & Abuse Networks"
 tags:
   - Technology
@@ -9,10 +13,6 @@ tags:
   - ShellCompany
   - JEGE
   - HyperionAir
-alias:
-  - N908JE
-  - Epstein's Boeing 727
-  - Epstein's plane
 summary: "Press nickname for Jeffrey Epstein's Boeing 727-31, tail number N908JE, registered from 2001 to 2019 to his Delaware company JEGE, Inc., whose pilots' logs became a principal record of his associates."
 start: 2001-01-19
 location: "Palm Beach, Florida (base); Brunswick, Georgia (stored)"

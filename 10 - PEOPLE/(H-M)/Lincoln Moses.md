@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Lincoln E. Moses
 category: "Scientists & Researchers"
 tags:
   - Person
   - LincolnMoses
   - Stanford
   - Statistics
-alias:
-  - Lincoln E. Moses
 summary: "Stanford biostatistician and Carter's head of the Energy Information Administration who advised the 1995 AIR evaluation of Star Gate on statistics."
 born: 1921-12-21
 died: 2006-12-17

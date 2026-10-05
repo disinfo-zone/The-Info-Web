@@ -1,4 +1,7 @@
 ---
+aliases:
+  - PPD
+  - Philadelphia police
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - OlneyHouseInvestigation
   - RCHorsch
   - MOVE
-alias:
-  - PPD
-  - Philadelphia police
 summary: "Municipal police force of Philadelphia, created by the Act of Consolidation of 1854, which with the FBI has led the 2026 Olney House Investigation into women connected to R.C. Horsch."
 start: 1854
 location: "Philadelphia, Pennsylvania"

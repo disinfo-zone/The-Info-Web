@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leon Bottstein
+  - President Leon Botstein
 category: "Entertainment & Arts"
 tags:
   - AbuseNetworks
@@ -9,9 +12,6 @@ tags:
   - GratitudeAmerica
   - HigherEducation
   - Philanthropy
-alias:
-  - Leon Bottstein
-  - President Leon Botstein
 summary: "Conductor and president of Bard College from 1975 to 2026 who courted Jeffrey Epstein as a donor after his conviction, took 150,000 dollars from Epstein's charity, and retired after a 2026 review."
 location: "Annandale-on-Hudson, New York"
 relations:

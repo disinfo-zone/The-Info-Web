@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ari Ben-Menashe
+  - Ari Ben Menashe
 category: "Intelligence & Government"
 tags:
   - KeyFigure
@@ -13,9 +16,6 @@ tags:
   - IranContra
   - RobertMaxwell
   - JeffreyEpstein
-alias:
-  - Ari Ben-Menashe
-  - Ari Ben Menashe
 summary: "Ari Ben-Menashe is an Iranian-born Israeli-Canadian who describes himself as a former military-intelligence official and became a recurring source for claims about U.S.-Israeli arms dealing, the October Surprise, PROMIS, Robert Maxwell, and Jeffrey Epstein, claims repeatedly found uncorroborated and, by a congressional task force, not credible."
 born: 1951-12-04
 location: "Tehran, Iran; Montreal, Canada"

@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Section 874 pilot
+  - Section 874
+  - Employee Stock Ownership Plan pilot program
+  - ESOP pilot program
+  - ESOP Pilot Program
+  - Pilot Program to Incentivize Contracting with Employee-Owned Businesses
+  - DFARS Subpart 270.1
+  - DFARS Case 2024-D004
 category: "Concepts & Technology"
 tags:
   - Legislation
@@ -9,15 +18,6 @@ tags:
   - DefenseContracting
   - DFARS
   - Lobbying
-alias:
-  - Section 874 pilot
-  - Section 874
-  - Employee Stock Ownership Plan pilot program
-  - ESOP pilot program
-  - ESOP Pilot Program
-  - Pilot Program to Incentivize Contracting with Employee-Owned Businesses
-  - DFARS Subpart 270.1
-  - DFARS Case 2024-D004
 summary: "Pilot authority in the Fiscal Year 2022 defense authorization act, introduced as S.2402 by Warren and Tillis, for sole-source follow-on contracts to S corporations owned 100 percent through employee stock ownership plans."
 start: 2021-07-20
 location: "Washington, D.C."

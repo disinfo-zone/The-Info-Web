@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Roy Black
+  - Roy E. Black
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - NonProsecutionAgreement
   - Miami
   - WilliamKennedySmith
-alias:
-  - Roy Black
-  - Roy E. Black
 summary: "Miami criminal defense lawyer who won William Kennedy Smith's 1991 rape acquittal and was part of Jeffrey Epstein's defense team from 2007 through the non-prosecution agreement and its aftermath."
 died: 2025-07-21
 location: "Coral Gables, Florida"

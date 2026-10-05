@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Screw
+  - Screw magazine
 category: "Private Organization"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - Pornography
   - Obscenity
   - RCHorsch
-alias:
-  - Screw
-  - Screw magazine
 summary: "New York sex tabloid founded in 1968 by Al Goldstein and Jim Buckley, whose publisher was arrested 19 times on obscenity charges in its first three years; it folded in 2003."
 start: 1968
 end: 2003

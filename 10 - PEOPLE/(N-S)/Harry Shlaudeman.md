@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Harry W. Shlaudeman
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - HenryKissinger
   - Chile
   - OrlandoLetelier
-alias:
-  - Harry W. Shlaudeman
 summary: "Assistant secretary of state for inter-American affairs who warned Kissinger of Operation Condor's assassination plans on August 3, 1976, received Landau's cable on the DINA passports, and saw no warning delivered before Letelier died."
 location: "Washington, D.C."
 created: 2026-09-21

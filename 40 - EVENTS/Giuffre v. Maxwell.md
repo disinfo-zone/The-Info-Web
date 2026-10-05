@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Giuffre v Maxwell
+  - Giuffre v. Maxwell (2015)
+  - Brown v. Maxwell
+  - Blatchford v. Maxwell
 category: "Law Enforcement & Legal"
 tags:
   - Event
@@ -10,11 +15,6 @@ tags:
   - Unsealing
   - EpsteinFilesTransparencyAct
   - SouthernDistrictOfNewYork
-alias:
-  - Giuffre v Maxwell
-  - Giuffre v. Maxwell (2015)
-  - Brown v. Maxwell
-  - Blatchford v. Maxwell
 summary: "Virginia Giuffre's 2015 defamation suit against Ghislaine Maxwell in the Southern District of New York, settled in 2017, whose sealed discovery record was litigated for a decade and reached by a 2019 grand jury subpoena."
 start: 2015-09-21
 location: "New York, New York"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - NRx
 category: "Ideology"
 tags:
   - Concept
@@ -8,8 +10,6 @@ tags:
   - Moldbug
   - NickLand
   - PeterThiel
-alias:
-  - NRx
 summary: "Neoreaction (NRx) is the political-philosophical movement founded by Curtis Yarvin (Moldbug) through his blog Unqualified Reservations from 2007 onward, which argues that liberal democracy is a failing theocratic successor to mainline Protestantism and should be replaced by corporate sovereign entities under neocameral governance."
 created: 2026-06-17
 updated: 2026-06-17

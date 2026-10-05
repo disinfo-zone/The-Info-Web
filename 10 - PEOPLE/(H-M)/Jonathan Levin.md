@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Jonathan David Levin
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - MarketDesign
   - ClarkMedal
   - AcademicLeadership
-alias:
-  - Jonathan David Levin
 summary: "Jonathan Levin is an American economist who won the 2011 John Bates Clark Medal, served as dean of the Stanford Graduate School of Business from 2016 to 2024, and became the thirteenth president of Stanford University in August 2024."
 born: 1972-11-17
 location: "New Haven, Connecticut (born)"

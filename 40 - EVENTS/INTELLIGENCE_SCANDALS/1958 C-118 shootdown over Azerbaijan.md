@@ -1,4 +1,7 @@
 ---
+aliases:
+  - C-118 shootdown
+  - Gendarkh incident
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -8,9 +11,6 @@ tags:
   - USAF
   - ColdWar
   - Wiesbaden
-alias:
-  - C-118 shootdown
-  - Gendarkh incident
 summary: "Air Force C-118 carrying CIA cargo forced down by Soviet MiG-17s over Azerbaijan on June 27, 1958; its nine crew, two well informed on agency work, were questioned at Baku and freed after ten days."
 start: 1958-06-27
 location: "Azerbaijan"

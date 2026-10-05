@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Project Blue Book
+  - Blue Book
+  - Project Bluebook
+  - Project BLUE BOOK
+  - Project BLUEBOOK
 category: "Intelligence Operation"
 tags:
   - Program
@@ -10,12 +16,6 @@ tags:
   - ProjectSign
   - ProjectGrudge
   - Declassification
-alias:
-  - Project Blue Book
-  - Blue Book
-  - Project Bluebook
-  - Project BLUE BOOK
-  - Project BLUEBOOK
 summary: "U.S. Air Force program, run from Wright-Patterson Air Force Base, that collected and evaluated unidentified flying object reports from 1952 to 1969 and was terminated on 17 December 1969 with 701 of 12,618 cases unidentified."
 start: 1952-03
 end: 1969-12-17

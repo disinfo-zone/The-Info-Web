@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ray L. Hunt
+  - Ray Lee Hunt
+  - R.L. Hunt
 category: "Business & Finance"
 tags:
   - Person
@@ -10,10 +14,6 @@ tags:
   - Yemen
   - Dallas
   - BushAdministration
-alias:
-  - Ray L. Hunt
-  - Ray Lee Hunt
-  - R.L. Hunt
 summary: "Chairman of Hunt Oil and executor of H.L. Hunt's estate who sat on the President's Foreign Intelligence Advisory Board from 2001 to 2009 while his company signed an oil contract with the Kurdistan Regional Government."
 born: 1943
 location: "Dallas, Texas"

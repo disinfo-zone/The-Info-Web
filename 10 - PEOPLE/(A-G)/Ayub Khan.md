@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Mohammad Ayub Khan
+  - Muhammad Ayub Khan
+  - Field Marshal Ayub Khan
+  - General Ayub Khan
 category: "Political Figure"
 tags:
   - Person
@@ -6,11 +11,6 @@ tags:
   - Military
   - BCCI
   - MilitaryRule
-alias:
-  - Mohammad Ayub Khan
-  - Muhammad Ayub Khan
-  - Field Marshal Ayub Khan
-  - General Ayub Khan
 summary: "Pakistani field marshal and president whose confidant I. I. Chundrigar chaired Agha Hasan Abedi's United Bank and whose information minister later became publisher of BCCI's magazine South."
 died: 1974-04-20
 location: "Islamabad, Pakistan"

@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Camp David Accords
+  - Camp David summit
+  - Camp David
+  - Camp David Agreements
+  - Camp David Peace Treaty
+  - Egypt-Israel Peace Treaty
+  - Egyptian-Israeli Peace Treaty
 category: "Diplomacy"
 tags:
   - Event
@@ -12,14 +20,6 @@ tags:
   - MultinationalForceAndObservers
   - USForeignAid
   - CIA
-alias:
-  - Camp David Accords
-  - Camp David summit
-  - Camp David
-  - Camp David Agreements
-  - Camp David Peace Treaty
-  - Egypt-Israel Peace Treaty
-  - Egyptian-Israeli Peace Treaty
 summary: "Two framework agreements signed September 17, 1978 after thirteen days at Camp David between Anwar Sadat and Menachem Begin with Jimmy Carter mediating, followed by the 1979 Egypt-Israel Peace Treaty and its U.S. aid commitments."
 start: 1978-09-05
 end: 1978-09-17

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gale Committee
+  - Gale Report
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -7,9 +10,6 @@ tags:
   - RemoteViewing
   - ScientificReview
   - Army
-alias:
-  - Gale Committee
-  - Gale Report
 summary: "An eight-member Army review under Manfred Gale, reporting in December 1979, which found remote viewing unproved and its programs poorly documented, while a majority of five allowed INSCOM's operational work to continue under oversight."
 start: 1979-06
 end: 1980-01-25

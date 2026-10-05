@@ -1,4 +1,7 @@
 ---
+aliases:
+  - CCAH
+  - Credit and Commerce American Holdings, N.V.
 category: "BCCI Scandal"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - FirstAmerican
   - HoldingCompany
   - NetherlandsAntilles
-alias:
-  - CCAH
-  - Credit and Commerce American Holdings, N.V.
 summary: "Netherlands Antilles holding company formed by BCCI in 1978 through which nominee shareholders held First American Bankshares, the Washington bank BCCI secretly controlled."
 start: 1978
 location: "Netherlands Antilles"

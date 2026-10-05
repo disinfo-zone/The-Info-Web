@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Extropians
+  - Extropy
 category: "Ideology"
 tags:
   - Concept
@@ -8,9 +11,6 @@ tags:
   - ArtificialIntelligence
   - Cryonics
   - Rationalism
-alias:
-  - Extropians
-  - Extropy
 summary: "Extropianism is the libertarian transhumanist movement founded by Max More in the late 1980s around the Extropy Institute, whose 1990s mailing list fed longtermism, the rationalist community and cypherpunk circles."
 location: "California"
 created: 2026-06-19

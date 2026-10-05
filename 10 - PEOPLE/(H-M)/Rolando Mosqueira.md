@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rolando Mosqueira Jarpa
+  - Alejandro Romeral Jara
 category: "Military"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - OrlandoLetelier
   - VernonWalters
   - Chile
-alias:
-  - Rolando Mosqueira Jarpa
-  - Alejandro Romeral Jara
 summary: "DINA captain who went to Washington with René Riveros in August 1976 as Alejandro Romeral Jara, on a passport handed to him already filled in and signed in a hand not his own."
 location: "Santiago, Chile"
 created: 2026-09-21

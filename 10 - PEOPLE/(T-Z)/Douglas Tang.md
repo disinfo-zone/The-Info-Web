@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Douglas B. Tang
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - GrillFlame
   - RemoteViewing
   - WalterReed
-alias:
-  - Douglas B. Tang
 summary: "Chief of biostatistics at the Walter Reed Army Institute of Research who sat on the 1979 Gale Committee and joined its minority opinion against operational remote viewing."
 location: "Washington, D.C."
 created: 2026-09-22

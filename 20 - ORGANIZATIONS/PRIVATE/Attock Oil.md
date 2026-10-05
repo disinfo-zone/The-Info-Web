@@ -1,4 +1,8 @@
 ---
+aliases:
+  - The Attock Oil Company Limited
+  - Attock Oil Company
+  - AOC
 category: "Private Organization"
 tags:
   - Organization
@@ -6,10 +10,6 @@ tags:
   - Pakistan
   - BCCI
   - Nominees
-alias:
-  - The Attock Oil Company Limited
-  - Attock Oil Company
-  - AOC
 summary: "Oil company incorporated in England in 1913 and operating in Pakistan, called BCCI's oil company by the Senate, in which Kamal Adham, Faisal al-Fulaij and Ghaith Pharaon held interests as BCCI nominees."
 start: 1913-12-01
 location: "England and Pakistan"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Study Group
+  - The Mega Group
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - CharlesBronfman
   - Philanthropy
   - JeffreyEpstein
-alias:
-  - Study Group
-  - The Mega Group
 summary: "Private circle of wealthy Jewish American businessmen founded in 1991 by Leslie Wexner and Charles Bronfman as the Study Group, disclosed by The Wall Street Journal in 1998."
 start: 1991
 location: "New York, New York"

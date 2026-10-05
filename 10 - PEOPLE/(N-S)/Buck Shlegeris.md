@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Buck Shlegeris
+  - Michael Shlegeris
+  - Michael Buck Shlegeris
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - AISafety
   - EffectiveAltruism
   - OpenPhilanthropy
-alias:
-  - Buck Shlegeris
-  - Michael Shlegeris
-  - Michael Buck Shlegeris
 summary: "AI-alignment researcher and recruiter at the Machine Intelligence Research Institute who became chief technology officer and then chief executive of Redwood Research, an Open Philanthropy-funded Berkeley nonprofit, and an Alignment Research Center director."
 location: "Berkeley, California"
 relations:

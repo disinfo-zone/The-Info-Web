@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Associated Press
+  - The Associated Press
+  - AP
+  - A.P.
+  - AP GmbH
 category: "Private Organization"
 tags:
   - Organization
@@ -10,12 +16,6 @@ tags:
   - ContraWar
   - PressFreedom
   - WhiteHouse
-alias:
-  - Associated Press
-  - The Associated Press
-  - AP
-  - A.P.
-  - AP GmbH
 summary: "New York news cooperative of United States newspapers and broadcasters, founded in 1846, whose Berlin photo subsidiary worked under Nazi press law and whose phone records, Gaza bureau and White House access drew government action."
 start: 1846
 location: "New York City"

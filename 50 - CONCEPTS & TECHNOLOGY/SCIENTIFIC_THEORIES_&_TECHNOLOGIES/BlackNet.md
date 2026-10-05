@@ -1,4 +1,6 @@
 ---
+aliases:
+  - BlackNet
 category: "Scientific Theory & Technology"
 tags:
   - Concept
@@ -8,8 +10,6 @@ tags:
   - DigitalCash
   - Anonymity
   - TimothyMay
-alias:
-  - BlackNet
 summary: "BlackNet was Timothy May's 1993 thought experiment for an anonymous information market built on public-key encryption, remailers, message pools, and digital cash, circulated on the cypherpunks list as a working precursor to dark markets and anonymous-leak platforms."
 location: "United States"
 created: 2026-06-20

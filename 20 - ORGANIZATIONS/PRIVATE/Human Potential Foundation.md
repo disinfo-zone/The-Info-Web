@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Human Potential Foundation
+  - HPF
+  - Human Potential Foundation, Inc.
+  - Human Potential Foundation Press
 category: "UFO & Anomalous Phenomena"
 tags:
   - Organization
@@ -8,11 +13,6 @@ tags:
   - Rockefeller
   - ClintonWhiteHouse
   - FallsChurchVirginia
-alias:
-  - Human Potential Foundation
-  - HPF
-  - Human Potential Foundation, Inc.
-  - Human Potential Foundation Press
 summary: "Nonprofit founded in 1989 by C. B. Scott Jones and Senator Claiborne Pell, funded chiefly by Laurance Rockefeller in its first years, which sponsored the 1995 conference When Cosmic Cultures Meet and dissolved in 1998."
 location: "Falls Church, Virginia"
 relations:

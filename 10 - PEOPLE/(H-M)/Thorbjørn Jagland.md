@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thorbjørn Jagland
+  - Thorbjorn Jagland
 category: "Political Figure"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - JeffreyEpstein
   - Okokrim
   - Corruption
-alias:
-  - Thorbjørn Jagland
-  - Thorbjorn Jagland
 summary: "Former Norwegian prime minister, Nobel Committee chair and Council of Europe secretary general, repeatedly Jeffrey Epstein's guest, formally named a suspect in aggravated corruption by Økokrim in February 2026."
 location: "Oslo, Norway"
 created: 2026-09-25

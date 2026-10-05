@@ -1,4 +1,7 @@
 ---
+aliases:
+  - "Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice"
+  - Nobody's Girl (memoir)
 category: "Source"
 tags:
   - Source
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - GhislaineMaxwell
   - PrinceAndrew
-alias:
-  - "Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice"
-  - Nobody's Girl (memoir)
 summary: "Virginia Roberts Giuffre's memoir, written with Amy Wallace and published posthumously by Knopf on October 21, 2025, which preceded the removal of Prince Andrew's titles and won the 2026 British Book of the Year."
 start: 2025-10-21
 location: "New York, New York"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - HBD
 category: "Ideology"
 tags:
   - Concept
@@ -7,8 +9,6 @@ tags:
   - Neoreaction
   - Rationalism
   - AltRight
-alias:
-  - HBD
 summary: "Human biodiversity (HBD) is a euphemism for hereditarian race science, popularized by Steve Sailer in the late 1990s, asserting genetically rooted differences in intelligence and behavior between racial groups, that became a connective doctrine linking the rationalist community, neoreaction, and the alt-right."
 location: "United States"
 created: 2026-06-19

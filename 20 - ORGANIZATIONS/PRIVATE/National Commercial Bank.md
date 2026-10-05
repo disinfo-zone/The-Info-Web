@@ -1,4 +1,7 @@
 ---
+aliases:
+  - National Commercial Bank of Saudi Arabia
+  - NCB
 category: "Private Organization"
 tags:
   - Organization
@@ -6,9 +9,6 @@ tags:
   - BCCI
   - SaudiArabia
   - KhalidBinMahfouz
-alias:
-  - National Commercial Bank of Saudi Arabia
-  - NCB
 summary: "Jeddah bank controlled by Khalid bin Mahfouz, with which BCCI concealed more than 500 million dollars of lending to its major customers, a practice auditors found continuing in 1990."
 location: "Jeddah, Saudi Arabia"
 relations:

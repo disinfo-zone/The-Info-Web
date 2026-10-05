@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Coordinación de Organizaciones Revolucionarias Unidas
+  - Coordination of United Revolutionary Organizations
 category: "Paramilitary"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Terrorism
   - CubanNationalistMovement
   - DISIP
-alias:
-  - Coordinación de Organizaciones Revolucionarias Unidas
-  - Coordination of United Revolutionary Organizations
 summary: "Umbrella of five Cuban exile organizations formed under Orlando Bosch in the Dominican Republic on June 11, 1976, whose members bombed a Cubana airliner that October and lent DINA the men who killed Orlando Letelier."
 start: 1976-06-11
 location: "Miami, Florida"

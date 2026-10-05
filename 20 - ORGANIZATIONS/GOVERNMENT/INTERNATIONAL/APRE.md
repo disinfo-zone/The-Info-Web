@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Army Personnel Research Establishment
+  - APRE
 category: "Foreign Government"
 tags:
   - Organization
@@ -6,7 +9,6 @@ tags:
   - MilitaryPsychology
   - UnitedKingdom
   - ColdWar
-alias: Army Personnel Research Establishment, APRE
 summary: "The British Army's primary human factors research unit, established as an independent organization in 1965 at Farnborough by merging two predecessor establishments, that focused on selection, training, ergonomics, and environmental physiology while maintaining a secondary role advising the Special Air Service on interrogation-relevant subjects."
 location: Farnborough, United Kingdom
 created: 2026-06-04

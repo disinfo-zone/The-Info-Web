@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Greg McKain
 category: "Technologists"
 tags:
   - Person
   - GregoryMcKain
   - PROMIS
   - INSLAW
-alias:
-  - Greg McKain
 summary: "INSLAW programmer whom Jack Rugh of the Justice Department telephoned in February 1985 with a job offer, the call Judge Bason treated as evidence of a plan to convert the bankruptcy."
 created: 2026-09-22
 updated: 2026-09-22

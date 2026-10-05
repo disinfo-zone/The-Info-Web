@@ -1,4 +1,7 @@
 ---
+aliases:
+  - William Francis Birch
+  - Sir William Birch
 category: "Political Figure"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Energy
   - ThinkBig
   - RCHorsch
-alias:
-  - William Francis Birch
-  - Sir William Birch
 summary: "New Zealand National Party minister of energy from 1978 to 1984, the minister behind the Think Big projects, and later finance minister; he co-announced the 1981 Temuka distillery licence."
 born: 1934
 died: 2026-07

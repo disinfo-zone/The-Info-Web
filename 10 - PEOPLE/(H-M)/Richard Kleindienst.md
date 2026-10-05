@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Richard G. Kleindienst
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - ITT
   - Arizona
   - HuntFamily
-alias:
-  - Richard G. Kleindienst
 summary: "Deputy attorney general and then attorney general under Nixon, sworn in five days before the Watergate break-in, who pleaded guilty in 1974 to not answering the Senate fully about the ITT antitrust settlement."
 born: 1923-08-05
 died: 2000-02-03

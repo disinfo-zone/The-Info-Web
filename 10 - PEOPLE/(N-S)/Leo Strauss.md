@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leo Strauss
+  - Strauss
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Esotericism
   - Neoconservatism
   - PeterThiel
-alias:
-  - Leo Strauss
-  - Strauss
 summary: "Leo Strauss was a German-American political philosopher at the University of Chicago whose doctrine of esoteric writing, critique of liberal modernity, and revival of the ancients shaped American neoconservatism and supplied one of the three pillars of Peter Thiel's 2007 essay 'The Straussian Moment.'"
 born: 1899-09-20
 died: 1973-10-18

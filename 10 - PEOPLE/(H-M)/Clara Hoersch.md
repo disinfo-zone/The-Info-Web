@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Clara Hagerty
+  - Clara Hagerty Hoersch
 category: "Other"
 tags:
   - AbuseNetworks
   - Person
   - RCHorsch
   - BucksCounty
-alias:
-  - Clara Hagerty
-  - Clara Hagerty Hoersch
 summary: "Mother of the pornographer and fugitive R.C. Horsch, a daughter of a Stroudsburg family who lived with her husband Raymond C. Hoersch in Bucks County."
 location: "Chalfont, Pennsylvania"
 relations:

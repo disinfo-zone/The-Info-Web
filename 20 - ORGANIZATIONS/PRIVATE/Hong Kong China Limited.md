@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Hong Kong China Ltd.
+  - Hong Kong China Ltd
+  - HKCL
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - HongKong
   - RealEstate
   - Whitewater
-alias:
-  - Hong Kong China Ltd.
-  - Hong Kong China Ltd
-  - HKCL
 summary: "Hong Kong property subsidiary of the Riady family's Lippo Group, which wired 99,985 dollars to Webster Hubbell on June 27, 1994, the day he agreed to consult for it."
 location: "Hong Kong"
 created: 2026-09-23

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Woody Allen
 category: "Entertainment & Arts"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - PrinceAndrew
   - BardCollege
   - Film
-alias:
-  - Woody Allen
 summary: "American filmmaker who dined with Jeffrey Epstein and Prince Andrew in 2010, exchanged messages with Epstein into 2016, and whose household thanked Epstein in 2017 over a Bard admission."
 location: "New York, New York"
 created: 2026-09-25

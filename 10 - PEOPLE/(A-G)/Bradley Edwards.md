@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Brad Edwards
+  - Bradley J. Edwards
+  - Bradley James Edwards
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - NonProsecutionAgreement
   - VictimsRights
   - ScottRothstein
-alias:
-  - Brad Edwards
-  - Bradley J. Edwards
-  - Bradley James Edwards
 summary: "Bradley Edwards is a Fort Lauderdale lawyer who represented Epstein's victims from 2008, litigated the Crime Victims' Rights Act case pro bono, and was sued by Epstein, who later apologized."
 location: "Fort Lauderdale, Florida"
 relations:

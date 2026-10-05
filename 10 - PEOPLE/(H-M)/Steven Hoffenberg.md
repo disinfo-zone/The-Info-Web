@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Steven Jude Hoffenberg
+  - Stephen Hoffenberg
+  - Steven J. Hoffenberg
 category: "Criminals & Offenders"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - Finance
   - Fraud
   - SEC
-alias:
-  - Steven Jude Hoffenberg
-  - Stephen Hoffenberg
-  - Steven J. Hoffenberg
 summary: "Founder of Towers Financial Corporation who pleaded guilty in 1995 to a roughly 475 million dollar Ponzi scheme and later claimed Jeffrey Epstein helped architect the fraud, a claim for which Epstein was never charged."
 born: 1945-01-12
 died: 2022-08

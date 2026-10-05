@@ -1,4 +1,6 @@
 ---
+aliases:
+  - LCI
 category: "Modern Incident"
 tags:
   - Event
@@ -7,8 +9,6 @@ tags:
   - RaceScience
   - HumanBiodiversity
   - AcademicFreedom
-alias:
-  - LCI
 summary: "The London Conference on Intelligence was a secret invitation-only eugenics conference held at University College London from 2014 to 2017, organized by James Thompson and dominated by figures tied to the Pioneer Fund and Mankind Quarterly, exposed in 2018 in a scandal that ended several academic careers."
 location: "London, England"
 created: 2026-06-19

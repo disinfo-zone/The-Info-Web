@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Gawker Media
+  - Gawker Media LLC
+  - Gawker Media Group
+  - Gawker Media Group, Inc.
+  - Gawker (website)
+  - Gawker.com
+  - Gawker
+  - Valleywag
+  - Kinja
+  - Gawker Hungary
 category: "Private Organization"
 tags:
   - Organization
@@ -11,17 +22,6 @@ tags:
   - Chapter11
   - LitigationFinance
   - Univision
-alias:
-  - Gawker Media
-  - Gawker Media LLC
-  - Gawker Media Group
-  - Gawker Media Group, Inc.
-  - Gawker (website)
-  - Gawker.com
-  - Gawker
-  - Valleywag
-  - Kinja
-  - Gawker Hungary
 summary: "New York online publisher of Gawker, Gizmodo and five other sites that filed Chapter 11 in June 2016 after a $140.1 million verdict in Bollea v. Gawker, a suit funded by Peter Thiel."
 location: "114 Fifth Avenue, New York City"
 relations:

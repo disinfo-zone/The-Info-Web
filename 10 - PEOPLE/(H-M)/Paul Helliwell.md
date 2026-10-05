@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Paul L.E. Helliwell
+  - Paul Lionel Edward Helliwell
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - SeaSupply
   - Proprietaries
   - Miami
-alias:
-  - Paul L.E. Helliwell
-  - Paul Lionel Edward Helliwell
 summary: "Miami lawyer and wartime OSS intelligence chief in China who set up the CIA front Sea Supply in 1951 and the Castle Bank in the Bahamas, and held Walt Disney's Florida land options."
 died: 1976-12-24
 location: "Miami, Florida"

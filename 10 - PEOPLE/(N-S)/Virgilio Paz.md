@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Virgilio Paz Romero
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - DINA
   - OrlandoLetelier
   - MichaelTownley
-alias:
-  - Virgilio Paz Romero
 summary: "Cuban Nationalist Movement member lent to DINA in 1975, who travelled with Michael Townley through Mexico and Europe, proposed the false Cuban claim for the Leighton shooting, and accompanied him to kill Orlando Letelier."
 location: "Union City, New Jersey"
 created: 2026-09-21

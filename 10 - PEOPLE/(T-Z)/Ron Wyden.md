@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Senator Ron Wyden
+  - Ronald Wyden
+  - Ronald Lee Wyden
 category: "Political Figure"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - SuspiciousActivityReports
   - Surveillance
   - Oregon
-alias:
-  - Senator Ron Wyden
-  - Ronald Wyden
-  - Ronald Lee Wyden
 summary: "Oregon Democratic senator since 1996 whose Senate Finance Committee staff investigated Leon Black's payments to Jeffrey Epstein and the banks that handled Epstein's money, from 2022 onward."
 born: 1949-05-03
 location: "Portland, Oregon"

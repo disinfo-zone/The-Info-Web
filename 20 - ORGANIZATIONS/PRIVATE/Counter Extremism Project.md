@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Counter Extremism Project
+  - CEP
+  - Counter Extremism Project United
+  - Counter Extremism Project United Inc
+  - CEPU
+  - The Green Light Project
+  - Green Light Project
 category: "Private Organization"
 tags:
   - Organization
@@ -11,14 +19,6 @@ tags:
   - HanyFarid
   - ContentModeration
   - PoliticalFinance
-alias:
-  - Counter Extremism Project
-  - CEP
-  - Counter Extremism Project United
-  - Counter Extremism Project United Inc
-  - CEPU
-  - The Green Light Project
-  - Green Light Project
 summary: "New York advocacy organisation launched in September 2014 by Mark Wallace, Frances Townsend and Joseph Lieberman on the model of United Against Nuclear Iran, whose 501(c)(4) granted millions to DonorsTrust and two charities."
 start: 2014-09-22
 location: "New York, United States"

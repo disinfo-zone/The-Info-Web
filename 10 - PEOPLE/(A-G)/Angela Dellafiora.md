@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Angela Dellafiora Ford
+  - Angela Ford
 category: "Psychics & Remote Viewers"
 tags:
   - Psi
@@ -10,9 +13,6 @@ summary: "INSCOM analyst who joined the DIA's remote-viewing unit at Fort Meade 
 created: 2026-05-14
 updated: 2026-09-21
 location: "Maryland, USA"
-alias:
-  - Angela Dellafiora Ford
-  - Angela Ford
 ---
 
 Angela Dellafiora, later known as Angela Ford after marriage, was a [[Defense Intelligence Agency]] (DIA) intelligence analyst based in Maryland. The DIA hired her in 1986 to participate in [[Stargate Project|Project STAR GATE]], the government's classified remote-viewing program, in which she worked for nine years.[^1]

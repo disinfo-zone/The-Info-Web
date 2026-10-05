@@ -1,4 +1,8 @@
 ---
+aliases:
+  - "FISC"
+  - "FISA Court"
+  - "FISA court"
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - FISACourt
   - Surveillance
   - NationalSecurity
-alias:
-  - "FISC"
-  - "FISA Court"
-  - "FISA court"
 summary: "Court of federal district judges designated by the Chief Justice under the Foreign Intelligence Surveillance Act of 1978 to hear government applications for foreign intelligence surveillance orders."
 start: 1978-10-25
 location: "Washington, D.C."

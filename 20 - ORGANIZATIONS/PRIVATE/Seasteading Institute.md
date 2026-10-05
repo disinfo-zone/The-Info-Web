@@ -1,4 +1,7 @@
 ---
+aliases:
+  - The Seasteading Institute
+  - TSI
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - Libertarianism
   - Offshore
   - FrenchPolynesia
-alias:
-  - The Seasteading Institute
-  - TSI
 summary: "The Seasteading Institute is a 501(c)(3) nonprofit cofounded in 2008 by Peter Thiel and Patri Friedman (grandson of economist Milton Friedman) to establish autonomous, sovereign floating cities on the ocean as a physical instantiation of the sovereign-individual thesis, which pursued a floating-city project in French Polynesia before the territorial government cut ties in 2018."
 location: "San Francisco, California"
 created: 2026-06-18

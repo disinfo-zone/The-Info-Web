@@ -1,4 +1,10 @@
 ---
+aliases:
+  - The Aviary
+  - Aviary
+  - the aviary
+  - The Birds
+  - the birds
 category: "UFO & Anomalous Phenomena"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - AFOSI
   - MJ12
   - 1980s
-alias:
-  - The Aviary
-  - Aviary
-  - the aviary
-  - The Birds
-  - the birds
 summary: "Name applied in UFO literature to the bird-named military and intelligence contacts who supplied UFO information to William L. Moore in the 1980s, and to a later roster published by Richard Boylan."
 created: 2026-10-02
 updated: 2026-10-03

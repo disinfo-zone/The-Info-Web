@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Anonymous (hacker group)
+  - Anonymous collective
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - LulzSec
   - Chanology
   - OperationPayback
-alias:
-  - Anonymous (hacker group)
-  - Anonymous collective
 summary: "Anonymous is a decentralized international hacktivist collective that originated on the 4chan imageboard in 2003, whose operations including Project Chanology (2008), Operation Payback (2010), and the LulzSec spin-off (2011) established the tactical repertoire of distributed online direct action that was later adopted by the alt-right and other political actors."
 start: 2003
 location: "Distributed (originated on 4chan)"

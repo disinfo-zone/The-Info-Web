@@ -1,4 +1,7 @@
 ---
+aliases:
+  - David Lee Chaum
+  - David Chaum
 category: "Technologists"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - DigiCash
   - Privacy
   - Cryptocurrency
-alias:
-  - David Lee Chaum
-  - David Chaum
 summary: "David Chaum is the American cryptographer who invented anonymous digital cash, devised the mix network and the blind signature, wrote a 1982 dissertation that anticipated the blockchain, and built the DigiCash eCash system whose 1998 bankruptcy left the cypherpunks to pursue trustless money."
 born: 1955
 location: "United States"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Stewart Brand
 category: "Authors & Journalists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Cyberculture
   - LongNow
   - Cybernetics
-alias:
-  - Stewart Brand
 summary: "Stewart Brand is the founder of the Whole Earth Catalog, the WELL, the Global Business Network, and the Long Now Foundation, the figure who carried 1960s counterculture into Silicon Valley tech-utopianism."
 born: 1938
 location: "California"

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Nick Beckstead
+  - Nicholas Beckstead
+  - Nicholas Michael Beckstead
+  - Dr Nicholas Michael Beckstead
 category: "Philanthropists & Benefactors"
 tags:
   - Person
@@ -12,11 +17,6 @@ tags:
   - SecureAIProject
   - Latona
   - WythamAbbey
-alias:
-  - Nick Beckstead
-  - Nicholas Beckstead
-  - Nicholas Michael Beckstead
-  - Dr Nicholas Michael Beckstead
 summary: "American philosopher, Open Philanthropy program officer and Effective Ventures director who ran the FTX Foundation and Future Fund, was sued and then dismissed by the FTX debtors, and co-founded Secure AI Project."
 born: 1985-03
 location: "San Francisco, California"

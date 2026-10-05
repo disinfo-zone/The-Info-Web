@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Breitbart News
+  - Breitbart
+  - Breitbart News Network
+  - Breitbart News Network LLC
+  - Breitbart News Network, LLC
+  - Breitbart.com
+  - Breitbart London
+  - Breitbart Jerusalem
+  - Breitbart Texas
 category: "Private Organization"
 tags:
   - Organization
@@ -9,16 +19,6 @@ tags:
   - SteveBannon
   - AltRight
   - SuperPAC
-alias:
-  - Breitbart News
-  - Breitbart
-  - Breitbart News Network
-  - Breitbart News Network LLC
-  - Breitbart News Network, LLC
-  - Breitbart.com
-  - Breitbart London
-  - Breitbart Jerusalem
-  - Breitbart Texas
 summary: "Los Angeles news website organized in 2011 as a Delaware company, with a reported ten million dollar Mercer investment that year and Steve Bannon as executive chairman from 2012 to January 2018."
 start: 2011
 location: "Los Angeles, California"

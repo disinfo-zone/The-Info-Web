@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ilya
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - ArtificialIntelligence
   - DeepLearning
   - AISafety
-alias:
-  - Ilya
 summary: "Ilya Sutskever is the deep-learning researcher who co-built AlexNet under Geoffrey Hinton, cofounded OpenAI as its chief scientist, voted to remove and then reinstate Sam Altman in the November 2023 board crisis, and left in May 2024 to cofound Safe Superintelligence."
 born: 1986-12-08
 location: "Palo Alto, California"

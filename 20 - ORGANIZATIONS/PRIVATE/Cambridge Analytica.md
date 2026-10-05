@@ -1,17 +1,5 @@
 ---
-category: "Private Organization"
-tags:
-  - Organization
-  - CambridgeAnalytica
-  - SCLGroup
-  - Emerdata
-  - RobertMercer
-  - SteveBannon
-  - FacebookData
-  - PoliticalConsulting
-  - UKInformationCommissioner
-  - TrumpCampaign
-alias:
+aliases:
   - Cambridge Analytica
   - Cambridge Analytica LLC
   - Cambridge Analytica Ltd
@@ -28,6 +16,18 @@ alias:
   - Emerdata
   - Emerdata Limited
   - Facebook-Cambridge Analytica data scandal
+category: "Private Organization"
+tags:
+  - Organization
+  - CambridgeAnalytica
+  - SCLGroup
+  - Emerdata
+  - RobertMercer
+  - SteveBannon
+  - FacebookData
+  - PoliticalConsulting
+  - UKInformationCommissioner
+  - TrumpCampaign
 summary: "Delaware political data company formed in December 2013 within the British SCL Group, with Robert Mercer as investor, paid $5.9 million by the Trump campaign and in Chapter 7 bankruptcy proceedings from May 2018."
 start: 2013-12
 end: 2018-05-17

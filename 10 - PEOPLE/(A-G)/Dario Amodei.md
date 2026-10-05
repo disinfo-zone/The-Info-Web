@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dario Amodei
 category: "Technologists"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - AISafety
   - EffectiveAltruism
   - OpenAI
-alias:
-  - Dario Amodei
 summary: "Dario Amodei is the cofounder and chief executive of Anthropic, a physicist and computational neuroscientist who led GPT-2 and GPT-3 as OpenAI's vice president of research before leaving in 2020 with a group of colleagues to build a rival AI lab."
 born: 1983
 location: "San Francisco, California"

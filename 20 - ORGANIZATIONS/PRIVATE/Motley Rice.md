@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Motley Rice
+  - Motley Rice LLC
 category: "Private Organization"
 tags:
   - Organization
@@ -10,9 +13,6 @@ tags:
   - ProjectJeep
   - TobaccoLitigation
   - MassTort
-alias:
-  - Motley Rice
-  - Motley Rice LLC
 summary: "Mount Pleasant, South Carolina plaintiffs' firm of the 1998 tobacco settlement negotiators, contingency counsel to the Virgin Islands against Epstein's estate and JPMorgan Chase, which took more than 43 million dollars in fees."
 start: 2003-04
 location: "Mount Pleasant, South Carolina"

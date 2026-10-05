@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Argent Trust Company
+  - Argent Trust
+  - Argent Financial Group
+  - Argent Financial Group, Inc.
 category: "Organizations"
 tags:
   - Organization
@@ -7,11 +12,6 @@ tags:
   - ERISA
   - Radiance
   - HuntsvilleAlabama
-alias:
-  - Argent Trust Company
-  - Argent Trust
-  - Argent Financial Group
-  - Argent Financial Group, Inc.
 summary: "Trustee of the Radiance Technologies employee stock ownership trust under an agreement dated September 5, 2017, and a defendant, with Argent Financial Group and Stephen A. Martin, in Berry v. Bailey."
 relations:
   - type: contractor_to

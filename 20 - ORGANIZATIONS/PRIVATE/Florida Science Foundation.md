@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Florida Science Foundation
+  - FL Science Foundation
+  - The Florida Science Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - WorkRelease
   - PalmBeach
   - Foundation
-alias:
-  - Florida Science Foundation
-  - FL Science Foundation
-  - The Florida Science Foundation
 summary: "Entity created by Jeffrey Epstein in late 2007 and housed at his lawyer's West Palm Beach office, where he spent his 2008 to 2009 work release under paid sheriff's deputies."
 start: 2007-11
 location: "West Palm Beach, Florida"

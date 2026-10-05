@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Donald West VanArtsdalen
+  - Donald W. VanArtsdalen
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - FederalJudiciary
   - BucksCounty
   - RCHorsch
-alias:
-  - Donald West VanArtsdalen
-  - Donald W. VanArtsdalen
 summary: "Bucks County prosecutor and federal judge in the Eastern District of Pennsylvania from 1970 who added a year and a day to R.C. Horsch's 1985 sentence for bail-jumping."
 born: 1919-10-21
 died: 2019-05-21

@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Terje Rød-Larsen
+  - Terje Rod-Larsen
+  - Terje Roed-Larsen
+  - Terje Rød Larsen
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - InternationalPeaceInstitute
   - UnitedNations
   - JeffreyEpstein
-alias:
-  - Terje Rød-Larsen
-  - Terje Rod-Larsen
-  - Terje Roed-Larsen
-  - Terje Rød Larsen
 summary: "Terje Rød-Larsen is the Norwegian sociologist and diplomat who helped open the Oslo channel, led the International Peace Institute until 2020, and borrowed 130,000 dollars from Jeffrey Epstein in 2013."
 born: 1947-11-22
 location: "Oslo, Norway; New York, New York"

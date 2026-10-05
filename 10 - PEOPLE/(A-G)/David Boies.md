@@ -1,4 +1,7 @@
 ---
+aliases:
+  - David Boies
+  - David Boies Jr.
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - EhudBarak
   - VirginiaGiuffre
   - JeffreyEpstein
-alias:
-  - David Boies
-  - David Boies Jr.
 summary: "David Boies is the American trial lawyer and founder of Boies Schiller Flexner who contracted the Israeli firm Black Cube for Harvey Weinstein and represented Epstein accuser Virginia Giuffre."
 born: 1941-03-11
 location: "Sycamore, Illinois (born); New York, New York"

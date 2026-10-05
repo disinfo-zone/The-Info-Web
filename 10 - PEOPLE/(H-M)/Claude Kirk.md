@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Claude R. Kirk Jr.
+  - Governor Kirk
 category: "Political Figure"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - PrivatePolice
   - OrganizedCrime
   - RepublicanParty
-alias:
-  - Claude R. Kirk Jr.
-  - Governor Kirk
 summary: "Governor of Florida from 1967 to 1971 who put George Wackenhut and his company's detectives in charge of a war on crime paid for by private donors, which the FBI refused to recognize."
 location: "Tallahassee, Florida"
 created: 2026-09-21

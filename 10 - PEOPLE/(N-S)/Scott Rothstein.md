@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Scott Rothstein
+  - Scott W. Rothstein
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -10,9 +13,6 @@ tags:
   - JeffreyEpstein
   - BradleyEdwards
   - Conviction
-alias:
-  - Scott Rothstein
-  - Scott W. Rothstein
 summary: "Disbarred Fort Lauderdale lawyer who ran a 1.2 billion dollar Ponzi scheme through his firm, including sham investments in legal settlements, and whom Jeffrey Epstein sued in 2009 alongside Bradley Edwards."
 location: "Fort Lauderdale, Florida"
 relations:

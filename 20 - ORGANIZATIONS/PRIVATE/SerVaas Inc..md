@@ -1,4 +1,8 @@
 ---
+aliases:
+  - SerVaas Incorporated
+  - Servaas Inc.
+  - SerVaas
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - ArmsToIraq
   - Indianapolis
   - HenryGonzalez
-alias:
-  - SerVaas Incorporated
-  - Servaas Inc.
-  - SerVaas
 summary: "Indianapolis company that sold Iraq a 40 million dollar brass recycling plant financed by BNL Atlanta, which its owner told Congress was for commercial products and Iraqi documents assigned to cartridge cases and artillery fuses."
 location: "Indianapolis, Indiana"
 created: 2026-09-21

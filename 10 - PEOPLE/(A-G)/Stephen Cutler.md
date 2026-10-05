@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Stephen M. Cutler
+  - Steve Cutler
+  - Steven Cutler
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - JeffreyEpstein
   - Enron
   - Banking
-alias:
-  - Stephen M. Cutler
-  - Steve Cutler
-  - Steven Cutler
 summary: "American lawyer who ran SEC enforcement, including the 2003 Enron case against JPMorgan Chase, then became JPMorgan's general counsel from 2007 to 2015 while the bank kept Jeffrey Epstein as a client."
 location: "Washington, D.C."
 relations:

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Hyperion Air, Inc.
+  - Hyperion Air Inc.
+  - Hyperion Air Inc
+  - Hyperion Air, LLC
+  - Hyperion Air LLC
+  - Hyperion Inc
 category: "Private Organization"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - VirginIslands
   - Delaware
   - CashTransactions
-alias:
-  - Hyperion Air, Inc.
-  - Hyperion Air Inc.
-  - Hyperion Air Inc
-  - Hyperion Air, LLC
-  - Hyperion Air LLC
-  - Hyperion Inc
 summary: "Two Jeffrey Epstein aircraft companies: a Delaware corporation that held his Gulfstream N909JE from 1994 and a St. Thomas LLC, formed in 2012, that held his helicopters."
 start: 1994
 location: "Wilmington, Delaware; St. Thomas, U.S. Virgin Islands"

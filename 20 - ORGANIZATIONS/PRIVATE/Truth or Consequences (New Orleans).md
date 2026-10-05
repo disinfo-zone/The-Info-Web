@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Truth or Consequences
+  - Truth and Consequences
 category: "Private Organization"
 tags:
   - Organization
@@ -7,9 +10,6 @@ tags:
   - ClayShaw
   - NewOrleans
   - PrivateFunding
-alias:
-  - Truth or Consequences
-  - Truth and Consequences
 summary: "Private fund formed by three New Orleans businessmen in February 1967 to pay for Jim Garrison's Kennedy investigation, whose money a federal court found came in on Shaw's arrest and stopped on his acquittal."
 start: 1967-02
 location: "New Orleans, Louisiana"

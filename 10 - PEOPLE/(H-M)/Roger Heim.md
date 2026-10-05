@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Roger Jean Heim
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -6,7 +8,6 @@ tags:
   - Psilocybin
   - Ethnomycology
   - France
-alias: Roger Jean Heim
 summary: "French mycologist and director of the Paris natural history museum who identified the sacred mushrooms of Mexico as Psilocybe species, cultivated them in his laboratory, and supplied the material from which Albert Hofmann isolated psilocybin, on the same 1956 Wasson expedition that the CIA had infiltrated through MKULTRA Subproject 58."
 born: 1900-02-12
 died: 1979-09-17

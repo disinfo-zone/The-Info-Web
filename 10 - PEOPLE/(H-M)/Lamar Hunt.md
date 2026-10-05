@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Lamar Hunt Sr.
 category: "Business & Finance"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - JackRuby
   - SilverThursday
   - KansasCityChiefs
-alias:
-  - Lamar Hunt Sr.
 summary: "Youngest son of H.L. Hunt's first family and founder of the American Football League, whose Dallas office Jack Ruby drove a job applicant to on November 21, 1963, and whose name was in Ruby's notebook."
 born: 1932-08-02
 died: 2006-12-13

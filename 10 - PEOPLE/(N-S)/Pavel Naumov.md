@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Pavel Naumov
+  - Dr. Pavel Naumov
+  - P. Naumov
+  - Pavel Naumov (psychologist)
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,11 +12,6 @@ tags:
   - Telepathy
   - Moscow
   - Submarine
-alias:
-  - Pavel Naumov
-  - Dr. Pavel Naumov
-  - P. Naumov
-  - Pavel Naumov (psychologist)
 summary: "Moscow psychologist who in 1968 reported telepathic communication between mothers and infants in a gynecological clinic, and to whom a 1975 DIA study attributed a submarine rabbit experiment that Western accounts credit to Edward Naumov."
 location: "Moscow, Soviet Union"
 relations:

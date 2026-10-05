@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Peter Diamandis
+  - Peter H. Diamandis
+  - Peter H Diamandis
+  - Peter Diamandis, MD
+  - Dr. Peter Diamandis
 category: "Technologists"
 tags:
   - Person
@@ -7,12 +13,6 @@ tags:
   - VentureCapital
   - SpaceIndustry
   - Transhumanism
-alias:
-  - Peter Diamandis
-  - Peter H. Diamandis
-  - Peter H Diamandis
-  - Peter Diamandis, MD
-  - Dr. Peter Diamandis
 summary: "Founder and chairman of the XPRIZE Foundation, described in his biographies as co-founder of Singularity University, BOLD Capital Partners and Human Longevity; director of Planetary Resources and Celularity; emailed by Epstein's office in 2013."
 location: "Santa Monica, California"
 relations:

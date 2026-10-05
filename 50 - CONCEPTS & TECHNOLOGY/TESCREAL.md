@@ -1,4 +1,7 @@
 ---
+aliases:
+  - TESCREALism
+  - TESCREAL bundle
 category: "Ideology"
 tags:
   - Concept
@@ -8,9 +11,6 @@ tags:
   - Longtermism
   - Eugenics
   - ArtificialIntelligence
-alias:
-  - TESCREALism
-  - TESCREAL bundle
 summary: "TESCREAL is an acronym coined by Émile Torres and Timnit Gebru for a bundle of seven overlapping ideologies, transhumanism, extropianism, singularitarianism, cosmism, rationalism, effective altruism, and longtermism, that they argue share roots in twentieth-century eugenics and together drive the race to build artificial general intelligence."
 location: "United States"
 created: 2026-06-20

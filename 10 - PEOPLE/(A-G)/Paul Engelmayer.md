@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Paul A. Engelmayer
+  - Paul Adam Engelmayer
+  - Paul Engelmayer
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - EpsteinFilesTransparencyAct
   - GrandJury
   - TreasuryDepartment
-alias:
-  - Paul A. Engelmayer
-  - Paul Adam Engelmayer
-  - Paul Engelmayer
 summary: "Manhattan federal judge and former Thurgood Marshall clerk and Major Crimes chief who inherited Ghislaine Maxwell's closed criminal case and ruled on its grand jury record under the Epstein Files Transparency Act."
 born: 1961
 location: "New York, New York"

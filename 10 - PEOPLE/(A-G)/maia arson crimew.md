@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Tillie Kottmann
+  - crimew
+  - maia arson crimew
 category: "Technologists"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - Verkada
   - NoFlyList
   - APT69420
-alias:
-  - Tillie Kottmann
-  - crimew
-  - maia arson crimew
 summary: "maia arson crimew (formerly Tillie Kottmann) is a Swiss hacker from Lucerne who led the collective APT69420, leaked the U.S. No Fly List in January 2023 from a misconfigured CommuteAir server, and in June 2026 published the membership directory of Peter Thiel's secret Dialog society."
 born: 2000-08-19
 location: "Lucerne, Switzerland"

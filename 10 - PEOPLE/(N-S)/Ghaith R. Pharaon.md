@@ -1,7 +1,7 @@
 ---
-category: "Business & Finance"
-alias:
+aliases:
   - "Ghaith Pharaon"
+category: "Business & Finance"
 tags:
   - Person
   - BCCI

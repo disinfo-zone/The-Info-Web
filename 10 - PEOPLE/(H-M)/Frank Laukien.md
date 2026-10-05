@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Frank H. Laukien
+  - Frank Laukien, Ph.D.
+  - Frank Hartmut Laukien
+  - Laukien, Frank
 category: "Business & Finance"
 tags:
   - Person
@@ -6,11 +11,6 @@ tags:
   - Science
   - Philanthropy
   - Harvard
-alias:
-  - Frank H. Laukien
-  - Frank Laukien, Ph.D.
-  - Frank Hartmut Laukien
-  - Laukien, Frank
 summary: "Frank Laukien has been chairman, president and chief executive of Bruker Corporation since February 1991 and is its largest stockholder; he co-founded the Galileo Project with Avi Loeb in 2021."
 location: "Billerica, Massachusetts"
 relations:

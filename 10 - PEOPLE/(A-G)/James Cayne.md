@@ -1,4 +1,9 @@
 ---
+aliases:
+  - James Cayne
+  - James E. Cayne
+  - James Eliot Cayne
+  - Jimmy Cayne
 category: "Business & Finance"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - FinancialTrustCompany
   - WallStreet
   - Bridge
-alias:
-  - James Cayne
-  - James E. Cayne
-  - James Eliot Cayne
-  - Jimmy Cayne
 summary: "Bear Stearns chief executive from 1993 to 2008 who mentored Jeffrey Epstein at the firm, was named a co-executor in a codicil to Epstein's will, and told him in 2007 to 'hold tight.'"
 born: 1934-02-14
 died: 2021-12-28

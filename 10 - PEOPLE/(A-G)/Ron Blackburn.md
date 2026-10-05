@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Ron Blackburn
+  - Ronald Blackburn
+  - Dr. Ron Blackburn
+  - Colonel Ron Blackburn
 category: "Military"
 tags:
   - Person
@@ -7,11 +12,6 @@ tags:
   - AirForce
   - ATP
   - 1980s
-alias:
-  - Ron Blackburn
-  - Ronald Blackburn
-  - Dr. Ron Blackburn
-  - Colonel Ron Blackburn
 summary: "Retired Air Force lieutenant colonel at Lockheed in Burbank whom John B. Alexander named as co-founder of the 1985 Advanced Theoretical Physics group, and who appears in contemporaneous notes of its meetings."
 relations:
   - type: employed_by

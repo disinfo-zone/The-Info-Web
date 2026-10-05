@@ -1,4 +1,8 @@
 ---
+aliases:
+  - SORO
+  - Special Operations Research Office
+  - Center for Research in Social Systems
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - ColdWar
   - ProjectCamelot
   - AmericanUniversity
-alias:
-  - SORO
-  - Special Operations Research Office
-  - Center for Research in Social Systems
 summary: "Army-funded counterinsurgency and psychological-warfare research center at American University, founded in 1956 as the Special Operations Research Office (SORO), which ran Project Camelot and was renamed CRESS in 1966."
 start: 1956
 location: Washington, D.C.

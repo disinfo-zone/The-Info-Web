@@ -1,4 +1,6 @@
 ---
+aliases:
+  - CFAR
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - MIRI
   - ArtificialIntelligence
   - EffectiveAltruism
-alias:
-  - CFAR
 summary: "The Center for Applied Rationality is a Berkeley nonprofit spun off from the Machine Intelligence Research Institute in 2012 to teach rationality techniques through residential workshops, which served as a recruitment funnel for AI-safety work and whose 2019 alumni reunion was protested by the group that became the Zizians."
 location: "Berkeley, California"
 created: 2026-06-19

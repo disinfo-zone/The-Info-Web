@@ -1,12 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
-tags:
-  - Organization
-  - UAP
-  - PrivateSector
-  - Psionics
-  - AirDomainAwareness
-alias:
+aliases:
   - Sky Watcher
   - Skywatcher
   - SkyWatcher
@@ -14,6 +7,13 @@ alias:
   - SkywatcherHQ
   - Skywatcher Team
   - Skywatcher Technologies
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Organization
+  - UAP
+  - PrivateSector
+  - Psionics
+  - AirDomainAwareness
 summary: "Private UAP detection group announced in January 2025 by Jake Barber, James Fowler and Alex Klokus, which reported 'dog whistle' and psionic summoning operations at Sierra Blanca, Texas, and stopped posting in December 2025."
 location: "Sierra Blanca, Texas"
 relations:

@@ -1,7 +1,8 @@
 ---
+aliases:
+  - "Jean-Luc Brunel"
 category: "Criminals & Offenders"
 tags: [AbuseNetworks, Person, JeanLucBrunel, JeffreyEpstein, MC2ModelManagement, KarinModels, Modeling, SexTrafficking, France]
-alias: ["Jean-Luc Brunel"]
 summary: "French modeling agent who founded MC2 Model Management with Jeffrey Epstein's money, was placed under investigation in Paris in 2020 for raping minors, and died in La Santé Prison in 2022."
 born: 1946-09-18
 died: 2022-02-19

@@ -1,11 +1,11 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - Main Intelligence Directorate
   - Main Intelligence Directorate (Russia)
   - Glavnoye Razvedyvatelnoye Upravleniye
   - Russian Military Intelligence
   - Soviet Military Intelligence
+category: "Intelligence & Government"
 tags:
   - Organization
   - Russia
@@ -61,7 +61,7 @@ In March 2018 [[Sergei Skripal]] and his daughter [[Yulia Skripal|Yulia]] were p
 
 On September 21, 2021, the Home Secretary, [[Priti Patel]], told Parliament that the police could now evidence that Petrov and Boshirov were aliases for [[Alexander Mishkin]] and [[Anatoliy Chepiga]], "both members of the GRU," and that the [[Crown Prosecution Service]] had authorized charges against a third man, known as Sergey Fedotov, who had flown from Moscow to [[Heathrow Airport|Heathrow]], stayed at a central London hotel from March 2 to 4, 2018, and met the other two more than once. Fedotov was [[Denis Sergeev]], "also a member of the GRU," and "all 3 individuals previously worked together for the GRU as part of additional operations outside Russia." On the same day the [[European Court of Human Rights]] ruled that Russia was responsible for the assassination of [[Alexander Litvinenko]].[^4]
 
-### [[Unit 29155]] and [[WhisperGate]]
+### Unit 29155 and WhisperGate
 
 On September 5, 2024, the Justice Department unsealed an indictment returned in [[Maryland]] against five officers of GRU Unit 29155 and one civilian, [[Amin Sitgal]]. The officers were Colonel [[Yuriy Denisov]], "a commanding officer of Cyber Operations for Unit 29155," and Lieutenants [[Vladislav Borovkov]], [[Denis Denisenko]], [[Dmitriy Goloshubov]] and [[Nikolay Korchagin]]. On January 13, 2022, according to the indictment, they used the services of a United States company to distribute the malware known as WhisperGate, "designed to look like ransomware," to dozens of Ukrainian government systems, including the Ministry of Internal Affairs, the State Treasury, the Judiciary Administration and the Ministry of Energy, when "WhisperGate was actually a cyberweapon designed to completely destroy the target computer and related data in advance of the Russian invasion of Ukraine." They exfiltrated data including patient health records, defaced websites to read "Ukrainians! All information about you has become public, be afraid and expect the worst," and offered the stolen data for sale the same day.[^2]
 

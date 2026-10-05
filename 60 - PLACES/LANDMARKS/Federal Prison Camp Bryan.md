@@ -1,4 +1,8 @@
 ---
+aliases:
+  - FPC Bryan
+  - Bryan Federal Prison Camp
+  - Federal Prison Camp (FPC) Bryan
 category: "Landmark"
 tags:
   - Place
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - Texas
   - CongressionalOversight
-alias:
-  - FPC Bryan
-  - Bryan Federal Prison Camp
-  - Federal Prison Camp (FPC) Bryan
 summary: "Minimum-security federal prison camp in Bryan, Texas, to which Ghislaine Maxwell was moved in August 2025 after her Justice Department interview, drawing congressional inquiries into the transfer and her treatment."
 location: "1100 Ursuline Avenue, Bryan, Texas"
 created: 2026-09-25

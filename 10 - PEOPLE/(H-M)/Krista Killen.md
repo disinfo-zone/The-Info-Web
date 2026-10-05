@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Krista Marie Killen
+  - Krista M. Killen
 category: "Other"
 tags:
   - AbuseNetworks
@@ -6,9 +9,6 @@ tags:
   - RCHorsch
   - OlneyHouseInvestigation
   - Kensington
-alias:
-  - Krista Marie Killen
-  - Krista M. Killen
 summary: "Longtime companion of the Philadelphia pornographer R.C. Horsch who appeared in his films from 2003 and lived at the Olney house from 2016 until her death in 2025."
 born: 1978-06-15
 died: 2025-08-16

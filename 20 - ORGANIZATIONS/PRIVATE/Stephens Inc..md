@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Stephens Inc
+  - Stephens, Inc.
+  - W.R. Stephens Investment Company
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - Walmart
   - BCCI
   - Newspapers
-alias:
-  - Stephens Inc
-  - Stephens, Inc.
-  - W.R. Stephens Investment Company
 summary: "Little Rock investment bank of the Stephens family, underwriter of Walmart and most Arkansas bonds, whose officers bought Financial General Bankshares stock for BCCI's clients in 1977 and whose Washington office housed John Huang."
 start: 1933
 location: "Little Rock, Arkansas"

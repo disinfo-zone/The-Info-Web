@@ -1,4 +1,8 @@
 ---
+aliases:
+  - René Schneider
+  - René Schneider Chereau
+  - General Schneider
 category: "Military"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - CIA
   - Assassination
   - HenryKissinger
-alias:
-  - René Schneider
-  - René Schneider Chereau
-  - General Schneider
 summary: "Commander of the Chilean army who held that the military must respect the 1970 election and was shot on October 22, 1970, by officers whom the CIA had paid, armed, and encouraged to kidnap him."
 died: 1970-10-25
 location: "Santiago, Chile"

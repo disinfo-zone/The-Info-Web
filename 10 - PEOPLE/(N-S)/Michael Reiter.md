@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Chief Michael Reiter
+  - Michael S. Reiter
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - PalmBeachPoliceDepartment
   - Police
   - NonProsecutionAgreement
-alias:
-  - Chief Michael Reiter
-  - Michael S. Reiter
 summary: "Michael Reiter was the Palm Beach police chief from 2001 to 2009 who opened the 2005 Epstein investigation, sought the State Attorney's disqualification, and referred the case to the FBI."
 location: "Palm Beach, Florida"
 relations:

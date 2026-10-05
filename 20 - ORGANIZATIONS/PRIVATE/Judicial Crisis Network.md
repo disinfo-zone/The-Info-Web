@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Judicial Crisis Network
+  - JCN
+  - Concord Fund
+  - The Concord Fund
+  - Judicial Confirmation Network
 category: "Private Organization"
 tags:
   - Organization
@@ -11,12 +17,6 @@ tags:
   - WellspringCommittee
   - SupremeCourt
   - Section501c4
-alias:
-  - Judicial Crisis Network
-  - JCN
-  - Concord Fund
-  - The Concord Fund
-  - Judicial Confirmation Network
 summary: "Virginia 501(c)(4) incorporated in December 2004 as the Judicial Confirmation Network, which ran advertising for Supreme Court nominations on anonymous donations and Marble Freedom Trust grants until its termination on January 6, 2026."
 start: 2004-12
 end: 2026-01-06

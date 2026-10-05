@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Survival Evasion Resistance Escape
+  - Survival Evasion Resistance and Escape
 category: "Government Program"
 tags:
   - Program
@@ -8,7 +11,6 @@ tags:
   - USArmy
   - USNavy
   - ColdWar
-alias: Survival Evasion Resistance Escape, Survival Evasion Resistance and Escape
 summary: "A US military training program developed after the Korean War to prepare service members to resist coercive interrogation through simulated captivity, which became the template for 'enhanced interrogation' techniques after its methods were reverse-engineered for offensive use following September 11, 2001."
 created: 2026-06-04
 updated: 2026-06-04

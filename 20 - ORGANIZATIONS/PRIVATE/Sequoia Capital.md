@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Sequoia Capital
+  - Sequoia
+  - Sequoia Capital Operations, LLC
+  - Sequoia Capital Operations
+  - Sequoia Capital Fund
+  - Sequoia Capital U.S./Europe
 category: "Private Organization"
 tags:
   - Organization
@@ -12,13 +19,6 @@ tags:
   - CaymanIslands
   - PoliticalDonor
   - RevolvingDoor
-alias:
-  - Sequoia Capital
-  - Sequoia
-  - Sequoia Capital Operations, LLC
-  - Sequoia Capital Operations
-  - Sequoia Capital Fund
-  - Sequoia Capital U.S./Europe
 summary: "Menlo Park venture capital firm founded by Don Valentine in 1972, early investor in Apple, Cisco, PayPal, Square and FTX, which separated from its China and India affiliates in 2023 and 2024."
 start: 1972
 location: "2800 Sand Hill Road, Menlo Park, California"

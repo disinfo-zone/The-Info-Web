@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Gregory Bateson
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - SystemsTheory
   - DoubleBind
   - HumanPotentialMovement
-alias:
-  - Gregory Bateson
 summary: "Gregory Bateson was the English anthropologist and systems thinker who studied Balinese and Iatmul culture, helped found cybernetics at the Macy Conferences, formulated the double-bind theory of schizophrenia, and spent his last years at the Esalen Institute."
 born: 1904-05-09
 died: 1980-07-04

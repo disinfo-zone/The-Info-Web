@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Paul Bennewitz
+  - Paul F. Bennewitz
+  - Paul Frederick Bennewitz
+  - Paul Fredrick Bennewitz
+  - Dr. Paul Bennewitz
+  - Dr. Paul F. Bennewitz
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -9,13 +16,6 @@ tags:
   - Disinformation
   - Dulce
   - APRO
-alias:
-  - Paul Bennewitz
-  - Paul F. Bennewitz
-  - Paul Frederick Bennewitz
-  - Paul Fredrick Bennewitz
-  - Dr. Paul Bennewitz
-  - Dr. Paul F. Bennewitz
 summary: "Albuquerque instrument maker whose 1979 and 1980 films and radio recordings near Kirtland AFB led to AFOSI interviews, calls from two senators, and the disinformation operation Richard Doty described in 2005."
 born: 1927-09-30
 location: "Albuquerque, New Mexico"

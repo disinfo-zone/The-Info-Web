@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Price Waterhouse (UK)
+  - PW
 category: "Private Organization"
 tags:
   - Organization
   - Accounting
   - Audit
   - BCCI
-alias:
-  - Price Waterhouse (UK)
-  - PW
 summary: "Accounting firm whose British partnership audited BCCI's Cayman bank for fifteen years and its consolidated accounts from 1987, and whose 1991 Sandstorm Report preceded the bank's closure."
 location: "London, United Kingdom"
 relations:

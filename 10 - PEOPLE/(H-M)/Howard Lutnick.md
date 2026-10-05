@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Howard Lutnick
+  - Howard W. Lutnick
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JeffreyEpstein
   - TrumpAdministration
   - Finance
-alias:
-  - Howard Lutnick
-  - Howard W. Lutnick
 summary: "Howard Lutnick is the Cantor Fitzgerald chairman and U.S. Secretary of Commerce who bought a house Jeffrey Epstein had sold, co-invested with him in Adfin, and told the press their contact ended in 2005."
 born: 1961-07-14
 location: "New York, New York"

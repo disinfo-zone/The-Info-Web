@@ -1,4 +1,11 @@
 ---
+aliases:
+  - United States Virgin Islands
+  - USVI
+  - US Virgin Islands
+  - U.S.V.I.
+  - Virgin Islands of the United States
+  - Danish West Indies
 category: "Region"
 tags:
   - Place
@@ -8,13 +15,6 @@ tags:
   - TaxHaven
   - JeffreyEpstein
   - DanishWestIndies
-alias:
-  - United States Virgin Islands
-  - USVI
-  - US Virgin Islands
-  - U.S.V.I.
-  - Virgin Islands of the United States
-  - Danish West Indies
 summary: "Unincorporated U.S. territory in the Caribbean bought from Denmark in 1917, where Jeffrey Epstein kept his islands, companies, tax exemptions and sex-offender registration from 1998 until his death."
 start: 1917-03-31
 location: "Caribbean"

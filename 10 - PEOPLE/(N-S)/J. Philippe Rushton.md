@@ -1,4 +1,7 @@
 ---
+aliases:
+  - John Philippe Rushton
+  - Jean-Philippe Rushton
 category: "Scientists & Researchers"
 tags:
   - NewRight
@@ -8,9 +11,6 @@ tags:
   - Eugenics
   - HumanBiodiversity
   - Psychology
-alias:
-  - John Philippe Rushton
-  - Jean-Philippe Rushton
 summary: "J. Philippe Rushton was a British-Canadian psychologist at the University of Western Ontario and president of the Pioneer Fund whose book Race, Evolution, and Behavior applied r/K selection theory to claim a racial hierarchy of intelligence and behavior, work the scientific community condemned as racist and methodologically flawed."
 born: 1943-12-03
 died: 2012-10-02

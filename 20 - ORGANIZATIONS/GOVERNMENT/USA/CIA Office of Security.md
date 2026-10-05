@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Office of Security
+  - CIA Office of Security
 category: "U.S. Government"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - AssassinationPlots
   - YuriNosenko
   - MailOpening
-alias:
-  - Office of Security
-  - CIA Office of Security
 summary: "CIA support component that cleared employees and contractors and, by its own 1973 accounting, hired the Mafia against Castro, tapped newsmen, opened Soviet mail, penetrated Washington dissident groups, and watched reporters for the director."
 location: "Langley, Virginia"
 created: 2026-09-21

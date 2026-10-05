@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Harken Energy Corporation
+  - Harken Energy Corp.
+  - Harken
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - Bahrain
   - GeorgeWBush
   - HarkenEnergy
-alias:
-  - Harken Energy Corporation
-  - Harken Energy Corp.
-  - Harken
 summary: "Texas oil company, with George W. Bush as director and consultant, that won an exclusive Bahrain offshore concession in January 1990 while a Saudi investor held about 11 percent of its stock."
 start: 1973
 location: "Grand Prairie, Texas, USA"

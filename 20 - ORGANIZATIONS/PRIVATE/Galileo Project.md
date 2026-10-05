@@ -1,4 +1,9 @@
 ---
+aliases:
+  - The Galileo Project
+  - Galileo Project at Harvard
+  - Galileo Project for the Systematic Scientific Search for Evidence of Extraterrestrial Technological Artifacts
+  - Project Galileo (Harvard)
 category: "UFO & Anomalous Phenomena"
 tags:
   - Project
@@ -6,11 +11,6 @@ tags:
   - Astronomy
   - Harvard
   - PrivateFunding
-alias:
-  - The Galileo Project
-  - Galileo Project at Harvard
-  - Galileo Project for the Systematic Scientific Search for Evidence of Extraterrestrial Technological Artifacts
-  - Project Galileo (Harvard)
 summary: "The Galileo Project is a Harvard-hosted, privately funded research program announced July 26, 2021 by Avi Loeb and Frank Laukien to search for extraterrestrial technological artifacts and study unidentified aerial phenomena with its own instruments."
 location: "Cambridge, Massachusetts"
 start: 2021-07-26

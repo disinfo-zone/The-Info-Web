@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nadia Marcinko
+  - Global Girl
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -8,9 +11,6 @@ tags:
   - NonProsecutionAgreement
   - Immunity
   - Aviation
-alias:
-  - Nadia Marcinko
-  - Global Girl
 summary: "Companion of Jeffrey Epstein named and immunized as a potential co-conspirator in his 2007 non-prosecution agreement, never charged, later a commercial pilot and founder of the aviation company Aviloop."
 location: "New York, New York"
 relations:

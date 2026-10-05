@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Walter Levy
+  - Walter J. Levy
+  - Walter J. Levy Jr.
+  - Walter Jay Levy
+  - W. J. Levy
+  - W. Jay Levy
+  - Jay Levy
+  - Levy
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -9,15 +18,6 @@ tags:
   - Rhine
   - AnimalPsi
   - 1970s
-alias:
-  - Walter Levy
-  - Walter J. Levy
-  - Walter J. Levy Jr.
-  - Walter Jay Levy
-  - W. J. Levy
-  - W. Jay Levy
-  - Jay Levy
-  - Levy
 summary: "Director of J. B. Rhine's Institute for Parapsychology in Durham who resigned in June 1974 after colleagues recorded him altering the output of rat and gerbil psi experiments."
 location: "Durham, North Carolina"
 relations:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Blake Gates Masters
 category: "Business & Finance"
 tags:
   - NewRight
@@ -10,8 +12,6 @@ tags:
   - Arizona
   - RepublicanParty
   - Senate
-alias:
-  - Blake Gates Masters
 summary: "Blake Masters is an American venture capitalist and author who served as chief operating officer of Thiel Capital and president of the Thiel Foundation, coauthored Zero to One with Peter Thiel in 2014, and was the 2022 Republican nominee for U.S. Senate from Arizona, backed by Thiel's super PAC spending."
 born: 1986-08-18
 location: "Arizona (political base)"

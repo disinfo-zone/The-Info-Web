@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Loretta A. Preska
+  - Judge Loretta Preska
+  - Loretta Preska
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - Unsealing
   - JeffreyEpstein
   - Stratfor
-alias:
-  - Loretta A. Preska
-  - Judge Loretta Preska
-  - Loretta Preska
 summary: "Manhattan federal judge appointed by George H.W. Bush, chief judge from 2009 to 2016, who inherited the sealed Giuffre v. Maxwell record in 2019 and managed its unsealing through 2026."
 born: 1949
 location: "Albany, New York (born)"

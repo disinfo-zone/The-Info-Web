@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Boies Schiller Flexner
+  - Boies Schiller Flexner LLP
+  - Boies Schiller & Flexner LLP
+  - Boies, Schiller & Flexner
+  - Boies Schiller
 category: "Private Organization"
 tags:
   - Organization
@@ -10,12 +16,6 @@ tags:
   - VirginiaGiuffre
   - BlackCube
   - HarveyWeinstein
-alias:
-  - Boies Schiller Flexner
-  - Boies Schiller Flexner LLP
-  - Boies Schiller & Flexner LLP
-  - Boies, Schiller & Flexner
-  - Boies Schiller
 summary: "New York law firm founded by David Boies in 1997 that hired Black Cube for Harvey Weinstein, represented Virginia Giuffre and Epstein victims, and surrendered its Giuffre v. Maxwell discovery to a 2019 grand jury."
 start: 1997
 location: "New York, New York"

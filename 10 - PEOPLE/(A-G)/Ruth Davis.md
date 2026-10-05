@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ruth M. Davis
 category: "Intelligence & Government"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Pentagon
   - GrillFlame
   - RemoteViewing
-alias:
-  - Ruth M. Davis
 summary: "Deputy under secretary of defense for research and advanced technology who in 1978 set the managerial questions for the Pentagon's remote-viewing oversight and in 1979 widened the Gale Committee's mandate to the whole department."
 location: "Washington, D.C."
 created: 2026-09-22

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Haley Robson
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - SarahKellen
   - EpsteinFilesTransparencyAct
   - Victim
-alias:
-  - Haley Robson
 summary: "West Palm Beach woman whom Jeffrey Epstein recruited as a teenager and paid to bring other girls to his house, named in the 2006 police affidavit and a 2008 civil suit."
 location: "West Palm Beach, Florida"
 created: 2026-09-25

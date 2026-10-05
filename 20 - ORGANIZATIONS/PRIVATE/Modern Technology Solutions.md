@@ -1,4 +1,11 @@
 ---
+aliases:
+  - MTSI
+  - Modern Technology Solutions, Inc.
+  - Modern Technology Solutions Inc
+  - Modern Technology Solutions, Inc
+  - Modern Technology Solutions Inc.
+  - Modern Technology Solutions Employee Stock Ownership Plan and Trust
 category: "Organizations"
 tags:
   - Organization
@@ -11,13 +18,6 @@ tags:
   - TestAndEvaluation
   - SpecialAccessPrograms
   - AlexandriaVirginia
-alias:
-  - MTSI
-  - Modern Technology Solutions, Inc.
-  - Modern Technology Solutions Inc
-  - Modern Technology Solutions, Inc
-  - Modern Technology Solutions Inc.
-  - Modern Technology Solutions Employee Stock Ownership Plan and Trust
 summary: "Alexandria, Virginia defense and intelligence contractor founded in 1993 by two retired Air Force officers, 100 percent employee-owned since 2017, with NASIC NOVASTAR task orders and a 2026 order under the ESOP pilot."
 location: "Alexandria, Virginia"
 relations:

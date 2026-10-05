@@ -1,4 +1,12 @@
 ---
+aliases:
+  - John de Jongh Jr.
+  - John P. de Jongh
+  - John P. de Jongh Jr.
+  - John deJongh
+  - John deJongh Jr.
+  - John DeJongh
+  - Governor John de Jongh
 category: "Political Figure"
 tags:
   - Person
@@ -8,14 +16,6 @@ tags:
   - Embezzlement
   - GovernmentCapture
   - EconomicDevelopmentCommission
-alias:
-  - John de Jongh Jr.
-  - John P. de Jongh
-  - John P. de Jongh Jr.
-  - John deJongh
-  - John deJongh Jr.
-  - John DeJongh
-  - Governor John de Jongh
 summary: "John de Jongh Jr. was the two-term governor of the U.S. Virgin Islands from 2007 to 2015, whose wife managed Jeffrey Epstein's territorial office and whose 2015 embezzlement prosecution ended in a settlement."
 location: "Estate Mafolie, St. Thomas, U.S. Virgin Islands"
 relations:

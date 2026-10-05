@@ -1,4 +1,9 @@
 ---
+aliases:
+  - William Buckley
+  - William Francis Buckley
+  - William F. Buckley (CIA)
+  - Bill Buckley
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,11 +14,6 @@ tags:
   - Hezbollah
   - Stargate
   - Lebanon
-alias:
-  - William Buckley
-  - William Francis Buckley
-  - William F. Buckley (CIA)
-  - Bill Buckley
 summary: "CIA station chief in Beirut kidnapped on March 16, 1984, whose captivity and death in 1985 figured in the arms-for-hostages dealings with Iran; his remains were returned in December 1991."
 born: 1928-05-30
 died: 1985-06-03

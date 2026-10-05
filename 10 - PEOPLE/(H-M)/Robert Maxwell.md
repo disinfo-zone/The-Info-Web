@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Robert Maxwell
+  - Ján Ludvík Hyman Binyamin Hoch
+  - Jan Ludvik Hoch
+  - Ian Robert Maxwell
 category: "Business & Finance"
 tags:
   - KeyFigure
@@ -14,11 +19,6 @@ tags:
   - Media
   - PensionFraud
   - JeffreyEpstein
-alias:
-  - Robert Maxwell
-  - Ján Ludvík Hyman Binyamin Hoch
-  - Jan Ludvik Hoch
-  - Ian Robert Maxwell
 summary: "Robert Maxwell was a British publisher and Labour MP, alleged to have served Israeli, British, and Soviet intelligence, who looted the Mirror Group pension funds and died at sea in 1991."
 born: 1923-06-10
 died: 1991-11-05

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Salvador Allende Gossens
+  - Allende
 category: "Political Figure"
 tags:
   - KeyFigure
@@ -10,9 +13,6 @@ tags:
   - ChileanCoup1973
   - ITT
   - CovertAction
-alias:
-  - Salvador Allende Gossens
-  - Allende
 summary: "Socialist president of Chile from 1970 to 1973, the object of fourteen million dollars of CIA covert action over a decade, who died in the presidential palace during the military coup of September 11, 1973."
 died: 1973-09-11
 location: "Santiago, Chile"

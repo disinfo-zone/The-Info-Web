@@ -1,4 +1,6 @@
 ---
+aliases:
+  - RCMP
 category: "Foreign Government"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - LawEnforcement
   - PROMIS
   - CounterTerrorism
-alias:
-  - RCMP
 summary: "Canada's national police force, whose Security Service gave way to CSIS in 1984, which ran the Project Abbreviation inquiry into PROMIS and now prosecutes members of 764 and Terrorgram."
 location: "Ottawa, Canada"
 created: 2025-08-05

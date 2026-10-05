@@ -1,4 +1,10 @@
 ---
+aliases:
+  - John E. Mack
+  - John Mack
+  - John Edward Mack
+  - Dr. John Mack
+  - Dr. John E. Mack
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -8,12 +14,6 @@ tags:
   - Abduction
   - Pulitzer
   - Rockefeller
-alias:
-  - John E. Mack
-  - John Mack
-  - John Edward Mack
-  - Dr. John Mack
-  - Dr. John E. Mack
 summary: "Harvard psychiatrist and Pulitzer Prize biographer of T. E. Lawrence who from 1990 studied abduction reports, founded PEER in 1993, and was reviewed by a Harvard committee in 1994 and 1995."
 died: 2004-09-27
 location: "Cambridge, Massachusetts"

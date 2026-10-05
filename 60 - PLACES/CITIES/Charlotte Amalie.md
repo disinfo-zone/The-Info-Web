@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Charlotte Amalie, St. Thomas
+  - Charlotte Amalie, U.S. Virgin Islands
+  - Charlotte Amalie, USVI
+  - Charlotte Amalie, V.I.
 category: "City"
 tags:
   - Place
@@ -8,11 +13,6 @@ tags:
   - DanishWestIndies
   - JeffreyEpstein
   - TaxHaven
-alias:
-  - Charlotte Amalie, St. Thomas
-  - Charlotte Amalie, U.S. Virgin Islands
-  - Charlotte Amalie, USVI
-  - Charlotte Amalie, V.I.
 summary: "Capital of the U.S. Virgin Islands on St. Thomas, seat of the governor, courts and Justice Department that registered, waived for and later sued Jeffrey Epstein, and first address of his money-management company."
 location: "St. Thomas, U.S. Virgin Islands"
 created: 2026-09-25

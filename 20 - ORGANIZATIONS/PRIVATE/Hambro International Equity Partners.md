@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Hambro Venture Capital
+  - Hambro International
+  - Hambro
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - INSLAW
   - VentureCapital
   - Boston
-alias:
-  - Hambro Venture Capital
-  - Hambro International
-  - Hambro
 summary: "Boston venture firm that invested about 400,000 dollars in INSLAW in 1983 as lead investor, placing its partner Richard D'Amore on the board, and that Bill Hamilton said joined 53rd Street Ventures in threatening to withhold financing unless he ceded voting control."
 location: "Boston, Massachusetts"
 created: 2026-09-22

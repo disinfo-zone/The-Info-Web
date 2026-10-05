@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Cinema 16 (Philadelphia)
+  - The Roxy (Sansom Street)
 category: "Private Organization"
 tags:
   - Organization
   - Philadelphia
   - UndergroundFilm
   - RCHorsch
-alias:
-  - Cinema 16 (Philadelphia)
-  - The Roxy (Sansom Street)
 summary: "Sixteen-millimeter underground film theater on Sansom Street in Philadelphia, opened by R.C. Horsch in 1969 and closed within weeks by the city for lack of licenses."
 start: 1969
 location: "2021 Sansom Street, Philadelphia, Pennsylvania"

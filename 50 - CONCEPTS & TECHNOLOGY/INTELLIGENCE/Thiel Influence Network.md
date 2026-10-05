@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Thiel Network
+  - Thiel Infrastructure
 category: "Intelligence Concept"
 tags:
   - Concept
@@ -7,9 +10,6 @@ tags:
   - InfluenceOperations
   - DarkMoney
   - ConveningNetworks
-alias:
-  - Thiel Network
-  - Thiel Infrastructure
 summary: "The Thiel Influence Network is the set of commercial, convening, ideological and political vehicles built around Peter Thiel since 2002, including the Thiel Fellowship, Founders Fund, Palantir, Dialog, Hereticon and Teneo Network."
 created: 2026-06-17
 updated: 2026-06-17

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Annie Farmer
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - ZorroRanch
   - NewMexico
   - Witness
-alias:
-  - Annie Farmer
 summary: "Jeffrey Epstein and Ghislaine Maxwell accuser abused at sixteen in 1996 at Epstein's New Mexico ranch, the only one of four accusers to testify under her own name at Maxwell's 2021 trial."
 location: "New Mexico"
 relations:

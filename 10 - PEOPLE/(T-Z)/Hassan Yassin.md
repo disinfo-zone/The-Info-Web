@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Hassan Youssef Yassin
 category: "Intelligence & Government"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - SaudiArabia
   - Khashoggi
   - Washington
-alias:
-  - Hassan Youssef Yassin
 summary: "Son of King Abdulaziz's adviser Youssef Yassin, cousin of Adnan Khashoggi and associate of Kamal Adham, who headed the Saudi Information Office in Washington from 1972 to 1981 and died in May 2026."
 died: 2026-05-17
 location: "Mecca, Saudi Arabia"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - SFF
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - EffectiveAltruism
   - Longtermism
   - JaanTallinn
-alias:
-  - SFF
 summary: "The Survival and Flourishing Fund is the grant-allocation vehicle backed chiefly by Jaan Tallinn that uses a software-assisted method called the S-process to direct money to existential-risk, AI-safety, and longtermist organizations, having organized roughly 150 million dollars in gifts since 2019."
 location: "United States"
 created: 2026-06-20

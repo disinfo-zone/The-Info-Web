@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Michael Vernon Townley
+  - Juan Andres Wilson
+  - Kenneth Enyart
+  - Hans Petersen Silva
 category: "Criminals & Offenders"
 tags:
   - KeyFigure
@@ -10,11 +15,6 @@ tags:
   - CubanNationalistMovement
   - Sarin
   - WitnessProtection
-alias:
-  - Michael Vernon Townley
-  - Juan Andres Wilson
-  - Kenneth Enyart
-  - Hans Petersen Silva
 summary: "American-born assassin for the Chilean secret police who killed Carlos Prats in Buenos Aires and Orlando Letelier in Washington with car bombs, made sarin in his basement, served five years, and lives under witness protection."
 location: "United States"
 created: 2026-09-21

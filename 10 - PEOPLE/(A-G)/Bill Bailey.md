@@ -1,4 +1,14 @@
 ---
+aliases:
+  - William C. Bailey Jr.
+  - William C. Bailey, Jr.
+  - William C. Bailey
+  - William Bailey
+  - Bill Bailey Jr.
+  - Bill Bailey, Jr.
+  - William "Bill" Bailey
+  - Bailey, William C.
+  - Bill Bailey (Radiance)
 category: "Business & Finance"
 tags:
   - Person
@@ -9,16 +19,6 @@ tags:
   - ForeignMaterielExploitation
   - EmployeeOwned
   - PoliticalDonor
-alias:
-  - William C. Bailey Jr.
-  - William C. Bailey, Jr.
-  - William C. Bailey
-  - William Bailey
-  - Bill Bailey Jr.
-  - Bill Bailey, Jr.
-  - William "Bill" Bailey
-  - Bailey, William C.
-  - Bill Bailey (Radiance)
 summary: "William C. Bailey Jr. is chief executive of Radiance Technologies, a former Air Force engineer at the National Air and Space Intelligence Center, and lead defendant in the dismissed ESOP suit Berry v. Bailey."
 location: "Huntsville, Alabama"
 relations:

@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Linda Marie Mintzer
 category: "Entertainment & Arts"
 tags:
   - AbuseNetworks
   - Person
   - AdultFilm
   - RCHorsch
-alias:
-  - Linda Marie Mintzer
 summary: "Early 1970s New York adult film star, born Linda Marie Mintzer, author of the 1973 memoir Porno Star, who appeared in R.C. Horsch's Erotic Memoirs of a Male Chauvinist Pig."
 born: 1948-09-23
 location: "New York City"

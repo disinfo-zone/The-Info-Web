@@ -1,4 +1,6 @@
 ---
+aliases:
+  - C-Chase
 category: "BCCI Scandal"
 tags:
   - Event
@@ -7,8 +9,6 @@ tags:
   - MoneyLaundering
   - USCustoms
   - 1980s
-alias:
-  - C-Chase
 summary: "United States Customs undercover money laundering operation of 1986 to 1988, run by agent Robert Mazur as 'Robert Musella,' that ended in the arrest of BCCI officers and the bank's 1990 Tampa conviction."
 start: 1986
 end: 1988-10-08

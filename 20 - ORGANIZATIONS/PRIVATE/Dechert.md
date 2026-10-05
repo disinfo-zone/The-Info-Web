@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dechert LLP
 category: "Private Organization"
 tags:
   - Organization
@@ -9,8 +11,6 @@ tags:
   - Apollo
   - InternalInvestigation
   - ENRC
-alias:
-  - Dechert LLP
 summary: "International law firm that conducted the 2020 to 2021 Apollo board review of Leon Black's 158 million dollars in payments to Jeffrey Epstein, which a Senate committee later said missed 12 million dollars."
 location: "Philadelphia, Pennsylvania"
 relations:

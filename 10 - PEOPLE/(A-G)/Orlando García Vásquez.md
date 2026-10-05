@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Orlando Garcia Vasquez
+  - Orlando García
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - CubanExiles
   - CIA
   - CubanaFlight455
-alias:
-  - Orlando Garcia Vasquez
-  - Orlando García
 summary: "Cuban exile with CIA training who headed Venezuela's DISIP, received Orlando Bosch at Caracas airport in September 1976, and was said to have ordered CORU attacks to relieve pressure on him after the Cubana bombing."
 location: "Caracas, Venezuela"
 created: 2026-09-21

@@ -1,4 +1,13 @@
 ---
+aliases:
+  - AATIP
+  - Advanced Aviation Threat Identification Program
+  - AAWSAP
+  - Advanced Aerospace Weapon System Applications Program
+  - Advanced Aerospace Weapons System Application Program
+  - AAITP
+  - Advanced Aerospace Threat and Identification Program
+  - HHM402-08-C-0072
 tags:
   - Program
   - UAP
@@ -8,15 +17,6 @@ tags:
   - SkinwalkerRanch
   - HarryReid
 category: "Intelligence Operation"
-alias:
-  - AATIP
-  - Advanced Aviation Threat Identification Program
-  - AAWSAP
-  - Advanced Aerospace Weapon System Applications Program
-  - Advanced Aerospace Weapons System Application Program
-  - AAITP
-  - Advanced Aerospace Threat and Identification Program
-  - HHM402-08-C-0072
 summary: "Defense Intelligence Agency program, formally AAWSAP, funded from fiscal 2008 with 22 million dollars at Harry Reid's direction and contracted to Robert Bigelow's BAASS, whose UFO and paranormal work AARO later reviewed."
 start: 2007
 end: 2012

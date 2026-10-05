@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Joint Defence Facility Pine Gap
 category: "Military Installation"
 tags:
   - Place
@@ -8,8 +10,6 @@ tags:
   - ECHELON
   - SIGINT
   - Australia
-alias:
-  - Joint Defence Facility Pine Gap
 summary: "The CIA's satellite ground station in central Australia near Alice Springs, controlling the RHYOLITE, AQUACADE, MAGNUM and ORION signals satellites, and one of the four main stations of the ECHELON network."
 location: "Northern Territory, Australia"
 created: 2026-09-22

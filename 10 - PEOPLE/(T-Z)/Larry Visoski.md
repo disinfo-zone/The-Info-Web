@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Lawrence Paul Visoski Jr.
+  - Lawrence Visoski
+  - Lawrence VISOSKI
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -10,10 +14,6 @@ tags:
   - ShellCompany
   - VirginIslands
   - MaxwellTrial
-alias:
-  - Lawrence Paul Visoski Jr.
-  - Lawrence Visoski
-  - Lawrence VISOSKI
 summary: "Jeffrey Epstein's pilot from 1991 to 2019, named manager of the Virgin Islands companies holding his aircraft, first government witness at the 2021 Maxwell trial, and recipient of Epstein-paid tuition for his daughters."
 location: "United States"
 relations:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Paula Fickes Hawkins
 category: "Political Figure"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - USSenate
   - BCCI
   - DrugWar
-alias:
-  - Paula Fickes Hawkins
 summary: "Republican senator from Florida from 1981 to 1987 in whose Senate office BCCI's American manager met Justice Department officials in 1984 over her allegation that the bank laundered drug money."
 born: 1927-01-24
 died: 2009-12-04

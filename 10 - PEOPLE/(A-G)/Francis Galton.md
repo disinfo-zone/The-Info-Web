@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Francis Galton
+  - Sir Francis Galton
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Biometrics
   - HumanBiodiversity
   - Hereditarianism
-alias:
-  - Francis Galton
-  - Sir Francis Galton
 summary: "Francis Galton was the Victorian polymath and half-cousin of Charles Darwin who coined the words eugenics and nature versus nurture, founded biometrics and the statistical concepts of correlation and regression to the mean, pioneered fingerprint identification and composite photography, and endowed the chair of eugenics at University College London."
 born: 1822-02-16
 died: 1911-01-17

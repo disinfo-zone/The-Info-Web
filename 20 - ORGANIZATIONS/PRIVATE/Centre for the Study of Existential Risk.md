@@ -1,4 +1,6 @@
 ---
+aliases:
+  - CSER
 category: "Private Organization"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - ArtificialIntelligence
   - JaanTallinn
   - CambridgeUniversity
-alias:
-  - CSER
 summary: "The Centre for the Study of Existential Risk is a Cambridge University research center founded in 2012 by the philosopher Huw Price, the cosmologist Martin Rees, and the Skype cofounder Jaan Tallinn to study catastrophic risks from advanced technology, including artificial intelligence, biotechnology, and environmental collapse."
 location: "Cambridge, England"
 created: 2026-06-20

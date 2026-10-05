@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Paul Smith
+  - Paul H. Smith
 category: "Psychics & Remote Viewers"
 tags:
   - Psi
@@ -8,9 +11,6 @@ tags:
   - RemoteViewing
   - FortMeade
   - Army
-alias:
-  - Paul Smith
-  - Paul H. Smith
 summary: "Army military intelligence captain who joined the Center Lane remote-viewing unit at Fort Meade in 1983 and, as its project officer, wrote the 1984 staff study on its transfer to DIA."
 location: "Fort Meade, Maryland"
 created: 2026-09-22

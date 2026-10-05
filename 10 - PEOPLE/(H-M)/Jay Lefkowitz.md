@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jay P. Lefkowitz
+  - Jay Lefkowitz
+  - Lefkowitz
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - NonProsecutionAgreement
   - GeorgeWBushAdministration
   - NorthKorea
-alias:
-  - Jay P. Lefkowitz
-  - Jay Lefkowitz
-  - Lefkowitz
 summary: "Kirkland & Ellis litigation partner and veteran of both Bush White Houses who led Jeffrey Epstein's 2007 non-prosecution negotiations while serving as special envoy for human rights in North Korea."
 location: "New York, New York"
 relations:

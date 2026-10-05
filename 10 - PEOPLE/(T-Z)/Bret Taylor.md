@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bret Taylor
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Facebook
   - Google
   - Axon
-alias:
-  - Bret Taylor
 summary: "Google Maps co-creator, Facebook chief technology officer, Salesforce co-chief executive and Twitter board chair who has chaired OpenAI's board since Sam Altman's reinstatement in November 2023."
 relations:
   - type: head_of

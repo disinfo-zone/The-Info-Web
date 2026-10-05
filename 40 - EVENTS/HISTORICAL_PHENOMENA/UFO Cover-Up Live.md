@@ -1,13 +1,5 @@
 ---
-category: "Historical Phenomenon"
-tags:
-  - UFO
-  - Television
-  - MJ12
-  - Aviary
-  - Disinformation
-  - 1988
-alias:
+aliases:
   - UFO Cover-Up Live
   - UFO Cover-Up? Live
   - UFO Cover-Up? Live!
@@ -17,6 +9,14 @@ alias:
   - UFOS: Government Coverup-Live
   - UFO Coverup Live
   - Cover-up... Live
+category: "Historical Phenomenon"
+tags:
+  - UFO
+  - Television
+  - MJ12
+  - Aviary
+  - Disinformation
+  - 1988
 summary: "Two-hour syndicated television special of October 14, 1988 in which the shadowed, voice-altered sources Falcon and Condor described Majestic-12 and a living extraterrestrial held by the United States."
 start: 1988-10-14
 location: "Los Angeles, California"

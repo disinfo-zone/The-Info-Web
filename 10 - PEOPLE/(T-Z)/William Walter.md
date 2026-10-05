@@ -1,4 +1,6 @@
 ---
+aliases:
+  - William S. Walter
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - LeeHarveyOswald
   - JimGarrison
   - HSCA
-alias:
-  - William S. Walter
 summary: "FBI New Orleans night clerk who said a November 17, 1963 teletype warned of an attempt on Kennedy in Dallas and that the office kept an informant file on Oswald, claims the House committee rejected."
 location: "New Orleans, Louisiana"
 created: 2026-09-21

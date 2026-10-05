@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Saint Croix
+  - St Croix
+  - St. Croix, U.S. Virgin Islands
+  - St. Croix, USVI
+  - STX
 category: "Region"
 tags:
   - Place
@@ -8,12 +14,6 @@ tags:
   - HOVENSA
   - JeffreyEpstein
   - PublicCorruption
-alias:
-  - Saint Croix
-  - St Croix
-  - St. Croix, U.S. Virgin Islands
-  - St. Croix, USVI
-  - STX
 summary: "Island of the U.S. Virgin Islands, site of the 1878 Fireburn, the 1972 Fountain Valley killings and the HOVENSA refinery that Epstein's circle discussed as a Guantanamo replacement."
 location: "U.S. Virgin Islands"
 created: 2026-09-25

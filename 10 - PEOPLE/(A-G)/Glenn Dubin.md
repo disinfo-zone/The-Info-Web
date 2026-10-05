@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Glenn Dubin
 category: "Business & Finance"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - GhislaineMaxwell
   - JPMorgan
   - HarvardKennedySchool
-alias:
-  - Glenn Dubin
 summary: "Hedge fund manager who co-founded Highbridge Capital Management, in which Jeffrey Epstein invested; married to Epstein's former girlfriend Eva Andersson-Dubin; named and denied in Giuffre's deposition."
 location: "New York, New York"
 created: 2026-09-25

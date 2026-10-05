@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Skeptical Inquirer
+  - The Skeptical Inquirer
+  - The Zetetic
+  - SI
 category: "Skeptics & Critics"
 tags:
   - Publication
@@ -10,11 +15,6 @@ tags:
   - RemoteViewing
   - Stargate
   - KendrickFrazier
-alias:
-  - Skeptical Inquirer
-  - The Skeptical Inquirer
-  - The Zetetic
-  - SI
 summary: "Magazine of the Committee for the Scientific Investigation of Claims of the Paranormal, begun in Buffalo in 1976 as The Zetetic and renamed in 1977, edited by Kendrick Frazier for more than four decades."
 start: 1976
 location: "Amherst, New York"

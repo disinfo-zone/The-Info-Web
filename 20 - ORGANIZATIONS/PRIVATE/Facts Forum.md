@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Facts Forum, Inc.
+  - Life Line
+  - Life Line Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - TaxExemptFoundations
   - McCarthyism
   - FBI
-alias:
-  - Facts Forum, Inc.
-  - Life Line
-  - Life Line Foundation
 summary: "Tax-exempt Dallas foundation through which H.L. Hunt financed broadcast commentary from 1951 to 1956, staffed in part by former FBI agents and revived in 1958 as Life Line."
 start: 1951
 location: "Dallas, Texas"

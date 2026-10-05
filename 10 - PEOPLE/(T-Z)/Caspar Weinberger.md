@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Caspar W. Weinberger
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,8 +11,6 @@ summary: "Secretary of Defense under Reagan whose military aide Lieutenant Colon
 born: 1917-08-18
 died: 2006-03-28
 location: "San Francisco, California"
-alias:
-  - Caspar W. Weinberger
 ---
 
 Caspar W. Weinberger (1917-2006) was an American politician and businessman who served as the Secretary of Defense under President [[Ronald Reagan]] from 1981 to 1987. He was a key figure in the Reagan administration's military buildup during the [[Cold War]][^1].

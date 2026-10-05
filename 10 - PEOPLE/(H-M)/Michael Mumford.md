@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Michael D. Mumford
 category: "Scientists & Researchers"
 tags:
   - Person
   - MichaelMumford
   - AIR
   - IndustrialPsychology
-alias:
-  - Michael D. Mumford
 summary: "Industrial psychologist at the American Institutes for Research, directing Army leadership and NSA skills projects, who was lead author of the 1995 AIR evaluation of Star Gate."
 created: 2026-09-22
 updated: 2026-09-22

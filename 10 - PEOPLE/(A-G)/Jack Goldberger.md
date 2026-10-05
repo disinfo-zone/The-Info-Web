@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jack Alan Goldberger
+  - Jack A. Goldberger
+  - Jack Goldberger
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - PalmBeach
   - WorkRelease
   - FloridaScienceFoundation
-alias:
-  - Jack Alan Goldberger
-  - Jack A. Goldberger
-  - Jack Goldberger
 summary: "West Palm Beach criminal defense lawyer who handled Jeffrey Epstein's 2008 state plea, whose law office housed the Florida Science Foundation of Epstein's work release, and who defended Epstein in 2009 civil suits."
 location: "West Palm Beach, Florida"
 relations:

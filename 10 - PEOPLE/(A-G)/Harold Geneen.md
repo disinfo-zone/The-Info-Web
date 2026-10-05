@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Harold S. Geneen
+  - Hal Geneen
 category: "Business & Finance"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - CIA
   - JohnMcCone
   - CorporateIntelligence
-alias:
-  - Harold S. Geneen
-  - Hal Geneen
 summary: "Chairman of ITT who in 1970 offered the CIA a fund to keep Salvador Allende from the Chilean presidency, swore to the Senate that ITT had done nothing, and was not charged with perjury."
 location: "New York, New York"
 created: 2026-09-21

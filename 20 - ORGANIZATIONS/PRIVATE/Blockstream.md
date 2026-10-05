@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Blockstream
+  - Blockstream Corporation
 category: "Private Organization"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - Sidechains
   - LightningNetwork
   - AdamBack
-alias:
-  - Blockstream
-  - Blockstream Corporation
 summary: "Blockstream is the Bitcoin-infrastructure company that Adam Back and others founded in 2014, builder of the Liquid sidechain and the Core Lightning implementation, employer of several Bitcoin Core developers, and a $3.2 billion firm after its 2021 Series B."
 location: "Victoria, British Columbia"
 created: 2026-06-20

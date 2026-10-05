@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Lawrence H. Wechsler
+  - Larry Wechsler
 category: "Law Enforcement & Legal"
 tags:
   - Person
   - BCCI
   - Lawyer
   - IranContra
-alias:
-  - Lawrence H. Wechsler
-  - Larry Wechsler
 summary: "Washington defense lawyer and former federal prosecutor who assembled BCCI's legal team after the 1988 Tampa indictment, negotiated its 1990 plea agreement and lobbied the Senate on the bank's behalf."
 relations:
   - type: represented

@@ -1,9 +1,9 @@
 ---
-category: "Business & Finance"
-alias:
+aliases:
   - Ghanim Fan's al-Mazrui
   - Ghanim Faris Al Mazrui
   - Ghanim al-Mazrui
+category: "Business & Finance"
 tags:
   - Person
   - BCCI

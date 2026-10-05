@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Worthen Banking Corporation
+  - Worthen National Bank
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - BillClinton
   - CampaignFinance
   - Arkansas
-alias:
-  - Worthen Banking Corporation
-  - Worthen National Bank
 summary: "Little Rock bank owned jointly in the 1980s by Jackson Stephens and the Riady family of Indonesia, which employed James Riady and John Huang and financed Bill Clinton's 1992 primary campaign."
 location: "Little Rock, Arkansas"
 created: 2026-09-21

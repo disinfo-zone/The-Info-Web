@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Robert W. Scherrer
+  - Bob Scherrer
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - OrlandoLetelier
   - ManuelContreras
   - BuenosAires
-alias:
-  - Robert W. Scherrer
-  - Bob Scherrer
 summary: "FBI legal attaché in Buenos Aires who after the Letelier murder cabled Washington the first description of Operation Condor and its assassination phase, and later sold counterterrorism advice with the case's prosecutors."
 location: "Buenos Aires, Argentina"
 created: 2026-09-21

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Armando Fernández Larios
+  - Alejandro Romeral
 category: "Military"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - CaravanOfDeath
   - PleaBargain
   - ImmigrationAndCustomsEnforcement
-alias:
-  - Armando Fernández Larios
-  - Alejandro Romeral
 summary: "Chilean army officer of the 1973 Caravan of Death and DINA's advance man in the Letelier murder, who defected to the United States in 1987, served five months, and was detained by ICE in 2025."
 location: "Florida, United States"
 created: 2026-09-21

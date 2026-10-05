@@ -1,4 +1,8 @@
 ---
+aliases:
+  - MSIC
+  - Missile & Space Intelligence Center
+  - DIA/MSIC
 category: "Organizations"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - HuntsvilleAlabama
   - RedstoneArsenal
   - DefenseContracting
-alias:
-  - MSIC
-  - Missile & Space Intelligence Center
-  - DIA/MSIC
 location: "Redstone Arsenal, Alabama"
 summary: "Defense Intelligence Agency element at Redstone Arsenal whose 2025 briefing traces it to the Army Ballistic Missile Agency in 1956, which analyzes and exploits foreign weapon systems with contractor support."
 relations:

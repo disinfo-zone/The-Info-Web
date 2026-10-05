@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Philip R. Zimmermann
+  - Phil Zimmermann
 category: "Technologists"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - CryptoWars
   - Privacy
   - Cypherpunks
-alias:
-  - Philip R. Zimmermann
-  - Phil Zimmermann
 summary: "Phil Zimmermann is the programmer and anti-nuclear activist who wrote Pretty Good Privacy and released it for free in 1991, became the target of a three-year US criminal investigation that treated strong encryption as an exported munition, and went on to build the encrypted-voice tools Zfone and Silent Circle."
 born: 1954-02-12
 location: "United States"

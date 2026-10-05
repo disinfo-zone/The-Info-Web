@@ -1,4 +1,16 @@
 ---
+aliases:
+  - Goldman Sachs
+  - Goldman
+  - The Goldman Sachs Group
+  - The Goldman Sachs Group, Inc.
+  - Goldman Sachs Group
+  - Goldman Sachs Group Inc
+  - Goldman, Sachs & Co.
+  - Goldman Sachs & Co.
+  - Goldman Sachs and Co.
+  - Goldman Sachs International
+  - GS&Co
 category: "Private Organization"
 tags:
   - Organization
@@ -12,18 +24,6 @@ tags:
   - OneMDB
   - TreasuryDepartment
   - Lobbying
-alias:
-  - Goldman Sachs
-  - Goldman
-  - The Goldman Sachs Group
-  - The Goldman Sachs Group, Inc.
-  - Goldman Sachs Group
-  - Goldman Sachs Group Inc
-  - Goldman, Sachs & Co.
-  - Goldman Sachs & Co.
-  - Goldman Sachs and Co.
-  - Goldman Sachs International
-  - GS&Co
 summary: "New York investment bank founded in 1869 whose former executives became Treasury officials, which paid 550 million dollars in 2010 over a mortgage CDO and entered a 2020 deferred prosecution agreement over 1MDB bribery."
 start: 1869
 location: "New York, New York"

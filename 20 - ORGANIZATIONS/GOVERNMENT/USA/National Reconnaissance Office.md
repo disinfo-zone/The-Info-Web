@@ -1,4 +1,6 @@
 ---
+aliases:
+  - NRO
 category: "U.S. Government"
 tags:
   - Organization
@@ -7,8 +9,6 @@ tags:
   - Satellites
   - Reconnaissance
   - USGovernment
-alias:
-  - NRO
 summary: "Joint Defense Department and CIA agency for reconnaissance satellites, founded by memorandum in September 1961, whose existence stayed classified until 1992 and whose director resigned over 3.7 billion dollars in unspent funds."
 start: 1961-09-06
 location: "Chantilly, Virginia"

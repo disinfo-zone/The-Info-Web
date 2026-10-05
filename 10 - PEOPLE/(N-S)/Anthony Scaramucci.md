@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Anthony Scaramucci
+  - Anthony Scaramucci Jr.
+  - The Mooch
+  - Scaramucci, Anthony
 category: "Business & Finance"
 tags:
   - Person
@@ -6,11 +11,6 @@ tags:
   - HedgeFunds
   - Cryptocurrency
   - ConferenceOrganizer
-alias:
-  - Anthony Scaramucci
-  - Anthony Scaramucci Jr.
-  - The Mooch
-  - Scaramucci, Anthony
 summary: "Founder of SkyBridge Capital and co-chairman of SALT, White House communications director for ten days in July 2017, defendant in FTX bankruptcy adversary proceeding 24-50209, and father of AJ Scaramucci."
 location: "New York"
 relations:

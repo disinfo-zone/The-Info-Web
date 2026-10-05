@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bear Stearns Companies
+  - The Bear Stearns Companies Inc.
+  - Bear, Stearns & Co.
 category: "Private Organization"
 tags:
   - Organization
@@ -8,10 +12,6 @@ tags:
   - WallStreet
   - FinancialCrisis2008
   - SEC
-alias:
-  - Bear Stearns Companies
-  - The Bear Stearns Companies Inc.
-  - Bear, Stearns & Co.
 summary: "New York investment bank that hired Jeffrey Epstein in 1976, parted with him in 1981 amid an SEC inquiry, handled his trades for decades, and collapsed into JPMorgan Chase in 2008."
 end: 2008
 location: "New York, New York"

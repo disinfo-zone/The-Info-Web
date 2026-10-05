@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Eugene Albert Horsch
+  - Eugene Frederick Steiner
+  - Gizza
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -8,10 +12,6 @@ tags:
   - OlneyHouseInvestigation
   - FalseCredentials
   - Firearms
-alias:
-  - Eugene Albert Horsch
-  - Eugene Frederick Steiner
-  - Gizza
 summary: "Son of the pornographer R.C. Horsch and owner of the Olney house searched in 2026, held on federal firearm and forged-credential counts and charged with no offense against the seven missing women."
 born: 1981
 location: "Philadelphia, Pennsylvania"

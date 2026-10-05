@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Helen E. Wissman
+  - Helen Wissman Hoersch
 category: "Other"
 tags:
   - AbuseNetworks
@@ -6,9 +9,6 @@ tags:
   - RCHorsch
   - Philadelphia
   - Olney
-alias:
-  - Helen E. Wissman
-  - Helen Wissman Hoersch
 summary: "Philadelphia grandmother of the pornographer R.C. Horsch, who died in 1968 at the family house at 417 West Chew Street in Olney."
 died: 1968-08-27
 location: "417 West Chew Street, Philadelphia, Pennsylvania"

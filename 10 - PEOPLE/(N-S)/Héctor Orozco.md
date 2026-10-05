@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Héctor Orozco Sepúlveda
+  - Hector Orozco
 category: "Military"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - OrlandoLetelier
   - DINA
   - MilitaryJustice
-alias:
-  - Héctor Orozco Sepúlveda
-  - Hector Orozco
 summary: "Chilean brigade general named ad hoc military prosecutor in March 1978 for the Letelier passport case, who took the DINA officers' statements and had the FBI interview Vernon Walters."
 location: "Santiago, Chile"
 created: 2026-09-21

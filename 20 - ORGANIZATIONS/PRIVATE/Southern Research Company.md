@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Southern Research
+  - Southern Research Corporation
+  - Southern Research, Inc.
+  - Southern Research Company of New Orleans
 category: "Private Organization"
 tags:
   - Organization
@@ -10,11 +15,6 @@ tags:
   - GuyBanister
   - Wackenhut
   - HSCA
-alias:
-  - Southern Research
-  - Southern Research Corporation
-  - Southern Research, Inc.
-  - Southern Research Company of New Orleans
 summary: "Shreveport detective firm whose New Orleans office, run by a former associate of Guy Banister, investigated David Ferrie for Eastern Air Lines in 1963, and which the House assassinations committee in 1978 called the former name of Wackenhut."
 start: 1958-12-02
 location: "Shreveport, Louisiana"

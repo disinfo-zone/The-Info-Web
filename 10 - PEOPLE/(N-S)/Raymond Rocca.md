@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Raymond G. Rocca
+  - Ray Rocca
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - JamesAngleton
   - GarrisonGroup
   - WarrenCommission
-alias:
-  - Raymond G. Rocca
-  - Ray Rocca
 summary: "Research chief on Angleton's counterintelligence staff who handled the CIA's side of the Warren Commission and wrote its papers on Jim Garrison in 1967, proposing to brief Hoover and McCone and line up press channels."
 born: 1917
 died: 1993-11-11

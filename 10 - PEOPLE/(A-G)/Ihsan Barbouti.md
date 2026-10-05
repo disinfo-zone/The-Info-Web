@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dr. Ihsan Barbouti
+  - IBI
 category: "Arms Dealers & Brokers"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - Iraq
   - BNLScandal
   - CarlosCardoen
-alias:
-  - Dr. Ihsan Barbouti
-  - IBI
 summary: "Iraqi-born London architect who designed Libya's chemical weapons plant at Rabta, sought nerve gas precursors through an Oklahoma company, held real estate in Texas, and was reported dead on his 63rd birthday in July 1990."
 died: 1990-07
 location: "London, England"

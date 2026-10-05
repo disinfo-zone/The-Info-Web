@@ -1,4 +1,8 @@
 ---
+aliases:
+  - AID
+  - Audio Intelligence Devices, Inc.
+  - National Intelligence Academy
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - OrlandoLetelier
   - MichaelTownley
   - PrivateIntelligence
-alias:
-  - AID
-  - Audio Intelligence Devices, Inc.
-  - National Intelligence Academy
 summary: "Fort Lauderdale maker of eavesdropping equipment run by the Anguilla adventurer Jack Holcomb, where Michael Townley spent the morning of the Letelier bombing, and which his co-defendants called a CIA front."
 location: "Fort Lauderdale, Florida"
 created: 2026-09-21

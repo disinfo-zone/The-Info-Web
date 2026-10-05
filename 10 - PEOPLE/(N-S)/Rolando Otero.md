@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Rolando Otero Hernandez
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Miami
   - DINA
   - Chile
-alias:
-  - Rolando Otero Hernandez
 summary: "Cuban exile charged with nine Miami bombings of 1975, including the FBI office, who fled to Chile and was handed to the FBI by Pinochet's government in 1976, a surrender the Cuban Nationalist Movement resented."
 location: "Miami, Florida"
 created: 2026-09-21

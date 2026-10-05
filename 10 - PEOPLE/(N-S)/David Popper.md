@@ -1,4 +1,6 @@
 ---
+aliases:
+  - David H. Popper
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - OperationCondor
   - HenryKissinger
   - AugustoPinochet
-alias:
-  - David H. Popper
 summary: "US ambassador to Chile from 1974 to 1977 whose human rights approaches drew Kissinger's marginalia, and who in August 1976 advised against warning Pinochet about Condor, proposing that the CIA raise it with Contreras instead."
 location: "Santiago, Chile"
 created: 2026-09-21

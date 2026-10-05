@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Valar
+  - Valar Ventures Management LLC
+  - Valar Global Fund II LP
+  - Valar Global Fund III LP
 category: "Private Organization"
 tags:
   - Organization
@@ -7,11 +12,6 @@ tags:
   - JeffreyEpstein
   - Fintech
   - ThielNetwork
-alias:
-  - Valar
-  - Valar Ventures Management LLC
-  - Valar Global Fund II LP
-  - Valar Global Fund III LP
 summary: "Valar Ventures is a New York venture capital firm set up by Peter Thiel in 2010; Jeffrey Epstein's Southern Trust Company committed 40 million dollars to two of its funds in 2015 and 2016."
 start: 2010
 location: "915 Broadway, New York, New York"

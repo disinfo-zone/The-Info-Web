@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Mira Murati
 category: "Technologists"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - ThinkingMachinesLab
   - ArtificialIntelligence
   - SiliconValley
-alias:
-  - Mira Murati
 summary: "Mira Murati is the Albanian-born engineer who rose to chief technology officer of OpenAI, oversaw the development of ChatGPT, DALL-E, and Sora, served as interim chief executive during the November 2023 board crisis, left in September 2024, and founded the AI lab Thinking Machines Lab."
 born: 1988-12-16
 location: "San Francisco, California"

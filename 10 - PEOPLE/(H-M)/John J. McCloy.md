@@ -1,4 +1,11 @@
 ---
+aliases:
+  - John J. McCloy
+  - John McCloy
+  - John Jay McCloy
+  - John Snader McCloy
+  - Jack McCloy
+  - J.J. McCloy
 category: "Intelligence & Government"
 tags:
   - KeyFigure
@@ -16,13 +23,6 @@ tags:
   - JapaneseInternment
   - ArmsControl
   - ColdWar
-alias:
-  - John J. McCloy
-  - John McCloy
-  - John Jay McCloy
-  - John Snader McCloy
-  - Jack McCloy
-  - J.J. McCloy
 summary: "American lawyer, Assistant Secretary of War, World Bank president, High Commissioner for Germany, Chase and Ford Foundation chairman, counsel to the major oil companies and Warren Commission member."
 born: 1895-03-31
 died: 1989-03-11

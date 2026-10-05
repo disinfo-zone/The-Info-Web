@@ -1,4 +1,7 @@
 ---
+aliases:
+  - James B. Channon
+  - Lt. Col. Jim Channon
 category: "Military"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - TaskForceDelta
   - TRADOC
   - HumanPotentialMovement
-alias:
-  - James B. Channon
-  - Lt. Col. Jim Channon
 summary: "Army lieutenant colonel who wrote the First Earth Battalion concept paper for TRADOC's Task Force Delta in 1979 and was named in its foreword the battalion's commanding officer."
 location: "Fort Monroe, Virginia"
 created: 2026-09-21

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Matrix Churchill Ltd
+  - Matrix-Churchill Corporation
+  - TMG Engineering
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - FrontCompany
   - MachineTools
   - ScottInquiry
-alias:
-  - Matrix Churchill Ltd
-  - Matrix-Churchill Corporation
-  - TMG Engineering
 summary: "British machine tool maker bought in 1987 by an Iraqi military procurement front, financed by the Atlanta branch of Banca Nazionale del Lavoro, whose directors' 1992 trial collapsed and led to the Scott Inquiry."
 start: 1987
 location: "England"

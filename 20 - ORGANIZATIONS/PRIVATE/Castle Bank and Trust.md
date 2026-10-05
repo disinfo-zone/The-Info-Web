@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Castle Bank
+  - Castle Bank and Trust Company
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - OperationTradewinds
   - TaxHavens
   - CIA
-alias:
-  - Castle Bank
-  - Castle Bank and Trust Company
 summary: "Bahamian and Cayman bank set up by the Miami lawyer Paul Helliwell, whose depositor list the IRS obtained in 1973 by stealing a briefcase, and whose prosecution the CIA was reported to have stopped."
 location: "Nassau, Bahamas"
 created: 2026-09-21

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Hussein Kamel al-Majid
+  - Hussein Kamil
+  - Hussein Kamel Hassan
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - BNLScandal
   - UNSCOM
   - WeaponsOfMassDestruction
-alias:
-  - Hussein Kamel al-Majid
-  - Hussein Kamil
-  - Hussein Kamel Hassan
 summary: "Son-in-law of Saddam Hussein who ran Iraq's military industries and their Western procurement network, went unindicted in the BNL case, defected in 1995, and told United Nations inspectors that all the weapons had been destroyed."
 died: 1996-02-23
 location: "Baghdad, Iraq"

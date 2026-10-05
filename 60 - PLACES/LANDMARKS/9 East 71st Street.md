@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Nine East 71st Street
+  - Herbert N. Straus House
+  - Epstein townhouse
 category: "Landmark"
 tags:
   - Place
@@ -9,10 +13,6 @@ tags:
   - LesWexner
   - UpperEastSide
   - MapleInc
-alias:
-  - Nine East 71st Street
-  - Herbert N. Straus House
-  - Epstein townhouse
 summary: "Seven-story limestone townhouse on Manhattan's Upper East Side that served as Jeffrey Epstein's primary New York residence and the site of conduct detailed in the federal sex-trafficking case against him."
 location: New York, New York
 created: 2026-06-20

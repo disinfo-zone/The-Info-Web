@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Reid Garrett Hoffman
 category: "Technologists"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - JeffreyEpstein
   - Dialog
   - Microsoft
-alias:
-  - Reid Garrett Hoffman
 summary: "Reid Hoffman is the PayPal executive, LinkedIn cofounder and Greylock partner who co-hosted an August 2015 Palo Alto dinner attended by Jeffrey Epstein and apologized in 2019 for aiding Epstein's image repair."
 born: 1967-08-05
 location: "Stanford, California (born)"

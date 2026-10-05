@@ -1,4 +1,7 @@
 ---
+aliases:
+  - United Acceleration Front
+  - UAF
 category: "Extremism & Violent Networks"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - SiegeCulture
   - IronMarch
   - AtomwaffenDivision
-alias:
-  - United Acceleration Front
-  - UAF
 summary: "United Acceleration Front was a Telegram coalition of neo-fascist accelerationist entities that emerged in early 2021 around Feuerkrieg Division and InJekt Division, and whose website shared a server address with two allied groups."
 start: 2021
 location: "Online (Telegram)"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Toby Ord
+  - Toby David Godfrey Ord
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Oxford
   - ExistentialRisk
   - FutureOfHumanityInstitute
-alias:
-  - Toby Ord
-  - Toby David Godfrey Ord
 summary: "Toby Ord is an Australian moral philosopher at Oxford who cofounded Giving What We Can and the effective altruism movement, was a senior research fellow at the Future of Humanity Institute, and wrote The Precipice, which argues there is a one-in-six chance humanity suffers an existential catastrophe this century."
 born: 1979
 location: "Oxford, England"

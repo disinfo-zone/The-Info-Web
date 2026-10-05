@@ -1,4 +1,8 @@
 ---
+aliases:
+  - James Edward Staley
+  - James E. Staley
+  - James Staley
 category: "Business & Finance"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - JesStaley
   - FinancialConductAuthority
   - PrivateBanking
-alias:
-  - James Edward Staley
-  - James E. Staley
-  - James Staley
 summary: "JPMorgan executive who managed and vouched for Jeffrey Epstein's banking relationship, later ran Barclays, and was banned from senior UK finance roles for misleading the regulator about that relationship."
 born: 1956-12-27
 location: "Boston, Massachusetts"

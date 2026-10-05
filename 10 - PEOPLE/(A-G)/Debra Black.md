@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Debra Black
 category: "Philanthropists & Benefactors"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Philanthropy
   - BlackFamilyPartners
   - Harvard
-alias:
-  - Debra Black
 summary: "Wife of Leon Black, trustee in the Black family's 2007 restructuring, co-donor of Harvard and Arizona State gifts that Jeffrey Epstein arranged, and holder of accounts that wired Epstein's fees."
 location: "New York, New York"
 created: 2026-09-25

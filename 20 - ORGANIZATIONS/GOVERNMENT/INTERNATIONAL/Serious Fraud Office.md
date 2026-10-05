@@ -1,4 +1,6 @@
 ---
+aliases:
+  - SFO
 category: "Law Enforcement & Legal"
 tags:
   - Organization
@@ -6,8 +8,6 @@ tags:
   - UnitedKingdom
   - Prosecution
   - BCCI
-alias:
-  - SFO
 summary: "British prosecuting agency for serious and complex fraud, which opened its BCCI investigation in 1991 and convicted the bank's treasury chief Ziauddin Akbar in 1993 and its largest debtor Abbas Gokal in 1997."
 location: "London, United Kingdom"
 relations:

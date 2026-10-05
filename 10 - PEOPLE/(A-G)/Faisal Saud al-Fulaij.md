@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Faisal al-Fulaij
+  - Faisal Fulaij
+  - Faisal al Fulaij
 category: "Business & Finance"
 tags:
   - Person
@@ -6,10 +10,6 @@ tags:
   - Kuwait
   - Nominee
   - FirstAmerican
-alias:
-  - Faisal al-Fulaij
-  - Faisal Fulaij
-  - Faisal al Fulaij
 summary: "Kuwaiti businessman who served as a BCCI nominee shareholder in the Financial General and First American takeover and was indicted in New York with Clifford, Altman and Abedi in 1992."
 location: "Kuwait"
 relations:

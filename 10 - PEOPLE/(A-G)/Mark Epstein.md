@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Mark Epstein (brother of Jeffrey Epstein)
 category: "Other"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - LeslieWexner
   - EpsteinDeath
   - Autopsy
-alias:
-  - Mark Epstein (brother of Jeffrey Epstein)
 summary: "New York property owner and younger brother of Jeffrey Epstein, informant on his death certificate, who bought 301 East 66th Street from Leslie Wexner and hired Michael Baden to observe the autopsy."
 location: "New York, New York"
 relations:

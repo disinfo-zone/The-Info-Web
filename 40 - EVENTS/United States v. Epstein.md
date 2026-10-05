@@ -1,4 +1,11 @@
 ---
+aliases:
+  - United States v. Jeffrey Epstein
+  - US v. Epstein
+  - U.S. v. Epstein
+  - 19-cr-490
+  - 19 Cr. 490
+  - 1:19-cr-00490
 category: "Law Enforcement & Legal"
 tags:
   - Event
@@ -8,13 +15,6 @@ tags:
   - GrandJury
   - NolleProsequi
   - EpsteinFilesTransparencyAct
-alias:
-  - United States v. Jeffrey Epstein
-  - US v. Epstein
-  - U.S. v. Epstein
-  - 19-cr-490
-  - 19 Cr. 490
-  - 1:19-cr-00490
 summary: "Federal sex-trafficking prosecution of Jeffrey Epstein in Manhattan, indicted July 2019 and dismissed after his death in jail that August, whose sealed grand jury record was ordered released in December 2025."
 start: 2019-07-02
 end: 2019-08-29

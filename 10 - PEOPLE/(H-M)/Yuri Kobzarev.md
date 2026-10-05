@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Yuri Kobzarev
+  - Yuri Borisovich Kobzarev
+  - Yu. B. Kobzarev
+  - Yu. B. Kobzerev
+  - Yuri Kobzerev
+  - Kobzerev
+  - Kobzerov
+  - Kobzarev
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -8,15 +17,6 @@ tags:
   - Psychoenergetics
   - Parapsychology
   - Psychokinesis
-alias:
-  - Yuri Kobzarev
-  - Yuri Borisovich Kobzarev
-  - Yu. B. Kobzarev
-  - Yu. B. Kobzerev
-  - Yuri Kobzerev
-  - Kobzerev
-  - Kobzerov
-  - Kobzarev
 summary: "Soviet radar pioneer and academician who chaired the Academy of Sciences review commission on psychoenergetics from 1975 and signed the 1978 statement, quoted in a 1987 DIA briefing, that Ninel Kulagina's psychokinesis was genuine."
 born: 1905-12-08
 died: 1992-04-25

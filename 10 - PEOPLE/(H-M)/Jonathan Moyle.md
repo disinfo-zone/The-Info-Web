@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Jonathan Moyle (journalist)
 category: "Authors & Journalists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Chile
   - SuspiciousDeath
   - MI5
-alias:
-  - Jonathan Moyle (journalist)
 summary: "Editor of Defence Helicopter World found hanged in a Santiago hotel in March 1990 while reporting on a helicopter Carlos Cardoen was converting for Iraq, and afterward described by British officials as a sexual deviant."
 died: 1990-03-31
 location: "Santiago, Chile"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Mark Richard
+  - Mark Richards
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - DOJ
   - Pollard
   - IranContra
-alias:
-  - Mark Richard
-  - Mark Richards
 summary: "Deputy assistant attorney general in the Criminal Division for twenty years, named by a Senate investigator's source as knowing of Lowell Jensen's conduct in the INSLAW matter and questioned by the Bua inquiry over the Office of Special Investigations; he called INSLAW's charges slanderous."
 died: 2009-05-23
 location: "Washington, D.C."

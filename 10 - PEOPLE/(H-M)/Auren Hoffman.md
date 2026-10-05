@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Auren Ability Hoffman
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - LiveRamp
   - SiliconValley
   - Surveillance
-alias:
-  - Auren Ability Hoffman
 summary: "Auren Hoffman is an American technology entrepreneur who cofounded the secret society Dialog with Peter Thiel in 2006 and founded the location-data broker SafeGraph and the identity-resolution firm LiveRamp, placing him at the intersection of the Thiel elite-network and the consumer-data-brokerage industry."
 born: 1970-09-05
 location: "United States"

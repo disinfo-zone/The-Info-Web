@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Gerald B. Lefcourt
+  - Gerry Lefcourt
+  - Gerald Lefcourt
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - NonProsecutionAgreement
   - NACDL
-alias:
-  - Gerald B. Lefcourt
-  - Gerry Lefcourt
-  - Gerald Lefcourt
 summary: "New York criminal defense lawyer and former NACDL president who represented Jeffrey Epstein from 2006 and signed the September 2007 non-prosecution agreement and its October addendum for the defense."
 location: "New York, New York"
 relations:

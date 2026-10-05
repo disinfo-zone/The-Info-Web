@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Ajeya Cotra
 category: "Philanthropists & Benefactors"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - OpenPhilanthropy
   - AISafety
   - UCBerkeley
-alias:
-  - Ajeya Cotra
 summary: "Berkeley-trained effective altruist who joined Open Philanthropy in 2016, led its technical AI-risk grantmaking, sat on the board of its grantee Redwood Research, and later joined METR's technical staff."
 relations:
   - type: employed_by

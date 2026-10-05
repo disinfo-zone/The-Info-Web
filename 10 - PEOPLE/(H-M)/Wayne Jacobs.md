@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Wayne A. Jacobs
 category: "Law Enforcement & Legal"
 tags:
   - Person
   - FBI
   - Philadelphia
   - OlneyHouseInvestigation
-alias:
-  - Wayne A. Jacobs
 summary: "FBI special agent in charge of the Philadelphia Field Office, a former counterintelligence section chief, who briefed with police on the Olney House Investigation in September 2026."
 location: "Philadelphia, Pennsylvania"
 relations:

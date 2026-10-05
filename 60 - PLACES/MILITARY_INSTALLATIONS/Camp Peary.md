@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Armed Forces Experimental Training Activity
+  - AFETA
 category: "Military Installation"
 tags:
   - Place
@@ -7,9 +10,6 @@ tags:
   - Seabees
   - YuriNosenko
   - Counterintelligence
-alias:
-  - Armed Forces Experimental Training Activity
-  - AFETA
 summary: "Navy Seabee training camp on the York River near Williamsburg, Virginia, established in 1942, reopened in 1952 as the Defense Department's Armed Forces Experimental Training Activity and known locally as a CIA training camp."
 start: 1942-11-04
 location: "York County, Virginia"

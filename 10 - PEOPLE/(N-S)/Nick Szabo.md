@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nicholas Szabo
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - SmartContracts
   - Bitcoin
   - DigitalCash
-alias:
-  - Nicholas Szabo
 summary: "Nick Szabo is a computer scientist and legal scholar who proposed the digital-cash scheme bit gold, coined the concept of smart contracts, and is recurrently and consistently denied to be Satoshi Nakamoto."
 location: "United States"
 created: 2026-06-19

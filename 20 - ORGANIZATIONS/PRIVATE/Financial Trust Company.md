@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Financial Trust Company, Inc.
+  - Financial Trust Co.
+  - The Financial Trust Company
+  - TFTC
+  - FTC (Epstein)
 category: "Private Organization"
 tags:
   - Organization
@@ -9,12 +15,6 @@ tags:
   - TaxHaven
   - BearStearns
   - TowersFinancial
-alias:
-  - Financial Trust Company, Inc.
-  - Financial Trust Co.
-  - The Financial Trust Company
-  - TFTC
-  - FTC (Epstein)
 summary: "Jeffrey Epstein's St. Thomas money-management company, incorporated in 1998, which held Virgin Islands tax exemptions from 1999, a large Bear Stearns stake, and was accused of receiving Towers Financial proceeds."
 start: 1998-11-06
 location: "St. Thomas, U.S. Virgin Islands"

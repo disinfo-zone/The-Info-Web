@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Cypherpunk
+  - Cypherpunk movement
+  - Cypherpunks mailing list
 category: "Ideology"
 tags:
   - Concept
@@ -8,10 +12,6 @@ tags:
   - Privacy
   - DigitalCash
   - Cryptocurrency
-alias:
-  - Cypherpunk
-  - Cypherpunk movement
-  - Cypherpunks mailing list
 summary: "The cypherpunks were a cryptography-and-privacy movement organized around a mailing list founded in 1992 by Eric Hughes, Timothy May, and John Gilmore, whose advocacy of strong encryption and digital cash against state control ran forward into Bitcoin and WikiLeaks."
 location: "San Francisco Bay Area, California"
 created: 2026-06-19

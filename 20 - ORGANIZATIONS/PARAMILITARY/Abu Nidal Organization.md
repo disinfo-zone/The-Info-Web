@@ -1,4 +1,8 @@
 ---
+aliases:
+  - ANO
+  - Fatah Revolutionary Council
+  - Abu Nidal organization
 category: "Paramilitary"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - Terrorism
   - BCCI
   - AbuNidal
-alias:
-  - ANO
-  - Fatah Revolutionary Council
-  - Abu Nidal organization
 summary: "Palestinian terrorist organization of Sabri al-Banna (Abu Nidal) whose commercial and arms network was financed through a general account at BCCI in London, as a 1987 State Department report described."
 relations:
   - type: employed_by

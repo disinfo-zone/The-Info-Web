@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Felix
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - ReneSchneider
   - EdwardKorry
   - StationChief
-alias:
-  - Felix
 summary: "CIA station chief in Santiago in 1970 who advised against a coup, was recalled to Langley and told to stop objecting, ran the contacts with Chilean officers, and on instructions deceived his ambassador about them."
 location: "Santiago, Chile"
 created: 2026-09-21

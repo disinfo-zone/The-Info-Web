@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Middlebury Institute CTEC
+  - CTEC
+  - Middlebury CTEC
+  - Center on Terrorism, Extremism, and Counterterrorism
+  - Middlebury Institute of International Studies
+  - Middlebury Institute's Center on Terrorism, Extremism, and Counterterrorism
 category: "Private Organization"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - Accelerationism
   - OpenAI
   - TVTP
-alias:
-  - Middlebury Institute CTEC
-  - CTEC
-  - Middlebury CTEC
-  - Center on Terrorism, Extremism, and Counterterrorism
-  - Middlebury Institute of International Studies
-  - Middlebury Institute's Center on Terrorism, Extremism, and Counterterrorism
 summary: "Research center at the Middlebury Institute of International Studies in Monterey, founded in 2018, whose work on extremist language models, Telegram networks and games drew on OpenAI access, DHS grants and Logically funding."
 start: 2018
 location: "Monterey, California"

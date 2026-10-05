@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Robert E. Cramer
+  - Robert E. Cramer Jr.
+  - Robert E. (Bud) Cramer
+  - Robert Cramer
+  - Bud Cramer
 category: "Political Figure"
 tags:
   - Person
@@ -8,12 +14,6 @@ tags:
   - DefenseContractor
   - CorporateDirector
   - Radiance
-alias:
-  - Robert E. Cramer
-  - Robert E. Cramer Jr.
-  - Robert E. (Bud) Cramer
-  - Robert Cramer
-  - Bud Cramer
 summary: "Democratic member of the House from Alabama's 5th District from 1991 to 2009, Radiance Technologies director from December 2015, and a lobbyist listed on 535 Group filings; a defendant in Berry v. Bailey."
 location: "Huntsville, Alabama"
 relations:

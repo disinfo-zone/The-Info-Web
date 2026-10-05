@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lesley Groff
+  - Leslie Groff
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -8,9 +11,6 @@ tags:
   - NonProsecutionAgreement
   - Immunity
   - HouseOversightCommittee
-alias:
-  - Lesley Groff
-  - Leslie Groff
 summary: "Jeffrey Epstein's New York executive assistant from 2001 to 2019, named and immunized as a potential co-conspirator in his 2007 non-prosecution agreement, never charged, who denies knowing of his crimes."
 location: "New York, New York"
 relations:

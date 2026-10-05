@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Francis Gary Powers
+  - Gary Francis Powers
+  - Gary Powers
+  - Francis G. Powers
 category: "Intelligence & Government"
 tags:
   - Person
@@ -8,11 +13,6 @@ tags:
   - Lockheed
   - PrisonerExchange
   - Dimona
-alias:
-  - Francis Gary Powers
-  - Gary Francis Powers
-  - Gary Powers
-  - Francis G. Powers
 summary: "American Central Intelligence Agency U-2 pilot shot down near Sverdlovsk on May 1, 1960, tried in Moscow, exchanged for Rudolf Abel in 1962, and killed in a 1977 television helicopter crash."
 born: 1929-08-17
 died: 1977-08-01

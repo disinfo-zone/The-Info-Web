@@ -1,4 +1,10 @@
 ---
+aliases:
+  - VIPA
+  - V.I. Port Authority
+  - VI Port Authority
+  - USVI Port Authority
+  - Virgin Islands Port Authority (VIPA)
 category: "U.S. Government"
 tags:
   - Organization
@@ -8,12 +14,6 @@ tags:
   - JeffreyEpstein
   - GovernmentCapture
   - CarltonDowe
-alias:
-  - VIPA
-  - V.I. Port Authority
-  - VI Port Authority
-  - USVI Port Authority
-  - Virgin Islands Port Authority (VIPA)
 summary: "Territorial authority owning the U.S. Virgin Islands' public airports and seaports, which leased Jeffrey Epstein's aviation company a St. Thomas hangar and whose director and board member both dealt with Epstein."
 start: 1969-02-11
 location: "8074 Lindbergh Bay, St. Thomas, U.S. Virgin Islands"

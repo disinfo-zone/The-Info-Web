@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Mullen Company
+  - Robert R. Mullen and Company
+  - Mullen and Company
+  - QKENCHANT
 category: "Private Organization"
 tags:
   - Organization
@@ -9,11 +14,6 @@ tags:
   - Watergate
   - HowardHughes
   - ITT
-alias:
-  - Mullen Company
-  - Robert R. Mullen and Company
-  - Mullen and Company
-  - QKENCHANT
 summary: "Washington public relations firm that gave cover to CIA officers abroad from 1963, hired E. Howard Hunt on his retirement in 1970, represented Howard Hughes, and employed Hunt at the time of the Watergate break-in."
 start: 1963-06
 location: "Washington, D.C."

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Senator Malcolm Wallop
 category: "Political Figure"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - Wyoming
   - GrillFlame
   - RemoteViewing
-alias:
-  - Senator Malcolm Wallop
 summary: "Wyoming senator who as chairman of the Senate intelligence committee's budget subcommittee removed the Army's remote-viewing operations from the National Foreign Intelligence Program at the end of fiscal 1982."
 location: "Wyoming"
 created: 2026-09-21

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Regeneration Technologies, Inc.
+  - RTI Biologics
+  - RTI Biologics, Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -6,10 +10,6 @@ tags:
   - BiomedicalTissueServices
   - TissueBank
   - Florida
-alias:
-  - Regeneration Technologies, Inc.
-  - RTI Biologics
-  - RTI Biologics, Inc.
 summary: "Florida tissue processor that bought tissue from Biomedical Tissue Services, including bones taken from Alistair Cooke, and merged with Tutogen Medical in 2008 to form RTI Biologics."
 location: "Alachua, Florida"
 relations:

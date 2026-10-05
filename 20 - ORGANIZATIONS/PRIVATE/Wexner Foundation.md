@@ -1,4 +1,8 @@
 ---
+aliases:
+  - The Wexner Foundation
+  - Wexner Heritage Foundation
+  - Leslie H. Wexner Foundation
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - Philanthropy
   - JewishLeadership
   - Israel
-alias:
-  - The Wexner Foundation
-  - Wexner Heritage Foundation
-  - Leslie H. Wexner Foundation
 summary: "Ohio private foundation of the Wexner family, formed in 1973, on whose board Jeffrey Epstein sat from 1992 to 2007 and which paid Ehud Barak 2.3 million dollars between 2004 and 2006."
 start: 1973
 location: "New Albany, Ohio"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - GamerGate
+  - GG
 category: "Modern Incident"
 tags:
   - Event
@@ -10,9 +13,6 @@ tags:
   - Disinformation
   - 2014
   - ChanCulture
-alias:
-  - GamerGate
-  - GG
 summary: "Gamergate was a loosely organized online harassment campaign that began in August 2014 on 4chan and 8chan under the pretext of 'ethics in video game journalism,' whose coordinated harassment tactics and propaganda methods were subsequently adopted by the alt-right and the 2016 Trump campaign."
 start: 2014-08
 end: 2015-01

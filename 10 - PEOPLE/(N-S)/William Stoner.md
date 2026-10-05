@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bill Stoner
+  - Maj. William L. Stoner
 category: "Military"
 tags:
   - Person
@@ -6,9 +9,6 @@ tags:
   - GrillFlame
   - RemoteViewing
   - Army
-alias:
-  - Bill Stoner
-  - Maj. William L. Stoner
 summary: "Army intelligence staff major who coordinated the 1979 Gale Committee, sat on the Defense Department's Grill Flame working group, and wrote the memorandum attacking Gale's briefing of the report."
 location: "Washington, D.C."
 created: 2026-09-22

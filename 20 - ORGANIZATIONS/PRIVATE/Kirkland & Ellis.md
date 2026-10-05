@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Kirkland & Ellis
+  - Kirkland & Ellis LLP
+  - Kirkland and Ellis
 category: "Private Organization"
 tags:
   - Organization
@@ -9,10 +13,6 @@ tags:
   - RevolvingDoor
   - AlexanderAcosta
   - WilliamBarr
-alias:
-  - Kirkland & Ellis
-  - Kirkland & Ellis LLP
-  - Kirkland and Ellis
 summary: "American law firm whose partners Jay Lefkowitz and Kenneth Starr negotiated Jeffrey Epstein's 2007 non-prosecution agreement with Alexander Acosta, a former Kirkland associate, and which later employed William Barr."
 location: "Chicago, Illinois"
 relations:

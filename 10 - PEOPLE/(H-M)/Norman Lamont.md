@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lord Lamont of Lerwick
+  - Norman Stewart Hughson Lamont
 category: "Political Figure"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - HMTreasury
   - BankingSupervision
   - 1990s
-alias:
-  - Lord Lamont of Lerwick
-  - Norman Stewart Hughson Lamont
 summary: "Conservative Chancellor of the Exchequer from 1990 to 1993 who answered for the government after BCCI's July 1991 closure and, with the Bank of England's Governor, commissioned the Bingham inquiry."
 born: 1942-05-08
 location: "London, United Kingdom"

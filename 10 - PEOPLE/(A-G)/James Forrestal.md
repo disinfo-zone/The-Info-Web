@@ -1,4 +1,11 @@
 ---
+aliases:
+  - James Forrestal
+  - James V. Forrestal
+  - James Vincent Forrestal
+  - Jim Forrestal
+  - Secretary Forrestal
+  - Forrestal
 category: "Intelligence & Government"
 tags:
   - Person
@@ -10,13 +17,6 @@ tags:
   - WillcuttsReport
   - MJ12
   - UFO
-alias:
-  - James Forrestal
-  - James V. Forrestal
-  - James Vincent Forrestal
-  - Jim Forrestal
-  - Secretary Forrestal
-  - Forrestal
 summary: "Wall Street banker, Secretary of the Navy and first Secretary of Defense who died in a fall from Bethesda Naval Hospital in May 1949 and is named in the Majestic-12 documents."
 location: "Washington, D.C."
 relations:

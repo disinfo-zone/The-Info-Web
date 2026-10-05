@@ -1,4 +1,6 @@
 ---
+aliases:
+  - The Clear Fund
 category: "Private Organization"
 tags:
   - Organization
@@ -8,8 +10,6 @@ tags:
   - EffectiveAltruism
   - BridgewaterAssociates
   - Philanthropy
-alias:
-  - The Clear Fund
 summary: "GiveWell is a charity evaluator founded in 2007 by former Bridgewater Associates analysts Holden Karnofsky and Elie Hassenfeld, whose cost-effectiveness rankings of global-health charities and whose GiveWell Labs project, funded by Good Ventures, became Open Philanthropy."
 location: "San Francisco, California"
 created: 2026-06-20

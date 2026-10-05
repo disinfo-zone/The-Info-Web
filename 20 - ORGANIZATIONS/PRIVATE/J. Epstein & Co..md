@@ -1,4 +1,8 @@
 ---
+aliases:
+  - J. Epstein & Co
+  - J. Epstein and Company
+  - Jeff Epstein & Co.
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - LesWexner
   - VillardHouses
   - Finance
-alias:
-  - J. Epstein & Co
-  - J. Epstein and Company
-  - Jeff Epstein & Co.
 summary: "Jeffrey Epstein's money-management firm, run from the Villard Houses from about 1988, which he said served only billionaire clients and whose only acknowledged client was Leslie Wexner."
 start: 1988
 location: "New York, New York"

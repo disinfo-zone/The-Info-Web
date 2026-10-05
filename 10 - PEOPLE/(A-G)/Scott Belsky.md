@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Scott Belsky
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - A24
   - VentureCapital
   - Design
-alias:
-  - Scott Belsky
 summary: "Scott Belsky is an American entrepreneur and investor who founded Behance, sold it to Adobe in 2012 and rose to Adobe chief strategy officer, invested early in Uber, Pinterest, and Warby Parker, and became a partner at the film studio A24 in 2025."
 born: 1980
 location: "United States"

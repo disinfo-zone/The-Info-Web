@@ -1,4 +1,8 @@
 ---
+aliases:
+  - José Dionisio Suárez Esquivel
+  - José Dionisio Suárez
+  - Charco de Sangre
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - OrlandoLetelier
   - DINA
   - CubanExiles
-alias:
-  - José Dionisio Suárez Esquivel
-  - José Dionisio Suárez
-  - Charco de Sangre
 summary: "Cuban Nationalist Movement member who drove Michael Townley to Orlando Letelier's house in 1976 and, by Townley's account, pressed the buttons at Sheridan Circle, a fugitive until 1990 and released from immigration detention in 2001."
 born: 1939
 location: "Union City, New Jersey"

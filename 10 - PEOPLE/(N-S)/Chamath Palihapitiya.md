@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Chamath Palihapitiya
 category: "Technologists"
 tags:
   - Person
@@ -8,8 +10,6 @@ tags:
   - SPAC
   - AllInPodcast
   - VentureCapital
-alias:
-  - Chamath Palihapitiya
 summary: "Chamath Palihapitiya is a Sri Lankan-born Canadian-American venture capitalist who ran Facebook's user-growth team, founded Social Capital, sponsored the Social Capital Hedosophia SPACs that took Virgin Galactic, Opendoor, Clover Health, and SoFi public, and cohosts the All-In Podcast."
 born: 1976-09-03
 location: "Sri Lanka (born); Ottawa, Canada (raised)"

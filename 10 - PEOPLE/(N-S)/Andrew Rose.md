@@ -1,11 +1,11 @@
 ---
+aliases:
+  - Andrew M. Rose
 category: "Scientists & Researchers"
 tags:
   - Person
   - AndrewRose
   - AIR
-alias:
-  - Andrew M. Rose
 summary: "Chief scientist of the American Institutes for Research's Washington office and co-author of the 1995 AIR evaluation of Star Gate."
 created: 2026-09-22
 updated: 2026-09-22

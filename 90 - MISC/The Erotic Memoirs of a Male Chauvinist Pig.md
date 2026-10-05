@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Erotic Memoirs of a Male Chauvinist Pig
+  - Memoirs of a Male Chauvinist Pig
+  - Male Chauvinist Pig (film)
 category: "Crime & Abuse Networks"
 tags:
   - Film
@@ -6,10 +10,6 @@ tags:
   - RCHorsch
   - Philadelphia
   - OrganizedCrime
-alias:
-  - Erotic Memoirs of a Male Chauvinist Pig
-  - Memoirs of a Male Chauvinist Pig
-  - Male Chauvinist Pig (film)
 summary: "1973 pornographic feature shot in Philadelphia by Ray Hoersch, later R.C. Horsch, and John Butterworth, which Horsch said was financed by the Philadelphia bar owner Salvatore La Russa."
 location: "Philadelphia, Pennsylvania"
 relations:

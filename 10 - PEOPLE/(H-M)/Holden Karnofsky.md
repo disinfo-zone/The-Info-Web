@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Holden Karnofsky
 category: "Philanthropists & Benefactors"
 tags:
   - Person
@@ -7,8 +9,6 @@ tags:
   - Anthropic
   - ArtificialIntelligence
   - Longtermism
-alias:
-  - Holden Karnofsky
 summary: "Cofounder of GiveWell and Open Philanthropy and its co-CEO until 2023, a Redwood Research director, an OpenAI director from 2017 to 2021, Anthropic staff from 2025, and husband of Anthropic president Daniela Amodei."
 born: 1981
 location: "San Francisco, California"

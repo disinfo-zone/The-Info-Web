@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Transhumanism
+  - Transhumanist
+  - H+
 category: "Ideology"
 tags:
   - Concept
@@ -8,10 +12,6 @@ tags:
   - ArtificialIntelligence
   - HumanEnhancement
   - Posthumanism
-alias:
-  - Transhumanism
-  - Transhumanist
-  - H+
 summary: "Transhumanism is the movement to use technology to transcend human biological limits, named in its modern sense by Julian Huxley in 1957 and organized through the World Transhumanist Association founded in 1998."
 location: "United Kingdom; California"
 created: 2026-06-20

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - David F. Marks
 category: "Skeptics & Critics"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Skeptic
   - RemoteViewing
   - Otago
-alias:
-  - David F. Marks
 summary: "University of Otago psychologist whose 1978 Nature letter with Richard Kammann argued that cues in the SRI transcripts, not remote viewing, explained the Price series, and who pursued the case through 1986."
 location: "Dunedin, New Zealand"
 created: 2026-09-22

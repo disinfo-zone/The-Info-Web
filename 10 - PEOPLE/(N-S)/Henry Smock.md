@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Henry Smock, Esq.
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,8 +11,6 @@ tags:
   - LittleStJames
   - AlbertBryan
   - TaxIncentives
-alias:
-  - Henry Smock, Esq.
 summary: "St. Thomas lawyer and former territorial judge who helped Epstein buy Little St. James, counseled the board that granted his tax benefits, and was Governor Bryan's proposed mediator for the estate settlement."
 location: "St. Thomas, U.S. Virgin Islands"
 relations:

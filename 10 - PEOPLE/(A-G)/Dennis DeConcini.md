@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Dennis Webster DeConcini
+  - Dennis Deconcini
+  - Senator DeConcini
 category: "Political Figure"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - SavingsAndLoan
   - BCCI
   - Intelligence
-alias:
-  - Dennis Webster DeConcini
-  - Dennis Deconcini
-  - Senator DeConcini
 summary: "Democratic senator from Arizona from 1977 to 1995, one of the Keating Five, and chairman of the Senate Select Committee on Intelligence in the 103rd Congress."
 born: 1937-05-08
 location: "Tucson, Arizona"

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Minpeco S.A.
+  - Minero Peru Comercial
 category: "Foreign Government"
 tags:
   - Organization
@@ -8,9 +11,6 @@ tags:
   - HuntBrothers
   - RICO
   - CommoditiesManipulation
-alias:
-  - Minpeco S.A.
-  - Minero Peru Comercial
 summary: "Peruvian state minerals trading company that lost on short silver positions in 1979 and 1980 and won a federal judgment of more than 132 million dollars against the Hunt brothers and their partners."
 start: 1974
 location: "Peru"

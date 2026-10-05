@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Varo Manufacturing Company
+  - Varo Manufacturing Co.
+  - Varo Mfg. Co.
+  - Varo, Inc.
+  - Varo Inc.
+  - Varo
 category: "Private Companies"
 tags:
   - Organization
@@ -9,13 +16,6 @@ tags:
   - Texas
   - UFO
   - VaroEdition
-alias:
-  - Varo Manufacturing Company
-  - Varo Manufacturing Co.
-  - Varo Mfg. Co.
-  - Varo, Inc.
-  - Varo Inc.
-  - Varo
 summary: "Garland, Texas electronics manufacturer for the military whose Military Assistance Division retyped an annotated copy of M. K. Jessup's The Case for the UFO after it reached Office of Naval Research officers."
 location: "Garland, Texas"
 relations:

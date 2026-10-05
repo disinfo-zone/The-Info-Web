@@ -1,8 +1,8 @@
 ---
-category: "Political Figure"
-alias:
+aliases:
   - "Sheikh Zayed"
   - "Zayed bin Sultan Al Nahyan"
+category: "Political Figure"
 tags:
   - Person
   - BCCI

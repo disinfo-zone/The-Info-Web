@@ -1,4 +1,12 @@
 ---
+aliases:
+  - CVRA
+  - Crime Victims Rights Act
+  - Crime Victim's Rights Act
+  - Crime Victims’ Rights Act
+  - 18 U.S.C. 3771
+  - 18 U.S.C. § 3771
+  - Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims' Rights Act
 category: "Law Enforcement & Legal"
 tags:
   - Statute
@@ -7,14 +15,6 @@ tags:
   - NonProsecutionAgreement
   - DepartmentOfJustice
   - JusticeForAllAct
-alias:
-  - CVRA
-  - Crime Victims Rights Act
-  - Crime Victim's Rights Act
-  - Crime Victims’ Rights Act
-  - 18 U.S.C. 3771
-  - 18 U.S.C. § 3771
-  - Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims' Rights Act
 summary: "Federal statute enacted in 2004 as Title I of the Justice for All Act, codified at 18 U.S.C. 3771, whose conferral right was the basis of the Epstein victims' challenge to his non-prosecution agreement."
 start: 2004-10-30
 location: "United States"

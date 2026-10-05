@@ -1,4 +1,11 @@
 ---
+aliases:
+  - John D. Rockefeller Jr.
+  - John D. Rockefeller, Jr.
+  - John D. Rockefeller Junior
+  - John Davison Rockefeller Jr.
+  - John Davison Rockefeller, Jr.
+  - JDR Jr.
 category: "Business & Finance"
 tags:
   - Person
@@ -12,13 +19,6 @@ tags:
   - BureauOfSocialHygiene
   - ChaseNationalBank
   - JacksonHole
-alias:
-  - John D. Rockefeller Jr.
-  - John D. Rockefeller, Jr.
-  - John D. Rockefeller Junior
-  - John Davison Rockefeller Jr.
-  - John Davison Rockefeller, Jr.
-  - JDR Jr.
 summary: "Son of the Standard Oil founder, Colorado Fuel and Iron director during the 1913 to 1914 strike, Rockefeller Foundation chairman, and largest Chase National Bank stockholder who financed Jackson Hole and the United Nations site."
 born: 1874-01-29
 died: 1960-05-11

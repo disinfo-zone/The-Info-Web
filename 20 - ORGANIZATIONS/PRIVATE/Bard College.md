@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bard
+  - St. Stephen's College
 category: "Private Organization"
 tags:
   - Organization
@@ -9,9 +12,6 @@ tags:
   - GratitudeAmerica
   - SmolnyCollege
   - WilmerHale
-alias:
-  - Bard
-  - St. Stephen's College
 summary: "Liberal arts college in Annandale-on-Hudson, New York, founded in 1860, whose president Leon Botstein cultivated Jeffrey Epstein as a donor after his conviction and retired in 2026 after a WilmerHale review."
 start: 1860
 location: "Annandale-on-Hudson, New York"

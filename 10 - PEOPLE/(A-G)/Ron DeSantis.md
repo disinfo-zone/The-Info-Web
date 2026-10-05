@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Ronald DeSantis
+  - Ronald Dion DeSantis
+  - Governor Ron DeSantis
 category: "Political Figure"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - JeffreyEpstein
   - FloridaDepartmentOfLawEnforcement
   - PalmBeach
-alias:
-  - Ronald DeSantis
-  - Ronald Dion DeSantis
-  - Governor Ron DeSantis
 summary: "Governor of Florida since 2019, formerly a congressman, who in August 2019 reassigned the state's Jeffrey Epstein matter and ordered a state police inquiry that in 2021 found differential treatment but no crime."
 born: 1978-09-14
 location: "Tallahassee, Florida"

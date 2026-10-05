@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Alvin Ross Díaz
+  - Alvin Ross Diaz
 category: "Extremism & Violent Networks"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - CORU
   - OrlandoLetelier
   - CubanExiles
-alias:
-  - Alvin Ross Díaz
-  - Alvin Ross Diaz
 summary: "Former Tropicana blackjack dealer and Cuban Nationalist Movement member convicted of the Letelier murders in 1979 on a jailhouse informant's testimony, freed on appeal after United States v. Henry, and acquitted at retrial in 1981."
 location: "Union City, New Jersey"
 created: 2026-09-21

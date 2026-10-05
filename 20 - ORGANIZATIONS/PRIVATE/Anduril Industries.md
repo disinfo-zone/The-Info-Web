@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Anduril Industries Inc.
 category: "Private Organization"
 tags:
   - Organization
@@ -10,8 +12,6 @@ tags:
   - Pentagon
   - Lattice
   - AutonomousSystems
-alias:
-  - Anduril Industries Inc.
 summary: "Anduril Industries is a defense-technology contractor founded in 2017 by Palmer Luckey and Palantir Technologies alumni Brian Schimpf, Trae Stephens, Matt Grimm, and Joe Chen, backed by Founders Fund, that builds the Lattice autonomous-systems platform and autonomous hardware for the Pentagon and allied militaries, and was valued at 30.5 billion dollars in its 2025 Series G round."
 location: "Costa Mesa, California (headquarters)"
 created: 2026-06-17

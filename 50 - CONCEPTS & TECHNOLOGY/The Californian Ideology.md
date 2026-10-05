@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Californian Ideology
 category: "Ideology"
 tags:
   - Concept
@@ -8,8 +10,6 @@ tags:
   - Libertarianism
   - Neoliberalism
   - TechnologicalDeterminism
-alias:
-  - Californian Ideology
 summary: "The Californian Ideology is the 1995 essay by Richard Barbrook and Andy Cameron diagnosing the fusion of San Francisco hippie counterculture with free-market neoliberalism and technological determinism in 1990s Wired-era tech culture."
 location: "California"
 created: 2026-06-20

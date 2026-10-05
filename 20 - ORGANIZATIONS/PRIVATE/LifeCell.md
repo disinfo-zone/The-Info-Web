@@ -1,13 +1,13 @@
 ---
+aliases:
+  - LifeCell Corporation
+  - LifeCell Corp.
 category: "Private Organization"
 tags:
   - Organization
   - BodyPartsTrade
   - BiomedicalTissueServices
   - TissueBank
-alias:
-  - LifeCell Corporation
-  - LifeCell Corp.
 summary: "Tissue processor that bought tissue from Biomedical Tissue Services, recalled it in 2005, and faced recipients' lawsuits."
 created: 2026-09-23
 updated: 2026-09-23

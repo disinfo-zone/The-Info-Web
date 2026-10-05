@@ -1,13 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
-tags:
-  - Event
-  - UFO
-  - UAP
-  - AATIP
-  - Journalism
-  - NewYorkTimes
-alias:
+aliases:
   - 2017 New York Times UFO Article
   - Glowing Auras and 'Black Money'
   - Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program
@@ -16,6 +8,14 @@ alias:
   - New York Times AATIP story
   - December 16, 2017 New York Times article
   - The Times UFO story
+category: "UFO & Anomalous Phenomena"
+tags:
+  - Event
+  - UFO
+  - UAP
+  - AATIP
+  - Journalism
+  - NewYorkTimes
 summary: "On December 16, 2017 the New York Times and Politico published separate accounts of a Pentagon program funded at Harry Reid's request, the Times piece credited to Helene Cooper, Ralph Blumenthal and Leslie Kean."
 location: "Washington, D.C."
 date: 2017-12-16

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Geoffrey S. Berman
+  - Geoffrey Steven Berman
+  - Geoff Berman
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,10 +12,6 @@ tags:
   - PublicCorruption
   - WilliamBarr
   - Firing
-alias:
-  - Geoffrey S. Berman
-  - Geoffrey Steven Berman
-  - Geoff Berman
 summary: "Geoffrey Berman was the U.S. Attorney for the Southern District of New York who indicted Jeffrey Epstein in 2019 through its Public Corruption Unit and was removed by William Barr in June 2020."
 location: "New York, New York"
 relations:

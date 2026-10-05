@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Linda Moulton Howe
+  - Linda Howe
+  - Linda M. Howe
+  - Linda Moulton
+  - Ms. Howe
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -8,12 +14,6 @@ tags:
   - AFOSI
   - Disinformation
   - KirtlandAFB
-alias:
-  - Linda Moulton Howe
-  - Linda Howe
-  - Linda M. Howe
-  - Linda Moulton
-  - Ms. Howe
 summary: "Denver television producer of A Strange Harvest (1980) who, under a March 1983 HBO development contract, said AFOSI agent Richard Doty showed her a 'Briefing Paper for the President' at Kirtland on April 9, 1983."
 location: "Denver, Colorado"
 relations:

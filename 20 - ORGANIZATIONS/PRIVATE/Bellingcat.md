@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Bellingcat
+  - Stichting Bellingcat
+  - Bellingcat Foundation
+  - Bellingcat Ltd
+  - Bellingcat US
+  - Bellingcat US Inc
+  - Bellingcat Fund
+  - Bellingcat Fund Inc
 category: "Private Organization"
 tags:
   - Organization
@@ -13,15 +22,6 @@ tags:
   - Navalny
   - UndesirableOrganization
   - Netherlands
-alias:
-  - Bellingcat
-  - Stichting Bellingcat
-  - Bellingcat Foundation
-  - Bellingcat Ltd
-  - Bellingcat US
-  - Bellingcat US Inc
-  - Bellingcat Fund
-  - Bellingcat Fund Inc
 summary: "Open-source investigation collective founded by Eliot Higgins in 2014, run since 2018 as a Dutch foundation funded by lotteries, foundations and, in 2020 to 2022, the National Endowment for Democracy; undesirable in Russia in 2022."
 start: 2014
 location: "Amsterdam, Netherlands"

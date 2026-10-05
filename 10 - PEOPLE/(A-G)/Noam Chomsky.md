@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Noam Chomsky
+  - Avram Noam Chomsky
 category: "Scientists & Researchers"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - MIT
   - JeffreyEpstein
   - Academia
-alias:
-  - Noam Chomsky
-  - Avram Noam Chomsky
 summary: "Noam Chomsky is the American linguist who met Jeffrey Epstein from 2015, had 270,000 dollars moved through Epstein's office, and received a 20,000 dollar check from him for designing a linguistics prize."
 born: 1928-12-07
 location: "Philadelphia, Pennsylvania (born)"

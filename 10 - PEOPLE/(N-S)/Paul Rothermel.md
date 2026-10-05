@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Paul M. Rothermel Jr.
+  - Paul Rothermel Jr.
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - HuntOil
   - Wiretapping
   - Dallas
-alias:
-  - Paul M. Rothermel Jr.
-  - Paul Rothermel Jr.
 summary: "FBI agent who resigned in 1954 to become H.L. Hunt's assistant and security chief, kept up a correspondence with Hoover, and in 1969 was wiretapped by Hunt's sons, who accused him of embezzling millions."
 born: 1926-03-24
 location: "Dallas, Texas"

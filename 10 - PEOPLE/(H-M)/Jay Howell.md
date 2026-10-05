@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jay Howell
+  - Jay C. Howell
+  - Jay Howell & Associates
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -9,10 +13,6 @@ tags:
   - JeffreyEpstein
   - CrimeVictimsRightsAct
   - Jacksonville
-alias:
-  - Jay Howell
-  - Jay C. Howell
-  - Jay Howell & Associates
 summary: "Jacksonville victims' lawyer, founding executive director of the National Center for Missing and Exploited Children, who represented Jeffrey Epstein's victims in Doe v. United States and Epstein v. Rothstein."
 location: "Jacksonville, Florida"
 relations:

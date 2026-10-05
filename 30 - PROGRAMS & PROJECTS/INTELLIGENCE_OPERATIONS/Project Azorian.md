@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Azorian
+  - Jennifer
+  - Hughes Glomar Explorer
+  - Global Marine Development
 category: "Intelligence Operation"
 tags:
   - Project
@@ -9,11 +14,6 @@ tags:
   - Wackenhut
   - GlomarResponse
   - K129
-alias:
-  - Azorian
-  - Jennifer
-  - Hughes Glomar Explorer
-  - Global Marine Development
 summary: "CIA operation of 1969 to 1974 that built the Hughes Glomar Explorer under Howard Hughes's name to raise a sunken Soviet missile submarine, and gave its name to the refusal to confirm or deny."
 start: 1969-07-01
 end: 1975

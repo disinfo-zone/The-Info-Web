@@ -1,10 +1,10 @@
 ---
-category: "Intelligence & Government"
-alias:
+aliases:
   - Agência Brasileira de Inteligência
   - Agencia Brasileira de Inteligencia
   - Brazilian Intelligence Agency
   - Abin
+category: "Intelligence & Government"
 tags:
   - Organization
   - Brazil

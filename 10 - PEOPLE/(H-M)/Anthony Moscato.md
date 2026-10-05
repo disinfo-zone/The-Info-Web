@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Anthony C. Moscato
+  - Tony Moscato
 category: "Intelligence & Government"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - INSLAW
   - DOJ
   - EOUSA
-alias:
-  - Anthony C. Moscato
-  - Tony Moscato
 summary: "Career Justice Department administrator, acting director of the Executive Office for United States Attorneys during the Bua inquiry, whom Bill Hamilton accused of helping deny Judge Bason's reappointment; he told the special counsel he had nothing to do with it."
 born: 1945-09-04
 died: 2026-06-12

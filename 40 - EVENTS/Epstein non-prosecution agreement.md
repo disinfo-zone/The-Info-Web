@@ -1,4 +1,13 @@
 ---
+aliases:
+  - non-prosecution agreement
+  - Non-Prosecution Agreement
+  - Non-prosecution agreement
+  - NPA
+  - Epstein NPA
+  - 2007 non-prosecution agreement
+  - 2008 non-prosecution agreement
+  - Epstein Non-Prosecution Agreement
 category: "Law Enforcement & Legal"
 tags:
   - Event
@@ -9,15 +18,6 @@ tags:
   - PalmBeach
   - PleaDeal
   - Immunity
-alias:
-  - non-prosecution agreement
-  - Non-Prosecution Agreement
-  - Non-prosecution agreement
-  - NPA
-  - Epstein NPA
-  - 2007 non-prosecution agreement
-  - 2008 non-prosecution agreement
-  - Epstein Non-Prosecution Agreement
 summary: "The September 24, 2007 agreement in which federal prosecutors in Miami dropped a drafted indictment of Jeffrey Epstein and immunized his co-conspirators in exchange for two state guilty pleas."
 start: 2007-09-24
 end: 2019-09-16

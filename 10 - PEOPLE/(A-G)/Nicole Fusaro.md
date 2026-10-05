@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Nicole Amanda Fusaro
 category: "Victims & Witnesses"
 tags:
   - AbuseNetworks
@@ -7,8 +9,6 @@ tags:
   - MissingWomen
   - OlneyHouseInvestigation
   - Kensington
-alias:
-  - Nicole Amanda Fusaro
 summary: "Philadelphia woman last seen in Kensington in 2018 whom police believe R.C. Horsch killed on video, identified in September 2026 in the Olney House Investigation."
 location: "Philadelphia, Pennsylvania"
 relations:

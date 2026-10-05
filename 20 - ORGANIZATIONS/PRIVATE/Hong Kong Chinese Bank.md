@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Hongkong Chinese Bank
+  - HKCB
+  - Hong Kong Chinese Bank, Ltd.
 category: "Private Organization"
 tags:
   - Organization
@@ -7,10 +11,6 @@ tags:
   - LippoGroup
   - WorthenBank
   - ChinaResources
-alias:
-  - Hongkong Chinese Bank
-  - HKCB
-  - Hong Kong Chinese Bank, Ltd.
 summary: "Hong Kong bank whose Stephens family stake the Riadys took in exchange for their Worthen Bank shares about 1987, later part-owned by China Resources and sold to CITIC Ka Wah Bank in 2001."
 location: "Hong Kong"
 relations:

@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Diana Walsh Pasulka
+  - D. W. Pasulka
+  - DW Pasulka
+  - Diana W. Pasulka
+  - Pasulka
 category: "UFO & Anomalous Phenomena"
 tags:
   - Person
@@ -7,12 +13,6 @@ tags:
   - ReligiousStudies
   - SolFoundation
   - Author
-alias:
-  - Diana Walsh Pasulka
-  - D. W. Pasulka
-  - DW Pasulka
-  - Diana W. Pasulka
-  - Pasulka
 summary: "Professor of religious studies at the University of North Carolina Wilmington, author of American Cosmic (2019) and Encounters (2023), who said on September 11, 2023 that she was joining the Sol Foundation board."
 location: "Wilmington, North Carolina"
 relations:

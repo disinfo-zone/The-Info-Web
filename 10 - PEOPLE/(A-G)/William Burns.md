@@ -1,4 +1,7 @@
 ---
+aliases:
+  - William J. Burns
+  - Bill Burns
 category: "Intelligence & Government"
 tags:
   - Person
@@ -9,9 +12,6 @@ tags:
   - Palantir
   - Biden
   - Intelligence
-alias:
-  - William J. Burns
-  - Bill Burns
 summary: "William J. Burns is the American diplomat who met Jeffrey Epstein three times in 2014 as Deputy Secretary of State and later served as CIA director from 2021 to 2025."
 born: 1956-04-11
 location: "Fort Bragg, North Carolina (born)"

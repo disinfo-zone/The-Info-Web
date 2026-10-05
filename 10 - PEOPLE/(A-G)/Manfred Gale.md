@@ -1,4 +1,6 @@
 ---
+aliases:
+  - M. Gale
 category: "Intelligence & Government"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - GrillFlame
   - RemoteViewing
   - Army
-alias:
-  - M. Gale
 summary: "Army staff official who chaired the 1979 Grill Flame Scientific Evaluation Committee and whose report and briefings the Defense Department's parapsychology working group rejected as misleading."
 location: "Washington, D.C."
 created: 2026-09-22

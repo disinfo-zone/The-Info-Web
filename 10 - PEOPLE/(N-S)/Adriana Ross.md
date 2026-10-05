@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Adriana Mucinska
 category: "Criminals & Offenders"
 tags:
   - AbuseNetworks
@@ -9,8 +11,6 @@ tags:
   - Immunity
   - PrinceAndrew
   - Poland
-alias:
-  - Adriana Mucinska
 summary: "Polish former model employed at Jeffrey Epstein's Palm Beach house from 2002, named and immunized as a potential co-conspirator in his 2007 non-prosecution agreement, who invoked the Fifth Amendment when questioned about Prince Andrew."
 location: "Palm Beach, Florida"
 relations:

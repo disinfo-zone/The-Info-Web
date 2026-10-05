@@ -1,4 +1,6 @@
 ---
+aliases:
+  - James E. Alcock
 category: "Skeptics & Critics"
 tags:
   - Person
@@ -6,8 +8,6 @@ tags:
   - Skeptic
   - CSICOP
   - YorkUniversity
-alias:
-  - James E. Alcock
 summary: "York University social psychologist, CSICOP founding participant and author of Parapsychology: Science or Magic?, named by the National Research Council in 1995 as a prospective reviewer of Star Gate."
 location: "Toronto, Ontario"
 created: 2026-09-22

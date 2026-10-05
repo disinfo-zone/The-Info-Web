@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Will MacAskill
+  - William David MacAskill
 category: "Activists & Advocates"
 tags:
   - Person
@@ -7,9 +10,6 @@ tags:
   - Oxford
   - SamBankmanFried
   - FTX
-alias:
-  - Will MacAskill
-  - William David MacAskill
 summary: "William MacAskill is a Scottish moral philosopher at Oxford who cofounded effective altruism through Giving What We Can, 80,000 Hours, and the Centre for Effective Altruism, wrote the longtermist book What We Owe the Future, recruited Sam Bankman-Fried into earning-to-give, and resigned from the FTX Future Fund when the exchange collapsed in 2022."
 born: 1987-03-24
 location: "Oxford, England"

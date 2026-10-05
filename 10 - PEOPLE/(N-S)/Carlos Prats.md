@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Carlos Prats González
+  - General Prats
 category: "Military"
 tags:
   - Person
@@ -8,9 +11,6 @@ tags:
   - OperationCondor
   - Assassination
   - BuenosAires
-alias:
-  - Carlos Prats González
-  - General Prats
 summary: "Commander of the Chilean army under Salvador Allende, who recommended Augusto Pinochet as his successor and was killed with his wife by a secret police car bomb in Buenos Aires on September 30, 1974."
 died: 1974-09-30
 location: "Buenos Aires, Argentina"

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Jeffrey Sloman
+  - Jeffrey H. Sloman
+  - Jeff Sloman
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -7,10 +11,6 @@ tags:
   - Prosecutor
   - DepartmentOfJustice
   - RevolvingDoor
-alias:
-  - Jeffrey Sloman
-  - Jeffrey H. Sloman
-  - Jeff Sloman
 summary: "First Assistant U.S. Attorney in Miami during the Epstein non-prosecution agreement, who negotiated its addendum, supervised the case after Acosta's recusal, then led the office before entering white-collar defense practice."
 location: "Miami, Florida"
 relations:

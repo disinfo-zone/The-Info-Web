@@ -1,12 +1,12 @@
 ---
+aliases:
+  - Robert E. Keenan
 category: "Military"
 tags:
   - Person
   - Military
   - Stargate
 summary: "Colonel Robert Keenan was the commanding officer of the Systems Exploitation Detachment (SED) under the command of United States Army Intelligence and Security Command (INSCOM)."
-alias:
-  - Robert E. Keenan
 ---
 
 Colonel Robert Keenan was the commanding officer of the [[Systems Exploitation Detachment]] (SED) under the command of [[United States Army Intelligence and Security Command]] (INSCOM). In this role (July 1978 - May 1980[^1]), he was responsible for overseeing the activities and personnel within the detachment. When [[Frederick Atwater]] proposed the idea of forming a remote viewing team within the Army, it was Keenan who had the authority to approve or reject the proposal.

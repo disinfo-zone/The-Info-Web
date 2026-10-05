@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Mercer family
+  - Mercers
+  - Robert Mercer
+  - Robert L. Mercer
+  - Robert Leroy Mercer
+  - Rebekah Mercer
+  - Rebekah A. Mercer
+  - Jennifer Mercer
+  - Heather Mercer
+  - Mercer Family Foundation
 category: "Business & Finance"
 tags:
   - NewRight
@@ -13,17 +24,6 @@ tags:
   - CambridgeAnalytica
   - DarkMoney
   - Parler
-alias:
-  - Mercer family
-  - Mercers
-  - Robert Mercer
-  - Robert L. Mercer
-  - Robert Leroy Mercer
-  - Rebekah Mercer
-  - Rebekah A. Mercer
-  - Jennifer Mercer
-  - Heather Mercer
-  - Mercer Family Foundation
 summary: "Family of the Renaissance Technologies co-chief executive Robert Mercer and his daughters, whose private foundation, super PAC contributions and company investments reached conservative organizations, Cambridge Analytica, Parler and 1789 Capital."
 location: "East Setauket, New York"
 relations:

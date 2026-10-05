@@ -1,4 +1,12 @@
 ---
+aliases:
+  - U.S. Attorney's Office for the Southern District of Florida
+  - United States Attorney's Office for the Southern District of Florida
+  - U.S. Attorney's Office, Southern District of Florida
+  - Southern District of Florida
+  - SDFL
+  - USAO-SDFL
+  - Miami U.S. Attorney's Office
 category: "U.S. Government"
 tags:
   - Organization
@@ -7,14 +15,6 @@ tags:
   - JeffreyEpstein
   - NonProsecutionAgreement
   - Miami
-alias:
-  - U.S. Attorney's Office for the Southern District of Florida
-  - United States Attorney's Office for the Southern District of Florida
-  - U.S. Attorney's Office, Southern District of Florida
-  - Southern District of Florida
-  - SDFL
-  - USAO-SDFL
-  - Miami U.S. Attorney's Office
 summary: "Federal prosecutor's office for South Florida, headquartered in Miami, which investigated Jeffrey Epstein from 2006 and resolved the case in 2007 through a non-prosecution agreement immunizing his co-conspirators."
 start: 1929
 location: "Miami, Florida"

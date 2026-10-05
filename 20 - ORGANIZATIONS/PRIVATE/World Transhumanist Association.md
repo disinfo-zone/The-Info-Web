@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Humanity Plus
+  - Humanity+
+  - Humanity Plus Inc
+  - Humanity Plus, Inc.
+  - World Transhumanist Association (Humanity+)
 category: "Private Organization"
 tags:
   - Organization
@@ -7,12 +13,6 @@ tags:
   - JeffreyEpstein
   - ArtificialIntelligence
   - Philanthropy
-alias:
-  - Humanity Plus
-  - Humanity+
-  - Humanity Plus Inc
-  - Humanity Plus, Inc.
-  - World Transhumanist Association (Humanity+)
 summary: "Transhumanist membership organization founded in 1998 by Nick Bostrom and David Pearce, later renamed Humanity+, which received Jeffrey Epstein money in 2010 and from his Gratitude America in 2018."
 start: 1998
 location: "Glastonbury, Connecticut (registered address)"
