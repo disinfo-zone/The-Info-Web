@@ -22,7 +22,7 @@ tags:
   - ChurchCommittee
   - RockefellerCommission
 category: "Intelligence Operation"
-summary: "CIA counterintelligence program run by Richard Ober's Special Operations Group from August 1967 to March 1974, which indexed some 300,000 names in the HYDRA system and kept about 13,000 files on dissident Americans."
+summary: "CIA counterintelligence program of the Special Operations Group headed by Richard Ober, run from August 1967 to March 1974, which indexed some 300,000 names and kept about 13,000 files on Americans."
 start: 1967-08-15
 end: 1974-03-15
 location: "Washington, D.C."
@@ -31,8 +31,8 @@ relations:
     with: "[[Richard Ober]]"
     reverse: true
     start: 1967-08-15
-    end: 1974-03-15
-    role: "chief of the Special Operations Group, Counterintelligence Staff"
+    end: 1972
+    role: "chief of the Special Operations Group, Counterintelligence Staff (1967 to 1972, per the Hoover Institution finding aid for his papers)"
     fn: 2
   - type: investigated
     with: "[[Rockefeller Commission 1975]]"
@@ -149,7 +149,7 @@ Hersh wrote in *The Samson Option* (1991) that Angleton "was a sponsor, through 
 
 ### Charles Manson
 
-In *Chaos: Charles Manson, the CIA, and the Secret History of the Sixties* (2019), [[Tom O'Neill]] wrote that [[Charles Manson]] was released from [[Terminal Island]] federal prison on March 21, 1967, left [[Los Angeles]] for Berkeley within days in violation of his parole, was transferred to the supervision of the federal parole officer Roger Smith, and afterward met Smith at the [[Haight-Ashbury Free Medical Clinic]]; O'Neill places the MKULTRA psychiatrist [[Louis Jolyon West]]'s "hippie crash pad" laboratory on nearby Frederick Street. O'Neill wrote that he focused on the FBI's COINTELPRO and the CIA's CHAOS as operations then under way in Los Angeles, that he "had reliable sources suggesting that he was an informant, or at least hanging around with others who could've been," that he was "only speculating," and, in the epilogue, "I don't know" what happened, adding: "My goal isn't to say what did happen—it's to prove that the official story didn't." The book cites no CHAOS record naming Manson.[^14] The Rockefeller Commission and Church Committee chapters on CHAOS do not mention Manson.[^1][^2]
+In *Chaos: Charles Manson, the CIA, and the Secret History of the Sixties* (2019), [[Tom O'Neill]] wrote that [[Charles Manson]] was released from [[Terminal Island]] federal prison on March 21, 1967, left [[Los Angeles]] for Berkeley within days in violation of his parole, was transferred to the supervision of the federal parole officer Roger Smith, and afterward met Smith at the [[Haight-Ashbury Free Medical Clinic]]; O'Neill places the MKULTRA psychiatrist [[Louis Jolyon West]]'s "hippie crash pad" laboratory on nearby Frederick Street. O'Neill wrote that he focused on the FBI's COINTELPRO and the CIA's CHAOS as operations then under way in Los Angeles, that he "had reliable sources suggesting that he was an informant, or at least hanging around with others who could've been," that he was "only speculating," and, in the epilogue, "I don't know" what happened, adding that his goal was not "to say what did happen" but "to prove that the official story didn't." The book cites no CHAOS record naming Manson.[^14] The Rockefeller Commission and Church Committee chapters on CHAOS do not mention Manson.[^1][^2]
 
 ### Relation to MERRIMAC and RESISTANCE
 

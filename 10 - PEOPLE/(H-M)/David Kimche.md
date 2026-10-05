@@ -17,13 +17,13 @@ David Kimche was born on February 14, 1928, in London. He joined [[Mossad]] in 1
 
 ### Iran-Contra Role
 
-Kimche is consistently identified as the principal Israeli official who initiated and structured the arms-for-hostages channel between the United States and Iran that became the foundation of the [[Iran-Contra Affair]].
+Kimche is consistently identified as the principal Israeli official who initiated and structured the arms-for-hostages channel between the United States and Iran that became the foundation of the [[Iran-Contra Affair]].[^2]
 
-In mid-1985, Kimche, serving as director-general of the Foreign Ministry, approached U.S. National Security Advisor [[Robert McFarlane]] and pressed him to authorize the transfer of American weapons to Iran via Israel in exchange for the release of American hostages held in Lebanon. Kimche framed the proposal as a potential opening to moderate Iranian factions; McFarlane presented it to President [[Ronald Reagan]], who agreed. The arrangement violated an international arms embargo on Iran.[^2]
+Kimche met [[Robert McFarlane]] in Washington on July 3, 1985; McFarlane's later account of that meeting was that there was no request for arms and no linkage to the hostages, though Kimche mentioned that arms might be raised later, and that President [[Ronald Reagan]] approved a political dialogue. On July 7 and 8, 1985 Kimche, [[Yaacov Nimrodi]], [[Al Schwimmer]], [[Manucher Ghorbanifar]] and Adnan Khashoggi met in Geneva and Hamburg to discuss TOW missiles and hostages. On August 2, 1985 Kimche asked McFarlane whether it would be different if Israel delivered the TOWs, and McFarlane testified that Reagan then approved Israel's delivery with replacement sales to follow.[^3]
 
-Kimche operated as part of what contemporaneous accounts called a "troika" of Israeli facilitators alongside [[Yaacov Nimrodi]], a former military attache, and [[Al Schwimmer]], founder of Israel Aircraft Industries. The three managed the first three arms transfers to Iran in 1985, which consisted of TOW anti-tank missiles supplied from Israeli stocks in exchange for American replacement weapons.[^3]
+Nimrodi was a former military attache and Schwimmer the founder of Israel Aircraft Industries. Working through Nimrodi, Schwimmer and Ghorbanifar, Israel shipped 96 U.S.-made TOW missiles to Iran on August 20, 1985 and 408 more on September 14, 1985, after which one American hostage, Benjamin Weir, was released.[^3] Secretary of Defense Caspar Weinberger objected on December 7, 1985 that the United States embargo on arms sales to Iran would make such a sale illegal even if it were done through Israel.[^3]
 
-Kimche stepped back from the operation by late 1985, reportedly concerned about the growing complexity of the arrangement and its departure from the original policy rationale. By that point, the channel had been handed off to figures including [[Manucher Ghorbanifar]], [[Oliver North]], and the network that would produce the scandal's subsequent stages.[^1]
+Kimche met McFarlane on November 8, 1985, spoke with him about a HAWK missile shipment on November 18, 1985, and attended the London meetings of December 7 and 8, 1985 with McFarlane, [[Oliver North]], Richard Secord, Ghorbanifar, Schwimmer and Nimrodi. By May 1986 Amiram Nir had replaced Kimche as the Israeli official in the arms deals.[^3]
 
 ### Later Career
 
@@ -33,4 +33,4 @@ After leaving the Foreign Ministry in 1987, Kimche served as Israel's ambassador
 
 [^1]: Ignatius, David. "David Kimche dies; Israeli spy involved in Iran-contra scandal," *Washington Post,* March 9, 2010. https://www.washingtonpost.com/wp-dyn/content/article/2010/03/09/AR2010030903843.html
 [^2]: "David Kimche: Israel's Leading Spy and Would-Be Mossad Chief," *Washington Report on Middle East Affairs,* October 1991. https://www.wrmea.org/1991-october/david-kimche-israel-s-leading-spy-and-would-be-mossad-chief.html
-[^3]: "David Kimche," Wikipedia. https://en.wikipedia.org/wiki/David_Kimche
+[^3]: Lawrence E. Walsh, *Final Report of the Independent Counsel for Iran/Contra Matters*, vol. I (Washington, D.C.: U.S. Court of Appeals for the District of Columbia Circuit, Division for the Purpose of Appointing Independent Counsels, 1993), chapter 1, "United States v. Robert C. McFarlane," account of the Iran arms sales, July 1985 to May 1986 (citing McFarlane, SSCI testimony, December 7, 1986; Israeli Historical Chronology, Part One, July 29, 1987; Weinberger and Hill notes). https://irp.fas.org/offdocs/walsh/chap_01.htm
