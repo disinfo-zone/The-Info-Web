@@ -2,9 +2,7 @@
 category: "Intelligence & Government"
 tags:
   - Pseudonym
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for an Army civilian photo-interpreter selected for the Gondola Wish unit."

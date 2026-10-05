@@ -4,10 +4,9 @@ aliases:
   - Secretary of the Army John Marsh
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
+  - Stargate
 summary: "John Marsh was the Secretary of the U.S."
 born: 1926-08-07
 died: 2019-02-04

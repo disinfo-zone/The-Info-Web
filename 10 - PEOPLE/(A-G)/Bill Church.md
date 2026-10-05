@@ -1,10 +1,9 @@
 ---
 category: "Philanthropists & Benefactors"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - SRI
+  - Stargate
 summary: "Philanthropist and part-owner of Church's Fried Chicken who provided initial funding for Hal Puthoff's psi research at SRI."
 ---
 

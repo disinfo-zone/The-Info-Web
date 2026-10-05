@@ -1,10 +1,9 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - SRI
+  - Stargate
 summary: "SRI branch chief who served as an outbound experimenter in Pat Price's first formal remote viewing test of the outbound protocol."
 ---
 

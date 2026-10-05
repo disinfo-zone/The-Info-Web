@@ -1,10 +1,9 @@
 ---
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - SRI
+  - Stargate
 summary: "Edgar Mitchell was an American astronaut, best known as the lunar module pilot for Apollo 14, making him the sixth person to walk on the Moon."
 born: 1930-09-17
 died: 2016-02-04

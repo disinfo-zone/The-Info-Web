@@ -1,9 +1,7 @@
 ---
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "Keith dropped out of the original Gondola Wish team not long after being selected, but he continued to task the remote viewers with targets related to his own operations."

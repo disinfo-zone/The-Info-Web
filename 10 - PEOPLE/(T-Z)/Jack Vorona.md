@@ -9,7 +9,6 @@ tags:
   - Stargate
   - CIA
   - Military
-  - RemoteViewer
   - DIA
 summary: "Jack Vorona was the Assistant Director for Scientific and Technical Intelligence at the Defense Intelligence Agency (DIA) and served as the overall manager of the Grill Flame program."
 updated: 2026-09-22

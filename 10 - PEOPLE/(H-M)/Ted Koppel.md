@@ -3,9 +3,7 @@ aliases:
 - Ted Koppel
 category: "Authors & Journalists"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "During the broadcast, Koppel interviewed Dale Graff of the DIA and Robert Gates of the CIA."
 born: 1940-02-08

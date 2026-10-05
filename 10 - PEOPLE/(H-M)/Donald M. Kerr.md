@@ -3,9 +3,7 @@ aliases:
   - Donald M. Kerr, Jr.
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
   - Nuclear
   - Israel

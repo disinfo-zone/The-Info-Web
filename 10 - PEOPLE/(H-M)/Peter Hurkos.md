@@ -10,7 +10,6 @@ tags:
   - Psi
   - Person
   - RemoteViewer
-  - PSI
   - Parapsychology
   - 1950s
   - 1960s

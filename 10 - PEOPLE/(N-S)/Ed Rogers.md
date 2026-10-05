@@ -5,7 +5,6 @@ tags:
   - Person
   - Stargate
   - CIA
-  - RemoteViewer
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for the chief of the CIA's Staff D."
 ---
 Ed Rogers is a pseudonym [[Jim Schnabel]] used in *Remote Viewers* (1997) for the chief of the CIA's Staff D; the book's list of pseudonyms includes the name.[^2]

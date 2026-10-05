@@ -2,12 +2,11 @@
 category: "Intelligence & Government"
 tags:
   - Pseudonym
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - SRI
   - Soviet
+  - Stargate
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for a CIA physicist who worked with Ken Kress."
 ---
 Peter Maris is a pseudonym [[Jim Schnabel]] used in *Remote Viewers* (1997) for a CIA physicist who worked with Ken Kress; the book's list of pseudonyms includes the name.[^2]

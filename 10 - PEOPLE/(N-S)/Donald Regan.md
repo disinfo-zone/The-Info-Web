@@ -4,7 +4,6 @@ tags:
   - Person
   - BCCI
   - CIA
-  - RemoteViewer
 summary: "Regan stated that 'Virtually every major move and decision the Reagans made during my time as White House chief of staff was cleared by a woman in San Francisco who drew up horoscopes to make certain that the planets were in favorable alignment for the enterprise.' This revelation was confirmed by W"
 born: 1918-12-21
 died: 2003-06-10

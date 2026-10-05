@@ -7,7 +7,6 @@ tags:
   - Person
   - Stargate
   - CIA
-  - RemoteViewer
 summary: "Robert Gates is an American government official who served as the Director of Central Intelligence (DCI) from 1991 to 1993."
 born: 1943-09-25
 location: "Wichita, Kansas"

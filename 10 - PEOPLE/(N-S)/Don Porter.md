@@ -6,7 +6,6 @@ tags:
   - Stargate
   - CIA
   - Military
-  - RemoteViewer
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for an INSCOM official at Arlington Hall."
 ---
 Don Porter is a pseudonym [[Jim Schnabel]] used in *Remote Viewers* (1997) for an INSCOM official at Arlington Hall; the book's list of pseudonyms includes the name.[^2]

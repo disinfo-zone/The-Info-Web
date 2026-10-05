@@ -3,9 +3,7 @@ aliases:
 - Marlin Fitzwater
 category: "Political Figure"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Marlin Fitzwater was the White House press secretary under President Ronald Reagan."
 born: 1942-11-24
 location: "Salina, Kansas"

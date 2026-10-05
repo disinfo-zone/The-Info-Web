@@ -6,7 +6,6 @@ tags:
   - Person
   - Stargate
   - CIA
-  - RemoteViewer
 summary: "Morse Allen was a CIA officer and a deception and polygraph expert who played a significant role in the agency's early programs investigating altered states of consciousness and truth serums."
 ---
 

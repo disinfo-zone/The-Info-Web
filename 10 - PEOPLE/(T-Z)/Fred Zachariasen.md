@@ -3,9 +3,7 @@ aliases:
 - Fred Zachariasen
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "Fred Zachariasen was a physics professor at Caltech and a ranking member of the Department of Defense's elite JASON Committee."
 born: 1931

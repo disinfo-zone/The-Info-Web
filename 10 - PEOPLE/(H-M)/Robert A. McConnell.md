@@ -3,9 +3,7 @@ aliases:
 - Robert A. McConnell
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Jung remarked on how some age-old mysteries never change, and that attempts to explain away seemingly miraculous results often fail against the facts."
 born: 1914-04-06
 died: 2006-07-31

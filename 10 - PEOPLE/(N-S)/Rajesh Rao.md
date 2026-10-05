@@ -3,9 +3,7 @@ aliases:
 - Rajesh Rao
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Rajesh Rao is a computational neuroscientist who collaborated with Andrea Stocco at the Institute for Learning and Brain Sciences (I-LABS) at the University of Washington in Seattle."
 born: 1970-07-02
 location: "Madras, India"

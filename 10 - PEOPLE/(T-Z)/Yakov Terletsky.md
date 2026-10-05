@@ -3,9 +3,7 @@ aliases:
 - Yakov Terletsky
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Yakov Terletsky was the chairman of theoretical physics at Moscow University and a winner of the Laureate of the State Prize in the Soviet Union."
 born: 1912

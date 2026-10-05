@@ -3,10 +3,9 @@ aliases:
 - Ruth Sinai
 category: "Authors & Journalists"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
+  - Stargate
 summary: "Ruth Sinai was a Washington correspondent for the Associated Press."
 ---
 

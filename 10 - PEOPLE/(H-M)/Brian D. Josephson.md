@@ -4,9 +4,7 @@ aliases:
   - Josephson
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - SRI
 summary: "His work on the Josephson junction, a configuration of two layers of superconducting material sandwiching a thin layer of non-superconducting material, was part of the quark detector used in Hal Puthoff and Ingo Swann's psychokinesis experiment at SRI."
 born: 1940-01-04

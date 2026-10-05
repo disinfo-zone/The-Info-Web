@@ -1,9 +1,8 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "Milan Ryzl was a Czech parapsychologist active in psi research in the mid-1960s."
 born: 1928
 died: 2011

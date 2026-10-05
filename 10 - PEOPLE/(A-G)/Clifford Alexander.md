@@ -1,9 +1,7 @@
 ---
 category: "Political Figure"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "U.S. Secretary of the Army who tacitly supported the Stargate Project during its early years."

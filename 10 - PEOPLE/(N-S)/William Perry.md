@@ -6,7 +6,6 @@ tags:
   - Person
   - Stargate
   - Military
-  - RemoteViewer
 summary: "William Perry served as the Undersecretary of Defense for Research and Engineering."
 born: 1927-10-11
 location: "Vandergrift, Pennsylvania"

@@ -1,9 +1,7 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "American psychologist and parapsychologist who developed the Zener Cards, a standard ESP testing tool, and collaborated with J.B. Rhine at Duke University."
 born: 1903
 died: 1964

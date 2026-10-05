@@ -3,9 +3,7 @@ aliases:
 - Janet Mitchell
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Janet Mitchell was an assistant to Karlis Osis, the director of research at the American Society for Psychical Research (ASPR)."
 ---
 

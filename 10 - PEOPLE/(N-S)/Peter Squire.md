@@ -3,9 +3,7 @@ aliases:
 - Peter Squire
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Peter Squire is a program officer in the Office of Naval Research (ONR)'s Expeditionary Maneuver Warfare and Combating Terrorism department."
 ---
 Peter Squire is a program officer in the [[Office of Naval Research]] (ONR)'s Expeditionary Maneuver Warfare and Combating Terrorism department. In 2014, ONR embarked on a four-year, $3.85 million research program to explore the phenomena it calls [[Premonition]] and [[Intuition]], or "Spidey sense," for sailors and Marines[^1].

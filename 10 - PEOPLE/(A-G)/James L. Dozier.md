@@ -5,10 +5,9 @@ aliases:
   - Brigadier General James L. Dozier
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
+  - Stargate
 summary: "Brigadier General James L."
 born: 1931-04-10
 location: "Arcadia, Florida"

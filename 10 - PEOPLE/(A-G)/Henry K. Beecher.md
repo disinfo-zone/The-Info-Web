@@ -3,9 +3,7 @@ aliases:
 - Henry K. Beecher
 category: "Medicine & Psychology"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Beecher's work contributed to the understanding of how perception of an event or a situation - real or imagined, rational or irrational - can cause consequential actions to occur."
 born: 1904-02-04
 died: 1976-07-25

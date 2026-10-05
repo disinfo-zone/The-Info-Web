@@ -4,7 +4,6 @@ aliases:
 category: "Authors & Journalists"
 tags:
   - Person
-  - Skeptic
   - Magician
 summary: "Leon Jaroff was a senior editor at *Time* magazine."
 born: 1927-02-27

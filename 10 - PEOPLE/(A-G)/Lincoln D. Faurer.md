@@ -8,7 +8,6 @@ tags:
   - Stargate
   - CIA
   - Military
-  - RemoteViewer
   - NSA
 summary: "Faurer's interest led him to assign the remote-viewing unit at Fort Meade a dozen new tasks in April 1982."
 born: 1928-02-07

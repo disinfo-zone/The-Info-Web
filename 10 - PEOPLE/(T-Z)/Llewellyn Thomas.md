@@ -3,9 +3,7 @@ aliases:
 - Llewellyn Thomas
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Llewellyn Thomas (1903–1972) was an American diplomat who served as the U.S."
 died: 1972-02-06

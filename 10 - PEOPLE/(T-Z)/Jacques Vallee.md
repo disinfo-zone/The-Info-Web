@@ -3,11 +3,10 @@ aliases:
 - Jacques Vallée
 category: "UFO & Anomalous Phenomena"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - SRI
+  - Stargate
 summary: "Jacques Vallée is a French-born computer scientist, astronomer, and UFOlogist."
 born: 1939-09-24
 location: "Pontoise, France"

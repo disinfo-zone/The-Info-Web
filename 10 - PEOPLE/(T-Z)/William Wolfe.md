@@ -1,10 +1,9 @@
 ---
 category: "Extremism & Violent Networks"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
+  - Stargate
 summary: "Wolfe became Patty Hearst's lover within the SLA."
 ---
 

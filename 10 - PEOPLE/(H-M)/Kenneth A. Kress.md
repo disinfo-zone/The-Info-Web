@@ -5,12 +5,10 @@ aliases:
   - Kenneth Kress
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
   - Stargate
   - Physicist
   - CIA
-  - RemoteViewer
   - SRI
 summary: "Kress was the lead analyst assigned to the operation involving Pat Price's Remote Viewing of URDF-3, a highly classified Soviet research and development facility in Kazakhstan."
 ---

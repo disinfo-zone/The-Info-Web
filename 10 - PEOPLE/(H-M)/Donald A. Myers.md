@@ -3,9 +3,7 @@ aliases:
 - Donald A. Myers
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Myers's deployment came two years after a new and more powerful set of Soviet microwave beams (MUTS-2) were picked up by the CIA in Moscow."
 ---

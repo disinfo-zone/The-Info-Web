@@ -4,7 +4,6 @@ tags:
   - Person
   - Stargate
   - CIA
-  - RemoteViewer
 summary: "Stansfield Turner (1923–2018) was an American admiral who served as the DCI under President Jimmy Carter from 1977 to 1981."
 born: 1923-12-01
 died: 2018-01-18

@@ -2,9 +2,7 @@
 category: "Military"
 tags:
   - Pseudonym
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for an Army captain selected for the Gondola Wish and Grill Flame unit."

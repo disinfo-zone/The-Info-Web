@@ -1,10 +1,9 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - SRI
+  - Stargate
 summary: "SRI official involved in early remote viewing experiments by Hal Puthoff and Russell Targ, including Pat Price's sessions."
 ---
 

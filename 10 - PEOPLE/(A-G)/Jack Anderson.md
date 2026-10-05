@@ -3,9 +3,7 @@ aliases:
 - Jack Anderson
 category: "Authors & Journalists"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
 summary: "Jack Anderson (1922–2005) was a Pulitzer Prize-winning American investigative journalist and syndicated columnist for *The Washington Post*."
 born: 1922-10-19

@@ -1,9 +1,7 @@
 ---
 category: "Authors & Journalists"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
   - Soviet
 summary: "Schroeder and Ostrander's work, which included accounts from figures like Eduard Naumov, contributed to the growing awareness and concern within the U.S."

@@ -4,9 +4,8 @@ aliases:
   - Charles Jordan
 category: "Law Enforcement & Legal"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "Charles Frank Jordan was a former special agent for the U.S."
 ---
 

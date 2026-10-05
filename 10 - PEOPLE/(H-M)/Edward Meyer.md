@@ -1,9 +1,7 @@
 ---
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "U.S. Army Chief of Staff who tacitly supported the Stargate Project during its early years alongside INSCOM commander William Rolya."

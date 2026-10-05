@@ -4,7 +4,6 @@ tags:
   - Person
   - Stargate
   - Military
-  - RemoteViewer
 summary: "U.S. Army Major General who succeeded Edmund Thompson as ACSI and was skeptical of the Grill Flame remote viewing program."
 born: 1932-06-23
 died: 2008-05-30

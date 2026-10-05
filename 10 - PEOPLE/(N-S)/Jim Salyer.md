@@ -3,12 +3,10 @@ aliases:
 - Jim Salyer
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
   - Stargate
   - CIA
   - Military
-  - RemoteViewer
   - SRI
   - DIA
 summary: "Jim Salyer was a deputy to Dale Graff at the DIA."

@@ -1,10 +1,8 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
   - Stargate
-  - RemoteViewer
   - SRI
 summary: "Division chief at SRI who oversaw early psi research by Hal Puthoff and Russell Targ, including experiments with Uri Geller."
 ---

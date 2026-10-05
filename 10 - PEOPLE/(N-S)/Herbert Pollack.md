@@ -4,9 +4,7 @@ aliases:
   - Dr. Herbert Pollack
 category: "Medicine & Psychology"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Herbert Pollack was a medical consultant for the State Department."
 ---

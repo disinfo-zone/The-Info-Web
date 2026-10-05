@@ -5,7 +5,6 @@ tags:
   - Person
   - Stargate
   - CIA
-  - RemoteViewer
   - SRI
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for a CIA technical operations specialist."
 ---

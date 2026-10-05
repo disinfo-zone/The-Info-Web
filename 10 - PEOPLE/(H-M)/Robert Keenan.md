@@ -1,10 +1,9 @@
 ---
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
+  - Stargate
 summary: "Colonel Robert Keenan was the commanding officer of the Systems Exploitation Detachment (SED) under the command of United States Army Intelligence and Security Command (INSCOM)."
 alias:
   - Robert E. Keenan

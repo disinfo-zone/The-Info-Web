@@ -11,7 +11,6 @@ aliases:
 category: "Entertainment & Arts"
 tags:
   - Person
-  - Skeptic
   - Magician
   - Mentalist
   - ProjectAlpha

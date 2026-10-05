@@ -3,9 +3,7 @@ aliases:
 - Joan Quigley
 category: "Occult & Esoteric"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Joan Quigley was a San Francisco socialite and astrologer who advised President Ronald Reagan during his tenure at the White House."
 born: 1927-04-10
 died: 2014-10-21

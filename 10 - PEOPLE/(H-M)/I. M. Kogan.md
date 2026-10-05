@@ -1,10 +1,9 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
+  - Stargate
 summary: "Kogan, like many Soviet researchers, hypothesized that psi was a low-frequency radio system built into human brains."
 updated: 2026-09-22
 ---

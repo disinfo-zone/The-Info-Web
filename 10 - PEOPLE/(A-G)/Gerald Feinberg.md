@@ -3,9 +3,7 @@ aliases:
 - Gerald Feinberg
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Gerald Feinberg was a physics professor at Columbia University."
 born: 1933-05-27
 died: 1992-04-21

@@ -2,12 +2,10 @@
 category: "Intelligence & Government"
 tags:
   - Pseudonym
-  - Psi
   - Person
   - Stargate
   - CIA
   - Military
-  - RemoteViewer
   - NSA
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for the CIA officer who supplied the Sugar Grove coordinates."
 ---

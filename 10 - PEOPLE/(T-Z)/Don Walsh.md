@@ -3,9 +3,8 @@ aliases:
 - Don Walsh
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "Don Walsh is a renowned deep-sea explorer and former naval officer, known for achieving the deepest dive ever undertaken."
 born: 1931-11-02
 died: 2023-11-12

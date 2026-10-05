@@ -3,9 +3,7 @@ aliases:
 - Howard Rosenberg
 category: "Authors & Journalists"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "Howard Rosenberg was a staff member for *60 Minutes*, a prominent American television newsmagazine."

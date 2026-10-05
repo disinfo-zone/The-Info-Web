@@ -3,9 +3,7 @@ aliases:
 - W. Ross Adey
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "Chief of staff at Veterans Hospital in Loma Linda and member of the Sun Streak science panel for the Stargate remote viewing program."
 born: 1922-01-31

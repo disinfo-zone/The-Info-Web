@@ -3,9 +3,7 @@ aliases:
 - Charles Bohlen
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Charles Bohlen (1904–1974) was a distinguished American diplomat who served as the U.S."
 born: 1904-08-30

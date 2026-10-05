@@ -3,9 +3,7 @@ aliases:
 - Richard DeLauer
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "Richard DeLauer was the Undersecretary of Defense for Research and Engineering."
 born: 1918-09-26

@@ -3,9 +3,7 @@ aliases:
 - John Taylor
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "John Taylor was a professor at King's College."
 ---
 

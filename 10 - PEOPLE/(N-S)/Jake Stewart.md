@@ -1,10 +1,8 @@
 ---
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
   - Stargate
-  - RemoteViewer
 summary: "In September 1979, Stewart brought Hal Puthoff and Skip Atwater satellite photographs of a large industrial facility at the port of Severodvinsk in northern Russia."
 ---
 [[Jake Stewart]] was a Navy lieutenant commander on the [[National Security Council|National Security Council]] staff during the [[Jimmy Carter]] administration. He was an enthusiastic supporter of the [[Stargate Project|Grill Flame]] program and played a key role in tasking remote viewers with sensitive intelligence problems.[^1]

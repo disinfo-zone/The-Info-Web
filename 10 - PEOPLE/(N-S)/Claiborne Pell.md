@@ -8,7 +8,6 @@ tags:
   - Stargate
   - CIA
   - Military
-  - RemoteViewer
 summary: "Claiborne Pell (1918-2009) was a powerful Democratic Senator from Rhode Island and a ranking member of the Senate Foreign Relations Committee."
 born: 1918-11-22
 died: 2009-01-01

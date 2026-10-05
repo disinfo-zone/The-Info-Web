@@ -3,9 +3,7 @@ aliases:
 - Meir Amit
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Meir Amit was the former chief of the Mossad, Israel's national intelligence agency."
 born: 1921-03-17
 died: 2009-07-17

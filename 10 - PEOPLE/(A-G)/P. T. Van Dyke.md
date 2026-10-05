@@ -3,9 +3,7 @@ aliases:
 - P. T. Van Dyke
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
 summary: "The study noted that it would not be conceptually difficult to imagine the utility of psychokinesis in disrupting electrical systems, such as those associated with an ICBM's guidance program, as displayed by Geller."
 ---

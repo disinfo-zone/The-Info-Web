@@ -3,9 +3,7 @@ aliases:
 - Robert O. Becker
 category: "Medicine & Psychology"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Becker's work convinced him that a microwave signal, such as the Moscow Signal, 'could affect the central nervous system, put people to sleep, interfere with decision making capacity and induce chronic stress'."
 born: 1923-05-31

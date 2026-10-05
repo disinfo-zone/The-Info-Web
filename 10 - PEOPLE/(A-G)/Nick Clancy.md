@@ -5,7 +5,6 @@ tags:
   - Person
   - Stargate
   - CIA
-  - RemoteViewer
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for a CIA technical penetration officer."
 ---
 Nick Clancy is a pseudonym [[Jim Schnabel]] used in *Remote Viewers* (1997) for a CIA technical penetration officer; the book's list of pseudonyms includes the name.[^2]

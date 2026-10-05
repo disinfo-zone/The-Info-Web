@@ -1,9 +1,7 @@
 ---
 category: "Occult & Esoteric"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Sybil Leek, known as 'Britain's most famous witch,' was an astrologer and author who was reportedly recruited by British Intelligence during World War II."
 born: 1917-02-22

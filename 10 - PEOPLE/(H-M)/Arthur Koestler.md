@@ -1,9 +1,7 @@
 ---
 category: "Authors & Journalists"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "Arthur Koestler was a Hungarian-born British novelist, journalist, and critic."

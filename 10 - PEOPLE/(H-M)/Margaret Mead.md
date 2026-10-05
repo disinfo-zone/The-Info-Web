@@ -1,9 +1,8 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "Margaret Mead was a renowned American cultural anthropologist."
 born: 1901-12-16
 died: 1978-11-15

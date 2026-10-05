@@ -3,9 +3,7 @@ aliases:
 - Karl Krafft
 category: "Occult & Esoteric"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Karl Krafft was a Swiss astrologer known for his influence on high-ranking Nazi officials."
 born: 1900-05-10
 died: 1945-01-08

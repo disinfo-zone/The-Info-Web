@@ -1,9 +1,8 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "Karlis Osis was a Latvian-born parapsychologist with a PhD, known for his research into deathbed visions and his work with the U.S."
 born: 1917-12-26
 died: 1997-12-26

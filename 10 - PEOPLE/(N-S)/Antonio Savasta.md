@@ -3,9 +3,7 @@ aliases:
 - Antonio Savasta
 category: "Extremism & Violent Networks"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
 summary: "Antonio Savasta was a member of the Red Brigades, a Marxist-Leninist paramilitary group responsible for the kidnapping of Brigadier General James L."
 ---

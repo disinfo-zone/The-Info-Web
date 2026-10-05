@@ -3,9 +3,8 @@ aliases:
 - Jeannie Betters
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "Jeannie Betters was the unit secretary for the DIA's Remote Viewing program at Fort Meade."
 ---
 

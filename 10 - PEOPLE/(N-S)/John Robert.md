@@ -1,9 +1,7 @@
 ---
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Stargate
 summary: "John Robert and Luis Elizondo served together in the Army in Korea in the 1990s and developed a deep and lasting friendship."

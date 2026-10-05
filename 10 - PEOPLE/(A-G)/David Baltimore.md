@@ -3,9 +3,7 @@ aliases:
 - David Baltimore
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "David Baltimore is a Nobel Prize-winning biologist."
 born: 1938-03-07
 died: 2025-09-06

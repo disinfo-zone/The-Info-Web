@@ -5,7 +5,6 @@ category: "Intelligence & Government"
 tags:
   - Person
   - Stargate
-  - RemoteViewer
   - DIA
 summary: "Scott Carmichael is a former analyst with the DIA."
 ---

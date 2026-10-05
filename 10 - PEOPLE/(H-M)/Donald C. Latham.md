@@ -3,9 +3,7 @@ aliases:
 - Donald C. Latham
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "Assistant Secretary of Defense who served as chairman of the oversight panel for the Sun Streak program, the renamed Stargate Project."
 ---

@@ -1,9 +1,7 @@
 ---
 category: "Philanthropists & Benefactors"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Marcella Miller du Pont was an heiress to the du Pont chemical and weapons production conglomerate and a passionate supporter of ESP research."
 born: 1903-09-09
 died: 1985-09-17

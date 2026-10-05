@@ -4,11 +4,10 @@ aliases:
   - General Lew Allen
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Soviet
+  - Stargate
 summary: "U.S. Air Force chief of staff and Joint Chiefs member who influenced Pentagon psychic research programs and strategic defense initiatives."
 born: 1925-09-30
 died: 2010-01-04

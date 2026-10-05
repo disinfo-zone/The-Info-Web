@@ -1,9 +1,7 @@
 ---
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Soviet
   - PSI

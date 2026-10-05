@@ -3,9 +3,7 @@ aliases:
 - Lyall Watson
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "Lyall Watson was a South African zoologist and anthropologist."
 ---
 

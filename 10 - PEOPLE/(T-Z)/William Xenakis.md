@@ -4,9 +4,8 @@ aliases:
   - Lieutenant Colonel William Xenakis
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "William Xenakis was a Lieutenant Colonel who commanded Detachment G, the Remote Viewing unit at Fort Meade."
 ---
 

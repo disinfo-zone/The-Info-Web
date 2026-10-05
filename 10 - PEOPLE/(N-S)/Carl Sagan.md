@@ -4,7 +4,6 @@ aliases:
 category: "Scientists & Researchers"
 tags:
   - Person
-  - Skeptic
 summary: "Carl Sagan (1934–1996) was a renowned American cosmologist, astronomer, planetary scientist, and author."
 born: 1934-11-09
 died: 1996-12-20

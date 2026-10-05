@@ -4,9 +4,7 @@ aliases:
   - Lieutenant Colonel Douglas B. Hudson
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "This commendation highlights the high regard in which Morehouse was held by his superiors, despite later controversies surrounding his conduct and the eventual downfall of the psychic research program."
 ---
 

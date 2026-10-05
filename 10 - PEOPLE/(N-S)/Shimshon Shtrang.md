@@ -10,7 +10,6 @@ category: "Psychics & Remote Viewers"
 tags:
   - Psi
   - Person
-  - PSI
   - UriGeller
   - SRI
   - CIA

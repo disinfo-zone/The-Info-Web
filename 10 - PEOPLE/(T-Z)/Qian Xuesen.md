@@ -8,10 +8,9 @@ aliases:
   - Tsien Hsue-shen
   - Hsue-shen Tsien
 tags:
-  - Psi
   - Person
   - China
-  - PSI
+  - Psi
   - Military
   - Science
   - McCarthy

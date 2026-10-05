@@ -3,9 +3,7 @@ aliases:
 - Oliver J. Caldwell
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Soviet
 summary: "Caldwell expressed significant concern about the Soviet advancements in parapsychology and psychic warfare."
 ---

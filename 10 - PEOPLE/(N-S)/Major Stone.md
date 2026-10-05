@@ -1,11 +1,9 @@
 ---
 category: "Military"
 tags:
-  - Psi
   - Person
   - Stargate
   - Military
-  - RemoteViewer
 summary: "Aide to Major General Edmund Thompson who served as a beacon for remote viewing sessions and brought Pentagon taskings to the unit."
 ---
 Major Stone was an aide to Major General [[Edmund Thompson]], the [[U.S. Army]] Assistant Chief of Staff for Intelligence (ACSI). He played a role in the early days of the [[Stargate Project|Stargate Project]] by serving as an "outbound experimenter" or "beacon" for remote viewing sessions.[^1]

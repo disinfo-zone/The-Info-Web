@@ -4,9 +4,7 @@ aliases:
   - General Richard G. Stilwell
 category: "Military"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
 summary: "Retired U.S. Army four-star general who arranged John B. Alexander's transfer to INSCOM, bringing psychic research into military intelligence."
 born: 1917-02-24

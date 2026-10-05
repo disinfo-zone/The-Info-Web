@@ -3,9 +3,7 @@ aliases:
 - Robert Van de Castle
 category: "Medicine & Psychology"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - SRI
 summary: "Robert Van de Castle was a civilian psychologist who, along with George Lawrence and Ray Hyman, traveled to SRI to test Uri Geller's purported psychic abilities for ARPA."
 born: 1927-11-16

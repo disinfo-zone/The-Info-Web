@@ -1,9 +1,8 @@
 ---
 category: "Medicine & Psychology"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
+  - Stargate
 summary: "Medical doctor who ran the CIA's weird desk investigating unusual medical issues, alien implants, and abduction cases related to UAP encounters."
 ---
 [[Dr. William Livingston]], referred to as Will, is a medical doctor and surgeon who served as a medical advisor to the [[Advanced Aerospace Threat Identification Program]] (AATIP) and [[Robert Bigelow]]'s [[National Institute for Discovery Science]] (NIDS). He is described as having presided over the little-known "weird desk" at the [[Central Intelligence Agency]] (CIA), where he was in charge of investigating unusual medical issues, implants, and abductions related to [[Unidentified Anomalous Phenomena]] (UAP) encounters.[^1]

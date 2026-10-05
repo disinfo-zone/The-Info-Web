@@ -1,9 +1,7 @@
 ---
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "Lieutenant General James Clapper was a U.S."
 born: 1941-03-14

@@ -2,9 +2,7 @@
 category: "Intelligence & Government"
 tags:
   - Pseudonym
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for a CIA officer who worked with the person he calls Norm Everheart."
 ---

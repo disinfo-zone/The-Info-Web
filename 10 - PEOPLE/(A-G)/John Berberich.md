@@ -3,9 +3,7 @@ aliases:
 - John Berberich
 category: "Intelligence & Government"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Stargate
 summary: "John Berberich was a Division Chief at the DIA."
 ---

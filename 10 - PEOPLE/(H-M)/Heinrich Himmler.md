@@ -1,9 +1,7 @@
 ---
 category: "Political Figure"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
   - Military
   - Soviet
 summary: "Himmler had a deep and abiding interest in the occult and the supernatural."

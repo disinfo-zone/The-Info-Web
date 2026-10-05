@@ -1,9 +1,7 @@
 ---
 category: "Scientists & Researchers"
 tags:
-  - Psi
   - Person
-  - RemoteViewer
 summary: "James was also deeply interested in psychic phenomena and was one of the founders of the American Society for Psychical Research (ASPR) in 1885."
 born: 1842-01-11
 died: 1910-08-26

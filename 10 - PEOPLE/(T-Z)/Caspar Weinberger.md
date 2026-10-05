@@ -4,7 +4,6 @@ tags:
   - Person
   - Nuclear
   - Israel
-  - RemoteViewer
   - Military
 summary: "Secretary of Defense under Reagan whose military aide Lieutenant Colonel Higgins was abducted in Lebanon in 1988 with deep knowledge of classified matters."
 born: 1917-08-18
