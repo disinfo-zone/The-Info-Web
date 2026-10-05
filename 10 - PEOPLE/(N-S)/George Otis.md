@@ -17,9 +17,8 @@ Otis authored or co-authored a dozen books, including his autobiography, "High A
 
 Otis was born in Payne, Ohio, and was an adventure-seeker from a young age. He took business classes at Earlham College and founded several electronics-related companies and later was general chairman of [[LearJet]]. 
 
-Otis was deeply involved in the Charismatic revival in the [[United States]], and he and [[Harold Bredesen]] were considered "Holy Spirit fathers" by [[Pat Boone]].[^2]
+Otis was deeply involved in the Charismatic revival in the [[United States]], and he and [[Harold Bredesen]] were considered "Holy Spirit fathers" by [[Pat Boone]].[^1]
 ### Footnotes
 
-  [^1]: Seymour, Cheri. The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal. First Edition. TrineDay, 2010.
-  [^2]: "George K. Otis, Sr. Another Christian General Goes Home." Obituary. The Last Circle (provided text).I have updated the page for George Otis. I
-  will now check for an existing page for "Nita Scoggan".
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
+[^2]: "Christian Radio Pioneer George Otis Sr. Dies," *Charisma News,* July 24, 2007, https://mycharisma.com/?p=338046; Bob Slosser, *Reagan Inside Out* (Word Books, 1984), excerpt "The Prophecy," CBN, https://cbn.com/article/relationships/prophecy.

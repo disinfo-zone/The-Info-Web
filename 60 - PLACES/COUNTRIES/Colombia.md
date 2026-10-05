@@ -17,7 +17,7 @@ summary: "South American nation that was the world's primary source of cocaine d
 location: "South America"
 ---
 
-Colombia is a country in [[South America]] that was the world's primary source of [[Cocaine]] during the 1980s and has been profoundly shaped by drug trafficking, particularly through the operations of the [[Cali Drug Cartel]] and the [[Medellin Cartel|Medellín cartel]]. Colombian drug cartels supplied the cocaine that flowed through [[Norwin Meneses]]'s and [[Danilo Blandon|Danilo Blandón]]'s trafficking networks in [[Los Angeles]] and [[San Francisco]].[^1][^3]
+Colombia is a country in [[South America]] that was the world's primary source of [[Cocaine]] during the 1980s and has been profoundly shaped by drug trafficking, particularly through the operations of the [[Cali Drug Cartel]] and the [[Medellin Cartel|Medellín cartel]]. Colombian drug cartels supplied the cocaine that flowed through [[Norwin Meneses]]'s and [[Danilo Blandon|Danilo Blandón]]'s trafficking networks in [[Los Angeles]] and [[San Francisco]].[^1][^2]
 
 ### Drug Trafficking and Political Influence
 
@@ -29,11 +29,11 @@ The Cali Drug Cartel, led by figures like [[Gilberto Rodriguez Orejuela|Gilberto
 
 ### Cartel Connections
 
-The journalist Gary Webb described Meneses as the Cali cartel's representative in [[Nicaragua]]. Blandón's cocaine sources included the politically connected Suarez family in [[Bolivia]] and the Ochoa family in Colombia, founders of the Medellín cartel. [[Marcos Aguado]] flew weapons from the Salvadoran military to the Colombian cartels.[^3]
+The journalist Gary Webb described Meneses as the Cali cartel's representative in [[Nicaragua]]. Blandón's cocaine sources included the politically connected Suarez family in [[Bolivia]] and the Ochoa family in Colombia, founders of the Medellín cartel. [[Marcos Aguado]] flew weapons from the Salvadoran military to the Colombian cartels.[^2]
 
 ### Supply Pipeline
 
-Cocaine arrived in the United States through multiple routes controlled by Colombian traffickers. Colombian pilots flew cocaine to [[Costa Rica]] and [[Ilopango Airbase|Ilopango Air Force Base]] in [[El Salvador]], where it was loaded onto Contra-connected aircraft bound for the [[United States]]. Blandón arranged with Colombian suppliers to give [[Ricky Ross]] large amounts of cocaine on credit.[^4]
+Cocaine arrived in the United States through multiple routes controlled by Colombian traffickers. Colombian pilots flew cocaine to [[Costa Rica]] and [[Ilopango Airbase|Ilopango Air Force Base]] in [[El Salvador]], where it was loaded onto Contra-connected aircraft bound for the [[United States]]. Blandón arranged with Colombian suppliers to give [[Ricky Ross]] large amounts of cocaine on credit.[^3]
 
 ### Financial Operations
 
@@ -41,6 +41,7 @@ Michael Riconosciuto also mentioned the "[[Workers Bank]]" in Colombia in the co
 
 ---
 ### Footnotes
+
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 8: "A million hits is not enough"
-[^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it"
+[^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 8: "A million hits is not enough"
+[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it"

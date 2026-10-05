@@ -16,17 +16,17 @@ summary: "Country in Central America that served as the primary base of operatio
 location: "Central America"
 ---
 
-Honduras is a country in Central [[America]] that served as the primary base of operations for the [[FDN]] Contra army during the 1980s and has been a focal point for political instability, military operations, and the influence of various international actors, particularly in relation to drug trafficking and U.S. foreign policy.[^1][^3]
+Honduras is a country in Central [[America]] that served as the primary base of operations for the [[FDN]] Contra army during the 1980s and has been a focal point for political instability, military operations, and the influence of various international actors, particularly in relation to drug trafficking and U.S. foreign policy.[^1][^2]
 
 ### Contra Base
 
-The [[Central Intelligence Agency]] established its Contra training camps and headquarters in Honduras, and FDN military commander [[Enrique Bermudez|Enrique Bermudez]] operated from there throughout the war. Contra fighters massed in camps along the Nicaraguan border. [[Danilo Blandon|Danilo Blandón]] and [[Norwin Meneses]] traveled to Honduras to meet with Bermudez, where the Contra commander told them "the ends justify the means" when it came to fundraising. [[Adolfo Calero]] confirmed that Meneses traveled to Honduras to meet with Bermudez and brought him a crossbow as a gesture of esteem.[^4]
+The [[Central Intelligence Agency]] established its Contra training camps and headquarters in Honduras, and FDN military commander [[Enrique Bermudez|Enrique Bermudez]] operated from there throughout the war. Contra fighters massed in camps along the Nicaraguan border. [[Danilo Blandon|Danilo Blandón]] and [[Norwin Meneses]] traveled to Honduras to meet with Bermudez, where the Contra commander told them "the ends justify the means" when it came to fundraising. [[Adolfo Calero]] confirmed that Meneses traveled to Honduras to meet with Bermudez and brought him a crossbow as a gesture of esteem.[^3]
 
-Honduras served as the primary transshipment point for weapons and supplies flowing to the Contras. Blandón's early fundraising for the FDN included sending stolen vehicles to the Contras in Honduras. The country's proximity to Nicaragua made it the natural staging ground for cross-border incursions.[^3]
+Honduras served as the primary transshipment point for weapons and supplies flowing to the Contras. Blandón's early fundraising for the FDN included sending stolen vehicles to the Contras in Honduras. The country's proximity to Nicaragua made it the natural staging ground for cross-border incursions.[^2]
 
 ### Regional Hub
 
-Honduras, [[El Salvador]], and [[Guatemala]] formed the Central American corridor through which CIA operations, weapons shipments, and drug trafficking moved during the Contra war. [[Ronald Lister]] and Blandón traveled to Honduras, Guatemala, and El Salvador to arrange weapons sales.[^4]
+Honduras, [[El Salvador]], and [[Guatemala]] formed the Central American corridor through which CIA operations, weapons shipments, and drug trafficking moved during the Contra war. [[Ronald Lister]] and Blandón traveled to Honduras, Guatemala, and El Salvador to arrange weapons sales.[^3]
 
 ### 2009 Coup d'état
 
@@ -46,6 +46,7 @@ The Honduran Constitution does not permit a permanent foreign presence in Hondur
 
 ---
 ### Footnotes
+
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 2: "We were the first"
-[^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty"
+[^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 2: "We were the first"
+[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty"

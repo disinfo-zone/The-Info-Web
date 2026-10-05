@@ -23,14 +23,14 @@ The [[Federal Bureau of Investigation|FBI]] declared the event an [[act of terro
 - Truck was rented on December 30, 2024 in Houston, Texas via [[Turo]]
 - Jabbar drove to New Orleans on the evening of December 31, 2024.
 - He stayed in an airbnb in St. Roch at 1329 Mandeville Street that caught on fire early Jan 1[^1]
-- New Orleans police had removed bollards which “were being repaired” in preparation for the Sugarbowl (scheduled for Jan 1).[^5]
-- Jabbar had an ISIS flag mounted on the back of his truck.[^5]
+- New Orleans police had removed bollards which “were being repaired” in preparation for the Sugarbowl (scheduled for Jan 1).[^2]
+- Jabbar had an ISIS flag mounted on the back of his truck.[^2]
 ### Weapons
-Two pipe bombs were found in coolers in the French Quarter a few blocks from the attack (Bourbon St and Orleans St and Bourbon between Tolouse and St peter). Allgedly they were rigged for remote detonation with a wireless remote found in the truck.[^2]
-Jabbar used or had on him an AR style rifle with a homemade suppressor and a handgun.[^3]
+Two pipe bombs were found in coolers in the French Quarter a few blocks from the attack (Bourbon St and Orleans St and Bourbon between Tolouse and St peter). Allgedly they were rigged for remote detonation with a wireless remote found in the truck.[^3]
+Jabbar used or had on him an AR style rifle with a homemade suppressor and a handgun.[^4]
 ### Footnotes
 
 [^1]: [Fire at St. Roch rental may be connected to mass casualty Bourbon Street attack, sources say](https://archive.is/XzFA6)
-[^2]: [Islamic State-inspired driver expressed desire to kill before deadly New Orleans rampage, Biden says](https://archive.is/6V9is)
-[^3]: [10 killed on Bourbon Street in New Orleans after suspect intentionally slams truck into crowd; dozens injured](https://archive.is/B6eFa)
-[^5]: [At least 10 killed in New Orleans after driver intentionally rams into crowd on Bourbon Street](https://archive.is/EYCVr)
+[^2]: [At least 10 killed in New Orleans after driver intentionally rams into crowd on Bourbon Street](https://archive.is/EYCVr)
+[^3]: [Islamic State-inspired driver expressed desire to kill before deadly New Orleans rampage, Biden says](https://archive.is/6V9is)
+[^4]: [10 killed on Bourbon Street in New Orleans after suspect intentionally slams truck into crowd; dozens injured](https://archive.is/B6eFa)

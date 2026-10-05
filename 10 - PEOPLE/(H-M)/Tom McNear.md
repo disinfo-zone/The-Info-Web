@@ -26,8 +26,9 @@ Despite his proficiency, McNear did not want to remain part of the viewer unit a
 
 In 1985, the [[Department of Defense]] published a forty-one-page how-to manual, "Coordinate Remote Viewing, Stages I–VI and Beyond." The author of this manual, declassified in 2000, was Tom McNear[^1].
 
-The released CIA collection on the program carries no legible mention of McNear.[^900]
+The released CIA collection on the program carries no legible mention of McNear.[^2]
 
 ### Footnotes
+
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
-[^900]: The archive.org mirror of the CIA FOIA Reading Room STARGATE collection, about 13,000 items under the identifiers cia-rdp96-*, searched by title and OCR text.
+[^2]: The archive.org mirror of the CIA FOIA Reading Room STARGATE collection, about 13,000 items under the identifiers cia-rdp96-*, searched by title and OCR text.

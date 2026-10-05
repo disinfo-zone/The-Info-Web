@@ -16,7 +16,7 @@ summary: "Powerful Colombian drug trafficking organization based in Cali, descri
 location: "Cali, Colombia"
 ---
 
-The Cali Drug Cartel was a powerful Colombian drug trafficking organization based in [[Cali, Colombia|Cali]], described in a 1994 *Time* magazine article as controlling 80% of the world's cocaine trade. Its key leaders included [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]]. The journalist Gary Webb described [[Norwin Meneses]] as the cartel's representative in [[Nicaragua]].[^1][^3][^5]
+The Cali Drug Cartel was a powerful Colombian drug trafficking organization based in [[Cali, Colombia|Cali]], described in a 1994 *Time* magazine article as controlling 80% of the world's cocaine trade. Its key leaders included [[Gilberto Rodriguez Orejuela|Gilberto Rodriguez]] and [[Jose Santacruz Londono|Jose Londono]]. The journalist Gary Webb described [[Norwin Meneses]] as the cartel's representative in [[Nicaragua]].[^1][^2][^3]
 
 ### Drug Trafficking and Political Influence
 
@@ -30,7 +30,7 @@ The cartel's connection to the Contra drug network ran through Meneses's organiz
 
 ### Connection to the Dark Alliance Network
 
-[[Danilo Blandon|Danilo Blandón]]'s supplier [[Aparicio Moreno]] was a Colombian with reported ties to both the [[FDN]] and the CIA.[^3] Webb wrote that [[Rafael Cornejo]] was involved in a major cocaine pipeline running from Cali to several West Coast cities. The Meneses organization's supply chain originated with the Colombian cartels.[^4]
+[[Danilo Blandon|Danilo Blandón]]'s supplier [[Aparicio Moreno]] was a Colombian with reported ties to both the [[FDN]] and the CIA.[^2] Webb wrote that [[Rafael Cornejo]] was involved in a major cocaine pipeline running from Cali to several West Coast cities. The Meneses organization's supply chain originated with the Colombian cartels.[^4]
 
 ### Intelligence Connections
 
@@ -48,7 +48,8 @@ Historically, during [[Jimmy Carter]]'s presidency, his human rights foreign pol
 
 ---
 ### Footnotes
+
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know"
+[^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know"
+[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 12: "This guy talks to God"
-[^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters
