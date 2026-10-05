@@ -25,7 +25,6 @@ Magicians, scientists, and writers who have debunked or criticized paranormal an
 | [[Ninel Kulagina]] | Ninel Kulagina (1926–1990), also known as Nina Kulagina, was a celebrated Soviet psychic and a decorated World War II hero, having served as a front-line soldier and tank radio operator for the Red Army. |
 | [[Paul Kurtz]] | Paul Kurtz (1925–2012) was an American philosopher and a prominent figure in the skeptical movement. |
 | [[Ray Hyman]] | Ray Hyman is a psychologist and a prominent figure in the scientific skepticism movement. |
-| [[Richard Kennett]] | Richard Kennett was a CIA analyst in the Office of Scientific Intelligence in the early 1970s. |
 | [[Robert Lucky]] | He eventually conducted some of his own informal remote viewing experiments and became convinced of its reality, stating, 'Psychic stuff is really not much more far-fetched than some of the physics behind the laser.' His decision to publish the paper in a respected scientific journal contributed to |
 | [[Stefan Kanfer]] | Stefan Kanfer was a reporter for *Time* magazine. |
 | [[Steven Shaw]] | Steven Shaw was one of two young magicians, along with Michael Edwards, who participated in James Randi's hoax against the McDonnell Laboratory for Psychical Research at Washington University in 1983. |

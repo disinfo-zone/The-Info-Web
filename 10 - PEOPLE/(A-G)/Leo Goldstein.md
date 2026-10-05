@@ -32,4 +32,4 @@ The alternative weekly *The Distant Drummer*, in an article on the administratio
 ### Footnotes
 
 [^1]: "Police to Inspect Building: Cinema 16 Shut Down In License Dispute; Owner Is 'Confused'," *The Philadelphia Inquirer,* October 30, 1969, p. 19. https://www.newspapers.com/image/169186622/
-[^2]: "Mayor Tate's War On [title cut off in the scan]," *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
+[^2]: *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473

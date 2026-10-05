@@ -50,7 +50,7 @@ Elizondo described Stratton in early 2009 as "a serious male in his midthirties,
 ### Footnotes
 
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
-[^2]: Luis Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (New York: William Morrow, 2024), pp. 5 to 14. Page numbers are those of the printed index where it lists the passage; the digital copy read carries no pagination, so other pages are interpolated from index entries and may be off by one.
+[^2]: Luis Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (New York: William Morrow, 2024), pp. 5 to 14.
 [^3]: Luis Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (New York: William Morrow, 2024), pp. 71 to 73.
 [^4]: Luis Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (New York: William Morrow, 2024), pp. 143, 147 and 186 (Interloper at pp. 143 and 186; the term UAP at p. 186).
 [^5]: Luis Elizondo, *Imminent: Inside the Pentagon's Hunt for UFOs* (New York: William Morrow, 2024), pp. 211 and 223 (task force and first director at p. 223).

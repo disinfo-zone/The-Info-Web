@@ -25,6 +25,6 @@ In late 1969, when the city's [[Philadelphia Department of Licenses and Inspecti
 
 [^1]: Philadelphia Architects and Buildings, Athenaeum of Philadelphia, "Bandbox Theatre," 20-22 E. Armat St. ("Seating capacity: 499"). https://www.philadelphiabuildings.org/pab/app/pj_display.cfm/8266
 [^2]: Morrison, John F. "Art Carduner, a pioneer in exhibiting foreign films in Phila.," *The Philadelphia Inquirer,* December 9, 2009. https://www.inquirer.com/philly/obituaries/20091209_Art_Carduner__a_pioneer_in_exhibiting_foreign_films_in_Phila_.html
-[^3]: "Mayor Tate's War On [title cut off in the scan]," *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
+[^3]: *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
 [^4]: [Society and nightlife column], *The Philadelphia Inquirer,* February 28, 1975, p. 21. https://www.newspapers.com/image/173366667/
 [^5]: "Offensive Material: Leaders Condemn Black Mass Film," Religious News Service, *Lake Shore Visitor* (Erie), March 7, 1975, p. 3. https://www.newspapers.com/image/951794835/

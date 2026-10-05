@@ -103,7 +103,7 @@ The Defense Department's response to Barber's January 2025 claims, given by spok
 [^3]: Skywatcher, "About." https://skywatcher.ai/about (retrieved October 3, 2026).
 [^4]: Ross Coulthart, "Is the Trump administration running a covert UFO program?," NewsNation Reality Check, published about August 2026 (retrieved October 3, 2026 showing "2 months ago"). https://www.newsnationnow.com/podcasts-newsnation/reality-check/trump-administration-covert-ufo-program/amp/
 [^5]: Jimmy, "Skywatcher: The Disclosure Team That Disappeared - I Tracked Their Helicopter," UAP Files, August 12, 2026. https://uapf.substack.com/p/skywatcher-the-disclosure-team-that . Sole source for the domain registration and YouTube creation dates cited here.
-[^6]: Jason Colavito, "In Brief: NewsNation Offers a New UFO 'Crash Retrieval' Story," January 19, 2025. https://www.jasoncolavito.com/blog/in-brief-newsnation-offers-a-new-ufo-crash-retrieval-story . Colavito reports Greenstreet's reporting at second hand; the original New York Post article was not located. Sole source for the passages so cited.
+[^6]: Jason Colavito, "In Brief: NewsNation Offers a New UFO 'Crash Retrieval' Story," January 19, 2025. https://www.jasoncolavito.com/blog/in-brief-newsnation-offers-a-new-ufo-crash-retrieval-story . Colavito reports Greenstreet's reporting at second hand. Sole source for the passages so cited.
 [^7]: Skywatcher, home page and FAQ. https://skywatcher.ai/ (retrieved October 3, 2026).
 [^8]: Skywatcher, "Research." https://skywatcher.ai/research (retrieved October 3, 2026).
 [^9]: SEC EDGAR full-text search, phrases "Skywatcher," "Sky Watcher," "Skywatcher Technologies," "Jake Barber," forms D, October 3, 2026. https://efts.sec.gov/LATEST/search-index?q=%22Skywatcher%22&forms=D

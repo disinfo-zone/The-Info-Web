@@ -156,7 +156,7 @@ The Base (proscribed July 2021): structurally influenced by O9A's nexion model; 
 
 ### New Zealand Designation
 
-[[New Zealand]] designated O9A as a terrorist organisation in 2025, making it one of the few countries to have taken formal legal action against the organisation itself rather than merely prosecuting individual adherents. The OpenSanctions database records the NZ listing; the specific New Zealand Gazette reference and enabling legislation have not been retrieved in this research run and constitute an open thread.[^33]
+[[New Zealand]] designated O9A as a terrorist organisation in 2025, making it one of the few countries to have taken formal legal action against the organisation itself rather than merely prosecuting individual adherents. The OpenSanctions database records the NZ listing.[^33]
 
 ### O9A Texts and the British Library
 

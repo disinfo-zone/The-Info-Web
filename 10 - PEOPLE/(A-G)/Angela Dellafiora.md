@@ -47,5 +47,5 @@ In the spring of 1989 the [[United States Customs Service|Customs Service]] aske
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.
 [^2]: "Remotely Viewed? The Charlie Jordan Case," *Skeptical Inquirer,* Center for Inquiry. https://skepticalinquirer.org/newsletter/remotely-viewed-the-charlie-jordan-case/
 [^3]: "Angela Ford - A Deep Dive Into Automatic Writing with a Project Star Gate Remote Viewer," Global Meditation Podcast, Spotify. https://open.spotify.com/episode/53JbXdjiXJNyzoh1cePQYq
-[^4]: Nickell, Joe. "Remotely Viewed? The Charlie Jordan Case," *Skeptical Inquirer,* c. 2001, read in summary, citing Graff, Dale. *Tracks in the Psychic Wilderness* (1998) and *River Dreams* (2000), and Anderson and Moller, *Washington Post,* 1996.
+[^4]: Nickell, Joe. "Remotely Viewed? The Charlie Jordan Case," *Skeptical Inquirer,* c. 2001, citing Graff, Dale. *Tracks in the Psychic Wilderness* (1998) and *River Dreams* (2000), and Anderson and Moller, *Washington Post,* 1996.
 [^5]: Mumford, Michael D., Andrew M. Rose, and David A. Goslin. *An Evaluation of Remote Viewing: Research and Applications.* American Institutes for Research, September 29, 1995, p. 4-14.

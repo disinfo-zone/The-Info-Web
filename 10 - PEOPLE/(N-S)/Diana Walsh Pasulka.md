@@ -35,7 +35,7 @@ Diana Walsh Pasulka is a professor of religious studies at the [[University of N
 
 American Cosmic is dedicated to "[[Tyler D.]]," a pseudonymous figure whom Pasulka describes as one of the "most intelligent and successful people" she had met, a former aeronautical engineer who "worked on almost every space shuttle that was ever launched" and later a wealthy entrepreneur. As [[Nathaniel Rich]] summarizes Pasulka's account, after selling a biomedical device Tyler was stopped at an airport by federal agents who asked whether he wanted to return to the space program in a "very special" office, which Rich writes was "presumably located within" the [[White Sands Test Facility]] in [[New Mexico]], where he was assigned a desk beside a square room wrapped in concrete and metal. Tyler took Pasulka to a purported crash site in the New Mexico desert in the company of a second figure she called "James Master," who had analyzed an alleged artifact for a documentary and said two men in suits afterward asked him what he had really found.[^3]
 
-In Encounters, Pasulka identifies "James Master" as the Stanford immunologist [[Garry Nolan]].[^3] The identity of Tyler D. has not been given in the sources opened. Encounters also introduces "[[Gray Man]]," described as the head of a laboratory for a major research agency.[^3]
+In Encounters, Pasulka identifies "James Master" as the Stanford immunologist [[Garry Nolan]].[^3] Encounters also introduces "[[Gray Man]]," described as the head of a laboratory for a major research agency.[^3]
 
 ### Sol Foundation
 

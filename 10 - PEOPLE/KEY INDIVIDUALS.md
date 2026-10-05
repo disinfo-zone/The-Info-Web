@@ -128,7 +128,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Cleve Backster]] | In 1966, Backster conducted an experiment where he attached polygraph electrodes to a plant and observed its responses to his thoughts, including the intention to harm it. |
 | [[Clifford Alexander]] | U.S. Secretary of the Army who tacitly supported the Stargate Project during its early years. |
 | [[David Baltimore]] | David Baltimore is a Nobel Prize-winning biologist. |
-| [[Don Curtis]] | Physicist at Lawrence Livermore National Laboratory who was part of the group investigating Uri Geller's psychokinetic abilities as part of the Stargate remote viewing program. |
+| [[Don Curtis]] | Don Curtis is the pseudonym Jim Schnabel gave a Lawrence Livermore physicist who, with his wife, saw a hovering one-armed man in a gray suit after the group's Geller tests. |
 | [[Don Eyles]] | Don Eyles was a computer scientist who designed the guidance system on the Antares lunar lander, part of the Apollo Program. |
 | [[Don Walsh]] | Don Walsh is a renowned deep-sea explorer and former naval officer, known for achieving the deepest dive ever undertaken. |
 | [[Donald A. Myers]] | Myers's deployment came two years after a new and more powerful set of Soviet microwave beams (MUTS-2) were picked up by the CIA in Moscow. |
@@ -194,7 +194,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Marshall Pease]] | SRI mathematician who demonstrated strong psychic talents in early remote viewing tests conducted by Hal Puthoff and Russell Targ. |
 | [[Meir Amit]] | Meir Amit was the former chief of the Mossad, Israel's national intelligence agency. |
 | [[Michael Edwards]] | Michael Edwards was one of two young magicians, along with Steven Shaw, who participated in James Randi's hoax against the McDonnell Laboratory for Psychical Research at Washington University in 1983. |
-| [[Mike Russo]] | Mike Russo was a physicist at Lawrence Livermore National Laboratory (LLNL) who, along with other Livermore personnel, experienced a series of bizarre, hallucination-inducing phenomena after their involvement with Uri Geller. |
+| [[Mike Russo]] | Mike Russo is the pseudonym Jim Schnabel gave a Lawrence Livermore physicist who, with other Livermore personnel, experienced apparitions after the group's involvement with Uri Geller. |
 | [[Milan Ryzl]] | Milan Ryzl was a Czech parapsychologist active in psi research in the mid-1960s. |
 | [[Murray Watt]] | Watt, along with Atwater, was responsible for selecting and training the initial remote viewers for the program. |
 | [[Nancy Stern]] | Stern was present during the intense and monotonous remote viewing taskings related to the Iran hostage crisis (1979-1981). |
@@ -204,7 +204,7 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Paul H. Smith]] | Army military intelligence captain who joined the Center Lane remote-viewing unit at Fort Meade in 1983 and, as its project officer, wrote the 1984 staff study on its transfer to DIA. |
 | [[Pavel Naumov]] | Pavel Naumov was a Soviet military scientist who reportedly conducted a notable ESP experiment around 1956. |
 | [[Pavel Stepanek]] | While the effective bit rate for this experiment was very low (about one word per day), it was considered an impressive proof-of-concept, suggesting that the claims made in the Nautilus story might not have been entirely farfetched. |
-| [[Peter Crane]] | Peter Crane was a physicist at Lawrence Livermore National Laboratory (LLNL). |
+| [[Peter Crane]] | Peter Crane is the pseudonym Jim Schnabel gave a Lawrence Livermore physicist who ran off-hours tests of Uri Geller in late 1974 and called the CIA's Kit Green about the apparitions that followed. |
 | [[Peter Hurkos]] | Peter Hurkos was a Dutch psychic who gained international fame for psychometry - divining information from objects by touch - and was studied by Andrija Puharich at the Round Table Foundation in 1956 before achieving notoriety as a police p |
 | [[Peter Maris]] | Peter Maris was a CIA physicist who, along with Ken Kress, an engineer from the Office of Technical Service (OTS), tasked Pat Price with remote viewing the mysterious Soviet military research facility at Semipalatinsk (URDF-3). |
 | [[Peter R. Phillips]] | Randi sent two young magicians, Steven Shaw and Michael Edwards, to Phillips's lab, where they pretended to possess psychokinetic abilities and simulated feats like spoon bending using sleight of hand. |
@@ -360,7 +360,6 @@ Master index of the people pages, generated from each page's `category` and `sum
 | [[Paul Kurtz]] | Paul Kurtz (1925–2012) was an American philosopher and a prominent figure in the skeptical movement. |
 | [[Ray Hyman]] | University of Oregon psychologist and skeptic who evaluated Uri Geller for DARPA in 1973 and, for the 1995 AIR review, judged ten SAIC experiments too few to establish remote viewing. |
 | [[Richard Kammann]] | University of Otago psychologist who with David Marks failed to replicate the SRI remote-viewing experiments, co-wrote the 1978 Nature critique and The Psychology of the Psychic, and died in 1984. |
-| [[Richard Kennett]] | Richard Kennett was a CIA analyst in the Office of Scientific Intelligence in the early 1970s. |
 | [[Robert Lucky]] | Bell Labs engineer and editor of the Proceedings of the IEEE who published Targ and Puthoff's 1976 remote-viewing paper and ran his own inconclusive trials. |
 | [[Stefan Kanfer]] | Stefan Kanfer was a reporter for *Time* magazine. |
 | [[Steven Shaw]] | Steven Shaw was one of two young magicians, along with Michael Edwards, who participated in James Randi's hoax against the McDonnell Laboratory for Psychical Research at Washington University in 1983. |

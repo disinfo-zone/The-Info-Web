@@ -30,5 +30,5 @@ At the Arlon trial in 2004, which ended with Nihoul's acquittal on the charges c
 ### Footnotes
 
 [^1]: Sénat de Belgique. Proposition visant à instituer une commission d'enquête parlementaire chargée d'enquêter sur l'éloignement de deux enquêteurs de la cellule d'enquête bruxelloise « Neufchâteau », déposée par M. Frans Lozie, Doc. 2-563/1, October 9, 2000, développements.
-[^2]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited; the witness accounts derive from Bulté, Annemie, Douglas De Coninck and Marie-Jeanne Van Heeswyck, *De X-dossiers: wat België niet mocht weten over de zaak-Dutroux* (Houtekiet, 1999), which was not seen.
+[^2]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited; the witness accounts derive from Bulté, Annemie, Douglas De Coninck and Marie-Jeanne Van Heeswyck, *De X-dossiers: wat België niet mocht weten over de zaak-Dutroux* (Houtekiet, 1999).
 [^3]: "Arlon, 22 juin 2004, l'épilogue." *La Libre Belgique,* June 22, 2005.

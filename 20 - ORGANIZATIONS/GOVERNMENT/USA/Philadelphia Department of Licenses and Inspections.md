@@ -46,7 +46,7 @@ On February 8, 2024, Mayor [[Cherelle Parker]] named [[Basil Merenda]] L&I Commi
 ### Footnotes
 
 [^1]: "Police to Inspect Building: Cinema 16 Shut Down In License Dispute; Owner Is 'Confused'," *The Philadelphia Inquirer,* October 30, 1969, p. 19. https://www.newspapers.com/image/169186622/
-[^2]: "Mayor Tate's War On [title cut off in the scan]," *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
+[^2]: *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
 [^3]: "Report Blames City For Failing To Heed Warnings Before Deadly Market St. Building Collapse," *CBS Philadelphia,* September 25, 2014. https://www.cbsnews.com/philadelphia/news/report-blames-city-for-failing-to-heed-warnings-before-deadly-market-st-building-collapse/
 [^4]: Rinde, Meir. "Mayor Parker enacts long recommended split for L&I," *Billy Penn,* February 14, 2024. https://billypenn.com/2024/02/14/philly-licenses-and-inspections-department-reform/
 [^5]: Office of the Mayor, City of Philadelphia, "Mayor Cherelle L. Parker Names Commissioners of Licenses and Inspections: One for Building Enforcement and Compliance, One for Quality of Life and Nuisances," February 8, 2024. https://www.phila.gov/2024-02-08-mayor-cherelle-l-parker-names-commissioners-of-licenses-and-inspections-one-for-building-enforcement-compliance-one-for-quality-of-life-and-nuisances-long-sought-reform-in-philadelphi/

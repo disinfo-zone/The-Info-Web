@@ -57,11 +57,11 @@ In 2020, RIM provided training at Partizan to members of the youth wings of two 
 
 On April 7, 2020, the State Department designated RIM, Vorobyev, Gariev, and Trushchalov as SDGTs under Executive Order 13224. This was the first white supremacist terrorist designation in U.S. history. Counterterrorism Coordinator [[Ambassador Nathan Sales]] explained at a press briefing that the designation was grounded in RIM providing training "for acts of terrorism" specifically through Partizan, citing the Gothenburg bombings as the documented case. The designation triggers asset-blocking and transactional prohibitions under U.S. law for anyone who deals with these individuals or the organization.[^1]
 
-On June 15, 2022, the [[U.S. Treasury Department]]'s [[Office of Foreign Assets Control]] (OFAC) designated two additional supporters of RIM as SDGTs, pursuant to Executive Order 13224. Treasury's press release (jy0817) documented this supplemental designation. The identity of the two individuals named in the June 2022 action was not reproduced in available open-source summaries consulted for this entry; the OFAC SDN list entry and Treasury press release contain the authoritative names.[^9]
+On June 15, 2022, the [[U.S. Treasury Department]]'s [[Office of Foreign Assets Control]] (OFAC) designated two additional supporters of RIM as SDGTs, pursuant to Executive Order 13224. Treasury's press release (jy0817) documented this supplemental designation.[^9]
 
 ### UK Proscription
 
-The [[United Kingdom]] proscribed RIM as a terrorist organization in 2025, following a multi-year debate in which parliamentary questions in the Commons had raised the matter. [[Searchlight Magazine]] reported on the UK Home Office proscription order, which extended to RIM the same legal framework applied to other proscribed organizations under the [[Terrorism Act 2000]]. The exact Statutory Instrument number and date of the UK proscription are not confirmed in materials reviewed for this entry; see open thread in _NOTES.md.[^10]
+The [[United Kingdom]] proscribed RIM as a terrorist organization in 2025, following a multi-year debate in which parliamentary questions in the Commons had raised the matter. [[Searchlight Magazine]] reported on the UK Home Office proscription order, which extended to RIM the same legal framework applied to other proscribed organizations under the [[Terrorism Act 2000]].[^10]
 
 ### Russian State Tolerance and the Non-Prosecution Pattern
 

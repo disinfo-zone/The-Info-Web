@@ -31,7 +31,7 @@ The Dark Enlightenment is the title of a serial essay by [[Nick Land]], copied o
 
 ### The Essay and Its Dating
 
-The copy at thedarkenlightenment.com is headed "The Dark Enlightenment, by Nick Land" and carries page metadata giving a publication time of December 25, 2012. The site's first entry, "Coming...", is dated December 3, 2012 and reads "A subterranean convocation, beneath the foundations of the [[The Cathedral|Cathedral]]." The earliest reader comment on the essay page is dated February 10, 2013, and the page displays 439 comments. Part 1 of the text refers to events of August 2011 and contains an "Added Note (March 7)" without a year. Land's own venue and the date of the original serialization were not located.[^1][^2]
+The copy at thedarkenlightenment.com is headed "The Dark Enlightenment, by Nick Land" and carries page metadata giving a publication time of December 25, 2012. The site's first entry, "Coming...", is dated December 3, 2012 and reads "A subterranean convocation, beneath the foundations of the [[The Cathedral|Cathedral]]." The earliest reader comment on the essay page is dated February 10, 2013, and the page displays 439 comments. Part 1 of the text refers to events of August 2011 and contains an "Added Note (March 7)" without a year.[^1][^2]
 
 The essay runs in the parts titled 1, 2, 3, 4, 4a, 4b, 4c, 4d, 4e and 4f. Its menu on the host site links two further pages, "Moldbug's Gentle Introduction" and "Moldbug's Open Letter," which reproduce the Yarvin series of those names.[^1]
 

@@ -42,7 +42,7 @@ The Seagram name had appeared earlier in Epstein's record. The 1981 [[Securities
 
 ### Footnotes
 
-[^1]: Lisa Miller, "Titans of Industry Join Forces To Work for Jewish Philanthropy," *The Wall Street Journal,* May 4, 1998. https://www.wsj.com/articles/SB894240270899870000 (article identifier resolves to May 4, 1998; the byline, member list and Bronfman quotation are as reported in later coverage of the article, and the archived text was not available to verify them directly).
+[^1]: Lisa Miller, "Titans of Industry Join Forces To Work for Jewish Philanthropy," *The Wall Street Journal,* May 4, 1998. https://www.wsj.com/articles/SB894240270899870000 (article identifier resolves to May 4, 1998; the byline, member list and Bronfman quotation are as reported in later coverage of the article).
 [^2]: Heather Long and Renae Merle, "Lawyers Question Wexner's Financial Arrangement With Jeffrey Epstein," *WOSU / NPR,* August 8, 2019. https://www.wosu.org/news/2019-08-08/lawyers-question-wexners-financial-arrangement-with-jeffrey-epstein
 [^3]: Leslie Wexner, "Letter from Les," *The Wexner Foundation,* August 2019. https://www.wexnerfoundation.org/letter-from-les/
 [^4]: Vicky Ward, "The Talented Mr. Epstein," *Vanity Fair,* March 2003, as republished by the author, on the 1992 Wexner Foundation board seat, the fiduciary powers, and the St. Joe Minerals inquiry. https://vickyward.com/article/the-talented-mr-epstein/

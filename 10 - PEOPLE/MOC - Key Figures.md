@@ -17,7 +17,7 @@ Central figures in the U.S. government's investigations into psychic phenomena a
 | [[Charlie Rose]] | U.S. Congressman from North Carolina who chaired the House Intelligence Evaluation Subcommittee and was a staunch advocate of the Grill Flame remote viewing program. |
 | [[Claiborne Pell]] | Claiborne Pell (1918–2009) was a powerful Democratic Senator from Rhode Island and a ranking member of the Senate Foreign Relations Committee. |
 | [[Dale Graff]] | Graff's interest in psi phenomena stemmed from a personal experience in 1968, where he had a profound out-of-body experience while caught in a rip current. |
-| [[Don Curtis]] | Physicist at Lawrence Livermore National Laboratory who was part of the group investigating Uri Geller's psychokinetic abilities as part of the Stargate remote viewing program. |
+| [[Don Curtis]] | Don Curtis is the pseudonym Jim Schnabel gave a Lawrence Livermore physicist who, with his wife, saw a hovering one-armed man in a gray suit after the group's Geller tests. |
 | [[Don Porter]] | Don Porter was an official with INSCOM at Arlington Hall. |
 | [[Ed Rogers]] | Ed Rogers was the chief of Staff D (later known as the Office of SIGINT Operations) at the CIA, an office specializing in small-scale signals intelligence (SIGINT) collection. |
 | [[Edmund Thompson]] | Major General, U.S. Army ACSI 1977-1981, key early supporter of the Grill Flame remote viewing program. |

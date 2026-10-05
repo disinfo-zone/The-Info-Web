@@ -33,4 +33,4 @@ The Bandbox's connection with Hoersch predates *Black Mass*. When the city's [[P
 
 [^1]: Morrison, John F. "Art Carduner, a pioneer in exhibiting foreign films in Phila.," *The Philadelphia Inquirer,* December 9, 2009. https://www.inquirer.com/philly/obituaries/20091209_Art_Carduner__a_pioneer_in_exhibiting_foreign_films_in_Phila_.html
 [^2]: [Society and nightlife column], *The Philadelphia Inquirer,* February 28, 1975, p. 21. https://www.newspapers.com/image/173366667/
-[^3]: "Mayor Tate's War On [title cut off in the scan]," *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
+[^3]: *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473

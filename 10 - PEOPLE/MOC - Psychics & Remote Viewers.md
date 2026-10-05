@@ -109,7 +109,7 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Meir Amit]] | Meir Amit was the former chief of the Mossad, Israel's national intelligence agency. |
 | [[Mel Riley]] | U.S. Army staff sergeant and one of the original remote viewers in the Stargate Project, known for his artistic rendering of psychic impressions. |
 | [[Michael Edwards]] | Michael Edwards was one of two young magicians, along with Steven Shaw, who participated in James Randi's hoax against the McDonnell Laboratory for Psychical Research at Washington University in 1983. |
-| [[Mike Russo]] | Mike Russo was a physicist at Lawrence Livermore National Laboratory (LLNL) who, along with other Livermore personnel, experienced a series of bizarre, hallucination-inducing phenomena after their involvement with Uri Geller. |
+| [[Mike Russo]] | Mike Russo is the pseudonym Jim Schnabel gave a Lawrence Livermore physicist who, with other Livermore personnel, experienced apparitions after the group's involvement with Uri Geller. |
 | [[Milan Ryzl]] | Milan Ryzl was a Czech parapsychologist active in psi research in the mid-1960s. |
 | [[Murray Watt]] | Watt, along with Atwater, was responsible for selecting and training the initial remote viewers for the program. |
 | [[Nancy Stern]] | Stern was present during the intense and monotonous remote viewing taskings related to the Iran hostage crisis (1979-1981). |
@@ -119,7 +119,7 @@ Individuals known for psychic abilities, remote viewing, or participation in psi
 | [[Patty Hearst]] | Patricia Campbell Hearst is an American newspaper heiress who was kidnapped in 1974 by the Symbionese Liberation Army (SLA), a radical left-wing organization. |
 | [[Pavel Naumov]] | Pavel Naumov was a Soviet military scientist who reportedly conducted a notable ESP experiment around 1956. |
 | [[Pavel Stepanek]] | While the effective bit rate for this experiment was very low (about one word per day), it was considered an impressive proof-of-concept, suggesting that the claims made in the Nautilus story might not have been entirely farfetched. |
-| [[Peter Crane]] | Peter Crane was a physicist at Lawrence Livermore National Laboratory (LLNL). |
+| [[Peter Crane]] | Peter Crane is the pseudonym Jim Schnabel gave a Lawrence Livermore physicist who ran off-hours tests of Uri Geller in late 1974 and called the CIA's Kit Green about the apparitions that followed. |
 | [[Peter Hurkos]] | Peter Hurkos was a Dutch psychic who gained international fame for his purported abilities, particularly psychometry—the act of divining information from an object through touch. |
 | [[Peter Maris]] | Peter Maris was a CIA physicist who, along with Ken Kress, an engineer from the Office of Technical Service (OTS), tasked Pat Price with remote viewing the mysterious Soviet military research facility at Semipalatinsk (URDF-3). |
 | [[Peter R. Phillips]] | Randi sent two young magicians, Steven Shaw and Michael Edwards, to Phillips's lab, where they pretended to possess psychokinetic abilities and simulated feats like spoon bending using sleight of hand. |

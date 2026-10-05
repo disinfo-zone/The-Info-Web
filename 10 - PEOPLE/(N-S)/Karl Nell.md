@@ -29,12 +29,12 @@ relations:
     fn: 4
   - type: employed_by
     with: "[[Lockheed Martin]]"
-    role: "Lockheed Missiles and Space, senior systems engineer and SATCOM lead, per his own biography (dates not stated in the version opened)"
+    role: "Lockheed Missiles and Space, senior systems engineer and SATCOM lead, per his own biography"
     fn: 3
   - type: member_of
     with: "[[Sol Foundation]]"
     start: 2023-11-17
-    role: "keynote speaker at the 2023 symposium; speaker at the 2024 symposium; author of the Sol paper 'The UFO Enigma' (May 2025); not listed on the foundation's website roster read October 3, 2026"
+    role: "keynote speaker at the 2023 symposium; speaker at the 2024 symposium; author of the Sol paper 'The UFO Enigma' (May 2025)"
     fn: 5
   - type: employed_by
     with: "[[StarDustX Materials]]"

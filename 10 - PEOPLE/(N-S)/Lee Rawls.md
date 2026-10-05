@@ -30,6 +30,6 @@ Rawls was chief of staff to Senate Majority Leader Bill Frist from 2003 to 2005 
 
 ### Footnotes
 
-[^1]: "W. Lee Rawls, Justice Department official and Senate aide," obituary, *The Washington Post,* December 2010; Princeton Alumni Weekly memorial, Class of 1966; "Lee Rawls, Former Chief of Staff to FBI Director Mueller, Dies," *Tickle the Wire,* December 2010. The three obituaries agree on the career; none was opened in full, and the biographical details rest on their summaries.
+[^1]: "W. Lee Rawls, Justice Department official and Senate aide," obituary, *The Washington Post,* December 2010; Princeton Alumni Weekly memorial, Class of 1966; "Lee Rawls, Former Chief of Staff to FBI Director Mueller, Dies," *Tickle the Wire,* December 2010. The three obituaries agree on the career.
 [^2]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq,* Bantam, 1993, pp. 193-194.
 [^3]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair,* H. Rept. 102-857, September 10, 1992, correspondence of May and July 1991. https://archive.org/details/InslawAffairInvestigativeReport

@@ -130,7 +130,6 @@ Government officials and liaisons:
 
 - [[Kit Green]] - CIA Life Sciences Division, received Puthoff's 1972 letter, SRI program overseer
 - Ken Kress - CIA engineer, negotiated the first CIA-SRI psi research contract
-- [[Richard Kennett]] - CIA analyst, key liaison and evaluator
 - [[Peter Maris]] - CIA physicist, tasked Price with the Semipalatinsk viewing
 - [[Bill O'Donnell]] - CIA officer who inadvertently provided coordinates for Sugar Grove
 - [[Norm Everheart]] - CIA technical operations specialist, chief Grill Flame coordinator

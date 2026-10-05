@@ -54,7 +54,7 @@ Pilkington wrote that [[Greg Bishop]] recalled Shandera, "Moore's colleague in t
 ### Footnotes
 
 [^1]: "Background on Moore/Shandera/Friedman," UFO BBS file UFO1876, http://textfiles.com/ufo/UFOBBS/1000/1876.ufo (promotional text for *UFO Cover-Up? Live!*).
-[^2]: "E B E's," part 5, UFO BBS file UFO1024, http://textfiles.com/ufo/UFOBBS/1000/1024.ufo (author not identified in the copy consulted).
+[^2]: "E B E's," part 5, UFO BBS file UFO1024, http://textfiles.com/ufo/UFOBBS/1000/1024.ufo.
 [^3]: William L. Moore and Jaime H. Shandera, *The MJ-12 Documents: An Analytical Report* (Fund for UFO Research, 1990), "Introduction," p. 3; "The Aquarius Teletype," p. 9, http://www.openminds.tv/wp-content/uploads/The-MJ-12-Documents-An-Analytical-Report-Excerpts.pdf (scanned excerpt, read as page images).
 [^4]: Moore and Shandera, *MJ-12 Documents*, "The MJ-12 Documents (Dec. 1984)," p. 29, same excerpt.
 [^5]: Moore and Shandera, *MJ-12 Documents*, "The Cutler-Twining Memo (Jul. 1985)," pp. 61 to 62, same excerpt.

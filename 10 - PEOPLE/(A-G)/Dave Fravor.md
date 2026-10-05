@@ -76,5 +76,5 @@ The website of [[Americans for Safe Aerospace]] lists "David Fravor (retired Nav
 [^2]: Same, questioning by Representative Langworthy.
 [^3]: House Committee on Oversight and Accountability, Subcommittee on National Security, the Border, and Foreign Affairs, "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency," July 26, 2023, Serial No. 118-53, statement of Commander David Fravor and questioning. https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm
 [^4]: "UFO videos are footage of real 'unidentified' objects, US Navy acknowledges," Fox News, September 2019, quoting Joseph Gradisher to The Black Vault. https://www.foxnews.com/tech/ufo-videos-real-navy-acknowledges.print
-[^5]: The Black Vault, "The Vault Files: The Tic Tac Incident, November 14, 2004." https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/ . The case-file prose is the compiler's; the FOIA documents it reproduces were not individually opened.
+[^5]: The Black Vault, "The Vault Files: The Tic Tac Incident, November 14, 2004." https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/ . The case-file prose is the compiler's.
 [^6]: Americans for Safe Aerospace, website advisor list. https://www.safeaerospace.org

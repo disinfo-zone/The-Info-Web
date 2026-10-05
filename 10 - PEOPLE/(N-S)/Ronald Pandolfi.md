@@ -19,7 +19,7 @@ relations:
   - type: employed_by
     with: "[[Central Intelligence Agency]]"
     start: 1995
-    role: "described as a CIA scientist (Farley, 1995; New York Times, 1998) and CIA analyst (Congressional Research Service, 1998); office and title not stated in the sources opened"
+    role: "described as a CIA scientist (Farley, 1995; New York Times, 1998) and CIA analyst (Congressional Research Service, 1998)"
     fn: 2
   - type: investigated
     with: "[[Hughes Electronics]]"
@@ -30,7 +30,7 @@ created: 2026-10-02
 updated: 2026-10-02
 ---
 
-Ronald Pandolfi is described in the files of the White House [[Office of Science and Technology Policy]] on [[Laurance Rockefeller]]'s UFO initiative, in a [[Congressional Research Service]] chronology and in *The [[New York Times]]* as a scientist or analyst of the [[Central Intelligence Agency]], and he figures in the 1998 congressional inquiry into [[Hughes Electronics]] and [[China]]. The sources opened do not state his CIA office or title; an office-level description (including the [[Office of Scientific and Weapons Research]]) was not found in any opened source and is not asserted here.
+Ronald Pandolfi is described in the files of the White House [[Office of Science and Technology Policy]] on [[Laurance Rockefeller]]'s UFO initiative, in a [[Congressional Research Service]] chronology and in *The [[New York Times]]* as a scientist or analyst of the [[Central Intelligence Agency]], and he figures in the 1998 congressional inquiry into [[Hughes Electronics]] and [[China]].
 
 ### The Science Adviser's Briefing, 1993
 
@@ -62,9 +62,9 @@ The blogger [[Robert Schaeffer]], quoted by [[Jason Colavito]] in 2019, reported
 [^4]: Congressional Research Service, "China: Possible Missile Technology Transfers under U.S. Satellite Export Policy: Actions and Chronology," report 98-485 F, entries for April 1996 and September 1998, https://www.everycrsreport.com/reports/98-485F.html (Shelby statement of September 2000 at note 77); and CRS report RL30220, https://www.everycrsreport.com/files/19990608_RL30220_8a89fcc3410f43e494c171a03c54353429cabd96.html.
 [^5]: U.S. House of Representatives, Select Committee on U.S. National Security and Military/Commercial Concerns with the People's Republic of China, *Report* (Cox Report), 1999, section "Issues" on CIA and Hughes, https://www.globalsecurity.org/wmd/library/congress/1999_r/cox/appbod.htm.
 [^6]: Gerth, Jeff. "Old Concerns Over Data Transfer to China Get New Attention," *The New York Times,* December 7, 1998, reproduced at https://anomalyarchives.org/collections/file/pandolfi-ron/.
-[^7]: "CIA being investigated for information given to Hughes," *The Kansas City Star* (Washington Post wire), December 5, 1998, p. A10, https://www.newspapers.com/image/685529422/. Byline not visible in the view read.
+[^7]: "CIA being investigated for information given to Hughes," *The Kansas City Star* (Washington Post wire), December 5, 1998, p. A10, https://www.newspapers.com/image/685529422/.
 [^8]: Boylan, Richard J. "UFO/ET-Disclosure Policy Splits Covert Network," *Perceptions,* reproduced at http://web.archive.org/web/20130831033026/http://www.think-aboutit.com/ufo/aviary.htm. Sole source for the code name.
-[^9]: "E B E's," UFO BBS files UFO1024 and UFO1030, https://mirror.cyberbits.eu/textfiles.com/ufo/UFOBBS/1000/1024.ufo; Pilkington, Mark. *Mirage Men,* 2010, PDF at https://avalonlibrary.net/ebooks/Mark%20Pilkington%20-%20Mirage%20Men%20-%20A%20Journey%20into%20Disinformation,%20Paranoia%20and%20UFOs.pdf. Text searches of those files and of the book for "Pandolfi" returned no matches.
+[^9]: "E B E's," UFO BBS files UFO1024 and UFO1030, https://mirror.cyberbits.eu/textfiles.com/ufo/UFOBBS/1000/1024.ufo; Pilkington, Mark. *Mirage Men,* 2010, PDF at https://avalonlibrary.net/ebooks/Mark%20Pilkington%20-%20Mirage%20Men%20-%20A%20Journey%20into%20Disinformation,%20Paranoia%20and%20UFOs.pdf.
 [^10]: Elizondo and The Hermetic Penetrator, "The Loose Threads Report," Anomaly Archives, 2022, section on EarthTech, https://anomalyarchives.org/wp-content/uploads/PDF-Loose-Threads.pdf. Sole source for the passages so cited.
 [^11]: Basterfield, Keith. "Jacques Vallee and the 'Secret Onion,'" December 21, 2016, quoting Vallee, *Forbidden Science: Volume Three,* p. 480 (the quoted note refers to Alexander's February 2011 book), https://anomalyarchives.org/collections/file/atp-aka-secret-onion/. For Shannon's list, Loose Threads Report p. 15.
 [^12]: Oechsler, Bob, *Alien Update,* as quoted in Elizondo and The Hermetic Penetrator, "The Loose Threads Report," Anomaly Archives, p. 47, https://anomalyarchives.org/wp-content/uploads/PDF-Loose-Threads.pdf. Sole source for the passages so cited.

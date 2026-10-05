@@ -37,5 +37,5 @@ Hoersch, then 26, opened Cinema 16 at 2021 Sansom Street in October 1969. On Oct
 [^1]: *In the Year of the Pig* (Emile de Antonio, 1968), full film, Internet Archive. https://archive.org/details/InTheYearOfThePig1968
 [^2]: Academy of Motion Picture Arts and Sciences, "The 42nd Academy Awards, 1970," Documentary (Feature). https://www.oscars.org/oscars/ceremonies/1970
 [^3]: "Police to Inspect Building: Cinema 16 Shut Down In License Dispute; Owner Is 'Confused'," *The Philadelphia Inquirer,* October 30, 1969, p. 19. https://www.newspapers.com/image/169186622/
-[^4]: "Mayor Tate's War On [title cut off in the scan]," *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
+[^4]: *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
 [^5]: [Society and nightlife column], *The Philadelphia Inquirer,* February 28, 1975, p. 21. https://www.newspapers.com/image/173366667/
