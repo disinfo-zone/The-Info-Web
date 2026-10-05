@@ -6,7 +6,7 @@ tags:
   - Iraq
   - CIA
   - Ba'ath
-summary: "Saddam Hussein was president of Iraq from 1979 to 2003, a figure whose rise was facilitated by CIA support for the Ba'ath Party and whose regime became both a Cold War client and an adversary; his wars, arms procurement networks, and weapons programs intersect extensively with the vault's Iran-Contra, PROMIS, and intelligence-community subjects."
+summary: "President of Iraq from 1979 to 2003, whose Ba'ath Party took power in a 1963 coup the CIA welcomed, and whose regime received U.S. intelligence during the Iran-Iraq War."
 created: 2026-05-14
 updated: 2026-05-14
 born: 1937-04-28
@@ -25,7 +25,7 @@ The Ba'ath Party was ousted from government in the same year and returned to pow
 
 In September 1980, Saddam launched an invasion of [[Iran]] following the instability created by the [[Iranian Revolution]]. The eight-year [[Iran-Iraq War]] (1980-1988) killed an estimated half million to one million people. A State Department memorandum of October 7, 1983 assumed that the United States was already providing tactical intelligence to Iraq, and on November 29, 1984 Secretary of State [[George Shultz]] told Tariq Aziz that superior intelligence must be an important factor in Iraq's defense.[^6] According to a January 31, 1995 affidavit by former National Security Council staff member Howard Teicher, Director of Central Intelligence [[William Casey]] led efforts to ensure that Iraq received weapons, financial credits, intelligence and strategic military advice.[^6] The administration meanwhile ran the secret arms-for-hostages pipeline to Iran that became the [[Iran-Contra Affair]].
 
-[[Donald Rumsfeld]] visited Saddam in December 1983 as a special envoy for President [[Ronald Reagan]], cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian forces.[^6] The arms and technology transfers to Iraq during the 1980s - including chemical and biological precursors - were later examined in congressional investigations and linked to the [[BNL scandal]] involving the [[Atlanta]] branch of [[Banca Nazionale del Lavoro]].[^7]
+[[Donald Rumsfeld]] visited Saddam in December 1983 as a special envoy for President [[Ronald Reagan]], cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian forces.[^6] The arms and technology transfers to Iraq during the 1980s, including chemical and biological precursors, were later examined in congressional investigations and linked to the [[BNL scandal]] involving the [[Atlanta]] branch of [[Banca Nazionale del Lavoro]].[^7]
 
 ### Arms Procurement Networks
 
