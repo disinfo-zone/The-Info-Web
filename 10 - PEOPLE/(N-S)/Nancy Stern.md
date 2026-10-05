@@ -1,15 +1,18 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Pseudonym
   - Psi
   - Person
   - RemoteViewer
   - Military
   - Stargate
-summary: "Stern was present during the intense and monotonous remote viewing taskings related to the Iran hostage crisis (1979-1981)."
+summary: "Pseudonym used by Jim Schnabel in Remote Viewers (1997) for a member of the Fort Meade unit during the Iran hostage taskings."
 updated: 2026-09-22
 ---
-[[Nancy Stern]] was an Army civilian photo-interpreter and one of the original members of the [[Stargate Project|Gondola Wish]] (later Grill Flame) remote viewing unit. She was among the initial group of ten or eleven candidates selected by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]] for the experimental program, with a heavy emphasis on photo-interpreters due to their visual skills.[^1]
+Nancy Stern is a pseudonym [[Jim Schnabel]] used in *Remote Viewers* (1997) for a member of the Fort Meade unit during the Iran hostage taskings; the book's list of pseudonyms includes the name.[^3]
+
+In Schnabel's account, [[Nancy Stern]] was an Army civilian photo-interpreter and one of the original members of the [[Stargate Project|Gondola Wish]] (later Grill Flame) remote viewing unit. She was among the initial group of ten or eleven candidates selected by [[Frederick Atwater|Skip Atwater]] and [[Murray Watt|Scotty Watt]] for the experimental program, with a heavy emphasis on photo-interpreters due to their visual skills.[^1]
 
 Stern was present during the intense and monotonous remote viewing taskings related to the Iran hostage crisis (1979-1981). After the failed hostage rescue mission in April 1980, she became emotionally distraught, crying and expressing anger at the debacle, and subsequently left the unit. Her departure, along with that of [[Fernand Gauvin|Fern Gauvin]], highlighted the psychological toll of the relentless remote viewing operations.[^1]
 
@@ -19,3 +22,4 @@ The released CIA collection on the program carries no legible mention of a Nancy
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Grill Flame security agreements, volunteer consent statements, participant counseling statements, "Information About Remote Viewing for Participants" forms, and DIA Sun Streak access forms, 1977 to 1988, CIA-RDP96-00789R002100150005-8 to R002100150079-7; names as printed in the item titles, the signature lines being largely illegible in OCR. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. The archive.org mirror of the CIA FOIA Reading Room STARGATE collection, about 13,000 items under the identifiers cia-rdp96-*, searched by title and OCR text.
+[^3]: Jim Schnabel, *Remote Viewers: The Secret History of America's Psychic Spies* (New York: Dell, 1997), "Pseudonyms": "The following names mentioned in the text are pseudonyms," https://archive.org/details/jim-schnabel-remote-viewers-the-secret-history-of-americas-psychic-spies_2.

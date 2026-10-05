@@ -38,6 +38,6 @@ The review of Jonathan Margolis's *The Secret Life of Uri Geller* in *Lobster* s
 
 ### Footnotes
 
-[^1]: Rudy Havenstein, "Dr. Green and the Goblins of Langley," Substack, July 11, 2025, https://rudy.substack.com/p/dr-green-and-the-goblins-of-langley, quoting *Grey Lodge Occult Review* 1, no. 5.
+[^1]: Rudy Havenstein, "Dr. Green and the Goblins of Langley," Substack, July 11, 2025, https://rudy.substack.com/p/dr-green-and-the-goblins-of-langley, quoting *Grey Lodge Occult Review* 1, no. 5. Schnabel's own list of pseudonyms in *Remote Viewers* (Dell, 1997), "Pseudonyms," includes Richard Kennett, Peter Crane, Don Curtis and Mike Russo: https://archive.org/details/jim-schnabel-remote-viewers-the-secret-history-of-americas-psychic-spies_2.
 [^2]: Jim Schnabel, *Remote Viewers: The Secret History of America's Psychic Spies* (Dell, 1997), as excerpted at the Havenstein URL above. Sole source for the passages so cited.
 [^3]: *Lobster* 67 (2014), review of Jonathan Margolis, *The Secret Life of Uri Geller: CIA Masterspy?* (Watkins, 2013), https://www.lobster-magazine.co.uk/wp-content/uploads/lob67-higher-strangeness.pdf. Sole source for the "Don Gregory" rendering.

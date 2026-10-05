@@ -45,7 +45,7 @@ Schnabel states that the matter ended after Russo complained of a telephone call
 
 ### Footnotes
 
-[^1]: Rudy Havenstein, "Dr. Green and the Goblins of Langley," Substack, July 11, 2025, https://rudy.substack.com/p/dr-green-and-the-goblins-of-langley, quoting *Grey Lodge Occult Review* 1, no. 5: "The names Richard Kennett, Peter Crane, Mike Russo and Don Kurtis which appear below are pseudonyms employed by Mr. Schnabel."
+[^1]: Rudy Havenstein, "Dr. Green and the Goblins of Langley," Substack, July 11, 2025, https://rudy.substack.com/p/dr-green-and-the-goblins-of-langley, quoting *Grey Lodge Occult Review* 1, no. 5: "The names Richard Kennett, Peter Crane, Mike Russo and Don Kurtis which appear below are pseudonyms employed by Mr. Schnabel." Schnabel's own list of pseudonyms in *Remote Viewers* (Dell, 1997), "Pseudonyms," includes Richard Kennett, Peter Crane, Don Curtis and Mike Russo: https://archive.org/details/jim-schnabel-remote-viewers-the-secret-history-of-americas-psychic-spies_2.
 [^2]: Charles Panati, ed., *The Geller Papers* (Houghton Mifflin, 1976), introduction, https://urigeller.com/scientific-paranormal/the-geller-papers/introduction/; Uri Geller and Guy Lyon Playfair, *The Geller Effect* (Jonathan Cape, 1986).
 [^3]: Jim Schnabel, *Remote Viewers: The Secret History of America's Psychic Spies* (New York: Dell, 1997), chapter on Kennett and Livermore, as excerpted at https://rudy.substack.com/p/dr-green-and-the-goblins-of-langley. Sole source for the passages so cited; Schnabel uses pseudonyms for the Livermore physicists.
 [^4]: Annie Jacobsen, *Phenomena* (Little, Brown, 2017).
