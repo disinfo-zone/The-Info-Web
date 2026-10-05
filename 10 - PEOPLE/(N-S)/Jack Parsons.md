@@ -27,6 +27,22 @@ born: 1914-10-02
 died: 1952-06-17
 location: "Pasadena, California"
 relations:
+  - type: partner_of
+    with: "[[Sara Northrup]]"
+    start: 1946-01
+    end: 1946-07
+    role: "partner with Hubbard in Allied Enterprises, the yacht-purchase partnership; Parsons's companion before she transferred her affections to Hubbard"
+    fn: 26
+  - type: relative_of
+    with: "[[Sara Northrup]]"
+    role: "sister-in-law and companion at 1003 South Orange Grove Avenue"
+    fn: 26
+  - type: participant_in
+    with: "[[Babalon Working]]"
+    start: 1946-01-04
+    end: 1946-03-04
+    role: "operator; Hubbard scribe and seer, Marjorie Cameron the woman who arrived January 19"
+    fn: 26
   - type: member_of
     with: "[[Agape Lodge]]"
     start: 1941-02-15
@@ -53,19 +69,19 @@ relations:
     start: 1949
     end: 1950-09-26
     role: "physicist and group leader for propellants, propulsion and launching, Research and Development laboratories; terminated September 26, 1950"
-    fn: 35
+    fn: 44
   - type: employed_by
     with: "[[North American Aviation]]"
     start: 1946
     end: 1948
     role: "laboratory worker; access to classified work denied in 1948"
-    fn: 34
+    fn: 43
   - type: employed_by
     with: "[[Bermite Powder Company]]"
     start: 1951
     end: 1952-06-13
     role: "head of a rocket-propellant detonation and pyrotechnic short-interval delay project"
-    fn: 42
+    fn: 51
   - type: member_of
     with: "[[Agape Lodge]]"
     start: 1941
@@ -83,7 +99,7 @@ relations:
     start: 1950-09-25
     end: 1951-10-25
     role: "subject of FBI file 65-59589 (Espionage - IS); Department of Justice found a possible violation of 18 U.S.C. 793 and 794; prosecution declined"
-    fn: 40
+    fn: 49
   - type: informant_for
     with: "[[Federal Bureau of Investigation]]"
     start: 1950-01-11
@@ -93,19 +109,19 @@ relations:
     with: "[[Industrial Employment Review Board]]"
     start: 1952-01-07
     role: "clearance granted through Top Secret on March 7, 1949 was revoked on the Board's own motion effective January 7, 1952"
-    fn: 41
+    fn: 50
   - type: spouse_of
     with: "[[Marjorie Cameron]]"
     start: 1946-10-19
     end: 1952-06-17
     role: "husband (her first marriage, his second)"
-    fn: 29
+    fn: 31
   - type: partner_of
     with: "[[L. Ron Hubbard]]"
     start: 1946-01
     end: 1946-07
     role: "partner in a pooled business arrangement and in the Babalon Working; later claimant against Hubbard in Miami"
-    fn: 26
+    fn: 28
 created: 2026-10-05
 updated: 2026-10-05
 ---
@@ -142,37 +158,41 @@ An FBI Oklahoma City letter of March 31, 1944 (file 100-189320-2, "Church of The
 
 ### Hubbard, Cameron and the Babalon Working
 
-In a letter to Crowley written about February 1946, Parsons described [[L. Ron Hubbard]] as "Capt. L. Ron Hubbard, a writer and explorer," who "moved in with me about two months ago," and added that Parsons's partner Betty ([[Sara Northrup]]) "has transferred her sexual affections to him." He wrote: "We are pooling our resources in a partnership that will act as a limited company to control our business ventures" and "I need a magical partner."[^26] On January 21, 1946 he had reported to Crowley a seven-day Enochian invocation of the air elemental he called RZLA, with no manifestation other than a three-day windstorm.[^27] On March 6, 1946 he wrote that between February 2 and March 4 he had had "the most important, devastating experience of my life," attributed to "the 9th working with the girl who answered my elemental summons," and that "First instructions were received through Ron the seer."[^28]
+According to the historian Henrik Bogdan, [[L. Ron Hubbard]] first came to 1003 South Orange Grove Avenue on August 1, 1945 with the illustrator Lou Goldstone, moved in, and began a relationship with Parsons's companion and sister-in-law [[Sara Northrup]], called Betty, who had joined the Ordo Templi Orientis in 1941.[^26] On January 23, 1946 the Agape Lodge member Jane Wolfe wrote to Karl Germer that everyone at 1003 "has to dance to Betty's whims," that Parsons had "just recently executed a will making Betty his sole heir," that Betty "has transferred her emotional life into the hands of one Ron Hubbard, a very likeable Irishman, who lives there," and that under the proposed arrangement Betty would "continue to be custodian of the property and hostess of the manage."[^27] In a letter to Crowley written about February 1946, Parsons described "Capt. L. Ron Hubbard," who "moved in with me about two months ago," and added that Betty "has transferred her sexual affections to him." He wrote: "We are pooling our resources in a partnership which will act as a parent company to control our business ventures" and "I need a magical partner."[^28] On January 21, 1946 he had reported to Crowley a seven-day Enochian invocation of the air elemental he called RZLA, with no manifestation other than a three-day windstorm.[^29] On March 6, 1946 he wrote that between February 2 and March 4 he had had "the most important, devastating experience of my life," attributed to "the 9th working with the girl who answered my elemental summons," and that "First instructions were received through Ron the seer."[^30] The rites of January to March 1946 are known as the [[Babalon Working]].[^26]
 
-The girl was [[Marjorie Cameron]]. The FBI's later inquiry into the marriage records that the couple married at San Juan Capistrano on October 19, 1946; he was thirty-two, a chemist, living at 1003 South Orange Grove, and she was twenty-four, born in Iowa, a painter, and had served in the Navy as a WAVE.[^29]
+Bogdan names the Parsons, Hubbard and Northrup partnership Allied Enterprises, formed in January 1946 to buy yachts on the East Coast, sail them to California and sell them; he gives Parsons's contribution as $20,970.80 and Hubbard's as $1,183.91.[^26]
 
-Hubbard and Northrup left for [[Florida]] with money and a yacht. [[Karl Germer]], Crowley's representative in New York, wrote to [[Grady McMurtry]] on May 24, 1946 that Crowley's cable reply had been "SUSPECT RON PLAYING CONFIDENCE TRICK JACK EVIDENTLY WEAK FOOL OBVIOUS VICTIM PROWLING SWINDLERS."[^30] On July 5, 1946 Parsons wrote from [[Miami]]: "Here I am in Miami pursuing the children of my folly. I have them well tied up: they cannot move without going to jail," estimating that he might salvage three to five thousand dollars, and described a sailing attempt by Hubbard at 5 p.m. on the day of an invocation of [[Bartzabel]] at 8 p.m., after which a squall forced the ship back and "I took the boat in custody."[^31] On July 3, 1946 Crowley wrote to Parsons that he had told Germer Parsons "was evidently the victim of a confidence trick," and that Parsons had no right to dispose of the 1003 property, whose transfer to the Order was the fulfilment of his Seventh Degree obligation.[^32] Parsons resigned from the Ordo Templi Orientis on August 20, 1946.[^33]
+The girl was [[Marjorie Cameron]]. The FBI's later inquiry into the marriage records that the couple married at San Juan Capistrano on October 19, 1946; he was thirty-two, a chemist, living at 1003 South Orange Grove, and she was twenty-four, born in Iowa, a painter, and had served in the Navy as a WAVE.[^31]
+
+Hubbard and Northrup went east to buy a boat. On May 12, 1946 the Agape Lodge member [[Louis Culling]] wrote to Germer that Parsons "signed a partnership agreement with this Ron and Betty whereby all money earned by the three for life is equally divided between the three," that Parsons "has put in all of his money," and that Ron and Betty "have bought a boat for themselves in Miami for about $10,000."[^32] Grady McMurtry wrote to Germer on May 15, 1946 that he had learned from Marie Prescott that Parsons "had put the assets from the sale of the house at the disposal of himself, Betty and Ron Hubbard," in a plan to buy "a boat and cargo" and sail it to the West Coast to unload at a profit, and Wolfe wrote to Germer on May 16 that Parsons had been "pretty thoroughly milked by Ron Hubbard and Betty."[^33] McMurtry wrote on June 4, 1946: "If he can be charmed by anyone with a smooth tongue, first Smith and now Hubbard, then certainly he is poor clay."[^34] Germer wrote to McMurtry on May 24, 1946 that Crowley's cable reply had been "SUSPECT RON PLAYING CONFIDENCE TRICK JACK EVIDENTLY WEAK FOOL OBVIOUS VICTIM PROWLING SWINDLERS."[^35] On June 14, 1946 Crowley wrote to McMurtry that "apparently he, or Ron or somebody, is producing a Moon Child."[^36] On July 5, 1946 Parsons wrote from [[Miami]]: "Here I am in Miami pursuing the children of my folly. I have them well tied up: they cannot move without going to jail," estimating that he might salvage three to five thousand dollars, and described a sailing attempt by Hubbard at 5 p.m. on the day of an invocation of [[Bartzabel]] at 8 p.m., after which a squall forced the ship back and "I took the boat in custody."[^37] On July 3, 1946 Crowley wrote to Parsons that he had told Germer Parsons "was evidently the victim of a confidence trick," and that Parsons had no right to dispose of the 1003 property, whose transfer to the Order was the fulfilment of his Seventh Degree obligation.[^38] Parsons resigned from the Ordo Templi Orientis on August 20, 1946.[^39] On October 28, 1946 Crowley wrote to Culling: "About Parsons, all that I can say is that I am sorry, he was led astray firstly by Smith, then by a confidence man names Hubbard."[^55]
+
+On October 5, 1969 The Sunday Times of London published Alexander Mitchell's account, "The Odd Beginning of Ron Hubbard's Career," drawn from papers owned by "a former admirer of Crowley" and from Parsons's record of the Working; the FBI's Church of Scientology file holds a clipping that the Washington Field Office sent to the Bureau in June 1974, after a request of May 10, 1974 from the legal attache in London, saying it came from a State Department passport file the FBI attributed to Hubbard.[^40] In a statement printed on December 28, 1969 the Church said that Hubbard had been "sent in to handle the situation" at 1003 Orange Grove and that "the house was torn down."[^26] In a letter of May 1951 to the Attorney General, Hubbard wrote that Sara Northrup "had attached herself to a Jack Parsons, the rocket expert, during the war and when she left him he was a wreck. Further, through Parsons, she was strangely intimate with many scientists of Los Alamo Gordos [sic]."[^41] The FBI's own file on Parsons (65-59589), as released, does not mention Hubbard.[^42]
 
 ### Security clearance and the 1950 inquiry
 
-Parsons worked at [[North American Aviation]] as a laboratory worker from 1946 to 1948. The Air Force Provost Marshal notified the company on September 21, 1948 that he was "undesirable for employment on classified contracts"; records at [[Wright-Patterson Air Force Base]] reflect denial of access on the grounds of membership in a religious cult in Pasadena and association with an alleged Communist Party member. The [[Army-Navy-Air Force Personnel Security Board]] had directed denial on August 18, 1948. The [[Industrial Employment Review Board]] reversed that decision on March 7, 1949, authorizing access through Top Secret.[^34]
+Parsons worked at [[North American Aviation]] as a laboratory worker from 1946 to 1948. The Air Force Provost Marshal notified the company on September 21, 1948 that he was "undesirable for employment on classified contracts"; records at [[Wright-Patterson Air Force Base]] reflect denial of access on the grounds of membership in a religious cult in Pasadena and association with an alleged Communist Party member. The [[Army-Navy-Air Force Personnel Security Board]] had directed denial on August 18, 1948. The [[Industrial Employment Review Board]] reversed that decision on March 7, 1949, authorizing access through Top Secret.[^43]
 
-By April 1949 he was employed at Hughes Aircraft in [[Culver City]] as group leader for propellants, propulsion and launching. His personnel security questionnaire of April 11, 1949 listed membership in 1946 in the [[American Civil Liberties Union]]; he told the FBI that he had subscribed to the Daily People's World in 1938.[^35] His employment history submitted to Hughes listed consulting connections with the Los Angeles District Attorney's Office, the [[Los Angeles Police Department]], [[Northrop Aircraft]], General Chemical Company, the National Defense Research Council and the [[Office of Scientific Research and Development]].[^35]
+By April 1949 he was employed at Hughes Aircraft in [[Culver City]] as group leader for propellants, propulsion and launching. His personnel security questionnaire of April 11, 1949 listed membership in 1946 in the [[American Civil Liberties Union]]; he told the FBI that he had subscribed to the Daily People's World in 1938.[^44] His employment history submitted to Hughes listed consulting connections with the Los Angeles District Attorney's Office, the [[Los Angeles Police Department]], [[Northrop Aircraft]], General Chemical Company, the National Defense Research Council and the [[Office of Scientific Research and Development]].[^44]
 
-On September 25, 1950 the Air Provost Marshal at the Los Angeles Air Force Field Procurement Office, John T. Berdner, told the FBI that an employee of Hughes had removed classified material. The material consisted of seventeen documents on rocket propellants, a propellant loading plant for jet motors, manufacture of non-nitroglycerine blasting explosives, and a draft contract for a two-year minimum term of employment. Parsons had taken them out through Gate 19 on September 15, 1950, and had given them to a neighbor, whose husband worked at Hughes, to type.[^35] In a signed statement of September 26, 1950 he said that since October 1948 he had negotiated with a North Hollywood man about a position in [[Israel]], that he had prepared plans for an explosives plant and cost estimates, and that he planned to submit a proposal through the [[American Technion Society]] for employment in Israel.[^35] The file includes a Los Angeles Zionist rally announcement stating that the American Technion Society had been designated by Israeli government and industry as the American body for technical know-how.[^35] Hughes terminated him on September 26, 1950.[^35]
+On September 25, 1950 the Air Provost Marshal at the Los Angeles Air Force Field Procurement Office, John T. Berdner, told the FBI that an employee of Hughes had removed classified material. The material consisted of seventeen documents on rocket propellants, a propellant loading plant for jet motors, manufacture of non-nitroglycerine blasting explosives, and a draft contract for a two-year minimum term of employment. Parsons had taken them out through Gate 19 on September 15, 1950, and had given them to a neighbor, whose husband worked at Hughes, to type.[^44] In a signed statement of September 26, 1950 he said that since October 1948 he had negotiated with a North Hollywood man about a position in [[Israel]], that he had prepared plans for an explosives plant and cost estimates, and that he planned to submit a proposal through the [[American Technion Society]] for employment in Israel.[^44] The file includes a Los Angeles Zionist rally announcement stating that the American Technion Society had been designated by Israeli government and industry as the American body for technical know-how.[^44] Hughes terminated him on September 26, 1950.[^44]
 
-The FBI's Los Angeles office classified the case as "Espionage - IS." Thirteen of the documents were reviewed for classification; the Army later reported that eight were unclassified, one restricted and four confidential.[^36] On December 15, 1950 he surrendered to the FBI seven [[Guggenheim Aeronautical Laboratory]] reports of the GALCIT Project No. 1, dated 1941 to 1944, classified Confidential, that he said he had kept as personal copies from his Aerojet and Hughes employment; the Jet Propulsion Laboratory told the FBI by letter of December 29, 1950 that their present active classification was three confidential, one restricted and three unclassified and that all could be downgraded, and the FBI also recorded the observation that security regulations at the Jet Propulsion Laboratory during his employment were lax with no charge-out system.[^37]
+The FBI's Los Angeles office classified the case as "Espionage - IS." Thirteen of the documents were reviewed for classification; the Army later reported that eight were unclassified, one restricted and four confidential.[^45] On December 15, 1950 he surrendered to the FBI seven [[Guggenheim Aeronautical Laboratory]] reports of the GALCIT Project No. 1, dated 1941 to 1944, classified Confidential, that he said he had kept as personal copies from his Aerojet and Hughes employment; the Jet Propulsion Laboratory told the FBI by letter of December 29, 1950 that their present active classification was three confidential, one restricted and three unclassified and that all could be downgraded, and the FBI also recorded the observation that security regulations at the Jet Propulsion Laboratory during his employment were lax with no charge-out system.[^46]
 
-The Criminal Division of the [[Department of Justice]] replied in January 1951 that the facts appeared to constitute a violation of Section 793 and possibly Section 794 of Title 18 of the U.S. Code and asked the FBI to ascertain from the Army whether the documents related to the national defense. The Assistant Attorney General's memorandum also referred to the Los Angeles report of December 7, 1950, in which "information appears pertaining to one Professor Theodore von Karman" and stated that Parsons "had gone to [redacted] at the suggestion of Von Karman"; it then asked whether a person of the same name in "the Perl case" was the individual in the Parsons matter and whether the FBI had information relating the two matters.[^38] The names in those passages are redacted in the released file.
+The Criminal Division of the [[Department of Justice]] replied in January 1951 that the facts appeared to constitute a violation of Section 793 and possibly Section 794 of Title 18 of the U.S. Code and asked the FBI to ascertain from the Army whether the documents related to the national defense. The Assistant Attorney General's memorandum also referred to the Los Angeles report of December 7, 1950, in which "information appears pertaining to one Professor Theodore von Karman" and stated that Parsons "had gone to [redacted] at the suggestion of Von Karman"; it then asked whether a person of the same name in "the Perl case" was the individual in the Parsons matter and whether the FBI had information relating the two matters.[^47] The names in those passages are redacted in the released file.
 
-The Army's G-2 security division (Colonel Paul G. Cramer) answered on April 6, 1951 that items 8, 11, 12 and 13 related to current confidential research and development and "should not be divulged to unauthorized persons," while an Air Force office noted that the underlying work was administered under the Army Chief of Ordnance and that some of the unclassified papers involved proprietary processes of Aerojet and [[Thiokol]].[^39] The matter went to the U.S. Attorney for the Southern District of California on May 17, 1951. On October 25, 1951 Assistant U.S. Attorney [[Angus D. McEachen]] declined prosecution "due to the lack of sufficient evidence of intent or reason to believe that information obtained was to be used to injure the United States or to the advantage of a foreign nation," and the evidence was returned to its owners.[^40]
+The Army's G-2 security division (Colonel Paul G. Cramer) answered on April 6, 1951 that items 8, 11, 12 and 13 related to current confidential research and development and "should not be divulged to unauthorized persons," while an Air Force office noted that the underlying work was administered under the Army Chief of Ordnance and that some of the unclassified papers involved proprietary processes of Aerojet and [[Thiokol]].[^48] The matter went to the U.S. Attorney for the Southern District of California on May 17, 1951. On October 25, 1951 Assistant U.S. Attorney [[Angus D. McEachen]] declined prosecution "due to the lack of sufficient evidence of intent or reason to believe that information obtained was to be used to injure the United States or to the advantage of a foreign nation," and the evidence was returned to its owners.[^49]
 
-On January 9, 1952 the Industrial Employment Review Board wrote to Parsons at 1200 Esplanade, [[Redondo Beach]], that it had decided "on its own motion" to revoke the clearance granted through Top Secret on March 7, 1949, effective January 7, 1952, on the ground that he had "knowingly, willfully and without proper authority removed and applied to your own use and benefit documents and papers containing classified military information."[^41] The FBI's closing memorandum recommended that the case be closed.[^40]
+On January 9, 1952 the Industrial Employment Review Board wrote to Parsons at 1200 Esplanade, [[Redondo Beach]], that it had decided "on its own motion" to revoke the clearance granted through Top Secret on March 7, 1949, effective January 7, 1952, on the ground that he had "knowingly, willfully and without proper authority removed and applied to your own use and benefit documents and papers containing classified military information."[^50] The FBI's closing memorandum recommended that the case be closed.[^49]
 
 ### Bermite and the last year
 
-Parsons moved to a rented laboratory behind 1071 South Orange Grove Avenue, the former Cruickshank estate. The Los Angeles Times reported on June 19, 1952 that he had worked for a year at the [[Bermite Powder Company]] of [[Saugus]], where he headed "one of the rocket propellant detonation and pyrotechnic short-interval delay projects, a confidential research and development program," until the preceding Friday, June 13, when he left intending to go to [[Mexico]] to continue explosives research and to build miniature special effects for motion pictures.[^42]
+Parsons moved to a rented laboratory behind 1071 South Orange Grove Avenue, the former Cruickshank estate. The Los Angeles Times reported on June 19, 1952 that he had worked for a year at the [[Bermite Powder Company]] of [[Saugus]], where he headed "one of the rocket propellant detonation and pyrotechnic short-interval delay projects, a confidential research and development program," until the preceding Friday, June 13, when he left intending to go to [[Mexico]] to continue explosives research and to build miniature special effects for motion pictures.[^51]
 
 ### Death
 
-At about 5:30 p.m. on June 17, 1952 an explosion demolished the laboratory at 1071 South Orange Grove. The [[Los Angeles Daily News]] reported that his wife ran in and dug for him, that an arm had been torn from his body, that he was alive and conscious when taken to [[Huntington Memorial Hospital]] but did not talk, and that he died about an hour later; that the couple, who had moved two weeks earlier, were to leave that night by trailer for San Miguel, an art colony near Mexico City; and that Army ordnance men from [[Fort MacArthur]] removed chemicals from the laboratory.[^43] His brother-in-law Robert Cameron said he believed Parsons had decided to finish an experiment before packing.[^43] Pasadena police chemist Don M. Harding said that mercury fulminate was "set off by a shock at floor level," that a coffee can in which the batch was apparently being mixed was "shredded into shrapnel," and that enough explosives remained to "blow up half the block"; Bermite's superintendent J. H. Arnold described Parsons as "extremely safety-conscious," careful and "scrupulously neat" and said he was surprised that Parsons had explosives in the makeshift laboratory.[^44]
+At about 5:30 p.m. on June 17, 1952 an explosion demolished the laboratory at 1071 South Orange Grove. The [[Los Angeles Daily News]] reported that his wife ran in and dug for him, that an arm had been torn from his body, that he was alive and conscious when taken to [[Huntington Memorial Hospital]] but did not talk, and that he died about an hour later; that the couple, who had moved two weeks earlier, were to leave that night by trailer for San Miguel, an art colony near Mexico City; and that Army ordnance men from [[Fort MacArthur]] removed chemicals from the laboratory.[^52] His brother-in-law Robert Cameron said he believed Parsons had decided to finish an experiment before packing.[^52] Pasadena police chemist Don M. Harding said that mercury fulminate was "set off by a shock at floor level," that a coffee can in which the batch was apparently being mixed was "shredded into shrapnel," and that enough explosives remained to "blow up half the block"; Bermite's superintendent J. H. Arnold described Parsons as "extremely safety-conscious," careful and "scrupulously neat" and said he was surprised that Parsons had explosives in the makeshift laboratory.[^53]
 
-His mother, Ruth Virginia Parsons, 58, who had been staying at 424 Arroyo Terrace, swallowed sleeping pills after being told of his death and was pronounced dead at 8:30 p.m.[^43] The Daily News noted that he had served as an explosives expert witness in the 1938 trial of the Los Angeles police lieutenant [[Earl Kynette]].[^43] Marjorie Cameron later suspected that her husband had been assassinated and attempted to contact his spirit through ritual, according to the Whitney Museum's biography of her.[^45]
+His mother, Ruth Virginia Parsons, 58, who had been staying at 424 Arroyo Terrace, swallowed sleeping pills after being told of his death and was pronounced dead at 8:30 p.m.[^52] The Daily News noted that he had served as an explosives expert witness in the 1938 trial of the Los Angeles police lieutenant [[Earl Kynette]].[^52] Marjorie Cameron later suspected that her husband had been assassinated and attempted to contact his spirit through ritual, according to the Whitney Museum's biography of her.[^54]
 
 ### Footnotes
 
@@ -201,23 +221,33 @@ His mother, Ruth Virginia Parsons, 58, who had been staying at 424 Arroyo Terrac
 [^23]: Cornelius, Jerry, In the Name of the Beast (2005), as cited in the Crowley Timeline, entry for September 13, 1943, aleistercrowleytimeline.com/Years/1943.html.
 [^24]: Kansa, Spencer, Wormwood Star (Mandrake of Oxford, 2020), as cited in the Crowley Timeline, entry for June 22, 1943, aleistercrowleytimeline.com/Years/1943.html.
 [^25]: Federal Bureau of Investigation, Oklahoma City letter to the Bureau, March 31, 1944, aleistercrowleytimeline.com/Diaries/Law-Enforcement/Parsons/1944-03-31-FBI-File.html (scanned in the FBI Parsons file, archive.org/details/JohnParsons).
-[^26]: Parsons, John W., letter to Crowley, circa February 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-02-00-Parsons-to-Crowley.htm.
-[^27]: Parsons, letter to Crowley, January 21, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-01-21-Parsons-to-Crowley.htm.
-[^28]: Parsons, letter to Crowley, March 6, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-03-06-Parsons-to-Crowley.htm.
-[^29]: FBI Parsons file, Part 2, Los Angeles report of March 1951 (Orange County marriage record, license October 17, 1946; marriage October 19, 1946) and Washington Field Office check of Veterans Administration and Navy records on Marjorie Cameron.
-[^30]: Germer, Karl, letter to Grady McMurtry, May 24, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-05-24-Germer-to-McMurtry.htm.
-[^31]: Parsons, letter to Crowley, July 5, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-07-05-Parsons-to-Crowley.htm.
-[^32]: Crowley, letter to Parsons, July 3, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-07-03-Crowley-to-Parsons.htm.
-[^33]: Parsons, resignation from the Ordo Templi Orientis, August 20, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-08-20-Parsons-to-Crowley.htm.
-[^34]: FBI Parsons file, Part 1, report of November 22, 1950 (Cincinnati office, Wright-Patterson records) and Headquarters U.S. Air Force Office of Special Investigations memorandum to E. S. Sanders (Army-Navy-Air Force Personnel Security Board, August 18, 1948; Industrial Employment Review Board, March 7, 1949).
-[^35]: FBI Parsons file, Part 1, Los Angeles report of November 2, 1950 (documents list; statements of September 26 and 28, 1950; Hughes background records; American Technion Society).
-[^36]: FBI Parsons file, Part 1, Los Angeles report of December 7, 1950; Part 2, Department of the Army G-2 memorandum to the FBI, April 6, 1951, and FBI closing memorandum.
-[^37]: FBI Parsons file, Part 1, Los Angeles report of December 19, 1950 (statement of December 19, 1950 on the seven Guggenheim reports) and Part 2, report quoting Jet Propulsion Laboratory letter of December 29, 1950.
-[^38]: FBI Parsons file, Part 2, memorandum of the Assistant Attorney General, Criminal Division, to the Director, FBI, January 1951.
-[^39]: FBI Parsons file, Part 2, Directorate of Research and Development, Office of the Deputy Chief of Staff, Air Force memorandum on classification, 1951.
-[^40]: FBI Parsons file, Part 2, Assistant Attorney General's memorandum of May 17, 1951 and closing memorandum (T. F. Oglesby) recording declination by Assistant U.S. Attorney Angus D. McEachen on October 25, 1951.
-[^41]: FBI Parsons file, Part 2, letter of the Industrial Employment Review Board, Department of Defense, to John Whiteside Parsons, January 9, 1952, and FBI cover memorandum.
-[^42]: Los Angeles Times, June 19, 1952, p. 4 (cited at note 6).
-[^43]: "Blast Kills Pasadena Rocket Man," Los Angeles Daily News, June 18, 1952, p. 2, aleistercrowleytimeline.com/Articles/1952/1952-06-18-Daily-News.
-[^44]: Los Angeles Times, June 19, 1952, p. 4 (cited at note 6).
-[^45]: Whitney Museum of American Art, artist biography of Cameron, whitney.org/artists/10843.
+[^26]: Bogdan, Henrik, "The Babalon Working 1946: L. Ron Hubbard, John Whiteside Parsons, and the Practice of Enochian Magic," Numen 63 (2016), pp. 12-32, archive.org/details/l.-ron-hubbard-john-whiteside-parsons-the-practice-of-enochian-magic-the-babalon-working-1946 (August 1, 1945 arrival; Northrup joined the OTO in 1941; Allied Enterprises and the figures; Church of Scientology statement of December 28, 1969). Sole source for the passages so cited.
+[^27]: Wolfe, Jane, letter to Karl Germer, January 23, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-01-23-Wolfe-to-Germer.htm.
+[^28]: Parsons, John W., letter to Crowley, circa February 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-02-00-Parsons-to-Crowley.htm.
+[^29]: Parsons, letter to Crowley, January 21, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-01-21-Parsons-to-Crowley.htm.
+[^30]: Parsons, letter to Crowley, March 6, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-03-06-Parsons-to-Crowley.htm.
+[^31]: FBI Parsons file, Part 2, Los Angeles report of March 1951 (Orange County marriage record, license October 17, 1946; marriage October 19, 1946) and Washington Field Office check of Veterans Administration and Navy records on Marjorie Cameron.
+[^32]: Culling, Louis T., letter to Karl Germer, May 12, 1946 (extract), aleistercrowleytimeline.com/Correspondence/1946/1946-05-12-Culling-to-Germer.html.
+[^33]: McMurtry, Grady, letter to Karl Germer, May 15, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-05-15-McMurtry-to-Germer.htm; Wolfe, Jane, letter to Karl Germer, May 16, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-05-16-Wolfe-to-Germer.htm.
+[^34]: McMurtry, Grady, letter to Karl Germer, June 4, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-06-04-McMurtry-to-Germer.htm.
+[^35]: Germer, Karl, letter to Grady McMurtry, May 24, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-05-24-Germer-to-McMurtry.htm.
+[^36]: Crowley, Aleister, letter to Grady McMurtry, June 14, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-06-14-Crowley-to-McMurtry.htm.
+[^37]: Parsons, letter to Crowley, July 5, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-07-05-Parsons-to-Crowley.htm.
+[^38]: Crowley, letter to Parsons, July 3, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-07-03-Crowley-to-Parsons.htm.
+[^39]: Parsons, resignation from the Ordo Templi Orientis, August 20, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-08-20-Parsons-to-Crowley.htm.
+[^40]: Mitchell, Alexander, "The Odd Beginning of Ron Hubbard's Career," The Sunday Times (London), October 5, 1969, clipping and FBI Washington Field Office airtel (87-20913) to the Director (105-255635), June 1974, FBI file "Church of Scientology/L. Ron Hubbard," Part 6, archive.org/details/churchofscientologyl.ronhubbard.
+[^41]: Hubbard, L. Ron, letter to the Attorney General of the United States, Wichita, Kansas, May 1951, FBI file "Church of Scientology/L. Ron Hubbard," Part 5, archive.org/details/churchofscientologyl.ronhubbard.
+[^42]: FBI, John Whiteside Parsons file 65-59589, Parts 1 and 2, archive.org/details/JohnParsons.
+[^43]: FBI Parsons file, Part 1, report of November 22, 1950 (Cincinnati office, Wright-Patterson records) and Headquarters U.S. Air Force Office of Special Investigations memorandum to E. S. Sanders (Army-Navy-Air Force Personnel Security Board, August 18, 1948; Industrial Employment Review Board, March 7, 1949).
+[^44]: FBI Parsons file, Part 1, Los Angeles report of November 2, 1950 (documents list; statements of September 26 and 28, 1950; Hughes background records; American Technion Society).
+[^45]: FBI Parsons file, Part 1, Los Angeles report of December 7, 1950; Part 2, Department of the Army G-2 memorandum to the FBI, April 6, 1951, and FBI closing memorandum.
+[^46]: FBI Parsons file, Part 1, Los Angeles report of December 19, 1950 (statement of December 19, 1950 on the seven Guggenheim reports) and Part 2, report quoting Jet Propulsion Laboratory letter of December 29, 1950.
+[^47]: FBI Parsons file, Part 2, memorandum of the Assistant Attorney General, Criminal Division, to the Director, FBI, January 1951.
+[^48]: FBI Parsons file, Part 2, Directorate of Research and Development, Office of the Deputy Chief of Staff, Air Force memorandum on classification, 1951.
+[^49]: FBI Parsons file, Part 2, Assistant Attorney General's memorandum of May 17, 1951 and closing memorandum (T. F. Oglesby) recording declination by Assistant U.S. Attorney Angus D. McEachen on October 25, 1951.
+[^50]: FBI Parsons file, Part 2, letter of the Industrial Employment Review Board, Department of Defense, to John Whiteside Parsons, January 9, 1952, and FBI cover memorandum.
+[^51]: Los Angeles Times, June 19, 1952, p. 4 (cited at note 6).
+[^52]: "Blast Kills Pasadena Rocket Man," Los Angeles Daily News, June 18, 1952, p. 2, aleistercrowleytimeline.com/Articles/1952/1952-06-18-Daily-News.
+[^53]: Los Angeles Times, June 19, 1952, p. 4 (cited at note 6).
+[^54]: Whitney Museum of American Art, artist biography of Cameron, whitney.org/artists/10843.
+[^55]: Crowley, Aleister, letter to Louis Culling, October 28, 1946, aleistercrowleytimeline.com/Correspondence/1946/1946-10-28-Crowley-to-Culling.htm.
