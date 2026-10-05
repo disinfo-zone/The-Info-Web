@@ -6,7 +6,7 @@ summary: "Ann-Marie Murphy was the Irish girlfriend of Nezar Hindawi."
 location: "Sallynoggin, Dun Laoghaire, Ireland"
 ---
 
-Ann-Marie Murphy was the Irish girlfriend of [[Nezar Hindawi]]. She was unwittingly used in a 1986 plot to bomb an [[El Al]] plane. Hindawi, acting on instructions from [[Mohammed Radi Abdullah]] as part of an [[Rafi|Israeli]] "black" operation, intended for her to board the plane with explosives in her bag, leading to her death and the deaths of all other passengers.
+Ann-Marie Murphy was the Irish girlfriend of [[Nezar Hindawi]]. She was unwittingly used in a 1986 plot to bomb an [[El Al]] plane. Hindawi, acting on instructions from [[Mohammed Radi Abdullah]] as part of an [[Israel|Israeli]] "black" operation, intended for her to board the plane with explosives in her bag, leading to her death and the deaths of all other passengers.
 
 The plot was foiled by [[Israel|Israeli]] security. Ann-Marie Murphy was interrogated by British security, where she revealed Hindawi's involvement. She later gave birth to their daughter in [[Ireland]].[^1]
 

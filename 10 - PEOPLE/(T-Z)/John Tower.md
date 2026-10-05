@@ -13,7 +13,7 @@ location: "Houston, Texas"
 
 [[John Tower]] was a [[United States|U.S.]] Senator and a prominent figure with connections to [[Central Intelligence Agency|CIA]] circles. He served as chairman of the Senate Armed Services Committee.[^1]
 
-[[John Tower|Tower]] was introduced to [[Rafi]], then counterterrorism adviser to [[Menachem Begin]], in 1978. Eitan sought to build a network within the [[United States|United States]] to obtain information about Palestinian terrorists. [[John Tower|Tower]] and his senior aide, [[Robert McFarlane]], developed a close relationship with Eitan, and much information reaching the Senate Armed Services Committee found its way to Eitan's desk.[^1]
+[[John Tower|Tower]] was introduced to [[Rafael Eitan|Rafi]], then counterterrorism adviser to [[Menachem Begin]], in 1978. Eitan sought to build a network within the [[United States|United States]] to obtain information about Palestinian terrorists. [[John Tower|Tower]] and his senior aide, [[Robert McFarlane]], developed a close relationship with Eitan, and much information reaching the Senate Armed Services Committee found its way to Eitan's desk.[^1]
 
 [[John Tower|Tower]] was involved in the secret negotiations concerning the [[Iran-Contra Affair]]. He was present at a meeting in [[Santiago]], [[Chile]], in late 1986 with [[Carlos Cardoen]], [[Robert Gates]], and [[Pieter Van Der Westhuizen|Gen. Pieter Van Der Westhuizen]] (South African Military Intelligence), where the [[United States|U.S.]] reaffirmed its intention to maintain arms channels to [[Iraq]].[^1]
 

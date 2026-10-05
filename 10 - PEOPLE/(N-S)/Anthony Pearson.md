@@ -15,7 +15,7 @@ According to [[Mossad]] files, Pearson could also arrange assassinations for $50
 
 Pearson recruited [[Nicholas Davies]], the London *[[Daily Mirror]]* foreign editor, for Mossad in the 1970s. He also worked with [[Mohammed Radi Abdullah]], a former colonel in the [[Jordan|Jordanian]] Army. Pearson used Radi's unwitting help to acquire intelligence about Palestinian organizations in [[Europe]] by selling arms to them. This allowed Pearson to pass intelligence to Mossad about the groups' movements and weapons. Based on Radi's tips, 14 or 15 Palestinians were eliminated over a two-month period.[^1]
 
-In 1978, Pearson offered Radi a £200,000 loan, making it clear the money came from an Israeli source, and recruited him to work for an antiterrorist group in Israel run by [[Rafi]].[^1]
+In 1978, Pearson offered Radi a £200,000 loan, making it clear the money came from an Israeli source, and recruited him to work for an antiterrorist group in Israel run by [[Rafael Eitan|Rafi]].[^1]
 
 ### Footnotes
 [^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.

@@ -17,11 +17,11 @@ In the early 1980s, LAKAM was widely known by its Hebrew acronym. [[Rafael Eitan
 
 ### U.S. Spy Network Operations
 
-[[Rafi]]'s operation to build a spy network in the [[United States|United States]] to obtain information about Palestinian terrorists was funded from [[LAKAM|LAKAM's]] budget. [[Iris]], a [[LAKAM]] representative in [[Washington, D.C.]], served as a conduit for intelligence reports between [[Robert McFarlane]], [[Jonathan Pollard]], and [[Rafi]].[^1]
+[[Rafael Eitan|Rafi]]'s operation to build a spy network in the [[United States|United States]] to obtain information about Palestinian terrorists was funded from [[LAKAM|LAKAM's]] budget. [[Iris]], a [[LAKAM]] representative in [[Washington, D.C.]], served as a conduit for intelligence reports between [[Robert McFarlane]], [[Jonathan Pollard]], and [[Rafael Eitan|Rafi]].[^1]
 
 ### Political Control and Funding
 
-[[LAKAM]] was later controlled by [[Rafi]] after [[Shimon Peres]] became prime minister in 1984, and its huge slush fund, which had once financed [[Labor Party|Labor]] projects, was then controlled by [[Rafi|Eitan]].[^1]
+[[LAKAM]] was later controlled by [[Rafael Eitan|Rafi]] after [[Shimon Peres]] became prime minister in 1984, and its huge slush fund, which had once financed [[Labor Party|Labor]] projects, was then controlled by [[Rafael Eitan|Eitan]].[^1]
 
 ### PROMIS Software Operation
 

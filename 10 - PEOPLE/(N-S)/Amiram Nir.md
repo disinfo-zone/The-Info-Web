@@ -13,7 +13,7 @@ location: "Israel"
 ---
 [[Amiram Nir]] was a former [[Israel|Israeli]] TV newsman and a counterterrorism adviser to [[Shimon Peres]]. He was originally a military officer in the tank corps and lost an eye in a training accident. He married [[Judy Moses]], the daughter of the owner of [[Yediot Ahronot]], a major [[Israel|Israeli]] newspaper chain.[^1]
 
-Nir resigned from his TV job to work as a public relations adviser for [[Shimon Peres|Peres]] during the 1981 elections. After [[Shimon Peres|Peres]] became prime minister in 1984, he appointed Nir as his counterterrorism adviser. Nir found documents related to [[Rafi|Eitan's]] [[United States|U.S.]] spy network and the [[Iran-Israel Joint Committee|Joint Committee's]] arms sales to [[Iran]].[^1]
+Nir resigned from his TV job to work as a public relations adviser for [[Shimon Peres|Peres]] during the 1981 elections. After [[Shimon Peres|Peres]] became prime minister in 1984, he appointed Nir as his counterterrorism adviser. Nir found documents related to [[Rafael Eitan|Eitan's]] [[United States|U.S.]] spy network and the [[Iran-Israel Joint Committee|Joint Committee's]] arms sales to [[Iran]].[^1]
 
 [[Shimon Peres|Peres]] and Nir faced challenges from the [[Likud Party]]-controlled intelligence community and the lack of financial power within the [[Labor Party]]. [[Shimon Peres|Peres]] decided to open a competing arms channel, run by Nir, to gain control over the profitable [[Iran]] arms sales and to undermine the existing intelligence-community channel. Nir, despite his lack of experience in intelligence or business, sought support from individuals like [[Al Schwimmer]] and [[Yaacov Nimrodi]].[^1]
 

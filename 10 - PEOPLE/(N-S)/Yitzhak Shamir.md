@@ -21,7 +21,7 @@ location: "Ruzhany, Belarus"
 
 ### Coalition Government and Arms Trading
 
-[[Yitzhak Shamir|Shamir]] was a key figure in the [[Likud Party]]. He formed a bizarre coalition government with [[Shimon Peres]] of the [[Labor Party]] in 1984, sharing the roles of prime minister and foreign minister. [[Yitzhak Shamir|Shamir]] had a close relationship with [[Rafi]], who served as his counterterrorism adviser and later ran the [[Iran-Israel Joint Committee]]. [[Yitzhak Shamir|Shamir]] was involved in the decision to supply [[Iran]] with arms in its war with [[Saddam Hussein|Saddam Hussein's]] [[Iraq]], believing it was in [[Israel|Israel's]] national security interest.[^1]
+[[Yitzhak Shamir|Shamir]] was a key figure in the [[Likud Party]]. He formed a bizarre coalition government with [[Shimon Peres]] of the [[Labor Party]] in 1984, sharing the roles of prime minister and foreign minister. [[Yitzhak Shamir|Shamir]] had a close relationship with [[Rafael Eitan|Rafi]], who served as his counterterrorism adviser and later ran the [[Iran-Israel Joint Committee]]. [[Yitzhak Shamir|Shamir]] was involved in the decision to supply [[Iran]] with arms in its war with [[Saddam Hussein|Saddam Hussein's]] [[Iraq]], believing it was in [[Israel|Israel's]] national security interest.[^1]
 
 ### Pollard Espionage Case
 

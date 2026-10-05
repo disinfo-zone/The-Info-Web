@@ -24,7 +24,7 @@ Abu Nidal, whose real name was Sabri al-Banna, was a Palestinian terrorist and t
 
 Ben-Menashe wrote that Radi later presented his case to Nidal in [[Baghdad]], claiming he had been unwittingly used by Pearson. Nidal believed his story and put out the word that Radi was "clean," placing the blame on [[Yasser Arafat|Yasser Arafat's]] group.[^1]
 
-Ben-Menashe also wrote that Nidal was involved in the [[Achille Lauro]] attack in 1985, which he described as an Israeli "black" propaganda operation. In his account, [[Rafi]] passed instructions to Radi, who then relayed orders to [[Abul Abbas]] to carry out a cruel attack. Abbas was reportedly receiving millions from Israeli intelligence officers posing as Sicilian dons.[^1] These accounts rest on Ben-Menashe's book alone.
+Ben-Menashe also wrote that Nidal was involved in the [[Achille Lauro]] attack in 1985, which he described as an Israeli "black" propaganda operation. In his account, [[Rafael Eitan|Rafi]] passed instructions to Radi, who then relayed orders to [[Abul Abbas]] to carry out a cruel attack. Abbas was reportedly receiving millions from Israeli intelligence officers posing as Sicilian dons.[^1] These accounts rest on Ben-Menashe's book alone.
 
 ### BCCI
 

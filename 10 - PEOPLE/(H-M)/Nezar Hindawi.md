@@ -7,7 +7,7 @@ born: 1954
 location: "Baqura, Jordan"
 ---
 
-[[Nezar Hindawi]] is a Syrian national who was involved in a 1986 plot to bomb an [[El Al]] plane. He was recruited by his cousin, [[Mohammed Radi Abdullah]], as part of an [[Rafi|Israeli]] "black" operation designed to discredit [[Syria]].
+[[Nezar Hindawi]] is a Syrian national who was involved in a 1986 plot to bomb an [[El Al]] plane. He was recruited by his cousin, [[Mohammed Radi Abdullah]], as part of an [[Israel|Israeli]] "black" operation designed to discredit [[Syria]].
 
 Hindawi was instructed to ensure his pregnant Irish girlfriend, Ann-Marie Murphy, boarded an [[El Al]] flight with explosives in her bag. He was led to believe the money for this operation came from "Syrian brothers on behalf of the Palestinians." He arranged for her to receive the bomb package in the [[Heathrow Airport|El Al]] departure lounge after passing through security, expecting her to die in the explosion along with other passengers.
 
