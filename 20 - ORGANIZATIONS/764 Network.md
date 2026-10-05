@@ -12,10 +12,21 @@ tags:
   - OnlineExtremism
   - TheCom
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-10-04
 summary: "764 is a decentralized online child exploitation and coercion network founded around 2020, classified by the FBI as a Tier One terrorist threat with more than 350 active investigations as of 2026, operating within the broader Com ecosystem."
 start: 2020
 location: "United States (online)"
+relations:
+  - type: named_in
+    with: "[[Athens High School Terrorism Case]]"
+    start: 2025-11
+    role: "named in an Alabama indictment, as reported, as one of the groups with which Carson Albert Butler allegedly conspired; indictment reported December 5, 2025"
+    fn: 12
+  - type: referenced_in
+    with: "[[Benson Polytechnic High School Incident]]"
+    start: 2026-10-02
+    role: "references to 764 stated in open court by a Multnomah County deputy district attorney as found by the FBI on a 15-year-old defendant's devices; not part of the Portland Police Bureau charge release"
+    fn: 14
 ---
 
 [[764 Network|764]] is a decentralized, transnational network of online groups that engages in the sexual exploitation of minors, production and distribution of child sexual abuse material (CSAM), sextortion, coerced self-harm, and the glorification and incitement of real-world violence. The [[U.S. Department of Justice]] (DOJ) classifies 764 and its affiliated groups under the umbrella term "Nihilistic Violent Extremists" (NVEs), defined as individuals who engage in criminal conduct in furtherance of political, social, or religious goals rooted in a hatred of society and a desire to bring about its collapse through chaos and destruction.[^1] As of early 2026, the [[FBI]] was conducting more than 350 active investigations tied to 764 and similar networks, with DOJ career officials describing it as "as serious a threat as you can imagine."[^2]
@@ -50,7 +61,7 @@ Operational security within 764 is deliberate: members rotate identities, mainta
 
 ### Platforms and Recruitment Infrastructure
 
-764 operates primarily across [[Discord]], [[Telegram]], [[Roblox]], and various rotating platforms. Recruiters target online spaces frequented by vulnerable minors, including LGBTQ+ youth, teenagers struggling with mental health issues, and individuals in grief or crisis. The grooming process employs "love bombing" (overwhelming a target with affection and acceptance before obtaining compromising material), followed by escalating blackmail once CSAM is secured.[^1]
+764 operates primarily across Discord, [[Telegram]], [[Roblox]], and various rotating platforms. Recruiters target online spaces frequented by vulnerable minors, including LGBTQ+ youth, teenagers struggling with mental health issues, and individuals in grief or crisis. The grooming process employs "love bombing" (overwhelming a target with affection and acceptance before obtaining compromising material), followed by escalating blackmail once CSAM is secured.[^1]
 
 The network circulated multiple operational guides: a "Sextortion Handbook" specifying grooming and blackmail techniques, a "Suicide Guide," and a "Dox Guide" for threatening and locating victims. [[Baron Cain Martin]] ("Convict"), the Arizona leader subsequently charged with federal terrorism offenses, wrote and distributed a detailed grooming guide advising 764 members to prioritize victims already struggling with mental health, on the grounds that vulnerability is the primary targeting criterion.[^9]
 
@@ -62,13 +73,19 @@ After Cadenhead's 2021 arrest and the disruption of 764's original leadership, t
 
 The United States government had charged at least 37 people with ties to 764 or affiliated networks as of mid-2026, with more than 350 FBI investigations ongoing.[^2] The most significant cases include:
 
-[[Baron Cain Martin]] ("Convict"), 21, of [[Tucson, Arizona]]: A 29-count superseding indictment returned in the District of Arizona in October 2025 charged Martin with participating in a child exploitation enterprise, conspiring to provide material support to terrorists (the first such charge applied to a 764 member), conspiring to kill or maim persons in a foreign country, five counts of producing CSAM, eleven counts of distributing CSAM, three counts of coercing minors into sexual activity, three counts of cyberstalking, animal crushing, and wire fraud conspiracy. Martin was arrested December 11, 2024 and has been in federal custody since. He allegedly victimized at least nine people, eight of them minors between the ages of 11 and 15. Attorney General [[Pamela Bondi]] and FBI Director [[Kash Patel]] both addressed the case at announcement.[^9]
+Baron Cain Martin ("Convict"), 21, of [[Tucson, Arizona]]: A 29-count superseding indictment returned in the District of Arizona in October 2025 charged Martin with participating in a child exploitation enterprise, conspiring to provide material support to terrorists (the first such charge applied to a 764 member), conspiring to kill or maim persons in a foreign country, five counts of producing CSAM, eleven counts of distributing CSAM, three counts of coercing minors into sexual activity, three counts of cyberstalking, animal crushing, and wire fraud conspiracy. Martin was arrested December 11, 2024 and has been in federal custody since. He allegedly victimized at least nine people, eight of them minors between the ages of 11 and 15. Attorney General [[Pamela Bondi]] and FBI Director [[Kash Patel]] both addressed the case at announcement.[^9]
 
-[[Leonidas Varagiannis]] ("War"), 21, a U.S. citizen residing in [[Thessaloniki, Greece]], and [[Prasan Nepal]] ("Trippy"), 20, of [[North Carolina]]: Charged in the District of Columbia with operating the "764 Inferno" inner cell as a global child exploitation enterprise. Varagiannis was arrested in Greece in April 2025; Nepal was arrested in North Carolina on April 22, 2025. Nepal had been involved with 764 since late 2020, near the network's inception; Varagiannis joined in late 2023. The alleged conspiracy included coercing victims to cut 764 members' names into their bodies, self-immolation, animal abuse, sexual exploitation of siblings, and threats of murder. Victims were as young as 13.[^8]
+Leonidas Varagiannis ("War"), 21, a U.S. citizen residing in [[Thessaloniki, Greece]], and Prasan Nepal ("Trippy"), 20, of [[North Carolina]]: Charged in the District of Columbia with operating the "764 Inferno" inner cell as a global child exploitation enterprise. Varagiannis was arrested in Greece in April 2025; Nepal was arrested in North Carolina on April 22, 2025. Nepal had been involved with 764 since late 2020, near the network's inception; Varagiannis joined in late 2023. The alleged conspiracy included coercing victims to cut 764 members' names into their bodies, self-immolation, animal abuse, sexual exploitation of siblings, and threats of murder. Victims were as young as 13.[^8]
 
 [[Tony Christopher Long]] ("Inactive," "Inactivee0," "inactivecvx"), 19, of [[Porterville, California]]: A six-count indictment in the Eastern District of California charged Long with animal crushing (two counts), sexual exploitation of a minor, possession of CSAM, cyberstalking, and interstate threats. Long faces a maximum of 69 years in prison and was in state custody on related charges at the time of the federal indictment.[^10]
 
 Additional cases: A former [[U.S. Navy]] petty officer and four others were charged in December 2025 with founding an online extortion group that prosecutors said helped spawn 764. As of April 2026, [[Project Compass]], an operation coordinated by [[Europol]] with participation from 28 countries including all [[Five Eyes]] members, had resulted in the arrest of 30 perpetrators, the partial or full identification of 179 suspects, and the rescue of four victims.[^11]
+
+### State Prosecutions and Court Statements, 2025-2026
+
+On December 4, 2025, police in [[Athens, Alabama]] stated that a [[Limestone County, Alabama|Limestone County]] grand jury had indicted [[Carson Albert Butler]], 18 at the indictment and 17 at the time of the alleged offenses, on terrorism, two counts of attempted murder and two counts of conspiracy to commit murder. The indictment alleges that Butler conspired with extremist groups including 764, MKU ([[Maniac Murder Cult]]) and [[No Lives Matter]] to target several students and staff at [[Athens High School]]. Limestone County District Attorney [[Brian Jones]] said he indicted Butler "under the code section where we can charge anyone 16 and older as an adult." The [[Federal Bureau of Investigation]] had informed Athens police of the alleged threats in June 2025.[^12] See [[Athens High School Terrorism Case]].
+
+On October 2, 2026, the [[Multnomah County District Attorney's Office]] in [[Portland, Oregon]] charged a 15-year-old [[Benson Polytechnic High School]] student with 19 counts, including [[Oregon Domestic Terrorism Statute|domestic terrorism]] in the first and second degrees and 12 counts of attempted murder or attempted aggravated murder, over a September 8 chemical release in the school cafeteria. The [[Portland Police Bureau]] release listing the charges does not mention 764.[^13] At the initial appearance, [[OPB]] reported, Deputy District Attorney [[Eric Zimmerman]] said that officials of the FBI had found "numerous references" on the defendant's devices to 764 that morning; [[KPTV]] reported that he described "extensive references to '764'" in seized papers, hard drives and computers, with the FBI review ongoing.[^14][^15] [[KATU]]'s report of the hearing stated that "the references described in court do not, by themselves, establish that the teenager was a member of 764."[^16] The Portland Police Bureau did not identify the defendant because of his age, and his attorneys denied all allegations.[^14][^13] See [[Benson Polytechnic High School Incident]].
 
 ### Scale of Harm and DOJ Threat Assessment
 
@@ -93,3 +110,8 @@ As of May 2026, the most direct connection between the 764 ecosystem and lethal 
 [^9]: U.S. Department of Justice, OPA. "Arizona Leader of Violent Extremist Network '764' Charged with Running a Child Exploitation Enterprise, Supporting Terrorists, Producing and Distributing Child Pornography, and Other Crimes." Press Release, October 31, 2025. https://www.justice.gov/opa/pr/arizona-leader-violent-extremist-network-764-charged-running-child-exploitation-enterprise
 [^10]: U.S. Department of Justice, OPA. "Member of Violent Extremist Network '764' Charged with Animal Crushing, Sexual Exploitation of a Minor, Cyberstalking and Interstate Threats." Press Release, October 27, 2025. https://www.justice.gov/opa/pr/member-violent-extremist-network-764-charged-animal-crushing-sexual-exploitation-minor
 [^11]: CyberScoop. "Project Compass is Europol's new playbook for taking on The Com." https://cyberscoop.com/project-compass-the-com-europol/
+[^12]: Wesley Tomlinson, "Indictment: Teen committed terrorism, attempted murder targeting Athens High staff, students," The Decatur Daily, December 5, 2025, https://www.decaturdaily.com/news/limestone_county/indictment-teen-committed-terrorism-attempted-murder-targeting-athens-high-staff-students/article_f6921221-e422-4cb9-a33d-acc4b3430aa4.html
+[^13]: Portland Police Bureau, "UPDATE: Teen Criminally Charged with Attempted Murder, Terrorism Following September Incident at Benson HS," October 2, 2026, https://www.portland.gov/police/news/2026/9/8/update-teen-criminally-charged-attempted-murder-terrorism-following-september
+[^14]: Joni Auden Land, "Benson High School student faces domestic terrorism charges in chemical spill incident," OPB, October 2, 2026, https://www.opb.org/article/2026/10/02/benson-high-school-student-chemical-charges-oregon/
+[^15]: "Portland teen faces domestic terrorism charge," KPTV, October 2, 2026, https://www.kptv.com/2026/10/02/portland-teen-faces-domestic-terrorism-charge/
+[^16]: Victor Park, "Benson High School case raises alarm over '764' online network targeting children," KATU, October 2026, https://katu.com/news/local/portland-benson-high-school-case-raises-alarm-over-764-online-network-targeting-children-social-media-fbi-portland-police-bureau-multnomah-county-portland-fire-rescue

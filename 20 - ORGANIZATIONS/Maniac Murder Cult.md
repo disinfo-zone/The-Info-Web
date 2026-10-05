@@ -12,7 +12,7 @@ tags:
 start: 2017
 location: "Dnipro, Ukraine (online, global)"
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-10-04
 summary: "Maniac Murder Cult (MKY) is a Ukrainian neo-Nazi accelerationist network whose 'Murder Points' system rewards escalating real-world violence, proscribed by the UK and Canada in 2025, with leader Michail Chkhikvishvili sentenced to 15 years in U.S. federal prison in 2026."
 ---
 
@@ -36,7 +36,7 @@ Though Ukrainian in origin, MKY expanded internationally through Telegram recrui
 
 [[Romania]] (2022): A 17-year-old member livestreamed the murder of an elderly woman as an MKY initiation ritual and separately injured an 82-year-old man. Romanian courts convicted the perpetrator in August 2023 to 14 years imprisonment.
 
-[[Turkey]] (August 2024): An 18-year-old neo-Nazi livestreamed stabbing multiple people near a mosque in [[Eskisehir]]. The attack has been attributed to MKY by researchers; it is also cited in the Canadian sentencing proceedings of [[Terrorgram Collective]] co-founder [[Matthew Althorpe]] as a Terrorgram-inspired attack, reflecting the substantial ideological overlap between these networks.
+[[Turkey]] (August 2024): An 18-year-old neo-Nazi livestreamed stabbing multiple people near a mosque in [[Eskisehir]]. The attack has been attributed to MKY by researchers; it is also cited in the Canadian sentencing proceedings of Terrorgram Collective co-founder [[Matthew Althorpe]] as a Terrorgram-inspired attack, reflecting the substantial ideological overlap between these networks.
 
 [[Nashville]], [[Tennessee]] (January 22, 2025): [[Solomon Henderson]], 17, shot and killed student [[Josselin Corea Escalante]] at Antioch High School before dying by suicide. Henderson's manifesto cited MKY and named Chkhikvishvili specifically. Nashville Metropolitan Police Department's January 2026 investigative update concluded Henderson had no co-conspirators and that there was no evidence of direct operational direction from MKY.
 
@@ -44,11 +44,13 @@ Though Ukrainian in origin, MKY expanded internationally through Telegram recrui
 
 ### Prosecutions and Designations
 
-The primary prosecution of MKY leadership was brought by the [[United States Department of Justice|U.S. Department of Justice]] against [[Michail Chkhikvishvili]] in the Eastern District of New York. Chkhikvishvili was indicted in July 2024 for soliciting hate crimes and planning a mass casualty attack in New York City. He was arrested in [[Chisinau]], Moldova in July 2024 and extradited to the United States in May 2025. He pleaded guilty in November 2025 and was sentenced to 15 years in federal prison by U.S. District Judge Carol Bagley Amon in May 2026.
+The primary prosecution of MKY leadership was brought by the [[United States Department of Justice|U.S. Department of Justice]] against Michail Chkhikvishvili in the Eastern District of New York. Chkhikvishvili was indicted in July 2024 for soliciting hate crimes and planning a mass casualty attack in New York City. He was arrested in [[Chisinau]], Moldova in July 2024 and extradited to the United States in May 2025. He pleaded guilty in November 2025 and was sentenced to 15 years in federal prison by U.S. District Judge Carol Bagley Amon in May 2026.
 
 Yegor Krasnov, the founder, was arrested by Ukrainian authorities in 2020. His subsequent legal status under Ukrainian law has not been reported in English-language sources.
 
 Alongside the U.S. prosecution, the UK proscribed MKY as a terrorist organization on July 2, 2025, making membership a criminal offense in England and Wales. Canada designated MKY as a terrorist entity on December 10, 2025, in the same order that designated 764 and Terrorgram Collective.[^5]
+
+A [[Limestone County, Alabama|Limestone County]], Alabama indictment reported on December 5, 2025 names MKU (Maniac Murder Cult), 764 and [[No Lives Matter]] as groups with which [[Carson Albert Butler]] allegedly conspired against [[Athens High School]] students and staff; see [[Athens High School Terrorism Case]].[^6]
 
 ### Footnotes
 
@@ -57,3 +59,4 @@ Alongside the U.S. prosecution, the UK proscribed MKY as a terrorist organizatio
 [^3]: ADL. "764." https://www.adl.org/resources/backgrounder/764
 [^4]: ADL. "Antioch, Tenn. Shooter Inspired by Broad Extremist Beliefs and Previous Mass Killers." https://www.adl.org/resources/article/antioch-tenn-shooter-inspired-broad-extremist-beliefs-and-previous-mass-killers; ISD. "From sextortion to violence: The threat of the 764 network in the US." https://www.isdglobal.org/digital-dispatch/from-sextortion-to-violence-the-evolving-threat-of-the-764-network-in-the-us/
 [^5]: U.S. Department of Justice, OPA. "Georgian National Sentenced to 15 Years in Prison for Soliciting Hate Crimes and Planning Mass Casualty Attack." May 2026. https://www.justice.gov/opa/pr/georgian-national-sentenced-15-years-prison-soliciting-hate-crimes-and-planning-mass; Government of Canada. "Government of Canada Lists Four New Terrorist Entities." December 10, 2025. https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html
+[^6]: Wesley Tomlinson, "Indictment: Teen committed terrorism, attempted murder targeting Athens High staff, students," The Decatur Daily, December 5, 2025, https://www.decaturdaily.com/news/limestone_county/indictment-teen-committed-terrorism-attempted-murder-targeting-athens-high-staff-students/article_f6921221-e422-4cb9-a33d-acc4b3430aa4.html

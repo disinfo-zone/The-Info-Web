@@ -1,0 +1,150 @@
+---
+category: "City"
+alias:
+  - "Sierra Blanca"
+  - "Sierra Blanca, TX"
+tags:
+  - City
+  - Texas
+  - HudspethCounty
+  - UAP
+  - NationalDefenseAirspace
+  - Skywatcher
+  - Raytheon
+  - BorderBarrier
+summary: "Hudspeth County seat inside the seven-point national defense airspace polygon of FAA notice 5/3497 (November 2025), with the Mile High Resources Range and Skywatcher's 2025 field operations."
+location: "Sierra Blanca, Hudspeth County, Texas"
+relations:
+  - type: part_of
+    with: "[[Hudspeth County, Texas]]"
+    start: 1917-02
+    role: "county seat since the county's organization from eastern El Paso County in February 1917"
+    fn: 2
+  - type: hosted
+    with: "[[Raytheon]]"
+    start: 2015-10-12
+    role: "Pike 40 mm guided-munition flight tests 'at Mile High Resources in Texas' (release of October 12, 2015); later Next Generation Short Range Interceptor radio filings naming the 'Mile High Resources Range, 2000 Skunk Canyon Rd., Sierra Blanca, TX'"
+    fn: 14
+  - type: hosted
+    with: "[[Sky Watcher|Skywatcher]]"
+    start: 2025
+    end: 2025-07
+    role: "base of the private detection group's field operations, per Ross Coulthart"
+    fn: 7
+  - type: hosted
+    with: "[[Dynetics]]"
+    start: 2023-01-16
+    role: "experimental licence WK2XCW filings listing a Sierra Blanca entry at 31 20 05 N, 105 30 16 W (10 km radius); earliest Sierra Blanca-era filing 0012-EX-CM-2023"
+    fn: 16
+  - type: hosted
+    with: "[[RADA Technologies]]"
+    start: 2023-02-20
+    role: "radar tests filed under WV9XAV (0384-EX-ST-2023) and WV9XWE (1443-EX-ST-2023), the second naming 'Mile High Range in Texas' and customer BAE"
+    fn: 17
+  - type: hosted
+    with: "[[Numerica Corporation]]"
+    start: 2023-11-13
+    role: "short-range air defense radar test for unmanned aircraft detection, special temporary authority WW9XKG (2178-EX-ST-2023), testing planned November 13 to 27, 2023"
+    fn: 18
+created: 2026-10-04
+updated: 2026-10-04
+---
+
+Sierra Blanca is the county seat of [[Hudspeth County, Texas]], in the Trans-Pecos region of far West Texas, eighty miles southeast of [[El Paso, Texas]] at the intersection of [[Interstate 10]], U.S. Highway 80 and Ranch Road 1111.[^1] The [[Southern Pacific Railroad]] and the [[Texas and Pacific Railway]] met a few miles south of Sierra Blanca Mountain in 1881. Hudspeth County was organized from eastern El Paso County in February 1917 with Sierra Blanca as seat, and the county courthouse there is the only one in Texas built entirely of adobe. The county covers 4,566 square miles; its population was 2,915 in 1990 and 3,211 in 2014, when Sierra Blanca had 567 residents and [[Fort Hancock, Texas]] 1,713. Because of its area and small population the county "has been recommended repeatedly as a possible dumping ground for nuclear and other hazardous wastes," and local opposition to the plans was fierce.[^2]
+
+### FAA notice 5/3497
+
+[[Federal Aviation Administration]] notice FDC 5/3497, issued through the [[Albuquerque Air Route Traffic Control Center]] (ZAB) under the heading "Fort Hancock, TX" on November 6, 2025, classifies the airspace it defines as "NTL DEFENSE AIRSPACE" under 49 U.S.C. 40103(b)(3) and prohibits all aircraft operations under 14 CFR 99.7, "Special Security Instructions," from the surface to 17,999 feet mean sea level, excluding Mexican airspace. The text gives the period as "NOVEMBER 6, 2025-NOVEMBER 6 2026 LOCAL," coded 2511070500 to 2611070500 (0500 UTC November 7, 2025 to 0500 UTC November 7, 2026). It warns that pilots may be intercepted, detained and interviewed, that the FAA may impose civil penalties and certificate action, that criminal charges under 49 U.S.C. 46307 may follow, and that the government "MAY USE DEADLY FORCE AGAINST THE AIRBORNE ACFT, IF IT IS DETERMINED THAT THE ACFT POSES AN IMMINENT SECURITY THREAT." Its unmanned-aircraft paragraph states that under 10 U.S.C. 130i the "DEPARTMENT OF WAR (DOW) MAY TAKE SECURITY ACTION THAT RESULTS IN THE INTERFERENCE, DISRUPTION, SEIZURE, DAMAGING, OR DESTRUCTION OF UNMANNED ACFT DEEMED TO POSE A CREDIBLE SAFETY OR SECURITY THREAT TO PROTECTED PERSONNEL, FAC, OR ASSETS." Aircraft with an instrument or visual flight plan, a discrete transponder code and two-way radio contact are excepted. No requesting agency is named in the text.[^3]
+
+The polygon has seven vertices: 313636N 1054536W, 312324N 1060000W, 311823N 1055621W, 310916N 1054638W, 305044N 1052437W, 303937N 1050056W and 305212N 1044424W, closing on the first. Computed from those coordinates, the area is about 1,900 square miles, and the four southwestern legs follow the [[Rio Grande]] for about 78 miles from near Fort Hancock southeast toward the Culberson County line; the closing leg of about 79 miles crosses Hudspeth County overland. Plotted against it, the town of Sierra Blanca, Fort Hancock, [[Sierra Blanca Peak]], the [[Quitman Mountains]] and Eagle Peak fall inside the polygon and Van Horn falls outside.[^4]
+
+The list of active restrictions that the FAA publishes as data did not carry the notice in an [[Internet Archive]] copy of November 5, 2025 (20:30 UTC), carried it in a copy of November 8, 2025 (13:38 UTC) with the description "Fort Hancock, TX, Thursday, November 6, 2025 through Friday, November 6, 2026 Local," and did not carry it in a copy of November 17, 2025 (23:07 UTC); no copy between November 8 and November 17 exists.[^5]
+
+### The Army map
+
+The [[United States Army]] map "Texas National Defense Area (TXNDA)," updated June 27, 2025 and prepared by the Army's Office of the Chief of Public Affairs, states that the area "spans over 60 miles along the Rio Grande River and the southern border, from El Paso to Fort Hancock" and "includes only federal lands." The map is posted on the [[Fort Bliss]] page for national defense area information and maps. The westernmost vertex of the FAA polygon lies near Fort Hancock, where the Army map ends the area; the FAA polygon runs from there to the southeast.[^4][^6]
+
+### Ross Coulthart's account
+
+[[Ross Coulthart]] wrote in a NewsNation Reality Check column published August 10, 2026 that "a base here in Sierra Blanca, southeast of El Paso, Texas," was where the [[Sky Watcher|Skywatcher]] team had identified nine classes of unidentified aerial phenomena, and that the group "was operating until July of last year." He wrote that a notice to airmen "posted by the FAA on Nov. 8, 2025, last year, closed a massive area of airspace southeast of El Paso right through to Nov. 7, 2026," that it deemed the area "national defense airspace," and that "this TFR was canceled six days later on Nov. 14, 2025." In the same column he wrote, "I've learned the TFR was initiated by the Defense Department's Joint Special Operations Command liaison to the FAA and imposed 'to shoot down drones'," that "this yearlong airspace closure effectively shut down Skywatcher's operations on their Sierra Blanca range," and that he was told the government, "in a joint operation with multiple intelligence and Department of War agencies," had since November used airspace closures "to do its own UAP intercept operations: summoning, detecting and, yes, shooting down" what some call drones and others call UAP. He wrote that "Defense sources tell me" their observers watched Skywatcher's 2025 operations at Sierra Blanca.[^7]
+
+### Later notices
+
+FDC 5/2779, issued December 23, 2025, defines a five-point polygon near Fort Hancock (311728N 1055225W to 311202N 1054722W), surface to 17,999 feet, effective December 24, 2025 to June 24, 2026, with the text "ALL ACFT OPS ARE PROHIBITED" and instructions that exigent flights contact Albuquerque Center, "WHO WILL COORDINATE ENTRY WITH JTF-SB TOC" (the tactical operations center of [[Joint Task Force Southern Border]]). It is the only one of the notices examined that names a defense element. FDC 5/2779 does not say whether it replaced 5/3497.[^8] On February 10 and 11, 2026 the FAA issued FDC 6/2233 (a 10 nautical mile circle at the El Paso VORTAC) and 6/2234 (Santa Teresa, [[New Mexico]]), both under 14 CFR 99.7 with a systems operations support center as contact and no requesting agency named. A further Fort Hancock notice appears in the FAA list copy of February 27, 2026 as "Thursday, February 26, 2026 through Tuesday, June 23, 2026 Local."[^9]
+
+### Land inside the polygon
+
+The Texas Geographic Information Office StratMap land parcels for Hudspeth County, built from the [[Hudspeth Central Appraisal District]] rolls, list 8,914 property accounts intersecting the polygon (whole-parcel acreage, so parcels at the edge are counted in full) with about 840,000 legal acres. The largest owner of record is the State of Texas, with 503 accounts and 302,679 acres, many carrying [[Permanent School Fund]] or [[Texas General Land Office]] addresses; Sierra Blanca Peak and its [[Federal Communications Commission]] licensed radio site stand on a 640-acre State parcel, and the [[Texas Commission on Environmental Quality]] registration for the Sierra Blanca landfill (RN101494409, municipal solid waste permit 957A) names Hudspeth County and the General Land Office as customers. The rolls show no federal agency as an owner within the footprint.[^10]
+
+The second-largest private owner is [[Texas Mountain Holdings LLC]], with 112 accounts and 69,430 acres, including a 529.76-acre parcel under the Eagle Peak and Radar Road tower site. In October 2024 the General Land Office bought the 353,785-acre Brewster Ranch in [[Brewster County, Texas]] (PR Newswire, October 29, 2024); the [[Big Bend Sentinel]] reported the seller as "Texas Mountain Holdings, owned by [[Brad Kelley]]," and that the General Land Office holds "a ranch in the Quitman Mountains south of Sierra Blanca." Tenants of record at the Radar Road tower site include the [[Hudspeth County Sheriff's Office]] (licence WQYP444, 2016), [[AT&T]], [[Verizon]], [[Sprint]] and [[FiberLight]]; an [[ALLTEL]] tower at "TBD RADAR RD" (FAA study 2024-ASW-477-OE, registration action August 9, 2024); [[Circle Computer Resources]] of Cedar Rapids, Iowa (11 GHz link to Van Horn, granted November 22, 2024); and [[L3Harris Technologies]] (licences WQFA925 and WQFA930, a 10.6 GHz fixed link between "Radar Road" and Van Horn, granted May 14, 2026).[^10][^11][^12]
+
+A ten-parcel block of 6,185 acres in the Quitman Mountains appears on the February 2025 roll under I-10 HMC Investments, LLC and on the March 2026 roll under Quitman Canyon Ranch Partnership of Columbus, Texas.[^10]
+
+[[Starry Quantum Tech Co., Ltd.]], a company registered in Taipei, holds two 40-acre accounts (106265 and 106266, in Section 14, TEX MEX survey, assessed at 9,000 dollars each on the 2023, 2024 and 2026 rolls, with a value of 0 on the 2025 roll) on all four appraisal rolls; both lie inside the polygon, about 8.5 miles from the Eagle Peak tower site. The company's Ministry of Economic Affairs registry record gives a set-up date of March 26, 2021, capital of NT$1,000,000 of which none is paid in, one director holding all shares, and a business scope of thirty-two items including aircraft and parts wholesale (F114070), aviation consulting (I101100), shipbuilding consulting, battery and machinery wholesale, energy technology services, general investment and venture capital. The other fourteen accounts of Section 14 are held by [[GovernmentAuction.com LLC]] (nine) and individuals.[^10][^13]
+
+### Mile High Resources Range
+
+A Raytheon release datelined Tucson, October 12, 2015, reports that [[Raytheon]] fired two Pike 40 mm precision-guided munitions "during flight tests at Mile High Resources in Texas," both landing in the target area after flying more than 2,300 yards.[^14] The Federal Communications Commission experimental licensing records for Sierra Blanca (25 filings) and Fort Hancock (2) name the site in 2025 and 2026 as the "Mile High Resources Range, 2000 Skunk Canyon Rd., Sierra Blanca, TX, 79851." The range is described on [[Mile High Resources]]. The ranch parcel at that address, 7.5 miles from the town, lies inside the polygon. The licensees with Sierra Blanca transmitter locations, with file numbers and receipt years, are:
+
+- [[SRC, Inc.]], WF9XFX, 0621-EX-ST-2011.
+- [[Lockheed Martin]], WF9XKC, 0041-EX-ST-2012; the exhibit is an antenna sketch for a "Cassidian Electronics Model #TRxS Radar Antenna."
+- Raytheon Missile Systems, WK9XXY, 0313-EX-ST-2017: 434-436 MHz rocket telemetry, "3 days of launches scheduled."
+- Raytheon Missile Systems and Raytheon Company, WI2XYN, 0461-EX-CN-2017 with filings through 0387-EX-CR-2022.
+- [[Bell Textron]], WS9XVI, 1646-EX-ST-2021: a directional L/S-band receiver ground station between two points about 14 miles apart; the antenna sheet lists "Law Enforcement Surveillance UAV / UGV Ground Stations."
+- [[Electronic Warfare Associates]], WM2XCZ, 0216-EX-CM-2022 and a 2023 filing.
+- [[Dynetics]], WK2XCW, filings in 2023, 2024 and 2025 and 0179-EX-CR-2026 (received February 24, 2026, granted).
+- [[RADA Technologies]], WV9XAV and WV9XWE, 0384-EX-ST-2023 and 1443-EX-ST-2023: "S-Band fixed radar testing for the US military on site at their location," with X-band added in the second.
+- [[Numerica Corporation]], WW9XKG, 2178-EX-ST-2023.
+- [[Boots Consulting LLC]], WY9XUK, 0231-EX-ST-2025 (received February 6, 2025).
+- Raytheon Company, WA9XGO, 1976-EX-ST-2025: a radio "used in the development and testing of the Next Generation Short Range Interceptor (NGSRI)," with the sentence "Raytheon needs to complete DOW testing with Army customer by the end of the year (2025)," 2200-2290 MHz, area of operations the Mile High Resources Range.
+- Raytheon Company, WA9XYW, 0306-EX-ST-2026 (received February 10, 2026): the same programme, "DOW follow up testing with Army customer," 2272 MHz, up to 5,500 feet above ground level.[^15]
+
+The [[Texas Military Department]] filed for special temporary authority at Fort Hancock (file 2314-EX-ST-2024, received December 13, 2024, granted, grant document December 31, 2024, call sign WX9XFF) to operate radars in the 15.7-16.55 GHz band from January 31 to July 1, 2025; the vendor named is [[Echodyne]], whose own application (2221-EX-ST-2024, received November 27, 2024) was denied or dismissed. Fort Hancock is among the border sites listed with 5 kilometer radii.[^15]
+
+### Experimental Licence Chronology
+
+The Federal Communications Commission Experimental Licensing System filings with Sierra Blanca transmitter locations from 2023 to 2026, in order of filing:
+
+- January 16, 2023: Dynetics files 0012-EX-CM-2023 for call sign WK2XCW, the first of its filings to list a Sierra Blanca entry ("Ground Temp Fixed and Mobile, Sierra Blanca, TX," Hudspeth County, 31 20 05 N, 105 30 16 W, 10 km radius, 9.2 to 9.9 GHz, 7.6 kW peak). Later modifications and renewals were filed May 5, 2023, January 10, 2024, February 15, 2024, July 30, 2025 and February 24, 2026. The February 2024 and July 2025 exhibits give the supported contract as "AvMC Contract No.: AMTC 20-01-017," replacing "DARPA No. HR0011-17-9-0017" (see Dynetics).[^16]
+- February 20, 2023: RADA Technologies files 0384-EX-ST-2023 (WV9XAV), requesting February 20 to August 20, 2023 on 3300 to 3400 MHz at 31 15 06 N, 105 19 35 W. The stated reason is "Short term requirement from customer that exceeds conventional timeline," and the purpose "for RADA to use radars in demos/tests for threat protection at Mile High."[^17]
+- July 14, 2023: RADA Technologies files 1443-EX-ST-2023 (WV9XWE), requesting August 1, 2023 to January 1, 2024 at 31 16 11 N, 105 24 34 W. The reason reads "To meet August 3rd deadline requested by customer ([[BAE Systems|BAE]])" and the purpose "Test of our product line at Mile High Range in Texas"; the bands include 3300 to 3500 MHz and 9201 to 9375.5 and 9444.5 to 9956.5 MHz.[^17]
+- October 27, 2023: Numerica Corporation files 2178-EX-ST-2023 (WW9XKG) for special temporary authority at one fixed Texas site, 31 20 06 N, 105 30 18 W, 15.7 to 17.2 GHz, requested November 13 to 27, 2023. The application states that Numerica "already holds experimental authority (Call sign WN2XWH; File # 1110-EX-CN-2023) to test the same equipment from three fixed sites in Colorado," and that the purpose is to "test and demonstrate short-range air defense (SHORAD) radar pursuant to internal testing with an industry partner. The radar is designed to detect unmanned aerial system (UAS) threats. Testing is planned for November 13-27, 2023." The coordinates are within two arc-seconds of the Dynetics WK2XCW Sierra Blanca entry.[^18]
+- February 6, 2025: Boots Consulting LLC files 0231-EX-ST-2025 (WY9XUK), requesting March 6 to September 6, 2025 for one RADA RPS-42 radar on 3300 to 3400 MHz at three Sierra Blanca sites (31 16 14 N, 105 23 25 W; 31 15 04 N, 105 26 10 W; 31 14 01 N, 105 32 51 W) and one at Sanderson, Texas. The narrative refers to "support for federal government-related operations" and states "Operation will be sporadic."[^19]
+- November 19, 2025: Raytheon files 1976-EX-ST-2025 (WA9XGO), requesting December 5 to 31, 2025 for telemetry flight testing for the Next Generation Short Range Interceptor at 31 16 18 N, 105 24 46 W, 2200 to 2290 MHz, ten Quasonix transmitters. The application narrative reads "Raytheon needs to complete DoD testing with an Army customer by the end of the year (2025). Testing will take place on a non-DoD range near Sierra Blanca, TX"; the exhibit reads "Raytheon needs to complete DOW testing with Army customer by the end of the year (2025)" and gives the limited area of operations as the Mile High Resources Range (see above).[^20]
+- February 10, 2026: Raytheon files 0306-EX-ST-2026 (WA9XYW), requesting February 24 to August 24, 2026 at the same coordinates (2272 MHz): "Raytheon needs to complete follow up testing with an Army customer. Testing will take place on a non-DoD range near Sierra Blanca, TX. Requesting 6 months for any potential future testing."[^20]
+
+Skywatcher dates reported in press accounts, set beside the filing dates without any link between them in the filings: [[NewsNation]] reported in an article updated January 27, 2025 that in August 2024 the group had conducted "their own operation, with a psionic asset"; a NewsNation article updated April 7, 2025 stated that Skywatcher "has a secret location known as 'The Range'"; Coulthart wrote on August 10, 2026 that the group operated at Sierra Blanca "until July" 2025 and that its last field operation was in July 2025, that [[James Fowler]] left in mid-August 2025, and that its last post on X was December 25, 2025. FDC 5/3497 was issued November 6, 2025 and the Raytheon filing was received thirteen days later. No filing in this chronology names Skywatcher.[^21]
+
+### Other federal and commercial records
+
+The Federal Communications Commission Universal Licensing System lists Lockheed Martin microwave licences WQPG885 to WQPG888 (granted May 15, 2012, expired November 11, 2012) and [[Leidos]] licences WQTF571, WQTF669 and WQTF909 (granted January 23 to 27, 2014, expired January 2024) at three Sierra Blanca sites, with 11 GHz dishes; Lockheed also held a private-land licence, WQRH873, in 2013.[^11] [[Union Pacific Railroad]] was granted a Twin Peak microwave licence (WQDX699) on November 21, 2025.[^11]
+
+[[USAspending]] records for Hudspeth County show: a [[Customs and Border Protection]] award (70B01C26F00000152) to [[Barnard Construction Company]] of Bozeman, Montana, for "Border barrier construction in Hudspeth County, TX," $1,030,175,506 with $1,025,996,158 obligated, March 5, 2026 to August 31, 2028; a Customs and Border Protection design-build award (70B01C26F00000947) to [[Southwest Valley Constructors Co.]] of Albuquerque for a new checkpoint facility at Sierra Blanca, $75,810,908, October 1, 2026 to March 31, 2029; a task order (N0002326F0014) awarded by a [[United States Navy]] contracting office (N00023) with the Army as funding agency to [[KVG LLC]] of Gettysburg, $25,737,198.68, June 26 to July 30, 2026, for transport and placement of about ten linear miles of HESCO and Maccaferri barriers and concertina wire at Fort Hancock; and an [[Army Corps of Engineers]] award (W9126G26PA034) to [[CRB-PLS, LLC]], $2,874,865, starting April 24, 2026, for "575 title abstracts and mapping products, located in Hudspeth" under the heading "TSB25 Southern Border 2025 ... BBT project, border barrier."[^22]
+
+The [[Federal Register]] carries a Presidential Permit extension to 2030 for a 48-inch [[Saguaro Connector Pipeline]] border crossing "about 18 miles southwest of Sierra Blanca in Hudspeth County" (91 FR 18840, April 13, 2026) and a [[El Paso Natural Gas]] application for a nine-mile loop in the county (CP26-156-000, 91 FR 17964, April 9, 2026).[^23]
+
+### Footnotes
+
+[^1]: Texas State Historical Association, "Sierra Blanca, TX," *Handbook of Texas Online*. https://www.tshaonline.org/handbook/entries/sierra-blanca-tx
+[^2]: Texas State Historical Association, "Hudspeth County," *Handbook of Texas Online*. https://www.tshaonline.org/handbook/entries/hudspeth-county
+[^3]: Federal Aviation Administration, FDC 5/3497, ZAB, text via https://tfr.faa.gov/tfrapi/getNotamText?notamId=5/3497 and https://tfr.faa.gov/tfrapi/getWebText?notamId=5/3497 (read October 3 and 4, 2026). The issue date and time (November 6, 2025, 2155 UTC) are from the list metadata.
+[^4]: Polygon vertices from FDC 5/3497 (note 2); area, leg lengths and inside-outside results computed from the vertices and the coordinates of the licence, registration and permit records cited below, October 4, 2026. U.S. Army, "Texas National Defense Area (TXNDA)," map updated June 27, 2025.
+[^5]: Federal Aviation Administration TFR list data (getTfrList) as archived by the Internet Archive: http://web.archive.org/web/20251108133836id_/https://tfr.faa.gov/tfrapi/getTfrList (November 8, 2025); http://web.archive.org/web/20251117230756id_/https://tfr.faa.gov/tfrapi/getTfrList (November 17, 2025); the November 5, 2025 copy likewise.
+[^6]: U.S. Army, Fort Bliss, "National Defense Area (NDA) Information and Maps." https://home.army.mil/bliss/about/national-defense-area-nda-information-and-maps
+[^7]: Ross Coulthart, "Is the Trump administration running a covert UFO program?," NewsNation Reality Check, published August 10, 2026. https://www.newsnationnow.com/podcasts-newsnation/reality-check/trump-administration-covert-ufo-program/amp/
+[^8]: Federal Aviation Administration, FDC 5/2779, https://tfr.faa.gov/tfrapi/getNotamText?notamId=5/2779 (read October 3, 2026).
+[^9]: Federal Aviation Administration, FDC 6/2233 (text from the Internet Archive copy of the getWebText endpoint, http://web.archive.org/web/20260211070407id_/https://tfr.faa.gov/tfrapi/getWebText?notamId=6/2233) and FDC 6/2234 (https://tfr.faa.gov/tfrapi/getNotamText?notamId=6/2234); list copy of February 27, 2026, http://web.archive.org/web/20260227191818id_/https://tfr.faa.gov/tfrapi/getTfrList
+[^10]: Texas Geographic Information Office, StratMap land parcels, Hudspeth County (FIPS 48229), vintages 2023-04, 2024-04, 2025-02 and 2026-03, built from Hudspeth Central Appraisal District rolls (ownership is the appraisal record, not a deed); Texas Commission on Environmental Quality GIS registry for RN101494409.
+[^11]: Federal Communications Commission, Universal Licensing System bulk files (l_micro, l_LMpriv, l_LMcomm) and Antenna Structure Registration (r_tower), https://data.fcc.gov/download/pub/uls/complete/ , downloaded October 4, 2026.
+[^12]: "Texas General Land Office Buys 353,785-Acre Brewster Ranch in Landmark Transaction," PR Newswire, October 29, 2024, https://www.prnewswire.com/news-releases/texas-general-land-office-buys-353-785-acre-brewster-ranch-in-landmark-transaction-302290476.html ; "Land Office purchases massive 353,785-acre Brewster Ranch," *Big Bend Sentinel*, October 30, 2024, https://bigbendsentinel.com/2024/10/30/land-office-purchases-massive-353785-acre-brewster-ranch/
+[^13]: Ministry of Economic Affairs, Republic of China (Taiwan), Government Commerce Information open data, company, director and business-scope datasets for unified business number 90841898, https://data.gcis.nat.gov.tw/od/data/api/5F64D864-61CB-4D0D-8AD9-492047CC1EA6 , queried October 4, 2026; Hudspeth appraisal accounts 106265 and 106266 (note 9).
+[^14]: "Raytheon's miniature Pike munitions go 2 for 2 in first guided tests," Raytheon, Tucson, October 12, 2015. https://raytheon.mediaroom.com/2015-10-12-Miniature-Pike-munitions-go-2-for-2-in-first-guided-tests
+[^15]: Federal Communications Commission, Office of Engineering and Technology, Experimental Licensing System, generic search by transmitter city (Sierra Blanca, Fort Hancock), https://apps.fcc.gov/oetcf/els/reports/GenericSearch.cfm , with the technical narratives and exhibits of the file numbers cited, read October 4, 2026.
+[^16]: Federal Communications Commission, Experimental Licensing System, call sign WK2XCW (Dynetics, Inc.), files 0012-EX-CM-2023, 0148-EX-CM-2023, 0007-EX-CM-2024, 0127-EX-CR-2024, 0161-EX-CM-2025 and 0179-EX-CR-2026, applications and Exhibit 1. https://apps.fcc.gov/oetcf/els/reports/GenericSearch.cfm
+[^17]: Federal Communications Commission, Experimental Licensing System, files 0384-EX-ST-2023 (WV9XAV) and 1443-EX-ST-2023 (WV9XWE), RADA Technologies, LLC, applications and narratives. https://apps.fcc.gov/oetcf/els/reports/GenericSearch.cfm
+[^18]: Federal Communications Commission, Experimental Licensing System, file 2178-EX-ST-2023 (WW9XKG), Numerica Corporation, application and narrative. https://apps.fcc.gov/oetcf/els/reports/GenericSearch.cfm
+[^19]: Federal Communications Commission, Experimental Licensing System, file 0231-EX-ST-2025 (WY9XUK), Boots Consulting LLC, application and narrative. https://apps.fcc.gov/oetcf/els/reports/GenericSearch.cfm
+[^20]: Federal Communications Commission, Experimental Licensing System, files 1976-EX-ST-2025 (WA9XGO) and 0306-EX-ST-2026 (WA9XYW), Raytheon Company, applications and narratives. https://apps.fcc.gov/oetcf/els/reports/GenericSearch.cfm
+[^21]: Ross Coulthart and Kellie Meyer, "UAP recovery video shows 'egg-shaped' object: Exclusive," NewsNation, updated January 27, 2025, https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/ ; Michael Ramsey, NewsNation, updated April 7, 2025, https://www.newsnationnow.com/space/ufo/summoned-ufos-video-ross-coulthart/ ; Ross Coulthart, "Is the Trump administration running a covert UFO program?," NewsNation Reality Check, August 10, 2026, https://www.newsnationnow.com/podcasts-newsnation/reality-check/trump-administration-covert-ufo-program/amp/ ; Federal Aviation Administration, FDC 5/3497, https://tfr.faa.gov/tfrapi/getNotamText?notamId=5/3497
+[^22]: USAspending.gov, award records 70B01C26F00000152, 70B01C26F00000947, N0002326F0014 and W9126G26PA034, https://www.usaspending.gov/award/CONT_AWD_70B01C26F00000152_7014_70B01C26D00000006_7014 and the matching award pages, queried October 4, 2026.
+[^23]: Federal Register, 91 FR 18840 (April 13, 2026) and 91 FR 17964 (April 9, 2026). https://www.federalregister.gov/

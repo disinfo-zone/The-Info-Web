@@ -12,20 +12,20 @@ tags:
 start: "2022"
 summary: "Misanthropic, accelerationist violent extremist network founded by Dutch national Justin B. (alias CXRPSE) as a 764 splinter group, linked to stabbing attacks across Europe and designated a terrorist organization by Dutch prosecutors."
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-10-04
 ---
 
 No Lives Matter (NLM) is a violent extremist network operating within the broader criminal ecosystem known as [[The Com]], described by [[Wired]] in March 2025 as "a particularly violent splinter group within the extremist crime network known as Com and 764." Founded by a Dutch national identified in Dutch court proceedings only as Justin B. (alias CXRPSE), NLM emerged from the [[764]] child exploitation network and distinguished itself by prioritizing real-world physical violence over sextortion. The Dutch [[Public Prosecution Service]] designated NLM a terrorist organization, and its activities have been linked to stabbing sprees in [[Sweden]], disrupted plots in [[Italy]], and law enforcement investigations across [[Europe]] and the [[United States]].
 
 ### Background: The Com Ecosystem
 
-NLM cannot be understood apart from [[The Com]] (short for "The Community"), a decentralized, transnational network of interconnected chatrooms, groups, and individuals engaged in wide-ranging criminal activity. Researchers divide The Com into three operational pillars:
+NLM cannot be understood apart from The Com (short for "The Community"), a decentralized, transnational network of interconnected chatrooms, groups, and individuals engaged in wide-ranging criminal activity. Researchers divide The Com into three operational pillars:
 
 - Cyber Com (also called Hacker Com): The network's historical origin point, focused on cell phone fraud, corporate computer intrusions, and large-scale hacking. [[Scattered Spider]] is the most prominent group associated with this pillar.
-- Extortion Com: Groups that conduct sextortion and child sexual abuse material (CSAM) operations; [[764]] was founded in this pillar.
+- Extortion Com: Groups that conduct sextortion and child sexual abuse material (CSAM) operations; 764 was founded in this pillar.
 - Offline Com: Groups that embrace accelerationist and neo-Nazi ideologies and emphasize physical, real-world violence. NLM and Maniac Murder Cult (MKY, also written M.K.Y.) are the primary groups in this pillar.
 
-[[764]] itself was founded circa 2020 by an American teenager in Stephenville, Texas, whose postal code was 764 - the group's namesake. He is now serving an 80-year prison sentence for child pornography offenses. NLM emerged as a splinter from 764, eventually breaking formally with the parent network: in May 2024, NLM announced on Telegram that its alliance with 764 "had ended a while ago," citing distrust of 764's current leadership and NLM's desire to distance itself from sextortion and CSAM operations.[^1]
+764 itself was founded circa 2020 by an American teenager in Stephenville, Texas, whose postal code was 764 - the group's namesake. He is now serving an 80-year prison sentence for child pornography offenses. NLM emerged as a splinter from 764, eventually breaking formally with the parent network: in May 2024, NLM announced on Telegram that its alliance with 764 "had ended a while ago," citing distrust of 764's current leadership and NLM's desire to distance itself from sextortion and CSAM operations.[^1]
 
 ### Founding and Leadership
 
@@ -56,7 +56,7 @@ The [[New Jersey Office of Homeland Security and Preparedness]] (NJOHSP) issued 
 
 ### Recruitment and Operations
 
-NLM recruits primarily through [[Telegram]] channels with limited content moderation, though [[Discord]] has also been used in affiliated networks. Recruitment targets vulnerable young people, often boys aged 11-17. The group operates through a status economy: members commit and document acts of violence, upload recordings to NLM and 764 chatrooms to gain standing, and use the resulting footage as propaganda to attract further recruits.
+NLM recruits primarily through Telegram channels with limited content moderation, though [[Discord]] has also been used in affiliated networks. Recruitment targets vulnerable young people, often boys aged 11-17. The group operates through a status economy: members commit and document acts of violence, upload recordings to NLM and 764 chatrooms to gain standing, and use the resulting footage as propaganda to attract further recruits.
 
 Entry requirements escalate: documented acts range from vandalism and arson through beatings and stabbings to murder and mass murder. Recording and livestreaming attacks is a core requirement. This documentation-as-status dynamic, which researchers have compared to the "Columbine Effect" of copycat inspiration, is the mechanism by which NLM converted online activity into real-world violence across multiple countries.[^5]
 
@@ -66,7 +66,7 @@ In July 2024, NLM announced a formal alliance with Mordwaffen Division (MWD), a 
 
 NLM is distinct from 764 in operational focus: 764 centers on sextortion and coercion into CSAM as its core criminal activity, while NLM centers on real-world physical violence and the glorification of mass casualty attacks. NLM formally severed its alliance with 764 in May 2024. Both networks exist within The Com's broader Offline Com pillar, however, and personnel overlap has been documented.
 
-[[Scattered Spider]] operates in The Com's Cyber Com pillar and has no direct documented operational relationship with NLM. The connection is structural: both are products of the same decentralized Com ecosystem, not affiliated organizations with shared leadership or operational coordination. Researchers at SANS have noted that Cyber Com, Extortion Com, and Offline Com share cultural markers and personnel pipelines, but NLM's specific activities are not cyber-focused and no credible source has documented a direct Scattered Spider-NLM operational link.[^7]
+Scattered Spider operates in The Com's Cyber Com pillar and has no direct documented operational relationship with NLM. The connection is structural: both are products of the same decentralized Com ecosystem, not affiliated organizations with shared leadership or operational coordination. Researchers at SANS have noted that Cyber Com, Extortion Com, and Offline Com share cultural markers and personnel pipelines, but NLM's specific activities are not cyber-focused and no credible source has documented a direct Scattered Spider-NLM operational link.[^7]
 
 ### Documented Violence
 
@@ -84,9 +84,9 @@ ISD research linked nihilistic violence subcultures including NLM to at least fo
 
 ### Arrest and Prosecution of Justin B.
 
-In late July 2025, a specialized Dutch police unit raided Justin B.'s home in [[Eindhoven]] and arrested him. Police found footage of extreme violence on his data carriers, including a video he had forwarded of a person being shot in the head with the accompanying message: "I really want to do that to someone's head. Brain on my shoes, everything." He also glorified multiple mass shooters on his devices.[^2]
+In late July 2025, a specialized Dutch police unit raided Justin B.'s home in Eindhoven and arrested him. Police found footage of extreme violence on his data carriers, including a video he had forwarded of a person being shot in the head with the accompanying message: "I really want to do that to someone's head. Brain on my shoes, everything." He also glorified multiple mass shooters on his devices.[^2]
 
-Justin B. was remanded into pre-trial detention at Penitentiaire Inrichting (PI) Vught, a maximum-security prison facility in the [[Netherlands]] with a dedicated wing for terrorism-related suspects and convicts.
+Justin B. was remanded into pre-trial detention at Penitentiaire Inrichting (PI) Vught, a maximum-security prison facility in the Netherlands with a dedicated wing for terrorism-related suspects and convicts.
 
 #### October 28, 2025 - First Public Preliminary Hearing, Rotterdam
 Justin B. appeared for his first public hearing in the extra-secured courtroom in Rotterdam, where terrorism cases are heard. His attorney admitted on the record that his client was "CXRPSE," confirming the alias. Justin B. himself stated he had left the Com shortly before his arrest, and claimed he had converted to Christianity and had "just gotten his life together" when police arrived.
@@ -98,7 +98,7 @@ The [[Dutch Public Prosecution Service]] (Openbaar Ministerie, OM) presented the
 - Distribution of extreme violent and terrorist material
 - Production and distribution of child sexual abuse material (CSAM)
 
-The OM characterized NLM as "a terrorist organization aimed at committing or commissioning murder and other serious violence." Prosecutors cited B.'s glorification of [[Brenton Tarrant]] and other mass killers.
+The OM characterized NLM as "a terrorist organization aimed at committing or commissioning murder and other serious violence." Prosecutors cited B.'s glorification of Brenton Tarrant and other mass killers.
 
 B.'s defense argued that he had a history of mental health problems since youth, that others had built NLM's structure around him and his online persona, and that he was not the active operational leader the prosecution characterized him as.[^2]
 
@@ -110,6 +110,8 @@ As of the time of writing, no subsequent court proceedings beyond the October 28
 ### Other Arrests
 
 No Lives Matter members beyond Justin B. have been arrested in connection with NLM-specific charges. The broader 764 network has seen extensive law enforcement action: between 2020 and 2025, 191 members of 764 or affiliated groups across 28 countries were arrested for sextortion, CSAM possession, or violent attacks. The two Swedish teenage attackers described above were subject to administrative rather than criminal proceedings due to their ages. No other named NLM members have been reported as arrested on NLM-specific terrorism charges as of this writing.[^6]
+
+A [[Limestone County, Alabama|Limestone County]], Alabama indictment reported on December 5, 2025 names No Lives Matter, [[764 Network|764]] and MKU ([[Maniac Murder Cult]]) as groups with which [[Carson Albert Butler]] allegedly conspired against [[Athens High School]] students and staff; see [[Athens High School Terrorism Case]].[^12]
 
 ### Academic and Policy Research
 
@@ -136,3 +138,4 @@ The following institutional analyses of NLM are cited in the secondary literatur
 [^9]: "Teen Found Guilty in Borås Sect-Related Knife Attack," *Sweden Herald*. https://swedenherald.com/article/teen-found-guilty-in-boras-knife-attack-linked-to-violent-network. See also "Online Sect's Influence on Teen Knife Attacks Faces Court Scrutiny," *Sweden Herald*. https://swedenherald.com/article/online-sects-influence-on-teen-knife-attacks-faces-court-scrutiny
 [^10]: "Terror without ideology? The rise of nihilistic violence," Institute for Strategic Dialogue. https://www.isdglobal.org/digital-dispatch/terror-without-ideology-the-rise-of-nihilistic-violence-an-isd-investigation/
 [^11]: "Sadistische Justin B. ook verdacht van verkrachting en kinderpornobezit," *Omroep Brabant*. https://www.omroepbrabant.nl/nieuws/6004745/sadistische-justin-b-ook-verdacht-van-verkrachting-en-kinderpornobezit. See also *Omroep Brabant*: https://www.omroepbrabant.nl/nieuws/4770072/sadistische-justin-b-uit-eindhoven-was-oprichter-terreurnetwerk-volgens-om
+[^12]: Wesley Tomlinson, "Indictment: Teen committed terrorism, attempted murder targeting Athens High staff, students," The Decatur Daily, December 5, 2025, https://www.decaturdaily.com/news/limestone_county/indictment-teen-committed-terrorism-attempted-murder-targeting-athens-high-staff-students/article_f6921221-e422-4cb9-a33d-acc4b3430aa4.html
