@@ -3,8 +3,9 @@ aliases:
   - Kenneth A. Kress
   - Ken Kress
   - Kenneth Kress
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - Stargate
   - Physicist

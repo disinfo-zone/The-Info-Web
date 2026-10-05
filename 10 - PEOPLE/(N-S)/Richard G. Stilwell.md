@@ -2,8 +2,9 @@
 aliases:
   - Richard G. Stilwell
   - General Richard G. Stilwell
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

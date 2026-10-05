@@ -1,6 +1,7 @@
 ---
-category: "New Right"
+category: "Activists & Advocates"
 tags:
+  - NewRight
   - Person
   - Immigration
   - Nativism

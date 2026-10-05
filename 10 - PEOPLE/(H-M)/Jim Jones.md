@@ -1,5 +1,5 @@
 ---
-category: "Extremism & Violent Networks"
+category: "Religious Figures"
 tags:
   - Person
   - MKULTRA

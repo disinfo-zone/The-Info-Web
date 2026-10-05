@@ -1,5 +1,5 @@
 ---
-category: "Military"
+category: "Intelligence & Government"
 tags:
   - Person
   - Military

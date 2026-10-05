@@ -1,6 +1,7 @@
 ---
 category: "UFO & Anomalous Phenomena"
 tags:
+  - UFO
   - Person
   - UAP
   - Filmmaker

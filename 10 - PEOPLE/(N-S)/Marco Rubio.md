@@ -1,5 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
+category: "Political Figure"
 tags:
   - Person
   - UFO

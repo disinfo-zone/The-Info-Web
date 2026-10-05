@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Other"
 tags:
+  - PROMIS
   - Person
 summary: "Shockley's name appeared in Michael Riconosciuto's statement to the FBI, where Riconosciuto claimed that Robert Booth Nichols 'runs Glen R."
 ---

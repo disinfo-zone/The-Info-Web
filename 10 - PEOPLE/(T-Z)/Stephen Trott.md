@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Law Enforcement & Legal"
 tags:
+  - IranContra
   - person
   - u.s.-government
   - contra-war

@@ -1,5 +1,5 @@
 ---
-category: "People"
+category: "Technologists"
 tags:
   - Person
   - DefenseContractor

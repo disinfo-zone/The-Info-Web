@@ -19,26 +19,22 @@ alias:
 summary: "Huntsville, Alabama engineering and weapons-systems company founded in 1974, employee-owned until Leidos bought it for $1.65 billion on January 31, 2020, and holder of FCC experimental licence WK2XCW with a Sierra Blanca, Texas site."
 location: "Huntsville, Alabama"
 relations:
-  - type: subsidiary_of
+  - type: owned
     with: "[[Leidos]]"
+    reverse: true
     start: 2020-01-31
     role: "Leidos, Inc. completed the stock purchase of DYHC, Inc. (Dynetics) from the Dynetics, Inc. Employee Stock Ownership Trust for $1.65 billion in cash; the purchase agreement was dated December 17, 2019"
     fn: 2
-  - type: contracted_with
+  - type: contractor_to
     with: "[[DARPA]]"
     start: 2017-08-21
     role: "team lead for one of three Phase 1 agreements in the Mobile Force Protection program; FCC filings cite DARPA agreement HR0011-17-9-0017"
     fn: 8
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Aviation and Missile Technology Consortium]]"
     start: 2021-02
     role: "AMTC member named on project 20-01-017, 'Air and Missile Defense Radio Frequency Sensor Prototypes', $20M, listed in the February 2021 block of the consortium awards page"
     fn: 12
-  - type: licensed_by
-    with: "[[Federal Communications Commission]]"
-    start: 2023-01-16
-    role: "experimental licence WK2XCW; the 2023 to 2026 filings list a Sierra Blanca, Texas site (31 20 05 N, 105 30 16 W, 10 km radius)"
-    fn: 15
 created: 2026-10-04
 updated: 2026-10-04
 ---
@@ -67,7 +63,7 @@ A Leidos release datelined Huntsville, January 22, 2024 states that the company 
 
 A public interest statement filed with the [[Federal Communications Commission]] (Dynetics' application for a two-year conventional experimental licence) states: "This experiment, a continuation of the Huntsville, AL and Eglin AFB operations previously authorized under STA (WN9XIR), involves the testing of a tracking and discrimination radar. This activity is necessary to support DARPA agreement No. HR0011-17-9-0017." It names a DARPA point of contact, lists the Dynetics Huntsville rooftop or ground sites and "Eglin AFB (Range B-70), FL," gives beam widths of 16.1 by 16.5 degrees (Configuration 1) and 8 by 8 degrees (Configuration 2) and a boresight elevation of less than 60 degrees, and adds: "Additional confidential information regarding the purpose and nature of the experiment is contained at Confidential Exhibit 3." The exhibit text carries no file number or date; the PDF's embedded metadata gives a creation date of February 19, 2019.[^10]
 
-The "HR0011-XX-9-XXXX" form is the numbering DARPA uses in its sample other-transaction agreement for prototypes.[^11] No DARPA document opened places the number HR0011-17-9-0017 beside the Mobile Force Protection program, and the filing does not name a program.
+The "HR0011-XX-9-XXXX" form is the numbering DARPA uses in its sample other-transaction agreement for prototypes.[^11] The filing does not name a program.
 
 ### Aviation and Missile Technology Consortium project 20-01-017
 

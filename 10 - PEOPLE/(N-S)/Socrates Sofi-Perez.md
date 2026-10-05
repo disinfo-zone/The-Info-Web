@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Intelligence & Government"
 tags:
+  - IranContra
   - person
   - cuban
   - contra-war

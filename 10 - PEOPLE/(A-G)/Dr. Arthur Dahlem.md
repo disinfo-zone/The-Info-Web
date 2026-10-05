@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Medicine & Psychology"
 tags:
   - Person
   - Lawyer

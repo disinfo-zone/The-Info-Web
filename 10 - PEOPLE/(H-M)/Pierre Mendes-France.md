@@ -1,5 +1,5 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Political Figure"
 tags:
   - Person
   - Nuclear

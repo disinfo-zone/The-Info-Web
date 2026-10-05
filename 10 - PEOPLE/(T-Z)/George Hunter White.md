@@ -15,7 +15,7 @@ tags:
   - ColdWar
   - 1950s
   - 1960s
-category: "Intelligence & Government"
+category: "Law Enforcement & Legal"
 summary: "George Hunter White was a Federal Bureau of Narcotics agent who operated the CIA's Operation Midnight Climax safe houses in San Francisco and New York City from 1955 to 1963, administering LSD to unwitting civilian subjects for Project MKULTRA while working under CIA contract."
 born: 1908-01-01
 died: 1975-10-22

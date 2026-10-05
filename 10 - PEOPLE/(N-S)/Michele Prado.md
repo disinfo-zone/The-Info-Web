@@ -1,5 +1,5 @@
 ---
-category: "Authors & Journalists"
+category: "Activists & Advocates"
 tags:
   - Person
   - Brazil

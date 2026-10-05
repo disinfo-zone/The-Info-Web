@@ -1,8 +1,9 @@
 ---
-category: "AI & Effective Altruism"
+category: "Intelligence & Government"
 aliases:
   - "Jeffrey Alstott"
 tags:
+  - EffectiveAltruism
   - Person
   - RAND
   - IARPA

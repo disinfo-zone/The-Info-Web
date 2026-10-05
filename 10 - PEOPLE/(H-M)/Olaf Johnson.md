@@ -1,6 +1,7 @@
 ---
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Swedish-born psychic who served as the receiver in Edgar Mitchell's mind-to-mind telepathy experiment during the Apollo 14 mission."

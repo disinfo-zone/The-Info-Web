@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Other"
 tags:
+  - IranContra
   - Person
 summary: "In October 1989, Ari Ben-Menashe visited Siff in Los Angeles."
 location: "Los Angeles, California"

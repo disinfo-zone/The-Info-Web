@@ -2,8 +2,9 @@
 aliases:
   - Jack Vorona
   - Dr. Jack Vorona
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
+  - KeyFigure
   - Person
   - Stargate
   - CIA

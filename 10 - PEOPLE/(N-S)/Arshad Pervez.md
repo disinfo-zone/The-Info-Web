@@ -1,6 +1,7 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Arms Dealers & Brokers"
 tags:
+  - Nuclear
   - Person
   - Pakistan
   - Canada

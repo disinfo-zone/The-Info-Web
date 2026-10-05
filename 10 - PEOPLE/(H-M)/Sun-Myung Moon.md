@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Religious Figures"
 tags:
+  - IranContra
   - person
   - religious
   - contra-war

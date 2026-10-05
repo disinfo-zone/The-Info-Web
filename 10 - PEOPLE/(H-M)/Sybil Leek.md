@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Occult & Esoteric"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Soviet

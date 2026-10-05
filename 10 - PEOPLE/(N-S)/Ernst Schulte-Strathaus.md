@@ -4,7 +4,7 @@ updated: 2026-09-22
 title: Ernst Schulte-Strathaus
 aliases:
   - Ernst Schulte-Strathaus
-category: "Scientists & Researchers"
+category: "Occult & Esoteric"
 tags:
   - Person
   - Astrology

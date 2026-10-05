@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Business & Finance"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Roger Boas, a Belgian industrialist, owned ASCO Industries NV, an aerospace company in Zaventem near Brussels, implicated in the X-Dossier for alleged snuff film production."

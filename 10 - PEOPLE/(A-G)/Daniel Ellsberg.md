@@ -1,5 +1,5 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Activists & Advocates"
 tags:
   - Person
   - Nuclear

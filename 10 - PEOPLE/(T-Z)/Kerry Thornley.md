@@ -1,6 +1,7 @@
 ---
-category: "JFK Assassination"
+category: "Authors & Journalists"
 tags:
+  - JFKAssassination
   - Person
   - MKULTRA
   - CIA

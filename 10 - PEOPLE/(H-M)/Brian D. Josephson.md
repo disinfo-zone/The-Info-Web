@@ -2,8 +2,9 @@
 aliases:
   - Brian D. Josephson
   - Josephson
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - SRI

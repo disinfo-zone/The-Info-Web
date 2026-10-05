@@ -1,6 +1,7 @@
 ---
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Flournoy attributed her abilities to Cryptomnesia and Glossolalia, arguing that the content she produced originated from forgotten memories and unconscious processes rather than genuine psychic phenomena."

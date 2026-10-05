@@ -1,5 +1,5 @@
 ---
-category: "Business & Finance"
+category: "Philanthropists & Benefactors"
 tags:
   - Person
   - DebraBlack

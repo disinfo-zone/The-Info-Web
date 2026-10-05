@@ -5,13 +5,14 @@ title: Rosa Parks
 aliases:
   - Rosa Louise McCauley Parks
 tags:
+  - HistoricalFigure
   - Person
   - CivilRights
   - NAACP
   - Montgomery
   - Alabama
   - 1950s
-category: "Historical Figure"
+category: "Activists & Advocates"
 summary: "Rosa Parks was an NAACP secretary in Montgomery, Alabama, whose December 1, 1955 arrest for refusing to give up her bus seat to a white passenger triggered the Montgomery Bus Boycott and launched the organized civil rights movement of the 1950s-1960s - though her action was a strategic NAACP decision rather than a spontaneous individual act."
 born: 1913-02-04
 died: 2005-10-24

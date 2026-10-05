@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Criminals & Offenders"
 aliases:
   - "John Philip Nichols"
 tags:

@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - Stargate
   - RemoteViewer

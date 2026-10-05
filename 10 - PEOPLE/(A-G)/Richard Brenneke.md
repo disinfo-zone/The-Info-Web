@@ -4,7 +4,7 @@ aliases:
   - Richard Brenneke
 created: 2026-05-17
 updated: 2026-09-22
-category: "Intelligence & Government"
+category: "Arms Dealers & Brokers"
 tags:
   - Person
   - OctoberSurprise

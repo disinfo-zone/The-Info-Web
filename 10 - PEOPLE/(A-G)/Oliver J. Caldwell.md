@@ -1,8 +1,9 @@
 ---
 aliases:
 - Oliver J. Caldwell
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Soviet

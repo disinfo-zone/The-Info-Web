@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "James was also deeply interested in psychic phenomena and was one of the founders of the American Society for Psychical Research (ASPR) in 1885."

@@ -20,7 +20,7 @@ relations:
     start: 2019-01
     role: "55 million dollars over five years, raised by 42 million in 2021 to more than 100 million through 2025"
     fn: 1
-  - type: part_of
+  - type: member_of
     with: "[[Georgetown University]]"
     role: "Walsh School of Foreign Service"
     fn: 2

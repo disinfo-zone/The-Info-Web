@@ -5,6 +5,7 @@ title: Patrice Lumumba
 aliases:
   - Patrice Emery Lumumba
 tags:
+  - HistoricalFigure
   - Person
   - Congo
   - Africa
@@ -12,7 +13,7 @@ tags:
   - Assassination
   - ColdWar
   - Decolonization
-category: "Historical Figure"
+category: "Political Figure"
 summary: "Patrice Lumumba was the first democratically elected Prime Minister of the independent Congo (June 1960), deposed and delivered to Katangan forces by a CIA-backed conspiracy involving Joseph Mobutu within months of independence, and killed on January 17, 1961 - a case the Church Committee found involved CIA assassination planning, making him the emblematic victim of Cold War CIA intervention in African decolonization."
 born: 1925-07-02
 died: 1961-01-17

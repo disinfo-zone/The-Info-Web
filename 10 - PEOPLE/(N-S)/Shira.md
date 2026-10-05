@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Other"
 tags:
+  - IranContra
   - Person
 summary: "Daughter of Ari Ben-Menashe and Ora Ben-Shalom, born in 1988 during the period of her father's intelligence activities."
 born: 1988-07-22

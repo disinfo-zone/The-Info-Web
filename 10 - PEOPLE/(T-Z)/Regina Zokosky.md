@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Other"
 tags:
+  - PROMIS
   - Person
 summary: "Wife of Peter Zokosky who contradicted her husband's assertion that Danny Casolaro committed suicide."
 ---

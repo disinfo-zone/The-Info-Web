@@ -5,8 +5,9 @@ aliases:
   - Gerrit-Jan Ulrich
 created: 2026-05-17
 updated: 2026-05-17
-category: "Belgium Scandals"
+category: "Criminals & Offenders"
 tags:
+  - BelgiumScandals
   - Person
   - ChildPornography
   - Netherlands

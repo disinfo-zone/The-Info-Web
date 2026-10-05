@@ -4,6 +4,7 @@ aliases:
   - Captain Rob Cowart
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

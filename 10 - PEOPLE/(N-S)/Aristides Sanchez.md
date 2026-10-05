@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Military"
 tags:
+  - IranContra
   - Person
   - Contra
   - Nicaragua

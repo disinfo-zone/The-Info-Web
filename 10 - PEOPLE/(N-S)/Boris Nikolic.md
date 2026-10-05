@@ -1,5 +1,5 @@
 ---
-category: "Technologists"
+category: "Business & Finance"
 tags:
   - Person
   - BorisNikolic

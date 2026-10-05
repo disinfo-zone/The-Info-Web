@@ -1,5 +1,5 @@
 ---
-category: "Iran-Contra"
+category: "Intelligence & Government"
 tags:
   - Person
   - IranContra

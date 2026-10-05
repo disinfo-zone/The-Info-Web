@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Other"
 tags:
+  - IranContra
   - Person
 summary: "In July 1966, Khatoun took Ari and his sisters, Claris, Evon, and Stella, to Israel, where Stella and Ari were enrolled at the American International School in Kfar Smaryahu."
 location: "Baghdad, Iraq"

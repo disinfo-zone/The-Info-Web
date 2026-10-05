@@ -1,5 +1,5 @@
 ---
-category: "U.S. Government"
+category: "Intelligence & Government"
 tags:
   - Person
   - LarrySummers

@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Military"
 tags:
   - Person
   - HectorOrozco

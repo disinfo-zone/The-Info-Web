@@ -5,7 +5,7 @@ title: Brad Kenneth Spafford
 aliases:
   - Brad Kenneth Spafford
   - Brad Spafford
-category: "Law Enforcement & Legal"
+category: "Criminals & Offenders"
 tags:
   - Person
   - Domestic

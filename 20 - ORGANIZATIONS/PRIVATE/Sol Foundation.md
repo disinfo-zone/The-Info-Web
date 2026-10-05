@@ -85,25 +85,6 @@ relations:
     start: 2023-09-15
     role: "San Francisco law firm; a paralegal of the firm prepared the Articles of Dissolution of the Alabama corporation"
     fn: 11
-  - type: designator_of
-    with: "[[Garry Nolan]]"
-    reverse: true
-    start: 2023-08-17
-    role: "Designator of the California corporation under the Bylaws (Article III, Section 1); named in the amendment clause of the original Articles of July 7, 2023"
-    fn: 9
-  - type: designator_of
-    with: "[[Peter Skafish]]"
-    reverse: true
-    start: 2023-08-17
-    role: "Designator of the California corporation under the Bylaws (Article III, Section 1); named in the amendment clause of the original Articles of July 7, 2023; secretary signing the Certificate of Amendment and Restatement"
-    fn: 9
-  - type: named_approver_of
-    with: "[[David Grusch]]"
-    reverse: true
-    start: 2023-07-07
-    end: 2023-08-17
-    role: "named, as 'Dave Grusch,' with Nolan and Skafish in the amendment-approval clause of the original Articles of Incorporation (File No. 5810665); the clause was replaced on August 17, 2023"
-    fn: 9
 created: 2026-10-03
 updated: 2026-10-04
 ---
@@ -162,7 +143,7 @@ The expense lines include $117,000 for management fees, $269,797 for conferences
 
 Schedule I lists one grant to an individual: $10,000 as a "research grant for white paper on geopolitical implications of unidentified anomalous phenomena." Its supplemental statement says the organization grants funds to experts "in exchange for white papers," that grantees are selected by the board of directors and that the papers are published on its website. Schedule O describes the November 22 to 23, 2024 symposium at the [[Fort Mason Center]] in [[San Francisco]].[^7]
 
-The [[UAP Disclosure Fund]], a San Francisco 501(c)(4) in care of [[Yuan Fung]] (EIN 99-2834592, IRS ruling date July 2025), has Fung as its executive director on the November 12, 2024 scientists' letter to Congress that Nolan, Skafish, Pasulka, Gallaudet and others signed, and Gallaudet's House biography lists him as an advisory board member of both the Fund and the Sol Foundation.[^26][^23] The [[Sol Foundation Inc]] of [[Carmel, Indiana]] (EIN 99-3863647; 1051 Oswego Road, in care of [[Lawrence Baker]]; IRS ruling date August 2024; private non-operating foundation) is a separate entity. Its Form 990-PF for the period December 24 to December 31, 2024 (submitted November 14, 2025; prepared by [[L M Henderson & Company LLP]] of [[Indianapolis]]) reports $25,000,000 in contributions received, $17,976 in interest and dividends, $89,482 in expenses, $24,928,494 in assets, no grants paid, and three directors, Lawrence Baker, [[Patricia Baker]] and [[Charles Hertlein]], each at one hour a week and unpaid. It lists no website and a telephone number in the 513 area code. Nothing in that filing refers to unidentified anomalous phenomena, to the California corporation or to any of its officers, and no document opened for this entry links the two organizations.[^27]
+The [[UAP Disclosure Fund]], a San Francisco 501(c)(4) in care of [[Yuan Fung]] (EIN 99-2834592, IRS ruling date July 2025), has Fung as its executive director on the November 12, 2024 scientists' letter to Congress that Nolan, Skafish, Pasulka, Gallaudet and others signed, and Gallaudet's House biography lists him as an advisory board member of both the Fund and the Sol Foundation.[^26][^23] The [[Sol Foundation Inc]] of [[Carmel, Indiana]] (EIN 99-3863647; 1051 Oswego Road, in care of [[Lawrence Baker]]; IRS ruling date August 2024; private non-operating foundation) is a separate entity. Its Form 990-PF for the period December 24 to December 31, 2024 (submitted November 14, 2025; prepared by [[L M Henderson & Company LLP]] of [[Indianapolis]]) reports $25,000,000 in contributions received, $17,976 in interest and dividends, $89,482 in expenses, $24,928,494 in assets, no grants paid, and three directors, Lawrence Baker, [[Patricia Baker]] and [[Charles Hertlein]], each at one hour a week and unpaid. It lists no website and a telephone number in the 513 area code. Nothing in that filing refers to unidentified anomalous phenomena, to the California corporation or to any of its officers.[^27]
 
 No filing under the client name Sol Foundation appears in the [[United States Senate]] lobbying disclosure database, and no contribution record under the names of Skafish, Berte or Mindrila appears in the Federal Election Commission database.[^28]
 

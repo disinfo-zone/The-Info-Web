@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - PROMIS
   - Person
   - Belgium
 summary: "Thomas Stanton was the Director of the Executive Office of U.S."

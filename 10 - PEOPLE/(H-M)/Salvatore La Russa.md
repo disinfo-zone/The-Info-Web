@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Organized Crime"
 tags:
+  - AbuseNetworks
   - Person
   - OrganizedCrime
   - Philadelphia

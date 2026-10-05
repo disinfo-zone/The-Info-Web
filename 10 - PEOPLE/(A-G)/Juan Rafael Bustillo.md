@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Military"
 tags:
+  - IranContra
   - person
   - colombian
   - contra-war

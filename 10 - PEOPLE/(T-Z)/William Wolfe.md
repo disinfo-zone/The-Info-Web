@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Extremism & Violent Networks"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

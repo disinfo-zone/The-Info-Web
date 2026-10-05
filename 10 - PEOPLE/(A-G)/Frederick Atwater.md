@@ -9,6 +9,7 @@ aliases:
   - F. Holmes Atwater
   - Frederick H. Atwater
 tags:
+  - KeyFigure
   - Person
   - Military
   - Stargate
@@ -17,7 +18,7 @@ tags:
   - PSI
   - 1970s
   - 1980s
-category: "Key Figures"
+category: "Military"
 summary: "Army lieutenant of the 902d Military Intelligence Group attached to Grill Flame in 1978 for his earlier research, who screened the first Army remote viewers and was acting project manager of Center Lane in 1983."
 born: 1947-01-01
 location: "Glendale, California"

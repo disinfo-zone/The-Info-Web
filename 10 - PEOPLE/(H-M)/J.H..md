@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - PROMIS
   - Person
 summary: "Retired FBI agent in Fresno who served as a contact for Cheri Seymour and Michael Riconosciuto during investigations into drug trafficking and PROMIS."
 ---

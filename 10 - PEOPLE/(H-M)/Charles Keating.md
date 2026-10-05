@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Business & Finance"
 tags:
   - Person
   - SavingsAndLoan

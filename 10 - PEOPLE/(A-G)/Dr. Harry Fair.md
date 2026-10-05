@@ -1,5 +1,5 @@
 ---
-category: "Military"
+category: "Scientists & Researchers"
 tags:
   - Person
   - Military

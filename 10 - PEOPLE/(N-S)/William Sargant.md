@@ -1,5 +1,5 @@
 ---
-category: "Psychology & Behavioral Science"
+category: "Medicine & Psychology"
 tags:
   - Person
   - BritishIntelligence

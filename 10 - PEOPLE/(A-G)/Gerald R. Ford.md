@@ -1,7 +1,7 @@
 ---
 aliases:
   - Gerald Ford
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Politician

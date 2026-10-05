@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Victims & Witnesses"
 tags:
+  - AbuseNetworks
   - Person
 summary: "Timothy King was an 11-year-old boy identified as the fourth victim in the Oakland County Child Killer case during the mid-1970s in Michigan."
 ---

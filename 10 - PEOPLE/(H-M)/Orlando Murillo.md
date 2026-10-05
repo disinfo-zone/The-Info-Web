@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Business & Finance"
 tags:
+  - IranContra
   - Person
   - Nicaragua
   - Money_Laundering

@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - PROMIS
   - Person
 summary: "After entering the apartment and getting a brief glance at the body and the apartment, Lidell was ordered to leave."
 ---

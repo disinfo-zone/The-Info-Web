@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Political Figure"
 tags:
   - Person
   - Congress

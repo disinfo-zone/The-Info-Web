@@ -1,8 +1,9 @@
 ---
 aliases:
 - Rudolf Cordes
-category: "Psychics & Remote Viewers"
+category: "Victims & Witnesses"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Rudolf Cordes was a West German hostage who was released by terrorists in September 1988."

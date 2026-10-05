@@ -1,8 +1,9 @@
 ---
 aliases:
 - Don Eyles
-category: "Psychics & Remote Viewers"
+category: "Technologists"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Don Eyles was a computer scientist who designed the guidance system on the Antares lunar lander, part of the Apollo Program."

@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Victims & Witnesses"
 tags:
+  - KeyFigure
   - Person
   - OrlandoLetelier
   - Chile

@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - PROMIS
   - Person
   - Belgium
 summary: "Anthony Pasciuto was the Deputy Director of the Executive Office of U.S."

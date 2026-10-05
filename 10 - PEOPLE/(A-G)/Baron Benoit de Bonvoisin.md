@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Business & Finance"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Baron Benoit de Bonvoisin served as a director of Societe Generale de Banque (also referred to as 'Society General'), which was described as 'the largest financial firm in the country' (Belgium)."

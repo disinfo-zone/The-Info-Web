@@ -12,7 +12,7 @@ tags:
   - JFKAssassination
   - NewOrleans
   - 1960s
-category: "Intelligence & Government"
+category: "Law Enforcement & Legal"
 summary: "Guy Banister was a former FBI Special Agent in Charge who ran a private detective agency in New Orleans at 531 Lafayette Street - the same building whose 544 Camp Street entrance was stamped on Lee Harvey Oswald's Fair Play for Cuba Committee leaflets in summer 1963, a coincidence that placed him at the intersection of Oswald's activities and the city's anti-Castro intelligence networks."
 born: 1901-03-07
 died: 1964-06-06

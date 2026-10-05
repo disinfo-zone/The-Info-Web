@@ -13,7 +13,7 @@ tags:
   - PSI
   - 1970s
   - 1980s
-category: "Military"
+category: "Psychics & Remote Viewers"
 summary: "Army sergeant and imagery analyst, one of the six original Fort Meade viewers selected in February 1979, who returned to the unit under DIA and retired in 1990."
 born: 1946-01-01
 died: 2020-04-25

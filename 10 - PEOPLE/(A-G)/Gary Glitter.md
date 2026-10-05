@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Entertainment & Arts"
 tags:
   - Person
   - OrganizedCrime

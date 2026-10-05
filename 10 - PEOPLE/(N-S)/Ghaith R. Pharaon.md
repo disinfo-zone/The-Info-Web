@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Business & Finance"
 alias:
   - "Ghaith Pharaon"
 tags:

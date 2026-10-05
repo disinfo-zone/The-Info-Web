@@ -1,5 +1,5 @@
 ---
-category: "People"
+category: "Political Figure"
 tags:
   - Person
   - Congress
@@ -77,7 +77,7 @@ relations:
     end: 2025
     role: "lobbyist on 535 Group filings for the client listed as HudsonAlpha Institute of Biotechnology"
     fn: 3
-  - type: defendant_in
+  - type: subject_of
     with: "[[Berry v. Bailey]]"
     start: 2024-04-25
     end: 2025-09-18

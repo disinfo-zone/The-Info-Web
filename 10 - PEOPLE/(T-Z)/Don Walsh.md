@@ -1,8 +1,9 @@
 ---
 aliases:
 - Don Walsh
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Don Walsh is a renowned deep-sea explorer and former naval officer, known for achieving the deepest dive ever undertaken."

@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Organized Crime"
 tags:
+  - IranContra
   - person
   - contra-war
 summary: Michael Palmer was a Detroit drug dealer whose aviation company received U.S. government contracts for Contra supply missions despite the CIA knowing he was a narcotics trafficker.

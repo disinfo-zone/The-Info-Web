@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "UFO & Anomalous Phenomena"
 tags:
+  - KeyFigure
   - Person
   - UFO
   - Military

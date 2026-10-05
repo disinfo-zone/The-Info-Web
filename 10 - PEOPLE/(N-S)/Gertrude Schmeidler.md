@@ -2,7 +2,7 @@
 aliases:
   - Gertrude Schmeidler
   - Dr. Gertrude Schmeidler
-category: "Skeptics & Critics"
+category: "Scientists & Researchers"
 tags:
   - Person
   - Skeptic

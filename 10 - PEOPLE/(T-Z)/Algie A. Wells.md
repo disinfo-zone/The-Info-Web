@@ -1,5 +1,5 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Intelligence & Government"
 tags:
   - Person
   - Nuclear

@@ -43,7 +43,7 @@ relations:
     start: 2025-05-22
     role: "prime sponsor of A5712 (introduced May 22, 2025, District 19, Middlesex)"
     fn: 15
-  - type: signed_by
+  - type: participant_in
     with: "[[Phil Murphy]]"
     reverse: true
     start: 2026-01-12

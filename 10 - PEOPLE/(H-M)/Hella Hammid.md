@@ -12,7 +12,7 @@ tags:
   - PSI
   - 1970s
   - 1980s
-category: "Intelligence & Government"
+category: "Psychics & Remote Viewers"
 summary: "Hella Hammid was a German-American professional photographer who became one of the Stanford Research Institute's primary remote viewing subjects alongside Ingo Swann, demonstrating statistically significant results in CIA-funded experiments under Hal Puthoff and Russell Targ from 1974 onward."
 born: 1921-07-15
 died: 1992-05-01

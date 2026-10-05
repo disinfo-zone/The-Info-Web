@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Other"
 tags:
   - Person
   - CIA

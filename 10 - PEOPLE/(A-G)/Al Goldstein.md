@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Authors & Journalists"
 tags:
+  - AbuseNetworks
   - Person
   - Publisher
   - Pornography

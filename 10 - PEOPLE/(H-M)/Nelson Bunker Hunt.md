@@ -1,5 +1,5 @@
 ---
-category: "Iran-Contra"
+category: "Business & Finance"
 tags:
   - Person
   - NelsonBunkerHunt

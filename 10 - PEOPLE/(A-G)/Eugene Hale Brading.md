@@ -1,6 +1,7 @@
 ---
-category: "JFK Assassination"
+category: "Criminals & Offenders"
 tags:
+  - JFKAssassination
   - Person
   - EugeneBrading
   - JimBraden

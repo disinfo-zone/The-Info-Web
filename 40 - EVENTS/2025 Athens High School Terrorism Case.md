@@ -20,33 +20,39 @@ date: 2025-12-04
 location: "Athens, Alabama"
 summary: "Limestone County grand jury indictment of Carson Albert Butler in 2025 for terrorism, attempted murder and conspiracy, alleging conspiracy with 764, Maniac Murder Cult and No Lives Matter to target Athens High School students and staff."
 relations:
-  - type: investigated_by
+  - type: investigated
     with: "[[Athens Police Department]]"
+    reverse: true
     start: 2025-06
     role: "held in custody since June 2025 after the FBI informed Athens police of his alleged threats; police said on December 4, 2025 that a grand jury had indicted him"
     fn: 1
-  - type: investigated_by
+  - type: investigated
     with: "[[Federal Bureau of Investigation]]"
+    reverse: true
     start: 2025-06
     role: "informed Athens police in June 2025 of the alleged threats"
     fn: 1
-  - type: prosecuted_by
+  - type: prosecuted
     with: "[[Limestone County District Attorney's Office]]"
+    reverse: true
     start: 2025-11
     role: "District Attorney Brian Jones; indictment under the code section permitting anyone 16 or older to be charged as an adult"
     fn: 1
-  - type: indicted_for_conspiracy_with
+  - type: subject_of
     with: "[[764 Network]]"
+    reverse: true
     start: 2025-11
     role: "named in the indictment, as reported, as one of the extremist groups with which Butler allegedly conspired"
     fn: 1
-  - type: indicted_for_conspiracy_with
+  - type: subject_of
     with: "[[Maniac Murder Cult]]"
+    reverse: true
     start: 2025-11
     role: "named in the indictment, as reported, as MKU (Maniac Murder Cult)"
     fn: 1
-  - type: indicted_for_conspiracy_with
+  - type: subject_of
     with: "[[No Lives Matter]]"
+    reverse: true
     start: 2025-11
     role: "named in the indictment, as reported, as one of the extremist groups with which Butler allegedly conspired"
     fn: 1

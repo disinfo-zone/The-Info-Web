@@ -15,7 +15,7 @@ tags:
   - Physics
   - 1980s
   - 1990s
-category: "Intelligence & Government"
+category: "Scientists & Researchers"
 summary: "Particle physicist who succeeded Puthoff as principal investigator of the remote-viewing research at SRI in 1985, moved it to SAIC in 1991, and chose the ten experiments the 1995 AIR panel reviewed."
 location: "Palo Alto, California"
 ---

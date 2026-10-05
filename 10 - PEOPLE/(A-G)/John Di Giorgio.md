@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Victims & Witnesses"
 tags:
   - Person
 summary: "Former Austrian citizen and undercover informant working against Ben Kalka for the California DOJ, central to a massive methamphetamine reverse sting operation."

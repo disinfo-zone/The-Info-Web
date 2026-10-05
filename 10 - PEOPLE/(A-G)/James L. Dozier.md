@@ -3,8 +3,9 @@ aliases:
   - James L. Dozier
   - General Dozier
   - Brigadier General James L. Dozier
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

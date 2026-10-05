@@ -1,5 +1,5 @@
 ---
-category: "Scientists & Researchers"
+category: "Medicine & Psychology"
 tags:
   - Person
   - TimothyLeary

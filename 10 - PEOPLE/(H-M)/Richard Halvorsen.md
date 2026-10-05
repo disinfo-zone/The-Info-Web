@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Criminals & Offenders"
 aliases:
   - "Richard Halverson"
   - "Richard S. Halvorsen"

@@ -27,11 +27,6 @@ relations:
     reverse: true
     role: "co-founder and financier, per NewsNation; registered the skywatcher.ai domain in his name in December 2024, per the UAP Files writer Jimmy"
     fn: 2
-  - type: hosted
-    with: "[[All-domain Anomaly Resolution Office]]"
-    role: "NewsNation reported on April 7, 2025 that Skywatcher said it had hosted AARO representatives at its private base; no AARO statement on the visit was located"
-    start: 2025-04
-    fn: 3
   - type: subject_of
     with: "[[NewsNation]]"
     role: "NewsNation reporting by Ross Coulthart, January 2025 to August 2026"

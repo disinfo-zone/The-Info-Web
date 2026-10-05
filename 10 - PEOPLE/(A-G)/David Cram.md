@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Criminals & Offenders"
 tags:
+  - AbuseNetworks
   - Person
 summary: "David Cram was a 20-year-old employee of John Wayne Gacy's construction company, PDM, and began living with Gacy at his Norwood Park house in May 1976."
 ---

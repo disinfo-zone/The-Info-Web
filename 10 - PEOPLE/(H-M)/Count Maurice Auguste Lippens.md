@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Business & Finance"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Business & Finance"
 tags:
   - Person
 summary: "Peter Bradford was a wealthy individual who owned Adelphi Academies, a private children’s school in Florida."

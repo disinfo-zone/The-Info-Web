@@ -3,6 +3,7 @@ aliases:
 - Charlene Cavanaugh Shufelt
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Charlene Cavanaugh Shufelt was one of the five remote viewers from INSCOM who remained in the program when the DIA took over the psychoenergetics program."

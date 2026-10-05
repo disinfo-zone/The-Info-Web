@@ -2,8 +2,9 @@
 aliases:
   - Andrea Stocco
   - Dr. Andrea Stocco
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Andrea Stocco is a co-director at the Institute for Learning and Brain Sciences (I-LABS) at the University of Washington in Seattle."

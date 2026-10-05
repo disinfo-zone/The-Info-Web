@@ -3,12 +3,13 @@ created: 2026-05-15
 updated: 2026-05-15
 title: Peter Fechter
 tags:
+  - HistoricalFigure
   - Person
   - BerlinWall
   - Germany
   - ColdWar
   - GDR
-category: "Historical Figure"
+category: "Victims & Witnesses"
 summary: "Peter Fechter was an eighteen-year-old East German bricklayer who became one of the Berlin Wall's most visible victims when, on August 17, 1962, he was shot while attempting to cross at Checkpoint Charlie and left dying in the death strip for nearly an hour while Western observers, journalists, and American soldiers watched without intervening."
 born: 1944-01-14
 died: 1962-08-17

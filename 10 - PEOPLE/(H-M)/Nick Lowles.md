@@ -1,5 +1,5 @@
 ---
-category: "Extremism & Violent Networks"
+category: "Activists & Advocates"
 tags:
   - Person
   - UK

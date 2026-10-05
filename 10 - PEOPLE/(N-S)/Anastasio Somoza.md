@@ -6,8 +6,9 @@ aliases:
   - Tachito
 created: 2026-05-17
 updated: 2026-05-17
-category: "Key Figures"
+category: "Political Figure"
 tags:
+  - KeyFigure
   - Person
   - Politician
   - Nicaragua

@@ -11,7 +11,7 @@ tags:
   - BioWeapons
   - ColdWar
   - 1950s
-category: "Intelligence & Government"
+category: "Victims & Witnesses"
 summary: "Frank Olson was a CIA bacteriologist at Fort Detrick who was non-consensually dosed with LSD by Sidney Gottlieb at a November 1953 CIA retreat and died nine days later in disputed circumstances, falling from a New York hotel window that a 1994 forensic examination found was inconsistent with suicide."
 born: 1910-07-17
 died: 1953-11-28

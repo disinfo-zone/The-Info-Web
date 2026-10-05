@@ -26,48 +26,31 @@ relations:
     start: 2020-10-14
     role: "National Threat Operations Center telephone complaint alleging money laundering by Howard Lutnick via BGC Financial and Cantor Fitzgerald (Guardian 681124 NY)"
     fn: 2
-  - type: reported
-    with: "[[Howard Lutnick]]"
-    start: 2020-10-14
-    role: "allegations of fraud, money laundering and Ponzi schemes made in the FBI complaint; denied by BGC as 'categorically false'"
-    fn: 2
-  - type: named_in
+  - type: subject_of
     with: "[[Federal Bureau of Investigation]]"
     start: 2021-02-16
     role: "FD-302 (50D-NY-3027571, serial 593) of a telephone interview of February 16, 2021; the interviewee's name is redacted throughout and the surname \"ANDREISZ\" appears once, in a passage on charity-day trading"
     fn: 19
-  - type: informed
-    with: "[[House Committee on Oversight and Government Reform]]"
-    start: 2026
-    role: "gave members documents from the released Epstein files before Lutnick's May 2026 interview, according to the BBC"
-    fn: 3
-  - type: spoke_at
-    with: "[[Transparency Task Force]]"
-    start: 2026-07-21
-    role: "online event on the Financial Conduct Authority and whistleblower protection"
-    fn: 6
-  - type: litigated_against
+  - type: subject_of
     with: "[[BGC Group]]"
+    reverse: true
     start: 2019-06-19
     end: 2025-08-28
     role: "claimant in FINRA arbitrations 19-01751 (filed June 19, 2019; dismissed without prejudice August 8, 2022) and 22-02539 (award of June 17, 2024: BGC Financial, L.P. \"solely liable\" for $500,000), petitioner in the Southern District of New York (1:24-cv-07004, denied April 23, 2025) and appellant in the Second Circuit (25-1341, mandate August 28, 2025)"
     fn: 9
-  - type: litigated_against
+  - type: subject_of
     with: "[[Howard Lutnick]]"
+    reverse: true
     start: 2019-06-19
     end: 2020-06-22
     role: "named respondent in FINRA arbitration 19-01751 (Lutnick signed the submission agreement October 7, 2019; claims against him were discontinued by the amended statement of claim of June 22, 2020); named second respondent in Employment Tribunal case 3200408/2025 (claim struck out, written reasons dated August 11, 2026)"
     fn: 9
-  - type: litigated_against
+  - type: subject_of
     with: "[[JP Aubin]]"
+    reverse: true
     start: 2019-06-19
     role: "named respondent in FINRA arbitrations 19-01751 (dismissed without prejudice August 8, 2022) and 22-02539 (claims against him dismissed in their entirety, award of June 17, 2024) and third respondent in Employment Tribunal case 3200408/2025 (claim struck out, written reasons dated August 11, 2026)"
     fn: 10
-  - type: applied_to
-    with: "[[Commodity Futures Trading Commission]]"
-    start: 2020-01-22
-    role: "sworn statement requesting a whistleblower award, as quoted in BGC's brief of December 6, 2024"
-    fn: 14
 created: 2026-10-04
 updated: 2026-10-04
 ---

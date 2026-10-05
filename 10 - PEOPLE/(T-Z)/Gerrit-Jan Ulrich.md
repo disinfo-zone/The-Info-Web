@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Criminals & Offenders"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Gerrit-Jan Ulrich was a German computer technician and child trafficker who played a pivotal role in the international child pornography distribution network known as the Apollo Bulletin Board Service."

@@ -1,8 +1,9 @@
 ---
 aliases:
 - Robert O. Becker
-category: "Psychics & Remote Viewers"
+category: "Medicine & Psychology"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Soviet

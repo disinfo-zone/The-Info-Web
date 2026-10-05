@@ -30,8 +30,9 @@ alias:
 summary: "Interdealer broker and financial-technology company, successor to eSpeed and BGC Partners and controlled by Cantor Fitzgerald, whose subsidiaries paid $25 million in 2019 over foreign exchange options brokering."
 location: "New York, New York"
 relations:
-  - type: subsidiary_of
+  - type: owned
     with: "[[Cantor Fitzgerald]]"
+    reverse: true
     role: "controlled by Cantor and CFGM through BGC Class B common stock; 96.2 percent of Class B at December 31, 2025"
     start: 2008-04-01
     fn: 1
@@ -54,13 +55,13 @@ relations:
     role: "board member from February 18, 2025"
     start: 2025-02-18
     fn: 2
-  - type: owner_of
+  - type: owned
     with: "[[Newmark Group]]"
     role: "real estate services business transferred to Newmark December 13, 2017; Newmark initial public offering December 19, 2017; spin-off to BGC stockholders November 30, 2018"
     start: 2017-12-13
     end: 2018-11-30
     fn: 6
-  - type: acquired
+  - type: owned
     with: "[[GFI Group]]"
     role: "GFI merger completed January 12, 2016, after BGC's acquisition of Jersey Partners, GFI's largest shareholder"
     start: 2016-01-12

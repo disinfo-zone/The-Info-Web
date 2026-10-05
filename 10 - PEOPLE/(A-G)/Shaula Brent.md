@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Victims & Witnesses"
 tags:
+  - PROMIS
   - Person
 summary: "Brent and her friend, Barbara Locke, who also worked at the hospital, were suspicious about Sinclair's hospital records."
 ---

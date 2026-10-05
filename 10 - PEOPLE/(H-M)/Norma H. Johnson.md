@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - PROMIS
   - Person
 summary: "Judge Johnson became a central figure in the allegations surrounding Judge Bason's non-reappointment."
 ---

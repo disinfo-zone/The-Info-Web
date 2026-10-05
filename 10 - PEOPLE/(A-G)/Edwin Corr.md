@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Intelligence & Government"
 tags:
+  - IranContra
   - person
   - u.s.-government
   - contra-war

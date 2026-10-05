@@ -16,48 +16,50 @@ alias:
 location: "Redstone Arsenal, Alabama"
 summary: "Defense Intelligence Agency element at Redstone Arsenal whose 2025 briefing traces it to the Army Ballistic Missile Agency in 1956, which analyzes and exploits foreign weapon systems with contractor support."
 relations:
-  - type: subsidiary_of
+  - type: owned
     with: "[[Defense Intelligence Agency]]"
+    reverse: true
     start: 1992
     role: "transferred to the Defense Intelligence Agency in 1992"
     fn: 1
-  - type: subsidiary_of
+  - type: owned
     with: "[[Army Intelligence Agency]]"
+    reverse: true
     start: 1985
     end: 1992
     role: "intelligence community element of the Army Intelligence Agency from 1985"
     fn: 1
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Dynetics]]"
     start: 2015-01
     role: "$172 million support contract reported January 26, 2015 (work expected complete January 25, 2020); HHM402-19-D-0023, $737,992,267 ceiling, reported November 6, 2019"
     fn: 16
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Parsons Government Services]]"
     start: 2018-05
     role: "HHM402-18-D-0004, $164,693,682 ceiling; Parsons Corporation 2026 position on COMET announced August 25, 2026"
     fn: 3
-  - type: contracted_with
+  - type: contractor_to
     with: "[[COLSA Corp.]]"
     start: 2016-09-28
     role: "potential five-year, $103 million scientific computing contract announced September 28, 2016"
     fn: 17
-  - type: contracted_with
+  - type: contractor_to
     with: "[[COLSA Corp.]]"
     start: 2021-09-28
     role: "Scientific Computing Operations, Analysis, and Applications contract HHM402-21-D-0151; total contract ceiling value stated as $217,439,429.92 in the justification dated August 31, 2023"
     fn: 22
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Science Applications International Corporation]]"
     start: 2026-08-31
     role: "position on COMET stated in Form 8-K exhibit of August 31, 2026"
     fn: 9
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Integration Innovation]]"
     start: 2026-09-08
     role: "announced Small Business position on COMET"
     fn: 11
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Intuitive Research and Technology Corporation]]"
     start: 2026-09-17
     role: "announced prime position on COMET"

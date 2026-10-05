@@ -1,5 +1,5 @@
 ---
-category: "AI & Effective Altruism"
+category: "Intelligence & Government"
 tags:
   - Person
   - IntelligenceCommunity

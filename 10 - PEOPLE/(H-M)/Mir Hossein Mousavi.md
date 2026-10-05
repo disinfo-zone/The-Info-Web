@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Psychics & Remote Viewers"
 tags:
   - Person
   - CIA

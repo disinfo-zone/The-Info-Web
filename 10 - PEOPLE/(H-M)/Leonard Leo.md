@@ -1,5 +1,5 @@
 ---
-category: "Political Figure"
+category: "Activists & Advocates"
 tags:
   - Person
   - LeonardLeo

@@ -2,8 +2,9 @@
 aliases:
   - John Marsh
   - Secretary of the Army John Marsh
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

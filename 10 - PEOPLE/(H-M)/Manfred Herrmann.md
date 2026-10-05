@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Arms Dealers & Brokers"
 tags:
+  - IranContra
   - Person
 summary: "Herrmann was recruited to represent Ora, an Israeli arms-running company, in Guatemala."
 ---

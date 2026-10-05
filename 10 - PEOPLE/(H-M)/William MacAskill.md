@@ -1,5 +1,5 @@
 ---
-category: "AI & Effective Altruism"
+category: "Activists & Advocates"
 tags:
   - Person
   - EffectiveAltruism

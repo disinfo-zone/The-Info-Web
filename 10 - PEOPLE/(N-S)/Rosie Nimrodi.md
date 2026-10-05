@@ -1,5 +1,5 @@
 ---
-category: "Authors & Journalists"
+category: "Other"
 tags:
   - Person
   - Journalist

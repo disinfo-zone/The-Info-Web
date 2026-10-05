@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Activists & Advocates"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Gina Pardaens-Bernaer was a Belgian activist and member of the Morkhoven Workgroup who played a crucial role in exposing international child trafficking networks in the 1990s."

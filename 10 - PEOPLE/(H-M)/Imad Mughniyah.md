@@ -1,8 +1,9 @@
 ---
 aliases:
 - Imad Mughniyah
-category: "Psychics & Remote Viewers"
+category: "Extremism & Violent Networks"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Imad Mughniyah (1962–2008) was a prominent leader of Hezbollah's terrorist operations."

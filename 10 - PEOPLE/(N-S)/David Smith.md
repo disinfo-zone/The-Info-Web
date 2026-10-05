@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Criminals & Offenders"
 tags:
+  - AbuseNetworks
   - Person
 summary: "David Smith was a former BBC chauffeur and convicted pedophile with 22 prior convictions against young boys, the earliest of which dated back to 1966."
 ---

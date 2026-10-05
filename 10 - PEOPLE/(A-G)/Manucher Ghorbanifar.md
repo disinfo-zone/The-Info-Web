@@ -1,8 +1,9 @@
 ---
-category: "Iran-Contra"
+category: "Arms Dealers & Brokers"
 created: 2024-04-25
 updated: 2026-05-01
 tags:
+  - IranContra
   - Person
   - Iran-Contra
   - October Surprise

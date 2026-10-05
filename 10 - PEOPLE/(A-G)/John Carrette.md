@@ -1,5 +1,5 @@
 ---
-category: "Military"
+category: "Religious Figures"
 tags:
   - Person
   - Military

@@ -1,5 +1,5 @@
 ---
-category: "Crime Investigation"
+category: "Law Enforcement & Legal"
 tags:
   - Person
 summary: "During the process of opening a grand jury investigation into the mob's involvement in the motion picture industry, St."

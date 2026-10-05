@@ -6,12 +6,13 @@ aliases:
   - Jacob Leon Rubenstein
   - Jack Rubenstein
 tags:
+  - HistoricalFigure
   - Person
   - JFKAssassination
   - OrganizedCrime
   - Dallas
   - 1960s
-category: "Historical Figure"
+category: "Criminals & Offenders"
 summary: "Jack Ruby (born Jacob Rubenstein) was a Dallas strip club owner with organized crime connections who shot and killed Lee Harvey Oswald in the basement of Dallas Police headquarters on November 24, 1963 in front of live television cameras, was convicted of murder but died of cancer in January 1967 before retrial, and whose pre-assassination contacts with mob figures remained a focus of the HSCA's conspiracy investigation."
 born: 1911-03-25
 died: 1967-01-03

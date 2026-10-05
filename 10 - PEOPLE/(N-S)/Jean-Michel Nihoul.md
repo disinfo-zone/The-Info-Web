@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Criminals & Offenders"
 tags:
+  - KeyFigure
   - Person
   - Belgium
   - Dutroux

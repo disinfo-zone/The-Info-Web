@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Political Figure"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

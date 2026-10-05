@@ -8,13 +8,14 @@ aliases:
   - Dr. King
   - Reverend King
 tags:
+  - HistoricalFigure
   - Person
   - CivilRights
   - FBI
   - COINTELPRO
   - Assassination
   - 1960s
-category: "Historical Figure"
+category: "Activists & Advocates"
 summary: "Civil rights leader who led the Montgomery Bus Boycott and the 1963 March on Washington, won the 1964 Nobel Peace Prize, was targeted by FBI COINTELPRO, and was assassinated in Memphis in 1968."
 born: 1929-01-15
 died: 1968-04-04

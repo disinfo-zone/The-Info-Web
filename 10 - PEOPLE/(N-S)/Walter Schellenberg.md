@@ -2,8 +2,9 @@
 aliases:
   - Walter Schellenberg
   - SS-Brigadeführer Walter Schellenberg
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Walter Schellenberg (1910–1952) was an SS-Brigadeführer and the head of foreign intelligence for Nazi Germany during World War II."

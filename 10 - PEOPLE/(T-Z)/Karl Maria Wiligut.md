@@ -2,8 +2,9 @@
 aliases:
   - Karl Maria Wiligut
   - Wiligut
-category: "World War II & Nazi Era"
+category: "Occult & Esoteric"
 tags:
+  - WorldWarII
   - Person
   - WW2
   - Nazi

@@ -4,7 +4,7 @@ aliases:
   - Stalin
   - Iosif Vissarionovich Stalin
   - Ioseb Jughashvili
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Soviet

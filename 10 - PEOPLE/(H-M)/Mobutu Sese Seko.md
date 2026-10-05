@@ -12,7 +12,7 @@ tags:
   - Africa
   - ColdWar
   - Dictator
-category: "Intelligence & Government"
+category: "Political Figure"
 summary: "Mobutu Sese Seko was the CIA-installed dictator of the Congo (renamed Zaire in 1971) from 1965 to 1997, whose seizure of power was facilitated by CIA station chief Larry Devlin in 1960, who received enormous U.S. Cold War support as an anti-communist anchor in Central Africa while extracting an estimated $4-5 billion from his country, and who served as the base for CIA Angola operations in the 1970s and 1980s."
 born: 1930-10-14
 died: 1997-09-07

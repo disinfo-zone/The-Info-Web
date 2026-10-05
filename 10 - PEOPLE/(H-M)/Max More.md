@@ -1,6 +1,7 @@
 ---
-category: "AI & Effective Altruism"
+category: "Scientists & Researchers"
 tags:
+  - EffectiveAltruism
   - Person
   - MaxMore
   - Extropianism

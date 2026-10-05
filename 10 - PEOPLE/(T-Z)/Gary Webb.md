@@ -5,8 +5,9 @@ aliases:
   - Gary Stephen Webb
 created: 2024-04-25
 updated: 2026-09-22
-category: "Key Figures"
+category: "Authors & Journalists"
 tags:
+  - KeyFigure
   - Person
   - Journalist
   - UnitedStates

@@ -1,6 +1,7 @@
 ---
-category: "Historical Figure"
+category: "Religious Figures"
 tags:
+  - HistoricalFigure
   - Person
   - CIA
   - BehavioralControl

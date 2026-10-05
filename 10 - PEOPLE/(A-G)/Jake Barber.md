@@ -1,6 +1,7 @@
 ---
 category: "UFO & Anomalous Phenomena"
 tags:
+  - UFO
   - Person
   - UAP
   - Whistleblower
@@ -29,11 +30,6 @@ relations:
     role: "NewsNation reported on February 24, 2025 that the department confirmed it was investigating his claims"
     start: 2025-02-24
     fn: 3
-  - type: briefed
-    with: "[[Marco Rubio]]"
-    role: "NewsNation reported it confirmed that Barber met staffers for Senator Rubio in fall 2024"
-    start: 2024-09
-    fn: 1
 created: 2026-10-03
 updated: 2026-10-03
 ---

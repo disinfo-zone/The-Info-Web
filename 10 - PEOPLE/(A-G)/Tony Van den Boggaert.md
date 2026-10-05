@@ -1,8 +1,9 @@
 ---
-category: "Belgium Scandals"
+category: "Criminals & Offenders"
 aliases:
   - "Tony Van den Bogaert"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

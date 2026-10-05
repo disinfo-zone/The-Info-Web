@@ -1,6 +1,7 @@
 ---
-category: "New Right"
+category: "Business & Finance"
 tags:
+  - NewRight
   - Person
   - BlakeMasters
   - PeterThiel

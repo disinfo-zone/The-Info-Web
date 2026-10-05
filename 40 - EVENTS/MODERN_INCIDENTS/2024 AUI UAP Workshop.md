@@ -35,14 +35,14 @@ relations:
     end: 2025-08-06
     role: "named as sponsor of the August 5-6, 2025 workshop (document 26-P-0344)"
     fn: 2
-  - type: hosted
+  - type: participant_in
     with: "[[Associated Universities, Inc.]]"
     reverse: true
     start: 2024-05-15
     end: 2024-05-17
     role: "venue given on the cover of the executive summary as its Vienna, Virginia headquarters"
     fn: 5
-  - type: organized
+  - type: participant_in
     with: "[[Tim Spuck]]"
     reverse: true
     start: 2024-05-15

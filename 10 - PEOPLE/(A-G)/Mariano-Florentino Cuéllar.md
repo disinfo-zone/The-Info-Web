@@ -1,6 +1,7 @@
 ---
-category: "AI & Effective Altruism"
+category: "Law Enforcement & Legal"
 tags:
+  - EffectiveAltruism
   - Person
   - Anthropic
   - CarnegieEndowment

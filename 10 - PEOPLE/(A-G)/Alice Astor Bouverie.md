@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Philanthropists & Benefactors"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Alice Astor Bouverie was an American heiress, philanthropist, and the only daughter of John Jacob Astor IV, who died in the sinking of the RMS Titanic."

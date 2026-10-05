@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Political Figure"
 tags:
   - Person
   - PROMIS

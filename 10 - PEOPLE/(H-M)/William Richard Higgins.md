@@ -3,7 +3,7 @@ aliases:
   - William Richard Higgins
   - Colonel Higgins
   - Rich Higgins
-category: "Intelligence & Government"
+category: "Military"
 tags:
   - Person
   - Hostage

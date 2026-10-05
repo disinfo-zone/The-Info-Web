@@ -1,5 +1,5 @@
 ---
-category: "Business & Finance"
+category: "Other"
 tags:
   - Person
   - FraniaTyeLee

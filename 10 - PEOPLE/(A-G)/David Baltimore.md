@@ -1,8 +1,9 @@
 ---
 aliases:
 - David Baltimore
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "David Baltimore is a Nobel Prize-winning biologist."

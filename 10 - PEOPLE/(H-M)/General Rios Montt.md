@@ -1,5 +1,5 @@
 ---
-category: "Military"
+category: "Political Figure"
 tags:
   - Person
   - Military

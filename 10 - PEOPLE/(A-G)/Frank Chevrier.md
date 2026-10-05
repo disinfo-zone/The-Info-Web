@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Business & Finance"
 tags:
   - Person
 summary: "After Chevrier's fortunes changed and FXC International became a significant company, the CIA approached him with the idea of opening an aircraft division."

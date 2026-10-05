@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Business & Finance"
 tags:
+  - AbuseNetworks
   - Person
   - DavidSternBusinessAdviser
   - PrinceAndrew
@@ -12,7 +13,7 @@ alias:
   - David Stern, business adviser to the Duke of York
 summary: "Business adviser to Prince Andrew, described by the BBC as \"the prince's business aide,\" director of the English company Witan Limited (formerly Asia Gateway Limited) and a correspondent of Jeffrey Epstein, 2011 to 2013."
 relations:
-  - type: advisor_to
+  - type: contractor_to
     with: "[[Prince Andrew]]"
     role: "business adviser to the Duke of York; appointment paperwork circulated by the Duke's private secretary on March 18, 2011"
     start: 2011-03-18
@@ -23,13 +24,14 @@ relations:
     start: 2005-10-01
     end: 2019-10-08
     fn: 1
-  - type: advised_by
+  - type: contractor_to
     with: "[[Jeffrey Epstein]]"
+    reverse: true
     role: "consulted Epstein on the Duke's meetings, travel and business proposals, and on his own plan to join JPMorgan Chase, 2011 to 2013"
     start: 2011-01-12
     end: 2013-11-16
     fn: 3
-  - type: named_in
+  - type: subject_of
     with: "[[Urramoor Limited]]"
     role: "named in a joinder line of the unsigned November 2013 draft Agreement for Referrals between Cantor Opportunities, LLC and Urramoor Limited"
     start: 2013-11

@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Occult & Esoteric"
 tags:
   - Person
   - Psilocybin

@@ -6,12 +6,13 @@ aliases:
   - James Garrison
   - Earling Carothers Garrison
 tags:
+  - HistoricalFigure
   - Person
   - JFKAssassination
   - NewOrleans
   - CIA
   - 1960s
-category: "Historical Figure"
+category: "Law Enforcement & Legal"
 summary: "Jim Garrison was the New Orleans District Attorney who launched the only criminal prosecution related to the Kennedy assassination, arresting businessman Clay Shaw in 1967 on conspiracy charges, losing the case in 1969 after what he argued was active CIA obstruction, and becoming the basis for Oliver Stone's 1991 film JFK."
 born: 1921-11-20
 died: 1992-10-21

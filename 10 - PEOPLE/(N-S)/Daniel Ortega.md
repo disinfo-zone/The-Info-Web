@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Political Figure"
 tags:
+  - IranContra
   - person
   - nicaraguan
   - contra-war

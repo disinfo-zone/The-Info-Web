@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Extremism & Violent Networks"
 tags:
+  - KeyFigure
   - Person
   - NeoNazi
   - SiegeCulture

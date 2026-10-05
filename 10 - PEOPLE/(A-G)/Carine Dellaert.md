@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Victims & Witnesses"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Carine Dellaert was a Belgian woman whose 1983 death was investigated as part of the X-Dossier."

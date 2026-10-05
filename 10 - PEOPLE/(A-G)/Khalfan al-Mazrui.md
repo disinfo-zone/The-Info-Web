@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Other"
 tags:
   - Person
   - BCCI

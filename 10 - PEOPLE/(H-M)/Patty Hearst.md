@@ -4,7 +4,7 @@ updated: 2026-06-12
 title: Patty Hearst
 aliases:
   - Patricia Campbell Hearst
-category: "Extremism & Violent Networks"
+category: "Victims & Witnesses"
 tags:
   - Person
   - SLA

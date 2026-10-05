@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Technologists"
 tags:
   - Person
   - GregoryMcKain

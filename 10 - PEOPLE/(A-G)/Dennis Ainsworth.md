@@ -4,7 +4,7 @@ aliases:
   - Dennis Ainsworth
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Activists & Advocates"
 tags:
   - Person
   - UnitedStates

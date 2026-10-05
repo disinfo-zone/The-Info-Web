@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Intelligence & Government"
 tags:
   - Person
   - BCCI

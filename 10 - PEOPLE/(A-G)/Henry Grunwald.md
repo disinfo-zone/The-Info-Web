@@ -1,5 +1,5 @@
 ---
-category: "Iran-Contra"
+category: "Authors & Journalists"
 tags:
   - Person
   - IranContra

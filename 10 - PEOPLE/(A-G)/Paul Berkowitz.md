@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Victims & Witnesses"
 tags:
   - Person
 summary: "Park ranger who testified before Congress about drug distribution by Curry Company officials in Yosemite National Park."

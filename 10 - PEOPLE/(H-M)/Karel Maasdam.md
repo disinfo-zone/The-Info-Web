@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Criminals & Offenders"
 tags:
+  - AbuseNetworks
   - Person
   - Netherlands
   - PedophileNetwork

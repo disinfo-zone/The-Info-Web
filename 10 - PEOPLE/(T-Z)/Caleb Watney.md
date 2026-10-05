@@ -1,6 +1,7 @@
 ---
-category: "AI & Effective Altruism"
+category: "Activists & Advocates"
 tags:
+  - EffectiveAltruism
   - Person
   - InstituteForProgress
   - OpenPhilanthropy

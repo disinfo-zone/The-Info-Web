@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - PROMIS
   - Person
 summary: "Paige confronted Ron Van Meter after Van Meter reported drug dealing and corruption within the Mariposa Sheriff's Department to the Attorney General's office in Sacramento."
 ---

@@ -4,7 +4,7 @@ aliases:
   - Paul Bonacci
 created: 2026-05-17
 updated: 2026-05-17
-category: "Crime Investigation"
+category: "Victims & Witnesses"
 tags:
   - Person
   - Nebraska

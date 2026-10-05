@@ -1,5 +1,5 @@
 ---
-category: "New Right"
+category: "Political Figure"
 tags:
   - Person
   - ThomasEllis

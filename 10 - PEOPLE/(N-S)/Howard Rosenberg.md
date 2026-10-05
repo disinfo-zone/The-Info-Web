@@ -1,8 +1,9 @@
 ---
 aliases:
 - Howard Rosenberg
-category: "Psychics & Remote Viewers"
+category: "Authors & Journalists"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

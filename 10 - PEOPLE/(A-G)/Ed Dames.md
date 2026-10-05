@@ -6,7 +6,7 @@ aliases:
   - Ed Dames
   - Edward Dames
   - Major Ed Dames
-category: "Military"
+category: "Psychics & Remote Viewers"
 tags:
   - Person
   - RemoteViewer

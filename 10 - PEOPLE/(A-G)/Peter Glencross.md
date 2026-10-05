@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Business & Finance"
 tags:
   - Person
 summary: "Peter Glencross served as the commercial agent and commercial manager for Spartacus International, which was operated by John Stamford from Amsterdam."

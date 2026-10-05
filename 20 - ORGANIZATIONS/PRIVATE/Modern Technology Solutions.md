@@ -60,7 +60,7 @@ relations:
     start: 2026-09-02
     role: "announced position on the Defense Intelligence Agency's Contract Operations for Missile Evaluation and Testing (COMET) vehicle"
     fn: 14
-  - type: contracted_with
+  - type: contractor_to
     with: "[[General Services Administration]]"
     start: 2026-09-08
     role: "order 47QFSA26F0035 (MES III) under OASIS+ contract 47QRCA25DU655, description citing the ESOP pilot authority of sections 874 and 872"
@@ -70,12 +70,12 @@ relations:
     start: 2017-10-30
     role: "prime on contracts HQ014718C0003 (signed October 30, 2017) and HQ086020C0006 (signed September 17, 2020)"
     fn: 15
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Leidos]]"
     start: 2025-04-09
     role: "prime on NOVASTAR order FA860425FB121, with a subaward to Leidos, Inc. of $9,696,280.59 reported April 9, 2025; five Leidos subaward rows totaling $29,404,516.34 across NOVASTAR orders"
     fn: 12
-  - type: contracted_with
+  - type: contractor_to
     with: "[[HII Mission Technologies]]"
     start: 2018-02-15
     role: "subawardee ('TECHNICAL SERVICES', subaward DSC3105-B) under General Services Administration award GS05T13BMC0003, 'Foreign Materiel Exploitation Engineering and Maintenance Support' funded by the National Air and Space Intelligence Center"

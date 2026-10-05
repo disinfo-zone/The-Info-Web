@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Military"
 tags:
   - Person
 summary: "Lieutenant Colonel in Israeli Military Intelligence who commanded Unit 8206's code-breaking department and recruited Ari Ben-Menashe."

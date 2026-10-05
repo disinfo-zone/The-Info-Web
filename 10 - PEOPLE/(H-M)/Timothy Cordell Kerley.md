@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Victims & Witnesses"
 tags:
+  - AbuseNetworks
   - Person
 summary: "Timothy Cordell Kerley was a 20-year-old resident of the Pasadena, Texas, area in 1973."
 ---

@@ -2,8 +2,9 @@
 aliases:
   - William Xenakis
   - Lieutenant Colonel William Xenakis
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "William Xenakis was a Lieutenant Colonel who commanded Detachment G, the Remote Viewing unit at Fort Meade."

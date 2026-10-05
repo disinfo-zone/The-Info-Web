@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Royalty & Aristocracy"
 tags:
+  - AbuseNetworks
   - Person
   - PrinceAndrew
   - JeffreyEpstein
@@ -43,26 +44,18 @@ relations:
     start: 2013-08-29
     role: 'the "PA" of the August 29, 2013 Cantor Fitzgerald term sheet "from Howard to PA" for a joint venture, Cantor Urramoor Asset Management (preliminary draft), and of a November 2013 draft referral agreement (unsigned); the BBC reported on July 14, 2026 that the deal "came to nothing"'
     fn: 16
-  - type: advised_by
+  - type: contractor_to
     with: "[[David Stern (business adviser)]]"
+    reverse: true
     start: 2013-07-10
     role: "described by the BBC (July 14, 2026) as \"the prince's business aide\"; sender of the July 10, 2013 note \"Just met him with PA\" and of the September 2, 2013 exchange on the Cantor term sheet"
     fn: 18
-  - type: advised_by
+  - type: contractor_to
     with: "[[Witan Limited]]"
+    reverse: true
     start: 2011-02-28
     role: 'David Stern wrote to Epstein on February 28, 2011 that "PA likes it" of the new name for his UK company; the company, formerly Asia Gateway Limited, was renamed Witan Limited on August 16, 2012'
     fn: 5
-  - type: visited
-    with: "[[Andreessen Horowitz]]"
-    start: 2013-06-26
-    role: 'lunch hosted by Steven Sinofsky; the Duke''s private secretary wrote on June 28, 2013 that "The Duke was fascinated by the Andressen Horowitz model"'
-    fn: 9
-  - type: declined_board_seat_of
-    with: "[[Knowledge Crossing]]"
-    start: 2013-07-26
-    role: 'wrote to Gary Winnick that he had "been advised that I should not take up the position on the board" while offering to "continue to help"'
-    fn: 11
 ---
 
 Andrew Mountbatten-Windsor (born February 19, 1960) is the second son of [[Elizabeth II|Queen Elizabeth II]] and [[Prince Philip|Prince Philip]]. He served in the Royal Navy, including during the 1982 Falklands War, and held the title Duke of York from his 1986 marriage to [[Sarah Ferguson|Sarah Ferguson]]. His association with [[Jeffrey Epstein|Jeffrey Epstein]] and [[Ghislaine Maxwell|Ghislaine Maxwell]] became the subject of sustained press coverage, a 2019 [[BBC|BBC]] interview, a 2021 civil lawsuit brought by [[Virginia Giuffre|Virginia Giuffre]], and a 2022 settlement. In late 2025 King [[Charles III|Charles III]] initiated the removal of Andrew's royal style and titles, after which he is known as Andrew Mountbatten-Windsor. Andrew has consistently denied Giuffre's allegations.[^1][^2]

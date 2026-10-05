@@ -17,26 +17,17 @@ alias:
 summary: "English private limited company no. 08424933, incorporated February 28, 2013 and dissolved April 1, 2025, named in a 2013 Cantor Fitzgerald term sheet and listing \"Hrh Andrew Inverness\" among its persons with significant control."
 location: "London, United Kingdom"
 relations:
-  - type: person_with_significant_control
+  - type: owned
     with: "[[Prince Andrew]]"
+    reverse: true
     start: 2016-04-06
     role: 'listed on the Companies House register of persons with significant control as "Hrh Andrew Inverness," notified April 6, 2016, nature of control "Has significant influence or control over the trustees of a trust"'
     fn: 3
-  - type: negotiated_with
+  - type: partner_of
     with: "[[Cantor Fitzgerald]]"
     start: 2013-08-29
-    role: 'named as the second partner in the August 29, 2013 term sheet for a joint venture to be known as Cantor Urramoor Asset Management (preliminary draft; "not a commitment to form the Company")'
+    role: 'named as the second partner in the August 29, 2013 preliminary term sheet for Cantor Urramoor Asset Management ("not a commitment to form the Company")'
     fn: 5
-  - type: negotiated_with
-    with: "[[Cantor Opportunities]]"
-    start: 2013-11
-    role: 'party "Urramoor Limited" ("UML") to a draft "Agreement for Referrals" dated "as of the day of November, 2013," with blank signature blocks'
-    fn: 8
-  - type: negotiated_with
-    with: "[[Cantor Fitzgerald]]"
-    start: 2013-11-14
-    role: 'draft agreement with the file name "LEGAL-#67891-v1-UML_Cantor_agreement_re_asset_management.docx," sent November 14, 2013 by a Cantor Fitzgerald managing director and deputy general counsel in a message addressed "David," which David Stern forwarded to Jeffrey Epstein at 7:36 PM'
-    fn: 9
   - type: subject_of
     with: "[[BBC]]"
     start: 2026-07-14

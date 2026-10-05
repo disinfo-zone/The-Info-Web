@@ -10,7 +10,7 @@ tags:
   - Terrorism
   - RedArmyFaction
   - 1970s
-category: "Political Figure"
+category: "Extremism & Violent Networks"
 summary: "Gudrun Ensslin was a co-founder of the Red Army Faction and the romantic partner of Andreas Baader who provided much of the ideological seriousness of the group's founding generation, was convicted at Stammheim, and was found dead by hanging in her cell on October 18, 1977 on the same night as Baader and Jan-Carl Raspe."
 born: 1940-08-15
 died: 1977-10-18

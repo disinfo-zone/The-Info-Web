@@ -14,7 +14,7 @@ alias:
   - Argent Financial Group, Inc.
 summary: "Trustee of the Radiance Technologies employee stock ownership trust under an agreement dated September 5, 2017, and a defendant, with Argent Financial Group and Stephen A. Martin, in Berry v. Bailey."
 relations:
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Radiance Technologies]]"
     start: 2017-09-05
     role: "successor trustee of the Radiance Technologies, Inc. Employee Stock Ownership Trust under a trust agreement dated September 5, 2017"
@@ -25,7 +25,7 @@ relations:
     start: 2017-09-05
     role: "Senior Vice President; signed the trust agreement for Argent Trust Company; pleaded in Berry v. Bailey as Senior Vice President and Senior Fiduciary Consultant of Argent Financial and Argent Trust"
     fn: 2
-  - type: defendant_in
+  - type: subject_of
     with: "[[Berry v. Bailey]]"
     start: 2024-04-25
     end: 2025-09-18

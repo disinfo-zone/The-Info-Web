@@ -1,8 +1,9 @@
 ---
-category: "Key Figures"
+category: "Business & Finance"
 created: 2024-04-25
 updated: 2026-09-23
 tags:
+  - KeyFigure
   - Person
   - BCCI
 summary: "Agha Hasan Abedi was a Pakistani financier who founded the BCCI in 1972, with the intention of creating the Third World's first multinational bank."

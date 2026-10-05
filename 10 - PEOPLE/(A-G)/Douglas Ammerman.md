@@ -7,7 +7,7 @@ aliases:
   - Earnest Angel
 created: 2026-05-17
 updated: 2026-05-17
-category: "Crime Investigation"
+category: "Criminals & Offenders"
 tags:
   - Person
   - TheFinders

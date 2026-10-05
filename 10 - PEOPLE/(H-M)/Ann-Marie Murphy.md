@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Victims & Witnesses"
 tags:
   - Person
 summary: "Ann-Marie Murphy was the Irish girlfriend of Nezar Hindawi."

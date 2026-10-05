@@ -1,8 +1,9 @@
 ---
-category: "Belgium Scandals"
+category: "Religious Figures"
 aliases:
   - "Joseph Doucé"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - France

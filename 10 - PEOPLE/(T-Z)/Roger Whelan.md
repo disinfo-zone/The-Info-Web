@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - PROMIS
   - Person
 summary: "Roger Whelan was the bankruptcy judge who preceded Judge Bason in the District of Columbia."
 ---

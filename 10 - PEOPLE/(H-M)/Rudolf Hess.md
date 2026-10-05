@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Political Figure"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Rudolf Hess was a prominent figure in Nazi Germany, serving as Adolf Hitler's deputy."

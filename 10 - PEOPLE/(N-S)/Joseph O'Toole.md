@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Arms Dealers & Brokers"
 tags:
+  - IranContra
   - Person
 summary: "In April 1989, O'Toole was involved in a deal to sell three C-130s to Tehran, working with Richard St."
 ---

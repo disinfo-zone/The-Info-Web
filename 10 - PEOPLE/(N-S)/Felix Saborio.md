@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Medicine & Psychology"
 tags:
+  - IranContra
   - Person
   - Contra_War
   - 1980s

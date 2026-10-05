@@ -3,6 +3,7 @@ aliases:
 - Al Girard
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Al Girard was the replacement for Dale Graff as the head of the Remote Viewing unit after Graff's retirement in June 1993."

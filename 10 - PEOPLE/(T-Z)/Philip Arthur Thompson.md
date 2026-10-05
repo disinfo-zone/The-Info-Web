@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Other"
 tags:
   - Person
   - OrganizedCrime

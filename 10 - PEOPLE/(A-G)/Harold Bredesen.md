@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Religious Figures"
 tags:
   - Person
   - PROMIS

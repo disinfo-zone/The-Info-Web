@@ -5,7 +5,7 @@ aliases:
   - Ian Lancaster Fleming
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Entertainment & Arts"
 tags:
   - Person
   - BritishSecurityCoordination

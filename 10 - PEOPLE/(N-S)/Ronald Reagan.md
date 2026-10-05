@@ -5,8 +5,9 @@ aliases:
   - Ronald Wilson Reagan
 created: 2024-04-25
 updated: 2026-05-17
-category: "Key Figures"
+category: "Political Figure"
 tags:
+  - KeyFigure
   - Person
   - Politician
   - DarkAllianceInvestigation

@@ -1,8 +1,9 @@
 ---
 aliases:
 - Jeannie Betters
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Jeannie Betters was the unit secretary for the DIA's Remote Viewing program at Fort Meade."

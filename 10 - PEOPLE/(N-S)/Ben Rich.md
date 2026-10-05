@@ -1,5 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
+category: "Scientists & Researchers"
 tags:
   - Person
   - Engineer

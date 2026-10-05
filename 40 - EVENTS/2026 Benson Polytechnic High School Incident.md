@@ -21,36 +21,36 @@ date: 2026-09-08
 location: "Portland, Oregon"
 summary: "A 15-year-old student mixed chemicals in the Benson Polytechnic High School cafeteria on September 8, 2026; charged October 2 with 19 counts including domestic terrorism, with a prosecutor citing FBI-found references to 764."
 relations:
-  - type: investigated_by
+  - type: investigated
     with: "[[Portland Police Bureau]]"
+    reverse: true
     start: 2026-09-08
     role: "case number 26-262949; detectives, with the Multnomah County District Attorney's Office, interviewed witnesses, reviewed surveillance footage and social media accounts, executed search warrants and seized electronic devices"
     fn: 1
-  - type: prosecuted_by
+  - type: prosecuted
     with: "[[Multnomah County District Attorney's Office]]"
+    reverse: true
     start: 2026-10-02
     role: "juvenile petition of 19 counts; Deputy District Attorney Eric Zimmerman argued at the initial appearance; District Attorney Nathan Vasquez stated the office would seek to try the defendant as an adult"
     fn: 2
-  - type: investigated_by
+  - type: investigated
     with: "[[Federal Bureau of Investigation]]"
+    reverse: true
     start: 2026-10-02
     role: "described by Zimmerman in court as reviewing seized papers, hard drives and computers, including what he called extensive references to 764; review described as ongoing"
     fn: 6
-  - type: responded_to_by
+  - type: participant_in
     with: "[[Portland Fire & Rescue]]"
+    reverse: true
     start: 2026-09-08
     role: "first responders; evacuation and triage of students and staff on the athletic fields; hazardous materials crew neutralized the spilled mixture"
     fn: 3
-  - type: responded_to_by
+  - type: participant_in
     with: "[[Metropolitan Explosive Disposal Unit]]"
+    reverse: true
     start: 2026-09-08
     role: "examined the materials; supervisor Jim DeFrain gave remarks at the September 9 press conference; samples collected and sent to Salem for testing"
     fn: 4
-  - type: referenced_in
-    with: "[[764 Network]]"
-    start: 2026-10-02
-    role: "references to 764 stated by Zimmerman in open court; the Portland Police Bureau release listing the charges does not mention 764"
-    fn: 6
 created: 2026-10-04
 updated: 2026-10-04
 ---

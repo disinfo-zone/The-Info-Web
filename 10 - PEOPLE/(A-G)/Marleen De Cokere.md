@@ -1,8 +1,9 @@
 ---
 aliases:
   - "Marleen De Cockere"
-category: "Belgium Scandals"
+category: "Criminals & Offenders"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

@@ -1,6 +1,7 @@
 ---
-category: "New Right"
+category: "Political Figure"
 tags:
+  - NewRight
   - Person
   - JesseHelms
   - UnitedStatesSenate

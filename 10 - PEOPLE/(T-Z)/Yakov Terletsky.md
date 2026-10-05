@@ -1,8 +1,9 @@
 ---
 aliases:
 - Yakov Terletsky
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Soviet

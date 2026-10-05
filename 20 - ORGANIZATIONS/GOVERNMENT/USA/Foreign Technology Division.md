@@ -45,49 +45,49 @@ relations:
     start: 1951-12
     role: "scientific support contract for UFO reports under the Air Technical Intelligence Center (Project Bear, Project Stork)"
     fn: 5
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Altamira Technologies]]"
     reverse: true
     start: 2014-10-03
     role: "ATEP II contract FA860415D7977 (ceiling $2,200,000,000) and NOVASTAR contract FA860422DB005 (28 listed orders, $159,269,313 obligated as of October 4, 2026)"
     fn: 14
-  - type: contracted_with
+  - type: contractor_to
     with: "[[KBR Wyle Services]]"
     reverse: true
     start: 2014-10-03
     role: "ATEP II contract FA860415D7975 (ceiling $1,240,000,000; 149 orders, $285,894,298)"
     fn: 14
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Epsilon C5I]]"
     reverse: true
     start: 2022-08-19
     role: "NOVASTAR contract FA860422DB006 (16 listed orders, $63,766,638 obligated as of October 4, 2026)"
     fn: 14
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Xandar LLC]]"
     reverse: true
     start: 2022-08-19
     role: "NOVASTAR contract FA860422DB009 (15 listed orders, $50,856,348 obligated as of October 4, 2026)"
     fn: 14
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Ball Aerospace]]"
     reverse: true
     start: 2009-07-08
     role: "ATEP I contract FA860409D7976 (217 listed orders, $396,247,022 obligated as of October 4, 2026)"
     fn: 13
-  - type: contracted_with
+  - type: contractor_to
     with: "[[General Dynamics Mission Systems]]"
     reverse: true
     start: 2009-07-08
     role: "ATEP I contract FA860409D7977 (87 listed orders, $120,731,319 obligated as of October 4, 2026)"
     fn: 13
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Northrop Grumman]]"
     reverse: true
     start: 2009-07-08
     role: "ATEP I contract FA860409D7975 (14 listed orders, $6,983,794 obligated as of October 4, 2026)"
     fn: 13
-  - type: contracted_with
+  - type: contractor_to
     with: "[[HII Mission Technologies]]"
     reverse: true
     start: 2013-02-01

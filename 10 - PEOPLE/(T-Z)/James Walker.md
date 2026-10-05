@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Intelligence & Government"
 tags:
+  - PROMIS
   - Person
 summary: "James Walker is the Chief Security Specialist with the Justice Management Division, having been employed by the DOJ for eight years."
 ---

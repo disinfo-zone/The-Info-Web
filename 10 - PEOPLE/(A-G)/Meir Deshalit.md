@@ -1,5 +1,5 @@
 ---
-category: "Scientists & Researchers"
+category: "Intelligence & Government"
 tags:
   - Person
   - Researcher

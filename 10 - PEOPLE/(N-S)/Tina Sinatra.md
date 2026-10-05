@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Entertainment & Arts"
 tags:
+  - PROMIS
   - Person
 summary: "Daughter of Frank Sinatra who expressed interest in adapting The Last Circle and the PROMIS scandal for film or television."
 ---

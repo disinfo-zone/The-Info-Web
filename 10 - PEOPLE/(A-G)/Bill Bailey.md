@@ -1,5 +1,5 @@
 ---
-category: "People"
+category: "Business & Finance"
 tags:
   - Person
   - DefenseContractor

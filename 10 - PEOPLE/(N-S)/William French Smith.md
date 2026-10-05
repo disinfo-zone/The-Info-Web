@@ -1,5 +1,5 @@
 ﻿---
-category: "Intelligence Scandal"
+category: "Law Enforcement & Legal"
 created: 2024-04-25
 updated: 2026-05-17
 tags:

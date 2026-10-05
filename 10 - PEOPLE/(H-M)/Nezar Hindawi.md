@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Extremism & Violent Networks"
 tags:
   - Person
 summary: "Hindawi was instructed to ensure his pregnant Irish girlfriend, Ann-Marie Murphy, boarded an El Al flight with explosives in her bag."

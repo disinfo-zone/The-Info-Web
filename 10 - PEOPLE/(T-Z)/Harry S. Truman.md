@@ -1,7 +1,7 @@
 ---
 aliases:
   - Harry Truman
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Politician

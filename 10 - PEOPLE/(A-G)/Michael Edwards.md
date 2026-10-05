@@ -1,8 +1,9 @@
 ---
 aliases:
 - Michael Edwards
-category: "Psychics & Remote Viewers"
+category: "Skeptics & Critics"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Michael Edwards was one of two young magicians, along with Steven Shaw, who participated in James Randi's hoax against the McDonnell Laboratory for Psychical Research at Washington University in 1983."

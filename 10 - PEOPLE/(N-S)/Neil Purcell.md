@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Law Enforcement & Legal"
 tags:
   - Person
   - Person/Intelligence

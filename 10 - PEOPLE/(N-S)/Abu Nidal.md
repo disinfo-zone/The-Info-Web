@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Extremism & Violent Networks"
 tags:
   - Person
   - ArmsDealer

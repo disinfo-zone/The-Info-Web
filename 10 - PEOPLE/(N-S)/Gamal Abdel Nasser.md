@@ -6,7 +6,7 @@ aliases:
   - Gamal Abdel Nasser
   - Nasser
   - Gamal Abdul Nasser
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Egypt

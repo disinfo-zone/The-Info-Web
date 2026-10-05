@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Scientists & Researchers"
 tags:
+  - PROMIS
   - Person
 summary: "In 1981, Hercules Research Corporation developed a small electronic power supply designed to feed 30,000 volts of electricity to a METC (Modular Energy Transfer Catalyzer) unit, which could significantly reduce heating and cooling times in various industrial processes."
 ---

@@ -90,7 +90,7 @@ relations:
     start: 2025-05-08
     role: "Ignite Fueling Innovation, Inc. Federal Political Action Committee (C00830901), $2,500 to Susie Lee for Congress"
     fn: 11
-  - type: contracted_with
+  - type: contractor_to
     with: "[[JBS Solutions]]"
     start: 2024-07-29
     role: "mentor in a Small Business Administration mentor-protege agreement (naics 541715), protege JBS Solutions, Inc. (EDWOSB, WOSB, 8(a))"
@@ -187,7 +187,7 @@ Largest awards by type:
 - Army, TRAC and White Sands: contract W91QF407D0004 (May 3, 2007, $0 obligated at the contract level) is described as "TRAC-WSMR missions related to analysis, studies, modeling, simulation and information technology." Orders under it and later vehicles carry descriptions such as "ONESAF scenario modeling and exercise support" (order 0043, $1,266,116, 2009 to 2010), "Combat XXI support" (order 0060, $1,951,043, 2011 to 2012), "Brigade combat team analysis support service" (order 0024, $773,937, 2008), "JIEDDO modeling and simulation support" (order 0036, $266,650, 2009), "Analytical engineering support services" (W9115122F0264, $1,158,538, June 1, 2022 to April 30, 2023), "Labor - TRAC WSMR CombatXXI" (W9115124F0091, $1,081,193, May 1, 2024 to April 30, 2025) and "TRAC security task order" (W9115125F0060, $620,383, 2025).[^22]
 - Air Force: FA877119F0021, $36,220,973, May 29, 2019 to November 28, 2024, "Transportation Family of Systems (Trans FOS)"; FA877125F0010, $11,262,704, November 29, 2024 to August 31, 2026, "support services for the cargo and personnel movement product line"; and FA460025F0048, $4,255,740, May 16, 2025 to March 31, 2027, "Joint Electromagnetic Spectrum Ops Center."[^22]
 
-Of 151 award records read under the recipient name, the only description containing an intelligence term is one 2011 Army order of $849,933 described as "IEW support." No award description names the Defense Intelligence Agency, the [[Advanced Aerospace Threat Identification Program]], the [[All-domain Anomaly Resolution Office]] or unidentified anomalous phenomena, and no NASA Marshall Space Flight Center award appeared. No document opened ties any award to Redstone Arsenal.[^22]
+Of 151 award records read under the recipient name, the only description containing an intelligence term is one 2011 Army order of $849,933 described as "IEW support." No award description names the Defense Intelligence Agency, the [[Advanced Aerospace Threat Identification Program]], the [[All-domain Anomaly Resolution Office]] or unidentified anomalous phenomena, and no NASA Marshall Space Flight Center award appeared.[^22]
 
 ### Federal registration identifiers
 

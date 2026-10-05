@@ -12,7 +12,7 @@ tags:
   - WorldWarII
   - 1930s
   - 1940s
-category: "Intelligence & Government"
+category: "Political Figure"
 summary: "Franklin D. Roosevelt was the 32nd U.S. president, in office from 1933 to 1945, who led the country through the Depression and most of World War II and authorized the creation of the OSS and the Manhattan Project."
 born: 1882-01-30
 died: 1945-04-12

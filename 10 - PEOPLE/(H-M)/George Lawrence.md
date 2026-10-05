@@ -1,7 +1,7 @@
 ---
 aliases:
 - George Lawrence
-category: "Skeptics & Critics"
+category: "Intelligence & Government"
 tags:
   - Person
   - Skeptic

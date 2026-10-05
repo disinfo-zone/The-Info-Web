@@ -1,8 +1,9 @@
 ---
 aliases:
 - Karl Krafft
-category: "Psychics & Remote Viewers"
+category: "Occult & Esoteric"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Karl Krafft was a Swiss astrologer known for his influence on high-ranking Nazi officials."

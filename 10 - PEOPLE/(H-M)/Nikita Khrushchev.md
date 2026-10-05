@@ -2,7 +2,7 @@
 aliases:
   - Nikita Khrushchev
   - Khrushchev
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Soviet

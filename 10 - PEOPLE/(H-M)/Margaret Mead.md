@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Margaret Mead was a renowned American cultural anthropologist."

@@ -1,8 +1,9 @@
 ---
 aliases:
   - Donald M. Kerr, Jr.
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Stargate

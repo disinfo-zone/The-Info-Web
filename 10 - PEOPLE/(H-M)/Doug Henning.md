@@ -1,8 +1,9 @@
 ---
 aliases:
 - Doug Henning
-category: "Psychics & Remote Viewers"
+category: "Entertainment & Arts"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Doug Henning (1947–2000) was a renowned Canadian magician and illusionist."

@@ -20,27 +20,29 @@ alias:
   - Domestic Terrorism in the First Degree (Oregon)
 summary: "ORS 166.125 and 166.128 define Oregon's domestic terrorism offenses, created by House Bill 2772 (Oregon Laws 2023, chapter 608), with 'widespread' defined as impacting at least 50 human beings."
 relations:
-  - type: sponsored_by
+  - type: funded
     with: "[[Paul Evans]]"
+    reverse: true
     start: 2023
     role: "chief sponsor of House Bill 2772 in the 2023 Regular Session, with Representatives Conrad, Gomberg, Hieb, Lewis, Morgan and Wallan and Senators Manning Jr. and Sollman"
     fn: 1
-  - type: signed_by
+  - type: participant_in
     with: "[[Tina Kotek]]"
+    reverse: true
     start: 2023
     role: "Governor; signed House Bill 2772 into law in 2023"
     fn: 4
-  - type: charged_under
+  - type: subject_of
     with: "[[Benson Polytechnic High School Incident]]"
     start: 2026-10-02
     role: "domestic terrorism in the first and second degrees among 19 counts against a 15-year-old"
     fn: 7
-  - type: charged_under
+  - type: subject_of
     with: "[[Rayden Tanner Coleman]]"
     start: 2026-02-12
     role: "indicted in Columbia County on attempted domestic terrorism in the first degree and domestic terrorism in the second degree"
     fn: 4
-  - type: charged_under
+  - type: subject_of
     with: "[[Ethan Noble Burlingame]]"
     start: 2026-06
     role: "two domestic terrorism counts in Wheeler County"

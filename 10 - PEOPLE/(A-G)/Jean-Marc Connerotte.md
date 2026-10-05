@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Law Enforcement & Legal"
 tags:
+  - KeyFigure
   - Person
   - Belgium
   - Dutroux

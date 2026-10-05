@@ -1,8 +1,9 @@
 ---
 aliases:
 - Robert Van de Castle
-category: "Psychics & Remote Viewers"
+category: "Medicine & Psychology"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - SRI

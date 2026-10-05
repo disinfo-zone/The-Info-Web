@@ -5,7 +5,7 @@ aliases:
   - Bill Downing
 created: 2026-05-17
 updated: 2026-05-17
-category: "Organized Crime"
+category: "Arms Dealers & Brokers"
 tags:
   - Person
   - ContraWar

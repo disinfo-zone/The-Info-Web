@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Victims & Witnesses"
 tags:
+  - AbuseNetworks
   - Person
 summary: "Robert Piest was a 15-year-old student at Maine West High School and employee at a pharmacy in Des Plaines, Illinois."
 born: 1963-03-16

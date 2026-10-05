@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Political Figure"
 tags:
+  - IranContra
   - person
   - contra-war
 summary: Edward P. Boland was the Massachusetts congressman who sponsored the Boland Amendments prohibiting U.S. military aid to the Contras.

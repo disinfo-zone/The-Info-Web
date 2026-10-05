@@ -1,5 +1,5 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Business & Finance"
 tags:
   - Person
   - Nuclear

@@ -5,10 +5,11 @@ aliases:
   - William Joseph Casey
   - Bill Casey
   - "William Casey"
-category: "Key Figures"
+category: "Intelligence & Government"
 created: 2024-04-25
 updated: 2026-05-17
 tags:
+  - KeyFigure
   - Person
   - CIA
   - Politician

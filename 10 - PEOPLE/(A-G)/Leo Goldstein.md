@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Intelligence & Government"
 tags:
   - Person
   - Philadelphia

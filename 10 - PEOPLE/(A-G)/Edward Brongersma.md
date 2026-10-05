@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Political Figure"
 tags:
   - Person
   - OrganizedCrime

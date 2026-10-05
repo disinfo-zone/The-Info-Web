@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Occult & Esoteric"
 tags:
   - Person
   - MKULTRA

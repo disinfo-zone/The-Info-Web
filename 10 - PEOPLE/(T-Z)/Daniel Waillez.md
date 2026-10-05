@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Criminals & Offenders"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

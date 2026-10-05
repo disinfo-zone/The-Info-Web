@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Business & Finance"
 tags:
   - Person
   - OrganizedCrime

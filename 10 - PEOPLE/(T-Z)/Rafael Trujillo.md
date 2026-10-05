@@ -7,6 +7,7 @@ aliases:
   - El Benefactor
   - The Goat
 tags:
+  - HistoricalFigure
   - Person
   - Dictator
   - DominicanRepublic
@@ -15,7 +16,7 @@ tags:
   - ColdWar
   - 1950s
   - 1960s
-category: "Historical Figure"
+category: "Political Figure"
 summary: "Rafael Trujillo was the dictator of the Dominican Republic from 1930 until his assassination on May 30, 1961, who received CIA support through much of his rule until his sponsorship of assassination plots against Venezuelan President Romulo Betancourt led the CIA to supply weapons to the opposition conspirators who killed him - making him a Church Committee case study in CIA involvement in foreign leader assassination."
 born: 1891-10-24
 died: 1961-05-30

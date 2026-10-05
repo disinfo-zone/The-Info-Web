@@ -7,7 +7,7 @@ aliases:
   - Genghis K. Plato
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Occult & Esoteric"
 tags:
   - Person
   - CIA

@@ -1,5 +1,5 @@
 ---
-category: "UFO & Anomalous Phenomena"
+category: "Military"
 tags:
   - Person
   - UFO

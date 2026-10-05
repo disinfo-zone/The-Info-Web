@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Law Enforcement & Legal"
 tags:
+  - IranContra
   - person
   - contra-war
 summary: David Hall was an Assistant U.S. Attorney who prosecuted Rafael Cornejo and warned Gary Webb that publishing the Dark Alliance story could endanger Danilo Blandón's life.

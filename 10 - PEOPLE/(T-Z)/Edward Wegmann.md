@@ -1,6 +1,7 @@
 ---
-category: "JFK Assassination"
+category: "Law Enforcement & Legal"
 tags:
+  - JFKAssassination
   - Person
   - EdwardWegmann
   - ClayShaw

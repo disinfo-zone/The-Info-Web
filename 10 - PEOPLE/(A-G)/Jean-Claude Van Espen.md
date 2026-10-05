@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Law Enforcement & Legal"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

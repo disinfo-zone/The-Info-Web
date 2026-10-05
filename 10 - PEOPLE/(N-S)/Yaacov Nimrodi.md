@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Arms Dealers & Brokers"
 tags:
   - Person
   - Israel

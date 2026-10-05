@@ -13,7 +13,7 @@ alias:
 summary: "Colorado Springs defense contractor and one of four holders of the $866 million NASIC ASTRA advisory and assistance contract, awarded May 6, 2026."
 location: "Colorado Springs, Colorado"
 relations:
-  - type: contracted_with
+  - type: contractor_to
     with: "[[National Air and Space Intelligence Center]]"
     start: 2026-07-01
     role: "holder of IDIQ FA8604-26-D-B003, Advisory Support and Technical Requirement Administration (ASTRA), $866,563,163 ceiling"

@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Colombia

@@ -1,8 +1,9 @@
 ---
 aliases:
 - Anne Khale
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Anne Khale was a NASA satellite imagery specialist who was hired by Stephan Schwartz to serve as an unbiased third-party observer for Project Deep Quest."

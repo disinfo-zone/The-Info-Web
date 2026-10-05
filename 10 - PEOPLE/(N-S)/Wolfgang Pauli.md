@@ -1,8 +1,9 @@
 ---
 aliases:
 - Wolfgang Pauli
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Wolfgang Pauli (1900–1958) was an Austrian-American theoretical physicist and Nobel Laureate, known for his pioneering work on quantum mechanics, particularly the Pauli exclusion principle."

@@ -10,7 +10,7 @@ tags:
   - ColdWar
   - 1940s
   - 1950s
-category: "Intelligence & Government"
+category: "Political Figure"
 summary: "Dean Acheson was Secretary of State under Truman from 1949 to 1953 who helped design the Truman Doctrine, NATO, and the Marshall Plan, pushed through NSC-68 which militarized containment over George Kennan's objections, and managed U.S. policy through the Korean War."
 born: 1893-04-11
 died: 1971-10-12

@@ -1,8 +1,9 @@
 ---
 aliases:
 - Itzhak Bentov
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - Stargate
   - CIA

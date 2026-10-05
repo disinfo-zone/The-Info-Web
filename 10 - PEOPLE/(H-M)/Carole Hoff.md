@@ -1,5 +1,5 @@
 ﻿---
-category: "Crime Investigation"
+category: "Victims & Witnesses"
 tags:
   - Person
   - JohnWayneGacy

@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Law Enforcement & Legal"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Jean-Paul Dumont, a Belgian lawyer, represented various figures in legal matters during the 1980s and 1990s, including connections to the X-Dossier investigation into child abuse networks."

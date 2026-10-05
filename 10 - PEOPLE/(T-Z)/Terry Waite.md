@@ -1,5 +1,5 @@
 ---
-category: "Iran-Contra"
+category: "Religious Figures"
 tags:
   - Person
   - IranContra

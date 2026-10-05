@@ -5,8 +5,9 @@ aliases:
   - Earl W. Brian
 created: 2024-04-25
 updated: 2026-09-22
-category: "Key Figures"
+category: "Business & Finance"
 tags:
+  - KeyFigure
   - Person
   - PROMIS
   - CIA

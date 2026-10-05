@@ -2,7 +2,7 @@
 aliases:
   - Lincoln D. Faurer
   - Lieutenant General Lincoln D. Faurer
-category: "Intelligence & Government"
+category: "Military"
 tags:
   - Person
   - Stargate

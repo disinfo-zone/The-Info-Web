@@ -1,6 +1,7 @@
 ---
-category: "AI & Effective Altruism"
+category: "Authors & Journalists"
 tags:
+  - EffectiveAltruism
   - Person
   - ScottAlexander
   - Rationalism

@@ -7,6 +7,7 @@ aliases:
   - Harold E. Puthoff
   - Harold Puthoff
 tags:
+  - KeyFigure
   - Person
   - SRI
   - Stargate
@@ -19,7 +20,7 @@ tags:
   - 1980s
   - 1990s
   - 2000s
-category: "Key Figures"
+category: "Scientists & Researchers"
 summary: "Physicist who founded the CIA-funded remote-viewing program at Stanford Research Institute in 1972 with Russell Targ, ran it until 1985, and later worked on the Pentagon's AATIP."
 born: 1936-06-20
 location: "Chicago, Illinois"

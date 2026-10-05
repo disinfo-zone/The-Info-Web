@@ -1,5 +1,5 @@
 ﻿---
-category: "Intelligence Scandal"
+category: "Organized Crime"
 created: 2026-05-01
 updated: 2026-05-17
 tags:

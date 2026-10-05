@@ -4,7 +4,7 @@ aliases:
   - Dyer Grossman
 created: 2026-05-17
 updated: 2026-09-22
-category: "Crime Investigation"
+category: "Criminals & Offenders"
 tags:
   - Person
   - ChildPornography

@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Royalty & Aristocracy"
 tags:
   - Person
   - BCCI

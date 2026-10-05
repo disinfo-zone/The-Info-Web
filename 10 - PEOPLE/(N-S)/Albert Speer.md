@@ -1,8 +1,9 @@
 ---
 aliases:
 - Albert Speer
-category: "Psychics & Remote Viewers"
+category: "Political Figure"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Albert Speer (1905–1981) was a German architect who served as the Reich's Minister of Armaments and War Production for Nazi Germany during World War II."

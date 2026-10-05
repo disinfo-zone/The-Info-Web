@@ -1,5 +1,5 @@
 ---
-category: "Finance & Business"
+category: "Business & Finance"
 tags:
   - Person
   - Finance

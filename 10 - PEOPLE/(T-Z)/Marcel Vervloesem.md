@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Activists & Advocates"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Marcel Vervloesem operated as a Belgian private investigator and activist affiliated with the Morkhoven Workgroup, an NGO dedicated to exposing child exploitation networks across Europe during the 1990s."

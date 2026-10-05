@@ -1,8 +1,9 @@
 ---
 aliases:
 - Lyall Watson
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Lyall Watson was a South African zoologist and anthropologist."

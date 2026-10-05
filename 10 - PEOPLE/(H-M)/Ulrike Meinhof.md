@@ -10,7 +10,7 @@ tags:
   - Terrorism
   - RedArmyFaction
   - 1970s
-category: "Political Figure"
+category: "Extremism & Violent Networks"
 summary: "Ulrike Meinhof was a West German journalist who co-founded the Red Army Faction in 1970 by participating in Andreas Baader's prison break, authored the group's foundational political documents, was arrested in 1972, and was found dead by hanging in her Stammheim Prison cell on May 9, 1976 in a ruling of suicide that the RAF and supporters disputed."
 born: 1934-10-07
 died: 1976-05-09

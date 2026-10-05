@@ -4,7 +4,7 @@ aliases:
   - Wanda Palacios
 created: 2026-05-17
 updated: 2026-05-17
-category: "Organized Crime"
+category: "Victims & Witnesses"
 tags:
   - Person
   - DrugTrafficker

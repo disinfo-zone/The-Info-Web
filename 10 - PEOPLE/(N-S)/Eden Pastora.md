@@ -5,8 +5,9 @@ aliases:
   - Commandante Zero
 created: 2026-05-17
 updated: 2026-05-17
-category: "Key Figures"
+category: "Military"
 tags:
+  - KeyFigure
   - Person
   - Contra
   - Nicaragua

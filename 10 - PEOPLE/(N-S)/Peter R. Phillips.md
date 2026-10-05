@@ -1,8 +1,9 @@
 ---
 aliases:
 - Peter R. Phillips
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Randi sent two young magicians, Steven Shaw and Michael Edwards, to Phillips's lab, where they pretended to possess psychokinetic abilities and simulated feats like spoon bending using sleight of hand."

@@ -1,5 +1,5 @@
 ﻿---
-category: "Intelligence & Government"
+category: "Activists & Advocates"
 tags:
   - Person
   - Black_Panther_Party

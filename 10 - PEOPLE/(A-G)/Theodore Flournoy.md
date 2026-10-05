@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Medicine & Psychology"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Flournoy believed that the content produced by mediums during trances, including foreign languages and detailed historical accounts, originated from their 'subliminal imagination' and forgotten sources, rather than from supernatural channeling."

@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
 summary: "In 1983, Mark Thatcher introduced Gerald Bull to Van Der Westhuizen, who then connected Bull with ARMSCOR for his 'supergun' project."

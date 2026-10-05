@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Intelligence & Government"
 tags:
   - Person
   - PROMIS

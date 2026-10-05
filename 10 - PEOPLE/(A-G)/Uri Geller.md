@@ -4,8 +4,9 @@ updated: 2026-09-21
 title: Uri Geller
 aliases:
   - Uri Geller
-category: "Key Figures"
+category: "Psychics & Remote Viewers"
 tags:
+  - KeyFigure
   - Person
   - PSI
   - SRI

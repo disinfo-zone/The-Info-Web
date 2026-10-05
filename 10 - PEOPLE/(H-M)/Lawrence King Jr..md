@@ -1,5 +1,5 @@
 ﻿---
-category: "Crime Investigation"
+category: "Criminals & Offenders"
 tags:
   - Person
   - Nebraska

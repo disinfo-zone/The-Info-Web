@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Political Figure"
 tags:
   - Person
   - BCCI

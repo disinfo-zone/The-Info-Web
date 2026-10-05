@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Other"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Wilkins conducted experiments in Mind-to-Mind Telepathy, which he documented in his book *Thoughts Through Space: A Remarkable Adventure in the Realm of Mind*."

@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Extremism & Violent Networks"
 tags:
   - Person
 summary: "Discussions included the Mujahideen's willingness to field test new and esoteric weapons and return research reports with photos."

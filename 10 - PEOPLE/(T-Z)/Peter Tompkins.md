@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Authors & Journalists"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "American journalist, former OSS officer, and co-author of the 1973 bestseller The Secret Life of Plants on plant sentience."

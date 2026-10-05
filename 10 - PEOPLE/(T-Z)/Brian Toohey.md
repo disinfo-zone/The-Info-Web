@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Authors & Journalists"
 tags:
   - Person
   - PROMIS

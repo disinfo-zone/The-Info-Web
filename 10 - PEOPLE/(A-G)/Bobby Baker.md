@@ -1,5 +1,5 @@
 ---
-category: "Intelligence Scandal"
+category: "Political Figure"
 tags:
   - Person
   - JFK

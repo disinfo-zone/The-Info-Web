@@ -1,6 +1,7 @@
 ---
 category: "UFO & Anomalous Phenomena"
 tags:
+  - UFO
   - Person
 summary: "Cuban exile and father of Luis Elizondo whose revolutionary past and unconventional influence shaped his son's intelligence career."
 ---

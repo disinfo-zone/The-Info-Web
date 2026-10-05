@@ -1,8 +1,9 @@
 ﻿---
-category: "Key Figures"
+category: "Arms Dealers & Brokers"
 created: 2024-04-25
 updated: 2026-09-25
 tags:
+  - KeyFigure
   - Person
   - IranContra
   - PROMIS

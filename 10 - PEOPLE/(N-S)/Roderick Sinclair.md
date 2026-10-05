@@ -1,9 +1,10 @@
 ---
-category: "PROMIS Scandal"
+category: "Law Enforcement & Legal"
 aliases:
   - "Roderic B. Sinclair"
   - "Roderic Sinclair"
 tags:
+  - PROMIS
   - Person
   - Mariposa
   - LawEnforcement

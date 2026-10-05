@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Political Figure"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Adolf Hitler was the leader of the Nazi Party and the dictator of Nazi Germany from 1934 to 1945."

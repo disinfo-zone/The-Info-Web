@@ -1,6 +1,7 @@
 ---
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - PSI
   - China

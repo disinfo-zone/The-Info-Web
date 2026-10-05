@@ -2,8 +2,9 @@
 aliases:
   - Elmo Zumwalt
   - Admiral Elmo Zumwalt
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Soviet

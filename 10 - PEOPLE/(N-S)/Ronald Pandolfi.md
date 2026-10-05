@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Scientists & Researchers"
 tags:
   - Person
   - CIA

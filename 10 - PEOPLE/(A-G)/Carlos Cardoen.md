@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Arms Dealers & Brokers"
 tags:
+  - KeyFigure
   - Person
   - IranContra
   - Israel

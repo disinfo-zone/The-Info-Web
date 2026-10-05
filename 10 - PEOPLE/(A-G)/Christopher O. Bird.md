@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Authors & Journalists"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "American author and alleged CIA operative who co-authored The Secret Life of Plants, popularizing Cleve Backster's plant sentience experiments."

@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Business & Finance"
 created: 2026-05-01
 updated: 2026-09-23
 tags:

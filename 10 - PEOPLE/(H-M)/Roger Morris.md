@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Authors & Journalists"
 tags:
   - Person
   - Person/Politician

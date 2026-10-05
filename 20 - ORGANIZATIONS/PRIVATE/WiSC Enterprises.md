@@ -13,7 +13,7 @@ alias:
 summary: "Chantilly, Virginia veteran-owned ISR and GEOINT support firm, founded in 2008, whose June 2026 posting for a Wright-Patterson analyst lists Foreign Materiel Exploitation among its NASIC mission areas."
 location: "Chantilly, Virginia"
 relations:
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Alion Science and Technology]]"
     start: 2016-06-16
     role: "subawardee, subaward STM1241301-000, $238,986.15, on Alion award 0085 (AFRL Rome, collection management)"

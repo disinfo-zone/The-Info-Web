@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "In June 1972, Hal Puthoff brought Ingo Swann to Hebard's lab to test Swann's abilities."

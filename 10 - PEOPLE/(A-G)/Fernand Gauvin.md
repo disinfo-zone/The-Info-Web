@@ -4,6 +4,7 @@ aliases:
   - Fernand A. Gauvin
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

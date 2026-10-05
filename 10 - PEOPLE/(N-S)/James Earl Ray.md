@@ -5,11 +5,12 @@ title: James Earl Ray
 aliases:
   - James Earl Ray
 tags:
+  - HistoricalFigure
   - Person
   - MLK
   - Assassination
   - 1960s
-category: "Historical Figure"
+category: "Criminals & Offenders"
 summary: "James Earl Ray was the career criminal who pled guilty to the April 4, 1968 assassination of Martin Luther King Jr. at the Lorraine Motel in Memphis, recanted three days later claiming he was a patsy for a conspiracy organized by a mysterious figure called 'Raul,' and died in prison in 1998 with the conspiracy question still legally unresolved."
 born: 1928-03-10
 died: 1998-04-23

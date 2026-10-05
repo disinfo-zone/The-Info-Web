@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Military"
 tags:
   - Person
   - Person/Military

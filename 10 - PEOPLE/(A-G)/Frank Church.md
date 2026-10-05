@@ -5,7 +5,7 @@ title: Frank Church
 aliases:
   - Frank Church
   - Frank Forrester Church III
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - USSenate

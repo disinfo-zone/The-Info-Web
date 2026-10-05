@@ -5,7 +5,7 @@ aliases:
   - Il Burattinaio
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Organized Crime"
 tags:
   - Person
   - Italy

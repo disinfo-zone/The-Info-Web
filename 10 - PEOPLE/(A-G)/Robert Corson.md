@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Other"
 tags:
+  - IranContra
   - Person
 summary: "Man who, the writer Cheri Seymour wrote, carried money to South America in a deal to deliver covert weapons and associated with Wayne Reeder."
 ---

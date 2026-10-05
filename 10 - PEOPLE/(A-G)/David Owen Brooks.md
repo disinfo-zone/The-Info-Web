@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Criminals & Offenders"
 tags:
+  - AbuseNetworks
   - Person
 summary: "David Owen Brooks (born February 14, 1955) functioned as a teenage accomplice to serial killer Dean Corll in the Dean Corll Murders from 1970 to 1973."
 born: 1955-02-14

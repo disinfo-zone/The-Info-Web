@@ -17,16 +17,11 @@ summary: "764 is a decentralized online child exploitation and coercion network 
 start: 2020
 location: "United States (online)"
 relations:
-  - type: named_in
+  - type: subject_of
     with: "[[Athens High School Terrorism Case]]"
     start: 2025-11
     role: "named in an Alabama indictment, as reported, as one of the groups with which Carson Albert Butler allegedly conspired; indictment reported December 5, 2025"
     fn: 12
-  - type: referenced_in
-    with: "[[Benson Polytechnic High School Incident]]"
-    start: 2026-10-02
-    role: "references to 764 stated in open court by a Multnomah County deputy district attorney as found by the FBI on a 15-year-old defendant's devices; not part of the Portland Police Bureau charge release"
-    fn: 14
 ---
 
 [[764 Network|764]] is a decentralized, transnational network of online groups that engages in the sexual exploitation of minors, production and distribution of child sexual abuse material (CSAM), sextortion, coerced self-harm, and the glorification and incitement of real-world violence. The [[U.S. Department of Justice]] (DOJ) classifies 764 and its affiliated groups under the umbrella term "Nihilistic Violent Extremists" (NVEs), defined as individuals who engage in criminal conduct in furtherance of political, social, or religious goals rooted in a hatred of society and a desire to bring about its collapse through chaos and destruction.[^1] As of early 2026, the [[FBI]] was conducting more than 350 active investigations tied to 764 and similar networks, with DOJ career officials describing it as "as serious a threat as you can imagine."[^2]

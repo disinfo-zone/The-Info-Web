@@ -5,8 +5,9 @@ aliases:
   - Bud McFarlane
 created: 2026-05-17
 updated: 2026-05-17
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
+  - KeyFigure
   - Person
   - Politician
   - 1980s

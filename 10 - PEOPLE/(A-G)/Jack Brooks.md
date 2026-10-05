@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Political Figure"
 created: 2026-05-01
 updated: 2026-05-01
 tags:

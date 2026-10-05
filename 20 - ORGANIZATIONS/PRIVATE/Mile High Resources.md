@@ -18,31 +18,11 @@ alias:
 summary: "Texas limited liability company chartered February 26, 2014 at Sierra Blanca; the name appears in Raytheon's October 2015 Pike munition release and in 2025 and 2026 FCC filings for a range on Skunk Canyon Road."
 location: "Sierra Blanca, Texas"
 relations:
-  - type: hosted
-    with: "[[Raytheon]]"
-    start: 2015-10-12
-    role: "Pike 40 mm guided-munition flight tests 'at Mile High Resources in Texas' (Raytheon release datelined Tucson, October 12, 2015); Next Generation Short Range Interceptor radio filings of 2025 and 2026 naming the 'Mile High Resources Range, 2000 Skunk Canyon Rd.'"
-    fn: 7
-  - type: part_of
+  - type: member_of
     with: "[[Sierra Blanca, Texas]]"
     start: 2014-02-26
     role: "chartered with a Sierra Blanca taxpayer address; the Mile High Resources Range lies inside the airspace polygon of FAA notice 5/3497"
     fn: 1
-  - type: hosted
-    with: "[[RADA Technologies]]"
-    start: 2023-07-14
-    role: "radar product tests at the 'Mile High Range in Texas' for customer BAE, special temporary authority WV9XWE (1443-EX-ST-2023, requested August 1, 2023 to January 1, 2024); earlier filing 0384-EX-ST-2023 (February 20, 2023) names 'Mile High'"
-    fn: 13
-  - type: licensed_by
-    with: "[[Bureau of Alcohol, Tobacco, Firearms and Explosives]]"
-    start: 2026-09
-    role: "Mile High Ordnance, LLC listed on the September 2026 Texas Federal Firearms Licensee list with licence type code 10 (defined on the ATF application form as manufacturer of destructive devices, ammunition for destructive devices or armor piercing ammunition) at 201 Four Section Road, Sierra Blanca"
-    fn: 2
-  - type: shares_mailbox_with
-    with: "[[Walker's Flying W Ranch]]"
-    start: 2018-08-03
-    role: "FCC licence WRBZ759 of Walker's Flying W Ranch, LLC gives the same post office box and a milehighresources.com e-mail domain"
-    fn: 4
 created: 2026-10-04
 updated: 2026-10-04
 ---

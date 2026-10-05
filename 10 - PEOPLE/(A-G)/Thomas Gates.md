@@ -1,5 +1,5 @@
 ---
-category: "Authors & Journalists"
+category: "Law Enforcement & Legal"
 tags:
   - Person
   - Journalist

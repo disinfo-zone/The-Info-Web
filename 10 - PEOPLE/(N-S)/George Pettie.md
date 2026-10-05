@@ -4,7 +4,7 @@ aliases:
   - George Pettie
 created: 2026-05-17
 updated: 2026-05-18
-category: "Intelligence & Government"
+category: "Other"
 tags:
   - Person
   - AirAmerica

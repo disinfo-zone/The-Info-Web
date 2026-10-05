@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Religious Figures"
 tags:
   - Person
 summary: "In 1970, Otis, along with Pat Boone, Shirley Boone, and Harold Bredesen, prayed with then-California Governor Ronald Reagan at his home in Sacramento."

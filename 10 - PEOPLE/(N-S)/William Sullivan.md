@@ -13,7 +13,7 @@ tags:
   - MLK
   - 1960s
   - 1970s
-category: "Intelligence & Government"
+category: "Law Enforcement & Legal"
 summary: "William C. Sullivan was the FBI's Assistant Director for Domestic Intelligence who architected COINTELPRO, drafted the 1964 anonymous 'suicide letter' to Martin Luther King Jr., was fired by Hoover in 1971, and was shot in a ruled hunting accident on November 9, 1977, the day before he was to testify to congressional investigators."
 born: 1912-05-12
 died: 1977-11-09

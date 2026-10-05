@@ -1,8 +1,9 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Entertainment & Arts"
 alias:
   - John R. Butterworth
 tags:
+  - AbuseNetworks
   - Person
   - RCHorsch
   - Philadelphia

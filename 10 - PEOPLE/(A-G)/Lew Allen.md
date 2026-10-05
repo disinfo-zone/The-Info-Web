@@ -2,8 +2,9 @@
 aliases:
   - Lew Allen
   - General Lew Allen
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

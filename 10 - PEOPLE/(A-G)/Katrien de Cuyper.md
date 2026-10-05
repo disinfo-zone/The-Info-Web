@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Victims & Witnesses"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

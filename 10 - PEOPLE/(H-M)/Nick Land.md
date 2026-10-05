@@ -1,6 +1,7 @@
 ---
-category: "New Right"
+category: "Authors & Journalists"
 tags:
+  - NewRight
   - Person
   - NickLand
   - CCRU

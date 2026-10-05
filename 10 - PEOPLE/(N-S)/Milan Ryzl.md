@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Milan Ryzl was a Czech parapsychologist active in psi research in the mid-1960s."

@@ -5,7 +5,7 @@ title: Lyn Buchanan
 aliases:
   - Lyn Buchanan
   - Leonard "Lyn" Buchanan
-category: "Military"
+category: "Psychics & Remote Viewers"
 tags:
   - Person
   - RemoteViewer

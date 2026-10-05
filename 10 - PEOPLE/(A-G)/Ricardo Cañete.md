@@ -1,5 +1,5 @@
 ---
-category: "Extremism & Violent Networks"
+category: "Other"
 tags:
   - Person
   - RicardoCanete

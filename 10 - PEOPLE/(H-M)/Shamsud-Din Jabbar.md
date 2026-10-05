@@ -1,5 +1,5 @@
 ---
-category: "Military"
+category: "Extremism & Violent Networks"
 tags:
   - Person
   - Military

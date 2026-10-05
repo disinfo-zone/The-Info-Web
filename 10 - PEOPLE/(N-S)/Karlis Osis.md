@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Karlis Osis was a Latvian-born parapsychologist with a PhD, known for his research into deathbed visions and his work with the U.S."

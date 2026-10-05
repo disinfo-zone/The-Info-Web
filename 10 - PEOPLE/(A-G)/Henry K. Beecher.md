@@ -1,8 +1,9 @@
 ---
 aliases:
 - Henry K. Beecher
-category: "Psychics & Remote Viewers"
+category: "Medicine & Psychology"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Beecher's work contributed to the understanding of how perception of an event or a situation - real or imagined, rational or irrational - can cause consequential actions to occur."

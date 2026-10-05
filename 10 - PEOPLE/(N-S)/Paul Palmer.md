@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Other"
 tags:
   - Person
   - PROMIS

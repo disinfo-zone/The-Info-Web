@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Organized Crime"
 tags:
+  - IranContra
   - person
   - colombian
   - contra-war

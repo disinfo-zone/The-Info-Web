@@ -1,8 +1,9 @@
 ---
 aliases:
 - Peter Squire
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Peter Squire is a program officer in the Office of Naval Research (ONR)'s Expeditionary Maneuver Warfare and Combating Terrorism department."

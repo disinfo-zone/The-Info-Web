@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Business & Finance"
 tags:
+  - KeyFigure
   - Person
   - PROMIS
   - OrganizedCrime

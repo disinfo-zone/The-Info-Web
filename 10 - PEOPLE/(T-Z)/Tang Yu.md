@@ -1,6 +1,7 @@
 ---
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Tang Yu was a twelve-year-old boy in China who, according to Chinese press reports of 1979, could read with his ears."

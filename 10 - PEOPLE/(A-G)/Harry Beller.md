@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Business & Finance"
 tags:
+  - AbuseNetworks
   - Person
   - HarryBeller
   - JeffreyEpstein

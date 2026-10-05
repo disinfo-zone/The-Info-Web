@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Victims & Witnesses"
 tags:
+  - AbuseNetworks
   - Person
 summary: "Mark Stebbins was a 12-year-old boy from Ferndale, Michigan, identified as the first victim in the series of murders attributed to the Oakland County Child Killer."
 died: 1976-02-19

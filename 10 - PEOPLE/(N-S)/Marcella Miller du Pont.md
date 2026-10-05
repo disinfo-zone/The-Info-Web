@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Philanthropists & Benefactors"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Marcella Miller du Pont was an heiress to the du Pont chemical and weapons production conglomerate and a passionate supporter of ESP research."

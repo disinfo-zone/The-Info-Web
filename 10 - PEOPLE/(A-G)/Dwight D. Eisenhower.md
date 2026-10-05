@@ -7,8 +7,9 @@ aliases:
   - Ike
 created: 2026-05-14
 updated: 2026-05-17
-category: "Key Figures"
+category: "Political Figure"
 tags:
+  - KeyFigure
   - Person
   - CIA
   - Politician

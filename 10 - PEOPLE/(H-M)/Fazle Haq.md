@@ -1,6 +1,7 @@
 ---
-category: "World War II & Nazi Era"
+category: "Military"
 tags:
+  - WorldWarII
   - Person
   - WW2
   - Nazi

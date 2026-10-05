@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Other"
 tags:
+  - AbuseNetworks
   - Person
   - RCHorsch
   - Stroudsburg

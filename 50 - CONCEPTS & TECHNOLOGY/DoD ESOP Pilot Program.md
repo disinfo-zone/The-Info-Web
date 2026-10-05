@@ -22,22 +22,24 @@ summary: "Pilot authority in the Fiscal Year 2022 defense authorization act, int
 start: 2021-07-20
 location: "Washington, D.C."
 relations:
-  - type: sponsored_by
+  - type: funded
     with: "[[Elizabeth Warren]]"
+    reverse: true
     start: 2021-07-20
     role: "introduced S.2402 'for herself and Mr. Tillis'"
     fn: 1
-  - type: sponsored_by
+  - type: funded
     with: "[[Thom Tillis]]"
+    reverse: true
     start: 2021-07-20
     role: "co-introducer of S.2402"
     fn: 1
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Radiance Technologies]]"
     start: 2026-04-10
     role: "Defense Logistics Agency Aviation contract SPRRA226C0009, justification and approval citing 'DFARS 206.302-5(b), Employee Stock Ownership Plan (ESOP) pilot program, NDAA Provision 874, and amended NDAA Provision 872'"
     fn: 15
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Modern Technology Solutions]]"
     start: 2026-09-15
     role: "General Services Administration order 47QFSA26F0035, description citing 'EMPLOYEE STOCK OWNERSHIP PLAN PILOT PROGRAM AUTHORIZED BY SEC 874 OF FY22 NDAA & SEC 872 OF FY24 NDAA'"

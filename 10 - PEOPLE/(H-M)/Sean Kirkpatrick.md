@@ -1,6 +1,7 @@
 ---
-category: "UFO & Anomalous Phenomena"
+category: "Intelligence & Government"
 tags:
+  - UFO
   - Person
   - UAP
   - AARO

@@ -2,8 +2,9 @@
 aliases:
   - Ariel Sharon
   - General Ariel Sharon
-category: "Key Figures"
+category: "Political Figure"
 tags:
+  - KeyFigure
   - Person
   - Military
   - Israel

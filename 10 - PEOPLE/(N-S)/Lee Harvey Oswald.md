@@ -6,12 +6,13 @@ aliases:
   - Lee Oswald
   - Alek James Hidell
 tags:
+  - HistoricalFigure
   - Person
   - JFKAssassination
   - CIA
   - KGB
   - 1960s
-category: "Historical Figure"
+category: "Criminals & Offenders"
 summary: "Lee Harvey Oswald was the accused assassin of President John F. Kennedy on November 22, 1963 in Dallas - a former U.S. Marine stationed at the CIA's U-2 base at Atsugi who defected to the Soviet Union in 1959, returned to the United States in 1962, distributed Fair Play for Cuba Committee leaflets in New Orleans in summer 1963, visited the Soviet and Cuban embassies in Mexico City that September, and was shot by Jack Ruby two days after arrest; the CIA's counterintelligence division (CI/SIG) had maintained a 201 file on him since December 9, 1960, and a senior CIA officer who signed a key pre-assassination cable later stated she was 'signing off on something that I know isn't true.'"
 born: 1939-10-18
 died: 1963-11-24

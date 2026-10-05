@@ -6,8 +6,9 @@ aliases:
   - Edgar Hoover
 created: 2026-05-17
 updated: 2026-09-22
-category: "Key Figures"
+category: "Law Enforcement & Legal"
 tags:
+  - KeyFigure
   - Person
   - FBI
   - COINTELPRO

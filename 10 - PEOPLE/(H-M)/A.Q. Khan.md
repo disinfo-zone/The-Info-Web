@@ -1,6 +1,7 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Scientists & Researchers"
 tags:
+  - Nuclear
   - Person
   - Pakistan
   - NuclearProliferation

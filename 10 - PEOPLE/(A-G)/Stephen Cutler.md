@@ -1,5 +1,5 @@
 ---
-category: "Business & Finance"
+category: "Law Enforcement & Legal"
 tags:
   - Person
   - StephenCutler

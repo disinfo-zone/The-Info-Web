@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Other"
 tags:
+  - IranContra
   - Person
 summary: "After Ben-Menashe's arrest, Magori was contacted by Leon Siff and traveled to Los Angeles to see Ben-Menashe in jail."
 ---

@@ -1,5 +1,5 @@
 ---
-category: "Political Figure"
+category: "Scientists & Researchers"
 tags:
   - Person
   - Physicist

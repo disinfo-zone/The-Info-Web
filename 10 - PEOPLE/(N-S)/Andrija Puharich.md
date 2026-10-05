@@ -6,8 +6,9 @@ aliases:
   - Andrija Puharich
   - Henry Karel Puharich
   - Henry Puharich
-category: "Key Figures"
+category: "Medicine & Psychology"
 tags:
+  - KeyFigure
   - Person
   - Parapsychology
   - CIA

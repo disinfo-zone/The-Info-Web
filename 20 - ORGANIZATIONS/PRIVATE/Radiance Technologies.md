@@ -95,7 +95,7 @@ relations:
     start: 2002-04-05
     role: "Radiance Technologies, Inc. Political Action Committee disbursements totaling $65,300 in 22 records to Robert Aderholt for Congress through October 27, 2023"
     fn: 71
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Honeywell]]"
     start: 2023
     role: "alleged in Radiance's complaints against Heath Berry and Jade Baker: subcontract negotiations and preliminary work with Honeywell on a program called Looking Glass, ended by a Honeywell stop-work order after Baker left Radiance in 2023"
@@ -115,12 +115,12 @@ relations:
     start: 2024-07-12
     role: "sole-source awards SPRRA224C0020 ($15 million ceiling, July 12, 2024) and SPRRA226C0009 ($149,683,593.02, April 10, 2026) for range work at the Reagan Test Site"
     fn: 51
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Ignite Fueling Innovation]]"
     start: 2024-05-23
     role: "mentor in an SBA mentor-protege agreement (NAICS 541512, protege certifications SDVOSB and VOSB); Ignite subawardee to Radiance in 2013 and 2026"
     fn: 17
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Offset Strategic Services]]"
     start: 2024-11-04
     role: "mentor in an SBA mentor-protege agreement (NAICS 541715, protege certifications SDVOSB and VOSB)"
@@ -185,22 +185,22 @@ relations:
     end: 2023
     role: "listed as an affiliated organization on Venn Strategies' lobbying reports for the Roundtable (amended 2019 reports filed December 4, 2020 through the first-quarter 2023 report)"
     fn: 83
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Warren Averett]]"
     start: 2016
     role: "independent accountant for the Radiance Technologies, Inc. Employee Stock Ownership Plan on Schedule H of the Form 5500 for plan years 2016 through 2024 (spelled Warren Averitt on the 2020 to 2024 filings)"
     fn: 58
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Peraton]]"
     start: 2023-06-02
     role: "team member on the Peraton 'SCAR' task order ($284 million, one-year base and four option years) under the Defense Intelligence Agency Solutions for Intelligence Analysis 3 program for the Missile and Space Intelligence Center"
     fn: 13
-  - type: contracted_with
+  - type: contractor_to
     with: "[[Science Applications International Corporation]]"
     start: 2026-09-09
     role: "position on a COMET team led by SAIC, as stated in Radiance's release of September 9, 2026 and SAIC's Form 8-K exhibit of August 31, 2026"
     fn: 15
-  - type: contracted_with
+  - type: contractor_to
     with: "[[HII Mission Technologies]]"
     start: 2017-09-14
     role: "subawardee ('TECHNICAL SERVICES', subaward DSC3104B, eleven rows) under General Services Administration award GS05T13BMC0003, 'Foreign Materiel Exploitation Engineering and Maintenance Support'"
@@ -268,7 +268,7 @@ The same article states that Liberation Times "has been unable to further substa
 
 ### Political contributions
 
-The [[Federal Election Commission]] lists Radiance Technologies, Inc. Political Action Committee (C00372979, nonqualified PAC, first filed February 12, 2002). Its Schedule B disbursements to Mike Rogers for Congress (C00367862, an Alabama committee whose candidate identifier H2AL03032 is that of Michael Rogers, Alabama, House district 3) total $37,100 across 15 records from September 9, 2003 to February 5, 2024, the last four of $5,000 each (March 13, 2019; February 19, 2020; October 12, 2021; February 5, 2024). Disbursements to [[Citizens for Turner]] (C00373001, an Ohio committee whose candidate identifier H2OH03067 is that of Michael R. Turner, Ohio, House district 10) total $51,250 across 20 records (August 10, 2007 to June 18, 2024). Disbursements to Turner Victory Fund (C00611962, registered in Georgia as a joint fundraising committee, no sponsoring candidate listed in the FEC record) total $25,000 across 5 records (October 1, 2020 to June 23, 2025); no record opened ties that committee to Mike Turner. Two other recipients matched the search term "Rogers," Hal Rogers for Congress ($10,000) and an individual-named committee ($1,000), and are excluded. Liberation Times stated that "since 2010, over $30,000 was given by Radiance Technologies to Representative Rogers and over $60,000 to Representative Turner."[^22][^23]
+The [[Federal Election Commission]] lists Radiance Technologies, Inc. Political Action Committee (C00372979, nonqualified PAC, first filed February 12, 2002). Its Schedule B disbursements to Mike Rogers for Congress (C00367862, an Alabama committee whose candidate identifier H2AL03032 is that of Michael Rogers, Alabama, House district 3) total $37,100 across 15 records from September 9, 2003 to February 5, 2024, the last four of $5,000 each (March 13, 2019; February 19, 2020; October 12, 2021; February 5, 2024). Disbursements to [[Citizens for Turner]] (C00373001, an Ohio committee whose candidate identifier H2OH03067 is that of Michael R. Turner, Ohio, House district 10) total $51,250 across 20 records (August 10, 2007 to June 18, 2024). Disbursements to Turner Victory Fund (C00611962, registered in Georgia as a joint fundraising committee, no sponsoring candidate listed in the FEC record) total $25,000 across 5 records (October 1, 2020 to June 23, 2025). Two other recipients matched the search term "Rogers," Hal Rogers for Congress ($10,000) and an individual-named committee ($1,000), and are excluded. Liberation Times stated that "since 2010, over $30,000 was given by Radiance Technologies to Representative Rogers and over $60,000 to Representative Turner."[^22][^23]
 
 ### Bid protest
 

@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Political Figure"
 tags:
+  - KeyFigure
   - Person
   - Belgium
 summary: "Christian Social prime minister of Belgium from 1966 and 1978 and defense minister, convicted of tax evasion and kidnapped by the Haemers gang in 1989; named by the witness X1."

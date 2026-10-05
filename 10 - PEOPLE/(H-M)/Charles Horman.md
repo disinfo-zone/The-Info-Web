@@ -1,5 +1,5 @@
 ---
-category: "Authors & Journalists"
+category: "Victims & Witnesses"
 tags:
   - Person
   - CharlesHorman

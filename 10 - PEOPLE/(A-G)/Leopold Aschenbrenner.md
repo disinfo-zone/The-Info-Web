@@ -1,5 +1,5 @@
 ---
-category: "AI & Effective Altruism"
+category: "Business & Finance"
 tags:
   - Person
   - LeopoldAschenbrenner

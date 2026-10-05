@@ -8,7 +8,7 @@ aliases:
   - Banachek
   - Steve "Banachek" Shaw
   - Steven Banachek
-category: "Skeptics & Critics"
+category: "Entertainment & Arts"
 tags:
   - Person
   - Skeptic

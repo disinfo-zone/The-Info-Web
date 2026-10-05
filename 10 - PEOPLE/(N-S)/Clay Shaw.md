@@ -5,12 +5,13 @@ title: Clay Shaw
 aliases:
   - Clay Lavergne Shaw
 tags:
+  - HistoricalFigure
   - Person
   - JFKAssassination
   - NewOrleans
   - CIA
   - 1960s
-category: "Historical Figure"
+category: "Business & Finance"
 summary: "New Orleans businessman and Trade Mart founder, arrested by Jim Garrison in 1967 for conspiracy in the Kennedy assassination and acquitted in 1969, who reported to the CIA's Domestic Contact Service from 1948 to 1956."
 born: 1913-03-17
 died: 1974-08-14

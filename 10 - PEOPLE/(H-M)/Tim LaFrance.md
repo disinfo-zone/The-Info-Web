@@ -1,5 +1,5 @@
 ---
-category: "Military"
+category: "Arms Dealers & Brokers"
 tags:
   - Person
   - Person/Military

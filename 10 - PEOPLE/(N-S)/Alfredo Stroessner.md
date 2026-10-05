@@ -1,6 +1,7 @@
 ---
-category: "World War II & Nazi Era"
+category: "Political Figure"
 tags:
+  - WorldWarII
   - Person
   - WW2
   - Nazi

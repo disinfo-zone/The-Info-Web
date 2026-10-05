@@ -6,6 +6,7 @@ aliases:
   - Ingo Swann
   - Ingo Douglas Swann
 tags:
+  - KeyFigure
   - Person
   - RemoteViewer
   - SRI
@@ -15,7 +16,7 @@ tags:
   - Scientology
   - 1970s
   - 1980s
-category: "Key Figures"
+category: "Psychics & Remote Viewers"
 summary: "New York artist and Scientologist who brought remote viewing to SRI in 1972, gave the first coordinate readings of the West Virginia site in May 1973, and later trained Army viewers in his coordinate method."
 born: 1933-09-14
 died: 2013-01-31

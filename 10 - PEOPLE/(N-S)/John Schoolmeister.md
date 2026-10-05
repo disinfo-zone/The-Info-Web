@@ -1,5 +1,5 @@
 ---
-category: "Other"
+category: "Intelligence & Government"
 tags:
   - Person
 summary: "John Schoolmeister was employed by the U.S."

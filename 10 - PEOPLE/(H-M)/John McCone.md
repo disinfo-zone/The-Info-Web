@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
+  - KeyFigure
   - Person
   - CIA
   - ColdWar

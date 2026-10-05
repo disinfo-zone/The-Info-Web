@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Criminals & Offenders"
 tags:
+  - AbuseNetworks
   - Person
 summary: "Sidney Cooke led a gang of murderous pedophiles known as the 'Dirty Dozen' who were convicted of the abduction, rape, and murder of three boys during the 1980s."
 born: 1927-04-18

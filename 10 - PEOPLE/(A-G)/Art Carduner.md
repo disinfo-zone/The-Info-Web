@@ -1,5 +1,5 @@
 ---
-category: "Media & Entertainment"
+category: "Entertainment & Arts"
 tags:
   - Person
   - Cinema

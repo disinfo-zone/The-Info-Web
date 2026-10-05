@@ -1,6 +1,7 @@
 ---
-category: "BCCI Scandal"
+category: "Law Enforcement & Legal"
 tags:
+  - BCCI
   - Person
   - Lawyer
   - Arkansas

@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Business & Finance"
 tags:
   - Person
   - PROMIS

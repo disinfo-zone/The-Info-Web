@@ -1,5 +1,5 @@
 ---
-category: "PROMIS Scandal"
+category: "Intelligence & Government"
 created: 2024-04-25
 updated: 2026-05-01
 tags:

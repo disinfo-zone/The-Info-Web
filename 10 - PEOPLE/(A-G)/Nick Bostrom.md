@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Scientists & Researchers"
 tags:
+  - KeyFigure
   - Person
   - NickBostrom
   - Longtermism

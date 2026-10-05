@@ -1,8 +1,9 @@
 ---
 aliases:
 - Meir Amit
-category: "Psychics & Remote Viewers"
+category: "Intelligence & Government"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Meir Amit was the former chief of the Mossad, Israel's national intelligence agency."

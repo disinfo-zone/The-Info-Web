@@ -46,7 +46,7 @@ relations:
     role: "Chief Executive Officer and Chairman of Cantor"
     start: 2025-02-18
     fn: 2
-  - type: owner_of
+  - type: owned
     with: "[[BGC Group]]"
     role: "controlling stockholder through Class B common stock held by Cantor and CFGM; 105.3 million Class B shares at December 31, 2025"
     start: 2008-04-01
@@ -56,7 +56,7 @@ relations:
     role: "launched the eSpeed electronic Treasury trading system in 1996; eSpeed initial public offering December 10, 1999"
     start: 1996
     fn: 6
-  - type: investor_in
+  - type: funded
     with: "[[AdFin Solutions]]"
     role: "through CVAFH I LLC: 800,000 shares of Series A preferred stock for $350,000 (July 23, 2013) and a $2,000,000 convertible note (December 26, 2013)"
     start: 2013-07-23

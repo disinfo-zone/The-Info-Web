@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Military"
 tags:
+  - KeyFigure
   - Person
   - CIA
   - USMilitary

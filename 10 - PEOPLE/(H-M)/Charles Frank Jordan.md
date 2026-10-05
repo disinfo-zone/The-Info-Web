@@ -2,8 +2,9 @@
 aliases:
   - Charles Frank Jordan
   - Charles Jordan
-category: "Psychics & Remote Viewers"
+category: "Law Enforcement & Legal"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Charles Frank Jordan was a former special agent for the U.S."

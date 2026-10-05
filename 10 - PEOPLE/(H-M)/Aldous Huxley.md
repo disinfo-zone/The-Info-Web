@@ -1,5 +1,5 @@
 ---
-category: "Authors & Journalists"
+category: "Entertainment & Arts"
 tags:
   - Person
   - Author

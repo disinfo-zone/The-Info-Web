@@ -15,19 +15,13 @@ alias:
 summary: "Sierra Blanca limited liability company registered in 2007; holder of FCC licence WRBZ759 in the Quitman Mountains and payee of a 2014 sole-source International Boundary and Water Commission award for radio tower site access."
 location: "Sierra Blanca, Texas"
 relations:
-  - type: contracted_with
+  - type: contractor_to
     with: "[[International Boundary and Water Commission]]"
     start: 2014-09-10
     end: 2019-08-31
     role: "sole-source agreement IBM14P0145, $13,301.40, access to the Quitman Mountain site for maintenance of a radio tower and equipment for the American Dam Field Office"
     fn: 4
-  - type: licensed_by
-    with: "[[Federal Communications Commission]]"
-    start: 2018-08-03
-    end: 2028-08-03
-    role: "Industrial/Business Pool licence WRBZ759 (base station 152.315 MHz) at a pole site in the Quitman Mountains"
-    fn: 2
-  - type: part_of
+  - type: member_of
     with: "[[Sierra Blanca, Texas]]"
     start: 2007-09-24
     role: "registered with the Texas Secretary of State with a Sierra Blanca taxpayer address"

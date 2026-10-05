@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Military"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - SRI

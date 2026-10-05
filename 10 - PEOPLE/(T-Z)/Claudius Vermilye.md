@@ -3,8 +3,9 @@ aliases:
   - "Cladius Vermilye"
   - "Father Bud"
   - "Claudius I. Vermilye Jr."
-category: "Crime & Abuse Networks"
+category: "Criminals & Offenders"
 tags:
+  - AbuseNetworks
   - Person
   - ChildAbuse
   - Tennessee

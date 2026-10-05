@@ -1,8 +1,9 @@
 ---
 aliases:
 - John Taylor
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "John Taylor was a professor at King's College."

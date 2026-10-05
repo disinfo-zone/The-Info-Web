@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Political Figure"
 created: 2024-04-25
 updated: 2026-09-23
 tags:

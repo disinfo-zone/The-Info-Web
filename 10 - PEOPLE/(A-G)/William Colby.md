@@ -6,8 +6,9 @@ aliases:
   - William Egan Colby
   - Bill Colby
   - William E. Colby
-category: "Key Figures"
+category: "Intelligence & Government"
 tags:
+  - KeyFigure
   - Person
   - CIA
   - VietnamWar

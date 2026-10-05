@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Business & Finance"
 tags:
   - Person
   - JeffreyEpstein
@@ -60,11 +60,6 @@ relations:
     start: 2019-08-15
     end: 2025-07-23
     fn: 1
-  - type: received_forward_from
-    with: "[[Jeffrey Epstein]]"
-    start: 2010-12-02
-    role: 'received, with the single word "FYI," Epstein''s forward of a request for a banker introduction for Aria Petroleum that the Duke of York had sent him the same day'
-    fn: 15
 ---
 
 James Edward Staley is an American banker who spent more than three decades at [[JPMorgan Chase]], rose to run its asset management and then its investment bank, and served as group chief executive of [[Barclays]] from December 2015 until November 2021. During his JPMorgan years he was the senior executive who managed and advocated for the bank's relationship with [[Jeffrey Epstein]], a private-banking client from 1998 to 2013. In a Decision Notice dated May 30, 2023 and published on October 12, 2023, the [[Financial Conduct Authority]] banned Staley from holding senior management functions in UK financial services and fined him for recklessly approving a letter that misled the regulator about his relationship with Epstein, a decision the [[Upper Tribunal]] upheld on June 26, 2025 while reducing the penalty to 1,107,306.92 pounds.[^1][^2][^3][^4]

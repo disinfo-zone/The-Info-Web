@@ -1,5 +1,5 @@
 ---
-category: "Nuclear Scientists & Programs"
+category: "Authors & Journalists"
 tags:
   - Person
   - Nuclear

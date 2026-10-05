@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Other"
 tags:
   - Person
   - Lawyer

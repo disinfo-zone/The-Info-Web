@@ -15,7 +15,7 @@ tags:
   - ColdWar
   - 1950s
   - 1960s
-category: "Intelligence & Government"
+category: "Medicine & Psychology"
 summary: "Ewen Cameron was a Scottish-Canadian psychiatrist and president of the American Psychiatric Association who ran CIA-funded MKULTRA Subproject 68 at McGill University's Allan Memorial Institute from 1957 to 1963, subjecting unconsenting psychiatric patients to multi-week drug-induced sleep, massive electroconvulsive shocks, and LSD under his theory of 'psychic driving' as behavioral depatterning."
 born: 1901-12-24
 died: 1967-09-08

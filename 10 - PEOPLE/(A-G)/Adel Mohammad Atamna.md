@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Victims & Witnesses"
 tags:
   - Person
 summary: "Palestinian student and friend of Ari Ben-Menashe who was the target of an attempted SHABAK recruitment of Ben-Menashe as an informant."

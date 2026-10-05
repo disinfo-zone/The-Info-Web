@@ -1,5 +1,5 @@
 ---
-category: "Organized Crime"
+category: "Business & Finance"
 aliases:
   - "Adam Aristotle Starchild"
   - "Malcolm McConahy"

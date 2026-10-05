@@ -1,5 +1,5 @@
 ---
-category: "Intelligence Scandal"
+category: "Business & Finance"
 tags:
   - Person
   - ChristopherDrogoul

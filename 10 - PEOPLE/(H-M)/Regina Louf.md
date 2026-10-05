@@ -1,8 +1,9 @@
 ---
 aliases:
   - X1
-category: "Key Figures"
+category: "Victims & Witnesses"
 tags:
+  - KeyFigure
   - Person
   - Belgium
   - Dutroux

@@ -1,8 +1,9 @@
 ---
 aliases:
 - Severin Dahlen
-category: "Psychics & Remote Viewers"
+category: "Scientists & Researchers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Severin Dahlen was a metallurgist who collaborated with Jack Houck, a Boeing Aerospace engineer, on research into psychokinesis (PK) and metal bending."

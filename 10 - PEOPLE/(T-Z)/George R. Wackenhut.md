@@ -1,5 +1,5 @@
 ---
-category: "Law Enforcement & Legal"
+category: "Business & Finance"
 tags:
   - Person
   - GeorgeWackenhut

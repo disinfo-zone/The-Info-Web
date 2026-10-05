@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Criminals & Offenders"
 tags:
+  - AbuseNetworks
   - Person
 summary: "German operator of boy brothels in Rotterdam whose police file recorded the sale of hundreds of boys; officers saw him with a boy believed to be Manuel Schadwald and did not intervene."
 updated: 2026-09-22

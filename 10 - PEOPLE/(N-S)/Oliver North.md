@@ -6,8 +6,9 @@ aliases:
   - Oliver Laurence North
 created: 2026-05-17
 updated: 2026-09-22
-category: "Key Figures"
+category: "Military"
 tags:
+  - KeyFigure
   - Person
   - IranContra
   - ArmsDealer

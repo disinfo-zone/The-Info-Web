@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Authors & Journalists"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Armand Van Ghysegham was a book publisher operating under the name Aba-Vangh and the owner of two esoteric bookstores in Brussels, Belgium."

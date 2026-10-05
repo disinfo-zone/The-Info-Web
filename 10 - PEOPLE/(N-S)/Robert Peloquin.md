@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Business & Finance"
 tags:
   - Person
   - RobertPeloquin

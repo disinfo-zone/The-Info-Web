@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Medicine & Psychology"
 tags:
   - Person
   - CIA

@@ -1,8 +1,9 @@
 ---
 aliases:
 - Julian Leek
-category: "Psychics & Remote Viewers"
+category: "Occult & Esoteric"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Julian Leek is the son of Sybil Leek, a prominent British witch and astrologer."

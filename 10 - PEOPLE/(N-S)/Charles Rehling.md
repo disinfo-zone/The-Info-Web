@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Other"
 tags:
+  - AbuseNetworks
   - Person
 summary: "Charles Rehling leased an apartment in Homewood, Illinois, to John David Norman under the alias Steven Gurwell."
 ---

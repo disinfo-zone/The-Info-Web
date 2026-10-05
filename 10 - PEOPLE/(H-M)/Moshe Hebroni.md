@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Military"
 tags:
   - Person
 summary: "Major Moshe Hebroni was the chief of staff for the director of Israeli Military Intelligence, Yehoshua Sagi."

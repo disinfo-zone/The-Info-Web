@@ -1,8 +1,9 @@
 ---
 aliases:
 - Jacques Vallée
-category: "Psychics & Remote Viewers"
+category: "UFO & Anomalous Phenomena"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

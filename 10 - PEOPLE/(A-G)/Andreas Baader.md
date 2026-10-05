@@ -10,7 +10,7 @@ tags:
   - Terrorism
   - RedArmyFaction
   - 1970s
-category: "Political Figure"
+category: "Extremism & Violent Networks"
 summary: "Andreas Baader was the co-founder and operational leader of the Red Army Faction who organized the RAF's bombing campaign of 1972, was imprisoned at Stammheim, and was found dead in his cell on October 18, 1977 following the West German government's successful rescue of Lufthansa Flight 181 hostages in Mogadishu - a death officially ruled suicide but disputed by the RAF."
 born: 1943-05-06
 died: 1977-10-18

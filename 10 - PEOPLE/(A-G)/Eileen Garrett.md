@@ -1,6 +1,7 @@
 ---
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Eileen Garrett was an Irish medium who was well-known in New York City parapsychology circles."

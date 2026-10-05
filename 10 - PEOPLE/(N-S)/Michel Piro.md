@@ -1,8 +1,9 @@
 ---
-category: "Belgium Scandals"
+category: "Victims & Witnesses"
 aliases:
   - "Michel Pirot"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

@@ -1,5 +1,5 @@
 ---
-category: "Skeptics & Critics"
+category: "Scientists & Researchers"
 tags:
   - Person
   - Skeptic

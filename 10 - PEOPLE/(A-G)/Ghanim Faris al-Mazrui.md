@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Business & Finance"
 alias:
   - Ghanim Fan's al-Mazrui
   - Ghanim Faris Al Mazrui

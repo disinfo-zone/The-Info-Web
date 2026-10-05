@@ -1,8 +1,9 @@
 ---
 aliases:
 - Marlin Fitzwater
-category: "Psychics & Remote Viewers"
+category: "Political Figure"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Marlin Fitzwater was the White House press secretary under President Ronald Reagan."

@@ -4,10 +4,11 @@ aliases:
   - Edwin Meese
   - Edwin Meese III
   - Ed Meese
-category: "Key Figures"
+category: "Political Figure"
 created: 2024-04-25
 updated: 2026-05-17
 tags:
+  - KeyFigure
   - Person
   - PROMIS
   - Lawyer

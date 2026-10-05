@@ -1,5 +1,5 @@
 ---
-category: "BCCI Scandal"
+category: "Political Figure"
 alias:
   - "Sheikh Zayed"
   - "Zayed bin Sultan Al Nahyan"

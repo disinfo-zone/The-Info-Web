@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Political Figure"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
   - Dutroux

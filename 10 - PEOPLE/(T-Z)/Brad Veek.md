@@ -3,6 +3,7 @@ aliases:
 - Brad Veek
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Brad Veek was a cartographer and career submariner who played a role in Project Deep Quest."

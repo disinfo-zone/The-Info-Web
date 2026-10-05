@@ -1,6 +1,7 @@
 ---
-category: "Crime & Abuse Networks"
+category: "Entertainment & Arts"
 tags:
+  - AbuseNetworks
   - Person
   - AdultFilm
   - FemmeProductions

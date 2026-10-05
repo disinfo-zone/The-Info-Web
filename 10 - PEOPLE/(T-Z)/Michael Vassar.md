@@ -1,6 +1,7 @@
 ---
-category: "AI & Effective Altruism"
+category: "Technologists"
 tags:
+  - EffectiveAltruism
   - Person
   - Rationalism
   - MIRI

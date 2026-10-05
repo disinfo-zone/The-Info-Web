@@ -1,6 +1,7 @@
 ---
-category: "PROMIS Scandal"
+category: "Business & Finance"
 tags:
+  - PROMIS
   - Person
 summary: "American engineer and CEO of McDonnell Douglas Corporation, member of FGBMFI connected to the PROMIS scandal network."
 born: 1922-10-12

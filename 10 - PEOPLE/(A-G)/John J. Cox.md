@@ -4,7 +4,7 @@ aliases:
   - John J. Cox
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Other"
 tags:
   - Person
   - TheFinders

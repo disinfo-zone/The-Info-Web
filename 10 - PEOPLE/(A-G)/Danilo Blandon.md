@@ -26,8 +26,9 @@ relations:
     fn: 16
 created: 2026-05-17
 updated: 2026-09-22
-category: "Key Figures"
+category: "Organized Crime"
 tags:
+  - KeyFigure
   - Person
   - DrugTrafficker
   - Nicaragua

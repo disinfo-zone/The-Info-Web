@@ -5,8 +5,9 @@ aliases:
   - Joseph Daniel Casolaro
 created: 2024-04-25
 updated: 2026-05-17
-category: "Key Figures"
+category: "Authors & Journalists"
 tags:
+  - KeyFigure
   - Person
   - PROMIS
   - CIA

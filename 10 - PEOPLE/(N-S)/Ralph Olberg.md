@@ -1,5 +1,5 @@
 ---
-category: "Intelligence & Government"
+category: "Arms Dealers & Brokers"
 tags:
   - Person
 summary: "Discussions included the Mujahideen's willingness to field test new and esoteric weapons and return research reports with photos."

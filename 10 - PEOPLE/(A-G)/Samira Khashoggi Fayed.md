@@ -1,6 +1,7 @@
 ---
-category: "Historical Figure"
+category: "Other"
 tags:
+  - HistoricalFigure
   - Person
 summary: "Sister of Adnan Khashoggi and mother of Dodi Fayed, connected to the Khashoggi family's arms dealing network."
 born: 1935

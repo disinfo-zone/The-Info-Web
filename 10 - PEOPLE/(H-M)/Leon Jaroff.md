@@ -1,7 +1,7 @@
 ---
 aliases:
 - Leon Jaroff
-category: "Skeptics & Critics"
+category: "Authors & Journalists"
 tags:
   - Person
   - Skeptic

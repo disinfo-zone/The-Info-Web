@@ -8,7 +8,7 @@ aliases:
   - Charles Rose
 created: 2026-05-17
 updated: 2026-09-22
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Congress

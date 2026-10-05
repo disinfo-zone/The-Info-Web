@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Arms Dealers & Brokers"
 tags:
+  - IranContra
   - Person
 summary: "In late 1985, Ari Ben-Menashe approached Sanders to purchase cluster bombs for Israel."
 ---

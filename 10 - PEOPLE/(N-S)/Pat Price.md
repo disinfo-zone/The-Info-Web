@@ -6,6 +6,7 @@ aliases:
   - Pat Price
   - Patrick Price
 tags:
+  - KeyFigure
   - Person
   - RemoteViewer
   - SRI
@@ -13,7 +14,7 @@ tags:
   - CIA
   - PSI
   - 1970s
-category: "Key Figures"
+category: "Psychics & Remote Viewers"
 summary: "Former Burbank police commissioner and SRI subject S1 whose 1973 West Virginia and Urals readings the CIA called substantially correct, whose Semipalatinsk session Los Alamos judged unsuccessful, and who died in 1975."
 born: 1918-12-08
 died: 1975-07-14

@@ -15,49 +15,11 @@ tags:
 summary: "Hudspeth County seat inside the seven-point national defense airspace polygon of FAA notice 5/3497 (November 2025), with the Mile High Resources Range and Skywatcher's 2025 field operations."
 location: "Sierra Blanca, Hudspeth County, Texas"
 relations:
-  - type: part_of
+  - type: member_of
     with: "[[Hudspeth County, Texas]]"
     start: 1917-02
     role: "county seat since the county's organization from eastern El Paso County in February 1917"
     fn: 2
-  - type: hosted
-    with: "[[Raytheon]]"
-    start: 2015-10-12
-    role: "Pike 40 mm guided-munition flight tests 'at Mile High Resources in Texas' (release of October 12, 2015); later Next Generation Short Range Interceptor radio filings naming the 'Mile High Resources Range, 2000 Skunk Canyon Rd., Sierra Blanca, TX'"
-    fn: 20
-  - type: hosted
-    with: "[[Sky Watcher|Skywatcher]]"
-    start: 2025
-    end: 2025-07
-    role: "base of the private detection group's field operations, per Ross Coulthart"
-    fn: 7
-  - type: hosted
-    with: "[[Dynetics]]"
-    start: 2023-01-16
-    role: "experimental licence WK2XCW filings listing a Sierra Blanca entry at 31 20 05 N, 105 30 16 W (10 km radius); earliest Sierra Blanca-era filing 0012-EX-CM-2023"
-    fn: 22
-  - type: hosted
-    with: "[[RADA Technologies]]"
-    start: 2023-02-20
-    role: "radar tests filed under WV9XAV (0384-EX-ST-2023) and WV9XWE (1443-EX-ST-2023), the second naming 'Mile High Range in Texas' and customer BAE"
-    fn: 23
-  - type: hosted
-    with: "[[Numerica Corporation]]"
-    start: 2023-11-13
-    role: "short-range air defense radar test for unmanned aircraft detection, special temporary authority WW9XKG (2178-EX-ST-2023), testing planned November 13 to 27, 2023"
-    fn: 24
-  - type: hosted
-    with: "[[Drug Enforcement Administration]]"
-    start: 2014-01-07
-    end: 2015-11-30
-    role: "El Paso Intelligence Center licences for access to Quitman Mountain and 'remote collection' (awards DJD14NEP0008 and DJD15NEP0006, $2,582.88 each)"
-    fn: 14
-  - type: hosted
-    with: "[[International Boundary and Water Commission]]"
-    start: 2014-09-10
-    end: 2019-08-31
-    role: "radio tower for the American Dam Field Office on Quitman Mountain, access awards IBM14P0145 and IBM14P0140"
-    fn: 15
 created: 2026-10-04
 updated: 2026-10-04
 ---

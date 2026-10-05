@@ -7,6 +7,7 @@ aliases:
   - Pieter van der Hurk
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - PSI

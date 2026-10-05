@@ -1,6 +1,7 @@
 ---
-category: "Belgium Scandals"
+category: "Criminals & Offenders"
 tags:
+  - BelgiumScandals
   - Person
   - Belgium
 summary: "Jean Manuel Vuillaume was a Belgian pornographer who headed Toro Bravo, a child pornography production company based in Bogota, Colombia."

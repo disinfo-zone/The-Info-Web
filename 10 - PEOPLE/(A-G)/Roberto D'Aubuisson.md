@@ -4,7 +4,7 @@ aliases:
   - Roberto D'Aubuisson
 created: 2026-05-17
 updated: 2026-05-17
-category: "Intelligence & Government"
+category: "Political Figure"
 tags:
   - Person
   - Politician

@@ -55,16 +55,6 @@ relations:
     role: "transcribed interview of May 6, 2026, including questions on Adfin Solutions"
     start: 2026-05-06
     fn: 15
-  - type: honored_by
-    with: "[[UJA-Federation of New York]]"
-    start: 2017-12-11
-    role: 'honoree at the UJA-Federation of New York Wall Street Dinner of December 11, 2017, with Lee Fixel; the invitation to Epstein from John Paulson was titled "UJA Wall Street Dinner honoring Howard Lutnick"'
-    fn: 32
-  - type: listed_as_benefit_co_chair_of
-    with: "[[Dubin Breast Center]]"
-    role: "listed as \"Allison and Howard Lutnick\" under \"Benefit Co-Chairs\" on invitations to the center's second (December 10, 2012) and third (December 9, 2013) annual benefits, and under \"Benefit Committee\" on the letter for the December 11, 2017 gala, in messages addressed to Jeffrey Epstein"
-    start: 2012-12-10
-    fn: 35
   - type: subject_of
     with: "[[Federal Bureau of Investigation]]"
     role: "second National Threat Operations Center intake naming him (October 19, 2020, case 50D-NY-3027571) and FD-302 of an interview of February 16, 2021 (serial 593) recording an interviewee's allegations and his statement that he \"has never interacted with LUTNICK\"; an FBI email of January 30, 2025 states \"We did not open an investigation as a result of these allegations\""

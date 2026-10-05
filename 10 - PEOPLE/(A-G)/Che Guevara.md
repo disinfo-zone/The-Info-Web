@@ -7,6 +7,7 @@ aliases:
   - El Che
   - Ernesto Che Guevara
 tags:
+  - HistoricalFigure
   - Person
   - CIA
   - Cuba
@@ -15,7 +16,7 @@ tags:
   - ColdWar
   - 1950s
   - 1960s
-category: "Historical Figure"
+category: "Political Figure"
 summary: "Ernesto 'Che' Guevara was an Argentine Marxist revolutionary who witnessed the 1954 CIA-backed coup against Jacobo Arbenz in Guatemala, became a key military commander of the Cuban Revolution, served as Minister of Industries in Cuba, and was captured and executed in Bolivia on October 9, 1967 with CIA assistance - with agency officer Felix Rodriguez present at his death."
 born: 1928-06-14
 died: 1967-10-09

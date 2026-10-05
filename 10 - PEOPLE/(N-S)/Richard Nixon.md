@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Political Figure"
 tags:
+  - KeyFigure
   - Person
   - CIA
   - NSA

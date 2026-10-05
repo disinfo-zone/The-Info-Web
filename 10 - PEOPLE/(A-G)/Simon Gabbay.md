@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Intelligence & Government"
 tags:
+  - IranContra
   - Person
 summary: "Israeli intelligence asset in Paris who coordinated the October 1980 Paris meeting between Israeli, Iranian, and American delegations."
 ---

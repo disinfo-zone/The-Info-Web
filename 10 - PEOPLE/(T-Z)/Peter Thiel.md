@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Technologists"
 tags:
+  - KeyFigure
   - Person
   - PeterThiel
   - Palantir

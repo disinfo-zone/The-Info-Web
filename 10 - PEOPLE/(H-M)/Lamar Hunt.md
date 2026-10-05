@@ -1,5 +1,5 @@
 ---
-category: "JFK Assassination"
+category: "Business & Finance"
 tags:
   - Person
   - LamarHunt

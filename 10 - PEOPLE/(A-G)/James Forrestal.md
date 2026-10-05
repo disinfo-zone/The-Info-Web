@@ -1,5 +1,5 @@
 ---
-category: "People"
+category: "Intelligence & Government"
 tags:
   - Person
   - SecretaryOfDefense

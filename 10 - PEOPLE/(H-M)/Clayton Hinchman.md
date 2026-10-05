@@ -1,5 +1,5 @@
 ---
-category: "People"
+category: "Business & Finance"
 tags:
   - Person
   - DefenseContractor
@@ -30,12 +30,6 @@ relations:
     with: "[[Elizabeth Dole Foundation]]"
     role: "past board member"
     fn: 1
-  - type: candidate_for
-    with: "[[Alabama's 5th congressional district]]"
-    start: "2017-06-20"
-    end: "2018-06-05"
-    role: "Republican primary candidate; 34,739 votes (38.7 percent) against incumbent Mo Brooks"
-    fn: 9
   - type: funded
     with: "[[Hinchman for Congress]]"
     start: "2018-03-30"

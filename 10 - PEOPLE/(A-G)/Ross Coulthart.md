@@ -1,6 +1,7 @@
 ---
-category: "UFO & Anomalous Phenomena"
+category: "Authors & Journalists"
 tags:
+  - UFO
   - Person
   - UAP
   - Journalist

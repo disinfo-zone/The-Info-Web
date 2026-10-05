@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Law Enforcement & Legal"
 tags:
+  - IranContra
   - Person
   - Person/Contra
   - Nicaragua

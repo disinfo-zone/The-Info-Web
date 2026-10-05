@@ -1,6 +1,7 @@
 ---
-category: "New Right"
+category: "Scientists & Researchers"
 tags:
+  - NewRight
   - Person
   - RaceScience
   - PioneerFund

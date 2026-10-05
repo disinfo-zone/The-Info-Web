@@ -2,8 +2,9 @@
 aliases:
   - Leslie Ronald Young
   - Jimmy Young
-category: "Psychics & Remote Viewers"
+category: "Entertainment & Arts"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Leslie Ronald 'Jimmy' Young was a veteran British broadcaster for BBC Radio 2, known for his show *The Jimmy Young Show*, which had a wide audience across England, Ireland, and Scotland."

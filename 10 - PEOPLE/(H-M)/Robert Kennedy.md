@@ -2,7 +2,7 @@
 aliases:
   - "Robert F. Kennedy"
   - "RFK"
-category: "Intelligence Scandal"
+category: "Political Figure"
 tags:
   - Person
   - JFK

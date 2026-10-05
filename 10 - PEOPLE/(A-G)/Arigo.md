@@ -3,6 +3,7 @@ aliases:
 - Arigo
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Military

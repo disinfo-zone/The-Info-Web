@@ -6,13 +6,14 @@ aliases:
   - Jacobo Árbenz Guzmán
   - President Arbenz
 tags:
+  - HistoricalFigure
   - Person
   - Guatemala
   - CIA
   - CoupDetat
   - ColdWar
   - 1950s
-category: "Historical Figure"
+category: "Political Figure"
 summary: "Jacobo Arbenz was the democratically elected President of Guatemala from 1951 to 1954 whose land reform program expropriating United Fruit Company holdings prompted the CIA's Operation PBSUCCESS, which overthrew his government in June 1954 and established the CIA-backed coup as the template for subsequent Cold War interventions in Latin America."
 born: 1913-09-14
 died: 1971-01-27

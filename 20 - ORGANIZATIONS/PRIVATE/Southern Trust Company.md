@@ -44,7 +44,7 @@ relations:
     role: "Series A preferred purchaser: 1,142,857 shares for $499,999.94 (April 10, 2013) and 285,714 shares for $124,999.87 (July 23, 2013); 4.50 percent of the company with options on January 4, 2018"
     start: 2013-04-10
     fn: 12
-  - type: contracted_with
+  - type: contractor_to
     with: "[[CVAFH I LLC]]"
     role: "co-purchaser in the AdFin Series A closing set of July 23, 2013, and co-consenting holder on the December 26, 2013 bridge-loan stockholder consent"
     start: 2013-07-23

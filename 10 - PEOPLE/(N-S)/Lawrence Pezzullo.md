@@ -1,6 +1,7 @@
 ---
-category: "Iran-Contra"
+category: "Intelligence & Government"
 tags:
+  - IranContra
   - person
   - contra-war
 summary: Lawrence Pezzullo was the U.S. ambassador to Nicaragua who negotiated with Anastasio Somoza during the final days of his regime, assuring him the United States was willing to preserve the National Guard.

@@ -1,8 +1,9 @@
 ---
 aliases:
 - Samuel Goudsmit
-category: "World War II & Nazi Era"
+category: "Scientists & Researchers"
 tags:
+  - WorldWarII
   - Person
   - WW2
   - Nazi

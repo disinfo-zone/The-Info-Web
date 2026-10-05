@@ -1,6 +1,7 @@
 ---
-category: "Key Figures"
+category: "Psychics & Remote Viewers"
 tags:
+  - KeyFigure
   - Person
   - Stargate
   - CIA

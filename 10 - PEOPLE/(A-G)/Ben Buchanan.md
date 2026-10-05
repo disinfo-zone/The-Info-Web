@@ -1,8 +1,9 @@
 ---
-category: "AI & Effective Altruism"
+category: "Intelligence & Government"
 aliases:
   - "Benjamin Buchanan"
 tags:
+  - EffectiveAltruism
   - Person
   - CSET
   - NationalSecurityCouncil

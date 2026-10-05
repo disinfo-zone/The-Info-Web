@@ -3,6 +3,7 @@ aliases:
 - Stephan Schwartz
 category: "Psychics & Remote Viewers"
 tags:
+  - Psi
   - Person
   - RemoteViewer
   - Soviet

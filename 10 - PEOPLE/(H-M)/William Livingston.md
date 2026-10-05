@@ -1,6 +1,7 @@
 ---
-category: "Psychics & Remote Viewers"
+category: "Medicine & Psychology"
 tags:
+  - Psi
   - Person
   - RemoteViewer
 summary: "Medical doctor who ran the CIA's weird desk investigating unusual medical issues, alien implants, and abduction cases related to UAP encounters."
