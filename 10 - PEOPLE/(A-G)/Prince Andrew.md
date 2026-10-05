@@ -46,7 +46,7 @@ relations:
   - type: advised_by
     with: "[[David Stern (business adviser)]]"
     start: 2013-07-10
-    role: 'described by the BBC (July 14, 2026) as "the prince\'s business aide"; sender of the July 10, 2013 note "Just met him with PA" and of the September 2, 2013 exchange on the Cantor term sheet'
+    role: "described by the BBC (July 14, 2026) as \"the prince's business aide\"; sender of the July 10, 2013 note \"Just met him with PA\" and of the September 2, 2013 exchange on the Cantor term sheet"
     fn: 8
 ---
 

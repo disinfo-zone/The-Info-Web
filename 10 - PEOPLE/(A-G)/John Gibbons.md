@@ -23,7 +23,7 @@ relations:
   - type: employed_by
     with: "[[Oak Ridge National Laboratory]]"
     start: 1954
-    role: "physicist, fifteen years per the White House biography""
+    role: "physicist, fifteen years per the White House biography\""
     fn: 1
   - type: director_of
     with: "[[Office of Technology Assessment]]"

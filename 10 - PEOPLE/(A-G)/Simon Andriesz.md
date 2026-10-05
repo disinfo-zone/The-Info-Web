@@ -34,7 +34,7 @@ relations:
   - type: named_in
     with: "[[Federal Bureau of Investigation]]"
     start: 2021-02-16
-    role: 'FD-302 (50D-NY-3027571, serial 593) of a telephone interview of February 16, 2021; the interviewee's name is redacted throughout and the surname "ANDREISZ" appears once, in a passage on charity-day trading'
+    role: "FD-302 (50D-NY-3027571, serial 593) of a telephone interview of February 16, 2021; the interviewee's name is redacted throughout and the surname \"ANDREISZ\" appears once, in a passage on charity-day trading"
     fn: 11
   - type: informed
     with: "[[House Committee on Oversight and Government Reform]]"
