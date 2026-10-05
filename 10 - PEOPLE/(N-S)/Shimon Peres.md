@@ -19,7 +19,7 @@ Peres's rise to influence began in late 1953, when [[David Ben-Gurion]] appointe
 
 As the architect of Israel's nuclear ambitions, Peres was effectively the father of Israel's nuclear program in the mid-1950s. Working under David Ben-Gurion, he believed that Israel needed nuclear weapons as a deterrent against [[Arab countries]]. Understanding the technical requirements, Peres knew that no plutonium weapon could be made without a reprocessing plant, and that its construction was impossible without French commitment.[^2]
 
-Peres also insisted on the creation of a new intelligence agency, initially known as the Office of Special Tasks, to provide security for the burgeoning nuclear operation at [[Dimona]]. This office, handpicked by Peres and led by [[Binyamin Blumberg]], was bureaucratically placed inside the defense ministry and would later become known as [[LAKAM]].[^3]
+Peres also insisted on the creation of a new intelligence agency, initially known as the [[Office of Special Tasks]], to provide security for the nuclear project at [[Dimona]]; its director, [[Binyamin Blumberg]], a former military intelligence officer, was handpicked by Peres, and the office was placed bureaucratically inside the defense ministry. It became known in the mid-1970s as the Science Liaison Bureau, or [[LAKAM]].[^3]
 
 ### International Nuclear Partnerships
 
@@ -51,3 +51,4 @@ Peres's long political career eventually faced a significant setback in 1992, wh
 
 [^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. 
 [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 2.
+[^3]: Hersh, Seymour M. _The Samson Option: Israel\'s Nuclear Arsenal and American Foreign Policy_. Random House, 1991, p. 62 (creation of the Office of Special Tasks, Blumberg as director) and p. 205 (renamed the Science Liaison Bureau, LAKAM, in the mid-1970s). https://archive.org/details/Sampson_Option
