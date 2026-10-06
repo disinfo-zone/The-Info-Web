@@ -19,11 +19,11 @@ location: "Georgia (country)"
 
 ### Leadership of Maniac Murder Cult
 
-Chkhikvishvili assumed MKY leadership following Krasnov's 2020 detention and expanded the network's geographic reach beyond its Ukrainian origins. He maintained MKY's core operational model - the "Murder Points" rank system that assigns numerical values to criminal acts escalating from vandalism through assault to terrorism - while recruiting internationally through Telegram channels and using encrypted [[Wire]] and [[Matrix]] applications for internal communications.
+The [[Anti-Defamation League]] describes Chkhikvishvili as having taken over MKY leadership after Krasnov's 2020 arrest.[^2] Krasnov was meanwhile on trial in [[Dnipro]] and, according to [[Current Time]] in March 2021, still directing MKU Telegram channels from jail.[^3] The third edition of the Haters Handbook (2023), credited to Chkhikvishvili, carries Krasnov's biography.[^4] Chkhikvishvili expanded the network's geographic reach beyond its Ukrainian origins. He maintained MKY's core operational model - the "Murder Points" rank system that assigns numerical values to criminal acts escalating from vandalism through assault to terrorism - while recruiting internationally through Telegram channels and using encrypted [[Wire]] and [[Matrix]] applications for internal communications.
 
 Under his leadership, MKY members were linked to several real-world attacks, most significantly the 2022 Romanian case in which a 17-year-old livestreamed the murder of an elderly woman as an initiation act (the perpetrator was convicted in August 2023 to 14 years), and the August 2024 [[Eskisehir]] mosque stabbing in Turkey.
 
-His alias was cited by name in the manifesto left by [[Solomon Henderson]], 17, who shot and killed student [[Josselin Corea Escalante]] at Antioch High School in [[Nashville, Tennessee]] on January 22, 2025, before dying by suicide. The [[Nashville Metropolitan Police Department]]'s January 2026 investigative update concluded Henderson had no co-conspirators and found no evidence of direct operational direction from MKY.[^2]
+His alias was cited by name in the manifesto left by [[Solomon Henderson]], 17, who shot and killed student [[Josselin Corea Escalante]] at Antioch High School in [[Nashville, Tennessee]] on January 22, 2025, before dying by suicide. The [[Nashville Metropolitan Police Department]]'s January 2026 investigative update concluded Henderson had no co-conspirators and found no evidence of direct operational direction from MKY.[^5]
 
 ### Indictment, Extradition, and Conviction
 
@@ -34,4 +34,7 @@ The [[U.S. Department of Justice]] announced his extradition from Moldova in May
 ### Footnotes
 
 [^1]: U.S. Department of Justice, OPA. "Georgian National Sentenced to 15 Years in Prison for Soliciting Hate Crimes and Planning Mass Casualty Attack." May 2026. https://www.justice.gov/opa/pr/georgian-national-sentenced-15-years-prison-soliciting-hate-crimes-and-planning-mass; U.S. Department of Justice, OPA. "Georgian National Extradited from Moldova to Face Charges of Soliciting Hate Crimes and Planning Mass Casualty Attack." May 2025. https://www.justice.gov/opa/pr/georgian-national-extradited-moldova-face-charges-soliciting-hate-crimes-and-planning-mass
-[^2]: ADL. "Antioch, Tenn. Shooter Inspired by Broad Extremist Beliefs and Previous Mass Killers." https://www.adl.org/resources/article/antioch-tenn-shooter-inspired-broad-extremist-beliefs-and-previous-mass-killers
+[^2]: ADL, "Maniac Murder Cult (MKY, MKU, MMC)," Glossary of Extremism. https://extremismterms.adl.org/glossary/maniac-murder-cult-mky-mku-mmc
+[^3]: Andrey Soshnikov, "Что такое «М.К.У.». Рассказываем о «культе» убийств, созданном украинскими скинхедами, и его последователях в России," Current Time, March 26, 2021. https://www.currenttime.tv/a/chto-takoe-m-k-u/31171118.html
+[^4]: Marc-André Argentino, Arthur Gay and Naomi Bastin, "Nihilism and Terror: How M.K.Y. Is Redefining Terrorism, Recruitment, and Mass Violence," CTC Sentinel, Combating Terrorism Center at West Point, 2024. https://ctc.westpoint.edu/nihilism-and-terror-how-m-k-y-is-redefining-terrorism-recruitment-and-mass-violence/
+[^5]: ADL. "Antioch, Tenn. Shooter Inspired by Broad Extremist Beliefs and Previous Mass Killers." https://www.adl.org/resources/article/antioch-tenn-shooter-inspired-broad-extremist-beliefs-and-previous-mass-killers
