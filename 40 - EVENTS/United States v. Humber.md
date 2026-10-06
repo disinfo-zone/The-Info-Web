@@ -10,7 +10,7 @@ tags:
   - USA
   - MaterialSupport
   - DomesticTerrorism
-summary: "United States v. Humber (2:24-cr-00257, E.D. Cal.) is the primary U.S. federal prosecution of the Terrorgram Collective's inner leadership, charging Dallas Humber and Matthew Robert Allison on 15 counts including conspiracy to provide material support to terrorists under 18 U.S.C. 2339A, resulting in Humber's 30-year sentence in December 2025."
+summary: "United States v. Humber (2:24-cr-00257, E.D. Cal.) prosecuted Terrorgram Collective leaders Dallas Humber and Matthew Robert Allison on 15 counts including material support to terrorists, ending in Humber's 30-year sentence in December 2025."
 created: 2026-05-22
 updated: 2026-05-22
 ---
@@ -37,7 +37,7 @@ At the time of the indictment, Terrorgram Collective was not designated as an FT
 
 ### Evidence Cited
 
-The indictment and DOJ press releases identified specific evidentiary items: Humber's December 2022 post of electrical substation transformer images captioned "for educational purposes only of course"; her January 2023 post praising the Randolph County, [[EnergyUnited]] substation shooting as evidence that Terrorgram's "hard work in detailing its effectiveness" had "encouraged" the attack; her October 2022 communications with a [[Telegram]] user planning a Brazil school shooting one month before the [[Aracruz school shootings|Aracruz attack]]; her continued contact from pretrial detention; all three Terrorgram publications (*Militant Accelerationism*, *Do It For The Gram*, *The Hard Reset*); and the "White Terror" video series produced by Allison featuring 105 far-right killers.[^4]
+The indictment and DOJ press releases identified specific evidentiary items: Humber's December 2022 post of electrical substation transformer images captioned "for educational purposes only of course"; her January 2023 post praising the Randolph County, [[EnergyUnited]] substation shooting as evidence that Terrorgram's "hard work in detailing its effectiveness" had "encouraged" the attack; her October 2022 statement that she had direct messages with a [[Telegram]] user planning a school shooting, one month before the [[2022 Aracruz School Shootings|Aracruz attack]] (described in a government filing opposing Allison's bail, as reported by Raw Story);[^4] her continued contact from pretrial detention; all three Terrorgram publications (*Militant Accelerationism*, *Do It For The Gram*, *The Hard Reset*); and the "White Terror" video series produced by Allison featuring 105 far-right killers.[^5]
 
 ### Outcomes
 
@@ -52,4 +52,5 @@ DOJ linked the case to a separately prosecuted Wisconsin murder-for-hire plot ta
 [^1]: CourtListener. United States v. Humber, 2:24-cr-00257 (E.D. Cal.). https://www.courtlistener.com/docket/69144957/united-states-v-humber/; DocumentCloud. Humber-Allison Indictment. https://www.documentcloud.org/documents/25598913-humber-allison-indictment/
 [^2]: U.S. Department of Justice, OPA. "Leaders of Transnational Terrorist Group Charged." September 9, 2024. https://www.justice.gov/archives/opa/pr/leaders-transnational-terrorist-group-charged-soliciting-hate-crimes-soliciting-murder; DOJ OPA. "Assistant Attorney General Kristen Clarke Delivers Remarks Announcing Charges Against Leaders of Transnational Terrorist Group." September 9, 2024. https://www.justice.gov/archives/opa/speech/assistant-attorney-general-kristen-clarke-delivers-remarks-announcing-charges-against
 [^3]: Lawfare. "Why the Terrorgram Collective Designation Matters." January 2025. https://www.lawfaremedia.org/article/why-the-terrorgram-collective-designation-matters
-[^4]: Fox 8. "'Terrorgram' leaders Dallas Humber, Matthew Allison referenced North Carolina EnergyUnited substation shooting, court documents show." https://myfox8.com/news/storylines/power-grid-attack/indicted-terrorgram-neo-nazi-cited-randolph-county-substation-attack-court-documents-show-this-avenue-of-attack-has-really-caught-on/
+[^4]: "Terrorgram: Exporting Terrorism" (Raw Investigates), Raw Story, March 7, 2025. https://www.rawstory.com/raw-investigates/terrorgram-terrorism/
+[^5]: Fox 8. "'Terrorgram' leaders Dallas Humber, Matthew Allison referenced North Carolina EnergyUnited substation shooting, court documents show." https://myfox8.com/news/storylines/power-grid-attack/indicted-terrorgram-neo-nazi-cited-randolph-county-substation-attack-court-documents-show-this-avenue-of-attack-has-really-caught-on/
