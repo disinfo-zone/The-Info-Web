@@ -1,33 +1,137 @@
 ---
+aliases:
+  - The Pentagon
+  - Pentagon Building
+  - Pentagon building
+created: 2026-10-07
+updated: 2026-10-07
 title: Pentagon
 tags:
   - Organization
   - Government
   - USA
   - Military
-  - Dark_Alliance_Investigation
-description: Headquarters of the U.S. Department of Defense, epicenter of UAP secrecy, and the location where Enrique Bermúdez was invited to discuss forming a Contra army.
+  - UAP
+  - RemoteViewing
+  - DarkAllianceInvestigation
+  - PentagonPapers
+description: Headquarters of the United States Department of Defense in Arlington, Virginia, and the site of programs and events that touch the remote viewing, UAP, Contra and protest clusters of this vault.
 category: "U.S. Government"
-summary: "The Pentagon is the headquarters of the U.S. Department of Defense, which administered the AATIP program and several classified research programs including STARGATE's successor activities and UAP investigation units."
+summary: "The Pentagon is the headquarters of the Department of Defense, built 1941 to 1943, and appears in the record of remote viewing tasking, the AAWSAP/AATIP dispute, and the offices that produced the Pentagon Papers."
 start: 1943
 location: "Arlington, Virginia"
+relations:
+  - type: subject_of
+    with: "[[September 11 attacks]]"
+    start: 2001-09-11
+    role: "struck by American Airlines Flight 77"
+    fn: 32
 ---
 
-The [[Pentagon]] is the headquarters of the United States [[Department of Defense]] (DoD). It is the central location for the command and control of the U.S. armed forces and has been the epicenter of the government's long and complex history with the [[Unidentified Anomalous Phenomena]] (UAP) issue.[^1]
+The Pentagon is the headquarters of the [[Department of Defense]] in Arlington, Virginia. Its rooms and offices appear in the record of a remote viewing tasking, a 1979 Army human subjects review of protocols from the [[Stanford Research Institute]], the Office of the Secretary of Defense Vietnam Task Force that produced the [[Pentagon Papers]], and the dispute over the [[Advanced Aerospace Threat Identification Program]].[^1]
 
-### Role in UAP Investigation and Secrecy
+### Construction, 1941 to 1944
 
-The Pentagon has been the home of official government programs tasked with investigating UAP, including the [[Advanced Aerospace Threat Identification Program]] (AATIP), the [[UAP Task Force]], and the [[All-domain Anomaly Resolution Office]] (AARO). According to [[Luis Elizondo]], the Pentagon's culture of stigma around UAP made serious investigation nearly impossible.[^1]
+On July 17, 1941, [[Brehon Somervell]], then head of the Army's Construction Division, summoned [[Hugh Casey]] and the architect [[George Bergstrom]] and asked for plans for a War Department office building to house 40,000 people, to be on his desk by nine o'clock the following Monday. He first envisaged a four-story building on the site of the Washington-Hoover Airport; General [[Eugene Reybold]] concluded that construction there might not be feasible, and Somervell moved the location to a 67-acre tract at Arlington Farms, east of [[Arlington National Cemetery]], and reduced the height to three stories. The plan called for 5,100,000 square feet of floor space on a site bounded by five roads, and Somervell told a House appropriations subcommittee on July 22 that $35 million would cover everything except parking.[^2][^3]
 
-The building has been the site of numerous key events in the UAP disclosure movement, including the initial briefings of [[Christopher Mellon]] by Elizondo and the internal battles over AATIP's funding.[^1]
+Ground was broken on September 11, 1941, and the first employees moved in on April 30, 1942. The contractors were John McShain, Inc. of Philadelphia, the Wise Contracting Company and Doyle and Russell; Somervell named Captain Clarence Renshaw, one of [[Leslie Groves]]'s assistants, to direct the work. By late April 1942 the job had moved 2,500,000 cubic yards of earth, poured 225,000 cubic yards of concrete and driven over 40,000 piles. Employment at its peak was 13,000 in the Corps of Engineers history and upwards of 15,000 in the [[Defense Media Network]] account. The building was completed in February 1943, covering 29 acres.[^2][^3] The history of the [[U.S. Army Corps of Engineers]] calls the Pentagon "one bright spot in the program" in the winter of 1941 to 1942.[^3]
 
-The Pentagon is also alleged to be the home of the "[[Collins Elite]]," a group of religious fundamentalists who believe the UAP phenomenon is demonic, and the "[[Legacy Program]]," a deeply hidden effort to reverse-engineer recovered UAP technology.[^1]
+Groves, then a colonel, was chief of operations for the project. In mid-September 1942, as Deputy Chief of Construction of the Corps of Engineers, he was told by Somervell that he was to take charge of the Army's atomic project (the [[Manhattan Project]]). Groves wrote that in a meeting that day at the office of Major General [[William Styer]] in the Pentagon they agreed that, because the Pentagon was so nearly finished and he had had so much to do with it, he would continue to control its construction, arranged informally, in part because of the interest in the building shown by a number of Congressmen.[^4] A few months after the building was finished, Groves recruited [[Robert Furman]], who had been the project's executive officer and had used a windowless apartment inside the building during construction; Furman was then assigned to discover what he could about the German atomic bomb effort.[^2]
 
-### Dark Alliance Investigation
+Cost figures differ by source and date. The Defense Media Network gives more than $83 million. In a House speech on February 29, 1944, Representative [[Albert J. Engel]] fixed the total outlay at roughly $86 million, $51 million more than originally appropriated; a War Department spokesman answered that the cost was $63 million, attributing the difference to highways planned in 1934, sewage and drainage systems used by other buildings, a fifth floor built as a war necessity, and 40,000 caissons required when the site was changed from high to low ground. The Corps of Engineers history records that Groves, from his headquarters on the fifth floor of the New War Building, helped plan the defense, and that Renshaw returned from the Philadelphia District to assist.[^2][^3]
 
-The Pentagon was where [[Enrique Bermudez|Enrique Bermúdez]] was invited by a U.S. Air Force official to discuss forming a Contra army. The official told Bermúdez he had a friend at the [[Central Intelligence Agency]] who wanted to meet Nicaraguan exiles with military experience. The meeting was a key moment in the creation of the [[FDN]] Contra army, demonstrating that the U.S. military establishment was directly involved in forming the Contra force from its earliest days.[^2]
+### Remote viewing tasking and psi review inside the building
+
+A session report from the CIA-RDP96 collection records a remote viewing session, designated CC4 and classified by the Director of the [[Defense Intelligence Agency]], that was conducted "in compliance with a request from SOD, J3, OJCS, Pentagon, Washington, D.C." The stated purpose was information relevant to the hostage situation in the U.S. Embassy compound in Teheran, Iran. The session was part of the program the report calls [[GRILL FLAME]].[^5] An Army Intelligence and Security Command memorandum dated April 23, 1980, written by the project manager (Lieutenant Colonel Murray) to the executive officer of the Assistant Chief of Staff for Intelligence's HUMINT office, reports that the Special Operations Division (SOD), JCS "requested we intensify our efforts and that we attempt to set up a situation wherein the possibilities for aborting the mission would be sharply reduced," and that the request was relayed to the command through Mr. Jackie Keith. The same memorandum records a planned April 25 meeting with a CIA representative to arrange a joint INSCOM/CIA effort suggested by the Deputy Director for Operations, and a proposed visit by officers to SRI contacts [[Hal Puthoff]] and [[Russell Targ]].[^6]
+
+On March 26, 1979, an ad hoc subcommittee of the Army's Human Subjects Research Review Board met at 1100 hours in Room 2E465 of the Pentagon under AR 70-25 to consider protocols from SRI and from the Army Materiel Systems Analysis Activity (AMSAA). Targ and Puthoff presented the SRI protocol. The subcommittee's unanimous consensus was that the SRI protocol "was identified as technology transfer rather than research or testing," that the AMSAA protocol was judged to be phenomenological validation of the technology to be transferred by SRI, and that Federal guidelines and Army regulations on the use of human subjects did not apply. The minutes add that if follow-on work involved human subjects, the subcommittee felt the Army sponsors and action agencies were presently unprepared to address all anticipated problems.[^7]
+
+A briefing by the [[U.S. Army Intelligence and Security Command]] (INSCOM) on April 18, 1983 on its study "Beyond Excellence" was held in Room 2E687A of the Pentagon, primarily for Major General John H. Mitchell, Director of Human Resources Development in the Office of the Deputy Chief of Staff for Personnel, with other ODCSPER representatives, the Army Research Institute, the Army Materiel Development and Readiness Command and selected members of the Army Science Board present.[^8]
+
+On February 21, 1985, a briefing on the CENTER LANE and DRAGOON ABSORB programs ran from 1640 to 1940 hours in the DIA Conference Room in the Pentagon, for staff of the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence. A memorandum for record by [[Brian Buzby]], who took part in the briefing, records a historical overview of the DOD psychoenergetic program by [[Jack Vorona]], the DRAGOON ABSORB program manager, followed by a review of successful remote viewing examples by Buzby; it states that the briefing and information received "seemed to be well received."[^9]
+
+The [[Office of Net Assessment]] was founded in 1973, with [[Andrew Marshall]] as its first director. A 1999 profile of Marshall in [[The Nation]] describes him as running the office from a small office on the third floor of the Pentagon, with a staff of twelve.[^10] On March 13, 2025, Secretary of Defense [[Pete Hegseth]] signed a memo disestablishing the office, reassigning its civilian employees, returning military personnel to their services, terminating its contracts and directing the Deputy Secretary of Defense to provide within 30 days a plan to rebuild the office consistent with his priorities. Pentagon spokesman [[Sean Parnell]] announced the decision as one ensuring that the department's resources were focused on its most pressing national security challenges.[^11]
+
+### AAWSAP, AATIP and the 2017 disclosures
+
+The Defense Appropriations Acts for fiscal years 2008 and 2010 appropriated $22 million for the DIA, at the direction of Senate Majority Leader [[Harry Reid]], to assess long-term foreign advanced aerospace threats. The [[All-domain Anomaly Resolution Office]] (AARO) reported in February 2024 that DIA established the Advanced Aerospace Weapon System Application Program (AAWSAP) in 2009, which "was also known" as AATIP, and that the contract went to a private sector organization.[^12] The contract document released by DIA under FOIA, number HHM402-08-C-0072, carries an effective date of September 22, 2008, was issued by the Virginia Contracting Activity under solicitation HHM402-08-R-0211 of September 1, 2008, and names Bigelow Aerospace Advanced Space Studies, LLC, whose proposal of September 3, 2008 it incorporates.[^13]
+
+AARO's report states that the names AAWSAP and AATIP "have been used interchangeably for the name of this program, including on official documentation," and that "Unlike AAWSAP, AATIP was never an official DoD program." It adds that after AAWSAP was cancelled, "the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD," and that this effort "was not a recognized, official program, and had no dedicated personnel or budget." AARO also states that DIA "did not seek, nor specifically authorize" the program's work at a Utah property, although a DIA employee set up and managed the contract, and that AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables because of DIA and DoD concerns about the project.[^12][^14]
+
+Other records and statements on the same question follow in date order.
+
+On June 24, 2009, Reid sent a letter to Deputy Secretary of Defense [[William Lynn]] requesting that AAWSAP/AATIP be made a DoD Special Access Program; AARO states that Lynn declined on the recommendation of [[James Clapper]], then Under Secretary of Defense for Intelligence, that such a designation was not justified.[^14]
+
+[[Luis Elizondo]] resigned effective October 4, 2017. His resignation letter to Secretary of Defense [[James Mattis]], as quoted by The Washington Post, stated: "Despite overwhelming evidence at both the classified and unclassified levels, certain individuals in the [Defense] Department remain staunchly opposed to further research on what could be a tactical threat to our pilots, sailors and soldiers, and perhaps even an existential threat to our national security."[^15]
+
+The [[New York Times]], the [[Washington Post]] and [[Politico]] reported the program on December 16, 2017. Reid told the Times: "I'm not embarrassed or ashamed or sorry I got this thing going. I think it's one of the good things I did in my congressional service." In the GBH summary of those reports the program began in some form in 2007 and officially ended in 2012.[^15] Politico's Bryan Bender wrote that "Pentagon spokeswoman Dana White confirmed to Politico that the program existed and was run by Elizondo," as quoted by Keith Kloor in The Intercept in 2019.[^16]
+
+On April 27, 2020, the Department of Defense authorized the release of three unclassified Navy videos (one taken in November 2004, two in January 2015) that had circulated after unauthorized releases in 2007 and 2017, and stated that "the aerial phenomena observed in the videos remain characterized as 'unidentified.'"[^17]
+
+In 2019 Pentagon spokesperson Christopher Sherwood told The Intercept that AATIP "did pursue research and investigation into unidentified aerial phenomena," that Elizondo "had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017," and that he "cannot confirm" White's statement.[^16] Pentagon public affairs spokesperson Susan Gough told the Black Vault on June 13, 2019 that a 2009 Reid memo then in circulation was authentic and that DoD "received it and responded to Sen. Reid," and that it "makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it."[^18]
+
+In May 2021 Elizondo filed a complaint with the DoD Inspector General alleging "malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats" by senior officials, among them Garry Reid, Susan Gough and Neill Tipton, with a chronology of his claimed involvement in AATIP. Inspector General records released under FOIA to [[John Greenewald]] show that the office assigned multiple case numbers to different aspects of the complaint.[^19]
+
+Elizondo describes absorbing the program's remnants into his own portfolio. He has also said that the Pentagon's stigma around UAP made serious investigation nearly impossible.[^20] He describes opposition from a group he calls the [[Collins Elite]], religious fundamentalists within the Pentagon who believed the phenomenon was demonic, and from the [[Legacy Program]], which he says controlled recovered [[Unidentified Anomalous Phenomena]] (UAP) materials.[^21] Elizondo also describes the building as the site of his initial briefings of [[Christopher Mellon]].[^22]
+
+### UAP Task Force and AARO
+
+On August 4, 2020, Deputy Secretary of Defense David L. Norquist approved the establishment of the [[UAP Task Force]], which the Department of the Navy leads under the Office of the Under Secretary of Defense for Intelligence and Security.[^23] AARO's historical record report lists the DoD UAP Task Force, led by the U.S. Navy, among the programs that preceded it,[^24] and describes a 1949 period in which, according to one account, perceived pressure from the Pentagon's leadership led the remaining staff of [[Project Grudge]] who held the interplanetary view to change their minds.[^25]
+
+The statute now codified at 50 U.S.C. 3373 directs the Secretary of Defense, with the Director of National Intelligence, to establish within 120 days of December 23, 2022 an office, to be known as AARO, to carry out the duties of the Unidentified Aerial Phenomena Task Force as in effect on December 26, 2021. The office's director reports directly to the Deputy Secretary of Defense and the Principal Deputy Director of National Intelligence.[^26]
+
+### Contra recruitment
+
+In [[Dark Alliance]], [[Gary Webb]] wrote that Major General [[Charles E. Boyd]], described as a top U.S. Air Force official, invited [[Enrique Bermudez|Enrique Bermúdez]] to the Pentagon to discuss ideas. There, after sounding out Bermúdez on the idea of running a rebel force to harass the Sandinistas, Boyd told him that he had a friend at the [[Central Intelligence Agency]] who was interested in speaking with him. Webb wrote that by mid-1980 Bermúdez had moved to a rented house in [[Miami]] and that, according to one account, he was then on the CIA's payroll.[^27] The [[FDN]] was the Contra group that pursued resistance activities on the Northern Front from bases in Honduras, according to the CIA Inspector General's report on the Northern Front Contras.[^28] Charles Graham Boyd, who was Chief of the Western Hemisphere Division of the Air Staff's Directorate of Plans at the Pentagon in 1979 and 1980, gave an oral history in which that division is described as dealing with all the countries of Latin America and Canada.[^29]
+
+### The 1967 march, the Pentagon Papers and the 1972 bombing
+
+On October 21, 1967, a [[March on the Pentagon]] was held against the Vietnam War. The National Archives estimates a crowd of 100,000 gathered at the Lincoln Memorial and gives two arrest figures: "nearly 700 protesters had been jailed" and, on a release sheet, "more than six-hundred persons arrested." NARA holds a Universal Newsreel reel covering the march.[^30]
+
+The Pentagon Papers, officially titled the "Report of the Office of the Secretary of Defense Vietnam Task Force," were commissioned by Secretary of Defense [[Robert McNamara]] in 1967. Portions were leaked to the press in June 1971.[^1] The National Archives page links a 1973 interview with [[Daniel Ellsberg]] titled "Why I Did It."[^1] On the fortieth anniversary of the leak, the National Archives, with the Kennedy, Johnson and Nixon presidential libraries, released the complete report: 48 boxes and approximately 7,000 declassified pages, about 34 percent of it available for the first time.[^1]
+
+The [[Weather Underground]] claimed responsibility for a number of bombings from 1970 onward. An FBI appendix on the Weathermen, reproduced in the William Kunstler FBI files, lists the U.S. Capitol Building in March 1971 and "the Pentagon Building in May, 1972" among them.[^31]
+
+### September 11, 2001
+
+On September 11, 2001, American Airlines Flight 77 crashed into the Pentagon at 9:37:46 a.m., traveling at approximately 530 miles per hour. The [[9/11 Commission]] report states that all on board, and many civilian and military personnel in the building, were killed.[^32]
+
+On September 10, 2001, Secretary of Defense [[Donald Rumsfeld]] gave the kickoff remarks for DoD Acquisition and Logistics Excellence Week, titled "Bureaucracy to Battlefield," and said: "Our financial systems are decades old. According to some estimates, we cannot track $2.3 trillion in transactions."[^33] A Department of Defense Inspector General report issued February 25, 2000 stated that of $6.9 trillion in accounting entries for fiscal year 1999, $2.3 trillion "was not supported by adequate audit trails or sufficient evidence to determine their validity," $2 trillion was not reviewed because of time constraints, and $2.6 trillion were supported. A follow-up report dated August 18, 2000 gave a total of $7.6 trillion in department-level entries after an additional $0.7 trillion was identified; $3.5 trillion were supported with proper research, reconciliation and audit trails, and another $1.8 trillion were identified but not reviewed. It described $2.3 trillion of entries as ones that "were made to force financial data to agree with various sources of financial data without adequate research and reconciliation, were made to force buyer and seller data to agree in preparation for eliminating entries, did not contain adequate documentation and audit trails, or did not follow accounting principles."[^34][^35]
 
 ### Footnotes
 
-[^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
-[^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom"
+[^1]: National Archives, "Pentagon Papers," Research Our Records, last reviewed July 29, 2019, https://www.archives.gov/research/pentagon-papers
+[^2]: Zimmerman, Dwight Jon. "Somervell's Folly: The Construction of the Pentagon." Defense Media Network, July 14, 2011, https://www.defensemedianetwork.com/stories/somervells-folly/
+[^3]: Fine, Lenore, and Jesse A. Remington. *The Corps of Engineers: Construction in the United States.* United States Army in World War II: The Technical Services, CMH Pub 10-5. Washington: Center of Military History, 1972, pp. 431 to 433 (origin of the project), p. 512 (construction progress), pp. 609 to 610 (1944 cost dispute), https://archive.org/details/CMHPub10-5
+[^4]: Groves, Leslie R. *Now It Can Be Told: The Story of the Manhattan Project.* New York: Harper, 1962, pp. 3 to 5.
+[^5]: Central Intelligence Agency, CREST reading room, document CIA-RDP96-00788R000800010001-3, Remote Viewing (RV) session CC4 summary analysis, https://www.cia.gov/readingroom/document/cia-rdp96-00788r000800010001-3
+[^6]: Central Intelligence Agency, CREST reading room, document CIA-RDP96-00788R002000250034-7, United States Army Intelligence and Security Command memorandum BF-OPS-HU-SA, "BG Flynn Update Re: GRILL FLAME," April 23, 1980, https://www.cia.gov/readingroom/document/cia-rdp96-00788r002000250034-7
+[^7]: Surgeon General, Department of the Army, memorandum SGRD-HR, "Minutes of Ad Hoc Subcommittee of The Surgeon General's Human Use Review Committee Meeting, 26 March 1979," March 29, 1979, CIA CREST reading room, document CIA-RDP96-00788R001100110002-7, https://www.cia.gov/readingroom/document/cia-rdp96-00788r001100110002-7
+[^8]: CIA CREST reading room, document CIA-RDP96-00788R001800020001-1, Army report on the 1983 "Emerging Concepts" meetings (INSCOM briefing of April 18, 1983, "Beyond Excellence"), https://www.cia.gov/readingroom/document/cia-rdp96-00788r001800020001-1
+[^9]: Buzby, Brian, memorandum for record, "CENTER LANE/DRAGOON ABSORB Briefing to Congressional Intelligence Committee Staff Members," February 25, 1985, CIA CREST reading room, document CIA-RDP96-00788R001500020001-4, https://www.cia.gov/readingroom/document/cia-rdp96-00788r001500020001-4
+[^10]: Silverstein, Ken, "The Man From ONA," The Nation, October 7, 1999, https://thenation.com/?p=67067
+[^11]: Mehta, Aaron, and Valerie Insinna, "Hegseth 'disestablishing' Office of Net Assessment, Pentagon's strategic analysis specialists," Breaking Defense, March 13, 2025, https://breakingdefense.com/2025/03/hegseth-orders-disestablishing-of-office-of-net-assesment/
+[^12]: All-domain Anomaly Resolution Office, Department of Defense, "Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I," February 2024, cleared for open publication March 6, 2024, pp. 22 to 23, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF
+[^13]: Defense Intelligence Agency, solicitation/contract for commercial items HHM402-08-C-0072 (solicitation HHM402-08-R-0211), award effective September 22, 2008, released in response to FOIA-00269-2018 on June 26, 2023, https://documents2.theblackvault.com/documents/dia/AAWSAP/FOIA-00269-2018.pdf
+[^14]: All-domain Anomaly Resolution Office, "Report on the Historical Record," Volume I, February 2024, p. 23, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF
+[^15]: "Secret Pentagon Program Spent Millions to Research UFOs," GBH News, December 17, 2017 (summarizing reports of The New York Times, The Washington Post and Politico of December 16, 2017), https://wgbh.org/news/2017-12-17/secret-pentagon-program-spent-millions-to-research-ufos
+[^16]: Kloor, Keith, "The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?" The Intercept, June 1, 2019, https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/
+[^17]: Department of Defense, "Statement by the Department of Defense on the Release of Historical Navy Videos," April 27, 2020, archived capture of https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/ (Wayback Machine, August 10, 2025)
+[^18]: Greenewald, John, Jr., "Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP; Senator Harry Reid's 2009 Memo Changes Nothing," The Black Vault, June 14, 2019, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing
+[^19]: Greenewald, John, "The DoD Inspector General Complaint of Luis Elizondo: A Document Archive," The Black Vault, March 18, 2025, https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/
+[^20]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024. Sole source for the passage so cited.
+[^21]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024, pp. 80 to 84. Sole source for the passages so cited.
+[^22]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024. Sole source for the passage so cited.
+[^23]: Department of the Navy, "Establishment of Unidentified Aerial Phenomena Task Force," press release, August 14, 2020, archived capture of https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/
+[^24]: All-domain Anomaly Resolution Office, "Report on the Historical Record," Volume I, February 2024, p. 13, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF
+[^25]: All-domain Anomaly Resolution Office, "Report on the Historical Record," Volume I, February 2024, p. 15, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF
+[^26]: 50 U.S.C. 3373, "Establishment of All-domain Anomaly Resolution Office," Legal Information Institute, Cornell Law School, https://www.law.cornell.edu/uscode/text/50/3373
+[^27]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* New York: Seven Stories Press, 1998, Chapter 2. Sole source for the passages so cited.
+[^28]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation (96-0143-IG)*, Volume II: The Contra Story, October 8, 1998, section on Northern Front Contras, https://irp.fas.org/cia/product/cocaine2/north.html
+[^29]: Boyd, Charles Graham, oral history interview, Association for Diplomatic Studies and Training, https://www.adst.org/OH%20TOCs/Boyd.Charles.Graham.pdf
+[^30]: "This Week in Universal News: The March on the Pentagon, 1967," National Archives, Unwritten Record blog, https://unwritten-record.blogs.archives.gov/?p=4211
+[^31]: Federal Bureau of Investigation, "Weathermen" appendix, reproduced in the William Kunstler FBI files (FBI Vault, William Kunstler), https://archive.pov.org/disturbingtheuniverse/fbi-files/6/
+[^32]: National Commission on Terrorist Attacks Upon the United States, *The 9/11 Commission Report*, 2004, p. 10 and note 61, https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf
+[^33]: Rumsfeld, Donald H., "Bureaucracy to Battlefield," remarks as delivered at the Pentagon, September 10, 2001, Department of Defense Acquisition and Logistics Excellence Week kickoff, archived capture of http://www.defenselink.mil/speeches/2001/s20010910-secdef.html (September 15, 2001)
+[^34]: Department of Defense Office of the Inspector General, Report No. D-2000-179, "Department-Level Accounting Entries for FY 1999," August 18, 2000, https://media.defense.gov/2000/Aug/18/2001713967/-1/-1/1/00-179.pdf
+[^35]: Department of Defense Office of the Inspector General, Report No. D-2000-091, "Internal Controls and Compliance With Laws and Regulations for the DoD Agency-Wide Financial Statements for FY 1999," February 25, 2000, https://media.defense.gov/2000/Feb/25/2001715708/-1/-1/1/00-091.pdf
