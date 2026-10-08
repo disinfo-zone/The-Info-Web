@@ -22,15 +22,16 @@ relations:
     role: "short-form registrant for Lane & Edson, P.C., FARA registration 3286"
     fn: 5
   - type: represented
-    with: "[[Government of Jamaica]]"
+    with: "[[Jamaica]]"
     start: 1989-09
     end: 1990-04
     role: "short-form registrant for CounterTerrorism Consultants, L.P., FARA registration 4294"
     fn: 7
   - type: employed_by
     with: "[[Lane and Edson]]"
-    role: "head of trial division (as stated in the 1990 resume packet)"
-    fn: 9
+    start: 1983
+    role: "attorney, later partner and head of the trial division (as stated in the 1990 resume packet); named on the firm letterhead from 1983"
+    fn: 12
 ---
 
 Eugene M. Propper was the assistant [[United States Attorney]] in Washington assigned in September 1976 to the murder of [[Orlando Letelier]] and [[Ronni Moffitt]]. His deputy was [[E. Lawrence Barcella]], and the [[Federal Bureau of Investigation|FBI]] agents were [[Carter Cornick|C. Carter Cornick]] in Washington and [[Robert Scherrer]], the bureau's representative in [[Buenos Aires]].[^1]
@@ -49,7 +50,9 @@ With the journalist [[Taylor Branch]] he wrote *Labyrinth* (1982), an account of
 
 Justice Department registration files list Lane & Edson, P.C., of 2300 M Street NW, Washington, as a registrant under the [[Foreign Agents Registration Act]] from October 8, 1981 to November 8, 1988, with the Republic of Peru as its foreign principal until October 8, 1988; the Attorney General's report lists its services as legal work on the recovery of illegally exported pre-Columbian artifacts and on favorable import legislation or regulations, with finances "None Reported." Propper is a short-form registrant under that registration, with the November 8, 1988 termination date.[^5][^6] Under CounterTerrorism Consultants, L.P. (registration 4294) he is a short-form registrant from September 18, 1989 to October 25, 1990; the registration's only foreign principal was the [[Government of Jamaica]], from September 18, 1989 to April 15, 1990, and it reported $25,000.00 received prior to registration.[^7][^8]
 
-A June 1990 resume packet of the firm describes Propper as co-founder, advising clients on criminal prosecutions, extradition, expulsion and the formulation of statutes and prosecutorial guidelines. It states that he was an assistant United States attorney in Washington from 1972 to 1979 and an attorney in the Criminal Division of the [[United States Department of Justice]] from 1971 to 1972; that he headed the investigation and prosecution of the terrorists who killed Orlando Letelier; that he was instrumental in the prosecution of [[Edwin Wilson]] and [[Frank Terpil]] for selling weapons to Libya; that he was chief prosecutor in the bombing of the United States Capitol and of the offices of a foreign airline in Washington; that he heads the trial division at Lane and Edson; that he is a member of the District of Columbia and Massachusetts bars; and that he holds a bachelor's degree in economics from the [[University of Massachusetts]] and a law degree from the [[University of Minnesota]] Law School.[^9]
+Propper is named among the lawyers on Lane and Edson letterheads printed in congressional hearing records of 1983 and 1984, with [[Frederic J. Truslow]], [[Jack Feder]] and others, and on the firm's letter of February 25, 1985 printed in the record of Senate housing authorization hearings.[^9] The 2009 edition of *The Art of M&A* describes him as a Lane & Edson partner who had contributed substantially to the due diligence chapter of the original 1989 edition, and as then in private practice in McLean, Virginia.[^10] The firm's registration for Peru recorded receipts of $19,778.00, $15,513.00, $37,281.71 and $23,758.89 for the twelve-month periods ending October 8 of 1982 to 1985.[^11]
+
+A June 1990 resume packet of the firm describes Propper as co-founder, advising clients on criminal prosecutions, extradition, expulsion and the formulation of statutes and prosecutorial guidelines. It states that he was an assistant United States attorney in Washington from 1972 to 1979 and an attorney in the Criminal Division of the [[United States Department of Justice]] from 1971 to 1972; that he headed the investigation and prosecution of the terrorists who killed Orlando Letelier; that he was instrumental in the prosecution of [[Edwin Wilson]] and [[Frank Terpil]] for selling weapons to Libya; that he was chief prosecutor in the bombing of the United States Capitol and of the offices of a foreign airline in Washington; that he heads the trial division at Lane and Edson; that he is a member of the District of Columbia and Massachusetts bars; and that he holds a bachelor's degree in economics from the [[University of Massachusetts]] and a law degree from the [[University of Minnesota]] Law School.[^12]
 
 ### Footnotes
 
@@ -61,4 +64,7 @@ A June 1990 resume packet of the firm describes Propper as co-founder, advising 
 [^6]: U.S. Department of Justice, Report of the Attorney General to the Congress on the Administration of the Foreign Agents Registration Act, calendar years 1988 to 1991, Peru section, entry "Lane & Edson, P.C., #3286 (T88)," https://www.justice.gov/media/910056/dl?inline.
 [^7]: Same bulk files, registration 4294 (CounterTerrorism Consultants, L.P.): short form "Propper, Eugene M.," September 18, 1989, terminated October 25, 1990; foreign principal "Government of Jamaica," September 18, 1989 to April 15, 1990.
 [^8]: U.S. Department of Justice, Report of the Attorney General to the Congress on the Administration of the Foreign Agents Registration Act of 1938, for the Calendar Years 1988, 1989, 1990 and 1991, Volume 1, Jamaica section, p. 599, https://www.justice.gov/media/910066/dl?inline.
-[^9]: CounterTerrorism Consultants, L.P., "Proudly Presents The Resumes of its Associates," fax copy dated June 20, 1990, page 141 P07, Danny Casolaro papers, folder "Promotional Material," https://archive.org/details/casolaro-notebooks.
+[^9]: Letterheads of Lane and Edson, P.C., in *Governmental Lease Financing Reform Act* (1983), https://books.google.com/books?id=L63PFff8BXkC, and *Section 8 Rent Adjustments, Elderly Housing, and Other Assisted Housing Issues* (1984), https://books.google.com/books?id=HQwRxaYIvskC; letter of February 25, 1985, Senate Subcommittee on Housing and Urban Affairs, *Housing, Community Development, and Mass Transportation Authorizations, 1986*, https://books.google.com/books?id=pfCKEE1NeD0C.
+[^10]: Stanley F. Reed and Lane & Edson, P.C., *The Art of M&A* (1989), and the 2009 edition, which states that "Lane & Edson Partner Eugene M. Propper (now in private practice in McLean, Virginia) contributed substantially to the due diligence chapter in the original (1989) edition," https://books.google.com/books?id=02XSV9j541EC.
+[^11]: U.S. Department of Justice, Reports of the Attorney General to the Congress on the Administration of the Foreign Agents Registration Act, calendar years 1982 to 1985, Peru entries for "Lane and Edson, P.C., #3286," https://www.justice.gov/media/910086/dl, https://www.justice.gov/media/910081/dl, https://www.justice.gov/media/910076/dl, https://www.justice.gov/media/910111/dl.
+[^12]: CounterTerrorism Consultants, L.P., "Proudly Presents The Resumes of its Associates," fax copy dated June 20, 1990, page 141 P07, Danny Casolaro papers, folder "Promotional Material," https://archive.org/details/casolaro-notebooks.

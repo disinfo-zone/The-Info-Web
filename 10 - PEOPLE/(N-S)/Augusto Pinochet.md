@@ -26,7 +26,7 @@ tags:
 summary: "Chilean Army commander who led the September 11, 1973 coup against Salvador Allende and ruled Chile until 1990, with the Letelier assassination and Operation Condor documented in declassified US records."
 location: "Valparaiso, Chile"
 created: 2026-05-14
-updated: 2026-10-07
+updated: 2026-10-08
 born: 1915-11-25
 died: 2006-12-10
 relations:
@@ -134,7 +134,7 @@ In April 2016 the then German Foreign Minister, [[Frank-Walter Steinmeier]], sta
 
 ### Carlos Cardoen and Iraq
 
-[[Carlos Cardoen]], a Chilean arms manufacturer who returned to Santiago after the 1973 coup to work for the government-owned [[Chilean Mining Corporation]], is described by [[Ari Ben-Menashe]] as selling cluster bombs to [[Iraq]] by 1985 with the help of individuals connected to the CIA, and as having been charged in Miami in April 1992 by the US Customs Service.[^16] [[Alan Friedman]] reports that Cardoen's plant at [[Iquique]] produced about a thousand cluster bombs a month, with a first shipment worth 21 million dollars reaching Iraq early in 1984 during the [[Iran-Iraq War]]; a former CIA contractor described Cardoen to Friedman as "an all-purpose asset, designed to be one of those offshore stockpilers of military equipment who could be used by the CIA to ship arms to the Afghan rebels, to the boys in Angola, or anywhere the U.S. needed some help." The White House said in July 1991 that there "never were any sales, overt or covert, to Iraq or Iran through a third country." The British journalist [[Jonathan Moyle]], who was inquiring into Cardoen's helicopter project, was found dead in a Santiago hotel on March 31, 1990.[^17]
+[[Carlos Cardoen]], a Chilean arms manufacturer who returned to Santiago after the 1973 coup to work for the government-owned [[Chilean Mining Corporation]], is described by [[Ari Ben-Menashe]] as selling cluster bombs to [[Iraq]] by 1985 with the help of individuals connected to the CIA, and as having been charged in Miami in April 1992 by the US Customs Service.[^16] A federal grand jury in the Southern District of Florida returned a twenty-one count indictment against Cardoen and [[Industrias Cardoen]] on May 26, 1993.[^23] [[Alan Friedman]] reports that Cardoen's plant at [[Iquique]] produced about a thousand cluster bombs a month, with a first shipment worth 21 million dollars reaching Iraq early in 1984 during the [[Iran-Iraq War]]; a former CIA contractor described Cardoen to Friedman as "an all-purpose asset, designed to be one of those offshore stockpilers of military equipment who could be used by the CIA to ship arms to the Afghan rebels, to the boys in Angola, or anywhere the U.S. needed some help." The White House said in July 1991 that there "never were any sales, overt or covert, to Iraq or Iran through a third country." The British journalist [[Jonathan Moyle]], who was inquiring into Cardoen's helicopter project, was found dead in a Santiago hotel on March 31, 1990.[^17]
 
 ### London arrest and the House of Lords
 
@@ -180,3 +180,4 @@ On August 24, 2004, the [[Supreme Court of Argentina]] upheld the life sentence 
 [^20]: United States Senate, Permanent Subcommittee on Investigations, minority staff, "Money Laundering and Foreign Corruption: Enforcement and Effectiveness of the Patriot Act, Case Study Involving Riggs Bank" (report released with the July 15, 2004 hearing), Finding 1 (p. 7) and Section B (p. 18). https://archive.org/details/SenateSubcommitteeReportOnMoneyLaunderingAndRiggsBank
 [^21]: National Security Archive, "The Pinochet Regime at 50: The Assassination of General Carlos Prats and Sofía Cuthbert," Electronic Briefing Book, Peter Kornbluh, October 1, 2024, narrative and CIA and DINA documents. https://nsarchive.gwu.edu/briefing-book/chile/2024-10-01/pinochet-regime-50-assassination-general-carlos-prats-and-sofia
 [^22]: Corte Suprema de Justicia de la Nacion (Argentina), *Arancibia Clavel, Enrique Lautaro s/ homicidio calificado y asociacion ilicita y otros*, recurso de hecho, Buenos Aires, August 24, 2004. https://www.cancilleria.gob.ar/userfiles/ut/fallo_arancibia_clavel_2004_01.pdf
+[^23]: *United States v. Cardoen*, 898 F. Supp. 1563 (S.D. Fla. 1995), No. 93-241-CR, https://static.case.law/f-supp/898/cases/1563-01.json.

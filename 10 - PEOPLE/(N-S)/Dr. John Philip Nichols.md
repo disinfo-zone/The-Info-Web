@@ -2,6 +2,8 @@
 category: "Criminals & Offenders"
 aliases:
   - "John Philip Nichols"
+  - "Dr. John Nichols"
+  - "John P. Nichols"
 tags:
   - Person
   - PROMIS

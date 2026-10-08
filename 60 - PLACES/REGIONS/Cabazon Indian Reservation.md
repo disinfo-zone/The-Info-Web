@@ -4,7 +4,7 @@ aliases:
   - Cabazon Indian Reservation
   - Cabazon reservation
 created: 2026-05-17
-updated: 2026-09-22
+updated: 2026-10-08
 tags:
   - Geography
   - Intelligence
@@ -37,7 +37,7 @@ Contra leader [[Eden Pastora]] visited a firing range near the reservation for a
 
 ### PROMIS Software Modification
 
-[[Michael Riconosciuto]] served as the Director of Research for this joint venture. He claimed to have modified the proprietary [[PROMIS]] computer software at the Wackenhut facility on the reservation. This modified software, allegedly made available by [[Earl Brian]] through [[Peter Videnieks]] of the [[Department of Justice|U.S. Department of Justice]], was intended for worldwide implementation in law enforcement and intelligence agencies, leading to the [[PROMIS Software Scandal]]. Riconosciuto's affidavit detailed specific modifications for the [[Royal Canadian Mounted Police|RCMP]] and the [[Canadian Security Intelligence Service|CSIS]] in [[Canada]].[^1]
+[[Michael Riconosciuto]] stated in a March 21, 1991 affidavit that he had served as the Director of Research for this joint venture; the report of Judge [[Nicholas J. Bua]] found no evidence that he was employed by Wackenhut or the joint venture, which had no employees.[^3] He claimed to have modified the proprietary [[PROMIS]] computer software at the Wackenhut facility on the reservation. This modified software, allegedly made available by [[Earl Brian]] through [[Peter Videnieks]] of the [[Department of Justice|U.S. Department of Justice]], was intended for worldwide implementation in law enforcement and intelligence agencies, leading to the [[PROMIS Software Scandal]]. Riconosciuto's affidavit detailed specific modifications for the [[Royal Canadian Mounted Police|RCMP]] and the [[Canadian Security Intelligence Service|CSIS]] in [[Canada]].[^1]
 
 Frequent visitors to the Wackenhut-Cabazon joint venture included Peter Videnieks and Earl Brian. The venture maintained close liaison with elements of the [[United States]], including representatives of intelligence, military, and law enforcement agencies.[^1]
 
@@ -53,3 +53,4 @@ The Wackenhut/Cabazon Joint Venture was terminated on October 1, 1984. Following
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty."
+[^3]: United States Department of Justice, Office of Professional Responsibility, report of Judge Nicholas J. Bua on the INSLAW matter (1993), printed pp. 42 to 43 and 55 to 58, footnote 35. Official finding, placed as the position of the body that issued it. https://documents.theblackvault.com/documents/nsa/DOJ-OIP-INSLAW_1993.pdf
