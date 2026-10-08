@@ -13,7 +13,24 @@ tags:
 summary: "Federal prosecutor of the Letelier murder, from whom the CIA withheld its 1976 knowledge of the Chilean agents' passports, and who in 1988 formed a counterterrorism consultancy with the FBI men from the case."
 location: "Washington, D.C."
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-08
+relations:
+  - type: represented
+    with: "[[Peru|Republic of Peru]]"
+    start: 1981-10
+    end: 1988-10
+    role: "short-form registrant for Lane & Edson, P.C., FARA registration 3286"
+    fn: 5
+  - type: represented
+    with: "[[Government of Jamaica]]"
+    start: 1989-09
+    end: 1990-04
+    role: "short-form registrant for CounterTerrorism Consultants, L.P., FARA registration 4294"
+    fn: 7
+  - type: employed_by
+    with: "[[Lane and Edson]]"
+    role: "head of trial division (as stated in the 1990 resume packet)"
+    fn: 9
 ---
 
 Eugene M. Propper was the assistant [[United States Attorney]] in Washington assigned in September 1976 to the murder of [[Orlando Letelier]] and [[Ronni Moffitt]]. His deputy was [[E. Lawrence Barcella]], and the [[Federal Bureau of Investigation|FBI]] agents were [[Carter Cornick|C. Carter Cornick]] in Washington and [[Robert Scherrer]], the bureau's representative in [[Buenos Aires]].[^1]
@@ -28,7 +45,11 @@ The letter rogatory that carried the investigation to Chile, signed by Chief Jud
 
 ### Afterward
 
-With the journalist [[Taylor Branch]] he wrote *Labyrinth* (1982), an account of the case. By 1988 he was with the Washington law firm of Lane and Edson and a partner, without title, in [[Counter Terrorism Consultants, Inc.]], formed with Cornick, Scherrer, who had "recently retired from the FBI as its records chief," and Barcella. The firm offered governments, airlines, shipping companies, and the sponsors of events such as the Olympic Games "pro-active" plans against attack, the management of kidnappings and hijackings, "in-depth intelligence files," and "liaison programs with national and international law enforcement and intelligence agencies."[^1]
+With the journalist [[Taylor Branch]] he wrote *Labyrinth* (1982), an account of the case. By 1988 he was with the Washington law firm of [[Lane and Edson]] and a partner, without title, in [[Counter Terrorism Consultants, Inc.]], formed with Cornick, Scherrer, who had "recently retired from the FBI as its records chief," and Barcella. The firm offered governments, airlines, shipping companies, and the sponsors of events such as the Olympic Games "pro-active" plans against attack, the management of kidnappings and hijackings, "in-depth intelligence files," and "liaison programs with national and international law enforcement and intelligence agencies."[^1]
+
+Justice Department registration files list Lane & Edson, P.C., of 2300 M Street NW, Washington, as a registrant under the [[Foreign Agents Registration Act]] from October 8, 1981 to November 8, 1988, with the Republic of Peru as its foreign principal until October 8, 1988; the Attorney General's report lists its services as legal work on the recovery of illegally exported pre-Columbian artifacts and on favorable import legislation or regulations, with finances "None Reported." Propper is a short-form registrant under that registration, with the November 8, 1988 termination date.[^5][^6] Under CounterTerrorism Consultants, L.P. (registration 4294) he is a short-form registrant from September 18, 1989 to October 25, 1990; the registration's only foreign principal was the [[Government of Jamaica]], from September 18, 1989 to April 15, 1990, and it reported $25,000.00 received prior to registration.[^7][^8]
+
+A June 1990 resume packet of the firm describes Propper as co-founder, advising clients on criminal prosecutions, extradition, expulsion and the formulation of statutes and prosecutorial guidelines. It states that he was an assistant United States attorney in Washington from 1972 to 1979 and an attorney in the Criminal Division of the [[United States Department of Justice]] from 1971 to 1972; that he headed the investigation and prosecution of the terrorists who killed Orlando Letelier; that he was instrumental in the prosecution of [[Edwin Wilson]] and [[Frank Terpil]] for selling weapons to Libya; that he was chief prosecutor in the bombing of the United States Capitol and of the offices of a foreign airline in Washington; that he heads the trial division at Lane and Edson; that he is a member of the District of Columbia and Massachusetts bars; and that he holds a bachelor's degree in economics from the [[University of Massachusetts]] and a law degree from the [[University of Minnesota]] Law School.[^9]
 
 ### Footnotes
 
@@ -36,3 +57,8 @@ With the journalist [[Taylor Branch]] he wrote *Labyrinth* (1982), an account of
 [^2]: Dinges, John, and Saul Landau. *Assassination on Embassy Row*. McGraw-Hill, 1980, pp. 242-243, 252, 297, 309-311.
 [^3]: Motion for change of venue, *United States v. Contreras Sepulveda et al.,* Crim. No. 78-367 (D.D.C. 1978), with newspaper clippings attached as exhibits, legible only in fragments, https://www.latinamericanstudies.org/MNC/Letelier-venue.pdf; Federal Bureau of Investigation, Washington field office, file 185-425, reports of interviews of Michael Vernon Townley by Special Agents Robert W. Scherrer and L. Carter Cornick, February 6, 8, and 16, 1979, https://www.latinamericanstudies.org/MNC/Letelier-townley-phone.pdf.
 [^4]: Fiscalía Militar Ad-Hoc, Santiago, causa 192-78 (fiscal Héctor Orozco), as reproduced in *Proceso contra Manuel Contreras Sepúlveda y Pedro Espinoza Bravo,* ministro instructor Adolfo Bañados, tomo 1, scan at https://www.latinamericanstudies.org/MNC/Causa-Contreras-Espinoza-1991.pdf. Quotations translated from the Spanish, letter rogatory, Exp. 20931, and oficio of the Ministry of Foreign Relations, February 27, 1978; Fiscalía Militar Ad-Hoc, Santiago, causa 192-78, as reproduced in *Proceso contra Manuel Contreras Sepúlveda y Pedro Espinoza Bravo,* tomo 2, scan at https://www.latinamericanstudies.org/MNC/Causa-Contreras-Espinoza-1991-2.pdf. Quotations translated from the Spanish, memoranda of Eugene M. Propper and E. Lawrence Barcella, June 5, 9, and 22, 1978.
+[^5]: U.S. Department of Justice, Foreign Agents Registration Act public bulk files, registration 3286 (Lane & Edson, P.C.; foreign principal "Republic of Peru," registered October 8, 1981, terminated October 8, 1988; short form "Propper, Eugene M.," terminated November 8, 1988), https://efile.fara.gov/bulk/zip/FARA_All_Registrants.csv.zip, https://efile.fara.gov/bulk/zip/FARA_All_ForeignPrincipals.csv.zip, https://efile.fara.gov/bulk/zip/FARA_All_ShortForms.csv.zip.
+[^6]: U.S. Department of Justice, Report of the Attorney General to the Congress on the Administration of the Foreign Agents Registration Act, calendar years 1988 to 1991, Peru section, entry "Lane & Edson, P.C., #3286 (T88)," https://www.justice.gov/media/910056/dl?inline.
+[^7]: Same bulk files, registration 4294 (CounterTerrorism Consultants, L.P.): short form "Propper, Eugene M.," September 18, 1989, terminated October 25, 1990; foreign principal "Government of Jamaica," September 18, 1989 to April 15, 1990.
+[^8]: U.S. Department of Justice, Report of the Attorney General to the Congress on the Administration of the Foreign Agents Registration Act of 1938, for the Calendar Years 1988, 1989, 1990 and 1991, Volume 1, Jamaica section, p. 599, https://www.justice.gov/media/910066/dl?inline.
+[^9]: CounterTerrorism Consultants, L.P., "Proudly Presents The Resumes of its Associates," fax copy dated June 20, 1990, page 141 P07, Danny Casolaro papers, folder "Promotional Material," https://archive.org/details/casolaro-notebooks.

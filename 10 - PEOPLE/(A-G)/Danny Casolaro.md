@@ -4,7 +4,7 @@ aliases:
   - Danny Casolaro
   - Joseph Daniel Casolaro
 created: 2024-04-25
-updated: 2026-05-17
+updated: 2026-10-08
 category: "Authors & Journalists"
 tags:
   - KeyFigure
@@ -18,7 +18,7 @@ tags:
   - IranContra
   - BCCI
   - OctoberSurprise
-summary: "Joseph Daniel Casolaro (1947-1991) was a freelance journalist whose investigation into the PROMIS software scandal expanded into a unified theory of an intelligence-criminal network he called 'The Octopus,' found dead in a Martinsburg, West Virginia hotel room on August 10, 1991, with both wrists slashed twelve times in a death officially ruled suicide."
+summary: "Freelance journalist whose investigation of the PROMIS software affair grew into his theory of an intelligence-criminal network he called the Octopus; found dead in a Martinsburg, West Virginia hotel on August 10, 1991."
 born: 1947-06-16
 died: 1991-08-10
 location: "McLean, Virginia"
@@ -73,6 +73,10 @@ In early 1994, the Department of Justice announced it was opening "a nationwide 
 
 Casolaro's investigation intersected with the drug-trafficking networks documented by journalist Gary Webb. He was investigating connections between the Cabazon Indian tribe, [[Wackenhut International]], and weapons manufacturing for Third World armies including the [[Contras]] in Nicaragua. He had told friends he was convinced that "spies, arms merchants and others were using the reservation as a low-profile site on which to develop weapons for Third World armies, including the Nicaraguan Contras." The [[San Francisco]] Chronicle reported that Contra leader [[Eden Pastora]] had visited a firing range near the reservation for a weapons demonstration in 1981. Casolaro's notebooks also contained the name of former CIA officer [[John Vandewerker]] in connection with activities at the Cabazon reservation.[^3]
 
+### The research files
+
+Casolaro's research files, photographed by [[Christian Hansen]] at the Missouri State Historical Society and published on the Internet Archive, include a folder labelled "Promotional Material" of corporate and weapons literature, hand-numbered "BD|AI|PM-01" onward. Its items are a brochure for the Inter-Probe modular energy transfer catalyzer (PM-01), a printed page numbered 207 on fuel air munitions (PM-02), a [[Brunswick Corporation]] defense division data package for the Rifleman's Assault Weapon for urban warfare dated October 1976 (PM-03), a sales sheet of the defense division of the Chilean firm [[Industrias Cardoen]] (PM-04) and a twelve-page fax of the resumes of the associates of [[Counter Terrorism Consultants, Inc.]] (PM-05), whose page headers carry the date June 20, 1990 and times from 16:53 to 17:01.[^5] The packet names [[Carter Cornick]], [[Eugene Propper]], [[E. Lawrence Barcella, Jr.|E. Lawrence Barcella]], [[Francis J. McNeil]], [[James B. Motley]] (a vice president of [[Wackenhut Advanced Technologies Corporation]]), [[Mayer Nudell]] and a former CIA counterterrorism chief whose entry carries no name.[^5] The files also contain a folder of 1980s newspaper and magazine material on [[Frank Terpil]] and [[Edwin Wilson]], folders of Wackenhut annual reports, correspondence, profiles and newsletters, and, in a folder of Department of Defense publications, a magazine article by David Corn on Barcella and the Pan Am 103 bombing.[^6]
+
 ### Bibliography
 
 - *Behold, A Pale Horse* / *The Octopus* (unfinished manuscript, never published)
@@ -83,4 +87,5 @@ Casolaro's investigation intersected with the drug-trafficking networks document
 [^2]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty."
 [^4]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
-[^5]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
+[^5]: Danny Casolaro papers, folder "Promotional Material," Internet Archive items casolaro-notebooks (PromotionalMaterial.pdf) and PromotionalMaterial, https://archive.org/details/casolaro-notebooks.
+[^6]: Danny Casolaro papers, folders "CIA Frank Terpil Renegades," "Wackenhut - Newsletters" and "DOD PUBLICATIONS," https://archive.org/details/ddosecrets_casolaro_files (the Corn item is headed "SPECIAL EDITION - TERRORISM / Did It Blow Up Flight 103?").

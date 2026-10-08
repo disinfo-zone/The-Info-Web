@@ -1,0 +1,137 @@
+---
+aliases:
+  - Counter Terrorism Consultants, Inc.
+  - Counter Terrorism Consultants
+  - CounterTerrorism Consultants, L.P.
+  - CounterTerrorism Consultants
+  - Counter-Terrorism Consultants
+  - CTC
+category: "Private Organization"
+tags:
+  - Organization
+  - CounterTerrorismConsultants
+  - PrivateSecurity
+  - Counterterrorism
+  - OrlandoLetelier
+  - FormerFBI
+  - ForeignAgents
+  - Washington
+  - CasolaroPapers
+summary: "Washington counterterrorism consultancy formed in 1988 by FBI agent Carter Cornick and prosecutor Eugene Propper, registered in 1989 as agent of Jamaica's government, with associates including Lawrence Barcella and Francis McNeil."
+location: "Washington, D.C."
+created: 2026-10-08
+updated: 2026-10-08
+relations:
+  - type: founded
+    with: "[[Carter Cornick]]"
+    reverse: true
+    start: 1988-08
+    role: "co-founder, president (1988), chief executive officer (1990)"
+    fn: 1
+  - type: founded
+    with: "[[Eugene Propper]]"
+    reverse: true
+    start: 1988-08
+    role: "co-founder, then of the law firm Lane and Edson"
+    fn: 1
+  - type: member_of
+    with: "[[Robert Scherrer]]"
+    reverse: true
+    start: 1988-08
+    role: "consultant"
+    fn: 1
+  - type: member_of
+    with: "[[E. Lawrence Barcella, Jr.]]"
+    reverse: true
+    start: 1988-08
+    role: "adviser on extradition (1988); associate (1990)"
+    fn: 1
+  - type: member_of
+    with: "[[Francis J. McNeil]]"
+    reverse: true
+    start: 1990-06
+    role: "associate"
+    fn: 11
+  - type: member_of
+    with: "[[James B. Motley]]"
+    reverse: true
+    start: 1990-06
+    role: "associate"
+    fn: 11
+  - type: member_of
+    with: "[[Mayer Nudell]]"
+    reverse: true
+    start: 1990-06
+    role: "associate"
+    fn: 11
+  - type: represented
+    with: "[[Government of Jamaica]]"
+    start: 1989-09
+    end: 1990-04
+    role: "registrant under the Foreign Agents Registration Act, registration 4294"
+    fn: 3
+---
+
+CounterTerrorism Consultants was a private consultancy in Washington, D.C., announced in August 1988 by the retired [[Federal Bureau of Investigation]] counterterrorism supervisor [[Carter Cornick]] and the lawyer [[Eugene Propper]], who had prosecuted the 1976 murder of [[Orlando Letelier]]. It registered under the [[Foreign Agents Registration Act]] in September 1989 for the [[Government of Jamaica]], and by June 1990 it was a limited partnership at 2300 M Street NW whose twelve-page resume packet is preserved in the papers of the journalist [[Danny Casolaro]].
+
+### Formation, 1988
+
+On August 2, 1988, [[United Press International]] reported that Cornick, a veteran FBI special agent, and Propper, a former assistant United States attorney, had formed Counter Terrorism Consultants, Inc., to sell friendly foreign governments and multinational corporations "pro-active" strategies for preventing terrorist attacks and managing kidnapping and hijacking crises. Its stated clients were foreign "democratic" governments, airline and shipping companies and sponsors of large international gatherings such as the Olympic Games. Cornick was president; Propper, then an attorney with the Washington firm of [[Lane and Edson]], said he was a full partner who held no title.[^1]
+
+The company's "investigative strategies" were to include identifying potential terrorist threats to a client, "amassing in-depth intelligence files for a client" and establishing liaison programs with national and international law enforcement and intelligence agencies, together with hostage negotiation and handling of the news media during a crisis, including media leak investigations. Cornick, who had developed "artificial intelligence" computer models of terrorist threats and behavior, said he would draw on a list of fifteen to twenty part-time consultants retired from the [[United States Secret Service]], the [[United States Department of State]], the [[United States Department of Justice]], the FBI and the [[Defense Investigative Service]]. "We're going to tell you what to do before the bomb goes off," Cornick said. The company was seeded with about $500,000 from "a lot" of investors whom the founders declined to name, and the founders said their success would not depend on classified information.[^1]
+
+[[Robert Scherrer]], recently retired as the FBI's records chief and formerly the bureau's representative in [[Argentina]], joined as an active consultant, as did the former assistant United States attorney [[E. Lawrence Barcella]], then with [[Laxalt, Washington, Perito & Dubuc]], whom the company would call on for legal consultation on matters such as extradition procedures. UPI reported that the four men had worked together on the Letelier case, in which Propper was chief prosecutor, Barcella his deputy, Cornick the FBI agent in charge and Scherrer the source of the key piece of evidence linking the Chilean secret police to the murder, and on the 1978 investigation of the former CIA officer [[Edwin Wilson]].[^1]
+
+A 1990 business book on corporate intelligence quoted Cornick as head of the Washington-based Counter-Terrorism Consultants and a former FBI counterterrorism official.[^2]
+
+### Foreign Agents Registration Act registration, 1989 to 1990
+
+The United States Department of Justice FARA registry lists CounterTerrorism Consultants, L.P., as registration number 4294, registered September 18, 1989 and terminated October 25, 1990, at 1800 Diagonal Road, Suite 230, [[Alexandria, Virginia]]. Its one foreign principal is the Government of Jamaica, of Kingston, registered September 18, 1989 and terminated April 15, 1990. Short forms dated September 18, 1989 and terminated October 25, 1990 name three individuals: Cornick, Propper and Gerald S. Walker.[^3] A Col. Gerald S. Walker of the U.S. Army was director of the School of Attaché Training at the Defense Intelligence College in 1987 and 1988; records found do not establish whether he is the Gerald S. Walker registered for the firm.[^4]
+
+The Attorney General's report to Congress for 1988 through 1991 lists the registration under Jamaica with activities "None Reported," finances of $25,000.00 received prior to registration on September 18, 1989 and no receipts for the six months ending April 15, 1990, and political propaganda "None Reported."[^5] Lane and Edson, P.C., of 2300 M Street NW, held its own FARA registration (number 3286) from October 8, 1981 to November 8, 1988 for the Republic of Peru, with Propper among its short-form registrants.[^3]
+
+### Corporate registrations
+
+CounterTerrorism Consultants, L.P. was filed as a [[Delaware]] limited partnership, file number 2168210, on August 1, 1988, the day before the UPI report of the firm's formation.[^6] It registered in the [[Washington, D.C.|District of Columbia]] as a foreign limited partnership, file number 058088, on August 5, 1988. Its registered agent there was CounterTerrorism Consultants, Inc., at 2300 M Street NW, 8th floor. The District record shows a biennial report due April 1, 1989 as not filed, and the registration as revoked.[^7] [[Virginia]] holds foreign registrations for the partnership (M0059578) and for the corporation (F1012691).[^6]
+
+The International Association of Chiefs of Police directory for 1988 lists "Cornick, Jr., L. Carter" as president of Counterterrorism Consultants Inc., 2300 M Street NW, Suite 800, with the telephone number printed on the 1990 packet.[^8] The 1990 edition of Washington Representatives lists the partnership at 1800 Diagonal Road, Suite 230, Alexandria, telephone (703) 683-6988, as foreign agent number 4294, with Cornick and Gerald S. Walker as its representatives for the Government of Jamaica.[^9] In January 1990 the Newhouse News Service described Cornick as a former FBI agent who "now heads a counterterrorism consulting company in Alexandria, Va."[^10]
+
+### The resume packet, June 1990
+
+The packet is a fax copy in the Casolaro files, folder "Promotional Material," bearing the archive's handwritten item reference "BD|AI|PM-05." The cover page reads "CounterTerrorism Consultants, L.P." and "Proudly Presents The Resumes of its Associates," with the preprinted footer "Suite 800, 2300 M Street NW, Washington, D.C. 20037, (202)775-1364, Fax # (202) 293-3083." The fax header of the first page reads "JUN 20 '90 16:53" and "141 P01"; later pages carry the same counter with times of 16:54 (P03), 16:57 (P06), 17:00 (P11) and 17:01 (P12).[^11]
+
+The packet describes seven associates. Cornick is co-founder and chief executive officer, responsible for the oversight of all operations; the entry states that he retired from the FBI on June 1, 1988, that he had headed the bureau's Terrorist Research and Analytical Center, and that he was the FBI representative to the Hostage Locating Task Force at the [[White House]]. Propper is the firm's co-founder, advising clients on criminal prosecutions, extradition, expulsion and the formulation of statutes and prosecutorial guidelines, and is described as head of the trial division at Lane and Edson. Barcella is an associate advising on the same subjects, described as the government's lead prosecutor in the [[TWA Flight 847]], [[Achille Lauro]] and TWA flight 840 cases and the Wilson-Terpil terrorism investigation, as co-counsel in the Letelier prosecutions, and as a partner at Laxalt, Washington, Perito & Dubuc.[^11]
+
+A further associate entry, which carries no name, describes a former senior-level [[Central Intelligence Agency]] operations officer responsible for planning strategies for governments to deter and respond to terrorism and for intelligence data bases. It states that until his retirement and return from abroad in 1987 he represented the CIA overseas on international planning bodies connected with [[NATO]] organizations; that previously he was the agency's chief of counterterrorism, managed "the United States' first special intelligence team reactions to terrorist incidents overseas" and was its principal counterterrorism representative on White House, State Department and [[National Security Council]] committees; that for three years before that he was chief of a CIA facility in Europe and before that deputy in charge of the element responsible for paramilitary activities worldwide, overseeing air, maritime and ground paramilitary activities and an element monitoring worldwide crisis and instability situations; and that he was chief of the CIA air and maritime elements from 1974 through 1977. It adds that he was certified as a naval aviator and instructor pilot with the [[United States Navy]] before joining the agency and holds a B.A. in Business Administration from [[Adelphi University|Adelphi College]].[^11]
+
+[[Francis J. McNeil]] is described as ambassador to [[Costa Rica]] from 1980 to 1983, three times deputy assistant secretary of state, and from 1984 senior deputy for intelligence and research; a handwritten note in the margin of that page reads "State Dept."[^11] [[James B. Motley]] is described as vice president for national security studies and programs at [[Wackenhut Advanced Technologies Corporation]] ("WATCO"), advising CTC clients in cases involving low-intensity conflict.[^11] [[Mayer Nudell]], with the handwritten margin note "FSO," is described as a veteran foreign service officer who held posts in El Salvador and Nicaragua, served in the State Department's Bureau of Inter-American Affairs and Office of Counterterrorism and Emergency Planning, and was formerly executive director of the Institute on Terrorism and Subnational Conflict; the packet states that he advises CTC clients on contingency planning and crisis management.[^11] The 1986 attendee list of a conference on car-bomb attacks gives Nudell as executive director of that institute, at 400 Timber Lane, Falls Church, Virginia.[^12]
+
+### The 1985 symposium
+
+The proceedings of the tenth annual Symposium on the Role of Behavioral Science in Physical Security, held at Springfield, Virginia, on April 23 and 24, 1985, list Cornick as a supervisory special agent of the FBI, Barcella as senior litigation counsel in the United States Attorney's Office presenting "Terrorism: The Law as an Effective Deterrent," and Motley as director of terrorist research and low-intensity conflict studies at the [[National Institute for Public Policy]]. Motley asked the panel whether a multinational military, paramilitary or law enforcement force would enhance international cooperation against state-sponsored terrorism.[^13]
+
+### Wackenhut Advanced Technologies Corporation
+
+WATCO was a wholly owned subsidiary of the [[Wackenhut Corporation]] at Reston, Virginia. The corporation's annual reports for 1985 and 1986 describe it as a technical consulting firm offering advanced security and engineering services to government and industry, with a Security Programs division selected to design the security system for the Department of Energy's nuclear device assembly facility at the Nevada Test Site, and a Systems division engaged in security systems for high-level installations.[^14] A Wackenhut newsletter states that WATCO specialized in applied research and development in nuclear safeguards and security policy, programs and systems.[^15] The packet gives Motley's tenure there as beginning in September 1987.[^11]
+
+### Neighboring items in the Casolaro files
+
+The packet is item PM-05 of the folder. The adjacent hand-numbered items are a brochure for the Inter-Probe modular energy transfer catalyzer (PM-01), a printed page numbered 207 on fuel air munitions (PM-02), a [[Brunswick Corporation]] defense division data package for the Rifleman's Assault Weapon for urban warfare dated October 1976 (PM-03) and a sales sheet of the defense division of [[Industrias Cardoen]] of Chile (PM-04).[^11] The same Casolaro papers include a folder of newspaper material on [[Frank Terpil]] and Edwin Wilson and the Wackenhut newsletters and reports.[^15]
+
+### Footnotes
+
+[^1]: "A group of top former FBI agents and federal...," United Press International, August 2, 1988, https://www.upi.com/Archives/1988/08/02/A-group-of-top-former-FBI-agents-and-federal/9684730900658/.
+[^2]: George S. Roukis, Hugh Conway and Bruce H. Charnov, eds., *Global Corporate Intelligence: Opportunities, Technologies, and Threats in the 1990s* (New York: Quorum Books, 1990), p. 198 and index, https://archive.org/details/globalcorporatei00rouk.
+[^3]: U.S. Department of Justice, Foreign Agents Registration Act public bulk files (registrants, foreign principals and short forms), registrations 4294 (CounterTerrorism Consultants, L.P.) and 3286 (Lane & Edson, P.C.), https://efile.fara.gov/bulk/zip/FARA_All_Registrants.csv.zip, https://efile.fara.gov/bulk/zip/FARA_All_ForeignPrincipals.csv.zip, https://efile.fara.gov/bulk/zip/FARA_All_ShortForms.csv.zip.
+[^4]: Office of the Federal Register, *The United States Government Manual 1987/88* (Washington: Government Printing Office, 1987), p. 253, Defense Intelligence College staff listing, https://books.google.com/books?id=SD6ND5kU52QC&pg=PA253.
+[^5]: U.S. Department of Justice, Report of the Attorney General to the Congress on the Administration of the Foreign Agents Registration Act of 1938, for the Calendar Years 1988, 1989, 1990 and 1991, Volume 1, Jamaica section, entry "CounterTerrorism Consultants, L.P., #4294 (T90)," p. 599, https://www.justice.gov/media/910066/dl?inline.
+[^6]: OpenCorporates, company records us_de/2168210 (CounterTerrorism Consultants, L.P., Delaware), us_va/M0059578 and us_va/F1012691 (Virginia), mirroring the Delaware Division of Corporations and Virginia State Corporation Commission registries, https://opencorporates.com/companies/us_de/2168210 ; Bizapedia, "Counterterrorism Consultants, L.P.," https://www.bizapedia.com/us/counterterrorism-consultants-lp.html (Delaware filing date August 1, 1988).
+[^7]: District of Columbia Department of Licensing and Consumer Protection, Business One Stop Shop entity record 058088, Counterterrorism Consultants L.P., viewed October 8, 2026, https://boss.dc.gov.
+[^8]: The Police Chief, vol. 55 (1988), p. 93, membership directory of the International Association of Chiefs of Police.
+[^9]: Washington Representatives (Washington: Columbia Books, 1990), pp. 94 and 771 (the directory prints Cornick's name as "McCormick, L. Carter, Jr.").
+[^10]: Hugh Vickery, "Airport bomb detectors' efficiency queried," Newhouse News Service, in The Times (Trenton, New Jersey), January 4, 1990, p. 41, https://www.newspapers.com/image/1196585158/.
+[^11]: CounterTerrorism Consultants, L.P., "Proudly Presents The Resumes of its Associates," fax copy with header "JUN 20 '90," pages marked 141 P01 to P12, Danny Casolaro papers, folder "Promotional Material" (photographed by Christian Hansen), Internet Archive item casolaro-notebooks, file PromotionalMaterial.pdf, https://archive.org/details/casolaro-notebooks.
+[^12]: *Conference on Car-Bomb Attack*, May 15 to 17, 1986, attendee list, Defense Technical Information Center ADA290884, https://archive.org/details/DTIC_ADA290884.
+[^13]: *Supplemental Proceedings of the 10th Annual Symposium on the Role of Behavioral Science in Physical Security: Outthinking the Terrorist, an International Challenge*, Springfield, Virginia, April 23 to 24, 1985, program, participant list and discussion, Defense Technical Information Center ADA161669, https://archive.org/details/DTIC_ADA161669.
+[^14]: The Wackenhut Corporation, annual reports for 1985 and 1986, sections on Wackenhut Advanced Technologies Corporation, Danny Casolaro papers, folder "Wackenhut-CompanyReportsannualQuarterly," https://archive.org/details/casolaro-notebooks.
+[^15]: Wackenhut newsletter, undated issue, passage on The Wackenhut Advanced Technologies Corporation, Danny Casolaro papers, folder "Wackenhut-Newsletters," and folder "CIA Frank Terpil Renegades," https://archive.org/details/ddosecrets_casolaro_files.

@@ -5,7 +5,7 @@ aliases:
   - Wackenhut
   - G4S Secure Solutions
 created: 2026-05-17
-updated: 2026-09-23
+updated: 2026-10-08
 category: "Private Organization"
 tags:
   - Organization
@@ -22,6 +22,11 @@ tags:
 summary: "Florida security company founded in 1954 by former FBI agents, which gave the CIA cover in Miami from 1961 to 1967, kept files on millions of Americans, and allegedly modified PROMIS at Cabazon."
 start: 1954-01-01
 location: "Coral Gables, Florida"
+relations:
+  - type: owned
+    with: "[[Wackenhut Advanced Technologies Corporation]]"
+    role: "wholly owned subsidiary at Reston, Virginia"
+    fn: 36
 ---
 Wackenhut Corporation is a security and investigative firm founded in 1954 by [[George R. Wackenhut]] and three other former [[Federal Bureau of Investigation|FBI]] Special Agents. Initially named [[Special Agent Investigators]], it expanded to physical security and was renamed Wackenhut Corporation in 1958. Headquartered in [[Coral Gables, Florida|Coral Gables]], [[Florida]], Wackenhut grew to become one of the world's largest security and investigative firms, with operations across the United States and internationally. The [[San Francisco]] Chronicle described it as being "led by former officials of the [[Central Intelligence Agency]], the Federal Bureau of Investigation, National Security Agency, Defense Department and federal law enforcement."[^1][^2]
 
@@ -135,6 +140,14 @@ Beyond the Cabazon venture, Wackenhut was also implicated in other international
 
 On July 13, 2009, [[Story Cowles]] wrote to [[Jeffrey Epstein]]: "Would you like to meet the wackenhut security candidates at your house, FSF or Jacks office. Friday is best for them." Epstein replied: "jacks off."[^34] A 24-page set of security officer reports on forms headed "G4S Wackenhut" covers the post at "358 El Brillo," Epstein's house in [[Palm Beach, Florida|Palm Beach]]; one report, for the night shift of November 16, 2009, marks the officer as armed and records hourly perimeter checks, an office door found ajar and a gym door open, and the officer monitoring the main entrance.[^35]
 
+### Wackenhut Advanced Technologies Corporation
+
+[[Wackenhut Advanced Technologies Corporation]] (WATCO) was a wholly owned subsidiary at Reston, Virginia, which the corporation's annual reports for 1985 and 1986 describe as a unique technical consulting firm offering advanced security and engineering services to government and industry, including sensor design, signal processing, systems integration, robotics and mobile intrusion detection systems, special weapons systems security and technology transfer. It contained the NUSAC division (nuclear material control and accounting, quality assurance), a Security Programs division and a Systems division.[^36] The 1985 report states that the Security Programs division was selected to formulate the conceptual design of the security system for the nuclear device assembly facility to be built at the Department of Energy's Nevada Test Site; the 1986 report adds selection for the security system conceptual analysis and design engineering of the new National Training Center of the Department of State's Foreign Service Institute, and completion of a turnkey integrated perimeter and access control system for the federal government at an overseas location.[^36]
+
+A Wackenhut newsletter describes WATCO as specializing in applied research and development in nuclear safeguards and security policy, programs and systems, places it beside Stellar Systems, Inc., of Santa Clara, California, and states that its Security Programs Division worked with the Wackenhut Training Institute. WATCO developed a Touchscreen Station, a security station replacing multiple keystroke entries with single touch commands for alarms, access control, closed-circuit television and other sensors, and the newsletter notes that three WATCO officers, each a former Army officer with law enforcement or security experience, earned Certified Protection Professional status in the same year.[^37] A Wackenhut nuclear services brochure in the same papers also lists a Wackenhut Anti-Terrorism and Crisis Management Division.[^38]
+
+From September 1987 WATCO's vice president for national security studies and programs was [[James B. Motley]], a retired Army colonel who in 1984 and 1985 had been director of terrorist research and low-intensity conflict studies at the [[National Institute for Public Policy]]. A June 20, 1990 resume packet of [[Counter Terrorism Consultants, Inc.]], the Washington firm of the former FBI counterterrorism supervisor [[Carter Cornick]] and the Letelier prosecutor [[Eugene Propper]], lists him as an associate of that firm and states that at WATCO he directs operational analyses and assessments of national security issues.[^39]
+
 ### End of Wackenhut
 
 The Wackenhut/Cabazon Joint Venture was terminated on October 1, 1984, following Robert Frye's heart attack. Its activities subsequently became the subject of numerous investigations by entities such as the U.S. Department of Justice, the [[United States House of Representatives Committee on the Judiciary|House Judiciary Committee on Inslaw]], [[U.S. Customs]], and the Royal Canadian Mounted Police, as well as various police agencies and media outlets worldwide.[^1]
@@ -176,3 +189,7 @@ The Wackenhut/Cabazon Joint Venture was terminated on October 1, 1984, following
 [^33]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
 [^34]: Epstein, Jeffrey, reply to Story Cowles, "Re: Wackenhut," email, July 13, 2009, U.S. Department of Justice, Epstein Library, EFTA01829732. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01829732.pdf
 [^35]: G4S Wackenhut, Security Officer Reports, client facility "358 El Brillo," November 2009, U.S. Department of Justice, Epstein Library, EFTA01157725. https://www.justice.gov/epstein/files/DataSet%209/EFTA01157725.pdf
+[^36]: The Wackenhut Corporation, annual reports for 1985 and 1986, sections on Wackenhut Advanced Technologies Corporation, Danny Casolaro papers, folder "Wackenhut-CompanyReportsannualQuarterly," https://archive.org/details/casolaro-notebooks.
+[^37]: Wackenhut newsletter (titled *Pipeline* in the scan), undated issue, passages on The Wackenhut Advanced Technologies Corporation, WATCO's Touchscreen Station and "New CPP's at WATCO," Danny Casolaro papers, folder "Wackenhut-Newsletters," https://archive.org/details/casolaro-notebooks.
+[^38]: Wackenhut Corporation, nuclear services brochure, undated, Danny Casolaro papers, folder "Wackenhut - Newsletters," https://archive.org/details/ddosecrets_casolaro_files.
+[^39]: CounterTerrorism Consultants, L.P., "Proudly Presents The Resumes of its Associates," fax copy dated June 20, 1990, pages 141 P10 and 141 P11, Danny Casolaro papers, folder "Promotional Material," https://archive.org/details/casolaro-notebooks.

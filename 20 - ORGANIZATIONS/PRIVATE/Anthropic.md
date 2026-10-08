@@ -50,7 +50,7 @@ relations:
     role: "CDAO prototype agreement up to 200 million dollars; designated a supply-chain risk"
     fn: 20
 created: 2026-06-19
-updated: 2026-09-23
+updated: 2026-10-08
 ---
 
 Anthropic is an artificial-intelligence company founded in May 2021 by seven former [[OpenAI]] researchers, led by the siblings [[Dario Amodei]] (chief executive) and [[Daniela Amodei]] (president), who left OpenAI over disagreements about its direction and its balance between commercialization and safety. The founders came out of the [[Effective Altruism]] movement and built the company explicitly around the thesis that advanced AI should be developed with extreme caution, the same existential-risk concern that runs through the [[Rationalist Community]] and the institutions [[Peter Thiel]] funded through the [[Machine Intelligence Research Institute]]. Its 2022 funding round was led by a 500 million dollar investment from [[Sam Bankman-Fried]] months before his [[FTX]] exchange collapsed in fraud.[^1][^2]
@@ -93,6 +93,16 @@ On February 12, 2026, Anthropic announced a 20-million-dollar contribution to [[
 
 Anthropic's own lobbying disclosures reported expenses of 720,000 dollars in 2024, 4.04 million in 2025 and 3.53 million in the first half of 2026; the number of outside firms registered to lobby for it grew from two in 2023 to nine in 2026.[^28]
 
+### Jacob Coxon Resignation
+
+[[Jacob Coxon]], a pretraining researcher who had moved from OpenAI to Anthropic in May 2026, resigned on September 8, 2026 and wrote on X that "Neither company is acting responsibly" and that they were "gambling with our lives." [[CNBC]] reported that the post had been viewed more than 70 million times.[^29] [[Evan Hubinger]], an Anthropic alignment lead, wrote that "we really do earnestly believe AI could kill all humans" and "I personally think it is >10% within the next decade," and that "we do not yet have a plan to solve alignment for superintelligence."[^29] An Anthropic spokesperson told the [[Washington Post]] that "We have always been transparent that AI will bring both enormous benefits and unprecedented risks."[^30] [[Pirate Wires]] reported on September 24, 2026 that a public relations firm representing [[Eliezer Yudkowsky]] was helping Coxon book interviews; Coxon told the Post he did not work with any organizations to promote the announcement.[^30][^31]
+
+### Religious Consultations and the Papal Encyclical
+
+[[Elizabeth Dias]] of the [[New York Times]] reported on September 29, 2026 that Anthropic had held a series of private meetings in which it consulted religious scholars "to help instill morality into its A.I. models and make the case that Claude could be conscious."[^32] The Telegraph, in an account republished by Yahoo News on October 2, 2026, reported that Chris Olah, one of seven Anthropic co-founders, had been leading talks between the company and religious leaders, and quoted him telling the Times: "We don't know if AI models are conscious. I don't know. I'm genuinely uncertain."[^33]
+
+Pope Leo XIV's 40,000-word encyclical "Magnifica Humanitas" was published in May 2026. As quoted in that account, it states that "So-called artificial intelligences do not undergo experiences, do not possess a body, do not feel joy or pain." The same account reports, citing the Times, that Olah urged the Pope's advisers to take the idea of machine consciousness seriously after seeing the encyclical before its publication, that he was invited to the Vatican to speak alongside the Pope when it was presented, and that he reportedly considered pulling out over the Pope's position before telling the audience that Anthropic's research had found "structures that mirror results from human neuroscience" and "evidence of introspection."[^33]
+
 ### Footnotes
 
 [^1]: "From 500 million to 30 billion: SBF, in prison, has invested in the most valuable company in the AI era," on the FTX/Alameda investment in Anthropic. https://www.panewslab.com/en/articles/019d08f7-792c-70db-a0d3-5654dd2b2eaf
@@ -123,3 +133,8 @@ Anthropic's own lobbying disclosures reported expenses of 720,000 dollars in 202
 [^26]: Bellan, Rebecca. "Anthropic-funded group backs candidate attacked by rival AI super PAC." *TechCrunch,* February 20, 2026. https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/
 [^27]: Anthropic, "Anthropic is donating another $20 million to Public First Action," July 21, 2026. https://www.anthropic.com/news/donation-public-first-action
 [^28]: U.S. Senate, Lobbying Disclosure Act database, filings with client "Anthropic," 2023 to second quarter 2026, retrieved September 2026. https://lda.senate.gov/api/v1/filings/?client_name=Anthropic
+[^29]: Arjun Kharpal, "Researcher says AI has more than 10% chance of 'killing all humans,'" CNBC, September 9, 2026. https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html
+[^30]: Miriam Waldvogel and Nitasha Tiku, "AI researcher who warned of disaster is now a target of the right," The Washington Post, September 10, 2026 (Anchorage Daily News reprint, September 11, 2026). https://www.adn.com/nation-world/2026/09/10/ai-researcher-who-warned-of-disaster-is-now-a-target-of-the-right/
+[^31]: Hunter Ryerson, "EXCLUSIVE: Jacob Coxon Worked With Doomer PR Firm," Pirate Wires, September 24, 2026. https://www.piratewires.com/p/jacob-coxon-worked-with-ai-doomer-firm
+[^32]: Elizabeth Dias, "Is Claude Conscious? Inside Anthropic's Quest to Instill Morality Into Its A.I. Models," The New York Times, September 29, 2026. https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html
+[^33]: "Anthropic tried to persuade Pope that AI could be conscious," The Telegraph, republished by Yahoo News, October 2, 2026, reporting the New York Times account. https://www.yahoo.com/news/science/articles/anthropic-tried-persuade-pope-ai-131853948.html Sole source for the timing of Olah's approach to the Pope's advisers.

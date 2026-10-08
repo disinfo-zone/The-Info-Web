@@ -15,6 +15,11 @@ summary: "Grantmaker of Dustin Moskovitz and Cari Tuna, renamed Coefficient Givi
 location: "San Francisco, California"
 start: 2011
 relations:
+  - type: funded
+    with: "[[Effective Altruism Foundation]]"
+    role: "1,000,000 dollars over two years, research and general operations, July 2019"
+    start: 2019-07
+    fn: 22
   - type: founded
     with: "[[Dustin Moskovitz]]"
     reverse: true
@@ -84,7 +89,7 @@ relations:
     role: "1,515,000 dollars in 2022"
     fn: 18
 created: 2026-06-19
-updated: 2026-09-23
+updated: 2026-10-08
 ---
 
 Open Philanthropy is a grantmaking organization funded chiefly by [[Facebook]] and [[Asana]] cofounder [[Dustin Moskovitz]] and his wife [[Cari Tuna]], whose founders and many early employees, according to *[[Semafor]]*, "were sympathetic to the utilitarian philosophical movement known as [[Effective Altruism|effective altruism]]." Known earlier as GiveWell Labs, it was launched in 2011, and the couple's fortune has contributed most of the roughly 7 billion dollars it had given away by September 2026. It renamed itself Coefficient Giving in November 2025. Its chief executive since 2023, [[Alexander Berger]], said in 2026 that it had spent about a tenth of the [[Gates Foundation]]'s budget in 2025 and more than twice that so far in 2026; *Semafor* reported it was on track to give away 2 billion dollars in the year and called it "a favorite of Anthropic executives."[^1][^2]
@@ -115,6 +120,16 @@ Redwood Research, a [[Berkeley]] AI-alignment nonprofit, announced in October 20
 
 Open Philanthropy gave the [[Alignment Research Center]], founded by Paul Christiano, 265,000 dollars for general support in March 2022 and 1,250,000 dollars over two years in November 2022. The center incubated ARC Evals, which spun off in December 2023 as [[METR]].[^18][^19][^20] In September 2025 Open Philanthropy gave the RAND Corporation 10 million dollars over three years for Canary, "a collaboration between RAND and METR to develop advanced methods for evaluating AI systems," on the recommendation of [[Trevor Levin]] of its AI governance and policy team.[^21]
 
+### Effective Altruism Foundation
+
+Open Philanthropy's grant pages record five grants to the [[Effective Altruism Foundation]] (EAF). In July 2019 it recommended 1,000,000 dollars over two years "to support some aspects of its research and general operations," with Nick Beckstead and [[Claire Zabel]] as grant investigators. The page states that "we have felt ambivalent about EAF's work to date (despite feeling unambiguously positively about some of their projects)" and that "A major purpose of this grant is to encourage and support EAF and our other grantees in the space in taking approaches to longtermism with greater emphasis on shared objectives between different value systems."[^22]
+
+Four later grants were recorded: 15,358 dollars in April 2020 (investigators [[Zachary Robinson]] and Alexander Berger), 375,000 dollars in October 2020 (investigator Robinson), 697,268 dollars in January 2022, all for research and advocacy on policy interventions in Europe in the field of development aid, and 200,000 dollars in April 2022 for work in biosecurity.[^23]
+
+[[Simon Knutsson]] wrote in 2019 that he sent Open Philanthropy questions on October 31 and November 5 about whether the 2019 grant was conditioned on guidelines written by EAF, and that its communications officer replied on November 5 and 8 that the organization had nothing to add beyond the grant page.[^24]
+
+On Open Philanthropy's share of effective altruism funding, two compilations give different figures for 2019. [[Benjamin Todd]] of [[80,000 Hours]] estimated in 2021 that effective altruism funding in 2019 was about 416 million dollars per year, of which about 260 million dollars came from Open Philanthropy (an average of its 2017 to 2019 grants taken from its grants database), 80 million dollars for GiveWell-recommended charities excluding Open Philanthropy was added to global health, and 30 million dollars per year was a guess for other longtermist and meta donations; he described all the figures as extremely rough. The ratio of 260 to 416 is 62.5 percent. A spreadsheet of grants compiled by a forum user and last updated November 7, 2023 lists Open Philanthropy at 196.6 million dollars of 306.1 million dollars in 2019, a share of 64.2 percent, and 236.9 million dollars of 407.5 million dollars in 2020, with the [[Survival and Flourishing Fund]] at 1.8 million dollars in 2019 and 5.4 million dollars in 2020. Its Open Philanthropy column sums to about 1.99 billion dollars for 2012 through 2022.[^25][^26]
+
 ### Footnotes
 
 [^1]: Smith, Ben. "Coefficient Giving's CEO on Silicon Valley's $40 billion philanthropy boom." *Semafor,* September 3, 2026. https://www.semafor.com/article/09/03/2026/coefficient-givings-ceo-on-silicon-valley-40-billion-philanthropy-boom
@@ -138,3 +153,8 @@ Open Philanthropy gave the [[Alignment Research Center]], founded by Paul Christ
 [^19]: Open Philanthropy, "Alignment Research Center, General Support (November 2022)," archived. http://web.archive.org/web/20230512114157id_/https://www.openphilanthropy.org/grants/alignment-research-center-general-support-november-2022/
 [^20]: METR, "ARC Evals is now METR," December 4, 2023. https://metr.org/blog/2023-12-04-metr-announcement/
 [^21]: Open Philanthropy, "RAND Corporation, AI Evaluation and Testing," September 2025, archived. http://web.archive.org/web/20251025225511id_/https://www.openphilanthropy.org/grants/rand-corporation-ai-evaluation-and-testing/
+[^22]: Open Philanthropy, "Effective Altruism Foundation: Research and Operations," grant page, award date July 2019, grant investigators Nick Beckstead and Claire Zabel. Archived 2022. https://web.archive.org/web/2022id_/https://www.openphilanthropy.org/grants/effective-altruism-foundation-research-and-operations/
+[^23]: Open Philanthropy grant pages for the Effective Altruism Foundation: April 2020, 15,358 dollars; October 2020, 375,000 dollars; January 2022, 697,268 dollars; April 2022, 200,000 dollars (Biosecurity & Pandemic Preparedness). Archived 2022. https://web.archive.org/web/2022id_/https://www.openphilanthropy.org/grants/effective-altruism-foundation-european-policy-research/ , https://web.archive.org/web/2022id_/https://www.openphilanthropy.org/grants/effective-altruism-foundation-european-policy-research-and-advocacy/ , https://web.archive.org/web/2022id_/https://www.openphilanthropy.org/grants/effective-altruism-foundation-european-policy-research-and-advocacy-2022/ , https://web.archive.org/web/2022id_/https://www.openphilanthropy.org/grants/effective-altruism-foundation-european-policy-research-and-advocacy-2022-2/
+[^24]: Simon Knutsson, "E-mail exchange with the Open Philanthropy Project," simonknutsson.com, November 10, 2019. https://www.simonknutsson.com/e-mail-exchange-with-the-open-philanthropy-project Sole source; Knutsson did not publish the replies.
+[^25]: Benjamin Todd, "How are resources in effective altruism allocated across issues?," 80,000 Hours, August 9, 2021, section on 2019 funding by cause area. https://80000hours.org/2021/08/effective-altruism-allocation-resources-cause-areas/
+[^26]: "Historical EA funding data," spreadsheet linked from the Effective Altruism Forum post of that title, last updated November 7, 2023; columns OPP, GW, EAF (which in this sheet denotes the EA Funds, not the Effective Altruism Foundation), ACE, SFF, FTX, annual totals 2012 to 2023 (estimate). https://forum.effectivealtruism.org/posts/ZbaDmowkXbTBsxvHn/historical-ea-funding-data Percentages and the 2012 to 2022 sum computed from the sheet's dollar figures.
