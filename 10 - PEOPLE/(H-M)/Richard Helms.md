@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-09-21
+updated: 2026-10-08
 title: Richard Helms
 aliases:
   - Richard McGarrah Helms
@@ -63,11 +63,21 @@ The CIA subsequently funded opposition media, political parties, and military fa
 
 In February 1973, when Helms testified before the [[Senate Foreign Relations Committee]] regarding CIA activities in Chile, he stated under oath that the CIA had not "tried to overthrow the government of Chile" and had not "passed money to the opponents of Allende." Both statements were false. The 1974 Pinochet coup and subsequent Church Committee investigation produced documentary evidence of both activities. In 1977, Helms was charged with two misdemeanor counts of making false and misleading statements to Congress. He pleaded no contest (nolo contendere) and was fined $2,000 with a two-year suspended sentence - the minimum possible consequence for what amounted to perjury before Congress. CIA veterans gave him a standing ovation in the courthouse corridor after sentencing.[^1]
 
+### The Israeli estimate and the June 1967 warning
+
+On May 25, 1967, Helms had the [[Office of National Estimates]] appraise an Israeli intelligence estimate within five hours. The appraisal stated: "We do not believe that the Israeli appreciation . . . was a serious estimate of the sort they would submit to their own high officials. We think it is probably a gambit intended to influence the US to do one or more of the following: (a) provide military supplies, (b) make more public commitments to Israel, (c) approve Israeli military initiatives, and (d) put more pressure on Nasser." [[David S. Robarge]], the CIA's chief historian, describes the Israeli paper as a [[Mossad]] estimate and writes that the Israelis may have been exploiting their special relationship with James Jesus Angleton.[^4][^5]
+
+On June 1, 1967, Helms's deputy, Vice Admiral [[Rufus Taylor]], wrote the memorandum of the conversation between Major General [[Meir Amit]] and Secretary of Defense [[Robert S. McNamara]], captioned "Personal and Eyes Only for the Secretary of Defense and the Director of Central Intelligence."[^6] Robarge writes that Helms met a senior Israeli official on June 1 who hinted that Israel could no longer avoid a decision, that the official left the United States on June 2, and that that morning Helms wrote an "Eyes Only" letter to President Johnson forewarning that Israel probably would start a war within a few days.[^7] Helms was awakened at 3:00 a.m. on June 5 by a call from the CIA Operations Center. He recalled that "in the midst of one meeting" during the war Johnson asked how accurate his intelligence on the progress of the war was, and that he answered: "It's accurate just as long as the Israelis are winning."[^5]
+
+### NUMEC letter, April 1968
+
+On April 2, 1968, Helms wrote to Attorney General [[Ramsey Clark]] asking that the FBI "initiate a discreet intelligence investigation of an all source nature of Dr. Shapiro in order to establish the nature and extent of his relationship with the Government of Israel," and asked that the letter be returned to him once the Attorney General had acted, because the subject matter was "so sensitive for obvious reasons." A twelve-line passage before the request remains redacted.[^8] The subject was [[Zalman Mordecai Shapiro]] of the [[Nuclear Materials and Equipment Corporation]].
+
 ### Israel: The "Open Pipeline" Assessment
 
 Helms developed a personal conviction, disclosed to his deputies, that Israel was providing American satellite intelligence to the [[Soviet Union]] as part of an undisclosed intelligence exchange - characterizing Israel as "an open pipeline for pumping intelligence to Moscow." He never officially reported this assessment or commissioned a formal investigation, and he took no documented action on it. His reluctance reflected both the sensitivity of accusing an ally and the particular weight of any assessment that ran against the interests managed by Angleton's [[KK MOUNTAIN]] Israeli liaison program.
 
-When President Johnson sought an intelligence assessment of whether Israel had manufactured nuclear weapons, Helms provided the estimate (four warheads) and then obeyed Johnson's instruction that the finding be buried rather than formally reported. Johnson did not want intelligence conclusions that would require him to act on them politically. Helms's willingness to suppress an accurate intelligence product at presidential direction exemplified the institutional failure the Church Committee later documented.[^4]
+When President Johnson sought an intelligence assessment of whether Israel had manufactured nuclear weapons, Helms provided the estimate (four warheads) and then obeyed Johnson's instruction that the finding be buried rather than formally reported. Johnson did not want intelligence conclusions that would require him to act on them politically. Helms's willingness to suppress an accurate intelligence product at presidential direction exemplified the institutional failure the Church Committee later documented.[^9]
 
 ### Iran, Retirement, and Memoirs
 
@@ -80,4 +90,9 @@ He published his memoirs, *A Look Over My Shoulder: A Life in the Central Intell
 [^1]: Powers, Thomas. *The Man Who Kept the Secrets: Richard Helms and the CIA.* Knopf, 1979 (the essential biography, based on extensive interviews). Church Committee (Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). Final Report, S. Rept. 94-755, April 26, 1976.
 [^2]: Church Committee. "Alleged Assassination Plots Involving Foreign Leaders." Senate Report No. 94-465, 1975 (documents ZR/RIFLE and the failure to disclose to Warren Commission). Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown, 2017.
 [^3]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapters 1, 4, 12.
-[^4]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991. Chapters 11, 14, 16.
+[^4]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 61, Memorandum from Rostow to President Johnson, May 25, 1967, with attached CIA appraisal. https://history.state.gov/historicaldocuments/frus1964-68v19/d61
+[^5]: Robarge, David S. "Getting it Right: CIA Analysis of the 1967 Arab-Israeli War." *Studies in Intelligence* 49, no. 1 (March 2005). https://www.cia.gov/resources/csi/static/CIA-Analysis-1967-War.pdf
+[^6]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 124, Memorandum for the Record by Vice Admiral Rufus Taylor, June 1, 1967 (prepared June 2). https://history.state.gov/historicaldocuments/frus1964-68v19/d124
+[^7]: Robarge, David S. "Getting it Right: CIA Analysis of the 1967 Arab-Israeli War." *Studies in Intelligence* 49, no. 1 (March 2005). https://www.cia.gov/resources/csi/static/CIA-Analysis-1967-War.pdf For the June 1 to 2 meeting Robarge relies on published accounts, among them Michael B. Oren's, which rest on Amit's interviews and writings.
+[^8]: National Security Archive, "The NUMEC Affair: Did Highly Enriched Uranium from the U.S. Aid Israel's Nuclear Weapons Program?" (November 2, 2016), Document 8, Letter from Richard Helms to Ramsey Clark, April 2, 1968 (ISCAP Appeal No. 2013-062). https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2016-11-02/numec-affair-did-highly-enriched-uranium-us-aid-israels-nuclear-weapons-program
+[^9]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991. Chapters 11, 14, 16.

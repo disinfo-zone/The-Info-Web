@@ -16,7 +16,12 @@ summary: "Stanford Research Institute is the Menlo Park research institute, foun
 start: 1946
 location: "Menlo Park, California"
 created: 2025-07-22
-updated: 2026-06-20
+updated: 2026-10-08
+relations:
+  - type: contractor_to
+    with: "[[DARPA]]"
+    start: 2005
+    fn: 15
 ---
 
 Stanford Research Institute, known since 1977 as SRI International, is a nonprofit contract research institute in Menlo Park, California, founded in 1946 by trustees of Stanford University as a center of innovation serving regional and global industry. It became independent of Stanford in 1970. Over its history SRI developed bank check automation, the location study for Disneyland, [[Douglas Engelbart]]'s Augmentation Research Center and the 1968 demonstration later called the "Mother of All Demos," the second node of the ARPANET, the Shakey mobile robot, and the speech assistant that became Siri, and it also housed the government-funded parapsychology program run by [[Hal Puthoff]] and [[Russell Targ]].[^1][^2]
@@ -29,7 +34,7 @@ In April 1953 [[Walt Disney|Walt]] and [[Roy Disney]] hired the SRI economist Ha
 
 ### The Augmentation Research Center
 
-In 1957 the electrical engineer Douglas Engelbart joined SRI, where he pursued a conviction, set out in his October 1962 report *Augmenting Human Intellect: A Conceptual Framework*, that computers should be built to extend rather than replace human reasoning. That report, prepared for the [[U.S. Air Force]] Office of Scientific Research, drew the attention of [[J.C.R. Licklider]], the first director of the Information Processing Techniques Office of the Defense Department's [[Advanced Research Projects Agency]] (ARPA), who funded Engelbart's new Augmentation Research Center in early 1963; [[NASA]] and ARPA support expanded after [[Robert Taylor]] took up the cause, first at NASA and then as IPTO director from 1965.[^3][^4]
+In 1957 the electrical engineer Douglas Engelbart joined SRI, where he pursued a conviction, set out in his October 1962 report *Augmenting Human Intellect: A Conceptual Framework*, that computers should be built to extend rather than replace human reasoning. That report, prepared for the [[U.S. Air Force]] Office of Scientific Research, drew the attention of [[J.C.R. Licklider]], the first director of the Information Processing Techniques Office of the Defense Department's Advanced Research Projects Agency (ARPA), who funded Engelbart's new Augmentation Research Center in early 1963; [[NASA]] and ARPA support expanded after [[Robert Taylor]] took up the cause, first at NASA and then as IPTO director from 1965.[^3][^4]
 
 The center built the oN-Line System, or NLS, a working interactive computing environment running on an SDS 940 timesharing computer that combined the mouse (which Engelbart invented and patented), a chord keyset, bit-mapped screens, hierarchical document outlines, hypertext links, on-screen windows, and real-time collaborative editing among networked terminals. Engelbart's team included researchers such as [[Bill English]], who built the first mouse prototype, and the future [[Xerox PARC]] and Apple lineage of graphical-interface design traces directly to their work.[^3][^4]
 
@@ -55,6 +60,14 @@ From 1972 to about 1995 SRI hosted a classified, government-funded parapsycholog
 
 SRI developed several of the core techniques of the field, including [[Coordinate Remote Viewing]] (CRV) and the use of outbounder teams sent to randomly chosen locations for a viewer to describe. The institute's prestige and its heavy reliance on classified government contracts made it a fitting home for the sensitive work, and Puthoff and Targ published some of their results in reputable scientific journals, lending the field a measure of credibility that helped persuade parts of the intelligence community that remote viewing might serve as an intelligence-gathering tool.[^9]
 
+In February 1983 an INSCOM information paper stated that Dr. [[Jack Vorona]] of the Defense Intelligence Agency "has either obtained or received commitment for $200K from DARPA," the amount he stated was needed to keep SRI intact for fiscal 1983.[^10] An Army memorandum on the [[Center Lane]] funding initiative states that "Contact with Defense Advanced Research Projects Agency (DARPA), the actual source of the funds, resulted in a decision to move the money covertly through DCSRDA, if approved."[^11] A DIA project report of October 19, 1983 divides the $1,475.5K three-year Grill Flame budget into $962K from DIA, $313.5K from Army INSCOM and $200K from DARPA.[^12] A DIA special access program background document for [[Sun Streak]] describes the research and development link via SRI International as "accomplished via HQ SGRD funding and a DARPA MIPR."[^13]
+
+Edwin May and Wanda Luke wrote in 1991 that beginning in fiscal year 1986 the Army Medical Research and Development Command began a five-year investigation of anomalous mental phenomena at SRI International, that the Command did not fund the fourth and fifth years, and that the House Appropriations Committee funded the fourth year through DARPA to the Command's contract.[^14]
+
+### DARPA contracts, 2005 to 2026
+
+Federal award records list 113 DARPA prime contract awards to SRI International with action dates from October 1, 2007 to September 30, 2026, whose award amounts total $462,329,429.73 and whose transactions inside that date range total $423,420,369. The earliest of these awards began on July 25, 2005. The largest is contract HR001106C0023, with performance dates of November 14, 2005 to March 31, 2011 and an award amount of $41,671,826.77.[^15] Award descriptions include supply chain hardware security, machine translation under the BOLT program, semantic forensics, and molecular discovery.[^15]
+
 ### Footnotes
 
 [^1]: "History, Leadership, and Values," About SRI International, on the 1946 founding by Stanford trustees as a center of innovation, the 1970 separation from Stanford, the ERMA and MICR banking work, and the institute's scale. https://www.sri.com/about-us/
@@ -66,3 +79,9 @@ SRI developed several of the core techniques of the field, including [[Coordinat
 [^7]: Lyman, Richard W. "At the Hands of the Radicals," *Stanford* magazine, January/February 2009 (excerpt from *Stanford in Turmoil*), https://stanfordmag.org/contents/at-the-hands-of-the-radicals ; Stanford University News Service releases of April 4 to May 1, 1969, April Third Movement Historical Archive, https://a3mreunion.org/archive/1968-1969/68-69_stanford_releases/68-69_stanford_releases.html ; "May 16 Protest at SRI," same archive, 1968-1969.
 [^8]: Standard accounts of the SRI remote-viewing program, 1972 to about 1995, funded by the CIA and the Defense Intelligence Agency and run by Russell Targ and Harold Puthoff with subjects including Ingo Swann and Pat Price, as one strand of the program later known as Project Stargate. See the vault pages on Hal Puthoff, Russell Targ, and Project Stargate.
 [^9]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, on the SRI psychic-research program, the subjects including Ingo Swann, Pat Price, and Uri Geller, the development of Coordinate Remote Viewing and outbounder protocols, and the publication of results in scientific journals.
+[^10]: INSCOM information paper IAOPS-H-S, "GRILL FLAME," February 21, 1983, CIA-RDP96-00788R001100350001-2. https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001100350001-2.pdf
+[^11]: Department of the Army memorandum DAMI-ISH, "CENTER LANE DAMI-ISH Funding Initiative," undated, CIA-RDP96-00788R001700180003-3. https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700180003-3.pdf
+[^12]: Defense Intelligence Agency, Directorate for Scientific and Technical Intelligence, "GRILL FLAME Project Report," October 19, 1983, Appendix III, CIA-RDP96-00788R001000410001-6. https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001000410001-6.pdf
+[^13]: Defense Intelligence Agency, SUN STREAK special access program background, CIA-RDP96-00789R000700260002-5 (same passage in CIA-RDP96-00789R002100260043-4 and CIA-RDP96-00789R001800710001-4). https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R000700260002-5.pdf
+[^14]: Edwin C. May and Wanda L. W. Luke, "A Long-Term, Integrated, Basic and Applied Research Plan (U)" (draft), May 10, 1991, CIA-RDP96-00789R003100060001-1. https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003100060001-1.pdf
+[^15]: USAspending.gov, prime contract awards (award types A to D), awarding sub-agency Defense Advanced Research Projects Agency, recipient SRI International, action dates October 1, 2007 to September 30, 2026, retrieved October 8, 2026. https://www.usaspending.gov/search

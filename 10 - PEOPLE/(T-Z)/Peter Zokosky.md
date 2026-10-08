@@ -5,13 +5,18 @@ tags:
   - PROMIS
   - CIA
 summary: "Former president of Armtec Defense Products, the Army's sole combustible cartridge casing supplier, who advised the Cabazon-Wackenhut joint venture and was a witness in the Justice Department's INSLAW inquiry."
-updated: 2026-09-22
+relations:
+  - type: director_of
+    with: "[[Meridian International Logistics]]"
+    role: "board member; asked later to be taken off the board (Zokosky to Seymour, 2001)"
+    fn: 1
+updated: 2026-10-08
 ---
 [[Peter Zokosky]] was an arms manufacturer and a key figure in various covert operations and business ventures, often associated with [[Robert Booth Nichols]] and [[Michael Riconosciuto]]. He was a former president of [[Armtec]], a company that produced combustible cartridge cases for the Army, and was under a non-compete agreement with them until August 1981. Zokosky also served as a consultant to the [[Great Britain|British Government]] on shell casings.[^1]
 
 ### The Justice Department Inquiry
 
-Zokosky told the [[Department of Justice|Justice Department]]'s special counsel, [[Nicholas Bua]], that he was the former president of Armtec Defense Products of Coachella, California, which in the early 1980s was the single-source supplier of combustible cartridge casings to the Army. He took people from the Cabazon-[[Wackenhut Corporation|Wackenhut]] joint venture to [[Picatinny Arsenal]] in Dover, [[New Jersey]], to meet [[Dr. Harry Fair]] and the Army project officer R. Scott Westley, whom he knew from Armtec, about establishing a second-source casing plant on the reservation. [[Robert Frye]] recalled first meeting Michael Riconosciuto on a trip to the arsenal in May 1981; Zokosky agreed there was a May trip but said Riconosciuto was not on it and that Frye met him on a second trip in October 1981.[^2]
+Zokosky told the [[Department of Justice|Justice Department]]'s special counsel, [[Nicholas J. Bua]], that he was the former president of Armtec Defense Products of Coachella, California, which in the early 1980s was the single-source supplier of combustible cartridge casings to the Army. He took people from the Cabazon-[[Wackenhut Corporation|Wackenhut]] joint venture to [[Picatinny Arsenal]] in Dover, [[New Jersey]], to meet [[Dr. Harry Fair]] and the Army project officer R. Scott Westley, whom he knew from Armtec, about establishing a second-source casing plant on the reservation. [[Robert Frye]] recalled first meeting Michael Riconosciuto on a trip to the arsenal in May 1981; Zokosky agreed there was a May trip but said Riconosciuto was not on it and that Frye met him on a second trip in October 1981.[^2]
 
 Bua examined the "Special Operations Report" titled "Nicaraguans and Earl Brian at Lake Cahuilla, 9/10/81," which placed [[Earl Brian]] at the joint venture's weapons demonstration of September 10, 1981. He found it had been typed on October 10, 1991, by Gene Gilbert, an investigator for the Riverside County District Attorney, after a jailhouse interview with Riconosciuto, and that all its information except license plate numbers came from Riconosciuto; the former Indio officer Dave Baird, who had memorized the plates at the demonstration, did not identify Brian as Gilbert's later report said. Gilbert told Bua that had he known the stir it would cause he "would have left Earl Brian's name out."[^2]
 
@@ -21,13 +26,13 @@ The writer Cheri Seymour wrote that Zokosky was a key participant in the [[Cabaz
 
 ### Biological Warfare Technology
 
-Seymour wrote that Zokosky took part in the proposed development of biological warfare "viruses" at [[Stormont Laboratories]], grown in cow uteri, and with Robert Booth Nichols presented a proposal for biological warfare technology and anti-toxin kits to the Army (Dr. Harry Fair at Picatinny Arsenal) and to [[FMC Corporation]]; she described the technology as capable of selectively wiping out segments of humanity with the appropriate genetic material. Zokosky spoke of incubating viruses in fish tanks at [[Hercules Research]], where, Seymour wrote, Michael Riconosciuto worked on the same technology.[^1]
+Seymour wrote that Zokosky took part in the proposed development of biological warfare "viruses" at [[Stormont Laboratories]], grown in cow uteri, and with Robert Booth Nichols presented a proposal for biological warfare technology and anti-toxin kits to the Army (Dr. Harry Fair at Picatinny Arsenal) and to [[FMC Corporation]]; she described the technology as capable of selectively wiping out segments of humanity with the appropriate genetic material. Zokosky spoke of incubating viruses in fish tanks at [[Hercules Research]], where, Seymour wrote, Michael Riconosciuto worked on the same technology.[^1] Seymour's 1992 VORTEX account separately says Zokosky had been involved in a proposal to sell biological warfare viruses to a Dr. Harry Fair in Arlington, Virginia.[^3]
 
 ### Connections to Robert Booth Nichols and Meridian International Logistics
 
-Zokosky was a board member of [[Meridian International Logistics|MIL]], a holding company headed by Robert Booth Nichols. He stated that MIL was a "front company" used to funnel money to its board of directors, with funds, he said, coming from the [[NSA|NSA]], partly from drug profits. He believed that Robert Booth Nichols worked for the [[National Security Council|NSC]] and NSA, doing "contract work" for various government agencies, and that Nichols handled "corporate and government" transactions related to narcotics at a higher level.[^1]
+Zokosky was a board member of [[Meridian International Logistics|MIL]], a holding company headed by Robert Booth Nichols. He stated that MIL was a "front company" used to funnel money to its board of directors, with funds, he said, coming from the [[NSA|NSA]], partly from drug profits. He said Robert Booth Nichols worked "for the NSC" ([[National Security Council]]) and did "contract work for the NSA/NSC," and that Nichols handled "corporate and government" transactions related to narcotics at a higher level.[^1]
 
-Zokosky and Nichols were involved in a proposed joint venture with FMC Corporation, where Michael Riconosciuto was Vice President of [[Meridian Arms]]. Zokosky also discussed Robert Booth Nichols and Michael Riconosciuto conducting business in [[Australia]], which he thought had something to do with the [[Nugan Hand Bank]].[^1]
+Seymour wrote in her 1992 VORTEX account that Michael Riconosciuto had once been vice president of Meridian Arms, the subsidiary of MIL.[^3] Zokosky also discussed Robert Booth Nichols and Michael Riconosciuto conducting business in [[Australia]], which he thought had something to do with the [[Nugan Hand Bank]].[^1]
 
 ### Role in "The Octopus" Investigation
 
@@ -48,3 +53,4 @@ He was an investor in the Cabazon Indian Reservation and a skeet range, though h
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. The special counsel's report records the Picatinny meeting date as disputed and found no support for the presence of Contra leaders or Earl Brian at Lake Cahuilla. Sole source for the passages so cited.
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of INSLAW, Inc.,* March 1993, pp. 56-64.
+[^3]: Seymour, Cheri. "VORTEX," diary dated February 24, 1992, p. 11. https://archive.org/details/VORTEXDocument

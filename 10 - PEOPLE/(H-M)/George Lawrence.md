@@ -21,7 +21,7 @@ tags:
 summary: "ARPA projects manager who joined Ray Hyman and Robert Van de Castle at SRI's Uri Geller experiments on December 8, 1972, and later monitored the NRC's 1988 performance-techniques study for the Army Research Institute."
 relations:
   - type: employed_by
-    with: "[[Advanced Research Projects Agency]]"
+    with: "[[DARPA|Advanced Research Projects Agency]]"
     start: 1972
     role: "projects manager; arranged the visit to SRI on December 8, 1972 with consultants Hyman and Van de Castle"
     fn: 1
@@ -42,10 +42,10 @@ relations:
     role: "Army Research Institute project monitor"
     fn: 4
 created: 2026-05-17
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
-George H. Lawrence was a psychologist and a projects manager at the [[Advanced Research Projects Agency]] (ARPA) of the [[Department of Defense]] in the early 1970s. He visited the [[Stanford Research Institute]] (SRI) on December 8, 1972, with his consultants [[Ray Hyman]] and [[Robert Van de Castle]], to see the work of [[Hal Puthoff]] and [[Russell Targ]] with [[Uri Geller]],[^1] and *[[Time]]* of March 12, 1973 reported that neither he nor Hyman was impressed.[^2] According to a CIA note of February 28, 1973, the magazine's science editor named him as the source of a skeptical article, which Lawrence denied.[^3] By 1984 he was a staff member of the [[U.S. Army Research Institute for the Behavioral and Social Sciences]], and from 1985 to 1988 he served as its project monitor for the [[National Research Council]] committee whose report on techniques for enhancing human performance included a chapter on parapsychology.[^4]
+George H. Lawrence was a psychologist and a projects manager at the [[DARPA|Advanced Research Projects Agency]] (ARPA) of the [[Department of Defense]] in the early 1970s. He visited the [[Stanford Research Institute]] (SRI) on December 8, 1972, with his consultants [[Ray Hyman]] and [[Robert Van de Castle]], to see the work of [[Hal Puthoff]] and [[Russell Targ]] with [[Uri Geller]],[^1] and *[[Time]]* of March 12, 1973 reported that neither he nor Hyman was impressed.[^2] According to a CIA note of February 28, 1973, the magazine's science editor named him as the source of a skeptical article, which Lawrence denied.[^3] By 1984 he was a staff member of the [[U.S. Army Research Institute for the Behavioral and Social Sciences]], and from 1985 to 1988 he served as its project monitor for the [[National Research Council]] committee whose report on techniques for enhancing human performance included a chapter on parapsychology.[^4]
 
 ### The visit of December 8, 1972
 
@@ -67,7 +67,7 @@ A note of February 28, 1973, "More Geller Business," records that the science ed
 
 ### Later accounts
 
-A staff study prepared for the Army's [[Center Lane]] program in 1983 includes an article by Dr. [[Roger A. Beaumont]], "On the Strategic Potential of ESP," which says that "in 1972, the [[Defense Advanced Research Projects Agency]] sent a team to evaluate Stanford Research Institute's claimed results with spoon-bender Geller. The team was headed by Dr. George Lawrence, a psychologist who is open-minded on the subject of parapsychology," and that "the team's report was totally negative."[^11] A [[Defense Intelligence College]] thesis of 1992 by Captain [[Michael Zarbo]], citing [[Ronald McRae]]'s *[[Mind Wars]]* (1984), states that "DARPA's director, Dr. George Lawrence, was ordered by his superiors to find something to satisfy Congressional demands to match purported Soviet efforts in the field."[^11]
+A staff study prepared for the Army's [[Center Lane]] program in 1983 includes an article by Dr. [[Roger A. Beaumont]], "On the Strategic Potential of ESP," which says that "in 1972, the [[Defense Advanced Research Projects Agency]] sent a team to evaluate Stanford Research Institute's claimed results with spoon-bender Geller. The team was headed by Dr. George Lawrence, a psychologist who is open-minded on the subject of parapsychology," and that "the team's report was totally negative."[^11] A [[Defense Intelligence College]] thesis of 1992 by Captain [[Michael Zarbo]], citing [[Ronald McRae]]'s *[[Mind Wars]]* (1984), states that Lawrence "was ordered by his superiors to find something to satisfy Congressional demands to match purported Soviet efforts in the field."[^11]
 
 ### The Army Research Institute
 
@@ -77,7 +77,7 @@ A memorandum of January 31, 1995, ORD-0143-95, from the CIA's Director of Resear
 
 ### Footnotes
 
-[^1]: Hyman, Ray. "Psychics and Scientists: 'Mind-Reach' and Remote Viewing." *The Humanist,* May/June 1977, pp. 16-20 and following (visit of December 8, 1972), CIA-RDP96-00787R000200080037-4. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^1]: Hyman, Ray. "Psychics and Scientists: 'Mind-Reach' and Remote Viewing." *The Humanist,* May/June 1977, pp. 16-20 and following (visit of December 8, 1972), CIA-RDP96-00787R000200080037-4. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. Jim Schnabel, *Remote Viewers* (Dell, 1997), p. 138, dates the visit of the agency's three-man team to early 1973.
 [^2]: "The Magician and the Think Tank," *Time,* March 12, 1973, as held in CIA-RDP96-00787R000400100023-4. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
 [^3]: Note for the record, "More Geller Business," February 28, 1973, CIA-RDP96-00787R000400070022-9. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
 [^4]: Druckman, Daniel, and John A. Swets, eds. *Enhancing Human Performance: Issues, Theories, and Techniques.* Washington, D.C.: National Academy Press, 1988, preface and references (Lawrence, G. H., *Biofeedback and Performance: An Update,* Technical Report 658, U.S. Army Research Institute for the Behavioral and Social Sciences, Alexandria, Virginia, 1984; Lawrence and Johnson, 1977), read in ERIC document ED296127, archive.org, and in the CIA Reading Room copy CIA-RDP96-00791R000200320001-1.
@@ -87,6 +87,6 @@ A memorandum of January 31, 1995, ORD-0143-95, from the CIA's Director of Resear
 [^8]: Memorandum for the record, "Paranormal Phenomena: Further Developments / Reflections / Suggestions," February 2, 1973, CIA-RDP96-00787R000400070025-6. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
 [^9]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis.* Little, Brown and Company, 2017.
 [^10]: "Boom Times on the Psychic Frontier," *Time,* cover story, March 4, 1974, as held in CIA-RDP96-00787R000100030002-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
-[^11]: Beaumont, Roger A. "On the Strategic Potential of ESP," in the 1983 Center Lane staff study, CIA-RDP96-00788R001700360003-3. Zarbo, Michael E. *Remote Viewing: Parapsychological Potential for Intelligence Collection?,* master's thesis, Defense Intelligence College, November 1992, CIA-RDP96-00789R002600250001-6. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^11]: Beaumont, Roger A. "On the Strategic Potential of ESP," in the 1983 Center Lane staff study, CIA-RDP96-00788R001700360003-3. Zarbo, Michael E. *Remote Viewing: Parapsychological Potential for Intelligence Collection?,* master's thesis, Defense Intelligence College, November 1992, CIA-RDP96-00789R002600250001-6. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. The thesis introduces the sentence as "DARPA's director, Dr. George Lawrence" and cites McRae, *Mind Wars,* p. 107 (thesis note 71); the Institute for Defense Analyses history of the agency (Richard H. Van Atta, Seymour J. Deitchman and Sidney G. Reed, *DARPA Technical Accomplishments,* vol. III, IDA Paper P-2538, 1991, DTIC ADA241680) lists Stephen Lukasik, from 1971, and George Heilmeier as its directors in the period.
 [^12]: Memorandum, Director of Research and Development to the Associate Deputy Director for Military Affairs, "Request for Military Liaison Support," ORD-0143-95, January 31, 1995, CIA-RDP96-00791R000100140001-2 and CIA-RDP96-00791R000100140004-9. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
 [^13]: May, Edwin C. "The American Institutes for Research Review of the Department of Defense's STAR GATE Program: A Commentary," *Journal of Parapsychology,* vol. 60, no. 1, 1996, pp. 3-23.

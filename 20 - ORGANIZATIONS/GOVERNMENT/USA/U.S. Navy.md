@@ -6,7 +6,7 @@ aliases:
   - "USN"
 title: U.S. Navy
 created: 2025-07-22
-updated: 2026-10-07
+updated: 2026-10-08
 tags:
   - Organization
   - Military
@@ -128,7 +128,9 @@ Navy money also appears in the record of CIA subproject 54. At the August 3, 197
 
 ### Navy psi contracts: Stanford Research Institute, Naval Ocean Systems Center and the Star Gate review
 
-In February 1960 the French magazine *Science et Vie* published "The Secret of the Nautilus" ([[The Nautilus (Telepathy Project)]]), reporting that the U.S. government had used telepathy to communicate with the crew of the [[The Nautilus|USS Nautilus]] under the Arctic ice cap, in a project involving the Navy, the Air Force, [[Westinghouse]], [[General Electric]], [[Bell Laboratories]] and the [[RAND Corporation]]. Jim Schnabel writes that an Air Force officer named in the story denied it, that the skipper of the Nautilus insisted the submarine had been in dry dock during the period, that the article's author [[Gerard Messadie]] had been fed the story by [[Jacques Bergier]], and that Soviet researchers cited the story as justification for psi research.[^11]
+In February 1960 the French magazine *Science et Vie* published "The Secret of the Nautilus" ([[The Nautilus (Telepathy Project)]]), reporting that the U.S. government had used telepathy to communicate with the crew of the [[The Nautilus|USS Nautilus]] under the Arctic ice cap, in a project involving the Navy, the Air Force, [[Westinghouse Electric Corporation|Westinghouse]], [[General Electric]], [[Bell Laboratories]] and the [[RAND Corporation]]. Jim Schnabel writes that an Air Force officer named in the story denied it, that the skipper of the Nautilus insisted the submarine had been in dry dock during the period, that the article's author [[Gerard Messadie]] had been fed the story by [[Jacques Bergier]], and that Soviet researchers cited the story as justification for psi research.[^11]
+
+The 1972 DIA report records that "the US Navy subsequently denied the reports of telepathic testing on atomic submarines."[^40] [[Sheila Ostrander]] and [[Lynn Schroeder]] write that the Navy denied the story "in tones of demi-horror" and quote its position as "No one in the Navy has anything to do with telepathy."[^41] [[Martin Ebon]] wrote that when he sought confirmation the Navy denied that such a test had taken place.[^42] The Nautilus's first captain, [[William R. Anderson]], told This Week in 1963 that on the date the French account gave the ship was "high and dry in dock at Portsmouth, N. H., undergoing her first major overhaul," and the Navy's own history of the ship records that she entered Portsmouth Naval Shipyard in May 1959 for her first complete overhaul.[^43][^44] In 1982 [[Roger A. Beaumont]] wrote that the reports were "denied forthwith by the Navy."[^45]
 
 In 1973 [[Ingo Swann]] and, to a far greater extent, [[Pat Price]] described details of a secret facility near Sugar Grove, [[West Virginia]], ostensibly a U.S. Navy communications base staffed by [[NSA]] cryptographers. Schnabel writes that the data was accurate enough to prompt a hostile security investigation of Richard Kennett, that [[Harold Puthoff]] and [[Russell Targ]] were interrogated, and that agents of the [[Defense Investigative Service]] questioned their neighbors.[^12]
 
@@ -221,3 +223,9 @@ The NSA released a 1981 cryptologic history report, "Attack on a SIGINT Collecto
 [^37]: U.S. Navy, Record of Proceedings, Court of Inquiry to inquire into the circumstances surrounding the armed attack on USS Liberty (AGTR-5) on 8 June 1967, with endorsements, as released by the Judge Advocate General: summary of events (PDF pp. 8 to 10), CINCUSNAVEUR first endorsement of June 18, 1967 (PDF pp. 34 to 38, paragraphs 2 and 15), and Naval Communications Command sixth endorsement (PDF p. 3). https://libertyincident.com/docs/CourtOfInquiry.pdf (the original is held by the U.S. Government; a photocopy is held as Liberty (Ship) Court of Inquiry records, Hoover Institution Library and Archives, collection 86041, https://oac.cdlib.org/findaid/ark:/13030/kt4p30341f).
 [^38]: Report of the Joint Chiefs of Staff Fact Finding Team, "USS Liberty Incident," June 1967, introduction and roster of persons visited. https://documents.theblackvault.com/documents/terrorism/liberty/173.pdf
 [^39]: National Security Agency, "Attack on a SIGINT Collector, the U.S.S. Liberty," U.S. Cryptologic History, Special Series, Crisis Collection, vol. 1, 1981, pp. 34 to 35 (declassified November 8, 2006, MDR 51712), copy at the National Security Archive, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB24/nsa10.pdf; release summary at https://www.theblackvault.com/documentarchive/u-s-s-liberty-attack/
+[^40]: LaMothe, John D. *Controlled Offensive Behavior: USSR*, ST-CS-01-169-72, July 1972, Section II, para. 3, CIA-RDP96-00792R000600360001-2, https://cia.gov/readingroom/document/cia-rdp96-00792r000600360001-2. Its ref. 77 is Messadie, G., "Du Nautilus," Science et Vie, Number 509, February 1960.
+[^41]: Ostrander, Sheila, and Lynn Schroeder. *Psychic Discoveries Behind the Iron Curtain*. Prentice-Hall, 1970, pp. 7.
+[^42]: Ebon, Martin. *Psychic Warfare: Threat or Illusion?* McGraw-Hill, 1983, chapter 3, pp. 22-25.
+[^43]: Newsletter of the Parapsychology Foundation, "Nautilus Hoax Exposed," vol. 10, no. 6, November-December 1963, citing This Week, September 8, 1963. NSA-RDP96X00790R000100040002-2, https://www.cia.gov/readingroom/document/nsa-rdp96x00790r000100040002-2.
+[^44]: "History of USS NAUTILUS (SSN 571)," Submarine Force Library and Museum, Naval History and Heritage Command. https://www.history.navy.mil/content/history/museums/subforce/about-us/history.html
+[^45]: Beaumont, Roger A. "On the Strategic Potential of ESP," *Signal*, January 1982, CIA-RDP96-00788R001700360003-3, https://cia.gov/readingroom/document/cia-rdp96-00788r001700360003-3.

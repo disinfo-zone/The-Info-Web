@@ -9,12 +9,12 @@ tags:
   - ColdWar
   - Brazil
   - Vietnam
-summary: "Rockefeller Foundation president from 1952 to 1960 who became Secretary of State under Kennedy and Johnson, sealing the Foundation's pipeline into the State Department and overseeing the diplomatic side of the 1964 Brazil coup and the 1967 Bolivia operation against Che Guevara."
+summary: "Rockefeller Foundation president from 1952 to 1960 and Secretary of State under Kennedy and Johnson, in office during the 1964 Brazil coup, the 1967 Bolivia operation and the June 1967 Arab-Israeli war."
 born: 1909-02-09
 died: 1994-12-20
 location: Cherokee County, Georgia
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-10-08
 ---
 
 David Dean Rusk (1909-1994) was [[Secretary of State]] under Presidents [[John F. Kennedy]] and [[Lyndon B. Johnson]] from 1961 to 1969, and before that the president of the [[Rockefeller Foundation]] for most of the 1950s. His career embodied the revolving door between the Foundation's board and the upper reaches of US foreign policy, and as Secretary of State he handled the diplomacy of the Cold War interventions that run through the Rockefeller network's history in [[Latin America]], including the 1964 overthrow of Brazil's [[Joao Goulart]] and the 1967 hunt for [[Che Guevara]] in Bolivia.[^1]
@@ -33,6 +33,12 @@ During the April 1961 [[Bay of Pigs invasion]], Rusk counseled caution. After th
 
 In April 1967 Rusk convened a secret strategy session at the Pentagon on Bolivia with [[Walt Rostow]], William Bowdler, CIA Director [[Richard Helms]], and Southern Command chief General Robert Porter; that September, at the Punta del Este conference, he denounced Guevara's presence in Bolivia as a foreign invasion. A veteran of the [[Rockefeller Brothers Fund]]'s Special Studies Project, Rusk was a consistent advocate of counterinsurgency and of escalation in the [[Vietnam War]], a stance that drew him into a televised 1966 confrontation with Senator [[William Fulbright]] at the [[Senate Foreign Relations Committee]].[^5]
 
+### The June 1967 crisis
+
+In an appraisal of May 25, 1967, the CIA's [[Office of National Estimates]] stated: "We believe the Soviet aim is still to avoid military involvement and to give the US a black eye among the Arabs by identifying it with Israel." [[David S. Robarge]], the CIA's chief historian, writes that this judgment, which ran contrary to Tel Aviv's suspicions, caused Rusk to remark to Helms, "if this is a mistake, it's a beaut."[^6][^7]
+
+Notes of the [[National Security Council]] Special Committee meeting of June 9, 1967, which list Rusk first among those present, record on the attack on the [[USS Liberty Incident|USS Liberty]], under the initials "DR": "Do what is normal. 1) Reparation. 2) Punish. 3) No repetition." The entry follows remarks by [[Clark Clifford]] that the attack should be handled "as if Arabs or USSR had done it," next to which the note-taker wrote: "President subscribed 100%."[^8]
+
 ### Footnotes
 
 [^1]: U.S. Department of State, Office of the Historian, "David Dean Rusk (1909-1994)," Biographies of the Secretaries of State. https://history.state.gov/departmenthistory/people/rusk-david-dean
@@ -40,3 +46,6 @@ In April 1967 Rusk convened a secret strategy session at the Pentagon on Bolivia
 [^3]: Colby and Dennett, Ch. 23; Ch. 24.
 [^4]: Colby and Dennett, Ch. 24; Ch. 29.
 [^5]: Colby and Dennett, Ch. 33.
+[^6]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 61, Memorandum from Rostow to President Johnson, May 25, 1967, with attached CIA appraisal, paragraph 8. https://history.state.gov/historicaldocuments/frus1964-68v19/d61
+[^7]: Robarge, David S. "Getting it Right: CIA Analysis of the 1967 Arab-Israeli War." *Studies in Intelligence* 49, no. 1 (March 2005). https://www.cia.gov/resources/csi/static/CIA-Analysis-1967-War.pdf
+[^8]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 236, Notes of a Meeting of the Special Committee of the National Security Council, June 9, 1967 (Saunders's handwritten notes). https://history.state.gov/historicaldocuments/frus1964-68v19/d236

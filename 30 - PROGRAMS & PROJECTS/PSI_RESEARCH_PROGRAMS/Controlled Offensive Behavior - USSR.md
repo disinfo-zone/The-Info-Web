@@ -1,6 +1,6 @@
 ---
 created: 2025-07-22
-updated: 2026-09-21
+updated: 2026-10-08
 title: Controlled Offensive Behavior - USSR
 tags:
   - report
@@ -25,8 +25,13 @@ The report, ST-CS-01-169-72, was prepared by the Medical Intelligence Office of 
 
 LaMothe's second report with Louis F. Maire III, *Soviet and Czechoslovakian Parapsychology Research* of September 1975, described Vasilev's experiments of 1920 to 1943 in "telepathic mental suggestion," Serov and Troskin of Sverdlovsk raising and lowering white blood cell counts by suggestion, the Polish theorist Manczarski's prediction "that the field of telepathy will open new avenues for spreading propaganda," and Western concern "with the detrimental effects of subliminal perception techniques being targeted against US or allied personnel in nuclear missile silos." It concluded: "Control and manipulation of the human consciousness must be considered a primary goal." SRI's report to DIA of January 1983 added that in 1975 "a high-level commission was officially established in the USSR to review psychoenergetics research," under a vice president of the Academy of Sciences, whose recommendations after three years produced a coordinating group with Ministry of Defense representatives, "a member of SKB VYMPEL (the antiballistic missile design bureau), and at least one laboratory leader who is believed to be KGB affiliated," attached to a new Bioelectronics Laboratory that "serves a screening function for identifying people from the general population, throughout the USSR, who can perform well on psi tasks."[^3]
 
+### The Nautilus reports
+
+The report's second section states that "Soviet parapsychology research was actually stimulated by the 1960 French story (77) concerning the US atomic submarine Nautilus," and gives the French headline "US Navy Uses ESP on Atomic Sub!" It adds that "although the US Navy subsequently denied the reports of telepathic testing on atomic submarines, the Soviet hierarchy apparently heeded Doctor Vasilev's advice and gave support, both moral and financial."[^4]
+
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: LaMothe, John D., Captain, Medical Service Corps. *Controlled Offensive Behavior - USSR,* Defense Intelligence Agency, ST-CS-01-169-72, July 1972, prepared by the Medical Intelligence Office, Office of the Surgeon General, CIA-RDP96-00788R001300020001-6. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. US Army Intelligence and Security Command, "The US Army's Interest in Psychoenergetics," undated, CIA-RDP96-00788R001100370005-6. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
 [^3]: Maire, Louis F., III, and J. D. LaMothe. *Soviet and Czechoslovakian Parapsychology Research,* Defense Intelligence Agency, DST-1810S-387-75, September 1975, pp. 29-31, CIA-RDP96-00792R000600320004-3, read in a four-page excerpt. Puthoff, H. E., E. C. May, B. S. Humphrey, and L. A. Lavelle. *Project Grill Flame,* SRI International, Radio Physics Laboratory, for the Defense Intelligence Agency, January 1983, SRI/GF-0225, CIA-RDP96-00788R001800060001-7.
+[^4]: LaMothe, John D. *Controlled Offensive Behavior: USSR*, ST-CS-01-169-72, July 1972, Section II, para. 3, CIA-RDP96-00792R000600360001-2, https://cia.gov/readingroom/document/cia-rdp96-00792r000600360001-2. Its ref. 77 is Messadie, G., "Du Nautilus," Science et Vie, Number 509, February 1960.

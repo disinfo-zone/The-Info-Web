@@ -11,6 +11,7 @@ tags:
   - CIA
   - SRI
 summary: "Kress was the lead analyst assigned to the operation involving Pat Price's Remote Viewing of URDF-3, a highly classified Soviet research and development facility in Kazakhstan."
+updated: 2026-10-08
 ---
 
 Kenneth A. Kress was a physicist, engineer, and analyst with the [[Central Intelligence Agency|CIA]]. He is considered by some to be the "father of America's remote-viewing program" as he was responsible for giving [[Stanford Research Institute|SRI]] its first [[Psi]] research contract in 1972[^1]. Kress, then a young, dark-haired engineer, was instrumental in bringing [[Hal Puthoff]] and [[Ingo Swann]] into the Central Intelligence Agency's orbit for psychic research[^1].
@@ -38,6 +39,8 @@ The office had spent 874 dollars on a few days' work in August 1972 and 2,500 mo
 ### The Article
 
 His review, "Parapsychology in Intelligence: A Personal Review and Conclusions," appeared in the classified *Studies in Intelligence* in the winter of 1977 and was declassified in 1996. It recorded the briefing of Director [[George H.W. Bush|George Bush]] in 1976, [[Stansfield Turner]]'s public acknowledgment of 1977, and the state of interest at DIA, DARPA, the Navy, and the Air Force, and ended: "This is not to say that parapsychology is a proven intelligence tool; it is to say that the evaluation is not yet complete and more research is needed." In a postscript of January 1999 for its reprinting he mentioned a later "secure line call from a person who identified himself as an FBI agent" and wrote: "Me, I remain a skeptical agnostic." Representative [[Charles Rose]] was briefed at OTS by its chief, [[David Brandwein]], on February 9, 1978.[^2][^3]
+
+In the review Kress wrote that the [[DARPA|Defense Advanced Research Projects Agency]] "reported that they had not only a showing of interest but a hostile response as well," and that "The SRI contractors and I went to a briefing where we had a several-hour confrontation with an assemblage of hostile DARPA people who had been convened especially to debunk our results." He wrote that after "a long, inconclusive, emotional discussion" they left and that "Contacts with DARPA stopped for several years." He wrote that the Navy reviewed part of the work, that minor funding was provided to SRI by the Navy to replicate one of SRI's earlier experiments under more controlled conditions, and that the Navy then became very concerned about the research being "mind warfare"-related and stopped funding.[^2]
 
 ### Footnotes
 

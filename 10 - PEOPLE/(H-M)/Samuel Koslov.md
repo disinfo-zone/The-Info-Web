@@ -9,7 +9,7 @@ summary: "Samuel Koslov was a top scientist for the U.S."
 
 Samuel Koslov was a top scientist for the [[U.S. Navy]] and the scientific assistant to the Secretary of the Navy. He became a central figure in the debate surrounding the [[Moscow Signal]] and its potential health effects, often publicly downplaying its dangers despite his involvement in classified research related to it[^1].
 
-Koslov led the charge of those who insisted that the Moscow Signal was harmless, arguing that any reported issues were psychological trauma rather than physical effects. He stated, "The actual physical results were nonexistent, but the real psychological trauma (in this case in a group of well-educated and dedicated people) was sad and startling"[^1]. This view was in direct opposition to [[Richard S. Cesaro]] of [[Advanced Research Projects Agency|ARPA]], who believed the beams were harmful and could penetrate the human nervous system[^1].
+Koslov led the charge of those who insisted that the Moscow Signal was harmless, arguing that any reported issues were psychological trauma rather than physical effects. He stated, "The actual physical results were nonexistent, but the real psychological trauma (in this case in a group of well-educated and dedicated people) was sad and startling"[^1]. This view was in direct opposition to [[Richard S. Cesaro]] of [[DARPA|ARPA]], who believed the beams were harmful and could penetrate the human nervous system[^1].
 
 As a lead scientist on [[Project Pandora]], a classified, multiservice effort to duplicate the electromagnetic weapon of the Moscow Signal, Koslov was deeply engaged in research involving microwave beams. This project involved exposing primates and later unwitting sailors to microwave radiation[^1].
 

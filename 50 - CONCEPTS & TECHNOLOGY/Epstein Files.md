@@ -25,7 +25,7 @@ relations:
     role: "review of the Justice Department's redaction and release process"
     fn: 26
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-08
 ---
 
 The Epstein files are the investigative and prosecutorial records on [[Jeffrey Epstein]] and [[Ghislaine Maxwell]] held by the [[Department of Justice]], the [[Federal Bureau of Investigation]] and the United States Attorneys' offices in Florida and New York. The department published them in stages: a first set of binders on February 27, 2025; an unsigned memorandum of July 7, 2025, declaring that no further disclosure was warranted; and, after Congress passed the [[Epstein Files Transparency Act]] in November 2025, a searchable online library that the department described on January 30, 2026, as "nearly 3.5 million pages."[^1][^2][^3] Every document produced under the statute carries a Bates number with the prefix EFTA.[^4]
@@ -80,6 +80,10 @@ On March 11, 2026, Senators [[Jeff Merkley]], [[Lisa Murkowski]], [[Ben Ray Luj√
 
 On September 1, 2026, Massie and Khanna began collecting signatures on a discharge petition for a second bill, which would let members of Congress, state officials and survivors sue the department over compliance with the first act. Massie said the government "continues to withhold over three million files."[^27]
 
+### Stephen Deckoff and Black Diamond
+
+Data Set 9 of the library contains EFTA01204007, an undated photograph of the business card of [[Stephen Deckoff]], managing principal of [[Black Diamond Capital Management]], whose entity bought [[Little St. James]] and [[Great St. James]] from the estate in 2023. The document numbered immediately before it, EFTA01204006, is a screenshot of an aviation application with a 5:40 PM AST radar timestamp and the route "TIST KEWR," St. Thomas to Newark.[^28] Two May 16, 2014 email chains, EFTA02383246 and EFTA02583238, record [[Richard Kahn]] asking the pilot [[Larry Visoski]] to "poke around tonight about Black Diamond Trading," Visoski replying at 5:40 PM with the type and tail number of the Black Diamond Learjet, N114BD, then writing "Here you go Rich ask and ye shall receive," and Kahn asking Epstein whether Visoski should "meet the aircraft and poke around with them tonight."[^29]
+
 ### Footnotes
 
 [^1]: U.S. Department of Justice and Federal Bureau of Investigation, unsigned memorandum on the review of investigative holdings relating to Jeffrey Epstein, July 7, 2025. https://www.justice.gov/opa/media/1407001/dl?inline
@@ -109,3 +113,5 @@ On September 1, 2026, Massie and Khanna began collecting signatures on a dischar
 [^25]: Senators Jeffrey A. Merkley, Lisa Murkowski, Ben Ray Luj√°n and Richard J. Durbin, letter to Acting Comptroller General Orice Williams Brown, March 11, 2026. https://www.merkley.senate.gov/wp-content/uploads/GAO-Epstein-Files-Redactions-Review-Letter.pdf
 [^26]: "Government watchdog to review DOJ's handling of the Epstein files," NBC News, April 2026. https://www.nbcnews.com/politics/justice-department/government-watchdog-review-dojs-handling-epstein-files-rcna342513 ; Office of Senator Jeff Merkley, "At Merkley's Request, Independent Government Watchdog Launches Investigation into Trump DOJ's Handling of the Epstein Files," April 28, 2026. https://www.merkley.senate.gov/at-merkleys-request-independent-government-watchdog-launches-investigation-into-trump-dojs-handling-of-the-epstein-files/
 [^27]: Erin Kelly, "Massie seeks signatures to force vote on second Epstein files bill," Spectrum News 1, September 1, 2026. https://spectrumnews1.com/ky/louisville/news/2026/09/01/massie-discharge-petition-epstein
+[^28]: U.S. Department of Justice, Epstein Library, EFTA01204007 (photograph of a business card) and EFTA01204006 (screenshot of an aviation application), DataSet 9, undated. https://www.justice.gov/epstein/files/DataSet%209/EFTA01204007.pdf and https://www.justice.gov/epstein/files/DataSet%209/EFTA01204006.pdf
+[^29]: U.S. Department of Justice, Epstein Library, EFTA02383246, DataSet 11, email chain headed "Jeffrey Epstein," May 16, 2014. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02383246.pdf ; U.S. Department of Justice, Epstein Library, EFTA02583238, DataSet 11, email chain headed "Re: Barn," May 16, 2014. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02583238.pdf

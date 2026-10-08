@@ -26,7 +26,7 @@ relations:
     role: "named in the Army-prepared study DST-1810S-387-75 as the conductor of a submarine and rabbit experiment around 1956"
     fn: 1
 created: 2025-08-05
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 Pavel Naumov was a [[Moscow]] psychologist, described by the [[Defense Intelligence Agency]] in 1975 as bearing "no relation to the now imprisoned Edward Naumov" ([[Eduard Naumov]]).[^1] [[Sheila Ostrander]] and [[Lynn Schroeder]] wrote that he conducted studies in the noisy atmosphere of a Moscow gynecological clinic, where mothers were housed in a section distant from their babies and "cannot possibly hear them." A mother, he said, showed nervousness when her baby cried, and anxiety when an infant was in pain as a doctor took a blood specimen; "we found communication in 65 percent of our cases," he concluded in a paper at the Congress on Scientific Problems of Telepathy at the [[Popov Society|A. S. Popov Radio-Technology Institute]] in Moscow on February 22, 1968, titled "Methods of Training Telepathic Abilities." He also reported that girls dating boys with telepathic aptitudes correctly received up to 40 percent of the images the boys sent. Ostrander and Schroeder list a second paper, "On the Question of Wordless Transmission of Information," among his publications.[^2]
@@ -37,8 +37,13 @@ The DIA's 1975 study, prepared by the [[U.S. Army Medical Intelligence and Infor
 
 In Ostrander and Schroeder's book the rabbit experiment appears in a chapter that also quotes Pavel Naumov on mothers and infants, but the authors introduce it with "The first day we met Naumov he brought up an extremely interesting 'telepathy' test," in a conversation about the American Nautilus reports, and the Naumov they met on arrival in Moscow was Edward. In that account he put the test "about three years previously," that is, about 1965 rather than 1956, and said the reports "are, I'm sorry to say, not public."[^2] [[Igor Tsykunov]]'s 2023 article records that the submarine-and-rabbit method was repeated in the foreword to [[Lyall Watson]]'s *Supernature* (London, 1976), and that a department under [[Vitaly Perov]] at the [[Institute of Automation and Electrometry]] in [[Novosibirsk]]'s [[Akademgorodok]] sponsored by naval officers ran rabbit telepathy experiments from October 5 to November 16, 1967, after more than two years of preliminary work.[^4] The 1975 DIA study's personnel appendix lists "Naumov, P." among Soviet researchers whose affiliation is unknown.[^1]
 
+When the British delegate [[John Cutten]] asked whether the work implied close cooperation with the government and the military, Naumov answered that Cutten's remark "speaks for itself."[^5] [[Jim Schnabel]] attributes the announcement at the 1968 Moscow conference that the Red Navy had replicated the entire Nautilus experiment to Eduard Naumov.[^6]
+
 ### Footnotes
+
 [^1]: Defense Intelligence Agency, "Soviet and Czechoslovakian Parapsychology Research (U)," DST-1810S-387-75, September 1975, prepared by U.S. Army Medical Intelligence and Information Agency, Part I Section II and appendix, CIA-RDP96-00787R000500420001-2. https://archive.org/details/cia-readingroom-document-cia-rdp96-00787r000500420001-2
 [^2]: Sheila Ostrander and Lynn Schroeder, *Psychic Discoveries Behind the Iron Curtain* (Prentice-Hall, 1970), chapters 1 and 3 ("Mind-Link, Body-Link") and Partial Bibliography, read in the archive.org copy of the 1984 printing. https://archive.org/details/shelia-ostrander-psychic-discoveries-behind-the-iron-curtain-1984
 [^3]: Annie Jacobsen, *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis* (Little, Brown and Company, 2017).
 [^4]: I. V. Tsykunov, "Ot fantazii k realnosti: kak istoriya Nautilusa otkryla gonku sverkhestestvennykh vooruzheniy mezhdu SSSR i SShA," *Aliter* (2023). https://cyberleninka.ru/article/n/ot-fantazii-k-realnosti-kak-istoriya-nautilusa-otkryla-gonku-sverhestestvennyh-vooruzheniy-mezhdu-sssr-i-ssha
+[^5]: Ostrander, Sheila, and Lynn Schroeder. *Psychic Discoveries Behind the Iron Curtain*. Prentice-Hall, 1970, pp. 32-33. Sole source for the passages so cited.
+[^6]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. Dell, 1997, pp. 90-93. Sole source for the passages so cited.

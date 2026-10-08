@@ -4,7 +4,7 @@ aliases:
   - Cali Drug Cartel
   - Cali Cartel
 created: 2026-05-17
-updated: 2026-09-22
+updated: 2026-10-08
 category: "Organized Crime"
 tags:
   - Organization
@@ -24,13 +24,15 @@ The cartel laundered its substantial profits through various channels, notably M
 
 Investigations into the Cali Cartel frequently intersected with U.S. government operations and intelligence activities. [[Gilberto Rodriguez Orejuela]] and [[Jose Santacruz Londono]] were significant targets of a major [[DEA|DEA]] Centac investigation, which led to their indictments in Los Angeles and New York in 1978. However, these cases reportedly did not progress beyond the indictment phase, and the Centac 21 task force was dismantled during the [[Ronald Reagan]] and [[George H.W. Bush]] administrations, leading to suspicions among disgruntled [[DEA|DEA]] agents of a [[Central Intelligence Agency|CIA]] connection.[^1]
 
+In 1992 Salvadoran authorities arrested members of a group that had taken five 500-pound bombs from a battalion at the San Salvador airport. [[Semana]] reported on April 12, 1992 that the arrested men, among them a Salvadoran army colonel, [[Roberto Antonio Leiva Jacobo]], confessed that they had been hired by members of the Cali cartel, who paid four million dollars for the bombs, and that a Salvadoran government source said the bombs were meant for a plan to kill [[Pablo Escobar]] in the [[Envigado]] prison.[^4] Gary Webb reported that [[Enrique Miranda]] doubted [[Marcos Aguado]]'s boasts of flying weapons to the cartels until a Salvadoran Air Force colonel and his associates were arrested in 1992 for selling bombs and high explosives to Colombian drug dealers.[^5]
+
 ### Connection to the Contras
 
-The cartel's connection to the Contra drug network ran through Meneses's organization on the [[United States|U.S.]] West Coast and through direct payments to the [[Contras]]. During the [[Manuel Noriega|Noriega]] trial, former [[Medellin Cartel|Medellín]] cartel transportation boss [[Carlos Lehder]] confirmed under oath that the cartel had given the Contras $10 million. Ramon Milian-Rodriguez, a graduate of Santa Clara University, testified before the [[John Kerry|Kerry]] Committee that he used his firm to launder that $10 million donation, which he said was arranged by and paid to former [[Central Intelligence Agency]] agent [[Felix Rodriguez]], a [[Cuba|Cuban]] veteran of the [[Bay of Pigs|Bay of Pigs]].[^4]
+The cartel's connection to the Contra drug network ran through Meneses's organization on the [[United States|U.S.]] West Coast and through direct payments to the [[Contras]]. During the [[Manuel Noriega|Noriega]] trial, former [[Medellin Cartel|Medellín]] cartel transportation boss [[Carlos Lehder]] confirmed under oath that the cartel had given the Contras $10 million. Ramon Milian-Rodriguez, a graduate of Santa Clara University, testified before the [[John Kerry|Kerry]] Committee that he used his firm to launder that $10 million donation, which he said was arranged by and paid to former [[Central Intelligence Agency]] agent [[Felix Rodriguez]], a [[Cuba|Cuban]] veteran of the [[Bay of Pigs|Bay of Pigs]].[^6]
 
 ### Connection to the Dark Alliance Network
 
-[[Danilo Blandon|Danilo Blandón]]'s supplier [[Aparicio Moreno]] was a Colombian with reported ties to both the [[FDN]] and the CIA.[^2] Webb wrote that [[Rafael Cornejo]] was involved in a major cocaine pipeline running from Cali to several West Coast cities. The Meneses organization's supply chain originated with the Colombian cartels.[^4]
+[[Danilo Blandon|Danilo Blandón]]'s supplier [[Aparicio Moreno]] was a Colombian with reported ties to both the [[FDN]] and the CIA.[^2] Webb wrote that [[Rafael Cornejo]] was involved in a major cocaine pipeline running from Cali to several West Coast cities. The Meneses organization's supply chain originated with the Colombian cartels.[^6]
 
 ### Intelligence Connections
 
@@ -52,4 +54,6 @@ Historically, during [[Jimmy Carter]]'s presidency, his human rights foreign pol
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know"
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters
-[^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 12: "This guy talks to God"
+[^4]: "¿Bombas contra Escobar?", *Semana*, April 12, 1992, https://www.semana.com/nacion/articulo/bombas-contra-escobar/17208-3. Sole source for the 1992 bomb-case details; the Cali cartel buyers are Semana's report of the arrested men's confessions and of an unnamed Salvadoran government source.
+[^5]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters. Sole source for the passages so cited.
+[^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 12: "This guy talks to God"

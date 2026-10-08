@@ -46,9 +46,9 @@ relations:
     with: "[[Gordon Rhea]]"
     reverse: true
     role: "counsel in the territory's estate litigation"
-    fn: 14
+    fn: 16
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-08
 ---
 
 Richard D. Kahn is an accountant who was [[Jeffrey Epstein]]'s longtime in-house accountant, treasurer and director of [[Southern Trust Company]] and of the Virgin Islands corporations that held Epstein's real estate, and, with the lawyer [[Darren Indyke]], co-executor of Epstein's estate and co-trustee of the 1953 Trust. The trust names Kahn to receive 25 million dollars, third in order of payment. The [[U.S. Virgin Islands]] government sued him personally in 2020, victims sued him and Indyke in a class action the estate agreed in February 2026 to settle for up to 35 million dollars, and in September 2026 federal prosecutors in Manhattan were reported to be investigating both men. Kahn and Indyke deny knowing of Epstein's sex trafficking or knowingly helping him.[^1][^2][^3][^4]
@@ -77,11 +77,13 @@ In March 2019 Kahn took part in the exercise of warrants in the Israeli company 
 
 *[[The Daily Beast]]* reported in August 2020 that on the day after Epstein's death Kahn was photographed leaving the Manhattan townhouse with a bag that, according to a source close to him, contained Epstein's funeral clothes.[^13]
 
+On May 16, 2014, Kahn wrote to [[Larry Visoski]]: "Can you poke around tonight about Black Diamond Trading as Danny says they are trying to buy Jet Center." He added, "They appear to be an nyc hedge fund with an office in stt as an EDC company as well," and asked, "who are principals? type of plane? tail? anything else relevant.."[^14] Kahn then forwarded the exchange to Epstein, writing that "these are the black diamond guys trying to buy aircraft," linking two pages of the website of [[Black Diamond Capital Management]], the firm of [[Stephen Deckoff]], and saying that "larry has obtained some good info on them." A reply from the account "jeffrey E." reads "yes why not?"[^15]
+
 ### Co-Executor
 
 Kahn and Indyke filed Epstein's will for probate on August 15, 2019, valuing his Virgin Islands property at 577,672,654 dollars, and filed a Certificate of Trust for the 1953 Trust on August 26, 2019. Testifying to the [[House Oversight Committee]] on March 11, 2026, Kahn said: "I believe that Epstein envisioned me taking this role as co-executor and co-agent trustee ... would be many, many years of working. So if I was not in Epstein's Trust and I was a corporate trustee, I probably would have received an executor fee of $12 million for serving as co-executor and serving as co-trustee. So that could be the only reason why he left me such a large bequest." He testified that the estate spends 10 to 15 million dollars a year on legal and other fees and pays the co-executors' legal bills. The estate's assets fell from 655.1 million dollars at the end of 2019 to 107.6 million dollars by September 2026.[^1][^2]
 
-The territory's action against the estate, Kahn, Indyke and the Epstein companies settled on December 1, 2022 for more than 105 million dollars in cash, half the proceeds of the sale of [[Little St. James]] and the return of more than 80 million dollars in tax benefits.[^5] In 2024 Governor Bryan appointed as attorney general [[Gordon Rhea]], who had represented Kahn in that litigation; Rhea said he would recuse himself from Epstein matters.[^14]
+The territory's action against the estate, Kahn, Indyke and the Epstein companies settled on December 1, 2022 for more than 105 million dollars in cash, half the proceeds of the sale of [[Little St. James]] and the return of more than 80 million dollars in tax benefits.[^5] In 2024 Governor Bryan appointed as attorney general [[Gordon Rhea]], who had represented Kahn in that litigation; Rhea said he would recuse himself from Epstein matters.[^16]
 
 ### Victim Suits and Federal Investigation
 
@@ -104,4 +106,6 @@ On September 23, 2026 the [[Washington Examiner]], citing a source familiar with
 [^11]: U.S. Department of Justice, Epstein Library, EFTA02634615, DataSet 11, email chain "Carbyne warrants" among Tomer Toor, NJF Capital, Darren Indyke and Jeffrey Epstein, February 28 to March 14, 2019. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02634615.pdf
 [^12]: U.S. Department of Justice, Epstein Library, EFTA01035810, DataSet 9, email from Richard Kahn to Jeffrey Epstein, "Fwd: Carbyne," March 15, 2019; EFTA02636176, DataSet 11, email from Jeffrey Epstein to Richard Kahn, "Re: CARBYNE," March 27, 2019. https://www.justice.gov/epstein/files/DataSet%209/EFTA01035810.pdf ; https://www.justice.gov/epstein/files/DataSet%2011/EFTA02636176.pdf
 [^13]: U.S. Department of Justice, Epstein Library, EFTA00163119, DataSet 9, press printout: Kate Briquelet and William Bredderman, "Jeffrey Epstein's Right-Hand Mystery Men: The Lawyer and the Accountant," *The Daily Beast,* August 30, 2020. https://www.justice.gov/epstein/files/DataSet%209/EFTA00163119.pdf
-[^14]: Suzanne Carlson, "Docs confirm Bryan pressed for special treatment of sex offender," *Virgin Islands Daily News,* February 2, 2026, https://www.virginislandsdailynews.com/news/docs-confirm-bryan-pressed-for-special-treatment-of-sex-offender/article_5e9483c9-38d2-406c-8bb0-e5757ce287f2.html ; Suzanne Carlson, "Bryan unapologetic for texts with Epstein, doubles down on denial of wrongdoing," *Virgin Islands Daily News,* March 3, 2026. https://www.virginislandsdailynews.com/news/bryan-unapologetic-for-texts-with-epstein-doubles-down-on-denial-of-wrongdoing/article_8bab46a1-6075-4c7c-abec-6efb19622e62.html
+[^14]: U.S. Department of Justice, Epstein Library, EFTA02383246, DataSet 11, email chain headed "Jeffrey Epstein," May 16, 2014. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02383246.pdf
+[^15]: U.S. Department of Justice, Epstein Library, EFTA02583238, DataSet 11, email chain headed "Re: Barn," May 16, 2014. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02583238.pdf
+[^16]: Suzanne Carlson, "Docs confirm Bryan pressed for special treatment of sex offender," *Virgin Islands Daily News,* February 2, 2026, https://www.virginislandsdailynews.com/news/docs-confirm-bryan-pressed-for-special-treatment-of-sex-offender/article_5e9483c9-38d2-406c-8bb0-e5757ce287f2.html ; Suzanne Carlson, "Bryan unapologetic for texts with Epstein, doubles down on denial of wrongdoing," *Virgin Islands Daily News,* March 3, 2026. https://www.virginislandsdailynews.com/news/bryan-unapologetic-for-texts-with-epstein-doubles-down-on-denial-of-wrongdoing/article_8bab46a1-6075-4c7c-abec-6efb19622e62.html

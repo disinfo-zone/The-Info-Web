@@ -1,6 +1,6 @@
 ---
 created: 2025-07-23
-updated: 2026-05-17
+updated: 2026-10-08
 title: Moscow Signal
 aliases:
   - Moscow Signal
@@ -25,6 +25,14 @@ The [[United States]] suspected the Moscow Signal was an electromagnetic weapon 
 
 Despite official denials and attempts to downplay its effects, the Moscow Signal became a public controversy in the mid-1970s, leading to lawsuits from embassy employees and further debate among scientists about the reality and dangers of electromagnetic weapons.[^1]
 
+### ARPA measurements, 1967
+
+A memorandum of the [[DARPA|Advanced Research Projects Agency]] dated September 27, 1967 and signed by [[Richard S. Cesaro]] reports that "New measurements with ARPA instrumentation of the 'Moscow Signal' on site has now been completed," with a partial mapping of the power density, and that "The latest data on power levels recorded in the Moscow Embassy were always below 50 microwatts/cm2 (. 05 mw/cm2)." The memorandum states that "The electromagnetic frequency and modulation used for these preliminary tests simulated a portion of the 'Moscow Signal'" and that "The intent of the 'Moscow Signal' has not been established by the experiments conducted to date." It recommends that "A thorough analysis of this new signal data should now be undertaken to define the 'Moscow Signal' characteristics."[^2]
+
+A DARPA letter of September 15, 1977 to Senator [[Warren G. Magnuson]] states that Project Pandora was classified at the direction of the Department of State and the United States Intelligence Board "because of the sensitivity of the radiation problem of the United States Embassy in Moscow at that time."[^3]
+
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: ARPA memorandum ARPA-AS-TS-67-20, "Project BIZARRE," September 27, 1967, signed Richard S. Cesaro, Acting Director, Advanced Sensors, declassified copy, National Security Archive. https://nsarchive.gwu.edu/sites/default/files/documents/rhwvuj-tzy4b/08.pdf
+[^3]: Defense Advanced Research Projects Agency, letter to Senator Warren G. Magnuson, September 15, 1977, National Security Archive. https://nsarchive.gwu.edu/sites/default/files/documents/rhwvuj-tzy4b/14.pdf

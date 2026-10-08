@@ -1,7 +1,7 @@
 ---
 category: "Political Figure"
 created: 2024-04-25
-updated: 2026-09-23
+updated: 2026-10-08
 tags:
   - Person
   - BCCI
@@ -95,6 +95,10 @@ Clifford was too ill to stand trial with Altman, who was acquitted in Manhattan 
 
 The Federal Reserve's civil proceeding, opened on July 29, 1992, continued after the criminal cases ended. Its Second Amended Notice of Intent to Prohibit of January 14, 1997, charged that Clifford and Altman, as directors of CCAH and First American, had caused CCAH to borrow from BCCI beyond the acquisition debt allowed by the 1981 order, and had breached their fiduciary duties by accepting preferential loans and stock profits from BCCI and by failing to disclose BCCI's role in the purchase of the [[National Bank of Georgia]]. The settlement recited that "Clifford has submitted medical opinions to the Board of Governors indicating that because of his advanced age and ill health, there is no reasonable prospect that he will ever participate in any manner in the conduct of the affairs of a bank holding company or insured depository institution," and the two men relinquished 1,802 (Clifford) and 895 (Altman) CCAH shares to the court-appointed trustee of First American or the fiduciaries of BCCI; the payments, the order stated, "are not fines or civil money penalties." The order is dated effective February 1998, four months after Clifford's death, and carries a signature block in his name; the document does not state when he signed it.[^8][^11]
 
+### USS Liberty, June 1967
+
+Notes of the National Security Council Special Committee meeting of June 9, 1967 record Clifford saying of the attack on the [[USS Liberty Incident|USS Liberty]]: "My concern is that we're not tough enough. Handle as if Arabs or USSR had done it. Manner egregious. Inconceivable that it was accident. 3 strafing passes, 3 torpedo boats. Set forth facts. Punish Israelis responsible." The note-taker, [[Harold H. Saunders]], wrote in the margin next to Clifford's remarks: "President subscribed 100%."[^12][^13]
+
 ### Footnotes
 
 [^1]: Clifford, Clark, with Richard Holbrooke. *Counsel to the President: A Memoir.* Random House, 1991.
@@ -108,3 +112,5 @@ The Federal Reserve's civil proceeding, opened on July 29, 1992, continued after
 [^9]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 6, "BCCI in the United States: Initial Entry." https://irp.fas.org/congress/1992_rpt/bcci/06early.htm
 [^10]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 13, "Clark Clifford and Robert Altman." https://irp.fas.org/congress/1992_rpt/bcci/13clifford.htm
 [^11]: "Clifford, Altman indicted in BCCI bank fraud," United Press International, July 29, 1992. https://www.upi.com/Archives/1992/07/29/Clifford-Altman-indicted-in-BCCI-bank-fraud/5122712382400/
+[^12]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 236, Notes of a Meeting of the Special Committee of the National Security Council, June 9, 1967 (Saunders's handwritten notes). https://history.state.gov/historicaldocuments/frus1964-68v19/d236
+[^13]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 12, p. 168, footnote, quoting the same notes from the LBJ Library.

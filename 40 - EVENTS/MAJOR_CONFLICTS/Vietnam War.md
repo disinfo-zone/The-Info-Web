@@ -20,7 +20,7 @@ The Vietnam War followed the French defeat at [[Dienbienphu]] and the division o
 
 ### Behavioral Science
 
-The [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, commissioned by [[Advanced Research Projects Agency|ARPA]] in the mid-1960s, produced about 2,371 interviews, more than 60,000 pages, conducted at some forty sites in South Vietnam, including detention centers; Rand's own history later confirmed that its analyst Leon Gouré had promoted the air war with findings the interviews did not support.[^6] The Army's [[4th Psychological Operations Group]] developed leaflet and loudspeaker equipment; in March 1969 alone 713 million leaflets were dropped over Vietnam, the main channel for the [[Chieu Hoi]] defection program.[^7] In Top Secret testimony to the Church Committee in October 1975, [[Sidney Gottlieb]] said that during the war the military had been "considering the use of [[LSD]] on a fairly large scale."[^8]
+The [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, commissioned by [[DARPA|ARPA]] in the mid-1960s, produced about 2,371 interviews, more than 60,000 pages, conducted at some forty sites in South Vietnam, including detention centers; Rand's own history later confirmed that its analyst Leon Gouré had promoted the air war with findings the interviews did not support.[^6] The Army's [[4th Psychological Operations Group]] developed leaflet and loudspeaker equipment; in March 1969 alone 713 million leaflets were dropped over Vietnam, the main channel for the [[Chieu Hoi]] defection program.[^7] In Top Secret testimony to the Church Committee in October 1975, [[Sidney Gottlieb]] said that during the war the military had been "considering the use of [[LSD]] on a fairly large scale."[^8]
 
 ### Opposition
 

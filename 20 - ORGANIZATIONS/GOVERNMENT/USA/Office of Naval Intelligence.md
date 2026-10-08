@@ -13,7 +13,7 @@ summary: "United States Navy intelligence office created by a general order of M
 start: 1882-03-23
 location: "Washington, D.C."
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-08
 relations:
   - type: head_of
     with: "[[Theodorus B. M. Mason]]"
@@ -86,7 +86,7 @@ During [[World War II]] the office employed [[Karl Baarslag]], who afterward "wo
 
 ### Unidentified Aerial Phenomena
 
-In early 2017, while an unpaid consultant to ONI, [[Christopher Mellon]] was introduced by [[Jim Semivan]] to [[Luis Elizondo]], who was then running the [[Advanced Aerospace Threat Identification Program]]. The [[UAP Task Force]], established in 2020 as the successor to that program under [[Jay Stratton]], was a program within ONI.[^11]
+In early 2017, while an unpaid consultant to ONI, [[Christopher Mellon]] was introduced by [[Jim Semivan]] to [[Luis Elizondo]], who was then running the [[Advanced Aerospace Threat Identification Program]].[^11] The [[UAP Task Force]] was approved by the Deputy Secretary of Defense on August 4, 2020, and the Department of the Navy was assigned to lead it under the Under Secretary of Defense for Intelligence and Security.[^12] The Senate Select Committee on Intelligence described it in June 2020 as the Unidentified Aerial Phenomenon Task Force "at the Office of Naval Intelligence."[^13] The task force charter of September 1, 2020 was issued by the [[Naval Intelligence Activity]], and provides that leadership "will be designated by the Director of the Naval Intelligence Activity."[^14] A July 2020 briefing slide from the task force's director gives the office as the Office of the Deputy Director of Naval Intelligence and the Office of the Deputy Chief of Naval Operations for Information Warfare.[^15] In Elizondo's account, the task force succeeded AATIP under the leadership of [[Jay Stratton]].[^11]
 
 ### Footnotes
 
@@ -101,3 +101,7 @@ In early 2017, while an unpaid consultant to ONI, [[Christopher Mellon]] was int
 [^9]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^10]: Dean, Eddie. "Finders' Keeper." *Washington City Paper,* May 24, 1996. https://washingtoncitypaper.com/article/287890/finders-keeper/
 [^11]: Elizondo, Luis. *Imminent.* William Morrow, 2024.
+[^12]: Department of Defense, "Establishment of Unidentified Aerial Phenomena Task Force," press release, August 14, 2020. https://www.defense.gov/News/Releases/Release/Article/2314065/establishment-of-unidentified-aerial-phenomena-task-force/
+[^13]: U.S. Senate, Select Committee on Intelligence, "Intelligence Authorization Act for Fiscal Year 2021," S. Rept. 116-233, June 17, 2020, cover and pp. 11 to 12. https://www.govinfo.gov/content/pkg/CRPT-116srpt233/pdf/CRPT-116srpt233.pdf
+[^14]: Naval Intelligence Activity, "Charter for Unidentified Aerial Phenomenon Task Force," Ser NW20S0068, September 1, 2020, in the Department of the Navy final response in FOIA case DON-2021-003140, April 22, 2025. https://documents2.theblackvault.com/documents/navy/DON-2021-003140.pdf
+[^15]: Naval Intelligence Activity, "Interagency Task Force" briefing slide, July 2020, header block, in the message chain released by The Black Vault. https://documents2.theblackvault.com/documents/ufos/USSCReferredRedacted.pdf

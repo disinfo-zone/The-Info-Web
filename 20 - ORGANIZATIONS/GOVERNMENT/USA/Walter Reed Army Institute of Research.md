@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-08
 title: Walter Reed Army Institute of Research
 aliases:
   - Walter Reed Army Institute of Research
@@ -15,7 +15,7 @@ tags:
   - 1950s
   - 1960s
 category: "U.S. Government"
-summary: "The Walter Reed Army Institute of Research (WRAIR) is the U.S. Army's principal biomedical research laboratory, involved during the Cold War in classified Project Pandora investigations into the biological effects of the Moscow Signal microwave emissions on primates at its Forest Glen Section."
+summary: "The Walter Reed Army Institute of Research (WRAIR) is the Army's principal biomedical laboratory, where Project Pandora irradiated primates at the Forest Glen Section and to which DARPA transferred Pandora's assets in 1970."
 start: 1893-01-01
 location: "Silver Spring, Maryland"
 ---
@@ -28,5 +28,11 @@ An elaborate facility was constructed inside WRAIR, specifically at its Forest G
 
 Later, in the 1990s, [[David Morehouse]] was transferred to the psychiatric ward at Womack Army Hospital at Fort Bragg, after a period at Walter Reed Army Medical Center in Washington for psychiatric evaluation. The Walter Reed Army Medical Center Sanity Board concluded that Morehouse did not have a severe mental disease or defect, but rather major depression and alcohol abuse[^1].
 
+### Transfer of Project Pandora, 1970
+
+A DARPA letter of September 15, 1977 to Senator [[Warren G. Magnuson]] states that "Project Pandora was terminated by DARPA in March 1970 and all assets were transferred to Walter Reed Army Institute for Research (WRAIR) for disposition," that "there has been no DARPA interest in the work being carried on at WRAIR" since, and that the agency has no knowledge whether the data collected at Walter Reed were destroyed. The letter gives the total cost of Pandora as $4,615,000 and states that a detailed breakout of the costs of "the Walter Reed facilities" is not available.[^2]
+
 ### Footnotes
+
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: Defense Advanced Research Projects Agency, letter to Senator Warren G. Magnuson, September 15, 1977, National Security Archive. https://nsarchive.gwu.edu/sites/default/files/documents/rhwvuj-tzy4b/14.pdf

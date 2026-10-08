@@ -1,6 +1,6 @@
 ---
 created: 2025-07-22
-updated: 2026-06-12
+updated: 2026-10-08
 title: Rand Corporation
 tags:
   - Organization
@@ -14,7 +14,7 @@ tags:
 category: "Private Organization"
 start: 1946
 location: "Santa Monica, California"
-summary: "The Rand Corporation is the US Air Force's principal Cold War nonprofit think tank in Santa Monica, founded as Project RAND in 1946 and incorporated in 1948, whose Vietnam-era Viet Cong Motivation and Morale Study produced critical findings that were suppressed at the time and later vindicated by Rand's own official history."
+summary: "The Rand Corporation is the Air Force's principal Cold War nonprofit think tank in Santa Monica, founded as Project RAND in 1946, whose Vietnam-era Viet Cong Motivation and Morale Study produced suppressed critical findings."
 ---
 The Rand Corporation, whose name is an acronym for Research and Development, is headquartered in [[Santa Monica, California]], with a Washington, D.C., office near the [[White House]]. It arose from the partnership between university scientists and the military that developed during the Second World War, established as Project RAND in 1946 with the [[U.S. Air Force]] as its primary institutional sponsor and incorporated as an independent nonprofit in 1948. It is not primarily a psychological research organization; economists and political scientists form the largest part of its staff. In the [[Cold War]] it was among the first institutions to apply systematic psychological and social scientific methods to military problems, including censorship policy, the psychological effects of weapons, propaganda organization, and, most controversially, the morale and motivation of enemy forces during the [[Vietnam War]].[^1]
 
@@ -24,7 +24,7 @@ Rand produced a classified 1949 conference report on methods for studying the ps
 
 ### The VC Motivation and Morale Study
 
-In the early 1960s, [[Advanced Research Projects Agency|ARPA]] commissioned Rand to study the motivation and morale of the Viet Cong. The project, known as the Viet Cong Motivation and Morale Study (the M&M Study), ran from late 1964 through end of 1968, jointly sponsored by the Office of the Assistant Secretary of Defense for International Security Affairs and ARPA. It produced approximately 2,371 interviews totaling over 60,000 pages of documentation, conducted at approximately forty locations across South Vietnam including CIA detention centers and provincial holding facilities. Respondents were Viet Cong prisoners of war, defectors (Chieu Hoi ralliers), refugees, and others with knowledge of VC activities. Respondents were not informed of the interviewer's affiliation or the project's nature.[^1]
+In the early 1960s, [[DARPA|ARPA]] commissioned Rand to study the motivation and morale of the Viet Cong. The project, known as the Viet Cong Motivation and Morale Study (the M&M Study), ran from late 1964 through end of 1968, jointly sponsored by the Office of the Assistant Secretary of Defense for International Security Affairs and ARPA. It produced approximately 2,371 interviews totaling over 60,000 pages of documentation, conducted at approximately forty locations across South Vietnam including CIA detention centers and provincial holding facilities. Respondents were Viet Cong prisoners of war, defectors (Chieu Hoi ralliers), refugees, and others with knowledge of VC activities. Respondents were not informed of the interviewer's affiliation or the project's nature.[^1]
 
 ### Phase I: Donnell, Zasloff, and Pauker
 
@@ -64,9 +64,14 @@ Rand's Santa Monica headquarters is described in accounts from the period as res
 
 ### Remote Viewing Era References
 
-In accounts of the 1970s parapsychology research milieu, Rand is noted as larger and more prestigious than the [[Stanford Research Institute|SRI]] among scientific think tanks, and it figures in the early, later-debunked rumors of a [[The Nautilus (Telepathy Project)|USS Nautilus]] telepathy experiment.[^2]
+In accounts of the 1970s parapsychology research milieu, Rand is noted as larger and more prestigious than the [[Stanford Research Institute|SRI]] among scientific think tanks, and it figures in the French accounts of 1959 and 1960 of a [[The Nautilus (Telepathy Project)|USS Nautilus]] telepathy experiment, which the U.S. Navy denied and which a 1975 DIA study called rumors.[^2][^3]
+
+In Le Matin des magiciens, [[Jacques Bergier]] and [[Louis Pauwels]] wrote that at the beginning of 1957 the Rand Corporation laid before [[Dwight D. Eisenhower|President Eisenhower]] a report proposing telepathy for communicating with submarines, particularly under the polar ice cap, and that the report had no effect for a year. In the same chapter they list Rand among the organizations with parapsychology study laboratories, and a footnote cites a "Rapport de la Rand Corporation, 31 août 1958" in connection with a statement that the U.S. Atomic Energy Commission proposed in 1958 to use clairvoyants to guess where Russian bombs would fall.[^4] A report to Soviet Defense Minister [[Rodion Malinovsky]] of March 1960, as quoted by [[I. V. Tsykunov]], says that from the end of 1957 Rand, Westinghouse and Bell Telephone had been working intensively on telepathy.[^5]
 
 ### Footnotes
 
 [^1]: Peter Watson, *War on the Mind: The Military Uses and Abuses of Psychology*. Basic Books, 1978. pp. 388-394 (Ch. 21), 462-468 (App. II); Mai Elliott, *RAND in Southeast Asia: A History of the Vietnam War Era*. RAND CP-564, 2010; Anthony Russo, "Looking Backward: RAND and Vietnam," *Ramparts*, October 1972; RAND report series: RM-4507/3-ISA (March 1965), RM-4911-2-ISA/ARPA (1966), RM-5446-1-ISA/ARPA (October 1967), RM-5462-1 (November 1969), RM-6131-1 (September 1970).
 [^2]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
+[^3]: Maire, Louis F., III, and J. D. LaMothe. *Soviet and Czechoslovakian Parapsychology Research*, DST-1810S-387-75, September 1975, CIA-RDP96-00787R000500420001-2, https://cia.gov/readingroom/document/cia-rdp96-00787r000500420001-2.
+[^4]: Pauwels, Louis, and Jacques Bergier. *Le Matin des magiciens*, abridged and annotated university edition prepared by Yvonne Lenard with Monica Faulkner (Harper and Row, 1967), pp. 136-141.
+[^5]: Tsykunov, I. V. "От фантазии к реальности: как история «Наутилуса» открыла гонку сверхъестественных вооружений между СССР и США" [From fantasy to reality: how the story of the Nautilus opened the race for supernatural weapons between the USSR and the USA]. Aliter, no. 20 (2023), pp. 34-55. https://cyberleninka.ru/article/n/ot-fantazii-k-realnosti-kak-istoriya-nautilusa-otkryla-gonku-sverhestestvennyh-vooruzheniy-mezhdu-sssr-i-ssha. Sole source for the passages so cited.
