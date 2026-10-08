@@ -20,9 +20,9 @@ tags:
   - 1970s
   - 1980s
 category: "Intelligence Operation"
-summary: "Operation Gladio was the Italian component of a NATO-sponsored network of secret stay-behind armies established across Western Europe by the CIA and British intelligence after World War II to conduct resistance and sabotage operations in the event of a Soviet invasion, whose members in Italy were linked to the right-wing terrorist bombings of the 'strategy of tension' from the late 1960s through the 1980s, exposed publicly by Italian Prime Minister Giulio Andreotti in October 1990."
+summary: "Operation Gladio was the Italian branch of the NATO stay-behind networks set up by the CIA and British intelligence after World War II, whose members were linked to the bombings of the strategy of tension."
 start: 1956-01-01
-end: 1990-10-01
+end: 1990-11-27
 location: "Rome, Italy (primary); Brussels, Belgium (NATO coordination)"
 ---
 
@@ -56,7 +56,7 @@ The strategy of tension investigations repeatedly intersected with the [[Propaga
 
 ### The 1990 Disclosure
 
-Italian Prime Minister [[Giulio Andreotti]] disclosed Gladio's existence to Parliament on October 24, 1990, in a statement acknowledging the stay-behind network's existence and providing a partial account of its operations and membership. The disclosure was forced by an investigation conducted by magistrate [[Felice Casson]], who had obtained documents establishing the Gladio network's existence and connection to the Peteano bombing while investigating that case.
+Italian Prime Minister [[Giulio Andreotti]] first acknowledged the structure to the parliamentary commission on terrorism and massacres (the Stragi commission) on August 3, 1990, saying that according to the services its NATO-model activities had continued "until 1972". On October 18, 1990 he sent the commission a document, "Il cosiddetto SID parallelo, il caso Gladio", which showed the structure still active in 1990; the commission's 1992 report called the two statements contradictory. The SISMI director [[Fulvio Martini]] had issued a circular on August 8, 1990 redirecting Gladio toward the fight against drugs. On October 24, 1990 Andreotti addressed the Chamber of Deputies, describing a NATO-framework "safeguard network, both informational and of reaction", and said that after a letter from magistrate [[Felice Casson]] to the commission's chairman he had held back the document and sent a revised text within 24 hours. Casson had obtained documents establishing the Gladio network's existence and connection to the Peteano bombing while investigating that case. Andreotti decreed Gladio's dissolution on November 27, 1990.[^4][^5]
 
 Andreotti's disclosure triggered immediate political controversy in Italy and across Europe, where governments faced questions about whether analogous networks existed in their own countries. The [[European Parliament]] passed a resolution on November 22, 1990 condemning the stay-behind networks as a threat to democratic governance and calling on member states to investigate and disclose their networks' activities.[^2]
 
@@ -73,3 +73,5 @@ In [[Belgium]], the stay-behind network SDRA8 was investigated in connection wit
 [^1]: Ganser, Daniele. *NATO's Secret Armies: Operation GLADIO and Terrorism in Western Europe.* Frank Cass, 2005. This is the primary comprehensive scholarly account based on official documents and parliamentary investigations. Italian Senate Commissione parlamentare d'inchiesta sul terrorismo in Italia. Final Reports, 2000-2001.
 [^2]: European Parliament. Resolution on the Gladio Affair, November 22, 1990. Colby, William, and Peter Forbath. *Honorable Men: My Life in the CIA.* Simon & Schuster, 1978 (background on CIA stay-behind organization methodology).
 [^3]: Willan, Philip. *Puppetmasters: The Political Use of Terrorism in Italy.* Constable, 1991. Flamini, Gianni. *Il Partito del Golpe.* Bovolenta, 1982-1985 (Italian documentary account of P2/Gladio intersection).
+[^4]: Commissione parlamentare d'inchiesta sul terrorismo in Italia e sulle cause della mancata individuazione dei responsabili delle stragi, *Relazione sull'inchiesta condotta sulle vicende connesse all'operazione Gladio*, Doc. XXIII n. 51, approved April 14-15, 1992, pp. 12-13, 29-30. Translated from the Italian. https://www.parlamento.it/service/PDF/PDFServer/BGT/909971.pdf
+[^5]: Camera dei deputati, X Legislatura, *Discussioni*, seduta del 24 ottobre 1990 (no. 537), *Resoconto stenografico*, pp. 71561-71562. Translated from the Italian. https://legislature.camera.it/_dati/leg10/lavori/stenografici/sed0537/sed0537.pdf

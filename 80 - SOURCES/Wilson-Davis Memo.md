@@ -3,6 +3,7 @@ aliases:
   - Wilson-Davis Memo
   - Wilson/Davis document
   - EWD Notes 10/16/02
+category: "UFO & Anomalous Phenomena"
 tags:
   - Source
 date: 2002

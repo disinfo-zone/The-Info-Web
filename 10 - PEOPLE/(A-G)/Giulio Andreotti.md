@@ -21,7 +21,7 @@ tags:
 born: 1919-01-14
 died: 2013-05-06
 location: "Rome, Italy"
-summary: "Giulio Andreotti was Italy's seven-time Prime Minister and dominant Democrazia Cristiana figure who refused to negotiate for Aldo Moro's release in 1978, disclosed the existence of Operation Gladio to parliament in October 1990, and was acquitted of Mafia association charges after an eight-year trial."
+summary: "Giulio Andreotti was Italy's seven-time Prime Minister who refused to negotiate for Aldo Moro's release in 1978, acknowledged Operation Gladio in 1990, and was acquitted of Mafia association charges."
 ---
 
 Giulio Andreotti was born on January 14, 1919, in Rome. He served as Prime Minister of Italy seven times between 1972 and 1992, more than any other postwar Italian leader, and was the preeminent figure of the [[Democrazia Cristiana]] party's right wing for four decades. Known as "Il Divo" and "Il Gobbo" (the Hunchback), he was a master of the opaque center of Italian power who simultaneously wielded institutional authority, intelligence connections, and political longevity of a kind unique in Western European democracy. He died in Rome on May 6, 2013.[^1]
@@ -40,7 +40,7 @@ The refusal was justified as a constitutional principle that the state could not
 
 ### Gladio Disclosure
 
-On October 24, 1990, in response to questioning by magistrate [[Felice Casson]] and parliamentary demands following Casson's discovery of the [[Operation Gladio|Gladio]] documentation, Andreotti - serving as Prime Minister for the sixth time - confirmed to the Italian Parliament that a secret NATO stay-behind network had existed in Italy since 1956. His disclosure, carefully calibrated to acknowledge the network's existence while limiting information about its political operations, triggered the parliamentary and European investigations that followed.[^2]
+Andreotti, serving as Prime Minister for the sixth time, first acknowledged the [[Operation Gladio|Gladio]] stay-behind structure to the parliamentary Stragi commission on August 3, 1990, saying its activities had continued until 1972; a document he sent the commission on October 18 showed it still active. On October 24, 1990, answering interpellations in the Chamber of Deputies, he described the NATO-framework network and said he had revised the document after magistrate [[Felice Casson]] wrote to the commission's chairman.[^3] The network dated from a 1956 accord between the Italian military intelligence service SIFAR and the CIA, according to the commission's 1992 report.[^4] His disclosure, carefully calibrated to acknowledge the network's existence while limiting information about its political operations, triggered the parliamentary and European investigations that followed.[^2]
 
 ### Mafia Trial
 
@@ -52,3 +52,5 @@ The Court of Cassation's final ruling acquitted Andreotti of the murder charge a
 
 [^1]: Pansa, Giampaolo. *Il revisionista.* Rizzoli, 2009. Flamini, Gianni. *Il Partito del Golpe.* Bovolenta, 1982-1985.
 [^2]: Ganser, Daniele. *NATO's Secret Armies: Operation GLADIO and Terrorism in Western Europe.* Frank Cass, 2005. Willan, Philip. *Puppetmasters: The Political Use of Terrorism in Italy.* Constable, 1991.
+[^3]: Camera dei deputati, X Legislatura, *Discussioni*, seduta del 24 ottobre 1990 (no. 537), *Resoconto stenografico*, pp. 71561-71562. Translated from the Italian. https://legislature.camera.it/_dati/leg10/lavori/stenografici/sed0537/sed0537.pdf
+[^4]: Commissione parlamentare d'inchiesta sul terrorismo in Italia e sulle cause della mancata individuazione dei responsabili delle stragi, *Relazione sull'inchiesta condotta sulle vicende connesse all'operazione Gladio*, Doc. XXIII n. 51, approved April 14-15, 1992, pp. 12-13, 29-30. Translated from the Italian. https://www.parlamento.it/service/PDF/PDFServer/BGT/909971.pdf

@@ -16,7 +16,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "Markus Wolf (1923-2006), known as 'the man without a face,' directed the Stasi's foreign intelligence directorate (HVA) from 1952 to 1986, building one of the Cold War's most effective intelligence services through penetrations of West German government including the Guillaume operation that brought down Chancellor Willy Brandt."
+summary: "Markus Wolf (1923-2006), 'the man without a face,' directed the Stasi's foreign intelligence directorate (HVA) from 1952 to 1986, including the Guillaume penetration of Willy Brandt's office."
 born: 1923-01-19
 died: 2006-11-09
 location: "Berlin, Germany"
@@ -42,7 +42,7 @@ The HVA's penetrations extended to the [[Bundesnachrichtendienst]] (BND), the Fe
 
 The placement of Guillaume as a personal aide to Chancellor Brandt was Wolf's most consequential operation. Guillaume, recruited before his emigration to West Germany in 1956, spent nearly two decades working his way through the Social Democratic Party's structures. By 1972 he had become a close aide to Brandt, with access to sensitive political communications and accompanying the Chancellor on foreign travel.
 
-When the [[Bundesamt für Verfassungsschutz]] (BfV) exposed Guillaume in April 1974, and Brandt resigned in May 1974, it was one of the most spectacular results the HVA achieved. Wolf's memoir, published after the Cold War, discusses the operation with evident professional pride while acknowledging its political dimensions.[^1]
+When Guillaume was arrested in April 1974, a year after the [[Bundesamt für Verfassungsschutz]] (BfV) first suspected him, and Brandt resigned in May 1974, it was one of the most spectacular results the HVA achieved. Wolf's memoir, published after the Cold War, discusses the operation with evident professional pride while acknowledging its political dimensions.[^1]
 
 ### Western Identification Problems
 
