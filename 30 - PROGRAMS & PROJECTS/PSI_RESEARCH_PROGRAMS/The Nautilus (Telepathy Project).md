@@ -9,11 +9,11 @@ tags:
   - ColdWar
 description: The Nautilus (Telepathy Project) refers to a sensational 1960 French magazine article claiming successful telepathic communication with the USS Nautilus submarine, which spurred Soviet psi research.
 category: "Psi Research Program"
-summary: "The Nautilus (Telepathy Project) refers to a fabricated 1960 French magazine story claiming the U.S. Navy had conducted successful telepathy experiments with the USS Nautilus submarine, a hoax that nonetheless alarmed Soviet and American military planners and accelerated government parapsychology funding."
+summary: "A 1960 French magazine report that the U.S. Navy ran telepathy experiments with the submarine USS Nautilus, which the Navy denied and which Soviet researchers cited in seeking parapsychology funding."
 date: 1960
 ---
 
-[[The Nautilus (Telepathy Project)]] refers to a sensational 1960 article in the French magazine *Science et Vie* titled "The Secret of the Nautilus." The article claimed that the [[U.S. Government|U.S. government]], in secret tests, had successfully employed telepathy to communicate with the crew of the USS Nautilus, its first nuclear submarine, while it was submerged beneath the Arctic ice cap. The story suggested the project had the special attention of President [[Dwight D. Eisenhower|Eisenhower]] and involved the [[U.S. Navy|Navy]], [[U.S. Air Force|Air Force]], Westinghouse, General Electric, [[Bell Labs]], and the [[Rand Corporation]].[^1]
+[[The Nautilus (Telepathy Project)]] refers to a sensational 1960 article in the French magazine *Science et Vie* titled "The Secret of the Nautilus." The article claimed that the [[United States|U.S. government]], in secret tests, had successfully employed telepathy to communicate with the crew of the USS Nautilus, its first nuclear submarine, while it was submerged beneath the Arctic ice cap. The story suggested the project had the special attention of President [[Dwight D. Eisenhower|Eisenhower]] and involved the [[U.S. Navy|Navy]], [[U.S. Air Force|Air Force]], Westinghouse, General Electric, [[Bell Labs]], and the [[Rand Corporation]].[^1]
 
 The implications of such a breakthrough were enormous, as communicating with deeply submerged submarines was a critical research goal. Telepathy seemed an ideal solution, as it appeared unaffected by seawater or other earthly obstacles. However, the story quickly unraveled upon closer inspection, with denials from involved parties and suspicious inconsistencies in the reported accuracy rates. It was eventually suggested that the article was a fabrication, possibly a disinformation ploy designed to stir up data on American psi research or to encourage the [[Soviet Union|Soviets]] to undertake wasteful psi research, or both.[^1]
 

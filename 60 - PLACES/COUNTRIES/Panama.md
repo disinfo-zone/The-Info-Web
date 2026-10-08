@@ -19,7 +19,7 @@ Panama is a [[Central America|Central American]] nation that served as a major b
 
 ### Noriega Era
 
-Manuel Noriega, Panama's military dictator, performed valuable work for the [[U.S. government|U.S.]] government in Central America during the 1980s, brokering deals with South American leaders, acting as liaison to Cuba's Fidel Castro, and providing intelligence on guerrilla and terrorist activities. The former CIA chief of operations in Panama testified on Noriega's behalf during a sentencing reduction hearing in 1998.[^2]
+Manuel Noriega, Panama's military dictator, performed valuable work for the [[United States|U.S.]] government in Central America during the 1980s, brokering deals with South American leaders, acting as liaison to Cuba's Fidel Castro, and providing intelligence on guerrilla and terrorist activities. The former CIA chief of operations in Panama testified on Noriega's behalf during a sentencing reduction hearing in 1998.[^2]
 
 ### Contra Connections
 

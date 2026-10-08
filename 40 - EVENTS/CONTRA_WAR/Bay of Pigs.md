@@ -17,7 +17,7 @@ tags:
   - 1960s
   - AntiCastro
 category: "Intelligence Operation"
-summary: "The Bay of Pigs invasion was the CIA's failed April 17-19, 1961 covert operation deploying approximately 1,400 Cuban exiles of Brigade 2506 against Fidel Castro, collapsing after Kennedy cancelled the follow-up air strikes and Castro's forces captured 1,179 survivors - prompting CIA Inspector General Lyman Kirkpatrick's suppressed postmortem conclusion that 'plausible denial was a pathetic illusion.'"
+summary: "The CIA's failed April 17-19, 1961 invasion of Cuba by about 1,400 exiles of Brigade 2506, which collapsed after Kennedy cancelled follow-up air strikes and left 1,179 survivors captured."
 start: 1961-04-17
 end: 1961-04-19
 location: "Bay of Pigs (Bahia de Cochinos), Cuba"
@@ -53,7 +53,7 @@ The cover story required that the attacking aircraft appear to be defecting Cuba
 
 ### The D-Day Air Strike Cancellation
 
-On April 14, Kennedy directed Bissell to reduce the follow-up strikes to "minimal." On the evening of April 16, approximately 9:30 PM, National Security Adviser [[McGeorge Bundy]] telephoned CIA Deputy Director General [[Charles P. Cabell|C.P. Cabell]] to inform him that the dawn April 17 strikes "should not be launched" until they could be conducted from a secured beachhead airfield. (Source: Cabell's May 9, 1961 memorandum to the Taylor Commission, FRUS Vol. X, Document 108.)
+On April 14, Kennedy directed Bissell to reduce the follow-up strikes to "minimal." On the evening of April 16, at about 9:30 p.m., according to the Cuba Study Group, National Security Adviser [[McGeorge Bundy]] telephoned CIA Deputy Director General [[Charles P. Cabell|C.P. Cabell]] to inform him that the dawn April 17 strikes "should not be launched until they could be conducted from a strip within the beachhead."[^4] Cabell's own memorandum of May 9, 1961 states: "I was called in the CIA headquarters for the Cuban operation by the Special Assistant to the President, Mr. McGeorge Bundy."[^5]
 
 Cabell and Bissell went to Rusk's office around 10:15 PM and argued for proceeding. Rusk refused, citing "political considerations" and Stevenson's insistence "that the air strikes would make it absolutely impossible for the U.S. position to be sustained." At approximately 4:30 AM on April 17, Cabell phoned the [[White House]] requesting fighter cover for ships withdrawing from the beach; Kennedy disapproved after consulting Rusk.
 
@@ -116,3 +116,5 @@ Brigade 2506 veterans became the CIA's organizational core for subsequent Cuba o
 [^1]: CIA Inspector General. "Inspector General's Survey of the Cuban Operation." October 1961; declassified February 22, 1998. Published in Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba.* New Press, 1998. Foreign Relations of the United States, 1961-1963, Vol. X (Cuba, January 1961-September 1962), Documents 108, 169, 198. U.S. Department of State, history.state.gov/historicaldocuments/frus1961-63v10.
 [^2]: Cuba Study Group (Taylor Commission). Final Report. June 13, 1961. FRUS 1961-1963, Vol. X, Document 169. CIA Official History, Vols. I-V (Pfeiffer, 1979-1984). National Security Archive, nsarchive.gwu.edu, NSAEBB353 (2011) and NSAEBB564 (2016). Wyden, Peter. *Bay of Pigs: The Untold Story.* Simon & Schuster, 1979.
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.
+[^4]: Cuba Study Group, Memorandum No. 1, "Narrative of the Anti-Castro Cuban Operation Zapata," June 13, 1961, paragraph 43, *Foreign Relations of the United States, 1961-1963*, Volume X, Cuba, January 1961-September 1962, Document 231. https://history.state.gov/historicaldocuments/frus1961-63v10/d231
+[^5]: Memorandum from General C.P. Cabell to the Cuba Study Group, May 9, 1961, *Foreign Relations of the United States, 1961-1963*, Volume X, Document 108. https://history.state.gov/historicaldocuments/frus1961-63v10/d108

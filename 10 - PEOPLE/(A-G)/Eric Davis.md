@@ -19,7 +19,7 @@ Dr. Davis was a key scientific contractor for AATIP, working closely with Hal Pu
 
 Dr. Davis is best known as the alleged author of the Wilson-Davis Memo, a document that details a 2002 conversation with Vice Admiral [[Thomas R. Wilson]], then the Director of the [[Defense Intelligence Agency]] (DIA). The memo describes Admiral Wilson's discovery of and subsequent denial of access to a secret UAP reverse-engineering program. The leak of this memo has been a significant event in the UAP disclosure movement, providing a detailed account of the existence of a "[[Legacy Program]]" operating outside of normal government oversight.[^1]
 
-In 2020, Dr. Davis made headlines when he told the [[New York Times]] that the [[U.S. government]] was in possession of "off-world vehicles not made on this earth." His public statements and briefings to Congress have been a major factor in the growing momentum for UAP transparency.[^1]
+In 2020, Dr. Davis made headlines when he told the [[New York Times]] that the [[United States|U.S. government]] was in possession of "off-world vehicles not made on this earth." His public statements and briefings to Congress have been a major factor in the growing momentum for UAP transparency.[^1]
 
 ### Footnotes
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.

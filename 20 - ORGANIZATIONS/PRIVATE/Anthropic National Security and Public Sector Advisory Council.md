@@ -39,7 +39,7 @@ created: 2026-09-22
 updated: 2026-09-22
 ---
 
-[[Anthropic]] announced the council on August 27, 2025, as "a group of leading bipartisan national security and public policy practitioners who will help Anthropic support the [[U.S. government]] and closely allied democracies in building and maintaining enduring technological advantages in an era of strategic competition," with the task of identifying "high-impact applications" in areas "ranging from cybersecurity to intelligence analysis to scientific research." Its inaugural members were:[^1]
+[[Anthropic]] announced the council on August 27, 2025, as "a group of leading bipartisan national security and public policy practitioners who will help Anthropic support the [[United States|U.S. government]] and closely allied democracies in building and maintaining enduring technological advantages in an era of strategic competition," with the task of identifying "high-impact applications" in areas "ranging from cybersecurity to intelligence analysis to scientific research." Its inaugural members were:[^1]
 
 - [[Roy Blunt]], former senator from Missouri and member of the [[Senate Select Committee on Intelligence]], director of Tenet Healthcare and of the cyber company Nightwing, and former chairman of the advisory board of the National Geospatial-Intelligence Agency.
 - [[David S. Cohen]], former deputy director of the [[Central Intelligence Agency|CIA]] and under secretary of the Treasury for terrorism and financial intelligence.

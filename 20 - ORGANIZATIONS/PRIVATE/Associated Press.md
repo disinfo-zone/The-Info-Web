@@ -180,7 +180,7 @@ On June 6, 2025 a panel of the [[United States Court of Appeals for the District
 [^15]: Associated Press, *Covering Tyranny*, 2017, Key findings, p. 7.
 [^16]: Associated Press, *Covering Tyranny*, 2017, Introduction, pp. 1, 4.
 [^17]: Robert Parry, "The Lost Opportunity of Iran-Contra," *Consortium News*, December 1, 2011, https://consortiumnews.com/2011/12/01/the-lost-opportunity-of-iran-contra/ ; Parry, "Regret over Gary Webb's Demise," *Consortium News*, June 1, 2013, https://consortiumnews.com/2013/06/01/regret-over-gary-webbs-demise/
-[^18]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), ch. 27 (citation carried from the existing vault page for the Associated Press; not reopened in this run).
+[^18]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), ch. 27.
 [^19]: "Bad Deal For Berrellez," *Phoenix Republic*, April 2, 1978, CIA Reading Room document CIA-RDP09T00207R001000030015-6, https://archive.org/details/cia-readingroom-document-cia-rdp09t00207r001000030015-6
 [^20]: Reporters Committee for Freedom of the Press, "Justice Department defends decisions in secret seizure of AP phone records as criticism mounts," May 14, 2013, https://www.rcfp.org/justice-department-defends-decisions-secret-seizure-ap-phone-records/ (describing the Machen letter of May 10, 2013 and quoting Pruitt's letter of May 13).
 [^21]: James M. Cole, Deputy Attorney General, letter to Gary B. Pruitt, May 14, 2013, https://www.justice.gov/sites/default/files/oip/legacy/2014/07/23/dag-letter-to-ap-president-pruitt.pdf
