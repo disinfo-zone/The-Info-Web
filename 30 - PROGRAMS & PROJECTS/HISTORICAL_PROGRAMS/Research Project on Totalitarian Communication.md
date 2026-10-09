@@ -38,6 +38,11 @@ relations:
     role: "co-director"
     start: 1941-04
     fn: 2
+  - type: participant_in
+    with: "[[Heinz Paechter]]"
+    reverse: true
+    role: "named on the roster of the project; credited in association on the title page of the 1944 book"
+    fn: 2
 ---
 
 The Research Project on Totalitarian Communication began work on April 1, 1941, in the Research Center of the Graduate Faculty of Political and Social Science at the [[New School for Social Research]], under the co-directorship of [[Ernst Kris]] and [[Hans Speier]]. It was financed by the [[Rockefeller Foundation]], analyzed German domestic radio from material supplied by the [[BBC]], and issued its papers to government agencies in Washington, London and Ottawa. Its 1944 book, German Radio Propaganda, was published by Oxford University Press.[^1][^2]
@@ -52,7 +57,7 @@ Kris had previously directed a research unit that produced weekly analyses of Ge
 
 ### Staff
 
-The twenty-four staff members named in the project's records were Sidney Axelrad, Joe Carmichael, Rose M. Chayes, Henry Elkin, Erik Estorik, Jacob Goldstein, Hans Herma, George Hilton, Eleanor Horn, Gertrud M. Kurth, Stanley Lipkin, Janice Loeb, Rita Lowe, Margaret P. Mascret, Alexander Mintz, George A. Nelson Jr., Margaret Otis, Heinz Paechter, Thomas Rubinstein, Dorothy L. Sandler, Joseph Shor, Ursula Wasserman, Florence Weil and Howard B. White. Axelrad, Loeb, Herma, Paechter and White are credited in association on the book's title page; Paechter's glossary Nazi-Deutsch was issued by the Office of European Economic Research in 1942 and published by Frederick Ungar in 1944.[^2][^4]
+The twenty-four staff members named in the project's records were Sidney Axelrad, Joe Carmichael, Rose M. Chayes, Henry Elkin, Erik Estorik, Jacob Goldstein, Hans Herma, George Hilton, Eleanor Horn, Gertrud M. Kurth, Stanley Lipkin, Janice Loeb, Rita Lowe, Margaret P. Mascret, Alexander Mintz, George A. Nelson Jr., Margaret Otis, [[Heinz Paechter]], Thomas Rubinstein, Dorothy L. Sandler, Joseph Shor, Ursula Wasserman, Florence Weil and Howard B. White. Axelrad, Loeb, Herma, Paechter and White are credited in association on the book's title page; Paechter's glossary Nazi-Deutsch was issued by the Office of European Economic Research in 1942 and published by Frederick Ungar in 1944.[^2][^4]
 
 ### Research Papers
 

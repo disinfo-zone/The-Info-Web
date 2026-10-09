@@ -23,12 +23,18 @@ relations:
     with: "[[Max Ascoli]]"
     start: 1931
     role: "fellowship that brought him to the United States"
-    fn: 15
+    fn: 20
   - type: funded
     with: "[[Princeton Listening Center]]"
     start: 1939-11
     end: 1941-06
     role: "foundation funding for the listening center, per the Princeton finding aid and Mercado"
+    fn: 24
+  - type: funded
+    with: "[[Institute of World Affairs]]"
+    role: "grants to the Institute's predecessor projects and to Institute studies; donor listed in the historical note"
+    start: 1941-03
+    end: 1951
     fn: 19
 ---
 
@@ -66,19 +72,21 @@ The Rockefeller Archive Center's account of the Foundation's refugee scholar pro
 
 The Foundation funded the [[Research Project on Totalitarian Communication]] at the New School, led by [[Hans Speier]] and [[Ernst Kris]], which analyzed radio broadcasts from totalitarian countries and was coordinated with the British Broadcasting Corporation and government agencies. Foundation funding ended in 1943, and many of the researchers later held federal posts. John Foster Dulles, a Foundation trustee, urged the Foundation to continue work in this field after the war in order to counter Soviet propaganda in Europe.[^14]
 
+The Foundation's grants reached the [[Institute of World Affairs]] through its predecessor projects and through studies run by the Institute. Its grants for the Research Project on Totalitarian Communication were $15,960 in March 1941 and $19,000 in 1942.[^15] A study titled "Germany's Position in European Postwar Reconstruction," compiled by the Institute from 1944 to 1949, was funded by the Foundation "in order to study the results of post-World War I reconstruction in Germany, with an eye toward the practical implementation of these lessons following World War II."[^16] The Social and Economic Controls in Germany and Russia project, formed in 1941, was financed by the Foundation and "focused largely on labor politics in Nazi Germany and Soviet Russia."[^17] A folder for [[Joseph H. Willits]] for 1941 to 1952 concerns a Foundation grant for the project of [[Hans Neisser]] titled Domestic Determinants of International Trade.[^18] The Institute's historical note reports its funding for 1943 to 1951 at $630,000, with the Foundation among its donors.[^19]
+
 ### Refugee Scholar Fellowships, 1931 to 1933
 
-The Italian anti-fascist [[Max Ascoli]] came to the United States in 1931 on a Foundation fellowship; Ascoli wrote in 1954 that the offer was made in the spring of 1931 by the Foundation's representative in Italy, [[Luigi Einaudi]].[^15][^16] In 1933 Johnson recruited Ascoli, with the Austrian scholar [[Erich Hula]], as one of two additional Rockefeller scholars for the University in Exile, and Ascoli joined the Graduate Faculty in late 1933.[^17]
+The Italian anti-fascist [[Max Ascoli]] came to the United States in 1931 on a Foundation fellowship; Ascoli wrote in 1954 that the offer was made in the spring of 1931 by the Foundation's representative in Italy, [[Luigi Einaudi]].[^20][^21] In 1933 Johnson recruited Ascoli, with the Austrian scholar [[Erich Hula]], as one of two additional Rockefeller scholars for the University in Exile, and Ascoli joined the Graduate Faculty in late 1933.[^22]
 
 ### Belém Virus Laboratory
 
-In the Brazilian Amazon the Foundation's medical infrastructure directly served the development drive. The BR-010 highway pushed south from [[Belem|Belém]] toward [[Juscelino Kubitschek|Kubitschek's]] new capital at Brasília, "shielded from the jungle's malarial counterattacks by mosquito control programs and scientists from the Rockefeller Foundation-funded Belém Virus Laboratory," the same road network that opened uncontacted indigenous territories to settlement and mining.[^18]
+In the Brazilian Amazon the Foundation's medical infrastructure directly served the development drive. The BR-010 highway pushed south from [[Belem|Belém]] toward [[Juscelino Kubitschek|Kubitschek's]] new capital at Brasília, "shielded from the jungle's malarial counterattacks by mosquito control programs and scientists from the Rockefeller Foundation-funded Belém Virus Laboratory," the same road network that opened uncontacted indigenous territories to settlement and mining.[^23]
 
 ### Princeton Listening Center and Wartime Monitoring
 
-The Foundation's money reached American radio monitoring before the government had a monitoring service of its own. The [[Princeton Listening Center]] was launched in November 1939 at [[Princeton University]] with Foundation funding, and its finding aid states that it was financed by the Foundation and continued its work until June 1941, when the [[Federal Communications Commission]] took over; [[Stephen C. Mercado]] likewise gives the absorption by the [[Foreign Broadcast Intelligence Service]] as June.[^19] [[Daniel Bessner]] writes that Washington organizations "used intermediaries at the Rockefeller Foundation to assign projects to Graduate Faculty members," some of whom could not work directly for the government because they remained foreign nationals.[^20]
+The Foundation's money reached American radio monitoring before the government had a monitoring service of its own. The [[Princeton Listening Center]] was launched in November 1939 at [[Princeton University]] with Foundation funding, and its finding aid states that it was financed by the Foundation and continued its work until June 1941, when the [[Federal Communications Commission]] took over; [[Stephen C. Mercado]] likewise gives the absorption by the [[Foreign Broadcast Intelligence Service]] as June.[^24] [[Daniel Bessner]] writes that Washington organizations "used intermediaries at the Rockefeller Foundation to assign projects to Graduate Faculty members," some of whom could not work directly for the government because they remained foreign nationals.[^25]
 
-A [[Baltimore Sun]] article described the service as a joint project of the FCC, Princeton and the Foundation. [[Harold N. Graves Jr.]] wrote a memo for [[Lloyd Free]] on July 9, 1941 about his "embarrassment" at inaccuracies in the article, among them its claim of a joint project.[^21]
+A [[Baltimore Sun]] article described the service as a joint project of the FCC, Princeton and the Foundation. [[Harold N. Graves Jr.]] wrote a memo for [[Lloyd Free]] on July 9, 1941 about his "embarrassment" at inaccuracies in the article, among them its claim of a joint project.[^26]
 
 ### Footnotes
 
@@ -96,10 +104,15 @@ A [[Baltimore Sun]] article described the service as a joint project of the FCC,
 [^12]: Rockefeller Archive Center, DIMES catalog, Rockefeller Foundation records, RG 1.1, Series 200, file groups "Refugee Scholars - New School for Social Research - (French Institute)," "New School for Social Research - Totalitarian Communication Studies," and "War and Peace Studies," https://dimes.rockarch.org.
 [^13]: Rockefeller Archive Center, REsource story "The Rockefeller Foundation's Refugee Scholar Program" (letter from Marc Bloch to Alvin Johnson, July 31, 1941, RAC, RG 1.1, Series 200, Box 48, Folder 550).
 [^14]: "Rockefeller Foundation Support for Communications Media in the 1930s and 1940s," Rockefeller Archive Center, RE:source, https://resource.rockarch.org/story/rockefeller-foundation-support-for-communications-media-in-the-1930s-and-1940s/
-[^15]: Boston University, Bridge, "Connections," November 23, 2001, https://www.bu.edu/bridge/archive/2001/11-23/connections.htm. Also Isabelle Richet, review of Davide Grippa, Un antifascista tra Italia e Stati Uniti, Primo Levi Center, November 24, 2014, https://primolevicenter.org/printed-matter/an-antifascist-between-italy-and-the-united-states/.
-[^16]: "The Reporter's Notes," The Reporter, September 23, 1954, pp. 2-6, https://archive.org/details/sim_reporter_1954-09-23_11_5.
-[^17]: Peter M. Rutkoff and William B. Scott, New School: A History of the New School for Social Research (New York: Free Press, 1986), pp. 102 and 118.
-[^18]: Colby and Dennett, Ch. 22.
-[^19]: Princeton University Library, "Princeton Listening Center Records, 1939-1941" (AC015), finding aid. https://findingaids.princeton.edu/catalog/AC015. Stephen C. Mercado, "FBIS Against the Axis, 1941-1945," Studies in Intelligence 45, no. 5 (2001), on the Princeton Listening Center's launch in November 1939 with funding from the Rockefeller Foundation, and on its absorption by FBIS in June. https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol45no5/html/v45i5a04p.htm.
-[^20]: Daniel Morris Bessner, "The Night Watchman: Hans Speier and the Making of the American National Security State" (PhD dissertation, Duke University, 2013), p. 138. https://dukespace.lib.duke.edu/items/19152946-8fbb-4b9b-9da0-faca0979e718.
-[^21]: Roop, Part I, pp. 93-95, on the Baltimore Sun article of July 1941 and Graves's memo of 9 July 1941. https://archive.org/details/ForeignBroadcastInformationServiceHistoryPart11941-1947.
+[^15]: Bessner, "The Night Watchman: Hans Speier and the Making of the American National Security State" (PhD diss., Duke University, 2013), pp. 130-131. https://dukespace.lib.duke.edu/server/api/core/bitstreams/232a76ac-f2d8-4827-99fe-50b3b109fa6c/content
+[^16]: New School Archives and Special Collections, "'Germany's Postion in European Postwar Reconstruction', 1944-1949," Institute of World Affairs records, Box 5, Folders 32-33. https://findingaids.archives.newschool.edu/repositories/3/archival_objects/27256
+[^17]: New School Archives and Special Collections, "Social and Economic Controls in Germany and Russia, 1941-1956," Institute of World Affairs records, Series 3. https://findingaids.archives.newschool.edu/repositories/3/archival_objects/27285
+[^18]: New School Archives and Special Collections, "Willits, Joseph H., 1941-1952," Box 3, Folder 6. https://findingaids.archives.newschool.edu/repositories/3/archival_objects/27198
+[^19]: New School Archives and Special Collections, "Institute of World Affairs records," NS-02-16-01, historical note. https://findingaids.archives.newschool.edu/repositories/3/resources/235
+[^20]: Boston University, Bridge, "Connections," November 23, 2001, https://www.bu.edu/bridge/archive/2001/11-23/connections.htm. Also Isabelle Richet, review of Davide Grippa, Un antifascista tra Italia e Stati Uniti, Primo Levi Center, November 24, 2014, https://primolevicenter.org/printed-matter/an-antifascist-between-italy-and-the-united-states/.
+[^21]: "The Reporter's Notes," The Reporter, September 23, 1954, pp. 2-6, https://archive.org/details/sim_reporter_1954-09-23_11_5.
+[^22]: Peter M. Rutkoff and William B. Scott, New School: A History of the New School for Social Research (New York: Free Press, 1986), pp. 102 and 118.
+[^23]: Colby and Dennett, Ch. 22.
+[^24]: Princeton University Library, "Princeton Listening Center Records, 1939-1941" (AC015), finding aid. https://findingaids.princeton.edu/catalog/AC015. Stephen C. Mercado, "FBIS Against the Axis, 1941-1945," Studies in Intelligence 45, no. 5 (2001), on the Princeton Listening Center's launch in November 1939 with funding from the Rockefeller Foundation, and on its absorption by FBIS in June. https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol45no5/html/v45i5a04p.htm.
+[^25]: Daniel Morris Bessner, "The Night Watchman: Hans Speier and the Making of the American National Security State" (PhD dissertation, Duke University, 2013), p. 138. https://dukespace.lib.duke.edu/items/19152946-8fbb-4b9b-9da0-faca0979e718.
+[^26]: Roop, Part I, pp. 93-95, on the Baltimore Sun article of July 1941 and Graves's memo of 9 July 1941. https://archive.org/details/ForeignBroadcastInformationServiceHistoryPart11941-1947.

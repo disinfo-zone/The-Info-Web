@@ -101,7 +101,7 @@ In June 1950 Simons was selected as the third president of the New School, succe
 
 A file in the New School central administration records holds Simons's "Future of the New School," dated September 18, 1958. Its scope note relates it to a Publicity Office record in which Simons responds to the "McGrath Report."[^14] The New School Associates records hold a presidential talk on "Hans Simon's report on India," dated January 28, 1960.[^15]
 
-His resignation is dated to 1960. Correspondence in his Adult Division file is "mainly after 1960, when Hans Simons resigned as president of The New School."[^16] He retired from the presidency in 1960.[^1] The scope note of the John R. Everett records lists his presidency as 1950 to 1961.[^17] Press releases in the school's records announce the appointment of [[Henry David]] as president between January 18 and March 19, 1961, and record his inauguration on October 23, 1961.[^18][^19] David resigned on March 22, 1963.[^20]
+His resignation is dated to 1960. Correspondence in his Adult Division file is "mainly after 1960, when Hans Simons resigned as president of The New School."[^16] He retired from the presidency in 1960.[^1] The scope note of the [[John R. Everett]] records lists his presidency as 1950 to 1961.[^17] Press releases in the school's records announce the appointment of [[Henry David]] as president between January 18 and March 19, 1961, and record his inauguration on October 23, 1961.[^18][^19] David resigned on March 22, 1963.[^20]
 
 ### Project MKUltra memoranda, 1961
 
