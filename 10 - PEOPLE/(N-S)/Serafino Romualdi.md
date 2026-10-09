@@ -16,6 +16,13 @@ died: 1967
 location: "New York"
 created: 2026-06-05
 updated: 2026-06-05
+relations:
+  - type: participant_in
+    with: "[[Mazzini Society]]"
+    start: 1942
+    end: 1942
+    role: "society representative who reported South American recruiting figures to the Interdepartmental Committee, March 1942"
+    fn: 3
 ---
 
 Serafino Romualdi (November 18, 1900 - November 1967) was the [[AFL-CIO]]'s Inter-American representative for over two decades and the founding executive director of the [[AIFLD]] (American Institute for Free Labor Development), which he built into the CIA's principal labor-movement instrument in [[Latin America]]. Born in [[Bastia Umbra]], Perugia, Italy, Romualdi fled fascism in 1923 and built his anti-communist credentials through the [[ILGWU]], wartime service in the [[CIAA]] and [[OSS]], and nearly two decades as the AFL's roving labor ambassador to the hemisphere. The CIA assigned him the pseudonym "Charles Guymers" and the cryptonym [[ZRSIGN]]; [[Philip Agee]] identified him in print as "the principal CIA agent for labor operations in Latin America." His receipt in autumn 1963 of advance information about São Paulo Governor [[Adhemar de Barros]]'s coup plans against [[Joao Goulart]] led directly to AIFLD's crash training of thirty-three Brazilian unionists whose subsequent role in the 1964 coup was publicly acknowledged by his successor, [[William Doherty Jr.]]
@@ -30,23 +37,25 @@ In July 1941, months before the United States entered the war, Romualdi traveled
 
 This wartime double track, operating simultaneously through labor networks and intelligence channels, became the template for his postwar career. The institutional relationships Romualdi built within the OCIAA, including contacts with the Rockefeller apparatus, carried forward directly into the AFL's postwar Latin American operations and, ultimately, into AIFLD's funding base.
 
+In March 1942 [[Max Ascoli]] reported to the [[Interdepartmental Committee on Foreign Nationality Problems]] on information received from Romualdi, whom the minutes describe as "a representative of the Mazzini Society just returned from South America."[^3] Ascoli's report put perhaps 1,500 anti-Fascist Italians in play as possible recruits, most of them in [[Uruguay]], and the committee discussed a cable to the embassy at [[Montevideo]] about a "Garibaldi Legion" recruiting in Uruguay and [[Argentina]].[^3] The [[Mazzini Society]]'s Free Italian congress at Montevideo followed in August 1942.[^4]
+
 ### AFL Latin American Representative, 1945-1962
 
 Romualdi resumed his ILGWU work in fall 1945 and was immediately assigned by the American Federation of Labor to establish contacts with Latin American labor organizations. In January 1948 he attended the Lima conference that established the Inter-American Confederation of Workers (CIT). In March 1948 he was formally appointed the AFL's full-time Latin American representative. He was a founding figure of the [[ORIT]] (Organización Regional Interamericana de Trabajadores) when the CIT reorganized in 1951; he served as ORIT's assistant secretary and edited its Inter-American Labor Bulletin. After the 1955 merger creating the AFL-CIO, he became Inter-American Representative of the unified federation and executive secretary of its Inter-American Affairs Committee.[^1]
 
-During this period he worked in Argentina, Bolivia, Brazil, Chile, Costa Rica, Cuba, [[Guatemala]], [[British Guiana]], Italy, Peru, Uruguay, and Venezuela.[^3]
+During this period he worked in Argentina, Bolivia, Brazil, Chile, Costa Rica, Cuba, [[Guatemala]], [[British Guiana]], Italy, Peru, Uruguay, and Venezuela.[^5]
 
 ### Guatemala, 1953-1954
 
-In 1953 and 1954, Romualdi described Guatemalan President [[Jacobo Arbenz]] as running a "veritable communist trade union dictatorship" and used ORIT to help create the Unión Nacional de Trabajadores Libres (UNTL) as a rival federation to undermine Arbenz-aligned labor. Many UNTL leaders subsequently participated in the movement supporting the CIA-backed 1954 coup that installed [[Carlos Castillo Armas]]. After the coup, Romualdi praised the new regime; AFL president [[George Meany]] announced that the AFL "rejoices over the downfall" of the Arbenz government.[^4]
+In 1953 and 1954, Romualdi described Guatemalan President [[Jacobo Arbenz]] as running a "veritable communist trade union dictatorship" and used ORIT to help create the Unión Nacional de Trabajadores Libres (UNTL) as a rival federation to undermine Arbenz-aligned labor. Many UNTL leaders subsequently participated in the movement supporting the CIA-backed 1954 coup that installed [[Carlos Castillo Armas]]. After the coup, Romualdi praised the new regime; AFL president [[George Meany]] announced that the AFL "rejoices over the downfall" of the Arbenz government.[^6]
 
-ORIT's Guatemalan files, including Romualdi's correspondence and reports spanning 1950 through 1958, are held at the [[Kheel Center for Labor-Management Documentation and Archives]] at Cornell University (Box 3, Folders 11-16 of the Serafino Romualdi Papers).[^3]
+ORIT's Guatemalan files, including Romualdi's correspondence and reports spanning 1950 through 1958, are held at the [[Kheel Center for Labor-Management Documentation and Archives]] at Cornell University (Box 3, Folders 11-16 of the Serafino Romualdi Papers).[^5]
 
 ### British Guiana, 1962-1964
 
-In April 1962, Romualdi visited British Guiana and identified young union leaders he regarded as needing "intensive training to combat Dr. [[Cheddi Jagan]]'s efforts." Eight Guianese workers arrived in Washington in June 1962 for AIFLD's first training course; by September 1962, six graduates had returned to British Guiana on AIFLD internship stipends. When the CIA-funded general strike against Jagan's government began, Romualdi placed the institute's six interns at the disposal of the strike committee and extended their stipended internships from June 15 to August 15, 1963, to sustain operations during the strike. He subsequently declared pride in the graduates who "kept their places in the front lines" through what he called the "difficult and...sometimes bloody battle." Romualdi also sent papers to presidential aide [[Arthur Schlesinger Jr.]] itemizing Jagan's pro-communist record; those papers are now held in the [[John F. Kennedy Presidential Library]].[^5]
+In April 1962, Romualdi visited British Guiana and identified young union leaders he regarded as needing "intensive training to combat Dr. [[Cheddi Jagan]]'s efforts." Eight Guianese workers arrived in Washington in June 1962 for AIFLD's first training course; by September 1962, six graduates had returned to British Guiana on AIFLD internship stipends. When the CIA-funded general strike against Jagan's government began, Romualdi placed the institute's six interns at the disposal of the strike committee and extended their stipended internships from June 15 to August 15, 1963, to sustain operations during the strike. He subsequently declared pride in the graduates who "kept their places in the front lines" through what he called the "difficult and...sometimes bloody battle." Romualdi also sent papers to presidential aide [[Arthur Schlesinger Jr.]] itemizing Jagan's pro-communist record; those papers are now held in the [[John F. Kennedy Presidential Library]].[^7]
 
-CIA funding for the British Guiana operations was channeled through the AFL-CIO and through [[AFSCME]] to labor organizers on the ground. The 80-day general strike in 1963, sustained in part by this funding, contributed to the electoral defeat of Jagan's party in December 1964 and the installation of [[Forbes Burnham]] as prime minister.[^5]
+CIA funding for the British Guiana operations was channeled through the AFL-CIO and through [[AFSCME]] to labor organizers on the ground. The 80-day general strike in 1963, sustained in part by this funding, contributed to the electoral defeat of Jagan's party in December 1964 and the installation of [[Forbes Burnham]] as prime minister.[^7]
 
 ### AIFLD and Brazil
 
@@ -58,9 +67,9 @@ In autumn 1963, Romualdi and AIFLD vice-president [[Berent Friele]], described a
 
 Acting on the intelligence from de Barros, Romualdi arranged a special all-Brazilian training class of thirty-three participants at AIFLD's facilities in Washington, D.C. and at the [[Front Royal]] training center in Virginia. The trainees received instruction in U.S. history and anti-communist organizational tactics and were subsequently paid as AIFLD interns in exchange for intelligence reporting on Brazilian political conditions.
 
-When the Brazilian military coup succeeded on April 1, 1964, Romualdi's successor as executive director, William Doherty Jr., stated at an AFL-CIO Labor News Conference in July 1964: "What happened in Brazil on April 1st did not just happen. It was planned, and planned months in advance." He specified that the thirty-three Brazilian union trainees "when they returned to Brazil, some of them... became intimately involved in some of the clandestine operations of the revolution before it took place."[^6]
+When the Brazilian military coup succeeded on April 1, 1964, Romualdi's successor as executive director, William Doherty Jr., stated at an AFL-CIO Labor News Conference in July 1964: "What happened in Brazil on April 1st did not just happen. It was planned, and planned months in advance." He specified that the thirty-three Brazilian union trainees "when they returned to Brazil, some of them... became intimately involved in some of the clandestine operations of the revolution before it took place."[^8]
 
-After the coup, AIFLD-affiliated workers maintained vital telephone lines during the military takeover despite the CGT's call for a general strike.[^7]
+After the coup, AIFLD-affiliated workers maintained vital telephone lines during the military takeover despite the CGT's call for a general strike.[^9]
 
 ### CIA Connections and the ZRSIGN Program
 
@@ -73,9 +82,9 @@ Declassified JFK-era CIA cables pertaining to Romualdi include:
 - Document 104-10100-10270: October 24, 1963 cable indicating early return due to illness.
 - Document 104-10076-10007: December 3, 1963 cable regarding anti-Cuban labor training initiatives.
 - Document 104-10077-10445: December 13, 1963 cable on labor training courses, bearing the ZRSIGN slugline alongside the "GUYMERS" identifier.
-- Document 104-10261-10051: June 26, 1960 memorandum on discussions with Cuban labor leaders regarding [[FRD]] operations.[^8]
+- Document 104-10261-10051: June 26, 1960 memorandum on discussions with Cuban labor leaders regarding [[FRD]] operations.[^10]
 
-Philip Agee's 1975 book "CIA Diary" identified Romualdi as "the principal CIA agent for labor operations in Latin America," a characterization consistent with his IO Division role and the volume of CIA cable traffic under his pseudonym.[^9]
+Philip Agee's 1975 book "CIA Diary" identified Romualdi as "the principal CIA agent for labor operations in Latin America," a characterization consistent with his IO Division role and the volume of CIA cable traffic under his pseudonym.[^11]
 
 ### AFL-CIO Operations and Succession
 
@@ -83,23 +92,27 @@ Romualdi built the AIFLD model in conjunction with AFL-CIO president George Mean
 
 In September 1965, Romualdi retired from his posts with both the AFL-CIO and AIFLD to undertake consulting work and complete his memoirs. William Doherty Jr., who had served as AIFLD's Social Projects Director and had publicly acknowledged the AIFLD trainees' role in the 1964 Brazilian coup, became AIFLD executive director at that point.
 
-After the 1964 coup, Romualdi's colleague [[Andrew McLellan]] traveled to Brazil to work with the [[Humberto Castelo Branco]] government through U.S. Military Attaché [[Vernon Walters]] on revised labor regulations for the post-coup order.[^10]
+After the 1964 coup, Romualdi's colleague [[Andrew McLellan]] traveled to Brazil to work with the [[Humberto Castelo Branco]] government through U.S. Military Attaché [[Vernon Walters]] on revised labor regulations for the post-coup order.[^12]
 
 Romualdi's memoirs, "Presidents and Peons: Recollections of a Labor Ambassador in Latin America," were published by Funk and Wagnalls in 1967. He died in November 1967.
 
 ### Primary Source Collections
 
-Romualdi's personal papers, spanning 1936 through 1968, are held at the Kheel Center for Labor-Management Documentation and Archives at [[Cornell University]] (KCL 05459). The collection covers all major countries of operation with dedicated files: Brazil correspondence, reports, and clippings are in Box 2, Folders 5-7; Guatemala correspondence and reports spanning 1950-1958 are in Box 3, Folders 11-16; British Guiana correspondence and clippings covering 1953-1964 are in Box 5, Folders 1-2 and Box 11, Folder 5.[^3]
+Romualdi's personal papers, spanning 1936 through 1968, are held at the Kheel Center for Labor-Management Documentation and Archives at [[Cornell University]] (KCL 05459). The collection covers all major countries of operation with dedicated files: Brazil correspondence, reports, and clippings are in Box 2, Folders 5-7; Guatemala correspondence and reports spanning 1950-1958 are in Box 3, Folders 11-16; British Guiana correspondence and clippings covering 1953-1964 are in Box 5, Folders 1-2 and Box 11, Folder 5.[^5]
 
 A second collection, AFL-CIO International Affairs Department Serafino Romualdi records, is held at the University of Maryland Special Collections (bulk dates 1946-1966).
 
+### Footnotes
+
 [^1]: Guide to the Serafino Romualdi Papers, 1936-1968, Kheel Center for Labor-Management Documentation and Archives, Cornell University (Collection KCL 05459), rmc.library.cornell.edu/EAD/htmldocs/KCL05459.html.
 [^2]: Cambridge Core, "Italian-Uruguayans for Free Italy: Serafino Romualdi's Quest for Transnational Anti-Fascist Networks during World War II," *The Americas* (2020). The article establishes that OCIAA recruited Romualdi based on his South American intelligence reports.
-[^3]: Guide to the Serafino Romualdi Papers, 1936-1968, Kheel Center for Labor-Management Documentation and Archives, Cornell University (KCL 05459). Series-level descriptions identify box and folder locations for Brazil, Guatemala, and British Guiana files.
-[^4]: Voltairenet.org, "1962-1979: The AFL-CIO and Trade Union Counterinsurgency," citing Romualdi's characterization of Arbenz and Meany's post-coup statement.
-[^5]: Stanley Meisler, "Meddling in Latin America," citing Romualdi's April 1962 British Guiana visit, the eight trainees in June 1962, the extension of internships during the 1963 strike, and Romualdi's correspondence with Schlesinger at the Kennedy Library.
-[^6]: William C. Doherty Jr., statement at AFL-CIO Labor News Conference, July 1964, as quoted in BrasilWire, "1964: Brasil & CIA."
-[^7]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995. Ch. 29.
-[^8]: Mary Ferrell Foundation, Cryptonym Database, ZRSIGN entry. Documents listed are from the JFK Assassination Records Collection, released under the President John F. Kennedy Assassination Records Collection Act of 1992. Document numbers are National Archives identifiers.
-[^9]: Philip Agee, *CIA Diary: Inside the Company*. Stonehill Publishing, 1975.
-[^10]: Colby and Dennett, Ch. 29, Appendix A.
+[^3]: Interdepartmental Committee on Foreign Nationality Problems, minutes and memoranda, CIA reading room, CIA-RDP13X00001R000100370009-5, minutes of the sixth meeting (March 11, 1942), pp. 17-18. https://archive.org/details/cia-readingroom-document-cia-rdp13x00001r000100370009-5
+[^4]: *Fourth International*, June 1943, vol. 4, no. 6 (Trotskyist monthly; secondary account of the Montevideo decision of August 17, 1942). https://archive.org/details/sim_international-socialist-review_1943-06_4_6
+[^5]: Guide to the Serafino Romualdi Papers, 1936-1968, Kheel Center for Labor-Management Documentation and Archives, Cornell University (KCL 05459). Series-level descriptions identify box and folder locations for Brazil, Guatemala, and British Guiana files.
+[^6]: Voltairenet.org, "1962-1979: The AFL-CIO and Trade Union Counterinsurgency," citing Romualdi's characterization of Arbenz and Meany's post-coup statement.
+[^7]: Stanley Meisler, "Meddling in Latin America," citing Romualdi's April 1962 British Guiana visit, the eight trainees in June 1962, the extension of internships during the 1963 strike, and Romualdi's correspondence with Schlesinger at the Kennedy Library.
+[^8]: William C. Doherty Jr., statement at AFL-CIO Labor News Conference, July 1964, as quoted in BrasilWire, "1964: Brasil & CIA."
+[^9]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995. Ch. 29.
+[^10]: Mary Ferrell Foundation, Cryptonym Database, ZRSIGN entry. Documents listed are from the JFK Assassination Records Collection, released under the President John F. Kennedy Assassination Records Collection Act of 1992. Document numbers are National Archives identifiers.
+[^11]: Philip Agee, *CIA Diary: Inside the Company*. Stonehill Publishing, 1975.
+[^12]: Colby and Dennett, Ch. 29, Appendix A.

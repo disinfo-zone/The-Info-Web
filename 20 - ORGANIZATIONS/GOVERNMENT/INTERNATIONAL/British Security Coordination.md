@@ -12,8 +12,14 @@ tags:
   - Roald_Dahl
 start: 1940-05-01
 end: 1945-12-31
-summary: "British Security Coordination (BSC) was a covert British intelligence operation (1940-1945) established by William Stephenson at Rockefeller Center, New York, serving as a wartime umbrella for MI5, MI6, SOE, and PWE conducting propaganda and counterintelligence across the Western Hemisphere."
+summary: "British Security Coordination (BSC) was a covert British intelligence operation (1940-1945) run by William Stephenson from Rockefeller Center, an umbrella for MI5, MI6, SOE and PWE propaganda and counterintelligence in the Western Hemisphere."
 location: "New York City / Washington, D.C."
+relations:
+  - type: funded
+    with: "[[Mazzini Society]]"
+    start: 1941
+    role: "subsidy for Italian broadcasts, per the Morrell memorandum of July 10, 1941 as quoted by Mahl"
+    fn: 4
 ---
 
 British Security Coordination (BSC) was a covert British intelligence organization established in May 1940, with its headquarters at Room 3603, Rockefeller Center, New York City. Operating under the direction of Sir William Samuel Stephenson ("Intrepid"), it served as the Western Hemisphere umbrella organization for the British Secret Intelligence Service (MI6), MI5, the Special Operations Executive (SOE), and the Political Warfare Executive (PWE) throughout the war. Its primary theater of operation was the neutral United States during the period 1940-1941, before U.S. entry into the war. The organization was formally dissolved in 1945.[^1]
@@ -40,7 +46,11 @@ BSC subsidized and assisted pro-British interventionist organizations in the Uni
 
 ### Influence Operations: Social Network Penetration
 
-A distinct BSC operation used well-connected individuals deployed socially to gather intelligence and shape the opinions of senior American figures. The most thoroughly documented case is [[Roald Dahl]], who arrived in Washington in spring 1942 as RAF Assistant Air Attaché at the British Embassy and was subsequently recruited more directly into BSC work. Dahl's social assignment centered on [[Charles Marsh]], a Texas newspaper publisher with access to the highest levels of the Roosevelt administration, and through Marsh to Vice President [[Henry Wallace]] and other senior figures. Jennet Conant's "The Irregulars: Roald Dahl and the British Spy Ring in Wartime Washington" (Simon and Schuster, 2008), drawing on BSC records and private correspondence, is the principal secondary source on this dimension of BSC's Washington operations.[^2]
+A distinct BSC operation used well-connected individuals deployed socially to gather intelligence and shape the opinions of senior American figures. The most thoroughly documented case is Roald Dahl, who arrived in Washington in spring 1942 as RAF Assistant Air Attaché at the British Embassy and was subsequently recruited more directly into BSC work. Dahl's social assignment centered on [[Charles Marsh]], a Texas newspaper publisher with access to the highest levels of the Roosevelt administration, and through Marsh to Vice President [[Henry Wallace]] and other senior figures. Jennet Conant's "The Irregulars: Roald Dahl and the British Spy Ring in Wartime Washington" (Simon and Schuster, 2008), drawing on BSC records and private correspondence, is the principal secondary source on this dimension of BSC's Washington operations.[^2]
+
+### Italian-American Anti-Fascist Groups
+
+The BSC account, as quoted by [[Thomas E. Mahl]], states that BSC had close ties with the Italian-American [[Mazzini Society]], headed by [[Max Ascoli]], and that BSC began to supply the [[WRUL]] shortwave station "through cut-outs."[^3] A July 10, 1941 memorandum by [[Sydney Morrell]] of the SO.1 section, quoted in the same account, records that another subsidy was paid to the Mazzini Society for Italian broadcasts.[^4]
 
 ### Relationship to the OSS
 
@@ -60,3 +70,5 @@ The BSC's lasting institutional contribution to U.S. intelligence was structural
 
 [^1]: "British Security Coordination: The Secret History of British Intelligence in the Americas, 1940-45." Fromm International Publishing, 1998 (original text compiled 1945 by Gilbert Highet, Tom Hill, and Roald Dahl). Hyde, H. Montgomery. *Room 3603: The Story of the British Intelligence Centre in New York during World War II*. Farrar, Straus and Company, 1963. Foreign Policy Research Institute, "The Origin of the US-UK Intelligence 'Special Relationship,'" fpri.org, January 2026.
 [^2]: Conant, Jennet. *The Irregulars: Roald Dahl and the British Spy Ring in Wartime Washington*. Simon and Schuster, 2008.
+[^3]: Thomas E. Mahl, *Desperate Deception: British Covert Operations in the United States, 1939-44* (Washington: Brassey's, 1998), pp. 24, 31 and 190, quoting the BSC Account.
+[^4]: Mahl, *Desperate Deception*, passages quoting Sydney Morrell, memorandum SO.1, July 10, 1941 (PRO FO 898/103), as quoted by Mahl.
