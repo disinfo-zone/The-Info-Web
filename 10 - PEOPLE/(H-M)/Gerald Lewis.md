@@ -1,4 +1,5 @@
 ---
+updated: 2026-10-08
 category: "Political Figure"
 tags:
   - Person
@@ -24,6 +25,10 @@ The [[BCCI Kerry-Brown Senate Report|Kerry-Brown Senate Report]] reproduced the 
 
 [[Robert Mueller]] told the subcommittee that the first letter was "ambiguous at best" and that "I do not know what initiated it." The report concluded: "The obvious explanation for what happened is that Saphos was personally lobbied by people he knew who had formerly been with the Justice Department and now represented BCCI on the outside, and agreed to do them a favor."[^5]
 
+### Closure of Bayshore Bank of Florida, 1987
+
+On August 7, 1987, Lewis, as Florida State Comptroller, closed [[Bayshore Bank of Florida]] in [[Miami]], and the [[Federal Deposit Insurance Corporation]] was named receiver.[^6] The Eleventh Circuit later summarized the sequence: the Comptroller declared the bank insolvent on August 7, 1987, named the FDIC as liquidator under the Florida statute then in force, and the FDIC accepted the appointment shortly afterward.[^7] The FDIC's news release of that day gave the bank's total assets at closing as $40.4 million and said its insured deposits had been transferred to [[Eagle National Bank of Miami]].[^6] The Miami Herald had reported in June 1987 that the bank's president, [[Louis Petrillo]], had resigned just as federal authorities began investigating the transactions at the bank.[^8]
+
 ### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 10.
@@ -31,3 +36,6 @@ The [[BCCI Kerry-Brown Senate Report|Kerry-Brown Senate Report]] reproduced the 
 [^3]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 375.
 [^4]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 374.
 [^5]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 8, "BCCI and Law Enforcement: The Justice Department and the U.S. Customs Service." https://irp.fas.org/congress/1992_rpt/bcci/08just.htm
+[^6]: Federal Deposit Insurance Corporation, news release PR-139-87, "FDIC Transfers Insured Deposits of Bayshore Bank of Florida, Miami, Florida," August 7, 1987. https://fraser.stlouisfed.org/title/press-releases-federal-deposit-insurance-corporation-7031/fdic-transfers-insured-deposits-bayshore-bank-florida-miami-florida-641646
+[^7]: *Bayshore Executive Plaza Partnership v. Federal Deposit Insurance Corp.*, 943 F.2d 1290 (11th Cir. 1991). https://scholar.google.com/scholar_case?case=2861994068766344132
+[^8]: "Newspaper says banker involved in loans for Contra arms," United Press International, dated June 10, 1987, reporting a *Miami Herald* story. https://www.upi.com/Archives/1987/06/10/Newspaper-says-banker-involved-in-loans-for-Contra-arms/9700550296000/
