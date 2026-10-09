@@ -19,4 +19,4 @@ In September 1988, [[Ari Ben-Menashe]] met with [[Rodolfo Stange|Stange]] in [[C
 [[Rodolfo Stange|Stange]] was a key figure in the Chilean government's response to [[Israel|Israeli]] pressure to halt arms sales to [[Iraq]]. He was also involved in the plot to overthrow [[Alfredo Stroessner|President Stroessner]] in [[Paraguay]], aligning with [[Andres Rodriguez|Gen. Andres Rodriguez]] and the [[Central Intelligence Agency|CIA]]. He had presidential aspirations in [[Chile]] following [[Augusto Pinochet|Pinochet's]] defeat in the plebiscite.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -13,4 +13,4 @@ In July 1966, [[Khatoun]] took [[Ari Ben-Menashe|Ari]] and his sisters, Claris, 
 During [[Ari Ben-Menashe|Ari's]] imprisonment, [[Khatoun]] was the only family member who did not abandon him, despite being hassled and threatened by the [[Israel|Israeli]] government.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

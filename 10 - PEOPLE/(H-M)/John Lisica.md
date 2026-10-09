@@ -10,4 +10,4 @@ summary: "Undercover U.S. Customs agent who operated under alias 'Lettner' in a 
 [[John Lisica|Lisica]] met with [[Ari Ben-Menashe|Ben-Menashe]] at [[Kennedy Airport]] as part of this operation, attempting to entice him into agreeing to an illegal sale of C-130 aircraft to [[Iran]]. The conversations were taped, and these tapes later became a central piece of evidence in [[Ari Ben-Menashe|Ben-Menashe's]] trial.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

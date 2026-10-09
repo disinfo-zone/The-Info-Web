@@ -14,4 +14,4 @@ location: "Brooklyn, New York"
 [[Rudolph Giuliani|Giuliani]], along with [[William von Raab]], the [[U.S. Customs|Customs]] Commissioner, gave joint TV interviews on April 22, 1986, announcing the arrest of a "huge ring of terrorists" and "Merchants of Death" who were supposedly about to sell arms worth a billion dollars to [[Iran]]. [[Ari Ben-Menashe]] claims that [[Rudolph Giuliani|Giuliani]] and his associates had created the crime themselves.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

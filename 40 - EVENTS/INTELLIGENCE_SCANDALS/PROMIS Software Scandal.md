@@ -90,7 +90,7 @@ Bill Hamilton continued to maintain that PROMIS was fraudulently stolen and dist
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
 [^3]: U.S. Senate, Permanent Subcommittee on Investigations. *The Inslaw Affair.* September 1989.
 [^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
-[^5]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992.
+[^5]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^6]: Thomas, Gordon. *Gideon's Spies: The Secret History of the Mossad.* St. Martin's Press, 1999.
 [^7]: U.S. Department of Justice. *Review of the Allegations of INSLAW, Inc.* Assistant Associate Attorney General John C. Dwyer, September 1994.
 [^8]: *United States v. INSLAW, Inc.,* 113 B.R. 802 (D.D.C. 1989); *In re INSLAW, Inc.,* 932 F.2d 1467 (D.C. Cir. 1991), rehearing denied July 12, 1991.

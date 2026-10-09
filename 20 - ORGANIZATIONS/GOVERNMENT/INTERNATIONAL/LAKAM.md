@@ -33,7 +33,7 @@ LAKAM was formally dissolved following the 1985 exposure of the [[Jonathan Polla
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991.
 [^3]: Thomas, Gordon. *Gideon's Spies: The Secret History of the Mossad.* St. Martin's Press, 1999.
 [^4]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.

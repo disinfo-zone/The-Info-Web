@@ -18,4 +18,4 @@ Pearson recruited [[Nicholas Davies]], the London *[[Daily Mirror]]* foreign edi
 In 1978, Pearson offered Radi a £200,000 loan, making it clear the money came from an Israeli source, and recruited him to work for an antiterrorist group in Israel run by [[Rafael Eitan|Rafi]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

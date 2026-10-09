@@ -121,7 +121,7 @@ The attachments were a letter from Helen B. McEwan, Director of the Federal Soft
 [^1]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
 [^2]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^3]: Thomas, Gordon. *Gideon's Spies: The Secret History of the Mossad.* St. Martin's Press, 1999.
-[^4]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992.
+[^4]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^5]: "The Deep, Meaningless Rabbithole of the Inslaw/PROMIS Affair," *Investigative Economics,* 2024, on Michael Riconosciuto's arrest eight days after his affidavit and his methamphetamine conviction. https://www.investigativeeconomics.org/p/the-deep-meaningless-rabbithole-of
 [^6]: "Ex-Chief of Wire Service Convicted of Fraud Conspiracy," *The Washington Post,* October 1996, on Earl Brian's conviction for financial fraud involving the Financial News Network and United Press International. https://www.washingtonpost.com/archive/politics/1996/10/18/ex-chief-of-wire-service-convicted-of-fraud-conspiracy/314ff075-52fe-450b-8f47-b353898ccfe1/
 [^7]: "PRISM's Controversial Forerunner," *Consortium News,* 2013, on PROMIS as a conceptual forerunner of bulk data integration and the unproven trapdoor narrative. https://consortiumnews.com/2013/07/11/prisms-controversial-forerunner/

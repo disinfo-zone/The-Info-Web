@@ -24,5 +24,5 @@ On September 22, 1979, a [[VELA Satellite]] recorded two distinctive bright flas
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. 
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015). 
 [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 20.

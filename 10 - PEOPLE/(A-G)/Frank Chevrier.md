@@ -10,4 +10,4 @@ summary: "After Chevrier's fortunes changed and FXC International became a signi
 After [[Frank Chevrier|Chevrier]]'s fortunes changed and [[FXC International]] became a significant company, the [[Central Intelligence Agency|CIA]] approached him with the idea of opening an aircraft division. This division would allow [[FXC International]] to broker secret sales of aircraft around the world on behalf of the [[United States|U.S.]] government.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

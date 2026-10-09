@@ -10,4 +10,4 @@ summary: "Israeli civilian cryptographer and head of the Iranian desk in Unit 82
 [[Shulamit Ingerman|Ingerman]] introduced [[Ari Ben-Menashe]] to the [[Iran|Iranian]] team of six within [[Unit 8200]]. She was called by [[Ari Ben-Menashe]] when he successfully broke the [[Iran|Iranian]] diplomatic code. She later intervened to obtain a pardon for [[Ari Ben-Menashe]] after he was court-martialed for insubordination by [[Sasson Yishaek|Lt. Col. Sasson Yishaek]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -48,4 +48,4 @@ The RAF officially announced the end of its armed struggle in a statement releas
 ### Footnotes
 
 [^1]: Aust, Stefan. *The Baader Meinhof Complex.* Translated by Anthea Bell. Bodley Head, 2008. Originally published in German as *Der Baader Meinhof Komplex* (Hoffmann und Campe, 1985). This is the authoritative account of the RAF's history by a journalist who knew several of its members.
-[^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992. Netanyahu, Iddo. *Entebbe: A Defining Moment in the War on Terrorism.* Balfour Books, 2003.
+[^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015). Netanyahu, Iddo. *Entebbe: A Defining Moment in the War on Terrorism.* Balfour Books, 2003.

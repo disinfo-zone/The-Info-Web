@@ -17,4 +17,4 @@ Large amounts of money from the arms sales to [[Iran]] were funneled through [[U
 In 1987, the [[Iran-Israel Joint Committee]] decided to withdraw its funds from Drexel, a decision that contributed to Milken's growing troubles and ultimately to the fall of Drexel Burnham.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -12,4 +12,4 @@ summary: "Palestinian student and friend of Ari Ben-Menashe who was the target o
 [[Adel Mohammad Atamna|Atamna]] was the individual [[SHABAK]] attempted to recruit [[Ari Ben-Menashe|Ben-Menashe]] to spy on, an offer [[Ari Ben-Menashe|Ben-Menashe]] refused.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

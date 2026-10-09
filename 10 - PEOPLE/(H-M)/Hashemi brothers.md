@@ -19,4 +19,4 @@ After the [[Ronald Reagan|Reagan]] administration took office in 1981 and the ho
 [[Cyrus Hashemi|Cyrus]] was later used by [[Oliver North]] and [[United States|U.S.]] Customs in a sting operation to entrap individuals connected with [[Israel|Israeli]] intelligence arms sales to [[Iran]]. [[Cyrus Hashemi|Cyrus]] was found dead in his [[London]] apartment, with his death attributed to a sudden case of virulent leukemia, though [[Israel|Israeli]] intelligence suspected foul play.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -11,4 +11,4 @@ summary: "In 1984, Israeli intelligence, with the backing of the Americans, agre
 In 1984, [[Israel|Israeli]] intelligence, with the backing of the [[United States|Americans]], agreed to continue selling weapons to the [[Guatemala|Guatemalan]] government through the [[Eagle]] company. This was part of a deal that allowed [[Guatemala]] to be used for storing weapons en route to [[Iran]] and for planes carrying arms from [[Poland]] to the [[Sandinistas|Sandinista]] government in [[Nicaragua]] to fly over [[Guatemala]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

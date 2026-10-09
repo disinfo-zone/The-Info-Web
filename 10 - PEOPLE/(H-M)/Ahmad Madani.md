@@ -15,4 +15,4 @@ After the [[Iranian Revolution]] in February 1979, [[Ayatollah Ruhollah Khomeini
 [[Ahmad Madani|Madani]] was defeated by [[Abol Hassan Bani-Sadr]] in the election for the first president of [[Iran]] after the revolution.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

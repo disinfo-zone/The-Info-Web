@@ -22,4 +22,4 @@ location: "Jerusalem, Mandatory Palestine"
 [[Nachum Admoni|Admoni]] left [[Mossad]] in 1989, but continued to advise [[Yitzhak Shamir]] on intelligence matters. He later became the chair of a public utility in [[Israel]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

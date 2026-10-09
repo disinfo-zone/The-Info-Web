@@ -16,4 +16,4 @@ The [[Entebbe hijacking]] occurred on June 27, 1976, when an [[Air France]] jet 
 Relations between [[Israel]] and [[Idi Amin]], then president of [[Uganda]], were strained at the time. [[Idi Amin|Amin]] had been installed in a military coup planned by former [[Israel|Israeli]] military attaché Col. Baruch Bar Lev, but relations deteriorated after [[Muammar Qaddafi|Col. Muammar Qaddafi]] of [[Libya]] promised money to black [[Africa|African]] nations if they cut ties with [[Israel]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -11,4 +11,4 @@ summary: "Business partner tasked by Rafi Eitan to receive the PROMIS software w
 [[Baldur K. Kleine|Kleine]] was tasked by [[Rafael Eitan|Rafi]] to receive the [[PROMIS]] software, complete with its "trap door," from [[Earl Brian]] in Maitland. He then passed the program to [[Manfred Herrmann]] in [[Guatemala]], who, in conjunction with [[Robert Maxwell|Maxwell's]] [[Degem]], implemented it for intelligence purposes.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

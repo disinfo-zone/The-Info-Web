@@ -14,4 +14,4 @@ Dr. [[Jack Varona]] was the assistant deputy director of the [[Defense Intellige
 [[Jack Varona|Varona]] was criticized by [[Ari Ben-Menashe]] for his indifference and lack of understanding regarding the [[Iraq|Iraqi]] threat to [[Iran]]. He was more concerned with obtaining details about [[Soviet Union|Soviet]]-made military equipment than with the urgent situation in [[Iran]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

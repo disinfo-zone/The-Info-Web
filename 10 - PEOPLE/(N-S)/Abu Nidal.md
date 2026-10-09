@@ -34,7 +34,7 @@ After BCCI's closure in July 1991, a British judge, on the application of the ba
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 4, "BCCI's Criminality" (quoting "Abu Nidal's Terror Network," U.S. Department of State, July 1987). https://irp.fas.org/congress/1992_rpt/bcci/04crime.htm
 [^3]: Kerry and Brown, *The BCCI Affair,* ch. 11, "BCCI, the CIA and Foreign Intelligence." https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
 [^4]: Kerry and Brown, *The BCCI Affair,* ch. 16, "BCCI and Georgia Politicians." https://irp.fas.org/congress/1992_rpt/bcci/16ga.htm

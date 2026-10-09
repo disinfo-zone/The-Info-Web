@@ -11,4 +11,4 @@ summary: "In late 1985, Ari Ben-Menashe approached Sanders to purchase cluster b
 In late 1985, [[Ari Ben-Menashe]] approached Sanders to purchase cluster bombs for [[Israel]]. Sanders made it clear that the sale of cluster bombs to [[Israel]] was prohibited by the [[United States|U.S.]]. However, he introduced Ben-Menashe to [[Richard Babayan]], a [[Central Intelligence Agency|CIA]] contract agent with close contacts with [[Carlos Cardoen|Cardoen]], indicating that Cardoen would sell the bombs to [[Israel]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -32,7 +32,7 @@ The [[BCCI Kerry-Brown Senate Report|Kerry-Brown Senate Report]] recorded that "
 ### Footnotes
 
 [^1]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 11.
-[^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^3]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 25.
 [^4]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 389.
 [^5]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 54.

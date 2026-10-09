@@ -15,4 +15,4 @@ General [[Yekutiel Adam]] was an [[Israel|Israeli]] military leader who was in l
 Prior to his assassination, [[Yekutiel Adam|Adam]] lost a number of top-secret documents when he left his briefcase behind in a [[Los Angeles]] gas station, which caused a huge internal row within [[Mossad]] and an unsuccessful attempt to stop his appointment.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

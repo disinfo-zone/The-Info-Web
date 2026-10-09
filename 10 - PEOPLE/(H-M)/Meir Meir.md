@@ -12,4 +12,4 @@ Colonel [[Meir Meir]] was the chief of the External Relations Department (ERD) o
 He also sent [[Ari Ben-Menashe]] to [[Washington, D.C.]] with [[David Kimche]] on the [[Mossad]] budget, as [[David Kimche|Kimche]] needed an [[Iran|Iranian]] affairs briefer for a secret operation to supply [[Iran]] with small arms and spare parts.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

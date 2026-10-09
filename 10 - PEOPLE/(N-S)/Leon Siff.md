@@ -15,4 +15,4 @@ In October 1989, [[Ari Ben-Menashe]] visited [[Leon Siff|Siff]] in [[Los Angeles
 [[Leon Siff|Siff]] was later implicated in [[Ari Ben-Menashe|Ben-Menashe's]] arrest. On November 3, 1989, [[Ari Ben-Menashe]] was arrested in [[Leon Siff|Siff's]] bathroom by [[United States|U.S.]] Customs Service agents. [[Leon Siff|Siff]] did not protest the arrest and later refused to admit any part in it, claiming he was looking for a lawyer for [[Ari Ben-Menashe|Ben-Menashe]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

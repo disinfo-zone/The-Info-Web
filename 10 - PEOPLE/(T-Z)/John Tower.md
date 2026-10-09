@@ -26,4 +26,4 @@ After the [[Iran-Contra Affair]] scandal broke, [[John Tower|Tower]] was appoint
 [[John Tower|Tower]] died in a plane crash in [[Georgia]] in early 1991.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

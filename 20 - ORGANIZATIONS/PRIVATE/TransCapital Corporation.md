@@ -15,4 +15,4 @@ In 1986 and 1987, [[TransCapital Corporation]] was allowed to export high-tech [
 [[Richard St. Francis]], who worked for [[TransCapital Corporation]], was involved in a deal to sell three C-130s to [[Iran|Tehran]], working with [[Joseph O'Toole]] and [[Mike Timpani]]. This deal was intended to be a go-between for [[Israel]] and [[Iran]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

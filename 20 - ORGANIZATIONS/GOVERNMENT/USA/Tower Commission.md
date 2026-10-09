@@ -17,4 +17,4 @@ The commission's investigation focused on the years 1984 to 1986. Its conclusion
 [[George H.W. Bush]] later nominated [[John Tower|Tower]] for defense secretary, but he was not confirmed by [[United States|Congress]] due to the controversy surrounding the commission's findings.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

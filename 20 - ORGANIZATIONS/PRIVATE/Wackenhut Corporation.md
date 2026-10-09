@@ -198,7 +198,7 @@ The Wackenhut/Cabazon Joint Venture was terminated on October 1, 1984, following
 [^34]: United States Department of Justice, Office of Professional Responsibility, report of Judge Nicholas J. Bua on the INSLAW matter (1993), section on the Wackenhut-Cabazon joint venture, printed pp. 55 to 58 and footnotes 32 and 35. Official finding, placed as the position of the body that issued it. https://documents.theblackvault.com/documents/nsa/DOJ-OIP-INSLAW_1993.pdf
 [^35]: Report of Judge Nicholas J. Bua on the INSLAW matter (1993), printed pp. 42 to 43 (March 21, 1991 affidavit, paragraph 44 as quoted).
 [^36]: John Connolly, "Inside the Shadow CIA," *Spy,* September 1992, pp. 46-54. Sole source for the Special Projects Division passage and the Pastora identification and retraction. https://www.prop1.org/legal/prisons/92wack.htm
-[^37]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^37]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^38]: Epstein, Jeffrey, reply to Story Cowles, "Re: Wackenhut," email, July 13, 2009, U.S. Department of Justice, Epstein Library, EFTA01829732. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01829732.pdf
 [^39]: G4S Wackenhut, Security Officer Reports, client facility "358 El Brillo," November 2009, U.S. Department of Justice, Epstein Library, EFTA01157725. https://www.justice.gov/epstein/files/DataSet%209/EFTA01157725.pdf
 [^40]: The Wackenhut Corporation, annual reports for 1985 and 1986, sections on Wackenhut Advanced Technologies Corporation, Danny Casolaro papers, folder "Wackenhut-CompanyReportsannualQuarterly," https://archive.org/details/casolaro-notebooks.

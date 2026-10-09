@@ -30,4 +30,4 @@ In 1984, political chaos in Israel led to a coalition government between the [[L
 In September 1987, Ari Ben-Menashe and three other members of the Iran-Israel Joint Committee were dismissed due to pressure on Yitzhak Shamir following the leaking of the Iran-Contra Affair story. Prior to this, some funds were set aside for their futures, and the [[Central Intelligence Agency|CIA]] money controlled by Israel was transferred to the [[East Bloc]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

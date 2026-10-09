@@ -13,4 +13,4 @@ born: 1949-03-25
 In July 1992, *The Village Voice* printed a long article by [[Craig Unger|Unger]] that quoted [[Moshe Hebroni]], a former colleague of [[Ari Ben-Menashe|Ben-Menashe]], confirming [[Ari Ben-Menashe|Ben-Menashe's]] access to very sensitive material while working for the Foreign Flow desk in External Relations.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

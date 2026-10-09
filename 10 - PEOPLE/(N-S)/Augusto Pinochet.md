@@ -177,7 +177,7 @@ On August 24, 2004, the [[Supreme Court of Argentina]] upheld the life sentence 
 [^13]: Deutscher Bundestag, Drucksache 18/12943 (2017), motion on Colonia Dignidad (German; paraphrased). https://dserver.bundestag.de/btd/18/129/1812943.pdf
 [^14]: Deutscher Bundestag, Drucksache 11/1409 (1987), minor interpellation of the Green Party group on Colonia Dignidad (German; paraphrased). https://dserver.bundestag.de/btd/11/014/1101409.pdf
 [^15]: Auswärtiges Amt, "'Colonia Dignidad': Bilanzbericht der Gemeinsamen Kommission," September 21, 2021 (German; paraphrased), including the account of Steinmeier's April 2016 statement. https://auswaertiges-amt.de/de/aussenpolitik/laender/chile-node/bilanzbericht-colonia-dignidad/2483426
-[^16]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992. Sole source for the passages so cited.
+[^16]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015). Sole source for the passages so cited.
 [^17]: *United States v. Cardoen*, 898 F. Supp. 1563 (S.D. Fla. 1995), No. 93-241-CR, https://static.case.law/f-supp/898/cases/1563-01.json.
 [^18]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq*. Bantam, 1993, pp. 46-54, 64. Sole source for the passages so cited.
 [^19]: U.S. Department of State, Office of the Historian, "James Daniel Theberge (1930-1988)," https://history.state.gov/departmenthistory/people/theberge-james-daniel; "Nomination of James Daniel Theberge To Be United States Ambassador to Chile," Ronald Reagan Presidential Library, November 6, 1981, https://www.reaganlibrary.gov/research/speeches/11681a

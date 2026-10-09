@@ -11,4 +11,4 @@ Ann-Marie Murphy was the Irish girlfriend of [[Nezar Hindawi]]. She was unwittin
 The plot was foiled by [[Israel|Israeli]] security. Ann-Marie Murphy was interrogated by British security, where she revealed Hindawi's involvement. She later gave birth to their daughter in [[Ireland]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

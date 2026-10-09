@@ -12,4 +12,4 @@ The [[El Aqsa Mosque]] is located on the [[Temple Mount]] in [[Jerusalem]], cons
 In August 1969, the [[El Aqsa Mosque]] was the target of an arson attack carried out by [[Michael Dennis Rohan]], an [[Australia|Australian]] member of the Church of God. [[Michael Dennis Rohan|Rohan]] believed that destroying the mosque was necessary for the rebuilding of the Third Temple and the return of Christ. This act outraged Muslims worldwide and led to calls for a jihad against [[Israel]]. [[Ari Ben-Menashe]] played a role in exposing [[Michael Dennis Rohan|Rohan's]] involvement and his connections with the [[Jewish Defense League]] (JDL).[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

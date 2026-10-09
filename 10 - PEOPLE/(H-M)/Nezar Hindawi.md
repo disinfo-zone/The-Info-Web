@@ -14,4 +14,4 @@ Hindawi was instructed to ensure his pregnant Irish girlfriend, Ann-Marie Murphy
 The plot was foiled by [[Israel|Israeli]] security, who were aware of the operation. Hindawi was arrested and subsequently jailed for 45 years. His actions led to [[Margaret Thatcher|Margaret Thatcher's]] government closing down the [[Syrian Embassy in London|Syrian Embassy]] in London.
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

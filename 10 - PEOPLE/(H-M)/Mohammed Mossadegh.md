@@ -17,4 +17,4 @@ location: "Tehran, Iran"
 [[Mohammed Mossadegh|Mossadegh]] was overthrown in 1953, and [[Kermit Roosevelt]] and [[Miles Copeland]] of the [[Central Intelligence Agency|CIA]] helped restore the [[Mohammad Reza Pahlavi|Shah]] to power. [[Mehdi Bazargan]], the first prime minister appointed by [[Ayatollah Ruhollah Khomeini|Khomeini's]] revolutionary government, was a supporter of [[Mohammed Mossadegh|Mossadegh]] and a member of the National Front.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

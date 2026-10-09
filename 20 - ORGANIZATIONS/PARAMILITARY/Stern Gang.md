@@ -15,4 +15,4 @@ The [[Stern Gang]] was another name for [[LEHI]] (Lohamei Herut Israel, Hebrew f
 [[Gourdji]], the father of [[Ari Ben-Menashe]], was involved with the [[Stern Gang]] in [[Palestine]] in 1940. The group was known for its virulently anti-British stance, with [[Yitzhak Shamir]] even willing to negotiate with the [[Nazi Germany|Nazis]] for Jewish lives. They were persecuted by British and [[United States|U.S.]] governments and the Jewish labor movement.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

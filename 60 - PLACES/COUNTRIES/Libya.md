@@ -37,4 +37,4 @@ Gaddafi was captured and killed on October 20, 2011, during the NATO-supported u
 
 [^1]: "Libya," *Encyclopaedia Britannica.* https://www.britannica.com/place/Libya
 [^2]: Hersh, Seymour M. "Target Gaddafi," *New York Times Magazine,* February 22, 1987.
-[^3]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* TrineDay, 1992.
+[^3]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015).

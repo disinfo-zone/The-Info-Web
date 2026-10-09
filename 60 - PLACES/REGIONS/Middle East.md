@@ -30,7 +30,7 @@ The [[Office of Strategic Services]] "conducted covert operations, resistance su
 
 ### Footnotes
 
-[^1]: As cited on the linked pages: Hersh, Seymour M., *The Samson Option,* Random House, 1991; Ben-Menashe, Ari, *Profits of War,* TrineDay, 1992.
+[^1]: As cited on the linked pages: Hersh, Seymour M., *The Samson Option,* Random House, 1991; Ben-Menashe, Ari, *Profits of War,* Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Troy, Thomas F., *Donovan and the CIA,* CIA Center for the Study of Intelligence; Trento, Joseph, *Prelude to Terror,* Carroll and Graf, 2005; Risen, James, *State of War,* Free Press, 2006; NSAM 303 and discoverlbj.org; Beaty, Jonathan, and S. C. Gwynne, *The Outlaw Bank,* Random House, 1993; CIA Domestic Contact Service case file 65805 (NARA 104-10291-10016/10017).
 [^3]: Beaty and Gwynne, *The Outlaw Bank;* Farah, Douglas, and Stephen Braun, *Merchant of Death,* Wiley, 2007; Henderson, Ian, *The Lockerbie Trial,* Palgrave, 2001; Seymour, Cheri, *The Last Circle,* TrineDay; House Judiciary Committee, *The INSLAW Affair,* H. Rept. 102-857; Webb, Gary, *Dark Alliance,* Seven Stories, 1998; Sick, Gary, *October Surprise,* Times Books, 1991; Unger, Craig, *Den of Spies,* Dutton, 2024; Barnes, Ben, interview, *New York Times,* March 18, 2023.
 [^4]: *Financial General Bankshares, Inc. v. Metzger,* 680 F.2d 768 (D.C. Cir. 1982); Truell, Peter, and Larry Gurwin, *False Profits,* Houghton Mifflin, 1992; Petzinger, Truell and Abramson, *Wall Street Journal,* December 6, 1991; "Kushner Disappoints Mideast Clients," *Bloomberg,* May 14, 2026; Senate Finance Committee inquiry into Affinity Partners; "Palantir, Israel Agree Strategic Partnership for Battle Tech," *Bloomberg,* January 12, 2024.

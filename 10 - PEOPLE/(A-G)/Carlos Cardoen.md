@@ -82,7 +82,7 @@ The United States formally requested Cardoen's extradition in March 2019. The In
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: U.S. Senate, Select Committee on Intelligence, *Nomination of Robert M. Gates to be Director of Central Intelligence*, S. Exec. Rept. 102-19, 102d Cong., 1st sess. (October 24, 1991), section 5, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-10219.pdf (PDF pages 186 to 188).
 [^3]: *United States v. Cardoen*, 898 F. Supp. 1563 (S.D. Fla. 1995) (Highsmith, J.), No. 93-241-CR, reissued order on hearing under section 6 of the Classified Information Procedures Act (original order December 28, 1994), https://static.case.law/f-supp/898/cases/1563-01.json.
 [^4]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq*. Bantam, 1993, pp. 46-54, 64.

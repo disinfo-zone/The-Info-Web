@@ -13,4 +13,4 @@ summary: "In December 1980, Ghows delivered $56 million to Ari Ben-Menashe in Gu
 In December 1980, [[Faissal Ghows|Ghows]] delivered $56 million to [[Ari Ben-Menashe]] in [[Guatemala]]. This money was part of a deal arranged by the [[United States|Americans]] for the release of [[United States|American]] hostages in [[Iran]]. Of the total, $40 million was in bank checks drawn on [[Banque Worms]], and $16 million was in cash. [[Faissal Ghows|Ghows]] also provided withdrawal papers from [[Banque Worms]] to legitimize the transaction.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

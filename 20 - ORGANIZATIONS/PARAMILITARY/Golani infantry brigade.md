@@ -13,4 +13,4 @@ The [[Golani infantry brigade]] is an elite infantry brigade of the [[Israel|Isr
 [[Ari Ben-Menashe]]'s basic training in the military was in a special infantry unit known as Golani, where he undertook a special high-explosives sabotage course.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

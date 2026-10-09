@@ -14,4 +14,4 @@ location: "Paris, France"
 [[Ari Ben-Menashe]] later booked an [[Air France]] flight from [[Europe]] to [[Israel]] for [[Sayeed Mehdi Kashani]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

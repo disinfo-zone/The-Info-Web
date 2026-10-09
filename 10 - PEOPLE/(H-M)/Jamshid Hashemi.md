@@ -13,4 +13,4 @@ summary: "One of the Hashemi brothers, involved in secret arms sales to Iran and
 [[Jamshid Hashemi|Hashemi]] and his brothers made money selling small quantities of military equipment to [[Iran]]. He was later indicted under the [[Arms Export Control Act]] for illegal arms sales to [[Iran]], but escaped the [[United States|U.S.]] before apprehension. He subsequently agreed to become an informant for [[U.S. Customs|U.S. Customs]] against the [[Iran|Iranian]] exile community.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

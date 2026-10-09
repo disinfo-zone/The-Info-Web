@@ -19,4 +19,4 @@ In late September 1988, an [[Israel|Israeli]] intelligence officer briefed the h
 [[Alan Bond|Bond]] was convicted of bank fraud in May 1992 and sentenced to two and a half years in prison. He later went bankrupt and became involved in African mining investments.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

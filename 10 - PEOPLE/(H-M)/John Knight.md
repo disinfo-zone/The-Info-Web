@@ -13,4 +13,4 @@ summary: "London-based arms dealer who ran Dynavest Limited, supplying weapons f
 [[John Knight|Knight]] was familiar to [[Ari Ben-Menashe]] and his associates, having worked with the [[Anthony Pearson|Tony Pearson]]-[[Nicholas Davies|Nick Davies]] group since the late 1970s. He was also mentioned as a supplier of equipment to [[Iraq]] directly from [[Britain]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

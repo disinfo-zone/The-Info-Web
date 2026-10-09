@@ -12,4 +12,4 @@ summary: "Iranian arms dealer and one of the Hashemi brothers involved in secret
 [[Reza Hashemi|Hashemi]] was arrested after his brothers, [[Cyrus Hashemi]] and [[Jamshid Hashemi]], were tipped off about their indictment under the [[Arms Export Control Act]] for illegal arms sales to [[Iran]]. He became a hostage himself, which pressured his elder brothers to negotiate with [[U.S. Customs|U.S. Customs]] to become informants.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

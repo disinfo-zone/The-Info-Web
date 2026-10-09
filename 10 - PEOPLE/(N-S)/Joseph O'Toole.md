@@ -15,4 +15,4 @@ summary: "In April 1989, O'Toole was involved in a deal to sell three C-130s to 
 In April 1989, [[Joseph O'Toole|O'Toole]] was involved in a deal to sell three C-130s to [[Iran|Tehran]], working with [[Richard St. Francis]] of [[TransCapital Corporation]] and [[Mike Timpani]]. This deal was intended to be a go-between for [[Israel]] and [[Iran]], but it was ultimately cut out. [[Joseph O'Toole|O'Toole]] was later indicted for conspiracy to sell C-130s to [[Iran]] in violation of the [[United States|U.S.]] Arms Export Control Act, though his case was severed from [[Ari Ben-Menashe|Ben-Menashe's]] at their request, as he had cooperated with the government in setting up [[Ari Ben-Menashe|Ben-Menashe]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

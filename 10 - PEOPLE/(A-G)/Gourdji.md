@@ -14,4 +14,4 @@ He established an import-export business in [[Iran]] with his brother and later 
 He supported the [[Gahal]] (later the [[Likud Party]]), a merger of [[Menachem Begin|Menachem Begin's]] Herut Party and the [[Israel Liberal Party]], due to his view of the [[Labor Party]] as self-serving and intertwined with the [[United States|United States]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

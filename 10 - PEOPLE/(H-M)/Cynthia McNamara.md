@@ -12,4 +12,4 @@ summary: "American citizen jailed in Peru on charges of aiding the Shining Path 
 [[Ari Ben-Menashe]] traveled to [[Cangallo]] and, after a series of events, secured [[Cynthia McNamara|McNamara's]] release from jail. She was released on August 22, 1988, and left [[Peru]] for [[Ireland]] the next day.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

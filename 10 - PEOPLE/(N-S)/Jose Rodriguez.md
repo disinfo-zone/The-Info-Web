@@ -13,4 +13,4 @@ Colonel [[Jose Rodriguez]] was a pilot in [[Paraguay]], serving as the pilot for
 [[Jose Rodriguez|Colonel Rodriguez]] flew [[Ari Ben-Menashe|Ben-Menashe]] to the plant in a two-man [[Bell helicopter]], and was instructed to allow Ben-Menashe to go wherever he wished. He claimed to only know what he was told about the plant's operations, stating it produced insecticides, despite the strong sulfur smell. He remained silent when questioned about the true nature of the manufactured product.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -12,4 +12,4 @@ summary: "Attorney who represented Robert Maxwell and Nicholas Davies, and was p
 [[David Zornow|Zornow]] became the attorney for [[Robert Maxwell|Maxwell's]] Mirror group, including [[Nicholas Davies|Davies]], after [[Ari Ben-Menashe]] was imprisoned. He was able to negotiate with the prosecution to ensure that the names of his clients did not come out in open court during [[Ari Ben-Menashe|Ben-Menashe's]] trial.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -11,4 +11,4 @@ summary: "In April 1989, Timpani was involved in a deal to sell three C-130s to 
 In April 1989, [[Mike Timpani|Timpani]] was involved in a deal to sell three C-130s to [[Iran|Tehran]], working with [[Richard St. Francis]] of [[TransCapital Corporation]] and [[Joseph O'Toole]]. This deal was intended to be a go-between for [[Israel]] and [[Iran]]. He was slated to make a personal profit of $2 million from this deal.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

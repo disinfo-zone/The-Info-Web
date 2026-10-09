@@ -14,4 +14,4 @@ Guerrero saw the photographs and proposed publishing them for a fee. He first ap
 [[Nicholas Davies]], a London *[[Daily Mirror]]* foreign editor and Israeli agent, stalled Guerrero by telling him the newspaper needed an expert to check his claims. Guerrero had already struck a deal with *The [[The Sunday Times|Sunday Times]]* to publish Vanunu's story and photographs, with Vanunu receiving a £250,000 advance on a book and Guerrero receiving a 10% cut. Guerrero approached the *Mirror* because he believed he was being cut out of *The Sunday Times* deal.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

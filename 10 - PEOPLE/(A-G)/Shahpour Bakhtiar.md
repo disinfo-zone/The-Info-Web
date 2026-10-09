@@ -14,4 +14,4 @@ location: "Shahr-e Kord, Iran"
 After [[Mohammad Reza Pahlavi|the Shah's]] departure from [[Iran]] in January 1979, [[Shahpour Bakhtiar|Bakhtiar]] proved unable to function effectively. Following [[Ayatollah Ruhollah Khomeini|Ayatollah Ruhollah Khomeini's]] arrival in [[Iran]] on February 1, 1979, [[Shahpour Bakhtiar|Bakhtiar]] went into hiding ten days later and eventually found exile in [[Paris]], [[France]]. He was assassinated in [[Paris]] in 1991.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

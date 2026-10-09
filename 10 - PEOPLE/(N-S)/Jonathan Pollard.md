@@ -48,5 +48,5 @@ Sella has given friends and colleagues an account of his involvement that is mor
 [[Leonard Garment]], hired by [[Israel]] to represent Sella, attempted to resolve the affair. He was pressured by a six-man Israeli delegation, including [[Chaim Joseph Zadok]], [[Meir Rosenne]], [[Elyakim Rubinstein]], [[Ram Caspi]], [[Avraham Shalom]], and [[Hanan Bar-on]], to file a factual proffer that downplayed Sella's involvement. Garment eventually withdrew from the case, stating he was unsure whether his client was Sella or the Israeli government. With his withdrawal, the Israeli government ended its attempt to protect Sella, effectively ending Sella's career.[^2]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 21, 22.

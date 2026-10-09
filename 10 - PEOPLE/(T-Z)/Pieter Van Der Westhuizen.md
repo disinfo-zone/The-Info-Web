@@ -14,4 +14,4 @@ In November 1988, [[Ari Ben-Menashe]] met with [[Pieter Van Der Westhuizen|Van D
 [[Pieter Van Der Westhuizen|Van Der Westhuizen]] was threatened by an [[Israel|Israeli]] counterpart for his continued involvement in supplying missile technology to [[Iraq]] through [[Armscor|ARMSCOR]]. The [[South Africa|South African]] government was reportedly considering dismissing him from all official positions.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

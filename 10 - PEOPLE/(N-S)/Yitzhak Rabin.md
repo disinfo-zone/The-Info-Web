@@ -19,5 +19,5 @@ As Defense Minister, [[Yitzhak Rabin|Rabin]] did not try to impede the [[Iran-Is
 [[Yitzhak Rabin|Rabin]] replaced [[Shimon Peres]] as leader of the [[Labor Party]] and became Prime Minister of [[Israel]] in 1992 after the national elections, replacing [[Yitzhak Shamir]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 9.

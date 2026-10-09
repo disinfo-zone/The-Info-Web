@@ -17,4 +17,4 @@ Large amounts of money from the arms sales to [[Iran]], along with profits from 
 In 1987, the [[Iran-Israel Joint Committee]] decided to withdraw its funds from Drexel and from the control of [[Menachem Schneerson]] (Lubavitcher Rebbe). This decision was influenced by concerns that the funds might be frozen if relations between [[Israel]] and the [[United States|U.S.]] deteriorated, and it contributed to [[Michael Milken|Milken's]] growing troubles and ultimately to the fall of Drexel.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

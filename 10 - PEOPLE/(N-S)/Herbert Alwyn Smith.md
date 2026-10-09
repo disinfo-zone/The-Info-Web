@@ -17,4 +17,4 @@ died: 1992
 [[Herbert Alwyn Smith|Smith]] died in March 1992, purportedly of a heart attack, ten days after leaving [[Sydney]], [[Australia]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

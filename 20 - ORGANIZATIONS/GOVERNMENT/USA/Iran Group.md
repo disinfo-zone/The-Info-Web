@@ -10,4 +10,4 @@ start: 1980
 The [[Iran Group]] was a [[Central Intelligence Agency|CIA]] group headed by [[Robert Gates]]. It was created as a result of the October 1980 [[Paris Summit Meeting]], and its members, including [[George Cave]], were involved with [[Israel|Israelis]] in arms sales to [[Iran]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

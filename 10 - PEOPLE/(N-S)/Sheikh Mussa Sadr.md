@@ -11,4 +11,4 @@ location: "Qom, Iran"
 His disappearance became a point of contention during [[Abdul Salam Jalloud|Maj. Abdul Salam Jalloud's]] visit to [[Iran]] after the [[Iranian Revolution]], with [[Iran|Iranian]] hosts demanding an explanation from [[Muammar Qaddafi|Col. Qaddafi's]] right-hand man.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

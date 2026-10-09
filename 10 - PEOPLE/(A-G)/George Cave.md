@@ -20,4 +20,4 @@ In February 1989, [[George Cave|Cave]] was spotted in [[Paraguay]] with [[Earl B
 [[George Cave|Cave]] was named as an enemy of the state by an [[Israel|Israeli]] intelligence committee in March 1989, due to his involvement in supplying [[Iraq]] with chemical weapons and nuclear technology.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

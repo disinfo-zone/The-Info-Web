@@ -14,4 +14,4 @@ Major [[Moshe Hebroni]] was the chief of staff for the director of [[Mossad]], [
 [[Moshe Hebroni|Hebroni]] later worked for the [[Jewish Agency]] and was an unofficial adviser to [[Yitzhak Shamir]] after leaving [[Mossad]] in 1989. He confirmed [[Ari Ben-Menashe|Ben-Menashe's]] access to highly sensitive intelligence material.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

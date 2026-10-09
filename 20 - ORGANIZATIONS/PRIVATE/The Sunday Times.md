@@ -13,4 +13,4 @@ location: "London, UK"
 [[Mordecai Vanunu|Vanunu]] flew to [[London]] and was put up in various hotels while giving interviews to *The [[The Sunday Times]]*. [[Israel|Israeli]] intelligence, aware of the impending publication, attempted to discredit [[Mordecai Vanunu|Vanunu]] and later kidnapped him from [[Rome]]. *The [[The Sunday Times]]* published the story and photos on October 5, 1986, after [[Mordecai Vanunu|Vanunu]] failed to return from his trip to [[Rome]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

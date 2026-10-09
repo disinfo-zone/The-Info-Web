@@ -16,4 +16,4 @@ Several important recommendations from the commission's secret report were imple
 A further effect of the recommendations was the creation of the External Relations Department of [[Mossad]] (IDF/MI/ERD), built around an existing unit called Foreign Liaison.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

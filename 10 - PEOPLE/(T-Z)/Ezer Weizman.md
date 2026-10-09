@@ -17,4 +17,4 @@ location: "Tel Aviv, Mandatory Palestine"
 [[Ezer Weizman|Weizman]] urged [[Menachem Begin|Begin]] to sign the [[Camp David summit|Camp David Accords]], which [[Menachem Begin|Begin]] reluctantly did under pressure from [[Jimmy Carter|Carter]]. In 1978, [[Menachem Begin|Begin]] dispatched [[Ezer Weizman|Weizman]] to [[Pretoria]] to meet [[P.W. Botha|Prime Minister P.W. Botha]] of [[South Africa]] to discuss [[Israel|Israeli]]-[[South Africa|South African]] relations. Despite [[Menachem Begin|Begin's]] intentions to downgrade the relationship, [[Ezer Weizman|Weizman]] agreed with [[P.W. Botha|Botha]] on a wartime alliance between the two governments as the price for continuing nuclear tests. This led to the creation of [[SIMWA]] (SADF-IDF Mutual Wartime Agreement).[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

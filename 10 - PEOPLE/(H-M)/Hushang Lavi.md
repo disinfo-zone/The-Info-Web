@@ -13,4 +13,4 @@ summary: "Iranian Jewish arms dealer recruited by Mossad who coordinated the Oct
 [[Hushang Lavi|Lavi]] coordinated the details of the October 1980 [[Washington meeting (October, 1980)|Washington meeting]] between [[United States|American]] and [[Iran|Iranian]] officials, where [[Ahmed Omshei]] outlined the [[Israel|Israeli]] plan for hostage release. His work for the [[Israel|Israeli]] government ended in 1983 because he refused to heed warnings about his unauthorized moonlighting in arms with the [[Hashemi brothers]], among others.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -15,4 +15,4 @@ summary: "Financial Times stringer in Peru who became involved in Ari Ben-Menash
 [[Barbara Durr|Durr]] accompanied [[Ari Ben-Menashe]] to [[Cangallo]] to secure the release of [[Cynthia McNamara]]. She was also present during [[Ari Ben-Menashe|Ben-Menashe's]] tense meeting with [[Carlos Cardoen]] in [[Chile]], where she was used as a veiled threat against [[Carlos Cardoen|Cardoen]] due to her journalistic connections.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

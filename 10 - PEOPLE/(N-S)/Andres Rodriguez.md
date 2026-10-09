@@ -19,4 +19,4 @@ location: "San Salvador de Guairá, Paraguay"
 After the coup, [[Andres Rodriguez|Rodriguez]] became the President of [[Paraguay]] and continued to rule the country with the blessing of the [[United States|U.S.]] government. He stepped down in August 1993 and died in 1997.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

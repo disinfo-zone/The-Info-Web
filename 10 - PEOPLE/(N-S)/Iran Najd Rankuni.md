@@ -12,4 +12,4 @@ summary: "Tehran contact for the Hashemi brothers, head of the Dervish movement,
 [[Iran Najd Rankuni|Rankuni]] was connected with the [[Iranian Revolution]]. However, he did not have direct access to the Supreme Council, which actually called the shots in [[Iran]], and therefore could not set up a serious dialogue between the [[United States|Americans]] and the [[Iran|Iranians]] for the release of the hostages.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

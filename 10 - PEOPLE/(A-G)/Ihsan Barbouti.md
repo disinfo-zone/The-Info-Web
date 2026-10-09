@@ -49,4 +49,4 @@ The former Israeli intelligence officer [[Ari Ben-Menashe]] is the only source f
 [^1]: TK-7 Corp. v. Estate of Barbouti, 993 F.2d 722 (10th Cir. 1993).
 [^2]: Barbouti v. Hearst Corp., 927 S.W.2d 37 (Tex. App. 1996), reproducing Urban, Jerry. "Letter triggers new probe of Barbouti," *Houston Chronicle,* February 21, 1992, and "Barbouti's son found liable in technology theft scheme," *Houston Chronicle,* March 6, 1992.
 [^3]: Timmerman, Kenneth R. *The Death Lobby: How the West Armed Iraq*. Houghton Mifflin, 1991, pp. 264-273, 296, and note at p. 412.
-[^4]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^4]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

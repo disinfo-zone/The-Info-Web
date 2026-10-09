@@ -15,4 +15,4 @@ In May 1986, [[Ari Ben-Menashe]] provided [[Raji Samghabadi|Samghabadi]] with de
 [[Raji Samghabadi|Samghabadi]] was later a witness for [[Ari Ben-Menashe]] in his trial for arms dealing. Despite suffering from frayed nerves, he testified, confirming that [[Ari Ben-Menashe|Ben-Menashe]] had informed him about the [[Iran-Contra Affair]] prior to its public exposure. He also made a memorable, if excitable, statement during his testimony, highlighting the human cost of the conflict.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -44,7 +44,7 @@ Gerald Bull was named as an enemy of the state by an Israeli intelligence commit
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 16.
 [^3]: Timmerman, Kenneth R. *The Death Lobby: How the West Armed Iraq*. Houghton Mifflin, 1991, pp. 96-97, 283-284, 298-299.
 [^4]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq*. Bantam, 1993, pp. 78-79, 116, 250.

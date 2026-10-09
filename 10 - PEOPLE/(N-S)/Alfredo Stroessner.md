@@ -21,4 +21,4 @@ In September 1988, [[Ari Ben-Menashe]] met with [[Alfredo Stroessner|Stroessner]
 [[Alfredo Stroessner|Stroessner]] was aware of a plotted coup against him by [[Andres Rodriguez|Gen. Andres Rodriguez]], supported by the [[Central Intelligence Agency|CIA]]. Despite his efforts to neutralize Rodriguez, the coup took place on February 2, 1989, leading to Stroessner's overthrow. He had promised [[Ari Ben-Menashe|Ben-Menashe]] that the [[Carlos Cardoen|Cardoen]] plant would be closed, and had received small arms from [[Israel]] as part of the agreement.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

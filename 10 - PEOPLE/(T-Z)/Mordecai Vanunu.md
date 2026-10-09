@@ -82,7 +82,7 @@ In April 1987 British police found an arms cache kept by [[Ismail Sowan]], a Pal
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Faber and Faber, 1991, pp. 313-314.
 [^3]: United Press International, report on the dismissal of Nicholas Davies, October 29, 1991.
 [^4]: Cohen, Yoel. *The Whistleblower of Dimona: Israel, Vanunu, and the Bomb*. 2003. https://archive.org/details/the-whistleblower-of-dimona-israel-vanunu-and-the-bomb

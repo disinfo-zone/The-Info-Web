@@ -27,6 +27,8 @@ Peres's diplomatic efforts proved crucial in securing international support for 
 
 Expanding Israel's nuclear partnerships further, Peres initiated military cooperation with [[South Africa]] in 1959. This arrangement involved South Africa selling uranium to Israel and later financing parts of Israel's nuclear program, creating a mutually beneficial relationship that would support Israel's nuclear development for years to come.[^1]
 
+Documents obtained by [[Sasha Polakow-Suransky]] record meetings in March and June 1975 between Peres and [[P.W. Botha]]. According to the [[Mail & Guardian]] article on the minutes, Peres offered the nuclear-capable [[Jericho I]] missiles and their warheads to Botha "in three sizes."[^4] A top secret agreement dated March 30, 1975, signed by Botha and Peres, contains a clause stating that "the very existence of this agreement" is to remain secret.[^5] The office of President Peres has said that "there exists no basis in reality for the claims published this morning by the Guardian" and that "Israel has never negotiated the exchange of nuclear weapons with South Africa."[^6]
+
 ### Controversies and Covert Operations
 
 Peres's career was not without scandal. In 1976, a telegram intercepted by [[Unit 8200]] revealed details of bribes paid by a [[Lockheed Aircraft Company|Lockheed]] representative in Israel to Defense Minister Peres. The sum involved was $3.5 million, deposited in one of Peres's brother's business accounts in [[Europe]]. This damaging information, discovered by [[Ari Ben-Menashe]], was subsequently covered up by Israeli military intelligence superiors.[^1]
@@ -41,6 +43,8 @@ During this period, Peres sought to expand Israel's involvement in international
 
 Despite his involvement in these controversial arms dealings, Peres also supported diplomatic initiatives, including the idea of a peace conference with the [[Palestinians]]. However, this proposal was blocked by Yitzhak Shamir and the Likud Party, reflecting the ongoing political tensions within Israel's coalition government.[^1]
 
+According to [[Haaretz]], when [[Avraham Tamir]], director general of the Prime Minister's Office, appointed [[Shimon Levinson]] chief security officer in May 1985, those who recommended Levinson included Peres, then prime minister. Levinson was arrested in May 1991 and sentenced to 12 years for spying for the [[KGB]].[^7]
+
 ### Later Political Developments
 
 The legacy of Peres's covert operations continued to create complications even after his prime ministerial tenure. Nir's death in 1988 was believed by Israeli intelligence to be a [[Central Intelligence Agency|CIA]] operation to prevent his testimony from embarrassing Peres, [[Ronald Reagan]], or [[George H.W. Bush]], highlighting the international ramifications of the arms trading networks Peres had helped establish.[^1]
@@ -49,6 +53,10 @@ Peres's long political career eventually faced a significant setback in 1992, wh
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. 
+[^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015). 
 [^2]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 2.
 [^3]: Hersh, Seymour M. _The Samson Option: Israel\'s Nuclear Arsenal and American Foreign Policy_. Random House, 1991, p. 62 (creation of the Office of Special Tasks, Blumberg as director) and p. 205 (renamed the Science Liaison Bureau, LAKAM, in the mid-1970s). https://archive.org/details/Sampson_Option
+[^4]: Chris McGreal, "Revealed: How Israel offered to sell SA nuclear weapons," *Mail & Guardian*, May 24, 2010. https://mg.co.za/article/2010-05-24-revealed-how-israel-offered-to-sell-sa-nuclear-weapons
+[^5]: South African History Archive, "Declassified documents on apartheid South Africa-Israel talks on nuclear weapons," May 25, 2010, SAHA Collection AL2878, item A3.2.1. https://www.saha.org.za/news/2010/May/declassified_documents_on_apartheid_south_africa_israel_talks_on_nuclear_weapons.htm
+[^6]: "Israel denies 'nuclear exchange' talks with SA," *Mail & Guardian*, May 24, 2010 (AFP). https://mg.co.za/article/2010-05-24-israel-denies-nuclear-exchange-talks-with-sa/
+[^7]: Yossi Melman, "Why did a top Israeli intelligence officer join the KGB?," *Haaretz*, November 12, 2009. https://www.haaretz.com/1.5056541

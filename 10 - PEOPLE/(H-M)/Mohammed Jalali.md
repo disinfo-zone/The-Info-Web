@@ -19,4 +19,4 @@ In late 1985, [[Mohammed Jalali|Jalali]] was part of a faction within the [[Iran
 [[Mohammed Jalali|Jalali]] is mentioned as being retired and living in [[Iran]] with a second home in [[London]] as of 1992.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

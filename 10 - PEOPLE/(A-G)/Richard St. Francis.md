@@ -13,4 +13,4 @@ In April 1989, [[Richard St. Francis|St. Francis]] was involved in a deal to sel
 [[Richard St. Francis|St. Francis]] was arrested in April 1989 and later indicted for conspiracy to defraud the [[United States|United States]], cover up illegal dealings, and attempt to sell three planes to [[Iran]] in violation of federal laws. He was a co-defendant with [[Ari Ben-Menashe]] in the trial, though his case was later severed.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

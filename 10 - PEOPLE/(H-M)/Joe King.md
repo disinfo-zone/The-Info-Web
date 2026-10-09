@@ -10,4 +10,4 @@ summary: "U.S. Customs Service agent involved in the Hashemi sting operation tar
 [[Joe King|King]] and his partner, Romeo, contacted [[Cyrus Hashemi]] and contrived an illegal frame-up. [[Cyrus Hashemi|Hashemi]] was to be the bait and the trap, allowing his phone to be tapped and himself to be wired. [[Joe King|King]] was also present at [[Cyrus Hashemi|Hashemi's]] [[London]] apartment shortly before [[Cyrus Hashemi|Hashemi]] was found dead, a death attributed to a sudden case of virulent leukemia, though [[Israel|Israeli]] intelligence suspected foul play.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

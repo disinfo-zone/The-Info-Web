@@ -19,4 +19,4 @@ In December 1980, $40 million in bank checks, part of a $56 million payment for 
 Profits from the sales of tires and wheelbases to [[Iran]] ($956,000) were also deposited into [[Banque Worms]] to initiate the slush fund. [[Ari Ben-Menashe]] later opened a special account at [[Banque Worms]] for these profits.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

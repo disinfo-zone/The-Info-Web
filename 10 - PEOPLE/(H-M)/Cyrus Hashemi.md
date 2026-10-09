@@ -20,4 +20,4 @@ location: "Iran"
 [[Cyrus Hashemi|Hashemi]] was found dead in his [[London]] apartment, with his death attributed to a sudden case of virulent leukemia. However, [[Israel|Israeli]] intelligence suspected foul play, noting the presence of [[Joe King]], a [[U.S. Customs|Customs]] officer, at his apartment shortly before his death and needle punctures on his elbow joint. Tapes of his phone calls to the [[United States|U.S.]] Attorney's office indicated a falling out with his controllers.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

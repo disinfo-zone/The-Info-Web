@@ -16,4 +16,4 @@ location: "Koboko, Uganda"
 Relations between [[Israel]] and [[Uganda]] deteriorated after [[Muammar Qaddafi|Col. Muammar Qaddafi]] of [[Libya]] promised money to black [[Africa|African]] nations if they cut ties with [[Israel]]. Despite this, [[Idi Amin|Amin]] still wore the paratrooper's wings bestowed on him by the [[Israel|Israeli]] military during his training in [[Israel]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

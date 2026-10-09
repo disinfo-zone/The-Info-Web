@@ -11,4 +11,4 @@ summary: "After Ben-Menashe's arrest, Magori was contacted by Leon Siff and trav
 After [[Ari Ben-Menashe|Ben-Menashe's]] arrest, [[Ann Magori|Magori]] was contacted by [[Leon Siff]] and traveled to [[Los Angeles]] to see [[Ari Ben-Menashe|Ben-Menashe]] in jail. She expressed suspicion about [[Leon Siff|Siff]] and his friends' involvement with the [[United States|American]] government, warning [[Ari Ben-Menashe|Ben-Menashe]] to be careful.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

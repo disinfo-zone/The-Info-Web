@@ -17,5 +17,5 @@ He was informed by the [[Soviet Union|Soviets]] about [[Israel|Israel's]] attitu
 [[Anwar Sadat|Sadat]] and [[Menachem Begin]] later developed a face-saving formula over the Palestinian issue, leading to the [[Camp David summit|Camp David Accords]]. [[Anwar Sadat|Sadat]] was primarily interested in regaining the [[Sinai Desert|Sinai]] for [[Egypt]] and was not keen on the [[Gaza Strip]] due to its large Palestinian population.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.

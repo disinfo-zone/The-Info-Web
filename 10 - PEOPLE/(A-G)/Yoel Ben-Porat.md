@@ -15,4 +15,4 @@ Colonel [[Yoel Ben-Porat]], known as Buffy, was the unit commander of [[Unit 820
 [[Yoel Ben-Porat|Buffy]] was involved in the cover-up of the [[Lockheed Aircraft Company|Lockheed]] bribe scandal involving [[Shimon Peres]], after [[Ari Ben-Menashe]] intercepted a telegram detailing the bribe. He ordered the original telegram, translation, and log to be erased and transferred the young woman working with [[Ari Ben-Menashe]] to another unit.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

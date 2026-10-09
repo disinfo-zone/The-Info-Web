@@ -30,11 +30,13 @@ Old-fashioned military men like [[Yigal Allon]] and [[Yitzhak Rabin]] initially 
 
 ### Implementation and Implications
 
-By early 1968, Moshe Dayan unilaterally pushed [[Dimona]] into full-scale production, leading to the manufacture of four or five warheads a year. This decision was made without a formal cabinet resolution, but was widely applauded by the top layer of national security officials. The first assembly line bomb was reportedly welded with the phrase: "NEVER AGAIN."[^1]
+In December 1963, [[Shimon Yiftach]], whom Seymour Hersh identified as director of scientific programs for the Israeli defense ministry, publicly told a group of Israeli science writers that the advanced reactor at [[Dimona]] would produce plutonium as a by-product and that the government had no plans for a separate plant to chemically reprocess it. Hersh wrote that Yiftach "knew that French construction companies had started up once again on the underground reprocessing plant at Dimona."[^8]
+
+By early 1968, Moshe Dayan unilaterally pushed Dimona into full-scale production, leading to the manufacture of four or five warheads a year. This decision was made without a formal cabinet resolution, but was widely applauded by the top layer of national security officials. The first assembly line bomb was reportedly welded with the phrase: "NEVER AGAIN."[^1]
 
 The Samson Option implies a strategy of deliberate ambiguity regarding Israel's nuclear capabilities. This "bomb in the basement" approach aimed to deter potential adversaries without explicitly confirming possession, thereby avoiding international condemnation and a regional nuclear arms race. However, this ambiguity also led to constant international pressure and scrutiny, particularly from the United States, which sought to prevent nuclear proliferation.[^1]
 
-During the desperate early days of the 1973 [[Yom Kippur War]], faced with the imminent collapse of Israeli forces, the leadership resolved to arm and target its nuclear arsenal as a last resort, implementing the Samson Option. This drastic step was also intended to force the United States to begin an immediate and massive resupply of the Israeli military. The initial target list included Egyptian and Syrian military headquarters. While no weapons were targeted on the [[Soviet Union]], it was understood that the Soviets would quickly learn of the nuclear arming.[^8]
+During the desperate early days of the 1973 [[Yom Kippur War]], faced with the imminent collapse of Israeli forces, the leadership resolved to arm and target its nuclear arsenal as a last resort, implementing the Samson Option. This drastic step was also intended to force the United States to begin an immediate and massive resupply of the Israeli military. The initial target list included Egyptian and Syrian military headquarters. While no weapons were targeted on the [[Soviet Union]], it was understood that the Soviets would quickly learn of the nuclear arming.[^9]
 
 ### Footnotes
 
@@ -42,7 +44,8 @@ During the desperate early days of the 1973 [[Yom Kippur War]], faced with the i
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Author's Note.
 [^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 2.
 [^4]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 3.
-[^5]: Cohen, Avner. "Israel's Secret Plan to Nuke the Egyptian Desert." *Politico Magazine*, June 5, 2017, republished by the Center for Nonproliferation Studies. https://nonproliferation.org/israels-secret-plan-to-nuke-the-egyptian-desert/. Sole source for the passages so cited; Cohen relays the testimony of Ya'akov.
+[^5]: Cohen, Avner. "Israel's Secret Plan to Nuke the Egyptian Desert." *Politico Magazine*, June 5, 2017, republished by the Center for Nonproliferation Studies. https://nonproliferation.org/israels-secret-plan-to-nuke-the-egyptian-desert/. Cohen relays the testimony of Ya'akov.
 [^6]: Wilson Center, "Wilson Center Archive Sheds New Light on 1967 Six-Day War," June 5, 2017. https://www.wilsoncenter.org/article/wilson-center-archive-sheds-new-light-1967-six-day-war
 [^7]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 305, Paper Submitted by the Control Group, undated (dated June 17, 1967 by the editors), with annex. https://history.state.gov/historicaldocuments/frus1964-68v19/d305
-[^8]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.
+[^8]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, chapter 10, p. 130.
+[^9]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.

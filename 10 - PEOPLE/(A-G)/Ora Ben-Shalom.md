@@ -20,4 +20,4 @@ In August 1987, [[Ora Ben-Shalom|Ora]] was put under surveillance and interrogat
 In October 1989, [[Ora Ben-Shalom|Ora]] and [[Ari Ben-Menashe]] planned a vacation to [[Sydney]], [[Australia]]. However, [[Ari Ben-Menashe|Ben-Menashe]] was arrested in [[Los Angeles]] before they could depart. [[Ora Ben-Shalom|Ora]] later divorced [[Ari Ben-Menashe]] in [[Israel]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

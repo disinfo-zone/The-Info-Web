@@ -11,4 +11,4 @@ summary: "Owner of Software and Engineering Consultants in Chatsworth, Californi
 [[Rafael Eitan|Rafi]] selected Ben-Hanan to develop a "trap door" for the [[PROMIS]] software, which would allow external access to the computers of intelligence agencies using the program. Ben-Hanan was given blueprints and set about his work for a $5,000 fee, unaware of the true purpose of the project.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

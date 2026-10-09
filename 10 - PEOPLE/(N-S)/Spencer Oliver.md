@@ -15,6 +15,6 @@ On January 10, 1992, Oliver, chief counsel of the House Foreign Affairs Committe
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: U.S. House of Representatives, *Congressional Record*, February 4, 1992, pp. H253 and following (announcement by Representative McEwen; reprinted letter of January 10, 1992; amended memorandum and order of the Eastern District of New York). https://irp.fas.org/congress/1992_cr/h920204-october.htm
 [^3]: Reprinted article quoted in the same Congressional Record volume (Stoffberg defense account), above. Sole source for the Hyde quotation as reproduced in that article.

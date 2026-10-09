@@ -21,4 +21,4 @@ In 1988, [[Ari Ben-Menashe]] met [[Mark Thatcher|Thatcher]] in [[Santiago]], [[C
 [[Mark Thatcher|Thatcher]] was involved in the sale of 48 [[Chieftain tanks]] to [[Chile]] after the [[Falklands War]]. He was also linked to [[Ihsan Barbouti]] and [[Sarcis Sargalian]] in projects supplying [[Iraq]] with military equipment. [[Richard Babayan]], a [[Central Intelligence Agency|CIA]] contract agent, also controlled a network providing equipment for [[Iraq]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

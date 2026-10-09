@@ -13,4 +13,4 @@ Brigadier General [[Uri Simchoni]] was a member of the [[Iran-Israel Joint Commi
 [[Uri Simchoni|Simchoni]] was part of the [[Israel|Israeli]] delegation at the October 1980 [[Paris Summit Meeting]], which included [[George H.W. Bush]], [[William J. Casey]], and [[Mehdi Karrubi]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

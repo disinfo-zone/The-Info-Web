@@ -22,4 +22,4 @@ In 1986, El Al was the target of a "black" propaganda operation orchestrated by 
 In 1988, El Al's first-class lounge at [[Heathrow Airport]] was the meeting place for [[Ari Ben-Menashe]] and [[David Ivry]], director general of [[Israel|Israel]]'s Ministry of Defense, to discuss the sale of C-130s to [[Iran]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

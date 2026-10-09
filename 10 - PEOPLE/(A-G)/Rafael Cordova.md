@@ -12,4 +12,4 @@ Colonel [[Rafael Cordova]] was the head of military operations in [[Ayacucho]], 
 [[Rafael Cordova|Cordova]] was known for his brutal tactics against the [[Shining Path]]. After five of his officers were killed in a [[Shining Path]] ambush, he planned to massacre a village in retaliation. [[Ari Ben-Menashe]] attempted to prevent this by having [[Barbara Durr]] broadcast the plan, but the massacre proceeded, resulting in the deaths of dozens of innocent villagers. [[Rafael Cordova|Cordova]] was later implicated in the murder of a judge who was investigating the massacre, and two military helicopters were shot down by [[Stinger missiles]] that [[Rafael Cordova|Cordova]] had sold to the [[Shining Path]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

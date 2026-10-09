@@ -27,4 +27,4 @@ The former Israeli intelligence officer [[Ari Ben-Menashe]] wrote that the Hunt 
 [^3]: Hurt, Harry, III. *Texas Rich: The Hunt Dynasty from the Early Oil Days through the Silver Crash*. W.W. Norton, 1981, pp. 356-359.
 [^4]: Minpeco, S.A. v. Hunt, 718 F. Supp. 168 (S.D.N.Y. 1989).
 [^5]: McFadden, Robert D. "Nelson Bunker Hunt, 88, Oil Tycoon With a Texas-Size Presence, Dies," *The New York Times,* October 22, 2014.
-[^6]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^6]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

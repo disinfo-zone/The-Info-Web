@@ -14,4 +14,4 @@ In September 1988, [[Ari Ben-Menashe]] visited the plant and met [[Hans Mayers|M
 [[Hans Mayers|Mayers]] was later identified as one of the 19 individuals eliminated in late 1988 by [[Mossad]] hit squads, composed of unsuspecting Palestinians, as part of an [[Israel|Israeli]] operation to stop the flow of chemical weapons technology to [[Iraq]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

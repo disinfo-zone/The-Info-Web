@@ -15,4 +15,4 @@ In December 1980, $4 million, part of a larger $56 million payment for the relea
 [[Valley National Bank of Arizona|Valley National Bank]] was also one of the [[United States|U.S.]] banks through which letters of credit for arms sales to [[Iran]] were routed, along with [[Chicago-Tokyo Bank]], [[Chemical Bank]], and [[Bank One]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

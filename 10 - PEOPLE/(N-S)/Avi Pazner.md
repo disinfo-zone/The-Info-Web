@@ -19,4 +19,4 @@ summary: "Spokesman and national security adviser to Israeli PM Yitzhak Shamir, 
 [[Avi Pazner|Pazner]] was hounded by the press about the [[Israel|Israeli]] government's lies regarding [[Ari Ben-Menashe|Ben-Menashe's]] employment. He was also involved in the decision to transfer [[Central Intelligence Agency|CIA]] money, which was under [[Israel|Israeli]] control, to the [[East Bloc]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

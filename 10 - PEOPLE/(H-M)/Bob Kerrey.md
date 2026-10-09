@@ -59,7 +59,7 @@ relations:
     with: "[[Fulbright University Vietnam]]"
     role: "chairman of the board of trustees"
     start: 2016-05-16
-    fn: 110
+    fn: 114
   - type: member_of
     with: "[[United States Senate]]"
     start: 1989
@@ -93,16 +93,17 @@ relations:
   - type: employed_by
     with: "[[Carmen Group]]"
     start: 2013-04
-    fn: 108
+    fn: 112
   - type: head_of
-    with: "[[Minerva Project]]"
-    role: "executive chairman, per a LinkedIn update to Epstein of August 12, 2013"
-    start: 2013-08
-    fn: 88
+    with: "[[The Minerva Institute for Research and Scholarship]]"
+    role: "executive chairman"
+    start: 2013-01-14
+    fn: 105
   - type: member_of
     with: "[[Minerva Project]]"
-    role: "advisory board, per an undated Minerva overview in the Epstein files"
-    fn: 49
+    role: "advisory board"
+    start: 2011
+    fn: 105
 ---
 
 Joseph Robert "Bob" Kerrey (J. Robert Kerrey, born August 27, 1943[^1]) is a former [[United States Navy]] SEAL officer who served as [[Governor of Nebraska]] and as a [[United States Senate|United States Senator]] from Nebraska, and who was president of the [[New School for Social Research]] from January 2001 to December 2010.[^1][^2] He was vice chairman of the [[Senate Select Committee on Intelligence]] in the 105th Congress (1997 to 1998), co-chaired the [[National Commission for the Review of the National Reconnaissance Office]] in 2000, and sat on the [[National Commission on Terrorist Attacks upon the United States]] from 2003 to 2004.[^3] He sat on the boards of [[Tenet Healthcare]], [[Genworth Financial]], [[Jones Apparel Group]] and, according to Tenet's 2001 proxy statement, the board of trustees of [[The Aerospace Corporation]].[^4]
@@ -173,7 +174,7 @@ In May 2009 Kerrey announced that he would step down once a successor was named.
 
 A list of invitees for a September 16 dinner that the publicist [[Peggy Siegal]] sent [[Jeffrey Epstein]] on August 10, 2010 under the subject "Sept. 16 dinner" includes Kerrey and his wife.[^46]
 
-Kerrey first appears in the scheduling records on February 21, 2013. [[Stephen M. Kosslyn]], then director of the Center for Advanced Study in the Behavioral Sciences at [[Stanford University]], wrote to Epstein's scheduler [[Lesley Groff]] about a lunch the next day: "Would noon work?" and "Ben wants to bring Senator Bob Kerrey with him. Would that be OK with JEE?" Groff answered: "Jeffrey says YES to all! 12:00 and bring along Sen. Bob Kerrey".[^47] The schedule for Friday, February 22 lists "12:00pm Lunch w/Professor Kosslyn, Ben Nelson and Senator Bob Kerrey", and a calendar reminder for the day reads "12:00 Lunch w/Professor Kosslyn, Ben Nelson and Sen Bob Kerrey".[^48] The Ben of the exchange is [[Ben Nelson]], the founder and chief executive of the [[Minerva Project]], whose seed investment from [[Benchmark Capital]] was $25 million in 2012.[^49] Kosslyn wrote to Epstein that evening, weighing a position with the project, that he was "absolutely torn by the situation", that "the rest of the team is A+", and that Kerrey was "really terrific". Epstein replied on February 22: "i see little downside , in taking it, but having all the money you need up front".[^50]
+Kerrey first appears in the scheduling records on February 21, 2013. [[Stephen Kosslyn|Stephen M. Kosslyn]], then director of the Center for Advanced Study in the Behavioral Sciences at [[Stanford University]], wrote to Epstein's scheduler [[Lesley Groff]] about a lunch the next day: "Would noon work?" and "Ben wants to bring Senator Bob Kerrey with him. Would that be OK with JEE?" Groff answered: "Jeffrey says YES to all! 12:00 and bring along Sen. Bob Kerrey".[^47] The schedule for Friday, February 22 lists "12:00pm Lunch w/Professor Kosslyn, Ben Nelson and Senator Bob Kerrey", and a calendar reminder for the day reads "12:00 Lunch w/Professor Kosslyn, Ben Nelson and Sen Bob Kerrey".[^48] The Ben of the exchange is [[Ben Nelson]], the founder and chief executive of the [[Minerva Project]], whose seed investment from [[Benchmark Capital]] was $25 million in 2012.[^49] Kosslyn wrote to Epstein that evening, weighing a position with the project, that he was "absolutely torn by the situation", that "the rest of the team is A+", and that Kerrey was "really terrific". Epstein replied on February 22: "i see little downside , in taking it, but having all the money you need up front".[^50]
 
 On February 27, 2013 Epstein wrote to Kosslyn: "i have bill gates at the house tonight after 10.. does bob kerry know bill, how well, would he like to come", and Kosslyn returned an address for Kerrey.[^51] Epstein wrote to Kerrey the same day: "bob, do you know bill gates.? He will be at my house , and i wondered if you would like to stop by?" Kerrey answered the next morning: "I just picked this up. I flew to Dallas yesterday and then on to California. I won't return until next Thursday. Sorry. I do know Bill Gates; not well but we've met a few times. Invite me again! I enjoyed meeting and talking to you. Thanks." Epstein replied: "sorry , you would have made a positve difference in the conversation on education. I will return on the 19 th and 20th if you are free ,".[^52] On March 1 Kerrey wrote to Epstein under the subject "Better email": "Jeff I respond faster to text. This is a better email." Epstein answered "great.. i will return to ny the 19th, but could speak on the phone before", and Kerrey wrote: "I head to Belize with my family on 3/17 and return on 3/24." He proposed meeting after his return.[^53] On March 12 Groff asked Epstein: "Did you want me to touch base with Bob Kerrey of the Minvera Project and see if he might be free 19th, 20th?", and Epstein replied "ok".[^54] Kerrey wrote to Groff on March 13: "I am sorry (actually I am not sorry!) but I will be in Belize with my family next week. Please, tell Jeffrey thanks for the offer to get together again. I do look forward to continuing our conversations."[^55]
 
@@ -199,19 +200,25 @@ On September 15 Epstein wrote to Kosslyn, then dean of the Minerva School of Art
 
 On September 28, 2014 Epstein wrote to Kerrey: "boris nikolic really enjoyed your meeting". Kerrey replied that night: "He's first rate. Are you gong to invest in his fund? When is our next encounter?" On September 29 Epstein asked: "what was your candid view of fund? kept in confidence". Kerrey wrote on September 30: "I believe Boris has the intellect and experience to separate the scientific wheat from the chaff but I do not know if he or his team can separate the leaders who can take a great idea and make it profitable from those who cannot. My understanding if that Bill Gates track record in this space is not very good."[^104] The Boris of the exchange is [[Boris Nikolic]], named in full in Epstein's first message.
 
+### The Minerva Institute
+
+Kerrey was named executive chairman of The Minerva Institute for Research and Scholarship on January 14, 2013, when the company announced the Institute as a non-profit body to "reinforce Minerva's commitment to offer exceptional educational experiences to deserving students and enable the advancement of faculty research."[^105] The release describes Kerrey as "President Emeritus" of the New School, where he "served as president of the university from 2001 to 2010," and says that in 2011 he joined the Minerva Project's advisory board.[^105] Kerrey is quoted in the release: "I believe the Minerva Project is the single most important innovation in higher education in my lifetime."[^105] The same release names [[Larry Summers]] as "chairman of Minerva's Advisory Board" and states that Minerva "will not rely on the federal government for assistance."[^105]
+
+The company's release of April 4, 2012 had already listed Kerrey, "Formerly President of the New School, Senator and Governor of Nebraska, and Medal of Honor-winning Navy SEAL," on the advisory board with [[Patrick Harker]] and [[Lee Shulman]] under Summers as chairman, and quotes him: "I believe that it is the single most important innovation in higher education in my lifetime."[^106] On November 11, 2014 the Institute, "led by Executive Chairman Bob Kerrey," announced the appointment of [[Stacey Childress]] and [[Michael Horn]] to its board.[^107] Minerva's Institute page of 2021 lists Kerrey as chairman, and its 2023 Board of Trustees page lists him as chair emeritus; [[Yiming Zhang]] of [[ByteDance]] is listed as a board member on both.[^108] An undated Minerva overview in the Epstein files lists the advisory board as including Harker, Kerrey and Shulman.[^49]
+
 ### Later career
 
 Kerrey served on the board of Tenet Healthcare from March 2001 to March 2012. Tenet's proxy statement of August 2001 lists him as a director on its ethics, quality and compliance and nominating committees and states that he sat on the boards of [[infoUSA]], class.com and the [[Concord Coalition]], and on the board of trustees of The Aerospace Corporation; the 2002 proxy adds Jones Apparel Group.[^4] Tenet announced his return on November 30, 2012, as an independent director on its audit and compensation committees. Its chief executive [[Trevor Fetter]] said: "His wisdom and insight have been invaluable to Tenet's board through the years."[^20]
 
-Genworth Financial's 2005 proxy statement lists Kerrey as a director since 2004 and a member of its audit committee, and gives his Jones Apparel and Tenet directorships. He resigned from the Genworth board effective March 14, 2012, "in order to pursue his campaign for the United States Senate representing the state of Nebraska," according to the company's filing.[^19][^105]
+Genworth Financial's 2005 proxy statement lists Kerrey as a director since 2004 and a member of its audit committee, and gives his Jones Apparel and Tenet directorships. He resigned from the Genworth board effective March 14, 2012, "in order to pursue his campaign for the United States Senate representing the state of Nebraska," according to the company's filing.[^19][^109]
 
-Kerrey ran for the Senate seat in 2012 against the Republican state senator [[Deb Fischer]]. As early returns came in on November 6, 2012, Fischer's lead grew "to a 58 to 42 percent margin as the evening wore on."[^106] The Federal Election Commission's candidate totals for Kerrey's 2012 Senate committee show receipts of $5,798,058 and disbursements of $5,662,682.[^107]
+Kerrey ran for the Senate seat in 2012 against the Republican state senator [[Deb Fischer]]. As early returns came in on November 6, 2012, Fischer's lead grew "to a 58 to 42 percent margin as the evening wore on."[^110] The Federal Election Commission's candidate totals for Kerrey's 2012 Senate committee show receipts of $5,798,058 and disbursements of $5,662,682.[^111]
 
-In April 2013 Kerrey joined the government affairs firm [[Carmen Group]]. [[The Hill]] reported on April 22, 2013 that the firm had earned $7.3 million in lobbying fees the previous year, according to the [[Center for Responsive Politics]], that many of its clients were state and local entities or governments, and quoted the firm's founder, [[David Carmen]], as saying Kerrey "has a wealth of experience in business, education and public service at the state and federal level." Kerrey said in a statement: "I have known David Carmen for more than ten years."[^108]
+In April 2013 Kerrey joined the government affairs firm [[Carmen Group]]. [[The Hill]] reported on April 22, 2013 that the firm had earned $7.3 million in lobbying fees the previous year, according to the [[Center for Responsive Politics]], that many of its clients were state and local entities or governments, and quoted the firm's founder, [[David Carmen]], as saying Kerrey "has a wealth of experience in business, education and public service at the state and federal level." Kerrey said in a statement: "I have known David Carmen for more than ten years."[^112]
 
-Kerrey was under contract to serve as president emeritus of the New School through 2016. He resigned that post in February 2013, calling the decision "largely mutual."[^109]
+Kerrey was under contract to serve as president emeritus of the New School through 2016. He resigned that post in February 2013, calling the decision "largely mutual."[^113]
 
-In May 2016 Kerrey was named chairman of the board of trustees of [[Fulbright University Vietnam]], a university promoted by the [[Trust for University Innovation in Vietnam]]. [[Thomas J. Vallely]], the trust's chairman, called him "the ideal candidate for the job." Asia Times reported that the appointment was reportedly made on May 16, and that it angered some people in Vietnam after the online news outlet [[Zing]] published a story on Kerrey's role at Thanh Phong on May 30. [[Barack Obama]], speaking in Ho Chi Minh City on May 25, called Kerrey "one of the key people to help lead" the project. In a piece published by Zing on June 1, the former Vietnamese ambassador to the European Union and Belgium, [[Ton Nu Thi Ninh]], wrote that she was "extremely stunned" by the decision.[^110]
+In May 2016 Kerrey was named chairman of the board of trustees of [[Fulbright University Vietnam]], a university promoted by the [[Trust for University Innovation in Vietnam]]. [[Thomas J. Vallely]], the trust's chairman, called him "the ideal candidate for the job." Asia Times reported that the appointment was reportedly made on May 16, and that it angered some people in Vietnam after the online news outlet [[Zing]] published a story on Kerrey's role at Thanh Phong on May 30. [[Barack Obama]], speaking in Ho Chi Minh City on May 25, called Kerrey "one of the key people to help lead" the project. In a piece published by Zing on June 1, the former Vietnamese ambassador to the European Union and Belgium, [[Ton Nu Thi Ninh]], wrote that she was "extremely stunned" by the decision.[^114]
 
 ### Footnotes
 
@@ -319,9 +326,13 @@ In May 2016 Kerrey was named chairman of the board of trustees of [[Fulbright Un
 [^102]: Email exchange between Jeffrey Epstein and Stephen M. Kosslyn, September 15, 2014, EFTA00996897 and EFTA00704445, U.S. Department of Justice, Epstein Library, Data Set 9. https://www.justice.gov/epstein/files/DataSet%209/EFTA00704445.pdf
 [^103]: Email exchange between Bob Kerrey and Jeffrey Epstein, "Brunch," September 16, 2014, EFTA02590688, EFTA02590901 and EFTA02591244, U.S. Department of Justice, Epstein Library, Data Set 11; forwarded to Kosslyn, EFTA00996971, Data Set 9. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02591244.pdf
 [^104]: Email exchange between Jeffrey Epstein and Bob Kerrey, September 28 to 30, 2014, EFTA00997847 and EFTA00997848, Data Set 9, and EFTA02516727, Data Set 11, U.S. Department of Justice, Epstein Library. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02516727.pdf
-[^105]: Genworth Financial, Form 8-K, March 2012, reporting that J. Robert Kerrey resigned from the board effective March 14, 2012. https://investor.genworth.com/sec-filings/all-sec-filings/content/0001193125-12-119695/d308983d8k.htm
-[^106]: Fred Knapp, "Fischer defeats Kerrey for Nebraska U.S. Senate seat," Nebraska Public Media, November 7, 2012. https://nebraskapublicmedia.org/en/news/news-articles/fischer-defeats-kerrey-for-nebraska-us-senate-seat/
-[^107]: Federal Election Commission, candidate totals for Kerrey's 2012 Senate committee (candidate ID S8NE00067), 2012 cycle, via the FEC open data API. https://api.open.fec.gov/v1/candidate/S8NE00067/totals/?cycle=2012
-[^108]: Megan R. Wilson, "Former Sen. Bob Kerrey joins government affairs firm," The Hill, April 22, 2013. https://digital-release.thehill.com/?p=148312
-[^109]: "Bob Kerrey resigns from controversial president emeritus post at New School," Higher Ed Dive, February 4, 2013. https://www.highereddive.com/news/bob-kerrey-resigns-from-controversial-president-emeritus-post-at-new-school/96160/
-[^110]: "Vietnam's Kerrey dilemma: Fulbright U appointment is lightning rod for US ties," Asia Times, June 2016. https://asiatimes.com/2016/06/vietnams-kerrey-dilemma-fulbright-u-appointment-is-lightning-rod-for-us-ties/
+[^105]: PR Newswire, "Minerva Project Launches The Minerva Institute for Research and Scholarship; Appoints Former Senator of Nebraska Bob Kerrey as Executive Chairman of the Institute," January 14, 2013. https://prnewswire.com/news-releases/minerva-project-launches-the-minerva-institute-for-research-and-scholarship-appoints-former-senator-of-nebraska-bob-kerrey-as-executive-chairman-of-the-institute-186768111.html
+[^106]: Minerva Project, "The Minerva Project Redefines Elite Higher Education for Students Worldwide; Secures $25 Million from Benchmark Capital," April 4, 2012. https://s3.minervaproject.com/press-releases/Minerva-Project-Redefines-Higher-Education-Secures-25-Million.pdf
+[^107]: Minerva Institute for Research and Scholarship, "Michael Horn and Stacey Childress Appointed to the Board of The Minerva Institute," November 11, 2014. https://s3.amazonaws.com/s3.minervaproject.com/press-releases/Minerva_Institute_Board_Announcement.pdf
+[^108]: Minerva University, "Institute Board Members," page captured September 21, 2021, https://www.minerva.edu/institute-board-members/ ; "Board of Trustees," page captured October 1, 2023, https://www.minerva.edu/board-of-trustees/
+[^109]: Genworth Financial, Form 8-K, March 2012, reporting that J. Robert Kerrey resigned from the board effective March 14, 2012. https://investor.genworth.com/sec-filings/all-sec-filings/content/0001193125-12-119695/d308983d8k.htm
+[^110]: Fred Knapp, "Fischer defeats Kerrey for Nebraska U.S. Senate seat," Nebraska Public Media, November 7, 2012. https://nebraskapublicmedia.org/en/news/news-articles/fischer-defeats-kerrey-for-nebraska-us-senate-seat/
+[^111]: Federal Election Commission, candidate totals for Kerrey's 2012 Senate committee (candidate ID S8NE00067), 2012 cycle, via the FEC open data API. https://api.open.fec.gov/v1/candidate/S8NE00067/totals/?cycle=2012
+[^112]: Megan R. Wilson, "Former Sen. Bob Kerrey joins government affairs firm," The Hill, April 22, 2013. https://digital-release.thehill.com/?p=148312
+[^113]: "Bob Kerrey resigns from controversial president emeritus post at New School," Higher Ed Dive, February 4, 2013. https://www.highereddive.com/news/bob-kerrey-resigns-from-controversial-president-emeritus-post-at-new-school/96160/
+[^114]: "Vietnam's Kerrey dilemma: Fulbright U appointment is lightning rod for US ties," Asia Times, June 2016. https://asiatimes.com/2016/06/vietnams-kerrey-dilemma-fulbright-u-appointment-is-lightning-rod-for-us-ties/

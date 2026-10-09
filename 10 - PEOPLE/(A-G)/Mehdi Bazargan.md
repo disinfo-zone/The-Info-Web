@@ -22,4 +22,4 @@ location: "Tehran, Iran"
 [[Earl Brian]] and [[Robert McFarlane]] arranged a meeting with [[Mehdi Bazargan|Bazargan]] in late January 1980 in [[Tehran]] to discuss the hostage situation. [[Mehdi Bazargan|Bazargan]] was still thought to be very close to [[Ayatollah Ruhollah Khomeini|Khomeini]] and [[Mehdi Karrubi|Hojjat El-Islam Mehdi Karrubi]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

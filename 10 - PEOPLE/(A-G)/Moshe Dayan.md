@@ -57,7 +57,7 @@ Despite his military prowess and diplomatic involvement, Dayan's perspective on 
 ### Footnotes
 
 [^1]: Jacobsen, Annie. _Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis_. Little, Brown and Company, 2017. 
-[^2]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. TrineDay, 1992. 
+[^2]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015). 
 [^3]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 3.
 [^4]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 326, Telegram 4311 from the Embassy in Israel (Barbour) to the Department of State, June 27, 1967. https://history.state.gov/historicaldocuments/frus1964-68v19/d326
 [^5]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 14, p. 185, footnote. Sole source for the passages so cited.

@@ -16,4 +16,4 @@ Dunn successfully used [[Ari Ben-Menashe|Ben-Menashe's]] employment records, inc
 Through Dunn's efforts, [[Ari Ben-Menashe|Ben-Menashe]] was released on bail after 11 months and three weeks in jail, and ultimately found not guilty. Dunn's summation to the jury highlighted [[Ari Ben-Menashe|Ben-Menashe's]] role as a victim of both the [[United States|U.S.]] and [[Israel|Israeli]] governments' stonewalling and denials.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

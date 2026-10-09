@@ -12,4 +12,4 @@ location: "Lipno, Poland"
 Meridor became embroiled in a scandal when he, along with [[Joe Peeples]] and a Romanian expatriate, attempted to sell a theoretically feasible but practically impossible solar energy system to the [[Hunt brothers]] of [[Texas]] for $2 million. He also sought a huge loan from the [[Israel|Israeli]] Treasury for this project, publicly announcing it on TV. However, a scientist from the [[Weizmann Institute]] exposed the scheme as a fraud, leading to Meridor losing his job as a cabinet minister and his credibility. His [[Transkei]] operations were also affected, which opened the door for [[Robert Maxwell]] to take over [[Degem]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

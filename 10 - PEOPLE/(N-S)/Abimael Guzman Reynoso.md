@@ -18,4 +18,4 @@ In 1988, [[Ari Ben-Menashe]] traveled to [[Peru]] on a secret mission for [[Yitz
 [[Abimael Guzman Reynoso|Guzmán]] was, according to rumors recounted by [[Ari Ben-Menashe]], dead of cancer in 1990, but he continued to lead the [[Shining Path]]. He was captured in 1992 and was imprisoned.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

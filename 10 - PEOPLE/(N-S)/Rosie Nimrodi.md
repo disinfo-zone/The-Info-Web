@@ -11,4 +11,4 @@ summary: "Iraqi Jewish researcher in New York and distant relative of Yaacov Nim
 [[Rosie Nimrodi|Nimrodi]] had an affair with [[Raji Samghabadi]], a *Time* magazine correspondent, and introduced him to [[Ari Ben-Menashe]]. She typed notes of the [[Oliver North|North]] story from [[Ari Ben-Menashe|Ben-Menashe]] and gave them to other journalists, including [[Stephen Engelberg]] of *[[The New York Times]]*.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

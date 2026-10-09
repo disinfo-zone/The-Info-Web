@@ -14,4 +14,4 @@ location: "Yarmouk Camp, Syria"
 [[Abul Abbas|Abbas]] received orders from [[Mohammed Radi Abdullah]], who was relaying instructions from [[Rafael Eitan|Rafi]]. He was reportedly receiving millions from [[Israel|Israeli]] intelligence officers posing as Sicilian dons. [[Abul Abbas|Abbas]] gathered a team to attack the cruise ship, with instructions to make the attack severe to highlight Palestinian demands.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

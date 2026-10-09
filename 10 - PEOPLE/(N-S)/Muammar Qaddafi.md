@@ -15,4 +15,4 @@ location: "Qasr Abu Hadi, near Sirte, Libya"
 [[Muammar Qaddafi|Col. Qaddafi's]] right-hand man, [[Abdul Salam Jalloud|Maj. Abdul Salam Jalloud]], visited [[Iran]] to congratulate the new regime after the [[Iranian Revolution]]. During his visit, [[Iran|Iranian]] hosts questioned him about the disappearance of [[Sheikh Mussa Sadr]], a Shi'ite leader from southern [[Lebanon]], whom, [[Ari Ben-Menashe]] wrote, the [[Libya|Libyans]] had killed. [[Abdul Salam Jalloud|Jalloud]] was detained for three weeks until [[Muammar Qaddafi|Qaddafi]] personally intervened and spoke to [[Ayatollah Ruhollah Khomeini|Khomeini]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -19,4 +19,4 @@ location: "Birmingham, Alabama"
 [[Miles Copeland|Copeland's]] group, along with the [[Israel|Israeli]] government, sought to prevent the [[Iran|Iranians]] from being defeated in [[Khuzistan]] if [[Iraq]] attacked, and to avoid a repeat of [[Jimmy Carter|President Carter's]] blunders. A meeting between [[Miles Copeland|Copeland]] and [[Israel|Israeli]] intelligence officers, including [[David Kimche]], was held in [[Washington, D.C.]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -18,4 +18,4 @@ Large amounts of money were funneled through his institutions to [[Drexel Burnha
 In 1987, the committee and Schneerson parted ways. This was partly due to questions regarding his allegiance to the [[Likud Party]] and the emergence of the orthodox [[Shas Party]], which was at odds with the Rebbe. Funds previously directed to the Lubavitcher yeshivahs were redirected to the Shas yeshivahs. The committee also decided to withdraw funds from Drexel and from Schneerson's control due to concerns that the funds might be frozen if relations between [[Israel]] and the [[United States|U.S.]] deteriorated, contributing to Drexel's eventual downfall.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

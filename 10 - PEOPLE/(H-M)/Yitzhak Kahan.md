@@ -14,4 +14,4 @@ location: "Brody, Galicia, Austria-Hungary (now Ukraine)"
 As a result of the commission's findings, [[Yehoshua Sagi|Maj. Gen. Sagi]] was removed from office, and [[Ariel Sharon]] was forced to resign as Defense Minister.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

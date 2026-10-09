@@ -18,4 +18,4 @@ In 1988, [[Ari Ben-Menashe]] met with [[Abimael Guzman Reynoso|Guzmán]] to secu
 The [[Shining Path]] controlled significant areas of [[Peru]], particularly outside of [[Ayacucho]]. They were involved in ambushes against the military, and their actions led to the slaughter of innocent villagers by [[Rafael Cordova|Col. Rafael Cordova]] in retaliation. The group also used [[Stinger missiles]] to shoot down military helicopters.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

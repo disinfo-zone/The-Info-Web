@@ -104,5 +104,5 @@ The October Surprise allegation, if substantiated, represents the founding trans
 [^11]: U.S. House of Representatives, *Congressional Record*, October 2, 1992, (H. Res. 585; text and floor statement of Rep. Beilenson). https://irp.fas.org/congress/1992_cr/h921002-october.htm
 [^12]: U.S. Senate, Committee on Foreign Relations, *The October Surprise Allegations and the Circumstances Surrounding the Release of the American Hostages Held in Iran*, Report of the Special Counsel to Senator Terry Sanford and Senator James M. Jeffords, S. Prt. 102-125, November 19, 1992. https://archive.org/details/ReportOfTheSpecialCounselOnTheOctoberSurpriseAllegationsAndTheCircumstancesSurro
 [^13]: Unger, Craig. *Den of Spies*. 2024; Barnes, Ben, interview. *The New York Times*, March 2023.
-[^14]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^14]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^15]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. TrineDay, 2010.

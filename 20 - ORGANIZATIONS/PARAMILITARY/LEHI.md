@@ -17,4 +17,4 @@ location: "Palestine"
 [[LEHI]] members were persecuted and hunted down, even by other Jews in [[Palestine]], due to opposition from the British, [[United States|U.S.]] governments, and the Jewish labor movement. Most individuals affiliated with the [[Stern Gang]] were not welcomed in the State of [[Israel]] after its establishment. [[Yitzhak Shamir]] was an exception, becoming a prominent figure in [[Mossad]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -16,4 +16,4 @@ summary: "FXC International was a parachute manufacturer transformed by director
 [[FXC International]] was also involved in a deal to sell three C-130s to [[Iran|Tehran]], working with [[Richard St. Francis]] of [[TransCapital Corporation]] and [[Mike Timpani]]. [[FXC International]] was slated to receive $200,000 for the purchase of each aircraft and another $200,000 for each sale, with the [[Chile|Chilean]] government paying half its fee and [[Israel]] paying the other half.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

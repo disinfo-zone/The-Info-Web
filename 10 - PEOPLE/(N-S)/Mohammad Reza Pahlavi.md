@@ -17,4 +17,4 @@ Under the [[Mohammad Reza Pahlavi|Shah]], [[Iran]] maintained good relations wit
 After his departure, the [[Mohammad Reza Pahlavi|Shah]]'s Regency and Supreme Military Councils were unable to function, and [[Shahpour Bakhtiar]], his last prime minister, proved helpless. [[Ayatollah Ruhollah Khomeini|Khomeini]] arrived in [[Iran]] on February 1, 1979, and declared [[Iran]] an Islamic republic on April 1. The [[Israel|Israeli]] Embassy in [[Tehran]] was subsequently handed over to the [[Palestine Liberation Organization|PLO]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -12,4 +12,4 @@ Major [[Abdul Salam Jalloud]] was the right-hand man of [[Muammar Qaddafi|Col. M
 During his visit, [[Abdul Salam Jalloud|Jalloud]] was questioned by his [[Iran|Iranian]] hosts about the fate of [[Sheikh Mussa Sadr]], a Shi'ite leader from southern [[Lebanon]], who had disappeared on a visit to [[Libya]] in 1978. [[Ari Ben-Menashe]] wrote that the [[Libya|Libyans]] had killed [[Sheikh Mussa Sadr|Sadr]] for preaching Shi'ite [[Islam]]. [[Abdul Salam Jalloud|Jalloud]] was not allowed to leave [[Iran]] for three weeks until [[Muammar Qaddafi|Qaddafi]] personally intervened and spoke to [[Ayatollah Ruhollah Khomeini|Khomeini]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

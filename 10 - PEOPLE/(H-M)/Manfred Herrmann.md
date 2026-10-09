@@ -13,4 +13,4 @@ Herrmann was recruited to represent [[Ora Group|Ora]], an [[Israel|Israeli]] arm
 Herrmann's Sedra company, in conjunction with [[Robert Maxwell|Maxwell's]] [[Degem]], played a key role in implementing [[PROMIS]] in [[Guatemala]]. This involved setting up terminals in offices, railway stations, airports, and even remote roadblocks, as part of a system to track suspected dissidents. This venture was a major success from an intelligence perspective, enabling the tracking of individuals even under false names.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -18,5 +18,5 @@ Hersh's book, along with [[Gary Sick|Gary Sick's]] *October Surprise*, quoted [[
 [[Robert Maxwell|Maxwell]] and the [[Mirror Newspaper Group]] sued [[Seymour Hersh|Hersh]] and his publishers over the allegations in *The [[Samson Option]]*. However, some of the critical denials in the *Mirror* articles were shown to be false, and [[Seymour Hersh|Hersh]] and his publishers filed a countersuit against [[Robert Maxwell|Maxwell]], [[Nicholas Davies]], and the [[Mirror Newspaper Group]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.

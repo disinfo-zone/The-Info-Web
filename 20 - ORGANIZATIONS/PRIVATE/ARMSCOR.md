@@ -34,7 +34,7 @@ An Open Secrets report of October 2017, based on South African military document
 
 ### Footnotes
 
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: SEC Digest, November 7, 1991, Litigation Release LR-13077. https://www.sec.gov/news/digest/1991/dig110791.pdf
 [^3]: *United States v. Jasin*, 280 F.3d 355 (3d Cir. 2002). https://static.case.law/f3d/280/cases/0355-01.json
 [^4]: "South African Firms Settle Arms Smuggling Case," Wisconsin Project on Nuclear Arms Control (undated). https://www.wisconsinproject.org/south-african-firms-settle-arms-smuggling-case/

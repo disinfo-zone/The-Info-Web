@@ -10,4 +10,4 @@ summary: "U.S. Customs Service agent who partnered with Joe King on the Hashemi 
 [[Romeo]] and [[Joe King|King]] contacted [[Cyrus Hashemi]] and contrived an illegal frame-up. [[Romeo]] also videotaped some of the people [[Cyrus Hashemi|Hashemi]] met and secretly recorded.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

@@ -12,4 +12,4 @@ The [[University of San Cristobal]] at [[Ayacucho]], [[Peru]], was where [[Abima
 [[Ari Ben-Menashe]] applied for a position to teach about the [[Middle East]] at the [[University of San Cristobal|University]] as a cover for his mission to secure rare minerals for [[Israel|Israel's]] nuclear program. The rector of the [[University of San Cristobal|University]] accepted [[Ari Ben-Menashe|Ben-Menashe]] quickly, stating that his academic credentials were sufficient, and that his potential role as an intelligence officer was not their concern.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

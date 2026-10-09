@@ -28,4 +28,4 @@ In May 1986, [[Oliver North|North]], [[Robert McFarlane|McFarlane]], and Nir tra
 [[Amiram Nir|Nir]] was due to be a major witness in [[Oliver North|North's]] trial and knew a great deal about [[Ihsan Barbouti|Barbouti's]] chemical operation in [[Miami]]. He was killed in a plane crash in [[Mexico]] in November 1988, an event that [[Israel|Israeli]] intelligence believed was a [[Central Intelligence Agency|CIA]] operation to prevent his testimony from embarrassing [[Shimon Peres|Peres]], [[Ronald Reagan|Reagan]], or [[George H.W. Bush|Bush]].[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

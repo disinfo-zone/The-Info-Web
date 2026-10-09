@@ -12,4 +12,4 @@ Colonel [[Pesah Melowany]] was an officer in the [[Israel|Israeli Defense Forces
 This letter was later introduced as evidence during [[Ari Ben-Menashe|Ben-Menashe's]] trial to counter the [[Israel|Israeli]] government's claim that he was merely a low-level translator.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).

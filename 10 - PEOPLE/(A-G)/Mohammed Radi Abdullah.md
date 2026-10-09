@@ -16,4 +16,4 @@ Colonel [[Mohammed Radi Abdullah]] was a former colonel in the [[Jordan|Jordania
 [[Mohammed Radi Abdullah|Radi]] was a key player in [[Israel|Israeli]] "black" operations, including the 1986 plot to bomb an [[El Al]] plane, which was designed to discredit [[Syria]]. He instructed his cousin, [[Nezar Hindawi]], in this plot. He was also involved in the [[Achille Lauro]] attack in 1985, which was an [[Israel|Israeli]] "black" propaganda operation to portray Palestinians as ruthless terrorists. [[Rafael Eitan|Rafi]] passed instructions to [[Mohammed Radi Abdullah|Radi]], who then relayed orders to [[Abul Abbas]] to carry out a cruel attack.[^1]
 
 ### Footnotes
-[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. TrineDay, 1992.
+[^1]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network*. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
