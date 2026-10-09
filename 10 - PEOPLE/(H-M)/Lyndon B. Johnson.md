@@ -1,4 +1,5 @@
 ---
+updated: 2026-10-08
 aliases:
   - Lyndon Johnson
 category: "Political Figure"
@@ -28,11 +29,15 @@ On June 5, 1967, Johnson told congressional leaders that he had been expecting I
 
 Notes of the [[National Security Council]] Special Committee meeting of June 9 record [[Clark Clifford]] saying that the attack on the [[USS Liberty Incident|USS Liberty]] should be handled "as if Arabs or USSR had done it" and calling it "Inconceivable that it was accident"; the note-taker's marginal notation next to the remarks reads: "President subscribed 100%."[^4] On June 12 Johnson requested a special study on the strafing and torpedoing of the ship, covering pilot conversations and "everything we can get" from the [[NSA|National Security Agency]]; Rostow sent a preliminary CIA report on June 13 as the "CIA's first cut at the problem," noting "They do not find evidence of U.S. identification before the attack."[^5] On June 26 Rostow sent Johnson the proposed public release of the Navy Court of Inquiry summary, noting that the Israelis had asked for 24 hours of lead time and that Deputy Secretary of Defense [[Cyrus Vance]] was inclined to give 12; the 12-hour option is the one checked.[^6]
 
+### The USS Liberty allegation
+
+An affidavit by [[Ward Boston]], senior legal counsel to the Navy's 1967 Court of Inquiry into the attack on the USS Liberty, released in October 2003, states that Admiral [[Isaac C. Kidd Jr.]] told him "that President Lyndon Johnson and Secretary of Defense [[Robert S. McNamara]] ordered him to conclude that the attack was a case of 'mistaken identity' despite overwhelming evidence to the contrary."[^7] Kidd died in 1999.[^8] The Associated Press reported that the Johnson administration "did not formally challenge" Israel's explanation that the attack was a case of mistaken identity.[^9] The Chicago Tribune reported in 2007 that internal White House documents from the [[Lyndon B. Johnson Presidential Library]] show that the Israelis' explanation of how the mistake had occurred "was not believed," and quoted a retired chief petty officer, J. Q. Hart, as recalling that McNamara told Rear Admiral Lawrence Geis that "President [Lyndon] Johnson is not going to go to war or embarrass an American ally over a few sailors."[^10] [[A. Jay Cristol]], the author of The Liberty Incident, rejects Boston's account as hearsay about a dead man.[^11]
+
 ### Bobby Baker
 
-Lyndon B. Johnson served as the 36th President of the United States. His rise to power emanated directly from his friends in Texas oil, including the [[Clint Murchison, Sr.|Murchison family]].[^7]
+Lyndon B. Johnson served as the 36th President of the United States. His rise to power emanated directly from his friends in Texas oil, including the [[Clint Murchison, Sr.|Murchison family]].[^12]
 
-As Senate Majority Leader, Johnson made [[Bobby Baker]] his secretary of the Senate Democrats in 1955, referring to Baker as "my strong right arm, the last man I see at night, the first I see in the morning." A major scandal brewed around Baker in the autumn of 1963, involving numerous questionable deals that were tightly interwoven with the Murchison family and organized crime figures.[^7]
+As Senate Majority Leader, Johnson made [[Bobby Baker]] his secretary of the Senate Democrats in 1955, referring to Baker as "my strong right arm, the last man I see at night, the first I see in the morning." A major scandal brewed around Baker in the autumn of 1963, involving numerous questionable deals that were tightly interwoven with the Murchison family and organized crime figures.[^12]
 
 ### Footnotes
 
@@ -42,4 +47,9 @@ As Senate Majority Leader, Johnson made [[Bobby Baker]] his secretary of the Sen
 [^4]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 236, Notes of a Meeting of the Special Committee of the National Security Council, June 9, 1967 (Saunders's handwritten notes). https://history.state.gov/historicaldocuments/frus1964-68v19/d236
 [^5]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 284, Intelligence Memorandum, "The Israeli Attack on the USS Liberty," June 13, 1967, with source note on Helms's notes of the June 12 meeting and Rostow's covering memorandum of June 13. https://history.state.gov/historicaldocuments/frus1964-68v19/d284
 [^6]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 324, Memorandum from Rostow to President Johnson, June 26, 1967. https://history.state.gov/historicaldocuments/frus1964-68v19/d324
-[^7]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^7]: Ward Boston Jr., affidavit as printed in the Congressional Record, Extensions of Remarks, October 11, 2004, pp. E1886-E1889, https://www.govinfo.gov/content/pkg/CREC-2004-10-11/html/CREC-2004-10-11-pt1-PgE1886-3.htm; the same sentence is paragraph 16 of Boston's declaration dated January 8, 2004, https://archive.org/download/boston-declaration/BostonDeclaration.pdf. Sole source for the Kidd conversation.
+[^8]: Ronald Fraser, "Captain Boston's Secret," *U.S. Naval Institute Proceedings*, July 2003 (Kidd's death year). https://www.usni.org/magazines/proceedings/2003/july/captain-bostons-secret
+[^9]: Associated Press, Fox News, October 23, 2003. https://www.foxnews.com/story/ex-navy-official-1967-israeli-attack-on-u-s-ship-was-deliberate.amp
+[^10]: "New revelations in attack on American spy ship," *Chicago Tribune*, October 2, 2007. The Tribune's text reads "the Israelis' explanation of how the mistake had occurred was not believed"; the Hart quotation is Hart's recollection as the Tribune reported it. https://www.chicagotribune.com/2007/10/02/new-revelations-in-attack-on-american-spy-ship/
+[^11]: A. Jay Cristol, History News Network, June 12, 2007. https://www.historynewsnetwork.org/article/why-you-shouldnt-pay-attention-to-the-claims-that-
+[^12]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.

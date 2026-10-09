@@ -45,6 +45,10 @@ Riconosciuto claimed to have been in direct communication with [[Michael Hand]],
 
 Beyond PROMIS, Riconosciuto was involved in advanced technological projects, including theoretical work on railguns for the U.S. Army, and research into "energy transfer phenomena" with [[William Frash]] and [[Patrick Moriarty]] (his father's business partner), aiming to develop technology that would "supercede all existing world patents in the field."[^1]
 
+### Remarks on Clearances and the Aquino Question
+
+In an undated transcript of an interview with [[Ted Gunderson]] (the interviewer is initialed "T.G."), the speaker, initialed "M.R.," discusses members of the Church of Set and of [[Michael Aquino]]'s circle. He says that the reaction to Aquino he received from "Dr. Malkin" was "Well, his clearance isn't all that high."[^7] In the same passage the speaker says that nearly everyone in Aquino's group was psy-ops or intelligence related.[^7] The transcript's cover line begins with the name "Michael," and the first notes in the file are headed "NOTES OF PHONE CONV. 12/29/87." The initials are the only identifier in the body of the transcript. Records found do not establish whether "Dr. Malkin" is [[Myron S. Malkin]], the former NASA Space Shuttle director and former Defense Department official, whose name appears in an undated (year not printed) Cabazon Arms letter.[^8]
+
 ### Legal Troubles and Witness Protection Attempts
 
 Following his arrest, Riconosciuto attempted multiple times to trade information with federal authorities, including the [[Federal Bureau of Investigation|FBI]] and [[Bureau of Alcohol, Tobacco, Firearms and Explosives|BATF]], in exchange for entry into a [[Witness Protection Program]]. He offered to expose high-level corruption, drug trafficking, and money laundering operations, including those involving Robert Booth Nichols, [[Michael Abbell]], and the Cali Drug Cartel. However, these attempts were largely unsuccessful, with authorities often expressing skepticism or facing internal resistance to his claims.[^1]
@@ -61,3 +65,5 @@ Danny Casolaro began interviewing Riconosciuto prior to his arrest in March 1991
 [^4]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
 [^5]: John Connolly, "Inside the Shadow CIA," *Spy,* September 1992, pp. 46-54. Sole source for the Las Vegas account in this form; the bracketed description of Ammarell is the magazine's. https://www.prop1.org/legal/prisons/92wack.htm
 [^6]: Unsigned, undated letter, Danny Casolaro papers, folder "Wackenhut-Correspondence," beginning "The cooperation I have received from the Wackenhut Corporation." The spelling "Amarell" is as printed in the letter. https://archive.org/details/casolaro-notebooks.
+[^7]: Ted Gunderson and Michael Riconosciuto interview notes, file "Folder 7 Acc5516" (archive.org casolaro-notebooks item, file "Folder 7 Acc5516.pdf", text layer). Undated passage. Sole source for the passages so cited. https://archive.org/details/casolaro-notebooks
+[^8]: Letter over the name of Arthur Welmas, Cabazon Arms letterhead, Indio, California, dated "May 1" (year not printed), Danny Casolaro papers, folder "Wackenhut-Correspondence." https://archive.org/details/casolaro-notebooks

@@ -10,7 +10,7 @@ born: 1946-10-16
 died: 2019-09-01
 location: San Francisco, California
 created: 2026-06-03
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 Michael A. Aquino was a Lieutenant Colonel in the [[U.S. Army]] Reserve, serving in Military Intelligence and psychological operations. He was attached to the 7th Psychological Operations Group at the [[Presidio of San Francisco|Presidio]] and held Top Secret security clearance. Born October 16, 1946, he earned bachelor's and master's degrees in political science from the [[University of California Santa Barbara]] before launching concurrent careers in military intelligence and the occult.[^1][^2]
 
@@ -26,12 +26,17 @@ Aquino founded the [[Temple of Set]] in 1975 after leaving the [[Church of Satan
 
 In November 1986, allegations of child sexual abuse surfaced at the Presidio Army base Child Development Center in [[San Francisco]]. Investigations expanded over the following months, and in August 1987, a young girl identified Aquino as one of her abusers. At least 58 of approximately 100 children who attended the daycare showed physical or psychological signs of abuse. Aquino was investigated by Army and civilian authorities but was never charged. The case became one of the most prominent of the 1980s satanic ritual abuse controversies, and Aquino aggressively denied all allegations through legal channels and public statements.[^1][^2]
 
+### Security Clearance Remark
+
+In an undated transcript of an interview with [[Ted Gunderson]], a speaker initialed "M.R." (the transcript's cover line begins with the name "Michael") says that the reaction to Aquino that he got from "Dr. Malkin" was "Well, his clearance isn't all that high." The speaker adds that nearly everyone in Aquino's group was psy-ops or intelligence related.[^3] The passage does not state Aquino's rank or the clearance level discussed. Records found do not establish whether "Dr. Malkin" is [[Myron S. Malkin]].
+
 ### Project Monarch Allegations
 
-A.B.H. Alexander, writing in *PROBE* around 1996, alleged that Aquino took part in [[Project Monarch]] conditioning of subjects at [[NASA]] bases as a handler for programming operations. [[Cathy O'Brien]] identified Aquino as one of her handlers during her alleged Monarch programming. The allegations placed Aquino at the intersection of military psychological warfare expertise and the claimed Monarch programming operations. [[Marion David Pettie|Pettie]]'s network also intersected with Aquino's circle through Christopher Bird, a former CIA officer who served in [[Japan]] as an Army psych warfare specialist and who was associated with Pettie.[^3]
+A.B.H. Alexander, writing in *PROBE* around 1996, alleged that Aquino took part in [[Project Monarch]] conditioning of subjects at [[NASA]] bases as a handler for programming operations. [[Cathy O'Brien]] identified Aquino as one of her handlers during her alleged Monarch programming. The allegations placed Aquino at the intersection of military psychological warfare expertise and the claimed Monarch programming operations. [[Marion David Pettie|Pettie]]'s network also intersected with Aquino's circle through Christopher Bird, a former CIA officer who served in [[Japan]] as an Army psych warfare specialist and who was associated with Pettie.[^4]
 
 ### Footnotes
 
 [^1]: Los Angeles Times, August 11, 1987.
 [^2]: Aquino vitae and published works at rachane.org.
-[^3]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996; Kenn Thomas and Len Bracken, "The Finders' Keeper," Steamshovel Press #16, 1998.
+[^3]: Ted Gunderson and Michael Riconosciuto interview notes, file "Folder 7 Acc5516" (archive.org casolaro-notebooks item, file "Folder 7 Acc5516.pdf", text layer). Undated passage. Sole source for the passages so cited. https://archive.org/details/casolaro-notebooks
+[^4]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996; Kenn Thomas and Len Bracken, "The Finders' Keeper," Steamshovel Press #16, 1998.

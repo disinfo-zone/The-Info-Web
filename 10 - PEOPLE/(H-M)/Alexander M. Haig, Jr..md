@@ -90,12 +90,12 @@ relations:
     with: "[[MGM Mirage]]"
     start: 1990
     role: "director"
-    fn: 27
+    fn: 29
   - type: contractor_to
     with: "[[MGM Mirage]]"
     start: 1990-05
     role: "consultant; fees of $50,000 in 2000"
-    fn: 27
+    fn: 29
   - type: funded
     with: "[[MGM Mirage PAC]]"
     start: 2000-12-19
@@ -105,7 +105,7 @@ relations:
   - type: director_of
     with: "[[Interneuron Pharmaceuticals]]"
     role: "director"
-    fn: 27
+    fn: 29
   - type: contractor_to
     with: "[[SDC International]]"
     start: 1999-05
@@ -127,8 +127,14 @@ relations:
     end: 2008-05-07
     role: "contributions of $750 to $5,000 listing worldwide associates as employer"
     fn: 14
+  - type: contractor_to
+    with: "[[International Signal and Control]]"
+    start: 1985
+    end: 1987
+    role: "consulting work through Worldwide Associates, according to Haig's 1988 candidate filing"
+    fn: 27
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 Alexander Meigs Haig Jr. was born on December 2, 1924, in Bala Cynwyd, Pennsylvania, and died at about 1:30 a.m. on February 20, 2010, at [[Johns Hopkins Hospital]] in [[Baltimore]], at the age of 85; a hospital spokesman attributed his death to complications of an infection.[^1] He was military adviser and then deputy to [[Henry A. Kissinger]] at the [[National Security Council]], [[White House]] chief of staff to [[Richard Nixon]], Supreme Allied Commander in Europe, president of [[United Technologies Corporation]], and Secretary of State under President [[Ronald Reagan]].[^1][^2] Nixon promoted him in 1972 from two-star to four-star rank, passing over 240 officers with greater seniority.[^1]
@@ -187,15 +193,21 @@ Reagan accepted Haig's resignation by letter on June 25, 1982. Haig's letter of 
 
 ### Worldwide Associates and the CIA, 1984 and 1985
 
-[[Worldwide Associates]], a Washington international advisory firm, had Haig as chairman and president from 1984.[^2] Deputy Director of Central Intelligence [[John N. McMahon]] wrote to Haig ("Al") on January 5, 1984, at 1155 15th Street, N.W., Suite 800, that a doctoral candidate and former military officer whose resume Haig had passed to the Agency, whose name is redacted, would join the CIA as a career trainee on April 16, adding: "We're always on the lookout for good people and appreciate your keeping us in mind."[^23] The same address is given for Haig in the 2002 proxy statement of SDC International.[^13]
+[[Worldwide Associates]], a Washington international advisory firm, had Haig as chairman and president from 1984.[^2] Deputy Director of Central Intelligence [[John McMahon|John N. McMahon]] wrote to Haig ("Al") on January 5, 1984, at 1155 15th Street, N.W., Suite 800, that a doctoral candidate and former military officer whose resume Haig had passed to the Agency, whose name is redacted, would join the CIA as a career trainee on April 16, adding: "We're always on the lookout for good people and appreciate your keeping us in mind."[^23] The same address is given for Haig in the 2002 proxy statement of SDC International.[^13]
 
 The appointment log of Director of Central Intelligence Casey for 1985, as released, lists under Haig a reception and screening of "That's Dancing" hosted by Mr. and Mrs. Haig at the [[Motion Picture Association]], 1600 I Street, N.W., on January 22; a breakfast with Haig at the Madison Hotel on April 10; a reception and screening of "A View to a Kill" at the same address hosted by General and Mrs. Haig on May 31; a breakfast with General Haig at CIA headquarters on November 13; and a cocktail buffet hosted by General and Mrs. Haig on December 20.[^24]
 
 No registrant named Worldwide Associates, and none named Haig, appears in the [[Foreign Agents Registration Act]] registrant lists, active or terminated, retrieved from the [[Department of Justice|Justice Department]]'s FARA e-file interface on October 1, 2026; the only near matches are the law firm Haight, Gardner, Poor & Havens and related Haight registrants.[^25] The Senate and House lobbying disclosure database, which begins in 1999, returns no registrant named Worldwide Associates and no lobbyist named Haig.[^26]
 
+### International Signal and Control, 1985 to 1987
+
+Worldwide Associates did consulting work for [[International Signal and Control]] between 1985 and 1987, according to a filing Haig made when he ran for president in 1988.[^27] Haig and Bobby Ray Inman were among the well-known Washingtonians who had lent their names to the business of [[James Guerin]].[^27]
+
+At the 1992 trial of [[Thomas P. Jasin]], Jasin's attorney, Gaar Steiner, told the court that Haig, a consultant for ISC, and officials of the Central Intelligence Agency and the Army were aware of plans to import South African Striker missile components into the United States and that no one objected. The Assistant U.S. Attorney, [[Robert E. Goldman]], replied: "Haig was never told they were bringing in missile parts from South Africa."[^28]
+
 ### Corporate boards
 
-The proxy statement of [[MGM Mirage]] filed March 27, 2001, lists Haig as a director since 1990 and a consultant to the company since May 1990, holder of options on 10,000 shares, and recipient in 2000 of $50,000 in consulting fees; it describes him as chairman of Worldwide Associates, host of the weekly television program "World Business Review," and a director of [[Metro-Goldwyn-Mayer]] Inc., CompuServe Interactive Services and [[Interneuron Pharmaceuticals]]. [[Tracinda]], of which [[Kirk Kerkorian]] was sole director and stockholder, owned 91,221,432 MGM Mirage shares.[^27]
+The proxy statement of [[MGM Mirage]] filed March 27, 2001, lists Haig as a director since 1990 and a consultant to the company since May 1990, holder of options on 10,000 shares, and recipient in 2000 of $50,000 in consulting fees; it describes him as chairman of Worldwide Associates, host of the weekly television program "World Business Review," and a director of [[Metro-Goldwyn-Mayer]] Inc., CompuServe Interactive Services and [[Interneuron Pharmaceuticals]]. [[Tracinda]], of which [[Kirk Kerkorian]] was sole director and stockholder, owned 91,221,432 MGM Mirage shares.[^29]
 
 [[SDC International]] named Haig a director in January 2002; he had been its strategic advisor since May 1999. Its proxy statement filed December 6, 2002, discloses that SDC paid him $85,000 in September 2001 for past services, issued him fully vested options on 300,000 shares at $0.40 when the agreement was renewed on September 9, 2001, and agreed to pay him "between one and two percent of the total gross contract amount of any contract entered into by SDC or any of its subsidiaries which was obtained through the efforts of General Haig." SDC's principal operating entity was its Czech subsidiary [[Tatra]]; [[Terex Corporation]], which had received shares as a strategic advisor, held 12 percent. Haig held 505,000 shares, 2.47 percent, and was one of the two persons named to vote stockholders' proxies.[^13]
 
@@ -203,7 +215,7 @@ The proxy statement of [[MGM Mirage]] filed March 27, 2001, lists Haig as a dire
 
 ### Political contributions and the 1988 campaign
 
-Haig for President (FEC committee C00214189), with treasurer Dominic J. Saraceno of Virginia, reported receipts of $2,633,083 for the 1988 cycle, including $140,442 in federal matching funds, and remained registered through 2000.[^28] Rumsfeld gave it $1,000 on January 27, 1988.[^14] The Associated Press obituary records that Haig ran unsuccessfully for president in 1988.[^1]
+Haig for President (FEC committee C00214189), with treasurer Dominic J. Saraceno of Virginia, reported receipts of $2,633,083 for the 1988 cycle, including $140,442 in federal matching funds, and remained registered through 2000.[^30] Rumsfeld gave it $1,000 on January 27, 1988.[^14] The Associated Press obituary records that Haig ran unsuccessfully for president in 1988.[^1]
 
 [[Federal Election Commission]] records list contributions by entries in the name of Haig giving Worldwide Associates as employer, among them $750 to the [[Republican National Committee]] on January 11, 1994, $1,000 to Pete Wilson for President on May 1, 1995, $5,000 to the RNC on July 19, 1996, November 10, 1998, and February 1, 2000, and $2,300 to John McCain 2008 on April 10, 2007. A $1,000 contribution to McCain 2000 dated June 15, 1999, comes from "Haig, Alexander M. Mr. Jr." of [[Palm Beach, Florida|Palm Beach]] with no employer listed. The records list contributions to the MGM Mirage political action committee of $500 on December 19, 2000, $1,000 on January 31, 2002, and $1,000 on May 4, 2004.[^14]
 
@@ -235,5 +247,7 @@ Haig for President (FEC committee C00214189), with treasurer Dominic J. Saraceno
 [^24]: Director of Central Intelligence, appointment and contact log for 1985, entries under "HAIG, Alexander," CIA Reading Room, CIA-RDP93-00415R000200210008-9, https://archive.org/details/cia-readingroom-document-cia-rdp93-00415r000200210008-9
 [^25]: U.S. Department of Justice, FARA e-file API, Registrants (Active, 537 rows) and Registrants (Terminated, 6,552 rows), retrieved October 1, 2026, https://efile.fara.gov/api/v1/Registrants/json/Active and https://efile.fara.gov/api/v1/Registrants/json/Terminated (name search; short-form registrants and foreign principals not searched).
 [^26]: Lobbying Disclosure Act filings database, API queries for registrant name "Worldwide Associates" and lobbyist name "Haig," run October 1, 2026, https://lda.gov/api/v1/filings/
-[^27]: MGM Mirage, Definitive Proxy Statement (DEF 14A), filed March 27, 2001, accession 0000912057-01-008537, nominee table, notes on options, and "Certain Transactions," https://www.sec.gov/Archives/edgar/data/789570/000091205701008537/a2041387zdef14a.htm
-[^28]: Federal Election Commission, committee C00214189, Haig for President, committee record and financial totals by cycle, https://api.open.fec.gov/v1/committee/C00214189/totals/
+[^27]: Glenn Frankel, "British Firm Claims It Was Duped by Pa. Arms Maker," *Washington Post*, September 29, 1989. The article describes the filing as one "Haig made when running for president last year." https://www.washingtonpost.com/archive/business/1989/09/29/british-firm-claims-it-was-duped-by-pa-arms-maker/5b675f69-e5e0-4c25-9aee-ced8b8e07efa/
+[^28]: "Weapons-smuggling plot tied to Pa. executive on trial for trade violations," Knight-Ridder News Service, *Baltimore Sun*, November 10, 1992. The article describes Haig as "a consultant for ISC" in reporting the attorney's statement; the quoted reply is Goldman's. https://www.baltimoresun.com/1992/11/10/weapons-smuggling-plot-tied-to-pa-executive-on-trial-for-trade-violations/
+[^29]: MGM Mirage, Definitive Proxy Statement (DEF 14A), filed March 27, 2001, accession 0000912057-01-008537, nominee table, notes on options, and "Certain Transactions," https://www.sec.gov/Archives/edgar/data/789570/000091205701008537/a2041387zdef14a.htm
+[^30]: Federal Election Commission, committee C00214189, Haig for President, committee record and financial totals by cycle, https://api.open.fec.gov/v1/committee/C00214189/totals/

@@ -16,7 +16,7 @@ tags:
   - KissingerAssociates
 summary: "Discovery in 1989 that the Atlanta branch of Italy's Banca Nazionale del Lavoro had lent Iraq five billion dollars off its books, and a prosecution that Congress and the trial judge said shielded higher officials."
 created: 2026-05-14
-updated: 2026-09-21
+updated: 2026-10-08
 start: 1985-01-01
 end: 1993-12-31
 location: "Atlanta, Georgia"
@@ -47,8 +47,12 @@ The BNL scandal intersected with other subjects documented in this vault. [[Carl
 ### Indictment and Pleas
 The indictment, No. 1:91-CR-078 in the [[United States District Court for the Northern District of Georgia|Northern District of Georgia]], was returned on February 28, 1991, the day after the [[Gulf War]] ceasefire, and charged [[Christopher Drogoul]] on 347 counts with two branch officers, [[Entrade International]] and its manager [[Yavuz Tezeller]], [[Rafidain Bank]], and four Iraqi officials including [[Safa al-Habobi]]. Two branch employees, [[Leigh Ann New]] and [[Paul Von Wedel]], pleaded guilty to separate informations. Drogoul pleaded guilty to 60 counts in June 1992 and withdrew the plea on October 1, when Judge Marvin Shoob recused himself with the stated conclusion "that officials at BNL-[[Rome]] were aware of and approved Mr. Drogoul's activities." The [[United States Court of Appeals for the Eleventh Circuit|Eleventh Circuit]] ordered the depositions of thirteen Italian bank officers on September 2, 1993. Drogoul pleaded guilty to three counts and was sentenced in December 1993 to 37 months.[^3][^4]
 
+### Court of Federal Claims suit
+
+On December 15, 1992, BNL filed suit in the United States Court of Federal Claims in Washington to recover over 340 million dollars in principal on defaulted Iraqi loans guaranteed under the Commodity Credit Corporation program of the Department of Agriculture. [[Henry B. Gonzalez]] told the House on January 21, 1993 that the suit followed the Department's refusal to pay the claims because of unanswered questions about BNL's role, that he had repeatedly asked the Department to withhold payment until it could be determined whether BNL had defrauded the program, and that the Department's administrative review, which was not assigned to its inspector general, was "a complete whitewash."[^5]
+
 ### Lacey and the Senate Staff Report
-[[United States Attorney General|Attorney General]] [[William Barr]] appointed the retired judge [[Frederick Lacey]] as special counsel on October 16, 1992. Lacey reported on December 8 that there were no grounds for an independent counsel and that he had "seen nothing" to suggest that [[Brent Scowcroft]] and [[Lawrence Eagleburger]] knew of the loans. Part of the report was classified. Representative [[Henry B. Gonzalez|Henry Gonzalez]] called it a whitewash. Acting [[United States Attorney]] [[Joseph D. Whitley]] had recused himself on June 1, 1990, because his former firm represented Matrix Churchill. The staff of the [[Senate Select Committee on Intelligence]] found in February 1993 that the CIA's grounds for withholding reports from prosecutors had "no legal support" and did not find deliberate concealment. In December 1992 prosecutors in [[Venice]] indicted 59 people, including executives of the bank, for financing arms sales to [[Iran]].[^5][^6][^7]
+[[United States Attorney General|Attorney General]] [[William Barr]] appointed the retired judge [[Frederick Lacey]] as special counsel on October 16, 1992. Lacey reported on December 8 that there were no grounds for an independent counsel and that he had "seen nothing" to suggest that [[Brent Scowcroft]] and [[Lawrence Eagleburger]] knew of the loans. Part of the report was classified. Representative Henry Gonzalez called it a whitewash. Acting [[United States Attorney]] [[Joseph D. Whitley]] had recused himself on June 1, 1990, because his former firm represented Matrix Churchill. The staff of the [[Senate Select Committee on Intelligence]] found in February 1993 that the CIA's grounds for withholding reports from prosecutors had "no legal support" and did not find deliberate concealment. In December 1992 prosecutors in [[Venice]] indicted 59 people, including executives of the bank, for financing arms sales to [[Iran]].[^6][^7][^8]
 
 ### Footnotes
 
@@ -56,6 +60,7 @@ The indictment, No. 1:91-CR-078 in the [[United States District Court for the No
 [^2]: Gonzalez, Henry. Congressional Record, selected statements 1992-1993. https://www.congress.gov/member/henry-gonzalez/G000272
 [^3]: United States v. Drogoul, 1 F.3d 1546 (11th Cir. 1993).
 [^4]: "Drogoul gets 37 months in BNL bank scandal," *United Press International,* December 9, 1993.
-[^5]: Lacey, Frederick B. "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," reproduced in House Committee on Banking, Finance and Urban Affairs, *Testimony of Former Employees of the Banca Nazionale del Lavoro,* Serial No. 103-95, November 9, 1993. https://archive.org/details/testimonyofforme1994unit
-[^6]: Senate Select Committee on Intelligence, *The Intelligence Community's Involvement in the Banca Nazionale del Lavoro (BNL) Affair,* staff report, S. Prt. 103-12, February 1993.
-[^7]: Gonzalez, Henry B. "Update on BNL Investigation," *Congressional Record,* House, January 21, 1993.
+[^5]: Rep. Henry B. Gonzalez, "Update on BNL Investigation," *Congressional Record*, House of Representatives, January 21, 1993, p. H132. https://irp.fas.org/congress/1993_cr/h930121-bnl.htm
+[^6]: Lacey, Frederick B. "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," reproduced in House Committee on Banking, Finance and Urban Affairs, *Testimony of Former Employees of the Banca Nazionale del Lavoro,* Serial No. 103-95, November 9, 1993. https://archive.org/details/testimonyofforme1994unit
+[^7]: Senate Select Committee on Intelligence, *The Intelligence Community's Involvement in the Banca Nazionale del Lavoro (BNL) Affair,* staff report, S. Prt. 103-12, February 1993.
+[^8]: Gonzalez, Henry B. "Update on BNL Investigation," *Congressional Record,* House, January 21, 1993.

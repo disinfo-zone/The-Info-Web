@@ -6,7 +6,7 @@ aliases:
   - Theodore Shackley
   - The Blond Ghost
 created: 2026-05-14
-updated: 2026-05-17
+updated: 2026-10-08
 category: "Intelligence & Government"
 tags:
   - Person
@@ -65,6 +65,8 @@ Shackley’s network intersected with the Iran-Contra Affair through multiple ch
 
 Shackley was also connected through Michael Hand to the Nugan Hand Bank (Sydney, founded 1973, collapsed 1980), an Australian merchant bank that multiple sources identified as a CIA financial conduit. The bank’s board and senior advisers included former CIA Director William Colby (in a legal advisory role) and a number of Shackley-connected U.S. military and intelligence veterans. Its collapse after co-founder Frank Nugan’s death in January 1980 and Hand’s subsequent disappearance generated significant Australian investigative journalism about CIA connections to the bank.[^2]
 
+[[David Corn]] writes that [[Barbara Studley]], a former Miami talk-show host, and [[John Singlaub]], who had worked with Shackley in Laos, had created [[GeoMiliTech Consultants Corp.]], a weapons firm, and that Studley came to Shackley for advice on the arms market in Latin America.[^3]
+
 ### Publications
 
 Shackley authored *The Third Option: An American View of Counterinsurgency Operations* (Reader’s Digest Press, 1981), which argued for covert operations as an intermediate tool between diplomacy and conventional military force - the analytical framework that had characterized his career. He died December 9, 2002.[^1]
@@ -73,3 +75,4 @@ Shackley authored *The Third Option: An American View of Counterinsurgency Opera
 
 [^1]: Corn, David, and Jeff Goldberg. "The Old Boy Network." *Mother Jones*, October 1994 (on Shackley’s post-CIA network). Shackley, Theodore G. *The Third Option: An American View of Counterinsurgency Operations*. Reader’s Digest Press, 1981. Weiner, Tim. *Legacy of Ashes: The History of the CIA*. Doubleday, 2007, pp. 316-320, 361-368.
 [^2]: Trento, Joseph. *Prelude to Terror: The Rogue CIA and the Legacy of America’s Private Intelligence Network*. Carroll & Graf, 2005, pp. 55-85. Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. TrineDay, 2010.
+[^3]: David Corn, *Blond Ghost: Ted Shackley and the CIA's Crusades* (Simon & Schuster, 1994).

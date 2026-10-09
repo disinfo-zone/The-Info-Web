@@ -4,7 +4,7 @@ aliases:
   - Central Intelligence Agency
   - CIA
 created: 2025-07-22
-updated: 2026-05-17
+updated: 2026-10-08
 tags:
   - Organization
   - Intelligence
@@ -65,6 +65,10 @@ The CIA sent the [[Inter-Services Intelligence|Inter-Services Intelligence (ISI)
 
 In 1980, Jimmy Carter signed a presidential "finding" authorizing the CIA to aid the Afghan rebels in "harassment" of the Soviet occupying forces through secret supplies of light weapons and limited funds.[^13] This became the largest covert-action program since [[World War Two]].[^13]
 
+### Senior Review Panel
+
+The Senior Review Panel was an advisory body within the Director's area that reviewed draft national intelligence estimates and commented on them to the Director of Central Intelligence, the Chairman of the National Intelligence Council and the relevant National Intelligence Officer. In a 1991 letter printed in the Senate report on the nomination of [[Robert Gates]], Gates wrote that "The SRP's sole function was to review draft national estimates and offer comments as a group to the DCI, the Chairman/NIC and the relevant NIO."[^14] The Senate report records that [[James D. Theberge]] served on the panel from January 1986 until his death in January 1988, and that he had been hired on a three-days-per-week basis.[^14] Panel memoranda in the CIA reading room carry his name among the signers of comments dated September 1, September 8, September 24, October 22 and December 1, 1987, alongside [[William Leonhart]], B. McPherson and, on some, [[Richard L. Walker]] or [[Courtland D. Perkins]].[^15]
+
 ### UAP Research and Secrecy
 
 The CIA has a long and complex history with the [[Unidentified Anomalous Phenomena]] (UAP) issue. The agency has been a key player in the government's long-standing policy of secrecy and denial on the UAP topic. The Robertson Panel, a CIA-sponsored committee in 1953, recommended a policy of debunking UAP reports and using the mass media to ridicule the topic. This policy was highly effective in creating the stigma that has surrounded the UAP issue for decades.[^3]
@@ -75,29 +79,29 @@ In recent years, the CIA has been more involved in the official UAP investigatio
 
 ### Dark Alliance Investigation
 
-The CIA's covert action division, the Directorate of Operations, created and managed the Contra project during the 1980s, with its Latin American Division headed by [[Dewey Clarridge]] from 1981 to 1984. The agency recruited Contra leaders including [[Enrique Bermudez|Enrique Bermúdez]] in 1980 and [[Eden Pastora]] in 1981. The CIA maintained station chiefs in [[Costa Rica]], notably [[Joseph Fernandez|Joseph Fernández]] from 1984 to 1986, who were integral to Oliver North's illegal Contra resupply operation.[^14]
+The CIA's covert action division, the Directorate of Operations, created and managed the Contra project during the 1980s, with its Latin American Division headed by [[Dewey Clarridge]] from 1981 to 1984. The agency recruited Contra leaders including [[Enrique Bermudez|Enrique Bermúdez]] in 1980 and [[Eden Pastora]] in 1981. The CIA maintained station chiefs in [[Costa Rica]], notably [[Joseph Fernandez|Joseph Fernández]] from 1984 to 1986, who were integral to Oliver North's illegal Contra resupply operation.[^16]
 
 ### Contra Drug Trafficking and the Frogman Case
 
-Federal law enforcement records and congressional testimony established that the CIA had reports of [[Cocaine]] being transshipped through Contra-linked facilities, including [[Ilopango Airbase]] in [[El Salvador]]. When defense attorneys in the [[Frogman Case]] obtained letters from CIA assets claiming seized drug money belonged to the Contras, the CIA's Costa Rican station cabled Langley that both men were assets of an organization that had "unwittingly received CIA support." CIA lawyer Lee Strickland flew to [[San Francisco]] and asked the prosecutor to ensure depositions did not go forward. The government returned $36,020 in seized drug money and a CIA cable declared: "CIA equities are fully protected."[^15]
+Federal law enforcement records and congressional testimony established that the CIA had reports of [[Cocaine]] being transshipped through Contra-linked facilities, including [[Ilopango Airbase]] in [[El Salvador]]. When defense attorneys in the [[Frogman Case]] obtained letters from CIA assets claiming seized drug money belonged to the Contras, the CIA's Costa Rican station cabled Langley that both men were assets of an organization that had "unwittingly received CIA support." CIA lawyer Lee Strickland flew to [[San Francisco]] and asked the prosecutor to ensure depositions did not go forward. The government returned $36,020 in seized drug money and a CIA cable declared: "CIA equities are fully protected."[^17]
 
-The pseudonymous agent [[Ivan Gomez|Iván Gómez]], assigned to Costa Rica in 1982 as the CIA's liaison to the Contra armies, admitted during polygraph tests that he had laundered drug money. He was fired in 1989 for repeated polygraph failures concerning drug dealing.[^15]
+The pseudonymous agent [[Ivan Gomez|Iván Gómez]], assigned to Costa Rica in 1982 as the CIA's liaison to the Contra armies, admitted during polygraph tests that he had laundered drug money. He was fired in 1989 for repeated polygraph failures concerning drug dealing.[^17]
 
 ### The Secret 1982 Agreement with the Justice Department
 
-In early 1982, CIA director William J. Casey and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted the CIA from reporting drug crimes committed by its non-employees - a category including agents, assets, and non-staff employees. Drug offenses were specifically removed from the list of crimes the CIA was required to report. The agreement remained in effect from 1982 to 1995.[^16]
+In early 1982, CIA director William J. Casey and Attorney General [[William French Smith]] signed a formal Memorandum of Understanding that exempted the CIA from reporting drug crimes committed by its non-employees - a category including agents, assets, and non-staff employees. Drug offenses were specifically removed from the list of crimes the CIA was required to report. The agreement remained in effect from 1982 to 1995.[^18]
 
 ### Ilopango Obstruction
 
-When [[DEA]] agent [[Celerino Castillo]] began investigating Contra drug trafficking at Ilopango, the CIA intervened directly. In April 1986 the El Salvador station sent a cable asking the Costa Rica station to persuade the DEA to back off: "El Salvador Station would appreciate Costa Rica Station advising DEA not to make any inquiries into anyone re: Hangar No. 4 at Ilopango since only legitimate CIA supported operations were conducted from this facility."[^17]
+When [[DEA]] agent [[Celerino Castillo]] began investigating Contra drug trafficking at Ilopango, the CIA intervened directly. In April 1986 the El Salvador station sent a cable asking the Costa Rica station to persuade the DEA to back off: "El Salvador Station would appreciate Costa Rica Station advising DEA not to make any inquiries into anyone re: Hangar No. 4 at Ilopango since only legitimate CIA supported operations were conducted from this facility."[^19]
 
 ### Inspector General Investigation
 
-CIA Inspector General [[Fred Hitz]] testified before the [[House Permanent Select Committee on Intelligence|House Intelligence Committee]] in March 1998 that the CIA "did not, in an expeditious or consistent fashion, cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking activity," including trafficking within the United States. His 400-page report documented CIA relationships with more than 50 suspected drug traffickers during the Contra war.[^16]
+CIA Inspector General [[Fred Hitz]] testified before the [[House Permanent Select Committee on Intelligence|House Intelligence Committee]] in March 1998 that the CIA "did not, in an expeditious or consistent fashion, cut off relationships with individuals supporting the Contra program who were alleged to have engaged in drug trafficking activity," including trafficking within the United States. His 400-page report documented CIA relationships with more than 50 suspected drug traffickers during the Contra war.[^18]
 
 ### Iran-Contra Indictments
 
-Multiple CIA officials were indicted during the Iran-Contra investigation. Clarridge was indicted on seven counts of perjury. Fernández was indicted on four counts. [[Alan Fiers]] pleaded guilty to withholding information from Congress. All were pardoned by former CIA director [[George H.W. Bush]].[^14]
+Multiple CIA officials were indicted during the Iran-Contra investigation. Clarridge was indicted on seven counts of perjury. Fernández was indicted on four counts. [[Alan Fiers]] pleaded guilty to withholding information from Congress. All were pardoned by former CIA director [[George H.W. Bush]].[^16]
 
 ### Footnotes
 
@@ -114,7 +118,9 @@ Multiple CIA officials were indicted during the Iran-Contra investigation. Clarr
 [^11]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 11, "BCCI, the CIA and Foreign Intelligence." https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
 [^12]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 334.
 [^13]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 341.
-[^14]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue and Chapter 5: "God, Fatherland and Freedom"
-[^15]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom"
-[^16]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue: "The damage that has been done"
-[^17]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends"
+[^14]: U.S. Senate, Select Committee on Intelligence, *Nomination of Robert M. Gates to be Director of Central Intelligence*, S. Exec. Rept. 102-19, 102d Cong., 1st sess., October 24, 1991, section 5, PDF pages 186 to 188. https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-10219.pdf
+[^15]: CREST Senior Review Panel memoranda CIA-RDP93T00837R000400110005-3 (NIC-03024-87, September 1, 1987), CIA-RDP93T01222R000100010013-9 (NIC-03595-87, September 8, 1987), CIA-RDP92T00306R000300090020-0 (September 24, 1987), CIA-RDP93T00451R000300080006-5 (NIC-04228-87, October 22, 1987) and CIA-RDP93T00451R000400110014-1 (December 1, 1987). https://www.cia.gov/readingroom/document/cia-rdp93t00837r000400110005-3, https://www.cia.gov/readingroom/document/cia-rdp93t01222r000100010013-9, https://www.cia.gov/readingroom/document/cia-rdp92t00306r000300090020-0, https://www.cia.gov/readingroom/document/cia-rdp93t00451r000300080006-5, https://www.cia.gov/readingroom/document/cia-rdp93t00451r000400110014-1
+[^16]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue and Chapter 5: "God, Fatherland and Freedom"
+[^17]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom"
+[^18]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue: "The damage that has been done"
+[^19]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends"
