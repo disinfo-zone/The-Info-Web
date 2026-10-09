@@ -16,7 +16,7 @@ summary: "Steven Pinker is a Harvard psychologist and linguist whose 2007 readin
 born: 1954
 location: "Cambridge, Massachusetts"
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-09
 relations:
   - type: employed_by
     with: "[[Harvard University]]"
@@ -38,7 +38,7 @@ Pinker taught at the [[Massachusetts Institute of Technology]] before moving to 
 
 Pinker's first contact with Epstein came through Brockman. "In 02, my lit agent invited me to join a group of east-coast TED speakers Epstein flew to CA," Pinker wrote in 2019. The group on the 2002 flight to the [[TED Conference]] included [[Richard Dawkins]], [[Daniel Dennett]] and the Brockmans.[^5][^6]
 
-Epstein held an appointment as a Visiting Fellow in Harvard's Psychology Department, Pinker's department, for 2005 and 2006, on the recommendation of its chair, [[Stephen Kosslyn]], whose research Epstein had funded with 200,000 dollars; Kosslyn acknowledged that Epstein lacked the qualifications for the research he proposed. Epstein also served on Harvard's Mind, Brain, and Behavior advisory committee, and his foundation's press releases billed him as a "Harvard philanthropist."[^2][^7]
+Epstein held an appointment as a Visiting Fellow in Harvard's Psychology Department, Pinker's department, for the 2005-2006 academic year, with a second year approved on April 21, 2006, on the recommendation of its chair, [[Stephen Kosslyn]], whose research Epstein had funded with 200,000 dollars; Kosslyn acknowledged that Epstein lacked the qualifications for the research he proposed. Epstein also served on Harvard's Mind, Brain, and Behavior advisory committee, and his foundation's press releases billed him as a "Harvard philanthropist."[^2][^7]
 
 ### The 2007 Defense Letter
 
@@ -66,6 +66,6 @@ After the November 2025 release of Epstein's emails, Pinker restated his positio
 [^4]: Aldhous, Peter. "How Jeffrey Epstein Bankrolled The Exclusive Edge Foundation And Reaped The Benefits," *BuzzFeed News,* 2019, on Epstein-linked foundations supplying 638,000 dollars of the roughly 857,000 dollars Edge received from 2001 to 2017 and on Brockman's client roster. https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-john-brockman-edge-foundation
 [^5]: "Release of emails renews interest in Harvard professor Steven Pinker's link to Jeffrey Epstein," *The Boston Globe,* November 19, 2025, on the December 31, 2010 Brockman email, the 2002 TED flight passengers, and Pinker's 2025 statements. https://www.bostonglobe.com/2025/11/19/metro/steven-pinker-epstein-ties/
 [^6]: Pinker, Steven (@sapinker), reply to @HeerJeet, X (Twitter), July 11, 2019, as reproduced in Aldhous, Peter. "Jeffrey Epstein Called Himself A 'Science Philanthropist' And Donated Millions To These Researchers," *BuzzFeed News,* July 11, 2019. https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-sex-trafficking-science-donations
-[^7]: Lopez, Diane E., Ara B. Gershengorn, and Martin F. Murphy. *Report Concerning Jeffrey E. Epstein's Connections to Harvard University.* Harvard University Office of the General Counsel and Foley Hoag LLP, May 2020, pp. 3-8, on Epstein's Visiting Fellow appointment in the Psychology Department and Kosslyn's recommendation. https://ogc.harvard.edu/file_url/208
+[^7]: Lopez, Diane E., Ara B. Gershengorn, and Martin F. Murphy. *Report Concerning Jeffrey E. Epstein's Connections to Harvard University.* Harvard University Office of the General Counsel and Foley Hoag LLP, May 2020, pp. 3, 5 and 6 to 8, on Epstein's Visiting Fellow appointment in the Psychology Department and Kosslyn's recommendation. https://ogc.harvard.edu/files/ogc/files/report_concerning_jeffrey_e._epsteins_connections_to_harvard_university.pdf
 [^8]: Opinion and Order, *Jane Doe 1 and Jane Doe 2 v. United States*, No. 9:08-cv-80736-KAM (S.D. Fla. Feb. 21, 2019), ECF No. 435 (Marra, J.), reported at 359 F. Supp. 3d 1201, on the prosecution memorandum, the draft indictment and the September 24, 2007 agreement; U.S. Department of Justice, Office of Professional Responsibility, *Investigation into the U.S. Attorney's Office for the Southern District of Florida's Resolution of Its 2006-2008 Federal Criminal Investigation of Jeffrey Epstein,* Executive Summary, November 2020, pp. i-xi. https://www.courtlistener.com/docket/4502088/doe-v-united-states/ ; https://www.justice.gov/opr/page/file/1336471/dl
 [^9]: Aldhous, Peter. "Jeffrey Epstein's Links To Scientists Are Even More Extensive Than We Thought," *BuzzFeed News,* August 27, 2019, on the 2014 Origins Project gala photograph and the Epstein and Black funding of the project. https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-science-donations-apologies-statements

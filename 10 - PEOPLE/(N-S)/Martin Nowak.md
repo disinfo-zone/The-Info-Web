@@ -14,7 +14,7 @@ summary: "Martin Nowak is a Harvard mathematical biologist who directed the Prog
 born: 1965-04-07
 location: "Cambridge, Massachusetts"
 created: 2026-06-20
-updated: 2026-09-25
+updated: 2026-10-09
 relations:
   - type: employed_by
     with: "[[Harvard University]]"
@@ -112,9 +112,9 @@ Epstein's will, dated August 8, 2019, two days before his death, left Nowak 5 mi
 [^4]: Nowak, Martin A. "Five Rules for the Evolution of Cooperation," *Science* 314, no. 5805 (2006): 1560-1563, on kin selection, direct and indirect reciprocity, network reciprocity, and group selection. https://www.science.org/doi/abs/10.1126/science.1133755
 [^5]: Nowak, Martin A., Corina E. Tarnita, and Edward O. Wilson. "The Evolution of Eusociality," *Nature* 466 (2010): 1057-1062, the paper that drew a rebuttal signed by more than 130 biologists.
 [^6]: "Why did Jeffrey Epstein cultivate famous scientists?," *Scientific American,* 2019, on the establishment of PED under Summers and Epstein's account to Vanity Fair. https://www.scientificamerican.com/article/why-did-jeffrey-epstein-cultivate-famous-scientists/
-[^7]: "Report Concerning Jeffrey E. Epstein's Connections to Harvard University," Harvard University Office of the General Counsel, May 2020, on the donation totals, the establishment of PED, and the gift policy. https://ogc.harvard.edu/file_url/208
+[^7]: "Report Concerning Jeffrey E. Epstein's Connections to Harvard University," Harvard University Office of the General Counsel, May 2020, on the donation totals, the establishment of PED, and the gift policy. https://ogc.harvard.edu/files/ogc/files/report_concerning_jeffrey_e._epsteins_connections_to_harvard_university.pdf
 [^8]: "Martin Nowak Sanctioned for Jeffrey Epstein Involvement," *Harvard Magazine,* March 2021, on the policy violations, the website descriptions, and the terms of the sanctions. https://www.harvardmagazine.com/2021/03/martin-nowak-sanctioned-for-jeffrey-epstein-involvement
-[^9]: Lopez, Diane E., Ara B. Gershengorn, and Martin F. Murphy. *Report Concerning Jeffrey E. Epstein's Connections to Harvard University.* Harvard OGC and Foley Hoag LLP, May 2020, pp. 5, 10-17, 26-27, on Nowak's prior support at the Institute for Advanced Study, his understanding of Faust's decision, the 2010 and 2014 emails, the Black and Falconwood gifts, his Templeton advisory role, and the false-information finding. https://ogc.harvard.edu/file_url/208 ; mirror: https://archive.org/download/epstein-docs_20240108/1.%20Harvard%20Epstein%20Report.pdf
+[^9]: Lopez, Diane E., Ara B. Gershengorn, and Martin F. Murphy. *Report Concerning Jeffrey E. Epstein's Connections to Harvard University.* Harvard OGC and Foley Hoag LLP, May 2020, pp. 5, 10-17, 26-27, on Nowak's prior support at the Institute for Advanced Study, his understanding of Faust's decision, the 2010 and 2014 emails, the Black and Falconwood gifts, his Templeton advisory role, and the false-information finding. https://ogc.harvard.edu/files/ogc/files/report_concerning_jeffrey_e._epsteins_connections_to_harvard_university.pdf ; mirror: https://archive.org/download/epstein-docs_20240108/1.%20Harvard%20Epstein%20Report.pdf
 [^10]: "Harvard Places Math Professor Martin Nowak on Paid Administrative Leave Over Epstein Ties," *The Harvard Crimson,* February 25, 2026, on the 2023 restoration and the renewed leave. https://www.thecrimson.com/article/2026/2/25/nowak-leave-epstein/
 [^11]: "Martin Nowak Placed on Leave a Second Time," *Harvard Magazine,* February 2026, on the Nature reporting, the page-proof advice on the eusociality paper, the 2014 island travel, and the second leave announced February 27, 2026. https://www.harvardmagazine.com/university-news/martin-nowak-harvard-administrative-leave-epstein
 [^12]: "Professor Corina Tarnita on the Epstein Files: 'I Wish I Had Never Known Him'," *Princeton Alumni Weekly,* 2026, on the March 10, 2014 "spy"/"torture" email exchange, Nowak's Civilization II explanation, and Tarnita's account of the scholarships. https://paw.princeton.edu/article/professor-corina-tarnita-epstein-files-i-wish-i-had-never-known-him
