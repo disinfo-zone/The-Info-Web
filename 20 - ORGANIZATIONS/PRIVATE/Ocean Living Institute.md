@@ -13,7 +13,7 @@ location: "New Jersey, USA"
 start: 1974
 relations:
 created: 2026-04-28
-updated: 2026-09-23
+updated: 2026-10-09
 ---
 The Ocean Living Institute was incorporated in Delaware in 1974, with its principal place of business in [[New Jersey]], ostensibly to promote education and research in oceanography. [[Adam Starchild]] was listed as its president and [[Dyer Grossman]] as its executive director. The Internal Revenue Service granted it an "automatic" tax exemption, as it did the [[The Church of New Revelation|Church of the New Revelation]], without challenging or investigating its claim to be a charitable organization. [[Gerald Richards]], organizer of [[Brother Paul's Children's Mission]] on [[North Fox Island]], told police that the institute, the church and the Educational Foundation for Youth of Illinois had been set up as tax dodges and used as fronts for the production of child pornography; Starchild said they might have been "used" for that purpose by Grossman.[^1]
 
@@ -21,9 +21,10 @@ At Richards's arrest in July 1976 police found a letter from Grossman proposing 
 
 ### The Grossman Letter
 
-The writer S. Dovey wrote that Richards handed over the letter in August 1976, postmarked July 19, 1976, with the institute's return address, and that it mentioned a twelve-year-old boy Grossman had obtained through a Big Brother program. The writer S. Dovey described the institute as a sea-steading project. Dovey also wrote that Starchild was Malcolm Willis McConahy, an offshore tax attorney who faked his death in 1975, and a scoutmaster in Minneapolis expelled in 1965.[^2]
+The writer S. Dovey wrote that Richards handed over the letter in August 1976, postmarked July 19, 1976, with the institute's return address, and that it mentioned a twelve-year-old boy Grossman had obtained through a Big Brother program. The writer S. Dovey described the institute as a sea-steading project. Dovey also wrote that Starchild was Malcolm Willis McConahy, an offshore tax attorney who faked his death in 1975, and a scoutmaster in Minneapolis expelled in 1965, and that the institute was incorporated in New Jersey.[^2] The federal trust litigation documents Starchild's continued activity under that name from 1976 to 1985.[^3]
 
 ### Footnotes
 
-[^1]: Wright, Marilyn. "Porno Ring Uses Church, Tax Laws." *Traverse City Record-Eagle,* 1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 86-87. https://archive.org/details/micro_IA41153502_0041
-[^2]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It gives New Jersey as the state of incorporation; Starchild's continued activity under that name in 1976 to 1985 is documented in the federal trust litigation. Sole source for the passages so cited.
+[^1]: Wright, Marilyn. "Porno Ring Uses Church, Tax Laws." *Traverse City Record-Eagle,* 1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 82-83. https://archive.org/details/micro_IA41153502_0041
+[^2]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
+[^3]: *National Bank of Detroit v. Shelden,* 730 F.2d 421 (6th Cir. 1984) (Nos. 82-1737, 82-1905). https://www.courtlistener.com/opinion/433085/national-bank-of-detroit-v-francis-d-shelden-the-trust-company-of-the/

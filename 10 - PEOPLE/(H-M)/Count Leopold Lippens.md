@@ -27,7 +27,7 @@ relations:
     role: "Tolpaertpolder rezoning"
     fn: 3
 created: 2026-05-15
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 Leopold Lippens was born in 1941 into a family whose members included his father, also mayor of [[Knokke-Heist|Knokke]], and his grandfather, a politician and former governor-general of the [[Belgian Congo|Congo]] who was made a baron by [[Leopold III]] in 1936; Lippens inherited the title on his father's death in 1986. He moved into his father's old office as mayor in 1979 and held it until his death. By his own account he knew Jackie Kennedy and [[Ted Kennedy]], and he became friends with [[Donald Trump]] over golf. In 1990 he banned "frigobox tourists" who brought their own lunch to the beach. He stepped back for health reasons in November 2020, was found to have leukemia, and died on February 19, 2021, at 79, during a council meeting he could not attend. His brother is the banker [[Count Maurice Auguste Lippens]].[^1][^2]
@@ -45,4 +45,4 @@ In the [[X-Dossier]] investigation under Judge [[Jean-Marc Connerotte]], the wit
 [^1]: "Leopold Lippens, the baron-mayor of Knokke, dies at 79." *The Brussels Times,* February 20, 2021, archived March 2, 2021. https://web.archive.org/web/20210302173436/https://www.brusselstimes.com/news/belgium-all-news/155873/leopold-lippens-mayor-knokke-dies-at-79-congo-baron-michelin-kennedy-trump-leukaemia/
 [^2]: "Mayor Leopold Lippens of Knokke-Heist has died aged 79." *VRT NWS,* February 19, 2021, archived February 20, 2021.
 [^3]: Goedgebeur, Helen. "Is Leopold Lippens schuldig aan belangenvermenging? Parket voert onderzoek naar burgemeester Knokke-Heist." *VRT NWS,* January 7, 2020, citing *De Standaard;* translated from the Dutch. https://web.archive.org/web/20200108234511/https://www.vrt.be/vrtnws/nl/2020/01/07/is-leopold-lippens-schuldig-aan-belangenvermenging-parket-voert/
-[^4]: Bulté, Annemie, Douglas De Coninck, and Marie-Jeanne Van Heeswyck. *De X-dossiers.* Epo, 1999, and the leaked summary of the X-file investigation published by WikiLeaks in 2009. The witness attributions were located through the Institute for the Study of Globalization and Covert Politics compilation "Belgian X-Dossiers of the Dutroux Affair: the Accused," used as a finding aid only.
+[^4]: Bulté, Annemie, Douglas De Coninck, and Marie-Jeanne Van Heeswyck. *De X-dossiers: wat België niet mocht weten over de zaak-Dutroux.* Antwerp: Houtekiet, 1999, 543 pp., ISBN 90-5240-536-0, and the leaked summary of the X-file investigation published by WikiLeaks in 2009.

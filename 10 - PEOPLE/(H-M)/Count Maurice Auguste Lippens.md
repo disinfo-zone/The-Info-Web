@@ -21,7 +21,7 @@ relations:
     role: "brother"
     fn: 2
 created: 2026-05-15
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 Maurice Lippens is the brother of [[Count Leopold Lippens]], mayor of [[Knokke-Heist]] from 1979 to 2021, and was chairman of the bank [[Fortis]].[^1][^2]
@@ -37,5 +37,5 @@ In the [[X-Dossier]] investigation under Judge [[Jean-Marc Connerotte]], the wit
 ### Footnotes
 
 [^1]: "Maurice Lippens rompt le silence." *VRT NWS,* September 19, 2009, archived October 16, 2019; translated from the French. https://web.archive.org/web/20191016073837/https://www.vrt.be/vrtnws/fr/2009/09/19/maurice_lippens_romptlesilence-1-600628/
-[^2]: Bulté, Annemie, Douglas De Coninck, and Marie-Jeanne Van Heeswyck. *De X-dossiers.* Epo, 1999, and the leaked summary of the X-file investigation published by WikiLeaks in 2009. The witness attributions were located through the Institute for the Study of Globalization and Covert Politics compilation "Belgian X-Dossiers of the Dutroux Affair: the Accused," used as a finding aid only.
+[^2]: Bulté, Annemie, Douglas De Coninck, and Marie-Jeanne Van Heeswyck. *De X-dossiers: wat België niet mocht weten over de zaak-Dutroux.* Antwerp: Houtekiet, 1999, 543 pp., ISBN 90-5240-536-0, and the leaked summary of the X-file investigation published by WikiLeaks in 2009.
 [^3]: "Did Maurice Lippens deceive small investors?" *VRT NWS,* September 21, 2013, archived September 20, 2019. https://web.archive.org/web/20190920101737/https://www.vrt.be/vrtnws/en/2013/09/21/did_maurice_lippensdeceivesmallinvestors-1-1734811/

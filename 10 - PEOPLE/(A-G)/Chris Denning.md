@@ -3,17 +3,20 @@ category: "Criminals & Offenders"
 tags:
   - Person
   - OrganizedCrime
-summary: "Chris Denning was a former BBC Radio One DJ who was good friends with Jimmy Savile and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment."
+summary: "Chris Denning was a former BBC Radio One DJ, a friend of Jimmy Savile and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment."
 born: 1941-05-10
 died: 2022-06-24
 location: "Hayes, Middlesex, England"
+updated: 2026-10-09
 ---
 
 Chris Denning was a former BBC Radio One DJ who was good friends with [[Jimmy Savile]] and, according to Czech police, head of an international pedophile network running a child porn operation from his Prague apartment. The investigation into Denning served as the genesis to ongoing probes into a suspected child abuse ring linked to the [[BBC]], which eventually culminated in the infamous [[Operation Yewtree]] investigation after Jimmy Savile's death.[^1]
 
-Denning had been arrested in November 1997 based on information Czech police received from Scotland Yard after [[Warwick Spinks]] went into exile there. Denning was arrested by detectives investigating an international child pornography ring. Police alleged he was the leader of the child sex ring and said he was arrested after cocaine had been fed to young boys in preparation for filming a pornographic video. The arrest came after a two-month surveillance operation in which Scotland Yard supplied vital information about Denning's movements to colleagues on the continent. Denning, who had a flat in Prague and ran a music and video production company from his home in Britain, had been jailed for 10 weeks in February 1996 for possessing child pornography.[^1]
+S. Dovey wrote that Denning was arrested in November 1997 on information Czech police received from Scotland Yard after [[Warwick Spinks]] went into exile in Prague. Denning was arrested by detectives investigating an international child pornography ring. Police alleged he was the leader of the child sex ring and said he was arrested after cocaine had been fed to young boys in preparation for filming a pornographic video. The arrest came after a two-month surveillance operation in which Scotland Yard supplied vital information about Denning's movements to colleagues on the continent. Denning, who had a flat in Prague and ran a music and video production company from his home in Britain, had been jailed for 10 weeks in February 1996 for possessing child pornography.[^1]
 
-Denning and three others, two Frenchmen and an American, were charged with hooking boys as young as seven on cocaine to produce pornography they distributed globally online. A week after Denning's arrest, British glam rock artist [[Gary Glitter]], whose career Denning helped catapult to the Top of the Pops in the 1970s, was arrested by British authorities after child pornography was discovered on a computer he had taken into a repair store. Glitter had downloaded thousands of these images from specially encrypted members-only webservers, presumably one of which had been run by his old pal Chris Denning, who was running around with Warwick Spinks in Prague producing child pornography on the harder end of the scale.[^1]
+The Guardian reported on July 31, 1998 that Denning, aged 57, was in Pankrac prison in Prague awaiting trial; the same article reported that Warwick Spinks, who had broken his parole in Britain, was running an accommodation agency for foreign visitors in the city.[^2] The [[Child Exploitation and Online Protection Centre]] said Spinks breached his licence conditions in 1997, was recalled to prison and went missing.[^3]
+
+Denning and three others, two Frenchmen and an American, were charged with hooking boys as young as seven on cocaine to produce pornography they distributed globally online. A week after Denning's arrest, British glam rock artist [[Gary Glitter]], whose career Denning helped catapult to the Top of the Pops in the 1970s, was arrested by British authorities after child pornography was discovered on a computer he had taken into a repair store. Glitter had downloaded thousands of these images from specially encrypted members-only webservers. S. Dovey wrote that one of these had presumably been run by Denning, who he wrote was running around with Warwick Spinks in Prague producing child pornography on the harder end of the scale.[^1]
 
 ### Trial and Conviction
 
@@ -25,8 +28,10 @@ Following King's conviction, investigators put in an extradition request for Chr
 
 The investigation into King and Denning in the early 2000s led to another, called [[Operation Arundel]], into a suspected pedophile ring of BBC celebrities in the 70s and 80s who allegedly procured boys and girls from an underage nightclub called the [[Walton Hop Disco]]. This investigation led to the arrest of another BBC personality in 2003, but the charges against them were subsequently dropped. One suspect in that investigation who was never arrested or charged had been a good friend and colleague of both Denning and King, BBC Radio One DJ Jimmy Savile. Nothing came of this though. The case was closed and forgotten about for nearly a decade.[^1]
 
-The arrest of Chris Denning followed in June 2013 under [[Operation Yewtree]], and he was convicted of historic child sexual abuse against 24 boys, one of whom Denning allegedly raped at Jimmy Savile's house. His conviction was part of the broader investigation into the organized pedophile network operating at the BBC that had been exposed through the Operation Yewtree investigation.[^1]
+The arrest of Chris Denning followed in June 2013 under Operation Yewtree, and he was convicted of historic child sexual abuse against 24 boys, one of whom Denning allegedly raped at Jimmy Savile's house. His conviction was part of the broader investigation into the organized pedophile network operating at the BBC that had been exposed through the Operation Yewtree investigation.[^1]
 
 ### Footnotes
 
 [^1]: Dovey, S. (2023). Eye of the Chickenhawk. United States: Thehotstar.
+[^2]: Kate Connolly and Owen Bowcott, "Fugitive Briton linked to Dutch child porn hits at 'witch-hunt' from Prague refuge," The Guardian, July 31, 1998, page 15.
+[^3]: Child Exploitation and Online Protection Centre, "Child sexual offender who went on the run for 15 years is now back behind bars," press release, November 16, 2012, Wayback Machine capture of January 30, 2013, https://web.archive.org/web/20130130112106/http://ceop.police.uk/Media-Centre/Press-releases/2012/

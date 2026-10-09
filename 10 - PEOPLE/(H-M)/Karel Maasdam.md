@@ -5,11 +5,10 @@ tags:
   - Person
   - Netherlands
   - PedophileNetwork
-  - Dutroux
   - RolodexInvestigation
-summary: "Karel Maasdam, operating under the alias 'Alex Privee,' ran the Bell Boys callboy service in the Netherlands during the 1980s, which provided underage male prostitutes to senior Dutch judicial and political figures; his networks were connected to international pedophile organizations and were investigated in connection with the Dutroux affair and the Dutch Rolodex Investigation."
+summary: "Karel Maasdam, alias 'Alex Privee,' ran the Bell Boys callboy service in the Netherlands in the 1980s, which supplied underage male prostitutes to Dutch judicial and political figures, and is named in the Rolodex Investigation."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-10-09
 location: "Netherlands"
 ---
 Karel Maasdam, using the alias "Alex Privee," operated the [[Bell Boys]] callboy service in the [[Netherlands]] during the 1980s, a commercial sexual abuse enterprise that provided underage boys to clients drawn from the Dutch legal, judicial, and political establishment. Maasdam also operated the [[Festival Bar]], a venue connected to the networks documented in Dutch pedophile investigations of the period. His operations were connected to [[John Stamford]]'s [[Spartacus Network]] through companies including [[Korper and Korver]] and [[Adonis]].[^1]
@@ -20,15 +19,13 @@ The [[Rolodex Investigation]], a Dutch police inquiry into organized boy prostit
 
 [[Henry Hans Holthuis]], who served as Chief Prosecutor of the [[International Criminal Court|International Criminal Tribunal for the Former Yugoslavia]] from 2003 to 2007, is among the prominent Dutch officials named in connection with the Bell Boys investigation. [[Robert Jan Warmerdam]], a witness in Dutch investigations, described attending events connected to Maasdam's network and provided testimony linking the Bell Boys service to the broader international pedophile infrastructure centered on [[Amsterdam]].[^1]
 
-### Connections to Belgian Network
-
-Maasdam appears in the [[X-Dossier]] material from the [[Marc Dutroux]] investigation. Witness X2 named Maasdam in describing the overlapping Belgian and Dutch networks of organized abuse that she said she had direct knowledge of from the 1980s. The witness identified connections between the Belgian networks around [[Baron Benoit de Bonvoisin]] and the Dutch networks centered on Maasdam's operations.[^2]
-
-The Belgian X-Dossier witness referred to as X2 described attending events at locations connected to [[Count Maurice Auguste Lippens|Maurice Lippens]]'s villa circuit and said her presence there was arranged partly through the social milieu connected to Maasdam's networks. These claimed connections between the Belgian elite abuse networks and Dutch commercial abuse operations reflected what investigators identified as a shared social infrastructure operating across national borders.[^2]
-
 ### International Connections
 
-Maasdam's [[Festival Bar]] and [[Bell Boys]] service intersected with the broader international pedophile network centered on [[Amsterdam]], including [[PAN Magazine]] distribution networks and the [[Pedophile Information Exchange|PIE]]-connected organizations that used Amsterdam as a publishing and organizational base. The [[G-Force nightclub]] in Amsterdam - connected through company structures to Maasdam's enterprises - was also investigated as a venue whose management had links to the [[Gero-Video]] and [[TAG Films]] production networks connected to [[Warwick Spinks]].[^1]
+Maasdam's Festival Bar and Bell Boys service intersected with the broader international pedophile network centered on Amsterdam, including [[PAN Magazine]] distribution networks and the [[Pedophile Information Exchange|PIE]]-connected organizations that used Amsterdam as a publishing and organizational base. The [[G-Force nightclub]] in Amsterdam - connected through company structures to Maasdam's enterprises - was also investigated as a venue whose management had links to the [[Gero-Video]] and [[TAG Films]] production networks connected to [[Warwick Spinks]].[^1]
+
+### Name in the X-Dossier
+
+A Brussels magistrate identified in X-Dossier witness statements only by the first name Karel (PV 117.535, November 19, 1996) is not identified in those statements as Karel Maasdam.[^2]
 
 ### Footnotes
 
