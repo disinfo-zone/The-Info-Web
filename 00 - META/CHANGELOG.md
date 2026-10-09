@@ -1,3 +1,4 @@
+- 2026-10-09T1442 · [[Hans Speier]]
 - 2026-10-09T1441 · [[Robert M. Brier]]
 - 2026-10-09T1441 · [[Martin Ebon]]
 - 2026-10-09T1440 · [[Project MKUltra]]
@@ -21,7 +22,6 @@
 - 2026-10-09T1335 · [[Wilhelm Reich]]
 - 2026-10-09T1335 · [[Max Ascoli]]
 - 2026-10-09T1334 · [[Research Project on Totalitarian Communication]]
-- 2026-10-09T1334 · [[Hans Speier]]
 - 2026-10-09T1333 · [[CIAA]]
 - 2026-10-09T1333 · [[BBC]]
 - 2026-10-09T1333 · [[Bill Clinton]]
