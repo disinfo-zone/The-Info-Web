@@ -12,19 +12,24 @@ location: "Highland Park, Illinois"
 
 Stansfield Turner (1923–2018) was an American admiral who served as the [[Director of Central Intelligence|DCI]] under President [[Jimmy Carter]] from 1977 to 1981. His tenure at the [[Central Intelligence Agency|CIA]] was marked by significant changes, including a reduction in [[Human Intelligence|HUMINT]] capabilities, which was seen as being on the wane following a number of scandals in the mid-1970s, including revelations of domestic spying.[^1]
 
-As Director of Central Intelligence, Turner abruptly cut back intelligence liaison with [[Israel]] and other friendly nations as part of a restructuring of the CIA. This move was met with disquiet from the Israelis, who were accustomed to warmer treatment from previous administrations.[^3]
+As Director of Central Intelligence, Turner abruptly cut back intelligence liaison with [[Israel]] and other friendly nations as part of a restructuring of the CIA. This move was met with disquiet from the Israelis, who were accustomed to warmer treatment from previous administrations.[^2]
 
 In an interview in 2002, Turner stated, "When I was first introduced to this idea of [[Parapsychology|parapsychology]] I was very skeptical. Then I began to think about it, and we all know of people who seem to have some kind of psychic powers." His acceptance of the phenomena, despite his initial skepticism, was crucial for the continuation of the [[Stargate Project|Stargate]] program.[^1]
 
 Turner was widely disliked within the Agency for abruptly firing two hundred case officers in CIA stations around the world in October 1977. He seemed to prefer "arm's-length collection techniques," such as satellite photography and communications intercepts, over traditional spy work. This preference for "clean" spying methods inadvertently made psychic intelligence, or [[PSI-INT]], seem like an ideal alternative in the political context of the time.[^1]
 
-Turner was also a member of the board of directors for [[Wackenhut Corporation]], a security firm with extensive ties to government and intelligence agencies.[^2]
+Turner was also a member of the board of directors for [[Wackenhut Corporation]], a security firm with extensive ties to government and intelligence agencies.[^3]
 
-During Jimmy Carter's presidency, Turner's leadership of the CIA saw the agency distanced from death-squad interdiction due to Carter's human rights foreign policy in [[Latin America]].[^2]
+During Jimmy Carter's presidency, Turner's leadership of the CIA saw the agency distanced from death-squad interdiction due to Carter's human rights foreign policy in [[Latin America]].[^3]
 
+
+### Notifications to Institutions, 1977
+
+On August 2, 1977 Turner wrote to Senator [[Daniel K. Inouye]] that the agency had recovered MKULTRA documents naming researchers and institutions, and that "We are now in possession of the names of 185 non-government researchers and assistants." He wrote that the names were being given to the committee "on a classified basis," that he had "a legal obligation under the Privacy Act not to publicly disclose the names of the individual researchers without their consent," and that he was "working closely with the Attorney General and with the Secretary of Health, Education and Welfare on this matter."[^4]
 
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
-[^2]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-[^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.
+[^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.
+[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
+[^4]: Turner, Stansfield, Director of Central Intelligence, letter to Senator Daniel K. Inouye, chairman, Select Committee on Intelligence, August 2, 1977, in New School digital object NS010102_000027, PDF pp. 96-103 (185 researchers at p. 101; Privacy Act at p. 102; Attorney General passage at p. 103). https://digital.archives.newschool.edu/index.php/Detail/objects/NS010102_000027
