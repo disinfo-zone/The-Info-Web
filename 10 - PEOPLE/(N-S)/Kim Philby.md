@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-09
 title: Kim Philby
 aliases:
   - Kim Philby
@@ -19,7 +19,7 @@ tags:
   - 1940s
   - 1950s
   - 1960s
-summary: "Kim Philby was the most damaging member of the Cambridge Five, a KGB agent who penetrated MI6 to its anti-Soviet section chief and CIA liaison in Washington, directly causing the death or capture of hundreds of Western agents and precipitating James Angleton's decade-long mole hunt paranoia before defecting to Moscow in January 1963."
+summary: "Kim Philby, Cambridge Five member and KGB agent inside MI6, rose to head its anti-Soviet section and serve as CIA liaison in Washington before defecting to Moscow in January 1963."
 born: 1912-01-01
 died: 1988-05-11
 location: "Moscow, Soviet Union"
@@ -32,6 +32,8 @@ Harold Adrian Russell Philby, universally known as Kim, was born January 1, 1912
 The Cambridge Five - the group of British agents recruited by Soviet intelligence in the early-to-mid 1930s at Cambridge - comprised Philby, [[Guy Burgess]], [[Donald Maclean]], [[Anthony Blunt]], and [[John Cairncross]]. All five were ideologically drawn to Communism during the Depression era, when the Soviet Union appeared to represent a coherent alternative to fascism and the failures of liberal capitalism. Philby's recruiter was the Austrian Communist Arnold Deutsch, who operated under the guidance of [[Alexander Orlov]] of Soviet intelligence.
 
 Philby's assignment was long-term penetration of the British intelligence and foreign policy establishment. His cover was carefully constructed: he worked initially as a journalist sympathetic to fascism - including covering the Spanish Civil War from the Nationalist side - to launder his previous left-wing associations before approaching government employment.[^1]
+
+In 1963 [[Michael Whitney Straight]], an American who had been in the same Cambridge circle, told United States authorities that Anthony Blunt had approached him in 1937 to spy. Straight told the [[Federal Bureau of Investigation|FBI]] in June 1963 that he believed Guy Burgess was the person directing Blunt.[^2] In 1981 he said that the FBI passed the details to British security officials and that Blunt confessed in exchange for immunity.[^3] A Cabinet Office minute of January 17, 1983 states that "the lead which led to Anthony Blunt's confession in 1964 was a statement by an American, Mr Michael Whitney Straight, towards the end of 1963."[^4] The National Archives file KV 2/4705 on Blunt covers February 28 to June 19, 1964 and is catalogued as recording that he confessed and was given immunity.[^5] The Vassiliev notebooks, in the Wilson Center translation, quote Burgess ("Madchen") in January and February 1937 reports on Straight to the London station, and a 1942 report on Straight names "Madchen" and "Tony" as the sources through whom he had been recruited.[^6]
 
 ### MI6 Career
 
@@ -49,7 +51,7 @@ Philby deliberately delayed the British response, citing bureaucratic complicati
 
 From 1949 to 1951, Philby served as MI6's liaison officer in [[Washington, D.C.]], working alongside the newly established [[Central Intelligence Agency|CIA]]. This position gave him access to the joint MI6-CIA program of operations against Soviet-occupied states, including Operation Valuable, the 1949-1950 joint effort to insert agents into [[Albania]] to support an anti-Communist resistance movement.
 
-Philby informed Moscow of Operation Valuable's personnel, insertion methods, and timing. The Albanian agents were captured or killed as they arrived. The operation failed completely, with approximately three hundred agents eventually dead or imprisoned. The CIA's [[Frank Wisner]], who ran the program, spent years attributing the failures to bad luck or operational security lapses before the full scope of Philby's betrayal became clear.[^2]
+Philby informed Moscow of Operation Valuable's personnel, insertion methods, and timing. The Albanian agents were captured or killed as they arrived. The operation failed completely, with approximately three hundred agents eventually dead or imprisoned. The CIA's [[Frank Wisner]], who ran the program, spent years attributing the failures to bad luck or operational security lapses before the full scope of Philby's betrayal became clear.[^7]
 
 During his Washington posting, Philby also became aware of the [[Venona]] project - the American-British effort to decrypt intercepted Soviet intelligence communications from the 1940s. He informed Moscow of Venona's existence and progress, enabling the KGB to identify which agents might be exposed by the decrypts and to take protective action.
 
@@ -69,9 +71,14 @@ Philby lived in Moscow from 1963 until his death. He was awarded the Order of Le
 
 ### Legacy
 
-The cumulative damage of Philby's espionage is difficult to quantify but was among the most severe of any penetration agent in Western intelligence history. Western agents died, operations failed, and intelligence assessments were systematically corrupted throughout the late 1940s and early 1950s. The trust between MI6 and the CIA was severely damaged; CIA counterintelligence chief [[James Angleton]], who had been personally close to Philby in Washington, developed the conspiratorial suspicion of Soviet penetration that paralyzed CIA operations for years afterward.[^2]
+The cumulative damage of Philby's espionage is difficult to quantify but was among the most severe of any penetration agent in Western intelligence history. Western agents died, operations failed, and intelligence assessments were systematically corrupted throughout the late 1940s and early 1950s. The trust between MI6 and the CIA was severely damaged; CIA counterintelligence chief [[James Angleton]], who had been personally close to Philby in Washington, developed the conspiratorial suspicion of Soviet penetration that paralyzed CIA operations for years afterward.[^7]
 
 ### Footnotes
 
 [^1]: Philby, Kim. *My Silent War.* Granada, 1968 (Philby's own account, selective but valuable for his perspective). Macintyre, Ben. *A Spy Among Friends: Kim Philby and the Great Betrayal.* Crown, 2014 (the definitive modern account, drawing on MI5 files and interviews with Philby's contemporaries).
-[^2]: Mangold, Tom. *Cold Warrior: James Jesus Angleton, the CIA's Master Spy Hunter.* Simon & Schuster, 1991 (covers Angleton's relationship with Philby and its aftermath for CIA counterintelligence). West, Nigel, and Oleg Tsarev. *The Crown Jewels: The British Secrets at the Heart of the KGB Archives.* Yale University Press, 1999 (uses KGB archive material on the Cambridge Five).
+[^2]: Federal Bureau of Investigation, "Straight, Michael W., HQ-1" (FOI/PA 1179375-1), memorandum of June 25, 1963 on the interview of June 18, 1963, https://archive.org/details/StraightMichaelW.HQ1. The belief that Burgess directed Blunt is Straight's own, as recorded by the agents.
+[^3]: Joe Ritchie, "Writer Cites Role in Unmasking British Spy," The Washington Post, March 26, 1981, CIA Reading Room copy, https://archive.org/details/cia-readingroom-document-cia-rdp90-00552r000302750023-1; Daniel F. Gilmore, United Press International, March 26, 1981, https://www.upi.com/Archives/1981/03/26/Michael-W-Straight-former-deputy-chairman-of-the-National/9678354430800/.
+[^4]: Sir Robert Armstrong to Mr. Butler, minute ref. A083/0151, January 17, 1983, The National Archives (UK), PREM 19/1951 f208, https://www.margaretthatcher.org/document/244748 (PDF: https://archive.margaretthatcher.org/doc23/830117%20cab%20off%20min%20PREM19-1951%20f208.pdf).
+[^5]: The National Archives (UK), file KV 2/4705, "Anthony BLUNT," 1964, Discovery record C19404941, https://discovery.nationalarchives.gov.uk/details/r/C19404941. The catalogue description does not name Straight.
+[^6]: Alexander Vassiliev, White Notebook #3 (English translation), pp. 81, 111 to 112 and 122 to 123, Wilson Center Digital Archive, https://digitalarchive.umd.edu/node/88908. Bracketed identifications are Vassiliev's; the posted translation contains errors.
+[^7]: Mangold, Tom. *Cold Warrior: James Jesus Angleton, the CIA's Master Spy Hunter.* Simon & Schuster, 1991 (covers Angleton's relationship with Philby and its aftermath for CIA counterintelligence). West, Nigel, and Oleg Tsarev. *The Crown Jewels: The British Secrets at the Heart of the KGB Archives.* Yale University Press, 1999 (uses KGB archive material on the Cambridge Five).

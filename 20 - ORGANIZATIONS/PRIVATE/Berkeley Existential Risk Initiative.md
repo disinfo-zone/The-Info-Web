@@ -12,8 +12,16 @@ tags:
   - JaanTallinn
 summary: "The Berkeley Existential Risk Initiative is the nonprofit founded in 2017 by Andrew Critch that provides free operational support and grants to university research groups working on existential risk, funded chiefly by Jaan Tallinn and Open Philanthropy."
 location: "Berkeley, California"
+relations:
+  - type: participant_in
+    with: "[[Claire Zabel]]"
+    reverse: true
+    start: 2020-01
+    end: 2021-03
+    role: "grant investigator on the January 2020 general support grant and the March 2021 SERI summer fellowship stipend grant"
+    fn: 7
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-10-08
 ---
 
 The Berkeley Existential Risk Initiative (BERI) is an American nonprofit founded in 2017 that supports academic research groups studying risks to the long-term survival of humanity. Its distinctive method is to supply university centers with services and staff that universities are slow to provide, hiring contractors, engineers, and assistants and handling logistics on behalf of researchers, and it also makes grants to such groups. BERI is funded chiefly by the [[Skype]] cofounder [[Jaan Tallinn]] and by [[Open Philanthropy]], and it has served as an operational and grantmaking intermediary in the existential-risk and AI-safety field, including for Tallinn's [[Survival and Flourishing Fund]].[^1][^2]
@@ -36,6 +44,8 @@ BERI is funded by the same small set of donors that supports much of the existen
 
 BERI announced its first grants program in September 2017, and its early grantmaking, funded by Tallinn, was one of the channels through which his existential-risk giving flowed before he formalized the Survival and Flourishing Fund and its S-process in 2019; BERI has continued to act as a grantmaking and fiscal intermediary that distributes some of the funds the S-process recommends. The concentration of its support among a handful of donors, principally Tallinn and Open Philanthropy, mirrors the funding structure of the wider field it serves.[^2][^6]
 
+Open Philanthropy's grant pages record two grants to BERI with [[Claire Zabel]] as grant investigator. In January 2020 the foundation recommended 150,000 dollars in general support, intended to help BERI establish new collaborations; the page describes it as following the foundation's January 2019 support.[^7] In March 2021 it recommended 210,000 dollars to provide stipends for the [[Stanford Existential Risks Initiative]] summer research fellowship program.[^8]
+
 ### Footnotes
 
 [^1]: "Info," Berkeley Existential Risk Initiative, on the mission to improve civilization's long-term prospects, the collaboration-with-university-groups strategy, the free-services model, the 2017 founding by Andrew Critch, and the leadership of Sawyer Bernath since 2020. https://www.beri.org/
@@ -44,3 +54,5 @@ BERI announced its first grants program in September 2017, and its early grantma
 [^4]: "Collaborations," Berkeley Existential Risk Initiative, on the partnership with the Center for Human-Compatible AI under Stuart Russell at UC Berkeley and other research groups. https://www.beri.org/collaborations
 [^5]: "March 2017: Berkeley Existential Risk Initiative," Effective Altruism Funds, on early grant support to BERI. https://funds.effectivealtruism.org/payouts/march-2017-berkeley-existential-risk-initiative-beri
 [^6]: "Announcing BERI's first grants program," Berkeley Existential Risk Initiative, September 25, 2017, on the first grants program funded by Jaan Tallinn. https://existence.org/2017/09/25/announcing-beris-first-grants-program.html
+[^7]: Open Philanthropy, "Berkeley Existential Risk Initiative: General Support," award date January 2020, amount 150,000 dollars, grant investigator Claire Zabel, Wayback Machine capture of 2024. https://web.archive.org/web/2024id_/https://www.openphilanthropy.org/grants/berkeley-existential-risk-initiative-general-support/
+[^8]: Open Philanthropy, "Berkeley Existential Risk Initiative: SERI Summer Fellowships," award date March 2021, amount 210,000 dollars, grant investigator Claire Zabel, Wayback Machine capture of 2024. https://web.archive.org/web/2024id_/https://www.openphilanthropy.org/?p=7033

@@ -79,14 +79,20 @@ relations:
     reverse: true
     end: 2023-06-30
     role: "president, 1,868,393 dollars reportable compensation in the return for the year to June 2023"
-    fn: 27
+    fn: 30
   - type: head_of
     with: "[[David Rubenstein]]"
     reverse: true
     role: "chairman in the return for the year to June 2023"
-    fn: 27
+    fn: 30
+  - type: funded
+    with: "[[Bernard L. Schwartz]]"
+    reverse: true
+    start: 2002
+    role: "Bernard L. Schwartz Senior Fellowship in Business and Foreign Policy, first holder Bennett Freeman"
+    fn: 26
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-09
 ---
 
 The Council on Foreign Relations is a New York membership organization that publishes [[Foreign Affairs]] and runs study groups, a meetings program for members, affiliated Committees on Foreign Relations in other cities and a corporate subscription program.
@@ -167,21 +173,27 @@ General fund expenditures were 6,778,300 dollars against total funding of 6,718,
 
 The report lists as directors, at press time, Harold Brown, Stanley Hoffmann, Nicholas Katzenbach, Lane Kirkland, Juanita Kreps, Robert Scalapino, [[Brent Scowcroft]], Stephen Stamas, Philip Geyelin, McColough, Donald McHenry, Peterson, William D. Rogers, Vance, Marina Whitman, Walter Wriston, Graham Allison, Warren Christopher, Richard Gelb, Alan Greenspan, [[Bobby Ray Inman]], Jeane Kirkpatrick, Lewis Preston and Clifton Wharton. Of these twenty-four, Brown, Allison, Christopher, Kirkland, Greenspan, Kreps and Whitman appear in the Trilateral Commission's North American roster of July 1981.[^1][^23] A letter from McCloy dated June 27, 1985, printed in the report, refers to David Rockefeller's "44 years of close and active association with the Council" and to his "relinquishment of his leadership on the Board."[^1]
 
+### The Bernard L. Schwartz fellowship and the Greenberg Center, 2002
+
+On March 20, 2002, the council announced that [[Bennett Freeman]] had been named the first Bernard L. Schwartz Fellow in Business and Foreign Policy. The fellowship was placed in the council's new [[Maurice R. Greenberg Center for Geoeconomic Studies]]. The release states: "This fellowship is funded by Bernard L. Schwartz, Chairman and CEO of Loral Space & Communications Ltd."[^26]
+
+Two months earlier, on January 9, 2002, [[Space Systems/Loral]] had signed a consent agreement with the State Department's Office of Defense Trade Controls. The agreement set a civil penalty of $20,000,000, of which $14,000,000 was payable and $6,000,000 was suspended, and recorded that the company neither admitted nor denied the allegations in a draft charging letter.[^27] The draft charging letter, addressed to the president of Loral Space & Communications, alleged "Sixty-four (64) violations" in connection with the aftermath of the February 1996 Long March 3B failure.[^28]
+
 ### Foreign Affairs
 
-Foreign Affairs published "The Sources of Soviet Conduct" in July 1947 over the signature "X," credited by the journal to George F. Kennan; the article called for "a long-term, patient but firm and vigilant containment of Russian expansive tendencies."[^26]
+Foreign Affairs published "The Sources of Soviet Conduct" in July 1947 over the signature "X," credited by the journal to George F. Kennan; the article called for "a long-term, patient but firm and vigilant containment of Russian expansive tendencies."[^29]
 
 ### Recent filings
 
-The Council's Form 990 for the year ended June 30, 2023 reports revenue of 106,930,600 dollars, expenses of 83,166,400 dollars and year-end assets of 719,707,600 dollars; the same series of returns on the [[ProPublica]] Nonprofit Explorer shows revenue of 59,633,100 dollars and assets of 438,237,900 dollars for the year to June 2011.[^2] The 2023 return lists contributions of 63,113,857 dollars, Foreign Affairs revenue of 11,709,500, individual membership revenue of 9,036,200 and corporate membership revenue of 1,103,843, with 711 employees and 34 voting members of the governing body. It describes the membership as "over 5,000," states that the members elect all voting directors, and gives the year of founding as 1921.[^27]
+The Council's Form 990 for the year ended June 30, 2023 reports revenue of 106,930,600 dollars, expenses of 83,166,400 dollars and year-end assets of 719,707,600 dollars; the same series of returns on the [[ProPublica]] Nonprofit Explorer shows revenue of 59,633,100 dollars and assets of 438,237,900 dollars for the year to June 2011.[^2] The 2023 return lists contributions of 63,113,857 dollars, Foreign Affairs revenue of 11,709,500, individual membership revenue of 9,036,200 and corporate membership revenue of 1,103,843, with 711 employees and 34 voting members of the governing body. It describes the membership as "over 5,000," states that the members elect all voting directors, and gives the year of founding as 1921.[^30]
 
-[[Richard Haass]] is shown as president through June 30, 2023 with reportable compensation of 1,868,393 dollars and 59,851 dollars of other compensation; [[Michael Froman]] is named as principal officer. Other reported compensation includes 524,534 dollars to the chief investment officer, [[Giovanna Ban]], 519,740 to the executive vice president and chief financial officer, Keith Olson, 459,793 to the director of studies, [[James M. Lindsay]], 330,419 to the editor of Foreign Affairs, [[Daniel Kurtz-Phelan]], and 280,205 to the distinguished fellow [[Martin Indyk]]. [[David Rubenstein]] is chairman, [[Blair Effron]] and [[Jami Miscik]] vice-chairmen, and the directors include [[Thad Allen]], [[Ashton B. Carter]] (through October 2022), [[Kenneth I. Chenault]], [[Laurence D. Fink]] (through June 30, 2023), [[Timothy F. Geithner]] (through June 30, 2023), [[James P. Gorman]], [[Stephen J. Hadley]], [[Jeh Johnson]], [[William H. McRaven]], [[Janet Napolitano]], [[Meghan O'Sullivan]], [[Ruth Porat]], [[Laurene Powell Jobs]], [[Frances F. Townsend]], [[Daniel H. Yergin]] and [[Fareed Zakaria]]. Schedule O reports business relationships between Haass and directors Effron, [[Stephen C. Freidheim]] and [[Nicholas Beim]]; between Rubenstein and Carter and Yergin; between Miscik and Gorman; and between directors [[James Manyika]] and Porat. Schedule I lists fellowship payments including 596,458 dollars for nine International Affairs Fellows, 288,750 dollars for four fellows in national security, 119,350 dollars for six in Japan, 100,000 dollars for one Edward R. Murrow press fellow and 80,000 dollars for one Stanton nuclear security fellow. The donor schedule is redacted in the public copy.[^27]
+[[Richard Haass]] is shown as president through June 30, 2023 with reportable compensation of 1,868,393 dollars and 59,851 dollars of other compensation; [[Michael Froman]] is named as principal officer. Other reported compensation includes 524,534 dollars to the chief investment officer, [[Giovanna Ban]], 519,740 to the executive vice president and chief financial officer, Keith Olson, 459,793 to the director of studies, [[James M. Lindsay]], 330,419 to the editor of Foreign Affairs, [[Daniel Kurtz-Phelan]], and 280,205 to the distinguished fellow [[Martin Indyk]]. [[David Rubenstein]] is chairman, [[Blair Effron]] and [[Jami Miscik]] vice-chairmen, and the directors include [[Thad Allen]], [[Ashton B. Carter]] (through October 2022), [[Kenneth I. Chenault]], [[Laurence D. Fink]] (through June 30, 2023), [[Timothy F. Geithner]] (through June 30, 2023), [[James P. Gorman]], [[Stephen J. Hadley]], [[Jeh Johnson]], [[William H. McRaven]], [[Janet Napolitano]], [[Meghan O'Sullivan]], [[Ruth Porat]], [[Laurene Powell Jobs]], [[Frances F. Townsend]], [[Daniel H. Yergin]] and [[Fareed Zakaria]]. Schedule O reports business relationships between Haass and directors Effron, [[Stephen C. Freidheim]] and [[Nicholas Beim]]; between Rubenstein and Carter and Yergin; between Miscik and Gorman; and between directors [[James Manyika]] and Porat. Schedule I lists fellowship payments including 596,458 dollars for nine International Affairs Fellows, 288,750 dollars for four fellows in national security, 119,350 dollars for six in Japan, 100,000 dollars for one Edward R. Murrow press fellow and 80,000 dollars for one Stanton nuclear security fellow. The donor schedule is redacted in the public copy.[^30]
 
-Five of the directors named in the 2023 return (Rubenstein, Manyika, O'Sullivan, Townsend and Yergin) are members of the North American group in the Trilateral Commission's list of September 6, 2024, on which five Council fellows also appear.[^28]
+Five of the directors named in the 2023 return (Rubenstein, Manyika, O'Sullivan, Townsend and Yergin) are members of the North American group in the Trilateral Commission's list of September 6, 2024, on which five Council fellows also appear.[^31]
 
 ### Jeffrey Epstein
 
-Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|Epstein Library]], one headed "Biographical Information of Jeffrey E. Epstein" and one "About Jeffrey E. Epstein," neither dated on its face, describe [[Jeffrey Epstein]] as "a former member of the Trilateral Commission and a former member of the Council on Foreign Relations." No Council membership roll appears in the documents examined.[^29] An exchange of November 8 and 15, 2010 between Epstein and the Council's director of events concerns travel and a weekend event.[^30]
+Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|Epstein Library]], one headed "Biographical Information of Jeffrey E. Epstein" and one "About Jeffrey E. Epstein," neither dated on its face, describe [[Jeffrey Epstein]] as "a former member of the Trilateral Commission and a former member of the Council on Foreign Relations." No Council membership roll appears in the documents examined.[^32] An exchange of November 8 and 15, 2010 between Epstein and the Council's director of events concerns travel and a weekend event.[^33]
 
 ### Footnotes
 
@@ -210,8 +222,11 @@ Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|E
 [^23]: The Trilateral Commission, membership list "As of July 1, 1981," reprinted in Congressional Research Service, The Trilateral Commission, Issue Packet IP0092 (Library of Congress, 1981), https://www.everycrsreport.com/files/19810501_IP0092_2d3ea09e2c6068af730f41d315f4ea490bc91878.pdf
 [^24]: Memoranda, National Intelligence Officer for China to Deputy Director of Central Intelligence for National Intelligence, July 26, 1976 (NIO 1215-76) and September 7, 1976 (NIO 1426-76), CIA-RDP83B00100R000100130019-2, https://archive.org/details/cia-readingroom-document-cia-rdp83b00100r000100130019-2
 [^25]: Letter, Stansfield Turner to Alton Frye, Director, International Affairs Fellowships, Council on Foreign Relations, September 12, 1979, CIA-RDP80B01554R003300220008-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01554r003300220008-8
-[^26]: "X" (George F. Kennan), "The Sources of Soviet Conduct," Foreign Affairs, vol. 25, no. 4, July 1947, https://www.foreignaffairs.com/articles/russian-federation/1947-07-01/sources-soviet-conduct
-[^27]: Internal Revenue Service, Form 990 of Council on Foreign Relations Inc for the year ended June 30, 2023 (tax year 2022), Parts I, III, VI, VII, VIII, Schedules B, I and O, IRS e-file XML object 202430169349300598, https://apps.irs.gov/pub/epostcard/990/xml/2024/2024_TEOS_XML_01A.zip (member 2024_TEOS_XML_01A/202430169349300598_public.xml)
-[^28]: The Trilateral Commission, membership list "Last updated September 6, 2024," North American Group, https://archive.org/details/tc-membership-list-sept-6-2024-1
-[^29]: Department of Justice, Epstein Library, "Biographical Information of Jeffrey E. Epstein," EFTA00725190, and "About Jeffrey E. Epstein," EFTA00725191, https://www.justice.gov/epstein/files/DataSet%209/EFTA00725190.pdf and https://www.justice.gov/epstein/files/DataSet%209/EFTA00725191.pdf
-[^30]: Department of Justice, Epstein Library, emails of November 8 and 15, 2010 between Jeffrey Epstein and the Council on Foreign Relations director of events, EFTA00751793, https://www.justice.gov/epstein/files/DataSet%209/EFTA00751793.pdf
+[^26]: Council on Foreign Relations, "Bennett Freeman Named First Bernard L. Schwartz Senior Fellow in Business and Foreign Policy," press release dated March 20, 2002, https://www.cfr.org/articles/bennett-freeman-named-first-bernard-l-schwartz-senior-fellow-business-and-foreign
+[^27]: U.S. Department of State, Bureau of Political-Military Affairs, Office of Defense Trade Controls, consent agreement with Space Systems/Loral, Inc., January 9, 2002, Exhibit 10.1 to Loral Space & Communications Ltd. Form 8-K, https://www.sec.gov/Archives/edgar/data/0001006269/000095012302000193/y56456ex10-1.txt
+[^28]: U.S. Department of State, Office of Defense Trade Controls, Draft Charging Letter to Space Systems/Loral, Inc. (undated), https://www.pmddtc.state.gov/sys_attachment.do?sys_id=032ef245db15df00d0a370131f96192b
+[^29]: "X" (George F. Kennan), "The Sources of Soviet Conduct," Foreign Affairs, vol. 25, no. 4, July 1947, https://www.foreignaffairs.com/articles/russian-federation/1947-07-01/sources-soviet-conduct
+[^30]: Internal Revenue Service, Form 990 of Council on Foreign Relations Inc for the year ended June 30, 2023 (tax year 2022), Parts I, III, VI, VII, VIII, Schedules B, I and O, IRS e-file XML object 202430169349300598, https://apps.irs.gov/pub/epostcard/990/xml/2024/2024_TEOS_XML_01A.zip (member 2024_TEOS_XML_01A/202430169349300598_public.xml)
+[^31]: The Trilateral Commission, membership list "Last updated September 6, 2024," North American Group, https://archive.org/details/tc-membership-list-sept-6-2024-1
+[^32]: Department of Justice, Epstein Library, "Biographical Information of Jeffrey E. Epstein," EFTA00725190, and "About Jeffrey E. Epstein," EFTA00725191, https://www.justice.gov/epstein/files/DataSet%209/EFTA00725190.pdf and https://www.justice.gov/epstein/files/DataSet%209/EFTA00725191.pdf
+[^33]: Department of Justice, Epstein Library, emails of November 8 and 15, 2010 between Jeffrey Epstein and the Council on Foreign Relations director of events, EFTA00751793, https://www.justice.gov/epstein/files/DataSet%209/EFTA00751793.pdf

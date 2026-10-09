@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-09
 title: Allen Dulles
 aliases:
   - Allen Welsh Dulles
@@ -22,6 +22,12 @@ summary: Allen Dulles served as CIA Director from 1953 to 1961, overseeing Opera
 born: 1893-04-07
 died: 1969-01-29
 location: Washington, D.C.
+relations:
+  - type: director_of
+    with: "[[American Committee on United Europe]]"
+    start: 1949
+    role: "vice-chairman"
+    fn: 2
 ---
 Allen Welsh Dulles (April 7, 1893 - January 29, 1969) served as [[Director of Central Intelligence]] from February 26, 1953, to November 29, 1961 - the longest tenure of any DCI, the first civilian DCI, and the only brother of a sitting Secretary of State to hold the position. Dulles built the [[Central Intelligence Agency|CIA]] into the instrument of Cold War covert action that executed [[Operation AJAX]] in [[Iran]] (1953), [[Operation PBSUCCESS]] in [[Guatemala]] (1954), and the [[Bay of Pigs]] invasion of [[Cuba]] (1961). The Bay of Pigs disaster cost him his position - President [[John F. Kennedy]] forced his resignation, along with [[Richard Bissell]] and [[Charles P. Cabell|C.P. Cabell]] - and his subsequent appointment by President [[Lyndon B. Johnson]] to the [[Warren Commission]] investigating Kennedy's assassination placed him in the remarkable position of overseeing the investigation of the event that had ended both his patron's life and his own career.[^1]
 
@@ -43,23 +49,27 @@ The incorporation of Gehlen's network into American intelligence - authorized at
 
 The unverifiable provenance of Gehlen's Soviet networks meant that the intelligence they produced - which formed a significant portion of early CIA's knowledge about the Soviet Union - was of unknown reliability. Some of it may have been Soviet-directed disinformation fed through networks the KGB controlled. The relationship between the Gehlen inheritance and [[James Jesus Angleton|Angleton]]'s subsequent mole hunt paranoia - his conviction that CIA's Soviet intelligence was systematically compromised - has been examined by historians without definitive resolution.[^1]
 
+### American Committee on United Europe
+
+Dulles was vice-chairman of the [[American Committee on United Europe]] (ACUE), which [[Richard Aldrich]] describes as formed to support [[Winston Churchill]] and the [[European Movement]] and officially incorporated in February 1949. [[William J. Donovan]] was its chairman, and [[Thomas W. Braden]], a former OSS officer, was its executive director.[^2] Aldrich reports Braden's assertion in the 1980s that ACUE funds originated with the CIA, and writes that the 1962 Oxford thesis of [[F. X. Rebattet]], son of the European Movement's secretary-general [[George Rebattet]], "confirms that most ACUE funds originated with the CIA."[^3] Dulles also corresponded with [[Max Ascoli]], whose papers index a photocopy of a typed letter from Dulles dated May 27 among the 1968 letters on the closing of [[The Reporter]].[^4] A February 7, 1958 letter to Dulles from the chairman of the President's Committee on Scientists and Engineers thanks him for addressing the Conference on America's Human Resources at [[Yale University]] and encloses a participant list that includes "Mr. Max Ascoli, Editor and Publisher, The Reporter."[^5] [[Hugh Wilford]] writes that The Reporter's deputy [[Philip Horton]] used contacts with Donovan, Dulles and James Jesus Angleton to enhance its foreign coverage.[^6]
+
 ### DCI: Iran, Guatemala, and the Covert Action Doctrine
 
 Dulles was named Deputy Director (Plans) in 1951 and became DCI on February 26, 1953, days after President Eisenhower's inauguration. His brother John Foster simultaneously became Secretary of State. The confluence gave the Dulles brothers a degree of combined policy and intelligence authority unprecedented in American government.
 
 Operation AJAX (August 1953): Working with British intelligence, Dulles's CIA executed the coup that overthrew Iranian Prime Minister [[Mohammad Mosaddegh]] and returned [[Mohammed Reza Shah Pahlavi|Shah Mohammad Reza Pahlavi]] to full power. The operation was designed and led in the field by [[Kermit Roosevelt|Kermit Roosevelt Jr.]], grandson of Theodore Roosevelt. Operation AJAX established the operational template that Dulles and Bissell believed could be replicated elsewhere.
 
-Operation PBSUCCESS (June 1954): The CIA's overthrow of Guatemalan President [[Jacobo Arbenz]] was presented to Eisenhower as a vindication of covert action - a small paramilitary force, CIA air assets, and psychological warfare had collapsed a government with minimal U.S. exposure. Dulles and his team drew exactly the wrong lesson: that the model was transferable. The direct organizational line from PBSUCCESS to the Bay of Pigs ran through the same personnel - [[Howard Hunt]], [[Tracy Barnes]], [[David Atlee Phillips]] - applying the same framework to a target that had fundamentally different characteristics.[^2]
+Operation PBSUCCESS (June 1954): The CIA's overthrow of Guatemalan President [[Jacobo Arbenz]] was presented to Eisenhower as a vindication of covert action - a small paramilitary force, CIA air assets, and psychological warfare had collapsed a government with minimal U.S. exposure. Dulles and his team drew exactly the wrong lesson: that the model was transferable. The direct organizational line from PBSUCCESS to the Bay of Pigs ran through the same personnel - [[Howard Hunt]], [[Tracy Barnes]], [[David Atlee Phillips]] - applying the same framework to a target that had fundamentally different characteristics.[^7]
 
 [[MKULTRA]]: Dulles authorized the CIA's human experimentation program in April 1953 under Technical Services Staff chief [[Sidney Gottlieb]]. The program used LSD and other substances on unconsenting subjects, including mental patients, prisoners, and unwitting CIA employees. Dulles's authorization memorandum noted concerns about Soviet brainwashing capabilities and framed the program as defensive research. The program's scope - eventually comprising 150 subprojects at 80 institutions - far exceeded what Dulles's authorization documents described.
 
 ### MKULTRA: The Sandoz Panic and the Olson Death
 
-Dulles approved MKULTRA on April 13, 1953, ten days after Richard Helms proposed a program for the "covert use of biological and chemical materials," with an initial $300,000 exempt from normal financial controls and payable blindly on the signatures of Gottlieb and TSS chief [[Willis Gibbons]]. Acting in a climate of Cold War urgency, that same month Dulles approved a $240,000 payment after an intelligence report claimed [[Sandoz]] wanted to sell 10 kilograms of [[LSD]] on the open market; CIA officers flew to Switzerland with a black bag of cash only to learn Sandoz had produced barely 40 grams in fifteen years, the entire panic stemming from a military attaché who confused milligrams with kilograms. When [[Frank Olson]] died in November 1953 after Gottlieb dosed him with LSD at [[Deep Creek Lodge]], Dulles ordered Inspector General [[Lyman Kirkpatrick]] to investigate; the resulting reprimands were softened through six drafts and placed in no personnel file.[^3]
+Dulles approved MKULTRA on April 13, 1953, ten days after Richard Helms proposed a program for the "covert use of biological and chemical materials," with an initial $300,000 exempt from normal financial controls and payable blindly on the signatures of Gottlieb and TSS chief [[Willis Gibbons]]. Acting in a climate of Cold War urgency, that same month Dulles approved a $240,000 payment after an intelligence report claimed [[Sandoz]] wanted to sell 10 kilograms of [[LSD]] on the open market; CIA officers flew to Switzerland with a black bag of cash only to learn Sandoz had produced barely 40 grams in fifteen years, the entire panic stemming from a military attaché who confused milligrams with kilograms. When [[Frank Olson]] died in November 1953 after Gottlieb dosed him with LSD at [[Deep Creek Lodge]], Dulles ordered Inspector General [[Lyman Kirkpatrick]] to investigate; the resulting reprimands were softened through six drafts and placed in no personnel file.[^8]
 
 ### Rockefeller's Special Group and the Human Ecology Front
 
-Under Eisenhower, Dulles reported all CIA covert operations, including MKULTRA, the coups, and assassination planning, to the NSC "[[Special Group]]" chaired by [[Nelson Rockefeller]], the structure formalized by NSC 5412/2 in December 1955 that gave the president plausible deniability; in a 1955 "Family Jewels" briefing Dulles described the full range of covert programs to Rockefeller's board. When MKULTRA needed a research hospital, Dulles sought Rockefeller's approval for a scheme to channel CIA money through private foundations to win matching federal grants for a wing at [[Georgetown University Hospital]]. The program's primary funding front, the [[Society for the Investigation of Human Ecology]], was organized at Dulles's initiative through [[Harold Wolff]], the Cornell neurologist who had treated Dulles's brain-damaged son; Dulles attended one of its first board meetings. His relationship with [[D. Ewen Cameron]] predated the funding: in November 1945, still with the OSS, Dulles had sent Cameron to Nuremberg to assess whether [[Rudolf Hess]] was fit to stand trial.[^4]
+Under Eisenhower, Dulles reported all CIA covert operations, including MKULTRA, the coups, and assassination planning, to the NSC "[[Special Group]]" chaired by [[Nelson Rockefeller]], the structure formalized by NSC 5412/2 in December 1955 that gave the president plausible deniability; in a 1955 "Family Jewels" briefing Dulles described the full range of covert programs to Rockefeller's board. When MKULTRA needed a research hospital, Dulles sought Rockefeller's approval for a scheme to channel CIA money through private foundations to win matching federal grants for a wing at [[Georgetown University Hospital]]. The program's primary funding front, the [[Society for the Investigation of Human Ecology]], was organized at Dulles's initiative through [[Harold Wolff]], the Cornell neurologist who had treated Dulles's brain-damaged son; Dulles attended one of its first board meetings. His relationship with [[D. Ewen Cameron]] predated the funding: in November 1945, still with the OSS, Dulles had sent Cameron to Nuremberg to assess whether [[Rudolf Hess]] was fit to stand trial.[^9]
 
 ### Bay of Pigs and Forced Resignation
 
@@ -71,13 +81,13 @@ Dulles submitted his resignation in September 1961; it was formally accepted Nov
 
 ### The Warren Commission
 
-On November 29, 1963 - exactly two years after Dulles's forced resignation - President [[Lyndon B. Johnson|Lyndon Johnson]] appointed the Warren Commission to investigate Kennedy's assassination. Among the seven commissioners Johnson named was Allen Dulles despite Kennedy’s firing of Dulles.
+On November 29, 1963 - exactly two years after Dulles's forced resignation - President Lyndon Johnson appointed the Warren Commission to investigate Kennedy's assassination. Among the seven commissioners Johnson named was Allen Dulles despite Kennedy’s firing of Dulles.
 
 The investigation was examining whether CIA-connected parties (specifically the anti-Castro exile networks and organized crime figures that Dulles had directly overseen) had any role in the assassination. He was now in a position to shape what evidence the Commission sought, what witnesses it called, and what conclusions it reached regarding the CIA programs he had run.
 
 Dulles was reportedly among the most active commissioners in shaping the investigation's scope. He briefed commissioners on CIA history and procedures. He did not disclose the [[ZR/RIFLE]] assassination plotting program - which [[Richard Helms]] as DDP was simultaneously concealing from the Commission at the agency level. The CIA's failure to disclose the assassination plots to the Warren Commission, documented by the Church Committee in 1975, was the institutional decision; Dulles's personal role in that decision - as both a commissioner and the former DCI who had authorized the programs - was the structural conflict of interest the Commission's composition created.
 
-The [[HSCA|House Select Committee on Assassinations]] (1979) found that the Warren Commission had not been fully informed of CIA activities relevant to the investigation. The precise mechanism by which this occurred - institutional CIA decision, active concealment by Dulles, or some combination - was not definitively established.[^2]
+The [[HSCA|House Select Committee on Assassinations]] (1979) found that the Warren Commission had not been fully informed of CIA activities relevant to the investigation. The precise mechanism by which this occurred - institutional CIA decision, active concealment by Dulles, or some combination - was not definitively established.[^7]
 
 ### Death and Legacy
 
@@ -86,6 +96,11 @@ Dulles spent his post-CIA years writing, lecturing, and defending the covert act
 ### Footnotes
 
 [^1]: Kinzer, Stephen. *The Brothers: John Foster Dulles, Allen Dulles, and Their Secret World War.* Times Books, 2013 (covers both brothers, the Sullivan & Cromwell connections, and the covert action programs). Grose, Peter. *Gentleman Spy: The Life of Allen Dulles.* Houghton Mifflin, 1994.
-[^2]: Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba.* New Press, 1998. Church Committee. "Alleged Assassination Plots Involving Foreign Leaders." Senate Report No. 94-465, 1975. Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991. Chapter 4.
-[^3]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 4; "Project MKULTRA, the CIA's Program of Research in Behavioral Modification," Joint Senate Hearing, August 3, 1977.
-[^4]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995, Ch. 18; John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 9.
+[^2]: Richard J. Aldrich, "OSS, CIA and European Unity: The American Committee on United Europe, 1948-60," Diplomacy & Statecraft 8, no. 1 (1997), p. 192, DOI 10.1080/09592299708406035, https://text.www2.warwick.ac.uk/fac/soc/pais/people/aldrich/publications/oss_cia_united_europe_eec_eu.pdf.
+[^3]: Aldrich (1997), pp. 211-212 (Braden's 1980s assertion at p. 211; Rabattet passage at p. 212), same URL.
+[^4]: Senato della Repubblica, Archivio storico, Max Ascoli fonds, sottofascicolo 15, index of names, https://patrimonio.archivio.senato.it/inventario/scheda/max-ascoli/IT-AFS-005-002785/letters-expressing-regrets-upon-closing-of-the-reporter-from-personal-friends-of-max-ascoli-1968.
+[^5]: Howard L. Bevis to Allen W. Dulles, February 7, 1958, CIA-RDP80B01676R003800020106-4, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003800020106-4.
+[^6]: Hugh Wilford, The Mighty Wurlitzer (Harvard University Press, 2008), pp. 230-231.
+[^7]: Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba.* New Press, 1998. Church Committee. "Alleged Assassination Plots Involving Foreign Leaders." Senate Report No. 94-465, 1975. Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991. Chapter 4.
+[^8]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 4; "Project MKULTRA, the CIA's Program of Research in Behavioral Modification," Joint Senate Hearing, August 3, 1977.
+[^9]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995, Ch. 18; John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 9.

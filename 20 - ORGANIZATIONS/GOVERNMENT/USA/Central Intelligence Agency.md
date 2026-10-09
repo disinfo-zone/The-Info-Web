@@ -4,7 +4,7 @@ aliases:
   - Central Intelligence Agency
   - CIA
 created: 2025-07-22
-updated: 2026-10-08
+updated: 2026-10-09
 tags:
   - Organization
   - Intelligence
@@ -117,6 +117,14 @@ CIA Inspector General [[Fred Hitz]] testified before the [[House Permanent Selec
 
 Multiple CIA officials were indicted during the Iran-Contra investigation. Clarridge was indicted on seven counts of perjury. Fernández was indicted on four counts. [[Alan Fiers]] pleaded guilty to withholding information from Congress. All were pardoned by former CIA director [[George H.W. Bush]].[^20]
 
+### Foreign Broadcast Information Service
+
+The [[Foreign Broadcast Intelligence Service]] became a unit of the agency in 1947. The [[War Department]] had sponsored the service from January 2, 1946, and the [[Director of Central Intelligence]] assumed control of it on July 31, 1946, before the [[National Security Act of 1947]] replaced the [[Central Intelligence Group]] with the agency.[^24] The administrative history of the service's record group lists the successor as "Foreign Broadcast Information Service, Central Intelligence Agency, 1947-."[^25] The service's 1969 history says it came to the agency "almost mature, trained and disciplined, and ready to plunge immediately into the tasks outlined for it."[^26]
+
+Within the agency the service sat under the [[Assistant Director for Operations]]. In January 1947 the Assistant Director presented a propaganda analysis program to the PRC, approving the proposed program but excluding "interpretative analysis" from its scope, and the requested staff was twelve at $61,000 a year. [[Lawrence K. White]] was announced as deputy chief of the service on January 9, 1947.[^27]
+
+The service's functions were folded into the [[Open Source Center]] in November 2005. The release announcing the center said the Director of the CIA would administer it on behalf of the DNI.[^28]
+
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
@@ -142,3 +150,8 @@ Multiple CIA officials were indicted during the Iran-Contra investigation. Clarr
 [^21]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom"
 [^22]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue: "The damage that has been done"
 [^23]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends"
+[^24]: Joseph E. Roop, "Foreign Broadcast Information Service. History. Part I: 1941-1947" (Central Intelligence Agency, approved for release April 1969), pp. 279, 299-300 and 303. https://archive.org/details/ForeignBroadcastInformationServiceHistoryPart11941-1947.
+[^25]: National Archives and Records Administration, Guide to Federal Records, Record Group 262, administrative history. https://www.archives.gov/research/guide-fed-records/groups/262.html.
+[^26]: Roop, Part I, p. 2. https://archive.org/details/ForeignBroadcastInformationServiceHistoryPart11941-1947.
+[^27]: Roop, Part II (CIA Directorate of Intelligence, August 1970), pp. 2 and 151-152. https://archive.org/details/cia-readingroom-document-06741690.
+[^28]: Office of the Director of National Intelligence, "ODNI Announces Establishment of Open Source Center," News Release No. 6-05, November 8, 2005. https://irp.fas.org/news/2005/11/odni110805.html.

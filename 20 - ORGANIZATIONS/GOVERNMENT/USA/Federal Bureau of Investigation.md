@@ -1,6 +1,6 @@
 ---
 created: 2025-07-22
-updated: 2026-10-05
+updated: 2026-10-09
 title: Federal Bureau of Investigation
 aliases:
   - FBI
@@ -27,7 +27,7 @@ relations:
   - type: member_of
     with: "[[Department of Justice]]"
     role: "investigative component"
-    fn: 14
+    fn: 25
   - type: investigated
     with: "[[Fred Crisman]]"
     start: 1947-08
@@ -50,7 +50,19 @@ relations:
     start: 2006
     end: 2007
     role: "West Palm Beach FBI squad, case agents and supervisor"
+    fn: 25
+  - type: investigated
+    with: "[[Wilhelm Reich]]"
+    start: 1941-05
+    end: 1957
+    role: "bufile 100-14601"
     fn: 14
+  - type: informant_for
+    with: "[[Alvin Johnson]]"
+    reverse: true
+    start: 1930
+    role: "met regularly with FBI officials to report on the New School faculty, by his own acknowledgment in private letters; sole source"
+    fn: 20
 ---
 
 The Federal Bureau of Investigation (FBI) is the principal federal criminal investigative agency of the [[United States]] and a component of the [[Department of Justice]]. Its files bear on several clusters of this vault: the 1947 flying disc inquiries, the army parapsychology program, the Contra drug cases, the [[Operation C-Chase]] prosecution of [[Bank of Credit and Commerce International]] and the Palm Beach investigation of [[Jeffrey Epstein]].
@@ -97,9 +109,19 @@ Senate subcommittee staff recorded that the FBI and Customs possessed informatio
 
 The Kerry-Brown report on BCCI concluded that Operation C-Chase "arose as a Treasury Department investigation brought by Customs and IRS agents only, without the involvement of the FBI," and that "the failure to bring the FBI into the case may have contributed to the lack of follow through" on what Customs agent [[Robert Mazur]] called "literally hundreds of important leads." The report added that "there does not appear to have been anything sinister" in the Justice Department's pause on the Tampa grand jury.[^13]
 
+### Wilhelm Reich
+
+On May 7, 1941 Assistant Director [[Edward A. Tamm]] wrote that "it appears that this man is a potentially dangerous threat to the internal security" of [[Wilhelm Reich]], sponsor of an applicant for a visa; [[R. P. Kramer]] replied on May 8 that a custodial detention card had been prepared but not approved.[^14] [[J. Edgar Hoover]]'s letter of January 31, 1942 to the New York office lists Reich tentatively in Group B, "Individuals believed to be somewhat less dangerous but whose activities should be restricted," with the evidence marked "Not satisfactory to substantiate the charges"; on July 16, 1943 the Attorney General wrote that the danger classifications "serve no useful purpose."[^14] On October 7, 1955 [[Louis B. Nichols]] recorded that on February 23, 1954 he had told Reich's attorney that "we had no current interest in Dr. Reich."[^15] The Bureau's memorandum of February 14, 1957 states that Reich and his staff had in 1956 and January 1957 contacted the Boston, Augusta and Washington offices, in its word "ostensibly" to offer information on espionage.[^16] On February 25, 1957 Washington Field Office agents interviewed Reich at the Alban Towers Apartments, where he was living under the alias "Roner"; the report records that when "flying saucers" were mentioned and he was asked whether his knowledge of them prompted his contacting the Bureau, he "replied in the affirmative but once again could not be specific," and that he retained a sealed envelope he had asked the agents to deliver to Hoover.[^17] After Reich's death on November 3, 1957 the chief medical officer of Lewisburg penitentiary sent the Bureau his stomach contents, writing that "his family fears that he may have been poisoned"; the Bureau laboratory reported on January 2, 1958 that formaldehyde was detected and that no other commonly poisonous materials were detected in the tests made.[^18] The Boston airtel of March 12, 1957 is captioned "William Steig, William Moise, Assaulting of Federal Officer, Conspiracy"; records found do not establish whether this Steig is the cartoonist.[^19]
+
+### Faculty reporting at the New School, 1930s to 1950s
+
+[[Peter M. Rutkoff]] and [[William B. Scott]] write that after 1947 [[Alvin Johnson]], president of the [[New School for Social Research]], acknowledged in his private letters "that he had been meeting regularly with FBI officials since the 1930s to report on the faculty."[^20] The same history quotes [[Sidney Hook]] that Johnson "wanted to get rid of a Communist Party member" but "delegated it to [[Clara Mayer]]."[^20] It states that a [[Rockefeller Foundation]] memorandum "indicated that Johnson had also monitored files of 'enemy aliens' in the early 1940s for the federal district attorney," and its endnote cites a memorandum of January 27, 1942, in the Rockefeller Foundation Archives' "Hans Eisler File."[^21] In early 1942, at a meeting Johnson requested, he and [[Hans Staudinger]] testified before a State Department panel of representatives from the FBI, the Visa Division, Naval Intelligence and the Army, and Johnson had to defend himself against charges of heading a "Communist outfit."[^22] The same history reports that in the early 1950s the school's administration received "inquiries from congressional and Senate committees, the FBI, and numerous individuals."[^23]
+
+Johnson's memoir records that after the United States entered the war he was appointed to an enemy alien hearing board, writing: "Case after case came before us, well prepared in advance by the FBI. After we had studied the record and had heard the FBI investigators, we would hear the accused."[^24]
+
 ### Epstein, 2006 to 2008
 
-The Justice Department Office of Professional Responsibility reported that in early 2006 a West Palm Beach FBI special agent told Assistant U.S. Attorney Ann Marie Villafana that the Palm Beach Police had approached the FBI because the state attorney's office was considering not charging the case or allowing a misdemeanor plea. Villafana and two FBI case agents developed a federal case. The FBI planned to arrest Epstein after a May 15, 2007, indictment date and to hold a press conference, and wanted to arrest him in the [[U.S. Virgin Islands]] while he judged a beauty pageant. After the U.S. Attorney's Office managers in [[Miami]] declined to approve the indictment, the squad supervisor was "not happy," and the case agent recalled the supervisor as "extremely upset." At a meeting with Villafana and her managers the FBI insisted that Epstein register for life as a sex offender. After Epstein rejected the proposal, the squad supervisor "yelled at" First Assistant U.S. Attorney [[Jeffrey Sloman]]. The report found no misconduct by Department attorneys and concluded that U.S. Attorney [[Alexander Acosta]] exercised poor judgment in resolving the case through a non-prosecution agreement.[^14]
+The Justice Department Office of Professional Responsibility reported that in early 2006 a West Palm Beach FBI special agent told Assistant U.S. Attorney Ann Marie Villafana that the Palm Beach Police had approached the FBI because the state attorney's office was considering not charging the case or allowing a misdemeanor plea. Villafana and two FBI case agents developed a federal case. The FBI planned to arrest Epstein after a May 15, 2007, indictment date and to hold a press conference, and wanted to arrest him in the [[U.S. Virgin Islands]] while he judged a beauty pageant. After the U.S. Attorney's Office managers in [[Miami]] declined to approve the indictment, the squad supervisor was "not happy," and the case agent recalled the supervisor as "extremely upset." At a meeting with Villafana and her managers the FBI insisted that Epstein register for life as a sex offender. After Epstein rejected the proposal, the squad supervisor "yelled at" First Assistant U.S. Attorney [[Jeffrey Sloman]]. The report found no misconduct by Department attorneys and concluded that U.S. Attorney [[Alexander Acosta]] exercised poor judgment in resolving the case through a non-prosecution agreement.[^25]
 
 ### Footnotes
 
@@ -116,4 +138,15 @@ The Justice Department Office of Professional Responsibility reported that in ea
 [^11]: U.S. Senate Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy*, S. Prt. 100-165 (December 1988), https://archive.org/details/Kerry-Report-Drugs-Contras
 [^12]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter XI, section D, https://oig.justice.gov/sites/default/files/legacy/special/9712/ch11p1.htm
 [^13]: U.S. Senate Committee on Foreign Relations, *The BCCI Affair*, report by Senators John Kerry and Hank Brown (December 1992), section on Operation C-Chase, https://archive.org/details/thebcciaffair_202003
-[^14]: U.S. Department of Justice Office of Professional Responsibility, *Investigation into the U.S. Attorney's Office for the Southern District of Florida's Resolution of Its 2006-2008 Federal Criminal Investigation of Jeffrey Epstein* (November 2020), Parts III and IV, copy at https://archive.org/details/epsteindocs ; executive summary at https://www.justice.gov/opr/page/file/1336471/dl
+[^14]: Tamm memorandum of May 7, 1941 and Kramer memorandum of May 8, 1941 (Part 1, PDF pages 16 and 17); Hoover to SAC New York, January 31, 1942 (Part 1, PDF pages 54 and 55); Attorney General memorandum of July 16, 1943, same file, Part 1.
+[^15]: Nichols to Tolson, October 7, 1955, same file, Part 2 (PDF page 109).
+[^16]: M. A. Jones to L. B. Nichols, February 14, 1957, same file, Part 2 (PDF pages 123 and 124).
+[^17]: SAC, Washington Field Office, memorandum to the Director, file 100-1849, Wilhelm Reich FBI file, Part 2 (PDF pages 129 and 130), https://archive.org/details/WilhelmReichFBI.
+[^18]: Witkin to the Director, December 9, 1957, with autopsy report of November 26, 1957 and FBI Laboratory report of January 2, 1958, same file, Part 6 (PDF pages 21 to 24).
+[^19]: Boston airtel of March 12, 1957, Wilhelm Reich FBI file, Part 6, https://archive.org/details/WilhelmReichFBI.
+[^20]: Peter Rutkoff and William Scott, New School: A History of the New School for Social Research (New York: Free Press, 1986), p. 226. Sole source for the FBI reporting.
+[^21]: Rutkoff and Scott, New School, p. 226 and note 22, p. 296: "Johnson to Urban (December 9, 1948), JPYU; memorandum (January 27, 1942), Hans Eisler File, Rockefeller Foundation Archives." The note names no author for the memorandum. Sole source for the enemy alien monitoring.
+[^22]: Rutkoff and Scott, New School, p. 135.
+[^23]: Rutkoff and Scott, New School, p. 228.
+[^24]: Alvin Johnson, Pioneer's Progress (Viking Press, 1952; University of Nebraska Press, 1960), p. 370.
+[^25]: U.S. Department of Justice Office of Professional Responsibility, *Investigation into the U.S. Attorney's Office for the Southern District of Florida's Resolution of Its 2006-2008 Federal Criminal Investigation of Jeffrey Epstein* (November 2020), Parts III and IV, copy at https://archive.org/details/epsteindocs ; executive summary at https://www.justice.gov/opr/page/file/1336471/dl

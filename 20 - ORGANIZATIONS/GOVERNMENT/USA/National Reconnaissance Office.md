@@ -13,7 +13,7 @@ summary: "Joint Defense Department and CIA agency for reconnaissance satellites,
 start: 1961-09-06
 location: "Chantilly, Virginia"
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-09
 relations:
   - type: member_of
     with: "[[Department of Defense]]"
@@ -42,11 +42,11 @@ relations:
     with: "[[David Grusch]]"
     reverse: true
     role: "NRO representative on the UAP Task Force"
-    fn: 6
+    fn: 11
   - type: partner_of
     with: "[[In-Q-Tel]]"
     start: 2009
-    fn: 5
+    fn: 10
 ---
 
 The National Reconnaissance Office (NRO) builds and operates the reconnaissance satellites of the [[United States]]. It was created without a statute: "acting CIA Director, Gen Charles Cabell established the National Reconnaissance Office by concurring with Deputy Secretary of Defense, Roswell Gilpatric's 6 September 1961 memorandum." [[Richard Bissell]] of the [[Central Intelligence Agency|CIA]] and [[Joseph V. Charyk]] of the [[United States Air Force|Air Force]] were its first co-directors.[^1]
@@ -102,18 +102,27 @@ In September 1995 Senator [[Arlen Specter]], then chairman of the Senate committ
 
 ### The Future Imagery Architecture
 
-[[Boeing]] won the Future Imagery Architecture satellite contract over [[Lockheed Martin]] on September 3, 1999. The program ran into "technical problems, leading to a major spacecraft redesign, resulting in delays and overruns." In May 2003 a joint task force of the [[Defense Science Board]] and the Air Force Scientific Advisory Board found it "significantly underfunded and technically flawed," and in 2005 the [[Director of National Intelligence]], [[John Negroponte]], ended it as originally constituted. The National Commission for the Review of the NRO, chaired by Senator [[Bob Kerrey]] and Representative [[Porter Goss]], had reported in November 2000 that the office was "supporting a growing number of users and missions with a budget that had not grown proportionately," and recommended that it "strike a more nuanced balance between openness and secrecy." Under the [[Intelligence Reform and Terrorism Prevention Act]], signed on December 17, 2004, the director reports to the Director of National Intelligence as well as to the Secretary of Defense.[^1]
+[[Boeing]] won the Future Imagery Architecture satellite contract over [[Lockheed Martin]] on September 3, 1999. The program ran into "technical problems, leading to a major spacecraft redesign, resulting in delays and overruns." In May 2003 a joint task force of the [[Defense Science Board]] and the Air Force Scientific Advisory Board found it "significantly underfunded and technically flawed," and in 2005 the [[Director of National Intelligence]], [[John Negroponte]], ended it as originally constituted. The National Commission for the Review of the NRO, co-chaired by Senator [[Bob Kerrey]] and Representative [[Porter Goss]], reported in November 2000, in the words of the NRO's official history, that the NRO was facing the challenge of "supporting a growing number of users and missions with a budget that had not grown proportionately," and, in the same history's words, recommended that the NRO "strike a more nuanced balance between openness and secrecy."[^1] The report itself stated that "The NRO has become a publicly acknowledged organization that openly announces many of its new program initiatives" and recommended a new Office of Space Reconnaissance with its own security compartment.[^5] Under the [[Intelligence Reform and Terrorism Prevention Act]], signed on December 17, 2004, the director reports to the Director of National Intelligence as well as to the Secretary of Defense.[^1]
+
+### National Commission for the Review of the NRO
+
+Congress created the National Commission for the Review of the National Reconnaissance Office in Title VII of the Intelligence Authorization Act for Fiscal Year 2000, approved December 3, 1999 as Public Law 106-120. The conference report's joint explanatory statement says that neither the House bill nor the Senate amendment contained a similar provision and that the managers included it.[^6] The statute set the membership at eleven, with the NRO director serving ex officio, and required two co-chairs, one from each party, jointly agreed by the President and the congressional leaders.[^7] The co-chairs were Kerrey, then a senator from Nebraska and recently vice chairman of the Senate Select Committee on Intelligence, and Goss, the Republican representative from Florida who chaired the House Permanent Select Committee on Intelligence.[^8] Kerrey wrote to NRO director Peter B. Teets on August 11, 2003: "I wrote the 1999 Congressional Act that authorized the creation of the National Commission for the Review of the National Reconnaissance Office. After President Clinton signed this into law, I asked Congressman Porter Goss to co-chair this effort with me."[^9] The report's appendix lists [[Joan Avalyn Dempsey]], the Deputy Director of Central Intelligence for Community Management, Keith R. Hall as NRO director, Martin C. Faga and [[Patrick M. Hughes]] among the members.[^8] The report, titled "The NRO at the Crossroads," is dated November 1, 2000 on its cover, the statutory deadline for the final report; Kerrey's 2003 letter gives the date of its release as November 15, 2000.[^8][^9] Its executive summary recommended establishing a new Office of Space Reconnaissance.[^5]
 
 ### Later Associations
 
-[[In-Q-Tel]], the CIA's venture fund, lists the office as a partner from 2009.[^5] [[David Grusch]], an intelligence officer of the NRO and of the [[National Geospatial-Intelligence Agency]], served as the NRO's representative on the [[UAP Task Force]].[^6] He testified to a subcommittee of the [[House Committee on Oversight and Accountability|House Oversight Committee]] on July 26, 2023, that officials had told him of waived [[Special Access Programs|special access programs]] for the retrieval and reverse engineering of UAP that had not been disclosed to Congress.[^7]
+[[In-Q-Tel]], the CIA's venture fund, lists the office as a partner from 2009.[^10] [[David Grusch]], an intelligence officer of the NRO and of the [[National Geospatial-Intelligence Agency]], served as the NRO's representative on the [[UAP Task Force]].[^11] He testified to a subcommittee of the [[House Committee on Oversight and Accountability|House Oversight Committee]] on July 26, 2023, that officials had told him of waived [[Special Access Programs|special access programs]] for the retrieval and reverse engineering of UAP that had not been disclosed to Congress.[^12]
 
 ### Footnotes
 
-[^1]: Berkowitz, Bruce. *The National Reconnaissance Office at 50 Years: A Brief History.* Center for the Study of National Reconnaissance, National Reconnaissance Office, Chantilly, Virginia, September 2011, preface, pp. 20-21, 23-25, 28-29, Appendix A (pp. 36-41) and Appendix B (p. 43). Retrieved via the Wayback Machine snapshot of January 16, 2026. https://web.archive.org/web/20260116035324/https://www.nro.gov/Portals/65/documents/history/csnr/programs/NRO_Brief_History.pdf
+[^1]: Berkowitz, Bruce. *The National Reconnaissance Office at 50 Years: A Brief History.* Center for the Study of National Reconnaissance, National Reconnaissance Office, Chantilly, Virginia, September 2011, preface, pp. 20-21, 23-26, 28-29, Appendix A (pp. 36-41) and Appendix B (p. 43). Retrieved via the Wayback Machine snapshot of January 16, 2026. https://web.archive.org/web/20260116035324/https://www.nro.gov/Portals/65/documents/history/csnr/programs/NRO_Brief_History.pdf
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991, chapter 2.
 [^3]: Berkowitz, *The National Reconnaissance Office at 50 Years,* pp. 20-21, citing Thomas, P., "Spy Unit's Spending Stuns Hill," *Washington Post,* August 9, 1994; Weiner, T., "Senators Angered Over Cost of Spy Agency's New Offices," *New York Times,* August 9, 1994; and Pincus, W., "CIA Told Hill of Project, Woolsey Says," *Washington Post,* August 11, 1994.
 [^4]: Berkowitz, *The National Reconnaissance Office at 50 Years,* pp. 22-23, citing Weiner, T., "A Spy Agency Admits Accumulating $4 Billion in Secret Money," *New York Times,* May 16, 1996, and Morgan, D., and W. Pincus, "$1.6 Billion in NRO Kitty Helped Appropriators Fund Pet Projects," *Washington Post,* October 5, 1995.
-[^5]: In-Q-Tel, "Our Milestones." https://www.iqt.org/about/our-milestones
-[^6]: Elizondo, Luis. *Imminent.* William Morrow, 2024.
-[^7]: U.S. House of Representatives, Committee on Oversight and Accountability, Subcommittee on National Security, the Border, and Foreign Affairs. *Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,* hearing, July 26, 2023.
+[^5]: The NRO at the Crossroads, Executive Summary, pp. 7 to 8 (Office of Space Reconnaissance; "publicly acknowledged organization") and pp. 41 to 42 (new security compartment). Archived copy as in the preceding note.
+[^6]: U.S. House of Representatives, Conference Report 106-457 on H.R. 1555, November 5, 1999, joint explanatory statement, Title VII ("Neither the House bill nor the Senate amendment contained a similar provision"). https://www.govinfo.gov/content/pkg/CRPT-106hrpt457/html/CRPT-106hrpt457.htm
+[^7]: Intelligence Authorization Act for Fiscal Year 2000, Public Law 106-120, approved December 3, 1999, Title VII, secs. 701 to 709. https://www.govinfo.gov/content/pkg/PLAW-106publ120/pdf/PLAW-106publ120.pdf
+[^8]: National Commission for the Review of the National Reconnaissance Office, The NRO at the Crossroads, November 1, 2000, cover page and Appendix G, "Commission Member Biographies," pp. 135 to 136. Archived copy: https://web.archive.org/web/2020id_/https://irp.fas.org/nro/commission/nro.pdf
+[^9]: Bob Kerrey, letter to Peter B. Teets, August 11, 2003, NRO press release 2003-03. Sole source for Kerrey's statement that he wrote the Act and recruited Goss. https://web.archive.org/web/2id_/https://www.nro.gov/Portals/135/documents/news/press/2003/2003-03.pdf
+[^10]: In-Q-Tel, "Our Milestones." https://www.iqt.org/about/our-milestones
+[^11]: Elizondo, Luis. *Imminent.* William Morrow, 2024.
+[^12]: U.S. House of Representatives, Committee on Oversight and Accountability, Subcommittee on National Security, the Border, and Foreign Affairs. *Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,* hearing, July 26, 2023.
