@@ -1,5 +1,5 @@
+- 2026-10-09T1448 · [[Project MKUltra]]
 - 2026-10-09T1445 · [[Foreign Broadcast Intelligence Service]]
-- 2026-10-09T1444 · [[Project MKUltra]]
 - 2026-10-09T1444 · [[Hans Simons]]
 - 2026-10-09T1443 · [[Research Project on Totalitarian Communication]]
 - 2026-10-09T1443 · [[Rockefeller Foundation]]
