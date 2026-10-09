@@ -20,7 +20,7 @@ tags:
 location: "Bethesda, Maryland"
 summary: "Physicist who directed the NASA Space Shuttle program at headquarters from 1973 to 1980 after posts at Yale, General Electric, NUS Corporation and the Defense Department."
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-09
 relations:
   - type: employed_by
     with: "[[Yale University]]"
@@ -102,9 +102,9 @@ The Winter 1979 to 1980 issue of the [[Institute of Nuclear Materials Management
 
 NUSAC was established in 1968 as the Nuclear Surveillance and Auditing Corporation, 7777 Leesburg Pike, Falls Church, Virginia, and was renamed NUSAC, Inc. by stockholder vote.[^11] A funeral-home obituary states that Lumb became president of NUSAC in 1971.[^12] The Journal lists NUS Corporation separately from NUSAC in contributor affiliations in the same volumes (for example David G. Ward, "Consulting Engineer, NUS Corporation," in 1979), and the records found do not state a corporate relationship between the two companies.[^9]
 
-### Name in the Cabazon Arms letter
+### Name in the Welmas letter
 
-A letter over the name of [[Arthur Welmas]], president of [[Cabazon Arms]], on letterhead at 83-180 Requa Avenue, [[Indio, California]], is headed "CABAZON INDIAN SECURITY /WSI JOINT VENTURE" and is addressed to Timothy La France of [[La France Specialties]], San Diego, as "PERSONAL AND CONFIDENTIAL." It is dated "May 1" with no year printed. It describes a planned armaments manufacturing facility on the [[Cabazon Indian Reservation]] and states that "Several governments, which meet the U.S. State Department approval have stated their needs for this equipment." Names listed beneath Welmas's signature are [[Peter Zokosky]], "Bob Frye," "Dr. Myron Malkin," "Colonel Glade Flake," John James, Bruce James, [[John Paul Nichols]] and [[Wayne Reeder]].[^13] The letter that precedes it in the same folder refers to a business plan projection made in April 1982 and a staff visit "in early February with Dr. Frye and associates."[^13]
+A letter over the name of [[Arthur Welmas]], president of [[Cabazon Security Corporation|Cabazon Arms]], on letterhead at 83-180 Requa Avenue, [[Indio, California]], is headed "CABAZON INDIAN SECURITY /WSI JOINT VENTURE" and is addressed to Timothy La France of [[La France Specialties]], San Diego, as "PERSONAL AND CONFIDENTIAL." It is dated "May 1" with no year printed. It describes a planned armaments manufacturing facility on the [[Cabazon Indian Reservation]] and states that "Several governments, which meet the U.S. State Department approval have stated their needs for this equipment." Names listed beneath Welmas's signature are [[Peter Zokosky]], "Bob Frye," "Dr. Myron Malkin," "Colonel Glade Flake," John James, Bruce James, [[John Paul Nichols]] and [[Wayne Reeder]].[^13] The letter that precedes it in the same folder refers to a business plan projection made in April 1982 and a staff visit "in early February with Dr. Frye and associates."[^13]
 
 A Myron S. Malkin sat on the board of a Wackenhut-owned company in 1979 and 1980, and the Cabazon letter is headed as a "WSI" joint venture and sits in a folder labelled "Wackenhut-Correspondence." Malkin had held Defense Department intelligence-oversight posts in 1972 and 1973 and had worked on strategic missile re-entry vehicles from 1961. The Casolaro papers also hold interview notes in which a speaker refers to a "Dr. Malkin" in the context of a Department of Defense clearance (below). Records found do not establish that the Dr. Myron Malkin named on the letter is Myron S. Malkin, and no opened record places Malkin at Cabazon, with Michael Riconosciuto, or with Wackenhut after 1980.
 
@@ -132,5 +132,5 @@ Malkin died on the Monday before October 26, 1994, of heart failure, according t
 [^10]: Nuclear Materials Management (Journal of the Institute of Nuclear Materials Management), vol. 8, no. 1 (Spring 1979), "Wackenhut Corporation Purchases NUSAC, Inc." https://resources.inmm.org/system/files/jnmm/vol_08/V-8_1.pdf
 [^11]: Nuclear Materials Management (Journal of the Institute of Nuclear Materials Management), vol. 1, no. 1 (April 1972), advertisement of the Nuclear Surveillance and Auditing Corporation, 7777 Leesburg Pike, Falls Church (https://resources.inmm.org/system/files/jnmm/vol_01/V-1_1.pdf); vol. 4, no. 1 (Spring 1975), item on the change of name to NUSAC, Inc. (https://resources.inmm.org/system/files/jnmm/vol_04/V-4_1.pdf).
 [^12]: Obituary of Ralph Francis Lumb (1921 to 2023), A. J. Cunningham Funeral Homes. https://ajcunninghamfh.com/tribute/details/2916
-[^13]: Arthur Welmas, letter on Cabazon Arms letterhead, 83-180 Requa Avenue, Indio, California, to La France Specialties, San Diego, dated "May 1" (year not printed), Danny Casolaro papers, folder "Wackenhut-Correspondence." https://archive.org/details/casolaro-notebooks
+[^13]: Arthur Welmas, letter headed "CABAZON INDIAN SECURITY /WSI JOINT VENTURE," at 83-180 Requa Avenue, Indio, California, to La France Specialties, San Diego, dated "May 1" (year not printed), Danny Casolaro papers, folder "Wackenhut-Correspondence." https://archive.org/details/casolaro-notebooks
 [^14]: Ted Gunderson and Michael Riconosciuto interview notes, file "Folder 7 Acc5516" (archive.org casolaro-notebooks item, file "Folder 7 Acc5516.pdf", text layer). The passage is undated in the text layer. Sole source for the passages so cited. https://archive.org/details/casolaro-notebooks

@@ -6,7 +6,7 @@ tags:
   - Person
   - PROMIS
   - Lawyer
-summary: "John Paul Nichols was the 'Project Manager' for the Cabazon/Wackenhut Corporation Joint Venture, also known as Cabazon Arms."
+summary: "Son of Dr. John Philip Nichols, named as 'Project Manager' in the December 10, 1981 Chapter 11 petition of the Cabazon Indian Casino and later administrator of the Cabazon tribe."
 updated: 2026-10-09
 relations:
   - type: relative_of
@@ -25,7 +25,7 @@ relations:
 ---
 [[John Paul Nichols]] was the son of [[Dr. John Philip Nichols]]. He took over his father's position as acting administrator of the [[Cabazon Indian Reservation|Cabazon tribe]] when Dr. John Philip Nichols was incarcerated. In 1989, [[Mark Nichols]] inherited the position of administrator from John Paul Nichols.[^1]
 
-John Paul Nichols was the "Project Manager" for the Cabazon/[[Wackenhut Corporation]] Joint Venture, also known as [[Cabazon Arms]]. On April 4, 1983, he wrote a letter to the Army Discharge Review Board asking for [[Jimmy Hughes]]' military record, as Hughes required security clearances to work in the Joint Venture. He stated that Hughes had been instrumental in developing their reservation security force and providing training, and was becoming involved in matters requiring security clearances for government contracts.[^1]
+John Paul Nichols is named as "Project Manager" in the December 10, 1981 Chapter 11 petition of the [[Cabazon Indian Casino]].[^2] On April 4, 1983, he wrote a letter to the Army Discharge Review Board asking for [[Jimmy Hughes]]' military record, as Hughes required security clearances to work in the Cabazon/[[Wackenhut Corporation]] Joint Venture, also known as [[Cabazon Security Corporation|Cabazon Arms]]. He stated that Hughes had been instrumental in developing their reservation security force and providing training, and was becoming involved in matters requiring security clearances for government contracts.[^1]
 
 The Chapter 11 petition filed for the Cabazon Indian Casino on December 10, 1981 was signed by John Paul Nichols as "Project Manager." The [[Bankruptcy Appellate Panel for the Ninth Circuit]] quoted the petition's description of the casino as "a co-partnership consisting of" a list of members, which named "John Paul Nichols, Project Manager/Employee" among them. The panel wrote: "The record reflects that Mr. Nichols is a non-Indian and, therefore, ostensibly not a member of the Cabazon Band of Mission Indians."[^2] A March 20, 1988 article gives the casino's debts as $567,577 owed to 45 creditors, against assets of $123,859, and quotes Nichols, identified as the Cabazon tribal administrator: "Nichols said incompetent management caused the downfall of the poker business and he has admitted a mistake in his hiring of Rocco Zangari as the first manager."[^3]
 
