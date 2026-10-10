@@ -6,7 +6,7 @@ aliases:
   - Theodore Shackley
   - The Blond Ghost
 created: 2026-05-14
-updated: 2026-10-08
+updated: 2026-10-09
 category: "Intelligence & Government"
 tags:
   - Person
@@ -21,7 +21,7 @@ tags:
   - 1960s
   - 1970s
   - 1980s
-summary: "Ted Shackley (1927-2002), ‘The Blond Ghost,’ was a CIA operations officer who served as station chief at JMWAVE, Laos, and Saigon, rose to Associate Deputy Director for Operations, was forced out by DCI Turner in 1979, and became a central node in the Safari Club and Iran-Contra private network."
+summary: "Ted Shackley (1927-2002), 'The Blond Ghost,' was a CIA operations officer who ran JMWAVE, Laos and Saigon stations, rose to Associate Deputy Director for Operations, and left in 1979."
 born: 1927-07-16
 died: 2002-12-09
 location: "Springfield, Massachusetts"
@@ -41,7 +41,7 @@ Shackley’s transformation from capable officer to major CIA figure came with h
 
 After an interim Domestic Operations Division assignment, Shackley was appointed CIA station chief in Laos in 1966, directing what was then the largest covert paramilitary operation in CIA history. The Laos operation - officially concealed because the United States had signed the 1962 Geneva Accords neutralizing Laos - centered on the Hmong irregular army commanded by General Vang Pao, which was funded, supplied, and advised by CIA as a proxy force fighting the Pathet Lao and North Vietnamese infiltrators who used the Ho Chi Minh Trail through Laotian territory. At its peak the Hmong force numbered approximately 36,000 fighters. Shackley oversaw air operations through Air America and Continental Air Services, the CIA-affiliated airlines that supplied the Hmong forces and that were later implicated in transporting opium from the Golden Triangle cultivation areas controlled by Hmong and other tribal leaders.[^1]
 
-[[Michael Hand]], the Australian Special Forces veteran and future co-founder of the Nugan Hand Bank, first encountered the CIA network through Laos operations during this period. Hand’s connection to Shackley’s network was the initial link that would eventually tie the Nugan Hand Bank to CIA financial operations.[^2]
+[[Michael Hand]], the Australian Special Forces veteran and future co-founder of the Nugan Hand Bank, first encountered the CIA network through Laos operations during this period, according to Seymour, who wrote that Hand moved to the clandestine CIA war in Laos after his first tour in Vietnam.[^2]
 
 ### Saigon (1968-1972)
 
@@ -65,7 +65,9 @@ Shackley’s network intersected with the Iran-Contra Affair through multiple ch
 
 Shackley was also connected through Michael Hand to the Nugan Hand Bank (Sydney, founded 1973, collapsed 1980), an Australian merchant bank that multiple sources identified as a CIA financial conduit. The bank’s board and senior advisers included former CIA Director William Colby (in a legal advisory role) and a number of Shackley-connected U.S. military and intelligence veterans. Its collapse after co-founder Frank Nugan’s death in January 1980 and Hand’s subsequent disappearance generated significant Australian investigative journalism about CIA connections to the bank.[^2]
 
-[[David Corn]] writes that [[Barbara Studley]], a former Miami talk-show host, and [[John Singlaub]], who had worked with Shackley in Laos, had created [[GeoMiliTech Consultants Corp.]], a weapons firm, and that Studley came to Shackley for advice on the arms market in Latin America.[^3]
+The Australian Joint Task Force on Drug Trafficking's report, as described by Keith Schneider in the New York Times in March 1987, named Shackley and [[Tom Clines]] as the two top officers of the CIA's Laotian station during the late 1960s. Schneider wrote that Hand served in Laos in the late 1960s with [[Air America]], and that the report said [[Richard Secord]], Shackley, Clines and [[Rafael Quintero]] were close to Hand.[^3] The Wall Street Journal reported in August 1983 that the report named Shackley among the people newly connected with Nugan Hand. Shackley declined to be interviewed, and his attorney said that an Australian detective who helped compile the report had "formally advised" Shackley that he was not suspected of any illegalities.[^4]
+
+[[David Corn]] writes that [[Barbara Studley]], a former Miami talk-show host, and [[John Singlaub]], who had worked with Shackley in Laos, had created [[GeoMiliTech Consultants Corp.]], a weapons firm, and that Studley came to Shackley for advice on the arms market in Latin America.[^5]
 
 ### Publications
 
@@ -75,4 +77,6 @@ Shackley authored *The Third Option: An American View of Counterinsurgency Opera
 
 [^1]: Corn, David, and Jeff Goldberg. "The Old Boy Network." *Mother Jones*, October 1994 (on Shackley’s post-CIA network). Shackley, Theodore G. *The Third Option: An American View of Counterinsurgency Operations*. Reader’s Digest Press, 1981. Weiner, Tim. *Legacy of Ashes: The History of the CIA*. Doubleday, 2007, pp. 316-320, 361-368.
 [^2]: Trento, Joseph. *Prelude to Terror: The Rogue CIA and the Legacy of America’s Private Intelligence Network*. Carroll & Graf, 2005, pp. 55-85. Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. TrineDay, 2010.
-[^3]: David Corn, *Blond Ghost: Ted Shackley and the CIA's Crusades* (Simon & Schuster, 1994).
+[^3]: Schneider, Keith. "North's Aides Linked to Australia Study." New York Times, March 8, 1987. CIA CREST, CIA-RDP90-00965R000605740024-7. https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000605740024-7
+[^4]: Kwitny, Jonathan. "Nugan Hand." Wall Street Journal, August 16, 1983. CIA CREST, CIA-RDP90-00552R000302510001-1. https://archive.org/details/cia-readingroom-document-cia-rdp90-00552r000302510001-1
+[^5]: David Corn, *Blond Ghost: Ted Shackley and the CIA's Crusades* (Simon & Schuster, 1994).

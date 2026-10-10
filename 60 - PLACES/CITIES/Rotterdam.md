@@ -6,9 +6,9 @@ tags:
   - BCCI
   - PedophileNetworks
   - ArmsTrafficking
-summary: "Rotterdam is the Netherlands' second-largest city and the largest port in Europe, serving as a major hub for international commerce; it appears in this vault as a transit node for arms shipments documented in the Iran-Contra affair, as a location in Dutch pedophile network investigations connected to the Dutroux inquiry, and as the site of BCCI banking operations in the Netherlands."
+summary: "Dutch port city appearing in the vault as a transit point for Iran-Contra arms shipments, a location in Dutch child abuse network investigations, and a site of BCCI operations."
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-09
 location: "Rotterdam, Netherlands"
 ---
 
@@ -22,11 +22,12 @@ Rotterdam's role as a financial center for international trade, including the pr
 
 ### Dutch Pedophile Network Connections
 
-Rotterdam features in the Dutch pedophile network investigations connected to the broader cluster of cases examined in the [[Dutroux affair|Dutroux]] X-Dossier inquiry. The [[Rolodex Investigation]] (Rolodex-onderzoek) conducted by Dutch police from the mid-1990s onward - which investigated the network associated with [[Karel Maasdam]] and his "Bell Boys" escort service - identified clients and participants in Rotterdam as well as [[Amsterdam]] and other Dutch cities.
+Rotterdam features in the Dutch pedophile network investigations connected to the broader cluster of cases examined in the [[Dutroux affair|Dutroux]] X-Dossier inquiry. The [[Rolodex Investigation]] (Rolodex-onderzoek), a Dutch inquiry of 1997 to 1999 into an Amsterdam brothel and its escort agency, identified clients and participants in Rotterdam as well as [[Amsterdam]] and other Dutch cities. [[Nick Davies]] wrote in 1998 that [[Karel Maasdam]], known as "Alex Privee," was the owner of the Bell Boys escort agency, and that an Englishman he interviewed in Amsterdam, who is not named, said a boy who worked as an escort for "Alex Privee's agency, Bell Boys" had mentioned seeing a missing German boy in [[Lothar Glandorf]]'s clubs in Rotterdam.[^3]
 
-The Apollo Bulletin Board Service (Apollo BBS), a child pornography distribution network based in [[Zandvoort]], distributed material to subscribers across the Netherlands including in Rotterdam. The Dutch [[Zandvoort]] investigation of 1998 identified Rotterdam among the locations of recipients in the network's subscriber list. The Dutch judicial investigations into pedophile networks during the 1990s and early 2000s identified Rotterdam-based participants in trafficking and abuse networks that extended to [[Belgium]] and intersected with the broader investigations stemming from the Dutroux case.[^1]
+The Apollo Bulletin Board Service (Apollo BBS), a child pornography distribution network based in [[Zandvoort]], distributed material to subscribers across the Netherlands including in Rotterdam. The Dutch Zandvoort investigation of 1998 identified Rotterdam among the locations of recipients in the network's subscriber list. The Dutch judicial investigations into pedophile networks during the 1990s and early 2000s identified Rotterdam-based participants in trafficking and abuse networks that extended to [[Belgium]] and intersected with the broader investigations stemming from the Dutroux case.[^1]
 
 ### Footnotes
 
 [^1]: van der Laar, Paul. *Stad van formaat: Geschiedenis van Rotterdam in de negentiende en twintigste eeuw.* Waanders, 2000.
 [^2]: Beaty, Jonathan and S.C. Gwynne. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI.* Random House, 1993.
+[^3]: Nick Davies, "Paedophile network trafficks young boys across Europe," nickdavies.net, dated October 1, 1998. https://www.nickdavies.net/1998/10/01/paedophile-network-trafficks-young-boys-across-europe/

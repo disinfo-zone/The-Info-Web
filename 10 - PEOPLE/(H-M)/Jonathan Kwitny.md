@@ -8,7 +8,7 @@ tags:
   - NuganHand
   - WallStreetJournal
   - InvestigativeJournalism
-summary: "Jonathan Kwitny (1941-1998) was a Wall Street Journal investigative journalist whose The Crimes of Patriots (1987) is the authoritative account of Nugan Hand Bank and whose Endless Enemies (1984) documented covert U.S. interventions and their consequences."
+summary: "Jonathan Kwitny (1941-1998) was a Wall Street Journal investigative journalist who wrote The Crimes of Patriots (1987) on Nugan Hand Bank and Endless Enemies (1984) on covert U.S. interventions."
 born: 1941-03-23
 died: 1998-11-26
 location: "Indianapolis, Indiana"
@@ -21,6 +21,8 @@ Jonathan Kwitny was born March 23, 1941, in Indianapolis, Indiana. He worked as 
 Kwitny's most significant work, *The Crimes of Patriots: A True Tale of Dope, Dirty Money and the CIA* (W.W. Norton, 1987), was the product of years of reporting on the [[Nugan Hand Bank]], the Sydney-based financial institution that served as a CIA financial conduit and money-laundering operation from its founding in 1973 until its collapse in 1980. Kwitny tracked down and interviewed participants across multiple countries, reconstructed the bank's structure and the backgrounds of its remarkable board - which included retired American military generals and a former CIA deputy director - and documented the bank's role in facilitating drug money flows from the Golden Triangle and funding covert operations.[^2]
 
 Among the key findings Kwitny reported: [[Michael Hand]], the bank's American co-founder and a former Green Beret with [[Central Intelligence Agency|CIA]] associations from the [[Laos]] operation, fled [[Australia]] under a false identity on June 14, 1980, shortly after co-founder [[Frank Nugan]] was found shot to death. Kwitny identified a man code-named "Charlie" - described as a former U.S. Special Forces member and ex-CIA operative - as having helped Hand escape to Fiji. Australian authorities were never able to locate Hand after his disappearance. The book documented how the network of American military and intelligence veterans surrounding Nugan Hand connected to the broader private covert operations infrastructure associated with [[Ted Shackley]], [[Tom Clines]], and [[Air America]].[^2]
+
+On August 16, 1983 the Wall Street Journal printed "Nugan Hand," by Kwitny, which reported the Australian Task Force's fourth volume. The article said the report named [[Earl P. Yates]] as then president of the bank and named Ted Shackley among the people newly connected with Nugan Hand. It also said that Hand had been smuggled out of Australia by another former CIA operative, James Oswald Spencer, whom investigators found in Arizona.[^3] The article quotes the report as saying that "if the CIA or any other intelligence organization had intended to use Nugan Hand as a cover for covert operations, it was a clumsy attempt," and says that Spencer declined to answer most questions but said he last saw Hand "several years ago" and that Hand "was in the CIA" at the time.[^3]
 
 ### Endless Enemies
 
@@ -36,9 +38,10 @@ Kwitny's final major work, *Man of the Century: The Life and Times of Pope John 
 
 ### Legacy
 
-Kwitny's reporting on Nugan Hand Bank preceded by years the broader academic and investigative literature on the private covert operations networks of the 1970s and 1980s. His sourcing and reconstruction of the bank's operations remained the documentary foundation for subsequent treatments of the subject, including accounts connecting Nugan Hand to the broader [[Ted Shackley]]-centered network and to the financial infrastructure that supported operations from Angola to Southeast Asia to Iran-Contra.
+Kwitny's reporting on Nugan Hand Bank preceded by years the broader academic and investigative literature on the private covert operations networks of the 1970s and 1980s. His sourcing and reconstruction of the bank's operations remained the documentary foundation for subsequent treatments of the subject, including accounts connecting Nugan Hand to the broader Ted Shackley-centered network and to the financial infrastructure that supported operations from Angola to Southeast Asia to Iran-Contra.
 
 ### Footnotes
 
 [^1]: Kwitny, Jonathan. *Endless Enemies: The Making of an Unfriendly World.* Congdon and Weed, 1984. Obituary notice, Wall Street Journal, November 1998.
 [^2]: Kwitny, Jonathan. *The Crimes of Patriots: A True Tale of Dope, Dirty Money and the CIA.* W.W. Norton, 1987.
+[^3]: Kwitny, Jonathan. "Nugan Hand." Wall Street Journal, August 16, 1983. CIA CREST, CIA-RDP90-00552R000302510001-1. https://archive.org/details/cia-readingroom-document-cia-rdp90-00552r000302510001-1

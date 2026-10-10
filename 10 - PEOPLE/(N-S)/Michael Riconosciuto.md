@@ -7,7 +7,7 @@ tags:
   - Person
   - PROMIS
   - CIA
-summary: "Michael Riconosciuto is a computer scientist and self-proclaimed former CIA asset who claimed to have modified the PROMIS software for worldwide intelligence distribution through the Wackenhut-Cabazon joint venture, becoming a central source for Danny Casolaro's Octopus investigation."
+summary: "Michael Riconosciuto is a computer scientist and self-proclaimed former CIA asset who claimed to have modified the PROMIS software through the Wackenhut-Cabazon joint venture and became a central source for Danny Casolaro's Octopus investigation."
 ---
 [[Michael Riconosciuto]] is a computer scientist and self-proclaimed former [[Central Intelligence Agency|CIA]] asset, known for his involvement in various clandestine operations and his claims regarding the [[PROMIS Software Scandal]]. He was described as a child prodigy, wiring his parents' neighborhood with a private telephone system at age 10 and winning science fairs with laser technology, leading to a summer research assistantship at Stanford's Cooper Vaper Laser Laboratory.[^1]
 

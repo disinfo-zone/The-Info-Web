@@ -1,6 +1,6 @@
-﻿---
+---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-10-09
 title: Radio Free Europe
 aliases:
   - RFE
@@ -17,7 +17,7 @@ tags:
   - 1950s
   - 1960s
 category: "Intelligence Operation"
-summary: "Radio Free Europe was a CIA-funded broadcast organization established in 1949 to broadcast into Soviet-bloc countries, operated under the cover of private funding until its CIA financing was publicly revealed in 1967, and whose broadcasts to Hungary during the 1956 revolution - which some analysts argue implied American support that was never forthcoming - contributed to CIA officer Frank Wisner's psychological breakdown."
+summary: "Radio Free Europe was a CIA-funded broadcaster to the Soviet bloc, founded in 1949 and presented as privately funded until the CIA financing was revealed in 1967."
 start: 1949
 location: "Munich, West Germany"
 ---
@@ -36,7 +36,7 @@ RFE's Munich headquarters employed thousands of emigre journalists from the targ
 
 The pivotal controversy in RFE's history occurred during the [[Hungarian Revolution]] of October-November 1956. RFE's Hungarian-language broadcasts during the uprising included material that, by later analysis, could have been reasonably interpreted by Hungarian listeners as implying that American military support would follow if they fought the Soviet occupation. No such support was contemplated by the [[Dwight Eisenhower|Eisenhower administration]], which had decided not to risk nuclear confrontation over Hungary.
 
-When Soviet tanks crushed the revolution in November 1956, the gap between RFE's broadcast messages and American non-intervention was acute. The [[CIA]] and the [[Psychological Strategy Board]] subsequently reviewed the Hungarian broadcasts and found that while the content was not explicitly promise of military support, it had been irresponsible in its implications. [[Frank Wisner]], whose [[Office of Policy Coordination]] was the organizational parent of RFE's CIA relationship, was in Europe during the Hungarian crisis and was deeply affected by the experience. The Hungarian Revolution's failure was a direct cause of his subsequent psychological breakdown.[^2]
+When Soviet tanks crushed the revolution in November 1956, the gap between RFE's broadcast messages and American non-intervention was acute. The [[CIA]]'s Covert Action Staff reviewed the tapes of the entire Hungarian-language broadcasts in early 1957. A CIA memorandum for the Director of Central Intelligence catalogued under March 4, 1962 and signed by [[Cord Meyer]] reports that the review found the broadcasts "generally consistent with U.S. policy," that RFE "did not incite the Hungarian people to revolt," and that RFE did not "directly or by implication offer hope that outside military assistance would be forthcoming to the Hungarian patriots, with one possible exception": portions of speeches by the U.S. Representative to the United Nations "which might have been interpreted as indicating some Western support for the Hungarian patriots."[^2] The same memorandum states that the UN Special Committee on Hungary found in June 1957 that "certain broadcasts by RFE helped to create an impression that support might be forthcoming for the Hungarians," while describing the revolt as a "spontaneous national uprising."[^2] In a book published in 1980, Meyer wrote that the tone of the RFE broadcast tapes was "more exuberant and optimistic than the situation warranted" and that the content of one script "clearly violated the basic policy guidelines and should never have been broadcast."[^3] Frank Wisner, whose Office of Policy Coordination was the organizational parent of RFE's CIA relationship, was in Europe during the Hungarian crisis and was deeply affected by the experience. The Hungarian Revolution's failure was a direct cause of his subsequent psychological breakdown.[^4]
 
 ### Disclosure and Transition
 
@@ -51,4 +51,6 @@ RFE represented the largest sustained CIA propaganda operation of the Cold War p
 ### Footnotes
 
 [^1]: Puddington, Arch. *Broadcasting Freedom: The Cold War Triumph of Radio Free Europe and Radio Liberty.* University Press of Kentucky, 2000. Lucas, W. Scott. *Freedom's War: The American Crusade Against the Soviet Union.* New York University Press, 1999.
-[^2]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995. Mitrovich, Gregory. *Undermining the Kremlin: America's Strategy to Subvert the Soviet Bloc, 1947-1956.* Cornell University Press, 2000.
+[^2]: Central Intelligence Agency, memorandum for the Director of Central Intelligence, "Radio Free Europe (RFE) and the Hungarian Revolution," Cord Meyer, Jr., Chief, Covert Action Staff (catalogued 1962-03-04). CIA reading room document 0001409017. https://archive.org/details/cia-readingroom-document-0001409017
+[^3]: Central Intelligence Agency, memorandum "Re: Radio Free Europe and the 1956 Hungarian Uprising," April 20, 1990 (PAO 90-0152), quoting Cord Meyer, Facing Reality (1980), pp. 125-130. CIA reading room copy, CIA-RDP99-01448R000401630009-6. https://archive.org/details/cia-readingroom-document-cia-rdp99-01448r000401630009-6
+[^4]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995. Mitrovich, Gregory. *Undermining the Kremlin: America's Strategy to Subvert the Soviet Bloc, 1947-1956.* Cornell University Press, 2000.

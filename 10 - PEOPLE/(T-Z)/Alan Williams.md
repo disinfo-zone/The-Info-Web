@@ -19,13 +19,11 @@ TAG Films represented a sophisticated approach to child pornography production, 
 
 ### Operation Framework Investigation
 
-Williams became a primary target of [[Operation Framework]], a joint investigation between Scotland Yard and Dutch authorities conducted between 1992 and 1993. The investigation targeted suspected snuff pornography produced by British nationals operating in Amsterdam, with Williams and his associates being central figures in the inquiry. The investigation revealed the extensive nature of their operations and their connections to other trafficking networks across Europe.[^4]
-
-Operation Framework faced significant challenges due to the nature of the alleged crimes and the international scope of the investigation. Traditional law enforcement methods were complicated by jurisdictional issues and the extreme nature of the alleged offenses, including the production of snuff films. Despite these challenges, the investigation gathered substantial evidence about Williams' activities and his connections to other traffickers.[^4]
+Nick Davies wrote that Williams, who managed Boys Club 21, was among the figures named by informants to [[Scotland Yard]] detectives in the reports that led to [[Operation Framework]], an inquiry into suspected snuff films made by British nationals in Amsterdam, and that the inquiry ended in frustration.[^1]
 
 ### Network Connections and Associates
 
-Williams maintained extensive connections within the international child trafficking network. An informant called "Edward" told Davies he had mixed with Spinks and Williams and their friends, and an informant close to Williams told [[Scotland Yard]] he had seen Spinks selling a special video for £4,000.[^1]
+Williams maintained extensive connections within the international child trafficking network. An informant called "Edward" told Davies he had mixed with Spinks and Williams and their friends, and an informant close to Williams told Scotland Yard he had seen Spinks selling a special video for £4,000.[^1]
 
 The Welsh connection represented by Williams, John Gay, and Lee Tucker suggested a coordinated effort by British traffickers to establish operations in Amsterdam. Their ability to work together and establish legitimate business fronts demonstrated the sophisticated nature of their criminal enterprise.[^2]
 
@@ -38,6 +36,5 @@ The use of legitimate business fronts like Boys Club 21 provided Williams with c
 ### Footnotes
 
 [^1]: Nick Davies, "Paedophilia is easy 2: how a paedophile murder inquiry fell apart," The Guardian, November 27, 2000, https://www.nickdavies.net/2000/11/27/paedophilia-is-easy-2-how-a-paedophile-murder-inquiry-fell-apart/
-[^2]: 'A terraced street in suburbia that shrouded a guilty secret', Nick Davies, The Guardian, November 25 2000; Operation Framework investigation files, 1992-1993
+[^2]: 'A terraced street in suburbia that shrouded a guilty secret', Nick Davies, The Guardian, November 25 2000
 [^3]: "Nur die kleinen Fische," Der Spiegel 32/1998, August 2, 1998, https://www.spiegel.de/politik/nur-die-kleinen-fische-a-fc226181-0002-0001-0000-000007956187
-[^4]: 'Nur die kleinen Fische'(Only the small fish), Der Spiegel, August 2 1998; Scotland Yard investigation reports on British traffickers in Amsterdam, 1992-1993

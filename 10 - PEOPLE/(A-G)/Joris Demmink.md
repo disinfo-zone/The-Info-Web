@@ -18,41 +18,41 @@ Joris Demmink was a senior Dutch justice official who served as Secretary Genera
 
 Demmink began his career in the Dutch justice system in the 1970s, steadily advancing through the ranks to positions of increasing responsibility. By the 1990s, he had become a senior official within the Ministry of Justice, wielding significant influence over legal policy and prosecution decisions.[^2]
 
-By 1997, when the [[Rolodex Investigation]] into the Bell Boys callboy service began, Demmink was already a powerful figure within the Dutch justice system. His position gave him considerable influence over which cases were pursued, how investigations were conducted, and which officials were protected from prosecution.[^2]
+By 1997, when the Rolodex Investigation into the Bell Boys callboy service began, Demmink was already a powerful figure within the Dutch justice system. His position gave him considerable influence over which cases were pursued, how investigations were conducted, and which officials were protected from prosecution.[^2]
 
 ### Rolodex Investigation Involvement
 
-Demmink's name first emerged in a significant context during the 1997-1998 [[Rolodex Investigation]] into the Bell Boys callboy service operated by [[Karel Maasdam]]. The investigation, which exposed a child trafficking operation catering to Dutch justice officials, named Demmink as a client of the service. At the time, he was a senior ministry official.[^3]
+Demmink's name first emerged in a significant context during the 1997-1998 Rolodex Investigation into the Bell Boys callboy service operated by [[Karel Maasdam]]. The Dutch government's summary of the investigation states that the former secretary-general of the ministry did not appear in the Rolodex file in any way, and a ministerial letter of March 27, 2014 repeats this.[^3][^4] Former detective [[Leendert de Koter]] testified on March 5, 2014 before an examining magistrate in Utrecht that the [[Rijksrecherche]] had supplied Demmink's name, with those of three chief prosecutors, and that the probe produced no further indications against Demmink.[^5][^6] At the time, Demmink was a senior ministry official.[^7]
 
-A boy prostitute who worked at Maasdam's Festival Bar later testified during a 2012 Helsinki Commission hearing that he had been introduced to Demmink by Professor Van Roon and instructed to have sex with Demmink inside his government car. The witness described refusing anal sex but performing oral sex with Demmink, who then wanted to take him to his home in Den Haag.[^4]
+A boy prostitute who worked at Maasdam's Festival Bar later described at a U.S. Helsinki Commission briefing on October 5, 2012 how he had been introduced to Demmink by a university professor and instructed to have sex with Demmink inside his government car. The witness described refusing anal sex but performing oral sex with Demmink, who then wanted to take him to his home in Den Haag.[^8]
 
 ### Government Vehicle Abuse Allegations
 
-Further evidence emerged from complaints filed by drivers assigned to Demmink's government car. One driver, Rob Mostert, complained that Demmink had sex with boys in the backseat of his government car in his presence. Mostert died shortly after lodging his complaint, which was never followed up on. Similar complaints were made by other drivers.[^5]
+Further evidence emerged from complaints filed by drivers assigned to Demmink's government car. One driver complained that Demmink had sex with boys in the backseat of his government car in his presence. The driver died shortly after lodging the complaint, which was never followed up on. Similar complaints were made by other drivers.[^9]
 
-Justice officer Tjeerd Postma later confirmed that he had warned the BVD (Dedishness Dienst, the Dutch security service) about complaints from drivers regarding Demmink's activities. Postma stated that drivers had reported nightly visits to clubs and a business trip to Brussels where Demmink had sex with a young boy in the back seat of the official car while the driver witnessed everything through the rearview mirror.[^5]
+Justice officer Tjeerd Postma later confirmed that he had warned the BVD (Dedishness Dienst, the Dutch security service) about complaints from drivers regarding Demmink's activities. Postma stated that drivers had reported nightly visits to clubs and a business trip to Brussels where Demmink had sex with a young boy in the back seat of the official car while the driver witnessed everything through the rearview mirror.[^9]
 
 ### Turkish Allegations and International Investigation
 
-In 2012, Demmink's resignation coincided with the launch of a U.S. Helsinki Commission inquiry into his connection to child sex trafficking. The inquiry focused on allegations that Demmink had raped two Turkish boys aged 12-15 during visits to Istanbul in the mid-1990s. Demmink denied these claims, stating he was not in Turkey at the time.[^6]
+In 2012, Demmink's resignation coincided with the launch of a U.S. Helsinki Commission inquiry into his connection to child sex trafficking. The inquiry focused on allegations that Demmink had raped two Turkish boys aged 12-15 during visits to Istanbul in the mid-1990s. Demmink denied these claims, stating he was not in Turkey at the time.[^10]
 
 ### Connections to Other Investigations
 
-Demmink's name surfaced in multiple investigations beyond the [[Rolodex Investigation]]. Information provided by an alleged bookkeeper of [[Karel Maasdam]] named [[Richard Carl-Samson]] indicated that [[Warwick Spinks]] frequently pimped boys to Demmink and Henry Hans Holthuis.[^7]
+Demmink's name surfaced in multiple investigations beyond the Rolodex Investigation. S. Dovey wrote that a man Dovey describes as Karel Maasdam's bookkeeper told the Dutch current-affairs programme EenVandaag that [[Warwick Spinks]] frequently supplied boys to Demmink and [[Henry Hans Holthuis]].[^11]
 
 ### Protection and Official Cover-up
 
-Evidence suggests that Demmink enjoyed significant protection within the Dutch government. The 1998 shutdown of the [[Rolodex Investigation]] shortly after he was implicated, the ignoring of driver complaints, and the lack of prosecution despite substantial evidence all suggest that forces within the government were actively protecting him from consequences for his actions.[^8]
+De Koter testified on March 5, 2014 that a request for an observation team on Demmink and the prosecutors was refused and that searches at the home of the university professor on whom the probe concentrated found the computer, video recorder and videotapes gone.[^5][^6] The government summary records that the underlying probe was halted for tactical reasons in 1997 and reopened in May 1998, and the start of the Rolodex probe is given as 1997 by De Koter and as August 1998 in the ministerial letter.[^3][^4] Jaap Hoek, a former head of the Amsterdam youth and vice police heard the same day, said he did not remember Demmink's name appearing in the investigation.[^6] No criminal charges were filed against Demmink in the Netherlands.[^12]
 
 ### Media Exposure and Public Scrutiny
 
-Demmink's case received increased media attention, particularly after 2012 when the Helsinki Commission hearings and Turkish allegations brought international scrutiny. Dutch media outlets began reporting on the long history of allegations against him and the apparent protection he had enjoyed within the government.[^9]
+Demmink's case received increased media attention, particularly after 2012 when the Helsinki Commission hearings and Turkish allegations brought international scrutiny. Dutch media outlets began reporting on the long history of allegations against him and the apparent protection he had enjoyed within the government.[^13]
 
 ### Death of Els Borst and Political Connections
 
-In February 2014, Els Borst, the former Deputy Prime Minister of the Netherlands (1998-2002) and former Minister for Health, was found murdered in her garage, stabbed 41 times in what was initially reported as a possible suicide. Borst had been Demmink's minister when he served in the justice system and died just weeks after a Dutch court in Arnhem ruled to launch an investigation into historic allegations of child abuse against Demmink.[^10]
+In February 2014, Els Borst, the former Deputy Prime Minister of the Netherlands (1998-2002) and former Minister for Health, was found murdered in her garage, stabbed 41 times in what was initially reported as a possible suicide. Borst had been Demmink's minister when he served in the justice system and died just weeks after a Dutch court in Arnhem ruled to launch an investigation into historic allegations of child abuse against Demmink.[^14]
 
-Dutch author Tomas Ross, who knew Demmink personally, suggested that Borst was murdered over what she had learned during her tenure at the Ministry of Health in the 1990s, particularly reports of rampant child abuse by Dutch politicians and other prominent figures that had flowed up to her office from social workers at government care facilities.[^10]
+Dutch author Tomas Ross, who knew Demmink personally, suggested that Borst was murdered over what she had learned during her tenure at the Ministry of Health in the 1990s, particularly reports of rampant child abuse by Dutch politicians and other prominent figures that had flowed up to her office from social workers at government care facilities.[^14]
 
 ### Resignation
 
@@ -62,12 +62,15 @@ Demmink resigned from his position as Secretary General in 2012 amid growing scr
 
 [^1]: Joris Demmink career timeline and official positions; Dutch government records and media reports
 [^2]: Demmink's early career in Dutch justice system; Rise to senior positions within Ministry of Justice, 1970s-1990s
-[^3]: Rolodex Investigation files and Demmink's implication; Dutch police reports, 1997-1998
-[^4]: Helsinki Commission witness testimony, October 4, 2012; Bell Boys service victim statements regarding Demmink
-[^5]: Government vehicle abuse complaints and driver testimony; Justice officer Tjeerd Postma statements to BVD
-[^6]: Turkish allegations and U.S. Helsinki Commission inquiry; Demmink's resignation statement, 2012
-[^7]: Richard Carl-Samson information on Demmink's connections; International trafficking network links
-[^8]: Evidence of official protection and cover-up; Multiple investigation shutdowns after Demmink's implication
-[^9]: Media coverage of Demmink case, 2012-2014; Dutch press reports on government corruption
-[^10]: Els Borst murder investigation and timing; Dutch court ruling on Demmink investigation, January 2014
-[^11]: Intelligence community speculation and Demmink connections; Analysis of protection levels and international scope
+[^3]: "Samenvatting van de aanleiding, het verloop, de resultaten en de besluitvorming in het Rolodex-onderzoek," December 23, 2013. https://eerstekamer.nl/9370000/1/j4nvgs5kjg27kof_j9vvkfvj6b325az/vjigib8p5szh
+[^4]: Tweede Kamer, Kamerstuk 33 750 VI, nr. 116, letter of March 27, 2014. https://www.eerstekamer.nl/behandeling/20140327/brief_regering/document3/f=/vjifeja4nlzk.pdf
+[^5]: NOS, "Politie onderzocht Demmink in '97," March 5, 2014. https://nos.nl/artikel/619220-politie-onderzocht-demmink-in-97
+[^6]: "Oud-hoofdofficier justitie Jan Wolter Wabeke uit Best genoemd in zedenzaak Joris Demmink," Omroep Brabant, March 5, 2014. https://www.omroepbrabant.nl/nieuws/1720283/oud-hoofdofficier-justitie-jan-wolter-wabeke-uit-best-genoemd-in-zedenzaak-joris-demmink
+[^7]: Rolodex Investigation files and Demmink's implication; Dutch police reports, 1997-1998
+[^8]: U.S. Helsinki Commission briefing, "Listening To Victims of Child Sex Trafficking," October 5, 2012; Bell Boys service victim statements regarding Demmink
+[^9]: Government vehicle abuse complaints and driver testimony; Justice officer Tjeerd Postma statements to BVD
+[^10]: Turkish allegations and U.S. Helsinki Commission inquiry; Demmink's resignation statement, 2012
+[^11]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
+[^12]: Evidence of official protection and cover-up; Multiple investigation shutdowns after Demmink's implication
+[^13]: Media coverage of Demmink case, 2012-2014; Dutch press reports on government corruption
+[^14]: Els Borst murder investigation and timing; Dutch court ruling on Demmink investigation, January 2014

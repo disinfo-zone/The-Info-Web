@@ -4,7 +4,7 @@ tags:
   - Person
   - OrganizedCrime
 summary: "Bristol associate of Alan Williams and Lee Tucker, jailed in 2000 at Swindon Crown Court for twelve years on thirteen counts of buggery and indecent assault of boys and supplying drugs; he died in prison."
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 John Gay served as a principal child pornographer in the [[TAG Films]] operation throughout the 1980s and 1990s, working in tandem with [[Alan Williams]] and [[Lee Tucker]] to generate and circulate explicit content involving underage boys transported from the [[United Kingdom]] to sex districts in [[Amsterdam]]. 
@@ -22,6 +22,7 @@ The severe materials created under Gay's direction led to the assumed killings o
 Gay, known to boys in Bristol as "Army John," was a close friend of Alan Williams and, according to the Avon and Somerset detectives, had posed as a police officer and an AIDS researcher to approach boys. In 1993 he, Tony Stevens and Lee Tucker were arrested and jailed in Portugal after being caught paying local children to make pornographic videos in their camper van. After some twenty years of abuse without a British conviction, he was tried with Lee Tucker at Swindon Crown Court in September 2000 and jailed for twelve years on thirteen counts of buggery and indecent assault of boys and supplying them with drugs; the Crown Prosecution Service then decided not to try him for raping the adolescent Tony Stevens. He died in prison.[^2][^3]
 
 ### Footnotes
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.
+
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
 [^2]: Davies, Nick. "Paedophilia is easy 1: how police finally caught up with a network of child abusers." *The Guardian,* November 25, 2000. https://www.nickdavies.net/2000/11/25/paedophilia-is-easy-how-police-finally-caught-up-with-a-network-of-child-abusers/
 [^3]: Davies, Nick. "Paedophilia is easy 2: how a paedophile murder inquiry fell apart." *The Guardian,* November 27, 2000, with the author's later update. https://www.nickdavies.net/2000/11/27/paedophilia-is-easy-2-how-a-paedophile-murder-inquiry-fell-apart/

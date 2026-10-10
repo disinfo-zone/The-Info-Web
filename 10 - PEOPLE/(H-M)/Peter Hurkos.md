@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-09
 title: Peter Hurkos
 aliases:
   - Peter Hurkos
@@ -13,7 +13,7 @@ tags:
   - Parapsychology
   - 1950s
   - 1960s
-summary: "Peter Hurkos was a Dutch psychic who gained international fame for psychometry - divining information from objects by touch - and was studied by Andrija Puharich at the Round Table Foundation in 1956 before achieving notoriety as a police psychic consultant in the United States."
+summary: "Peter Hurkos was a Dutch psychic known for psychometry, studied by Andrija Puharich at the Round Table Foundation in 1956 before becoming a police psychic consultant in the United States."
 born: 1911-05-21
 died: 1988-06-01
 location: "Dordrecht, Netherlands"
@@ -21,15 +21,21 @@ location: "Dordrecht, Netherlands"
 
 Peter Hurkos was a Dutch psychic who gained international fame for his purported abilities, particularly psychometry - the claimed ability to divine information from an object through touch. A former house painter, Hurkos claimed his psychic powers manifested after he suffered a traumatic brain injury from a fall in 1941[^1].
 
-In the fall of 1956, Hurkos was brought to the [[Round Table Foundation]] in Maine by [[Henry Belk]], a department store tycoon and one of [[Andrija Puharich]]'s investors. Hurkos's arrival boosted morale at the foundation, and he formed a close bond with [[Harry Stump]], another psychic working there[^1].
+In the fall of 1956, Hurkos was brought to the [[Round Table Foundation]] in Maine by [[Henry Belk]], a department store tycoon and one of [[Andrija Puharich]]'s investors. Hurkos's arrival boosted morale at the foundation, and he formed a close bond with [[Harry Stump]], another psychic working there[^1]. An anonymous mid-1960s paper in the CIA's files states that Puharich, director of a nonprofit foundation in Maine, "was responsible for bringing Peter Hurkos to this country."[^2]
+
+Hurkos took part in a demonstration for members of the Psychic Research Society of the [[Massachusetts Institute of Technology]] at the foundation on September 29 and 30, 1956. In split Matching Abacus Test series, Hurkos and a second subject (Harry Stump, written "Mr. Stone" in the report) sat in separate Faraday cages about 18 feet apart and tried to reproduce each other's arrangements of symbols. Most runs scored at chance; for Demonstration No. 11 (50 trials, 18 on-target hits) the report states that the results "were considered evidence for the existence of telepathic interaction on the part of Mr. Stone and Mr. Hurkos."[^3]
 
 Puharich began regularly dosing Hurkos with hallucinogenic mushrooms, specifically *teonanáctl*, using himself as a control. Under the influence, Hurkos became fixated on outer space, claiming to see a flying saucer and extraterrestrials on Owl's Head beach. He also reported seeing ghosts and experiencing premonitions, including a poltergeist incident that coincided with the unexpected death of [[Alice Astor Bouverie]], a key financial supporter of the foundation[^1].
 
 Hurkos's psychometric talents were observed by [[Bep Hermans]], Puharich's au pair and later wife. Hermans recalled that Hurkos, while blindfolded, could provide detailed information about the owner of an object simply by touching it[^1].
 
-After the death of [[Alice Astor Bouverie]], Puharich and Hurkos traveled to Mexico in search of more *God's flesh* mushrooms. Despite the turmoil, the [[Round Table Foundation]] continued its activities, with Hurkos participating in experiments involving [[Telepathy]], [[Dowsing]], palmistry, and [[Eyeless Sight]][^1].
+After the death of Alice Astor Bouverie, Puharich and Hurkos traveled to Mexico in search of more *God's flesh* mushrooms. Despite the turmoil, the Round Table Foundation continued its activities, with Hurkos participating in experiments involving [[Telepathy]], [[Dowsing]], palmistry, and [[Eyeless Sight]][^1].
 
-In the 1960s, Puharich and Hurkos traveled to the Sixth Naval District Personnel Conference in Charleston, [[South Carolina]], to demonstrate [[Extrasensory Perception|ESP]] and psychometry to submariners[^1].
+In November 1959, Puharich and Hurkos traveled to the Sixth Naval District Personnel Conference in Charleston, [[South Carolina]], to demonstrate [[Extrasensory Perception|ESP]] and psychometry to submariners[^1]. Puharich's curriculum vitae titles the talk "Demonstration of ESP by Peter Hurkos, and an Explanation by Dr. Puharich," presented at the conference on November 6 and 7, 1959, and published in the Navy's Guidelines in December 1959.[^4]
 
 ### Footnotes
+
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: "The World of the Supra-Sensory," anonymous typescript, CIA-RDP96-00787R000400040032-1, https://www.cia.gov/readingroom/document/cia-rdp96-00787r000400040032-1.
+[^3]: Plaintiff's Exhibit 7, Puharich report, Transcript of Record, Puharich v. Brenner, No. 22286 (D.C. Cir.), Appendix, section 8.80 and following. https://archive.org/details/dc_circ_1968_22286_henry_k_puharich_v_edward_j_brenner
+[^4]: Curriculum vitae, Transcript of Record, Puharich v. Brenner, Appendix; CIA-RDP96-00787R000100190001-2, https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100190001-2.

@@ -19,7 +19,7 @@ He produced rape videos sold to wealthy buyers, using hidden cameras in his base
 Dutroux's properties yielded videos of him raping minors and constructing his basement cells, with police seizing hypnosis equipment and chloroform linked to conditioning victims. His early release in 1992 by Justice Minister [[Melchior Wathelet]], later implicated in the X-Dossier, fueled suspicions of protection. Dutroux's network overlapped with the [[Spartacus International]] child sex tourism operation via [[John Stamford]], whose death in 1995
 halted related trials.
 
-Witnesses like [[Regina Louf|Regina Louf]] detailed Dutroux attending Nihoul's blackmail parties in the 1980s, supplying drugs and girls. Dutroux frequented Amsterdam's [[G-Force nightclub]] nightclub and [[Roxanne Films]] studio, owned by [[Didier Pellerin]], where Nihoul's partner [[Marleen De Cokere]] worked. Phone records showed over 20 calls between Dutroux and Nihoul around [[Laetitia Delhez]]'s 1996 abduction.
+Witnesses like [[Regina Louf|Regina Louf]] detailed Dutroux attending Nihoul's blackmail parties in the 1980s, supplying drugs and girls. Dutroux frequented Amsterdam's [[G-Force nightclub]] nightclub and [[Roxanne Films]] studio, owned by [[Didier Pellerin]], where Nihoul's partner [[Marleen De Cokere]] worked. Phone records showed over 20 calls between Dutroux and Nihoul around the August 1996 abduction of a 14-year-old girl at Bertrix.
 
 Dutroux's wife [[Michelle Martin]] and accomplice [[Michel Lelievre]] confirmed he acted on Nihoul's orders, kidnapping girls for delivery to clients. X-witnesses, including X1, accused Dutroux of participating in the 1984 murder of [[Christine Van Hees]] at a mushroom farm, matching crime scene details unavailable publicly. X1 also linked him to [[Carine Dellaert]]'s 1983 death, describing her childbirth and subsequent murder.
 
@@ -27,19 +27,19 @@ Dutroux's ties extended to German trafficker [[Lothar Glandorf]] and [[Robbie Va
 
 Dutroux's 2004 trial resulted in life imprisonment for murders of [[Julie Lejeune]], [[Melissa Russo]], An Marchal, and Eefje Lambrecks, but Nihoul was acquitted of the charges tied to the abductions, sentenced to five years for drug trafficking and criminal association, and paroled on April 28, 2006.[^3] Over 20 suspicious deaths, including prosecutor [[Hubert Massa]] and witness [[Gina Pardaens-Bernaer]], plagued the investigation. The [[Apollo Disks]] from [[Gerrit-Jan Ulrich]]'s network contained materials linking back to Dutroux's circle, with Pardaens-Bernaer identifying a Dutroux-linked perpetrator in a snuff film before her 1998 death.
 
-Dutroux's operations aligned with [[Operation Gladio]] networks, involving blackmail of elites like [[Paul Vanden Boeynants]] and [[Paul Martens]].[[Sabine Dardenne]] and Laetitia Delhez were rescued from his dungeon in August 1996, and Dutroux received a life sentence at his 2004 trial.[^4]
+Dutroux's operations aligned with [[Operation Gladio]] networks, involving blackmail of elites like [[Paul Vanden Boeynants]] and [[Paul Martens]].Two girls, aged 12 and 14, were rescued from his cellar in August 1996, and Dutroux received a life sentence at his 2004 trial.[^4]
 ### Kidnappings and Trafficking Operations
 
-Dutroux kidnapped six girls between 1995 and 1996, holding them in a basement dungeon at his Marcinelle home. Julie Lejeune and Melissa Russo, aged 8, vanished July 22 1995; An Marchal, 17, and Eefje Lambrecks, 19, disappeared August 22 1995; Sabine Dardenne, 12, abducted May 26 1996; Laetitia Delhez, 14, taken August 9 1996.
+Dutroux kidnapped six girls between 1995 and 1996, holding them in a basement dungeon at his Marcinelle home. Julie Lejeune and Melissa Russo, aged 8, vanished July 22 1995; An Marchal, 17, and Eefje Lambrecks, 19, disappeared August 22 1995; a 12-year-old girl abducted in May 1996 on her way to school; a 14-year-old girl taken at Bertrix on August 9 1996.
 
-Bodies of Julie and Melissa were found September 16 1996 under concrete at a [[Sars-la-Buissière, Belgium]] property, mutilated with video equipment suggesting production. An and Eefje were buried at another Dutroux property, murdered after two weeks of captivity. Sabine and Laetitia were rescued August 15 1996 from the Marcinelle dungeon.
+Bodies of Julie and Melissa were found September 16 1996 under concrete at a [[Sars-la-Buissière, Belgium]] property, mutilated with video equipment suggesting production. An and Eefje were buried at another Dutroux property, murdered after two weeks of captivity. The two surviving girls were rescued August 15 1996 from the Marcinelle dungeon.
 
 Dutroux's wife Michelle Martin fed the girls while he was jailed for auto theft. Surveillance on August 10 1995 missed the dungeon during initial searches. Dutroux used chloroform and hypnosis equipment seized from his home.
 
 He transported victims in a white Mercedes from ASCO, linked to Nihoul. Dutroux admitted selling kidnapped girls to Nihoul's clients, with Michel Lelievre confirming conditioning for submission. X1 testified Dutroux attended Nihoul's parties
 as a supplier.
 
-Phone records showed 20 calls between Dutroux and Nihoul around Laetitia's abduction. Dutroux's accounts showed large sums, some tied to kidnappings. Witnesses placed Dutroux at Amsterdam's G-Force and Roxanne Films with Robbie Van Der Plancken.
+Phone records showed 20 calls between Dutroux and Nihoul around the August 9 1996 abduction. Dutroux's accounts showed large sums, some tied to kidnappings. Witnesses placed Dutroux at Amsterdam's G-Force and Roxanne Films with Robbie Van Der Plancken.
 
 [[Robert Jan Warmerdam]] claimed Dutroux frequented these for child procurement. Dutroux linked to Zandvoort network via Ulrich's Apollo Disks, containing snuff films with Dutroux associates. X1 described Dutroux torturing Christine Van Hees in 1984, matching ligature and burn details.
 
@@ -63,17 +63,27 @@ X1 detailed hunts at Lippens' estates and snuff films at ASCO Industries factory
 
 [[Beat Meier]], Spartacus associate, smuggled boys with Roger Lawrence for films. Ties to Belgian royal family via X3's claims of abuse at castles. Over 20 witness deaths, including prosecutor Massa and Gina Pardaens-Bernaer, who identified Dutroux-linked snuff on Apollo Disks before her 1998 death.[^4]
 
+### The August 1996 Arrests and the Rescue
+
+The parliamentary commission of inquiry found that the investigation cell set up at Tournai for the disappearance of a 12-year-old girl, abducted on May 27, 1996 on her way to school, was staffed by the gendarmerie. Information on Dutroux held by the missing-persons unit reached the cell only after a fax of June 20, 1996 from the General Police Support Service (SGAP); the unit told a coordination meeting on June 26 that Dutroux was the subject of an investigation, including surveillance, by the Charleroi criminal investigation brigade that had so far been negative. Assuming that Charleroi was following Dutroux closely, the investigating judge and the cell did not contact the Charleroi gendarmerie and did not learn that the surveillance had long since ended. The commission found the investigation "essentially passive" and limited to its own district.[^6]
+
+A 14-year-old girl was abducted at Bertrix, in the province of Luxembourg, on Friday, August 9. On Monday, August 12, a witness gave investigators three digits of a license plate; a door-to-door inquiry began at two in the afternoon, and at about five Dutroux, Michelle Martin and Michel Lelievre were arrested at Charleroi. Police and gendarmes searched Dutroux's house in [[Marcinelle, Belgium|Marcinelle]] on August 13 with tracker dogs and found nothing. On Thursday, August 15, Dutroux confessed, and on his directions both girls were found alive in the concealed cell in the cellar. The commission observed that the 14-year-old "was found through the memorization of a license plate number."[^7]
+
+The writer S. Dovey wrote that Lelievre blocked the 12-year-old's path on her bicycle near a factory while Dutroux seized her and forced her into a van with chloroform; that the 14-year-old was taken at a bus stop after visiting a local festival; that the witness saw the van circle twice and noted the plate as PBX 688, a vehicle linked to Nihoul's company ASCO; that the cell had been built in 1993 with the labor of [[Claude Thirault]] and hidden behind shelving; that Dutroux conditioned both girls with drugs and hypnosis into dependence on him, told one of them she was being held for ransom, and was embraced by both when they were found; and that at the trial they testified to the manipulation they had undergone and to the roles of Martin and Lelievre, while Lelievre spoke of orders from Nihoul and of Dutroux's boasts of obtaining girls in [[Slovakia]]. Dovey gives May 26 for the first abduction, the full plate number and August 13 for the arrests; the commission's chronology records May 27, three digits of the plate and August 12.[^4]
+
+On June 17, 2004, the jury at Arlon convicted Dutroux of the abduction, sequestration and rape of both girls and Lelievre of their abduction and sequestration; Martin was convicted of their sequestration. Nihoul was acquitted of the charges relating to the abductions, the jury finding that he had no involvement in the abduction and sequestration of the 14-year-old and rejecting the "network" thesis argued by the prosecution, the Marchal family and the girl's own lawyers.[^8][^9]
+
 ### The 1989 Conviction and Early Release
 
-Dutroux's 1996 arrest was not his first: on April 26, 1989 he was convicted of abducting and raping five girls and women and sentenced to 13.5 years, but Justice Minister Wathelet paroled him on April 8, 1992 after roughly three years, over the objections of both the public prosecutor and a prison psychiatrist who had assessed him as a high-risk offender. He resumed offending soon after release, and the decision became a central controversy in the later parliamentary inquiries.[^6]
+Dutroux's 1996 arrest was not his first: on April 26, 1989 he was convicted of abducting and raping five girls and women and sentenced to 13.5 years, but Justice Minister Wathelet paroled him on April 8, 1992 after roughly three years, over the objections of both the public prosecutor and a prison psychiatrist who had assessed him as a high-risk offender. He resumed offending soon after release, and the decision became a central controversy in the later parliamentary inquiries.[^10]
 
 ### Witness X1 Corroboration and the De Baets Team
 
-The investigative team under the gendarme [[Patrick De Baets]] conducted extensive interviews with Regina Louf (Witness X1) and corroborated significant portions of her testimony through independent means before being removed from the case after pursuing leads toward prominent individuals; Judge Jacques Langlois ordered a rereading of all the related files in the summer of 1997, and on April 23, 1998, the prosecutors-general closed them, a course which De Baets and his colleagues maintained was a political decision.[^6][^7]
+The investigative team under the gendarme [[Patrick De Baets]] conducted extensive interviews with Regina Louf (Witness X1) and corroborated significant portions of her testimony through independent means before being removed from the case after pursuing leads toward prominent individuals; Judge Jacques Langlois ordered a rereading of all the related files in the summer of 1997, and on April 23, 1998, the prosecutors-general closed them, a course which De Baets and his colleagues maintained was a political decision.[^10][^11]
 
 ### Gunderson, Gosch, and U.S. Parallels
 
-Researchers including [[Ted Gunderson]], a former head of the [[Federal Bureau of Investigation|FBI]]'s [[Los Angeles]] field office, drew parallels between the Belgian network and organized-abuse rings in the United States, including the [[McMartin Preschool]] case and the [[The Finders|Finders]] case; [[Noreen Gosch]], mother of kidnapped Iowa paperboy [[Johnny Gosch]], publicly stated her belief that her son had been abducted into an organized network with connections to both American and European intelligence services.[^8]
+Researchers including [[Ted Gunderson]], a former head of the [[Federal Bureau of Investigation|FBI]]'s [[Los Angeles]] field office, drew parallels between the Belgian network and organized-abuse rings in the United States, including the [[McMartin Preschool]] case and the [[The Finders|Finders]] case; [[Noreen Gosch]], mother of kidnapped Iowa paperboy [[Johnny Gosch]], publicly stated her belief that her son had been abducted into an organized network with connections to both American and European intelligence services.[^12]
 
 ### Footnotes
 
@@ -82,6 +92,10 @@ Researchers including [[Ted Gunderson]], a former head of the [[Federal Bureau o
 [^3]: "Michel Nihoul est décédé." La Libre Belgique, October 23, 2019; translated from the French. https://www.lalibre.be/belgique/societe/michel-nihoul-est-decede-5db04ec39978e218e36b29be Sentence: "'Most hated' Belgian in jail for life." Al Jazeera, June 22, 2004. https://www.aljazeera.com/news/2004/6/22/most-hated-belgian-in-jail-for-life
 [^4]: Dovey, S. (2023). *Eye of the Chickenhawk*. United States: Thehotstar.
 [^5]: Bulté, Annemie, Douglas De Coninck and Marie-Jeanne Van Heeswyck. De X-dossiers: wat België niet mocht weten over de zaak-Dutroux. Antwerp: Houtekiet, 1999, 543 pp., ISBN 90-5240-536-0 (catalogue record from the Library of Congress, LCCN 2002406745, as listed in Open Library). https://openlibrary.org/isbn/9789052405360
-[^6]: "Paedophile Marc Dutroux and the Murders That United a Divided Belgium," *Euronews*, October 27, 2019; *Dutroux* trial verdict, Arlon Assize Court, June 17, 2004; U.S. Office of Justice Programs, "Exhausting Whiteness: The 1996-98 Belgian Parliamentary Inquiry," 2004.
-[^7]: Sénat de Belgique. Proposition déposée par M. Frans Lozie, Doc. 2-563/1, October 9, 2000, développements.
-[^8]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996; Ted Gunderson investigative reports.
+[^6]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 86-88; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
+[^7]: Chambre des Représentants de Belgique, Doc. 713/6-96/97, April 18, 1997, p. 112 and the chronology of August 1996, pp. 264-266; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
+[^8]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/
+[^9]: "Notorious child rapist-murderer convicted." NBC News and Associated Press, June 17, 2004. https://www.nbcnews.com/id/wbna5233011
+[^10]: "Paedophile Marc Dutroux and the Murders That United a Divided Belgium," *Euronews*, October 27, 2019; *Dutroux* trial verdict, Arlon Assize Court, June 17, 2004; U.S. Office of Justice Programs, "Exhausting Whiteness: The 1996-98 Belgian Parliamentary Inquiry," 2004.
+[^11]: Sénat de Belgique. Proposition déposée par M. Frans Lozie, Doc. 2-563/1, October 9, 2000, développements.
+[^12]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996; Ted Gunderson investigative reports.

@@ -17,7 +17,7 @@ The Gay Palace was a club at 44 Spuistraat in [[Amsterdam]], managed by [[Warwic
 
 A Scotland Yard informant claimed to have seen films screened at the Gay Palace showing boys aged eleven to fourteen in bondage being raped by masked men, and stated that Spinks was selling copies of a "special videotape" for 4,000 pounds showing a boy being tortured.[^2][^3] A different informant named "Frank" described another film Spinks had shown him of a boy being tortured with needles, castrated, and cut open with a knife inside a barn.[^2]
 
-The Gay Palace operated across the street from Boys Club 21, managed by [[Alan Williams]]. S. Dovey wrote that together the two establishments formed the core of British-run child trafficking operations in Amsterdam's Spuistraat district, investigated under [[Operation Framework]] in 1992-93, that the establishments were presented as legitimate gay businesses, providing cover for their actual function as trafficking hubs, and that clients included prominent figures from across Europe.[^2]
+The Gay Palace operated across the street from Boys Club 21, managed by [[Alan Williams]]. S. Dovey wrote that together the two establishments formed the core of British-run child trafficking operations in Amsterdam's Spuistraat district, investigated under [[Operation Framework]], that the establishments were presented as legitimate gay businesses, providing cover for their actual function as trafficking hubs, and that clients included prominent figures from across Europe.[^2]
 
 ### Address
 

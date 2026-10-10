@@ -19,7 +19,7 @@ start: 1969-07-01
 end: 1975
 location: "Pacific Ocean"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-09
 ---
 
 Project Azorian was the [[Central Intelligence Agency|CIA]]'s attempt to lift the Soviet Golf II submarine K-129, which sank in March 1968 with three nuclear ballistic missiles about 1,560 miles northwest of [[Hawaii]], from a depth of 16,500 feet. The ship built for the purpose, the [[Hughes Glomar Explorer]], raised part of the hull in August 1974. The agency's own history of the project, written about 1978, was released with deletions in 2010.[^1]
@@ -40,7 +40,7 @@ A CIA security memorandum of July 28, 1975, records: "In November of 1974 it was
 
 ### Exposure
 
-A story in the [[Los Angeles Times]] ran on February 8, 1975, under the headline "U.S. Reported After Russian Submarine," after what the CIA's history calls "an improbable series of events following a break-in and robbery in June 1974 at Summa Corporation headquarters in Los Angeles"; the history states that "extraordinary efforts by DCI Colby and others were able to contain the spread of the story for a time." [[Jack Anderson]] broadcast the story on March 18 and [[Seymour Hersh]] published it in [[New York Times|The New York Times]] the next day. At the [[White House]] that day [[United States Secretary of Defense|Secretary of Defense]] [[James Schlesinger]] recommended acknowledging the "bare facts." Colby, recalling that [[Dwight D. Eisenhower|Eisenhower]]'s admission of the U-2 flight had deepened the crisis of 1960, argued that confirmation would put Moscow under "pressure to respond," and President [[Gerald Ford]] took his advice.[^1]
+A story in the [[Los Angeles Times]] ran on February 8, 1975, under the headline "U.S. Reported After Russian Submarine," after what the CIA's history calls "an improbable series of events following a break-in and robbery in June 1974 at Summa Corporation headquarters in Los Angeles"; the history states that "extraordinary efforts by DCI Colby and others were able to contain the spread of the story for a time." [[Jack Anderson]] broadcast the story on March 18 and [[Seymour Hersh]] published it in [[New York Times|The New York Times]] the next day.[^3] At the [[White House]] that day [[United States Secretary of Defense|Secretary of Defense]] [[James Schlesinger]] recommended acknowledging the "bare facts." Colby, recalling that [[Dwight D. Eisenhower|Eisenhower]]'s admission of the U-2 flight had deepened the crisis of 1960, argued that confirmation would put Moscow under "pressure to respond," and President [[Gerald Ford]] took his advice.[^1]
 
 When the journalist [[Harriet Ann Phillippi]] asked under the [[Freedom of Information Act]] for records of the agency's efforts to discourage the reporting, the CIA replied that it could "neither confirm nor deny" any connection with the ship. The court of appeals upheld the answer in Phillippi v. CIA in 1976. The formula has since been known as the Glomar response. In 2010 a retired officer who had served aboard, [[David Sharp]], wrote that the agency's review board still refused to clear a third of his manuscript on the project.[^1]
 
@@ -48,3 +48,4 @@ When the journalist [[Harriet Ann Phillippi]] asked under the [[Freedom of Infor
 
 [^1]: Burr, William, ed. "Project Azorian: The CIA's Declassified History of the Glomar Explorer," National Security Archive Electronic Briefing Book No. 305, February 12, 2010, with "Project Azorian: The Story of the Hughes Glomar Explorer," *Studies in Intelligence,* Fall 1985, and White House memoranda of conversation, February 7 and March 19, 1975. https://nsarchive2.gwu.edu/nukevault/ebb305/index.htm
 [^2]: Central Intelligence Agency, "Wackenhut Corporation, SF# 493 364," memorandum for the record, July 28, 1975. JFK Assassination Records Collection, record 104-10130-10454. https://www.archives.gov/files/research/jfk/releases/2025/0318/104-10130-10454.pdf
+[^3]: U.S. Department of State, *Foreign Relations of the United States, 1969-1976*, vol. XXXV, National Security, 1973-1976, document 197, editorial note: "On March 18, 1975, syndicated columnist Jack Anderson mentioned the Glomar Explorer on his national radio show, and declared his intention to reveal more details about the operation. The next day, several major newspapers ... published front-page stories." https://history.state.gov/historicaldocuments/frus1969-76v35/d197

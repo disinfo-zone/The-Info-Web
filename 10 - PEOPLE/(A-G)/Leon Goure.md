@@ -9,12 +9,12 @@ tags:
   - PsychologicalWarfare
   - Counterinsurgency
   - ColdWar
-summary: "Rand Corporation social scientist who led Phase II of the Viet Cong Motivation and Morale Study from 1965, redirected its findings to support an air power thesis through systematic selection and suppression of contrary data, forged colleagues' signatures on a policy memorandum, and supplied the optimistic briefings on VC morale that Walt Rostow and Robert McNamara consumed while the war escalated."
+summary: "Rand Corporation social scientist who led Phase II of the Viet Cong Motivation and Morale Study from 1965, whose optimistic morale briefings reached Walt Rostow and Robert McNamara while the war escalated."
 born: 1922
 died: 2007-03-28
 location: Santa Monica, California
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-10-09
 ---
 Leon Gouré was born in [[Moscow]] in 1922 and became a [[Rand Corporation]] analyst in 1951, where he worked primarily on Soviet civil defense and military capability assessments before being assigned to lead the second phase of the Viet Cong Motivation and Morale Study in early 1965. His conduct of that study generated the most documented internal scandal in Rand's history during the Vietnam era, producing formal complaints from three of his own analysts, accusations of data manipulation and unauthorized use of colleagues' names, and a subsequent commissioned institutional history that validated nearly all of the complaints.[^1]
 
@@ -22,7 +22,7 @@ Leon Gouré was born in [[Moscow]] in 1922 and became a [[Rand Corporation]] ana
 
 When Gouré took over the VC Motivation and Morale Study from [[John Donnell]], [[Joseph Zasloff]], and [[Guy Pauker]] in early 1965, he redirected its emphasis from a broad assessment of VC organization and motivation toward the specific question of which weapons and tactics were most degrading enemy morale. The practical effect was to position the study as providing analytical support for air power operations rather than independent assessment. His published reports, including *Some Impressions of Viet Cong Vulnerabilities* (RM-4699-1-ISA/ARPA, August 1965) and *Some Findings of the Viet Cong Motivation and Morale Study: June-December 1965* (RM-4911-2-ISA/ARPA, 1966), concluded that VC morale was declining under air pressure, that draftee quality was deteriorating, and that sustained bombing would produce surrender.[^1]
 
-These conclusions were adopted by senior policymakers. National Security Advisor Walt Rostow, who used Gouré's work in preparing optimistic briefings for President Johnson, and Secretary of Defense Robert McNamara were the primary consumers. Gouré briefed General Westmoreland, the Joint Chiefs of Staff, and the NSC. Westmoreland later assessed even Gouré's optimism as excessive.[^1]
+These conclusions were adopted by senior policymakers. [[Walt Rostow]], chairman of the State Department Policy Planning Council until he became the President's special assistant for national security affairs in April 1966, used Gouré's work in preparing optimistic briefings for President Johnson. Secretary of Defense [[Robert McNamara]] was the other primary consumer.[^2] Gouré briefed General Westmoreland, the Joint Chiefs of Staff, and the NSC. Westmoreland later assessed even Gouré's optimism as excessive.[^1]
 
 ### Suppression and Misconduct
 
@@ -43,3 +43,4 @@ Rand's commissioned institutional history, *RAND in Southeast Asia* (Rand CP-564
 ### Footnotes
 
 [^1]: Mai Elliott, *RAND in Southeast Asia: A History of the Vietnam War Era*. RAND CP-564, 2010; Anthony Russo, "Looking Backward: RAND and Vietnam," *Ramparts*, October 1972; Washington Post obituary, April 5, 2007.
+[^2]: *Foreign Relations of the United States, 1964-1968, Volume II, Vietnam, January-June 1965*, document 121, memorandum from Rostow as "Chairman of the Policy Planning Council," February 15, 1965, https://history.state.gov/historicaldocuments/frus1964-68v02/d121 ; *Foreign Relations of the United States, 1964-1968, Volume IV, Vietnam, 1966*, document 115, memorandum from "the President's Special Assistant (Rostow)," April 5, 1966, https://history.state.gov/historicaldocuments/frus1964-68v04/d115
