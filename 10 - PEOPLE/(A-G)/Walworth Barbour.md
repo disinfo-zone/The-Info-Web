@@ -32,5 +32,5 @@ Barbour's support for Israel was profound and heartfelt. He remained on the boar
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 12.
 [^2]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 158, editors' note on telegram 3937 from Tel Aviv, June 5, 1967. https://history.state.gov/historicaldocuments/frus1964-68v19/d158
-[^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 12, pp. 167-168, quoting a declassified cable in the LBJ Library. Sole source for the cable text.
+[^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 12, pp. 167-168, quoting a declassified cable in the LBJ Library.
 [^4]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 326, Telegram 4311 from the Embassy in Israel (Barbour) to the Department of State, June 27, 1967. https://history.state.gov/historicaldocuments/frus1964-68v19/d326

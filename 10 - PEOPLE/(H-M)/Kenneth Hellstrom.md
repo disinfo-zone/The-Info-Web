@@ -16,4 +16,4 @@ In late October 1973, Kenneth Hellstrom reported to the Homewood Police Departme
 Kenneth Hellstrom was murdered in January 1977, shortly after his 1976 testimony against [[John David Norman]], with his body discovered in the snow bearing a slit throat. [[Phillip Paske]] emerged as a prime suspect due to his close association with Norman, including cohabitation in the Chicago apartment for pornography production and assistance in launching The Delta Project during their time in Cook County Jail. The [[Chicago]] investigated the murder, but the case remained cold for decades until revived in 2007 and ultimately went unsolved.[^1]
 
 ### Footnotes
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for this page. Hellstrom is not named in the 1977 House and Senate hearing records, and searches of archive.org and CourtListener found no record of the murder or of a confession by Fred Rogers; the Phillip Paske pages give the killing as January 1977 and February 1976.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. The Phillip Paske pages give the killing as January 1977 and February 1976.

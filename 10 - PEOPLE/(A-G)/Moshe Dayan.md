@@ -60,7 +60,7 @@ Despite his military prowess and diplomatic involvement, Dayan's perspective on 
 [^2]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015). 
 [^3]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 3.
 [^4]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 326, Telegram 4311 from the Embassy in Israel (Barbour) to the Department of State, June 27, 1967. https://history.state.gov/historicaldocuments/frus1964-68v19/d326
-[^5]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 14, p. 185, footnote. Sole source for the passages so cited.
+[^5]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 14, p. 185, footnote.
 [^6]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 284, Intelligence Memorandum, "The Israeli Attack on the USS Liberty," June 13, 1967, with source note on Helms's notes of the June 12 meeting and Rostow's covering memorandum of June 13. https://history.state.gov/historicaldocuments/frus1964-68v19/d284
 [^7]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 317, Intelligence Memorandum, June 21, 1967. https://history.state.gov/historicaldocuments/frus1964-68v19/d317
 [^8]: Foreign Relations of the United States, 1964-1968, vol. XIX, Document 307, Telegram from the Defense Attache Office in Israel to the White House, June 18, 1967, "Israeli Court of Inquiry in USS Liberty incident." https://history.state.gov/historicaldocuments/frus1964-68v19/d307

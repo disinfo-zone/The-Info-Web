@@ -75,7 +75,7 @@ The House Task Force to Investigate Certain Allegations Concerning the Holding o
 
 ### Osirak, June 1981
 
-The journalist [[Seymour Hersh]] wrote that when national security adviser [[Richard V. Allen]] informed Reagan of the Israeli bombing of the Iraqi reactor at Osirak in June 1981, Reagan privately remarked, "Well. Boys will be boys," and that, despite State Department condemnation and proposals from [[Caspar Weinberger]] and others to cancel F-16 sales to [[Israel]], Reagan had no intention of doing so; the suspension of F-16 deliveries was lifted two months later. Hersh is the sole source for the passages so cited.[^4] See [[Osirak bombing]].
+The journalist [[Seymour Hersh]] wrote that when national security adviser [[Richard V. Allen]] informed Reagan of the Israeli bombing of the Iraqi reactor at Osirak in June 1981, Reagan privately remarked, "Well. Boys will be boys," and that, despite State Department condemnation and proposals from [[Caspar Weinberger]] and others to cancel F-16 sales to [[Israel]], Reagan had no intention of doing so; the suspension of F-16 deliveries was lifted two months later.[^4] See [[Osirak bombing]].
 
 ### Executive Order 12333 and the 1982 reporting agreement
 
@@ -122,10 +122,10 @@ The May 1988 disclosures that the Reagans consulted the San Francisco astrologer
 [^1]: Miller Center, University of Virginia, "Ronald Reagan: Life Before the Presidency" and facts page (birth February 6, 1911, Tampico, Illinois; inaugurated January 20, 1981; term ended January 20, 1989; died June 5, 2004). https://millercenter.org/president/reagan
 [^2]: Slosser, Bob. "A Prophecy," from *Reagan Inside Out* (Word Books, 1984), reproduced by the Christian Broadcasting Network. https://cbn.com/article/relationships/prophecy
 [^3]: U.S. House of Representatives, *Joint Report of the Task Force to Investigate Certain Allegations Concerning the Holding of American Hostages by Iran in 1980* ("October Surprise Task Force"), H. Rept. 102-1102, January 3, 1993, Executive Summary, sections A.1 to A.4. https://archive.org/details/14148-h.rp.-1102
-[^4]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991. Sole source for the passages so cited.
+[^4]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991.
 [^5]: Executive Order 12333, "United States Intelligence Activities," December 4, 1981, section 1.7, 46 Fed. Reg. 59941. https://www.archives.gov/federal-register/codification/executive-order/12333.html
 [^6]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions*, December 1997, ch. XI, "DEA's Response to Information About Contra Drug Trafficking," discussion of the 1982 memorandum of understanding and Smith's letter of February 11, 1982. https://oig.justice.gov/special/9712/ch11p1.htm
-[^7]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998, chapter 9 ("He would have had me by the tail"), the epilogue and chapter 27. Sole source for the passages so cited.
+[^7]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998, chapter 9 ("He would have had me by the tail"), the epilogue and chapter 27.
 [^8]: Walsh, Lawrence E. *Final Report of the Independent Counsel for Iran/Contra Matters*, Volume I, August 4, 1993, ch. 27, "President Reagan," including notes 6, 7, 10, 15, 45 and 50 to 53, 64 and 103 to 119. https://fas.org/irp/offdocs/walsh/chap_27.htm
 [^9]: Walsh, *Final Report*, vol. I, ch. 2, "United States v. Oliver L. North," section on the "Heads of State" documents and note 55. https://fas.org/irp/offdocs/walsh/chap_02.htm
 [^10]: Walsh, *Final Report*, vol. I, Executive Summary. https://fas.org/irp/offdocs/walsh/execsum.htm

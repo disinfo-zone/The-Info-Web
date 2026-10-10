@@ -43,7 +43,7 @@ The FBI's copy of the March 22, 1950, "Hottel" memorandum circulates under a cov
 
 ### The Contra Record
 
-[[Gary Webb]] wrote that his FOIA requests to multiple federal agencies produced thousands of pages about [[Danilo Blandon]] and [[Norwin Meneses]], including DEA reports, CIA cables, FBI files and court documents, and that the records confirmed federal agencies had known of the Blandon-Meneses network for years without prosecuting or disrupting it. Webb also wrote that the DEA stated under the Freedom of Information Act that it had no reports from [[Celerino Castillo]] about drug trafficking at [[Ilopango Airbase]], and that the Justice Department Inspector General found and quoted such reports. Webb is the sole source for these passages; the Inspector General's published report describes Castillo's reports on the pilots Grasheim and others but does not mention a FOIA response.[^7]
+[[Gary Webb]] wrote that his FOIA requests to multiple federal agencies produced thousands of pages about [[Danilo Blandon]] and [[Norwin Meneses]], including DEA reports, CIA cables, FBI files and court documents, and that the records confirmed federal agencies had known of the Blandon-Meneses network for years without prosecuting or disrupting it. Webb also wrote that the DEA stated under the Freedom of Information Act that it had no reports from [[Celerino Castillo]] about drug trafficking at [[Ilopango Airbase]], and that the Justice Department Inspector General found and quoted such reports. The Inspector General's published report describes Castillo's reports on the pilots Grasheim and others but does not mention a FOIA response.[^7]
 
 ### Footnotes
 

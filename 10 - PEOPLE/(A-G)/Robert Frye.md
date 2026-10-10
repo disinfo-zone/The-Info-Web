@@ -44,5 +44,5 @@ Frye suffered a heart attack in early April 1983 and was hospitalized. After thi
 [^3]: A. R. Frye, inter-office memorandum to R. E. Chasen (the scan text prints "Crasen"), S & S Group, "Trip Report (May 11-22, 1981)," May 25, 1981 (the scan text prints the year as "1531"; the trip dates and the Bua report place it in 1981), Danny Casolaro papers, folder "Wackenhut-Correspondence," https://archive.org/details/casolaro-notebooks.
 [^4]: Undated letter to Patrick Moriarty, Pyrotronics Corp./Red Devil/Wildcat, headed "CSC/WSI Joint Venture," Danny Casolaro papers, folder "Wackenhut-Correspondence."
 [^5]: Arthur Welmas, letter dated May 1 (year not printed) to La France Specialties, San Diego, Danny Casolaro papers, folder "Wackenhut-Correspondence."
-[^6]: John Connolly, "Inside the Shadow CIA," *Spy,* September 1992, pp. 46-54. Sole source for the Pastora identification and the retraction. https://www.prop1.org/legal/prisons/92wack.htm
+[^6]: John Connolly, "Inside the Shadow CIA," *Spy,* September 1992, pp. 46-54. https://www.prop1.org/legal/prisons/92wack.htm
 [^7]: John Hussar, "Crime probes tied to Nichols associates," *The Desert Sun* (Palm Springs, California), March 21, 1985, front page.

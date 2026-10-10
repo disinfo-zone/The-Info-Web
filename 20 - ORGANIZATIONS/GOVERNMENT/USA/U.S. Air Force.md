@@ -35,7 +35,7 @@ relations:
     role: "Assistant Chief of Staff, Intelligence, concurred on September 29, 1978 in a Defense Department remote viewing working group and kept a focal point"
     fn: 3
 ---
-The [[U.S. Air Force]] is the aerial service of the [[Department of Defense]]. In this vault's records it appears in the remote viewing program, the detection of a 1979 flash over the South Indian Ocean, the recruitment of the Nicaraguan Contra commander, and the investigations office whose agent [[Richard Doty]] figures in the UFO record.
+The [[U.S. Air Force]] is the aerial service of the [[Department of Defense]]. In this vault's records it appears in the remote viewing program, the detection of a 1979 flash over the southern Atlantic and Indian Oceans, the recruitment of the Nicaraguan Contra commander, and the investigations office whose agent [[Richard Doty]] figures in the UFO record.
 
 ### Foreign Technology Division and the psychoenergetics program
 
@@ -69,7 +69,7 @@ The Air Force accounted for 12 percent of SAIC's consolidated revenue in fiscal 
 
 ### Footnotes
 
-[^1]: Defense Intelligence Agency, *Government-Sponsored Research in Psychoenergetics,* February 1989, section 2 ("The Service Years"), CIA-RDP96-00789R002200440001-9. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^1]: Defense Intelligence Agency, *Government-Sponsored Research in Psychoenergetics,* February 1989, section 2 ("The Service Years"), CIA-RDP96-00789R002200440001-9.
 [^2]: Same, section on the Air Force Foreign Technology Division.
 [^3]: Headquarters United States Air Force, Assistant Chief of Staff, Intelligence, letter to Dr. Jack Vorona, DIA/DT, "DOD Program on Remote Viewing," September 29, 1978, signed James L. Brown, Major General, USAF, CIA-RDP96-00788R001200410026-7.
 [^4]: "Key Players Grill Flame," list, CIA-RDP96-00788R001200270002-9.

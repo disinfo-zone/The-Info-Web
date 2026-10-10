@@ -53,7 +53,7 @@ According to [[Cheri Seymour]], FBI wiretaps in the Los Angeles inquiry into [[M
 
 ### The Wackenhut-Cabazon allegation
 
-Seymour wrote that [[Bill Hamilton]], president of [[INSLAW]], believed that the joint venture between the [[Wackenhut Corporation]] and the [[Cabazon Indian Reservation]] was connected to government-sanctioned drug trafficking and to money laundering by organized crime groups such as the Gambino family, with [[Michael Riconosciuto]]'s role being to help these groups use the [[NSA]]'s bank-surveillance version of [[PROMIS]] to launder drug proceeds. Sole source for the passages so cited; Hamilton's belief is reported by Seymour and the allegation is not repeated in the court records above.[^5]
+Seymour wrote that [[Bill Hamilton]], president of [[INSLAW]], believed that the joint venture between the [[Wackenhut Corporation]] and the [[Cabazon Indian Reservation]] was connected to government-sanctioned drug trafficking and to money laundering by organized crime groups such as the Gambino family, with [[Michael Riconosciuto]]'s role being to help these groups use the [[NSA]]'s bank-surveillance version of [[PROMIS]] to launder drug proceeds. Hamilton's belief is reported by Seymour and the allegation is not repeated in the court records above.[^5]
 
 ### Footnotes
 

@@ -50,7 +50,7 @@ The session sheets identify the customer only as the DIA Analysis Center.[^2]
 
 ### Footnotes
 
-[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017. Sole source for the passages so cited (Andre's statements, his initial skepticism, the 113 sessions).
+[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^2]: Defense Intelligence Agency, Washington, D.C., memorandum DT-S for Deputy Director for Scientific and Technical Intelligence, "SUN STREAK Operational Report - 8808 (U)," February 24, 1988, CIA-RDP96-00789R003400980001-7. https://archive.org/download/CIA-RDP96-00789R003400980001-7/CIA-RDP96-00789R003400980001-7_djvu.txt
 [^3]: "8808 WRV Session 1 - 18 Feb 88, Source 079, Summary, Notes & Drawings," CIA-RDP96-00789R003400750002-1; "8808 WRV Session 18 Report - 7 Jul 88, Source 079, Summary & Maps," CIA-RDP96-00789R003400640002-3. Titles as catalogued in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
 [^4]: Dellafiora's use of written remote viewing: see the [[Angela Dellafiora]] page, citing the same collection.

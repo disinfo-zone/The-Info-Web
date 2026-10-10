@@ -38,11 +38,11 @@ Hamilton co-chaired the National Commission on Terrorist Attacks Upon the United
 [^1]: Biographical Directory of the United States Congress. "Hamilton, Lee Herbert." bioguide.congress.gov.
 [^2]: U.S. House of Representatives, October Surprise Task Force. *Joint Report of the Task Force to Investigate Certain Allegations Concerning the Holding of American Hostages by Iran in 1980*. 102nd Congress, 2nd Session, January 1993.
 [^3]: "Head of Iran Hostage Probe Linked to Arms Deal," *Hartford Courant*, May 29, 1992 (reprinted in *The Seattle Times*, May 29, 1992). https://www.courant.com/1992/05/29/head-of-iran-hostage-probe-linked-to-arms-deal/
-[^4]: Parry, Robert. "Inside the October Surprise Cover-up." *Consortium News*, July 12, 2011. https://consortiumnews.com/2011/07/12/inside-the-october-surprise-cover-up/ Sole source for the Barcella account.
-[^5]: Meldon, Jerry. "Dr. Hamilton and Mr. Hyde." *Consortium News*, March 27, 2008, with addendum from Robert Parry. https://consortiumnews.com/2008/032608c.html Sole source for the addendum account.
-[^6]: Parry, Robert. "Second Thoughts on October Surprise," *Consortium News*, June 8, 2013. https://consortiumnews.com/2013/06/08/second-thoughts-on-october-surprise/ Sole source for the Hamilton statement as reported by Parry.
-[^7]: Parry, Robert. "The Russian Report." *Consortium News*, August 5, 2010. https://consortiumnews.com/2010/080510.html Sole source for the Hamilton statement about the report as reported by Parry.
-[^8]: Parry, Robert. "The October Surprise Mysteries." *Consortium News*, October 22, 2012. https://consortiumnews.com/2012/10/22/the-october-surprise-mysteries/ Sole source for the Hamilton statement of 2010 as reported by Parry.
+[^4]: Parry, Robert. "Inside the October Surprise Cover-up." *Consortium News*, July 12, 2011. https://consortiumnews.com/2011/07/12/inside-the-october-surprise-cover-up/
+[^5]: Meldon, Jerry. "Dr. Hamilton and Mr. Hyde." *Consortium News*, March 27, 2008, with addendum from Robert Parry. https://consortiumnews.com/2008/032608c.html
+[^6]: Parry, Robert. "Second Thoughts on October Surprise," *Consortium News*, June 8, 2013. https://consortiumnews.com/2013/06/08/second-thoughts-on-october-surprise/
+[^7]: Parry, Robert. "The Russian Report." *Consortium News*, August 5, 2010. https://consortiumnews.com/2010/080510.html
+[^8]: Parry, Robert. "The October Surprise Mysteries." *Consortium News*, October 22, 2012. https://consortiumnews.com/2012/10/22/the-october-surprise-mysteries/
 [^9]: U.S. House of Representatives, *Congressional Record*, October 2, 1992 (text of H. Res. 585 and floor statement of Rep. Beilenson). https://irp.fas.org/congress/1992_cr/h921002-october.htm
-[^10]: Parry, Robert. "The Russian Report," *Consortium News*, August 5, 2010. https://consortiumnews.com/2010/080510.html Sole source for the Hamilton statement as reported by Parry.
+[^10]: Parry, Robert. "The Russian Report," *Consortium News*, August 5, 2010. https://consortiumnews.com/2010/080510.html
 [^11]: Hamilton, Lee H. "DIALOGUE: Last Word on the October Surprise?; Case Closed." *The New York Times*, January 24, 1993 (Section 4, p. 17). https://www.nytimes.com/1993/01/24/opinion/dialogue-last-word-on-the-october-surprise-case-closed.html The text states that the staff "conducted over 230 formal interviews and depositions" and finds "virtually no credible evidence."

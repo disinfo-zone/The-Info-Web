@@ -51,4 +51,4 @@ A profile on the archived CERN SPARKS site lists Cremer as a research scholar at
 [^2]: Carla Zoe Cremer and Luke Kemp, "Democratising Risk: In Search of a Methodology to Study Existential Risk," arXiv:2201.11214, submitted December 27, 2021 (abstract). http://arxiv.org/abs/2201.11214 The authors' SSRN version is https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995225
 [^3]: "Cremer, Carla Zoe," CERN SPARKS (site archived September 11, 2026). https://sparks.web.cern.ch/node/562
 [^4]: Human Information Processing Lab, Department of Experimental Psychology, University of Oxford, people page, "Alumni (PhD Students / RAs)." https://humaninformationprocessing.com/people
-[^5]: David Morris, "'AI Safety' Research Is a Hallucination," Zero Knowledge, October 8, 2026. https://www.zero-knowledge.com/blog/ai-safety-research-techno-utopian-propaganda Sole source for the end of the appointment, the forum-activity statement and the unanswered email.
+[^5]: David Morris, "'AI Safety' Research Is a Hallucination," Zero Knowledge, October 8, 2026. https://www.zero-knowledge.com/blog/ai-safety-research-techno-utopian-propaganda

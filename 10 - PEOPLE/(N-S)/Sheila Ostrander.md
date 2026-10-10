@@ -16,4 +16,4 @@ Ostrander and Schroeder's work, which included accounts from figures like [[Edua
 ### Footnotes
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
-[^2]: Ostrander, Sheila, and Lynn Schroeder. *Psychic Discoveries Behind the Iron Curtain*. Prentice-Hall, 1970, pp. 6-8 and 32-33. Sole source for the passages so cited.
+[^2]: Ostrander, Sheila, and Lynn Schroeder. *Psychic Discoveries Behind the Iron Curtain*. Prentice-Hall, 1970, pp. 6-8 and 32-33.

@@ -187,4 +187,4 @@ Singlaub's memoir, Hazardous Duty, written with Malcolm McConnell, appeared in 1
 [^24]: Christopher Byron, "Did Convict Arif Durrani Help Set the Stage for Iran/Contra?," *New York*, December 16, 1991, p. 42. https://books.google.com/books?id=6ugCAAAAMBAJ&pg=PA42
 [^25]: Final Report of the Independent Counsel for Iran/Contra Matters, vol. I, ch. 16 (Robert M. Gates): Gates, SSCI testimony, October 8, 1986, p. 9; Gates, grand jury, May 1, 1991. https://irp.fas.org/offdocs/walsh/chap_16.htm
 [^26]: Government's Objection to Arif Durrani's Second Request for Production of Documents, *United States v. Durrani*, D. Conn., B-90-090 (TFGD) and B-86-59 (TFGD), September 9, 1991, p. 7. CIA CREST document 0001474388. https://www.cia.gov/readingroom/document/0001474388
-[^27]: Ari Ben-Menashe, Profits of War: Inside the Secret U.S.-Israeli Arms Network (Sheridan Square, 1992). Sole source for the itemization; the figures are as reported on the Ora Group page of this vault.
+[^27]: Ari Ben-Menashe, Profits of War: Inside the Secret U.S.-Israeli Arms Network (Sheridan Square, 1992). The figures are as reported on the Ora Group page of this vault.

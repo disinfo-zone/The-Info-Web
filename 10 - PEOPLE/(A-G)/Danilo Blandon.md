@@ -160,30 +160,30 @@ Webb wrote that Blandón's electronics, procured by Lister, included walkie-talk
 [^1]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions* (December 1997, released July 1998), Chapter II (Oscar Danilo Blandon), sections A-D, https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p1.htm
 [^2]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IV, section B (OIG investigation regarding support of the Contras by Blandon and Meneses), https://oig.justice.gov/sites/default/files/archive/special/9712/ch04p2.htm
 [^3]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation: Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States (96-0143-IG)*, Volume I: The California Story, January 29, 1998, Findings (Ross, Blandon, Meneses), https://irp.fas.org/cia/product/cocaine/findings1.html
-[^4]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty." Sole source for the passages so cited.
-[^5]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 2: "We were the first." Sole source for the passages so cited.
+[^4]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty."
+[^5]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 2: "We were the first."
 [^6]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IV, section A (sources of the allegations), https://oig.justice.gov/sites/default/files/archive/special/9712/ch04p1.htm
-[^7]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 26: "That matter, if true, would be classified." Sole source for the passages so cited.
+[^7]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 26: "That matter, if true, would be classified."
 [^8]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, section E (Los Angeles Sheriff's Department investigation of Blandon), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p2.htm
-[^9]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it." Sole source for the passages so cited.
+[^9]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it."
 [^10]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III (Norwin Meneses), sections A-E, https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p1.htm
 [^11]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, section K (the 1992 San Diego prosecution of Blandon), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p6.htm
-[^12]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 8: "A million hits is not enough." Sole source for the passages so cited.
+[^12]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 8: "A million hits is not enough."
 [^13]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter VI, section C (the roles of Ross and Blandon in the spread of crack), https://oig.justice.gov/sites/default/files/archive/special/9712/ch06p2.htm
-[^14]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 14: "It's bigger than I can handle." Sole source for the passages so cited.
-[^15]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 18: "We bust our ass and the government's involved." Sole source for the passages so cited.
+[^14]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 14: "It's bigger than I can handle."
+[^15]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 18: "We bust our ass and the government's involved."
 [^16]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, section F (initiation of the federal OCDETF case), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p3.htm
 [^17]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, section G (the 1987 Los Angeles OCDETF investigation), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p4.htm
-[^18]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter." Sole source for the passages so cited.
+[^18]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter."
 [^19]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, sections H-J (closure, transfer and assessment of the OCDETF case), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p5.htm
-[^20]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 21: "I could go anywhere in the world and sell dope." Sole source for the passages so cited.
+[^20]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 21: "I could go anywhere in the world and sell dope."
 [^21]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, sections L-N (Blandon's green card, the green cards of his wife and daughter, DEA payments), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p7.htm
 [^22]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III, sections F-G ("David Morrison," alleged DEA corruption, DEA use of Meneses as an informant), https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p2.htm
 [^23]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III, sections H-I (the 1989 indictment and post-indictment activities), https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p3.htm
-[^24]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 23: "He had the backing of a superpower." Sole source for the passages so cited.
+[^24]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 23: "He had the backing of a superpower."
 [^25]: *United States v. Ross*, 372 F.3d 1097 (9th Cir. June 21, 2004), No. 02-50226, https://cdn.ca9.uscourts.gov/datastore/opinions/2004/06/21/0250226.pdf
-[^26]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 12: "This guy talks to God." Sole source for the passages so cited.
-[^27]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 24: "They're gonna forget I was a drug dealer." Sole source for the passages so cited.
-[^28]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 25: "Things are moving all around us." Sole source for the passages so cited.
-[^29]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters. Sole source for the passages so cited.
+[^26]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 12: "This guy talks to God."
+[^27]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 24: "They're gonna forget I was a drug dealer."
+[^28]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 25: "Things are moving all around us."
+[^29]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters.
 [^30]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter VII (Enrique Miranda-Jaime), https://oig.justice.gov/sites/default/files/archive/special/9712/ch07.htm

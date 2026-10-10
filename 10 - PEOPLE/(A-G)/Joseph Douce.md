@@ -29,5 +29,5 @@ The writer S. Dovey described the CCL as a support group for pedophiles in the 1
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It describes Doucé as a Belgian priest arrested and convicted in the 1990s of possessing and distributing child pornography; he was a Protestant pastor, and he was abducted and killed in 1990 without having been tried. Sole source for the passages so cited.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It describes Doucé as a Belgian priest arrested and convicted in the 1990s of possessing and distributing child pornography; he was a Protestant pastor, and he was abducted and killed in 1990 without having been tried.
 [^2]: "L'affaire Doucé: un pasteur défenseur des homosexuels éliminé." *Le Monde,* August 10, 2006; translated from the French. https://www.lemonde.fr/ete-2007/article/2006/08/10/l-affaire-douce-un-pasteur-defenseur-des-homosexuels-elimine_802544_781732.html

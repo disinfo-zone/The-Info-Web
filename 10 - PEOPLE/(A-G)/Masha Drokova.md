@@ -37,7 +37,7 @@ relations:
     fn: 10
   - type: subject_of
     with: "[[Federal Bureau of Investigation]]"
-    role: "named in an FD-1023 confidential human source report of October 19, 2020 (sole source)"
+    role: "named in an FD-1023 confidential human source report of October 19, 2020"
     start: 2020-10-19
     fn: 20
 created: 2026-10-03

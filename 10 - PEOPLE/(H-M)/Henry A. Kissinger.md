@@ -5,7 +5,7 @@ aliases:
   - Henry Kissinger
   - Kissinger
 created: 2026-05-14
-updated: 2026-09-22
+updated: 2026-10-09
 category: "Intelligence & Government"
 tags:
   - KeyFigure
@@ -17,7 +17,7 @@ tags:
   - ColdWar
   - 1960s
   - 1970s
-summary: "Henry A. Kissinger served as National Security Advisor (1969-1975) and Secretary of State (1973-1977) under Nixon and Ford, and endorsed Israel's covert nuclear weapons program at Dimona while privately advocating that Japan and Israel were better served by having the bomb than submitting to the Nuclear Non-Proliferation Treaty."
+summary: "National Security Advisor and Secretary of State under Nixon and Ford who endorsed Israel's nuclear program at Dimona and privately argued that Japan and Israel were better served by the bomb than the Non-Proliferation Treaty."
 born: 1923-05-27
 died: 2023-11-29
 location: "Fürth, Germany"
@@ -27,6 +27,18 @@ relations:
     role: "director, Special Studies Project"
     end: 1958-06-30
     fn: ssp
+  - type: participant_in
+    with: "[[Quantico Vulnerabilities Panel]]"
+    role: "attended some sessions, Quantico I"
+    start: 1955-06-05
+    end: 1955-06-10
+    fn: qp3
+  - type: participant_in
+    with: "[[Quantico Vulnerabilities Panel]]"
+    role: "panel member, Quantico II"
+    start: 1955-08
+    end: 1955-11
+    fn: qp1
 ---
 
 Henry A. Kissinger was an American diplomat and political scientist who served as the [[United States Secretary of State]] and National Security Advisor under Presidents [[Richard Nixon]] and [[Gerald R. Ford]]. In the fall of 1967, while a [[Harvard University]] professor and consultant on [[Vietnam]] to the [[Lyndon B. Johnson|Johnson]] administration, Kissinger visited [[Tel Aviv]] to teach for a week at the Israeli Defense College. At the end of his course, he went to [[William N. Dale]]'s office in the embassy and sent an urgent, top-secret message to the [[White House]], warning about [[Dimona]] and concluding that [[Israel]] was making nuclear warheads.[^1]
@@ -47,9 +59,13 @@ Kissinger's academic career at Harvard ran from 1951 to 1971, with a leave of ab
 
 The Harvard International Seminar received funding from at least three [[CIA]] cutouts, including [[The Asia Foundation]], [[The Fairfield Foundation]], and [[American Friends of the Middle East]], the last of which channeled approximately $243,000 to the program. After CIA funding was publicly exposed in 1967, the [[Ford Foundation]] assumed financial support for the program.[^seminar]
 
+### Quantico Panels, 1955
+
+Kissinger attended some sessions of the first [[Quantico Vulnerabilities Panel]] at the Marine Corps Schools in June 1955, as did members of the State and Defense departments and the Central Intelligence Agency.[^qp3] On August 16, 1955, [[Nelson Rockefeller]] invited him, then a Harvard academic, to a second panel on the psychological aspects of future United States strategy, which is called Quantico II in the record.[^qp1] The panel's twelve members met in Washington in late August and at Quantico in September, with [[Frederick L. Anderson]] designated chairman.[^qp1] Kissinger took the place of [[Hans Speier]], who had planned a trip to Germany for the [[Rand Corporation]]. [[Daniel Bessner]] describes the meeting as crucial to Kissinger's career, and states that Rockefeller became his political patron after it.[^qp4] The [[Rockefeller Archive Center]] describes its folder of Kissinger's Spring 1980 interview in the Nelson A. Rockefeller personal papers as stating that Kissinger "met Nelson Rockefeller while serving on the staff of the Quantico II conference in the mid-1950s"; Bessner, citing Isaacson, places the two men's first meeting at the first panel.[^qp5][^qp4] Kissinger's paper "Psychological and Pressure Aspects of Negotiations with the USSR" appears in the November 1955 source book, which the panel submitted on November 29, 1955.[^qp1][^qp2]
+
 ### Rockefeller Brothers Fund Special Studies Project
 
-Kissinger served as director of the [[Rockefeller Brothers Fund]] Special Studies Project, a policy planning initiative convened by [[Nelson Rockefeller]] that ran from 1956 to 1960, with the final publication appearing in 1961. The project produced a volume entitled *Prospect for America: The Rockefeller Panel Reports* (Doubleday, 1961), which sold over 400,000 copies.
+Kissinger served as director of the [[Rockefeller Brothers Fund]] Special Studies Project, a policy planning initiative convened by Nelson Rockefeller that ran from 1956 to 1960, with the final publication appearing in 1961. The project produced a volume entitled *Prospect for America: The Rockefeller Panel Reports* (Doubleday, 1961), which sold over 400,000 copies.
 
 The project was organized into seven panels examining sweeping strategic and domestic issues. [[Dean Rusk]] chaired Panel I (International Objectives and Strategies). Kissinger, director of the whole project until his resignation on June 30, 1958, directed the report of Panel II (International Security: The Military Aspect), whose members included [[Roswell Gilpatric]], [[Townsend Hoopes]], [[Edward Teller]], [[Henry Luce]], and [[Laurance Rockefeller]]. Panel III (International Economic and Social Objectives) was chaired by [[Milton Katz]]. Panel IV (U.S. Economic and Social Policy) was chaired by [[Thomas B. McCabe]]. Panel V (U.S. Utilization of Human Resources) was chaired by [[John W. Gardner]]. Panel VI (U.S. Democratic Process) was chaired by [[James A. Perkins]]. Panel VII (The Moral Framework of National Purpose), chaired by [[Richard McKeon]], produced a report by [[Robert Heilbroner]] that was not published.[^ssp]
 
@@ -132,3 +148,8 @@ Beginning in January 1969, Kissinger had his telephone conversations transcribed
 [^c2]: Colby and Dennett, Ch. 29.
 [^c3]: Colby and Dennett, Ch. 24.
 [^friele]: Colby and Dennett, Ch. 29; Rockefeller Archive Center, Berent Friele Papers (FA468).
+[^qp1]: *Foreign Relations of the United States, 1955-1957, Volume XIX, National Security Policy*, document 42, editorial note on the Quantico II Panel, pp. 153-154, https://history.state.gov/historicaldocuments/frus1955-57v19/d42. Lists "Dr. Henry A. Kissinger of Harvard University" among the twelve invited on August 16, 1955.
+[^qp2]: "Psychological Aspects of United States Strategy: Source Book of Individual Papers," November 1955, CIA reading room copy, CIA-RDP86B00269R000300120001-4, https://archive.org/details/cia-readingroom-document-cia-rdp86b00269r000300120001-4. Contents, paper 16, "Psychological and Pressure Aspects of Negotiations with the USSR," by Henry A. Kissinger.
+[^qp3]: Daniel Morris Bessner, "The Night Watchman: Hans Speier and the Making of the American National Security State" (PhD dissertation, Duke University, 2013), p. 261 and note 129, citing Gordon H. Chang, *Friends and Enemies: The United States, China, and the Soviet Union, 1948-1972* (Stanford University Press, 1990), p. 151. Bessner's note 129 is on his list of the eleven members: it states that Henry Kissinger attended some sessions, as did members of the State and Defense Departments, the CIA, the Operations Coordinating Board and the NSC.
+[^qp4]: Bessner, "The Night Watchman," pp. 264-265 and note 146, citing Walter Isaacson, *Kissinger: A Biography* (Simon & Schuster, 2005), pp. 90-91, on the two men's earlier contact at the first panel.
+[^qp5]: Rockefeller Archive Center, Nelson A. Rockefeller personal papers, Hugh Morrow Interviews, Series Q, Subseries 2, "Henry Kissinger Interview," Spring 1980, scope note, https://dimes.rockarch.org/collections/H45i6yf7MUHuaRwQVupvg5.

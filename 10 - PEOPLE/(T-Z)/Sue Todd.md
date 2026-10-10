@@ -20,4 +20,4 @@ Sue Todd was a police detective in Hercules, [[California]]. According to [[Cher
 
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source; no record of Todd or of the Hercules homicide case was found in the congressional or Justice Department reports or in the *Toronto Star*'s coverage of 2000.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.

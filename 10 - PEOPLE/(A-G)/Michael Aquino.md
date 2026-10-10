@@ -38,5 +38,5 @@ A.B.H. Alexander, writing in *PROBE* around 1996, alleged that Aquino took part 
 
 [^1]: Los Angeles Times, August 11, 1987.
 [^2]: Aquino vitae and published works at rachane.org.
-[^3]: Ted Gunderson and Michael Riconosciuto interview notes, file "Folder 7 Acc5516" (archive.org casolaro-notebooks item, file "Folder 7 Acc5516.pdf", text layer). Undated passage. Sole source for the passages so cited. https://archive.org/details/casolaro-notebooks
+[^3]: Ted Gunderson and Michael Riconosciuto interview notes, file "Folder 7 Acc5516" (archive.org casolaro-notebooks item, file "Folder 7 Acc5516.pdf", text layer). Undated passage. https://archive.org/details/casolaro-notebooks
 [^4]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996; Kenn Thomas and Len Bracken, "The Finders' Keeper," Steamshovel Press #16, 1998.

@@ -36,4 +36,4 @@ The Witness Security Program, which the [[United States Marshals Service|U.S. Ma
 [^1]: U.S. Marshals Service, "Witness Security," archived September 22, 2026. http://web.archive.org/web/20260922082044/https://www.usmarshals.gov/what-we-do/witness-security
 [^2]: Kornbluh, Peter, ed. "The Pinochet Dictatorship Declassified: Confessions of a DINA Hit Man," National Security Archive, November 22, 2023. https://nsarchive.gwu.edu/briefing-book/chile/2023-11-22/pinochet-dictatorship-declassified-confessions-dina-hit-man
 [^3]: Kornbluh, Peter, ed. "The Pinochet Regime at 50: The Assassination of General Carlos Prats and Sofía Cuthbert," National Security Archive, October 1, 2024. https://nsarchive.gwu.edu/briefing-book/chile/2024-10-01/pinochet-regime-50-assassination-general-carlos-prats-and-sofia
-[^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages so cited.
+[^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.

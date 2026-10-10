@@ -28,5 +28,5 @@ The writer S. Dovey wrote that Woodall ran an escort service that began with adu
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It spells the assistant scoutmaster "Harry O'Cramer"; the hearing record and Louisiana Supreme Court captions give Harry O. Cramer. Robert Lang does not appear in the 1977 hearing record. Sole source for the passages so cited.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. It spells the assistant scoutmaster "Harry O'Cramer"; the hearing record and Louisiana Supreme Court captions give Harry O. Cramer. Robert Lang does not appear in the 1977 hearing record.
 [^2]: Wright, Marilyn. *Traverse City Record-Eagle,* 1976-1977, and *Chicago Tribune,* May 1977, both reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 439-443; the Tribune piece also in U.S. Senate, Committee on the Judiciary, Subcommittee to Investigate Juvenile Delinquency. *Protection of Children Against Sexual Exploitation,* hearings, 1977. https://archive.org/details/micro_IA41153502_0041

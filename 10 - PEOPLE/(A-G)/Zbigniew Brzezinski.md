@@ -16,7 +16,7 @@ relations:
     role: "national security adviser during the White House response to the Vela event"
     start: 1979-09-22
     end: 1980-12-01
-    fn: 4
+    fn: 3
 ---
 
 [[Zbigniew Brzezinski]] was the [[United States|U.S.]] National Security Adviser during the [[Jimmy Carter|Carter]] administration, playing a key role in foreign policy decisions during a period of significant Middle Eastern upheaval.

@@ -135,9 +135,9 @@ An unsigned intelligence commentary in the CIA reading room, written while the L
 
 [^2]: Central Intelligence Agency, "CIA Historical Staff Chronology 1946-65, Volume II, 1956-65," CIA-RDP85B00803R000200050003-5, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp85b00803r000200050003-5. Entries cited: February 14, 1956 (Congress convenes, Khrushchev denounces Stalin); March 27, 1958 (Khrushchev succeeds Bulganin as Soviet premier); October 1956 (Poland, Budapest, Nagy replaced November 4); August 12-18, 1961 (Berlin wall); September 15-27, 1959 (visit to the United States); May 1960 (U-2 shot down, Paris conference); May 7 and May 16, 1963 (Penkovsky and Wynne trial, Penkovsky executed); October 15-16, 1964 (removal, Pravda denunciation).
 
-[^3]: Yossi Melman and Dan Raviv, "The Leak of the Century," The Washington Post, March 27, 1994 (adapted from their *Friends in Deed: Inside the U.S.-Israel Alliance*, Hyperion, 1994), https://www.washingtonpost.com/archive/opinions/1994/03/27/the-leak-of-the-century/2c3a48ca-5212-442b-a3a8-52e7703d4b26/. Sole source for the Grayevski, photographer, Manor, Ben-Gurion, courier, Dulles and publication details and for the $1 million appropriation, as reported by the cited authors, who credit Grayevski's and Manor's own confirmation.
+[^3]: Yossi Melman and Dan Raviv, "The Leak of the Century," The Washington Post, March 27, 1994 (adapted from their *Friends in Deed: Inside the U.S.-Israel Alliance*, Hyperion, 1994), https://www.washingtonpost.com/archive/opinions/1994/03/27/the-leak-of-the-century/2c3a48ca-5212-442b-a3a8-52e7703d4b26/. The cited authors credit Grayevski's and Manor's own confirmation.
 
-[^4]: Middle East Quarterly, article on Israeli intelligence and the great powers in the Cold War, https://www.meforum.org/middle-east-quarterly/israel-and-the-great-powers-cold-war-role, citing Yossi Melman, "Trade Secrets," Haaretz, March 9, 2006. Sole source for the Barmor, Harel, Dorot, Angleton, mid-April and early June details, as summarized by the Middle East Quarterly.
+[^4]: Middle East Quarterly, article on Israeli intelligence and the great powers in the Cold War, https://www.meforum.org/middle-east-quarterly/israel-and-the-great-powers-cold-war-role, citing Yossi Melman, "Trade Secrets," Haaretz, March 9, 2006.
 
 [^5]: Matitiahu Mayzel, "Israeli Intelligence and the Leakage of Khrushchev's 'Secret Speech,'" Journal of Israeli History, vol. 32, no. 2 (2013), pp. 257-283, https://doi.org/10.1080/13531042.2013.822730 (abstract at https://cris.tau.ac.il/en/publications/israeli-intelligence-and-the-leakage-of-khrushchevs-secret-speech/).
 
@@ -155,9 +155,9 @@ An unsigned intelligence commentary in the CIA reading room, written while the L
 
 [^12]: Memorandum of Conversation, Vienna, June 4, 1961, 3:15 p.m., Foreign Relations of the United States, 1961-1963, Volume XIV, Berlin Crisis 1961-1962, Document 33, https://history.state.gov/historicaldocuments/frus1961-63v14/d33; Memorandum of Conversation, Washington, November 21, 1961, Kennedy and Adenauer, Document 219, https://history.state.gov/historicaldocuments/frus1961-63v14/d219 (the 3 million figure is Adenauer's statement).
 
-[^13]: Pat Lewis Copeland, "The CIA man," Tulsa Tribune, February 12, 1986, CIA-RDP91-00587R000100020015-5, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp91-00587r000100020015-5. Sole source for the briefings of Eisenhower and Kennedy, which the profile states in its own voice.
+[^13]: Pat Lewis Copeland, "The CIA man," Tulsa Tribune, February 12, 1986, CIA-RDP91-00587R000100020015-5, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp91-00587r000100020015-5. The profile states the briefings of Eisenhower and Kennedy in its own voice.
 
-[^14]: John Marks, *The Search for the "Manchurian Candidate": The CIA and Mind Control* (New York: Times Books, 1979), page 161 (the Society and foreign leaders including Khrushchev) and page 164 (Gittinger summoned to the White House during the Cuban missile crisis). Sole source for the White House summons.
+[^14]: John Marks, *The Search for the "Manchurian Candidate": The CIA and Mind Control* (New York: Times Books, 1979), page 161 (the Society and foreign leaders including Khrushchev) and page 164 (Gittinger summoned to the White House during the Cuban missile crisis).
 
 [^15]: Letter From Chairman Khrushchev to President Kennedy, Moscow, September 29, 1961, Foreign Relations of the United States, 1961-1963, Volume VI, Kennedy-Khrushchev Exchanges, Document 21, https://history.state.gov/historicaldocuments/frus1961-63v06/d21. The editorial note cites Salinger, *With Kennedy*, page 198, and states that a Russian text dated September 28 was also given to Salinger on September 30.
 
@@ -167,7 +167,7 @@ An unsigned intelligence commentary in the CIA reading room, written while the L
 
 [^18]: "Summary Record of the Seventh Meeting of the Executive Committee of the National Security Council, October 27, 1962," Foreign Relations of the United States, 1961-1963, Volume XI, Cuban Missile Crisis and Aftermath, Document 90, https://history.state.gov/historicaldocuments/frus1961-63v11/d90.
 
-[^19]: Memorandum from ABC Correspondent John Scali to the Director of the Bureau of Intelligence and Research (Hilsman), undated, Foreign Relations of the United States, 1961-1963, Volume XI, Document 80, https://history.state.gov/historicaldocuments/frus1961-63v11/d80. Sole source for Fomin's settlement proposal and his claim about the Cuban delegate, as reported by Scali.
+[^19]: Memorandum from ABC Correspondent John Scali to the Director of the Bureau of Intelligence and Research (Hilsman), undated, Foreign Relations of the United States, 1961-1963, Volume XI, Document 80, https://history.state.gov/historicaldocuments/frus1961-63v11/d80.
 
 [^20]: Editorial Note, Foreign Relations of the United States, 1961-1963, Volume XI, Document 85, citing a four-page paper in the Sorensen papers, Classified Subject Files, Cuba, John F. Kennedy Presidential Library, https://history.state.gov/historicaldocuments/frus1961-63v11/d85. Records Scali's statement to Fomin at 7:45 p.m. on October 26, 1962.
 
@@ -177,20 +177,20 @@ An unsigned intelligence commentary in the CIA reading room, written while the L
 
 [^23]: Central Intelligence Agency, "Meeting No. 15, London, England, 4 May 1961, with Penkovsky," CIA Reading Room, document 0000012403, https://archive.org/details/cia-readingroom-document-0000012403.
 
-[^24]: Milt Freudenheim, "Ouster of K Linked to Discovery of Spy," Chicago Daily News Service, New York dateline, November 13, 1965, CIA-RDP75-00149R000600250041-7, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp75-00149r000600250041-7. The connection drawn is Greville Wynne's. Sole source for the link between the ouster and the Penkovsky case.
+[^24]: Milt Freudenheim, "Ouster of K Linked to Discovery of Spy," Chicago Daily News Service, New York dateline, November 13, 1965, CIA-RDP75-00149R000600250041-7, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp75-00149r000600250041-7. The connection drawn is Greville Wynne's.
 
 [^25]: Central Intelligence Agency, "Current Intelligence Weekly Summary," January 21, 1960, CIA-RDP79-00927A002600020001-2, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp79-00927a002600020001-2. The item "Khrushchev's Latest Statement on Soviet Missile Capabilities" describes the speech at the opening of the USSR Supreme Soviet on January 14.
 
-[^26]: Thomas E. Bearden, "STAR WARS Now! The Bohm-Aharonov Effect, Scalar Interferometry, and Soviet Weaponization," April 24, 1984, CIA-RDP96-00788R001900680014-4, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900680014-4. Sole source for the scalar weapons passage. The notes cite Max Frankel, "Khrushchev Says Soviet Will Cut Forces a Third; Sees 'Fantastic' Weapon," The New York Times, January 15, 1966.
+[^26]: Thomas E. Bearden, "STAR WARS Now! The Bohm-Aharonov Effect, Scalar Interferometry, and Soviet Weaponization," April 24, 1984, CIA-RDP96-00788R001900680014-4, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp96-00788r001900680014-4. The notes cite Max Frankel, "Khrushchev Says Soviet Will Cut Forces a Third; Sees 'Fantastic' Weapon," The New York Times, January 15, 1966.
 
-[^27]: Sheila Ostrander and Lynn Schroeder, *Psychic Discoveries Behind the Iron Curtain* (Englewood Cliffs, N.J.: Prentice-Hall, 1970), page 53. Sole source for Lazurkina's statement as the authors relate it.
+[^27]: Sheila Ostrander and Lynn Schroeder, *Psychic Discoveries Behind the Iron Curtain* (Englewood Cliffs, N.J.: Prentice-Hall, 1970), page 53.
 
-[^28]: Ostrander and Schroeder, *Psychic Discoveries Behind the Iron Curtain*, page 91. The authors introduce the remark with "Supposedly." Sole source for the attribution to Khrushchev, as told to the authors by the two Czech scientists.
+[^28]: Ostrander and Schroeder, *Psychic Discoveries Behind the Iron Curtain*, page 91. The authors introduce the remark with "Supposedly."
 
 [^29]: Jerrold L. Schecter, "Khrushchev's Secret Tapes," Time, October 1, 1990, https://content.time.com/time/subscriber/article/0,33009,971265-1,00.html. The excerpt is translated by Schecter and describes the reminiscences as dictated at Dalneye.
 
-[^30]: Unsigned intelligence commentary, "Did KGB Help to Sell K's Memoirs," undated, written while the Life installments were appearing, CIA-RDP88-01314R000300180019-4, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp88-01314r000300180019-4. Sole source for the characterization of the material's route to Life and for Khrushchev's denial.
+[^30]: Unsigned intelligence commentary, "Did KGB Help to Sell K's Memoirs," undated, written while the Life installments were appearing, CIA-RDP88-01314R000300180019-4, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp88-01314r000300180019-4.
 
 [^31]: Terence Smith, "U.S. Experts on Soviet Find Khrushchev Memoirs," Washington dispatch dated January 20, 1971, CIA-RDP88-01314R000300180017-6, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp88-01314r000300180017-6. The clipping gives the Little, Brown publication date as December 21, 1970.
 
-[^32]: Stewart Alsop, "Who Is Moscow's Mr. X?," column, CIA-RDP88-01314R000300180018-5, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp88-01314r000300180018-5. The column is dated by its references to the removal of Gomulka "last week," Adzhubei's interview "in late November," and a party congress "next March." Sole source for Louis's KGB affiliation, the Time-Life price and the Swiss bank provision as stated by Alsop, and for Alsop's inference about Shelepin. The column names Rada and her husband Aleksei Adzhubei as having recorded the reminiscences.
+[^32]: Stewart Alsop, "Who Is Moscow's Mr. X?," column, CIA-RDP88-01314R000300180018-5, CIA Reading Room, https://www.cia.gov/readingroom/document/cia-rdp88-01314r000300180018-5. The column is dated by its references to the removal of Gomulka "last week," Adzhubei's interview "in late November," and a party congress "next March." The column names Rada and her husband Aleksei Adzhubei as having recorded the reminiscences.

@@ -177,7 +177,7 @@ On June 25, 1981 a Tel Aviv cable reported that the head of Mossad, who is never
 
 [^1]: U.S. Department of State, Secretary of State to Speaker Thomas P. O'Neill, letter on the Israeli attack and the Arms Export Control Act, 1981. FOIA case F-1982-00753, document C09000101. https://archive.org/details/F-1982-00753
 
-[^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, p. 8 (chapter 1, "A Secret Agreement"). Sole source for the passages so cited.
+[^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, p. 8 (chapter 1, "A Secret Agreement").
 
 [^3]: U.S. Department of State, Tel Aviv embassy cable 9271, June 11, 1981, "MFA Briefing Paper on Israeli 'Raid' on Iraqi Nuclear Reactor," text of the Foreign Ministry briefing paper of June 9. FOIA case F-1982-00753, document C09000187. https://archive.org/details/F-1982-00753
 
@@ -185,23 +185,23 @@ On June 25, 1981 a Tel Aviv cable reported that the head of Mossad, who is never
 
 [^5]: Central Intelligence Agency, Directorate of Intelligence, *The Iraqi Nuclear Program: Progress Despite Setbacks*, intelligence assessment SW 83-10040CX, June 1983 (information as of May 1, 1983). CIA Reading Room document 0000875771. https://archive.org/details/cia-readingroom-document-0000875771
 
-[^6]: Hersh, *The Samson Option*, p. 64, note. Sole source for the passage so cited.
+[^6]: Hersh, *The Samson Option*, p. 64, note.
 
 [^7]: Joint Publications Research Service, Near East/North Africa Report, JPRS L/8560, July 6, 1979 (FOUO 28/79), reprinting a 1979 article copyright IC Magazines Ltd. CIA CREST document cia-rdp82-00850r000100070005-8. https://archive.org/details/cia-readingroom-document-cia-rdp82-00850r000100070005-8
 
-[^8]: "Seeking to thwart Iraq's nuclear programme, Israel bombed French warehouse, book claims," Middle East Monitor, June 14, 2021, summarizing a Ha'aretz article based on Michael (Micky) Ron, *The Quiet Sabra* (Hebrew memoir). Sole source for the passages so cited; the Mossad attribution is Ron's. https://www.middleeastmonitor.com/20210614-seeking-to-thwart-iraqs-nuclear-programme-israel-bombed-french-warehouse-book-claims/
+[^8]: "Seeking to thwart Iraq's nuclear programme, Israel bombed French warehouse, book claims," Middle East Monitor, June 14, 2021, summarizing a Ha'aretz article based on Michael (Micky) Ron, *The Quiet Sabra* (Hebrew memoir). The Mossad attribution is Ron's. https://www.middleeastmonitor.com/20210614-seeking-to-thwart-iraqs-nuclear-programme-israel-bombed-french-warehouse-book-claims/
 
 [^9]: L'Express (Paris), October 18, 1980, p. 125, "Damage to Osirak Dome Reported," reprinted in Joint Publications Research Service, Worldwide Report: Nuclear Development and Proliferation, JPRS L/9433, December 9, 1980, pp. 33-34. CIA CREST document cia-rdp82-00850r000300060014-7. https://archive.org/details/cia-readingroom-document-cia-rdp82-00850r000300060014-7
 
 [^10]: Mark Schone, "Israel's Greatest Hits: Before Dubai, a History of Targeted Killing," ABC News, February 2010. https://abcnews.com/Blotter/israels-greatest-hits-dubai-history-targeted-killing-now/story?id=9856671
 
-[^11]: Ronen Bergman, "Killing the Killers," Newsweek, December 13, 2010. Sole source for the passages so cited. https://www.newsweek.com/killing-killers-69081
+[^11]: Ronen Bergman, "Killing the Killers," Newsweek, December 13, 2010. https://www.newsweek.com/killing-killers-69081
 
-[^12]: Carol Berger, "Iraqi Files Seized By UN Inspectors Seen As Possible 'Hit Lists'," The Christian Science Monitor, October 10, 1991. Sole source for the Ostrovsky claim. https://csmonitor.com/1991/1010/10032.html
+[^12]: Carol Berger, "Iraqi Files Seized By UN Inspectors Seen As Possible 'Hit Lists'," The Christian Science Monitor, October 10, 1991. https://csmonitor.com/1991/1010/10032.html
 
 [^13]: Statement of Senator Alan Cranston before the Senate Foreign Relations Committee, June 18, 1981, as transmitted in State Department cable STATE 160720 to the Vienna embassy. FOIA case F-1982-00753, document C09000073. https://archive.org/details/F-1982-00753
 
-[^14]: Cooper, Tom, and Farzad Bishop. "Target: Saddam's Reactor: Israeli and Iranian Operations Against Iraqi Plans to Develop Nuclear Weapons." *Air Enthusiast* 110 (March/April 2004). Sole source for the passages so cited.
+[^14]: Cooper, Tom, and Farzad Bishop. "Target: Saddam's Reactor: Israeli and Iranian Operations Against Iraqi Plans to Develop Nuclear Weapons." *Air Enthusiast* 110 (March/April 2004).
 
 [^15]: Central Intelligence Agency, National Intelligence Daily, October 1, 1980 (CO NID 80-231JX), Situation Report, Iraq-Iran, pp. 1-2; released August 2005. https://unredacted.com/wp-content/uploads/2012/03/iran-iraq1.pdf
 
@@ -211,31 +211,31 @@ On June 25, 1981 a Tel Aviv cable reported that the head of Mossad, who is never
 
 [^18]: State Department cable reproducing Iraqi statements on the reactor. FOIA case F-1982-00753, document C09000088. https://archive.org/details/F-1982-00753
 
-[^19]: Hersh, *The Samson Option*, pp. 9-10. Sole source for the passages so cited.
+[^19]: Hersh, *The Samson Option*, pp. 9-10.
 
 [^20]: "40 years after Iraq reactor raid, IDF reveals Ilan Ramon's fears, intel sketches," The Times of Israel, June 22, 2021, reporting an IDF Archive and Defense Ministry release. https://www.timesofisrael.com/40-years-after-iraq-reactor-raid-idf-reveals-ilan-ramons-fears-intel-sketches/
 
 [^21]: "Remembering Ilan Ramon, Astronaut and Hero," Mosaic Magazine, February 2, 2023 (introduction to an interview of Amos Yadlin by Menachem Butler). https://ideas.tikvah.org/mosaic/picks/remembering-ilan-ramon-astronaut-and-hero
 
-[^22]: Hersh, *The Samson Option*, p. 286. Sole source for the passage so cited.
+[^22]: Hersh, *The Samson Option*, p. 286.
 
 [^23]: State Department cable of June 21, 1981 reporting Begin's remarks on U.S. criticism of the raid. FOIA case F-1982-00753, document C09000026. https://archive.org/details/F-1982-00753
 
-[^24]: Hersh, *The Samson Option*, pp. 10-11. Sole source for the passages so cited.
+[^24]: Hersh, *The Samson Option*, pp. 10-11.
 
 [^25]: U.S. Department of State, press briefing transcript of June 12, 1981, "Department Press Briefing June 12, 1981." FOIA case F-1982-00753, document C09000098. https://archive.org/details/F-1982-00753
 
-[^26]: Hersh, *The Samson Option*, p. 10, note. Sole source for the passage so cited.
+[^26]: Hersh, *The Samson Option*, p. 10, note.
 
 [^27]: U.S. Mission to Vienna cable 6873, June 12, 1981, "Israeli Attack on Iraqi Nuclear Reactor: Further Statement by IAEA Director General," with the text of Sigvard Eklund's statement. FOIA case F-1982-00753, document C09000058. https://archive.org/details/F-1982-00753
 
-[^28]: Hersh, *The Samson Option*, p. 12. Sole source for the passages so cited.
+[^28]: Hersh, *The Samson Option*, p. 12.
 
-[^29]: Hersh, *The Samson Option*, p. 16. Sole source for the passages so cited.
+[^29]: Hersh, *The Samson Option*, p. 16.
 
-[^30]: Hersh, *The Samson Option*, pp. 287-288. Sole source for the passage so cited.
+[^30]: Hersh, *The Samson Option*, pp. 287-288.
 
-[^31]: Hersh, *The Samson Option*, p. 9. Sole source for the passages so cited.
+[^31]: Hersh, *The Samson Option*, p. 9.
 
 [^32]: Tel Aviv embassy cable of June 21, 1981, "Begin Blasts Weinberger but Downplays Tension," summarizing a Ha'aretz commentary. FOIA case F-1982-00753, document C09000126. https://archive.org/details/F-1982-00753
 
@@ -253,9 +253,9 @@ On June 25, 1981 a Tel Aviv cable reported that the head of Mossad, who is never
 
 [^39]: Beirut embassy cable, June 11, 1981, "Israeli Raid on Iraq: Claims of U.S. Involvement." FOIA case F-1982-00753, document C09000042. https://archive.org/details/F-1982-00753
 
-[^40]: Hersh, *The Samson Option*, pp. 12-14 and p. 13, note. Sole source for the passages so cited.
+[^40]: Hersh, *The Samson Option*, pp. 12-14 and p. 13, note.
 
-[^41]: Hersh, *The Samson Option*, p. 15. Sole source for the passages so cited.
+[^41]: Hersh, *The Samson Option*, p. 15.
 
 [^42]: National Photographic Interpretation Center, "Increased Defensive Measures, Baghdad Nuclear Research Center, Iraq," attachment to memorandum Z-30587/81, June 27, 1981. CIA CREST document cia-rdp81t00618r000100820001-8. https://archive.org/details/cia-readingroom-document-cia-rdp81t00618r000100820001-8
 

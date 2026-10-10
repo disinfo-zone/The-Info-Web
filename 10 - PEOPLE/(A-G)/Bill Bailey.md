@@ -184,4 +184,4 @@ On December 3, 2023 [[Liberation Times]] published [[Daniel Sheehan]]'s statemen
 [^24]: Business Council of Alabama, 2026 Board of Directors. https://www.bcatoday.org/bca-board-of-directors
 [^25]: 256 Today, "North Alabama business leaders anchor Tuberville's campaign finance committee," February 12, 2026. https://256today.com/north-alabama-business-leaders-anchor-tubervilles-campaign-finance-committee/
 [^26]: KLAS-TV 8 News Now (George Knapp), "Is this company working with alien technology in Nevada?" October 13, 2022. https://www.8newsnow.com/news/local-news/is-this-company-working-with-alien-technology-in-nevada/
-[^27]: Liberation Times, Daniel Sheehan interview, December 3, 2023. Sole source for the Sheehan passages so cited. https://www.liberationtimes.com/home/daniel-sheehan-exposes-five-powerful-republicans-blocking-ufo-disclosure-act-as-the-clock-ticks-down
+[^27]: Liberation Times, Daniel Sheehan interview, December 3, 2023. https://www.liberationtimes.com/home/daniel-sheehan-exposes-five-powerful-republicans-blocking-ufo-disclosure-act-as-the-clock-ticks-down

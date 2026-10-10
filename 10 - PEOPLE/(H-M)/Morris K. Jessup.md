@@ -64,7 +64,7 @@ Barker acquired an original copy in 1971 from a friend of Jessup to whom Jessup 
 
 [^1]: Morris K. Jessup, The Case for the UFO (New York: Citadel Press, 1955), catalog record, Internet Archive item caseforufo0000mkje (metadata: publisher Citadel, date 1955), https://archive.org/details/caseforufo0000mkje.
 [^2]: Gray Barker, preface dated July 1973, in the same volume, pp. 2 to 6. Barker identified a "confidential source" for the ONR routing and did not name it.
-[^3]: Unsigned "Introduction" to the Annotated Edition, in the same volume, pp. 7 to 9; Barker's preface states that the original gives no information on its authorship. Sole source for the passages so cited as to the routing of the book through ONR and the identity of the officers named.
+[^3]: Unsigned "Introduction" to the Annotated Edition, in the same volume, pp. 7 to 9; Barker's preface states that the original gives no information on its authorship.
 [^4]: "Appendix: The first letter received by Mr. Jessup from Carlos Allende," and "Days Later," in M. K. Jessup, The Case for the UFO, Varo Edition, transcribed by the Quantum Future Group, Castelnau-Barbarens, 2003, from the Saucerian Press facsimile of 1973, pp. 15 to 18, https://archive.org/details/THECASEFORTHEUFOVaroEditionM.K.Jessup (djvu text, reread 2026-10-03).
 [^5]: Naval Research Reviews, vol. 9, no. 1 (January 1956), cover caption and "New Chief of Naval Research" and "Admiral Furth Goes Ashore," pp. 22 to 23, Office of Naval Research, https://www.onr.navy.mil/media/document/naval-research-reviews-vol-9-no-1-january-1956 (reopened 2026-10-03).
 [^6]: "Author A Suicide, Police Say," Miami Herald (Miami), April 22, 1959, p. 9, https://www.newspapers.com/image/619508003/

@@ -65,7 +65,7 @@ In July 1993 the [[Securities and Exchange Commission]] charged Brian and three 
 [^1]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^2]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^3]: Report of Special Counsel Nicholas J. Bua to the Attorney General regarding the allegations of INSLAW, Inc. (March 1993), pp. 73-74.
-[^4]: *St. Louis Post-Dispatch*, February 19, 1991, "Stolen Software Scattered: Affidavits Allege Sales To Iraqis And Israelis," clipping in the INSLAW folder of the Casolaro papers, https://archive.org/download/casolaro-notebooks/InslawIi_djvu.txt. Sole source for the contents as reported there.
+[^4]: *St. Louis Post-Dispatch*, February 19, 1991, "Stolen Software Scattered: Affidavits Allege Sales To Iraqis And Israelis," clipping in the INSLAW folder of the Casolaro papers, https://archive.org/download/casolaro-notebooks/InslawIi_djvu.txt.
 [^5]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
 [^6]: U.S. Senate, Permanent Subcommittee on Investigations. *The Inslaw Affair.* September 1989.
 [^7]: U.S. Senate, Committee on Foreign Relations. *The "October Surprise" Allegations and the Circumstances Surrounding the Release of the American Hostages Held in Iran: Report of the Special Counsel to Senator Terry Sanford and Senator James M. Jeffords,* S. Prt. 102-125, November 19, 1992, pp. v, 17 and appendix 22, "Earl Brian Passports," p. 287. https://hdl.handle.net/2027/pst.000021071829

@@ -36,7 +36,7 @@ relations:
     fn: 1
   - type: director_of
     with: "[[First Intercontinental Development Corporation]]"
-    role: "director, senior vice president, chairman of the investment committee (sole source: Seymour)"
+    role: "director, senior vice president, chairman of the investment committee, per Seymour"
     fn: 4
 created: 2024-04-25
 updated: 2026-10-08
@@ -75,11 +75,11 @@ In the spring of 2004 Nichols offered [[Samuel Israel III]], manager of the Bayo
 [^1]: Annis, Stephen Robert, Assets Recovery Agency. Witness statement in support of an application for a restraint order, *In the Matter of Robert Booth Nichols,* Crown Court at Blackfriars, PCA 2007/0003; Financial and Security Consultancy Agreement, July 11, 2004; Answer of Robert B. Nichols and Ellen M. Nichols, June 12, 2008; all filed in *Bayou Management, LLC v. Nichols,* No. 08-cv-06036 (S.D.N.Y.). https://archive.org/details/SamIsraelIII-BayouManagement-RobertBoothNicholsCourtFilings
 [^2]: *Meridian International Logistics, Inc. v. United States,* 939 F.2d 740 (9th Cir. 1991). https://openjurist.org/939/f2d/740
 [^3]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair,* H. Rept. 102-857, September 10, 1992, section on Earl Brian, Michael Riconosciuto, Robert Booth Nichols and the Cabazon Indian Reservation, and memorandum of interview with Nichols, January 21, 1992. https://archive.org/details/InslawAffairInvestigativeReport
-[^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the claims so attributed, many of them from Michael Riconosciuto.
+[^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^5]: Affidavit of Special Agent Thomas G. Gates in support of an application to continue interception of wire communications of Martin Bacow, Eugene Giaquinto, Joseph Garofalo, Robert Nichols and others, before Judge J. Spencer Letts, C.D. Cal. (continuation affidavit citing intercepts through September 1, 1987), Danny Casolaro papers, folder "Gates." https://archive.org/details/casolaro-notebooks (file Gates.pdf), paragraphs 3, 5, 9-13, 46, 79 and 84. Seymour, *The Last Circle,* p. 356, paraphrases the narcotics-funding wording as describing Meridian International Logistics; the affidavit places it under the controlled-substance offenses of Giaquinto and Garofalo.
 [^6]: OpenCorporates, record and filing list for Meridian International Logistics, Inc., Nevada company C417-1961 (retrieved October 8, 2026). https://opencorporates.com/companies/us_nv/C417-1961/filings
 [^7]: OpenCorporates, record for Meridian Arms Corporation, California company 0853005 (retrieved October 8, 2026). https://opencorporates.com/companies/us_ca/0853005
 [^8]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua,* March 1993 (Riconosciuto's credibility), and section "Involvement of Robert Booth Nichols," pp. 157-159 and note 58 (p. 159), citing *Booth Nichols v. City of Los Angeles,* No. NCC 31322B, trial transcript, March 11, 1993. https://archive.org/details/doj-oip-inslaw-1993
-[^9]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010, chapter 22. Sole source for the passages so cited.
+[^9]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010, chapter 22.
 [^10]: Connolly, John. "The Story That Killed Danny Casolaro." *Spy,* January 1993. https://archive.org/details/SpyMagazine
 [^11]: Nichols, Robert Booth. Videotaped deposition, December 16, 2008, *United States v. Samuel Israel III,* 05 Cr. 1039 (S.D.N.Y.), and *Bayou Management, LLC v. Nichols.* https://archive.org/details/robert-booth-nichols ; docket, *Bayou Management, LLC v. Nichols,* 1:08-cv-06036 (S.D.N.Y.), filed July 2, 2008, terminated April 28, 2010, CourtListener.

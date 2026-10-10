@@ -17,7 +17,7 @@ relations:
     fn: 1
 ---
 
-Donald M. Kerr, Jr. served in the [[Jimmy Carter|Carter]] administration as acting director of the defense programs at the [[Department of Energy]], making him responsible for [[America]]'s nuclear bombs. [[Seymour Hersh]], Jeffrey Richelson and [[Leonard Weiss]] identify him as the head of the secret Nuclear Intelligence Panel (NIP) review of the 1979 [[VELA Satellite]] sighting.[^1][^2] The panel met on February 11 to 13, 1980. Its February 14, 1980 memorandum to the director of central intelligence states that the attached summary of panel views "was prepared by the Panel Chairman, Mr. Louis H. Roddis, Jr."[^1] Hersh wrote that Kerr said, "We had no doubt it was a bomb," and that Kerr believed the [[Jack P. Ruina|Ruina]] panel's mandate was driven by politics "to find a different explanation."[^3]
+Donald M. Kerr, Jr. served in the [[Jimmy Carter|Carter]] administration as acting director of the defense programs at the [[Department of Energy]], making him responsible for [[America]]'s nuclear bombs. [[Seymour Hersh]], [[Jeffrey Richelson]] and [[Leonard Weiss]] identify him as the head of the secret Nuclear Intelligence Panel (NIP) review of the 1979 [[VELA Satellite]] sighting.[^1][^2] The panel met on February 11 to 13, 1980. Its February 14, 1980 memorandum to the director of central intelligence states that the attached summary of panel views "was prepared by the Panel Chairman, Mr. Louis H. Roddis, Jr."[^1] Hersh wrote that Kerr said, "We had no doubt it was a bomb," and that Kerr believed the [[Jack P. Ruina|Ruina]] panel's mandate was driven by politics "to find a different explanation."[^3]
 
 ### Sun Streak
 

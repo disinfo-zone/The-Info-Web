@@ -58,10 +58,10 @@ Five 500-pound bombs were taken from a battalion at the San Salvador airport on 
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends"
-[^2]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters. Sole source for the passages so cited.
+[^2]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters.
 [^3]: CIA Inspector General, *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States*, Volume II (October 8, 1998), Marcos Antonio Aguado section of the Southern Front chapter, https://irp.fas.org/cia/product/cocaine2/south.html
 [^4]: "Salvador airport said to be transfer point for arms to contras," *Christian Science Monitor*, October 10, 1986, https://proof.csmonitor.com/1986/1010/omerc.html
 [^5]: U.S. Senate, Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy*, S. Prt. 100-165 (December 1988), pp. 37, 50 to 52, https://archive.org/details/Kerry-Report-Drugs-Contras
 [^6]: CIA Inspector General, *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States*, Volume II (October 8, 1998), Marcos Antonio Aguado section and the pilots chapter (March 23, 1988 cable on Reyner Veliz Cruz), https://irp.fas.org/cia/product/cocaine2/south.html and https://irp.fas.org/cia/product/cocaine2/pilots.html
 [^7]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter X, sections D and E, https://irp.fas.org/agency/doj/oig/c4rpt/ch10p3.htm
-[^8]: "¿Bombas contra Escobar?", *Semana*, April 12, 1992, https://www.semana.com/nacion/articulo/bombas-contra-escobar/17208-3. Sole source for the 1992 bomb-case details; the Cali cartel buyers are Semana's report of the arrested men's confessions and of an unnamed Salvadoran government source.
+[^8]: "¿Bombas contra Escobar?", *Semana*, April 12, 1992, https://www.semana.com/nacion/articulo/bombas-contra-escobar/17208-3. The Cali cartel buyers are Semana's report of the arrested men's confessions and of an unnamed Salvadoran government source.

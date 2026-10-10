@@ -33,6 +33,6 @@ Brittan was among the figures named by Carl Beech ("Nick"), whose false allegati
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
 [^2]: "Carl Beech: Liar, fraudster and paedophile." BBC News, July 26, 2019. https://www.bbc.com/news/uk-49048972
 [^3]: Independent Inquiry into Child Sexual Abuse. *Allegations of Child Sexual Abuse Linked to Westminster,* February 2020, Part D.7, para. 72.3. https://web.archive.org/web/2021/https://www.iicsa.org.uk/reports-recommendations/publications/investigation/westminster/part-d-police-responses-allegations-westminster-child-sexual-abuse/d7-allegations-connected-elm-guest-house.html

@@ -133,7 +133,7 @@ In its September 9, 1991 objection to Arif Durrani's second request for document
 [^1]: Hartford Courant, "Head of Iran Hostage Probe Linked to Arms Deal," May 29, 1992. https://www.courant.com/1992/05/29/head-of-iran-hostage-probe-linked-to-arms-deal/
 [^2]: Deposition of Daniel O. Graham, May 26, 1987 (Senate Select Committee, Hart Senate Office Building; examined by Charles Kerr), Report of the Congressional Committees Investigating the Iran-Contra Affair (H. Rept. 100-433, S. Rept. 100-216), Appendix B, vol. 12 (Internet Archive item micro_IA41152840_0234).
 [^3]: State of Delaware, Division of Corporations, Entity Details, GeoMiliTech Consultants Corp., File Number 2015058, formation date 8/15/1983, registered agent Corporation Guarantee and Trust Company, Rodney Square, 1000 North King Street, Wilmington. https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx
-[^4]: Christopher Byron, "Did Convict Arif Durrani Help Set the Stage for Iran/Contra?," *New York*, December 16, 1991, pp. 42, 44. https://books.google.com/books?id=6ugCAAAAMBAJ&pg=PA42 Sole source for the unnamed former official's statement and the Carbaugh memorandum.
+[^4]: Christopher Byron, "Did Convict Arif Durrani Help Set the Stage for Iran/Contra?," *New York*, December 16, 1991, pp. 42, 44. https://books.google.com/books?id=6ugCAAAAMBAJ&pg=PA42
 [^5]: Mark Phythian, ed., *Under the Counter and Over the Border* (Springer, 2013), p. 65.
 [^6]: "Former Miami Banker Gets Prison Term for Diverting Funds to Contras," *American Banker*, March 31, 1995. https://www.americanbanker.com/news/former-miami-banker-gets-prison-term-for-diverting-funds-to-contras
 [^7]: *Secret Military Assistance to Iran and the Contras* (National Security Archive, 1987), p. 444.
@@ -154,4 +154,4 @@ In its September 9, 1991 objection to Arif Durrani's second request for document
 [^22]: Federal Deposit Insurance Corporation, news release PR-139-87, August 7, 1987. https://fraser.stlouisfed.org/title/press-releases-federal-deposit-insurance-corporation-7031/fdic-transfers-insured-deposits-bayshore-bank-florida-miami-florida-641646
 [^23]: Frank Bovenkerk and Michael Levi, eds., *The Organized Crime Community* (Springer, 2007), p. 22.
 [^24]: Government's Objection to Arif Durrani's Second Request for Production of Documents, *United States v. Durrani*, D. Conn., September 9, 1991, p. 7. CIA CREST 0001474388. https://www.cia.gov/readingroom/document/0001474388
-[^25]: Ari Ben-Menashe, Profits of War: Inside the Secret U.S.-Israeli Arms Network (Sheridan Square, 1992). Sole source for the itemization; the figures are as reported on the Ora Group page of this vault.
+[^25]: Ari Ben-Menashe, Profits of War: Inside the Secret U.S.-Israeli Arms Network (Sheridan Square, 1992). The figures are as reported on the Ora Group page of this vault.

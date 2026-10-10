@@ -141,7 +141,7 @@ DIA's October 30, 2009 memorandum lists 26 technical reports delivered in fiscal
 
 Talking points prepared for the Deputy Secretary of Defense's November 17, 2009 meeting with Senator Reid contain the entry "August 2008: DIA learned of counter-intelligence concerns with Bigelow Aerospace, the parent company of Bigelow Aerospace Advance Space Studies. These concerns do not appear to be directly related to Advanced Aerospace Weapon System Application Program (AAWSAP)." The next entry reads "September 2008: DIA awarded the contract to the sole bidder." The document does not state the nature of the concerns. The talking points are attached to a memorandum signed by [[James Clapper|James R. Clapper Jr.]], [[Under Secretary of Defense]] for Intelligence, recommending against a Special Access Program; it states that the program manager and his leadership "saw no justification for Special Access protections based on the content of the FY09 deliverables or the anticipated FY10 work."[^9]
 
-Sole source for the August 2008 counterintelligence sentence: the November 17, 2009 talking points as released. The redactions leave the nature of the concerns and the component that learned of them unstated.
+The redactions leave the nature of the concerns and the component that learned of them unstated.
 
 ### Appropriation as described in DIA papers
 
@@ -154,9 +154,9 @@ The [[Robert Thomas Bigelow Educational Foundation]] Inc (EIN 93-3962948) and th
 ### Footnotes
 
 [^1]: Lacatski, James T., Kelleher, Colm A., and Knapp, George. *Skinwalkers at the Pentagon: An Insider's Account of the Secret Government UAP Program*. RTMA, 2021. Elizondo, Luis. *IMMINENT: Inside the Pentagon's Hunt for UFOs*. Morrow, 2024.
-[^2]: Keith Basterfield, "More BAASS AAWSAP documents emerge," June 5, 2025. https://ufos-scientificresearch.blogspot.com/2025/06/more-baass-aawsap-documents-emerge.html . Lacatski, James T., Kelleher, Colm A., and Knapp, George. *Skinwalkers at the Pentagon*. RTMA, 2021, Appendix 1 (as described by Basterfield). Sole source for the contents and circulation history of the two files.
-[^3]: Keith Basterfield, "There was a BAASS AAWSAP administrator before Robert Bigelow," June 28, 2025. https://ufos-scientificresearch.blogspot.com/2025/06/there-was-baass-aawsap-administrator.html . Sole source for the passage quoted from the Ten Month Report.
-[^4]: Keith Basterfield, "The BAASS 'Project Campus,'" July 7, 2025, quoting the BAASS Ten Month Report (July 30, 2009). https://ufos-scientificresearch.blogspot.com/2025/07/the-baass-project-campus.html . Sole source for the passages so cited.
+[^2]: Keith Basterfield, "More BAASS AAWSAP documents emerge," June 5, 2025. https://ufos-scientificresearch.blogspot.com/2025/06/more-baass-aawsap-documents-emerge.html . Lacatski, James T., Kelleher, Colm A., and Knapp, George. *Skinwalkers at the Pentagon*. RTMA, 2021, Appendix 1 (as described by Basterfield).
+[^3]: Keith Basterfield, "There was a BAASS AAWSAP administrator before Robert Bigelow," June 28, 2025. https://ufos-scientificresearch.blogspot.com/2025/06/there-was-baass-aawsap-administrator.html .
+[^4]: Keith Basterfield, "The BAASS 'Project Campus,'" July 7, 2025, quoting the BAASS Ten Month Report (July 30, 2009). https://ufos-scientificresearch.blogspot.com/2025/07/the-baass-project-campus.html .
 [^5]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^6]: U.S. Department of Homeland Security, final response letter of June 20, 2023, case 2022-HQFO-00386, to Marc Cecotti, signed Jimmy Wolfrey, Senior Director, FOIA Operations and Management, and one-page enclosure "BAASS Goals 2011/2012," as posted by Marc Cecotti on X, June 20, 2023. https://x.com/MC05A/status/1671217484685246478 ; images https://pbs.twimg.com/media/FzFa762X0AA4b7W.jpg (letter) and https://pbs.twimg.com/media/FzFa76yXwAE4d8N.png (enclosure).
 [^7]: Keith Basterfield, "Was the Department of Homeland Security keen to take on the AAWSAP?," June 22, 2023, https://ufos-scientificresearch.blogspot.com/2023/06/was-department-of-homeland-security.html ; "Lockheed Martin and BAASS," November 30, 2023, https://ufos-scientificresearch.blogspot.com/2023/11/lockheed-martin-and-baass.html .

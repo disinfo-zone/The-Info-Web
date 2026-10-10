@@ -50,7 +50,7 @@ The Colombian president [[Ernesto Samper Pizano]] was accused of accepting 3.7 m
 
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the Centac, Panama, Northside Bank and Samper passages and for Riconosciuto's claim.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^2]: *United States v. Abbell,* 963 F. Supp. 1178 (S.D. Fla. 1997), notes 22 and 24. https://openjurist.org/963/fsupp/1178
 [^3]: *United States v. Abbell,* 271 F.3d 1286 (11th Cir. 2001). https://openjurist.org/271/f3d/1286
 [^4]: U.S. Department of Justice. "Cali Cartel Leaders Plead Guilty to Drug and Money Laundering Conspiracy Charges." Press release 06-646, September 26, 2006, *United States v. Rodriguez-Orejuela,* No. 03-20774-CR-MORENO (S.D. Fla.). https://www.justice.gov/archive/opa/pr/2006/September/06_crm_646.html

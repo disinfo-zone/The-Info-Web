@@ -121,9 +121,9 @@ On September 10, 2001, Secretary of Defense [[Donald Rumsfeld]] gave the kickoff
 [^17]: Department of Defense, "Statement by the Department of Defense on the Release of Historical Navy Videos," April 27, 2020, archived capture of https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/ (Wayback Machine, August 10, 2025)
 [^18]: Greenewald, John, Jr., "Pentagon Reinforces Mr. Luis Elizondo Had 'No Responsibilities' on AATIP; Senator Harry Reid's 2009 Memo Changes Nothing," The Black Vault, June 14, 2019, https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing
 [^19]: Greenewald, John, "The DoD Inspector General Complaint of Luis Elizondo: A Document Archive," The Black Vault, March 18, 2025, https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/
-[^20]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024. Sole source for the passage so cited.
-[^21]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024, pp. 80 to 84. Sole source for the passages so cited.
-[^22]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024. Sole source for the passage so cited.
+[^20]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024.
+[^21]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024, pp. 80 to 84.
+[^22]: Elizondo, Luis. *Imminent: Inside the Pentagon's Hunt for UFOs.* New York: William Morrow, 2024.
 [^23]: Department of the Navy, "Establishment of Unidentified Aerial Phenomena Task Force," press release, August 14, 2020, archived capture of https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/
 [^24]: All-domain Anomaly Resolution Office, "Report on the Historical Record," Volume I, February 2024, p. 13, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF
 [^25]: All-domain Anomaly Resolution Office, "Report on the Historical Record," Volume I, February 2024, p. 15, https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF
@@ -131,7 +131,7 @@ On September 10, 2001, Secretary of Defense [[Donald Rumsfeld]] gave the kickoff
 [^27]: Department of Defense, "DoD Announces the Establishment of the Airborne Object Identification and Management Synchronization Group (AOIMSG)," press release, November 23, 2021. https://www.defense.gov/News/Releases/Release/Article/2853121/dod-announces-the-establishment-of-the-airborne-object-identification-and-manag/
 [^28]: Deputy Secretary of Defense, memorandum, "Establishment of the All-domain Anomaly Resolution Office," July 15, 2022. https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF
 [^29]: 50 U.S.C. 3373, "Establishment of All-domain Anomaly Resolution Office," Legal Information Institute, Cornell Law School, https://www.law.cornell.edu/uscode/text/50/3373
-[^30]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* New York: Seven Stories Press, 1998, Chapter 2. Sole source for the passages so cited.
+[^30]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* New York: Seven Stories Press, 1998, Chapter 2.
 [^31]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation (96-0143-IG)*, Volume II: The Contra Story, October 8, 1998, section on Northern Front Contras, https://irp.fas.org/cia/product/cocaine2/north.html
 [^32]: Boyd, Charles Graham, oral history interview, Association for Diplomatic Studies and Training, https://www.adst.org/OH%20TOCs/Boyd.Charles.Graham.pdf
 [^33]: "This Week in Universal News: The March on the Pentagon, 1967," National Archives, Unwritten Record blog, https://unwritten-record.blogs.archives.gov/?p=4211

@@ -31,4 +31,4 @@ In December 1991 [[Christopher Byron]] reported that an unnamed former top offic
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.
-[^3]: Christopher Byron, "Did Convict Arif Durrani Help Set the Stage for Iran/Contra?," *New York*, December 16, 1991, p. 42. Sole source for the passage on Sharon's alleged aid; the source is an unnamed former GeoMiliTech official quoted by Byron. https://books.google.com/books?id=6ugCAAAAMBAJ&pg=PA42
+[^3]: Christopher Byron, "Did Convict Arif Durrani Help Set the Stage for Iran/Contra?," *New York*, December 16, 1991, p. 42. The source is an unnamed former GeoMiliTech official quoted by Byron. https://books.google.com/books?id=6ugCAAAAMBAJ&pg=PA42

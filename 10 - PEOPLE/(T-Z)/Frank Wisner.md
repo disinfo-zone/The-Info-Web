@@ -1,6 +1,6 @@
 ﻿---
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-10-09
 title: Frank Wisner
 aliases:
   - Frank Gardiner Wisner
@@ -12,7 +12,7 @@ tags:
   - 1940s
   - 1950s
 category: "Intelligence & Government"
-summary: "Frank Wisner was the CIA officer who founded and directed the Office of Policy Coordination - the agency's political warfare arm - from 1948 to 1958, organized the stay-behind networks across Europe (Operation Gladio), and suffered a mental breakdown after the Hungarian Revolution's failure, eventually committing suicide with a shotgun at his Maryland farm on October 29, 1965."
+summary: "Frank Wisner founded and directed the CIA's Office of Policy Coordination from 1948 to 1958, organized the stay-behind networks across Europe, broke down after the Hungarian Revolution and shot himself in 1965."
 born: 1909-06-23
 died: 1965-10-29
 location: "Washington, D.C."
@@ -32,19 +32,21 @@ The OPC was established in 1948 under National Security Council directive NSC 10
 
 Under Wisner the OPC became the dominant organization within the CIA, eventually absorbing the clandestine collection functions and becoming the Directorate of Plans (the clandestine service) under Wisner as Deputy Director for Plans from 1952. The programs he organized included:
 
-[[Operation Gladio|Stay-behind networks]]: The OPC organized "stay-behind" networks in West European countries - primarily Italy, France, West Germany, and smaller NATO members - which were designed to conduct resistance and sabotage operations if the Soviet Union occupied Western Europe. These networks, known in Italy as Gladio, were staffed with former resistance fighters, intelligence personnel, and in some cases former fascists retained for their paramilitary skills and anti-communist reliability.
+Stay-behind networks: The OPC organized "stay-behind" networks in West European countries - primarily Italy, France, West Germany, and smaller NATO members - which were designed to conduct resistance and sabotage operations if the Soviet Union occupied Western Europe. These networks, known in Italy as Gladio, were staffed with former resistance fighters, intelligence personnel, and in some cases former fascists retained for their paramilitary skills and anti-communist reliability.
 
 Anti-Soviet operations in Eastern Europe: The OPC organized programs to support anti-Soviet resistance movements in Poland, Ukraine, Albania, and other countries, parachuting agents and supplies into Soviet-controlled territory. Most of these operations were penetrated by Soviet intelligence from early stages - partly through the [[Kim Philby]] connection - and resulted in the death or capture of the inserted agents.
 
 Political action: In Italy and France, the OPC organized substantial programs to support non-communist political parties, labor unions, and media, counteracting Soviet-funded communist party influence. These programs were more successful than the paramilitary operations.[^1]
 
+In 1950 Wisner approved a 50,000-dollar project for a Berlin conference of non-Communist intellectuals, the event that became the [[Congress for Cultural Freedom]]. The project outline, which essentially reiterated a December proposal by [[Michael Josselson]], was approved on April 7, 1950 on the condition, in Wisner's words, "that Lasky would not be permitted to figure publicly in this operation": he wanted the project's initiator, the former Army historian [[Melvin J. Lasky|Melvin Lasky]], and [[James Burnham]] kept out of sight in Berlin.[^2] Josselson defended Lasky when the request reached him, cabling that "No other person here, certainly no German, could have achieved such success."[^3] On August 4, 1950 a memorandum from Louis Glaser to Frank Lindsay recorded Lasky's activities in connection with the congress under the project name PDQUICK.[^4] On August 8, 1950 Wisner wrote to C. D. G. Breckinridge that he remained "very disturbed" at the non-observance of his April memorandum, called Lasky's conduct "a major blunder," and stated: "unless means can be found to sanitize this operation by the removal of Lasky, Burnham and other persons of known or traceable official significance from overt roles in the proposed continuing organization, then I am unwilling to have OPC continue its backing." A postscript recorded that General Magruder had shown a report on the congress to Secretary Johnson, who showed it to the President, "who expressed himself as being very well pleased."[^5] The CIA history states that Burnham was happy to step aside, that Wisner described Lasky's visibility as "a major blunder," recognized as such "by our best friends in the Department of State," and that "Lasky had to go, and OPC contrived to have him removed from the project and canceled his operational clearance." The steering committee made the congress a permanent body on November 27, 1950.[^6]
+
 ### Hungary and Breakdown
 
-The [[Hungarian Revolution]] of October-November 1956 was the defining catastrophe of Wisner's career. Radio Free Europe, which the OPC had established and which operated under CIA direction, had broadcast material encouraging Hungarian resistance with language that could reasonably have been interpreted as implying the United States would provide military support if Hungarians revolted. When Soviet tanks crushed the revolution in November 1956, the United States did not intervene.
+The Hungarian Revolution of October-November 1956 was the defining catastrophe of Wisner's career. Radio Free Europe, which the OPC had established and which operated under CIA direction, had broadcast material encouraging Hungarian resistance with language that could reasonably have been interpreted as implying the United States would provide military support if Hungarians revolted. When Soviet tanks crushed the revolution in November 1956, the United States did not intervene.
 
 Wisner had traveled to Europe to observe the situation and was in Budapest as the uprising was crushed. The experience - watching Soviet armor destroy a popular uprising that American broadcasts had encouraged while the United States did nothing - produced a psychological breakdown from which he never fully recovered. He was diagnosed with manic-depressive illness (bipolar disorder) and hospitalized. He returned to the CIA but never regained his operational authority.
 
-He was assigned as London station chief in 1959, a posting that reflected his diminished status within the agency hierarchy. He resigned in 1962.[^2]
+He was assigned as London station chief in 1959, a posting that reflected his diminished status within the agency hierarchy. He resigned in 1962.[^7]
 
 ### Death
 
@@ -55,4 +57,9 @@ Evan Thomas's 1995 account *The Very Best Men* placed Wisner alongside [[Richard
 ### Footnotes
 
 [^1]: Weiner, Tim. *Legacy of Ashes: The History of the CIA.* Doubleday, 2007. Mitrovich, Gregory. *Undermining the Kremlin: America's Strategy to Subvert the Soviet Bloc, 1947-1956.* Cornell University Press, 2000.
-[^2]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995. Pisani, Sallie. *The CIA and the Marshall Plan.* University Press of Kansas, 1991.
+[^2]: CIA history of the Congress for Cultural Freedom's origins, National Archives, ISCAP release 2014-090, Doc. 1, pt. 3 of 12; and Central Intelligence Agency, Center for the Study of Intelligence, "Origins of the Congress for Cultural Freedom, 1949-1950," Studies in Intelligence, vol. 38, no. 5 (project outline reiterating Josselson's December proposal; approval of April 7, 1950). https://www.archives.gov/files/declassification/iscap/pdf/2014-090-doc-1-part-3.pdf and https://www.cia.gov/resources/csi/studies-in-intelligence/archives/vol-38-no-5/origins-of-the-congress-for-cultural-freedom-1949-1950
+[^3]: ISCAP 2014-090, Doc. 1, pt. 3 of 12 (Josselson's cable). https://www.archives.gov/files/declassification/iscap/pdf/2014-090-doc-1-part-3.pdf
+[^4]: Louis Glaser to Frank Lindsay, "Activities of Mr. Melvin Lasky in connection with Congress for Cultural Freedom (Project PDQUICK)," August 4, 1950, Political and Psychological Staff Job 78-016R, box 1, folder 4, as cited in ISCAP 2014-090, Doc. 1, pt. 3.
+[^5]: Memorandum for Mr. Breckinridge, "Berlin Congress for Cultural Freedom; activities of Melvin Lasky," signed F.G.W., August 8, 1950, with postscript, CIA reading room copy. https://archive.org/details/cia-readingroom-document-0001318530
+[^6]: ISCAP 2014-090, Doc. 1, pt. 3 of 12 (Burnham stepping aside, the August memorandum, "Lasky had to go," the November 27, 1950 establishment of the congress). https://www.archives.gov/files/declassification/iscap/pdf/2014-090-doc-1-part-3.pdf
+[^7]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995. Pisani, Sallie. *The CIA and the Marshall Plan.* University Press of Kansas, 1991.

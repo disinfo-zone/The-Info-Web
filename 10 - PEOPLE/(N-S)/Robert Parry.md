@@ -52,8 +52,8 @@ Parry confirmed the authenticity of letters of recommendation for [[Ari Ben-Mena
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998.
 [^3]: Parry, Robert. "October Surprise Evidence Surfaces." *Consortium News*, July 14, 2011; Parry, Robert. "Inside the October Surprise Cover-up." *Consortium News*, July 12, 2011.
 [^4]: Parry, Robert. "The October Surprise Mysteries." *Consortium News*, October 22, 2012. https://consortiumnews.com/2012/10/22/the-october-surprise-mysteries/
-[^5]: Parry, Robert. "The Russian Report." *Consortium News*, August 5, 2010. https://consortiumnews.com/2010/080510.html Sole source for the Barcella e-mail quoted.
+[^5]: Parry, Robert. "The Russian Report." *Consortium News*, August 5, 2010. https://consortiumnews.com/2010/080510.html
 [^6]: Parry, Robert. "October Surprise X-Files: The Ladies' Room Secrets," *Consortium News*, 1996. https://www.consortiumnews.com/archive/xfile2.html
 [^7]: Parry, Robert. "A Lawyer & National Security Cover-ups." *Consortium News*, May 4, 2005. https://consortiumnews.com/2005/050405.html
-[^8]: Parry, Robert. "October Surprise X-Files (Part 8): Lies Spun into History." *Consortium News*, 1996. https://www.consortiumnews.com/archive/xfile8.html Sole source for the fee figure and the omissions as reported by Parry.
+[^8]: Parry, Robert. "October Surprise X-Files (Part 8): Lies Spun into History." *Consortium News*, 1996. https://www.consortiumnews.com/archive/xfile8.html
 [^9]: Parry, Robert. "Russian Report on 1980 'October Surprise' Case" (translation page). https://www.consortiumnews.com/2005/russianreport1980.html

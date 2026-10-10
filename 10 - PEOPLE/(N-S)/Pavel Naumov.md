@@ -45,5 +45,5 @@ When the British delegate [[John Cutten]] asked whether the work implied close c
 [^2]: Sheila Ostrander and Lynn Schroeder, *Psychic Discoveries Behind the Iron Curtain* (Prentice-Hall, 1970), chapters 1 and 3 ("Mind-Link, Body-Link") and Partial Bibliography, read in the archive.org copy of the 1984 printing. https://archive.org/details/shelia-ostrander-psychic-discoveries-behind-the-iron-curtain-1984
 [^3]: Annie Jacobsen, *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis* (Little, Brown and Company, 2017).
 [^4]: I. V. Tsykunov, "Ot fantazii k realnosti: kak istoriya Nautilusa otkryla gonku sverkhestestvennykh vooruzheniy mezhdu SSSR i SShA," *Aliter* (2023). https://cyberleninka.ru/article/n/ot-fantazii-k-realnosti-kak-istoriya-nautilusa-otkryla-gonku-sverhestestvennyh-vooruzheniy-mezhdu-sssr-i-ssha
-[^5]: Ostrander, Sheila, and Lynn Schroeder. *Psychic Discoveries Behind the Iron Curtain*. Prentice-Hall, 1970, pp. 32-33. Sole source for the passages so cited.
-[^6]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. Dell, 1997, pp. 90-93. Sole source for the passages so cited.
+[^5]: Ostrander, Sheila, and Lynn Schroeder. *Psychic Discoveries Behind the Iron Curtain*. Prentice-Hall, 1970, pp. 32-33.
+[^6]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. Dell, 1997, pp. 90-93.

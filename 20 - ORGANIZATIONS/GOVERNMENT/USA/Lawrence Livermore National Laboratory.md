@@ -30,7 +30,7 @@ In January 1979 Hawke wrote an outline of acoustic emission experiments with two
 
 [^1]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 11.
-[^3]: CIA-RDP79-00999A000200010023-0, https://archive.org/download/cia-readingroom-document-cia-rdp79-00999a000200010023-0/cia-rdp79-00999a000200010023-0_djvu.txt. Sole source for the passages so cited.
+[^3]: CIA-RDP79-00999A000200010023-0, https://archive.org/download/cia-readingroom-document-cia-rdp79-00999a000200010023-0/cia-rdp79-00999a000200010023-0_djvu.txt.
 [^4]: Charles Panati, ed., *The Geller Papers* (Houghton Mifflin, 1976), introduction, https://urigeller.com/scientific-paranormal/the-geller-papers/introduction/; Uri Geller and Guy Lyon Playfair, *The Geller Effect* (Jonathan Cape, 1986).
 [^5]: Geller and Playfair, *The Geller Effect*, citing John Wilhelm, *The Search for Superman* (Pocket Books, 1976).
 [^6]: Annie Jacobsen, *Phenomena* (Little, Brown, 2017).

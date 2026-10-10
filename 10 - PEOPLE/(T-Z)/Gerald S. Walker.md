@@ -53,7 +53,7 @@ A Gerald S. Walker is named, with [[Carter Cornick]] and [[Eugene Propper]], on 
 
 ### Footnotes
 
-[^1]: "Salvador officer implicated in deaths," Associated Press, in Sun Herald (Biloxi, Mississippi), June 27, 1985, p. 28, https://www.newspapers.com/image/743543906/. Sole source for the passages so cited (the account attributes them to an unnamed U.S. Embassy official).
+[^1]: "Salvador officer implicated in deaths," Associated Press, in Sun Herald (Biloxi, Mississippi), June 27, 1985, p. 28, https://www.newspapers.com/image/743543906/. The account attributes the passages to an unnamed U.S. Embassy official.
 [^2]: U.S. Department of State, *Key Officers of Foreign Service Posts*, Panama (E) entries, editions of 1983, 1984, 1985 and 1986, https://archive.org/details/keyofficersoffo1983wash_1, https://archive.org/details/keyofficersoffo1984wash_1, https://archive.org/details/keyofficersoffor1985wash and https://archive.org/details/keyofficersoffo1986wash_1.
 [^3]: Report on the Avila depositions, The Mercury (Manhattan, Kansas), June 28, 1985, p. 8, https://www.newspapers.com/image/424690396/.
 [^4]: Miami Herald, June 27, 1985, p. 21, https://www.newspapers.com/image/631400709/.

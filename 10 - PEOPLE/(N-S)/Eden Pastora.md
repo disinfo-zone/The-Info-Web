@@ -90,10 +90,10 @@ Webb wrote that Pastora said the CIA had targeted him after he refused to merge 
 
 [^1]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation (96-0143-IG)*, Volume II: The Contra Story, October 8, 1998, section on Southern Front Contras, https://irp.fas.org/cia/product/cocaine2/south.html
 [^2]: U.S. Senate Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy* (December 1988), pp. 50-53 (the case of George Morales and FRS/ARDE), https://archive.org/details/Kerry-Report-Drugs-Contras
-[^3]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it." Sole source for the passages so cited.
+[^3]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it."
 [^4]: Associated Press, "Eden Pastora, Nicaraguan revolutionary, dead at 83," June 16, 2020, https://www.news4jax.com/news/2020/06/16/eden-pastora-nicarguan-revolutionary-dead-at-83/
-[^5]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom." Sole source for the passages so cited.
-[^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters. Sole source for the passages so cited.
+[^5]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom."
+[^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters.
 [^7]: CIA Inspector General, *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States*, Volume II (October 8, 1998), Marcos Antonio Aguado section of the Southern Front chapter, https://irp.fas.org/cia/product/cocaine2/south.html
 [^8]: U.S. Senate, Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy*, S. Prt. 100-165 (December 1988), pp. 37, 50 to 52, https://archive.org/details/Kerry-Report-Drugs-Contras
 [^9]: U.S. Senate, Committee on Foreign Relations, *Drugs, Law Enforcement and Foreign Policy: The Cartel, Haiti and Central America*, Part 3, hearing of April 7, 1988, testimony of Jorge Morales (pp. 297 to 300) and videotaped depositions of October 31, 1987, https://archive.org/details/micro_IA41152832_0005. Gary Webb, in Dark Alliance (1998), dates the "CIA agents" statement to 1986 congressional testimony, and his chapter notes give April 7, 1986 and March 27, 1987.
@@ -107,4 +107,4 @@ Webb wrote that Pastora said the CIA had targeted him after he refused to merge 
 [^17]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions* (December 1997, released July 1998), Chapter II (Oscar Danilo Blandon), sections A-D, https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p1.htm
 [^18]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IV, section A (sources of the allegations), https://oig.justice.gov/sites/default/files/archive/special/9712/ch04p1.htm
 [^19]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, section G (the 1987 Los Angeles OCDETF investigation), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p4.htm
-[^20]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty." Sole source for the passages so cited.
+[^20]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty."

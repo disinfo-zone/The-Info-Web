@@ -35,6 +35,6 @@ The rest of what is known of the inquiry comes from Seymour, who met McDade in S
 
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the passages attributed to Seymour and McDade.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^2]: Lawton, Valerie, and Allan Thompson, "Spy computer 'trap' probed," *Toronto Star,* August 25, 2000; Thompson, Allan, and Valerie Lawton, "RCMP admit they're investigating 'trap'," *Toronto Star,* August 26, 2000; Lawton, Valerie, and Allan Thompson, "Mounties end probe of Promis," *Toronto Star,* September 16, 2000; texts as forwarded to the CTRL mailing list, https://www.mail-archive.com/ctrl@listserv.aol.com/msg49408.html, msg49544.html and msg50988.html; Sallot, Jeff, "Mounties probe software allegations," *The Globe and Mail,* August 26, 2000.
 [^3]: Government of Canada, Completed Access to Information Requests, Royal Canadian Mounted Police, request A-2023-17635, May 2024, disposition "No records exist," 0 pages. https://search.open.canada.ca/ati/record/rcmp-grc,2024,5,A-2023-17635

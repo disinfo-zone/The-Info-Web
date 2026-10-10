@@ -73,11 +73,11 @@ On February 16, 1991, the CIA's Inspector General recorded, Bermúdez was assass
 
 [^1]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation (96-0143-IG)*, Volume II: The Contra Story, October 8, 1998, section on Northern Front Contras, https://irp.fas.org/cia/product/cocaine2/north.html
 [^2]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IV, section B (OIG investigation regarding support of the Contras by Blandon and Meneses), https://oig.justice.gov/sites/default/files/archive/special/9712/ch04p2.htm
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters. Sole source for the passages so cited.
-[^4]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 2: "We were the first." Sole source for the passages so cited.
+[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters.
+[^4]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 2: "We were the first."
 [^5]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions* (December 1997, released July 1998), Chapter II (Oscar Danilo Blandon), sections A-D, https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p1.htm
 [^6]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation: Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States (96-0143-IG)*, Volume I: The California Story, January 29, 1998, Findings (Ross, Blandon, Meneses), https://irp.fas.org/cia/product/cocaine/findings1.html
-[^7]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 3: "The brotherhood of military minds." Sole source for the passages so cited.
-[^8]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know." Sole source for the passages so cited.
+[^7]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 3: "The brotherhood of military minds."
+[^8]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know."
 [^9]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter VII (Enrique Miranda-Jaime), https://oig.justice.gov/sites/default/files/archive/special/9712/ch07.htm
 [^10]: U.S. Senate Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy* (the Kerry report), December 1988, p. 38, quoting the August 5, 1987 testimony of the CIA Central American Task Force chief before the Iran-Contra Committees, https://archive.org/details/Kerry-Report-Drugs-Contras

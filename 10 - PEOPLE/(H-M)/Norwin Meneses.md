@@ -143,27 +143,27 @@ Webb listed the nephews Guillermo, Jaime and Jairo Meneses as Bay Area trafficke
 
 [^1]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III (Norwin Meneses), sections A-E, https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p1.htm
 [^2]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III, sections J-N (the 1991 arrest in Nicaragua, status of the indictment, entries into the United States, conclusions), https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p4.htm
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters. Sole source for the passages so cited.
-[^4]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 3: "The brotherhood of military minds." Sole source for the passages so cited.
+[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters.
+[^4]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 3: "The brotherhood of military minds."
 [^5]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IV, section B (OIG investigation regarding support of the Contras by Blandon and Meneses), https://oig.justice.gov/sites/default/files/archive/special/9712/ch04p2.htm
 [^6]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III, sections F-G ("David Morrison," alleged DEA corruption, DEA use of Meneses as an informant), https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p2.htm
-[^7]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom." Sole source for the passages so cited.
+[^7]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom."
 [^8]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation: Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States (96-0143-IG)*, Volume I: The California Story, January 29, 1998, Findings (Ross, Blandon, Meneses), https://irp.fas.org/cia/product/cocaine/findings1.html
-[^9]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty." Sole source for the passages so cited.
-[^10]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 15: "This thing is a tidal wave." Sole source for the passages so cited.
+[^9]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty."
+[^10]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 15: "This thing is a tidal wave."
 [^11]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IX (Carlos Cabezas), sections A-E, https://oig.justice.gov/sites/default/files/archive/special/9712/ch09p1.htm
 [^12]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IX, sections F-G (assessment of Cabezas' allegations), https://oig.justice.gov/sites/default/files/archive/special/9712/ch09p2.htm
 [^13]: U.S. Senate Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy* (December 1988), pp. 59-60 (the San Francisco Frogman case, UDN-FARN and PCNE), https://archive.org/details/Kerry-Report-Drugs-Contras
 [^14]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation (96-0143-IG)*, Volume II: The Contra Story, October 8, 1998, section on Southern Front Contras, https://irp.fas.org/cia/product/cocaine2/south.html
-[^15]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 11: "They were looking in the other direction." Sole source for the passages so cited.
-[^16]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter." Sole source for the passages so cited.
+[^15]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 11: "They were looking in the other direction."
+[^16]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter."
 [^17]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, section G (the 1987 Los Angeles OCDETF investigation), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p4.htm
 [^18]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation (96-0143-IG)*, Volume I: The California Story, January 29, 1998, Findings (Northern California story, the Frogman Case), https://irp.fas.org/cia/product/cocaine/findings2.html
 [^19]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III, sections H-I (the 1989 indictment and post-indictment activities), https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p3.htm
-[^20]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 23: "He had the backing of a superpower." Sole source for the passages so cited.
-[^21]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know." Sole source for the passages so cited.
-[^22]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends." Sole source for the passages so cited.
+[^20]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 23: "He had the backing of a superpower."
+[^21]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know."
+[^22]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends."
 [^23]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter VII (Enrique Miranda-Jaime), https://oig.justice.gov/sites/default/files/archive/special/9712/ch07.htm
 [^24]: San Jose Mercury News, August 18, 1996 (Gary Webb, "Testimony Links U.S. to Drugs-Guns Trade Dealers Got Their 'Own Little Arsenal,'" Dark Alliance series), https://people.duke.edu/~ldbaker/clippings/da1.html
-[^25]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters. Sole source for the passages so cited.
+[^25]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters.
 [^26]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter II, section K (the 1992 San Diego prosecution of Blandon), https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p6.htm

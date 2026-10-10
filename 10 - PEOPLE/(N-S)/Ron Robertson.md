@@ -41,7 +41,7 @@ Jacobsen places the tests in the winter of 1975 in a laboratory adjacent to Live
 
 ### Footnotes
 
-[^1]: Annie Jacobsen, *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis* (Little, Brown, 2017), pp. 178-180. Sole source for the barracks, the lead container, the call to Green and the quoted descriptions.
-[^2]: Uri Geller and Guy Lyon Playfair, *The Geller Effect* (London: Jonathan Cape, 1986), chapter on scientific research, citing John Wilhelm, *The Search for Superman* (New York: Pocket Books, 1976). PDF at http://www.mbdodd.weebly.com/uploads/1/4/1/6/14162844/the_geller_effect_-_uri_geller_and_guy_lyon_playfair.pdf. Geller is the sole source for the characterization of Wilhelm's quotation.
-[^3]: CIA-RDP79-00999A000200010023-0, archive.org item cia-readingroom-document-cia-rdp79-00999a000200010023-0, https://archive.org/download/cia-readingroom-document-cia-rdp79-00999a000200010023-0/cia-rdp79-00999a000200010023-0_djvu.txt. Sole source for the call.
+[^1]: Annie Jacobsen, *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis* (Little, Brown, 2017), pp. 178-180.
+[^2]: Uri Geller and Guy Lyon Playfair, *The Geller Effect* (London: Jonathan Cape, 1986), chapter on scientific research, citing John Wilhelm, *The Search for Superman* (New York: Pocket Books, 1976). PDF at http://www.mbdodd.weebly.com/uploads/1/4/1/6/14162844/the_geller_effect_-_uri_geller_and_guy_lyon_playfair.pdf.
+[^3]: CIA-RDP79-00999A000200010023-0, archive.org item cia-readingroom-document-cia-rdp79-00999a000200010023-0, https://archive.org/download/cia-readingroom-document-cia-rdp79-00999a000200010023-0/cia-rdp79-00999a000200010023-0_djvu.txt.
 [^4]: Jim Schnabel, *Remote Viewers* (Dell, 1997), as excerpted in Rudy Havenstein, "Dr. Green and the Goblins of Langley," July 11, 2025, https://rudy.substack.com/p/dr-green-and-the-goblins-of-langley, quoting *Grey Lodge Occult Review* 1, no. 5: "The names Richard Kennett, Peter Crane, Mike Russo and Don Kurtis which appear below are pseudonyms employed by Mr. Schnabel."

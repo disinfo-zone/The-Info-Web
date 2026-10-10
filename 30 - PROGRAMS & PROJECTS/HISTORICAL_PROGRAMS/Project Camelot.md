@@ -9,9 +9,9 @@ tags:
   - SocialScience
   - SORO
   - ProjectCamelot
-summary: "A 1964 US Army project run through SORO at American University under contract ARO-7 and a budget Secretary of State Rusk described as 'more than $4,000,000' that attempted to build a predictive social science model for revolution in developing countries; cancelled in July 1965 after its exposure by Norwegian sociologist Johan Galtung provoked a Chilean diplomatic protest, congressional hearings, and a permanent rupture between the military and academic social science communities."
+summary: "A 1964 U.S. Army social-science project run through SORO at American University to model revolution in developing countries, cancelled in July 1965 after Johan Galtung's exposure of it provoked a Chilean protest and congressional hearings."
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-10-09
 ---
 Project Camelot was a US Army research initiative launched in July 1964 through the Special Operations Research Office ([[CRESS|SORO]]) at [[American University]] in Washington, D.C., under the Army's existing contract ARO-7 with a budget Secretary of State Rusk described to President Johnson as "more than $4,000,000" over three to four years. Its formal goal was to develop a general social systems model that could predict the internal conditions leading to revolution in developing countries and assess actions available to host governments to suppress that potential. [[Chile]] was designated the initial pilot study country, with planned fieldwork expansion to [[Latin America]], the [[Middle East]], and Southeast Asia. The project was publicly cancelled July 8, 1965, following its exposure in Chile, a diplomatic protest from the Chilean government, and the eruption of a major controversy within American academic social science.[^1]
 
@@ -25,7 +25,7 @@ The target country list documented in Army memos of December 5, 1964, included t
 
 ### Intellectual Lineage through the Rockefeller Network
 
-Camelot's counterinsurgency social-science framework grew from doctrines developed in the Rockefeller policy network. [[William Kintner]], [[Nelson Rockefeller]]'s collaborator on the 1955 Quantico seminars and "Open Skies" proposal, co-founded the [[Foreign Policy Research Institute]] at the [[University of Pennsylvania]], from which he argued for folding "private voluntary organizations, including religious personnel" into Cold War operations, the same logic Camelot applied to academic social scientists. The Rockefeller Brothers Fund Special Studies Project, on which Kintner worked alongside future Kennedy national-security officials, produced 1958-1959 reports that became the template for the Kennedy counterinsurgency expansion.[^2]
+Camelot's counterinsurgency social-science framework grew from doctrines developed in the Rockefeller policy network. [[William Kintner]] co-founded the [[Foreign Policy Research Institute]] at the [[University of Pennsylvania]], from which he argued for folding "private voluntary organizations, including religious personnel" into Cold War operations, the same logic Camelot applied to academic social scientists. The Rockefeller Brothers Fund Special Studies Project, on which Kintner worked alongside future Kennedy national-security officials, produced 1958-1959 reports that became the template for the Kennedy counterinsurgency expansion.[^2]
 
 ### Colombia as Laboratory and the Yarborough Mission
 
@@ -33,7 +33,7 @@ The Kennedy administration's choice of [[Colombia]] as its principal counterinsu
 
 ### The Special Group CI and NSAM 124/182
 
-Camelot's institutional patron was Kennedy's Special Group (Counter-Insurgency), established by NSAM 124 on January 18, 1962 under General [[Maxwell Taylor]] and including Attorney General [[Robert Kennedy]], the DCI, and McGeorge Bundy; it was the successor to the Special Group Nelson Rockefeller had chaired under Eisenhower. NSAM 182 (August 24, 1962) approved the "U.S. Overseas Internal Defense Policy" and required each agency to formulate its own counterinsurgency doctrine for Special Group review, the mandate under which the Army's Office of the Chief of Research and Development commissioned SORO's modeling program. The project's full projected authorization was about $6 million over five years, described at the time as the largest single social-science grant ever, of which the "more than $4,000,000" Rusk cited reflected funds committed at cancellation.[^4]
+Camelot's institutional patron was Kennedy's Special Group (Counter-Insurgency), established by NSAM 124 on January 18, 1962 under General [[Maxwell Taylor]] and including Attorney General [[Robert Kennedy]], the DCI, and McGeorge Bundy; it was the successor to the Special Group [[Nelson Rockefeller]] had chaired under Eisenhower. NSAM 182 (August 24, 1962) approved the "U.S. Overseas Internal Defense Policy" and required each agency to formulate its own counterinsurgency doctrine for Special Group review, the mandate under which the Army's Office of the Chief of Research and Development commissioned SORO's modeling program. The project's full projected authorization was about $6 million over five years, described at the time as the largest single social-science grant ever, of which the "more than $4,000,000" Rusk cited reflected funds committed at cancellation.[^4]
 
 ### Exposure in Chile
 

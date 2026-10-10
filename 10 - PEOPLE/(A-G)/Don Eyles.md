@@ -58,6 +58,6 @@ Mitchell, who after the mission founded the [[Institute of Noetic Sciences]], co
 [^1]: Eyles, Don. "Tales from the Lunar Module Guidance Computer." AAS 04-064, American Astronautical Society, 2004. https://www.doneyles.com/LM/Tales.html. His memoir is *Sunburst and Luminary: An Apollo Memoir* (Fort Point Press, 2018).
 [^2]: Jones, Eric M., ed. "Landing at Fra Mauro," Apollo 14 Lunar Surface Journal, NASA, transcript at 104:30 to 106:33 GET. https://web.archive.org/web/2023/https://www.hq.nasa.gov/alsj/a14/a14.landing.html
 [^3]: Fjeld, Paul. "Masking the Abort Discrete," Apollo Lunar Surface Journal, NASA, 2009, and the transcript at 108:02 to 108:03 GET. https://web.archive.org/web/2023/https://www.hq.nasa.gov/alsj/a14/a14AbortDiscrete.html
-[^4]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017. Sole source for the passages so cited.
+[^4]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^5]: "Private Lunar ESP: An Interview with Edgar Mitchell." Cabinet, issue 5. https://cabinetmagazine.org/issues/5/backstrom_mitchell.php
 [^6]: Mitchell, Edgar D. "An ESP Test from Apollo 14." *Journal of Parapsychology*, 1971.

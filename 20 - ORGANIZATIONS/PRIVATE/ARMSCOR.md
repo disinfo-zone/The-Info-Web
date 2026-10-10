@@ -39,4 +39,4 @@ An Open Secrets report of October 2017, based on South African military document
 [^3]: *United States v. Jasin*, 280 F.3d 355 (3d Cir. 2002). https://static.case.law/f3d/280/cases/0355-01.json
 [^4]: "South African Firms Settle Arms Smuggling Case," Wisconsin Project on Nuclear Arms Control (undated). https://www.wisconsinproject.org/south-african-firms-settle-arms-smuggling-case/
 [^5]: Department of State, Office of Defense Trade Controls, Public Notice 2522, *Federal Register* 62, no. 56 (March 24, 1997), p. 13933. https://www.govinfo.gov/content/pkg/FR-1997-03-24/html/97-7273.htm
-[^6]: Open Secrets, "Declassified: Apartheid Profits," *Daily Maverick*, October 9, 2017. Sole source for the 1990 memorandum and the China resale. https://www.dailymaverick.co.za/article/2017-10-09-declassified-apartheid-profits-american-guns/
+[^6]: Open Secrets, "Declassified: Apartheid Profits," *Daily Maverick*, October 9, 2017. https://www.dailymaverick.co.za/article/2017-10-09-declassified-apartheid-profits-american-guns/

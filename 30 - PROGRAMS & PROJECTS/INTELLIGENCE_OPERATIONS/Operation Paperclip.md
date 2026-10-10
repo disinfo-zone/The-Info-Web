@@ -1,10 +1,10 @@
-﻿---
+---
 title: Operation Paperclip
 aliases:
   - Operation Paperclip
   - Paperclip
 created: 2026-05-14
-updated: 2026-05-17
+updated: 2026-10-09
 category: "Intelligence Operation"
 tags:
   - Program
@@ -17,10 +17,17 @@ tags:
   - ColdWar
   - 1940s
   - 1950s
-summary: "Operation Paperclip was the postwar U.S. program that recruited over 1,600 German and Austrian scientists from the defeated Third Reich, falsifying Nazi party records to enable their employment, with key recruits Wernher von Braun and Arthur Rudolph later directing major NASA programs."
+summary: "Postwar U.S. program that recruited over 1,600 German and Austrian scientists, falsifying Nazi party records to enable their employment; recruits Wernher von Braun and Arthur Rudolph later directed major NASA programs."
 start: 1945-09-01
 end: 1959-01-01
 location: "United States"
+relations:
+  - type: participant_in
+    with: "[[Redstone Arsenal]]"
+    reverse: true
+    start: 1950-04-15
+    role: "Fort Bliss group relocated to Redstone Arsenal"
+    fn: 4
 ---
 
 Operation Paperclip was a classified U.S. government program that systematically recruited German and Austrian scientists, engineers, physicians, and technical specialists from the defeated Third Reich beginning in the summer and fall of 1945. Operated by the [[Joint Intelligence Objectives Agency]] (JIOA), which reported to the [[Joint Chiefs of Staff]] and worked closely with the [[Office of Strategic Services|OSS]] and later the [[Central Intelligence Agency|CIA]], the program brought over 1,600 technical specialists to the United States to work for American military, intelligence, and civilian agencies during the critical period of the emerging [[Cold War]] and the American aerospace and weapons development programs.[^1]
@@ -39,7 +46,7 @@ Von Braun, who was an SS officer and member of the Nazi party, had his records a
 
 ### Key Personnel
 
-Von Braun was the most prominent Paperclip recruit. An SS officer and the technical director of the V-2 program, he was brought to [[Fort Bliss]], Texas, along with approximately 100 German rocket engineers in 1945, and eventually directed the [[Marshall Space Flight Center]] and led the development of the Saturn V rocket that carried the [[Apollo program]] to the moon. His wartime record, including his use of slave labor, was publicly documented during his lifetime but did not prevent his celebrated American career.
+Von Braun was the most prominent Paperclip recruit. An SS officer and the technical director of the V-2 program, he was brought to [[Fort Bliss]], Texas, along with more than 100 German rocket engineers, who arrived there near the end of 1945,[^2] and eventually directed the [[Marshall Space Flight Center]] and led the development of the Saturn V rocket that carried the [[Apollo program]] to the moon. The Army chronology states that von Braun's team had come to the United States under Operation Paperclip during 1945 and 1946.[^3] In April 1950 the team moved from Fort Bliss to [[Redstone Arsenal]] in [[Huntsville, Alabama]]. The Army chronology records a staff of Army officers and about 120 German scientists arriving at Redstone from Fort Bliss beginning on April 15, 1950, and the Ordnance Research and Development Division Sub-Office (Rocket) was redesignated the Ordnance Guided Missile Center on that date.[^4] The first missile work at the post was the Redstone missile, first flight tested on August 20, 1953.[^5] His wartime record, including his use of slave labor, was publicly documented during his lifetime but did not prevent his celebrated American career.
 
 [[Walter Dornberger]], who had commanded the Peenemünde facility, was also recruited, eventually working for [[Bell Aircraft]] on space plane concepts. Arthur Rudolph, who had managed V-2 production at Mittelwerk using Mittelbau-Dora camp labor, directed the Pershing missile and Saturn V programs before his wartime record was investigated by the [[Department of Justice|Justice Department]]'s Office of Special Investigations in 1984; he renounced citizenship and departed rather than face proceedings.[^1]
 
@@ -47,16 +54,20 @@ In 1945, before the program was fully formalized, [[Qian Xuesen|H.S. Tsien]] - t
 
 ### Nazi Doctors and the CIA Behavioral Programs
 
-Beyond the aerospace recruits, Paperclip transferred Nazi medical expertise that fed directly into the CIA's behavioral-control work. [[Kurt Blome]], the Reich's deputy surgeon general and director of its biological-weapons program (including weaponized plague), was acquitted at the [[Nuremberg Doctors' Trial]] in August 1947 and within two months was consulting U.S. Army biological-warfare researchers in Maryland. [[Walter Schreiber]], the Reich surgeon general who had assigned concentration-camp prisoners to experimental doctors, was given a post at the [[Air Force School of Medicine]] at [[Randolph Field]], Texas. [[Kurt Plotner]] had conducted mescaline experiments on prisoners at [[Dachau]] for the SS in search of a truth drug, work of direct interest to the CIA's postwar truth-drug research. [[Camp King]], the clandestine CIA-Army interrogation center in occupied Germany, served as the operational hub where this knowledge was applied; Schreiber and then Blome served as its chief medical officer, and the interrogation techniques developed there fed into [[Project Bluebird and Project Artichoke|ARTICHOKE]] and the [[Project MKUltra|MKULTRA]] programs. The chemist Friedrich "Fritz" Hoffmann, who had synthesized poison gases for the Luftwaffe, was likewise brought over.[^3]
+Beyond the aerospace recruits, Paperclip transferred Nazi medical expertise that fed directly into the CIA's behavioral-control work. [[Kurt Blome]], the Reich's deputy surgeon general and director of its biological-weapons program (including weaponized plague), was acquitted at the [[Nuremberg Doctors' Trial]] in August 1947 and within two months was consulting U.S. Army biological-warfare researchers in Maryland. [[Walter Schreiber]], the Reich surgeon general who had assigned concentration-camp prisoners to experimental doctors, was given a post at the [[Air Force School of Medicine]] at [[Randolph Field]], Texas. [[Kurt Plotner]] had conducted mescaline experiments on prisoners at [[Dachau]] for the SS in search of a truth drug, work of direct interest to the CIA's postwar truth-drug research. [[Camp King]], the clandestine CIA-Army interrogation center in occupied Germany, served as the operational hub where this knowledge was applied; Schreiber and then Blome served as its chief medical officer, and the interrogation techniques developed there fed into [[Project Bluebird and Project Artichoke|ARTICHOKE]] and the [[Project MKUltra|MKULTRA]] programs. The chemist Friedrich "Fritz" Hoffmann, who had synthesized poison gases for the Luftwaffe, was likewise brought over.[^6]
 
 ### Legacy and Controversy
 
 The German scientists brought through Paperclip made foundational contributions to the U.S. space program, missile development, aviation medicine, and chemical and biological research. Their technical contributions were real and in some cases irreplaceable. The ethical dimensions of the program - the employment of individuals with serious Nazi records, the systematic falsification of government records to circumvent legal prohibitions, and the implicit decision that American competitive advantage in the Cold War took priority over accountability for wartime crimes - remained subjects of historical and moral assessment.
 
-The Soviet Union's parallel program produced the Soviet space and missile programs that competed directly with American programs developed from German expertise, creating a Cold War technological competition shaped on both sides by the same cohort of German scientists.[^2]
+The Soviet Union's parallel program produced the Soviet space and missile programs that competed directly with American programs developed from German expertise, creating a Cold War technological competition shaped on both sides by the same cohort of German scientists.[^7]
 
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Operation Paperclip: The Secret Intelligence Program That Brought Nazi Scientists to America.* Little, Brown and Company, 2014 (the primary English-language investigation, based on declassified JIOA files and other government records). Hunt, Linda. *Secret Agenda: The United States Government, Nazi Scientists, and Project Paperclip, 1945 to 1990.* St. Martin's Press, 1991.
-[^2]: Lasby, Clarence G. *Project Paperclip: German Scientists and the Cold War.* Atheneum, 1971.
-[^3]: Annie Jacobsen, *Operation Paperclip*. Little, Brown, 2014; "What Cold War CIA Interrogators Learned from the Nazis," *The Daily Beast*, 2014; Curt Rowlett, "Project Mind Kontrol," *Steamshovel Press* #16, 1998.
+[^2]: NASA Marshall Space Flight Center History Office, "Notes on Project Paperclip," https://history.msfc.nasa.gov/german/paperclip.html
+[^3]: U.S. Army, Redstone Arsenal Historical Information, "1948 and 1949," entry for 28 October 1949. https://history.redstone.army.mil/ihist-1948.html
+[^4]: U.S. Army, Redstone Arsenal Historical Information, "1950 - 1952," entry "April 50" (about 120 German scientists from Fort Bliss) and introductory paragraph (arrival of the Fort Bliss group beginning April 15, 1950). https://history.redstone.army.mil/ihist-1950.html
+[^5]: U.S. Army, Redstone Arsenal Historical Information, "1953," entry for 20 August 1953. https://history.redstone.army.mil/ihist-1953.html
+[^6]: Annie Jacobsen, *Operation Paperclip*. Little, Brown, 2014; "What Cold War CIA Interrogators Learned from the Nazis," *The Daily Beast*, 2014; Curt Rowlett, "Project Mind Kontrol," *Steamshovel Press* #16, 1998.
+[^7]: Lasby, Clarence G. *Project Paperclip: German Scientists and the Cold War.* Atheneum, 1971.

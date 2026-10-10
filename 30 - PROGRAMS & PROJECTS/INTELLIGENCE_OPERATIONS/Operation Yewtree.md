@@ -35,6 +35,6 @@ The BBC employed Smith as a chauffeur in the 1980s, despite 22 previous convicti
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
 [^2]: Chappell, Bill. "Jimmy Savile Sexually Abused Hundreds, Police Report Concludes." NPR, January 11, 2013, reporting *Giving Victims a Voice,* January 2013. https://www.npr.org/sections/thetwo-way/2013/01/11/169146888/jimmy-savile-sexually-abused-hundreds-police-report-concludes
 [^3]: "Report: BBC missed chances to stop sexual predator Jimmy Savile." Associated Press, CBS News, February 25, 2016. https://www.cbsnews.com/news/report-bbc-missed-chances-to-stop-sexual-predator-jimmy-savile/

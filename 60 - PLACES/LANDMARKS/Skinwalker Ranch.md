@@ -7,7 +7,7 @@ tags:
   - Paranormal
 category: "Landmark"
 summary: "Skinwalker Ranch is a 480-acre property in Utah known for a long history of paranormal and Unidentified Anomalous Phenomena-related events."
-updated: 2026-10-02
+updated: 2026-10-09
 ---
 [[Skinwalker Ranch]] is a 480-acre property in [[Utah]] known for a long history of paranormal and [[Unidentified Anomalous Phenomena|UAP]]-related events. The ranch was a subject of investigation for the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to the Advanced Aerospace Threat Identification Program (AATIP).[^1]
 
@@ -31,7 +31,13 @@ One of the most dangerous phenomena reported at the ranch are the blue orbs. In 
 
 The investigation of Skinwalker Ranch was a controversial aspect of the AATIP program. While program leader [[James Lacatski]] believed that the paranormal events at the ranch were inextricably linked to the UAP mystery, the focus on such phenomena drew criticism from within the [[Pentagon]] and contributed to the internal opposition that ultimately led to the program losing its official support.[^1]
 
+### Hunt for the Skinwalker
+
+The 2018 documentary [[Hunt for the Skinwalker]], written and directed by [[Jeremy Corbell]], is listed on [[IMDb]] with a publication date of September 11, 2018. Its promotional description says that "An exhaustive, multidisciplinary scientific study began in 1996, spearheaded by an enigmatic Las Vegas billionaire," and the cast list includes [[George Knapp]], [[Colm Kelleher]] and Robert Bigelow.[^3] The [[United States Copyright Office]] catalog lists the book Hunt for the Skinwalker (TX0006340176, registered April 27, 2006, first published November 15, 2005) with Kelleher and Knapp as claimants.[^4]
+
 ### Footnotes
 
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
 [^2]: Zack Van Eyck, "No UFOs or ETs have dropped in at spooky ranch," *The Uintah Basin Standard* (Roosevelt, Utah; reprinted from the *Deseret News*), April 29, 1997, p. 2, https://www.newspapers.com/image/725294178/.
+[^3]: IMDb title page for Hunt for the Skinwalker (tt8399718), Internet Archive snapshot of 2019 (director and writer credits, publication date 2018-09-11, promotional description, cast list). https://web.archive.org/web/2019/https://www.imdb.com/title/tt8399718/
+[^4]: U.S. Copyright Office Public Records System, registration TX0006340176. https://publicrecords.copyright.gov/

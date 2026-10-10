@@ -19,4 +19,4 @@ Shortly before his first scheduled court appearance on behalf of D.I.G., Wagner 
 ---
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. No independent record of his disappearance has been found. He is not the Benjamin B. Wagner who was U.S. Attorney for the Eastern District of California from 2009 to 2016. Sole source for the passages so cited.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. No independent record of his disappearance has been found. He is not the Benjamin B. Wagner who was U.S. Attorney for the Eastern District of California from 2009 to 2016.

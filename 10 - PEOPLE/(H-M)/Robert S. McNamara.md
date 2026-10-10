@@ -22,6 +22,6 @@ In an affidavit released in October 2003, [[Ward Boston]] states that the presid
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 8.
-[^2]: Ward Boston Jr., affidavit as printed in the Congressional Record, Extensions of Remarks, October 11, 2004, pp. E1886-E1889, https://www.govinfo.gov/content/pkg/CREC-2004-10-11/html/CREC-2004-10-11-pt1-PgE1886-3.htm; the same sentence is paragraph 16 of the declaration dated January 8, 2004, https://archive.org/download/boston-declaration/BostonDeclaration.pdf. Sole source for the Kidd conversation.
+[^2]: Ward Boston Jr., affidavit as printed in the Congressional Record, Extensions of Remarks, October 11, 2004, pp. E1886-E1889, https://www.govinfo.gov/content/pkg/CREC-2004-10-11/html/CREC-2004-10-11-pt1-PgE1886-3.htm; the same sentence is paragraph 16 of the declaration dated January 8, 2004, https://archive.org/download/boston-declaration/BostonDeclaration.pdf.
 [^3]: A. Jay Cristol, History News Network, June 12, 2007. Cristol quotes the testimony with ellipses and cites it as released by the U.S. Government Printing Office in 1967. https://www.historynewsnetwork.org/article/why-you-shouldnt-pay-attention-to-the-claims-that-
 [^4]: "New revelations in attack on American spy ship," *Chicago Tribune*, October 2, 2007. Hart's and McNamara's statements are as the Tribune reported them. https://www.chicagotribune.com/2007/10/02/new-revelations-in-attack-on-american-spy-ship/

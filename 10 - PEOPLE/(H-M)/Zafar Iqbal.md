@@ -130,10 +130,10 @@ In written answers to Senator Kerry in 1992, Al Sayegh listed "Zafar Iqbal Chaud
 [^2]: *Inquiry into the Supervision of the Bank of Credit and Commerce International*, ordered by the House of Commons to be printed October 22, 1992, paras. 2.198, 2.201. https://archive.org/details/InquiryIntoTheSupervisionOfTheBankOfCreditAndCommerceInternational
 [^3]: Kerry and Brown, ch. 14, as in note 1.
 [^4]: Kerry and Brown, ch. 14, note 38.
-[^5]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 143. Sole source for the passages so cited. https://archive.org/details/outlawbank00jona
-[^6]: Beaty and Gwynne, *The Outlaw Bank*, "Cast of Characters," p. xvi (entry for Zafar Iqbal), and p. 103. Sole source for the passages so cited.
-[^7]: Beaty and Gwynne, *The Outlaw Bank*, p. 86. Sole source for the passages so cited.
-[^8]: Beaty and Gwynne, *The Outlaw Bank*, p. 81 (Masri's statement to Beaty; the book's index lists pp. 81, 86, 103, 143 and 354 under Zafar Iqbal). Sole source for the passages so cited.
+[^5]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 143. https://archive.org/details/outlawbank00jona
+[^6]: Beaty and Gwynne, *The Outlaw Bank*, "Cast of Characters," p. xvi (entry for Zafar Iqbal), and p. 103.
+[^7]: Beaty and Gwynne, *The Outlaw Bank*, p. 86.
+[^8]: Beaty and Gwynne, *The Outlaw Bank*, p. 81 (Masri's statement to Beaty; the book's index lists pp. 81, 86, 103, 143 and 354 under Zafar Iqbal).
 [^9]: Kerry and Brown, ch. 10, text on the Abu Dhabi takeover, March 1990. https://irp.fas.org/congress/1992_rpt/bcci/10accounta.htm
 [^10]: Kerry and Brown, ch. 14, "Attempt At Restructuring 1990 and 1991." https://irp.fas.org/congress/1992_rpt/bcci/14abudhabi.htm
 [^11]: *Inquiry into the Supervision of the Bank of Credit and Commerce International*, paras. 2.198, 2.201.
@@ -146,7 +146,7 @@ In written answers to Senator Kerry in 1992, Al Sayegh listed "Zafar Iqbal Chaud
 [^18]: Statement of the majority shareholders, section II, "Cooperation by the Majority Shareholders with U.S. Law Enforcement and Regulatory Investigations," reprinted in *BCCI Hearings before the Terrorism, Narcotics, and International Operations of the Committee on Foreign Relations*, vol. 5 (S. Hrg. 102-350, pt. 5).
 [^19]: Electronic mail, "BCCI," from Thomas McQueeney, headed December 18, 1990, in *BCCI Hearings before the Committee on Banking, Finance, and Urban Affairs*, House of Representatives, vol. 2. https://archive.org/details/BCCIHearingsBeforeTheCommitteeOnBankingFinanceAndUrbanAffairs
 [^20]: Newspaper article quoting the McQueeney memo as dated December 11, 1990, reprinted in *BCCI Hearings before the Terrorism, Narcotics, and International Operations of the Committee on Foreign Relations*, vol. 2 (archive.org copy).
-[^21]: Beaty and Gwynne, *The Outlaw Bank*, p. 103. Sole source for the passages so cited.
+[^21]: Beaty and Gwynne, *The Outlaw Bank*, p. 103.
 [^22]: Chronology, entry for December 13, 1990, in *BCCI Hearings before the Committee on Banking, Finance, and Urban Affairs*, House of Representatives, vol. 1. https://archive.org/details/BCCIHearingsBeforeTheCommitteeOnBankingFinanceAndUrbanAffairs
 [^23]: *Inquiry into the Supervision of the Bank of Credit and Commerce International*, paras. 2.272, 2.274.
 [^24]: *Inquiry into the Supervision of the Bank of Credit and Commerce International*, para. 2.281.
@@ -164,7 +164,7 @@ In written answers to Senator Kerry in 1992, Al Sayegh listed "Zafar Iqbal Chaud
 [^36]: Newspaper article reprinted in *BCCI Hearings before the Terrorism, Narcotics, and International Operations of the Committee on Foreign Relations*, vol. 2 (archive.org copy).
 [^37]: Written answers by Al Sayegh, answer to question 46, reprinted in S. Hrg. 102-350, pt. 5, p. 832.
 [^38]: Statement of the majority shareholders, reprinted in *BCCI Hearings before the Terrorism, Narcotics, and International Operations of the Committee on Foreign Relations*, vol. 5 (S. Hrg. 102-350, pt. 5), p. 754. Position of the majority shareholders.
-[^39]: Beaty and Gwynne, *The Outlaw Bank*, p. 354. Sole source for the passages so cited.
+[^39]: Beaty and Gwynne, *The Outlaw Bank*, p. 354.
 [^40]: Kerry and Brown, ch. 14, text and note 70, citing S. Hrg. 102-350, pt. 5, pp. 756-757.
-[^41]: Hussain, Thomas. "UAE jails and fines BCCI executives," United Press International, June 14, 1994. https://www.upi.com/Archives/1994/06/14/UAE-jails-and-fines-BCCI-executives/7650771566400/ Sole source for the passages so cited; its twelve-defendant total (56 years) differs from MEED's (61 years).
+[^41]: Hussain, Thomas. "UAE jails and fines BCCI executives," United Press International, June 14, 1994. https://www.upi.com/Archives/1994/06/14/UAE-jails-and-fines-BCCI-executives/7650771566400/ Its twelve-defendant total (56 years) differs from MEED's (61 years).
 [^42]: "BCCI executives sentenced," MEED, June 24, 1994. https://www.meed.com/bcci-executives-sentenced/

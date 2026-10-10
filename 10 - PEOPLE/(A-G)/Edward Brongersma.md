@@ -20,5 +20,5 @@ Brongersma's role as trustee of Shelden's estate provided the American fugitive 
 Brongersma's connections extended to other figures in the European pedophile network. He was associated with [[Fritz Bernard]], a psychologist and contributor to Shelden's PAN magazine, and with [[Joseph Douce]], a pastor who maintained contact with Dutch specialists in pedophilia issues. Douce had sent contact details of Brongersma and Bernard to representatives of Protestant Churches in Belgium who were concerned about Douce's activities. These connections placed Brongersma at the center of a network that linked political figures, academics, and religious leaders to organized child exploitation.[^1]
 
 ### Footnotes
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
 [^2]: *National Bank of Detroit v. Shelden,* 730 F.2d 421 (6th Cir. 1984). https://www.courtlistener.com/opinion/433085/national-bank-of-detroit-v-francis-d-shelden-the-trust-company-of-the/

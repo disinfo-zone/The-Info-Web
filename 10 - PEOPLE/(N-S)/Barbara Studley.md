@@ -135,4 +135,4 @@ The former Israeli intelligence officer [[Ari Ben-Menashe]] writes that a 1985 c
 [^21]: Sharon Walsh and Saundra Torry, "Washington, Perito Law Firm Losing Additional Attorneys; Name Partner Among Those Leaving," *The Washington Post*, July 20, 1991. https://www.washingtonpost.com/archive/business/1991/07/20/washington-perito-law-firm-losing-additional-attorneys/0a7d8d2e-2958-4283-9860-874855bd0ca6/
 [^22]: In re Washington, Perito & Dubuc, 154 B.R. 853 (Bankr. S.D.N.Y. June 2, 1993), statement of facts, paragraphs 1 to 3 and 19. https://static.case.law/br/154/cases/0853-01.json
 [^23]: U.S. Department of Justice, Foreign Agents Registration Act, registration 4772, Exhibit B, March 1, 1993. https://efile.fara.gov/docs/4772-Exhibit-AB-19930301-D1Y3N102.pdf
-[^24]: Ari Ben-Menashe, *Profits of War: Inside the Secret U.S.-Israeli Arms Network* (Sheridan Square, 1992). Index entry "GMT" at p. 155. Sole source for the itemization of $3,242,000 and the $5 million figure.
+[^24]: Ari Ben-Menashe, *Profits of War: Inside the Secret U.S.-Israeli Arms Network* (Sheridan Square, 1992). Index entry "GMT" at p. 155.

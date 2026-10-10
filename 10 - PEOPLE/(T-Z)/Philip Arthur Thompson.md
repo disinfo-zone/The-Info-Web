@@ -159,24 +159,24 @@ The Third District affirmed the conviction in an unpublished opinion filed Decem
 
 [^1]: People v. Thompson, No. A025390 (Cal. Ct. App., 1st Dist., Div. 4, Jan. 13, 1986). https://caselaw.findlaw.com/court/ca-court-of-appeal/1843801.html
 [^2]: Findings and Recommendations, Thompson v. Dickinson, No. 2:11-cv-1318 GEB AC (E.D. Cal., dated May 28, 2014, filed May 29, 2014), Doc. 35. https://www.govinfo.gov/content/pkg/USCOURTS-caed-2_11-cv-01318/pdf/USCOURTS-caed-2_11-cv-01318-3.pdf
-[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010. Sole source for the passages so cited.
+[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
 [^4]: Eric Laughlin, "Thompson guilty of murder," Mountain Democrat (Placerville), April 9, 2008 (Wayback copy of newsmakingnews.com reprint). https://web.archive.org/web/20110414121657/http://www.newsmakingnews.com/laughlin,eric,phillip,arthur,thompson,verdict,4,8,08.htm
 [^5]: Larry Maatz, "The mystery of the disappearing actress deepens," San Francisco Examiner & Chronicle, January 11, 1981, p. B2 (transcription). http://www.maebrussell.com/SF-Wash.%20State%20crime/Mystery%20of%20Disappearing%20Actress.html
 [^6]: Bob Calhoun, "Yesterday's Crimes: What Happened to Valerie McDonald?", SF Weekly, May 5, 2016. https://www.sfweekly.com/news/yesterdays-crimes-what-happened-to-valerie-mcdonald/
 [^7]: Seattle Post-Intelligencer special report on the national missing, February 26, 2003 (Wayback copy). https://web.archive.org/web/20091127110111/http://seattlepi.nwsource.com/local/109939_nationalmissing26.shtml
 [^8]: Bob Calhoun, "Yesterday's Crimes: CIA Plots, Canadian Shootouts and the Disappearance of Valerie McDonald", SF Weekly, May 13, 2016. https://www.sfweekly.com/news/yesterdays-crimes-cia-plots-canadian-shootouts-and-the-disappearance-of-valerie-mcdonald/
 [^9]: People v. Thompson (1983) 145 Cal.App.3d 918, 193 Cal.Rptr. 782, Crim. No. 42215 (Cal. Ct. App., 2d Dist., Div. 1, Aug. 11, 1983). https://static.case.law/cal-app-3d/145/cases/0918-01.json
-[^10]: Kenn Thomas and Jim Keith, *The Octopus: Secret Government and the Death of Danny Casolaro* (Feral House), appendix reproducing Casolaro's file index, file codes PR\CW\CR-03 to CR-06. https://archive.org/details/the-octopus Sole source for the passages so cited.
-[^11]: Danny Casolaro papers, Folder 7 (Acc. 5516): transcript headed "TAPE TRANSCRIPTION FROM 3-28-84" (Riconosciuto interviewed by Ted Gunderson) and Casolaro's notes of a telephone conversation with Riconosciuto. https://archive.org/details/casolaro-notebooks Sole source for the passages so cited.
-[^12]: Unsigned letter to "Dear Pat" (Patrick Moriarty), c. April 1982, Danny Casolaro papers, Wackenhut correspondence file. https://archive.org/details/casolaro-notebooks Sole source for the passages so cited.
+[^10]: Kenn Thomas and Jim Keith, *The Octopus: Secret Government and the Death of Danny Casolaro* (Feral House), appendix reproducing Casolaro's file index, file codes PR\CW\CR-03 to CR-06. https://archive.org/details/the-octopus
+[^11]: Danny Casolaro papers, Folder 7 (Acc. 5516): transcript headed "TAPE TRANSCRIPTION FROM 3-28-84" (Riconosciuto interviewed by Ted Gunderson) and Casolaro's notes of a telephone conversation with Riconosciuto. https://archive.org/details/casolaro-notebooks
+[^12]: Unsigned letter to "Dear Pat" (Patrick Moriarty), c. April 1982, Danny Casolaro papers, Wackenhut correspondence file. https://archive.org/details/casolaro-notebooks
 [^13]: Whitney Alyse Webb, *One Nation Under Blackmail*, endnote quoting Cheri Seymour, *The Last Circle* (TrineDay, 2010), p. 301. https://archive.org/details/one-nation-under-blackmail-all
-[^14]: Seymour, *The Last Circle*, ch. 25, "Rachel's Resolution," pp. 404-405. https://archive.org/details/RachelsResolution Sole source for the passages so cited.
+[^14]: Seymour, *The Last Circle*, ch. 25, "Rachel's Resolution," pp. 404-405. https://archive.org/details/RachelsResolution
 [^15]: Thomas and Keith, *The Octopus*, text near pp. 28-36, citing Jonathan Littman and Taylor, "Bizarre Murders Puzzle Cops," San Francisco Chronicle, December 30, 1991. https://archive.org/details/the-octopus
-[^16]: Ted L. Gunderson to Hon. Victor Dahman, October 6, 1983, Danny Casolaro papers, Misc. Docs file. https://archive.org/details/casolaro-notebooks Sole source for the passages so cited.
-[^17]: "Statement of Michael J. Riconosciuto," February 16, 1984, Danny Casolaro papers, Misc. Docs file. https://archive.org/details/casolaro-notebooks Sole source for the passages so cited.
+[^16]: Ted L. Gunderson to Hon. Victor Dahman, October 6, 1983, Danny Casolaro papers, Misc. Docs file. https://archive.org/details/casolaro-notebooks
+[^17]: "Statement of Michael J. Riconosciuto," February 16, 1984, Danny Casolaro papers, Misc. Docs file. https://archive.org/details/casolaro-notebooks
 [^18]: Seymour, *The Last Circle*, ch. 17, "The Inslaw Affair," p. 344. https://archive.org/details/TheInslawAffair
 [^19]: John Hussar, "Crime probes tied to Nichols associates," Desert Sun (Palm Springs), March 21, 1985, p. 1 (reprint). https://www.maebrussell.com/Inslaw/Desert%20Sun%203-21-85.html
-[^20]: "Transcript of Meeting," Alan D. Boyack, Ted Gunderson and Michael James Riconosciuto, May 5, 1991, Tacoma, Washington, pp. 19-21. https://archive.org/details/CasolaroTranscriptBoyackGundersonRiconsosciuto Sole source for the passages so cited.
+[^20]: "Transcript of Meeting," Alan D. Boyack, Ted Gunderson and Michael James Riconosciuto, May 5, 1991, Tacoma, Washington, pp. 19-21. https://archive.org/details/CasolaroTranscriptBoyackGundersonRiconsosciuto
 [^21]: Cheri Seymour, "VORTEX" summary dated February 24, 1992, attached to her affidavit notarized in Mariposa County, October 1992. https://archive.org/details/VORTEXDocument
 [^22]: United States Department of Justice, report of investigation into the death of Daniel J. Casolaro. https://archive.org/details/DOJReportOnDanielJCasolaro
 [^23]: Bob Calhoun, "Yesterday's Crimes: A Box of Bones and the Disappearance of Valerie McDonald", SF Weekly, May 19, 2016. https://www.sfweekly.com/archives/yesterdays-crimes-a-box-of-bones-and-the-disappearance-of-valerie-mcdonald/article_54507c94-4364-51d0-968e-f93582d23a9c.html

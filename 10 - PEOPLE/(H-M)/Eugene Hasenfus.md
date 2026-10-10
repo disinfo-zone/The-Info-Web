@@ -87,5 +87,5 @@ Hasenfus was tried in Nicaragua and sentenced to 30 years in prison on charges r
 [^10]: Warren Richey and George D. Moffett III, "Credibility crisis over downed plane," *The Christian Science Monitor*, October 10, 1986, https://www.csmonitor.com/1986/1010/ashot.html, and Marshall Ingwerson, "Contra aid shadow dance," December 15, 1986, https://www.csmonitor.com/1986/1215/atrans.html (Corporate Air Services paychecks).
 [^11]: Walsh, chapter 8 (Southern Air Transport; $1,935,596).
 [^12]: Walsh, chapter 17, "United States v. Clair E. George." https://irp.fas.org/offdocs/walsh/chap_17.htm
-[^13]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998, chapter 18, "We bust our ass and the government's involved." Sole source for the Fiers quotation and the cover-up passage as carried here.
+[^13]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998, chapter 18, "We bust our ass and the government's involved."
 [^14]: CIA Office of Congressional Affairs, memorandum for the record, "HPSCI Staff Briefing on Crash of C-123 in Nicaragua," OCA 86-3489, October 16, 1986, paragraph 12. https://archive.org/details/cia-readingroom-document-cia-rdp90b01390r000400550034-9

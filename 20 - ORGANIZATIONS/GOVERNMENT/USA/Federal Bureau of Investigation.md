@@ -61,7 +61,7 @@ relations:
     with: "[[Alvin Johnson]]"
     reverse: true
     start: 1930
-    role: "met regularly with FBI officials to report on the New School faculty, by his own acknowledgment in private letters; sole source"
+    role: "met regularly with FBI officials to report on the New School faculty, by his own acknowledgment in private letters"
     fn: 20
 ---
 
@@ -91,7 +91,7 @@ The Justice Department Inspector General's 1997 review found five FBI files on [
 
 On December 12, 1986, the Los Angeles FBI office teletyped headquarters that it saw no connection between Lister and "Front Door," the Bureau's investigation of alleged neutrality violations in the covert arms sales to Iran, which the Independent Counsel later took over. Headquarters asked that Lister be questioned about [[Richard Secord]], [[Albert Hakim]] and Stanford Technology, and on December 22, 1986, Lister denied knowing them. On December 23 the Bureau suspended Front Door inquiries pending the appointment of Special Counsel [[Lawrence Walsh]]. On February 3, 1987, an informant reported that Lister had told a neighbor over drinks that he worked for [[Oliver North]] and Secord and had sent arms shipments to the Contras. Assistant U.S. Attorney [[Crossan Andersen]] reported this to Public Integrity Section attorney William Hendricks III, who advised that the drug investigation could continue so long as it did not conflict with Front Door, and Andersen asked that Lister and the neighbor not be interviewed, citing the effect on the drug case.[^6]
 
-[[Gary Webb]] wrote that FBI agent [[Douglas Aukland]] was assigned to Operation Front Door in November 1986 and investigated connections between Lister and North's arms ring, and that the Los Angeles office declared "no connection." Webb is the sole source for the November 1986 assignment date.[^7]
+[[Gary Webb]] wrote that FBI agent [[Douglas Aukland]] was assigned to Operation Front Door in November 1986 and investigated connections between Lister and North's arms ring, and that the Los Angeles office declared "no connection."[^7]
 
 ### Meneses, Blandon and the San Francisco Case
 
@@ -99,7 +99,7 @@ Webb wrote that in 1982 the FBI identified [[Fernando Sanchez]] and [[Horacio Pe
 
 The Inspector General found that the San Francisco FBI and U.S. Attorney's Office were surprised in early 1987 to learn that the DEA's Costa Rica office had taken Meneses and a DEA informant to Los Angeles in December 1986 to meet [[Danilo Blandon]]; Aukland, the lead FBI agent on the Los Angeles Organized Crime Drug Enforcement Task Force case, was upset not to have interviewed Meneses first. In February 1987 the agencies agreed Meneses could be used as a source if he pleaded guilty to a cocaine charge in San Francisco; the San Francisco FBI opened a case and held it inactive. The Los Angeles case closed in July 1987. In February 1989, shortly before the statute of limitations expired, the San Francisco FBI and U.S. Attorney's Office obtained a sealed indictment of Meneses; the Inspector General found the warrant was entered in the FBI database, contrary to the Mercury News account, and that Meneses was not arrested while working for the DEA. An FBI informant had told Special Agent Donald Hale in October 1987 that Meneses was telling associates he was a CIA informant, which was why he had not been arrested. The Inspector General found no evidence of a CIA connection and attributed the outcome to poor coordination and shifting views on whether Meneses was a target or an informant.[^9]
 
-Webb gave a different account of the same February 1987 events: San Francisco FBI agents presented U.S. Attorney [[Joseph Russoniello]] a memo charging Meneses with running a continuing criminal enterprise, and Russoniello's office rejected it within a week, citing a "cooperation agreement" that Justice Department investigators later determined never existed. Webb is the sole source for the passages so cited.[^10]
+Webb gave a different account of the same February 1987 events: San Francisco FBI agents presented U.S. Attorney [[Joseph Russoniello]] a memo charging Meneses with running a continuing criminal enterprise, and Russoniello's office rejected it within a week, citing a "cooperation agreement" that Justice Department investigators later determined never existed.[^10]
 
 ### Contra Drug Information in FBI Hands
 
@@ -129,12 +129,12 @@ The Justice Department Office of Professional Responsibility reported that in ea
 [^2]: HSCA Outside Contact Report 008624, FBI notes of January 26, 1978, request on "Fred Lee Crisman Vol. 1 of 3," NARA record 180-10085-10264, dated May 18, 1978, https://archive.org/details/crisman_fbifile ; same record at https://www.maryferrell.org/showDoc.html?docId=149142
 [^3]: FBI Office Memorandum, March 22, 1950, FBI FOIA cover sheet "Guy Hottel (3-22-1950)," https://archive.org/details/GuyHottel
 [^4]: Department of the Army, ACSI (DAMI-ISH) action memorandum "FBI Support of GRILL FLAME," April 30, 1979, and memorandum thru Director FBI for Assistant Director, Training Division, "Nomination of FBI Member to Assist on Army Project," signed E. R. Thompson, CIA-RDP96-00788R001100440022-9, -0023-8 and -0024-7, https://archive.org/details/CIA-RDP96-00788R001100440022-9
-[^5]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997. Sole source for the passages so cited.
+[^5]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997.
 [^6]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions* (December 1997), Chapter V (Ronald Lister), https://oig.justice.gov/sites/default/files/legacy/special/9712/ch05p1.htm
-[^7]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter." Sole source for the passages so cited.
-[^8]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know." Sole source for the passages so cited.
+[^7]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter."
+[^8]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know."
 [^9]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Executive Summary section III, and Chapter III (Norwin Meneses), https://oig.justice.gov/sites/default/files/legacy/special/9712/exsump1.htm and https://oig.justice.gov/sites/default/files/legacy/special/9712/ch03p2.htm
-[^10]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter." Sole source for the passages so cited.
+[^10]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter."
 [^11]: U.S. Senate Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy*, S. Prt. 100-165 (December 1988), https://archive.org/details/Kerry-Report-Drugs-Contras
 [^12]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter XI, section D, https://oig.justice.gov/sites/default/files/legacy/special/9712/ch11p1.htm
 [^13]: U.S. Senate Committee on Foreign Relations, *The BCCI Affair*, report by Senators John Kerry and Hank Brown (December 1992), section on Operation C-Chase, https://archive.org/details/thebcciaffair_202003
@@ -144,8 +144,8 @@ The Justice Department Office of Professional Responsibility reported that in ea
 [^17]: SAC, Washington Field Office, memorandum to the Director, file 100-1849, Wilhelm Reich FBI file, Part 2 (PDF pages 129 and 130), https://archive.org/details/WilhelmReichFBI.
 [^18]: Witkin to the Director, December 9, 1957, with autopsy report of November 26, 1957 and FBI Laboratory report of January 2, 1958, same file, Part 6 (PDF pages 21 to 24).
 [^19]: Boston airtel of March 12, 1957, Wilhelm Reich FBI file, Part 6, https://archive.org/details/WilhelmReichFBI.
-[^20]: Peter Rutkoff and William Scott, New School: A History of the New School for Social Research (New York: Free Press, 1986), p. 226. Sole source for the FBI reporting.
-[^21]: Rutkoff and Scott, New School, p. 226 and note 22, p. 296: "Johnson to Urban (December 9, 1948), JPYU; memorandum (January 27, 1942), Hans Eisler File, Rockefeller Foundation Archives." The note names no author for the memorandum. Sole source for the enemy alien monitoring.
+[^20]: Peter Rutkoff and William Scott, New School: A History of the New School for Social Research (New York: Free Press, 1986), p. 226.
+[^21]: Rutkoff and Scott, New School, p. 226 and note 22, p. 296: "Johnson to Urban (December 9, 1948), JPYU; memorandum (January 27, 1942), Hans Eisler File, Rockefeller Foundation Archives." The note names no author for the memorandum.
 [^22]: Rutkoff and Scott, New School, p. 135.
 [^23]: Rutkoff and Scott, New School, p. 228.
 [^24]: Alvin Johnson, Pioneer's Progress (Viking Press, 1952; University of Nebraska Press, 1960), p. 370.

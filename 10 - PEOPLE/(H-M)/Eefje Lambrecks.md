@@ -30,7 +30,7 @@ The commission's chronology records that on the evening of August 22, 1995, at B
 
 ### Footnotes
 
-[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its placing of the bodies at Sars-la-Buissière, exhumed on September 16, 1996, is contradicted by contemporaneous reporting; it places the hypnosis show at Blankenberge, as does the commission's chronology; *Le Parisien* gives Ostend. Sole source for the passages so cited.
+[^1]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Its placing of the bodies at Sars-la-Buissière, exhumed on September 16, 1996, is contradicted by contemporaneous reporting; it places the hypnosis show at Blankenberge, as does the commission's chronology; *Le Parisien* gives Ostend.
 [^2]: Chambre des Représentants de Belgique. *Enquête parlementaire sur la manière dont l'enquête, dans ses volets policiers et judiciaires, a été menée dans l'affaire Dutroux-Nihoul et consorts,* rapport, Doc. 713/6-96/97, April 18, 1997, pp. 78-80 and table 7, p. 272; translated from the French. https://www.dekamer.be/FLWB/PDF/49/0713/49K0713006.pdf
 [^3]: Fleury, Elisabeth. "Le calvaire d'An et Eefje." *Le Parisien,* April 5, 2004; translated from the French. https://www.leparisien.fr/faits-divers/le-calvaire-d-an-et-eefje-05-04-2004-2004887724.php
 [^4]: "Nihoul acquitté pour les enlèvements." *La Dernière Heure,* June 17, 2004; translated from the French. https://www.dhnet.be/actu/faits/2004/06/17/nihoul-acquitte-pour-les-enlevements-MF73NPYQVBC25I2Y6P54BXIQDA/

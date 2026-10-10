@@ -64,6 +64,6 @@ TrineDay published *The Last Circle* in September 2010 (ISBN 978-1-936296-00-2; 
 [^2]: Radio Free Kansas, interview "Cheri Seymour 'The Last Circle,'" October 20, 2010, program notes. https://archive.org/details/CheriSeymourtheLastCircle
 [^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010; Open Library records 1936296004 and 9781936296002 (599 pages). https://openlibrary.org/search?q=last+circle+seymour+casolaro
 [^4]: Same as note 2.
-[^5]: Seymour, *The Last Circle*, chapter 17, "The Inslaw Affair," pp. 247 ff. https://archive.org/details/TheInslawAffair. Sole source for the passages so cited (Gates, Stavin and Rudnick statements as she records them).
-[^6]: Seymour, *The Last Circle*, chapter 22, "The Octopus Exposed," pp. 337 ff. https://archive.org/details/TheOctopusExposed. Sole source for the Zokosky meeting.
+[^5]: Seymour, *The Last Circle*, chapter 17, "The Inslaw Affair," pp. 247 ff. https://archive.org/details/TheInslawAffair.
+[^6]: Seymour, *The Last Circle*, chapter 22, "The Octopus Exposed," pp. 337 ff. https://archive.org/details/TheOctopusExposed.
 [^7]: Seymour, *The Last Circle*, chapter 25, "Rachel's Resolution," pp. 393 ff. https://archive.org/details/RachelsResolution

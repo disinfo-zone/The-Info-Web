@@ -40,6 +40,6 @@ The situation "eventually resolved itself, after Russo complained about a teleph
 ### Footnotes
 
 [^1]: Rudy Havenstein, "Dr. Green and the Goblins of Langley," Substack, July 11, 2025, https://rudy.substack.com/p/dr-green-and-the-goblins-of-langley, quoting *Grey Lodge Occult Review* 1, no. 5. Schnabel's own list of pseudonyms in *Remote Viewers* (Dell, 1997), "Pseudonyms," includes Richard Kennett, Peter Crane, Don Curtis and Mike Russo: https://archive.org/details/jim-schnabel-remote-viewers-the-secret-history-of-americas-psychic-spies_2.
-[^2]: Jim Schnabel, *Remote Viewers: The Secret History of America's Psychic Spies* (Dell, 1997), as excerpted at the Havenstein URL above. Sole source for the passages so cited.
+[^2]: Jim Schnabel, *Remote Viewers: The Secret History of America's Psychic Spies* (Dell, 1997), as excerpted at the Havenstein URL above.
 [^3]: Annie Jacobsen, *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis* (Little, Brown, 2017), quoting Christopher Green; as quoted at https://schwabstack.substack.com/p/spies-of-the-superspectral-order.
 [^4]: CIA-RDP79-00999A000200010023-0, https://archive.org/download/cia-readingroom-document-cia-rdp79-00999a000200010023-0/cia-rdp79-00999a000200010023-0_djvu.txt.

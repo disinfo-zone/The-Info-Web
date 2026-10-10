@@ -92,28 +92,28 @@ A July 1978 [[U.S. Army Intelligence and Security Command]] session report on th
 [^2]: Sinclair, Upton. *Mental Radio*. Revised second printing, introduction by William McDougall, preface by Albert Einstein dated May 23, 1930, report by Walter Franklin Prince. Springfield, Illinois: Charles C Thomas (copyright 1930 and 1962). https://archive.org/details/mentalradio017719mbp
 [^3]: Gregory, Anita. Introduction (1976), p. xxx, in Vasiliev, L. L., *Experiments in Mental Suggestion*. Charlottesville, Virginia: Hampton Roads, 2002 (originally copyrighted 1963 by the Institute for the Study of Mental Images). Gregory states that Rhine said "authoritative sources in Washington denied all knowledge of such 'experiments'." https://archive.org/details/experimentsinmen0000vasi
 [^4]: LaMothe, John D. "Controlled Offensive Behavior: USSR." Medical Intelligence Office, Office of the Surgeon General, Department of the Army, ST-CS-01-169-72, DIA Task T72-01-14, July 1972. Reference 77. https://cia.gov/readingroom/document/cia-rdp96-00788r001300020001-6
-[^5]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. New York: Dell, 1997. Pages 90-93 (Nautilus, Bergier, Messadié, Naumov, Vasiliev, Kogan, Ryzl and Stepanek). Sole source for the passages so cited.
+[^5]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. New York: Dell, 1997. Pages 90-93 (Nautilus, Bergier, Messadié, Naumov, Vasiliev, Kogan, Ryzl and Stepanek).
 [^6]: Ostrander, Sheila, and Lynn Schroeder. *Psychic Discoveries Behind the Iron Curtain*. Englewood Cliffs, New Jersey: Prentice-Hall, 1970. Pages 6-7. https://archive.org/details/psychicdiscover00ostr
 [^7]: LaMothe, John D. "Controlled Offensive Behavior: USSR." Medical Intelligence Office, Office of the Surgeon General, Department of the Army, ST-CS-01-169-72, DIA Task T72-01-14, July 1972. Section II, paragraphs 1 to 9. https://cia.gov/readingroom/document/cia-rdp96-00792r000600360001-2
 [^8]: Maire, Louis F., III, and John D. LaMothe. "Soviet and Czechoslovakian Parapsychology Research." DST-1810S-387-75, Defense Intelligence Agency, September 1975. https://cia.gov/readingroom/document/cia-rdp96-00787r000500420001-2
-[^9]: Schnabel, *Remote Viewers*, p. 93. Sole source for the passages so cited.
+[^9]: Schnabel, *Remote Viewers*, p. 93.
 [^10]: Gregory, Introduction, p. xxx (Vasiliev's positions and honors), in Vasiliev, *Experiments in Mental Suggestion*.
 [^11]: Ullman, Montague, and Stanley Krippner, with Alan Vaughan. *Dream Telepathy*. New York: Macmillan, 1973. Page 10 (Vasiliev). https://archive.org/details/dreamtelepathy0000ullm
 [^12]: Vasiliev, L. L. *Experiments in Mental Suggestion*. Hampshire, England: Institute for the Study of Mental Images, 1963; Charlottesville, Virginia: Hampton Roads, 2002. https://archive.org/details/experimentsinmen0000vasi
 [^13]: Tarasenko, F. P. "In Regard to I. M. Kogan's Article, 'Is Telepathy Possible?'" *Radiotekhnika* 22, no. 3 (1967): 111. Foreign Technology Division translation FTD-ID(RS)T-1437-77, August 19, 1977. https://archive.org/details/DTIC_ADA051478
 [^14]: Targ, Russell, and Harold E. Puthoff. "Information Transmission Under Conditions of Sensory Shielding." *Nature* 251 (October 18, 1974): 602-607. https://www.nature.com/articles/251602a0 Reprint at https://cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8
-[^15]: Schnabel, *Remote Viewers*, pp. 154-155. Sole source for the passages so cited.
+[^15]: Schnabel, *Remote Viewers*, pp. 154-155.
 [^16]: "Investigating the paranormal." Leading article, *Nature* 251 (October 18, 1974). Reprint at https://cia.gov/readingroom/document/cia-rdp96-00787r000200090024-7
 [^17]: Utts, Jessica. "Replication and Meta-Analysis in Parapsychology." *Statistical Science* 6, no. 4 (1991): 363-403. https://cia.gov/readingroom/document/cia-rdp96-00789r003100010001-6
 [^18]: Hyman, Ray, and Charles Honorton. "A Joint Communiqué: The Psi Ganzfeld Controversy." *Journal of Parapsychology* 50 (1986): 351-364, abstract at p. 351, as quoted in Bem, Daryl J., and Charles Honorton, "Does Psi Exist? Replicable Evidence for an Anomalous Process of Information Transfer," *Psychological Bulletin* 115, no. 1 (1994): 4-18 (also quoted in Utts 1991; Bem and Honorton also summarize Hyman's 1985 critique and Honorton's 1985 rejoinder). https://cia.gov/readingroom/document/cia-rdp96-00789r003200110001-4
 [^19]: Hyman and Honorton 1986, p. 352, as quoted in Bem and Honorton 1994 (CIA-RDP96-00789R003200110001-4).
 [^20]: Hyman, Ray. "Anomaly or Artifact? Comments on Bem and Honorton." *Psychological Bulletin* 115, no. 1 (1994): 19-24. https://cia.gov/readingroom/document/cia-rdp96-00789r003200100001-5
-[^21]: Schnabel, *Remote Viewers*, pp. 42-45. Sole source for the passages so cited.
-[^22]: Schnabel, *Remote Viewers*, p. 46. Sole source for the passages so cited.
+[^21]: Schnabel, *Remote Viewers*, pp. 42-45.
+[^22]: Schnabel, *Remote Viewers*, p. 46.
 [^23]: Central Intelligence Agency memorandum SG1I, "US Use of 'Psychic Spies' Reported," August 28, 1995, forwarding newswire item NWS-95-01267263 (FBIS wire, August 27, 1995). https://cia.gov/readingroom/document/cia-rdp96-00791r000100030073-5
-[^24]: Schnabel, *Remote Viewers*, pp. 57-59. Sole source for the passages so cited.
-[^25]: Schnabel, *Remote Viewers*, p. 68. Sole source for the passages so cited.
+[^24]: Schnabel, *Remote Viewers*, pp. 57-59.
+[^25]: Schnabel, *Remote Viewers*, p. 68.
 [^26]: Grill Flame remote viewing session report, July 1978, U.S. Army Intelligence and Security Command. https://cia.gov/readingroom/document/cia-rdp96-00788r000200300001-7
-[^27]: Tsykunov, I. V. "От фантазии к реальности: как история «Наутилуса» открыла гонку сверхъестественных вооружений между СССР и США" [From fantasy to reality: how the story of the Nautilus opened the race for supernatural weapons between the USSR and the USA]. Aliter, no. 20 (2023), pp. 34-55. https://cyberleninka.ru/article/n/ot-fantazii-k-realnosti-kak-istoriya-nautilusa-otkryla-gonku-sverhestestvennyh-vooruzheniy-mezhdu-sssr-i-ssha. Sole source for the passages so cited.
+[^27]: Tsykunov, I. V. "От фантазии к реальности: как история «Наутилуса» открыла гонку сверхъестественных вооружений между СССР и США" [From fantasy to reality: how the story of the Nautilus opened the race for supernatural weapons between the USSR and the USA]. Aliter, no. 20 (2023), pp. 34-55. https://cyberleninka.ru/article/n/ot-fantazii-k-realnosti-kak-istoriya-nautilusa-otkryla-gonku-sverhestestvennyh-vooruzheniy-mezhdu-sssr-i-ssha.
 [^28]: Anfilov, Gleb. "Is Telepathy Possible?" *The Soviet Review*, vol. 2, no. 6 (June 1961), pp. 3-7, translated from Znanie-Sila, 1960, no. 12. https://archive.org/details/sim_russian-social-science-review_1961-06_2_6
 [^29]: Newsletter of the Parapsychology Foundation, "Nautilus Hoax Exposed," vol. 10, no. 6, November-December 1963, citing This Week, September 8, 1963. NSA-RDP96X00790R000100040002-2, https://www.cia.gov/readingroom/document/nsa-rdp96x00790r000100040002-2.

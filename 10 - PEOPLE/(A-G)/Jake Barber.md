@@ -56,11 +56,11 @@ On January 24, 2025 Barber told Coulthart's "[[Reality Check (NewsNation)|Realit
 
 ### Footnotes
 
-[^1]: Ross Coulthart, "Whistleblower reveals UAP retrieval program; object caught on video" (full special article), NewsNation, updated January 27, 2025. https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/ . Sole source for the passages so cited, which are Barber's own statements and NewsNation's account of its verification.
+[^1]: Ross Coulthart, "Whistleblower reveals UAP retrieval program; object caught on video" (full special article), NewsNation, updated January 27, 2025. https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/ . The passages are Barber's own statements and NewsNation's account of its verification.
 [^2]: Michael Ramsey, "Skywatcher video of 'summoned' UFOs coming soon: Ross Coulthart," NewsNation, updated April 7, 2025. https://www.newsnationnow.com/space/ufo/summoned-ufos-video-ross-coulthart/
-[^3]: Jason Colavito, "In Brief: NewsNation Offers a New UFO 'Crash Retrieval' Story," January 19, 2025. https://www.jasoncolavito.com/blog/in-brief-newsnation-offers-a-new-ufo-crash-retrieval-story . Colavito reports Greenstreet's New York Post reporting at second hand; Sole source for the passages so cited.
+[^3]: Jason Colavito, "In Brief: NewsNation Offers a New UFO 'Crash Retrieval' Story," January 19, 2025. https://www.jasoncolavito.com/blog/in-brief-newsnation-offers-a-new-ufo-crash-retrieval-story . Colavito reports Greenstreet's New York Post reporting at second hand;
 [^4]: Michael Ramsey, "UFO whistleblower Jake Barber's claims being investigated by Pentagon," NewsNation, updated February 24, 2025. https://www.newsnationnow.com/space/ufo/pentagon-investigates-ufo-claims/
 [^5]: Ross Coulthart, "UAP recovery video shows 'egg-shaped' object: Exclusive," NewsNation, updated January 18, 2025. https://www.newsnationnow.com/space/ufo/uap-recovery-video-shows-egg-shaped-object-exclusive/
 [^6]: "UAP whistleblower says UFO retrieval program exists: NewsNation exclusive," NewsNation, January 16, 2025. https://www.newsnationnow.com/space/ufo/uap-whistleblower-ufo-retrieval-program/
-[^7]: Jimmy, "Skywatcher: The Disclosure Team That Disappeared - I Tracked Their Helicopter," UAP Files, August 12, 2026. https://uapf.substack.com/p/skywatcher-the-disclosure-team-that . Sole source for the quotation as dated.
+[^7]: Jimmy, "Skywatcher: The Disclosure Team That Disappeared - I Tracked Their Helicopter," UAP Files, August 12, 2026. https://uapf.substack.com/p/skywatcher-the-disclosure-team-that .
 [^8]: Ross Coulthart, "Is the Trump administration running a covert UFO program?," NewsNation Reality Check, about August 2026. https://www.newsnationnow.com/podcasts-newsnation/reality-check/trump-administration-covert-ufo-program/amp/

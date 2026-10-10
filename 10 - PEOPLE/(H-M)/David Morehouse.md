@@ -115,8 +115,8 @@ In 1997, according to the same biography, Morehouse formed Remote Viewing Techno
 [^6]: "Will the Real Scott Jones Please Stand Up?," undated memorandum, CIA-RDP96-00792R000400300004-7, read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection, https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000400300004-7.
 [^7]: Schnabel, *Remote Viewers*, Dell, 1997, chapter on the end of the program, with footnote on the woman's testimony.
 [^8]: Schnabel, Jim, "The Truth About Dave Morehouse and Psychic Warrior (Part 1 of 2)," November 7, 1996, and "(Part 2)," originally hosted at psitech.tripod.com, read in the Wayback Machine capture of January 12, 2014, https://web.archive.org/web/2010/http://psitech.tripod.com/schnabel.html and https://web.archive.org/web/2010/http://psitech.tripod.com/schnabel2.html.
-[^9]: "Psychic spy speaks on homeland defense," *Pleasanton Weekly*, November 2, 2001, https://www.pleasantonweekly.com/morgue/2001/2001_11_02.psychic2.html, quoting Morehouse's web site. Sole source for the passages so cited, apart from the dates in Schnabel's account.
-[^10]: Morehouse, David, "Biography," davidmorehouse.com, https://davidmorehouse.com/about/. Sole source for the passages so cited.
+[^9]: "Psychic spy speaks on homeland defense," *Pleasanton Weekly*, November 2, 2001, https://www.pleasantonweekly.com/morgue/2001/2001_11_02.psychic2.html, quoting Morehouse's web site.
+[^10]: Morehouse, David, "Biography," davidmorehouse.com, https://davidmorehouse.com/about/.
 [^11]: Schnabel, *Remote Viewers*, Dell, 1997, acknowledgments and source notes; Alexander, "Review of Psychic Warrior," https://www.stunned.org/spook/spook/www.psitech.net/morehouse.htm.
 [^12]: May, Edwin, Cognitive Sciences Laboratory, "Re: Publicity and things," September 21, 1995, CIA-RDP96-00791R000100030077-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030077-1.
 [^13]: Schnabel, *Remote Viewers*, Dell, 1997, chapter on the end of the program and source notes (citing Fleming 1995 for the film deal).

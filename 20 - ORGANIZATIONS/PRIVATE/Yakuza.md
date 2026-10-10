@@ -120,4 +120,4 @@ Seymour wrote that Okimoto's company, [[Island Tobacco]], sold cigarettes at the
 [^25]: U.S. Department of Justice release of March 3, 2026 on the sentencing of Takeshi Ebisawa, as posted by the Internal Revenue Service, https://www.irs.gov/node/157161.
 [^26]: Asahi Shimbun, "Police struggle to prevent gangsters from profiting in disaster areas," Asahi Asia & Japan Watch, January 31 to February 1, 2013, as archived by the Japan Disaster Archive, https://jdarchive.org/api/item/1698468.
 [^27]: Jake Adelstein, "How the Yakuza and Japan's Nuclear Industry Learned to Love Each Other," The Atlantic Wire, reprinted by TRANSCEND Media Service on July 22, 2013, https://www.transcend.org/tms/?p=32135.
-[^28]: Cheri Seymour, *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal* (TrineDay, 2010). Sole source for the passages so cited.
+[^28]: Cheri Seymour, *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal* (TrineDay, 2010).

@@ -99,17 +99,17 @@ A Science article listed on Schnabel's website is "New Alzheimer's therapy sugge
 
 [^8]: Jim Schnabel, *Remote Viewers* (Dell, 1997), acknowledgments; chapter notes on the Morehouse case and on the Project Landbroker memoranda, including the citation "Released to the author after a FOIA request, 1995. Pages heavily redacted."
 
-[^9]: Joseph W. McMoneagle, memorandum on a production for British television, May 30, 1995, CIA-RDP96-00791R000200190069-2, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000200190069-2. Sole source for the passages so cited.
+[^9]: Joseph W. McMoneagle, memorandum on a production for British television, May 30, 1995, CIA-RDP96-00791R000200190069-2, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000200190069-2.
 
-[^10]: Edwin C. May, memorandum "Publicity and British TV," May 31, 1995, CIA-RDP96-00791R000200190068-3, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000200190068-3. Sole source for the passages so cited.
+[^10]: Edwin C. May, memorandum "Publicity and British TV," May 31, 1995, CIA-RDP96-00791R000200190068-3, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000200190068-3.
 
 [^11]: Jim Schnabel and Bill Eagles, *The Real X-Files*, one-hour documentary for Channel Four (U.K.), first broadcast August 27, 1995, with a U.S. broadcast on the Discovery Channel on March 12, 1996; Schnabel writer and narrator, Eagles director, Alex Graham of Wall to Wall TV executive producer. Bibliography of Jim Schnabel, *Remote Viewers* (Dell, 1997).
 
 [^12]: Jim Schnabel, "Tinker, Tailor, Soldier, Psi," *The Independent on Sunday*, Sunday Review, August 27, 1995, pp. 10-13, as transcribed by the Foreign Broadcast Information Service and filed in CIA memorandum "US Use of 'Psychic Spies' Reported," August 28, 1995, CIA-RDP96-00791R000100030073-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030073-5. Online edition, https://www.the-independent.com/arts-entertainment/tinker-tailor-soldier-psi-1598203.html.
 
-[^13]: Edwin C. May, memorandum "Publicity and things," September 21, 1995, CIA-RDP96-00791R000100030077-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030077-1. Sole source for the passages so cited.
+[^13]: Edwin C. May, memorandum "Publicity and things," September 21, 1995, CIA-RDP96-00791R000100030077-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030077-1.
 
-[^14]: Bill Eatwell, "Crop Circle Update - Field of Schemes I," *HUFON Report* (Houston UFO Network), posted by the MUFONET-BBS network January 29, 1993, and to Usenet February 11, 1993, https://docs.google.com/document/d/16wziNWOWDT9wAMM4RbrzUuMBboEDxWrX/export?format=txt, reproducing the introduction to the interview prepared for *The Circular*, a reply by George Wingfield, and Eatwell's summary of Jim Schnabel, "Confessions of a Crop Circle Spy," *MUFON UFO Journal*, November 1992. Sole source for the passages so cited; the contents of the MUFON article are as summarized by Eatwell.
+[^14]: Bill Eatwell, "Crop Circle Update - Field of Schemes I," *HUFON Report* (Houston UFO Network), posted by the MUFONET-BBS network January 29, 1993, and to Usenet February 11, 1993, https://docs.google.com/document/d/16wziNWOWDT9wAMM4RbrzUuMBboEDxWrX/export?format=txt, reproducing the introduction to the interview prepared for *The Circular*, a reply by George Wingfield, and Eatwell's summary of Jim Schnabel, "Confessions of a Crop Circle Spy," *MUFON UFO Journal*, November 1992. The contents of the MUFON article are as summarized by Eatwell.
 
 [^15]: Jim Schnabel, "New Alzheimer's therapy suggested," *Science* 260 (June 18, 1993): 1719-20, PubMed 8323582, https://pubmed.ncbi.nlm.nih.gov/8323582/.
 

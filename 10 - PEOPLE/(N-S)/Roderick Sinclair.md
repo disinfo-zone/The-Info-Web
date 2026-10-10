@@ -31,6 +31,6 @@ The writer Cheri Seymour wrote that nurses at Fremont Hospital, where Sinclair w
 
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Its description of a civil ruling ordering Mariposa County to pay 70 percent of the claim, and of Eckerson as appointed to replace the CHP report, is contradicted by the court record and by contemporaneous reporting. Sole source for the passages so cited.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Its description of a civil ruling ordering Mariposa County to pay 70 percent of the claim, and of Eckerson as appointed to replace the CHP report, is contradicted by the court record and by contemporaneous reporting.
 [^2]: *LaBarge v. County of Mariposa,* 798 F.2d 364 (9th Cir. 1986).
 [^3]: "Highway Patrol's Crash investigation questioned." United Press International, September 25, 1983. https://www.upi.com/Archives/1983/09/25/Highway-Patrols-Crash-investigation-questioned/7300433310400/

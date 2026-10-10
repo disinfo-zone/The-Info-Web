@@ -38,6 +38,6 @@ Marks reports that Monroe told The New York Times on August 2, 1977 that "only a
 [^1]: John D. Marks, *The Search for the Manchurian Candidate*, Chapter 9.
 [^2]: Society for the Investigation of Human Ecology, 1957 Annual Report, officers and staff, "The Society," and address page. Wayback Machine capture of https://s3.documentcloud.org/documents/21090820/1957-annual-report-society-human-ecology.pdf
 [^3]: John D. Marks, *The Search for the Manchurian Candidate* (Times Books, 1979), chapter 9, p. 149 n.
-[^4]: David H. Price, "Buying a piece of anthropology, Part 1," *Anthropology Today* 23(3), June 2007. https://archive.org/details/human_ecology_torture_suicide . Sole source for the 1961-1963 directorship and Rhodes: Price.
-[^5]: Marks, *The Search for the Manchurian Candidate*, note on p. 207 (chapter "Conclusions"). Sole source for the Monroe quotation: Marks.
+[^4]: David H. Price, "Buying a piece of anthropology, Part 1," *Anthropology Today* 23(3), June 2007. https://archive.org/details/human_ecology_torture_suicide .
+[^5]: Marks, *The Search for the Manchurian Candidate*, note on p. 207 (chapter "Conclusions").
 [^6]: *Project MKULTRA, the CIA's Program of Research in Behavioral Modification*, Joint Hearing, August 3, 1977, testimony of John Gittinger.

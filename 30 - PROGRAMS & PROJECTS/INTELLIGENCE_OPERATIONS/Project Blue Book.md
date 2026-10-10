@@ -148,8 +148,8 @@ The Project 1947 site states that the Blue Book files lack some reports Hynek fo
 [^6]: Condon, Section V, chapter 2, p. 856.
 [^7]: F. C. Durant, memorandum on the "Report of Meetings of the Office of Scientific Intelligence Scientific Advisory Panel on Unidentified Flying Objects," Central Intelligence Agency, 16 February 1953, Condon Report Appendix U, https://files.ncas.org/condon/text/appndx-u.htm (Part I, Thursday morning; Part II, "Tremonton, Utah, Sighting" and "Educational Program"; Tab C, "Evidence Presented," listing "Progress Reports of Project STORK (code name for Battelle Memorial Institute contract work supporting ATIC)").
 [^8]: Condon, Section V, chapter 2, pp. 877-878 and 909-910.
-[^9]: Same book, chapter "Contact with the U.S. Air Force." Sole source.
-[^10]: Wilhelm Reich, Contact with Space: Oranur Second Report, 1951-1956 (Core Pilot Press, 1957), pp. 78 to 88, https://archive.org/details/wilhelm-reich-contact-with-space. Sole source.
+[^9]: Same book, chapter "Contact with the U.S. Air Force."
+[^10]: Wilhelm Reich, Contact with Space: Oranur Second Report, 1951-1956 (Core Pilot Press, 1957), pp. 78 to 88, https://archive.org/details/wilhelm-reich-contact-with-space.
 [^11]: Reich and Silvert petition for certiorari and Moise letter of October 9, 1954, Wilhelm Reich FBI file, Parts 4c and 5c, https://archive.org/details/WilhelmReichFBI.
 [^12]: Moise statement of February 26, 1957, Wilhelm Reich FBI file, Part 3 (PDF pages 27 and 28).
 [^13]: "Blue Book," NICAP, https://nicap.org/bios/WHO-WAS/BLUE_BOOK.htm.

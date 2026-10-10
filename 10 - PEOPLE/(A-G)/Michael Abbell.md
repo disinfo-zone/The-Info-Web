@@ -12,7 +12,7 @@ relations:
   - type: employed_by
     with: "[[Department of Justice]]"
     start: 1973
-    role: "staff assistant to an assistant attorney general; director, Office of International Affairs, Criminal Division, 1979-1982 (sole source: Seymour)"
+    role: "staff assistant to an assistant attorney general; director, Office of International Affairs, Criminal Division, 1979-1982, per Seymour"
     fn: 1
   - type: partner_of
     with: "[[Bruno Ristau]]"
@@ -42,6 +42,6 @@ According to Seymour, the last lead [[Danny Casolaro]] pursued before his death 
 
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. Sole source for the Justice Department career dates, the Kaplan firm and Riconosciuto's claims.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^2]: *United States v. Abbell,* 271 F.3d 1286 (11th Cir. 2001). https://openjurist.org/271/f3d/1286
 [^3]: *United States v. Abbell,* 963 F. Supp. 1178 (S.D. Fla. 1997), order denying motions to suppress. https://openjurist.org/963/fsupp/1178

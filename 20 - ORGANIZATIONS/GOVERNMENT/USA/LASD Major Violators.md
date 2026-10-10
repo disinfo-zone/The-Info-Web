@@ -98,7 +98,7 @@ The [[Los Angeles Police Department]] Inspector General reported to the City Cou
 
 ### Footnotes
 
-[^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 14, "It's bigger than I can handle." Sole source for the passages so cited (trailers, staffing, Fossey, the Guzzetta, Lichtman and Garner anecdotes).
+[^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 14, "It's bigger than I can handle."
 [^2]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy: A Review of the Justice Department's Investigations and Prosecutions* (December 1997), chapter II.E, "Los Angeles Sheriff's Department Investigation of Blandon"; chapter on Lister; and chapter IV on the Big Spender cases. https://oig.justice.gov/sites/default/files/archive/special/9712/ch02p2.htm (text copy at https://archive.org/details/crack-oigreport).
 [^3]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation: Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States* (96-0143-IG), Volume I, "The California Story," January 29, 1998, paragraphs 83 to 88 and 222 to 224. https://archive.org/details/ciaig-contra-crack-vols
 [^4]: "Scandals Damage LA Sheriff's Department," Associated Press, in *The Seattle Times*, December 16, 1990. https://archive.seattletimes.com/archive/19901216/1109823/scandals-damage-la-sheriffs-department

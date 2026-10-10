@@ -30,6 +30,6 @@ The next morning, Costa Rican Rural Guards awakened Kelso with automatic rifle f
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 11: "They were looking in the other direction"
-[^2]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters. Sole source for the passages so cited.
+[^2]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters.
 [^3]: CIA Inspector General, *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States*, Volume II (October 8, 1998), chapter on other individuals (John Hull; March 7, 1989 reporting; July 31, 1987 SSCI briefing transcript), https://irp.fas.org/cia/product/cocaine2/other.html
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 17: "We're going to blow your fucking head off"

@@ -41,7 +41,7 @@ The [[Hashemi Sting]] of 1985 and 1986, a [[U.S. Customs]] and [[Federal Bureau 
 [^4]: "Yaakov Nimrodi," obituaries, July 2016, as cited on the linked page.
 [^5]: Powers, Thomas. *The Man Who Kept the Secrets: Richard Helms and the CIA.* Knopf, 1979.
 [^6]: Trento, Joseph J. *Prelude to Terror: The Rogue CIA and the Legacy of America's Private Intelligence Network.* Carroll and Graf, 2005.
-[^7]: Ben-Menashe, *Profits of War*. Sole source for the December 1978 plan, the Joint Committee and the Jalali meeting.
+[^7]: Ben-Menashe, *Profits of War*.
 [^8]: Sick, Gary. *October Surprise: America's Hostages in Iran and the Election of Ronald Reagan.* Times Books, 1991.
 [^9]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997.
 [^10]: Walsh, Lawrence E. *Final Report of the Independent Counsel for Iran/Contra Matters.* 1993; Walsh, Lawrence E. *Firewall: The Iran-Contra Conspiracy and Cover-Up.* Norton, 1997; Secord, Richard, with Jay Wurts. *Honored and Betrayed.* Wiley, 1992.

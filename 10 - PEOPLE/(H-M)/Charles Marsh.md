@@ -32,8 +32,6 @@ No record of formal OSS or CIA employment for Marsh has been identified in acces
 
 An unsigned three-page investigative memo of unknown provenance, circulated among researchers studying [[The Finders]] in the mid-1990s, claims that Marsh introduced [[Marion Pettie]] to CIA-adjacent networks at the [[National Press Club]] after World War II and arranged funding for Virginia farmland purchases on Pettie's behalf, as part of a larger arrangement in which Colonel [[Leonard N. Weigner]] directed Pettie to embed within counterculture movements as an intelligence asset. The memo further claims Marsh arranged counterintelligence training for Pettie, citing Marsh's established Washington intelligence connections; a 1998 Steamshovel Press account adds that Marsh facilitated Pettie's tie to [[William Yandell Elliott]], a [[Harvard University|Harvard]] professor on the [[National Security Council]] planning board and a [[Radio Liberty]] trustee.[^3][^4]
 
-No primary source corroborates this claim. Marsh died on December 30, 1964, years before the counterculture movement took shape as a phenomenon, and before the CIA's domestic surveillance programs of the late 1960s were initiated. His Charles E. Marsh papers at the LBJ Presidential Library and his documented correspondence do not mention Pettie. The anonymous memo is the sole source for this claim.[^1][^3]
-
 ### Footnotes
 
 [^1]: Caro, Robert A. *The Path to Power*. Knopf, 1982. Also: Caro, Robert A. *Means of Ascent*. Knopf, 1990. Charles E. Marsh Papers, LBJ Presidential Library, Austin. Finding aid: discoverlbj.org/item/marshce.

@@ -48,7 +48,7 @@ Unit 8200 is the recruiting ground of the Israeli private surveillance industry;
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991: chapters 2, 3 and 5 (Bergmann, Suez, Dimona), 4, 8, 9, 11, 12, 14, 16 and 18 (U-2 imagery, Kennedy, Barbour, Duckett, Shapiro, the Liberty), 17 (the Yom Kippur War), 1 (Osirak and the KH-11 review), 21 and 22 (Pollard, Eitan, Sella, Garment), and pp. 313-314 (Vanunu).
-[^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992. Sole source for the Joint Committee, Eagle, Paraguay and SIMWA passages.
+[^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992.
 [^3]: Cohen, Yoel. *The Whistleblower of Dimona: Israel, Vanunu, and the Bomb.* Holmes and Meier, 2003.
 [^4]: Mangold, Tom. *Cold Warrior: James Jesus Angleton, the CIA's Master Spy Hunter.* Simon and Schuster, 1991, as cited on the Angleton page, whose KK MOUNTAIN passages carry no specific page citation.
 [^5]: Powers, Thomas. *The Man Who Kept the Secrets: Richard Helms and the CIA.* Knopf, 1979.

@@ -70,11 +70,11 @@ Cabezas pleaded guilty in 1984 to conspiracy to import cocaine and importation, 
 ### Footnotes
 
 [^1]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IX (Carlos Cabezas), sections A-E, https://oig.justice.gov/sites/default/files/archive/special/9712/ch09p1.htm
-[^2]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom." Sole source for the passages so cited.
+[^2]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom."
 [^3]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter IX, sections F-G (assessment of Cabezas' allegations), https://oig.justice.gov/sites/default/files/archive/special/9712/ch09p2.htm
 [^4]: Central Intelligence Agency, Office of Inspector General, *Report of Investigation (96-0143-IG)*, Volume I: The California Story, January 29, 1998, Findings (Northern California story, the Frogman Case), https://irp.fas.org/cia/product/cocaine/findings2.html
 [^5]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter VIII (Julio Zavala), sections A-B, https://oig.justice.gov/sites/default/files/archive/special/9712/ch08p1.htm
 [^6]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter VIII, sections C-G (CIA documents, interviews, the 1986 Examiner article, the return of the money), https://oig.justice.gov/sites/default/files/archive/special/9712/ch08p2.htm
 [^7]: U.S. Department of Justice Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter III (Norwin Meneses), sections A-E, https://oig.justice.gov/sites/default/files/archive/special/9712/ch03p1.htm
 [^8]: U.S. Senate Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy* (December 1988), pp. 59-60 (the San Francisco Frogman case, UDN-FARN and PCNE), https://archive.org/details/Kerry-Report-Drugs-Contras
-[^9]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 27: "A very difficult decision." Sole source for the passages so cited.
+[^9]: Webb, Gary. *Dark Alliance.* Seven Stories Press, 1998. Chapter 27: "A very difficult decision."

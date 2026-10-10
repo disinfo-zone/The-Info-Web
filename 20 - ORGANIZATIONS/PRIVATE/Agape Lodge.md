@@ -147,7 +147,7 @@ The wartime record places the following in defense or military technical work: P
 [^21]: Crowley, letter to Smith, April 1, 1943, aleistercrowleytimeline.com/Correspondence/1943/1943-04-01-Crowley-to-Smith.html; Smith, letter to Crowley, June 10, 1943, aleistercrowleytimeline.com/Correspondence/1943/1943-06-10-Smith-to-Crowley.html.
 [^22]: Crowley, letter to Smith, postmarked November 3, 1943, aleistercrowleytimeline.com/Correspondence/1943/1943-11-03-Crowley-to-Smith.html.
 [^23]: Smith, letter to Crowley, September 14, 1943, aleistercrowleytimeline.com/Correspondence/1943/1943-09-14-Smith-to-Crowley.html.
-[^24]: FBI Oklahoma City letter to the Bureau, March 31, 1944, file 100-189320-2, aleistercrowleytimeline.com/Diaries/Law-Enforcement/Parsons/1944-03-31-FBI-File.html. Sole source for the passages so cited; the informant's name is not given.
+[^24]: FBI Oklahoma City letter to the Bureau, March 31, 1944, file 100-189320-2, aleistercrowleytimeline.com/Diaries/Law-Enforcement/Parsons/1944-03-31-FBI-File.html. The informant's name is not given.
 [^25]: FBI file on John Whiteside Parsons, Part 1, report of the Dayton, Ohio field office recording the statement of Major Sam Bruno, Security Division, Command Provost Marshal's Office, Air Materiel Command, as in note 1.
 [^26]: FBI file on John Whiteside Parsons, Part 1, Los Angeles report of December 1950 with extracts of earlier reports (Oklahoma City file 100-189380-2; Los Angeles file 100-17453), as in note 1.
 [^27]: Crowley, letter to John W. Parsons, October 19, 1943, aleistercrowleytimeline.com/Correspondence/1943/1943-10-19-Crowley-to-Parsons.html.

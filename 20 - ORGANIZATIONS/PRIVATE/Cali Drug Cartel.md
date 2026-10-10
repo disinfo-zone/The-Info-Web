@@ -54,6 +54,6 @@ Historically, during [[Jimmy Carter]]'s presidency, his human rights foreign pol
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know"
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters
-[^4]: "¿Bombas contra Escobar?", *Semana*, April 12, 1992, https://www.semana.com/nacion/articulo/bombas-contra-escobar/17208-3. Sole source for the 1992 bomb-case details; the Cali cartel buyers are Semana's report of the arrested men's confessions and of an unnamed Salvadoran government source.
-[^5]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters. Sole source for the passages so cited.
+[^4]: "¿Bombas contra Escobar?", *Semana*, April 12, 1992, https://www.semana.com/nacion/articulo/bombas-contra-escobar/17208-3. The Cali cartel buyers are Semana's report of the arrested men's confessions and of an unnamed Salvadoran government source.
+[^5]: Gary Webb, *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion* (Seven Stories Press, 1998), Chapter 13, "The wrong kind of friends," and Cast of Characters.
 [^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 12: "This guy talks to God"

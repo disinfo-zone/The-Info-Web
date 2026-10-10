@@ -43,5 +43,5 @@ In 1963 the Sunday supplement [[This Week]] printed excerpts of the book as "The
 [^2]: Pauwels, Louis, and Jacques Bergier. *Le Matin des magiciens*, abridged and annotated university edition prepared by Yvonne Lenard with Monica Faulkner (Harper and Row, 1967), pp. 136-141. Annie Jacobsen, *Phenomena* (Little, Brown and Company, 2017), dates the sixteen-day period from July 25, 1958.
 [^3]: Newsletter of the Parapsychology Foundation, "Nautilus Hoax Exposed," vol. 10, no. 6, November-December 1963, citing This Week, September 8, 1963. NSA-RDP96X00790R000100040002-2, https://www.cia.gov/readingroom/document/nsa-rdp96x00790r000100040002-2.
 [^4]: Ebon, Martin. *Psychic Warfare: Threat or Illusion?* McGraw-Hill, 1983, chapter 3, pp. 29-31.
-[^5]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. Dell, 1997, pp. 90-93. Sole source for the passages so cited.
+[^5]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies*. Dell, 1997, pp. 90-93.
 [^6]: Trud, April 10, 1992, no. 61, FBIS translation, CIA-RDP96-00792R000500610010-5, https://cia.gov/readingroom/document/cia-rdp96-00792r000500610010-5.

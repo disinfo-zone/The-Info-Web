@@ -56,7 +56,7 @@ relations:
     role: "guide listing, advertising and Spartacus Club discount scheme"
     fn: 5
 ---
-Spartacus International was the Amsterdam-based publisher of the *Spartacus International Gay Guide* (in its thirteenth edition in 1983, edited by [[John Stamford]]) and of the Spartacus Club, a membership scheme that supplied guide copies, discounts and "Holiday Help Portfolios." In 1986 the *[[The Sunday Times|Sunday Times]]* reported that the Club's Manila portfolio led its reporters to boys for hire, and the organisation had been named in testimony to the U.S. Senate in 1984; the British writer S. Dovey has since assigned it a larger role in a network of brothels, concierges and film production, an account whose sole source is Dovey's own book.[^1][^2][^3]
+Spartacus International was the Amsterdam-based publisher of the *Spartacus International Gay Guide* (in its thirteenth edition in 1983, edited by [[John Stamford]]) and of the Spartacus Club, a membership scheme that supplied guide copies, discounts and "Holiday Help Portfolios." In 1986 the *[[The Sunday Times|Sunday Times]]* reported that the Club's Manila portfolio led its reporters to boys for hire, and the organisation had been named in testimony to the U.S. Senate in 1984; the British writer S. Dovey has since assigned it a larger role in a network of brothels, concierges and film production, an account found in Dovey's own book.[^1][^2][^3]
 
 ### Publisher and club
 
@@ -99,7 +99,7 @@ Bruno Gmünder Verlag of Berlin published the guide from 1987 and credited it to
 ### Footnotes
 [^1]: Mahmood, Mazher. "Scandal of Britons who buy young boys for £3 a night," *The Sunday Times* (London), August 3, 1986 (Insight), photographic copy at https://spotlightonabuse.wordpress.com/2013/03/16/scandal-of-britons-who-buy-young-boys-for-3-a-night-3-8-86/
 [^2]: U.S. Senate, Committee on Governmental Affairs, Permanent Subcommittee on Investigations, *Child Pornography and Pedophilia*, hearings, 98th Cong., 2d sess., part 1, November 29 and 30, 1984, statement of Defense for Children International. https://www.ncjrs.gov/pdffiles1/Digitization/98673NCJRS.pdf
-[^3]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited, including the account of the Elm Guest House sign, of Stamford's 1972 charge and clerical status, of the Belgian charge and his death, and of snuff-film and Operation Framework links.
+[^3]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
 [^4]: Spartacus International Gay Guide, 13th edition, 1983, order brochure ("Spartacus Club," "Holiday Help Portfolios," "Holiday Introductions," "Alex writing paper"), published by Spartacus, P.O. Box 3496, Amsterdam. https://fighting-words.co.uk/wp-content/uploads/2023/09/spartacus1983ocr.pdf
 [^5]: Letters from Spartacus, Amsterdam, to the Elm Guest House: Laurie Page for John D. Stamford, Director, August 25, 1981; Peter Glencross, Business Manager, to Harry Kasir, October 23, 1981; and advertisement, "Elm Guest House ... 10% Discount to Spartacus Club Members." https://archive.org/details/elm-guest-house-spartacus
 [^6]: Independent Inquiry into Child Sexual Abuse, *Westminster* investigation report, part D, chapter D.7, "Allegations connected to Elm Guest House," paragraphs 71 to 72. https://www.iicsa.org.uk/reports-recommendations/publications/investigation/westminster/part-d-police-responses-allegations-westminster-child-sexual-abuse/d7-allegations-connected-elm-guest-house.html

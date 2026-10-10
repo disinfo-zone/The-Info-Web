@@ -51,6 +51,6 @@ He was an investor in the Cabazon Indian Reservation and a skeet range, though h
 ---
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. The special counsel's report records the Picatinny meeting date as disputed and found no support for the presence of Contra leaders or Earl Brian at Lake Cahuilla. Sole source for the passages so cited.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. The special counsel's report records the Picatinny meeting date as disputed and found no support for the presence of Contra leaders or Earl Brian at Lake Cahuilla.
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of INSLAW, Inc.,* March 1993, pp. 56-64.
 [^3]: Seymour, Cheri. "VORTEX," diary dated February 24, 1992, p. 11. https://archive.org/details/VORTEXDocument

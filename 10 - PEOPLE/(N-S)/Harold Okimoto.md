@@ -12,7 +12,7 @@ summary: "Honolulu businessman whom Robert Booth Nichols listed as a former empl
 relations:
   - type: director_of
     with: "[[Meridian International Logistics]]"
-    role: "director of the subsidiary Meridian Arms, per Seymour 1992 (sole source)"
+    role: "director of the subsidiary Meridian Arms, per Seymour 1992"
     fn: 5
 updated: 2026-10-08
 ---
@@ -30,8 +30,8 @@ The 1987 continuation wiretap affidavit of the FBI agent [[Thomas Gates]] states
 
 ### Footnotes
 
-[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010. Sole source for the passages so cited.
+[^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro’s Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
 [^2]: Affidavit of Special Agent Thomas G. Gates in support of an application to continue interception of wire communications of Martin Bacow, Eugene Giaquinto, Joseph Garofalo, Robert Nichols and others, before Judge J. Spencer Letts, C.D. Cal. (continuation affidavit citing intercepts through September 1, 1987), Danny Casolaro papers, folder "Gates." https://archive.org/details/casolaro-notebooks (file Gates.pdf), paragraphs 46 and 84.
-[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010, chapter 22. Sole source.
+[^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010, chapter 22.
 [^4]: Connolly, John. "The Story That Killed Danny Casolaro." *Spy,* January 1993. https://archive.org/details/SpyMagazine
 [^5]: Seymour, Cheri. "VORTEX," diary dated February 24, 1992, p. 11. https://archive.org/details/VORTEXDocument

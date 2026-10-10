@@ -68,7 +68,7 @@ Shaw's website describes him as a former president of the [[James Randi Educatio
 
 ### Footnotes
 
-[^1]: Banachek, "About," https://banachek.com/about/ (self-published biography; sole source for the passages so cited on birth, upbringing, JREF role, the bullet catch and the burial escape).
+[^1]: Banachek, "About," https://banachek.com/about/ (self-published biography).
 [^2]: Randi, James, "The Project Alpha Experiment: Part 1. The First Two Years," *Skeptical Inquirer,* Summer 1983, and "Part 2. Beyond the Laboratory," Fall 1983, https://archive.org/details/JamesRandiTheProjectAlpha
 [^3]: Truzzi, Marcello, "Reflections on 'Project Alpha': Scientific Experiment or Conjuror's Illusion?," *Zetetic Scholar,* nos. 12 and 13 (issue numbers printed 11 and 12), August 1987, https://archive.org/details/alpha-project-zetetic-scholar-nos-12-13
 [^4]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.

@@ -64,7 +64,7 @@ Moore said in his speech of July 1, 1989 that in early 1983 "I became aware that
 ### Footnotes
 
 [^1]: Linda Moulton Howe, *An Alien Harvest*, 2nd ed. (2014), author's biography, photograph caption (p. xvi) and Author's Preface (pp. xvi to xviii), https://archive.org/details/howe-l.-m.-an-alien-harvest-2nd-ed-2014
-[^2]: Howe, *An Alien Harvest*, Chapter 7, "Government Knowledge," pp. 137 to 162 and Appendix 4, same URL. First-person account; sole source for the passages so cited except where another note is given.
+[^2]: Howe, *An Alien Harvest*, Chapter 7, "Government Knowledge," pp. 137 to 162 and Appendix 4, same URL. First-person account.
 [^3]: Philip J. Klass, *Skeptics UFO Newsletter* no. 44, March 1997, p. 3 (Howe's account "published in the December 1987 issue of Just Cause"; Doty's letter of March 3, 1988 published in the June 1988 issue), https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN44.pdf
 [^4]: Robert Hastings, "The MJ-12 Affair: Facts, Questions, Comments," March 1, 1989, Wayback Machine capture of October 28, 2016, https://web.archive.org/web/20161028084620/http://www.sacred-texts.com/ufo/hastings.htm. Howe's statements reach the page through Hastings's telephone conversation with her.
 [^5]: William L. Moore, 1989b, as quoted in "E B E's," part 11, UFO BBS file UFO1030, http://textfiles.com/ufo/UFOBBS/1000/1030.ufo.

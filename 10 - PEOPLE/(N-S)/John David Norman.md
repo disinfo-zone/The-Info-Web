@@ -52,5 +52,5 @@ Two names in the address book seized from the [[The Finders|Finders]] members [[
 [^1]: Moseley, Ray, with Michael Sneed and George Bliss. "Chicago Is Center of National Child Porno Ring." *Chicago Tribune,* May 16, 1977, reprinted in U.S. House of Representatives, Committee on the Judiciary, Subcommittee on Crime. *Sexual Exploitation of Children,* hearings, 95th Congress, 1st session, Serial No. 12, 1977, pp. 433-435. https://archive.org/details/micro_IA41153502_0041
 [^2]: Testimony of George Bliss and Michael Sneed, U.S. Senate, Committee on the Judiciary, Subcommittee to Investigate Juvenile Delinquency. *Protection of Children Against Sexual Exploitation,* hearings, Chicago, May 27, 1977, 95th Congress, 1st session. https://archive.org/details/protectionofchil00unit
 [^3]: *Norman v. Elrod,* 76 Ill. 2d 426, 394 N.E.2d 1043 (Ill. 1979).
-[^4]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023. Sole source for the passages so cited.
+[^4]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
 [^5]: Federal Bureau of Investigation, "The Finders," FBI Records: The Vault, released November 2019, https://vault.fbi.gov/the-finders.

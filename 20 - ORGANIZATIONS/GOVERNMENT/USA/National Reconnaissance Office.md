@@ -122,7 +122,7 @@ Congress created the National Commission for the Review of the National Reconnai
 [^6]: U.S. House of Representatives, Conference Report 106-457 on H.R. 1555, November 5, 1999, joint explanatory statement, Title VII ("Neither the House bill nor the Senate amendment contained a similar provision"). https://www.govinfo.gov/content/pkg/CRPT-106hrpt457/html/CRPT-106hrpt457.htm
 [^7]: Intelligence Authorization Act for Fiscal Year 2000, Public Law 106-120, approved December 3, 1999, Title VII, secs. 701 to 709. https://www.govinfo.gov/content/pkg/PLAW-106publ120/pdf/PLAW-106publ120.pdf
 [^8]: National Commission for the Review of the National Reconnaissance Office, The NRO at the Crossroads, November 1, 2000, cover page and Appendix G, "Commission Member Biographies," pp. 135 to 136. Archived copy: https://web.archive.org/web/2020id_/https://irp.fas.org/nro/commission/nro.pdf
-[^9]: Bob Kerrey, letter to Peter B. Teets, August 11, 2003, NRO press release 2003-03. Sole source for Kerrey's statement that he wrote the Act and recruited Goss. https://web.archive.org/web/2id_/https://www.nro.gov/Portals/135/documents/news/press/2003/2003-03.pdf
+[^9]: Bob Kerrey, letter to Peter B. Teets, August 11, 2003, NRO press release 2003-03. https://web.archive.org/web/2id_/https://www.nro.gov/Portals/135/documents/news/press/2003/2003-03.pdf
 [^10]: In-Q-Tel, "Our Milestones." https://www.iqt.org/about/our-milestones
 [^11]: Elizondo, Luis. *Imminent.* William Morrow, 2024.
 [^12]: U.S. House of Representatives, Committee on Oversight and Accountability, Subcommittee on National Security, the Border, and Foreign Affairs. *Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency,* hearing, July 26, 2023.
