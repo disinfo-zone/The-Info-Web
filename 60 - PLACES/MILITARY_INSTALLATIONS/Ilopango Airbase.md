@@ -16,6 +16,13 @@ tags:
   - DarkAllianceInvestigation
 summary: "Salvadoran military air base that served as the hub for Oliver North's illegal Contra resupply operation and a center for Contra-connected cocaine trafficking during the 1980s."
 location: "El Salvador"
+relations:
+  - type: participant_in
+    with: "[[NHAO]]"
+    role: "Used Hangar 4 in 1985 and 1986 after CIA moved out, per the CIA Inspector General"
+    start: 1985
+    end: 1986
+    fn: 6
 ---
 Ilopango Air Force Base is a military airfield outside [[San Salvador]], [[El Salvador]], that served as the hub for [[Oliver North]]'s illegal Contra resupply operation and a center for Contra-connected cocaine trafficking during the 1980s. Situated atop a plateau surrounded by imposing cliffs, the base had a restricted military side tightly guarded by the Salvadoran military and a civilian side used for private aviation.[^1]
 
@@ -29,9 +36,9 @@ The operation was run openly. The assistant regional security officer for the U.
 
 ### Hangars 4 and 5
 
-[[Central Intelligence Agency]] records show Hangar No. 4 was used by the Agency for covert Contra operations until it was turned over in 1985 to the National Security Council and Oliver North's illegal arms network, "The Enterprise." CIA agent Felix Rodriguez also used Hangar No. 4 for his helicopter-based counterinsurgency program. The adjoining Hangar No. 5 continued to be used by the CIA in support of the Contra project.[^1]
+Gary Webb wrote that [[Central Intelligence Agency]] records showed Hangar No. 4 was used by the Agency for covert Contra operations until it was turned over in 1985 to the National Security Council and Oliver North's illegal arms network, "The Enterprise." CIA agent Felix Rodriguez also used Hangar No. 4 for his helicopter-based counterinsurgency program. The adjoining Hangar No. 5 continued to be used by the CIA in support of the Contra project.[^1] The CIA Inspector General's report gives a different sequence. In 1984 the CIA occupied a newly constructed warehouse and hangar, Hangar 5, and moved to it activities that had been conducted in the smaller Hangar 4. The report states that "After CIA had moved out of Hangar 4, it was used in 1985 and 1986 by NHAO and the Private Benefactors in support of their Contra-related operations."[^6]
 
-In March 1986, a cable from the Costa Rican [[DEA]] office reported that a pilot named Carlos Amador intended to fly into Ilopango, pick up cocaine at Hangar No. 4, and transport it to [[Miami]]. Amador had been working with the CIA for years, flying missions for the Costa Rican Contras. The CIA had collected information for at least a year indicating Amador was also flying drug planes between [[Costa Rica]], [[Panama]], Belize, and Miami for a pair of major cocaine traffickers, the Sarcovic brothers, at the same time he was flying for the [[White House]].[^1]
+Webb wrote that in March 1986 a cable from the Costa Rican [[DEA]] office reported that a pilot named Carlos Amador intended to fly into Ilopango, pick up cocaine at Hangar No. 4, and transport it to [[Miami]]. The Inspector General's report describes a cable of April 1986 that reported a March 18, 1986 DEA report that Amador had recently flown from Costa Rica to San Salvador, where he had access to Hangar 4.[^7] The report also records that the drafter of one 1986 cable was not certain of the nature or affiliation of another entity that had operated from Hangar 4, and surmised that it "may have been associated either with Oliver North, the Private Benefactors, or the Nicaraguan Humanitarian Assistance Office (NHAO)."[^8] Amador had been working with the CIA for years, flying missions for the Costa Rican Contras. The CIA had collected information for at least a year indicating Amador was also flying drug planes between [[Costa Rica]], [[Panama]], Belize, and Miami for a pair of major cocaine traffickers, the Sarcovic brothers, at the same time he was flying for the [[White House]].[^1]
 
 ### Drug Trafficking
 
@@ -39,9 +46,9 @@ DEA agent [[Celerino Castillo]]'s informant Murga, who wrote flight plans for pr
 
 Former Meneses aide [[Enrique Miranda]] testified at the 1991 Nicaraguan trial that cocaine from [[Colombia]] arrived at various Costa Rican airstrips, including one on CIA operative [[John Hull]]'s farm, and was placed aboard Contra planes flown into Ilopango. There, according to Miranda, Aguado and Meneses supervised loading the cocaine onto U.S.-bound aircraft owned by the Salvadoran Air Force and, on occasion, the Miami-based CIA contractor [[Southern Air Transport]]. Miranda said Meneses told him U.S. military hardware stockpiled at Ilopango was loaded onto Salvadoran transport planes and flown south, where guns were traded for cocaine and flown back.[^1]
 
-In February and March 1988 a CIA station cable reported that the Guatemalan suspected trafficker Reyner Veliz Cruz flew into Ilopango with Aguado in a twin-engine aircraft, the second time after customs officers had left, and that customs personnel at Ilopango "assume that Aguado has connections with drug trafficking."[^6]
+In February and March 1988 a CIA station cable reported that the Guatemalan suspected trafficker Reyner Veliz Cruz flew into Ilopango with Aguado in a twin-engine aircraft, the second time after customs officers had left, and that customs personnel at Ilopango "assume that Aguado has connections with drug trafficking."[^9]
 
-The Justice Department Inspector General reports that on December 14, 1988 Bustillo met DEA agent Celerino Castillo to discuss Castillo's suspicions that Salvadoran Air Force officers were using Ilopango for drug trafficking; Castillo named, among others, Air School Director Lieutenant Colonel Manfredo Koenigsberg, and according to a State Department cable of January 3, 1989, Bustillo said he would investigate and seek to transfer the officer. After DEA agent Richard deTriquet was detailed to Guatemala in 1989, he and Castillo went to El Salvador to investigate reports that cocaine moved through hangar five; a Salvadoran security officer denied them access, and the CIA chief of station told them there was no drug activity associated with hangar five.[^7]
+The Justice Department Inspector General reports that on December 14, 1988 Bustillo met DEA agent Celerino Castillo to discuss Castillo's suspicions that Salvadoran Air Force officers were using Ilopango for drug trafficking; Castillo named, among others, Air School Director Lieutenant Colonel Manfredo Koenigsberg, and according to a State Department cable of January 3, 1989, Bustillo said he would investigate and seek to transfer the officer. After DEA agent Richard deTriquet was detailed to Guatemala in 1989, he and Castillo went to El Salvador to investigate reports that cocaine moved through hangar five; a Salvadoran security officer denied them access, and the CIA chief of station told them there was no drug activity associated with hangar five.[^10]
 
 ### CIA Obstruction of Investigations
 
@@ -53,7 +60,7 @@ U.S. Ambassador Edwin Corr sent a secret "back channel" cable to the State Depar
 
 ### Bombs from the Airport Battalion, 1992
 
-Five 500-pound bombs were taken from a battalion at the San Salvador airport on February 26, 1992. [[Semana]] reported on April 12, 1992 that the arrested men, among them a Salvadoran army colonel, [[Roberto Antonio Leiva Jacobo]], confessed that members of the [[Cali Drug Cartel|Cali cartel]] had hired them and paid four million dollars for the bombs, and that the bombs were meant for a plan to kill [[Pablo Escobar]] in the [[Envigado]] prison.[^8]
+Five 500-pound bombs were taken from a battalion at the San Salvador airport on February 26, 1992. [[Semana]] reported on April 12, 1992 that the arrested men, among them a Salvadoran army colonel, [[Roberto Antonio Leiva Jacobo]], confessed that members of the [[Cali Drug Cartel|Cali cartel]] had hired them and paid four million dollars for the bombs, and that the bombs were meant for a plan to kill [[Pablo Escobar]] in the [[Envigado]] prison.[^11]
 
 ### Footnotes
 
@@ -62,6 +69,9 @@ Five 500-pound bombs were taken from a battalion at the San Salvador airport on 
 [^3]: CIA Inspector General, *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States*, Volume II (October 8, 1998), Marcos Antonio Aguado section of the Southern Front chapter, https://irp.fas.org/cia/product/cocaine2/south.html
 [^4]: "Salvador airport said to be transfer point for arms to contras," *Christian Science Monitor*, October 10, 1986, https://proof.csmonitor.com/1986/1010/omerc.html
 [^5]: U.S. Senate, Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy*, S. Prt. 100-165 (December 1988), pp. 37, 50 to 52, https://archive.org/details/Kerry-Report-Drugs-Contras
-[^6]: CIA Inspector General, *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States*, Volume II (October 8, 1998), Marcos Antonio Aguado section and the pilots chapter (March 23, 1988 cable on Reyner Veliz Cruz), https://irp.fas.org/cia/product/cocaine2/south.html and https://irp.fas.org/cia/product/cocaine2/pilots.html
-[^7]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter X, sections D and E, https://irp.fas.org/agency/doj/oig/c4rpt/ch10p3.htm
-[^8]: "¿Bombas contra Escobar?", *Semana*, April 12, 1992, https://www.semana.com/nacion/articulo/bombas-contra-escobar/17208-3. The Cali cartel buyers are Semana's report of the arrested men's confessions and of an unnamed Salvadoran government source.
+[^6]: CIA Office of Inspector General, Report of Investigation on allegations of connections between CIA and the Contras in cocaine trafficking, para. 1023. https://archive.org/details/cia-readingroom-document-06974497
+[^7]: CIA Office of Inspector General, Report of Investigation, para. 447. https://archive.org/details/cia-readingroom-document-06974497
+[^8]: CIA Office of Inspector General, Report of Investigation, para. 453. https://archive.org/details/cia-readingroom-document-06974497
+[^9]: CIA Inspector General, *Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States*, Volume II (October 8, 1998), Marcos Antonio Aguado section and the pilots chapter (March 23, 1988 cable on Reyner Veliz Cruz), https://irp.fas.org/cia/product/cocaine2/south.html and https://irp.fas.org/cia/product/cocaine2/pilots.html
+[^10]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), Chapter X, sections D and E, https://irp.fas.org/agency/doj/oig/c4rpt/ch10p3.htm
+[^11]: "¿Bombas contra Escobar?", *Semana*, April 12, 1992, https://www.semana.com/nacion/articulo/bombas-contra-escobar/17208-3. The Cali cartel buyers are Semana's report of the arrested men's confessions and of an unnamed Salvadoran government source.

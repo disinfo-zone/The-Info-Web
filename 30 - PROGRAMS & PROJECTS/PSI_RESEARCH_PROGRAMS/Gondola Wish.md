@@ -53,6 +53,13 @@ relations:
     end: 1978-09-25
     role: "lieutenant colonel, 902d Military Intelligence Group; signed the cancellation memorandum"
     fn: 9
+  - type: participant_in
+    with: "[[Mel Riley]]"
+    reverse: true
+    start: 1978-02
+    end: 1978-12
+    role: "candidate in the Fort Meade team that Schnabel calls Gondola Wish; one of the six sent to SRI"
+    fn: 16
 ---
 
 Gondola Wish was the unclassified title of a plan by the [[902d Military Intelligence Group]] at [[Fort Meade]] to train military intelligence personnel in out-of-the-body experience at the [[Monroe Institute]] of Applied Sciences in Afton, Virginia. The Army staff cancelled it on September 25, 1978, and the Army's parapsychology work continued as [[Grill Flame]].
@@ -78,6 +85,12 @@ On July 19, 1978 the 902d's commander requested a one-time payment of $2,000 fro
 A 902d memorandum of September 25, 1978, signed by Lieutenant Colonel [[Robert Keenan|Robert E. Keenan]], records a meeting with Colonel Capps of the Army staff office DAMI-ISH and states that "the 902d's concept, unclassified title GONDOLA WISH, is cancelled," that "Monroe Institute not cleared," and that a contract regarding training involving "experiements [sic] with the mind" must be cleared through an office at the Department of Health, Education, and Welfare. It records that the Army Materiel Development and Readiness Command held an ongoing contract with Stanford Research Institute on which the training could be placed, with $15,000 from the Assistant Chief of Staff for Intelligence and $50,000 from INSCOM.[^9] A status report of September 26, 1978 to General Smith records that the 902d had been told the week before to stop planning, that [[Edmund Thompson|Major General E. R. Thompson]] "did not want to go that route until the legal ramifications were thoroughly examined," and that $65,000 had been provided to the command for training under the SRI contract.[^10]
 
 An information paper of October 27, 1978 over Thompson's name states that the institute "was briefly considered earlier this year to train three or four INSCOM Subjects," that the only Army individual known to the staff to have spoken with Monroe was the Gondola Wish project officer, and that the institute "was rejected as a training possibility" because its technique involved sensory deprivation and rhythmic sounds, the subject underwent interrogation in the altered state, CIA would not permit its people to train there, a federal statute covered experimentation on human beings, and neither Monroe nor the institute held a clearance.[^11]
+
+### Schnabel's account of the Fort Meade team
+
+[[Jim Schnabel]] wrote that Atwater's proposal for a small team of Army intelligence personnel screened for psychic ability, approved by Thompson, was "initially given the code name Gondola Wish," with Major [[Murray Watt]] as commanding officer, and that Atwater and Watt called in a few hundred candidates, among them photo-interpreters from the [[National Photographic Interpretation Center]], telling them the interviews were a general survey on psi ordered by the INSCOM commander.[^15] In his account the photo-interpreter [[Mel Riley]] recognized from the questions that he was being considered for Gondola Wish, the list was cut to about twenty for a second interview, and in early 1978 ten or eleven candidates were briefed in a secure room in building 4554.[^16] Schnabel wrote that six of them, including Riley, were later sent to SRI for outbound remote viewing experiments, and that late in 1978 the code name Gondola Wish disappeared when the unit became the Special Action Branch under the name Grill Flame.[^16][^17] His notes credit Riley for the name Gondola Wish and state that Atwater "vaguely remembers it."[^15]
+
+The INSCOM chronology lists "GONDOLA WISH established" under September 1977 with the comment "Designed as an OPSEC support mission to mimic HOIS remote viewers to determine US vulnerability." It lists "Selection of remote viewers and interviewers" under December 1978 to January 1979 with the comment "Of the 251 personnel considered for GRILL FLAME, 117 were interviewed and six individuals were actually selected for training," and "Beginning of orientation training at SRI-International" under April 1979.[^2]
 
 ### Later contacts with the Monroe Institute
 
@@ -110,3 +123,9 @@ INSCOM's October 1983 briefing to the Secretary of the Army states that by the e
 [^13]: US Army Intelligence and Security Command, ADCSOPS-HUMINT, "Request for Administrative Review of INSCOM GRILL FLAME Protocol (U)," 1981, CIA-RDP96-00788R001100200005-4. cia.gov/readingroom/docs/CIA-RDP96-00788R001100200005-4.pdf
 
 [^14]: Center Lane information papers for the Director, Defense Intelligence Agency, March 7, 1985, CIA-RDP96-00788R001500180001-7. cia.gov/readingroom/docs/CIA-RDP96-00788R001500180001-7.pdf
+
+[^15]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, chapter 2, "The Dream Team," and the chapter 2 source notes, entry "Gondola Wish: Riley. Atwater vaguely remembers it."
+
+[^16]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, chapter 2, "The Dream Team."
+
+[^17]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, chapter 2, "The Dream Team," on the code name Grill Flame.

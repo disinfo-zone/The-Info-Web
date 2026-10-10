@@ -37,7 +37,7 @@ relations:
     reverse: true
     fn: 13
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 The Internal Revenue Service is the agency through which the [[Treasury Department|Secretary of the Treasury]] administers the federal tax laws. Section 7801 of the Internal Revenue Code gives the secretary "full authority to administer and enforce the internal revenue laws" and "the power to create an agency to enforce these laws"; in the service's own words, "the IRS was created based on this legislative grant." Section 7803 provides for a Commissioner of Internal Revenue "to administer and supervise the execution and application of the internal revenue laws." Its main office is at 1111 Constitution Avenue NW in [[Washington, D.C.]][^1] The office of Commissioner of Internal Revenue was created in 1862, with an income tax to pay for the Civil War; in the 1950s the agency was reorganized to replace patronage appointments with career staff, and the Bureau of Internal Revenue was renamed the Internal Revenue Service. Only the commissioner and the chief counsel are appointed by the president and confirmed by the Senate.[^2]
@@ -54,7 +54,7 @@ After Representative [[Wayne Hays]] demanded in 1954 that the exemption of [[H.L
 
 ### Other Cases
 
-In 1994 [[Nelson Bunker Hunt]] and [[William Herbert Hunt]] paid about 160 million dollars, most of it to the IRS.[^10] In July 2023 Senator [[Ron Wyden]], chairman of the Senate Finance Committee, opened an inquiry into the roughly 158 million dollars that [[Leon Black]] had paid [[Jeffrey Epstein]] between 2012 and 2017 for tax, trust and estate-planning advice, and in July 2025 said the work deserved an IRS examination.[^11] Among former employees, [[Robert Garder Terrell]], spokesman and financial manager of [[The Finders]], had been an IRS appeals officer, and [[Peter Videnieks]], the Justice Department contracting officer on the [[PROMIS]] contract with [[Inslaw]], had worked for the service.[^12][^13]
+In 1994 [[Nelson Bunker Hunt]] and [[William Herbert Hunt]] paid about 160 million dollars, most of it to the IRS.[^10] In July 2023 Senator [[Ron Wyden]], chairman of the Senate Finance Committee, opened an inquiry into the roughly 158 million dollars that [[Leon Black]] had paid [[Jeffrey Epstein]] between 2012 and 2017 for tax, trust and estate-planning advice, and in July 2025 said the work deserved an IRS examination.[^11] Among former employees, [[Robert Garder Terrell]], spokesman and financial manager of [[The Finders]], had been an IRS appeals officer, and [[Peter Videnieks]], the Justice Department contracting officer on the [[PROMIS]] contract with [[Inslaw]], described his employment in a 1987 deposition as beginning with the service, followed by the [[National Aeronautics and Space Administration|NASA]] Goddard Space Flight Center and the [[U.S. Customs]] Service.[^12][^13][^14]
 
 ### Footnotes
 
@@ -70,4 +70,5 @@ In 1994 [[Nelson Bunker Hunt]] and [[William Herbert Hunt]] paid about 160 milli
 [^10]: Gwynne, S.C. "Bunker Hunt," *Texas Monthly,* September 2001. https://www.texasmonthly.com/articles/bunker-hunt/
 [^11]: U.S. Senate Committee on Finance, "Wyden Unveils Ongoing Investigation into Private Equity Billionaire Leon Black's Tax Planning and Financial Ties with Jeffrey Epstein," July 25, 2023, https://www.finance.senate.gov/chairmans-news/wyden-unveils-ongoing-investigation-into-private-equity-billionaire-leon-blacks-tax-planning-and-financial-ties-with-jeffrey-epstein ; "Leon Black's $158 Million Sent to Epstein Draws Senate Probe." *Bloomberg,* July 25, 2023.
 [^12]: Witkin, Gordon, Peter Cary, and Angel Martinez. "Through a glass, very darkly: Cops, spies and a very odd investigation." *U.S. News & World Report,* December 27, 1993 / January 3, 1994; Dean, Eddie. "Finders' Keeper." *Washington City Paper*, May 24, 1996. https://washingtoncitypaper.com/article/287890/finders-keeper/
-[^13]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
+[^13]: Deposition of Peter Videnieks, In re INSLAW, Inc., Adversary Proceeding No. 86-0069 (Bankr. D.D.C.), 1987. https://archive.org/details/InslawVidenieksDepositions1987
+[^14]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.

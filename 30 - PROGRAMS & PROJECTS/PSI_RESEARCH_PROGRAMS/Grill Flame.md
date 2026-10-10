@@ -111,6 +111,13 @@ relations:
     end: 1980
     role: "Missile Intelligence Agency SRI psychokinesis task (1977 to 1978) and MICOM Remote Perturbation protocol"
     fn: 23
+  - type: participant_in
+    with: "[[Mel Riley]]"
+    reverse: true
+    start: 1979-02-08
+    end: 1981-06
+    role: "volunteer remote viewer; one of three full-time viewers"
+    fn: 59
 ---
 
 Grill Flame was the unclassified nickname that the Army's intelligence staff assigned in July 1978 to its parapsychology work. The name covered a remote-viewing program that the [[Defense Intelligence Agency|DIA]] and the Army ran as a jointly funded effort from 1979 to 1982, and it is the name under which the Army's share of the [[Stargate Project]] was known. The Army's operations were run by [[United States Army Intelligence and Security Command|INSCOM]] from [[Fort Meade]], Maryland, and the joint program bought its remote-viewing research from [[Stanford Research Institute|SRI]]. Congress curtailed the Army's funding in the National Foreign Intelligence Program, and the unit continued under [[Center Lane]] from December 3, 1982.
@@ -224,7 +231,9 @@ Major Murray Watt was notified on October 27, 1978 that he was INSCOM's project 
 
 Second Lieutenant Frederick Atwater signed as the Gondola Wish project officer in 1978 and was named as Watt's alternate in February 1979.[^4][^16] The chronology records that Captain Frederick Atwater assumed duties as acting project manager on July 7, 1983 and that Lieutenant Colonel [[Brian Buzby]] assumed duties as project manager on August 15, 1983.[^12] As Captain Fred Atwater, he briefed the Secretary of the Army in October 1983.[^21]
 
-Chief Warrant Officer [[Joe McMoneagle]] appears on the agenda of a May 1982 memorandum as the presenter of completed evaluated projects.[^58]
+[[Mel Riley|Melvin C. Riley]] signed a Grill Flame volunteer security agreement dated February 8, 1979 as an E-6 of the 902d Military Intelligence Group with the position "Senior Image Interpreter"; the Grill Flame project officer at HQ INSCOM witnessed it, and a second security agreement of the same date carries a continuation page witnessed by Atwater.[^59][^60] On April 20, 1979 he signed an acknowledgment of the "Information About Remote Viewing for Participants," which states that a viewer may be asked to perform at most two sessions per day and no more than three per week and that "There is no evidence of any adverse physical, psychological and/or social effects on the remote viewer from participation in this activity."[^61] A volunteer consent statement in his name is witnessed by Watt.[^62] An undated draft INSCOM protocol for Applied Remote Map Sensing is signed "Melvin C. Riley, SFC," as "Grill Flame Training NCO."[^63] He was one of three full-time viewers, with [[Ken Bell]] and [[Joe McMoneagle]], in Schnabel's account of the unit's reorganization in late 1978.[^64]
+
+Chief Warrant Officer McMoneagle appears on the agenda of a May 1982 memorandum as the presenter of completed evaluated projects.[^58]
 
 Dale Graff attended the February 1979 meeting for the Air Force's Foreign Technology Division and sat on the working group named in November 1978.[^15][^16]
 
@@ -292,3 +301,9 @@ Other officials in the record include [[Ruth Davis]], who is named in the April 
 [^56]: Memorandum for record, briefing for Brigadier General Soyster, December 12, 1985, CIA-RDP96-00788R001700030003-9. cia.gov/readingroom/docs/CIA-RDP96-00788R001700030003-9.pdf
 [^57]: Jack Anderson, "'Voodoo Gap' Looms as Latest Weapons Crisis," *The Washington Post*, April 24, 1984, p. C13, CIA-RDP96-00788R001200050011-3. cia.gov/readingroom/docs/CIA-RDP96-00788R001200050011-3.pdf
 [^58]: Memorandum for record, May 7, 1982, with enclosure 5 agenda, CIA-RDP96-00788R001100190010-0. cia.gov/readingroom/docs/CIA-RDP96-00788R001100190010-0.pdf
+[^59]: Grill Flame Volunteer Security Agreement, Melvin C. Riley, dated 8 FEB 79, CIA-RDP96-00789R002100150051-7. https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100150051-7.pdf
+[^60]: Grill Flame Security Agreement, Melvin C. Riley, dated 8 February 79, with continuation page, CIA-RDP96-00789R002100150052-6, pp. 1-2. https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100150052-6.pdf
+[^61]: "Information About Remote Viewing for Participants," signed 20 Apr 79, CIA-RDP96-00789R002100150052-6, pp. 3-4. https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100150052-6.pdf
+[^62]: Grill Flame Volunteer Consent Statement, Melvin C. Riley, witnessed by Murray B. Watt, CIA-RDP96-00789R002100150050-8. https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002100150050-8.pdf
+[^63]: INSCOM, "Proposed Grill Flame Protocol" and "Applied Remote Map Sensing Protocol," signature block on p. 4, CIA-RDP96-00788R001100200001-8. https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001100200001-8.pdf
+[^64]: Schnabel, Jim. *Remote Viewers: The Secret History of America's Psychic Spies.* Dell, 1997, chapter 2, "The Dream Team."

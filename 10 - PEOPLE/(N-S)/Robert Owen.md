@@ -23,7 +23,7 @@ In 1985, Owen reported to North that a DC-6 owned by Mario Calero (brother of [[
 
 ### Nunez and H&M Corp
 
-A 1986 memo from Owen to North described [[Moises Nunez|Dagoberto Núñez]]'s plan to sign an agreement with Heroes and Martyrs Trading Corporation (H&M Corp.), the official import-export agency of the Sandinista government, for shrimping rights off the Pacific Coast of [[Nicaragua]]. Núñez was a Costa Rican-based drug trafficker working for North and the [[Central Intelligence Agency]]. "Nunez is doing this so he can help us. He will cooperate and do anything we ask," Owen told North. "He believes this will provide an opportunity to use his boats for cover operations, or to implicate the Ortegas and Borge in taking money on the side for their own pocket. He is right on both counts."[^2]
+A 1986 memo from Owen to North described [[Dagoberto Nunez|Dagoberto Núñez]]'s plan to sign an agreement with Heroes and Martyrs Trading Corporation (H&M Corp.), the official import-export agency of the Sandinista government, for shrimping rights off the Pacific Coast of [[Nicaragua]]. Núñez was a Costa Rican-based drug trafficker working for North and the [[Central Intelligence Agency]]. "Nunez is doing this so he can help us. He will cooperate and do anything we ask," Owen told North. "He believes this will provide an opportunity to use his boats for cover operations, or to implicate the Ortegas and Borge in taking money on the side for their own pocket. He is right on both counts."[^2]
 
 ### The Kelso Affair
 

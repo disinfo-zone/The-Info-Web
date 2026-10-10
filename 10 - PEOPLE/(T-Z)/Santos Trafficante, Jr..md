@@ -18,7 +18,7 @@ tags:
   - 1970s
   - 1980s
 category: "Organized Crime"
-summary: "Santo Trafficante Jr. was the Tampa organized crime boss who held pre-revolutionary Cuba casino interests, was recruited by the CIA in 1960 for anti-Castro assassination plots alongside Sam Giancana and Johnny Roselli, and whose attorney Frank Ragano claimed he made a deathbed confession of involvement in John Kennedy's assassination."
+summary: "Tampa organized crime boss with pre-revolutionary Cuba casino interests, recruited by the CIA in 1960 for anti-Castro plots; his attorney Frank Ragano claimed a deathbed confession about Kennedy's assassination."
 born: 1914-11-15
 died: 1987-03-17
 location: "Tampa, Florida"
@@ -36,7 +36,7 @@ By the late 1950s Trafficante was one of five to seven organized crime bosses wi
 
 When Castro's forces took Havana in January 1959 and the new government moved against the casino industry and its organized crime operators, Trafficante was among those detained. Cuban authorities held him at the Trescornia immigration detention center outside Havana from approximately June through August 1959. He was among the last of the American organized crime figures to be expelled from Cuba.
 
-One anomalous detail of Trafficante's imprisonment: Jack Ruby, the Dallas nightclub owner who would kill [[Lee Harvey Oswald]] four years later, visited Cuba in 1959 and made at least one visit to the Trescornia detention facility. The nature of Ruby's relationship with Trafficante - whether Ruby was attempting to negotiate Trafficante's release, conducting independent business, or operating for other purposes - was examined by the HSCA without resolution. The committee noted the contact as potentially significant but could not establish what it meant.[^2]
+One anomalous detail of Trafficante's imprisonment: [[Jack Ruby]], the Dallas nightclub owner who would kill [[Lee Harvey Oswald]] four years later, visited Cuba in 1959 and made at least one visit to the Trescornia detention facility. Trafficante was held at Trescornia from June 6 to August 18, 1959, and Ruby's first trip to Cuba began on August 8, 1959. [[Lewis McWillie]] testified that he visited another detainee at Trescornia in that period and recalled possibly seeing Trafficante there, and that Ruby could have gone with him; Trafficante testified that he did not remember Ruby visiting him. The report says the importance of a Ruby-Trafficante meeting there "should not be overemphasized," that the most such a contact would show was a brief meeting, and that no one had suggested the assassination was planned at Trescornia in 1959.[^2] It also states that the committee "developed corroborating evidence that Ruby may have met with Trafficante at Trescornia prison in Cuba," and that "there was considerable evidence that it did take place."[^3]
 
 ### CIA-Mafia Anti-Castro Plots
 
@@ -54,21 +54,21 @@ His primary CIA contact, Roselli, was murdered in August 1976 shortly after his 
 
 ### HSCA Investigation and the Aleman Allegation
 
-The House Select Committee on Assassinations, investigating President Kennedy's assassination between 1976 and 1979, examined Trafficante's role. The HSCA's Final Report (1979) found that organized crime had both the motive and the capability to assassinate Kennedy and that the evidence was "consistent with" organized crime involvement, though the committee stopped short of a definitive finding.
+The House Select Committee on Assassinations, investigating President Kennedy's assassination between 1976 and 1979, examined Trafficante's role. The report's general conclusion on the organized crime figures is that knowledge or availability through association "falls considerably short of the sort of evidence that would be necessary to establish criminal responsibility for a conspiracy."[^4] On Trafficante specifically it concluded that it was "unlikely that Trafficante plotted to kill the President, although it could not rule out the possibility of such participation."[^3]
 
-One piece of evidence the HSCA examined was the testimony of Jose Aleman, a Cuban exile and FBI informant who had known Trafficante through exile community circles. Aleman testified that in 1962, Trafficante had told him - in the context of discussing Jimmy Hoffa's frustration with the Kennedy administration's organized crime prosecutions - that Kennedy was "going to be hit." Aleman told the HSCA he had interpreted this as Trafficante's prediction based on inside knowledge.
+[[Jose Aleman]], a Cuban exile, told the *Washington Post* in 1976 that Trafficante had said in a 1962 conversation, which also touched on [[Jimmy Hoffa]]'s prosecution, that President Kennedy "was going to be hit." In a March 1977 interview with the committee Aleman said Trafficante made clear he was not guessing, that a crime was being planned, and that Hoffa would be principally involved. In September 1978 he reaffirmed this and then, after saying he feared reprisal, testified that the remark might have meant "a lot of Republican votes" in 1964. The committee found it difficult to understand how Aleman could have misunderstood or why he would fabricate the account, but doubted its validity.[^3]
 
-Trafficante testified before the HSCA and denied Aleman's account. He denied any foreknowledge of the Kennedy assassination and denied any role in organizing it.[^2]
+Trafficante denied Aleman's account in public session on September 28, 1978. He denied any foreknowledge of the Kennedy assassination and denied any role in organizing it.[^5]
 
 ### The Ragano Claim
 
-Frank Ragano was Trafficante's personal attorney for approximately three decades, beginning in the early 1960s and including the period of the CIA-mob plots and the Kennedy assassination. Ragano also represented [[Jimmy Hoffa]] and had maintained close relationships with organized crime leadership throughout his career.
+Frank Ragano was Trafficante's personal attorney for approximately three decades, beginning in the early 1960s and including the period of the CIA-mob plots and the Kennedy assassination. Ragano also represented Jimmy Hoffa and had maintained close relationships with organized crime leadership throughout his career.
 
 In 1994, Ragano published a memoir, *Mob Lawyer*, co-written with journalist Selwyn Raab, in which he claimed that Trafficante had confessed to him in January 1987 - two months before Trafficante's death from kidney failure - that he and Roselli had arranged Kennedy's assassination in retaliation for the Kennedy administration's prosecution of organized crime and its perceived betrayal of the anti-Castro cause after the Bay of Pigs.
 
 According to Ragano's account, Trafficante said, in Italian: "Carlos [Marcello] fucked up. We should not have killed Giovanni [Kennedy]. We should have killed Bobby." Trafficante died on March 17, 1987, before any independent verification of Ragano's account was possible.
 
-Ragano's credibility as a witness was disputed. He had his own motivations for a dramatic memoir, he had been suspended from the Florida bar for misconduct, and his account shifted in emphasis between earlier interviews and the published memoir. The HSCA, which had access to Ragano before Trafficante's death, did not obtain any similar admission. Historians have treated the account as suggestive but unverifiable.[^3]
+Ragano's credibility as a witness was disputed. He had his own motivations for a dramatic memoir, he had been suspended from the Florida bar for misconduct, and his account shifted in emphasis between earlier interviews and the published memoir. The HSCA, which had access to Ragano before Trafficante's death, did not obtain any similar admission. Historians have treated the account as suggestive but unverifiable.[^6]
 
 ### Death and Significance
 
@@ -79,5 +79,8 @@ The CIA-Trafficante-Giancana-Roselli axis remains one of the most thoroughly doc
 ### Footnotes
 
 [^1]: Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Alleged Assassination Plots Involving Foreign Leaders.* Senate Report No. 94-465, 1975. Rappleye, Charles, and Ed Becker. *All American Mafioso: The Johnny Roselli Story.* Doubleday, 1991.
-[^2]: House Select Committee on Assassinations. *Report of the Select Committee on Assassinations of the U.S. House of Representatives.* U.S. Government Printing Office, 1979. Scheim, David E. *Contract on America: The Mafia Murders of John and Robert Kennedy.* Shapolsky Publishers, 1988.
-[^3]: Ragano, Frank, and Selwyn Raab. *Mob Lawyer.* Scribner, 1994. Scott, Peter Dale. *Deep Politics and the Death of JFK.* University of California Press, 1993.
+[^2]: House Select Committee on Assassinations, *Report,* H. Rept. 95-1828, pp. 152-153 (Trescornia; McWillie; Trafficante's testimony). https://archive.org/details/reportofselectco1979unit
+[^3]: House Select Committee on Assassinations, *Report,* H. Rept. 95-1828, pp. 172-175 (Trafficante; the Aleman account, the March 1977 interview, the September 1978 testimony, Trafficante's denial; "unlikely" conclusion at p. 175; Trescornia corroboration at p. 173). https://archive.org/details/reportofselectco1979unit
+[^4]: House Select Committee on Assassinations, *Report,* H. Rept. 95-1828, 95th Cong., 2d sess. (1979), organized crime summary and analysis, pp. 179-181. https://archive.org/details/reportofselectco1979unit
+[^5]: House Select Committee on Assassinations. *Report of the Select Committee on Assassinations of the U.S. House of Representatives.* U.S. Government Printing Office, 1979. Scheim, David E. *Contract on America: The Mafia Murders of John and Robert Kennedy.* Shapolsky Publishers, 1988.
+[^6]: Ragano, Frank, and Selwyn Raab. *Mob Lawyer.* Scribner, 1994. Scott, Peter Dale. *Deep Politics and the Death of JFK.* University of California Press, 1993.

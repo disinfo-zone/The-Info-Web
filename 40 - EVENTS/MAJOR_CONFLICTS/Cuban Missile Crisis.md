@@ -12,7 +12,7 @@ tags:
   - USA
   - Nuclear
   - 1960s
-summary: "The Cuban Missile Crisis (October 16-28, 1962) was a thirteen-day nuclear confrontation resolved when the Soviet Union agreed to remove missiles from Cuba in exchange for an American non-invasion pledge and a secret commitment to remove Jupiter missiles from Turkey."
+summary: "Thirteen-day nuclear confrontation of October 1962, resolved when the Soviet Union removed its missiles from Cuba in exchange for a non-invasion pledge and a secret commitment on Turkey's Jupiter missiles."
 start: 1962-10-16
 end: 1962-10-28
 location: "Cuba / Caribbean"
@@ -32,7 +32,7 @@ Kennedy's inner circle, the Executive Committee of the National Security Council
 
 The most dangerous days came when U-2 reconnaissance aircraft were shot down over Cuba and Soviet submarines were depth-charged by American forces. Back-channel negotiations, including communication through Soviet intelligence officer Aleksandr Feklisov, helped establish the terms of resolution. The final agreement involved the public Soviet pledge to remove missiles, the American public pledge not to invade Cuba, and a secret American undertaking - revealed only decades later - to remove Jupiter missiles from Turkey within several months.[^1]
 
-The CIA's role during the crisis included the aerial reconnaissance that discovered the missiles and operational planning for responses including an air strike that ExComm ultimately rejected. CIA officer [[William Harvey|Bill Harvey]] controversially dispatched infiltration teams to Cuba during the crisis without authorization from CIA Director [[John McCone]], an action that triggered a furious confrontation and led to Harvey's reassignment.[^1]
+The CIA's role during the crisis included the aerial reconnaissance that discovered the missiles and operational planning for responses including an air strike that ExComm ultimately rejected. CIA officer [[William Harvey|Bill Harvey]] ordered agent teams into Cuba during the crisis to support any conventional U.S. military operation that might occur. Harvey testified that [[Robert Kennedy]] "took a great deal of exception" to the order, and that CIA Director [[John McCone]] then ordered the agent operations stopped.[^2] McCone's executive assistant, [[Walter Elder]], described the episode as Harvey having "earned another black mark as not being fully under control," and said Harvey had attempted to get guidance from top officials during the crisis.[^2] Harvey was appointed chief of station at [[Rome]] effective on or about June 30, 1963.[^3]
 
 ### Aftermath
 
@@ -41,3 +41,5 @@ The crisis produced the Moscow-Washington hotline (the "red phone"), a direct co
 ### Footnotes
 
 [^1]: Kennedy, Robert F. *Thirteen Days: A Memoir of the Cuban Missile Crisis.* W.W. Norton, 1969 (Kennedy's account as Attorney General and ExComm member). Fursenko, Aleksandr, and Timothy Naftali. *One Hell of a Gamble: Khrushchev, Castro, and Kennedy, 1958-1964.* W.W. Norton, 1997 (uses Soviet and Cuban archives). Blight, James, and David Welch. *On the Brink: Americans and Soviets Reexamine the Cuban Missile Crisis.* Hill and Wang, 1989.
+[^2]: Church Committee, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report*, S. Rept. 94-465, November 20, 1975, p. 149 n. 1, citing Harvey testimony of July 11, 1975, pp. 80-81, and Walter Elder testimony of August 13, 1975, pp. 34-35. https://archive.org/details/allegedassassina00unit
+[^3]: Central Intelligence Agency, memorandum "Appointment of Mr. William K. Harvey Chief of Station, Rome, Italy," June 12, 1963. Reading room document 01228805, https://archive.org/details/cia-readingroom-document-01228805

@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-10-09
 title: JM/WAVE
 aliases:
   - JM WAVE
@@ -15,7 +15,7 @@ tags:
   - ColdWar
   - 1960s
 category: "Military Installation"
-summary: "JM/WAVE was the CIA's massive Miami station operating under the cover of 'Zenith Technical Enterprises, Inc.' at the University of Miami's South Campus, which at its Operation Mongoose peak employed over 400 CIA officers and several thousand Cuban exile agents, making it temporarily the second-largest CIA station in the world."
+summary: "CIA's Miami station from 1961 under the cover of Zenith Technical Enterprises at the University of Miami's South Campus, which employed over 400 CIA officers at its Mongoose peak."
 start: 1961
 end: 1968
 location: "University of Miami South Campus, Coral Gables, Florida"
@@ -31,7 +31,7 @@ The station was one component of a broader Miami-area anti-Castro infrastructure
 
 ### The Shackley Era
 
-[[Ted Shackley]], who later became one of the CIA's most consequential officers in Southeast Asia and [[Latin America]], served as JM/WAVE chief from approximately 1962 to 1965. Shackley had previously worked under [[William Harvey]] in [[Berlin]] and was assigned to Miami when Harvey took command of [[Operation Mongoose]] operational planning. When Harvey was removed from operational control of Cuba operations in late 1962, Shackley continued as station chief through the period of Mongoose's wind-down and the subsequent reduced covert operations period.
+[[Ted Shackley]], who later became one of the CIA's most consequential officers in Southeast Asia and [[Latin America]], served as JM/WAVE chief from approximately 1962 to 1965. Shackley had previously worked under [[William Harvey]] in [[Berlin]] and was assigned to Miami when Harvey was chief of [[Task Force W]], the CIA component of Mongoose.[^2] Harvey was appointed to Task Force W in early 1962; the Mongoose titles are the CIA project officer role and the Task Force W command.[^3] When Harvey was removed from operational control of Cuba operations in January 1963, when [[Desmond FitzGerald]] replaced him as chief of Task Force W,[^2] Shackley continued as station chief through the period of Mongoose's wind-down and the subsequent reduced covert operations period.
 
 Under Shackley, JM/WAVE operated extensive maritime raiding teams (the "cowboys," as station personnel called them) that conducted boat raids against Cuban coastal targets, intelligence collection missions along the Cuban coast, and infiltration/exfiltration operations for agents inside Cuba. The station also coordinated with the large and fractious Cuban exile community in Miami, attempting to channel exile groups' energy into CIA-directed operations while managing the political conflicts among exile factions.[^1]
 
@@ -51,9 +51,11 @@ Assassination planning: The CIA-organized crime assassination plots against Cast
 
 Following the [[Cuban Missile Crisis|October 1962 Missile Crisis]], Operation Mongoose was suspended and the no-invasion pledge reduced the strategic rationale for large-scale covert operations against Cuba. JM/WAVE continued in a reduced capacity through the mid-1960s. Shackley left in 1965 for [[Laos]], where he commanded the CIA's covert war against the [[Pathet Lao]] and [[North Vietnam|North Vietnamese]]. The station was formally closed in 1968 as the Cuba threat receded from the top of U.S. intelligence priorities.
 
-Many of the Cuban exile personnel trained and organized through JM/WAVE remained in the CIA network for years afterward. Some appeared in later operations, including the [[Watergate]] burglary (the "plumbers" included several veterans of the anti-Castro operations) and, according to various accounts, in aspects of Central American operations in the 1970s and 1980s.[^2]
+Many of the Cuban exile personnel trained and organized through JM/WAVE remained in the CIA network for years afterward. Some appeared in later operations, including the [[Watergate]] burglary (the "plumbers" included several veterans of the anti-Castro operations) and, according to various accounts, in aspects of Central American operations in the 1970s and 1980s.[^4]
 
 ### Footnotes
 
 [^1]: Corn, David. *Blond Ghost: Ted Shackley and the CIA's Crusades.* Simon & Schuster, 1994. Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995.
-[^2]: Shackley, Theodore, and Richard A. Finney. *Spymaster: My Life in the CIA.* Potomac Books, 2005. Trento, Joseph. *Prelude to Terror: The Rogue CIA and the Legacy of America's Private Intelligence Network.* Carroll & Graf, 2005.
+[^2]: Church Committee, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report*, S. Rept. 94-465, November 20, 1975, pp. 86-87 and pp. 153-155. https://archive.org/details/allegedassassina00unit
+[^3]: *Foreign Relations of the United States, 1961-1963*, vol. XI, doc. 10 (October 8, 1962), https://history.state.gov/historicaldocuments/frus1961-63v11/d10, and vol. X, doc. 323 (April 10, 1962), https://history.state.gov/historicaldocuments/frus1961-63v10/d323
+[^4]: Shackley, Theodore, and Richard A. Finney. *Spymaster: My Life in the CIA.* Potomac Books, 2005. Trento, Joseph. *Prelude to Terror: The Rogue CIA and the Legacy of America's Private Intelligence Network.* Carroll & Graf, 2005.

@@ -11,8 +11,8 @@ tags:
 start: 2019
 location: "Online (global)"
 created: 2026-05-21
-updated: 2026-05-21
-summary: "The Com is a transnational online criminal ecosystem spanning three overlapping spheres (cybercrime, child exploitation, and offline violence), with 764 as its dominant sextortion subnetwork and hundreds of active FBI investigations across all U.S. field offices as of 2025."
+updated: 2026-10-09
+summary: "The Com is a transnational online criminal ecosystem spanning cybercrime, child exploitation and offline violence, with 764 as its dominant sextortion subnetwork and hundreds of FBI investigations across all U.S. field offices as of 2025."
 ---
 
 [[The Com]] (short for "the Community," sometimes spelled "the Comm") is a transnational online criminal ecosystem rather than a single organization. The [[Canadian Anti-Hate Network]]'s 2025 report defines it as "an interconnected series of chat servers, websites, and people that come together to boast and collaborate on their illegal actions." Membership and victimization both trend toward younger ages - participants and their victims can be children - and The Com explicitly recruits through gaming platforms, social media, and encrypted messaging applications. The [[FBI]] classified [[764 Network|764]] as a "Tier One" terrorist threat with investigations in every U.S. field office and estimated more than 350 active investigations tied to 764 and related networks as of April 2026.[^1]
@@ -68,12 +68,12 @@ The [[FBI]] classified 764 as a Tier One/Category 1 terrorist threat, its highes
 The most significant U.S. prosecutions:
 - [[Baron Cain Martin|Baron Martin]] (Tucson, Arizona): Indicted April 2026 on 29 counts including the first-ever federal terrorism charge under the material support statute against a 764 member. Trial scheduled June 2026.
 - [[Alexis Aldair Chavez]]: RICO and child exploitation guilty plea, December 2025.
-- [[Leonidas Varagiannis]] and [[Prasan Nepal]]: Charged April 2025 for leading 764 Inferno; both face life in prison.
+- [[Leonidas Varagiannis]] and [[Prasan Nepal]]: Charged April 2025 for leading 764 Inferno. On October 8, 2026, Nepal pleaded guilty in the District of Columbia to conspiracy to commit sexual exploitation of a child, with a sentence range of 15 to 30 years. The Justice Department says Varagiannis is held in Greece and is expected to be tried there within six months.[^5]
 - [[Michail Chkhikvishvili]] (MKY leader): Sentenced 15 years federal prison, May 2026.
 
 Canada designated 764, MKY, and [[Terrorgram Collective]] as terrorist entities on December 10, 2025. The UK designated MKY as a proscribed terrorist organization on July 2, 2025. The [[RCMP]] arrested [[Jeffrey Roussel]] of Quebec City in April 2026 on terrorism charges for promoting 764 ideology and recruiting teenagers via Telegram - among the first prosecutions under Canada's designation.
 
-The Netherlands arrested the No Lives Matter founder on terrorism charges in July 2025. Romania convicted the MKY-affiliated "Tobbz" to 14 years in August 2023. Sweden recorded at least six attacks recorded and promoted on Telegram by a 14-year-old known as "Slain764" before that individual's arrest in September 2024.[^5]
+The Netherlands arrested the No Lives Matter founder on terrorism charges in July 2025. Romania convicted the MKY-affiliated "Tobbz" to 14 years in August 2023. Sweden recorded at least six attacks recorded and promoted on Telegram by a 14-year-old known as "Slain764" before that individual's arrest in September 2024.[^6]
 
 ### Footnotes
 
@@ -81,4 +81,5 @@ The Netherlands arrested the No Lives Matter founder on terrorism charges in Jul
 [^2]: Argentino, Marc-Andre. "The Pillars of the Com Network." https://www.maargentino.com/the-pillars-of-the-com-network/; Argentino. "Understanding the Relationship Between 764 And The Com." https://www.maargentino.com/understanding-the-relationship-between-764-and-the-com-network/
 [^3]: Global Project Against Hate and Extremism. "The 764 Network: A Global Threat for Child Abuse and Radicalization." https://globalextremism.org/post/764-network/; ADL. "764." https://www.adl.org/resources/backgrounder/764; ISD. "Networks of Harm: A Victim-Centric Resource on the 764 Network." https://www.isdglobal.org/publication/networks-of-harm-a-victim-centric-information-resource-on-the-764-sextortion-network-2/
 [^4]: CyberScoop. "Feds are probing 764, The Com's use of cybercriminal tactics." https://cyberscoop.com/the-com-764-cybercrime-violent-crime-fbi-intellignce-report/
-[^5]: U.S. Department of Justice, OPA. "Leaders of 764 Arrested and Charged for Operating Global Child Exploitation Enterprise." April 2025. https://www.justice.gov/opa/pr/leaders-764-arrested-and-charged-operating-global-child-exploitation-enterprise; Government of Canada. "Government of Canada Lists Four New Terrorist Entities." December 10, 2025. https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html
+[^5]: U.S. Department of Justice, Office of Public Affairs. "Leader of Global Violent Extremist Network '764' Pleads Guilty to Conspiracy to Sexually Exploit Minors." Press Release 26-1164, October 9, 2026. https://www.justice.gov/opa/pr/leader-global-violent-extremist-network-764-pleads-guilty-conspiracy-sexually-exploit-minors
+[^6]: U.S. Department of Justice, OPA. "Leaders of 764 Arrested and Charged for Operating Global Child Exploitation Enterprise." April 2025. https://www.justice.gov/opa/pr/leaders-764-arrested-and-charged-operating-global-child-exploitation-enterprise; Government of Canada. "Government of Canada Lists Four New Terrorist Entities." December 10, 2025. https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html

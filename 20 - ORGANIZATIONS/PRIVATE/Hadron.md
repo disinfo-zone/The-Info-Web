@@ -1,14 +1,14 @@
 ---
 aliases: []
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-10-09
 location: "Washington, D.C., USA"
 tags:
   - Organization
   - PROMIS
   - INSLAW
 category: "Private Organization"
-summary: "Hadron, Inc. was a Washington-area technology and information services company in which Earl Brian held a controlling interest, and which INSLAW alleged was positioned to acquire INSLAW's assets and software contracts as the intended beneficiary of the DOJ's alleged scheme to destroy the company."
+summary: "Hadron, Inc. was a Washington-area technology company controlled by Earl Brian, which INSLAW alleged was positioned to acquire its assets and software contracts as the intended beneficiary of the DOJ's alleged scheme to destroy it."
 ---
 Hadron, Inc. was a technology and information services company in which [[Earl Brian]] held both direct and indirect financial interests. [[INSLAW]] alleged that Hadron was the intended commercial beneficiary of the [[Department of Justice|DOJ]]'s alleged scheme to force INSLAW into liquidation: that DOJ employees delivered copies of INSLAW's proprietary [[PROMIS]] software to Brian and Hadron before INSLAW's bankruptcy, positioning Hadron to acquire INSLAW's assets and client base and then receive a "massive sweetheart contract" from DOJ in the aftermath.[^1]
 
@@ -24,7 +24,7 @@ Hamilton claimed that [[Edward Hurley]], a Hadron Vice President, stated in June
 
 Hamilton alleged that [[James L. Byrnes]], a Deputy Assistant Attorney General with ties to [[Edwin Meese]], spearheaded the award of a $40 million computer services contract to [[Accumenics]], a Hadron subsidiary, in October 1987. Byrnes denied any knowledge of such a contract or any contact with Hadron or its subsidiaries. The Special Counsel found no evidence supporting this allegation.[^2]
 
-INSLAW alleged a connection between [[Peter Videnieks]], DOJ's PROMIS contracting officer, and Hadron, claiming Videnieks had administered Customs Service contracts with Hadron. While a witness suggested a possible meeting between Videnieks and Laiti, Videnieks denied being the contracting officer for any Hadron contract or meeting Hadron management. The Special Counsel found no evidence of a conspiracy, concluding any connection was "tenuous and insignificant."[^2]
+[[John Schoolmeister]], a former [[U.S. Customs]] employee, told INSLAW and the House Judiciary Committee that [[Peter Videnieks]], before he became the Justice Department's PROMIS contracting officer, handled two Customs contracts with Hadron and would almost certainly have met Dominic Laiti, Hadron's president, who in Schoolmeister's words "met everyone in government."[^3] Schoolmeister did not claim personal knowledge of any meeting.[^3] Videnieks told the Special Counsel that he did not recall being the contracting officer on any Hadron contract. The Special Counsel found from Hadron's records that two Hadron subsidiaries had Customs contracts in the period, that Videnieks was not the contracting officer on either, and that he supervised the contracting officers on both.[^4] The report found one connection that it called "extraordinarily tenuous": in 1978 and 1979 Videnieks had been the contracting officer on a Customs contract with [[Universal Systems]], which Hadron bought in December 1980, and the report stated that his involvement with Universal Systems ended before the purchase.[^4] It concluded that Schoolmeister's statement tended at most to show that it was possible Videnieks once met Laiti, and that this "falls far short of anything that could fairly be called evidence of a conspiracy."[^5] The Justice Department's 1994 review of the Bua report concurred.[^6]
 
 Hamilton alleged that [[SCT|Systems and Computer Technology, Inc.]] (SCT)'s 1986 attempt to purchase INSLAW was encouraged by DOJ officials and indirectly linked to Brian. The Special Counsel found no evidence supporting these claims, noting that SCT's contacts with DOJ were for due diligence purposes only.[^2]
 
@@ -32,10 +32,14 @@ Hamilton alleged that [[SCT|Systems and Computer Technology, Inc.]] (SCT)'s 1986
 
 ### Congressional and Official Findings
 
-The Senate Permanent Subcommittee on Investigations found "no proof of any connection between Earl Brian or Hadron and the Department with regard to the INSLAW contract" in its September 1989 report.[^3] The House Judiciary Committee's September 1992 report described Brian's alleged role in connection with Hadron as "intriguing...but without the requisite degree of causation," raising circumstantial concerns while stopping short of a direct finding.[^1] The Special Counsel's report concluded that the evidence overwhelmingly showed no connection between Hadron and anything related to INSLAW or PROMIS, and that individuals claiming direct knowledge were "unworthy of belief" and contradicted by credible evidence.[^2]
+The Senate Permanent Subcommittee on Investigations found "no proof of any connection between Earl Brian or Hadron and the Department with regard to the INSLAW contract" in its September 1989 report.[^7] The House Judiciary Committee's September 1992 report described Brian's alleged role in connection with Hadron as "intriguing...but without the requisite degree of causation," raising circumstantial concerns while stopping short of a direct finding.[^1] The Special Counsel's report concluded that the evidence overwhelmingly showed no connection between Hadron and anything related to INSLAW or PROMIS, and that individuals claiming direct knowledge were "unworthy of belief" and contradicted by credible evidence.[^2]
 
 ### Footnotes
 
 [^1]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
-[^3]: U.S. Senate, Permanent Subcommittee on Investigations. *The Inslaw Affair.* September 1989.
+[^3]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* H. Rept. 102-857, 102d Cong., 2d sess., September 10, 1992, p. 68; U.S. Department of Justice, *Report of Special Counsel Nicholas J. Bua*, March 1993, p. 102. https://archive.org/details/InslawAffairInvestigativeReport
+[^4]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993, pp. 102-104. https://archive.org/details/doj-oip-inslaw-1993
+[^5]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993, p. 104. https://archive.org/details/doj-oip-inslaw-1993
+[^6]: U.S. Department of Justice. Review of the *Report of Special Counsel Nicholas J. Bua*, September 27, 1994, p. 54. https://archive.org/details/doj-oip-inslaw-1993
+[^7]: U.S. Senate, Permanent Subcommittee on Investigations. *The Inslaw Affair.* September 1989.

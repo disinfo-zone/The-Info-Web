@@ -15,7 +15,7 @@ location: Soviet Union
 
 [[Kirlian Photography]] is a technique for capturing images of objects placed on a photographic plate connected to a high-voltage source, producing a glow or aura around the object. It is named after Semyon Kirlian, a Russian electrician who discovered the effect in 1939.[^1]
 
-In the context of [[Parapsychology]], Kirlian photography was believed by some to capture the "aura" or "biofield" of living organisms, which was thought to be related to [[Psi|psychic]] energy. [[Dale Graff]]'s 1977 report, "[[Paraphysics R&D - Warsaw Pact]]," discussed Soviet research in Kirlian photography as part of their broader investigation into paranormal phenomena.[^1]
+In the context of [[Parapsychology]], Kirlian photography was believed by some to capture the "aura" or "biofield" of living organisms, which was thought to be related to [[Psi|psychic]] energy. The March 30, 1978 Defense Intelligence Agency report "[[Paraphysics R&D - Warsaw Pact]]," which Annie Jacobsen attributes to [[Dale Graff]], discussed Soviet research in Kirlian photography as part of their broader investigation into paranormal phenomena.[^1]
 
 ### Government contract of $145,000
 

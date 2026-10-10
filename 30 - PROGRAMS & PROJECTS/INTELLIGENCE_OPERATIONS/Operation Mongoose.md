@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-10-09
 title: Operation Mongoose
 aliases:
   - Operation Mongoose
@@ -15,7 +15,7 @@ tags:
   - Kennedy
   - 1960s
 category: "Intelligence Operation"
-summary: "Operation Mongoose was the Kennedy administration's post-Bay of Pigs covert action program against Cuba (November 1961 to late 1962), directed by Edward Lansdale under Robert Kennedy's Special Group (Augmented) oversight, run operationally by William Harvey at the CIA's JM/WAVE Miami station, and suspended following the Cuban Missile Crisis after Harvey unilaterally sent teams into Cuba during the crisis."
+summary: "Covert action program against Cuba from November 1961, directed by Edward Lansdale, run by the CIA's Task Force W under William Harvey, and suspended after the October 1962 missile crisis."
 start: 1961-11-01
 end: 1962-10-31
 location: "Miami, Florida / Washington, D.C."
@@ -33,7 +33,7 @@ In November 1961, Kennedy authorized Operation Mongoose as the successor to Bay 
 
 The [[Special Group]] (Augmented) - chaired by Robert Kennedy and including [[McGeorge Bundy]] (National Security Adviser), CIA Director [[John McCone]], and senior State and Defense officials - provided policy oversight. General [[Edward Lansdale]], whose Philippines counterinsurgency success had made him the administration's preferred irregular warfare theorist, was appointed as operational director.
 
-The CIA's operational implementation was headquartered at [[JM-WAVE|JM/WAVE]], a large covert station at the University of Miami's South Campus. [[William Harvey]], head of the CIA's [[ZR RIFLE|ZR/RIFLE]] assassination planning program, commanded JM/WAVE and was responsible for CIA operations within Mongoose. The station's cover included a legitimate South Florida business presence and several front companies.[^1]
+The CIA's operational implementation was headquartered at [[JM-WAVE|JM/WAVE]], a large covert station at the University of Miami's South Campus. [[William Harvey]], head of the CIA's [[ZR RIFLE|ZR/RIFLE]] assassination planning program, was the CIA's project officer for Mongoose and chief of [[Task Force W]], the agency's component of the program.[^2][^3] The Senate interim report records that Harvey and the chief of the JM/WAVE station rented the truck used to deliver the Roselli equipment.[^4] The station's cover included a legitimate South Florida business presence and several front companies.[^1]
 
 ### Operations
 
@@ -51,17 +51,21 @@ Assassination tracks: Parallel to Mongoose's official programs, Harvey maintaine
 
 The October 1962 [[Cuban Missile Crisis]] fundamentally changed the operational environment. Kennedy's agreement with Soviet Premier [[Nikita Khrushchev|Khrushchev]] to resolve the crisis included a private U.S. commitment not to invade Cuba. This commitment effectively foreclosed the political precondition on which Mongoose was premised: that internal Cuban resistance could ultimately trigger an American-supported uprising.
 
-During the crisis itself, Harvey unilaterally ordered CIA infiltration teams already at sea to proceed to Cuba despite direct orders to stand down. This unauthorized action during the most dangerous moment of the Cold War, in direct defiance of administration policy, resulted in Harvey's removal. Robert Kennedy demanded his transfer; Harvey was assigned to the CIA's Rome station.[^1]
+During the crisis, Harvey gave an order sending agent teams into Cuba to support any conventional U.S. military operation that might occur. Harvey testified that Robert Kennedy "took a great deal of exception" to the order, and that McCone then ordered the agent operations stopped.[^4] Evan Thomas wrote that Robert Kennedy demanded Harvey's removal.[^1] Harvey was appointed chief of station at Rome effective on or about June 30, 1963.[^5]
 
 Mongoose was formally suspended in late 1962. Subsequent anti-Castro covert operations continued under different organizational structures and with reduced resources, but the large-scale coordinated program of 1961-1962 was not reconstituted.
 
 ### Significance
 
-Operation Mongoose occupied a significant place in Cold War history for several reasons. It demonstrated the Kennedy administration's willingness to pursue regime change through covert means on a large scale even after the Bay of Pigs disaster had publicly discredited the approach. It institutionalized the CIA-organized crime anti-Castro connection that became entangled with JFK assassination conspiracy theories. And its suspension terms - the no-invasion pledge - provided the diplomatic framework within which Cuba's revolutionary government survived for decades.[^2]
+Operation Mongoose occupied a significant place in Cold War history for several reasons. It demonstrated the Kennedy administration's willingness to pursue regime change through covert means on a large scale even after the Bay of Pigs disaster had publicly discredited the approach. It institutionalized the CIA-organized crime anti-Castro connection that became entangled with JFK assassination conspiracy theories. And its suspension terms - the no-invasion pledge - provided the diplomatic framework within which Cuba's revolutionary government survived for decades.[^6]
 
 The [[Church Committee]] investigations of 1975-1976 disclosed the assassination planning component of Mongoose, revealing that the CIA had maintained assassination plots against Castro through multiple administrations and had kept this information from the [[Warren Commission]] investigating the Kennedy assassination.
 
 ### Footnotes
 
 [^1]: Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Alleged Assassination Plots Involving Foreign Leaders.* Senate Report No. 94-465, 1975. Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995.
-[^2]: Rasenberger, Jim. *The Brilliant Disaster: JFK, Castro, and America's Doomed Invasion of Cuba's Bay of Pigs.* Scribner, 2011. Corn, David. *Blond Ghost: Ted Shackley and the CIA's Crusades.* Simon & Schuster, 1994.
+[^2]: *Foreign Relations of the United States, 1961-1963*, vol. X, doc. 323, Memorandum From the Chief of Task Force W (Harvey) to Director of Central Intelligence McCone, April 10, 1962. https://history.state.gov/historicaldocuments/frus1961-63v10/d323
+[^3]: *Foreign Relations of the United States, 1961-1963*, vol. XI, doc. 10, Memorandum From the Central Intelligence Agency Project Officer for Operation Mongoose (Harvey) to the Chief of Operations, Operation Mongoose (Lansdale), October 8, 1962. https://history.state.gov/historicaldocuments/frus1961-63v11/d10
+[^4]: Church Committee, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report*, S. Rept. 94-465, November 20, 1975, pp. 84-85 and p. 149 n. 1 (Harvey testimony of July 11, 1975, pp. 80-81). https://archive.org/details/allegedassassina00unit
+[^5]: Central Intelligence Agency, memorandum "Appointment of Mr. William K. Harvey Chief of Station, Rome, Italy," June 12, 1963. Reading room document 01228805, https://archive.org/details/cia-readingroom-document-01228805
+[^6]: Rasenberger, Jim. *The Brilliant Disaster: JFK, Castro, and America's Doomed Invasion of Cuba's Bay of Pigs.* Scribner, 2011. Corn, David. *Blond Ghost: Ted Shackley and the CIA's Crusades.* Simon & Schuster, 1994.

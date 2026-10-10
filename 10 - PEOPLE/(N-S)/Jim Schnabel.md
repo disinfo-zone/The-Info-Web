@@ -41,7 +41,7 @@ Forever Young: Science and the Search for Immortality was published by [[Bloomsb
 
 The list of interview sources in Remote Viewers includes [[Frederick Atwater|Fred "Skip" Atwater]], Hal Puthoff, [[Ingo Swann]], [[Joe McMoneagle]], [[Uri Geller]], [[Keith Harary]] and [[Michael Persinger]], among others. The list states that a number of sources who spoke on background are not named in it, and that not all those listed spoke on the record all the time.[^6]
 
-The acknowledgments single out Atwater, Puthoff, [[Mel Riley]] and Edith Riley, and [[Edmund Thompson]] as "heroically cooperative" sources to whom the author owed "a special debt."[^6]
+The acknowledgments single out Atwater, Puthoff, [[Mel Riley]], and [[Edmund Thompson]] as "heroically cooperative" sources to whom the author owed "a special debt."[^6]
 
 The book uses pseudonyms for a number of the people it names. Its notes state that certain names in the text are pseudonyms, and a "Pseudonyms" page near the end of the book identifies them.[^7]
 

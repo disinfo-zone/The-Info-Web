@@ -15,11 +15,11 @@ tags:
   - BCCI
   - DrugTrafficking
   - ColdWar
-summary: "The Octopus is a term used by investigative journalist Danny Casolaro to describe a sprawling alleged criminal network linking the PROMIS software theft, Iran-Contra, the October Surprise, BCCI, and intelligence-connected drug trafficking under a single self-perpetuating criminal enterprise."
+summary: "Term Danny Casolaro used for a network linking the PROMIS software theft, Iran-Contra, the October Surprise, BCCI and intelligence-connected drug trafficking; the nickname predates him and was applied to MCA."
 ---
 "The Octopus" was the working title and central organizing metaphor used by investigative journalist [[Danny Casolaro]] for a unified criminal conspiracy he believed connected multiple overlapping scandals of the 1970s and 1980s. Casolaro began investigating the [[PROMIS Software Scandal]] in 1990 after contact with [[Bill Hamilton]] of [[INSLAW]], but concluded the PROMIS theft was only one tentacle of a larger organism that reached into the [[Iran-Contra Affair]], the [[October Surprise]], the [[Bank of Credit and Commerce International|BCCI]] banking collapse, government-sanctioned drug trafficking, and organized crime networks with roots in Cold War covert operations.[^1][^2]
 
-The term predates Casolaro's investigation. Journalist Dan Moldea used "The Octopus" in his 1986 book *Dark Victory: Ronald Reagan, MCA, and the Mob*, applying it to [[Music Corporation of America|MCA]] and its alleged ties to organized crime. Casolaro independently arrived at the same metaphor through his own investigation, unaware of Moldea's usage.[^1]
+The term predates Casolaro's investigation. [[Dan Moldea]] wrote that Judge [[Paul J. McCormick]] used the phrase in the 1946 *Finley v. Music Corporation of America* case in the Southern District of California, calling the agency "the Octopus ... with tentacles reaching out to all phases and grasping everything in show business," and that the image became the company's nickname in the Hollywood trade and press. The *Saturday Evening Post* ran a four-part series, "Star-Spangled Octopus," by David G. Wittels beginning August 10, 1946; Nat Hentoff published "The Octopus of Show Business" in *The Reporter* on November 23, 1961; and *Show* ran "MCA: The Octopus Devours the World" in February 1962. Moldea used the term in his 1986 book *Dark Victory: Ronald Reagan, MCA, and the Mob*, applying it to [[Music Corporation of America|MCA]] and its alleged ties to organized crime.[^3] Casolaro independently arrived at the same metaphor through his own investigation, unaware of Moldea's usage.[^1]
 
 ### Core Allegations
 
@@ -29,17 +29,17 @@ PROMIS and the DOJ: The alleged theft of INSLAW's [[PROMIS]] software by the [[D
 
 The October Surprise: Allegations that [[William J. Casey]], [[George H.W. Bush]], and a network of intelligence operatives negotiated with Iranian officials in 1980 to delay the release of U.S. hostages until after [[Ronald Reagan|Reagan's]] inauguration, in exchange for arms. Casolaro's source [[Michael Riconosciuto]] claimed he and Brian personally carried $40 million to Iranian officials for this purpose.[^1]
 
-Iran-Contra: The covert supply of arms to Iranian-backed forces and funding of the Nicaraguan [[Contras]] through off-the-books channels, including weapons manufacturing operations Casolaro connected to the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation|Cabazon]] joint venture in California, where weapons were allegedly developed for Third World armies using the reservation's sovereign status to evade federal controls.[^1][^3]
+Iran-Contra: The covert supply of arms to Iranian-backed forces and funding of the Nicaraguan [[Contras]] through off-the-books channels, including weapons manufacturing operations Casolaro connected to the [[Wackenhut Corporation|Wackenhut]]-[[Cabazon Indian Reservation|Cabazon]] joint venture in California, where weapons were allegedly developed for Third World armies using the reservation's sovereign status to evade federal controls.[^1][^4]
 
 BCCI: The Bank of Credit and Commerce International, which served as the primary financial infrastructure for covert operations, arms trafficking, and money laundering by the network. Casolaro believed the PROMIS backdoor had also been used to penetrate BCCI and other international banking systems including [[CHIPS]] and [[SWIFT]].[^1]
 
-Drug Trafficking: CIA-connected drug networks flowing from the [[Golden Triangle]] and [[Central America]], with Casolaro connecting [[Robert Booth Nichols]] to both the Octopus network and to drug trafficking through the Medellin and [[Cali Drug Cartel|Cali Cartels]]. Casolaro also investigated connections between former DOJ official [[Michael Abbell]] and the Cali Drug Cartel, a lead provided by Riconosciuto.[^1][^3]
+Drug Trafficking: CIA-connected drug networks flowing from the [[Golden Triangle]] and [[Central America]], with Casolaro connecting [[Robert Booth Nichols]] to both the Octopus network and to drug trafficking through the Medellin and [[Cali Drug Cartel|Cali Cartels]]. Casolaro also investigated connections between former DOJ official [[Michael Abbell]] and the Cali Drug Cartel, a lead provided by Riconosciuto.[^1][^4]
 
 Organized Crime: Figures including Nichols, who held alleged ties to the [[Gambino Crime Family]], [[Bufalino Crime Family]], and the Japanese [[Yakuza]], served as the connective tissue between intelligence operations and criminal enterprises.[^1]
 
 ### Key Sources
 
-Casolaro's investigation rested heavily on Michael Riconosciuto, a computer scientist and self-described CIA contractor who provided the central allegations about PROMIS modification and the October Surprise payment. Casolaro considered Riconosciuto's March 1991 affidavit a breakthrough, though subsequent investigations found Riconosciuto to be an unreliable witness whose accounts contained irreconcilable contradictions.[^4]
+Casolaro's investigation rested heavily on Michael Riconosciuto, a computer scientist and self-described CIA contractor who provided the central allegations about PROMIS modification and the October Surprise payment. Casolaro considered Riconosciuto's March 1991 affidavit a breakthrough, though subsequent investigations found Riconosciuto to be an unreliable witness whose accounts contained irreconcilable contradictions.[^5]
 
 Robert Booth Nichols, an international operative under FBI investigation for money laundering and narcotics ties, spent hundreds of hours on the phone with Casolaro and warned him repeatedly to abandon the investigation. Nichols reportedly flew to [[Martinsburg, West Virginia]] shortly before Casolaro's death to persuade him to drop the story, and wrote a manuscript titled "Danny Casolaro's Octopus" after Casolaro died - asserting he believed Casolaro had been murdered.[^1]
 
@@ -53,12 +53,13 @@ On August 10, 1991, Casolaro was found dead in a hotel bathtub in Martinsburg, W
 
 The Octopus framework shaped how investigators and journalists subsequently approached the overlapping scandals of the Reagan era. The INSLAW-PROMIS story, the October Surprise allegations, and the BCCI collapse were each investigated separately by congressional committees; none formally adopted the unified "Octopus" theory, though the House Judiciary Committee's 1992 INSLAW report acknowledged connections to Iran-Contra and the October Surprise.[^2]
 
-In 1999, journalist and author Kenn Thomas and Jim Keith published *The Octopus: Secret Government and the Death of Danny Casolaro*, examining Casolaro's research and the circumstances of his death. A Netflix documentary series, *American Conspiracy: The Octopus Murders*, was released in February 2024, presenting FOIA-obtained Martinsburg police records indicating another person visited Casolaro's hotel room the night before his death, and raising renewed questions about the suicide ruling.[^5]
+In 1999, journalist and author Kenn Thomas and Jim Keith published *The Octopus: Secret Government and the Death of Danny Casolaro*, examining Casolaro's research and the circumstances of his death. A Netflix documentary series, *American Conspiracy: The Octopus Murders*, was released in February 2024, presenting FOIA-obtained Martinsburg police records indicating another person visited Casolaro's hotel room the night before his death, and raising renewed questions about the suicide ruling.[^6]
 
 ### Footnotes
 
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^2]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty."
-[^4]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
-[^5]: Martinsburg Police Department records released under FOIA to Zachary Treitz and Christian Hansen, 2024; *American Conspiracy: The Octopus Murders*, Netflix, February 28, 2024.
+[^3]: Moldea, Dan E. *Dark Victory: Ronald Reagan, MCA, and the Mob*. New York: Viking, 1986, Prologue, chs. 6 and 7 and bibliography. https://archive.org/details/dark-victory-ronald-reagan-mca-and-the-mob ; *Finley v. Music Corporation of America*, 66 F. Supp. 569 (S.D. Cal. 1946), https://static.case.law/f-supp/66/cases/0569-01.json . The published memorandum addresses damages and costs; the quotation is Moldea's account of McCormick's final statement to the court.
+[^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 6: "They were doing their patriotic duty."
+[^5]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
+[^6]: Martinsburg Police Department records released under FOIA to Zachary Treitz and Christian Hansen, 2024; *American Conspiracy: The Octopus Murders*, Netflix, February 28, 2024.

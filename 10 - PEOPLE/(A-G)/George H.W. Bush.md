@@ -18,6 +18,12 @@ summary: "Vice President under Reagan and 41st U.S. President who dealt with Isr
 born: 1924-06-12
 died: 2018-11-30
 location: "Milton, Massachusetts"
+relations:
+  - type: reported_to
+    with: "[[Gerald R. Ford]]"
+    role: "Director of Central Intelligence"
+    start: 1976-01-30
+    fn: 5
 ---
 George H.W. Bush served as the Vice President under President [[Ronald Reagan]] and later as the 41st President of the United States. He was present at a meeting of Reagan's high command following the Israeli bombing of the Iraqi nuclear reactor at [[Osirak bombing]] in June 1981, where he agreed that some sanctions against [[Israel]] were essential.[^1]
 
@@ -31,11 +37,13 @@ The [[Medellin Cartel|Medellín Cartel]] reportedly made a deal with Vice Presid
 
 At the same time Reagan and Bush were publicly whipping the American public into a frenzy over street-corner crack dealers, [[Oliver North]] and other top administration officials were livid that Contra-connected drug trafficker General [[Jose Bueso Rosa]] had even been charged with a crime. North's computer messages about Bueso Rosa illustrated how skewed the Reagan administration's sense of justice had become regarding its "War on Drugs." [[Scott Weekly]], a figure connected to the CIA and the Hasenfus shootdown, claimed on tape that he reported to people who reported to Bush.[^3]
 
-As director of central intelligence in 1976 Bush was briefed on the CIA's remote-viewing research at [[Stanford Research Institute]] after the agency learned that Soviet visitors were "questioning Puthoff and Targ at SRI," and left office before reacting. As vice president, in 1983 (the chronology's date reads as March 31 or August 3), he "was briefed for thirty minutes concerning [[Center Lane|CENTER LANE]] related activities by Dr. [[Jack Vorona]], DIA," the Army's remote-viewing unit, with "Adm. Murphy, C/S," and "Mr. Gregg" present; INSCOM's chronology records that "the briefing was well received and the Vice President was interested and impressed."[^4]
+On November 3, 1975 President [[Gerald R. Ford]] announced at a news conference that he intended to nominate Ambassador Bush, then the United States representative to the People's Republic of China, as Director of Central Intelligence, succeeding [[William Colby]].[^4] Bush was sworn in as Director of Central Intelligence on January 30, 1976.[^5] As director of central intelligence in 1976 Bush was briefed on the CIA's remote-viewing research at [[Stanford Research Institute]] after the agency learned that Soviet visitors were "questioning Puthoff and Targ at SRI," and left office before reacting. As vice president, in 1983 (the chronology's date reads as March 31 or August 3), he "was briefed for thirty minutes concerning [[Center Lane|CENTER LANE]] related activities by Dr. [[Jack Vorona]], DIA," the Army's remote-viewing unit, with "Adm. Murphy, C/S," and "Mr. Gregg" present; INSCOM's chronology records that "the briefing was well received and the Vice President was interested and impressed."[^6]
 
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 13: "The wrong kind of friends"
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 20: "It is a sensitive matter"
-[^4]: Kress, Kenneth A. "Parapsychology in Intelligence: A Personal Review and Conclusions," *Studies in Intelligence,* vol. 21, no. 4, winter 1977, declassified, document NSA-RDP96X00790R000100010031-3; reprinted with the author's postscript of January 1999 in *Journal of Scientific Exploration,* vol. 13, no. 1, 1999. US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^4]: The President's News Conference, November 3, 1975, including the statement announcing personnel changes. The American Presidency Project. https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-60
+[^5]: Remarks at the Swearing In of George Bush as Director of Central Intelligence, January 30, 1976. The American Presidency Project. https://www.presidency.ucsb.edu/documents/remarks-the-swearing-george-bush-director-central-intelligence
+[^6]: Kress, Kenneth A. "Parapsychology in Intelligence: A Personal Review and Conclusions," *Studies in Intelligence,* vol. 21, no. 4, winter 1977, declassified, document NSA-RDP96X00790R000100010031-3; reprinted with the author's postscript of January 1999 in *Journal of Scientific Exploration,* vol. 13, no. 1, 1999. US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8.

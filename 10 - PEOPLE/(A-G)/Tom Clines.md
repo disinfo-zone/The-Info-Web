@@ -16,6 +16,14 @@ tags:
   - 1980s
 summary: "CIA officer under Ted Shackley at JMWAVE, in Laos, and in the Western Hemisphere Division, later of the Safari Club and Iran-Contra Enterprise network, convicted in 1990 of underreporting Iran-Contra income."
 location: "United States"
+relations:
+  - type: prosecuted
+    with: "[[Lawrence Walsh]]"
+    reverse: true
+    start: 1990-02-22
+    end: 1992-02-27
+    role: "Independent Counsel; indicted February 22, 1990, convicted September 18, 1990, affirmed February 27, 1992"
+    fn: 6
 ---
 
 Thomas G. Clines was a [[Central Intelligence Agency|CIA]] career officer whose career tracked closely with that of his patron [[Ted Shackley]]. Clines served under Shackley at JMWAVE, the CIA's Miami anti-Castro station, in Laos, and in the Western Hemisphere Division, and left CIA in 1979 in the period of Shackley's forced departure by Director Stansfield Turner. He subsequently became a central figure in the private covert operations network that ran from the [[Safari Club]] era through the [[Iran-Contra Affair]].[^1]
@@ -40,7 +48,7 @@ A [[Domestic Contact Service]] cable of June 22, 1976, records a request from th
 
 Clines became an operational participant in the Enterprise, the private covert network directed by Secord and [[Albert Hakim]] that executed the Iran arms sales and Contra funding operations. His primary role was in the logistics and transportation aspects of the Enterprise's weapons movements - specifically managing air freight and cargo operations for weapons shipments.[^1]
 
-Clines was indicted in February 1990 after the guilty pleas and cooperation of Richard Secord and Albert Hakim, and on September 18, 1990 a jury in U.S. District Court in Baltimore, before Judge Norman P. Ramsey, convicted him of four income-tax-related felonies; on December 13, 1990 Ramsey sentenced him to 16 months in prison and a 40,000 dollar fine. The Fourth Circuit affirmed and the Supreme Court denied certiorari.[^6] Secord and Willard Zucker were the central prosecution witnesses; Secord testified under a cooperation agreement.[^6] The prosecution established that Clines had received income from Enterprise operations that he failed to report on his tax returns.[^7]
+Clines was indicted in February 1990 after the guilty pleas and cooperation of Richard Secord and Albert Hakim, and on September 18, 1990 a jury in U.S. District Court in Baltimore, before Judge Norman P. Ramsey, convicted him of four income-tax-related felonies; on December 13, 1990 Ramsey sentenced him to 16 months in prison and a 40,000 dollar fine. The indictment of February 22, 1990 charged four felony counts of underreporting his income to the Internal Revenue Service for 1985 and 1986 and of falsely stating on his 1985 and 1986 returns that he had no foreign financial accounts.[^6] The Fourth Circuit upheld the convictions on February 27, 1992, the Supreme Court denied certiorari, and Clines served his prison sentence.[^6][^7] Secord and Willard Zucker were the central prosecution witnesses; Secord testified under a cooperation agreement.[^7] The prosecution established that Clines had received income from Enterprise operations that he failed to report on his tax returns.[^8]
 
 ### Shackley Network
 
@@ -53,5 +61,6 @@ Clines's career illustrates the structural feature of the Shackley network: offi
 [^3]: Edward T. Pound and Walter S. Mossberg, "Weapons Windfall," Wall Street Journal, Oct. 1, 1982, pp. 1, 18, CIA Reading Room CIA-RDP09S00048R000100020015-5, https://archive.org/details/cia-readingroom-document-cia-rdp09s00048r000100020015-5.
 [^4]: Testimony of Richard V. Secord, Iran-Contra Investigation: Joint Hearings, 100th Cong., 1st sess., Hearings 100-1, p. 303, https://archive.org/details/micro_IA41152829_0342.
 [^5]: Central Intelligence Agency, Domestic Collection Division, case file 65805, "Wackenhut Corp.," JFK Assassination Records Collection, record 104-10291-10017, released 2023. https://www.archives.gov/files/research/jfk/releases/2023/104-10291-10017.pdf, pp. 19-22.
-[^6]: Lawrence E. Walsh, Final Report of the Independent Counsel for Iran/Contra Matters, vol. I, pt. V, ch. 11, "United States v. Thomas G. Clines," pp. 181-184, https://fas.org/irp/offdocs/walsh/chap_11.htm.
-[^7]: Walsh, Lawrence E. *Iran-Contra: The Final Report*. Random House, 1994. Walsh, Lawrence E. *Firewall: The Iran-Contra Conspiracy and Cover-Up*. W.W. Norton, 1997.
+[^6]: Office of the Independent Counsel for Iran/Contra Matters, Final Report, Vol. I, Summary of Prosecutions. https://irp.fas.org/offdocs/walsh/summpros.htm
+[^7]: Lawrence E. Walsh, Final Report of the Independent Counsel for Iran/Contra Matters, vol. I, pt. V, ch. 11, "United States v. Thomas G. Clines," pp. 181-184, https://fas.org/irp/offdocs/walsh/chap_11.htm.
+[^8]: Walsh, Lawrence E. *Iran-Contra: The Final Report*. Random House, 1994. Walsh, Lawrence E. *Firewall: The Iran-Contra Conspiracy and Cover-Up*. W.W. Norton, 1997.

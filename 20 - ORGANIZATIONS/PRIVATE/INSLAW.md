@@ -1,7 +1,7 @@
 ---
 category: "Private Organization"
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-10-09
 start: 1981
 location: "Washington, D.C., USA"
 tags:
@@ -10,7 +10,7 @@ tags:
   - INSLAW
   - Software
   - DoJ
-summary: "INSLAW, Inc. is a Washington-area software company that developed the PROMIS case management system and became the center of a major legal and political scandal after alleging the U.S. Department of Justice stole its proprietary software and drove the company into bankruptcy."
+summary: "INSLAW, Inc. is a Washington-area software company that developed the PROMIS case management system and alleged that the Justice Department stole its proprietary software and drove it into bankruptcy."
 ---
 INSLAW, Inc. is a software company founded by [[Bill Hamilton|William A. Hamilton]] and [[Nancy Hamilton]] as the commercial successor to the Institute for Law and Social Research (ILSR), a Washington, D.C. non-profit think tank that originally developed the [[PROMIS]] (Prosecutor's Management Information System) software under grants from the [[LEAA|Law Enforcement Assistance Administration]]. The company became the center of the [[PROMIS Software Scandal]] following its allegation that the [[Department of Justice|U.S. Department of Justice]] systematically stole its proprietary software, drove it into bankruptcy, and distributed modified versions internationally to foreign intelligence agencies.
 
@@ -32,7 +32,7 @@ When the Reagan administration took office in January 1981 and accelerated cuts 
 
 In March 1982, INSLAW signed a three-year, $10 million contract with the DOJ's [[Executive Office for United States Attorneys]] to install PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. The contract specified installation of a public-domain version of PROMIS; however, INSLAW argued the version it delivered incorporated substantial proprietary enhancements developed with private capital after May 1981, including a relational database structure and recidivism-risk assessment capabilities. DOJ maintained the contract entitled it only to the public-domain base version.[^1][^2]
 
-C. Madison Brewer was assigned as the EOUSA project manager for the contract, a conflict of interest noted by Senate investigators given his prior tenure as ILSR's general counsel. Contract administrator [[Peter Videnieks]] took consistently adversarial positions on INSLAW's proprietary claims throughout the contract period. On April 11, 1983, Videnieks executed Modification 12 to the contract with INSLAW, which restricted DOJ from distributing PROMIS "beyond the Executive Office for United States Attorneys, and to the 94 United States Attorneys' Offices covered by the contract, pending resolution" of the rights dispute. Nine days later, on April 20, 1983, INSLAW delivered the VAX-platform version of enhanced PROMIS under that modification.[^2]
+C. Madison Brewer was assigned as the EOUSA project manager for the contract, a conflict of interest noted by Senate investigators given his prior tenure as ILSR's general counsel. Contract administrator [[Peter Videnieks]] took consistently adversarial positions on INSLAW's proprietary claims throughout the contract period. Modification 12 to the contract with INSLAW, effective April 11, 1983, restricted DOJ from distributing PROMIS "beyond the Executive Office for United States Attorneys, and to the 94 United States Attorneys' Offices covered by the contract, pending resolution" of the rights dispute. Nine days later, on April 20, 1983, INSLAW delivered the VAX-platform version of enhanced PROMIS under that modification.[^2]
 
 DOJ withheld advance payments beginning in November 1982, citing a contractual violation after INSLAW disclosed it had pledged government invoices to the Bank of Bethesda as collateral for a line of credit. INSLAW alleged the withheld payments were pretextual, designed to exacerbate a financial crisis the Department had helped engineer. Under continuing financial duress, INSLAW filed for Chapter 11 bankruptcy protection in February 1985.[^1][^2]
 
