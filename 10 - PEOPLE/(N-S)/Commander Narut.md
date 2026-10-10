@@ -12,12 +12,12 @@ tags:
   - ColdWar
   - NATO
   - Interrogation
-summary: "US Navy clinical psychologist stationed in Naples who disclosed at a 1975 NATO conference in Oslo that the Navy had trained 'combat psychopaths' as assassins through a three-phase audio-visual desensitization program, triggering a brief international scandal before retracting the most specific of his claims under institutional pressure."
+summary: "US Navy clinical psychologist in Naples who told a 1975 NATO conference in Oslo that the Navy trained 'combat psychopaths' as assassins, then retracted the most specific claims under institutional pressure."
 born: 1935
 died: 1994-04-19
 location: Naples, Italy
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-10-09
 ---
 Thomas E. Narut was a [[U.S. Navy]] clinical psychologist stationed at the US Naval Regional Medical Center in [[Naples]], [[Italy]], who in June or July 1975 disclosed in private conversation at a [[NATO]] conference in [[Oslo]] that the Navy operated a program to select, condition, and deploy personnel as covert assassins. The disclosure appeared in the [[London]] [[The Sunday Times|Sunday Times]] on July 6, 1975, under the headline "The Strange Tale of Commander Narut," authored by Peter Watson, the paper's science correspondent. It was denied the same day by the Pentagon, and Narut partially retracted his most specific claim within days under institutional pressure. Watson never retracted the story.[^1]
 
@@ -59,8 +59,9 @@ After his London press conference, Narut returned to Naples and continued at the
 
 ### Absence of Congressional Investigation
 
-No congressional investigation specifically addressed Narut's claims. The [[Church Committee]] was active in 1975 and in November of that year issued its interim report on CIA assassination plots, documenting programs targeting Fidel Castro, Patrice Lumumba, Rafael Trujillo, Ngo Dinh Diem, and [[Rene Schneider|René Schneider]], but the committee's focus was on CIA operations rather than Navy psychological conditioning programs. In January 1976 the committee did examine a CIA assassination unit designated PB/7, a parallel to Narut's claims involving a different agency. President Ford issued Executive Order 11905 in February 1976 banning US government-sanctioned assassinations of foreign leaders. The absence of specific congressional pursuit of Narut's disclosures, despite their timing during the Church Committee investigation, remains one of the unresolved gaps in the record.[^1]
+No congressional investigation specifically addressed Narut's claims. The [[Church Committee]] was active in 1975 and in November of that year issued its interim report on CIA assassination plots, documenting programs targeting Fidel Castro, Patrice Lumumba, Rafael Trujillo, Ngo Dinh Diem, and [[Rene Schneider|René Schneider]], but the committee's focus was on CIA operations rather than Navy psychological conditioning programs. In January 1976 the committee did examine a CIA assassination unit designated PB/7, a parallel to Narut's claims involving a different agency. The final report's Book IV describes Program Branch 7 (PB/7), headed in the early years of the CIA by Army Colonel [[Boris Pash]], as a "special operations" unit within the [[Office of Policy Coordination]] with jurisdiction over assassinations and kidnappings. The staff stated that it found no evidence that the unit carried out any such operation.[^2] President Ford issued Executive Order 11905 in February 1976 banning US government-sanctioned assassinations of foreign leaders. The absence of specific congressional pursuit of Narut's disclosures, despite their timing during the Church Committee investigation, remains one of the unresolved gaps in the record.[^1]
 
 ### Footnotes
 
 [^1]: Peter Watson, "The Strange Tale of Commander Narut," *Sunday Times* (London), July 6, 1975; Reuters wire service denial, July 6-7, 1975; Peter Watson, *War on the Mind: The Military Uses and Abuses of Psychology*. Basic Books, 1978. pp. 248-250 (Ch. 14); Walter Bowart, *Operation Mind Control*. Dell, 1978; Jeffrey Kaye, "UK Sunday Times: US Navy Placed 'Hit Men' in Overseas Embassies," Substack, kayej.substack.com.
+[^2]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book IV, "Supplementary Detailed Staff Reports on Foreign and Military Intelligence," S. Rept. 94-755, April 26, 1976, pp. 128 to 129 (section II, "The 'Special Operations' Unit"; subsection A, "Program Branch 7: A Special Operations Unit with Assassination Jurisdiction"; the staff's sources include a CIA letter to the committee of January 16, 1976 and an Office of Policy Coordination planning memorandum of January 1, 1976).

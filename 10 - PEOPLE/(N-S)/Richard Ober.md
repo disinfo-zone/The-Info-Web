@@ -14,7 +14,7 @@ aliases:
   - Dick Ober
   - Richard Ober
 created: 2026-05-15
-updated: 2026-10-05
+updated: 2026-10-09
 summary: "CIA counterintelligence officer who headed the Special Operations Group that ran Operation CHAOS from August 1967, later Director for Intelligence Coordination at the National Security Council (1974 to 1976)."
 born: 1921
 died: 2001
@@ -84,13 +84,15 @@ The Church Committee wrote that Ober had taken on the duties of coordinating the
 
 ### Deborah Davis and Deep Throat, 1979 to 1983
 
-In *Katharine the Great* (Harcourt Brace Jovanovich, 1979), [[Deborah Davis]] wrote that Ober was "Angleton's deputy" and "one of the few" men in the CIA whom [[Richard Nixon]] trusted; that Ober "was given a small office inside the White House, where he was known only to Nixon, [[H. R. Haldeman]], [[John Ehrlichman]], and possibly [[Henry Kissinger]]"; and that his name was never recorded in White House logs. The passage is quoted in a biographical note on Ober published by the Spartacus Educational website. X[^2][^3]
+In *Katharine the Great* (Harcourt Brace Jovanovich, 1979), Deborah Davis wrote that Ober was "Angleton's deputy" and "one of the few" men in the CIA whom [[Richard Nixon]] trusted; that Ober "was given a small office inside the White House, where he was known only to Nixon, [[H. R. Haldeman]], [[John Ehrlichman]], and possibly [[Henry Kissinger]]"; and that his name was never recorded in White House logs. The passage is quoted in a biographical note on Ober published by the Spartacus Educational website.[^6]
 
 Davis also wrote that Ober was Deep Throat, the [[Washington Post]] source of [[Bob Woodward]] and [[Carl Bernstein]] on [[Watergate]]. According to a 1983 account by Eve Pell in *The Nation* (clipped in CIA files), a lawyer for Ober wrote on the November 6, 1979 publication day that references to his client were "defamatory and libelous," called Davis's theory that Ober was involved in Watergate dirty tricks a "complete fabrication," and branded as false her assertion that he had been involved with the "Plumbers" group headed by [[E. Howard Hunt]] and [[G. Gordon Liddy]] or had helped plan the break-in at the office of [[Daniel Ellsberg]]'s psychiatrist. Davis agreed to delete the allegations about Watergate involvement; because the lawyer did not deny her claim that Ober was Deep Throat, she let that stand. [[Ben Bradlee]] separately wrote to her editor that she had made thirty-nine errors on thirty-nine pages where his name appeared. Harcourt Brace Jovanovich withdrew as publisher in early 1980, and in October 1983 paid Davis $100,000 to settle her breach-of-contract suit.[^7] The Hoover finding aid describes Davis as having "mistakenly named Ober as Deep Throat" and lists a potential legal case in which Ober figured as a potential plaintiff.[^1][^7]
 
 ### National Security Council and retirement
 
 After CHAOS was reported by [[Seymour Hersh]] in the [[New York Times]] on December 22, 1974, Ober was seconded to the National Security Council as its senior staff member for intelligence matters (Director for Intelligence Coordination, 1974 to 1976). The finding aid states that the publicity prompted the Agency to seek severance of his employment, that he resisted, and that he was retired in 1980.[^1]
+
+Hersh's December 22, 1974 article reported that the unit's liaison with Helms was conducted by Ober, and quoted Ober, reached by telephone, as saying "There's nothing I can say about this."[^8]
 
 ### Testimony, lawsuits and papers
 
@@ -99,9 +101,10 @@ Ober testified to the Rockefeller Commission on March 28, 1975, and to the Churc
 ### Footnotes
 
 [^1]: "Ober (Richard) papers, 1942-2001," finding aid (biographical note, scope and contents), Hoover Institution Library & Archives, Online Archive of California, ark:/13030/c81z4b3g, prepared by Dale Reed. https://oac.cdlib.org/findaid/ark:/13030/c81z4b3g
-[^2]: Church Committee, *Final Report*, Book III, "CIA Intelligence Collection About Americans: CHAOS and the Office of Security," S. Rept. 94-755, April 26, 1976, pp. 679 to 730 (citing Ober testimony, October 28 and 30, 1975; Ober before the Rockefeller Commission, March 28, 1975; Eatinger testimony, October 14, 1975; Memorandum from Karamessines to Angleton, August 15, 1967). https://www.aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf
+[^2]: Church Committee, *Final Report*, Book III, "CIA Intelligence Collection About Americans: CHAOS and the Office of Security," S. Rept. 94-755, April 26, 1976, pp. 679 to 732 (citing Ober testimony, October 28 and 30, 1975; Ober before the Rockefeller Commission, March 28, 1975; Eatinger testimony, October 14, 1975; Memorandum from Karamessines to Angleton, August 15, 1967). https://www.aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf
 [^3]: Rockefeller Commission, *Report to the President by the Commission on CIA Activities Within the United States* (June 1975), Chapter 11, "Special Operations Group, 'Operation CHAOS,'" pp. 130 to 151, discussion of compartmentation and supervision. https://www.aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf
 [^4]: Richard Ober, Memorandum for the Record, "Procedures for Restricted Handling of RYBAT MHCHAOS Traffic," May 29, 1969, CIA Reading Room doc. C01475738. https://archive.org/details/cia-readingroom-document-01475738
 [^5]: CIA cable from Richard Ober, September 10, 1971, "RYBAT MHCHAOS," CIA Reading Room doc. C01482292. https://archive.org/details/cia-readingroom-document-01482292
 [^6]: Deborah Davis, *Katharine the Great: Katharine Graham and Her Washington Post Empire* (Harcourt Brace Jovanovich, 1979), as quoted in "Richard Ober," Spartacus Educational. https://spartacus-educational.com/JFKober.htm
 [^7]: Eve Pell, "Private Censorship: Killing 'Katharine the Great,'" *The Nation*, November 12, 1983, as clipped in CIA-RDP90-00845R000201250018-9. https://archive.org/details/CIA-RDP90-00845R000201250018-9
+[^8]: Seymour M. Hersh, "Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces, Other Dissidents in Nixon Years," *New York Times*, December 22, 1974, p. 1 (continued p. 26).

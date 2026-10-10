@@ -5,7 +5,7 @@ aliases:
   - MERRIMAC
   - Project Merrimac
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-09
 category: "Intelligence Operation"
 tags:
   - Program
@@ -17,7 +17,7 @@ tags:
   - Antiwar
   - 1960s
   - 1970s
-summary: "Project MERRIMAC was a CIA Office of Security program (approximately 1967-1974) that infiltrated antiwar and civil rights organizations in Washington D.C., feeding intelligence to Operation CHAOS through the CACTUS pipeline before exposure by Seymour Hersh and the Church Committee."
+summary: "CIA Office of Security program (about 1967-1974) that infiltrated antiwar and civil rights organizations in Washington, D.C., feeding Operation CHAOS through the CACTUS pipeline until exposed by Seymour Hersh and the Church Committee."
 start: 1967-02-01
 end: 1974-03-01
 location: "Washington, D.C."
@@ -48,7 +48,7 @@ MERRIMAC's intelligence products fed into a broader interagency architecture. Th
 
 Project MERRIMAC and its companion program [[Project RESISTANCE]] were documented in the Church Committee's Book III, "[CIA Intelligence Collection About Americans: CHAOS and the Office of Security](aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf)" (S. Rept. 94-755, April 26, 1976). The [[Rockefeller Commission 1975|Rockefeller Commission]] addressed the programs in Chapter 11 of its [report](aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf.[^1]).
 
-The Church Committee found that MERRIMAC advance notice did serve its stated protective function in some instances, but that this had expanded into "large investigative programs against New Left organizations" that went well beyond any security purpose. The committee documented that MERRIMAC assets collected and disseminated information about targeted groups to other intelligence agencies, functioning as a general domestic intelligence collection system. The committee protected the identities of specific MERRIMAC infiltrators; no MERRIMAC assets have been publicly identified in the declassified record.[^1]
+The Church Committee found that MERRIMAC advance notice did serve its stated protective function in some instances, but that this had expanded into "large investigative programs against New Left organizations" that went well beyond any security purpose. The committee documented that MERRIMAC assets collected and disseminated information about targeted groups to other intelligence agencies, functioning as a general domestic intelligence collection system. The committee protected the identities of specific MERRIMAC infiltrators; no MERRIMAC assets have been publicly identified in the declassified record.[^1] Within Book III, whose CHAOS and Office of Security section runs from page 679 to page 732, the Office of Security programs begin at page 721 (Project RESISTANCE, page 721; Project MERRIMAC, page 723; special security investigations, page 726).[^3]
 
 ### Exposure
 
@@ -64,3 +64,4 @@ Project RESISTANCE was MERRIMAC's paired program, collecting information about r
 
 [^1]: Church Committee, "CIA Intelligence Collection About Americans: CHAOS and the Office of Security," Book III, S. Rept. 94-755, April 26, 1976. aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf. Rockefeller Commission, "Special Operations Group - 'Operation CHAOS,'" Chapter 11. aarclibrary.org/publib/church/rockcomm/pdf/RockComm_Chap11_CHAOS.pdf. Rafalko, Frank J. *MH/CHAOS: The CIA's Campaign Against the Radical New Left and the Black Panthers*. Naval Institute Press, 2011. MuckRock, "The Interagency CACTUS Program Served as the Conduit Between CIA's Operation CHAOS and FBI's COINTELPRO," December 2017. muckrock.com.
 [^2]: CIA FOIA Reading Room, document 00018134. cia.gov/readingroom/document/00018134. Black Vault, "Projects CHAOS / MERRIMAC / RESISTANCE." Mary Ferrell Foundation cryptonym database, maryferrell.org/php/cryptdb.php?id=MERRIMAC.
+[^3]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book III, S. Rept. 94-755, April 26, 1976, pp. 679 to 732 (CHAOS and the Office of Security), at pp. 721, 723 and 726.

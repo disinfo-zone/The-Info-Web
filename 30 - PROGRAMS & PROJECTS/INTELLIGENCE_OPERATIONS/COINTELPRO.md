@@ -1,10 +1,10 @@
-﻿---
+---
 title: COINTELPRO
 aliases:
   - COINTELPRO
   - Counter Intelligence Program
 created: 2026-05-14
-updated: 2026-05-17
+updated: 2026-10-09
 category: "Intelligence Operation"
 tags:
   - Program
@@ -17,7 +17,7 @@ tags:
   - 1950s
   - 1960s
   - 1970s
-summary: "COINTELPRO (Counter Intelligence Program) was a covert FBI domestic operations program (1956-1971) targeting political organizations through infiltration, psychological warfare, fabricated mail, wrongful prosecution, and coordination with local law enforcement, exposed by the 1971 Media FBI office break-in."
+summary: "Covert FBI domestic operations program (1956-1971) targeting political organizations through infiltration, fabricated mail, wrongful prosecution and coordination with local police, exposed by the 1971 Media FBI office break-in."
 start: 1956-01-01
 end: 1971-04-27
 location: "Washington, D.C."
@@ -50,11 +50,11 @@ COINTELPRO employed documented methods including:
 
 ### Martin Luther King Jr. and the Suicide Letter
 
-The Bureau's operation against [[Martin Luther King Jr.]] ran from 1963 until his 1968 assassination and included wiretaps, informant infiltration, and a concerted effort to destroy his leadership. On November 21, 1964, the FBI delivered an anonymous package to King's home containing a letter and a reel-to-reel recording of alleged sexual indiscretions; the letter called him "a colossal fraud and an evil, vicious one" and demanded he act within 34 days or face exposure, which King and his advisers understood as an inducement to suicide. The letter was written by [[William C. Sullivan]], the FBI's deputy director for domestic intelligence and operational head of COINTELPRO, whose authorship was confirmed when a copy surfaced in his files during the 1975 Church Committee hearings; the full unredacted text was found in Hoover's confidential files at the [[National Archives]] in 2014 by historian [[Beverly Gage]].[^3]
+The Bureau's operation against [[Martin Luther King Jr.]] ran from 1963 until his 1968 assassination and included wiretaps, informant infiltration, and a concerted effort to destroy his leadership. On November 21, 1964, the FBI delivered an anonymous package to King's home containing a letter and a reel-to-reel recording of alleged sexual indiscretions; the letter called him "a colossal fraud and an evil, vicious one" and demanded he act within 34 days or face exposure, which King and his advisers understood as an inducement to suicide. The letter was written by [[William C. Sullivan]], the FBI's deputy director for domestic intelligence and operational head of COINTELPRO, whose authorship was confirmed when a copy surfaced in his files during the 1975 Church Committee hearings; the full unredacted text was found in Hoover's confidential files at the [[National Archives]] in 2014 by historian [[Beverly Gage]].[^2]
 
 ### Relationship to Operation CHAOS
 
-COINTELPRO (FBI) and [[Operation CHAOS]] (CIA) operated in the same period targeting the same demographic of antiwar and radical organizations, and were institutionally linked through the CACTUS interagency program. The CACTUS pipeline served as the conduit for exchange of intelligence between the CIA's CHAOS operation and the FBI's COINTELPRO, allowing both agencies to develop overlapping dossiers on American citizens and organizations and to coordinate targeting without either agency having to formally acknowledge the other's domestic surveillance activities. [[Richard Ober]]'s CHAOS Special Operations Group sent more than 5,000 reports to the FBI over seven years, while receiving FBI-generated information in return.[^1][^2]
+COINTELPRO (FBI) and [[Operation CHAOS]] (CIA) operated in the same period targeting the same demographic of antiwar and radical organizations, and were institutionally linked through the CACTUS interagency program. The CACTUS pipeline served as the conduit for exchange of intelligence between the CIA's CHAOS operation and the FBI's COINTELPRO, allowing both agencies to develop overlapping dossiers on American citizens and organizations and to coordinate targeting without either agency having to formally acknowledge the other's domestic surveillance activities. [[Richard Ober]]'s CHAOS Special Operations Group sent more than 5,000 reports to the FBI over seven years, while receiving FBI-generated information in return.[^1][^3]
 
 ### Exposure and Investigation
 
@@ -62,12 +62,14 @@ On March 8, 1971, a group calling itself the Citizens' Commission to Investigate
 
 Hoover formally terminated COINTELPRO on April 27, 1971, less than two months after the Media break-in, citing the need to protect the Bureau from further disclosure.[^1]
 
-The Church Committee documented COINTELPRO in its final report, concluding: "Many of the targets of COINTELPRO were not criminals or terrorists but were private citizens who openly advocated unpopular ideas and who committed no illegal acts." The Committee found that "groups and individuals have been harassed and disrupted because of their political views and not their criminal conduct." The Bureau's own records showed it had opened more than half a million domestic intelligence files since 1960. The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, S. Rept. 94-755, April 26, 1976, is the primary published government record of COINTELPRO.[^1]
+The Church Committee described the Bureau's domestic intelligence activity in its final report: "Groups and individuals have been harassed and disrupted because of their political views and their lifestyles," and "Investigations of groups deemed potentially dangerous ... have continued for decades, despite the fact that those groups did not engage in unlawful activity." The Bureau's own records showed it had opened more than half a million domestic intelligence files since 1960. The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, S. Rept. 94-755, April 26, 1976, is the primary published government record of COINTELPRO.[^4] Book III of the committee's final report devotes pages 1 to 80 to COINTELPRO, pages 81 to 184 to a case study of the investigation of Martin Luther King Jr., and pages 185 to 224 to the campaign against the Black Panther Party.[^5]
 
 The [[Senate Select Committee on Intelligence|Senate Intelligence Committee]]'s book-length study of domestic CIA and FBI surveillance activities, *Final Report of the Select Committee to Study Governmental Operations With Respect to Intelligence Activities* (1976), remains the definitive primary-source compilation of the program's documented scope.[^1]
 
 ### Footnotes
 
 [^1]: Church Committee, S. Rept. 94-755 (April 26, 1976). Ward Churchill and Jim Vander Wall, *The COINTELPRO Papers: Documents from the FBI's Secret Wars Against Domestic Dissent*. South End Press, 1990. Betty Medsger, *The Burglary: The Discovery of J. Edgar Hoover's Secret FBI*. Knopf, 2014 (principal account of the Media break-in). Hersh, Seymour M. "Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces." New York Times, December 22, 1974.
-[^2]: MuckRock, "The Interagency CACTUS Program Served as the Conduit Between CIA's Operation CHAOS and FBI's COINTELPRO," December 2017. muckrock.com. Church Committee, "CIA Intelligence Collection About Americans: CHAOS and the Office of Security," Book III, S. Rept. 94-755. aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf.
-[^3]: Gage, Beverly. "What an Uncensored Letter to M.L.K. Reveals," *New York Times Magazine*, November 11, 2014; Williams, Juan, "FBI Tied to '69 Raid That Killed 2 Panthers," *Washington Post*, May 24, 1977; Hampton v. Hanrahan, 600 F.2d 600 (7th Cir. 1979).
+[^2]: Gage, Beverly. "What an Uncensored Letter to M.L.K. Reveals," *New York Times Magazine*, November 11, 2014; Williams, Juan, "FBI Tied to '69 Raid That Killed 2 Panthers," *Washington Post*, May 24, 1977; Hampton v. Hanrahan, 600 F.2d 600 (7th Cir. 1979).
+[^3]: MuckRock, "The Interagency CACTUS Program Served as the Conduit Between CIA's Operation CHAOS and FBI's COINTELPRO," December 2017. muckrock.com. Church Committee, "CIA Intelligence Collection About Americans: CHAOS and the Office of Security," Book III, S. Rept. 94-755. aarclibrary.org/publib/church/reports/book3/pdf/ChurchB3_9_CHAOS.pdf.
+[^4]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book II, S. Rept. 94-755, April 26, 1976, p. 5 ("Groups and individuals have been harassed and disrupted because of their political views and their lifestyles") and p. 19 (more than 500,000 separate investigations of persons and groups under the "subversive" category).
+[^5]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book III, S. Rept. 94-755, April 26, 1976, "COINTELPRO: The FBI's Covert Action Programs Against American Citizens," pp. 1 to 80; "Dr. Martin Luther King, Jr., Case Study," pp. 81 to 184 (contents page at p. 79); "The FBI's Covert Action Program To Destroy The Black Panther Party," pp. 185 to 224.

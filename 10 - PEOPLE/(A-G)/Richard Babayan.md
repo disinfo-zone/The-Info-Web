@@ -13,7 +13,7 @@ tags:
   - Arms
 summary: "Richard Babayan is an Iranian national, arms broker and INSLAW affiant whose 1992 testimony on 1980 meetings between William Casey and Iranian officials the House October Surprise Task Force rejected."
 created: 2026-05-14
-updated: 2026-10-07
+updated: 2026-10-09
 location: "Florida"
 relations:
   - type: investigated
@@ -84,6 +84,6 @@ Ben-Menashe alleged that in 1987 the flow of funds from PROMIS sales extended to
 [^9]: Walter Pincus, Washington Post, November 24, 1992, report on the Senate Foreign Relations subcommittee special counsel's preliminary conclusions (reprinted by American Cybercasting). https://stuff.mit.edu/afs/net/user/tytso/usenet/americast/wpost/1645
 [^10]: Joint Report, note 415, citing letter from Terry O'Connor, inspector in charge, Federal Bureau of Investigation, to Hon. Lee Hamilton, October 27, 1992, and App. at 574 to 580. https://archive.org/details/6199732-Joint-Report-of-the-October-Surprise-Task-Force
 [^11]: INSLAW, Inc., Third Supplemental Submission of INSLAW in Support of Its Motion to Take Limited Discovery, United States Bankruptcy Court for the District of Columbia, Case No. 85-00070 (Chapter 11), Adversary Proceeding No. 86-0069, undated, footnote on page 7 (affidavit and Palm Beach passage). Refers to February 1991 events. https://archive.org/details/InslawAffairInBriefSupportingDocs. Pages 6 and 7 and footnote 1 on page 7.
-[^12]: Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of INSLAW, Inc., March 1993, conclusions on Hadron and international distribution, Ben-Menashe affidavits, and the Michael Riconosciuto section (begins p. 42). https://archive.org/details/doj-oip-inslaw-1993
+[^12]: Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of INSLAW, Inc., March 1993, pp. 73-74 (Ben-Menashe affidavits of February 17, 1991 and March 21, 1991), 79 ("We were not disposed to conduct an international search of foreign governments and intelligence operatives on the basis of Ben-Menashe's allegations"), 122 (Hadron: "no credible evidence that Hadron ever tried to acquire Inslaw or PROMIS") and 151 (international distribution: "has not proceeded past the preliminary stages"). https://archive.org/details/doj-oip-inslaw-1993
 [^13]: "New Report Finds No Credible Basis for INSLAW Case," Department of Justice release, September 27, 1994. https://irp.fas.org/news/1994/940927-555.htm
 [^14]: Ari Ben-Menashe, *Profits of War: Inside the Secret U.S.-Israeli Arms Network* (Sheridan Square Press, 1992; TrineDay reprint, 2015).

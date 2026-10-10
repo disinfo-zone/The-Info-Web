@@ -5,18 +5,20 @@ tags:
   - CIA
   - BlackPrograms
   - Whistleblower
-summary: "Former CIA special assistant who co-authored The CIA and the Cult of Intelligence, the first book ever censored by the US government, and revealed that mind control black programs continued after the 1977 congressional ban, only better hidden."
+summary: "Former CIA special assistant who co-authored The CIA and the Cult of Intelligence, the first book censored by the US government, and said mind control black programs continued after the 1977 congressional ban."
 born: 1929-12-23
 died: 2018-10-19
 location: Ashburn, Virginia
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-09
 ---
 Victor Marchetti was born December 23, 1929, in [[Hazleton]], [[Pennsylvania]], and joined the [[CIA]] in October 1955. He served as an analyst in the Office of Research and Reports and the Office of National Estimates before moving to the Office of Planning, Programming, and Budgeting in 1966. From July 1968 to 1969, Marchetti served as special assistant to CIA Deputy Director [[Rufus Taylor]], giving him access to the agency's highest-level operations and budget allocations. He resigned from the CIA in September 1969, disillusioned with the agency's culture of secrecy and extralegal activities.[^1][^2]
 
 ### The CIA and the Cult of Intelligence
 
 In 1974, Marchetti co-authored *[[The CIA and the Cult of Intelligence]]* with [[John D. Marks]], a former State Department intelligence officer. The book was the first manuscript ever subjected to prior review and censorship by the [[United States]] government under the intelligence employment secrecy agreement. The CIA initially demanded deletion of 339 passages; after legal proceedings, 168 deletions were enforced. The published book, with its prominent blank spaces where censored material had been removed, became a symbol of government overreach on secrecy and actually drew more attention to the redacted material than the original text would have. The legal fight established important precedents for government employees' First Amendment rights and the public's right to know about intelligence operations.[^2]
+
+Hersh's December 22, 1974 New York Times article on CIA domestic activities listed Marchetti among the former employees placed under surveillance.[^3] When Hersh's New York Times article of May 25, 1975 described American submarine intercept operations, the Department of Justice, the CIA and the White House examined whether its content came from papers filed with the court in the *Marchetti* case. A May 31, 1975 memorandum in the Cheney files states, "We believe the Hersh story of May 25 is based on papers filed with the court in the Marchetti case." An undated memorandum from Assistant Attorney General [[Rex E. Lee]] and Acting Assistant Attorney General [[John C. Keeney]] set out a possible criminal contempt proceeding in the Eastern District of Virginia over a protective order in the case, and recorded that a document quoted in the article had been available to plaintiffs Marchetti and John Marks, their counsel and their expert witness [[Morton Halperin]].[^4] At the May 27, 1975 meeting President [[Gerald Ford]] and his advisers discussed the Supreme Court's refusal to review the case, and William Colby said the Agency had taken up with Justice that day the possibility of a contempt citation against the Marchetti lawyers.[^5]
 
 ### Revelations About Continuing Black Programs
 
@@ -34,3 +36,6 @@ Marchetti continued to write and speak about intelligence community abuses. He p
 
 [^1]: Curt Rowlett, "Project Mind Kontrol: Did the U.S. Government Actually Create Programmed Assassins?," Steamshovel Press #16, 1998.
 [^2]: Marchetti, Victor, and John D. Marks. *The CIA and the Cult of Intelligence*. Alfred A. Knopf, 1974. (First book censored by the U.S. government prior to publication; 168 passages excised by court order); "The CIA and the Cult of Intelligence," First Amendment Encyclopedia, Middle Tennessee State University. https://firstamendment.mtsu.edu/article/the-cia-and-the-cult-of-intelligence/
+[^3]: Foreign Relations of the United States, 1969-1976, vol. XXXVIII, Part 2, Document 17, Editorial Note, https://history.state.gov/historicaldocuments/frus1969-76v38p2/d17.
+[^4]: Richard B. Cheney Files, Box 6, folder "Intelligence - New York Times Articles by Seymour Hersh (2)," Gerald R. Ford Presidential Library, https://www.fordlibrarymuseum.gov/library/document/0005/7288231.pdf (memorandum of May 31, 1975, para. 6; Lee and Keeney memorandum, pp. 1 and 6).
+[^5]: Memorandum of conversation, May 27, 1975, Ford Library, National Security Adviser, Memoranda of Conversations, Box 12, https://www.fordlibrarymuseum.gov/library/document/0314/1553088.pdf, p. 2.

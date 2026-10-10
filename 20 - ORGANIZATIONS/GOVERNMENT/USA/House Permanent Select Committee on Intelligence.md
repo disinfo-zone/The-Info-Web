@@ -33,14 +33,14 @@ relations:
     role: "chairman, 105th through 108th Congresses"
     fn: 11
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-09
 ---
 
 The House Permanent Select Committee on Intelligence was "created in 1977" and "is charged with oversight of the [[United States]] Intelligence Community," now eighteen elements, and the Military Intelligence Program.[^1] It and the [[Senate Select Committee on Intelligence]] grew out of the findings of the [[Church Committee]].[^2]
 
 ### Psychic Research
 
-After *Parade* published "[[Psychic Spying]]" on August 7, 1977, the committee asked the [[Central Intelligence Agency|CIA]] for a briefing. [[David Brandwein]], director of the [[Office of Technical Service]], gave three staff members "a short oral history of OTS efforts in the field, dating back to 1961" on November 16, 1977, and left them a written outline of the work classified SECRET, the unclassified article on the research at [[Stanford Research Institute]] and "a brief article on Mr. [[Pat Price]]." He handled most of the office's briefing of Representative [[Charlie Rose]] on February 9, 1978.[^3] On October 25, 1978, Rose, as chairman of the committee's evaluation subcommittee, wrote to [[Ruth Davis]] of the Defense Department that "we have a strong obligation also to learn what Soviet research is underway" and that he would "like to see the [[Department of Defense]] undertake those efforts deemed necessary and appropriate to investigate remote viewing and other related phenomena."[^4] On March 28, 1995, the CIA sent its status responses on the [[Stargate Project|Star Gate]] program to the committee's chairman, [[Larry Combest]], during the [[1995 transfer of Star Gate to the CIA]].[^5]
+After the *Washington Post* published "[[Psychic Spying]]?" by [[John L. Wilhelm]], a former *Time* science correspondent, in its Outlook section on August 7, 1977, the committee asked the [[Central Intelligence Agency|CIA]] for a briefing. [[David Brandwein]], director of the [[Office of Technical Service]], attended the briefing of three staff members, to whom the officers presented "a short oral history of OTS efforts in the field, dating back to 1961" on November 16, 1977, and left them a written outline of the work classified SECRET, the unclassified article on the research at [[Stanford Research Institute]] and "a brief article on Mr. [[Pat Price]]." Brandwein largely handled the office's briefing of Representative [[Charlie Rose]] on February 9, 1978.[^3] On October 25, 1978, Rose, as chairman of the committee's evaluation subcommittee, wrote to [[Ruth Davis]] of the Defense Department that "we have a strong obligation also to learn what Soviet research is underway" and that he would "like to see the [[Department of Defense]] undertake those efforts deemed necessary and appropriate to investigate remote viewing and other related phenomena."[^4] On March 28, 1995, the CIA sent its status responses on the [[Stargate Project|Star Gate]] program to the committee's chairman, [[Larry Combest]], during the [[1995 transfer of Star Gate to the CIA]].[^5]
 
 ### Other Records
 

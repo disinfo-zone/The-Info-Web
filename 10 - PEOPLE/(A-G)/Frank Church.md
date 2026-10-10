@@ -1,6 +1,6 @@
-﻿---
+---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-09
 title: Frank Church
 aliases:
   - Frank Church
@@ -16,7 +16,7 @@ tags:
   - ColdWar
   - 1970s
   - 1980s
-summary: "Frank Church was a Democratic senator from Idaho who chaired the 1975-1976 Senate Select Committee on Intelligence Activities that documented COINTELPRO, Operation CHAOS, assassination plots against foreign leaders, and illegal domestic surveillance by the CIA, FBI, and NSA."
+summary: "Democratic senator from Idaho who chaired the 1975-1976 Senate Select Committee on Intelligence Activities, which documented COINTELPRO, Operation CHAOS, assassination plots against foreign leaders and illegal domestic surveillance by the CIA, FBI and NSA."
 born: 1924-07-25
 died: 1984-04-07
 location: "Boise, Idaho"
@@ -30,7 +30,7 @@ Church was born in Boise, Idaho. He served in U.S. Army Military Intelligence du
 
 ### The Church Committee
 
-In January 1975, the Senate created the Select Committee to Study Governmental Operations with Respect to Intelligence Activities in the aftermath of Seymour Hersh's December 1974 New York Times reporting on [[Operation CHAOS]]. Church was appointed chairman. The committee ran through April 1976 and produced a final report (S. Rept. 94-755) and fourteen volumes of supplementary staff reports documenting:
+In January 1975, the Senate created the Select Committee to Study Governmental Operations with Respect to Intelligence Activities in the aftermath of Seymour Hersh's December 1974 New York Times reporting on [[Operation CHAOS]]. Church was appointed chairman. The committee ran through April 1976 and produced an interim report on assassination plots (S. Rept. 94-465, November 20, 1975), a six-book final report (S. Rept. 94-755, April 26, 1976, Books I to VI) and seven volumes of hearings, documenting:[^2]
 
 - Operation CHAOS: the CIA's domestic surveillance program targeting antiwar organizations, found to be unlawful
 - [[COINTELPRO]]: the FBI's systematic campaign against political organizations, including programs resulting in the death of activists such as [[Fred Hampton]]
@@ -48,3 +48,4 @@ Church ran for the Democratic presidential nomination in 1976, entering the prim
 ### Footnotes
 
 [^1]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, S. Rept. 94-755, April 26, 1976. Olmsted, Kathryn S. *Challenging the Secret Government: The Post-Watergate Investigations of the CIA and FBI*. University of North Carolina Press, 1996.
+[^2]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book I, S. Rept. 94-755, April 26, 1976, title page; *Hearings*, vols. 1 to 7, "Senate Resolution 21." https://archive.org/details/ChurchCommittee

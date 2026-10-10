@@ -1,6 +1,6 @@
-﻿---
+---
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-10-09
 title: William Sullivan
 aliases:
   - William C. Sullivan
@@ -14,7 +14,7 @@ tags:
   - 1960s
   - 1970s
 category: "Law Enforcement & Legal"
-summary: "William C. Sullivan was the FBI's Assistant Director for Domestic Intelligence who architected COINTELPRO, drafted the 1964 anonymous 'suicide letter' to Martin Luther King Jr., was fired by Hoover in 1971, and was shot in a ruled hunting accident on November 9, 1977, the day before he was to testify to congressional investigators."
+summary: "FBI domestic intelligence chief who ran COINTELPRO, was named in FBI records as preparing the 1964 anonymous letter to Martin Luther King Jr., was fired in 1971, and died in a 1977 hunting accident."
 born: 1912-05-12
 died: 1977-11-09
 location: "Sugar Hill, New Hampshire"
@@ -30,11 +30,11 @@ Sullivan was known within the FBI as intellectually aggressive and willing to pu
 
 ### COINTELPRO and King
 
-As head of Domestic Intelligence, Sullivan was the senior FBI official responsible for COINTELPRO operations targeting the [[Southern Christian Leadership Conference]] and King personally. Following the announcement that King would receive the Nobel Peace Prize in October 1964, Sullivan supervised the preparation of an anonymous package containing a tape recording from a King hotel room accompanied by a letter characterizing King as a fraud and implicitly encouraging him to commit suicide before the Nobel ceremony. The letter was mailed to King's home in [[Atlanta, Georgia|Atlanta]], where his wife Coretta opened it.
+As head of Domestic Intelligence, Sullivan was the senior FBI official responsible for COINTELPRO operations targeting the [[Southern Christian Leadership Conference]] and King personally. Following the announcement that King would receive the Nobel Peace Prize in October 1964, Sullivan supervised the preparation of an anonymous package containing a tape recording from a King hotel room accompanied by a letter characterizing King as a fraud and implicitly encouraging him to commit suicide before the Nobel ceremony. The package was addressed to King and mailed from a post office near the Miami airport on or about November 21, 1964, and was received at the Southern Christian Leadership Conference office in [[Atlanta, Georgia|Atlanta]], which stored it and later sent it to King's home with other tapes.[^2]
 
-The [[Church Committee]] confirmed in 1975-1976 that Sullivan's division had prepared and sent this letter. The letter was the most extreme documented example of the FBI's COINTELPRO effort to neutralize King as a civil rights leader, and it appeared in the Church Committee's final report as evidence of one of the most egregious abuses of the program.
+The [[Church Committee]] recorded that Sullivan testified on November 1, 1975 that [[Alan Belmont]] told him Hoover wanted a King tape mailed to [[Coretta Scott King]], that he sent an agent to Tampa to mail a package, and that he did not recall ever having seen the letter given to the committee by the FBI, which he said it was "possible" he had something to do with and which he suggested might have been "planted" in his files.[^2] In his 1979 memoir Sullivan wrote that his division prepared the letter.[^3] The letter was the most extreme documented example of the FBI's COINTELPRO effort to neutralize King as a civil rights leader, and it appeared in the Church Committee's final report as evidence of one of the most egregious abuses of the program.
 
-Sullivan also supervised the wiretapping of King's phones and hotel rooms, the infiltration of SCLC chapters with informants, and the dissemination of derogatory information about King to news organizations and government officials including the [[White House]] and [[Department of Justice]].[^2]
+Sullivan also supervised the wiretapping of King's phones and hotel rooms, the infiltration of SCLC chapters with informants, and the dissemination of derogatory information about King to news organizations and government officials including the [[White House]] and [[Department of Justice]].[^4]
 
 ### Break with Hoover
 
@@ -55,4 +55,6 @@ The timing of Sullivan's death - the day before planned congressional testimony,
 ### Footnotes
 
 [^1]: Sullivan, William C. *The Bureau: My Thirty Years in Hoover's FBI.* Norton, 1979. Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Intelligence Activities and the Rights of Americans.* Book II, Senate Report No. 94-755, 1976.
-[^2]: Garrow, David. *The FBI and Martin Luther King, Jr.* Norton, 1981. O'Reilly, Kenneth. *"Racial Matters": The FBI's Secret File on Black America, 1960-1972.* Free Press, 1989.
+[^2]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book III, S. Rept. 94-755, April 26, 1976, King case study, pp. 158 to 161 (Sullivan, November 1, 1975, pp. 104 to 106 and 112; Young, February 19, 1976).
+[^3]: William C. Sullivan, *The Bureau: My Thirty Years in Hoover's FBI* (Norton, 1979).
+[^4]: Garrow, David. *The FBI and Martin Luther King, Jr.* Norton, 1981. O'Reilly, Kenneth. *"Racial Matters": The FBI's Secret File on Black America, 1960-1972.* Free Press, 1989.

@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-10-09
 title: Stanley Levison
 aliases:
   - Stanley David Levison
@@ -13,7 +13,7 @@ tags:
   - ColdWar
   - 1960s
 category: "Activists & Advocates"
-summary: "Stanley Levison was a New York attorney and businessman who was one of Martin Luther King Jr.'s closest advisors and who had Communist Party USA ties in the early 1950s - providing the FBI's legal justification for wiretapping King and the SCLC beginning in 1962, despite the FBI's own evidence that Levison had severed his Communist Party ties before he became associated with King."
+summary: "New York attorney and businessman, one of Martin Luther King Jr.'s closest advisors, whose Communist Party USA ties in the early 1950s were the FBI's stated basis for wiretapping King and the SCLC from 1962."
 born: 1912-05-02
 died: 1979-09-12
 location: "New York, New York"
@@ -39,7 +39,7 @@ The FBI's wiretap authorization, granted by Robert Kennedy in October 1963, cove
 
 The [[Church Committee]] investigated the FBI's surveillance of King and found that the Levison justification was inadequate to support the scope of surveillance actually conducted. The committee found that the FBI had information undermining the claim that Levison remained an active communist by the time the surveillance was authorized, and that the surveillance had extended far beyond any legitimate counterintelligence purpose into pure political harassment and disruption under [[COINTELPRO]].
 
-The committee documented that [[William Sullivan]], head of the FBI's Domestic Intelligence Division, had personally prepared the anonymous "suicide letter" sent to King - a letter whose contents had nothing to do with any alleged Levison-communist connection and everything to do with destroying King's public reputation.
+[[William Sullivan]], head of the FBI's Domestic Intelligence Division, testified to the committee on November 1, 1975 that he did not recall ever having seen the anonymous letter to King that the FBI gave the committee, which he said it was "possible" he had something to do with and which he suggested might have been "planted" in his files.[^3] The case study's account of the surveillance of King's "Adviser A" records a microphone in Adviser A's office on March 16, 1962, a wiretap on his office telephone on March 20, 1962 and a wiretap on his home telephone authorized by the Attorney General in November 1962, and states that the information from the continued coverage "appears to have related solely to his advice to Dr. King concerning the civil rights movement and not at all to the alleged Communist Party origins of that advice."[^4]
 
 ### Later Life
 
@@ -48,4 +48,6 @@ After King's assassination in April 1968, Levison remained active in civil right
 ### Footnotes
 
 [^1]: Garrow, David. *The FBI and Martin Luther King, Jr.* Norton, 1981. Levison's FBI file, released under the Freedom of Information Act, documents the surveillance history.
-[^2]: Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Intelligence Activities and the Rights of Americans.* Book II, Senate Report No. 94-755, 1976. Branch, Taylor. *Parting the Waters: America in the King Years 1954-1963.* Simon & Schuster, 1988.
+[^2]: Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Intelligence Activities and the Rights of Americans.* Book III, "Dr. Martin Luther King, Jr., Case Study," pp. 81 to 184, Senate Report No. 94-755, 1976. Branch, Taylor. *Parting the Waters: America in the King Years 1954-1963.* Simon & Schuster, 1988.
+[^3]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book III, S. Rept. 94-755, April 26, 1976, "Dr. Martin Luther King, Jr., Case Study," pp. 158 to 161 (Sullivan, November 1, 1975).
+[^4]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book III, S. Rept. 94-755, April 26, 1976, "Dr. Martin Luther King, Jr., Case Study," pp. 81 to 184, at pp. 88 to 89 (Adviser A surveillance).

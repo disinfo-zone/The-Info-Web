@@ -16,9 +16,9 @@ tags:
   - MediaBurglary
   - DarkAlliance
   - IranContra
-summary: "Washington newspaper whose reporters the CIA surveilled in 1971 and 1972, which published the 1971 FBI burglary documents, the 1996 Dark Alliance rebuttal and the 1977 Parade item behind a House briefing on psychic research."
+summary: "Washington newspaper whose reporters the CIA surveilled in 1971 and 1972, which published the 1971 FBI burglary documents, the 1996 Dark Alliance rebuttal and the 1977 Outlook article behind a House briefing on psychic research."
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-09
 relations:
   - type: head_of
     with: "[[Katharine Graham]]"
@@ -67,7 +67,7 @@ The State Department's Foreign Relations series records that on March 19, 1975, 
 
 ### Bush, the Post and the press executives, 1976
 
-The [[Washington Star]] reported on February 10, 1976 that, according to the Post, officials of the New York Times and [[CBS]] had offered general support to Director [[George H.W. Bush|George Bush]]'s appeal to keep secret the names of journalists who had worked for the Agency, and that the [[Church Committee|Senate Intelligence Committee]] had been informed that one news executive told Bush: "We protect our (news) sources. You protect yours." The Star reported that CBS's [[Walter Cronkite]] believed the names should be put on the table.[^8]
+The [[Washington Star]] reported on February 10, 1976 that, according to the Post, officials of the New York Times and [[CBS]] had offered general support to Director [[George H.W. Bush|George Bush]]'s appeal to keep secret the names of journalists who had worked for the Agency, and that the Senate Intelligence Committee had been informed that one news executive told Bush: "We protect our (news) sources. You protect yours." The Star reported that CBS's [[Walter Cronkite]] believed the names should be put on the table.[^8]
 
 ### Pincus, Woodward and Iran-Contra
 
@@ -79,7 +79,7 @@ A CIA memorandum of November 3, 1987 records that on November 2 [[Bob Woodward]]
 
 In November 1976 the Post reported that the [[Department of Justice|Justice Department]] had charged [[Hal Hendrix]], described as a former [[Pulitzer Prize]]-winning newsman who lived in Miami, with withholding information from a Senate subcommittee investigating [[International Telephone and Telegraph]] and the CIA in [[Chile]]. An [[Associated Press]] report carried by the same paper stated that at the November 30, 1976 hearing in Miami, at which Hendrix pleaded guilty to a misdemeanor, a Justice Department lawyer said the CIA had been told of his intention to withhold from the committee that he had been in contact with the Agency, and that the court record "makes clear" that CIA cables revealed his information "came from the CIA station chief [in] Santiago and to some extent from the American ambassador himself."[^12] A Post article of November 1, 1976 on the [[Orlando Letelier]] investigation reported that the CIA believed the Chilean military did not take part in the killing, and that Bush had expressed this view to Secretary of State [[Henry Kissinger]].[^13]
 
-A CIA Office of Technical Service memorandum of November 17, 1977 records that the [[House Permanent Select Committee on Intelligence]]'s interest in the Agency's research on extrasensory perception "was occasioned by the article 'Psychic Spying' which appeared in the Parade Section of the Washington Post on 7 August 1977." Committee staff were briefed on November 16, 1977 by [[David Brandwein]] and left with "a brief article on Mr. [[Pat Price]]," the [[Stanford Research Institute]] subject.[^14]
+A CIA Office of Technical Service memorandum of November 17, 1977 records that the [[House Permanent Select Committee on Intelligence]]'s interest in the Agency's research on extrasensory perception "was occasioned by the article 'Psychic Spying' which appeared in the Parade Section of the Washington Post on 7 August 1977." The article, "Psychic Spying?" by [[John L. Wilhelm]], a former *Time* science correspondent, ran in the Post's Outlook section (pp. 1-5). Committee staff were briefed on November 16, 1977 by [[David Brandwein]] and left with "a brief article on Mr. [[Pat Price]]," the [[Stanford Research Institute]] subject.[^14]
 
 ### Dark Alliance, 1996 to 1998
 
