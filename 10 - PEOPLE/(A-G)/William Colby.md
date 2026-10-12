@@ -24,7 +24,7 @@ died: 1996-04-27
 location: "Saint Paul, Minnesota"
 ---
 
-William Egan Colby (January 4, 1920 - April 27, 1996) served as Director of Central Intelligence from September 1973 to January 1976 under Presidents Nixon and Ford. His tenure was defined by his decision to cooperate with congressional investigations into CIA domestic surveillance activities, a choice that made him deeply unpopular within the agency's leadership and among figures like [[James Jesus Angleton]] and [[Richard Helms]].[^1]
+William Egan Colby (January 4, 1920 - April 27, 1996) served as Director of Central Intelligence from September 4, 1973 to January 30, 1976 (after [[Vernon Walters]] served as acting director from July 2, 1973) under Presidents Nixon and Ford. His tenure was defined by his decision to cooperate with congressional investigations into CIA domestic surveillance activities, a choice that made him deeply unpopular within the agency's leadership and among figures like [[James Jesus Angleton]] and [[Richard Helms]].[^1][^2]
 
 ### Vietnam Service
 
@@ -32,17 +32,17 @@ Colby served as CIA station chief in Saigon during the [[Vietnam War]] and from 
 
 ### Angleton Firing and Operation CHAOS
 
-In December 1974, Seymour Hersh approached Colby with material for a forthcoming New York Times article on the CIA's domestic surveillance activities under [[Operation CHAOS]] (MHCHAOS). On December 17, 1974 - five days before Hersh's article appeared on December 22 - Colby dismissed Angleton, who had headed the Counterintelligence Staff that ran CHAOS under director [[Richard Ober]]. Angleton had served as the CIA's chief of counterintelligence for 21 years.[^1][^2]
+In December 1974, Seymour Hersh approached Colby with material for a forthcoming New York Times article on the CIA's domestic surveillance activities under [[Operation CHAOS]] (MHCHAOS). On December 17, 1974 - five days before Hersh's article appeared on December 22 - Colby dismissed Angleton, who had headed the Counterintelligence Staff that ran CHAOS under director [[Richard Ober]]. Angleton had served as the CIA's chief of counterintelligence for 21 years.[^1][^3]
 
 Colby's cooperation with the subsequent [[Church Committee]] investigation of CHAOS and other "Family Jewels" programs (a compilation of potentially illegal CIA activities assembled by Colby's predecessor [[James Schlesinger]] in 1973) was deeply controversial within the CIA. Critics including former DCI Helms accused him of betraying the agency; defenders argued he prevented far more damaging forced exposure.[^1]
 
 ### Israel and Nuclear Weapons
 
-Colby held a documented assessment of Israeli nuclear capability. He shared the assumption that Israel had a small number of nuclear weapons by 1973 and believed they would be used "only in an extreme situation." His analysis was tested during the October 1973 Yom Kippur War when Israeli military performance initially deteriorated. He believed that in the event of a potential Israeli military collapse, Israel might use its nuclear weapons.[^3]
+Colby held a documented assessment of Israeli nuclear capability. He shared the assumption that Israel had a small number of nuclear weapons by 1973 and believed they would be used "only in an extreme situation." His analysis was tested during the October 1973 Yom Kippur War when Israeli military performance initially deteriorated. He believed that in the event of a potential Israeli military collapse, Israel might use its nuclear weapons.[^4]
 
 ### Legacy and the Contra War
 
-Colby's tenure established institutional patterns in deniable covert operations that carried into the Contra war era through his protégé [[William Nelson]], who subsequently served as the CIA's Deputy Director of Operations - the head of all covert operations worldwide - before moving to [[Fluor Corporation]]. Methods developed under Colby's leadership for managing deniable operations became standard practice in the later Contra-era programs.[^4]
+Colby's tenure established institutional patterns in deniable covert operations that carried into the Contra war era through his protégé [[William Nelson]], who subsequently served as the CIA's Deputy Director of Operations - the head of all covert operations worldwide - before moving to [[Fluor Corporation]]. Methods developed under Colby's leadership for managing deniable operations became standard practice in the later Contra-era programs.[^5]
 
 ### Death
 
@@ -50,12 +50,13 @@ On April 27, 1996, Colby disappeared from his weekend home in Rock Point, Maryla
 
 ### Israel
 
-William E. Colby served as the Director of the [[Central Intelligence Agency|CIA]] from 1973 to 1976. He shared the assumption that [[Israel]] had a few nuclear weapons and that if there was a collapse during the 1973 [[Yom Kippur War]], there was a possibility that Israel would use them. Colby believed that nuclear weapons would be used "only in an extreme situation."[^5]
+William E. Colby served as the Director of the [[Central Intelligence Agency|CIA]] from 1973 to 1976. He shared the assumption that [[Israel]] had a few nuclear weapons and that if there was a collapse during the 1973 [[Yom Kippur War]], there was a possibility that Israel would use them. Colby believed that nuclear weapons would be used "only in an extreme situation."[^6]
 
 ### Footnotes
 
 [^1]: Powers, Thomas. *The Man Who Kept the Secrets: Richard Helms and the CIA*. Knopf, 1979. Hersh, Seymour M. "Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces." New York Times, December 22, 1974.
-[^2]: Church Committee, S. Rept. 94-755, April 26, 1976.
-[^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.
-[^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion*. Seven Stories Press, 1998. Ch. 9.
-[^5]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.
+[^2]: U.S. Department of State, *Foreign Relations of the United States, 1969-1976*, vol. XXXVIII, part 2, front matter, "Persons" (Walters: "Acting Director of Central Intelligence, July 2, 1973-September 4, 1973"; Colby: "Director of Central Intelligence, September 4, 1973-January 30, 1976"; Schlesinger: "Director of Central Intelligence, February 2-July 2, 1973"). https://history.state.gov/historicaldocuments/frus1969-76v38p2/persons
+[^3]: Church Committee, S. Rept. 94-755, April 26, 1976.
+[^4]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.
+[^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion*. Seven Stories Press, 1998. Ch. 9.
+[^6]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.

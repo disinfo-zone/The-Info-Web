@@ -29,11 +29,13 @@ When Lumumba, the Congo's first elected Prime Minister, sought [[Soviet Union|So
 
 Devlin testified to the [[Church Committee]] in 1975 that he never used the materials and eventually disposed of them by throwing the poison into the [[Congo River]]. His testimony acknowledged he had understood the orders but claimed moral and practical objections to carrying them out.[^1] The committee's interim report calls the Leopoldville station officer "Hedgman." The scientist it calls "Joseph Scheider" testified on October 7 and 9, 1975 that he destroyed the viability of the biological material and disposed of it in the Congo River before leaving the Congo on October 5, 1960, and the station officer testified on August 21, 1975 that he locked the material in the bottom drawer of his safe and disposed of it months later; each recalled disposing of it in the Congo River, alone. The station officer's October 7, 1960 cable to [[Bronson Tweedy]] said that "certain items of continuing usefulness" had been left.[^2]
 
+The 2019 report of the United Nations Eminent Person described the CIA's presence in the Congo in 1961 as including air operations and activities that included planned assassinations. It recorded that Chief of Station Larry Devlin coordinated agents designated "WIROGUE" and "QJWIN," and attributed the planned assassinations to "the programme 'ZRRIFLE' and other programmes" rather than to Devlin by name.[^3] The report did not state whether Devlin knew of or approved the programmes it named.
+
 ### Lumumba's Death
 
 Despite Devlin's claimed refusal of the assassination order, Lumumba was captured, transferred to Katanga, and killed on January 17, 1961, by Katangese forces under [[Moise Tshombe]] with Belgian officers present. The precise extent of CIA foreknowledge or facilitation of this transfer - as opposed to the separate biological assassination plan Devlin received - has not been fully resolved by the documentary record.
 
-Devlin acknowledged to the Church Committee that the CIA was aware of Lumumba's transfer to Katanga and that this transfer made his survival unlikely. A 2001 Belgian parliamentary inquiry found Belgian government and intelligence officers directly involved in the killing. The question of whether CIA officers encouraged or facilitated the handover remained contested.[^3]
+Devlin acknowledged to the Church Committee that the CIA was aware of Lumumba's transfer to Katanga and that this transfer made his survival unlikely. A 2001 Belgian parliamentary inquiry found Belgian government and intelligence officers directly involved in the killing. The question of whether CIA officers encouraged or facilitated the handover remained contested.[^4]
 
 ### Mobutu and the Congo's Political Future
 
@@ -51,4 +53,5 @@ In 2007, one year before his death, Devlin published *Chief of Station, Congo: F
 
 [^1]: Devlin, Lawrence. *Chief of Station, Congo: Fighting the Cold War in a Hot Zone.* Public Affairs, 2007. Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Alleged Assassination Plots Involving Foreign Leaders.* Senate Report No. 94-465, 1975.
 [^2]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report*, S. Rept. 94-465, November 20, 1975, pp. 24 to 31 (Scheider, October 7 and 9, 1975; Hedgman, August 21, 1975, pp. 48 to 49 and 84 to 85). https://archive.org/details/allegedassassina00unit
-[^3]: Kalb, Madeleine G. *The Congo Cables: The Cold War in Africa from Eisenhower to Kennedy.* Macmillan, 1982. De Witte, Ludo. *The Assassination of Lumumba.* Verso, 2001.
+[^3]: A/73/973, report of the Eminent Person, September 12, 2019, paragraph 26. https://documents.un.org/api/symbol/access?s=A%2F73%2F973&l=en&t=pdf
+[^4]: Kalb, Madeleine G. *The Congo Cables: The Cold War in Africa from Eisenhower to Kennedy.* Macmillan, 1982. De Witte, Ludo. *The Assassination of Lumumba.* Verso, 2001.

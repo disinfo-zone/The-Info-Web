@@ -22,6 +22,23 @@ category: "Military"
 summary: "Army lieutenant of the 902d Military Intelligence Group attached to Grill Flame in 1978 for his earlier research, who screened the first Army remote viewers and was acting project manager of Center Lane in 1983."
 born: 1947-01-01
 location: "Glendale, California"
+relations:
+  - type: head_of
+    with: "[[Monroe Institute]]"
+    role: President
+    start: 2006
+    fn: 12
+  - type: employed_by
+    with: "[[Monroe Institute]]"
+    role: Research Director
+    start: 1988
+    fn: 12
+  - type: participant_in
+    with: "[[Gondola Wish]]"
+    role: Project officer
+    start: 1978
+    end: 1978
+    fn: 3
 ---
 
 Frederick Holmes "Skip" Atwater (born 1947, Glendale, California) was the [[U.S. Army]] intelligence officer at [[Fort Meade]], Maryland, who proposed the formation of a military remote viewing unit in 1977, recruited its initial personnel, and served as its operations officer through the program's most active period until his retirement from the Army in 1987. His proposal directly initiated what became the [[Stargate Project]] series of programs - Gondola Wish, Grill Flame, Center Lane, [[Sun Streak]] - that constituted the military's remote viewing research and intelligence effort for nearly two decades.
@@ -56,12 +73,27 @@ Frederick H. Atwater, known as Skip, was a lieutenant in the Special Security De
 
 He remained the unit's operations officer through Grill Flame and [[Center Lane]]. INSCOM's chronology records, under July 7, 1983, "CPT Frederick Atwater assumes duties as Acting Project Manager," and under August 15, 1983, that Lieutenant Colonel Brian Buzby assumed duties as project manager.[^1] Published accounts by participants credit him with recruiting the first six viewers, among them Joe McMoneagle and Mel Riley, and with the unit's training in [[Robert Monroe]]'s Hemi-Sync method, which the Center Lane briefing dates to the end of 1980. After retiring from the Army in 1988 he became research director of the Monroe Institute's laboratory and, in 2006, its president, and was a founder and president of the International Remote Viewing Association.[^5][^6][^7]
 
+### Gateway Training and the Monroe Institute
+
+On July 29, 1978, as project officer for Gondola Wish, Atwater attended a seminar by [[Charles Tart]] on out-of-body experiences; his memorandum of July 31, 1978 records that Tart referred attendees who asked where to learn more about out-of-body experience to the Monroe Institute of Applied Sciences.[^3]
+
+Atwater attended the Institute's eight-day training seminar from September 20 to 28, 1980 to assess it for the INSCOM Grill Flame Project. His trip report of September 30, 1980 recommended that experienced remote viewers be scheduled for the Institute's seminars and records that Robert Monroe had signed a consultant security agreement and that contact with the Institute had been on a "shallow cover" basis.[^8] In a memorandum of March 12, 1982 as Ops/Training Officer he proposed the Institute's Discovery series as a screening tool and the Gateway program as the second phase of an enhanced relaxation and concentration program, followed by one-on-one sessions with Monroe, the use of the Monroe tapes during operational sessions and biomonitoring.[^9]
+
+On October 5, 1983 Atwater, as Operations Officer, and Lieutenant Colonel [[Brian Buzby]] briefed the Secretary of the Army, [[John Marsh]], on Center Lane; on January 5, 1984 Buzby and "Mr. Fred Atwater" briefed Marsh on Monroe, the Institute and INSCOM involvement with it, and the Secretary asked a series of questions on RAPT, Center Lane and the Institute.[^10][^11]
+
+The Center Lane Project's biographical glossary states that in September 1988 Atwater accepted the position of Research Director in the Bob Monroe Research Lab at the Institute and that in December 2006 he became its president. A 1997 paper in the Journal of Scientific Exploration lists his affiliation as The Monroe Institute, Faber, Virginia. Army papers of 1983 style him "CPT Fred Atwater" (October 12, 1983), "Mr. Atwater" (August 31, 1983) and "Mr. Fred Atwater" (January 6, 1984); a Center Lane access list gives "Frederick H. Atwater, Mr., ASD, Great Skill." Other accounts give his Army retirement as 1987 and as 1988.[^12]
+
 ### Footnotes
 
 [^1]: US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8 and the attachment to CIA-RDP96-00788R001500180001-7, cia.gov/readingroom/docs/CIA-RDP96-00788R001500180001-7.pdf.
 [^2]: 902d Military Intelligence Group, memorandum for Chief, OPSEC Support Division, "GONDOLA WISH (U)," May 18, 1978, signed Frederick H. Atwater, 2LT, MI, CI Studies Section, CIA-RDP96-00788R002000160007-7, cia.gov/readingroom/docs/CIA-RDP96-00788R002000160007-7.pdf.
 [^3]: 902d Military Intelligence Group, "Attendance at Scientific Seminar in Support of GONDOLA WISH (U)," July 31, 1978, signed Frederick H. Atwater, Project Officer, CIA-RDP96-00788R002000160013-0, cia.gov/readingroom/docs/CIA-RDP96-00788R002000160013-0.pdf.
 [^4]: Memorandum for record, "Minutes of the Grill Flame Committee Meeting, 14 Feb 79," with the representatives roster as enclosure 1, CIA-RDP96-00788R002000130002-5, cia.gov/readingroom/docs/CIA-RDP96-00788R002000130002-5.pdf.
-[^5]: US Army Intelligence and Security Command, "INSCOM Project Grill Flame: Progress Report #1," February 21, 1979, with enclosures, CIA-RDP96-00788R001100070001-3. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
-[^6]: US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection. US Army Intelligence and Security Command, "Briefing - Project Center Lane," c. 1984, CIA-RDP96-00789R002100180002-8. Read in the archive.org mirror of the CIA FOIA Reading Room STARGATE collection.
+[^5]: US Army Intelligence and Security Command, "INSCOM Project Grill Flame: Progress Report #1," February 21, 1979, with enclosures, CIA-RDP96-00788R001100070001-3..
+[^6]: US Army Intelligence and Security Command, "List of Events from September 1977 to January 1986," CIA-RDP96-00788R001100020001-8.. US Army Intelligence and Security Command, "Briefing - Project Center Lane," c. 1984, CIA-RDP96-00789R002100180002-8..
 [^7]: Monroe Institute and International Remote Viewing Association biographical notices, and Atwater, F. Holmes. *Captain of My Ship, Master of My Soul.* Hampton Roads, 2001; McMoneagle, Joseph. *The Stargate Chronicles.* Hampton Roads, 2002.
+[^8]: Atwater, Frederick H., memorandum for the record, "Trip Report, 18-28 September 1980," September 30, 1980. CIA-RDP96-00788R001200060028-4, CIA reading room, STARGATE collection.
+[^9]: Atwater, Frederick H., memorandum IAGPC-G, March 12, 1982. CIA-RDP96-00788R001200060027-5, CIA reading room, STARGATE collection.
+[^10]: US Army Intelligence and Security Command, memorandum of October 12, 1983. CIA-RDP96-00788R001700270014-1, CIA reading room, STARGATE collection.
+[^11]: Security Support Detachment, USAINSCOM, memorandum of January 6, 1984. CIA-RDP96-00788R001700270003-3, CIA reading room, STARGATE collection.
+[^12]: Center Lane Project, glossary entry "Fred Holmes Skip Atwater," centerlane-rv.org/glossary/skip-atwater; Atwater, F. Holmes, "Accessing Anomalous States of Consciousness with a Binaural Beat Technology," *Journal of Scientific Exploration* 11, no. 3 (1997): 263-274.
