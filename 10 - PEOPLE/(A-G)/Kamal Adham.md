@@ -24,7 +24,12 @@ relations:
     with: "[[United States Department of Justice]]"
     reverse: true
     end: 1992-07-29
-    fn: 16
+    fn: 17
+  - type: investigated
+    with: "[[Securities and Exchange Commission]]"
+    reverse: true
+    role: "probe under the Foreign Corrupt Practices Act into Boeing and Lockheed arms sales to Saudi Arabia; Federal Reserve staff learned of it in 1981"
+    fn: 15
 ---
 Kamal Adham was the former head of [[Saudi Arabian intelligence]] and brother-in-law of the late [[King Faisal]]. He was a significant shareholder in [[Bank of Credit and Commerce International|BCCI]] and [[First American Bank]]. Adham was a shrewd and jovial figure who straddled the worlds of Middle Eastern business and politics for decades. He was considered one of the true inside power players of the [[Middle East]].[^1]
 
@@ -54,13 +59,15 @@ Adham was one of four original investors, with [[Faisal Saud al-Fulaij]], Sheikh
 
 In a letter to the Federal Reserve of April 10, 1991, Adham gave another account of the investment's origin: a friend, Hasan Yassin, had told him Financial General would be a good investment, and he had brought it to BCCI "as his business agent." The Senate report called this "completely inconsistent" with the accounts of [[Bert Lance]], the *[[The Washington Post|Washington Post]]* and Robert Altman, and noted that Lance had never heard of Yassin.[^12]
 
+The Senate report states that the Federal Reserve asked the Central Intelligence Agency in 1981 whether it held derogatory information on the Middle Eastern shareholders of CCAH. The CIA replied that it had none, and did not tell the Federal Reserve that Adham and [[A. R. (Abdul Raouf) Khalil|Abdul Raouf Khalil]] were intelligence liaisons of the United States. Adham had also been the subject of a [[Securities and Exchange Commission]] probe under the [[Foreign Corrupt Practices Act]] into [[Boeing]] and Lockheed arms sales to Saudi Arabia. The report states that Federal Reserve staff learned of the intelligence contacts and of the commission's probe into Adham's and Faisal al-Fulaij's alleged receipt of bribes in 1981.[^15]
+
 ### Intelligence Background
 
-The Senate report recorded that the CIA, asked about the CCAH shareholders, told the Federal Reserve it had no derogatory information on them, without telling it that Adham and [[A. R. (Abdul Raouf) Khalil|Abdul Raouf Khalil]] were "the past and then-current Saudi intelligence liaisons to the United States," or that Adham and Fulaij had been the subject of a [[Securities and Exchange Commission]] inquiry under the [[Foreign Corrupt Practices Act]] into arms sales to Saudi Arabia by [[Boeing]] and [[Lockheed Corporation|Lockheed]]. Paul Volcker, who as chairman of the Federal Reserve signed the 1981 approval, testified in 1991 that he "wasn't aware" of Adham's intelligence background and that it "might send an eyebrow or two up." The Virginia bank regulator Sidney Bailey asked the [[State Department]] and the CIA for information on the shareholders and received none; "at the time," the report found, "the CIA knew precisely who Adham was."[^12][^15]
+The Senate report recorded that the CIA, asked about the CCAH shareholders, told the Federal Reserve it had no derogatory information on them, without telling it that Adham and Abdul Raouf Khalil were "the past and then-current Saudi intelligence liaisons to the United States," or that Adham and Fulaij had been the subject of a Securities and Exchange Commission inquiry under the Foreign Corrupt Practices Act into arms sales to Saudi Arabia by Boeing and [[Lockheed Corporation|Lockheed]]. Paul Volcker, who as chairman of the Federal Reserve signed the 1981 approval, testified in 1991 that he "wasn't aware" of Adham's intelligence background and that it "might send an eyebrow or two up." The Virginia bank regulator Sidney Bailey asked the [[State Department]] and the CIA for information on the shareholders and received none; "at the time," the report found, "the CIA knew precisely who Adham was."[^12][^16]
 
 ### Plea
 
-On July 29, 1992, the [[United States Department of Justice|Justice Department]] announced that Adham and his accountant, Sayed Jawhary, had pleaded guilty to charges arising from the BCCI case, and that Adham had agreed to cooperate with investigators and to pay 105 million dollars in reparations and fines.[^16]
+On July 29, 1992, the [[United States Department of Justice|Justice Department]] announced that Adham and his accountant, Sayed Jawhary, had pleaded guilty to charges arising from the BCCI case, and that Adham had agreed to cooperate with investigators and to pay 105 million dollars in reparations and fines.[^17]
 
 ### Footnotes
 
@@ -78,5 +85,6 @@ On July 29, 1992, the [[United States Department of Justice|Justice Department]]
 [^12]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 6, "BCCI in the United States: Initial Entry." https://irp.fas.org/congress/1992_rpt/bcci/06early.htm
 [^13]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 14, "Abu Dhabi: BCCI's Founding and Majority Stockholders." https://irp.fas.org/congress/1992_rpt/bcci/14abudhabi.htm
 [^14]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 13, "Clark Clifford and Robert Altman." https://irp.fas.org/congress/1992_rpt/bcci/13clifford.htm
-[^15]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 11, "BCCI, the CIA and Foreign Intelligence." https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
-[^16]: "Clifford, Altman indicted in BCCI bank fraud," United Press International, July 29, 1992. https://www.upi.com/Archives/1992/07/29/Clifford-Altman-indicted-in-BCCI-bank-fraud/5122712382400/
+[^15]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 11, "BCCI, the CIA and Foreign Intelligence" (the CIA's reply to the Federal Reserve; the Foreign Corrupt Practices Act probe; text following notes 10 to 12). https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
+[^16]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 11, "BCCI, the CIA and Foreign Intelligence." https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
+[^17]: "Clifford, Altman indicted in BCCI bank fraud," United Press International, July 29, 1992. https://www.upi.com/Archives/1992/07/29/Clifford-Altman-indicted-in-BCCI-bank-fraud/5122712382400/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dark Alliance
 aliases:
   - Dark Alliance
@@ -24,23 +24,24 @@ The series opened the first pipeline between [[Colombia]]'s cocaine cartels and 
 
 ### Public Reaction
 
-Initially published during the week between the Republican and Democratic national conventions, the series gained traction through talk radio and the Internet. The Web site recorded over one million hits in a single day. The Los Angeles City Council unanimously called for a federal investigation. Both [[California]] senators and a half-dozen congressmen demanded inquiries. CIA Director John Deutch ordered an internal investigation. [[Time]] magazine called it "the hottest topic in black America." Webb appeared on CNN, C-SPAN, MSNBC, and Dateline NBC.[^3]
+Initially published during the week between the Republican and Democratic national conventions, the series gained traction through talk radio and the Internet. The Web site recorded over one million hits in a single day. The Los Angeles City Council unanimously called for a federal investigation. Both [[California]] senators and a half-dozen congressmen demanded inquiries. CIA Director John Deutch ordered an internal investigation. [[Time]] magazine wrote that "the hottest topic in black America, bar none, is whether the CIA was responsible for introducing crack cocaine to the ghetto."[^3] Webb appeared on CNN, C-SPAN, MSNBC, and Dateline NBC.[^4]
 
 ### Media Counterattack
 
-The [[Washington Post]] struck first on October 4, 1996, under the headline "The CIA and Crack: Evidence is Lacking of Alleged Plot." On October 20, 1996, both the [[New York Times]] and [[Los Angeles Times]] launched multi-day attack series, admitting the basic facts were true while arguing they did not prove CIA complicity. Webb discovered the Post's lead attacker, [[Walter Pincus]], had been a former CIA operative. The attacks alarmed Mercury News editors. [[Jerry Ceppos]] ordered Webb to stop advancing the story.[^4]
+The [[Washington Post]] struck first on October 4, 1996, under the headline "The CIA and Crack: Evidence is Lacking of Alleged Plot." On October 20, 1996, both the [[New York Times]] and [[Los Angeles Times]] launched multi-day attack series, admitting the basic facts were true while arguing they did not prove CIA complicity. Webb discovered the Post's lead attacker, [[Walter Pincus]], had been a former CIA operative. The attacks alarmed Mercury News editors. [[Jerry Ceppos]] ordered Webb to stop advancing the story.[^5]
 
 ### Aftermath
 
-On May 11, 1997, Ceppos published a column acknowledging "shortcomings" in the series, a move the New York Times splashed on its front page. Ceppos killed all follow-up stories and transferred Webb to a suburban bureau. Webb resigned from the newspaper in November 1997. In March 1998, CIA Inspector General [[Fred Hitz]] testified before Congress that the CIA had maintained relationships with dozens of suspected drug traffickers during the Contra war and had failed to cut off those relationships. [[The New York Times]] reported on July 17, 1998, that CIA higher-ups knew about the drug connections, confirming central elements of the series.[^5]
+On May 11, 1997, Ceppos published a column acknowledging "shortcomings" in the series, a move the New York Times splashed on its front page. Ceppos killed all follow-up stories and transferred Webb to a suburban bureau. Webb resigned from the newspaper in November 1997. In March 1998, CIA Inspector General [[Fred Hitz]] testified before Congress that the CIA had maintained relationships with dozens of suspected drug traffickers during the Contra war and had failed to cut off those relationships. [[The New York Times]] reported on July 17, 1998, that CIA higher-ups knew about the drug connections, confirming central elements of the series.[^6]
 
-On May 11, 2000, the [[House Permanent Select Committee on Intelligence]] released a unanimously adopted report, having reviewed the CIA and [[Department of Justice|Justice Department]] inspector general reports and raw CIA files and held two town hall meetings in South Central Los Angeles, which concluded that the evidence did not support the implication "that the CIA was responsible for the crack epidemic in Los Angeles or anywhere else in the [[United States]] to further the cause of the Contra war in [[Central America]]."[^6]
+On May 11, 2000, the [[House Permanent Select Committee on Intelligence]] released a unanimously adopted report, having reviewed the CIA and [[Department of Justice|Justice Department]] inspector general reports and raw CIA files and held two town hall meetings in South Central Los Angeles, which concluded that the evidence did not support the implication "that the CIA was responsible for the crack epidemic in Los Angeles or anywhere else in the [[United States]] to further the cause of the Contra war in [[Central America]]."[^7]
 
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue.
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue, Ch. 27.
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 27.
+[^3]: Jack E. White, "Dividing Line: Crack, Contras and Cyberspace," *Time*, September 30, 1996. https://time.com/archive/6729685/dividing-line-crack-contras-and-cyberspace/
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 27.
-[^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue.
-[^6]: U.S. House of Representatives, Permanent Select Committee on Intelligence. *Report on the Central Intelligence Agency's Alleged Involvement in Crack Cocaine Trafficking in the Los Angeles Area,* committee print, 106th Cong., February 2000; HPSCI press statement, May 11, 2000, quoted in *Survey of Activities of the Permanent Select Committee on Intelligence During the 106th Congress,* H. Rept. 106-1054, 2001. https://www.govinfo.gov/content/pkg/CRPT-106hrpt1054/html/CRPT-106hrpt1054.htm
+[^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 27.
+[^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Epilogue.
+[^7]: U.S. House of Representatives, Permanent Select Committee on Intelligence. *Report on the Central Intelligence Agency's Alleged Involvement in Crack Cocaine Trafficking in the Los Angeles Area,* committee print, 106th Cong., February 2000; HPSCI press statement, May 11, 2000, quoted in *Survey of Activities of the Permanent Select Committee on Intelligence During the 106th Congress,* H. Rept. 106-1054, 2001. https://www.govinfo.gov/content/pkg/CRPT-106hrpt1054/html/CRPT-106hrpt1054.htm

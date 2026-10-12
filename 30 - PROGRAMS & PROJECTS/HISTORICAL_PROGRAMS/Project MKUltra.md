@@ -36,6 +36,12 @@ relations:
     end: 1962-08
     role: "investigator, Subproject 134, cost $22,000.00"
     fn: 6
+  - type: participant_in
+    with: "[[Harvard University]]"
+    reverse: true
+    role: "two research projects with Harvard involvement, disclosed by the University in October 1977"
+    start: 1977-10
+    fn: 26
 ---
 
 Project MKUltra was a classified research and operational program of the [[Central Intelligence Agency|CIA]] authorized on April 13, 1953, by Director [[Allen Dulles]] and directed by [[Sidney Gottlieb]], chief of the agency's [[Technical Services Division]]. The program systematically administered [[LSD]] and other drugs, hypnosis, sensory deprivation, electroconvulsive therapy, and psychological coercion to human subjects who had not consented to the experiments - including psychiatric patients, prisoners, drug addicts, sex workers, military personnel, and ordinary members of the public. It ran across approximately 150 subprojects funded through [[Society for the Investigation of Human Ecology|cut-out foundations]] and direct institutional contracts, and it killed at least one CIA officer. [[Richard Helms]] ordered the destruction of nearly all MKULTRA records in December 1972-January 1973; approximately 20,000 surviving documents, discovered misfiled in a financial records annex during a 1977 FOIA search, form the primary documentary record of the program.[^1]
@@ -147,6 +153,10 @@ General Counsel [[Anthony A. Lapham]] wrote to each notified institution in Augu
 
 The New York Times reported on October 9, 1977 that the Senate Health Subcommittee had invited the presidents of 20 institutions to testify on September 20 and 21, and that only one accepted, without a scheduled appearance because the others declined.[^25]
 
+In October 1977 [[Harvard University]] disclosed that CIA financial records showed Harvard involvement in two research projects conducted under MKULTRA.[^26] The University's general counsel, [[Daniel Steiner]], said the two projects involved no drug experimentation and declined to name the individuals who took part or the nature of their relationship to the University.[^26] The Harvard Crimson noted that the disclosure came the week after [[Stanford University]] made an extensive disclosure of its own MKULTRA connections.[^27] The University had issued guidelines in May 1977 regulating faculty dealings with intelligence agencies; in June 1977 CIA Director Stansfield Turner wrote to President [[Derek Bok]] that the guidelines could violate faculty members' constitutional rights to privacy and free association.[^28]
+
+In February 1978 [[Martin Orne]] identified himself as the unidentified investigator in a January 1978 Harvard statement on CIA funding; his Studies in Hypnosis Project at the [[Massachusetts Mental Health Center]] had received about $30,000 in the early 1960s through the [[Human Ecology Fund]]. Steiner said the University had no record of the second project mentioned in the CIA document.[^29]
+
 ### Lawsuits and Settlements
 
 MKULTRA generated litigation in multiple jurisdictions:
@@ -182,3 +192,7 @@ MKULTRA generated litigation in multiple jurisdictions:
 [^23]: Lapham, Anthony A., General Counsel, Central Intelligence Agency, letter to John R. Everett, August 1977 (stamped August 15, 1977), in NS010102_000027, PDF pp. 94-95. The quoted passage refers to "page 8 of the statement by the Director."
 [^24]: Lapham, Anthony A., General Counsel, letter to John R. Everett, November 7, 1977 (PDF p. 3), and Cinquegrana, A. R., Assistant General Counsel, letter to John R. Everett, March 17, 1978 (PDF p. 1), Central Intelligence Agency, in NS010102_000027.
 [^25]: Thomas, Jo, "Extent of University Work for C.I.A. Is Hard to Pin Down," New York Times, October 9, 1977, CIA reading room clipping CIA-RDP88-01315R000300390007-3.
+[^26]: "A CIA Test Tube," *The Harvard Crimson*, October 1, 1977. https://www.thecrimson.com/article/1977/10/1/a-cia-test-tube-padd-harvard/
+[^27]: "Harvard and the CIA," *The Harvard Crimson*, October 5, 1977. https://www.thecrimson.com/article/1977/10/5/harvard-and-the-cia-peach-year/
+[^28]: "Harvard: A Threat To Privacy," *The Harvard Crimson*, December 3, 1977. https://www.thecrimson.com/article/1977/12/3/harvard-a-threat-to-privacy-pcia/
+[^29]: "CIA Grants Funded Hypnosis Research," *The Harvard Crimson*, February 2, 1978. https://www.thecrimson.com/article/1978/2/2/cia-grants-funded-hypnosis-research-pthe/

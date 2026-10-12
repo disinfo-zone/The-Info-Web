@@ -11,7 +11,7 @@ tags:
   - MKULTRA
   - Chemistry
   - 1950s
-summary: "James Moore was a CIA-employed chemist who ran MKULTRA Subproject 58, infiltrating East Coast mycology circles under the cover of a Geschickter Fund professor to locate and obtain psilocybin mushrooms, accompanying R. Gordon Wasson's 1956 Mexico expedition before Wasson's Life magazine article inadvertently publicized the hallucinogen."
+summary: "James Moore was a CIA-employed chemist who ran MKULTRA Subproject 58, seeking psilocybin mushrooms under a Geschickter Fund cover and accompanying R. Gordon Wasson's 1956 Mexico expedition."
 ---
 
 James Moore was a chemist who worked for the [[Central Intelligence Agency]] on [[Project MKUltra|MKULTRA Subproject 58]], a classified effort to locate and mass-produce the hallucinogenic mushroom *teonanáctl* (God's flesh) for intelligence use[^1].
@@ -22,7 +22,7 @@ In 1956, after two years of unsuccessful efforts, Moore finally persuaded [[R. G
 
 The mission proved traumatic for Moore, who reportedly got sick and disliked the experience. At one point, he was left roadside in Mexico in the care of local Indians when the group's small airplane had to lighten its load. Despite the difficulties, Moore fulfilled his CIA mandate, returning with *teonanáctl* mushrooms for the Agency to analyze[^1].
 
-However, the CIA's desire to keep the drug a secret psychic weapon was undermined when Wasson published a twelve-page account of his experience in *Life* magazine, highlighting the mushroom's alleged ability to access and enhance [[Extrasensory Perception|ESP]]. This article caused a sensation and led to pleasure seekers flocking to Mexico to consume *God's flesh*[^1].
+However, the CIA's desire to keep the drug a secret psychic weapon was undermined when Wasson published an account of his experience on pages 100 to 102 and 109 to 120 of *Life* magazine, highlighting the mushroom's alleged ability to access and enhance [[Extrasensory Perception|ESP]]. This article caused a sensation and led to pleasure seekers flocking to Mexico to consume *God's flesh*[^1].
 
 ### Chemical Procurement for TSS
 

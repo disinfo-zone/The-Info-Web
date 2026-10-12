@@ -23,6 +23,11 @@ summary: "Richard Helms served as Director of Central Intelligence from 1966 to 
 born: 1913-03-30
 died: 2002-10-22
 location: "St. Davids, Pennsylvania"
+relations:
+  - type: partner_of
+    with: "[[Mohammed Rahim Motaghi Irvani]]"
+    role: "principal partner in Safeer, the consulting firm Helms founded; Irvani was also its chief financier"
+    fn: 22
 ---
 
 Richard McGarrah Helms (March 30, 1913 - October 22, 2002) served as [[Central Intelligence Agency|CIA]] [[Director of Central Intelligence]] from June 30, 1966, to February 2, 1973 - the only career CIA clandestine officer ever to hold that position, and the only DCI ever convicted of a criminal offense related to his service. A professional intelligence officer who entered the [[Office of Strategic Services|OSS]] during [[World War II]] and spent thirty years in the CIA, Helms authorized [[Operation CHAOS]] domestic surveillance, approved continuation of the [[MKULTRA]] human experimentation program, ordered the destruction of both programs' records before congressional investigators could access them, and in 1977 pleaded no contest to making false statements to Congress about CIA operations against Chilean President [[Salvador Allende]]. He simultaneously held the personal conviction, disclosed to his deputies, that [[Israel]] was using American intelligence as "an open pipeline for pumping intelligence to [[Moscow]]" - a view he never officially reported.[^1]
@@ -91,6 +96,14 @@ Nixon appointed Helms U.S. Ambassador to Iran in February 1973, effectively remo
 
 He published his memoirs, *A Look Over My Shoulder: A Life in the Central Intelligence Agency*, posthumously in 2003. The book was notably reticent about the most significant controversial episodes of his career, consistent with his lifelong orientation toward institutional protection over personal disclosure. He died in Washington on October 22, 2002.[^1]
 
+### Irvani, Safeer and the 1978 Financial General Bid
+
+Helms was dismissed as director of central intelligence by President Richard Nixon in February 1973 and was then appointed ambassador to Iran until 1977, where he met [[Mohammed Rahim Motaghi Irvani]], an Iranian industrialist who had founded the Melli Industrial Group in 1949.[^21] On October 31, 1977 Helms pleaded no contest to two charges, in return for a government recommendation that he not be sentenced to prison. In the fall of 1977 [[Clark Clifford]] visited a senior Justice Department official to argue against an indictment, saying that such charges could damage the U.S. intelligence community.[^21]
+
+Helms ran an international consulting firm, Safeer, which the Senate report says was named for the Iranian word for "Ambassador." Irvani financed the firm at the time the presiding federal judge described Helms as "in disgrace and shame." According to corporate records and documents filed in civil litigation in Gwinnett County, Georgia, Irvani capitalized and owned 80 percent of Safeer, and [[Roy P. M. Carlson]], a former Bank of America officer whom [[Agha Hasan Abedi]] had introduced to Irvani, became its vice president and handled much of its early business.[^22]
+
+The original 1978 filing with the [[Securities and Exchange Commission]] listed Irvani as a 5 percent shareholder of [[Credit and Commerce American Holdings]] (CCAH), and the Senate report describes him as BCCI's lead front man in the early 1978 takeover attempt against [[Financial General Bankshares]]. The report says that Helms advised Irvani on how to be protected from any liability in that role, and that several documents introduced in litigation in Georgia describe Abedi recruiting Irvani in early 1978 to act as a front man.[^23]
+
 ### Footnotes
 
 [^1]: Powers, Thomas. *The Man Who Kept the Secrets: Richard Helms and the CIA.* Knopf, 1979 (the essential biography, based on extensive interviews). Church Committee (Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). Final Report, S. Rept. 94-755, April 26, 1976.
@@ -113,3 +126,6 @@ He published his memoirs, *A Look Over My Shoulder: A Life in the Central Intell
 [^18]: Robarge, David S. "Getting it Right: CIA Analysis of the 1967 Arab-Israeli War." *Studies in Intelligence* 49, no. 1 (March 2005). https://www.cia.gov/resources/csi/static/CIA-Analysis-1967-War.pdf For the June 1 to 2 meeting Robarge relies on published accounts, among them Michael B. Oren's, which rest on Amit's interviews and writings.
 [^19]: National Security Archive, "The NUMEC Affair: Did Highly Enriched Uranium from the U.S. Aid Israel's Nuclear Weapons Program?" (November 2, 2016), Document 8, Letter from Richard Helms to Ramsey Clark, April 2, 1968 (ISCAP Appeal No. 2013-062). https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2016-11-02/numec-affair-did-highly-enriched-uranium-us-aid-israels-nuclear-weapons-program
 [^20]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy.* Random House, 1991. Chapters 11, 14, 16.
+[^21]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 11, "BCCI, the CIA and Foreign Intelligence" (the section on Richard Helms and Mohammed Irvani; text preceding notes 49 to 51). https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
+[^22]: Kerry and Brown, *The BCCI Affair,* ch. 11 (Safeer's name, its capitalization and the Carlson passages; text following note 51 through note 57; *G&H Montage GmbH v. Irvani*, Superior Court of Gwinnett County, Georgia, 88-A-03571-6). https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
+[^23]: Kerry and Brown, *The BCCI Affair,* ch. 6, "BCCI in the United States: Initial Entry" (Irvani listed in the original SEC filing as a 5 percent shareholder of CCAH; recruitment by Abedi in early 1978, note 49); ch. 11 (Helms's advice to Irvani on liability). https://irp.fas.org/congress/1992_rpt/bcci/06early.htm

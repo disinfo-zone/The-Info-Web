@@ -23,11 +23,11 @@ relations:
   - type: investigated
     with: "[[Brent Scowcroft]]"
     start: 1992
-    fn: 3
+    fn: 5
   - type: investigated
     with: "[[Lawrence Eagleburger]]"
     start: 1992
-    fn: 3
+    fn: 5
   - type: prosecuted
     with: "[[Albert Anastasia]]"
     start: 1954
@@ -40,12 +40,15 @@ Frederick Bernard Lacey was born in Newark, [[New Jersey]], on September 9, 1920
 
 ### The BNL Investigation
 
-Attorney General [[William Barr]] declined to seek an independent counsel in the [[BNL Scandal|Banca Nazionale del Lavoro]] affair and on October 16, 1992, appointed Lacey special counsel; he reported 54 days later. He wrote: "I find Judge Shoob's specific charges against the USAO to be inaccurate," rejecting the criticisms of Judge [[Marvin Shoob]]. Of [[Brent Scowcroft]] and [[Lawrence Eagleburger]], he wrote: "It is clear that, while at [[Kissinger Associates]], Scowcroft and Eagleburger came into contact with [[Banca Nazionale del Lavoro|BNL]] management. I have seen nothing, however, to suggest that they knew of BNL-Atlanta's wrongful loans to Iraq or influenced the prosecution of this matter." The second part of the report was classified.[^3] According to *The Village Voice,* the report dismissed the allegations as "arrogant nonsense," while Lacey acknowledged that he could not determine "who at Justice saw what and when" and was "unable to penetrate with any precision where responsibility lay."[^4] Representative [[Henry B. Gonzalez]], chairman of the [[House Banking Committee]], told the House on January 21, 1993, that "from the start it was apparent that Judge Lacey was nothing more than a lackey," called the report "the Lacey Job," and said that "at best" it was a whitewash.[^5]
+Attorney General [[William Barr]] declined to seek an independent counsel in the [[BNL Scandal|Banca Nazionale del Lavoro]] affair and on October 16, 1992, appointed Lacey as "independent counsel" under Justice Department regulations rather than under the statute. Lacey's report states that on October 27 Barr authorized a preliminary investigation and asked for a report by December 8, 1992; the Senate staff record that Lacey submitted it on December 9, 1992.[^3] He wrote: "I find Judge Shoob's specific charges against the USAO, and his concern about the interference of other agencies, to be inaccurate,"[^4] rejecting the criticisms of Judge [[Marvin Shoob]]. Of [[Brent Scowcroft]] and [[Lawrence Eagleburger]], he wrote: "It is clear that, while at [[Kissinger Associates]], Scowcroft and Eagleburger came into contact with [[Banca Nazionale del Lavoro|BNL]] management. I have seen nothing, however, to suggest that they knew of BNL-Atlanta's wrongful loans to Iraq or influenced the prosecution of this matter." The second part of the report was classified.[^5] Lacey also addressed the appointment of Joseph D. Whitley, writing that Whitley became acting United States attorney on June 1, 1990, and verbally recused himself from the BNL case the same day, a recusal confirmed in writing a week later.[^6] According to *The Village Voice,* the report dismissed the allegations as "arrogant nonsense," while Lacey acknowledged that he could not determine "who at Justice saw what and when" and was "unable to penetrate with any precision where responsibility lay."[^7] Representative [[Henry B. Gonzalez]], chairman of the [[House Banking Committee]], told the House on January 21, 1993, that "from the start it was apparent that Judge Lacey was nothing more than a lackey," called the report "the Lacey Job," and said that "at best" it was a whitewash.[^8]
 
 ### Footnotes
 
 [^1]: Federal Judicial Center, "Lacey, Frederick Bernard," Biographical Directory of Article III Federal Judges. https://www.fjc.gov/history/judges/lacey-frederick-bernard
 [^2]: Historical Society of the United States District Court for the District of New Jersey, "Frederick Bernard Lacey." https://www.historynjdc.org/judges/judicial-biographies/frederick-bernard-lacey ; "'French Connection' Judge Dies at 96," Associated Press, via *Governing,* April 2017.
-[^3]: Lacey, Frederick B. "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," reproduced in House Committee on Banking, Finance and Urban Affairs, Serial No. 103-95, 1993, pp. 514-15. https://archive.org/details/testimonyofforme1994unit
-[^4]: "Will We Ever Learn the Truth About Iraqgate?" *The Village Voice,* reprinted November 2, 2020.
-[^5]: Gonzalez, Henry B. "Update on BNL Investigation," *Congressional Record,* House, January 21, 1993. https://irp.fas.org/congress/1993_cr/h930121-bnl.htm
+[^3]: Senate Select Committee on Intelligence, *The Intelligence Community's Involvement in the Banca Nazionale del Lavoro (BNL) Affair,* Committee Print S. Prt. 103-12, February 1993, pp. 4-5; Lacey, "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," printed in Serial No. 103-95, pp. 344-345. https://www.intelligence.senate.gov/sites/default/files/publications/10312.pdf
+[^4]: Lacey, Report of the Independent Counsel, printed in House Committee on Banking, Finance and Urban Affairs, *Testimony of Former Employees of the Banca Nazionale del Lavoro,* Serial No. 103-95 (1994), p. 473. https://archive.org/details/testimonyofforme1994unit
+[^5]: Lacey, Frederick B. "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," reproduced in House Committee on Banking, Finance and Urban Affairs, Serial No. 103-95, 1993, pp. 514-15. https://archive.org/details/testimonyofforme1994unit
+[^6]: Lacey, "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," printed in House Committee on Banking, Finance and Urban Affairs, *Testimony of Former Employees of the Banca Nazionale del Lavoro,* Serial No. 103-95 (1994), pp. 514-515. https://archive.org/details/testimonyofforme1994unit
+[^7]: "Will We Ever Learn the Truth About Iraqgate?" *The Village Voice,* reprinted November 2, 2020.
+[^8]: Gonzalez, Henry B. "Update on BNL Investigation," *Congressional Record,* House, January 21, 1993. https://irp.fas.org/congress/1993_cr/h930121-bnl.htm

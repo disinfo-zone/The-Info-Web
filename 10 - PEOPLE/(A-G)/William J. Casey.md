@@ -17,10 +17,17 @@ tags:
   - OctoberSurprise
   - IranContra
   - DarkAllianceInvestigation
-summary: "William J. Casey was Reagan's 1980 campaign manager and CIA Director from 1981 to 1987 who, among other disputed roles, is alleged to have secretly negotiated with Iranian representatives in Madrid and Paris in 1980 to delay the release of American hostages past Election Day -- the core allegation of the October Surprise -- and who died of a brain tumor in May 1987 as the Iran-Contra scandal unfolded."
+summary: "Reagan's 1980 campaign manager and CIA Director from 1981 to 1987, alleged to have negotiated with Iranian representatives in 1980 to delay the release of American hostages; died in May 1987 as Iran-Contra unfolded."
 born: 1913-03-13
 died: 1987-05-06
 location: "Elmhurst, Queens, New York"
+relations:
+  - type: head_of
+    with: "[[Securities and Exchange Commission]]"
+    role: "chairman"
+    start: 1971-04-14
+    end: 1973-02-02
+    fn: 16
 ---
 William Joseph Casey was born March 13, 1913, in Elmhurst, Queens, New York. He attended [[St. John's University]] and Fordham Law School, becoming a corporate and tax attorney. During World War II he served in the [[Office of Strategic Services]] (OSS) under [[William J. Donovan|William "Wild Bill" Donovan]], rising to head the OSS's Secret Intelligence operations in Europe and coordinating the infiltration of agents into Nazi-controlled territory. After the war he became a wealthy lawyer and author of tax shelter guides. President [[Richard Nixon|Nixon]] appointed him Chairman of the [[Securities and Exchange Commission]] in 1971, a post he held through 1973. He managed [[Ronald Reagan]]'s 1980 presidential campaign. Reagan appointed him [[Director of Central Intelligence]] in January 1981, and he served as DCI until resigning due to illness in January 1987. He died May 6, 1987, at a hospital in Glen Cove, New York, having suffered a seizure in December 1986 and subsequently undergone brain surgery. He was subpoenaed to testify before the Senate [[Iran-Contra Affair|Iran-Contra]] investigating committee but died before he could appear.[^1]
 
@@ -64,6 +71,12 @@ Casey is listed on the advisory board of the [[National Intelligence Study Cente
 
 The Senate Select Committee on Intelligence, in its October 24, 1991 report on the nomination of Gates, named Casey as one of three CIA officials involved in the recruitment and selection of [[James D. Theberge]] for the Senior Review Panel, with Deputy Director [[John McMahon]] and Executive Director [[James Taylor]].[^12] The report states that "the Committee's documentary evidence makes clear that Director Casey was the CIA official most instrumental in recruiting Mr. Theberge."[^12] The report records that Theberge disclosed his consulting work for a Cardoen subsidiary in the personal history statement he submitted to the CIA in December 1985, and that he was hired on a three-days-per-week basis.[^12] CIA visitor records held in the reading room list Theberge as meeting the director at headquarters in November 1984 and, as "Ambassador Theberge," calling on the director on September 23, 1985.[^13] A routing sheet of August 12, 1985 confirms a courtesy call on the director at 1100 hours on August 14, 1985, twelve days after Theberge left his post in Chile, stating that he "has completed his tour in Chile and has no particular items to discuss."[^14] In a memorandum of August 19, 1985 titled "Soviet Game Plan," Casey told the Vice Chairman of the [[National Intelligence Council]]: "You will get in touch with Theberge, talk about the project generally, see what he has to contribute and perhaps have him do some work on the Latin America phase of it."[^15]
 
+### Securities and Exchange Commission, 1971 to 1973
+
+Casey served as chairman of the Securities and Exchange Commission from April 14, 1971 to February 2, 1973.[^16] During his chairmanship the commission was investigating the 1970 takeover of [[Investors Overseas Services]] by [[International Controls Corporation]]. The complaint filed in November 1972 described transfers of International Controls assets to entities controlled by [[Robert Vesco]].[^17]
+
+The New Jersey Supreme Court's disciplinary opinion on [[Harry L. Sears]], a former majority leader of the New Jersey Senate, records that Sears conveyed Vesco's requests to [[John N. Mitchell]], then attorney general, in two letters and three meetings, and that Vesco hoped Mitchell could induce Casey "to monitor and limit the investigation." The opinion records that Mitchell telephoned Casey and arranged a meeting between Sears and the chairman. At that meeting Casey gave assurances that International Controls could respond to the investigation, and that he would personally review its claims of SEC harassment.[^18]
+
 ### Footnotes
 
 [^1]: Persico, Joseph E. *Casey: From the OSS to the CIA*. Viking, 1990.
@@ -81,3 +94,6 @@ The Senate Select Committee on Intelligence, in its October 24, 1991 report on t
 [^13]: Central Intelligence Agency, "American Ambassadors" visitor log, November 1984 (1045), CREST document CIA-RDP93-00415R000100040012-4, https://archive.org/details/cia-readingroom-document-cia-rdp93-00415r000100040012-4; visitor record, September 23, 1985 (1645), CREST document CIA-RDP93-00415R000200230005-0, https://archive.org/details/cia-readingroom-document-cia-rdp93-00415r000200230005-0.
 [^14]: Central Intelligence Agency, "DCI 14 August 1985 Meeting with Mr. James D. Theberge, Former U.S. Ambassador to Chile," August 12, 1985, CREST document CIA-RDP87M00539R000801050023-0. https://www.cia.gov/readingroom/document/cia-rdp87m00539r000801050023-0
 [^15]: Central Intelligence Agency, "Soviet Game Plan," memorandum from the Director of Central Intelligence to the Vice Chairman, National Intelligence Council, August 19, 1985, signed William J. Casey, CREST document CIA-RDP97M00248R000500220030-9. https://archive.org/details/cia-readingroom-document-cia-rdp97m00248r000500220030-9
+[^16]: U.S. Securities and Exchange Commission, "Historical Summary of Chairmen and Commissioners" (William Casey, Chairman, April 14, 1971 to February 2, 1973). https://www.sec.gov/about/sec-commissioners/sec-historical-summary-chairmen-commissioners
+[^17]: U.S. Securities and Exchange Commission, News Digest, November 28, 1972 (complaint of November 27, 1972 against Robert L. Vesco and 41 other defendants; transfers from International Controls Corp.; purchase in early 1971 of 6,000,000 shares of Investors Overseas Services). https://www.sec.gov/news/digest/1972/dig112872.pdf
+[^18]: In re Sears, 71 N.J. 175 (1976) (Supreme Court of New Jersey, disciplinary opinion; the requests conveyed by Sears to Mitchell, and the meeting Mitchell arranged between Sears and Casey). https://static.case.law/nj/71/cases/0175-01.json
