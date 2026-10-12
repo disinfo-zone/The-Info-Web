@@ -1,5 +1,6 @@
 ---
 title: The Samson Option Narrative
+updated: 2026-10-12
 tags:
   - NuclearWeapons
   - Israel
@@ -138,7 +139,7 @@ The discovery created a political dilemma for the [[Jimmy Carter|Carter]] admini
 
 [[Jonathan Pollard]], a U.S. Navy intelligence analyst, was [[Israel]]'s first publicly exposed nuclear spy inside the [[United States]] intelligence community. Motivated by ideology and financial compensation, Pollard provided large volumes of highly classified U.S. intelligence. This included critical data on Soviet military targets and air defense systems, information essential for [[Israel]]'s long-range nuclear targeting plans. He was recruited and handled by [[Rafael Eitan]], the head of [[LAKAM]], demonstrating [[Israel]]'s willingness to conduct espionage against its primary ally to obtain intelligence it deemed vital.
 
-The Pollard affair revealed a significant penetration of U.S. intelligence and suggested that high-level Israeli officials, including Prime Minister [[Yitzhak Shamir]], were willing to sanitize and then trade sensitive American intelligence with the [[Soviet Union]]. This operation, driven by [[Israel]]'s strategic calculations and a distrust of American reliability, caused a major diplomatic crisis. Though initially presented by [[Israel]] as a "rogue operation," the scandal exposed the complex and often conflicting interests at play in international intelligence.
+The Pollard affair revealed a significant penetration of U.S. intelligence. [[Ari Ben-Menashe]] wrote that [[Yitzhak Shamir]], then Israel's foreign minister (he was prime minister from October 1983 to September 1984 and again from October 1986), authorized some of the Pollard material to be sanitized and turned over to the [[Soviet Union]], and Hersh also described Israeli passage of Pollard material to the Soviets. The operation, driven by [[Israel]]'s strategic calculations and a distrust of American reliability, caused a major diplomatic crisis. Though initially presented by [[Israel]] as a "rogue operation," the scandal exposed the complex and often conflicting interests at play in international intelligence.
 
 ## An Israeli Asset
 

@@ -5,6 +5,7 @@ tags:
   - Israel
   - Soviet
 summary: "In 1972, Brezhnev met with Golda Meir, then Prime Minister of Israel, in Finland."
+updated: 2026-10-12
 born: 1906-12-19
 died: 1982-11-10
 location: "Kamenskoye, Ukraine (Russian Empire)"
@@ -14,15 +15,15 @@ location: "Kamenskoye, Ukraine (Russian Empire)"
 
 ### 1972 Meeting with Golda Meir
 
-In 1972, Brezhnev met with [[Golda Meir]], then Prime Minister of [[Israel]], in [[Finland]]. During this meeting, [[Golda Meir|Meir]] rejected his proposal for a comprehensive peace settlement in the [[Middle East]].[^1]
+In 1972, Brezhnev met with [[Golda Meir]], then Prime Minister of Israel, in [[Finland]]. During this meeting, Meir rejected his proposal for a comprehensive peace settlement in the [[Middle East]].[^1]
 
 ### Intelligence Operations and War Implications
 
-This meeting, along with the [[Soviet Union|Soviets]] bugging [[Golda Meir|Meir's]] office (discovered by [[Reuben Yirador]] of [[Unit 8200]]), informed [[Anwar Sadat]] of [[Israel|Israel's]] attitude and may have prompted the 1973 war.[^1]
+[[Ari Ben-Menashe]] wrote that this meeting, along with the Soviets bugging Meir's office (which he said was discovered by [[Reuben Yirador]] of [[Unit 8200]]), informed [[Anwar Sadat]] of Israel's attitude and may have prompted the 1973 war.[^1]
 
 ### 1973 Yom Kippur War Threats
 
-During the 1973 [[Yom Kippur War]], as the continued encirclement of the Egyptian Third Army by Israeli forces escalated, Soviet party leader [[Leonid Brezhnev]] increased the alert status of his airborne divisions and warned the [[White House]] that unless [[Israel]] stopped violating the cease-fire, "we should be faced with the necessity urgently to consider the question of taking appropriate steps unilaterally." The implication was that Brezhnev would send troops as a blocking force behind the front lines in [[Egypt]] to prevent the Israelis from advancing on [[Cairo]].[^2]
+During the 1973 [[Yom Kippur War]], as the continued encirclement of the Egyptian Third Army by Israeli forces escalated, Soviet party leader Leonid Brezhnev increased the alert status of his airborne divisions and warned the [[White House]] that unless Israel stopped violating the cease-fire, "we should be faced with the necessity urgently to consider the question of taking appropriate steps unilaterally." The implication was that Brezhnev would send troops as a blocking force behind the front lines in [[Egypt]] to prevent the Israelis from advancing on [[Cairo]].[^2]
 
 ### Footnotes
 

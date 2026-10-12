@@ -24,7 +24,7 @@ born: 1923-06-10
 died: 1991-11-05
 location: "London, United Kingdom"
 created: 2024-04-25
-updated: 2026-10-09
+updated: 2026-10-12
 relations:
   - type: founded
     with: "[[Pergamon Press]]"
@@ -115,7 +115,7 @@ On March 15, 2018 Epstein sent an email with the subject line "he was passed awa
 
 ### Funeral in Jerusalem
 
-Maxwell's body was flown to Israel, and on November 10, 1991, he was given a state-style funeral and buried on the [[Mount of Olives]] in [[Jerusalem]], one of Judaism's most revered burial grounds.[^34] The ceremony at Jerusalem's convention center drew President [[Chaim Herzog]], Prime Minister [[Yitzhak Shamir]], and much of the Israeli political establishment, with reporting that at least six serving and former heads of Israeli intelligence were present.[^7][^34] His friend and longtime attorney [[Samuel Pisar]], a Holocaust survivor, recited the Kaddish.[^1]
+Maxwell's body was flown to Israel and lay in state at Jerusalem's Binyanei Ha'uma convention center, an honor usually reserved for Israel's government leaders. On November 10, 1991, he was given a state-style funeral and buried on the [[Mount of Olives]] in [[Jerusalem]], one of Judaism's most revered burial grounds. President [[Chaim Herzog]] and Prime Minister [[Yitzhak Shamir]] headed a galaxy of dignitaries and politicians, both government and opposition, who attended.[^34] Gordon Thomas and Martin Dillon wrote that at least six serving and former heads of Israeli intelligence were among the mourners.[^27] His friend and longtime attorney [[Samuel Pisar]], a Holocaust survivor, recited the Kaddish.[^1]
 
 Herzog eulogized him with the words, "He scaled the heights of human endeavor. Kings and princes waited on him."[^34] Shamir praised the connections and investment Maxwell had brought to Israel during the 1980s, reportedly saying that Maxwell had done more for Israel than could then be told.[^35] The scale of the official Israeli observance was later cited by writers who argued it reflected an intelligence relationship, though attendance at a prominent Jewish philanthropist's funeral is not itself evidence of espionage, and no Israeli official has confirmed that Maxwell was an agent.[^7][^34]
 
@@ -154,5 +154,5 @@ Herzog eulogized him with the words, "He scaled the heights of human endeavor. K
 [^31]: Ostrovsky, Victor. *The Other Side of Deception: A Rogue Agent Exposes the Mossad's Secret Agenda.* HarperCollins, 1994, on the alleged Mossad motive to eliminate Maxwell as a collapsing liability.
 [^32]: U.S. Department of Justice, Epstein Library, EFTA02816127, Court Records, Government of the United States Virgin Islands v. JPMorgan Chase Bank, N.A., No. 22-cv-10904 (S.D.N.Y.), ECF No. 285-12, Exhibit 55, filed August 15, 2023, "AM Reputation Risk Committee Meeting Summary," meeting of December 6, 2013. https://www.justice.gov/epstein/files/Court%20Records/Government%20of%20the%20United%20States%20Virgin%20Islands%20v.%20JPMorgan%20Chase%20Bank%2C%20N.A.%2C%20No.%20122-cv-10904%20(S.D.N.Y.%202022)/EFTA02816127.pdf
 [^33]: U.S. Department of Justice, Epstein Library, EFTA02507843, DataSet 11, email from Jeffrey Epstein, "he was passed away," March 15, 2018. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02507843.pdf
-[^34]: "Maxwell, Colossus Even in Death, Laid to Rest on Mount of Olives," *Jewish Telegraphic Agency,* 1991. https://www.jta.org/archive/maxwell-colossus-even-in-death-laid-to-rest-on-mount-of-olives
+[^34]: "Maxwell, Colossus Even in Death, Laid to Rest on Mount of Olives," *Jewish Telegraphic Agency,* 11 November 1991. https://www.jta.org/archive/maxwell-colossus-even-in-death-laid-to-rest-on-mount-of-olives
 [^35]: "Maxwell buried on Mount of Olives," *UPI,* 1991. https://www.upi.com/Archives/1991/11/10/Maxwell-buried-on-Mount-of-Olives/4340689749200/

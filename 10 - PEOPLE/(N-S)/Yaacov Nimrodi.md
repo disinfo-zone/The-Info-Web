@@ -6,9 +6,9 @@ tags:
   - IranContra
   - Arms
   - Mossad
-summary: "Yaacov Nimrodi was an Israeli arms dealer and former military intelligence attache in Iran who served alongside David Kimche and Al Schwimmer as part of the 'troika' that managed the first three Iran-Contra arms-for-hostages transfers in 1985."
+summary: "Yaacov Nimrodi was an Israeli arms dealer and former military attache in Iran who served with David Kimche and Al Schwimmer in the troika that managed the first Iran-Contra arms transfers in 1985."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-10-12
 born: 1928
 died: 2016-07-02
 location: "Tel Aviv, Israel"
@@ -21,9 +21,11 @@ Nimrodi is consistently identified as one of the three principal Israeli facilit
 
 The arrangement began when Kimche approached U.S. National Security Advisor [[Robert McFarlane]] in mid-1985 to propose that American weapons transferred to Iran via Israel could produce the release of American hostages held in [[Lebanon]] and open a channel to Iranian moderates. President [[Ronald Reagan]] agreed. Nimrodi's role was to leverage his Iranian network - including contacts from his years as military attache - to identify Iranian interlocutors and facilitate the first weapons transfers.
 
-The first transfer, of 96 TOW missiles from Israeli stocks in August 1985, was managed through the troika. A second TOW transfer of 408 missiles followed in September 1985. A shipment of 18 HAWK surface-to-air missiles was attempted in November 1985, but the operation was badly mismanaged, the missiles proved to be a version the Iranians could not use, and the transaction's exposure began the chain of events that led to the scandal.[^2]
+The congressional committees investigating the Iran-Contra Affair recorded that [[Adnan Khashoggi]] introduced [[Manucher Ghorbanifar]] to Al Schwimmer, described as an adviser to then Israeli Prime Minister [[Shimon Peres]], and to Nimrodi. The report places an October 8, 1985 Washington meeting of Ghorbanifar with Schwimmer and Nimrodi. The same report records that David Kimche, director general of the Israeli Foreign Ministry, became involved in late June 1985.[^2]
 
-Nimrodi stepped back from the operation by the end of 1985, as did Kimche, when the arms channel was handed off to [[Manucher Ghorbanifar]], [[Oliver North]], and [[Amiram Nir]], whose management of the subsequent stages led eventually to public disclosure in November 1986.
+The first transfer, of 96 TOW missiles from Israeli stocks in August 1985, was managed through the troika. A second TOW transfer of 408 missiles followed in September 1985. A shipment of 18 HAWK surface-to-air missiles was attempted in November 1985, but the operation was badly mismanaged, the missiles proved to be a version the Iranians could not use, and the transaction's exposure began the chain of events that led to the scandal.[^3]
+
+Nimrodi stepped back from the operation by the end of 1985, as did Kimche, when the arms channel was handed off to Manucher Ghorbanifar, [[Oliver North]], and [[Amiram Nir]], whose management of the subsequent stages led eventually to public disclosure in November 1986.
 
 ### Business Career
 
@@ -32,4 +34,5 @@ After his government service, Nimrodi established himself as a businessman with 
 ### Footnotes
 
 [^1]: "Yaakov Nimrodi," Israeli newspaper archives compiled in obituaries, July 2016.
-[^2]: Walsh, Lawrence E. *Final Report of the Independent Counsel for Iran/Contra Matters.* United States Court of Appeals for the District of Columbia Circuit, 1993.
+[^2]: Report of the Congressional Committees Investigating the Iran-Contra Affair (S. Rept. 100-216, H. Rept. 100-433, 1987), chapter 10. https://archive.org/details/reportofcongress87unit
+[^3]: Walsh, Lawrence E. *Final Report of the Independent Counsel for Iran/Contra Matters.* United States Court of Appeals for the District of Columbia Circuit, 1993.

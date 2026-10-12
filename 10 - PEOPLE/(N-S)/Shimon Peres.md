@@ -6,6 +6,7 @@ tags:
   - Nuclear
   - Israel
 summary: "Peres's rise to influence began in late 1953, when David Ben-Gurion appointed the then thirty-year-old Shimon Peres as director general of the ministry of defense."
+updated: 2026-10-12
 born: 1923-08-02
 died: 2016-09-28
 location: "Wiszniew, Poland"
@@ -31,7 +32,7 @@ Documents obtained by [[Sasha Polakow-Suransky]] record meetings in March and Ju
 
 ### Controversies and Covert Operations
 
-Peres's career was not without scandal. In 1976, a telegram intercepted by [[Unit 8200]] revealed details of bribes paid by a [[Lockheed Aircraft Company|Lockheed]] representative in Israel to Defense Minister Peres. The sum involved was $3.5 million, deposited in one of Peres's brother's business accounts in [[Europe]]. This damaging information, discovered by [[Ari Ben-Menashe]], was subsequently covered up by Israeli military intelligence superiors.[^1]
+Peres's career was not without scandal. According to [[Ari Ben-Menashe]], a telegram intercepted by [[Unit 8200]] in 1976 revealed details of bribes paid by a [[Lockheed Aircraft Company|Lockheed]] representative in Israel to Defense Minister Peres. Ben-Menashe wrote that the sum involved was $3.5 million, deposited in one of Peres's brother's business accounts in [[Europe]], that he discovered the telegram, and that the information was subsequently covered up by Israeli military intelligence superiors.[^1]
 
 The 1980s brought new controversies involving arms sales to [[Iran]]. In 1980, [[William J. Casey]] invited Peres, then [[Labor Party]] leader, to participate in secret meetings concerning arms sales to Iran. Peres secretly met with [[Mehdi Karrubi]] in [[Madrid]], actions that drew sharp criticism when they came to light. When [[Menachem Begin]] learned of this unauthorized diplomacy, he warned Peres that such actions without government knowledge would be considered treason.[^1]
 

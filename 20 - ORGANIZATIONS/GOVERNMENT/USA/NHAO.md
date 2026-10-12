@@ -1,5 +1,13 @@
 ---
-category: "Private Organization"
+category: "U.S. Government"
+updated: 2026-10-12
+relations:
+  - type: employed_by
+    with: "[[Robert Owen]]"
+    reverse: true
+    role: "staff member added at Oliver North's urging"
+    start: 1985
+    fn: 2
 start: 1985
 location: "Washington, D.C., USA"
 tags:
@@ -14,7 +22,9 @@ The Nicaraguan Humanitarian Assistance Office (NHAO) was created in mid-1985 to 
 
 ### North's Control
 
-North pressured the NHAO to hire his aide [[Robert Owen|Rob Owen]] as a $50,000 "facilitator" - a move opposed by NHAO director Robert Duemling, who said he didn't see the need for a middleman. North had Contra leaders write letters demanding Owen's hiring and lobbied Duemling's superior, Assistant Secretary [[Elliott Abrams]]. After one meeting, Abrams told Duemling: "Well, Bob, I suppose you probably ought to hire Owen." Meeting minutes show Abrams and North agreed Owen "will be expendable if he becomes a political or diplomatic liability" and could be dismissed as "an experiment that hadn't worked out."[^1]
+President [[Ronald Reagan]] created the office in the State Department on August 29, 1985 to administer the $27 million in humanitarian assistance that Congress appropriated that month, and Ambassador [[Robert W. Duemling]] set up the office within the department.[^2] Independent Counsel [[Lawrence Walsh]] reported that North also intruded in the office's operations by insisting that [[Richard B. Gadd]], who was assisting [[Richard Secord]] and North in the lethal resupply, be the contractor to transport NHAO flights and, with [[Elliott Abrams]], persuading Duemling to add North's Central American courier, [[Robert Owen]], to the staff.[^2]
+
+North pressured the NHAO to hire his aide Rob Owen as a $50,000 "facilitator" - a move opposed by NHAO director Robert Duemling, who said he didn't see the need for a middleman. North had Contra leaders write letters demanding Owen's hiring and lobbied Duemling's superior, Assistant Secretary Elliott Abrams. After one meeting, Abrams told Duemling: "Well, Bob, I suppose you probably ought to hire Owen." Meeting minutes show Abrams and North agreed Owen "will be expendable if he becomes a political or diplomatic liability" and could be dismissed as "an experiment that hadn't worked out."[^1]
 
 ### Drug Trafficker Contractors
 
@@ -27,3 +37,4 @@ Fiers confirmed the CIA guided the selection of these carriers: "I believe we gu
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 12: "This guy talks to God"
+[^2]: Lawrence E. Walsh, Final Report of the Independent Counsel for Iran/Contra Matters, chapter 25. https://irp.fas.org/offdocs/walsh/chap_25.htm

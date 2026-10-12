@@ -7,7 +7,7 @@ aliases:
   - Robert C. "Bud" McFarlane
   - Robert Carl McFarlane
 created: 2026-05-17
-updated: 2026-10-05
+updated: 2026-10-12
 category: "Intelligence & Government"
 tags:
   - KeyFigure
@@ -88,6 +88,14 @@ After the Lebanese magazine Ash-Shiraa published the story on November 3, 1986, 
 
 On March 11, 1988 McFarlane pleaded guilty to four misdemeanors of unlawfully withholding information from Congress: his September 5, 1985 reply to Hamilton, his September 12, 1985 reply to Barnes, his October 7, 1985 response to Hamilton's questions, and his December 8, 1986 testimony to the [[House Committee on Foreign Affairs|House Foreign Affairs Committee]] that third-country financing was "beyond my ken." He agreed to cooperate, was named an unindicted co-conspirator in Count One of the March 1988 indictment of Poindexter, North, [[Richard Secord]] and [[Albert Hakim]], and on March 3, 1989 was sentenced to two years' probation, 200 hours of community service and a $20,000 fine. The Independent Counsel gave up felony charges of conspiracy, false statements and obstruction in the plea, and wrote that the prosecution of North and Poindexter "would be seriously hampered by the jury's realization that McFarlane, their superior, had been permitted to plead guilty to crimes less severe than those for which his subordinates were on trial."[^1][^9] After he testified in 1991 that his trial testimony had been "colored" by North's immunized testimony, the Independent Counsel consented to the dismissal of the remaining charges against North.[^10] President George H.W. Bush pardoned McFarlane on December 24, 1992, with Caspar Weinberger, [[Elliott Abrams]], [[Duane Clarridge]], [[Clair George]] and [[Alan Fiers]].[^9]
 
+### Esquire article and lawsuit
+
+In October 1991 [[Esquire]] published an article by [[Craig Unger]] that quoted [[Ari Ben-Menashe]]. According to the court's account of the article, Ben-Menashe said that McFarlane had been recruited by [[Rafael Eitan]] and that "McFarlane was the famous Mr. X in the [[Jonathan Pollard|Pollard]] case."[^11] The article attributed the recruitment statement to a sworn affidavit that [[Elliot Richardson]] submitted in the [[INSLAW]] litigation for one of his clients. The appeals court found that the recruitment clause "is not in the affidavit," that the affidavit's text "supports only the idea of a 'special relationship'" between McFarlane and [[Earl Brian]] and Israeli intelligence, and recorded that McFarlane "does not dispute that Ben-Menashe made these assertions to Unger."[^11]
+
+McFarlane sued the magazine for libel. On January 30, 1996 the United States Court of Appeals for the D.C. Circuit affirmed the judgment for Esquire. The district court had held that no reasonable jury could find actual malice by clear and convincing evidence, and that it had no personal jurisdiction over Unger.[^11] The article, as the opinion quotes it, continues: "In Pollard's case there were persistent allegations about another, unnamed American who secretly worked for the Israelis."[^11]
+
+### Death
+
 McFarlane died on May 12, 2022, at a hospital in Lansing, Michigan, aged 84; his son Scott McFarlane said the cause was an exacerbation of a lung condition.[^8]
 
 ### Footnotes
@@ -102,3 +110,4 @@ McFarlane died on May 12, 2022, at a hospital in Lansing, Michigan, aged 84; his
 [^8]: "Robert 'Bud' McFarlane, Reagan national security adviser, dies at 84." Associated Press, May 13, 2022. https://www.bostonglobe.com/2022/05/13/nation/robert-bud-mcfarlane-reagan-national-security-adviser-dies-84
 [^9]: Walsh, *Final Report*, vol. I, "Summary of Prosecutions" and ch. 1, section "The Guilty Plea." https://fas.org/irp/offdocs/walsh/summpros.htm
 [^10]: Walsh, *Final Report*, vol. I, ch. 2, "United States v. Oliver L. North," section on the dismissal of September 16, 1991. https://fas.org/irp/offdocs/walsh/chap_02.htm
+[^11]: *McFarlane v. Esquire Magazine*, 74 F.3d 1296 (D.C. Cir. 1996), No. 94-7137, decided January 30, 1996. https://static.case.law/f3d/74/cases/1296-01.json

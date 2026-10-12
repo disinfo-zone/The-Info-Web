@@ -15,7 +15,7 @@ summary: "Ehud Barak is the former Israeli prime minister and military intellige
 born: 1942-02-12
 location: "Mishmar HaSharon, Mandatory Palestine (born)"
 created: 2026-06-18
-updated: 2026-09-25
+updated: 2026-10-12
 relations:
   - type: head_of
     with: "[[Aman]]"
@@ -125,7 +125,7 @@ On February 18, 2019 the investor [[Nicole Junkermann]] wrote to Epstein, in a m
 
 ### Carbyne After Epstein
 
-Barak left the Carbyne board in 2019, the year of Epstein's arrest and death. The company's board also included [[Pinhas Buchris]], a former commander of Unit 8200 and former director general of the Israeli [[Ministry of Defense (Israel)|Ministry of Defense]]. [[Axon Enterprise]], the maker of Taser weapons and police body cameras, agreed to buy Carbyne for 625 million dollars in cash, a deal that closed in early 2026.[^15][^30]
+Barak left the Carbyne board in 2019, the year of Epstein's arrest and death.[^15] The company's board also included [[Pinhas Buchris]], a former commander of Unit 8200 and former director general of the Israeli [[Ministry of Defense (Israel)|Ministry of Defense]].[^30][^31] Minutes of the December 23, 2015 meeting of Reporty's board list Amir Elichai, [[Alex Dizengof]], Barak and Buchris as directors present, and record Barak's expected additional investment of $500,000 by February 1, 2016.[^32] [[Axon Enterprise]], the maker of Taser weapons and police body cameras, agreed to buy Carbyne for 625 million dollars in cash, a deal that closed in early 2026.[^15][^33]
 
 ### Footnotes
 
@@ -158,4 +158,7 @@ Barak left the Carbyne board in 2019, the year of Epstein's arrest and death. Th
 [^27]: U.S. Department of Justice, Epstein Library, EFTA02630791, DataSet 11, email exchange between Jeffrey Epstein and Nicole Junkermann, February 18, 2019. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02630791.pdf
 [^28]: U.S. Department of Justice, Epstein Library, EFTA02632339, DataSet 11, email from Ehud Barak to Jeffrey Epstein, "Re: Carbyne warrants," March 11, 2019, with forwarded correspondence of Tomer Toor, Darren Indyke, and NJF Capital, February 28 to March 11, 2019. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02632339.pdf
 [^29]: U.S. Department of Justice, Epstein Library, EFTA02634615, DataSet 11, email exchange between Darren Indyke and Jeffrey Epstein, "Re: Carbyne warrants," March 12-14, 2019. https://www.justice.gov/epstein/files/DataSet%2011/EFTA02634615.pdf
-[^30]: *Coverager,* on Axon's agreement to acquire Carbyne for 625 million dollars. https://coverager.com/axon-to-acquire-carbyne-for-625-million/ ; "Axon to Acquire Carbyne, Uniting Cloud Infrastructure and AI to Redefine the 911 Experience." Axon Enterprise press release, *PR Newswire.* https://www.prnewswire.com/news-releases/axon-to-acquire-carbyne-uniting-cloud-infrastructure-and-ai-to-redefine-the-911-experience-302604614.html
+[^30]: "The Ties That Bind: Ehud Barak's Business Network," *CTech (Calcalist)*, July 18, 2019. https://www.calcalistech.com/ctech/articles/0,7340,L-3766639,00.html
+[^31]: "A Buchris story: The rise, fall, and comeback of an Israeli hero," *CTech (Calcalist)*, December 16, 2022. https://www.calcalistech.com/ctechnews/article/lwigv8m1o
+[^32]: U.S. Department of Justice, Epstein Library, EFTA01074544, DataSet 9, minutes of the meeting of the board of directors of Reporty Homeland Security Ltd., December 23, 2015. https://www.justice.gov/epstein/files/DataSet%209/EFTA01074544.pdf
+[^33]: *Coverager,* on Axon's agreement to acquire Carbyne for 625 million dollars. https://coverager.com/axon-to-acquire-carbyne-for-625-million/ ; "Axon to Acquire Carbyne, Uniting Cloud Infrastructure and AI to Redefine the 911 Experience." Axon Enterprise press release, *PR Newswire.* https://www.prnewswire.com/news-releases/axon-to-acquire-carbyne-uniting-cloud-infrastructure-and-ai-to-redefine-the-911-experience-302604614.html

@@ -8,7 +8,7 @@ tags:
   - Intelligence
 summary: "Beersheba (Be'er Sheva) is the largest city in southern Israel and the Negev's administrative capital, the nearest city to the Negev Nuclear Research Center at Dimona and a hub of southern military and intelligence infrastructure."
 created: 2026-05-15
-updated: 2026-10-09
+updated: 2026-10-12
 location: "Beersheba, Israel"
 ---
 
@@ -24,7 +24,7 @@ The city is also the location of IDF Southern Command headquarters, which coordi
 
 ### Israeli Cyber and Technology Infrastructure
 
-Beersheba has become a significant node in Israel's high-technology and cybersecurity sector from approximately 2014 onward, when the government invested in a "CyberSpark" technology park adjacent to Ben-Gurion University. The Israeli [[Unit 8200]] - the signals intelligence unit of the [[Aman]] directorate and the Israeli equivalent of the [[NSA]] - established a major facility in the Negev near Beersheba in conjunction with this development. The relocation of Unit 8200 components to the Negev was partly security-driven (distance from Tel Aviv) and partly associated with a deliberate government strategy to develop Beersheba as a high-technology center.[^1]
+Beersheba has become a significant node in Israel's high-technology and cybersecurity sector from approximately 2014 onward, when the government invested in a "CyberSpark" technology park adjacent to Ben-Gurion University. The army's plan to move its bases to the Negev, under which most of the Glilot compound in [[Ramat HaSharon]], home to the central base of the [[Unit 8200]] signals unit, was to be evacuated, was decided in 2008. Reporting in August 2024 said the transition had been delayed repeatedly and was expected to take place in phases over later years.[^5]
 
 ### Footnotes
 
@@ -32,3 +32,4 @@ Beersheba has become a significant node in Israel's high-technology and cybersec
 [^2]: Hersh, Seymour M., *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*, Random House, 1991, chapter 5, "Internal Wars," pp. 62 to 63.
 [^3]: Post-mortem on SNIE 100-8-60, draft for USIB approval, January 1961, National Security Archive Electronic Briefing Book No. 510, Document 27A, paragraph 27 (the secretary's report to her State Department supervisor "several months earlier"; CIA/CS learned of it on August 19, 1960; "discussed informally in JAEIC on 12 January 1961"). https://nsarchive2.gwu.edu/nukevault/ebb510/docs/doc%2027A.pdf
 [^4]: Cohen, Avner. *Israel and the Bomb.* Columbia University Press, 1998.
+[^5]: Ynet, "Intelligence and Cyberwarfare: Israeli locations Hezbollah targeted for destruction," *Ynetnews*, August 25, 2024. https://www.ynetnews.com/magazine/article/sy3etztic

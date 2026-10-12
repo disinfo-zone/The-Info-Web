@@ -5,7 +5,8 @@ tags:
   - Aerospace
   - USA
 category: "Private Organization"
-summary: "The Lockheed Aircraft Company is an USA aerospace manufacturer that developed advanced military aircraft and became involved in a bribe scandal affecting Israel politics."
+summary: "The Lockheed Aircraft Company is a U.S. aerospace manufacturer that built the U-2, named in Ari Ben-Menashe's account of a bribe in Israeli politics and in 1970s SEC disclosures of questionable overseas payments."
+updated: 2026-10-12
 start: 1926
 end: 1995
 location: "Burbank, California, USA"
@@ -17,7 +18,7 @@ relations:
     start: 1975
     fn: 3
 ---
-The [[Lockheed Aircraft Company]] is an [[United States|American]] aerospace manufacturer that developed advanced military aircraft and became involved in a bribe scandal affecting [[Israel|Israeli]] politics.
+The [[Lockheed Aircraft Company]] is an [[United States|American]] aerospace manufacturer that developed advanced military aircraft and is named in [[Ari Ben-Menashe]]'s account of a bribe affecting [[Israel|Israeli]] politics.
 
 ### U-2 Spy Plane Development
 
@@ -25,7 +26,7 @@ Lockheed built the revolutionary [[U-2 Spy Plane]] under cover in Burbank, Calif
 
 ### Israeli Bribery Scandal
 
-In 1976, a telegram intercepted by [[Unit 8200]] revealed details of bribes paid by a Lockheed representative in Israel to Defense Minister [[Shimon Peres]]. The sum involved was $3.5 million, deposited in one of Peres's brother's business accounts in [[Europe]]. This information, discovered by [[Ari Ben-Menashe]], was subsequently covered up by Israeli military intelligence superiors, including [[Yoel Ben-Porat|Col. Ben-Porat]] and [[Sasson Yishaek|Lt. Col. Yishaek]].[^2]
+Ari Ben-Menashe wrote that in 1976 he intercepted, as a duty officer in [[Unit 8200]], a telegram that revealed details of bribes paid by a Lockheed representative in Israel to Defense Minister [[Shimon Peres]]. He wrote that the sum involved was $3.5 million, deposited in one of Peres's brother's business accounts in [[Europe]], and that the information was subsequently covered up by Israeli military intelligence superiors, including [[Yoel Ben-Porat|Col. Ben-Porat]] and [[Sasson Yishaek|Lt. Col. Yishaek]].[^2]
 
 ### Disclosures to the Securities and Exchange Commission, 1975 to 1977
 

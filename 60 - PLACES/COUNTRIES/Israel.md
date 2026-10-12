@@ -8,7 +8,7 @@ tags:
   - ArmsTrade
 summary: "Middle Eastern state whose undeclared nuclear arsenal, intelligence operations in the United States, covert arms sales to Iran and Latin America, and surveillance-technology industry run through much of this vault."
 created: 2025-07-22
-updated: 2026-09-22
+updated: 2026-10-12
 ---
 
 The State of [[Israel]] was established in 1948. Its intelligence services are the [[Mossad]] (foreign intelligence), [[Shin Bet]] (internal security) and military intelligence, [[Aman]], whose signals arm is [[Unit 8200]]; a fourth agency under the defense ministry, the Science Liaison Bureau, [[LAKAM]], collected technical information abroad until the [[Jonathan Pollard]] case of 1985.[^1][^2]
@@ -43,7 +43,7 @@ The former Mossad officer [[Mike Harari]] was named by [[Jose Blandon|José Blan
 
 ### Surveillance Technology
 
-Unit 8200 is the recruiting ground of the Israeli private surveillance industry; the founders of the spyware maker [[NSO Group]] are its alumni.[^13] In 2015 the former prime minister [[Ehud Barak]] arranged an investment of about one million dollars by [[Jeffrey Epstein]] in Reporty, later [[Carbyne]], which also had backing from [[Peter Thiel]]'s [[Founders Fund]].[^14] On January 12, 2024, [[Palantir Technologies]] announced "a strategic partnership with the Israeli Ministry of Defense to supply Palantir technology to help the country's war effort."[^15]
+Unit 8200 is a recruiting ground of the Israeli private surveillance industry; veterans of the unit are known to have helped develop the technology of the spyware maker [[NSO Group]], according to the Organized Crime and Corruption Reporting Project.[^13] Ynet reported in 2019 that NSO co-founder [[Shalev Hulio]] did not serve in the unit.[^14] In 2015 the former prime minister [[Ehud Barak]] arranged an investment of about one million dollars by [[Jeffrey Epstein]] in Reporty, later [[Carbyne]], which also had backing from [[Peter Thiel]]'s [[Founders Fund]].[^15] On January 12, 2024, [[Palantir Technologies]] announced "a strategic partnership with the Israeli Ministry of Defense to supply Palantir technology to help the country's war effort."[^16]
 
 ### Footnotes
 
@@ -59,6 +59,7 @@ Unit 8200 is the recruiting ground of the Israeli private surveillance industry;
 [^10]: "Probe by House finds no 'October surprise,'" *The Baltimore Sun,* January 13, 1993. https://www.baltimoresun.com/news/bs-xpm-1993-01-13-1993013111-story.html
 [^11]: "Ex-agent of the Mossad Implicated in Drug Deals with Panamanian," *Jewish Telegraphic Agency,* February 1988. https://www.jta.org/archive/ex-agent-of-the-mossad-implicated-in-drug-deals-with-panamanian
 [^12]: "Media Baron Sues Seymour Hersh," *The Washington Post,* October 25, 1991. https://www.washingtonpost.com/archive/lifestyle/1991/10/25/media-baron-sues-seymour-hersh/c16c29e2-04ba-4038-9fff-08113fa33b77/ ; "Maxwell, Colossus Even in Death, Laid to Rest on Mount of Olives," *Jewish Telegraphic Agency,* 1991. https://www.jta.org/archive/maxwell-colossus-even-in-death-laid-to-rest-on-mount-of-olives
-[^13]: "Where NSO Group Came From and Why It's Just the Tip of the Iceberg," OCCRP. https://www.occrp.org/en/project/the-pegasus-project
-[^14]: Brewster, Thomas. "Epstein Could Have Made $100 Million On A Secret Police Tech Investment With Ehud Barak." *Forbes,* February 2026.
-[^15]: "Palantir, Israel Agree Strategic Partnership for Battle Tech." *Bloomberg,* January 12, 2024.
+[^13]: "Where NSO Group Came From and Why It's Just the Tip of the Iceberg," OCCRP, The Pegasus Project. https://www.occrp.org/en/project/the-pegasus-project/where-nso-group-came-from-and-why-its-just-the-tip-of-the-iceberg
+[^14]: Ronen Bergman, "Weaving a cyber web," *Ynetnews*, January 11, 2019. https://www.ynetnews.com/articles/0,7340,L-5444998,00.html
+[^15]: Brewster, Thomas. "Epstein Could Have Made $100 Million On A Secret Police Tech Investment With Ehud Barak." *Forbes,* February 2026.
+[^16]: "Palantir, Israel Agree Strategic Partnership for Battle Tech." *Bloomberg,* January 12, 2024.
