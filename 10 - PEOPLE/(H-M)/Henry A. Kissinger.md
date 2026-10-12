@@ -5,7 +5,7 @@ aliases:
   - Henry Kissinger
   - Kissinger
 created: 2026-05-14
-updated: 2026-10-09
+updated: 2026-10-12
 category: "Intelligence & Government"
 tags:
   - KeyFigure
@@ -119,37 +119,9 @@ On December 6, 1975, in Jakarta, Kissinger and President Ford met with Indonesia
 
 ### Telephone Transcripts
 
-Beginning in January 1969, Kissinger had his telephone conversations transcribed for his office files, a practice that continued through his tenure as Secretary of State. Upon leaving office in January 1977, Kissinger removed the transcripts as personal papers and secretly shipped them to Nelson Rockefeller's estate in [[Tarrytown, New York]] on October 29, 1976, before arranging a donation to the Library of Congress under terms excluding public access. State Department lawyers advised in 1975 and 1976 that the transcripts were not subject to the Freedom of Information Act as personal property, despite having been created by government secretaries using government resources. William Safire's January 14, 1976, *New York Times* column, "The Dead-Key Scrolls," first brought the issue to public attention. The [[National Security Archive]] drafted a complaint against both the Archivist of the United States and the Secretary of State on February 13, 2001; the government recovered copies of the transcripts to the National Archives and State Department in August 2001. The collection runs to more than 15,000 pages. These materials are documented in NSAEBB Briefing Book No. 852.[^telcons]
+Beginning in January 1969, Kissinger had his telephone conversations transcribed for his office files, a practice that continued through his tenure as Secretary of State. On October 29, 1976, while still Secretary of State, Kissinger arranged to move the transcripts as personal papers from his State Department office to Nelson Rockefeller's estate in [[Tarrytown, New York]], before arranging a donation to the Library of Congress under terms excluding public access.[^kissrc] State Department lawyers advised in 1975 and 1976 that the transcripts were not subject to the Freedom of Information Act as personal property, despite having been created by government secretaries using government resources. William Safire's January 14, 1976, *New York Times* column, "The Dead-Key Scrolls," first brought the issue to public attention. The [[National Security Archive]] began corresponding with the Archivist of the United States, [[John W. Carlin]], about recovering the transcripts in January 1999. A complaint written by its pro bono counsel at [[Mayer Brown]] was presented to the Archivist and the Secretary of State on January 25, 2001, and its attorneys wrote again to the State Department, the National Archives and the Department of Justice on April 25, 2001. The government recovered copies of the transcripts to the National Archives and State Department in 2001, and a State Department statement of August 8, 2001 credited the Archive with prompting the recovery. On May 26, 2004 the National Archives released about 20,000 pages of the transcripts, covering Kissinger's service from 1969 to August 1974.[^nsa123] These materials are documented in NSAEBB Briefing Book No. 852.[^telcons]
 
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 12.
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 16.
-[^bio]: Nobel Committee, "Henry Kissinger – Biographical," *NobelPrize.org*, 1973. https://www.nobelprize.org/prizes/peace/1973/kissinger/biographical/
-[^seminar]: Harvard Crimson, "Kissinger, Harvard and the FBI," November 16, 1979; Frank Donner, *The Age of Surveillance: The Aims and Methods of America's Political Intelligence System* (Alfred A. Knopf, 1980), pp. 312-315 (CIA cutout funding to Harvard International Seminar).
-[^ssp]: Rockefeller Archive Center, Rockefeller Brothers Fund records, Special Studies Project, RG 4, 1956-1964 (finding aid FA387), rockarch.org; *Prospect for America: The Rockefeller Panel Reports* (Doubleday, 1961).
-[^nwfp]: Henry Kissinger, *Nuclear Weapons and Foreign Policy* (Harper for the Council on Foreign Relations, 1957); Hoover Institution review, https://www.hoover.org/research/nuclear-weapons-and-foreign-policy-henry-kissinger-council-foreign-relations-1957
-[^state]: Office of the Historian, U.S. Department of State, "Henry A. (Heinz Alfred) Kissinger," *People - Department History*, https://history.state.gov/departmenthistory/people/kissinger-henry-a
-[^doc11]: National Security Archive Briefing Book No. 829, Document 1.1: White House Telcon, Kissinger to Melvin Laird, March 15, 1969. Source: DNSA, Kissinger Telephone Conversations.
-[^doc12]: National Security Archive Briefing Book No. 829, Document 1.2: White House Telcon, Kissinger-Nixon, March 17, 1969. Source: DNSA.
-[^doc13]: National Security Archive Briefing Book No. 829, Document 1.3: White House Telcon, General Wheeler to Kissinger, March 18, 1969. Source: DNSA.
-[^doc16]: National Security Archive Briefing Book No. 829, Document 1.6: FBI Memorandum, "Colonel Alexander M. Haig Technical Surveillance Request," May 12, 1969. Source: Elliot Richardson Papers, Library of Congress.
-[^doc17]: National Security Archive Briefing Book No. 829, Document 1.7: FBI J. Edgar Hoover Wiretap Surveillance Report to President Nixon, May 11, 1970. Source: Richard Nixon Presidential Library.
-[^halperin]: *Halperin v. Kissinger*, 424 F. Supp. 838 (D.D.C. 1976); settled November 1992.
-[^chile]: National Security Archive Electronic Briefing Book No. 437, ed. Peter Kornbluh (September 11, 2013), Documents 1-10; *Foreign Relations of the United States, 1969-1976*, Volume XXI, Chile, 1969-1973 (U.S. Government Publishing Office).
-[^condor]: National Security Archive Briefing Book No. 829, Document 4.1: State Department Action Memorandum, "Operation Condor," August 30, 1976; Document 4.2: State Department Cable, "Actions Taken," September 16, 1976. Source: National Security Archive FOIA.
-[^doc32]: National Security Archive Briefing Book No. 829, Document 3.2: State Department Memcon, "Secretary's Meeting with Argentine Foreign Minister Guzzetti," October 7, 1976. Source: FOIA release, November 2003.
-[^doc33]: National Security Archive Briefing Book No. 829, Document 3.3: State Department Memo, "Foreign Minister Guzzetti Euphoric over Visit," October 19, 1976. Source: Argentina Declassification Project, August 20, 2002.
-[^doc51]: National Security Archive Briefing Book No. 829, Document 5.1: U.S. Consulate Dacca Cable, "Dissent from U.S. Policy Toward East Pakistan," April 6, 1971. Source: NARA, RG 59, SN 70-73.
-[^doc52]: National Security Archive Briefing Book No. 829, Document 5.2: White House Memorandum for the President, "Policy Options Toward Pakistan," April 28, 1971. Source: NARA, Nixon Presidential Materials, NSC Files, Box 625.
-[^doc61]: National Security Archive Electronic Briefing Book No. 62; Document 4: Embassy Jakarta Telegram 1579 (Secret/Nodis), December 6, 1975. Source: Gerald R. Ford Library, Kissinger-Scowcroft Temporary Parallel File, Box A3.
-[^telcons]: National Security Archive Briefing Book No. 852, ed. William Burr (February 13, 2024), Documents 1-34; NSAEBB No. 123 (The Kissinger Telcons) and NSAEBB No. 263 (The Kissinger Telephone Conversation Transcripts).
-[^c1]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon*. HarperCollins, 1995. Ch. 25, 27.
-[^c2]: Colby and Dennett, Ch. 29.
-[^c3]: Colby and Dennett, Ch. 24.
-[^friele]: Colby and Dennett, Ch. 29; Rockefeller Archive Center, Berent Friele Papers (FA468).
-[^qp1]: *Foreign Relations of the United States, 1955-1957, Volume XIX, National Security Policy*, document 42, editorial note on the Quantico II Panel, pp. 153-154, https://history.state.gov/historicaldocuments/frus1955-57v19/d42. Lists "Dr. Henry A. Kissinger of Harvard University" among the twelve invited on August 16, 1955.
-[^qp2]: "Psychological Aspects of United States Strategy: Source Book of Individual Papers," November 1955, CIA reading room copy, CIA-RDP86B00269R000300120001-4, https://archive.org/details/cia-readingroom-document-cia-rdp86b00269r000300120001-4. Contents, paper 16, "Psychological and Pressure Aspects of Negotiations with the USSR," by Henry A. Kissinger.
-[^qp3]: Daniel Morris Bessner, "The Night Watchman: Hans Speier and the Making of the American National Security State" (PhD dissertation, Duke University, 2013), p. 261 and note 129, citing Gordon H. Chang, *Friends and Enemies: The United States, China, and the Soviet Union, 1948-1972* (Stanford University Press, 1990), p. 151. Bessner's note 129 is on his list of the eleven members: it states that Henry Kissinger attended some sessions, as did members of the State and Defense Departments, the CIA, the Operations Coordinating Board and the NSC.
-[^qp4]: Bessner, "The Night Watchman," pp. 264-265 and note 146, citing Walter Isaacson, *Kissinger: A Biography* (Simon & Schuster, 2005), pp. 90-91, on the two men's earlier contact at the first panel.
-[^qp5]: Rockefeller Archive Center, Nelson A. Rockefeller personal papers, Hugh Morrow Interviews, Series Q, Subseries 2, "Henry Kissinger Interview," Spring 1980, scope note, https://dimes.rockarch.org/collections/H45i6yf7MUHuaRwQVupvg5.

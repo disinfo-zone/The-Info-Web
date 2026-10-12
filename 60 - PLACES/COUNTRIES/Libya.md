@@ -1,4 +1,4 @@
-﻿---
+---
 category: "Country"
 tags:
   - Country
@@ -7,9 +7,9 @@ tags:
   - Gaddafi
   - Lockerbie
   - IranContra
-summary: "Libya under Muammar Gaddafi was a CIA target for covert destabilization operations throughout the 1980s, a state that financed and trained international terrorist networks, the perpetrator of the 1988 Lockerbie bombing, and a node in illicit arms procurement networks that intersect with Iran-Contra and PROMIS subjects in this vault."
+summary: "Libya under Muammar Gaddafi was a CIA covert-action target in the 1980s, tied to the 1988 Lockerbie bombing and to arms procurement networks intersecting Iran-Contra and PROMIS."
 created: 2026-05-14
-updated: 2026-05-17
+updated: 2026-10-12
 location: "Tripoli, Libya"
 ---
 
@@ -21,9 +21,13 @@ Gaddafi's government, which he styled the "Great Socialist People's Libyan Arab 
 
 In April 1984, a gunman inside the Libyan People's Bureau (embassy) in London fired into a crowd of protesters outside, killing British police constable [[Yvonne Fletcher]]. Libya broke diplomatic relations with Britain following the incident. On April 15, 1986, the United States bombed Tripoli and Benghazi in [[Operation El Dorado Canyon]], targeting Gaddafi's personal compound and intelligence facilities, after a Libyan-linked bombing of a Berlin disco killed American soldiers. The operation was launched from British bases with [[Margaret Thatcher]]'s approval.[^1]
 
+On April 15, 1986, Thatcher told the Commons that the President had sought British agreement "to the use in the operation of some United States aircraft based in this country." She said that Britain would support "action directed against specific Libyan targets demonstrably involved in the conduct and support of terrorist activities," and that "we would agree to the deployment of United States aircraft from bases in the United Kingdom for that purpose." She reported that the President had made clear that "use of F111 aircraft from bases in the United Kingdom was essential."[^3]
+
+Reagan's address of April 14, 1986 thanked "our friends and allies in Europe who cooperated in today's mission."[^4] Air Force Magazine reported that France, Germany, Italy and Spain refused to cooperate, which forced the F-111s to fly around France and Spain and through the Strait of Gibraltar, and that the aircraft flew from [[RAF Lakenheath]] and [[RAF Upper Heyford]].[^5]
+
 ### PROMIS Connection
 
-[[Angela Dellafiora]], the [[Defense Intelligence Agency|DIA]] analyst working in the [[Stargate Project]] remote viewing program, reportedly described a Libyan chemical weapons facility in a remote viewing session. More directly, Libya was among the countries to which [[PROMIS]] software was allegedly distributed in a backdoor-equipped version, according to accounts from [[Ari Ben-Menashe]] and [[Michael Riconosciuto]]. Libyan intelligence's use of PROMIS-derived case management software would have given U.S. and Israeli intelligence access to Libyan operations.[^3]
+[[Angela Dellafiora]], the [[Defense Intelligence Agency|DIA]] analyst working in the [[Stargate Project]] remote viewing program, reportedly described a Libyan chemical weapons facility in a remote viewing session. More directly, Libya was among the countries to which [[PROMIS]] software was allegedly distributed in a backdoor-equipped version, according to accounts from [[Ari Ben-Menashe]] and [[Michael Riconosciuto]]. Libyan intelligence's use of PROMIS-derived case management software would have given U.S. and Israeli intelligence access to Libyan operations.[^6]
 
 ### Lockerbie
 
@@ -37,4 +41,7 @@ Gaddafi was captured and killed on October 20, 2011, during the NATO-supported u
 
 [^1]: "Libya," *Encyclopaedia Britannica.* https://www.britannica.com/place/Libya
 [^2]: Hersh, Seymour M. "Target Gaddafi," *New York Times Magazine,* February 22, 1987.
-[^3]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015).
+[^3]: Thatcher, Margaret, statement on Libya, House of Commons, April 15, 1986, HC Deb vol. 95, cols. 729-39. https://api.parliament.uk/historic-hansard/commons/1986/apr/15/libya
+[^4]: Reagan, Ronald, Address to the Nation on the United States Air Strike Against Libya, April 14, 1986, Ronald Reagan Presidential Library. https://www.reaganlibrary.gov/archives/speech/address-nation-united-states-air-strike-against-libya
+[^5]: "El Dorado Canyon," *Air Force Magazine,* March 1999. https://www.airandspaceforces.com/article/0399canyon/
+[^6]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015).

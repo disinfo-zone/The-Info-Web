@@ -5,7 +5,7 @@ aliases:
   - Family Jewels
   - Potential Flap Activities
 created: 2026-05-17
-updated: 2026-10-09
+updated: 2026-10-12
 category: "Intelligence Scandal"
 tags:
   - Event
@@ -48,7 +48,7 @@ Schlesinger transmitted the document to his successor as DCI, [[William Colby]],
 
 Colby's disclosure of the Family Jewels to the Church Committee in 1975 was part of what CIA traditionalists called the "Halloween Massacre" - the moment when Colby's approach to congressional oversight became apparent to the full intelligence community. President Ford fired Colby as DCI in November 1975 (and also fired Schlesinger as Secretary of Defense, in the same announcement), though Colby continued serving through the transition to his successor George H.W. Bush.
 
-The Family Jewels was partially declassified and released by the CIA under then-DCI [[Michael Hayden]] on June 26, 2007, following a FOIA lawsuit by the [[National Security Archive]]. The released version remains redacted in substantial portions. The unredacted document can be accessed through the CIA's FOIA Reading Room: cia.gov/readingroom/collection/family-jewels.[^1]
+The Family Jewels was partially declassified and released by the CIA under then-DCI [[Michael Hayden]] on June 26, 2007. The [[National Security Archive]] posted the file on June 21, 2007 after Hayden announced that day that the agency was declassifying it, and wrote that the 702-page collection reached it on June 26, fifteen years after it filed a Freedom of Information Act request; [[Thomas S. Blanton]] called the release "the first voluntary CIA declassification of controversial material since George Tenet in 1998 reneged on the 1990s promises of greater openness at the Agency."[^2] The released version remains redacted in substantial portions. The unredacted document can be accessed through the CIA's FOIA Reading Room: cia.gov/readingroom/collection/family-jewels.[^1]
 
 ### Surveillance of Jack Anderson, 1972
 
@@ -61,6 +61,6 @@ A separate memorandum in the compilation, signed by [[Ted Shackley]] of the West
 ### Footnotes
 
 [^1]: CIA FOIA Reading Room, "The Family Jewels," cia.gov/readingroom/collection/family-jewels (released 2007). Church Committee, S. Rept. 94-755, April 26, 1976. Weiner, Tim. *Legacy of Ashes: The History of the CIA*. Doubleday, 2007, pp. 316-327.
-[^2]: Central Intelligence Agency, Office of Security, submission of May 16, 1973 for the "Family Jewels" compilation, section "CELOTEX II," CIA Reading Room document 0001451843. https://archive.org/details/CIA-Family-Jewels
+[^2]: National Security Archive, Electronic Briefing Book No. 222, "The CIA's Family Jewels," posted June 21, 2007, updated June 26, 2007. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/index.htm
 [^3]: Central Intelligence Agency, "Family Jewels" compilation, memorandum from Richard Helms to Henry Kissinger, September 9, 1972. https://archive.org/details/CIA-Family-Jewels
 [^4]: Central Intelligence Agency, "Family Jewels" compilation, memorandum on Anderson's column concerning ITT and Howard Hunt, 1973. https://archive.org/details/CIA-Family-Jewels

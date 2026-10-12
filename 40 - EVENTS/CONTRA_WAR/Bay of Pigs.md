@@ -1,6 +1,6 @@
-﻿---
+---
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-10-12
 title: Bay of Pigs Invasion
 aliases:
   - Bay of Pigs
@@ -49,7 +49,7 @@ The original air plan called for over 40 sorties before the invasion. Kennedy ap
 
 The cover story required that the attacking aircraft appear to be defecting Cuban air force pilots. Exile pilot Mario Zuñiga was presented to the media as a Cuban defector who had participated in the attack. The story collapsed within hours: journalists noticed the B-26 had a solid metal nose cone with gun mounts, while Castro's B-26s used plastic nose cones with wing-mounted guns, and the guns were sealed with masking tape.
 
-[[Adlai Stevenson]], the U.S. Ambassador to the United Nations, had been deliberately kept uninformed and had brandished CIA-provided photographs at the UN General Assembly insisting the raids were carried out by defecting Cuban pilots. When the Soviet ambassador exposed the deception, Stevenson was furious and pressed Washington to stop the operation. His exposure as an unwitting instrument of a collapsed cover story became a significant factor in the decision to cancel the D-Day follow-up strikes.[^1]
+[[Adlai Stevenson]], the U.S. Ambassador to the United Nations, had been deliberately kept uninformed and had brandished CIA-provided photographs at the UN General Assembly insisting the raids were carried out by defecting Cuban pilots. When the Soviet ambassador exposed the deception, Stevenson was furious and pressed Washington to stop the operation. His exposure as an unwitting instrument of a collapsed cover story became a significant factor in the decision to cancel the D-Day follow-up strikes.[^1] On April 15, 1961 Stevenson told the General Assembly's First Committee that according to his information the raids had been carried out by defectors from the Cuban Air Force who had landed in Florida and asked for political asylum.[^2] On April 16 he cabled the Department of State, for Secretary of State Dean Rusk and [[Allen Dulles]], that he was "greatly disturbed by clear indications" that the bombing incidents "were launched in part at least from outside Cuba," that his answers to Cuban Foreign Minister [[Raúl Roa]] "were hastily concocted in Department, and revised by me at last minute on assumption this was clear case of attacks by defectors inside Cuba," and that he did not understand why he had not been "warned and provided pre-prepared material."[^3]
 
 ### The D-Day Air Strike Cancellation
 
@@ -73,7 +73,7 @@ Four American volunteers flying B-26 combat missions were killed on April 19: Ma
 
 The invasion was compromised through multiple simultaneous channels. Cuban G2 had penetrated Brigade 2506 training camps in Guatemala with double agents who filed detailed intelligence reports from at least January 1961. The scale of the Camp Trax operation could not be concealed from local populations or regional intelligence services.
 
-The Miami exile community was equally porous. Plans were "common knowledge" among Cuban exiles and Havana's intelligence had ready access to refugee networks in [[Miami]]. On January 10, 1961, the New York Times published an account of exile training in Guatemala. On April 7, 1961, reporter Tad Szulc filed a story - toned down at Kennedy's personal request - reporting U.S. experts were training an exile invasion force. Kennedy's private reaction: "I can't believe what I'm reading! Castro doesn't need agents over here. All he has to do is read our papers!"[^2]
+The Miami exile community was equally porous. Plans were "common knowledge" among Cuban exiles and Havana's intelligence had ready access to refugee networks in [[Miami]]. On January 10, 1961, the New York Times published an account of exile training in Guatemala. On April 7, 1961, reporter Tad Szulc filed a story - toned down at Kennedy's personal request - reporting U.S. experts were training an exile invasion force. Kennedy's private reaction: "I can't believe what I'm reading! Castro doesn't need agents over here. All he has to do is read our papers!"[^6]
 
 ### The Kirkpatrick IG Report and Its Suppression
 
@@ -81,13 +81,13 @@ CIA Inspector General Lyman Kirkpatrick completed "The Inspector General's Surve
 
 Among the report's documented findings: the operation received the CIA's "lowest-ranked case officers"; staffing was insufficient at all levels; Spanish-language deficiencies plagued the training program; the CIA treated Cuban exile leaders as "puppets" rather than building genuine partnership; and the agency had "conducted an overt military operation beyond Agency responsibility as well as Agency capability."
 
-Kirkpatrick distributed copies to [[Allen Dulles]], McCone, the [[President's Foreign Intelligence Advisory Board]], and [[Robert Kennedy]] - circumventing normal IG channels and causing what witnesses described as an "extremely stormy session" between Dulles and Kirkpatrick. McCone ordered all but one of approximately 20 copies destroyed; the surviving copy remained locked in the DCI's safe.
+Kirkpatrick distributed copies to Allen Dulles, McCone, the [[President's Foreign Intelligence Advisory Board]], and [[Robert Kennedy]] - circumventing normal IG channels and causing what witnesses described as an "extremely stormy session" between Dulles and Kirkpatrick. McCone ordered all but one of approximately 20 copies destroyed; the surviving copy remained locked in the DCI's safe.
 
 [[Tracy Barnes]], Bissell's deputy and the operation's Washington coordinator, authored a formal response characterizing the report as "an incompetent job," "biased," and "malicious." Bissell argued that political deniability requirements and senior policy makers bore primary responsibility. McCone bound both documents together as a paired submission to the PFIAB.
 
 CIA historian Jack Pfeiffer's five-volume internal history (written 1979-1984) sided against Kirkpatrick across all five volumes, alleging he was motivated by desire for Bissell's position. CIA Chief Historian David Robarge, authorizing the 2016 public release of Pfeiffer's Vol. V, acknowledged Pfeiffer's draft suffered from "serious shortcomings in scholarship" and a "polemical tone."
 
-The Kirkpatrick report remained classified for 36 years, declassified on February 22, 1998, following a two-year FOIA effort by the [[National Security Archive]]. It was published in full as Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba* (New Press, 1998).[^2]
+The Kirkpatrick report remained classified for 36 years, declassified on February 22, 1998, following a two-year FOIA effort by the [[National Security Archive]]. It was published in full as Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba* (New Press, 1998).[^6]
 
 ### The Taylor Commission
 
@@ -105,16 +105,18 @@ Of approximately 1,400 Brigade members: 114 were killed in battle; approximately
 
 Robert Kennedy secretly recruited [[New York]] attorney James B. Donovan - who had negotiated the [[Rudolf Abel]] spy exchange - to reopen prisoner talks in June 1962. Donovan worked pro bono. Negotiations were disrupted by the [[Cuban Missile Crisis]] in October 1962 but resumed. On December 21, 1962, Donovan and Castro signed an agreement: 1,113 surviving prisoners were exchanged for $53 million in food, medicines, and other humanitarian supplies, raised through private donations from pharmaceutical companies and other sources.
 
-Kennedy welcomed the released prisoners at the Orange Bowl in Miami on December 29, 1962. Brigade 2506 presented Kennedy with their battle flag; Kennedy stated he would return it "to a free Havana." He never did.[^2]
+Kennedy welcomed the released prisoners at the Orange Bowl in Miami on December 29, 1962. Brigade 2506 presented Kennedy with their battle flag; Kennedy stated he would return it "to a free Havana." He never did.[^6]
 
 ### Veterans and Later Operations
 
-Brigade 2506 veterans became the CIA's organizational core for subsequent Cuba operations and reappeared across later covert programs. [[Felix Rodriguez]], a veteran who had participated in the capture of [[Che Guevara]] in Bolivia, managed the Contra resupply operation at [[Ilopango Airbase]] in [[El Salvador]] in the 1980s under the alias "Max Gomez." [[Howard Hunt]], the Bay of Pigs political officer responsible for the [[Cuban Revolutionary Council]] exile leadership, recruited Bay of Pigs veterans for the Watergate burglary team. Three of the Watergate burglars - [[Bernard Barker]], Eugenio Martinez, and [[Frank Sturgis]] - were Bay of Pigs veterans with continuing CIA relationships. Hunt's Bay of Pigs role, and the CIA's desire to contain investigation into it, was a recurring element of the Watergate cover-up narrative.[^3]
+Brigade 2506 veterans became the CIA's organizational core for subsequent Cuba operations and reappeared across later covert programs. [[Felix Rodriguez]], a veteran who had participated in the capture of [[Che Guevara]] in Bolivia, managed the Contra resupply operation at [[Ilopango Airbase]] in [[El Salvador]] in the 1980s under the alias "Max Gomez." [[Howard Hunt]], the Bay of Pigs political officer responsible for the [[Cuban Revolutionary Council]] exile leadership, recruited Bay of Pigs veterans for the Watergate burglary team. Three of the Watergate burglars - [[Bernard Barker]], Eugenio Martinez, and [[Frank Sturgis]] - were Bay of Pigs veterans with continuing CIA relationships. Hunt's Bay of Pigs role, and the CIA's desire to contain investigation into it, was a recurring element of the Watergate cover-up narrative.[^7]
 
 ### Footnotes
 
 [^1]: CIA Inspector General. "Inspector General's Survey of the Cuban Operation." October 1961; declassified February 22, 1998. Published in Kornbluh, Peter, ed. *Bay of Pigs Declassified: The Secret CIA Report on the Invasion of Cuba.* New Press, 1998. Foreign Relations of the United States, 1961-1963, Vol. X (Cuba, January 1961-September 1962), Documents 108, 169, 198. U.S. Department of State, history.state.gov/historicaldocuments/frus1961-63v10.
-[^2]: Cuba Study Group (Taylor Commission). Final Report. June 13, 1961. FRUS 1961-1963, Vol. X, Document 169. CIA Official History, Vols. I-V (Pfeiffer, 1979-1984). National Security Archive, nsarchive.gwu.edu, NSAEBB353 (2011) and NSAEBB564 (2016). Wyden, Peter. *Bay of Pigs: The Untold Story.* Simon & Schuster, 1979.
-[^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.
+[^2]: *Foreign Relations of the United States, 1961-1963,* Volume X, Cuba, January 1961-September 1962, Document 104, editorial note on the meeting of the Political (First) Committee of April 15, 1961 (U.N. doc. A/C.1/SR.1149). https://history.state.gov/historicaldocuments/frus1961-63v10/d104
+[^3]: *Foreign Relations of the United States, 1961-1963,* Volume X, Document 105, Telegram from the Mission to the United Nations to the Department of State, April 16, 1961. https://history.state.gov/historicaldocuments/frus1961-63v10/d105
 [^4]: Cuba Study Group, Memorandum No. 1, "Narrative of the Anti-Castro Cuban Operation Zapata," June 13, 1961, paragraph 43, *Foreign Relations of the United States, 1961-1963*, Volume X, Cuba, January 1961-September 1962, Document 231. https://history.state.gov/historicaldocuments/frus1961-63v10/d231
 [^5]: Memorandum from General C.P. Cabell to the Cuba Study Group, May 9, 1961, *Foreign Relations of the United States, 1961-1963*, Volume X, Document 108. https://history.state.gov/historicaldocuments/frus1961-63v10/d108
+[^6]: Cuba Study Group (Taylor Commission). Final Report. June 13, 1961. FRUS 1961-1963, Vol. X, Document 169. CIA Official History, Vols. I-V (Pfeiffer, 1979-1984). National Security Archive, nsarchive.gwu.edu, NSAEBB353 (2011) and NSAEBB564 (2016). Wyden, Peter. *Bay of Pigs: The Untold Story.* Simon & Schuster, 1979.
+[^7]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.

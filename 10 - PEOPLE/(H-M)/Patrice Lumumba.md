@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-10-12
 title: Patrice Lumumba
 aliases:
   - Patrice Emery Lumumba
@@ -14,7 +14,7 @@ tags:
   - ColdWar
   - Decolonization
 category: "Political Figure"
-summary: "Patrice Lumumba was the first democratically elected Prime Minister of the independent Congo (June 1960), deposed and delivered to Katangan forces by a CIA-backed conspiracy involving Joseph Mobutu within months of independence, and killed on January 17, 1961 - a case the Church Committee found involved CIA assassination planning, making him the emblematic victim of Cold War CIA intervention in African decolonization."
+summary: "Patrice Lumumba, first elected Prime Minister of the independent Congo, was deposed in 1960 and delivered to Katangan forces, and was killed on January 17, 1961; the Church Committee found CIA assassination planning."
 born: 1925-07-02
 died: 1961-01-17
 location: "Leopoldville (now Kinshasa), Congo"
@@ -26,7 +26,9 @@ Patrice Emery Lumumba (July 2, 1925 - January 17, 1961) was the first Prime Mini
 
 The Belgian Congo achieved independence on June 30, 1960. Lumumba, who had won legislative elections as leader of the Mouvement National Congolais, became Prime Minister in a coalition government with President Joseph Kasavubu. The transition was immediately chaotic: the Congolese army mutinied against Belgian officers; Belgian paratroopers intervened to protect Belgian nationals; and the mineral-rich Katanga province, under [[Moise Tshombe]], declared independence with Belgian support on July 11, 1960.
 
-Lumumba appealed first to the [[United Nations]], which sent peacekeepers but declined to use them to reintegrate Katanga. He then appealed to the United States, which refused, and finally to the [[Soviet Union]], which provided transport aircraft and military advisors. The Soviet connection was the critical factor in the American and Belgian decisions to seek Lumumba's removal: in the context of Cold War competition for influence in newly decolonized Africa, an independent Congolese government with Soviet ties represented an intolerable risk from the American perspective.[^1]
+Lumumba appealed first to the [[United Nations]], which sent peacekeepers but declined to use them to reintegrate Katanga. He then went to the United States, and finally appealed to the [[Soviet Union]], which provided transport aircraft and military advisors. The Soviet connection was the critical factor in the American and Belgian decisions to seek Lumumba's removal: in the context of Cold War competition for influence in newly decolonized Africa, an independent Congolese government with Soviet ties represented an intolerable risk from the American perspective.[^1]
+
+On July 14, 1960, the Security Council authorized the Secretary-General to take the steps needed to provide the Congolese government with military assistance after the [[Katanga]] secession.[^2] On August 9, 1960, it reaffirmed that the United Nations Force in the Congo "will not be a party to or in any way intervene in or be used to influence the outcome of any internal conflict, constitutional or otherwise."[^3] According to the Church Committee, Lumumba visited Washington in late July 1960, where Secretary of State [[Christian Herter]] pledged economic aid, and after the events of September 5 and 14 he asked the United Nations force for protection.[^4] On February 21, 1961, the Council noted with deep regret the announced killing of Lumumba, [[Maurice Mpolo]] and [[Joseph Okito]], urged the immediate withdrawal and evacuation from the [[Congo]] of all Belgian and other foreign military and paramilitary personnel and political advisers not under United Nations Command, and of mercenaries, provided for the use of force, as a last resort, to prevent civil war, and decided that an immediate and impartial investigation be held into the circumstances of the deaths.[^5]
 
 ### CIA Involvement
 
@@ -40,7 +42,7 @@ The CIA facilitated Lumumba's capture by providing intelligence on his movements
 
 ### Church Committee Findings
 
-The 1975 [[Church Committee]] investigated CIA involvement in Lumumba's death and found:
+The 1975 Church Committee investigated CIA involvement in Lumumba's death and found:
 
 - CIA Director Dulles had authorized assassination planning targeting Lumumba
 - The CIA had prepared and dispatched a biological toxin specifically for use against him
@@ -53,9 +55,13 @@ The committee concluded that while the CIA had clearly planned and intended to a
 
 Lumumba's death established the pattern of Cold War CIA intervention in African independence movements that characterized subsequent decades. His assassination brought Mobutu Sese Seko to power as a long-term CIA client who would rule the renamed country Zaire until 1997. The Congo became a staging ground for subsequent CIA operations, particularly during the [[Angola|Angolan]] civil war (1975-1991) when CIA-supplied [[Zaire]]-based forces supported [[UNITA]] against the [[MPLA]].
 
-Lumumba's legacy in pan-African and anticolonial political tradition was significant; he became a martyred symbol of African self-determination. The Belgian government formally acknowledged Belgian involvement in his death in 2002.[^2]
+Lumumba's legacy in pan-African and anticolonial political tradition was significant; he became a martyred symbol of African self-determination. The Belgian government formally acknowledged Belgian involvement in his death in 2002.[^6]
 
 ### Footnotes
 
 [^1]: Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities). *Alleged Assassination Plots Involving Foreign Leaders.* Senate Report No. 94-465, 1975. De Witte, Ludo. *The Assassination of Lumumba.* Verso, 2001.
-[^2]: Weissman, Stephen R. "What Really Happened in Congo: The CIA, the Murder of Lumumba, and the Rise of Mobutu." *Foreign Affairs*, July/August 2014.
+[^2]: United Nations Security Council, resolution 143 (1960), July 14, 1960, paragraph 2. https://documents.un.org/api/symbol/access?s=S%2FRES%2F143%20(1960)&l=en&t=pdf
+[^3]: United Nations Security Council, resolution 146 (1960), August 9, 1960, paragraph 4. https://documents.un.org/api/symbol/access?s=S%2FRES%2F146%20(1960)&l=en&t=pdf
+[^4]: Church Committee, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report,* Senate Report No. 94-465, 1975, section on the Congo. https://www.intelligence.senate.gov/sites/default/files/94465.pdf
+[^5]: United Nations Security Council, resolution 161 (1961), February 21, 1961, preamble and paragraphs 1 to 4. https://documents.un.org/api/symbol/access?s=S%2FRES%2F161%20(1961)&l=en&t=pdf
+[^6]: Weissman, Stephen R. "What Really Happened in Congo: The CIA, the Murder of Lumumba, and the Rise of Mobutu." *Foreign Affairs*, July/August 2014.

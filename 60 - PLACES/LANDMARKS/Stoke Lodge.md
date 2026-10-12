@@ -1,9 +1,9 @@
-﻿---
+---
 title: Stoke Lodge
 aliases:
   - Stoke Lodge
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-12
 tags:
   - Location
   - DiplomaticResidence
@@ -19,7 +19,7 @@ location: "Kensington, London, UK"
 ---
 Stoke Lodge was the Australian High Commissioner's residence in Kensington, London. Sir [[Gordon Freeth]] served as Australian High Commissioner while residing there. [[Martin Allen]], aged 15, disappeared in November 1979. Allen was the son of the chief chauffeur to Sir Gordon Freeth, and Martin's family lived in the caretaker's cottage on the grounds of Stoke Lodge. The boy disappeared while traveling to Kings Cross station[^1].
 
-Stoke Lodge regularly hosted civic functions attended by prominent officials. Regular visitors included Prime Minister [[Margaret Thatcher]], deputy-director of MI6 [[Peter Hayman]] (a known pedophile), Margaret Thatcher's private secretary [[Peter Morrison]] (an alleged pedophile), and Home Secretary [[Leon Brittan]].[^1]
+The writer S. Dovey wrote that Stoke Lodge regularly hosted civic functions attended by prominent officials, and named as regular visitors Prime Minister [[Margaret Thatcher]], deputy-director of MI6 [[Peter Hayman]] (a known pedophile), Thatcher's private secretary [[Peter Morrison]] (an alleged pedophile), and Home Secretary [[Leon Brittan]].[^1]
 
 ### Australian Intelligence Investigation
 
@@ -31,7 +31,7 @@ The chauffeur company used by the Australian High Commission had numerous convic
 
 ### Missing Evidence and Investigation Suppression
 
-During [[Operation Orchid]] (the 1980s investigation into [[Sidney Cooke]]), files pertaining to links between Cooke's gang and the [[Elm Guest House]] were found to be missing when detectives checked original case files in 2014. This pattern of missing evidence characterized many investigations into VIP pedophile networks, suggesting systematic efforts to obstruct justice and protect powerful individuals involved in child abuse and trafficking[^1].
+During [[Operation Orchid]] (the 1980s investigation into Sidney Cooke), files pertaining to links between Cooke's gang and the [[Elm Guest House]] were found to be missing when detectives checked original case files in 2014. This pattern of missing evidence characterized many investigations into VIP pedophile networks, suggesting systematic efforts to obstruct justice and protect powerful individuals involved in child abuse and trafficking[^1].
 
 The investigation into Martin Allen's disappearance and the connections to Stoke Lodge faced similar challenges. The involvement of diplomatic personnel, intelligence officials, and high-level political figures created significant obstacles to thorough investigation. The international dimension of the case, involving Australian intelligence and UK law enforcement, added further complexity to efforts to uncover the truth about what occurred at Stoke Lodge and its connections to broader trafficking networks[^1].
 

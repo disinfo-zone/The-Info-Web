@@ -51,7 +51,7 @@ relations:
     role: "son"
     fn: 6
 created: 2025-08-05
-updated: 2026-09-22
+updated: 2026-10-12
 ---
 
 William P. Barr worked at the [[Central Intelligence Agency]] from 1973 to 1977 while attending law school at night. "During my tenure at CIA, 1973 to '77, the investigations of the agency started, and I moved to the legislative counsel's office," he recalled; as assistant legislative counsel under Director [[George H.W. Bush]] in 1976 he worked against legislation of Representatives [[Michael Harrington]] and [[Bella Abzug]] that would have required notice to people whose mail the agency had opened under [[HTLINGUAL]]. He then clerked for Judge [[Malcolm Wilkey]] of the [[United States Court of Appeals for the District of Columbia Circuit|D.C. Circuit]], a former head of the Justice Department's Criminal Division, who telephoned Bush for a reference. After private practice and the Reagan transition he joined the [[White House]] domestic policy staff, where he worked with [[C. Boyden Gray]], counsel to Vice President Bush. In 1988 he helped screen vice-presidential candidates through [[Robert Kimmitt]].[^1]
@@ -80,6 +80,10 @@ At the end of the administration Barr advised Bush to pardon [[Caspar Weinberger
 
 Barr resigned from the board of [[Dominion Energy]] effective February 12, 2019, before his confirmation as attorney general.[^5] His department oversaw the federal prosecution of [[Jeffrey Epstein]] that year. His father, [[Donald Barr]], was headmaster of the [[Dalton School]] in New York during the period in which Epstein, a college dropout, was hired there to teach; accounts differ on whether Donald Barr personally hired him.[^6]
 
+In a deposition before the House Committee on Oversight and Government Reform on August 18, 2025, Barr was asked whether he had recused himself from the Justice Department's review of the Florida prosecution and plea agreement of Epstein. He answered, "No, I didn't recuse myself." He said that the Southern District of New York investigation was "the only thing that I was aware of going on when I was there," and that "I don't recall playing a role in the review of that." He said he had considered whether to recuse from the New York matter, and that the decision not to recuse was made on input from the department's ethics office, by his recollection. Asked about the 2019 Office of Professional Responsibility inquiry into the Florida plea deal, he said, "I wasn't hovering over that or involved in that."[^7]
+
+Asked about his father's role as headmaster of the Dalton School, Barr said, "It's not pertinent at all." Asked about [[Kirkland & Ellis]] representing Epstein in the non-prosecution negotiations, and about his former employment with the firm, he said, "I actually don't think I would've had to recuse myself from that. But I just was never involved in that."[^8]
+
 ### Footnotes
 
 [^1]: Miller Center, University of Virginia. "William P. Barr Oral History," interview of April 5, 2001, George H. W. Bush Oral History Project. https://millercenter.org/the-presidency/presidential-oral-histories/william-p-barr-oral-history
@@ -88,3 +92,5 @@ Barr resigned from the board of [[Dominion Energy]] effective February 12, 2019,
 [^4]: Lacey, Frederick B. "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," reproduced in House Committee on Banking, Finance and Urban Affairs, *Testimony of Former Employees of the Banca Nazionale del Lavoro,* Serial No. 103-95, November 9, 1993; Gonzalez, Henry B. "Update on BNL Investigation," *Congressional Record,* House, January 21, 1993.
 [^5]: Dominion Energy, Inc. Proxy statement, 2019, SEC Form DEF 14A, director table, note 4. https://www.sec.gov/Archives/edgar/data/715957/000119312519085276/d693331ddef14a.htm
 [^6]: "The 'Epstein-Barr' Problem of New York City's Dalton School." *Law and Crime,* July 13, 2019, which states that Epstein was hired "by the school's headmaster Donald Barr in the mid 1970's". https://web.archive.org/web/2019/https://lawandcrime.com/high-profile/the-epstein-barr-problem-of-new-york-citys-dalton-school/
+[^7]: Deposition of William P. Barr, House Committee on Oversight and Government Reform, August 18, 2025, pp. 47-48. https://oversight.house.gov/wp-content/uploads/2025/09/Barr-Transcript.pdf
+[^8]: Same transcript, pp. 51 and 92-93.

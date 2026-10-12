@@ -16,7 +16,7 @@ summary: "Steve Bannon is the Breitbart chairman, Cambridge Analytica vice presi
 born: 1953-11-27
 location: "Norfolk, Virginia (born)"
 created: 2026-06-18
-updated: 2026-09-25
+updated: 2026-10-12
 ---
 
 [[Steve Bannon|Steve Bannon]] (born November 27, 1953) is an American media executive and political strategist who served as executive chairman of [[Breitbart News|Breitbart News]] from 2012 (after founder [[Andrew Breitbart|Andrew Breitbart]]'s death) through 2016 and again 2017-2018, as vice president and secretary of [[Cambridge Analytica|Cambridge Analytica]] from June 2014 to August 2016, as chief executive of the [[Donald Trump|Trump]] 2016 presidential campaign from August 17, 2016, and as White House Chief Strategist and Senior Counselor to the President from January 20 to August 18, 2017. The [[Mercer family|Mercer family]] funded Breitbart, bankrolled Cambridge Analytica, and was instrumental in installing Bannon as Trump campaign CEO.[^1][^2][^3]
@@ -57,7 +57,7 @@ Epstein sat for a videotaped interview with Bannon. A November 1, 2021 defense e
 [^4]: For the Breitbart-Gamergate pipeline, see the Gamergate page.
 [^5]: "The Mercers and Stephen Bannon: How a populist power base was funded and built." *Washington Post.* https://www.washingtonpost.com/graphics/politics/mercer-bannon/ . For the June 2011 10 million dollar Breitbart investment, the Government Accountability Institute funding, and the *Clinton Cash* placement, see also "Steve Bannon used Robert Mercer's offshore millions to accuse Clinton of corruption." *ThinkProgress,* November 8, 2017.
 [^6]: Mayer, Jane. "New Evidence Emerges of Steve Bannon and Cambridge Analytica's Role in Brexit." *The New Yorker.*
-[^7]: "Christopher Wylie: Bannon wanted 'weapons' to fight a 'culture war' at Cambridge Analytica," testimony to the Senate Judiciary Committee, May 16, 2018. *CBS News.* https://www.cbsnews.com/live-news/senate-cambridge-analytica-whistleblower-christopher-wylie-live-stream-updates-today-2018-05-16 ; and "How Steve Bannon used Cambridge Analytica to further his alt-right vision for America." *CNN,* March 30, 2018. https://www.cnn.com/2018/03/30/politics/bannon-cambridge-analytica
+[^7]: Christopher Wylie, written statement, "In the Matter of Cambridge Analytica and Other Related Issues," Senate Committee on the Judiciary, May 16, 2018, paragraphs 8 and 9. https://www.judiciary.senate.gov/download/06/03/2026/05-16-18-wylie-testimony ; and "How Steve Bannon used Cambridge Analytica to further his alt-right vision for America." *CNN,* March 30, 2018. https://www.cnn.com/2018/03/30/politics/bannon-cambridge-analytica
 [^8]: Green, Joshua. *Devil's Bargain: Steve Bannon, Donald Trump, and the Storming of the Presidency.* Penguin Press, 2017. For the Make America Number 1 / Keep the Promise I super PAC and the Mercer contribution, see "Make America Number 1." *Ballotpedia.* https://ballotpedia.org/Make_America_Number_1
 [^9]: "Stephen Bannon removed from National Security Council." *Washington Post,* April 5, 2017. https://www.washingtonpost.com/news/post-politics/wp/2017/04/05/steven-bannon-no-longer-a-member-of-national-security-council/ ; Kuttner, Robert. "Steve Bannon, Unrepentant." *The American Prospect,* August 16, 2017. https://prospect.org/2017/08/16/steve-bannon-unrepentant/
 [^10]: U.S. Department of Justice, Epstein Library, EFTA01615267, DataSet 10, iMessage log between Jeffrey Epstein and Steve Bannon, August 23, 2018. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615267.pdf

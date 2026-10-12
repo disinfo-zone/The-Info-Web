@@ -11,9 +11,9 @@ tags:
   - ArmsToIraq
   - Intelligence
   - ParliamentaryDeception
-summary: "The Scott Inquiry (formally the Inquiry into the Export of Defence Equipment and Dual-Use Goods to Iraq and Related Prosecutions) was a British judicial inquiry conducted 1992-1996 by Lord Justice Richard Scott, which examined the Thatcher and Major governments' secret relaxation of arms export guidelines to Iraq and the subsequent deception of Parliament; it produced a 1,800-page report finding systematic ministerial concealment and the improper use of public interest immunity certificates to suppress evidence in the Matrix Churchill prosecution."
+summary: "The Scott Inquiry (1992-1996), led by Lord Justice Richard Scott, examined British arms exports to Iraq and the Matrix Churchill prosecution, and reported on February 15, 1996."
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-12
 start: 1992-11-10
 end: 1996-02-15
 location: "United Kingdom"
@@ -31,13 +31,17 @@ The Matrix Churchill prosecution collapsed when the trial judge allowed the supp
 
 Scott's 1,800-page report, published February 15, 1996, made the following principal findings:
 
-- The Thatcher government had secretly relaxed the Howe Guidelines on arms exports to Iraq in 1988, following the Iran-Iraq War ceasefire, without public acknowledgment.
+- The Thatcher government relaxed the Howe Guidelines on arms exports to Iraq after the 1988 ceasefire. In the words [[Ian Lang]] quoted from the report to the Commons, government policy "following the ceasefire in 1988, but not before, ... changed in a way that he believes should have been drawn to the attention of the House."[^3]
 - Ministers had given "designedly uninformative" (Scott's phrase) answers to Parliamentary questions about the export guidelines, amounting to deliberate misleading of Parliament even if not technically false.
 - Public Interest Immunity certificates had been improperly used in the Matrix Churchill prosecution - not to protect genuine national security secrets but to protect the government from political embarrassment.
 - [[MI6]] had been running Paul Henderson as a source for years during the period when his company was being prosecuted; the prosecution of a cooperating intelligence source was characterized as a serious institutional failure.
 - Ministerial accountability had been inadequate given the seriousness of the deception.
 
 Scott specifically declined to conclude that ministers had acted in bad faith, which became the subject of intensive political controversy: the government argued that Scott's findings did not amount to the condemnations they contained, while opposition parties argued the ministerial conduct described was dishonest by any reasonable standard.[^1]
+
+### Government statement of February 15, 1996
+
+On February 15, 1996, the President of the Board of Trade, Ian Lang, made a statement to the Commons on the report. He said that "Both Ministers and officials believed at the time that they were applying policy in a way that remained within the existing guidelines and Sir Richard expressly accepts that they were sincere in doing so." He said that the report "demonstrates that that allegation is false and without foundation," referring to the charge that ministers who signed public interest immunity certificates sought to deprive defendants of the means to clear themselves. Lang reported that Scott concluded "that all Ministers who signed PII certificates did so without any impropriety."[^3]
 
 ### Political Impact
 
@@ -49,3 +53,4 @@ The [[Arms-to-Iraq]] affair and Scott Inquiry, taken together, established that 
 
 [^1]: Scott, Lord Justice Richard. *Report of the Inquiry into the Export of Defence Equipment and Dual-Use Goods to Iraq and Related Prosecutions.* HMSO, February 1996.
 [^2]: Norton-Taylor, Richard. *Truth is a Difficult Concept: Inside the Scott Inquiry.* Fourth Estate, 1995.
+[^3]: Lang, Ian, statement on the Scott Report, House of Commons, February 15, 1996, HC Deb vol. 271, cols. 1139-64. https://api.parliament.uk/historic-hansard/commons/1996/feb/15/scott-report

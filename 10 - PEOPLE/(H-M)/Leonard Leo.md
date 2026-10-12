@@ -11,10 +11,17 @@ tags:
   - SupremeCourt
   - JudicialCrisisNetwork
   - ConcordFund
-summary: "Leonard Leo is an American conservative legal activist, the longtime executive vice president of the Federalist Society, the principal architect of the Supreme Court conservative supermajority through the Gorsuch, Kavanaugh, and Barrett confirmations, and the chairman of Teneo Network, who has directed approximately one billion dollars in dark-money spending through a network of linked 501(c)(4) vehicles to reshape the American judiciary."
+summary: "Leonard Leo is a conservative legal activist, longtime Federalist Society executive vice president and Teneo Network chairman, who directed roughly one billion dollars in dark-money spending through linked 501(c)(4) groups."
 location: "United States"
+relations:
+  - type: investigated
+    with: "[[Senate Judiciary Committee]]"
+    reverse: true
+    start: 2023-07-11
+    role: "requested information on his interactions with Supreme Court justices and records on his donor-group network; his counsel declined to provide it"
+    fn: 7
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-12
 ---
 
 Leonard Leo is an American conservative legal activist who served as the longtime executive vice president of the [[Federalist Society|Federalist Society]] and who has been the principal architect of the [[Supreme Court|Supreme Court]]'s conservative supermajority through his role advising President [[Donald Trump]] on the selection and confirmation of [[Neil Gorsuch|Neil Gorsuch]] (2017), [[Brett Kavanaugh|Brett Kavanaugh]] (2018), and [[Amy Coney Barrett|Amy Coney Barrett]] (2020). Leo became chairman of the [[Teneo Network|Teneo Network]] in 2021 and has directed approximately one billion dollars in dark-money spending through a network of linked 501(c)(4) vehicles, including the [[Judicial Crisis Network|Judicial Crisis Network]] (now the [[Concord Fund|Concord Fund]]), to reshape the American judiciary and, through the Teneo chairmanship, to extend the operational model across American institutional life.[^1][^2][^3]
@@ -29,7 +36,9 @@ The *ProPublica* profile "We Don't Talk About Leonard" (March 2023) is the found
 
 Leo's dark-money operation runs through a network of linked 501(c)(4) organizations that permit political spending without donor disclosure. The primary vehicle is the Judicial Crisis Network (now the Concord Fund), which [[CREW|Citizens for Responsibility and Ethics in Washington]] reported brought in nearly 48.1 million dollars in a single reporting period to support the conservative judicial-confirmations project. The broader network of Leo-linked organizations has funneled over one billion dollars in undisclosed spending across the judicial-selection, political-advocacy, and institutional-influence operations, per the [[Alliance for Justice|Alliance for Justice]] and [[ProPublica|ProPublica]] investigations.[^2][^5][^6]
 
-The dark-money infrastructure operates through a layered structure of 501(c)(4) social-welfare organizations and 501(c)(3) charities that transfer funds to each other in chains designed to obscure the original donors. The [[Senate Judiciary Committee|Senate Judiciary Committee]] under Chairman [[Dick Durbin|Dick Durbin]] has sought Leo's records and testimony; Leo has declined to comply, and his counsel's letter to the Committee (July 2023) pushed back on the "dark money" and "phony front groups" characterizations. The investigative record relies on leaked tax filings, whistleblower disclosures, and the reporting of ProPublica, CREW, and the Alliance for Justice.[^3][^7]
+The dark-money infrastructure operates through a layered structure of 501(c)(4) social-welfare organizations and 501(c)(3) charities that transfer funds to each other in chains designed to obscure the original donors. The [[Senate Judiciary Committee|Senate Judiciary Committee]] under Chairman [[Dick Durbin|Dick Durbin]] has sought Leo's records and testimony; Leo has declined to comply. The investigative record relies on leaked tax filings, whistleblower disclosures, and the reporting of ProPublica, CREW, and the Alliance for Justice.[^3][^7]
+
+On July 11, 2023, Chairman Durbin and Senator Sheldon Whitehouse, chair of the Federal Courts subcommittee, asked Leo for information about his interactions with Supreme Court justices.[^7] Leo's counsel, [[David B. Rivkin Jr.]] of [[Baker & Hostetler]], replied on July 25, 2023 that the inquiry exceeded the constitutional limits on the committee's investigative authority and infringed Leo's First Amendment rights. The letter quoted Whitehouse's description of Leo as "the little spider that you find at the center of the dark money web," argued that the inquiry was motivated by hostility to his views, and said that the committee's ethics bill, S. 359, which the committee ordered reported on July 20, 2023, raised separation-of-powers objections. It closed: "We will not be part of that journey."[^7]
 
 ### The Teneo Chairmanship and the Institutional Expansion
 

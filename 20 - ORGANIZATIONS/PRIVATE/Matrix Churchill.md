@@ -17,7 +17,7 @@ summary: "British machine tool maker bought in 1987 by an Iraqi military procure
 start: 1987
 location: "England"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-12
 ---
 
 Matrix Churchill Ltd was a British machine tool manufacturer with an American affiliate, Matrix-Churchill Corporation, in [[Cleveland, Ohio|Cleveland]]. In 1987 it was bought by a holding company controlled from [[Baghdad]] by [[Iraq]]'s [[Ministry of Industry and Military Industrialization]]. Its American arm bought for Iraqi projects with money from the [[Atlanta]] branch of [[Banca Nazionale del Lavoro]]. Three directors were tried at the [[Old Bailey]] in 1992 for deceiving the export licensing authorities. The trial collapsed, and the collapse produced the [[Scott Inquiry]].[^1][^2]
@@ -36,9 +36,11 @@ In the [[United States]] the network comprised Matrix-Churchill Corporation, [[B
 
 Prime Minister [[John Major]] announced a judicial inquiry on November 10 and told the Commons that ministers who failed to cooperate "can expect to lose their jobs." [[Robin Cook]] said for the [[Labour Party]]: "This is a political scandal, not a legal failure. The deception went right to the top." The writer [[Anthony Sampson]] said the affair showed "a deeper dishonesty and irresponsibility than is normal, even in the arms trade." In a parallel case, [[Paul Grecian]] of the fuse maker [[Ordtec]], had been convicted at [[Reading Crown Court]] and lost his appeal on February 25, 1992, after ministers withheld documents in the same way.[^2][^5]
 
+On November 18, 1992, in answer to a Commons question on whether the papers supplied to defence counsel would be placed in the Library, the Prime Minister replied (holding answer of November 17): "No. The papers were supplied to the defence for the purposes of the trial. Lord Justice Scott will have access to them."[^6] The Scott inquiry was commissioned in November 1992 following the end of the trial. In the government's statement on the report, [[Ian Lang]] said that Scott "concludes, after more than three years of painstaking investigation, that all Ministers who signed PII certificates did so without any impropriety."[^7] The charges Lang answered, "made and repeated in the media," were that ministers who signed the certificates "were seeking to deprive defendants in a criminal trial of the means by which to clear themselves."[^7]
+
 ### Credit
 
-The report of Sir [[Richard Scott]] found that the [[Export Credits Guarantee Department]] had created an undisclosed defence allocation within its Iraqi credit line in September 1985 and enlarged it that December, that Parliament first learned of it through an oblique reference in a departmental memorandum of November 6, 1991, and that Prime Minister [[Margaret Thatcher]] initialed a [[Secret Intelligence Service]] report on the trade dated November 30, 1987. Scott also recorded that in June 1988 a British company told officials it believed it was making missile parts for Iraq, and that no action followed until late 1989.[^6]
+The report of Sir [[Richard Scott]] found that the [[Export Credits Guarantee Department]] had created an undisclosed defence allocation within its Iraqi credit line in September 1985 and enlarged it that December, that Parliament first learned of it through an oblique reference in a departmental memorandum of November 6, 1991, and that Prime Minister [[Margaret Thatcher]] initialed a [[Secret Intelligence Service]] report on the trade dated November 30, 1987. Scott also recorded that in June 1988 a British company told officials it believed it was making missile parts for Iraq, and that no action followed until late 1989.[^8]
 
 ### Footnotes
 
@@ -47,4 +49,6 @@ The report of Sir [[Richard Scott]] found that the [[Export Credits Guarantee De
 [^3]: "Government's Response to Defense Motions for List of Unindicted Co-Conspirators," United States v. Drogoul, No. 1:91-CR-078 (N.D. Ga. September 12, 1991), reproduced in House Committee on Banking, Finance and Urban Affairs, Serial No. 103-95, November 9, 1993.
 [^4]: Lacey, Frederick B. "The Banca Nazionale del Lavoro Investigation: Report of the Independent Counsel," reproduced in House Committee on Banking, Finance and Urban Affairs, Serial No. 103-95. https://archive.org/details/testimonyofforme1994unit
 [^5]: R v. Blackledge and Others, Court of Appeal (Criminal Division), February 25, 1992; Gonzalez, Henry B. "Update on BNL Investigation," *Congressional Record,* House, January 21, 1993.
-[^6]: Newton, Scott. Review of Davina Miller, *Export or Die: Britain's Defence Trade with Iran and Iraq* (Cassell, 1996), *Lobster* 32, citing Scott Report paragraphs D2.111, D2.120, D4.30, and G12.30.
+[^6]: Major, John, written answer on Matrix Churchill, House of Commons, November 18, 1992, HC Deb vol. 214, cols. 216-7W. https://api.parliament.uk/historic-hansard/written_answers/1992/nov/18/matrix-churchill
+[^7]: Lang, Ian, statement on the Scott Report, House of Commons, February 15, 1996, HC Deb vol. 271, cols. 1139-64. https://api.parliament.uk/historic-hansard/commons/1996/feb/15/scott-report
+[^8]: Newton, Scott. Review of Davina Miller, *Export or Die: Britain's Defence Trade with Iran and Iraq* (Cassell, 1996), *Lobster* 32, citing Scott Report paragraphs D2.111, D2.120, D4.30, and G12.30.

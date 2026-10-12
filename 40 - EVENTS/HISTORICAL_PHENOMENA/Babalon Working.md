@@ -45,6 +45,7 @@ relations:
     end: 1946-02-27
     role: "the woman who arrived on January 19, 1946 and was taken by Parsons as his 'elemental' and magical partner; married Parsons October 19, 1946"
     fn: 5
+updated: 2026-10-12
 ---
 
 The Babalon Working was a series of rituals carried out by [[Jack Parsons]] and [[L. Ron Hubbard]] at 1003 South Orange Grove Avenue in [[Pasadena]], California, in the first quarter of 1946. Parsons headed the [[Agape Lodge]] of the [[Ordo Templi Orientis]] under the authority of [[Aleister Crowley]]; Hubbard, a Naval Reserve lieutenant who had moved into the house, acted as scribe and seer.[^1]
@@ -77,7 +78,7 @@ Bogdan names the partnership Allied Enterprises, formed in January 1946 to buy y
 
 [[The Sunday Times]] of London published on October 5, 1969 an account by [[Alexander Mitchell]] headed "The Odd Beginning of Ron Hubbard's Career," based on papers owned by "a former admirer of Crowley," whom the article describes as an expert on Crowley's magic. It says that from January 4 to 15, 1946 Parsons and Hubbard held a nightly ritual, "faithfully described in Parsons' diary," played a Prokofiev violin concerto and later Rachmaninoff's Isle of the Dead, and that Hubbard served as high priest in a series of ceremonies in which Parsons and the girl shared sex. It quotes the Parsons record: "The Scribe (Hubbard) said ... She is the flame of life, power of darkness, she destroys with a glance, she may take thy soul." The owner of the papers is quoted as saying that Parsons "was completely under Hubbard's domination." A clipping of the article is in the [[Federal Bureau of Investigation|FBI]]'s [[Scientology|Church of Scientology]] file (see the page on Hubbard).[^17] The Church of Scientology, which according to Bogdan paid a settlement to the newspaper, made a statement, printed in the issue of December 28, 1969, saying that the Ordo Templi Orientis practiced "savage and bestial rites" and that Hubbard had been "sent in to handle the situation" at 1003 Orange Grove: "Hubbard's mission was successful far beyond anyone's expectations. The house was torn down. Hubbard rescued a girl they were using. The black magic group was dispersed and destroyed and has never recovered."[^1] Bogdan writes that Hubbard never spoke publicly about Parsons or the Working.[^1]
 
-In a letter of May 1951 to the [[United States Attorney General|Attorney General]], preserved in an FBI file, Hubbard wrote that Sara Northrup "had attached herself to a Jack Parsons, the rocket expert, during the war and when she left him he was a wreck."[^18] The FBI opened its own file on Parsons in September 1950; the released file does not mention Hubbard.[^19]
+In a letter of May 1951 to the [[United States Attorney General|Attorney General]], preserved in an FBI file, Hubbard wrote that Sara Northrup "had attached herself to a Jack Parsons, the rocket expert, during the war and when she left him he was a wreck."[^18] The copy of the letter in the FBI headquarters file on Hubbard has the name after "attached herself to" blacked out under exemptions b6 and b7C, with "the rocket expert" following, while the copy in the FBI's Church of Scientology file, Part 5, prints it as "a Jack Parsons, the rocket expert."[^18][^19] The same letter continues that Northrup was "strangely intimate with many scientists of Los Alamos" (headquarters file copy).[^19] The FBI opened its own file on Parsons in September 1950; the released file does not mention Hubbard.[^20]
 
 ### Footnotes
 
@@ -99,4 +100,5 @@ In a letter of May 1951 to the [[United States Attorney General|Attorney General
 [^16]: Newspaper account of the complaint of Sara Northrup Hubbard, 1951, in FBI headquarters file "Hubbard, L. Ron HQ-1," archive.org/details/HubbardL.RonHQ1.
 [^17]: Mitchell, Alexander, "The Odd Beginning of Ron Hubbard's Career," The Sunday Times (London), October 5, 1969, clipping in FBI file "Church of Scientology/L. Ron Hubbard," Part 6, forwarded by the FBI Washington Field Office in June 1974, archive.org/details/churchofscientologyl.ronhubbard.
 [^18]: Hubbard, L. Ron, letter to the Attorney General, Wichita, Kansas, May 1951, FBI file "Church of Scientology/L. Ron Hubbard," Part 5, archive.org/details/churchofscientologyl.ronhubbard.
-[^19]: FBI Parsons file 65-59589, Parts 1 and 2, archive.org/details/JohnParsons.
+[^19]: L. Ron Hubbard, letter to the Attorney General, 1951, in FBI headquarters file "Hubbard, L. Ron HQ-1" (name redacted under b6/b7C). https://archive.org/details/HubbardL.RonHQ1
+[^20]: FBI Parsons file 65-59589, Parts 1 and 2, archive.org/details/JohnParsons.
