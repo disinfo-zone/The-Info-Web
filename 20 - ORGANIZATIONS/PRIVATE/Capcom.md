@@ -40,7 +40,7 @@ relations:
     with: "[[Manuel Noriega]]"
     role: "laundered 20.5 million dollars of his funds, 1988"
     fn: 2
-updated: 2026-09-23
+updated: 2026-10-12
 ---
 Capcom was a commodities futures firm based in [[London]] and [[Chicago]] that operated from 1984 to 1988, created by [[Syed Ziauddin Ali Akbar|Ziauddin Akbar]], the head of the treasury of the [[Bank of Credit and Commerce International|BCCI]], and owned largely by BCCI's Saudi shareholders.[^1][^2] The [[BCCI Kerry-Brown Senate Report|Kerry-Brown Senate Report]] said that "in the entire BCCI affair, perhaps no entity is more mysterious and yet more central to BCCI's collapse and criminality than Capcom," and it moved "billions of dollars" through the futures markets "in a largely anonymous fashion."[^2]
 
@@ -63,6 +63,8 @@ The Senate report called Capcom's handling of the money of General [[Manuel Nori
 ### Other Clients
 
 Citing a [[Peat Marwick]] report, the Senate report linked Capcom to Shakarchi Trading of Zurich, the gold dealer of Mohammed Shakarchi, to which it made a payment of 150,000 dollars on the instruction of Ahmed Tawfik in February 1988; Swiss and American investigators later linked Shakarchi to the brothers Jean and Barkev Magharian, who admitted that part of the 2 billion Swiss francs they moved between 1985 and 1988 came from drug transactions. About 44 percent of Capcom's American clients were West German accounts; the most important, Ambros Holdings, a Panama-registered company with offices in Germany and [[Liechtenstein]] whose president, Richard Sax, traded under the name "Richard Wagner," accounted for half to seventy percent of Capcom Futures' commissions in September and October 1988, and went bankrupt in 1991.[^2] The subcommittee said it had been unable to determine why Capcom was created, listing "misappropriation of BCCI assets for personal enrichment," laundering money from the Middle East, and siphoning assets out of BCCI as possibilities.[^2]
+
+The report describes [[Ian Glendinning Watt]] as a chartered accountant of Peat Marwick McLintock who was appointed to investigate Capcom's trading. The subcommittee wrote that Watt characterized the profits of the Capital Fund as "artificial" (Watt affidavit at 25). In his affidavit of January 20, 1989 he found the explanations of Capcom's managing director, [[S. M. Akbar]], "unsatisfactory" (at 44) and "most curious" (at 46). The report's notes cite a Peat Marwick McLintock audit of Capcom prepared for the [[Chicago Board of Trade]] and dated May 4, 1989.[^2]
 
 ### Footnotes
 

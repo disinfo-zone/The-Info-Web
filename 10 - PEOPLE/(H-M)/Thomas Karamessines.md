@@ -17,7 +17,7 @@ born: 1917
 died: 1978-09-04
 location: "Washington, D.C."
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-12
 ---
 
 Thomas Hercules Karamessines was the deputy director for plans of the [[Central Intelligence Agency|CIA]], the head of its clandestine service, from July 1967 to February 1973. He was born in [[New York City]], of Greek descent, graduated from [[Columbia University]] in 1938 and from its law school in 1940, and served under [[Thomas E. Dewey]] as a deputy assistant district attorney for New York County in 1941 and 1942.[^1]
@@ -32,6 +32,8 @@ Karamessines was assistant to [[Desmond FitzGerald]] and succeeded him on FitzGe
 
 He retired in February 1973, the month in which Nixon replaced [[Richard Helms]] as director. His obituary called the retirement "voluntary and believed brought on, in part, by a severe back ailment." Kissinger said at the time: "He handled the most delicate missions with the utmost discretion." [[David Atlee Phillips]], who had run the Chile task force under him, said: "He was energetic, quiet and efficient and widely respected by those who worked for him."[^1]
 
+On June 10, 1970 Karamessines, as Deputy Director for Plans, concurred in a memorandum to the Director of Central Intelligence recommending that the Trace Metal Detection Technique be released to police through the [[LEAA|Law Enforcement Assistance Administration]] rather than through a police professional association. The memorandum records his concurrence beside those of the General Counsel, the Deputy Director for Support and the Executive Director-Comptroller.[^4]
+
 ### After the Agency
 
 He sat on the board of the Central Intelligence Retirees Association and belonged to Phillips's [[Association of Former Intelligence Officers]]. In April 1978 he appeared before the [[Senate Select Committee on Intelligence]] to oppose its draft charter for the agency, calling the investigations of the preceding years "an inexcusable exercise in political sensationalism." He asked Congress for better cover for officers abroad, prison terms for the "unauthorized revelation or compromise" of the agency's secrets, and protection of its employees from all congressional committees but the two intelligence panels. He died of a heart attack at his vacation house at Grand Lake, [[Quebec]], on September 4, 1978, at sixty-one.[^1]
@@ -41,3 +43,4 @@ He sat on the board of the Central Intelligence Retirees Association and belonge
 [^1]: Hailey, Jean R. "T. H. Karamessines, Ex-Chief of CIA Covert Work, Dies," *The Washington Post,* September 9, 1978, p. B4. https://archive.org/details/nsia-KaramessinesThomasHCIA
 [^2]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Alleged Assassination Plots Involving Foreign Leaders,* interim report, S. Rept. 94-465, November 20, 1975; Kornbluh, Peter, ed. "The CIA and Chile: Anatomy of an Assassination," National Security Archive Electronic Briefing Book No. 728, October 22, 2020.
 [^3]: Kornbluh, Peter. *The Pinochet File: A Declassified Dossier on Atrocity and Accountability*. New Press, 2003, pp. 14, 24-26, 114, and note 32 at p. 511.
+[^4]: Central Intelligence Agency, memorandum to the Director of Central Intelligence, "Release of Trace Metal Detection Technique to Law Enforcement Officials," June 10, 1970, CIA-RDP83B00823R000600150029-5, concurrence block. https://archive.org/details/cia-readingroom-document-cia-rdp83b00823r000600150029-5

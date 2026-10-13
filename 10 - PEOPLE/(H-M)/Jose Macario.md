@@ -22,7 +22,7 @@ When the [[Sandinistas]] took power, Macario was targeted for elimination. "A sq
 
 ### Business Partnership with Blandón
 
-After exonerating the FDN, Macario became a business partner with Blandón, sometimes in partnership with accountant Rene Gonzalez of the Peat Marwick & Mitchell office in Caracas. Both men became directors of Mex-US Import and Export Inc., one of several companies Blandón invested in using his L.A. drug profits. Other directors included Blandón's Mexican college friend Sergio Guerra and Panamanian banker Jose Fernando Soto, the longtime representative of the Swiss Bank Corp. in Panama and an old friend of Blandón's uncle-in-law, [[Orlando Murillo]]. Macario also served as Blandón's immigration lawyer.[^1]
+Gary Webb wrote that Macario and an accountant, Rene Gonzalez of the Peat Marwick & Mitchell office in Caracas, sat together on the FDN commission, and that after it exonerated the FDN both men became business partners of Blandón. Webb wrote that both became directors of Mex-US Import and Export Inc., one of several companies Blandón invested in using his L.A. drug profits. Other directors included Blandón's Mexican college friend Sergio Guerra and Panamanian banker Jose Fernando Soto, the longtime representative of the Swiss Bank Corp. in Panama and an old friend of Blandón's uncle-in-law, [[Orlando Murillo]]. Macario also served as Blandón's immigration lawyer.[^1]
 
 ### Footnotes
 

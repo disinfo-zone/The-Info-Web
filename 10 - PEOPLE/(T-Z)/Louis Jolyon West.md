@@ -5,12 +5,12 @@ tags:
   - MKULTRA
   - LSD
   - CIA
-summary: "UCLA psychiatrist and confirmed CIA contractor who killed an elephant with a massive LSD overdose in 1962, examined Jack Ruby, and proposed a government-funded Center for the Study of Violence to recondition criminals using experimental mind control techniques."
+summary: "UCLA psychiatrist and CIA contractor who gave an elephant a massive LSD dose in 1962, examined Jack Ruby, and proposed a government-funded Center for the Study of Violence."
 born: 1924-10-06
 died: 1999-01-02
 location: Los Angeles, California
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-12
 ---
 Louis Jolyon "Jolly" West was a psychiatrist who chaired the [[UCLA]] Department of Psychiatry and directed the UCLA Neuropsychiatric Institute from 1969 to 1989. A confirmed [[CIA]] contractor cleared at Top Secret level, West conducted research under [[MKULTRA]] Subproject 43. His career intersected with some of the most controversial experiments and investigations of the Cold War era.[^1][^2]
 
@@ -26,9 +26,11 @@ In 1963, West was appointed as the examining psychiatrist for [[Jack Ruby]], who
 
 West proposed creating a government-funded Center for the Study of Violence in [[California]] that would have used experimental mind control techniques to mentally recondition criminals. The center would have employed drug therapy, sensory deprivation, and psychological conditioning on incarcerated subjects. Then-Governor [[Ronald Reagan]] initially supported the center, but when public opinion shifted against West following criticism of his methods and his MKULTRA associations, Reagan withdrew his backing and the project was abandoned.[^1]
 
+The Center for the Study and Reduction of Violence was proposed under the Neuropsychiatric Institute of the [[University of California, Los Angeles]] and sought federal funding through the [[LEAA|Law Enforcement Assistance Administration]]. Its September 1, 1972 project description listed five lines of research, among them biological and neurological studies of violent individuals and "psychological factors" research on external influences on violence.[^3] The subcommittee's print quotes a memorandum by a staff psychologist at Atascadero State Hospital, one of the institutions participating in the planned center, describing an electro-physiological laboratory able to record heart rate, galvanic skin response, changes in penis volume and alpha and beta brain waves in response to audio-visual stimuli.[^3] West, as director of the proposed center, discussed acquiring an old Nike missile base in the Santa Monica Mountains for it, and the subcommittee quoted the letter's description of the site as "accessible, but relatively remote."[^3] The planned satellite facilities included the state hospitals at Atascadero, Camarillo and [[Vacaville]].[^3] A memorandum of April 5, 1973 by the Committee Opposing Psychiatric Abuse of Prisoners, printed in the subcommittee's appendix, recorded that Ronald Reagan had announced the center in his January 1973 State of the State message.[^4] A letter from LEAA printed in the subcommittee's appendix states that the agency had not received the UCLA project for funding consideration.[^3]
+
 ### Victorian Crash Pad, Roger Smith, and the Manson Parole
 
-During the late 1960s, West operated a CIA-funded facility near the [[Haight-Ashbury Free Medical Clinic]] in [[San Francisco]], refitting a Victorian house as a fake "hippie crash pad" to study drug addiction and counterculture behavior. [[Charles Manson]] attended weekly meetings with his parole officer [[Roger Smith]] at the clinic following his release from [[Terminal Island]] on March 21, 1967, the same year the CIA launched [[Operation CHAOS]]. Members of the [[Manson Family]] used the clinic for medical treatment. West's proximity to Manson's parole supervision has been identified as circumstantial evidence suggesting intelligence community interest in Manson. West's files from the Haight-Ashbury period have reportedly gone missing.[^3]
+During the late 1960s, West operated a CIA-funded facility near the [[Haight-Ashbury Free Medical Clinic]] in [[San Francisco]], refitting a Victorian house as a fake "hippie crash pad" to study drug addiction and counterculture behavior. [[Charles Manson]] attended weekly meetings with his parole officer [[Roger Smith]] at the clinic following his release from [[Terminal Island]] on March 21, 1967, the same year the CIA launched [[Operation CHAOS]]. Members of the [[Manson Family]] used the clinic for medical treatment. West's proximity to Manson's parole supervision has been identified as circumstantial evidence suggesting intelligence community interest in Manson. West's files from the Haight-Ashbury period have reportedly gone missing.[^5]
 
 ### Sleep Deprivation Research
 
@@ -38,4 +40,6 @@ In 1959, West conducted a well-publicized sleep deprivation experiment with radi
 
 [^1]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996.
 [^2]: Science, Vol. 138, Issue 3545, December 7, 1962, pp. 1100-1103; hekint.org, "Louis Jolyon West, M.D.: A Dangerous Doctor," January 25, 2024.
-[^3]: Tom O'Neill with Dan Piepenbring, *Chaos: Charles Manson, the CIA, and the Secret History of the Sixties*. Little, Brown and Company, 2019.
+[^3]: U.S. Senate, Committee on the Judiciary, Subcommittee on Constitutional Rights, Individual Rights and the Federal Role in Behavior Modification, committee print (Washington: GPO, November 1974), pp. 36-38, NCJRS digitization. https://www.ojp.gov/pdffiles1/Digitization/142690NCJRS.pdf
+[^4]: Individual Rights and the Federal Role in Behavior Modification, appendix memorandum of the Committee Opposing Psychiatric Abuse of Prisoners, April 5, 1973.
+[^5]: Tom O'Neill with Dan Piepenbring, *Chaos: Charles Manson, the CIA, and the Secret History of the Sixties*. Little, Brown and Company, 2019.

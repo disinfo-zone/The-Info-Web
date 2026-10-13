@@ -72,7 +72,7 @@ relations:
     role: "review panel under Gerald M. Clemence"
     fn: 21
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-12
 ---
 
 The Condon Committee was the University of Colorado's Scientific Study of Unidentified Flying Objects, conducted from 1966 to 1968 under a contract with the [[Air Force Office of Scientific Research]] and directed by the physicist [[Edward Condon]]. Its report, transmitted to the Secretary of the Air Force on 31 October 1968, stated that "nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge." A review by a panel of the [[National Academy of Sciences]] and the report were the stated bases for the termination of [[Project Blue Book]] on 17 December 1969.[^1][^2]
@@ -145,6 +145,10 @@ The report went to Secretary of the Air Force [[Harold Brown]] under cover of Sm
 
 Hynek had told the [[House Armed Services Committee]] on 5 April 1966 that "the body of data accumulated since 1948 through the Air Force investigations deserves close scrutiny by a civilian panel of physical and social scientists."[^22] An Air Force action memorandum of 20 October 1969, with the signature block of Brigadier General [[C. H. Bolender]], cited the report and the Academy review as reasons that continuation of Blue Book "cannot be justified, either on the ground of national security or in the interest of science."[^2]
 
+### Citation of Challenge to Science
+
+The report's discussion of UFO reports near Martian oppositions cites the 1966 book *Challenge to Science* by Jacques Vallee and Janine Vallee, quoting it as "Vallee and Vallee, 1966, p. 138." The report says that the claimed correlation "is quite unfounded" and that the idea "is not supported by observational data."[^23]
+
 ### Footnotes
 
 [^1]: Edward U. Condon, ed., Scientific Study of Unidentified Flying Objects (University of Colorado, 1968), Preface and Letter of Transmittal (J. R. Smiley to Harold Brown, 31 October 1968, citing Contract No. F44620-67-C-0035), http://files.ncas.org/condon/text/preface.htm and http://files.ncas.org/condon/text/covrletr.htm; Section I, p. 2, http://files.ncas.org/condon/text/sec-i.htm.
@@ -169,3 +173,4 @@ Hynek had told the [[House Armed Services Committee]] on 5 April 1966 that "the 
 [^20]: Condon, Section I, "Conclusions and Recommendations," pp. 2 and 6-7, http://files.ncas.org/condon/text/sec-i.htm.
 [^21]: "Review of the University of Colorado Report on Unidentified Flying Objects by a Panel of the National Academy of Sciences," 1969 (Gerald M. Clemence, chairman; H. R. Crane, David M. Dennison, Wallace O. Fenn, H. Keffer Hartline, E. R. Hilgard, Mark Kac, Francis W. Reichelderfer, William W. Rubey, C. D. Shane, Oswald G. Villard Jr.), Attachment 2, pp. 8-9, in the Navy UFO fact-sheet compilation at https://www.physics.smu.edu/pseudo/UFOs/dod174.pdf.
 [^22]: Condon, Section V, chapter 2, pp. 909-910 (Hynek's opening statement at the House Armed Services Committee hearing of 5 April 1966), http://files.ncas.org/condon/text/s5chap02.htm.
+[^23]: University of Colorado (Edward U. Condon, director), *Scientific Study of Unidentified Flying Objects*, vol. 1 (1968), discussion of Martian oppositions. https://archive.org/details/DTIC_AD0680975

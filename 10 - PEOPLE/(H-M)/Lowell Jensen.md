@@ -3,7 +3,7 @@ aliases:
   - D. Lowell Jensen
 category: "Law Enforcement & Legal"
 created: 2024-04-25
-updated: 2026-09-21
+updated: 2026-10-12
 tags:
   - Person
   - PROMIS
@@ -21,7 +21,7 @@ In 1981, Jensen was appointed Assistant Attorney General for the Criminal Divisi
 
 ### DALITE and the Prior Competition with INSLAW
 
-While serving as Alameda County District Attorney, Jensen received a [[LEAA|Law Enforcement Assistance Administration]] grant to develop DALITE (District Attorney's Automated Legal Information System), a case management software program directly analogous to [[PROMIS]]. DALITE competed with PROMIS during the LEAA's evaluation of transferable prosecutor case management systems in the late 1970s. When INSLAW won subsequent federal contracts over DALITE and similar programs, Jensen became a member of the DOJ's PROMIS implementation oversight committee - a conflict of interest that INSLAW would later cite as evidence of institutional bias.[^2]
+DALITE (District Attorney's Automated Legal Information System), a case management software program directly analogous to [[PROMIS]], was developed in Alameda County while Jensen was District Attorney, with grant money the State of California received from the [[LEAA|Law Enforcement Assistance Administration]].[^D2] DALITE competed with PROMIS during the LEAA's evaluation of transferable prosecutor case management systems in the late 1970s. When INSLAW won subsequent federal contracts over DALITE and similar programs, Jensen became a member of the DOJ's PROMIS implementation oversight committee - a conflict of interest that INSLAW would later cite as evidence of institutional bias.[^2]
 
 ### Role in the INSLAW Contract
 
@@ -35,6 +35,10 @@ The Meese recusal added further significance to Jensen's role: Meese reportedly 
 
 The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 report (House Report 102-857), produced after a three-year investigation chaired by Representative [[Jack Brooks]], named Jensen as among those who "consciously ignored INSLAW's proprietary rights." The committee found it "incredible that the Department, having made this determination [that INSLAW's claim was legitimate], would continue to pursue its litigation."[^3] The report noted that INSLAW alleged Jensen had been induced by Brian's political influence - routed through Meese - to engineer disputes with INSLAW and drive the company into bankruptcy, with Brian positioned to acquire the company and its software assets through his vehicle [[Hadron]].[^3]
 
+The House report records that on March 13, 1985 [[Elliot Richardson]] and Donald E. Santarelli, described as the former Administrator of the Law Enforcement Assistance Administration, met Jensen, then Acting Deputy Attorney General. They asked him to authorize prompt negotiations between the Department and INSLAW to resolve the dispute that had led to the withholding of money and to INSLAW's bankruptcy, to give a new INSLAW proposal immediate consideration, and to appoint someone to investigate INSLAW's repeated assertions of misconduct.[^5]
+
+A Los Angeles County employee told the Senate Permanent Subcommittee on Investigations staff in 1988 that he felt pressure from Alameda County employees to use DALITE ("the kind you feel on a used car lot") and that Jensen seemed "hopeful and anxious" that Los Angeles would select it; the staff reported that none of the other employees it spoke to knew of any pressure to select DALITE and that it found no information supporting a theory that Jensen held a bias against Hamilton, INSLAW or PROMIS.[^6]
+
 ### Bua Report Findings
 
 Special Counsel [[Nicholas J. Bua]], appointed in November 1991, found no credible evidence supporting any of these allegations. Jensen, by then a sitting federal district judge, denied engineering contract disputes with INSLAW or directing any DOJ action to harm the company. He denied any financial interest in Brian-controlled entities including Biotech, Hadron, [[Accumenics]], and Simeon, and denied ever being promised stock in any computer-related company. He stated he had been genuinely interested in modernizing DOJ through information technology, specifically recalling "[[Project Eagle]]," a multi-million dollar initiative to automate DOJ's litigating divisions, but denied any role in awarding Project Eagle contracts, noting that the Request for Proposals was issued in May 1986 and he was appointed to the bench the following June.[^2]
@@ -47,3 +51,5 @@ The Bua Report found Jensen to be a credible witness and concluded there was no 
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
 [^3]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
+[^5]: U.S. House of Representatives, Committee on the Judiciary, The INSLAW Affair: Investigative Report, H. Rept. 102-857 (September 10, 1992), pp. 82-83, section on the March 13, 1985 meeting with D. Lowell Jensen. https://archive.org/details/InslawAffairInvestigativeReport
+[^6]: U.S. Senate, Committee on Governmental Affairs, Permanent Subcommittee on Investigations, staff study of the Department of Justice's dealings with INSLAW, Inc., Committee Print, 101st Cong., 1st sess. (1989), pp. 16-17 and note 10 (staff interview of Donald G. Ingraham, Assistant District Attorney, Alameda County, May 31, 1988: both the pilot research program and the development of DALITE were funded by the State of California through grant money provided from the LEAA). https://archive.org/details/micro_IA41152832_0145

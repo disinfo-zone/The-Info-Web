@@ -7,7 +7,7 @@ tags:
   - Ba'ath
   - IranContra
   - ColdWar
-summary: "Iraq is a country in the Middle East whose modern history intersects extensively with Cold War covert operations: CIA support for the 1963 Ba'ath coup, weapons transfers to Saddam Hussein's regime during the Iran-Iraq War, the BNL financial scandal, PROMIS software distribution to Iraqi intelligence, and the 2003 invasion on falsified WMD pretexts."
+summary: "Middle Eastern country whose history includes CIA support for the 1963 Ba'ath coup, Iran-Iraq War weapons transfers, the BNL scandal, PROMIS software distribution to its intelligence service and the 2003 invasion."
 created: 2026-05-14
 updated: 2026-05-17
 location: "Baghdad, Iraq"
@@ -25,9 +25,9 @@ Ahmad Hassan al-Bakr served as president until Saddam Hussein forced his resigna
 
 ### Iran-Iraq War and Western Support
 
-Iraq invaded Iran in September 1980 following the instability created by the [[Iranian Revolution]]. The eight-year [[Iran-Iraq War]] (1980-1988) killed an estimated half-million to one million people and devastated the economies of both countries. The [[Reagan administration]] tilted toward Iraq from 1982. A State Department memorandum of October 7, 1983 stated that the policy of strict neutrality had been modified, except for arms sales, since the summer of 1982, and assumed that tactical intelligence would continue; a presidential directive of April 5, 1984 (NSDD 139) ordered a plan to prevent Iraq's defeat; and on November 29, 1984 Secretary of State [[George Shultz]] told Tariq Aziz that superior intelligence must be an important factor in Iraq's defense. Meanwhile the administration ran the covert arms-for-hostages pipeline to Iran that became the [[Iran-Contra Affair]].[^2]
+Iraq invaded Iran in September 1980 following the instability created by the [[Iranian Revolution]]. The eight-year [[Iran-Iraq War]] (1980-1988) killed an estimated half-million to one million people and devastated the economies of both countries. The [[Reagan administration]] tilted toward Iraq from 1982. A State Department memorandum of October 7, 1983 stated that the policy of strict neutrality had been modified, except for arms sales, since the summer of 1982, and assumed that tactical intelligence would continue; a presidential directive of April 5, 1984 (NSDD 139) ordered the Secretary of State to prepare "a plan of action designed to avert an Iraqi collapse," with an evaluation of Iraqi military needs and approaches to friendly states capable of providing overt and covert military support to Iraq, and required that the policy condemning chemical weapons use be "unambiguous" and consistent with the 1925 Geneva Protocol while placing "equal stress" on dissuading Iran from its own tactics;[^3] and on November 29, 1984 Secretary of State [[George Shultz]] told Tariq Aziz that superior intelligence must be an important factor in Iraq's defense. Meanwhile the administration ran the covert arms-for-hostages pipeline to Iran that became the [[Iran-Contra Affair]].[^2]
 
-[[Donald Rumsfeld]] visited Saddam Hussein in December 1983 as a special envoy, cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian troops. The financial structure supporting Iraqi arms procurement implicated [[Banca Nazionale del Lavoro]]'s [[Atlanta]] branch in what became the [[BNL scandal]]. Chilean arms manufacturer [[Carlos Cardoen]] supplied cluster munitions to Iraq through CIA-connected channels. [[PROMIS]] software was allegedly sold to Iraqi intelligence in backdoor-equipped form.[^3]
+[[Donald Rumsfeld]] visited Saddam Hussein in December 1983 as a special envoy, cementing the relationship at a moment when U.S. intelligence knew Iraq was using chemical weapons against Iranian troops. The financial structure supporting Iraqi arms procurement implicated [[Banca Nazionale del Lavoro]]'s [[Atlanta]] branch in what became the [[BNL scandal]]. Chilean arms manufacturer [[Carlos Cardoen]] supplied cluster munitions to Iraq through CIA-connected channels. [[PROMIS]] software was allegedly sold to Iraqi intelligence in backdoor-equipped form.[^4]
 
 ### Gulf War and Sanctions
 
@@ -43,4 +43,5 @@ The subsequent occupation produced the [[Abu Ghraib]] prisoner abuse scandal and
 
 [^1]: "Iraq," *Encyclopaedia Britannica.* https://www.britannica.com/place/Iraq
 [^2]: Foreign Relations of the United States, 1961-1963, vol. XVIII, Near East, 1962-1963, documents 153 and 154 (February 8 and 9, 1963), https://history.state.gov/historicaldocuments/frus1961-63v18 ; Richard Sale, "Exclusive: Saddam key in early CIA plot," United Press International, April 10, 2003, https://www.upi.com/Exclusive-Saddam-key-in-early-CIA-plot/65571050017416/ ; Joyce Battle, ed., "Shaking Hands with Saddam Hussein: The U.S. Tilts toward Iraq, 1980-1984," National Security Archive Electronic Briefing Book No. 82, February 25, 2003, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB82/
-[^3]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq.* Bantam Books, 1993.
+[^3]: National Security Council, National Security Decision Directive 139, "Measures to Improve U.S. Posture and Readiness to Respond to Developments in the Iran-Iraq War," April 5, 1984, sensitive. Ronald Reagan Presidential Library. https://www.reaganlibrary.gov/sites/default/files/archives/reference/scanned-nsdds/nsdd139.pdf
+[^4]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq.* Bantam Books, 1993.
