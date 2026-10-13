@@ -9,7 +9,7 @@ tags:
   - CIA
   - ColdWar
   - MiddleEast
-summary: "Mukhabarat (Arabic: intelligence) is the informal name for Arab state intelligence services, most prominently Egypt's General Intelligence Directorate and Iraq's General Intelligence Service under Saddam Hussein, central to CIA liaison relationships, Safari Club operations, and the BNL/arms-to-Iraq affair."
+summary: "Mukhabarat is the informal name for Arab intelligence services, mainly Egypt's General Intelligence Directorate, Iraq's General Intelligence Service and Saudi Arabia's General Intelligence Presidency, central to CIA liaison, the Safari Club and the BNL affair."
 ---
 
 Mukhabarat (Arabic: مخابرات, from the root khabara, "to know" or "to be informed") is the common informal designation for intelligence and security services in multiple Arab states, literally meaning "intelligence" or "information." The term is used most frequently in English-language sources to refer to Egypt's General Intelligence Directorate and Iraq's General Intelligence Service, though equivalent security agencies in Syria, Jordan, Libya, Sudan, and other Arab states are also commonly called mukhabarat in both Arabic usage and foreign analysis. Because the term refers to different organizations in different national contexts, the following entries address the two agencies most significant to this vault's subjects.
@@ -22,7 +22,7 @@ Egypt's [[Safari Club]] participation from 1976 onward placed the GID within the
 
 Under President [[Hosni Mubarak]] (1981-2011), the GID was directed for much of this period by Omar Suleiman, who served as intelligence chief from 1993 until Mubarak's overthrow in February 2011. Suleiman became the CIA's primary Egyptian counterpart for the post-September 11 extraordinary rendition program, in which terrorism suspects were transferred to Egyptian custody for interrogation at Egyptian facilities. At least a dozen individuals rendered by the CIA were taken to Egyptian custody under GID oversight; human rights organizations documented torture and extended detention without charge as standard practices at GID facilities. The rendition of Egyptian cleric [[Abu Omar]] from Milan in 2003 - conducted by CIA officers with Italian SISMI cooperation - was among the most documented cases; 22 CIA officers were subsequently convicted in absentia by Italian courts.[^1]
 
-[[Kamal Adham]], Saudi Arabia's intelligence chief and [[Safari Club]] representative, maintained a relationship with Egyptian intelligence through the shared [[BCCI|Bank of Credit and Commerce International]] network; Egyptian and Saudi intelligence used BCCI as a financial conduit for covert operations funding.[^3]
+[[Kamal Adham]], Saudi Arabia's intelligence chief and Safari Club representative, maintained a relationship with Egyptian intelligence through the shared [[BCCI|Bank of Credit and Commerce International]] network; Egyptian and Saudi intelligence used BCCI as a financial conduit for covert operations funding.[^3]
 
 ### Iraq: General Intelligence Service
 
@@ -34,9 +34,15 @@ The [[BNL scandal]] - the exposure of the [[Banca Nazionale del Lavoro]]'s [[Atl
 
 The Iraqi Mukhabarat was substantially dismantled following the 2003 U.S. invasion and Saddam Hussein's removal from power; its personnel files and operational networks became subjects of significant intelligence collection by U.S. forces in the immediate post-invasion period.
 
+### Saudi Arabia: General Intelligence Presidency
+
+Saudi Arabia's foreign intelligence service is the [[General Intelligence Presidency]] (Istikhbarat Al Amah), dated to 1956 by the Saudi government encyclopedia and headed from the mid-1960s by Kamal Adham, who was also the CIA's principal contact in the Arab Middle East according to the Senate BCCI report.[^5][^6]
+
 ### Footnotes
 
 [^1]: Mayer, Jane. *The Dark Side: The Inside Story of How the War on Terror Turned into a War on American Ideals.* Doubleday, 2008, pp. 100-135. Grey, Stephen. *Ghost Plane: The True Story of the CIA Torture Program.* St. Martin's Press, 2006.
 [^2]: Trento, Joseph. *Prelude to Terror: The Rogue CIA and the Legacy of America's Private Intelligence Network.* Carroll & Graf, 2005, pp. 52-108. De Marenches, Alexandre, and David Andelman. *The Fourth World War.* Random House, 1992.
 [^3]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992.
 [^4]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq.* Bantam, 1993. Teicher, Howard. Affidavit. *United States v. Carlos Cardoen,* S.D. Fla., January 31, 1995 (declassified - documents Reagan-era CIA intelligence sharing with Iraq).
+[^5]: Saudipedia, "General Intelligence Presidency." https://saudipedia.com/en/article/700/government-and-politics/security-and-defense/general-intelligence-presidency
+[^6]: U.S. Senate Committee on Foreign Relations, The BCCI Affair (1992), "BCCI, the CIA and Foreign Intelligence." https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm

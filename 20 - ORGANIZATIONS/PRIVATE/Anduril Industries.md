@@ -15,7 +15,13 @@ tags:
 summary: "Anduril Industries is a defense-technology contractor founded in 2017 by Palmer Luckey and Palantir Technologies alumni Brian Schimpf, Trae Stephens, Matt Grimm, and Joe Chen, backed by Founders Fund, that builds the Lattice autonomous-systems platform and autonomous hardware for the Pentagon and allied militaries, and was valued at 30.5 billion dollars in its 2025 Series G round."
 location: "Costa Mesa, California (headquarters)"
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-10-13
+relations:
+  - type: partner_of
+    with: "[[OpenAI]]"
+    start: 2024-12-04
+    role: "counter-drone partnership announced December 4, 2024"
+    fn: 8
 ---
 
 Anduril Industries is an American defense-technology contractor founded in 2017 by [[Palmer Luckey]] and a group of [[Palantir Technologies]] alumni including [[Brian Schimpf]], [[Trae Stephens]], [[Matt Grimm]], and [[Joe Chen]]. The company builds the [[Lattice (software platform)|Lattice]] software platform for fusing sensor data from autonomous systems into a single operating picture, and a range of autonomous hardware including the [[Ghost (drone)|Ghost]] and [[Altius (drone)|Altius]] unmanned aerial systems, the [[Fury (drone)|Fury]] autonomous fighter, the [[Dive-LD]] autonomous undersea vehicle, and the [[Sentry Tower]] ground-surveillance system. The company was valued at 30.5 billion dollars in a Series G funding round led by [[Founders Fund]] in 2025.[^1][^2]
@@ -38,6 +44,12 @@ The Lattice software platform is built to fuse data from the company's own hardw
 
 Traditional defense procurement separates the platform (the aircraft, the vehicle, the sensor) from the software that operates it, with the Pentagon buying each from different vendors on separate contracts. Anduril bundles the hardware, the software, and the data fusion into a single vendor, which lets the company iterate the whole stack on commercial rather than defense-cycle timelines. The Replicator initiative, the Pentagon program to field thousands of low-cost autonomous systems, has been the principal public instance of this procurement model applied to Anduril hardware.[^1][^7]
 
+### OpenAI Counter-Drone Partnership (2024)
+
+On December 4, 2024 Anduril announced that it would partner with [[OpenAI]] to apply OpenAI's models to counter-drone systems. Anduril said that the models "will help protect U.S. and allied military personnel and ensure mission success." The companies described the goal as reducing the burden on human operators and improving situational awareness.[^8]
+
+The same article reports a separate award: the [[Chief Digital and Artificial Intelligence Office]] had awarded Anduril a 100 million dollar contract to increase production of its Lattice Mesh networking capability.[^9]
+
 ### Pentagon and Allied Contracts
 
 Anduril's public contract record includes the [[Special Operations Command]] contracts for Ghost drones, the [[Marine Corps]] and [[United Kingdom|UK]] [[Ministry of Defence]] contracts for Altius loitering munitions, and the participation in the Replicator initiative. The [[Ukraine]] war has been the largest operational test of the underlying thesis: Anduril and competitor autonomous systems have been used extensively by Ukrainian forces against Russian targets, and the company has publicly supplied systems to Ukraine outside the formal U.S. foreign-military-sales process.[^1][^7]
@@ -46,9 +58,9 @@ The Ukraine deployment fed back into the product development cycle at a pace the
 
 ### Customs and Border Protection and the Sentry Tower Program
 
-[[U.S. Customs and Border Protection|CBP]] has deployed over 350 Sentry Towers along the U.S. southern border, covering approximately 30 percent of the southwest land border. The towers are self-powered, autonomous surveillance structures equipped with optical, thermal, and radar sensors integrated through the Lattice platform, autonomously detecting, classifying, and tracking objects of interest. CBP expanded the program under a 363 million dollar contract for 200 additional Extended Range Sentry Towers (XRST), 80-foot expeditionary structures with extended sensor range. The [[Electronic Frontier Foundation]] reported in April 2026 on opposition from a 62,000-resident California coastal community where an Anduril tower was slated for installation.[^8]
+[[U.S. Customs and Border Protection|CBP]] has deployed over 350 Sentry Towers along the U.S. southern border, covering approximately 30 percent of the southwest land border. The towers are self-powered, autonomous surveillance structures equipped with optical, thermal, and radar sensors integrated through the Lattice platform, autonomously detecting, classifying, and tracking objects of interest. CBP expanded the program under a 363 million dollar contract for 200 additional Extended Range Sentry Towers (XRST), 80-foot expeditionary structures with extended sensor range. The [[Electronic Frontier Foundation]] reported in April 2026 on opposition from a 62,000-resident California coastal community where an Anduril tower was slated for installation.[^10]
 
-The Sentry Tower program is the physical-surveillance layer of the border-enforcement pipeline that the Thiel-network firms supply. Palantir Technologies provides the back-end data integration, case management, and neighborhood-targeting through FALCON, ICM, ImmigrationOS, and the ELITE app. [[Clearview AI]] provides the facial-recognition identification from the surveillance imagery. The documented combination of Anduril (detection), Palantir (case management), and Clearview (facial identification) runs across the enforcement pipeline from border crossing through detention and deportation.[^8]
+The Sentry Tower program is the physical-surveillance layer of the border-enforcement pipeline that the Thiel-network firms supply. Palantir Technologies provides the back-end data integration, case management, and neighborhood-targeting through FALCON, ICM, ImmigrationOS, and the ELITE app. [[Clearview AI]] provides the facial-recognition identification from the surveillance imagery. The documented combination of Anduril (detection), Palantir (case management), and Clearview (facial identification) runs across the enforcement pipeline from border crossing through detention and deportation.[^10]
 
 ### Footnotes
 
@@ -59,4 +71,6 @@ The Sentry Tower program is the physical-surveillance layer of the border-enforc
 [^5]: Founders Fund. "Anduril" company page. https://foundersfund.com/company/anduril/
 [^6]: "Trae Stephens." *Forbes.* https://www.forbes.com/profile/trae-stephens/
 [^7]: For the Replicator initiative, Ukraine deployments, and the Pentagon autonomous-systems procurement record, see Department of Defense announcements and contemporaneous reporting in *Defense One* and *Politico*.
-[^8]: "Anduril Wins $363M CBP Contract for XR Sentry Towers." *Tectonic Defense.* https://www.tectonic-defense.com/anduril-wins-363m-cbp-contract-for-xr-sentry-towers/ ; "Anduril Surveillance Towers." *U.S. Customs and Border Protection.* https://www.cbp.gov/document/foia-record/anduril-surveillance-towers ; "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower." *EFF,* April 2026. https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower
+[^8]: *Defense News*, "Anduril, OpenAI join to boost counter-drone tech for US bases, troops," December 5, 2024: "Anduril and OpenAI will partner to improve the military's counter-drone capabilities" https://www.defensenews.com/pentagon/2024/12/05/anduril-openai-join-to-boost-counter-drone-tech-for-us-bases-troops/
+[^9]: Same article, *Defense News*, December 5, 2024: the Chief Digital and Artificial Intelligence Office "awarded Anduril a $100 million contract to increase production of its Lattice Mesh networking capability." https://www.defensenews.com/pentagon/2024/12/05/anduril-openai-join-to-boost-counter-drone-tech-for-us-bases-troops/
+[^10]: "Anduril Wins $363M CBP Contract for XR Sentry Towers." *Tectonic Defense.* https://www.tectonic-defense.com/anduril-wins-363m-cbp-contract-for-xr-sentry-towers/ ; "Anduril Surveillance Towers." *U.S. Customs and Border Protection.* https://www.cbp.gov/document/foia-record/anduril-surveillance-towers ; "California Coastal Community Must Reject CBP's AI-Powered Surveillance Tower." *EFF,* April 2026. https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower

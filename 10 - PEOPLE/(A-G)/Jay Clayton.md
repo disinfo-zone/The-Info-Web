@@ -46,8 +46,18 @@ relations:
     role: "assigned by the Attorney General to investigate Epstein's dealings with Clinton, Summers, Hoffman and JPMorgan Chase"
     start: 2025-11-14
     fn: 3
+  - type: head_of
+    with: "[[Director of National Intelligence]]"
+    start: 2026-08-03
+    role: "ninth Director of National Intelligence; sworn in after Senate confirmation the prior week"
+    fn: 4
+  - type: subject_of
+    with: "[[NSPM-11]]"
+    start: 2026-06-05
+    role: "named DNI in Sections 3(b), 4 and 5 of the memorandum, signed before his confirmation"
+    fn: 15
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-13
 ---
 
 Walter J. "Jay" Clayton III is an American lawyer who was a partner of [[Sullivan & Cromwell]], chairman of the [[Securities and Exchange Commission]] from 2017 to 2020, non-executive chairman of [[Apollo Global Management]] in succession to its founder [[Leon Black]], and from 2025 [[United States]] Attorney for the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]]. In November 2025 Attorney General [[Pam Bondi]] assigned him to investigate [[Jeffrey Epstein]]'s dealings with [[Bill Clinton]], [[Larry Summers]], [[Reid Hoffman]] and [[JPMorgan Chase]]; Hoffman and [[Deutsche Bank]] had been among the clients Clayton disclosed on his 2017 government ethics filing. He was sworn in as the ninth [[Director of National Intelligence]] on August 3, 2026.[^1][^2][^3][^4]
@@ -78,6 +88,14 @@ Trump nominated Clayton for Director of National Intelligence to fill the post v
 
 He was succeeded in Manhattan by Jamie McDonald, who had served as director of enforcement at the [[Commodity Futures Trading Commission]] from 2017 to 2020 and then as a partner of Sullivan & Cromwell.[^13]
 
+### Roles Under NSPM-11
+
+On October 13, 2026 the Justice Department announced the arrest of [[Abdulrahman Alfozan]] and quoted Clayton, identified in the release as Director of National Intelligence, as saying: "This serious situation underscores why winning the global super intelligence race is a national security prerogative." The same quotation refers to "President Trump's leadership in creating the Super Intelligence Force," and continues: "I thank Director Patel and our FBI partners for their diligence and swift action. The intelligence community remains committed to safeguarding America's cutting-edge intellectual property from foreign threats."[^14]
+
+[[NSPM-11|National Security Presidential Memorandum 11]], signed by Donald Trump on June 5, 2026, is addressed to the DNI as an office and assigns it roles in several sections. Section 4(e) states: "The DNI, in coordination with IC elements, shall prioritize the collection and analysis of foreign AI technologies, across the AI technology stack, AI applications and uses, and AI governance and policies that pose a threat to United States national security, economic security, and strategic competitiveness." Other assignments run to the review of AI procurement with the Secretary of War (Section 4(a)), a roadmap for advanced computing access (Section 4(b)), partnerships with private-sector companies through the AI Security Center (Section 4(c)), joint AI data and model exchanges (Section 4(f)), the AI for National Security Curriculum with the Secretary of War (Section 5(c)), and a joint AI risk-management strategy (Section 5(e)).[^15]
+
+The memorandum was signed on June 5, 2026, before Clayton's confirmation.[^4]
+
 ### Footnotes
 
 [^1]: U.S. Securities and Exchange Commission, "Jay Clayton," SEC Historical Summary of Chairmen and Commissioners. https://www.sec.gov/about/sec-commissioners/sec-historical-summary-chairmen-commissioners/jay-clayton
@@ -93,3 +111,5 @@ He was succeeded in Manhattan by Jamie McDonald, who had served as director of e
 [^11]: United States v. Maxwell, No. 1:20-cr-00330 (S.D.N.Y.), letters re Epstein Files Transparency Act review, ECF No. 839 (Jan. 15, 2026) and ECF No. 847 (Jan. 31, 2026). https://www.courtlistener.com/docket/17318376/united-states-v-maxwell/
 [^12]: McLaughlin, Jenna. "Senate confirms Jay Clayton as director of national intelligence." *NPR,* July 29, 2026. https://www.npr.org/2026/07/29/nx-s1-5910749/senate-confirms-jay-clayton-as-director-of-national-intelligence
 [^13]: U.S. Attorney's Office for the Southern District of New York, "Meet the U.S. Attorney," accessed September 25, 2026. https://www.justice.gov/usao-sdny/meet-us-attorney
+[^14]: U.S. Department of Justice, Office of Public Affairs, "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI," press release 26-1173, October 13, 2026: "This serious situation underscores why winning the global super intelligence race is a national security prerogative." https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai
+[^15]: The White House, "National Security Presidential Memorandum/NSPM-11," signed June 5, 2026, Sections 4(a), 4(b), 4(c), 4(e), 4(f) and 5(c), 5(e). https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/

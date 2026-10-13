@@ -14,7 +14,7 @@ tags:
 summary: "Former federal prosecutor and House intelligence committee counsel, confirmed 51 to 49 as FBI director in 2025, whose bureau joined the July 2025 memo finding no Epstein client list warranting further disclosure."
 location: "Washington, D.C."
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-13
 relations:
   - type: head_of
     with: "[[Federal Bureau of Investigation]]"
@@ -56,6 +56,10 @@ On July 18, 2025 the ranking member of the [[Senate Judiciary Committee]], [[Dic
 
 At a Judiciary Committee oversight hearing on September 16, 2025, Senator [[John Kennedy]] of Louisiana asked Patel to whom Epstein had trafficked his victims besides himself. Patel answered: "There is no credible information, none. If there were, I would bring the case yesterday that he trafficked to other individuals." He added, "I am not saying that others were not trafficked and others were not involved," and said the bureau held only "limited search warrants" from the Florida investigation of 2006 and 2007.[^6]
 
+### The OpenAI Recording Case
+
+On October 13, 2026 the Justice Department announced the arrest and charge of [[Abdulrahman Alfozan]], an engineer at [[OpenAI]], for allegedly installing a recording device in an executive conference room at the company's San Francisco offices. Patel said in the release: "According to the complaint unsealed today, Abdulrahman Alfozan allegedly concealed a covert recording device inside his employer's executive conference room to secretly capture sensitive communications about the company's super intelligence technology." He added that "the FBI views that mission as one of our highest counterintelligence priorities."[^7] [[Scott Schelble]], special agent in charge of the bureau's San Francisco field office, said the agency is committed to protecting sensitive research and proprietary technology, as reported by the San Francisco Standard.[^8] Patel also thanked "Director of National Intelligence Jay Clayton and our law enforcement partners," and the release states the prosecution is in support of National Security Presidential Memorandum 11 ([[NSPM-11]]).[^7]
+
 ### Footnotes
 
 [^1]: Federal Bureau of Investigation, "Director Kash Patel," official leadership biography. https://www.fbi.gov/about/leadership-and-structure/director-patel
@@ -64,3 +68,5 @@ At a Judiciary Committee oversight hearing on September 16, 2025, Senator [[John
 [^4]: U.S. Department of Justice and Federal Bureau of Investigation, unsigned memorandum on the review of investigative holdings relating to Jeffrey Epstein, July 7, 2025. https://www.justice.gov/opa/media/1407001/dl?inline
 [^5]: Senator Richard J. Durbin, Ranking Member, Senate Committee on the Judiciary, letter to FBI Director Kash Patel regarding Epstein files, July 18, 2025. https://www.judiciary.senate.gov/download/2025-07-18-rjd-letter-to-fbi-director-patel-re-epstein?download=1
 [^6]: Nik Popli, "Kash Patel Says There's No Credible Information Epstein Trafficked Girls to Others," *Time,* September 16, 2025. https://time.com/7317646/kash-patel-jeffrey-epstein-files/
+[^7]: U.S. Department of Justice, Office of Public Affairs, "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI," October 13, 2026, press release 26-1173. https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai
+[^8]: "OpenAI engineer arrested in bugging of executive conference room," *San Francisco Standard,* October 13, 2026. https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/

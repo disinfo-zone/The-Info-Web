@@ -138,8 +138,13 @@ relations:
     with: "[[Felicia Horowitz]]"
     role: "husband"
     fn: 11
+  - type: funded
+    with: "[[Echelon (company)]]"
+    start: 2026-10
+    role: "named early backer of an undisclosed round, per Dealroom and Wamda, October 2026; no amount disclosed"
+    fn: 28
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-13
 ---
 
 Ben Horowitz (Benjamin A. Horowitz) is a cofounder and general partner of the venture capital firm [[Andreessen Horowitz]] (a16z), which he and [[Marc Andreessen]] started in 2009.[^1] He worked in product marketing at [[Lotus Development Corporation]] before joining [[Netscape]] in July 1995, where he ran product divisions including the Directory and Security line; was vice president and general manager of the E-Commerce Platform division of [[America Online]] in 1999; and from September 1999 was cofounder, president and chief executive of Loudcloud, which became [[Opsware]] and was acquired by [[Hewlett-Packard]] in 2007. He holds a bachelor's degree in computer science from [[Columbia University]] and a master's from the [[University of California, Los Angeles]].[^2][^3] His a16z biography lists board seats at [[Anyscale]], [[Databricks]], [[Mayvenn]], [[NationBuilder]], [[Navan]] and [[UnitedMasters]], and credits him with creating the a16z Cultural Leadership Fund.[^2]
@@ -202,6 +207,14 @@ Outside firms registered for the firm are [[Mehlman Consulting]] (registered May
 
 Horowitz is the son of the writer and activist [[David Horowitz]], founder of the [[David Horowitz Freedom Center]], who died on April 29, 2025 at the age of 86. Misty Severi of Just the News and Heather Hunter of the [[Washington Examiner]] reported that David Horowitz was survived by his sons Ben and Jonathan and a daughter, that Ben Horowitz posted "Rest in Peace to my father," and that the family's obituary recounted that when Ben told Trump about his father the previous year, "President Trump's face immediately lit up and he insisted that Benjamin get David on the phone immediately."[^25][^26] Horowitz lives in Las Vegas with his wife, Felicia Horowitz, a trustee of the family foundation.[^11][^13]
 
+### Saudi Arabia and the Gulf
+
+In October 2022 Horowitz spoke at "Davos in the Desert," an investment conference in Saudi Arabia. TechCrunch, reporting in April 2023, wrote that such an appearance is "often a clue that someone is fundraising."[^27]
+
+In 2023 Horowitz and Marc Andreessen appeared onstage with [[Adam Neumann]] at a conference organized by a nonprofit backed by one of Saudi Arabia's largest sovereign funds. The panel discussed the firm's 350 million dollar investment in Flow, Neumann's residential real estate company, which Bloomberg reported might launch in the Kingdom. TechCrunch quoted Horowitz as praising Saudi Arabia as a "startup country" and saying: "Saudi has a founder; you don't call him a founder, you call him his royal highness." Neumann said separately, "It's leaders like his royal highness that are actually going to lead us where we want to go." TechCrunch wrote that it had contacted Andreessen Horowitz and had not received a reply.[^27]
+
+In October 2026 the Riyadh-based company [[Echelon (company)]] announced an undisclosed funding round. Dealroom named its early backers as [[East40 Holding|East40]], [[RAED Ventures]], [[Avra]] and "Ben Horowitz," and described the founder, [[Khalid bin Bader Al Saud]], as a venture partner at RAED Ventures and an adviser to Andreessen Horowitz.[^28] [[Wamda]], reporting on October 7, 2026, wrote that Echelon raised an undisclosed round "from East40, RAED Ventures and Avra, alongside Ben Horowitz and other investors."[^29]
+
 ### Footnotes
 
 [^1]: Andreessen Horowitz. "Who We Are." a16z.com/about, accessed October 1, 2026. https://a16z.com/about/
@@ -230,3 +243,6 @@ Horowitz is the son of the writer and activist [[David Horowitz]], founder of th
 [^24]: Lobbying Disclosure Act filings for client Scale AI: The VM Group registration posted August 28, 2026, https://lda.gov/filings/public/filing/4087f730-33fc-451b-952d-6e39e960ccd9/print/ ; Mehlman Consulting registration posted August 19, 2025, https://lda.gov/filings/public/filing/abdd7fa4-d0dd-46f6-a946-a16482f72509/print/ ; Cornerstone Government Affairs registration posted October 11, 2023, https://lda.gov/filings/public/filing/4bed6edb-c81c-41ff-aecb-e50754221888/print/
 [^25]: Severi, Misty. "Conservative author and activist David Horowitz dies at 86." Just the News, April 29, 2025. https://justthenews.com/nation/culture/conservative-author-david-horowitz-dies-86
 [^26]: Hunter, Heather. "Conservatives pay tribute following death of David Horowitz." Washington Examiner, April 30, 2025. https://www.washingtonexaminer.com/news/3397321/conservatives-pay-tribute-death-david-horowitz/
+[^27]: Loizos, Connie, "Andreessen Horowitz is now openly courting capital from Saudi Arabia, despite U.S. strains," *TechCrunch*, April 1, 2023. The article reports that "back in October, Horowitz spoke at an investment conference dubbed 'Davos in the Desert,' which is often a clue that someone is fundraising," and, on the Flow investment, the "startup country" and "royal highness" remarks, and that "We reached out to Andreessen Horowitz with related questions this morning and have yet to hear back." https://techcrunch.com/2023/04/01/andreessen-horowitz-is-now-openly-courting-capital-from-saudi-arabia-despite-u-s-strains/
+[^28]: Dealroom, news item on the launch of Echelon, October 8, 2026 (published 15:30 UTC): "Its early backers include East40, RAED Ventures, Avra and Ben Horowitz." https://dealroom.co/news/160932-saudi-ai-company-echelon-launches-with-backing-from-ben-horowitz-avra-an/
+[^29]: "Saudi AI startup Echelon secures backing from East40, RAED Ventures and Avra," *Wamda*, October 7, 2026: "Saudi AI startup Echelon has raised an undisclosed investment round from East40, RAED Ventures and Avra, alongside Ben Horowitz and other investors." https://www.wamda.com/ar/2026/10/saudi-ai-startup-echelon-secures-backing-east40-raed-ventures-avra
