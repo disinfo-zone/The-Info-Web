@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-10-08
+updated: 2026-10-13
 title: John Poindexter
 aliases:
   - John Poindexter
@@ -26,6 +26,12 @@ relations:
     end: 2003-08-29
     role: "director, Information Awareness Office"
     fn: 3
+  - type: participant_in
+    with: "[[Policy Analysis Market]]"
+    start: 2002
+    end: 2003-08-29
+    role: "director of the Information Awareness Office, under which FutureMAP sat; approved the program per Nextgov"
+    fn: 8
 ---
 
 John Marlan Poindexter was born August 12, 1936. He graduated first in his class from the [[U.S. Naval Academy]] in 1958 and earned a PhD in nuclear physics from the [[California Institute of Technology]] in 1964. He pursued a naval career that included service in the Pentagon's [[National Security Council]] staff, rising to military assistant to President Reagan's National Security Advisers before assuming the position himself.[^1]
@@ -52,9 +58,17 @@ When TIA became publicly known in late 2002, it generated intense opposition fro
 
 The joint explanatory statement lists four projects previously under the office that may continue under DARPA: Bio-Event Advanced Leading Indicator Recognition Technology, Rapid Analytic Wargaming, Wargaming the Asymmetric Environment, and Automated Speech and Text Exploitation in Multiple Languages, including Babylon and Symphony.[^4]
 
+DARPA's May 20, 2003 report to Congress on Terrorism Information Awareness lists FutureMAP, the Information Awareness Office's prediction-market program, among TIA's decision-support projects.[^5] On July 28, 2003 Senator [[Ron Wyden]] told reporters that the program's [[Policy Analysis Market]] was under Poindexter's supervision, and Senator [[John Warner]] said the next day that Poindexter and DARPA director Anthony Tether had personally reviewed it.[^6][^7] Nextgov reported that Poindexter approved FutureMAP and that he was not leading the office when the original solicitation was answered; [[Robin Hanson]], who designed the market, wrote that he had never met him.[^8][^9] The Pentagon abandoned the market on July 29, 2003, and Poindexter's resignation letter to Tether is dated August 12, 2003.[^7][^10]
+
 ### Footnotes
 
 [^1]: Tower Commission Report (President's Special Review Board). *The Tower Commission Report*. Bantam Books/Times Books, 1987. U.S. Congress, Joint Committees on Iran-Contra. *Report of the Congressional Committees Investigating the Iran-Contra Affair*. 100th Congress, 1st Session, 1987.
 [^2]: Walsh, Lawrence E. *Firewall: The Iran-Contra Conspiracy and Cover-Up*. W.W. Norton, 1997. Walsh, Lawrence E. *Iran-Contra: The Final Report*. Random House, 1994.
 [^3]: Dan Caterinicchia, "Poindexter leaving DARPA," *Nextgov/FCW*, August 13, 2003. https://www.nextgov.com/people/2003/08/poindexter-leaving-darpa/201670/
 [^4]: Congressional Record, House, September 24, 2003, Conference Report on H.R. 2658, Department of Defense Appropriations Act, 2004 (House Report 108-283), Sec. 8131 and Joint Explanatory Statement. https://sgp.fas.org/congress/2003/tia.html
+[^5]: DARPA, "Report to Congress regarding the Terrorism Information Awareness Program," May 20, 2003, Annex B. https://w2.eff.org/Privacy/TIA/TIA-report.html
+[^6]: "Pentagon plan to bet on terrorism is blasted," Associated Press, as published by the Deseret News, July 29, 2003. https://www.deseret.com/2003/7/29/19738241/pentagon-plan-to-bet-on-terrorism-is-blasted/
+[^7]: "Pentagon Abandons Terrorism Betting Plan," Associated Press, July 29, 2003, as published by KSL. https://www.ksl.com/article/103317
+[^8]: "DOD's misguided bet on the future," Nextgov, August 2003. https://www.nextgov.com/people/2003/08/dods-misguided-bet-on-the-future/201748/
+[^9]: Robin Hanson, "The Policy Analysis Market (and FutureMAP) Archive," George Mason University. https://mason.gmu.edu/~rhanson/policyanalysismarket.html
+[^10]: Dawn S. Onley, "In his resignation, Poindexter defends projects," Government Computer News, August 13, 2003. https://www.route-fifty.com/digital-government/2003/08/in-his-resignation-poindexter-defends-projects/295109/

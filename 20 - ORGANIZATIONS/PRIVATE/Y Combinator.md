@@ -119,8 +119,13 @@ relations:
     start: 2023-12-11
     role: "registered lobbyist"
     fn: 37
+  - type: funded
+    with: "[[Kalshi]]"
+    start: 2019
+    role: "accelerator, Winter 2019 batch; YC Continuity in the Series A; named among the Series E participants"
+    fn: 39
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-13
 ---
 
 Y Combinator (YC) is a startup investment firm that [[Paul Graham]] and [[Jessica Livingston]] decided to start on March 11, 2005, walking home from dinner in [[Harvard Square]]. Graham agreed to put in 100,000 dollars, and over the following days [[Robert Tappan Morris|Robert Morris]] and [[Trevor Blackwell]] put in 50,000 dollars each, so that the firm began with 200,000 dollars. It was first called Cambridge Seed and was renamed Y Combinator before its announcement a few days later.[^1] Its standard deal is 500,000 dollars per company: 125,000 dollars for 7 percent on a post-money SAFE and 375,000 dollars on an uncapped SAFE with a most-favored-nation clause.[^2] Its investment adviser, Y Combinator Management, LLC, reports nineteen private funds with combined gross assets of about 22 billion dollars.[^3]
@@ -195,6 +200,10 @@ The firm [[Venture Politics]] registered on September 5, 2014 to lobby for Y Com
 
 The Series F announcement of [[Scale AI]] on May 21, 2024 lists Y Combinator among the existing investors in the 1 billion dollar round at a 13.8 billion dollar valuation, alongside [[Nat Friedman]], [[Index Ventures]], Founders Fund and the lead investor [[Accel]], and lists [[Meta Platforms|Meta]] among the new investors.[^38]
 
+### Kalshi
+
+[[Kalshi]], a New York event-contract exchange, is listed in the Y Combinator company directory as a Winter 2019 batch company with founders [[Tarek Mansour]] and [[Luana Lopes Lara]]. The directory gives 2019 as the founding year and calls the company the "1st federally regulated exchange where people can trade on events."[^39] Y Combinator's October 8, 2018 hackathon recap reports 250 participants and three teams winning office hours, one of them "Kalshi," "Opinion gathering platform," with Mansour, Lopes Lara and [[Duncan Cock Foster]] as members.[^40] The company's first Form D, filed March 19, 2020, gives 2018 as the year of incorporation.[^41] [[YC Continuity]] was among the previous investors in the 30 million dollar Series A of February 17, 2021, and Y Combinator is named among the participants in the 1 billion dollar Series E announced December 2, 2025.[^42] A Form D filed October 23, 2025 lists [[Michael Seibel]] as a director of Kalshi Inc.[^43] On March 20, 2025 Mansour wrote on X: "Without @mwseibel, Kalshi wouldn’t exist."[^44]
+
 ### Footnotes
 
 [^1]: Graham, Paul. "How Y Combinator Started." paulgraham.com, March 2012. https://paulgraham.com/ycstart.html
@@ -235,3 +244,9 @@ The Series F announcement of [[Scale AI]] on May 21, 2024 lists Y Combinator amo
 [^36]: Federal Election Commission, Schedule A (42 records) and Schedule B (72 records) for committee C00930727, two-year period 2026, queried October 1, 2026. https://api.open.fec.gov/v1/schedules/schedule_a/?committee_id=C00930727 ; https://api.open.fec.gov/v1/schedules/schedule_b/?committee_id=C00930727
 [^37]: U.S. Senate and House, Lobbying Disclosure Act filings for client Y Combinator: Venture Politics registration posted September 5, 2014, https://lda.gov/filings/public/filing/7f934920-3e3f-46e4-bfe0-2cd9379fbdae/print/ , and termination posted October 20, 2014, https://lda.gov/filings/public/filing/784b304f-43fa-4dc0-8ddc-bd1a64a8f877/print/ ; The Joseph Group, LLC registration posted December 11, 2023, https://lda.gov/filings/public/filing/cd6749cc-6a4f-4565-8b39-e4f42f395e7d/print/ , and quarterly reports for the fourth quarter of 2023 through the second quarter of 2026, https://lda.gov/api/v1/filings/?client_name=Y+Combinator
 [^38]: Wang, Alexandr. "Scale's Series F: Expanding the Data Foundry for AI." Scale AI, May 21, 2024. https://scale.com/blog/scale-ai-series-f
+[^39]: Y Combinator, company page for Kalshi (W19). https://www.ycombinator.com/companies/kalshi
+[^40]: Y Combinator, "October 2018 Hackathon Recap," October 8, 2018. https://www.ycombinator.com/blog/october-2018-hackathon-recap
+[^41]: SEC Form D, Kalshi Inc. (CIK 1806928), accession 0001806928-20-000001, filed March 19, 2020. https://www.sec.gov/Archives/edgar/data/1806928/000180692820000001/primary_doc.xml
+[^42]: Kalshi, "Kalshi Raises $30 Million in Series A Funding Led by Sequoia," February 17, 2021, https://news.kalshi.com/p/kalshi-raises-30-million-in-series-a-funding-led-by-sequoia ; "Kalshi Reaches $11 Billion Valuation as App Takes over America," December 2, 2025. https://news.kalshi.com/p/kalshi-11-billion-valuation-series-e
+[^43]: SEC Form D, Kalshi Inc., accession 0001231919-25-000344, filed October 23, 2025. https://www.sec.gov/Archives/edgar/data/1806928/000123191925000344/primary_doc.xml
+[^44]: Tarek Mansour (@mansourtarek_), X, March 20, 2025. https://x.com/mansourtarek_/status/1902515335560880431

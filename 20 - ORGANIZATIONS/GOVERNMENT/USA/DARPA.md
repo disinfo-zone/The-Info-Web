@@ -1,6 +1,6 @@
 ---
 created: 2025-07-22
-updated: 2026-10-08
+updated: 2026-10-13
 title: DARPA
 aliases:
   - DARPA
@@ -27,7 +27,7 @@ relations:
     with: "[[Stanford Research Institute]]"
     reverse: true
     start: 2005
-    fn: 28
+    fn: 32
   - type: funded
     with: "[[Stanford Research Institute]]"
     start: 1983
@@ -56,6 +56,12 @@ relations:
     with: "[[Center Lane]]"
     start: 1983
     fn: 19
+  - type: funded
+    with: "[[Policy Analysis Market]]"
+    start: 2001-05
+    end: 2003-07-29
+    role: "FutureMAP research program, including the market proposal"
+    fn: 27
 ---
 The Defense Advanced Research Projects Agency (DARPA) is a research and development agency of the [[United States Department of Defense]] that funds advanced technology for military use. It was established in 1958 as the Advanced Research Projects Agency (ARPA).[^1]
 
@@ -115,17 +121,25 @@ The conference report on the fiscal 2004 defense appropriations act, House Repor
 
 The statement names four projects previously under the office that may continue under DARPA: Bio-Event Advanced Leading Indicator Recognition Technology, Rapid Analytic Wargaming, Wargaming the Asymmetric Environment, and Automated Speech and Text Exploitation in Multiple Languages (including Babylon and Symphony).[^25] The conference agreement states that it "does not restrict the National Foreign Intelligence Program from using processing, analysis and collaboration tools for counterterrorism foreign intelligence purposes."[^25] DARPA created the Information Awareness Office in mid-January 2002, and [[John Poindexter]] directed it. On August 12, 2003 he submitted a five-page letter of resignation to Tether, effective August 29.[^26]
 
+### FutureMAP and the Policy Analysis Market, 2001 to 2003
+
+DARPA funded research on prediction markets from 2001, after [[Michael Foster]] of the National Science Foundation persuaded the agency in 2000. The first solicitation, issued in May 2001 as "Electronic Market-Based Decision Support," produced Small Business Innovation Research awards of about 100,000 dollars each to Neoteric Technologies and [[Net Exchange]]; both were funded for Phase II in fall 2002.[^27] In 2002 the program, by then named Futures Markets Applied to Prediction (FutureMAP), was placed within the Information Awareness Office under John Poindexter.[^27]
+
+DARPA's May 20, 2003 report to Congress on Terrorism Information Awareness lists FutureMAP among TIA's decision-support programs, says it "will answer predictive questions such as 'Will terrorists attack Israel with bioweapons in the next year?'", names the Center for Army Analysis and the Central Intelligence Agency as interested parties, and plans experiments at the Army's Intelligence and Security Command from fiscal year 2005, with budget lines of 3,000 thousand dollars for FY 2004 and 5,000 thousand for FY 2005.[^28]
+
+The Net Exchange component, the [[Policy Analysis Market]], was publicized by Senators [[Ron Wyden]] and [[Byron Dorgan]] on July 28, 2003, and the Pentagon abandoned it on July 29. The conference report on the fiscal 2004 defense appropriations act directed that the Information Awareness Office be terminated and listed four projects that could continue under DARPA; FutureMAP is not among them.[^29][^30]
+
 ### ARPANET
 
 Leiner and coauthors state that [[Lawrence G. Roberts]] went to DARPA in late 1966 to develop the computer network concept and published a plan for the ARPANET in 1967. [[Bolt, Beranek and Newman]] developed the switches, called IMPs, under Frank Heart's leadership, with [[Robert Kahn]] responsible for overall system design. The first switch was installed at UCLA in September 1969. The authors credit Kahn with introducing open-architecture networking in late 1972, shortly after he arrived at DARPA.[^2]
 
 ### Neural interface programs
 
-In January 2016 DARPA announced the Neural Engineering System Design (NESD) program, managed by [[Phillip Alvelda]]. The release sets a size goal of about one cubic centimeter for an implantable device that would link neural activity with digital systems, and gives a ceiling of $65 million over four years.[^27] The release lists devices that could compensate for deficits in sight or hearing by feeding digital auditory or visual information to the brain.[^27]
+In January 2016 DARPA announced the Neural Engineering System Design (NESD) program, managed by [[Phillip Alvelda]]. The release sets a size goal of about one cubic centimeter for an implantable device that would link neural activity with digital systems, and gives a ceiling of $65 million over four years.[^31] The release lists devices that could compensate for deficits in sight or hearing by feeding digital auditory or visual information to the brain.[^31]
 
 ### Contractors
 
-Federal award records list 113 DARPA prime contract awards to SRI International with action dates from October 1, 2007 to September 30, 2026, whose Award Amount fields total $462,329,429.73 and whose transactions inside that date range total $423,420,369. The largest record is contract HR001106C0023, with action dates from November 2005 to March 2011 and an award amount of $41,671,826.77.[^28] Other records describe supply chain hardware security, machine translation under the BOLT program, semantic forensics, and molecular discovery.[^28]
+Federal award records list 113 DARPA prime contract awards to SRI International with action dates from October 1, 2007 to September 30, 2026, whose Award Amount fields total $462,329,429.73 and whose transactions inside that date range total $423,420,369. The largest record is contract HR001106C0023, with action dates from November 2005 to March 2011 and an award amount of $41,671,826.77.[^32] Other records describe supply chain hardware security, machine translation under the BOLT program, semantic forensics, and molecular discovery.[^32]
 
 ### Footnotes
 
@@ -155,5 +169,9 @@ Federal award records list 113 DARPA prime contract awards to SRI International 
 [^24]: Annie Jacobsen, *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis* (Little, Brown and Company, 2017).
 [^25]: Congressional Record, House, September 24, 2003, pp. H8500 to H8550, Conference Report on H.R. 2658, Department of Defense Appropriations Act, 2004 (House Report 108-283), Sec. 8131 and Joint Explanatory Statement. https://sgp.fas.org/congress/2003/tia.html
 [^26]: Dan Caterinicchia, "Poindexter leaving DARPA," *Nextgov/FCW*, August 13, 2003. https://www.nextgov.com/people/2003/08/poindexter-leaving-darpa/201670/
-[^27]: DARPA, "Bridging the Bio-Electronic Divide," January 19, 2016 (paraphrased). https://www.darpa.mil/about-us/bridging-the-bio-electronic-divide
-[^28]: USAspending.gov API, POST /api/v2/search/spending_by_award/ and /api/v2/search/spending_by_category/recipient/, filters: time_period 2007-10-01 to 2026-09-30, award_type_codes A, B, C, D, recipient_search_text "SRI INTERNATIONAL", awarding subtier agency "Defense Advanced Research Projects Agency" (toptier Department of Defense); the count endpoint returned 113 contracts; reproduced October 8, 2026. https://api.usaspending.gov/docs/endpoints
+[^27]: Robin Hanson, "The Policy Analysis Market (and FutureMAP) Archive," George Mason University. https://mason.gmu.edu/~rhanson/policyanalysismarket.html
+[^28]: DARPA, "Report to Congress regarding the Terrorism Information Awareness Program," May 20, 2003, Annex B, FutureMAP. https://w2.eff.org/Privacy/TIA/TIA-report.html
+[^29]: "Pentagon Abandons Terrorism Betting Plan," Associated Press, July 29, 2003, as published by KSL. https://www.ksl.com/article/103317
+[^30]: Congressional Record, House, September 24, 2003, conference report on H.R. 2658 (House Report 108-283), Sec. 8131 and joint explanatory statement. https://sgp.fas.org/congress/2003/tia.html
+[^31]: DARPA, "Bridging the Bio-Electronic Divide," January 19, 2016 (paraphrased). https://www.darpa.mil/about-us/bridging-the-bio-electronic-divide
+[^32]: USAspending.gov API, POST /api/v2/search/spending_by_award/ and /api/v2/search/spending_by_category/recipient/, filters: time_period 2007-10-01 to 2026-09-30, award_type_codes A, B, C, D, recipient_search_text "SRI INTERNATIONAL", awarding subtier agency "Defense Advanced Research Projects Agency" (toptier Department of Defense); the count endpoint returned 113 contracts; reproduced October 8, 2026. https://api.usaspending.gov/docs/endpoints
