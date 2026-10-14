@@ -40,12 +40,21 @@ relations:
     role: "published the October 2 and 4, 1996 rebuttals"
     start: 1996-10-04
     fn: 15
+  - type: owned
+    with: "[[Newsweek]]"
+    start: 1961
+    end: 2010-09-30
+    fn: 18
 ---
 The [[Washington Post]] appears in records of the [[Central Intelligence Agency]] and the [[Federal Bureau of Investigation]] as the paper of [[Philip Graham]] and [[Katharine Graham]], whose [[Newsweek]] subsidiary the Agency used for cover; as the employer of reporters the CIA placed under physical surveillance in 1971 and 1972; as the only recipient of the 1971 Media, Pennsylvania FBI documents to publish them; and as the paper in which [[Walter Pincus]] and [[Roberto Suro]] published the first of the major rebuttals of the [[San Jose Mercury News]] "[[Dark Alliance]]" series.
 
 ### Newsweek, Frank Wisner and the Grahams
 
 [[Carl Bernstein]], formerly of the Post, wrote in [[Rolling Stone]] on October 20, 1977 that when the Washington Post Company bought Newsweek, publisher Philip L. Graham "was informed by Agency officials that the CIA occasionally used the magazine for cover purposes, according to CIA sources." A former CIA deputy director was quoted: "It was widely known that Phil Graham was somebody you could get help from. Frank Wisner dealt with him." Bernstein described [[Frank Wisner]] as the Agency's "premier orchestrator of 'black' operations" with a propaganda apparatus he called his "mighty Wurlitzer," and wrote that Graham "probably Wisner's closest friend" while apparently knowing "little of the specifics of any cover arrangements with Newsweek." Bernstein reported that in 1965 and 1966 an accredited Newsweek stringer in the [[Far East]] was a CIA contract employee at an annual salary of $10,000, according to [[Robert T. Wood]], then a CIA officer in the [[Hong Kong]] station.[^1]
+
+On March 17, 1961 [[Time]] reported that Philip L. Graham, president of the Washington Post and Times Herald, took control of Newsweek by writing a check for $8,985,000 to the [[Vincent Astor]] Foundation for its block of about 59 percent of the stock. His offer of $50 a share was $5 above that of the magazine's board chairman, [[Malcolm Muir]]. Graham learned the magazine was for sale from the investment banker [[Charles Spalding]], a friend of [[John F. Kennedy]], and sent the Post's managing editor, [[Alfred Friendly]], to Rome to secure a pledge from [[Averell Harriman|W. Averell Harriman]], then a roving ambassador and, in Time's words, "an early Newsweek backer," to sell Harriman's 13 percent holding. One third of the purchase money was borrowed from a New York insurance company.[^18]
+
+The Post Company owned Newsweek until the sale closed on September 30, 2010. The buyer, Harman Media, LLC, assumed Newsweek's subscription obligations and received its intellectual property, target working capital and selected equipment. The company retained the pension assets and liabilities and certain pre-sale employee obligations and recorded an after-tax loss of $11.5 million on the transaction.[^19][^20]
 
 On the Post itself Bernstein wrote that information about Agency dealings with the newspaper "is extremely sketchy," that according to CIA officials some Post stringers had been CIA employees but the officials did not know whether Post management was aware, and that all editors-in-chief and managing editors of the Post since 1950 said they knew of no formal Agency relationship with stringers or staff. Katharine Graham told him she had never been informed of any such relationships; in November 1973 she telephoned Director [[William Colby]] to ask whether any Post stringers or staff members were associated with the CIA, and Colby assured her that no staff members were employed by the Agency but declined to discuss stringers.[^2]
 
@@ -106,3 +115,6 @@ Webb wrote that when the New York Times reported the leaked conclusions of the C
 [^15]: U.S. Department of Justice, Office of the Inspector General, *The CIA-Contra-Crack Cocaine Controversy* (December 1997), chapter 1. https://oig.justice.gov/special/9712/ch01p1.htm
 [^16]: Webb, *Dark Alliance*, chapter 27 (see note 9).
 [^17]: Webb, *Dark Alliance*, epilogue (see note 9).
+[^18]: "The Press: Newsweek's News," *Time*, March 17, 1961. https://time.com/archive/6829457/the-press-newsweeks-news/
+[^19]: The Washington Post Company, Form 8-K, filed October 6, 2010, Item 2.01. https://www.sec.gov/Archives/edgar/data/104889/000119312510224885/d8k.htm
+[^20]: The Washington Post Company, Form 10-K for fiscal 2010, filed March 2, 2011, note on discontinued operations. https://www.sec.gov/Archives/edgar/data/104889/000119312511053497/d10k.htm

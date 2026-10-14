@@ -8,7 +8,14 @@ tags:
   - FrankOlson
   - ArmyChemicalCorps
   - JosiahMacyJrFoundation
-summary: "Columbia University allergist and CIA contractor who ran three MKULTRA LSD subprojects totaling $85,000, coordinated the academic LSD research network through Macy Foundation conferences, and was chosen by Gottlieb to manage Frank Olson's deteriorating mental state after the 1953 Deep Creek Lodge dosing."
+relations:
+  - type: employed_by
+    with: "[[Johns Hopkins University]]"
+    start: 1928
+    end: 1929
+    role: "instructor in medicine"
+    fn: 2
+summary: "Columbia University allergist and CIA contractor who ran three MKULTRA LSD subprojects totaling $85,000, convened the Macy Foundation LSD conferences, and managed Frank Olson after the 1953 Deep Creek Lodge dosing."
 born: 1899-11-27
 died: 1980-09-29
 location: New York, New York
@@ -20,6 +27,8 @@ Harold Abramson was a New York allergist and immunologist affiliated with [[Mt. 
 ### CIA Assignments
 
 In a 1953 document, [[Sidney Gottlieb]] listed subjects he expected Abramson to investigate with the $85,000 the Agency was furnishing him across three subprojects. Gottlieb wanted "operationally pertinent materials along the following lines: a. Disturbance of Memory; b. Discrediting by Aberrant Behavior; c. Alteration of Sex Patterns; d. Eliciting of Information; e. Suggestibility; f. Creation of Dependence." The gap between the innocent-sounding published research and the operational questions posed by the CIA characterized the entire MKULTRA program. Most of the CIA's academic researchers published articles in professional journals, but those long, scholarly reports often gave an incomplete picture. In effect, the scientists would write openly about how LSD affects a patient's pulse rate, but they would tell only the CIA how the drug could be used to ruin that patient's marriage or memory.[^1]
+
+A CIA memorandum of December 2, 1953, addressed to Colonel Edwards by the chief of the SSD, describes Abramson as a physician educated at Columbia University who was later chief of the allergy clinic at Mt. Sinai Hospital in New York. It records that he was an instructor in medicine at [[Johns Hopkins University]] from 1928 to 1929, and it states: "Subject is a physician but not known as a psychiatrist."[^2]
 
 ### Intelligence Gathering and the Macy Conferences
 
@@ -40,3 +49,4 @@ After Olson fell from a tenth-floor window at the [[Statler Hotel]] on November 
 ### Footnotes
 
 [^1]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979. Chapters 4 and 5.
+[^2]: Central Intelligence Agency, memorandum, December 2, 1953, "ABRAMSON, Harold A.," from the Chief, SSD to Colonel Edwards, MKULTRA document 0000144974, CIA reading room. https://archive.org/details/DOC_0000144974

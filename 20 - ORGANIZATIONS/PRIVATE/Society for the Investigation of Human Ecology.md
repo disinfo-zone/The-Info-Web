@@ -61,6 +61,12 @@ relations:
     end: 1963
     role: "Human Ecology Fund grant, Physique and psychological functioning, $39,000 (Price table)"
     fn: 9
+  - type: member_of
+    with: "[[John C. Whitehorn]]"
+    reverse: true
+    start: 1957
+    role: "board member"
+    fn: 19
 ---
 
 The Society for the Investigation of Human Ecology was a [[Central Intelligence Agency|CIA]] front foundation established in [[New York City]] around 1955 to channel covert funding from [[Project MKUltra|MKULTRA]] to academic researchers, psychiatric institutions, and other organizations conducting behavioral modification research on the CIA's behalf. Operating under the guise of a legitimate foundation supporting behavioral science research, the Society provided institutional cover that allowed MKULTRA funding to reach recipients whose participation might have been refused or compromised if the CIA's role had been disclosed.[^1]
@@ -89,7 +95,7 @@ In 1955 Sid Gottlieb's [[TSS]] crew took the Society over from [[Morse Allen]] a
 
 ### The 1957 Annual Report
 
-The Society's annual report for 1957 gave its address as "71-58 Austin Street, Forest Hills 75, L. I., N.Y.," and listed James L. Monroe as executive secretary and treasurer. It named Harold G. Wolff as president, Lawrence E. Hinkle Jr. as vice president, and John W. Gittinger as field representative. The board of directors pictured in the report was Wolff, [[Adolf Berle]] Jr., Hinkle, [[Joseph C. Hinsey]], Carl R. Rogers and [[John C. Whitehorn]]. [[Walter P. Pasternak]] was listed as technical writer. The report says the Society's funds came from gifts by private individuals and, in one instance, from the [[Foresight Foundation]], and that "A major portion of the money has been expended in support of the Human Ecology Study Program at the Cornell University Medical College."[^4]
+The Society's annual report for 1957 gave its address as "71-58 Austin Street, Forest Hills 75, L. I., N.Y.," and listed James L. Monroe as executive secretary and treasurer. It named Harold G. Wolff as president, Lawrence E. Hinkle Jr. as vice president, and John W. Gittinger as field representative. The board of directors pictured in the report was Wolff, [[Adolf Berle]] Jr., Hinkle, [[Joseph C. Hinsey]], Carl R. Rogers and [[John C. Whitehorn]]. [[Walter P. Pasternak]] was listed as technical writer. The report says the Society's funds came from gifts by private individuals and, in one instance, from the [[Foresight Foundation]], and that "A major portion of the money has been expended in support of the Human Ecology Study Program at the Cornell University Medical College."[^4] [[John Marks]] wrote that after the CIA severed the Society from Cornell, the board in 1957 included John Whitehorn, chairman of the psychiatry department at [[Johns Hopkins University]], together with Carl Rogers and Adolf Berle, with Harold Wolff and Lawrence Hinkle remaining as president and vice president.[^19]
 
 The report's review of projects lists the Cornell work, research at [[Rutgers University]], Cameron's psychotherapy experiments at McGill University, [[Robert Hyde|Robert W. Hyde]]'s work at the Butler Health Center, a study of prisoners of war by [[Albert Biderman|Albert D. Biderman]], a project under [[Beatrice Bishop Berle]], and a "Personality Studies" project under Dr. David R. Saunders of the [[Educational Testing Service]]. The Saunders project was funded in October of the year under review to examine the relation between two personality theories, the Gittinger theory and the Myers-Briggs type theory, using the Wechsler-Bellevue scale and the Myers-Briggs Type Indicator on the same group.[^4] John D. Marks later wrote that the Society gave about $140,000 to Saunders, "who knew about the Agency's involvement."[^5]
 
@@ -143,3 +149,4 @@ A CIA memorandum of November 18, 1958, addressed to the Comptroller under the he
 [^16]: Jo Thomas, "Extent of University Work for C.I.A. Is Hard to Pin Down," *The New York Times*, October 9, 1977 (dateline Washington, October 8). CIA reading room copy: https://www.cia.gov/readingroom/document/cia-rdp88-01315r000300390007-3 ; archive.org copy: https://archive.org/details/cia-readingroom-document-cia-rdp88-01315r000300390007-3 .
 [^17]: Patrick Oster, "CIA Envisioned Soviet Scientists as U.S. Agents," Chicago Sun-Times, reprinted in the Washington Post, September 11, 1977, p. A-9, CIA reading room document CIA-RDP88-01315R000400460003-8. https://archive.org/details/cia-readingroom-document-cia-rdp88-01315r000400460003-8
 [^18]: CIA, memorandum for the Comptroller, "MKULTRA, Subproject No. 90," November 18, 1958, CIA reading room document 00017493. https://archive.org/details/cia-readingroom-document-00017493
+[^19]: Marks, John. *The Search for the "Manchurian Candidate": The CIA and Mind Control*. London: Allen Lane, 1979, p. 156.

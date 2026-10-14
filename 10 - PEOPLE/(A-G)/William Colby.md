@@ -52,6 +52,10 @@ On April 27, 1996, Colby disappeared from his weekend home in Rock Point, Maryla
 
 William E. Colby served as the Director of the [[Central Intelligence Agency|CIA]] from 1973 to 1976. He shared the assumption that [[Israel]] had a few nuclear weapons and that if there was a collapse during the 1973 [[Yom Kippur War]], there was a possibility that Israel would use them. Colby believed that nuclear weapons would be used "only in an extreme situation."[^6]
 
+### Katharine Graham's 1973 inquiry
+
+In November 1973 [[Katharine Graham]], publisher of the [[Washington Post]], telephoned Colby to ask whether any Post stringers or staff members were associated with the CIA. Colby assured her that no staff members were employed by the Agency, but he refused to discuss the question of stringers.[^7]
+
 ### Footnotes
 
 [^1]: Powers, Thomas. *The Man Who Kept the Secrets: Richard Helms and the CIA*. Knopf, 1979. Hersh, Seymour M. "Huge C.I.A. Operation Reported in U.S. Against Antiwar Forces." New York Times, December 22, 1974.
@@ -60,3 +64,4 @@ William E. Colby served as the Director of the [[Central Intelligence Agency|CIA
 [^4]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.
 [^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion*. Seven Stories Press, 1998. Ch. 9.
 [^6]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 17.
+[^7]: Bernstein, Carl. "The CIA and the Media," *Rolling Stone*, October 20, 1977, section on the Washington Post Company. https://web.archive.org/web/2012/http://www.carlbernstein.com/magazine_cia_and_media.php

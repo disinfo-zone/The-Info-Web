@@ -6,12 +6,12 @@ tags:
   - CubanExiles
   - Extremism
   - StandardOil
-summary: "The state across the Hudson from New York, in the vault the base of the Cuban Nationalist Movement, the paper home of a sham church used by a child-abuse ring, Standard Oil's corporate seat, and a breeding ground of the Terrorgram and 764 cases."
+summary: "State across the Hudson from New York, linked in the vault to the Cuban Nationalist Movement, a sham church used by a child-abuse ring, Standard Oil's corporate seat, and the Terrorgram and 764 cases."
 created: 2026-09-22
 updated: 2026-09-22
 ---
 
-New Jersey lies between [[New York City]] and [[Philadelphia]] and holds Princeton, Fort Dix, Picatinny Arsenal, Teterboro Airport and the corporate seat of Standard Oil of New Jersey, "later Exxon," whose "extensive holdings in [[Venezuela]] and across [[Latin America]] made the region central to the [[Rockefeller family|Rockefeller family]]'s interests," [[Nelson Rockefeller]] joining the board of its subsidiary Creole Petroleum in the 1930s; in June 1954 [[John Foster Dulles]] told his brother that Standard Oil of New Jersey executives had met Allen "about 'the small country down south,'" [[Guatemala]]. In March 1964 the authorizations for Operation Brother Sam included "assembly of 110 tons of ammunition in New Jersey" for the Brazilian coup, after which "Standard Oil of New Jersey obtained new Amazon concessions."[^1]
+New Jersey lies between [[New York City]] and [[Philadelphia]] and holds Princeton, Fort Dix, Picatinny Arsenal, Teterboro Airport and the corporate seat of Standard Oil of New Jersey, "later Exxon," whose "extensive holdings in [[Venezuela]] and across [[Latin America]] made the region central to the [[Rockefeller family|Rockefeller family]]'s interests," [[Nelson Rockefeller]] joining the board of its subsidiary Creole Petroleum in the 1930s; in June 1954 [[Allen Dulles]] told his brother [[John Foster Dulles]] that he was seeing Standard Oil of New Jersey men that morning about "the small country down south," [[Guatemala]]. In March 1964 the authorizations for Operation Brother Sam included "assembly of 110 tons of ammunition in New Jersey" for the Brazilian coup, after which "Standard Oil of New Jersey obtained new Amazon concessions."[^1]
 
 ### The Cuban Nationalist Movement
 

@@ -7,7 +7,7 @@ tags:
   - Counterinsurgency
   - SouthVietnam
   - USArmy
-summary: "A South Vietnamese government defection program running throughout the Vietnam War that offered amnesty to Viet Cong and North Vietnamese soldiers who surrendered, and became the primary distribution channel for US psychological operations leaflets and loudspeaker broadcasts."
+summary: "South Vietnamese defection and amnesty program of the Vietnam War, the main channel for US psychological operations leaflets and loudspeaker broadcasts aimed at Viet Cong and North Vietnamese soldiers."
 location: South Vietnam
 created: 2026-06-04
 updated: 2026-06-04
@@ -28,7 +28,7 @@ Chieu Hoi surrender tapes formed the second phase of [[Operation Tintinnabulatio
 
 ### Research Foundation
 
-The [[Operations Research Office]] at [[Johns Hopkins University]] and the [[Rand Corporation]]'s Viet Cong Motivation and Morale Study conducted in the mid-1960s both examined the psychological and social conditions that made defection more or less likely. The Rand study, which interviewed approximately 450 captured personnel through 1965, focused specifically on identifying weaknesses and vulnerabilities in Viet Cong commitment that could be exploited through psyops programs including Chieu Hoi.[^1]
+The [[Operations Research Office]] at [[Johns Hopkins University]] studied psychological and social conditions among communist soldiers during the Korean War, and the [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, conducted in the mid-1960s, examined the same conditions in Vietnam.[^2] The Rand study, which interviewed approximately 450 captured personnel through 1965, focused specifically on identifying weaknesses and vulnerabilities in Viet Cong commitment that could be exploited through psyops programs including Chieu Hoi.[^1] ORO was dissolved in June 1961 and its research program passed to the Research Analysis Corporation on September 1, 1961.[^2]
 
 ### Defection Process Scholarship
 
@@ -37,3 +37,4 @@ The five-phase defection model described by O'Brien drew on earlier Korean War-e
 ### Footnotes
 
 [^1]: Peter Watson, *War on the Mind: The Military Uses and Abuses of Psychology*. Basic Books, 1978. pp. 388-416 (Ch. 21, Ch. 22).
+[^2]: U.S. Congress, Office of Technology Assessment, "A History of the Department of Defense Federally Funded Research and Development Centers," OTA-BP-ISS-157, June 1995, p. 21. https://web.archive.org/web/2016id_/https://www.princeton.edu/~ota/disk1/1995/9501/950106.PDF

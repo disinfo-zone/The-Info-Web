@@ -11,7 +11,7 @@ tags:
   - NationalCongressionalClub
   - FairnessInMedia
   - NewRight
-summary: "Raleigh lawyer who ran Jesse Helms's political organization, sat on the Pioneer Fund board, took its money for his television foundation, organized a bid for CBS, and lost a Reagan nomination over his record on race."
+summary: "Raleigh lawyer who ran Jesse Helms's political organization, sat on the Pioneer Fund board, organized a bid for CBS, and lost a Reagan nomination over his record on race."
 location: "Raleigh, North Carolina"
 created: 2026-09-21
 updated: 2026-09-21
@@ -29,7 +29,7 @@ Ellis joined the board of the [[Pioneer Fund]] in 1973, with the Kinston lawyer 
 
 ### The 1983 Nomination
 
-Reagan nominated Ellis on February 8, 1983, to the [[Board for International Broadcasting]], which supervised [[Radio Free Europe]] and [[Radio Liberty]]. Forbes was nominated to the same board. At the hearing of the [[Senate Foreign Relations Committee]] on July 26, where his chief critics were Senators [[Paul Tsongas]] and [[Joe Biden|Joseph Biden]], he was challenged on his service on the board of "a group financing studies into theories that whites are genetically superior to blacks," his membership in an all-white country club, a letter circulated in 1976 claiming that President [[Gerald Ford|Ford]] was seeking a black running mate, and a visit to [[South Africa]] paid for by its government. He told the committee: "I do not believe in my heart that I'm a racist." A majority of the committee asked the president to withdraw the name. On July 28 Ellis asked to be withdrawn, in a letter on his firm's stationery distributed by a Helms aide, calling the criticism "an obvious partisan political effort to drive a wedge between you and the black community using me as the instrumentality." He hoped the board would continue to "broadcast the tenets of Christian belief" without "interference from some of those in public office who do not recognize the threat of communist world domination." Reagan replied that he had "acted in a manner consistent with the reputation for honor that you have always possessed." The nomination lapsed on August 4.[^5][^6]
+Reagan nominated Ellis on February 8, 1983, to the [[Board for International Broadcasting]], which supervised [[Radio Free Europe]] and [[Radio Liberty]]. Forbes was nominated to the same board; the White House announced the nomination of Malcolm Forbes, Jr. (Steve Forbes) on May 16, 1983, in a slate with Clair W. Burgener, [[Lane Kirkland]], Arch L. Madsen and [[James A. Michener]].[^5] At the hearing of the [[Senate Foreign Relations Committee]] on July 26, where his chief critics were Senators [[Paul Tsongas]] and [[Joe Biden|Joseph Biden]], he was challenged on his service on the board of "a group financing studies into theories that whites are genetically superior to blacks," his membership in an all-white country club, a letter circulated in 1976 claiming that President [[Gerald Ford|Ford]] was seeking a black running mate, and a visit to [[South Africa]] paid for by its government. He told the committee: "I do not believe in my heart that I'm a racist." A majority of the committee asked the president to withdraw the name. On July 28 Ellis asked to be withdrawn, in a letter on his firm's stationery distributed by a Helms aide, calling the criticism "an obvious partisan political effort to drive a wedge between you and the black community using me as the instrumentality." He hoped the board would continue to "broadcast the tenets of Christian belief" without "interference from some of those in public office who do not recognize the threat of communist world domination." Reagan replied that he had "acted in a manner consistent with the reputation for honor that you have always possessed." The nomination lapsed on August 4.[^6][^7]
 
 Asked by [[New York Times|The New York Times]] in 2001 whether one race was genetically superior to another, Ellis said: "I have no idea."[^3]
 
@@ -39,5 +39,6 @@ Asked by [[New York Times|The New York Times]] in 2001 whether one race was gene
 [^2]: Edsall, Thomas B., and David A. Vise. "CBS Fight a Litmus Test for Conservatives," *The Washington Post,* March 31, 1985, p. 1.
 [^3]: Southern Poverty Law Center, "From eugenics to voter ID laws: Thomas Farr's connections to the Pioneer Fund," *Hatewatch,* December 4, 2017.
 [^4]: Mehler, Barry, comp. "Pioneer Fund Grants, 1971-1996," Institute for the Study of Academic Racism, compiled from Internal Revenue Service Forms 990; Mahler, Jonathan. "Forbes Waffles on Ellis; Brooks Blasts Buchanan," *The Forward,* February 1996.
-[^5]: United Press International, dispatch on the withdrawal of Thomas Ellis, Washington, July 28, 1983.
-[^6]: United States Senate, nomination PN59-1, Thomas F. Ellis, Board for International Broadcasting, 98th Congress. https://www.congress.gov/nomination/98th-congress/59/1
+[^5]: Ronald Reagan, "Nomination of Five Members of the Board for International Broadcasting," May 16, 1983, The American Presidency Project. https://www.presidency.ucsb.edu/node/262151
+[^6]: United Press International, dispatch on the withdrawal of Thomas Ellis, Washington, July 28, 1983.
+[^7]: United States Senate, nomination PN59-1, Thomas F. Ellis, Board for International Broadcasting, 98th Congress. https://www.congress.gov/nomination/98th-congress/59/1
