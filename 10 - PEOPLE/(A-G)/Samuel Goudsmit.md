@@ -11,6 +11,7 @@ summary: "Samuel Goudsmit was a Dutch-American nuclear physicist who served as t
 born: 1902-07-11
 died: 1978-12-04
 location: "The Hague, Netherlands"
+updated: 2026-10-14
 ---
 
 Samuel Goudsmit was a Dutch-American nuclear physicist who served as the scientific head of [[Operation Alsos]], an elite U.S. scientific intelligence effort during [[World War II]]. The mission of Operation Alsos was to investigate the German nuclear energy project and to prevent German scientific and technological knowledge from falling into Soviet hands[^1].
@@ -19,5 +20,9 @@ In July 1945, after the defeat of [[Nazi Germany]], Goudsmit and his team sought
 
 Goudsmit emphasized the critical importance of preventing the Ahnenerbe's supernatural secrets from becoming part of the [[Cold War]] arms race. He ensured that the Ahnenerbe relics were crated up and sent to U.S. Army headquarters in Frankfurt[^1].
 
+Goudsmit wrote that when [[Boris Pash]] and a general entered the Hechingen office of [[Werner Heisenberg]], the first thing they saw was a photograph of Heisenberg and Goudsmit standing side by side, taken when Heisenberg was Goudsmit's guest, and that Pash later took six men to Urfeld, south of Munich, to take Heisenberg.[^2]
+
 ### Footnotes
+
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: Goudsmit, Samuel A. *Alsos*. Woodbury, N.Y.: American Institute of Physics Press, 1996 (first published New York: Henry Schuman, 1947), pp. 99 and 111.

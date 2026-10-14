@@ -2,7 +2,7 @@
 title: "Read and Destroy"
 date: 2026-10-14
 status: published
-summary: "Ten weeks after the bankruptcy judge who found that the Justice Department stole INSLAW's software ruled, an unsigned memorandum marked 'read and destroy' ranked him last among the finalists for his own seat, which went to a Justice Department tax lawyer who had supervised the INSLAW tax work."
+summary: "An unsigned memorandum marked 'read and destroy' disparaged the judge who found that the Justice Department stole INSLAW's software; his seat went to a Justice Department tax lawyer."
 entities:
   - "[[George Francis Bason, Jr.]]"
   - "[[INSLAW]]"

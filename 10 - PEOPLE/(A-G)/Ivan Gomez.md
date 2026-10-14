@@ -4,7 +4,7 @@ aliases:
   - Ivan Gomez
   - Iván Gómez
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-14
 category: "Intelligence & Government"
 tags:
   - Person
@@ -22,9 +22,9 @@ summary: "Pseudonym of a Venezuelan CIA contract agent who handled logistics on 
 
 In April or May 1982, [[Horacio Pereira]] and [[Troilo Sanchez|Troilo Sánchez]] introduced Carlos Cabezas to Gómez at a San José hotel. Gómez told Cabezas he was with the CIA - the agency's "man in Costa Rica" - and was there to "ensure that the profits from the cocaine went to the Contras and not into someone's pocket." Cabezas saw Gómez only once more, in late summer 1982, when he was met at the San José airport by Pereira and the CIA agent, but Gómez did not speak during the second meeting.[^2]
 
-### CIA Confirmation
+### Clarridge and the Inspector General
 
-Former CIA official [[Dewey Clarridge]], who headed the Contra project from 1981 to 1984, told a British television crew in late 1996 he had never heard of Iván Gómez. The 1998 CIA Inspector General's report, however, confirmed that an agent using the name "Iván Gómez" was assigned to Costa Rica in 1982 as the CIA's liaison to the Costa Rican Contra armies.[^2]
+Former CIA official [[Dewey Clarridge]], who headed the Contra project from 1981 to 1984, told a British television crew in late 1996 he had never heard of Iván Gómez. Webb wrote that an agent using the name "Iván Gómez" was assigned to Costa Rica in 1982 as the CIA's liaison to the Costa Rican Contra armies.[^2] The 1998 CIA Inspector General's report stated that CIA records show a CIA independent contractor used the alias "Ivan Gomez" in Costa Rica in the 1980s, that the contractor's physical description differs significantly from the one Cabezas gave, that CIA records place the contractor in the United States during April and May 1982 when Cabezas placed the meeting, and that the contractor denied meeting Cabezas.[^3]
 
 Gómez, a former Venezuelan military officer, admitted during CIA-administered polygraph tests in 1987 that he had been involved in laundering funds for drug dealers in March or April 1982, but claimed the drug dealers were relatives. The CIA Inspector General dismissed Cabezas's story as an invention, suggesting the timing didn't match, but the report failed to explain how a San Francisco cocaine dealer could accurately identify the alias of an undercover CIA agent stationed in Costa Rica, describe his role precisely, and pinpoint to within 30 days the period when the agent admitted laundering drug money.[^2]
 
@@ -38,3 +38,4 @@ Gómez married the former girlfriend of Meneses lieutenant [[Marcos Aguado]] and
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Cast of Characters
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 5: "God, Fatherland and Freedom"
+[^3]: CIA Office of Inspector General, Report of Investigation Concerning Allegations of Connections Between CIA and the Contras in Cocaine Trafficking to the United States, Volume I, January 29, 1998, findings on Carlos Cabezas and "Ivan Gomez." https://irp.fas.org/cia/product/cocaine/findings2.html

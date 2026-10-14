@@ -13,6 +13,13 @@ tags:
   - u.s.-government
   - contra-war
 summary: Oliver North's courier in Central America whose phone number was found aboard a drug-seized Contra supply plane.
+relations:
+  - type: partner_of
+    with: "[[Oliver North]]"
+    role: "courier for North's Central American network"
+    start: 1985
+    fn: 6
+updated: 2026-10-14
 ---
 
 Robert Owen was [[Oliver North]]'s courier in [[Central America]] during the Contra war, serving as a key link in North's illegal resupply operation.[^1]
@@ -37,7 +44,11 @@ Rob Owen was Oliver North's courier and liaison to the Contra leadership who rep
 
 ### Reports on Drug Trafficking
 
-Owen reported to North that a DC-6 owned by [[Mario Calero]], brother of [[FDN]] leader Adolfo Calero, which was being used for runs out of New Orleans, "is probably being used for drug runs into U.S." Owen also relayed information about [[Dagoberto Nunez|Dagoberto Nuñez]]'s intelligence-gathering operations against the Sandinistas. His memos to North documented the overlap between drug trafficking and the Contra supply chain, providing some of the most direct evidence that the [[National Security Council]] operation knowingly used drug-connected companies like [[SETCO]] and Hondu Carib Cargo for logistical operations.[^5]
+Owen reported to North that a DC-6 owned by [[Mario Calero]], brother of [[FDN]] leader Adolfo Calero, which was being used for runs out of New Orleans, "is probably being used for drug runs into U.S." Owen also relayed information about Dagoberto Nuñez's intelligence-gathering operations against the Sandinistas. His memos to North documented the overlap between drug trafficking and the Contra supply chain, providing some of the most direct evidence that the [[National Security Council]] operation knowingly used drug-connected companies like [[SETCO]] and Hondu Carib Cargo for logistical operations.[^5]
+
+### NHAO and Cash Couriers
+
+After the Nicaraguan Humanitarian Assistance Office was created in August 1985, North and [[Elliott Abrams]] persuaded [[Robert W. Duemling]], the office's director, to add Owen to the NHAO staff. Owen was North's Central American courier.[^6] The independent counsel's report records that Owen, in addition to handling traveler's checks for contra leaders, picked up and delivered $16,500 in cash.[^7]
 
 ### Footnotes
 
@@ -46,3 +57,5 @@ Owen reported to North that a DC-6 owned by [[Mario Calero]], brother of [[FDN]]
 [^3]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 17: "We're going to blow your fucking head off"
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 15.
 [^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 15, Ch. 7.
+[^6]: Walsh, Lawrence E. *Final Report of the Independent Counsel for Iran/Contra Matters*, vol. I, ch. 25, "Abrams, North and NHAO." https://irp.fas.org/offdocs/walsh/chap_25.htm
+[^7]: Walsh, *Final Report*, vol. I, ch. 14, description of the Enterprise couriers. https://irp.fas.org/offdocs/walsh/chap_14.htm

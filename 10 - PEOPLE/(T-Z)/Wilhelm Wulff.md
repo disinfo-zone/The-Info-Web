@@ -12,6 +12,7 @@ summary: "Wilhelm Wulff was a German astrologer who became a personal astrologer
 born: 1893-03-27
 died: 1979-06-09
 location: "Hamburg, Germany"
+updated: 2026-10-14
 ---
 
 Wilhelm Wulff was a German astrologer who became a personal astrologer to [[Heinrich Himmler]], the Reichsführer-SS. He was ensnared in "[[Special Action Hess]]" (Sonderaktion Heß), the mass arrest of astrologers and other occult practitioners initiated by [[Adolf Hitler]] following [[Rudolf Hess]]'s flight in 1941[^1].
@@ -26,4 +27,5 @@ Wulff also detailed how counterfeit astrological magazines, designed by the Alli
 *   *Zodiac and Swastika*
 
 ### Footnotes
-[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+
+[^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. New York: Little, Brown, 2017, p. 17, citing Wilhelm Wulff, *Zodiac and Swastika* (1973), p. 94.

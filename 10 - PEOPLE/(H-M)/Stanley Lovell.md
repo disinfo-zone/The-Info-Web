@@ -10,7 +10,7 @@ born: c. 1890
 died: c. 1976
 location: Boston, Massachusetts
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-14
 ---
 Stanley Lovell was a [[Cornell University|Cornell]] graduate, self-described "saucepan chemist," and Boston industrialist whom General [[William Donovan]] appointed to head [[Office of Strategic Services|OSS]] Research and Development and to serve as the secret agency's liaison with the government scientific community. A confident, energetic man with a particular knack for coming up with offbeat ideas and selling them to others, Lovell was an outspoken patriot who wrote in his diary shortly after [[Pearl Harbor]]: "As James Hilton said, 'Once at war, to reason is treason.' My job is clear, to do all that is in me to help America."[^1]
 
@@ -32,9 +32,11 @@ Lovell encouraged OSS behavioral scientists to find something that would offend 
 
 Lovell pursued multiple schemes to assassinate [[Adolf Hitler]]. He seized upon one of [[Walter Langer]]'s ideas, that Hitler might have feminine tendencies, and got permission to try to push the Führer over the gender line: "The hope was that his moustache would fall off and his voice become soprano." Lovell used the OSS agent network to try to slip female sex hormones into Hitler's food, but nothing apparently came of it. Nor was there any payoff to other schemes to blind Hitler permanently with mustard gas or to use a drug to exacerbate his suspected epilepsy. The main problem in all these operations, which were all tried, was getting Hitler to take the medicine. Failure of the delivery schemes also kept Hitler alive, as the OSS was simultaneously trying to poison him. Lovell later wrote that he "supplied now and then a carbamate or other quietus medication, all to be injected into der Führer's carrots, beets, or whatever."[^1]
 
+Lovell wrote that his "favorite attack on Adolf Hitler" was a glandular approach, that America's top diagnosticians and gland experts agreed with him that Hitler was close to the male-female line, and that a plan to place an OSS agent among the gardeners who supplied the vegetable garden at Berchtesgaden ended, as far as he could tell, with the gardener taking the money and discarding the syringes and medications.[^2]
+
 ### Hypnosis Proposal
 
-Lovell reasoned that a good way to kill Hitler would be to hypnotically control a German prisoner to hate the [[Gestapo]] and the Nazi regime and then give the subject a hypnotic suggestion to assassinate the Führer. The candidate would be let loose in [[Germany]] where he would take the desired action, "being under a compulsion that might not be denied." Lovell sought advice on whether this scheme would work from New York psychiatrist [[Lawrence Kubie]] and from the famed [[Menninger brothers]], Karl and William. The Menningers reported that the weight of the evidence showed hypnotism incapable of making people do anything they would not otherwise do. Equally negative, Dr. Kubie added that if a German prisoner had a logical reason to kill Hitler, he would not need hypnotism to motivate him.[^1]
+Lovell reasoned that a good way to kill Hitler would be to hypnotically control a German prisoner to hate the [[Gestapo]] and the Nazi regime and then give the subject a hypnotic suggestion to assassinate the Führer. The candidate would be let loose in [[Germany]] where he would take the desired action, "being under a compulsion that might not be denied." Lovell sought advice on whether this scheme would work from New York psychiatrist [[Lawrence Kubie]] and from the famed [[Menninger brothers]], Karl and William. The Menningers reported that the weight of the evidence showed hypnotism incapable of making people do anything they would not otherwise do. Equally negative, Dr. Kubie added that if a German prisoner had a logical reason to kill Hitler, he would not need hypnotism to motivate him.[^1][^2]
 
 ### The Gottlieb Continuity
 
@@ -43,3 +45,4 @@ Lovell reasoned that a good way to kill Hitler would be to hypnotically control 
 ### Footnotes
 
 [^1]: John D. Marks, *The Search for the Manchurian Candidate*, Chapter 1.
+[^2]: Lovell, Stanley P. *Of Spies and Stratagems*. Englewood Cliffs, N.J.: Prentice-Hall, 1963, pp. 84-85 and 89-90. https://archive.org/details/ofspiesstratagem0000stan
