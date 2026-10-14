@@ -8,7 +8,7 @@ tags:
   - INSLAW
 summary: "Robert H. Cain was a member of the original 1969 PROMIS design team and later joined INSLAW; no additional biographical details have been identified."
 ---
-Robert H. Cain was a member of the original 1969 team assembled to design the [[PROMIS|Prosecutor's Management Information System]], working under co-directors [[Joan E. Jacoby]] and [[Charles R. Work]] with project manager [[Bill Hamilton]] at [[Peat, Marwick, Mitchell & Co]]. He later joined [[INSLAW]] as a staff member. No additional biographical details have been identified.[^1]
+Robert H. Cain was a member of the original 1969 team assembled to design the [[PROMIS|Prosecutor's Management Information System]], working under co-directors [[Joan E. Jacoby]] and [[Charles R. Work]] with project manager [[Bill Hamilton]] at [[Peat, Marwick, Mitchell & Co]]. He later joined [[INSLAW]] as a staff member.[^1]
 
 ### Footnotes
 

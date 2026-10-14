@@ -1,18 +1,18 @@
 ---
 category: "Law Enforcement & Legal"
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-10-14
 tags:
   - Person
   - PROMIS
   - DoJ
   - Lawyer
-summary: "Richard Thornburgh (1932-2020) served as U.S. Attorney General from 1988 to 1991 under Presidents Reagan and Bush, succeeding Edwin Meese, and was named alongside Meese in the House Judiciary Committee's 1992 INSLAW report as having blocked or restricted congressional inquiries into the PROMIS software theft, ignored two court findings against the DOJ, and refused to seek appointment of an independent counsel."
+summary: "Richard Thornburgh (1932-2020) was U.S. Attorney General from 1988 to 1991, named with Edwin Meese in the House Judiciary Committee's 1992 INSLAW report as having blocked congressional inquiries and refused an independent counsel."
 born: 1932-07-16
 died: 2020-12-31
 location: "Pittsburgh, Pennsylvania"
 ---
-Richard Lewis Thornburgh was born July 16, 1932, in Pittsburgh, Pennsylvania. He earned a B.S. in engineering from [[Yale University]] in 1954 and an LL.B. from the University of Pittsburgh School of Law in 1957. He served as [[United States Attorney]] for the Western District of Pennsylvania from 1969 to 1975, appointed by President Nixon, and as Assistant Attorney General for the Criminal Division under President Ford from 1975 to 1977. He was elected Governor of Pennsylvania in 1978, serving two successive terms from January 16, 1979 to January 20, 1987 -- the first Republican to serve consecutive terms as Pennsylvania governor -- managing the March 1979 [[Three Mile Island]] nuclear incident during his first term. Richard Thornburgh died December 31, 2020, in Oakmont, Pennsylvania, at age 88.[^1]
+Richard Lewis Thornburgh was born July 16, 1932, in Pittsburgh, Pennsylvania. He earned a B.S. in engineering from [[Yale University]] in 1954 and an LL.B. from the University of Pittsburgh School of Law in 1957. He served as [[United States Attorney]] for the Western District of Pennsylvania from 1969 to 1975, appointed by President Nixon, and as Assistant Attorney General for the Criminal Division under President Ford from 1975 to 1977. He was elected Governor of Pennsylvania in 1978, serving two successive terms from January 16, 1979 to January 20, 1987, the first Republican to serve consecutive terms as Pennsylvania governor, managing the March 1979 [[Three Mile Island]] nuclear incident during his first term. Richard Thornburgh died December 31, 2020, in Oakmont, Pennsylvania, at age 88.[^1]
 
 ### Attorney General
 
@@ -22,9 +22,9 @@ On August 12, 1988, Thornburgh was sworn in as Attorney General of the United St
 
 The [[House Committee on the Judiciary|House Judiciary Committee]]'s September 1992 investigation (House Report 102-857) named both Meese and Thornburgh as the two Attorneys General who had "blocked or restricted congressional inquiries into the matter, ignored the findings of two courts and refused to ask for the appointment of an independent counsel" in connection with the alleged theft of [[INSLAW]]'s [[PROMIS]] software.[^2]
 
-The two court findings at issue were Bankruptcy Judge [[George Francis Bason Jr.]]'s 1987 ruling that the [[Department of Justice]] had stolen PROMIS from INSLAW "tainted by fraud, deceit and overreaching," and the District Court's 1988 affirmance of that ruling on appeal.
+The two court findings at issue were Bankruptcy Judge [[George Francis Bason Jr.]]'s 1987 ruling that the [[Department of Justice]] had stolen PROMIS from INSLAW "tainted by fraud, deceit and overreaching," and the District Court's 1989 affirmance of that ruling on appeal.[^5]
 
-Thornburgh declined to reverse Meese's May 1988 denial of [[Bill Hamilton]] and [[Nancy Hamilton|INSLAW]]'s petition for appointment of an independent counsel under the Ethics in Government Act. [[Elliott Richardson]], INSLAW's attorney and himself a former Attorney General, wrote Thornburgh directly requesting the appointment; Thornburgh did not respond. When the House Judiciary Committee requested Thornburgh's personal testimony on the matter, he declined to appear. When the committee issued subpoenas for hundreds of DOJ internal documents -- including documents from the files of DOJ counsel Sandra Spooner that the committee alleged had been "mysteriously disappeared" -- Thornburgh's DOJ failed to produce all subpoenaed documents, asserting some had been mislaid or accidentally destroyed and claiming the remainder were protected by litigation privilege as part of DOJ's ongoing civil dispute with INSLAW.[^2][^3]
+Thornburgh declined to reverse Meese's May 1988 denial of [[Bill Hamilton]] and [[Nancy Hamilton|INSLAW]]'s petition for appointment of an independent counsel under the Ethics in Government Act. [[Elliott Richardson]], INSLAW's attorney and himself a former Attorney General, wrote Thornburgh directly requesting the appointment; Thornburgh did not respond. When the House Judiciary Committee requested Thornburgh's personal testimony on the matter, he declined to appear. When the committee issued subpoenas for hundreds of DOJ internal documents (including documents from the files of DOJ counsel Sandra Spooner that the committee alleged had been "mysteriously disappeared"), Thornburgh's DOJ failed to produce all subpoenaed documents, asserting some had been mislaid or accidentally destroyed and claiming the remainder were protected by litigation privilege as part of DOJ's ongoing civil dispute with INSLAW.[^2][^3]
 
 ### The BNL Indictment
 
@@ -42,3 +42,4 @@ After leaving the Senate race, Thornburgh was appointed UN Under-Secretary Gener
 [^2]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^3]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
 [^4]: Friedman, Alan. *Spider's Web: The Secret History of How the White House Illegally Armed Iraq*. Bantam, 1993, pp. 183-189, 194, 198.
+[^5]: *United States v. INSLAW, Inc.*, 113 B.R. 802 (D.D.C. Nov. 22, 1989). https://cite.case.law/br/113/802/

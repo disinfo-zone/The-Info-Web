@@ -11,7 +11,7 @@ born: 1893-05-13
 died: 1988-06-23
 location: Cambridge, Massachusetts
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-14
 ---
 Henry "Harry" Murray was a [[Harvard University|Harvard]] psychology professor who, in 1938, wrote *Explorations of Personality*, a notable book laying out a battery of tests for evaluating individuals. General [[William Donovan]] recruited Murray to create an assessment system for the [[Office of Strategic Services|OSS]] to sort through the masses of recruits being rushed through training. The program's prime objective, according to Murray, was keeping out the "loonies," as well as "sloths, irritants, bad actors, and free talkers." "Spying is attractive to loonies," Murray stated. "Psychopaths, who are people who spend their lives making up stories, revel in the field."[^1]
 
@@ -31,6 +31,14 @@ The OSS assessment program was recognized as a milestone in American psychology,
 
 In the postwar years, Murray would be superseded by a young [[Oklahoma]] psychologist, [[John Gittinger]], who would rise in the [[CIA]] on the strength of his ideas about how to make a hard science out of personality assessment and how to use it to manipulate people. Gittinger would build an office within the Agency that refined both Murray's assessment function and [[Walter Langer]]'s indirect analysis of foreign leaders. Murray was not enthusiastic about the spinoffs from his work: "Some of the things done with it turn your stomach," he declared.[^1]
 
+### The Hitler Analysis, 1943
+
+In October 1943 Murray completed a confidential memorandum for the OSS, *Analysis of the Personality of Adolph Hitler*, with predictions of [[Adolf Hitler]]'s future behavior and suggestions for dealing with him now and after Germany's surrender.[^2] Murray wrote that Hitler's neurotic spells would increase in frequency and duration, and that there was some evidence his mental powers had been deteriorating since November 1942. He considered it possible that the military command or a revolutionary faction might seize Hitler and immure him in a prison fortress, an outcome that would end the myth of the invincible hero.[^3] On suicide, Murray wrote that Hitler had often vowed to kill himself if his plans miscarried, but that if he chose that course he would do it at the last moment and in the most dramatic possible manner.[^4] In the closing sections Murray named insanity to some extent, dramatic suicide and death at the front as the outcomes that seemed most probable, on the assumption that Hitler's chief concern was the immortality of his legend.[^5]
+
 ### Footnotes
 
 [^1]: John D. Marks, *The Search for the Manchurian Candidate*, Chapter 1.
+[^2]: Murray, Henry A. *Analysis of the Personality of Adolph Hitler, with Predictions of His Future Behavior and Suggestions for Dealing with Him Now and after Germany's Surrender*. Harvard Psychological Clinic, October 1943. https://archive.org/details/AnalysisOfThePersonalityOfAdolphHitler. Same text in CIA Reading Room document 02617886.
+[^3]: Murray, *Analysis of the Personality of Adolph Hitler*, pp. 29-30. https://archive.org/details/AnalysisOfThePersonalityOfAdolphHitler
+[^4]: Murray, *Analysis of the Personality of Adolph Hitler*, pp. 31-32. https://archive.org/details/AnalysisOfThePersonalityOfAdolphHitler
+[^5]: Murray, *Analysis of the Personality of Adolph Hitler*, p. 33. https://archive.org/details/AnalysisOfThePersonalityOfAdolphHitler

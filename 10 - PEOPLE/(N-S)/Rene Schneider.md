@@ -16,7 +16,7 @@ summary: "Commander of the Chilean army who held that the military must respect 
 died: 1970-10-25
 location: "Santiago, Chile"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-14
 ---
 
 General René Schneider was commander in chief of the Chilean army from 1969. In an interview with [[El Mercurio]] on May 8, 1970, he stated that the army would respect the constitutional process and the outcome of that year's presidential election, a position that became known as the [[Schneider Doctrine]]. He was shot in [[Santiago]] on the morning of October 22, 1970, two days before the [[National Congress of Chile|Chilean Congress]] was to confirm [[Salvador Allende]], and died on October 25.[^1]
@@ -32,6 +32,8 @@ After Allende's plurality on September 4, Ambassador [[Edward Korry]] cabled tha
 On October 18 the station asked headquarters for "three 45 calibre machine guns (grease guns)" with "500 rounds ammo" for the group of General [[Camilo Valenzuela]] and raised the concern that the weapons might be "identified by serial numbers." They came by diplomatic pouch. The army attache, [[Paul Wimert]], delivered them at two in the morning on October 22, with authority to pay Valenzuela 50,000 dollars. Valenzuela's group had tried and failed to seize Schneider on October 19 and 20.[^1][^2]
 
 Six hours after the delivery Schneider's car was blocked on his way to work. He drew his pistol and was shot with handguns. A Chilean military court found that two groups of officers, active and retired, had conspired to kidnap him and bring about a coup, and "that the two Generals had been in contact throughout the coup plotting." Viaux was sentenced to twenty years as "intellectual author" of the attempt. Valenzuela was sentenced to three years in exile. Martial law was declared on the day of the shooting and Valenzuela was given command of Santiago province. The CIA's task force log recorded: "The attack on General Schneider has produced developments which closely follow Valenzuela's plan." Director [[Richard Helms]] concluded the next day that "a maximum effort has been achieved." The agency later paid 35,000 dollars to members of the group that had attacked Schneider. Wimert retrieved the machine guns and threw them into the Pacific. General [[Carlos Prats]] succeeded to the command.[^1][^3]
+
+CIA briefing notes prepared on October 23, 1970 under the heading "Track II" begin with the shooting, which occurred at about 8:15 that morning and left the commander seriously wounded.[^7] Briefing notes of October 28 state that the military principals in contact with the agency had depended on the abduction of Schneider, "probably by General Viaux, as the pretext needed to launch a coup."[^8]
 
 ### The Police Report
 
@@ -53,3 +55,5 @@ René and Raúl Schneider and other members of the family sued Kissinger and the
 [^4]: Hersh, Seymour M. *The Price of Power: Kissinger in the Nixon White House*. Summit Books, 1983, pp. 275, 289-290.
 [^5]: Kornbluh, Peter. *The Pinochet File: A Declassified Dossier on Atrocity and Accountability*. New Press, 2003, p. 29.
 [^6]: Schneider v. Kissinger, 310 F. Supp. 2d 251 (D.D.C. 2004), affirmed, 412 F.3d 190 (D.C. Cir. 2005); complaint, November 12, 2002, National Security Archive document 23606.
+[^7]: *Foreign Relations of the United States, 1969-1976*, Volume XXI, Chile, 1969-1973, document 162, Briefing Notes Prepared in the Central Intelligence Agency, Washington, October 23, 1970, "Track II." https://history.state.gov/historicaldocuments/frus1969-76v21/d162
+[^8]: *Foreign Relations of the United States, 1969-1976*, Volume XXI, document 168, Briefing Notes Prepared in the Central Intelligence Agency, Washington, October 28, 1970, "Recent Developments: Track II." https://history.state.gov/historicaldocuments/frus1969-76v21/d168

@@ -11,13 +11,15 @@ tags:
   - ElonMusk
   - ReidHoffman
   - MaxLevchin
-summary: "The PayPal Mafia is the informal network of founders and early executives of PayPal who, after the company's 2002 sale to eBay for 1.5 billion dollars, dispersed to found or lead the subsequent generation of Silicon Valley companies including YouTube, LinkedIn, Yelp, Palantir Technologies, Founders Fund, Tesla, SpaceX, and the convening network Dialog."
+summary: "The PayPal Mafia is the network of PayPal founders and early executives who after the 2002 eBay sale founded or led YouTube, LinkedIn, Yelp, Palantir, Founders Fund, Tesla, SpaceX and Dialog."
 location: "San Francisco Bay Area"
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-14
 ---
 
-The PayPal Mafia is the informal network of founders and early executives of [[PayPal]] who, after the company's 2002 sale to [[eBay]] for 1.5 billion dollars, dispersed to found or lead much of the subsequent generation of [[Silicon Valley]] companies. The cohort acquired the "Mafia" label as a recognizable social and commercial network whose members sit on each other's boards, invest in each other's ventures, and convene, through [[Dialog]], in the same off-the-record settings. Six members of the network appear on the leaked 2026 Dialog retreat roster, and the documented commercial, convening, ideological, and political infrastructure of the [[Thiel Influence Network]] runs substantially through the PayPal Mafia cohort.[^1][^2][^3]
+The PayPal Mafia is the informal network of founders and early executives of [[PayPal]] who, after the company's 2002 sale to [[eBay]] for 1.5 billion dollars, dispersed to found or lead much of the subsequent generation of [[Silicon Valley]] companies. The cohort acquired the "Mafia" label as a recognizable social and commercial network whose members sit on each other's boards, invest in each other's ventures, and convene, through [[Dialog]], in the same off-the-record settings. WIRED reported on June 16, 2026 that a leaked Dialog website directory names "six members of the Paypal Mafia," and the documented commercial, convening, ideological, and political infrastructure of the [[Thiel Influence Network]] runs substantially through the PayPal Mafia cohort.[^1][^2][^3]
+
+The company's registration statement of September 2001 lists Peter Thiel as chief executive and president since September 2000, Max Levchin as chief technology officer since March 2000, David Sacks as executive vice president of product and Reid Hoffman as executive vice president of business development, both since May 2000.[^6] Elon Musk, who had been chief executive of X.com from March to December 1999 and of PayPal from May to September 2000, was in May 2001 party to a separation agreement with the company as its former president and chief executive.[^6]
 
 ### The PayPal Period (1998-2002)
 
@@ -58,3 +60,4 @@ The cohort's internal political divergence has been documented across the 2016-2
 [^3]: Founders Fund, "Portfolio," documenting the firm's Palantir, SpaceX, Anduril, and Affirm positions; the firm was founded in 2005 by Thiel, Ken Howery, and Luke Nosek. https://foundersfund.com/portfolio/
 [^4]: "FBI whistleblower claims he tried to get to Musk to warn him he was being targeted by Russia." *The Guardian,* May 22, 2025. https://www.theguardian.com/us-news/ng-interactive/2025/may/22/fbi-whistleblower-musk-russia
 [^5]: "Statement by President-elect Donald J. Trump Announcing the Appointment of David O. Sacks as 'White House A.I. & Crypto Czar.'" December 5, 2024, archived at The American Presidency Project. https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-announcing-the-appointment-david-o-sacks-white
+[^6]: PayPal, Inc. Form S-1 registration statement, filed September 28, 2001, "Management" and "Certain Relationships" sections, and the footnotes to the executive compensation table. https://www.sec.gov/Archives/edgar/data/1103415/000091205701533855/a2059025zs-1.htm

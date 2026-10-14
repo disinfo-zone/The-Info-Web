@@ -9,7 +9,7 @@ tags:
   - Lawyer
   - Politician
   - DoJ
-summary: "Elliot Richardson served as U.S. Attorney General under Nixon before resigning during the Saturday Night Massacre, and later became INSLAW's lead outside counsel, declaring the PROMIS conspiracy 'far more sinister than anything revealed in Watergate' and publicly stating his belief that Danny Casolaro was murdered."
+summary: "Elliot Richardson was Nixon's Attorney General until he resigned during the Saturday Night Massacre, and later INSLAW's lead outside counsel, calling the PROMIS affair 'far more sinister than anything revealed in Watergate.'"
 born: 1920-07-20
 died: 1999-12-31
 location: "Boston, Massachusetts, USA"
@@ -26,7 +26,7 @@ Under President [[Gerald R. Ford|Ford]], Richardson served as U.S. Ambassador to
 
 ### INSLAW Representation
 
-Richardson was retained as outside counsel by [[INSLAW]] and [[Bill Hamilton|Bill]] and [[Nancy Hamilton]] following the September 1987 bankruptcy court ruling in which Judge [[George Francis Bason, Jr.|George Bason]] found that the [[Department of Justice]] had "taken, converted, stole" INSLAW's enhanced [[PROMIS]] software "by trickery, fraud, and deceit." By March 1989, Richardson was writing to Senate Judiciary Committee Chairman [[Joe Biden]] requesting assurances that DOJ whistleblowers who cooperated with congressional investigators would face no reprisals; Biden responded through an aide, and Richardson challenged the dismissal. Richardson subsequently championed the [[House Committee on the Judiciary|House Judiciary Committee]] investigation led by Representative Jack Brooks, which ran from 1989 through September 1992 and produced House Report 102-857.[^2][^3]
+Richardson was retained as outside counsel by [[INSLAW]] and [[Bill Hamilton|Bill]] and [[Nancy Hamilton]] following the September 1987 bankruptcy court ruling in which Judge [[George Francis Bason, Jr.|George Bason]] found that the [[Department of Justice]] "took, converted, stole" INSLAW's enhanced [[PROMIS]] software "by trickery, fraud, and deceit." By March 1989, Richardson was writing to Senate Judiciary Committee Chairman [[Joe Biden]] requesting assurances that DOJ whistleblowers who cooperated with congressional investigators would face no reprisals; Biden responded through an aide, and Richardson challenged the dismissal. Richardson subsequently championed the [[House Committee on the Judiciary|House Judiciary Committee]] investigation led by Representative Jack Brooks, which ran from 1989 through September 1992 and produced House Report 102-857.[^2][^3]
 
 In congressional testimony before the House Judiciary Committee, Richardson stated:
 

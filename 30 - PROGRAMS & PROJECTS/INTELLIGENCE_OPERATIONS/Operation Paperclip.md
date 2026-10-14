@@ -4,7 +4,7 @@ aliases:
   - Operation Paperclip
   - Paperclip
 created: 2026-05-14
-updated: 2026-10-12
+updated: 2026-10-14
 category: "Intelligence Operation"
 tags:
   - Program
@@ -28,9 +28,20 @@ relations:
     start: 1950-04-15
     role: "Fort Bliss group relocated to Redstone Arsenal"
     fn: 7
+  - type: participant_in
+    with: "[[World War II]]"
+    start: 1945-12-04
+    end: 1955-12-31
+    fn: 11
 ---
 
 Operation Paperclip was a classified U.S. government program that systematically recruited German and Austrian scientists, engineers, physicians, and technical specialists from the defeated Third Reich beginning in the summer and fall of 1945. Operated by the [[Joint Intelligence Objectives Agency]] (JIOA), established in 1945 as a subcommittee of the Joint Intelligence Committee of the [[Joint Chiefs of Staff]] and disbanded in 1962,[^1] which worked closely with the [[Office of Strategic Services|OSS]] and later the [[Central Intelligence Agency|CIA]], the program brought over 1,600 technical specialists to the United States to work for American military, intelligence, and civilian agencies during the critical period of the emerging [[Cold War]] and the American aerospace and weapons development programs.[^2]
+
+### Recruitment Figures and the 1945 Origins
+
+The Commerce Department proposed the importation of German scientists before the Pentagon program existed. On December 4, 1945, Secretary of Commerce [[Henry A. Wallace]] wrote to [[Harry S. Truman]] recommending the importation of a selected group of about 50 German scientists, and named [[Otto Hahn]], a former director of the Kaiser Wilhelm Institute for Chemistry, and Dr. W. J. Reppe, director of research of [[I.G. Farbenindustrie]], among the men available.[^11]
+
+The Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group counts 765 scientists, engineers and technicians brought to the United States between 1945 and 1955 under Operation Overcast, Operation Paperclip and similar programs. The Working Group cites [[Clarence Lasby]] for the estimate that up to 80 percent of the immigrant specialists had been members of the Nazi Party.[^12] The figure of over 1,600 given above is [[Annie Jacobsen]]'s count.[^13] Jacobsen writes that a JIOA directive of September 3, 1946 required the State Department to "accept as final the investigation and security reports prepared by JIOA," and that the Office of Military Government sent the War Department 146 security reports that could create scandals if disclosed, among them the report on the rocket engineer [[Kurt Debus]].[^13]
 
 ### Origins and the German Science Race
 
@@ -40,7 +51,7 @@ American forces operating under [[Operation Alsos]] raced German-held scientific
 
 ### Authorization and the Nazi Problem
 
-[[Annie Jacobsen]] wrote that President [[Harry S. Truman|Truman]]'s initial directive specifically prohibited the recruitment of "ardent Nazis."[^2] In practice, the JIOA systematically circumvented this prohibition: the records and backgrounds of scientists with disqualifying Nazi party membership, [[SS]] membership, or wartime conduct were altered before they were reviewed by the State Department and other agencies for security clearances. This process - which amounted to the systematic falsification of government records - was documented in Annie Jacobsen's 2014 investigation and in declassified JIOA files.
+Annie Jacobsen wrote that President Truman's initial directive specifically prohibited the recruitment of "ardent Nazis."[^2] In practice, the JIOA systematically circumvented this prohibition: the records and backgrounds of scientists with disqualifying Nazi party membership, [[SS]] membership, or wartime conduct were altered before they were reviewed by the State Department and other agencies for security clearances. This process - which amounted to the systematic falsification of government records - was documented in Annie Jacobsen's 2014 investigation and in declassified JIOA files.
 
 Von Braun, who was an SS officer and member of the Nazi party, had his records altered to enable his employment. [[Arthur Rudolph]], who had used slave labor from the Mittelbau-Dora concentration camp in V-2 production - where approximately 20,000 prisoners died - was recruited and later directed the Saturn V rocket program for [[NASA]] before his Nazi-era conduct was investigated in the 1980s and he agreed to renounce U.S. citizenship and return to Germany. [[Hubertus Strughold]], the Luftwaffe aviation medicine physician who became "the father of U.S. space medicine," had participated in or overseen human experiments at the Dachau concentration camp; his records were altered before his recruitment.[^2]
 
@@ -78,3 +89,6 @@ The Soviet Union's parallel program produced the Soviet space and missile progra
 [^8]: U.S. Army, Redstone Arsenal Historical Information, "1953," entry for 20 August 1953. https://history.redstone.army.mil/ihist-1953.html
 [^9]: Annie Jacobsen, *Operation Paperclip*. Little, Brown, 2014; "What Cold War CIA Interrogators Learned from the Nazis," *The Daily Beast*, 2014; Curt Rowlett, "Project Mind Kontrol," *Steamshovel Press* #16, 1998.
 [^10]: Lasby, Clarence G. *Project Paperclip: German Scientists and the Cold War.* Atheneum, 1971.
+[^11]: Memorandum from Secretary of Commerce Henry A. Wallace to President Truman, "Proposed Importation of German Scientists for U.S. Science and Industry Benefit," December 4, 1945, Harry S. Truman Library, Paperclip document set (FOIA release printed April 21, 2009). https://documents2.theblackvault.com/documents/trumanlibrary-paperclip.pdf
+[^12]: Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group, *Final Report to Congress* (April 2007), pp. 14-15 (765 count and Lasby estimate at p. 15). https://www.archives.gov/files/iwg/reports/final-report-2007.pdf
+[^13]: Annie Jacobsen, *Operation Paperclip: The Secret Intelligence Program That Brought Nazi Scientists to America* (Little, Brown, 2014), introduction ("more than sixteen hundred of Hitler's technologists") and chapters on the JIOA directive of September 3, 1946 and the 146 OMGUS security reports.

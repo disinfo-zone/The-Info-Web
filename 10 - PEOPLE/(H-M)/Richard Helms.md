@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-10-09
+updated: 2026-10-14
 title: Richard Helms
 aliases:
   - Richard McGarrah Helms
@@ -68,7 +68,7 @@ Separately, Helms authorized and expanded the CIA's psychic research program bas
 
 ### Chile: Covert Action and Congressional Perjury
 
-In September 1970, following the election of Socialist candidate Salvador Allende in [[Chile]], President Nixon instructed Helms in a meeting at the [[White House]] to conduct covert operations to prevent Allende from assuming the presidency. Nixon told Helms, in the presence of [[Henry A. Kissinger|Henry Kissinger]] and others, to "make the economy scream." Helms's notes from this meeting, preserved and later produced to investigators, confirmed: "One in 10 chance perhaps, but save Chile!... \$10,000,000 available, more if necessary... make the economy scream."
+In September 1970, following the election of Socialist candidate Salvador Allende in [[Chile]], President Nixon instructed Helms in a meeting at the [[White House]] to conduct covert operations to prevent Allende from assuming the presidency. At the White House meeting of September 15, 1970, attended by [[Henry A. Kissinger|Henry Kissinger]] and Attorney General [[John N. Mitchell]], Helms's notes record "1 in 10 chance perhaps, but save Chile!", "$10,000,000 available, more if necessary" and "game plan make the economy scream." The Church Committee wrote that Nixon instructed the CIA at that meeting to play a direct role in organizing a military coup.[^24][^25] In his August 12, 1975 testimony Kissinger said that at that meeting "President Nixon did almost all of the talking."[^26] On September 12, 1970, Kissinger told Helms by telephone that he was calling a [[40 Committee]] meeting for the following Monday, and said: "We will not let Chile go down the drain."[^27] A CIA memorandum for the record of September 16, 1970, "Genesis of Project FUBELT," records Helms telling CIA officials that "President Nixon had decided that an Allende regime in Chile was not acceptable to the United States."[^28]
 
 The CIA subsequently funded opposition media, political parties, and military factions. General [[Augusto Pinochet]] seized power in a coup on September 11, 1973 - the same year Helms was replaced as DCI and sent as U.S. Ambassador to [[Iran]].
 
@@ -129,3 +129,8 @@ The original 1978 filing with the [[Securities and Exchange Commission]] listed 
 [^21]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 11, "BCCI, the CIA and Foreign Intelligence" (the section on Richard Helms and Mohammed Irvani; text preceding notes 49 to 51). https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
 [^22]: Kerry and Brown, *The BCCI Affair,* ch. 11 (Safeer's name, its capitalization and the Carlson passages; text following note 51 through note 57; *G&H Montage GmbH v. Irvani*, Superior Court of Gwinnett County, Georgia, 88-A-03571-6). https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
 [^23]: Kerry and Brown, *The BCCI Affair,* ch. 6, "BCCI in the United States: Initial Entry" (Irvani listed in the original SEC filing as a 5 percent shareholder of CCAH; recruitment by Abedi in early 1978, note 49); ch. 11 (Helms's advice to Irvani on liability). https://irp.fas.org/congress/1992_rpt/bcci/06early.htm
+[^24]: U.S. Senate, Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Covert Action in Chile, 1963-1973*, Staff Report, December 1975, PDF pages 29 and 37. https://www.intelligence.senate.gov/sites/default/files/94chile.pdf
+[^25]: *Foreign Relations of the United States, 1969-1976*, Volume XXI, Chile, 1969-1973, document 93, Editorial Note, with Helms's notes. https://history.state.gov/historicaldocuments/frus1969-76v21/d93
+[^26]: Kissinger testimony of August 12, 1975, as quoted in *FRUS 1969-1976*, Volume XXI, document 93, Editorial Note: "President Nixon did almost all of the talking."
+[^27]: National Security Archive, "Kissinger and Chile: The Declassified Record on Regime Change," Electronic Briefing Book No. 437, document 1, Helms-Kissinger telephone conversation, September 12, 1970, 12:00 noon. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB437/
+[^28]: *Foreign Relations of the United States, 1969-1976*, Volume XXI, document 94, Memorandum for the Record, Washington, September 16, 1970. https://history.state.gov/historicaldocuments/frus1969-76v21/d94

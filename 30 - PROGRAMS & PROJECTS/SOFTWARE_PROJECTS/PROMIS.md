@@ -4,7 +4,7 @@ aliases:
   - PROMIS
   - Prosecutor's Management Information System
 created: 2024-04-25
-updated: 2026-10-12
+updated: 2026-10-14
 tags:
   - PROMIS
   - INSLAW
@@ -29,7 +29,9 @@ PROMIS (Prosecutor's Management Information System) was a pioneering case manage
 
 In 1969, US Attorney [[Thomas A. Flannery]] perceived an urgent need for new techniques for dealing with the overwhelming amount of cases going through the DC U.S. Attorney's Office. The [[Office of Crime Analysis of the District of Columbia]] (funded by the [[LEAA|Law Enforcement Assistance Administration]] (LEAA)) gave a $60,000 grant (70-DF-047) to [[Peat, Marwick, Mitchell & Co]] that put together a team of lawyers, management analysts, criminologists, statisticians, and computer science specialists to development a computer-based information system for the prosecutor.
 
-This team was headed by [[Joan E. Jacoby]] (then Director of the Office of Crime Analysis of the District of Columbia) and [[Charles R. Work]] (then Deputy Chief of the Superior Court Division of the U.S. Attorney's office) with project manager [[Bill Hamilton]] (senior consultant at Peat, Marwick, Mitchell & Co, formerly [[NSA]] analyst). Other team members included [[Sidney H. Brounstein]], [[Robert H. Cain]], [[Joyce H. Deroy]], [[James M. Etheridge]], [[John L. Gizzarelli]], [[Fred L. Lander III]], [[Soo Lee]], [[Dean C. Merrill]], [[John M. Middleton]], [[Stanley H. Turner]], [[Frederick G. Watts]], [[Dennis W. Wright]], and [[Robert Whitaker]]. The design work occupied approximately 14 months.
+This team was headed by [[Joan E. Jacoby]] (then Director of the Office of Crime Analysis of the District of Columbia) and [[Charles R. Work]] (then Deputy Director of the Superior Court Division of the U.S. Attorney's office) with project manager [[Bill Hamilton]] (senior consultant at Peat, Marwick, Mitchell & Co, formerly [[NSA]] analyst).[^12] The roster in the May 1971 system overview lists Etheridge, Lander, Lee and Turner as assistant directors of the Office of Crime Analysis and Watts as chief of the Grand Jury Section of the Superior Court Division.[^12] Other team members included [[Sidney H. Brounstein]], [[Robert H. Cain]], [[Joyce H. Deroy]], [[James M. Etheridge]], [[John L. Gizzarelli]], [[Fred L. Lander III]], [[Soo Lee]], [[Dean C. Merrill]], [[John M. Middleton]], [[Stanley H. Turner]], [[Frederick G. Watts]], [[Dennis W. Wright]], and [[Robert Whitaker]]. The design work occupied approximately 14 months.
+
+The Office of Crime Analysis described PROMIS as the critical component of its own Project TRACE (Tracking, Retrieval and Analysis of Criminal Events), an offender-tracking system from arrest through sentencing and incarceration, and the LEAA funded both TRACE and PROMIS.[^12]
 
 The system came to be known as the Prosecutor's Management Information System (PROMIS) and deployed on January 1, 1971 in Washington D.C. for the District Attorney's Office. 
 
@@ -82,7 +84,7 @@ In March 1982, INSLAW signed a $10 million, three-year contract with the [[Depar
 
 DOJ withheld advance payments citing an unauthorized pledge of government invoices to a bank, a dispute INSLAW characterized as pretextual. Under financial duress, INSLAW filed for Chapter 11 bankruptcy protection in February 1985. The bankruptcy proceedings became a second front of litigation: INSLAW alleged that senior DOJ officials, including [[Lowell Jensen]] and acting under direction ultimately traceable to [[Edwin Meese]] and [[Earl Brian]], engineered the advance payment disputes specifically to drive the company into insolvency and enable the acquisition of its software at bankruptcy auction prices.
 
-Bankruptcy Judge [[George Francis Bason, Jr.]] ruled in September 1987 that DOJ had "taken, converted, stole, INSLAW's enhanced PROMIS by trickery, fraud, and deceit." The district court affirmed this ruling in November 1989. The D.C. Circuit reversed it in May 1991 on jurisdictional grounds; the Supreme Court declined review. Full legal history is documented at INSLAW and PROMIS Software Scandal.[^2][^3]
+Bankruptcy Judge [[George Francis Bason, Jr.]] ruled in September 1987 that the Department of Justice "took, converted, stole, Inslaw's enhanced PROMIS by trickery, fraud, and deceit." The district court affirmed this ruling in November 1989. The D.C. Circuit reversed it in May 1991 on jurisdictional grounds; the Supreme Court declined review. Full legal history is documented at INSLAW and PROMIS Software Scandal.[^2][^3]
 
 ### Danny Casolaro and "The Octopus"
 
@@ -104,7 +106,7 @@ The witnesses central to the foreign-distribution claims were assessed as unreli
 
 ### Later Developments
 
-In September 1987, Bankruptcy Judge George Francis Bason, Jr. ruled that DOJ had "taken, converted, stole" INSLAW's enhanced PROMIS. That ruling was affirmed by the district court in November 1989 but reversed on jurisdictional grounds by the D.C. Circuit in May 1991. Bason's opinion of January 25, 1988, deferred damages for later determination; the award subsequently computed, given as about 6.8 million dollars, was reduced by 655,200 dollars on appeal, and he was not reappointed to the bankruptcy bench after his rulings against the department, an outcome the Hamiltons and congressional investigators viewed with suspicion; the district judge [[William Bryant]], upholding the findings in 1989, had described the support for them as convincing, perhaps compelling.
+In September 1987, Bankruptcy Judge George Francis Bason, Jr. ruled that the Department of Justice "took, converted, stole" INSLAW's enhanced PROMIS. That ruling was affirmed by the district court in November 1989 but reversed on jurisdictional grounds by the D.C. Circuit in May 1991. Bason's opinion of January 25, 1988, deferred damages for later determination; the award subsequently computed, given as about 6.8 million dollars, was reduced by 655,200 dollars on appeal, and he was not reappointed to the bankruptcy bench after his rulings against the department, an outcome the Hamiltons and congressional investigators viewed with suspicion; the district judge [[William Bryant]], upholding the findings in 1989, had described the support for them as convincing, perhaps compelling.
 
 The House Judiciary Committee launched a three-year investigation from 1989 to 1992, producing House Report 102-857 on September 10, 1992, which found "strong evidence" of DOJ theft and raised "serious concerns" about a high-level conspiracy. The report was unclassified and publicly available. Special Counsel [[Nicholas J. Bua]], appointed in November 1991, issued a 267-page report in March 1993 finding no credible evidence of criminal wrongdoing by any DOJ official. The Senate referred INSLAW's remaining claims to the Court of Federal Claims, which ruled in 1997-1998 that all PROMIS versions were in the public domain.
 
@@ -131,3 +133,4 @@ The attachments were a letter from Helen B. McEwan, Director of the Federal Soft
 [^9]: "PRISM's Controversial Forerunner," *Consortium News,* 2013, on PROMIS as a conceptual forerunner of bulk data integration and the unproven trapdoor narrative. https://consortiumnews.com/2013/07/11/prisms-controversial-forerunner/
 [^10]: Central Intelligence Agency, Office of Data Processing, Management Staff, memorandum ODP-81-307, "Federal Software Exchange Program," March 30, 1981, with Attachment A (letter of Helen B. McEwan, Director, Federal Software Exchange Program, General Services Administration), Standard Form 185 and instructions, and Attachment B, "Federal Software Exchange Catalog, September 1980, Subject Index," pp. SU-1 and SU-2, CIA-RDP84-00933R000200180033-7, approved for release October 31, 2006; 7-page PDF supplied by the vault owner and read on October 3, 2026 (memorandum text by text layer, index page SU-1 by image).
 [^11]: Emma Best, "Memo shows the CIA was offered PROMIS software in 1981," MuckRock, December 18, 2018, https://www.muckrock.com/news/archives/2018/dec/18/promis-81-memo/.
+[^12]: Peat, Marwick, Mitchell & Co., *System Overview and Report Formats for PROMIS* (May 1971), prepared for the District of Columbia Government Office of Crime Analysis under LEAA Grant No. 70-DF-047, note 1 to the passage on the design team, NCJ 32469. https://www.ojp.gov/pdffiles1/Digitization/32469NCJRS.pdf

@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-14
 title: George Hunter White
 aliases:
   - George Hunter White
@@ -16,10 +16,15 @@ tags:
   - 1950s
   - 1960s
 category: "Law Enforcement & Legal"
-summary: "George Hunter White was a Federal Bureau of Narcotics agent who operated the CIA's Operation Midnight Climax safe houses in San Francisco and New York City from 1955 to 1963, administering LSD to unwitting civilian subjects for Project MKULTRA while working under CIA contract."
+summary: "George Hunter White was a Federal Bureau of Narcotics agent who ran CIA safe houses of Operation Midnight Climax in San Francisco and New York, 1955 to 1963, dosing unwitting subjects with LSD for MKULTRA."
 born: 1908-01-01
 died: 1975-10-22
 location: "San Francisco, California"
+relations:
+  - type: employed_by
+    with: "[[Office of Strategic Services]]"
+    role: "Army lieutenant colonel attached to the OSS, counterespionage training and operations in India"
+    fn: 4
 ---
 
 George Hunter White (1908 - October 22, 1975) was a senior agent of the [[Federal Bureau of Narcotics]] who simultaneously operated as a [[Central Intelligence Agency|CIA]] contractor from the early 1950s through 1963, running [[Operation Midnight Climax]] - the CIA's program of administering [[LSD]] to unconsenting civilian subjects in safe houses in [[San Francisco]] and [[New York City]]. White managed these operations under the direction of [[Sidney Gottlieb]] of the CIA's [[Technical Services Division]] as part of [[Project MKUltra|MKULTRA]], the agency's classified behavioral research program. His personal diaries, discovered after his death during Freedom of Information Act research by journalist John Marks, provided the primary firsthand account of the Midnight Climax operations and are among the most revealing documents about MKULTRA's operational culture.[^1]
@@ -35,6 +40,12 @@ White was also a personal associate of [[J. Edgar Hoover]], director of the [[Fe
 ### OSS Truth Drug Work
 
 During [[World War II]] White came from the Narcotics Bureau into the [[Office of Strategic Services]], where he joined the truth drug committee's testing program run under [[Stanley Lovell]] in cooperation with the [[Manhattan Project]]. After early tests with vaporized [[marijuana]] at [[St. Elizabeth's Hospital]] in [[Washington, D.C.]] proved insufficient, the group settled on cigarettes laced with marijuana essence. White conducted the first field test on May 27, 1943, dosing New York mobster [[August Del Gracio]] on the reasoning that a criminal would never report the experiment to the police or press. He later tested the technique on suspected Communist soldiers at camps near [[Atlanta]], [[Memphis]], and [[New Orleans]], on one occasion shooting his initials into the ceiling molding of his New Orleans hotel room with a .22 automatic. The Del Gracio logic, that society's marginal people make ideal unwitting subjects because they cannot safely complain, was the principle Gottlieb later built the safe house program around.[^3]
+
+### Testimony on the Luciano Parole
+
+In 1951 the Senate's Special Committee to Investigate Organized Crime in Interstate Commerce heard testimony from George H. White, who gave his name as George H. White (the index reads "White, Col. George H., narcotics agent, United States Treasury"), a supervising narcotic agent with seventeen years of service, four of them with the Army. He testified that during the war he was a lieutenant colonel in charge of counterespionage training and later operations in India and parts of the United States, on active duty and attached to the OSS. He testified that in May 1943, while on active Army duty, an intermediary named August Del Grazio came to him on behalf of two attorneys, George Wolf and [[Moses Polakoff]], and of [[Frank Costello]], who were seeking the release of [[Charles Luciano]] from prison. Del Grazio said that Luciano could arrange contacts for undercover American agents in Sicily, and White told him that parole was impossible but that any information would be passed to the military authorities.[^4]
+
+White also testified that a letter from Commander [[Charles R. Haffenden]] of Naval Intelligence in New York to Governor Dewey, stating that Luciano had been of great service to the Armed Forces, was part of the basis for the 1946 parole. He reported that the Army, Navy, Marine Corps and OSS had each categorically denied that Luciano furnished any information.[^5]
 
 ### Recruitment by the CIA
 
@@ -73,3 +84,5 @@ White died before the August 3, 1977 Senate Health Subcommittee hearings at whic
 [^1]: Marks, John. *The Search for the Manchurian Candidate: The CIA and Mind Control.* Times Books, 1979, Chapters 5-6 (primary account of Midnight Climax using surviving MKULTRA documents and White's diaries). Kinzer, Stephen. *Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control.* Henry Holt and Company, 2019. "Project MKULTRA, the CIA's Program of Research in Behavioral Modification." Senate Hearing, August 3, 1977.
 [^2]: White, George Hunter. Diaries, 1940s-1970s. Special Collections, Foothill College Library, Los Altos Hills, California.
 [^3]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapters 1 and 6. The 1963 CIA Inspector General report allocated $10,000 a year to each of the two safe house cities "to cover cost of cultivation of targets and maintenance of a safehouse," and the Agency's auditors accepted canceled checks White cashed himself marked "Stormy" or "Undercover Agent."
+[^4]: U.S. Senate, *Investigation of Organized Crime in Interstate Commerce*, Hearings before the Special Committee to Investigate Organized Crime in Interstate Commerce, Part 7 (New York-New Jersey) (1951), testimony of George H. White, pp. 1180-1182. https://archive.org/details/investigationofo07unit
+[^5]: *Investigation of Organized Crime in Interstate Commerce*, Part 7, testimony of George H. White, p. 1183 (Haffenden letter; Navy and OSS denials as stated by the witness).

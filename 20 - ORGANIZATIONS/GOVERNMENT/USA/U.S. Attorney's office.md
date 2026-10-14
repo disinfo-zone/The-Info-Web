@@ -1,20 +1,20 @@
 ---
 category: "U.S. Government"
 created: 2024-04-26
-updated: 2026-05-01
+updated: 2026-10-14
 tags:
   - Organization
   - PROMIS
   - INSLAW
   - DoJ
-summary: "The U.S. Attorney's Office for the District of Columbia was the original client for the PROMIS case management software, commissioning the system in 1969 under U.S. Attorney Thomas A. Flannery and deploying it January 1, 1971; the EOUSA later signed the March 1982 implementation contract with INSLAW that became the central dispute in the PROMIS Software Scandal."
+summary: "The U.S. Attorney's Office for the District of Columbia commissioned PROMIS in 1969, deployed it January 1, 1971, and signed the March 1982 INSLAW implementation contract at the center of the PROMIS Software Scandal."
 location: "Washington, D.C."
 ---
 The U.S. Attorney's Office for the District of Columbia is the federal prosecutor's office responsible for both local criminal matters (unique among U.S. Attorneys' offices due to DC's non-state status) and federal crimes within the District. As used throughout the INSLAW files and the [[House Committee on the Judiciary|House Judiciary Committee]]'s PROMIS investigation, "the U.S. Attorney's Office" refers to this DC office unless otherwise specified.
 
 ### Role in PROMIS Development
 
-In 1969, U.S. Attorney [[Thomas A. Flannery]] perceived an urgent need for improved case management tools to handle the volume of cases flowing through the DC office. He directed the [[Office of Crime Analysis of the District of Columbia]] to commission a computerized case tracking system, funded by a $60,000 [[LEAA]] grant (70-DF-047) administered through [[Peat, Marwick, Mitchell & Co]]. The design team was co-directed by [[Joan E. Jacoby]] and [[Charles R. Work]] (then Deputy Chief of the office's Superior Court Division), with [[Bill Hamilton]] of Peat Marwick as project manager. The resulting system, the Prosecutor's Management Information System ([[PROMIS]]), was deployed January 1, 1971.[^1]
+In 1969, U.S. Attorney [[Thomas A. Flannery]] perceived an urgent need for improved case management tools to handle the volume of cases flowing through the DC office. He directed the [[Office of Crime Analysis of the District of Columbia]] to commission a computerized case tracking system, funded by a $60,000 [[LEAA]] grant (70-DF-047) administered through [[Peat, Marwick, Mitchell & Co]]. The design team was co-directed by [[Joan E. Jacoby]] and [[Charles R. Work]] (then Deputy Director of the office's Superior Court Division), with [[Bill Hamilton]] of Peat Marwick as project manager.[^1][^2] The resulting system, the Prosecutor's Management Information System ([[PROMIS]]), was deployed January 1, 1971.[^2]
 
 The DC office became the first PROMIS site and served as the demonstration platform for the system's national expansion. LEAA subsequently funded [[INSLAW]] to adapt PROMIS for adoption by other jurisdictions, and provided grants to municipalities converting to the system.[^1]
 
@@ -25,3 +25,4 @@ The [[Executive Office for United States Attorneys]] (EOUSA), which administers 
 ### Footnotes
 
 [^1]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
+[^2]: Peat, Marwick, Mitchell & Co., *System Overview and Report Formats for PROMIS* (May 1971), prepared for the District of Columbia Government Office of Crime Analysis under LEAA Grant No. 70-DF-047, note 1 to the passage on the design team, NCJ 32469. https://www.ojp.gov/pdffiles1/Digitization/32469NCJRS.pdf

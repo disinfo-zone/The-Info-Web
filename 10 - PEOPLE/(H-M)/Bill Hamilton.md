@@ -1,7 +1,7 @@
 ---
 category: "Technologists"
 created: 2024-04-25
-updated: 2026-10-12
+updated: 2026-10-14
 tags:
   - KeyFigure
   - Person
@@ -15,7 +15,7 @@ location: "Laude, Indiana"
 
 William A. Hamilton was born around 1940 and grew up in Laude, Indiana, where he was one of seven brothers. He graduated from Notre Dame with an English degree in 1962 and married [[Nancy Hamilton]] in 1963.[^1]
 
-Hamilton worked as an analyst and Vietnamese linguist for the [[NSA]] for seven years. In 1969, he left federal service and became a management consultant at [[Peat, Marwick, Mitchell & Co]]. He left the firm in 1971 to improve the software, which by contract rights belonged to the government. He then worked for eighteen months as an independent contractor for the U.S. Attorney's Office in D.C., and he then founded the [[INSLAW|Institute for Law and Social Research]].[^2][^3] He won a contract through a competitive bid to develop what would become [[PROMIS]], working under the direction of [[Joan E. Jacoby]] and [[Charles R. Work]] with [[LEAA|Law Enforcement Assistance Administration]] funding routed through the [[Office of Crime Analysis of the District of Columbia]]. The resulting software, the Prosecutor's Management Information System, debuted on January 1, 1971, in the D.C. U.S. Attorney's Office.[^1]
+Hamilton worked as an analyst and Vietnamese linguist for the [[NSA]] for seven years. In 1969, he left federal service and became a management consultant at [[Peat, Marwick, Mitchell & Co]]. He left the firm in 1971 to improve the software, which by contract rights belonged to the government. He then worked for eighteen months as an independent contractor for the U.S. Attorney's Office in D.C., and he then founded the [[INSLAW|Institute for Law and Social Research]].[^2][^3] He won a contract through a competitive bid to develop what would become [[PROMIS]], working under the direction of [[Joan E. Jacoby]] and [[Charles R. Work]] with [[LEAA|Law Enforcement Assistance Administration]] funding routed through the [[Office of Crime Analysis of the District of Columbia]]. The resulting software, the Prosecutor's Management Information System, debuted on January 1, 1971, in the D.C. U.S. Attorney's Office.[^1][^7]
 
 In 1973, Hamilton and his wife Nancy founded INSLAW (the Institute for Law and Social Research), a non-profit organization that took over stewardship of PROMIS. INSLAW received additional LEAA funding to enhance PROMIS into a transferable system adoptable by other jurisdictions and oversaw its spread to prosecutors' offices around the country. In January 1981, Hamilton reorganized INSLAW as a for-profit entity and acquired the predecessor organization's assets.[^1]
 
@@ -23,7 +23,7 @@ In 1973, Hamilton and his wife Nancy founded INSLAW (the Institute for Law and S
 
 In March 1982, INSLAW signed a $10 million, three-year contract with the [[Department of Justice|DOJ's]] [[Executive Office for United States Attorneys]] to install PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. From the contract's earliest days, Hamilton and [[C. Madison Brewer]], the DOJ's project manager, were in conflict: Hamilton alleged Brewer obstructed INSLAW's proprietary rights claims and engineered advance payment disputes to force the company into financial distress. When INSLAW ran out of funds to sustain litigation against the DOJ while fighting to protect its software rights, it filed for Chapter 11 bankruptcy protection in February 1985.[^4]
 
-Hamilton and Nancy Hamilton sued the DOJ for non-payment on a version of PROMIS called Modification 12 and for the alleged unauthorized distribution of the enhanced software beyond the contract's authorized sites. In September 1987, [[Bankruptcy Judge George F. Bason]] ruled in their favor, finding DOJ had "taken, converted, stole, INSLAW's enhanced PROMIS by trickery, fraud, and deceit" and awarding approximately $6.8 million in damages. The ruling was affirmed by the district court but reversed on jurisdictional grounds by the Court of Appeals in May 1991.[^4]
+Hamilton and Nancy Hamilton sued the DOJ for non-payment on a version of PROMIS called Modification 12 and for the alleged unauthorized distribution of the enhanced software beyond the contract's authorized sites. In September 1987, [[Bankruptcy Judge George F. Bason]] ruled in their favor, finding that the Department of Justice "took, converted, stole, Inslaw's enhanced PROMIS by trickery, fraud, and deceit" and awarding approximately $6.8 million in damages. The ruling was affirmed by the district court but reversed on jurisdictional grounds by the Court of Appeals in May 1991.[^4]
 
 ### Representation by Elliot Richardson
 
@@ -55,3 +55,4 @@ Hamilton continued to assert that PROMIS was fraudulently stolen and distributed
 [^4]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992; U.S. Court of Federal Claims, *Inslaw, Inc. v. United States*, Ruling of Hearing Officer Christine Miller, July 31, 1997.
 [^5]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992; Richardson, Elliot L. Testimony before the House Judiciary Committee, 1992.
 [^6]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010.
+[^7]: Peat, Marwick, Mitchell & Co., *System Overview and Report Formats for PROMIS* (May 1971), prepared for the District of Columbia Government Office of Crime Analysis under LEAA Grant No. 70-DF-047, note 1 to the passage on the design team, NCJ 32469. https://www.ojp.gov/pdffiles1/Digitization/32469NCJRS.pdf

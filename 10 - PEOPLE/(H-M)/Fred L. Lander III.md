@@ -15,7 +15,7 @@ He worked as a classroom teacher, operated an independent real estate and insura
 
 Lander dedicated 30 years of his career to the Federal Government, working at the [[Internal Revenue Service]], the Federal Power Commission, the National Archives and Records Service, and the Department of Justice's [[LEAA]]. 
 
-Fred was part of the original 1969 team creating [[PROMIS]] with [[Joan E. Jacoby]], [[Charles R. Work]], and [[Bill Hamilton]] as part of the [[Office of Crime Analysis of the District of Columbia]] where he was an Assistant Director.
+Fred was part of the original 1969 team creating [[PROMIS]] with [[Joan E. Jacoby]], [[Charles R. Work]], and [[Bill Hamilton]] as part of the [[Office of Crime Analysis of the District of Columbia]] where he was an Assistant Director.[^1]
 
 He later served with the Equal Employment Opportunity Commission until his retirement on April 16, 1987. During this time, he also worked as a Crime Analyst and Executive Director of the Pilot District Police Community Relations Project for the District of Columbia and was appointed an Administrative Law Judge for the Civil Service Commission in Dallas, Texas.
 
@@ -30,3 +30,7 @@ He was a 50-year member of the Omega Psi Phi Fraternity, Inc., and received thei
 Lander was certified to practice law before all Courts in the State of Texas, the United States District Courts for the Northern and Eastern Districts of Texas, the [[United States Court of Appeals for the Fifth Circuit]], and the United States Supreme Court.
 
 Fred L. Lander III passed away in 2001.
+
+### Footnotes
+
+[^1]: Peat, Marwick, Mitchell & Co., *System Overview and Report Formats for PROMIS* (May 1971), prepared for the District of Columbia Government Office of Crime Analysis under LEAA Grant No. 70-DF-047, note 1 to the passage on the design team, NCJ 32469. https://www.ojp.gov/pdffiles1/Digitization/32469NCJRS.pdf

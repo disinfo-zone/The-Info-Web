@@ -1,7 +1,7 @@
 ---
 category: "Law Enforcement & Legal"
 created: 2024-04-25
-updated: 2026-10-12
+updated: 2026-10-14
 tags:
   - Person
   - PROMIS
@@ -18,7 +18,7 @@ In 1966, Work became an Assistant United States Attorney in the criminal trial s
 
 ### Role in PROMIS Development
 
-In 1969, while serving as Deputy Chief of the Superior Court Division, Work co-directed the original [[PROMIS]] design team commissioned by U.S. Attorney [[Thomas A. Flannery]], alongside [[Joan E. Jacoby]] (Director of the [[Office of Crime Analysis of the District of Columbia]]) and project manager [[Bill Hamilton]] (then a senior consultant at [[Peat, Marwick, Mitchell & Co]]). The team produced the Prosecutor's Management Information System, deployed January 1, 1971, in the DC U.S. Attorney's Office. Work hired INSLAW to write the first version of PROMIS and maintained a close working relationship with Hamilton through the program's early years.[^3]
+In 1969, while serving as Deputy Chief of the Superior Court Division, Work co-directed the original [[PROMIS]] design team commissioned by U.S. Attorney [[Thomas A. Flannery]], alongside [[Joan E. Jacoby]] (Director of the [[Office of Crime Analysis of the District of Columbia]]) and project manager [[Bill Hamilton]] (then a senior consultant at [[Peat, Marwick, Mitchell & Co]]).[^3] The team produced the Prosecutor's Management Information System, deployed January 1, 1971, in the DC U.S. Attorney's Office.[^4] Work hired INSLAW to write the first version of PROMIS and maintained a close working relationship with Hamilton through the program's early years.[^3]
 
 A May 1971 overview of PROMIS prepared by Peat, Marwick, Mitchell & Co for the Office of Crime Analysis under LEAA grant 70-DF-047 records that the design team was headed by Joan E. Jacoby, director of the Office of Crime Analysis, and Work, deputy director of the Superior Court Division of the U.S. Attorney's Office.[^4] A 1985 White House announcement lists Work as Deputy Chief and Chief of the Superior Court Division from 1969 to 1973 and as Deputy Administrator of LEAA from 1973 to 1975, and a White House release of January 26, 1976 records that he resigned effective November 21, 1975.[^5] In April 1973 the executive director of the National District Attorneys Association described PROMIS as developed by Jacoby and Work, "assistant U.S. attorney," under a $290,000 LEAA grant.[^6]
 
