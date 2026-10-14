@@ -5,7 +5,7 @@ aliases:
   - Rafi Eitan
   - Rafi the Stinker
 created: 2024-04-25
-updated: 2026-10-12
+updated: 2026-10-14
 category: "Intelligence & Government"
 tags:
   - Person
@@ -62,13 +62,17 @@ Eitan stated regarding PROMIS: "We can use that program to stamp out terrorism b
 
 Distribution of the backdoored software was handled in part through British media mogul [[Robert Maxwell]], who used his Israeli computer company [[Degem]] and a network of international holdings as vehicles for sales to intelligence and law enforcement agencies worldwide.[^8] Eitan's involvement in what became known as the [[PROMIS Software Scandal]] was never formally adjudicated; U.S. government investigations, including the [[Nicholas J. Bua|Bua Report]] (1993), found no credible evidence that enhanced PROMIS was distributed internationally.[^10]
 
+### Ben-Menashe's Claims
+
+[[Ari Ben-Menashe]] wrote that Eitan was an initial member of the [[Iran-Israel Joint Committee]] in 1980 and that, after [[Yitzhak Shamir]] became prime minister, Eitan ran it.[^11] The October Surprise Task Force reported that Ben-Menashe said Eitan confirmed to him reports of 1980 meetings in Spain between [[William J. Casey]] and [[Mehdi Karrubi]], in the presence of [[Yehoshua Sagi|Yehoshua Saguy]]; that Eitan told the Government of Israel that he did not know Ben-Menashe and had never met him; and that Saguy told the Government of Israel that he had never met Ben-Menashe. The task force wrote that credible testimonial and documentary evidence show Ben-Menashe "to be totally lacking in credibility regarding his allegations about meetings in Spain in 1980."[^12] Israeli authorities also reported to the task force that Eitan, with Kimche, Saguy and others, had never met, known or heard of Ben-Menashe until 1991.[^13]
+
 ### Dr. Ben Orr
 
-The documentary trace of an Israeli visitor to the Department of Justice is two memoranda of [[Jack Rugh]], the department's deputy project manager on the INSLAW contract. On May 6, 1983, Rugh wrote that "Brick Brewer recently instructed me to make a copy of an LEAA version of PROMIS available to Dr. Ben Orr, a representative of the Government of Israel. Dr. Orr called me to discuss that request... I have made a copy of the LEM DEC version of PROMIS and will provide it, along with the corresponding documentation, to Dr. Orr before he leaves the United States for Israel on May 16," and on May 12 he recorded delivery of the materials to [[C. Madison Brewer]] for transmittal. The version so recorded was the public-domain [[LEAA]] one. Eitan, in the account he gave Thomas and Dillon, was Dr. Orr, travelling on a forged passport in the identity of a real retired prosecutor, "Dr Benjamin Orr, an assistant public prosecutor in the Ministry of Justice in Tel Aviv," who first flew to the United States on December 19, 1982, met Brewer, and returned in February 1983 to be shown the enhanced PROMIS at INSLAW's own offices by Bill Hamilton and [[Nancy Hamilton]], after which Brewer handed him a tape from an office cupboard; Hamilton is quoted recalling eyes "like a computer, tracking everything."[^11]
+The documentary trace of an Israeli visitor to the Department of Justice is two memoranda of [[Jack Rugh]], the department's deputy project manager on the INSLAW contract. On May 6, 1983, Rugh wrote that "Brick Brewer recently instructed me to make a copy of an LEAA version of PROMIS available to Dr. Ben Orr, a representative of the Government of Israel. Dr. Orr called me to discuss that request... I have made a copy of the LEM DEC version of PROMIS and will provide it, along with the corresponding documentation, to Dr. Orr before he leaves the United States for Israel on May 16," and on May 12 he recorded delivery of the materials to [[C. Madison Brewer]] for transmittal. The version so recorded was the public-domain [[LEAA]] one. Eitan, in the account he gave Thomas and Dillon, was Dr. Orr, travelling on a forged passport in the identity of a real retired prosecutor, "Dr Benjamin Orr, an assistant public prosecutor in the Ministry of Justice in Tel Aviv," who first flew to the United States on December 19, 1982, met Brewer, and returned in February 1983 to be shown the enhanced PROMIS at INSLAW's own offices by Bill Hamilton and [[Nancy Hamilton]], after which Brewer handed him a tape from an office cupboard; Hamilton is quoted recalling eyes "like a computer, tracking everything."[^14]
 
 ### Later Career
 
-Eitan founded the Pensioners' Party, Gil, which won seven Knesset seats in March 2006 and joined [[Ehud Olmert]]'s coalition, in which he served as minister for pensioner affairs; in October 2008 he told a German magazine that Iran's president should be kidnapped and tried at The Hague. Of the Eichmann capture he told Gordon Thomas that "almost every published fact about the capture of Eichmann is pure bullshit. I know because I personally am the man who captured him."[^12]
+Eitan founded the Pensioners' Party, Gil, which won seven Knesset seats in March 2006 and joined [[Ehud Olmert]]'s coalition, in which he served as minister for pensioner affairs; in October 2008 he told a German magazine that Iran's president should be kidnapped and tried at The Hague. Of the Eichmann capture he told Gordon Thomas that "almost every published fact about the capture of Eichmann is pure bullshit. I know because I personally am the man who captured him."[^15]
 
 ### Footnotes
 
@@ -82,5 +86,8 @@ Eitan founded the Pensioners' Party, Gil, which won seven Knesset seats in March
 [^8]: Thomas, Gordon. *Gideon's Spies: The Secret History of the Mossad.* St. Martin's Press, 1999.
 [^9]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^10]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of Inslaw, Inc.* March 1993.
-[^11]: House Report 102-857, September 10, 1992, reproducing Rugh's memoranda of May 6 and 12, 1983, which do not identify Dr. Orr; Thomas, Gordon, and Martin Dillon, *Robert Maxwell, Israel's Superspy,* Carroll and Graf, 2002. https://archive.org/details/robert-maxwell-israels-superspy-2002 The February 1983 visit in the book and the May 1983 transfer in the memoranda are not the same transaction, and no record reconciles them.
-[^12]: Thomas, Gordon. *Gideon's Spies,* 2009 edition. https://archive.org/details/gideons-spies
+[^11]: Ari Ben-Menashe, *Profits of War: Inside the Secret U.S.-Israeli Arms Network* (Sheridan Square Press, 1992; TrineDay reprint, 2015). https://archive.org/details/profitsofwarinsi0000benm
+[^12]: U.S. House of Representatives, *Joint Report of the October Surprise Task Force*, January 3, 1993, p. 97. https://archive.org/details/JointReportOfTheOctoberSurpriseTaskForce
+[^13]: *Joint Report of the October Surprise Task Force*, January 3, 1993, p. 98.
+[^14]: House Report 102-857, September 10, 1992, reproducing Rugh's memoranda of May 6 and 12, 1983, which do not identify Dr. Orr; Thomas, Gordon, and Martin Dillon, *Robert Maxwell, Israel's Superspy,* Carroll and Graf, 2002. https://archive.org/details/robert-maxwell-israels-superspy-2002 The February 1983 visit in the book and the May 1983 transfer in the memoranda are not the same transaction, and no record reconciles them.
+[^15]: Thomas, Gordon. *Gideon's Spies,* 2009 edition. https://archive.org/details/gideons-spies

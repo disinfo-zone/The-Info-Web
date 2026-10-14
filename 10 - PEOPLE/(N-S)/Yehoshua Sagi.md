@@ -5,9 +5,9 @@ tags:
   - Israel
   - Aman
   - MilitaryIntelligence
-summary: "Yehoshua Sagi (also rendered Saguy) served as director of Israel's Military Intelligence Directorate (Aman) from 1979 to 1983 and was found by the Kahan Commission to bear personal responsibility for indifference regarding the Sabra and Shatila massacres."
+summary: "Yehoshua Sagi (also Saguy) directed Israel's Military Intelligence Directorate from 1979 to 1983 and was faulted by the Kahan Commission over Sabra and Shatila."
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-10-14
 born: 1933
 location: "Jerusalem, Mandatory Palestine"
 ---
@@ -25,7 +25,14 @@ Following the September 1982 [[Sabra and Shatila massacres|massacres at the Sabr
 
 Sagi subsequently entered electoral politics, serving as a member of the Knesset on the [[Likud Party|Likud]] list from 1988 to 1992. He then served as mayor of Bat Yam.
 
+### Ben-Menashe's Claims
+
+[[Ari Ben-Menashe]] wrote that, on [[Menachem Begin]]'s order in the fall of 1980, Sagi and [[Nachum Admoni]] were to appoint the [[Iran-Israel Joint Committee]], a joint group of military intelligence and [[Mossad]] officers supplying arms to [[Iran]].[^3] The October Surprise Task Force reported that Saguy, in whose presence Ben-Menashe says [[Rafael Eitan]] confirmed reports of 1980 meetings in Spain between [[William J. Casey]] and [[Mehdi Karrubi]], told the Government of Israel that he had never met Ben-Menashe and that he had no knowledge of such meetings.[^4] In the task force's account, Israeli authorities interviewed Saguy together with [[David Kimche]], Eitan and others, and each said he had never met, known or heard of Ben-Menashe until Ben-Menashe began making allegations in the American media in 1991.[^5]
+
 ### Footnotes
 
 [^1]: Rodger W. Claire, *Raid on the Sun: Inside Israel's Secret Campaign That Denied Saddam the Bomb* (Broadway Books, 2004).
 [^2]: Commission of Inquiry into the Events at the Refugee Camps in Beirut, Final Report, February 8, 1983, section on "The Director of Military Intelligence, Major General Yehoshua Saguy," in Israel Ministry of Foreign Affairs, *Israel's Foreign Relations: Selected Documents*, vol. 8, 1982-1984, doc. 104. https://syriaaccountability.org/content/images/wordpress/ISRAELMFA_Commission-Inquiry-Beirut_1983_EN.pdf
+[^3]: Ari Ben-Menashe, *Profits of War: Inside the Secret U.S.-Israeli Arms Network* (Sheridan Square Press, 1992; TrineDay reprint, 2015), p. 78. https://archive.org/details/profitsofwarinsi0000benm
+[^4]: U.S. House of Representatives, *Joint Report of the October Surprise Task Force*, January 3, 1993, p. 97. https://archive.org/details/JointReportOfTheOctoberSurpriseTaskForce
+[^5]: *Joint Report of the October Surprise Task Force*, January 3, 1993, p. 98.

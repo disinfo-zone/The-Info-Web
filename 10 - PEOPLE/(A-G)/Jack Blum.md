@@ -3,7 +3,7 @@ title: Jack Blum
 aliases:
   - Jack Blum
 created: 2026-05-17
-updated: 2026-09-23
+updated: 2026-10-14
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -11,14 +11,14 @@ tags:
   - DarkAllianceInvestigation
   - ContraWar
   - Lawyer
-summary: "Former Senate investigator and chief counsel to Senator John Kerry's Subcommittee on Terrorism, Narcotics, and International Operations, widely recognized for exposing the BCCI scandal and investigating Contra-connected drug trafficking."
+summary: "Former Senate investigator and special counsel to Senator John Kerry's Subcommittee on Terrorism, Narcotics, and International Operations, widely recognized for exposing the BCCI scandal and investigating Contra-connected drug trafficking."
 relations:
   - type: investigated
     with: "[[Bank of Credit and Commerce International]]"
     start: 1988
     fn: 4
 ---
-Jack Blum is a former Senate investigator and chief counsel to [[Senator John Kerry]]'s Subcommittee on Terrorism, Narcotics, and International Operations, widely recognized for his pivotal role in exposing the [[Bank of Credit and Commerce International|BCCI]] scandal. Described as a crusader and a moralist, Blum was known for his unwavering pursuit of truth, even when it meant challenging powerful institutions and individuals.[^1]
+Jack Blum is a former Senate investigator and special counsel to [[Senator John Kerry]]'s Subcommittee on Terrorism, Narcotics, and International Operations, widely recognized for his pivotal role in exposing the [[Bank of Credit and Commerce International|BCCI]] scandal. Described as a crusader and a moralist, Blum was known for his unwavering pursuit of truth, even when it meant challenging powerful institutions and individuals.[^1]
 
 ### Early Career and Senate Investigations
 

@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-10-14
 title: Operation AJAX
 aliases:
   - Operation Ajax
@@ -15,12 +15,12 @@ tags:
   - ColdWar
   - 1950s
 category: "Intelligence Operation"
-summary: "Operation AJAX was the CIA's code name for the August 1953 covert operation that overthrew Iranian Prime Minister Mohammad Mosaddegh, restoring the Shah to full power in collaboration with British MI6 (Operation Boot), and establishing the direct precedent for CIA-backed coups that shaped Cold War policy and Iran's trajectory toward the 1979 Islamic Revolution."
+summary: "Operation AJAX was the CIA code name for the August 1953 covert operation, run with British MI6 (Operation Boot), that overthrew Iranian Prime Minister Mohammad Mosaddegh and restored the Shah to power."
 start: 1953-08-19
 location: "Tehran, Iran"
 ---
 
-Operation AJAX was the [[Central Intelligence Agency|CIA]]'s operational code name for the August 1953 covert action that overthrew the elected government of Iranian Prime Minister [[Mohammed Mossadegh|Mohammad Mosaddegh]] and restored [[Mohammad Reza Pahlavi]] (the Shah) to full autocratic power. The British [[MI6]] designated the same operation Operation Boot. The coup took place on August 19, 1953, known in the Iranian calendar as 28 Mordad 1332. The CIA officially acknowledged its central role in the operation in August 2013 when it released a declassified internal history.[^1]
+Operation AJAX was the [[Central Intelligence Agency|CIA]]'s operational code name for the August 1953 covert action that overthrew the elected government of Iranian Prime Minister [[Mohammed Mossadegh|Mohammad Mosaddegh]] and restored [[Mohammad Reza Pahlavi]] (the Shah) to full autocratic power. The British [[MI6]] designated the same operation Operation Boot. The coup took place on August 19, 1953, known in the Iranian calendar as 28 Mordad 1332. The CIA's internal history of the operation, written in March 1954, became public in 2000. In August 2013 the [[National Security Archive]] posted a mid-1970s CIA history, *The Battle for Iran*, with its references to TPAJAX restored, and described it as believed to be the CIA's first formal acknowledgement that the agency helped to plan and execute the coup.[^1][^2]
 
 ### Background: The Oil Nationalization Crisis
 
@@ -38,7 +38,9 @@ The operational plan involved multiple coordinated elements:
 - Hiring of provocateurs and street mobs to create chaos, including paying demonstrators to claim affiliation with the Tudeh Party while carrying out violent acts designed to discredit Mosaddegh
 - Coordination with Iranian military officers loyal to the Shah
 
-The first coup attempt on the night of August 15-16, 1953, failed when Mosaddegh was warned. The Shah fled to Rome. Roosevelt remained in Tehran and reorganized for a second attempt.[^1]
+Before the first attempt the Shah had signed the royal decrees (firmans) that the operation required. The CIA history records that on August 10 he said that while he approved of the plan for action he would sign no papers, and that after pressure from [[Princess Ashraf Pahlavi]] and [[H. Norman Schwarzkopf]] and several meetings with Kermit Roosevelt he signed the firmans dismissing Mosaddegh and appointing [[Fazlollah Zahedi]]. A British memorandum in the Foreign Relations volume dates the firman to August 13, 1953, says it was carried from Ramsar to Tehran by Colonel Nasiri, commander of the Imperial Guard, and says Nasiri was arrested after delivering a copy late on August 15 to the officer in charge of the troops at Mosaddegh's house.[^3][^4]
+
+The first coup attempt on the night of August 15-16, 1953, failed when Mosaddegh was warned. The Shah flew to Baghdad when the plan misfired and reached Rome from Baghdad on August 18. He left Rome for Baghdad around midnight on August 20 and returned to Tehran on August 22.[^1][^5] Roosevelt remained in Tehran and reorganized for a second attempt.[^1]
 
 ### The August 19 Coup
 
@@ -46,7 +48,7 @@ On August 19, 1953, coordinated operations produced the successful coup. CIA-org
 
 Mosaddegh was arrested, tried for treason by a military court, and sentenced to three years in prison. After his release he was confined to house arrest at his estate in Ahmad Abad, where he lived until his death in 1967. The Shah returned from exile and assumed direct control of the government.[^1]
 
-General Norman Schwarzkopf Sr. (father of the Gulf War commander) played a supporting role; he had trained the Iranian gendarmerie in the late 1940s and used his contacts with Iranian military officers in the coup preparations.[^2]
+General Norman Schwarzkopf Sr. (father of the Gulf War commander) played a supporting role; he had trained the Iranian gendarmerie in the late 1940s and used his contacts with Iranian military officers in the coup preparations.[^6]
 
 ### Consequences
 
@@ -60,11 +62,15 @@ The 1953 coup established Operation AJAX as the template for CIA-backed regime c
 
 ### CIA Acknowledgment
 
-The CIA maintained official silence about its role in Operation AJAX for sixty years. In August 2013, responding to Freedom of Information Act requests, the CIA released a partially declassified internal history of the 1953 coup written in 1954 by agency historian Donald Wilber, confirming CIA operational planning and execution. The State Department's official historical record, Foreign Relations of the United States, included Operation AJAX documentation in its 1989 volume on Iran 1951-1954.
+The CIA maintained official silence about its role in Operation AJAX for sixty years. The Wilber history of the 1953 coup, written in March 1954, was first disclosed by James Risen in The New York Times on April 16 and June 18, 2000, and posted by the National Security Archive on November 29, 2000. On August 19, 2013, the National Security Archive posted newly declassified CIA material, including the mid-1970s internal history *The Battle for Iran*, which the agency had released in 1981 with every reference to TPAJAX blacked out and which now showed those references, together with Kermit Roosevelt's working files; the Archive described it as believed to be the CIA's first formal acknowledgement that the agency helped to plan and execute the coup.[^2] The State Department's official historical record, Foreign Relations of the United States, included Operation AJAX documentation in its 1989 volume on Iran 1951-1954.
 
-Secretary of State [[Madeleine Albright]] acknowledged in 2000 that the 1953 coup was a "setback for democratic governance" in Iran without explicitly admitting CIA direction. The 2013 declassification was the first official CIA acknowledgment of operational responsibility.[^1]
+Secretary of State [[Madeleine Albright]] acknowledged in 2000 that the 1953 coup was a "setback for democratic governance" in Iran without explicitly admitting CIA direction. 
 
 ### Footnotes
 
-[^1]: Kinzer, Stephen. *All the Shah's Men: An American Coup and the Roots of Middle East Terror.* Wiley, 2003. CIA. "Clandestine Service History: Overthrow of Premier Mossadeq of Iran, November 1952-August 1953." Originally classified document by Donald Wilber, March 1954; declassified 2013. Available at nsarchive.gwu.edu.
-[^2]: Gasiorowski, Mark J., and Malcolm Byrne, eds. *Mohammad Mosaddegh and the 1953 Coup in Iran.* Syracuse University Press, 2004.
+[^1]: Kinzer, Stephen. *All the Shah's Men: An American Coup and the Roots of Middle East Terror.* Wiley, 2003. CIA. "Clandestine Service History: Overthrow of Premier Mossadeq of Iran, November 1952-August 1953." Written by Donald Wilber, March 1954; first disclosed by James Risen in The New York Times on April 16 and June 18, 2000, and posted by the National Security Archive as Iran Coup Briefing Book 28 on November 29, 2000, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB28/ ; text copy at https://archive.org/details/CIA-Mossadeq-Iran-1953.
+[^2]: National Security Archive, "CIA Confirms Role in 1953 Iran Coup," Electronic Briefing Book 435, August 19, 2013. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/
+[^3]: Donald Wilber, *Clandestine Service History: Overthrow of Premier Mossadeq of Iran, November 1952-August 1953*, written March 1954. Text copy: https://archive.org/details/CIA-Mossadeq-Iran-1953 ; National Security Archive, Iran Coup Briefing Book 28: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB28/
+[^4]: *FRUS 1952-1954*, Volume X, Iran, 1951-1954, document 362, British Memorandum (undated), paragraphs 12-15. https://history.state.gov/historicaldocuments/frus1952-54v10/d362
+[^5]: *FRUS 1952-1954*, Volume X, document 348, editorial note citing telegram 571 from Rome, August 18, 1953 (the Shah arrived in Rome from Baghdad in the early afternoon of August 18), and document 350, editorial note citing telegram 613 from Rome, August 20, and telegram 454, August 22 (the Shah to depart Rome for Baghdad around midnight, arriving about noon August 21; Henderson and other chiefs of mission met the Shah at the Tehran airport). https://history.state.gov/historicaldocuments/frus1952-54v10/d348 ; https://history.state.gov/historicaldocuments/frus1952-54v10/d350
+[^6]: Gasiorowski, Mark J., and Malcolm Byrne, eds. *Mohammad Mosaddegh and the 1953 Coup in Iran.* Syracuse University Press, 2004.

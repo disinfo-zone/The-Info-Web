@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-08
+updated: 2026-10-14
 aliases:
   - Robert Gates
   - Bob Gates
@@ -33,6 +33,10 @@ In its October 24, 1991 report on Gates's nomination, the [[Senate Select Commit
 
 The committee also reported that, while investigating relationships between Gates and Cardoen, it received information about a relationship between [[Industrias Cardoen|Cardoen Industries]] and a former part-time senior CIA employee, [[James D. Theberge]]. The report states that "There is no evidence that the nominee, Mr. Gates, participated in either his recruitment or selection" to the Senior Review Panel. In written answers printed in the report, Gates said that he had moved the panel's organization from the Directorate of Intelligence to the Director's area when he became deputy director for intelligence in January 1982, that decisions on panel members were made by the Director, and that "I do not recall meeting Ambassador Theberge prior to his joining the SRP." He wrote that he was "unaware of his [Theberge's] relationships, his connection to the SWISSCO Management Group, or any connection to the Carlos Cardoen Group."[^4]
 
+### Ben-Menashe's allegations, 1991
+
+During Gates's 1991 confirmation hearings to be director of Central Intelligence, [[Ari Ben-Menashe]] alleged to the Senate Select Committee on Intelligence that Gates conspired with the Reagan-Bush campaign to delay the release of the American hostages and was present at various meetings, including those in Paris. Gates, under oath, denied the allegations. The committee reported that investigations by the FBI and the CIA inspector general, including analyses of Gates's calendar and travel records, provided no credible evidence to confirm Ben-Menashe's allegations; the October Surprise Task Force wrote that it was aware of no evidence to the contrary.[^5][^6] In Ben-Menashe's 1992 book, Gates dealt directly with [[David Kimche]] on Israeli arms sales to Iran, and approved the sale of unsophisticated weapons to Iran in early 1981; the book also places Gates at meetings with [[Mehdi Karrubi]] in Madrid in 1980. In July 1987, according to Ben-Menashe, [[Mohammed Jalali]] met Gates in [[Kansas City]] to seek assurances that arms supplies to Iran would continue.[^7]
+
 ### Publications
 *   *From the Shadows* (1997)
 
@@ -42,3 +46,6 @@ The committee also reported that, while investigating relationships between Gate
 [^2]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
 [^3]: "Psychic Spies: Cold War Whimsy or Secret Weapon?," ABC News *Nightline,* November 28, 1995, Radio TV Reports transcript for the CIA Public Affairs Staff, CIA-RDP99-01448R000402140001-7, read in the archive.org mirror of the CIA FOIA Reading Room.
 [^4]: U.S. Senate, Select Committee on Intelligence, *Nomination of Robert M. Gates to be Director of Central Intelligence*, S. Exec. Rept. 102-19, 102d Cong., 1st sess., October 24, 1991, section 5, PDF pages 186 to 188. https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-10219.pdf
+[^5]: U.S. Senate, Select Committee on Intelligence, *Nomination of Robert M. Gates to be Director of Central Intelligence*, S. Exec. Rept. 102-19 (October 24, 1991), sections 4 and 5, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-filesations-10219.pdf (PDF pages 185 to 187).
+[^6]: U.S. House of Representatives, *Joint Report of the October Surprise Task Force*, January 3, 1993, p. 172. https://archive.org/details/JointReportOfTheOctoberSurpriseTaskForce
+[^7]: Ari Ben-Menashe, *Profits of War: Inside the Secret U.S.-Israeli Arms Network* (Sheridan Square Press, 1992; TrineDay reprint, 2015). https://archive.org/details/profitsofwarinsi0000benm
