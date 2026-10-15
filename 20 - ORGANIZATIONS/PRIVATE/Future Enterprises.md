@@ -4,7 +4,7 @@ aliases:
   - Future Enterprises
   - Future Enterprises Inc.
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-15
 tags:
   - Organization
   - CIA
@@ -16,6 +16,13 @@ tags:
 category: "Private Organization"
 summary: "Washington D.C.-area computer training company associated with The Finders that provided CIA employee software training in the 1980s, cited by investigators as evidence of a direct CIA-Finders organizational link."
 location: "Washington, D.C."
+relations:
+  - type: contractor_to
+    with: "[[Central Intelligence Agency]]"
+    start: 1980
+    end: 1989
+    role: computer training of CIA employees during the 1980s
+    fn: 1
 ---
 
 Future Enterprises was a Washington D.C.-area computer training company associated with [[The Finders]] that provided software training to [[Central Intelligence Agency|CIA]] employees during the 1980s. The existence of this business relationship was confirmed publicly in 1993 by CIA spokesman David Christian, who stated: "CIA sent some employees to a company called Future Enterprises, Inc. for computer training in the nineteen eighties." Christian denied that the company was a CIA front or that it was "in any sense owned or operated by anyone for the CIA."[^1]
@@ -24,23 +31,25 @@ Future Enterprises was a Washington D.C.-area computer training company associat
 
 [[Robert Garder Terrell]], a certified public accountant and former IRS appeals officer who served as The Finders' principal spokesman and financial manager, was associated with Future Enterprises as a computer trainer. The CIA's characterization of his role was "part-time accountant." Terrell's own accounts described computer training work.[^1]
 
-Vice president Joseph Marinich confirmed in contemporaneous reporting that CIA employees received training at the company during the 1980s.[^1]
+[[Joseph Marinich]], president of Future Enterprises, confirmed in contemporaneous reporting that the company had once had a contract to train CIA employees in computers. Marinich denied that he or his firm had any involvement with the Finders or acted as a front company for the cult on behalf of the CIA, and said that when the February 1987 reports broke he learned that his tax accountant, Terrell, was a member of the group.[^2] The copy of the U.S. News article enclosed in the FBI file attributes the statement about computer training to a CIA official who asked not to be named.[^2]
 
-An MPD report filed February 19, 1987 by Sgt. John H. Stitcher Jr. described a CIA official confirming that the agency was sending personnel to "a Finders Corp., Future Enterprises, for training in computer operations." The phrase "Finders Corp." in this document represented a direct institutional identification of Future Enterprises as a Finders corporate entity, though the CIA's public position maintained the connection was incidental.[^2]
+An MPD report filed February 19, 1987 by Sgt. John H. Stitcher Jr. described a CIA official confirming that the agency was sending personnel to "a Finders Corp., Future Enterprises, for training in computer operations." The phrase "Finders Corp." in this document represented a direct institutional identification of Future Enterprises as a Finders corporate entity, though the CIA's public position maintained the connection was incidental.[^3]
 
 ### Infrastructure Context
 
-The physical infrastructure of The Finders' properties and the technical capabilities implied by the Future Enterprises training relationship were related in investigators' assessments. The warehouse at 1307 Fourth Street NE and the Glover Park duplex both contained extensive networked computer equipment with satellite dish antennas. [[Ramon J. Martinez|U.S. Customs Agent Ramon J. Martinez]] found [[Stuart Miles Silverstone]] inside a satellite-equipped computer room at the Glover Park duplex during the February 1987 raids. Telex messages on the group's systems referenced international contacts and included what Martinez described as communications relating to children in multiple countries.[^2]
+The physical infrastructure of The Finders' properties and the technical capabilities implied by the Future Enterprises training relationship were related in investigators' assessments. The warehouse at 1307 Fourth Street NE and the Glover Park duplex both contained extensive networked computer equipment with satellite dish antennas. [[Ramon J. Martinez|U.S. Customs Agent Ramon J. Martinez]] found [[Stuart Miles Silverstone]] inside a satellite-equipped computer room at the Glover Park duplex during the February 1987 raids. Telex messages on the group's systems referenced international contacts and included what Martinez described as communications relating to children in multiple countries.[^3]
 
 Whether CIA employees who received computer training at Future Enterprises had any operational contact with The Finders' broader activities through this arrangement has not been established in accessible primary sources.
 
 ### The 1993 DOJ Investigation
 
-The Future Enterprises connection was a central element of the 1993 Department of Justice and FBI reinvestigation of The Finders, prompted by congressional pressure from Representatives Tom Lewis (R-FL) and [[Charlie Rose]] (D-NC). Reporter Paul M. Rodriguez of the *Washington Times* published the key investigative article on December 17, 1993, citing the MPD document identifying Future Enterprises as "Finders Corp."[^1] The *U.S. News & World Report* contemporaneous investigation also cited the CIA training relationship as one of three documented overlaps between The Finders and the intelligence community, alongside [[Isabelle Pettie]]'s CIA employment and [[George Pettie|George Pettie's]] work for [[Air America]].[^1]
+The Future Enterprises connection was a central element of the 1993 Department of Justice and FBI reinvestigation of The Finders, prompted by congressional pressure from Representatives Tom Lewis (R-FL) and [[Charlie Rose]] (D-NC). Reporter Paul M. Rodriguez of the *Washington Times* published the key investigative article on December 17, 1993, citing the MPD document identifying Future Enterprises as "Finders Corp."[^1] The *U.S. News & World Report* contemporaneous investigation also cited the CIA training relationship as one of three documented overlaps between The Finders and the intelligence community, alongside [[Isabelle Pettie]]'s CIA employment and [[George Pettie|George Pettie's]] work for [[Air America]].[^1] A December 22, 1993 memorandum from [[Larry A. Potts]] lists Future Enterprises among the entities checked in the FBI inquiry, and the FBI's 1993 indices search lists Future Enterprises, Inc. among eight names with two index references.[^4]
 
 The DOJ inquiry concluded without criminal charges. The CIA maintained its characterization of the training relationship as an incidental procurement arrangement.
 
 ### Footnotes
 
 [^1]: Witkin, Gordon, Peter Cary, and Angel Martinez. "Through a glass, very darkly: Cops, spies and a very odd investigation." *U.S. News & World Report*, December 27, 1993 / January 3, 1994. Also: Rodriguez, Paul M. "CIA tied to cult accused of abuse; Justice probes links to Finders." *Washington Times*, December 17, 1993.
-[^2]: Martinez, Ramon J. U.S. Customs Service Reports, February 7, 1987 and April 13, 1987. Internet Archive, https://archive.org/details/ted-gunderson-fbi-the-finders. Also: FBI Vault, "The Finders," vault.fbi.gov/the-finders (released November 2019).
+[^2]: Witkin, Gordon, Peter Cary, and Angel Martinez. "Through a glass, very darkly: Cops, spies and a very odd investigation." *U.S. News & World Report*, December 27, 1993. Text as enclosed in FBI WMFO teletype dated December 23, 1993, FBI Vault "The Finders," FOIA 1372462-0, Part 1 of 4. https://archive.org/details/the-finders-part-01-of-04
+[^3]: Martinez, Ramon J. U.S. Customs Service Reports, February 7, 1987 and April 13, 1987. Internet Archive, https://archive.org/details/ted-gunderson-fbi-the-finders. Also: FBI Vault, "The Finders," vault.fbi.gov/the-finders (released November 2019).
+[^4]: Potts, Larry A., memorandum dated December 22, 1993, and FBI indices search, FBI Vault "The Finders," FOIA 1372462-0, Part 1 of 4. https://archive.org/details/the-finders-part-01-of-04

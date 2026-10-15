@@ -14,7 +14,7 @@ summary: "Oman's first incorporated bank, founded in 1973, in which BCCI bought 
 start: 1973
 location: "Muscat, Oman"
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 relations:
   - type: owned
     with: "[[W.J. Towell & Co.]]"
@@ -71,6 +71,8 @@ In its chapter on BCCI and intelligence, where it also called the bank "the Bank
 
 The same chapter recorded dealings between the bank and [[Bruce Rappaport]]: "The National Bank of Oman and its CEO, Case Zawawi, also did business with Bruce Rappaport." [[Jerry Townsend]], president of Colonial Shipping in [[Atlanta]], who said he had worked as a Soviet analyst for the [[Central Intelligence Agency]] and was employed by Rappaport from 1981 to 1990, told the subcommittee that Rappaport had business relations in Oman with Zawawi at the bank, and that Rappaport once flew [[Zubin Mehta]] and the London Philharmonic to Oman to entertain the Sultan. The report cited a 1985 *[[New York Times]]* article on a [[Pasadena, California|Pasadena]] company, [[Tetra Tech]], "operated by a former CIA agent," which "helps manage several key Omani government agencies," and listed BCCI loans outstanding on March 3, 1991, to Omani borrowers, among them 8 million dollars to Oman Aviation Service, 13 million to Oman Flour Mills, 13 million to the Oman Development Bank, 16 million to Oman Building and Contracting Services, and 14 million to the Sultanate of Oman.[^3]
 
+Jonathan Beaty and S. C. Gwynne wrote that Bruce Rappaport was involved with the National Bank of Oman, which channeled millions of dollars supplied by the CIA and by Saudi Arabia to Pakistan for the Afghan freedom fighters, and that the Bank of Oman was a major affiliate of BCCI, which held a large chunk of its stock.[^6]
+
 ### Footnotes
 
 [^1]: "About National Bank of Oman," National Bank of Oman SAOG. https://www.nbo.om/en/Pages/About-Us/About-National-Bank-of-Oman.aspx
@@ -78,3 +80,4 @@ The same chapter recorded dealings between the bank and [[Bruce Rappaport]]: "Th
 [^3]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 11, "BCCI, the CIA and Foreign Intelligence," section "Oman." https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
 [^4]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 4, "BCCI's Criminality." https://irp.fas.org/congress/1992_rpt/bcci/04crime.htm
 [^5]: Kerry, Senator John, and Senator Hank Brown. *The BCCI Affair: A Report to the Committee on Foreign Relations, United States Senate.* December 1992, ch. 21, "Capcom: A Case Study of Money Laundering." https://irp.fas.org/congress/1992_rpt/bcci/21capcom.htm
+[^6]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 311.

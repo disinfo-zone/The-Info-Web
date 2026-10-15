@@ -12,7 +12,7 @@ aliases:
   - Alex Privee
 summary: "Karel Maasdam, alias 'Alex Privee,' was described by Nick Davies in 1998 as the owner of the Bell Boys escort agency in the Netherlands."
 created: 2026-05-14
-updated: 2026-10-09
+updated: 2026-10-15
 location: "Netherlands"
 relations:
   - type: owned
@@ -53,34 +53,22 @@ A [[Brussels]] magistrate identified in [[X-Dossier]] witness statements only by
 
 ### Accounts in the Dovey book
 
-S. Dovey wrote that Maasdam had a bookkeeper who told the Dutch current-affairs programme EenVandaag that [[Warwick Spinks]] frequently supplied boys to Demmink and Holthuis, and that Maasdam's accountant gave Dutch intelligence services a dossier identifying [[Gero-Video]] as a distributor of child pornography. Dovey also wrote that Glandorf was investigated alongside associates such as Maasdam.[^12]
+S. Dovey wrote that a man Dovey describes as Maasdam's bookkeeper told the Dutch current-affairs programme EenVandaag that [[Warwick Spinks]] frequently supplied boys to Demmink and to Holthuis. Dovey also wrote that Maasdam's accountant gave Dutch intelligence services a dossier identifying [[Gero-Video]] as a distributor of child pornography, and that Glandorf was investigated alongside associates such as Maasdam.[^12]
 
 The Morkhoven Workgroup dossier, as reported by Dovey, identified the owner of the [[G-Force nightclub]] in Amsterdam as an American named John Edward Mullaney and linked him through a company called [[Korper and Korver]] to [[John Stamford]]'s [[Spartacus Network]] and through a company called [[Adonis]] to Maasdam. Dovey also wrote that Gero-Video was linked to [[TAG Films]].[^12] The Dutch commercial register lists a J.E. Mullaney Holding B.V., registered in Amsterdam and no longer active, and an active Korper B.V. and Adonis B.V.; the register entries do not state who held the companies.[^13]
 
 ### Footnotes
 
 [^1]: Nick Davies, "Paedophile network trafficks young boys across Europe," nickdavies.net, dated October 1, 1998 and marked previously unpublished. https://www.nickdavies.net/1998/10/01/paedophile-network-trafficks-young-boys-across-europe/
-
 [^2]: "Samenvatting van de aanleiding, het verloop, de resultaten en de besluitvorming in het Rolodex-onderzoek," December 23, 2013, enclosure to a letter of the Minister van Veiligheid en Justitie to the Tweede Kamer (Kamerstuk 33 750 VI, nr. 116), Eerste Kamer copy. https://eerstekamer.nl/9370000/1/j4nvgs5kjg27kof_j9vvkfvj6b325az/vjigib8p5szh
-
 [^3]: Het Parool, classified advertisements, December 24, 1983 (ABCDDD:010846300:mpeg21:a0137), January 30, 1984 (ABCDDD:010833158:mpeg21:a0039), February 1, 1984 (ABCDDD:010833236:mpeg21:a0079) and October 28, 1985 (ABCDDD:010831481:mpeg21:a0029), Koninklijke Bibliotheek, Delpher. http://resolver.kb.nl/resolve?urn=ABCDDD:010846300:mpeg21:a0137
-
 [^4]: Het Parool, classified advertisements, March 4, 1985 (ABCDDD:010831409:mpeg21:a0033), March 6, 1985 (ABCDDD:010831411:mpeg21:a0060) and March 8, 1985 (ABCDDD:010831413:mpeg21:a0023), Koninklijke Bibliotheek, Delpher. http://resolver.kb.nl/resolve?urn=ABCDDD:010831413:mpeg21:a0023
-
 [^5]: Tweede Kamer der Staten-Generaal, Kamerstuk 31 015, nr. 115, letter of the Minister van Veiligheid en Justitie, July 1, 2015, answers to questions 2 and 8. https://eerstekamer.nl/9370000/1/j4nvi0xeni9vr2l_j9vvkfvj6b325az/vme26leaeuex/f=/vjvdn6hc42z9.pdf
-
 [^6]: "Politie onderzocht Demmink in '97," NOS, March 5, 2014. https://nos.nl/artikel/619220-politie-onderzocht-demmink-in-97
-
 [^7]: "Oud-hoofdofficier justitie Jan Wolter Wabeke uit Best genoemd in zedenzaak Joris Demmink," Omroep Brabant, March 5, 2014. https://www.omroepbrabant.nl/nieuws/1720283/oud-hoofdofficier-justitie-jan-wolter-wabeke-uit-best-genoemd-in-zedenzaak-joris-demmink
-
 [^8]: Tweede Kamer der Staten-Generaal, Kamerstuk 33 750 VI, nr. 116, letter of the Minister van Veiligheid en Justitie, March 27, 2014. https://www.eerstekamer.nl/behandeling/20140327/brief_regering/document3/f=/vjifeja4nlzk.pdf
-
 [^9]: "Politicians and officials named in court as 'boy brothel' case begins," DutchNews.nl, April 18, 2016. https://www.dutchnews.nl/news/2016/04/politicians-and-officials-named-in-court-as-boy-brothel-case-begins/
-
-[^10]: "Forced child prostitution case: Netherlands elite, royalty under microscope," NL Times, April 18, 2016. https://nltimes.nl/node/28758
-
+[^10]: "Forced child prostitution case: Netherlands elite, royalty under microscope," NL Times, April 18, 2016. https://nltimes.nl/2016/04/18/forced-child-prostitution-case-netherlands-elite-royalty-microscope
 [^11]: "Dutroux case and X-Dossier victim-witnesses," crimesandconsequences.com, updated 2021. PV 117.535, November 19, 1996, as quoted in the document. https://crimesandconsequences.com/wp-content/uploads/2021/02/dutroux-case-and-x-dossier-victim-witnesses.pdf
-
-[^12]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
-
+[^12]: Dovey, S. *Eye of the Chickenhawk,* on the bookkeeper's account, the accountant's dossier and the Glandorf investigation. Thehotstar, 2023.
 [^13]: Kamer van Koophandel, Handelsregister, entries 33304101, 65922646 and 09208081. https://opencorporates.com/companies/nl/33304101

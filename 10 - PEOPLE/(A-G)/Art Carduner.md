@@ -16,7 +16,7 @@ relations:
     end: 1975
     fn: 1
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 Art Carduner (about 1919 to December 4, 2009) was a [[Philadelphia]] bookseller, book reviewer and exhibitor of foreign and art films who owned the [[Bandbox Theater]] in [[Germantown, Philadelphia|Germantown]] from 1966 to 1975. In February 1975, after the [[Arcadia Theatre (Philadelphia)|Arcadia]] cancelled a midnight showing of *[[Black Mass (1975 film)|Black Mass]]* by Ray Hoersch, later [[R.C. Horsch]], following what the *Inquirer* called reported pressure from the [[Roman Catholic Archdiocese of Philadelphia|Philadelphia Archdiocese]], Carduner gave the film a midnight screening at the Bandbox.[^1][^2]
@@ -27,10 +27,11 @@ Carduner grew up in [[New York City]] and came to Philadelphia in 1941. Before t
 
 ### Hoersch
 
-The Bandbox's connection with Hoersch predates *Black Mass*. When the city's [[Philadelphia Department of Licenses and Inspections|Department of Licenses and Inspections]] closed Hoersch's [[Underground Cinema 16]] in late 1969, the Bandbox ran the Vietnam documentary *[[In the Year of the Pig]]*, which Cinema 16 had under contract.[^3] On February 28, 1975, the *Inquirer* reported that *Black Mass* "will be shown at the Germantown Bandbox Theater this Saturday at midnight," according to "the Bandbox's Art Carduner, who gave the film a new home," as a benefit for the Friends of the Bandbox, with Hoersch attending.[^2]
+The Bandbox's connection with Hoersch predates *Black Mass*. When the city's [[Philadelphia Department of Licenses and Inspections|Department of Licenses and Inspections]] closed Hoersch's [[Underground Cinema 16]] in late 1969, the Bandbox ran the Vietnam documentary *[[In the Year of the Pig]]*, which Cinema 16 had under contract.[^3] On February 28, 1975, the *Inquirer* reported that *Black Mass* "will be shown at the Germantown Bandbox Theater this Saturday at midnight," according to "the Bandbox's Art Carduner, who gave the film a new home," as a benefit for the Friends of the Bandbox, with Hoersch attending.[^2] The *Inquirer*'s news story of the same date reported that the center-city house called the report of its booking "a mistake."[^4]
 
 ### Footnotes
 
 [^1]: Morrison, John F. "Art Carduner, a pioneer in exhibiting foreign films in Phila.," *The Philadelphia Inquirer,* December 9, 2009. https://www.inquirer.com/philly/obituaries/20091209_Art_Carduner__a_pioneer_in_exhibiting_foreign_films_in_Phila_.html
 [^2]: [Society and nightlife column], *The Philadelphia Inquirer,* February 28, 1975, p. 21. https://www.newspapers.com/image/173366667/
 [^3]: *The Distant Drummer,* no. 65, December 25, 1969, p. 8, Temple University Libraries, Special Collections Research Center. https://digital.library.temple.edu/digital/collection/p16002coll34/id/473
+[^4]: "Protest Raised Here On 'Black Mass' Film," *The Philadelphia Inquirer,* February 28, 1975, p. 11. https://www.newspapers.com/image/173364962/

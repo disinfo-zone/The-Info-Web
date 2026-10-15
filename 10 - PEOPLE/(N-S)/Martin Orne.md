@@ -12,7 +12,7 @@ born: 1927-10-16
 died: 2000-02-11
 location: Vienna, Austria
 created: 2026-06-03
-updated: 2026-06-04
+updated: 2026-10-15
 ---
 Martin Orne was a psychologist and psychiatrist born in Vienna, Austria, who emigrated to the [[United States]] after the Nazi annexation and completed his B.A. at [[Harvard University]] in 1948. He studied briefly at the [[University of Zurich]] on a Fulbright fellowship, working with [[Carl Jung]], then took his M.D. at [[Tufts University]] in 1955 and his Ph.D. in psychology at Harvard in 1958. In 1961 he founded the Institute for Experimental Psychiatry and directed it throughout his subsequent career. He joined the faculty of the [[University of Pennsylvania]] in 1964, where he served as professor of psychiatry and psychology until his retirement in 1996, and edited the *International Journal of Clinical and Experimental Hypnosis* from 1962 to 1992.[^1]
 
@@ -61,4 +61,4 @@ He chaired the [[American Medical Association]] committee whose 1985 report in *
 [^5]: Martin T. Orne, "The potential uses of hypnosis in interrogation," in Albert Biderman and Herbert Zimmer, eds., *The Manipulation of Human Behavior*. John Wiley and Sons, 1961. pp. 169-215.
 [^6]: Martin T. Orne, "On the social psychology of the psychological experiment," *American Psychologist*, 1962, 17, 776-783; Martin T. Orne and Frederick J. Evans, "Social control in the psychological experiment: Antisocial behavior and hypnosis," *Journal of Personality and Social Psychology*, 1965, 1(3), 189-200; Martin T. Orne, "The simulation of hypnosis: Why, how, and what it means," *International Journal of Clinical and Experimental Hypnosis*, 1971, 19, 183-210.
 [^7]: Martin T. Orne, David F. Dinges, and Emily Carota Orne, "On the differential diagnosis of multiple personality in the forensic context," *International Journal of Clinical and Experimental Hypnosis*, 1984, 32(2), 118-169. https://www.tandfonline.com/doi/abs/10.1080/00207148408416005
-[^8]: Martin T. Orne, "On the use and misuse of hypnosis in court," *International Journal of Clinical and Experimental Hypnosis*, 1979, 27(4), 311-341; American Medical Association, "Scientific Status of Refreshing Recollection by the Use of Hypnosis," *JAMA*, 1985; False Memory Syndrome Foundation Newsletter, March/April 2000, 9(2).
+[^8]: Martin T. Orne, "On the use and misuse of hypnosis in court," *International Journal of Clinical and Experimental Hypnosis*, 1979, 27(4), 311-341; American Medical Association, "Scientific Status of Refreshing Recollection by the Use of Hypnosis," *JAMA*, 1985; False Memory Syndrome Foundation Newsletter, March/April 2000, 9(2). https://web.archive.org/web/2002/http://www.fmsfonline.org/fmsf00.304.html

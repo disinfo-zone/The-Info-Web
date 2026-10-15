@@ -7,7 +7,7 @@ aliases:
   - Iran/Contra
   - Iran-Contra scandal
 created: 2024-04-25
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - Event
   - Political
@@ -47,7 +47,7 @@ relations:
     start: 1987
     end: 1988-12
     role: "Senate subcommittee on Contra drug links and Noriega"
-    fn: 22
+    fn: 23
   - type: participant_in
     with: "[[Oliver North]]"
     reverse: true
@@ -68,21 +68,21 @@ relations:
     start: 1985-12
     end: 1986-11
     role: "national security adviser who authorized the diversion; convicted April 7, 1990, reversed November 15, 1991"
-    fn: 21
+    fn: 22
   - type: participant_in
     with: "[[Richard Secord]]"
     reverse: true
     start: 1984
     end: 1986-11
     role: "retired Air Force general who ran the Enterprise; pleaded guilty November 8, 1989"
-    fn: 21
+    fn: 22
   - type: participant_in
     with: "[[Albert Hakim]]"
     reverse: true
     start: 1984
     end: 1986-11
     role: "Enterprise financial manager; pleaded guilty November 21, 1989"
-    fn: 21
+    fn: 22
   - type: participant_in
     with: "[[William J. Casey]]"
     reverse: true
@@ -110,7 +110,7 @@ relations:
     start: 1987
     end: 1993
     role: "14 persons charged, 11 convicted, 2 convictions overturned, 2 pardoned before trial, 1 case dismissed"
-    fn: 21
+    fn: 22
   - type: participant_in
     with: "[[Joint Chiefs of Staff]]"
     reverse: true
@@ -161,17 +161,19 @@ The Joint Chiefs of Staff appear in the independent counsel's record of the Defe
 
 Walsh's Final Report (August 4, 1993) states that the Iran operations were carried out with the knowledge of Reagan, Bush, Shultz, Weinberger, Casey, McFarlane and Poindexter, of whom only Weinberger and Shultz dissented, and that "large volumes of highly relevant, contemporaneously created documents were systematically and willfully withheld from investigators by several Reagan Administration officials." Casey, hospitalized with a fatal illness before the Independent Counsel was appointed, was never formally investigated. Walsh observed that the problems were "not those of rogue operations, but rather those of Executive Branch efforts to evade congressional oversight," and that grants of immunity to North, Poindexter and [[Albert Hakim]] by Congress, and the attorney general's discretion under the [[Classified Information Procedures Act]] to refuse to declassify information, undermined prosecutions.[^1]
 
+The House and Senate committees' majority report of November 1987 (H. Rept. 100-433, S. Rept. 100-216) was accompanied by minority views signed by Representatives [[Dick Cheney]], Broomfield, Hyde, Courter, McCollum and DeWine, and by Senators McClure and Hatch. The staff list names [[Michael J. Malbin]] as minority editor and writer. The minority views argued that the Constitution protects the President's ability "to persuade U.S. citizens to engage voluntarily in otherwise legal activity to serve what they consider to be the national interest," and that "to whatever extent the Boland Amendments tried to prohibit such activity, they were clearly unconstitutional." They quoted [[Federalist No. 70]] that "energy in the executive is a leading character in the definition of good government."[^21]
+
 ### Prosecutions and pardons
 
-After the Independent Counsel's appointment 14 persons were charged, 11 were convicted (two convictions being overturned on appeal), two were pardoned before trial and one case was dismissed when the Bush administration declined to declassify information needed at trial. Pleas: Carl Channell (April 29, 1987) and Richard Miller (May 6, 1987); McFarlane (March 11, 1988); Secord (November 8, 1989, one felony of false statements to Congress); Hakim (November 21, 1989, a misdemeanor of supplementing North's salary, with Lake Resources Inc. pleading to theft of government property); Fiers (July 9, 1991, two misdemeanors); [[Elliott Abrams]] (October 7, 1991, two misdemeanors, including his solicitation of $10 million from the Sultan of [[Brunei]]). Convictions at trial: Clines (September 18, 1990, four tax-related felonies, 16 months); North (May 4, 1989, three counts, vacated July 20, 1990, dismissed September 16, 1991); Poindexter (April 7, 1990, five felony counts, reversed November 15, 1991, certiorari denied December 7, 1992, indictment dismissed in 1993); George (December 9, 1992, two felonies, pardoned before sentencing). The case against Joseph Fernandez was dismissed on November 24, 1989 after Attorney General [[Richard Thornburgh]] blocked the disclosure of classified information ruled relevant to the defense; the Fourth Circuit upheld that ruling on September 6, 1990.[^21]
+After the Independent Counsel's appointment 14 persons were charged, 11 were convicted (two convictions being overturned on appeal), two were pardoned before trial and one case was dismissed when the Bush administration declined to declassify information needed at trial. Pleas: Carl Channell (April 29, 1987) and Richard Miller (May 6, 1987); McFarlane (March 11, 1988); Secord (November 8, 1989, one felony of false statements to Congress); Hakim (November 21, 1989, a misdemeanor of supplementing North's salary, with Lake Resources Inc. pleading to theft of government property); Fiers (July 9, 1991, two misdemeanors); [[Elliott Abrams]] (October 7, 1991, two misdemeanors, including his solicitation of $10 million from the Sultan of [[Brunei]]). Convictions at trial: Clines (September 18, 1990, four tax-related felonies, 16 months); North (May 4, 1989, three counts, vacated July 20, 1990, dismissed September 16, 1991); Poindexter (April 7, 1990, five felony counts, reversed November 15, 1991, certiorari denied December 7, 1992, indictment dismissed in 1993); George (December 9, 1992, two felonies, pardoned before sentencing). The case against Joseph Fernandez was dismissed on November 24, 1989 after Attorney General [[Richard Thornburgh]] blocked the disclosure of classified information ruled relevant to the defense; the Fourth Circuit upheld that ruling on September 6, 1990.[^22]
 
-On December 24, 1992 President Bush pardoned Weinberger (indicted June 16, 1992, trial set for January 5, 1993), [[Duane Clarridge]] (indicted November 26, 1991 on seven counts of perjury and false statements, trial set for March 15, 1993), George, Abrams, Fiers and McFarlane. Fernandez, whose case had been dismissed, was not among those pardoned.[^21]
+On December 24, 1992 President Bush pardoned Weinberger (indicted June 16, 1992, trial set for January 5, 1993), [[Duane Clarridge]] (indicted November 26, 1991 on seven counts of perjury and false statements, trial set for March 15, 1993), George, Abrams, Fiers and McFarlane. Fernandez, whose case had been dismissed, was not among those pardoned.[^22]
 
 ### The Contra network and drug trafficking
 
-The Kerry Committee's report of December 1988 stated that "individuals who provided support for the Contras were involved in drug trafficking, the supply network of the Contras was used by drug trafficking organizations, and elements of the Contras themselves knowingly received financial and material assistance from drug traffickers," and that "in each case, one or another agency of the U.S. government had information regarding the involvement either while it was occurring, or immediately thereafter." It found that the State Department paid funds Congress had authorized for humanitarian assistance to traffickers, "in some cases after the traffickers had been indicted by federal law enforcement agencies on drug charges." It found no evidence that the Contra leadership participated directly in narcotics smuggling, but that the FDN "did move Contra funds through a narcotics trafficking enterprise and money laundering operation," and that "some officials may have turned a blind eye." It concluded that "there are serious questions as to whether or not U.S. officials involved in Central America failed to address the drug issue for fear of jeopardizing the war effort against Nicaragua," citing the delay in dealing with [[Manuel Noriega]], the premature public announcement of the DEA's [[Barry Seal]] sting of Sandinista officials shortly before a crucial congressional vote on Contra aid, and the case of the Honduran General [[Jose Bueso Rosa|José Bueso-Rosa]], convicted of a plot to assassinate President [[Roberto Suazo Cordova|Roberto Suazo Córdova]] financed by a $40 million cocaine sale, who received a light sentence after U.S. officials intervened.[^22] The Kerry report also described Contra supply contractors paid by the State Department's Nicaraguan Humanitarian Assistance Office, the Contra supply officer [[Mario Calero]]'s agreement with the pilot [[Frank Moss]], and the passage of Contra funds through traffickers.[^22]
+The Kerry Committee's report of December 1988 stated that "individuals who provided support for the Contras were involved in drug trafficking, the supply network of the Contras was used by drug trafficking organizations, and elements of the Contras themselves knowingly received financial and material assistance from drug traffickers," and that "in each case, one or another agency of the U.S. government had information regarding the involvement either while it was occurring, or immediately thereafter." It found that the State Department paid funds Congress had authorized for humanitarian assistance to traffickers, "in some cases after the traffickers had been indicted by federal law enforcement agencies on drug charges." It found no evidence that the Contra leadership participated directly in narcotics smuggling, but that the FDN "did move Contra funds through a narcotics trafficking enterprise and money laundering operation," and that "some officials may have turned a blind eye." It concluded that "there are serious questions as to whether or not U.S. officials involved in Central America failed to address the drug issue for fear of jeopardizing the war effort against Nicaragua," citing the delay in dealing with [[Manuel Noriega]], the premature public announcement of the DEA's [[Barry Seal]] sting of Sandinista officials shortly before a crucial congressional vote on Contra aid, and the case of the Honduran General [[Jose Bueso Rosa|José Bueso-Rosa]], convicted of a plot to assassinate President [[Roberto Suazo Cordova|Roberto Suazo Córdova]] financed by a $40 million cocaine sale, who received a light sentence after U.S. officials intervened.[^23] The Kerry report also described Contra supply contractors paid by the State Department's Nicaraguan Humanitarian Assistance Office, the Contra supply officer [[Mario Calero]]'s agreement with the pilot [[Frank Moss]], and the passage of Contra funds through traffickers.[^23]
 
-The National Security Archive's briefing book prints North's notebook for July 12, 1985, in which Secord is quoted as saying that "14 M to finance [the arms in a Honduran warehouse] came from drugs," and North's August 9, 1985 entry that a Honduran DC-6 used for runs out of New Orleans "is probably being used for drug runs into U.S."; the briefing book also notes that DEA agents testified on July 28, 1988 that North had wanted $1.5 million in Cartel money carried by a DEA informant given to the Contras.[^15] The Kerry report states that the pilot [[Floyd Carlton]] testified that Noriega was paid $100,000 to $250,000 for each of four cocaine flights he piloted for the [[Medellin Cartel]], and that the same Panamanian general met North in June 1985 and again in [[London]] on September 22, 1986 to discuss sabotage in Nicaragua; when North proposed a meeting on August 23, 1986, Poindexter replied, "I have nothing against him other than his illegal activities," and Walsh records that the decision was made not to pay Noriega the $1 million.[^15][^22][^23]
+The National Security Archive's briefing book prints North's notebook for July 12, 1985, in which Secord is quoted as saying that "14 M to finance [the arms in a Honduran warehouse] came from drugs," and North's August 9, 1985 entry that a Honduran DC-6 used for runs out of New Orleans "is probably being used for drug runs into U.S."; the briefing book also notes that DEA agents testified on July 28, 1988 that North had wanted $1.5 million in Cartel money carried by a DEA informant given to the Contras.[^15] The Kerry report states that the pilot [[Floyd Carlton]] testified that Noriega was paid $100,000 to $250,000 for each of four cocaine flights he piloted for the [[Medellin Cartel]], and that the same Panamanian general met North in June 1985 and again in [[London]] on September 22, 1986 to discuss sabotage in Nicaragua; when North proposed a meeting on August 23, 1986, Poindexter replied, "I have nothing against him other than his illegal activities," and Walsh records that the decision was made not to pay Noriega the $1 million.[^15][^23][^24]
 
 Webb wrote that Kerry investigation director [[Jack Blum]] told him: "We were even dumped on by the Iran-Contra Committee. They wouldn't touch this issue with a ten-foot pole," and that during North's July 1987 testimony two men from Baltimore stood with a banner reading "Ask about the cocaine smuggling" before police removed them. Webb also wrote that the plane shot down over Nicaragua was a Fairchild C-123K called The Fat Lady, based at [[Mena, Arkansas]] before Barry Seal sold it, after which it flew weapons for North and the [[FDN]]; that Hasenfus was a former [[Air America]] cargo handler; that congressional records show North was regularly briefed by the CIA on Seal's joint CIA-DEA sting of the Sandinistas and allegedly leaked it to the press shortly before a critical vote on Contra aid; and that the Enterprise's flights from Ilopango reportedly brought cocaine back on return flights, with Hangar No. 4 there used by the CIA until it was turned over to North's operation in 1985. The Committees' account identifies the aircraft only as one belonging to the Enterprise, with a [[Southern Air Transport]] identification card found on the pilot.[^3][^8]
 
@@ -201,6 +203,7 @@ The writer Cheri Seymour wrote that the Iran-Contra Affair was a significant com
 [^18]: Walsh, Part VIII, note 167 (McMahon, memorandum for the record, March 15, 1985, ER 26,187-88 and ER 92-00116-17). https://irp.fas.org/offdocs/walsh/part_viii.htm
 [^19]: Walsh, Part VIII, notes 16-18 (Weinberger diary, August 22, 1985, ALZ 0039606-07; Weinberger calendar, LC-007474; Powell, Select Committees deposition, June 19, 1987, p. 5). https://irp.fas.org/offdocs/walsh/part_viii.htm
 [^20]: Walsh, Part VIII, citing Weinberger diary, November 21, 1985 (ALZ 0039802-03). https://irp.fas.org/offdocs/walsh/part_viii.htm
-[^21]: Walsh, *Final Report*, vol. I, "Summary of Prosecutions." https://fas.org/irp/offdocs/walsh/summpros.htm
-[^22]: U.S. Senate, Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy*, S. Prt. 100-165 (December 1988), "Summary of Findings," chapters on the Contras and on Panama, and the Conclusions. https://archive.org/details/Kerry-Report-Drugs-Contras
-[^23]: Walsh, *Final Report*, vol. I, ch. 25, "United States v. Elliott Abrams," section on the September 19 and 20, 1986 meetings. https://fas.org/irp/offdocs/walsh/chap_25.htm
+[^21]: *Report of the Congressional Committees Investigating the Iran-Contra Affair,* H. Rept. 100-433, S. Rept. 100-216, November 1987, contents (Section II, "The Minority Report," p. 431), minority views ch. 1, p. 451, ch. 2, p. 460, and staff list. https://archive.org/download/Iran-ContraReport/Report%20of%20the%20Congressional%20Committees%20Investigating%20the%20Iran-Contra%20Affair.pdf
+[^22]: Walsh, *Final Report*, vol. I, "Summary of Prosecutions." https://fas.org/irp/offdocs/walsh/summpros.htm
+[^23]: U.S. Senate, Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *Drugs, Law Enforcement and Foreign Policy*, S. Prt. 100-165 (December 1988), "Summary of Findings," chapters on the Contras and on Panama, and the Conclusions. https://archive.org/details/Kerry-Report-Drugs-Contras
+[^24]: Walsh, *Final Report*, vol. I, ch. 25, "United States v. Elliott Abrams," section on the September 19 and 20, 1986 meetings. https://fas.org/irp/offdocs/walsh/chap_25.htm

@@ -10,6 +10,7 @@ summary: "Unsolved murders of four children in Oakland County, Michigan (1976-19
 start: 1976
 end: 1977
 location: "Oakland County, Michigan"
+updated: 2026-10-15
 ---
 
 ### Overview
@@ -27,14 +28,18 @@ Twelve-year-old Mark Stebbins vanished from a shopping center in February 1976; 
 Behind the public facade of sketches and snow patterns, law enforcement focused on two convicted pedophiles who were both tied to [[Francis Shelden]] and cleared by polygraph. Christopher Busch, the son of a [[General Motors]] executive, was arrested in January 1977 alongside an associate named Gregory Greene for sexually assaulting a boy. Greene confessed to police that Busch had killed a boy during a trip to his family cabin, and he identified the victim as Mark Stebbins. Busch was polygraphed and cleared. Kint Gilbert Schultz, another convicted pedophile with ties to Shelden's child porn ring, was also polygraphed and cleared. Both men had been suspected of operating within a larger pedophile ring connected to [[north fox island]], and both were later linked to 8mm child pornography production. The fact that two prime suspects were cleared by polygraph and then largely left alone counted as one of the most controversial aspects of the case.[^1]
 
 
+### Timeline of the Arrests and Polygraphs
+
+In January 1977 [[Gregory Greene]] was arrested on child sexual assault charges and told investigators that Christopher Busch had killed one of the four boys. Busch and Greene both passed polygraph examinations. Greene was convicted and sentenced to life in prison, and Busch received probation on the charges against him.[^2]
+
 ### The North Fox Island Connection
 
-The investigation into the Oakland County Child Killer converged with the North Fox Island investigation through multiple persons of interest. [[Francis Shelden]], a wealthy philanthropist and owner of North Fox Island, was identified as the financier of a child pornography ring operating in the Cass Corridor area of Detroit. An informant named Richard Lawson, who had operated within this ring, later told detectives the morder of [[Timothy King]] had been captured in a snuff film financed by Shelden. Lawson identified three suspects: i Jusiah Tazelaar, a schoolteacher linked to North Fox Island by [[Gerald Richards]]; ii) Robert Moore, a child pornographer with a studio in a Cass Corridor bike shop; and iii) Ted Lamborgine, a Ford Motors employee who procured boys for Moore. These leads were never fully exploited by the task force, which instead pivoted to a "serial killer" profile that diverted resources away from the pedophile rings.[^1]
+The investigation into the Oakland County Child Killer converged with the North Fox Island investigation through multiple persons of interest. Francis Shelden, a wealthy philanthropist and owner of North Fox Island, was identified as the financier of a child pornography ring operating in the Cass Corridor area of Detroit. An informant named Richard Lawson, who had operated within this ring, later told detectives the morder of Timothy King had been captured in a snuff film financed by Shelden. Lawson identified three suspects: i Jusiah Tazelaar, a schoolteacher linked to North Fox Island by [[Gerald Richards]]; ii) Robert Moore, a child pornographer with a studio in a Cass Corridor bike shop; and iii) Ted Lamborgine, a Ford Motors employee who procured boys for Moore. These leads were never fully exploited by the task force, which instead pivoted to a "serial killer" profile that diverted resources away from the pedophile rings.[^1]
 
 
 ### The Suicide of Christopher Busch
 
-In November 1978, Christopher Busch was found dead in his family home, purtortedly from a self-inflicted gunshot wound. He was found lying in bed with one arm tucked beneath a pillow, next to a .22 rifle. Crime scene investigators discovered ropes cut to the length required for binding limbs, a hand-drawn portrait of a boy screaming in a parka coat that resembled Mark Stebbins, and a box of shotgun shells. The very next day, the OCCK task force was dissolved and the case golt cold. The timing was remarkable: a prime suspect dead, and the investigation ended. Busch's father, Harold Lee Busch, was a high-level General Motors executive, and accounts emerged in the years that followed of a pedophile ring comprised of GM executives. It has been alleged that offering children up to the upper reches of management was a "kind of ticket" into the elite circles of the company.[^1]
+A family blog maintained by the family of one victim describes Busch's death as a suicide in 1978, shortly after the death of one of the boys.[^2] In November 1978, Christopher Busch was found dead in his family home, purtortedly from a self-inflicted gunshot wound. He was found lying in bed with one arm tucked beneath a pillow, next to a .22 rifle. Crime scene investigators discovered ropes cut to the length required for binding limbs, a hand-drawn portrait of a boy screaming in a parka coat that resembled Mark Stebbins, and a box of shotgun shells. The very next day, the OCCK task force was dissolved and the case golt cold. The timing was remarkable: a prime suspect dead, and the investigation ended. Busch's father, Harold Lee Busch, was a high-level General Motors executive, and accounts emerged in the years that followed of a pedophile ring comprised of GM executives. It has been alleged that offering children up to the upper reches of management was a "kind of ticket" into the elite circles of the company.[^1]
 
 
 ### Renewed Cold Case Investigation
@@ -44,3 +49,4 @@ The case lay cold for decades until a Michigan detective named Cory Williams rec
 ### Footnotes
 
 [^1]: Dovey S 2023 'Eye of the Chickenhawk' United States Thehotstar.
+[^2]: ClickOnDetroit (WXYZ), "Oakland County Child Killer: 40 years later," timeline of the 1976-77 killings, Greene arrest, polygraphs, convictions and sentences. https://clickondetroit.com/news/defenders/oakland-county-child-killer-40-years-later

@@ -76,7 +76,7 @@ relations:
     role: "defense counsel, Cloer murder trial"
     fn: 25
 created: 2025-08-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 [[Philip Arthur Thompson]] (spelled Phillip Arthur Thompson in court records), also known as PAT, "Jason" and Jason Smith, was convicted of robbing and kidnapping two [[United Parcel Service]] drivers in [[Burlingame, California]] in December 1980,[^1] and, on April 8, 2008, of the first degree murder of [[Betty Cloer]] in [[El Dorado County]] in 1971.[^2] [[Michael Riconosciuto]] named him as the killer of [[Paul Morasca]], and [[Cheri Seymour]] wrote that he worked as an informant for [[Federal Bureau of Investigation|FBI]] agent [[Robert Barnes]].[^3]
 
@@ -174,7 +174,7 @@ The Third District affirmed the conviction in an unpublished opinion filed Decem
 [^15]: Thomas and Keith, *The Octopus*, text near pp. 28-36, citing Jonathan Littman and Taylor, "Bizarre Murders Puzzle Cops," San Francisco Chronicle, December 30, 1991. https://archive.org/details/the-octopus
 [^16]: Ted L. Gunderson to Hon. Victor Dahman, October 6, 1983, Danny Casolaro papers, Misc. Docs file. https://archive.org/details/casolaro-notebooks
 [^17]: "Statement of Michael J. Riconosciuto," February 16, 1984, Danny Casolaro papers, Misc. Docs file. https://archive.org/details/casolaro-notebooks
-[^18]: Seymour, *The Last Circle*, ch. 17, "The Inslaw Affair," p. 344. https://archive.org/details/TheInslawAffair
+[^18]: Seymour, *The Last Circle*, ch. 17, "The Inslaw Affair," pp. 344-345. https://archive.org/details/TheInslawAffair
 [^19]: John Hussar, "Crime probes tied to Nichols associates," Desert Sun (Palm Springs), March 21, 1985, p. 1 (reprint). https://www.maebrussell.com/Inslaw/Desert%20Sun%203-21-85.html
 [^20]: "Transcript of Meeting," Alan D. Boyack, Ted Gunderson and Michael James Riconosciuto, May 5, 1991, Tacoma, Washington, pp. 19-21. https://archive.org/details/CasolaroTranscriptBoyackGundersonRiconsosciuto
 [^21]: Cheri Seymour, "VORTEX" summary dated February 24, 1992, attached to her affidavit notarized in Mariposa County, October 1992. https://archive.org/details/VORTEXDocument

@@ -81,7 +81,7 @@ relations:
     with: "[[Scorpio '70]]"
     start: 1970
     role: "producer, and writer from an idea by Lake"
-    fn: 16
+    fn: 17
 created: 2026-09-23
 updated: 2026-10-15
 ---
@@ -110,23 +110,23 @@ The film magazine [[Take One]] named the company in its March-April 1973 issue. 
 
 The [[Boxoffice (magazine)|Boxoffice]] booking chart of the Canadian edition, dated February 4, 1974, lists the film under the distributor "Mature," with a booking date of October 15, 1973.[^14] Take One attributes the company to Bob Sumner, and Horsch attributes it to Lake.
 
-A New York corporation named Mature Pictures, Inc. appears in the state registry under the alternate name Mature Pictures Incorporated. Its status is listed as inactive, with the dissolution type "Dissolution By Proclamation / Annulment Of Authority." Its registered address is in care of the law firm Kassner & Detsky at 350 Fifth Avenue.[^15]
+A New York corporation named Mature Pictures, Inc. appears in the state registry under the alternate name Mature Pictures Incorporated. Its status is listed as inactive, with the dissolution type "Dissolution By Proclamation / Annulment Of Authority." Its registered address is in care of the law firm Kassner & Detsky at 350 Fifth Avenue.[^15] In *Walt Disney Productions v. Mature Pictures Corp.* (Southern District of New York, No. 75 Civ. 394, decided February 14, 1975), Judge Kevin Thomas Duffy granted [[The Walt Disney Company|Walt Disney Productions]] and the Walt Disney Music Company a preliminary injunction over the use of the "Mickey Mouse March" in a film titled *The Life and Times of the Happy Hooker* or *The Life and Times of Xaviera*. Kassner & Detsky, by Seymour S. Detsky, appeared for the defendants Mature Pictures Corp. and Robert Sumner.[^16]
 
 ### Scorpio '70
 
-The [[American Film Institute]] catalog lists Sam Lake as the producer of *Scorpio '70* (1970), directed by [[Ron Sullivan]] from a script by Dario Finelli, with a writing credit to Lake "from an idea by." The catalog lists the distribution company as Sam Lake Enterprises.[^16]
+The [[American Film Institute]] catalog lists Sam Lake as the producer of *Scorpio '70* (1970), directed by [[Ron Sullivan]] from a script by Dario Finelli, with a writing credit to Lake "from an idea by." The catalog lists the distribution company as Sam Lake Enterprises.[^17]
 
 ### Robert Sumner and Quality X
 
-Alilunas wrote that Robert Sumner premiered *Deep Throat* at the [[World Theater]] in New York in 1972 "to record crowds," and that in spring 1977, as "president of Mature Pictures in New York," with his World Theater lease expiring, he put his film library on videotape, licensing titles from the [[Mitchell Brothers]], [[Alex de Renzy]] and [[Radley Metzger]] as well as his own. The initial investment was 75,000 dollars; the first stock was thirty cassettes at 110 dollars each, sold at the East World Theater. The label was Quality X, advertised in *Screw* from October 1977.[^4] By October 1978 the Sweetheart's Home Video Center stores of [[Arthur Morowitz]], in the lobbies of the World Theater and the Manhattan Twin, carried Quality X tapes supplied by Sumner.[^17] In 1979, Alilunas wrote, "Sumner's Mature Pictures" released [[Gerard Damiano]]'s *People* and *Misbehavin'* to theaters and on video at the same time, the first use of that release pattern.[^18]
+Alilunas wrote that Robert Sumner premiered *Deep Throat* at the [[World Theater]] in New York in 1972 "to record crowds," and that in spring 1977, as "president of Mature Pictures in New York," with his World Theater lease expiring, he put his film library on videotape, licensing titles from the [[Mitchell Brothers]], [[Alex de Renzy]] and [[Radley Metzger]] as well as his own. The initial investment was 75,000 dollars; the first stock was thirty cassettes at 110 dollars each, sold at the East World Theater. The label was Quality X, advertised in *Screw* from October 1977.[^4] By October 1978 the Sweetheart's Home Video Center stores of [[Arthur Morowitz]], in the lobbies of the World Theater and the Manhattan Twin, carried Quality X tapes supplied by Sumner.[^18] In 1979, Alilunas wrote, "Sumner's Mature Pictures" released [[Gerard Damiano]]'s *People* and *Misbehavin'* to theaters and on video at the same time, the first use of that release pattern.[^19]
 
 In a note based on his 2012 email correspondence with Revene, Alilunas wrote that the Swedish producer [[Per Sjöstedt]], investor for the director [[Joe Sarno]], kept connections to the New York adult-film trade "particularly with Sam Lake at Mature Pictures, where Sarno had made many of his early sexploitation films." Sjöstedt became assistant producer and production manager for Lake alongside the producer Robert Sumner, and Lake's connections "were deep, with links to Howard Farber and Arthur Morowitz's Distribpix." Sumner "also founded Quality-X Video," and the Sjöstedt connection led to the formation of [[Femme Productions]].[^3]
 
 ### The World Theater and Mature Enterprises
 
-The [[Boston Globe]] obituary of the New York judge [[Joel J. Tyler]] reports that charges were filed in August 1972 against Mature Enterprises, the company that owned the New Mature World Theater, for promoting obscene material, and that the trial began in December 1972. The obituary says that the film tried was [[Deep Throat]], which had opened at that theater on June 12, 1972, and that Tyler fined Mature Enterprises 100,000 dollars, a sum later reduced on appeal.[^19]
+The [[Boston Globe]] obituary of the New York judge [[Joel J. Tyler]] reports that charges were filed in August 1972 against Mature Enterprises, the company that owned the New Mature World Theater, for promoting obscene material, and that the trial began in December 1972. The obituary says that the film tried was [[Deep Throat]], which had opened at that theater on June 12, 1972, and that Tyler fined Mature Enterprises 100,000 dollars, a sum later reduced on appeal.[^20]
 
-A game designer identified in video titles as "Remedy's Sam Lake" shares the name and is a different person.[^20]
+A game designer identified in video titles as "Remedy's Sam Lake" shares the name and is a different person.[^21]
 
 ### Footnotes
 
@@ -142,11 +142,12 @@ A game designer identified in video titles as "Remedy's Sam Lake" shares the nam
 [^10]: GOTHAM RELEASING CORP. "Exec: Sam Lake, Pres.," 630 Ninth Ave., New York, *Motion Picture Exhibitor,* August-November 1960. https://lantern.mediahist.org/catalog/motionpictureexh64jaye_0_0637 The same listing, April-July 1964. https://lantern.mediahist.org/catalog/motionpictureexh71jaye_0_0302 Also September-December 1961 and September-December 1962 editions, https://lantern.mediahist.org/catalog/motionpictureexh68jaye_0_0460
 [^11]: "Sam Lake Enterprises, Inc., 630 Ninth Ave., New York 36, N. Y.," and "Sam Lake, President," *The Film Daily Year Book of Motion Pictures 1963.* https://lantern.mediahist.org/catalog/1963filmdailyyea1963wids_0432
 [^12]: "SAM LAKE of Sam Lake Enterprises Inc., New York, one of the foremost distributors of sex-exploitation pictures in the world," *CINE World,* nos. 6-7, April 1965. https://lantern.mediahist.org/catalog/cine-world-6-7_0022 Photograph caption identifying "U.S. Distributor Sam Lake," https://lantern.mediahist.org/catalog/cine-world-6-7_0014
-[^13]: Morthland, John. "Porn Films: An In-Depth Report," *Take One,* vol. 3, no. 6 (March-April 1973), pp. 11-15. The passages quoted appear on page 15 and page 16 of the issue. https://archive.org/details/take-one-1973-03 and https://lantern.mediahist.org/catalog/take-one-1973-03_0016
+[^13]: Morthland, John. "Porn Films: An In-Depth Report," *Take One,* vol. 3, no. 6 (March-April 1973), pp. 11-17. The Sumner passage appears on page 16 and the "highly visible" passage on page 17. https://archive.org/details/take-one-1973-03 and https://lantern.mediahist.org/catalog/take-one-1973-03_0016
 [^14]: "Boxoffice Bookinguide," *Boxoffice* (Canadian edition), February 4, 1974, national booking chart, entry for *Erotic Memoirs/Male Chauvinist Pig* ("Mature 10-15-73"). https://archive.org/details/boxoffice-canadian-1974-02-04 and https://lantern.mediahist.org/catalog/boxoffice-canadian-1974-02-04_0018
 [^15]: "MATURE PICTURES, INC.," New York (US) entity, status "Inactive," "Dissolution By Proclamation / Annulment Of Authority," registered address "%KASSNER & DETSKY, 350 FIFTH AVE., NEW YORK, NEW YORK, 10001," previously known as "MATURE PICTURES INCORPORATED." OpenCorporates, accessed October 15, 2026. https://opencorporates.com/companies/us_ny/248644
-[^16]: "Scorpio '70 (1970)," *AFI Catalog of Feature Films,* production and distribution credits (producer "Sam Lake, Pres."; writer "Sam Lake, From an idea by"; distribution "Sam Lake Enterprises"). https://catalog.afi.com/Film/20729-SCORPIO-'70
-[^17]: Alilunas, *Smutty Little Movies,* p. 75.
-[^18]: Alilunas, *Smutty Little Movies,* p. 77.
-[^19]: "Obituary of Judge Joel J. Tyler," *The Boston Globe,* January 16, 2012 (charges filed against Mature Enterprises in August 1972; trial began December 1972; the New Mature World Theater; fine of $100,000 later reduced on appeal). https://www.bostonglobe.com/metro/obituaries/2012/01/16/joel-tyler-judge-deep-throat-case/hbiQ0keQ0VW0y26CY035SL/story.html
-[^20]: "Remedy's Sam Lake addresses Alan Wake fans," video title, Internet Archive item youtube-k5CRjoQKyY8. https://archive.org/details/youtube-k5CRjoQKyY8
+[^16]: *Walt Disney Productions v. Mature Pictures Corp.*, 389 F. Supp. 1397 (S.D.N.Y. 1975) (No. 75 Civ. 394, Duffy, J., February 14, 1975; counsel Kassner & Detsky, Seymour S. Detsky, for defendants Mature Pictures Corp. and Robert Sumner). https://static.case.law/f-supp/389/cases/1397-01.json
+[^17]: "Scorpio '70 (1970)," *AFI Catalog of Feature Films,* production and distribution credits (producer "Sam Lake, Pres."; writer "Sam Lake, From an idea by"; distribution "Sam Lake Enterprises"). https://catalog.afi.com/Film/20729-SCORPIO-'70
+[^18]: Alilunas, *Smutty Little Movies,* p. 75.
+[^19]: Alilunas, *Smutty Little Movies,* p. 77.
+[^20]: "Obituary of Judge Joel J. Tyler," *The Boston Globe,* January 16, 2012 (charges filed against Mature Enterprises in August 1972; trial began December 1972; the New Mature World Theater; fine of $100,000 later reduced on appeal). https://www.bostonglobe.com/metro/obituaries/2012/01/16/joel-tyler-judge-deep-throat-case/hbiQ0keQ0VW0y26CY035SL/story.html
+[^21]: "Remedy's Sam Lake addresses Alan Wake fans," video title, Internet Archive item youtube-k5CRjoQKyY8. https://archive.org/details/youtube-k5CRjoQKyY8

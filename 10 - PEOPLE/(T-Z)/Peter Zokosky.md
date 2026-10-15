@@ -10,7 +10,7 @@ relations:
     with: "[[Meridian International Logistics]]"
     role: "board member; asked later to be taken off the board (Zokosky to Seymour, 2001)"
     fn: 1
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 [[Peter Zokosky]] was an arms manufacturer and a key figure in various covert operations and business ventures, often associated with [[Robert Booth Nichols]] and [[Michael Riconosciuto]]. He was a former president of [[Armtec]], a company that produced combustible cartridge cases for the Army, and was under a non-compete agreement with them until August 1981. Zokosky also served as a consultant to the [[Great Britain|British Government]] on shell casings.[^1]
 
@@ -36,7 +36,7 @@ Seymour wrote in her 1992 VORTEX account that Michael Riconosciuto had once been
 
 ### Role in "The Octopus" Investigation
 
-Peter Zokosky was a key source for [[Cheri Seymour]]'s investigation into "[[The Octopus]]." He provided Seymour with a copy of the "Special Operations [Surveillance] Report" on the Lake Cahuilla meeting, which he had obtained from a friend in [[Washington, D.C.]], the document the special counsel had traced to Gilbert's 1991 interview with Riconosciuto. He also provided an audio-taped conversation with Michael Riconosciuto narrating the murders of [[Paul Morasca]] and [[Mary Quick]], and their connection to drug operations. Zokosky stated that Paul Morasca was killed due to a "narcotics deal" gone awry and his involvement in laundering drug profits.[^1]
+Peter Zokosky was a key source for [[Cheri Seymour]]'s investigation into "[[The Octopus]]." He provided Seymour with a copy of the "Special Operations [Surveillance] Report" on the Lake Cahuilla meeting, which he had obtained from a friend in [[Washington, D.C.]], the document the special counsel had traced to Gilbert's 1991 interview with Riconosciuto. He also provided an audio-taped conversation with Michael Riconosciuto narrating the murders of [[Paul Morasca]] and [[Mary Quick]], and their connection to drug operations. The tape referred to the murder of Morasca in [[San Francisco]] and of Quick in [[Fresno]], and said that [[Ben Kalka]] handled an LSD operation in Fresno.[^4] Zokosky stated that Paul Morasca was killed due to a "narcotics deal" gone awry and his involvement in laundering drug profits.[^1] Seymour recorded Zokosky's assessment of Riconosciuto as unreliable, a pathological liar with grains of truth in the tales he spins.[^5]
 
 Zokosky was initially defensive about [[Danny Casolaro]]'s death, stating he believed Casolaro committed suicide, though his wife, [[Regina Zokosky]], indicated he had previously said otherwise. He allowed Cheri Seymour and [[Kelly O'Meara]] to review a manuscript written by Robert Booth Nichols about Danny Casolaro's death, titled "Danny Casolaro's Octopus."[^1]
 
@@ -54,3 +54,5 @@ He was an investor in the Cabazon Indian Reservation and a skeet range, though h
 [^1]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal.* TrineDay, 2010. The special counsel's report records the Picatinny meeting date as disputed and found no support for the presence of Contra leaders or Earl Brian at Lake Cahuilla.
 [^2]: U.S. Department of Justice. *Report of Special Counsel Nicholas J. Bua to the Attorney General of the United States Regarding the Allegations of INSLAW, Inc.,* March 1993, pp. 56-64.
 [^3]: Seymour, Cheri. "VORTEX," diary dated February 24, 1992, p. 11. https://archive.org/details/VORTEXDocument
+[^4]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010, p. 340.
+[^5]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010, p. 344.

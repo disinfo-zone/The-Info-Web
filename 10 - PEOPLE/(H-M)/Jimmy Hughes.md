@@ -29,7 +29,7 @@ relations:
     role: "distant cousin"
     fn: 1
 created: 2025-08-05
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 James "Jimmy" Hughes was the security director of the casino and bingo operations of the [[Cabazon Indian Reservation|Cabazon Band of Mission Indians]] for four years, until 1984.[^1] In a statement to investigators reported by the *[[Los Angeles Times]]* in 1985, he said that in the summer of 1981 he had been instructed, in the presence of the tribe's financial adviser [[Dr. John Philip Nichols]], to take 25,000 dollars to Idyllwild and give it to a man as partial payment for the killing of [[Fred Alvarez]].[^1] He later described himself as a former Army Ranger who had become a "Mafia hit-man," said he had worked for the [[Central Intelligence Agency|CIA]] abroad and been protected by the [[Federal Bureau of Investigation|FBI]] in exchange for information, and alleged that Nichols issued murder contracts and that the tribe's gambling enterprises were fronts for government-sanctioned covert military activity and arms shipments to Central and [[South America]].[^2]
@@ -50,6 +50,10 @@ Hughes was held without bail for nearly nine months. On July 1, 2010, Deputy Att
 
 Hughes joined the [[Full Gospel Business Men's Fellowship International]] in 1987 and founded Jimmy Hughes Ministries, Free the Oppressed, in Honduras, where he ministered to and trained military personnel at Zambrano. In February 2008 he spoke at a fellowship dinner in Fresno, California, with General [[Daniel Lopez Carballo]] of Honduras. The writer Cheri Seymour wrote that he was involved in planning the June 2009 [[Honduras coup|coup]] that removed President [[Manuel Zelaya]]; its leaders, Generals [[Romeo Vasquez Velasquez]] and Lopez Carballo, who installed [[Roberto Micheletti]], were members of the fellowship and friends of Hughes.[^2]
 
+### Riconosciuto's 1982 protective-custody letter
+
+A letter dated April 13, 1982, signed by Phyllis Riconosciuto, then the wife of Michael Riconosciuto, and by Hughes, engaged Hughes and a second man to provide bodyguard services for Riconosciuto on April 14, 15 and 16 for a flat fee of $1,300, including airfare, hotel and meals, to fly to [[Fresno]] and help him "get his affairs in order" until he went into protective custody with the FBI at its [[Oakland, California|Oakland]] office.[^6] The letter stated that Riconosciuto was to meet FBI special agent [[Robert Barnes]], and that Hughes and the second man could return to Palm Springs once Barnes assumed protection of him.[^6] [[Cheri Seymour]] wrote that the letter indicates Hughes had either met or known Barnes.[^7]
+
 ### Footnotes
 
 [^1]: "California authorities believe an unsolved 1981 triple murder was a hit job," Associated Press, September 2009 (Fox News mirror), citing the *Los Angeles Times* of 1985 and state attorney general's spokesman Evan Westrup. https://www.foxnews.com/story/unsolved-1981-triple-murder-in-california-was-hit-job-authorities-say.amp ; "Authorities say triple tribe murder was hit job," Associated Press, September 2009. https://www.foxnews.com/story/authorities-triple-tribe-murder-was-hit-job.amp
@@ -57,3 +61,5 @@ Hughes joined the [[Full Gospel Business Men's Fellowship International]] in 198
 [^3]: "Jimmy Hughes Speaks To KESQ After Charges Dropped," KESQ News Channel 3, Palm Springs, July 2, 2010. https://kesq.com/news/2010/07/02/jimmy-hughes-speaks-to-kesq-after-charges-dropped/
 [^4]: Taxin, Amy, with Jennifer Kay. "Arrest in 1981 tribal murders revives old mystery." Associated Press, in *The Press Democrat,* November 22, 2009. https://www.pressdemocrat.com/2009/11/22/arrest-in-1981-tribal-murders-revives-old-mystery/
 [^5]: "Murder case against preacher abruptly dropped in mysterious 1981 California tribal slaying," Associated Press, July 2010 (Fox News). https://www.foxnews.com/us/murder-case-against-preacher-abruptly-dropped-in-mysterious-1981-california-tribal-slaying
+[^6]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010, pp. 404-405.
+[^7]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010, p. 405.

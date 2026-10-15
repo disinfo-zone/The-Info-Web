@@ -2,6 +2,7 @@
 aliases:
 - Martin Gardner
 category: "Skeptics & Critics"
+updated: 2026-10-15
 tags:
   - Person
   - Skeptic
@@ -23,8 +24,14 @@ Gardner, along with [[Carl Sagan]], [[Ray Hyman]], [[Paul Kurtz]], and [[James R
 
 Towards the end of his life, Gardner experienced a religious epiphany, openly discussing his belief in a supernatural being or God. He asserted that this belief was not pseudoscience because it could neither be confirmed nor disproved by science or reason, calling it "philosophical theism"[^1].
 
+### Psychic research, 1974
+
+In March 1974 the magazine [[Time (magazine)|Time]] published a cover story on psychic research in which Gardner, identified in the article as its science and mathematics analyst, commented on the field. He listed "Uri Geller, The Secret Life of Plants, telepathy, ESP, the incomplete conclusions of [[Arthur Koestler]]" and wrote that these "all seem part of a new uncritical enthusiasm for pseudo science." He added: "The claims are immense, the proof nonexistent."[^2]
+
 ### Publications
 *   *Fads and Fallacies in the Name of Science* (1952)
 
 ### Footnotes
+
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: "Boom Times on the Psychic Frontier," *Time*, March 4, 1974, CIA-RDP96-00787R000100030002-8 (CIA CREST).
