@@ -4,7 +4,7 @@ aliases:
   - Scott Weekly
   - Dr. Death
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-15
 category: "Military"
 tags:
   - Person
@@ -26,6 +26,8 @@ Weekly was a classmate of [[Oliver North]] at the Naval Academy before being "ki
 
 In 1983, Weekly and former Green Beret lieutenant colonel James "Bo" Gritz were arrested in Thailand during a covert mission to locate American POWs in Laos. The operation, code-named "Lazarus," was initially supported by the army's Intelligence Support Activity (ISA) and had DIA involvement. Gritz said "CIA-DIA knew" of the mission. Columnist Jack Anderson later reported the mission had "at least initial support from the CIA and the Pentagon," based on court records from the Ronald Rewald case. Rewald said he supplied funds "at the CIA's behest."[^1]
 
+The Washington Post reported in 1985 that the [[United States Army Intelligence Support Activity]] had made contact with [[Bo Gritz]] to aid his unofficial Laos mission, and a CIA memorandum recorded that the unit supported the Gritz collection operation without informing the Defense Intelligence Agency or the House Permanent Select Committee on Intelligence until several months afterward.[^2][^3] [[Time (magazine)|Time]] dated the start of the Gritz mission to November 27, 1982, and reported that Gritz surrendered at a police station in northeastern [[Thailand]] about four weeks before its April 4, 1983 issue.[^4]
+
 ### Connection to Lister and the Contras
 
 Weekly was identified by Ronald Lister during the October 1986 [[LASD Major Violators]] raids as his CIA contact, "Mr. Weekly." Lister wrote in seized documents that he "had regular meeting with DIA subcontractor Scott Weekly. Scott had worked in El Salvador for us. Meeting concern my relationship with Contra grp. in Cent. Am." Weekly admitted to ATF agents he "had been involved with the Contras in the past, when Pastora was in power." A U.S. Customs official said "Weekly was acting at the direction of Customs when he was involved with the Contras."[^1]
@@ -41,3 +43,6 @@ Justice Department official [[Mark M. Richard|Mark Richard]]'s handwritten notes
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 19: "He reports to people reporting to Bush"
+[^2]: Caryle Murphy and Charles R. Babcock, "Army's Covert Role Scrutinized," Washington Post, 1985, https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000504650029-4.
+[^3]: Undated CIA memorandum, "HPSCI 'Discovery' of the Army's Intelligence Support Activity (ISA)," CIA-RDP83M00914R000700040105-9, https://archive.org/details/cia-readingroom-document-cia-rdp83m00914r000700040105-9.
+[^4]: "Colonel Gritz's Dubious Mission," Time, April 4, 1983, https://content.time.com/time/subscriber/article/0,33009,923455-1,00.html.
