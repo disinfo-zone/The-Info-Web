@@ -20,10 +20,10 @@ relations:
     start: 2026
     fn: 4
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
-Amy McHale was the third wife of the [[Philadelphia]] pornographer and filmmaker [[R.C. Horsch]], from 2004 to 2008, and appeared in his films. She was last heard from at the Horsch house at 417 West Chew Avenue in the [[Olney, Philadelphia|Olney]] section of Philadelphia on June 14, 2016, in her mid-forties, and remains missing. Her disappearance is part of the [[Olney House Investigation]].[^1][^2][^3]
+Amy McHale was the third wife of the [[Philadelphia]] pornographer and filmmaker [[R.C. Horsch]], from 2004 to 2008, and appeared in his films. She was last heard from at the Horsch house on West Chew Avenue in the [[Olney, Philadelphia|Olney]] section of Philadelphia on June 14, 2016, in her mid-forties, and remains missing. Her disappearance is part of the [[Olney House Investigation]].[^1][^2][^3]
 
 ### Horsch
 

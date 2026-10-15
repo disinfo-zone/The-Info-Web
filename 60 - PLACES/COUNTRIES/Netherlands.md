@@ -1,4 +1,4 @@
-﻿---
+---
 category: "Country"
 tags:
   - Country
@@ -9,7 +9,7 @@ tags:
   - Intelligence
 summary: "The Netherlands appears in connection with the Rolodex Investigation, Joris Demmink, Karel Maasdam's Bell Boys, Amsterdam organizations, and Francis Shelden's exile."
 created: 2026-05-14
-updated: 2026-10-09
+updated: 2026-10-15
 location: "The Hague, Netherlands"
 ---
 
@@ -23,9 +23,9 @@ The [[Rolodex Investigation]] was a Dutch inquiry of 1997 to 1999 into an Amster
 
 ### Joris Demmink
 
-[[Joris Demmink]], who served as Secretary-General (the highest civil servant position) of the Dutch Ministry of Justice from 2002 to 2012, is among the most prominent officials accused in connection with Dutch pedophile network investigations. Multiple witnesses, including Turkish witnesses in a case investigated by Dutch journalist Mick van Weezel, alleged that Demmink participated in the sexual abuse of underage boys in [[Turkey]] and the Netherlands during the 1980s and 1990s. Dutch public prosecutors investigated the allegations and declined to prosecute, decisions that critics argued reflected institutional protection. Demmink consistently denied all allegations.[^2]
+[[Joris Demmink]], who served as Secretary-General (the highest civil servant position) of the Dutch Ministry of Justice from 2002 to 2012, is among the most prominent officials accused in connection with Dutch pedophile network investigations. Multiple witnesses, including Turkish witnesses in a case investigated by Dutch journalist Mick van Weezel, alleged that Demmink participated in the sexual abuse of underage boys in [[Turkey]] and the Netherlands during the 1980s and 1990s. Dutch public prosecutors investigated the allegations and declined to prosecute, decisions that critics argued reflected institutional protection. In January 2014 the Gerechtshof Arnhem-Leeuwarden ordered prosecution of Joris Demmink on a complaint by two Turkish men alleging rape in Turkey in the mid-1990s. The Openbaar Ministerie investigated through the Rijksrecherche and a rechter-commissaris, and on August 18, 2017 the court approved its request to drop prosecution, finding that no reasonable suspicion of guilt remained.[^5][^6] Demmink consistently denied all allegations.[^2]
 
-[[Henry Hans Holthuis]], who served as Chief Prosecutor of the International Criminal Tribunal for the Former Yugoslavia from 2003 to 2007, is also named in connection with the Dutch investigations. Former detective Leendert de Koter testified in 2014 that the Rijksrecherche supplied his name, with that of Joris Demmink, in the Rolodex investigation.[^5]
+[[Henry Hans Holthuis]], who served as Chief Prosecutor of the International Criminal Tribunal for the Former Yugoslavia from 2003 to 2007, is also named in connection with the Dutch investigations. Former detective Leendert de Koter testified in 2014 that the Rijksrecherche supplied his name, with that of Joris Demmink, in the Rolodex investigation.[^7]
 
 ### Francis Shelden in Exile
 
@@ -41,4 +41,6 @@ The [[AIVD]] (Algemene Inlichtingen- en Veiligheidsdienst, General Intelligence 
 [^2]: "Belgian X-Dossiers of the Dutroux Affair: the Accused," Institute for the Study of Globalization and Covert Politics, 2007. https://www.isgp-studies.com/belgian-x-dossiers-of-the-marc-dutroux-affair-the-accused
 [^3]: Nick Davies, "Paedophile network trafficks young boys across Europe," nickdavies.net, dated October 1, 1998. https://www.nickdavies.net/1998/10/01/paedophile-network-trafficks-young-boys-across-europe/
 [^4]: "Samenvatting van de aanleiding, het verloop, de resultaten en de besluitvorming in het Rolodex-onderzoek," December 23, 2013. https://eerstekamer.nl/9370000/1/j4nvgs5kjg27kof_j9vvkfvj6b325az/vjigib8p5szh
-[^5]: NOS, "Politie onderzocht Demmink in '97," March 5, 2014. https://nos.nl/artikel/619220-politie-onderzocht-demmink-in-97
+[^5]: Gerechtshof Arnhem-Leeuwarden, press release, August 18, 2017. https://www.rechtspraak.nl/organisatie-en-contact/organisatie/gerechtshoven/gerechtshof-arnhem-leeuwarden/nieuws/2017/08/beslissing-gerechtshof-over-bewilligingsverzoek-in-de-beklagzaak-tegen-j-demmink
+[^6]: Openbaar Ministerie, "OM vraagt bewilliging van verzoek af te zien van vervolging Demmink," June 30, 2017. https://www.om.nl/actueel/nieuws/2017/06/30/om-vraagt-bewilliging-van-verzoek-af-te-zien-van-vervolging-demmink
+[^7]: NOS, "Politie onderzocht Demmink in '97," March 5, 2014. https://nos.nl/artikel/619220-politie-onderzocht-demmink-in-97

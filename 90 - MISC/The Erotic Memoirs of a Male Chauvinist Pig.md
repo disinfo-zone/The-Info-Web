@@ -24,7 +24,7 @@ relations:
     role: "co-director"
     fn: 1
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 *The Erotic Memoirs of a Male Chauvinist Pig* is a pornographic feature shot in [[Philadelphia]] in February 1973 by Ray Hoersch, later known as [[R.C. Horsch]], and [[John Butterworth]], whom Horsch described as a news cameraman for [[KYW-TV]]. It featured the New York performers [[Georgina Spelvin]], [[Tina Russell]], [[Darby Lloyd Rains]], and [[Helen Madigan]] and depicts rape, bondage, urination, and sex with a character presented as a schoolgirl.[^1][^2]
@@ -35,7 +35,7 @@ Horsch said that the budget was a little over 20,000 dollars, of which 60 to 70 
 
 ### Distribution
 
-Horsch said that staff of the [[Philadelphia District Attorney's Office]] attended the premiere at the 1812 Theater on Chestnut Street, that La Russa arranged distribution through Philadelphia organized crime, and that the film was sold to the distributor [[Sam Lake]] for 50,000 dollars; his website described Lake's company as Mature Pictures, Inc.[^1][^4] The trade magazine *Take One* reported in the spring of 1973 that "Bob Sumner's Mature Films in New York followed up Memoirs of a Male Chauvinist Pig (starring Ms. Spelvin) with High Rise."[^5] The *[[Boxoffice (magazine)|Boxoffice]]* booking guide of February 1974 listed "Erotic Memoirs/Male Chauvinist Pig," a sex drama of 75 minutes, from the distributor Mature, with a date of October 15, 1973.[^6] Horsch said that the film reached number 42 on a national chart; his website gave number 38.[^3][^4] [[Al Goldstein]] wrote in *[[Screw (magazine)|Screw]]* that the sex in it was disgusting.[^2][^4] La Russa died of a heart attack in 1996.[^7]
+Horsch said that staff of the [[Philadelphia District Attorney's Office]] attended the premiere at the 1812 Theater on Chestnut Street, that La Russa arranged distribution through Philadelphia organized crime, and that the film was sold to the distributor [[Sam Lake]] for 50,000 dollars; his website described Lake's company as Mature Pictures, Inc.[^1][^4] The trade magazine *Take One* reported in the spring of 1973 that "Bob Sumner's Mature Films in New York followed up Memoirs of a Male Chauvinist Pig (starring Ms. Spelvin) with High Rise."[^5] The *[[Boxoffice (magazine)|Boxoffice]]* booking guide of February 1974 listed "Erotic Memoirs/Male Chauvinist Pig," a sex drama of 75 minutes, from the distributor Mature, with a date of October 15, 1973.[^6] The distributor named by Horsch, Lake's company Mature Pictures, Inc., appears in the New York registry as an inactive corporation with the alternate name Mature Pictures Incorporated, its status listed as dissolution by proclamation or annulment of authority.[^7] *Take One,* in its March-April 1973 issue, named "the Mitchells, Mature Films, etc." among "the few who are in the business in a highly visible way."[^8] The media historian [[Peter Alilunas]] describes Mature Pictures as the company of [[Robert Sumner]], with Sam Lake also at the company.[^9] Horsch said that the film reached number 42 on a national chart; his website gave number 38.[^3][^4] [[Al Goldstein]] wrote in *[[Screw (magazine)|Screw]]* that the sex in it was disgusting.[^2][^4] La Russa died of a heart attack in 1996.[^10]
 
 ### Footnotes
 
@@ -45,4 +45,7 @@ Horsch said that staff of the [[Philadelphia District Attorney's Office]] attend
 [^4]: Horsch, R.C. [Commentary on *The Erotic Memoirs of a Male Chauvinist Pig*] and "Art Beat" interview of 1997, eroto.com, archived November 5, 2016. http://web.archive.org/web/20161105022433/http://eroto.com:80/commentary/64-mcp-commentary
 [^5]: Morthland, John. "Porn Films: An In-Depth Report," *Take One,* vol. 3, no. 6 (March-April 1973), pp. 11-15. https://archive.org/details/take-one-1973-03
 [^6]: "Boxoffice Bookinguide," *Boxoffice* (Canadian edition), February 4, 1974. https://archive.org/details/boxoffice-canadian-1974-02-04
-[^7]: "Five takeaways from Philly missing women mystery connected to Raymond and Eugene Horsch," *The Philadelphia Inquirer,* August 4, 2026. https://www.inquirer.com/news/raymond-eugene-horsch-olney-missing-women-20260804.html
+[^7]: "MATURE PICTURES, INC.," New York (US) entity, status "Inactive," "Dissolution By Proclamation / Annulment Of Authority," previously known as "MATURE PICTURES INCORPORATED." OpenCorporates. https://opencorporates.com/companies/us_ny/248644
+[^8]: Morthland, John. "Porn Films: An In-Depth Report," *Take One,* vol. 3, no. 6 (March-April 1973), p. 15 ("the Mitchells, Mature Films, etc."). https://archive.org/details/take-one-1973-03
+[^9]: Alilunas, Peter. *Smutty Little Movies: The Creation and Regulation of Adult Video* (Oakland: University of California Press, 2016), pp. 74 and 255 n. 77.
+[^10]: "Five takeaways from Philly missing women mystery connected to Raymond and Eugene Horsch," *The Philadelphia Inquirer,* August 4, 2026. https://www.inquirer.com/news/raymond-eugene-horsch-olney-missing-women-20260804.html

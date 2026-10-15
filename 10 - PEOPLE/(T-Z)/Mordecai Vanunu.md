@@ -16,7 +16,7 @@ tags:
 summary: "Technician at Israel's Dimona reprocessing plant from 1977 to 1985 who gave photographs of it to the Sunday Times, was lured from London to Rome by the Mossad in 1986, and served eighteen years."
 born: 1954-10-14
 location: "Marrakech, Morocco"
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 [[Mordecai Vanunu]] was a former technician at a nuclear facility near [[Dimona]], [[Israel]], who became a whistleblower, exposing details of Israel's nuclear program to the _London Sunday Times_ in 1986.[^1][^2]
@@ -74,6 +74,8 @@ In the Commons the Conservative members [[Dennis Walters]] and [[Anthony Beaumon
 ### Rome
 The Roman magistrate [[Domenico Sica]] traced a van hired by the Israeli embassy on the day of the abduction whose mileage matched a journey to [[La Spezia]], and an Israeli cargo ship that had declared a false itinerary. Vanunu's brother [[Meir Vanunu|Meir]], who had learned the details by speaking Moroccan Arabic to him in prison, testified twice. An Israeli court issued a warrant for Meir's arrest, and the [[Home Office|British Home Office]] refused him asylum on the ground that he "faced prosecution, not persecution." An official of the Israeli foreign ministry said: "If Dr. Sica comes it would be very, very embarrassing for our government." Sica closed the inquiry in June 1988 with the finding that Vanunu had been working with the Mossad and that "the whole affair had been a disinformation exercise." He reasoned that no one could be found who had seen Vanunu arrive in Rome, that professionals would not have used a flat in a crowded district, that the message Vanunu wrote on his palm was in better English than he commanded, and that the photographs showed no staff. Meir Vanunu replied: "If this is a disinformation exercise, release my brother." Peter Hounam of The Sunday Times wrote: "I made six visits to Rome to brief Sica and provide him with every scrap of evidence of the abduction. He never once advanced the view that The Sunday Times was the victim of a hoax, as his report intimates." The woman, he pointed out, had not used her real name, as Sica supposed, but that of her sister-in-law.[^4][^5]
 
+In November 1999 the Israeli daily [[Yedioth Ahronoth]] published documents from the closed trial. The published material included Vanunu's statement that he had exposed the secrets of Israel's nuclear program to force the government to bring it under closer scrutiny.[^6]
+
 ### Bentov
 Cheryl Hanin was born in [[Orlando, Florida]], in 1960, went to Israel in the late 1970s, served in a [[Nahal]] unit, and in March 1985 married [[Ofer Bentov]], a major in military intelligence and a general's son. Hounam and [[David Connett]], who had seen her with Vanunu in London, found her at an address in [[Netanya]] in July 1987. She asked, "Are you going to publish this?" and then said: "I deny this, I deny everything." A family friend recalled her telling her mother that "there were other things that I did for the Israeli government which were even more pertinent and involved than this." The CIA and the FBI examined her records at [[Edgewater High School]] in Orlando, and the CIA's London station asked the British services whether Israel had given warning of the operation. The Sunday Times photographed her in [[Florida]] in January 1998.[^4]
 
@@ -85,5 +87,6 @@ In April 1987 British police found an arms cache kept by [[Ismail Sowan]], a Pal
 [^1]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015).
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Faber and Faber, 1991, pp. 313-314.
 [^3]: United Press International, report on the dismissal of Nicholas Davies, October 29, 1991.
-[^4]: Cohen, Yoel. *The Whistleblower of Dimona: Israel, Vanunu, and the Bomb*. 2003. https://archive.org/details/the-whistleblower-of-dimona-israel-vanunu-and-the-bomb
+[^4]: Cohen, Yoel. *The Whistleblower of Dimona: Israel, Vanunu, and the Bomb*. Holmes & Meier, 2003. https://archive.org/details/whistleblowerofd0000cohe
 [^5]: Hounam, Peter. *The Woman from Mossad: The Story of Mordechai Vanunu and the Israeli Nuclear Program*. Vision Paperbacks, 1999, pp. 74, 127.
+[^6]: Jewish Telegraphic Agency, report of November 24, 1999 (Yedioth Ahronoth publication of trial documents). https://jta.org/?p=400503

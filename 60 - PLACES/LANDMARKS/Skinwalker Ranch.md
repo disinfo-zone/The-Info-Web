@@ -7,7 +7,7 @@ tags:
   - Paranormal
 category: "Landmark"
 summary: "Skinwalker Ranch is a 480-acre property in Utah known for a long history of paranormal and Unidentified Anomalous Phenomena-related events."
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 [[Skinwalker Ranch]] is a 480-acre property in [[Utah]] known for a long history of paranormal and [[Unidentified Anomalous Phenomena|UAP]]-related events. The ranch was a subject of investigation for the [[Advanced Aerospace Threat Identification Program]] (AAWSAP), the precursor to the Advanced Aerospace Threat Identification Program (AATIP).[^1]
 
@@ -19,9 +19,11 @@ In the mid-1990s, the ranch was purchased by [[Robert Bigelow]], who established
 
 One of the most disturbing phenomena associated with the ranch is the "hitchhiker effect," a term coined by [[Jay Stratton]]. This refers to the tendency for the paranormal phenomena to "follow" investigators home, harassing them and their families long after they have left the property. [[Luis Elizondo]] notes that his own experiences with orbs in his home began after he started working with the program, and that other members of the team had similar experiences.[^1]
 
+In a 2026 KLAS report on his memoir, [[George Knapp]] wrote that Stratton "spent a lot of time at Skinwalker Ranch in Utah and said he took home devious 'hitchhikers.'" According to the report, Stratton says these hitchhikers "never left him and continue to bother him in his own home almost two decades later."[^2]
+
 ### Press Report of April 1997
 
-The *[[Deseret News]]* reporter [[Zack Van Eyck]] wrote in April 1997 (reprinted in *The [[Uintah Basin Standard]]* on April 29) that the 480-acre property near [[Randlett, Utah|Randlett]], in [[Uintah County, Utah|Uintah County]], had been bought the previous September by Robert Bigelow, "a [[Las Vegas]] real estate magnate who founded" the National Institute for Discovery Science, three months after its owners [[Terry Sherman|Terry]] and [[Gwen Sherman|Gwen]] Sherman first told their story publicly in that newspaper. The Shermans reported that three cattle were found dead and partly mutilated, that seven others "disappeared," and that three dogs vanished one night in the summer of 1996. The institute's spokesman said its researchers had not seen the flying craft, cattle mutilations or dog-killing "balls of light" the Shermans described; [[John B. Alexander]] said "There have been some minor observations, but nothing you would stand behind." Sheriff's Sergeant [[Steve Hatzidakis]] said no reports had reached his office since Bigelow bought the ranch, and that two cattle mutilations had been reported the previous summer on a neighboring ranch. The story stated that Sherman signed a nondisclosure agreement with Bigelow after selling, and had given his account to the [[Colorado]] writer [[David Perkins]] for a story in *[[Spirit (magazine)|Spirit]]* magazine.[^2]
+The *[[Deseret News]]* reporter [[Zack Van Eyck]] wrote in April 1997 (reprinted in *The [[Uintah Basin Standard]]* on April 29) that the 480-acre property near [[Randlett, Utah|Randlett]], in [[Uintah County, Utah|Uintah County]], had been bought the previous September by Robert Bigelow, "a [[Las Vegas]] real estate magnate who founded" the National Institute for Discovery Science, three months after its owners [[Terry Sherman|Terry]] and [[Gwen Sherman|Gwen]] Sherman first told their story publicly in that newspaper. The Shermans reported that three cattle were found dead and partly mutilated, that seven others "disappeared," and that three dogs vanished one night in the summer of 1996. The institute's spokesman said its researchers had not seen the flying craft, cattle mutilations or dog-killing "balls of light" the Shermans described; [[John B. Alexander]] said "There have been some minor observations, but nothing you would stand behind." Sheriff's Sergeant [[Steve Hatzidakis]] said no reports had reached his office since Bigelow bought the ranch, and that two cattle mutilations had been reported the previous summer on a neighboring ranch. The story stated that Sherman signed a nondisclosure agreement with Bigelow after selling, and had given his account to the [[Colorado]] writer [[David Perkins]] for a story in *[[Spirit (magazine)|Spirit]]* magazine.[^3]
 
 ### The Blue Orbs
 
@@ -33,16 +35,17 @@ The investigation of Skinwalker Ranch was a controversial aspect of the AATIP pr
 
 ### Kelleher's 1997 Account
 
-On the night of March 12, 1997, after the ranch had been sold, [[Colm Kelleher]], working with Robert Bigelow's National Institute for Discovery Science, reported seeing a large humanoid creature watching the research team from a tree perch about 20 feet off the ground and about 50 yards away. He describes it in [[Hunt for the Skinwalker]] as "the large creature that lay motionless, almost casually, in the tree." After he fired a rifle at it the creature disappeared, and he found "a single, obvious oval track about six inches in diameter embedded deeply in the patch of snow."[^3]
+On the night of March 12, 1997, after the ranch had been sold, [[Colm Kelleher]], working with Robert Bigelow's National Institute for Discovery Science, reported seeing a large humanoid creature watching the research team from a tree perch about 20 feet off the ground and about 50 yards away. He describes it in [[Hunt for the Skinwalker]] as "the large creature that lay motionless, almost casually, in the tree." After he fired a rifle at it the creature disappeared, and he found "a single, obvious oval track about six inches in diameter embedded deeply in the patch of snow."[^4]
 
 ### Hunt for the Skinwalker
 
-The 2018 documentary Hunt for the Skinwalker, written and directed by [[Jeremy Corbell]], is listed on [[IMDb]] with a publication date of September 11, 2018. Its promotional description says that "An exhaustive, multidisciplinary scientific study began in 1996, spearheaded by an enigmatic Las Vegas billionaire," and the cast list includes [[George Knapp]], Colm Kelleher and Robert Bigelow.[^4] The [[United States Copyright Office]] catalog lists the book Hunt for the Skinwalker (TX0006340176, registered April 27, 2006, first published November 15, 2005) with Kelleher and Knapp as claimants.[^5]
+The 2018 documentary Hunt for the Skinwalker, written and directed by [[Jeremy Corbell]], is listed on [[IMDb]] with a publication date of September 11, 2018. Its promotional description says that "An exhaustive, multidisciplinary scientific study began in 1996, spearheaded by an enigmatic Las Vegas billionaire," and the cast list includes George Knapp, Colm Kelleher and Robert Bigelow.[^5] The [[United States Copyright Office]] catalog lists the book Hunt for the Skinwalker (TX0006340176, registered April 27, 2006, first published November 15, 2005) with Kelleher and Knapp as claimants.[^6]
 
 ### Footnotes
 
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
-[^2]: Zack Van Eyck, "No UFOs or ETs have dropped in at spooky ranch," *The Uintah Basin Standard* (Roosevelt, Utah; reprinted from the *Deseret News*), April 29, 1997, p. 2, https://www.newspapers.com/image/725294178/.
-[^3]: Adam Janos, "Skinwalker Ranch," History.com, quoting Kelleher's account of March 12, 1997 from Hunt for the Skinwalker. https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation
-[^4]: IMDb title page for Hunt for the Skinwalker (tt8399718), Internet Archive snapshot of 2019 (director and writer credits, publication date 2018-09-11, promotional description, cast list). https://web.archive.org/web/2019/https://www.imdb.com/title/tt8399718/
-[^5]: U.S. Copyright Office Public Records System, registration TX0006340176. https://publicrecords.copyright.gov/
+[^2]: George Knapp and John Forest, "Jay Stratton to release new book on non-human intelligent life Oct. 13," KLAS-TV (8 News Now), 2026. https://www.8newsnow.com/mystery-wire/jay-stratton-uap-book-release/amp/
+[^3]: Zack Van Eyck, "No UFOs or ETs have dropped in at spooky ranch," *The Uintah Basin Standard* (Roosevelt, Utah; reprinted from the *Deseret News*), April 29, 1997, p. 2, https://www.newspapers.com/image/725294178/.
+[^4]: Adam Janos, "Skinwalker Ranch," History.com, quoting Kelleher's account of March 12, 1997 from Hunt for the Skinwalker. https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation
+[^5]: IMDb title page for Hunt for the Skinwalker (tt8399718), Internet Archive snapshot of 2019 (director and writer credits, publication date 2018-09-11, promotional description, cast list). https://web.archive.org/web/2019/https://www.imdb.com/title/tt8399718/
+[^6]: U.S. Copyright Office Public Records System, registration TX0006340176. https://publicrecords.copyright.gov/

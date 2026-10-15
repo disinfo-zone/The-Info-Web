@@ -52,7 +52,7 @@ relations:
     start: 1991
     fn: 26
 created: 2024-04-25
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 [[Peter Videnieks]] was a contracting officer in the [[Justice Management Division]] of the [[Department of Justice]] who administered the 1982 implementation contract between the [[Executive Office for United States Attorneys]] and [[INSLAW]] for the [[PROMIS]] case management software. His handling of that contract, his statements about [[Earl Brian]] and [[Hadron]], and his alleged contacts with [[Michael Riconosciuto]] made him a central figure in the [[PROMIS Software Scandal]]. The writer [[Cheri Seymour]] wrote that he was never charged with any wrongdoing.[^1] Before he entered the Justice Department he worked as a supervising contracting officer in the [[U.S. Customs]] Service.[^2]
 
@@ -110,6 +110,8 @@ The Justice Department's review of the Bua report, dated September 27, 1994, add
 
 Joseph Cuellar, an Army Reserve major, met Casolaro by chance at a bar in Arlington, Virginia, in May 1991. Cuellar talked of his exploits in the Army special forces. He told investigators that he knew Videnieks because a former fiancée had worked with Videnieks' wife in Byrd's Capitol Hill office, and Cuellar and Videnieks each said their relationship was social.[^36] Casolaro asked Cuellar repeatedly to arrange a meeting with Videnieks so that he could ask about Riconosciuto's March 1991 affidavit. Cuellar called Videnieks, who refused.[^37]
 
+Casolaro's notes, a Justice Department memorandum records, reflect a telephone call he made to Videnieks on June 13, 1991. Videnieks refused to talk and referred him to his lawyer, Charles Ruff. Videnieks recalled a call from a reporter whose name sounded like "Kessler," which he said could have been "Casolaro," and said he could not remember whether he had ever spoken with Casolaro.[^38]
+
 The review recorded that Videnieks denied any involvement in Casolaro's death and said he had been at a summer cottage in New York state from August 5 to August 11, 1991. His personnel records showed leave in that period, a credit card receipt showed a purchase at a bookstore in Oneonta, New York, on August 9, and his telephone records showed a call from the cottage to his brother on August 9 at 8:35 p.m. The review found no reason to question his account that he was in New York on August 10, 1991, and was unaware of evidence linking him to the death.[^35] The review also recorded that a Kentucky salvage dealer told Martinsburg police that Videnieks and Brian had played a high-stakes poker game at a Sheraton in Martinsburg around the time of Casolaro's death. The police could not corroborate the account, and the review found the witness lacked credibility.[^35]
 
 ### Trial testimony and later accounts
@@ -157,3 +159,4 @@ Seymour wrote that Videnieks offered rewards for non-cooperation with the House 
 [^35]: U.S. Department of Justice. Review of the *Report of Special Counsel Nicholas J. Bua*, September 27, 1994, pp. 159-160. https://archive.org/details/doj-oip-inslaw-1993
 [^36]: U.S. Department of Justice. Review of the *Report of Special Counsel Nicholas J. Bua*, September 27, 1994, p. 161. https://archive.org/details/doj-oip-inslaw-1993
 [^37]: U.S. Department of Justice. Review of the *Report of Special Counsel Nicholas J. Bua*, September 27, 1994, p. 162. https://archive.org/details/doj-oip-inslaw-1993
+[^38]: U.S. Department of Justice, memorandum on the BCCI and INSLAW special prosecutor contacts, undated, [1994], release p. 42 (printed p. 26), DOCID 70002067. https://archive.org/details/INSLAW-Casolaro

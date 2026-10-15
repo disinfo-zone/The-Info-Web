@@ -9,9 +9,9 @@ tags:
   - RCHorsch
   - Philadelphia
   - Olney
-summary: "Philadelphia grandmother of the pornographer R.C. Horsch, who died in 1968 at the family house at 417 West Chew Street in Olney."
+summary: "Philadelphia grandmother of the pornographer R.C. Horsch, who died in 1968 at the family house on West Chew Street in Olney."
 died: 1968-08-27
-location: "417 West Chew Street, Philadelphia, Pennsylvania"
+location: "Philadelphia, Pennsylvania"
 relations:
   - type: spouse_of
     with: "[[Albert Hoersch]]"
@@ -22,10 +22,10 @@ relations:
     role: "mother"
     fn: 2
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
-Helen E. Hoersch, born Helen E. Wissman (died August 27, 1968), was the wife of [[Albert Hoersch]] of 417 West Chew Street in the [[Olney, Philadelphia|Olney]] section of [[Philadelphia]], and the paternal grandmother of the pornographer and fugitive [[R.C. Horsch]]. The house was later owned by R.C. Horsch and from 2006 by his son [[Eugene Horsch]], and was searched in the [[Olney House Investigation]] of 2026.[^1][^2][^3]
+Helen E. Hoersch, born Helen E. Wissman (died August 27, 1968), was the wife of [[Albert Hoersch]] of West Chew Street in the [[Olney, Philadelphia|Olney]] section of [[Philadelphia]], and the paternal grandmother of the pornographer and fugitive [[R.C. Horsch]]. The house was later owned by R.C. Horsch and from 2006 by his son [[Eugene Horsch]], and was searched in the [[Olney House Investigation]] of 2026.[^1][^2][^3]
 
 Her death notice, which gives her address as the Chew Street house, invited relatives, friends, and [[Grace United Methodist Church (Philadelphia)|Grace United Methodist Church]] to a viewing and to a service at the Schneider Funeral Home, 617-619 West Olney Avenue, with burial in [[Hillside Cemetery]]. Her husband's death notice of 1972, which spells her maiden name Wissmer, names their children as Albert Jr., [[Raymond C. Hoersch|Raymond C.]], and Helen M. Hoersch.[^1][^2]
 

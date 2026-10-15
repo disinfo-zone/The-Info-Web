@@ -31,7 +31,7 @@ relations:
     start: 1992
     fn: 1
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 The Hong Kong Chinese Bank was a bank in [[Hong Kong]] in which the family of [[Jackson Stephens]] of [[Little Rock, Arkansas|Little Rock]] held an interest until about 1987, when they exchanged it for the shares of [[Mochtar Riady]]'s family in [[Worthen Bank]]. The bank then became part of the Riadys' [[Lippo Group]], which sold it to [[CITIC Ka Wah Bank]] in 2001.[^1][^2]
@@ -46,11 +46,15 @@ The Stephens and Riady families had formed [[Stephens Finance Ltd.]] in Hong Kon
 
 Citing sources of 1995 and 1996, the committee reported that Lippo owned 59 percent of the Hong Kong Chinese Bank, "a banking and finance firm with $2.3 billion in assets," and 70 percent of [[Hong Kong China Limited]], "a property investment and development firm with $1.2 billion in assets."[^1]
 
+Senate testimony in July 1997 described the bank's ownership in the same period. The witness, [[Thomas R. Hampson]], testified that [[Stephen Riady]] ran [[Lippo Limited]] and the Hong Kong Chinese Bank, and that in spring 1997 Stephen Riady announced that the bank would be renamed the Lippo China Resources Bank, "to reflect that China Resources is now an equal partner with Lippo in the bank."[^3]
+
 ### Sale to CITIC Ka Wah
 
-On October 31, 2001, CITIC Ka Wah Bank agreed to buy the Hongkong Chinese Bank for about 4.2 billion Hong Kong dollars in cash, about 1.4 times its book value. The bank then had 25 branches and total assets of about 20 billion Hong Kong dollars, and was the principal operating subsidiary of the listed HKCB Bank Holdings, whose majority shareholder, Lippo CRE (Financial Services), held 58.78 percent and had indicated that it would vote for the sale. Lippo CRE was a joint venture between Lippo China Resources, controlled by the Riady family's Lippo Group, and China Resources Enterprise, which the *[[South China Morning Post]]* described as "the locally listed arm of the mainland foreign trade ministry's China Resources Holdings"; China Resources Enterprise also held 5.84 percent of HKCB Bank Holdings directly. CITIC Ka Wah was 55.24 percent controlled by [[CITIC Group|CITIC]], "the mainland's largest investment company under the control of the State Council." The sale excluded HKCB Bank Holdings' brokerage and fund-management businesses, and required the approval of the [[Hong Kong Monetary Authority]].[^2]
+On October 31, 2001, CITIC Ka Wah Bank agreed to buy the Hongkong Chinese Bank for about 4.2 billion Hong Kong dollars in cash, about 1.4 times its book value. The bank then had 25 branches and total assets of about 20 billion Hong Kong dollars, and was the principal operating subsidiary of the listed HKCB Bank Holdings, whose majority shareholder, Lippo CRE (Financial Services), held 58.78 percent and had indicated that it would vote for the sale. Lippo CRE was a joint venture between Lippo China Resources, controlled by the Riady family's Lippo Group, and China Resources Enterprise, which the *[[South China Morning Post]]* described as "the locally listed arm of the mainland foreign trade ministry's China Resources Holdings"; China Resources Enterprise also held 5.84 percent of HKCB Bank Holdings directly. CITIC Ka Wah was 55.24 percent controlled by [[CITIC Group|CITIC]], "the mainland's largest investment company under the control of the State Council." The sale excluded HKCB Bank Holdings' brokerage and fund-management businesses, and required the approval of the [[Hong Kong Monetary Authority]].[^2] Lippo Limited's annual report for 2001 gives the agreement as made in October 2001 between Hongkong Chinese Limited (formerly The HKCB Bank Holding Company Limited) and CITIC Ka Wah Bank Limited for the entire issued share capital of the bank and its subsidiaries at 4.2 billion Hong Kong dollars, completed on January 17, 2002. In the same month Lippo China Resources agreed to buy from China Resources Enterprise its remaining 50 percent of Lippo CRE (Financial Services) Limited and about 5.84 percent of Hongkong Chinese Limited for about 1.8 billion Hong Kong dollars, also completed on January 17, 2002.[^4]
 
 ### Footnotes
 
 [^1]: House Committee on Government Reform and Oversight, *Investigation of Political Fundraising Improprieties and Possible Violations of Law,* H. Rept. 105-829, 1998, vol. 2, footnotes 6, 14 and 115-117. https://www.govinfo.gov/content/pkg/CRPT-105hrpt829/html/CRPT-105hrpt829-vol2.htm
 [^2]: "Citic Ka Wah snares HKCB." *South China Morning Post,* November 1, 2001. https://www.scmp.com/article/361790/citic-ka-wah-snares-hkcb
+[^3]: Senate Committee on Governmental Affairs, S. Rept. 105-167, 1998, chapter "John Huang's Years at Lippo," including the testimony of Thomas R. Hampson, July 15, 1997. https://irp.fas.org/congress/1998_rpt/sgo-sir/1-13.htm
+[^4]: Lippo Limited, *Annual Report 2001,* Chairman's Statement, pp. 3 to 4. https://www.hkexnews.hk/listedco/listconews/sehk/2002/0509/226/EWF102.pdf

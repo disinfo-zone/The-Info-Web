@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-10-09
+updated: 2026-10-15
 title: ZR/RIFLE
 aliases:
   - ZR RIFLE
@@ -50,6 +50,18 @@ The primary operational implementation of ZR/RIFLE targeted Castro. Harvey, buil
 
 Early in 1962 Harvey was appointed chief of [[Task Force W]], the CIA component of [[Operation Mongoose]], and [[Evan Thomas]] wrote that his ZR/RIFLE assets were incorporated into Mongoose planning.[^6][^7] Harvey continued meeting with Roselli, providing operational guidance and CIA resources while maintaining the cutout structure intended to preserve deniability.[^1]
 
+### Harvey's Roselli Operation, 1962 to 1963
+
+Harvey met Roselli in Miami in early April 1962, after requesting an introduction through the support chief. The support chief had run the operation before Harvey took it over. Harvey told Roselli to maintain his Cuban contacts but not to deal with Maheu or Giancana, whom Harvey considered "untrustworthy" and "surplus."[^8] Harvey and Roselli met again in New York on April 8 and 9, 1962.
+
+On April 18, 1962 four poison pills were given to the support chief, who passed them to Harvey. Harvey arrived in Miami on April 21 and gave the pills to Roselli, explaining that "these would work anywhere and at any time with anything." Roselli testified that he told Harvey the Cubans intended to use the pills against Che Guevara as well as Fidel and Raul Castro, and that Harvey approved the targets, saying "everything is all right, what they want to do."[^9]
+
+With the help of the [[JM-WAVE|JM/WAVE]] station, Harvey procured explosives, detonators, rifles, handguns, radios and boat radar costing about $5,000. Harvey and the chief of JM/WAVE rented a truck under an assumed name and delivered the equipment to a parking lot, where the keys were given to Roselli, who watched the delivery from across the street.[^9] Roselli reported in May 1962 that the pills and guns had arrived in Cuba. On June 21 he told Harvey that the Cuban had dispatched a three-man team to Cuba. The Inspector General's report described the mission as "vague" and conjectured that the team would kill Castro or recruit others to do the job, using the pills if the opportunity arose.[^9]
+
+The Inspector General's 1967 report, in a table comparing published details of the Drew Pearson story with the facts as the Inspector General knew them, stated that Roselli informed Harvey on June 21, 1962, presumably on the basis of information from Varona, that a team of three men was inside Cuba; that the Inspector General did not know their identities or what had happened to them; that there was no proof they were actually dispatched, and that none of the announced captures and executions during the period fitted the team. It also stated that Roselli had told the Inspector General the pills were sent in during Phase One and again in Phase Two.[^10]
+
+Harvey met Roselli in Miami on September 7 and 11, 1962. The Cuban was reported to be preparing a second three-man team to penetrate Castro's bodyguard, and Harvey was told that the pills, referred to as "the medicine," were still "safe" in Cuba. Harvey testified that by then he had grave doubts that the operation would ever take place, and told Roselli that "there's not much likelihood that this is going anyplace, or that it should be continued." The second team never left for Cuba, claiming that "conditions" were not right. In early January 1963 Harvey paid Roselli $2,700 to defray the Cuban's expenses, and Harvey terminated the operation in mid-February 1963.[^11]
+
 ### Church Committee Disclosure
 
 The Church Committee - the Senate Select Committee investigating intelligence activities - disclosed ZR/RIFLE in its 1975 report *Alleged Assassination Plots Involving Foreign Leaders*. The committee found that:
@@ -63,7 +75,7 @@ The committee found that while it could not definitively prove the CIA-organized
 
 ### Subsequent Operations
 
-After FitzGerald replaced Harvey as chief of Task Force W in January 1963, ZR/RIFLE operations continued under [[Desmond FitzGerald]], the CIA's Chief of the Western Hemisphere Division. FitzGerald met personally with [[Rolando Cubela]] (AM/LASH), a senior Cuban official who claimed willingness to assassinate Castro, in September 1963. This meeting took place on the same day as the [[JFK Assassination|Kennedy assassination]]; Cubela was being offered a poison pen when Kennedy was shot in Dallas. The AM/LASH operation ultimately produced no result against Castro and was penetrated by Cuban intelligence.[^8]
+After FitzGerald replaced Harvey as chief of Task Force W in January 1963, ZR/RIFLE operations continued under [[Desmond FitzGerald]], the CIA's Chief of the Western Hemisphere Division. FitzGerald met personally with [[Rolando Cubela]] (AM/LASH), a senior Cuban official who claimed willingness to assassinate Castro, in September 1963. This meeting took place on the same day as the [[JFK Assassination|Kennedy assassination]]; Cubela was being offered a poison pen when Kennedy was shot in Dallas. The AM/LASH operation ultimately produced no result against Castro and was penetrated by Cuban intelligence.[^12]
 
 ### Footnotes
 
@@ -74,4 +86,8 @@ After FitzGerald replaced Harvey as chief of Task Force W in January 1963, ZR/RI
 [^5]: Central Intelligence Agency, dispatch OIRW 18590, Chief, KUTUBE/D, to Chief of Station, Rome, June 8, 1961. JFK Assassination Records Collection, National Archives, record 104-10185-10046, https://www.archives.gov/files/research/jfk/releases/104-10185-10046.pdf
 [^6]: Church Committee, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report*, S. Rept. 94-465, pp. 153-155 (the Task Force W appointment in early 1962). https://archive.org/details/allegedassassina00unit
 [^7]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995.
-[^8]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995. Hersh, Seymour M. *The Dark Side of Camelot.* Little, Brown, 1997.
+[^8]: Church Committee (U.S. Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities), *Alleged Assassination Plots Involving Foreign Leaders*, S. Rept. 94-465 (1975), pp. 83 to 84 (Harvey testimony of June 25, 1975, p. 65; Support Chief testimony of May 30, 1975, pp. 50 to 52; Rosselli testimony of June 24, 1975, pp. 27 to 30; Edwards memorandum of May 14, 1962). https://archive.org/details/allegedassassina00unit
+[^9]: Church Committee, *Alleged Assassination Plots Involving Foreign Leaders*, S. Rept. 94-465 (1975), pp. 84 to 85 (Inspector General's Report, pp. 46 to 52, as quoted; Rosselli testimony of June 24, 1975, pp. 31 to 42; Harvey testimony of June 25, 1975, p. 63). https://archive.org/details/allegedassassina00unit
+[^10]: Central Intelligence Agency, Inspector General, "Report on Plots to Assassinate Fidel Castro," May 23, 1967, p. 118, unsanitized copy, National Archives JFK Records 104-10213-10101. https://www.archives.gov/files/research/jfk/releases/104-10213-10101.pdf
+[^11]: Church Committee, *Alleged Assassination Plots Involving Foreign Leaders*, S. Rept. 94-465 (1975), pp. 85 to 86 (Harvey testimony of June 25, 1975, pp. 103 to 104; Inspector General's Report, pp. 51 to 52). https://archive.org/details/allegedassassina00unit
+[^12]: Thomas, Evan. *The Very Best Men: Four Who Dared: The Early Years of the CIA.* Simon & Schuster, 1995. Hersh, Seymour M. *The Dark Side of Camelot.* Little, Brown, 1997.

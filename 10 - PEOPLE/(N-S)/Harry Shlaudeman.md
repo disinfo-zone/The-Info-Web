@@ -13,7 +13,7 @@ tags:
 summary: "Assistant secretary of state for inter-American affairs who warned Kissinger of Operation Condor's assassination plans on August 3, 1976, received Landau's cable on the DINA passports, and saw no warning delivered before Letelier died."
 location: "Washington, D.C."
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-15
 ---
 
 Harry Shlaudeman was assistant secretary of state for inter-American affairs under [[Henry A. Kissinger|Henry Kissinger]] in 1976.[^1]
@@ -28,10 +28,14 @@ Ambassador [[George Landau]]'s cable of July 28 on the Paraguayan passports issu
 
 ### Horman
 
-A memorandum to Shlaudeman of August 25, 1976, on the death of [[Charles Horman]] in [[Chile]] in 1973, read: "This case remains bothersome. The connotations for the Executive are not good." It concluded that "U.S. intelligence may have played an unfortunate part in Horman's death. At best, it was limited to providing or confirming information that helped motivate his murder by the GOC."[^3]
+A memorandum to Shlaudeman of August 25, 1976, on the death of [[Charles Horman]] in [[Chile]] in 1973, read: "This case remains bothersome. The connotations for the Executive are not good." It concluded: "U.S. intelligence may have played an unfortunate part in Horman's death. At best, it was limited to providing or confirming information that helped motivate his murder by the GOC. At worst, U.S. intelligence was aware the GOC saw Horman in a rather serious light and U.S. officials did nothing to discourage the logical outcome of GOC paranoia."[^3][^4]
+
+On July 15, 1976, [[Rudy Fimbres]] sent Shlaudeman a draft letter to Senator [[Edward Kennedy]] on the case, with a covering memorandum that said the draft "will not do." The memorandum stated that the department had "'withheld' for almost two years any reference to a Chilean memorandum which accused Teruggi, and Horman, of leftist activities," that the department had "failed to pursue the basis" for the Chilean allegations, and that the public claim to be pursuing every lead "is overdrawn." It reported that the Washington Post's [[Lewis Diuguid]] said he had a source who told him embassy superiors were informed early of Horman's fate and did not follow up. It also stated that "Vice Consul Anderson's participation in this matter will eventually be the subject of further probing." Fimbres recommended that Shlaudeman not sign the letter.[^5]
 
 ### Footnotes
 
 [^1]: Dinges, John. *The Condor Years: How Pinochet and His Allies Brought Terrorism to Three Continents*. New Press, 2004, pp. 159-166, 171-174, 180, 183.
 [^2]: Dinges, John, and Saul Landau. *Assassination on Embassy Row*. McGraw-Hill, 1980, pp. 260-261, 383.
 [^3]: Kornbluh, Peter. *The Pinochet File: A Declassified Dossier on Atrocity and Accountability*. New Press, 2003, pp. 269, 343.
+[^4]: Fimbres, Rudy, Robert Driscoll and William Robertson, memorandum to Assistant Secretary Harry Shlaudeman, Secret, August 25, 1976, NSA Chile in Their Hearts, document 9. https://nsarchive.gwu.edu/sites/default/files/documents/Dinges9FimbresDriscoll-ocr.pdf
+[^5]: Fimbres, Rudy, memorandum to Ambassador Harry Shlaudeman, "The Charles Horman Case," July 15, 1976, NSA Chile in Their Hearts, document 8. https://nsarchive.gwu.edu/sites/default/files/documents/dinges8fimbresmemoonKennletter-ocr.pdf

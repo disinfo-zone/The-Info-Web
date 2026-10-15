@@ -14,7 +14,7 @@ tags:
 summary: "Operations director of DINA, indicted in Washington for the Letelier murder in 1978, named by Michael Townley as the man who asked for the killing of General Prats, and convicted in the Horman case."
 location: "Santiago, Chile"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-15
 ---
 
 Pedro Espinoza Bravo was a [[Chile|Chilean]] army colonel and director of operations of [[DINA]], the secret police of General [[Augusto Pinochet]], under [[Manuel Contreras]].[^1]
@@ -25,7 +25,7 @@ In a sworn statement of April 24, 1978, in the file of the military prosecutor [
 
 A federal grand jury in Washington indicted Contreras, Espinoza, and [[Armando Fernandez Larios|Armando Fernández Larios]] in 1978 for the murder of [[Orlando Letelier]] and [[Ronni Moffitt]]. Chile put the three under military detention and refused to extradite them, and a military court dismissed the domestic case. On an appeal by Letelier's sister the [[Supreme Court of Chile|Chilean Supreme Court]] ruled in January 1982 that the dismissal "was temporary and not definitive." Contreras was sentenced to seven years for the murder in 1995.[^3]
 
-A man who sought asylum in 1987 told American officials that [[Charles Horman]] had been put to death in the [[Estadio Nacional (Chile)|National Stadium]] in September 1973 on Espinoza's orders. A Chilean court sentenced Espinoza to seven years in the Horman and [[Frank Teruggi]] case in 2015, and the Supreme Court raised the term to fifteen years in 2016.[^4]
+A man who sought asylum in 1987 told American officials that [[Charles Horman]] had been put to death in the [[Estadio Nacional (Chile)|National Stadium]] in September 1973 on Espinoza's orders. A Chilean court sentenced Espinoza to seven years in the Horman and [[Frank Teruggi]] case in 2015.[^4] The Appeals Court of Santiago upheld the sentence on September 5, 2015.[^5] On July 21, 2016 the Supreme Court sentenced Espinoza unanimously to fifteen years, as the author of both killings, and raised the term of the civilian [[Rafael González (Chilean intelligence)|Rafael González]] to three years as an accomplice in the Horman killing.[^6] The journalist [[John Dinges]] reports that the trial court had ignored González's 2003 recantation of his 1976 statements.[^7]
 
 ### Footnotes
 
@@ -33,3 +33,6 @@ A man who sought asylum in 1987 told American officials that [[Charles Horman]] 
 [^2]: Fiscalía Militar Ad-Hoc, Santiago, causa 192-78 (fiscal Héctor Orozco), as reproduced in *Proceso contra Manuel Contreras Sepúlveda y Pedro Espinoza Bravo,* ministro instructor Adolfo Bañados, tomo 1, scan at https://www.latinamericanstudies.org/MNC/Causa-Contreras-Espinoza-1991.pdf. Quotations translated from the Spanish, declaración of Pedro Espinoza Bravo, April 24, 1978; declaración of René Riveros Valderrama, March 22, 1978; resolution of April 10, 1978.
 [^3]: "Letelier Case Reversal," *The Washington Post,* January 16, 1982, CIA Reading Room document CIA-RDP90-00552R000403680022-8; "Ex-Chile spy chief dies while serving 500-year sentence," Al Jazeera, August 8, 2015.
 [^4]: National Security Archive Electronic Briefing Book No. 33, document 2; "Sentencing in Chile begins to bring closure in 41-year-old murder cases of US citizens Frank Teruggi and Charles Horman," *The Tico Times,* January 30, 2015.
+[^5]: "Chilean appeals court upholds convictions of 2 in killings of Americans portrayed in 'Missing,'" Fox News, September 5, 2015. https://www.foxnews.com/world/chilean-appeals-court-upholds-convictions-of-2-in-killings-of-americans-portrayed-in-missing
+[^6]: "Chile eleva penas a militares por morte de dois americanos na ditadura," Swissinfo, July 21, 2016. https://www.swissinfo.ch/por/chile-eleva-penas-a-militares-por-morte-de-dois-americanos-na-ditadura/42317540
+[^7]: National Security Archive, "Chile in Their Hearts," May 7, 2025, with Dinges's summary of the 2015 verdict. https://nsarchive.gwu.edu/briefing-book/chile/2025-05-07/chile-their-hearts

@@ -4,7 +4,7 @@ aliases:
   - Rolodex Investigation
   - Bell Boys Investigation
 created: 2026-05-17
-updated: 2026-10-09
+updated: 2026-10-15
 tags:
   - Event
   - Investigation
@@ -17,6 +17,13 @@ summary: "Dutch inquiry into an Amsterdam brothel and its escort agency, begun i
 start: 1997-01-01
 end: 1998-12-31
 location: "Amsterdam, Netherlands"
+relations:
+  - type: subject_of
+    with: "[[Joris Demmink]]"
+    role: "named by a witness; official summary says he did not appear in the file"
+    start: 1997-02
+    end: 1999-09-21
+    fn: 1
 ---
 
 The Rolodex Investigation was the third assignment of a multidisciplinary team formed in Amsterdam on August 25, 1998 under the responsibility of the Amsterdam chief prosecutor, drawn from the [[Rijksrecherche]], the Bureau Interne Onderzoeken and the Amsterdam youth and vice police. The Dutch government's summary of December 23, 2013 states that the underlying probe of an Amsterdam brothel for homosexual clients with an attached escort agency began in February 1997, was halted for tactical reasons and was reopened in May 1998, after a man under investigation in another sex-offence case (suspected of raping his partner's 14-year-old daughter) began to describe the brothel in detail. On July 17, 1998, that witness named two chief prosecutors, whose names he said he had seen on a rolodex of the brothel owner "A" containing the owner's clients.[^1] The summary states that the rolodex was never found in searches of the suspects' homes and premises. The team's other assignments were an inquiry into a criminal organisation producing child pornography and a corruption inquiry into Amsterdam-Amstelland police staff.[^1] The inventory lists observation reports of the Koninklijke Marechaussee of December 17, 1998 and January 12, 1999.[^1] The start date is given as 1997 by former detective [[Leendert de Koter]], who worked on the probe, and as August 1998 in a March 2014 ministerial letter.[^2][^3]
@@ -33,17 +40,21 @@ De Koter testified on March 5, 2014 before an examining magistrate in Utrecht th
 
 S. Dovey wrote that the rolodex held the private numbers of three district attorneys, Holthuis, Henk Wooldrik and Wabeke, and that it belonged to a university professor who served as an intermediary for clients of the Bell Boys service.[^9]
 
+Omroep Brabant reported that De Koter said the request for an observation team on Demmink and the prosecutors was turned down by the head of the national police investigative information service, [[Pieter-Jaap Aalbersberg]], while NOS reported that the Openbaar Ministerie did not grant it.[^2][^10]
+
 ### Witness Testimony and Evidence
 
-Crucial evidence in the investigation came from a boy prostitute who worked at the Festival Bar and later described these events at a U.S. Helsinki Commission briefing on child sex trafficking on October 5, 2012. The witness provided detailed testimony about Karel Maasdam's operation, stating that Maasdam sold boys to Amsterdam child pornographers, some of whom were involved in snuff films. The witness also claimed to have been introduced to Demmink at the Festival Bar by a university professor and described being instructed to have sex with Demmink inside his government car.[^10]
+Crucial evidence in the investigation came from a boy prostitute who worked at the Festival Bar and later described these events at a U.S. Helsinki Commission briefing on child sex trafficking on October 4, 2012. The witness provided detailed testimony about Karel Maasdam's operation, stating that Maasdam sold boys to Amsterdam child pornographers, some of whom were involved in snuff films. The witness also claimed to have been introduced to Demmink at the Festival Bar by a university professor and described being instructed to have sex with Demmink inside his government car.[^11]
 
 ### Government Vehicle Abuse and Official Complicity
 
-Further evidence of official complicity emerged from complaints filed by drivers assigned to Demmink's government car. One driver had complained that Demmink had sex with boys in the backseat of his government car in his presence. The driver died shortly after lodging the complaint, which was never followed up on. Similar complaints were made by other drivers.[^11]
+Further evidence of official complicity emerged from complaints filed by drivers assigned to Demmink's government car. One driver had complained that Demmink had sex with boys in the backseat of his government car in his presence. The driver died shortly after lodging the complaint, which was never followed up on. Similar complaints were made by other drivers.[^12]
 
 ### Outcome
 
-The summary records a probe halted in 1997 that was reopened in May 1998, with the College's conclusions in 1999.[^1] DutchNews wrote that the investigation "ultimately yielded no tangible results"; Omroep Brabant wrote that it yielded no tangible result "althans niet waar het de hooggeplaatste figuren betreft."[^6][^8] A detective who investigated the Bell Boys service stated that the case had been closed with the arrest and sentencing of Karel Maasdam.[^12]
+On January 20, 2014, the Gerechtshof Arnhem-Leeuwarden ordered prosecution of Joris Demmink in an Article 12 Sv complaint by two Turkish complainants, and in 2017 the same court approved the Openbaar Ministerie's request to drop it, finding that no reasonable suspicion of guilt remained for the alleged rapes in Turkey.[^13][^14] The Openbaar Ministerie had earlier stated that no criminal investigation was warranted after orienting inquiries in 2007 and 2011.[^15] In questions of January 30, 2015, the MP Bontes asked whether the earlier answers that Demmink did not appear in the Rolodex file could be wrong in light of two statements under oath in civil witness hearings. The minister had answered on January 21, 2015 that for the second statement, of April 15, 2014, he had asked the chairman of the College of Procurators-General for an assessment, who reported by official message of May 1, 2014 that no information had been found confirming it.[^16] On December 17, 2014 the Rechtbank Rotterdam rejected Demmink's claims against the Algemeen Dagblad over its articles of October 6 and 8, 2012 (ECLI:NL:RBROT:2014:10259).[^17]
+
+The summary records a probe halted in 1997 that was reopened in May 1998, with the College's conclusions in 1999.[^1] DutchNews wrote that the investigation "ultimately yielded no tangible results"; Omroep Brabant wrote that it yielded no tangible result "althans niet waar het de hooggeplaatste figuren betreft."[^6][^8] A detective who investigated the Bell Boys service stated that the case had been closed with the arrest and sentencing of Karel Maasdam.[^18]
 
 ### International Connections and Broader Network
 
@@ -51,7 +62,7 @@ The Rolodex Investigation revealed connections to international trafficking netw
 
 ### Connection to Other Investigations
 
-The Rolodex Investigation was one of three major interlinked investigations into child trafficking networks in the Netherlands during the 1990s, along with [[Operation Framework]] (1992-93) and the [[HIK Investigation]] (1994).[^13]
+The Rolodex Investigation was one of three major interlinked investigations into child trafficking networks in the Netherlands during the 1990s, along with [[Operation Framework]] (1992-93) and the [[HIK Investigation]] (1994).[^19]
 
 ### Footnotes
 
@@ -64,7 +75,13 @@ The Rolodex Investigation was one of three major interlinked investigations into
 [^7]: "Forced child prostitution case: Netherlands elite, royalty under microscope," NL Times, April 18, 2016. https://nltimes.nl/node/28758
 [^8]: "Oud-hoofdofficier justitie Jan Wolter Wabeke uit Best genoemd in zedenzaak Joris Demmink," Omroep Brabant, March 5, 2014. https://www.omroepbrabant.nl/nieuws/1720283/oud-hoofdofficier-justitie-jan-wolter-wabeke-uit-best-genoemd-in-zedenzaak-joris-demmink
 [^9]: Dovey, S. *Eye of the Chickenhawk.* Thehotstar, 2023.
-[^10]: 'Listening To Victims of Child Sex Trafficking', U.S. Helsinki Commission briefing, October 5, 2012; Bell Boys service victim statements
-[^11]: Government vehicle abuse complaints and driver testimony; Rob Mostert case and subsequent death
-[^12]: Investigation shutdown and cover-up evidence; Detective statements on case closure
-[^13]: Summary of interlinked Netherlands investigations, 1992-1998; Dutch police investigation files and media reports
+[^10]: "Oud-hoofdofficier justitie Jan Wolter Wabeke uit Best genoemd in zedenzaak Joris Demmink," Omroep Brabant, March 5, 2014. https://www.omroepbrabant.nl/nieuws/1720283/oud-hoofdofficier-justitie-jan-wolter-wabeke-uit-best-genoemd-in-zedenzaak-joris-demmink
+[^11]: 'Listening To Victims of Child Sex Trafficking', U.S. Helsinki Commission briefing, October 4, 2012; Bell Boys service victim statements
+[^12]: Government vehicle abuse complaints and driver testimony; Rob Mostert case and subsequent death
+[^13]: Gerechtshof Arnhem-Leeuwarden, press release, August 18, 2017. https://www.rechtspraak.nl/organisatie-en-contact/organisatie/gerechtshoven/gerechtshof-arnhem-leeuwarden/nieuws/2017/08/beslissing-gerechtshof-over-bewilligingsverzoek-in-de-beklagzaak-tegen-j-demmink
+[^14]: Openbaar Ministerie, "OM tevreden met beslissing hof om Demmink niet verder te vervolgen," August 18, 2017. https://www.om.nl/actueel/nieuws/2017/08/18/om-tevreden-met-beslissing-hof-om-demmink-niet-verder-te-vervolgen
+[^15]: Tweede Kamer, Aanhangsel Handelingen 2012-2013, nr. 691, answers of December 4, 2012. https://zoek.officielebekendmakingen.nl/ah-tk-20122013-691-n1.html
+[^16]: Tweede Kamer, questions of MP Bontes on the Demmink affair, 2015Z01581, January 30, 2015 (questions 1, 7, 10, 12; footnote 1 on the answers of January 21, 2015). https://berthub.eu/tkconv/getraw/2015D03269
+[^17]: Rechtbank Rotterdam, judgment of December 17, 2014, C/10/419404 / HA ZA 13-226, ECLI:NL:RBROT:2014:10259. https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBROT:2014:10259
+[^18]: Investigation shutdown and cover-up evidence; Detective statements on case closure
+[^19]: Summary of interlinked Netherlands investigations, 1992-1998; Dutch police investigation files and media reports

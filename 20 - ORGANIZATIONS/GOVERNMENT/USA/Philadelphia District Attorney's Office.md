@@ -14,7 +14,7 @@ tags:
 summary: "Prosecutor for the city and county of Philadelphia, led since 2018 by Larry Krasner, which charged and in August 2026 withdrew state gun and drug counts against Eugene Horsch."
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 relations:
   - type: head_of
     with: "[[James C. Crumlish Jr.]]"
@@ -61,7 +61,7 @@ Krasner first ran for district attorney in 2017. On November 4, 2025, he won a t
 
 [[R.C. Horsch]] said that staff of the office attended the 1973 premiere of his film [[The Erotic Memoirs of a Male Chauvinist Pig]] at the 1812 Theater on Chestnut Street.[^7] In March 2009 the office, through Assistant District Attorney [[Jill Fertel]], prosecuted him for approaching a nine-year-old girl in [[Kensington, Philadelphia|Kensington]].[^8]
 
-Firefighters answered a small fire on the second floor of the house at 417 West Chew Avenue on May 18, 2025. A fire marshal and a police patrolman found a marijuana grow, a BCI Defense rifle of AR-15 pattern modified to fire automatically, a 12-gauge Stevens Model 67 shotgun with a sawed-off barrel, a 9mm Girsan MC28 pistol, and more than a hundred rounds of ammunition; the serial numbers had been destroyed on all three guns. According to a spokesperson for Krasner, the defense lawyer [[Jerome Brown]] told the court that the weapons had belonged to Eugene Horsch's father, who had died three days before the raid, and that Eugene Horsch had planned to dispose of them properly. He pleaded guilty to manufacturing drugs, prosecutors withdrew the gun charges, and he received three years of probation.[^2]
+Firefighters answered a small fire on the second floor of the house on West Chew Avenue on May 18, 2025. A fire marshal and a police patrolman found a marijuana grow, a BCI Defense rifle of AR-15 pattern modified to fire automatically, a 12-gauge Stevens Model 67 shotgun with a sawed-off barrel, a 9mm Girsan MC28 pistol, and more than a hundred rounds of ammunition; the serial numbers had been destroyed on all three guns. According to a spokesperson for Krasner, the defense lawyer [[Jerome Brown]] told the court that the weapons had belonged to Eugene Horsch's father, who had died three days before the raid, and that Eugene Horsch had planned to dispose of them properly. He pleaded guilty to manufacturing drugs, prosecutors withdrew the gun charges, and he received three years of probation.[^2]
 
 After his arrest near [[Independence Hall]] on June 19, 2026, the office charged him with illegal gun and drug possession. On the morning of August 6, 2026, Assistant District Attorney [[Alyssa Amoroso]] withdrew the charges, telling a city judge that the [[United States Attorney for the Eastern District of Pennsylvania|United States Attorney's Office]] would handle the case. Neither Horsch nor Brown attended the hearing.[^3] Amoroso, a 2017 graduate of the [[Villanova University]] law school, had interned in the office's Municipal Court Unit in 2016.[^9]
 

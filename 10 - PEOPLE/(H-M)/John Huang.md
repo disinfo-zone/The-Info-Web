@@ -12,7 +12,7 @@ tags:
 summary: "Lippo Group banker who worked under James Riady at Worthen Bank, received 37 CIA briefings at the Commerce Department while keeping a secret office at Stephens Inc., and pleaded guilty in 1999."
 location: "Los Angeles, California"
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-15
 ---
 
 John Huang was the chief representative in the [[United States]] of the [[Lippo Group]] of [[Indonesia]], an official of the [[United States Department of Commerce|Commerce Department]] in 1994 and 1995, and a fundraiser for the [[Democratic National Committee]] in 1996. He was born in [[Fujian]] province in [[China]], raised in [[Taiwan]], and naturalized as an American citizen in 1976.[^1]
@@ -35,12 +35,16 @@ The department's security office gave Huang an interim top secret clearance on J
 
 Lippo's principal partner in China, the committee reported, was [[China Resources]], "a company wholly-owned and operated by the PRC government," of which "intelligence officials have confirmed in the press that the Chinese intelligence establishment is heavily involved in the operation." In 1991 Huang was sent to [[Beijing]] to negotiate a joint bid with China Resources for the Hong Kong branch of the [[Bank of Credit and Commerce International]]. On October 7, 1993, he wrote to the office of Vice President [[Al Gore]] with thanks for receiving the chairman of China Resources, Shen Jueren, at the [[White House]].[^1]
 
+The minority views appended to the 1998 Senate report disputed the weight given to the briefings. They stated that Huang received oral briefings from John Dickerson of the Office of Intelligence Liaison 37 times in 14 months, an average of 2.5 times per month, that briefings of this type took an average of 20 minutes, and that the contents were largely at the discretion of the briefing officer. The minority views also stated that Huang was shown documents during briefings but was not allowed to keep them or take notes. Dickerson testified, as the minority quoted him, that the subjects included "areas of international relations and trade that we seem to feel were his responsibility." The minority wrote that Huang "was actually briefed far less frequently" than other Commerce officials, who received weekly briefings.[^4]
+
 ### Plea
 
-On August 12, 1999, Huang pleaded guilty in the federal court in [[Los Angeles]] to a felony charge that he conspired with other Lippo employees "to make campaign contributions and reimburse employees with corporate funds or with funds from Indonesia." He was sentenced to a year's probation, 500 hours of community service, and a fine of 10,000 dollars, and was directed to go on cooperating. LippoBank pleaded guilty in 2001 to 86 misdemeanor counts for contributions its agents Riady and Huang had made from 1988 to 1994.[^3]
+On August 12, 1999, Huang pleaded guilty in the federal court in [[Los Angeles]] to a felony charge that he conspired with other Lippo employees "to make campaign contributions and reimburse employees with corporate funds or with funds from Indonesia." The Justice Department release stated that the charged conspiracy lasted from approximately 1992 through June 1994, and that the government alleged Huang was responsible for arranging approximately $156,000 in illegal campaign contributions from Lippo Group overseas to various Democratic and Republican political committees. The release stated that Huang had been cooperating with the FBI and prosecutors.[^5] He was sentenced to a year's probation, 500 hours of community service, and a fine of 10,000 dollars, and was directed to go on cooperating. LippoBank pleaded guilty in 2001 to 86 misdemeanor counts for contributions its agents Riady and Huang had made from 1988 to 1994.[^3]
 
 ### Footnotes
 
 [^1]: Senate Committee on Governmental Affairs, *Investigation of Illegal or Improper Activities in Connection with 1996 Federal Election Campaigns,* S. Rept. 105-167, 1998, chapters 13, "John Huang's Years at Lippo," and 14, "John Huang at Commerce." https://irp.fas.org/congress/1998_rpt/sgo-sir/1-14.htm
 [^2]: House Committee on Government Reform and Oversight, *Investigation of Political Fundraising Improprieties and Possible Violations of Law,* H. Rept. 105-829, 1998, vol. 2. https://www.govinfo.gov/content/pkg/CRPT-105hrpt829/html/CRPT-105hrpt829-vol2.htm
 [^3]: Department of Justice, "James Riady Pleads Guilty, Will Pay Largest Fine in Campaign Finance History for Violating Federal Election Law," press release 01-17, January 11, 2001.
+[^4]: Senate Committee on Governmental Affairs, S. Rept. 105-167, 1998, Minority Views of Senators Glenn, Levin, Lieberman, Akaka, and Durbin, section on Huang at Commerce (the briefings discussion, footnotes 118 through 120). https://irp.fas.org/congress/1998_rpt/sgo-sir/4-4.htm
+[^5]: Department of Justice, "John Huang Pleads Guilty to Violating Federal Campaign Finance Laws," press release, August 12, 1999. https://www.justice.gov/archive/opa/pr/1999/August/357crm.htm

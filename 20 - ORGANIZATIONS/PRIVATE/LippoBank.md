@@ -20,17 +20,23 @@ relations:
   - type: owned
     with: "[[Lippo Group]]"
     reverse: true
-    fn: 3
+    fn: 4
   - type: prosecuted
     with: "[[Department of Justice]]"
     reverse: true
     start: 2001-01-11
     fn: 2
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 LippoBank was a California state-chartered commercial bank affiliated with the [[Lippo Group]] of [[Mochtar Riady]] and [[James Riady]] of [[Indonesia]]. It was chartered in [[San Francisco]] in 1961 as the Bank of Trade of San Francisco and took the name Lippo Bank in [[Los Angeles]] in January 1990. In January 2001 James Riady agreed to plead guilty on its behalf to 86 misdemeanor counts charging that its agents, Riady and [[John Huang]], had made illegal foreign campaign contributions from 1988 through 1994.[^1][^2]
+
+### Control of the bank
+
+The Senate committee reported that James Riady owned 99 percent of LippoBank California, a small California-chartered bank with less than one hundred million dollars in assets. The committee described chronic asset-quality and management problems and numerous cease and desist orders from the Federal Deposit Insurance Corporation, and it found that the bank consistently generated losses. Riady served as its chief executive from 1986 to 1988 and moved back to Jakarta some time before 1990.[^3]
+
+Whether the bank was part of the Lippo Group was disputed in the record. Its chief executive, James Per Lee, insisted in deposition testimony that the relationship was limited to a licensing agreement allowing the bank to use the Lippo name. A former chief executive, Harold R. Arthur, testified that the bank is part of the Indonesia-based Lippo Group. Another former chief executive, James A. Alexander, stated in a memorandum of interview that the bank was under the direct control of Indonesia-based Lippo executives.[^3] The committee wrote that Per Lee's position "is simply not tenable on the facts," and listed as its grounds that the bank appeared as part of the group in its promotional materials and in the date book carried by Per Lee, that its chief executives attended bi-annual Lippo Group meetings in Jakarta, that Per Lee's appointment was announced in the Lippo Group newsletter for senior executives, and that the bank received an annual budget for community and political affairs directly from the group in Jakarta.[^3] The committee concluded that calling the LippoBank offices in Los Angeles, which John Huang did hundreds of times after he entered government service, "was the functional equivalent of calling Jakarta."[^3]
 
 ### Charter History
 
@@ -43,7 +49,7 @@ The records of the [[Federal Deposit Insurance Corporation]] for the bank (certi
 - March 26, 1998: main office moved back to San Francisco.
 - May 31, 2000: merged, without assistance, into the First Bank of California, which survived.
 
-The [[House Committee on Oversight and Government Reform|House Government Reform and Oversight Committee]] reported that when the Riadys left [[Worthen Bank]] in [[Little Rock, Arkansas|Little Rock]] about 1987 they "focused their attention on a bank they previously had purchased in San Francisco, California. Soon thereafter they established the Bank of Trade in Los Angeles, which later became LippoBank." Huang's résumé was among the documents LippoBank produced to the committee. The committee found that the Lippo Group's American operations were generally unprofitable, and that while many in the group's hierarchy wanted unprofitable operations closed, others argued that "LippoBank California was important 'strategically,' in order to have a presence in the United States," and prevailed.[^3]
+The [[House Committee on Oversight and Government Reform|House Government Reform and Oversight Committee]] reported that when the Riadys left [[Worthen Bank]] in [[Little Rock, Arkansas|Little Rock]] about 1987 they "focused their attention on a bank they previously had purchased in San Francisco, California. Soon thereafter they established the Bank of Trade in Los Angeles, which later became LippoBank." Huang's résumé was among the documents LippoBank produced to the committee. The committee found that the Lippo Group's American operations were generally unprofitable, and that while many in the group's hierarchy wanted unprofitable operations closed, others argued that "LippoBank California was important 'strategically,' in order to have a presence in the United States," and prevailed.[^4]
 
 ### Plea
 
@@ -55,4 +61,5 @@ The benefits the contributions were meant to secure for the group and "defendant
 
 [^1]: Federal Deposit Insurance Corporation, BankFind Suite, institution history for certificate 18453 (Lippo Bank), queried September 23, 2026. https://api.fdic.gov/banks/history?filters=CERT:18453&limit=50 ; https://api.fdic.gov/banks/institutions?filters=CERT:18453
 [^2]: U.S. Department of Justice. "James Riady Pleads Guilty, Will Pay Largest Fine in Campaign Finance History for Violating Federal Election Law." Press release 017, January 11, 2001. http://web.archive.org/web/20140715142633/http://www.justice.gov:80/opa/pr/2001/January/017crm.htm
-[^3]: House Committee on Government Reform and Oversight, *Investigation of Political Fundraising Improprieties and Possible Violations of Law,* H. Rept. 105-829, 1998, vol. 2. https://www.govinfo.gov/content/pkg/CRPT-105hrpt829/html/CRPT-105hrpt829-vol2.htm
+[^3]: Senate Committee on Governmental Affairs, S. Rept. 105-167, 1998, chapter "John Huang's Years at Lippo," section "LippoBank California" and footnotes 5 through 8 (testimony of Harold R. Arthur, July 15, 1997; deposition of James Per Lee, May 2, 1997; memorandum of interview of James A. Alexander, July 7, 1997; deposition of David Sugita, May 16, 1997). https://irp.fas.org/congress/1998_rpt/sgo-sir/1-13.htm
+[^4]: House Committee on Government Reform and Oversight, *Investigation of Political Fundraising Improprieties and Possible Violations of Law,* H. Rept. 105-829, 1998, vol. 2. https://www.govinfo.gov/content/pkg/CRPT-105hrpt829/html/CRPT-105hrpt829-vol2.htm
