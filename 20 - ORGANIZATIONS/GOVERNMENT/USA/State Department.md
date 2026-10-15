@@ -45,6 +45,10 @@ The State Department granted [[Danilo Blandon|Danilo Blandón]] political asylum
 
 The State Department's Office of Public Diplomacy for [[Latin America]] was described by a 1992 House committee report as "a domestic, covert operation designed to lobby the Congress, manipulate the media and influence domestic public opinion" regarding the Contra war. The State Department issued a White Paper on Contra drug allegations that belittled every claim except those involving the [[Sandinistas]], studiously avoiding any mention of [[Norwin Meneses]].[^12]
 
+### Directorate of Defense Trade Controls
+
+The department administers the [[International Traffic in Arms Regulations]] through the [[Directorate of Defense Trade Controls]], a directorate within the [[Bureau of Political-Military Affairs]] that was called the Office of Munitions Control until March 29, 1990, and the Office of Defense Trade Controls until a realignment effective January 20, 2003 created the Directorate of Defense Trade Controls and abolished the position of Director of the Office.[^13][^14][^15] The 2006 ITAR amendment that recorded the directorate's name also placed its section in Part 120 under the Bureau of Political-Military Affairs.[^14]
+
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991.
@@ -59,3 +63,6 @@ The State Department's Office of Public Diplomacy for [[Latin America]] was desc
 [^10]: "Alleged Homosexual Ring Found in a Raid on Apartment in Dallas," *New York Times*, August 16, 1973, p. 16. https://www.nytimes.com/1973/08/16/archives/alleged-homosexual-ring-found-in-a-raid-on-apartment-in-dallass.html
 [^11]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it"
 [^12]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 15 and Chapter 9
+[^13]: Department of State, "Bureau of Political-Military Affairs; Amendments to the International Traffic in Arms Regulations," 61 Fed. Reg. (Sept. 17, 1996), FR Doc. 96-23659, describing Public Notice 1179, 55 Fed. Reg. 11714 (Mar. 29, 1990). https://www.govinfo.gov/content/pkg/FR-1996-09-17/html/96-23659.htm
+[^14]: Department of State, "Amendments to the International Traffic in Arms Regulations: Office Names, Corrected Cross-Referencing, Reference to Wassenaar Arrangement, and Other Corrections/Administrative Changes," 71 Fed. Reg. 20534 (Apr. 21, 2006), FR Doc. 06-3500. https://www.govinfo.gov/content/pkg/FR-2006-04-21/html/06-3500.htm. The Commerce Department's rule effective October 12, 2004, "Nomenclature Change: References to Another Agency," 69 Fed. Reg. 60545, FR Doc. 04-22861, records that the change was made through an internal organizational order. https://www.govinfo.gov/content/pkg/FR-2004-10-12/html/04-22861.htm
+[^15]: Department of State, "Bureau of Political-Military Affairs; Amendment to the International Traffic in Arms Regulations," 68 Fed. Reg. 7417 (Feb. 14, 2003), FR Doc. 03-2926, Public Notice 4274, reflecting a realignment effective January 20, 2003. https://www.govinfo.gov/content/pkg/FR-2003-02-14/html/03-2926.htm

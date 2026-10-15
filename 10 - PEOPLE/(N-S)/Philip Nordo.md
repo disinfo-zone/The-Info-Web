@@ -33,12 +33,15 @@ A Philadelphia jury found Nordo guilty of sexually assaulting witnesses in murde
 
 As of the verdict, according to the District Attorney's Office, five people wrongfully convicted of homicide in cases involving Nordo had been exonerated, two had received reduced sentences and charges, one had been granted a new trial, and four were awaiting rulings; a person wrongfully convicted of firearms offenses had been exonerated in 2017.[^1]
 
+In February 2023, after the December 2022 sentence, Deputy Commissioner [[Frank Vanore]] told the Inquirer that detectives now receive greater supervision. The reporters wrote that Vanore could not point to a single reform made specifically in response to Nordo's wrongdoing, and that he said the department had not undertaken any review of Nordo's cases. Department officials cited protocols (recorded interrogations, voluntary-participation warnings, limits on questioning time) that the Inquirer reported were enacted in 2014, three years before Nordo was benched.[^3]
+
 ### Civil Suits
 
-Civil-rights suits arising from his conduct include *Thomas v. Nordo*, No. 2:24-cv-04914 in the [[United States District Court for the Eastern District of Pennsylvania|Eastern District of Pennsylvania]], filed on September 17, 2024, in which [[Jerome Brown]], counsel to [[Eugene Horsch]] and to [[R.C. Horsch]] in unrelated cases, is counsel of record.[^3]
+Civil-rights suits arising from his conduct include *Thomas v. Nordo*, No. 2:24-cv-04914 in the [[United States District Court for the Eastern District of Pennsylvania|Eastern District of Pennsylvania]], filed on September 17, 2024, in which [[Jerome Brown]], counsel to [[Eugene Horsch]] and to [[R.C. Horsch]] in unrelated cases, is counsel of record.[^4]
 
 ### Footnotes
 
 [^1]: Office of the Philadelphia District Attorney, "Former Homicide Detective Philip Nordo Accused of Sexual Assault, Theft Found Guilty on All Counts," press release, June 1, 2022. https://phillyda.org/news/former-homicide-detective-philip-nordo-accused-of-sexual-assault-theft-found-guilty-on-all-counts/
 [^2]: "Former Philadelphia detective Philip Nordo sentenced to 24-49 years in prison," *CBS News Philadelphia,* December 16, 2022. https://www.cbsnews.com/philadelphia/news/former-philadelphia-detective-philip-nordo-sentenced-to-24-49-years-in-prison/
-[^3]: *Thomas v. Nordo,* No. 2:24-cv-04914 (E.D. Pa.), filed September 17, 2024, docket via CourtListener RECAP. https://www.courtlistener.com/?q=%22Thomas+v.+Nordo%22
+[^3]: Chris Palmer and Samantha Melamed, "Four takeaways from the 'Predator in Blue' investigation into homicide detective Philip Nordo," *The Philadelphia Inquirer,* February 27, 2023. https://inquirer.com/news/philip-nordo-philly-police-detective-trial-sexual-assault-cases-20230227.html
+[^4]: *Thomas v. Nordo,* No. 2:24-cv-04914 (E.D. Pa.), filed September 17, 2024, docket via CourtListener RECAP. https://www.courtlistener.com/?q=%22Thomas+v.+Nordo%22

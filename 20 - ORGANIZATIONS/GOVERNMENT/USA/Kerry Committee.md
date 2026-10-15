@@ -84,7 +84,7 @@ relations:
     end: 1992-12
     fn: 73
 created: 2026-09-23
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 The Subcommittee on Terrorism, Narcotics and International Operations of the [[Senate Foreign Relations Committee]], chaired by Senator [[John Kerry]] of [[Massachusetts]], produced two reports: S. Prt. 100-165, *Drugs, Law Enforcement and Foreign Policy* (December 1988), on narcotics trafficking, the [[Contras]] and [[Manuel Noriega]], and S. Prt. 102-140, *The BCCI Affair* (December 1992), on the [[Bank of Credit and Commerce International]] (BCCI), published as the [[BCCI Kerry-Brown Senate Report|Kerry-Brown Senate Report]]. The Foreign Relations Committee's drug inquiry began in April 1986; responsibility passed to the subcommittee in April 1987, with Senator [[Mitch McConnell]] of [[Kentucky]] as ranking member. Senator [[Hank Brown]] of [[Colorado]] was the ranking member for the BCCI investigation.[^1]
@@ -284,7 +284,7 @@ The two texts of the chapter differ. The Federation of American Scientists' elec
 [^29]: S. Prt. 100-165, pp. 51-52, citing Part 3, pp. 282-286. https://archive.org/details/Kerry-Report-Drugs-Contras
 [^30]: S. Prt. 100-165, pp. 52-53, citing the Iran-Contra executive session testimony of Thomas Castillo, May 29, 1987, pp. 83-85, the testimony of Morales, Part 1, July 16, 1987, p. 98. https://archive.org/details/Kerry-Report-Drugs-Contras
 [^31]: S. Prt. 100-165, ch. 5, "John Hull," pp. 53-54, citing North notebook entries, the Iran-Contra deposition of Robert Owen, and the Castillo executive session. https://archive.org/details/Kerry-Report-Drugs-Contras
-[^32]: S. Prt. 100-165, pp. 54-55, citing the testimony of Gary Betzner, Part 3, April 7, 1988, pp. 253-267, and the deposition of Werner Lotz, Part 4, April 8, 1988. https://archive.org/details/Kerry-Report-Drugs-Contras
+[^32]: S. Prt. 100-165, pp. 55-56, citing the testimony of Gary Betzner, Part 3, April 7, 1988, pp. 262-269, and the deposition of Werner Lotz, Part 4, April 8, 1988. The report's wording for the interval between the two flights is "two weeks later"; Betzner testified a week or ten days. https://archive.org/details/Kerry-Report-Drugs-Contras
 [^33]: S. Prt. 100-165, pp. 55-56, citing the Iran-Contra deposition of Jeffrey Feldman, Appendix B, vol. 10, April 30, 1987, pp. 77-88. https://archive.org/details/Kerry-Report-Drugs-Contras
 [^34]: S. Prt. 100-165, p. 56, citing the Iran-Contra testimony of Leon Kellner. https://archive.org/details/Kerry-Report-Drugs-Contras
 [^35]: S. Prt. 100-165, pp. 56-58, citing the Part 1 testimony of October 30, 1987. https://archive.org/details/Kerry-Report-Drugs-Contras

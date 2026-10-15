@@ -9,7 +9,7 @@ category: "Major Conflict"
 summary: "American war in Vietnam, escalated after the Gulf of Tonkin Resolution of 1964, in which the CIA ran the Phoenix program and Air America and the Army and Rand applied behavioral science to the enemy."
 location: "Vietnam, Laos, Cambodia"
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 The Vietnam War followed the French defeat at [[Dienbienphu]] and the division of [[Vietnam]]. On August 2, 1964, North Vietnamese boats attacked the USS *Maddox* in the Gulf of Tonkin; a second attack reported on August 4 almost certainly did not take place, as an [[NSA]] history declassified in 2005 concluded. The Johnson administration used the reports to obtain the Gulf of Tonkin Resolution, the legal basis for the escalation that brought American ground troops in 1965 (see [[Gulf of Tonkin Incident]]).[^1]
@@ -24,7 +24,7 @@ The [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, commissioned b
 
 ### Opposition
 
-[[Martin Luther King Jr.]] set out his opposition to the war in "Beyond Vietnam: A Time to Break Silence" at [[Riverside Church]] on April 4, 1967, a year before his assassination.[^9] In April 1968 [[Andreas Baader]] and [[Gudrun Ensslin]] set fire to two Frankfurt department stores in protest against the war; they later founded the [[Red Army Faction]].[^10] The CIA's domestic surveillance of antiwar groups, reported by [[Seymour Hersh]] on December 22, 1974, led to the [[Rockefeller Commission 1975|Rockefeller Commission]] and the [[Church Committee]].[^2]
+[[Martin Luther King Jr.]] set out his opposition to the war in "Beyond Vietnam: A Time to Break Silence" at [[Riverside Church]] on April 4, 1967, a year before his assassination.[^9] On April 2, 1968, [[Andreas Baader]], [[Gudrun Ensslin]], [[Thorwald Proll]] and [[Horst Söhnlein]] set fires in two Frankfurt department stores. The judgment states that the fires were motivated by a [[Kommune 1]] campaign that used a fire in a Brussels department store, which killed more than 200 people in 1967, to criticize the war.[^10] They later founded the [[Red Army Faction]].[^11][^12] The CIA's domestic surveillance of antiwar groups, reported by [[Seymour Hersh]] on December 22, 1974, led to the [[Rockefeller Commission 1975|Rockefeller Commission]] and the [[Church Committee]].[^2]
 
 ### Footnotes
 
@@ -37,4 +37,6 @@ The [[Rand Corporation]]'s Viet Cong Motivation and Morale Study, commissioned b
 [^7]: Watson, pp. 403-416.
 [^8]: National Security Archive. "Top Secret Testimony of CIA's MKULTRA Chief, 50 Years Later." October 30, 2025, documents 1-4.
 [^9]: Garrow, David. *Bearing the Cross: Martin Luther King, Jr., and the Southern Christian Leadership Conference.* William Morrow, 1986.
-[^10]: Aust, Stefan. *The Baader-Meinhof Complex.* Bodley Head, 2008.
+[^10]: Urteil des Oberlandesgerichts Stuttgart vom 28. April 1977, Az. 2 StE (OLG Stgt) 1/74, in: Das Stammheim-Protokoll. Die Gesamtedition (Humboldt-Universität zu Berlin, 2021), https://www.stammheim-prozess.de/wp-content/uploads/2021/11/OLG-Stuttgart-Urteil-vom-28.4.1977-2-StE-174-Text.pdf, p. 137, footnote 200. German: "Motiviert wurden sie durch eine Kampagne der Kommune I, die eine Brandtragödie mit mehr als 200 Toten in einem Brüsseler Kaufhaus im Jahr 1967 für Kritik am Vietnamkrieg nutzte."
+[^11]: Aust, Stefan. *The Baader-Meinhof Complex.* Bodley Head, 2008.
+[^12]: "Ensslin, Gudrun," Neue Deutsche Biographie, https://www.deutsche-biographie.de/sfz136461.html, opening section: "Sie zählte 1970 zu den Gründungsmitgliedern der Roten Armee Fraktion (RAF)."

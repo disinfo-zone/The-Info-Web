@@ -26,7 +26,7 @@ relations:
     start: 2025
     role: "same collaboration; Gretchen Stahlman of the FSU School of Information signed the invitation letter on behalf of the organizing committee"
     fn: 9
-updated: 2026-10-08
+updated: 2026-10-14
 ---
 The [[All-domain Anomaly Resolution Office]] (AARO) is the official office within the [[United States]] [[Department of Defense]] tasked with investigating [[Unidentified Anomalous Phenomena]] (UAP). Section 1683 of the National Defense Authorization Act for Fiscal Year 2022 required the Secretary of Defense to establish an office to carry out the duties of the [[UAP Task Force]], "as in effect on the day before the date of enactment of this Act."[^1][^2] The Deputy Secretary of Defense established the All-domain Anomaly Resolution Office by memorandum on July 15, 2022, "to meet the DoD requirements in section 1683 of the NDAA for FY 2022," and Section 1683 of the National Defense Authorization Act for Fiscal Year 2023, enacted December 23, 2022, provided that the office be "known as the 'All-domain Anomaly Resolution Office.'"[^3][^4]
 
@@ -56,6 +56,10 @@ The [[Society for UAP Studies]] published a report by [[Greg Bishop]] dated Sept
 
 On April 29, 2026 AUI's podcast "[[Beyond the Breakthrough]]" (episode "Making Sense of the Unknown," with Spuck and Stahlman) stated in its notes: "The 2025 workshop, 'Narrative Data, Infrastructures, and Analysis' was supported by the U.S. All-domain Anomaly Office."[^11]
 
+### ELDAEON's claims about the Gremlin program
+
+In May 2026 [[ELDAEON]], a private company that sells UAP detection hardware, published an article on the first batch of UAP files that describes its DIONYSUS sensor platform as "Modeled on the architecture used by AARO's Gremlin program," and as "built on the same multimodal fusion principles as AARO's Gremlin sensor suite."[^12]
+
 ### Footnotes
 
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
@@ -69,3 +73,4 @@ On April 29, 2026 AUI's podcast "[[Beyond the Breakthrough]]" (episode "Making S
 [^9]: All-domain Anomaly Resolution Office, "2025 UAP Workshop: Narrative Data, Infrastructures, and Analysis. Workshop Synthesis and Recommendations," 26-P-0344, August 5-6, 2025, https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf (archived PDF: https://web.archive.org/web/20260927135859/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf).
 [^10]: Greg Bishop, "AARO and AUI Engage Academia in UAP Symposium," Society for UAP Studies, September 2, 2025, https://www.societyforuapstudies.org/post/aaro-and-aui-engage-academia-in-uap-symposium.
 [^11]: "Making Sense of the Unknown," Beyond the Breakthrough (Associated Universities, Inc. podcast), April 29, 2026, https://beyondthebreakthrough.podbean.com/e/uap-data/.
+[^12]: ELDAEON INC., "The U.S. Just Opened the Files on UAP. We Built the Sensors to Detect Them.," May 8, 2026. The first quoted sentence appears in the article's product list and the second in its section on the architecture. https://eldaeon.com/articles/disclosure/

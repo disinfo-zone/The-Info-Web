@@ -13,7 +13,7 @@ tags:
   - 1970s
   - 1980s
 category: "Paramilitary"
-summary: "The Red Army Faction (RAF/Baader-Meinhof Group) was a West German far-left terrorist organization active 1970-1998, conducting major operations including the 1972 bombing campaign, the 1977 German Autumn Schleyer kidnapping and Lufthansa hijacking, and the 1989 assassination of Deutsche Bank chief Alfred Herrhausen."
+summary: "The Red Army Faction (Baader-Meinhof Group) was a West German far-left terrorist organization active 1970-1998, responsible for the 1972 bombings, the 1977 Schleyer kidnapping and the 1989 Herrhausen assassination."
 start: 1970
 end: 1998
 location: "West Germany"
@@ -23,7 +23,7 @@ The Red Army Faction (Rote Armee Fraktion, RAF), commonly known as the Baader-Me
 
 ### Foundation and First Generation
 
-The RAF's origins lay in the student protest movements of the late 1960s and the radicalization of a faction that concluded electoral and protest politics were insufficient. Baader, Meinhof, and Ensslin carried out their first arson attacks against Frankfurt department stores in 1968. After Baader's arrest and escape from custody in 1970 - an escape in which Meinhof, then a prominent left-wing journalist, participated - the group formally constituted itself. Meinhof authored the RAF's founding manifesto.[^1]
+The RAF's origins lay in the student protest movements of the late 1960s and the radicalization of a faction that concluded electoral and protest politics were insufficient. On April 2, 1968, Andreas Baader, Gudrun Ensslin, Thorwald Proll and Horst Söhnlein set fires in two Frankfurt department stores, the Kaufhof on the Zeil and the M. Schneider store, causing considerable property damage and no injuries.[^2] Ulrike Meinhof was not among the four defendants. She reported on the trial for konkret and criticized the arson in her column, arguing that an attack of this kind on the capitalist consumer world does "not lift that consumer world off its hinges, does not even injure it."[^2][^3] After Baader's arrest and escape from custody in 1970 - an escape in which Meinhof, then a prominent left-wing journalist, participated - the group formally constituted itself. Meinhof authored the RAF's founding manifesto.[^1]
 
 The group trained in [[Jordan]] with Palestinian fedayeen organizations in 1970 before returning to West Germany to begin operations. Its first major campaign in May 1972 involved coordinated bombings against U.S. Army headquarters in Frankfurt and Heidelberg, the Hamburg police headquarters, and the Springer newspaper building in Hamburg, resulting in several deaths and dozens of injuries.[^1]
 
@@ -39,7 +39,7 @@ Following the deaths of its founding leadership in 1977, the RAF reorganized wit
 
 ### Entebbe Connection
 
-On June 27, 1976, two members of the RAF - Wilfried Böse and Brigitte Kuhlmann - participated in the hijacking of [[Air France]] Flight 139 from [[Tel Aviv]] to [[Paris]], diverting it ultimately to Entebbe Airport in [[Uganda]] under Idi Amin's government. The operation was jointly conducted with members of the [[Popular Front for the Liberation of Palestine-General Command|PFLP-GC]] and organized by Wadie Haddad's PFLP-EO. On July 4, 1976, Israeli special forces conducted Operation Entebbe, killing the hijackers, including Böse and Kuhlmann, and rescuing 102 of the 106 hostages.[^2]
+On June 27, 1976, two members of the RAF - Wilfried Böse and Brigitte Kuhlmann - participated in the hijacking of [[Air France]] Flight 139 from [[Tel Aviv]] to [[Paris]], diverting it ultimately to Entebbe Airport in [[Uganda]] under Idi Amin's government. The operation was jointly conducted with members of the [[Popular Front for the Liberation of Palestine-General Command|PFLP-GC]] and organized by Wadie Haddad's PFLP-EO. On July 4, 1976, Israeli special forces conducted Operation Entebbe, killing the hijackers, including Böse and Kuhlmann, and rescuing 102 of the 106 hostages.[^4]
 
 ### Dissolution
 
@@ -48,4 +48,6 @@ The RAF officially announced the end of its armed struggle in a statement releas
 ### Footnotes
 
 [^1]: Aust, Stefan. *The Baader Meinhof Complex.* Translated by Anthea Bell. Bodley Head, 2008. Originally published in German as *Der Baader Meinhof Komplex* (Hoffmann und Campe, 1985). This is the authoritative account of the RAF's history by a journalist who knew several of its members.
-[^2]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015). Netanyahu, Iddo. *Entebbe: A Defining Moment in the War on Terrorism.* Balfour Books, 2003.
+[^2]: Urteil des Oberlandesgerichts Stuttgart vom 28. April 1977, Az. 2 StE (OLG Stgt) 1/74, in: Das Stammheim-Protokoll. Die Gesamtedition (Humboldt-Universität zu Berlin, 2021), https://www.stammheim-prozess.de/wp-content/uploads/2021/11/OLG-Stuttgart-Urteil-vom-28.4.1977-2-StE-174-Text.pdf, p. 137, footnote 200.
+[^3]: Ulrike Meinhof, Die Würde des Menschen ist unantastbar (1980), p. 153, as quoted in the judgment, footnote 200. German: "Gegen Warenhausbrandstiftung im besonderen spricht, daß dieser Angriff auf die kapitalistische Konsumwelt [...] eben diese Konsumwelt nicht aus den Angeln hebt, sie nicht einmal verletzt [...]."
+[^4]: Ben-Menashe, Ari. *Profits of War: Inside the Secret U.S.-Israeli Arms Network.* Sheridan Square Press, 1992 (TrineDay reprint, 2015). Netanyahu, Iddo. *Entebbe: A Defining Moment in the War on Terrorism.* Balfour Books, 2003.

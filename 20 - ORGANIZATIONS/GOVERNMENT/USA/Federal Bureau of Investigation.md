@@ -1,6 +1,6 @@
 ---
 created: 2025-07-22
-updated: 2026-10-09
+updated: 2026-10-14
 title: Federal Bureau of Investigation
 aliases:
   - FBI
@@ -63,6 +63,11 @@ relations:
     start: 1930
     role: "met regularly with FBI officials to report on the New School faculty, by his own acknowledgment in private letters"
     fn: 20
+  - type: participant_in
+    with: "[[Executive Order 14305]]"
+    start: 2025-09-24
+    role: "operates the National Counter-UAS Training Center that its memorandum of September 24, 2025 describes as created under the order"
+    fn: 28
 ---
 
 The Federal Bureau of Investigation (FBI) is the principal federal criminal investigative agency of the [[United States]] and a component of the [[Department of Justice]]. Its files bear on several clusters of this vault: the 1947 flying disc inquiries, the army parapsychology program, the Contra drug cases, the [[Operation C-Chase]] prosecution of [[Bank of Credit and Commerce International]] and the Palm Beach investigation of [[Jeffrey Epstein]].
@@ -123,6 +128,14 @@ Johnson's memoir records that after the United States entered the war he was app
 
 The Justice Department Office of Professional Responsibility reported that in early 2006 a West Palm Beach FBI special agent told Assistant U.S. Attorney Ann Marie Villafana that the Palm Beach Police had approached the FBI because the state attorney's office was considering not charging the case or allowing a misdemeanor plea. Villafana and two FBI case agents developed a federal case. The FBI planned to arrest Epstein after a May 15, 2007, indictment date and to hold a press conference, and wanted to arrest him in the [[U.S. Virgin Islands]] while he judged a beauty pageant. After the U.S. Attorney's Office managers in [[Miami]] declined to approve the indictment, the squad supervisor was "not happy," and the case agent recalled the supervisor as "extremely upset." At a meeting with Villafana and her managers the FBI insisted that Epstein register for life as a sex offender. After Epstein rejected the proposal, the squad supervisor "yelled at" First Assistant U.S. Attorney [[Jeffrey Sloman]]. The report found no misconduct by Department attorneys and concluded that U.S. Attorney [[Alexander Acosta]] exercised poor judgment in resolving the case through a non-prosecution agreement.[^25]
 
+### National Counter-UAS Training Center
+
+The Bureau operates the National Counter-UAS Training Center (NCUTC). The interim final rule of the Departments of Justice and Homeland Security, published July 6, 2026 (91 FR 41466) and effective July 1, 2026, defines the NCUTC as "the national schoolhouse operated by the Federal Bureau of Investigation" and as "the sole certifying authority for SLTT C-UAS mitigation operators" under 6 U.S.C. 124n. The rule reports that the center "has certified 61 officers across approximately 46 SLTT agencies to date."[^26]
+
+Section 9(b) of [[Executive Order 14305]] of June 6, 2025 directs the Attorney General, in coordination with other cabinet officers, to implement the recommendations of the March 2022 Feasibility Report to Congress on the "National Training Center for Counter-Unmanned Aircraft Systems."[^27] A memorandum from the NCUTC dated September 24, 2025 states that the order "directed the creation of the FBI's National Counter-UAS Training Center, modeled after the FBI's Hazardous Devices School."[^28] The same memorandum announced a three-week course in late October 2025 in [[Huntsville, Alabama]], with an inaugural class of 12 officers from agencies in New Jersey, New York, Massachusetts and California. It stated that "certification does not confer authority to conduct counter-UAS operations unless and until Congress expands statutory authorities under 6 U.S.C. § 124n to include SLTT agencies."[^28]
+
+The [[SAFER SKIES Act]], signed on December 18, 2025 as part of the National Defense Authorization Act for Fiscal Year 2026, authorizes state, local, tribal and territorial law enforcement and correctional agencies to conduct counter-UAS operations after NCUTC training, according to the July 2026 rule.[^26]
+
 ### Footnotes
 
 [^1]: FBI Seattle teletype to Director, August 6, 1947, and Hoover teletype to Seattle (undated, August 1947), FBI file 62-HQ-83894 ("Unidentified Flying Objects"), Section 2, FBI Freedom of Information/Privacy Acts release, archive.org item "expediente-ovni-65-hs1-834228961-62-hq-83894-section-2-1ecd79," https://archive.org/details/expediente-ovni-65-hs1-834228961-62-hq-83894-section-2-1ecd79
@@ -150,3 +163,6 @@ The Justice Department Office of Professional Responsibility reported that in ea
 [^23]: Rutkoff and Scott, New School, p. 228.
 [^24]: Alvin Johnson, Pioneer's Progress (Viking Press, 1952; University of Nebraska Press, 1960), p. 370.
 [^25]: U.S. Department of Justice Office of Professional Responsibility, *Investigation into the U.S. Attorney's Office for the Southern District of Florida's Resolution of Its 2006-2008 Federal Criminal Investigation of Jeffrey Epstein* (November 2020), Parts III and IV, copy at https://archive.org/details/epsteindocs ; executive summary at https://www.justice.gov/opr/page/file/1336471/dl
+[^26]: Department of Homeland Security and Department of Justice, "Counter-UAS Authority for State, Local, Tribal, and Territorial Law Enforcement and Correctional Agencies," interim final rule, Docket FBI-2026-0001, 91 FR 41466 (July 6, 2026), effective July 1, 2026, Federal Register Doc. 2026-13609. https://www.federalregister.gov/documents/2026/07/06/2026-13609/counter-uas-authority-for-state-local-tribal-and-territorial-law-enforcement-and-correctional
+[^27]: Executive Order 14305 of June 6, 2025, "Restoring American Airspace Sovereignty," 90 FR 24719 (June 11, 2025), Federal Register Doc. 2025-10803, section 9(b). https://www.federalregister.gov/documents/2025/06/11/2025-10803/restoring-american-airspace-sovereignty
+[^28]: Federal Bureau of Investigation, National Counter-UAS Training Center, memorandum "Announcement of the NCUTC and Initial Training" to all U.S. law enforcement agencies, September 24, 2025. Hosted copy: https://iaclea.org/wp-content/uploads/2025/12/NCUTC-Announcement-Memo.pdf

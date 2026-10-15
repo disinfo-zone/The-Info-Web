@@ -25,7 +25,7 @@ relations:
     role: "through JEGE, Inc., of which he was president, sole director and sole shareholder"
     fn: 1
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-14
 ---
 
 The Lolita Express is the press nickname for the Boeing 727-31 airliner, manufacturer's serial number 20115, that [[Jeffrey Epstein]] owned through a Delaware corporation, [[JEGE, Inc.]], under the registration N908JE. Built in 1969, the aircraft was fitted with a kitchen, a bedroom and about 25 business seats and was certificated for private passenger operations, not charter.[^1] The logbooks kept by its pilots, [[Larry Visoski]] and [[David Rodgers]], became the principal public record of who traveled with Epstein; a log entry records travel, not conduct.[^2][^3]
@@ -34,11 +34,11 @@ The Lolita Express is the press nickname for the Boeing 727-31 airliner, manufac
 
 On January 19, 2001, Real Estate Exchange Inc. of Portland, Oregon, sold the aircraft, then registered N505LS, to JEGE, Inc., at an address in New York, New York 10022, and in April 2001 the registration number was changed to N908JE. The aircraft was listed on JEGE's Part 125 operating certificate, on which Epstein was named as chief executive, and [[Darren Indyke]], Epstein's lawyer and later co-executor of his estate, signed the 2013 re-registration as JEGE's vice president. JEGE remained the registered owner until the registration was cancelled on October 5, 2019, two months after Epstein's death.[^1] A 2007 draft federal indictment described JEGE's "sole business activities" as "the operation and ownership of a Boeing 727-31 aircraft bearing tail number N908JE," with Epstein as "president, sole director, and sole shareholder."[^4]
 
-The aircraft was based in [[West Palm Beach, Florida|West Palm Beach]] and was later stored at [[Brunswick Golden Isles Airport]] in Georgia, where a special agent of the [[Federal Aviation Administration]] placed it in September 2021.[^1] As of September 2026 the registration N908JE is assigned to the same airframe, serial number 20115, under the name of Jet Assets Inc., a corporation at 1712 Pioneer Avenue, [[Cheyenne, Wyoming]], with a certificate issued September 17, 2024, and expiring September 30, 2031.[^5]
+The aircraft was based in [[West Palm Beach, Florida|West Palm Beach]] and was later stored at [[Brunswick Golden Isles Airport]] in Georgia. A special agent of the [[Federal Aviation Administration]] wrote in an email of August 24, 2021 that N908JE "might be in Brunswick, Georgia (BQK)."[^1] As of September 2026 the registration N908JE is assigned to the same airframe, serial number 20115, under the name of Jet Assets Inc., a corporation at 1712 Pioneer Avenue, [[Cheyenne, Wyoming]], with a certificate issued September 17, 2024, and expiring September 30, 2031.[^5]
 
 ### The Fleet and Its Companies
 
-In August and September 2021, while prosecutors prepared the trial of [[Ghislaine Maxwell]], an FAA special agent in the agency's Law Enforcement Assistance Program in Atlanta summarized for federal investigators the registration files of ten aircraft connected to Epstein; the email was later released among the [[Epstein Files]] (EFTA00021675 to EFTA00021680).[^1] It records:
+In August and September 2021 an FAA special agent in the agency's Law Enforcement Assistance Program in Atlanta summarized for federal investigators the registration files of ten aircraft connected to Epstein; the email was later released among the [[Epstein Files]] (EFTA00021675 to EFTA00021680).[^1] It records:
 
 - A 1974 Gulfstream G-1159B, serial number 151, sold in 1994 by Gulfstream to [[Hyperion Air]], Inc., of Wilmington, Delaware, with Rodgers signing as chief pilot and Epstein as president; its number was changed from N979GA to N909JE in May 1994. Indyke's name appears on filings in 1999 and 2013. Hyperion sold it in November 2013 to Starbridge Landing Inc. of Dover, Delaware, and it was deregistered on December 2, 2014, for export to [[Venezuela]].
 - A 2001 [[Bell 430]] helicopter registered to Hyperion Air, Inc. in March 2012, with Indyke signing as corporate secretary, renumbered N331JE and transferred in August 2013 to Hyperion Air LLC of [[St. Thomas]]; the agent wrote that "the same players in the Inc and LLC are on the FAA registration paperwork, Darren INDYKE and Lawrence VISOSKI." It was sold in May 2020 through a Miami broker to QIR Air Resources LLC of Salt Lake City.
@@ -46,7 +46,7 @@ In August and September 2021, while prosecutors prepared the trial of [[Ghislain
 - A 2007 Gulfstream G550, serial number 5173, sold by [[Chevron]] USA on March 29, 2017, to Plan D LLC, a Virgin Islands company formed in 2012 of which Epstein was a member and Visoski the manager; it took the number N212JE in January 2018. The agent wrote, "I don't see EPSTEIN's name on any of the FAA paperwork." Flight plans show it flying from Paris to [[Teterboro Airport|Teterboro]] on July 7, 2019, and from Teterboro to Brunswick, Georgia, on July 11. On December 22, 2020, Visoski, for Plan D, "sold" it to Six G Aviation LLC, which "sold" it the same day to N550GP LLC of Ontario, California.
 - A [[Bell 407]] helicopter bought from the [[United Kingdom]] on October 30, 2002, by Air Ghislaine Inc. and registered N491GM, and a Sikorsky S-76C-2 bought by Air Ghislaine on December 30, 2008, with Visoski signing as director of aviation. Air Ghislaine Inc. changed its name to Shmitka Air Inc. on February 11, 2010, and to [[Air Ghislaine, Inc.|Freedom Air International Inc.]] on July 6, 2010, after which Indyke signed its filings as vice president. The Sikorsky, renumbered N722JE, was sold in 2011 to ASI Wings LLC of Hartford, Connecticut, and bought back on June 13, 2019, by Hyperion Air LLC with Visoski signing as manager, three weeks before Epstein's arrest; Hyperion sold it on May 13, 2021.
 
-The agent found no aircraft registered to Epstein or Maxwell personally, and "no FAA certificates issued to Darren INDYKE."[^1]
+The agent found no aircraft registered to Epstein or [[Ghislaine Maxwell|Maxwell]] personally, and "no FAA certificates issued to Darren INDYKE."[^1]
 
 ### The 2007 Draft Indictment
 

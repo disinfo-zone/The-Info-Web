@@ -1,6 +1,6 @@
 ---
 created: 2025-07-23
-updated: 2025-07-23
+updated: 2026-10-15
 title: British Intelligence
 tags:
   - Organization
@@ -14,7 +14,8 @@ summary: "British Intelligence refers to the various intelligence agencies of th
 
 [[British Intelligence]] refers to the various intelligence agencies of the United Kingdom, including the [[Secret Intelligence Service]] (MI6). During World War II, British Intelligence engaged in a variety of unconventional warfare tactics, including the use of black propaganda and psychological operations.[^1]
 
-One notable example was the use of astrologers like [[Sybil Leek]] and [[Louis de Wohl]] to spread disinformation and influence the behavior of high-ranking Nazi officials. These operations highlight the willingness of intelligence agencies to exploit beliefs in the paranormal for strategic advantage.[^1]
+One documented example is the work of the astrologer [[Louis de Wohl]], whom the National Archives catalogue describes as a professional astrologer who worked for the [[Special Operations Executive]].[^2] Jacobsen wrote that [[Sybil Leek]] was another astrologer used in British operations against the Nazi leadership.[^1]
 
 ### Footnotes
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^2]: The National Archives, Kew, Security Service personal file on Louis de Wohl, reference C11439609, covering August 31, 1940 to August 19, 1952. https://discovery.nationalarchives.gov.uk/details/r/C11439609

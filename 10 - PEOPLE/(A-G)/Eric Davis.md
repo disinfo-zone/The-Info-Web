@@ -21,5 +21,8 @@ Dr. Davis is best known as the alleged author of the Wilson-Davis Memo, a docume
 
 In 2020, Dr. Davis made headlines when he told the [[New York Times]] that the [[United States|U.S. government]] was in possession of "off-world vehicles not made on this earth." His public statements and briefings to Congress have been a major factor in the growing momentum for UAP transparency.[^1]
 
+On June 15, 2024, [[David Dominguez Hooper]], later the founder of [[ELDAEON]], posted that he had presented "our UAP detector" to Davis and demonstrated its capability to detect "the potential blue-shifting effect on EM waves" theorized by Puthoff in his spacetime metric engineering paper.[^2]
+
 ### Footnotes
 [^1]: Elizondo, Luis. *Imminent*. William Morrow, 2024.
+[^2]: David Hooper (@davidhooperr), post, June 15, 2024. https://x.com/davidhooperr/status/1802138370790809628

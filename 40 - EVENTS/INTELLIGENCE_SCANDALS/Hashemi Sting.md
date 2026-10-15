@@ -14,7 +14,7 @@ tags:
   - USCustoms
 summary: "The Hashemi Sting was a 1986 U.S. Customs undercover operation against arms sales to Iran, prosecuted by Rudolph Giuliani's Southern District of New York office; its informant Cyrus Hashemi died in London that year."
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-14
 start: 1985-01-01
 end: 1986-12-31
 location: "New York"
@@ -32,13 +32,13 @@ Cyrus Hashemi had extensive dealings with Iranian government officials and arms 
 
 U.S. Customs Service undercover agents posed as weapons brokers willing to supply arms to Iran, making contact with a network of dealers and intermediaries. The sting targeted illegal exports of military equipment to Iran in violation of the Arms Export Control Act - the same statute that the official Iran-Contra arms shipments were circumventing through Israeli transshipment and presidential finding authorities.
 
-Among those implicated in the sting was Avraham Bar-Am, a retired Israeli general and arms dealer who was identified as a participant in the arms trafficking network. The indictments produced by Giuliani's office charged multiple defendants with conspiracy to violate U.S. arms export laws.
+Among those implicated in the sting was Avraham Bar-Am, a retired Israeli general and arms dealer who was identified as a participant in the arms trafficking network. The indictments produced by Giuliani's office charged multiple defendants with conspiracy to violate U.S. arms export laws. The report of the congressional Iran-Contra committees describes the April 22, 1986 indictment as charging 17 individuals with an illegal scheme to smuggle $2.5 billion in American-made weapons to Iran, and records that Hashemi was to be the primary prosecution witness until his death in July 1986.[^3] The Second Circuit wrote that the arms in that case were destined for Hashemi, "a government agent pretending to be an Iranian buyer," and that the original indictment was returned in May 1986.[^4]
 
 The operation created a significant institutional problem for the Reagan administration: the illegal arms sales being targeted by U.S. Customs overlapped with the official covert arms pipeline to Iran that [[Oliver North]], [[Manucher Ghorbanifar]], and the "Enterprise" were simultaneously managing under presidential authorization. Investigators and journalists subsequently noted that the sting appeared to be targeting, in some instances, the same network of dealers and intermediaries that the official covert operation was using.[^1]
 
 ### Cyrus Hashemi's Death
 
-Cyrus Hashemi died in London on July 21, 1986 - approximately six weeks after the sting he had helped facilitate resulted in the arrests of its targets. The official cause of death was given as acute myeloblastic leukemia, diagnosed and fatal within a matter of weeks. His sudden death, shortly after his role as the sting's principal informant became known to those he had helped entrap, was noted by investigators working on the October Surprise and Iran-Contra as suspicious in its timing, though no investigation concluded foul play. The rapidity of the illness was unusual; acute myeloblastic leukemia typically has a longer symptomatic progression, leading some investigators to raise the possibility of deliberate poisoning - a method available to intelligence services and consistent with the vulnerability a double agent who had betrayed multiple parties would face.[^2]
+Cyrus Hashemi died in London on July 21, 1986, after the sting he had helped facilitate produced the April 22, 1986 indictment of 17 individuals in the Southern District of New York.[^3] The official cause of death was given as acute myeloblastic leukemia, diagnosed and fatal within a matter of weeks. His sudden death, shortly after his role as the sting's principal informant became known to those he had helped entrap, was noted by investigators working on the October Surprise and Iran-Contra as suspicious in its timing, though no investigation concluded foul play. The rapidity of the illness was unusual; acute myeloblastic leukemia typically has a longer symptomatic progression, leading some investigators to raise the possibility of deliberate poisoning - a method available to intelligence services and consistent with the vulnerability a double agent who had betrayed multiple parties would face.[^2]
 
 ### Relationship to Iran-Contra and October Surprise
 
@@ -48,3 +48,5 @@ The Hashemi Sting's intersection with the Iran-Contra Affair was explicitly iden
 
 [^1]: Sick, Gary. *October Surprise: America's Hostages in Iran and the Election of Ronald Reagan.* Times Books, 1991.
 [^2]: Parry, Robert. *Trick or Treason: The October Surprise Mystery.* Sheridan Square Press, 1993.
+[^3]: Report of the Congressional Committees Investigating the Iran-Contra Affair, H. Rept. 100-433, S. Rept. 100-216 (Nov. 1987), ch. 9, note 13, p. 171. https://archive.org/details/reportofcongress87unit
+[^4]: United States v. Evans, 844 F.2d 36 (2d Cir. 1988). https://www.courtlistener.com/opinion/504381/united-states-v-evans/

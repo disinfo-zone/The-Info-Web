@@ -1,6 +1,6 @@
 ---
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-14
 title: U.S. Customs
 aliases:
   - U.S. Customs
@@ -63,7 +63,7 @@ The same report described the arms dealer [[Richard Brenneke]] as a man who bega
 
 ### The Lister Flow Chart
 
-Among documents seized from [[Ronald Lister]]'s home in the October 1986 Los Angeles County Sheriff's Department raids was a ten-page document that included, on its last page, a flow chart suggesting a flow of money. Sheriff's investigators asked Customs Special Agent James P. McShane of the Office of Defense Trade Controls to review it. McShane reported that the chart could represent a legitimate transaction if a State Department license had been obtained; that the notation "% EUC" might indicate an end-use certificate being purchased, which would make the transaction illegal, since in a legitimate transaction one is provided free; and that routing funds through [[Hong Kong]] to "X Country" indicated an attempt to disguise the true destination and might be an illegal diversion of arms. The Justice Department Inspector General wrote that, whatever the legality, "nothing indicates that it shows the sale of arms to the Contras." A 1991 Customs report by the agent assigned to the Organized Crime Drug Enforcement Task Force case on [[Danilo Blandon]] recorded that a DEA source had described a project in [[El Salvador]] "to provide assistance to the Contras," which the Inspector General believed was Lister.[^5]
+Among documents seized from [[Ronald Lister]]'s home in the October 1986 Los Angeles County Sheriff's Department raids was a ten-page document that included, on its last page, a flow chart suggesting a flow of money. Sheriff's investigators asked Customs Special Agent James P. McShane of the [[Directorate of Defense Trade Controls|Office of Defense Trade Controls]] to review it. McShane reported that the chart could represent a legitimate transaction if a State Department license had been obtained; that the notation "% EUC" might indicate an end-use certificate being purchased, which would make the transaction illegal, since in a legitimate transaction one is provided free; and that routing funds through [[Hong Kong]] to "X Country" indicated an attempt to disguise the true destination and might be an illegal diversion of arms. The Justice Department Inspector General wrote that, whatever the legality, "nothing indicates that it shows the sale of arms to the Contras." A 1991 Customs report by the agent assigned to the Organized Crime Drug Enforcement Task Force case on [[Danilo Blandon]] recorded that a DEA source had described a project in [[El Salvador]] "to provide assistance to the Contras," which the Inspector General believed was Lister.[^5]
 
 ### The Grasheim Case in El Salvador
 
