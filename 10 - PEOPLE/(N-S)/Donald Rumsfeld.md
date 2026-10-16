@@ -185,7 +185,7 @@ relations:
     role: "inquiry into the treatment of detainees in u.s. custody; conclusions 13 and 19"
     fn: 36
 created: 2026-10-01
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 Donald Henry Rumsfeld was born on July 9, 1932, in [[Chicago]], [[Illinois]].[^1] He was a member of the [[United States House of Representatives]] from 1963 to 1969, an assistant to [[Richard Nixon]], ambassador to [[NATO]], [[White House]] chief of staff and Secretary of Defense under [[Gerald R. Ford]], chief executive of [[G.D. Searle & Co.]] from 1977 to 1985 and of [[General Instrument Corporation]] from 1990 to 1993, and chairman of [[Gilead Sciences]] until January 2001.[^1] He served a second time as Secretary of Defense from 2001 to 2006 under [[George W. Bush]], and died on June 29, 2021, at 88; his family's statement said he "was surrounded by family in his beloved Taos, [[New Mexico]]."[^2]
@@ -278,11 +278,11 @@ On September 10, 2001, at the Pentagon, Rumsfeld said: "According to some estima
 
 On December 2, 2002, Rumsfeld signed a one-page recommendation from the Defense Department general counsel, [[William J. Haynes II]], to approve all but three of 18 interrogation techniques requested by [[Guantanamo Bay detention camp|Guantanamo]], adding by hand: "I stand for 8-10 hours a day. Why is standing limited to 4 hours?" Haynes's memorandum said he had discussed the matter with Wolfowitz, Under Secretary [[Douglas Feith]] and General [[Richard Myers]]. After Navy General Counsel [[Alberto Mora]] told Haynes he would sign a memorandum of legal concerns, Rumsfeld rescinded the authority on January 15, 2003; on August 13, 2003, he approved an interrogation plan for the detainee [[Mohamedou Ould Slahi]].[^36] The Senate Armed Services Committee concluded that Haynes's review "was grossly deficient" (conclusion 12), that Rumsfeld's authorization "was a direct cause of detainee abuse" at Guantanamo and "influenced and contributed to the use of abusive techniques" in [[Afghanistan]] and Iraq (conclusion 13), and that the techniques used at [[Abu Ghraib]] "appeared in Iraq only after they had been approved for use in Afghanistan and at GTMO" (conclusion 19).[^36] The Associated Press reported that Rumsfeld twice offered his resignation to Bush in 2004 after the Abu Ghraib disclosures; he left office in December 2006 and was replaced by [[Robert Gates]].[^2]
 
-On June 29, 2006, in [[Hamdan v. Rumsfeld]], the [[Supreme Court of the United States|Supreme Court]] held that the military commission convened to try the Guantanamo detainee Hamdan, a Yemeni national, "lacks the power to proceed because its structure and procedures violate both the UCMJ and the four Geneva Conventions signed in 1949."[^37]
+On June 29, 2006, in [[Hamdan v. Rumsfeld]], the [[Supreme Court of the United States|Supreme Court]] held that the military commission convened to try the Guantanamo detainee Hamdan, a Yemeni national, "lacks power to proceed because its structure and procedures violate both the UCMJ and the Geneva Conventions."[^37][^38]
 
 ### Rumsfeld Foundation
 
-After 2008 Rumsfeld headed the Rumsfeld Foundation.[^2] The foundation, a Washington private foundation (EIN 26-0580915) with an [[Internal Revenue Service|IRS]] ruling date of August 2007, reported assets of $9,727,763 at the end of 2011, $11,418,376 at the end of 2012 and $1,515,771 at the end of 2023.[^38] His 2001 Senate form lists him as president of a DHR Foundation of Chicago from December 1985, annotated "Possibly without investment control."[^4]
+After 2008 Rumsfeld headed the Rumsfeld Foundation.[^2] The foundation, a Washington private foundation (EIN 26-0580915) with an [[Internal Revenue Service|IRS]] ruling date of August 2007, reported assets of $9,727,763 at the end of 2011, $11,418,376 at the end of 2012 and $1,515,771 at the end of 2023.[^39] His 2001 Senate form lists him as president of a DHR Foundation of Chicago from December 1985, annotated "Possibly without investment control."[^4]
 
 ### Footnotes
 
@@ -323,4 +323,5 @@ After 2008 Rumsfeld headed the Rumsfeld Foundation.[^2] The foundation, a Washin
 [^35]: Department of Defense, notes from Donald Rumsfeld, [Iraq war planning], November 27, 2001, annotated, pp. 1-3, National Security Archive EBB No. 326, Document 8, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB326/doc08.pdf
 [^36]: U.S. Senate Committee on Armed Services, "Inquiry into the Treatment of Detainees in U.S. Custody," Executive Summary and Conclusions, released December 11, 2008, pp. xix-xxi (Haynes memorandum, December 2, 2002 note, Mora, January 15, 2003 rescission, Slahi plan) and pp. xxviii-xxix (conclusions 12, 13 and 19), https://nsarchive2.gwu.edu/torturingdemocracy/documents/20081211.pdf
 [^37]: Hamdan v. Rumsfeld, 548 U.S. 557 (2006), No. 05-184, decided June 29, 2006, syllabus, https://www.law.cornell.edu/supct/html/05-184.ZS.html
-[^38]: ProPublica, Nonprofit Explorer, Rumsfeld Foundation, EIN 26-0580915, organization API record and Form 990-PF data for tax years 2011, 2012 and 2023, https://projects.propublica.org/nonprofits/api/v2/organizations/260580915.json
+[^38]: *Hamdan v. Rumsfeld*, 548 U.S. 557 (2006), decided June 29, 2006, text as published (static.case.law copy). https://static.case.law/us/548/cases/0557-01.json
+[^39]: ProPublica, Nonprofit Explorer, Rumsfeld Foundation, EIN 26-0580915, organization API record and Form 990-PF data for tax years 2011, 2012 and 2023, https://projects.propublica.org/nonprofits/api/v2/organizations/260580915.json

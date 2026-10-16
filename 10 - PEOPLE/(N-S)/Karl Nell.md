@@ -58,7 +58,7 @@ Nell was a keynote speaker at the first [[Sol Foundation]] symposium, held Novem
 
 ### Statements and later appearances
 
-At a May 21, 2024 SALT iConnections session in [[New York]], Nell and [[Alex Klokus]] appeared under the title "'Zero Doubt' Non-Human Intelligence on Earth."[^3] The same catalogue lists a March 9, 2025 question-and-answer session after the [[South by Southwest]] premiere of the film "The Age of Disclosure," with the producer [[Dan Farah]], [[Jim Semivan]], [[Tim Gallaudet]], [[Hal Puthoff]] and Nolan, and a 2025 appearance at the [[Archives of the Impossible]] conference.[^3]
+At a May 21, 2024 SALT iConnections session in [[New York City|New York]], Nell and [[Alex Klokus]] appeared under the title "'Zero Doubt' Non-Human Intelligence on Earth."[^3] The same catalogue lists a March 9, 2025 question-and-answer session after the [[South by Southwest]] premiere of the film "The Age of Disclosure," with the producer [[Dan Farah]], [[Jim Semivan]], [[Tim Gallaudet]], [[Hal Puthoff]] and Nolan, and a 2025 appearance at the [[Archives of the Impossible]] conference.[^3]
 
 Nell does not appear among the signatories of the November 12, 2024 letter urging the review-board provisions of the [[Unidentified Anomalous Phenomena Disclosure Act]].[^8] His Sol paper of May 2025 argues for enactment of the Act's review-board and eminent-domain provisions "or by executive order."[^2]
 

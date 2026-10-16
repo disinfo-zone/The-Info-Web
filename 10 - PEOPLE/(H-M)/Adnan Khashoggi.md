@@ -29,7 +29,7 @@ relations:
     start: 1988
     fn: 1
   - type: prosecuted
-    with: "[[Southern District of New York]]"
+    with: "[[U.S. Attorney's Office for the Southern District of New York]]"
     reverse: true
     role: "racketeering and fraud; acquitted with Imelda Marcos"
     end: 1990

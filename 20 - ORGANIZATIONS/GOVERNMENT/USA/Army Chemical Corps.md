@@ -29,7 +29,7 @@ relations:
     with: "[[New York State Psychiatric Institute]]"
     reverse: true
     role: "testing of mescaline derivatives for chemical warfare"
-    fn: 11
+    fn: 12
   - type: funded
     with: "[[Central Intelligence Agency]]"
     reverse: true
@@ -40,15 +40,15 @@ relations:
     reverse: true
     role: "CIA retention of Fort Detrick shellfish toxin"
     start: 1975
-    fn: 13
+    fn: 14
   - type: participant_in
     with: "[[MKSEARCH]]"
     start: 1967
     end: 1973
     role: "through Edgewood Arsenal Research Laboratories, three Army programs under the MKCHICKWIT and MKOFTEN labels, including the testing of EA 3167"
-    fn: 15
+    fn: 16
 created: 2026-09-24
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 The Army Chemical Corps is the branch of the [[U.S. Army]] responsible for chemical, biological and radiological warfare and defense. During [[World War I]] the German use of chemical weapons led General [[John J. Pershing]] to press for a specialized gas unit for the [[American Expeditionary Forces|American Expeditionary Force]]; the War Department created a Gas Service and, according to the Corps' regimental association, renamed it the Chemical Warfare Service (CWS) on June 2, 1918. The [[First Gas Regiment]] fought in the Meuse-Argonne and St. Mihiel campaigns.[^1] The [[National Defense Act of 1920]] made the CWS a permanent branch of the Army.[^1][^2] The regimental association dates its redesignation as the Chemical Corps to 1946.[^1]
@@ -67,19 +67,19 @@ The allergist [[Harold Abramson]], one of the CIA's principal LSD researchers un
 
 ### Harold Blauer
 
-The Chemical Corps held a contract with the [[New York State Psychiatric Institute]] (NYSPI) to test mescaline derivatives on humans for their suitability as chemical warfare agents. On January 8, 1953, [[Harold Blauer]], a tennis professional admitted for depression, died after an intravenous injection of about 450 milligrams of EA-1298, a derivative the Corps had designated as a candidate agent, administered under [[Paul Hoch]] without his knowledge or consent. The death certificate read "coronary arteriosclerosis; sudden death after intravenous injection of a mescaline derivative." Within 48 hours the Chemical Corps contract officer [[Amedeo Marrazzi]] directed efforts to conceal the Army's involvement, and at a meeting in July 1954 federal counsel, Hoch and Marrazzi discussed anticipated malpractice claims. The Second Circuit found that Hoch "was well aware that the mescaline derivative was a new compound not being administered for diagnostic or therapeutic purposes but as an experiment to study its effect for chemical warfare purposes." [[James Cattell]], who gave the injection, told Army investigators: "We didn't know whether it was dog piss or what it was we were giving him."[^11]
+The Chemical Corps held a contract with the [[New York State Psychiatric Institute]] (NYSPI) to test mescaline derivatives on humans for their suitability as chemical warfare agents. On January 8, 1953, [[Harold Blauer]], a tennis professional admitted for depression, died after an intravenous injection of about 450 milligrams of EA-1298, a derivative the Corps had designated as a candidate agent, administered under [[Paul Hoch]] without his knowledge or consent. The death certificate read "coronary arteriosclerosis; sudden death after intravenous injection of a mescaline derivative." Within 48 hours the Chemical Corps contract officer [[Amedeo Marrazzi]] directed efforts to conceal the Army's involvement, and at a meeting in July 1954 federal counsel, Hoch and Marrazzi discussed anticipated malpractice claims. The Second Circuit's opinion in *Barrett v. United States* recites the estate's allegation that Hoch "was well aware that the mescaline derivative was a new compound not being administered for diagnostic or therapeutic purposes but as an experiment to study its effect for chemical warfare purposes."[^11] The same opinion places a conference of federal counsel and medical personnel in early July 1954, at which, according to records relied on by the estate, Dr. Amedeo Marazzi of the Chemical Corps and Hoch expressed apprehension about anticipated malpractice claims, and a meeting in Washington on July 12, 1954 at which Hoch stated that he would not have used the new compound for experimental purposes but for the institute's contract with the Army.[^11] [[James Cattell]], who gave the injection, told Army investigators: "We didn't know whether it was dog piss or what it was we were giving him."[^12]
 
-An initial settlement of 18,000 dollars was paid to Blauer's family, half of it covertly by the federal government. The Army disclosed the circumstances to his daughter, [[Elizabeth Barrett]], in August 1975, and in 1987 a federal judge awarded more than 700,000 dollars to his estate.[^11][^12] Hoch became New York State Commissioner of Mental Hygiene in 1955.[^8]
+An initial settlement of 18,000 dollars was paid to Blauer's family, half of it covertly by the federal government. The Army disclosed the circumstances to his daughter, [[Elizabeth Barrett]], in August 1975, and in 1987 a federal judge awarded more than 700,000 dollars to his estate.[^12][^13] Hoch became New York State Commissioner of Mental Hygiene in 1955.[^8]
 
 ### 1969 and after
 
-On November 25, 1969, President [[Richard Nixon]] renounced the offensive biological weapons program, and in February 1970 extended the order to toxins. In 1975 the [[Church Committee]] disclosed that the CIA had kept a cache of [[shellfish toxin]] from Fort Detrick in defiance of the destruction order.[^13] In testimony of September 28, 1994, the [[General Accounting Office]] reported that the Defense Department and other national security agencies had conducted "hundreds of experiments in which hundreds of thousands of people were used as test subjects," involving "radiation, blister and nerve agents, biological agents, and LSD," some "done in secret" and others "without their knowledge or consent or their full knowledge of the risks involved."[^14]
+On November 25, 1969, President [[Richard Nixon]] renounced the offensive biological weapons program, and in February 1970 extended the order to toxins. In 1975 the [[Church Committee]] disclosed that the CIA had kept a cache of [[shellfish toxin]] from Fort Detrick in defiance of the destruction order.[^14] In testimony of September 28, 1994, the [[General Accounting Office]] reported that the Defense Department and other national security agencies had conducted "hundreds of experiments in which hundreds of thousands of people were used as test subjects," involving "radiation, blister and nerve agents, biological agents, and LSD," some "done in secret" and others "without their knowledge or consent or their full knowledge of the risks involved."[^15]
 
 After the [[Vietnam War]] the Corps was partially demobilized and much of its function moved from [[Fort McClellan]], [[Alabama]], to Aberdeen. When Fort McClellan closed under base realignment, the Corps moved to [[Fort Leonard Wood]], [[Missouri]], where it forms part of the Maneuver Support Center with the Engineer and Military Police corps.[^1]
 
 ### Edgewood programs in the 1977 Defense Department search
 
-The [[Department of Defense]] General Counsel's memorandum of September 20, 1977 on CIA-sponsored drug experiments lists three Army programs from 1969 to 1973, all through the Edgewood Arsenal Research Laboratories: a drug-identification project of 1967 to 1973 (CIA payments of 12,084 dollars in 1967 and 5,000 dollars in 1969, passed to a California contractor), computer data bases on pharmacological products (about 1968 to 1971) and, from 1971 to 1973, clinical tests of a glycolate-class compound, EA 3167, which Edgewood had already tested on animals and on human volunteers at Holmesburg State Prison in Philadelphia and among military personnel at Edgewood. The CIA transferred 37,000 dollars to Edgewood in 1971 for further work, and two military volunteers were "apparently tested" in June 1973. The search covered the files of Edgewood, [[Dugway Proving Ground]], the Defense Investigative Service as to the Special Operations Division at Fort Detrick, the Army Inspector General and the [[Army Intelligence Agency]]; the memorandum describes the Army and Navy programs under [[MKSEARCH]].[^15]
+The [[Department of Defense]] General Counsel's memorandum of September 20, 1977 on CIA-sponsored drug experiments lists three Army programs from 1969 to 1973, all through the Edgewood Arsenal Research Laboratories: a drug-identification project of 1967 to 1973 (CIA payments of 12,084 dollars in 1967 and 5,000 dollars in 1969, passed to a California contractor), computer data bases on pharmacological products (about 1968 to 1971) and, from 1971 to 1973, clinical tests of a glycolate-class compound, EA 3167, which Edgewood had already tested on animals and on human volunteers at Holmesburg State Prison in Philadelphia and among military personnel at Edgewood. The CIA transferred 37,000 dollars to Edgewood in 1971 for further work, and two military volunteers were "apparently tested" in June 1973. The search covered the files of Edgewood, [[Dugway Proving Ground]], the Defense Investigative Service as to the Special Operations Division at Fort Detrick, the Army Inspector General and the [[Army Intelligence Agency]]; the memorandum describes the Army and Navy programs under [[MKSEARCH]].[^16]
 
 ### Footnotes
 
@@ -93,8 +93,9 @@ The [[Department of Defense]] General Counsel's memorandum of September 20, 1977
 [^8]: Martin A. Lee and Bruce Shlain, *Acid Dreams: The Complete Social History of LSD: The CIA, the Sixties, and Beyond*. Grove Press, 1985. Chapters 1 and 2.
 [^9]: U.S. Army Aberdeen Proving Ground, "History," home.army.mil. https://home.army.mil/apg/about/history
 [^10]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979. Chapters 4 and 5.
-[^11]: *Barrett v. United States*, 798 F.2d 565 (2d Cir. 1986); *Barrett v. United States*, 646 F. Supp. 1345 (S.D.N.Y. 1986); John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979. Chapter 4.
-[^12]: *Los Angeles Times*, May 5, 1987; UPI Archives, May 5, 1987.
-[^13]: Horrock, Nicholas M. "Colby Describes C.I.A. Poison Work," *New York Times,* Sept. 17, 1975. https://merylnass.substack.com/p/colby-describes-cia-poison-work-by
-[^14]: U.S. General Accounting Office, *Human Experimentation: An Overview on Cold War Era Programs,* testimony, GAO/T-NSIAD-94-266, September 28, 1994, abstract. https://www.govinfo.gov/content/pkg/GAOREPORTS-T-NSIAD-94-266/html/GAOREPORTS-T-NSIAD-94-266.htm
-[^15]: General Counsel of the Department of Defense, memorandum for the Secretary of Defense, September 20, 1977, pp. 3 to 5 and Appendix A, release file 02-A-0846, as described on the MKSEARCH page.
+[^11]: *Barrett v. United States,* 798 F.2d 565 (2d Cir. July 31, 1986). https://static.case.law/f2d/798/cases/0565-01.json
+[^12]: *Barrett v. United States*, 798 F.2d 565 (2d Cir. 1986); *Barrett v. United States*, 646 F. Supp. 1345 (S.D.N.Y. 1986); John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979. Chapter 4.
+[^13]: *Los Angeles Times*, May 5, 1987; UPI Archives, May 5, 1987.
+[^14]: Horrock, Nicholas M. "Colby Describes C.I.A. Poison Work," *New York Times,* Sept. 17, 1975. https://merylnass.substack.com/p/colby-describes-cia-poison-work-by
+[^15]: U.S. General Accounting Office, *Human Experimentation: An Overview on Cold War Era Programs,* testimony, GAO/T-NSIAD-94-266, September 28, 1994, abstract. https://www.govinfo.gov/content/pkg/GAOREPORTS-T-NSIAD-94-266/html/GAOREPORTS-T-NSIAD-94-266.htm
+[^16]: General Counsel of the Department of Defense, memorandum for the Secretary of Defense, September 20, 1977, pp. 3 to 5 and Appendix A, release file 02-A-0846, as described on the MKSEARCH page.

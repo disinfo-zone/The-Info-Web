@@ -51,7 +51,7 @@ created: 2026-09-25
 updated: 2026-09-25
 ---
 
-The Bear Stearns Companies Inc. was a [[New York]] investment bank and brokerage that employed [[Jeffrey Epstein]] from 1976 until March 1981, carried his business through his own firms for the next quarter century, and collapsed in March 2008 in a rescue sale to [[JPMorgan Chase]] backed by the [[Federal Reserve Board|Federal Reserve]]. [[Alan Greenberg]], chief executive from 1978 to 1993 and chairman from 1985 to 2001, and [[James Cayne]], chief executive from 1993 to January 2008, were Epstein's mentors at the firm and his principal contacts there until its failure.[^1][^2]
+The Bear Stearns Companies Inc. was a [[New York City|New York]] investment bank and brokerage that employed [[Jeffrey Epstein]] from 1976 until March 1981, carried his business through his own firms for the next quarter century, and collapsed in March 2008 in a rescue sale to [[JPMorgan Chase]] backed by the [[Federal Reserve Board|Federal Reserve]]. [[Alan Greenberg]], chief executive from 1978 to 1993 and chairman from 1985 to 2001, and [[James Cayne]], chief executive from 1993 to January 2008, were Epstein's mentors at the firm and his principal contacts there until its failure.[^1][^2]
 
 ### Epstein at the Firm, 1976 to 1981
 

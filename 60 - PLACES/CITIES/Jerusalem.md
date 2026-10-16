@@ -17,7 +17,7 @@ Jerusalem is an ancient city in the [[Middle East]], situated on a plateau in th
 
 ### Political and Intelligence Significance
 
-Jerusalem is the seat of Israel's government, including the [[Knesset]] (parliament), the [[Supreme Court]], and the prime minister's residence at Beit Aghion. Israel's intelligence community is centered on [[Tel Aviv]] (Mossad headquarters at Glilot), but political oversight, including [[Mossad]] director briefings to the prime minister, occurs in Jerusalem. Key decisions documented in this vault - including Prime Minister [[Menachem Begin]]'s authorization of the [[Sabra and Shatila massacres|Sabra and Shatila]] operation, Begin's negotiations at [[Camp David summit|Camp David]], and the political direction of Israeli intelligence operations during the Iran-Contra period - were made by officials based in Jerusalem.[^1]
+Jerusalem is the seat of Israel's government, including the [[Knesset]] (parliament), the [[Supreme Court of Israel|Supreme Court]], and the prime minister's residence at Beit Aghion. Israel's intelligence community is centered on [[Tel Aviv]] (Mossad headquarters at Glilot), but political oversight, including [[Mossad]] director briefings to the prime minister, occurs in Jerusalem. Key decisions documented in this vault - including Prime Minister [[Menachem Begin]]'s authorization of the [[Sabra and Shatila massacres|Sabra and Shatila]] operation, Begin's negotiations at [[Camp David summit|Camp David]], and the political direction of Israeli intelligence operations during the Iran-Contra period - were made by officials based in Jerusalem.[^1]
 
 ### Camp David and Peace Negotiations
 

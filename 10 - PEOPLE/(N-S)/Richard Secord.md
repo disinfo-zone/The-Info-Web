@@ -7,7 +7,7 @@ aliases:
   - Dick Secord
   - General Secord
 created: 2026-05-17
-updated: 2026-10-14
+updated: 2026-10-15
 category: "Military"
 tags:
   - Person
@@ -114,7 +114,7 @@ In his 1987 testimony he said he served in [[Vietnam War|Vietnam]] and in Laos o
 
 ### Naval War College and the Pentagon
 
-From 1971 to 1972 Secord attended a one-year George Washington University graduate program at the [[Naval War College]] in Newport, Rhode Island, one of 16 Air Force officers in a class of 203.[^1] His 1972 master's thesis, "Unconventional warfare/covert operations as an instrument of U.S. foreign policy," was directed by the CIA adviser to the head of the college. In the first pages of its 55 pages he wrote that the CIA should be given "the authority" to run such operations and that the Pentagon should be "removed from the chain of command."[^1]
+From 1971 to 1972 Secord attended a one-year [[George Washington University]] graduate program at the [[Naval War College]] in Newport, Rhode Island, one of 16 Air Force officers in a class of 203.[^1] His 1972 master's thesis, "Unconventional warfare/covert operations as an instrument of U.S. foreign policy," was directed by the CIA adviser to the head of the college. In the first pages of its 55 pages he wrote that the CIA should be given "the authority" to run such operations and that the Pentagon should be "removed from the chain of command."[^1]
 
 Promoted to colonel in 1972, he became the Pentagon desk officer for Southeast Asia, and in 1973 he became aide to the director of the Defense Security Assistance Agency, which manages foreign military sales and assistance.[^1] The joint congressional report states that when Secord returned from Laos and was stationed at the Pentagon, Clines introduced him to a number of Clines's CIA associates, including [[Rafael Quintero]], and to [[Edwin Wilson]].[^9] [[Newsweek]] reported that Secord received his first general's star at the age of 43.[^6]
 

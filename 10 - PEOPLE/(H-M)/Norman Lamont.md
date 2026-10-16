@@ -66,7 +66,7 @@ relations:
     start: 1991
     fn: 3
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 Norman Stewart Hughson Lamont, Lord Lamont of Lerwick (born May 8, 1942), is a British [[Conservative Party]] politician who sat as Member of Parliament for [[Kingston upon Thames]] from 1972 to 1997 and was [[Chancellor of the Exchequer]] from November 28, 1990, to May 27, 1993. As Chancellor he answered in the [[House of Commons]] for the government after the [[Bank of England]] closed the [[Bank of Credit and Commerce International]] (BCCI) in July 1991, and with the Governor of the Bank, [[Robin Leigh-Pemberton]], he commissioned the inquiry of Lord Justice [[Thomas Bingham]] into the supervision of the bank.[^1][^2][^3]
@@ -83,7 +83,7 @@ In the Commons Lamont was parliamentary private secretary to [[Norman St John-St
 
 His government posts, as recorded by Parliament, were:[^1]
 
-- Parliamentary Under-Secretary, [[Department of Energy]], May 7, 1979, to September 5, 1981
+- Parliamentary Under-Secretary, [[United Kingdom Department of Energy|Department of Energy (United Kingdom)]], May 7, 1979, to September 5, 1981
 - Minister of State, [[Department of Industry]], September 14, 1981, to June 12, 1983
 - Minister of State, [[Department of Trade and Industry]], June 13, 1983, to September 2, 1985
 - Minister of State for Defence Procurement, [[Ministry of Defence]], September 2, 1985, to May 20, 1986

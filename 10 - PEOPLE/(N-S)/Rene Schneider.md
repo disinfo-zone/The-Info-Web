@@ -16,7 +16,7 @@ summary: "Commander of the Chilean army who held that the military must respect 
 died: 1970-10-25
 location: "Santiago, Chile"
 created: 2026-09-21
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 General René Schneider was commander in chief of the Chilean army from 1969. In an interview with [[El Mercurio]] on May 8, 1970, he stated that the army would respect the constitutional process and the outcome of that year's presidential election, a position that became known as the [[Schneider Doctrine]]. He was shot in [[Santiago]] on the morning of October 22, 1970, two days before the [[National Congress of Chile|Chilean Congress]] was to confirm [[Salvador Allende]], and died on October 25.[^1]
@@ -45,7 +45,7 @@ Congress ratified Allende on October 24 by 153 votes to 37.[^5]
 
 ### Schneider v. Kissinger
 
-René and Raúl Schneider and other members of the family sued Kissinger and the [[United States]] in the federal court in Washington on November 12, 2002. The complaint alleged that on September 15, 1970, Nixon ordered that the CIA "play a direct role in organizing a military coup d'etat in [[Chile]]," said he was "not concerned" about the risks, authorized ten million dollars, and required a plan within 48 hours. The district court dismissed the case in 2004, and the [[United States Court of Appeals for the District of Columbia Circuit|court of appeals]] affirmed in 2005, holding that the decision to support a coup in a foreign country was a political question that courts could not review.[^6]
+René and Raúl Schneider and other members of the family sued [[Henry Kissinger|Kissinger]], the [[United States]] and [[Richard Helms]] in the federal court in Washington on September 10, 2001, and filed an amended complaint against Kissinger and the United States on November 11, 2002, according to the opinion of the court of appeals; the National Security Archive catalogues the complaint under November 12, 2002. The complaint alleged that on September 15, 1970, Nixon ordered that the CIA "play a direct role in organizing a military coup d'etat in [[Chile]]," said he was "not concerned" about the risks, authorized ten million dollars, and required a plan within 48 hours. The district court dismissed the case on March 30, 2004, and the [[United States Court of Appeals for the District of Columbia Circuit|court of appeals]] affirmed on June 28, 2005, holding that the decision to support a coup in a foreign country was a political question that courts could not review.[^6]
 
 ### Footnotes
 
@@ -54,6 +54,6 @@ René and Raúl Schneider and other members of the family sued Kissinger and the
 [^3]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Covert Action in Chile 1963-1973,* staff report, 1975.
 [^4]: Hersh, Seymour M. *The Price of Power: Kissinger in the Nixon White House*. Summit Books, 1983, pp. 275, 289-290.
 [^5]: Kornbluh, Peter. *The Pinochet File: A Declassified Dossier on Atrocity and Accountability*. New Press, 2003, p. 29.
-[^6]: Schneider v. Kissinger, 310 F. Supp. 2d 251 (D.D.C. 2004), affirmed, 412 F.3d 190 (D.C. Cir. 2005); complaint, November 12, 2002, National Security Archive document 23606.
+[^6]: Schneider v. Kissinger, 310 F. Supp. 2d 251 (D.D.C. 2004), affirmed, 412 F.3d 190 (D.C. Cir. June 28, 2005), https://cite.case.law/f3d/412/190/ ; complaint, November 12, 2002, National Security Archive document 23606.
 [^7]: *Foreign Relations of the United States, 1969-1976*, Volume XXI, Chile, 1969-1973, document 162, Briefing Notes Prepared in the Central Intelligence Agency, Washington, October 23, 1970, "Track II." https://history.state.gov/historicaldocuments/frus1969-76v21/d162
 [^8]: *Foreign Relations of the United States, 1969-1976*, Volume XXI, document 168, Briefing Notes Prepared in the Central Intelligence Agency, Washington, October 28, 1970, "Recent Developments: Track II." https://history.state.gov/historicaldocuments/frus1969-76v21/d168

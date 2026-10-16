@@ -135,7 +135,7 @@ relations:
     role: "state solicitation charges"
     fn: 34
   - type: prosecuted
-    with: "[[Southern District of New York]]"
+    with: "[[U.S. Attorney's Office for the Southern District of New York]]"
     reverse: true
     start: 2019
     end: 2019

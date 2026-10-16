@@ -9,7 +9,7 @@ born: 1888-02-25
 died: 1959-05-24
 location: "Washington, D.C."
 created: 2025-08-05
-updated: 2026-09-22
+updated: 2026-10-15
 relations:
   - type: member_of
     role: "trustee"
@@ -31,7 +31,7 @@ John Foster Dulles served as the Secretary of State under President [[Dwight D. 
 
 John Foster Dulles was born on February 25, 1888, in Washington, D.C. He died on May 24, 1959, at [[Walter Reed Army Medical Center]], Washington, D.C., from colon cancer. Funeral services were held on May 27, 1959, at [[Washington National Cathedral]]. He is buried at [[Arlington National Cemetery]].[^bio1]
 
-He graduated from [[Princeton University]] in 1908, a member of Phi Beta Kappa. As an undergraduate he attended the Second Hague Conference in 1907 with his grandfather [[John Watson Foster]], who had served as Secretary of State under President Benjamin Harrison. After a year at the [[Sorbonne]], he completed a law degree at [[George Washington University Law School]] in two years, graduating in 1911. He was admitted to the New York bar the same year and joined [[Sullivan and Cromwell]], then New York's preeminent international corporate law firm, where he would remain for over four decades.[^bio2]
+He graduated from [[Princeton University]] in 1908, a member of Phi Beta Kappa. As an undergraduate he attended the Second Hague Conference in 1907 with his grandfather [[John Watson Foster]], who had served as Secretary of State under President Benjamin Harrison. After a year at the [[Sorbonne]], he completed a law degree at [[George Washington University Law School]] in two years, graduating in 1911.[^mc016] He was admitted to the New York bar the same year and joined [[Sullivan and Cromwell]], then New York's preeminent international corporate law firm, where he would remain for over four decades.[^bio2]
 
 At the [[Paris Peace Conference]] of 1919, Dulles served as chief legal adviser to [[Bernard Baruch]] on the [[Reparations Commission]], drafting treaty clauses that sought to limit German compensation obligations. He predicted the punishing reparations imposed by the European powers would produce another war. Baruch later paid Dulles $10,000 to ghostwrite his account of the negotiations, *The Making of the Reparation and Economic Sections of the Treaty*.[^bio3]
 
@@ -121,3 +121,4 @@ The FRUS volume *Foreign Relations of the United States, 1952-1954, Guatemala* (
 [^arch1]: Dwight D. Eisenhower Presidential Library, "John Foster Dulles Papers: Scope and Content Note," finding aid, Abilene, Kansas, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/scope-and-content.pdf. Telephone Conversations Series finding aid, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/telephone-conversations-series.pdf.
 [^arch2]: *Foreign Relations of the United States, 1952-1954, Guatemala*, ed. Susan Holly (Washington: U.S. Government Printing Office, 2003), 287 documents, https://history.state.gov/historicaldocuments/frus1952-54Guat. *Foreign Relations of the United States, 1951-1954, Iran*, https://history.state.gov/historicaldocuments/frus1951-54Iran.
 [^rfar]: The Rockefeller Foundation. *Annual Report 1951,* "President's Review," pp. 95-96, https://archive.org/details/the-rockefeller-foundation-annual-report-1951; *Annual Report 1952,* "President's Review," https://archive.org/details/the-rockefeller-foundation-annual-report-1952; *Annual Report 1960,* on Rusk's resignation, https://archive.org/details/the-rockefeller-foundation-annual-report-1960; *Annual Report 1935,* list of trustees, https://archive.org/details/the-rockefeller-foundation-annual-report-1935. The 1947 report lists Walter W. Stewart as chairman of the board, with Dulles a trustee, https://archive.org/details/the-rockefeller-foundation-annual-report-1947.
+[^mc016]: Princeton University Library, John Foster Dulles papers, Mudd Manuscript Library, finding aid MC016, biographical note (LL.B., George Washington University Law School, 1911; Sullivan and Cromwell 1911 to 1949; secretary to his grandfather John Watson Foster at the Second Hague Conference, 1907). https://findingaids.library.upenn.edu/records/PRIN_MUDD_MC016

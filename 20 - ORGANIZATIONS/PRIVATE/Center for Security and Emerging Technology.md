@@ -31,14 +31,14 @@ relations:
     start: 2021-03
     fn: 4
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 The Center for Security and Emerging Technology is a policy research center in [[Georgetown University]]'s [[Walsh School of Foreign Service]]. [[Open Philanthropy]] recommended a grant of 55 million dollars over five years in January 2019 to launch it as "a new think tank dedicated to policy analysis at the intersection of national and international security and emerging technologies," led by [[Jason Matheny]], former director of the [[Intelligence Advanced Research Projects Activity]]. The grant investigator was [[Luke Muehlhauser]]. The founding team named on the grant page included [[Dewey Murdick]], director of data science, formerly chief analytics officer and deputy chief scientist at the [[Department of Homeland Security]] and an IARPA program manager; [[William Hannas]], lead analyst, formerly a member of the Senior Intelligence Service at the [[Central Intelligence Agency]] and "the [[Open Source Enterprise]]'s primary China science and technology analyst," who had also served with the [[Foreign Broadcast Information Service]]; and [[Helen Toner]], director of strategy and plans, previously a senior research analyst at Open Philanthropy.[^1]
 
 ### Funding
 
-In August 2021 CSET announced that "its main funder," Open Philanthropy, had increased its grant by 42 million dollars, bringing total funding to more than 100 million dollars through 2025; Murdick also credited the [[William and Flora Hewlett Foundation]], the P[[ublic Interest Technology University Network]] and [[Georgetown]].[^2] In October 2023 the *[[Politico]]* reporter [[Brendan Bordelon]] described CSET as "funded almost entirely by Open Philanthropy," and reported that Open Philanthropy also paid the salaries of fellows at CSET through the [[Horizon Institute for Public Service]], a nonprofit he wrote that Open Philanthropy had "effectively created in 2022."[^3]
+In August 2021 CSET announced that "its main funder," Open Philanthropy, had increased its grant by 42 million dollars, bringing total funding to more than 100 million dollars through 2025; Murdick also credited the [[William and Flora Hewlett Foundation]], the [[Public Interest Technology University Network]] and Georgetown.[^2] In October 2023 the *[[Politico]]* reporter [[Brendan Bordelon]] described CSET as "funded almost entirely by Open Philanthropy," and reported that Open Philanthropy also paid the salaries of fellows at CSET through the [[Horizon Institute for Public Service]], a nonprofit he wrote that Open Philanthropy had "effectively created in 2022."[^3]
 
 ### Staff
 

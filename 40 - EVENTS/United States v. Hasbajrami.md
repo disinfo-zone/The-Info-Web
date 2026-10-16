@@ -14,8 +14,8 @@ tags:
   - Surveillance
   - CivilLiberties
 created: 2026-05-22
-updated: 2026-05-22
-summary: "United States v. Hasbajrami is the federal prosecution that produced the first judicial rulings requiring a warrant for Section 702 backdoor searches of Americans' communications, with the Second Circuit's 2019 decision and the district court's 2025 ruling establishing the leading Fourth Amendment framework for FISA database querying."
+updated: 2026-10-15
+summary: "United States v. Hasbajrami is the federal prosecution that produced the first judicial rulings requiring a warrant for Section 702 backdoor searches, in the Second Circuit's 2019 decision and the district court's 2025 ruling."
 ---
 
 United States v. Hasbajrami is a federal prosecution in the [[Eastern District of New York]] that has, over more than a decade of constitutional litigation, produced the two most significant judicial rulings on whether "backdoor searches" of [[Section 702]] databases require a Fourth Amendment warrant. The case is the principal litigation vehicle through which the [[American Civil Liberties Union]]'s [[ACLU National Security Project]] has pressed the warrant requirement argument, and the January 2025 district court ruling in the case was the first federal ruling to impose a warrant requirement on warrantless U.S. person queries of [[Foreign Intelligence Surveillance Act]] Section 702 data.
@@ -30,7 +30,7 @@ While Hasbajrami was serving his sentence, prosecutors disclosed that some evide
 
 ### Second Circuit, 2019
 
-On December 18, 2019, the [[U.S. Court of Appeals for the Second Circuit]] issued its decision in United States v. Hasbajrami, 945 F.3d 641. Judge [[Gerard Lynch]], writing for a unanimous panel, ruled that Section 702 collection of the communications of a U.S. person's foreign contacts was permissible as incidental collection. However, the court also held that querying the resulting databases using a U.S. person identifier constitutes a "separate Fourth Amendment event" from the initial collection, and must independently comport with the Fourth Amendment. The Second Circuit remanded to the district court to determine whether a warrant was required for the specific queries at issue.[^1]
+On December 18, 2019, the [[U.S. Court of Appeals for the Second Circuit]] issued its decision in United States v. Hasbajrami, 945 F.3d 641. The case was argued on August 27, 2018 before Judges Lynch, [[Susan L. Carney]] and [[Christopher F. Droney]]. Judge [[Gerard Lynch]], writing for a unanimous panel, ruled that Section 702 collection of the communications of a U.S. person's foreign contacts was permissible as incidental collection. However, the court also held that querying the resulting databases using a U.S. person identifier constitutes a "separate Fourth Amendment event" from the initial collection, and must independently comport with the Fourth Amendment. The Second Circuit remanded to the district court to determine whether a warrant was required for the specific queries at issue.[^1]
 
 The ruling rejected the government's argument that the "foreign intelligence exception" to the Fourth Amendment's warrant requirement justified warrantless U.S. person queries of Section 702 databases. The court declined to find a categorical exemption, requiring instead a case-specific Fourth Amendment analysis.
 
@@ -48,8 +48,6 @@ The Hasbajrami district court's January 2025 ruling, issued after Bredar's Augus
 
 ### Footnotes
 
-[^1]: United States v. Hasbajrami, 945 F.3d 641 (2d Cir. Dec. 18, 2019). Lawfare analysis: "The Second Circuit Rules in United States v. Hasbajrami," https://www.lawfaremedia.org/article/second-circuit-rules-united-states-v-hasbajrami; Just Security analysis: https://www.justsecurity.org/60505/happened-court-hasbajrami-oral-argument-section-702-fisa-fourth-amendment/
-
+[^1]: United States v. Hasbajrami, 945 F.3d 641 (2d Cir. Dec. 18, 2019). Lawfare analysis: "The Second Circuit Rules in United States v. Hasbajrami," https://www.lawfaremedia.org/article/second-circuit-rules-united-states-v-hasbajrami; Just Security analysis: https://www.justsecurity.org/60505/happened-court-hasbajrami-oral-argument-section-702-fisa-fourth-amendment/ ; opinion caption ("Argued; August 27, 2018. Decided: December 18, 2019"; "LYNCH, CARNEY, and DRONEY, Circuit Judges"), https://www.govinfo.gov/metadata/pkg/USCOURTS-ca2-17-02669/mods.xml
 [^2]: United States v. Hasbajrami, 11-cr-00623-LDH (E.D.N.Y.), Memorandum and Order (declassified Jan. 21, 2025). ACLU press release: https://www.aclu.org/press-releases/court-rules-warrantless-section-702-searches-violated-the-fourth-amendment; ACLU court document: https://www.aclu.org/documents/section-702-memorandum-and-order-u-s-v-hasbajrami-11-cr-00623-ldh; EFF analysis: https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional
-
 [^3]: Baltimore Sun, August 9, 2024. https://www.baltimoresun.com/2024/08/09/feds-evidence-spying-program-neo-nazi-accused-baltimore-power-grid-plot/

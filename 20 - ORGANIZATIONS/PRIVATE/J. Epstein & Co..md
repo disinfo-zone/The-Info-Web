@@ -24,7 +24,7 @@ created: 2026-09-25
 updated: 2026-09-25
 ---
 
-J. Epstein & Co. was the money-management business [[Jeffrey Epstein]] ran in [[New York]] from about 1988, after his consulting company [[International Assets Group]] and his engagement at [[Towers Financial Corporation]]. Epstein said it accepted only clients worth a billion dollars or more. Its one publicly acknowledged client was [[Leslie Wexner]], founder of [[L Brands|The Limited]]. By 2003 he had run the business for about fifteen years.[^1]
+J. Epstein & Co. was the money-management business [[Jeffrey Epstein]] ran in [[New York City|New York]] from about 1988, after his consulting company [[International Assets Group]] and his engagement at [[Towers Financial Corporation]]. Epstein said it accepted only clients worth a billion dollars or more. Its one publicly acknowledged client was [[Leslie Wexner]], founder of [[L Brands|The Limited]]. By 2003 he had run the business for about fifteen years.[^1]
 
 ### Offices and Clients
 

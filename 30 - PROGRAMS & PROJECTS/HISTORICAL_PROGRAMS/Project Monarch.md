@@ -7,7 +7,7 @@ tags:
   - MindControl
 summary: "An alleged offshoot of MKULTRA said to have used trauma-based programming to create multiple personalities in subjects for use as couriers, sex slaves, and operatives."
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-15
 ---
 Project Monarch was an alleged sub-project of [[MKULTRA]] said to have employed trauma-based mind control techniques to fracture subjects' personalities into multiple identities using [[Multiple Personality Disorder|MPD]] (now called Dissociative Identity Disorder). The stated goal was total subjugation of a person's will and personality to their controllers, creating alternate personalities that could serve as couriers, sexual slaves, or assassins while the primary personality remained unaware of the programming.[^1]
 
@@ -39,4 +39,4 @@ While O'Brien's specific claims remain unverified and are regarded skeptically b
 
 ### Footnotes
 
-[^1]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996.
+[^1]: A.B.H. Alexander, "Sex, Drugs, the CIA, MIND CONTROL and Your Children," PROBE, c. 1996 (a summary of the account of Cathy O'Brien, the source of the Charm School description).

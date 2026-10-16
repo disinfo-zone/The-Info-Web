@@ -17,7 +17,7 @@ tags:
   - DarkAlliance
   - NewsweekQuranStory
 summary: "American news weekly founded in 1933, owned by the Washington Post Company from 1961 to 2010, whose staff and stringers appear in Carl Bernstein's 1977 account of CIA press relations."
-updated: 2026-10-14
+updated: 2026-10-15
 relations:
   - type: owned
     with: "[[Vincent Astor]]"
@@ -134,7 +134,7 @@ The historian [[Howard Schonberger]] wrote that Kern, as foreign affairs editor,
 
 Bernstein wrote that about a dozen columnists and broadcast commentators were regarded at the Agency as "known assets." He named [[Stewart Alsop]], whose column appeared in Newsweek among other publications, as one of three columnists with such ties, and wrote that CIA files contain reports of specific tasks all three undertook.[^26]
 
-[[Arnaud de Borchgrave]] became Newsweek's Paris bureau chief in 1951 and went on to a career as a roving correspondent. A Washington Times obituary of February 2015 describes him as the magazine's chief foreign correspondent for 25 years and quotes Osborn Elliott, onetime editor of Newsweek: "de Borchgrave has played a role in world affairs known to no other journalist." He became editor in chief of the [[Washington Times]] in 1985 and later president of [[United Press International]].[^27]
+[[Arnaud de Borchgrave]] became Newsweek's Paris bureau chief in 1951 and went on to a career as a roving correspondent. A Washington Times obituary of February 2015 describes him as the magazine's chief foreign correspondent for 25 years and quotes Osborn Elliott, onetime editor of Newsweek: "de Borchgrave has played a role in world affairs known to no other journalist." He became editor in chief of the [[Washington Times]] in 1985 and in January 1999 president and chief executive officer of [[United Press International]].[^27][^44]
 
 ### IBT Media and the Manhattan District Attorney
 
@@ -215,3 +215,4 @@ According to [[Gary Webb]]'s account, [[William J. Casey]] himself leaked news o
 [^41]: Neda Ulaby, "'Newsweek' Retracts Story Alleging Quran Abuse," NPR *Morning Edition*, May 17, 2005. https://www.npr.org/2005/05/17/4654641/newsweek-retracts-story-alleging-quran-abuse.
 [^42]: "Newsweek retracts Quran report," Al Jazeera (Reuters), May 17, 2005. https://www.aljazeera.com/news/2005/5/17/newsweek-retracts-quran-report.
 [^43]: Howard B. Schonberger, *Aftermath of War: Americans and the Remaking of Japan, 1945-1952* (Kent, Ohio: Kent State University Press, 1989), pp. 7, 135, 157-158. https://archive.org/details/aftermathofwaram0000scho
+[^44]: United Press International, "De Borchgrave named CEO of UPI," December 16, 1998, https://www.upi.com/Archives/1998/12/16/De-Borchgrave-named-CEO-of-UPI/2072913784400/ (appointment; start January 4; editor in chief of The Washington Times, 1985 to 1991; Newsweek chief foreign correspondent, 1963 to 1980; senior adviser at CSIS and director of the Global Organized Crime Project).

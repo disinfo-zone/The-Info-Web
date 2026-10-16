@@ -91,12 +91,12 @@ relations:
     reverse: true
     end: 1991-04
     role: "former employee who met Danny Casolaro in Martinsburg on August 9, 1991"
-    fn: 14
+    fn: 17
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
-Hughes Aircraft Company, of [[Culver City]], California, was in its early decades a division of the [[Hughes Tool Company]], the holding company of [[Howard Hughes]]. It was formed in the spring of 1932 at Glendale, California, after Hughes leased space in a [[Lockheed Aircraft Corporation]] hangar in Burbank to rebuild a Boeing pursuit plane; [[Donald Barlett]] and [[James Steele]] wrote that it began as "nothing more than a glorified machine shop and a set of books." In 1953 Hughes gave the stock of a newly established Hughes Aircraft Company to the Howard Hughes Medical Institute and transferred to it almost all of the original company's operations, more than seventeen thousand employees and all but a few million dollars of more than 200 million dollars in defense contracts; the remainder became the Hughes Tool Company Aircraft Division.[^1] In the Delaware litigation over the [[Howard Hughes Medical Institute]], the Court of Chancery recorded that the institute "was funded by the transfer to it of the electronics division" of the Hughes holdings, through the Hughes Aircraft Company, "all of the stock of which latter company has since been held by the Institute."[^2]
+Hughes Aircraft Company, of [[Culver City]], California, was in its early decades a division of the [[Hughes Tool Company]], the holding company of [[Howard Hughes]]. It was formed in the spring of 1932 at Glendale, California, after Hughes leased space in a [[Lockheed Aircraft Company|Lockheed Aircraft Corporation]] hangar in Burbank to rebuild a Boeing pursuit plane; [[Donald Barlett]] and [[James Steele]] wrote that it began as "nothing more than a glorified machine shop and a set of books." In 1953 Hughes gave the stock of a newly established Hughes Aircraft Company to the Howard Hughes Medical Institute and transferred to it almost all of the original company's operations, more than seventeen thousand employees and all but a few million dollars of more than 200 million dollars in defense contracts; the remainder became the Hughes Tool Company Aircraft Division.[^1] In the Delaware litigation over the [[Howard Hughes Medical Institute]], the Court of Chancery recorded that the institute "was funded by the transfer to it of the electronics division" of the Hughes holdings, through the Hughes Aircraft Company, "all of the stock of which latter company has since been held by the Institute."[^2]
 
 ### The Medical Institute
 
@@ -128,9 +128,13 @@ In September 1973 Hughes sued the United States in the Court of Claims over the 
 
 On January 16, 1997 General Motors and Hughes announced the spin-off of the Hughes defense business to holders of GM stock and its merger with Raytheon Company, the transfer of Delco Electronics to GM's Delphi Automotive Systems, and the recapitalization of Class H stock into a tracking stock for the Hughes telecommunications and space business.[^13] General Motors reported the completion of the transactions on December 17, 1997.[^13]
 
+In December 1998 *The New York Times* reported that a Central Intelligence Agency scientist, [[Ronald Pandolfi]], had visited "the Hughes Electronics Corporation in Los Angeles in 1995 to learn more about China's missile capabilities," and had become concerned that the satellite manufacturer "might have helped improve Chinese military capabilities." The paper described the company as "a unit of General Motors and major customer of the C.I.A.," which had denied any wrongdoing.[^14]
+
+In March 2003 DIRECTV Latin America, LLC, a 75 percent owned subsidiary of Hughes Electronics Corporation, which General Motors described as a wholly owned subsidiary of General Motors, announced a voluntary petition for reorganization under Chapter 11.[^15] On September 12, 2003, General Motors announced a private-letter ruling from the Internal Revenue Service confirming that the distribution of Hughes Electronics stock to the holders of GM Class H common stock, in connection with the split-off of Hughes, would be tax-free to GM and its Class H stockholders.[^16]
+
 ### Bill Turner and Danny Casolaro
 
-A Department of Justice document in the INSLAW files describes [[Bill Turner]] (William Turner) as having been "an employee of the Hughes Aircraft Corporation" who "apparently had been fired," and states that Turner "was never a 'whistleblower,' as some have described him." It records that Turner claimed to have met [[Danny Casolaro]] in the parking lot of Casolaro's hotel in Martinsburg on Friday, August 9, 1991, the afternoon before Casolaro died, that no one witnessed the meeting, that his accounts of the documents involved varied, and that on September 13, 1991 Turner pleaded guilty to a felony count of making a false statement to the Veterans Administration.[^14]
+A Department of Justice document in the INSLAW files describes [[Bill Turner]] (William Turner) as having been "an employee of the Hughes Aircraft Corporation" who "apparently had been fired," and states that Turner "was never a 'whistleblower,' as some have described him." It records that Turner claimed to have met [[Danny Casolaro]] in the parking lot of Casolaro's hotel in Martinsburg on Friday, August 9, 1991, the afternoon before Casolaro died, that no one witnessed the meeting, that his accounts of the documents involved varied, and that on September 13, 1991 Turner pleaded guilty to a felony count of making a false statement to the Veterans Administration.[^17]
 
 ### Footnotes
 
@@ -147,4 +151,7 @@ A Department of Justice document in the INSLAW files describes [[Bill Turner]] (
 [^11]: General Motors Form 10-K for fiscal 1993 (note 9), Item 2 (properties) and Item 1 (backlog).
 [^12]: General Motors Form 10-K for fiscal 1993 (note 9), Item 3 (legal proceedings) and notes on acquisitions.
 [^13]: General Motors Corporation, Form 8-K filed April 14, 1997 (announcement of January 16, 1997), SEC EDGAR accession 0000040730-97-000015, https://www.sec.gov/Archives/edgar/data/40730/0000040730-97-000015.txt; and Form 8-K filed December 18, 1997 (completion on December 17, 1997), accession 0000040730-97-000037, https://www.sec.gov/Archives/edgar/data/40730/0000040730-97-000037.txt
-[^14]: U.S. Department of Justice, report excerpt in the "INSLAW files of John C. Dwyer, Deputy Associate Attorney General," section "William Turner," DOCID 70002067, pp. 133-134, Internet Archive item INSLAW-Casolaro. https://archive.org/details/INSLAW-Casolaro
+[^14]: Gerth, Jeff, "Old Concerns Over Data Transfer to China Get New Attention," *The New York Times*, December 7, 1998, p. A20, archived copy at https://web.archive.org/web/20201101033224/https://www.nytimes.com/1998/12/07/us/old-concerns-over-data-transfer-to-china-get-new-attention.html.
+[^15]: General Motors Corporation, Form 8-K filed March 19, 2003 (event dated March 18, 2003), SEC EDGAR accession 0000040730-03-000056, https://www.sec.gov/Archives/edgar/data/40730/000004073003000056/gmhughesdlachapter11031903.txt.
+[^16]: General Motors Corporation, Form 8-K filed September 12, 2003, SEC EDGAR accession 0000040730-03-000110, https://www.sec.gov/Archives/edgar/data/40730/000004073003000110/irsrulingonhughes091203.txt.
+[^17]: U.S. Department of Justice, report excerpt in the "INSLAW files of John C. Dwyer, Deputy Associate Attorney General," section "William Turner," DOCID 70002067, pp. 133-134, Internet Archive item INSLAW-Casolaro. https://archive.org/details/INSLAW-Casolaro

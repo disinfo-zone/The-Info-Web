@@ -11,7 +11,7 @@ tags:
   - FourthAmendment
   - Attorney
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-15
 summary: "Ashley Gorski is a senior staff attorney in the ACLU's National Security Project who has led the organization's Fourth Amendment litigation against Section 702 backdoor searches, including joining the defense in United States v. Russell."
 ---
 
@@ -27,7 +27,7 @@ The ACLU's basis for inferring Section 702 collection was an [[ODNI]] document, 
 
 ### United States v. Hasbajrami
 
-Gorski and the ACLU National Security Project also represented [[Agron Hasbajrami]] in the extended constitutional litigation in the [[Second Circuit]] and the [[Eastern District of New York]] over whether Section 702 backdoor searches require a warrant. The Second Circuit's 2019 ruling in that case held that U.S. person queries constitute "separate Fourth Amendment events," and the subsequent January 2025 district court ruling (the first federal decision imposing a warrant requirement on Section 702 queries) was a direct product of the ACLU's litigation strategy in Hasbajrami.[^2]
+Gorski and the ACLU National Security Project also represented [[Agron Hasbajrami]] in the extended constitutional litigation in the [[Second Circuit]] and the [[Eastern District of New York]] over whether Section 702 backdoor searches require a warrant. The Second Circuit's 2019 ruling in that case held that U.S. person queries constitute "separate Fourth Amendment events," and the subsequent January 2025 district court ruling (the first federal decision imposing a warrant requirement on Section 702 queries) was a direct product of the ACLU's litigation strategy in Hasbajrami.[^2] The Second Circuit's opinion of December 18, 2019 lists Gorski and Patrick Toomey of the ACLU, with Mark Rumold and Andrew Crocker of the Electronic Frontier Foundation, as counsel for amici curiae the ACLU and the Electronic Frontier Foundation; Michael K. Bachrach, Joshua L. Dratel and Steve Zissou appeared for Hasbajrami.[^2]
 
 ### ACLU v. NSA and Related FOIA Work
 
@@ -36,7 +36,5 @@ Gorski has led ACLU FOIA litigation seeking the public release of classified FIS
 ### Footnotes
 
 [^1]: Baltimore Banner, "ACLU Signs On to Defend Neo-Nazi Charged with Power Grid Plot." https://www.thebanner.com/community/criminal-justice/neo-nazi-baltimore-power-grid-aclu-national-security-defense-PA277N47ANCLPAMBKAFHXNZ45U/; Baltimore Sun, June 27, 2024. https://www.baltimoresun.com/2024/06/27/prosecutors-will-say-in-secret-whether-they-used-controversial-spying-tool-against-neo-nazi-accused-in-baltimore-power-grid-plot/
-
-[^2]: United States v. Hasbajrami, 945 F.3d 641 (2d Cir. 2019); United States v. Hasbajrami, 11-cr-00623-LDH (E.D.N.Y.), Memorandum and Order (declassified Jan. 21, 2025). ACLU press release: https://www.aclu.org/press-releases/court-rules-warrantless-section-702-searches-violated-the-fourth-amendment
-
+[^2]: United States v. Hasbajrami, 945 F.3d 641 (2d Cir. 2019); United States v. Hasbajrami, 11-cr-00623-LDH (E.D.N.Y.), Memorandum and Order (declassified Jan. 21, 2025). ACLU press release: https://www.aclu.org/press-releases/court-rules-warrantless-section-702-searches-violated-the-fourth-amendment ; counsel block of the opinion, https://www.govinfo.gov/metadata/pkg/USCOURTS-ca2-17-02669/mods.xml
 [^3]: ACLU, "Government Releases New Court Opinions Highlighting Further Abuse of Warrantless FISA Surveillance Program," September 2023. https://www.aclu.org/press-releases/government-releases-new-court-opinions-highlighting-further-abuse-of-warrantless-fisa-surveillance-program; ACLU v. United States (SDNY, filed April 2024). https://assets.aclu.org/live/uploads/2024/04/2024-04-25-Complaint-Filed.pdf

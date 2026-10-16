@@ -11,7 +11,7 @@ location: Washington, D.C.
 created: 2026-06-03
 updated: 2026-06-12
 ---
-The Federal Bureau of Narcotics (FBN) was a U.S. government agency whose agents collaborated closely with the [[CIA]] on behavioral control operations. [[George White]], a [[Office of Strategic Services|OSS]] veteran who worked as a narcotics agent, used his Bureau position as cover to operate [[Safehouses|safehouses]] in [[New York]] and [[San Francisco]] where the CIA conducted unwitting drug experiments. The Bureau provided access to drug offenders and prostitutes who became unwitting experimental subjects. Narcotics agent [[Charles Siragusa]] ran a New York safehouse, opened in 1961, while White operated in San Francisco.[^1]
+The Federal Bureau of Narcotics (FBN) was a U.S. government agency whose agents collaborated closely with the [[CIA]] on behavioral control operations. [[George White]], a [[Office of Strategic Services|OSS]] veteran who worked as a narcotics agent, used his Bureau position as cover to operate [[Safehouses|safehouses]] in [[New York City|New York]] and [[San Francisco]] where the CIA conducted unwitting drug experiments. The Bureau provided access to drug offenders and prostitutes who became unwitting experimental subjects. Narcotics agent [[Charles Siragusa]] ran a New York safehouse, opened in 1961, while White operated in San Francisco.[^1]
 
 ### Founding and succession
 

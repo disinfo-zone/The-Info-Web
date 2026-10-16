@@ -22,7 +22,7 @@ Aldrich Hazen Ames (born May 26, 1941) was a [[Central Intelligence Agency|CIA]]
 
 ### Background and CIA Career
 
-Ames grew up in [[Wisconsin]] and [[Virginia]], son of [[Carleton Ames]], a CIA officer. He joined the CIA in 1962, following his father into the agency. His career trajectory was unremarkable: he served in [[Turkey]], [[Mexico City]], and [[New York]] in various Soviet-related capacities, developing expertise in Soviet intelligence tradecraft but advancing slowly. Colleagues described him as intelligent but undisciplined, a heavy drinker who had difficulty managing administrative responsibilities. Despite periodic poor performance reviews, the CIA retained him.
+Ames grew up in [[Wisconsin]] and [[Virginia]], son of [[Carleton Ames]], a CIA officer. He joined the CIA in 1962, following his father into the agency. His career trajectory was unremarkable: he served in [[Turkey]], [[Mexico City]], and [[New York City|New York]] in various Soviet-related capacities, developing expertise in Soviet intelligence tradecraft but advancing slowly. Colleagues described him as intelligent but undisciplined, a heavy drinker who had difficulty managing administrative responsibilities. Despite periodic poor performance reviews, the CIA retained him.
 
 In 1981, Ames was assigned to a CIA counterintelligence position handling Soviet sources - ironically, the exact role in which a Soviet penetration agent would have maximum damage potential. He married [[Maria del Rosario Casas Dupuy]], a [[Colombia|Colombian]] national he had recruited as a CIA informant. Her expensive tastes created financial pressure he used to justify his subsequent decisions.[^1]
 

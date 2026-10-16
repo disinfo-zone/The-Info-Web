@@ -11,7 +11,7 @@ tags:
   - CIA
   - SRI
 summary: "Kress was the lead analyst assigned to the operation involving Pat Price's Remote Viewing of URDF-3, a highly classified Soviet research and development facility in Kazakhstan."
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 Kenneth A. Kress was a physicist, engineer, and analyst with the [[Central Intelligence Agency|CIA]]. He is considered by some to be the "father of America's remote-viewing program" as he was responsible for giving [[Stanford Research Institute|SRI]] its first [[Psi]] research contract in 1972[^1]. Kress, then a young, dark-haired engineer, was instrumental in bringing [[Hal Puthoff]] and [[Ingo Swann]] into the Central Intelligence Agency's orbit for psychic research[^1].
@@ -45,5 +45,5 @@ In the review Kress wrote that the [[DARPA|Defense Advanced Research Projects Ag
 ### Footnotes
 
 [^1]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
-[^2]: Kress, Kenneth A. "Parapsychology in Intelligence: A Personal Review and Conclusions," *Studies in Intelligence,* vol. 21, no. 4, winter 1977, declassified, document NSA-RDP96X00790R000100010031-3; reprinted with the author's postscript of January 1999 in *Journal of Scientific Exploration,* vol. 13, no. 1, 1999.
+[^2]: Kress, Kenneth A. "Parapsychology in Intelligence: A Personal Review and Conclusions," *Studies in Intelligence,* vol. 21, no. 4, winter 1977, declassified, document CIA-RDP96-00791R000200030040-0; reprinted with the author's postscript of January 1999 in *Journal of Scientific Exploration,* vol. 13, no. 1, 1999.
 [^3]: Central Intelligence Agency, Office of Legislative Counsel, "Briefing of Representative Charles Rose (D., N.C.), Member of the House Permanent Select Committee on Intelligence, 9 February 1978," OLC 78-0576, CIA-RDP81M00980R000600250087-4, first page only.

@@ -93,7 +93,7 @@ relations:
     role: "acquired Aerojet Rocketdyne Holdings by merger at 58 dollars a share in cash"
     fn: 17
   - type: contractor_to
-    with: "[[Lockheed Martin]]"
+    with: "[[Lockheed Aircraft Company]]"
     start: 1993
     role: "major subcontractor for the Advanced Solid Rocket Motor program (about 118 million dollars of 1993 sales)"
     fn: 13
@@ -104,7 +104,7 @@ relations:
     role: "Lockheed Martin merger agreement terminated on February 13, 2022 after the Commission filed suit on January 25, 2022"
     fn: 16
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 Aerojet Engineering Corporation was incorporated in [[Delaware]] on March 19, 1942.[^1] The incorporators were the [[California Institute of Technology]] aerodynamicist [[Theodore von Kármán]], his former graduate student [[Frank Malina]], the Pasadena chemist [[Jack Parsons]], the machinist [[Edward Forman]], the Caltech researcher [[Martin Summerfield]], and the Washington attorney [[Andrew Haley]].[^1] The initial officers were von Kármán (president), Malina (treasurer), Haley (secretary), and Forman, Parsons and Summerfield (vice presidents); Malina described von Kármán, Haley and himself as the board of directors in a letter to his parents.[^1] In his autobiography von Kármán wrote that each founder agreed to contribute 200 dollars, that none of the Malina group had it, and that Haley agreed to advance 2,500 dollars to cover the cost of starting the company.[^1]
@@ -133,7 +133,7 @@ Parsons worked from 1949 until September 26, 1950 for Hughes Aircraft in [[Culve
 
 ### Sacramento and environmental litigation
 
-GenCorp's annual report for 1993 lists Aerojet-General Corporation as one of three business segments and gives the former name of the registrant as General Tire & Rubber Co. It reports Aerojet sales of 872 million dollars (1,019 million in 1992), a contract backlog of 1.4 billion dollars, a role as major subcontractor to [[Lockheed Martin|Lockheed]] on the Advanced Solid Rocket Motor program (118 million dollars of 1993 sales), exposure to budget cuts affecting the [[Minuteman]] missile, the [[Strategic Defense Initiative]] and the SADARM munition, and a consent decree with the [[Environmental Protection Agency]] over chemical releases at Aerojet's Sacramento facility and at its inactive subsidiary Cordova Chemical Company.[^13] The fiscal 2000 report lists a series of groundwater suits against Aerojet-General Corporation, including actions brought by American States Water Company and Kiefer-Sunrise Associates.[^7]
+GenCorp's annual report for 1993 lists Aerojet-General Corporation as one of three business segments and gives the former name of the registrant as General Tire & Rubber Co. It reports Aerojet sales of 872 million dollars (1,019 million in 1992), a contract backlog of 1.4 billion dollars, a role as major subcontractor to [[Lockheed Aircraft Company|Lockheed]] on the Advanced Solid Rocket Motor program (118 million dollars of 1993 sales), exposure to budget cuts affecting the [[Minuteman]] missile, the [[Strategic Defense Initiative]] and the SADARM munition, and a consent decree with the [[Environmental Protection Agency]] over chemical releases at Aerojet's Sacramento facility and at its inactive subsidiary Cordova Chemical Company.[^13] The fiscal 2000 report lists a series of groundwater suits against Aerojet-General Corporation, including actions brought by American States Water Company and Kiefer-Sunrise Associates.[^7]
 
 ### Rocketdyne, Lockheed and L3Harris
 

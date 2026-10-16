@@ -30,7 +30,7 @@ The [[Bank of Credit and Commerce International]] maintained its principal globa
 
 ### Robert Maxwell
 
-Press baron [[Robert Maxwell]], a Czech-born British citizen whose claimed Mossad connections are attested by former Israeli intelligence officers [[Ari Ben-Menashe]] and [[Victor Ostrovsky]], built his empire from [[Oxford]]-based [[Pergamon Press]] and later [[Mirror Group Newspapers]]. [[Nicholas Davies]], the [[Daily Mirror]]'s foreign editor, was accused of being a Mossad asset. Maxwell died under disputed circumstances in November 1991; the subsequent collapse of his business empire revealed massive pension fund fraud.[^1]
+Press baron [[Robert Maxwell]], a Czech-born British citizen whose claimed Mossad connections are attested by former Israeli intelligence officers [[Ari Ben-Menashe]] and [[Victor Ostrovsky]], built his empire from [[Oxford, England|Oxford]]-based [[Pergamon Press]] and later [[Mirror Group Newspapers]]. [[Nicholas Davies]], the [[Daily Mirror]]'s foreign editor, was accused of being a Mossad asset. Maxwell died under disputed circumstances in November 1991; the subsequent collapse of his business empire revealed massive pension fund fraud.[^1]
 
 ### Arms-to-Iraq
 

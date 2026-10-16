@@ -26,7 +26,7 @@ relations:
     fn: 4
 ---
 
-Apollo Global Management is an American alternative-asset management firm founded in 1990 and headquartered in [[New York]]. It was built by [[Leon Black]] and other alumni of the collapsed investment bank [[Drexel Burnham|Drexel Burnham Lambert]] into one of the largest managers of private-equity, credit, and insurance assets in the world. The firm's co-founder and longtime leader, Black, resigned as chief executive and chairman in 2021 after the disclosure that he had paid [[Jeffrey Epstein]] about 158 million dollars for tax and estate advice, a relationship that prompted an independent board review, a U.S. Senate investigation, and, in 2026, shareholder suits alleging the firm concealed the extent of the ties.[^1][^2]
+Apollo Global Management is an American alternative-asset management firm founded in 1990 and headquartered in [[New York City|New York]]. It was built by [[Leon Black]] and other alumni of the collapsed investment bank [[Drexel Burnham|Drexel Burnham Lambert]] into one of the largest managers of private-equity, credit, and insurance assets in the world. The firm's co-founder and longtime leader, Black, resigned as chief executive and chairman in 2021 after the disclosure that he had paid [[Jeffrey Epstein]] about 158 million dollars for tax and estate advice, a relationship that prompted an independent board review, a U.S. Senate investigation, and, in 2026, shareholder suits alleging the firm concealed the extent of the ties.[^1][^2]
 
 ### Founding From Drexel
 

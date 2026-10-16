@@ -77,7 +77,7 @@ The CIA's Soviet division eventually concluded Nosenko was genuine. [[Tennent Ba
 
 ### HT/LINGUAL: Twenty-One Years of Illegal Mail Opening
 
-From 1952 to 1973, Angleton ran HT/LINGUAL, a covert CIA program that intercepted and opened first-class mail between the [[United States]] and the Soviet Union, operating from facilities at Idlewild (later JFK) Airport in [[New York]]. The program was illegal under the Fourth Amendment and Title 18 of the U.S. Code, which criminalized opening sealed mail without a warrant.
+From 1952 to 1973, Angleton ran HT/LINGUAL, a covert CIA program that intercepted and opened first-class mail between the [[United States]] and the Soviet Union, operating from facilities at Idlewild (later JFK) Airport in [[New York City|New York]]. The program was illegal under the Fourth Amendment and Title 18 of the U.S. Code, which criminalized opening sealed mail without a warrant.
 
 Over its operation, HT/LINGUAL opened approximately 215,820 letters and photographed the exterior envelopes of nearly 2.7 million pieces of mail. Recipients and senders included U.S. senators, journalists, academics, and private citizens with no intelligence connection. [[Richard Helms]] was briefed and approved continuation on multiple occasions. The Postmaster General was kept uninformed or given misleading characterizations of the program's scope. CIA lawyers repeatedly warned the program was illegal; it continued anyway.
 

@@ -93,7 +93,7 @@ created: 2026-10-09
 updated: 2026-10-09
 ---
 
-Kurt Riezler (February 11, 1882 to September 5, 1955) was a German diplomat, political adviser and philosopher of history. He served as secretary and adviser to Chancellor [[Theobald von Bethmann Hollweg]] during the First World War, headed the Russian section of the German legation in [[Stockholm]] in 1917, acted as head of the German mission in [[Moscow]] after the murder of Count [[Wilhelm von Mirbach-Harff]] in 1918, and after emigrating in 1938 taught at the [[New School for Social Research]] in [[New York]].[^1][^2]
+Kurt Riezler (February 11, 1882 to September 5, 1955) was a German diplomat, political adviser and philosopher of history. He served as secretary and adviser to Chancellor [[Theobald von Bethmann Hollweg]] during the First World War, headed the Russian section of the German legation in [[Stockholm]] in 1917, acted as head of the German mission in [[Moscow]] after the murder of Count [[Wilhelm von Mirbach-Harff]] in 1918, and after emigrating in 1938 taught at the [[New School for Social Research]] in [[New York City|New York]].[^1][^2]
 
 ### Adviser to the Chancellor
 

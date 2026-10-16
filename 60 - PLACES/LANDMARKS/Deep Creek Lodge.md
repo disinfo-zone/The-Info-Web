@@ -21,7 +21,7 @@ After dinner on Thursday, November 19, Gottlieb produced a bottle of Cointreau a
 
 ### Olson's deterioration
 
-Back at home Olson told his wife he had made "a terrible mistake" and felt humiliated by his behavior at the retreat. On Monday he reported to Ruwet, said he wanted to resign, and questioned his own competence. Ruwet and Lashbrook took him to [[New York]] to see Dr. [[Harold Abramson]], an allergist with a CIA clearance who served as the Agency's informal LSD consultant. Olson's condition worsened over the following days: he became convinced people were waiting outside a theater to arrest him, wandered the Manhattan streets at night, tore up his money, and discarded his wallet. In the early morning of November 28, 1953, Olson went through the closed window of his tenth-floor room at the [[Statler Hotel]], with Lashbrook present in the room, falling to his death on the street below.[^1]
+Back at home Olson told his wife he had made "a terrible mistake" and felt humiliated by his behavior at the retreat. On Monday he reported to Ruwet, said he wanted to resign, and questioned his own competence. Ruwet and Lashbrook took him to [[New York City|New York]] to see Dr. [[Harold Abramson]], an allergist with a CIA clearance who served as the Agency's informal LSD consultant. Olson's condition worsened over the following days: he became convinced people were waiting outside a theater to arrest him, wandered the Manhattan streets at night, tore up his money, and discarded his wallet. In the early morning of November 28, 1953, Olson went through the closed window of his tenth-floor room at the [[Statler Hotel]], with Lashbrook present in the room, falling to his death on the street below.[^1]
 
 ### Public disclosure
 

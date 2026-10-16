@@ -6,7 +6,7 @@ tags:
   - USA
 category: "Private Organization"
 summary: "The Lockheed Aircraft Company is a U.S. aerospace manufacturer that built the U-2, named in Ari Ben-Menashe's account of a bribe in Israeli politics and in 1970s SEC disclosures of questionable overseas payments."
-updated: 2026-10-12
+updated: 2026-10-15
 start: 1926
 end: 1995
 location: "Burbank, California, USA"
@@ -36,9 +36,14 @@ The subcommittee's record also contains a statement by Representative [[Michael 
 
 The commission's May 12, 1976 report to the Senate Banking Committee on questionable and illegal corporate payments and practices summarized its enforcement action against Lockheed: it alleged secret payments of at least 25 million dollars to foreign government officials, at least 750,000 dollars deposited in a secret Swiss bank account, and over 200 million dollars disbursed to consultants and commission agents without adequate records.[^4]
 
+### Merger into Lockheed Martin
+
+The company combined with [[Martin Marietta Corporation]] on March 15, 1995 under the holding company [[Lockheed Martin]], which had been incorporated on August 29, 1994 for that purpose. On January 28, 1996 the company was merged into its parent together with its Lockheed Missiles and Space Company and Lockheed Sanders subsidiaries.[^5] The parent's annual report for 1995 describes the businesses of Lockheed Martin as "the businesses previously conducted by Lockheed and Martin Marietta and their respective subsidiaries."[^5]
+
 ### Footnotes
 
 [^1]: Hersh, Seymour M. _The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy_. Random House, 1991. Chapter 4.
 [^2]: Ben-Menashe, Ari. _Profits of War: Inside the Secret U.S.-Israeli Arms Network_. Sheridan Square Press, 1992 (TrineDay reprint, 2015). 
 [^3]: Unlawful Corporate Payments Act of 1977, Hearings on H.R. 3815 and H.R. 1602 before the Subcommittee on Consumer Protection and Finance of the Committee on Interstate and Foreign Commerce, House of Representatives, 95th Congress, 1st session, April 20 and 21, 1977 (Serial No. 95-11). Statement of Gordon Adams (beginning p. 26); statement of Rep. Michael J. Harrington (pp. 168-173). https://www.govinfo.gov/content/pkg/CHRG-95hhrg91391O/pdf/CHRG-95hhrg91391O.pdf
 [^4]: U.S. Securities and Exchange Commission, Report of the Securities and Exchange Commission on Questionable and Illegal Corporate Payments and Practices to the Senate Banking, Housing and Urban Affairs Committee, May 12, 1976, Securities Regulation and Law Report No. 353 (BNA), May 19, 1976, Special Supplement, Exhibit B (Lockheed Aircraft Corporation). https://sechistorical.org/wp-content/uploads/1976_0512_SECQuestionable.pdf
+[^5]: Lockheed Martin Corporation, Form 10-K405 for the fiscal year 1995, filed March 13, 1996, Item 1, https://www.sec.gov/Archives/edgar/data/936468/0000950109-96-001535.txt

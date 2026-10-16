@@ -24,7 +24,7 @@ relations:
     start: 2021-12-10
     fn: 1
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-15
 ---
 
 Annie Farmer is an American woman who was sixteen in 1996 when [[Jeffrey Epstein]] met her in [[New York City]], where her older sister [[Maria Farmer]] was working for him, and who was abused that year by Epstein and [[Ghislaine Maxwell]] at Epstein's ranch in [[New Mexico]]. She was the fourth and last accuser to testify for the government at Maxwell's 2021 trial in the [[United States District Court for the Southern District of New York|Southern District of New York]], and the only one of the four to testify under her own name; the others were identified as "Jane," "Kate," and "Carolyn." Her sister had reported Epstein and Maxwell to the [[Federal Bureau of Investigation]] in August 1996, the same year.[^1][^2]
@@ -43,7 +43,7 @@ The jury convicted Maxwell on December 29, 2021 of five of six counts, including
 
 ### The 1996 Reports
 
-In August 1996 Maria Farmer reported to the [[New York City Police Department|New York Police Department]]'s Sixth Precinct and then by telephone to the FBI that Epstein and Maxwell had sexually assaulted her, that she feared they had abused one of her minor sisters, and that Epstein and Maxwell had stolen nude images she had made of her two minor sisters for her artwork and carried them from [[Ohio]] to New York. According to Maria Farmer's 2025 lawsuit against the [[United States]], the FBI took no action, and federal agents did not interview her until 2006. The FBI's record of her 1996 report was released in December 2025 in the first wave of disclosures under the [[Epstein Files Transparency Act]].[^2][^4]
+In August 1996 Maria Farmer reported to the [[New York City Police Department|New York Police Department]]'s Sixth Precinct and then by telephone to the FBI that Epstein and Maxwell had sexually assaulted her, that she feared they had abused one of her minor sisters, and that Epstein and Maxwell had stolen nude images she had made of her two minor sisters for her artwork. According to Maria Farmer's 2025 lawsuit against the [[United States]], Epstein and Maxwell carried the images by airplane from [[Ohio]] to New York, the FBI took no action, and federal agents did not interview her until 2006. The FBI's record of her 1996 report was released in December 2025 in the first wave of disclosures under the [[Epstein Files Transparency Act]].[^2][^4]
 
 ### Footnotes
 

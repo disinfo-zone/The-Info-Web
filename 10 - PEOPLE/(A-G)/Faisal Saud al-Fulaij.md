@@ -31,7 +31,7 @@ relations:
     start: 1992-07-29
     fn: 2
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 Faisal Saud al-Fulaij was a Kuwaiti businessman who acted as a nominee for the [[Bank of Credit and Commerce International]] (BCCI) in its secret acquisition of [[Financial General Bankshares]], later [[First American Bank|First American]], through the holding company [[Credit and Commerce American Holdings]] (CCAH). He was one of the four "persons of substance" named in the January 1978 memorandum of the BCCI officer [[Abdus Sami]], testified before the [[Federal Reserve Board|Federal Reserve]] in April 1981, and in July 1992 was indicted in New York with [[Clark Clifford]], [[Robert Altman]], [[Agha Hasan Abedi]], [[Swaleh Naqvi]] and [[Ghaith R. Pharaon]].[^1][^2]
@@ -46,7 +46,7 @@ At the Federal Reserve hearing of April 23, 1981, Fulaij followed [[Kamal Adham]
 
 The Federal Reserve found in 1991 that Adham, Fulaij, [[A. R. (Abdul Raouf) Khalil|Khalil]] and the other Middle Eastern nominees "had secretly done precisely what the Federal Reserve had sought to assure they would not do." After the acquisition BCCI added capital to First American partly through loans to its nominees Fulaij, Khalil and Shorafa, and in later planning for the purchase of the Eagle Bank in Florida, Naqvi and BCCI's New York manager [[Abdur Sakhia]] discussed using Fulaij as the nominee in place of Pharaon, in Altman's presence.[^1][^5][^6]
 
-The Senate report also recorded that the [[Central Intelligence Agency|CIA]] did not tell the Federal Reserve that Adham and Fulaij had been the subjects of a [[Securities and Exchange Commission]] inquiry under the [[Foreign Corrupt Practices Act]] into arms sales to [[Saudi Arabia]] by [[Boeing]] and [[Lockheed Corporation|Lockheed]].[^7]
+The Senate report also recorded that the [[Central Intelligence Agency|CIA]] did not tell the Federal Reserve that Adham and Fulaij had been the subjects of a [[Securities and Exchange Commission]] inquiry under the [[Foreign Corrupt Practices Act]] into arms sales to [[Saudi Arabia]] by [[Boeing]] and [[Lockheed Aircraft Company|Lockheed]].[^7]
 
 ### Indictment
 

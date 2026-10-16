@@ -11,7 +11,7 @@ location: San Francisco, California
 created: 2026-06-03
 updated: 2026-06-03
 ---
-CIA safehouses were apartments maintained by the [[CIA]] under the [[MKULTRA]] program for the purpose of testing drugs on unwitting subjects. The primary safehouses were operated by [[George White]], a [[Federal Bureau of Narcotics]] agent recruited by [[Sidney Gottlieb]] in 1952. White became MKULTRA subproject #3, renting two adjacent [[Greenwich Village]] apartments in [[New York]] under the cover identity "Morgan Hall." After the Narcotics Bureau transferred White to [[San Francisco]] in 1955, he established a new safehouse on [[Telegraph Hill]] with a view of [[San Francisco Bay]], the [[Golden Gate Bridge]], and [[Alcatraz]], furnished with Toulouse-Lautrec posters, a picture of a French cancan dancer, and photos of manacled women.[^1]
+CIA safehouses were apartments maintained by the [[CIA]] under the [[MKULTRA]] program for the purpose of testing drugs on unwitting subjects. The primary safehouses were operated by [[George White]], a [[Federal Bureau of Narcotics]] agent recruited by [[Sidney Gottlieb]] in 1952. White became MKULTRA subproject #3, renting two adjacent [[Greenwich Village]] apartments in [[New York City|New York]] under the cover identity "Morgan Hall." After the Narcotics Bureau transferred White to [[San Francisco]] in 1955, he established a new safehouse on [[Telegraph Hill]] with a view of [[San Francisco Bay]], the [[Golden Gate Bridge]], and [[Alcatraz]], furnished with Toulouse-Lautrec posters, a picture of a French cancan dancer, and photos of manacled women.[^1]
 
 ### Surveillance Equipment
 

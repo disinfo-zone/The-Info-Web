@@ -15,7 +15,7 @@ summary: "Municipal police force of Philadelphia, created by the Act of Consolid
 start: 1854
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-15
 relations:
   - type: head_of
     with: "[[Frank Rizzo]]"
@@ -36,14 +36,14 @@ relations:
     role: "police commissioner"
     start: 2020-02
     end: 2023-09-22
-    fn: 8
+    fn: 9
   - type: head_of
     with: "[[John M. Stanford Jr.]]"
     reverse: true
     role: "interim police commissioner"
     start: 2023-09-22
     end: 2024-01-02
-    fn: 9
+    fn: 10
   - type: investigated
     with: "[[Olney House Investigation]]"
     start: 2026-06-19
@@ -51,7 +51,7 @@ relations:
   - type: investigated
     with: "[[Eugene Horsch]]"
     start: 2013
-    fn: 12
+    fn: 13
 ---
 
 The Philadelphia Police Department is the municipal police force of [[Philadelphia]]. It was created by the Act of Consolidation of 1854, which united the city and county under a single government. Since June 2026 it has conducted, with the [[Federal Bureau of Investigation|FBI]], the [[Olney House Investigation]] into women connected to the house of the pornographer [[R.C. Horsch]] and his son [[Eugene Horsch]] on West Chew Avenue.[^1][^2]
@@ -74,21 +74,23 @@ In 1978 police surrounded the [[Powelton Village]] base of the group [[MOVE]] to
 
 Commissioner [[Gregore J. Sambor]], a military veteran, had been ordered by Goode to prepare the tactical plan and delegated it to three officers. The plan called for tear gas to be fired into the house and for "a satchel of explosives" to be dropped on a rooftop bunker; Sambor admitted that he "had no backup plan if the tear gas didn't work." When the fire started he allowed it to burn. The MOVE Commission found that the three officers had prepared the plan "hastily and without sufficient information or adequate intelligence." Sambor retired six months later, and gave no interviews afterward except when compelled to testify in a federal case in 1996. "I was told any possibility for injury or death inside the bunker was minimal," he said.[^5]
 
+The Philadelphia Special Investigation Commission found that Sambor chose as planners the head of the Bomb Disposal Unit, a sergeant from the pistol range and a uniformed patrolman, excluding the command structure of the department, and that no written plan was sought or received. The commission found that police fired more than 10,000 rounds in under 90 minutes, that the Police Commissioner and the Fire Commissioner decided between 6:08 and 6:12 P.M. to let the bunker burn, and that the deaths of the five children "appear to be unjustified homicides which should be investigated by a grand jury." Its Finding 21 records that in January 1985 an agent of the Federal Bureau of Investigation's Philadelphia office delivered nearly 38 pounds of C-4 to the police bomb squad, that neither agency kept a record of the transaction, and that FBI officials "unwittingly furnished the Commission with inaccurate and untruthful accounts" of the bureau's involvement.[^6]
+
 In the [[39th District]] scandal, officers were accused of "systematically robbing, beating, and framing suspects in drug cases"; ten were imprisoned and about four million dollars was paid in settlements. In March 2015 the [[Department of Justice|Justice Department]] criticized the department for a "lack of transparency" in use-of-force cases.[^1]
 
 ### Commissioners Since 2008
 
-[[Charles H. Ramsey]], a former chief of police of [[Washington, D.C.]], was appointed by Mayor [[Michael Nutter]] and was commissioner from January 2008 to January 2016; he promoted [[Kevin Bethel]] to deputy commissioner for patrol operations in 2009.[^6][^7] [[Danielle Outlaw]], who had become chief of police in [[Portland, Oregon]], in 2017, was sworn in in February 2020 as the first Black woman to lead the department. She left on September 22, 2023, to become a deputy security chief at the [[Port Authority of New York and New Jersey]], and her top deputy, [[John M. Stanford Jr.]], was named interim commissioner.[^8] Mayor [[Jim Kenney]] appointed Stanford on September 22, 2023, and named [[Frank Vanore]], who had joined the department in 1990, interim first deputy commissioner.[^9] Bethel, who had joined the force in 1986 and retired in 2016, was sworn in as commissioner on January 2, 2024.[^7]
+[[Charles H. Ramsey]], a former chief of police of [[Washington, D.C.]], was appointed by Mayor [[Michael Nutter]] and was commissioner from January 2008 to January 2016; he promoted [[Kevin Bethel]] to deputy commissioner for patrol operations in 2009.[^7][^8] [[Danielle Outlaw]], who had become chief of police in [[Portland, Oregon]], in 2017, was sworn in in February 2020 as the first Black woman to lead the department. She left on September 22, 2023, to become a deputy security chief at the [[Port Authority of New York and New Jersey]], and her top deputy, [[John M. Stanford Jr.]], was named interim commissioner.[^9] Mayor [[Jim Kenney]] appointed Stanford on September 22, 2023, and named [[Frank Vanore]], who had joined the department in 1990, interim first deputy commissioner.[^10] Bethel, who had joined the force in 1986 and retired in 2016, was sworn in as commissioner on January 2, 2024.[^8]
 
 ### Narcotics Bureau and the Nordo Cases
 
-An Internal Affairs report of August 2018 found that, from a meeting in May 2017 called by Inspector [[Raymond Evers]] and Chief Inspector Anthony Boyle, the Narcotics Bureau had developed a practice of running low-level arrestees as informants off the books, falsifying paperwork and withholding information from the [[Philadelphia District Attorney's Office]].[^10] The former homicide detective [[Philip Nordo]], dismissed in 2017, was convicted on June 1, 2022, of rape, sexual assault, stalking, and other offenses, and the district attorney's Conviction Integrity Unit reviewed about 62 homicide convictions in which he had been involved.[^11]
+An Internal Affairs report of August 2018 found that, from a meeting in May 2017 called by Inspector [[Raymond Evers]] and Chief Inspector Anthony Boyle, the Narcotics Bureau had developed a practice of running low-level arrestees as informants off the books, falsifying paperwork and withholding information from the [[Philadelphia District Attorney's Office]].[^11] The former homicide detective [[Philip Nordo]], dismissed in 2017, was convicted on June 1, 2022, of rape, sexual assault, stalking, and other offenses, and the district attorney's Conviction Integrity Unit reviewed about 62 homicide convictions in which he had been involved.[^12]
 
 ### The Horsch Cases
 
-In 2013 the department found about 1.9 million dollars' worth of marijuana in the house on West Chew Avenue in [[Olney, Philadelphia|Olney]], and Eugene Horsch was sentenced to four to eight years. After a fire at the house on May 18, 2025, a fire marshal and a patrolman discovered a marijuana grow and three firearms with destroyed serial numbers.[^12][^13] In December 2014 an assistant United States attorney, [[Elizabeth F. Abrams]], prosecuted a felon-in-possession case investigated by the FBI and the department.[^14]
+In 2013 the department found about 1.9 million dollars' worth of marijuana in the house on West Chew Avenue in [[Olney, Philadelphia|Olney]], and Eugene Horsch was sentenced to four to eight years. After a fire at the house on May 18, 2025, a fire marshal and a patrolman discovered a marijuana grow and three firearms with destroyed serial numbers.[^13][^14] In December 2014 an assistant United States attorney, [[Elizabeth F. Abrams]], prosecuted a felon-in-possession case investigated by the FBI and the department.[^15]
 
-Commissioner Bethel, Deputy Commissioner Vanore, and Special Agent in Charge [[Wayne Jacobs]] of the FBI's Philadelphia Field Office said at a briefing on September 16, 2026, that five women shown in material recovered from the house appeared to be dead; on August 12 Inspector Evers had identified [[Gabrielle Amarando]] and [[Maribel Fresses]] as two of them.[^2][^10]
+Commissioner Bethel, Deputy Commissioner Vanore, and Special Agent in Charge [[Wayne Jacobs]] of the FBI's Philadelphia Field Office said at a briefing on September 16, 2026, that five women shown in material recovered from the house appeared to be dead; on August 12 Inspector Evers had identified [[Gabrielle Amarando]] and [[Maribel Fresses]] as two of them.[^2][^11]
 
 ### Footnotes
 
@@ -97,12 +99,13 @@ Commissioner Bethel, Deputy Commissioner Vanore, and Special Agent in Charge [[W
 [^3]: Finkel, Ken. "The Rise of Rizzo," PhillyHistory Blog, City of Philadelphia Department of Records, September 10, 2018. https://blog.phillyhistory.org/index.php/2018/09/the-rise-of-rizzo/
 [^4]: "Police to Inspect Building: Cinema 16 Shut Down In License Dispute; Owner Is 'Confused'," *The Philadelphia Inquirer,* October 30, 1969, p. 19. https://www.newspapers.com/image/169186622/
 [^5]: Gambacorta, David. "Gregore J. Sambor, police commissioner," *Philadelphia Daily News,* May 6, 2010. https://www.inquirer.com/philly/news/special_packages/dailynews/20100506_Gregore_J__Sambor__police_commissioner.html
-[^6]: "Philadelphia Police Commissioner Charles Ramsey, Former D.C. Police Chief, Announces Retirement," *NBC4 Washington,* October 2015; Center for Evidence-Based Crime Policy, George Mason University, "Charles H. Ramsey." https://www.nbcwashington.com/news/local/philadelphia-police-commissioner-charles-ramsey-announces-retirement/69043/ ; https://cebcp.org/hall-of-fame/charles-ramsey/
-[^7]: "Kevin J. Bethel sworn in as Philadelphia's newest police commissioner," *The Philadelphia Inquirer,* January 2, 2024, and "Kevin Bethel, Philly's new police commissioner, has a 'strong and direct' style," *The Philadelphia Inquirer,* November 22, 2023. https://www.inquirer.com/crime/kevin-bethel-philadelphia-police-commissioner-sworn-in-20240102.html
-[^8]: Palmer, Chris, Anna Orso, and Oona Goodin-Smith. "Danielle Outlaw, Philadelphia Police Commissioner, resigns for a job at Port Authority of New York and New Jersey," *The Philadelphia Inquirer,* September 5, 2023. https://www.inquirer.com/crime/danielle-outlaw-philadephia-police-commissioner-resigns-replacement-20230905.html
-[^9]: Office of the Mayor, City of Philadelphia, "Mayor Jim Kenney Appoints John M. Stanford, Jr. as Interim Police Commissioner for the Philadelphia Police Department, Frank Vanore as Interim 1st Deputy Commissioner," September 22, 2023. https://www.phila.gov/2023-09-22-mayor-jim-kenney-appoints-john-m-stanford-jr-as-interim-police-commissioner-for-the-philadelphia-police-department-frank-vanore-as-interim-1st-deputy-commissioner/
-[^10]: "Report: Philly narcotics cops faked paperwork to hide informants. Hundreds of cases may be challenged," *The Philadelphia Inquirer,* January 13, 2019; Rushing, Ellie, Barbara Laker, Max Marin, and Ryan W. Briggs. "'I knew she was gone': Police say at least two missing women likely killed inside Olney home linked to violent pornography," *The Philadelphia Inquirer,* August 12, 2026. https://www.inquirer.com/news/philadelphia-police-narcotics-drugs-informants-practices-raymond-evers-anthony-boyle-20190113.html ; https://www.inquirer.com/news/eugene-horsch-murder-missing-women-20260812.html
-[^11]: Office of the Philadelphia District Attorney, "Former Homicide Detective Philip Nordo Accused of Sexual Assault, Theft Found Guilty on All Counts," press release, June 1, 2022. https://phillyda.org/news/former-homicide-detective-philip-nordo-accused-of-sexual-assault-theft-found-guilty-on-all-counts/
-[^12]: "Five takeaways from Philly missing women mystery connected to Raymond and Eugene Horsch," *The Philadelphia Inquirer,* August 4, 2026. https://www.inquirer.com/news/raymond-eugene-horsch-olney-missing-women-20260804.html
-[^13]: Marin, Max, Ryan W. Briggs, Ellie Rushing, and Barbara Laker. "Police searched Olney home last summer, but drugs, not missing women, were the focus," *The Philadelphia Inquirer,* July 1, 2026. https://www.inquirer.com/news/eugene-raymond-horsch-olney-home-search-guns-drugs-20260701.html
-[^14]: United States Attorney's Office, Eastern District of Pennsylvania, "Man Charged With Possession Of A Firearm By A Convicted Felon," press release, December 16, 2014, archived. https://web.archive.org/web/20260524074237/https://www.justice.gov/usao-edpa/pr/man-charged-possession-firearm-convicted-felon
+[^6]: Philadelphia Special Investigation Commission, *The Findings, Conclusions and Recommendations of the Philadelphia Special Investigation Commission* (Philadelphia, March 6, 1986), Findings 11, 12, 18, 21, 27 and 29, Special Collections Research Center, Temple University Libraries (published online by *The Philly Declaration*, May 13, 2015), https://phillydeclaration.org/2015/05/13/30-years-later-primary-sources-on-the-move-conflagration/.
+[^7]: "Philadelphia Police Commissioner Charles Ramsey, Former D.C. Police Chief, Announces Retirement," *NBC4 Washington,* October 2015; Center for Evidence-Based Crime Policy, George Mason University, "Charles H. Ramsey." https://www.nbcwashington.com/news/local/philadelphia-police-commissioner-charles-ramsey-announces-retirement/69043/ ; https://cebcp.org/hall-of-fame/charles-ramsey/
+[^8]: "Kevin J. Bethel sworn in as Philadelphia's newest police commissioner," *The Philadelphia Inquirer,* January 2, 2024, and "Kevin Bethel, Philly's new police commissioner, has a 'strong and direct' style," *The Philadelphia Inquirer,* November 22, 2023. https://www.inquirer.com/crime/kevin-bethel-philadelphia-police-commissioner-sworn-in-20240102.html
+[^9]: Palmer, Chris, Anna Orso, and Oona Goodin-Smith. "Danielle Outlaw, Philadelphia Police Commissioner, resigns for a job at Port Authority of New York and New Jersey," *The Philadelphia Inquirer,* September 5, 2023. https://www.inquirer.com/crime/danielle-outlaw-philadephia-police-commissioner-resigns-replacement-20230905.html
+[^10]: Office of the Mayor, City of Philadelphia, "Mayor Jim Kenney Appoints John M. Stanford, Jr. as Interim Police Commissioner for the Philadelphia Police Department, Frank Vanore as Interim 1st Deputy Commissioner," September 22, 2023. https://www.phila.gov/2023-09-22-mayor-jim-kenney-appoints-john-m-stanford-jr-as-interim-police-commissioner-for-the-philadelphia-police-department-frank-vanore-as-interim-1st-deputy-commissioner/
+[^11]: "Report: Philly narcotics cops faked paperwork to hide informants. Hundreds of cases may be challenged," *The Philadelphia Inquirer,* January 13, 2019; Rushing, Ellie, Barbara Laker, Max Marin, and Ryan W. Briggs. "'I knew she was gone': Police say at least two missing women likely killed inside Olney home linked to violent pornography," *The Philadelphia Inquirer,* August 12, 2026. https://www.inquirer.com/news/philadelphia-police-narcotics-drugs-informants-practices-raymond-evers-anthony-boyle-20190113.html ; https://www.inquirer.com/news/eugene-horsch-murder-missing-women-20260812.html
+[^12]: Office of the Philadelphia District Attorney, "Former Homicide Detective Philip Nordo Accused of Sexual Assault, Theft Found Guilty on All Counts," press release, June 1, 2022. https://phillyda.org/news/former-homicide-detective-philip-nordo-accused-of-sexual-assault-theft-found-guilty-on-all-counts/
+[^13]: "Five takeaways from Philly missing women mystery connected to Raymond and Eugene Horsch," *The Philadelphia Inquirer,* August 4, 2026. https://www.inquirer.com/news/raymond-eugene-horsch-olney-missing-women-20260804.html
+[^14]: Marin, Max, Ryan W. Briggs, Ellie Rushing, and Barbara Laker. "Police searched Olney home last summer, but drugs, not missing women, were the focus," *The Philadelphia Inquirer,* July 1, 2026. https://www.inquirer.com/news/eugene-raymond-horsch-olney-home-search-guns-drugs-20260701.html
+[^15]: United States Attorney's Office, Eastern District of Pennsylvania, "Man Charged With Possession Of A Firearm By A Convicted Felon," press release, December 16, 2014, archived. https://web.archive.org/web/20260524074237/https://www.justice.gov/usao-edpa/pr/man-charged-possession-firearm-convicted-felon

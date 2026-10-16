@@ -3,7 +3,7 @@ title: Jack Blum
 aliases:
   - Jack Blum
 created: 2026-05-17
-updated: 2026-10-14
+updated: 2026-10-15
 category: "Law Enforcement & Legal"
 tags:
   - Person
@@ -24,7 +24,7 @@ Jack Blum is a former Senate investigator and special counsel to [[Senator John 
 
 Blum began his career in Washington in 1965 after graduating from Columbia Law School, working as an investigator for Senator [[Phil Hart]]'s antitrust subcommittee. His work gained the attention of Senator [[J. W. Fulbright]], who moved him to the [[Senate Foreign Relations Committee]]. By the mid-1970s, Blum had established himself as a counsel to Senator [[Frank Church]]'s subcommittee on multinational corporations.[^1]
 
-His investigations during this period were far-reaching, contributing to the downfall of a Japanese government and the imprisonment of Japanese Prime Minister [[Kakuei Tanaka]] due to the [[Lockheed payoff scandals]]. He also played a key role in exposing [[ITT]]'s improper activities in [[Chile]], identifying [[Robert Vesco]] and the $3-billion global [[IOS (Investors' Overseas Services)|Ponzi scheme]] as central figures, and was a driving force behind the creation of the [[Foreign Corrupt Practices Act]]. Notably, his questioning led to the indictment of former [[Central Intelligence Agency]] Director [[Richard Helms]] for perjury.[^1]
+His investigations during this period were far-reaching, contributing to the downfall of a Japanese government and the imprisonment of Japanese Prime Minister [[Kakuei Tanaka]] due to the [[Lockheed bribe scandal|Lockheed payoff scandals]]. He also played a key role in exposing [[ITT]]'s improper activities in [[Chile]], identifying [[Robert Vesco]] and the $3-billion global [[IOS (Investors' Overseas Services)|Ponzi scheme]] as central figures, and was a driving force behind the creation of the [[Foreign Corrupt Practices Act]]. Notably, his questioning led to the indictment of former [[Central Intelligence Agency]] Director [[Richard Helms]] for perjury.[^1]
 
 ### Kerry Committee and Contra Drug Trafficking
 

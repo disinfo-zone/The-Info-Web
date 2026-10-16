@@ -30,7 +30,7 @@ The stated purpose of providing this information was to enable ISIS to plan and 
 
 ### Case Number and Court
 
-The case was filed in the [[Southern District of New York]] as United States v. Melzer, 1:20-cr-00314-GHW. The presiding judge was [[U.S. District Judge Gregory H. Woods]], an Obama appointee. The prosecution was handled by the SDNY [[National Security Unit]].[^3]
+The case was filed in the [[U.S. District Court for the Southern District of New York|Southern District of New York]] as United States v. Melzer, 1:20-cr-00314-GHW. The presiding judge was [[U.S. District Judge Gregory H. Woods]], an Obama appointee. The prosecution was handled by the SDNY [[National Security Unit]].[^3]
 
 ### Charges in the Superseding Indictment
 

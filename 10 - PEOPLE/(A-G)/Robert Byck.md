@@ -4,7 +4,7 @@ aliases:
   - Robert Byck
   - Dr. Robert Byck
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-15
 category: "Medicine & Psychology"
 tags:
   - Person
@@ -17,7 +17,11 @@ born: 1933-01-01
 died: 1999-08-09
 location: "Newark, New Jersey"
 ---
-Dr. Robert Byck was a [[Yale University]] cocaine expert who testified before Congress in 1979 to warn of an impending drug epidemic from smokable cocaine, seven years before the 1986 crack panic. His warnings were completely ignored.[^1]
+Dr. Robert Byck was a [[Yale University]] cocaine expert who testified before Congress in 1979 to warn of an impending drug epidemic from smokable cocaine, seven years before the 1986 crack panic. [[Gary Webb]] wrote that Byck's warnings were ignored.[^1]
+
+### The 1979 hearing
+
+Byck testified as a member of the Department of Pharmacology, [[Yale University]] School of Medicine, before the [[House Select Committee on Narcotics Abuse and Control]] at its hearings on cocaine published as *Cocaine: A Major Drug Issue of the Seventies*. He testified on Thursday, July 26, 1979, where the record also describes him as a professor of psychiatry and pharmacology at Yale who had just returned from an international conference on cocaine in Peru. He opened by stating that, as then used in the United States, cocaine was not dangerous in the usual sense. His prepared statement, printed in the volume, says that freebase smoking "can represent the same threat that the speed epidemics of the 1960's represented in their time," that there was "a danger of a drug abuse epidemic of cocaine because of a new route of administration rather than because of new properties of the drug" and, "The possibility is strong that this might occur. It is occurring in the countries of South America."[^2]
 
 ### 1979 Warning
 
@@ -34,3 +38,4 @@ Byck later criticized the 100-to-1 sentencing disparity between crack and powder
 ### Footnotes
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 15: "This thing is a tidal wave"
+[^2]: *Cocaine: A Major Drug Issue of the Seventies*, Hearings before the Select Committee on Narcotics Abuse and Control, House of Representatives, Ninety-sixth Congress, first session, July 24, 26 and October 10, 1979, testimony of Robert Byck, M.D. NCJ 65411. https://www.ojp.gov/pdffiles1/Digitization/65411NCJRS.pdf

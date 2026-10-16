@@ -24,7 +24,7 @@ relations:
     start: 1956-05
     fn: 3
   - type: employed_by
-    with: "[[Lockheed]]"
+    with: "[[Lockheed Aircraft Company]]"
     role: "U-2 test pilot"
     end: 1969-09
     fn: 20
@@ -67,7 +67,7 @@ relations:
     role: "father"
     fn: 17
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 Francis Gary Powers was an American pilot whose [[U-2 Spy Plane]] was shot down over the [[Soviet Union]] on May 1, 1960, leading to a major international incident. [[Seymour Hersh]] wrote that Powers and his colleagues continued intermittently to overfly the [[Middle East]], and were steadily back at work in the area in 1958, when the [[Central Intelligence Agency|CIA]]'s photo interpreters began seeing significant activity at an Israeli Air Force practice bombing range south of [[Beersheba]], which turned out to be the early signs of the [[Dimona]] nuclear reactor.[^1]
@@ -102,7 +102,7 @@ A memorandum for the record by the CIA's Legislative Counsel [[John S. Warner]] 
 
 After the return the CIA reconvened the Damage Assessment Team that had met for two months in the summer of 1960. In 1960 the team had concluded that Powers' knowledge was extensive and that he had probably revealed most of it. After two weeks of debriefing in February 1962 it found the damage much less than estimated.[^11] Dulles, who had left the directorship in November 1961, told Powers "We are proud of what you have done." The new Director, [[John McCone]], appointed a Board of Inquiry.[^11]
 
-The General Counsel, [[Lawrence Houston]], proposed the terms in a February 1962 memorandum to the Director. He wrote that the [[Department of Justice]] favored a retired federal judge as chairman, that the first choice was [[E. Barrett Prettyman]] and the second [[Harold R. Medina]], that he recommended Lieutenant General [[Harold R. Bull]] (retired) and [[John A. Bross]] as members, that no Air Force officer should sit in view of the efforts to disassociate the Air Force from the U-2 project, and that he himself would be counsel to the Board. The question put to the Board was whether Powers acted in accordance with the terms of his employment, his instructions and briefings, and his obligations as an American citizen from the start of the mission until his release.[^14] In the Board's hearing of February 22, Houston examined witnesses and entered as Exhibit 17 a cable of February 21 from [[Kelly Johnson]] of [[Lockheed]], who had spoken with Powers about the flight.[^15]
+The General Counsel, [[Lawrence Houston]], proposed the terms in a February 1962 memorandum to the Director. He wrote that the [[Department of Justice]] favored a retired federal judge as chairman, that the first choice was [[E. Barrett Prettyman]] and the second [[Harold R. Medina]], that he recommended Lieutenant General [[Harold R. Bull]] (retired) and [[John A. Bross]] as members, that no Air Force officer should sit in view of the efforts to disassociate the Air Force from the U-2 project, and that he himself would be counsel to the Board. The question put to the Board was whether Powers acted in accordance with the terms of his employment, his instructions and briefings, and his obligations as an American citizen from the start of the mission until his release.[^14] In the Board's hearing of February 22, Houston examined witnesses and entered as Exhibit 17 a cable of February 21 from [[Kelly Johnson]] of [[Lockheed Aircraft Company|Lockheed]], who had spoken with Powers about the flight.[^15]
 
 The Board reported on February 27, 1962, that Powers had acted in accordance with his instructions and obligations and recommended that he receive his back pay. The findings rested on the testimony of debriefing experts, a review of his background by doctors, psychiatrists, former Air Force colleagues and his commander at Adana, his own testimony, a polygraph examination he had volunteered to undergo, and analysis by Kelly Johnson of photographs of the wreckage. McCone remained skeptical and had the Air Force convene its own panel, which supported Johnson. He then relied on a report of the [[National Security Agency]] suggesting that Powers had descended to a lower altitude and turned back toward Sverdlovsk before being hit, and ordered the Board to reconvene on March 1. It adhered to its findings.[^11] On March 7, 1962, the [[NSA]] Deputy Director, [[Louis W. Tordella]], told Houston that he wished to place on the record that, contrary to Bross's statement in the transcript, it had not taken questioning and cross-examination to bring out the evidence contradicting the account, and that Bross's description of the NSA briefing as "very vehemently and very positively" presented was not accepted; Houston recorded the points to be filed with the transcript.[^16] [[David A. Foy]], reviewing a 2019 book by Powers' son in Studies in Intelligence, wrote that the Board authorized $52,500 in back pay.[^17]
 

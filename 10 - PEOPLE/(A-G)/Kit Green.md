@@ -7,7 +7,7 @@ aliases:
   - Christopher Canfield Green
   - Richard Kennett
 created: 2026-05-17
-updated: 2026-10-05
+updated: 2026-10-15
 category: "Intelligence & Government"
 tags:
   - Person
@@ -122,7 +122,7 @@ His later General Motors positions, as listed in the CV, were director of resear
 
 The same CV lists Army and academy advisory service: member of the Army Science Board, 1985 to 1995; member of the National Research Council's Board on Army Science and Technology from 1988, with the CV giving chairmanships of the board as 1990 to 1999 in one entry and 1997 to 1999 in another; chairman of the Committee on Biotechnology in the Year 2020 (STAR/BAST), 1989 to 1992; chairman of an Independent Science Panel in the Office of the Undersecretary of the Army, Operations Research, from 1989; member of the Air Force Studies Board (1995 to 1997); member of the Institute of Medicine commission on Persian Gulf mystery illness (1998); and scientific advisor to the CIA's Directorate of Intelligence and to the Arms Control and Disarmament Agency. It also lists chairmanship of the Science Advisory Board of the [[National Institute for Discovery Science]] (1995 to 1999), membership of the Committee for Frontier Medicine of the [[Fetzer Institute]] (1995 to 1998), and, among current clients in 2007, the Department of Defense, the CIA, the Defense Intelligence Agency, General Motors, Ford, the Fetzer Institute, the [[Institute for Advanced Physics]], [[EarthTech International]] and the [[Potomac Institute for Policy Studies]].[^6]
 
-The report *STAR 21* (National Academy Press, 1992) of the Board on Army Science and Technology lists Green, of General Motors Research Labs, as lead expert of the Biotechnology and Biochemistry Technology Group, with Joseph F. Soukup of [[Science Applications International Corporation]], Bertram W. Maidment Jr. of the Midwest Research Institute and Gregory A. Petsko of [[Brandeis University]], and as one of the members of the Study Committee on STAR chaired by Walter B. LaBerge, formerly of [[Lockheed Corporation]].[^10]
+The report *STAR 21* (National Academy Press, 1992) of the Board on Army Science and Technology lists Green, of General Motors Research Labs, as lead expert of the Biotechnology and Biochemistry Technology Group, with Joseph F. Soukup of [[Science Applications International Corporation]], Bertram W. Maidment Jr. of the Midwest Research Institute and Gregory A. Petsko of [[Brandeis University]], and as one of the members of the Study Committee on STAR chaired by Walter B. LaBerge, formerly of [[Lockheed Aircraft Company|Lockheed Corporation]].[^10]
 
 ### UFO-Related Contacts, 1986 to 1997
 

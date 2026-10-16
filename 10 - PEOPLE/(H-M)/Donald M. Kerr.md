@@ -9,6 +9,21 @@ tags:
   - Israel
 summary: "Acting director of defense programs at the Department of Energy, identified by Hersh, Richelson and Weiss as head of the Nuclear Intelligence Panel review of the 1979 Vela satellite flash."
 relations:
+  - type: member_of
+    with: "[[Psychoenergetics Science Advisory Panel]]"
+    start: 1984-02
+    role: "member, Psychoenergetics Science Advisory Panel, listed as director of Los Alamos National Laboratory"
+    fn: 5
+  - type: employed_by
+    with: "[[Department of Energy]]"
+    start: 1979
+    end: 1980
+    role: "acting director of defense programs, according to the National Security Archive's account"
+    fn: 8
+  - type: employed_by
+    with: "[[Science Applications International Corporation]]"
+    role: "corporate executive vice president (listed in the fiscal 1995 Form 10-K)"
+    fn: 6
   - type: investigated
     with: "[[VELA Satellite]]"
     role: "identified by Richelson and Weiss as head of the Nuclear Intelligence Panel review of the event"
@@ -23,9 +38,15 @@ Donald M. Kerr, Jr. served in the [[Jimmy Carter|Carter]] administration as acti
 
 Donald M. Kerr was the director of [[Los Alamos National Laboratory]] in [[New Mexico]]. He was a member of the new science panel for the [[Stargate Project|Sun Streak]] program, which was established on January 31, 1986[^4].
 
+An SRI document of February 1984 describes a Psychoenergetics Science Advisory Panel "composed of Dr. Donald Kerr, Director, Los Alamos National Laboratory," with [[Fred Zachariasen]] and [[W. Ross Adey|Ross Adey]]. The document places Kerr as the Los Alamos director in that month.[^5] The Science Applications International Corporation Form 10-K for the fiscal year ended January 31, 1995 describes him as formerly president of [[EG&G]] and as its corporate executive vice president.[^6] The National Security Archive's narrative of the Vela incident describes the Nuclear Intelligence Panel as chaired by Donald Kerr, who had served in the Carter administration as acting director of defense programs at the Energy Department, while the committee memorandum of February 14, 1980 names Louis H. Roddis, Jr. as Panel Chairman.[^7][^8]
+
 ### Footnotes
 
 [^1]: Joint Atomic Energy Intelligence Committee, memorandum for the Director of Central Intelligence, "Judgments of the DCI's Nuclear Intelligence Panel on the 22 September 1979 Event," February 14, 1980, Secret. Document 6 in Richelson, Jeffrey T., ed., "The Vela Incident: Nuclear Test or Meteoroid?" National Security Archive Electronic Briefing Book No. 190, May 5, 2006, whose narrative names Kerr as chairman. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB190/06.pdf
 [^2]: Weiss, Leonard. "Flash from the Past: Why an Apparent Israeli Nuclear Test in 1979 Matters Today." Bulletin of the Atomic Scientists, September 8, 2015. https://thebulletin.org/2015/09/flash-from-the-past-why-an-apparent-israeli-nuclear-test-in-1979-matters-today/
 [^3]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 20.
 [^4]: Jacobsen, Annie. *Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis*. Little, Brown and Company, 2017.
+[^5]: SRI document on the Psychoenergetics Science Advisory Panel, February 1984, CIA-RDP96-00792R000600310001-7.
+[^6]: Science Applications International Corporation, Form 10-K, fiscal year ended January 31, 1995, executive officer listing.
+[^7]: Joint Atomic Energy Intelligence Committee, memorandum for the Director of Central Intelligence, February 14, 1980, "Judgments of the DCI's Nuclear Intelligence Panel on the 22 September 1979 Event," Secret, National Security Archive Electronic Briefing Book No. 190, doc. 6, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB190/06.pdf
+[^8]: Jeffrey T. Richelson, ed., "The Vela Incident: Nuclear Test or Meteoroid?" National Security Archive Electronic Briefing Book No. 190, May 5, 2006, narrative, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB190/index.htm

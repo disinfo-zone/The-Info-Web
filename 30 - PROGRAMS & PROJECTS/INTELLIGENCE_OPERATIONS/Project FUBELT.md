@@ -14,12 +14,12 @@ tags:
   - ReneSchneider
   - ChurchCommittee
   - CovertAction
-summary: "CIA operation ordered by President Nixon on September 15, 1970, to provoke a military coup before Salvador Allende could take office, in the course of which the agency armed and paid officers plotting to kidnap General Rene Schneider."
+summary: "CIA operation ordered by President Nixon on September 15, 1970, to provoke a military coup before Salvador Allende took office, in which the agency armed and paid officers plotting to kidnap General Rene Schneider."
 start: 1970-09-15
 end: 1970-10-24
 location: "Santiago, Chile"
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 Project FUBELT, known within the government as Track II, was the [[Central Intelligence Agency|CIA]]'s attempt between September 15 and October 24, 1970, to instigate a military coup in [[Chile]] to keep [[Salvador Allende]] from the presidency. President [[Richard Nixon]] ordered it to be run without the knowledge of the [[State Department]], the [[United States Department of Defense|Defense Department]], the ambassador in [[Santiago]], or the [[40 Committee]], which was simultaneously supervising a separate program of bribery and propaganda called Track I. The agency's contacts centered on officers who planned to abduct the army commander, General [[Rene Schneider]], who opposed a coup. Schneider was shot on October 22 and died on October 25. The [[Church Committee]] published the cable traffic in 1975.[^1]
@@ -54,7 +54,7 @@ Helms reviewed the operation on October 23. "It was agreed," the log states, "th
 
 A [[National Intelligence Estimate]] of August 1971 found that El Mercurio had kept its independence. The 40 Committee authorized 700,000 dollars for the paper on September 9, 1971, and a further 965,000 dollars on April 11, 1972. Covert spending in Chile between 1970 and the coup of September 11, 1973, came to eight million dollars. In November 1972 the agency learned that one of the business groups it funded had passed 2,800 dollars to striking truck owners against its rules, "rebuked the group but nevertheless passed it additional money the next month." The committee found no evidence of direct American involvement in the 1973 coup and recorded that the United States "remained in intelligence contact with the Chilean military, including officers who were participating in coup plotting." The [[President's Daily Brief]] of September 8, 1973, released in 2023, reported "no evidence of a coordinated tri-service coup plan."[^2][^6]
 
-Helms testified to the [[Senate Foreign Relations Committee]] about Chile and ITT on February 7 and March 6, 1973. He pleaded no contest in 1977 to two misdemeanor counts of failing to testify fully, was fined 2,000 dollars, and received a suspended sentence. On November 3, 1977, the [[Department of Justice|Justice Department]]'s [[Office of Legal Counsel]] concluded that the plea did not cost him his pension, because the hearings did not concern disloyalty. Schneider's family sued Kissinger, and the [[United States Court of Appeals for the District of Columbia Circuit|D.C. Circuit]] dismissed the suit in 2005 as a political question.[^7][^8]
+Helms testified to the [[Senate Foreign Relations Committee]] about Chile and ITT on February 7 and March 6, 1973. He pleaded no contest in 1977 to two misdemeanor counts of failing to testify fully, was fined 2,000 dollars, and received a suspended sentence. On November 3, 1977, the [[Department of Justice|Justice Department]]'s [[Office of Legal Counsel]] concluded that the plea did not cost him his pension, because the hearings did not concern disloyalty. Schneider's family sued Kissinger. The district court dismissed the suit on March 30, 2004, and the [[United States Court of Appeals for the District of Columbia Circuit|D.C. Circuit]] affirmed on June 28, 2005 on political question grounds.[^7][^8]
 
 ### Footnotes
 
@@ -65,4 +65,4 @@ Helms testified to the [[Senate Foreign Relations Committee]] about Chile and IT
 [^5]: Kornbluh, Peter, ed. "The CIA and Chile: Anatomy of an Assassination," National Security Archive Electronic Briefing Book No. 728, October 22, 2020. https://nsarchive.gwu.edu/briefing-book/chile/2020-10-22/cia-chile-anatomy-assassination ; "'Extreme Option: Overthrow Allende,'" National Security Archive, September 15, 2020. https://nsarchive.gwu.edu/briefing-book/chile/2020-09-15/extreme-option-overthrow-allende
 [^6]: Kornbluh, Peter, ed. "The Coup in Chile: CIA Releases Top Secret 9/11/1973 President's Daily Brief," National Security Archive Electronic Briefing Book No. 838, August 25, 2023. https://nsarchive.gwu.edu/briefing-book/chile/2023-08-25/coup-chile-cia-releases-top-secret-9111973-presidents-daily-brief
 [^7]: Department of Justice, Office of Legal Counsel, "Richard Helms' Eligibility Under 5 U.S.C. Section 8314 To Receive an Annuity or Retired Pay," Op. 77-62, November 3, 1977.
-[^8]: Schneider v. Kissinger, 412 F.3d 190 (D.C. Cir. 2005).
+[^8]: Schneider v. Kissinger, 412 F.3d 190 (D.C. Cir. 2005), https://cite.case.law/f3d/412/190/

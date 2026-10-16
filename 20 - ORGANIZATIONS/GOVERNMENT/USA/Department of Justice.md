@@ -25,7 +25,7 @@ start: 1870-07-01
 location: "Washington, D.C."
 ---
 
-The Department of Justice, established in 1870 under the Attorney General, contains the [[Federal Bureau of Investigation|FBI]], the [[DEA]], the [[Executive Office for United States Attorneys]] and the ninety-odd [[U.S. Attorney's office|United States Attorneys]], the Criminal, Civil and Civil Rights Divisions, the [[Office of Special Investigations]], the Office of Legal Counsel, the [[Office of Professional Responsibility]] and, until the Justice Assistance Act of 1984 replaced its statutory authority, the [[LEAA|Law Enforcement Assistance Administration]], whose grants funded the case-tracking software that became [[PROMIS]]. Its grant programs had ended in practice after fiscal 1980.[^1][^2][^3]
+The Department of Justice, established in 1870 under the Attorney General, contains the [[Federal Bureau of Investigation|FBI]], the [[DEA]], the [[Executive Office for United States Attorneys]] and the ninety-odd [[United States Attorney|United States Attorneys]], the Criminal, Civil and Civil Rights Divisions, the [[Office of Special Investigations]], the Office of Legal Counsel, the [[Office of Professional Responsibility]] and, until the Justice Assistance Act of 1984 replaced its statutory authority, the [[LEAA|Law Enforcement Assistance Administration]], whose grants funded the case-tracking software that became [[PROMIS]]. Its grant programs had ended in practice after fiscal 1980.[^1][^2][^3]
 
 ### INSLAW and PROMIS
 

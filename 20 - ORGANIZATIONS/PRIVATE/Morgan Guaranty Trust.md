@@ -130,7 +130,7 @@ The proxy statement for the annual meeting of April 12, 2000 nominated 15 direct
 
 ### Sumitomo Copper Litigation
 
-In August 1999 [[Sumitomo Corporation]] sued J.P. Morgan & Co. Incorporated, Morgan Guaranty Trust Company of New York "and a former J.P. Morgan employee" in the [[Southern District of New York]], alleging that from 1993 to 1996 Morgan had assisted a Sumitomo employee in copper trading.[^12]
+In August 1999 [[Sumitomo Corporation]] sued J.P. Morgan & Co. Incorporated, Morgan Guaranty Trust Company of New York "and a former J.P. Morgan employee" in the [[U.S. District Court for the Southern District of New York|Southern District of New York]], alleging that from 1993 to 1996 Morgan had assisted a Sumitomo employee in copper trading.[^12]
 
 ### The Chase Merger
 

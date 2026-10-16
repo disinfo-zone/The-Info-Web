@@ -1,6 +1,6 @@
 ---
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 title: Michael Whitney Straight
 aliases:
   - Michael Whitney Straight
@@ -107,7 +107,7 @@ Straight told the FBI that he entered Cambridge in the fall of 1934 and was domi
 
 Straight told the FBI that after Cornford's death became known, Blunt invited him to his rooms and suggested that Straight make a comparable sacrifice. Blunt asked him to give up Communist work in England and turn to the international field, and said the [[Communist International]] wanted a man at Morgan and Company to supply economic reports. Straight protested that he was not cut out to be a banker; about three weeks later Blunt told him that his protests had been rejected, and he sailed for the United States, where he wrote a further letter of protest to Blunt from the ship. Before he left, Blunt tore a small ink drawing of Straight's sweetheart in half and kept one piece. Straight could not recall whether an oral parole was also arranged. He told the FBI that he believed Burgess was the person directing Blunt, although Blunt declined to say so.[^6]
 
-In a 1981 telephone interview with [[United Press International]], Straight placed Blunt's approach in February 1937 and said: "Blunt tried to recruit me as a Soviet agent and have me return to United States and join the J.P. Morgan company." He added: "I flatly refused. I said I didn't want any part."[^7] [[The [[Washington, D.C.|Washington]] Post]] reported the same month that Blunt had tried to recruit him at Cambridge in 1937, and quoted him that "they" had decided to accelerate their timetable "because of the death of my closest friend."[^8] [[The Washington Star]] reported on March 28, 1981 that the approach came less than two weeks after Cornford's death and that Blunt wanted him to "infiltrate" Wall Street.[^9] In a January 1983 radio interview he described the instruction in nearly the same terms: "What they wanted me to do was not to go into government, but to go to Wall Street, go back to my father's old firm, J.P. Morgan & Company."[^10]
+In a 1981 telephone interview with [[United Press International]], Straight placed Blunt's approach in February 1937 and said: "Blunt tried to recruit me as a Soviet agent and have me return to United States and join the J.P. Morgan company." He added: "I flatly refused. I said I didn't want any part."[^7] [[Washington Post|The Washington Post]] reported the same month that Blunt had tried to recruit him at Cambridge in 1937, and quoted him that "they" had decided to accelerate their timetable "because of the death of my closest friend."[^8] [[The Washington Star]] reported on March 28, 1981 that the approach came less than two weeks after Cornford's death and that Blunt wanted him to "infiltrate" Wall Street.[^9] In a January 1983 radio interview he described the instruction in nearly the same terms: "What they wanted me to do was not to go into government, but to go to Wall Street, go back to my father's old firm, J.P. Morgan & Company."[^10]
 
 ### Contact with Michael Green
 

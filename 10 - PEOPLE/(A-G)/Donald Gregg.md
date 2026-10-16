@@ -4,7 +4,7 @@ aliases:
   - Donald Gregg
   - Donald Phinney Gregg
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-15
 category: "Intelligence & Government"
 tags:
   - Person
@@ -34,15 +34,15 @@ Gregg's most significant Iran-Contra connection was through [[Felix Rodriguez]] 
 
 Gregg testified before Congress that he had not known Rodriguez was involved in Contra resupply, stating that Rodriguez had briefed him on his activities but had not disclosed the specific Contra connection until after the Hasenfus shootdown. Congressional investigators questioned whether this was plausible given Rodriguez's documented communications with Gregg and a schedule notation in Gregg's files that appeared to reference a "resupply" operation. The discrepancy became a central issue in Gregg's Senate confirmation hearings for the Korea ambassadorship.[^1]
 
-The [[Senate Foreign Relations Committee]] confirmed Gregg's ambassadorial nomination in June 1989 after protracted hearings. Senator John Kerry, who was conducting a parallel investigation into Contra drug trafficking, had used the nomination hearings to press Gregg on his knowledge of Contra operations. Gregg maintained throughout that he had not known Rodriguez was running a covert supply network.[^1]
+The [[Senate Foreign Relations Committee]] acted on Gregg's ambassadorial nomination in June 1989 after protracted hearings, and the full Senate confirmed him on September 12, 1989, by 66 votes to 33.[^2] Senator John Kerry, who was conducting a parallel investigation into Contra drug trafficking, had used the nomination hearings to press Gregg on his knowledge of Contra operations. Gregg maintained throughout that he had not known Rodriguez was running a covert supply network.[^1]
 
 ### October Surprise Allegations
 
-Arms dealer and self-described CIA contractor [[Richard Brenneke]] claimed that Donald Gregg had attended the October 1980 Paris meetings at which Reagan campaign officials allegedly negotiated a delay in the Iranian hostage release. Brenneke submitted a sworn affidavit to this effect in a Denver federal court in February 1988, at the sentencing hearing of convicted bank fraudster Heinrich Rupp, another self-described CIA contractor who also claimed to have been at the Paris meetings.[^2]
+Arms dealer and self-described CIA contractor [[Richard Brenneke]] claimed that Donald Gregg had attended the October 1980 Paris meetings at which Reagan campaign officials allegedly negotiated a delay in the Iranian hostage release. Brenneke submitted a sworn affidavit to this effect in a Denver federal court in February 1988, at the sentencing hearing of convicted bank fraudster Heinrich Rupp, another self-described CIA contractor who also claimed to have been at the Paris meetings.[^3]
 
-Gregg denied any participation in or knowledge of October Surprise negotiations. The claim that Gregg attended the Paris meetings was one of five counts of perjury for which Brenneke was indicted in December 1989. Brenneke was acquitted of all five counts in August 1990 by a Denver jury, a result that his supporters characterized as vindicating his credibility and that the government characterized as insufficient to prove false statements rather than affirmative proof that Gregg had attended the meetings.[^2]
+Gregg denied any participation in or knowledge of October Surprise negotiations. The claim that Gregg attended the Paris meetings was one of five counts of perjury for which Brenneke was indicted in December 1989. Brenneke was acquitted of all five counts in August 1990 by a Denver jury, a result that his supporters characterized as vindicating his credibility and that the government characterized as insufficient to prove false statements rather than affirmative proof that Gregg had attended the meetings.[^3]
 
-The House October Surprise Task Force (1992-1993) found Brenneke "totally lacking in credibility" and cleared Gregg of the Paris allegation. The Task Force's conclusions have been contested on methodological grounds by Robert Parry and others who investigated the investigation's handling of evidence.[^2]
+The House October Surprise Task Force (1992-1993) found Brenneke "totally lacking in credibility" and cleared Gregg of the Paris allegation. The Task Force's conclusions have been contested on methodological grounds by Robert Parry and others who investigated the investigation's handling of evidence.[^3]
 
 ### South Korea Ambassadorship
 
@@ -51,4 +51,5 @@ Gregg served as Ambassador to the Republic of Korea from 1989 to 1993 under Pres
 ### Footnotes
 
 [^1]: Biographical Directory of the United States Congress, ambassadorial records; Clarridge, Duane R. *A Spy for All Seasons*. Scribner, 1997 (on CIA East Asia network context). Kerry-Brown Senate Report on Contra Drug Trafficking, 1989.
-[^2]: U.S. House of Representatives, October Surprise Task Force. *Joint Report of the Task Force to Investigate Certain Allegations Concerning the Holding of American Hostages by Iran in 1980*. 102nd Congress, 2nd Session, January 1993. Sick, Gary. *October Surprise: America's Hostages in Iran and the Election of Ronald Reagan*. Times Books, 1991, pp. 143-148.
+[^2]: U.S. Senate, Roll Call Vote 174, 101st Congress, 1st session, September 12, 1989, on the nomination of Donald Phinney Gregg to be Ambassador to the Republic of Korea: Nomination Confirmed, 66 yeas, 33 nays. https://www.senate.gov/legislative/LIS/roll_call_votes/vote1011/vote_101_1_00174.htm
+[^3]: U.S. House of Representatives, October Surprise Task Force. *Joint Report of the Task Force to Investigate Certain Allegations Concerning the Holding of American Hostages by Iran in 1980*. 102nd Congress, 2nd Session, January 1993. Sick, Gary. *October Surprise: America's Hostages in Iran and the Election of Ronald Reagan*. Times Books, 1991, pp. 143-148.

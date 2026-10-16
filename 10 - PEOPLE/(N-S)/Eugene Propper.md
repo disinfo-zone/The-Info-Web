@@ -34,7 +34,7 @@ relations:
     fn: 12
 ---
 
-Eugene M. Propper was the assistant [[United States Attorney]] in Washington assigned in September 1976 to the murder of [[Orlando Letelier]] and [[Ronni Moffitt]]. His deputy was [[E. Lawrence Barcella]], and the [[Federal Bureau of Investigation|FBI]] agents were [[Carter Cornick|C. Carter Cornick]] in Washington and [[Robert Scherrer]], the bureau's representative in [[Buenos Aires]].[^1]
+Eugene M. Propper was the assistant [[U.S. Attorney's office|United States Attorney]] in Washington assigned in September 1976 to the murder of [[Orlando Letelier]] and [[Ronni Moffitt]]. His deputy was [[E. Lawrence Barcella]], and the [[Federal Bureau of Investigation|FBI]] agents were [[Carter Cornick|C. Carter Cornick]] in Washington and [[Robert Scherrer]], the bureau's representative in [[Buenos Aires]].[^1]
 
 ### The Investigation
 

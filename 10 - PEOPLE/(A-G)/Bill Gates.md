@@ -33,7 +33,7 @@ relations:
     role: "chief science and technology adviser"
     fn: 4
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-15
 ---
 
 Bill Gates (William H. Gates III, born October 28, 1955, in [[Seattle]], [[Washington]]) is the co-founder of [[Microsoft]] and co-chair of the [[Gates Foundation]].[^1] Beginning in 2011, three years after [[Jeffrey Epstein]]'s Florida guilty plea, Gates met Epstein on numerous occasions, at least three times at Epstein's Manhattan townhouse.[^2] Epstein sought to bring Gates into a multibillion-dollar charitable fund he was trying to build with [[JPMorgan Chase]], and after Gates declined, Epstein wrote to him in 2017 in terms that implied knowledge of Gates's past relationship with a Russian bridge player whose training Epstein had paid for.[^3] Gates testified before the [[House Committee on Oversight and Government Reform|House Oversight Committee]] in June 2026 that the meetings were "a grave error in judgment."[^1]
@@ -72,6 +72,12 @@ Gates appeared voluntarily for a closed-door interview with the House Oversight 
 
 The committee's ranking member, [[Robert Garcia]], said Gates had known of the conviction and "continued to interact with him to seek money for his foundation," which he called "a horrific judgment call." Representative [[Raja Krishnamoorthi]] called Gates "combative" and "not terribly forthcoming or candid"; Representative [[Melanie Stansbury]] said Gates described a "narrow relationship" he regarded as "an acceptable means to access wealthy donors"; Representative [[Tim Burchett]] called the questioning "intense."[^1] Comer said afterward that he would ask [[Alan Dershowitz]] to testify and was in talks with the Justice Department about testimony from the acting attorney general, [[Todd Blanche]].[^1]
 
+### Microsoft Board Review
+
+In May 2021 Microsoft said that it had received a concern in the latter half of 2019 that Gates sought to initiate an intimate relationship with a company employee in the year 2000. "A committee of the Board reviewed the concern, aided by an outside law firm, to conduct a thorough investigation," the company said, and it did not reach a conclusion because Gates had stepped down from the board before the inquiry was completed.[^12] [[Dow Jones]] had reported that directors found the involvement inappropriate and decided he should leave the board, citing unnamed people familiar with the matter; a Gates spokeswoman said "There was an affair almost 20 years ago which ended amicably" and that his "decision to transition off the board was in no way related to this matter."[^12] Gates had announced in March 2020 that he was leaving the board to devote more time to philanthropy.[^12]
+
+In the same Bloomberg report, a spokeswoman for Gates said the "characterization of his meetings with Epstein and others about philanthropy is inaccurate," and a person familiar with the matter said Gates's dealings with Epstein "weren't a part of the scope of the Microsoft investigation," although "it was discussed by some board members."[^12] The *Times* had reported on October 12, 2019 that Gates met Epstein many times from 2011.[^2]
+
 ### Footnotes
 
 [^1]: "Gates testifies on Epstein: previous Fortune investigation reveals payments to his ex-girlfriend, $1M Microsoft deal." *Fortune,* June 10, 2026. https://fortune.com/2026/06/10/bill-gates-epstein-mistress-bankrolled-testifying-congress/
@@ -85,3 +91,4 @@ The committee's ranking member, [[Robert Garcia]], said Gates had known of the c
 [^9]: Farrow, Ronan. "How an Elite University Research Center Concealed Its Relationship with Jeffrey Epstein." *The New Yorker,* September 6, 2019. https://www.newyorker.com/news/news-desk/how-an-elite-university-research-center-concealed-its-relationship-with-jeffrey-epstein
 [^10]: Goodwin Procter LLP. *Report Concerning Jeffrey Epstein's Interactions with the Massachusetts Institute of Technology.* January 10, 2020. https://facultygovernance.mit.edu/sites/default/files/20200121GoodwinProcterReport.pdf
 [^11]: *Al Jazeera,* May 10, 2021, summarizing the *Wall Street Journal* on Melinda French Gates and Epstein. https://www.aljazeera.com/economy/2021/5/10/melinda-gates-discussed-divorcing-bill-over-epstein-ties-wsj
+[^12]: Bass, Dina and Ian King, "Microsoft investigated Bill Gates's involvement with an employee," *Bloomberg,* May 17, 2021, as published by *Al Jazeera.* https://www.aljazeera.com/economy/2021/5/17/bmicrosoft-investigated-bill-gatess-involvement-with-an-employee

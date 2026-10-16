@@ -51,7 +51,7 @@ Hunt also managed the political exile leadership, working to maintain cohesion a
 
 ### Bay of Pigs
 
-Hunt was assigned as the CIA's political officer for the Bay of Pigs invasion, responsible for the [[Cuban Revolutionary Council]] - the exile political organization that would form a provisional government after the expected overthrow of [[Fidel Castro]]. He worked with the exile leadership in [[Miami]] and later in [[New York]], managing their political expectations and organizational disputes.
+Hunt was assigned as the CIA's political officer for the Bay of Pigs invasion, responsible for the [[Cuban Revolutionary Council]] - the exile political organization that would form a provisional government after the expected overthrow of [[Fidel Castro]]. He worked with the exile leadership in [[Miami]] and later in [[New York City|New York]], managing their political expectations and organizational disputes.
 
 The Bay of Pigs was a catastrophic failure, and Hunt's political operation collapsed along with the military operation. The exile political leadership was not told the operation was under way until it had already failed, and Hunt's management of their expectations was blamed by exile leaders for contributing to the political disorder. His role in the operation was not publicly acknowledged.[^1]
 

@@ -18,7 +18,7 @@ born: 1922-10-19
 died: 2005-12-17
 location: "Long Beach, California"
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 relations:
   - type: employed_by
     with: "[[Drew Pearson]]"
@@ -120,11 +120,11 @@ On March 18, 1975 Anderson mentioned the [[Hughes Glomar Explorer]], the CIA sal
 
 ### FBI files and papers
 
-After Anderson's death, agents of the [[Federal Bureau of Investigation]] told his family that the Bureau wanted to review his files and to remove any documents it judged classified before they were opened to the public; the request became public in April 2006. The [[Federation of American Scientists]] reported the request.[^28] On April 20, 2006 an FBI assistant director, [[John Miller]], told NPR the bureau wanted access before the archive was made public. NPR reported that FBI agents had told the family that the papers included a document that could bear on a current espionage case involving pro-Israel lobbyists, and that 188 boxes were held by George Washington University.[^29]
+After Anderson's death, agents of the [[Federal Bureau of Investigation]] told his family that the Bureau wanted to review his files and to remove any documents it judged classified before they were opened to the public; the request became public in April 2006. The [[Federation of American Scientists]] reported the request.[^28] On April 20, 2006 an FBI assistant director, [[John Miller]], told NPR the bureau wanted access before the archive was made public. NPR reported that FBI agents had told the family that the papers included a document that could bear on a current espionage case involving pro-Israel lobbyists, and that 188 boxes were held by George Washington University.[^29] A student newspaper report of October 27, 2008 quotes the university's University Archivist, [[Sylvia Augusteijn]], as stating that the library had been working since April 2006 to categorize and re-file the documents in 186 boxes bequeathed by the Anderson family.[^30]
 
-When the [[Senate Judiciary Committee]] asked under what law the FBI was proceeding, the Bureau replied that it had abandoned its effort. The Associated Press reported that the revelation came in a letter dated November 30, 2006 from Acting Associate Attorney General [[James H. Clinger]] to Chairman [[Arlen Specter]], which stated: "At this time, the FBI is not seeking to reclaim any documents." The AP reported that Anderson's son and his biographer said agents had expressed interest in documents that would aid the government's case against two former lobbyists for the [[American Israel Public Affairs Committee]]. The family then arranged for the papers to go to George Washington University for archiving.[^30][^31][^32]
+When the [[Senate Judiciary Committee]] asked under what law the FBI was proceeding, the Bureau replied that it had abandoned its effort. The Associated Press reported that the revelation came in a letter dated November 30, 2006 from Acting Associate Attorney General [[James H. Clinger]] to Chairman [[Arlen Specter]], which stated: "At this time, the FBI is not seeking to reclaim any documents." The AP reported that Anderson's son and his biographer said agents had expressed interest in documents that would aid the government's case against two former lobbyists for the [[American Israel Public Affairs Committee]]. The family then arranged for the papers to go to George Washington University for archiving.[^31][^32][^33]
 
-In 2008 the FBI released its files on Anderson to the [[Associated Press]] under a Freedom of Information Act request, a collection of more than 2,000 heavily redacted documents tracing Hoover's attempts to catch the reporter. Feldstein planned to add the collection to the university's Anderson papers.[^33]
+In 2008 the FBI released its files on Anderson to the [[Associated Press]] under a Freedom of Information Act request, a collection of more than 2,000 heavily redacted documents tracing Hoover's attempts to catch the reporter. Feldstein planned to add the collection to the university's Anderson papers.[^30]
 
 ### Death
 
@@ -161,7 +161,7 @@ Anderson died at his home in [[Bethesda, Maryland]] on December 17, 2005, at the
 [^27]: National Security Archive, "The CIA's Declassified History of the Glomar Explorer," Electronic Briefing Book No. 305, February 12, 2010, introduction. https://nsarchive2.gwu.edu/nukevault/ebb305/index.htm
 [^28]: Steven Aftergood, "FBI Seeks Access to Jack Anderson Files," Federation of American Scientists, April 19, 2006. https://fas.org/publication/fbi_seeks_access_to_jack_ander
 [^29]: David Folkenflik, "FBI Defends Request for Columnist's Papers," NPR, *All Things Considered*, April 20, 2006. https://www.npr.org/transcripts/5353604
-[^30]: "FBI Abandons Its Effort to Obtain Jack Anderson's Files," Reporters Committee for Freedom of the Press, January 4, 2007. https://rcfp.org/?p=39395
-[^31]: "FBI Drops Demands For Jack Anderson Papers," Associated Press, January 4, 2007. https://cbsnews.com/news/fbi-drops-demands-for-jack-anderson-papers
-[^32]: Niketa Kumar, "FBI ends pursuit of GW housed Jack Anderson documents," *The GW Hatchet*, January 18, 2007. https://www.gwhatchet.com/2007/01/18/fbi-ends-pursuit-of-gw-housed-jack-anderson-documents/
-[^33]: Lauren French, "Gelman Library to receive FBI files on columnist Jack Anderson," *The GW Hatchet*, October 27, 2008. https://www.gwhatchet.com/2008/10/27/gelman-library-to-receive-fbi-files-on-columnist-jack-anderson/
+[^30]: Lauren French, "Gelman Library to receive FBI files on columnist Jack Anderson," *The GW Hatchet*, October 27, 2008. https://www.gwhatchet.com/2008/10/27/gelman-library-to-receive-fbi-files-on-columnist-jack-anderson/
+[^31]: "FBI Abandons Its Effort to Obtain Jack Anderson's Files," Reporters Committee for Freedom of the Press, January 4, 2007. https://rcfp.org/?p=39395
+[^32]: "FBI Drops Demands For Jack Anderson Papers," Associated Press, January 4, 2007. https://cbsnews.com/news/fbi-drops-demands-for-jack-anderson-papers
+[^33]: Niketa Kumar, "FBI ends pursuit of GW housed Jack Anderson documents," *The GW Hatchet*, January 18, 2007. https://www.gwhatchet.com/2007/01/18/fbi-ends-pursuit-of-gw-housed-jack-anderson-documents/

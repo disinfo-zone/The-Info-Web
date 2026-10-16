@@ -1,7 +1,7 @@
 ---
 category: "U.S. Government"
 created: 2024-04-26
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - Organization
   - PROMIS
@@ -20,9 +20,10 @@ The DC office became the first PROMIS site and served as the demonstration platf
 
 ### EOUSA Implementation Contract
 
-The [[Executive Office for United States Attorneys]] (EOUSA), which administers support for all 94 U.S. Attorneys' Offices, was the entity that signed the March 1982 implementation contract with INSLAW, Inc. for installation of PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. The execution of that contract, and EOUSA's subsequent conduct toward INSLAW, became the central dispute in the [[PROMIS Software Scandal|INSLAW affair]].[^1]
+The [[Executive Office for United States Attorneys]] (EOUSA), which administers support for the 93 U.S. Attorneys serving 94 judicial districts (one U.S. Attorney serves both Guam and the Northern Mariana Islands),[^3] was the entity that signed the March 1982 implementation contract with INSLAW, Inc. for installation of PROMIS in 20 large U.S. Attorneys' offices and word-processor systems in 74 smaller ones. The execution of that contract, and EOUSA's subsequent conduct toward INSLAW, became the central dispute in the [[PROMIS Software Scandal|INSLAW affair]].[^1]
 
 ### Footnotes
 
 [^1]: U.S. House of Representatives, Committee on the Judiciary. *The INSLAW Affair: Investigative Report.* House Report 102-857, 102nd Congress, 2nd Session, September 10, 1992.
 [^2]: Peat, Marwick, Mitchell & Co., *System Overview and Report Formats for PROMIS* (May 1971), prepared for the District of Columbia Government Office of Crime Analysis under LEAA Grant No. 70-DF-047, note 1 to the passage on the design team, NCJ 32469. https://www.ojp.gov/pdffiles1/Digitization/32469NCJRS.pdf
+[^3]: 28 U.S.C. 541, "United States attorneys" (one United States attorney for each judicial district, with a single attorney for Guam and the Northern Mariana Islands). https://www.law.cornell.edu/uscode/text/28/541

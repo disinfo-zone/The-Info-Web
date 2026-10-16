@@ -8,7 +8,7 @@ aliases:
   - Dick Bissell
   - Richard Bissell Jr.
 created: 2026-05-15
-updated: 2026-10-09
+updated: 2026-10-15
 category: "Intelligence & Government"
 tags:
   - Person
@@ -100,7 +100,7 @@ His first association with the agency came in late 1953 with a contract study of
 
 ### The U-2 and the Development Projects Staff
 
-On November 26, 1954 Dulles told Bissell that [[Dwight D. Eisenhower|Eisenhower]] had approved a secret program and that Bissell was to run it; on December 3 Bissell and Herbert Miller of the Office of Scientific Intelligence went to the Pentagon for the first interagency meeting. Dulles had no answer to the questions who would run the project or pay for it ("You'll have to work that out"). Bissell built a self-sufficient project staff, Project AQUATONE, with its own contracting, finance, logistics, communications and security personnel and funds kept separate from the agency's regular accounts, and reported directly to the DCI, though the Deputy Director of Central Intelligence, General [[Charles Pearre Cabell]], supervised its daily affairs. On April 29, 1955 he signed an agreement with the [[U.S. Air Force]] and, to keep work moving at [[Lockheed]], wrote Kelly Johnson's company an advance check. The first test flight was in August 1955.[^1]
+On November 26, 1954 Dulles told Bissell that [[Dwight D. Eisenhower|Eisenhower]] had approved a secret program and that Bissell was to run it; on December 3 Bissell and Herbert Miller of the Office of Scientific Intelligence went to the Pentagon for the first interagency meeting. Dulles had no answer to the questions who would run the project or pay for it ("You'll have to work that out"). Bissell built a self-sufficient project staff, Project AQUATONE, with its own contracting, finance, logistics, communications and security personnel and funds kept separate from the agency's regular accounts, and reported directly to the DCI, though the Deputy Director of Central Intelligence, General [[Charles Pearre Cabell]], supervised its daily affairs. On April 29, 1955 he signed an agreement with the [[U.S. Air Force]] and, to keep work moving at [[Lockheed Aircraft Company|Lockheed]], wrote Kelly Johnson's company an advance check. The first test flight was in August 1955.[^1]
 
 The first flights over the Soviet Union began on Wednesday, July 4, 1956 (a June 20, 1956 mission had covered Poland and East Germany). Bissell gave the "Go" decision at the project headquarters just before midnight Washington time on July 3. When Dulles asked on July 5 whether the overflights of Moscow and Leningrad had been wise the first time, Bissell replied: "Allen, the first is the safest." The program continued, with Bissell bringing maps of proposed routes to Eisenhower in the Oval Office, until [[Francis Gary Powers]] was shot down near Sverdlovsk on May 1, 1960; the Paris summit that opened on May 16 ended when Eisenhower refused [[Nikita Khrushchev]]'s demand for an apology.[^1]
 

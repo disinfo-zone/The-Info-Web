@@ -23,7 +23,7 @@ summary: "Jacques Vallée is a French-born computer scientist and ufologist whos
 born: 1939-09-24
 location: "Pontoise, France"
 created: 2025-08-05
-updated: 2026-10-12
+updated: 2026-10-15
 relations:
   - type: employed_by
     with: "[[Paris Observatory]]"
@@ -144,7 +144,7 @@ The report tested DACOS on 30 transcripts from a single 1987 experiment. "Overal
 
 ### The Secret Onion and the Wilson interview
 
-Vallée's journal entry of October 2, 2003, written in Austin, Texas, records that Puthoff met him at the airport and told him the thread began in the late 1980s with "a supposedly top-secret UFO study group for Army Intelligence started by John Alexander," which Vallée had heard of through Col. [[Ron Blackburn]] of [[Lockheed Corporation]] and which was nicknamed "the Secret Onion." Vallée places its advanced-physics meetings between May and August 1985 at the offices of the [[BDM Corporation]].[^23] The same entries describe a transcript of an April 1997 interview of Admiral [[Thomas R. Wilson]], then of the [[Defense Intelligence Agency]], by [[Eric Davis]] at EG&G in Las Vegas, in which, as Vallée summarizes it, Wilson searched the records of special access programs, found three programs related to UFOs and was referred to a fourth group. Vallée quotes the answer as "We're a reverse engineering program."[^23]
+Vallée's journal entry of October 2, 2003, written in Austin, Texas, records that Puthoff met him at the airport and told him the thread began in the late 1980s with "a supposedly top-secret UFO study group for Army Intelligence started by John Alexander," which Vallée had heard of through Col. [[Ron Blackburn]] of [[Lockheed Aircraft Company|Lockheed Corporation]] and which was nicknamed "the Secret Onion." Vallée places its advanced-physics meetings between May and August 1985 at the offices of the [[BDM Corporation]].[^23] The same entries describe a transcript of an April 1997 interview of Admiral [[Thomas R. Wilson]], then of the [[Defense Intelligence Agency]], by [[Eric Davis]] at EG&G in Las Vegas, in which, as Vallée summarizes it, Wilson searched the records of special access programs, found three programs related to UFOs and was referred to a fourth group. Vallée quotes the answer as "We're a reverse engineering program."[^23]
 
 ### The 1978 United Nations initiative
 

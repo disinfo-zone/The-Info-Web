@@ -8,7 +8,7 @@ tags:
   - ArmsTrade
 summary: "Middle Eastern state whose undeclared nuclear arsenal, intelligence operations in the United States, covert arms sales to Iran and Latin America, and surveillance-technology industry run through much of this vault."
 created: 2025-07-22
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 The State of [[Israel]] was established in 1948. Its intelligence services are the [[Mossad]] (foreign intelligence), [[Shin Bet]] (internal security) and military intelligence, [[Aman]], whose signals arm is [[Unit 8200]]; a fourth agency under the defense ministry, the Science Liaison Bureau, [[LAKAM]], collected technical information abroad until the [[Jonathan Pollard]] case of 1985.[^1][^2]
@@ -57,7 +57,7 @@ Unit 8200 is a recruiting ground of the Israeli private surveillance industry; v
 [^8]: Sick, Gary. *October Surprise: America's Hostages in Iran and the Election of Ronald Reagan.* Times Books, 1991.
 [^9]: Walsh, Lawrence E. *Final Report of the Independent Counsel for Iran/Contra Matters.* 1993.
 [^10]: "Probe by House finds no 'October surprise,'" *The Baltimore Sun,* January 13, 1993. https://www.baltimoresun.com/news/bs-xpm-1993-01-13-1993013111-story.html
-[^11]: "Ex-agent of the Mossad Implicated in Drug Deals with Panamanian," *Jewish Telegraphic Agency,* February 1988. https://www.jta.org/archive/ex-agent-of-the-mossad-implicated-in-drug-deals-with-panamanian
+[^11]: "Ex-agent of the Mossad Implicated in Drug Deals with Panamanian," *Jewish Telegraphic Agency,* April 14, 1988. https://www.jta.org/archive/ex-agent-of-the-mossad-implicated-in-drug-deals-with-panamanian
 [^12]: "Media Baron Sues Seymour Hersh," *The Washington Post,* October 25, 1991. https://www.washingtonpost.com/archive/lifestyle/1991/10/25/media-baron-sues-seymour-hersh/c16c29e2-04ba-4038-9fff-08113fa33b77/ ; "Maxwell, Colossus Even in Death, Laid to Rest on Mount of Olives," *Jewish Telegraphic Agency,* 1991. https://www.jta.org/archive/maxwell-colossus-even-in-death-laid-to-rest-on-mount-of-olives
 [^13]: "Where NSO Group Came From and Why It's Just the Tip of the Iceberg," OCCRP, The Pegasus Project. https://www.occrp.org/en/project/the-pegasus-project/where-nso-group-came-from-and-why-its-just-the-tip-of-the-iceberg
 [^14]: Ronen Bergman, "Weaving a cyber web," *Ynetnews*, January 11, 2019. https://www.ynetnews.com/articles/0,7340,L-5444998,00.html

@@ -25,7 +25,7 @@ created: 2026-09-25
 updated: 2026-09-25
 ---
 
-International Assets Group Inc. (I.A.G.) was the consulting company [[Jeffrey Epstein]] operated out of his apartment in [[New York]] after leaving [[Bear Stearns]] in 1981 and before forming [[J. Epstein & Co.]] Epstein described its business as recovering money stolen from wealthy clients or governments. It was the firm he represented when [[Steven Hoffenberg]] engaged him as a consultant to [[Towers Financial Corporation]] around 1987, and a 1987 Towers press release on the attempted takeover of [[Pan American World Airways|Pan Am]] identified Epstein as its chairman.[^1][^2][^3]
+International Assets Group Inc. (I.A.G.) was the consulting company [[Jeffrey Epstein]] operated out of his apartment in [[New York City|New York]] after leaving [[Bear Stearns]] in 1981 and before forming [[J. Epstein & Co.]] Epstein described its business as recovering money stolen from wealthy clients or governments. It was the firm he represented when [[Steven Hoffenberg]] engaged him as a consultant to [[Towers Financial Corporation]] around 1987, and a 1987 Towers press release on the attempted takeover of [[Pan American World Airways|Pan Am]] identified Epstein as its chairman.[^1][^2][^3]
 
 ### Name
 

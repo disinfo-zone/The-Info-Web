@@ -1,6 +1,6 @@
 ---
 created: 2025-03-05
-updated: 2026-10-09
+updated: 2026-10-15
 title: Atomic Energy Commission
 aliases:
   - Atomic Energy Commission
@@ -78,7 +78,7 @@ The same file of CIA press clippings contains the Washington Star and Washington
 
 ### Groom Lake
 
-In April 1955 [[Richard Bissell]] and Colonel [[Osmund Ritland]] of the [[Air Force]], with [[Lockheed]]'s [[Kelly Johnson]] and test pilot [[Tony LeVier]], spotted an airstrip at Groom Lake "near the northeast corner of the Atomic Energy Commission's Nevada Proving Ground." The CIA's official history of the U-2 program records that Bissell discovered the strip lay outside the proving ground and that the Agency asked the commission to add the Groom Lake area to its holdings; the partly legible passage refers to "AEC Chairman Adm.," and Lewis Strauss was McCone's predecessor as chairman.[^12] The strip became the site later known as [[Area 51]].
+In April 1955 [[Richard Bissell]] and Colonel [[Osmund Ritland]] of the [[Air Force]], with [[Lockheed Aircraft Company|Lockheed]]'s [[Kelly Johnson]] and test pilot [[Tony LeVier]], spotted an airstrip at Groom Lake "near the northeast corner of the Atomic Energy Commission's Nevada Proving Ground." The CIA's official history of the U-2 program records that Bissell discovered the strip lay outside the proving ground and that the Agency asked the commission to add the Groom Lake area to its holdings; the partly legible passage refers to "AEC Chairman Adm.," and Lewis Strauss was McCone's predecessor as chairman.[^12] The strip became the site later known as [[Area 51]].
 
 ### The Los Alamos conference on green fireballs
 

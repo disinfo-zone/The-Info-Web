@@ -5,7 +5,7 @@ aliases:
   - crack
   - rock cocaine
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-15
 category: "Drug Trafficking"
 tags:
   - Concept
@@ -69,7 +69,7 @@ The GAO concluded: "In the early 1980s the gangs began selling crack cocaine. Wi
 
 In May 1986, three years after crack exploded in South Central L.A., the national media finally noticed. NBC News, People magazine, and the [[Associated Press]] trumpeted the news within weeks of each other. The deaths of college basketball star Len Bias and pro football player Don Rogers in June 1986 converted crack into a national crisis. Before year's end, Time and Newsweek ran five cover stories apiece; Newsweek called it the biggest story since Vietnam and Watergate. [[Robert Stutman]], head of the DEA's New York office, later admitted he deliberately engineered the panic to pressure Washington.[^6]
 
-The coverage followed "a typical pattern in which exaggerated claims were supported by carefully selected cases and fueled with evocative words such as 'epidemic,'" drug researchers Andrew Golub and Donna Hartman found. The press assumed crack was new because editors had not previously reported on it. In reality, crack had been ravaging South Central since 1983, and Jamaican posses and Dominican gangs had been expanding east coast markets for eighteen months. Robert Byck, [[Yale University]]'s top cocaine expert, had warned Congress about the coming epidemic in 1979 and been ignored.[^6]
+The coverage followed "a typical pattern in which exaggerated claims were supported by carefully selected cases and fueled with evocative words such as 'epidemic,'" drug researchers Andrew Golub and Donna Hartman found. The press assumed crack was new because editors had not previously reported on it. In reality, crack had been ravaging South Central since 1983, and Jamaican posses and Dominican gangs had been expanding east coast markets for eighteen months. Robert Byck, [[Yale University]]'s top cocaine expert and a member of the Department of Pharmacology of the Yale University School of Medicine, testified on July 26, 1979 that freebase smoking could produce a drug epidemic of the kind the speed epidemics of the 1960s had produced, and that the danger lay in a new route of administration rather than in new properties of the drug.[^7] [[Gary Webb]] wrote that Byck's warnings were ignored.[^6]
 
 Congress passed the 100-to-1 sentencing ratio without hearings, requiring $50,000 worth of powder cocaine to trigger the same five-year mandatory sentence as $750 worth of crack. Byck called it "absolutely senseless," noting the number "50" came from his testimony about crack's relative addictiveness and "got doubled by people who wanted to get tough." Drug expert Steven Belenko observed the anti-crack crusade "occurred in the presence of a real vacuum of knowledge about the drug." The DEA's own August 1986 review found crack was "a secondary rather than primary problem in most areas" - findings that went virtually unreported. Crack hysteria declined only when the [[Iran-Contra Affair]] displaced it from the news.[^6]
 
@@ -81,3 +81,4 @@ Congress passed the 100-to-1 sentencing ratio without hearings, requiring $50,00
 [^4]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 8: "A million hits is not enough"
 [^5]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 10: "Teach a man a craft and he's liable to practice it"
 [^6]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 15: "This thing is a tidal wave"
+[^7]: *Cocaine: A Major Drug Issue of the Seventies*, Hearings before the Select Committee on Narcotics Abuse and Control, House of Representatives, Ninety-sixth Congress, first session, July 24, 26 and October 10, 1979, testimony of Robert Byck, M.D. NCJ 65411. https://www.ojp.gov/pdffiles1/Digitization/65411NCJRS.pdf
