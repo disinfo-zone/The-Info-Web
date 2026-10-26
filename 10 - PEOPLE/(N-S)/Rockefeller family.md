@@ -37,7 +37,7 @@ relations:
     start: 1955-03-10
     fn: 9
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-26
 ---
 
 The Rockefeller family's fortune came from [[Standard Oil]]. In 1870 [[John D. Rockefeller]] and his associates formed the Standard Oil Company (Ohio), with the largest refining capacity of any firm in the world; in 1882 the Standard Oil Trust took in Standard Oil of New Jersey and Standard Oil of New York, with headquarters at 26 Broadway in New York; after a Supreme Court decision in 1911 it was broken up into 34 companies.[^1] The Court's opinion of May 15, 1911 names "The Standard Oil Company of New Jersey and thirty-three other corporations" as appellants, together with John D. Rockefeller, William Rockefeller and five other individual defendants, and affirmed the decree with directions to modify it.[^2] The family's philanthropies followed: the [[General Education Board]], the [[Rockefeller Sanitary Commission]] and, chartered in 1913, the [[Rockefeller Foundation]], which by the 1920s owned stock in thirteen oil companies and nine pipelines. When [[Charles Evans Hughes]], a Standard Oil counsel and Foundation trustee, became secretary of state, the British Foreign Office complained that "Washington officials begin to think, talk, and write like Standard Oil officials."[^3]
@@ -50,7 +50,12 @@ Nelson, a director of Standard Oil of New Jersey's Venezuelan subsidiary, Creole
 
 The Foundation paid for the founding in 1943 of the [[Allan Memorial Institute]] in Montreal, where [[D. Ewen Cameron]] later conducted the depatterning experiments funded under [[Project MKUltra|MKULTRA]].[^12] David founded the Council of the Americas in 1963 and in 1973, with [[Zbigniew Brzezinski]], the [[Trilateral Commission]].[^5]
 
+### Skull and Bones
+
+[[Percy Avery Rockefeller]] is listed under the class of 1900 in the index of members that [[Antony C. Sutton]] reproduces.[^13] Sutton's chart of the society's families lists the Rockefeller family among the new-wealth families, beside the Payne family, under Standard Oil.[^14] In 1977 [[Ron Rosenbaum]] wrote in [[Esquire]] that [[J. Richardson Dilworth]], "the Bonesman who now manages the Rockefeller fortune," could be asked how wealthy the society is.[^15]
+
 ### Footnotes
+
 [^1]: ExxonMobil, "Our History," corporate history timeline, entries for 1870, 1882 and the 1911 dissolution. https://corporate.exxonmobil.com/company/who-we-are/our-history
 [^2]: *Standard Oil Co. of New Jersey v. United States*, 221 U.S. 1 (decided May 15, 1911), opening paragraph and concluding part of the opinion of Chief Justice White. https://www.law.cornell.edu/supremecourt/text/221/1
 [^3]: Colby, Gerard, and Charlotte Dennett. *Thy Will Be Done: The Conquest of the Amazon.* HarperCollins, 1995, chs. 2-3.
@@ -63,3 +68,6 @@ The Foundation paid for the founding in 1943 of the [[Allan Memorial Institute]]
 [^10]: Colby and Dennett, Introduction (2017) and ch. 23, as cited on the Henry A. Kissinger page.
 [^11]: Executive Order 11828, January 4, 1975.
 [^12]: Marks, John. *The Search for the Manchurian Candidate: The CIA and Mind Control.* Times Books, 1979, ch. 8.
+[^13]: Antony C. Sutton, *America's Secret Establishment: An Introduction to the Order of Skull & Bones* (1983), index of members by class year, class of 1900 (Rockefeller, Percy Avery). https://archive.org/details/americas_secret_establishment-skull_and_bones
+[^14]: Sutton, *America's Secret Establishment* (1983), chart "Hypothesis Number One," new-wealth families. https://archive.org/details/americas_secret_establishment-skull_and_bones
+[^15]: Ron Rosenbaum, "The Last Secrets of Skull and Bones," *Esquire*, September 1977. https://archive.org/details/print-article-the-last-secrets-of-skull-and-bones-esquire-september-1977

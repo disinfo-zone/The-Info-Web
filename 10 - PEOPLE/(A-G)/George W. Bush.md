@@ -18,7 +18,7 @@ aliases:
   - "George Walker Bush"
 summary: "George W. Bush was the 43rd President of the United States from 2001 to 2009; his administration launched the Iraq invasion, authorized the CIA detention and interrogation program and the NSA's Stellar Wind surveillance program."
 created: 2026-05-15
-updated: 2026-10-07
+updated: 2026-10-26
 born: 1946-07-06
 location: "New Haven, Connecticut"
 relations:
@@ -107,6 +107,8 @@ The [[Carlyle Group]] co-founder [[David Rubenstein]] addressed the Los Angeles 
 
 Bush was a member of [[Skull and Bones]], the Yale senior society. Leslie wrote in Salon in March 2000 that "Bush, on the other hand, joined Bones."[^3] Leslie reported that [[Bill Minutaglio]], in his biography *First Son*, recorded that Bush considered joining a society called "Gin and Tonic" but was swayed when his father, then a congressman, conducted the tapping ritual himself.[^3] Leslie wrote that the elder Bush's membership in Bones "probably was the sole reason George W. was chosen," a view he presented as his own.[^3]
 
+The 1971 membership catalogue, which [[Antony C. Sutton]] reproduces, lists George Walker Bush under the class of 1968, with his service as a lieutenant and pilot in the United States Air Force from June 1968 to June 1970.[^38]
+
 ### September 11 and the August 6, 2001 briefing
 
 The September 11, 2001 attacks were carried out by hijackers of [[al-Qaeda]]. On August 6, 2001, Bush received a [[President's Daily Brief]] item titled "Bin Ladin Determined To Strike in US." The [[National Commission on Terrorist Attacks Upon the United States]] reported that it was the 36th item briefed that year relating to Bin Ladin or al Qaeda, and "the first devoted to the possibility of an attack in the United States." The Commission wrote: "The President told us the August 6 report was historical in nature."[^18]
@@ -149,6 +151,8 @@ The Senate Select Committee on Intelligence's second report, on whether public s
 
 Mark Danner wrote in 2006 that the memorandum of a July 2002 meeting with [[Tony Blair]] recorded the head of British intelligence, "C," reporting on his Washington visit, and that Washington was engaged in a campaign to see to it that "the intelligence and facts" would be "fixed around the policy."[^36] The memorandum, dated July 23, 2002 and written by [[Matthew Rycroft]], was first published by [[The Sunday Times]] on May 1, 2005 and records: "Bush wanted to remove Saddam, through military action, justified by the conjunction of terrorism and WMD. But the intelligence and facts were being fixed around the policy."[^37]
 
+### Footnotes
+
 [^1]: White House, "Biography of President George W. Bush" (archived, georgewbush-whitehouse.archives.gov). Sworn in January 20, 2001 and January 20, 2005; 46th Governor of Texas; born July 6, 1946, in New Haven; bachelor's degree in history from Yale University in 1968; F-102 fighter pilot in the Texas Air National Guard; Master of Business Administration from Harvard Business School in 1975; moved back to Midland to begin a career in the energy business; assembled the partners who bought the Texas Rangers in 1989; elected Governor of Texas on November 8, 1994 and re-elected on November 3, 1998. https://georgewbush-whitehouse.archives.gov/president/biography.html
 [^2]: Biography.com, "George W. Bush." Eldest son of George H.W. and Barbara Bush, presidency, Yale enrollment in 1964, Delta Kappa Epsilon presidency, Texas Air National Guard enlistment in 1968, Air Force Reserve discharge on November 21, 1974. https://www.biography.com/us-president/george-w-bush
 [^3]: Jacques Leslie, "Yale," Salon, March 1, 2000. Leslie identifies himself as a member of the Yale Class of 1968 who was asked to join Skull and Bones, and cites Bill Minutaglio's biography *First Son* for the account of Bush's tapping. https://www.salon.com/2000/03/01/yale/
@@ -186,3 +190,4 @@ Mark Danner wrote in 2006 that the memorandum of a July 2002 meeting with [[Tony
 [^35]: Congressional Record, Senate, June 5, 2008, pp. S5133-S5135 (Sen. Rockefeller on prewar Iraq intelligence). https://irp.fas.org/congress/2008_cr/rock060508.html
 [^36]: Mark Danner, "The Secret Way to War," *The New York Review of Books*, April 6, 2006. https://www.nybooks.com/articles/2006/04/06/the-secret-way-to-war/
 [^37]: Matthew Rycroft to David Manning, "Iraq: Prime Minister's meeting, 23 July," as published in "The secret Downing Street memo," *The Sunday Times*, May 1, 2005 (archived copy). https://web.archive.org/web/2005id_/http://www.timesonline.co.uk/article/0,,2087-1593607,00.html
+[^38]: Antony C. Sutton, *America's Secret Establishment: An Introduction to the Order of Skull & Bones* (1983), 1971 membership catalogue entry "BUSH, 1968" (George Walker Bush, Armed Services), and index of members by class year, class of 1968. https://archive.org/details/americas_secret_establishment-skull_and_bones

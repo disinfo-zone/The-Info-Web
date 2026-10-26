@@ -3,7 +3,7 @@ title: Nicaragua
 aliases:
   - Nicaragua
 created: 2026-05-17
-updated: 2026-09-22
+updated: 2026-10-26
 category: "Country"
 tags:
   - Geography
@@ -16,6 +16,10 @@ summary: "Central American nation ruled by the Somoza family dictatorship for fo
 location: "Central America"
 ---
 Nicaragua is a [[Central America|Central American]] nation that was ruled by the [[Anastasio Somoza|Somoza]] family dictatorship for forty-six years until the [[Sandinistas|Sandinista]] revolution in July 1979.[^1] The country became the focal point of the Contra war and the [[Dark Alliance]] drug trafficking network.[^2]
+
+### Customs Loans, 1911 to 1912
+
+[[Brown Brothers Harriman|Brown Brothers & Co.]] and J. & W. Seligman & Co. made a temporary loan of $1,500,000 to the Republic under an agreement of September 1, 1911, nominated [[Clifford D. Ham]] as Collector General of Customs, and on August 2, 1912 wrote the Secretary of State that the entire capital stock of the National Bank of Nicaragua was pledged to them and that "the Bank is under our management and control."[^3] A 1914 Senate Committee on Foreign Relations hearing printed a list of five agreements between the Republic and the two houses, the National Bank of Nicaragua, the Ferrocarril del Pacifico de Nicaragua and the United States Mortgage and Trust Company.[^4] James Brown, senior partner of Brown Brothers & Co., signed 1912 Nicaraguan banknotes as "Presidente" of the Banco Nacional de Nicaragua; Thatcher M. Brown wrote that the loans were paid off, principal and interest, in 1924.[^5]
 
 ### Somoza Era
 
@@ -39,3 +43,6 @@ The journalist Gary Webb described Norwin Meneses as the [[Cali Drug Cartel|Cali
 
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Chapter 1: "A Pretty secret kind of thing"
 [^2]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Prologue: "It was like they didn't want to know"
+[^3]: *Foreign Relations of the United States, 1912*, Nicaragua, documents 1482 and 1512. https://history.state.gov/historicaldocuments/frus1912/d1482 and https://history.state.gov/historicaldocuments/frus1912/d1512
+[^4]: *Convention between the United States and Nicaragua*, Senate Committee on Foreign Relations, 63d Cong., 2d sess. (1914). https://archive.org/details/conventionbetwee00unitrich
+[^5]: John A. Kouwenhoven, *Partners in Banking* (Doubleday, 1968), pp. 189 to 190. https://archive.org/details/partnersinbankinganhistoricalportraitofagreatprivateb
