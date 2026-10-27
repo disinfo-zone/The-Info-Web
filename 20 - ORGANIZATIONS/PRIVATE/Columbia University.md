@@ -1,6 +1,6 @@
 ---
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-26
 title: Columbia University
 aliases:
   - Columbia
@@ -81,6 +81,12 @@ relations:
     start: 1947
     end: 1949
     fn: 13
+  - type: employed_by
+    with: "[[Donald Barr]]"
+    reverse: true
+    end: 1964
+    role: "instructor in English, then assistant to the dean and assistant dean, School of Engineering; director, Science Honors Program"
+    fn: 62
 ---
 
 Columbia University is a private research university in [[New York City]]. It was founded in 1754 as King's College by royal charter of King George II, took the name Columbia in 1784, and moved to its [[Morningside Heights]] campus in 1897.[^1] Its laboratories, institutes, clinicians and graduates recur in the documented record of the [[Manhattan Project]], CIA-sponsored behavioral research, Army-contracted drug testing, Cold War area studies, parapsychology and the analysis staff of the wartime [[Foreign Broadcast Intelligence Service]].
@@ -154,6 +160,10 @@ Feinberg's work was carried into the parapsychology contracts of the [[Stanford 
 The [[Defense Intelligence Agency]] (DIA) listed Columbia among the "universities involved in courses, research, or degrees in parapsychology" in an August 7, 1984 report on psychoenergetics research. The exhibit places Columbia University beside [[Harvard University]], Princeton University and the University of Chicago.[^53] The Star Gate Scientific Oversight Committee roster lists [[Melvin Schwartz]], with a biography giving a Nobel Prize in Physics in 1988 and a Ph.D. from Columbia University in 1958 (physics).[^54]
 
 Irving Langmuir's colloquium on "pathological science," given at the Knolls Research Laboratory on December 18, 1953, was transcribed and edited for the CIA. The transcript records that on April 23, 1920 "Professor Bergen Davis from Columbia University" gave a colloquium in Langmuir's laboratory, and that Langmuir never published his own investigation of the Davis-Barnes effect.[^55] The psychologist [[Arthur Jensen]] received his Ph.D. from Columbia in 1956.[^56]
+
+### Science Honors Program and the School of Engineering
+
+The School of Engineering announced the Science Honors Program on June 10, 1958: sixty selected high-school students would attend Saturday classes taught by university faculty, under the Joint Program for Technical Education, funded since 1956 by the [[Hebrew Technical Institute]], which gave an additional $25,000. [[Donald Barr]] was director, and the advisory board included [[Margaret Mead]]. By September 1959 the program had 150 students after the [[Fund for the Advancement of Education]] matched the grant.[^60][^61] Barr taught English at Columbia after his OSS service, received a master's degree in 1950, and in 1955 was asked by the Engineering School to oversee its search for promising science students. He became assistant dean of the Engineering faculty in 1959 and from 1963 administered the [[National Science Foundation]]'s Cooperative College-School Program until he left for the [[Dalton School]] in 1964.[^62] An article by Barr, "Sex, Love, and Modern Education," appeared in [[Columbia College Today]] in fall 1967.[^63]
 
 ### The 1968 disturbances and the Institute for Defense Analyses
 
@@ -276,3 +286,11 @@ The fact-finding commission appointed to investigate the April and May 1968 dist
 [^58]: *Crisis at Columbia*, sections on the IDA affiliation and the March 27, 1968 IDA demonstration, and the Commission's appraisal of the IDA issue.
 
 [^59]: *Crisis at Columbia*, section "The Gymnasium in Morningside Park."
+
+[^60]: "College Science Courses for Gifted Secondary Pupils," *School and Society* 86, no. 2141 (November 22, 1958), p. 422. https://archive.org/details/sim_usa-today_1958-11-22_86_2141
+
+[^61]: Marjorie Oden, "Field Notes," *Consulting Engineer* 13, no. 3 (September 1959). https://archive.org/details/sim_consulting-engineer_1959-09_13_3
+
+[^62]: "Obituaries," *Columbia College Today,* May 2004. https://web.archive.org/web/20190905000723/https://www.college.columbia.edu/cct_archive/may04/obituaries1.html
+
+[^63]: Dalton School Archives, agent record "Barr, Donald." https://daltonarchives.libraryhost.com/agents/people/276

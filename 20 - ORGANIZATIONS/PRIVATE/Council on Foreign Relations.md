@@ -86,12 +86,12 @@ relations:
     reverse: true
     end: 2023-06-30
     role: "president, 1,868,393 dollars reportable compensation in the return for the year to June 2023"
-    fn: 33
+    fn: 35
   - type: head_of
     with: "[[David Rubenstein]]"
     reverse: true
     role: "chairman in the return for the year to June 2023"
-    fn: 33
+    fn: 35
   - type: funded
     with: "[[Bernard L. Schwartz]]"
     reverse: true
@@ -103,8 +103,22 @@ relations:
     reverse: true
     role: "director, term expiring 1987; Executive Committee; Vice Chairman of the Board"
     fn: 28
+  - type: director_of
+    with: "[[William P. Bundy]]"
+    reverse: true
+    start: 1964
+    end: 1972
+    role: "board of directors"
+    fn: 33
+  - type: employed_by
+    with: "[[William P. Bundy]]"
+    reverse: true
+    start: 1972
+    end: 1984
+    role: "editor of Foreign Affairs"
+    fn: 34
 created: 2026-10-01
-updated: 2026-10-09
+updated: 2026-10-26
 ---
 
 The Council on Foreign Relations is a New York membership organization that publishes [[Foreign Affairs]] and runs study groups, a meetings program for members, affiliated Committees on Foreign Relations in other cities and a corporate subscription program.
@@ -143,7 +157,7 @@ The fourth page of the November 1951 table lists corporations with officers who 
 
 ### Officers and committees in 1952
 
-For 1952 to 1953 the Council's officers were [[R. C. Leffingwell]] as chairman of the board, Allen W. Dulles as vice-chairman (on leave), [[Henry M. Wriston]] as president, David Rockefeller as vice-president, Frank Altschul as vice-president and secretary, [[Devereux C. Josephs]] as vice-president and treasurer, [[Walter H. Mallory]] as executive director (on leave) and George S. Franklin Jr. as acting executive director. The directors included [[W. Averell Harriman]], [[William A. M. Burden]], [[John W. Davis]], [[Grayson Kirk]], [[Lewis W. Douglas]], [[Thomas K. Finletter]], [[Whitney H. Shepardson]] and Taylor. Rockefeller chaired the Membership Committee; Dulles sat on the Committee on Studies with Wriston, Armstrong, Dean, Mosely and others; Armstrong edited Foreign Affairs, whose Editorial Advisory Board comprised [[George H. Blakeslee]], Davis, Dulles, [[Dwight D. Eisenhower]], [[George Kennan]], Langer, [[Charles H. McIlwain]], Seymour and Wriston.[^4]
+For 1952 to 1953 the Council's officers were [[R. C. Leffingwell]] as chairman of the board, Allen W. Dulles as vice-chairman (on leave), [[Henry M. Wriston]] as president, David Rockefeller as vice-president, Frank Altschul as vice-president and secretary, [[Devereux C. Josephs]] as vice-president and treasurer, [[Walter H. Mallory]] as executive director (on leave) and George S. Franklin Jr. as acting executive director. The directors included W. Averell Harriman, [[William A. M. Burden]], [[John W. Davis]], [[Grayson Kirk]], [[Lewis W. Douglas]], [[Thomas K. Finletter]], [[Whitney H. Shepardson]] and Taylor. Rockefeller chaired the Membership Committee; Dulles sat on the Committee on Studies with Wriston, Armstrong, Dean, Mosely and others; Armstrong edited Foreign Affairs, whose Editorial Advisory Board comprised [[George H. Blakeslee]], Davis, Dulles, [[Dwight D. Eisenhower]], [[George Kennan]], Langer, [[Charles H. McIlwain]], Seymour and Wriston.[^4]
 
 Membership stood at 927 on August 1, 1951 and 933 on August 1, 1952, in the classes resident (420 and 420), resident academic (164 and 167), junior (13 and 9), nonresident (160 and 160) and nonresident academic (170 and 177). The Committees on Foreign Relations held 191 meetings that year, and a grant from the Fund for Adult Education financed the reprinting of an article from Foreign Affairs nine times a year, with a discussion guide, for about 1,000 adult discussion groups.[^4]
 
@@ -199,17 +213,19 @@ Two months earlier, on January 9, 2002, [[Space Systems/Loral]] had signed a con
 
 Foreign Affairs published "The Sources of Soviet Conduct" in July 1947 over the signature "X," credited by the journal to George F. Kennan; the article called for "a long-term, patient but firm and vigilant containment of Russian expansive tendencies."[^32]
 
+William P. Bundy served on the Council's board of directors from 1964 to 1972.[^33] A 1972 press item reported that he would succeed Hamilton Fish Armstrong, who had edited the quarterly for 43 years, as editor of Foreign Affairs in the fall of 1972.[^34] The Princeton finding aid gives his editorship as 1972 to 1984.[^33] He also served as a trustee of the [[American Assembly]] from 1964 to 1984.[^33]
+
 ### Recent filings
 
-The Council's Form 990 for the year ended June 30, 2023 reports revenue of 106,930,600 dollars, expenses of 83,166,400 dollars and year-end assets of 719,707,600 dollars; the same series of returns on the [[ProPublica]] Nonprofit Explorer shows revenue of 59,633,100 dollars and assets of 438,237,900 dollars for the year to June 2011.[^2] The 2023 return lists contributions of 63,113,857 dollars, Foreign Affairs revenue of 11,709,500, individual membership revenue of 9,036,200 and corporate membership revenue of 1,103,843, with 711 employees and 34 voting members of the governing body. It describes the membership as "over 5,000," states that the members elect all voting directors, and gives the year of founding as 1921.[^33]
+The Council's Form 990 for the year ended June 30, 2023 reports revenue of 106,930,600 dollars, expenses of 83,166,400 dollars and year-end assets of 719,707,600 dollars; the same series of returns on the [[ProPublica]] Nonprofit Explorer shows revenue of 59,633,100 dollars and assets of 438,237,900 dollars for the year to June 2011.[^2] The 2023 return lists contributions of 63,113,857 dollars, Foreign Affairs revenue of 11,709,500, individual membership revenue of 9,036,200 and corporate membership revenue of 1,103,843, with 711 employees and 34 voting members of the governing body. It describes the membership as "over 5,000," states that the members elect all voting directors, and gives the year of founding as 1921.[^35]
 
-[[Richard Haass]] is shown as president through June 30, 2023 with reportable compensation of 1,868,393 dollars and 59,851 dollars of other compensation; [[Michael Froman]] is named as principal officer. Other reported compensation includes 524,534 dollars to the chief investment officer, [[Giovanna Ban]], 519,740 to the executive vice president and chief financial officer, Keith Olson, 459,793 to the director of studies, [[James M. Lindsay]], 330,419 to the editor of Foreign Affairs, [[Daniel Kurtz-Phelan]], and 280,205 to the distinguished fellow [[Martin Indyk]]. [[David Rubenstein]] is chairman, [[Blair Effron]] and [[Jami Miscik]] vice-chairmen, and the directors include [[Thad Allen]], [[Ashton B. Carter]] (through October 2022), [[Kenneth I. Chenault]], [[Laurence D. Fink]] (through June 30, 2023), [[Timothy F. Geithner]] (through June 30, 2023), [[James P. Gorman]], [[Stephen J. Hadley]], [[Jeh Johnson]], [[William H. McRaven]], [[Janet Napolitano]], [[Meghan O'Sullivan]], [[Ruth Porat]], [[Laurene Powell Jobs]], [[Frances F. Townsend]], [[Daniel H. Yergin]] and [[Fareed Zakaria]]. Schedule O reports business relationships between Haass and directors Effron, [[Stephen C. Freidheim]] and [[Nicholas Beim]]; between Rubenstein and Carter and Yergin; between Miscik and Gorman; and between directors [[James Manyika]] and Porat. Schedule I lists fellowship payments including 596,458 dollars for nine International Affairs Fellows, 288,750 dollars for four fellows in national security, 119,350 dollars for six in Japan, 100,000 dollars for one Edward R. Murrow press fellow and 80,000 dollars for one Stanton nuclear security fellow. The donor schedule is redacted in the public copy.[^33]
+[[Richard Haass]] is shown as president through June 30, 2023 with reportable compensation of 1,868,393 dollars and 59,851 dollars of other compensation; [[Michael Froman]] is named as principal officer. Other reported compensation includes 524,534 dollars to the chief investment officer, [[Giovanna Ban]], 519,740 to the executive vice president and chief financial officer, Keith Olson, 459,793 to the director of studies, [[James M. Lindsay]], 330,419 to the editor of Foreign Affairs, [[Daniel Kurtz-Phelan]], and 280,205 to the distinguished fellow [[Martin Indyk]]. [[David Rubenstein]] is chairman, [[Blair Effron]] and [[Jami Miscik]] vice-chairmen, and the directors include [[Thad Allen]], [[Ashton B. Carter]] (through October 2022), [[Kenneth I. Chenault]], [[Laurence D. Fink]] (through June 30, 2023), [[Timothy F. Geithner]] (through June 30, 2023), [[James P. Gorman]], [[Stephen J. Hadley]], [[Jeh Johnson]], [[William H. McRaven]], [[Janet Napolitano]], [[Meghan O'Sullivan]], [[Ruth Porat]], [[Laurene Powell Jobs]], [[Frances F. Townsend]], [[Daniel H. Yergin]] and [[Fareed Zakaria]]. Schedule O reports business relationships between Haass and directors Effron, [[Stephen C. Freidheim]] and [[Nicholas Beim]]; between Rubenstein and Carter and Yergin; between Miscik and Gorman; and between directors [[James Manyika]] and Porat. Schedule I lists fellowship payments including 596,458 dollars for nine International Affairs Fellows, 288,750 dollars for four fellows in national security, 119,350 dollars for six in Japan, 100,000 dollars for one Edward R. Murrow press fellow and 80,000 dollars for one Stanton nuclear security fellow. The donor schedule is redacted in the public copy.[^35]
 
-Five of the directors named in the 2023 return (Rubenstein, Manyika, O'Sullivan, Townsend and Yergin) are members of the North American group in the Trilateral Commission's list of September 6, 2024, on which five Council fellows also appear.[^34]
+Five of the directors named in the 2023 return (Rubenstein, Manyika, O'Sullivan, Townsend and Yergin) are members of the North American group in the Trilateral Commission's list of September 6, 2024, on which five Council fellows also appear.[^36]
 
 ### Jeffrey Epstein
 
-Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|Epstein Library]], one headed "Biographical Information of Jeffrey E. Epstein" and one "About Jeffrey E. Epstein," neither dated on its face, describe [[Jeffrey Epstein]] as "a former member of the Trilateral Commission and a former member of the Council on Foreign Relations." No Council membership roll appears in the documents examined.[^35] An exchange of November 8 and 15, 2010 between Epstein and the Council's director of events concerns travel and a weekend event.[^36]
+Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|Epstein Library]], one headed "Biographical Information of Jeffrey E. Epstein" and one "About Jeffrey E. Epstein," neither dated on its face, describe [[Jeffrey Epstein]] as "a former member of the Trilateral Commission and a former member of the Council on Foreign Relations." No Council membership roll appears in the documents examined.[^37] An exchange of November 8 and 15, 2010 between Epstein and the Council's director of events concerns travel and a weekend event.[^38]
 
 ### Footnotes
 
@@ -245,7 +261,9 @@ Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|E
 [^30]: U.S. Department of State, Bureau of Political-Military Affairs, Office of Defense Trade Controls, consent agreement with Space Systems/Loral, Inc., January 9, 2002, Exhibit 10.1 to Loral Space & Communications Ltd. Form 8-K, https://www.sec.gov/Archives/edgar/data/0001006269/000095012302000193/y56456ex10-1.txt
 [^31]: U.S. Department of State, Office of Defense Trade Controls, Draft Charging Letter to Space Systems/Loral, Inc. (undated), https://www.pmddtc.state.gov/sys_attachment.do?sys_id=032ef245db15df00d0a370131f96192b
 [^32]: "X" (George F. Kennan), "The Sources of Soviet Conduct," Foreign Affairs, vol. 25, no. 4, July 1947, https://www.foreignaffairs.com/articles/russian-federation/1947-07-01/sources-soviet-conduct
-[^33]: Internal Revenue Service, Form 990 of Council on Foreign Relations Inc for the year ended June 30, 2023 (tax year 2022), Parts I, III, VI, VII, VIII, Schedules B, I and O, IRS e-file XML object 202430169349300598, https://apps.irs.gov/pub/epostcard/990/xml/2024/2024_TEOS_XML_01A.zip (member 2024_TEOS_XML_01A/202430169349300598_public.xml)
-[^34]: The Trilateral Commission, membership list "Last updated September 6, 2024," North American Group, https://archive.org/details/tc-membership-list-sept-6-2024-1
-[^35]: Department of Justice, Epstein Library, "Biographical Information of Jeffrey E. Epstein," EFTA00725190, and "About Jeffrey E. Epstein," EFTA00725191, https://www.justice.gov/epstein/files/DataSet%209/EFTA00725190.pdf and https://www.justice.gov/epstein/files/DataSet%209/EFTA00725191.pdf
-[^36]: Department of Justice, Epstein Library, emails of November 8 and 15, 2010 between Jeffrey Epstein and the Council on Foreign Relations director of events, EFTA00751793, https://www.justice.gov/epstein/files/DataSet%209/EFTA00751793.pdf
+[^33]: William P. Bundy Papers (MC189), Biography/History, Princeton University Library, https://findingaids.library.upenn.edu/records/PRIN_MUDD_MC189
+[^34]: "William Bundy to Head Foreign Affairs Journal," press item, 1972, CIA Reading Room, CIA-RDP88-01314R000100540012-3, https://archive.org/details/cia-readingroom-document-cia-rdp88-01314r000100540012-3
+[^35]: Internal Revenue Service, Form 990 of Council on Foreign Relations Inc for the year ended June 30, 2023 (tax year 2022), Parts I, III, VI, VII, VIII, Schedules B, I and O, IRS e-file XML object 202430169349300598, https://apps.irs.gov/pub/epostcard/990/xml/2024/2024_TEOS_XML_01A.zip (member 2024_TEOS_XML_01A/202430169349300598_public.xml)
+[^36]: The Trilateral Commission, membership list "Last updated September 6, 2024," North American Group, https://archive.org/details/tc-membership-list-sept-6-2024-1
+[^37]: Department of Justice, Epstein Library, "Biographical Information of Jeffrey E. Epstein," EFTA00725190, and "About Jeffrey E. Epstein," EFTA00725191, https://www.justice.gov/epstein/files/DataSet%209/EFTA00725190.pdf and https://www.justice.gov/epstein/files/DataSet%209/EFTA00725191.pdf
+[^38]: Department of Justice, Epstein Library, emails of November 8 and 15, 2010 between Jeffrey Epstein and the Council on Foreign Relations director of events, EFTA00751793, https://www.justice.gov/epstein/files/DataSet%209/EFTA00751793.pdf

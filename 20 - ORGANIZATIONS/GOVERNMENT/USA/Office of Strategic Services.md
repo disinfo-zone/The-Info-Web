@@ -1,6 +1,6 @@
 ---
 created: 2025-07-23
-updated: 2026-10-09
+updated: 2026-10-26
 title: Office of Strategic Services
 aliases:
   - OSS
@@ -26,6 +26,11 @@ relations:
     role: "Divided the foreign information field under Executive Order 9182 and the June 13, 1942 military order"
     start: 1942-06-13
     fn: 1
+  - type: participant_in
+    with: "[[Donald Barr]]"
+    reverse: true
+    role: "Army service with the OSS in Washington and Europe; Research and Analysis Branch (brief), per the CIA review of his son's memoir"
+    fn: 15
 ---
 
 The Office of Strategic Services (OSS) was the United States wartime intelligence and covert operations agency established by a Military Order of June 13, 1942 that redesignated the Coordinator of Information's office and placed it under the Joint Chiefs of Staff, under the direction of General William J. "Wild Bill" Donovan, whom the order appointed Director of Strategic Services. It replaced the earlier Coordinator of Information (COI) office established July 11, 1941, and the order revoked the order of July 11, 1941.[^1] The OSS coordinated intelligence gathering, ran covert operations behind enemy lines, conducted psychological warfare, and analyzed foreign intelligence. President Truman dissolved it by Executive Order 9621 on September 20, 1945, effective October 1, 1945.[^2] Much of its personnel, methodology, and organizational culture transferred directly into the [[Central Intelligence Agency]], created by the [[National Security Act of 1947]].[^3]
@@ -68,6 +73,10 @@ The Foreign Nationalities Branch reported on the [[Mazzini Society]] and its riv
 
 The Office of Strategic Services considered the [[New School for Social Research]] "the best collection of German, left-leaning intellectuals in the United States." Over two hundred students who had studied at the school's University in Exile worked for the government during the war, and New School scholars were involved in more than twenty-five government-associated projects routed through [[Rockefeller Foundation]] intermediaries.[^12]
 
+### Personnel Files and Donald Barr
+
+[[Donald Barr]], a [[Columbia College]] graduate of 1941 who later became headmaster of the [[Dalton School]], "went into the Army and served with the Office of Strategic Services in Washington, D.C., and Europe."[^13][^14] The Center for the Study of Intelligence's review of his son [[William Barr]]'s 2022 memoir refers to the elder Barr's "brief service in the Research and Analysis Branch of the Office of Strategic Services during World War II."[^15] The [[National Archives and Records Administration|National Archives]] database of OSS personnel files (Record Group 226, Entry 224), dated December 23, 2010, lists a "Barr, Donald" with a T-5 serial number 36647447 and, on the following line, a Pfc serial number 39227927, in box 38. The database gives no middle initial, birthplace or unit, and records found do not establish whether either serial belongs to the Columbia graduate.[^16]
+
 ### Footnotes
 
 [^1]: Military Order, "Office of Strategic Services," June 13, 1942, Federal Register, June 16, 1942, 7 F.R. 4469-4470, paragraphs 1 to 5. https://www.govinfo.gov/content/pkg/FR-1942-06-16/pdf/FR-1942-06-16.pdf
@@ -82,3 +91,7 @@ The Office of Strategic Services considered the [[New School for Social Research
 [^10]: John D. Marks, *The Search for the Manchurian Candidate*. Times Books, 1979, Chapter 1.
 [^11]: CIA-RDP13X00001R000100180008-7, Office of Strategic Services, Foreign Nationalities Branch organization file (1942-43), "Confusion Among Liberal and Socialist Italian and Spanish Anti-Fascists in the United States (Summary of FNB Memo No. 111)," Secretariat memorandum to Colonel Donovan, March 27, 1943, PDF p. 154; memorandum No. 111, PDF pp. 157-159. https://archive.org/details/cia-readingroom-document-cia-rdp13x00001r000100180008-7
 [^12]: Daniel Bessner, "The Night Watchman: Hans Speier and the Making of the American National Security State" (PhD diss., Duke University, 2013), pp. 137-138, citing Claus-Dieter Krohn, Intellectuals in Exile: Refugee Scholars and the New School for Social Research (Amherst: University of Massachusetts Press, 1993), pp. 139-149, 165-167. https://dukespace.lib.duke.edu/server/api/core/bitstreams/232a76ac-f2d8-4827-99fe-50b3b109fa6c/content
+[^13]: "Obituaries," *Columbia College Today,* May 2004, class of 1941. https://web.archive.org/web/20190905000723/https://www.college.columbia.edu/cct_archive/may04/obituaries1.html
+[^14]: Wolfgang Saxon, "Donald Barr, 82, Headmaster And Science Honors Educator," *The New York Times,* February 10, 2004, section B, p. 8. https://www.nytimes.com/2004/02/10/nyregion/donald-barr-82-headmaster-and-science-honors-educator.html
+[^15]: Central Intelligence Agency, Center for the Study of Intelligence, review essay on William P. Barr, *One Damn Thing After Another* (William Morrow, 2022), *Studies in Intelligence* 67, no. 1 (extracts, March 2023). https://www.cia.gov/resources/csi/static/4-Review-Essay-Barr-Memoir.pdf
+[^16]: National Archives and Records Administration, Records of the Office of Strategic Services, RG 226, Entry 224, OSS Personnel Files, name database dated 12/23/2010. https://www.archives.gov/iwg/declassified-records/rg-226-oss/personnel-database.pdf

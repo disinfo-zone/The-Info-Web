@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-updated: 2026-10-09
+updated: 2026-10-26
 title: Church Committee
 aliases:
   - Church Committee
@@ -178,13 +178,18 @@ President Ford created the Rockefeller Commission (Commission on CIA Activities 
 
 The House Select Committee on Intelligence, known as the Pike Committee after [[Otis Pike]], ran in parallel with the Church Committee in 1975 and 1976. The House established the committee by H. Res. 138 on February 19, 1975 and reconstituted it by H. Res. 591 on July 17, 1975.[^65] The papers of Richard Ober at the [[Hoover Institution]] list Pike Committee files alongside the Church Committee and Rockefeller Commission files.[^66]
 
+### CIA use of private foundations
+
+The committee's report on foreign and military intelligence states: "Until 1967 the Agency also maintained covert ties to American foundations in order to pass funds secretly to private groups whose work the CIA supported."[^67] It says that most of those funds "were transmitted through legitimate or 'devised' foundations," which it describes as "fictitious entities established by the CIA." Excluding the Ford, Rockefeller and Carnegie foundations, the report counts 700 grants over $10,000 made by 164 foundations in 1963 to 1966, of which at least 108 involved partial or complete CIA funding.[^67] The report quotes a 1966 CIA study describing legitimate foundations as "particularly effective for democratically-run membership organizations."[^68]
+
 ### Successor committees and executive order
 
-The Senate created the [[Senate Select Committee on Intelligence]] by S. Res. 400 of the 94th Congress, second session, introduced on March 1, 1976 and agreed to on May 19, 1976, to oversee intelligence activities and to make continuing studies of them.[^67] The [[House Permanent Select Committee on Intelligence]] followed as the House counterpart.[^68]
+The Senate created the [[Senate Select Committee on Intelligence]] by S. Res. 400 of the 94th Congress, second session, introduced on March 1, 1976 and agreed to on May 19, 1976, to oversee intelligence activities and to make continuing studies of them.[^69] The [[House Permanent Select Committee on Intelligence]] followed as the House counterpart.[^70]
 
-President Ford signed Executive Order 11905 on February 18, 1976. Section (g) provides that "No employee of the United States Government shall engage in, or conspire to engage in, political assassination."[^69] The Foreign Intelligence Surveillance Act of 1978 created a judicial framework for domestic national security surveillance.[^70]
+President Ford signed Executive Order 11905 on February 18, 1976. Section (g) provides that "No employee of the United States Government shall engage in, or conspire to engage in, political assassination."[^71] The Foreign Intelligence Surveillance Act of 1978 created a judicial framework for domestic national security surveillance.[^72]
 
 ### Footnotes
+
 [^1]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Final Report*, Book I, S. Rept. 94-755, 94th Congress, 2nd Session, April 26, 1976. https://www.aarclibrary.org/publib/church/reports/book1/
 [^2]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Hearings*, vol. 1, "Unauthorized Storage of Toxic Agents," title page ("Senate Resolution 21"), and vols. 1 to 7 (vol. 2, "Huston Plan," September 23 to 25, 1975; vol. 3, "Internal Revenue Service"; vol. 4, "Mail Opening," October 21, 22 and 24, 1975; vol. 5, "National Security Agency and Fourth Amendment Rights"; vol. 6, "Federal Bureau of Investigation," November and December 1975; vol. 7, "Covert Action," December 4 and 5, 1975). https://archive.org/details/ChurchCommittee
 [^3]: United States Senate, "Church Committee Created," Senate Historical Office (final report issued April 29, 1976; 126 full committee meetings, 40 subcommittee hearings, about 800 witnesses, 110,000 documents). https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm
@@ -251,7 +256,9 @@ President Ford signed Executive Order 11905 on February 18, 1976. Section (g) pr
 [^64]: National Security Archive, Electronic Briefing Book No. 543, February 29, 2016, Document 15 (Cheney's handwritten edits, c. June 1, 1975) and Document 19 (the 86-page section, "Summary of Facts: Investigation of CIA Involvement in Plans to Assassinate Foreign Leaders," June 5, 1975). https://nsarchive.gwu.edu/briefing-book/intelligence/2016-02-29/gerald-ford-white-house-altered-rockefeller-commission-report
 [^65]: H. Res. 138, 94th Cong. (agreed to February 19, 1975); H. Res. 591, 94th Cong. (introduced July 11, 1975; agreed to July 17, 1975), "Resolution establishing a Select Committee on Intelligence." https://www.govtrack.us/congress/bills/94/hres138 ; https://www.govtrack.us/congress/bills/94/hres591
 [^66]: Richard Ober Papers, Hoover Institution Library and Archives, finding aid (Pike Committee, Church Committee and Rockefeller Commission files).
-[^67]: S. Res. 400, 94th Cong., 2d Sess. (introduced March 1, 1976; agreed to May 19, 1976), "A resolution to establish a Standing Committee of the Senate on Intelligence Activities." https://www.govtrack.us/congress/bills/94/sres400 ; Senate Select Committee on Intelligence, text of the resolution. https://www.intelligence.senate.gov/about-the-committee/s-res-400/
-[^68]: House Permanent Select Committee on Intelligence, committee history. https://intelligence.house.gov/
-[^69]: Executive Order 11905, "United States Foreign Intelligence Activities," February 18, 1976, sec. (g), "Prohibition of Assassination." https://www.presidency.ucsb.edu/documents/executive-order-11905-united-states-foreign-intelligence-activities
-[^70]: Foreign Intelligence Surveillance Act of 1978, Pub. L. 95-511, 92 Stat. 1783.
+[^67]: U.S. Senate, Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Foreign and Military Intelligence*, Book I, S. Rept. 94-755 (1976), pp. 182 to 183. https://archive.org/details/finalreportofsel01unit
+[^68]: The same, p. 183 (the 1966 CIA study passage).
+[^69]: S. Res. 400, 94th Cong., 2d Sess. (introduced March 1, 1976; agreed to May 19, 1976), "A resolution to establish a Standing Committee of the Senate on Intelligence Activities." https://www.govtrack.us/congress/bills/94/sres400 ; Senate Select Committee on Intelligence, text of the resolution. https://www.intelligence.senate.gov/about-the-committee/s-res-400/
+[^70]: House Permanent Select Committee on Intelligence, committee history. https://intelligence.house.gov/
+[^71]: Executive Order 11905, "United States Foreign Intelligence Activities," February 18, 1976, sec. (g), "Prohibition of Assassination." https://www.presidency.ucsb.edu/documents/executive-order-11905-united-states-foreign-intelligence-activities
+[^72]: Foreign Intelligence Surveillance Act of 1978, Pub. L. 95-511, 92 Stat. 1783.

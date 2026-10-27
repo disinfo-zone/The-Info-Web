@@ -6,9 +6,9 @@ tags:
   - Development
   - ColdWar
   - Truman
-summary: "President Truman's Point Four Program (1949) was the first U.S. foreign technical assistance program aimed at the developing world, providing the institutional template that Nelson Rockefeller later built on in his International Development Advisory Board proposals."
+summary: "President Truman's Point Four Program (1949) was the first U.S. foreign technical assistance program aimed at the developing world, the template Nelson Rockefeller later built on in his International Development Advisory Board proposals."
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-10-26
 ---
 
 The Point Four Program was [[Harry Truman]]'s 1949 foreign technical assistance initiative, the first comprehensive US program exporting American scientific and technological expertise to developing countries as a tool of foreign policy. Named for the fourth point of Truman's January 20, 1949 inaugural address, it established the bilateral technical assistance model that [[Nelson Rockefeller]] had pioneered through the [[CIAA]] during World War II. Rockefeller chaired Truman's International Development Advisory Board that designed the program's institutional framework, effectively transferring the CIAA model into peacetime foreign policy and creating the architecture his own [[AIA]] (American International Association) would draw on as a major contractor.
@@ -21,7 +21,7 @@ The immediate impetus came from [[White House]] assistants [[Clark Clifford]] an
 
 ### Legislation and Appropriations
 
-The program was formally authorized by Title IV of the Foreign Economic Assistance Act of 1950, signed by Truman as Public Law 535 on June 5, 1950. The legislative path was contested: [[Judge John Kee]], chairman of the [[House Foreign Affairs Committee]], introduced H.R. 5615 on July 12, 1949. Competing versions were introduced by Kee and Representative [[Christian Herter]] on January 18, 1950. [[Senate Foreign Relations Committee]] hearings began March 30, 1950, with Secretary of State Acheson testifying in favor. Senators [[Eugene Millikin]] and [[Robert Taft]] led opposition. The first Point Four bilateral agreements were signed with Iran, Jordan, the Philippines, and Brazil in 1950.[^3]
+The program was formally authorized by Title IV of the Foreign Economic Assistance Act of 1950, signed by Truman as Public Law 535 on June 5, 1950. The legislative path was contested: [[Judge John Kee]], chairman of the [[House Foreign Affairs Committee]], introduced H.R. 5615 on July 12, 1949. Competing versions were introduced by Kee and Representative [[Christian Herter]] on January 18, 1950. [[Senate Foreign Relations Committee]] hearings began March 30, 1950, with Secretary of State Acheson testifying in favor. Senators [[Eugene Millikin]] and [[Robert A. Taft]] led opposition. The first Point Four bilateral agreements were signed with Iran, Jordan, the Philippines, and Brazil in 1950.[^3]
 
 The administration's original request was $45,000,000 for technical assistance. The House reduced this to $25,000,000; the conference report settled on an authorized level of $35,000,000. Final appropriation for fiscal year 1951, enacted in the omnibus appropriations bill on September 6, 1950, was $34,500,000. Appropriations expanded sharply: the [[Technical Cooperation Administration]] received approximately $127,000,000 for fiscal year 1952 and $140,000,000 for fiscal year 1953, with total TCA spending for fiscal years 1952 and 1953 combined exceeding $300,000,000.[^4]
 

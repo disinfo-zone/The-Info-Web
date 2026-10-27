@@ -51,10 +51,12 @@ relations:
     role: "son"
     fn: 6
 created: 2025-08-05
-updated: 2026-10-12
+updated: 2026-10-26
 ---
 
 William P. Barr worked at the [[Central Intelligence Agency]] from 1973 to 1977 while attending law school at night. "During my tenure at CIA, 1973 to '77, the investigations of the agency started, and I moved to the legislative counsel's office," he recalled; as assistant legislative counsel under Director [[George H.W. Bush]] in 1976 he worked against legislation of Representatives [[Michael Harrington]] and [[Bella Abzug]] that would have required notice to people whose mail the agency had opened under [[HTLINGUAL]]. He then clerked for Judge [[Malcolm Wilkey]] of the [[United States Court of Appeals for the District of Columbia Circuit|D.C. Circuit]], a former head of the Justice Department's Criminal Division, who telephoned Bush for a reference. After private practice and the Reagan transition he joined the [[White House]] domestic policy staff, where he worked with [[C. Boyden Gray]], counsel to Vice President Bush. In 1988 he helped screen vice-presidential candidates through [[Robert Kimmitt]].[^1]
+
+His father, [[Donald Barr]], had served briefly in the Research and Analysis Branch of the [[Office of Strategic Services]] during the Second World War.[^9] Barr began seasonal employment at the CIA in June 1971, while pursuing a graduate degree at [[Columbia University]], and wrote in his 2022 memoir, *One Damn Thing After Another*: "I want a career in intelligence.... My strategy is to make myself an attractive candidate by becoming an expert on China."[^9]
 
 ### Justice Department, 1989-1993
 
@@ -78,11 +80,11 @@ At the end of the administration Barr advised Bush to pardon [[Caspar Weinberger
 
 ### Attorney General, 2019
 
-Barr resigned from the board of [[Dominion Energy]] effective February 12, 2019, before his confirmation as attorney general.[^5] His department oversaw the federal prosecution of [[Jeffrey Epstein]] that year. His father, [[Donald Barr]], was headmaster of the [[Dalton School]] in New York during the period in which Epstein, a college dropout, was hired there to teach; accounts differ on whether Donald Barr personally hired him.[^6]
+Barr resigned from the board of [[Dominion Energy]] effective February 12, 2019, before his confirmation as attorney general.[^5] His department oversaw the federal prosecution of [[Jeffrey Epstein]] that year. His father, Donald Barr, was headmaster of the [[Dalton School]] in New York during the period in which Epstein, a college dropout, was hired there to teach; accounts differ on whether Donald Barr personally hired him.[^6] The [[New York Times]] wrote on July 12, 2019 that Donald Barr announced in February 1974 that he was resigning as headmaster but would stay until the end of the school year, and that "It is unclear whether Mr. Barr hired Mr. Epstein during that time."[^10] [[Peter Branch]], interim headmaster from July 1, 1974, told [[Thomas Volscho]] that he did not recall hiring Epstein and was "relatively certain Barr or possibly the head of the Math Department hired Epstein."[^11] [[Marie Brenner]] wrote in *Vanity Fair* that Barr "recently claimed he hadn't made the Dalton-Epstein connection until he read about it in the press."[^12] Interviewed by [[NPR]] in December 2019, Brenner said that Barr watched his father "being criticized quite publicly in The New York Times, in New York magazine, in the early 1970s" as he entered college.[^13]
 
 In a deposition before the House Committee on Oversight and Government Reform on August 18, 2025, Barr was asked whether he had recused himself from the Justice Department's review of the Florida prosecution and plea agreement of Epstein. He answered, "No, I didn't recuse myself." He said that the Southern District of New York investigation was "the only thing that I was aware of going on when I was there," and that "I don't recall playing a role in the review of that." He said he had considered whether to recuse from the New York matter, and that the decision not to recuse was made on input from the department's ethics office, by his recollection. Asked about the 2019 Office of Professional Responsibility inquiry into the Florida plea deal, he said, "I wasn't hovering over that or involved in that."[^7]
 
-Asked about his father's role as headmaster of the Dalton School, Barr said, "It's not pertinent at all." Asked about [[Kirkland & Ellis]] representing Epstein in the non-prosecution negotiations, and about his former employment with the firm, he said, "I actually don't think I would've had to recuse myself from that. But I just was never involved in that."[^8]
+Asked whether his father's role as headmaster of the Dalton School had been a consideration in the Ethics Office analysis, Barr answered, "Actually, I don't even think... I don't know whether I was aware of that at that time. Obviously not. It's not pertinent at all." Asked about [[Kirkland & Ellis]] representing Epstein in the non-prosecution negotiations, and about his former employment with the firm, he said, "I actually don't think I would've had to recuse myself from that. But I just was never involved in that."[^8]
 
 ### Footnotes
 
@@ -94,3 +96,8 @@ Asked about his father's role as headmaster of the Dalton School, Barr said, "It
 [^6]: "The 'Epstein-Barr' Problem of New York City's Dalton School." *Law and Crime,* July 13, 2019, which states that Epstein was hired "by the school's headmaster Donald Barr in the mid 1970's". https://web.archive.org/web/2019/https://lawandcrime.com/high-profile/the-epstein-barr-problem-of-new-york-citys-dalton-school/
 [^7]: Deposition of William P. Barr, House Committee on Oversight and Government Reform, August 18, 2025, pp. 47-48. https://oversight.house.gov/wp-content/uploads/2025/09/Barr-Transcript.pdf
 [^8]: Same transcript, pp. 51 and 92-93.
+[^9]: Central Intelligence Agency, Center for the Study of Intelligence, review essay on William P. Barr, *One Damn Thing After Another: Memoirs of an Attorney General* (William Morrow, 2022), *Studies in Intelligence* 67, no. 1 (extracts, March 2023). https://www.cia.gov/resources/csi/static/4-Review-Essay-Barr-Memoir.pdf
+[^10]: Mike Baker and Amy Julia Harris, "Jeffrey Epstein Taught at Dalton. His Behavior Was Noticed," *The New York Times,* July 12, 2019. https://www.nytimes.com/2019/07/12/nyregion/jeffrey-epstein-dalton-teacher.html
+[^11]: Thomas Volscho, "Jeffrey Epstein Dodged Questions About Sex With His Dalton Prep School Students," *The Daily Beast,* July 12, 2019 (updated September 27, 2019). https://www.thedailybeast.com/jeffrey-epstein-dodged-questions-about-sex-with-his-dalton-prep-school-students
+[^12]: Marie Brenner, "'I Had No Problem Being Politically Different': Young William Barr Among the Manhattan Liberals," *Vanity Fair,* October 7, 2019. https://www.vanityfair.com/news/2019/10/the-untold-tale-of-young-william-barr
+[^13]: Rachel Martin, interview with Marie Brenner, "'Vanity Fair': Father-Son Dynamic May Explain Tenure Of AG Barr," *NPR,* December 10, 2019. https://www.kjzz.org/politics/2019-12-10/vanity-fair-father-son-dynamic-may-explain-tenure-of-ag-barr

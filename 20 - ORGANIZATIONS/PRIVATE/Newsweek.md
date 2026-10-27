@@ -94,6 +94,11 @@ relations:
     role: "published the May 5, 1987 profile of Richard Secord, the first witness before the joint committees"
     start: 1987-05-05
     fn: 34
+  - type: director_of
+    with: "[[E. Roland Harriman]]"
+    reverse: true
+    role: "Director, per Antony C. Sutton (1976); no dates given"
+    fn: 45
 ---
 
 Newsweek is an American news weekly, founded in 1933 as News-Week and owned from 1961 to 2010 by the [[Washington Post]] Company. Its staff and stringers appear in the 1977 Rolling Stone account of CIA press relations by [[Carl Bernstein]], and it reported on the [[Contras]] and the [[Iran-Contra affair]]. It covered the [[Dark Alliance]] story, calling it a powerful series.[^1]
@@ -103,6 +108,8 @@ Newsweek is an American news weekly, founded in 1933 as News-Week and owned from
 The masthead of the July 29, 1933 issue (volume 1, number 24) lists T. J. C. Martyn as president and treasurer and Samuel T. Williamson as editor, with editorial offices at Rockefeller Center in New York and a publication office in Dayton, Ohio.[^2] On September 11, 1933 [[Time]] reported that [[Vincent Astor]] and [[Averell Harriman|W. Averell Harriman]] had announced details of a separate weekly, Today, to be edited by [[Raymond Moley]], whose resignation from [[Franklin D. Roosevelt]]'s Brain Trust had just been explained on the ground that he would edit it. The magazine was to run 24 pages on newsprint at five cents. Moley said: "In no sense will it be an Administration organ or a party organ."[^3]
 
 Time wrote in 1961 that when Astor "got control in 1937" Newsweek had reached a circulation of 250,000 but had cost its original investors $2,250,000 in four years. Astor died in 1959 and left his controlling 60 percent of the stock, 177,200 shares, to the Vincent Astor Foundation, a trust he established in 1948.[^4] Bernstein dates [[Malcolm Muir]]'s tenure as editor to the magazine's founding in 1937 and places it until the sale to the Washington Post Company in 1961.[^5] In Time's account of the sale, Muir was board chairman and [[John Denson]] was the editor who resigned a month before the sale to join the [[New York Herald Tribune]].[^6]
+
+[[Antony C. Sutton]] wrote in 1976 that [[E. Roland Harriman]] was a director of Newsweek magazine, without giving dates. The statement appears in a list of his later positions that also named the [[Union Pacific Railroad]] chairmanship (held 1946 to 1969, according to the company's annual reports), a seat on the board of governors of the [[American Red Cross]] (which he headed from 1950 to 1973) and membership of the [[American Museum of Natural History]].[^45]
 
 ### Sale to the Washington Post Company, 1961
 
@@ -172,6 +179,8 @@ Newsweek's May 23 edition said the original information came from a "knowledgeab
 
 According to [[Gary Webb]]'s account, [[William J. Casey]] himself leaked news of the Contra project to Newsweek because he wanted to ensure the project did not get shelved. Once it became public knowledge that the Reagan administration was helping the Contras, Webb wrote, stopping it would look like a sellout, another [[Bay of Pigs]]. Webb presented the leak to Newsweek as an illustration of how the CIA used the media to build political support for its covert operations and to box in congressional opponents.[^1]
 
+### Footnotes
+
 [^1]: Webb, Gary. *Dark Alliance: The CIA, the Contras, and the Crack Cocaine Explosion.* Seven Stories Press, 1998. Ch. 6.
 [^2]: *News-Week*, vol. 1, no. 24, July 29, 1933, masthead (Martyn, president and treasurer; Samuel T. Williamson, editor). https://archive.org/details/sim_newsweek-us_1933-07-29_1_24
 [^3]: "Press: Today," *Time*, September 11, 1933. https://time.com/archive/6751591/press-today/
@@ -216,3 +225,4 @@ According to [[Gary Webb]]'s account, [[William J. Casey]] himself leaked news o
 [^42]: "Newsweek retracts Quran report," Al Jazeera (Reuters), May 17, 2005. https://www.aljazeera.com/news/2005/5/17/newsweek-retracts-quran-report.
 [^43]: Howard B. Schonberger, *Aftermath of War: Americans and the Remaking of Japan, 1945-1952* (Kent, Ohio: Kent State University Press, 1989), pp. 7, 135, 157-158. https://archive.org/details/aftermathofwaram0000scho
 [^44]: United Press International, "De Borchgrave named CEO of UPI," December 16, 1998, https://www.upi.com/Archives/1998/12/16/De-Borchgrave-named-CEO-of-UPI/2072913784400/ (appointment; start January 4; editor in chief of The Washington Times, 1985 to 1991; Newsweek chief foreign correspondent, 1963 to 1980; senior adviser at CSIS and director of the Global Organized Crime Project).
+[^45]: Antony C. Sutton, *Wall Street and the Rise of Hitler* (1976), pp. 106 to 107.

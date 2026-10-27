@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-05-17
+updated: 2026-10-26
 title: Dean Acheson
 aliases:
   - Dean Gooderham Acheson
@@ -22,6 +22,11 @@ relations:
     role: "recipient of the report of February 1, 1951"
     start: 1951-02
     fn: 4
+  - type: relative_of
+    with: "[[William P. Bundy]]"
+    role: "son-in-law; William P. Bundy married Mary Acheson in 1943"
+    start: 1943
+    fn: 6
 ---
 
 Dean Gooderham Acheson (April 11, 1893 - October 12, 1971) was [[United States|U.S.]] Secretary of State from 1949 to 1953 under President [[Harry Truman]], and one of the principal architects of American [[Cold War]] foreign policy. Acheson helped design the [[Truman Doctrine]], [[NATO]], and the [[Marshall Plan]], and was responsible for approving [[NSC-68]] - the 1950 policy document that militarized the "containment" strategy [[George Kennan]] had formulated, over Kennan's explicit objections. Acheson's memoir, *Present at the Creation* (Norton, 1969), took its title from his self-assessment of having helped build the postwar international order.[^1]
@@ -54,9 +59,13 @@ The [[Korean War]] that began June 1950 dominated the second half of Acheson's t
 
 The war eventually led to Truman's firing of General [[Douglas MacArthur]] in April 1951 after MacArthur publicly challenged Truman's authority over war strategy - a civil-military confrontation that Acheson supported Truman in resolving in favor of civilian control.[^5]
 
+### Son-in-law, William P. Bundy
+
+[[William P. Bundy]] married [[Mary Acheson]], Acheson's daughter, in 1943. He later held posts at the CIA, the Defense Department and the State Department.[^6] In July 1953 the Senate Permanent Subcommittee on Investigations chairman [[Joseph McCarthy]] pressed the CIA about Bundy's $400 contribution to the defense of [[Alger Hiss]]. A newspaper report of August 4, 1953 said that Bundy's stated reason for the contribution was to help his father-in-law, Dean Acheson, in clearing Hiss.[^7]
+
 ### Legacy
 
-Acheson was a target of Senator [[Joseph McCarthy]]'s attacks, primarily over the "loss" of [[China]] to communism - which McCarthy attributed to State Department subversion - and over Acheson's refusal to condemn former State Department official Alger Hiss following Hiss's conviction for perjury in connection with Soviet espionage. McCarthy called Acheson's State Department a "Dean Acheson College of Cowardly Communist Containment."
+Acheson was a target of Senator Joseph McCarthy's attacks, primarily over the "loss" of [[China]] to communism - which McCarthy attributed to State Department subversion - and over Acheson's refusal to condemn former State Department official Alger Hiss following Hiss's conviction for perjury in connection with Soviet espionage. McCarthy called Acheson's State Department a "Dean Acheson College of Cowardly Communist Containment."
 
 After leaving government, Acheson returned to law practice and remained influential in Democratic foreign policy circles, advising subsequent administrations informally. He won the [[Pulitzer Prize]] for History in 1970 for *Present at the Creation*. He died at Sandy Spring, Maryland, on October 12, 1971.
 
@@ -67,3 +76,5 @@ After leaving government, Acheson returned to law practice and remained influent
 [^3]: FRUS 1950, volume IV, Document 127 (Truman to Acheson, March 1, 1950) and Document 131 (Barrett to Acheson, March 6, 1950) with the editorial note on Acheson's discussion with Truman. https://history.state.gov/historicaldocuments/frus1950v04/d131
 [^4]: Bessner, "The Night Watchman," p. 238 (the report's final date and Acheson's receipt on February 15, 1951).
 [^5]: Brands, H.W. *The General vs. the President: MacArthur and Truman at the Brink of Nuclear War.* Doubleday, 2016. Hogan, Michael J. *A Cross of Iron: Harry S. Truman and the Origins of the National Security State, 1945-1954.* Cambridge University Press, 1998.
+[^6]: William P. Bundy Papers (MC189), Biography/History, Princeton University Library, https://findingaids.library.upenn.edu/records/PRIN_MUDD_MC189
+[^7]: Allen Drury, "McCarthy Warns CIA Head Fight on Bundy Isn't Over," newspaper article, August 4, 1953, CIA Reading Room, CIA-RDP74-00297R000401370024-4, https://archive.org/details/cia-readingroom-document-cia-rdp74-00297r000401370024-4

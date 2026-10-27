@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-10-09
+updated: 2026-10-26
 title: Howard Hunt
 aliases:
   - E. Howard Hunt
@@ -25,12 +25,19 @@ born: 1918-10-09
 died: 2007-01-23
 location: "Washington, D.C."
 relations:
+  - type: reported_to
+    with: "[[William F. Buckley Jr.]]"
+    reverse: true
+    start: 1951
+    end: 1952
+    role: "Buckley worked under Hunt as an OPC agent in Mexico City, by Buckley's own account"
+    fn: 7
   - type: participant_in
     with: "[[Office of Technical Service]]"
     start: 1971-07
     end: 1971-08
     role: "the Technical Services Division supplied alias documents, disguise materials, a tape recorder and a Tessina camera; assistance stopped August 27, 1971"
-    fn: 7
+    fn: 13
 ---
 
 Everette Howard Hunt Jr. (October 9, 1918 - January 23, 2007) was a [[Central Intelligence Agency|CIA]] officer and prolific spy novelist who participated in two of the most significant CIA covert operations of the Cold War era - the 1954 [[Guatemala]]n coup ([[Operation PBSUCCESS]]) and the 1961 [[Bay of Pigs]] invasion - before his involvement in the [[Watergate]] burglary of June 1972 made him one of the most publicly known CIA officers in American history.[^1]
@@ -65,19 +72,27 @@ Hunt retired on April 30, 1970, and went to work for the [[Robert R. Mullen Comp
 
 In March 1972, at the direction of [[Charles Colson]], he flew to [[Denver]] in a wig and with alias documents supplied by the agency to question the [[ITT Corporation|ITT]] lobbyist [[Dita Beard]] in her hospital room. The House subcommittee that examined the agency's part in Watergate listed the visit among the misuses of its assistance. On July 26, 1973, the Watergate special prosecutor's office asked the agency whether it knew of "any intelligence or undercover activities performed by Howard Hunt and/or [[G. Gordon Liddy|Gordon Liddy]] for ITT," of arrangements between ITT and the Mullen firm, or of any employment of the ITT publicist [[Hal Hendrix]]. The released reply addresses only the Mullen firm and an ITT office in [[Coral Gables, Florida|Coral Gables]].[^6]
 
+### Mexico City station, 1950 to 1952
+
+Hunt wrote that he volunteered to open the [[Office of Policy Coordination]] station in [[Mexico City]] in the late summer of 1950.[^7] Hunt wrote that he met [[William F. Buckley Jr.]] through [[James Burnham]], and that the first name on his list of recruits was Buckley, the Yale graduate whose *God and Man at Yale* was then stirring controversy: "First on my list was Bill Buckley, who readily agreed and set about working out details of his cover."[^8] Hunt assigned Buckley to help [[Eudocio Ravines]] complete *The Yenan Way* and translate it into English. When Scribner's accepted the translation, Buckley "decided to leave Mexico and CIA."[^9] Buckley wrote in *National Review* in 2005 that he was inducted into the CIA in 1951 as a deep cover agent and that the only name he could have given up was that of "my immediate boss (E. Howard Hunt, as it happened)."[^10]
+
+Hunt wrote that he and his wife had asked Buckley to become guardian of their children and executor of their estate, and that Buckley, "already the children's godfather," agreed.[^11] When Hunt visited [[Madrid]] he stayed in the apartment of Buckley's brother [[Reid Buckley]].[^12]
+
 ### Watergate
 
 By 1971, Hunt had been nominally retired from the CIA and was working as a consultant to the White House under Charles Colson, a senior aide to President [[Richard Nixon]]. Nixon's "plumbers" unit - tasked with plugging information leaks and conducting political intelligence operations - recruited Hunt for various activities, including the burglary of [[Daniel Ellsberg]]'s psychiatrist's office in September 1971.
 
-In July and August 1971, while working for the White House, Hunt went to the CIA's technical services for help with an operation. On July 22, 1971 he met the Deputy Director of Central Intelligence, General [[Robert E. Cushman Jr.]], who directed the technical service to help him. On July 23 he received alias documents in the name "Edward Joseph Warren," a wig, glasses and a speech alteration device. He then obtained a tape recorder in a typewriter case and a Tessina camera disguised in a tobacco pouch. The technical officers became concerned at the escalation of his requests, and on August 27, 1971 Cushman told [[John Ehrlichman]] that further assistance could not be given. The camera was returned that day as unsuitable. The Technical Services Division had no further association with Hunt after August 1971.[^7] The staff report appended to Senator [[Howard Baker]]'s views in the Senate Watergate Committee's final report states that a TSD memorandum of August 27, 1971 showed Hunt's request for a New York telephone answering service about to be implemented, that the CIA kept a file on Hunt's activities entitled "Mr. Edward" outside its normal filing system, and that testimony indicated film the TSD developed for Hunt and Liddy was of Lewis Fielding's office.[^8]
+In July and August 1971, while working for the White House, Hunt went to the CIA's technical services for help with an operation. On July 22, 1971 he met the Deputy Director of Central Intelligence, General [[Robert E. Cushman Jr.]], who directed the technical service to help him. On July 23 he received alias documents in the name "Edward Joseph Warren," a wig, glasses and a speech alteration device. He then obtained a tape recorder in a typewriter case and a Tessina camera disguised in a tobacco pouch. The technical officers became concerned at the escalation of his requests, and on August 27, 1971 Cushman told [[John Ehrlichman]] that further assistance could not be given. The camera was returned that day as unsuitable. The Technical Services Division had no further association with Hunt after August 1971.[^13] The staff report appended to Senator [[Howard Baker]]'s views in the Senate Watergate Committee's final report states that a TSD memorandum of August 27, 1971 showed Hunt's request for a New York telephone answering service about to be implemented, that the CIA kept a file on Hunt's activities entitled "Mr. Edward" outside its normal filing system, and that testimony indicated film the TSD developed for Hunt and Liddy was of Lewis Fielding's office.[^14]
 
 On the night of June 17, 1972, Hunt organized and directed the team that broke into the [[Democratic National Committee]] headquarters at the [[Watergate complex]] in Washington - the burglary that produced five arrests, triggered the Senate investigation and Special Prosecutor investigation, and ultimately led to Nixon's resignation in August 1974.
 
-Hunt was convicted of conspiracy, burglary, and wiretapping and sentenced to 35 years, subsequently reduced. He served approximately 33 months in federal prison. His wife Dorothy died in a plane crash in December 1972, with some researchers suggesting the crash was not accidental; the official ruling was that it was an accident.[^9]
+Hunt was convicted of conspiracy, burglary, and wiretapping and sentenced to 35 years, subsequently reduced. He served approximately 33 months in federal prison. His wife Dorothy died in a plane crash in December 1972, with some researchers suggesting the crash was not accidental; the official ruling was that it was an accident.[^15]
 
-The [[CIA Office of Security|Office of Security]] reported to the inspector general on May 22, 1975, for the [[Church Committee]], that in November 1963 Hunt "was assigned to DDP/CA Staff, Office of the Chief, Headquarters; however, apparently Mr. Hunt had collateral duties with DDP/Domestic Operations Division/Facilities Branch," from November 1961 to February 1965, and that "neither Mr. Hunt nor Mr. McCord were in charge of Mexican operations at the time of the Kennedy assassination."[^10]
+After Hunt's conviction, Maryland authorities removed him as executor of his wife's estate, and his successor under the terms of her will was Buckley.[^16] Hunt wrote that he taped a *Firing Line* program with Buckley at KQED in San Francisco on January 18, 1973, with students from Mills College in the audience, and that the Buckley-run committee at *National Review* answered the telegrams and letters that followed his Senate testimony and solicited funds for his legal defense, and that Buckley suggested he retain Buckley's attorney C. Dickerman Williams at no cost.[^17] Hunt also recorded dining with Pat and Bill Buckley and Williams.[^18] In August 1973 an FBI background check on Buckley recorded that [[Arthur Schlesinger Jr.]] understood "Buckley is a good friend of E. Howard Hunt, connected with the Watergate break-in, and is the godfather of some of his children."[^19]
 
-Helms's secretary [[Elizabeth Dunlevy]] testified in 1974 that Hunt "had always been grateful to her for arranging a loan in connection with the terrible financial strain involving his daughter"; the agency's observer noted that Helms had placed the call that produced a loan of about 12,000 dollars.[^11]
+The [[CIA Office of Security|Office of Security]] reported to the inspector general on May 22, 1975, for the [[Church Committee]], that in November 1963 Hunt "was assigned to DDP/CA Staff, Office of the Chief, Headquarters; however, apparently Mr. Hunt had collateral duties with DDP/Domestic Operations Division/Facilities Branch," from November 1961 to February 1965, and that "neither Mr. Hunt nor Mr. McCord were in charge of Mexican operations at the time of the Kennedy assassination."[^20]
+
+Helms's secretary [[Elizabeth Dunlevy]] testified in 1974 that Hunt "had always been grateful to her for arranging a loan in connection with the terrible financial strain involving his daughter"; the agency's observer noted that Helms had placed the call that produced a loan of about 12,000 dollars.[^21]
 
 ### Kennedy Assassination Statements
 
@@ -95,8 +110,18 @@ Hunt died of pneumonia on January 23, 2007, in [[Miami, Florida|Miami]].[^1]
 [^4]: West, Ashley. "Unknowing Ray Horsch, Episode 1: Youth," *The Rialto Report,* Podcast 171, September 13, 2026, audio at 18:34 to 22:49; Central Intelligence Agency, "Wackenhut Corporation, SF# 493 364," memorandum for the record, July 28, 1975, JFK Assassination Records Collection, record 104-10130-10454.
 [^5]: "E. Howard Hunt: Utilization by Central Cover Staff," 1970, CIA Reading Room document C00660613; Gahagen, Robert D., "Request for CSA concerning E. Howard Hunt," June 3, 1970, C00297384; "Letter of Recommendation Written by Mr. Helms," July 20, 1973, C00609297.
 [^6]: House Committee on Armed Services, Special Subcommittee on Intelligence, *Inquiry into the Alleged Involvement of the Central Intelligence Agency in the Watergate and Ellsberg Matters,* 93rd Cong., 1973; Ruth, Henry S., Jr., letter to John S. Warner, July 26, 1973, C01482382; "Inquiry Regarding Possible ITT Association with CIA and Robert R. Mullen and Company," August 7, 1973, C01367838.
-[^7]: U.S. House of Representatives, Committee on Armed Services, Special Subcommittee on Intelligence, *Inquiry into the Alleged Involvement of the Central Intelligence Agency in the Watergate and Ellsberg Matters*, 93rd Cong., statement of Dr. James R. Schlesinger, May 11, 1973, pp. 1-3 (the Hunt narrative is on pp. 2-3), and testimony of General Robert E. Cushman, Jr. The hearing index also lists Hunt's testimony at p. 471. https://archive.org/details/InquiryIntoTheAllegedInvolvementOfCIAInTheWatergateAndEllsbergMatters
-[^8]: U.S. Senate, Select Committee on Presidential Campaign Activities, *Final Report*, S. Rept. 93-981 (June 1974), "Appendix to Views of Senator Baker," pp. 1135-1141, and p. 119. https://archive.org/details/WatergateErvinCommitteeReport
-[^9]: Summers, Anthony. *The Arrogance of Power: The Secret World of Richard Nixon.* Viking, 2000. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.
-[^10]: Kane, Charles W., Director of Security. Memorandum for the Inspector General, "Senate Select Committee on Intelligence Operations, Request," May 22, 1975, JFK record 104-10106-10619.
-[^11]: Central Intelligence Agency, Office of Legislative Counsel, memorandum for the record, "Select Committee Testimony of 6 February 1974," OLC 74-0197, February 6, 1974. CIA Reading Room, document 01474420.
+[^7]: E. Howard Hunt, *Undercover: Memoirs of an American Secret Agent* (G. P. Putnam's Sons, 1974), p. 69. https://archive.org/details/undercovermemoirsofanamericansecretagent
+[^8]: Hunt, *Undercover* (1974), pp. 69-70.
+[^9]: Hunt, *Undercover* (1974), p. 77.
+[^10]: William F. Buckley Jr., "Who Did What?", *National Review*, November 1, 2005. https://www.nationalreview.com/2005/11/who-did-what-william-f-buckley-jr/
+[^11]: Hunt, *Undercover* (1974), pp. 77-78 (text and footnote).
+[^12]: Hunt, *Undercover* (1974), pp. 134-135.
+[^13]: U.S. House of Representatives, Committee on Armed Services, Special Subcommittee on Intelligence, *Inquiry into the Alleged Involvement of the Central Intelligence Agency in the Watergate and Ellsberg Matters*, 93rd Cong., statement of Dr. James R. Schlesinger, May 11, 1973, pp. 1-3 (the Hunt narrative is on pp. 2-3), and testimony of General Robert E. Cushman, Jr. The hearing index also lists Hunt's testimony at p. 471. https://archive.org/details/InquiryIntoTheAllegedInvolvementOfCIAInTheWatergateAndEllsbergMatters
+[^14]: U.S. Senate, Select Committee on Presidential Campaign Activities, *Final Report*, S. Rept. 93-981 (June 1974), "Appendix to Views of Senator Baker," pp. 1135-1141, and p. 119. https://archive.org/details/WatergateErvinCommitteeReport
+[^15]: Summers, Anthony. *The Arrogance of Power: The Secret World of Richard Nixon.* Viking, 2000. Hougan, Jim. *Secret Agenda: Watergate, Deep Throat, and the CIA.* Random House, 1984.
+[^16]: Hunt, *Undercover* (1974), p. 293 (footnote).
+[^17]: Hunt, *Undercover* (1974), pp. 322-323.
+[^18]: Hunt, *Undercover* (1974), p. 327; the *Firing Line* taping at KQED, pp. 291-292.
+[^19]: FBI file on William F. Buckley Jr., part 2, teletype from the New Haven office, August 15, 1973. https://archive.org/details/foia_Buckley_William_F.-HQ-2
+[^20]: Kane, Charles W., Director of Security. Memorandum for the Inspector General, "Senate Select Committee on Intelligence Operations, Request," May 22, 1975, JFK record 104-10106-10619.
+[^21]: Central Intelligence Agency, Office of Legislative Counsel, memorandum for the record, "Select Committee Testimony of 6 February 1974," OLC 74-0197, February 6, 1974. CIA Reading Room, document 01474420.

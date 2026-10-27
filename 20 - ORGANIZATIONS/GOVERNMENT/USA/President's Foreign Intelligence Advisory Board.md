@@ -16,7 +16,7 @@ summary: "White House board of private citizens created by Eisenhower in 1956 to
 start: 1956-01-13
 location: "Washington, D.C."
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-26
 relations:
   - type: founded
     with: "[[Dwight D. Eisenhower]]"
@@ -44,6 +44,13 @@ relations:
     reverse: true
     start: 1956-01-13
     fn: 2
+  - type: member_of
+    with: "[[Clare Boothe Luce]]"
+    reverse: true
+    role: "member 1973 to 1977 and 1980 to 1986"
+    start: 1973
+    end: 1986
+    fn: 7
   - type: member_of
     with: "[[Maxwell Taylor]]"
     reverse: true
@@ -92,17 +99,17 @@ relations:
     reverse: true
     role: "chairman"
     start: 2001-10-05
-    fn: 7
+    fn: 8
   - type: member_of
     with: "[[Ray Hunt]]"
     reverse: true
     start: 2001-10-05
-    fn: 7
+    fn: 8
   - type: member_of
     with: "[[Stephen Friedman]]"
     reverse: true
     start: 2001-10-05
-    fn: 7
+    fn: 8
 ---
 
 President [[Dwight D. Eisenhower]] created the President's Board of Consultants on Foreign Intelligence Activities by Executive Order 10656, issued on February 6, 1956, printed in the *[[Federal Register]]* on February 8 (21 Fed. Reg. 859) and effective from January 13, 1956. Its members were drawn from persons "outside government" chosen for their "ability, experience, and knowledge" in matters of national defense and security, and served without pay beyond travel and per diem. The order directed the board to review the foreign intelligence work of the government and the performance of the [[Central Intelligence Agency]] and to report to the President "twice yearly (or more often if needed)."[^1][^2]
@@ -131,9 +138,11 @@ President [[Jimmy Carter]] abolished the board on May 4, 1977, by Executive Orde
 
 Executive Order 12863, issued by President [[Bill Clinton]], provided: "There is hereby established within the White House Office, Executive Office of the President, the President's Foreign Intelligence Advisory Board (PFIAB). The PFIAB shall consist of not more than 16 members, who shall serve at the pleasure of the President." One third of the members at any time were, "to the extent practicable," to serve terms of no more than two years, and the President was to designate a chairman and vice chairman from among them.[^6]
 
+[[Clare Boothe Luce]] served on the board for 1973 to 1977 and 1980 to 1986, according to the chronology in the Library of Congress finding aid for her papers, which also holds a board series (Boxes 729-790, 1974-1987, with classified material in the 1981-1987 folders) and a 1980 essay on abolition of the board.[^7]
+
 ### 2001 Appointments
 
-On October 5, 2001, the [[White House]] announced that President [[George W. Bush]] intended to appoint members "for a term of two years": Lieutenant General [[Brent Scowcroft]] as chairman, with [[Cresencio Arcos|Cresencio S. Arcos]], [[Jim Barksdale]], Robert Addison Day, [[Stephen Friedman]], [[Alfred Lerner]], [[Ray Hunt|Ray Lee Hunt]], [[Rita Hauser|Rita E. Hauser]], [[David E. Jeremiah]], [[Arnold Kanter|Arnold Lee Kanter]], James Calhoun Langdon, Jr., Marie Elizabeth Pate-Cornell, John Harrison Streicker and Peter Barton Wilson.[^7]
+On October 5, 2001, the [[White House]] announced that President [[George W. Bush]] intended to appoint members "for a term of two years": Lieutenant General [[Brent Scowcroft]] as chairman, with [[Cresencio Arcos|Cresencio S. Arcos]], [[Jim Barksdale]], Robert Addison Day, [[Stephen Friedman]], [[Alfred Lerner]], [[Ray Hunt|Ray Lee Hunt]], [[Rita Hauser|Rita E. Hauser]], [[David E. Jeremiah]], [[Arnold Kanter|Arnold Lee Kanter]], James Calhoun Langdon, Jr., Marie Elizabeth Pate-Cornell, John Harrison Streicker and Peter Barton Wilson.[^8]
 
 ### Footnotes
 
@@ -143,4 +152,5 @@ On October 5, 2001, the [[White House]] announced that President [[George W. Bus
 [^4]: White House, President's Foreign Intelligence Advisory Board, "Board Panel on Covert Action Operations," Top Secret, September 10, 1963. National Security Archive, Document 6. https://nsarchive.gwu.edu/document/32956-document-6-white-house-pfiab-board-panel-covert-action-operations-top-secret
 [^5]: Carter, Jimmy. Executive Order 11984, "President's Foreign Intelligence Advisory Board," May 4, 1977. The American Presidency Project. https://www.presidency.ucsb.edu/documents/executive-order-11984-presidents-foreign-intelligence-advisory-board
 [^6]: Clinton, William J. Executive Order 12863, "President's Foreign Intelligence Advisory Board." The White House, archived. https://clintonwhitehouse5.archives.gov/textonly/WH/EOP/pfiab/eo12863.html
-[^7]: The White House, Office of the Press Secretary. "Personnel Announcement," October 5, 2001. https://georgewbush-whitehouse.archives.gov/news/releases/2001/10/text/20011005-8.html
+[^7]: Library of Congress, Manuscript Division, *Clare Boothe Luce Papers: A Finding Aid* (MSS30759), chronology and container list. https://tile.loc.gov/storage-services/service/mss/eadxmlmss/eadpdfmss/2003/ms003044.pdf
+[^8]: The White House, Office of the Press Secretary. "Personnel Announcement," October 5, 2001. https://georgewbush-whitehouse.archives.gov/news/releases/2001/10/text/20011005-8.html
