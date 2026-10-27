@@ -31,11 +31,11 @@ relations:
   - type: represented
     with: "[[Wickliffe Draper]]"
     role: "private banker; executor of his estate after 1972"
-    fn: 8
+    fn: 9
   - type: represented
     with: "[[Pioneer Fund]]"
     role: "asset manager under the terms of Draper's will for about two decades; account closed after The Bell Curve"
-    fn: 8
+    fn: 9
   - type: employed_by
     with: "[[Thomas S. Gates Jr.]]"
     reverse: true
@@ -46,36 +46,36 @@ relations:
     reverse: true
     start: 1990
     role: "chairman of the boards of Morgan and the bank from January 1995"
-    fn: 11
+    fn: 12
   - type: director_of
     with: "[[Hanna H. Gray]]"
     reverse: true
     start: 1976
     role: "director of Morgan; President of the University of Chicago 1978 to 1993"
-    fn: 11
+    fn: 12
   - type: director_of
     with: "[[Lee R. Raymond]]"
     reverse: true
     start: 1987
     role: "chairman and chief executive of Exxon Mobil Corporation"
-    fn: 11
+    fn: 12
   - type: director_of
     with: "[[Riley P. Bechtel]]"
     reverse: true
     start: 1995
     role: "chairman and chief executive of Bechtel Group"
-    fn: 11
+    fn: 12
   - type: director_of
     with: "[[Martin Feldstein]]"
     reverse: true
     start: 1993
     role: "president of the National Bureau of Economic Research; director of American International Group"
-    fn: 11
+    fn: 12
   - type: subject_of
     with: "[[Sumitomo Corporation v. J.P. Morgan & Co.]]"
     start: 1999-08
     role: "defendant with J.P. Morgan & Co. Incorporated and a former employee in a copper trading suit in the Southern District of New York"
-    fn: 12
+    fn: 13
 created: 2026-10-01
 updated: 2026-10-26
 ---
@@ -96,25 +96,27 @@ On November 24, 1934 the committee's statement said that it had "no evidence bef
 
 According to the international year books, the bank resulted "through the merger of J. P. Morgan & Co. Incorporated and Guaranty Trust Company of New York on 24 April 1959," with [[Henry C. Alexander]] as chairman in the early 1960s. [[Thomas S. Gates Jr.]], [[United States Secretary of the Navy|Secretary of the Navy]] from 1957 and Deputy Secretary and then Secretary of Defense under [[Dwight D. Eisenhower]] until January 1961, "returned to investment banking, working for the Morgan Guaranty Trust Company," before President [[Gerald Ford]] named him in 1976 Chief of the United States Liaison Office in [[Beijing]].[^1][^7]
 
+The Commercial and Financial Chronicle reported on April 30, 1959 that the bank "began operation April 27, 1959 as the banking institution formed by the merger of J. P. Morgan & Co. Incorporated and Guaranty Trust Company of New York," with Henry C. Alexander as chairman of the board, [[Thomas S. Lamont]] as vice chairman and [[Dale E. Sharp]] as president.[^8]
+
 ### Draper's Accounts
 
-[[Wickliffe Draper]] had been a client of Guaranty Trust since the 1930s. In 1940 the [[Pioneer Fund]] offered to establish annuities for the education of any child born that year to an officer of the [[United States Army Air Corps]] who had already fathered at least three children; according to the records of the fund's director [[John Marshall Harlan II]], Draper arranged for an annuity to be established for each of the twelve children at Guaranty Trust.[^8]
+[[Wickliffe Draper]] had been a client of Guaranty Trust since the 1930s. In 1940 the [[Pioneer Fund]] offered to establish annuities for the education of any child born that year to an officer of the [[United States Army Air Corps]] who had already fathered at least three children; according to the records of the fund's director [[John Marshall Harlan II]], Draper arranged for an annuity to be established for each of the twelve children at Guaranty Trust.[^9]
 
 ### Mississippi, 1963 and 1964
 
-After President [[John F. Kennedy]]'s civil rights address of June 1963 the lawyer [[John C. Satterfield]] of [[Yazoo City]], a past president of the [[American Bar Association]], organized the [[Coordinating Committee for Fundamental American Freedoms]] in [[Washington, D.C.]]; the [[Mississippi]] State [[Mississippi State Sovereignty Commission|Sovereignty Commission]], according to the state archives, "participated in the national campaign to prevent the passage of the 1964 Civil Rights Act, establishing and providing funds for" it.[^9] On July 22, 1963 Satterfield received the first private contribution, a 10,000 dollar Morgan Guaranty cashier's check drawn on Draper's accounts, which was deposited in a special account in the state treasury and logged in the commission's records as "Morgan Guaranty Trust Co." Contributions from Mississippi residents never exceeded 30,000 dollars. A surviving partner of Satterfield's firm said Satterfield referred obliquely to the source of the large money as "the Wall Street gang."[^8]
+After President [[John F. Kennedy]]'s civil rights address of June 1963 the lawyer [[John C. Satterfield]] of [[Yazoo City]], a past president of the [[American Bar Association]], organized the [[Coordinating Committee for Fundamental American Freedoms]] in [[Washington, D.C.]]; the [[Mississippi]] State [[Mississippi State Sovereignty Commission|Sovereignty Commission]], according to the state archives, "participated in the national campaign to prevent the passage of the 1964 Civil Rights Act, establishing and providing funds for" it.[^10] On July 22, 1963 Satterfield received the first private contribution, a 10,000 dollar Morgan Guaranty cashier's check drawn on Draper's accounts, which was deposited in a special account in the state treasury and logged in the commission's records as "Morgan Guaranty Trust Co." Contributions from Mississippi residents never exceeded 30,000 dollars. A surviving partner of Satterfield's firm said Satterfield referred obliquely to the source of the large money as "the Wall Street gang."[^9]
 
-On September 12, 1963 the bank's vice president [[Arthur W. Rossiter Jr.]] telegraphed Governor [[Ross Barnett]] that a client was "setting aside as an anonymous gift" stock valued at 100,000 dollars on the condition that "the fact and amount of the gift to be kept confidential." Barnett agreed the same day. After the shares were sold the gift totaled 98,612 dollars and was entered in the commission's records as "Donation from Morgan Guaranty Trust Company." Four months later Rossiter sent a second telegram announcing an additional 105,000 dollars. The money came from Draper's shares of [[R.J. Reynolds Tobacco Company|Reynolds Tobacco]], [[General Motors]], [[Standard Oil|Standard Oil of New Jersey]] and [[Addressograph-Multigraph]]; the bank sold the stock at Draper's direction, collected commissions on the sales and held the proceeds in what it called a temporary Sovereignty Commission account at Morgan Guaranty. In one letter Rossiter wrote: "This represents an anonymous gift to your Commission and the donor has specifically requested that the fact and the amount of the gift be kept strictly confidential."[^8]
+On September 12, 1963 the bank's vice president [[Arthur W. Rossiter Jr.]] telegraphed Governor [[Ross Barnett]] that a client was "setting aside as an anonymous gift" stock valued at 100,000 dollars on the condition that "the fact and amount of the gift to be kept confidential." Barnett agreed the same day. After the shares were sold the gift totaled 98,612 dollars and was entered in the commission's records as "Donation from Morgan Guaranty Trust Company." Four months later Rossiter sent a second telegram announcing an additional 105,000 dollars. The money came from Draper's shares of [[R.J. Reynolds Tobacco Company|Reynolds Tobacco]], [[General Motors]], [[Standard Oil|Standard Oil of New Jersey]] and [[Addressograph-Multigraph]]; the bank sold the stock at Draper's direction, collected commissions on the sales and held the proceeds in what it called a temporary Sovereignty Commission account at Morgan Guaranty. In one letter Rossiter wrote: "This represents an anonymous gift to your Commission and the donor has specifically requested that the fact and the amount of the gift be kept strictly confidential."[^9]
 
-Nearly 215,000 dollars of the campaign's budget of about 300,000 dollars came through the bank. The committee bought advertisements in 500 daily and weekly newspapers and by April 1964 had distributed 1.4 million pamphlets and mailings. An internal memorandum by Satterfield said Americans had to be shown that the conditions of Black people in the United States resulted from "heredity . . . not discrimination," and named "the intelligence, criminality and immorality of the Negro."[^8] On June 2, 1964 a further 50,000 dollars from Draper arrived through the bank for a proposed permanent national organization. After the murders of [[James Chaney]], [[Andrew Goodman]] and [[Michael Schwerner]] that summer the plan was dropped and the 50,000 dollars was returned to Draper's lawyer [[Harry Weyher]], who deposited it in his firm's escrow account.[^8]
+Nearly 215,000 dollars of the campaign's budget of about 300,000 dollars came through the bank. The committee bought advertisements in 500 daily and weekly newspapers and by April 1964 had distributed 1.4 million pamphlets and mailings. An internal memorandum by Satterfield said Americans had to be shown that the conditions of Black people in the United States resulted from "heredity . . . not discrimination," and named "the intelligence, criminality and immorality of the Negro."[^9] On June 2, 1964 a further 50,000 dollars from Draper arrived through the bank for a proposed permanent national organization. After the murders of [[James Chaney]], [[Andrew Goodman]] and [[Michael Schwerner]] that summer the plan was dropped and the 50,000 dollars was returned to Draper's lawyer [[Harry Weyher]], who deposited it in his firm's escrow account.[^9]
 
-The state treasurer at the time, [[William F. Winter]], said that Wall Street firms charged higher interest rates on Mississippi bonds because of the state's reputation, and that a bond issue was canceled in 1965 for lack of bids on Wall Street.[^8]
+The state treasurer at the time, [[William F. Winter]], said that Wall Street firms charged higher interest rates on Mississippi bonds because of the state's reputation, and that a bond issue was canceled in 1965 for lack of bids on Wall Street.[^9]
 
 ### The Estate and the Pioneer Fund
 
-When Draper died in 1972 the bank continued to manage his holdings while the will was sorted out, and five years later the assets were distributed: about 1 million dollars to family members, 3.3 million dollars to the Pioneer Fund and 1.7 million dollars to the [[Puritan Foundation]], which listed Satterfield's law firm as its address. In 1978 the Puritan Foundation was merged into the [[Council School Foundation]], which supported private schools for white students. In the late 1960s and 1970s Draper had sent dozens of checks to private academies opened for white families after public school integration. His will instructed the fund to use the bank for financial advice, and it did so for two decades. [[Douglas A. Blackmon]] reported in 1999, citing people familiar with the situation, that the bank closed the Pioneer Fund's asset management account after the controversy over *[[The Bell Curve]]* in 1994; the bank would not give details of why.[^8]
+When Draper died in 1972 the bank continued to manage his holdings while the will was sorted out, and five years later the assets were distributed: about 1 million dollars to family members, 3.3 million dollars to the Pioneer Fund and 1.7 million dollars to the [[Puritan Foundation]], which listed Satterfield's law firm as its address. In 1978 the Puritan Foundation was merged into the [[Council School Foundation]], which supported private schools for white students. In the late 1960s and 1970s Draper had sent dozens of checks to private academies opened for white families after public school integration. His will instructed the fund to use the bank for financial advice, and it did so for two decades. [[Douglas A. Blackmon]] reported in 1999, citing people familiar with the situation, that the bank closed the Pioneer Fund's asset management account after the controversy over *[[The Bell Curve]]* in 1994; the bank would not give details of why.[^9]
 
-The bank said that "racism is deplorable," that it did not "support institutions that further racist causes," and that it had given more than 3.3 million dollars of its own money to civil rights groups since the late 1960s. Its spokesman [[Joe Evangelisti]] said: "A thousand times a day, somebody sends money to an organization that 30 years later looks really terrible. We can't tell our customers how to spend their money." The managing director [[Hildy J. Simmons]] said: "As long as the receiving party is legal, we have no discretion," and, of Draper: "You can spend your money the way you want to." The files of the commission, sealed by the 1977 abolition act, were opened by a federal court order, most of them becoming available in the state archives' search room on March 17, 1998, and the [[The Wall Street Journal|Wall Street Journal]] reported the transfers on June 11, 1999.[^8][^9]
+The bank said that "racism is deplorable," that it did not "support institutions that further racist causes," and that it had given more than 3.3 million dollars of its own money to civil rights groups since the late 1960s. Its spokesman [[Joe Evangelisti]] said: "A thousand times a day, somebody sends money to an organization that 30 years later looks really terrible. We can't tell our customers how to spend their money." The managing director [[Hildy J. Simmons]] said: "As long as the receiving party is legal, we have no discretion," and, of Draper: "You can spend your money the way you want to." The files of the commission, sealed by the 1977 abolition act, were opened by a federal court order, most of them becoming available in the state archives' search room on March 17, 1998, and the [[The Wall Street Journal|Wall Street Journal]] reported the transfers on June 11, 1999.[^9][^10]
 
 ### Holdings and Interlocks in 1978
 
@@ -122,38 +124,58 @@ The Senate Committee on Governmental Affairs staff study, *Interlocking Director
 
 ### J.P. Morgan in 1994
 
-In its annual report for 1994 J.P. Morgan stated that it was "a primary dealer in government securities of the United States and all other [[Group of Seven]] industrial nations," that its sales and trading clients and counterparties included "corporations, central banks, governments and their agencies," and that the assets it managed had grown in 1994 to 150 billion dollars. Its equity portfolio "exceeds $1 billion in value and includes securities of 90 companies"; the largest gain came from [[Columbia/HCA]] stock acquired in 1989 "in connection with our role in the leveraged acquisition of [[Hospital Corporation of America]] by its management."[^10]
+In its annual report for 1994 J.P. Morgan stated that it was "a primary dealer in government securities of the United States and all other [[Group of Seven]] industrial nations," that its sales and trading clients and counterparties included "corporations, central banks, governments and their agencies," and that the assets it managed had grown in 1994 to 150 billion dollars. Its equity portfolio "exceeds $1 billion in value and includes securities of 90 companies"; the largest gain came from [[Columbia/HCA]] stock acquired in 1989 "in connection with our role in the leveraged acquisition of [[Hospital Corporation of America]] by its management."[^11]
 
 ### The Board in 2000
 
-The proxy statement for the annual meeting of April 12, 2000 nominated 15 directors of J.P. Morgan & Co., each "also a director of Morgan Guaranty Trust Company of New York." They included the chairman [[Douglas A. Warner III]], a director of [[General Electric]] and [[Anheuser-Busch]] and a member of the Board of Counselors of [[Bechtel Group]]; [[Riley P. Bechtel]], chairman and chief executive of Bechtel Group and a member of the [[Trilateral Commission]]; [[John A. Krol]], retired chairman of [[E.I. du Pont de Nemours and Company]] and a member of the advisory board of [[Bechtel Corporation]]; [[Lee R. Raymond]], chairman of [[Exxon Mobil Corporation]], a member of the [[Council on Foreign Relations]] and the Trilateral Commission, director since 1987; [[James R. Houghton]] of [[Corning Incorporated|Corning]] and a director of Exxon Mobil and [[Metropolitan Life Insurance Company]]; [[Martin Feldstein]], also a director of Columbia/HCA, and [[Ellen V. Futter]], who with Feldstein sat on the board of [[American International Group]] and was a member of the Council on Foreign Relations; [[Hanna H. Gray]], a director since 1976; and [[Paul A. Allaire]] of [[Xerox]], also a member of the Council on Foreign Relations. The proxy listed Corning, DuPont, Exxon Mobil, [[Honeywell]], [[Maytag]], [[Phelps Dodge]] and Xerox as organizations whose officers sat on the board and with which J.P. Morgan had transactions in the ordinary course.[^11]
+The proxy statement for the annual meeting of April 12, 2000 nominated 15 directors of J.P. Morgan & Co., each "also a director of Morgan Guaranty Trust Company of New York." They included the chairman [[Douglas A. Warner III]], a director of [[General Electric]] and [[Anheuser-Busch]] and a member of the Board of Counselors of [[Bechtel Group]]; [[Riley P. Bechtel]], chairman and chief executive of Bechtel Group and a member of the [[Trilateral Commission]]; [[John A. Krol]], retired chairman of [[E.I. du Pont de Nemours and Company]] and a member of the advisory board of [[Bechtel Corporation]]; [[Lee R. Raymond]], chairman of [[Exxon Mobil Corporation]], a member of the [[Council on Foreign Relations]] and the Trilateral Commission, director since 1987; [[James R. Houghton]] of [[Corning Incorporated|Corning]] and a director of Exxon Mobil and [[Metropolitan Life Insurance Company]]; [[Martin Feldstein]], also a director of Columbia/HCA, and [[Ellen V. Futter]], who with Feldstein sat on the board of [[American International Group]] and was a member of the Council on Foreign Relations; [[Hanna H. Gray]], a director since 1976; and [[Paul A. Allaire]] of [[Xerox]], also a member of the Council on Foreign Relations. The proxy listed Corning, DuPont, Exxon Mobil, [[Honeywell]], [[Maytag]], [[Phelps Dodge]] and Xerox as organizations whose officers sat on the board and with which J.P. Morgan had transactions in the ordinary course.[^12]
 
 ### Sumitomo Copper Litigation
 
-In August 1999 [[Sumitomo Corporation]] sued J.P. Morgan & Co. Incorporated, Morgan Guaranty Trust Company of New York "and a former J.P. Morgan employee" in the [[U.S. District Court for the Southern District of New York|Southern District of New York]], alleging that from 1993 to 1996 Morgan had assisted a Sumitomo employee in copper trading.[^12]
+In August 1999 [[Sumitomo Corporation]] sued J.P. Morgan & Co. Incorporated, Morgan Guaranty Trust Company of New York "and a former J.P. Morgan employee" in the [[U.S. District Court for the Southern District of New York|Southern District of New York]], alleging that from 1993 to 1996 Morgan had assisted a Sumitomo employee in copper trading.[^13]
 
 ### The Chase Merger
+
+On September 13, 2000 [[The Chase Manhattan Corporation]] and J.P. Morgan announced an Agreement and Plan of Merger dated September 12, 2000 under which each share of J.P. Morgan common stock would be converted into 3.7 shares of Chase common stock, with reciprocal stock options for 19.9 percent of each company's common stock, at $208.13 per J.P. Morgan share and $56.25 per Chase share.[^14]
 
 On December 31, 2000 J.P. Morgan & Co. Incorporated "merged with and into The Chase Manhattan Corporation," which was renamed J.P. Morgan Chase & Co.; a merger charge of 1.25 billion dollars was recorded that day. The bank itself was succeeded by JPMorgan Chase Bank.[^3]
 
 ### The Financial Trust Company Account
 
-Monthly "Asset Account Portfolio" statements of Morgan Guaranty Trust Company of New York, 345 Park Avenue, were issued to [[Financial Trust Company]], Inc., the [[United States Virgin Islands]] company of [[Jeffrey Epstein]], addressed "C/O American Yacht Harbor, 6100 Red Hook, Quarters #2, St Thomas." The statements released by the [[United States Department of Justice|Justice Department]] run from August 1999 to October 2001, past the merger; the August 1999 statement carries the legend "Confidential Treatment Requested by JPMorgan" and the production number JPM-SDNY-00036858, marking it as part of the bank's production to the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]].[^13][^14][^15]
+Monthly "Asset Account Portfolio" statements of Morgan Guaranty Trust Company of New York, 345 Park Avenue, were issued to [[Financial Trust Company]], Inc., the [[United States Virgin Islands]] company of [[Jeffrey Epstein]], addressed "C/O American Yacht Harbor, 6100 Red Hook, Quarters #2, St Thomas." The statements released by the [[United States Department of Justice|Justice Department]] run from August 1999 to October 2001, past the merger; the August 1999 statement carries the legend "Confidential Treatment Requested by JPMorgan" and the production number JPM-SDNY-00036858, marking it as part of the bank's production to the [[U.S. Attorney's Office for the Southern District of New York|Southern District of New York]].[^15][^16][^17]
 
 ### Footnotes
 
 [^1]: *The International Year Book and Statesmen's Who's Who* (1974, 1975 and 1983 editions), entry for the bank ("through the merger of J. P. Morgan & Co. Incorporated and Guaranty Trust Company of New York on 24 April 1959"); 1963 edition ("Chairman, Henry C. Alexander"). https://archive.org/details/internationalyea0000john
+
 [^2]: U.S. Senate, Committee on Governmental Affairs, Subcommittee on Reports, Accounting and Management, *Interlocking Directorates Among the Major U.S. Corporations: A Staff Study,* Committee Print, 95th Cong., 2d sess. (January 1978), summary of findings. https://archive.org/details/interlockingdire00unit
+
 [^3]: J.P. Morgan Chase & Co., Form 10-K405 for 2001 (filed March 22, 2002), Item 1, Item 14 Exhibit 4.1, and Management's Discussion. https://www.sec.gov/Archives/edgar/data/19617/000095012302002823/y57010e10-k405.htm
+
 [^4]: *Guaranty Trust Co. of New York v. United States,* 304 U.S. 126 (1938) (No. 566, argued March 28 and 29, decided April 25, 1938; opinion of Stone, J.). https://www.law.cornell.edu/supremecourt/text/304/126
+
 [^5]: House Special Committee on Un-American Activities (McCormack-Dickstein Committee), *Investigation of Un-American Activities,* statement of November 24, 1934 and testimony of Smedley D. Butler, Paul Comly French and Gerald P. MacGuire, November 20 to 22, 1934, as reproduced in "The Plot to Overthrow FDR." https://archive.org/details/McCormackDicksteinCommittee ; Antony C. Sutton, *Wall Street and FDR* (Arlington House, 1975), ch. 10, "FDR: Man on the White Horse," pp. 145, 147 (Murphy as director; the bank book passage at p. 145). https://archive.org/details/wall-street-and-fdr-1975
+
 [^6]: *Who's Who in Commerce and Industry* (1936), entry "Murphy, Grayson Mallet-Prevost" ("Senior Vice-Pres., Guaranty Trust Co., 1915-17"; "Resumed position with Guaranty Trust Co., 1919-20"; "Treas., American Liberty League"). https://archive.org/details/whoswhoincommerc00unse_0
+
 [^7]: University of Pennsylvania, Kislak Center, finding aid for the Thomas Sovereign Gates, Jr. papers, biographical note; Gerald R. Ford Library, nomination of Thomas S. Gates as Chief of the U.S. Liaison Office, Beijing, 1976. https://findingaids.library.upenn.edu/records/legacy/upenn_rbml_PUSpMsColl1135
-[^8]: Douglas A. Blackmon, "Silent Partner: How the South's Fight To Uphold Segregation Was Funded Up North," *The Wall Street Journal,* June 11, 1999, p. A1, reproduced at https://slaverybyanothername.com/other-writings/silent-partner-how-the-souths-fight-to-uphold-segregation-was-funded-up-north/
-[^9]: Mississippi Department of Archives and History, Sovereignty Commission Online, "Agency History." https://da.mdah.ms.gov/sovcom/scagencycasehistory
-[^10]: J.P. Morgan & Co. Incorporated, Form 10-K405 for 1994 (filed March 22, 1995), letter to stockholders and "Description of business." https://www.sec.gov/Archives/edgar/data/68100/0000068100-95-000274.txt
-[^11]: J.P. Morgan & Co. Incorporated, definitive proxy statement (Schedule 14A) for the annual meeting of April 12, 2000, filed March 8, 2000, "Item 1: Election of directors," "Transactions with directors and officers." https://www.sec.gov/Archives/edgar/data/68100/0000891092-00-000171.txt
-[^12]: J.P. Morgan Chase & Co., Form 10-K405 for 2001, Item 3, "Legal proceedings" (Sumitomo Corporation v. J.P. Morgan & Co. Incorporated, Morgan Guaranty Trust Company of New York, S.D.N.Y., filed August 1999). https://www.sec.gov/Archives/edgar/data/19617/000095012302002823/y57010e10-k405.htm
-[^13]: U.S. Department of Justice, Epstein Library, EFTA01511044, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., August 1 to August 31, 1999, production number JPM-SDNY-00036858. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01511044.pdf
-[^14]: U.S. Department of Justice, Epstein Library, EFTA01557200, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., October 1 to October 31, 2000. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01557200.pdf
-[^15]: U.S. Department of Justice, Epstein Library, EFTA01557398, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., October 1 to October 31, 2001. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01557398.pdf
+
+[^8]: *The Commercial and Financial Chronicle*, vol. 189, no. 5842 (April 30, 1959), "Morgan Guaranty Trust Formed by Merger." https://archive.org/details/sim_commercial-and-financial-chronicle-thursday_1959-04-30_189_5842
+
+[^9]: Douglas A. Blackmon, "Silent Partner: How the South's Fight To Uphold Segregation Was Funded Up North," *The Wall Street Journal,* June 11, 1999, p. A1, reproduced at https://slaverybyanothername.com/other-writings/silent-partner-how-the-souths-fight-to-uphold-segregation-was-funded-up-north/
+
+[^10]: Mississippi Department of Archives and History, Sovereignty Commission Online, "Agency History." https://da.mdah.ms.gov/sovcom/scagencycasehistory
+
+[^11]: J.P. Morgan & Co. Incorporated, Form 10-K405 for 1994 (filed March 22, 1995), letter to stockholders and "Description of business." https://www.sec.gov/Archives/edgar/data/68100/0000068100-95-000274.txt
+
+[^12]: J.P. Morgan & Co. Incorporated, definitive proxy statement (Schedule 14A) for the annual meeting of April 12, 2000, filed March 8, 2000, "Item 1: Election of directors," "Transactions with directors and officers." https://www.sec.gov/Archives/edgar/data/68100/0000891092-00-000171.txt
+
+[^13]: J.P. Morgan Chase & Co., Form 10-K405 for 2001, Item 3, "Legal proceedings" (Sumitomo Corporation v. J.P. Morgan & Co. Incorporated, Morgan Guaranty Trust Company of New York, S.D.N.Y., filed August 1999). https://www.sec.gov/Archives/edgar/data/19617/000095012302002823/y57010e10-k405.htm
+
+[^14]: The Chase Manhattan Corporation, Form 8-K (date of earliest event reported September 12, 2000; filed September 18, 2000), Item 5. https://www.sec.gov/Archives/edgar/data/19617/000095012300008649/y40434e8-k.txt
+
+[^15]: U.S. Department of Justice, Epstein Library, EFTA01511044, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., August 1 to August 31, 1999, production number JPM-SDNY-00036858. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01511044.pdf
+
+[^16]: U.S. Department of Justice, Epstein Library, EFTA01557200, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., October 1 to October 31, 2000. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01557200.pdf
+
+[^17]: U.S. Department of Justice, Epstein Library, EFTA01557398, DataSet 10, Morgan Guaranty Trust Company of New York, Asset Account Portfolio, Financial Trust Company, Inc., October 1 to October 31, 2001. https://www.justice.gov/epstein/files/DataSet%2010/EFTA01557398.pdf

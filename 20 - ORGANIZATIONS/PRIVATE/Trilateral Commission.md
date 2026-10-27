@@ -128,8 +128,15 @@ relations:
     end: 1978
     role: "member; resigned in 1978"
     fn: 11
+  - type: funded
+    with: "[[Weyerhaeuser family]]"
+    reverse: true
+    start: 1973
+    end: 1980
+    role: "Weyerhaeuser Company listed among corporate financial supporters, as of March 31, 1980"
+    fn: 12
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-26
 ---
 
 The Trilateral Commission is a private organization of business, political, labor and academic figures from North America, Western Europe and Japan (later the Asia Pacific), with regional offices and a published series of task force reports.

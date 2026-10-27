@@ -86,7 +86,7 @@ He entered Yale in 1916 and served as managing editor of the [[Yale Daily News]]
 
 ### Skull and Bones
 
-The Harvard Crimson printed a special dispatch from New Haven dated May 15, 1919, reporting the men elected to the senior societies at Yale in that year's tap day. The Skull and Bones list read: DeForest Van Slyck, James McHenry, Joseph Weir Sargent, L. G. Adams, Daniel R. Winter, Henry R. Luce, John M. Hincks, Harry P. Davison, Theodore L. Safford, Morehead Patterson, Briton Hadden, Alfred C. Schermerhorn, Frank P. Hefflefinger, Francis T. Hobson and David L. Ingalls.[^3] The name index to [[Antony C. Sutton]]'s 1983 study of the society lists the class of 1920 with "Hadden, Briton" and "Luce, Henry Robinson."[^2]
+The Harvard Crimson printed a special dispatch from New Haven dated May 15, 1919, reporting the men elected to the senior societies at Yale in that year's tap day. The Skull and Bones list read: DeForest Van Slyck, James McHenry, Joseph Weir Sargent, L. G. Adams, Daniel R. Winter, Henry R. Luce, John M. Hincks, [[Henry P. Davison Jr.|Harry P. Davison]], Theodore L. Safford, Morehead Patterson, Briton Hadden, Alfred C. Schermerhorn, Frank P. Hefflefinger, Francis T. Hobson and David L. Ingalls.[^3] The name index to [[Antony C. Sutton]]'s 1983 study of the society lists the class of 1920 with "Hadden, Briton" and "Luce, Henry Robinson."[^2]
 
 Sutton's section on communications states that "There has been a significant penetration into communications," and gives as its first example "Henry Luce of Time-Life is in The Order."[^4] In 1977 [[Ron Rosenbaum]] named Luce among the society's members in an article in [[Esquire]]. Rosenbaum wrote of Bones reunions: "Where else can you hear Archibald MacLeish take on Henry Luce in a soul-versus-capital debate with no holds barred?"[^5]
 
@@ -164,7 +164,7 @@ A review board letter of May 1, 1995 to [[E. Gabriel Perle]], a former general c
 
 ### LSD and the Luce magazines
 
-The first Time article on LSD, "Dream Stuff," ran in 1954 and reported on the drug as an adjunct to psychotherapy. In May 1957 Life published R. Gordon Wasson's account of a mushroom ceremony in Mexico in its Great Adventure series, a seventeen-page spread with color photographs. [[Martin A. Lee]] and [[Bruce Shlain]] wrote in their 1985 book [[Acid Dreams]] that Wasson was then a vice president of [[J. P. Morgan and Company]].[^38][^39]
+The first Time article on LSD, "Dream Stuff," ran in 1954 and reported on the drug as an adjunct to psychotherapy. In May 1957 Life published R. Gordon Wasson's account of a mushroom ceremony in Mexico in its Great Adventure series, a seventeen-page spread with color photographs. [[Martin A. Lee]] and [[Bruce Shlain]] wrote in their 1985 book [[Acid Dreams]] that Wasson was then a vice president of [[J. P. Morgan & Co.|J. P. Morgan and Company]].[^38][^39]
 
 Lee and Shlain wrote that Luce "turned on a half-dozen times in the late 1950s and early 1960s under the supervision of Dr. Sidney Cohen," a Los Angeles psychiatrist attached to UCLA and the Veterans Hospital, and that Cohen also gave the drug to Clare Boothe Luce. Their notes cite W. A. Swanberg's biography Luce and His Empire (p. 463) and Wilfred Sheed's Clare Boothe Luce (p. 125) for the count.[^38] Jack Shafer wrote in Slate that [[Alan Brinkley]]'s biography of Luce limits the discussion to about three pages and says Henry took the drug once or perhaps twice, against Clare's multiple trips.[^39]
 

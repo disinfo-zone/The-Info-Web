@@ -65,16 +65,24 @@ The war eventually led to Truman's firing of General [[Douglas MacArthur]] in Ap
 
 ### Legacy
 
-Acheson was a target of Senator Joseph McCarthy's attacks, primarily over the "loss" of [[China]] to communism - which McCarthy attributed to State Department subversion - and over Acheson's refusal to condemn former State Department official Alger Hiss following Hiss's conviction for perjury in connection with Soviet espionage. McCarthy called Acheson's State Department a "Dean Acheson College of Cowardly Communist Containment."
+Acheson was a target of Senator Joseph McCarthy's attacks, primarily over the "loss" of [[China]] to communism, which McCarthy attributed to State Department subversion, and over Acheson's refusal to condemn former State Department official Alger Hiss following Hiss's conviction for perjury in connection with Soviet espionage. On January 25, 1950, the day Hiss was sentenced, Acheson told reporters at his news conference, as the New York Times reported, "I do not intend to turn my back on Alger Hiss."[^8] McCarthy called Acheson's State Department a "Dean Acheson College of Cowardly Communist Containment."
 
 After leaving government, Acheson returned to law practice and remained influential in Democratic foreign policy circles, advising subsequent administrations informally. He won the [[Pulitzer Prize]] for History in 1970 for *Present at the Creation*. He died at Sandy Spring, Maryland, on October 12, 1971.
 
 ### Footnotes
 
 [^1]: Acheson, Dean. *Present at the Creation: My Years in the State Department.* Norton, 1969. Beisner, Robert L. *Dean Acheson: A Life in the Cold War.* Oxford University Press, 2006.
+
 [^2]: *Department of State Bulletin*, vol. VI, no. 154 (June 6, 1942), "Address by Assistant Secretary Acheson to Americans of Italian Descent," released to the press June 3. https://archive.org/details/sim_department-of-state-bulletin_1942-06-06_6_154
+
 [^3]: FRUS 1950, volume IV, Document 127 (Truman to Acheson, March 1, 1950) and Document 131 (Barrett to Acheson, March 6, 1950) with the editorial note on Acheson's discussion with Truman. https://history.state.gov/historicaldocuments/frus1950v04/d131
+
 [^4]: Bessner, "The Night Watchman," p. 238 (the report's final date and Acheson's receipt on February 15, 1951).
+
 [^5]: Brands, H.W. *The General vs. the President: MacArthur and Truman at the Brink of Nuclear War.* Doubleday, 2016. Hogan, Michael J. *A Cross of Iron: Harry S. Truman and the Origins of the National Security State, 1945-1954.* Cambridge University Press, 1998.
+
 [^6]: William P. Bundy Papers (MC189), Biography/History, Princeton University Library, https://findingaids.library.upenn.edu/records/PRIN_MUDD_MC189
+
 [^7]: Allen Drury, "McCarthy Warns CIA Head Fight on Bundy Isn't Over," newspaper article, August 4, 1953, CIA Reading Room, CIA-RDP74-00297R000401370024-4, https://archive.org/details/cia-readingroom-document-cia-rdp74-00297r000401370024-4
+
+[^8]: Harry S. Truman Library, "The President's News Conference," January 27, 1950, footnote 1 (quoting the New York Times report of Acheson's January 25, 1950 remark). https://www.trumanlibrary.gov/library/public-papers/23/presidents-news-conference

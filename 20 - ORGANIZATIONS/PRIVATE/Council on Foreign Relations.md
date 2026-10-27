@@ -86,37 +86,37 @@ relations:
     reverse: true
     end: 2023-06-30
     role: "president, 1,868,393 dollars reportable compensation in the return for the year to June 2023"
-    fn: 35
+    fn: 36
   - type: head_of
     with: "[[David Rubenstein]]"
     reverse: true
     role: "chairman in the return for the year to June 2023"
-    fn: 35
+    fn: 36
   - type: funded
     with: "[[Bernard L. Schwartz]]"
     reverse: true
     start: 2002
     role: "Bernard L. Schwartz Senior Fellowship in Business and Foreign Policy, first holder Bennett Freeman"
-    fn: 29
+    fn: 30
   - type: director_of
     with: "[[Cyrus Vance]]"
     reverse: true
     role: "director, term expiring 1987; Executive Committee; Vice Chairman of the Board"
-    fn: 28
+    fn: 29
   - type: director_of
     with: "[[William P. Bundy]]"
     reverse: true
     start: 1964
     end: 1972
     role: "board of directors"
-    fn: 33
+    fn: 34
   - type: employed_by
     with: "[[William P. Bundy]]"
     reverse: true
     start: 1972
     end: 1984
     role: "editor of Foreign Affairs"
-    fn: 34
+    fn: 35
 created: 2026-10-01
 updated: 2026-10-26
 ---
@@ -191,6 +191,8 @@ A memorandum of July 26, 1976 from the National Intelligence Officer for China, 
 
 The annual report for July 1, 1984 to June 30, 1985 records 2,376 members, of whom 38 percent lived in the New York area, 24 percent in the Washington area and 6 percent in the Boston area. By profession 27 percent were business executives, 21 percent scholars or academic administrators, 15 percent administrators of nonprofit institutions, 11 percent government officials, 11 percent journalists and communications executives and 10 percent lawyers; women, admitted from 1970, numbered 250. Members are elected by the Board of Directors on nomination of the Membership Committee, and by tradition participants do not attribute statements made at meetings to speakers in public media.[^1]
 
+[[Winston Lord]], of the [[Lord family]], was president of the Council from 1977 to 1985. The annual report lists "Winston Lord, President, 1977-1985" on its staff page and records that he left the presidency on June 30, 1985.[^28] In a letter dated August 19, 1985, David Rockefeller wished "Winston and Bette well as they embark on their challenging new career," and linked that career to Lord's role as "the President's emissary to the People's Republic of China."[^28]
+
 The report's membership roster, which includes people invited at the Board's June 1985 meeting who had accepted by press time, lists among the names Richard M. Bissell Jr., [[William J. Casey]], [[William Colby]], [[Richard Helms]], Stansfield Turner, [[Robert M. Gates]], [[R. James Woolsey]], [[John Deutch]], [[Ray S. Cline]], [[Cord Meyer]], [[Frank G. Wisner II]], William J. Barnds and Rolland Bushner, together with [[Katharine Graham]], [[Hedley Donovan]], [[Dan Rather]], [[Jim Lehrer]], [[Flora Lewis]], [[James Reston]], William S. Paley and [[Roone Arledge]].[^1]
 
 Corporate Program subscriptions exceeded one million dollars for the fourth consecutive year, at 1,060,800 dollars net, and Foreign Affairs income was 2,095,300. Subscribers were offered a black-tie dinner for chairmen and presidents with an address by a prominent statesman, seminars, executive luncheons, a library of about 40,000 volumes with a clipping service, and the chance to nominate young executives for the International Affairs Fellowship.[^1] The Board approved a 14.5 million dollar Campaign for the Council in February 1983, with David Rockefeller and C. Douglas Dillon as co-chairmen and [[C. Peter McColough]] of [[Xerox]] as campaign chairman; in early August 1985, 14.1 million dollars in gifts and pledges had been received. The report's partial list of donors of 10,000 dollars or more to the Campaign names these corporations: Agip Petroleum, American Can, [[American Express]], the Arabian American Oil Company, AT&T, Atlantic Richfield, [[Bankers Trust]], Barclays Bank, the [[Bechtel Group]], Bristol-Myers, CBS, [[Chase Manhattan Bank]], Chemical Bank, [[Citibank]], Dillon Read, Dow Chemical, Dow Jones, Du Pont, [[Exxon]], Ford Motor, General Electric, General Motors, [[Goldman Sachs]], IBM, [[Lazard Freres]], [[Manufacturers Hanover]], [[Mobil]], [[Morgan Guaranty Trust]], Morgan Stanley, [[Northrop]], PaineWebber, Peat Marwick Mitchell, PepsiCo, [[Price Waterhouse]], Procter and Gamble, RCA, the Rockefeller Group, [[Salomon Brothers]], United Technologies and Xerox, among others. Foundation donors included the Ford Foundation, the German Marshall Fund, the Rockefeller Foundation, the [[Rockefeller Brothers Fund]], the [[Andrew W. Mellon Foundation]], the Starr Foundation and the Schlumberger Foundation.[^1]
@@ -201,69 +203,108 @@ General fund expenditures were 6,778,300 dollars against total funding of 6,718,
 
 The report lists as directors, at press time, Harold Brown, Stanley Hoffmann, Nicholas Katzenbach, Lane Kirkland, Juanita Kreps, Robert Scalapino, [[Brent Scowcroft]], Stephen Stamas, Philip Geyelin, McColough, Donald McHenry, Peterson, William D. Rogers, Vance, Marina Whitman, Walter Wriston, Graham Allison, Warren Christopher, Richard Gelb, Alan Greenspan, [[Bobby Ray Inman]], Jeane Kirkpatrick, Lewis Preston and Clifton Wharton. Of these twenty-four, Brown, Allison, Christopher, Kirkland, Greenspan, Kreps and Whitman appear in the Trilateral Commission's North American roster of July 1981.[^1][^25] A letter from McCloy dated June 27, 1985, printed in the report, refers to David Rockefeller's "44 years of close and active association with the Council" and to his "relinquishment of his leadership on the Board."[^1]
 
-In the report's Officers and Directors table Cyrus Vance appears in the column of directors with terms expiring in 1987. He is listed on the Executive Committee chaired by David Rockefeller (with Warren Christopher, [[Theodore Hesburgh]], Lane Kirkland, McColough, Peterson and [[Lewis T. Preston]]), among the members of the Campaign Executive Committee, and, in the report's historical roll of officers, among the Vice Chairmen of the Board with Grayson Kirk. He chaired the advisory group of the Studies Program's European-American Project ([[Robert D. Hormats]], vice chairman), presided over a September 13, 1984 conference held with the Dayan Center of [[Tel Aviv University]] and wrote the foreword to its printed transcript, and chaired a March 1985 conference on "Central America as a European-American Issue."[^28]
+In the report's Officers and Directors table Cyrus Vance appears in the column of directors with terms expiring in 1987. He is listed on the Executive Committee chaired by David Rockefeller (with Warren Christopher, [[Theodore Hesburgh]], Lane Kirkland, McColough, Peterson and [[Lewis T. Preston]]), among the members of the Campaign Executive Committee, and, in the report's historical roll of officers, among the Vice Chairmen of the Board with Grayson Kirk. He chaired the advisory group of the Studies Program's European-American Project ([[Robert D. Hormats]], vice chairman), presided over a September 13, 1984 conference held with the Dayan Center of [[Tel Aviv University]] and wrote the foreword to its printed transcript, and chaired a March 1985 conference on "Central America as a European-American Issue."[^29]
 
 ### The Bernard L. Schwartz fellowship and the Greenberg Center, 2002
 
-On March 20, 2002, the council announced that [[Bennett Freeman]] had been named the first Bernard L. Schwartz Fellow in Business and Foreign Policy. The fellowship was placed in the council's new [[Maurice R. Greenberg Center for Geoeconomic Studies]]. The release states: "This fellowship is funded by Bernard L. Schwartz, Chairman and CEO of Loral Space & Communications Ltd."[^29]
+On March 20, 2002, the council announced that [[Bennett Freeman]] had been named the first Bernard L. Schwartz Fellow in Business and Foreign Policy. The fellowship was placed in the council's new [[Maurice R. Greenberg Center for Geoeconomic Studies]]. The release states: "This fellowship is funded by Bernard L. Schwartz, Chairman and CEO of Loral Space & Communications Ltd."[^30]
 
-Two months earlier, on January 9, 2002, [[Space Systems/Loral]] had signed a consent agreement with the State Department's Office of Defense Trade Controls. The agreement set a civil penalty of $20,000,000, of which $14,000,000 was payable and $6,000,000 was suspended, and recorded that the company neither admitted nor denied the allegations in a draft charging letter.[^30] The draft charging letter, addressed to the president of Loral Space & Communications, alleged "Sixty-four (64) violations" in connection with the aftermath of the February 1996 Long March 3B failure.[^31]
+Two months earlier, on January 9, 2002, [[Space Systems/Loral]] had signed a consent agreement with the State Department's Office of Defense Trade Controls. The agreement set a civil penalty of $20,000,000, of which $14,000,000 was payable and $6,000,000 was suspended, and recorded that the company neither admitted nor denied the allegations in a draft charging letter.[^31] The draft charging letter, addressed to the president of Loral Space & Communications, alleged "Sixty-four (64) violations" in connection with the aftermath of the February 1996 Long March 3B failure.[^32]
 
 ### Foreign Affairs
 
-Foreign Affairs published "The Sources of Soviet Conduct" in July 1947 over the signature "X," credited by the journal to George F. Kennan; the article called for "a long-term, patient but firm and vigilant containment of Russian expansive tendencies."[^32]
+Foreign Affairs published "The Sources of Soviet Conduct" in July 1947 over the signature "X," credited by the journal to George F. Kennan; the article called for "a long-term, patient but firm and vigilant containment of Russian expansive tendencies."[^33]
 
-William P. Bundy served on the Council's board of directors from 1964 to 1972.[^33] A 1972 press item reported that he would succeed Hamilton Fish Armstrong, who had edited the quarterly for 43 years, as editor of Foreign Affairs in the fall of 1972.[^34] The Princeton finding aid gives his editorship as 1972 to 1984.[^33] He also served as a trustee of the [[American Assembly]] from 1964 to 1984.[^33]
+William P. Bundy served on the Council's board of directors from 1964 to 1972.[^34] A 1972 press item reported that he would succeed Hamilton Fish Armstrong, who had edited the quarterly for 43 years, as editor of Foreign Affairs in the fall of 1972.[^35] The Princeton finding aid gives his editorship as 1972 to 1984.[^34] He also served as a trustee of the [[American Assembly]] from 1964 to 1984.[^34]
 
 ### Recent filings
 
-The Council's Form 990 for the year ended June 30, 2023 reports revenue of 106,930,600 dollars, expenses of 83,166,400 dollars and year-end assets of 719,707,600 dollars; the same series of returns on the [[ProPublica]] Nonprofit Explorer shows revenue of 59,633,100 dollars and assets of 438,237,900 dollars for the year to June 2011.[^2] The 2023 return lists contributions of 63,113,857 dollars, Foreign Affairs revenue of 11,709,500, individual membership revenue of 9,036,200 and corporate membership revenue of 1,103,843, with 711 employees and 34 voting members of the governing body. It describes the membership as "over 5,000," states that the members elect all voting directors, and gives the year of founding as 1921.[^35]
+The Council's Form 990 for the year ended June 30, 2023 reports revenue of 106,930,600 dollars, expenses of 83,166,400 dollars and year-end assets of 719,707,600 dollars; the same series of returns on the [[ProPublica]] Nonprofit Explorer shows revenue of 59,633,100 dollars and assets of 438,237,900 dollars for the year to June 2011.[^2] The 2023 return lists contributions of 63,113,857 dollars, Foreign Affairs revenue of 11,709,500, individual membership revenue of 9,036,200 and corporate membership revenue of 1,103,843, with 711 employees and 34 voting members of the governing body. It describes the membership as "over 5,000," states that the members elect all voting directors, and gives the year of founding as 1921.[^36]
 
-[[Richard Haass]] is shown as president through June 30, 2023 with reportable compensation of 1,868,393 dollars and 59,851 dollars of other compensation; [[Michael Froman]] is named as principal officer. Other reported compensation includes 524,534 dollars to the chief investment officer, [[Giovanna Ban]], 519,740 to the executive vice president and chief financial officer, Keith Olson, 459,793 to the director of studies, [[James M. Lindsay]], 330,419 to the editor of Foreign Affairs, [[Daniel Kurtz-Phelan]], and 280,205 to the distinguished fellow [[Martin Indyk]]. [[David Rubenstein]] is chairman, [[Blair Effron]] and [[Jami Miscik]] vice-chairmen, and the directors include [[Thad Allen]], [[Ashton B. Carter]] (through October 2022), [[Kenneth I. Chenault]], [[Laurence D. Fink]] (through June 30, 2023), [[Timothy F. Geithner]] (through June 30, 2023), [[James P. Gorman]], [[Stephen J. Hadley]], [[Jeh Johnson]], [[William H. McRaven]], [[Janet Napolitano]], [[Meghan O'Sullivan]], [[Ruth Porat]], [[Laurene Powell Jobs]], [[Frances F. Townsend]], [[Daniel H. Yergin]] and [[Fareed Zakaria]]. Schedule O reports business relationships between Haass and directors Effron, [[Stephen C. Freidheim]] and [[Nicholas Beim]]; between Rubenstein and Carter and Yergin; between Miscik and Gorman; and between directors [[James Manyika]] and Porat. Schedule I lists fellowship payments including 596,458 dollars for nine International Affairs Fellows, 288,750 dollars for four fellows in national security, 119,350 dollars for six in Japan, 100,000 dollars for one Edward R. Murrow press fellow and 80,000 dollars for one Stanton nuclear security fellow. The donor schedule is redacted in the public copy.[^35]
+[[Richard Haass]] is shown as president through June 30, 2023 with reportable compensation of 1,868,393 dollars and 59,851 dollars of other compensation; [[Michael Froman]] is named as principal officer. Other reported compensation includes 524,534 dollars to the chief investment officer, [[Giovanna Ban]], 519,740 to the executive vice president and chief financial officer, Keith Olson, 459,793 to the director of studies, [[James M. Lindsay]], 330,419 to the editor of Foreign Affairs, [[Daniel Kurtz-Phelan]], and 280,205 to the distinguished fellow [[Martin Indyk]]. [[David Rubenstein]] is chairman, [[Blair Effron]] and [[Jami Miscik]] vice-chairmen, and the directors include [[Thad Allen]], [[Ashton B. Carter]] (through October 2022), [[Kenneth I. Chenault]], [[Laurence D. Fink]] (through June 30, 2023), [[Timothy F. Geithner]] (through June 30, 2023), [[James P. Gorman]], [[Stephen J. Hadley]], [[Jeh Johnson]], [[William H. McRaven]], [[Janet Napolitano]], [[Meghan O'Sullivan]], [[Ruth Porat]], [[Laurene Powell Jobs]], [[Frances F. Townsend]], [[Daniel H. Yergin]] and [[Fareed Zakaria]]. Schedule O reports business relationships between Haass and directors Effron, [[Stephen C. Freidheim]] and [[Nicholas Beim]]; between Rubenstein and Carter and Yergin; between Miscik and Gorman; and between directors [[James Manyika]] and Porat. Schedule I lists fellowship payments including 596,458 dollars for nine International Affairs Fellows, 288,750 dollars for four fellows in national security, 119,350 dollars for six in Japan, 100,000 dollars for one Edward R. Murrow press fellow and 80,000 dollars for one Stanton nuclear security fellow. The donor schedule is redacted in the public copy.[^36]
 
-Five of the directors named in the 2023 return (Rubenstein, Manyika, O'Sullivan, Townsend and Yergin) are members of the North American group in the Trilateral Commission's list of September 6, 2024, on which five Council fellows also appear.[^36]
+Five of the directors named in the 2023 return (Rubenstein, Manyika, O'Sullivan, Townsend and Yergin) are members of the North American group in the Trilateral Commission's list of September 6, 2024, on which five Council fellows also appear.[^37]
 
 ### Jeffrey Epstein
 
-Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|Epstein Library]], one headed "Biographical Information of Jeffrey E. Epstein" and one "About Jeffrey E. Epstein," neither dated on its face, describe [[Jeffrey Epstein]] as "a former member of the Trilateral Commission and a former member of the Council on Foreign Relations." No Council membership roll appears in the documents examined.[^37] An exchange of November 8 and 15, 2010 between Epstein and the Council's director of events concerns travel and a weekend event.[^38]
+Two biographical statements in the [[Department of Justice]]'s [[Epstein Files|Epstein Library]], one headed "Biographical Information of Jeffrey E. Epstein" and one "About Jeffrey E. Epstein," neither dated on its face, describe [[Jeffrey Epstein]] as "a former member of the Trilateral Commission and a former member of the Council on Foreign Relations." No Council membership roll appears in the documents examined.[^38] An exchange of November 8 and 15, 2010 between Epstein and the Council's director of events concerns travel and a weekend event.[^39]
 
 ### Footnotes
 
 [^1]: Council on Foreign Relations, Annual Report, July 1, 1984 to June 30, 1985 (New York, 1985): Summary Description, pp. 5 to 6; Staff, p. 7; Membership, p. 94; Corporate Program, p. 111; Development Activities, pp. 112 to 124 (The Campaign for the Council, pp. 119 to 123); Finances, pp. 133 to 135; Officers and Directors, pp. 2 and 148; Historical Roster, pp. 150 to 152; Membership Roster, pp. 154 ff.; letter of John J. McCloy, June 27, 1985; Foreign Affairs editors, Council Publications. Sanitized copy released by the Central Intelligence Agency, CIA-RDP90-00806R000100210066-5, https://archive.org/details/cia-readingroom-document-cia-rdp90-00806r000100210066-5
+
 [^2]: ProPublica Nonprofit Explorer, Council on Foreign Relations Inc, EIN 13-1628168, API record of filings for tax years 2011 to 2023 (ruling date 1927-01), https://projects.propublica.org/nonprofits/organizations/131628168
+
 [^3]: The Rockefeller Foundation, Annual Report 1939 (New York, 1940): Social Sciences, International Relations, pp. 273 to 274, and appropriations table (RF 39110), https://archive.org/details/the-rockefeller-foundation-annual-report-1939
+
 [^4]: Council on Foreign Relations, Annual Report of the Executive Director, 1951-1952, with list of members and by-laws (New York, 1952): Officers and Standing Committees (front matter); Summary, p. 4; Committees on Foreign Relations, pp. 41 to 43; Foreign Affairs, pp. 42 to 43; Membership, pp. 45 to 46; Financial, pp. 48 to 49. Sanitized copy, CIA-RDP80R01731R001200010036-3, https://archive.org/details/CIA-RDP80R01731R001200010036-3
+
 [^5]: The Rockefeller Foundation, Annual Report 1943 (New York, 1944): The Social Sciences, International Studies, section Council on Foreign Relations, pp. 178 to 179, https://archive.org/details/the-rockefeller-foundation-annual-report-1943
+
 [^6]: The Rockefeller Foundation, Annual Report 1945 (New York, 1946): The Social Sciences, section Council on Foreign Relations, pp. 190 to 191, https://archive.org/details/the-rockefeller-foundation-annual-report-1945
+
 [^7]: The Rockefeller Foundation, Annual Report 1946 (New York, 1947): The Social Sciences, sections Council on Foreign Relations and Council on Foreign Relations, History of World War II, pp. 186 to 189, https://archive.org/details/the-rockefeller-foundation-annual-report-1946
+
 [^8]: Letter, Council on Foreign Relations (catalogued as from Walter H. Mallory, Executive Director) to Allen W. Dulles, December 17, 1954, CIA-RDP80R01731R001200030019-0, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200030019-0
+
 [^9]: Council on Foreign Relations, Receipts (1946-1951), Research Budget, with Contributions of Corporations, Individual Contributions to the 25th Anniversary Fund and Corporations with Officers who are members of the Council on Foreign Relations, November 1951, 8 pages, CIA-RDP80R01731R001100170005-1, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001100170005-1
+
 [^10]: Ford Foundation, "Annual Report 1965," grant tables, entry for Council on Foreign Relations, $1,000,000, under the heading American education in world affairs. https://www.fordfoundation.org/media/2435/1965-annual-report.pdf
+
 [^11]: John J. McCloy to Allen W. Dulles, April 29, 1953, CIA Reading Room document CIA-RDP80R01731R001200020045-2. https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200020045-2
+
 [^12]: Rockefeller Archive Center, The Trilateral Commission (North America) Records, finding aid by Robert Battaly, April 2011, Institutional History, p. 2, https://dimes.rockarch.org/collections/2KaqPEr3JRZv5WBQsf9mKn (text read from the copy at https://archive.org/download/one-world-order-new-world-order/Trilateral%20Commission%20records%20%28Rockefeller%20Archives%29.pdf)
+
 [^13]: Letter, Hamilton Fish Armstrong to W. Averell Harriman, December 12, 1950, CIA-RDP80R01731R003100010004-7, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r003100010004-7
+
 [^14]: Letter, Alan G. Kirk (Department of State) to Allen W. Dulles, January 2, 1951, with note of January 11, CIA-RDP80R01731R001100170026-8, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001100170026-8
+
 [^15]: Letter, Allen W. Dulles to Gordon Dean, February 13, 1952, CIA-RDP80R01731R001200010035-4, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200010035-4
+
 [^16]: Letters, George S. Franklin Jr. to Allen W. Dulles, November 24, 1952 (CIA-RDP80R01731R001200010002-0), January 27, 1953 (CIA-RDP80R01731R001200020051-5) and June 19, 1953 (CIA-RDP80R01731R001200020027-2), https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200010002-0, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200020051-5 and https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200020027-2
+
 [^17]: Letter, Allen W. Dulles to the Membership Committee, Council on Foreign Relations, distribution notation 20 Apr 55 (ER 6-9539/A), CIA-RDP80R01731R001200030009-1, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200030009-1
+
 [^18]: Letter, Allen W. Dulles to Walter H. Mallory, March 4, 1956 (ER 7-9374/A), with letter of Hamilton Fish Armstrong to Dulles, February 16, 1956, CIA-RDP80B01676R004000060049-1, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r004000060049-1
+
 [^19]: Letter, Hamilton Fish Armstrong to Allen W. Dulles, April 25, 1958, CIA-RDP80B01676R004000060009-5, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r004000060009-5
+
 [^20]: Letter, George S. Franklin Jr. to Allen W. Dulles, May 2, 1958, CIA-RDP80B01676R004000060012-1, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r004000060012-1
+
 [^21]: Letter, Allen W. Dulles to Ferdinand Lathrop Mayer, August 20, 1959, CIA-RDP80R01731R000300010083-1, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r000300010083-1
+
 [^22]: Letter, George S. Franklin Jr. to Allen W. Dulles, May 6, 1960; reply of Allen W. Dulles to Franklin, May 1960; memorandum for Mr. Dulles, May 16, 1960, CIA-RDP80B01676R004100010066-6, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r004100010066-6
+
 [^23]: Minutes of the third meeting of the Discussion Group on Intelligence and Foreign Policy, Council on Foreign Relations, Harold Pratt House, January 8, 1968 (reproduced by Public Intelligence as "Minutes of the 1968 Bissell Meeting at the Council on Foreign Relations"), https://info.publicintelligence.net/CFR-BissellMeeting.pdf
+
 [^24]: Victor Marchetti and John D. Marks, The CIA and the Cult of Intelligence (Dell paperback ed., 1975), "Covert-Action Theory," pp. 55 to 56, and "Controlling the CIA," pp. 332 to 333 (note on p. 332), https://archive.org/details/ciacultofintelli00marc_1
+
 [^25]: The Trilateral Commission, membership list "As of July 1, 1981," reprinted in Congressional Research Service, The Trilateral Commission, Issue Packet IP0092 (Library of Congress, 1981), https://www.everycrsreport.com/files/19810501_IP0092_2d3ea09e2c6068af730f41d315f4ea490bc91878.pdf
+
 [^26]: Memoranda, National Intelligence Officer for China to Deputy Director of Central Intelligence for National Intelligence, July 26, 1976 (NIO 1215-76) and September 7, 1976 (NIO 1426-76), CIA-RDP83B00100R000100130019-2, https://archive.org/details/cia-readingroom-document-cia-rdp83b00100r000100130019-2
+
 [^27]: Letter, Stansfield Turner to Alton Frye, Director, International Affairs Fellowships, Council on Foreign Relations, September 12, 1979, CIA-RDP80B01554R003300220008-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01554r003300220008-8
-[^28]: Council on Foreign Relations, Annual Report, July 1, 1984 to June 30, 1985 (New York, 1985): Officers and Directors; committee lists; Campaign Executive Committee; historical officers; Studies Program and European-American Project (advisory group list); Meetings; Publications. https://archive.org/details/cia-readingroom-document-cia-rdp90-00806r000100210066-5
-[^29]: Council on Foreign Relations, "Bennett Freeman Named First Bernard L. Schwartz Senior Fellow in Business and Foreign Policy," press release dated March 20, 2002, https://www.cfr.org/articles/bennett-freeman-named-first-bernard-l-schwartz-senior-fellow-business-and-foreign
-[^30]: U.S. Department of State, Bureau of Political-Military Affairs, Office of Defense Trade Controls, consent agreement with Space Systems/Loral, Inc., January 9, 2002, Exhibit 10.1 to Loral Space & Communications Ltd. Form 8-K, https://www.sec.gov/Archives/edgar/data/0001006269/000095012302000193/y56456ex10-1.txt
-[^31]: U.S. Department of State, Office of Defense Trade Controls, Draft Charging Letter to Space Systems/Loral, Inc. (undated), https://www.pmddtc.state.gov/sys_attachment.do?sys_id=032ef245db15df00d0a370131f96192b
-[^32]: "X" (George F. Kennan), "The Sources of Soviet Conduct," Foreign Affairs, vol. 25, no. 4, July 1947, https://www.foreignaffairs.com/articles/russian-federation/1947-07-01/sources-soviet-conduct
-[^33]: William P. Bundy Papers (MC189), Biography/History, Princeton University Library, https://findingaids.library.upenn.edu/records/PRIN_MUDD_MC189
-[^34]: "William Bundy to Head Foreign Affairs Journal," press item, 1972, CIA Reading Room, CIA-RDP88-01314R000100540012-3, https://archive.org/details/cia-readingroom-document-cia-rdp88-01314r000100540012-3
-[^35]: Internal Revenue Service, Form 990 of Council on Foreign Relations Inc for the year ended June 30, 2023 (tax year 2022), Parts I, III, VI, VII, VIII, Schedules B, I and O, IRS e-file XML object 202430169349300598, https://apps.irs.gov/pub/epostcard/990/xml/2024/2024_TEOS_XML_01A.zip (member 2024_TEOS_XML_01A/202430169349300598_public.xml)
-[^36]: The Trilateral Commission, membership list "Last updated September 6, 2024," North American Group, https://archive.org/details/tc-membership-list-sept-6-2024-1
-[^37]: Department of Justice, Epstein Library, "Biographical Information of Jeffrey E. Epstein," EFTA00725190, and "About Jeffrey E. Epstein," EFTA00725191, https://www.justice.gov/epstein/files/DataSet%209/EFTA00725190.pdf and https://www.justice.gov/epstein/files/DataSet%209/EFTA00725191.pdf
-[^38]: Department of Justice, Epstein Library, emails of November 8 and 15, 2010 between Jeffrey Epstein and the Council on Foreign Relations director of events, EFTA00751793, https://www.justice.gov/epstein/files/DataSet%209/EFTA00751793.pdf
+
+[^28]: Council on Foreign Relations, *Annual Report, July 1, 1984 to June 30, 1985* (New York, 1985), President's Office staff page; the President's Report (departure on June 30, 1985); the letter of David Rockefeller of August 19, 1985. https://archive.org/details/cia-readingroom-document-cia-rdp90-00806r000100210066-5
+
+[^29]: Council on Foreign Relations, Annual Report, July 1, 1984 to June 30, 1985 (New York, 1985): Officers and Directors; committee lists; Campaign Executive Committee; historical officers; Studies Program and European-American Project (advisory group list); Meetings; Publications. https://archive.org/details/cia-readingroom-document-cia-rdp90-00806r000100210066-5
+
+[^30]: Council on Foreign Relations, "Bennett Freeman Named First Bernard L. Schwartz Senior Fellow in Business and Foreign Policy," press release dated March 20, 2002, https://www.cfr.org/articles/bennett-freeman-named-first-bernard-l-schwartz-senior-fellow-business-and-foreign
+
+[^31]: U.S. Department of State, Bureau of Political-Military Affairs, Office of Defense Trade Controls, consent agreement with Space Systems/Loral, Inc., January 9, 2002, Exhibit 10.1 to Loral Space & Communications Ltd. Form 8-K, https://www.sec.gov/Archives/edgar/data/0001006269/000095012302000193/y56456ex10-1.txt
+
+[^32]: U.S. Department of State, Office of Defense Trade Controls, Draft Charging Letter to Space Systems/Loral, Inc. (undated), https://www.pmddtc.state.gov/sys_attachment.do?sys_id=032ef245db15df00d0a370131f96192b
+
+[^33]: "X" (George F. Kennan), "The Sources of Soviet Conduct," Foreign Affairs, vol. 25, no. 4, July 1947, https://www.foreignaffairs.com/articles/russian-federation/1947-07-01/sources-soviet-conduct
+
+[^34]: William P. Bundy Papers (MC189), Biography/History, Princeton University Library, https://findingaids.library.upenn.edu/records/PRIN_MUDD_MC189
+
+[^35]: "William Bundy to Head Foreign Affairs Journal," press item, 1972, CIA Reading Room, CIA-RDP88-01314R000100540012-3, https://archive.org/details/cia-readingroom-document-cia-rdp88-01314r000100540012-3
+
+[^36]: Internal Revenue Service, Form 990 of Council on Foreign Relations Inc for the year ended June 30, 2023 (tax year 2022), Parts I, III, VI, VII, VIII, Schedules B, I and O, IRS e-file XML object 202430169349300598, https://apps.irs.gov/pub/epostcard/990/xml/2024/2024_TEOS_XML_01A.zip (member 2024_TEOS_XML_01A/202430169349300598_public.xml)
+
+[^37]: The Trilateral Commission, membership list "Last updated September 6, 2024," North American Group, https://archive.org/details/tc-membership-list-sept-6-2024-1
+
+[^38]: Department of Justice, Epstein Library, "Biographical Information of Jeffrey E. Epstein," EFTA00725190, and "About Jeffrey E. Epstein," EFTA00725191, https://www.justice.gov/epstein/files/DataSet%209/EFTA00725190.pdf and https://www.justice.gov/epstein/files/DataSet%209/EFTA00725191.pdf
+
+[^39]: Department of Justice, Epstein Library, emails of November 8 and 15, 2010 between Jeffrey Epstein and the Council on Foreign Relations director of events, EFTA00751793, https://www.justice.gov/epstein/files/DataSet%209/EFTA00751793.pdf

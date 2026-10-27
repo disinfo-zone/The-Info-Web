@@ -66,6 +66,15 @@ relations:
     start: 1947
     role: "co-author of On Active Service in Peace and War (1948); Bundy's note describes a joint method"
     fn: 8
+  - type: relative_of
+    with: "[[Harvey H. Bundy]]"
+    role: "father"
+    fn: 53
+  - type: director_of
+    with: "[[International Friendship League]]"
+    start: 1955-04-20
+    role: "board of directors, Boston"
+    fn: 52
 created: 2026-10-07
 updated: 2026-10-26
 ---
@@ -156,6 +165,14 @@ On September 23, 1966 Bundy wrote to Julius A. Stratton, then chairman of the bo
 
 William P. Bundy, McGeorge Bundy's brother, was Assistant Secretary of State for Far Eastern Affairs in November 1965.[^46] He joined the Central Intelligence Agency's Office of National Estimates in 1951 as chief of staff and liaison to the National Security Council staff, and served on the board of directors of the Council on Foreign Relations from 1964 to 1972.[^47] The Washington Post obituary of October 7, 2000 calls William the older brother of McGeorge Bundy and records that he was sometimes known as "the other Bundy."[^48] On June 3, 1964, after the Honolulu conference, McGeorge Bundy wrote on William Bundy's notes of the conference, "Hitting the North is required."[^49] On August 5, 1964, Rusk told William Bundy that McGeorge Bundy and George Ball were "going over the final touches" of the Tonkin Gulf resolution.[^50]
 
+### Family
+
+*Who's Who in America* (1956-57) gives McGeorge Bundy's birth in Boston on March 30, 1919, as the son of [[Harvey H. Bundy]] and Katharine Lawrence (Putnam) Bundy; the Danvers Historical Society genealogy of the Putnam family records that his parents married on April 17, 1915 and that his mother's mother, Elizabeth Lowell, was a daughter of Augustus Lowell and a sister of [[Abbott Lawrence Lowell]].[^51]
+
+### International Friendship League
+
+McGeorge Bundy was among the directors elected at the annual meeting of the [[International Friendship League]] in Boston on April 20, 1955. The minutes record a suggestion that his father, Harvey H. Bundy, invite him to the board. The league's letterhead gives its incorporation as 1936, and its minutes of that meeting record approaches to the Ford Foundation and the [[Carnegie Corporation]] for grants.[^52]
+
 ### Footnotes
 
 [^1]: Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Alleged Assassination Plots Involving Foreign Leaders: An Interim Report*, S. Rept. 94-465 (1975), p. 156 (Bundy testimony of July 11, 1975), https://www.intelligence.senate.gov/sites/default/files/94465.pdf
@@ -208,3 +225,6 @@ William P. Bundy, McGeorge Bundy's brother, was Assistant Secretary of State for
 [^48]: Bart Barnes, "William Bundy, Dies," The Washington Post, October 7, 2000, https://www.washingtonpost.com/archive/local/2000/10/07/william-bundy-dies/1348f410-94d0-40cb-9ee9-d8fad6603457/
 [^49]: Foreign Relations of the United States, 1964-1968, vol. I, doc. 193, https://history.state.gov/historicaldocuments/frus1964-68v01/d193
 [^50]: Foreign Relations of the United States, 1964-1968, vol. I, doc. 293, https://history.state.gov/historicaldocuments/frus1964-68v01/d293
+[^51]: *Who's Who in America*, vol. 29, 1956-1957, entry "BUNDY, McGeorge," https://archive.org/details/whos-who-in-america_1956-1957_29_3954; *The Historical Collections of the Danvers Historical Society*, vol. 10 (1922), https://archive.org/details/historicalcollec10danv
+[^52]: Record of the annual meeting of the International Friendship League, April 20, 1955, CIA reading room, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r001200070020-4
+[^53]: Grand Rapids press item naming his father, 1960, CIA reading room, https://archive.org/details/cia-readingroom-document-cia-rdp75-00001r000100280064-7

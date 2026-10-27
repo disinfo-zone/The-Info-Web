@@ -23,6 +23,12 @@ relations:
     start: 1950
     end: 1952-12-02
     fn: 18
+  - type: head_of
+    with: "[[Carnegie Endowment for International Peace]]"
+    start: 1946-12
+    end: 1952-12-08
+    role: "chairman of the board of trustees; resigned on being designated Secretary of State"
+    fn: 29
 ---
 
 John Foster Dulles served as the Secretary of State under President [[Dwight D. Eisenhower]]. He, along with his brother [[Allen Dulles]], the [[Central Intelligence Agency|CIA]] director, were infuriated by [[Israel]]'s attempt to mask the extent of its military buildup prior to the 1956 [[Suez Crisis]]. He was regularly present at [[White House]] briefings where intelligence from [[U-2 Spy Plane|U-2]] flights, including early information on [[Dimona]], was presented.[^1]
@@ -85,45 +91,96 @@ Dulles was a leader in the U.S. delegation at the San Francisco founding confere
 
 As Secretary of State, Dulles repeatedly clashed with Nelson Rockefeller over Cold War strategy. Nelson's [[Open Skies]] proposal originated from a working group Rockefeller convened at [[Quantico Marine Corps Base]] between June 5 and 10, 1955. Dulles rejected the plan and, together with Under Secretary [[Herbert Hoover Jr.]], blocked most Rockefeller foreign policy initiatives on the grounds that Rockefeller represented outside interference in State Department prerogatives. When Eisenhower nonetheless incorporated Open Skies into his presentation at the [[1955 Geneva Summit]] on July 21, 1955, Dulles told colleagues he might have to resign if the Soviets accepted the offer; he dreaded having to be "the Devil at Geneva." Eisenhower overruled him and delivered the proposal.[^21]
 
+### Carnegie Endowment board, 1946 to 1952
+
+John Foster Dulles was chairman of the board of trustees of the [[Carnegie Endowment for International Peace]] when the board elected [[Alger Hiss]] president in December 1946; Hiss took office on February 1, 1947. In his 1948 testimony before the [[House Committee on Un-American Activities]], asked by Representative F. Edward Hebert whether Dulles first approached him about the post, Hiss answered "He first approached me," and said Dulles was "the chairman of my board of trustees" who urged him to take the position together with "other members of the board of trustees."[^22]
+
+Hiss testified before the House committee on August 25, 1948 that "shortly after I had been elected but before I had assumed office I had a conversation with Mr. John Foster Dulles in which he said that he had heard reports that people had called me a Communist," and said he assumed Dulles was satisfied there was nothing to them.[^23] At the second Hiss trial in 1949 Hiss testified that Dulles telephoned in December 1946 to ask how to answer a letter from a man who called Hiss a Communist, and that he replied the subject had been "laid to rest." Dulles, testifying in rebuttal for the government, said he did not mention the Carnegie Endowment to Hiss on the 1946 voyage to London, that Hiss's reputation "was very high, as far as I knew it," that the letter was Alfred Kohlberg's, dated December 31 and received January 2, and that he first discussed it with Hiss some days later. He also testified that he had been abroad from late August to December 24, 1948, and that at the Hotel Roosevelt in August 1948 he told Hiss the trustees "would not take any initiative in asking for his resignation."[^24]
+
+In 1950 Dulles chaired the endowment's nominating committee for a new president, with [[Harvey H. Bundy]], [[David Rockefeller]], Earl Harrison and [[James T. Shotwell]]; [[Joseph E. Johnson]] was elected on May 11, 1950.[^25] Shotwell told Federal Bureau of Investigation agents in 1951 that it was his understanding that Dulles selected Bundy to head the nomination committee and that Bundy and Dulles together carried Johnson's election.[^26] In August 1951 Johnson wrote to Allen Dulles about a conference at Zagreb; Johnson noted that he had discussed it with John Foster Dulles, who was not at the executive committee meeting.[^27]
+
+Bundy presided as vice chairman in Dulles's absence at the board meeting of December 10, 1951, and chaired the annual meeting of May 8, 1952 while Dulles was reelected chairman.[^28] On December 8, 1952, after Dulles's designation as Secretary of State, the board adopted a resolution on his resignation as chairman; Dulles left the room, [[Henry M. Wriston]] presided, and the nominating committee recommended that Bundy "be elected to fill Mr. Dulles' unexpired term as Chairman of the Board."[^29]
+
 ### Key Policy Instruments
 
-Dulles was the primary architect of the [[Southeast Asia Treaty Organization]] (SEATO), signed in Manila on September 8, 1954, establishing collective defense obligations among the United States, United Kingdom, France, Australia, [[New Zealand]], the Philippines, Thailand, and Pakistan, with a separate protocol designating Laos, Cambodia, and South Vietnam as protected territories. He contributed to the conclusion of the [[Austrian State Treaty]] (1955), the [[Formosa Resolution]] (signed January 29, 1955, Public Law 4), and the [[Eisenhower Doctrine]] of 1957.[^22]
+Dulles was the primary architect of the [[Southeast Asia Treaty Organization]] (SEATO), signed in Manila on September 8, 1954, establishing collective defense obligations among the United States, United Kingdom, France, Australia, [[New Zealand]], the Philippines, Thailand, and Pakistan, with a separate protocol designating Laos, Cambodia, and South Vietnam as protected territories. He contributed to the conclusion of the [[Austrian State Treaty]] (1955), the [[Formosa Resolution]] (signed January 29, 1955, Public Law 4), and the [[Eisenhower Doctrine]] of 1957.[^30]
 
-On January 12, 1954, Dulles delivered an address before the [[Council on Foreign Relations]] in New York articulating the doctrine of "massive retaliation": the United States would "depend primarily upon a great capacity to retaliate, instantly, by means and at places of our choosing" rather than maintain large conventional forces at every potential flashpoint. The speech was published in the *Department of State Bulletin*, January 25, 1954, pages 107-110.[^23]
+On January 12, 1954, Dulles delivered an address before the [[Council on Foreign Relations]] in New York articulating the doctrine of "massive retaliation": the United States would "depend primarily upon a great capacity to retaliate, instantly, by means and at places of our choosing" rather than maintain large conventional forces at every potential flashpoint. The speech was published in the *Department of State Bulletin*, January 25, 1954, pages 107-110.[^31]
 
-On December 14, 1953, Dulles warned the North Atlantic Council that a French failure to ratify the [[European Defense Community]] (EDC) would require "an agonizing reappraisal" of U.S. relations with France. The EDC failed in 1954 when the French National Assembly rejected it, and Dulles's threat was not executed.[^24]
+On December 14, 1953, Dulles warned the North Atlantic Council that a French failure to ratify the [[European Defense Community]] (EDC) would require "an agonizing reappraisal" of U.S. relations with France. The EDC failed in 1954 when the French National Assembly rejected it, and Dulles's threat was not executed.[^32]
 
 ### Archival Holdings
 
-The John Foster Dulles Papers at the [[Dwight D. Eisenhower Presidential Library]] (Abilene, Kansas) total over 88,000 pages across eleven series, spanning 1950 to 1961 with the bulk in the period 1953-1959. Key series include: the JFD Chronological Series (approximately 13,600 pages of correspondence, memoranda, and memoranda of conversations); the Telephone Conversations Series (13,000 pages of telephone memoranda covering Guatemala, Iran, Korea, Berlin, and other crises); the White House Memoranda Series (including memoranda of Dulles's conversations with Eisenhower and a file of conversations between John Foster and Allen Dulles on intelligence matters); and the Subject Series and General Correspondence and Memoranda Series. A separate collection of Dulles papers (1860-1988) is held at the [[Mudd Manuscript Library]], Princeton University.[^25]
+The John Foster Dulles Papers at the [[Dwight D. Eisenhower Presidential Library]] (Abilene, Kansas) total over 88,000 pages across eleven series, spanning 1950 to 1961 with the bulk in the period 1953-1959. Key series include: the JFD Chronological Series (approximately 13,600 pages of correspondence, memoranda, and memoranda of conversations); the Telephone Conversations Series (13,000 pages of telephone memoranda covering Guatemala, Iran, Korea, Berlin, and other crises); the White House Memoranda Series (including memoranda of Dulles's conversations with Eisenhower and a file of conversations between John Foster and Allen Dulles on intelligence matters); and the Subject Series and General Correspondence and Memoranda Series. A separate collection of Dulles papers (1860-1988) is held at the [[Mudd Manuscript Library]], Princeton University.[^33]
 
-The FRUS volume *Foreign Relations of the United States, 1952-1954, Guatemala* (edited by Susan Holly, published 2003, 287 documents) is the primary State Department documentary record of PBSUCCESS. The FRUS volume *Foreign Relations of the United States, 1951-1954, Iran* is the primary record of TPAJAX. Both are available at history.state.gov.[^26]
+The FRUS volume *Foreign Relations of the United States, 1952-1954, Guatemala* (edited by Susan Holly, published 2003, 287 documents) is the primary State Department documentary record of PBSUCCESS. The FRUS volume *Foreign Relations of the United States, 1951-1954, Iran* is the primary record of TPAJAX. Both are available at history.state.gov.[^34]
 
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991. Chapter 4.
+
 [^2]: U.S. Department of State, Office of the Historian, "John Foster Dulles," *People - Department History*, https://history.state.gov/departmenthistory/people/dulles-john-foster. Arlington National Cemetery, "John Foster Dulles," https://www.arlingtoncemetery.net/jfdulles.htm.
+
 [^3]: Princeton University Library, John Foster Dulles papers, Mudd Manuscript Library, finding aid MC016, biographical note (LL.B., George Washington University Law School, 1911; Sullivan and Cromwell 1911 to 1949; secretary to his grandfather John Watson Foster at the Second Hague Conference, 1907). https://findingaids.library.upenn.edu/records/PRIN_MUDD_MC016
+
 [^4]: Miller Center, University of Virginia, "John Foster Dulles (1953-1959)," https://millercenter.org/president/eisenhower/essays/dulles-1953-secretary-of-state. Dulles admitted to the New York bar 1911; managing partner of Sullivan and Cromwell from 1927.
+
 [^5]: U.S. Department of State, Office of the Historian, *Foreign Relations of the United States, 1919*, Paris Peace Conference, Vol. XI, Document 79, https://history.state.gov/historicaldocuments/frus1919Parisv11/d79. On the ghostwriting arrangement: Stephen Kinzer, *The Brothers: John Foster Dulles, Allen Dulles, and Their Secret World War* (Times Books, 2013), drawing on the Sullivan and Cromwell career record.
+
 [^6]: Biographical Directory of the United States Congress, "DULLES, John Foster," https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=d000522. Senate appointment July 7, 1949; special election defeat November 8, 1949, to Herbert H. Lehman.
+
 [^7]: U.S. Department of State, Office of the Historian, "John Foster Dulles," *People - Department History*, https://history.state.gov/departmenthistory/people/dulles-john-foster. Secretary of State January 21, 1953 to April 22, 1959. Cancer surgery February 1959, Walter Reed Army Medical Center.
+
 [^8]: Stephen Kinzer, *The Brothers: John Foster Dulles, Allen Dulles, and Their Secret World War* (Times Books, 2013). Sullivan and Cromwell represented United Fruit, American and Foreign Power Company, and International Railways of Central America as clients.
+
 [^9]: Thomas McCann, *An American Company: The Tragedy of United Fruit* (Crown, 1976), quoted in multiple secondary accounts of the Sullivan and Cromwell-United Fruit relationship. The 1936 Ubico concession: Sullivan and Cromwell represented United Fruit in the negotiations.
+
 [^10]: Ben Aris and Duncan Campbell, "How Bush's grandfather helped Hitler's rise to power," *The Guardian*, September 25, 2004, quoting a letter of January 1933 from Knight Woolley to W. Averell Harriman from the National Archives files the newspaper cites. https://www.theguardian.com/world/2004/sep/25/usa.secondworldwar
+
 [^11]: U.S. Department of State, Office of the Historian, *Foreign Relations of the United States, 1952-1954, Guatemala*, Document 169, https://history.state.gov/historicaldocuments/frus1952-54Guat/d169. CIA dispatch from PBSUCCESS headquarters (Tracy Barnes, alias William D. Playdon), June 2, 1954. Published 2003, ed. Susan Holly.
+
 [^12]: *FRUS 1952-54, Guatemala*, Document 252, https://history.state.gov/historicaldocuments/frus1952-54Guat/d252. Memorandum of telephone conversation, John Foster Dulles and Allen Dulles, June 28, 1954, 9:39 a.m.
+
 [^13]: *FRUS 1952-54, Guatemala*, Document 189, https://history.state.gov/historicaldocuments/frus1952-54Guat/d189. Memorandum of telephone conversation, John Foster Dulles and Allen Dulles, June 16, 1954, 11:20 a.m.
+
 [^14]: John Foster Dulles, radio address, June 1954. Full text published in *Department of State Bulletin*, 1954. Transcribed and discussed in "Document 9: John F. Dulles, Secretary of State John F. Dulles, Radio Address, 1954," College of Wooster, https://ufcguatemala.voices.wooster.edu/documents/document-9/.
+
 [^15]: U.S. Department of State, Office of the Historian, *Foreign Relations of the United States, 1951-1954, Iran*, Document 169 (March 1, 1953, memorandum Dulles to Eisenhower); Document 184 (April 4, 1953, Kermit Roosevelt to Dulles, with notation "Wisner recommended approval and Dulles approved"); Document 194 (April 21, 1953, briefing notes for Dulles, NSC briefing April 22). All at https://history.state.gov/historicaldocuments/frus1951-54Iran.
+
 [^16]: *FRUS 1951-54, Iran*, Document 306, https://history.state.gov/historicaldocuments/frus1951-54Iran/d306. CIA Station Tehran memorandum, August 28, 1953. The $45 million emergency grant to the post-coup government is documented in secondary accounts drawing on the same FRUS series.
+
 [^17]: Gerard Colby and Charlotte Dennett, *Thy Will Be Done: The Conquest of the Amazon* (HarperCollins, 1995), Ch. 12.
+
 [^18]: The Rockefeller Foundation. *Annual Report 1951,* "President's Review," pp. 95-96, https://archive.org/details/the-rockefeller-foundation-annual-report-1951; *Annual Report 1952,* "President's Review," https://archive.org/details/the-rockefeller-foundation-annual-report-1952; *Annual Report 1960,* on Rusk's resignation, https://archive.org/details/the-rockefeller-foundation-annual-report-1960; *Annual Report 1935,* list of trustees, https://archive.org/details/the-rockefeller-foundation-annual-report-1935. The 1947 report lists Walter W. Stewart as chairman of the board, with Dulles a trustee, https://archive.org/details/the-rockefeller-foundation-annual-report-1947.
+
 [^19]: Colby and Dennett, Ch. 18. Its dating of Dulles's chairmanship to 1935-1952 is contradicted by the foundation's own reports, which date his trusteeship from 1935 and his chairmanship from 1950.
+
 [^20]: Colby and Dennett, Ch. 12.
+
 [^21]: Colby and Dennett, Ch. 19. Eisenhower Library, "The Cold War in the Early Fifties: Open Skies and the 1955 Geneva Summit," subject guide, https://www.eisenhowerlibrary.gov/sites/default/files/research/subject-guides/pdf/cold-war-open-skies-1955-geneva-conference.pdf. Quantico meeting June 5-10, 1955; Geneva Summit proposal July 21, 1955.
-[^22]: U.S. Department of State, Office of the Historian, Southeast Asia Collective Defense Treaty, signed Manila, September 8, 1954. FRUS 1955-57, Vol. II, Document 56, Formosa Resolution, https://history.state.gov/historicaldocuments/frus1955-57v02/d56. On the Austrian State Treaty and Eisenhower Doctrine: Miller Center, "John Foster Dulles (1953-1959)."
-[^23]: John Foster Dulles, address before the Council on Foreign Relations, New York, January 12, 1954. Published in *Department of State Bulletin*, January 25, 1954, pp. 107-110. Key passage: "The basic decision was to depend primarily upon a great capacity to retaliate, instantly, by means and at places of our choosing."
-[^24]: Dulles address, North Atlantic Council, December 14, 1953, on the European Defense Community. Discussed in: "Agonizing Reappraisals: Anthony Eden, John Foster Dulles and the Crisis of European Defence, 1953-54," *Diplomacy and Statecraft*, Vol. 13, No. 4 (2002), https://www.tandfonline.com/doi/abs/10.1080/714000354.
-[^25]: Dwight D. Eisenhower Presidential Library, "John Foster Dulles Papers: Scope and Content Note," finding aid, Abilene, Kansas, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/scope-and-content.pdf. Telephone Conversations Series finding aid, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/telephone-conversations-series.pdf.
-[^26]: *Foreign Relations of the United States, 1952-1954, Guatemala*, ed. Susan Holly (Washington: U.S. Government Printing Office, 2003), 287 documents, https://history.state.gov/historicaldocuments/frus1952-54Guat. *Foreign Relations of the United States, 1951-1954, Iran*, https://history.state.gov/historicaldocuments/frus1951-54Iran.
+
+[^22]: *Hearings Regarding Communist Espionage in the United States Government*, House Committee on Un-American Activities, 80th Congress, 2d session, 1948, testimony of Alger Hiss, pp. 645-646, https://archive.org/details/hearingsregardin1948unit
+
+[^23]: *Hearings Regarding Communist Espionage in the United States Government*, House Committee on Un-American Activities, 1948, testimony of Alger Hiss, p. 1133. https://archive.org/details/hearingsregardin1948unit
+
+[^24]: *United States of America against Alger Hiss: Transcript of Record*, second trial, vol. V, testimony of John Foster Dulles, trial transcript pp. 4474-4493 (Hiss's account at vol. IV, pp. 2919-2925). https://archive.org/details/unitedstatesofam05hiss
+
+[^25]: Carnegie Endowment for International Peace, answers to the questionnaire of the Select Committee to Investigate Tax-Exempt Foundations, 1952, Edward R. Murrow Papers, vol. 42, https://archive.org/details/per_edward-r-murrow-papers_edward-r-murrow-papers_1927-1973_42
+
+[^26]: Federal Bureau of Investigation, Joseph Esrey Johnson file, New York memorandum of October 30, 1951, FOIA release 1368175-0, https://archive.org/details/JosephEsreyJohnson
+
+[^27]: Letter from Joseph E. Johnson to Allen W. Dulles, August 1951, CIA reading room, https://archive.org/details/cia-readingroom-document-cia-rdp80r01731r003100030016-2
+
+[^28]: Carnegie Endowment for International Peace, Board of Trustees minutes of December 10, 1951 and annual meeting of May 8, 1952, Edward R. Murrow Papers, vol. 46, https://archive.org/details/per_edward-r-murrow-papers_edward-r-murrow-papers_1927-1973_46
+
+[^29]: Carnegie Endowment for International Peace, Board of Trustees minutes of December 8, 1952, Edward R. Murrow Papers, vol. 42, https://archive.org/details/per_edward-r-murrow-papers_edward-r-murrow-papers_1927-1973_42
+
+[^30]: U.S. Department of State, Office of the Historian, Southeast Asia Collective Defense Treaty, signed Manila, September 8, 1954. FRUS 1955-57, Vol. II, Document 56, Formosa Resolution, https://history.state.gov/historicaldocuments/frus1955-57v02/d56. On the Austrian State Treaty and Eisenhower Doctrine: Miller Center, "John Foster Dulles (1953-1959)."
+
+[^31]: John Foster Dulles, address before the Council on Foreign Relations, New York, January 12, 1954. Published in *Department of State Bulletin*, January 25, 1954, pp. 107-110. Key passage: "The basic decision was to depend primarily upon a great capacity to retaliate, instantly, by means and at places of our choosing."
+
+[^32]: Dulles address, North Atlantic Council, December 14, 1953, on the European Defense Community. Discussed in: "Agonizing Reappraisals: Anthony Eden, John Foster Dulles and the Crisis of European Defence, 1953-54," *Diplomacy and Statecraft*, Vol. 13, No. 4 (2002), https://www.tandfonline.com/doi/abs/10.1080/714000354.
+
+[^33]: Dwight D. Eisenhower Presidential Library, "John Foster Dulles Papers: Scope and Content Note," finding aid, Abilene, Kansas, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/scope-and-content.pdf. Telephone Conversations Series finding aid, https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/dulles-john-foster-papers/telephone-conversations-series.pdf.
+
+[^34]: *Foreign Relations of the United States, 1952-1954, Guatemala*, ed. Susan Holly (Washington: U.S. Government Printing Office, 2003), 287 documents, https://history.state.gov/historicaldocuments/frus1952-54Guat. *Foreign Relations of the United States, 1951-1954, Iran*, https://history.state.gov/historicaldocuments/frus1951-54Iran.

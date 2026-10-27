@@ -7,7 +7,7 @@ aliases:
   - Heinz Alfred Kissinger
   - Kissinger
 created: 2026-05-14
-updated: 2026-10-14
+updated: 2026-10-26
 category: "Intelligence & Government"
 tags:
   - KeyFigure
@@ -81,13 +81,13 @@ relations:
     with: "[[Kissinger Associates]]"
     role: "co-founder with Brent Scowcroft"
     start: 1982
-    fn: 63
+    fn: 68
   - type: member_of
     with: "[[Banca Nazionale del Lavoro]]"
     role: "international advisory board member"
     start: 1985
     end: 1991-06
-    fn: 63
+    fn: 68
   - type: reported_to
     with: "[[Richard Nixon]]"
     role: "Assistant to the President for National Security Affairs"
@@ -123,7 +123,7 @@ relations:
     role: "consulting contract for Kissinger Associates, July 1986 to June 1988"
     start: 1986-07-01
     end: 1988-06-30
-    fn: 65
+    fn: 70
 ---
 
 Henry Alfred Kissinger (1923 to 2023) was a German-born American political scientist and diplomat who served as [[United States Secretary of State]] and as National Security Advisor under Presidents [[Richard Nixon]] and [[Gerald R. Ford]]. [[Seymour Hersh]] wrote that in the fall of 1967, while a [[Harvard University]] professor and consultant on [[Vietnam]] to the [[Lyndon B. Johnson|Johnson]] administration, Kissinger visited [[Tel Aviv]] to teach for a week at the Israeli Defense College, and that at the end of that course he went to [[William N. Dale]]'s office in the embassy and sent an urgent, top-secret message to the [[White House]] warning about [[Dimona]] and concluding that [[Israel]] was making nuclear warheads.[^1]
@@ -262,101 +262,182 @@ The East Timor Truth Commission subsequently concluded that U.S. material suppor
 
 The American response to the [[Cyprus]] crisis of July 1974 was handled through Washington Special Actions Group meetings and Nixon's telephone calls with Kissinger. In a conversation on July 17, 1974, Nixon and Kissinger discussed the European position that [[Makarios]] should be brought back to Cyprus and that the United States should press the Greeks to accept it.[^58] A Washington Special Actions Group meeting on July 20, 1974, discussed the evacuation of civilians from Cyprus and the positioning of the amphibious task force south of the island.[^59] In an April 29, 1975, memorandum to President Ford, Kissinger attributed the Greek request for military assistance in large part to the wish to recoup military losses "suffered during last summer's Cyprus crisis."[^60]
 
+### China opening, 1971 to 1973
+
+[[Winston Lord]], of the [[Lord family]] and a member of the National Security Council staff, is named in the FRUS record of the opening to Beijing. On April 17, 1971 Lord sent Kissinger a seven-page memorandum listing the major contacts between the United States and the People's Republic of China through Pakistan, Romania and other channels.[^61] On June 21, 1971 Kissinger, Lord and the Pakistani ambassador Agha Hilaly met at the White House, where Hilaly handed over two notes in the exchange that arranged the trip.[^62] Lord was one of the four Americans who met Premier Chou En-lai in Beijing on July 9, 1971, with Kissinger, John Holdridge and Richard Smyser, and Lord, Holdridge and Smyser prepared the transcripts.[^63] On October 21, 1971 Kissinger said of CIA agents, "Most write long, incomprehensible reports and don't make revolution," and added, "They are mostly from Yale and they don't have the people." Chou asked whether Lord was from Yale, and Kissinger answered, "Does he look like a revolutionary?"[^64] Lord, by then director of planning and coordination at the State Department, prepared the briefing papers for the Beijing trip of November 10 to 14, 1973.[^65]
+
 ### Israel and the 1973 War
 
-Kissinger's Israeli contacts during the October 1973 war ran principally through Ambassador [[Simcha Dinitz]]. On October 8, 1973, Kissinger and Dinitz discussed Israeli aircraft losses, including a reference to the SAM-6 missiles, which were "very effective against our planes."[^61] On October 13, 1973, Kissinger told Dinitz, "We are going to do three separate things."[^62]
+Kissinger's Israeli contacts during the October 1973 war ran principally through Ambassador [[Simcha Dinitz]]. On October 8, 1973, Kissinger and Dinitz discussed Israeli aircraft losses, including a reference to the SAM-6 missiles, which were "very effective against our planes."[^66] On October 13, 1973, Kissinger told Dinitz, "We are going to do three separate things."[^67]
 
 ### Kissinger Associates, Banca Nazionale del Lavoro and Iraq
 
-Kissinger and Brent Scowcroft set up [[Kissinger Associates]] in 1982. Scowcroft served as vice chairman and head of the firm's Washington office until he became head of the National Security Council under President [[George H. W. Bush]] in January 1989.[^63] [[Lawrence Eagleburger]] was the firm's president.[^63]
+Kissinger and Brent Scowcroft set up [[Kissinger Associates]] in 1982. Scowcroft served as vice chairman and head of the firm's Washington office until he became head of the National Security Council under President [[George H. W. Bush]] in January 1989.[^68] [[Lawrence Eagleburger]] was the firm's president.[^68]
 
-The House Committee on Banking, Finance and Urban Affairs and its chairman, [[Henry B. Gonzalez]], pursued the relationship between the firm and the [[Banca Nazionale del Lavoro]] during the lending of its [[Atlanta]] branch to [[Iraq]]. Gonzalez told the House that Kissinger was a paid member of the bank's advisory board for international policy between 1985 and June 1991, and that he received at least $10,000 for attending each meeting of the board.[^63] Gonzalez said that Kissinger's contract expired in the summer of 1991, more than four months after the date Kissinger had previously reported for his departure from the board.[^63] Gonzalez inserted into the House hearing record the minutes of the advisory board's meeting in [[Madrid]] on May 4 and 5, 1987, which quote Kissinger giving "the victory of Iran over Iraq at 55 percent" and stating that he would change that estimate.[^64]
+The House Committee on Banking, Finance and Urban Affairs and its chairman, [[Henry B. Gonzalez]], pursued the relationship between the firm and the [[Banca Nazionale del Lavoro]] during the lending of its [[Atlanta]] branch to [[Iraq]]. Gonzalez told the House that Kissinger was a paid member of the bank's advisory board for international policy between 1985 and June 1991, and that he received at least $10,000 for attending each meeting of the board.[^68] Gonzalez said that Kissinger's contract expired in the summer of 1991, more than four months after the date Kissinger had previously reported for his departure from the board.[^68] Gonzalez inserted into the House hearing record the minutes of the advisory board's meeting in [[Madrid]] on May 4 and 5, 1987, which quote Kissinger giving "the victory of Iran over Iraq at 55 percent" and stating that he would change that estimate.[^69]
 
-[[Christopher Drogoul]], the Atlanta branch manager, testified in 1993 that [[Wafai Dajani]] had told him in 1989 that Kissinger was "the architect of foreign policy in the United States." Drogoul also testified that "it became clear to us that the people at Kissinger and Associates were somehow assisting clients of Iraq in further developing business."[^64] 
+[[Christopher Drogoul]], the Atlanta branch manager, testified in 1993 that [[Wafai Dajani]] had told him in 1989 that Kissinger was "the architect of foreign policy in the United States." Drogoul also testified that "it became clear to us that the people at Kissinger and Associates were somehow assisting clients of Iraq in further developing business."[^69] 
 
-The report of the Italian Senate's parliamentary commission of inquiry on the Atlanta branch of BNL, approved on April 22, 1992, states that BNL's executive committee decided in June 1986 to begin a consulting relationship with Kissinger Associates, under a two-year contract at $150,000 a year plus expenses that ran from July 1, 1986 to June 30, 1988; that five meetings took place between officers of the bank and of the firm, with Iraq not among the countries examined; and that Scowcroft attended as a representative of the firm and received no personal compensation, only travel and lodging expenses. The commission gave June 30, 1991 as the end of Kissinger's membership of BNL's international advisory committee under his own consulting contract, which provided $50,000 for the address at the dinner preceding the committee's annual meeting, and noted Gonzalez's statement that the membership continued to August 1991. It reported that Alan Stoga of Kissinger Associates took part in a June 1989 meeting in Baghdad between the US-Iraq Business Forum and Iraqi government officials, and listed among the firm's clients [[American Express]], [[Coca-Cola]], [[Anheuser-Busch]], [[H. J. Heinz]], [[Volvo]], [[Arco]], [[Hunt Oil]], Chase Manhattan Bank, [[American International Group]] and [[Freeport-McMoRan]].[^65]
+The report of the Italian Senate's parliamentary commission of inquiry on the Atlanta branch of BNL, approved on April 22, 1992, states that BNL's executive committee decided in June 1986 to begin a consulting relationship with Kissinger Associates, under a two-year contract at $150,000 a year plus expenses that ran from July 1, 1986 to June 30, 1988; that five meetings took place between officers of the bank and of the firm, with Iraq not among the countries examined; and that Scowcroft attended as a representative of the firm and received no personal compensation, only travel and lodging expenses. The commission gave June 30, 1991 as the end of Kissinger's membership of BNL's international advisory committee under his own consulting contract, which provided $50,000 for the address at the dinner preceding the committee's annual meeting, and noted Gonzalez's statement that the membership continued to August 1991. It reported that Alan Stoga of Kissinger Associates took part in a June 1989 meeting in Baghdad between the US-Iraq Business Forum and Iraqi government officials, and listed among the firm's clients [[American Express]], [[Coca-Cola]], [[Anheuser-Busch]], [[H. J. Heinz]], [[Volvo]], [[Arco]], [[Hunt Oil]], Chase Manhattan Bank, [[American International Group]] and [[Freeport-McMoRan]].[^70]
 
-Gonzalez also reported that Eagleburger was at a meeting between the bank's managers and Kissinger Associates in New York in 1987 or 1988, and that Kissinger had stated that Eagleburger did not handle the BNL account at the firm.[^63]
+Gonzalez also reported that Eagleburger was at a meeting between the bank's managers and Kissinger Associates in New York in 1987 or 1988, and that Kissinger had stated that Eagleburger did not handle the BNL account at the firm.[^68]
 
-The Senate Foreign Relations Committee's December 1992 report on [[Bank of Credit and Commerce International]] by [[John Kerry]] and [[Hank Brown]] devotes its chapter 20 to Kissinger Associates. It states that from the fall of 1986 through early 1989 BCCI initiated contacts with the firm, which then had five partners (Kissinger, Scowcroft, Eagleburger, Alan Stoga and T. Jefferson Cunningham III); that Stoga and a retired Brazilian ambassador working as a Kissinger Associates consultant, Sergio Correa da Costa, explored ways to link BCCI's banks with the firm's services; and that the discussions "ended in early 1989 at Henry Kissinger's personal insistence," after which Kissinger Associates referred BCCI to its director William D. Rogers and the law firm [[Arnold & Porter]]. Letters of November 3, 1986 set da Costa's terms at $40,000 a year plus 10 to 20 percent of fees on transactions he arranged, and da Costa told Kissinger in them that he would also work for BCCI. In the summer of 1987 da Costa wrote to the firm about "that amusing luncheon with the BNL crowd." On September 20, 1987 da Costa invited Kissinger to a dinner at the plantation of the BCCI shareholder [[Ghaith Pharaon]], suggesting Pharaon as a client; the report states that Kissinger declined the invitation.[^66]
+The Senate Foreign Relations Committee's December 1992 report on [[Bank of Credit and Commerce International]] by [[John Kerry]] and [[Hank Brown]] devotes its chapter 20 to Kissinger Associates. It states that from the fall of 1986 through early 1989 BCCI initiated contacts with the firm, which then had five partners (Kissinger, Scowcroft, Eagleburger, Alan Stoga and T. Jefferson Cunningham III); that Stoga and a retired Brazilian ambassador working as a Kissinger Associates consultant, Sergio Correa da Costa, explored ways to link BCCI's banks with the firm's services; and that the discussions "ended in early 1989 at Henry Kissinger's personal insistence," after which Kissinger Associates referred BCCI to its director William D. Rogers and the law firm [[Arnold & Porter]]. Letters of November 3, 1986 set da Costa's terms at $40,000 a year plus 10 to 20 percent of fees on transactions he arranged, and da Costa told Kissinger in them that he would also work for BCCI. In the summer of 1987 da Costa wrote to the firm about "that amusing luncheon with the BNL crowd." On September 20, 1987 da Costa invited Kissinger to a dinner at the plantation of the BCCI shareholder [[Ghaith Pharaon]], suggesting Pharaon as a client; the report states that Kissinger declined the invitation.[^71]
 
-In a letter of January 30, 1992 to Kerry, the firm's attorney [[Lloyd Cutler]] wrote that Kissinger Associates "have never represented or provided any services for BCCI, ICIC, or any BCCI shareholder." The committee's electronic text, published by the Federation of American Scientists, adds the comment that the account "is not untrue" but "does fail to characterize the full extent of the contacts"; the Government Printing Office print omits that comment, and both editions record that the firm declined to provide its client list to the subcommittee. The printed chapter says the contacts "extended over a period of 2 years" and adds a paragraph stating that "in each case reviewed by the Subcommittee, Kissinger declined the overtures."[^66] A note by Steven Aftergood of the Federation of American Scientists on the copy of the report published by that organization states that Hank Brown, "reportedly acting at the behest of Henry Kissinger," pressed after its release for the deletion of a few passages, particularly in chapter 20, so that the Government Printing Office edition differs slightly from the committee's softcopy.[^66]
+In a letter of January 30, 1992 to Kerry, the firm's attorney [[Lloyd Cutler]] wrote that Kissinger Associates "have never represented or provided any services for BCCI, ICIC, or any BCCI shareholder." The committee's electronic text, published by the Federation of American Scientists, adds the comment that the account "is not untrue" but "does fail to characterize the full extent of the contacts"; the Government Printing Office print omits that comment, and both editions record that the firm declined to provide its client list to the subcommittee. The printed chapter says the contacts "extended over a period of 2 years" and adds a paragraph stating that "in each case reviewed by the Subcommittee, Kissinger declined the overtures."[^71] A note by Steven Aftergood of the Federation of American Scientists on the copy of the report published by that organization states that Hank Brown, "reportedly acting at the behest of Henry Kissinger," pressed after its release for the deletion of a few passages, particularly in chapter 20, so that the Government Printing Office edition differs slightly from the committee's softcopy.[^71]
 
 ### Telephone Transcripts
 
-Beginning in January 1969, Kissinger had his telephone conversations transcribed for his office files, a practice that continued through his tenure as Secretary of State. On October 29, 1976, while still Secretary of State, Kissinger arranged to move the transcripts as personal papers from his State Department office to Nelson Rockefeller's estate in [[Tarrytown, New York]], before arranging a donation to the Library of Congress under terms excluding public access. State Department lawyers advised in 1975 and 1976 that the transcripts were not subject to the Freedom of Information Act as personal property, despite having been created by government secretaries using government resources. William Safire's January 14, 1976, *New York Times* column, "The Dead-Key Scrolls," first brought the issue to public attention. The National Security Archive began corresponding with the Archivist of the United States, [[John W. Carlin]], about recovering the transcripts in January 1999. A complaint written by its pro bono counsel at [[Mayer Brown]] was presented to the Archivist and the Secretary of State on January 25, 2001, and its attorneys wrote again to the State Department, the National Archives and the Department of Justice on April 25, 2001. The government recovered copies of the transcripts to the National Archives and State Department in 2001, and a State Department statement of August 8, 2001 credited the Archive with prompting the recovery. On May 26, 2004 the National Archives released about 20,000 pages of the transcripts, covering Kissinger's service from 1969 to August 1974.[^67] These materials are documented in NSAEBB Briefing Book No. 852.
+Beginning in January 1969, Kissinger had his telephone conversations transcribed for his office files, a practice that continued through his tenure as Secretary of State. On October 29, 1976, while still Secretary of State, Kissinger arranged to move the transcripts as personal papers from his State Department office to Nelson Rockefeller's estate in [[Tarrytown, New York]], before arranging a donation to the Library of Congress under terms excluding public access. State Department lawyers advised in 1975 and 1976 that the transcripts were not subject to the Freedom of Information Act as personal property, despite having been created by government secretaries using government resources. William Safire's January 14, 1976, *New York Times* column, "The Dead-Key Scrolls," first brought the issue to public attention. The National Security Archive began corresponding with the Archivist of the United States, [[John W. Carlin]], about recovering the transcripts in January 1999. A complaint written by its pro bono counsel at [[Mayer Brown]] was presented to the Archivist and the Secretary of State on January 25, 2001, and its attorneys wrote again to the State Department, the National Archives and the Department of Justice on April 25, 2001. The government recovered copies of the transcripts to the National Archives and State Department in 2001, and a State Department statement of August 8, 2001 credited the Archive with prompting the recovery. On May 26, 2004 the National Archives released about 20,000 pages of the transcripts, covering Kissinger's service from 1969 to August 1974.[^72] These materials are documented in NSAEBB Briefing Book No. 852.
 
 ### Commission Chairmanship, 2002
 
-On November 27, 2002, President [[George W. Bush]] announced his choice of Kissinger to chair the independent commission on the September 11 attacks: "my choice for commission chairman, Dr. Henry Kissinger."[^68]
+On November 27, 2002, President [[George W. Bush]] announced his choice of Kissinger to chair the independent commission on the September 11 attacks: "my choice for commission chairman, Dr. Henry Kissinger."[^73]
 
 ### Footnotes
 
 [^1]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, chapter 12.
+
 [^2]: Hersh, Seymour M. *The Samson Option: Israel's Nuclear Arsenal and American Foreign Policy*. Random House, 1991, chapter 16.
+
 [^3]: Nobel Prize Outreach, "Henry Kissinger: Biographical," Nobelprize.org, https://www.nobelprize.org/prizes/peace/1973/kissinger/biographical/. Gives the birth at Fuerth on May 27, 1923, arrival in the United States in 1938, naturalization on June 19, 1943, the Harvard degrees of 1950, 1952 and 1954, membership of the Harvard faculty from 1954 until 1971, the Associate Directorship of the Center for International Affairs from 1957 to 1960, direction of the Harvard International Seminar from 1951 to 1971, study directorship for the Council on Foreign Relations from 1955 to 1956, and the founding of Kissinger Associates.
+
 [^4]: Rockefeller Archive Center, Nelson A. Rockefeller personal papers, description of the folder for Henry A. Kissinger's Spring 1980 interview, as quoted in the account of Daniel Bessner of the Quantico II panel.
+
 [^5]: *Prospect for America: The Rockefeller Panel Reports*. Garden City, N.Y.: Doubleday, 1961. Report of the Rockefeller Brothers Fund Special Studies Project, which Kissinger directed.
+
 [^6]: National Security Archive, "The Kissinger Telcons," Electronic Briefing Book No. 123, edited by Thomas Blanton and William Burr, posted May 26, 2004, telephone conversation of Kissinger and David Rockefeller, March 13, 1972, 11:12 a.m. (Nixon Presidential Materials Project, NSC Files, HAK Office Files, Box 87). https://nsarchive2.gwu.edu/NSAEBB/NSAEBB123/.
+
 [^7]: U.S. Department of State, Office of the Historian, "Henry Alfred Kissinger," https://history.state.gov/departmenthistory/people/kissinger-henry-alfred. Identifies him as the 56th Secretary of State, 1973 to 1977, while continuing as Assistant to the President for National Security Affairs.
+
 [^8]: *Foreign Relations of the United States, 1969-1976*, Volume VI, Vietnam, January 1969 to July 1970, document 39, Memorandum for the Record, Washington, March 15, 1969, "March 16 Rocket Attack on Saigon." https://history.state.gov/historicaldocuments/frus1969-76v06/d39.
+
 [^9]: *FRUS 1969-1976*, Volume VI, document 40, Memorandum From the President's Assistant for National Security Affairs (Kissinger) to President Nixon, Washington, March 16, 1969, "Breakfast Plan." https://history.state.gov/historicaldocuments/frus1969-76v06/d40.
+
 [^10]: *FRUS 1969-1976*, Volume VI, document 41, Editorial Note, quoting Kissinger's remarks after the first raid. https://history.state.gov/historicaldocuments/frus1969-76v06/d41.
+
 [^11]: *Halperin v. Kissinger*, 606 F.2d 1192 (D.C. Cir. 1979). Text from the Caselaw Access Project (static.case.law, F.2d volume 606, case 1192). The opinion recounts the April 25, 1969 meeting, the events of May 9 and 10, 1969, the procedures worked out by FBI officials and Colonel Haig, the logs kept in special files where Kissinger and Haig reviewed them, the September 15, 1969 request, the continuation of the tap to February 10, 1971, and the 21 months of the wiretap.
+
 [^12]: U.S. Senate, Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Intelligence Activities and the Rights of Americans*, Book II, Final Report, S. Rept. 94-755 (1976), PDF pages 215-216 (the "seventeen" wiretaps, May 1969 to February 1971, Nixon's "gobs of material" remark, and the finding that no leak was identified), PDF pages 222-223 (the authorization and duration of the taps), and PDF page 244, note 2 (taps requested by Kissinger or Haig). https://www.intelligence.senate.gov/sites/default/files/94755_II.pdf.
+
 [^13]: Report to the President by the Commission on CIA Activities Within the United States (Rockefeller Commission), June 1975, introduction (the commission "heard 51 witnesses," including Secretary of State Henry A. Kissinger) and Chapter 11, "Operation CHAOS" (Helms's covering memorandum of February 18, 1969, delivering the first version of "Restless Youth" to Kissinger). https://archive.org/details/Rockefeller-commission-report-to-the-president-by-the-commission-on-cia-activiti.
+
 [^14]: *Intelligence Activities and the Rights of Americans*, Book II, S. Rept. 94-755, PDF page 162, on the CIA's student-dissent survey and the letter from Richard Helms to Henry Kissinger, February 18, 1969.
+
 [^15]: National Security Archive, "Kissinger and Chile: The Declassified Record on Regime Change," Electronic Briefing Book No. 437, document 1, Helms-Kissinger telephone conversation, September 12, 1970, 12:00 noon. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB437/.
+
 [^16]: *FRUS 1969-1976*, Volume XXI, Chile, 1969-1973, document 88, Transcript of a Telephone Conversation Between Secretary of State Rogers and the President's Assistant for National Security Affairs (Kissinger), Washington, September 14, 1970, 12:15 p.m. https://history.state.gov/historicaldocuments/frus1969-76v21/d88.
+
 [^17]: *FRUS 1969-1976*, Volume XXI, document 93, Editorial Note, quoting Helms's notes of the September 15, 1970 meeting and Kissinger's August 12, 1975 testimony before the Church Committee. https://history.state.gov/historicaldocuments/frus1969-76v21/d93.
+
 [^18]: National Security Archive, "Kissinger and Chile," EBB No. 437, document 3, handwritten notes of the September 15, 1970 meeting at the White House, with Mitchell and Kissinger listed as present.
+
 [^19]: *FRUS 1969-1976*, Volume XXI, Chile, 1969-1973, document 94, Memorandum for the Record, Washington, September 16, 1970, "Genesis of Project FUBELT" (William V. Broe, Chief, Western Hemisphere Division). https://history.state.gov/historicaldocuments/frus1969-76v21/d94.
+
 [^20]: U.S. Senate, Select Committee to Study Governmental Operations with Respect to Intelligence Activities, *Covert Action in Chile, 1963-1973*, Staff Report, December 1975, PDF page 37 ("Richard Helms' notes from his September 15, 1970, meeting with President Nixon, the meeting which initiated Track II, contain the indication: 'Make the economy scream.'"). https://www.intelligence.senate.gov/sites/default/files/94chile.pdf.
+
 [^21]: Covert Action in Chile, 1963-1973, PDF page 29 (Track II "was initiated by President Nixon on September 15"), and PDF page 14 (the "no doubt" finding and the conflicting testimony).
+
 [^22]: *Covert Action in Chile, 1963-1973*, PDF page 57, on the operating restrictions placed on Track II.
+
 [^23]: *Covert Action in Chile, 1963-1973*, PDF page 62, chronology entry for President Nixon's instruction to CIA Director Helms.
+
 [^24]: *FRUS 1969-1976*, Volume XXI, document 152, Memorandum of Conversation, Washington, October 15, 1970 (Kissinger, Karamessines and Haig present; Central Intelligence Agency, Job 80-000012A, Chile Task Force Files). https://history.state.gov/historicaldocuments/frus1969-76v21/d152.
+
 [^25]: *FRUS 1969-1976*, Volume XXI, document 153, Transcript of a Telephone Conversation Between President Nixon and the President's Assistant for National Security Affairs (Kissinger), Washington, October 15, 1970. https://history.state.gov/historicaldocuments/frus1969-76v21/d153.
+
 [^26]: *FRUS 1969-1976*, Volume XXI, document 162, Briefing Notes Prepared in the Central Intelligence Agency, Washington, October 23, 1970, "Track II." https://history.state.gov/historicaldocuments/frus1969-76v21/d162.
+
 [^27]: *FRUS 1969-1976*, Volume XXI, document 168, Briefing Notes Prepared in the Central Intelligence Agency, Washington, October 28, 1970, "Recent Developments: Track II." https://history.state.gov/historicaldocuments/frus1969-76v21/d168.
+
 [^28]: *FRUS 1969-1976*, Volume XXI, document 172, Memorandum From the President's Assistant for National Security Affairs (Kissinger) to President Nixon, Washington, November 5, 1970, "NSC Meeting, November 6, Chile." https://history.state.gov/historicaldocuments/frus1969-76v21/d172.
+
 [^29]: National Security Archive, "Kissinger and Chile," EBB No. 437, document 7, Kissinger-Nixon telephone conversation, September 16, 1973.
+
 [^30]: National Security Archive, "Kissinger and Chile," EBB No. 437, document 10, Memorandum of Conversation, Santiago, June 8, 1976, noon (Gerald R. Ford Library copy), participants and Kissinger's statement.
+
 [^31]: *FRUS 1969-1976*, Volume E-11, Part II, document 238, Memorandum From the Assistant Secretary of State for Inter-American Affairs (Shlaudeman) to Secretary of State Kissinger, Washington, August 3, 1976. https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d238.
+
 [^32]: *FRUS 1969-1976*, Volume E-11, Part II, Documents on South America, 1973-1976, document 241, Telegram 209192 From the Department of State to the Embassies in Argentina, Uruguay, Chile, and Bolivia, Washington, August 23, 1976. https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d241.
+
 [^33]: *FRUS 1969-1976*, Volume E-11, Part II, document 242, Telegram 8210 From the Embassy in Chile to the Department of State, Santiago, August 24, 1976, "Subject: Operation Condor" (signed Popper). https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d242.
+
 [^34]: National Security Archive, "Kissinger Blocked Demarche on International Assassinations to Condor States," Electronic Briefing Book No. 312, edited by Peter Kornbluh, posted April 10, 2010, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB312/index.htm, with document 1 (ARA memorandum of August 30, 1976, "Operation Condor," released in part under FOIA) and document 2 (SECTO 27128, Lusaka, September 16, 1976, Department of State, released 2004 on 25-year review; the cable text is in capitals and is quoted in lowercase). The Siracusa account is the Archive's description of the August 30 memorandum.
+
 [^35]: *FRUS 1969-1976*, Volume E-11, Part II, Documents on South America, 1973-1976, document 245, Telegram 4526 From the Embassy in Costa Rica to the Department of State, San José, September 20, 1976, "For ARA-Luers from Shlaudeman" (also National Security Archive EBB No. 312, document 3). https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d245.
+
 [^36]: *FRUS 1969-1976*, Volume E-11, Part II, document 246, Memorandum From Mary Brownell and Dan Mozeleski of the National Security Council Staff to Les Janka, Washington, September 21, 1976. https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d246.
+
 [^37]: *FRUS 1969-1976*, Volume E-11, Part II, document 249, Memorandum From the Assistant Secretary of State for Inter-American Affairs (Shlaudeman) to Secretary of State Kissinger, Washington, October 8, 1976, "Operation Condor." https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d249.
+
 [^38]: *FRUS 1969-1976*, Volume E-11, Part II, document 48, Memorandum of Conversation, Santiago, June 10, 1976, 8:10 to 9:15 a.m. https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d48.
+
 [^39]: *FRUS 1969-1976*, Volume E-11, Part II, document 56, Memorandum of Conversation, New York, October 7, 1976, "Secretary's Meeting with Argentine Foreign Minister Guzzetti." https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d56.
+
 [^40]: *FRUS 1969-1976*, Volume E-11, Part II, document 57, Telegram 6871 From the Embassy in Argentina to the Department of State, Buenos Aires, October 19, 1976, "Foreign Minister Guzzetti Euphoric Over Visit to United States" (signed Hill). https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d57.
+
 [^41]: *FRUS 1969-1976*, Volume E-7, Documents on South Asia, 1969-1972, document 125, Telegram 959 From the Consulate General in Dacca to the Department of State, Dacca, March 28, 1971, "Selective Genocide." https://history.state.gov/historicaldocuments/frus1969-76ve07/d125.
+
 [^42]: *FRUS 1969-1976*, Volume XI, South Asia Crisis, 1971, document 19, Telegram 1138 From the Consulate General in Dacca to the Department of State, Dacca, April 6, 1971, 0730Z. https://history.state.gov/historicaldocuments/frus1969-76v11/d19.
+
 [^43]: *FRUS 1969-1976*, Volume E-7, document 130, Telegram 1249 From the Consulate General in Dacca to the Department of State, Dacca, April 10, 1971, "Specific Areas of Dissent With Current U.S. Policy Toward East Pakistan." https://history.state.gov/historicaldocuments/frus1969-76ve07/d130.
+
 [^44]: *FRUS 1969-1976*, Volume XI, document 36, Memorandum From the President's Assistant for National Security Affairs (Kissinger) to President Nixon, Washington, April 28, 1971, "Policy Options Toward Pakistan," with the editorial note on Nixon's handwritten annotation (Library of Congress, Kissinger Papers, Box CL 210). https://history.state.gov/historicaldocuments/frus1969-76v11/d36.
+
 [^45]: *FRUS 1969-1976*, Volume E-4, Documents on Iran and Iraq, 1969-1972, document 200, Memorandum of Conversation, Tehran, May 30, 1972, 5:35 to 6:35 p.m. (participants: the Shah, the President, Kissinger). https://history.state.gov/historicaldocuments/frus1969-76ve04/d200.
+
 [^46]: *FRUS 1969-1976*, Volume E-4, document 315, Memorandum From the Chief of the Near East and South Asia Division, CIA (Waller) to the Director of Central Intelligence (Helms), Washington, June 12, 1972. https://history.state.gov/historicaldocuments/frus1969-76ve04/d315.
+
 [^47]: *FRUS 1969-1976*, Volume E-4, document 313, Memorandum From Harold Saunders of the National Security Staff to the President's Assistant for National Security Affairs (Kissinger), Washington, June 7, 1972, "Message from Shah on Kurds." https://history.state.gov/historicaldocuments/frus1969-76ve04/d313.
+
 [^48]: *FRUS 1969-1976*, Volume E-4, document 321, Memorandum From the President's Deputy Assistant for National Security Affairs (Haig) to the President's Assistant for National Security Affairs (Kissinger), Washington, July 28, 1972, "Kurdish Problem," attaching Helms's memorandum of July 18, 1972. https://history.state.gov/historicaldocuments/frus1969-76ve04/d321.
+
 [^49]: *FRUS 1969-1976*, Volume XXVII, Iran; Iraq, 1973-1976, document 233, Memorandum From the President's Assistant for National Security Affairs (Kissinger) to President Nixon, Washington, September 6, 1973, "Increased Assistance to the Kurds." https://history.state.gov/historicaldocuments/frus1969-76v27/d233.
+
 [^50]: *FRUS 1969-1976*, Volume XXVII, document 246, Memorandum From the President's Assistant for National Security Affairs (Kissinger) to President Nixon, Washington, April 11, 1974, "Further Support for the Kurds in Iraq." https://history.state.gov/historicaldocuments/frus1969-76v27/d246.
+
 [^51]: *FRUS 1969-1976*, Volume XXVII, document 254, Memorandum From the President's Assistant for National Security Affairs (Kissinger) to President Nixon, Washington, June 24, 1974, "Fiscal Year 1975 Support for the Kurds." https://history.state.gov/historicaldocuments/frus1969-76v27/d254.
+
 [^52]: *FRUS 1969-1976*, Volume XXVII, document 281, Backchannel Message From the President's Deputy Assistant for National Security Affairs (Scowcroft) to the Ambassador to Iran (Helms), Washington, March 16, 1975, 1336Z, WH50453. https://history.state.gov/historicaldocuments/frus1969-76v27/d281.
+
 [^53]: *FRUS 1977-1980*, Volume XI, Part 1, Iran: Hostage Crisis, November 1979-September 1980, document 2, Summary of Conclusions of a Special Coordination Committee Meeting, Washington, November 5, 1979. https://history.state.gov/historicaldocuments/frus1977-80v11p1/d2.
+
 [^54]: *FRUS 1977-1980*, Volume XI, Part 1, document 30, Editorial Note (Bani-Sadr announcement of November 14, 1979; John Kifner, "Iran Defends Move To Withdraw Funds," *New York Times*, November 15, 1979). https://history.state.gov/historicaldocuments/frus1977-80v11p1/d30.
+
 [^55]: *FRUS 1977-1980*, Volume XI, Part 1, document 60, Memorandum From Secretary of State Vance to President Carter, Washington, November 26, 1979. https://history.state.gov/historicaldocuments/frus1977-80v11p1/d60.
+
 [^56]: *FRUS 1977-1980*, Volume XI, Part 1, document 144, Memorandum From the White House Chief of Staff (Jordan) to President Carter, Secretary of State Vance, and the President's Assistant for National Security Affairs (Brzezinski), undated, with Jordan's summary of notes. https://history.state.gov/historicaldocuments/frus1977-80v11p1/d144.
+
 [^57]: *FRUS 1969-1976*, Volume E-12, Documents on East and Southeast Asia, 1973-1976, document 141, Telegram 14946 From the Embassy in Indonesia to the Department of State, Jakarta, December 6, 1975, 1000Z (the telegram header reads "JAKARTA 14945" and "PRIORITY 1579"), "Ford-Suharto Meeting." https://history.state.gov/historicaldocuments/frus1969-76ve12/d141. The telegram text is in capitals; quotations are rendered in lowercase.
+
 [^58]: *FRUS 1969-1976*, Volume XXX, Greece, Turkey, Cyprus, 1973-1976, document 93, Transcript of a Telephone Conversation Between President Nixon and Secretary of State Kissinger, Washington, July 17, 1974, 4:30 p.m. https://history.state.gov/historicaldocuments/frus1969-76v30/d93.
+
 [^59]: *FRUS 1969-1976*, Volume XXX, document 105, Minutes of Meeting of the Washington Special Actions Group, Washington, July 20, 1974, "Cyprus." https://history.state.gov/historicaldocuments/frus1969-76v30/d105.
+
 [^60]: *FRUS 1969-1976*, Volume XXX, document 46, Memorandum From the President's Assistant for National Security Affairs (Kissinger) to President Ford, Washington, April 29, 1975. https://history.state.gov/historicaldocuments/frus1969-76v30/d46.
-[^61]: *FRUS 1969-1976*, Volume XXV, Arab-Israeli Crisis and War, 1973, document 126, Transcript of Telephone Conversation Between Secretary of State Kissinger and the Israeli Ambassador (Dinitz), Washington, October 8, 1973, 1:14 p.m. https://history.state.gov/historicaldocuments/frus1969-76v25/d126.
-[^62]: *FRUS 1969-1976*, Volume XXV, document 168, Transcript of Telephone Conversation Between Secretary of State Kissinger and the Israeli Ambassador (Dinitz), Washington, October 13, 1973, 1:03 a.m. https://history.state.gov/historicaldocuments/frus1969-76v25/d168.
-[^63]: Gonzalez, Henry B. "Kissinger Associates, Scowcroft, Eagleburger, Stoga, Iraq, and BNL," *Congressional Record*, House, April 28, 1992, pp. H2694-H2701. https://www.globalsecurity.org/military/library/congress/1992_cr/h920428g.htm.
-[^64]: U.S. House of Representatives, Committee on Banking, Finance and Urban Affairs, *Testimony of Former Employees of the Banca Nazionale del Lavoro*, Serial No. 103-95, hearing of November 9, 1993, testimony of Christopher P. Drogoul, with the Madrid advisory board minutes inserted into the record by Chairman Gonzalez. https://archive.org/details/testimonyofforme1994unit.
-[^65]: Senato della Repubblica, X Legislatura, Doc. XXII-bis n. 4, Allegato, Commissione parlamentare d'inchiesta sul caso della filiale di Atlanta della Banca Nazionale del Lavoro e sue connessioni, Relazione conclusiva approvata il 22 aprile 1992, schede di documentazione 30 ("La società Kissinger Associates. Rapporti con la Banca Nazionale del Lavoro") and 31 ("Scowcroft"), pp. 188-189, drawing on BNL document 158 (the consulting contract and renewals) and document 428 (transcript of a CBS interview with Kissinger, March 29, 1992). https://www.senato.it/application/xmanager/projects/leg18/file/DOC%20XXII%20bis%20n.%204%20Allegato.pdf.
-[^66]: U.S. Senate, Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *The BCCI Affair*, report by Senator John Kerry and Senator Hank Brown, S. Prt. 102-140, December 1992, chapter 20, "BCCI and Kissinger Associates," footnote 1 (Cutler letter) and text; the FAS note appears on the index page of the copy. https://irp.fas.org/congress/1992_rpt/bcci/20kiss.htm and https://irp.fas.org/congress/1992_rpt/bcci/index.html.
-[^67]: National Security Archive, "The Kissinger Telcons," Electronic Briefing Book No. 123, edited by Thomas Blanton and William Burr, posted May 26, 2004, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB123/. Describes the release on May 26, 2004 of approximately 20,000 declassified pages (10 cubic feet) spanning 1969 to August 1974.
-[^68]: White House, Office of the Press Secretary, "President Names Henry Kissinger Chairman of Commission," November 27, 2002. https://georgewbush-whitehouse.archives.gov/news/releases/2002/11/20021127-1.html.
+
+[^61]: *FRUS 1969-1976*, vol. XVII, China, 1969-1972, Document 20, editorial note. https://history.state.gov/historicaldocuments/frus1969-76v17/d20
+
+[^62]: *FRUS 1969-1976*, vol. XVII, Document 135, editorial note on the June 21, 1971 White House meeting. https://history.state.gov/historicaldocuments/frus1969-76v17/d135
+
+[^63]: *FRUS 1969-1976*, vol. XVII, Document 139, memorandum of conversation, Beijing, July 9, 1971, and source note on the transcripts. https://history.state.gov/historicaldocuments/frus1969-76v17/d139
+
+[^64]: *FRUS 1969-1976*, vol. XVII, Document 162, memorandum of conversation, Beijing, October 21, 1971. https://history.state.gov/historicaldocuments/frus1969-76v17/d162
+
+[^65]: *FRUS 1969-1976*, vol. XVIII, China, 1973-1976, Document 55, memorandum of conversation, Beijing, November 10, 1973, and headnote on the briefing papers. https://history.state.gov/historicaldocuments/frus1969-76v18/d55
+
+[^66]: *FRUS 1969-1976*, Volume XXV, Arab-Israeli Crisis and War, 1973, document 126, Transcript of Telephone Conversation Between Secretary of State Kissinger and the Israeli Ambassador (Dinitz), Washington, October 8, 1973, 1:14 p.m. https://history.state.gov/historicaldocuments/frus1969-76v25/d126.
+
+[^67]: *FRUS 1969-1976*, Volume XXV, document 168, Transcript of Telephone Conversation Between Secretary of State Kissinger and the Israeli Ambassador (Dinitz), Washington, October 13, 1973, 1:03 a.m. https://history.state.gov/historicaldocuments/frus1969-76v25/d168.
+
+[^68]: Gonzalez, Henry B. "Kissinger Associates, Scowcroft, Eagleburger, Stoga, Iraq, and BNL," *Congressional Record*, House, April 28, 1992, pp. H2694-H2701. https://www.globalsecurity.org/military/library/congress/1992_cr/h920428g.htm.
+
+[^69]: U.S. House of Representatives, Committee on Banking, Finance and Urban Affairs, *Testimony of Former Employees of the Banca Nazionale del Lavoro*, Serial No. 103-95, hearing of November 9, 1993, testimony of Christopher P. Drogoul, with the Madrid advisory board minutes inserted into the record by Chairman Gonzalez. https://archive.org/details/testimonyofforme1994unit.
+
+[^70]: Senato della Repubblica, X Legislatura, Doc. XXII-bis n. 4, Allegato, Commissione parlamentare d'inchiesta sul caso della filiale di Atlanta della Banca Nazionale del Lavoro e sue connessioni, Relazione conclusiva approvata il 22 aprile 1992, schede di documentazione 30 ("La società Kissinger Associates. Rapporti con la Banca Nazionale del Lavoro") and 31 ("Scowcroft"), pp. 188-189, drawing on BNL document 158 (the consulting contract and renewals) and document 428 (transcript of a CBS interview with Kissinger, March 29, 1992). https://www.senato.it/application/xmanager/projects/leg18/file/DOC%20XXII%20bis%20n.%204%20Allegato.pdf.
+
+[^71]: U.S. Senate, Committee on Foreign Relations, Subcommittee on Terrorism, Narcotics and International Operations, *The BCCI Affair*, report by Senator John Kerry and Senator Hank Brown, S. Prt. 102-140, December 1992, chapter 20, "BCCI and Kissinger Associates," footnote 1 (Cutler letter) and text; the FAS note appears on the index page of the copy. https://irp.fas.org/congress/1992_rpt/bcci/20kiss.htm and https://irp.fas.org/congress/1992_rpt/bcci/index.html.
+
+[^72]: National Security Archive, "The Kissinger Telcons," Electronic Briefing Book No. 123, edited by Thomas Blanton and William Burr, posted May 26, 2004, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB123/. Describes the release on May 26, 2004 of approximately 20,000 declassified pages (10 cubic feet) spanning 1969 to August 1974.
+
+[^73]: White House, Office of the Press Secretary, "President Names Henry Kissinger Chairman of Commission," November 27, 2002. https://georgewbush-whitehouse.archives.gov/news/releases/2002/11/20021127-1.html.

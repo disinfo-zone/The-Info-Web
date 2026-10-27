@@ -36,7 +36,7 @@ relations:
     with: "[[Phoenix Letter]]"
     start: 1984
     role: "editor, Phoenix Letter, vol. 3, no. 8 (October 1984) masthead"
-    fn: 45
+    fn: 54
 ---
 
 Antony Cyril Sutton (1925 to 2002) was born in London, educated at the Universities of London, Göttingen and California, and held a research fellowship at the [[Hoover Institution]] at [[Stanford University]] from 1968 to 1973. He died in [[Reno, Nevada]]. His Hoover studies of Western technology in the Soviet economy were published in three volumes, and his later books covered the financing of the Bolshevik and Nazi movements, the [[Skull and Bones]] and other [[Yale University]] senior societies, and the [[Trilateral Commission]].[^1][^2][^3][^4]
@@ -89,7 +89,7 @@ The synopsis adds further claims. Sutton wrote that [[Ludwig Martens]], the firs
 
 #### Wall Street and FDR (1975)
 
-The second book, dated October 1974 in its preface, extends the thesis to [[Franklin D. Roosevelt]] and the New Deal. Sutton wrote that the evidence was based largely on Roosevelt's own papers and that Wall Street financiers were associated with Roosevelt between 1917 and 1934.[^27] Its chapter on the 1934 [[Business Plot]] hearings describes [[Grayson M.-P. Murphy & Co.]] of 52 Broadway, and [[Smedley Butler]]'s testimony that [[Gerald P. MacGuire]] proposed a plan through that firm. Sutton wrote that Murphy was, in the early 1930s, a director of several companies controlled by the [[J. P. Morgan]] interests, including the Guaranty Trust Company, and that the speechwriter proposed for Butler, [[John W. Davis]], was a partner at Davis, Polk, Wardwell, Gardner and Reed.[^28] He suggested that Wall Street "had none other than Franklin Delano Roosevelt in mind as 'the man on the white horse.'"[^28]
+The second book, dated October 1974 in its preface, extends the thesis to [[Franklin D. Roosevelt]] and the New Deal. Sutton wrote that the evidence was based largely on Roosevelt's own papers and that Wall Street financiers were associated with Roosevelt between 1917 and 1934.[^27] Its chapter on the 1934 [[Business Plot]] hearings describes [[Grayson M.-P. Murphy & Co.]] of 52 Broadway, and [[Smedley Butler]]'s testimony that [[Gerald P. MacGuire]] proposed a plan through that firm. Sutton wrote that Murphy was, in the early 1930s, a director of several companies controlled by the [[J. P. Morgan & Co.|J. P. Morgan]] interests, including the Guaranty Trust Company, and that the speechwriter proposed for Butler, [[John W. Davis]], was a partner at Davis, Polk, Wardwell, Gardner and Reed.[^28] He suggested that Wall Street "had none other than Franklin Delano Roosevelt in mind as 'the man on the white horse.'"[^28]
 
 #### Wall Street and the Rise of Hitler (1976)
 
@@ -107,35 +107,45 @@ The book's sections are organized as numbered "memoranda," in which the author s
 
 #### Hypothesis One and the family tiers
 
-The chart lists nine old-line families with settlement dates and places: Whitney (1635, Watertown, Massachusetts), Stimson (1635, Watertown), Perkins (1631, Boston), Taft (1679, Braintree), Phelps (1630, Dorchester), Bundy (1635, Boston), Wadsworth (1632, Newtown), Lord (1635, Cambridge) and Gilman (1638, Hingham). It labels seven families of newer wealth with their sources of fortune: Rockefeller and Payne (Standard Oil), Harriman (railroads), Davison (J. P. Morgan), Weyerhaeuser (lumber), Pillsbury (flour milling) and Sloane (retail).[^36]
+The chart lists nine old-line families with settlement dates and places: Whitney (1635, Watertown, Massachusetts), Stimson (1635, Watertown), [[Perkins family|Perkins]] (1631, Boston), Taft (1679, Braintree), [[Phelps family|Phelps]] (1630, Dorchester), Bundy (1635, Boston), [[Wadsworth family|Wadsworth]] (1632, Newtown), [[Lord family|Lord]] (1635, Cambridge) and Gilman (1638, Hingham). It labels seven families of newer wealth with their sources of fortune: Rockefeller and Payne (Standard Oil), Harriman (railroads), Davison (J. P. Morgan), [[Weyerhaeuser family|Weyerhaeuser]] (lumber), [[Pillsbury family|Pillsbury]] (flour milling) and Sloane (retail).[^36]
 
-Sutton wrote that a group of 20 to 30 families had come to dominate the society, and that the families fell into two groups. The first were "old line American families who arrived on the East coast in the 1600s, e.g., Whitney, Lord, Phelps, Wadsworth, Allen, Bundy, Adams." The second were "families who acquired wealth in the last 100 years, sent their sons to Yale and in time became almost old line families, e.g., Harriman, Rockefeller, Payne, Davison."[^37] He wrote that intermarriage among these families was common, and that the Puritan families "either intermarried with financial power" or took in the sons of money.[^36]
+Sutton's chart captions give Charles Edwin Lord as Acting Comptroller of the Currency (1981) and [[Winston Lord]] as Chairman of the [[Council on Foreign Relations]] (1983), and his text states that [[David Rockefeller]], a former Council chairman, is not a member of the Order but that "the present CFR chairman, Winston Lord, is."[^37]
 
-Sutton's book calls Charles Phelps Taft, a member of the Yale class of 1918, a nephew of [[William Howard Taft]] and places him at the Twentieth Century Foundation.[^38] The Yale obituary record for William Howard Taft lists a Charles Phelps, 2d, B.A. 1918 and LL.B. 1921, among Taft's own children.[^39] The Yale record of the President's half brother, Charles Phelps Taft (B.A. 1864, 1843 to 1929), lists "Charles P. Taft, 2d, '18" among that half brother's nephews.[^40] The Yale class of 1918 member is therefore the President's son and the nephew of the elder Charles Phelps Taft.
+The 1889 genealogy of the John Perkins family of Ipswich records that John Perkins sailed from Bristol in the ship Lyon on December 1, 1630 and took the freeman's oath at Boston on May 18, 1631.[^38] The same genealogy lists George Walbridge Perkins of Chicago (born January 31, 1862) as a descendant through Jacob, Joseph, Joseph, Joseph, Elijah and William W. Perkins of Erie, and the 1910 Who's Who gives [[George W. Perkins]] as born at Chicago on that date, a J. P. Morgan & Co. partner from 1901 and a director of the [[Chicago, Burlington and Quincy Railroad]].[^38][^39] Sutton wrote: "The name Morgan has never appeared on the membership lists, although some Morgan partners are with the inner core, for example, Davison and Perkins."[^40] Sutton's index of members lists four Perkinses, in the classes of 1840, 1842 and 1858.[^41]
+
+Sutton wrote that a group of 20 to 30 families had come to dominate the society, and that the families fell into two groups. The first were "old line American families who arrived on the East coast in the 1600s, e.g., Whitney, Lord, Phelps, Wadsworth, Allen, Bundy, Adams." The second were "families who acquired wealth in the last 100 years, sent their sons to Yale and in time became almost old line families, e.g., Harriman, Rockefeller, Payne, Davison."[^42] He wrote that intermarriage among these families was common, and that the Puritan families "either intermarried with financial power" or took in the sons of money.[^36]
+
+Sutton's book calls Charles Phelps Taft, a member of the Yale class of 1918, a nephew of [[William Howard Taft]] and places him at the Twentieth Century Foundation.[^43] The Yale obituary record for William Howard Taft lists a Charles Phelps, 2d, B.A. 1918 and LL.B. 1921, among Taft's own children.[^44] The Yale record of the President's half brother, Charles Phelps Taft (B.A. 1864, 1843 to 1929), lists "Charles P. Taft, 2d, '18" among that half brother's nephews.[^45] The Yale class of 1918 member is therefore the President's son and the nephew of the elder Charles Phelps Taft.
+
+Sutton named [[William Huntington Russell]] and [[Alphonso Taft]] as the two founding members who "went far," and wrote that Taft "was Secretary of War in 1876 - the first of several members of The Order to hold this post down into the 1950s." He gave Taft's later offices as Attorney General in 1876 to 1877, minister to Austria in 1882 to 1884 and, in his words, "Ambassador to Russia" in 1884 to 1885; the Office of the Historian of the Department of State lists both posts as Envoy Extraordinary and Minister Plenipotentiary (Austria, appointed April 26, 1882; Russia, appointed July 4, 1884).[^46] The family history that Alphonso Taft gave at the 1874 Taft family gathering in Uxbridge, Massachusetts dates the family's Braintree holding to 1678 and says that Robert Taft made arrangements to move to Mendon in 1679; Sutton's chart gives 1679 at Braintree.[^47]
+
+In the section on [[G. Stanley Hall]] at Antioch College, Sutton wrote that "The most prominent trustee of Antioch College was none other than the co-founder of The Order, Alphonso Taft," and in his discussion of [[Horace Mann]] and the look-say method that "The most influential Trustee of Antioch College was the co-founder of The Order - Alphonso Taft."[^48] Hall's memoir gives the trustee claim in his own words, in a passage on his Sundays in Cincinnati: "Ex-President Taft was then a boy and his father, Judge Alonzo Taft, was a trustee of Antioch College." Sutton's quotation of Hall adds "(sic)" after the spelling "Alonzo" and cites page 201 of the memoir; the passage is on page 200 of the 1923 Appleton edition.[^49]
 
 ### Brown Brothers Harriman, Union Banking and Prescott Bush
 
-Sutton's account of the [[Brown Brothers Harriman]] partnership says that by the 1970s the firm had "taken in so many of 'the Brotherhood'" that, of its 26 individual partners, "no fewer than 9 were members of The Order."[^41] The list he gives of partners who were members includes [[Prescott Bush]], whom he describes as a partner for over forty years, the father of President George H. W. Bush, and initiated in 1917. It also includes W. Averell Harriman (initiated 1913) and his brother [[E. Roland Harriman]] (initiated 1917).[^41]
+Sutton's account of the [[Brown Brothers Harriman]] partnership says that by the 1970s the firm had "taken in so many of 'the Brotherhood'" that, of its 26 individual partners, "no fewer than 9 were members of The Order."[^50] The list he gives of partners who were members includes [[Prescott Bush]], whom he describes as a partner for over forty years, the father of President George H. W. Bush, and initiated in 1917. It also includes W. Averell Harriman (initiated 1913) and his brother [[E. Roland Harriman]] (initiated 1917).[^50]
 
-Sutton devotes a passage to the [[Union Banking Corporation]] of New York. He writes that Union Banking had eight directors, including four members of the Yale class of 1917, that Guaranty Trust was represented by [[Knight Woolley]], that two directors, Kouwenhoven and Groninger, were Nazi directors of the Rotterdam bank [[Bank voor Handel en Scheepvaart]], which he identifies as the former von Heydt bank, and that Prescott Bush and [[Ellery Sedgwick James|Ellery S. James]] were partners in Brown Brothers, later Brown Brothers, Harriman.[^41][^42] In The Rise of Hitler he describes Union Banking as a joint Thyssen and Harriman operation, with E. Roland Harriman as a director in 1932.[^42][^43]
+Sutton devotes a passage to the [[Union Banking Corporation]] of New York. He writes that Union Banking had eight directors, including four members of the Yale class of 1917, that Guaranty Trust was represented by [[Knight Woolley]], that two directors, Kouwenhoven and Groninger, were Nazi directors of the Rotterdam bank [[Bank voor Handel en Scheepvaart]], which he identifies as the former von Heydt bank, and that Prescott Bush and [[Ellery Sedgwick James|Ellery S. James]] were partners in Brown Brothers, later Brown Brothers, Harriman.[^50][^51] In The Rise of Hitler he describes Union Banking as a joint Thyssen and Harriman operation, with E. Roland Harriman as a director in 1932.[^51][^52]
 
 ### The Stimson and Bundy chain
 
-The book's section "The Whitney-Stimson-Bundy-Acheson Chain of Influence" follows a family line through a sequence of offices. Sutton wrote that [[Henry L. Stimson]] went to work for the Root firm in 1890 after Yale and Harvard Law School, married the daughter of a Skull and Bones member, was appointed Secretary of War by William Howard Taft in 1911, and held offices under every president from Taft through Truman except [[Warren G. Harding]].[^44] He wrote that Stimson brought [[Harvey Hollister Bundy]] into the wartime Pentagon as a special assistant, and that Stimson brought Harvey's son [[McGeorge Bundy]] into the Pentagon to work on the 1948 book On Active Service in Peace and War.[^44] Sutton summarized the pattern as Stimson using his office "to advance the career of fellow members of The Order," naming Harvey Hollister Bundy and McGeorge Bundy.[^44]
+The book's section "The Whitney-Stimson-Bundy-Acheson Chain of Influence" follows a family line through a sequence of offices. Sutton wrote that [[Henry L. Stimson]] went to work for the Root firm in 1890 after Yale and Harvard Law School, married the daughter of a Skull and Bones member, was appointed Secretary of War by William Howard Taft in 1911, and held offices under every president from Taft through Truman except [[Warren G. Harding]].[^53] He wrote that Stimson brought [[Harvey Hollister Bundy]] into the wartime Pentagon as a special assistant, and that Stimson brought Harvey's son [[McGeorge Bundy]] into the Pentagon to work on the 1948 book On Active Service in Peace and War.[^53] Sutton summarized the pattern as Stimson using his office "to advance the career of fellow members of The Order," naming Harvey Hollister Bundy and McGeorge Bundy.[^53]
 
-Sutton's account of Stimson in the Second World War also refers to the atomic bombing of [[Japan]], which he says Stimson recommended in 1945.[^44]
+Sutton's account of Stimson in the Second World War also refers to the atomic bombing of [[Japan]], which he says Stimson recommended in 1945.[^53]
 
 ### Phoenix Letter and the Yale senior societies
 
-Sutton's October 1984 issue of the Phoenix Letter, which named him as editor and was published by Research Publications at a Phoenix, Arizona post office box, argues that the three Yale senior societies, Skull and Bones ([[Russell Trust Association|Russell Trust]]), [[Scroll and Key]] (Kingsley Trust) and [[Wolf's Head]] (Phelps Trust), form a network. It states that Scroll and Key had been founded by members of Skull and Bones, and that "three quarters of the inner core" had been identified in his diagram of the society.[^45] The same issue cites [[George Wilson Pierson]]'s official history of Yale, and it states that the [[Elihu]] society catalog lists [[Anson Phelps Stokes]] as a Skull and Bones member and an honorary member of Elihu since its founding in 1903.[^45] The newsletter also says that it had not yet accounted for the power of Edward Mandel House, whom it had earlier identified as a friend of Yale initiates in the society.[^45]
+Sutton's October 1984 issue of the Phoenix Letter, which named him as editor and was published by Research Publications at a Phoenix, Arizona post office box, argues that the three Yale senior societies, Skull and Bones ([[Russell Trust Association|Russell Trust]]), [[Scroll and Key]] (Kingsley Trust) and [[Wolf's Head]] (Phelps Trust), form a network. It states that Scroll and Key had been founded by members of Skull and Bones, and that "three quarters of the inner core" had been identified in his diagram of the society.[^54] The same issue cites [[George Wilson Pierson]]'s official history of Yale, and it states that the [[Elihu]] society catalog lists [[Anson Phelps Stokes]] as a Skull and Bones member and an honorary member of Elihu since its founding in 1903.[^54] The newsletter also says that it had not yet accounted for the power of Edward Mandel House, whom it had earlier identified as a friend of Yale initiates in the society.[^54]
 
-Sutton's booklet How the Order Controls Education is catalogued by archive.org with a 1985 date.[^46]
+The class history of 1896 records [[Anson Phelps Stokes Jr.]], Secretary of Yale University from 1899, as a member of Bones: "Phi Beta Kappa. He Boule. D. K. E. Bones."[^55] Rupert Hughes in *Munsey's Magazine* for June 1894 and A. C. Stevens in *The Cyclopaedia of Fraternities* (1899) give the Phelps Trust Association as the corporate name of Wolf's Head, and George W. Pierson's history of Yale College dates the incorporation to 1886.[^56]
+
+Sutton's booklet How the Order Controls Education is catalogued by archive.org with a 1985 date.[^57]
 
 ### Trilaterals Over America and later works
 
-Sutton's book on the Trilateral Commission, in the 1995 edition titled Trilaterals Over America, states that the commission was founded in 1973 by the New York banker [[David Rockefeller]], then chairman of [[Chase Manhattan Bank]], and the Harvard academic [[Zbigniew Brzezinski]], later National Security Adviser to President [[Jimmy Carter]]. Its appendix lists members as of October 1978 and July 1993.[^47] The book refers to an earlier volume, Trilaterals Over Washington, written with [[Patrick M. Wood]] and published in Scottsdale, Arizona, by the August Corporation (the Library of Congress record gives c1978, 1979 printing).[^47][^48] The 1995 book directs readers to the Phoenix Letter, then in its twelfth year, at an address in Billings, Montana.[^47]
+Sutton's book on the Trilateral Commission, in the 1995 edition titled Trilaterals Over America, states that the commission was founded in 1973 by the New York banker David Rockefeller, then chairman of [[Chase Manhattan Bank]], and the Harvard academic [[Zbigniew Brzezinski]], later National Security Adviser to President [[Jimmy Carter]]. Its appendix lists members as of October 1978 and July 1993.[^58] The book refers to an earlier volume, Trilaterals Over Washington, written with [[Patrick M. Wood]] and published in Scottsdale, Arizona, by the August Corporation (the Library of Congress record gives c1978, 1979 printing).[^58][^59] The 1995 book directs readers to the Phoenix Letter, then in its twelfth year, at an address in Billings, Montana.[^58]
 
-His later titles include The War on Gold (1977), Energy: The Created Crisis (1979), The Federal Reserve Conspiracy (1995) and Cold Fusion: The Secret Energy Revolution (1999), each catalogued by archive.org.[^49]
+His later titles include The War on Gold (1977), Energy: The Created Crisis (1979), The Federal Reserve Conspiracy (1995) and Cold Fusion: The Secret Energy Revolution (1999), each catalogued by archive.org.[^60]
 
 ### Death and the 2002 edition
 
@@ -144,51 +154,121 @@ Sutton's copyright page for America's Secret Establishment gives 1983, 1986 and 
 ### Footnotes
 
 [^1]: International Economic Policy: Hearings before the Subcommittee on International Trade of the Committee on Banking and Currency, House of Representatives, Ninety-third Congress, second session, on H. Res. 774 and H.R. 13838 and 13839 (Washington: Government Printing Office, 1974), statement of Antony C. Sutton, April 24, 1974, pp. 156 to 167. https://archive.org/details/international-economic-policy-hearings-before-the-subcommittee-on-international-
+
 [^2]: Sutton, prepared statement, April 24, 1974, in International Economic Policy (1974), pp. 159 to 160 (volume chronology, publication dates, the 1972 Republican convention attempt, removal from Hoover and the dust-jacket wording).
+
 [^3]: Library of Congress Name Authority File, "Sutton, Antony C., 1925-2002," record n79122365 (birth 1925, London; death 2002, Reno, Nevada; source note citing the 2009 edition of America's Secret Establishment, p. iv). https://id.loc.gov/authorities/names/n79122365
+
 [^4]: Author note, Antony C. Sutton, Wall Street and FDR (reissue with publisher's note; born in London in 1925, educated at the universities of London, Göttingen and California, Hoover research fellow 1968 to 1973, later economics professor at California State University, Los Angeles, "He died in 2002"). The same note appears in the Trine Day edition of America's Secret Establishment, which adds a D.Sc. from the University of Southampton.
+
 [^5]: Author note, Sutton, Wall Street and the Bolshevik Revolution (1981 printing), back cover ("still affiliated with the institution"; "former economics professor at California State University, Los Angeles"; "bom in London in 1925").
+
 [^6]: Hoover Institution Library & Archives, Antony C. Sutton papers, 1920 to 1972 (4 manuscript boxes, 1 microfilm reel; acquired 1990), Online Archive of California finding aid. https://oac.cdlib.org/findaid/ark:/13030/kt287033k0
+
 [^7]: Sutton, Western Technology and Soviet Economic Development, 3 vols. (Stanford: Hoover Institution Press, 1968, 1971, 1973), as listed in Sutton, Wall Street and the Rise of Hitler (1976), Selected Bibliography, pp. 209 to 210.
+
 [^8]: Michael R. Dohan, review of Sutton, Western Technology and Soviet Economic Development, 1930 to 1945, Slavic Review 31, no. 4 (December 1972): 904 to 905. https://doi.org/10.2307/2493797
+
 [^9]: Howard J. Sherman, review of Sutton, Western Technology and Soviet Economic Development, 1917 to 1930, American Political Science Review 67, no. 3 (September 1973): 1126 to 1128. https://doi.org/10.2307/1958770
+
 [^10]: Carl B. Turner, review of Sutton, Western Technology and Soviet Economic Development, 1930 to 1945, American Political Science Review 70, no. 3 (September 1976): 1017 to 1018. https://doi.org/10.2307/1959932
+
 [^11]: Sutton, prepared statement, April 24, 1974, in International Economic Policy (1974), Appendix A, "Bibliography of Published Works" (pp. 165 to 166) and Appendix B, "Reviews of Western Technology and Soviet Economic Development, Volumes One and Two (up to March 1973 only)" (pp. 166 to 167).
+
 [^12]: Antony C. Sutton, "Western Technology in the Soviet Union: A Summation," Washington and Lee Commerce Review, vol. 1, no. 1 (Winter 1973), Lexington, Virginia.
+
 [^13]: Press summary of the 1972 Republican platform, Michael Raoul-Duval Papers, Box 23, folder "Republican Platform - 1976: Background Material, 1960-1975 (2)," Gerald R. Ford Presidential Library (hearings for a week in Miami Beach; Representative John J. Rhodes, committee chairman, naming Martin C. Anderson of the Hoover Institution as the "wordsmith"). https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0205/148729960.pdf
+
 [^14]: Republican Party, 1972 platform, proposed by the Committee on Resolutions to the Republican National Convention, August 21, 1972, Miami Beach, Florida, foreign policy section. https://www.fordlibrarymuseum.gov/sites/default/files/pdf_documents/library/document/0205/1672784.pdf
+
 [^15]: Antony C. Sutton, "The East-West Trade Fight," Human Events, vol. 32, no. 11, March 11, 1972, p. 14.
+
 [^16]: Antony C. Sutton, National Suicide: Military Aid to the Soviet Union (New York: Arlington House, 1973).
+
 [^17]: Sutton, oral statement, April 24, 1974, in International Economic Policy (1974), p. 159 ("reminiscent of Hitler's book burning"; urging that Congress investigate), and prepared statement, p. 160 ("police state tactics of Hitler's Germany").
+
 [^18]: Sutton, oral statement, April 24, 1974, in International Economic Policy (1974), pp. 157 to 159 (marine diesel engines, the 68 and 80 percent figures, computers, ball bearings and trucks).
+
 [^19]: International Economic Policy (1974), colloquy between Chairman Ashley and Sutton following the panel testimony, April 24, 1974.
+
 [^20]: International Economic Policy (1974), statement of Franklyn D. Holzman, following Sutton's statement (the 1920s concession arrangements "larger than has commonly been believed").
+
 [^21]: International Economic Policy (1974), prepared statement of a panel witness preceding Sutton's, referring to "the recent work by Antony C. Sutton" on the 1920s concessions.
+
 [^22]: International Economic Policy (1974), questioning by Representative Ben B. Blackburn of Roger E. Shields and other witnesses, pp. 796 to 797 (Sutton's computer findings; Bryant Chucking Grinder ball bearing machines sold in 1972).
+
 [^23]: Antony C. Sutton, Wall Street and the Bolshevik Revolution (New York: Arlington House, 1974), Preface, p. 11 (dated March 1974); the Decimal File quotation appears in the same preface.
+
 [^24]: Sutton, Wall Street and the Bolshevik Revolution (1974), note 1 to the synopsis, p. 169, citing Michael Futrell, Northern Underground (London: Faber and Faber, 1963); Stefan Possony, Lenin: The Compulsive Revolutionary (London: George Allen and Unwin, 1966); and George Katkov, "German Foreign Office Documents on Financial Support to the Bolsheviks in 1917," International Affairs 32 (1956).
+
 [^25]: Sutton, Wall Street and the Bolshevik Revolution (1974), "The Evidence Presented: A Synopsis," pp. 169 to 171 (Aschberg, May, Ruskombank, Thompson's one million dollars and the cablegram, 120 Broadway).
+
 [^26]: Sutton, Wall Street and the Bolshevik Revolution (1974), Chapter 8, "120 Broadway, New York City," pp. 125 to 137, and synopsis, pp. 171 to 172.
+
 [^27]: Sutton, Wall Street and FDR (New York: Arlington House, 1975), Preface, p. 9 (dated October 1974, Cupertino, California).
+
 [^28]: Sutton, Wall Street and FDR (1975), Chapter 10, "FDR: Man on the White Horse," pp. 144 to 147 (Murphy as director, the Butler plan, Davis and the speech, the "man on the white horse" passage).
+
 [^29]: Sutton, Wall Street and the Rise of Hitler (1976), p. 21, quoting the Kilgore Committee. The quotation begins "The United States accidentally played an important role in the technical arming of Germany."
+
 [^30]: Sutton, Wall Street and the Rise of Hitler (1976), pp. 21 to 22 and p. 68 (Standard Oil and the Jasco agreement, quoting the Kilgore Committee's conclusion that Standard "fully accomplished I.G.'s purpose").
+
 [^31]: Sutton, Wall Street and the Rise of Hitler (1976), Selected Bibliography, pp. 209 to 211 (Senate Military Affairs subcommittee hearings, 1944 and 1945; Control Council Field Information Agency report EF/ME/1, September 4, 1945; Strategic Bombing Survey reports; Nuremberg Military Tribunals, Volume VIII, I.G. Farben case).
+
 [^32]: Sutton, Wall Street and the Rise of Hitler (1976), pp. 102 to 103 (Thyssen, the 250,000 marks credit and the Harriman connection), and p. 106 (I Paid Hitler, "later repudiated").
+
 [^33]: Antony C. Sutton, America's Secret Establishment: An Introduction to the Order of Skull and Bones (Trine Day, 2002 edition), Preface, dated July 30, 1983 at Phoenix, Arizona.
+
 [^34]: Antony C. Sutton, America's Secret Establishment: An Introduction to the Order of Skull and Bones (Trine Day, 2002 edition), copyright page (1983, 1986, 2002) and the section "The Order of Skull and Bones Yale Catalogue," compiled by Kris Millegan.
+
 [^35]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section on the "Addresses" books (the membership lists back to 1832, and the remark about members bound by oath).
+
 [^36]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), Memorandum Number Four, "Who Is In This Secret Society?" (membership of about 2,500 initiates, Hypothesis One) and the chart the text places on page 19.
-[^37]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section on the membership history from 1833, including the founders William Huntington Russell and Alphonso Taft and the description of the two groups of families.
-[^38]: Antony C. Sutton, *America's Secret Establishment: An Introduction to the Order of Skull & Bones* (1983), passage on the Twentieth Century Foundation and Evans Clark, naming "Charles Phelps Taft (The Order '18), nephew of President and Chief Justice William Howard Taft." https://archive.org/details/americas_secret_establishment-skull_and_bones
-[^39]: Obituary Record of Graduates of Yale University Deceased during the Year 1929-1930, entry "William Howard Taft, B.A. 1878," p. 72 (children: "Charles Phelps, 2d (B.A. 1918, LL.B. 1921)"). https://web.archive.org/web/2024/http://mssa.library.yale.edu/obituary_record/1925_1952/1929-30.pdf
-[^40]: Obituary Record of Graduates of Yale University Deceased during the Year 1929-1930, entry "Charles Phelps Taft, B.A. 1864" (born December 21, 1843; died December 31, 1929; nephews include "William Howard Taft, 2d, '09, Robert A Taft, '10, and Charles P. Taft, 2d, '18"). https://web.archive.org/web/2024/http://mssa.library.yale.edu/obituary_record/1925_1952/1929-30.pdf
-[^41]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section on Brown Brothers, Harriman, including the list of partners initiated into The Order in the mid-1970s.
-[^42]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section on the directors of Union Banking Corporation (eight directors, four Yale 1917 initiates, Knight Woolley, Kouwenhoven and Groninger, and Ellery S. James and Prescott S. Bush).
-[^43]: Sutton, Wall Street and the Rise of Hitler (1976), Table 7-1 and text, p. 103 (Union Banking Corporation directors in 1932, including E. Roland Harriman).
-[^44]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section "The Whitney-Stimson-Bundy-Acheson Chain of Influence," points 1 to 4, and the summary bullets that follow.
-[^45]: "The Yale Senior Society Program," Phoenix Letter, vol. 3, no. 8 (October 1984), Research Publications, Box 39850, Phoenix, Arizona, pp. 1 to 6.
-[^46]: Antony C. Sutton, How the Order Controls Education (1985), archive.org catalogue record.
-[^47]: Antony C. Sutton, Trilaterals Over America (1995), Chapter One, "What is the Trilateral Commission?" (founded in 1973 by David Rockefeller, then chairman of Chase Manhattan) and Appendix A, "Membership October 1978 and July 1993."
-[^48]: Library of Congress catalog record, Sutton, Antony C., and Patrick M. Wood, Trilaterals Over Washington (Scottsdale, Ariz.: August Corp., c1978, 1979 printing), call number HF1411 .S8864. https://www.loc.gov/item/78078277
-[^49]: Archive.org catalogue records for The War on Gold (1977), Energy: The Created Crisis (1979), The Federal Reserve Conspiracy (1995) and Cold Fusion: The Secret Energy Revolution (1999), by Antony C. Sutton.
+
+[^37]: Antony C. Sutton, *America's Secret Establishment* (1983), chart captions for the Lords and section "The Role Of The Order." https://archive.org/details/americas_secret_establishment-skull_and_bones
+
+[^38]: George Augustus Perkins, *The Family of John Perkins of Ipswich, Massachusetts* (1889), pp. 1 to 3 and entries 387a, 619 and 886 to 890. https://archive.org/details/familyofjohnperk00perk
+
+[^39]: *Who's Who in America*, 1910-1911, entry for George Walbridge Perkins. https://archive.org/details/whos-who-in-america_1910-1911_6
+
+[^40]: Antony C. Sutton, *America's Secret Establishment* (1983), on the membership lists and the Morgan partners. https://archive.org/details/americas_secret_establishment-skull_and_bones
+
+[^41]: Sutton, *America's Secret Establishment* (1983), index of members by class year, classes of 1840, 1842 and 1858. https://archive.org/details/americas_secret_establishment-skull_and_bones
+
+[^42]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section on the membership history from 1833, including the founders William Huntington Russell and Alphonso Taft and the description of the two groups of families.
+
+[^43]: Antony C. Sutton, *America's Secret Establishment: An Introduction to the Order of Skull & Bones* (1983), passage on the Twentieth Century Foundation and Evans Clark, naming "Charles Phelps Taft (The Order '18), nephew of President and Chief Justice William Howard Taft." https://archive.org/details/americas_secret_establishment-skull_and_bones
+
+[^44]: Obituary Record of Graduates of Yale University Deceased during the Year 1929-1930, entry "William Howard Taft, B.A. 1878," p. 72 (children: "Charles Phelps, 2d (B.A. 1918, LL.B. 1921)"). https://web.archive.org/web/2024/http://mssa.library.yale.edu/obituary_record/1925_1952/1929-30.pdf
+
+[^45]: Obituary Record of Graduates of Yale University Deceased during the Year 1929-1930, entry "Charles Phelps Taft, B.A. 1864" (born December 21, 1843; died December 31, 1929; nephews include "William Howard Taft, 2d, '09, Robert A Taft, '10, and Charles P. Taft, 2d, '18"). https://web.archive.org/web/2024/http://mssa.library.yale.edu/obituary_record/1925_1952/1929-30.pdf
+
+[^46]: Sutton, *America's Secret Establishment* (1983), section on the first members of the Order; Office of the Historian, United States Department of State, "Alphonso Taft (1810-1891)." https://history.state.gov/departmenthistory/people/taft-alphonso
+
+[^47]: *Taft Family Gathering. Proceedings of the Meeting of the Taft Family, at Uxbridge, Mass., August 12, 1874*, "Historical Address" by Judge Alphonso Taft of Cincinnati, Ohio, pp. 14 to 15. https://archive.org/details/taftfamilygather00uxbr
+
+[^48]: Sutton, *America's Secret Establishment* (1983), section "Hall At Antioch College" and the memorandum on Horace Mann and the look-say method. https://archive.org/details/americas_secret_establishment-skull_and_bones
+
+[^49]: G. Stanley Hall, *Life and Confessions of a Psychologist* (New York: D. Appleton, 1923), p. 200, chapter "Germany, Antioch College." https://archive.org/details/lifeconfessionso0000gsta
+
+[^50]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section on Brown Brothers, Harriman, including the list of partners initiated into The Order in the mid-1970s.
+
+[^51]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section on the directors of Union Banking Corporation (eight directors, four Yale 1917 initiates, Knight Woolley, Kouwenhoven and Groninger, and Ellery S. James and Prescott S. Bush).
+
+[^52]: Sutton, Wall Street and the Rise of Hitler (1976), Table 7-1 and text, p. 103 (Union Banking Corporation directors in 1932, including E. Roland Harriman).
+
+[^53]: Sutton, America's Secret Establishment (Trine Day, 2002 edition), section "The Whitney-Stimson-Bundy-Acheson Chain of Influence," points 1 to 4, and the summary bullets that follow.
+
+[^54]: "The Yale Senior Society Program," Phoenix Letter, vol. 3, no. 8 (October 1984), Research Publications, Box 39850, Phoenix, Arizona, pp. 1 to 6.
+
+[^55]: *History of the Class of 1896, Yale College: Decennial Record* (New Haven, 1907), biography of Anson Phelps Stokes Jr., pp. 588 to 590. https://archive.org/details/decennialrecordo00yalerich
+
+[^56]: Rupert Hughes, "Secret Societies at Yale," *Munsey's Magazine*, vol. 11, no. 3 (June 1894), https://archive.org/details/sim_munseys-magazine_1894-06_11_3 ; A. C. Stevens, *The Cyclopaedia of Fraternities* (1899), https://archive.org/details/StevensACTheCyclopaediaOfFraternities1899 ; George W. Pierson, *Yale College: An Educational History, 1871-1921* (New Haven: Yale University Press, 1952), https://archive.org/details/yalecollegeeduca0000pier
+
+[^57]: Antony C. Sutton, How the Order Controls Education (1985), archive.org catalogue record.
+
+[^58]: Antony C. Sutton, Trilaterals Over America (1995), Chapter One, "What is the Trilateral Commission?" (founded in 1973 by David Rockefeller, then chairman of Chase Manhattan) and Appendix A, "Membership October 1978 and July 1993."
+
+[^59]: Library of Congress catalog record, Sutton, Antony C., and Patrick M. Wood, Trilaterals Over Washington (Scottsdale, Ariz.: August Corp., c1978, 1979 printing), call number HF1411 .S8864. https://www.loc.gov/item/78078277
+
+[^60]: Archive.org catalogue records for The War on Gold (1977), Energy: The Created Crisis (1979), The Federal Reserve Conspiracy (1995) and Cold Fusion: The Secret Energy Revolution (1999), by Antony C. Sutton.

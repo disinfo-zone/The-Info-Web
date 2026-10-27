@@ -48,13 +48,21 @@ The [[Iran Hostage Crisis]] (1979-1981) was a major challenge during his preside
 
 During his presidency, Carter's human rights foreign policy in [[Latin America]] reportedly distanced the CIA under [[Stansfield Turner]] from any death-squad interdiction. His administration was also reportedly reluctant to pursue certain figures involved in the drug trade, such as General Torrijos of [[Panama]], due to ongoing negotiations for the [[Panama Canal]] treaty.[^8]
 
+### Dresser drill bit licence, 1978" placed before the page's last section. The live page does not mention Dresser. Footnotes D1 and D2.
+
+Insert-ready section:
+
+### Dresser drill bit licence, 1978
+
+In June 1978 Soviet trade organizations awarded [[Dresser Industries]] two contracts totaling $180 million, one of them for equipment and technology to make drill bits for oil and gas wells.[^9] In August the Carter administration approved the export license, and [[Juanita Kreps]], the Secretary of Commerce, approved a $140 million drill bit deal.[^10] Carter initialed a memorandum from [[Zbigniew Brzezinski]] of August 29, 1978, and wrote "Jody [Powell] is preparing statement." Beside the report's first conclusion, that deep-well drilling technology was wholly concentrated in the United States, he wrote "We knew this."[^10]
+
 ### Connections to BCCI
 
-Jimmy Carter accepted millions from [[Agha Hasan Abedi]] and [[Bank of Credit and Commerce International|BCCI]] for charitable organizations.[^9] In August 1982, [[Bert Lance]] introduced Abedi to Carter.[^10] Abedi's [[National Bank of Georgia]] was the largest single lender to the Carter family's peanut farm in Plains, Georgia.[^11]
+Jimmy Carter accepted millions from [[Agha Hasan Abedi]] and [[Bank of Credit and Commerce International|BCCI]] for charitable organizations.[^11] In August 1982, [[Bert Lance]] introduced Abedi to Carter.[^12] Abedi's [[National Bank of Georgia]] was the largest single lender to the Carter family's peanut farm in Plains, Georgia.[^13]
 
-In the early 1980s, Abedi donated $500,000 to help establish the [[Carter Center]] at Emory University in [[Atlanta]] and contributed millions to Carter's Global 2000 Foundation, founded in 1985 for Third World healthcare.[^11] BCCI provided $8.1 million to Carter during the 1980s, and Abedi arranged an additional $2.5 million from [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] through the [[Abu Dhabi Investment Authority]].[^11] Carter also utilized BCCI's jet for his travels and Global 2000 Foundation used office space at BCCI's London headquarters.[^11]
+In the early 1980s, Abedi donated $500,000 to help establish the [[Carter Center]] at Emory University in [[Atlanta]] and contributed millions to Carter's Global 2000 Foundation, founded in 1985 for Third World healthcare.[^13] BCCI provided $8.1 million to Carter during the 1980s, and Abedi arranged an additional $2.5 million from [[Zayed bin Sultan AL-Nahayan|Sheikh Zayed]] through the [[Abu Dhabi Investment Authority]].[^13] Carter also utilized BCCI's jet for his travels and Global 2000 Foundation used office space at BCCI's London headquarters.[^13]
 
-Carter and his second wife, Rosalynn, became friends with Abedi and his wife, Rabia, and spent holidays together in Switzerland. Carter introduced Abedi to acquaintances like [[James Callaghan]].[^11] Abedi's joint appearances with Carter in various countries, including [[Kenya]], [[Ghana]], [[Pakistan]], [[Bangladesh]], [[China]], [[Thailand]], and the [[Soviet Union]], served as key targets for BCCI's business development.[^11] Carter continued to accept at least $1.5 million from BCCI even after the bank was indicted and convicted in Florida.[^11]
+Carter and his second wife, Rosalynn, became friends with Abedi and his wife, Rabia, and spent holidays together in Switzerland. Carter introduced Abedi to acquaintances like [[James Callaghan]].[^13] Abedi's joint appearances with Carter in various countries, including [[Kenya]], [[Ghana]], [[Pakistan]], [[Bangladesh]], [[China]], [[Thailand]], and the [[Soviet Union]], served as key targets for BCCI's business development.[^13] Carter continued to accept at least $1.5 million from BCCI even after the bank was indicted and convicted in Florida.[^13]
 
 ### Footnotes
 
@@ -66,6 +74,8 @@ Carter and his second wife, Rosalynn, became friends with Abedi and his wife, Ra
 [^6]: Carter, White House Diary, p. 405, as cited in Burr and Cohen, note 3. https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2016-12-06/vela-incident-south-atlantic-mystery-flash-september-1979-raised-questions-about-nuclear-test
 [^7]: Schnabel, Jim. *Remote Viewers*. Dell, 1997.
 [^8]: Seymour, Cheri. *The Last Circle: Danny Casolaro's Investigation into the Octopus and the PROMIS Software Scandal*. First Edition. TrineDay, 2010.
-[^9]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
-[^10]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.
-[^11]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 228-229.
+[^9]: *Foreign Relations of the United States, 1977-1980*, vol. VI, Soviet Union, editors' notes to documents 140 and 141 (contracts of June 1978 and total of $180 million). https://history.state.gov/historicaldocuments/frus1977-80v06/d141
+[^10]: Brzezinski to Carter, August 29, 1978, *Foreign Relations of the United States, 1977-1980*, vol. VI, document 141, with the editors' notes on Kreps's August approval and on Carter's initials and marginal note. https://history.state.gov/historicaldocuments/frus1977-80v06/d141
+[^11]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 9.
+[^12]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, p. 12.
+[^13]: Beaty, Jonathan and Gwynne, S. C. *The Outlaw Bank: A Wild Ride into the Secret Heart of BCCI*. New York: Random House, 1993, pp. 228-229.
