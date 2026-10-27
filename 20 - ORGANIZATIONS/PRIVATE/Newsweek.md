@@ -17,7 +17,7 @@ tags:
   - DarkAlliance
   - NewsweekQuranStory
 summary: "American news weekly founded in 1933, owned by the Washington Post Company from 1961 to 2010, whose staff and stringers appear in Carl Bernstein's 1977 account of CIA press relations."
-updated: 2026-10-15
+updated: 2026-10-26
 relations:
   - type: owned
     with: "[[Vincent Astor]]"
