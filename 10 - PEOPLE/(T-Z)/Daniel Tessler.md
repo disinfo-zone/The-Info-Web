@@ -6,6 +6,11 @@ tags:
   - CIA
   - INSLAW
 summary: "Daniel Tessler managed a venture capital fund called 53rd Street Ventures, Inc., which was formed around 1976 as an investment company."
+relations:
+  - type: spouse_of
+    with: "[[Patricia Cloherty]]"
+    fn: 1
+updated: 2026-10-28
 ---
 
 Daniel Tessler managed a venture capital fund called [[53rd Street Ventures]], Inc., which was formed around 1976 as an investment company. In about 1984, Tessler and his wife, [[Patricia Cloherty]], assumed management of 53rd Street Ventures through their investment management company, [[Tessler & Cloherty]], Inc. At that time, 53rd Street Ventures had a $100,000 investment in [[INSLAW|Inslaw]], representing less than 1% of the fund's total portfolio. This investment was made around 1982 under the supervision of [[Patricof and Company]], the previous managers, with [[Jonathan Ben Cnaan]] arranging the investment. The investment resulted in 53rd Street Ventures owning about 1.2% of [[INSLAW]].

@@ -26,8 +26,12 @@ relations:
     with: "[[American Society for Testing and Materials]]"
     role: "senior editor"
     fn: 1
+  - type: relative_of
+    with: "[[Helen E. Hoersch]]"
+    role: "daughter"
+    fn: 1
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 Helen M. Hoersch (died April 5, 2004, aged 83) was a daughter of [[Albert Hoersch]] and [[Helen E. Hoersch]] of West Chew Street in the [[Olney, Philadelphia|Olney]] section of [[Philadelphia]], a sister of [[Raymond C. Hoersch]], and the aunt of the pornographer and fugitive [[R.C. Horsch]]. The house was searched in the [[Olney House Investigation]] of 2026.[^1][^2][^3]

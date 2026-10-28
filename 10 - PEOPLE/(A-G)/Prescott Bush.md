@@ -29,7 +29,7 @@ born: 1895-05-15
 died: 1972-10-08
 location: "Greenwich, Connecticut"
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 relations:
   - type: member_of
     with: "[[Skull and Bones]]"
@@ -99,12 +99,16 @@ relations:
     fn: 4
   - type: relative_of
     with: "[[George H.W. Bush]]"
-    role: "son"
+    role: "father"
     fn: 1
   - type: relative_of
     with: "[[George W. Bush]]"
-    role: "grandson"
+    role: "grandfather"
     fn: 1
+  - type: relative_of
+    with: "[[George Herbert Walker]]"
+    role: "son-in-law"
+    fn: 4
 ---
 
 Prescott Sheldon Bush (May 15, 1895 to October 8, 1972) was a partner in [[Brown Brothers Harriman]] and a Republican who represented [[Connecticut]] in the [[United States Senate]] from November 4, 1952 to January 2, 1963.[^1] He was the father of President [[George H.W. Bush]] and the grandfather of President [[George W. Bush]].[^1] The [[Federal Register]] of November 7, 1942 lists him among the registered holders of the [[Union Banking Corporation]], a New York bank whose stock the [[Alien Property Custodian]] vested as held for a Dutch bank owned or controlled, in the order's words, by members of the Thyssen family.[^2]

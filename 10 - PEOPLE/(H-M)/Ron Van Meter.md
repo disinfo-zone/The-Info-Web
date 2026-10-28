@@ -4,6 +4,11 @@ tags:
   - PROMIS
   - Person
 summary: "Official reports listed his death as a drowning."
+relations:
+  - type: spouse_of
+    with: "[[Leslie Van Meter]]"
+    fn: 1
+updated: 2026-10-28
 ---
 
 [[Ron Van Meter]] was a deputy in the Mariposa Sheriff's Department. His death on June 24, 1980, in an alleged boating accident on Lake McClure, became a central point of investigation into long-standing corruption, murder, threats, and harassment within the department. Those he confided in believed he was murdered after uncovering and reporting drug trafficking within the sheriff's department.[^1]

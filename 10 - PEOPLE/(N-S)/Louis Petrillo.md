@@ -5,7 +5,7 @@ aliases:
   - Louis F. Petrillo
   - Louis Petrillo (banker)
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-28
 category: "Business & Finance"
 tags:
   - Person
@@ -48,6 +48,10 @@ relations:
     reverse: true
     start: 1994
     fn: 2
+  - type: relative_of
+    with: "[[Danny Casolaro]]"
+    role: "cousin"
+    fn: 4
 ---
 
 Louis F. Petrillo was the president of [[Bayshore Bank of Florida]], a bank in [[Miami]], when the [[Miami Herald]] reported in June 1987 that he had moved $2 million of the bank's money to [[GeoMiliTech Consultants Corp.]], a [[Washington, D.C.]] firm that the newspaper said bought weapons for the [[Contras]]. He later pleaded guilty to misapplication of funds and bank fraud.

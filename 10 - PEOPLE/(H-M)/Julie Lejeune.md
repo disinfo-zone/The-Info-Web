@@ -16,8 +16,12 @@ relations:
     start: 1995-06-24
     end: 1996-08-17
     fn: 1
+  - type: relative_of
+    with: "[[Louisa Lejeune]]"
+    role: "daughter"
+    fn: 3
 created: 2026-04-28
-updated: 2026-10-09
+updated: 2026-10-28
 ---
 
 Julie Lejeune, aged eight, was abducted with her friend [[Melissa Russo]] on Saturday, June 24, 1995, between five and seven in the evening, while the two were playing in the fields beside the Russo family's house at Grâce-Hollogne, near [[Liège]]; the gendarmerie brigade at Grâce-Hollogne opened the case that day. A witness saw the children get into a car.[^1][^2] Her mother was Louisa Lejeune.[^3]

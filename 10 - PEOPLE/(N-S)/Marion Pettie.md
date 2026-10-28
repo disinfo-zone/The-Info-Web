@@ -10,13 +10,20 @@ summary: "Marion Pettie (1920-2003) was the founder and Game Caller of The Finde
 born: 1920
 died: 2003-10-24
 location: "Washington, D.C. / Culpeper, Virginia"
-updated: 2026-10-15
+updated: 2026-10-28
 relations:
   - type: founded
     with: "[[The Finders]]"
     start: 1971
     role: founder and Game Caller
     fn: 2
+  - type: spouse_of
+    with: "[[Isabelle Pettie]]"
+    fn: 7
+  - type: relative_of
+    with: "[[George Pettie]]"
+    role: "father"
+    fn: 8
 ---
 
 Marion David Pettie (1920-2003) was the founder and leader of [[The Finders]], a Washington D.C.-based communal group that came under federal investigation in February 1987 following the arrest of two members who were transporting six malnourished children in a van in Tallahassee, Florida. A retired [[U.S. Air Force]] Master Sergeant with documented family connections to the [[Central Intelligence Agency|CIA]] and its proprietary airline [[Air America]], Pettie functioned within the group as the "Game Caller," the title used both by adult members and by the children under the group's care, for approximately three decades until the group's announced dissolution in 1987.[^1][^2]

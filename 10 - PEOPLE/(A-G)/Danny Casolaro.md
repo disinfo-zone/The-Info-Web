@@ -3,8 +3,13 @@ title: Danny Casolaro
 aliases:
   - Danny Casolaro
   - Joseph Daniel Casolaro
+relations:
+  - type: relative_of
+    with: "[[Anthony Casolaro]]"
+    role: "brother"
+    fn: 1
 created: 2024-04-25
-updated: 2026-10-15
+updated: 2026-10-28
 category: "Authors & Journalists"
 tags:
   - KeyFigure

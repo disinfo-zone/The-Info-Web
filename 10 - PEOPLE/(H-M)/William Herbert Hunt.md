@@ -15,8 +15,13 @@ summary: "Son of H.L. Hunt who was indicted with his brother Bunker for wiretapp
 born: 1929-03-06
 died: 2024-04-09
 location: "Dallas, Texas"
+relations:
+  - type: relative_of
+    with: "[[Nelson Bunker Hunt]]"
+    role: "brother"
+    fn: 1
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 William Herbert Hunt (March 6, 1929 to April 9, 2024) was the third son of [[H.L. Hunt]] and [[Lyda Bunker Hunt]] and the business partner of his older brother [[Nelson Bunker Hunt]]. He was born in [[El Dorado, Arkansas]], and ran [[Placid Oil Company|Placid Oil]] and [[Penrod Drilling Company|Penrod Drilling]], the companies held in the trusts their father created for the first family.[^1][^2]

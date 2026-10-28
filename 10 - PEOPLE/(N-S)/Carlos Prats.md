@@ -14,8 +14,13 @@ tags:
 summary: "Commander of the Chilean army under Salvador Allende, who recommended Augusto Pinochet as his successor and was killed with his wife by a secret police car bomb in Buenos Aires on September 30, 1974."
 died: 1974-09-30
 location: "Buenos Aires, Argentina"
+relations:
+  - type: spouse_of
+    with: "[[Sofía Cuthbert]]"
+    end: 1974
+    fn: 1
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 General Carlos Prats González became commander in chief of the Chilean army in October 1970, after the shooting of his predecessor, General [[Rene Schneider|René Schneider]], in a kidnapping attempt supported by the [[Central Intelligence Agency|CIA]]. He entered the cabinet of [[Salvador Allende]] in 1972 and served for a time as vice president. In June 1973 he put down the Tanquetazo, a coup attempt by junior officers and [[Patria y Libertad]]. Protests against his support for the government forced his resignation in late August 1973. He recommended General [[Augusto Pinochet]] to replace him, believing that Pinochet would defend the constitution.[^1]

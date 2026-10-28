@@ -110,14 +110,14 @@ relations:
     fn: 63
   - type: relative_of
     with: "[[McGeorge Bundy]]"
-    role: "son"
+    role: "father"
     fn: 2
   - type: relative_of
     with: "[[William P. Bundy]]"
-    role: "son"
+    role: "father"
     fn: 2
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 Harvey Hollister Bundy (born March 30, 1888) was a Boston lawyer born in [[Grand Rapids, Michigan]], who served as Assistant Secretary of State under [[Henry L. Stimson]] from 1931 to 1933, as Stimson's special assistant at the [[War Department]] from April 1941 to September 1945, and as chairman of the board of the [[Carnegie Endowment for International Peace]] from December 1952. He was the father of [[William P. Bundy]] and [[McGeorge Bundy]].[^1][^2]

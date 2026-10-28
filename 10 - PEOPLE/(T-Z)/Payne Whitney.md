@@ -164,8 +164,44 @@ relations:
     with: "[[Joan Whitney Payson]]"
     role: "father"
     fn: 20
+  - type: relative_of
+    with: "[[Cornelius Vanderbilt Whitney]]"
+    role: "uncle"
+    fn: 3
+  - type: relative_of
+    with: "[[Harry Payne Bingham]]"
+    role: "cousin"
+    fn: 3
+  - type: relative_of
+    with: "[[Henry F. Dimock]]"
+    role: "nephew"
+    fn: 3
+  - type: relative_of
+    with: "[[Henry W. Payne]]"
+    role: "nephew"
+    fn: 3
+  - type: relative_of
+    with: "[[Charles W. Bingham]]"
+    role: "nephew"
+    fn: 3
+  - type: relative_of
+    with: "[[Willard Straight]]"
+    role: "brother-in-law"
+    fn: 63
+  - type: relative_of
+    with: "[[Michael Whitney Straight]]"
+    role: "uncle"
+    fn: 64
+  - type: relative_of
+    with: "[[Clarence Hay]]"
+    role: "brother-in-law"
+    fn: 50
+  - type: relative_of
+    with: "[[John Hay]]"
+    role: "son-in-law"
+    fn: 20
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 William Payne Whitney (March 20, 1876 to May 25, 1927) was a New York financier and sportsman, son of [[William Collins Whitney]] and [[Flora Payne]] of the [[Whitney family]], a member of the [[Yale University]] class of 1898 and of [[Skull and Bones]], and, with his sister [[Pauline Whitney Paget]] and four other nephews and nieces, a beneficiary of the holding company that his uncle [[Oliver Hazard Payne]] of [[Standard Oil]] set aside for the family. His brother was [[Harry Payne Whitney]].[^1] His estate, appraised in November 1928 at $194,328,514 gross and $178,893,655 net, was described as the largest ever appraised in the United States.[^2]
 

@@ -4,6 +4,12 @@ tags:
   - Person
   - PROMIS
 summary: "Law school classmate of Allan Boyak and estranged brother of intelligence operative Robert Booth Nichols."
+relations:
+  - type: relative_of
+    with: "[[Robert Booth Nichols]]"
+    role: "brother"
+    fn: 1
+updated: 2026-10-28
 ---
 [[Jim Nichols]] was a classmate of [[Allan Boyak]] in law school. He told Boyak that he had a brother, [[Robert Booth Nichols]], who was heavily involved in organized crime and had been disowned by his family. Information about [[Robert Booth Nichols]]' background profile was reportedly provided by his estranged brother, Jim Nichols.[^1]
 

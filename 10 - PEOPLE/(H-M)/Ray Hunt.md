@@ -17,8 +17,13 @@ tags:
 summary: "Chairman of Hunt Oil and executor of H.L. Hunt's estate who sat on the President's Foreign Intelligence Advisory Board from 2001 to 2009 while his company signed an oil contract with the Kurdistan Regional Government."
 born: 1943
 location: "Dallas, Texas"
+relations:
+  - type: relative_of
+    with: "[[Hunter Hunt]]"
+    role: "father"
+    fn: 2
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Ray Lee Hunt (born April 1943) is the chairman of [[Hunt Oil Company]] and [[Hunt Consolidated]] of [[Dallas, Texas|Dallas]]. He is the son of [[H.L. Hunt]] and [[Ruth Ray Hunt|Ruth Ray]], was born in [[New York City|New York]] while his father's first wife was living, and was adopted by his father after his parents married in 1957. His father's will gave all of his Hunt Oil stock to Ruth Hunt and made Ray sole executor. He was finance chairman of the [[Republican National Committee]] in 2000, a director of [[Halliburton]] from 1998, chairman of the [[Federal Reserve Bank of Dallas]] from 2002 to 2006, and a member of the [[President's Foreign Intelligence Advisory Board]] under [[George W. Bush]] from 2001 to 2009.[^1][^2][^3]

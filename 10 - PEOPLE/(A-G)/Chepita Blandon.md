@@ -7,6 +7,12 @@ tags:
   - Contra
   - 1980s
 summary: Danilo Blandón's wife, identified by the DEA as closely involved in his trafficking activities, who was arrested in 1992 and had all charges dropped when her husband agreed to become a DEA informant.
+relations:
+  - type: relative_of
+    with: "[[Orlando Murillo]]"
+    role: "niece"
+    fn: 2
+updated: 2026-10-28
 ---
 Chepita Blandón was the wife of [[Danilo Blandon|Danilo Blandón]] who was identified by the [[DEA]] as being closely involved in her husband's cocaine trafficking activities.[^1]
 

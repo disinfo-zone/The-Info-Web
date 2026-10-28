@@ -22,7 +22,7 @@ summary: "Saudi brigadier general of the Ministry of Interior special forces, fo
 born: 1969
 location: "Makkah, Saudi Arabia"
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-28
 relations:
   - type: employed_by
     with: "[[General Intelligence Presidency]]"
@@ -35,7 +35,7 @@ relations:
     fn: 2
   - type: relative_of
     with: "[[Khalid bin Bader Al Saud]]"
-    role: "son"
+    role: "father"
     start: 1994-09
     fn: 11
   - type: relative_of

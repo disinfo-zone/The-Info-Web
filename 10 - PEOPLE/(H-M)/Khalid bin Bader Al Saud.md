@@ -22,7 +22,7 @@ summary: "Saudi prince, director of three dissolved UK Keko companies, founder a
 born: 1994-09
 location: "Riyadh, Saudi Arabia"
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-28
 relations:
   - type: founded
     with: "[[Echelon (company)]]"
@@ -45,7 +45,7 @@ relations:
     fn: 5
   - type: relative_of
     with: "[[Bader bin Saud bin Mohammed Al Saud]]"
-    role: "father"
+    role: "son"
     start: 1994-09
     fn: 1
   - type: relative_of

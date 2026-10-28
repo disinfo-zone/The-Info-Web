@@ -16,7 +16,7 @@ summary: "Son of the pornographer R.C. Horsch and owner of the Olney house searc
 born: 1981
 location: "Philadelphia, Pennsylvania"
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-28
 relations:
   - type: relative_of
     with: "[[R.C. Horsch]]"
@@ -24,7 +24,7 @@ relations:
     fn: 2
   - type: relative_of
     with: "[[Myroslawa Ferkuniak]]"
-    role: "mother"
+    role: "son"
     start: 1981
     fn: 1
 ---

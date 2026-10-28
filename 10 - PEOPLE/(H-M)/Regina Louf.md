@@ -34,8 +34,12 @@ relations:
     end: 2002-01-16
     role: "named in the prosecutor-general's statements to BBC journalists"
     fn: 1
+  - type: relative_of
+    with: "[[Cecile Beernaert]]"
+    role: "granddaughter"
+    fn: 8
 created: 2026-04-28
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 Regina Louf, born in [[Ghent]] on January 29, 1969 and moved to [[Knokke-Heist]] to her grandmother at the age of eighteen months, by her own account,[^1] was the witness known as X1 in the investigation opened at Neufchâteau after the arrest of [[Marc Dutroux]] in August 1996. The Observer reported that she was the first of ten people to come forward after the investigating judge [[Jean-Marc Connerotte]] appealed to victims to speak to the police.[^2] Her statements opened a series of "related files" (dossiers connexes), the [[X-Dossier]]. In 1998 she gave up her anonymity and published her account as a book, and her credibility was disputed repeatedly in official and press accounts thereafter.[^3][^4]

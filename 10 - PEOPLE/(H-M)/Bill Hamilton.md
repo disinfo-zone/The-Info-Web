@@ -1,7 +1,12 @@
 ---
 category: "Technologists"
+relations:
+  - type: spouse_of
+    with: "[[Nancy Hamilton]]"
+    start: 1963
+    fn: 1
 created: 2024-04-25
-updated: 2026-10-15
+updated: 2026-10-28
 tags:
   - KeyFigure
   - Person

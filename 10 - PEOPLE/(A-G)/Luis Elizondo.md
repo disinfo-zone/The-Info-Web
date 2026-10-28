@@ -30,7 +30,11 @@ relations:
     role: "NewsNation reported on June 30 and July 29, 2026 on disputes between Elizondo and its correspondent Ross Coulthart and the researcher UAPGerb over his role in the Legacy Program and a rumored disclosure post"
     start: 2026-06-30
     fn: 13
-updated: 2026-10-08
+  - type: relative_of
+    with: "[[Luis D. Elizondo III]]"
+    role: "son"
+    fn: 1
+updated: 2026-10-28
 created: 2026-10-03
 ---
 [[Luis Elizondo]] is a former U.S. Army Counterintelligence Special Agent and former employee of the Office of the Undersecretary of Defense for Intelligence. He is a central figure in the effort to disclose information about [[Unidentified Anomalous Phenomena]] (UAP), due to his role leading the [[Advanced Aerospace Threat Identification Program]] (AATIP), a clandestine [[Pentagon]] program that studied the phenomenon.[^1]

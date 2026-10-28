@@ -1,6 +1,6 @@
 ---
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-28
 title: Michael Whitney Straight
 aliases:
   - Michael Whitney Straight
@@ -29,7 +29,7 @@ location: "New York City; Washington, D.C.; Chicago, Illinois"
 relations:
   - type: relative_of
     with: "[[Dorothy Payne Whitney]]"
-    role: mother
+    role: son
     fn: 1
   - type: relative_of
     with: "[[Willard Straight]]"

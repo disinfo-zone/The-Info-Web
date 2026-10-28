@@ -17,8 +17,12 @@ tags:
   - WitnessProtection
 summary: "American-born assassin for the Chilean secret police who killed Carlos Prats in Buenos Aires and Orlando Letelier in Washington with car bombs, made sarin in his basement, served five years, and lives under witness protection."
 location: "United States"
+relations:
+  - type: spouse_of
+    with: "[[Mariana Callejas]]"
+    fn: 1
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Michael Vernon Townley is an American electronics specialist who worked from 1974 to 1978 for the [[DINA|Dirección de Inteligencia Nacional]], the secret police of General [[Augusto Pinochet]]. He built and detonated the bombs that killed General [[Carlos Prats]] and his wife in [[Buenos Aires]] in 1974 and [[Orlando Letelier]] and [[Ronni Moffitt]] in Washington in 1976. [[Chile]] expelled him to the [[United States]] on April 8, 1978. He pleaded guilty to conspiracy in the Letelier case, was sentenced to ten years, was released after about five, and has since lived in the United States under another name in the federal [[Witness Protection Program|witness protection program]].[^1]

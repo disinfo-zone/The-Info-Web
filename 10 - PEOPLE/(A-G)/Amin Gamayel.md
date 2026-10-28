@@ -6,6 +6,12 @@ tags:
 summary: "Gamayel received a letter from George K."
 born: 1942-01-22
 location: "Bikfaya, Lebanon"
+relations:
+  - type: relative_of
+    with: "[[Bashir Gemayel]]"
+    role: "brother"
+    fn: 1
+updated: 2026-10-28
 ---
 [[Amin Gamayel]] served as the president of [[Lebanon]], succeeding his brother [[Bashir Gemayel]] who was assassinated before taking office. His family, the Gamayels, were a powerful Christian family who sought outside forces for money, guns, and political support, notably turning to the international heroin trafficking network.[^1]
 

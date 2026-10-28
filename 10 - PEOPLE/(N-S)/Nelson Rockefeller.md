@@ -16,7 +16,7 @@ born: 1908-07-08
 died: 1979-01-26
 location: New York, NY
 created: 2026-06-05
-updated: 2026-10-26
+updated: 2026-10-28
 relations:
   - type: head_of
     with: "[[Planning Coordination Group]]"
@@ -35,6 +35,10 @@ relations:
     start: 1955-08-16
     end: 1955-12-05
     fn: 28
+  - type: relative_of
+    with: "[[David Rockefeller]]"
+    role: "brother"
+    fn: 33
 ---
 
 Nelson Aldrich Rockefeller (July 8, 1908 - January 26, 1979), named after his maternal grandfather and US Senator [[Nelson Aldrich]], was the dominant figure in US-Latin American relations from World War II through the mid-1970s. As coordinator of inter-American affairs (1940-1944), assistant secretary of state for American republic affairs (1944-1945), and later as President [[Dwight D. Eisenhower]]'s special assistant for national security, he built the institutional architecture that governed American policy toward [[Latin America]] and shaped the intelligence community's covert operations in the Western Hemisphere. His private vehicles, the [[IBEC]] (International Basic Economy Corporation) and the [[AIA]] (American International Association), extended [[Rockefeller family]] commercial interests into the Brazilian Amazon and beyond.

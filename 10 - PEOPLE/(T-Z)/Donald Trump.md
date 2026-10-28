@@ -91,13 +91,13 @@ relations:
     fn: 17
   - type: relative_of
     with: "[[Jared Kushner]]"
-    role: son-in-law
+    role: father-in-law
     fn: 31
   - type: spouse_of
     with: "[[Melania Trump]]"
     fn: 39
 created: 2026-06-18
-updated: 2026-10-12
+updated: 2026-10-28
 ---
 
 Donald Trump (born June 14, 1946) is the 45th and 47th [[President of the United States]], serving from 2017 to 2021 and from 2025. His administrations appointed figures from the [[Peter Thiel|Peter Thiel]] commercial network, the [[Leonard Leo|Leonard Leo]] judicial-selection network and the [[Jared Kushner|Jared Kushner]] [[Middle East|Middle East]] network to federal office and contracts, and the second administration signed the [[Epstein Files Transparency Act|Epstein Files Transparency Act]] into law on November 19, 2025.[^1][^2]

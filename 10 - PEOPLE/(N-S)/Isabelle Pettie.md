@@ -8,6 +8,15 @@ tags:
   - Cold_War
 summary: "Isabelle Pettie was a CIA employee (1950-1971) and wife of Finders leader Marion Pettie, confirmed by FBI Vault documents that also record her possession of passports to Cold War restricted destinations including North Korea, North Vietnam, and the Soviet Union."
 location: "Washington, D.C."
+relations:
+  - type: spouse_of
+    with: "[[Marion Pettie]]"
+    fn: 1
+  - type: relative_of
+    with: "[[George Pettie]]"
+    role: "mother"
+    fn: 1
+updated: 2026-10-28
 ---
 
 Isabelle Pettie was a CIA employee and the wife of [[Marion Pettie]], the founder and leader of [[The Finders]]. Her employment with the [[Central Intelligence Agency|CIA]] was confirmed by FBI Vault documents released as part of the 2019 Finders document disclosure, and was acknowledged by Marion Pettie himself in a 1993 interview with U.S. News & World Report: "his wife once worked for the Central Intelligence Agency."[^1][^2]

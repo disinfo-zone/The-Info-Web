@@ -2,8 +2,17 @@
 title: Ivan Torres
 aliases:
   - Ivan Torres
+relations:
+  - type: relative_of
+    with: "[[Jacinto Torres]]"
+    role: "brother"
+    fn: 1
+  - type: relative_of
+    with: "[[Edgar Torres]]"
+    role: "brother"
+    fn: 1
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-10-28
 category: "Organized Crime"
 tags:
   - Person

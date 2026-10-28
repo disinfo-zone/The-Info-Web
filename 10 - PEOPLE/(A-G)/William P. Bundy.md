@@ -34,11 +34,11 @@ relations:
     fn: 2
   - type: relative_of
     with: "[[Harvey H. Bundy]]"
-    role: "father"
+    role: "son"
     fn: 2
   - type: relative_of
     with: "[[Dean Acheson]]"
-    role: "father-in-law"
+    role: "son-in-law"
     fn: 2
   - type: spouse_of
     with: "[[Mary Acheson]]"
@@ -116,7 +116,7 @@ relations:
     role: "editor of Foreign Affairs"
     fn: 45
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 William Putnam Bundy (September 24, 1917 to October 6, 2000) was a staff officer of the [[Central Intelligence Agency]], a Defense Department and State Department official, and editor of [[Foreign Affairs]].[^1] He was the son of [[Harvey H. Bundy]], the older brother of [[McGeorge Bundy]], and the son-in-law of [[Dean Acheson]].[^2]

@@ -5,6 +5,11 @@ tags:
   - Lawyer
   - LawEnforcement
 summary: "Her letter detailed the alleged corruption within the Mariposa County local government, including unlawful and corrupt activities by officials and departments, and the failure of the State Attorney General John Van de Kamp and federal agencies to investigate these allegations."
+relations:
+  - type: spouse_of
+    with: "[[Ben Wagner]]"
+    fn: 1
+updated: 2026-10-28
 ---
 
 [[Vivian L. Wagner]] is the wife of attorney [[Ben Wagner]] and a legal secretary. On February 19, 1988, she sent an emotionally gripping letter to President [[Ronald Reagan]] at the [[White House]], titled "Restoring Equal Rights to the Citizens of Mariposa County."[^1]

@@ -6,6 +6,15 @@ summary: "Father of Dodi Fayed and husband of Samira Khashoggi Fayed, connected 
 born: 1929-01-27
 died: 2023-08-30
 location: "Alexandria, Egypt"
+relations:
+  - type: relative_of
+    with: "[[Dodi Fayed]]"
+    role: "father"
+    fn: 1
+  - type: spouse_of
+    with: "[[Samira Khashoggi Fayed]]"
+    fn: 1
+updated: 2026-10-28
 ---
 [[Mohammed Al-Fayed]] was the father of [[Dodi Fayed]] and the husband of [[Samira Khashoggi Fayed]].[^1]
 

@@ -68,7 +68,7 @@ relations:
     fn: 8
   - type: relative_of
     with: "[[Harvey H. Bundy]]"
-    role: "father"
+    role: "son"
     fn: 53
   - type: director_of
     with: "[[International Friendship League]]"
@@ -76,7 +76,7 @@ relations:
     role: "board of directors, Boston"
     fn: 52
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 McGeorge Bundy served as Special Assistant to the President for National Security Affairs under [[John F. Kennedy]] and remained in that post under [[Lyndon B. Johnson]], chaired the interagency committee that reviewed [[CIA]] covert operations, and in 1966 became president of the [[Ford Foundation]].[^1][^2]

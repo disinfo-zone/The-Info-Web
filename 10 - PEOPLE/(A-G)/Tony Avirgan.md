@@ -5,6 +5,11 @@ tags:
   - journalist
   - contra-war
 summary: Tony Avirgan was an ABC cameraman and husband of journalist Martha Honey who was placed under FBI surveillance while investigating Contra drug trafficking in Costa Rica.
+relations:
+  - type: spouse_of
+    with: "[[Martha Honey]]"
+    fn: 1
+updated: 2026-10-28
 ---
 Tony Avirgan was an ABC cameraman and husband of journalist [[Martha Honey]] who was placed under [[Federal Bureau of Investigation]] surveillance while investigating [[Contras|Contra]] drug trafficking in [[Costa Rica]]. Avirgan and Honey pursued the connections between the Contra war and the drug trade on the Southern Front.[^1]
 

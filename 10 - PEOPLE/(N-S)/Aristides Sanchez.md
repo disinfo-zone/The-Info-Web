@@ -9,6 +9,20 @@ tags:
   - Dark_Alliance_Investigation
 summary: Wealthy Somoza-era landowner who became the head of supplies and logistics for the FDN, went on the CIA payroll, and allegedly served as the conduit for cocaine money from the Meneses drug ring in California.
 died: 1993
+relations:
+  - type: relative_of
+    with: "[[Troilo Sanchez]]"
+    role: "brother"
+    fn: 2
+  - type: relative_of
+    with: "[[Fernando Sanchez]]"
+    role: "brother"
+    fn: 2
+  - type: relative_of
+    with: "[[Enrique Sanchez]]"
+    role: "brother"
+    fn: 2
+updated: 2026-10-28
 ---
 Aristides Sanchez was a wealthy landowner under [[Anastasio Somoza|Somoza]] who became the head of supplies and logistics for the [[FDN]]. He went on the [[Central Intelligence Agency]] payroll in the early 1980s as an aide to [[Enrique Bermudez|Enrique Bermudez]] and allegedly served as the conduit for [[Cocaine]] money flowing from the [[Norwin Meneses|Meneses]] drug ring in [[California]].[^1] He died in [[Miami]] in 1993.[^1]
 

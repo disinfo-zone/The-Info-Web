@@ -23,7 +23,7 @@ born: 1904-11-11
 died: 1996
 location: "Baltimore, Maryland"
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 relations:
   - type: employed_by
     with: "[[Oliver Wendell Holmes Jr.]]"
@@ -101,6 +101,10 @@ relations:
     with: "[[Priscilla Hiss]]"
     role: "wife; named in the 1948 hearings and at the trials"
     fn: 52
+  - type: relative_of
+    with: "[[Donald Hiss]]"
+    role: "brother"
+    fn: 50
 ---
 
 Alger Hiss (1904 to 1996) was a lawyer who worked for the [[Agricultural Adjustment Administration]], the [[Nye Committee]] and the [[Department of State]] before he became president of the [[Carnegie Endowment for International Peace]] in 1947. In August 1948 [[Whittaker Chambers]] named him before the [[House Committee on Un-American Activities]] as one of a group of Communists in Washington in the 1930s. Hiss denied the accusation under oath. He was indicted for perjury after testifying before a federal grand jury in December 1948, the first trial ended in a jury disagreement, and at a second trial he was convicted and sentenced on January 25, 1950.

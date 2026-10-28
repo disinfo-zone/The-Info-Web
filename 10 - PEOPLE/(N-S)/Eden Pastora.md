@@ -9,7 +9,7 @@ aliases:
   - Comandante Cero
   - Commander Zero
 created: 2026-05-17
-updated: 2026-10-08
+updated: 2026-10-28
 category: "Military"
 tags:
   - Person
@@ -53,6 +53,10 @@ relations:
     end: 1985-01
     role: "aircraft, helicopters and money from a Miami trafficker"
     fn: 2
+  - type: relative_of
+    with: "[[Marcos Aguado]]"
+    role: "father-in-law"
+    fn: 1
 ---
 Eden Pastora Gomez, "Commandante Zero," a Sandinista commander who turned against the revolution, led the Costa Rica-based [[ARDE]] coalition's military effort from 1982 to 1984, was the main recipient of the [[Central Intelligence Agency]]'s money for the Southern Front until it was cut off, and in 1984 and 1985 received aircraft, money and housing from men who were or became drug traffickers.[^1][^2] The CIA's Inspector General recorded that the CIA ended its relationship with him in October 1984, within two weeks of the first reporting on ARDE's dealings with the trafficker [[George Morales|Jorge Morales]], and that other factors also weighed in the decision; Pastora said the drug reporting was a CIA effort to push him out.[^1][^3]
 

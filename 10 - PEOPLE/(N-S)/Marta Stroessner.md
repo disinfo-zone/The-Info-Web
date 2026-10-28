@@ -6,6 +6,16 @@ tags:
   - Israel
   - Military
 summary: "Daughter of General Andres Rodriguez and daughter-in-law of Paraguayan dictator Alfredo Stroessner, linking two prominent Latin American authoritarian dynasties."
+relations:
+  - type: relative_of
+    with: "[[Andres Rodriguez]]"
+    role: "daughter"
+    fn: 1
+  - type: relative_of
+    with: "[[Alfredo Stroessner]]"
+    role: "daughter-in-law"
+    fn: 1
+updated: 2026-10-28
 ---
 
 [[Marta Stroessner]] is the daughter of [[Andres Rodriguez|General Andres Rodriguez]] and was married to the second son of [[Alfredo Stroessner|President Alfredo Stroessner]] of [[Paraguay]]. She was having an affair with the second son of [[Anastasio Somoza Debayle|Anastasio Somoza]], the overthrown president of [[Nicaragua]], who was living in [[Asuncion]] at the time.[^1]

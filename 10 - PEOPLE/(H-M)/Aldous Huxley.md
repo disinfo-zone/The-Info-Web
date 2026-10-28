@@ -17,8 +17,20 @@ summary: "Aldous Huxley was the novelist of Brave New World who pioneered the li
 born: 1894-07-26
 died: 1963-11-22
 location: "Godalming, England; Los Angeles, California"
+relations:
+  - type: relative_of
+    with: "[[Julian Huxley]]"
+    role: "brother"
+    fn: 1
+  - type: relative_of
+    with: "[[Thomas Henry Huxley]]"
+    role: "grandson"
+    fn: 1
+  - type: spouse_of
+    with: "[[Laura Huxley]]"
+    fn: 2
 created: 2026-05-17
-updated: 2026-06-20
+updated: 2026-10-28
 ---
 
 Aldous Leonard Huxley (July 26, 1894 to November 22, 1963) was an English writer best known for the dystopian novel *Brave New World* (1932), and later one of the central figures linking the psychedelic counterculture, the [[Esalen Institute]], and the Human Potential movement. He was the grandson of the biologist Thomas Henry Huxley and the younger brother of [[Julian Huxley]], the evolutionary biologist who coined the modern usage of "[[Transhumanism|transhumanism]]." A severe eye infection in his teens left him nearly blind for almost three years and gave him a lifelong preoccupation with perception and with senses beyond the ordinary five. His mescaline experiment recorded in *The Doors of Perception* (1954) introduced psychedelic drugs to a wide literary audience, and his late lectures on what he called the "ultimate revolution" warned of pharmacological methods of social control. He died in Los Angeles on November 22, 1963, having asked to be injected with LSD as he died.[^1][^2][^11]

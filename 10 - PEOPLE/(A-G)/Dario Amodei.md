@@ -12,8 +12,13 @@ tags:
 summary: "Dario Amodei is the cofounder and chief executive of Anthropic, a physicist and computational neuroscientist who led GPT-2 and GPT-3 as OpenAI's vice president of research before leaving in 2020 with a group of colleagues to build a rival AI lab."
 born: 1983
 location: "San Francisco, California"
+relations:
+  - type: relative_of
+    with: "[[Daniela Amodei]]"
+    role: "brother"
+    fn: 1
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-10-28
 ---
 
 Dario Amodei (born 1983) is an American AI researcher and entrepreneur who cofounded and serves as chief executive of [[Anthropic]]. Trained as a physicist and computational neuroscientist, he led the development of GPT-2 and GPT-3 as vice president of research at [[OpenAI]], then left in late 2020 with his sister [[Daniela Amodei]] and a group of OpenAI colleagues to found a competing lab built around the thesis that advanced AI should be developed under strict safety constraints. He emerged from the [[Effective Altruism]] milieu, took the Giving What We Can pledge, and is the author of the October 2024 essay "Machines of Loving Grace."[^1][^2]

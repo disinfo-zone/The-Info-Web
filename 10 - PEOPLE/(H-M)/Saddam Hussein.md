@@ -42,7 +42,7 @@ relations:
     fn: 1
   - type: relative_of
     with: "[[Hussein Kamel]]"
-    role: "son-in-law"
+    role: "father-in-law"
     fn: 20
 ---
 Saddam Hussein Abd al-Majid al-Tikriti was born on April 28, 1937, near the town of [[Tikrit]] in central [[Iraq]], to a landless family, and held the presidency from July 16, 1979 until the [[Iraq War]] of 2003.[^1] He joined the [[Ba'ath Party]] in 1957.[^1]

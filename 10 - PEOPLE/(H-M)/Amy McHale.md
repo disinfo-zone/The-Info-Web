@@ -19,8 +19,16 @@ relations:
     with: "[[Olney House Investigation]]"
     start: 2026
     fn: 4
+  - type: relative_of
+    with: "[[Gloria McHale]]"
+    role: "daughter"
+    fn: 1
+  - type: relative_of
+    with: "[[Amanda Stofer]]"
+    role: "mother"
+    fn: 2
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 Amy McHale was the third wife of the [[Philadelphia]] pornographer and filmmaker [[R.C. Horsch]], from 2004 to 2008, and appeared in his films. She was last heard from at the Horsch house on West Chew Avenue in the [[Olney, Philadelphia|Olney]] section of Philadelphia on June 14, 2016, in her mid-forties, and remains missing. Her disappearance is part of the [[Olney House Investigation]].[^1][^2][^3]

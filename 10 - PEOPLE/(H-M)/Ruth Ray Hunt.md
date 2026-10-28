@@ -15,8 +15,29 @@ tags:
   - FirstBaptistDallas
 summary: "Hunt Oil secretary from Idabel, Oklahoma, who bore H.L. Hunt four children from 1943 under the name Wright in a house near his family home, and married him in 1957 after his first wife's death."
 location: "Dallas, Texas"
+relations:
+  - type: relative_of
+    with: "[[Ray Hunt]]"
+    role: "mother"
+    fn: 2
+  - type: relative_of
+    with: "[[June Hunt]]"
+    role: "mother"
+    fn: 2
+  - type: relative_of
+    with: "[[Helen LaKelly Hunt]]"
+    role: "mother"
+    fn: 2
+  - type: relative_of
+    with: "[[Swanee Hunt]]"
+    role: "mother"
+    fn: 2
+  - type: relative_of
+    with: "[[Hassie Hunt]]"
+    role: "stepmother"
+    fn: 4
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Ruth Eileen Ray was the youngest of six children of Walter "Sing" Ray, a real estate and insurance agent and the first city clerk of [[Idabel, Oklahoma]], who died in 1919 when she was two. She left [[Oklahoma State University|Oklahoma A&M]] in 1940, followed a sister to [[Shreveport, Louisiana|Shreveport]], and became a legal secretary at Blanchard, Goldstein, Walker and O'Quinn. When Claude O'Quinn left the firm for its main client, the [[Hunt Oil Company]], he took her with him. [[H.L. Hunt]] told an interviewer that he first noticed her waiting for a bus outside the Shreveport office and offered her a ride.[^1]

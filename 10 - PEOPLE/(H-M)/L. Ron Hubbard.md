@@ -121,8 +121,12 @@ relations:
     end: 1993
     role: "tax-exemption dispute with the Church he founded, ended by the 1993 closing agreement"
     fn: 24
+  - type: relative_of
+    with: "[[Ronald E. DeWolf]]"
+    role: "father"
+    fn: 36
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-28
 ---
 
 Lafayette Ronald Hubbard was born at [[Tilden, Nebraska]], on March 13, 1911, according to a [[San Luis Obispo County]] Sheriff's record that the [[Federal Bureau of Investigation|FBI]]'s [[Los Angeles]] office transcribed in April 1967.[^1] The [[United States Navy]]'s personnel file on him, released from the [[National Archives and Records Administration|National Archives]], begins with a [[United States Marine Corps Reserve|Marine Corps Reserve]] certificate: he enlisted in the Marine Corps Reserve on May 1, 1930, was transferred to inactive status the same day, and was discharged by special order of the [[Commandant of the Marine Corps|Major General Commandant]] on October 22, 1931 as a first sergeant with character "Excellent."[^2]

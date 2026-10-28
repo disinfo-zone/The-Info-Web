@@ -15,8 +15,13 @@ summary: "Arkansas bond dealer who founded the Stephens investment house in 1933
 born: 1907-09-14
 died: 1991-12-02
 location: "Little Rock, Arkansas"
+relations:
+  - type: relative_of
+    with: "[[Jackson Stephens]]"
+    role: "brother"
+    fn: 1
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Witt Stephens (September 14, 1907 to December 2, 1991) was the founder of the firm that became [[Stephens Inc.]] and the elder brother of [[Jackson Stephens]]. He was born at [[Prattsville, Arkansas|Prattsville]] in [[Grant County, Arkansas|Grant County]], the second of six children, and left school after [[Sheridan High School (Arkansas)|Sheridan High School]]. He sold jewelry on the road from 1927, began trading municipal bonds in [[Little Rock, Arkansas|Little Rock]] in 1932, and in 1933 founded the W.R. Stephens Investment Company, which bought defaulted [[Arkansas]] bonds "for as little as ten cents on the dollar."[^1]

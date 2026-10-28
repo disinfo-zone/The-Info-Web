@@ -14,8 +14,22 @@ summary: "Gregory Bateson was the English anthropologist and systems thinker who
 born: 1904-05-09
 died: 1980-07-04
 location: "Grantchester, England; Big Sur and San Francisco, California"
+relations:
+  - type: spouse_of
+    with: "[[Margaret Mead]]"
+    start: 1936
+    end: 1950
+    fn: 2
+  - type: relative_of
+    with: "[[Mary Catherine Bateson]]"
+    role: "father"
+    fn: 2
+  - type: relative_of
+    with: "[[William Bateson]]"
+    role: "son"
+    fn: 1
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-10-28
 ---
 
 Gregory Bateson (May 9, 1904 to July 4, 1980) was an English anthropologist, social scientist, and systems theorist whose work crossed anthropology, psychiatry, biology, and communication theory. The youngest son of the Cambridge geneticist William Bateson, who had coined the word "genetics," he was born in Grantchester, near Cambridge, and educated at Charterhouse and St John's College, Cambridge, taking a degree in biology in 1925 before turning to anthropology. He conducted fieldwork in New Guinea and Bali, was married to the anthropologist [[Margaret Mead]], was one of the core participants in the [[Macy Conferences]] that founded [[Cybernetics|cybernetics]], formulated the double-bind theory of schizophrenia, spent his last years at the [[Esalen Institute]], and collected his essays in *Steps to an Ecology of Mind* (1972) and *Mind and Nature: A Necessary Unity* (1979). He died at the San Francisco Zen Center on July 4, 1980.[^1][^2]

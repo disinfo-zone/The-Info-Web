@@ -6,6 +6,12 @@ tags:
   - nicaraguan
   - contra-war
 summary: Jacinto Torres was one of the Nicaraguan Torres brothers who managed the East Los Angeles cocaine distribution hub for Danilo Blandón's trafficking network.
+relations:
+  - type: relative_of
+    with: "[[Edgar Torres]]"
+    role: "brother"
+    fn: 1
+updated: 2026-10-28
 ---
 Jacinto Torres was one of the Nicaraguan Torres brothers who managed the East [[Los Angeles]] [[Cocaine]] distribution hub for [[Danilo Blandon|Danilo Blandón]]'s trafficking network. Along with his brother [[Edgar Torres|Edgar]], Jacinto handled the distribution operations that moved Blandón's cocaine to street-level dealers.[^1]
 

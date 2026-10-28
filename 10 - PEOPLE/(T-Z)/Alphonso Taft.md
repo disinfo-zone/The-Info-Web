@@ -30,7 +30,7 @@ born: 1810-11-05
 died: 1891-05-21
 location: "Cincinnati, Ohio"
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 relations:
   - type: founded
     with: "[[Skull and Bones]]"
@@ -95,7 +95,7 @@ relations:
     fn: 2
   - type: relative_of
     with: "[[William Howard Taft]]"
-    role: "son (second marriage)"
+    role: "father (second marriage)"
     fn: 2
   - type: relative_of
     with: "[[Charles Phelps Taft]]"

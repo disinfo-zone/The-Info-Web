@@ -28,8 +28,12 @@ relations:
   - type: spouse_of
     with: "[[Clara Hoersch]]"
     fn: 7
+  - type: relative_of
+    with: "[[Eugene Horsch]]"
+    role: "grandfather"
+    fn: 1
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 Raymond C. Hoersch was a [[Bucks County, Pennsylvania|Bucks County]] mechanical engineer and a glider pilot of the [[United States Army Air Forces]] in the [[World War II|Second World War]], the father of the [[Philadelphia]] pornographer, counterfeiter, and fugitive [[R.C. Horsch]], who was born Raymond Charles Hoersch Jr. in 1943. He was born in Philadelphia on August 17, 1918, a son of [[Albert Hoersch]] and [[Helen E. Hoersch]] of West Chew Street in the [[Olney, Philadelphia|Olney]] section of Philadelphia, the house deeded to his grandson [[Eugene Horsch]] in 2007 and searched in the [[Olney House Investigation]] of 2026.[^1][^2][^3][^4]

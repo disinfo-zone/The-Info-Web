@@ -6,6 +6,12 @@ tags:
   - WW2
   - Nazi
 summary: "Cecile Beernaert, grandmother of witness Regina Louf (X1), operated a brothel at a hotel-villa in Knokke-Heist, Belgium, during World War II, catering to Nazi officers stationed in the area."
+relations:
+  - type: relative_of
+    with: "[[Regina Louf]]"
+    role: "grandmother"
+    fn: 1
+updated: 2026-10-28
 ---
 
 Cecile Beernaert, grandmother of witness [[Regina Louf]] (X1), operated a brothel at a hotel-villa in Knokke-Heist, Belgium, during World War II, catering to Nazi officers stationed in the area. Widowed after the war, Beernaert continued running establishments in the region, including a house in Knokke on the northwestern boundary of the [[Royal Zoute Golf Club]]. Louf claimed Beernaert prostituted her from age two at these locations, using the properties for sexual exploitation of young girls provided to clients including politicians and businessmen. Beernaert, known as Madame Cecile, managed the girls with threats of violence, including beatings with a metal ruler and gun pointed at temples for non-compliance. The brothel operated from the 1970s, with Louf describing two rooms: one for mutual acts between children, the other for quick encounters where men undressed minimally. Beernaert filmed some sessions and used a basement studio for pornography production, distributing materials through networks linked to [[Jean-Michel Nihoul]]. Louf's testimony in the [[X-Dossier]] identified the site as a venue for elite abusers, with clients arriving from the golf club.[^1]

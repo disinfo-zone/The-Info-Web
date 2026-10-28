@@ -9,6 +9,12 @@ summary: "However, news reports, specifically from the *Oceanside Blade-Citizen*
 born: 1946-12-14
 died: 1992-11-08
 location: "United Kingdom"
+relations:
+  - type: relative_of
+    with: "[[Greg Quarton]]"
+    role: "brother-in-law"
+    fn: 1
+updated: 2026-10-28
 ---
 [[Ian Stuart Spiro]] was a figure whose death was linked to a spy network and the [[Iran-Contra Affair]]. He was found dead of cyanide poisoning in the Anza-Borrego desert on November 8, 1992, one week after his wife and children were found shot to death in their Rancho Santa Fe home. His death was officially ruled a suicide, and the San Diego Sheriff's Department reportedly destroyed his files when the case was closed, stating he had no connection to the [[PROMIS]] software.[^1]
 

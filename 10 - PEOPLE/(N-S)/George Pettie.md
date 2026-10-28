@@ -2,8 +2,13 @@
 title: George Pettie
 aliases:
   - George Pettie
+relations:
+  - type: relative_of
+    with: "[[Marion Pettie]]"
+    role: "son"
+    fn: 1
 created: 2026-05-17
-updated: 2026-05-18
+updated: 2026-10-28
 category: "Other"
 tags:
   - Person

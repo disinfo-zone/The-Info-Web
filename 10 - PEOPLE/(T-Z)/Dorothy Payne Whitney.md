@@ -1,6 +1,6 @@
 ---
 created: 2026-10-09
-updated: 2026-10-26
+updated: 2026-10-28
 title: Dorothy Payne Whitney
 aliases:
   - Dorothy Payne Whitney
@@ -41,7 +41,7 @@ relations:
     fn: 3
   - type: relative_of
     with: "[[Michael Whitney Straight]]"
-    role: son
+    role: mother
     fn: 3
   - type: relative_of
     with: "[[Payne Whitney]]"

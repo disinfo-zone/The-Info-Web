@@ -24,8 +24,12 @@ relations:
     with: "[[R.C. Horsch]]"
     role: "grandfather"
     fn: 2
+  - type: relative_of
+    with: "[[Albert Hoersch Jr.]]"
+    role: "father"
+    fn: 2
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 Albert Hoersch (died July 1, 1972, aged 81) lived on West Chew Street in the [[Olney, Philadelphia|Olney]] section of [[Philadelphia]], the house later owned by his grandson, the pornographer and fugitive [[R.C. Horsch]], and from 2007 by his great-grandson [[Eugene Horsch]], and searched by the [[Philadelphia Police Department]] and the [[Federal Bureau of Investigation|FBI]] in the [[Olney House Investigation]] of 2026.[^1][^2][^3]

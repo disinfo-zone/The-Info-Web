@@ -5,6 +5,12 @@ tags:
   - Politician
   - Israel
 summary: "Tehran contact for the Hashemi brothers, head of the Dervish movement, and son-in-law of future Iranian president Rafsanjani."
+relations:
+  - type: relative_of
+    with: "[[Ali Akbar Hashemi Rafsanjani]]"
+    role: "son-in-law"
+    fn: 1
+updated: 2026-10-28
 ---
 
 [[Iran Najd Rankuni]] was the [[Tehran]] contact for the [[Hashemi brothers]]. He was the head of the Dervish movement and a son-in-law of [[Ali Akbar Hashemi Rafsanjani|Hojjat El-Islam Ali Akbar Hashemi Rafsanjani]], who was to become president of [[Iran]].[^1]

@@ -8,6 +8,16 @@ tags:
   - Nicaragua
   - 1980s
 summary: Former Nicaraguan ambassador to Guatemala and the FDN's representative in that country during the Contra war, identified by the FBI in 1982 as one of the cocaine suppliers to the Contra drug operation in San Francisco and brother of FDN officials Aristides and Troilo Sanchez.
+relations:
+  - type: relative_of
+    with: "[[Aristides Sanchez]]"
+    role: "brother"
+    fn: 2
+  - type: relative_of
+    with: "[[Troilo Sanchez]]"
+    role: "brother"
+    fn: 2
+updated: 2026-10-28
 ---
 Fernando Sanchez was the former [[Nicaragua|Nicaraguan]] ambassador to [[Guatemala]] under [[Anastasio Somoza|Somoza]] and served as the [[FDN]]'s representative in Guatemala during the Contra war.[^1] He was identified by the [[Federal Bureau of Investigation]] in 1982 as one of the [[Cocaine]] suppliers to the Contra drug operation in [[San Francisco]].[^2]
 

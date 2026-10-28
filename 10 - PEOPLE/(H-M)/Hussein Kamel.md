@@ -16,8 +16,17 @@ tags:
 summary: "Son-in-law of Saddam Hussein who ran Iraq's military industries and their Western procurement network, went unindicted in the BNL case, defected in 1995, and told United Nations inspectors that all the weapons had been destroyed."
 died: 1996-02-23
 location: "Baghdad, Iraq"
+relations:
+  - type: relative_of
+    with: "[[Saddam Hussein]]"
+    role: "son-in-law"
+    fn: 1
+  - type: relative_of
+    with: "[[Saddam Kamel]]"
+    role: "brother"
+    fn: 3
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Hussein Kamel al-Majid was a son-in-law of [[Saddam Hussein]] and the head of [[Iraq]]'s [[Ministry of Industry and Military Industrialization]], which directed its missile, chemical, biological, and nuclear programs in the 1980s.[^1]

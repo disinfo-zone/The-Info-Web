@@ -6,6 +6,11 @@ summary: "Exiled President of the Philippines whose stolen fortune was reportedl
 born: 1917-09-11
 died: 1989-09-28
 location: "Sarrat, Ilocos Norte, Philippines"
+relations:
+  - type: spouse_of
+    with: "[[Imelda Marcos]]"
+    fn: 1
+updated: 2026-10-28
 ---
 [[Ferdinand Marcos]] was the exiled President of the [[Philippines]]. His widow, [[Imelda Marcos]], was acquitted of racketeering and fraud alongside [[Adnan Khashoggi]] in 1990.[^1]
 

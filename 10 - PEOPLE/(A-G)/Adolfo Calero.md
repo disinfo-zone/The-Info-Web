@@ -6,7 +6,7 @@ aliases:
   - Adolpho Calero
   - Sparkplug
 created: 2026-05-17
-updated: 2026-10-08
+updated: 2026-10-28
 category: "Political Figure"
 tags:
   - Person
@@ -50,6 +50,10 @@ relations:
     end: 1986
     role: "recipient of third-country and private Contra funds; testified for the prosecution at North's 1989 trial"
     fn: 4
+  - type: relative_of
+    with: "[[Mario Calero]]"
+    role: "brother"
+    fn: 15
 ---
 Adolfo Calero Portocarrero was a [[Nicaragua|Nicaraguan]] businessman who led the political side of the [[FDN]], the largest [[Contras|Contra]] organization, during the war against the [[Sandinistas]]. The congressional [[Iran-Contra Affair|Iran-Contra]] Committees describe him as an accountant and businessman active in the movement against [[Anastasio Somoza]], who after the 1979 revolution became political coordinator of the Conservative Democratic Party, became an outspoken critic of the Sandinista government and joined the resistance after his office and home were attacked and he was forced into exile.[^1] He had attended the [[University of Notre Dame]] and headed the [[Coca-Cola]] bottling company in [[Managua]], and the [[Associated Press]] reported that he met Sandinista leaders in 1978 to look for common cause against Somoza.[^2] The New York Times editors' cast of characters to the Committees' report describes him as "North's chief contact with the rebels during the two-year ban on U.S. military aid" and as the Contra with "primary responsibility for distributing most private funds received by the Contras."[^3]
 

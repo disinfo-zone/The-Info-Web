@@ -20,8 +20,57 @@ summary: "Dallas oil billionaire who financed the Facts Forum and Life Line broa
 born: 1889-02-17
 died: 1974-11-29
 location: "Dallas, Texas"
+relations:
+  - type: spouse_of
+    with: "[[Lyda Bunker Hunt]]"
+    start: 1914-11-26
+    end: 1955
+    role: "married in Arkansas"
+    fn: 1
+  - type: spouse_of
+    with: "[[Frania Tye Lee]]"
+    start: 1925-11-11
+    role: "married in Florida under the name Franklin Hunt while married to Lyda Bunker"
+    fn: 6
+  - type: spouse_of
+    with: "[[Ruth Ray Hunt]]"
+    start: 1957-11
+    end: 1974
+    fn: 1
+  - type: relative_of
+    with: "[[Margaret Hunt Hill]]"
+    role: "father"
+    fn: 1
+  - type: relative_of
+    with: "[[Hassie Hunt]]"
+    role: "father"
+    fn: 1
+  - type: relative_of
+    with: "[[Caroline Rose Hunt]]"
+    role: "father"
+    fn: 1
+  - type: relative_of
+    with: "[[Nelson Bunker Hunt]]"
+    role: "father"
+    fn: 1
+  - type: relative_of
+    with: "[[William Herbert Hunt]]"
+    role: "father"
+    fn: 1
+  - type: relative_of
+    with: "[[Lamar Hunt]]"
+    role: "father"
+    fn: 1
+  - type: relative_of
+    with: "[[Ray Hunt]]"
+    role: "father"
+    fn: 1
+  - type: relative_of
+    with: "[[Hugh S. Hunt]]"
+    role: "father"
+    fn: 6
 created: 2025-08-05
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Haroldson Lafayette Hunt Jr. (February 17, 1889 to November 29, 1974) was a [[Dallas, Texas|Dallas]] oil producer whom [[Fortune (magazine)|Fortune]] named the richest man in the [[United States]] in 1948. He owned [[Hunt Oil Company]] and founded [[Placid Oil Company]], and from 1951 he paid for two tax-exempt broadcasting operations, [[Facts Forum]] and [[Life Line]], that carried anticommunist commentary to several hundred radio stations. He fathered fifteen children in three concurrent households. He wrote to [[Federal Bureau of Investigation|FBI]] Director [[J. Edgar Hoover]] from 1951 until 1971, and hired former FBI agents as his commentators and as his chief of security. On November 21, 1963, [[Jack Ruby]] drove a young woman to the Hunt offices in the [[Mercantile Securities Building|Mercantile building]] for an appointment with Hunt's son [[Lamar Hunt]]. Hunt did not testify before the [[Warren Commission]].[^1][^2][^3]

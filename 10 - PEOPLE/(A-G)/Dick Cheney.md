@@ -71,8 +71,16 @@ relations:
   - type: spouse_of
     with: "[[Lynne Cheney]]"
     fn: 38
+  - type: relative_of
+    with: "[[Liz Cheney]]"
+    role: "father"
+    fn: 39
+  - type: relative_of
+    with: "[[Mary Cheney]]"
+    role: "father"
+    fn: 39
 created: 2026-09-22
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 Richard Bruce Cheney was born in [[Lincoln, Nebraska]] on January 30, 1941, and grew up in [[Casper, Wyoming]]. He was a congressional fellow in 1968, worked at the [[Office of Economic Opportunity]] and the [[Cost of Living Council]], and was a vice president of the investment firm [[Bradley, Woods & Co.]] from 1973 to 1974. He was deputy assistant to President [[Gerald R. Ford]] in 1974 and 1975 and his chief of staff from 1975 to 1977. He represented Wyoming in the [[United States House of Representatives]] from January 3, 1979, until March 17, 1989, was [[Secretary of Defense]] from 1989 to 1993, was chief executive of [[Halliburton]] from 1995 to 2000, and was Vice President under [[George W. Bush]] from January 20, 2001, to January 20, 2009.[^1]

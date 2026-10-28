@@ -25,8 +25,12 @@ relations:
     with: "[[Open Philanthropy]]"
     role: "chair"
     fn: 10
+  - type: spouse_of
+    with: "[[Dustin Moskovitz]]"
+    start: 2013
+    fn: 3
 created: 2026-06-19
-updated: 2026-09-23
+updated: 2026-10-28
 ---
 
 Cari Tuna graduated from Yale and reported for *[[The Wall Street Journal]]*, writing, in the words of the *[[Stanford Social Innovation Review]]*, "about the California economy, gay marriage, and Turkish food in [[San Francisco]]." In December 2010, aged 25, she and [[Dustin Moskovitz]], then 26, became the youngest billionaires to sign the [[Giving Pledge]]; their pledge letter, written in Moskovitz's voice, thanked "a partner in Cari who shares my priorities" and promised to "donate and invest with both urgency and mindfulness." With Moskovitz occupied with [[Asana]], it fell to Tuna to manage their giving, and she quit reporting to study philanthropy.[^1][^2]

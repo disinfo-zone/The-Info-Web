@@ -21,8 +21,16 @@ relations:
     with: "[[Raymond C. Hoersch]]"
     role: "mother"
     fn: 2
+  - type: relative_of
+    with: "[[R.C. Horsch]]"
+    role: "grandmother"
+    fn: 1
+  - type: relative_of
+    with: "[[Helen M. Hoersch]]"
+    role: "mother"
+    fn: 2
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 Helen E. Hoersch, born Helen E. Wissman (died August 27, 1968), was the wife of [[Albert Hoersch]] of West Chew Street in the [[Olney, Philadelphia|Olney]] section of [[Philadelphia]], and the paternal grandmother of the pornographer and fugitive [[R.C. Horsch]]. The house was later owned by R.C. Horsch and from 2006 by his son [[Eugene Horsch]], and was searched in the [[Olney House Investigation]] of 2026.[^1][^2][^3]

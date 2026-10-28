@@ -5,6 +5,12 @@ tags:
   - OrganizedCrime
   - Mafia
 summary: "Sciandra was mentioned in FBI wiretaps, which captured conversations between Eugene Giaquinto and Martin Bacow."
+relations:
+  - type: relative_of
+    with: "[[Eugene Giaquinto]]"
+    role: "uncle"
+    fn: 1
+updated: 2026-10-28
 ---
 [[Edward Sciandra]], also known as The Conductor, was alleged in [[Federal Bureau of Investigation|FBI]] files to be the Underboss of the [[Bufalino Crime Family|Russell Bufalino La Cosa Nostra (LCN) family]]. He was under investigation in 1987 for various suspected offenses, including extortion, insider trading ([[Music Corporation of America|MCA]]/Universal), the purchase and sale of narcotics/controlled substances, and the allocation and use of the proceeds of its trafficking.[^1]
 

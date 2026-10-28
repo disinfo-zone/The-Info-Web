@@ -15,8 +15,25 @@ summary: "Eldest child of H.L. Hunt, his business aide, trustee of her lobotomiz
 born: 1915-10-19
 died: 2007
 location: "Dallas, Texas"
+relations:
+  - type: spouse_of
+    with: "[[Albert Galatyn Hill]]"
+    start: 1938-10-15
+    fn: 1
+  - type: relative_of
+    with: "[[Lyda Hill]]"
+    role: "mother"
+    fn: 1
+  - type: relative_of
+    with: "[[Al Hill III]]"
+    role: "grandmother"
+    fn: 4
+  - type: relative_of
+    with: "[[Hassie Hunt]]"
+    role: "sister"
+    fn: 2
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Margaret Hunt was born at [[Lake Village, Arkansas]], on October 19, 1915, the first child of [[H.L. Hunt]] and [[Lyda Bunker Hunt]]. On October 15, 1938, she married Albert Galatyn Hill, an accountant at [[Hunt Oil Company|Hunt Oil]], who stayed with the company. She "worked for her father as a business aide and confidante, acquiring training available to few other men or women." When Hunt's bigamous wife [[Frania Tye Lee|Frania Tye]] came to a [[Dallas, Texas|Dallas]] hotel room to settle with him she found the twenty-five-year-old Margaret there with her father. Her daughter, [[Lyda Hill|Lyda Hunt Hill]], born in the fall of 1942, was Hunt's first grandchild.[^1]

@@ -24,7 +24,7 @@ born: 1895-12-24
 died: 1978-02-16
 location: "New York, New York"
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 relations:
   - type: relative_of
     with: "[[W. Averell Harriman]]"
@@ -100,6 +100,14 @@ relations:
     start: 1962
     role: "Chairman of the board, per Creamer (1962) and Kouwenhoven (1968)"
     fn: 52
+  - type: relative_of
+    with: "[[Elbridge T. Gerry]]"
+    role: "uncle"
+    fn: 48
+  - type: relative_of
+    with: "[[Mary Williamson Averell Harriman]]"
+    role: "son"
+    fn: 6
 ---
 E. Roland Harriman (Edward Roland Noel Harriman, December 24, 1895 to February 16, 1978) was the younger son of the railroad financier [[E. H. Harriman]] and the brother of [[W. Averell Harriman]]. He was a member of [[Skull and Bones]] in the [[Yale University]] class of 1917, organized the banking house of [[Harriman Brothers & Co.]] with his brother, became a partner of [[Brown Brothers Harriman]], and was the largest registered holder of [[Union Banking Corporation]] when the [[Alien Property Custodian]] vested the company in 1942. He was chairman of the board of the [[Union Pacific Railroad]] from 1946 to 1969 and, by appointment of the President of the United States, the principal officer of the [[American Red Cross]] from December 1, 1950 to March 31, 1973.[^1]
 

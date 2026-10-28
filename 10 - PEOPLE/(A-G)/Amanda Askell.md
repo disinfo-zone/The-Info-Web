@@ -13,8 +13,14 @@ tags:
 summary: "Amanda Askell is the philosopher who leads the team shaping the character of Anthropic's Claude and is the principal author of its Constitution, an NYU-trained ethicist from the effective-altruism movement who was formerly married to its cofounder William MacAskill."
 born: 1988
 location: "San Francisco, California"
+relations:
+  - type: spouse_of
+    with: "[[William MacAskill]]"
+    start: 2013
+    end: 2015
+    fn: 4
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-10-28
 ---
 
 Amanda Askell (born Amanda Hall, 1988) is a British-American philosopher who leads the team responsible for the "character" of [[Anthropic]]'s Claude models and is the principal author of the document Anthropic calls Claude's Constitution. Trained as an analytic philosopher with a doctorate from [[New York University]], she came out of the [[Effective Altruism]] movement, worked at [[OpenAI]] before joining Anthropic, and was for two years married to the movement's cofounder [[William MacAskill]].[^1][^2]

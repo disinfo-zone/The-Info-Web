@@ -8,6 +8,12 @@ tags:
   - 1980s
   - Contra_War
 summary: Nicaraguan attorney and son-in-law of General Edmundo Meneses who served as Adolfo Calero's personal lawyer and was publicly accused by the Sandinistas of being a CIA agent involved in a foiled plot to poison Nicaragua's foreign minister.
+relations:
+  - type: relative_of
+    with: "[[Edmundo Meneses]]"
+    role: "son-in-law"
+    fn: 1
+updated: 2026-10-28
 ---
 Carlos Icaza was a Nicaraguan attorney and son-in-law of General [[Edmundo Meneses]] who served as the personal attorney of [[Adolfo Calero]] and was publicly accused by the [[Sandinistas]] of being a [[Central Intelligence Agency]] agent. Before the 1979 revolution, Calero had been a CIA agent himself, and Icaza was deeply embedded in the pre-revolution [[Nicaragua|Nicaraguan]] power structure.[^1]
 

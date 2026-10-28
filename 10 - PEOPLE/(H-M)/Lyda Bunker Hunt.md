@@ -14,8 +14,37 @@ summary: "Arkansas schoolteacher who married H.L. Hunt in 1914, bore the six chi
 born: 1889
 died: 1955-05-06
 location: "Dallas, Texas"
+relations:
+  - type: relative_of
+    with: "[[Margaret Hunt Hill]]"
+    role: "mother"
+    fn: 1
+  - type: relative_of
+    with: "[[Hassie Hunt]]"
+    role: "mother"
+    fn: 1
+  - type: relative_of
+    with: "[[Caroline Rose Hunt]]"
+    role: "mother"
+    fn: 1
+  - type: relative_of
+    with: "[[Nelson Bunker Hunt]]"
+    role: "mother"
+    fn: 1
+  - type: relative_of
+    with: "[[William Herbert Hunt]]"
+    role: "mother"
+    fn: 1
+  - type: relative_of
+    with: "[[Lamar Hunt]]"
+    role: "mother"
+    fn: 1
+  - type: relative_of
+    with: "[[Nelson W. Bunker]]"
+    role: "daughter"
+    fn: 1
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Lyda Bunker was the daughter of Nelson W. "Pop" Bunker of [[Lake Village, Arkansas]], a carpenter from the North who had come after the [[American Civil War|Civil War]] and become a storekeeper, cotton ginner, landlord, postmaster, and lender of money. The family traced its descent to the whaling captains of [[Nantucket]]. She studied at Maddox Seminary in [[Little Rock, Arkansas|Little Rock]] and Potter College in [[Bowling Green, Kentucky]], where she took voice, and taught school at [[Jonesboro, Arkansas]].[^1]

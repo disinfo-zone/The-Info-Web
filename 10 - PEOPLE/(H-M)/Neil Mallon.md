@@ -24,7 +24,7 @@ born: 1895-01-11
 died: 1983
 location: "Dallas, Texas"
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-28
 relations:
   - type: member_of
     with: "[[Skull and Bones]]"
@@ -54,6 +54,18 @@ relations:
     role: "director of the Dallas uranium exploration company"
     start: 1955
     fn: 23
+  - type: relative_of
+    with: "[[Hannah Neil]]"
+    role: "son"
+    fn: 1
+  - type: relative_of
+    with: "[[Neil Bernard Mallon]]"
+    role: "nephew"
+    fn: 1
+  - type: relative_of
+    with: "[[John Howard Mallon]]"
+    role: "brother"
+    fn: 1
 ---
 
 Henry Neil Mallon (born January 11, 1895, in [[Cincinnati, Ohio]]) was a member of [[Skull and Bones]] in the [[Yale University]] class of 1917 who served as president and chief executive of [[Dresser Industries]] from 1928 until his retirement in 1962.[^1][^2] He founded the [[Dallas Council on World Affairs]] in 1951,[^3] corresponded with [[Allen Dulles]] in the 1950s,[^4] and hired [[George H.W. Bush]] for a Dresser subsidiary after Bush left Yale in 1948.[^5]

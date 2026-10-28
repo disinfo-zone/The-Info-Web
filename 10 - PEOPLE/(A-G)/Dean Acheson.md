@@ -1,6 +1,6 @@
 ---
 created: 2026-05-15
-updated: 2026-10-26
+updated: 2026-10-28
 title: Dean Acheson
 aliases:
   - Dean Gooderham Acheson
@@ -24,7 +24,7 @@ relations:
     fn: 4
   - type: relative_of
     with: "[[William P. Bundy]]"
-    role: "son-in-law; William P. Bundy married Mary Acheson in 1943"
+    role: "father-in-law; William P. Bundy married Mary Acheson in 1943"
     start: 1943
     fn: 6
 ---

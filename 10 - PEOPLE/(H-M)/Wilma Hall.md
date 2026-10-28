@@ -5,6 +5,12 @@ tags:
   - IranContra
   - Israel
 summary: "Secretary to Robert McFarlane at the NSC and mother of Fawn Hall who helped expose McFarlane's contacts with Rafi Eitan."
+relations:
+  - type: relative_of
+    with: "[[Fawn Hall]]"
+    role: "mother"
+    fn: 1
+updated: 2026-10-28
 ---
 
 [[Wilma Hall]] was the secretary to [[Robert McFarlane]] at the [[National Security Council]]. She is also the mother of [[Fawn Hall]], who was [[Oliver North|Oliver North's]] secretary.[^1]

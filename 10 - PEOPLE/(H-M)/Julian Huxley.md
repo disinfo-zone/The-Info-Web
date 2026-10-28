@@ -15,8 +15,17 @@ summary: "Julian Huxley was the evolutionary biologist who coined the modern usa
 born: 1887-06-22
 died: 1975-02-14
 location: "London, England; Paris, France"
+relations:
+  - type: relative_of
+    with: "[[Aldous Huxley]]"
+    role: "brother"
+    fn: 1
+  - type: relative_of
+    with: "[[Thomas Henry Huxley]]"
+    role: "grandson"
+    fn: 1
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-10-28
 ---
 
 Julian Sorell Huxley (June 22, 1887 to February 14, 1975) was an English evolutionary biologist, science popularizer, and eugenicist who coined the modern usage of "[[Transhumanism|transhumanism]]" in 1957. He was the grandson of the Darwinian biologist Thomas Henry Huxley and the elder brother of the novelist [[Aldous Huxley]]. He was an architect of the "modern synthesis" of Darwinian selection and Mendelian genetics, the first Director-General of [[UNESCO]] from 1946 to 1948, a cofounder of the [[World Wildlife Fund]] in 1961, and president of the British [[Eugenics|Eugenics]] Society from 1959 to 1962. He was knighted in 1958.[^1][^2]

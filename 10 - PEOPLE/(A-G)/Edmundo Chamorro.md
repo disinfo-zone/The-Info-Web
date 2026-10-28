@@ -6,6 +6,12 @@ tags:
   - nicaraguan
   - contra-war
 summary: Edmundo Chamorro was the deputy commander of the UDN-FARN Contra faction, described by the DEA as "well known to The Company," and was captured on Costa Rican wiretaps discussing cocaine shipments.
+relations:
+  - type: relative_of
+    with: "[[Fernando Chamorro]]"
+    role: "brother"
+    fn: 1
+updated: 2026-10-28
 ---
 Edmundo Chamorro was the deputy commander of the [[UDN-FARN]] [[Contras|Contra]] faction on [[Costa Rica]]'s Southern Front, described by a 1984 [[DEA]] report as "well known to 'The Company.'" His brother, [[Fernando Chamorro|Fernando "El Negro" Chamorro]], commanded UDN-FARN and was described by the [[Central Intelligence Agency]] as "playing a key role" in the organization.[^1]
 

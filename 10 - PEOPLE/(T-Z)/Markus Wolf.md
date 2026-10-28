@@ -20,6 +20,16 @@ summary: "Markus Wolf (1923-2006), 'the man without a face,' directed the Stasi'
 born: 1923-01-19
 died: 2006-11-09
 location: "Berlin, Germany"
+relations:
+  - type: relative_of
+    with: "[[Friedrich Wolf]]"
+    role: "son"
+    fn: 1
+  - type: relative_of
+    with: "[[Konrad Wolf]]"
+    role: "brother"
+    fn: 1
+updated: 2026-10-28
 ---
 
 Markus Wolf was born January 19, 1923, in Hechingen, [[Germany]], into a left-wing intellectual Jewish family. His father, [[Friedrich Wolf]], was a playwright and physician; his brother [[Konrad Wolf]] became a prominent East German filmmaker. The family fled Nazi Germany in 1934, eventually reaching the [[Soviet Union]]. Markus Wolf spent the years of the Third Reich in Moscow, where he received his education and became integrated into Soviet communist networks. He died November 9, 2006, in [[Berlin]], on the seventeenth anniversary of the fall of the Berlin Wall.[^1]

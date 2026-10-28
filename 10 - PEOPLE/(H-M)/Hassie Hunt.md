@@ -16,8 +16,17 @@ summary: "Eldest son of H.L. Hunt, an oil finder worth millions at twenty-four, 
 born: 1917-11-23
 died: 2005
 location: "Dallas, Texas"
+relations:
+  - type: relative_of
+    with: "[[Nelson Bunker Hunt]]"
+    role: "brother"
+    fn: 4
+  - type: relative_of
+    with: "[[Ruth Ray Hunt]]"
+    role: "stepson"
+    fn: 5
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Haroldson Lafayette Hunt Jr., called Hassie, was born at [[Lake Village, Arkansas]], on November 23, 1917, the second child and first son of [[H.L. Hunt]] and [[Lyda Bunker Hunt]]. His father gave him his own name rather than styling him the third. He was sent to [[Culver Military Academy]], did not marry, and drilled for oil as the Hassie [[Hunt Production Company]] from an office at [[Hunt Oil Company|Hunt Oil]]. "By the age of twenty-four, Hassie claimed ten thousand barrels a day in oil production," an income of about four million dollars a year. His father believed he found oil by mystical powers. Father and son competed for leases, and their arguments came to blows. On some days he came to the office barefoot with his shoes hung round his neck. Hunt assigned a man to look after him full time.[^1]

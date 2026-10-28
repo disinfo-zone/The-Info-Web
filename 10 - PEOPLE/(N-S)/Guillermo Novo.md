@@ -13,8 +13,13 @@ tags:
   - Terrorism
 summary: "Head of the northern zone of the Cuban Nationalist Movement who fired a bazooka at the United Nations in 1964, visited Pinochet's Chile in 1974, and supplied Michael Townley with explosives for the Letelier bomb."
 location: "Union City, New Jersey"
+relations:
+  - type: relative_of
+    with: "[[Ignacio Novo]]"
+    role: "brother"
+    fn: 2
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-28
 ---
 
 Guillermo Novo led the northern zone of the [[Cuban Nationalist Movement]] from [[Union City, New Jersey]]. He "was not a refugee from the Castro government, having left Cuba in 1952, seven years before Castro took power. Also, he had never worked for the CIA." Investigators met "a rather dapper man, given to three-piece pinstripe suits." An agent of the [[Federal Bureau of Investigation|FBI]]'s [[Newark, New Jersey|Newark]] office knew him as "an accomplished fund raiser and public speaker, a man of considerable philosophical knowledge, who would blow out a store window or dent the hull of a Russian ship, but who was not a killer."[^1]

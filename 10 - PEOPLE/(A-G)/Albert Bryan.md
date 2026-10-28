@@ -49,8 +49,16 @@ relations:
     with: "[[Yolanda Bryan]]"
     role: "husband"
     fn: 3
+  - type: relative_of
+    with: "[[Albert Bryan Sr.]]"
+    role: "son"
+    fn: 1
+  - type: relative_of
+    with: "[[Genevieve Pilgrim]]"
+    role: "son"
+    fn: 1
 created: 2026-09-25
-updated: 2026-09-25
+updated: 2026-10-28
 ---
 
 Albert Bryan Jr. is the ninth governor of the [[U.S. Virgin Islands]], in office since January 7, 2019. He served as the territory's Commissioner of Labor under Governor [[John de Jongh]] from 2007 to 2015 and, while still Labor Commissioner, chaired the [[Economic Development Commission]], the tax-incentive body that on January 24, 2014 issued [[Jeffrey Epstein|Jeffrey Epstein's]] [[Southern Trust Company]] a certificate of benefits bearing Bryan's signature. As governor he appointed [[Denise George]] as attorney general in 2019 and fired her on December 31, 2022, four days after she sued [[JPMorgan Chase]] over its handling of Epstein's accounts. George later told the [[Federal Bureau of Investigation]] that Bryan had pressed her for a waiver of Epstein's sex-offender travel-reporting requirement and later to settle the territory's case against the Epstein estate for less than it recovered. Bryan has denied that Epstein received any special treatment from his administration.[^1][^2][^3][^4]

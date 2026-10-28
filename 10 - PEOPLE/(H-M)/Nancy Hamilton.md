@@ -1,7 +1,12 @@
 ---
 category: "Business & Finance"
+relations:
+  - type: relative_of
+    with: "[[Patricia Hamilton]]"
+    role: "mother"
+    fn: 1
 created: 2024-04-25
-updated: 2026-05-01
+updated: 2026-10-28
 tags:
   - Person
   - PROMIS
